@@ -20,7 +20,7 @@ if os.path.exists('config.json'):
     except Exception: _cfg = {}
 if _cfg.get('supabaseUrl') and _cfg.get('supabaseAnonKey'):
     _inj = ('<script>window.TWG_CONFIG=' + _json.dumps({'supabaseUrl': _cfg['supabaseUrl'], 'supabaseAnonKey': _cfg['supabaseAnonKey'], 'aiEndpoint': False}) + '</script>'
-            '<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>'
+            '<script src="vendor/supabase-2.119.0.js"></script>'
             '<script>' + open('shim.js').read() + '</script>')
     h = h.replace('<script>', _inj + '<script>', 1)
     print('accounts: ON')
@@ -33,7 +33,8 @@ h = re.sub(r'(<a class="brand"[^>]*><img class="logo" src=")data:image/[a-z]+;ba
 h = re.sub(r'(<img class="wmi lt" src=")data:image/[a-z]+;base64,[^"]+("[^>]*?)width="206" height="62"', r'\1../img/wordmark.webp\2width="206" height="80"', h, count=1)
 h = re.sub(r'(<img class="wmi dk" src=")data:image/[a-z]+;base64,[^"]+("[^>]*?)width="206" height="62"', r'\1../img/wordmark-light.webp\2width="206" height="80"', h, count=1)
 h = h.replace('</head>', '<style>header.top .brand .logo{height:72px!important;width:auto!important;max-height:none!important}header.top .brand .wmi{height:52px;width:auto}@media(max-width:600px){header.top .brand .logo{height:60px!important}header.top .brand .wmi{height:42px}}</style></head>', 1)
-os.makedirs('pkg/app',exist_ok=True)
+os.makedirs('pkg/app/vendor',exist_ok=True)
+import shutil as _shv; _shv.copyfile('vendor/supabase-2.119.0.js','pkg/app/vendor/supabase-2.119.0.js')
 open('pkg/app/index.html','w').write(h); print(len(h))
 import shutil, os
 src='../tts/audio3' if os.path.isdir('../tts/audio3/en') else '../tts/audio2'
