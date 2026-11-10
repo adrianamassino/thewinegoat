@@ -409,6 +409,63 @@ html,body{overflow-x:clip}
 .brand .emb{height:84px}.brand .wm{height:66px}
 .foot .brand .emb{height:110px}.foot .brand .wm{height:84px}
 @media(max-width:760px){.brand .emb{height:60px}.brand .wm{height:46px}}
+
+/* ================= v9: same visual world as the app — bubbles, wine, goats that hop, chunky buttons ================= */
+@keyframes rise{0%{transform:translate3d(0,0,0) scale(.6);opacity:0}10%{opacity:.9}100%{transform:translate3d(var(--dx,0),-110vh,0) scale(1.1);opacity:0}}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(var(--r0,-6deg))}50%{transform:translateY(-14px) rotate(var(--r1,6deg))}}
+@keyframes hop{0%,100%{transform:translateY(0) rotate(0)}12%{transform:translateY(4px) scale(1.03,.96)}30%{transform:translateY(-34px) rotate(-4deg)}48%{transform:translateY(0) rotate(2deg)}56%{transform:translateY(-10px)}64%{transform:translateY(0)}}
+@keyframes jump1{0%,100%{transform:translateY(0)}25%{transform:translateY(-22px) rotate(-5deg)}50%{transform:translateY(0) rotate(3deg)}65%{transform:translateY(-8px)}80%{transform:translateY(0)}}
+@keyframes pop{0%{transform:scale(.3);opacity:1}100%{transform:translate(var(--bx),var(--by)) scale(1);opacity:0}}
+@keyframes shine{0%{background-position:-200% 0}100%{background-position:200% 0}}
+.fxb{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0}
+.fxb i{position:absolute;bottom:-30px;border-radius:50%;background:radial-gradient(circle at 30% 30%,rgba(255,255,255,.95),rgba(255,235,190,.55) 40%,rgba(212,162,58,.25) 70%,transparent 72%);box-shadow:inset 0 0 0 1px rgba(212,162,58,.35);animation:rise linear infinite}
+.hero .fxb i{background:radial-gradient(circle at 30% 30%,#fff,rgba(246,227,232,.8) 45%,rgba(194,24,91,.18) 70%,transparent 72%);box-shadow:inset 0 0 0 1px rgba(140,29,64,.18)}
+.fxp{position:absolute;pointer-events:none;z-index:1;font-size:34px;animation:bob 5s ease-in-out infinite;filter:drop-shadow(0 6px 10px rgba(42,27,32,.18))}
+.hero .wrap,.freeband .wrap,.sec.dark .wrap,.sec.final .wrap{position:relative;z-index:2}
+.hero-art .hg{animation:hop 4.6s ease-in-out 1.2s infinite;transform-origin:50% 100%;cursor:pointer}
+.sg{pointer-events:auto;cursor:pointer;transform-origin:50% 100%}
+.sg.hop,.freegoat.hop,.final-g img.hop{animation:jump1 .9s ease-out}
+/* app-like cards for everything you can do */
+.mts{gap:16px}
+.mt{border:0;color:#fff;background:var(--c1,#7a1d5a);background-image:radial-gradient(rgba(255,255,255,.16) 2px,transparent 2.5px),linear-gradient(135deg,var(--c1,#8a2366),var(--c2,#5b1446));background-size:26px 26px,100% 100%;box-shadow:0 6px 0 var(--c3,#3e0d2f),0 16px 30px rgba(42,27,32,.18);overflow:hidden;min-height:170px}
+.mt:hover{transform:translateY(-4px) rotate(-.4deg);box-shadow:0 10px 0 var(--c3,#3e0d2f),0 22px 40px rgba(42,27,32,.22);color:#fff;border:0}
+.mt:active{transform:translateY(3px);box-shadow:0 2px 0 var(--c3,#3e0d2f)}
+.mt .mic{background:#fff!important;border-radius:50%;width:58px;height:58px;font-size:30px;box-shadow:0 4px 0 rgba(0,0,0,.15)}
+.mt .mtx b{color:#fff;font-size:20px}.mt .mtx small{color:rgba(255,255,255,.85)}
+.mt .mcnt,.mt .mcnt b{color:#ffd98a}
+.mt .mgo{color:#2a1b20;background:#ffd98a;align-self:flex-start;padding:7px 14px;border-radius:999px;font-weight:900;box-shadow:0 3px 0 #b8862c}
+.mt:nth-child(6n+1){--c1:#8a2366;--c2:#5b1446;--c3:#3e0d2f}
+.mt:nth-child(6n+2){--c1:#1f6f6b;--c2:#134a48;--c3:#0b3331}
+.mt:nth-child(6n+3){--c1:#3d7a35;--c2:#255320;--c3:#183a14}
+.mt:nth-child(6n+4){--c1:#b5482f;--c2:#7d2c1c;--c3:#561c11}
+.mt:nth-child(6n+5){--c1:#4b3a8f;--c2:#2f2366;--c3:#1e1647}
+.mt:nth-child(6n+6){--c1:#a8722a;--c2:#77501a;--c3:#523610}
+.mt.mt-plan{--c1:#c2185b;--c2:#7a1d3a;--c3:#4f0f25;grid-column:span 2}
+.mt.mt-plan .mtx b{font-size:24px}
+@media (max-width:760px){.mt.mt-plan{grid-column:1/-1}.mt{min-height:140px}}
+/* chunky, pressable buttons (Duolingo feel) */
+.btn{border-radius:16px;font-weight:800;letter-spacing:.01em}
+.btn-primary{box-shadow:0 5px 0 #5a1029;border:0}.btn-primary:hover{transform:translateY(-2px);box-shadow:0 7px 0 #5a1029}.btn-primary:active{transform:translateY(3px);box-shadow:0 2px 0 #5a1029}
+.btn-gold{box-shadow:0 5px 0 #a87a22;border:0}.btn-gold:hover{transform:translateY(-2px);box-shadow:0 7px 0 #a87a22}.btn-gold:active{transform:translateY(3px);box-shadow:0 2px 0 #a87a22}
+.btn-ghost{border-width:2px;box-shadow:0 4px 0 var(--wine)}.btn-ghost:active{transform:translateY(3px);box-shadow:0 1px 0 var(--wine)}
+.hero .ctas .btn{min-height:58px;font-size:18px;padding:14px 28px}
+/* quiz answers like the app: big, rounded, 3D */
+.opt,.qo{border-radius:16px!important;border:2px solid var(--line)!important;border-bottom-width:5px!important;transition:transform .08s}
+.opt:active,.qo:active{transform:translateY(2px)}
+.opt.ok,.qo.ok{border-color:#2e7d32!important;background:#e8f5e9!important}
+.opt.ko,.qo.ko{border-color:#c62828!important;background:#fdecea!important;animation:shake .35s}
+@keyframes shake{25%{transform:translateX(-6px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
+.burst{position:fixed;width:12px;height:12px;border-radius:50%;pointer-events:none;z-index:90;animation:pop .8s ease-out forwards}
+/* headings get a little wine drop */
+.sec h2{position:relative}
+.stat{box-shadow:0 6px 0 #4f0f25,0 14px 30px rgba(110,21,50,.22)}
+.qcard{border-bottom:6px solid #eadfd4}
+@media (prefers-reduced-motion:reduce){.fxb,.fxp{display:none}.hero-art .hg,.sg.hop{animation:none!important}}
+.fxp{z-index:0}
+@media (max-width:760px){.fxp{display:none}}
+.menu{flex-wrap:nowrap;white-space:nowrap}
+@media (max-width:1320px){.menu a[href="#faq"]{display:none}}
+@media (max-width:1180px) and (min-width:761px){.brand .emb{height:70px}.brand .wm{height:54px}}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "@id": "https://thewinegoat.com/#org", "name": "The Wine Goat", "url": "https://thewinegoat.com/", "logo": "https://thewinegoat.com/img/logo.png", "sameAs": ["https://www.instagram.com/the.winegoat/"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "@id": "https://thewinegoat.com/#site", "name": "The Wine Goat", "url": "https://thewinegoat.com/", "inLanguage": ["it", "fr", "es", "en"], "publisher": {"@id": "https://thewinegoat.com/#org"}}</script>
@@ -630,6 +687,28 @@ function demoStart(){if(demoOn)return;var box=$('#demo');if(!box)return;demoOn=t
   (function step(){if(li>=lines.length){setTimeout(function(){box.textContent='';li=0;ci=0;step();},2600);return;}
     ci++;box.textContent=lines.slice(0,li).join(' ')+(li?' ':'')+lines[li].slice(0,ci);
     if(ci>=lines[li].length){li++;ci=0;setTimeout(step,700);}else setTimeout(step,38);})();}
+/* ---- v9: living page — rising bubbles, drifting wine props, goats that hop, bubble burst on right answers ---- */
+(function(){ var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches; if(RM) return;
+  function bubbles(sel,n){ $$(sel).forEach(function(s){ var b=document.createElement('div'); b.className='fxb'; b.setAttribute('aria-hidden','true');
+    for(var k=0;k<n;k++){ var i=document.createElement('i'), z=6+Math.random()*22; i.style.width=i.style.height=z+'px'; i.style.left=(Math.random()*100)+'%';
+      i.style.animationDuration=(7+Math.random()*9)+'s'; i.style.animationDelay=(-Math.random()*14)+'s'; i.style.setProperty('--dx',(Math.random()*60-30)+'px'); b.appendChild(i); }
+    s.style.position=s.style.position||'relative'; s.insertBefore(b,s.firstChild); }); }
+  bubbles('.hero',18); bubbles('.freeband',14); bubbles('.sec.dark',14); bubbles('.sec.final',16);
+  var hero=$('.hero'); if(hero){ var P=[['🍷',6,18],['🍇',44,8],['🥂',88,62],['🍾',3,70],['📚',52,86],['🍇',92,14]];
+    P.forEach(function(p,k){ var e=document.createElement('span'); e.className='fxp'; e.textContent=p[0]; e.setAttribute('aria-hidden','true'); e.style.left=p[1]+'%'; e.style.top=p[2]+'%';
+      e.style.animationDelay=(k*.7)+'s'; e.style.animationDuration=(4.5+k*.6)+'s'; e.style.fontSize=(26+(k%3)*8)+'px'; e.style.opacity=.85; hero.appendChild(e); }); }
+  /* goats hop when they come into view, and when tapped */
+  var gs=$$('.sg,.freegoat,.final-g img'); function hop(g){ g.classList.remove('hop'); void g.offsetWidth; g.classList.add('hop'); }
+  if('IntersectionObserver' in window){ var io=new IntersectionObserver(function(es){ es.forEach(function(x){ if(x.isIntersecting){ hop(x.target); } }); },{threshold:.6}); gs.forEach(function(g){ io.observe(g); }); }
+  gs.concat($$('.hero-art .hg')).forEach(function(g){ g.addEventListener('click',function(){ hop(g); burst(g.getBoundingClientRect()); }); });
+  /* bubble burst on every right answer */
+  var last=null; document.addEventListener('pointerdown',function(e){ last=e.target.closest('.opt,.qo,button'); },true);
+  function burst(r){ var C=['#d4a23a','#c2185b','#8c1d40','#ffd98a','#7a1d3a','#fff2c7'];
+    for(var k=0;k<16;k++){ var d=document.createElement('span'); d.className='burst'; d.style.left=(r.left+r.width/2)+'px'; d.style.top=(r.top+r.height/2)+'px';
+      d.style.background=C[k%C.length]; var a=Math.random()*Math.PI*2, v=50+Math.random()*90; d.style.setProperty('--bx',Math.cos(a)*v+'px'); d.style.setProperty('--by',Math.sin(a)*v-30+'px');
+      document.body.appendChild(d); setTimeout(function(x){ return function(){ x.remove(); }; }(d),900); } }
+  var _rec=TWGP.rec; TWGP.rec=function(id,ok){ _rec(id,ok); if(ok&&last){ burst(last.getBoundingClientRect()); } };
+})();
 })();
 /* ---- local currency: the visitor's country picks the currency (no external service) ---- */
 (function(){ try{ var D=JSON.parse(document.getElementById('trial-data').textContent).cur; if(!D) return;
@@ -645,6 +724,7 @@ function demoStart(){if(demoOn)return;var box=$('#demo');if(!box)return;demoOn=t
   document.querySelectorAll('.pr[data-p]').forEach(function(el){ var k=el.getAttribute('data-p'); if(V[k]!=null) el.textContent=f.format(V[k]); });
   var sel=document.getElementById('cursel'); if(sel){ sel.value=cur; sel.addEventListener('change',function(){ try{localStorage.setItem('twg-cur',sel.value);}catch(e){} location.reload(); }); }
 }catch(e){} })();
+
 </script>
 </body>
 </html>
