@@ -242,9 +242,9 @@ def page(c):
 
 # ---- v2 template (interactive home, free Bordeaux, modules) ----
 sys.path.insert(0, BASE)
-import page_v2
+import page_v2, page_v3
 _bdx = json.load(open(os.path.join(SD, 'lp_bdx.json'), encoding='utf-8'))
-page, jsonld = page_v2.build(dict(DOMAIN=DOMAIN, LANGS=LANGS, L=L, APP=APP, INSTAGRAM=INSTAGRAM, counts=counts, bdx=_bdx,
+page, jsonld = page_v3.build(dict(DOMAIN=DOMAIN, LANGS=LANGS, L=L, APP=APP, INSTAGRAM=INSTAGRAM, counts=counts, bdx=_bdx,
                                   open=OPEN_SAMPLE, CSS=CSS, JS=JS, alternates=alternates, url=url, icon=icon))
 
 def router():
