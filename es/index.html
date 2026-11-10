@@ -466,6 +466,12 @@ html,body{overflow-x:clip}
 .menu{flex-wrap:nowrap;white-space:nowrap}
 @media (max-width:1320px){.menu a[href="#faq"]{display:none}}
 @media (max-width:1180px) and (min-width:761px){.brand .emb{height:70px}.brand .wm{height:54px}}
+
+/* v10: links to the guides and region pages (internal linking) */
+.seolinks{padding:40px 20px}.seolinks h2{font-size:clamp(22px,3vw,30px)}
+.seolinks ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.seolinks a{display:block;padding:8px 12px;border-radius:999px;background:#fff;border:1.5px solid var(--line);text-decoration:none;font-weight:600;font-size:14px}
+.seolinks a:hover{border-color:var(--wine)}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "@id": "https://thewinegoat.com/#org", "name": "The Wine Goat", "url": "https://thewinegoat.com/", "logo": "https://thewinegoat.com/img/logo.png", "sameAs": ["https://www.instagram.com/the.winegoat/"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "@id": "https://thewinegoat.com/#site", "name": "The Wine Goat", "url": "https://thewinegoat.com/", "inLanguage": ["it", "fr", "es", "en"], "publisher": {"@id": "https://thewinegoat.com/#org"}}</script>
@@ -572,7 +578,7 @@ html,body{overflow-x:clip}
  <div class="wrap final-g"><img src="../img/goats/final.webp" alt="" width="411" height="474" loading="lazy"><div><h2>Tu examen WSET 3 empieza hoy</h2><p>Seis preguntas gratis, sin tarjeta: descubre ahora mismo en qué punto estás.</p><a class="btn btn-gold" href="#prueba-gratis">Prueba gratis</a></div></div>
 </section>
 </main>
-<footer class="foot">
+<nav class="seolinks wrap" aria-label="Más recursos para el WSET 3"><h2>Más recursos para el WSET 3</h2><ul><li><a href="/es/preguntas-examen-wset-3/">Preguntas de examen WSET nivel 3 con respuestas</a></li><li><a href="/es/simulacro-examen-wset-3/">Simulacro de examen WSET nivel 3 gratis</a></li><li><a href="/es/preguntas-abiertas-wset-3/">Preguntas de respuesta corta WSET nivel 3: ejemplos y respuestas modelo</a></li><li><a href="/es/cata-sat-wset/">El enfoque sistemático de cata (SAT) del WSET 3: cómo escribir la nota</a></li><li><a href="/es/flashcards-wset-3/">Flashcards WSET nivel 3: uvas, regiones, cifras y términos</a></li><li><a href="/es/como-aprobar-wset-3/">Cómo aprobar el WSET nivel 3 a la primera: plan de estudio y consejos</a></li></ul></nav><footer class="foot">
  <div class="wrap foot-g">
   <div><a class="brand" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="../img/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a><p>Preparación de los exámenes WSET de vinos en español, italiano, francés e inglés.</p></div>
   <div><h2 class="fh">Idiomas</h2><ul><li><a href="../it/" hreflang="it" lang="it" data-lang="it">Italiano</a></li><li><a href="../fr/" hreflang="fr" lang="fr" data-lang="fr">Français</a></li><li><a href="../es/" hreflang="es" lang="es" data-lang="es" aria-current="true">Español</a></li><li><a href="../" hreflang="en" lang="en" data-lang="en">English</a></li></ul></div>

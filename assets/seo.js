@@ -1,0 +1,7 @@
+(function(){var K='wset3-progress-v1';
+function rec(id,ok){try{var P=JSON.parse(localStorage.getItem(K)||'null');if(!P||P.v!==1)P={v:1,q:{},e:{},s:[]};var n=Date.now(),q=P.q[id]||[0,0,0];q[0]++;if(ok)q[1]++;q[2]=n;P.q[id]=q;
+ if(!ok){var e=P.e[id];if(e){e.n++;e.l=n;e.r=0;}else P.e[id]={n:1,f:n,l:n,r:0};}else if(P.e[id]&&!P.e[id].r){P.e[id].r=1;P.e[id].rt=n;}localStorage.setItem(K,JSON.stringify(P));}catch(e){}}
+var good=0,done=0;document.querySelectorAll('.sq').forEach(function(a){a.querySelectorAll('.sq-o').forEach(function(b){b.addEventListener('click',function(){if(a.dataset.done)return;a.dataset.done=1;var ok=b.dataset.ok==='1';
+ a.querySelectorAll('.sq-o').forEach(function(x){x.disabled=true;if(x.dataset.ok==='1')x.classList.add('ok');});if(!ok)b.classList.add('ko');var d=a.querySelector('details');if(d)d.open=true;rec(a.dataset.id,ok);done++;if(ok)good++;
+ var s=document.querySelector('.sq-score');if(s){var t=document.querySelectorAll('.sq').length;s.hidden=false;s.textContent=s.dataset.tpl.replace('{n}',good).replace('{t}',done+'/'+t).replace(/\/(\d+)\/(\d+)/,'/$2');}});});});
+document.querySelectorAll('.fc').forEach(function(f){f.addEventListener('click',function(){f.classList.toggle('on');});});})();
