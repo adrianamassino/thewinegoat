@@ -57,7 +57,8 @@
     "temas y regiones del temario"
    ]
   ],
-  "img_alt": "La cabra de The Wine Goat con capa burdeos levanta una copa de vino tinto junto a un racimo de uvas"
+  "img_alt": "La cabra de The Wine Goat con capa burdeos levanta una copa de vino tinto junto a un racimo de uvas",
+  "cta_plan": "Crear mi plan gratis"
  },
  "levels": {
   "h2": "Preparación WSET Nivel 1, 2 y 3",
@@ -143,7 +144,8 @@
   "open_intro": "En el examen WSET 3, las preguntas abiertas valen la mitad de la teoría. Responde mentalmente y luego mira los elementos que dan puntos.",
   "open_btn": "Mostrar los elementos que hay que citar",
   "open_hide": "Ocultar",
-  "open_marks": "puntos"
+  "open_marks": "puntos",
+  "after_cta2": "Guardar mis resultados y crear mi plan"
  },
  "exam": {
   "h2": "Cómo es el examen WSET Nivel 3",

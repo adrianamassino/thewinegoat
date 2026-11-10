@@ -74,12 +74,12 @@ def build(ctx):
         QX = t.get('qes')
         if QX:
             q = lambda x: dict(QX[x['id']])
-            trial = [q(byid[i]) for i in TRIAL_BDX]
-            pool = [q(byid[QUICK_FIRST])] + [q(x) for x in bdx if x['id'] in QX and x['id'] not in TRIAL_BDX and x['id'] != QUICK_FIRST]
+            trial = [dict(q(byid[i]), id=i) for i in TRIAL_BDX]
+            pool = [dict(q(byid[QUICK_FIRST]), id=QUICK_FIRST)] + [dict(q(x), id=x['id']) for x in bdx if x['id'] in QX and x['id'] not in TRIAL_BDX and x['id'] != QUICK_FIRST]
         else:
             q = lambda x: {'q': x['q'][li], 'o': [o[li] for o in x['o']], 'e': x['e'][li]}
-            trial = [q(byid[i]) for i in TRIAL_BDX]
-            pool = [q(byid[QUICK_FIRST])] + [q(x) for x in bdx if x['id'] not in TRIAL_BDX and x['id'] != QUICK_FIRST]
+            trial = [dict(q(byid[i]), id=i) for i in TRIAL_BDX]
+            pool = [dict(q(byid[QUICK_FIRST]), id=QUICK_FIRST)] + [dict(q(x), id=x['id']) for x in bdx if x['id'] not in TRIAL_BDX and x['id'] != QUICK_FIRST]
         mname = lambda k: M['items'][k][0] if k in M['items'] else ''
         data = {'cur': {'list': CUR, 'def': DEFCUR.get(c, 'EUR'), 'lang': c},
                 'trial': trial, 'pool': pool,
@@ -107,7 +107,7 @@ def build(ctx):
         keypts = ''.join(f'<li>{e(s.strip())}</li>' for s in op_k.split(';') if s.strip())
         nt = X['notes']
         panels = {
-         'quiz': f'<div class="pin"><div id="quiz" class="quiz" aria-live="polite"></div><div class="after" id="after" hidden><h3>{e(tr["after_h"])}</h3><p>{e(tr["after_p"])}</p><a class="btn btn-gold" href="{APP}">{e(t["free"]["cta"])}</a></div></div>',
+         'quiz': f'<div class="pin"><div id="quiz" class="quiz" aria-live="polite"></div><div class="after" id="after" hidden><h3>{e(tr["after_h"])}</h3><p>{e(tr["after_p"])}</p><a class="btn btn-gold" href="{APP}#go=start">{e(tr["after_cta2"])}</a></div></div>',
          'match': f'<div class="pin"><h3>{e(X["match"]["h"])}</h3><p class="ph">{e(X["match"]["p"])}</p><div id="match" class="match"></div></div>',
          'tf': f'<div class="pin"><h3>{e(X["tf"]["h"])}</h3><p class="ph">{e(X["tf"]["p"])}</p><div id="tf" class="tf" aria-live="polite"></div></div>',
          'flash': f'<div class="pin"><h3>{e(X["flash"]["h"])}</h3><p class="ph">{e(X["flash"]["p"])}</p><div id="flash" class="flash"></div></div>',
@@ -207,12 +207,12 @@ def build(ctx):
 <a class="skip" href="#main">{e(t['skip'])}</a>
 <header class="top">
  <div class="wrap bar">
-  <a class="brand" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="../img/wordmark.webp" alt="The Wine Goat" width="785" height="302"></a>
+  <a class="brand" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="../img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
   <nav aria-label="{e(n['menu'])}"><button class="burger" aria-expanded="false" aria-controls="menu">{e(n['menu'])}</button><ul id="menu" class="menu">{nav}</ul></nav>
   <div class="acts">
    <details class="langs"><summary aria-label="{e(n['lang'])}">{c.upper()}</summary><ul>{langmenu}</ul></details>
    <a class="login" href="{APP}">{e(n['login'])}</a>
-   <a class="btn btn-primary btn-sm" href="#{ids['trial']}">{e(n['cta'])}</a>
+   <a class="btn btn-primary btn-sm" href="{APP}#go=start">{e(n['cta'])}</a>
   </div>
  </div>
 </header>
@@ -223,7 +223,7 @@ def build(ctx):
    <p class="kick">{e(h['kicker'])}</p>
    <h1>{e(h['h1'])}</h1>
    <p class="lead">{e(h['lead'])}</p>
-   <div class="ctas"><a class="btn btn-primary" href="#{ids['trial']}">{e(h['cta1'])}</a><a class="btn btn-ghost" href="#{ids['pricing']}">{e(h['cta2'])}</a></div>
+   <div class="ctas"><a class="btn btn-primary" href="#{ids['trial']}">{e(h['cta1'])}</a><a class="btn btn-ghost" href="{APP}#go=start">{e(h['cta_plan'])}</a></div>
    <ul class="ticks">{bullets}</ul>
   </div>
   <div class="hero-art">
@@ -300,7 +300,7 @@ def build(ctx):
 </main>
 <footer class="foot">
  <div class="wrap foot-g">
-  <div><a class="brand" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="../img/wordmark-light.webp" alt="The Wine Goat" width="785" height="302" loading="lazy"></a><p>{e(t['foot']['tag'])}</p></div>
+  <div><a class="brand" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="../img/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a><p>{e(t['foot']['tag'])}</p></div>
   <div><h2 class="fh">{e(t['foot']['langs'])}</h2><ul>{langmenu}</ul></div>
   <div><h2 class="fh">{e(t['foot']['follow'])}</h2><ul><li><a href="{INSTAGRAM}" rel="noopener">Instagram @the.winegoat</a></li><li><a href="{APP}">{e(n['login'])}</a></li></ul></div>
  </div>

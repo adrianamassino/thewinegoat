@@ -1,6 +1,6 @@
 # second batch of edition-2 substitutions (plain strings, applied after ed2sub.R)
 S = [
- ("errors:renderErrors,history:renderHistory}[view]();", "errors:renderErrors,history:renderHistory,dict:renderDict,gtab:renderGTab,nums:renderNums,flash:renderFlash,phen:renderPhen,g_phen:renderPhenGame,topg:renderTopG,uve:renderUve,g_terr:renderTerrGame,atlas:renderAtlas,syn:renderSyn,g_syn:renderSynGame,logic:renderLogic,traps:renderTraps,notes:renderNotes,plan:renderPlan}[view]();"),
+ ("errors:renderErrors,history:renderHistory}[view]();", "errors:renderErrors,history:renderHistory,dict:renderDict,gtab:renderGTab,nums:renderNums,flash:renderFlash,phen:renderPhen,g_phen:renderPhenGame,topg:renderTopG,uve:renderUve,g_terr:renderTerrGame,atlas:renderAtlas,syn:renderSyn,g_syn:renderSynGame,logic:renderLogic,traps:renderTraps,notes:renderNotes,plan:renderPlan,start:renderStart}[view]();"),
  # Pinot family
  ("sono entrambi mutazioni del Pinot Noir", "sono, come il Pinot Noir, mutazioni di un antico vitigno chiamato «Pinot»"),
  ("sont tous deux des mutations du pinot noir", "sont, comme le pinot noir, des mutations d'un ancien cépage appelé « pinot »"),

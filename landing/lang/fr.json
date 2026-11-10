@@ -54,7 +54,8 @@
     "thèmes et régions du programme"
    ]
   ],
-  "img_alt": "La chèvre de The Wine Goat, cape bordeaux, lève un verre de vin rouge entre les grappes de raisin"
+  "img_alt": "La chèvre de The Wine Goat, cape bordeaux, lève un verre de vin rouge entre les grappes de raisin",
+  "cta_plan": "Créer mon plan gratuit"
  },
  "levels": {
   "h2": "Préparation WSET niveaux 1, 2 et 3",
@@ -140,7 +141,8 @@
   "open_intro": "À l'examen WSET 3, les questions ouvertes valent la moitié de la théorie. Répondez mentalement, puis regardez les éléments qui rapportent des points.",
   "open_btn": "Afficher les éléments à citer",
   "open_hide": "Masquer",
-  "open_marks": "points"
+  "open_marks": "points",
+  "after_cta2": "Enregistrer mes résultats et créer mon plan"
  },
  "exam": {
   "h2": "Comment se déroule l'examen WSET niveau 3",

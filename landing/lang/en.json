@@ -57,7 +57,8 @@
     "syllabus topics and regions"
    ]
   ],
-  "img_alt": "The Wine Goat mascot in a burgundy cape raising a glass of red wine beside a bunch of grapes"
+  "img_alt": "The Wine Goat mascot in a burgundy cape raising a glass of red wine beside a bunch of grapes",
+  "cta_plan": "Create my free plan"
  },
  "levels": {
   "h2": "WSET Level 1, 2 and 3 exam prep",
@@ -143,7 +144,8 @@
   "open_intro": "In the WSET 3 exam, open questions are worth half of the theory marks. Answer in your head, then reveal the points that earn marks.",
   "open_btn": "Show the points to make",
   "open_hide": "Hide",
-  "open_marks": "marks"
+  "open_marks": "marks",
+  "after_cta2": "Save my results and build my plan"
  },
  "exam": {
   "h2": "How the WSET Level 3 exam works",
