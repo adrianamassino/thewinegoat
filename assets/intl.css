@@ -1,0 +1,14 @@
+
+.intl .ihero{position:relative;overflow:hidden;padding:30px 0 10px}
+.ihero-in{display:grid;grid-template-columns:1.2fr 1fr;gap:24px;align-items:center}
+.ihero h1{font-family:Fraunces,Georgia,"Noto Serif CJK SC","Noto Serif",serif;font-size:clamp(34px,5.5vw,60px);color:var(--wine);line-height:1.1;margin:0 0 14px}
+.ihg{width:100%;max-width:420px;height:auto;justify-self:center;animation:hop 4.6s ease-in-out 1s infinite;transform-origin:50% 100%}
+.inote{margin-top:14px;font-weight:600;color:var(--mut)}
+.ifeats,.iexams{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.ifeat,.iexam{background:#fff;border:2px solid var(--line);border-bottom-width:5px;border-radius:20px;padding:18px}
+.ifeat h3,.iexam h3{font-size:18px;color:var(--wine);margin:0 0 6px}
+.ihow{list-style:none;padding:0;display:grid;gap:10px}.ihow li{display:flex;gap:12px;align-items:center;background:#fff;border:2px solid var(--line);border-radius:16px;padding:14px;font-weight:600}
+.ihow span{display:grid;place-items:center;flex:none;width:36px;height:36px;border-radius:50%;background:var(--gold);color:var(--ink);font-weight:800}
+.ilangs div{display:flex;flex-wrap:wrap;gap:8px}.ilangs a{padding:8px 12px;border-radius:999px;background:#fff;border:1.5px solid var(--line);text-decoration:none;font-weight:600;font-size:14px}
+.rtl{direction:rtl}.rtl .tips li{padding:14px 48px 14px 16px}
+@media(max-width:760px){.ihero-in{grid-template-columns:1fr}.ihg{max-width:240px;order:-1}}
