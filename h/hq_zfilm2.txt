@@ -1,0 +1,285 @@
+#vin p0 b f=fermmac
+Q: Qual è la differenza fondamentale tra una fermentazione e una macerazione? || Quelle est la différence fondamentale entre une fermentation et une macération ? || What is the fundamental difference between a fermentation and a maceration?
+A: La fermentazione trasforma sostanze grazie a microrganismi; la macerazione estrae sostanze dalle parti solide || La fermentation transforme des substances grâce à des micro-organismes ; la macération extrait des substances des parties solides || Fermentation transforms substances through microorganisms; maceration extracts substances from the solid parts
+B: La fermentazione avviene solo nei rossi; la macerazione avviene solo nei bianchi e nei rosati || La fermentation n'a lieu que pour les rouges ; la macération seulement pour les blancs et les rosés || Fermentation happens only in reds; maceration only in whites and rosés
+C: La fermentazione estrae il colore dalle bucce; la macerazione trasforma lo zucchero in alcol || La fermentation extrait la couleur des pellicules ; la macération transforme le sucre en alcool || Fermentation extracts colour from the skins; maceration turns sugar into alcohol
+D: Sono due nomi diversi per lo stesso processo, usati in regioni diverse || Ce sont deux noms différents pour le même processus, utilisés dans des régions différentes || They are two names for the same process, used in different regions
+E: Fermentare = trasformare (lieviti, batteri); macerare = estrarre (contatto con bucce, vinaccioli, raspi). || Fermenter = transformer (levures, bactéries) ; macérer = extraire (contact avec pellicules, pépins, rafles). || Ferment = transform (yeasts, bacteria); macerate = extract (contact with skins, seeds, stems).
+DI: Nella fermentazione esseri viventi consumano una sostanza e ne producono di nuove: lo zucchero diventa alcol e CO₂, l'acido malico diventa acido lattico. Nella macerazione il liquido resta a contatto con bucce, vinaccioli e raspi e ne scioglie colore, tannini e aromi.
+DF: Dans la fermentation, des êtres vivants consomment une substance et en produisent de nouvelles : le sucre devient alcool et CO₂, l'acide malique devient acide lactique. Dans la macération, le liquide reste en contact avec les pellicules, les pépins et les rafles et en dissout la couleur, les tanins et les arômes.
+DE: In fermentation, living organisms consume one substance and produce new ones: sugar becomes alcohol and CO₂, malic acid becomes lactic acid. In maceration, the liquid stays in contact with skins, seeds and stems and dissolves their colour, tannins and aromas.
+
+#vin p0 b f=fermmac
+Q: Quale lievito porta a termine la fermentazione alcolica del vino? || Quelle levure mène la fermentation alcoolique du vin jusqu'au bout ? || Which yeast carries the alcoholic fermentation of wine through to the end?
+A: Saccharomyces cerevisiae || Saccharomyces cerevisiae || Saccharomyces cerevisiae
+B: Brettanomyces bruxellensis || Brettanomyces bruxellensis || Brettanomyces bruxellensis
+C: Oenococcus oeni || Oenococcus oeni || Oenococcus oeni
+D: Hanseniaspora uvarum || Hanseniaspora uvarum || Hanseniaspora uvarum
+E: Saccharomyces cerevisiae resiste all'alcol e finisce la fermentazione. || Saccharomyces cerevisiae résiste à l'alcool et finit la fermentation. || Saccharomyces cerevisiae tolerates alcohol and finishes the fermentation.
+DI: Saccharomyces cerevisiae è il lievito del vino: tollera l'alcol e la SO₂ e porta la fermentazione fino alla fine. Oenococcus oeni è un batterio della malolattica, Brettanomyces un lievito di alterazione, Hanseniaspora un lievito indigeno che muore verso 4-5% vol.
+DF: Saccharomyces cerevisiae est la levure du vin : elle tolère l'alcool et le SO₂ et mène la fermentation jusqu'au bout. Oenococcus oeni est une bactérie de la malolactique, Brettanomyces une levure d'altération, Hanseniaspora une levure indigène qui meurt vers 4-5 % vol.
+DE: Saccharomyces cerevisiae is the wine yeast: it tolerates alcohol and SO₂ and carries fermentation to the end. Oenococcus oeni is a malolactic bacterium, Brettanomyces a spoilage yeast, Hanseniaspora an indigenous yeast that dies off around 4-5% abv.
+
+#vin p0 f=fermmac
+Q: Che cosa succede ai lieviti indigeni non-Saccharomyces durante la fermentazione? || Que deviennent les levures indigènes non-Saccharomyces pendant la fermentation ? || What happens to indigenous non-Saccharomyces yeasts during fermentation?
+A: Lavorano all'inizio e muoiono verso 4-5% di alcol || Elles travaillent au début et meurent vers 4-5 % d'alcool || They work at the start and die off around 4-5% alcohol
+B: Entrano in azione solo alla fine, quando lo zucchero è finito || Elles n'interviennent qu'à la fin, quand le sucre est épuisé || They only start at the end, when the sugar has run out
+C: Trasformano l'acido malico in acido lattico || Elles transforment l'acide malique en acide lactique || They turn malic acid into lactic acid
+D: Resistono all'alcol meglio di Saccharomyces cerevisiae || Elles résistent mieux à l'alcool que Saccharomyces cerevisiae || They tolerate alcohol better than Saccharomyces cerevisiae
+E: Hanseniaspora, Candida, Pichia, Metschnikowia, Torulaspora: complessità all'inizio, poi muoiono. || Hanseniaspora, Candida, Pichia, Metschnikowia, Torulaspora : complexité au début, puis elles meurent. || Hanseniaspora, Candida, Pichia, Metschnikowia, Torulaspora: complexity early on, then they die off.
+DI: I lieviti indigeni come Hanseniaspora (Kloeckera apiculata), Candida, Pichia, Metschnikowia pulcherrima e Torulaspora delbrueckii avviano la fermentazione e danno complessità aromatica, ma non tollerano l'alcol: verso 4-5% vol muoiono e Saccharomyces cerevisiae prende il sopravvento.
+DF: Les levures indigènes comme Hanseniaspora (Kloeckera apiculata), Candida, Pichia, Metschnikowia pulcherrima et Torulaspora delbrueckii lancent la fermentation et apportent de la complexité aromatique, mais ne tolèrent pas l'alcool : vers 4-5 % vol. elles meurent et Saccharomyces cerevisiae prend le dessus.
+DE: Indigenous yeasts such as Hanseniaspora (Kloeckera apiculata), Candida, Pichia, Metschnikowia pulcherrima and Torulaspora delbrueckii start fermentation and add aromatic complexity, but cannot tolerate alcohol: around 4-5% abv they die and Saccharomyces cerevisiae takes over.
+
+#vin p0 b f=fermmac
+Q: Quale microrganismo è il principale responsabile della fermentazione malolattica? || Quel micro-organisme est le principal responsable de la fermentation malolactique ? || Which microorganism is mainly responsible for malolactic conversion?
+A: Il batterio lattico Oenococcus oeni || La bactérie lactique Oenococcus oeni || The lactic bacterium Oenococcus oeni
+B: Il lievito Saccharomyces cerevisiae || La levure Saccharomyces cerevisiae || The yeast Saccharomyces cerevisiae
+C: Il batterio acetico Acetobacter || La bactérie acétique Acetobacter || The acetic bacterium Acetobacter
+D: Il lievito Metschnikowia pulcherrima || La levure Metschnikowia pulcherrima || The yeast Metschnikowia pulcherrima
+E: Oenococcus oeni (a volte Lactobacillus, Pediococcus): acido malico → acido lattico + CO₂. || Oenococcus oeni (parfois Lactobacillus, Pediococcus) : acide malique → acide lactique + CO₂. || Oenococcus oeni (sometimes Lactobacillus, Pediococcus): malic acid → lactic acid + CO₂.
+DI: La malolattica è fatta da batteri lattici, soprattutto Oenococcus oeni, a volte Lactobacillus e Pediococcus. Trasformano l'acido malico in acido lattico, più morbido, e liberano un po' di CO₂. Acetobacter è invece un batterio di alterazione che produce aceto.
+DF: La malolactique est faite par des bactéries lactiques, surtout Oenococcus oeni, parfois Lactobacillus et Pediococcus. Elles transforment l'acide malique en acide lactique, plus doux, et libèrent un peu de CO₂. Acetobacter est au contraire une bactérie d'altération qui produit du vinaigre.
+DE: Malolactic conversion is carried out by lactic bacteria, mainly Oenococcus oeni, sometimes Lactobacillus and Pediococcus. They turn malic acid into softer lactic acid and release a little CO₂. Acetobacter, by contrast, is a spoilage bacterium that produces vinegar.
+
+#vin p0 f=fermmac
+Q: Come cambia il grado alcolico durante la fermentazione malolattica? || Comment évolue le degré d'alcool pendant la fermentation malolactique ? || How does the alcohol level change during malolactic conversion?
+A: Non cambia, perché non viene consumato zucchero || Il ne change pas, car aucun sucre n'est consommé || It does not change, because no sugar is consumed
+B: Aumenta di circa un grado e mezzo || Il augmente d'environ un degré et demi || It rises by about one and a half degrees
+C: Diminuisce, perché i batteri consumano l'alcol || Il baisse, car les bactéries consomment l'alcool || It falls, because the bacteria consume alcohol
+D: Aumenta solo nei vini bianchi || Il n'augmente que dans les vins blancs || It rises only in white wines
+E: La malolattica trasforma un acido, non lo zucchero: l'alcol resta uguale. || La malolactique transforme un acide, pas le sucre : l'alcool reste identique. || Malolactic converts an acid, not sugar: alcohol stays the same.
+DI: La malolattica trasforma l'acido malico in acido lattico. Lo zucchero non c'entra, quindi il grado alcolico non cambia: cambiano l'acidità, la morbidezza e gli aromi (diacetile).
+DF: La malolactique transforme l'acide malique en acide lactique. Le sucre n'y est pour rien, donc le degré d'alcool ne change pas : ce sont l'acidité, la souplesse et les arômes (diacétyle) qui changent.
+DE: Malolactic conversion turns malic acid into lactic acid. Sugar plays no part, so the alcohol level does not change: acidity, softness and aromas (diacetyl) change.
+
+#vin p0 f=fermmac
+Q: Quale di questi metodi NON serve a bloccare la fermentazione malolattica? || Laquelle de ces méthodes NE sert PAS à bloquer la fermentation malolactique ? || Which of these methods does NOT help block malolactic conversion?
+A: Riscaldare il vino verso 20 gradi con poca SO₂ || Réchauffer le vin vers 20 degrés avec peu de SO₂ || Warming the wine to around 20 degrees with little SO₂
+B: Aggiungere anidride solforosa || Ajouter du dioxyde de soufre || Adding sulfur dioxide
+C: Tenere il vino al freddo || Garder le vin au froid || Keeping the wine cold
+D: Filtrare il vino per eliminare i batteri || Filtrer le vin pour éliminer les bactéries || Filtering the wine to remove bacteria
+E: 18-22 °C con poca SO₂ sono le condizioni ideali per la malolattica, non per bloccarla. || 18-22 °C avec peu de SO₂ sont les conditions idéales pour la malolactique, pas pour la bloquer. || 18-22°C with little SO₂ are ideal conditions for malolactic, not for blocking it.
+DI: La malolattica si blocca con la SO₂, con il freddo o con la filtrazione che elimina i batteri. Al contrario, una temperatura di 18-22 gradi e poca SO₂ la favoriscono.
+DF: On bloque la malolactique avec le SO₂, le froid ou une filtration qui élimine les bactéries. Au contraire, une température de 18-22 degrés et peu de SO₂ la favorisent.
+DE: Malolactic is blocked with SO₂, cold or filtration that removes the bacteria. Conversely, a temperature of 18-22 degrees and little SO₂ encourage it.
+
+#vin p0 b f=fermmac
+Q: Che cosa contiene il liqueur de tirage per la seconda fermentazione in bottiglia? || Que contient la liqueur de tirage pour la prise de mousse en bouteille ? || What does the liqueur de tirage for the second fermentation in bottle contain?
+A: Vino, zucchero (circa 24 g/L), lieviti selezionati e un coadiuvante per il remuage || Du vin, du sucre (environ 24 g/L), des levures sélectionnées et un adjuvant de remuage || Wine, sugar (about 24 g/L), selected yeasts and a riddling aid
+B: Vino, zucchero e batteri lattici per avviare la malolattica || Du vin, du sucre et des bactéries lactiques pour lancer la malolactique || Wine, sugar and lactic bacteria to start malolactic
+C: Acquavite di vino e zucchero per fermare la fermentazione || De l'eau-de-vie de vin et du sucre pour arrêter la fermentation || Grape spirit and sugar to stop fermentation
+D: Anidride carbonica liquida e anidride solforosa || Du gaz carbonique liquide et du dioxyde de soufre || Liquid carbon dioxide and sulfur dioxide
+E: Zucchero + lieviti nella bottiglia chiusa → circa +1,2-1,5% vol e 6 atmosfere. || Sucre + levures dans la bouteille fermée → environ +1,2-1,5 % vol. et 6 atmosphères. || Sugar + yeasts in the sealed bottle → about +1.2-1.5% abv and 6 atmospheres.
+DI: Il liqueur de tirage è una miscela di vino, circa 24 g/L di zucchero, lieviti selezionati resistenti ad alcol e pressione e un coadiuvante per il remuage. Nella bottiglia chiusa con tappo a corona produce circa un grado e mezzo in più e circa 6 atmosfere di CO₂.
+DF: La liqueur de tirage est un mélange de vin, d'environ 24 g/L de sucre, de levures sélectionnées résistantes à l'alcool et à la pression, et d'un adjuvant de remuage. Dans la bouteille capsulée, elle produit environ un degré et demi de plus et environ 6 atmosphères de CO₂.
+DE: The liqueur de tirage is a mix of wine, about 24 g/L of sugar, selected yeasts that tolerate alcohol and pressure, and a riddling aid. In the crown-capped bottle it produces about one and a half degrees more alcohol and about 6 atmospheres of CO₂.
+
+#vin p0 f=fermmac
+Q: Che cos'è l'autolisi nei vini spumanti? || Qu'est-ce que l'autolyse dans les vins effervescents ? || What is autolysis in sparkling wines?
+A: La lenta decomposizione dei lieviti morti, che dà note di pane e brioche || La lente décomposition des levures mortes, qui donne des notes de pain et de brioche || The slow breakdown of dead yeasts, giving notes of bread and brioche
+B: La fermentazione degli zuccheri aggiunti con il liqueur d'expédition || La fermentation des sucres ajoutés avec la liqueur d'expédition || The fermentation of the sugar added in the liqueur d'expédition
+C: L'eliminazione del deposito di lieviti dal collo della bottiglia || L'élimination du dépôt de levures du col de la bouteille || The removal of the yeast deposit from the bottle neck
+D: La trasformazione dell'acido malico durante l'affinamento || La transformation de l'acide malique pendant l'élevage || The conversion of malic acid during maturation
+E: Affinamento sulle fecce → autolisi → pane, brioche, biscotto, spuma più fine. || Vieillissement sur lies → autolyse → pain, brioche, biscuit, mousse plus fine. || Ageing on lees → autolysis → bread, brioche, biscuit, finer mousse.
+DI: Dopo la seconda fermentazione i lieviti morti (fecce) si depositano. Durante il lungo affinamento sui lieviti si decompongono: è l'autolisi, che dà aromi di pane, brioche e biscotto e una spuma più fine. L'eliminazione del deposito è invece la sboccatura.
+DF: Après la prise de mousse, les levures mortes (lies) se déposent. Pendant le long vieillissement sur lies, elles se décomposent : c'est l'autolyse, qui donne des arômes de pain, de brioche et de biscuit et une mousse plus fine. L'élimination du dépôt, elle, s'appelle le dégorgement.
+DE: After the second fermentation the dead yeasts (lees) settle. During long ageing on the lees they break down: this is autolysis, which gives bread, brioche and biscuit aromas and a finer mousse. Removing the deposit is called disgorgement.
+
+#vin p0 f=fermmac
+Q: Fino a che pressione arriva circa un vino frizzante (perlant/pétillant)? || Jusqu'à quelle pression monte environ un vin pétillant ? || Up to roughly what pressure does a semi-sparkling wine go?
+A: Circa 2,5 bar || Environ 2,5 bars || About 2.5 bar
+B: Circa 6 bar || Environ 6 bars || About 6 bar
+C: Circa 10 bar || Environ 10 bars || About 10 bar
+D: Nessuna pressione: le bollicine vengono solo dal versamento || Aucune pression : les bulles viennent seulement du service || No pressure: the bubbles come only from pouring
+E: Perlante: leggero pizzicore; frizzante: fino a ~2,5 bar; spumante: oltre 3 bar. || Perlant : léger picotement ; pétillant : jusqu'à ~2,5 bars ; mousseux : plus de 3 bars. || Light prickle; semi-sparkling up to ~2.5 bar; sparkling above 3 bar.
+DI: Un vino perlante ha solo un leggero pizzicore, un frizzante arriva fino a circa 2,5 bar, uno spumante supera i 3 bar (lo Champagne circa 6). Le bollicine vengono da CO₂ trattenuta, da una breve rifermentazione o da gassificazione.
+DF: Un vin perlant n'a qu'un léger picotement, un pétillant monte jusqu'à environ 2,5 bars, un mousseux dépasse 3 bars (le champagne environ 6). Les bulles viennent du CO₂ gardé, d'une courte refermentation ou de la gazéification.
+DE: A lightly sparkling wine has only a slight prickle, a semi-sparkling wine reaches about 2.5 bar, a sparkling wine exceeds 3 bar (Champagne about 6). The bubbles come from retained CO₂, a short refermentation or carbonation.
+
+#vin p0 b f=fermmac
+Q: Perché si fa una macerazione pellicolare prima di pressare un bianco aromatico? || Pourquoi fait-on une macération pelliculaire avant de presser un blanc aromatique ? || Why is skin contact used before pressing an aromatic white?
+A: Per estrarre i precursori d'aroma della buccia e dare un vino più intenso || Pour extraire les précurseurs d'arômes de la pellicule et obtenir un vin plus intense || To extract aroma precursors from the skin and give a more intense wine
+B: Per far partire la fermentazione malolattica più in fretta || Pour lancer plus vite la fermentation malolactique || To start malolactic conversion more quickly
+C: Per aumentare l'acidità e ridurre il pH del mosto || Pour augmenter l'acidité et baisser le pH du moût || To raise acidity and lower the pH of the must
+D: Per dare al vino colore rosso e tannini || Pour donner au vin une couleur rouge et des tanins || To give the wine red colour and tannin
+E: 4-24 ore al freddo: + aromi e volume; rischio amaro se troppo lunga. || 4 à 24 heures au froid : + arômes et volume ; risque d'amertume si trop longue. || 4-24 hours, cold: + aroma and body; risk of bitterness if too long.
+DI: Nella macerazione pellicolare le uve bianche pigiate restano da 4 a 24 ore al freddo con le bucce: si estraggono i precursori d'aroma (es. Sauvignon Blanc, Moscato). Troppa estrazione dà fenoli, amarezza e meno freschezza. Se dura giorni o settimane si ottiene un orange wine.
+DF: Dans la macération pelliculaire, le raisin blanc foulé reste 4 à 24 heures au froid avec les pellicules : on extrait les précurseurs d'arômes (sauvignon blanc, muscat). Trop d'extraction apporte des composés phénoliques, de l'amertume et moins de fraîcheur. Si elle dure des jours ou des semaines, on obtient un vin orange.
+DE: In skin contact, crushed white grapes stay cold with their skins for 4 to 24 hours: aroma precursors are extracted (e.g. Sauvignon Blanc, Muscat). Too much extraction brings phenolics, bitterness and less freshness. If it lasts days or weeks, the result is an orange wine.
+
+#vin p0 b f=fermmac
+Q: Che cosa si estrae soprattutto con una macerazione a freddo prefermentativa (4-10 °C)? || Qu'extrait-on surtout avec une macération préfermentaire à froid (4-10 °C) ? || What does a pre-fermentation cold soak (4-10°C) mainly extract?
+A: Colore e aromi fruttati, con pochi tannini || De la couleur et des arômes fruités, avec peu de tanins || Colour and fruity aromas, with few tannins
+B: Molti tannini duri dai vinaccioli || Beaucoup de tanins durs venant des pépins || Lots of harsh tannins from the seeds
+C: Alcol, grazie ai lieviti che lavorano al freddo || De l'alcool, grâce aux levures qui travaillent au froid || Alcohol, thanks to yeasts working in the cold
+D: Note di pane e brioche dall'autolisi || Des notes de pain et de brioche par l'autolyse || Bread and brioche notes from autolysis
+E: Senza alcol si sciolgono antociani e aromi, non i tannini; protezione con SO₂ e ghiaccio secco. || Sans alcool, les anthocyanes et les arômes se dissolvent, pas les tanins ; protection par SO₂ et neige carbonique. || Without alcohol, anthocyanins and aromas dissolve, not tannins; protected with SO₂ and dry ice.
+DI: Nella macerazione a freddo (4-10 °C, qualche giorno, prima della fermentazione) i lieviti non partono. In assenza di alcol si sciolgono antociani e aromi fruttati ma pochi tannini. Il mosto si protegge con un po' di SO₂ e CO₂, spesso ghiaccio secco. Tipica per il Pinot Noir.
+DF: Dans la macération à froid (4-10 °C, quelques jours, avant la fermentation), les levures ne démarrent pas. Sans alcool, les anthocyanes et les arômes fruités se dissolvent mais peu de tanins. Le moût est protégé par un peu de SO₂ et de CO₂, souvent de la neige carbonique. Typique du pinot noir.
+DE: In a cold soak (4-10°C, a few days, before fermentation) the yeasts do not start. Without alcohol, anthocyanins and fruity aromas dissolve but few tannins. The must is protected with a little SO₂ and CO₂, often dry ice. Typical for Pinot Noir.
+
+#vin p0 f=fermmac
+Q: Quale tecnica consiste nel pompare il mosto da sotto e versarlo sopra il cappello di vinacce? || Quelle technique consiste à pomper le moût du bas de la cuve et à l'arroser sur le chapeau de marc ? || Which technique involves pumping must from the bottom of the vat and spraying it over the cap?
+A: Il rimontaggio || Le remontage || Pumping over
+B: La follatura || Le pigeage || Punching down
+C: Il délestage || Le délestage || Rack and return
+D: La saignée || La saignée || Saignée
+E: Rimontaggio = pompare sopra; follatura = spingere giù; délestage = svuotare e riempire. || Remontage = arroser ; pigeage = enfoncer ; délestage = vider puis remplir. || Pumping over = spray on top; punching down = push under; rack and return = empty and refill.
+DI: Durante la macerazione classica il cappello di bucce sale in superficie. Il rimontaggio pompa il mosto dal basso sopra il cappello; la follatura lo spinge giù; il délestage svuota la vasca e la riempie di nuovo. La saignée serve invece a fare un rosato.
+DF: Pendant la macération classique, le chapeau de marc remonte en surface. Le remontage pompe le moût du bas pour arroser le chapeau ; le pigeage l'enfonce ; le délestage vide la cuve puis la remplit à nouveau. La saignée sert, elle, à faire un rosé.
+DE: During classic maceration the cap of skins rises to the surface. Pumping over draws must from the bottom and sprays it over the cap; punching down pushes it under; rack and return empties the vat and refills it. Saignée is used to make rosé.
+
+#vin p0 f=fermmac
+Q: Perché alcuni rossi da invecchiamento fanno una macerazione finale dopo la fermentazione? || Pourquoi certains rouges de garde font-ils une macération finale après la fermentation ? || Why do some age-worthy reds undergo post-fermentation maceration?
+A: Per avere più struttura con tannini più morbidi e vellutati || Pour gagner en structure avec des tanins plus souples et veloutés || For more structure with softer, velvety tannins
+B: Per estrarre colore senza alcol, a bassa temperatura || Pour extraire de la couleur sans alcool, à basse température || To extract colour without alcohol, at low temperature
+C: Per ottenere note di banana e chewing-gum || Pour obtenir des notes de banane et de bonbon anglais || To obtain banana and bubblegum notes
+D: Per far ripartire la fermentazione alcolica || Pour relancer la fermentation alcoolique || To restart alcoholic fermentation
+E: Una o più settimane sulle bucce dopo la FA: i tannini si legano in catene più lunghe. || Une ou plusieurs semaines sur pellicules après la FA : les tanins se lient en chaînes plus longues. || One or more weeks on skins after AF: tannins link into longer chains.
+DI: Nella macerazione finale il vino resta sulle bucce per una o più settimane dopo la fermentazione, prima della svinatura (Bordeaux, Nebbiolo). Con l'alcol i tannini continuano a sciogliersi e si polimerizzano: il vino è più strutturato ma più vellutato.
+DF: Dans la macération finale, le vin reste sur les pellicules une ou plusieurs semaines après la fermentation, avant l'écoulage (Bordeaux, nebbiolo). Avec l'alcool, les tanins continuent de se dissoudre et se polymérisent : le vin est plus structuré mais plus velouté.
+DE: In post-fermentation maceration the wine stays on the skins for one or more weeks after fermentation, before draining off (Bordeaux, Nebbiolo). With alcohol, tannins keep dissolving and polymerise: the wine is more structured but silkier.
+
+#vin p0 f=fermmac
+Q: Nella termovinificazione, a che temperatura si scalda il mosto e perché? || Dans la thermovinification, à quelle température chauffe-t-on le moût et pourquoi ? || In thermovinification, to what temperature is the must heated and why?
+A: A 60-70 °C per poco tempo, per estrarre il colore in fretta || À 60-70 °C peu de temps, pour extraire vite la couleur || To 60-70°C briefly, to extract colour quickly
+B: A 4-10 °C per alcuni giorni, per estrarre il frutto || À 4-10 °C pendant quelques jours, pour extraire le fruit || To 4-10°C for a few days, to extract fruit
+C: A 30 °C per due settimane, con grappoli interi || À 30 °C pendant deux semaines, en grappes entières || To 30°C for two weeks, with whole bunches
+D: A 100 °C per sterilizzare il vino prima dell'imbottigliamento || À 100 °C pour stériliser le vin avant la mise en bouteille || To 100°C to sterilise the wine before bottling
+E: Calore = estrazione rapida → rossi fruttati, morbidi, da bere giovani. || Chaleur = extraction rapide → rouges fruités, souples, à boire jeunes. || Heat = fast extraction → fruity, soft reds to drink young.
+DI: Nella termovinificazione il mosto viene scaldato a 60-70 °C per poco tempo, poi pressato: il succo si colora subito e fermenta senza bucce. Dà rossi fruttati, morbidi, pronti da bere.
+DF: Dans la thermovinification, le moût est chauffé à 60-70 °C pendant peu de temps, puis pressé : le jus se colore tout de suite et fermente sans pellicules. On obtient des rouges fruités, souples, prêts à boire.
+DE: In thermovinification the must is heated to 60-70°C for a short time, then pressed: the juice colours at once and ferments without skins. It gives fruity, soft reds that are ready to drink.
+
+#vin p0 b f=fermmac
+Q: Nella macerazione carbonica, chi produce i primi 2 gradi di alcol dentro gli acini interi? || Dans la macération carbonique, qui produit les 2 premiers degrés d'alcool à l'intérieur des baies entières ? || In carbonic maceration, what produces the first 2 degrees of alcohol inside the whole berries?
+A: Gli enzimi dell'uva stessa (fermentazione intracellulare) || Les enzymes du raisin lui-même (fermentation intracellulaire) || The grape's own enzymes (intracellular fermentation)
+B: I lieviti Saccharomyces presenti nella CO₂ aggiunta || Les levures Saccharomyces présentes dans le CO₂ ajouté || Saccharomyces yeasts carried in the added CO₂
+C: I batteri lattici Oenococcus oeni || Les bactéries lactiques Oenococcus oeni || The lactic bacteria Oenococcus oeni
+D: L'anidride solforosa che reagisce con lo zucchero || Le dioxyde de soufre qui réagit avec le sucre || Sulfur dioxide reacting with the sugar
+E: Senza ossigeno, gli enzimi dell'acino fanno ~2% vol; poi i lieviti finiscono dopo la pressatura. || Sans oxygène, les enzymes de la baie font ~2 % vol. ; puis les levures finissent après pressurage. || Without oxygen, the berry's enzymes make ~2% abv; yeasts finish after pressing.
+DI: In una vasca satura di CO₂ e senza ossigeno, dentro ogni acino intatto gli enzimi dell'uva avviano una fermentazione intracellulare che produce circa 2% vol e aromi di ciliegia, banana, chewing-gum, cannella. Dopo 1-2 settimane gli acini si pressano e i lieviti finiscono la fermentazione.
+DF: Dans une cuve saturée de CO₂ et sans oxygène, à l'intérieur de chaque baie intacte, les enzymes du raisin lancent une fermentation intracellulaire qui produit environ 2 % vol. et des arômes de cerise, banane, bonbon anglais, cannelle. Après 1-2 semaines, les baies sont pressées et les levures finissent la fermentation.
+DE: In a CO₂-filled, oxygen-free vat, inside each intact berry the grape's enzymes start an intracellular fermentation that produces about 2% abv and aromas of cherry, banana, bubblegum, cinnamon. After 1-2 weeks the berries are pressed and yeasts finish the fermentation.
+
+#vin p0 f=fermmac
+Q: Che cosa distingue la macerazione semicarbonica da quella carbonica? || Qu'est-ce qui distingue la macération semi-carbonique de la carbonique ? || What distinguishes semi-carbonic from carbonic maceration?
+A: Non si aggiunge CO₂: la produce il succo degli acini schiacciati sul fondo || On n'ajoute pas de CO₂ : il est produit par le jus des baies écrasées au fond || No CO₂ is added: it comes from the juice of berries crushed at the bottom
+B: Si usano uve diraspate e pigiate invece dei grappoli interi || On utilise du raisin éraflé et foulé au lieu de grappes entières || Destemmed, crushed grapes are used instead of whole bunches
+C: Si fa solo con uve bianche || Elle ne se fait qu'avec des raisins blancs || It is done only with white grapes
+D: La vasca resta aperta e piena di ossigeno || La cuve reste ouverte et pleine d'oxygène || The vat stays open and full of oxygen
+E: Grappoli interi senza CO₂ aggiunta: tre zone (succo che fermenta, acini che si rompono, grappoli interi). || Grappes entières sans CO₂ ajouté : trois zones (jus qui fermente, baies qui éclatent, grappes entières). || Whole bunches, no added CO₂: three zones (fermenting juice, bursting berries, whole bunches).
+DI: Nella semicarbonica la vasca si riempie di grappoli interi senza aggiungere CO₂. Sul fondo il peso schiaccia gli acini, il succo fermenta con i lieviti e la CO₂ prodotta copre il resto. In alto gli acini interi fanno la fermentazione intracellulare.
+DF: Dans la semi-carbonique, la cuve est remplie de grappes entières sans ajouter de CO₂. Au fond, le poids écrase les baies, le jus fermente avec les levures et le CO₂ produit couvre le reste. En haut, les baies entières font la fermentation intracellulaire.
+DE: In semi-carbonic maceration the vat is filled with whole bunches without adding CO₂. At the bottom the weight crushes berries, the juice ferments with yeasts and the CO₂ produced blankets the rest. At the top, the whole berries undergo intracellular fermentation.
+
+#vin p0 b f=co2so2
+Q: Da dove viene principalmente la CO₂ nel vino? || D'où vient principalement le CO₂ dans le vin ? || Where does the CO₂ in wine mainly come from?
+A: Dalla fermentazione alcolica dei lieviti || De la fermentation alcoolique des levures || From the yeasts' alcoholic fermentation
+B: Dalla combustione dello zolfo nelle botti || De la combustion du soufre dans les fûts || From burning sulfur in barrels
+C: Dall'aggiunta di metabisolfito di potassio || De l'ajout de métabisulfite de potassium || From adding potassium metabisulfite
+D: Dall'ossidazione dell'acetaldeide || De l'oxydation de l'éthanal || From the oxidation of acetaldehyde
+E: Zuccheri → alcol + CO₂ + calore; un po' anche dalla malolattica. || Sucres → alcool + CO₂ + chaleur ; un peu aussi de la malolactique. || Sugars → alcohol + CO₂ + heat; a little from malolactic too.
+DI: La CO₂ nasce naturalmente dalla fermentazione alcolica (zuccheri → alcol + CO₂ + calore) e in piccola parte dalla malolattica. Ogni litro di mosto ne libera circa 40-50 litri. Metabisolfito e zolfo bruciato servono invece ad apportare SO₂.
+DF: Le CO₂ naît naturellement de la fermentation alcoolique (sucres → alcool + CO₂ + chaleur) et un peu de la malolactique. Chaque litre de moût en libère environ 40 à 50 litres. Le métabisulfite et la mèche de soufre servent, eux, à apporter du SO₂.
+DE: CO₂ is produced naturally by alcoholic fermentation (sugars → alcohol + CO₂ + heat) and slightly by malolactic. Each litre of must releases about 40-50 litres of it. Metabisulfite and burnt sulfur are used to add SO₂.
+
+#vin p0 f=co2so2
+Q: Perché la CO₂ è pericolosa nelle cantine durante la vendemmia? || Pourquoi le CO₂ est-il dangereux dans les chais pendant les vendanges ? || Why is CO₂ dangerous in wineries during harvest?
+A: È più pesante dell'aria, si accumula in basso e può asfissiare || Il est plus lourd que l'air, s'accumule en bas et peut asphyxier || It is heavier than air, collects low down and can suffocate
+B: È infiammabile e può esplodere a contatto con le lampade || Il est inflammable et peut exploser au contact des lampes || It is flammable and can explode near lamps
+C: È acido e corrode l'acciaio delle vasche || Il est acide et corrode l'inox des cuves || It is acidic and corrodes the steel vats
+D: Ha un forte odore di fiammifero che irrita gli occhi || Il a une forte odeur d'allumette qui irrite les yeux || It has a strong burnt-match smell that irritates the eyes
+E: CO₂ pesante e inodore: ventilazione e rilevatori obbligatori. || CO₂ lourd et inodore : ventilation et détecteurs indispensables. || Heavy, odourless CO₂: ventilation and detectors are essential.
+DI: La CO₂ è più pesante dell'aria e inodore: durante le fermentazioni si accumula vicino al pavimento e nelle vasche e può causare asfissia. Per questo si ventilano i locali e si usano rilevatori. L'odore di fiammifero è invece tipico della SO₂.
+DF: Le CO₂ est plus lourd que l'air et inodore : pendant les fermentations, il s'accumule près du sol et dans les cuves et peut provoquer l'asphyxie. C'est pourquoi on ventile les locaux et on utilise des détecteurs. L'odeur d'allumette est, elle, typique du SO₂.
+DE: CO₂ is heavier than air and odourless: during fermentations it collects near the floor and in vats and can cause suffocation. That is why rooms are ventilated and detectors are used. The burnt-match smell is typical of SO₂.
+
+#vin p0 f=co2so2
+Q: In quale di queste situazioni la CO₂ viene usata per proteggere dall'ossigeno? || Dans laquelle de ces situations le CO₂ sert-il à protéger de l'oxygène ? || In which of these situations is CO₂ used to protect from oxygen?
+A: Sotto forma di ghiaccio secco durante la macerazione a freddo || Sous forme de neige carbonique pendant la macération à froid || As dry ice during a cold soak
+B: Per uccidere i batteri acetici nel vino finito || Pour tuer les bactéries acétiques dans le vin fini || To kill acetic bacteria in the finished wine
+C: Per legare l'acetaldeide e togliere l'odore di mela ammaccata || Pour fixer l'éthanal et effacer l'odeur de pomme blette || To bind acetaldehyde and remove the bruised-apple smell
+D: Per sanificare le botti vuote bruciandola || Pour assainir les fûts vides en le brûlant || To sanitise empty barrels by burning it
+E: CO₂ = coperta senza ossigeno: macerazione carbonica, ghiaccio secco, gas inerte. || CO₂ = couverture sans oxygène : macération carbonique, neige carbonique, gaz inerte. || CO₂ = oxygen-free blanket: carbonic maceration, dry ice, inert gas.
+DI: Pesante e senza ossigeno, la CO₂ forma una coperta protettiva: riempie la vasca nella macerazione carbonica, protegge le uve come ghiaccio secco nella macerazione a freddo e, con azoto e argon, riempie lo spazio vuoto di vasche e bottiglie. Uccidere batteri, legare l'acetaldeide e sanificare le botti sono compiti della SO₂.
+DF: Lourd et sans oxygène, le CO₂ forme une couverture protectrice : il remplit la cuve dans la macération carbonique, protège le raisin sous forme de neige carbonique dans la macération à froid et, avec l'azote et l'argon, remplit l'espace vide des cuves et des bouteilles. Tuer les bactéries, fixer l'éthanal et assainir les fûts sont des rôles du SO₂.
+DE: Heavy and oxygen-free, CO₂ forms a protective blanket: it fills the vat in carbonic maceration, protects grapes as dry ice during a cold soak and, with nitrogen and argon, fills the headspace of vats and bottles. Killing bacteria, binding acetaldehyde and sanitising barrels are SO₂'s jobs.
+
+#vin p0 b f=co2so2
+Q: Quali sono i due ruoli principali della SO₂ nel vino? || Quels sont les deux rôles principaux du SO₂ dans le vin ? || What are the two main roles of SO₂ in wine?
+A: Antisettico e antiossidante || Antiseptique et antioxydant || Antimicrobial and antioxidant
+B: Creare le bollicine e aumentare l'alcol || Créer les bulles et augmenter l'alcool || Creating bubbles and raising alcohol
+C: Estrarre colore e ammorbidire i tannini || Extraire la couleur et assouplir les tanins || Extracting colour and softening tannins
+D: Aumentare l'acidità e avviare la malolattica || Augmenter l'acidité et lancer la malolactique || Raising acidity and starting malolactic
+E: La SO₂ frena i microbi indesiderati e protegge dall'ossidazione. || Le SO₂ freine les microbes indésirables et protège de l'oxydation. || SO₂ holds back unwanted microbes and protects against oxidation.
+DI: La SO₂ è antisettica (frena Acetobacter, batteri lattici, lieviti selvaggi, Brettanomyces) e antiossidante (blocca gli enzimi ossidanti, reagisce con l'ossigeno e lega l'acetaldeide). Non crea bollicine: quello è il ruolo della CO₂.
+DF: Le SO₂ est antiseptique (il freine Acetobacter, les bactéries lactiques, les levures sauvages, Brettanomyces) et antioxydant (il bloque les enzymes oxydantes, réagit avec l'oxygène et fixe l'éthanal). Il ne crée pas de bulles : c'est le rôle du CO₂.
+DE: SO₂ is antimicrobial (it holds back Acetobacter, lactic bacteria, wild yeasts, Brettanomyces) and antioxidant (it blocks oxidising enzymes, reacts with oxygen and binds acetaldehyde). It does not create bubbles: that is CO₂'s role.
+
+#vin p0 f=co2so2
+Q: Perché la scritta «senza solfiti aggiunti» non significa che il vino è privo di solfiti? || Pourquoi la mention « sans sulfites ajoutés » ne signifie-t-elle pas que le vin est exempt de sulfites ? || Why does 'no added sulfites' not mean the wine is sulfite-free?
+A: Perché i lieviti ne producono un po' durante la fermentazione || Parce que les levures en produisent un peu pendant la fermentation || Because yeasts produce a little during fermentation
+B: Perché la CO₂ si trasforma in SO₂ in bottiglia || Parce que le CO₂ se transforme en SO₂ en bouteille || Because CO₂ turns into SO₂ in the bottle
+C: Perché la legge obbliga ad aggiungerne almeno 50 mg/L || Parce que la loi oblige à en ajouter au moins 50 mg/L || Because the law requires at least 50 mg/L to be added
+D: Perché le bucce dell'uva sono ricoperte di zolfo naturale || Parce que les pellicules sont couvertes de soufre naturel || Because grape skins are coated in natural sulfur
+E: Anche senza aggiunte, la fermentazione produce un po' di SO₂. || Même sans ajout, la fermentation produit un peu de SO₂. || Even with no additions, fermentation produces a little SO₂.
+DI: La SO₂ si aggiunge come gas, soluzione, metabisolfito di potassio o zolfo bruciato nelle botti, ma i lieviti ne producono anche naturalmente un po'. Per questo un vino davvero senza solfiti non esiste: «senza solfiti aggiunti» indica solo che il produttore non ne ha aggiunti.
+DF: Le SO₂ est ajouté sous forme de gaz, de solution, de métabisulfite de potassium ou de mèche de soufre dans les fûts, mais les levures en produisent aussi naturellement un peu. C'est pourquoi un vin réellement sans sulfites n'existe pas : « sans sulfites ajoutés » indique seulement que le producteur n'en a pas ajouté.
+DE: SO₂ is added as gas, solution, potassium metabisulfite or burnt sulfur in barrels, but yeasts also make a little naturally. That is why a truly sulfite-free wine does not exist: 'no added sulfites' only means the producer added none.
+
+#vin p0 f=co2so2
+Q: Quale forma di SO₂ protegge davvero il vino? || Quelle forme de SO₂ protège réellement le vin ? || Which form of SO₂ actually protects the wine?
+A: La SO₂ libera || Le SO₂ libre || Free SO₂
+B: La SO₂ combinata || Le SO₂ combiné || Bound SO₂
+C: La SO₂ totale || Le SO₂ total || Total SO₂
+D: La SO₂ legata agli zuccheri || Le SO₂ fixé aux sucres || SO₂ bound to sugars
+E: Solo la libera è attiva; combinata + libera = totale (limitata dalla legge). || Seul le libre est actif ; combiné + libre = total (limité par la loi). || Only free SO₂ is active; bound + free = total (limited by law).
+DI: Una parte della SO₂ si lega a zuccheri e acetaldeide (SO₂ combinata) e non protegge più. Resta attiva solo la SO₂ libera, più efficace a pH basso. La somma è la SO₂ totale, quella limitata dalla legge.
+DF: Une partie du SO₂ se combine aux sucres et à l'éthanal (SO₂ combiné) et ne protège plus. Seul le SO₂ libre reste actif, plus efficace à pH bas. La somme est le SO₂ total, celui que limite la loi.
+DE: Some SO₂ binds to sugars and acetaldehyde (bound SO₂) and no longer protects. Only free SO₂ stays active, more effective at low pH. The sum is total SO₂, the figure limited by law.
+
+#vin p0 f=co2so2
+Q: Perché i vini dolci richiedono più SO₂ dei vini secchi? || Pourquoi les vins doux demandent-ils plus de SO₂ que les vins secs ? || Why do sweet wines need more SO₂ than dry wines?
+A: Lo zucchero lega la SO₂ e il vino rischia di rifermentare || Le sucre fixe le SO₂ et le vin risque de refermenter || Sugar binds SO₂ and the wine risks refermenting
+B: Lo zucchero produce CO₂ che scaccia la SO₂ || Le sucre produit du CO₂ qui chasse le SO₂ || Sugar produces CO₂ that drives out SO₂
+C: I vini dolci hanno sempre un pH più alto dei rossi || Les vins doux ont toujours un pH plus élevé que les rouges || Sweet wines always have a higher pH than reds
+D: La legge impone una dose minima per i vini dolci || La loi impose une dose minimale pour les vins doux || The law sets a minimum dose for sweet wines
+E: Zucchero residuo = cibo per i lieviti + SO₂ combinata: serve più SO₂ libera. || Sucre résiduel = nourriture pour les levures + SO₂ combiné : il faut plus de SO₂ libre. || Residual sugar = yeast food + bound SO₂: more free SO₂ is needed.
+DI: Nei vini dolci lo zucchero residuo può far ripartire la fermentazione in bottiglia e inoltre lega una parte della SO₂, che non protegge più. Servono quindi dosi più alte, e la legge prevede limiti massimi più elevati per i vini dolci.
+DF: Dans les vins doux, le sucre résiduel peut faire repartir la fermentation en bouteille et fixe en plus une partie du SO₂, qui ne protège plus. Il faut donc des doses plus élevées, et la loi prévoit des maximums plus hauts pour les vins doux.
+DE: In sweet wines residual sugar can restart fermentation in bottle and also binds some of the SO₂, which then no longer protects. Higher doses are needed, and the law allows higher maximums for sweet wines.
+
+#vin p0 b f=co2so2
+Q: In quale momento si evita di aggiungere SO₂ se si desidera la malolattica? || À quel moment évite-t-on d'ajouter du SO₂ si l'on souhaite la malolactique ? || At what point is SO₂ avoided if malolactic conversion is wanted?
+A: Tra la fine della fermentazione alcolica e la fine della malolattica || Entre la fin de la fermentation alcoolique et la fin de la malolactique || Between the end of alcoholic fermentation and the end of malolactic
+B: All'imbottigliamento || À la mise en bouteille || At bottling
+C: Durante l'affinamento, dopo la malolattica || Pendant l'élevage, après la malolactique || During maturation, after malolactic
+D: Sulle uve appena raccolte || Sur le raisin juste récolté || On freshly picked grapes
+E: La SO₂ bloccherebbe Oenococcus oeni: si aggiunge solo dopo la malolattica. || Le SO₂ bloquerait Oenococcus oeni : on l'ajoute seulement après la malolactique. || SO₂ would block Oenococcus oeni: it is added only after malolactic.
+DI: La SO₂ si aggiunge all'uva e alla pigiatura, poi dopo le fermentazioni, durante l'affinamento e all'imbottigliamento. Se si vuole la malolattica, la si evita tra la fine della fermentazione alcolica e la fine della malolattica, perché fermerebbe i batteri lattici.
+DF: Le SO₂ est ajouté sur le raisin et au foulage, puis après les fermentations, pendant l'élevage et à la mise en bouteille. Si l'on veut la malolactique, on l'évite entre la fin de la fermentation alcoolique et la fin de la malolactique, car il arrêterait les bactéries lactiques.
+DE: SO₂ is added to the grapes and at crushing, then after fermentations, during maturation and at bottling. If malolactic is wanted, it is avoided between the end of alcoholic fermentation and the end of malolactic, because it would stop the lactic bacteria.
+
+#vin p0 f=co2so2
+Q: Quale difetto indica un eccesso di SO₂ nel vino? || Quel défaut révèle un excès de SO₂ dans le vin ? || Which fault indicates too much SO₂ in a wine?
+A: Odore di fiammifero bruciato che pizzica il naso || Une odeur d'allumette brûlée qui pique le nez || A burnt-match smell that stings the nose
+B: Odore di stalla, cuoio e cerotto || Une odeur d'écurie, de cuir et de pansement || A smell of farmyard, leather and plaster
+C: Colore marrone e odore di mela ammaccata || Une couleur brune et une odeur de pomme blette || Brown colour and a bruised-apple smell
+D: Odore di aceto e di colla || Une odeur de vinaigre et de colle || A smell of vinegar and nail varnish
+E: Troppa SO₂ = fiammifero; troppo poca = ossidazione o alterazioni microbiche. || Trop de SO₂ = allumette ; trop peu = oxydation ou altérations microbiennes. || Too much SO₂ = burnt match; too little = oxidation or microbial spoilage.
+DI: Un eccesso di SO₂ dà un odore di fiammifero bruciato che pizzica il naso e copre il frutto. Stalla e cuoio indicano Brettanomyces, la mela ammaccata indica ossidazione (poca SO₂), l'aceto indica batteri acetici: tutti difetti che una SO₂ insufficiente lascia sviluppare.
+DF: Un excès de SO₂ donne une odeur d'allumette brûlée qui pique le nez et masque le fruit. L'écurie et le cuir révèlent Brettanomyces, la pomme blette l'oxydation (trop peu de SO₂), le vinaigre les bactéries acétiques : autant de défauts qu'un SO₂ insuffisant laisse se développer.
+DE: Too much SO₂ gives a burnt-match smell that stings the nose and masks the fruit. Farmyard and leather point to Brettanomyces, bruised apple to oxidation (too little SO₂), vinegar to acetic bacteria: all faults that insufficient SO₂ allows to develop.
+
+#vin p0 f=co2so2
+Q: Quali vini secchi hanno nella UE il limite massimo di SO₂ totale più basso? || Quels vins secs ont, dans l'UE, la limite maximale de SO₂ total la plus basse ? || Which dry wines have the lowest maximum total SO₂ limit in the EU?
+A: I rossi secchi || Les rouges secs || Dry reds
+B: I bianchi secchi || Les blancs secs || Dry whites
+C: I rosati secchi || Les rosés secs || Dry rosés
+D: Tutti i vini secchi hanno lo stesso limite || Tous les vins secs ont la même limite || All dry wines have the same limit
+E: Rossi secchi ≈ 150 mg/L; bianchi e rosati secchi ≈ 200 mg/L; dolci di più. || Rouges secs ≈ 150 mg/L ; blancs et rosés secs ≈ 200 mg/L ; doux davantage. || Dry reds ≈ 150 mg/L; dry whites and rosés ≈ 200 mg/L; sweet wines more.
+DI: I rossi sono protetti in parte dai tannini, antiossidanti naturali, e ne hanno meno bisogno: limite circa 150 mg/L. Bianchi e rosati secchi arrivano a circa 200 mg/L, i vini dolci ancora di più. Sopra 10 mg/L l'etichetta deve indicare «contiene solfiti».
+DF: Les rouges sont protégés en partie par leurs tanins, antioxydants naturels, et en ont moins besoin : limite d'environ 150 mg/L. Les blancs et rosés secs montent à environ 200 mg/L, les vins doux encore plus. Au-delà de 10 mg/L, l'étiquette doit indiquer « contient des sulfites ».
+DE: Reds are partly protected by their tannins, natural antioxidants, and need less: limit about 150 mg/L. Dry whites and rosés go up to about 200 mg/L, sweet wines even higher. Above 10 mg/L the label must say 'contains sulfites'.

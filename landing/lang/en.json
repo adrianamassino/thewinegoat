@@ -1,0 +1,851 @@
+{
+ "code": "en",
+ "name": "English",
+ "locale": "en_GB",
+ "hreflang": [
+  "en",
+  "en-GB",
+  "en-US",
+  "en-IE",
+  "en-AU",
+  "en-CA",
+  "en-NZ",
+  "en-ZA",
+  "en-SG",
+  "en-HK"
+ ],
+ "title": "WSET Level 3 Exam Prep | Practice Questions, Short Answers & Mock Exams – The Wine Goat",
+ "desc": "Prepare for the WSET Level 3 Award in Wines: 2,000+ multiple-choice practice questions, 101 short written answer questions with marking, SAT tasting practice, mock exams and exam traps. Try it free. Personalised app with a study plan and weak-point revision.",
+ "keywords": "WSET 3, WSET Level 3, WSET Level 3 practice questions, WSET 3 mock exam, WSET Level 3 exam prep, WSET 3 revision, WSET Level 3 Award in Wines, WSET short written answers, WSET Level 3 tasting, SAT WSET, how to pass WSET Level 3, WSET 3 study guide, WSET 2, WSET 1",
+ "ogtitle": "Pass WSET Level 3 first time – The Wine Goat",
+ "ogdesc": "Practice questions, marked short answers, tasting practice and exam traps: WSET Level 3 exam prep that works. Try it free.",
+ "skip": "Skip to content",
+ "nav": {
+  "levels": "Levels",
+  "trial": "Free trial",
+  "exam": "The exam",
+  "program": "Syllabus",
+  "pricing": "Modules & pricing",
+  "faq": "FAQ",
+  "login": "Open the app",
+  "cta": "Start free",
+  "menu": "Menu",
+  "lang": "Language"
+ },
+ "hero": {
+  "kicker": "WSET® Level 3 exam prep · Award in Wines",
+  "h1": "Pass your WSET Level 3 exam first time",
+  "lead": "WSET 3 practice questions, short written answers marked instantly, SAT tasting practice, mock exams and every exam trap to avoid. On any device, wherever you study. A personalised app: it builds your study plan up to exam day, tells you what to do each day and helps you close your gaps.",
+  "cta1": "Play now, it's free",
+  "cta2": "See the modules",
+  "bullets": [
+   "Bordeaux free, in full",
+   "Pay only for the modules you need",
+   "No subscription"
+  ],
+  "stats": [
+   [
+    "2,000+",
+    "multiple-choice questions"
+   ],
+   [
+    "101",
+    "short answer questions"
+   ],
+   [
+    "28",
+    "syllabus topics and regions"
+   ]
+  ],
+  "img_alt": "The Wine Goat mascot in a burgundy cape raising a glass of red wine beside a bunch of grapes"
+ },
+ "levels": {
+  "h2": "WSET Level 1, 2 and 3 exam prep",
+  "intro": "One platform for the whole WSET Wines path: start at the level you need and keep the same method as you progress.",
+  "cards": [
+   [
+    "WSET Level 3",
+    "Available",
+    "The advanced level: full theory, short written answers, blind tasting with the SAT and mock exams.",
+    "Start Level 3"
+   ],
+   [
+    "WSET Level 2",
+    "Coming soon",
+    "The world's key grapes and regions, labels and food pairing: practice questions and revision for the exam.",
+    "Notify me"
+   ],
+   [
+    "WSET Level 1",
+    "Coming soon",
+    "Wine basics: styles, service and food and wine pairing, with short quizzes to walk into the exam with confidence.",
+    "Notify me"
+   ]
+  ]
+ },
+ "feat": {
+  "h2": "Everything you need to pass WSET Level 3, in every module",
+  "intro": "Every module includes all the app's tools for that part of the syllabus.",
+  "items": [
+   [
+    "A personalised app that coaches you",
+    "The app builds a day-by-day study plan up to your exam, based on your goal (Pass, Merit or Distinction), your exam date, your class days and the time you have. It gives you advice, spots your weak points and makes you revise exactly those."
+   ],
+   [
+    "2,000+ WSET 3 practice questions",
+    "Multiple-choice questions on viticulture, winemaking, regions, sparkling and fortified wines, each with an explanation."
+   ],
+   [
+    "Short written answers, marked",
+    "Write your answer and get instant point-by-point marking against the textbook key points: what you hit, what is missing and how many marks you would have scored."
+   ],
+   [
+    "Notes: photos and lessons",
+    "Photograph the pages of your notes and keep them in the app next to your own text, or transcribe the lesson as your teacher speaks."
+   ],
+   [
+    "The perfect answer",
+    "For every open question, the model answer that earns full marks, so you learn exactly what the examiner wants."
+   ],
+   [
+    "SAT tasting practice",
+    "Appearance, nose, palate and conclusions: learn to describe wine with the right vocabulary and justify quality and readiness."
+   ],
+   [
+    "Exam logic and traps",
+    "The climate → grape → wine chain, the words that lose marks and the trick questions that come back every year."
+   ],
+   [
+    "Mistake review",
+    "Every wrong answer comes back until you know it: your error counter goes down as you fix them."
+   ],
+   [
+    "Games, maps and synonyms",
+    "Matching games, local grape names, regional maps and podcasts to revise on the go."
+   ]
+  ]
+ },
+ "trial": {
+  "h2": "Free trial: WSET 3 exam-style questions",
+  "intro": "Six real questions from our bank, with an explanation after each answer. No sign-up needed.",
+  "q": "Question",
+  "check": "Check",
+  "next": "Next question",
+  "finish": "See your score",
+  "ok": "Correct!",
+  "ko": "Not quite.",
+  "score": "You got {n} out of {t} right.",
+  "restart": "Start again",
+  "after_h": "Enjoyed it?",
+  "after_p": "In the app the whole Bordeaux module is free: practice questions, marked open questions and your mistake review.",
+  "after_cta": "Open the app for free",
+  "open_h": "And one short written answer",
+  "open_intro": "In the WSET 3 exam, open questions are worth half of the theory marks. Answer in your head, then reveal the points that earn marks.",
+  "open_btn": "Show the points to make",
+  "open_hide": "Hide",
+  "open_marks": "marks"
+ },
+ "exam": {
+  "h2": "How the WSET Level 3 exam works",
+  "intro": "Knowing how you are assessed is half the preparation. The WSET Level 3 Award in Wines exam has two parts, and you must pass both.",
+  "cards": [
+   [
+    "Theory: 50 multiple-choice questions",
+    "They cover the whole syllabus, from vineyard conditions to the world's regions. Speed and accuracy matter."
+   ],
+   [
+    "Theory: 4 short written answer questions",
+    "Written questions split into sub-questions: you score by linking cause and effect, not by listing keywords."
+   ],
+   [
+    "Blind tasting of 2 wines",
+    "A full tasting note using the Systematic Approach to Tasting (SAT): accurate description and reasoned conclusions."
+   ],
+   [
+    "Pass mark: 55%",
+    "You need 55% in the tasting and in each of the two theory sections. Results are Pass, Merit or Distinction."
+   ]
+  ],
+  "tip": "The Wine Goat tip: short written answers are where most marks are lost. Practise them on paper from week one."
+ },
+ "prog": {
+  "h2": "WSET 3 syllabus: every topic you revise",
+  "intro": "Practice questions and open questions follow the WSET Level 3 exam syllabus, topic by topic and region by region.",
+  "groups": [
+   [
+    "Foundations",
+    [
+     [
+      "deg",
+      "Tasting and the SAT"
+     ],
+     [
+      "cib",
+      "Food and wine pairing"
+     ],
+     [
+      "srv",
+      "Storage and service"
+     ],
+     [
+      "prx",
+      "Wine pricing and the trade"
+     ]
+    ]
+   ],
+   [
+    "Vineyard",
+    [
+     [
+      "vig",
+      "The vine and grape varieties"
+     ],
+     [
+      "env",
+      "Climate and environment"
+     ],
+     [
+      "vgm",
+      "Vineyard management and pruning"
+     ]
+    ]
+   ],
+   [
+    "Winery",
+    [
+     [
+      "vin",
+      "Winemaking and maturation"
+     ],
+     [
+      "wht",
+      "White wines"
+     ],
+     [
+      "red",
+      "Red and rosé wines"
+     ]
+    ]
+   ],
+   [
+    "France",
+    [
+     [
+      "bdx",
+      "Bordeaux"
+     ],
+     [
+      "bgn",
+      "Burgundy and Beaujolais"
+     ],
+     [
+      "als",
+      "Alsace and the Loire"
+     ],
+     [
+      "rho",
+      "Rhône Valley"
+     ],
+     [
+      "sfr",
+      "Southern France"
+     ]
+    ]
+   ],
+   [
+    "Europe",
+    [
+     [
+      "ita",
+      "Italy"
+     ],
+     [
+      "esp",
+      "Spain"
+     ],
+     [
+      "por",
+      "Portugal"
+     ],
+     [
+      "ger",
+      "Germany"
+     ],
+     [
+      "aut",
+      "Austria and Hungary"
+     ],
+     [
+      "gre",
+      "Greece"
+     ]
+    ]
+   ],
+   [
+    "New World",
+    [
+     [
+      "usa",
+      "USA and Canada"
+     ],
+     [
+      "chi",
+      "Chile and Argentina"
+     ],
+     [
+      "rsa",
+      "South Africa"
+     ],
+     [
+      "aus",
+      "Australia and New Zealand"
+     ]
+    ]
+   ],
+   [
+    "Special wines",
+    [
+     [
+      "spu",
+      "Sparkling: Champagne, Prosecco, Cava"
+     ],
+     [
+      "she",
+      "Sherry"
+     ],
+     [
+      "prt",
+      "Port and fortified wines"
+     ]
+    ]
+   ]
+  ],
+  "qn": "questions"
+ },
+ "method": {
+  "h2": "The Wine Goat method in 4 steps",
+  "steps": [
+   [
+    "Practise every day",
+    "Ten minutes of questions a day beats a marathon the night before. Always pick up where you left off."
+   ],
+   [
+    "Write your answers",
+    "Short written answers are learned by writing. Get your marking and compare it with the perfect answer."
+   ],
+   [
+    "Review your mistakes",
+    "Questions you got wrong come back until you know them. The counter shows how much is left."
+   ],
+   [
+    "Simulate the exam",
+    "Full timed papers in exam-day conditions, so nothing surprises you on the day."
+   ]
+  ]
+ },
+ "why": {
+  "h2": "Why choose The Wine Goat",
+  "head": [
+   "",
+   "Studying alone with the book and notes",
+   "The Wine Goat"
+  ],
+  "rows": [
+   [
+    "Exam-style questions to practise",
+    "Few, scattered around",
+    "2,000+ questions and 101 open questions"
+   ],
+   [
+    "Marking of written answers",
+    "None",
+    "Instant, point by point, against the textbook key points"
+   ],
+   [
+    "Language",
+    "Usually English only",
+    "English, Italian, French"
+   ],
+   [
+    "Targeted revision",
+    "Reread everything",
+    "Only what you get wrong"
+   ],
+   [
+    "Where and when",
+    "At your desk",
+    "Anywhere, even on your phone"
+   ]
+  ]
+ },
+ "faq": {
+  "h2": "WSET Level 3 exam prep: frequently asked questions",
+  "items": [
+   [
+    "Is The Wine Goat the official WSET website?",
+    "No. The Wine Goat is an independent exam preparation platform. It is not affiliated with or approved by the Wine & Spirit Education Trust: to sit the exam you need to enrol with an Approved Programme Provider."
+   ],
+   [
+    "How do the modules work?",
+    "Each module covers part of the syllabus (for example Europe or The winery) with practice questions, marked open questions, games and revision material. You unlock it with a one-off payment and keep it for 12 months, with no automatic renewal."
+   ],
+   [
+    "What can I use for free?",
+    "The whole Bordeaux module, in full, plus a few trial exercises from the other modules. No credit card needed."
+   ],
+   [
+    "Can The Wine Goat replace the WSET Level 3 course?",
+    "No, it complements it. The course and official materials give you the knowledge; The Wine Goat trains you to recall it and write it well on exam day."
+   ],
+   [
+    "Which languages is it available in?",
+    "English, Italian and French, and you can switch at any time: useful if you study in your own language but sit the exam in English."
+   ],
+   [
+    "How does marking of short written answers work?",
+    "Type your answer: the app compares it with the textbook key points, shows which points you hit and which are missing, estimates your score and shows you the model answer. It all happens on your device, with no external service."
+   ],
+   [
+    "How long does it take to prepare for WSET Level 3?",
+    "It depends on your starting point, but most students need a few months of regular study on top of course hours. Modules stay yours for 12 months, so there is time even for a resit."
+   ],
+   [
+    "How many questions are in the WSET Level 3 exam?",
+    "The theory paper has 50 multiple-choice questions and 4 short written answer questions, followed by a blind tasting of two wines."
+   ],
+   [
+    "What is the pass mark for WSET Level 3?",
+    "55% in the tasting and in each of the two theory sections. Results are Pass, Merit or Distinction."
+   ],
+   [
+    "Can I practise tasting too?",
+    "Yes: a guide to the SAT, the vocabulary for every heading and questions on quality and readiness for drinking. Nothing replaces the wine in your glass, though."
+   ],
+   [
+    "Does it work on my phone?",
+    "Yes, The Wine Goat runs in the browser on phone, tablet and computer. Your progress is saved on the device you use."
+   ],
+   [
+    "Will there be WSET Level 1 and Level 2 prep?",
+    "Yes, Level 2 and Level 1 are coming with the same method and the same module-based pricing."
+   ]
+  ]
+ },
+ "final": {
+  "h2": "Your WSET Level 3 exam starts today",
+  "p": "Six free questions, no credit card: find out right now where you stand.",
+  "cta": "Try it free"
+ },
+ "foot": {
+  "tag": "WSET wine exam preparation in English, Italian and French.",
+  "disc": "The Wine Goat is an independent exam preparation platform. It is not affiliated with, endorsed or sponsored by the Wine & Spirit Education Trust. WSET® is a registered trademark of the Wine & Spirit Education Trust, mentioned only to identify the exam being prepared for.",
+  "langs": "Languages",
+  "follow": "Follow us",
+  "rights": "All rights reserved."
+ },
+ "notify": "We'll let you know as soon as it launches: follow us on Instagram @the.winegoat.",
+ "quick": {
+  "kick": "Quick question · Bordeaux",
+  "more": "More free questions",
+  "ok": "Correct!",
+  "ko": "Nearly!",
+  "next": "Another one"
+ },
+ "free": {
+  "tag": "Free module",
+  "h": "Bordeaux free: start your WSET 3 prep without paying",
+  "p": "Practice questions, marked open questions, maps and games on Bordeaux: the whole module is open, no credit card. Try the method on one of the exam's key regions.",
+  "cta": "Start with Bordeaux",
+  "n": "Bordeaux questions"
+ },
+ "explore": {
+  "h2": "Free WSET 3 practice questions and games, right here",
+  "intro": "Six real exercises, right on this page. Pick one and play: the app has thousands more.",
+  "tabs": {
+   "quiz": "Quiz",
+   "match": "Matching",
+   "tf": "True or false",
+   "flash": "Flashcards",
+   "open": "Open question",
+   "notes": "Notes",
+   "film": "Films",
+   "pod": "Podcast"
+  },
+  "from": "Part of the module",
+  "unlock": "Unlock the module",
+  "match": {
+   "h": "Same grape, different names",
+   "p": "Tap a local name, then the matching grape.",
+   "pairs": [
+    [
+     "Tinta Roriz",
+     "Tempranillo"
+    ],
+    [
+     "Cannonau",
+     "Garnacha"
+    ],
+    [
+     "Côt",
+     "Malbec"
+    ],
+    [
+     "Steen",
+     "Chenin Blanc"
+    ],
+    [
+     "Shiraz",
+     "Syrah"
+    ]
+   ],
+   "done": "Perfect! {e} mistake(s).",
+   "again": "Play again",
+   "mod": "eur"
+  },
+  "tf": {
+   "h": "True or false? Exam traps",
+   "p": "Statements that catch out many candidates.",
+   "t": "True",
+   "f": "False",
+   "score": "{n} out of {t} right",
+   "again": "Play again",
+   "mod": "exam",
+   "items": [
+    [
+     "Extra Dry is drier than Brut.",
+     false,
+     "The other way round: Extra Dry has 12–17 g/L of sugar, Brut 0–12 g/L."
+    ],
+    [
+     "Vino Nobile di Montepulciano is made from the Montepulciano grape.",
+     false,
+     "It is made from Sangiovese: here Montepulciano is the name of the town."
+    ],
+    [
+     "Pinotage is a crossing of Pinot Noir and Cinsault.",
+     true,
+     "Developed in South Africa, it is hardly grown anywhere else."
+    ],
+    [
+     "Fino is fortified to about 15% so that flor survives.",
+     true,
+     "At around 17% flor dies: that is the Oloroso route."
+    ],
+    [
+     "In Bordeaux almost all wines are blends.",
+     true,
+     "The most common exception is some single-varietal dry Sauvignon Blanc."
+    ]
+   ]
+  },
+  "flash": {
+   "h": "Flashcards",
+   "p": "Tap the card to flip it.",
+   "flip": "Flip",
+   "next": "Next",
+   "mod": "cel",
+   "cards": [
+    [
+     "Flor",
+     "A film of yeast that grows on wine at about 15% and protects it from oxygen: it gives Fino and Manzanilla."
+    ],
+    [
+     "Botrytis cinerea",
+     "Noble rot: misty mornings and dry afternoons concentrate sugar and acidity (Sauternes, Tokaji)."
+    ],
+    [
+     "Carbonic maceration",
+     "Fermentation inside whole berries under CO₂: red fruit, kirsch, banana, soft tannins."
+    ],
+    [
+     "Malolactic conversion",
+     "Lactic bacteria turn malic acid into lactic acid: softer acidity, buttery notes."
+    ]
+   ]
+  },
+  "notes": {
+   "h": "Your notes, effortlessly",
+   "p": "Two tools no textbook gives you.",
+   "photo_t": "Photos of your notes",
+   "photo_d": "Photograph your handwritten pages: they stay in the app, on your device, next to your own text.",
+   "lesson_t": "Lesson notes",
+   "lesson_d": "The app listens to your teacher and transcribes as they speak.",
+   "demo": [
+    "Merlot is the most planted grape in Bordeaux.",
+    "On the Left Bank, Cabernet Sauvignon dominates on gravel soils.",
+    "On the Right Bank, cool clays: more Merlot."
+   ],
+   "rec": "Listening",
+   "mod": "all"
+  },
+  "film": {
+   "h": "Wine films",
+   "p": "Every topic becomes a short animated, narrated film: pruning, winemaking, the regions with their maps. At the end: key words and a test.",
+   "cta": "Watch the films in the app",
+   "mod": "all"
+  },
+  "pod": {
+   "h": "Podcast: Bordeaux",
+   "p": "Listen to a real episode. The app has all 45 chapters, with the text scrolling as you listen.",
+   "cta": "All podcasts in the app",
+   "mod": "bdx"
+  }
+ },
+ "mods": {
+  "h2": "WSET Level 3 prep by module: pay only for what you need",
+  "intro": "No subscription: unlock a module with a one-off payment and keep it for 12 months. Bordeaux is free for everyone.",
+  "free": "Free",
+  "buy": "Unlock",
+  "openfree": "Open for free",
+  "q": "questions",
+  "once": "one-off payment",
+  "items": {
+   "bdx": [
+    "Bordeaux",
+    "The trial module: complete and free."
+   ],
+   "tas": [
+    "Tasting, food and service",
+    "The SAT, food pairing, storage and service."
+   ],
+   "vin": [
+    "The vineyard",
+    "Climate, environment, vineyard management and pruning."
+   ],
+   "cel": [
+    "The winery",
+    "Making white, red and rosé wines, maturation, price."
+   ],
+   "fra": [
+    "France (beyond Bordeaux)",
+    "Burgundy, Beaujolais, Alsace, Loire, Rhône, the South."
+   ],
+   "eur": [
+    "Europe",
+    "Italy, Spain, Portugal, Germany, Austria, Hungary, Greece."
+   ],
+   "nw": [
+    "New World",
+    "USA, Canada, Chile, Argentina, South Africa, Australia, New Zealand."
+   ],
+   "spe": [
+    "Sparkling and fortified",
+    "Champagne, Prosecco, Cava, Sherry, Port and sweet wines."
+   ],
+   "exam": [
+    "Exam and strategy",
+    "Full mock exams, exam logic and traps."
+   ]
+  },
+  "examq": "mock exams",
+  "bundle": {
+   "badge": "Best value",
+   "name": "All modules",
+   "desc": "The whole of Level 3, every tool, 12 months.",
+   "cta": "Unlock everything",
+   "save": "Save {s}"
+  },
+  "note": "Prices include VAT. Already own some modules? Upgrade to All modules and pay only the difference."
+ },
+ "guide": {
+  "h2": "How to prepare for the WSET Level 3 exam",
+  "intro": "The guide to passing the WSET Level 3 Award in Wines first time: what to study, how to practise and which mistakes to avoid.",
+  "blocks": [
+   [
+    "WSET 3 multiple-choice practice questions",
+    "The first theory section has 50 multiple-choice questions. The most effective preparation is answering lots of exam-style questions and understanding every mistake: The Wine Goat has 2,000+ WSET Level 3 practice questions with explanations, organised by topic and region, from vineyard to winery, from Bordeaux to New Zealand."
+   ],
+   [
+    "WSET 3 short written answers",
+    "The 4 short written answer questions are worth half of the theory marks, and they are where most marks are lost. Knowing facts is not enough: you have to explain why, linking cause and effect (climate → ripeness → wine style). With The Wine Goat you type your answer, get point-by-point marking against the textbook key points and see the model answer."
+   ],
+   [
+    "WSET 3 mock exams",
+    "Sitting a few full timed mock exams is the best way to walk in with confidence: you get used to the pace and see which chapters need revision. The Exam and strategy module includes WSET Level 3 mock exams, exam logic and the most common traps."
+   ],
+   [
+    "WSET 3 tasting with the SAT",
+    "The blind tasting of two wines is prepared with the Systematic Approach to Tasting (SAT): appearance, nose, palate and conclusions on quality and readiness for drinking. The app gives you the vocabulary for every heading and questions to train your conclusions; the glass remains the best practice."
+   ],
+   [
+    "Study WSET 3 in your language",
+    "Most revision material exists only in English. The Wine Goat is in English, Italian and French: study in the language you think in and switch to English in one tap before the exam."
+   ],
+   [
+    "A WSET Level 3 study plan",
+    "Ten minutes of questions a day, one written open question a week, mistake review and a mock exam in the final weeks: that is the rhythm we suggest. With modules you choose which part of the WSET 3 syllabus to start with, and Bordeaux is free to try."
+   ]
+  ],
+  "searches_h": "Searches we answer",
+  "searches": [
+   "WSET Level 3 exam prep",
+   "WSET 3 practice questions",
+   "WSET Level 3 mock exam",
+   "WSET 3 short written answers",
+   "WSET 3 tasting SAT",
+   "how to pass WSET Level 3",
+   "WSET 3 revision",
+   "WSET Level 3 Award in Wines",
+   "WSET 3 study guide",
+   "WSET 2 and WSET 1 coming soon"
+  ]
+ },
+ "all": {
+  "h2": "Everything inside The Wine Goat",
+  "intro": "Not just quizzes: every kind of exercise, games, animated films, podcasts, maps and tools for your notes. Tap a tile to try it.",
+  "try": "Try it here",
+  "open": "Open in the app",
+  "tiles": {
+   "quiz": [
+    "Practice questions",
+    "With an explanation for every answer"
+   ],
+   "open": [
+    "Marked open questions",
+    "Point-by-point marking against the textbook key points"
+   ],
+   "exam": [
+    "Mock exam",
+    "Multiple choice, written answers and tasting, timed"
+   ],
+   "sat": [
+    "SAT tasting",
+    "Tasting notes with structure marking"
+   ],
+   "games": [
+    "Games",
+    "Harvest, bubbles, true or false, matching…"
+   ],
+   "films": [
+    "Wine films",
+    "Animated narrated lessons, maps and a final test"
+   ],
+   "pods": [
+    "Podcasts",
+    "One chapter per episode, with the text to follow"
+   ],
+   "flash": [
+    "Flashcards",
+    "Questions, terms, figures and grapes to flip"
+   ],
+   "maps": [
+    "Interactive maps",
+    "Countries, regions and subregions to explore"
+   ],
+   "grapes": [
+    "Grape profiles",
+    "Climate, aromas, styles and regions of every grape"
+   ],
+   "dict": [
+    "Dictionary and figures",
+    "Every term and number you need"
+   ],
+   "logic": [
+    "Exam logic and traps",
+    "How examiners think, the classic traps"
+   ],
+   "notes": [
+    "Lesson notes",
+    "Record the lesson or photograph your pages"
+   ],
+   "plan": [
+    "Your study plan",
+    "Day-by-day schedule, advice and weak points to revise"
+   ]
+  },
+  "units": {
+   "films": "films",
+   "pods": "episodes",
+   "games": "games",
+   "maps": "maps",
+   "grapes": "grapes",
+   "flash": "cards",
+   "dict": "entries",
+   "logic": "tips",
+   "quiz": "questions",
+   "open": "questions"
+  }
+ },
+ "inside": {
+  "h2": "Look inside the app",
+  "intro": "Real screens, exactly as you will see them on your phone.",
+  "caps": {
+   "home": "Your plan for today",
+   "study": "Exam training",
+   "films": "68 animated films",
+   "pods": "45 podcasts",
+   "play": "Games",
+   "atlas": "Interactive atlas",
+   "notes": "Your notes"
+  }
+ },
+ "vs": {
+  "h2": "Why The Wine Goat is worth more",
+  "intro": "Other WSET 3 resources cover just one piece. Here you get everything, in your language.",
+  "cols": [
+   "",
+   "The Wine Goat",
+   "Quiz apps",
+   "PDF mock papers",
+   "Book and notes"
+  ],
+  "rows": [
+   [
+    "Multiple-choice questions",
+    "✓ 2,000+",
+    "✓",
+    "✓",
+    "—"
+   ],
+   [
+    "Marking of written answers",
+    "✓ instant",
+    "—",
+    "self-marked",
+    "—"
+   ],
+   [
+    "Animated films and podcasts",
+    "✓ 68 films · 45 podcasts",
+    "—",
+    "—",
+    "—"
+   ],
+   [
+    "Games to memorise",
+    "✓ 11 games",
+    "sometimes",
+    "—",
+    "—"
+   ],
+   [
+    "Interactive maps",
+    "✓ 42 maps",
+    "—",
+    "—",
+    "on paper"
+   ],
+   [
+    "Lesson notes and photos",
+    "✓",
+    "—",
+    "—",
+    "by hand"
+   ],
+   [
+    "Languages",
+    "EN · IT · FR",
+    "usually English only",
+    "English",
+    "—"
+   ],
+   [
+    "To get started",
+    "Bordeaux free",
+    "paid",
+    "paid",
+    "—"
+   ]
+  ]
+ }
+}

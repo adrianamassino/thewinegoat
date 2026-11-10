@@ -1,0 +1,307 @@
+#red p64 b f=carb
+Q: Nella macerazione carbonica, con che cosa si riempie la vasca prima di caricare l'uva? || Dans la macération carbonique, avec quoi remplit-on la cuve avant d'y mettre le raisin ? || In carbonic maceration, what is the vat filled with before the grapes go in?
+A: Anidride carbonica (CO₂) || Du gaz carbonique (CO₂) || Carbon dioxide (CO₂)
+B: Anidride solforosa pura || Du dioxyde de soufre pur || Pure sulfur dioxide
+C: Lieviti selezionati in sospensione || Des levures sélectionnées en suspension || Selected yeast in suspension
+D: Ossigeno per avviare la fermentazione || De l'oxygène pour lancer la fermentation || Oxygen to start fermentation
+E: Vasca satura di CO₂, poi grappoli interi, poi chiusura: ambiente senza ossigeno. || Cuve saturée de CO₂, puis grappes entières, puis fermeture : milieu sans oxygène. || Vat saturated with CO₂, then whole bunches, then sealed: an oxygen-free setting.
+DI: Nella macerazione carbonica vera e propria la vasca viene prima saturata di anidride carbonica, poi caricata con grappoli interi e chiusa. L'assenza di ossigeno permette la fermentazione intracellulare dentro gli acini intatti.
+DF: Dans la vraie macération carbonique, la cuve est d'abord saturée de gaz carbonique, puis chargée de grappes entières et fermée. L'absence d'oxygène permet la fermentation intracellulaire dans les baies intactes.
+DE: In full carbonic maceration the vat is first saturated with carbon dioxide, then loaded with whole bunches and sealed. The lack of oxygen allows intracellular fermentation inside the intact berries.
+
+#red p64 b f=carb
+Q: In che stato deve arrivare l'uva in cantina per la macerazione carbonica? || Dans quel état le raisin doit-il arriver au chai pour la macération carbonique ? || In what state must the grapes reach the winery for carbonic maceration?
+A: Grappoli interi con acini intatti, vendemmiati a mano || Grappes entières aux baies intactes, vendangées à la main || Whole bunches with intact berries, picked by hand
+B: Diraspati e pigiati per liberare il succo || Éraflées et foulées pour libérer le jus || Destemmed and crushed to release the juice
+C: Acini sciolti raccolti a macchina || Baies détachées récoltées à la machine || Loose berries picked by machine
+D: Appassiti su graticci per concentrare lo zucchero || Passerillées sur claies pour concentrer le sucre || Dried on racks to concentrate the sugar
+E: Acini rotti fermenterebbero subito con i lieviti, come in una vinificazione classica. || Des baies abîmées fermenteraient aussitôt avec les levures, comme en vinification classique. || Broken berries would ferment straight away with yeast, as in a classic ferment.
+DI: La tecnica funziona solo con acini integri: per questo si vendemmia a mano e si trasporta l'uva in piccole cassette. Gli acini schiacciati fermenterebbero normalmente con i lieviti.
+DF: La technique ne fonctionne qu'avec des baies intactes : on vendange donc à la main et on transporte le raisin en petites caisses. Les baies écrasées fermenteraient normalement avec les levures.
+DE: The technique only works with intact berries, so grapes are hand-picked and carried in small crates. Crushed berries would simply ferment normally with yeast.
+
+#red p64 f=carb
+Q: Chi compie la fermentazione intracellulare? || Qui réalise la fermentation intracellulaire ? || What carries out intracellular fermentation?
+A: Gli enzimi dentro l'acino, senza lieviti || Les enzymes à l'intérieur de la baie, sans levures || Enzymes inside the berry, without yeast
+B: I batteri lattici della buccia || Les bactéries lactiques de la peau || Lactic bacteria on the skin
+C: I lieviti indigeni della pruina || Les levures indigènes de la pruine || Wild yeast in the bloom
+D: Lieviti selezionati aggiunti in vasca || Des levures sélectionnées ajoutées en cuve || Selected yeast added to the vat
+E: Enzimi della polpa: zucchero → alcol (≈2 %), colore nella polpa, pochissimo tannino. || Enzymes de la pulpe : sucre → alcool (≈2 %), couleur dans la pulpe, très peu de tanin. || Pulp enzymes: sugar → alcohol (≈2%), colour into the pulp, very little tannin.
+DI: Dentro l'acino intatto sono gli enzimi della polpa a trasformare una parte dello zucchero in alcol, senza lieviti. Intanto il colore passa dalla buccia alla polpa e si formano aromi tipici come kirsch, banana e cannella.
+DF: Dans la baie intacte, ce sont les enzymes de la pulpe qui transforment une partie du sucre en alcool, sans levures. La couleur passe de la peau à la pulpe et des arômes typiques se forment : kirsch, banane, cannelle.
+DE: Inside the intact berry, pulp enzymes turn part of the sugar into alcohol without yeast. Colour moves from the skin into the pulp and typical aromas form: kirsch, banana, cinnamon.
+
+#red p64 f=carb
+Q: A circa quale grado alcolico, dentro l'acino, le bucce si rompono? || Vers quel degré d'alcool dans la baie les peaux éclatent-elles ? || At roughly what alcohol level inside the berry do the skins split?
+A: Circa 2 % || Environ 2 % || About 2%
+B: Circa 0,5 % || Environ 0,5 % || About 0.5%
+C: Circa 6 % || Environ 6 % || About 6%
+D: Circa 11 % || Environ 11 % || About 11%
+E: ≈2 % di alcol: le bucce si rompono, il succo esce e i lieviti prendono il comando. || ≈2 % d'alcool : les peaux éclatent, le jus s'écoule, les levures prennent le relais. || ≈2% alcohol: skins split, juice runs out and yeast takes over.
+DI: La fermentazione intracellulare produce alcol fino a circa il 2 per cento; a quel punto le bucce si rompono, il succo esce e la fermentazione continua con i lieviti.
+DF: La fermentation intracellulaire produit de l'alcool jusqu'à environ 2 pour cent ; les peaux éclatent alors, le jus s'écoule et la fermentation se poursuit avec les levures.
+DE: Intracellular fermentation produces alcohol up to about 2 percent; then the skins split, the juice runs out and fermentation continues with yeast.
+
+#red p64 f=carb
+Q: Dopo la pressatura, come finisce la fermentazione nella macerazione carbonica? || Après le pressurage, comment se termine la fermentation en macération carbonique ? || After pressing, how does fermentation finish in carbonic maceration?
+A: Con i lieviti, lontano dalle bucce, quasi come un bianco || Avec les levures, loin des peaux, presque comme un blanc || With yeast, off the skins, almost like a white wine
+B: Sulle bucce con follature per alcune settimane || Sur les peaux avec des pigeages pendant plusieurs semaines || On the skins with punch-downs for several weeks
+C: In botte sotto un velo di flor || En fût sous un voile de flor || In barrel under a layer of flor
+D: Si arresta subito, lasciando zucchero residuo || Elle s'arrête aussitôt, en laissant du sucre résiduel || It stops at once, leaving residual sugar
+E: 5–15 giorni di macerazione, poi pressatura: fine fermentazione senza bucce → poco tannino. || 5–15 jours de macération, puis pressurage : fin de fermentation sans peaux → peu de tanin. || 5–15 days' maceration, then pressing: finishing off the skins → little tannin.
+DI: Dopo alcuni giorni, di solito da cinque a quindici, gli acini vengono pressati e il mosto già colorato termina la fermentazione con i lieviti senza bucce. Per questo il vino ha colore vivo ma tannino basso.
+DF: Après quelques jours, en général cinq à quinze, les baies sont pressurées et le moût déjà coloré termine sa fermentation avec les levures, sans les peaux. D'où une couleur vive mais des tanins bas.
+DE: After a few days, usually five to fifteen, the berries are pressed and the coloured juice finishes fermenting with yeast, off the skins. Hence vivid colour but low tannin.
+
+#red p64 b f=carb
+Q: Nella semicarbonica, da dove viene l'anidride carbonica? || Dans la semi-carbonique, d'où vient le gaz carbonique ? || In semi-carbonic maceration, where does the carbon dioxide come from?
+A: Dalla fermentazione degli acini schiacciati sul fondo della vasca || De la fermentation des baies écrasées au fond de la cuve || From the fermentation of the crushed berries at the bottom of the vat
+B: Da bombole aggiunte prima del carico || De bouteilles de gaz ajoutées avant le remplissage || From gas cylinders added before loading
+C: Dal ghiaccio secco sparso sui grappoli || De la glace carbonique répandue sur les grappes || From dry ice scattered over the bunches
+D: Dall'aria che entra dalla vasca aperta || De l'air qui entre par la cuve ouverte || From air entering the open vat
+E: Nessuna CO₂ aggiunta: il fondo pigiato fermenta, la CO₂ sale e protegge gli acini sopra. || Pas de CO₂ ajouté : le fond écrasé fermente, le CO₂ monte et protège les baies du dessus. || No added CO₂: the crushed bottom ferments and its CO₂ rises to protect the berries above.
+DI: Nella semicarbonica non si aggiunge anidride carbonica: il peso dei grappoli schiaccia gli acini sul fondo, quel mosto fermenta con i lieviti e la CO₂ prodotta protegge gli acini interi più in alto, dove avviene la fermentazione intracellulare.
+DF: Dans la semi-carbonique, on n'ajoute pas de gaz : le poids des grappes écrase les baies du fond, ce moût fermente avec les levures et le CO₂ produit protège les baies entières du haut, où a lieu la fermentation intracellulaire.
+DE: In semi-carbonic maceration no gas is added: the weight of the bunches crushes the bottom berries, that juice ferments with yeast and the CO₂ produced protects the whole berries above, where intracellular fermentation happens.
+
+#red p64 b f=carb
+Q: Qual è il metodo più usato in Beaujolais? || Quelle est la méthode la plus utilisée dans le Beaujolais ? || Which method is most widely used in Beaujolais?
+A: La macerazione semicarbonica || La macération semi-carbonique || Semi-carbonic maceration
+B: La pigiatura con lunga macerazione sulle bucce || Le foulage avec longue macération sur peaux || Crushing with long skin maceration
+C: Il sistema solera || Le système de solera || The solera system
+D: L'appassimento su graticci || Le passerillage sur claies || Drying grapes on racks
+E: Beaujolais = Gamay, soprattutto in semicarbonica. || Beaujolais = gamay, surtout en semi-carbonique. || Beaujolais = Gamay, mostly semi-carbonic.
+DI: In Beaujolais la semicarbonica è il metodo più diffuso: grappoli interi di Gamay in vasca, senza CO₂ aggiunta.
+DF: Dans le Beaujolais, la semi-carbonique est la méthode la plus répandue : grappes entières de gamay en cuve, sans CO₂ ajouté.
+DE: In Beaujolais semi-carbonic maceration is the most common method: whole bunches of Gamay in the vat, with no added CO₂.
+
+#red p64 b f=carb
+Q: Quali aromi sono tipici di un rosso da macerazione carbonica? || Quels arômes sont typiques d'un rouge de macération carbonique ? || Which aromas are typical of a carbonic-maceration red?
+A: Kirsch, banana, cannella, a volte gomma da masticare || Kirsch, banane, cannelle, parfois chewing-gum || Kirsch, banana, cinnamon, sometimes bubblegum
+B: Cuoio, tabacco e sottobosco || Cuir, tabac et sous-bois || Leather, tobacco and forest floor
+C: Idrocarburi, miele e albicocca secca || Hydrocarbures, miel et abricot sec || Petrol, honey and dried apricot
+D: Noci, caramello e toffee || Noix, caramel et toffee || Walnut, caramel and toffee
+E: Aromi di fermentazione intracellulare: kirsch, banana, cannella, chewing-gum. || Arômes de fermentation intracellulaire : kirsch, banane, cannelle, chewing-gum. || Intracellular-fermentation aromas: kirsch, banana, cinnamon, bubblegum.
+DI: La fermentazione intracellulare forma aromi caratteristici: ciliegia e kirsch, banana, cannella e a volte gomma da masticare.
+DF: La fermentation intracellulaire forme des arômes caractéristiques : cerise et kirsch, banane, cannelle et parfois chewing-gum.
+DE: Intracellular fermentation creates distinctive aromas: cherry and kirsch, banana, cinnamon and sometimes bubblegum.
+
+#red p64 f=carb
+Q: Quale struttura ha tipicamente un rosso da macerazione carbonica? || Quelle structure a typiquement un rouge de macération carbonique ? || What structure does a carbonic-maceration red typically have?
+A: Colore vivo, tannino basso, acidità fresca || Couleur vive, tanin bas, acidité fraîche || Vivid colour, low tannin, fresh acidity
+B: Colore pallido, tannino alto, acidità bassa || Couleur pâle, tanin élevé, acidité basse || Pale colour, high tannin, low acidity
+C: Colore intenso e tannino molto alto || Couleur intense et tanin très élevé || Deep colour and very high tannin
+D: Colore pallido e alcol molto alto || Couleur pâle et alcool très élevé || Pale colour and very high alcohol
+E: Colore senza estrazione di tannino: le bucce non restano a lungo nel vino. || Couleur sans extraction de tanin : les peaux ne restent pas longtemps dans le vin. || Colour without tannin extraction: skins don't stay long in the wine.
+DI: Il colore passa nella polpa durante la fase intracellulare, ma il tannino viene estratto pochissimo perché la fermentazione finisce senza bucce. Risultato: porpora vivo, tannino basso, acidità fresca.
+DF: La couleur passe dans la pulpe pendant la phase intracellulaire, mais les tanins sont très peu extraits car la fermentation se termine sans les peaux. Résultat : pourpre vif, tanin bas, acidité fraîche.
+DE: Colour moves into the pulp during the intracellular phase, but very little tannin is extracted because fermentation finishes off the skins. Result: vivid purple, low tannin, fresh acidity.
+
+#red p64 b f=carb
+Q: Quale vitigno è il simbolo della macerazione carbonica in Beaujolais? || Quel cépage est le symbole de la macération carbonique dans le Beaujolais ? || Which grape is the symbol of carbonic maceration in Beaujolais?
+A: Gamay || Gamay || Gamay
+B: Pinot Noir || Pinot noir || Pinot Noir
+C: Syrah || Syrah || Syrah
+D: Cabernet Franc || Cabernet franc || Cabernet Franc
+E: Gamay: buccia sottile, acidità vivace, tannino basso. || Gamay : peau fine, acidité vive, tanin bas. || Gamay: thin skin, lively acidity, low tannin.
+DI: Il Gamay, a buccia sottile, acidità vivace e tannino naturalmente basso, è il vitigno del Beaujolais e della macerazione carbonica.
+DF: Le gamay, à peau fine, acidité vive et tanins naturellement bas, est le cépage du Beaujolais et de la macération carbonique.
+DE: Gamay, thin-skinned with lively acidity and naturally low tannin, is the grape of Beaujolais and of carbonic maceration.
+
+#red p64 f=carb
+Q: Perché nel Sud della Francia si usa la semicarbonica per il Carignan? || Pourquoi utilise-t-on la semi-carbonique pour le carignan dans le Sud de la France ? || Why is semi-carbonic maceration used for Carignan in Southern France?
+A: Per ammorbidire i suoi tannini rustici || Pour assouplir ses tanins rustiques || To soften its rustic tannins
+B: Per aumentarne l'acidità || Pour augmenter son acidité || To raise its acidity
+C: Per dargli aromi di rovere || Pour lui donner des arômes boisés || To give it oak aromas
+D: Per alzarne il grado alcolico || Pour augmenter son degré d'alcool || To raise its alcohol
+E: Carignan: tannini e acidità alti, rustico → semicarbonica per ammorbidirlo. || Carignan : tanins et acidité élevés, rustique → semi-carbonique pour l'assouplir. || Carignan: high tannin and acidity, rustic → semi-carbonic to soften it.
+DI: Il Carignan dà vini ricchi di tannino e acidità, a volte rustici; la semicarbonica estrae colore e frutto con meno tannino e li rende più morbidi.
+DF: Le carignan donne des vins riches en tanins et en acidité, parfois rustiques ; la semi-carbonique extrait couleur et fruit avec moins de tanin et les assouplit.
+DE: Carignan gives wines high in tannin and acidity, sometimes rustic; semi-carbonic maceration extracts colour and fruit with less tannin and softens them.
+
+#red p64 f=carb
+Q: In Rioja, per quali vini si usa la semicarbonica? || En Rioja, pour quels vins utilise-t-on la semi-carbonique ? || In Rioja, which wines are made by semi-carbonic maceration?
+A: I giovani joven o cosechero, freschi e fruttati || Les jeunes joven ou cosechero, frais et fruités || Young joven or cosechero wines, fresh and fruity
+B: I Gran Reserva da lungo invecchiamento || Les gran reserva de longue garde || Long-aged Gran Reservas
+C: I vini dolci da uve appassite || Les vins doux de raisins passerillés || Sweet wines from dried grapes
+D: I rosati da salasso || Les rosés de saignée || Saignée rosés
+E: Rioja joven/cosechero: Tempranillo semicarbonico, fragola, poco tannino. || Rioja joven/cosechero : tempranillo semi-carbonique, fraise, peu de tanin. || Rioja joven/cosechero: semi-carbonic Tempranillo, strawberry, little tannin.
+DI: In Rioja i vini da bere giovani, joven o cosechero, sono spesso fatti in semicarbonica: Tempranillo fresco, profumato di fragola e poco tannico. I vini da invecchiamento seguono invece una vinificazione classica.
+DF: En Rioja, les vins à boire jeunes, joven ou cosechero, sont souvent élaborés en semi-carbonique : tempranillo frais, parfumé à la fraise et peu tannique. Les vins de garde suivent une vinification classique.
+DE: In Rioja, early-drinking joven or cosechero wines are often semi-carbonic: fresh, strawberry-scented, low-tannin Tempranillo. Wines for ageing follow a classic vinification.
+
+#red p64 f=carb
+Q: Che cosa aggiungono i raspi maturi quando si mettono grappoli interi in una fermentazione classica? || Qu'apportent les rafles mûres quand on ajoute des grappes entières à une fermentation classique ? || What do ripe stems add when whole bunches go into a classic ferment?
+A: Note erbacee e speziate e un po' di tannino in più || Des notes herbacées et épicées et un peu plus de tanin || Herbal, spicy notes and a little extra tannin
+B: Più zucchero e quindi più alcol || Plus de sucre donc plus d'alcool || More sugar and so more alcohol
+C: Più acido malico e colore || Plus d'acide malique et de couleur || More malic acid and colour
+D: Aromi di burro e nocciola || Des arômes de beurre et de noisette || Buttery and hazelnut aromas
+E: Grappolo intero parziale: frutto fresco, profumo vivace; raspi → erbe, spezie, tannino. || Grappes entières partielles : fruit frais, parfum vif ; rafles → herbes, épices, tanin. || Partial whole bunch: fresh fruit, lively perfume; stems → herbs, spice, tannin.
+DI: In Borgogna e nel Rodano molti produttori aggiungono una parte di grappoli interi all'uva pigiata: il vino guadagna frutto fresco e profumo, e i raspi maturi portano note erbacee, speziate e un po' di tannino.
+DF: En Bourgogne et dans le Rhône, beaucoup de producteurs ajoutent une part de grappes entières au raisin foulé : le vin gagne en fruit frais et en parfum, et les rafles mûres apportent des notes herbacées, épicées et un peu de tanin.
+DE: In Burgundy and the Rhône many producers add a share of whole bunches to crushed grapes: the wine gains fresh fruit and perfume, and ripe stems bring herbal, spicy notes and a little tannin.
+
+#red p64 f=carb
+Q: Perché alcuni Pinot Noir di alta qualità fanno una fase semicarbonica ma finiscono la fermentazione sulle bucce? || Pourquoi certains pinots noirs haut de gamme font-ils une phase semi-carbonique mais finissent-ils sur les peaux ? || Why do some premium Pinot Noirs have a semi-carbonic phase but finish fermenting on the skins?
+A: Per unire frutto fresco e aromi intracellulari a più struttura || Pour associer fruit frais et arômes intracellulaires à plus de structure || To combine fresh fruit and intracellular aromas with more structure
+B: Per eliminare del tutto il tannino || Pour éliminer complètement les tanins || To remove all tannin
+C: Per renderli dolci || Pour les rendre doux || To make them sweet
+D: Per poterli vendere come Nouveau || Pour pouvoir les vendre en nouveau || So they can be sold as Nouveau
+E: Pinot Noir premium: grappoli interi o fase semicarbonica, poi sulle bucce. || Pinot noir haut de gamme : grappes entières ou phase semi-carbonique, puis sur peaux. || Premium Pinot Noir: whole bunches or semi-carbonic phase, then on skins.
+DI: Una fase semicarbonica dà frutto fresco e aromi intracellulari; finire la fermentazione sulle bucce aggiunge estrazione e struttura, così il vino resta adatto all'invecchiamento.
+DF: Une phase semi-carbonique donne fruit frais et arômes intracellulaires ; finir la fermentation sur les peaux ajoute extraction et structure, et le vin garde un potentiel de garde.
+DE: A semi-carbonic phase gives fresh fruit and intracellular aromas; finishing on the skins adds extraction and structure, so the wine can still age.
+
+#red p64 b f=carb
+Q: Quando si beve di solito un rosso da macerazione carbonica? || Quand boit-on en général un rouge de macération carbonique ? || When is a carbonic-maceration red usually drunk?
+A: Giovane e leggermente fresco || Jeune et légèrement frais || Young and lightly chilled
+B: Dopo almeno dieci anni di bottiglia || Après au moins dix ans de bouteille || After at least ten years in bottle
+C: Solo a fine pasto con il dessert || Seulement en fin de repas avec le dessert || Only with dessert at the end of a meal
+D: Sempre a temperatura ambiente calda || Toujours à température ambiante chaude || Always at warm room temperature
+E: Vini fruttati, poco tannici, poco adatti all'invecchiamento → giovani e freschi. || Vins fruités, peu tanniques, peu faits pour vieillir → jeunes et frais. || Fruity, low-tannin wines, not made for ageing → young and cool.
+DI: Frutto esuberante e tannino basso: sono vini fatti per essere bevuti giovani, spesso leggermente freschi. Fanno eccezione alcuni cru del Beaujolais più strutturati.
+DF: Fruit exubérant et tanins bas : ce sont des vins faits pour être bus jeunes, souvent légèrement frais. Quelques crus du Beaujolais plus structurés font exception.
+DE: Exuberant fruit and low tannin: these wines are made to be drunk young, often lightly chilled. Some more structured Beaujolais crus are the exception.
+
+#red p64 f=carb
+Q: Nella macerazione carbonica, perché il vino di pressa è spesso più ricco del vino fiore? || En macération carbonique, pourquoi le vin de presse est-il souvent plus riche que le vin de goutte ? || In carbonic maceration, why is the press wine often richer than the free-run wine?
+A: Gli acini interi trattengono ancora succo zuccherino e aromi || Les baies entières retiennent encore du jus sucré et des arômes || The whole berries still hold sweet juice and aromas
+B: Perché il vino fiore viene sempre scartato || Parce que le vin de goutte est toujours écarté || Because the free run is always discarded
+C: Perché in pressa si aggiunge zucchero || Parce qu'on ajoute du sucre au pressoir || Because sugar is added in the press
+D: Perché la pressa estrae il flor || Parce que le pressoir extrait le flor || Because the press extracts flor
+E: Svinatura: vino fiore + vino di pressa (qui il più ricco), poi assemblaggio e malolattica. || Décuvage : vin de goutte + vin de presse (ici le plus riche), puis assemblage et malolactique. || Draining: free run + press wine (here the richest), then blending and malolactic.
+DI: Alla svinatura molti acini sono ancora integri e pieni di succo zuccherino e aromatico: in pressa liberano un vino spesso più ricco del vino fiore. Le due parti vengono poi assemblate.
+DF: Au décuvage, beaucoup de baies sont encore intactes et pleines de jus sucré et aromatique : au pressoir, elles donnent un vin souvent plus riche que le vin de goutte. Les deux sont ensuite assemblés.
+DE: At draining, many berries are still intact and full of sweet, aromatic juice: in the press they release a wine often richer than the free run. The two are then blended.
+
+#red p64 f=carb
+Q: Quale limite ha la macerazione carbonica? || Quelle limite a la macération carbonique ? || What is a limitation of carbonic maceration?
+A: Gli aromi di fermentazione possono coprire vitigno e terroir || Les arômes de fermentation peuvent masquer cépage et terroir || Fermentation aromas can mask the grape and the terroir
+B: Richiede anni di affinamento prima della vendita || Elle demande des années d'élevage avant la vente || It needs years of ageing before sale
+C: Dà vini troppo tannici || Elle donne des vins trop tanniques || It makes wines too tannic
+D: Funziona solo con uve bianche || Elle ne fonctionne qu'avec des raisins blancs || It only works with white grapes
+E: Vantaggi: rapidi, colorati, morbidi. Limiti: aromi banana/chewing-gum, poca longevità. || Avantages : rapides, colorés, souples. Limites : arômes banane/chewing-gum, peu de garde. || Pros: quick, coloured, soft. Cons: banana/bubblegum aromas, little ageing potential.
+DI: I vini sono pronti in poche settimane, colorati e morbidi, ma gli aromi di banana e gomma da masticare possono dominare il carattere del vitigno e del luogo, e in genere non sono fatti per invecchiare.
+DF: Les vins sont prêts en quelques semaines, colorés et souples, mais les arômes de banane et de chewing-gum peuvent dominer le caractère du cépage et du lieu, et ils ne sont en général pas faits pour vieillir.
+DE: The wines are ready within weeks, coloured and soft, but banana and bubblegum aromas can dominate the character of the grape and the place, and they are generally not made for ageing.
+
+#vin p48 b f=mlf
+Q: Che cosa trasformano i batteri lattici durante la malolattica? || Que transforment les bactéries lactiques pendant la malolactique ? || What do lactic bacteria convert during malolactic conversion?
+A: L'acido malico in acido lattico || L'acide malique en acide lactique || Malic acid into lactic acid
+B: Lo zucchero in alcol || Le sucre en alcool || Sugar into alcohol
+C: L'acido tartarico in acido citrico || L'acide tartrique en acide citrique || Tartaric acid into citric acid
+D: L'alcol in acido acetico || L'alcool en acide acétique || Alcohol into acetic acid
+E: Malico (mela verde, aspro) → lattico (morbido) + un po' di CO₂. || Malique (pomme verte, vif) → lactique (souple) + un peu de CO₂. || Malic (green apple, sharp) → lactic (soft) + a little CO₂.
+DI: La malolattica non riguarda lo zucchero: batteri lattici, soprattutto Oenococcus oeni, trasformano l'acido malico, aspro, in acido lattico, più morbido, liberando un po' di anidride carbonica.
+DF: La malolactique ne concerne pas le sucre : des bactéries lactiques, surtout Oenococcus oeni, transforment l'acide malique, vif, en acide lactique, plus souple, avec un peu de gaz carbonique.
+DE: Malolactic conversion is not about sugar: lactic bacteria, mainly Oenococcus oeni, turn sharp malic acid into softer lactic acid, releasing a little carbon dioxide.
+
+#vin p48 f=mlf
+Q: Quale batterio svolge più spesso la malolattica? || Quelle bactérie réalise le plus souvent la malolactique ? || Which bacterium most often carries out malolactic conversion?
+A: Oenococcus oeni || Oenococcus oeni || Oenococcus oeni
+B: Saccharomyces cerevisiae || Saccharomyces cerevisiae || Saccharomyces cerevisiae
+C: Botrytis cinerea || Botrytis cinerea || Botrytis cinerea
+D: Acetobacter || Acetobacter || Acetobacter
+E: Oenococcus oeni = batterio lattico; Saccharomyces = lievito; Botrytis = muffa; Acetobacter = aceto. || Oenococcus oeni = bactérie lactique ; Saccharomyces = levure ; Botrytis = champignon ; Acetobacter = vinaigre. || Oenococcus oeni = lactic bacterium; Saccharomyces = yeast; Botrytis = fungus; Acetobacter = vinegar.
+DI: La malolattica è opera di batteri lattici, soprattutto Oenococcus oeni. Saccharomyces è il lievito della fermentazione alcolica, Botrytis una muffa, Acetobacter il batterio dell'aceto.
+DF: La malolactique est l'œuvre de bactéries lactiques, surtout Oenococcus oeni. Saccharomyces est la levure de la fermentation alcoolique, Botrytis un champignon, Acetobacter la bactérie du vinaigre.
+DE: Malolactic conversion is done by lactic bacteria, mainly Oenococcus oeni. Saccharomyces is the yeast of alcoholic fermentation, Botrytis a fungus, Acetobacter the vinegar bacterium.
+
+#vin p48 b f=mlf
+Q: Quale sostanza prodotta dalla malolattica sa di burro? || Quelle substance produite par la malolactique sent le beurre ? || Which compound produced by malolactic conversion smells of butter?
+A: Il diacetile || Le diacétyle || Diacetyl
+B: L'acetato di etile || L'acétate d'éthyle || Ethyl acetate
+C: La vanillina || La vanilline || Vanillin
+D: Il glicerolo || Le glycérol || Glycerol
+E: Diacetile = burro, panna: aroma secondario della malolattica. || Diacétyle = beurre, crème : arôme secondaire de la malolactique. || Diacetyl = butter, cream: a secondary aroma from malolactic.
+DI: I batteri lattici producono diacetile, responsabile degli aromi di burro, oltre a note di panna e frutta secca: sono aromi secondari. La vanillina viene invece dal rovere.
+DF: Les bactéries lactiques produisent du diacétyle, responsable des arômes de beurre, ainsi que des notes de crème et de fruits secs : ce sont des arômes secondaires. La vanilline vient du chêne.
+DE: Lactic bacteria produce diacetyl, responsible for buttery aromas, plus cream and nutty notes: these are secondary aromas. Vanillin comes from oak.
+
+#vin p48 f=mlf
+Q: Quali condizioni favoriscono la malolattica? || Quelles conditions favorisent la malolactique ? || Which conditions favour malolactic conversion?
+A: Vino tiepido (circa 20 °C) e poca anidride solforosa || Vin tiède (environ 20 °C) et peu de dioxyde de soufre || Warm wine (about 20°C) and little sulfur dioxide
+B: Vino freddo e molta anidride solforosa || Vin froid et beaucoup de dioxyde de soufre || Cold wine and plenty of sulfur dioxide
+C: Filtrazione sterile prima dell'avvio || Filtration stérile avant le départ || Sterile filtration before it starts
+D: Assenza totale di batteri in cantina || Absence totale de bactéries au chai || A complete absence of bacteria in the winery
+E: Favorita da calore e poca SO₂; bloccata da freddo, SO₂ e filtrazione. || Favorisée par la chaleur et peu de SO₂ ; bloquée par le froid, le SO₂ et la filtration. || Favoured by warmth and low SO₂; blocked by cold, SO₂ and filtration.
+DI: I batteri lavorano bene intorno ai 20 °C con poca solforosa; possono essere presenti in cantina o inoculati. Per bloccarla si raffredda il vino, si aggiunge solforosa e si filtra.
+DF: Les bactéries travaillent bien vers 20 °C avec peu de soufre ; elles peuvent être présentes au chai ou inoculées. Pour la bloquer, on refroidit, on sulfite et on filtre.
+DE: The bacteria work well at around 20°C with little sulfur dioxide; they may be present in the winery or inoculated. To block it, the wine is chilled, sulfured and filtered.
+
+#vin p48 f=mlf
+Q: Come si impedisce la malolattica in un vino? || Comment empêche-t-on la malolactique dans un vin ? || How is malolactic conversion prevented in a wine?
+A: Raffreddando, aggiungendo solforosa e filtrando || En refroidissant, en sulfitant et en filtrant || By chilling, adding sulfur dioxide and filtering
+B: Scaldando il vino a 25 °C || En chauffant le vin à 25 °C || By warming the wine to 25°C
+C: Inoculando batteri selezionati || En inoculant des bactéries sélectionnées || By inoculating selected bacteria
+D: Lasciando il vino sulle fecce senza solforosa || En laissant le vin sur lies sans soufre || By leaving the wine on its lees without sulfur
+E: Blocco = freddo + SO₂ + filtrazione (sterile prima dell'imbottigliamento). || Blocage = froid + SO₂ + filtration (stérile avant la mise). || Blocking = cold + SO₂ + filtration (sterile before bottling).
+DI: Per conservare l'acido malico, il produttore tiene il vino freddo, aggiunge anidride solforosa e lo filtra, eliminando i batteri.
+DF: Pour conserver l'acide malique, le producteur garde le vin froid, ajoute du dioxyde de soufre et filtre, ce qui élimine les bactéries.
+DE: To keep the malic acid, the producer keeps the wine cold, adds sulfur dioxide and filters it, removing the bacteria.
+
+#vin p49 b f=mlf
+Q: Quanti vini rossi fanno la malolattica? || Combien de vins rouges font la malolactique ? || How many red wines go through malolactic conversion?
+A: Quasi tutti || Presque tous || Almost all
+B: Quasi nessuno || Presque aucun || Almost none
+C: Solo quelli dolci || Seulement les doux || Only sweet ones
+D: Solo quelli spumanti || Seulement les effervescents || Only sparkling ones
+E: Rossi: quasi sempre (acidità più morbida, stabilità); spesso in barrique. || Rouges : presque toujours (acidité plus souple, stabilité) ; souvent en barrique. || Reds: almost always (softer acidity, stability); often in barrique.
+DI: Quasi tutti i rossi fanno la malolattica: ammorbidisce l'acidità, si integra col tannino e stabilizza il vino. Spesso avviene in barrique, dove aiuta frutto e rovere a fondersi.
+DF: Presque tous les rouges font la malolactique : elle assouplit l'acidité, s'intègre aux tanins et stabilise le vin. Elle a souvent lieu en barrique, où elle aide fruit et bois à se fondre.
+DE: Almost all reds go through malolactic: it softens acidity, integrates with tannin and stabilises the wine. It often happens in barrique, where it helps fruit and oak to blend.
+
+#vin p49 f=mlf
+Q: Per quale bianco la malolattica è una scelta di stile frequente? || Pour quel blanc la malolactique est-elle un choix de style fréquent ? || For which white is malolactic conversion a common style choice?
+A: Uno Chardonnay pieno e cremoso || Un chardonnay ample et crémeux || A full, creamy Chardonnay
+B: Un Riesling secco e vivace || Un riesling sec et vif || A dry, zesty Riesling
+C: Un Sauvignon Blanc aromatico || Un sauvignon blanc aromatique || An aromatic Sauvignon Blanc
+D: Un Moscato d'Asti dolce e frizzante || Un moscato d'Asti doux et pétillant || A sweet, frothy Moscato d'Asti
+E: Bianchi: sì per Chardonnay ricchi; no per Riesling e Sauvignon (acidità, purezza del frutto). || Blancs : oui pour les chardonnays riches ; non pour riesling et sauvignon (acidité, pureté du fruit). || Whites: yes for rich Chardonnay; no for Riesling and Sauvignon (acidity, fruit purity).
+DI: Nei bianchi è una decisione del produttore: per uno Chardonnay pieno, in Borgogna o nel Nuovo Mondo, aggiunge rotondità e note burrose; per Riesling e Sauvignon Blanc si blocca per conservare acidità e purezza del frutto.
+DF: Dans les blancs, c'est un choix du producteur : pour un chardonnay ample, en Bourgogne ou dans le Nouveau Monde, elle apporte rondeur et notes beurrées ; pour riesling et sauvignon blanc, on la bloque pour garder acidité et pureté du fruit.
+DE: In whites it is the producer's choice: for a full Chardonnay, in Burgundy or the New World, it adds roundness and buttery notes; for Riesling and Sauvignon Blanc it is blocked to keep acidity and fruit purity.
+
+#vin p49 f=mlf
+Q: Perché la malolattica si blocca di solito per Riesling e Sauvignon Blanc? || Pourquoi bloque-t-on en général la malolactique pour le riesling et le sauvignon blanc ? || Why is malolactic conversion usually blocked for Riesling and Sauvignon Blanc?
+A: Per conservare acidità vivace e purezza del frutto || Pour garder une acidité vive et la pureté du fruit || To keep lively acidity and pure fruit
+B: Perché questi vini non contengono acido malico || Parce que ces vins ne contiennent pas d'acide malique || Because these wines contain no malic acid
+C: Per aumentare gli aromi di burro || Pour augmenter les arômes de beurre || To increase buttery aromas
+D: Perché la legge lo vieta in tutto il mondo || Parce que la loi l'interdit partout || Because the law forbids it everywhere
+E: Aromatici e freschi: niente burro, acidità intatta. || Aromatiques et frais : pas de beurre, acidité intacte. || Aromatic and fresh: no butter, acidity intact.
+DI: Per i bianchi aromatici e freschi come Riesling e Sauvignon Blanc l'obiettivo è un'acidità vivace e un frutto puro: la malolattica la ridurrebbe e aggiungerebbe note burrose.
+DF: Pour des blancs aromatiques et frais comme le riesling et le sauvignon blanc, on cherche une acidité vive et un fruit pur : la malolactique l'atténuerait et ajouterait des notes beurrées.
+DE: For aromatic, fresh whites such as Riesling and Sauvignon Blanc the aim is lively acidity and pure fruit: malolactic would lower it and add buttery notes.
+
+#vin p49 f=mlf
+Q: Che cosa succede se la malolattica parte in bottiglia? || Que se passe-t-il si la malolactique démarre en bouteille ? || What happens if malolactic conversion starts in bottle?
+A: Il vino diventa frizzante, torbido e può avere odori sgradevoli || Le vin devient perlant, trouble et peut avoir des odeurs désagréables || The wine becomes slightly fizzy, cloudy and may smell unpleasant
+B: Il vino diventa più dolce e limpido || Le vin devient plus doux et limpide || The wine becomes sweeter and clearer
+C: Aumenta il grado alcolico || Le degré d'alcool augmente || The alcohol level rises
+D: Il colore si fissa e il vino migliora || La couleur se fixe et le vin s'améliore || The colour fixes and the wine improves
+E: Difetto: CO₂, torbidità, odori → completarla o impedirla prima di imbottigliare. || Défaut : CO₂, trouble, odeurs → la terminer ou l'empêcher avant la mise. || Fault: CO₂, haze, off-odours → complete or prevent it before bottling.
+DI: Una malolattica in bottiglia è un difetto: produce anidride carbonica, torbidità e a volte odori sgradevoli. Prima di imbottigliare il produttore si assicura che sia finita, o la impedisce con solforosa e filtrazione sterile.
+DF: Une malolactique en bouteille est un défaut : gaz carbonique, trouble et parfois mauvaises odeurs. Avant la mise, le producteur s'assure qu'elle est terminée ou l'empêche par sulfitage et filtration stérile.
+DE: Malolactic in bottle is a fault: it creates carbon dioxide, haze and sometimes off-odours. Before bottling the producer makes sure it has finished, or prevents it with sulfur dioxide and sterile filtration.
+
+#vin p48 f=mlf
+Q: Quale effetto ha la malolattica sull'acidità e sulla stabilità del vino? || Quel effet a la malolactique sur l'acidité et la stabilité du vin ? || What effect does malolactic conversion have on acidity and stability?
+A: Abbassa l'acidità e rende il vino più stabile || Elle baisse l'acidité et rend le vin plus stable || It lowers acidity and makes the wine more stable
+B: Alza l'acidità e rende il vino instabile || Elle augmente l'acidité et rend le vin instable || It raises acidity and makes the wine unstable
+C: Non cambia l'acidità ma aumenta lo zucchero || Elle ne change pas l'acidité mais augmente le sucre || It leaves acidity unchanged but raises sugar
+D: Aumenta il tannino e il colore || Elle augmente le tanin et la couleur || It increases tannin and colour
+E: Meno acido, più morbido, più stabile (non ripartirà in bottiglia). || Moins acide, plus souple, plus stable (ne repartira pas en bouteille). || Less acidic, softer, more stable (it cannot restart in bottle).
+DI: Il passaggio da acido malico a lattico rende il vino meno acido e più morbido; una volta completata, la malolattica non può più ripartire in bottiglia, quindi il vino è più stabile.
+DF: Le passage de l'acide malique à l'acide lactique rend le vin moins acide et plus souple ; une fois terminée, la malolactique ne peut plus repartir en bouteille : le vin est plus stable.
+DE: Turning malic into lactic acid makes the wine less acidic and softer; once complete, malolactic cannot restart in bottle, so the wine is more stable.
+
+#vin p49 f=mlf
+Q: Si può fare la malolattica solo su una parte di un vino bianco? || Peut-on faire la malolactique sur une partie seulement d'un vin blanc ? || Can malolactic conversion be done on only part of a white wine?
+A: Sì: si assembla poi con la parte senza malolattica per dosare lo stile || Oui : on l'assemble ensuite avec la partie sans malolactique pour doser le style || Yes: it is then blended with the non-malolactic part to fine-tune the style
+B: No, la legge europea lo vieta || Non, la loi européenne l'interdit || No, EU law forbids it
+C: No, i batteri passerebbero sempre in tutte le vasche || Non, les bactéries passeraient toujours dans toutes les cuves || No, bacteria would always spread to every tank
+D: Sì, ma solo nei vini dolci || Oui, mais seulement dans les vins doux || Yes, but only in sweet wines
+E: Malolattica parziale = equilibrio tra freschezza e rotondità. || Malolactique partielle = équilibre entre fraîcheur et rondeur. || Partial malolactic = balance between freshness and roundness.
+DI: Il produttore può far svolgere la malolattica solo a una parte del vino e poi assemblare: così sceglie quanto ammorbidire l'acidità e quante note burrose aggiungere.
+DF: Le producteur peut faire la malolactique sur une partie du vin seulement, puis assembler : il choisit ainsi combien adoucir l'acidité et combien de notes beurrées ajouter.
+DE: The producer can put only part of the wine through malolactic and then blend, choosing how much to soften the acidity and how much buttery character to add.

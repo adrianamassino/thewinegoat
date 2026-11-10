@@ -1,0 +1,560 @@
+#vgm p38 b x
+Q: Quali di queste operazioni aiutano a ridurre il rischio di gelate primaverili? 1. Ventilatori (torri antigelo) 2. Irrigazione a pioggia (aspersione) 3. Bruciatori || Lesquelles de ces opérations aident à réduire le risque de gel de printemps ? 1. Tours antigel (ventilateurs) 2. Aspersion d'eau 3. Chaufferettes || Which of these help reduce the risk of spring frost? 1. Wind machines 2. Sprinklers 3. Heaters (burners)
+A: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+B: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+E: Gelate: ventilatori (mescolano l'aria), aspersione (il ghiaccio libera calore), bruciatori. || Gel : tours antigel (brassent l'air), aspersion (la glace libère de la chaleur), chaufferettes. || Frost: wind machines (mix air), sprinklers (freezing releases heat), heaters.
+DI: Le torri antigelo rimescolano l'aria calda sovrastante con quella fredda al suolo, l'aspersione ricopre i germogli di ghiaccio che li protegge rilasciando calore mentre gela, i bruciatori scaldano l'aria: sono tutti metodi usati contro le gelate primaverili.
+DF: Les tours antigel brassent l'air chaud supérieur avec l'air froid au sol, l'aspersion enrobe les bourgeons de glace qui les protège en libérant de la chaleur en gelant, les chaufferettes réchauffent l'air : toutes servent contre le gel de printemps.
+DE: Wind machines mix warmer air from above with cold air at ground level, sprinklers coat buds in ice that protects them by releasing heat as it freezes, and heaters warm the air: all are used against spring frost.
+
+#env p25 b x
+Q: Un vigneto ha estati calde e inverni freddi, con grande differenza tra il mese più caldo e il più freddo. Che clima è? || Un vignoble a des étés chauds et des hivers froids, avec un grand écart entre le mois le plus chaud et le plus froid. Quel est son climat ? || A vineyard has hot summers and cold winters, with a large gap between the warmest and coldest months. What climate is it?
+A: Continentale || Continental || Continental
+B: Marittimo || Maritime || Maritime
+C: Mediterraneo || Méditerranéen || Mediterranean
+D: Moderato || Modéré || Moderate
+E: Grande escursione annua = continentale. || Grand écart annuel = continental. || Wide annual range = continental.
+DI: La differenza tra il mese più caldo e il più freddo misura la continentalità: se è grande il clima è continentale (lontano dal mare). Il clima marittimo ha poca differenza; il mediterraneo ha estati calde e secche ma inverni miti; «moderato» descrive una temperatura, non l'escursione.
+DF: L'écart entre le mois le plus chaud et le plus froid mesure la continentalité : grand écart = climat continental (loin de la mer). Le climat maritime a un faible écart ; le méditerranéen a des étés chauds et secs mais des hivers doux ; « modéré » décrit une température, pas l'écart.
+DE: The difference between the warmest and coldest month measures continentality: a large gap means a continental climate (far from the sea). Maritime climates have a small gap; Mediterranean ones have hot dry summers but mild winters; 'moderate' describes temperature, not range.
+
+#env p28 b x
+Q: Effetto di un clima più caldo sulle uve: zucchero / acidità || Effet d'un climat plus chaud sur les raisins : sucre / acidité || Effect of a warmer climate on grapes: sugar / acidity
+A: Più alto / più bassa || Plus élevé / Plus basse || Higher / lower
+B: Più alto / più alta || Plus élevé / Plus haute || Higher / higher
+C: Più basso / più bassa || Plus bas / Plus basse || Lower / lower
+D: Più basso / più alta || Plus bas / Plus haute || Lower / higher
+E: Caldo: più zucchero (alcol), meno acidità, frutta più matura. || Chaud : plus de sucre (alcool), moins d'acidité, fruits plus mûrs. || Warm: more sugar (alcohol), less acidity, riper fruit.
+DI: Con più calore la fotosintesi produce più zucchero (quindi più alcol potenziale) mentre la respirazione consuma più acido malico: l'acidità cala. Per questo i vini di climi caldi sono più alcolici, più morbidi e con frutta più matura.
+DF: Avec plus de chaleur, la photosynthèse produit plus de sucre (donc d'alcool potentiel) tandis que la respiration consomme davantage d'acide malique : l'acidité baisse. D'où des vins plus alcoolisés, plus souples, aux fruits plus mûrs en climat chaud.
+DE: More heat means more photosynthesis and sugar (so more potential alcohol), while respiration burns more malic acid, lowering acidity. Warm-climate wines are therefore more alcoholic, softer and riper-fruited.
+
+#vig p20 b x
+Q: Quale di queste affermazioni è vera? || Laquelle de ces affirmations est vraie ? || Which of these statements is true?
+A: Le varietà sono quasi tutte Vitis vinifera, gli ibridi incrociano due specie diverse || Les cépages sont presque tous Vitis vinifera, les hybrides croisent deux espèces différentes || Wine grapes are almost all Vitis vinifera; hybrids cross two different species
+B: Un clone si ottiene seminando i vinaccioli di una vite || Un clone s'obtient en semant les pépins d'une vigne || A clone is produced by sowing a vine's seeds
+C: Il Pinotage è un ibrido tra specie americane ed europee || Le pinotage est un hybride entre espèces américaine et européenne || Pinotage is a hybrid of American and European species
+D: Le viti americane sono la base dei migliori vini europei || Les vignes américaines sont la base des meilleurs vins européens || American vines are the basis of Europe's best wines
+E: Incrocio = stessa specie (Pinotage); ibrido = specie diverse; clone = talea. || Croisement = même espèce (pinotage) ; hybride = espèces différentes ; clone = bouture. || Crossing = same species (Pinotage); hybrid = different species; clone = cutting.
+DI: Quasi tutte le uve da vino sono Vitis vinifera. Un incrocio unisce due varietà della stessa specie (il Pinotage è Pinot Noir × Cinsault), un ibrido due specie diverse. I cloni si propagano per talea o innesto, non dal seme. Le specie americane servono soprattutto come portainnesti.
+DF: Presque tous les raisins de cuve sont Vitis vinifera. Un croisement associe deux variétés de la même espèce (le pinotage = pinot noir × cinsault), un hybride deux espèces différentes. Les clones se multiplient par bouture ou greffe, pas par semis. Les espèces américaines servent surtout de porte-greffes.
+DE: Nearly all wine grapes are Vitis vinifera. A crossing joins two varieties of the same species (Pinotage = Pinot Noir × Cinsault), a hybrid two different species. Clones are propagated by cuttings or grafting, not seed. American species are used mainly as rootstocks.
+
+#vgm p35 b x
+Q: Quali caratteristiche ha il palissage a spalliera verticale (VSP)? 1. Germogli legati verso l'alto 2. Facilita la meccanizzazione 3. Ombreggia molto i grappoli || Quelles caractéristiques a le palissage vertical (VSP) ? 1. Rameaux attachés vers le haut 2. Il facilite la mécanisation 3. Il ombrage fortement les grappes || Which features describe vertical shoot positioning (VSP)? 1. Shoots trained upwards 2. It aids mechanisation 3. It heavily shades the bunches
+A: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+B: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+E: VSP: germogli verticali, chioma stretta, grappoli esposti, adatta alle macchine. || VSP : rameaux verticaux, feuillage étroit, grappes exposées, adapté aux machines. || VSP: upright shoots, narrow canopy, exposed bunches, machine-friendly.
+DI: Nel VSP i germogli sono legati verso l'alto tra fili paralleli: la chioma è stretta e ordinata, i grappoli restano ben esposti a luce e aria e le macchine possono lavorare facilmente. L'ombreggiamento forte dei grappoli è tipico di altri sistemi (es. alberello o pergola con chioma fitta).
+DF: En VSP, les rameaux sont attachés vers le haut entre des fils parallèles : feuillage étroit et ordonné, grappes bien exposées à la lumière et à l'air, mécanisation facile. Un fort ombrage des grappes caractérise d'autres systèmes (ex. gobelet ou pergola au feuillage dense).
+DE: In VSP shoots are trained upwards between parallel wires: a narrow, tidy canopy with well-exposed bunches and easy mechanisation. Heavy bunch shading belongs to other systems (e.g. bush vines or dense pergolas).
+
+#vgm p37 b x
+Q: Quale di queste affermazioni sull'irrigazione è vera? || Laquelle de ces affirmations sur l'irrigation est vraie ? || Which statement about irrigation is true?
+A: Il goccia a goccia permette un controllo preciso dell'acqua || Le goutte-à-goutte permet un contrôle précis de l'eau || Drip irrigation allows precise water control
+B: L'irrigazione è vietata in tutti i paesi del Nuovo Mondo || L'irrigation est interdite dans tous les pays du Nouveau Monde || Irrigation is banned in all New World countries
+C: L'irrigazione per inondazione è la più economica d'acqua || L'irrigation par inondation est la plus économe en eau || Flood irrigation is the most water-efficient
+D: L'irrigazione aumenta sempre la qualità || L'irrigation augmente toujours la qualité || Irrigation always increases quality
+E: Goccia a goccia: preciso, risparmia acqua, permette di controllare il vigore. || Goutte-à-goutte : précis, économe, permet de contrôler la vigueur. || Drip: precise, water-saving, helps control vigour.
+DI: Il goccia a goccia è costoso da installare ma molto preciso e parsimonioso, e permette di gestire lo stress idrico. L'inondazione spreca acqua; l'irrigazione è comune nel Nuovo Mondo e permessa in molte zone europee; troppa acqua dà rese alte e uve diluite.
+DF: Le goutte-à-goutte est coûteux à installer mais très précis et économe, et permet de gérer le stress hydrique. L'inondation gaspille l'eau ; l'irrigation est courante dans le Nouveau Monde et permise dans de nombreuses zones européennes ; trop d'eau donne des rendements élevés et des raisins dilués.
+DE: Drip irrigation is costly to install but precise and economical, and allows water stress to be managed. Flooding wastes water; irrigation is common in the New World and permitted in many European areas; too much water gives high yields and diluted grapes.
+
+#vgm p39 b x
+Q: Quale malattia fungina dà una polvere grigio-biancastra su foglie e acini e si sviluppa con tempo caldo anche senza pioggia? || Quelle maladie fongique forme une poudre gris-blanc sur feuilles et baies et se développe par temps chaud même sans pluie ? || Which fungal disease forms a grey-white powder on leaves and berries and develops in warm weather even without rain?
+A: Oidio || Oïdium || Powdery mildew
+B: Peronospora || Mildiou || Downy mildew
+C: Muffa grigia || Pourriture grise || Grey rot
+D: Fillossera || Phylloxéra || Phylloxera
+E: Oidio: caldo, ombra, umidità moderata; zolfo. Peronospora: pioggia e caldo-umido; rame. || Oïdium : chaleur, ombre, humidité modérée ; soufre. Mildiou : pluie et chaleur humide ; cuivre. || Powdery mildew: warmth, shade, moderate humidity; sulfur. Downy: rain and warm damp; copper.
+DI: L'oidio si sviluppa con caldo e ombra anche senza pioggia e forma una polvere grigio-biancastra; si combatte con lo zolfo. La peronospora ha bisogno di pioggia e caldo umido (macchie oleose, muffa bianca sotto le foglie; rame). La muffa grigia è Botrytis, la fillossera un insetto.
+DF: L'oïdium se développe par temps chaud et à l'ombre même sans pluie et forme une poudre gris-blanc ; on le traite au soufre. Le mildiou a besoin de pluie et de chaleur humide (taches d'huile, duvet blanc sous les feuilles ; cuivre). La pourriture grise est le botrytis, le phylloxéra un insecte.
+DE: Powdery mildew grows in warm, shady conditions even without rain, forming grey-white powder; sulfur controls it. Downy mildew needs rain and warm damp (oil spots, white down under leaves; copper). Grey rot is Botrytis; phylloxera is an insect.
+
+#vin p45 b x
+Q: Quali di queste aggiunte sono consentite in molti paesi per correggere il mosto? 1. Zucchero (arricchimento) 2. Acido tartarico (acidificazione) 3. Acqua per abbassare il potenziale alcolico || Lesquels de ces ajouts sont autorisés dans de nombreux pays pour corriger le moût ? 1. Sucre (enrichissement) 2. Acide tartrique (acidification) 3. Eau pour abaisser l'alcool potentiel || Which additions are permitted in many countries to adjust the must? 1. Sugar (enrichment) 2. Tartaric acid (acidification) 3. Water to lower potential alcohol
+A: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+B: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+C: Solo 2 || 2 uniquement || 2 only
+D: Solo 1 || 1 uniquement || 1 only
+E: Correzioni: arricchimento (zucchero/MCR), acidificazione/disacidificazione, in alcuni paesi acqua. || Corrections : enrichissement (sucre/MCR), acidification/désacidification, dans certains pays eau. || Adjustments: enrichment (sugar/RCGM), acidification/deacidification, in some countries water.
+DI: Il manuale cita tre correzioni del mosto: arricchimento (zucchero o MCR) nei climi freschi, acidificazione con acido tartarico nei climi caldi e, in alcuni paesi (es. USA, Australia), un'aggiunta limitata d'acqua per ridurre lo zucchero di uve molto mature. Le regole variano da paese a paese.
+DF: Le manuel cite trois corrections du moût : l'enrichissement (sucre ou MCR) en climat frais, l'acidification à l'acide tartrique en climat chaud et, dans certains pays (ex. États-Unis, Australie), un ajout limité d'eau pour réduire le sucre de raisins très mûrs. Les règles varient selon les pays.
+DE: The textbook lists three must adjustments: enrichment (sugar or RCGM) in cool climates, acidification with tartaric acid in warm ones and, in some countries (e.g. USA, Australia), limited addition of water to lower the sugar of very ripe grapes. Rules vary by country.
+
+#vin p47 b x
+Q: Fermentazione alcolica: lieviti / prodotti principali || Fermentation alcoolique : levures / produits principaux || Alcoholic fermentation: yeast / main products
+A: Trasformano zucchero / alcol, CO2 e calore || Transforment le sucre / alcool, CO2 et chaleur || Convert sugar / alcohol, CO2 and heat
+B: Trasformano acido malico / acido lattico e CO2 || Transforment l'acide malique / acide lactique et CO2 || Convert malic acid / lactic acid and CO2
+C: Trasformano alcol / zucchero e ossigeno || Transforment l'alcool / sucre et oxygène || Convert alcohol / sugar and oxygen
+D: Trasformano tannino / colore e acidità || Transforment le tanin / couleur et acidité || Convert tannin / colour and acidity
+E: Lieviti + zucchero → alcol + CO2 + calore (+ aromi). Batteri lattici: malico → lattico. || Levures + sucre → alcool + CO2 + chaleur (+ arômes). Bactéries lactiques : malique → lactique. || Yeast + sugar → alcohol + CO2 + heat (+ flavour). Lactic bacteria: malic → lactic.
+DI: Nella fermentazione alcolica i lieviti consumano lo zucchero e producono alcol, anidride carbonica e calore, oltre a composti aromatici. La trasformazione dell'acido malico in lattico è la malolattica, opera dei batteri lattici.
+DF: Pendant la fermentation alcoolique, les levures consomment le sucre et produisent alcool, gaz carbonique et chaleur, ainsi que des composés aromatiques. La transformation de l'acide malique en lactique est la malolactique, œuvre des bactéries lactiques.
+DE: In alcoholic fermentation yeasts consume sugar and produce alcohol, carbon dioxide and heat, plus flavour compounds. Turning malic into lactic acid is malolactic conversion, carried out by lactic bacteria.
+
+#vin p49 b x
+Q: Quale di queste affermazioni sulle botti di rovere è vera? || Laquelle de ces affirmations sur les fûts de chêne est vraie ? || Which statement about oak barrels is true?
+A: Più la botte è piccola e nuova, più cede aromi e ossigeno || Plus le fût est petit et neuf, plus il apporte d'arômes et d'oxygène || The smaller and newer the barrel, the more flavour and oxygen it gives
+B: Il rovere americano dà note più delicate del francese || Le chêne américain donne des notes plus discrètes que le français || American oak gives subtler notes than French oak
+C: Le botti grandi e vecchie danno molta vaniglia || Les grands foudres anciens donnent beaucoup de vanille || Large old casks give lots of vanilla
+D: La tostatura non cambia gli aromi del legno || La chauffe ne change pas les arômes du bois || Toasting does not change oak flavours
+E: Botte piccola + nuova = più aromi (vaniglia, tostato) e più ossigenazione. || Petit fût neuf = plus d'arômes (vanille, grillé) et d'oxygénation. || Small + new barrel = more flavour (vanilla, toast) and oxygenation.
+DI: Le botti piccole hanno più superficie per litro di vino e quelle nuove cedono più composti aromatici: entrambe aumentano l'effetto del legno. Il rovere americano dà note più marcate di vaniglia e cocco; le botti grandi e vecchie sono quasi neutre; la tostatura crea aromi di tostato, affumicato e spezie.
+DF: Les petits fûts offrent plus de surface par litre et les fûts neufs cèdent davantage de composés aromatiques : les deux augmentent l'effet du bois. Le chêne américain donne des notes plus marquées de vanille et de coco ; les grands foudres anciens sont presque neutres ; la chauffe crée des arômes grillés, fumés et épicés.
+DE: Small barrels have more surface per litre and new ones give more flavour compounds: both increase oak effect. American oak gives stronger vanilla and coconut; large old casks are almost neutral; toasting creates toast, smoke and spice aromas.
+
+#wht p59 b x
+Q: Un bianco ha note di burro, nocciola, brioche e vaniglia. Quali tecniche sono probabili? 1. Malolattica 2. Bâtonnage sulle fecce 3. Fermentazione in barrique || Un blanc présente des notes de beurre, noisette, brioche et vanille. Quelles techniques sont probables ? 1. Malolactique 2. Bâtonnage sur lies 3. Fermentation en barrique || A white shows butter, hazelnut, brioche and vanilla. Which techniques are likely? 1. Malolactic conversion 2. Lees stirring 3. Barrel fermentation
+A: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+B: Solo 1 || 1 uniquement || 1 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+E: Burro = malolattica; brioche/nocciola = fecce; vaniglia/tostato = legno. || Beurre = malo ; brioche/noisette = lies ; vanille/grillé = bois. || Butter = MLF; brioche/nut = lees; vanilla/toast = oak.
+DI: Il burro viene dalla malolattica (diacetile), brioche e nocciola dal contatto con le fecce e dal bâtonnage, vaniglia e tostato dalla barrique: insieme sono lo stile classico dei grandi Chardonnay di Borgogna.
+DF: Le beurre vient de la malolactique (diacétyle), la brioche et la noisette du contact avec les lies et du bâtonnage, la vanille et le grillé de la barrique : ensemble, c'est le style classique des grands chardonnays de Bourgogne.
+DE: Butter comes from MLF (diacetyl), brioche and nut from lees contact and stirring, vanilla and toast from barrels: together, the classic style of top white Burgundy.
+
+#red p64 b x
+Q: Temperatura di fermentazione tipica dei rossi e effetto: || Température de fermentation typique des rouges et effet : || Typical red fermentation temperature and its effect:
+A: 20–32 °C / estrae colore e tannino || 20–32 °C / extrait couleur et tanin || 20–32 °C / extracts colour and tannin
+B: 12–16 °C / conserva aromi fruttati delicati || 12–16 °C / préserve des arômes fruités délicats || 12–16 °C / keeps delicate fruit aromas
+C: 5–8 °C / blocca la malolattica || 5–8 °C / bloque la malolactique || 5–8 °C / blocks malolactic
+D: 40–45 °C / dà più frutto fresco || 40–45 °C / donne plus de fruit frais || 40–45 °C / gives more fresh fruit
+E: Rossi 20–32 °C (estrazione); bianchi 12–22 °C (aromi); oltre ~35 °C i lieviti muoiono. || Rouges 20–32 °C (extraction) ; blancs 12–22 °C (arômes) ; au-delà de ~35 °C les levures meurent. || Reds 20–32 °C (extraction); whites 12–22 °C (aromas); above ~35 °C yeasts die.
+DI: I rossi fermentano più caldi (circa 20–32 °C) per estrarre colore e tannino dalle bucce; le temperature basse servono ai bianchi aromatici. Oltre i 35 °C circa i lieviti rischiano di morire e la fermentazione si blocca.
+DF: Les rouges fermentent plus chaud (environ 20–32 °C) pour extraire couleur et tanin des pellicules ; les basses températures servent aux blancs aromatiques. Au-delà d'environ 35 °C, les levures risquent de mourir et la fermentation s'arrête.
+DE: Reds ferment warmer (about 20–32 °C) to extract colour and tannin from the skins; low temperatures suit aromatic whites. Above about 35 °C yeasts may die and fermentation can stick.
+
+#red p67 b x
+Q: Quale di queste affermazioni sul rosato è vera? || Laquelle de ces affirmations sur le rosé est vraie ? || Which statement about rosé is true?
+A: Con la pressatura diretta si ottengono rosati molto pallidi || Le pressurage direct donne des rosés très pâles || Direct pressing gives very pale rosés
+B: Il rosato si fa sempre mescolando bianco e rosso || Le rosé est toujours obtenu en mélangeant blanc et rouge || Rosé is always made by blending white and red
+C: Il salasso produce rosati senza alcun contatto con le bucce || La saignée produit des rosés sans aucun contact avec les pellicules || Saignée produces rosés with no skin contact
+D: I rosati si affinano di solito a lungo in barrique nuove || Les rosés s'élèvent généralement longtemps en barriques neuves || Rosés are usually aged long in new barrels
+E: Rosato: pressatura diretta (pallido), breve macerazione, salasso; taglio quasi solo in Champagne. || Rosé : pressurage direct (pâle), courte macération, saignée ; assemblage presque seulement en Champagne. || Rosé: direct pressing (pale), short maceration, saignée; blending mostly only in Champagne.
+DI: Pressando subito uve nere si estrae pochissimo colore: rosati molto pallidi (Provenza). Altri metodi sono la breve macerazione e il salasso (che comunque ha contatto con le bucce). Il taglio bianco+rosso è vietato in UE salvo eccezioni come lo Champagne rosé.
+DF: En pressant immédiatement des raisins noirs, on extrait très peu de couleur : rosés très pâles (Provence). Autres méthodes : courte macération et saignée (qui implique un contact avec les pellicules). L'assemblage blanc + rouge est interdit dans l'UE sauf exceptions comme le champagne rosé.
+DE: Pressing black grapes straight away extracts very little colour: very pale rosés (Provence). Other methods are short maceration and saignée (which does involve skin contact). Blending white and red is banned in the EU except e.g. for rosé Champagne.
+
+#prx p72 b x
+Q: Quale di queste affermazioni sui costi di produzione è vera? || Laquelle de ces affirmations sur les coûts de production est vraie ? || Which statement about production costs is true?
+A: Vigneti in pendenza e vendemmia a mano aumentano i costi || Les vignes en pente et la vendange manuelle augmentent les coûts || Sloping vineyards and hand harvesting raise costs
+B: Le barrique nuove costano meno dei trucioli || Les barriques neuves coûtent moins cher que les copeaux || New barrels cost less than oak chips
+C: Rese alte aumentano il costo per bottiglia || Les rendements élevés augmentent le coût par bouteille || High yields raise the cost per bottle
+D: L'affinamento lungo riduce i costi di stoccaggio || Un long élevage réduit les coûts de stockage || Long ageing reduces storage costs
+E: Costi alti: pendii, mano d'opera, rese basse, legno nuovo, lungo affinamento. || Coûts élevés : pentes, main-d'œuvre, faibles rendements, bois neuf, long élevage. || High costs: slopes, labour, low yields, new oak, long ageing.
+DI: I pendii ripidi impediscono la meccanizzazione e richiedono molta mano d'opera; le rese basse distribuiscono i costi su meno bottiglie; barrique nuove e lunghi affinamenti costano in materiali, spazio e capitale immobilizzato. I trucioli sono l'alternativa economica al legno.
+DF: Les pentes abruptes empêchent la mécanisation et demandent beaucoup de main-d'œuvre ; les faibles rendements répartissent les coûts sur moins de bouteilles ; barriques neuves et longs élevages coûtent en matériel, espace et capital immobilisé. Les copeaux sont l'alternative économique au fût.
+DE: Steep slopes prevent mechanisation and need lots of labour; low yields spread costs over fewer bottles; new barrels and long ageing cost materials, space and tied-up capital. Oak chips are the cheap alternative to barrels.
+
+#deg p4 b x
+Q: Nel SAT, quali elementi si valutano al palato? 1. Dolcezza 2. Lacrime (archetti) 3. Finale || Dans le SAT, quels éléments s'évaluent en bouche ? 1. Sucrosité 2. Larmes (jambes) 3. Finale || In the SAT, which are assessed on the palate? 1. Sweetness 2. Legs (tears) 3. Finish
+A: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+B: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+E: Palato SAT: dolcezza, acidità, tannino, alcol, corpo, (mousse), intensità e caratteristiche aromatiche, finale. || Bouche SAT : sucrosité, acidité, tanin, alcool, corps, (mousse), intensité et caractéristiques aromatiques, finale. || SAT palate: sweetness, acidity, tannin, alcohol, body, (mousse), flavour intensity and characteristics, finish.
+DI: Al palato il SAT valuta dolcezza, acidità, tannino, alcol, corpo, eventuale mousse, intensità e caratteristiche aromatiche e finale. Le lacrime non sono un parametro del SAT.
+DF: En bouche, le SAT évalue sucrosité, acidité, tanin, alcool, corps, mousse éventuelle, intensité et caractéristiques aromatiques et finale. Les larmes ne sont pas un critère du SAT.
+DE: On the palate the SAT assesses sweetness, acidity, tannin, alcohol, body, mousse where relevant, flavour intensity and characteristics, and finish. Legs are not a SAT parameter.
+
+#deg p8 b x
+Q: Quale di questi odori indica un vino con difetto di tappo (TCA)? || Laquelle de ces odeurs indique un vin bouchonné (TCA) ? || Which smell indicates a corked wine (TCA)?
+A: Cartone bagnato, muffa || Carton mouillé, moisi || Damp cardboard, musty
+B: Uova marce, cavolo || Œufs pourris, chou || Rotten eggs, cabbage
+C: Aceto, solvente || Vinaigre, dissolvant || Vinegar, nail-polish remover
+D: Stalla, cerotto || Écurie, pansement || Farmyard, sticking plaster
+E: TCA = muffa, cartone bagnato, frutto spento. Riduzione = uova/cavolo; AV = aceto; Brett = stalla. || TCA = moisi, carton mouillé, fruit éteint. Réduction = œuf/chou ; AV = vinaigre ; Brett = écurie. || TCA = musty, damp cardboard, muted fruit. Reduction = egg/cabbage; VA = vinegar; Brett = farmyard.
+DI: Il TCA dà odori di muffa e cartone bagnato e smorza il frutto. Uova marce e cavolo indicano riduzione, aceto e solvente acidità volatile, stalla e cerotto Brettanomyces.
+DF: Le TCA donne des odeurs de moisi et de carton mouillé et éteint le fruit. Œuf pourri et chou indiquent une réduction, vinaigre et dissolvant l'acidité volatile, écurie et pansement les Brettanomyces.
+DE: TCA smells musty, like damp cardboard, and mutes the fruit. Rotten eggs and cabbage indicate reduction, vinegar and nail-polish remover volatile acidity, farmyard and sticking plaster Brettanomyces.
+
+#cib p13 b x
+Q: Un cibo dolce fa sembrare il vino: || Un plat sucré donne l'impression qu'un vin est : || Sweet food makes a wine seem:
+A: Più amaro, più acido, meno dolce e meno fruttato || Plus amer, plus acide, moins sucré et moins fruité || More bitter, more acidic, less sweet and less fruity
+B: Più dolce e più fruttato || Plus sucré et plus fruité || Sweeter and fruitier
+C: Meno acido e meno amaro || Moins acide et moins amer || Less acidic and less bitter
+D: Più alcolico e più morbido || Plus alcoolisé et plus souple || More alcoholic and softer
+E: Dolce nel piatto → vino più amaro e acido; il vino dev'essere almeno altrettanto dolce. || Sucré dans le plat → vin plus amer et acide ; le vin doit être au moins aussi sucré. || Sweet food → wine more bitter and acidic; wine should be at least as sweet.
+DI: La dolcezza del cibo aumenta la percezione di amaro, acidità e bruciore alcolico e riduce corpo, dolcezza e frutto del vino. Per questo con i dessert serve un vino almeno altrettanto dolce.
+DF: Le sucré du plat augmente la perception d'amertume, d'acidité et de brûlure alcoolique et diminue corps, sucrosité et fruit du vin. Avec les desserts, il faut donc un vin au moins aussi sucré.
+DE: Sweetness in food increases perceived bitterness, acidity and alcohol burn and reduces the wine's body, sweetness and fruit. Desserts therefore need a wine at least as sweet.
+
+#srv p17 b x
+Q: Temperatura di servizio consigliata: bianchi corposi e con legno / rossi leggeri || Température de service conseillée : blancs amples et boisés / rouges légers || Recommended serving temperature: full-bodied oaked whites / light reds
+A: 10–13 °C / 13 °C circa || 10–13 °C / environ 13 °C || 10–13 °C / about 13 °C
+B: 6–8 °C / 17–18 °C || 6–8 °C / 17–18 °C || 6–8 °C / 17–18 °C
+C: 15–18 °C / 6–10 °C || 15–18 °C / 6–10 °C || 15–18 °C / 6–10 °C
+D: 6–10 °C / 15–18 °C || 6–10 °C / 15–18 °C || 6–10 °C / 15–18 °C
+E: Bianchi corposi/legno 10–13 °C; rossi leggeri ~13 °C; rossi corposi 15–18 °C; spumanti 6–10 °C. || Blancs amples/boisés 10–13 °C ; rouges légers ~13 °C ; rouges corsés 15–18 °C ; effervescents 6–10 °C. || Full oaked whites 10–13 °C; light reds ~13 °C; full reds 15–18 °C; sparkling 6–10 °C.
+DI: Secondo il WSET i bianchi di corpo medio-pieno e con legno si servono a 10–13 °C, i rossi leggeri a circa 13 °C (leggermente freschi), i rossi corposi a 15–18 °C, i bianchi leggeri a 7–10 °C e gli spumanti a 6–10 °C.
+DF: Selon le WSET, les blancs de corps moyen à ample et boisés se servent à 10–13 °C, les rouges légers vers 13 °C (légèrement frais), les rouges corsés à 15–18 °C, les blancs légers à 7–10 °C et les effervescents à 6–10 °C.
+DE: Per WSET, medium- to full-bodied oaked whites are served at 10–13 °C, light reds at about 13 °C (lightly chilled), full reds at 15–18 °C, light whites at 7–10 °C and sparkling wines at 6–10 °C.
+
+#bdx p78 b x
+Q: Quale di queste affermazioni su Bordeaux è vera? || Laquelle de ces affirmations sur Bordeaux est vraie ? || Which statement about Bordeaux is true?
+A: Il clima marittimo rende le annate molto variabili || Le climat maritime rend les millésimes très variables || The maritime climate makes vintages very variable
+B: La Rive Gauche è dominata dal Merlot su argilla || La rive gauche est dominée par le merlot sur argile || The Left Bank is dominated by Merlot on clay
+C: I bianchi secchi si fanno soprattutto da Chardonnay || Les blancs secs sont surtout issus de chardonnay || Dry whites are mainly Chardonnay
+D: Sauternes si trova sulla Rive Droite || Sauternes se trouve sur la rive droite || Sauternes is on the Right Bank
+E: Bordeaux: marittimo, annate variabili; RG Cabernet su ghiaia; bianchi Sauvignon/Sémillon. || Bordeaux : maritime, millésimes variables ; RG cabernet sur graves ; blancs sauvignon/sémillon. || Bordeaux: maritime, variable vintages; Left Bank Cabernet on gravel; whites Sauvignon/Semillon.
+DI: Bordeaux ha un clima marittimo moderato con piogge che possono colpire fioritura e vendemmia: le annate cambiano molto. La Rive Gauche è dominata dal Cabernet Sauvignon su ghiaie; i bianchi sono da Sauvignon Blanc e Sémillon; Sauternes è sulla riva sinistra della Garonna.
+DF: Bordeaux a un climat maritime modéré avec des pluies pouvant toucher floraison et vendanges : les millésimes varient beaucoup. La rive gauche est dominée par le cabernet sauvignon sur graves ; les blancs sont de sauvignon et sémillon ; Sauternes est sur la rive gauche de la Garonne.
+DE: Bordeaux has a moderate maritime climate with rain that can hit flowering and harvest, so vintages vary a lot. The Left Bank is dominated by Cabernet Sauvignon on gravel; whites are Sauvignon Blanc and Semillon; Sauternes is on the Garonne's left bank.
+
+#bdx p83 b x
+Q: Quali condizioni favoriscono la muffa nobile a Sauternes? 1. Nebbie mattutine dal Ciron 2. Pomeriggi caldi e asciutti 3. Piogge continue in autunno || Quelles conditions favorisent la pourriture noble à Sauternes ? 1. Brumes matinales du Ciron 2. Après-midi chauds et secs 3. Pluies continues en automne || Which conditions favour noble rot in Sauternes? 1. Morning mists from the Ciron 2. Warm, dry afternoons 3. Persistent autumn rain
+A: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+B: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+E: Muffa nobile: umidità al mattino + asciutto al pomeriggio; la pioggia porta muffa grigia. || Pourriture noble : humidité le matin + sec l'après-midi ; la pluie donne la pourriture grise. || Noble rot: morning humidity + dry afternoons; rain brings grey rot.
+DI: Il Ciron, più freddo, incontra la Garonna e crea nebbie mattutine che favoriscono la Botrytis; i pomeriggi caldi e asciutti la mantengono «nobile» e concentrano gli acini. La pioggia persistente porta invece alla muffa grigia.
+DF: Le Ciron, plus frais, rencontre la Garonne et crée des brumes matinales favorables au botrytis ; les après-midi chauds et secs la gardent « noble » et concentrent les baies. Les pluies persistantes entraînent au contraire la pourriture grise.
+DE: The cooler Ciron meets the Garonne, creating morning mists that encourage Botrytis; warm, dry afternoons keep it 'noble' and concentrate the berries. Persistent rain instead leads to grey rot.
+
+#bgn p86 b x
+Q: Ordina dal livello più basso al più alto la gerarchia della Borgogna || Classez du plus bas au plus haut la hiérarchie bourguignonne || Rank Burgundy's hierarchy from lowest to highest
+A: Regionale → village → premier cru → grand cru || Régionale → village → premier cru → grand cru || Regional → village → premier cru → grand cru
+B: Village → regionale → grand cru → premier cru || Village → régionale → grand cru → premier cru || Village → regional → grand cru → premier cru
+C: Premier cru → village → grand cru → regionale || Premier cru → village → grand cru → régionale || Premier cru → village → grand cru → regional
+D: Regionale → premier cru → village → grand cru || Régionale → premier cru → village → grand cru || Regional → premier cru → village → grand cru
+E: Borgogna: regionale < village < premier cru < grand cru. || Bourgogne : régionale < village < premier cru < grand cru. || Burgundy: regional < village < premier cru < grand cru.
+DI: La piramide della Borgogna va dalle denominazioni regionali (Bourgogne) ai village (es. Gevrey-Chambertin), ai premier cru (villaggio + vigneto) e ai grand cru, che hanno una denominazione propria (es. Chambertin).
+DF: La pyramide bourguignonne va des appellations régionales (Bourgogne) aux villages (ex. Gevrey-Chambertin), aux premiers crus (village + climat) et aux grands crus, qui ont leur propre appellation (ex. Chambertin).
+DE: Burgundy's pyramid runs from regional appellations (Bourgogne) to villages (e.g. Gevrey-Chambertin), premiers crus (village + vineyard) and grands crus, which have their own appellation (e.g. Chambertin).
+
+#bgn p88 b x
+Q: Quale coppia villaggio/stile principale è corretta? || Quelle paire village / style principal est correcte ? || Which village / main style pairing is correct?
+A: Pommard / rosso || Pommard / rouge || Pommard / red
+B: Meursault / rosso || Meursault / rouge || Meursault / red
+C: Vosne-Romanée / bianco || Vosne-Romanée / blanc || Vosne-Romanée / white
+D: Puligny-Montrachet / rosso || Puligny-Montrachet / rouge || Puligny-Montrachet / red
+E: Côte de Nuits = rossi (Vosne); Côte de Beaune: rossi (Pommard, Volnay) e bianchi (Meursault, Puligny). || Côte de Nuits = rouges (Vosne) ; Côte de Beaune : rouges (Pommard, Volnay) et blancs (Meursault, Puligny). || Côte de Nuits = reds (Vosne); Côte de Beaune: reds (Pommard, Volnay) and whites (Meursault, Puligny).
+DI: Pommard (Côte de Beaune) è noto per rossi strutturati da Pinot Noir. Meursault e Puligny-Montrachet sono famosi per i bianchi da Chardonnay; Vosne-Romanée (Côte de Nuits) per i grandi rossi.
+DF: Pommard (Côte de Beaune) est connu pour ses rouges structurés de pinot noir. Meursault et Puligny-Montrachet sont célèbres pour leurs blancs de chardonnay ; Vosne-Romanée (Côte de Nuits) pour ses grands rouges.
+DE: Pommard (Côte de Beaune) is known for structured Pinot Noir reds. Meursault and Puligny-Montrachet are famous for Chardonnay whites; Vosne-Romanée (Côte de Nuits) for great reds.
+
+#als p94 b x
+Q: Quale di queste affermazioni sull'Alsazia è vera? || Laquelle de ces affirmations sur l'Alsace est vraie ? || Which statement about Alsace is true?
+A: I Vosgi la proteggono dai venti umidi dell'ovest, rendendola secca e soleggiata || Les Vosges la protègent des vents humides d'ouest, la rendant sèche et ensoleillée || The Vosges shelter it from wet westerly winds, making it dry and sunny
+B: Il clima è marittimo e molto piovoso || Le climat est maritime et très pluvieux || The climate is maritime and very wet
+C: I vini sono quasi tutti tagli di più vitigni || Les vins sont presque tous des assemblages de cépages || The wines are almost all blends
+D: Le VT sono vini secchi da uve raccolte presto || Les VT sont des vins secs de raisins vendangés tôt || VT wines are dry wines from early-picked grapes
+E: Alsazia: ombra pluviometrica dei Vosgi, vini varietali, VT/SGN da vendemmia tardiva. || Alsace : ombre pluviométrique des Vosges, vins de cépage, VT/SGN de vendanges tardives. || Alsace: Vosges rain shadow, varietal wines, VT/SGN late-harvest.
+DI: I Vosgi trattengono le piogge da ovest: l'Alsazia è una delle zone più secche della Francia, con autunni lunghi e soleggiati. I vini sono soprattutto varietali, con il nome del vitigno in etichetta; VT (Vendanges Tardives) e SGN sono vini da uve surmature o botritizzate.
+DF: Les Vosges arrêtent les pluies d'ouest : l'Alsace est l'une des zones les plus sèches de France, aux automnes longs et ensoleillés. Les vins sont surtout des vins de cépage, nommés sur l'étiquette ; VT (Vendanges Tardives) et SGN viennent de raisins surmûris ou botrytisés.
+DE: The Vosges block rain from the west: Alsace is among France's driest areas, with long sunny autumns. Wines are mostly varietal, the grape named on the label; VT (Vendanges Tardives) and SGN come from overripe or botrytised grapes.
+
+#als p97 b x
+Q: Quale coppia Loira / vitigno principale è corretta? || Quelle paire Loire / cépage principal est correcte ? || Which Loire / main grape pairing is correct?
+A: Savennières / Chenin Blanc || Savennières / chenin blanc || Savennières / Chenin Blanc
+B: Chinon / Gamay || Chinon / gamay || Chinon / Gamay
+C: Pouilly-Fumé / Chardonnay || Pouilly-Fumé / chardonnay || Pouilly-Fumé / Chardonnay
+D: Muscadet / Sauvignon Blanc || Muscadet / sauvignon blanc || Muscadet / Sauvignon Blanc
+E: Savennières = Chenin secco; Chinon = Cabernet Franc; Pouilly-Fumé = Sauvignon; Muscadet = Melon. || Savennières = chenin sec ; Chinon = cabernet franc ; Pouilly-Fumé = sauvignon ; Muscadet = melon. || Savennières = dry Chenin; Chinon = Cabernet Franc; Pouilly-Fumé = Sauvignon; Muscadet = Melon.
+DI: Savennières (Anjou) è famoso per i Chenin Blanc secchi e longevi. Chinon è un rosso da Cabernet Franc, Pouilly-Fumé un Sauvignon Blanc dei Vigneti del Centro, Muscadet un bianco da Melon Blanc.
+DF: Savennières (Anjou) est réputé pour ses chenins secs de garde. Chinon est un rouge de cabernet franc, Pouilly-Fumé un sauvignon du Centre-Loire, Muscadet un blanc de melon.
+DE: Savennières (Anjou) is famous for long-lived dry Chenin Blanc. Chinon is a Cabernet Franc red, Pouilly-Fumé a Central Vineyards Sauvignon Blanc and Muscadet a Melon Blanc white.
+
+#rho p102 b x
+Q: Quale di queste affermazioni sul Rodano meridionale è vera? || Laquelle de ces affirmations sur le Rhône méridional est vraie ? || Which statement about the southern Rhône is true?
+A: Il clima è mediterraneo e il Grenache domina i tagli || Le climat est méditerranéen et le grenache domine les assemblages || The climate is Mediterranean and Grenache dominates the blends
+B: L'unica uva nera ammessa è la Syrah || Le seul cépage noir autorisé est la syrah || Syrah is the only permitted black grape
+C: I vigneti sono su terrazze ripide sopra il fiume || Les vignes sont sur des terrasses escarpées au-dessus du fleuve || Vineyards are on steep terraces above the river
+D: Tavel produce soprattutto bianchi dolci || Tavel produit surtout des blancs doux || Tavel mainly makes sweet whites
+E: Sud: mediterraneo, mistral, pianure e colline, tagli GSM; Tavel = rosato. || Sud : méditerranéen, mistral, plaines et collines, assemblages GSM ; Tavel = rosé. || South: Mediterranean, mistral, plains and hills, GSM blends; Tavel = rosé.
+DI: Il Rodano meridionale ha clima mediterraneo, con il mistral, e produce soprattutto tagli dominati dal Grenache (con Syrah, Mourvèdre, Cinsault). La sola Syrah e le terrazze ripide sono tipiche del nord; Tavel è una denominazione di soli rosati.
+DF: Le Rhône méridional a un climat méditerranéen, avec le mistral, et produit surtout des assemblages dominés par le grenache (avec syrah, mourvèdre, cinsault). La syrah seule et les terrasses escarpées caractérisent le nord ; Tavel est une appellation uniquement de rosés.
+DE: The southern Rhône has a Mediterranean climate with the mistral and makes mostly Grenache-led blends (with Syrah, Mourvèdre, Cinsault). Syrah alone and steep terraces belong to the north; Tavel is a rosé-only appellation.
+
+#rho p103 b x
+Q: Quali di questi sono vini dolci naturali (VDN) francesi? 1. Muscat de Beaumes-de-Venise 2. Banyuls 3. Rasteau || Lesquels de ces vins sont des vins doux naturels (VDN) français ? 1. Muscat de Beaumes-de-Venise 2. Banyuls 3. Rasteau || Which of these are French vins doux naturels (VDN)? 1. Muscat de Beaumes-de-Venise 2. Banyuls 3. Rasteau
+A: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+B: Solo 1 || 1 uniquement || 1 only
+C: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+D: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+E: VDN: Muscat de Beaumes-de-Venise, Rasteau (Rodano), Banyuls e Maury (Roussillon). || VDN : Muscat de Beaumes-de-Venise, Rasteau (Rhône), Banyuls et Maury (Roussillon). || VDN: Muscat de Beaumes-de-Venise, Rasteau (Rhône), Banyuls and Maury (Roussillon).
+DI: I VDN sono vini fortificati durante la fermentazione per conservare zucchero: il Muscat de Beaumes-de-Venise è bianco, Rasteau (che produce anche rossi secchi) e Banyuls sono VDN a base di Grenache.
+DF: Les VDN sont des vins mutés pendant la fermentation pour garder du sucre : le Muscat de Beaumes-de-Venise est blanc, Rasteau (qui produit aussi des rouges secs) et Banyuls sont des VDN à base de grenache.
+DE: VDNs are fortified during fermentation to keep sugar: Muscat de Beaumes-de-Venise is white; Rasteau (which also makes dry reds) and Banyuls are Grenache-based VDNs.
+
+#ger p111 b x
+Q: Livello Prädikat / zucchero minimo richiesto: quale coppia è corretta? || Niveau Prädikat / sucre minimum exigé : quelle paire est correcte ? || Prädikat level / minimum sugar: which pairing is correct?
+A: Kabinett / il più basso dei Prädikat || Kabinett / le plus bas des Prädikats || Kabinett / the lowest Prädikat
+B: Auslese / più basso dello Spätlese || Auslese / plus bas que la Spätlese || Auslese / lower than Spätlese
+C: Eiswein / uve botritizzate obbligatorie || Eiswein / raisins botrytisés obligatoires || Eiswein / botrytised grapes required
+D: TBA / meno zucchero della BA || TBA / moins de sucre que la BA || TBA / less sugar than BA
+E: Kabinett < Spätlese < Auslese < BA < TBA; Eiswein = uve gelate (più alto della BA). || Kabinett < Spätlese < Auslese < BA < TBA ; Eiswein = raisins gelés (au-dessus de la BA). || Kabinett < Spätlese < Auslese < BA < TBA; Eiswein = frozen grapes (above BA).
+DI: I Prädikat sono definiti dallo zucchero minimo del mosto: Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese, con l'Eiswein (uve raccolte e pressate gelate, non per forza botritizzate) almeno al livello della BA.
+DF: Les Prädikats sont définis par le sucre minimum du moût : Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese, l'Eiswein (raisins vendangés et pressés gelés, pas forcément botrytisés) se situant au moins au niveau de la BA.
+DE: Prädikats are defined by minimum must sugar: Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese, with Eiswein (grapes picked and pressed frozen, not necessarily botrytised) at least at BA level.
+
+#aut p116 b x
+Q: Quale di queste affermazioni su Tokaj è vera? || Laquelle de ces affirmations sur Tokaj est vraie ? || Which statement about Tokaj is true?
+A: Il Furmint è l'uva più piantata e principale degli Aszú || Le furmint est le cépage le plus planté et le principal des Aszú || Furmint is the most planted grape and the main one for Aszú
+B: Tokaj si trova nel sud-ovest dell'Ungheria, vicino al lago Balaton || Tokaj se trouve au sud-ouest de la Hongrie, près du lac Balaton || Tokaj is in south-west Hungary, near Lake Balaton
+C: I Tokaji dolci si imbottigliano in bottiglie da 75 cl || Les Tokaji doux sont mis en bouteilles de 75 cl || Sweet Tokaji is bottled in 75 cl bottles
+D: Il Szamorodni è sempre dolce || Le Szamorodni est toujours doux || Szamorodni is always sweet
+E: Tokaj: nord-est, Carpazi, Bodrog/Tisza; Furmint; dolci in 50 cl; Szamorodni secco o dolce. || Tokaj : nord-est, Carpates, Bodrog/Tisza ; furmint ; doux en 50 cl ; Szamorodni sec ou doux. || Tokaj: north-east, Carpathians, Bodrog/Tisza; Furmint; sweet in 50 cl; Szamorodni dry or sweet.
+DI: Tokaj è nel nord-est dell'Ungheria, ai piedi dei Carpazi; i fiumi Bodrog e Tisza portano le nebbie della muffa nobile. Il Furmint è l'uva più piantata e la base degli Aszú; i vini dolci si imbottigliano tradizionalmente in 50 cl; il Szamorodni può essere secco (száraz) o dolce (édes).
+DF: Tokaj est au nord-est de la Hongrie, au pied des Carpates ; le Bodrog et la Tisza apportent les brumes de la pourriture noble. Le furmint est le cépage le plus planté et la base des Aszú ; les vins doux sont traditionnellement en 50 cl ; le Szamorodni peut être sec (száraz) ou doux (édes).
+DE: Tokaj is in north-east Hungary at the foot of the Carpathians; the Bodrog and Tisza rivers bring noble-rot mists. Furmint is the most planted grape and the base of Aszú; sweet wines are traditionally bottled in 50 cl; Szamorodni can be dry (száraz) or sweet (édes).
+
+#aut p114 b x
+Q: Wachau: categoria / stile || Wachau : catégorie / style || Wachau: category / style
+A: Smaragd / il più pieno e alcolico || Smaragd / le plus ample et alcoolisé || Smaragd / the fullest and most alcoholic
+B: Steinfeder / il più pieno || Steinfeder / le plus ample || Steinfeder / the fullest
+C: Federspiel / dolce botritizzato || Federspiel / liquoreux botrytisé || Federspiel / sweet botrytised
+D: Smaragd / il più leggero || Smaragd / le plus léger || Smaragd / the lightest
+E: Wachau: Steinfeder (leggero) < Federspiel < Smaragd (pieno), tutti secchi. || Wachau : Steinfeder (léger) < Federspiel < Smaragd (ample), tous secs. || Wachau: Steinfeder (light) < Federspiel < Smaragd (full), all dry.
+DI: La Wachau usa tre categorie di vini secchi in base alla maturità: Steinfeder (il più leggero), Federspiel e Smaragd (il più pieno e maturo, da Grüner Veltliner e Riesling).
+DF: La Wachau utilise trois catégories de vins secs selon la maturité : Steinfeder (le plus léger), Federspiel et Smaragd (le plus ample et mûr, de grüner veltliner et riesling).
+DE: The Wachau uses three categories of dry wine by ripeness: Steinfeder (lightest), Federspiel and Smaragd (fullest and ripest, from Grüner Veltliner and Riesling).
+
+#ita p125 b x
+Q: Quali uve sono la base di questi vini toscani? 1. Chianti Classico 2. Brunello di Montalcino 3. Vino Nobile di Montepulciano || Quels cépages sont la base de ces vins toscans ? 1. Chianti Classico 2. Brunello di Montalcino 3. Vino Nobile di Montepulciano || Which grape is the base of these Tuscan wines? 1. Chianti Classico 2. Brunello di Montalcino 3. Vino Nobile di Montepulciano
+A: Sangiovese per 1, 2 e 3 || Sangiovese pour 1, 2 et 3 || Sangiovese for 1, 2 and 3
+B: Sangiovese solo per 1 e 2 || Sangiovese seulement pour 1 et 2 || Sangiovese for 1 and 2 only
+C: Montepulciano per 3, Sangiovese per 1 e 2 || Montepulciano pour 3, sangiovese pour 1 et 2 || Montepulciano for 3, Sangiovese for 1 and 2
+D: Nebbiolo per 2, Sangiovese per 1 e 3 || Nebbiolo pour 2, sangiovese pour 1 et 3 || Nebbiolo for 2, Sangiovese for 1 and 3
+E: Tutti e tre: Sangiovese (Brunello 100%). Montepulciano = borgo, non l'uva. || Tous les trois : sangiovese (Brunello 100 %). Montepulciano = village, pas le cépage. || All three: Sangiovese (Brunello 100%). Montepulciano = town, not the grape.
+DI: Chianti Classico, Brunello (100% Sangiovese) e Vino Nobile di Montepulciano sono tutti a base di Sangiovese. Nel Vino Nobile «Montepulciano» è il nome del borgo toscano, non dell'uva Montepulciano dell'Abruzzo.
+DF: Chianti Classico, Brunello (100 % sangiovese) et Vino Nobile di Montepulciano reposent tous sur le sangiovese. Dans le Vino Nobile, « Montepulciano » est le nom du village toscan, pas du cépage montepulciano des Abruzzes.
+DE: Chianti Classico, Brunello (100% Sangiovese) and Vino Nobile di Montepulciano are all Sangiovese-based. In Vino Nobile, 'Montepulciano' is the Tuscan town, not the Montepulciano grape of Abruzzo.
+
+#ita p122 b x
+Q: Barolo: vitigno / affinamento minimo || Barolo : cépage / vieillissement minimum || Barolo: grape / minimum ageing
+A: Nebbiolo / 38 mesi (18 in legno) || Nebbiolo / 38 mois (18 en bois) || Nebbiolo / 38 months (18 in wood)
+B: Barbera / 38 mesi (18 in legno) || Barbera / 38 mois (18 en bois) || Barbera / 38 months (18 in wood)
+C: Nebbiolo / 12 mesi (6 in legno) || Nebbiolo / 12 mois (6 en bois) || Nebbiolo / 12 months (6 in wood)
+D: Sangiovese / 26 mesi (9 in legno) || Sangiovese / 26 mois (9 en bois) || Sangiovese / 26 months (9 in wood)
+E: Barolo: Nebbiolo, 38 mesi (18 legno); Barbaresco: 26 mesi (9 legno). || Barolo : nebbiolo, 38 mois (18 bois) ; Barbaresco : 26 mois (9 bois). || Barolo: Nebbiolo, 38 months (18 wood); Barbaresco: 26 months (9 wood).
+DI: Il Barolo DOCG è 100% Nebbiolo e richiede almeno 38 mesi di affinamento, di cui 18 in legno. Il Barbaresco richiede 26 mesi, di cui 9 in legno.
+DF: Le Barolo DOCG est 100 % nebbiolo et exige au moins 38 mois de vieillissement, dont 18 en bois. Le Barbaresco exige 26 mois, dont 9 en bois.
+DE: Barolo DOCG is 100% Nebbiolo and needs at least 38 months' ageing, 18 in wood. Barbaresco needs 26 months, 9 in wood.
+
+#ita p128 b x
+Q: Quale coppia regione / uva tipica è corretta? || Quelle paire région / cépage typique est correcte ? || Which region / typical grape pairing is correct?
+A: Campania / Aglianico || Campanie / aglianico || Campania / Aglianico
+B: Sicilia / Corvina || Sicile / corvina || Sicily / Corvina
+C: Veneto / Nero d'Avola || Vénétie / nero d'avola || Veneto / Nero d'Avola
+D: Puglia / Nebbiolo || Pouilles / nebbiolo || Puglia / Nebbiolo
+E: Campania: Aglianico (Taurasi); Sicilia: Nero d'Avola; Veneto: Corvina; Puglia: Primitivo, Negroamaro. || Campanie : aglianico (Taurasi) ; Sicile : nero d'avola ; Vénétie : corvina ; Pouilles : primitivo, negroamaro. || Campania: Aglianico (Taurasi); Sicily: Nero d'Avola; Veneto: Corvina; Puglia: Primitivo, Negroamaro.
+DI: L'Aglianico è l'uva nera principale della Campania (Taurasi) e della Basilicata. La Corvina è del Veneto (Valpolicella), il Nero d'Avola della Sicilia, il Nebbiolo del Piemonte; in Puglia dominano Primitivo e Negroamaro.
+DF: L'aglianico est le principal cépage noir de Campanie (Taurasi) et de Basilicate. La corvina est vénitienne (Valpolicella), le nero d'avola sicilien, le nebbiolo piémontais ; dans les Pouilles dominent primitivo et negroamaro.
+DE: Aglianico is the main black grape of Campania (Taurasi) and Basilicata. Corvina belongs to Veneto (Valpolicella), Nero d'Avola to Sicily and Nebbiolo to Piedmont; Puglia is dominated by Primitivo and Negroamaro.
+
+#esp p135 b x
+Q: Quale di queste affermazioni sulla Rioja è vera? || Laquelle de ces affirmations sur la Rioja est vraie ? || Which statement about Rioja is true?
+A: Rioja Oriental è la zona più calda e secca || La Rioja Oriental est la zone la plus chaude et sèche || Rioja Oriental is the warmest and driest zone
+B: Il Tempranillo è vietato in Rioja Alta || Le tempranillo est interdit en Rioja Alta || Tempranillo is banned in Rioja Alta
+C: La Sierra de Cantabria lascia passare i venti freddi dell'Atlantico || La Sierra de Cantabria laisse passer les vents froids atlantiques || The Sierra de Cantabria lets cold Atlantic winds through
+D: Lo stile tradizionale usa solo rovere francese nuovo || Le style traditionnel n'utilise que du chêne français neuf || The traditional style uses only new French oak
+E: Rioja: Alta e Alavesa più fresche; Oriental calda (Garnacha); tradizione = rovere americano. || Rioja : Alta et Alavesa plus fraîches ; Oriental chaude (garnacha) ; tradition = chêne américain. || Rioja: Alta and Alavesa cooler; Oriental warm (Garnacha); tradition = American oak.
+DI: La Sierra de Cantabria protegge la Rioja dai venti freddi e umidi dell'Atlantico. Rioja Alta e Alavesa, più alte e influenzate dall'Atlantico, sono più fresche; Rioja Oriental è più calda e secca, adatta alla Garnacha. Lo stile tradizionale usa lungo affinamento in rovere americano.
+DF: La Sierra de Cantabria protège la Rioja des vents froids et humides de l'Atlantique. Rioja Alta et Alavesa, plus hautes et influencées par l'Atlantique, sont plus fraîches ; la Rioja Oriental est plus chaude et sèche, adaptée au garnacha. Le style traditionnel utilise un long élevage en chêne américain.
+DE: The Sierra de Cantabria shields Rioja from cold, wet Atlantic winds. Rioja Alta and Alavesa, higher and Atlantic-influenced, are cooler; Rioja Oriental is warmer and drier, suited to Garnacha. The traditional style uses long ageing in American oak.
+
+#esp p137 b x
+Q: Rías Baixas: clima / vitigno || Rías Baixas : climat / cépage || Rías Baixas: climate / grape
+A: Marittimo piovoso / Albariño || Maritime pluvieux / albariño || Wet maritime / Albariño
+B: Continentale secco / Verdejo || Continental sec / verdejo || Dry continental / Verdejo
+C: Mediterraneo caldo / Monastrell || Méditerranéen chaud / monastrell || Hot Mediterranean / Monastrell
+D: Marittimo piovoso / Tempranillo || Maritime pluvieux / tempranillo || Wet maritime / Tempranillo
+E: Rías Baixas (Galizia): atlantico, piovoso, pergole, Albariño. Rueda = Verdejo. || Rías Baixas (Galice) : atlantique, pluvieux, pergolas, albariño. Rueda = verdejo. || Rías Baixas (Galicia): Atlantic, wet, pergolas, Albariño. Rueda = Verdejo.
+DI: Rías Baixas, in Galizia, ha un clima marittimo fresco e piovoso: si allevano le viti su pergole alte per far circolare l'aria e l'Albariño, a buccia spessa, resiste alla muffa. Il Verdejo è l'uva di Rueda, il Monastrell del sud-est caldo.
+DF: Rías Baixas, en Galice, a un climat maritime frais et pluvieux : la vigne est conduite en pergolas hautes pour aérer, et l'albariño, à peau épaisse, résiste à la pourriture. Le verdejo est le cépage de Rueda, le monastrell celui du sud-est chaud.
+DE: Rías Baixas in Galicia has a cool, wet maritime climate: vines are trained on high pergolas for airflow and thick-skinned Albariño resists rot. Verdejo is Rueda's grape, Monastrell that of the hot south-east.
+
+#por p141 b x
+Q: Quale di queste affermazioni sul Portogallo è vera? || Laquelle de ces affirmations sur le Portugal est vraie ? || Which statement about Portugal is true?
+A: Il Vinho Verde è nel nord-ovest, fresco e piovoso || Le Vinho Verde est au nord-ouest, frais et pluvieux || Vinho Verde is in the north-west, cool and wet
+B: L'Alentejo è la regione più fresca e piovosa del paese || L'Alentejo est la région la plus fraîche et pluvieuse du pays || Alentejo is the coolest, wettest region
+C: Il Dão è una pianura costiera esposta all'Atlantico || Le Dão est une plaine côtière exposée à l'Atlantique || Dão is a coastal plain exposed to the Atlantic
+D: La Baga è l'uva bianca principale della Bairrada || Le baga est le cépage blanc principal de la Bairrada || Baga is Bairrada's main white grape
+E: Vinho Verde: NO atlantico; Dão: protetto da montagne; Alentejo: caldo e secco; Baga: nera. || Vinho Verde : NO atlantique ; Dão : protégé par les montagnes ; Alentejo : chaud et sec ; baga : noir. || Vinho Verde: Atlantic NW; Dão: mountain-sheltered; Alentejo: hot and dry; Baga: black.
+DI: Il Vinho Verde, nel nord-ovest, ha clima fresco e piovoso influenzato dall'Atlantico. Il Dão è un altopiano protetto dalle montagne; l'Alentejo è caldo e secco; la Baga è un'uva nera (Bairrada).
+DF: Le Vinho Verde, au nord-ouest, a un climat frais et pluvieux influencé par l'Atlantique. Le Dão est un plateau abrité par les montagnes ; l'Alentejo est chaud et sec ; le baga est un cépage noir (Bairrada).
+DE: Vinho Verde, in the north-west, has a cool, wet Atlantic-influenced climate. Dão is a plateau sheltered by mountains; Alentejo is hot and dry; Baga is a black grape (Bairrada).
+
+#usa p144 b x
+Q: Napa Valley: zona / influenza principale || Napa Valley : zone / influence principale || Napa Valley: area / main influence
+A: Sud (Carneros) più fresco / nebbie e brezze della baia di San Pablo || Sud (Carneros) plus frais / brouillards et brises de la baie de San Pablo || Southern end (Carneros) cooler / fog and breezes from San Pablo Bay
+B: Nord (Calistoga) più fresco / venti dell'oceano || Nord (Calistoga) plus frais / vents de l'océan || Northern end (Calistoga) cooler / ocean winds
+C: Fondovalle più fresco dei pendii / altitudine || Fond de vallée plus frais que les pentes / altitude || Valley floor cooler than slopes / altitude
+D: Tutta la valle uniforme / Sierra Nevada || Toute la vallée uniforme / Sierra Nevada || Uniform valley / Sierra Nevada
+E: Napa: sud fresco (baia), nord caldo (Calistoga); pendii sopra la nebbia. || Napa : sud frais (baie), nord chaud (Calistoga) ; pentes au-dessus du brouillard. || Napa: cool south (bay), warm north (Calistoga); slopes above the fog.
+DI: In Napa le nebbie e le brezze della baia di San Pablo rinfrescano il sud (Carneros); andando verso nord (Calistoga) fa più caldo. I vigneti in quota sui pendii sono sopra la linea della nebbia e hanno condizioni diverse dal fondovalle.
+DF: À Napa, les brouillards et brises de la baie de San Pablo rafraîchissent le sud (Carneros) ; vers le nord (Calistoga), il fait plus chaud. Les vignes d'altitude sur les pentes sont au-dessus du brouillard et ont des conditions différentes du fond de vallée.
+DE: In Napa, fog and breezes from San Pablo Bay cool the south (Carneros); it gets warmer towards the north (Calistoga). Hillside vineyards sit above the fog line, with different conditions from the valley floor.
+
+#usa p149 b x
+Q: Quale di queste affermazioni sull'Oregon è vera? || Laquelle de ces affirmations sur l'Oregon est vraie ? || Which statement about Oregon is true?
+A: La Willamette Valley è nota per Pinot Noir e Pinot Gris || La Willamette Valley est réputée pour le pinot noir et le pinot gris || Willamette Valley is known for Pinot Noir and Pinot Gris
+B: L'Oregon è più caldo e secco della Columbia Valley || L'Oregon est plus chaud et sec que la Columbia Valley || Oregon is hotter and drier than Columbia Valley
+C: La Willamette è a est delle Cascade, in ombra pluviometrica || La Willamette est à l'est des Cascades, dans l'ombre pluviométrique || Willamette is east of the Cascades, in the rain shadow
+D: Lo Zinfandel è la specialità della Willamette || Le zinfandel est la spécialité de la Willamette || Zinfandel is Willamette's speciality
+E: Willamette: ovest delle Cascade, fresca e piovosa, Pinot Noir e Pinot Gris. || Willamette : ouest des Cascades, fraîche et pluvieuse, pinot noir et pinot gris. || Willamette: west of the Cascades, cool and wet, Pinot Noir and Pinot Gris.
+DI: La Willamette Valley è a ovest delle Cascade: clima moderato, piovoso, con rischio di pioggia in vendemmia. È famosa per Pinot Noir e Pinot Gris (e Chardonnay). La Columbia Valley, a est delle Cascade, è molto più secca e calda.
+DF: La Willamette Valley est à l'ouest des Cascades : climat modéré, pluvieux, avec un risque de pluie aux vendanges. Elle est réputée pour le pinot noir et le pinot gris (et le chardonnay). La Columbia Valley, à l'est des Cascades, est bien plus sèche et chaude.
+DE: Willamette Valley lies west of the Cascades: a moderate, wet climate with risk of harvest rain. It is famous for Pinot Noir and Pinot Gris (and Chardonnay). Columbia Valley, east of the Cascades, is much drier and warmer.
+
+#usa p150 b x
+Q: Canada: regione / specialità || Canada : région / spécialité || Canada: region / speciality
+A: Niagara Peninsula / Icewine da Vidal e Riesling || Niagara Peninsula / icewine de vidal et riesling || Niagara Peninsula / Icewine from Vidal and Riesling
+B: Okanagan Valley / Icewine da Pinot Noir in clima marittimo || Okanagan Valley / icewine de pinot noir en climat maritime || Okanagan Valley / Pinot Noir Icewine in a maritime climate
+C: Niagara Peninsula / Zinfandel da vecchie viti || Niagara Peninsula / zinfandel de vieilles vignes || Niagara Peninsula / old-vine Zinfandel
+D: Ontario / Carmenère || Ontario / carmenère || Ontario / Carmenère
+E: Ontario (Niagara): Icewine (Vidal, Riesling), il lago modera il clima; BC: Okanagan secco. || Ontario (Niagara) : icewine (vidal, riesling), le lac modère le climat ; BC : Okanagan sec. || Ontario (Niagara): Icewine (Vidal, Riesling), lake moderates climate; BC: dry Okanagan.
+DI: La Niagara Peninsula, in Ontario, è famosa per l'Icewine da Vidal e Riesling: il lago Ontario modera il clima e gli inverni freddi permettono di raccogliere le uve gelate. L'Okanagan (British Columbia) è una valle interna secca, non marittima.
+DF: La Niagara Peninsula, en Ontario, est célèbre pour l'icewine de vidal et de riesling : le lac Ontario modère le climat et les hivers froids permettent de vendanger les raisins gelés. L'Okanagan (Colombie-Britannique) est une vallée intérieure sèche, pas maritime.
+DE: Niagara Peninsula in Ontario is famous for Vidal and Riesling Icewine: Lake Ontario moderates the climate and cold winters allow frozen grapes to be picked. Okanagan (British Columbia) is a dry inland valley, not maritime.
+
+#chi p153 b x
+Q: Quali fattori rinfrescano i vigneti cileni? 1. La corrente di Humboldt 2. L'aria fredda che scende dalle Ande 3. L'altitudine || Quels facteurs rafraîchissent les vignobles chiliens ? 1. Le courant de Humboldt 2. L'air froid descendant des Andes 3. L'altitude || Which factors cool Chilean vineyards? 1. The Humboldt Current 2. Cold air descending from the Andes 3. Altitude
+A: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+B: Solo 1 || 1 uniquement || 1 only
+C: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+D: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+E: Cile: Humboldt (nebbie e brezze sulla costa), aria fredda andina di notte, altitudine. || Chili : Humboldt (brumes et brises côtières), air froid andin la nuit, altitude. || Chile: Humboldt (coastal fog and breezes), cold Andean air at night, altitude.
+DI: In Cile la fredda corrente di Humboldt rinfresca la costa con nebbie e brezze; di notte l'aria fredda scende dalle Ande nelle valli; i vigneti in quota ai piedi delle Ande sono più freschi. Tutti e tre i fattori contano.
+DF: Au Chili, le courant froid de Humboldt rafraîchit la côte par des brumes et des brises ; la nuit, l'air froid descend des Andes dans les vallées ; les vignes d'altitude au pied des Andes sont plus fraîches. Les trois facteurs comptent.
+DE: In Chile the cold Humboldt Current cools the coast with fog and breezes; at night cold air drains from the Andes into the valleys; higher vineyards in the Andean foothills are cooler. All three matter.
+
+#chi p156 b x
+Q: Quale di queste affermazioni sull'Argentina è vera? || Laquelle de ces affirmations sur l'Argentine est vraie ? || Which statement about Argentina is true?
+A: Salta ha alcuni dei vigneti più alti del mondo || Salta possède certains des vignobles les plus hauts du monde || Salta has some of the world's highest vineyards
+B: Mendoza è rinfrescata dall'Oceano Pacifico || Mendoza est rafraîchie par l'océan Pacifique || Mendoza is cooled by the Pacific Ocean
+C: Il Torrontés è un'uva nera di Patagonia || Le torrontés est un cépage noir de Patagonie || Torrontés is a black grape from Patagonia
+D: La Patagonia è la zona più calda del paese || La Patagonie est la zone la plus chaude du pays || Patagonia is the country's hottest area
+E: Argentina: altitudine = freschezza (Salta, Cafayate oltre 1.700 m); Torrontés bianco; Patagonia più fresca. || Argentine : altitude = fraîcheur (Salta, Cafayate au-delà de 1 700 m) ; torrontés blanc ; Patagonie plus fraîche. || Argentina: altitude = freshness (Salta, Cafayate above 1,700 m); Torrontés white; Patagonia cooler.
+DI: In Argentina la latitudine dà un clima caldo e l'altitudine è il principale fattore rinfrescante: a Salta (Cafayate) i vigneti superano i 1.700 m. Le Ande bloccano l'influenza del Pacifico; il Torrontés è un'uva bianca aromatica; la Patagonia, più a sud, è più fresca.
+DF: En Argentine, la latitude donne un climat chaud et l'altitude est le principal facteur rafraîchissant : à Salta (Cafayate), les vignes dépassent 1 700 m. Les Andes bloquent l'influence du Pacifique ; le torrontés est un cépage blanc aromatique ; la Patagonie, plus au sud, est plus fraîche.
+DE: In Argentina latitude makes the climate hot and altitude is the main cooling factor: in Salta (Cafayate) vineyards exceed 1,700 m. The Andes block Pacific influence; Torrontés is an aromatic white grape; Patagonia, further south, is cooler.
+
+#rsa p163 b x
+Q: Sudafrica: distretto / specialità || Afrique du Sud : district / spécialité || South Africa: district / speciality
+A: Stellenbosch / Cabernet Sauvignon e tagli bordolesi || Stellenbosch / cabernet sauvignon et assemblages bordelais || Stellenbosch / Cabernet Sauvignon and Bordeaux blends
+B: Walker Bay / Icewine || Walker Bay / icewine || Walker Bay / Icewine
+C: Robertson / Pinot Noir da clima freddo || Robertson / pinot noir de climat frais || Robertson / cool-climate Pinot Noir
+D: Constantia / Porto da Touriga || Constantia / porto de touriga || Constantia / Touriga Port
+E: Stellenbosch: Cabernet e tagli; Walker Bay: Pinot Noir e Chardonnay; Constantia: Sauvignon e Vin de Constance. || Stellenbosch : cabernet et assemblages ; Walker Bay : pinot noir et chardonnay ; Constantia : sauvignon et Vin de Constance. || Stellenbosch: Cabernet and blends; Walker Bay: Pinot Noir and Chardonnay; Constantia: Sauvignon and Vin de Constance.
+DI: Stellenbosch è il distretto più famoso per Cabernet Sauvignon e tagli bordolesi, oltre a Pinotage e Chenin. Walker Bay (Hemel-en-Aarde) è nota per Pinot Noir e Chardonnay, Constantia per Sauvignon Blanc e il dolce Vin de Constance; Robertson, caldo e interno, per Chardonnay e vini di volume.
+DF: Stellenbosch est le district le plus réputé pour le cabernet sauvignon et les assemblages bordelais, ainsi que le pinotage et le chenin. Walker Bay (Hemel-en-Aarde) est connue pour le pinot noir et le chardonnay, Constantia pour le sauvignon blanc et le Vin de Constance doux ; Robertson, chaud et intérieur, pour le chardonnay et les vins de volume.
+DE: Stellenbosch is the best-known district for Cabernet Sauvignon and Bordeaux blends, plus Pinotage and Chenin. Walker Bay (Hemel-en-Aarde) is known for Pinot Noir and Chardonnay, Constantia for Sauvignon Blanc and sweet Vin de Constance, and warm inland Robertson for Chardonnay and volume wines.
+
+#aus p165 b x
+Q: Quale di queste affermazioni sull'Australia è vera? || Laquelle de ces affirmations sur l'Australie est vraie ? || Which statement about Australia is true?
+A: South Eastern Australia è una GI multi-stato per vini di volume || South Eastern Australia est une IG multi-États pour vins de volume || South Eastern Australia is a multi-state GI for volume wines
+B: Coonawarra è famosa per il suolo terra rossa e lo Shiraz di climi caldi || Coonawarra est célèbre pour la terra rossa et la shiraz de climat chaud || Coonawarra is famous for terra rossa and hot-climate Shiraz
+C: Margaret River è nel Victoria || Margaret River est dans le Victoria || Margaret River is in Victoria
+D: Hunter Valley è la regione più fresca del paese || La Hunter Valley est la région la plus fraîche du pays || Hunter Valley is the country's coolest region
+E: SE Australia: GI enorme (Riverland, Murray-Darling, Riverina). Coonawarra: terra rossa, Cabernet. || SE Australia : IG immense (Riverland, Murray-Darling, Riverina). Coonawarra : terra rossa, cabernet. || SE Australia: huge GI (Riverland, Murray-Darling, Riverina). Coonawarra: terra rossa, Cabernet.
+DI: South Eastern Australia copre quasi tutti i vigneti del sud-est e permette tagli tra regioni per i vini di volume. Coonawarra è nota per la terra rossa e il Cabernet Sauvignon con note di menta; Margaret River è in Western Australia; la Hunter Valley è calda e umida.
+DF: South Eastern Australia couvre presque tous les vignobles du sud-est et permet des assemblages interrégionaux pour les vins de volume. Coonawarra est réputée pour la terra rossa et le cabernet sauvignon mentholé ; Margaret River est en Australie-Occidentale ; la Hunter Valley est chaude et humide.
+DE: South Eastern Australia covers almost all south-eastern vineyards and allows cross-regional blends for volume wines. Coonawarra is known for terra rossa and minty Cabernet Sauvignon; Margaret River is in Western Australia; the Hunter Valley is hot and humid.
+
+#aus p172 b x
+Q: Nuova Zelanda: regione / caratteristica || Nouvelle-Zélande : région / caractéristique || New Zealand: region / feature
+A: Central Otago / la più meridionale, continentale, Pinot Noir || Central Otago / la plus australe, continentale, pinot noir || Central Otago / most southerly, continental, Pinot Noir
+B: Marlborough / caldo e umido, tagli bordolesi || Marlborough / chaud et humide, assemblages bordelais || Marlborough / warm and humid, Bordeaux blends
+C: Hawke's Bay / Sauvignon Blanc da Awatere || Hawke's Bay / sauvignon blanc de l'Awatere || Hawke's Bay / Awatere Sauvignon Blanc
+D: Gisborne / Pinot Noir di montagna || Gisborne / pinot noir de montagne || Gisborne / mountain Pinot Noir
+E: Central Otago: interno, montagne, continentale, Pinot Noir. Marlborough: Sauvignon. Hawke's Bay: bordolesi e Syrah. || Central Otago : intérieur, montagnes, continental, pinot noir. Marlborough : sauvignon. Hawke's Bay : bordelais et syrah. || Central Otago: inland, mountains, continental, Pinot Noir. Marlborough: Sauvignon. Hawke's Bay: Bordeaux blends and Syrah.
+DI: Central Otago è la regione più a sud, interna e montagnosa, con clima continentale: è famosa per il Pinot Noir. Marlborough è la patria del Sauvignon Blanc (Wairau, Awatere); Hawke's Bay dei tagli bordolesi e della Syrah; Gisborne è soprattutto Chardonnay.
+DF: Central Otago est la région la plus australe, intérieure et montagneuse, au climat continental : elle est célèbre pour le pinot noir. Marlborough est la patrie du sauvignon blanc (Wairau, Awatere) ; Hawke's Bay celle des assemblages bordelais et de la syrah ; Gisborne fait surtout du chardonnay.
+DE: Central Otago is the most southerly region, inland and mountainous with a continental climate, famous for Pinot Noir. Marlborough is home to Sauvignon Blanc (Wairau, Awatere); Hawke's Bay to Bordeaux blends and Syrah; Gisborne is mainly Chardonnay.
+
+#spu p175 b x
+Q: Champagne: uva / caratteristica || Champagne : cépage / caractéristique || Champagne: grape / contribution
+A: Meunier / frutto precoce, resiste meglio alle gelate || Meunier / fruit précoce, résiste mieux au gel || Meunier / early fruitiness, more frost-resistant
+B: Chardonnay / corpo e frutti rossi || Chardonnay / corps et fruits rouges || Chardonnay / body and red fruit
+C: Pinot Noir / acidità e agrumi, vigneti della Côte des Blancs || Pinot noir / acidité et agrumes, Côte des Blancs || Pinot Noir / acidity and citrus, Côte des Blancs
+D: Meunier / longevità e finezza, Montagne de Reims || Meunier / longévité et finesse, Montagne de Reims || Meunier / longevity and finesse, Montagne de Reims
+E: Chardonnay: agrumi, finezza (Côte des Blancs); Pinot Noir: corpo, frutti rossi (Montagne); Meunier: frutto, gelate (Marne). || Chardonnay : agrumes, finesse (Côte des Blancs) ; pinot noir : corps, fruits rouges (Montagne) ; meunier : fruit, gel (Marne). || Chardonnay: citrus, finesse (Côte des Blancs); Pinot Noir: body, red fruit (Montagne); Meunier: fruit, frost (Marne).
+DI: Il Meunier germoglia tardi e resiste meglio alle gelate (Vallée de la Marne), dando vini fruttati che maturano presto. Il Pinot Noir dà corpo e frutti rossi (Montagne de Reims); lo Chardonnay agrumi, acidità e longevità (Côte des Blancs).
+DF: Le meunier débourre tard et résiste mieux au gel (Vallée de la Marne), donnant des vins fruités qui évoluent vite. Le pinot noir apporte corps et fruits rouges (Montagne de Reims) ; le chardonnay agrumes, acidité et longévité (Côte des Blancs).
+DE: Meunier buds late and is more frost-resistant (Vallée de la Marne), giving fruity wines that develop early. Pinot Noir gives body and red fruit (Montagne de Reims); Chardonnay citrus, acidity and longevity (Côte des Blancs).
+
+#spu p179 b x
+Q: Metodo / esempio: quale coppia è corretta? || Méthode / exemple : quelle paire est correcte ? || Method / example: which pairing is correct?
+A: Charmat (autoclave) / Prosecco || Cuve close / Prosecco || Tank method / Prosecco
+B: Tradizionale / Asti || Traditionnelle / Asti || Traditional / Asti
+C: Charmat / Champagne || Cuve close / Champagne || Tank method / Champagne
+D: Metodo Asti / Cava || Méthode Asti / Cava || Asti method / Cava
+E: Prosecco = Charmat; Champagne, Cava, Crémant = tradizionale; Asti = metodo Asti. || Prosecco = cuve close ; Champagne, Cava, Crémant = traditionnelle ; Asti = méthode Asti. || Prosecco = tank; Champagne, Cava, Crémant = traditional; Asti = Asti method.
+DI: Il Prosecco usa il metodo Charmat (seconda fermentazione in autoclave) per conservare il frutto primario. Champagne, Cava e Crémant usano il metodo tradizionale; l'Asti ha una sola fermentazione in autoclave fermata col freddo (metodo Asti).
+DF: Le Prosecco utilise la cuve close (seconde fermentation en cuve) pour garder le fruit primaire. Champagne, Cava et Crémant suivent la méthode traditionnelle ; l'Asti a une seule fermentation en cuve arrêtée par le froid (méthode Asti).
+DE: Prosecco uses the tank method (second fermentation in a sealed tank) to keep primary fruit. Champagne, Cava and Crémant use the traditional method; Asti has a single tank fermentation stopped by chilling (Asti method).
+
+#spu p181 b x
+Q: Quale di queste affermazioni sul Cava è vera? || Laquelle de ces affirmations sur le Cava est vraie ? || Which statement about Cava is true?
+A: Si fa col metodo tradizionale, soprattutto in Penedès || Il est élaboré selon la méthode traditionnelle, surtout dans le Penedès || It is traditional-method, made mostly in Penedès
+B: Si fa col metodo Charmat in Rioja || Il est élaboré en cuve close dans la Rioja || It is tank-method, made in Rioja
+C: Le uve principali sono Albariño e Verdejo || Les cépages principaux sont albariño et verdejo || The main grapes are Albariño and Verdejo
+D: Non può mai contenere Chardonnay || Il ne peut jamais contenir de chardonnay || It can never contain Chardonnay
+E: Cava: metodo tradizionale, Penedès (Sant Sadurní), Macabeo, Xarel·lo, Parellada (+ Chardonnay). || Cava : méthode traditionnelle, Penedès (Sant Sadurní), macabeo, xarel·lo, parellada (+ chardonnay). || Cava: traditional method, Penedès (Sant Sadurní), Macabeo, Xarel·lo, Parellada (+ Chardonnay).
+DI: Il Cava è uno spumante metodo tradizionale prodotto soprattutto in Penedès, intorno a Sant Sadurní d'Anoia. Le uve tradizionali sono Macabeo, Xarel·lo e Parellada; sono ammessi anche Chardonnay e Pinot Noir.
+DF: Le Cava est un effervescent de méthode traditionnelle produit surtout dans le Penedès, autour de Sant Sadurní d'Anoia. Les cépages traditionnels sont macabeo, xarel·lo et parellada ; chardonnay et pinot noir sont aussi autorisés.
+DE: Cava is a traditional-method sparkling wine made mainly in Penedès around Sant Sadurní d'Anoia. The traditional grapes are Macabeo, Xarel·lo and Parellada; Chardonnay and Pinot Noir are also permitted.
+
+#she p187 b x
+Q: Stile di Sherry / tipo di affinamento || Style de xérès / type de vieillissement || Sherry style / type of ageing
+A: Amontillado / prima biologico poi ossidativo || Amontillado / d'abord biologique puis oxydatif || Amontillado / biological then oxidative
+B: Fino / solo ossidativo || Fino / seulement oxydatif || Fino / oxidative only
+C: Oloroso / solo biologico sotto flor || Oloroso / seulement biologique sous voile || Oloroso / biological only under flor
+D: Manzanilla / ossidativo a 17% vol. || Manzanilla / oxydatif à 17 % vol. || Manzanilla / oxidative at 17% abv
+E: Fino/Manzanilla: biologico; Oloroso: ossidativo; Amontillado: entrambi in sequenza. || Fino/Manzanilla : biologique ; Oloroso : oxydatif ; Amontillado : les deux successivement. || Fino/Manzanilla: biological; Oloroso: oxidative; Amontillado: both in sequence.
+DI: Fino e Manzanilla invecchiano solo sotto flor (biologico); l'Oloroso, fortificato a 17%, solo in modo ossidativo; l'Amontillado inizia come Fino e, quando il flor muore o viene rifortificato, prosegue in modo ossidativo.
+DF: Fino et manzanilla vieillissent seulement sous voile (biologique) ; l'oloroso, muté à 17 %, uniquement de façon oxydative ; l'amontillado commence comme un fino puis, quand le voile meurt ou après remutage, poursuit en oxydatif.
+DE: Fino and Manzanilla age only under flor (biological); Oloroso, fortified to 17%, only oxidatively; Amontillado starts as a Fino and, once the flor dies or it is refortified, continues oxidatively.
+
+#prt p193 b x
+Q: Quali di questi Porto sono affinati principalmente in bottiglia? 1. Vintage Port 2. Tawny 20 anni 3. Single Quinta Vintage || Lesquels de ces portos vieillissent principalement en bouteille ? 1. Vintage Port 2. Tawny 20 ans 3. Single Quinta Vintage || Which of these Ports age mainly in bottle? 1. Vintage Port 2. 20-year-old Tawny 3. Single Quinta Vintage
+A: Solo 1 e 3 || 1 et 3 uniquement || 1 and 3 only
+B: Solo 1 e 2 || 1 et 2 uniquement || 1 and 2 only
+C: Solo 2 e 3 || 2 et 3 uniquement || 2 and 3 only
+D: 1, 2 e 3 || 1, 2 et 3 || 1, 2 and 3
+E: Vintage e Single Quinta: 2 anni in legno, poi decenni in bottiglia (deposito, decantare). Tawny: legno. || Vintage et Single Quinta : 2 ans en bois, puis des décennies en bouteille (dépôt, carafer). Tawny : bois. || Vintage and Single Quinta: 2 years in wood, then decades in bottle (sediment, decant). Tawny: wood.
+DI: Vintage Port e Single Quinta Vintage restano circa due anni in legno e poi evolvono a lungo in bottiglia, formando deposito: vanno decantati. I Tawny con indicazione d'età invecchiano invece in piccole botti, in modo ossidativo.
+DF: Le Vintage Port et le Single Quinta Vintage restent environ deux ans en bois puis évoluent longtemps en bouteille, en formant un dépôt : il faut les carafer. Les tawnies avec mention d'âge vieillissent au contraire en petits fûts, de façon oxydative.
+DE: Vintage Port and Single Quinta Vintage spend about two years in wood and then develop for a long time in bottle, throwing a deposit, so they need decanting. Age-indicated Tawnies age oxidatively in small casks.
+
+#prt p194 b x
+Q: Madeira: caratteristica / motivo || Madère : caractéristique / raison || Madeira: feature / reason
+A: Molto stabile dopo l'apertura / già ossidato e riscaldato in produzione || Très stable après ouverture / déjà oxydé et chauffé à l'élaboration || Very stable once opened / already oxidised and heated in production
+B: Va bevuto entro due giorni / come un Fino || Doit être bu en deux jours / comme un fino || Must be drunk within two days / like a Fino
+C: Sempre secco / fermentato senza fortificazione || Toujours sec / fermenté sans mutage || Always dry / fermented without fortification
+D: Colore rubino / affinato sotto flor || Couleur rubis / élevé sous voile || Ruby colour / aged under flor
+E: Madeira: riscaldato (estufagem o canteiro) e ossidato → quasi indistruttibile, acidità alta. || Madère : chauffé (estufagem ou canteiro) et oxydé → quasi indestructible, acidité élevée. || Madeira: heated (estufagem or canteiro) and oxidised → near-indestructible, high acidity.
+DI: Il Madeira è riscaldato (estufagem in vasca o canteiro nei sottotetti) e affinato in modo ossidativo: per questo, con la sua acidità alta, resiste a lungo anche dopo l'apertura. Gli stili vanno dal secco (Sercial) al dolce (Malmsey).
+DF: Le madère est chauffé (estufagem en cuve ou canteiro sous les toits) et élevé de façon oxydative : c'est pourquoi, avec son acidité élevée, il résiste longtemps même après ouverture. Les styles vont du sec (Sercial) au doux (Malmsey).
+DE: Madeira is heated (estufagem in tanks or canteiro in lofts) and aged oxidatively, so with its high acidity it lasts a long time even once opened. Styles range from dry (Sercial) to sweet (Malmsey).
+
+#gre p118 b x
+Q: Grecia: denominazione / vitigno || Grèce : appellation / cépage || Greece: appellation / grape
+A: Naoussa / Xinomavro || Naoussa / xinomavro || Naoussa / Xinomavro
+B: Nemea / Assyrtiko || Nemea / assyrtiko || Nemea / Assyrtiko
+C: Santorini / Agiorgitiko || Santorin / agiorgitiko || Santorini / Agiorgitiko
+D: Naoussa / Agiorgitiko || Naoussa / agiorgitiko || Naoussa / Agiorgitiko
+E: Naoussa = Xinomavro; Nemea = Agiorgitiko; Santorini = Assyrtiko. || Naoussa = xinomavro ; Nemea = agiorgitiko ; Santorin = assyrtiko. || Naoussa = Xinomavro; Nemea = Agiorgitiko; Santorini = Assyrtiko.
+DI: Naoussa (Macedonia) produce rossi da Xinomavro, Nemea (Peloponneso) da Agiorgitiko e Santorini bianchi da Assyrtiko.
+DF: Naoussa (Macédoine) produit des rouges de xinomavro, Nemea (Péloponnèse) d'agiorgitiko et Santorin des blancs d'assyrtiko.
+DE: Naoussa (Macedonia) makes Xinomavro reds, Nemea (Peloponnese) Agiorgitiko reds and Santorini Assyrtiko whites.
+
+#sfr p105 b x
+Q: Quale di queste affermazioni sul Sud della Francia è vera? || Laquelle de ces affirmations sur le Sud de la France est vraie ? || Which statement about Southern France is true?
+A: L'IGP Pays d'Oc permette vini varietali da molte uve || L'IGP Pays d'Oc permet des vins de cépage à partir de nombreux cépages || IGP Pays d'Oc allows varietal wines from many grapes
+B: Il Languedoc ha un clima marittimo fresco e piovoso || Le Languedoc a un climat maritime frais et pluvieux || Languedoc has a cool, wet maritime climate
+C: La Provenza produce soprattutto rossi dolci || La Provence produit surtout des rouges doux || Provence mainly makes sweet reds
+D: Il Carignan è vietato nel Languedoc || Le carignan est interdit en Languedoc || Carignan is banned in Languedoc
+E: Pays d'Oc: IGP varietale flessibile; Languedoc mediterraneo; Provenza = rosato. || Pays d'Oc : IGP de cépage souple ; Languedoc méditerranéen ; Provence = rosé. || Pays d'Oc: flexible varietal IGP; Languedoc Mediterranean; Provence = rosé.
+DI: L'IGP Pays d'Oc copre gran parte del Languedoc-Roussillon e permette vini varietali da uve internazionali e locali, con regole flessibili. Il clima è mediterraneo, caldo e secco; la Provenza è famosa per il rosato; il Carignan è molto diffuso (Corbières, Fitou).
+DF: L'IGP Pays d'Oc couvre une grande partie du Languedoc-Roussillon et permet des vins de cépage, internationaux ou locaux, avec des règles souples. Le climat est méditerranéen, chaud et sec ; la Provence est célèbre pour le rosé ; le carignan est très répandu (Corbières, Fitou).
+DE: IGP Pays d'Oc covers much of Languedoc-Roussillon and allows varietal wines from international and local grapes under flexible rules. The climate is hot, dry and Mediterranean; Provence is famous for rosé; Carignan is widespread (Corbières, Fitou).

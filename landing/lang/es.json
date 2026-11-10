@@ -1,0 +1,942 @@
+{
+ "code": "es",
+ "name": "Español",
+ "locale": "es_ES",
+ "hreflang": [
+  "es",
+  "es-ES",
+  "es-MX",
+  "es-AR",
+  "es-CO",
+  "es-CL",
+  "es-PE",
+  "es-UY",
+  "es-US",
+  "es-419"
+ ],
+ "title": "Preparación examen WSET Nivel 3 | Test, preguntas abiertas y simulacros – The Wine Goat",
+ "desc": "Prepara el examen WSET Nivel 3 (Award in Wines) en español: más de 2.000 preguntas tipo test, 101 preguntas de respuesta corta corregidas, cata con el método SAT, simulacros de examen y trampas. Prueba gratis. App personalizada con plan de estudio y puntos débiles.",
+ "keywords": "WSET 3, WSET nivel 3, preparación WSET 3, examen WSET 3, test WSET 3, preguntas WSET 3, simulacro examen WSET 3, WSET Level 3 Award in Wines, preguntas de respuesta corta WSET, cata WSET 3, SAT WSET, cómo aprobar el WSET 3, WSET 3 en español, WSET 2, WSET 1",
+ "ogtitle": "Aprueba el WSET 3 a la primera – The Wine Goat",
+ "ogdesc": "Test, preguntas abiertas corregidas, cata y trampas de examen: la preparación del WSET Nivel 3 en español. Prueba gratis.",
+ "skip": "Ir al contenido",
+ "nav": {
+  "levels": "Niveles",
+  "trial": "Prueba gratis",
+  "exam": "El examen",
+  "program": "Temario",
+  "pricing": "Módulos y precios",
+  "faq": "Preguntas frecuentes",
+  "login": "Abrir la app",
+  "cta": "Empieza gratis",
+  "menu": "Menú",
+  "lang": "Idioma"
+ },
+ "hero": {
+  "kicker": "Preparación del examen WSET® Nivel 3 · Award in Wines",
+  "h1": "Aprueba el examen WSET 3 a la primera",
+  "lead": "Test WSET 3, preguntas de respuesta corta con corrección inmediata, cata con el método SAT, simulacros de examen y todas las trampas que debes evitar. Estés donde estés. Una app personalizada: te crea el plan de estudio hasta el examen, te dice qué hacer cada día y te ayuda a cubrir tus carencias.",
+  "cta1": "Juega ya, es gratis",
+  "cta2": "Ver los módulos",
+  "bullets": [
+   "Burdeos gratis, completo",
+   "Pagas solo los módulos que necesitas",
+   "Sin suscripción"
+  ],
+  "stats": [
+   [
+    "2.000+",
+    "preguntas tipo test"
+   ],
+   [
+    "101",
+    "preguntas de respuesta corta"
+   ],
+   [
+    "28",
+    "temas y regiones del temario"
+   ]
+  ],
+  "img_alt": "La cabra de The Wine Goat con capa burdeos levanta una copa de vino tinto junto a un racimo de uvas"
+ },
+ "levels": {
+  "h2": "Preparación WSET Nivel 1, 2 y 3",
+  "intro": "Una sola plataforma para todo el recorrido WSET Wines: empieza en el nivel que necesitas y sigue con el mismo método.",
+  "cards": [
+   [
+    "WSET Nivel 3",
+    "Disponible",
+    "El nivel avanzado: teoría completa, preguntas de respuesta corta, cata a ciegas con el SAT y simulacros de examen.",
+    "Empezar el Nivel 3"
+   ],
+   [
+    "WSET Nivel 2",
+    "Próximamente",
+    "Las principales uvas y regiones del mundo, etiquetas y maridajes: test y repaso para el examen tipo test.",
+    "Avísame"
+   ],
+   [
+    "WSET Nivel 1",
+    "Próximamente",
+    "Lo básico del vino: estilos, servicio y maridaje, con test cortos para llegar seguro al examen.",
+    "Avísame"
+   ]
+  ]
+ },
+ "feat": {
+  "h2": "Todo lo que necesitas para aprobar el examen WSET 3, en cada módulo",
+  "intro": "Cada módulo incluye todas las herramientas de la app para esa parte del temario.",
+  "items": [
+   [
+    "Una app personalizada que te guía",
+    "La app te crea un plan día a día hasta el examen, según tu objetivo (Pass, Merit o Distinction), la fecha del examen, tus días de clase y el tiempo que tienes. Te da consejos, detecta tus puntos débiles y te hace repasar justo esos."
+   ],
+   [
+    "Más de 2.000 test WSET 3",
+    "Preguntas tipo test sobre viticultura, vinificación, regiones, espumosos y generosos, con la explicación de cada respuesta."
+   ],
+   [
+    "Preguntas de respuesta corta corregidas",
+    "Escribe tu respuesta y recibe al momento la corrección punto por punto, según los puntos clave del libro: qué has acertado, qué falta y cuántos puntos habrías obtenido."
+   ],
+   [
+    "Apuntes: fotos y clases",
+    "Fotografía las páginas de tus apuntes y encuéntralas en la app junto a tu texto, o transcribe la clase mientras habla el profesor."
+   ],
+   [
+    "La respuesta perfecta",
+    "Para cada pregunta abierta ves la respuesta modelo que obtiene la puntuación máxima, para aprender lo que busca el examinador."
+   ],
+   [
+    "Cata con el método SAT",
+    "Aspecto, nariz, boca y conclusiones: entrénate para describir el vino con el vocabulario adecuado y justificar calidad y potencial."
+   ],
+   [
+    "Lógica de examen y trampas",
+    "La cadena clima → uva → vino, las palabras que hacen perder puntos y las preguntas trampa que vuelven cada año."
+   ],
+   [
+    "Repaso de errores",
+    "Cada respuesta incorrecta vuelve hasta que te la sabes: el contador de errores baja a medida que los corriges."
+   ],
+   [
+    "Juegos, mapas y sinónimos",
+    "Emparejamientos, nombres locales de las uvas, mapas de las regiones y pódcasts para repasar también en el metro."
+   ]
+  ]
+ },
+ "trial": {
+  "h2": "Prueba gratis: preguntas de examen WSET 3",
+  "intro": "Seis preguntas reales de nuestro banco, con la explicación después de cada respuesta. Sin registro.",
+  "q": "Pregunta",
+  "check": "Confirmar",
+  "next": "Siguiente pregunta",
+  "finish": "Ver el resultado",
+  "ok": "¡Correcto!",
+  "ko": "No exactamente.",
+  "score": "Respuestas correctas: {n} de {t}.",
+  "restart": "Volver a empezar",
+  "after_h": "¿Te ha gustado?",
+  "after_p": "En la app, el módulo de Burdeos es gratis y completo: test, preguntas abiertas con corrección y repaso de tus errores.",
+  "after_cta": "Abrir la app gratis",
+  "open_h": "Y una pregunta de respuesta corta",
+  "open_intro": "En el examen WSET 3, las preguntas abiertas valen la mitad de la teoría. Responde mentalmente y luego mira los elementos que dan puntos.",
+  "open_btn": "Mostrar los elementos que hay que citar",
+  "open_hide": "Ocultar",
+  "open_marks": "puntos"
+ },
+ "exam": {
+  "h2": "Cómo es el examen WSET Nivel 3",
+  "intro": "Saber cómo te evalúan es la mitad de la preparación. El examen WSET Level 3 Award in Wines tiene dos partes y hay que aprobar las dos.",
+  "cards": [
+   [
+    "Teoría: 50 preguntas tipo test",
+    "Cubren todo el temario, desde las condiciones del viñedo hasta las regiones del mundo. Hacen falta rapidez y precisión."
+   ],
+   [
+    "Teoría: 4 preguntas de respuesta corta",
+    "Preguntas escritas divididas en apartados: lo que cuenta es relacionar causa y efecto, no enumerar palabras clave."
+   ],
+   [
+    "Cata a ciegas de 2 vinos",
+    "Una nota de cata completa con el enfoque sistemático (SAT): descripción precisa y conclusiones razonadas."
+   ],
+   [
+    "Nota mínima: 55 %",
+    "Hay que alcanzar el 55 % en la cata y en cada una de las dos secciones de la teoría. Los resultados posibles son Pass, Merit y Distinction."
+   ]
+  ],
+  "tip": "Consejo The Wine Goat: las preguntas de respuesta corta son donde más puntos se pierden. Practícalas por escrito desde la primera semana."
+ },
+ "prog": {
+  "h2": "Temario WSET 3: todos los temas que repasas",
+  "intro": "Los test y las preguntas abiertas siguen el temario del examen WSET Nivel 3, tema por tema y región por región.",
+  "groups": [
+   [
+    "Fundamentos",
+    [
+     [
+      "deg",
+      "Cata y SAT"
+     ],
+     [
+      "cib",
+      "Maridaje"
+     ],
+     [
+      "srv",
+      "Conservación y servicio"
+     ],
+     [
+      "prx",
+      "Precio y comercio del vino"
+     ]
+    ]
+   ],
+   [
+    "Viñedo",
+    [
+     [
+      "vig",
+      "La vid y las variedades"
+     ],
+     [
+      "env",
+      "Clima y entorno"
+     ],
+     [
+      "vgm",
+      "Gestión del viñedo y poda"
+     ]
+    ]
+   ],
+   [
+    "Bodega",
+    [
+     [
+      "vin",
+      "Vinificación y crianza"
+     ],
+     [
+      "wht",
+      "Vinos blancos"
+     ],
+     [
+      "red",
+      "Vinos tintos y rosados"
+     ]
+    ]
+   ],
+   [
+    "Francia",
+    [
+     [
+      "bdx",
+      "Burdeos"
+     ],
+     [
+      "bgn",
+      "Borgoña y Beaujolais"
+     ],
+     [
+      "als",
+      "Alsacia y Loira"
+     ],
+     [
+      "rho",
+      "Valle del Ródano"
+     ],
+     [
+      "sfr",
+      "Sur de Francia"
+     ]
+    ]
+   ],
+   [
+    "Europa",
+    [
+     [
+      "ita",
+      "Italia"
+     ],
+     [
+      "esp",
+      "España"
+     ],
+     [
+      "por",
+      "Portugal"
+     ],
+     [
+      "ger",
+      "Alemania"
+     ],
+     [
+      "aut",
+      "Austria y Hungría"
+     ],
+     [
+      "gre",
+      "Grecia"
+     ]
+    ]
+   ],
+   [
+    "Nuevo Mundo",
+    [
+     [
+      "usa",
+      "Estados Unidos y Canadá"
+     ],
+     [
+      "chi",
+      "Chile y Argentina"
+     ],
+     [
+      "rsa",
+      "Sudáfrica"
+     ],
+     [
+      "aus",
+      "Australia y Nueva Zelanda"
+     ]
+    ]
+   ],
+   [
+    "Vinos especiales",
+    [
+     [
+      "spu",
+      "Espumosos: Champagne, Prosecco, Cava"
+     ],
+     [
+      "she",
+      "Jerez"
+     ],
+     [
+      "prt",
+      "Oporto y generosos"
+     ]
+    ]
+   ]
+  ],
+  "qn": "test"
+ },
+ "method": {
+  "h2": "El método The Wine Goat en 4 pasos",
+  "steps": [
+   [
+    "Entrena cada día",
+    "Diez minutos de test al día valen más que un maratón antes del examen. Retoma siempre donde lo dejaste."
+   ],
+   [
+    "Escribe las respuestas",
+    "Las preguntas de respuesta corta se aprenden escribiendo. Recibe la corrección y compárala con la respuesta perfecta."
+   ],
+   [
+    "Repasa los errores",
+    "Las preguntas falladas vuelven hasta que te las sabes. El contador te muestra cuánto te falta."
+   ],
+   [
+    "Simula el examen",
+    "Pruebas completas cronometradas, en las mismas condiciones que el día del examen, para llegar sin sorpresas."
+   ]
+  ]
+ },
+ "why": {
+  "h2": "",
+  "head": [
+   "",
+   "",
+   ""
+  ],
+  "rows": []
+ },
+ "faq": {
+  "h2": "Preguntas frecuentes sobre la preparación del WSET 3",
+  "items": [
+   [
+    "¿The Wine Goat es la web oficial del WSET?",
+    "No. The Wine Goat es una plataforma independiente de preparación del examen. No está afiliada ni aprobada por el Wine & Spirit Education Trust: para inscribirte en el examen debes pasar por una escuela autorizada (Approved Programme Provider)."
+   ],
+   [
+    "¿Cómo funcionan los módulos?",
+    "Cada módulo cubre una parte del temario (por ejemplo «Europa» o «La bodega») con test, preguntas abiertas corregidas, juegos y material de repaso. Lo desbloqueas con un pago único y es tuyo durante 12 meses, sin renovaciones automáticas."
+   ],
+   [
+    "¿Qué puedo usar gratis?",
+    "Todo el módulo de Burdeos, completo, más algunos ejercicios de prueba de los demás módulos. No hace falta tarjeta."
+   ],
+   [
+    "¿Puedo usar The Wine Goat en lugar del curso WSET 3?",
+    "No, es un complemento. El curso y el material oficial te dan la base; The Wine Goat te entrena para recordarla y escribirla bien el día del examen."
+   ],
+   [
+    "¿En qué idiomas está?",
+    "En español, italiano, francés e inglés, y puedes cambiar de idioma cuando quieras: útil si vas a hacer el examen en inglés."
+   ],
+   [
+    "¿Cómo funciona la corrección de las preguntas de respuesta corta?",
+    "Escribe tu respuesta: la app la compara con los puntos clave del libro, señala los elementos acertados y los que faltan, estima la puntuación y te muestra la respuesta modelo. Todo ocurre en tu dispositivo, sin servicios externos."
+   ],
+   [
+    "¿Cuánto tiempo hace falta para preparar el WSET 3?",
+    "Depende de tu punto de partida, pero normalmente hacen falta unos meses de estudio regular además de las horas de curso. Los módulos son tuyos durante 12 meses, así que tienes tiempo incluso para una segunda convocatoria."
+   ],
+   [
+    "¿Cuántas preguntas tiene el examen WSET Nivel 3?",
+    "La teoría tiene 50 preguntas tipo test y 4 preguntas de respuesta corta; después está la cata a ciegas de dos vinos."
+   ],
+   [
+    "¿Cuál es la nota mínima para aprobar el WSET 3?",
+    "El 55 % en la cata y en cada una de las dos secciones de la teoría. Los resultados son Pass, Merit o Distinction."
+   ],
+   [
+    "¿Puedo entrenar también la cata?",
+    "Sí: tienes la guía del método SAT, el vocabulario de cada apartado y preguntas sobre calidad y potencial de guarda. Aun así, nada sustituye al vino en la copa."
+   ],
+   [
+    "¿Funciona en el móvil?",
+    "Sí, The Wine Goat funciona en el navegador del móvil, la tableta y el ordenador. El progreso se guarda en el dispositivo que usas."
+   ],
+   [
+    "¿Habrá también preparación WSET 1 y WSET 2?",
+    "Sí, el Nivel 2 y el Nivel 1 llegarán con el mismo método y la misma fórmula por módulos."
+   ]
+  ]
+ },
+ "final": {
+  "h2": "Tu examen WSET 3 empieza hoy",
+  "p": "Seis preguntas gratis, sin tarjeta: descubre ahora mismo en qué punto estás.",
+  "cta": "Prueba gratis"
+ },
+ "foot": {
+  "tag": "Preparación de los exámenes WSET de vinos en español, italiano, francés e inglés.",
+  "disc": "The Wine Goat es una plataforma independiente de preparación de exámenes. No está afiliada, aprobada ni patrocinada por el Wine & Spirit Education Trust. WSET® es una marca registrada del Wine & Spirit Education Trust, citada solo para indicar el examen que se prepara.",
+  "langs": "Idiomas",
+  "follow": "Síguenos",
+  "rights": "Todos los derechos reservados."
+ },
+ "notify": "Te avisaremos en cuanto esté disponible: síguenos en Instagram @the.winegoat.",
+ "quick": {
+  "kick": "Pregunta relámpago · Burdeos",
+  "more": "Más preguntas gratis",
+  "ok": "¡Correcto!",
+  "ko": "¡Casi!",
+  "next": "Otra"
+ },
+ "free": {
+  "tag": "Módulo gratuito",
+  "h": "Burdeos gratis: empieza a preparar el WSET 3 sin pagar",
+  "p": "Test, preguntas abiertas con corrección, mapas y juegos sobre Burdeos: todo el módulo está abierto, sin tarjeta. Prueba el método con una de las regiones más importantes del examen.",
+  "cta": "Empieza por Burdeos",
+  "n": "test sobre Burdeos"
+ },
+ "explore": {
+  "h2": "Prueba gratis: test y juegos WSET 3, aquí y ahora",
+  "intro": "Ejercicios reales, directamente en esta página. Elige uno y juega: en la app hay miles.",
+  "tabs": {
+   "quiz": "Test",
+   "match": "Emparejar",
+   "tf": "Verdadero o falso",
+   "flash": "Tarjetas",
+   "open": "Pregunta abierta",
+   "notes": "Apuntes",
+   "film": "Películas",
+   "pod": "Pódcast"
+  },
+  "from": "Forma parte del módulo",
+  "unlock": "Desbloquear el módulo",
+  "match": {
+   "h": "Misma uva, nombres distintos",
+   "p": "Toca un nombre local y luego la uva que le corresponde.",
+   "pairs": [
+    [
+     "Tinta Roriz",
+     "Tempranillo"
+    ],
+    [
+     "Cannonau",
+     "Garnacha"
+    ],
+    [
+     "Côt",
+     "Malbec"
+    ],
+    [
+     "Steen",
+     "Chenin Blanc"
+    ],
+    [
+     "Shiraz",
+     "Syrah"
+    ]
+   ],
+   "done": "¡Perfecto! {e} error(es).",
+   "again": "Jugar otra vez",
+   "mod": "eur"
+  },
+  "tf": {
+   "h": "¿Verdadero o falso? Las trampas del examen",
+   "p": "Afirmaciones que confunden a muchos candidatos.",
+   "t": "Verdadero",
+   "f": "Falso",
+   "score": "{n} de {t} acertadas",
+   "again": "Jugar otra vez",
+   "mod": "exam",
+   "items": [
+    [
+     "El Extra Dry es más seco que el Brut.",
+     false,
+     "Al contrario: Extra Dry 12–17 g/L de azúcar, Brut 0–12 g/L."
+    ],
+    [
+     "El Vino Nobile di Montepulciano se elabora con la uva Montepulciano.",
+     false,
+     "Se elabora con Sangiovese: aquí Montepulciano es el nombre de la ciudad."
+    ],
+    [
+     "La Pinotage es un cruce de Pinot Noir y Cinsault.",
+     true,
+     "Creada en Sudáfrica, apenas se cultiva en otros lugares."
+    ],
+    [
+     "El Fino se encabeza a un 15 % aproximadamente para que el velo de flor sobreviva.",
+     true,
+     "Hacia el 17 % la flor muere: es el camino del Oloroso."
+    ],
+    [
+     "En Burdeos casi todos los vinos son de ensamblaje.",
+     true,
+     "La excepción más habitual es algún Sauvignon Blanc seco monovarietal."
+    ]
+   ]
+  },
+  "flash": {
+   "h": "Tarjetas",
+   "p": "Toca la tarjeta para darle la vuelta.",
+   "flip": "Girar",
+   "next": "Siguiente",
+   "mod": "cel",
+   "cards": [
+    [
+     "Flor",
+     "Velo de levaduras que crece sobre el vino a un 15 % aproximadamente y lo protege del oxígeno: da el Fino y la Manzanilla."
+    ],
+    [
+     "Botrytis cinerea",
+     "Podredumbre noble: nieblas matinales y tardes secas concentran azúcares y acidez (Sauternes, Tokaji)."
+    ],
+    [
+     "Maceración carbónica",
+     "Fermentación dentro de las bayas enteras en ambiente de CO₂: fruta roja, kirsch, plátano, taninos suaves."
+    ],
+    [
+     "Fermentación maloláctica",
+     "Las bacterias lácticas transforman el ácido málico en láctico: acidez más suave, notas de mantequilla."
+    ]
+   ]
+  },
+  "notes": {
+   "h": "Tus apuntes, sin esfuerzo",
+   "p": "Dos herramientas que ningún libro te da.",
+   "photo_t": "Fotos de los apuntes",
+   "photo_d": "Fotografía las páginas escritas a mano: se quedan en la app, en tu dispositivo, junto a tu texto.",
+   "lesson_t": "Apuntes en clase",
+   "lesson_d": "La app escucha al profesor y transcribe mientras habla.",
+   "demo": [
+    "La Merlot es la variedad más plantada en Burdeos.",
+    "En la margen izquierda domina la Cabernet Sauvignon, sobre suelos de grava.",
+    "En la margen derecha, arcillas frescas: más Merlot."
+   ],
+   "rec": "Escuchando",
+   "mod": "all"
+  },
+  "film": {
+   "h": "Películas del vino",
+   "p": "Cada tema se convierte en una película corta animada y narrada: la poda, la vinificación, las regiones con sus mapas. Al final: las palabras clave y un test.",
+   "cta": "Ver las películas en la app",
+   "mod": "all"
+  },
+  "pod": {
+   "h": "Pódcast: Burdeos",
+   "p": "Escucha un episodio real. En la app tienes los 45 capítulos, con el texto que avanza mientras escuchas.",
+   "cta": "Todos los pódcasts en la app",
+   "mod": "bdx"
+  }
+ },
+ "mods": {
+  "h2": "Preparación WSET 3 por módulos: pagas solo lo que necesitas",
+  "intro": "Sin suscripciones: desbloqueas un módulo con un pago único y es tuyo durante 12 meses. Burdeos es gratis para todos.",
+  "free": "Gratis",
+  "buy": "Desbloquear",
+  "openfree": "Abrir gratis",
+  "q": "test",
+  "once": "pago único",
+  "items": {
+   "bdx": [
+    "Burdeos",
+    "El módulo de prueba: completo y gratuito."
+   ],
+   "tas": [
+    "Cata, maridaje y servicio",
+    "Método SAT, maridajes, conservación y servicio."
+   ],
+   "vin": [
+    "El viñedo",
+    "Clima, entorno, gestión del viñedo y poda."
+   ],
+   "cel": [
+    "La bodega",
+    "Vinificación de blancos, tintos y rosados, crianza, precio."
+   ],
+   "fra": [
+    "Francia (además de Burdeos)",
+    "Borgoña, Beaujolais, Alsacia, Loira, Ródano, Sur."
+   ],
+   "eur": [
+    "Europa",
+    "Italia, España, Portugal, Alemania, Austria, Hungría, Grecia."
+   ],
+   "nw": [
+    "Nuevo Mundo",
+    "EE. UU., Canadá, Chile, Argentina, Sudáfrica, Australia, Nueva Zelanda."
+   ],
+   "spe": [
+    "Espumosos y generosos",
+    "Champagne, Prosecco, Cava, Jerez, Oporto y vinos dulces."
+   ],
+   "exam": [
+    "Examen y estrategia",
+    "Simulacros de examen completos, lógica de examen y trampas."
+   ]
+  },
+  "examq": "simulacros",
+  "bundle": {
+   "badge": "El más rentable",
+   "name": "Todos los módulos",
+   "desc": "Todo el Nivel 3, todas las herramientas, 12 meses.",
+   "cta": "Desbloquear todo",
+   "save": "Ahorras {s}"
+  },
+  "note": "Precios con IVA incluido. ¿Ya tienes algún módulo? Al pasar a «Todos los módulos» solo pagas la diferencia."
+ },
+ "guide": {
+  "h2": "Cómo preparar el examen WSET Nivel 3",
+  "intro": "La guía para aprobar el WSET Level 3 Award in Wines a la primera: qué estudiar, cómo entrenar y qué errores evitar.",
+  "blocks": [
+   [
+    "Test WSET 3: las preguntas tipo test",
+    "La primera sección de la teoría tiene 50 preguntas tipo test. La mejor preparación es responder muchas preguntas al estilo del examen y entender cada error: por eso The Wine Goat reúne más de 2.000 test WSET 3 con explicación, organizados por tema y por región, del viñedo a la bodega, de Burdeos a Nueva Zelanda."
+   ],
+   [
+    "Preguntas de respuesta corta WSET 3",
+    "Las 4 preguntas de respuesta corta valen la mitad de la teoría y son donde más puntos se pierden. No basta con conocer los datos: hay que explicar el porqué, relacionando causa y efecto (clima → maduración → estilo del vino). Con The Wine Goat escribes tu respuesta, recibes la corrección punto por punto según los puntos clave del libro y ves la respuesta modelo."
+   ],
+   [
+    "Simulacro de examen WSET 3",
+    "Hacer al menos algunos simulacros completos cronometrados es la mejor forma de llegar tranquilo: te acostumbras al ritmo del examen y ves qué capítulos repasar. El módulo «Examen y estrategia» incluye simulacros de examen WSET 3, la lógica de examen y las trampas más frecuentes."
+   ],
+   [
+    "Cata WSET 3 con el método SAT",
+    "La cata a ciegas de dos vinos se prepara con el enfoque sistemático (SAT): aspecto, nariz, boca y conclusiones sobre calidad y potencial de guarda. En la app tienes el vocabulario de cada apartado y preguntas para entrenar las conclusiones; la copa sigue siendo el mejor entrenamiento."
+   ],
+   [
+    "Estudiar el WSET 3 en español",
+    "Gran parte del material de repaso solo existe en inglés. The Wine Goat está en español, italiano, francés e inglés: estudias en tu idioma y pasas al inglés con un toque si vas a hacer el examen en inglés."
+   ],
+   [
+    "Un plan de estudio para el WSET 3",
+    "Diez minutos de test al día, una pregunta abierta escrita a la semana, el repaso de errores y un simulacro en las últimas semanas: ese es el ritmo que proponemos. Con los módulos eliges por qué parte del temario WSET 3 empezar, y Burdeos es gratis para probar."
+   ]
+  ],
+  "searches_h": "Las búsquedas a las que respondemos",
+  "searches": [
+   "preparación WSET 3",
+   "test WSET 3",
+   "preguntas examen WSET nivel 3",
+   "simulacro examen WSET 3",
+   "preguntas de respuesta corta WSET 3",
+   "cata WSET 3 SAT",
+   "cómo aprobar el WSET 3",
+   "WSET 3 en español",
+   "WSET Level 3 Award in Wines",
+   "repaso WSET 3",
+   "WSET 2 y WSET 1 próximamente"
+  ]
+ },
+ "all": {
+  "h2": "Todo lo que encuentras en The Wine Goat",
+  "intro": "No solo test: ejercicios de todo tipo, juegos, películas animadas, pódcasts, mapas y herramientas para tus apuntes. Toca una casilla para probarla.",
+  "try": "Pruébalo aquí",
+  "open": "Abrir en la app",
+  "tiles": {
+   "quiz": [
+    "Preguntas tipo test",
+    "Con la explicación de cada respuesta"
+   ],
+   "open": [
+    "Preguntas abiertas corregidas",
+    "Corrección punto por punto según los puntos clave del libro"
+   ],
+   "exam": [
+    "Simulacro de examen",
+    "Test, preguntas escritas y cata cronometrados"
+   ],
+   "sat": [
+    "Cata SAT",
+    "Notas de cata con corrección de la estructura"
+   ],
+   "games": [
+    "Juegos",
+    "Vendimia, burbujas, verdadero o falso, emparejamientos…"
+   ],
+   "films": [
+    "Películas del vino",
+    "Lecciones animadas narradas, mapas y test final"
+   ],
+   "pods": [
+    "Pódcasts",
+    "Un capítulo por episodio, con el texto para seguirlo"
+   ],
+   "flash": [
+    "Tarjetas",
+    "Preguntas, términos, cifras y uvas para darles la vuelta"
+   ],
+   "maps": [
+    "Mapas interactivos",
+    "Países, regiones y subregiones para explorar"
+   ],
+   "grapes": [
+    "Fichas de uvas",
+    "Clima, aromas, estilos y regiones de cada uva"
+   ],
+   "dict": [
+    "Diccionario y cifras",
+    "Todos los términos y números que hay que saber"
+   ],
+   "logic": [
+    "Lógica de examen y trampas",
+    "Cómo razona el examinador, las trampas clásicas"
+   ],
+   "notes": [
+    "Apuntes en clase",
+    "Graba la clase o fotografía tus páginas"
+   ],
+   "plan": [
+    "Tu plan de estudio",
+    "Programa día a día, consejos y puntos débiles para repasar"
+   ]
+  },
+  "units": {
+   "films": "películas",
+   "pods": "episodios",
+   "games": "juegos",
+   "maps": "mapas",
+   "grapes": "uvas",
+   "flash": "tarjetas",
+   "dict": "entradas",
+   "logic": "consejos",
+   "quiz": "test",
+   "open": "preguntas"
+  }
+ },
+ "inside": {
+  "h2": "Mira dentro de la app",
+  "intro": "Pantallas reales, tal como las verás en tu móvil.",
+  "caps": {
+   "home": "Tu plan de hoy",
+   "study": "Entrenamiento para el examen",
+   "films": "68 películas animadas",
+   "pods": "45 pódcasts",
+   "play": "Juegos",
+   "atlas": "Atlas interactivo",
+   "notes": "Tus apuntes"
+  }
+ },
+ "vs": {
+  "h2": "Por qué The Wine Goat vale más",
+  "intro": "Los demás recursos para preparar el WSET 3 cubren solo una parte. Aquí lo tienes todo, en tu idioma.",
+  "cols": [
+   "",
+   "The Wine Goat",
+   "Apps de test",
+   "Exámenes de prueba en PDF",
+   "Libro y apuntes"
+  ],
+  "rows": [
+   [
+    "Preguntas tipo test",
+    "✓ más de 2.000",
+    "✓",
+    "✓",
+    "—"
+   ],
+   [
+    "Corrección de las respuestas escritas",
+    "✓ inmediata",
+    "—",
+    "por tu cuenta",
+    "—"
+   ],
+   [
+    "Películas animadas y pódcasts",
+    "✓ 68 películas · 45 pódcasts",
+    "—",
+    "—",
+    "—"
+   ],
+   [
+    "Juegos para memorizar",
+    "✓ 11 juegos",
+    "a veces",
+    "—",
+    "—"
+   ],
+   [
+    "Mapas interactivos",
+    "✓ 42 mapas",
+    "—",
+    "—",
+    "en papel"
+   ],
+   [
+    "Apuntes en clase y fotos",
+    "✓",
+    "—",
+    "—",
+    "a mano"
+   ],
+   [
+    "Idiomas",
+    "ES · IT · FR · EN",
+    "normalmente solo inglés",
+    "inglés",
+    "—"
+   ],
+   [
+    "Para empezar",
+    "Burdeos gratis",
+    "de pago",
+    "de pago",
+    "—"
+   ]
+  ]
+ },
+ "qes": {
+  "b37efc4": {
+   "q": "¿Cuál es la variedad más plantada en Burdeos?",
+   "o": [
+    "Merlot (tinta)",
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Sémillon (blanca)"
+   ],
+   "e": "Se da bien en las arcillas frescas de Saint-Émilion y Pomerol; por su suavidad domina en los vinos económicos."
+  },
+  "14bc7e6": {
+   "q": "De norte a sur, ¿cuáles son los cuatro municipios más reputados del Haut-Médoc?",
+   "o": [
+    "Saint-Estèphe, Pauillac, Saint-Julien, Margaux",
+    "Margaux, Saint-Julien, Pauillac, Saint-Estèphe",
+    "Pauillac, Margaux, Saint-Estèphe, Saint-Julien",
+    "Pomerol, Pauillac, Graves, Saint-Julien"
+   ],
+   "e": "Mucha Cabernet Sauvignon: grosella negra y cedro, taninos firmes de jóvenes y larga guarda."
+  },
+  "df5181d": {
+   "q": "¿En qué año se elaboró la clasificación del Médoc y de Sauternes?",
+   "o": [
+    "1855",
+    "1955",
+    "1789",
+    "1936"
+   ],
+   "e": "Se hizo para la Exposición Universal de París; sigue prácticamente intacta y su vigencia se discute."
+  },
+  "4f82326": {
+   "q": "¿Por qué la Sémillon es la uva clave de los vinos dulces de Burdeos?",
+   "o": [
+    "Piel fina y facilidad para la podredumbre noble",
+    "Acidez muy alta, que equilibra el azúcar",
+    "Aromas florales intensos de rosa y moscatel",
+    "Maduración muy precoz, antes de las lluvias"
+   ],
+   "e": "En los blancos secos de Pessac-Léognan y Graves se ensambla con Sauvignon y aporta cuerpo."
+  },
+  "41f40a7": {
+   "q": "¿Qué puede producir la denominación Entre-Deux-Mers?",
+   "o": [
+    "Solo vinos blancos",
+    "Solo vinos tintos",
+    "Tintos y dulces",
+    "Solo espumosos"
+   ],
+   "e": "Los tintos de la zona usan una denominación genérica. Los blancos de Graves y Entre-Deux-Mers suelen ser Sauvignon sin madera."
+  },
+  "7adbac1": {
+   "q": "¿Qué estilo tiene el Pomerol?",
+   "o": [
+    "Más rico, con fruta de mora más especiada",
+    "Más ligero y floral, con fruta roja fresca",
+    "Más austero, con notas de hoja de grosella y cedro",
+    "Dulce y botritizado, de Merlot sobremadura"
+   ],
+   "e": "Su reputación es tan alta como la de Saint-Émilion."
+  },
+  "e30dff4": {
+   "q": "¿Qué ríos forman el estuario de la Gironda?",
+   "o": [
+    "Dordoña y Garona",
+    "Loira y Cher",
+    "Ródano y Saona",
+    "Lot y Tarn"
+   ],
+   "e": "Dividen Burdeos en margen izquierda, Entre-Deux-Mers y margen derecha."
+  },
+  "49c0833": {
+   "q": "¿Qué clima tiene Burdeos?",
+   "o": [
+    "Marítimo moderado, favorecido por la Corriente del Golfo",
+    "Continental fresco, con inviernos duros y veranos cortos",
+    "Mediterráneo cálido y seco, con veranos largos y lluvia solo en invierno",
+    "Marítimo fresco, enfriado por la Corriente de Humboldt"
+   ],
+   "e": "Alarga la temporada: las heladas de primavera son raras y la maduración continúa hasta octubre."
+  },
+  "6e3022a": {
+   "q": "¿Qué protege los viñedos de Burdeos de las peores tormentas atlánticas?",
+   "o": [
+    "El bosque de las Landas y las dunas costeras",
+    "Los Pirineos, que frenan los vientos oceánicos del suroeste",
+    "El Macizo Central, al este de la región",
+    "El estuario de la Gironda, que absorbe el oleaje"
+   ],
+   "e": "Aun así, el Atlántico trae lluvia y humedad que pueden afectar a la floración, favorecer la podredumbre y diluir la uva."
+  },
+  "5c4599e": {
+   "q": "¿Por qué el Garona y el Ciron favorecen los vinos dulces?",
+   "o": [
+    "Crean otoños brumosos ideales para la podredumbre noble en uvas maduras",
+    "Enfrían la uva por la noche y mantienen alta la acidez",
+    "Aportan suelos aluviales volcánicos ricos en minerales",
+    "Evitan las heladas de primavera e invierno en los viñedos"
+   ],
+   "e": "La podredumbre noble varía cada año; cuando escasea, el pasificado en la cepa ayuda a concentrar los azúcares."
+  },
+  "e485162": {
+   "q": "¿Qué château ocupa el primer rango de la clasificación de Sauternes?",
+   "o": [
+    "Château d'Yquem",
+    "Château Latour",
+    "Château Haut-Brion",
+    "Château Margaux"
+   ],
+   "e": "La clasificación de Sauternes tiene tres rangos."
+  }
+ },
+ "open_es": {
+  "t": "El vino B lleva un tapón de corcho natural. ¿Qué condiciones de conservación recomendarías para guardarlo a largo plazo?",
+  "k": "Botella tumbada, para que el corcho se mantenga húmedo y no se seque ni deje entrar oxígeno; temperatura fresca y constante (unos 10–15 °C), sin cambios que dilaten el vino y empujen el corcho; en la oscuridad (la luz, sobre todo la UV, estropea el vino); humedad moderada; lejos de vibraciones y olores fuertes."
+ }
+}

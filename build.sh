@@ -1,0 +1,2 @@
+cd /tmp/claude-0/-home-claude/3f268032-b4c3-5225-a7f8-c79dc4579a8b/scratchpad/h && python3 build_pods.py >/dev/null && python3 patch_grapes.py >/dev/null && FILM_V3=1 python3 patch_v33.py >/dev/null && python3 patch_duo.py >/dev/null && python3 recolor.py live.html >/dev/null && python3 merge.py | tail -1 && python3 fix_frozen.py && python3 drop_q.py && python3 fix_edition.py && python3 -c "
+import re;s=open('wset3.html').read();sc=re.findall(r'<script>(.*?)</script>',s,re.S);open('chk.js','w').write(sc[-1])" && node --check chk.js && echo BUILD_OK

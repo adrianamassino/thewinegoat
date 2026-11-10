@@ -1,0 +1,305 @@
+@3e8d63e
+A: Lo fa sembrare più leggero || Il le fait paraître plus léger || It makes the wine feel lighter
+B: Lo fa sembrare più pieno || Il le fait paraître plus corsé || It makes the wine feel fuller
+C: Non ha alcun effetto sul corpo || Il n'a aucun effet sur le corps || It has no effect on body
+D: Lo fa sembrare più morbido || Il le fait paraître plus rond || It makes the wine feel rounder
+
+@15e914d
+A: Lieviti capaci di fermentare il vino || Des levures capables de fermenter le vin || Yeasts that can ferment the wine
+B: Tannini che passano nel mosto || Des tanins qui passent dans le moût || Tannins that pass into the must
+C: Acido malico che protegge l'acino || De l'acide malique qui protège la baie || Malic acid that protects the berry
+D: Zuccheri che attirano i batteri acetici || Des sucres qui attirent les bactéries acétiques || Sugars that attract acetic bacteria
+
+@fc4a4d0
+A: Nella buccia e subito sotto || Dans la pellicule et juste dessous || In the skin and just beneath it
+B: Nei vinaccioli || Dans les pépins || In the seeds
+C: Nei raspi || Dans les rafles || In the stems
+D: Al centro della polpa || Au centre de la pulpe || In the centre of the pulp
+
+@36e8cfe
+A: Controllare ogni fase per uno stile preciso, oppure intervenire il meno possibile || Contrôler chaque étape pour un style précis, ou intervenir le moins possible || Controlling every step for a stylistic goal, or intervening as little as possible
+B: Vinificare solo in acciaio inox, oppure solo in legno nuovo || Vinifier uniquement en inox, ou uniquement en bois neuf || Making wine only in stainless steel, or only in new oak
+C: Usare solo lieviti selezionati, oppure solo uve vendemmiate a macchina || Utiliser uniquement des levures sélectionnées, ou uniquement la vendange mécanique || Using only cultured yeast, or only machine-harvested grapes
+D: Produrre per l'invecchiamento, oppure solo vini da bere entro l'anno || Produire pour la garde, ou seulement des vins à boire dans l'année || Making wines for ageing, or only wines to drink within the year
+
+@1aa16a1
+A: Amari e astringenti all'invaiatura, calano con la maturazione; anche il legno può dare tannino || Amers et astringents à la véraison, ils diminuent avec la maturité ; le bois peut aussi apporter du tanin || Bitter and astringent at veraison, they fall as grapes ripen; oak can also add tannin
+B: Morbidi all'invaiatura, aumentano con la maturazione; il tannino viene solo dai vinaccioli || Souples à la véraison, ils augmentent avec la maturité ; le tanin vient seulement des pépins || Soft at veraison, they rise as grapes ripen; tannin comes only from the seeds
+C: Restano invariati fino alla vendemmia; il legno può dare tannino solo ai vini rossi || Ils restent inchangés jusqu'à la vendange ; le bois n'apporte du tanin qu'aux rouges || They stay unchanged until harvest; oak can add tannin only to red wines
+D: Spariscono del tutto con la maturità; il tannino del vino viene solo dal legno || Ils disparaissent avec la maturité ; le tanin du vin vient uniquement du bois || They disappear entirely at ripeness; the wine's tannin comes only from oak
+
+@12975bd
+A: Si riduce l'ossigeno: vendemmia notturna, uve refrigerate, SO2 e attrezzature saturate di CO2 o azoto || On réduit l'oxygène : vendange de nuit, raisins refroidis, SO2 et matériel saturé de CO2 ou d'azote || Oxygen is minimised: night picking, chilled grapes, SO2 and equipment filled with CO2 or nitrogen
+B: Si ossigena il mosto prima della fermentazione per stabilizzare il colore e togliere i composti ossidabili || On oxygène le moût avant fermentation pour stabiliser la couleur et éliminer les composés oxydables || The must is oxygenated before fermentation to stabilise colour and remove oxidisable compounds
+C: Si fermenta in barrique nuove aperte e si fa bâtonnage frequente per aumentare la consistenza || On fermente en barriques neuves ouvertes avec bâtonnage fréquent pour gagner en texture || Fermentation takes place in open new barrels with frequent lees stirring to build texture
+D: Si evita la SO2 e si lascia il vino in vasche scolme per sviluppare aromi di frutta secca || On évite le SO2 et on laisse le vin en cuves en vidange pour développer des notes de fruits secs || SO2 is avoided and wine is left in part-filled tanks to develop nutty aromas
+
+@8acb22d
+A: Vasche inerti, ermetiche e piene, in acciaio inox o cemento vetrificato || Cuves inertes, étanches et pleines, en inox ou en béton époxy || Inert, airtight, full tanks of stainless steel or epoxy-lined concrete
+B: Barrique nuove di rovere francese, colmate ogni settimana || Barriques neuves de chêne français, ouillées chaque semaine || New French oak barriques, topped up every week
+C: Grandi botti di legno vecchio riempite per due terzi || Grands foudres de vieux bois remplis aux deux tiers || Large old oak casks filled to two-thirds
+D: Anfore di terracotta aperte, interrate nella cantina || Amphores en terre cuite ouvertes, enterrées dans le chai || Open clay amphorae buried in the cellar floor
+
+@095b902
+A: I tannini si ammorbidiscono, compaiono note terziarie e il colore schiarisce con riflessi bruni || Les tanins s'assouplissent, des notes tertiaires apparaissent et la couleur pâlit avec des reflets bruns || Tannins soften, tertiary notes appear and colour pales with a hint of brown
+B: I tannini si induriscono, il frutto diventa più fresco e il colore si fa più scuro e porpora || Les tanins durcissent, le fruit devient plus frais et la couleur plus sombre et pourpre || Tannins harden, fruit becomes fresher and colour turns darker and more purple
+C: L'acidità aumenta, gli aromi primari si intensificano e il colore resta invariato || L'acidité augmente, les arômes primaires s'intensifient et la couleur ne change pas || Acidity rises, primary aromas intensify and the colour remains unchanged
+D: L'alcol cala per evaporazione, compaiono note di lievito e il colore si fa rosato || L'alcool baisse par évaporation, des notes de levure apparaissent et la couleur rosit || Alcohol falls through evaporation, yeasty notes appear and the colour turns pinkish
+
+@a01bb1e
+A: I piccoli contenitori ossidano di più, per la maggiore superficie di legno in proporzione || Les petits contenants oxydent plus, à cause de la surface de bois proportionnellement plus grande || Small vessels oxidise more, owing to their proportionally larger wood surface
+B: Dopo due anni il legno diventa poroso e il vino perde troppo volume per evaporazione || Après deux ans le bois devient poreux et le vin perd trop de volume par évaporation || After two years the wood turns porous and the wine loses too much volume to evaporation
+C: Le norme europee vietano di superare i 24 mesi in barrique per i vini fermi || Les règles européennes interdisent plus de 24 mois en barrique pour les vins tranquilles || European rules forbid more than 24 months in barrique for still wines
+D: Il legno cede tutti i suoi aromi nel primo anno e poi non ha più effetto sul vino || Le bois cède tous ses arômes la première année puis n'a plus d'effet sur le vin || The oak gives up all its flavour in year one and then has no further effect on the wine
+
+@3899a47
+A: Sherry Oloroso, Porto Tawny e Rutherglen Muscat || Xérès Oloroso, Porto Tawny et Rutherglen Muscat || Oloroso Sherry, Tawny Port and Rutherglen Muscat
+B: Sherry Fino, Porto Vintage e Sauternes || Xérès Fino, Porto Vintage et Sauternes || Fino Sherry, Vintage Port and Sauternes
+C: Porto LBV, Madeira Rainwater e Champagne || Porto LBV, Madère Rainwater et Champagne || LBV Port, Rainwater Madeira and Champagne
+D: Sherry Manzanilla, Riesling Auslese e Tokaji || Xérès Manzanilla, Riesling Auslese et Tokaji || Manzanilla Sherry, Riesling Auslese and Tokaji
+
+@36411d1
+A: Ha reagito per proteggere dall'ossidazione e non protegge più || Il a réagi pour protéger de l'oxydation et ne protège plus || It has reacted to protect against oxidation and no longer protects
+B: Si è legato ai lieviti e ora li protegge dai batteri lattici || Il s'est lié aux levures et les protège désormais des bactéries || It has bonded to the yeasts and now shields them from bacteria
+C: Si è combinato con lo zucchero e ora agisce come conservante più forte || Il s'est combiné au sucre et agit désormais comme conservateur renforcé || It has combined with sugar and now acts as a stronger preservative
+D: Si è legato ai tannini e ne aumenta la percezione di astringenza || Il s'est lié aux tanins et en accentue l'astringence perçue || It has bonded to the tannins and increases perceived astringency
+
+@4bc5134
+A: Il lievito principale della fermentazione tollera dosi tossiche per altri lieviti e batteri || La levure principale tolère des doses toxiques pour d'autres levures et bactéries || The main fermentation yeast tolerates levels toxic to other yeasts and bacteria
+B: Viene sempre aggiunta solo a fermentazione finita, quindi non interferisce || Il n'est toujours ajouté qu'après la fermentation, donc il n'interfère pas || It is always added only after fermentation, so it cannot interfere
+C: La CO2 prodotta dalla fermentazione la espelle dal mosto in pochi minuti || Le CO2 produit par la fermentation l'expulse du moût en quelques minutes || The CO2 produced by fermentation drives it out of the must within minutes
+D: Lo zucchero del mosto la lega completamente e la rende inattiva || Le sucre du moût le lie entièrement et le rend inactif || The sugar in the must binds it completely and makes it inactive
+
+@1aa60ef
+A: Tostato, vaniglia, fumo e chiodi di garofano || Toasté, vanille, fumée et clou de girofle || Toast, vanilla, smoke and cloves
+B: Burro, panna, nocciola e yogurt || Beurre, crème, noisette et yaourt || Butter, cream, hazelnut and yoghurt
+C: Brioche, crosta di pane e biscotto || Brioche, croûte de pain et biscuit || Brioche, bread crust and biscuit
+D: Idrocarburo, miele, fieno e funghi || Pétrole, miel, foin et champignon || Petrol, honey, hay and mushroom
+
+@e2912cc
+A: Il colore si intensifica e prende un riflesso aranciato || La couleur s'intensifie et prend un reflet orangé || It deepens in colour and gains a hint of orange
+B: Il colore schiarisce e prende riflessi verdolini || La couleur pâlit et prend des reflets verts || It becomes paler and gains green hints
+C: Il colore resta identico, cambiano solo gli aromi || La couleur reste identique, seuls les arômes changent || The colour stays identical; only the aromas change
+D: Il colore si fa più torbido per il deposito di tannini || La couleur se trouble par dépôt de tanins || It turns hazy from a deposit of tannins
+
+@3e2659d
+A: I batteri usano l'ossigeno per trasformarlo in aceto, rendendolo imbevibile || Des bactéries utilisent l'oxygène pour le transformer en vinaigre, imbuvable || Bacteria use the oxygen to turn it into vinegar, making it undrinkable
+B: I lieviti riprendono a fermentare e lo rendono frizzante e torbido || Les levures refermentent et le rendent pétillant et trouble || Yeasts start fermenting again and make it spritzy and cloudy
+C: Il vino si riduce e sviluppa odori di uova marce e cavolo || Le vin se réduit et développe des odeurs d'œuf pourri et de chou || The wine becomes reduced and smells of rotten eggs and cabbage
+D: Il TCA si sviluppa nel legno e dà odore di cartone bagnato || Le TCA se développe dans le bois et donne une odeur de carton mouillé || TCA develops in the wood and gives a damp-cardboard smell
+
+@16d1817
+A: L'igiene: è difficile tenere il legno libero da lieviti, batteri e muffe || L'hygiène : il est difficile de garder le bois exempt de levures, bactéries et moisissures || Hygiene: it is hard to keep wood free of yeasts, bacteria and moulds
+B: Il controllo della temperatura: il legno non permette di raffreddare il mosto || Le contrôle de température : le bois ne permet pas de refroidir le moût || Temperature control: wood makes it impossible to cool the must
+C: La tenuta: il legno è ermetico e impedisce qualsiasi scambio di ossigeno || L'étanchéité : le bois est hermétique et empêche tout échange d'oxygène || Airtightness: wood is hermetic and prevents any oxygen exchange
+D: La legge: in Europa il legno è vietato per la fermentazione dei bianchi || La loi : en Europe le bois est interdit pour la fermentation des blancs || The law: in Europe oak is banned for fermenting white wines
+
+@4c13632
+A: Riesling australiano premium – contenitori inerti, niente legno né ossigeno || Riesling australien premium – contenants inertes, ni bois ni oxygène || Premium Australian Riesling – inert vessels, no oak or oxygen contact
+B: Porto Tawny – vasche inerti sempre piene, senza ossigeno || Porto Tawny – cuves inertes toujours pleines, sans oxygène || Tawny Port – inert, always-full tanks with no oxygen
+C: Sherry Oloroso – acciaio inox protettivo, senza ossidazione || Xérès Oloroso – inox protecteur, sans oxydation || Oloroso Sherry – protective stainless steel, no oxidation
+D: Rutherglen Muscat – imbottigliato subito dopo la fermentazione || Rutherglen Muscat – mis en bouteille juste après la fermentation || Rutherglen Muscat – bottled straight after fermentation
+
+@a76c820
+A: Proteggendo dall'ossidazione diventa «legata» e smette di proteggere || En protégeant de l'oxydation il devient « lié » et ne protège plus || As it protects against oxidation it becomes 'bound' and stops protecting
+B: Evapora rapidamente con la luce e il calore della cantina || Il s'évapore rapidement avec la lumière et la chaleur du chai || It evaporates quickly with the light and warmth of the cellar
+C: I lieviti la consumano come nutriente durante la fermentazione || Les levures le consomment comme nutriment pendant la fermentation || Yeasts consume it as a nutrient during fermentation
+D: Si trasforma lentamente in acido solforico e alza l'acidità || Il se transforme lentement en acide sulfurique et augmente l'acidité || It slowly turns into sulfuric acid and raises acidity
+
+@8c01543
+A: Che può dare vini piatti e poco interessanti, mentre più ossigeno darebbe complessità || Qu'elle peut donner des vins fades et sans intérêt, alors que plus d'oxygène apporterait de la complexité || That it can give bland wines, while more oxygen contact would build complexity
+B: Che produce sempre vini ossidati e bruni, perché la SO2 accelera l'ossidazione || Qu'elle produit toujours des vins oxydés et bruns, car le SO2 accélère l'oxydation || That it always produces brown, oxidised wines, because SO2 speeds oxidation
+C: Che aumenta l'acidità volatile, perché senza ossigeno i batteri acetici prosperano || Qu'elle augmente l'acidité volatile, car sans oxygène les bactéries acétiques prospèrent || That it raises volatile acidity, because acetic bacteria thrive without oxygen
+D: Che è vietata dalle norme europee per i vini a denominazione d'origine || Qu'elle est interdite par les règles européennes pour les vins d'appellation || That it is banned under European rules for wines with a designation of origin
+
+@92aa0ce
+A: Può essere tossica e dare allergie anche a basse dosi; in eccesso rende il vino duro e senza frutto || Il peut être toxique et allergène même à faible dose ; en excès il rend le vin dur et sans fruit || It can be toxic and cause allergies even at low levels; too much makes wine harsh and fruitless
+B: Aumenta l'alcol del vino oltre i limiti di legge; in eccesso lo rende dolce e pesante || Il augmente l'alcool au-delà des limites légales ; en excès il rend le vin doux et lourd || It raises alcohol beyond legal limits; too much makes wine sweet and heavy
+C: Fa imbrunire il vino in pochi mesi; in eccesso dà odore di aceto e smalto || Il fait brunir le vin en quelques mois ; en excès il sent le vinaigre et le vernis || It browns the wine within months; too much makes it smell of vinegar and varnish
+D: È costosissima e difficile da reperire; in eccesso blocca la malolattica nei bianchi || Il est très coûteux et rare ; en excès il bloque la malolactique des blancs || It is very costly and scarce; too much blocks malolactic in whites
+
+@42c0768
+A: Si pensa che la forma favorisca il movimento naturale del liquido, riducendo follature e rimontaggi || On pense que leur forme favorise le mouvement naturel du liquide, réduisant pigeages et remontages || Their shape is thought to aid natural flow of the liquid, reducing punching down and pumping over
+B: Si pensa che il cemento ceda aromi di vaniglia e tostato simili a quelli della barrique nuova || On pense que le béton cède des arômes de vanille et de toasté proches de la barrique neuve || The concrete is thought to give vanilla and toast aromas similar to those of new barrels
+C: Costano meno dell'acciaio e si puliscono più facilmente grazie all'assenza di angoli || Ils coûtent moins que l'inox et se nettoient plus facilement faute d'angles || They are cheaper than steel and easier to clean because they have no corners
+D: Le pareti sottili lasciano passare molto ossigeno, accelerando l'evoluzione del vino || Leurs parois fines laissent passer beaucoup d'oxygène et accélèrent l'évolution du vin || Their thin walls let in a lot of oxygen, speeding up the wine's development
+
+@78d0305
+A: Aggiungere aromi e tannini di legno in vasche inerti, a costi molto inferiori || Apporter arômes et tanins boisés en cuve inerte, bien moins cher || Adding oak aromas and tannins in inert vessels much more cheaply
+B: Ridurre l'uso di SO2, perché il legno protegge il vino dall'ossidazione || Réduire le SO2, car le bois protège le vin de l'oxydation || Reducing SO2, because the wood protects the wine from oxidation
+C: Chiarificare il vino, perché le particelle si depositano sul legno || Clarifier le vin, car les particules se déposent sur le bois || Clarifying the wine, because particles settle on the wood
+D: Ottenere la micro-ossigenazione tipica delle barrique a costo zero || Obtenir la micro-oxygénation des barriques sans aucun coût || Obtaining barrique-style micro-oxygenation at no cost
+
+@4e78692
+A: Facili da pulire, di ogni forma e misura, con controllo della temperatura || Faciles à nettoyer, de toutes formes et tailles, avec contrôle de température || Easy to clean, any shape and size, with temperature control
+B: Pareti spesse che regolano la temperatura senza impianti di raffreddamento || Parois épaisses qui régulent la température sans système de froid || Thick walls that regulate temperature without cooling equipment
+C: Lieve passaggio di ossigeno che ammorbidisce i tannini come in barrique || Léger passage d'oxygène qui assouplit les tanins comme en barrique || A slight oxygen transfer that softens tannins as in barrels
+D: Costo più basso di qualsiasi altro contenitore e cessione di aromi neutri || Coût le plus bas de tous les contenants et arômes neutres cédés || The lowest cost of any vessel, with neutral aromas imparted
+
+@7ac3969
+A: Le pareti spesse regolano la temperatura senza costosi impianti || Les parois épaisses régulent la température sans équipement coûteux || Thick walls regulate temperature without costly control equipment
+B: Cedono aromi di vaniglia e tostato simili alla barrique nuova || Ils cèdent des arômes de vanille et toasté proches du fût neuf || They give vanilla and toast aromas similar to a new barrel
+C: Si puliscono più facilmente dell'acciaio e non richiedono manutenzione || Ils se nettoient plus facilement que l'inox sans entretien || They are easier to clean than steel and need no maintenance
+D: Lasciano passare ossigeno e accelerano l'evoluzione del vino || Ils laissent passer l'oxygène et accélèrent l'évolution du vin || They let oxygen through and speed up the wine's development
+
+@1d3776b
+A: Il succo liberato dalla pigiatura, prima della pressatura || Le jus libéré par le foulage, avant le pressurage || Juice released by crushing, before pressing
+B: Il succo ottenuto dall'ultima pressatura, più tannico || Le jus de la dernière presse, plus tannique || Juice from the final pressing, which is more tannic
+C: Il vino che cola dalle vinacce dopo la fermentazione || Le vin qui s'écoule du marc après fermentation || Wine that drains from the skins after fermentation
+D: Il mosto chiarificato per decantazione prima della fermentazione || Le moût clarifié par débourbage avant fermentation || Must clarified by settling before fermentation
+
+@22d2157
+A: Bianchi prima della fermentazione, rossi di solito dopo || Blancs avant la fermentation, rouges généralement après || Whites before fermentation, reds usually after
+B: Bianchi dopo la fermentazione, rossi di solito prima || Blancs après la fermentation, rouges généralement avant || Whites after fermentation, reds usually before
+C: Entrambi prima della fermentazione, per evitare tannini || Les deux avant la fermentation, pour éviter les tanins || Both before fermentation, to avoid tannins
+D: Entrambi dopo la fermentazione, per estrarre più aromi || Les deux après la fermentation, pour extraire plus d'arômes || Both after fermentation, to extract more aroma
+
+@b3e70be
+A: 225 litri; i grandi contenitori possono superare i 2.000 litri || 225 litres ; les grands contenants peuvent dépasser 2 000 litres || 225 litres; large vessels can exceed 2,000 litres
+B: 300 litri; i grandi contenitori arrivano al massimo a 1.000 litri || 300 litres ; les grands contenants plafonnent à 1 000 litres || 300 litres; large vessels reach at most 1,000 litres
+C: 228 litri; i grandi contenitori arrivano al massimo a 600 litri || 228 litres ; les grands contenants plafonnent à 600 litres || 228 litres; large vessels reach at most 600 litres
+D: 500 litri; i grandi contenitori possono superare i 5.000 litri || 500 litres ; les grands contenants peuvent dépasser 5 000 litres || 500 litres; large vessels can exceed 5,000 litres
+
+@e9ba9fc
+A: Per note di legno più discrete: gli aromi di legno nuovo non sono adatti a tutti i vini || Pour des notes boisées plus discrètes : les arômes de bois neuf ne conviennent pas à tous les vins || For subtler oak: new-oak flavours are not desirable in every wine
+B: Perché le barrique nuove perdono vino e richiedono troppe colmature nel primo anno || Parce que les barriques neuves fuient et demandent trop d'ouillages la première année || Because new barrels leak and need too much topping up in their first year
+C: Perché le barrique nuove sono vietate nei vini a denominazione d'origine protetta || Parce que les barriques neuves sont interdites pour les vins d'appellation protégée || Because new barrels are banned for protected designation of origin wines
+D: Perché le barrique nuove lasciano passare meno ossigeno di quelle usate || Parce que les barriques neuves laissent passer moins d'oxygène que les usagées || Because new barrels let in less oxygen than used ones
+
+@6a0bdd2
+A: Con camicie esterne o serpentine interne in cui circola liquido freddo o caldo || Avec des chemises externes ou des serpentins internes où circule un liquide froid ou chaud || With external jackets or internal coils circulating cold or hot liquid
+B: Con ghiaccio secco aggiunto direttamente nel mosto in fermentazione || Avec de la glace carbonique ajoutée directement dans le moût en fermentation || With dry ice added directly to the fermenting must
+C: Con ventilatori che raffreddano l'aria della cantina intorno alle vasche || Avec des ventilateurs qui refroidissent l'air du chai autour des cuves || With fans that cool the cellar air around the tanks
+D: Con pareti spesse che mantengono stabile la temperatura senza impianti || Avec des parois épaisses qui stabilisent la température sans équipement || With thick walls that keep temperature stable without equipment
+
+@a91fe75
+A: Resina epossidica inerte e impermeabile; possono essere più difficili da pulire e mantenere || Résine époxy inerte et étanche ; ils peuvent être plus difficiles à nettoyer et entretenir || Inert, waterproof epoxy resin; they can be harder to clean and maintain
+B: Doghe di rovere sottili; lasciano passare troppo ossigeno rispetto all'acciaio || Fines douelles de chêne ; ils laissent passer trop d'oxygène par rapport à l'inox || Thin oak staves; they let in too much oxygen compared with steel
+C: Lastre di vetro; sono fragili e si crepano con le variazioni di temperatura || Plaques de verre ; ils sont fragiles et se fendent aux variations de température || Glass sheets; they are fragile and crack with temperature changes
+D: Rame stagnato; possono cedere al vino un gusto metallico || Cuivre étamé ; ils peuvent donner au vin un goût métallique || Tinned copper; they can give the wine a metallic taste
+
+@884c5d5
+A: Vini premium; raramente possibile nelle grandi produzioni || Vins premium ; rarement possible en production de masse || Premium wines; rarely possible in high-volume production
+B: Vini da tavola; è obbligatoria per legge in tutta l'UE || Vins de table ; obligatoire par la loi dans toute l'UE || Table wines; it is required by law across the EU
+C: Rosati; serve a limitare il colore estratto dalle bucce || Rosés ; elle sert à limiter la couleur extraite || Rosés; it helps limit colour extraction from skins
+D: Vini fortificati; serve a eliminare gli acini non botritizzati || Vins mutés ; elle sert à écarter les baies non botrytisées || Fortified wines; it removes non-botrytised berries
+
+@9db28c2
+A: Doghe o trucioli di legno in una vasca inerte || Douelles ou copeaux de bois dans une cuve inerte || Oak staves or chips in an inert vessel
+B: Barrique di quarto passaggio, molto economiche || Barriques de quatrième vin, très bon marché || Fourth-fill barrels, which are very cheap
+C: Vasche in cemento non vetrificato || Cuves en béton non revêtu || Unlined concrete vessels
+D: Micro-ossigenazione in vasca d'acciaio || Micro-oxygénation en cuve inox || Micro-oxygenation in a steel tank
+
+@b94ca1b
+A: No, è simile (Francia, Ungheria, Russia...), anche se alcune foreste francesi sono ritenute le migliori || Non, il est proche (France, Hongrie, Russie...), même si certaines forêts françaises sont jugées les meilleures || No, it is broadly similar (France, Hungary, Russia...), though some French forests are considered finest
+B: Sì, molto: solo il rovere francese ha tannini adatti al vino, gli altri si usano per le botti da distillato || Oui, beaucoup : seul le chêne français a des tanins adaptés, les autres servent aux spiritueux || Yes, greatly: only French oak has tannins suited to wine; others are used for spirits casks
+C: Sì: il rovere russo e ungherese danno aromi di cocco molto marcati, come il rovere americano || Oui : les chênes russe et hongrois donnent des notes de coco marquées, comme l'américain || Yes: Russian and Hungarian oak give strong coconut notes, like American oak
+D: No, ed è identico anche al rovere americano, che appartiene alla stessa specie || Non, et il est aussi identique au chêne américain, qui est de la même espèce || No, and it is also identical to American oak, which is the same species
+
+@08ecda2
+A: Temperatura e durata del riscaldamento delle doghe; trasforma tannini e aromi, dando spezie dolci e tostato || Température et durée de chauffe des douelles ; il transforme tanins et arômes, donnant épices douces et toasté || Temperature and length of heating the staves; it transforms tannins and flavours, giving sweet spice and toast
+B: L'età dell'albero e la foresta d'origine; aumenta il passaggio di ossigeno e accelera l'evoluzione || L'âge de l'arbre et la forêt d'origine ; il augmente l'apport d'oxygène et accélère l'évolution || The tree's age and forest of origin; it increases oxygen transfer and speeds up development
+C: Il tempo di stagionatura delle doghe all'aperto; elimina i tannini e rende il legno neutro || Le temps de séchage des douelles en plein air ; il élimine les tanins et rend le bois neutre || How long the staves season outdoors; it removes tannins and makes the wood neutral
+D: Il numero di vini già ospitati; rende la barrique più ermetica e riduce le perdite || Le nombre de vins déjà logés ; il rend la barrique plus étanche et réduit les pertes || How many wines the barrel has held; it makes it more airtight and reduces leakage
+
+@1cf79f1
+A: Aggiungendo piccole dosi controllate di ossigeno; per i vini premium di norma non si fa ancora || En ajoutant de petites doses contrôlées d'oxygène ; pour les vins premium ce n'est pas encore courant || By adding small controlled amounts of oxygen; premium wines are not normally made this way yet
+B: Aggiungendo trucioli di legno nuovo; è la norma per quasi tutti i vini premium || En ajoutant des copeaux de bois neuf ; c'est la norme pour presque tous les vins premium || By adding new-oak chips; it is the norm for almost all premium wines
+C: Aggiungendo azoto in vasca; è usato soprattutto per i grandi rossi da invecchiamento || En ajoutant de l'azote en cuve ; c'est surtout utilisé pour les grands rouges de garde || By adding nitrogen to the tank; it is used mainly for top age-worthy reds
+D: Aggiungendo SO2 a dosi crescenti; è richiesto dai disciplinari di molte DOP || En ajoutant du SO2 à doses croissantes ; c'est exigé par de nombreuses AOP || By adding rising doses of SO2; it is required by many PDO rules
+
+@26135bb
+A: I vinaccioli rotti rilasciano oli amari e tannino, rendendo il vino amaro e astringente || Les pépins écrasés libèrent huiles amères et tanin, rendant le vin amer et astringent || Crushed seeds release bitter oils and tannin, making the wine bitter and astringent
+B: I vinaccioli contengono molto zucchero, che renderebbe il vino troppo alcolico || Les pépins contiennent beaucoup de sucre, qui rendrait le vin trop alcoolique || Seeds contain a lot of sugar, which would make the wine too alcoholic
+C: I vinaccioli rilasciano pigmenti blu che rendono il colore instabile || Les pépins libèrent des pigments bleus qui rendent la couleur instable || Seeds release blue pigments that make the colour unstable
+D: I vinaccioli contengono lieviti selvaggi che avvierebbero una fermentazione troppo rapida || Les pépins portent des levures sauvages qui lanceraient une fermentation trop rapide || Seeds carry wild yeasts that would start fermentation too quickly
+
+@63399b0
+A: Aggiungere MCR incolore per alzare lo zucchero e quindi l'alcol || Ajouter du MCR incolore pour augmenter le sucre et donc l'alcool || Adding colourless RCGM to raise sugar and therefore alcohol
+B: Aggiungere MCR al vino finito per renderlo più dolce || Ajouter du MCR au vin fini pour l'adoucir || Adding RCGM to the finished wine to sweeten it
+C: Aggiungere MCR al mosto per alzarne l'acidità || Ajouter du MCR au moût pour augmenter l'acidité || Adding RCGM to the must to raise its acidity
+D: Aggiungere MCR per intensificare il colore dei rossi || Ajouter du MCR pour intensifier la couleur des rouges || Adding RCGM to deepen the colour of reds
+
+@d165ecc
+A: Concentra tutto, difetti compresi, e riduce il volume || Elle concentre tout, défauts compris, et réduit le volume || It concentrates everything, including faults, and cuts volume
+B: Abbassa il grado alcolico e diluisce gli aromi || Elle abaisse le degré d'alcool et dilue les arômes || It lowers the alcohol level and dilutes the aromas
+C: Elimina il colore e rende il mosto più ossidabile || Elle retire la couleur et rend le moût plus oxydable || It strips colour and makes the must more oxidisable
+D: Concentra solo lo zucchero, lasciando invariata l'acidità || Elle concentre seulement le sucre, sans changer l'acidité || It concentrates only sugar, leaving acidity unchanged
+
+@6cc866f
+A: Mosto; prima, durante o dopo la fermentazione, entro i limiti di legge locali || Moût ; avant, pendant ou après la fermentation, dans les limites légales locales || Must; before, during or after fermentation, within local legal limits
+B: Mosto; solo prima della fermentazione, perché dopo ogni correzione è vietata || Moût ; seulement avant la fermentation, car ensuite toute correction est interdite || Must; only before fermentation, as any adjustment afterwards is forbidden
+C: Feccia; solo dopo la fermentazione e prima dell'imbottigliamento || Lies ; seulement après la fermentation et avant la mise en bouteille || Lees; only after fermentation and before bottling
+D: Vinaccia; solo durante la fermentazione, mai prima né dopo || Marc ; seulement pendant la fermentation, jamais avant ni après || Pomace; only during fermentation, never before or after
+
+@5e40708
+A: Arricchimento (MCR o zuccheraggio dove consentito) e/o disacidificazione || Enrichissement (MCR ou chaptalisation si autorisée) et/ou désacidification || Enrichment (RCGM or chaptalisation where permitted) and/or deacidification
+B: Acidificazione con acido tartarico e/o eliminazione di alcol dopo la fermentazione || Acidification à l'acide tartrique et/ou désalcoolisation après fermentation || Acidification with tartaric acid and/or alcohol removal after fermentation
+C: Aggiunta di acqua al mosto e/o acidificazione con acido tartarico || Ajout d'eau au moût et/ou acidification à l'acide tartrique || Adding water to the must and/or acidification with tartaric acid
+D: Arricchimento con MCR e/o acidificazione con acido tartarico || Enrichissement au MCR et/ou acidification à l'acide tartrique || Enrichment with RCGM and/or acidification with tartaric acid
+
+@f2cc721
+A: Pressione delicata e controllabile, a volte in vasca chiusa contro l'ossigeno; le frazioni differiscono e si possono assemblare a piacere || Pression douce et contrôlable, parfois en cuve fermée contre l'oxygène ; les fractions diffèrent et s'assemblent à volonté || Gentle, controllable pressure, sometimes in a closed tank to limit oxygen; fractions differ and can be blended as desired
+B: Pressione molto elevata per estrarre più tannino; le frazioni sono identiche ma si separano per esigenze di volume e logistica || Pression très forte pour extraire plus de tanin ; les fractions sont identiques mais séparées pour la logistique || Very high pressure to extract more tannin; fractions are identical but kept apart for volume and logistics
+C: Pressione rapida che rompe i vinaccioli per aumentare la struttura; le frazioni più pressate si scartano per legge || Pression rapide qui écrase les pépins pour plus de structure ; les fractions les plus pressées sont écartées par la loi || Fast pressure that breaks seeds for more structure; the most pressed fractions are discarded by law
+D: Pressione continua a vite senza fine per i grandi volumi; le frazioni si separano solo per lo Champagne || Pression continue à vis sans fin pour les gros volumes ; les fractions ne sont séparées que pour le Champagne || Continuous screw pressure for large volumes; fractions are separated only for Champagne
+
+@eb1c3d5
+A: Il vino può risultare duro e magro, senza frutto a bilanciare l'alcol; sì, macchinari moderni lo tolgono dopo la fermentazione || Le vin peut être dur et maigre, sans fruit pour équilibrer l'alcool ; oui, des machines modernes l'ôtent après fermentation || The wine can taste hard and thin, lacking fruit to balance the alcohol; yes, modern machinery can remove alcohol after fermentation
+B: Il vino può risultare troppo fruttato e stucchevole; no, l'alcol non può essere rimosso senza distruggere gli aromi || Le vin peut être trop fruité et lourd ; non, on ne peut ôter l'alcool sans détruire les arômes || The wine can taste overly fruity and cloying; no, alcohol cannot be removed without destroying the aromas
+C: Il vino può restare dolce perché i lieviti non consumano lo zucchero aggiunto; sì, aggiungendo acqua al vino finito || Le vin peut rester doux car les levures ne consomment pas le sucre ajouté ; oui, en ajoutant de l'eau au vin fini || The wine can stay sweet as yeasts leave the added sugar; yes, by adding water to the finished wine
+D: Nessun rischio di stile, solo di legge; l'alcol si può togliere solo dal mosto, prima della fermentazione || Aucun risque de style, seulement légal ; l'alcool ne s'enlève que du moût, avant fermentation || No stylistic risk, only a legal one; alcohol can be removed only from the must, before fermentation
+
+@28821e1
+A: Aggiungendo acido tartarico in polvere || En ajoutant de l'acide tartrique en poudre || By adding tartaric acid powder
+B: Aggiungendo acido acetico diluito || En ajoutant de l'acide acétique dilué || By adding diluted acetic acid
+C: Aggiungendo acido lattico liquido || En ajoutant de l'acide lactique liquide || By adding liquid lactic acid
+D: Aggiungendo un sale alcalino || En ajoutant un sel alcalin || By adding an alkaline salt
+
+@2230949
+A: Carenza di nutrienti, temperatura oltre 35 °C o zucchero e alcol molto alti || Manque de nutriments, température au-delà de 35 °C ou sucre et alcool très élevés || Lack of nutrients, temperature above 35 °C or very high sugar and alcohol
+B: Acidità troppo alta, temperatura sotto i 20 °C o troppa luce nella cantina || Acidité trop élevée, température sous 20 °C ou trop de lumière au chai || Acidity too high, temperature below 20 °C or too much light in the cellar
+C: Troppo ossigeno nel mosto, assenza di SO2 o bucce troppo spesse || Trop d'oxygène dans le moût, absence de SO2 ou pellicules trop épaisses || Too much oxygen in the must, no SO2 or skins that are too thick
+D: Malolattica troppo precoce, eccesso di tannino o lieviti selezionati || Malolactique trop précoce, excès de tanin ou levures sélectionnées || Malolactic starting too early, excess tannin or cultured yeasts
+
+@4f6a860
+A: Uccidendo i lieviti con SO2 o alcol, oppure filtrandoli dopo aver raffreddato || En tuant les levures au SO2 ou à l'alcool, ou en les filtrant après refroidissement || Killing yeast with SO2 or spirit, or filtering it out after chilling
+B: Aggiungendo zucchero in quantità tale da bloccare i lieviti per pressione osmotica || En ajoutant assez de sucre pour bloquer les levures par pression osmotique || Adding enough sugar to block the yeasts through osmotic pressure
+C: Scaldando il mosto a 30 °C e aggiungendo acido tartarico per abbassare il pH || En chauffant le moût à 30 °C et en ajoutant de l'acide tartrique pour baisser le pH || Heating the must to 30 °C and adding tartaric acid to lower the pH
+D: Ossigenando il mosto con rimontaggi all'aria finché i lieviti si fermano || En oxygénant le moût par remontages à l'air jusqu'à l'arrêt des levures || Oxygenating the must with open pump-overs until the yeasts stop
+
+@06e34c7
+A: Non si controlla quali lieviti siano presenti e le partite possono variare || On ne contrôle pas les levures présentes et les lots peuvent varier || The winemaker cannot control which yeasts are present and batches may vary
+B: Danno sempre vini semplici e poco complessi rispetto ai lieviti selezionati || Ils donnent toujours des vins simples, moins complexes que les levures sélectionnées || They always give simpler, less complex wines than cultured yeasts
+C: Costano più dei lieviti selezionati e vanno acquistati ogni vendemmia || Ils coûtent plus que les levures sélectionnées et s'achètent chaque vendange || They cost more than cultured yeasts and must be bought each harvest
+D: Non sopportano l'alcol oltre il 5%, quindi non completano mai la fermentazione || Ils ne supportent pas plus de 5 % d'alcool et n'achèvent jamais la fermentation || They cannot tolerate over 5% alcohol, so they never finish fermentation
+
+@9ec7bd9
+A: Per non perdere aromi volatili e favorire note fruttate || Pour ne pas perdre d'arômes volatils et favoriser le fruit || To avoid losing volatile aromas and encourage fruity flavours
+B: Per estrarre più tannino e colore dalle bucce || Pour extraire plus de tanin et de couleur des pellicules || To extract more tannin and colour from the skins
+C: Per ottenere più alcol e un corpo più pieno || Pour obtenir plus d'alcool et un corps plus ample || To gain more alcohol and a fuller body
+D: Per favorire l'avvio della malolattica || Pour favoriser le départ de la malolactique || To encourage the malolactic fermentation to start
+
+@7258e7c
+A: Gestirlo con cura, con SO2 adeguata e filtrazione sterile || Le traiter avec soin, avec SO2 adapté et filtration stérile || Handle it carefully, with appropriate SO2 and sterile filtration
+B: Nulla: alcol medio e zucchero residuo lo rendono stabile || Rien : alcool moyen et sucre résiduel le rendent stable || Nothing: medium alcohol and residual sugar make it stable
+C: Lasciarlo non filtrato e senza SO2 per favorire la complessità || Le laisser non filtré et sans SO2 pour la complexité || Leave it unfiltered and without SO2 to favour complexity
+D: Avviare subito la malolattica per consumare lo zucchero residuo || Lancer aussitôt la malolactique pour consommer le sucre || Start malolactic at once to use up the residual sugar
+
+@8d8c612
+A: Togliere acqua concentra anche tannino, acidità, aromi e difetti, e riduce il volume || Ôter de l'eau concentre aussi tanin, acidité, arômes et défauts, et réduit le volume || Removing water also concentrates tannin, acid, flavour and faults, and cuts volume
+B: L'MCR concentra anche tannino e difetti, mentre togliere acqua alza solo lo zucchero || Le MCR concentre aussi tanin et défauts, alors qu'ôter de l'eau n'augmente que le sucre || RCGM also concentrates tannin and faults, while removing water raises only sugar
+C: L'MCR aumenta il volume e diluisce il colore, mentre togliere acqua non cambia il volume || Le MCR augmente le volume et dilue la couleur, ôter de l'eau ne change pas le volume || RCGM increases volume and dilutes colour, while removing water leaves volume unchanged
+D: Togliere acqua è consentito ovunque, l'MCR solo nelle regioni più fredde d'Europa || Ôter de l'eau est permis partout, le MCR seulement dans les régions froides d'Europe || Removing water is allowed everywhere, RCGM only in Europe's coolest regions
+
+@6cc35ce
+A: Solo nelle regioni più calde; la disacidificazione neutralizza l'acido in eccesso con un alcale || Seulement dans les régions chaudes ; la désacidification neutralise l'excès d'acide par un alcali || Only in warmer regions; deacidification neutralises excess acid with an alkali
+B: Solo nelle regioni più fredde; la disacidificazione si fa aggiungendo acido tartarico || Seulement dans les régions froides ; la désacidification se fait en ajoutant de l'acide tartrique || Only in cooler regions; deacidification is done by adding tartaric acid
+C: In tutte le regioni; la disacidificazione si fa diluendo il mosto con acqua || Dans toutes les régions ; la désacidification se fait en diluant le moût avec de l'eau || In all regions; deacidification is done by diluting the must with water
+D: Solo nelle regioni più calde; la disacidificazione si fa aggiungendo MCR || Seulement dans les régions chaudes ; la désacidification se fait en ajoutant du MCR || Only in warmer regions; deacidification is done by adding RCGM
+
+@feec5ac
+A: Ceppi di S. cerevisiae scelti per affidabilità e aromi piacevoli; c'è chi dice che limitino la complessità || Souches de S. cerevisiae choisies pour leur fiabilité et leurs arômes ; certains disent qu'elles limitent la complexité || S. cerevisiae strains chosen for reliability and attractive flavours; some argue they limit complexity
+B: Lieviti selvaggi raccolti in vigna che danno sempre più complessità; non ricevono critiche || Levures sauvages prélevées au vignoble, toujours plus complexes ; elles ne reçoivent aucune critique || Wild yeasts collected in the vineyard that always add complexity; they attract no criticism
+C: Ceppi di Brettanomyces scelti per note animali; c'è chi dice che rendano i vini difettosi || Souches de Brettanomyces choisies pour des notes animales ; certains les jugent défectueuses || Brettanomyces strains chosen for animal notes; some argue they make wines faulty
+D: Ceppi di batteri lattici scelti per la malolattica; c'è chi dice che riducano l'acidità troppo || Souches de bactéries lactiques choisies pour la malolactique ; certains disent qu'elles baissent trop l'acidité || Lactic bacteria strains chosen for malolactic; some argue they lower acidity too much

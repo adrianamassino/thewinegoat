@@ -1,0 +1,76 @@
+"""v5: everything visible at once — content mosaic, real app screenshots, comparison vs alternatives, film & podcast demos."""
+import json, os
+B = os.path.dirname(os.path.abspath(__file__))
+X = {
+'it': {
+ 'all': {'h2': "Tutto quello che trovi in The Wine Goat", 'intro': "Non solo quiz: esercizi di ogni tipo, giochi, film animati, podcast, mappe e strumenti per i tuoi appunti. Tocca un riquadro per provarlo.",
+   'try': "Prova qui", 'open': "Apri nell'app",
+   'tiles': {'quiz': ["Quiz a scelta multipla", "Con spiegazione di ogni risposta"], 'open': ["Domande aperte corrette", "Correzione punto per punto sui punti chiave del libro"],
+     'exam': ["Esame simulato", "Crocette, domande scritte e degustazione a tempo"], 'sat': ["Degustazione SAT", "Note di degustazione con correzione della struttura"],
+     'games': ["Giochi", "Vendemmia, bollicine, vero o falso, abbinamenti…"], 'films': ["Film del vino", "Lezioni animate con voce, mappe e test finale"],
+     'pods': ["Podcast", "Un capitolo per episodio, con il testo da seguire"], 'flash': ["Flashcard", "Domande, termini, cifre e vitigni da girare"],
+     'maps': ["Mappe interattive", "Paesi, regioni e sottoregioni da esplorare"], 'grapes': ["Schede vitigni", "Clima, aromi, stili e regioni di ogni uva"],
+     'dict': ["Dizionario e cifre", "Tutti i termini e i numeri da sapere"], 'logic': ["Logica d'esame e trabocchetti", "Come ragiona l'esaminatore, le trappole classiche"],
+     'notes': ["Appunti a lezione", "Registra la lezione o fotografa le pagine"]},
+   'units': {'films': "film", 'pods': "episodi", 'games': "giochi", 'maps': "mappe", 'grapes': "vitigni", 'flash': "carte", 'dict': "voci", 'logic': "consigli", 'quiz': "quiz", 'open': "domande"}},
+ 'inside': {'h2': "Guarda dentro l'app", 'intro': "Schermate vere, come le vedrai sul telefono.",
+   'caps': {'home': "Il tuo piano di oggi", 'study': "Allenamento per l'esame", 'films': "68 film animati", 'pods': "45 podcast", 'play': "Giochi", 'atlas': "Atlante interattivo", 'notes': "I tuoi appunti"}},
+ 'vs': {'h2': "Perché The Wine Goat vale di più", 'intro': "Le altre risorse per preparare il WSET 3 coprono un solo pezzo. Qui trovi tutto, nella tua lingua.",
+   'cols': ["", "The Wine Goat", "App di quiz", "Esami di prova in PDF", "Libro e appunti"],
+   'rows': [["Quiz a scelta multipla", "✓ oltre 2.000", "✓", "✓", "—"], ["Correzione delle risposte scritte", "✓ immediata", "—", "da soli", "—"],
+     ["Film animati e podcast", "✓ 68 film · 45 podcast", "—", "—", "—"], ["Giochi per memorizzare", "✓ 11 giochi", "a volte", "—", "—"],
+     ["Mappe interattive", "✓ 42 mappe", "—", "—", "su carta"], ["Appunti a lezione e foto", "✓", "—", "—", "a mano"],
+     ["Lingue", "IT · FR · EN", "di solito solo inglese", "inglese", "—"], ["Per iniziare", "Bordeaux gratis", "a pagamento", "a pagamento", "—"]]},
+ 'tabs_add': {'film': "Film", 'pod': "Podcast"},
+ 'film': {'h': "Film del vino", 'p': "Ogni argomento diventa un breve film animato con voce: la potatura, la vinificazione, le regioni con le mappe. Alla fine: le parole chiave e un test.", 'cta': "Guarda i film nell'app", 'mod': "all"},
+ 'pod': {'h': "Podcast: Bordeaux", 'p': "Ascolta un episodio vero. Nell'app trovi tutti i 45 capitoli, con il testo che scorre mentre ascolti.", 'cta': "Tutti i podcast nell'app", 'mod': "bdx"}},
+'fr': {
+ 'all': {'h2': "Tout ce que vous trouvez dans The Wine Goat", 'intro': "Pas seulement des QCM : des exercices de toutes sortes, des jeux, des films animés, des podcasts, des cartes et des outils pour vos notes. Touchez une case pour l'essayer.",
+   'try': "Essayer ici", 'open': "Ouvrir dans l'app",
+   'tiles': {'quiz': ["QCM", "Avec l'explication de chaque réponse"], 'open': ["Questions ouvertes corrigées", "Correction point par point d'après les points clés du livre"],
+     'exam': ["Examen blanc", "QCM, questions rédigées et dégustation chronométrés"], 'sat': ["Dégustation SAT", "Notes de dégustation avec correction de la structure"],
+     'games': ["Jeux", "Vendanges, bulles, vrai ou faux, associations…"], 'films': ["Films du vin", "Leçons animées commentées, cartes et test final"],
+     'pods': ["Podcasts", "Un chapitre par épisode, avec le texte à suivre"], 'flash': ["Flashcards", "Questions, termes, chiffres et cépages à retourner"],
+     'maps': ["Cartes interactives", "Pays, régions et sous-régions à explorer"], 'grapes': ["Fiches cépages", "Climat, arômes, styles et régions de chaque cépage"],
+     'dict': ["Dictionnaire et chiffres", "Tous les termes et les nombres à connaître"], 'logic': ["Logique d'examen et pièges", "Comment raisonne le correcteur, les pièges classiques"],
+     'notes': ["Notes en cours", "Enregistrez le cours ou photographiez vos pages"]},
+   'units': {'films': "films", 'pods': "épisodes", 'games': "jeux", 'maps': "cartes", 'grapes': "cépages", 'flash': "cartes", 'dict': "entrées", 'logic': "conseils", 'quiz': "QCM", 'open': "questions"}},
+ 'inside': {'h2': "Regardez à l'intérieur de l'application", 'intro': "De vrais écrans, tels que vous les verrez sur votre téléphone.",
+   'caps': {'home': "Votre plan du jour", 'study': "Entraînement pour l'examen", 'films': "68 films animés", 'pods': "45 podcasts", 'play': "Jeux", 'atlas': "Atlas interactif", 'notes': "Vos notes"}},
+ 'vs': {'h2': "Pourquoi The Wine Goat vaut plus", 'intro': "Les autres ressources pour préparer le WSET 3 ne couvrent qu'une partie. Ici, vous avez tout, dans votre langue.",
+   'cols': ["", "The Wine Goat", "Applis de QCM", "Annales en PDF", "Livre et notes"],
+   'rows': [["QCM", "✓ plus de 2 000", "✓", "✓", "—"], ["Correction des réponses rédigées", "✓ immédiate", "—", "soi-même", "—"],
+     ["Films animés et podcasts", "✓ 68 films · 45 podcasts", "—", "—", "—"], ["Jeux pour mémoriser", "✓ 11 jeux", "parfois", "—", "—"],
+     ["Cartes interactives", "✓ 42 cartes", "—", "—", "sur papier"], ["Notes en cours et photos", "✓", "—", "—", "à la main"],
+     ["Langues", "FR · IT · EN", "souvent anglais seulement", "anglais", "—"], ["Pour commencer", "Bordeaux gratuit", "payant", "payant", "—"]]},
+ 'tabs_add': {'film': "Films", 'pod': "Podcast"},
+ 'film': {'h': "Films du vin", 'p': "Chaque thème devient un court film animé et commenté : la taille, la vinification, les régions avec leurs cartes. À la fin : les mots clés et un test.", 'cta': "Voir les films dans l'app", 'mod': "all"},
+ 'pod': {'h': "Podcast : Bordeaux", 'p': "Écoutez un vrai épisode. Dans l'application, les 45 chapitres sont disponibles, avec le texte qui défile pendant l'écoute.", 'cta': "Tous les podcasts dans l'app", 'mod': "bdx"}},
+'en': {
+ 'all': {'h2': "Everything inside The Wine Goat", 'intro': "Not just quizzes: every kind of exercise, games, animated films, podcasts, maps and tools for your notes. Tap a tile to try it.",
+   'try': "Try it here", 'open': "Open in the app",
+   'tiles': {'quiz': ["Practice questions", "With an explanation for every answer"], 'open': ["Marked open questions", "Point-by-point marking against the textbook key points"],
+     'exam': ["Mock exam", "Multiple choice, written answers and tasting, timed"], 'sat': ["SAT tasting", "Tasting notes with structure marking"],
+     'games': ["Games", "Harvest, bubbles, true or false, matching…"], 'films': ["Wine films", "Animated narrated lessons, maps and a final test"],
+     'pods': ["Podcasts", "One chapter per episode, with the text to follow"], 'flash': ["Flashcards", "Questions, terms, figures and grapes to flip"],
+     'maps': ["Interactive maps", "Countries, regions and subregions to explore"], 'grapes': ["Grape profiles", "Climate, aromas, styles and regions of every grape"],
+     'dict': ["Dictionary and figures", "Every term and number you need"], 'logic': ["Exam logic and traps", "How examiners think, the classic traps"],
+     'notes': ["Lesson notes", "Record the lesson or photograph your pages"]},
+   'units': {'films': "films", 'pods': "episodes", 'games': "games", 'maps': "maps", 'grapes': "grapes", 'flash': "cards", 'dict': "entries", 'logic': "tips", 'quiz': "questions", 'open': "questions"}},
+ 'inside': {'h2': "Look inside the app", 'intro': "Real screens, exactly as you will see them on your phone.",
+   'caps': {'home': "Your plan for today", 'study': "Exam training", 'films': "68 animated films", 'pods': "45 podcasts", 'play': "Games", 'atlas': "Interactive atlas", 'notes': "Your notes"}},
+ 'vs': {'h2': "Why The Wine Goat is worth more", 'intro': "Other WSET 3 resources cover just one piece. Here you get everything, in your language.",
+   'cols': ["", "The Wine Goat", "Quiz apps", "PDF mock papers", "Book and notes"],
+   'rows': [["Multiple-choice questions", "✓ 2,000+", "✓", "✓", "—"], ["Marking of written answers", "✓ instant", "—", "self-marked", "—"],
+     ["Animated films and podcasts", "✓ 68 films · 45 podcasts", "—", "—", "—"], ["Games to memorise", "✓ 11 games", "sometimes", "—", "—"],
+     ["Interactive maps", "✓ 42 maps", "—", "—", "on paper"], ["Lesson notes and photos", "✓", "—", "—", "by hand"],
+     ["Languages", "EN · IT · FR", "usually English only", "English", "—"], ["To get started", "Bordeaux free", "paid", "paid", "—"]]},
+ 'tabs_add': {'film': "Films", 'pod': "Podcast"},
+ 'film': {'h': "Wine films", 'p': "Every topic becomes a short animated, narrated film: pruning, winemaking, the regions with their maps. At the end: key words and a test.", 'cta': "Watch the films in the app", 'mod': "all"},
+ 'pod': {'h': "Podcast: Bordeaux", 'p': "Listen to a real episode. The app has all 45 chapters, with the text scrolling as you listen.", 'cta': "All podcasts in the app", 'mod': "bdx"}}}
+for c, x in X.items():
+    p = os.path.join(B, 'lang', c + '.json'); d = json.load(open(p, encoding='utf-8'))
+    d['all'] = x['all']; d['inside'] = x['inside']; d['vs'] = x['vs']
+    d['explore']['tabs'].update(x['tabs_add']); d['explore']['film'] = x['film']; d['explore']['pod'] = x['pod']
+    json.dump(d, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print('ok')

@@ -1,0 +1,659 @@
+1: <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+2: <title>WSET 3 Carnet de révision</title>
+3: <meta name="claude:viewport-fit-sides" content="cover">
+4: <link rel="preconnect" href="https://fonts.googleapis.com">
+5: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+6: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+7: <style>
+8: /* Layout: one column study notebook; sticky top bar with tabs; quiz takes over the column. */
+9: :root{
+10:   --bg:#f3f4f1; --surface:#ffffff; --sunk:#e8eae4; --line:#d5d9cf;
+11:   --fg:#1d2320; --muted:#5d6660;
+12:   --accent:#7b1e3a; --accent-soft:#f3e3e8; --on-accent:#ffffff;
+13:   --good:#2f6b3f; --good-soft:#e1efe3; --bad:#b0352b; --bad-soft:#f8e2df; --warn:#9a6a12;
+14:   --sat1:#efe9b8; --sat2:#e2c766; --sat3:#c8932e; --sat4:#9d5a24;
+15:   --f-display:"Newsreader", Georgia, "Times New Roman", serif;
+16:   --f-body:"Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+17:   --f-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+18:   --r:10px;
+19: }
+20: @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+21:   --bg:#141816; --surface:#1d2220; --sunk:#252b28; --line:#343c38;
+22:   --fg:#e7ebe6; --muted:#a0aaa4;
+23:   --accent:#e0809b; --accent-soft:#3a2129; --on-accent:#1a0c11;
+24:   --good:#7fc28f; --good-soft:#1f3326; --bad:#f08b80; --bad-soft:#3b211e; --warn:#e2b55c;
+25:   --sat1:#5f5a2c; --sat2:#8c7a2e; --sat3:#b07f34; --sat4:#c9875a; color-scheme:dark}}
+26: :root[data-theme="dark"]{
+27:   --bg:#141816; --surface:#1d2220; --sunk:#252b28; --line:#343c38;
+28:   --fg:#e7ebe6; --muted:#a0aaa4;
+29:   --accent:#e0809b; --accent-soft:#3a2129; --on-accent:#1a0c11;
+30:   --good:#7fc28f; --good-soft:#1f3326; --bad:#f08b80; --bad-soft:#3b211e; --warn:#e2b55c;
+31:   --sat1:#5f5a2c; --sat2:#8c7a2e; --sat3:#b07f34; --sat4:#c9875a; color-scheme:dark}
+32: *{box-sizing:border-box}
+33: body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.5;
+34:   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+35: body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+36: .wrap{max-width:820px;margin:0 auto;padding-block:0 64px}
+37: h1,h2,h3{font-family:var(--f-display);font-weight:600;text-wrap:balance;margin:0;line-height:1.15}
+38: h1{font-size:1.7rem} h2{font-size:1.35rem} h3{font-size:1.08rem}
+39: button{font:inherit;color:inherit;cursor:pointer}
+40: button:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+41: .mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+42: .muted{color:var(--muted)}
+43: .label{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+44: 
+45: /* top bar */
+46: .top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);margin-bottom:22px}
+47: .top-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-block:14px 8px}
+48: .brand{display:flex;flex-direction:column;flex:1;min-width:0}
+49: .brand h1{font-size:1.35rem}
+50: .brand small{color:var(--muted);font-size:.8rem}
+51: .langs{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--surface)}
+52: .langs button{border:0;background:none;padding:5px 11px;font-size:.8rem;font-weight:600;letter-spacing:.04em}
+53: .langs button[aria-pressed="true"]{background:var(--accent);color:var(--on-accent)}
+54: .sync{font-size:.75rem;display:flex;align-items:center;gap:6px;color:var(--muted);width:100%}
+55: .dot{width:8px;height:8px;border-radius:50%;background:var(--warn);flex:none}
+56: .dot.ok{background:var(--good)} .dot.err{background:var(--bad)}
+57: nav.tabs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+58: nav.tabs button{border:0;background:none;padding:10px 12px;font-weight:600;font-size:.88rem;color:var(--muted);border-bottom:2px solid transparent;white-space:nowrap;display:flex;gap:6px;align-items:center}
+59: nav.tabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+60: .badge{background:var(--bad);color:var(--surface);border-radius:999px;font-size:.7rem;padding:1px 7px;font-family:var(--f-mono)}
+61: .badge:empty{display:none}
+62: 
+63: section.view{display:flex;flex-direction:column;gap:20px}
+64: .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+65: .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+66: .stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:12px 14px;display:flex;flex-direction:column;gap:2px}
+67: .stat b{font-family:var(--f-display);font-size:1.7rem;font-weight:600;font-variant-numeric:tabular-nums}
+68: .stat.alert b{color:var(--bad)}
+69: @media (max-width:620px){.stats{grid-template-columns:repeat(2,1fr)}}
+70: 
+71: .btn{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:9px 14px;font-weight:600;font-size:.9rem}
+72: .btn:hover{border-color:var(--accent)}
+73: .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+74: .btn.ghost{background:none}
+75: .btn:disabled{opacity:.45;cursor:not-allowed}
+76: .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+77: 
+78: /* chapters */
+79: .groups{display:flex;flex-direction:column;gap:18px}
+80: .group h3{margin-bottom:8px}
+81: .chaps{display:grid;grid-template-columns:1fr 1fr;gap:6px 18px}
+82: @media (max-width:620px){.chaps{grid-template-columns:1fr}}
+83: .chap{display:grid;grid-template-columns:auto 1fr auto;gap:4px 10px;align-items:center;padding:8px 10px;border-radius:8px;border:1px solid transparent;background:none;text-align:left;width:100%}
+84: .chap:hover{background:var(--sunk)}
+85: .chap input{margin:0;accent-color:var(--accent)}
+86: .chap .nm{min-width:0;font-weight:500}
+87: .tag.hard{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+88: .chap .ct{font-size:.75rem;color:var(--muted)}
+89: .meter{grid-column:2 / 4;height:6px;border-radius:3px;background:var(--sunk);overflow:hidden;display:flex}
+90: .meter i{display:block;height:100%}
+91: .scale{display:flex;gap:14px;flex-wrap:wrap;font-size:.75rem;color:var(--muted);align-items:center}
+92: .scale span{display:flex;align-items:center;gap:5px}
+93: .scale i{width:14px;height:8px;border-radius:2px;display:inline-block}
+94: 
+95: .opts{display:flex;flex-wrap:wrap;gap:12px 22px;align-items:center}
+96: .opts label{display:flex;gap:6px;align-items:center;font-size:.9rem}
+97: select{font:inherit;padding:6px 8px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+98: 
+99: /* quiz */
+100: .qhead{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
+101: .prog{height:4px;background:var(--sunk);border-radius:2px;overflow:hidden}
+102: .prog i{display:block;height:100%;background:var(--accent);transition:width .25s}
+103: .qtext{font-family:var(--f-display);font-size:1.3rem;line-height:1.35;max-width:65ch;font-weight:400}
+104: .choices{display:flex;flex-direction:column;gap:8px}
+105: .choice{display:flex;gap:12px;text-align:left;align-items:flex-start;border:1px solid var(--line);background:var(--surface);border-radius:9px;padding:12px 14px;width:100%}
+106: .choice:hover:not(:disabled){border-color:var(--accent)}
+107: .choice .k{font-family:var(--f-mono);font-size:.8rem;border:1px solid var(--line);border-radius:5px;padding:0 6px;color:var(--muted);flex:none;margin-top:2px}
+108: .choice.ok{border-color:var(--good);background:var(--good-soft)}
+109: .choice.no{border-color:var(--bad);background:var(--bad-soft)}
+110: .choice.sel{border-color:var(--accent);background:var(--accent-soft)}
+111: .choice:disabled{cursor:default}
+112: .expl{border-left:3px solid var(--accent);white-space:pre-line;padding:4px 0 4px 14px;display:flex;flex-direction:column;gap:6px;max-width:68ch}
+113: .expl.fb{border-radius:0 8px 8px 0;padding:12px 14px}
+114: .expl.fb.ok{border-left-color:var(--good);background:var(--good-soft)}
+115: .expl.fb.no{border-left-color:var(--bad);background:var(--bad-soft)}
+116: .chat{border:1px solid var(--line);border-radius:var(--r);background:var(--sunk);padding:14px;display:flex;flex-direction:column;gap:10px;max-width:68ch}
+117: .chat-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+118: .chat .small{font-size:.8rem;margin:0}
+119: .msgs{display:flex;flex-direction:column;gap:8px}
+120: .msgs:empty{display:none}
+121: .msg{display:flex;flex-direction:column;gap:3px;border-radius:9px;padding:9px 12px;max-width:100%}
+122: .msg.u{background:var(--accent-soft);align-self:flex-end;max-width:88%}
+123: .msg.a{background:var(--surface);border:1px solid var(--line)}
+124: .msg .who{font-size:.7rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+125: .msg .mt{font-size:.92rem;line-height:1.5;overflow-wrap:anywhere}
+126: .msg .mt p{margin:0 0 6px}.msg .mt p:last-child{margin:0}
+127: .msg .mt ul{margin:2px 0 6px;padding-left:20px}
+128: .sugg{display:flex;flex-wrap:wrap;gap:6px}
+129: .chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 11px;font-size:.82rem;text-align:left}
+130: .chip:hover{border-color:var(--accent)}
+131: .chat-in{display:flex;gap:8px;align-items:flex-end}
+132: .chat-in textarea{flex:1;min-width:0;resize:vertical;font:inherit;font-size:.92rem;border:1px solid var(--line);border-radius:8px;padding:9px 11px;background:var(--surface);color:var(--fg)}
+133: .chat-in textarea:focus{outline:2px solid var(--accent);outline-offset:0;border-color:var(--accent)}
+134: .chat-err{color:var(--bad)}.chat-err:empty{display:none}
+135: .tag.chat-t{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+136: .verdict{font-weight:700;font-size:1.05rem}
+137: .verdict.ok{color:var(--good)} .verdict.no{color:var(--bad)}
+138: .pref{font-family:var(--f-mono);font-size:.78rem;color:var(--muted)}
+139: .tag{display:inline-block;font-size:.72rem;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--sunk);color:var(--muted)}
+140: .tag.active{background:var(--bad-soft);color:var(--bad)}
+141: .tag.fixed{background:var(--good-soft);color:var(--good)}
+142: 
+143: .result-score{font-family:var(--f-display);font-size:3rem;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+144: .pass{color:var(--good)} .fail{color:var(--bad)}
+145: 
+146: /* errors list */
+147: .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+148: .seg{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+149: .seg button{border:0;background:var(--surface);padding:7px 12px;font-size:.85rem;font-weight:600}
+150: .seg button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+151: .elist{display:flex;flex-direction:column;gap:8px}
+152: details.err{background:var(--surface);border:1px solid var(--line);border-radius:9px}
+153: details.err.on{border-left:4px solid var(--bad)}
+154: details.err.off{border-left:4px solid var(--good)}
+155: details.err summary{list-style:none;padding:12px 14px;cursor:pointer;display:flex;flex-direction:column;gap:6px}
+156: details.err summary::-webkit-details-marker{display:none}
+157: .emeta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:.78rem;color:var(--muted)}
+158: .ebody{padding:0 14px 14px;display:flex;flex-direction:column;gap:10px}
+159: .ans{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;font-size:.92rem}
+160: .ans dt{font-weight:600;color:var(--muted)} .ans dd{margin:0;min-width:0}
+161: .ans .g{color:var(--good)} .ans .b{color:var(--bad);text-decoration:line-through;text-decoration-thickness:1px}
+162: .empty{padding:28px 18px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:var(--r)}
+163: 
+164: .tbl{overflow-x:auto}
+165: table{border-collapse:collapse;width:100%;font-size:.88rem}
+166: th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+167: th{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+168: td.num{font-family:var(--f-mono);text-align:right}
+169: .confirm{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:.88rem}
+170: @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+171: </style>
+172: 
+173: <div class="wrap">
+174:   <header class="top">
+175:     <div class="top-row">
+176:       <div class="brand"><h1 id="t-title">WSET 3</h1><small id="t-sub"></small></div>
+177:       <div class="langs" role="group" aria-label="Langue">
+178:         <button id="lang-fr" data-l="fr">FR</button><button id="lang-it" data-l="it">IT</button><button id="lang-en" data-l="en">EN</button>
+179:       </div>
+180:       <div class="sync"><span class="dot" id="sync-dot"></span><span id="sync-txt"></span></div>
+181:     </div>
+182:     <nav class="tabs" role="tablist">
+183:       <button role="tab" id="tab-home" data-v="home"></button>
+184:       <button role="tab" id="tab-practice" data-v="practice"></button>
+185:       <button role="tab" id="tab-exam" data-v="exam"></button>
+186:       <button role="tab" id="tab-errors" data-v="errors"><span></span><span class="badge" id="err-badge"></span></button>
+187:       <button role="tab" id="tab-history" data-v="history"></button>
+188:     </nav>
+189:   </header>
+190:   <main id="main"></main>
+191: </div>
+192: 
+193: <script>
+194: const BANK = [{"id":"b255f9a","c":"deg","p":1,"q":["Quali sono le due capacità fondamentali che il SAT vuole sviluppare?","Quelles sont les deux compétences fondamentales que l'approche systématique veut développer ?","What two fundamental skills is the SAT designed to develop?"],"o":[["Descrivere u ...[2523584]
+195: const CH = {"deg": {"fr": "Dégustation (SAT)", "it": "Degustazione (SAT)", "en": "Tasting (SAT)"}, "cib": {"fr": "Accords mets et vins", "it": "Cibo e vino", "en": "Food and wine"}, "srv": {"fr": "Conservation et service", "it": "Conservazione e servizio", "en": "Storage and service"}, "vig": {"fr": ...[2416]
+196: const GROUPS = [{"k": "t", "n": {"fr": "Dégustation, accords et service", "it": "Degustazione, abbinamenti e servizio", "en": "Tasting, food and service"}, "c": ["deg", "cib", "srv"]}, {"k": "f", "n": {"fr": "Facteurs de production", "it": "Fattori di produzione", "en": "Production factors"}, "c": [ ...[796]
+197: const LI = {it:0, fr:1, en:2};
+198: 
+199: const T = {
+200: fr:{title:"Carnet de révision WSET 3",sub:"{N} questions tirées uniquement du manuel « Understanding Wines »",
+201:  home:"Tableau de bord",practice:"S'entraîner",exam:"Examen blanc",errors:"Mes erreurs",history:"Historique",
+202:  syncOk:"Connecté · progression enregistrée dans votre compte",syncLocal:"Non connecté · progression gardée dans ce navigateur uniquement",syncWait:"Connexion au compte…",syncErr:"Échec de l'enregistrement en ligne · nouvel essai automatique",
+203:  seen:"Questions vues",acc:"Taux de réussite",active:"Erreurs à corriger",sessions:"Sessions",
+204:  mastery:"Maîtrise par chapitre",masteryHint:"Une question est maîtrisée quand vous y avez répondu juste et qu'elle n'est pas dans vos erreurs à corriger. Cliquez sur un chapitre pour lancer 10 questions.",
+205:  pale:"0–24 %",med:"25–49 %",deep:"50–74 %",full:"75–100 %",
+206:  choose:"Choisissez les chapitres",all:"Tout",none:"Rien",count:"Nombre de questions",newFirst:"Nouvelles questions d'abord",start:"Commencer",lvl:"Niveau",lvAll:"Toutes",lvHard:"Avancées seulement",lvBase:"Base seulement",hard:"Avancée",
+207:  examIntro:"50 questions réparties comme l'examen : 8 sur les facteurs de production, 28 sur les vins tranquilles du monde, 5 sur les effervescents, 5 sur les vins mutés, 4 sur la dégustation, les accords et le service. Seuil de réussite : 55 %. La correction et l'explication s'affichent après chaque réponse, le score à la fin.",
+208:  startExam:"Lancer l'examen blanc",
+209:  q:"Question",of:"sur",next:"Suivante",finish:"Terminer",quit:"Quitter",right:"Bonne réponse.",wrong:"Mauvaise réponse.",correctIs:"Bonne réponse :",page:"Manuel, p.",
+210:  score:"Score",passed:"Réussi",failed:"Non réussi",passMark:"seuil 55 %",review:"Revoir les réponses",again:"Recommencer",toErrors:"Voir mes erreurs",back:"Retour",
+211:  errIntro:"Toutes vos erreurs restent ici avec leur explication. Une erreur passe en « corrigée » dès que vous répondez juste à la question ; elle sort alors des révisions, mais reste dans l'historique. Si vous vous trompez à nouveau, elle redevient « à corriger ».",
+212:  fActive:"À corriger",fFixed:"Corrigées",fAll:"Toutes",allCh:"Tous les chapitres",
+213:  reviewActive:"Réviser les erreurs à corriger",reviewAll:"Refaire toutes mes erreurs",
+214:  times:"erreur(s)",last:"dernière",first:"première",fixedOn:"corrigée le",yourAns:"Votre réponse",goodAns:"Bonne réponse",expl:"Explication",
+215:  noErr:"Aucune erreur dans ce filtre.",noErrYet:"Pas encore d'erreurs. Elles apparaîtront ici après votre premier quiz.",
+216:  hDate:"Date",hMode:"Mode",hScope:"Contenu",hScore:"Score",noHist:"Aucune session pour l'instant.",
+217:  mPractice:"Entraînement",mExam:"Examen blanc",mErrors:"Révision des erreurs",mChapter:"Chapitre",
+218:  resetQ:"Effacer toute ma progression",resetSure:"Tout effacer ? Cette action est définitive.",yes:"Oui, effacer",no:"Annuler",
+219:  account:"Compte",accountTxt:"Votre compte est votre connexion claude.ai : la progression est liée à votre profil et visible uniquement par vous, sur tous vos appareils.",
+220:  accountLocal:"Ouvrez cette page connecté à claude.ai pour enregistrer la progression dans votre compte. En attendant, elle est gardée dans ce navigateur.",
+221:  noneSel:"Sélectionnez au moins un chapitre.",exItems:"chapitres",of2:"/",resumeHint:"Raccourcis : touches 1 à 4 pour répondre, Entrée pour continuer."},
+222: it:{title:"Quaderno di ripasso WSET 3",sub:"{N} domande tratte solo dal manuale «Understanding Wines»",
+223:  home:"Riepilogo",practice:"Esercitati",exam:"Simulazione d'esame",errors:"I miei errori",history:"Storico",
+224:  syncOk:"Connessa · progressi salvati nel tuo account",syncLocal:"Non connessa · progressi salvati solo in questo browser",syncWait:"Connessione all'account…",syncErr:"Salvataggio online non riuscito · nuovo tentativo automatico",
+225:  seen:"Domande viste",acc:"Percentuale corrette",active:"Errori da correggere",sessions:"Sessioni",
+226:  mastery:"Padronanza per capitolo",masteryHint:"Una domanda è padroneggiata quando hai risposto giusto e non è tra gli errori da correggere. Clicca un capitolo per 10 domande.",
+227:  pale:"0–24 %",med:"25–49 %",deep:"50–74 %",full:"75–100 %",
+228:  choose:"Scegli i capitoli",all:"Tutti",none:"Nessuno",count:"Numero di domande",newFirst:"Prima le domande nuove",start:"Inizia",lvl:"Livello",lvAll:"Tutte",lvHard:"Solo avanzate",lvBase:"Solo base",hard:"Avanzata",
+229:  examIntro:"50 domande distribuite come all'esame: 8 sui fattori di produzione, 28 sui vini fermi del mondo, 5 sugli spumanti, 5 sui fortificati, 4 su degustazione, abbinamenti e servizio. Soglia: 55%. Correzione e spiegazione appaiono dopo ogni risposta, il punteggio alla fine.",
+230:  startExam:"Avvia la simulazione",
+231:  q:"Domanda",of:"di",next:"Avanti",finish:"Termina",quit:"Esci",right:"Risposta giusta.",wrong:"Risposta sbagliata.",correctIs:"Risposta giusta:",page:"Manuale, p.",
+232:  score:"Punteggio",passed:"Superato",failed:"Non superato",passMark:"soglia 55%",review:"Rivedi le risposte",again:"Ricomincia",toErrors:"Vai ai miei errori",back:"Indietro",
+233:  errIntro:"Tutti i tuoi errori restano qui con la spiegazione. Un errore diventa «corretto» appena rispondi giusto alla domanda: esce dai ripassi ma resta nello storico. Se sbagli di nuovo torna «da correggere».",
+234:  fActive:"Da correggere",fFixed:"Corretti",fAll:"Tutti",allCh:"Tutti i capitoli",
+235:  reviewActive:"Ripassa gli errori da correggere",reviewAll:"Rifai tutti i miei errori",
+236:  times:"errore/i",last:"ultimo",first:"primo",fixedOn:"corretto il",yourAns:"La tua risposta",goodAns:"Risposta giusta",expl:"Spiegazione",
+237:  noErr:"Nessun errore in questo filtro.",noErrYet:"Ancora nessun errore. Compariranno qui dopo il primo quiz.",
+238:  hDate:"Data",hMode:"Modalità",hScope:"Contenuto",hScore:"Punteggio",noHist:"Nessuna sessione per ora.",
+239:  mPractice:"Esercizio",mExam:"Simulazione",mErrors:"Ripasso errori",mChapter:"Capitolo",
+240:  resetQ:"Cancella tutti i miei progressi",resetSure:"Cancellare tutto? L'azione è definitiva.",yes:"Sì, cancella",no:"Annulla",
+241:  account:"Account",accountTxt:"Il tuo account è il tuo accesso a claude.ai: i progressi sono legati al tuo profilo, visibili solo a te, su tutti i dispositivi.",
+242:  accountLocal:"Apri questa pagina con l'accesso a claude.ai per salvare i progressi nel tuo account. Nel frattempo restano in questo browser.",
+243:  noneSel:"Seleziona almeno un capitolo.",exItems:"capitoli",of2:"/",resumeHint:"Scorciatoie: tasti da 1 a 4 per rispondere, Invio per continuare."},
+244: en:{title:"WSET 3 Revision Notebook",sub:"{N} questions drawn only from the 'Understanding Wines' textbook",
+245:  home:"Dashboard",practice:"Practise",exam:"Mock exam",errors:"My mistakes",history:"History",
+246:  syncOk:"Signed in · progress saved to your account",syncLocal:"Not signed in · progress kept in this browser only",syncWait:"Connecting to your account…",syncErr:"Online save failed · retrying automatically",
+247:  seen:"Questions seen",acc:"Accuracy",active:"Mistakes to fix",sessions:"Sessions",
+248:  mastery:"Mastery by chapter",masteryHint:"A question is mastered once you have answered it correctly and it is not among your mistakes to fix. Click a chapter for 10 questions.",
+249:  pale:"0–24%",med:"25–49%",deep:"50–74%",full:"75–100%",
+250:  choose:"Choose chapters",all:"All",none:"None",count:"Number of questions",newFirst:"New questions first",start:"Start",lvl:"Level",lvAll:"All",lvHard:"Advanced only",lvBase:"Core only",hard:"Advanced",
+251:  examIntro:"50 questions split like the exam: 8 on production factors, 28 on still wines of the world, 5 on sparkling, 5 on fortified, 4 on tasting, food pairing and service. Pass mark: 55%. The correction and explanation appear after each answer, the score at the end.",
+252:  startExam:"Start the mock exam",
+253:  q:"Question",of:"of",next:"Next",finish:"Finish",quit:"Quit",right:"Correct.",wrong:"Incorrect.",correctIs:"Correct answer:",page:"Textbook, p.",
+254:  score:"Score",passed:"Pass",failed:"Fail",passMark:"pass mark 55%",review:"Review answers",again:"Start again",toErrors:"See my mistakes",back:"Back",
+255:  errIntro:"Every mistake stays here with its explanation. A mistake is marked fixed as soon as you answer that question correctly; it then leaves your reviews but stays in the history. Get it wrong again and it goes back to 'to fix'.",
+256:  fActive:"To fix",fFixed:"Fixed",fAll:"All",allCh:"All chapters",
+257:  reviewActive:"Review mistakes to fix",reviewAll:"Redo all my mistakes",
+258:  times:"mistake(s)",last:"last",first:"first",fixedOn:"fixed on",yourAns:"Your answer",goodAns:"Correct answer",expl:"Explanation",
+259:  noErr:"No mistakes in this filter.",noErrYet:"No mistakes yet. They will appear here after your first quiz.",
+260:  hDate:"Date",hMode:"Mode",hScope:"Content",hScore:"Score",noHist:"No sessions yet.",
+261:  mPractice:"Practice",mExam:"Mock exam",mErrors:"Mistake review",mChapter:"Chapter",
+262:  resetQ:"Erase all my progress",resetSure:"Erase everything? This cannot be undone.",yes:"Yes, erase",no:"Cancel",
+263:  account:"Account",accountTxt:"Your account is your claude.ai sign-in: progress is tied to your profile, visible only to you, on every device.",
+264:  accountLocal:"Open this page signed in to claude.ai to save progress to your account. Until then it stays in this browser.",
+265:  noneSel:"Select at least one chapter.",exItems:"chapters",of2:"/",resumeHint:"Shortcuts: keys 1 to 4 to answer, Enter to continue."}
+266: };
+267: 
+268: Object.assign(T.it,{chatTitle:"Approfondisci con l'IA",chatHint:"Chiedi quello che vuoi su questo argomento, che tu abbia risposto bene o male. La conversazione resta salvata insieme alla domanda. Invio per inviare, Maiusc+Invio per andare a capo.",chatPh:"Scrivi la tua domanda…",send:"Invia",stop:" ...[826]
+269: Object.assign(T.fr,{chatTitle:"Approfondir avec l'IA",chatHint:"Posez toutes vos questions sur ce sujet, que vous ayez répondu juste ou non. La conversation reste enregistrée avec la question. Entrée pour envoyer, Maj+Entrée pour aller à la ligne.",chatPh:"Écrivez votre question…",send:"Envoyer",sto ...[870]
+270: Object.assign(T.en,{chatTitle:"Dig deeper with AI",chatHint:"Ask anything about this topic, whether you got it right or wrong. The conversation stays saved with the question. Enter to send, Shift+Enter for a new line.",chatPh:"Type your question…",send:"Send",stop:"Stop",thinking:"Thinking…",chatOff ...[738]
+271: 
+272: /* ---------- state ---------- */
+273: const LSK="wset3-progress-v1", LSL="wset3-lang";
+274: function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+275: function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+276: let lang = lsGet(LSL)||"fr"; if(!T[lang]) lang="fr";
+277: const t = k => T[lang][k] ?? k;
+278: const L = () => LI[lang];
+279: function blank(){return {v:1,q:{},e:{},s:[]}}
+280: let P = (()=>{try{const x=JSON.parse(lsGet(LSK)||"null");return x&&x.v===1?x:blank()}catch(e){return blank()}})();
+281: const BY = {}; BANK.forEach(b=>BY[b.id]=b);
+282: let view="home", quiz=null, errFilter="active", errCh="", docRef=null, syncState="wait";
+283: 
+284: /* ---------- persistence ---------- */
+285: let saveTimer=null, saving=false, dirty=false;
+286: function trim(){ if(P.s.length>300) P.s=P.s.slice(-300); }
+287: function save(){ trim(); lsSet(LSK,JSON.stringify(P)); dirty=true; clearTimeout(saveTimer); saveTimer=setTimeout(flush,1200); }
+288: async function flush(){
+289:   if(!docRef) return;
+290:   if(saving){ return; }
+291:   if(!dirty) return;
+292:   saving=true; dirty=false;
+293:   try{ await docRef.set(JSON.parse(JSON.stringify(P))); setSync("ok"); }
+294:   catch(e){ dirty=true; setSync("err"); setTimeout(flush,8000); }
+295:   saving=false;
+296:   if(dirty){ clearTimeout(saveTimer); saveTimer=setTimeout(flush,600); }
+297: }
+298: function merge(a,b){
+299:   const m=blank();
+300:   const ids=new Set([...Object.keys(a.q||{}),...Object.keys(b.q||{})]);
+301:   ids.forEach(id=>{const x=(a.q||{})[id]||[0,0,0],y=(b.q||{})[id]||[0,0,0]; m.q[id]=(x[0]>=y[0]?x:y);});
+302:   const eids=new Set([...Object.keys(a.e||{}),...Object.keys(b.e||{})]);
+303:   eids.forEach(id=>{const x=(a.e||{})[id],y=(b.e||{})[id]; if(!x){m.e[id]=y;return} if(!y){m.e[id]=x;return}
+304:     const lx=Math.max(x.l||0,x.rt||0), ly=Math.max(y.l||0,y.rt||0); m.e[id]=lx>=ly?x:y;});
+305:   const seen=new Set(); m.s=[...(a.s||[]),...(b.s||[])].filter(s=>{if(seen.has(s.t))return false;seen.add(s.t);return true}).sort((x,y)=>x.t-y.t);
+306:   return m;
+307: }
+308: function setSync(s){syncState=s;const d=document.getElementById("sync-dot"),x=document.getElementById("sync-txt");
+309:   d.className="dot"+(s==="ok"?" ok":s==="err"?" err":"");
+310:   x.textContent=t(s==="ok"?"syncOk":s==="err"?"syncErr":s==="local"?"syncLocal":"syncWait");}
+311: async function connect(){
+312:   setSync("wait");
+313:   try{
+314:     if(!window.claude||!window.claude.use){setSync("local");return}
+315:     const [db,user]=await Promise.all([window.claude.use("db"),window.claude.use("user")]);
+316:     if(!db||!user){setSync("local");if(view==="home")render();return}
+317:     const uid=await user.id();
+318:     if(!uid){setSync("local");if(view==="home")render();return}
+319:     docRef=db.doc("data/users/"+uid+"/progress");
+320:     chatCol=db.collection("data/users/"+uid); loadChats();
+321:     const snap=await docRef.get();
+322:     if(snap.exists){ const r=snap.data(); if(r&&r.v===1){ P=merge(r,P); } }
+323:     lsSet(LSK,JSON.stringify(P)); setSync("ok");
+324:     dirty=true; flush();
+325:     if(!quiz) render(); else updateBadge();
+326:   }catch(e){ docRef=null; setSync("local"); }
+327: }
+328: 
+329: /* ---------- recording ---------- */
+330: function record(id, okAns, pickedOrig){
+331:   const now=Date.now();
+332:   const q=P.q[id]||[0,0,0]; q[0]++; if(okAns) q[1]++; q[2]=now; P.q[id]=q;
+333:   const e=P.e[id];
+334:   if(!okAns){
+335:     if(e){ e.n++; e.l=now; e.r=0; delete e.rt; e.w=pickedOrig; }
+336:     else P.e[id]={n:1,f:now,l:now,r:0,w:pickedOrig};
+337:   } else if(e && !e.r){ e.r=1; e.rt=now; }
+338:   save();
+339: }
+340: const activeErrs=()=>Object.keys(P.e).filter(id=>!P.e[id].r&&BY[id]);
+341: 
+342: /* ---------- helpers ---------- */
+343: function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+344: const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+345: const chName=c=>CH[c]?CH[c][lang]:c;
+346: const fmtD=ts=>new Date(ts).toLocaleDateString(lang==="en"?"en-GB":lang==="it"?"it-IT":"fr-FR",{day:"2-digit",month:"short",year:"numeric"});
+347: const fmtDT=ts=>new Date(ts).toLocaleString(lang==="en"?"en-GB":lang==="it"?"it-IT":"fr-FR",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"});
+348: function chStats(c){const qs=BANK.filter(b=>b.c===c);let m=0;qs.forEach(b=>{const q=P.q[b.id];if(q&&q[1]>0&&!(P.e[b.id]&&!P.e[b.id].r))m++});return {n:qs.length,m}}
+349: function satColor(p){return p<.25?"var(--sat1)":p<.5?"var(--sat2)":p<.75?"var(--sat3)":"var(--sat4)"}
+350: const $=s=>document.querySelector(s);
+351: 
+352: /* ---------- chrome ---------- */
+353: function chrome(){
+354:   document.documentElement.lang=lang;
+355:   $("#t-title").textContent=t("title"); $("#t-sub").textContent=t("sub").replace("{N}",BANK.length.toLocaleString(lang==="en"?"en-GB":lang==="fr"?"fr-FR":"it-IT"));
+356:   ["fr","it","en"].forEach(l=>$("#lang-"+l).setAttribute("aria-pressed",l===lang));
+357:   ["home","practice","exam","history"].forEach(v=>$("#tab-"+v).textContent=t(v));
+358:   $("#tab-errors span").textContent=t("errors");
+359:   document.querySelectorAll("nav.tabs button").forEach(b=>b.setAttribute("aria-selected",!quiz&&b.dataset.v===view));
+360:   updateBadge(); setSync(syncState);
+361: }
+362: function updateBadge(){const n=activeErrs().length;$("#err-badge").textContent=n?String(n):""}
+363: 
+364: function render(){ chrome(); const m=$("#main");
+365:   if(quiz){ m.innerHTML=quiz.done?renderResult():renderQ(); bindQuiz(); return }
+366:   m.innerHTML={home:renderHome,practice:renderPractice,exam:renderExam,errors:renderErrors,history:renderHistory}[view]();
+367:   bindView(); window.scrollTo(0,0);
+368: }
+369: 
+370: /* ---------- views ---------- */
+371: function meter(p){return `<span class="meter" aria-hidden="true"><i style="width:${Math.round(p*100)}%;background:${satColor(p)}"></i></span>`}
+372: function scaleLegend(){return `<div class="scale"><span><i style="background:var(--sat1)"></i>${t("pale")}</span><span><i style="background:var(--sat2)"></i>${t("med")}</span><span><i style="background:var(--sat3)"></i>${t("deep")}</span><span><i style="background:var(--sat4)"></i>${t("full")}</span></div>`}
+373: function renderHome(){
+374:   const seen=Object.keys(P.q).filter(id=>BY[id]).length;
+375:   let a=0,c=0; Object.keys(P.q).forEach(id=>{if(BY[id]){a+=P.q[id][0];c+=P.q[id][1]}});
+376:   const ae=activeErrs().length;
+377:   const groups=GROUPS.map(g=>`<div class="group"><h3>${esc(g.n[lang])}</h3><div class="chaps">${g.c.map(ch=>{const s=chStats(ch);const p=s.n?s.m/s.n:0;
+378:     return `<button class="chap" data-start="${ch}"><span></span><span class="nm">${esc(chName(ch))}</span><span class="ct mono">${s.m}/${s.n}</span>${meter(p)}</button>`}).join("")}</div></div>`).join("");
+379:   return `<section class="view">
+380:   <div class="stats">
+381:     <div class="stat"><span class="label">${t("seen")}</span><b>${seen}<span class="muted" style="font-size:1rem"> / ${BANK.length}</span></b></div>
+382:     <div class="stat"><span class="label">${t("acc")}</span><b>${a?Math.round(c/a*100)+" %":"–"}</b></div>
+383:     <div class="stat ${ae?"alert":""}"><span class="label">${t("active")}</span><b>${ae}</b></div>
+384:     <div class="stat"><span class="label">${t("sessions")}</span><b>${P.s.length}</b></div>
+385:   </div>
+386:   ${ae?`<div class="row"><button class="btn primary" id="go-review">${t("reviewActive")} (${ae})</button></div>`:""}
+387:   <div class="card"><div class="row" style="justify-content:space-between;margin-bottom:6px"><h2>${t("mastery")}</h2>${scaleLegend()}</div>
+388:   <p class="muted" style="margin:0 0 14px;font-size:.88rem">${t("masteryHint")}</p><div class="groups">${groups}</div></div>
+389:   <div class="card"><h3>${t("account")}</h3><p class="muted" style="margin:6px 0 12px;font-size:.9rem;max-width:65ch">${docRef?t("accountTxt"):t("accountLocal")}</p>
+390:   <div id="reset-zone"><button class="btn ghost" id="reset">${t("resetQ")}</button></div></div>
+391:   </section>`;
+392: }
+393: let pSel=null, pLvl="a";
+394: function renderPractice(){
+395:   if(!pSel) pSel=new Set(Object.keys(CH));
+396:   const groups=GROUPS.map(g=>`<div class="group"><div class="row" style="justify-content:space-between"><h3>${esc(g.n[lang])}</h3></div><div class="chaps">${g.c.map(ch=>{const s=chStats(ch);
+397:     return `<label class="chap"><input type="checkbox" id="cb-${ch}" data-ch="${ch}" ${pSel.has(ch)?"checked":""}><span class="nm">${esc(chName(ch))}</span><span class="ct mono">${s.n}</span>${meter(s.n?s.m/s.n:0)}</label>`}).join("")}</div></div>`).join("");
+398:   const n=BANK.filter(b=>pSel.has(b.c)&&lvOk(b)).length;
+399:   return `<section class="view"><div class="card">
+400:   <div class="row" style="justify-content:space-between;margin-bottom:12px"><h2>${t("choose")}</h2><div class="row"><button class="btn ghost" id="sel-all">${t("all")}</button><button class="btn ghost" id="sel-none">${t("none")}</button></div></div>
+401:   <div class="groups">${groups}</div></div>
+402:   <div class="card"><div class="opts">
+403:    <label>${t("count")} <select id="p-count"><option>10</option><option selected>20</option><option>30</option><option>50</option><option value="0">${t("all")} (${n})</option></select></label>
+404:    <label>${t("lvl")} <select id="p-lvl"><option value="a" ${pLvl==="a"?"selected":""}>${t("lvAll")}</option><option value="h" ${pLvl==="h"?"selected":""}>${t("lvHard")}</option><option value="b" ${pLvl==="b"?"selected":""}>${t("lvBase")}</option></select></label>
+405:    <label><input type="checkbox" id="p-new" checked> ${t("newFirst")}</label>
+406:    <button class="btn primary" id="p-start" ${n?"":"disabled"}>${t("start")}</button>
+407:   </div><p class="muted" id="p-msg" style="margin:10px 0 0;font-size:.85rem">${n?`${n} questions · ${pSel.size} ${t("exItems")}`:t("noneSel")}</p></div></section>`;
+408: }
+409: function renderExam(){
+410:   return `<section class="view"><div class="card"><h2>${t("exam")}</h2><p style="max-width:65ch">${t("examIntro")}</p>
+411:   <button class="btn primary" id="exam-start">${t("startExam")}</button></div>
+412:   ${examHistory()}</section>`;
+413: }
+414: function examHistory(){const ex=P.s.filter(s=>s.m==="exam").slice(-8).reverse(); if(!ex.length) return "";
+415:   return `<div class="card"><h3>${t("history")}</h3><div class="tbl"><table><tr><th>${t("hDate")}</th><th style="text-align:right">${t("hScore")}</th><th></th></tr>${ex.map(s=>{const p=Math.round(s.c/s.n*100);return `<tr><td>${fmtDT(s.t)}</td><td class="num">${s.c}/${s.n} · ${p} %</td><td><span class="tag ${p>=55?"fixed":"active"}">${p>=55?t("passed"):t("failed")}</span></td></tr>`}).join("")}</table></div></div>`}
+416: function optText(b,i){return b.o[i][L()]}
+417: function ex(b){return (b.d&&b.d[L()])||b.e[L()]}
+418: function renderErrors(){
+419:   const ids=Object.keys(P.e).filter(id=>BY[id]);
+420:   const act=ids.filter(id=>!P.e[id].r).length, fix=ids.length-act;
+421:   let list=ids.filter(id=>errFilter==="all"||(errFilter==="active"?!P.e[id].r:P.e[id].r)).filter(id=>!errCh||BY[id].c===errCh);
+422:   list.sort((a,b)=>(P.e[b].l||0)-(P.e[a].l||0));
+423:   const chOpts=Object.keys(CH).filter(c=>ids.some(id=>BY[id].c===c)).map(c=>`<option value="${c}" ${c===errCh?"selected":""}>${esc(chName(c))}</option>`).join("");
+424:   const items=list.map(id=>{const b=BY[id],e=P.e[id];
+425:     return `<details class="err ${e.r?"off":"on"}"><summary><span class="emeta"><span class="tag ${e.r?"fixed":"active"}">${e.r?t("fFixed"):t("fActive")}</span><span>${esc(chName(b.c))}</span><span class="mono">× ${e.n} ${t("times")}</span><span>${t("last")} ${fmtD(e.l)}</span>${e.r&&e.rt?`<span>${t("fixedOn")} ${fmtD(e.rt)}</span>`:""}${CHATS[id]&&CHATS[id].length?`<span class="tag chat-t">${t("chatTag")}</span>`:""}</span><span style="font-weight:500">${esc(b.q[L()])}</span></summary>
+426:     <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${e.w>0?`<dt>${t("yourAns")}</dt><dd class="b">${esc(optText(b,e.w))}</dd>`:""}</dl>
+427:     <div class="expl"><span>${esc(ex(b))}</span><span class="pref">${t("page")} ${b.p} · ${t("first")} ${fmtD(e.f)}</span></div>${chatBox(id)}</div></details>`}).join("");
+428:   return `<section class="view"><div class="card"><h2>${t("errors")}</h2><p class="muted" style="max-width:68ch;font-size:.9rem">${t("errIntro")}</p>
+429:    <div class="row"><button class="btn primary" id="rev-active" ${act?"":"disabled"}>${t("reviewActive")} (${act})</button><button class="btn" id="rev-all" ${ids.length?"":"disabled"}>${t("reviewAll")} (${ids.length})</button></div></div>
+430:    <div class="filters"><div class="seg" role="group"><button data-f="active" aria-pressed="${errFilter==="active"}">${t("fActive")} · ${act}</button><button data-f="fixed" aria-pressed="${errFilter==="fixed"}">${t("fFixed")} · ${fix}</button><button data-f="all" aria-pressed="${errFilter==="all"}">${t("fAll")} · ${ids.length}</button></div>
+431:    <select id="err-ch"><option value="">${t("allCh")}</option>${chOpts}</select></div>
+432:    <div class="elist">${items||`<div class="empty">${ids.length?t("noErr"):t("noErrYet")}</div>`}</div></section>`;
+433: }
+434: function modeName(s){return s.m==="exam"?t("mExam"):s.m==="errors"?t("mErrors"):t("mPractice")}
+435: function scopeName(s){if(!s.ch||!s.ch.length) return "–"; if(s.ch.length===1) return chName(s.ch[0]); return s.ch.length+" "+t("exItems")}
+436: function renderHistory(){
+437:   const rows=P.s.slice().reverse().map(s=>{const p=Math.round(s.c/s.n*100);return `<tr><td>${fmtDT(s.t)}</td><td>${modeName(s)}</td><td>${esc(scopeName(s))}</td><td class="num">${s.c}/${s.n}</td><td class="num">${p} %</td></tr>`}).join("");
+438:   return `<section class="view"><div class="card"><h2>${t("history")}</h2></div>${rows?`<div class="card tbl"><table><tr><th>${t("hDate")}</th><th>${t("hMode")}</th><th>${t("hScope")}</th><th style="text-align:right">${t("hScore")}</th><th></th></tr>${rows}</table></div>`:`<div class="empty">${t("noHist")}</div>`}</section>`;
+439: }
+440: 
+441: /* ---------- AI chat ---------- */
+442: const LSC="wset3-chats-v1";
+443: let CHATS=(()=>{try{const x=JSON.parse(lsGet(LSC)||"{}");return x&&typeof x==="object"?x:{}}catch(e){return {}}})();
+444: let chatCol=null, sampleFn, chatOff=false;
+445: const CPEND={};
+446: const CLN={it:"Italian",fr:"French",en:"English"};
+447: const sampleReady=(async()=>{try{if(!window.claude||!window.claude.use){sampleFn=null}else{sampleFn=await window.claude.use("sample")}}catch(e){sampleFn=null}
+448:   if(!sampleFn){chatOff=true;document.querySelectorAll(".chat[data-q]").forEach(el=>rerenderChat(el.dataset.q))}})();
+449: const chatDocId=id=>"chat-"+id;
+450: function saveChat(id){ lsSet(LSC,JSON.stringify(CHATS)); if(chatCol&&CHATS[id]){ chatCol.doc(chatDocId(id)).set({q:id,m:CHATS[id]}).catch(()=>{}); } }
+451: async function loadChats(){
+452:   try{
+453:     const snap=await chatCol.limit(1000).get(); const remote={};
+454:     snap.docs.forEach(d=>{const x=d.data(); if(d.id.startsWith("chat-")&&x&&Array.isArray(x.m)) remote[d.id.slice(5)]=x.m;});
+455:     const ids=new Set([...Object.keys(CHATS),...Object.keys(remote)]);
+456:     ids.forEach(id=>{const a=CHATS[id]||[],b=remote[id]||[],seen=new Set();
+457:       CHATS[id]=[...a,...b].filter(x=>{const k=x.r+x.ts;if(seen.has(k))return false;seen.add(k);return true}).sort((x,y)=>x.ts-y.ts);
+458:       if(CHATS[id].length!==b.length&&!CPEND[id]) chatCol.doc(chatDocId(id)).set({q:id,m:CHATS[id]}).catch(()=>{});});
+459:     lsSet(LSC,JSON.stringify(CHATS));
+460:     document.querySelectorAll(".chat[data-q]").forEach(el=>{if(!CPEND[el.dataset.q]) rerenderChat(el.dataset.q)});
+461:   }catch(e){}
+462: }
+463: function md(s){
+464:   const h=esc(String(s).replace(/^#{1,4}\s*/gm,"")).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+465:   return h.split(/\n{2,}/).map(p=>{const ls=p.split("\n").filter(l=>l.trim());
+466:     if(ls.length&&ls.every(l=>/^\s*([-*•]|\d+[.)])\s/.test(l))) return "<ul>"+ls.map(l=>"<li>"+l.replace(/^\s*([-*•]|\d+[.)])\s/,"")+"</li>").join("")+"</ul>";
+467:     return "<p>"+p.trim().replace(/\n/g,"<br>")+"</p>"}).join("");
+468: }
+469: function bubble(r,txt,pending){return `<div class="msg ${r==="u"?"u":"a"}${pending?" pending":""}"><span class="who">${r==="u"?t("chatYou"):t("chatAI")}</span><div class="mt">${pending&&!txt?`<span class="muted">${t("thinking")}</span>`:md(txt)}</div></div>`}
+470: function chatBox(id){
+471:   const h=CHATS[id]||[], pd=CPEND[id];
+472:   const msgs=h.map(m=>bubble(m.r,m.t)).join("")+(pd?bubble("a",pd.text,true):"");
+473:   const sugg=!h.length&&!pd&&!chatOff?`<div class="sugg">${["sug1","sug2","sug3"].map(k=>`<button class="chip" data-sug="${k}">${esc(t(k))}</button>`).join("")}</div>`:"";
+474:   const input=chatOff?`<p class="muted small">${t("chatOff")}</p>`:`<div class="chat-in"><textarea rows="2" aria-label="${esc(t("chatTitle"))}" placeholder="${esc(t("chatPh"))}" ${pd?"disabled":""}></textarea><button class="btn primary" data-send ${pd?"hidden":""}>${t("send")}</button><button class="btn" data-stop ${pd?"":"hidden"}>${t("stop")}</button></div><p class="chat-err small" aria-live="polite"></p>`;
+475:   if(chatOff&&!h.length) return `<div class="chat" data-q="${id}"><span class="label">${t("chatTitle")}</span>${input}</div>`;
+476:   return `<div class="chat" data-q="${id}"><div class="chat-h"><span class="label">${t("chatTitle")}</span>${h.length?`<span class="muted small">${t("chatSaved")}</span>`:""}</div>${h.length||pd?"":`<p class="muted small">${t("chatHint")}</p>`}<div class="msgs">${msgs}</div>${sugg}${input}</div>`;
+477: }
+478: function rerenderChat(id,focus){
+479:   document.querySelectorAll(`.chat[data-q="${id}"]`).forEach(el=>{const ta=el.querySelector("textarea"),v=ta?ta.value:"";
+480:     const w=document.createElement("div"); w.innerHTML=chatBox(id); const n=w.firstElementChild; el.replaceWith(n);
+481:     const nt=n.querySelector("textarea"); if(nt){nt.value=v; if(focus) nt.focus({preventScroll:true});}});
+482: }
+483: function lastPick(id){
+484:   if(quiz&&!quiz.done){const x=quiz.items.find(x=>x.id===id&&x.pick!==null); if(x) return x.pick;}
+485:   if(quiz&&quiz.done){const x=quiz.items.find(x=>x.id===id&&x.pick!==null); if(x) return x.pick;}
+486:   const e=P.e[id]; if(e) return e.r?0:e.w; const q=P.q[id]; return q&&q[1]?0:null;
+487: }
+488: function ctxPrompt(id){
+489:   const b=BY[id], l=L(), pk=lastPick(id), lt="ABCD";
+490:   const opts=b.o.map((o,i)=>`${lt[i]}) ${o[l]}${i===0?"   <- correct answer":""}`).join("\n");
+491:   const stu=pk===null?"(not recorded)":`${lt[pk]}) ${b.o[pk][l]} — ${pk===0?"CORRECT":"WRONG"}`;
+492:   return `You are a patient, expert tutor for the WSET Level 3 Award in Wines. The student is revising from the official WSET Level 3 textbook "Understanding Wines: Explaining Style and Quality". They have just answered the multiple-choice practice question below and now want to explore the topic in a free conversation with you.
+493: 
+494: How to answer:
+495: - Always reply in ${CLN[lang]}.
+496: - Stay within what the WSET Level 3 course teaches, using its terminology (including the Systematic Approach to Tasting where relevant). If you add something that goes beyond the textbook, say so briefly, so the student knows it is not core exam material. If you are not sure the textbook says something, say so rather than guessing.
+497: - Explain causes and effects (the "why"): this is what the WSET Level 3 written answers reward. Use concrete examples: regions, grape varieties, wine styles, winemaking choices.
+498: - Be concise: usually 80–200 words, in short paragraphs or a short list. Use **bold** sparingly. No headings and no tables. Go longer only if the student asks for more detail.
+499: - If the student asks something unrelated to wine, gently bring them back to their revision.
+500: 
+501: The question (chapter: ${CH[b.c].en}; textbook page ${b.p}${b.h?"; advanced question":""}):
+502: ${b.q[l]}
+503: 
+504: Options:
+505: ${opts}
+506: 
+507: The student's answer: ${stu}
+508: 
+509: Explanation already shown to the student:
+510: ${ex(b)}
+511: 
+512: The conversation with the student follows.`;
+513: }
+514: async function chatSend(id,text){
+515:   text=(text||"").trim(); if(!text||CPEND[id]) return;
+516:   const box=()=>document.querySelector(`.chat[data-q="${id}"]`);
+517:   CPEND[id]={text:"",ctl:new AbortController()};
+518:   const h=CHATS[id]=CHATS[id]||[]; const um={r:"u",t:text,ts:Date.now()}; h.push(um);
+519:   rerenderChat(id);
+520:   if(sampleFn===undefined) await sampleReady;
+521:   if(!sampleFn){delete CPEND[id]; h.splice(h.indexOf(um),1); if(!h.length) delete CHATS[id]; chatOff=true; rerenderChat(id); return}
+522:   saveChat(id);
+523:   const turns=[{role:"user",content:ctxPrompt(id)},...h.slice(-24).map(m=>({role:m.r==="u"?"user":"assistant",content:m.t}))];
+524:   while(turns.length>1&&turns[1].role==="assistant") turns.splice(1,1);
+525:   const pd=CPEND[id];
+526:   try{
+527:     const r=await sampleFn(turns,{cache:false,signal:pd.ctl.signal,onText:({text})=>{pd.text=text;const mt=box()?.querySelector(".msg.pending .mt");if(mt) mt.innerHTML=md(text);}});
+528:     delete CPEND[id]; h.push({r:"a",t:r.text+(r.truncated?" …":""),ts:Date.now()}); saveChat(id); rerenderChat(id,true);
+529:   }catch(e){
+530:     const c=e&&e.code, part=e&&e.text; delete CPEND[id];
+531:     if(part&&c!=="refused"){h.push({r:"a",t:part+" …",ts:Date.now()}); saveChat(id);}
+532:     else {h.splice(h.indexOf(um),1); if(!h.length) delete CHATS[id]; saveChat(id);}
+533:     if(["not_granted","sampling_disabled","not_declared","capability_disabled","capability_removed"].includes(c)) chatOff=true;
+534:     rerenderChat(id);
+535:     const el=box(); if(el){ if(!part&&c!=="refused"){const ta=el.querySelector("textarea"); if(ta) ta.value=text;}
+536:       const er=el.querySelector(".chat-err"); if(er&&c!=="cancelled") er.textContent=t(c==="rate_limited"?"chatRate":"chatErr"); }
+537:   }
+538: }
+539: document.getElementById("main").addEventListener("click",e=>{
+540:   const ch=e.target.closest(".chat"); if(!ch) return; const id=ch.dataset.q;
+541:   if(e.target.closest("[data-send]")){const ta=ch.querySelector("textarea"); const v=ta.value; ta.value=""; chatSend(id,v);}
+542:   else if(e.target.closest("[data-stop]")){CPEND[id]?.ctl.abort();}
+543:   else { const s=e.target.closest("[data-sug]"); if(s) chatSend(id,t(s.dataset.sug)); }
+544: });
+545: document.getElementById("main").addEventListener("keydown",e=>{
+546:   if(e.target.tagName==="TEXTAREA"&&e.key==="Enter"&&!e.shiftKey&&!e.isComposing){const ch=e.target.closest(".chat"); if(ch){e.preventDefault(); const v=e.target.value; e.target.value=""; chatSend(ch.dataset.q,v);}}
+547: });
+548: 
+549: /* ---------- quiz ---------- */
+550: function startQuiz(ids, mode, chs){
+551:   if(!ids.length) return;
+552:   quiz={mode, chs, items:ids.map(id=>({id,ord:shuffle([0,1,2,3]),pick:null})), i:0, done:false, reviewing:false};
+553:   render();
+554: }
+555: function lvOk(b){return pLvl==="h"?!!b.h:pLvl==="b"?!b.h:true}
+556: function pickPractice(){
+557:   const pool=BANK.filter(b=>pSel.has(b.c)&&lvOk(b)).map(b=>b.id);
+558:   let n=+$("#p-count").value; if(!n) n=pool.length;
+559:   let ids;
+560:   if($("#p-new").checked){const fresh=shuffle(pool.filter(id=>!P.q[id])), old=shuffle(pool.filter(id=>P.q[id]));ids=fresh.concat(old)}
+561:   else ids=shuffle(pool);
+562:   startQuiz(ids.slice(0,n),"practice",[...pSel]);
+563: }
+564: function pickExam(){
+565:   const share=[["f",8],["r",28],["s",5],["o",5],["t",4]];
+566:   let ids=[];
+567:   share.forEach(([k,n])=>{const g=GROUPS.find(g=>g.k===k);const pool=shuffle(BANK.filter(b=>g.c.includes(b.c)).map(b=>b.id));ids=ids.concat(pool.slice(0,n))});
+568:   startQuiz(shuffle(ids),"exam",[]);
+569: }
+570: function renderQ(){
+571:   const it=quiz.items[quiz.i], b=BY[it.id], l=L(), answered=it.pick!==null, exam=quiz.mode==="exam";
+572:   const choices=it.ord.map((oi,k)=>{let cls="";
+573:     if(answered){ if(oi===0) cls="ok"; else if(oi===it.pick) cls="no" }
+574:     return `<button class="choice ${cls}" data-o="${oi}" ${answered?"disabled":""}><span class="k">${k+1}</span><span>${esc(b.o[oi][l])}</span></button>`}).join("");
+575:   const last=quiz.i===quiz.items.length-1;
+576:   const fb=answered?`<div class="expl fb ${it.pick===0?"ok":"no"}"><span class="verdict ${it.pick===0?"ok":"no"}">${it.pick===0?t("right"):t("wrong")}</span>${it.pick!==0?`<span><b>${t("correctIs")}</b> ${esc(b.o[0][l])}</span>`:""}<span>${esc(ex(b))}</span><span class="pref">${esc(chName(b.c))} · ${t("page")} ${b.p}</span></div>`:"";
+577:   const mode=quiz.mode==="exam"?t("mExam"):quiz.mode==="errors"?t("mErrors"):t("mPractice");
+578:   return `<section class="view"><div class="qhead"><span class="label">${mode} · ${t("q")} <span class="mono">${quiz.i+1}/${quiz.items.length}</span></span><button class="btn ghost" id="q-quit">${t("quit")}</button></div>
+579:   <div class="prog"><i style="width:${(quiz.i+(answered?1:0))/quiz.items.length*100}%"></i></div>
+580:   <div class="card" style="display:flex;flex-direction:column;gap:16px"><div class="row" style="gap:6px"><span class="tag">${esc(chName(b.c))}</span>${b.h?`<span class="tag hard">${t("hard")}</span>`:""}</div><p class="qtext" style="margin:0">${esc(b.q[l])}</p>
+581:   <div class="choices">${choices}</div>${fb}${answered?chatBox(b.id):""}
+582:   ${answered?`<div class="row"><button class="btn primary" id="q-next">${last?t("finish"):t("next")}</button></div>`:""}</div>
+583:   <p class="muted" style="font-size:.78rem;margin:0">${t("resumeHint")}</p></section>`;
+584: }
+585: function answer(oi){
+586:   const it=quiz.items[quiz.i]; if(it.pick!==null) return;
+587:   it.pick=oi; record(it.id, oi===0, oi);
+588:   render();
+589: }
+590: function nextQ(){
+591:   if(quiz.i<quiz.items.length-1){quiz.i++;render();return}
+592:   const n=quiz.items.length,c=quiz.items.filter(x=>x.pick===0).length;
+593:   const done=quiz.items.filter(x=>x.pick!==null).length;
+594:   if(done){ P.s.push({t:Date.now(),m:quiz.mode,n:done,c,ch:quiz.chs}); save(); }
+595:   quiz.done=true; render();
+596: }
+597: function renderResult(){
+598:   const ans=quiz.items.filter(x=>x.pick!==null), n=ans.length, c=ans.filter(x=>x.pick===0).length, p=n?Math.round(c/n*100):0;
+599:   const exam=quiz.mode==="exam";
+600:   const wrong=ans.filter(x=>x.pick!==0);
+601:   const list=(exam?ans:wrong).map(x=>{const b=BY[x.id],ok=x.pick===0;return `<details class="err ${ok?"off":"on"}"><summary><span class="emeta"><span class="tag ${ok?"fixed":"active"}">${ok?t("right"):t("wrong")}</span><span>${esc(chName(b.c))}</span></span><span style="font-weight:500">${esc(b.q[L()])}</span></summary>
+602:   <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${ok?"":`<dt>${t("yourAns")}</dt><dd class="b">${esc(optText(b,x.pick))}</dd>`}</dl><div class="expl"><span>${esc(ex(b))}</span><span class="pref">${t("page")} ${b.p}</span></div>${chatBox(b.id)}</div></details>`}).join("");
+603:   return `<section class="view"><div class="card" style="display:flex;flex-direction:column;gap:10px">
+604:    <span class="label">${t("score")}</span><div class="row" style="align-items:baseline;gap:16px"><span class="result-score ${exam?(p>=55?"pass":"fail"):""}">${p} %</span><span class="mono muted">${c}/${n}</span>${exam?`<span class="tag ${p>=55?"fixed":"active"}">${p>=55?t("passed"):t("failed")} · ${t("passMark")}</span>`:""}</div>
+605:    <div class="row"><button class="btn primary" id="r-again">${t("again")}</button>${wrong.length?`<button class="btn" id="r-err">${t("toErrors")}</button>`:""}<button class="btn ghost" id="r-back">${t("back")}</button></div></div>
+606:    ${list?`<div class="elist">${list}</div>`:""}</section>`;
+607: }
+608: function bindQuiz(){
+609:   if(quiz.done){
+610:     $("#r-again").onclick=()=>{const m=quiz.mode,ids=quiz.items.map(x=>x.id),chs=quiz.chs; if(m==="exam"){quiz=null;pickExam()} else if(m==="errors"){quiz=null;const a=activeErrs();startQuiz(shuffle(a.length?a:ids),"errors",[])} else {quiz=null;startQuiz(shuffle(ids),m,chs)}};
+611:     const re=$("#r-err"); if(re) re.onclick=()=>{quiz=null;view="errors";errFilter="active";render()};
+612:     $("#r-back").onclick=()=>{const m=quiz.mode;quiz=null;view=m==="exam"?"exam":m==="errors"?"errors":"home";render()};
+613:     window.scrollTo(0,0); return;
+614:   }
+615:   document.querySelectorAll(".choice").forEach(b=>b.onclick=()=>answer(+b.dataset.o));
+616:   const nx=$("#q-next"); if(nx){nx.onclick=nextQ;nx.focus({preventScroll:true})}
+617:   $("#q-quit").onclick=()=>{ if(quiz.items.some(x=>x.pick!==null)){ quiz.items=quiz.items.filter(x=>x.pick!==null); quiz.i=quiz.items.length-1; nextQ(); } else { quiz=null; render(); } };
+618: }
+619: document.addEventListener("keydown",e=>{
+620:   if(!quiz||quiz.done||e.target.tagName==="SELECT"||e.target.tagName==="TEXTAREA"||e.target.tagName==="INPUT"||e.metaKey||e.ctrlKey||e.altKey) return;
+621:   const it=quiz.items[quiz.i];
+622:   if(it.pick===null && /^[1-4]$/.test(e.key)){ e.preventDefault(); answer(it.ord[+e.key-1]); }
+623:   else if(it.pick!==null && e.key==="Enter" && document.activeElement?.id!=="q-next"){ e.preventDefault(); nextQ(); }
+624: });
+625: 
+626: function bindView(){
+627:   if(view==="home"){
+628:     document.querySelectorAll("[data-start]").forEach(b=>b.onclick=()=>{const ch=b.dataset.start;const pool=BANK.filter(x=>x.c===ch).map(x=>x.id);
+629:       const fresh=shuffle(pool.filter(id=>!P.q[id]||(P.e[id]&&!P.e[id].r))),rest=shuffle(pool.filter(id=>!fresh.includes(id)));startQuiz(fresh.concat(rest).slice(0,10),"practice",[ch])});
+630:     const gr=$("#go-review"); if(gr) gr.onclick=()=>startQuiz(shuffle(activeErrs()),"errors",[]);
+631:     $("#reset").onclick=()=>{$("#reset-zone").innerHTML=`<div class="confirm"><span>${t("resetSure")}</span><button class="btn" id="reset-yes" style="border-color:var(--bad);color:var(--bad)">${t("yes")}</button><button class="btn ghost" id="reset-no">${t("no")}</button></div>`;
+632:       $("#reset-yes").onclick=()=>{P=blank();save();render()}; $("#reset-no").onclick=render;};
+633:   }
+634:   if(view==="practice"){
+635:     const upd=()=>{const n=BANK.filter(b=>pSel.has(b.c)&&lvOk(b)).length;$("#p-start").disabled=!n;$("#p-msg").textContent=n?`${n} questions · ${pSel.size} ${t("exItems")}`:t("noneSel");$("#p-count").options[4].textContent=`${t("all")} (${n})`};
+636:     document.querySelectorAll("[data-ch]").forEach(cb=>cb.onchange=()=>{cb.checked?pSel.add(cb.dataset.ch):pSel.delete(cb.dataset.ch);upd()});
+637:     $("#sel-all").onclick=()=>{pSel=new Set(Object.keys(CH));render()};
+638:     $("#sel-none").onclick=()=>{pSel=new Set();render()};
+639:     $("#p-start").onclick=pickPractice;
+640:     $("#p-lvl").onchange=e=>{pLvl=e.target.value;upd()};
+641:   }
+642:   if(view==="exam") $("#exam-start").onclick=pickExam;
+643:   if(view==="errors"){
+644:     document.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{errFilter=b.dataset.f;render()});
+645:     $("#err-ch").onchange=e=>{errCh=e.target.value;render()};
+646:     const ra=$("#rev-active"); ra.onclick=()=>{let a=activeErrs(); if(errCh) a=a.filter(id=>BY[id].c===errCh); if(!a.length) a=activeErrs(); startQuiz(shuffle(a),"errors",errCh?[errCh]:[])};
+647:     $("#rev-all").onclick=()=>{let a=Object.keys(P.e).filter(id=>BY[id]); if(errCh){const f=a.filter(id=>BY[id].c===errCh); if(f.length) a=f;} startQuiz(shuffle(a),"errors",errCh?[errCh]:[])};
+648:   }
+649: }
+650: document.querySelectorAll("nav.tabs button").forEach(b=>b.onclick=()=>{ if(quiz&&!quiz.done&&quiz.items.some(x=>x.pick!==null)){ quiz.items=quiz.items.filter(x=>x.pick!==null); quiz.i=quiz.items.length-1; const n=quiz.items.length,c=quiz.items.filter(x=>x.pick===0).length; P.s.push({t:Date.now(),m:quiz.mode,n,c,ch:quiz.chs}); save(); }
+651:   quiz=null; view=b.dataset.v; render(); });
+652: document.querySelectorAll(".langs button").forEach(b=>b.onclick=()=>{lang=b.dataset.l;lsSet(LSL,lang);render()});
+653: document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden"){clearTimeout(saveTimer);flush()}});
+654: 
+655: render();
+656: connect();
+657: </script>
+658: 
+659: </body></html>

@@ -1,0 +1,269 @@
+@b255f9a
+A: Descrivere il vino con precisione e trarne conclusioni motivate || Décrire le vin avec précision et en tirer des conclusions fondées || Describing a wine accurately and drawing reasoned conclusions
+B: Riconoscere il vitigno e stimare con precisione l'annata || Reconnaître le cépage et estimer précisément le millésime || Recognising the grape and estimating the vintage precisely
+C: Valutare il prezzo di mercato e la regione d'origine || Évaluer le prix de marché et la région d'origine || Judging the market price and the region of origin
+D: Abbinare il vino al cibo e scegliere la temperatura di servizio || Accorder le vin aux mets et choisir la température de service || Pairing wine with food and choosing serving temperature
+
+@1d2e667
+A: Livello di qualità e prontezza/potenziale d'invecchiamento || Niveau de qualité et aptitude à boire/potentiel de garde || Quality level and readiness for drinking/ageing potential
+B: Livello di qualità e probabile vitigno/regione d'origine || Niveau de qualité et cépage/région d'origine probables || Quality level and probable grape/region of origin
+C: Prontezza al consumo e fascia di prezzo/annata stimata || Aptitude à boire et gamme de prix/millésime estimé || Readiness for drinking and price band/estimated vintage
+D: Equilibrio/complessità e potenziale d'invecchiamento || Équilibre/complexité et potentiel de garde || Balance/complexity and ageing potential
+
+@dba0d21
+A: Sul retro della scheda SAT plastificata || Au verso de la fiche SAT plastifiée || On the reverse of the laminated SAT card
+B: In appendice al libro, dopo il glossario || En annexe du manuel, après le glossaire || In the appendix of the book, after the glossary
+C: Sul foglio d'esame, accanto a ogni vino || Sur la copie d'examen, à côté de chaque vin || On the exam paper, next to each wine
+D: Nella specifica d'esame scaricabile online || Dans la spécification d'examen téléchargeable || In the downloadable exam specification
+
+@a9c2903
+A: Scegliere uno solo dei due termini || Choisir un seul des deux termes || Choose just one of the two terms
+B: Scrivere «rubino-granato» come termine unico || Écrire « rubis-grenat » comme terme unique || Write 'ruby-garnet' as a single term
+C: Scrivere «da rubino a granato» per indicare il passaggio || Écrire « de rubis à grenat » pour montrer la transition || Write 'ruby to garnet' to show the transition
+D: Scrivere «granato» solo se il bordo è aranciato || Écrire « grenat » seulement si le bord est orangé || Write 'garnet' only if the rim is orange
+
+@258b5e1
+A: No: solo i termini elencati nella SAT || Non : uniquement les termes listés dans la SAT || No: only the terms listed in the SAT
+B: Sì, purché siano termini del Wine-Lexicon || Oui, à condition qu'ils figurent dans le Wine-Lexicon || Yes, provided they appear in the Wine-Lexicon
+C: Sì, ma solo per motivare il livello di qualità || Oui, mais seulement pour justifier la qualité || Yes, but only to justify the quality level
+D: No per la qualità, sì per il potenziale d'invecchiamento || Non pour la qualité, oui pour le potentiel de garde || No for quality, yes for ageing potential
+
+@0ab8d0d
+A: Uno strumento didattico e di valutazione WSET, molto strutturato e non adatto a ogni occasione || Un outil pédagogique et d'évaluation WSET, très structuré et pas adapté à toutes les occasions || A WSET teaching and assessment tool, highly structured and not suited to every occasion
+B: Il metodo ufficiale dell'UE per descrivere i vini in etichetta e nei disciplinari || La méthode officielle de l'UE pour décrire les vins sur l'étiquette et dans les cahiers des charges || The official EU method for describing wines on labels and in production rules
+C: Un sistema a punteggio in 100 punti usato dalla critica e dai concorsi internazionali || Un système de notation sur 100 points utilisé par la critique et les concours || A 100-point scoring system used by critics and international competitions
+D: Un protocollo per individuare i difetti, usato soprattutto nei laboratori enologici || Un protocole de détection des défauts, surtout utilisé en laboratoire œnologique || A protocol for detecting faults, used mainly in wine laboratories
+
+@9278ba2
+A: Si aspetta che tu abbia calibrato il palato con docenti e colleghi, rispetto ai vini in generale || Il attend que vous ayez calibré votre palais avec formateurs et pairs, par rapport aux vins en général || It expects you to have calibrated your palate with educators and peers, against wines in general
+B: Accetta qualsiasi valutazione purché sia coerente con le conclusioni scritte dal candidato || Il accepte toute évaluation pourvu qu'elle soit cohérente avec les conclusions du candidat || It accepts any assessment as long as it is consistent with the candidate's own conclusions
+C: Fornisce i dati analitici dei vini, così che il candidato possa tarare le proprie valutazioni || Il fournit les analyses des vins pour que le candidat puisse caler ses évaluations || It provides lab analyses of the wines so the candidate can adjust their assessments
+D: Valuta la struttura solo in relazione agli altri vini serviti nella stessa sessione d'esame || Il n'évalue la structure que par rapport aux autres vins de la même session || It rates structure only relative to the other wines served in the same exam session
+
+@e2da0ef
+A: Non sei vincolato ai termini elencati, ma è consigliato usare il Lexicon || Vous n'êtes pas limité aux termes listés, mais le Lexicon est conseillé || You are not restricted to the listed terms, but are encouraged to use the Lexicon
+B: Devi usare solo termini del Lexicon, altrimenti la risposta non dà punti || Vous devez utiliser uniquement le Lexicon, sinon la réponse ne rapporte rien || You must use only Lexicon terms, otherwise the answer scores nothing
+C: Puoi usare termini tuoi, ma solo per gli aromi terziari || Vous pouvez utiliser vos propres termes, mais seulement pour les arômes tertiaires || You may use your own terms, but only for tertiary aromas
+D: Basta indicare la famiglia aromatica, senza descrittori specifici || Il suffit d'indiquer la famille aromatique, sans descripteurs précis || It is enough to name the aroma cluster, without specific descriptors
+
+@e7ec217
+A: Dividendo «medium» in medium(-), medium e medium(+) || En divisant « medium » en medium(-), medium et medium(+) || By splitting 'medium' into medium(-), medium and medium(+)
+B: Aggiungendo «very low» e «very high» ai due estremi || En ajoutant « very low » et « very high » aux extrêmes || By adding 'very low' and 'very high' at the two extremes
+C: Dividendo «low» e «high» in tre livelli ciascuno || En divisant « low » et « high » en trois niveaux chacun || By splitting 'low' and 'high' into three levels each
+D: Sostituendo le parole con una scala numerica da 1 a 5 || En remplaçant les mots par une échelle numérique de 1 à 5 || By replacing the words with a numeric scale from 1 to 5
+
+@2b80d1e
+A: Valutare prima su basso-medio-alto, poi affinare i «medium» con (+) o (-) || Évaluer d'abord en bas-moyen-élevé, puis affiner les « medium » avec (+) ou (-) || First assess on low-medium-high, then refine the 'mediums' with (+) or (-)
+B: Evitare del tutto «medium» e scegliere sempre il termine più vicino || Éviter totalement « medium » et choisir toujours le terme voisin || Avoid 'medium' entirely and always pick the nearest neighbouring term
+C: Partire sempre dagli estremi e scendere verso «medium» solo se necessario || Partir toujours des extrêmes et ne descendre à « medium » qu'au besoin || Always start from the extremes and move to 'medium' only if needed
+D: Confrontare ogni vino con quello precedente della stessa batteria || Comparer chaque vin au précédent de la même série || Compare each wine with the previous one in the same flight
+
+@d56164d
+A: La disidratazione secca i recettori nasali e ne riduce la sensibilità || La déshydratation dessèche les récepteurs nasaux et réduit leur sensibilité || Dehydration dries the nasal receptors and reduces their sensitivity
+B: L'acqua neutralizza i tannini e rende più leggibile la struttura || L'eau neutralise les tanins et rend la structure plus lisible || Water neutralises tannins and makes the structure easier to read
+C: La disidratazione fa percepire l'alcol come più basso del reale || La déshydratation fait percevoir l'alcool plus bas qu'il n'est || Dehydration makes alcohol seem lower than it really is
+D: L'acqua diluisce la saliva e aumenta la percezione dell'acidità || L'eau dilue la salive et augmente la perception de l'acidité || Water dilutes saliva and heightens the perception of acidity
+
+@05ba9a7
+A: Coppa arrotondata e pareti che si stringono verso l'alto || Calice arrondi et parois qui se resserrent vers le haut || A rounded bowl and walls that slope inwards
+B: Stelo lungo e pareti dritte e verticali || Pied long et parois droites et verticales || A long stem and straight, vertical walls
+C: Bordo svasato e coppa ampia e bassa || Bord évasé et calice large et bas || A flared rim and a wide, shallow bowl
+D: Vetro spesso e fondo piatto per la stabilità || Verre épais et fond plat pour la stabilité || Thick glass and a flat base for stability
+
+@820e17d
+A: Due: limpido - velato || Deux : limpide - voilé || Two: clear - hazy
+B: Tre: brillante - limpido - velato || Trois : brillant - limpide - voilé || Three: bright - clear - hazy
+C: Tre: limpido - velato - torbido || Trois : limpide - voilé - trouble || Three: clear - hazy - cloudy
+D: Quattro: brillante - limpido - opaco - torbido || Quatre : brillant - limpide - terne - trouble || Four: bright - clear - dull - cloudy
+
+@3138581
+A: Particelle in sospensione nel vino || Des particules en suspension dans le vin || Particles suspended in the wine
+B: Bollicine di CO2 disciolta in eccesso || Des bulles de CO2 dissous en excès || Excess bubbles of dissolved CO2
+C: Una temperatura di servizio troppo bassa || Une température de service trop basse || A serving temperature that is too low
+D: Glicerolo elevato dovuto all'alcol alto || Un glycérol élevé dû à l'alcool || High glycerol caused by high alcohol
+
+@8a90766
+A: Inclinando il bicchiere a 45° e osservando quanto il colore si estende dal centro al bordo || En inclinant le verre à 45° et en observant jusqu'où la couleur s'étend du cœur au bord || Tilting the glass to 45° and seeing how far colour extends from core to rim
+B: Tenendo il bicchiere dritto e guardando il vino dall'alto contro una fonte di luce || En tenant le verre droit et en regardant le vin d'en haut contre une source lumineuse || Holding the glass upright and looking down at the wine against a light source
+C: Ruotando il bicchiere e osservando lo spessore e la velocità degli archetti || En faisant tourner le verre et en observant l'épaisseur et la vitesse des jambes || Swirling the glass and watching the thickness and speed of the legs
+D: Confrontando il colore del bordo con quello del vino precedente nella batteria || En comparant la couleur du bord avec celle du vin précédent de la série || Comparing the colour at the rim with that of the previous wine in the flight
+
+@4de7151
+A: Palato pulito (niente dentifricio o cibi forti) ed essere ben idratati || Bouche propre (ni dentifrice ni aliments forts) et être bien hydraté || A clean palate (no toothpaste or strong food) and being well hydrated
+B: Bere un caffè per «risvegliare» il palato e mangiare cracker salati || Boire un café pour « réveiller » le palais et manger des biscuits salés || Drinking coffee to 'wake up' the palate and eating salty crackers
+C: Usare un profumo leggero per allenare il naso e masticare una menta || Porter un parfum léger pour entraîner le nez et mâcher une menthe || Wearing light perfume to train the nose and chewing a mint
+D: Non bere acqua per un'ora per non diluire la saliva || Ne pas boire d'eau pendant une heure pour ne pas diluer la salive || Avoiding water for an hour so as not to dilute saliva
+
+@ef3f4ed
+A: Inodori, incolori e privi di residui (detersivo, sali, panni sporchi) || Inodores, incolores et sans résidus (détergent, sels, torchons sales) || Odourless, colourless and residue-free (detergent, salts, dirty cloths)
+B: Colorati, per non farsi influenzare dall'aspetto del vino nel giudizio || Colorés, pour ne pas être influencé par l'aspect du vin || Tinted, so the wine's appearance does not influence judgement
+C: Di grande capacità (50 cl) e sciacquati con il vino prima della degustazione || De grande capacité (50 cl) et rincés au vin avant la dégustation || Large (50 cl) and rinsed with wine before the tasting
+D: Lavati con detersivo profumato e asciugati con panni appena stirati || Lavés au détergent parfumé et séchés avec des torchons repassés || Washed with scented detergent and dried with freshly ironed cloths
+
+@5253b7b
+A: Può indicare un difetto, ma di solito la natura si capisce solo al naso e al palato || Il peut indiquer un défaut, mais sa nature ne se révèle qu'au nez et en bouche || It may indicate a fault, but its nature is usually found only on nose and palate
+B: È sempre segno di ossidazione, quindi il vino va considerato difettoso || C'est toujours un signe d'oxydation, le vin doit donc être jugé défectueux || It is always a sign of oxidation, so the wine must be judged faulty
+C: Indica sempre un vino non filtrato di alta qualità, mai un difetto || Il indique toujours un vin non filtré de qualité, jamais un défaut || It always indicates a high-quality unfiltered wine, never a fault
+D: Indica un vino molto giovane, che si chiarirà dopo qualche minuto nel bicchiere || Il indique un vin très jeune qui se clarifiera après quelques minutes || It indicates a very young wine that will clear after a few minutes in the glass
+
+@2e251ba
+A: Scrivere «high» con sicurezza: anche «high» è una fascia, non solo l'estremo || Écrire « high » avec assurance : « high » est aussi une plage, pas l'extrême || Write 'high' confidently: 'high' is a range, not just the extreme
+B: Scrivere medium(+), perché «high» è riservato ai casi più estremi || Écrire medium(+), car « high » est réservé aux cas extrêmes || Write medium(+), because 'high' is reserved for the most extreme cases
+C: Scrivere medium(+) a high, per coprire entrambe le possibilità || Écrire medium(+) à high, pour couvrir les deux possibilités || Write 'medium(+) to high' to cover both possibilities
+D: Confrontare con il vino precedente e scegliere il livello relativo || Comparer au vin précédent et choisir le niveau relatif || Compare with the previous wine and choose the relative level
+
+@a0ae6af
+A: Solo la fascia «medium» è divisa in tre, perché vi rientra la maggior parte dei vini || Seule la plage « medium » est divisée en trois, car la plupart des vins s'y trouvent || Only the 'medium' band is split in three, because most wines fall there
+B: Gli estremi «low» e «high» valgono il doppio, perché sono più facili da riconoscere || Les extrêmes « low » et « high » comptent double, car ils sont plus faciles à reconnaître || The 'low' and 'high' extremes count double, as they are easier to recognise
+C: Ogni regione vinicola ha una propria taratura, quindi le fasce cambiano ampiezza || Chaque région a son propre étalonnage, donc les plages varient en largeur || Each wine region has its own calibration, so the bands vary in width
+D: Le fasce sono tarate sui vini dolci, dove gli estremi sono molto più ampi || Les plages sont calibrées sur les vins doux, où les extrêmes sont bien plus larges || The bands are calibrated on sweet wines, where the extremes are much wider
+
+@e90fda7
+A: Al centro, dove il liquido è più profondo || Au cœur, là où le liquide est le plus profond || At the core, where the liquid is deepest
+B: Al bordo, dove il liquido è più sottile || Au bord, là où le liquide est le plus mince || At the rim, where the liquid is thinnest
+C: Sugli archetti, dopo aver ruotato il vino || Sur les jambes, après avoir fait tourner le vin || On the legs, after swirling the wine
+D: Tenendo il bicchiere in verticale controluce || En tenant le verre vertical à contre-jour || Holding the glass upright against the light
+
+@855c904
+A: Molto vecchi o volutamente ossidati || Très vieux ou volontairement oxydés || Very old or deliberately oxidised
+B: Molto giovani e da clima caldo || Très jeunes et de climat chaud || Very young and from a hot climate
+C: Fermentati in barrique nuova || Fermentés en barrique neuve || Fermented in new barriques
+D: Ottenuti da uve botritizzate giovani || Issus de raisins botrytisés jeunes || Made from young botrytised grapes
+
+@8cd88f0
+A: Quando nel colore non resta più alcun rosso || Quand il ne reste plus aucun rouge dans la couleur || When no redness remains in the colour
+B: Per qualsiasi rosso affinato in legno nuovo || Pour tout rouge élevé en bois neuf || For any red aged in new oak
+C: Quando il bordo vira all'aranciato || Quand le bord tire vers l'orangé || When the rim turns orange
+D: Per i rossi molto profondi e opachi || Pour les rouges très profonds et opaques || For very deep, opaque reds
+
+@bc475a9
+A: Zucchero o alcol elevato || Sucre ou alcool élevé || Sugar or high alcohol
+B: Acidità elevata || Acidité élevée || High acidity
+C: Alta qualità del vino || Haute qualité du vin || High wine quality
+D: Tannini abbondanti || Tanins abondants || Abundant tannin
+
+@b6d597f
+A: Il vino non è chiarificato e/o non filtrato || Le vin n'est pas collé et/ou pas filtré || The wine is unfined and/or unfiltered
+B: Il vino è ossidato e va considerato difettoso || Le vin est oxydé et doit être jugé défectueux || The wine is oxidised and must be judged faulty
+C: Il vino è troppo giovane e non ancora stabile || Le vin est trop jeune et pas encore stable || The wine is too young and not yet stable
+D: Il vino contiene troppa anidride solforosa || Le vin contient trop de dioxyde de soufre || The wine contains too much sulfur dioxide
+
+@da6198d
+A: Per dare freschezza e consistenza || Pour apporter fraîcheur et texture || To add freshness and texture
+B: Per prolungarne la conservazione || Pour prolonger leur conservation || To extend their shelf life
+C: Per mascherare una leggera ossidazione || Pour masquer une légère oxydation || To mask slight oxidation
+D: Per poterli etichettare come frizzanti || Pour pouvoir les étiqueter pétillants || So they can be labelled as semi-sparkling
+
+@b3c5709
+A: Niente di affidabile: dipendono anche dalla pulizia del bicchiere || Rien de fiable : elles dépendent aussi de la propreté du verre || Nothing reliable: they also depend on glass cleanliness
+B: Più sono fini, più lungo è stato l'affinamento sui lieviti || Plus elles sont fines, plus l'élevage sur lies a été long || The finer they are, the longer the lees ageing
+C: Più sono numerose, più alta è la pressione e la qualità || Plus elles sont nombreuses, plus pression et qualité sont élevées || The more there are, the higher the pressure and quality
+D: Indicano con certezza il metodo di produzione usato || Elles indiquent avec certitude la méthode de production || They reliably reveal the production method used
+
+@89c79b6
+A: Porpora e giallo-verdolino || Pourpre et citron-vert || Purple and lemon-green
+B: Rubino e giallo paglierino || Rubis et citron || Ruby and lemon
+C: Porpora e giallo paglierino || Pourpre et citron || Purple and lemon
+D: Rubino e giallo-verdolino || Rubis et citron-vert || Ruby and lemon-green
+
+@e60bf2c
+A: Lacrime; nei rossi molto intensi possono apparire colorate || Larmes ; dans les rouges très foncés elles peuvent être colorées || Tears; in very deep reds they can look pigmented
+B: Lacrime; si colorano solo nei vini ossidati o molto vecchi || Larmes ; elles ne se colorent que dans les vins oxydés ou très vieux || Tears; they are coloured only in oxidised or very old wines
+C: Perlage; si colorano quando il vino non è filtrato || Perlage ; elles se colorent quand le vin n'est pas filtré || Bead; they are coloured when the wine is unfiltered
+D: Archi; si colorano solo nei vini dolci ad alto zucchero || Arcs ; elles ne se colorent que dans les vins très sucrés || Arches; they are coloured only in very sweet wines
+
+@9de596f
+A: Può essere voluta per freschezza e consistenza, anche se a volte è un difetto || Il peut être voulu pour la fraîcheur et la texture, même si c'est parfois un défaut || It may be deliberate for freshness and texture, though sometimes a fault
+B: È sempre una rifermentazione in bottiglia, quindi va segnalata come difetto || C'est toujours une refermentation en bouteille, à signaler comme défaut || It is always refermentation in bottle, so it must be reported as a fault
+C: Indica sempre una fermentazione malolattica non completata prima dell'imbottigliamento || Il indique toujours une malolactique inachevée avant la mise en bouteille || It always indicates malolactic fermentation unfinished before bottling
+D: Significa che il vino va descritto come spumante nella sezione aspetto della SAT || Cela signifie que le vin doit être décrit comme effervescent dans l'aspect SAT || It means the wine should be described as sparkling in the SAT appearance section
+
+@b209c91
+A: L'intensità è quanto colore c'è; il colore è il tipo di tinta, indipendente dall'intensità || L'intensité est la quantité de couleur ; la couleur est la teinte, indépendante de l'intensité || Intensity is how much colour; colour is the hue, independent of intensity
+B: Il colore si valuta al centro del bicchiere, l'intensità invece solo sul bordo || La couleur s'évalue au cœur du verre, l'intensité seulement sur le bord || Colour is judged at the core, while intensity is judged only at the rim
+C: L'intensità indica l'età del vino, il colore invece indica il vitigno || L'intensité indique l'âge du vin, la couleur indique le cépage || Intensity indicates the wine's age, whereas colour indicates the grape
+D: Sono sinonimi: la SAT li usa entrambi solo per i vini rossi || Ce sont des synonymes : la SAT les emploie seulement pour les rouges || They are synonyms: the SAT uses both only for red wines
+
+@576d4d5
+A: Rifermentazione o malolattica in bottiglia || Refermentation ou malolactique en bouteille || Refermentation or malolactic fermentation in bottle
+B: Contaminazione da TCA del tappo || Contamination du bouchon par le TCA || TCA contamination from the cork
+C: Ossidazione da chiusura difettosa || Oxydation due à un bouchage défectueux || Oxidation from a faulty closure
+D: Riduzione dovuta al tappo a vite || Réduction due à la capsule à vis || Reduction caused by the screwcap
+
+@ca244c3
+A: TCA (tricloroanisolo) || TCA (trichloroanisole) || TCA (trichloroanisole)
+B: Riduzione || Réduction || Reduction
+C: Brettanomyces || Brettanomyces || Brettanomyces
+D: Acidità volatile || Acidité volatile || Volatile acidity
+
+@a6245b7
+A: Fiammifero appena spento || Allumette tout juste éteinte || A freshly struck match
+B: Uova marce || Œuf pourri || Rotten eggs
+C: Cartone bagnato || Carton mouillé || Damp cardboard
+D: Smalto per unghie || Vernis à ongles || Nail varnish
+
+@fb925b3
+A: Ha perso vivacità e freschezza per età o cattiva conservazione || Il a perdu éclat et fraîcheur par l'âge ou un mauvais stockage || It has lost vibrancy and freshness through age or poor storage
+B: Ha troppa anidride solforosa e aromi di fiammifero || Il a trop de dioxyde de soufre et des arômes d'allumette || It has too much sulfur dioxide and struck-match aromas
+C: Ha un sentore di muffa dovuto al tappo contaminato || Il a une odeur de moisi due au bouchon contaminé || It has a musty smell due to a tainted cork
+D: Ha aromi animali e di cuoio dovuti a lieviti indesiderati || Il a des arômes animaux et de cuir dus à des levures || It has animal and leather aromas due to spoilage yeast
+
+@509b362
+A: Aceto o solvente per smalto || Vinaigre ou dissolvant pour vernis || Vinegar or nail varnish remover
+B: Cavolo bollito o uova marce || Chou bouilli ou œuf pourri || Boiled cabbage or rotten eggs
+C: Cartone bagnato o cantina umida || Carton mouillé ou cave humide || Damp cardboard or musty cellar
+D: Cerotto o sudore di cavallo || Pansement ou sueur de cheval || Sticking plaster or sweaty horse
+
+@4bfd1eb
+A: Cerotto, vinile caldo, carne affumicata, cuoio, cavallo sudato || Pansement, vinyle chaud, viande fumée, cuir, cheval en sueur || Sticking plaster, hot vinyl, smoked meat, leather, sweaty horse
+B: Aceto, solvente per smalto, colla e frutta troppo matura || Vinaigre, dissolvant, colle et fruits trop mûrs || Vinegar, nail varnish remover, glue and overripe fruit
+C: Fiammifero acceso, uova marce, cavolo bollito, aglio || Allumette, œuf pourri, chou bouilli, ail || Struck match, rotten eggs, boiled cabbage, garlic
+D: Cartone bagnato, cantina umida, muffa, giornale vecchio || Carton mouillé, cave humide, moisi, vieux journal || Damp cardboard, musty cellar, mould, old newspaper
+
+@0cfb82d
+A: Quando gli aromi sono evidenti subito, anche senza annusare a fondo || Quand les arômes sont évidents tout de suite, même sans humer à fond || When aromas are obvious straight away, even without deep sniffing
+B: Quando gli aromi compaiono solo dopo una lunga rotazione del bicchiere || Quand les arômes n'apparaissent qu'après une longue agitation du verre || When aromas appear only after swirling the glass for a long time
+C: Quando prevalgono aromi terziari di evoluzione, come cuoio e funghi || Quand dominent des arômes tertiaires d'évolution, comme cuir et champignon || When tertiary aromas such as leather and mushroom dominate
+D: Quando l'alcol è elevato e si percepisce un calore al naso || Quand l'alcool est élevé et qu'on sent une chaleur au nez || When alcohol is high and a warmth is felt on the nose
+
+@e363e09
+A: Quelli presenti dopo la fermentazione, provenienti dall'uva o dalla fermentazione || Ceux présents après la fermentation, issus du raisin ou de la fermentation || Those present after fermentation, from the grapes or the fermentation
+B: Quelli che derivano dal legno, come vaniglia, tostato e chiodi di garofano || Ceux qui viennent du bois, comme vanille, toasté et clou de girofle || Those from oak, such as vanilla, toast and cloves
+C: Quelli che si sviluppano con l'affinamento in bottiglia, come miele e funghi || Ceux qui se développent avec l'âge en bouteille, comme miel et champignon || Those developing with bottle age, such as honey and mushroom
+D: Quelli dovuti alle tecniche di cantina, come lieviti, malolattica e legno || Ceux dus aux techniques de cave, comme levures, malolactique et bois || Those due to winemaking, such as lees, malolactic and oak
+
+@301a29a
+A: Alcuni aromi sono molto delicati e una prima annusata può rivelarli || Certains arômes sont très délicats et un premier nez peut les révéler || Some aromas are very delicate and a quick first sniff may reveal them
+B: Ruotare il vino elimina subito gli aromi primari più volatili || Agiter le vin élimine aussitôt les arômes primaires les plus volatils || Swirling instantly removes the most volatile primary aromas
+C: La SAT vieta di annusare di nuovo dopo aver ruotato il bicchiere || La SAT interdit de humer de nouveau après avoir agité le verre || The SAT forbids sniffing again after swirling the glass
+D: Prima di ruotare si percepiscono i difetti, dopo non più || Avant d'agiter on perçoit les défauts, après plus du tout || Faults are detectable before swirling but not afterwards
+
+@6f53a62
+A: No, ma devi conoscere i difetti comuni e saperli riconoscere || Non, mais vous devez connaître les défauts courants et les reconnaître || No, but you must know the common faults and be able to identify them
+B: Sì, ogni sessione d'esame include almeno un vino difettoso || Oui, chaque session d'examen comprend au moins un vin défectueux || Yes, every exam session includes at least one faulty wine
+C: Sì, ma solo per i vini rossi serviti nella seconda parte || Oui, mais seulement pour les rouges servis en seconde partie || Yes, but only for the red wines served in the second part
+D: No, e non è richiesto conoscerli per la parte teorica || Non, et il n'est pas nécessaire de les connaître pour la théorie || No, and knowing them is not required for the theory paper
+
+@efe08f0
+A: No: alcuni vini sono prodotti in stile ossidativo e allora non è un difetto || Non : certains vins sont élaborés en style oxydatif, ce n'est alors pas un défaut || No: some wines are made in an oxidative style, and then it is not a fault
+B: Sì: colore più scuro e note di caramello indicano sempre un vino passato || Oui : couleur plus foncée et caramel indiquent toujours un vin passé || Yes: darker colour and caramel notes always mean a wine past its best
+C: No: sono sempre note di legno tostato, quindi aromi secondari voluti || Non : ce sont toujours des notes de bois toasté, donc secondaires voulues || No: they are always toasted-oak notes, so deliberate secondary aromas
+D: Sì: indicano sempre una contaminazione da TCA dovuta al tappo || Oui : ils indiquent toujours une contamination au TCA due au bouchon || Yes: they always indicate TCA contamination from the cork
+
+@17f59d1
+A: Quando, anche annusando, gli aromi sono deboli e difficili da percepire || Quand, même en humant, les arômes sont faibles et difficiles à percevoir || When, even after sniffing, aromas are faint and hard to detect
+B: Quando il vino presenta solo aromi primari, senza legno né evoluzione || Quand le vin n'a que des arômes primaires, sans bois ni évolution || When the wine shows only primary aromas, with no oak or development
+C: Quando gli aromi sono evidenti ma scompaiono dopo pochi secondi || Quand les arômes sont évidents mais disparaissent en quelques secondes || When aromas are obvious but vanish after a few seconds
+D: Quando il vino è bianco e servito a temperatura troppo bassa || Quand le vin est blanc et servi à une température trop basse || When the wine is white and served too cold
+
+@8443df2
+A: Per tipo di aroma (primario, secondario, terziario), diviso in gruppi con descrittori || Par type d'arôme (primaire, secondaire, tertiaire), divisé en familles avec descripteurs || By aroma type (primary, secondary, tertiary), split into clusters with descriptors
+B: Per vitigno, con i descrittori tipici di ciascuna varietà internazionale || Par cépage, avec les descripteurs typiques de chaque variété internationale || By grape variety, with the typical descriptors of each international variety
+C: Per regione d'origine, partendo dai vini del Vecchio Mondo || Par région d'origine, en commençant par les vins de l'Ancien Monde || By region of origin, starting with Old World wines
+D: In ordine alfabetico, con una definizione per ciascun descrittore || Par ordre alphabétique, avec une définition pour chaque descripteur || Alphabetically, with a definition for each descriptor
+
+@35457c8
+A: Possono risultare piacevoli e dare complessità; a volte l'odore svanisce dopo l'apertura || Ils peuvent être agréables et apporter de la complexité ; parfois l'odeur se dissipe à l'ouverture || They can be pleasant and add complexity; sometimes the smell fades once opened
+B: Sono sempre un difetto grave, perché l'odore aumenta con l'aerazione || Ils sont toujours un défaut grave, car l'odeur augmente à l'aération || They are always a serious fault, because the smell increases with aeration
+C: Provocano l'odore di cartone bagnato tipico del tappo contaminato || Ils provoquent l'odeur de carton mouillé typique du bouchon contaminé || They cause the damp-cardboard smell typical of a tainted cork
+D: Rendono il vino bruno e privo di frutto, come nell'ossidazione || Ils rendent le vin brun et sans fruit, comme l'oxydation || They turn the wine brown and fruitless, as oxidation does

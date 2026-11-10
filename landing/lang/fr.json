@@ -1,0 +1,849 @@
+{
+ "code": "fr",
+ "name": "Français",
+ "locale": "fr_FR",
+ "hreflang": [
+  "fr",
+  "fr-FR",
+  "fr-BE",
+  "fr-CH",
+  "fr-LU",
+  "fr-CA",
+  "fr-MC"
+ ],
+ "title": "Préparation examen WSET niveau 3 | QCM, questions ouvertes et examens blancs – The Wine Goat",
+ "desc": "Préparez l'examen WSET niveau 3 (Award in Wines) en français : plus de 2 000 QCM, 101 questions à réponse courte corrigées, dégustation SAT, examens blancs et pièges d'examen. Essai gratuit. Appli personnalisée avec planning de révision et points faibles.",
+ "keywords": "WSET 3, WSET niveau 3, préparation WSET 3, examen WSET 3, QCM WSET 3, quiz WSET 3, annales WSET 3, examen blanc WSET 3, WSET Level 3 Award in Wines, questions ouvertes WSET, dégustation WSET 3, SAT WSET, réussir le WSET 3, WSET 3 en français, WSET 2, WSET 1",
+ "ogtitle": "Réussissez le WSET 3 du premier coup – The Wine Goat",
+ "ogdesc": "QCM, questions ouvertes corrigées, dégustation et pièges d'examen : la préparation au WSET niveau 3 en français. Essai gratuit.",
+ "skip": "Aller au contenu",
+ "nav": {
+  "levels": "Niveaux",
+  "trial": "Essai gratuit",
+  "exam": "L'examen",
+  "program": "Programme",
+  "pricing": "Modules et tarifs",
+  "faq": "Questions fréquentes",
+  "login": "Ouvrir l'app",
+  "cta": "Commencer gratuitement",
+  "menu": "Menu",
+  "lang": "Langue"
+ },
+ "hero": {
+  "kicker": "Préparation à l'examen WSET® niveau 3 · Award in Wines",
+  "h1": "Réussissez l'examen WSET 3 du premier coup",
+  "lead": "QCM WSET 3, questions à réponse courte corrigées immédiatement, dégustation selon l'approche systématique (SAT), examens blancs et tous les pièges à éviter. En français, où que vous soyez. Une appli personnalisée : elle crée votre planning de révision jusqu'à l'examen, vous dit quoi faire chaque jour et vous aide à combler vos lacunes.",
+  "cta1": "Jouer maintenant, c'est gratuit",
+  "cta2": "Voir les modules",
+  "bullets": [
+   "Bordeaux gratuit, en entier",
+   "Vous ne payez que les modules utiles",
+   "Aucun abonnement"
+  ],
+  "stats": [
+   [
+    "2 000+",
+    "QCM"
+   ],
+   [
+    "101",
+    "questions à réponse courte"
+   ],
+   [
+    "28",
+    "thèmes et régions du programme"
+   ]
+  ],
+  "img_alt": "La chèvre de The Wine Goat, cape bordeaux, lève un verre de vin rouge entre les grappes de raisin"
+ },
+ "levels": {
+  "h2": "Préparation WSET niveaux 1, 2 et 3",
+  "intro": "Une seule plateforme pour tout le parcours WSET Wines : commencez au niveau qu'il vous faut et continuez avec la même méthode.",
+  "cards": [
+   [
+    "WSET niveau 3",
+    "Disponible",
+    "Le niveau avancé : théorie complète, questions à réponse courte, dégustation à l'aveugle selon le SAT et examens blancs.",
+    "Commencer le niveau 3"
+   ],
+   [
+    "WSET niveau 2",
+    "Bientôt",
+    "Les grands cépages et régions du monde, l'étiquette et les accords : QCM et révisions pour l'examen.",
+    "Me prévenir"
+   ],
+   [
+    "WSET niveau 1",
+    "Bientôt",
+    "Les bases du vin : styles, service et accords mets-vins, avec des quiz courts pour arriver serein à l'examen.",
+    "Me prévenir"
+   ]
+  ]
+ },
+ "feat": {
+  "h2": "Tout ce qu'il faut pour réussir l'examen WSET 3, dans chaque module",
+  "intro": "Chaque module comprend tous les outils de l'application pour cette partie du programme.",
+  "items": [
+   [
+    "Une appli personnalisée qui vous guide",
+    "L'appli vous crée un planning jour par jour jusqu'à l'examen, selon votre objectif (Pass, Merit ou Distinction), la date de l'examen, vos jours de cours et le temps dont vous disposez. Elle vous conseille, repère vos points faibles et vous les fait réviser en priorité."
+   ],
+   [
+    "Plus de 2 000 QCM WSET 3",
+    "Des questions à choix multiple sur la viticulture, la vinification, les régions, les effervescents et les vins mutés, avec l'explication de chaque réponse."
+   ],
+   [
+    "Questions à réponse courte corrigées",
+    "Rédigez votre réponse et recevez aussitôt une correction point par point, d'après les points clés du livre : ce que vous avez trouvé, ce qui manque, combien de points vous auriez obtenus."
+   ],
+   [
+    "Notes : photos et cours",
+    "Photographiez les pages de vos notes et retrouvez-les dans l'application à côté de votre texte, ou transcrivez le cours pendant que l'enseignant parle."
+   ],
+   [
+    "La réponse parfaite",
+    "Pour chaque question ouverte, la réponse modèle qui obtient tous les points, pour comprendre ce qu'attend le correcteur."
+   ],
+   [
+    "Dégustation selon le SAT",
+    "Aspect, nez, bouche et conclusions : entraînez-vous à décrire le vin avec le bon vocabulaire et à justifier qualité et potentiel."
+   ],
+   [
+    "Logique d'examen et pièges",
+    "La chaîne climat → raisin → vin, les mots qui font perdre des points, les questions pièges qui reviennent chaque année."
+   ],
+   [
+    "Révision des erreurs",
+    "Chaque mauvaise réponse revient jusqu'à ce que vous la sachiez : le compteur d'erreurs baisse à mesure que vous les corrigez."
+   ],
+   [
+    "Jeux, cartes et synonymes",
+    "Associations, noms locaux des cépages, cartes des régions et podcasts pour réviser même dans le métro."
+   ]
+  ]
+ },
+ "trial": {
+  "h2": "Essai gratuit : questions d'examen WSET 3",
+  "intro": "Six vraies questions de notre banque, avec l'explication après chaque réponse. Sans inscription.",
+  "q": "Question",
+  "check": "Valider",
+  "next": "Question suivante",
+  "finish": "Voir le résultat",
+  "ok": "Exact !",
+  "ko": "Pas tout à fait.",
+  "score": "Bonnes réponses : {n} sur {t}.",
+  "restart": "Recommencer",
+  "after_h": "Ça vous a plu ?",
+  "after_p": "Dans l'application, le module Bordeaux est entièrement gratuit : QCM, questions ouvertes corrigées et révision de vos erreurs.",
+  "after_cta": "Ouvrir l'app gratuitement",
+  "open_h": "Et une question à réponse courte",
+  "open_intro": "À l'examen WSET 3, les questions ouvertes valent la moitié de la théorie. Répondez mentalement, puis regardez les éléments qui rapportent des points.",
+  "open_btn": "Afficher les éléments à citer",
+  "open_hide": "Masquer",
+  "open_marks": "points"
+ },
+ "exam": {
+  "h2": "Comment se déroule l'examen WSET niveau 3",
+  "intro": "Savoir comment on est évalué, c'est déjà la moitié de la préparation. L'examen WSET Level 3 Award in Wines comporte deux parties, et il faut réussir les deux.",
+  "cards": [
+   [
+    "Théorie : 50 questions à choix multiple",
+    "Elles couvrent tout le programme, des conditions du vignoble aux régions du monde. Il faut être rapide et précis."
+   ],
+   [
+    "Théorie : 4 questions à réponse courte",
+    "Des questions rédigées, découpées en sous-questions : il faut relier la cause et l'effet, pas aligner des mots-clés."
+   ],
+   [
+    "Dégustation à l'aveugle de 2 vins",
+    "Une note de dégustation complète selon l'approche systématique (SAT) : description précise et conclusions justifiées."
+   ],
+   [
+    "Seuil de réussite : 55 %",
+    "Il faut obtenir 55 % à la dégustation et dans chacune des deux sections de la théorie. Les mentions possibles sont Pass, Merit et Distinction."
+   ]
+  ],
+  "tip": "Le conseil The Wine Goat : les questions à réponse courte sont la partie où l'on perd le plus de points. Entraînez-vous à l'écrit dès la première semaine."
+ },
+ "prog": {
+  "h2": "Programme du WSET 3 : tous les thèmes que vous révisez",
+  "intro": "QCM et questions ouvertes suivent le programme de l'examen WSET niveau 3, thème par thème et région par région.",
+  "groups": [
+   [
+    "Fondamentaux",
+    [
+     [
+      "deg",
+      "Dégustation et SAT"
+     ],
+     [
+      "cib",
+      "Accords mets-vins"
+     ],
+     [
+      "srv",
+      "Conservation et service"
+     ],
+     [
+      "prx",
+      "Prix et commerce du vin"
+     ]
+    ]
+   ],
+   [
+    "Vignoble",
+    [
+     [
+      "vig",
+      "La vigne et les cépages"
+     ],
+     [
+      "env",
+      "Climat et environnement"
+     ],
+     [
+      "vgm",
+      "Conduite de la vigne et taille"
+     ]
+    ]
+   ],
+   [
+    "Chai",
+    [
+     [
+      "vin",
+      "Vinification et élevage"
+     ],
+     [
+      "wht",
+      "Vins blancs"
+     ],
+     [
+      "red",
+      "Vins rouges et rosés"
+     ]
+    ]
+   ],
+   [
+    "France",
+    [
+     [
+      "bdx",
+      "Bordeaux"
+     ],
+     [
+      "bgn",
+      "Bourgogne et Beaujolais"
+     ],
+     [
+      "als",
+      "Alsace et Loire"
+     ],
+     [
+      "rho",
+      "Vallée du Rhône"
+     ],
+     [
+      "sfr",
+      "Sud de la France"
+     ]
+    ]
+   ],
+   [
+    "Europe",
+    [
+     [
+      "ita",
+      "Italie"
+     ],
+     [
+      "esp",
+      "Espagne"
+     ],
+     [
+      "por",
+      "Portugal"
+     ],
+     [
+      "ger",
+      "Allemagne"
+     ],
+     [
+      "aut",
+      "Autriche et Hongrie"
+     ],
+     [
+      "gre",
+      "Grèce"
+     ]
+    ]
+   ],
+   [
+    "Nouveau Monde",
+    [
+     [
+      "usa",
+      "États-Unis et Canada"
+     ],
+     [
+      "chi",
+      "Chili et Argentine"
+     ],
+     [
+      "rsa",
+      "Afrique du Sud"
+     ],
+     [
+      "aus",
+      "Australie et Nouvelle-Zélande"
+     ]
+    ]
+   ],
+   [
+    "Vins spéciaux",
+    [
+     [
+      "spu",
+      "Effervescents : champagne, prosecco, cava"
+     ],
+     [
+      "she",
+      "Xérès"
+     ],
+     [
+      "prt",
+      "Porto et vins mutés"
+     ]
+    ]
+   ]
+  ],
+  "qn": "QCM"
+ },
+ "method": {
+  "h2": "La méthode The Wine Goat en 4 étapes",
+  "steps": [
+   [
+    "Entraînez-vous chaque jour",
+    "Dix minutes de QCM par jour valent mieux qu'un marathon la veille de l'examen. Reprenez toujours là où vous vous êtes arrêté."
+   ],
+   [
+    "Rédigez vos réponses",
+    "Les questions à réponse courte s'apprennent en écrivant. Recevez la correction et comparez-la à la réponse parfaite."
+   ],
+   [
+    "Révisez vos erreurs",
+    "Les questions ratées reviennent jusqu'à ce que vous les sachiez. Le compteur vous montre ce qu'il reste."
+   ],
+   [
+    "Simulez l'examen",
+    "Des épreuves complètes chronométrées, dans les conditions du jour J, pour arriver sans surprise."
+   ]
+  ]
+ },
+ "why": {
+  "h2": "Pourquoi choisir The Wine Goat",
+  "head": [
+   "",
+   "Réviser seul avec le livre et ses notes",
+   "The Wine Goat"
+  ],
+  "rows": [
+   [
+    "Questions d'examen pour s'entraîner",
+    "Peu nombreuses, à chercher partout",
+    "Plus de 2 000 QCM et 101 questions ouvertes"
+   ],
+   [
+    "Correction des réponses rédigées",
+    "Aucune",
+    "Immédiate, point par point, d'après les points clés du livre"
+   ],
+   [
+    "Langue",
+    "Souvent en anglais seulement",
+    "Français, italien, anglais"
+   ],
+   [
+    "Révision ciblée",
+    "On relit tout",
+    "Seulement ce que vous ratez"
+   ],
+   [
+    "Où et quand",
+    "Au bureau",
+    "Partout, même sur téléphone"
+   ]
+  ]
+ },
+ "faq": {
+  "h2": "Questions fréquentes sur la préparation au WSET 3",
+  "items": [
+   [
+    "The Wine Goat est-il le site officiel du WSET ?",
+    "Non. The Wine Goat est une plateforme indépendante de préparation à l'examen. Elle n'est ni affiliée ni agréée par le Wine & Spirit Education Trust : pour vous inscrire à l'examen, passez par une école agréée (Approved Programme Provider)."
+   ],
+   [
+    "Comment fonctionnent les modules ?",
+    "Chaque module couvre une partie du programme (par exemple « Europe » ou « Le chai ») avec QCM, questions ouvertes corrigées, jeux et supports de révision. Vous le débloquez en un seul paiement et il reste à vous pendant 12 mois, sans renouvellement automatique."
+   ],
+   [
+    "Qu'est-ce qui est gratuit ?",
+    "Tout le module Bordeaux, en entier, plus quelques exercices d'essai des autres modules. Aucune carte bancaire n'est demandée."
+   ],
+   [
+    "Puis-je remplacer le cours WSET 3 par The Wine Goat ?",
+    "Non, c'est un complément. Le cours et les supports officiels vous donnent les bases ; The Wine Goat vous entraîne à les retenir et à bien les rédiger le jour de l'examen."
+   ],
+   [
+    "Les questions sont-elles en français ?",
+    "Oui. Toute la plateforme existe en français, en italien et en anglais, et vous changez de langue quand vous voulez : pratique si vous passez l'examen en anglais."
+   ],
+   [
+    "Comment fonctionne la correction des questions à réponse courte ?",
+    "Rédigez votre réponse : l'application la compare aux points clés du livre, indique les éléments trouvés et ceux qui manquent, estime la note et vous montre la réponse modèle. Tout se fait sur votre appareil, sans service extérieur."
+   ],
+   [
+    "Combien de temps faut-il pour préparer le WSET 3 ?",
+    "Cela dépend de votre niveau de départ, mais il faut en général quelques mois de travail régulier en plus des heures de cours. Les modules restent à vous pendant 12 mois : vous avez le temps, même pour une seconde session."
+   ],
+   [
+    "Combien de questions compte l'examen WSET niveau 3 ?",
+    "La théorie comprend 50 questions à choix multiple et 4 questions à réponse courte ; s'y ajoute la dégustation à l'aveugle de deux vins."
+   ],
+   [
+    "Quelle note faut-il pour réussir le WSET 3 ?",
+    "55 % à la dégustation et dans chacune des deux sections de la théorie. Les mentions sont Pass, Merit ou Distinction."
+   ],
+   [
+    "Puis-je m'entraîner aussi à la dégustation ?",
+    "Oui : guide de l'approche systématique (SAT), vocabulaire pour chaque rubrique et questions sur la qualité et le potentiel de garde. Rien ne remplace toutefois le vin dans le verre."
+   ],
+   [
+    "Est-ce que ça marche sur téléphone ?",
+    "Oui, The Wine Goat fonctionne dans le navigateur du téléphone, de la tablette et de l'ordinateur. Votre progression reste enregistrée sur l'appareil que vous utilisez."
+   ],
+   [
+    "Y aura-t-il une préparation WSET 1 et WSET 2 ?",
+    "Oui, les niveaux 2 et 1 arrivent avec la même méthode et la même formule par modules."
+   ]
+  ]
+ },
+ "final": {
+  "h2": "Votre examen WSET 3 commence aujourd'hui",
+  "p": "Six questions gratuites, sans carte bancaire : découvrez tout de suite où vous en êtes.",
+  "cta": "Essayer gratuitement"
+ },
+ "foot": {
+  "tag": "Préparation aux examens WSET vins en français, en italien et en anglais.",
+  "disc": "The Wine Goat est une plateforme indépendante de préparation aux examens. Elle n'est ni affiliée, ni agréée, ni sponsorisée par le Wine & Spirit Education Trust. WSET® est une marque déposée du Wine & Spirit Education Trust, citée uniquement pour désigner l'examen préparé.",
+  "langs": "Langues",
+  "follow": "Suivez-nous",
+  "rights": "Tous droits réservés."
+ },
+ "notify": "Nous vous préviendrons dès sa sortie : suivez-nous sur Instagram @the.winegoat.",
+ "quick": {
+  "kick": "Question éclair · Bordeaux",
+  "more": "D'autres questions gratuites",
+  "ok": "Exact !",
+  "ko": "Presque !",
+  "next": "Une autre"
+ },
+ "free": {
+  "tag": "Module gratuit",
+  "h": "Bordeaux gratuit : commencez la préparation au WSET 3 sans payer",
+  "p": "QCM, questions ouvertes corrigées, cartes et jeux sur Bordeaux : tout le module est ouvert, sans carte bancaire. Testez la méthode sur l'une des régions phares de l'examen.",
+  "cta": "Commencer par Bordeaux",
+  "n": "QCM sur Bordeaux"
+ },
+ "explore": {
+  "h2": "Essai gratuit : QCM et jeux WSET 3, ici et tout de suite",
+  "intro": "Six vrais exercices, directement sur cette page. Choisissez-en un et jouez : dans l'application, il y en a des milliers.",
+  "tabs": {
+   "quiz": "QCM",
+   "match": "Associations",
+   "tf": "Vrai ou faux",
+   "flash": "Flashcards",
+   "open": "Question ouverte",
+   "notes": "Notes",
+   "film": "Films",
+   "pod": "Podcast"
+  },
+  "from": "Fait partie du module",
+  "unlock": "Débloquer le module",
+  "match": {
+   "h": "Même cépage, noms différents",
+   "p": "Touchez un nom local, puis le cépage correspondant.",
+   "pairs": [
+    [
+     "Tinta Roriz",
+     "Tempranillo"
+    ],
+    [
+     "Cannonau",
+     "Garnacha"
+    ],
+    [
+     "Côt",
+     "Malbec"
+    ],
+    [
+     "Steen",
+     "Chenin blanc"
+    ],
+    [
+     "Shiraz",
+     "Syrah"
+    ]
+   ],
+   "done": "Parfait ! {e} erreur(s).",
+   "again": "Rejouer",
+   "mod": "eur"
+  },
+  "tf": {
+   "h": "Vrai ou faux ? Les pièges d'examen",
+   "p": "Des affirmations qui trompent beaucoup de candidats.",
+   "t": "Vrai",
+   "f": "Faux",
+   "score": "{n} sur {t} justes",
+   "again": "Rejouer",
+   "mod": "exam",
+   "items": [
+    [
+     "L'Extra-dry est plus sec que le Brut.",
+     false,
+     "C'est l'inverse : Extra-dry 12–17 g/L de sucre, Brut 0–12 g/L."
+    ],
+    [
+     "Le Vino Nobile di Montepulciano est élaboré avec le cépage montepulciano.",
+     false,
+     "Il est élaboré avec du sangiovese : Montepulciano est ici le nom de la ville."
+    ],
+    [
+     "Le pinotage est un croisement de pinot noir et de cinsault.",
+     true,
+     "Créé en Afrique du Sud, il est presque absent ailleurs."
+    ],
+    [
+     "Le fino est viné à environ 15 %, pour que la flor survive.",
+     true,
+     "Vers 17 %, la flor meurt : c'est la voie de l'oloroso."
+    ],
+    [
+     "À Bordeaux, presque tous les vins sont des assemblages.",
+     true,
+     "L'exception la plus courante : quelques sauvignons blancs secs en monocépage."
+    ]
+   ]
+  },
+  "flash": {
+   "h": "Flashcards",
+   "p": "Touchez la carte pour la retourner.",
+   "flip": "Retourner",
+   "next": "Suivante",
+   "mod": "cel",
+   "cards": [
+    [
+     "Flor",
+     "Voile de levures qui se développe sur le vin à environ 15 % et le protège de l'oxygène : il donne le fino et la manzanilla."
+    ],
+    [
+     "Botrytis cinerea",
+     "Pourriture noble : brouillards matinaux et après-midi secs concentrent sucres et acidité (Sauternes, Tokaji)."
+    ],
+    [
+     "Macération carbonique",
+     "Fermentation à l'intérieur des baies entières sous CO₂ : fruits rouges, kirsch, banane, tanins souples."
+    ],
+    [
+     "Fermentation malolactique",
+     "Les bactéries lactiques transforment l'acide malique en acide lactique : acidité plus douce, notes beurrées."
+    ]
+   ]
+  },
+  "notes": {
+   "h": "Vos notes, sans effort",
+   "p": "Deux outils qu'aucun livre ne vous donne.",
+   "photo_t": "Photos des notes",
+   "photo_d": "Photographiez vos pages manuscrites : elles restent dans l'application, sur votre appareil, à côté de votre texte.",
+   "lesson_t": "Notes en cours",
+   "lesson_d": "L'application écoute l'enseignant et transcrit pendant qu'il parle.",
+   "demo": [
+    "Le merlot est le cépage le plus planté à Bordeaux.",
+    "Sur la rive gauche, le cabernet-sauvignon domine sur les sols de graves.",
+    "Sur la rive droite, des argiles fraîches : davantage de merlot."
+   ],
+   "rec": "À l'écoute",
+   "mod": "all"
+  },
+  "film": {
+   "h": "Films du vin",
+   "p": "Chaque thème devient un court film animé et commenté : la taille, la vinification, les régions avec leurs cartes. À la fin : les mots clés et un test.",
+   "cta": "Voir les films dans l'app",
+   "mod": "all"
+  },
+  "pod": {
+   "h": "Podcast : Bordeaux",
+   "p": "Écoutez un vrai épisode. Dans l'application, les 45 chapitres sont disponibles, avec le texte qui défile pendant l'écoute.",
+   "cta": "Tous les podcasts dans l'app",
+   "mod": "bdx"
+  }
+ },
+ "mods": {
+  "h2": "Préparation au WSET 3 par modules : ne payez que ce qui vous sert",
+  "intro": "Pas d'abonnement : vous débloquez un module en un seul paiement et il reste à vous pendant 12 mois. Bordeaux est gratuit pour tous.",
+  "free": "Gratuit",
+  "buy": "Débloquer",
+  "openfree": "Ouvrir gratuitement",
+  "q": "QCM",
+  "once": "paiement unique",
+  "items": {
+   "bdx": [
+    "Bordeaux",
+    "Le module d'essai : complet et gratuit."
+   ],
+   "tas": [
+    "Dégustation, mets et service",
+    "Approche SAT, accords, conservation et service."
+   ],
+   "vin": [
+    "Le vignoble",
+    "Climat, environnement, conduite de la vigne et taille."
+   ],
+   "cel": [
+    "Le chai",
+    "Vinification des blancs, rouges et rosés, élevage, prix."
+   ],
+   "fra": [
+    "France (hors Bordeaux)",
+    "Bourgogne, Beaujolais, Alsace, Loire, Rhône, Sud."
+   ],
+   "eur": [
+    "Europe",
+    "Italie, Espagne, Portugal, Allemagne, Autriche, Hongrie, Grèce."
+   ],
+   "nw": [
+    "Nouveau Monde",
+    "États-Unis, Canada, Chili, Argentine, Afrique du Sud, Australie, Nouvelle-Zélande."
+   ],
+   "spe": [
+    "Effervescents et vins mutés",
+    "Champagne, prosecco, cava, xérès, porto et vins doux."
+   ],
+   "exam": [
+    "Examen et stratégie",
+    "Examens blancs complets, logique d'examen et pièges."
+   ]
+  },
+  "examq": "examens blancs",
+  "bundle": {
+   "badge": "Le plus avantageux",
+   "name": "Tous les modules",
+   "desc": "Tout le niveau 3, tous les outils, 12 mois.",
+   "cta": "Tout débloquer",
+   "save": "Économisez {s}"
+  },
+  "note": "Prix TTC. Vous avez déjà des modules ? En passant à « Tous les modules », vous ne payez que la différence."
+ },
+ "guide": {
+  "h2": "Comment préparer l'examen WSET niveau 3",
+  "intro": "Le guide pour réussir le WSET Level 3 Award in Wines du premier coup : quoi réviser, comment s'entraîner et quelles erreurs éviter.",
+  "blocks": [
+   [
+    "QCM WSET 3 : les questions à choix multiple",
+    "La première partie de la théorie comprend 50 questions à choix multiple. La meilleure préparation consiste à répondre à beaucoup de questions au format de l'examen et à comprendre chaque erreur : The Wine Goat réunit plus de 2 000 QCM WSET 3 expliqués, classés par thème et par région, du vignoble au chai, de Bordeaux à la Nouvelle-Zélande."
+   ],
+   [
+    "Questions à réponse courte WSET 3",
+    "Les 4 questions à réponse courte représentent la moitié de la théorie, et c'est là que l'on perd le plus de points. Connaître les faits ne suffit pas : il faut expliquer le pourquoi, en reliant la cause et l'effet (climat → maturité → style du vin). Avec The Wine Goat, vous rédigez votre réponse, recevez une correction point par point d'après les points clés du livre et voyez la réponse modèle."
+   ],
+   [
+    "Examen blanc WSET 3",
+    "Faire au moins quelques examens blancs complets et chronométrés est le meilleur moyen d'arriver serein : on prend le rythme de l'examen et on voit quels chapitres réviser. Le module « Examen et stratégie » comprend des examens blancs WSET 3, la logique d'examen et les pièges les plus fréquents."
+   ],
+   [
+    "Dégustation WSET 3 selon le SAT",
+    "L'épreuve de dégustation à l'aveugle de deux vins se prépare avec l'approche systématique (SAT) : aspect, nez, bouche et conclusions sur la qualité et le potentiel de garde. Dans l'application, vous trouvez le vocabulaire de chaque rubrique et des questions pour entraîner vos conclusions ; le verre reste le meilleur entraînement."
+   ],
+   [
+    "Réviser le WSET 3 en français",
+    "Beaucoup de supports de révision n'existent qu'en anglais. The Wine Goat est en français, en italien et en anglais : vous révisez dans votre langue et passez à l'anglais d'un geste si vous présentez l'examen en anglais."
+   ],
+   [
+    "Un planning de révision pour le WSET 3",
+    "Dix minutes de QCM par jour, une question ouverte rédigée par semaine, la révision des erreurs et un examen blanc dans les dernières semaines : c'est le rythme que nous proposons. Avec les modules, vous choisissez par quelle partie du programme WSET 3 commencer, et Bordeaux est gratuit pour essayer."
+   ]
+  ],
+  "searches_h": "Les recherches auxquelles nous répondons",
+  "searches": [
+   "préparation WSET 3",
+   "QCM WSET 3",
+   "annales WSET 3",
+   "examen blanc WSET 3",
+   "questions ouvertes WSET 3",
+   "dégustation WSET 3 SAT",
+   "réussir le WSET 3",
+   "WSET 3 en français",
+   "WSET Level 3 Award in Wines",
+   "révisions WSET 3",
+   "WSET 2 et WSET 1 bientôt"
+  ]
+ },
+ "all": {
+  "h2": "Tout ce que vous trouvez dans The Wine Goat",
+  "intro": "Pas seulement des QCM : des exercices de toutes sortes, des jeux, des films animés, des podcasts, des cartes et des outils pour vos notes. Touchez une case pour l'essayer.",
+  "try": "Essayer ici",
+  "open": "Ouvrir dans l'app",
+  "tiles": {
+   "quiz": [
+    "QCM",
+    "Avec l'explication de chaque réponse"
+   ],
+   "open": [
+    "Questions ouvertes corrigées",
+    "Correction point par point d'après les points clés du livre"
+   ],
+   "exam": [
+    "Examen blanc",
+    "QCM, questions rédigées et dégustation chronométrés"
+   ],
+   "sat": [
+    "Dégustation SAT",
+    "Notes de dégustation avec correction de la structure"
+   ],
+   "games": [
+    "Jeux",
+    "Vendanges, bulles, vrai ou faux, associations…"
+   ],
+   "films": [
+    "Films du vin",
+    "Leçons animées commentées, cartes et test final"
+   ],
+   "pods": [
+    "Podcasts",
+    "Un chapitre par épisode, avec le texte à suivre"
+   ],
+   "flash": [
+    "Flashcards",
+    "Questions, termes, chiffres et cépages à retourner"
+   ],
+   "maps": [
+    "Cartes interactives",
+    "Pays, régions et sous-régions à explorer"
+   ],
+   "grapes": [
+    "Fiches cépages",
+    "Climat, arômes, styles et régions de chaque cépage"
+   ],
+   "dict": [
+    "Dictionnaire et chiffres",
+    "Tous les termes et les nombres à connaître"
+   ],
+   "logic": [
+    "Logique d'examen et pièges",
+    "Comment raisonne le correcteur, les pièges classiques"
+   ],
+   "notes": [
+    "Notes en cours",
+    "Enregistrez le cours ou photographiez vos pages"
+   ],
+   "plan": [
+    "Votre planning de révision",
+    "Programme jour par jour, conseils et points faibles à revoir"
+   ]
+  },
+  "units": {
+   "films": "films",
+   "pods": "épisodes",
+   "games": "jeux",
+   "maps": "cartes",
+   "grapes": "cépages",
+   "flash": "cartes",
+   "dict": "entrées",
+   "logic": "conseils",
+   "quiz": "QCM",
+   "open": "questions"
+  }
+ },
+ "inside": {
+  "h2": "Regardez à l'intérieur de l'application",
+  "intro": "De vrais écrans, tels que vous les verrez sur votre téléphone.",
+  "caps": {
+   "home": "Votre plan du jour",
+   "study": "Entraînement pour l'examen",
+   "films": "68 films animés",
+   "pods": "45 podcasts",
+   "play": "Jeux",
+   "atlas": "Atlas interactif",
+   "notes": "Vos notes"
+  }
+ },
+ "vs": {
+  "h2": "Pourquoi The Wine Goat vaut plus",
+  "intro": "Les autres ressources pour préparer le WSET 3 ne couvrent qu'une partie. Ici, vous avez tout, dans votre langue.",
+  "cols": [
+   "",
+   "The Wine Goat",
+   "Applis de QCM",
+   "Annales en PDF",
+   "Livre et notes"
+  ],
+  "rows": [
+   [
+    "QCM",
+    "✓ plus de 2 000",
+    "✓",
+    "✓",
+    "—"
+   ],
+   [
+    "Correction des réponses rédigées",
+    "✓ immédiate",
+    "—",
+    "soi-même",
+    "—"
+   ],
+   [
+    "Films animés et podcasts",
+    "✓ 68 films · 45 podcasts",
+    "—",
+    "—",
+    "—"
+   ],
+   [
+    "Jeux pour mémoriser",
+    "✓ 11 jeux",
+    "parfois",
+    "—",
+    "—"
+   ],
+   [
+    "Cartes interactives",
+    "✓ 42 cartes",
+    "—",
+    "—",
+    "sur papier"
+   ],
+   [
+    "Notes en cours et photos",
+    "✓",
+    "—",
+    "—",
+    "à la main"
+   ],
+   [
+    "Langues",
+    "FR · IT · EN",
+    "souvent anglais seulement",
+    "anglais",
+    "—"
+   ],
+   [
+    "Pour commencer",
+    "Bordeaux gratuit",
+    "payant",
+    "payant",
+    "—"
+   ]
+  ]
+ }
+}
