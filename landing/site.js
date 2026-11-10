@@ -104,18 +104,14 @@ function demoStart(){if(demoOn)return;var box=$('#demo');if(!box)return;demoOn=t
   (function step(){if(li>=lines.length){setTimeout(function(){box.textContent='';li=0;ci=0;step();},2600);return;}
     ci++;box.textContent=lines.slice(0,li).join(' ')+(li?' ':'')+lines[li].slice(0,ci);
     if(ci>=lines[li].length){li++;ci=0;setTimeout(step,700);}else setTimeout(step,38);})();}
-/* ---- v9: living page — rising bubbles, drifting wine props, goats that hop, bubble burst on right answers ---- */
-(function(){ var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches; if(RM) return;
-  function bubbles(sel,n){ $$(sel).forEach(function(s){ var b=document.createElement('div'); b.className='fxb'; b.setAttribute('aria-hidden','true');
-    for(var k=0;k<n;k++){ var i=document.createElement('i'), z=6+Math.random()*22; i.style.width=i.style.height=z+'px'; i.style.left=(Math.random()*100)+'%';
-      i.style.animationDuration=(7+Math.random()*9)+'s'; i.style.animationDelay=(-Math.random()*14)+'s'; i.style.setProperty('--dx',(Math.random()*60-30)+'px'); b.appendChild(i); }
-    s.style.position=s.style.position||'relative'; s.insertBefore(b,s.firstChild); }); }
-  bubbles('.hero',18); bubbles('.freeband',14); bubbles('.sec.dark',14); bubbles('.sec.final',16);
-  var hero=$('.hero'); if(hero){ var P=[['🍷',6,18],['🍇',44,8],['🥂',88,62],['🍾',3,70],['📚',52,86],['🍇',92,14]];
-    P.forEach(function(p,k){ var e=document.createElement('span'); e.className='fxp'; e.textContent=p[0]; e.setAttribute('aria-hidden','true'); e.style.left=p[1]+'%'; e.style.top=p[2]+'%';
-      e.style.animationDelay=(k*.7)+'s'; e.style.animationDuration=(4.5+k*.6)+'s'; e.style.fontSize=(26+(k%3)*8)+'px'; e.style.opacity=.85; hero.appendChild(e); }); }
-  /* goats hop when they come into view, and when tapped */
-  var gs=$$('.sg,.freegoat,.final-g img'); function hop(g){ g.classList.remove('hop'); void g.offsetWidth; g.classList.add('hop'); }
+/* ---- v11: little goats that hop (app style), bubble burst on right answers ---- */
+(function(){ var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var art=$('.hero-art'); if(art){ var row=document.createElement('div'); row.className='kids'; row.setAttribute('aria-hidden','true');
+    ['quick','free','explore','method','final'].forEach(function(k,n){ var im=document.createElement('img'); im.src=(document.querySelector('.hg')||{getAttribute:function(){return '../img/goats/hero.webp'}}).getAttribute('src').replace(/goats\/[a-z]+\.webp$/,'goats/'+k+'.webp'); im.alt=''; im.className='kid k'+n; im.loading='lazy'; row.appendChild(im); });
+    art.appendChild(row); }
+  if(RM) return;
+/* goats hop when they come into view, and when tapped */
+  var gs=$$('.sg,.freegoat,.final-g img,.kid'); function hop(g){ g.classList.remove('hop'); void g.offsetWidth; g.classList.add('hop'); }
   if('IntersectionObserver' in window){ var io=new IntersectionObserver(function(es){ es.forEach(function(x){ if(x.isIntersecting){ hop(x.target); } }); },{threshold:.6}); gs.forEach(function(g){ io.observe(g); }); }
   gs.concat($$('.hero-art .hg')).forEach(function(g){ g.addEventListener('click',function(){ hop(g); burst(g.getBoundingClientRect()); }); });
   /* bubble burst on every right answer */

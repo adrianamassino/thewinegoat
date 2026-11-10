@@ -60,6 +60,8 @@ for d in ('audio','pods','podtext','relief'):
 # multilingual landing pages (/it/, /fr/, /en/ …), router, sitemap, robots, language redirects
 import subprocess
 subprocess.run(['python3','../landing/build_landing.py',os.path.abspath('pkg')],check=True)
+subprocess.run(['python3','../landing/seo_pages.py',os.path.abspath('pkg')],check=True)
+subprocess.run(['python3','../landing/intl_pages.py',os.path.abspath('pkg')],check=True)
 
 # no server code, no account database: remove leftovers of the old connected build
 shutil.rmtree('pkg/netlify', ignore_errors=True)
@@ -96,3 +98,7 @@ open(_os.path.join(_P, 'en', 'index.html'), 'w', encoding='utf-8').write(_redir)
 # 4) 404 -> home
 open(_os.path.join(_P, '404.html'), 'w', encoding='utf-8').write(_redir.replace('noindex', 'noindex').replace('<title>The Wine Goat</title>', '<title>404 – The Wine Goat</title>'))
 print('github pages files ok (English at root)')
+
+# GitHub Pages has no use for netlify.toml (it was growing at every build): drop it
+try: os.remove('pkg/netlify.toml')
+except FileNotFoundError: pass
