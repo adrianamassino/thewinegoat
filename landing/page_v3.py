@@ -14,6 +14,7 @@ LANE_CSS = """
 /* hero: the walking goat has its own strip at the foot of the text column */
 .glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
 .glane .gw{width:136px}
+.glane.gl1{margin:6px 0 18px}
 .gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
 .gw.talking .gbub{opacity:1;transform:none}
@@ -114,9 +115,9 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <p class="kick3">{e(h['kick'])}</p>
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
+  <div class="glane gl1" aria-hidden="true"><div class="gw" id="gw"><p class="gbub"></p>{goat_svg()}</div></div>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
   <ul class="trust3">{trust}</ul>
-  <div class="glane" aria-hidden="true"><div class="gw" id="gw"><p class="gbub"></p>{goat_svg()}</div></div>
  </div>
  <div class="hvis" aria-hidden="true">
   <div class="glow"></div>
