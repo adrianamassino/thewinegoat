@@ -8,6 +8,9 @@ ICON = {
  'timer': _S + '<circle cx="12" cy="13" r="7.5"/><path d="M12 9v4l2.5 2M9.5 2.5h5"/></svg>',
  'map': _S + '<path d="M9 4L3.5 6v14L9 18l6 2 5.5-2V4L15 6z"/><path d="M9 4v14M15 6v14"/></svg>',
  'game': _S + '<rect x="3.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.5"/><path d="M17 14v6M14 17h6"/></svg>',
+ 'redo': _S + '<path d="M4 12a8 8 0 1 0 2.3-5.6"/><path d="M4 4v4.5h4.5"/><path d="M9 12.5l2 2 4-4"/></svg>',
+ 'globe': _S + '<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.6 2.8 2.6 14.2 0 17M12 3.5c-2.6 2.8-2.6 14.2 0 17"/></svg>',
+ 'wallet': _S + '<rect x="3.5" y="6" width="17" height="13" rx="2.5"/><path d="M16 12.5h4.5M6.5 6l8-2.5 1.5 2.5"/></svg>',
  'cards': _S + '<rect x="6" y="4" width="13" height="16" rx="2"/><path d="M3.5 7.5v11A2.5 2.5 0 0 0 6 21h9"/><path d="M9.5 9.5h6M9.5 13h4"/></svg>',
 }
 SEAL = ('<svg class="seal" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="22" fill="none" stroke="#b8892e" stroke-width="1.4"/>'

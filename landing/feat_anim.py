@@ -7,7 +7,7 @@ from icons import ICON, SEAL
 e = lambda s: html.escape(str(s), quote=True)
 
 
-def render(h, oq, img):
+def render(h, oq, img, c='en', hero=False):
     W = h['why']
     q = oq['t'] if len(oq['t']) < 120 else oq['t'][:117].rsplit(' ', 1)[0] + '…'
     # 1 — exam paper marked live
@@ -53,13 +53,15 @@ def render(h, oq, img):
  <span class="play">▶</span><div class="fbar"><i></i></div><span class="chip">68</span></div>
  <div class="pod"><img src="{img}/goats/mosaic.webp" alt="" width="200" height="220" loading="lazy"><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">45</span></div>
 </div>'''
-    vis = (a, b, d, c)
-    order = (0, 1, 3, 2)  # open questions, plan, class recording, films & podcasts
+    VIS = (a, b, d, c)
+    if hero:  # the open-question card, big, in the hero
+        ic, t, p = W[0]
+        return f'<article class="fcard fhero">{VIS[0]}<h3><span class="fic">{ICON["pen"]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
     cards = ''
-    for n, k in enumerate(order):
+    for k in (1, 3, 2):
         ic, t, p = W[k]
-        v = (a, b, d, c)[k]
-        cards += f'<article class="fcard">{v}<h3><span class="fic">{ICON[("pen","plan","play","mic")[k]]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
+        cards += f'<article class="fcard">{VIS[k]}<h3><span class="fic">{ICON[("pen","plan","play","mic")[k]]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
+    cards += errors_card(c, img)
     return f'<div class="fgrid4">{cards}</div>'
 
 
@@ -254,3 +256,42 @@ CSS += r"""
 .fd .film{border-radius:10px}.fd .pod{border-radius:10px}
 .fcard .fgo{width:80px}
 """
+
+
+ERR = {'en': 'Mistakes come back until you master them', 'it': "Gli errori tornano finché non li impari", 'fr': "Les erreurs reviennent jusqu'à ce que vous les maîtrisiez",
+ 'es': 'Los errores vuelven hasta que los dominas', 'es-ar': 'Los errores vuelven hasta que los dominás', 'de': 'Fehler kommen zurück, bis du sie beherrschst',
+ 'nl': 'Fouten komen terug tot je ze beheerst', 'pt': 'Os erros voltam até os dominar', 'pt-br': 'Os erros voltam até você dominá-los',
+ 'el': 'Τα λάθη επιστρέφουν μέχρι να τα μάθεις', 'ja': '間違えた問題は覚えるまで繰り返し出題', 'ko': '틀린 문제는 익힐 때까지 다시 나와요',
+ 'zh-hans': '错题会反复出现，直到你掌握', 'zh-hant': '錯題會反覆出現，直到你掌握', 'pl': 'Błędy wracają, aż je opanujesz',
+ 'ar': 'الأخطاء تعود حتى تتقنها', 'ru': 'Ошибки возвращаются, пока вы их не усвоите'}
+
+def errors_card(c, img):
+    chips = ''.join(f'<div class="ech" style="--i:{i}"><span class="ex">✗</span><p></p><b class="ecount"><i>1</i><i>2</i><i>3</i></b><span class="eok">✓</span></div>' for i in range(3))
+    v = (f'<div class="fv fe" aria-hidden="true"><div class="etop"><b class="emast"><span class="emn">0</span>/3 ✓</b></div><div class="estack">{chips}</div>'
+         f'<img class="fgo" src="{img}/goats/ig-n05.webp" alt="" width="200" height="300" loading="lazy"></div>')
+    return f'<article class="fcard">{v}<h3><span class="fic">{ICON["redo"]}</span>{e(ERR.get(c, ERR["en"]))}</h3></article>'
+
+CSS += r"""
+/* hero version of the open-question card */
+.fhero{max-width:520px;width:100%;margin:0 auto;box-shadow:inset 0 0 0 1px #eadfd3,0 30px 60px -34px rgba(62,15,34,.55)}
+.fhero .fv{height:300px}
+/* errors come back */
+.fe{padding:18px}
+.fe .etop{display:flex}.fe .emast{padding:6px 12px;border-radius:8px;background:#5f7a3c;color:#fff;font-size:14px;font-variant-numeric:tabular-nums}
+.fe .estack{display:grid;gap:12px;margin:18px 96px 0 0}
+.fe .ech{position:relative;display:grid;grid-template-columns:26px 1fr auto;gap:10px;align-items:center;padding:12px 14px;border-radius:10px;background:#fff;box-shadow:0 8px 16px -12px rgba(62,15,34,.4),inset 0 0 0 1px #efe3dc;animation:fxech 9s calc(var(--i)*.9s) infinite}
+.fe .ech p{height:7px;border-radius:4px;background:#bba9b0;margin:0;width:80%}
+.fe .ex,.fe .eok{width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font-weight:900;font-size:13px;color:#fff}
+.fe .ex{background:#a3283f;animation:fxex 9s calc(var(--i)*.9s) infinite}
+.fe .eok{position:absolute;left:14px;background:#5f7a3c;opacity:0;animation:fxeok 9s calc(var(--i)*.9s) infinite}
+.fe .ecount{display:flex;gap:4px}.fe .ecount i{width:8px;height:8px;border-radius:50%;background:#eadfd3;animation:fxedot 9s infinite}
+.fe .ech .ecount i:nth-child(1){animation-delay:calc(var(--i)*.9s + .6s)}.fe .ech .ecount i:nth-child(2){animation-delay:calc(var(--i)*.9s + 1.8s)}.fe .ech .ecount i:nth-child(3){animation-delay:calc(var(--i)*.9s + 3s)}
+.fe .ecount i{font-size:0}
+@keyframes fxedot{0%{background:#eadfd3}3%,80%{background:#b8892e}90%,100%{background:#eadfd3}}
+@keyframes fxex{0%,40%{opacity:1}46%,100%{opacity:0}}
+@keyframes fxeok{0%,40%{opacity:0;transform:scale(.4)}46%{opacity:1;transform:scale(1.2)}50%,88%{opacity:1;transform:none}95%,100%{opacity:0}}
+@keyframes fxech{0%,44%{box-shadow:0 8px 16px -12px rgba(62,15,34,.4),inset 0 0 0 1px #efe3dc}50%,88%{box-shadow:0 8px 16px -12px rgba(62,15,34,.4),inset 0 0 0 1.5px #5f7a3c}}
+@media (max-width:420px){.fe .estack{margin-right:76px}}
+"""
+JS = JS.replace("var sc=card.querySelector('.sc'),", "var em=card.querySelector('.emn'), sc=card.querySelector('.sc'),")
+JS = JS.replace("     if(t>=9){", "     if(em){ em.textContent=t>8.6?0:Math.max(0,Math.min(3,Math.floor((t-3.7)/.9)+1)); }\n     if(t>=9){",1)
