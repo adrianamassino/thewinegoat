@@ -1,5 +1,9 @@
 
 .lnote{margin-top:28px}.lnbox{display:flex;gap:16px;align-items:flex-start;padding:20px 22px;border-radius:22px;background:#fff;box-shadow:inset 0 0 0 1.5px #ecd6dc,0 18px 40px -28px rgba(62,15,34,.5)}.lnic{font-size:28px}.lnbox h2{font-size:22px;text-align:left;margin:0 0 6px}.lnbox p{margin:0;color:#6b5a5f}
+.lnm-bg{position:fixed;inset:0;z-index:200;background:rgba(43,26,32,.45);display:flex;align-items:flex-end;justify-content:center;padding:16px}
+.lnm{max-width:440px;width:100%;background:#fff;border-radius:22px;padding:20px 20px 18px;box-shadow:0 30px 60px -20px rgba(43,26,32,.6);animation:lnmIn .3s ease-out}
+.lnm-ic{font-size:22px}.lnm h2{font-size:19px;text-align:left;margin:6px 0 6px}.lnm p{margin:0 0 14px;color:#6b5a5f;font-size:14.5px;line-height:1.45}.lnm .b3{width:100%;justify-content:center}
+@keyframes lnmIn{from{transform:translateY(30px);opacity:0}}@media (min-width:700px){.lnm-bg{align-items:center}}
 .ex4{grid-template-columns:repeat(4,1fr)}.ex3 h3{font-size:19px}
 .rtl{direction:rtl}.rtl .hero3 h1:after{margin-left:auto}.rtl .s3grid h2,.rtl .fin3 h2{text-align:right}
 :lang(ja) h1,:lang(ja) h2,:lang(ja) h3,:lang(ko) h1,:lang(ko) h2,:lang(ko) h3,:lang(zh-Hans) h1,:lang(zh-Hans) h2,:lang(zh-Hans) h3,:lang(zh-Hant) h1,:lang(zh-Hant) h2,:lang(zh-Hant) h3,:lang(ar) h1,:lang(ar) h2,:lang(ar) h3,:lang(el) h1,:lang(el) h2,:lang(el) h3{font-family:system-ui,-apple-system,"Noto Sans",sans-serif;font-weight:800}
