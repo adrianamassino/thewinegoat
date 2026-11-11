@@ -14,7 +14,7 @@ LANE_CSS = """
 /* hero: the walking goat has its own strip at the foot of the text column */
 .glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
 .glane .gw{width:136px}
-.glane.gl1{height:74px;margin:6px 0 4px}.glane.gl1 .gw{width:96px}
+.stats3{position:relative;margin-top:84px}.glane.gl1{position:absolute;left:0;right:0;bottom:calc(100% - 3px);height:70px;margin:0}.glane.gl1 .gw{width:96px}
 .gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
 .gw.talking .gbub{opacity:1;transform:none}
@@ -44,7 +44,7 @@ LANE_CSS = """
 @media (max-width:1140px){.g3.gfaq3{display:none}}
 @media (max-width:1020px){.g3.gquick{display:none}}
 @media (max-width:1140px){.g3.gfaq2{display:none}}
-@media (max-width:640px){.gside{width:76px;right:-8px;bottom:0}.glane{height:86px;margin-top:22px}.glane.gl1{height:64px;margin:0 0 6px}.glane.gl1 .gw{width:84px}.glane .gw{width:112px}.gw .gbub{max-width:170px;font-size:13px;left:84%}
+@media (max-width:640px){.gside{width:76px;right:-8px;bottom:0}.glane{height:86px;margin-top:22px}.glane.gl1{height:60px;margin:0}.stats3{margin-top:72px}.glane.gl1 .gw{width:84px}.glane .gw{width:112px}.gw .gbub{max-width:170px;font-size:13px;left:84%}
  .g3.gcmp{display:none}.pgrid{gap:110px;margin-top:104px}.g3.gprize{width:86px;top:-106px}.g3.gfree{width:100px;top:-84px}.g3.gwc{width:74px;right:10px;top:8px}.why h3{padding-right:72px}
  .glane.gl4{height:80px}.glane .gw.kid{width:80px}}
 """
@@ -105,7 +105,7 @@ def _hero_deco():
 
 HERO_CSS = """
 .hdeco{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden}
-.hero3>.w{position:relative;z-index:1}
+.hero3>.w,.hero3 .hgrid,.hero3 .stats3{position:relative;z-index:2}
 .hero3{background:radial-gradient(55% 60% at 22% 35%,#fde6d4 0%,rgba(253,230,212,0) 70%),radial-gradient(60% 70% at 85% 20%,#f9dfe6 0%,rgba(249,223,230,0) 70%),radial-gradient(40% 50% at 10% 90%,#fbefd9 0%,rgba(251,239,217,0) 70%),#fdf6ef}
 .hbub i{position:absolute;bottom:-20px;left:var(--x);width:var(--s);height:var(--s);border-radius:50%;
  background:radial-gradient(circle at 32% 30%,rgba(255,255,255,.95) 0 18%,rgba(255,255,255,0) 30%),radial-gradient(circle,rgba(212,162,58,.16) 50%,rgba(196,120,60,.6) 100%);
@@ -153,7 +153,6 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
-  <div class="glane gl1" aria-hidden="true" data-stop=".42"><div class="gw" id="gw">{goat_svg()}</div></div>
   <ul class="trust3">{trust}</ul>
  </div>
  <div class="hvis" aria-hidden="true">
@@ -161,7 +160,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <div class="phone3"><img src="{img}/shots/home-{SH}.webp" alt="" width="540" height="1080"></div>
  </div>
 </div>
-<div class="w stats3">{stats}</div></section>
+<div class="w stats3"><div class="glane gl1" aria-hidden="true" data-stop=".42"><div class="gw" id="gw">{goat_svg()}</div></div>{stats}</div></section>
 
 <section id="{ids[1]}" class="sec3 feat3"><div class="w">
  {feat_anim.head(c, h)}
