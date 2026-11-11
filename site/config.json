@@ -1,1 +1,7 @@
-{"supabaseUrl":"https://tetvfgpdxwkmfdxxadxa.supabase.co","supabaseAnonKey":"sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq"}
+{
+ "supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co",
+ "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq",
+ "stripe": {
+  "link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"
+ }
+}
