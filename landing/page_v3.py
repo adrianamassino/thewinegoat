@@ -6,6 +6,7 @@ import page_v2
 from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
 from goat_walk import goat_svg, GOAT_CSS
+import feat_anim
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANE_CSS = """
 /* hero: one small goat beside the phone */
@@ -125,6 +126,11 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div>
 <div class="w stats3">{stats}</div></section>
 
+<section id="{ids[1]}" class="sec3 feat3"><div class="w">
+ <h2>{e(h['why_h'])}</h2>
+ {feat_anim.render(h, oq, img)}
+</div></section>
+
 <section id="{ids[0]}" class="sec3 try3"><div class="w">
  <h2>{e(h['try_h'])}</h2><p class="lead3">{e(h['try_p'])}</p>
  <div class="tabs3" role="tablist"><button role="tab" aria-selected="true" data-t3="open">{e(h['tab_open'])}</button><button role="tab" aria-selected="false" data-t3="mcq">{e(h['tab_mcq'])}</button></div>
@@ -140,9 +146,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <div class="panel3" id="p-mcq" hidden><div id="mcq3" aria-live="polite"></div></div></div>
 </div></section>
 
-<section id="{ids[1]}" class="sec3 why3"><div class="w">
- <h2>{e(h['why_h'])}</h2>
- <div class="whys">{why}</div>
+<section class="sec3 why3"><div class="w">
  <h3 class="cmph">{e(h['cmp_h'])}</h3><div class="cmpwrap"><img class="g3 gcmp sway2" src="{img}/goats/books.webp" alt="" width="326" height="300" loading="lazy">{cmp}</div>
  <div class="glane gl2" aria-hidden="true" data-dir="rtl" data-stop=".35" data-speed="70"><div class="gw">{goat_svg()}</div></div>
 </div></section>
@@ -173,9 +177,10 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
-<style>{GOAT_CSS}{LANE_CSS}</style>
+<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}</style>
 <script>{JS}</script>
 <script>{LANE_JS}</script>
+<script>{feat_anim.JS}</script>
 </body>
 </html>'''
 
