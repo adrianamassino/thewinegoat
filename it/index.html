@@ -39,7 +39,7 @@
 <link rel="alternate" hreflang="en-ZA" href="https://thewinegoat.com/">
 <link rel="alternate" hreflang="en-SG" href="https://thewinegoat.com/">
 <link rel="alternate" hreflang="en-HK" href="https://thewinegoat.com/">
-<link rel="alternate" hreflang="de" href="https://thewinegoat.com/de/"><link rel="alternate" hreflang="nl" href="https://thewinegoat.com/nl/"><link rel="alternate" hreflang="pt-BR" href="https://thewinegoat.com/pt-br/"><link rel="alternate" hreflang="pt-PT" href="https://thewinegoat.com/pt/"><link rel="alternate" hreflang="el" href="https://thewinegoat.com/el/"><link rel="alternate" hreflang="ja" href="https://thewinegoat.com/ja/"><link rel="alternate" hreflang="ko" href="https://thewinegoat.com/ko/"><link rel="alternate" hreflang="zh-Hans" href="https://thewinegoat.com/zh-hans/"><link rel="alternate" hreflang="zh-Hant" href="https://thewinegoat.com/zh-hant/"><link rel="alternate" hreflang="pl" href="https://thewinegoat.com/pl/"><link rel="alternate" hreflang="ar" href="https://thewinegoat.com/ar/"><link rel="alternate" hreflang="es-AR" href="https://thewinegoat.com/es-ar/"><link rel="alternate" hreflang="x-default" href="https://thewinegoat.com/">
+<link rel="alternate" hreflang="de" href="https://thewinegoat.com/de/"><link rel="alternate" hreflang="nl" href="https://thewinegoat.com/nl/"><link rel="alternate" hreflang="pt-BR" href="https://thewinegoat.com/pt-br/"><link rel="alternate" hreflang="pt-PT" href="https://thewinegoat.com/pt/"><link rel="alternate" hreflang="el" href="https://thewinegoat.com/el/"><link rel="alternate" hreflang="ja" href="https://thewinegoat.com/ja/"><link rel="alternate" hreflang="ko" href="https://thewinegoat.com/ko/"><link rel="alternate" hreflang="zh-Hans" href="https://thewinegoat.com/zh-hans/"><link rel="alternate" hreflang="zh-Hant" href="https://thewinegoat.com/zh-hant/"><link rel="alternate" hreflang="pl" href="https://thewinegoat.com/pl/"><link rel="alternate" hreflang="ar" href="https://thewinegoat.com/ar/"><link rel="alternate" hreflang="es-AR" href="https://thewinegoat.com/es-ar/"><link rel="alternate" hreflang="ru" href="https://thewinegoat.com/ru/"><link rel="alternate" hreflang="x-default" href="https://thewinegoat.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Wine Goat">
 <meta property="og:locale" content="it_IT">
@@ -72,7 +72,7 @@ h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.12;margin:0}
 h2{font-size:clamp(30px,4vw,44px);color:var(--plum);text-align:center;margin-bottom:12px}
 a{color:var(--wine)}img{max-width:100%}
 .w{max-width:1160px;margin:0 auto;padding:0 22px}.nar{max-width:820px}
-.skip{position:absolute;left:-999px}.skip:focus{left:12px;top:12px;z-index:99;background:#fff;padding:8px 12px}
+.skip{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}.skip:focus{width:auto;height:auto;clip:auto}.skip:focus{left:12px;top:12px;z-index:99;background:#fff;padding:8px 12px}
 /* buttons */
 .b3{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:54px;padding:14px 28px;border-radius:999px;font:700 17px/1 "DM Sans",sans-serif;text-decoration:none;border:0;cursor:pointer;transition:transform .15s,box-shadow .15s,background .15s}
 .b3:hover{transform:translateY(-2px)}.b3:active{transform:translateY(1px)}
@@ -193,57 +193,21 @@ a{color:var(--wine)}img{max-width:100%}
  .cmp3 th,.cmp3 td{padding:10px 10px;font-size:14px}.trust3{gap:10px}}
 @media (prefers-reduced-motion:reduce){.g3,.pc.pro:after,.fin3:after{animation:none!important}}
 
-/* ===== the animated goat (vector, articulated) ===== */
-.stage{position:absolute;left:-10%;right:-10%;bottom:-6px;height:190px;z-index:4;pointer-events:none}
-.gw{position:absolute;bottom:0;left:0;width:200px;transform:translateX(-260px);will-change:transform}
-.gw .say{position:absolute;left:55%;bottom:100%;margin:0 0 -6px;width:max-content;max-width:240px;white-space:normal;padding:10px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
-  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.4) translateY(10px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
-.gw.talking .say{opacity:1;transform:none}
-.tgoat{display:block;width:100%;height:auto;overflow:visible}
-.tgoat .leg,.tgoat .head,.tgoat .ear,.tgoat .tail,.tgoat .scarftail,.tgoat .bodyall{transform-box:view-box}
-.tgoat .mouth.open{opacity:0}
-/* idle: breathing, head and ear and tail alive */
-.tgoat .bodyall{animation:gbreath 3s ease-in-out infinite;transform-origin:120px 190px}
-.tgoat .head{animation:ghead 3.4s ease-in-out infinite}
-.tgoat .ear{animation:gear 4.2s ease-in-out infinite}
-.tgoat .tail{animation:gtail .9s ease-in-out infinite}
-.tgoat .scarftail{animation:gscarf 1.6s ease-in-out infinite}
-@keyframes gbreath{50%{transform:scale(1.012,.988)}}
-@keyframes ghead{0%,100%{transform:rotate(0)}30%{transform:rotate(-6deg)}60%{transform:rotate(4deg)}}
-@keyframes gear{0%,70%,100%{transform:rotate(0)}76%{transform:rotate(-16deg)}82%{transform:rotate(6deg)}88%{transform:rotate(-10deg)}}
-@keyframes gtail{50%{transform:rotate(22deg)}}
-@keyframes gscarf{50%{transform:rotate(-10deg) skewX(6deg)}}
-/* running: alternating legs, bouncing body, flying scarf */
-.gw.run .tgoat .bodyall{animation:grunbob .36s ease-in-out infinite}
-.gw.run .tgoat .leg.near.fl,.gw.run .tgoat .leg.far.bl{animation:gstepA .36s ease-in-out infinite}
-.gw.run .tgoat .leg.far.fl,.gw.run .tgoat .leg.near.bl{animation:gstepB .36s ease-in-out infinite}
-.gw.run .tgoat .head{animation:grunhead .36s ease-in-out infinite}
-.gw.run .tgoat .scarftail{animation:gscarf .3s ease-in-out infinite}
-.gw.run .tgoat .tail{animation:gtail .25s ease-in-out infinite}
-.gw.run .tgoat .shadow{animation:gshadow .36s ease-in-out infinite;transform-origin:120px 196px;transform-box:view-box}
-@keyframes grunbob{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-9px) rotate(1deg)}}
-@keyframes gstepA{0%,100%{transform:rotate(32deg)}50%{transform:rotate(-30deg)}}
-@keyframes gstepB{0%,100%{transform:rotate(-30deg)}50%{transform:rotate(32deg)}}
-@keyframes grunhead{50%{transform:rotate(-5deg)}}
-@keyframes gshadow{50%{transform:scaleX(.85)}}
-/* talking: mouth opens and closes, head nods */
-.gw.talking .tgoat .mouth.open{animation:gtalk .32s steps(1) infinite}
-.gw.talking .tgoat .mouth.shut{animation:gtalk2 .32s steps(1) infinite}
-.gw.talking .tgoat .head{animation:gnod .64s ease-in-out infinite}
-@keyframes gtalk{0%{opacity:1}50%{opacity:0}}
-@keyframes gtalk2{0%{opacity:0}50%{opacity:1}}
-@keyframes gnod{50%{transform:rotate(-7deg)}}
-/* jumping: crouch, take off with legs tucked, land */
-.gw.jump .tgoat .bodyall{animation:gjump .9s cubic-bezier(.3,.7,.4,1) 1}
-.gw.jump .tgoat .leg.fl{animation:gtuckF .9s ease-in-out 1}
-.gw.jump .tgoat .leg.bl{animation:gtuckB .9s ease-in-out 1}
-.gw.jump .tgoat .shadow{animation:gjs .9s ease-in-out 1;transform-origin:120px 196px;transform-box:view-box}
-@keyframes gjump{0%{transform:translateY(0)}15%{transform:translateY(6px) scale(1.04,.94)}50%{transform:translateY(-70px) rotate(-8deg)}80%{transform:translateY(0) rotate(2deg)}88%{transform:translateY(3px) scale(1.03,.96)}100%{transform:none}}
-@keyframes gtuckF{20%,70%{transform:rotate(-60deg)}}
-@keyframes gtuckB{20%,70%{transform:rotate(55deg)}}
-@keyframes gjs{50%{transform:scaleX(.5);opacity:.4}}
-@media (prefers-reduced-motion:reduce){.tgoat *,.gw{animation:none!important;transition:none!important}}
-@media (max-width:640px){.gw{width:150px}.gw .say{max-width:190px;font-size:13px;left:40%}}
+/* goats: the original drawings, gently swaying like in the app */
+@keyframes sway{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(2deg)}}
+@keyframes sway2{0%,100%{transform:rotate(1.5deg) translateY(0)}50%{transform:rotate(-1.5deg) translateY(-4px)}}
+.g3.sway,.g3.sway2{transform-origin:50% 100%;animation:sway 4.5s ease-in-out infinite!important}.g3.sway2{animation:sway2 5.2s ease-in-out infinite!important}
+.gaw{position:absolute;left:0;bottom:0;z-index:3;width:210px}.gaw .ga{position:relative;left:auto;bottom:auto;width:100%}
+.gpeek{width:120px;right:2%;top:4%;z-index:3}
+.say{position:absolute;left:62%;top:-10px;margin:0;width:max-content;max-width:220px;padding:10px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum);font-weight:700;font-size:14px;line-height:1.3;box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;transition:opacity .25s,transform .3s cubic-bezier(.2,.9,.3,1.3)}
+.say.out{opacity:0;transform:scale(.7) translateY(6px)}
+.gdeco{position:absolute;width:130px;height:auto;z-index:1;pointer-events:none}
+.why3 .w,.price3 .w,.faq3 .w{position:relative}
+.gwhy{right:0;top:-40px}.gprice{left:0;top:-30px}.gfaq{right:-140px;top:10px}
+@media (max-width:1020px){.gfaq{right:0;top:-70px;width:100px}}
+@media (max-width:640px){.gaw{width:150px}.say{max-width:170px;font-size:13px;left:52%;top:-18px}.gpeek{width:84px}.gdeco{width:86px}.gwhy{top:-60px}.gprice{top:-56px}}
+@media (prefers-reduced-motion:reduce){.g3{animation:none!important}}
+html,body.h3{overflow-x:clip}@media (max-width:640px){.gwhy,.gfaq{right:4px}.gprice{left:4px}}
 </style>
 </head>
 <body class="h3">
@@ -265,43 +229,8 @@ a{color:var(--wine)}img{max-width:100%}
  <div class="hvis" aria-hidden="true">
   <div class="glow"></div>
   <div class="phone3"><img src="../img/shots/home-it.webp" alt="" width="540" height="1080"></div>
-  <div class="stage"><div class="gw" id="gw"><p class="say"></p><svg class="tgoat" viewBox="0 0 250 210" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-<ellipse class="shadow" cx="120" cy="196" rx="70" ry="7" fill="rgba(62,15,34,.18)"/>
-<g class="bodyall">
- <g class="leg bl far" style="transform-origin:78px 128px"><path d="M69,122 Q67,150 71,168 L70,178 Q78,182 86,178 L85,168 Q89,148 87,122 Z" fill="#f3e3cf" stroke="#c9a98a" stroke-width="1.6"/><path d="M72,140 q6,4 12,0" fill="none" stroke="#e8d3bb" stroke-width="1.4" stroke-linecap="round"/><path d="M69,176 Q78,172 87,176 L88,185 Q78,189 68,185 Z" fill="#5c3a2e"/><path d="M78,177 L78,187" stroke="#3e261d" stroke-width="1.4"/></g><g class="leg fl far" style="transform-origin:150px 130px"><path d="M141,124 Q139,152 143,170 L142,180 Q150,184 158,180 L157,170 Q161,150 159,124 Z" fill="#f3e3cf" stroke="#c9a98a" stroke-width="1.6"/><path d="M144,142 q6,4 12,0" fill="none" stroke="#e8d3bb" stroke-width="1.4" stroke-linecap="round"/><path d="M141,178 Q150,174 159,178 L160,187 Q150,191 140,187 Z" fill="#5c3a2e"/><path d="M150,179 L150,189" stroke="#3e261d" stroke-width="1.4"/></g>
- <g class="tail" style="transform-origin:58px 96px"><path d="M60,98 C46,86 40,76 46,70 C52,66 58,74 60,82 C62,74 70,72 70,80 C70,88 66,94 60,98 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.6"/></g>
- <path class="body" d="M60,104 C56,82 78,70 108,70 C138,70 160,76 168,92 C176,108 168,132 146,138 C122,144 92,144 76,138 C62,132 61,118 60,104 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.8"/>
- <path d="M78,90 q8,-6 16,0 M98,84 q8,-6 16,0 M118,86 q8,-6 16,0 M86,108 q8,-6 16,0 M110,104 q8,-6 16,0" fill="none" stroke="#ecd9c2" stroke-width="1.6" stroke-linecap="round"/>
- <g class="leg bl near" style="transform-origin:90px 130px"><path d="M81,124 Q79,152 83,170 L82,180 Q90,184 98,180 L97,170 Q101,150 99,124 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.6"/><path d="M84,142 q6,4 12,0" fill="none" stroke="#e8d3bb" stroke-width="1.4" stroke-linecap="round"/><path d="M81,178 Q90,174 99,178 L100,187 Q90,191 80,187 Z" fill="#5c3a2e"/><path d="M90,179 L90,189" stroke="#3e261d" stroke-width="1.4"/></g><g class="leg fl near" style="transform-origin:158px 128px"><path d="M149,122 Q147,150 151,168 L150,178 Q158,182 166,178 L165,168 Q169,148 167,122 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.6"/><path d="M152,140 q6,4 12,0" fill="none" stroke="#e8d3bb" stroke-width="1.4" stroke-linecap="round"/><path d="M149,176 Q158,172 167,176 L168,185 Q158,189 148,185 Z" fill="#5c3a2e"/><path d="M158,177 L158,187" stroke="#3e261d" stroke-width="1.4"/></g>
- <g class="neckhead">
-  <path d="M146,96 C150,74 160,62 172,58 L190,74 C182,86 172,100 160,110 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.6"/>
-  <g class="scarf"><path d="M146,92 C158,100 176,94 186,80 L192,88 C182,104 160,112 144,104 Z" fill="#8c1d40" stroke="#5a1029" stroke-width="1.2"/>
-   <path d="M146,92 C158,100 176,94 186,80" fill="none" stroke="#d4a23a" stroke-width="1.4"/>
-   <g class="scarftail" style="transform-origin:150px 100px"><path d="M150,98 C138,104 124,104 112,98 C118,108 130,116 146,112 Z" fill="#a3264f" stroke="#5a1029" stroke-width="1.2"/><path d="M114,99 C126,104 138,104 149,99" fill="none" stroke="#d4a23a" stroke-width="1.1"/></g>
-   <circle cx="170" cy="100" r="4" fill="#d4a23a"/></g>
-  <g class="head" style="transform-origin:176px 74px">
-   <g class="horns" fill="none" stroke-linecap="round">
-    <path d="M170,40 C160,18 136,14 126,28 C120,38 126,48 134,46" stroke="#6b4128" stroke-width="10"/>
-    <path d="M170,40 C160,18 136,14 126,28 C120,38 126,48 134,46" stroke="#8a5a3c" stroke-width="7.5"/>
-    <path d="M170,40 C160,18 136,14 126,28 C120,38 126,48 134,46" stroke="#5c3a2e" stroke-width="7.5" stroke-dasharray="1.6 4.2"/>
-    <path d="M182,36 C176,14 152,8 140,20 C134,28 138,38 146,37" stroke="#7a4e33" stroke-width="10"/>
-    <path d="M182,36 C176,14 152,8 140,20 C134,28 138,38 146,37" stroke="#a06a45" stroke-width="7.5"/>
-    <path d="M182,36 C176,14 152,8 140,20 C134,28 138,38 146,37" stroke="#6b4128" stroke-width="7.5" stroke-dasharray="1.6 4.2"/></g>
-   <g class="ear" style="transform-origin:168px 52px"><path d="M168,48 C150,44 132,52 126,64 C142,70 160,64 170,56 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.5"/><path d="M164,52 C152,50 140,56 136,62 C148,66 158,62 166,57 Z" fill="#f4b6b9"/>
-    <circle cx="131" cy="67" r="3.4" fill="none" stroke="#d4a23a" stroke-width="2"/></g>
-   <path d="M164,52 C164,38 178,30 192,34 C206,38 214,50 214,62 C214,70 208,76 200,78 L178,80 C168,76 164,64 164,52 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.8"/>
-   <path d="M196,56 C206,54 220,58 222,66 C224,74 214,80 202,78 Z" fill="#fff3e6" stroke="#c9a98a" stroke-width="1.5"/>
-   <ellipse cx="218" cy="63" rx="4" ry="3" fill="#e79aa3"/>
-   <path class="mouth shut" d="M206,74 q6,4 12,-1" fill="none" stroke="#7a4a3a" stroke-width="1.8" stroke-linecap="round"/>
-   <path class="mouth open" d="M205,72 q7,10 14,0 q-7,3 -14,0 Z" fill="#8c1d40" stroke="#7a4a3a" stroke-width="1.4"/>
-   <path class="eye" d="M186,50 q6,6 12,0" fill="none" stroke="#3e261d" stroke-width="2.4" stroke-linecap="round"/>
-   <path d="M186,50 l-3,-2 M189,53 l-2,-3" stroke="#3e261d" stroke-width="1.4" stroke-linecap="round"/>
-   <ellipse cx="194" cy="62" rx="6" ry="3.5" fill="#f6b3b8" opacity=".6"/>
-   <path d="M196,80 C196,90 202,96 206,92 C204,88 206,84 204,80 Z" fill="#fff8ee" stroke="#c9a98a" stroke-width="1.3"/>
-  </g>
- </g>
-</g>
-</svg></div></div>
+  <img class="g3 gpeek sway2" src="../img/goats/peek.webp" alt="" width="248" height="320">
+  <div class="gaw"><img class="g3 ga sway" src="../img/goats/hero.webp" alt="" width="745" height="848"><p class="say" id="say"></p></div>
  </div>
 </div>
 <div class="w stats3"><div class="st"><b>2.078</b><span>quiz con spiegazione</span></div><div class="st"><b>101</b><span>domande aperte corrette</span></div><div class="st"><b>28</b><span>argomenti del programma</span></div><div class="st"><b>4</b><span>lingue</span></div></div></section>
@@ -318,21 +247,23 @@ a{color:var(--wine)}img{max-width:100%}
   <p class="onote">Nell&#x27;app trovi 101 domande così, con la risposta modello e il ripasso dei punti mancati.</p>
  </div>
  <div class="panel3" id="p-mcq" hidden><div id="mcq3" aria-live="polite"></div></div>
- <img class="g3 gtry" src="../img/goats/explore.webp" alt="" width="300" height="300" loading="lazy">
+ <img class="g3 gtry sway" src="../img/goats/explore.webp" alt="" width="300" height="300" loading="lazy">
 </div></section>
 
 <section id="perche" class="sec3 why3"><div class="w">
+ <img class="g3 gdeco gwhy sway2" src="../img/goats/books.webp" alt="" width="300" height="300" loading="lazy">
  <h2>Perché The Wine Goat è diversa</h2>
  <div class="whys"><article class="why"><span class="wi">✍️</span><h3>Domande aperte corrette subito</h3><p>Scrivi la risposta e vedi in un secondo quali punti hai preso e cosa manca. Le altre app si fermano alle crocette.</p></article><article class="why"><span class="wi">📅</span><h3>Un piano su misura fino all&#x27;esame</h3><p>Obiettivo Pass, Merit o Distinction, data d&#x27;esame e minuti al giorno: l&#x27;app ti dice cosa fare oggi e ripropone i tuoi punti deboli.</p></article><article class="why"><span class="wi">🎬</span><h3>Si studia anche senza fatica</h3><p>68 film animati, 45 podcast, 11 giochi, mappe interattive e flashcard: per ripassare in metro, in pausa, ovunque.</p></article><article class="why"><span class="wi">🎓</span><h3>L&#x27;unica app che registra la lezione</h3><p>Appoggia il telefono sul banco: l&#x27;app trascrive quello che dice l&#x27;insegnante e conserva le foto dei tuoi appunti, accanto ai quiz.</p></article></div>
  <h3 class="cmph">The Wine Goat a confronto</h3><table class="cmp3"><thead><tr><th scope="col"></th><th scope="col" class=us>The Wine Goat</th><th scope="col">Altre app</th></tr></thead><tbody><tr><th scope="row">Domande aperte con correzione</th><td class="us">✓ 101</td><td>—</td></tr><tr><th scope="row">Piano di studio personalizzato</th><td class="us">✓</td><td>raramente</td></tr><tr><th scope="row">In italiano, francese e spagnolo</th><td class="us">✓</td><td>solo inglese</td></tr><tr><th scope="row">Film, podcast e mappe</th><td class="us">✓</td><td>—</td></tr><tr><th scope="row">Senza abbonamento</th><td class="us">✓</td><td>abbonamento</td></tr></tbody></table>
 </div></section>
 
 <section class="sec3 steps3"><div class="w s3grid">
- <img class="g3 gst" src="../img/goats/method.webp" alt="" width="300" height="300" loading="lazy">
+ <img class="g3 gst sway2" src="../img/goats/method.webp" alt="" width="300" height="300" loading="lazy">
  <div><h2>Come funziona</h2><ol class="stl"><li><span class="sn3">1</span><div><h3>Dici il tuo obiettivo</h3><p>Pass, Merit o Distinction e la data dell&#x27;esame.</p></div></li><li><span class="sn3">2</span><div><h3>Segui il piano del giorno</h3><p>Quiz, domande aperte e ripasso: 20-30 minuti bastano.</p></div></li><li><span class="sn3">3</span><div><h3>All&#x27;esame con fiducia</h3><p>Simulazioni complete fatte e punti deboli sistemati.</p></div></li></ol></div>
 </div></section>
 
 <section id="prezzi" class="sec3 price3"><div class="w">
+ <img class="g3 gdeco gprice sway" src="../img/goats/trophy.webp" alt="" width="300" height="300" loading="lazy">
  <h2>Semplice e trasparente</h2>
  <div class="pgrid">
   <article class="pc"><h3>Gratis</h3><p class="pp">0 €</p><ul><li>Tutto il modulo Bordeaux</li><li>Flashcard e giochi</li><li>Il tuo piano di studio</li><li>Domande aperte di prova</li></ul><a class="b3 b3g" href="../app/#go=start">Inizia gratis</a></article>
@@ -340,14 +271,14 @@ a{color:var(--wine)}img{max-width:100%}
  </div>
 </div></section>
 
-<section id="faq" class="sec3 faq3"><div class="w nar"><h2>Domande frequenti</h2><details class="fq"><summary>The Wine Goat è il sito ufficiale del WSET?</summary><p>No. The Wine Goat è una piattaforma indipendente di preparazione all&#x27;esame. Non è affiliata né approvata dal Wine &amp; Spirit Education Trust: per iscriverti all&#x27;esame devi passare da una scuola autorizzata (Approved Programme Provider).</p></details><details class="fq"><summary>Come funzionano i moduli?</summary><p>Ogni modulo copre una parte del programma (per esempio «Europa» o «La cantina») con quiz, domande aperte corrette, giochi e materiale di ripasso. Lo sblocchi con un pagamento unico e resta tuo per 12 mesi, senza rinnovi automatici.</p></details><details class="fq"><summary>Cosa posso usare gratis?</summary><p>Tutto il modulo Bordeaux, per intero, più qualche esercizio di prova degli altri moduli. Non serve la carta di credito.</p></details><details class="fq"><summary>Posso usare The Wine Goat al posto del corso WSET 3?</summary><p>No, è un complemento. Il corso e il materiale ufficiale ti danno le basi; The Wine Goat ti allena a ricordarle e a scriverle bene il giorno dell&#x27;esame.</p></details><details class="fq"><summary>Le domande sono in italiano?</summary><p>Sì. Tutta la piattaforma è in italiano, francese e inglese, e puoi cambiare lingua in qualsiasi momento: utile se sosterrai l&#x27;esame in inglese.</p></details><details class="fq"><summary>Come funziona la correzione delle domande a risposta breve?</summary><p>Scrivi la tua risposta: l&#x27;app la confronta con i punti chiave del libro, segnala gli elementi centrati e quelli mancanti, stima il punteggio e ti mostra la risposta modello. Tutto avviene sul tuo dispositivo, senza servizi esterni.</p></details></div></section>
+<section id="faq" class="sec3 faq3"><div class="w nar"><img class="g3 gdeco gfaq sway2" src="../img/goats/study.webp" alt="" width="300" height="300" loading="lazy"><h2>Domande frequenti</h2><details class="fq"><summary>The Wine Goat è il sito ufficiale del WSET?</summary><p>No. The Wine Goat è una piattaforma indipendente di preparazione all&#x27;esame. Non è affiliata né approvata dal Wine &amp; Spirit Education Trust: per iscriverti all&#x27;esame devi passare da una scuola autorizzata (Approved Programme Provider).</p></details><details class="fq"><summary>Come funzionano i moduli?</summary><p>Ogni modulo copre una parte del programma (per esempio «Europa» o «La cantina») con quiz, domande aperte corrette, giochi e materiale di ripasso. Lo sblocchi con un pagamento unico e resta tuo per 12 mesi, senza rinnovi automatici.</p></details><details class="fq"><summary>Cosa posso usare gratis?</summary><p>Tutto il modulo Bordeaux, per intero, più qualche esercizio di prova degli altri moduli. Non serve la carta di credito.</p></details><details class="fq"><summary>Posso usare The Wine Goat al posto del corso WSET 3?</summary><p>No, è un complemento. Il corso e il materiale ufficiale ti danno le basi; The Wine Goat ti allena a ricordarle e a scriverle bene il giorno dell&#x27;esame.</p></details><details class="fq"><summary>Le domande sono in italiano?</summary><p>Sì. Tutta la piattaforma è in italiano, francese e inglese, e puoi cambiare lingua in qualsiasi momento: utile se sosterrai l&#x27;esame in inglese.</p></details><details class="fq"><summary>Come funziona la correzione delle domande a risposta breve?</summary><p>Scrivi la tua risposta: l&#x27;app la confronta con i punti chiave del libro, segnala gli elementi centrati e quelli mancanti, stima il punteggio e ti mostra la risposta modello. Tutto avviene sul tuo dispositivo, senza servizi esterni.</p></details><details class="fq"><summary>Quanto tempo serve per preparare l&#x27;esame WSET 3?</summary><p>Dipende dal tuo punto di partenza, ma in genere servono alcuni mesi di studio regolare oltre alle ore di corso. I moduli restano tuoi per 12 mesi, così hai tempo anche per un&#x27;eventuale seconda sessione.</p></details></div></section>
 
 <section class="sec3 fin3"><div class="w fgrid">
  <div><h2>Vuoi passare il WSET 3 al primo colpo?</h2><p>Bastano 2 minuti per creare il tuo piano. Gratis.</p><a class="b3 b3gold" href="../app/#go=start">Crea il mio piano gratis</a></div>
- <img class="g3 gfin" src="../img/goats/final.webp" alt="" width="300" height="300" loading="lazy">
+ <img class="g3 gfin sway" src="../img/goats/final.webp" alt="" width="300" height="300" loading="lazy">
 </div></section>
 </main>
-<nav class="seolinks wrap" aria-label="Altre risorse per il WSET 3"><h2>Altre risorse per il WSET 3</h2><ul><li><a href="/it/domande-esame-wset-3/">Domande d&#x27;esame WSET Livello 3 con risposte</a></li><li><a href="/it/simulazione-esame-wset-3/">Simulazione d&#x27;esame WSET Livello 3 gratis</a></li><li><a href="/it/domande-aperte-wset-3/">Domande a risposta breve WSET Livello 3: esempi e risposte modello</a></li><li><a href="/it/degustazione-sat-wset/">L&#x27;approccio sistematico alla degustazione (SAT) del WSET 3: come scrivere la nota</a></li><li><a href="/it/flashcard-wset-3/">Flashcard WSET Livello 3: vitigni, regioni, cifre e termini</a></li><li><a href="/it/come-superare-wset-3/">Come superare il WSET Livello 3 al primo tentativo: piano di studio e consigli</a></li><li><a href="/it/domande-wset-3-per-regione/">Domande WSET 3 per regione e argomento</a></li><li><a href="/it/domande-wset-3/degustazione-sat/">WSET 3 Degustazione e SAT</a></li><li><a href="/it/domande-wset-3/abbinamento-cibo-vino/">WSET 3 Abbinamento cibo-vino</a></li><li><a href="/it/domande-wset-3/conservazione-servizio/">WSET 3 Conservazione e servizio</a></li><li><a href="/it/domande-wset-3/prezzo-commercio-vino/">WSET 3 Prezzo e commercio del vino</a></li><li><a href="/it/domande-wset-3/la-vite-le-varieta/">WSET 3 La vite e le varietà</a></li><li><a href="/it/domande-wset-3/clima-ambiente/">WSET 3 Clima e ambiente</a></li><li><a href="/it/domande-wset-3/gestione-vigneto-potatura/">WSET 3 Gestione del vigneto e potatura</a></li><li><a href="/it/domande-wset-3/vinificazione-affinamento/">WSET 3 Vinificazione e affinamento</a></li><li><a href="/it/domande-wset-3/vini-bianchi/">WSET 3 Vini bianchi</a></li><li><a href="/it/domande-wset-3/vini-rossi-rosati/">WSET 3 Vini rossi e rosati</a></li><li><a href="/it/domande-wset-3/bordeaux/">WSET 3 Bordeaux</a></li><li><a href="/it/domande-wset-3/borgogna-beaujolais/">WSET 3 Borgogna e Beaujolais</a></li><li><a href="/it/domande-wset-3/alsazia-loira/">WSET 3 Alsazia e Loira</a></li><li><a href="/it/domande-wset-3/valle-rodano/">WSET 3 Valle del Rodano</a></li><li><a href="/it/domande-wset-3/sud-francia/">WSET 3 Sud della Francia</a></li><li><a href="/it/domande-wset-3/italia/">WSET 3 Italia</a></li><li><a href="/it/domande-wset-3/spagna/">WSET 3 Spagna</a></li><li><a href="/it/domande-wset-3/portogallo/">WSET 3 Portogallo</a></li><li><a href="/it/domande-wset-3/germania/">WSET 3 Germania</a></li><li><a href="/it/domande-wset-3/austria-ungheria/">WSET 3 Austria e Ungheria</a></li><li><a href="/it/domande-wset-3/grecia/">WSET 3 Grecia</a></li><li><a href="/it/domande-wset-3/stati-uniti-canada/">WSET 3 Stati Uniti e Canada</a></li><li><a href="/it/domande-wset-3/cile-argentina/">WSET 3 Cile e Argentina</a></li><li><a href="/it/domande-wset-3/sudafrica/">WSET 3 Sudafrica</a></li><li><a href="/it/domande-wset-3/australia-nuova-zelanda/">WSET 3 Australia e Nuova Zelanda</a></li><li><a href="/it/domande-wset-3/spumanti-champagne-prosecco-cava/">WSET 3 Spumanti: Champagne, Prosecco, Cava</a></li><li><a href="/it/domande-wset-3/sherry/">WSET 3 Sherry</a></li><li><a href="/it/domande-wset-3/porto-fortificati/">WSET 3 Porto e fortificati</a></li></ul></nav><nav class="seolinks wrap intl-links" aria-label="Languages"><h2>🌍</h2><ul><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/pt/" hreflang="pt-PT" lang="pt-PT">Português (Portugal)</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/ja/" hreflang="ja" lang="ja">日本語</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a></li><li><a href="/zh-hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a></li><li><a href="/pl/" hreflang="pl" lang="pl">Polski</a></li><li><a href="/ar/" hreflang="ar" lang="ar">العربية</a></li><li><a href="/es-ar/" hreflang="es-AR" lang="es-AR">Español (Argentina)</a></li></ul></nav><footer class="foot3"><div class="w">
+<nav class="seolinks wrap" aria-label="Altre risorse per il WSET 3"><h2>Altre risorse per il WSET 3</h2><ul><li><a href="/it/domande-esame-wset-3/">Domande d&#x27;esame WSET Livello 3 con risposte</a></li><li><a href="/it/simulazione-esame-wset-3/">Simulazione d&#x27;esame WSET Livello 3 gratis</a></li><li><a href="/it/domande-aperte-wset-3/">Domande a risposta breve WSET Livello 3: esempi e risposte modello</a></li><li><a href="/it/degustazione-sat-wset/">L&#x27;approccio sistematico alla degustazione (SAT) del WSET 3: come scrivere la nota</a></li><li><a href="/it/flashcard-wset-3/">Flashcard WSET Livello 3: vitigni, regioni, cifre e termini</a></li><li><a href="/it/come-superare-wset-3/">Come superare il WSET Livello 3 al primo tentativo: piano di studio e consigli</a></li><li><a href="/it/domande-wset-3-per-regione/">Domande WSET 3 per regione e argomento</a></li><li><a href="/it/domande-wset-3/degustazione-sat/">WSET 3 Degustazione e SAT</a></li><li><a href="/it/domande-wset-3/abbinamento-cibo-vino/">WSET 3 Abbinamento cibo-vino</a></li><li><a href="/it/domande-wset-3/conservazione-servizio/">WSET 3 Conservazione e servizio</a></li><li><a href="/it/domande-wset-3/prezzo-commercio-vino/">WSET 3 Prezzo e commercio del vino</a></li><li><a href="/it/domande-wset-3/la-vite-le-varieta/">WSET 3 La vite e le varietà</a></li><li><a href="/it/domande-wset-3/clima-ambiente/">WSET 3 Clima e ambiente</a></li><li><a href="/it/domande-wset-3/gestione-vigneto-potatura/">WSET 3 Gestione del vigneto e potatura</a></li><li><a href="/it/domande-wset-3/vinificazione-affinamento/">WSET 3 Vinificazione e affinamento</a></li><li><a href="/it/domande-wset-3/vini-bianchi/">WSET 3 Vini bianchi</a></li><li><a href="/it/domande-wset-3/vini-rossi-rosati/">WSET 3 Vini rossi e rosati</a></li><li><a href="/it/domande-wset-3/bordeaux/">WSET 3 Bordeaux</a></li><li><a href="/it/domande-wset-3/borgogna-beaujolais/">WSET 3 Borgogna e Beaujolais</a></li><li><a href="/it/domande-wset-3/alsazia-loira/">WSET 3 Alsazia e Loira</a></li><li><a href="/it/domande-wset-3/valle-rodano/">WSET 3 Valle del Rodano</a></li><li><a href="/it/domande-wset-3/sud-francia/">WSET 3 Sud della Francia</a></li><li><a href="/it/domande-wset-3/italia/">WSET 3 Italia</a></li><li><a href="/it/domande-wset-3/spagna/">WSET 3 Spagna</a></li><li><a href="/it/domande-wset-3/portogallo/">WSET 3 Portogallo</a></li><li><a href="/it/domande-wset-3/germania/">WSET 3 Germania</a></li><li><a href="/it/domande-wset-3/austria-ungheria/">WSET 3 Austria e Ungheria</a></li><li><a href="/it/domande-wset-3/grecia/">WSET 3 Grecia</a></li><li><a href="/it/domande-wset-3/stati-uniti-canada/">WSET 3 Stati Uniti e Canada</a></li><li><a href="/it/domande-wset-3/cile-argentina/">WSET 3 Cile e Argentina</a></li><li><a href="/it/domande-wset-3/sudafrica/">WSET 3 Sudafrica</a></li><li><a href="/it/domande-wset-3/australia-nuova-zelanda/">WSET 3 Australia e Nuova Zelanda</a></li><li><a href="/it/domande-wset-3/spumanti-champagne-prosecco-cava/">WSET 3 Spumanti: Champagne, Prosecco, Cava</a></li><li><a href="/it/domande-wset-3/sherry/">WSET 3 Sherry</a></li><li><a href="/it/domande-wset-3/porto-fortificati/">WSET 3 Porto e fortificati</a></li></ul></nav><nav class="seolinks wrap intl-links" aria-label="Languages"><h2>🌍</h2><ul><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/nl/" hreflang="nl" lang="nl">Nederlands</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/pt/" hreflang="pt-PT" lang="pt-PT">Português (Portugal)</a></li><li><a href="/el/" hreflang="el" lang="el">Ελληνικά</a></li><li><a href="/ja/" hreflang="ja" lang="ja">日本語</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a></li><li><a href="/zh-hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a></li><li><a href="/pl/" hreflang="pl" lang="pl">Polski</a></li><li><a href="/ar/" hreflang="ar" lang="ar">العربية</a></li><li><a href="/es-ar/" hreflang="es-AR" lang="es-AR">Español (Argentina)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li></ul></nav><footer class="foot3"><div class="w">
  <a class="brand3" href="./"><img class="emb" src="../img/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="../img/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a>
  <p class="fd3">The Wine Goat è una piattaforma indipendente di preparazione agli esami. Non è affiliata, approvata né sponsorizzata dal Wine &amp; Spirit Education Trust. WSET® è un marchio registrato del Wine &amp; Spirit Education Trust, citato solo per indicare l&#x27;esame a cui ci si prepara.</p>
  <p class="fc3">© 2026 The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
@@ -413,27 +344,9 @@ var box=$('#mcq3');if(box){var qs=D.mcq,i=0,good=0;
 $$('.g3').forEach(function(g){g.style.pointerEvents='auto';g.addEventListener('click',function(){g.style.animation='none';void g.offsetWidth;g.style.animation='hop3 .9s ease-out';});});
 })();
 
-/* the goat runs in, talks, jumps, runs off — and comes back */
-(function(){ var gw=document.getElementById('gw'), st=gw&&gw.parentNode; if(!gw) return;
- var says=[]; try{ says=JSON.parse(document.getElementById('home-data').textContent).says||[]; }catch(e){}
- var say=gw.querySelector('.say'), i=0, RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
- function at(x,ms){ gw.style.transition='transform '+ms+'ms linear'; gw.style.transform='translateX('+x+'px)'; }
- function wait(ms){ return new Promise(function(r){ setTimeout(r,ms); }); }
- function spot(){ var w=st.clientWidth; return Math.max(10, w*.18); }
- if(RM){ gw.style.transform='translateX('+spot()+'px)'; if(say&&says[0]){ say.textContent=says[0]; gw.classList.add('talking'); } return; }
- async function loop(){ for(;;){
-   var w=st.clientWidth;
-   gw.style.transition='none'; gw.style.transform='translateX(-220px)'; await wait(60);
-   gw.classList.add('run'); at(spot(), 2000); await wait(2000); gw.classList.remove('run');
-   for(var k=0;k<2;k++){
-     if(say&&says.length){ say.textContent=says[i++%says.length]; gw.classList.add('talking'); await wait(2600); gw.classList.remove('talking'); await wait(350); }
-     gw.classList.add('jump'); await wait(900); gw.classList.remove('jump'); await wait(500);
-   }
-   gw.classList.add('run'); at(w+40, 2400); await wait(2400); gw.classList.remove('run'); await wait(1800);
- } }
- gw.style.pointerEvents='auto'; gw.addEventListener('click',function(){ gw.classList.remove('jump'); void gw.offsetWidth; gw.classList.add('jump'); setTimeout(function(){ gw.classList.remove('jump'); },900); });
- setTimeout(loop,800);
-})();
+/* the goat next to the phone talks (the drawing only sways gently) */
+(function(){ var D=JSON.parse(document.getElementById('home-data').textContent), say=document.getElementById('say'); if(!say||!D.says||!D.says.length) return; var i=0; say.textContent=D.says[0];
+  setInterval(function(){ say.classList.add('out'); setTimeout(function(){ i=(i+1)%D.says.length; say.textContent=D.says[i]; say.classList.remove('out'); },300); },4200); })();
 </script>
 </body>
 </html>
