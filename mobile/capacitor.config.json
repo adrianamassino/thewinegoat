@@ -1,0 +1,9 @@
+{
+  "appId": "com.thewinegoat.app",
+  "appName": "The Wine Goat",
+  "webDir": "www",
+  "backgroundColor": "#fbf6ef",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "always", "scheme": "The Wine Goat" },
+  "plugins": { "SplashScreen": { "launchShowDuration": 1200, "backgroundColor": "#fbf6ef", "showSpinner": false } }
+}

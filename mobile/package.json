@@ -1,0 +1,22 @@
+{
+  "name": "thewinegoat-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Wine Goat — app Android e iOS (Capacitor) costruite dall'app web in ../app",
+  "scripts": {
+    "www": "node scripts/build-www.mjs",
+    "sync": "npm run www && npx cap sync",
+    "icons": "npx capacitor-assets generate --iconBackgroundColor '#7a1838' --iconBackgroundColorDark '#3e0f22' --splashBackgroundColor '#fbf6ef' --splashBackgroundColorDark '#3e0f22'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0",
+    "@capacitor/ios": "^8.6.0",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0",
+    "@capacitor/cli": "^8.6.0"
+  }
+}

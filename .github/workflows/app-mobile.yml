@@ -1,0 +1,46 @@
+# Costruisce le app Android e iOS di The Wine Goat a partire dall'app web (cartella app/).
+# Parte da sola quando cambia app/ o mobile/, oppure a mano da GitHub > Actions > "App mobile" > Run workflow.
+name: App mobile
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["app/**", "mobile/**", ".github/workflows/app-mobile.yml"]
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: mobile/package-lock.json }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 21 }
+      - name: Prepara l'app web
+        working-directory: mobile
+        run: npm ci && npm run www && npx cap sync android
+      - name: Compila APK (da installare sul telefono) e AAB (per Google Play)
+        working-directory: mobile/android
+        run: chmod +x gradlew && ./gradlew assembleDebug bundleRelease --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: thewinegoat-android
+          path: |
+            mobile/android/app/build/outputs/apk/debug/*.apk
+            mobile/android/app/build/outputs/bundle/release/*.aab
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: mobile/package-lock.json }
+      - name: Prepara l'app web
+        working-directory: mobile
+        run: npm ci && npm run www && npx cap sync ios
+      - name: Compila per il simulatore iPhone (senza firma Apple)
+        working-directory: mobile/ios/App
+        run: |
+          xcodebuild -project App.xcodeproj -scheme App -configuration Debug -sdk iphonesimulator \
+            -derivedDataPath build CODE_SIGNING_ALLOWED=NO build
+          cd build/Build/Products/Debug-iphonesimulator && zip -qr ../../../../TheWineGoat-simulator.zip App.app
+      - uses: actions/upload-artifact@v4
+        with: { name: thewinegoat-ios-simulator, path: mobile/ios/App/TheWineGoat-simulator.zip }
