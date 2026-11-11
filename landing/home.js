@@ -10,7 +10,7 @@ try{if(!localStorage.getItem('wset3-lang'))localStorage.setItem('wset3-lang',({i
 var K='wset3-progress-v1',PT={it:['{n} risposte salvate nel tuo profilo','Continua'],fr:['{n} réponses enregistrées dans votre profil','Continuer'],en:['{n} answers saved to your profile','Continue'],es:['{n} respuestas guardadas en tu perfil','Continuar']};
 function getP(){try{var x=JSON.parse(localStorage.getItem(K)||'null');if(x&&x.v===1)return x;}catch(e){}return {v:1,q:{},e:{},s:[]};}
 function putP(P){try{localStorage.setItem(K,JSON.stringify(P));}catch(e){}}
-function pill(){var n=Object.keys(getP().q).length;if(!n)return;var el=$('#twgpill'),tx=PT[LANG]||PT.en;if(!el){el=document.createElement('a');el.id='twgpill';el.className='twgpill';el.href=D.app+'#go=start';document.body.appendChild(el);}
+function pill(){var n=Object.keys(getP().q).length;if(!n)return;var el=$('#twgpill'),tx=D.pill||PT[LANG]||PT.en;if(!el){el=document.createElement('a');el.id='twgpill';el.className='twgpill';el.href=D.app+'#go=start';document.body.appendChild(el);}
  el.innerHTML='<span>🔥</span><span class="tp-t">'+esc(tx[0].replace('{n}',n))+'</span><span class="tp-b">'+esc(tx[1])+' →</span>';el.classList.add('on');}
 function rec(id,ok){var P=getP(),now=Date.now(),q=P.q[id]||[0,0,0];q[0]++;if(ok)q[1]++;q[2]=now;P.q[id]=q;var e=P.e[id];
  if(!ok){if(e){e.n++;e.l=now;e.r=0;}else P.e[id]={n:1,f:now,l:now,r:0};}else if(e&&!e.r){e.r=1;e.rt=now;}putP(P);pill();}
