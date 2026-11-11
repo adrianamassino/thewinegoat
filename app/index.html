@@ -10568,16 +10568,16 @@ try{ const st37=document.createElement("style"); st37.textContent=`
 `; document.head.appendChild(st37); }catch(e){}
 
 /* ---------- v127: level sessions from the site — 50 mixed questions or 50 open questions; the result is unlocked by creating the account ---------- */
-Object.assign(T.it,{lvMixT:"Sessione di livello · 50 domande miste",lvOpenT:"Sessione di livello · 50 domande aperte",lvOf:"Domanda {i} di {n}",lvNext:"Domanda successiva →",lvSkip:"Salta",lvEnd:"Termina e vedi il risultato",
+Object.assign(T.it,{lvMixT:"Sessione di livello · 50 domande miste",lvOpenT:"Sessione di livello · 3 domande aperte",lvOf:"Domanda {i} di {n}",lvNext:"Domanda successiva →",lvSkip:"Salta",lvEnd:"Termina e vedi il risultato",
  lvSaved:"Risposta corretta e salvata ✓",lvLockT:"Il tuo risultato è pronto",lvLockP:"Crea il tuo account gratuito per vedere punteggio, livello e punti deboli. Il risultato resta salvato nel tuo profilo.",lvLockGo:"Crea l'account e vedi il risultato",
  lvResT:"Risultato della sessione",lvResMix:"{c} risposte giuste su {n}",lvResOpen:"{s} punti su {m}",lvDone:"{n} domande completate",lvPlan:"Crea il mio piano dai punti deboli",lvAgain:"Nuova sessione"});
-Object.assign(T.fr,{lvMixT:"Session de niveau · 50 questions mixtes",lvOpenT:"Session de niveau · 50 questions ouvertes",lvOf:"Question {i} sur {n}",lvNext:"Question suivante →",lvSkip:"Passer",lvEnd:"Terminer et voir le résultat",
+Object.assign(T.fr,{lvMixT:"Session de niveau · 50 questions mixtes",lvOpenT:"Session de niveau · 3 questions ouvertes",lvOf:"Question {i} sur {n}",lvNext:"Question suivante →",lvSkip:"Passer",lvEnd:"Terminer et voir le résultat",
  lvSaved:"Réponse corrigée et enregistrée ✓",lvLockT:"Votre résultat est prêt",lvLockP:"Créez votre compte gratuit pour voir votre score, votre niveau et vos points faibles. Le résultat reste enregistré dans votre profil.",lvLockGo:"Créer le compte et voir le résultat",
  lvResT:"Résultat de la session",lvResMix:"{c} bonnes réponses sur {n}",lvResOpen:"{s} points sur {m}",lvDone:"{n} questions terminées",lvPlan:"Créer mon plan à partir des points faibles",lvAgain:"Nouvelle session"});
-Object.assign(T.en,{lvMixT:"Level session · 50 mixed questions",lvOpenT:"Level session · 50 written questions",lvOf:"Question {i} of {n}",lvNext:"Next question →",lvSkip:"Skip",lvEnd:"Finish and see my result",
+Object.assign(T.en,{lvMixT:"Level session · 50 mixed questions",lvOpenT:"Level session · 3 written questions",lvOf:"Question {i} of {n}",lvNext:"Next question →",lvSkip:"Skip",lvEnd:"Finish and see my result",
  lvSaved:"Answer marked and saved ✓",lvLockT:"Your result is ready",lvLockP:"Create your free account to see your score, your level and your weak points. The result stays saved in your profile.",lvLockGo:"Create my account and see the result",
  lvResT:"Session result",lvResMix:"{c} correct out of {n}",lvResOpen:"{s} marks out of {m}",lvDone:"{n} questions completed",lvPlan:"Build my plan from my weak points",lvAgain:"New session"});
-if(T.es) Object.assign(T.es,{lvMixT:"Sesión de nivel · 50 preguntas mixtas",lvOpenT:"Sesión de nivel · 50 preguntas abiertas",lvOf:"Pregunta {i} de {n}",lvNext:"Siguiente pregunta →",lvSkip:"Saltar",lvEnd:"Terminar y ver el resultado",
+if(T.es) Object.assign(T.es,{lvMixT:"Sesión de nivel · 50 preguntas mixtas",lvOpenT:"Sesión de nivel · 3 preguntas abiertas",lvOf:"Pregunta {i} de {n}",lvNext:"Siguiente pregunta →",lvSkip:"Saltar",lvEnd:"Terminar y ver el resultado",
  lvSaved:"Respuesta corregida y guardada ✓",lvLockT:"Tu resultado está listo",lvLockP:"Crea tu cuenta gratuita para ver tu puntuación, tu nivel y tus puntos débiles. El resultado queda guardado en tu perfil.",lvLockGo:"Crear la cuenta y ver el resultado",
  lvResT:"Resultado de la sesión",lvResMix:"{c} respuestas correctas de {n}",lvResOpen:"{s} puntos de {m}",lvDone:"{n} preguntas completadas",lvPlan:"Crear mi plan con mis puntos débiles",lvAgain:"Nueva sesión"});
 
@@ -10594,7 +10594,7 @@ function lvSpread(pool,n,chOf){ const by={}; pool.forEach(x=>{ const c=chOf(x); 
   return shuffle(out); }
 function lvStartMix(){ const ids=lvSpread(BANK.map(b=>b.id),50,id=>{ const b=BANK.find(q=>q.id===id); return b?b.c:""; });
   LVS={k:"mix"}; startQuiz(ids,"practice",[]); }
-function lvStartOpen(){ const ids=lvSpread(OPEN.map(o=>o.id),50,id=>OBY[id]?OBY[id].c:"");
+function lvStartOpen(){ const ids=lvSpread(OPEN.map(o=>o.id),GATE.open,id=>OBY[id]?OBY[id].c:"");
   LVS={k:"open",ids,i:0,done:[]}; lvShowOpen(); }
 function lvShowOpen(){ const id=LVS.ids[LVS.i]; delete ODR[id]; if(OA[id]) oSel[id]=-1; view="open"; openQ(id); window.scrollTo(0,0); }
 function lvStore(r){ r.ts=Date.now(); try{ lsSet(LVK,JSON.stringify(r)); }catch(e){} }
@@ -10722,7 +10722,7 @@ document.addEventListener("visibilitychange",()=>{if(document.visibilityState===
 
 /* ---------- v130: free taste + paywall at the moment of momentum.
    Free forever: the whole Bordeaux chapter, flashcards, games, maps, atlas, study plan.
-   Free taste of everything else: 10 questions per chapter, 3 open questions, 2 podcasts, 2 films, the first 10 questions of a mock exam.
+   Free taste of everything else: 10 questions per chapter, 3 open questions in total (Bordeaux included), 2 podcasts, 2 films, the first 10 questions of a mock exam.
    No price is shown anywhere until the learner tries to go past the taste: then the paywall opens. ---------- */
 const GATE={freeCh:["bdx"],perCh:10,open:3,pods:2,films:2,mock:10};
 const TSK="twg-taste";
@@ -10828,9 +10828,9 @@ document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closes
     return h; }; }
 document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closest("[data-wlmore]"); if(b){ e.preventDefault(); const c=b.dataset.wlmore; quiz=null; startCh(c); } });
 
-/* written (open) questions: 3 to try, all of Bordeaux free */
+/* written (open) questions: 3 to try in total, Bordeaux included */
 { const _oq=openQ; openQ=function(id){ const o=OBY[id];
-    if(!gPro()&&o&&!gFreeCh(o.c)&&!(OA[id]&&OA[id].length)&&!TASTE.o.includes(id)){
+    if(!gPro()&&o&&!(OA[id]&&OA[id].length)&&!TASTE.o.includes(id)){
       if(TASTE.o.length>=GATE.open){ wallOpen("o",{c:o.c}); return; }
       TASTE.o.push(id); tasteSave(); }
     return _oq.apply(this,arguments); }; }
