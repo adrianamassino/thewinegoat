@@ -19,15 +19,23 @@ if os.path.exists('config.json'):
     try: _cfg = _json.load(open('config.json'))
     except Exception: _cfg = {}
 if _cfg.get('supabaseUrl') and _cfg.get('supabaseAnonKey'):
-    _inj = ('<script>window.TWG_CONFIG=' + _json.dumps({'supabaseUrl': _cfg['supabaseUrl'], 'supabaseAnonKey': _cfg['supabaseAnonKey'], 'aiEndpoint': False}) + '</script>'
+    _inj = ('<script>window.TWG_CONFIG=' + _json.dumps({'supabaseUrl': _cfg['supabaseUrl'], 'supabaseAnonKey': _cfg['supabaseAnonKey'], 'aiEndpoint': False, 'providers': _cfg.get('providers', []), 'stripe': _cfg.get('stripe', {})}) + '</script>'
             '<script src="vendor/supabase-2.119.0.js"></script>'
             '<script>' + open('shim.js').read() + '</script>')
     h = h.replace('<script>', _inj + '<script>', 1)
     print('accounts: ON')
 else:
-    _inj = '<script>window.twgAccount={enabled:()=>false,signedIn:()=>false,email:()=>"",open:()=>{},ready:Promise.resolve()}</script>'
+    _inj = '<script>window.twgAccount={enabled:()=>false,signedIn:()=>false,email:()=>"",uid:()=>"",client:()=>null,meta:()=>({}),open:()=>{},ready:Promise.resolve(),signOut:()=>{}}</script>'
     h = h.replace('<script>', _inj + '<script>', 1)
     print('accounts: off (no config.json) - progress stays on the device')
+# ---- loading screen (the app is a big page: show the goat while it loads) ----
+_spl = ('<div id="twg-splash" style="position:fixed;inset:0;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;background:#fbf7f1">'
+        '<img src="../img/logo-emblem.webp" alt="" style="width:120px;height:auto;animation:twgsp 1.2s ease-in-out infinite">'
+        '<img src="../img/wordmark.webp" alt="The Wine Goat" style="width:200px;height:auto">'
+        '<div style="width:140px;height:6px;border-radius:9px;background:#efe3d8;overflow:hidden"><i style="display:block;width:40%;height:100%;border-radius:9px;background:linear-gradient(90deg,#8c1d40,#d4a23a);animation:twgbar 1.1s ease-in-out infinite"></i></div>'
+        '<style>@keyframes twgsp{50%{transform:translateY(-10px) rotate(-3deg)}}@keyframes twgbar{0%{transform:translateX(-100%)}100%{transform:translateX(260%)}}'
+        '@media (prefers-color-scheme:dark){#twg-splash{background:#1b1216!important}}</style></div>')
+h = re.sub(r'(<body[^>]*>)', lambda m: m.group(1) + _spl, h, count=1)
 # ---- new logo in the app header (served from /img/, same files as the site) ----
 h = re.sub(r'(<a class="brand"[^>]*><img class="logo" src=")data:image/[a-z]+;base64,[^"]+("[^>]*?)width="80" height="85"', r'\1../img/logo-emblem.webp\2width="80" height="91"', h, count=1)
 h = re.sub(r'(<img class="wmi lt" src=")data:image/[a-z]+;base64,[^"]+("[^>]*?)width="206" height="62"', r'\1../img/wordmark.webp\2width="206" height="80"', h, count=1)
