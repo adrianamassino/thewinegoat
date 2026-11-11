@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Second row of animated features: mock exams · maps · games · flashcards (labels language-neutral)."""
 import html
+from icons import ICON
 e = lambda s: html.escape(str(s), quote=True)
 
 MORE = {
@@ -27,10 +28,10 @@ MORE['es-ar'] = MORE['es']
 def render(c, img):
     T = MORE.get(c, MORE['en'])
     cells = ''.join(f'<i class="{"r" if k in (7, 19, 31, 44) else "g"}" style="--i:{k}"></i>' for k in range(50))
-    m = (f'<div class="fv fm" aria-hidden="true"><div class="mtop"><b class="clock">⏱ <span class="mt">1:30:00</span></b>'
+    m = (f'<div class="fv fm" aria-hidden="true"><div class="mtop"><b class="clock"><span class="mt">1:30:00</span></b>'
          f'<b class="xq"><span class="mn">0</span>/50</b></div><div class="mgrid">{cells}</div>'
-         f'<div class="mres">🏅 <b>Merit</b> <span>92%</span></div>'
-         f'<img class="fgo" src="{img}/goats/ig-n29.webp" alt="" width="323" height="380" loading="lazy"></div>')
+         f'<div class="mres"><b>Merit</b> <span>92%</span></div>'
+         f'</div>')
     import json as _j, os as _o
     M = _j.load(open(_o.path.join(_o.path.dirname(_o.path.abspath(__file__)), 'realmap.json'), encoding='utf-8'))
     W, H = M['W'], M['H']
@@ -47,18 +48,18 @@ def render(c, img):
           f'<path d="{M["france"]}" fill="#e6d3ae" stroke="#fff" stroke-width="1.1" stroke-linejoin="round"/>'
           f'<path d="{M["rivers"]}" fill="none" stroke="#93bfd3" stroke-width="1.1" stroke-linecap="round"/>'
           f'<path class="route" d="{route}" fill="none" stroke="#8c1d40" stroke-width="1.6" stroke-dasharray="4 4"/>'
-          f'{pins}</svg><img class="fgo" src="{img}/goats/ig-n23.webp" alt="" width="267" height="380" loading="lazy"></div>')
-    faces = ['🍇', '🍷', '🧀', '🍇', '🍾', '🍷', '🧀', '🍾']
+          f'{pins}</svg></div>')
+    faces = ['Riesling', 'Rioja', 'Mosel', 'Nebbiolo', 'Tempranillo', 'Barolo', 'Pinot Noir', 'Bourgogne']
     mem = ''.join(f'<div class="mc"><div class="mci" style="--i:{k}"><span class="mb">?</span><span class="mf">{f}</span></div></div>' for k, f in enumerate(faces))
-    g = (f'<div class="fv fg" aria-hidden="true"><div class="gtop"><b class="streak">🔥 <span class="sk">6</span></b><b class="xp">+<span class="xpn">0</span> XP</b></div>'
+    g = (f'<div class="fv fg" aria-hidden="true"><div class="gtop"><b class="xp">+<span class="xpn">0</span> XP</b></div>'
          f'<div class="mem">{mem}</div><div class="pop">+10</div>'
-         f'<img class="fgo" src="{img}/goats/ig-n10.webp" alt="" width="263" height="380" loading="lazy"></div>')
+         f'</div>')
     fl = ('<div class="fv ff" aria-hidden="true"><div class="deck"><div class="fc0"></div><div class="fc1"></div>'
-          '<div class="fcard2"><div class="fci"><div class="ffront"><span>🍇</span><b>Nebbiolo</b></div>'
-          '<div class="fback"><p></p><p></p><p></p><div class="fchips"><span>🍒</span><span>🌹</span><span>🌿</span><span>⚡</span></div></div></div><b class="fok">✓</b></div></div>'
-          f'<img class="fgo" src="{img}/goats/ig-n16.webp" alt="" width="330" height="372" loading="lazy"></div>')
-    out = ''.join(f'<article class="fcard">{v}<h3><span>{ic}</span>{e(t)}</h3></article>'
-                  for v, t, ic in zip((m, mp, g, fl), T, ('⏱️', '🗺️', '🎮', '🃏')))
+          '<div class="fcard2"><div class="fci"><div class="ffront"><svg viewBox="0 0 40 40" class="fgr"><g fill="#8c1d40"><circle cx="14" cy="12" r="4.2"/><circle cx="22" cy="12" r="4.2"/><circle cx="30" cy="12" r="4.2"/><circle cx="18" cy="19" r="4.2"/><circle cx="26" cy="19" r="4.2"/><circle cx="22" cy="26" r="4.2"/><circle cx="14" cy="19" r="4.2"/><circle cx="30" cy="19" r="4.2"/><circle cx="18" cy="26" r="4.2"/><circle cx="26" cy="26" r="4.2"/><circle cx="22" cy="33" r="4.2"/></g><path d="M22 8V3" stroke="#6b5a3e" stroke-width="1.5"/></svg><b>Nebbiolo</b></div>'
+          '<div class="fback"><p></p><p></p><p></p><div class="fmeters"><i style="--v:90%"></i><i style="--v:95%"></i><i style="--v:70%"></i><i style="--v:55%"></i></div></div></div><b class="fok">✓</b></div></div>'
+          f'</div>')
+    out = ''.join(f'<article class="fcard">{v}<h3><span class="fic">{ICON[ic]}</span>{e(t)}</h3></article>'
+                  for v, t, ic in zip((m, mp, g, fl), T, ('timer', 'map', 'game', 'cards')))
     return f'<div class="fgrid4 fmore">{out}</div>'
 
 
@@ -136,4 +137,21 @@ JS = r"""
  var io=new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ io.unobserve(en.target); cycle(en.target); } }); },{threshold:.35});
  cards.forEach(function(c){ io.observe(c); });
 })();
+"""
+
+CSS += r"""
+.fmap{background:#e6edf0!important}
+.fm .mgrid{margin-top:22px;justify-content:center}.fm .mtop{justify-content:center}.fm .mres{left:50%;margin-left:-62px}.fm .mtop b{border-radius:8px}
+.fm .mres{border-radius:10px;letter-spacing:.02em}
+.fg .mem{grid-template-columns:repeat(4,1fr)!important;gap:10px;margin:22px 0 0}
+.fg .mc{width:auto!important;height:70px!important}
+.fg .mci span{font:700 12.5px/1.15 "DM Sans",system-ui,sans-serif;padding:4px;text-align:center}
+.fg .mb{background:linear-gradient(160deg,#7a1838,#3e0f22)!important;color:#d9b45c!important;font:600 20px/1 Fraunces,Georgia,serif!important}
+.fg .mf{color:#3e0f22;box-shadow:inset 0 0 0 1.5px #b8892e!important}
+.fg .gtop b{border-radius:8px}
+.ff .deck{left:50%;transform:translateX(-50%);width:62%}
+.ff .ffront .fgr{width:40px;height:40px}
+.ff .fmeters{display:grid;gap:9px;margin-top:16px}
+.ff .fmeters i{display:block;height:6px;border-radius:3px;background:linear-gradient(90deg,#8c1d40 var(--v),#eadfd3 var(--v))}
+@media (max-width:420px){.fg .mc{height:60px!important}.fg .mci span{font-size:10.5px}.fg .mem{gap:6px}.ff .deck{width:72%}}
 """

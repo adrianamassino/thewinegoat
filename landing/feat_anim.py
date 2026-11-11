@@ -3,6 +3,7 @@
 1 open questions marked like the exam · 2 personal plan that adapts and fills the gaps
 3 class recording + photos of notes · 4 films & podcasts.  Labels inside the animations are language-neutral."""
 import html
+from icons import ICON, SEAL
 e = lambda s: html.escape(str(s), quote=True)
 
 
@@ -15,17 +16,15 @@ def render(h, oq, img):
     a = f'''<div class="fv fa" aria-hidden="true">
  <div class="paper"><div class="pq">{e(q)}</div>{lines}</div>
  <div class="ring"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" pathLength="100"/><circle class="rf" cx="22" cy="22" r="18" pathLength="100"/></svg><span><b class="sc">0</b><small>/5</small></span></div>
- <img class="fgo" src="{img}/goats/exam.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 2 — personal plan: goal, days ticked, weak topics filled over time, countdown
     days = ''.join(f'<span class="dy" style="--i:{i}"><i>✓</i></span>' for i in range(7))
-    bars = ''.join(f'<div class="tb{" weak" if k == 1 else ""}" style="--a:{a0}%;--b:{b0}%"><span>{ic}</span><div><i></i></div><em>{"⚠️" if k == 1 else ""}</em></div>'
+    bars = ''.join(f'<div class="tb{" weak" if k == 1 else ""}" style="--a:{a0}%;--b:{b0}%"><span class="tdot"></span><div><i></i></div><em>{"!" if k == 1 else ""}</em></div>'
                    for k, (ic, a0, b0) in enumerate((('🍇', 58, 84), ('🌍', 22, 88), ('🍾', 66, 82), ('🥃', 44, 76))))
     b = f'''<div class="fv fb" aria-hidden="true">
- <div class="goals"><span>Pass</span><span class="g2">Merit</span><span>Distinction</span><b class="cd">📅 <i class="cdn">60</i></b></div>
+ <div class="goals"><span>Pass</span><span class="g2">Merit</span><span>Distinction</span><b class="cd"><i class="cdn">60</i></b></div>
  <div class="week">{days}</div>
  <div class="bars">{bars}</div>
- <img class="fgo" src="{img}/goats/free.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 3 — record the class: REC, waveform, transcript, photo of notes
     wave = ''.join(f'<i style="--d:{(i * 37) % 11 / 10:.1f}s;--h:{30 + (i * 53) % 60}%"></i>' for i in range(26))
@@ -34,23 +33,22 @@ def render(h, oq, img):
  <div class="rec"><span class="dot"></span>REC <b class="tm">00:00</b></div>
  <div class="wave">{wave}</div>
  <div class="trans">{tr}</div>
- <div class="polar"><div class="note"><span></span><span></span><span></span><em>🍇</em></div></div>
+ <div class="polar"><div class="note"><span></span><span></span><span></span></div></div>
  <div class="flash"></div>
- <img class="fgo" src="{img}/goats/guide.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 4 — films & podcasts
     eq = ''.join(f'<i style="--d:{d}s"></i>' for d in (0, .25, .5, .15, .4))
     d = f'''<div class="fv fd" aria-hidden="true">
  <div class="film"><svg viewBox="0 0 320 150" preserveAspectRatio="xMidYMid slice">
-   <defs><linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7c99b"/><stop offset="1" stop-color="#fbe9d6"/></linearGradient></defs>
-   <rect width="320" height="150" fill="url(#fsky)"/><circle class="sun" cx="250" cy="70" r="20" fill="#f4b24a"/>
+   <defs><linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d2c4"/><stop offset="1" stop-color="#f6ece3"/></linearGradient></defs>
+   <rect width="320" height="150" fill="url(#fsky)"/><circle class="sun" cx="250" cy="70" r="20" fill="#d9a54a" opacity=".85"/>
    <path class="hb" d="M-20 110 C40 80 110 86 170 100 S280 84 360 96 V160 H-20Z" fill="#c9a77d"/>
    <g class="rows"><path d="M-40 150 C20 112 80 108 140 116 S260 104 400 112" fill="none" stroke="#6f8a3f" stroke-width="5" stroke-dasharray="2 10" stroke-linecap="round"/>
    <path d="M-40 160 C20 124 80 122 140 128 S260 118 400 124" fill="none" stroke="#5c7633" stroke-width="6" stroke-dasharray="2 11" stroke-linecap="round"/></g>
    <path d="M-20 126 C60 110 140 118 200 124 S300 112 360 118 V160 H-20Z" fill="#8aa04f"/>
- </svg><img class="fgoat" src="{img}/goats/ig-g14.webp" alt="" width="239" height="301" loading="lazy">
- <span class="play">▶</span><div class="fbar"><i></i></div><span class="chip">🎬 68</span></div>
- <div class="pod"><img src="{img}/goats/mosaic.webp" alt="" width="200" height="220" loading="lazy"><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">🎧 45</span></div>
+ </svg>
+ <span class="play">▶</span><div class="fbar"><i></i></div><span class="chip">68</span></div>
+ <div class="pod"><span class="pcov"><svg viewBox="0 0 24 24" fill="none" stroke="#f3d48a" stroke-width="1.6" stroke-linecap="round"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg></span><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">45</span></div>
 </div>'''
     vis = (a, b, d, c)
     order = (0, 1, 3, 2)  # open questions, plan, class recording, films & podcasts
@@ -58,7 +56,7 @@ def render(h, oq, img):
     for n, k in enumerate(order):
         ic, t, p = W[k]
         v = (a, b, d, c)[k]
-        cards += f'<article class="fcard">{v}<h3><span>{ic}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
+        cards += f'<article class="fcard">{v}<h3><span class="fic">{ICON[("pen","plan","play","mic")[k]]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
     return f'<div class="fgrid4">{cards}</div>'
 
 
@@ -215,7 +213,7 @@ COMPLETE = {
 
 def head(c, h):
     t, p = COMPLETE.get(c, COMPLETE['en'])
-    return f'<div class="fhead"><span class="fbadge">🏆</span><h2>{e(t)}</h2><p>{e(p)}</p></div>'
+    return f'<div class="fhead">{SEAL}<h2>{e(t)}</h2><p>{e(p)}</p></div>'
 
 CSS += r'''
 .fhead{text-align:center;max-width:760px;margin:0 auto}
@@ -224,3 +222,25 @@ CSS += r'''
 .fhead h2{margin:14px 0 10px}
 .fhead p{margin:0 auto;color:#6b5a5f;font-size:18px;line-height:1.5}
 '''
+
+CSS += r"""
+/* ===== serious look: ivory panels, wine & gold, line icons ===== */
+.fcard{border-radius:20px;box-shadow:inset 0 0 0 1px #eadfd3,0 18px 40px -32px rgba(62,15,34,.45)}
+.fv{border-radius:14px;background:linear-gradient(180deg,#fbf8f3,#f4ede4)!important}
+.fcard h3{font-size:20px;letter-spacing:-.005em}
+.fic{display:inline-grid;place-items:center;width:38px;height:38px;border-radius:10px;background:#f6ecee;color:#8c1d40;flex:none}
+.fic .lic{width:22px;height:22px}
+.fb .tdot{width:10px;height:10px;border-radius:50%;background:#b8892e;justify-self:center}
+.fb .tb:nth-child(2) .tdot{background:#8c1d40}.fb .tb:nth-child(3) .tdot{background:#6f8a3f}.fb .tb:nth-child(4) .tdot{background:#5a6b8c}
+.fb .tb em{font:900 14px/1 inherit;color:#c0392b;text-align:center}
+.fb .tb{grid-template-columns:14px 1fr 16px}.fb .bars{margin-right:0}
+.fb .goals span{border-radius:8px}.fb .cd{border-radius:8px;font-variant-numeric:tabular-nums}
+.fa .paper{right:110px}
+.fc .trans{margin-right:150px}.fc .polar{right:22px}
+.fd .pcov{width:46px;height:46px;border-radius:10px;display:grid;place-items:center;background:linear-gradient(160deg,#7a1838,#3e0f22);flex:none}
+.fd .pcov svg{width:24px;height:24px}
+.fd .chip{border-radius:8px;font-variant-numeric:tabular-nums}
+.seal{width:64px;height:64px;display:block;margin:0 auto}
+.fhead h2{margin-top:10px}
+@media (max-width:420px){.fa .paper{right:96px}.fc .trans{margin-right:120px}}
+"""
