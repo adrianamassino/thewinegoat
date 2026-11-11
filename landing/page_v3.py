@@ -14,7 +14,7 @@ LANE_CSS = """
 /* hero: the walking goat has its own strip at the foot of the text column */
 .glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
 .glane .gw{width:136px}
-.hero3 .sub3{margin-bottom:0}.glane.gl1{height:74px;margin:2px 0 6px}.glane.gl1 .gw{width:96px}
+.glane.gl1{height:74px;margin:6px 0 4px}.glane.gl1 .gw{width:96px}
 .gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
 .gw.talking .gbub{opacity:1;transform:none}
@@ -87,6 +87,43 @@ LANE_JS = """
 
 e = lambda s: html.escape(str(s), quote=True)
 
+def _grape(cls, uid):
+    # cluster of grapes with stem, curl and leaf
+    pts = [(50,30),(36,34),(64,34),(29,48),(43,48),(57,48),(71,48),(36,62),(50,62),(64,62),(43,76),(57,76),(50,89)]
+    berries = ''.join(f'<circle cx="{x}" cy="{y}" r="8.6" fill="url(#gb{uid})"/><circle cx="{x-3}" cy="{y-3}" r="2.2" fill="#fff" opacity=".45"/>' for x, y in pts)
+    return (f'<svg class="hgr {cls}" viewBox="0 0 110 110"><defs><radialGradient id="gb{uid}" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#c25a86"/><stop offset=".55" stop-color="#8c1d40"/><stop offset="1" stop-color="#4e0d26"/></radialGradient></defs>'
+            f'<path d="M50 24 C50 14 54 8 60 4" fill="none" stroke="#7a5236" stroke-width="3" stroke-linecap="round"/>'
+            f'<path d="M58 8 C70 -2 92 4 96 18 C84 16 76 22 70 30 C66 20 62 14 58 8Z" fill="#7d9a45"/><path d="M60 9 C70 10 80 16 88 18" fill="none" stroke="#5f7a30" stroke-width="1.4"/>'
+            f'<path d="M46 20 C38 16 34 8 40 4 C44 2 46 8 42 10" fill="none" stroke="#7d9a45" stroke-width="1.6" stroke-linecap="round"/>{berries}</svg>')
+
+def _hero_deco():
+    bub = ''.join(f'<i style="--x:{x}%;--s:{sz}px;--d:{d}s;--t:{t}s"></i>' for x, sz, d, t in
+                  ((4,14,0,9),(10,8,2.5,11),(17,20,5,10),(25,10,1.2,12),(33,7,6.5,9),(41,16,3.4,13),(48,9,8,10),(56,12,.6,11),(64,18,4.4,12),(72,8,7.1,9),(80,14,2,10),(88,10,5.7,12),(95,16,3,11),(21,12,9,11),(52,7,10,10),(76,22,6,13),(37,11,11,10),(90,8,8.5,9)))
+    return ('<div class="hdeco" aria-hidden="true"><div class="hbub">' + bub + '</div>'
+            + _grape('hg1', 1) + _grape('hg2', 2) + _grape('hg3', 3)
+            + '<span class="hsp s1">✦</span><span class="hsp s2">✦</span><span class="hsp s3">✦</span></div>')
+
+HERO_CSS = """
+.hdeco{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.hero3>.w{position:relative;z-index:1}
+.hero3{background:radial-gradient(55% 60% at 22% 35%,#fde6d4 0%,rgba(253,230,212,0) 70%),radial-gradient(60% 70% at 85% 20%,#f9dfe6 0%,rgba(249,223,230,0) 70%),radial-gradient(40% 50% at 10% 90%,#fbefd9 0%,rgba(251,239,217,0) 70%),#fdf6ef}
+.hbub i{position:absolute;bottom:-20px;left:var(--x);width:var(--s);height:var(--s);border-radius:50%;
+ background:radial-gradient(circle at 32% 30%,rgba(255,255,255,.95) 0 18%,rgba(255,255,255,0) 30%),radial-gradient(circle,rgba(212,162,58,.16) 50%,rgba(196,120,60,.6) 100%);
+ box-shadow:inset 0 0 0 1.5px rgba(196,140,50,.6),0 2px 6px rgba(212,162,58,.25);animation:hbubup var(--t) linear calc(var(--d) * -1) infinite;opacity:0}
+@keyframes hbubup{0%{transform:translate(0,0);opacity:0}10%{opacity:1}50%{transform:translate(10px,-320px)}90%{opacity:.7}100%{transform:translate(-6px,-680px);opacity:0}}
+.hgr{position:absolute;filter:drop-shadow(0 10px 14px rgba(62,15,34,.25));transform-origin:50% 0;animation:hgsw 6s ease-in-out infinite}
+.hg1{width:96px;left:-14px;top:30px;transform:rotate(-18deg);animation-delay:-1s}
+.hg2{width:70px;left:calc(50% - 60px);top:20px;transform:rotate(12deg);animation-delay:-3s}
+.hg3{width:58px;left:2%;bottom:130px;transform:rotate(-8deg);opacity:.9;animation-delay:-4.5s}
+@keyframes hgsw{0%,100%{rotate:-4deg}50%{rotate:5deg}}
+.hsp{position:absolute;color:#d4a23a;font-size:16px;animation:hspk 3.2s ease-in-out infinite}
+.hsp.s1{left:41%;top:24%}.hsp.s2{left:8%;top:52%;font-size:12px;animation-delay:-1.2s}.hsp.s3{left:47%;top:62%;font-size:13px;animation-delay:-2.2s}
+@keyframes hspk{0%,100%{opacity:.2;transform:scale(.7) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(20deg)}}
+@media (max-width:1020px){.hg1{width:70px;top:auto;bottom:42%;left:-24px}.hg2{left:auto;right:10px;top:14px}.rtl .hg2{right:auto;left:10px}.rtl .hg1{left:auto;right:-24px}.hg3{display:none}.hsp.s1{left:auto;right:28%}}
+@media (max-width:640px){.hg1{width:62px;left:-22px;top:auto;bottom:46%}.hg2{width:50px;top:8px;right:-8px}.rtl .hg2{left:-8px}.hsp.s3{display:none}}
+@media (prefers-reduced-motion:reduce){.hbub{display:none}.hgr,.hsp{animation:none}}
+"""
+
 def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, notice='', home='./', img='../img', lang_label=None):
     nav = ''.join(f'<li><a href="{u}">{e(n)}</a></li>' for u, n in h['nav'])
     stats = ''.join(f'<div class="st"><b>{e(a)}</b><span>{e(b)}</span></div>' for a, b in h['stats'])
@@ -110,13 +147,13 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <div class="acts3"><details class="lg3"><summary>{c_label}</summary><ul>{langs}</ul></details><a class="lnk3" href="{APP}">{e(h['login'])}</a><a class="b3 b3p sm" href="{APP}#go=start">{e(h['start'])}</a></div>
 </div></header>
 <main id="main">{notice}
-<section class="hero3"><div class="w hgrid">
+<section class="hero3">{_hero_deco()}<div class="w hgrid">
  <div class="htx">
   <p class="kick3">{e(h['kick'])}</p>
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
-  <div class="glane gl1" aria-hidden="true" data-stop=".42"><div class="gw" id="gw">{goat_svg()}</div></div>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
+  <div class="glane gl1" aria-hidden="true" data-stop=".42"><div class="gw" id="gw">{goat_svg()}</div></div>
   <ul class="trust3">{trust}</ul>
  </div>
  <div class="hvis" aria-hidden="true">
@@ -178,7 +215,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
-<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}</style>
+<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}{HERO_CSS}</style>
 <script>{JS}</script>
 <script>{LANE_JS}</script>
 <script>{feat_anim.JS}</script>
