@@ -1343,7 +1343,7 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
   const C=window.TWG_CONFIG||{};
   const ON=!!(C.supabaseUrl&&C.supabaseAnonKey&&window.supabase);
   const sb=ON?window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"implicit"}}):null;
-  let session=null;
+  let session=null, codeFor="";
   /* Google / Apple buttons appear automatically when the provider is switched on in Supabase */
   if(ON){ try{ fetch(C.supabaseUrl+"/auth/v1/settings",{headers:{apikey:C.supabaseAnonKey}}).then(r=>r.ok?r.json():null).then(j=>{ if(!j||!j.external) return;
       const on=["google","apple"].filter(p=>j.external[p]); const cur=C.providers||[]; C.providers=Array.from(new Set(cur.concat(on)));
@@ -1413,6 +1413,8 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
       <form id="acct-f" style="display:flex;flex-direction:column;gap:10px"><input type="email" id="acct-e" placeholder="${esc(tx("email"))}" autocomplete="email" required><input type="password" id="acct-p" placeholder="${esc(tx("pw"))}" minlength="8" autocomplete="${mode==="login"?"current-password":"new-password"}" required><button class="go">${esc(mode==="login"?tx("login"):tx("signup"))}</button></form>
       <div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap"><button class="lnk" data-a="magic">${esc(tx("magic"))}</button>${mode==="login"?`<button class="lnk" data-a="forgot">${esc(tx("forgot"))}</button>`:""}</div>
       <p style="font-size:.76rem">${esc(tx("local"))} ${esc(tx("terms"))}</p>`;
+    if(codeFor&&!session){ const CL={it:["Hai ricevuto un codice nell'email? Inseriscilo qui","Codice a 6 cifre","Verifica"],fr:["Vous avez reçu un code par e-mail ? Saisissez-le ici","Code à 6 chiffres","Vérifier"],es:["¿Has recibido un código por email? Escríbelo aquí","Código de 6 cifras","Verificar"],en:["Got a code in the email? Enter it here","6-digit code","Verify"]}; let l="fr"; try{ l=(localStorage.getItem("wset3-lang")||"fr").slice(0,2); }catch(e){} const c=CL[l]||CL.en;
+      h+=`<div class="codebox"><p style="font-size:.85rem;margin:12px 0 6px;font-weight:700">${esc(c[0])}</p><div style="display:flex;gap:8px"><input id="acct-code" inputmode="numeric" autocomplete="one-time-code" maxlength="10" placeholder="${esc(c[1])}" style="flex:1;min-width:0;padding:12px 14px;border-radius:14px;border:1.5px solid var(--line,#e5d7cf);font:inherit;font-size:1.1rem;letter-spacing:.2em"><button class="go" data-a="code" style="width:auto;padding:0 18px">${esc(c[2])}</button></div></div>`; }
     if(msg) h+=`<div class="msg ${err?"e":""}">${esc(msg)}</div>`;
     h+=`</div>`; bg.innerHTML=h; document.body.appendChild(bg);
     bg.addEventListener("click",async e=>{ if(e.target===bg) return close(); const a=e.target.closest("[data-a]"); if(!a) return; const k=a.dataset.a;
@@ -1422,12 +1424,14 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
         else if(k==="out"){ await sb.auth.signOut(); }
         else if(k==="google"||k==="apple"){ const {error}=await sb.auth.signInWithOAuth({provider:k,options:{redirectTo:location.origin+location.pathname}}); if(error) throw error; }
         else if(k==="m-login"||k==="m-signup"){ mode=k.slice(2); open(); }
-        else if(k==="magic"){ if(!em()) return document.getElementById("acct-e").focus(); const {error}=await sb.auth.signInWithOtp({email:em(),options:{emailRedirectTo:location.origin+location.pathname}}); if(error) throw error; open(tx("sent")); }
+        else if(k==="code"){ const tok=((document.getElementById("acct-code")||{}).value||"").replace(/\s/g,""); if(!tok) return document.getElementById("acct-code").focus();
+          let r=await sb.auth.verifyOtp({email:codeFor,token:tok,type:"email"}); if(r.error) r=await sb.auth.verifyOtp({email:codeFor,token:tok,type:"signup"}); if(r.error) throw r.error; codeFor=""; close(); }
+        else if(k==="magic"){ if(!em()) return document.getElementById("acct-e").focus(); const {error}=await sb.auth.signInWithOtp({email:em(),options:{emailRedirectTo:location.origin+location.pathname}}); if(error) throw error; codeFor=em(); open(tx("sent")); }
         else if(k==="forgot"){ if(!em()) return document.getElementById("acct-e").focus(); const {error}=await sb.auth.resetPasswordForEmail(em(),{redirectTo:location.origin+location.pathname}); if(error) throw error; open(tx("reset")); }
       }catch(err){ open(tx("err")+" "+(err.message||err),true); } });
     const f=document.getElementById("acct-f"); if(f) f.onsubmit=async e=>{ e.preventDefault(); const em=document.getElementById("acct-e").value, pw=document.getElementById("acct-p").value;
       try{ if(mode==="login"){ const {error}=await sb.auth.signInWithPassword({email:em,password:pw}); if(error) throw error; }
-        else { const {data,error}=await sb.auth.signUp({email:em,password:pw,options:{emailRedirectTo:location.origin+location.pathname}}); if(error) throw error; if(!data.session) open(tx("confirm")); } }
+        else { const {data,error}=await sb.auth.signUp({email:em,password:pw,options:{emailRedirectTo:location.origin+location.pathname}}); if(error) throw error; if(!data.session){ codeFor=em; open(tx("confirm")); } } }
       catch(err){ open(tx("err")+" "+(err.message||err),true); } };
   }
   function close(){ const b=document.getElementById("acct-bg"); if(b) b.remove(); }
