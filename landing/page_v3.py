@@ -5,34 +5,55 @@ import json, html, os, datetime, re
 import page_v2
 from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
-from goat_svg import goat_svg, GOAT_CSS, GOAT_JS
+from goat_walk import goat_svg, GOAT_CSS
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANE_CSS = """
+/* hero: one small goat beside the phone */
 .gside{position:absolute;right:-12px;bottom:4%;width:108px;height:auto;z-index:3;filter:drop-shadow(0 12px 14px rgba(62,15,34,.22))}
-@media (max-width:640px){.gside{width:66px;right:-10px;bottom:2%}}
-.glane{position:relative;height:118px;margin:26px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
-.glane .gw{width:132px}
-.glane:before{content:"";position:absolute;left:0;right:0;bottom:6px;height:2px;border-radius:2px;background:linear-gradient(90deg,transparent,rgba(140,29,64,.14) 20%,rgba(140,29,64,.14) 80%,transparent)}
-.glane .gw.back .tgoat{transform:scaleX(-1)}
-@media (max-width:640px){.glane{height:100px;margin-top:20px}.glane .gw{width:112px}}
+/* hero: the walking goat has its own strip at the foot of the text column */
+.glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
+.glane .gw{width:136px}
+.gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
+ box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
+.gw.talking .gbub{opacity:1;transform:none}
+/* static goats: each one sits on something */
+.g3.gtry{width:132px;right:auto;left:calc(50% + 400px);top:auto;bottom:60px}
+.panel3wrap{position:relative;max-width:780px;margin:0 auto}
+.cmpwrap{position:relative;max-width:820px;margin:0 auto}
+.g3.gcmp{width:104px;right:6px;top:-92px;z-index:2}
+.pwrap{position:relative}.pwrap>.pc{height:100%}
+.rtl .g3.gprize{right:auto;left:18px}
+.g3.gprize{width:92px;right:18px;top:-104px;z-index:2}
+.g3.gfaq2{width:140px;left:calc(100% + 22px);top:110px}
+@media (max-width:1300px){.g3.gtry{display:none}}
+@media (max-width:1140px){.g3.gfaq2{display:none}}
+@media (max-width:640px){.gside{width:66px;right:-10px;bottom:2%}.glane{height:86px;margin-top:22px}.glane .gw{width:112px}.gw .gbub{max-width:170px;font-size:13px;left:84%}
+ .g3.gcmp{display:none}.pgrid{gap:84px}.g3.gprize{width:66px;top:-80px}}
 """
 LANE_JS = """
 (function(){ var gw=document.getElementById('gw'), st=gw&&gw.parentNode; if(!gw) return;
- var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+ var says=[]; try{ says=JSON.parse(document.getElementById('home-data').textContent).says||[]; }catch(e){}
+ var bub=gw.querySelector('.gbub'), i=0, RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
  function at(x,ms){ gw.style.transition='transform '+ms+'ms linear'; gw.style.transform='translateX('+x+'px)'; }
  function wait(ms){ return new Promise(function(r){ setTimeout(r,ms); }); }
- if(RM){ gw.style.transform='translateX('+Math.round(st.clientWidth*.3)+'px)'; return; }
+ function stop(){ var w=st.clientWidth, g=gw.offsetWidth; return Math.max(0, Math.min(Math.round(w*.22), w-g-(bub?bub.offsetWidth:0)-4)); }
+ if(RM){ gw.style.transform='translateX('+stop()+'px)'; if(bub&&says[0]){ bub.textContent=says[0]; gw.classList.add('talking'); } return; }
+ var SPEED=85;
  async function loop(){ for(;;){
-   var w=st.clientWidth, gwW=gw.offsetWidth, mid=Math.round(w*.42-gwW/2);
-   gw.classList.remove('back'); gw.style.transition='none'; gw.style.transform='translateX('+(-gwW-20)+'px)'; await wait(60);
-   gw.classList.add('run'); at(mid, 2600); await wait(2600); gw.classList.remove('run');
-   await wait(700); gw.classList.add('jump'); await wait(900); gw.classList.remove('jump'); await wait(900);
-   gw.classList.add('run'); at(w+20, 2600); await wait(2600); gw.classList.remove('run');
-   await wait(5000);
+   var w=st.clientWidth, g=gw.offsetWidth;
+   if(bub&&says.length) bub.textContent=says[i++%says.length];
+   var x0=-g-10, x1=stop();
+   gw.style.transition='none'; gw.style.transform='translateX('+x0+'px)'; await wait(60);
+   gw.classList.add('walk'); var t=Math.round((x1-x0)/SPEED*1000); at(x1,t); await wait(t); gw.classList.remove('walk');
+   await wait(250); gw.classList.add('talking'); await wait(2800); gw.classList.remove('talking'); await wait(300);
+   gw.classList.add('jump'); await wait(800); gw.classList.remove('jump'); await wait(400);
+   gw.classList.add('walk'); t=Math.round((w+20-x1)/SPEED*1000); at(w+20,t); await wait(t); gw.classList.remove('walk');
+   await wait(4000);
  } }
- setTimeout(loop,1200);
+ setTimeout(loop,900);
 })();
 """
+
 e = lambda s: html.escape(str(s), quote=True)
 
 def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, notice='', home='./', img='../img', lang_label=None):
@@ -63,8 +84,8 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
-  <div class="glane" aria-hidden="true"><div class="gw" id="gw">{goat_svg()}</div></div>
   <ul class="trust3">{trust}</ul>
+  <div class="glane" aria-hidden="true"><div class="gw" id="gw"><p class="gbub"></p>{goat_svg()}</div></div>
  </div>
  <div class="hvis" aria-hidden="true">
   <div class="glow"></div>
@@ -77,6 +98,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <section id="{ids[0]}" class="sec3 try3"><div class="w">
  <h2>{e(h['try_h'])}</h2><p class="lead3">{e(h['try_p'])}</p>
  <div class="tabs3" role="tablist"><button role="tab" aria-selected="true" data-t3="open">{e(h['tab_open'])}</button><button role="tab" aria-selected="false" data-t3="mcq">{e(h['tab_mcq'])}</button></div>
+ <div class="panel3wrap"><img class="g3 gtry sway2" src="{img}/goats/explore.webp" alt="" width="421" height="478" loading="lazy">
  <div class="panel3" id="p-open">
   <p class="octx">{e(h['o_ctx'].replace('{m}', str(oq['m'])))}</p>
   <h3 class="oq3">{e(oq['t'])}</h3>
@@ -85,15 +107,13 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <div id="ores" aria-live="polite"></div>
   <p class="onote">{e(h['o_model'])}</p>
  </div>
- <div class="panel3" id="p-mcq" hidden><div id="mcq3" aria-live="polite"></div></div>
- <img class="g3 gtry sway" src="{img}/goats/explore.webp" alt="" width="300" height="300" loading="lazy">
+ <div class="panel3" id="p-mcq" hidden><div id="mcq3" aria-live="polite"></div></div></div>
 </div></section>
 
 <section id="{ids[1]}" class="sec3 why3"><div class="w">
- <img class="g3 gdeco gwhy sway2" src="{img}/goats/books.webp" alt="" width="300" height="300" loading="lazy">
  <h2>{e(h['why_h'])}</h2>
  <div class="whys">{why}</div>
- <h3 class="cmph">{e(h['cmp_h'])}</h3>{cmp}
+ <h3 class="cmph">{e(h['cmp_h'])}</h3><div class="cmpwrap"><img class="g3 gcmp sway2" src="{img}/goats/books.webp" alt="" width="326" height="300" loading="lazy">{cmp}</div>
 </div></section>
 
 <section class="sec3 steps3"><div class="w s3grid">
@@ -102,15 +122,14 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div></section>
 
 <section id="{ids[2]}" class="sec3 price3"><div class="w">
- <img class="g3 gdeco gprice sway" src="{img}/goats/trophy.webp" alt="" width="300" height="300" loading="lazy">
  <h2>{e(h['price_h'])}</h2>
  <div class="pgrid">
   <article class="pc"><h3>{e(h['free_t'])}</h3><p class="pp">0 €</p><ul>{free}</ul><a class="b3 b3g" href="{APP}#go=start">{e(h['free_b'])}</a></article>
-  <article class="pc pro"><span class="rib">★</span><h3>{e(h['full_t'])}</h3><p class="pp">{price} <small>{e(h['full_note'])}</small></p><ul>{full}</ul><a class="b3 b3gold" href="{APP}#go=start">{e(h['full_b'])}</a></article>
+  <div class="pwrap"><img class="g3 gprize sway" src="{img}/goats/trophy.webp" alt="" width="236" height="300" loading="lazy"><article class="pc pro"><span class="rib">★</span><h3>{e(h['full_t'])}</h3><p class="pp">{price} <small>{e(h['full_note'])}</small></p><ul>{full}</ul><a class="b3 b3gold" href="{APP}#go=start">{e(h['full_b'])}</a></article></div>
  </div>
 </div></section>
 
-<section id="faq" class="sec3 faq3"><div class="w nar"><img class="g3 gdeco gfaq sway2" src="{img}/goats/study.webp" alt="" width="300" height="300" loading="lazy"><h2>{e(h['faq_h'])}</h2>{faq}</div></section>
+<section id="faq" class="sec3 faq3"><div class="w nar"><h2>{e(h['faq_h'])}</h2><div class="cmpwrap" style="max-width:none"><img class="g3 gfaq2 sway2" src="{img}/goats/scoot.webp" alt="" width="262" height="320" loading="lazy">{faq}</div></div></section>
 
 <section class="sec3 fin3"><div class="w fgrid">
  <div><h2>{e(h['final_h'])}</h2><p>{e(h['final_p'])}</p><a class="b3 b3gold" href="{APP}#go=start">{e(h['final_b'])}</a></div>
@@ -135,7 +154,7 @@ def build(ctx):
     byid = {x['id']: x for x in ctx['bdx']}
     CSS = open(os.path.join(HERE, 'home.css'), encoding='utf-8').read() 
     JS = open(os.path.join(HERE, 'home.js'), encoding='utf-8').read() 
-    GOAT = goat_svg()
+    GOAT = ''
     OPENX = ctx['open']
 
     def page(c):
