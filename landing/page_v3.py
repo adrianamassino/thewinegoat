@@ -7,6 +7,32 @@ from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
 from goat_svg import goat_svg, GOAT_CSS, GOAT_JS
 HERE = os.path.dirname(os.path.abspath(__file__))
+LANE_CSS = """
+.gside{position:absolute;right:-12px;bottom:4%;width:108px;height:auto;z-index:3;filter:drop-shadow(0 12px 14px rgba(62,15,34,.22))}
+@media (max-width:640px){.gside{width:66px;right:-10px;bottom:2%}}
+.glane{position:relative;height:118px;margin:26px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
+.glane .gw{width:132px}
+.glane:before{content:"";position:absolute;left:0;right:0;bottom:6px;height:2px;border-radius:2px;background:linear-gradient(90deg,transparent,rgba(140,29,64,.14) 20%,rgba(140,29,64,.14) 80%,transparent)}
+.glane .gw.back .tgoat{transform:scaleX(-1)}
+@media (max-width:640px){.glane{height:100px;margin-top:20px}.glane .gw{width:112px}}
+"""
+LANE_JS = """
+(function(){ var gw=document.getElementById('gw'), st=gw&&gw.parentNode; if(!gw) return;
+ var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+ function at(x,ms){ gw.style.transition='transform '+ms+'ms linear'; gw.style.transform='translateX('+x+'px)'; }
+ function wait(ms){ return new Promise(function(r){ setTimeout(r,ms); }); }
+ if(RM){ gw.style.transform='translateX('+Math.round(st.clientWidth*.3)+'px)'; return; }
+ async function loop(){ for(;;){
+   var w=st.clientWidth, gwW=gw.offsetWidth, mid=Math.round(w*.42-gwW/2);
+   gw.classList.remove('back'); gw.style.transition='none'; gw.style.transform='translateX('+(-gwW-20)+'px)'; await wait(60);
+   gw.classList.add('run'); at(mid, 2600); await wait(2600); gw.classList.remove('run');
+   await wait(700); gw.classList.add('jump'); await wait(900); gw.classList.remove('jump'); await wait(900);
+   gw.classList.add('run'); at(w+20, 2600); await wait(2600); gw.classList.remove('run');
+   await wait(5000);
+ } }
+ setTimeout(loop,1200);
+})();
+"""
 e = lambda s: html.escape(str(s), quote=True)
 
 def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, notice='', home='./', img='../img', lang_label=None):
@@ -37,13 +63,13 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
+  <div class="glane" aria-hidden="true"><div class="gw" id="gw">{goat_svg()}</div></div>
   <ul class="trust3">{trust}</ul>
  </div>
  <div class="hvis" aria-hidden="true">
   <div class="glow"></div>
   <div class="phone3"><img src="{img}/shots/home-{SH}.webp" alt="" width="540" height="1080"></div>
-  <img class="g3 gpeek sway2" src="{img}/goats/peek.webp" alt="" width="248" height="320">
-  <div class="gaw"><img class="g3 ga sway" src="{img}/goats/hero.webp" alt="" width="745" height="848"><p class="say" id="say"></p></div>
+  <img class="gside sway2" src="{img}/goats/hero.webp" alt="" width="745" height="848">
  </div>
 </div>
 <div class="w stats3">{stats}</div></section>
@@ -97,7 +123,9 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
+<style>{GOAT_CSS}{LANE_CSS}</style>
 <script>{JS}</script>
+<script>{LANE_JS}</script>
 </body>
 </html>'''
 
