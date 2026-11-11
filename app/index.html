@@ -10719,6 +10719,155 @@ document.getElementById("brand-home").onclick=e=>{e.preventDefault(); quiz=null;
 document.querySelectorAll(".langs button").forEach(b=>b.onclick=()=>{lang=b.dataset.l;lsSet(LSL,lang);render()});
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="hidden"){clearTimeout(saveTimer);flush()}});
 
+
+/* ---------- v130: free taste + paywall at the moment of momentum.
+   Free forever: the whole Bordeaux chapter, flashcards, games, maps, atlas, study plan.
+   Free taste of everything else: 10 questions per chapter, 3 open questions, 2 podcasts, 2 films, the first 10 questions of a mock exam.
+   No price is shown anywhere until the learner tries to go past the taste: then the paywall opens. ---------- */
+const GATE={freeCh:["bdx"],perCh:10,open:3,pods:2,films:2,mock:10};
+const TSK="twg-taste";
+let TASTE=(()=>{ try{ return Object.assign({o:[],p:[],f:[]},JSON.parse(lsGet(TSK)||"null")||{}); }catch(e){ return {o:[],p:[],f:[]}; } })();
+const tasteSave=()=>{ try{ lsSet(TSK,JSON.stringify(TASTE)); }catch(e){} };
+const gPro=()=>{ try{ return proActive(); }catch(e){ return false; } };
+const gFreeCh=c=>GATE.freeCh.includes(c);
+const gDoneInCh=c=>BANK.reduce((n,b)=>n+(b.c===c&&P.q[b.id]?1:0),0);
+function gQLocked(it){ if(!it||it.pick!==null||gPro()) return false; if(typeof LVS!=="undefined"&&LVS&&LVS.k==="mix") return false; const b=BY[it.id]; if(!b||gFreeCh(b.c)||P.q[it.id]) return false; return gDoneInCh(b.c)>=GATE.perCh; }
+
+Object.assign(T.it,{wlStreak:"🔥 {s} giorni di fila",wlDone:"✅ {n} domande già fatte",
+ wlQT:"Stai andando forte in «{c}»",wlQP:"Ti restano {r} domande per chiudere questo capitolo. Sblocca tutto e continua da qui, senza perdere il ritmo.",
+ wlOT:"Vuoi continuare con le domande aperte?",wlOP:"Le hai provate: sono quelle che fanno la differenza all'esame. Sblocca tutte le 101 domande aperte con correzione.",
+ wlPT:"Ti è piaciuto il podcast?",wlPP:"Sblocca tutti gli episodi e ripassa ovunque: in macchina, in metro, mentre cucini.",
+ wlFT:"Vuoi vedere il prossimo film?",wlFP:"Sblocca tutti i film e ripassa il programma guardando.",
+ wlMT:"Vuoi finire la simulazione?",wlMP:"Hai iniziato bene. Sblocca l'esame completo per vedere il tuo punteggio vero e i punti deboli.",
+ wlList:"Tutte le 2.078 domande · 101 domande aperte corrette · simulazioni d'esame complete · film, podcast e mappe",
+ wlGo:"Sblocca tutto e continua · {p}",wlTerms:"Pagamento unico · accesso per 12 mesi · nessun abbonamento",
+ wlBdx:"Continua gratis con Bordeaux",wlLater:"Non ora",wlLockC:"Hai finito le domande gratuite di questo capitolo.",wlLockB:"Sblocca e continua",wlQuit:"Termina e vedi il risultato",
+ wlMore:"Altre 10 domande →"});
+Object.assign(T.fr,{wlStreak:"🔥 {s} jours d'affilée",wlDone:"✅ {n} questions déjà faites",
+ wlQT:"Vous êtes lancé·e sur « {c} »",wlQP:"Il vous reste {r} questions pour boucler ce chapitre. Débloquez tout et continuez d'ici, sans perdre le rythme.",
+ wlOT:"Envie de continuer les questions ouvertes ?",wlOP:"Vous les avez essayées : ce sont elles qui font la différence à l'examen. Débloquez les 101 questions ouvertes corrigées.",
+ wlPT:"Le podcast vous a plu ?",wlPP:"Débloquez tous les épisodes et révisez partout : en voiture, dans le métro, en cuisinant.",
+ wlFT:"Envie de voir le film suivant ?",wlFP:"Débloquez tous les films et révisez le programme en regardant.",
+ wlMT:"Vous voulez finir l'examen blanc ?",wlMP:"Bon début. Débloquez l'examen complet pour voir votre vrai score et vos points faibles.",
+ wlList:"Les 2 078 questions · 101 questions ouvertes corrigées · examens blancs complets · films, podcasts et cartes",
+ wlGo:"Tout débloquer et continuer · {p}",wlTerms:"Paiement unique · accès 12 mois · sans abonnement",
+ wlBdx:"Continuer gratuitement avec Bordeaux",wlLater:"Pas maintenant",wlLockC:"Vous avez terminé les questions gratuites de ce chapitre.",wlLockB:"Débloquer et continuer",wlQuit:"Terminer et voir le résultat",
+ wlMore:"10 questions de plus →"});
+Object.assign(T.en,{wlStreak:"🔥 {s}-day streak",wlDone:"✅ {n} questions done",
+ wlQT:"You're on a roll in “{c}”",wlQP:"{r} questions left to finish this chapter. Unlock everything and carry on from here, without losing momentum.",
+ wlOT:"Want to keep going with written questions?",wlOP:"You've tried them: they're what makes the difference in the exam. Unlock all 101 marked written questions.",
+ wlPT:"Enjoyed the podcast?",wlPP:"Unlock every episode and revise anywhere: driving, commuting, cooking.",
+ wlFT:"Want to watch the next film?",wlFP:"Unlock every film and revise the syllabus by watching.",
+ wlMT:"Want to finish the mock exam?",wlMP:"Good start. Unlock the full exam to see your real score and weak spots.",
+ wlList:"All 2,078 questions · 101 marked written questions · full mock exams · films, podcasts and maps",
+ wlGo:"Unlock everything and continue · {p}",wlTerms:"One payment · 12 months of access · no subscription",
+ wlBdx:"Keep going free with Bordeaux",wlLater:"Not now",wlLockC:"You've finished the free questions in this chapter.",wlLockB:"Unlock and continue",wlQuit:"Finish and see my score",
+ wlMore:"10 more questions →"});
+if(T.es) Object.assign(T.es,{wlStreak:"🔥 {s} días seguidos",wlDone:"✅ {n} preguntas hechas",
+ wlQT:"Vas lanzado en «{c}»",wlQP:"Te quedan {r} preguntas para cerrar este capítulo. Desbloquea todo y sigue desde aquí, sin perder el ritmo.",
+ wlOT:"¿Quieres seguir con las preguntas abiertas?",wlOP:"Ya las probaste: son las que marcan la diferencia en el examen. Desbloquea las 101 preguntas abiertas corregidas.",
+ wlPT:"¿Te gustó el pódcast?",wlPP:"Desbloquea todos los episodios y repasa en cualquier lugar.",
+ wlFT:"¿Quieres ver la siguiente película?",wlFP:"Desbloquea todas las películas y repasa el programa mirando.",
+ wlMT:"¿Quieres terminar el simulacro?",wlMP:"Buen comienzo. Desbloquea el examen completo para ver tu nota real y tus puntos débiles.",
+ wlList:"Las 2.078 preguntas · 101 preguntas abiertas corregidas · simulacros completos · películas, pódcasts y mapas",
+ wlGo:"Desbloquear todo y seguir · {p}",wlTerms:"Pago único · acceso 12 meses · sin suscripción",
+ wlBdx:"Seguir gratis con Burdeos",wlLater:"Ahora no",wlLockC:"Terminaste las preguntas gratuitas de este capítulo.",wlLockB:"Desbloquear y seguir",wlQuit:"Terminar y ver el resultado",
+ wlMore:"10 preguntas más →"});
+
+const RESK="twg-resume";
+function wallClose(){ const w=document.getElementById("twgwall"); if(w){ w.classList.remove("on"); setTimeout(()=>w.remove(),250); } }
+function wallOpen(kind,ctx){ ctx=ctx||{};
+  if(gPro()||document.getElementById("twgwall")) return;
+  let st=0; try{ st=duoStreak(); }catch(e){}
+  const done=Object.keys(P.q||{}).length;
+  let h="",p="";
+  if(kind==="q"){ const c=ctx.c, tot=BANK.filter(b=>b.c===c).length, r=Math.max(0,tot-gDoneInCh(c));
+    h=t("wlQT").replace("{c}",chName(c)); p=t("wlQP").replace("{r}",r); }
+  else { const K={o:["wlOT","wlOP"],p:["wlPT","wlPP"],f:["wlFT","wlFP"],m:["wlMT","wlMP"]}[kind]||["wlQT","wlQP"]; h=t(K[0]); p=t(K[1]); }
+  const chips=[st>1?t("wlStreak").replace("{s}",st):"",done?t("wlDone").replace("{n}",done):""].filter(Boolean).map(x=>`<span>${esc(x)}</span>`).join("");
+  const bg=document.createElement("div"); bg.id="twgwall"; bg.setAttribute("role","dialog"); bg.setAttribute("aria-modal","true");
+  bg.innerHTML=`<div class="wlbox"><div class="wlgoat">${typeof goat==="function"?goat("g12","md"):"🍷"}</div>
+   ${chips?`<div class="wlchips">${chips}</div>`:""}
+   <h2>${esc(h)}</h2><p>${esc(p)}</p>
+   <p class="wllist">${esc(t("wlList"))}</p>
+   <button type="button" class="buygo" data-wlbuy>${esc(t("wlGo").replace("{p}",buyPrice()))}</button>
+   <small>${esc(t("wlTerms"))} · 🔒 Stripe</small>
+   <div class="wlalt">${ctx.c!=="bdx"?`<button type="button" data-wlbdx>${esc(t("wlBdx"))}</button>`:""}<button type="button" data-wlx>${esc(t("wlLater"))}</button></div></div>`;
+  bg.addEventListener("click",e=>{
+    if(e.target===bg||e.target.closest("[data-wlx]")){ wallClose(); return; }
+    if(e.target.closest("[data-wlbdx]")){ wallClose(); quiz=null; startCh("bdx"); return; }
+    if(e.target.closest("[data-wlbuy]")){ try{ lsSet(RESK,JSON.stringify({k:kind,c:ctx.c||null,t:Date.now()})); }catch(e){} buyGo(); } });
+  document.body.appendChild(bg); requestAnimationFrame(()=>bg.classList.add("on"));
+  try{ if(typeof gtag==="function") gtag("event","paywall_view",{kind}); }catch(e){} }
+window.twgWall=wallOpen;
+
+/* after payment: take the learner straight back to where the wall stopped them */
+function resumeAfterPay(){ let r=null; try{ r=JSON.parse(lsGet(RESK)||"null"); }catch(e){} if(!r) return; try{ localStorage.removeItem(RESK); }catch(e){}
+  if(Date.now()-(r.t||0)>3*86400000) return;
+  setTimeout(()=>{ if(r.k==="q"&&r.c){ quiz=null; startCh(r.c); } else if(r.k==="o") go("open"); else if(r.k==="p") go("pod"); else if(r.k==="m") go("exam"); },1500); }
+{ const _pr=proRefresh; proRefresh=async function(){ const ok=await _pr.apply(this,arguments); if(ok){ wallClose(); resumeAfterPay(); } return ok; }; }
+
+/* the price card no longer sits in the profile: it only shows as "full access active" once paid */
+{ const _bc=buyCard; buyCard=function(){ return gPro()?_bc.apply(this,arguments):""; }; }
+
+/* quizzes (practice, chapters, path, level test, errors): the wall replaces the next locked question */
+{ const _rq=renderQ; renderQ=function(){ const it=quiz&&quiz.items[quiz.i];
+    if(gQLocked(it)){ const c=BY[it.id].c; setTimeout(()=>wallOpen("q",{c}),60);
+      const any=quiz.items.some(x=>x.pick!==null);
+      return `<section class="view"><div class="card wllock"><div class="ghead"><p class="mprompt">${esc(t("wlLockC"))}</p>${typeof gfree==="function"?gfree("g14",130):""}</div>
+        <div class="row"><button class="btn primary" data-wlopen="${esc(c)}">${esc(t("wlLockB"))}</button>${any?`<button class="btn ghost" id="q-quit">${esc(t("wlQuit"))}</button>`:`<button class="btn ghost" id="q-quit">${esc(t("wlLater"))}</button>`}</div></div></section>`; }
+    return _rq.apply(this,arguments); }; }
+document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closest("[data-wlopen]"); if(b){ e.preventDefault(); wallOpen("q",{c:b.dataset.wlopen}); } });
+
+{ const _an=answer; answer=function(){ if(quiz&&gQLocked(quiz.items[quiz.i])) return; return _an.apply(this,arguments); }; }
+
+/* the "one more round" hook at the end of a chapter session */
+{ const _rr=renderResult; renderResult=function(){ let h=_rr.apply(this,arguments);
+    try{ if(quiz&&quiz.mode==="practice"&&quiz.chs&&quiz.chs.length===1&&!(typeof PWCUR!=="undefined"&&PWCUR)){ const c=quiz.chs[0];
+      h=h.replace('<button class="btn primary" id="r-again">',`<button class="btn primary" data-wlmore="${esc(c)}">${esc(t("wlMore"))}</button><button class="btn" id="r-again">`); } }catch(e){}
+    return h; }; }
+document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closest("[data-wlmore]"); if(b){ e.preventDefault(); const c=b.dataset.wlmore; quiz=null; startCh(c); } });
+
+/* written (open) questions: 3 to try, all of Bordeaux free */
+{ const _oq=openQ; openQ=function(id){ const o=OBY[id];
+    if(!gPro()&&o&&!gFreeCh(o.c)&&!(OA[id]&&OA[id].length)&&!TASTE.o.includes(id)){
+      if(TASTE.o.length>=GATE.open){ wallOpen("o",{c:o.c}); return; }
+      TASTE.o.push(id); tasteSave(); }
+    return _oq.apply(this,arguments); }; }
+
+/* podcasts and films: 2 of each */
+{ const _pp=pdPlay; pdPlay=function(){ const p=pdCur();
+    if(p&&!gPro()&&!TASTE.p.includes(p.id)){ if(TASTE.p.length>=GATE.pods){ wallOpen("p"); return; } TASTE.p.push(p.id); tasteSave(); }
+    return _pp.apply(this,arguments); }; }
+{ const _fo=flOpen; flOpen=function(i){ const k=String(i);
+    if(!gPro()&&!TASTE.f.includes(k)){ if(TASTE.f.length>=GATE.films){ wallOpen("f"); return; } TASTE.f.push(k); tasteSave(); }
+    return _fo.apply(this,arguments); }; }
+
+/* mock exam: the first 10 questions, then the wall */
+document.addEventListener("click",e=>{ if(gPro()||typeof MK==="undefined"||!MK) return;
+  const b=e.target.closest&&e.target.closest("#mk-next,#mk-end"); if(!b) return; const k=mkSec();
+  const stop=(k==="mcq"&&MK.mcq.i>=GATE.mock-1)||(k!=="mcq"&&b.id==="mk-next")||(b.id==="mk-end"&&MK.si<MK.secs.length-1);
+  if(stop){ e.preventDefault(); e.stopPropagation(); wallOpen("m"); } },true);
+
+try{ const stw=document.createElement("style"); stw.textContent=`
+#twgwall{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:flex-end;justify-content:center;background:rgba(30,10,20,.55);backdrop-filter:blur(3px);opacity:0;transition:opacity .25s}
+#twgwall.on{opacity:1}
+#twgwall .wlbox{width:min(100%,480px);max-height:92vh;overflow:auto;margin:0;padding:22px 20px calc(18px + env(safe-area-inset-bottom));border-radius:26px 26px 0 0;color:#fff;background:radial-gradient(120% 140% at 0% 0%,#a3264f 0%,#7a1838 55%,#3e0f22 100%);box-shadow:0 -20px 50px -20px rgba(0,0,0,.6);transform:translateY(40px);transition:transform .3s cubic-bezier(.2,.9,.3,1.2);text-align:center}
+#twgwall.on .wlbox{transform:none}
+@media (min-width:700px){#twgwall{align-items:center}#twgwall .wlbox{border-radius:26px}}
+#twgwall .wlgoat{display:flex;justify-content:center;margin-bottom:6px}
+#twgwall .wlchips{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-bottom:10px}
+#twgwall .wlchips span{padding:5px 10px;border-radius:99px;background:rgba(255,255,255,.14);font-weight:700;font-size:13px}
+#twgwall h2{margin:4px 0 8px;font:800 23px/1.2 Fraunces,Georgia,serif;color:#fff}
+#twgwall p{margin:0 0 12px;color:#f6dfe5;line-height:1.45}
+#twgwall .wllist{font-size:13.5px;color:#f0cfd9}
+#twgwall small{display:block;margin-top:10px;color:#f0cfd9;font-size:12.5px}
+#twgwall .wlalt{display:flex;flex-direction:column;gap:4px;margin-top:12px}
+#twgwall .wlalt button{border:0;background:none;color:#fff;font:600 15px/1.3 inherit;font-family:inherit;padding:8px;cursor:pointer;text-decoration:underline;text-underline-offset:3px;opacity:.9}
+#twgwall .wlalt button[data-wlx]{opacity:.65;font-size:13.5px}
+.wllock .row{flex-wrap:wrap}
+`; document.head.appendChild(stw); }catch(e){}
+
 render();
 connect();
 </script>
