@@ -1,0 +1,19 @@
+{
+  "name": "The Wine Goat — WSET Level 3",
+  "short_name": "Wine Goat",
+  "description": "Prepara il WSET Level 3: quiz, domande aperte, mappe, film e podcast.",
+  "id": "/app/",
+  "start_url": "/app/?source=pwa",
+  "scope": "/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6ef",
+  "theme_color": "#7a1838",
+  "lang": "it",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
