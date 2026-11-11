@@ -21,7 +21,7 @@ LANE_CSS = """
 /* static goats: each one sits on something */
 .g3.gtry{width:172px;right:auto;left:calc(50% + 400px);top:auto;bottom:60px}
 .panel3wrap{position:relative;max-width:780px;margin:0 auto}
-.cmpwrap{position:relative;max-width:820px;margin:0 auto}.cmpwrap.vswrap{max-width:none}.cmph2{text-align:center}.hvis{min-height:0!important}
+.cmpwrap{position:relative;max-width:820px;margin:0 auto}.cmpwrap.vswrap{max-width:none}.cmph2{text-align:center}
 .g3.gcmp{width:136px;right:0;top:-122px;z-index:2}
 .pwrap{position:relative}.pwrap>.pc{height:100%}
 .rtl .g3.gprize{right:auto;left:18px}
@@ -170,8 +170,9 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a><div class="glane gl1" aria-hidden="true" data-after=".ctas3 > a"><div class="gw" id="gw">{goat_svg()}</div></div></div>
   <ul class="trust3">{trust}</ul>
  </div>
- <div class="hvis">
-  {feat_anim.render(h, oq, img, c, hero=True)}
+ <div class="hvis" aria-hidden="true">
+  <div class="glow"></div>
+  <div class="phone3"><img src="{img}/shots/home-{SH}.webp" alt="" width="540" height="1080"></div>
  </div>
 </div>
 <div class="w stats3">{stats}<img class="g3 gsmall gs2 sway" src="{img}/goats/ig-n04.webp" alt="" width="221" height="300" loading="lazy"></div></section>
@@ -200,7 +201,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div></section>
 
 <section class="sec3 why3"><div class="w">
- <h2 class="cmph2">{e(h['cmp_h'])}</h2><div class="cmpwrap vswrap"><img class="g3 gcmp sway2" src="{img}/goats/books.webp" alt="" width="326" height="300" loading="lazy">{feat_vs.render(h, img, price)}</div>
+ <h3 class="cmph">{e(h['cmp_h'])}</h3><div class="cmpwrap"><img class="g3 gcmp sway2" src="{img}/goats/books.webp" alt="" width="326" height="300" loading="lazy">{cmp}</div>
  <div class="glane gl2" aria-hidden="true" data-dir="rtl" data-stop=".35" data-speed="70"><div class="gw">{goat_svg()}</div></div>
 </div></section>
 

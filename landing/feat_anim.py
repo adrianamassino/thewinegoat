@@ -56,9 +56,9 @@ def render(h, oq, img, c='en', hero=False):
     VIS = (a, b, d, c)
     if hero:  # the open-question card, big, in the hero
         ic, t, p = W[0]
-        return f'<article class="fcard fhero">{VIS[0]}<h3><span class="fic">{ICON["pen"]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
+        return f'<article class="fcard fhero play" data-hero="1">{VIS[0]}<h3><span class="fic">{ICON["pen"]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
     cards = ''
-    for k in (1, 3, 2):
+    for k in (0, 1, 3, 2):
         ic, t, p = W[k]
         cards += f'<article class="fcard">{VIS[k]}<h3><span class="fic">{ICON[("pen","plan","play","mic")[k]]}</span>{e(t)}</h3><p class="fsr">{e(p)}</p></article>'
     cards += errors_card(c, img)
@@ -295,3 +295,10 @@ CSS += r"""
 """
 JS = JS.replace("var sc=card.querySelector('.sc'),", "var em=card.querySelector('.emn'), sc=card.querySelector('.sc'),")
 JS = JS.replace("     if(t>=9){", "     if(em){ em.textContent=t>8.6?0:Math.max(0,Math.min(3,Math.floor((t-3.7)/.9)+1)); }\n     if(t>=9){",1)
+
+CSS += r"""
+@media (max-width:640px){.hero3 .hvis{margin-top:6px}.fhero .fv{height:230px}.fhero .fa .paper{right:96px;padding:12px 14px}.fhero .fa .pq{margin-bottom:4px}.fhero .fa .pl{height:28px}
+ .fhero .fa .ring{width:66px;height:66px;right:14px;top:18px}.fhero .fa .ring span{padding-top:18px}.fhero .fa .ring b{font-size:22px}.fhero h3{font-size:18px;margin-top:12px}.fhero .fgo{width:70px}}
+"""
+JS = JS.replace("cards.forEach(function(c){ var cd=c.querySelector('.cdn'); if(cd) cd.textContent='D-60'; });",
+ "cards.forEach(function(c){ var cd=c.querySelector('.cdn'); if(cd) cd.textContent='D-60'; if(c.getAttribute('data-hero')) cycle(c); });",1)
