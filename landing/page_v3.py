@@ -6,7 +6,7 @@ import page_v2
 from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
 from goat_walk import goat_svg, GOAT_CSS
-import feat_anim
+import feat_anim, feat_more
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANE_CSS = """
 /* hero: one small goat beside the phone */
@@ -14,7 +14,7 @@ LANE_CSS = """
 /* hero: the walking goat has its own strip at the foot of the text column */
 .glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
 .glane .gw{width:136px}
-.glane.gl1{margin:6px 0 18px}
+.hero3 .sub3{margin-bottom:0}.glane.gl1{height:74px;margin:2px 0 6px}.glane.gl1 .gw{width:96px}
 .gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
 .gw.talking .gbub{opacity:1;transform:none}
@@ -44,7 +44,7 @@ LANE_CSS = """
 @media (max-width:1140px){.g3.gfaq3{display:none}}
 @media (max-width:1020px){.g3.gquick{display:none}}
 @media (max-width:1140px){.g3.gfaq2{display:none}}
-@media (max-width:640px){.gside{width:76px;right:-8px;bottom:0}.glane{height:86px;margin-top:22px}.glane .gw{width:112px}.gw .gbub{max-width:170px;font-size:13px;left:84%}
+@media (max-width:640px){.gside{width:76px;right:-8px;bottom:0}.glane{height:86px;margin-top:22px}.glane.gl1{height:64px;margin:0 0 6px}.glane.gl1 .gw{width:84px}.glane .gw{width:112px}.gw .gbub{max-width:170px;font-size:13px;left:84%}
  .g3.gcmp{display:none}.pgrid{gap:110px;margin-top:104px}.g3.gprize{width:86px;top:-106px}.g3.gfree{width:100px;top:-84px}.g3.gwc{width:74px;right:10px;top:8px}.why h3{padding-right:72px}
  .glane.gl4{height:80px}.glane .gw.kid{width:80px}}
 """
@@ -115,14 +115,13 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <p class="kick3">{e(h['kick'])}</p>
   <h1>{e(h['h1'])}</h1>
   <p class="sub3">{e(h['sub'])}</p>
-  <div class="glane gl1" aria-hidden="true"><div class="gw" id="gw"><p class="gbub"></p>{goat_svg()}</div></div>
+  <div class="glane gl1" aria-hidden="true" data-stop=".42"><div class="gw" id="gw">{goat_svg()}</div></div>
   <div class="ctas3"><a class="b3 b3p" href="{APP}#go=start">{e(h['cta1'])}</a><a class="b3 b3g" href="#{ids[0]}">{e(h['cta2'])}</a></div>
   <ul class="trust3">{trust}</ul>
  </div>
  <div class="hvis" aria-hidden="true">
   <div class="glow"></div>
   <div class="phone3"><img src="{img}/shots/home-{SH}.webp" alt="" width="540" height="1080"></div>
-  <img class="gside sway2" src="{img}/goats/hero.webp" alt="" width="745" height="848">
  </div>
 </div>
 <div class="w stats3">{stats}</div></section>
@@ -130,6 +129,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <section id="{ids[1]}" class="sec3 feat3"><div class="w">
  {feat_anim.head(c, h)}
  {feat_anim.render(h, oq, img)}
+ {feat_more.render(c, img)}
 </div></section>
 
 <section id="{ids[0]}" class="sec3 try3"><div class="w">
@@ -153,7 +153,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div></section>
 
 <section class="sec3 steps3"><div class="w s3grid">
- <img class="g3 gst sway2" src="{img}/goats/method.webp" alt="" width="300" height="300" loading="lazy">
+ <img class="g3 gst sway2" src="{img}/goats/ig-n20.webp" alt="" width="265" height="380" loading="lazy">
  <div><h2>{e(h['steps_h'])}</h2><ol class="stl">{steps}</ol></div>
 </div></section>
 
@@ -178,10 +178,11 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
-<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}</style>
+<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}</style>
 <script>{JS}</script>
 <script>{LANE_JS}</script>
 <script>{feat_anim.JS}</script>
+<script>{feat_more.JS}</script>
 </body>
 </html>'''
 

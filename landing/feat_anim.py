@@ -48,7 +48,7 @@ def render(h, oq, img):
    <g class="rows"><path d="M-40 150 C20 112 80 108 140 116 S260 104 400 112" fill="none" stroke="#6f8a3f" stroke-width="5" stroke-dasharray="2 10" stroke-linecap="round"/>
    <path d="M-40 160 C20 124 80 122 140 128 S260 118 400 124" fill="none" stroke="#5c7633" stroke-width="6" stroke-dasharray="2 11" stroke-linecap="round"/></g>
    <path d="M-20 126 C60 110 140 118 200 124 S300 112 360 118 V160 H-20Z" fill="#8aa04f"/>
- </svg><img class="fgoat" src="{img}/goats/hero.webp" alt="" width="120" height="137" loading="lazy">
+ </svg><img class="fgoat" src="{img}/goats/ig-g14.webp" alt="" width="239" height="301" loading="lazy">
  <span class="play">▶</span><div class="fbar"><i></i></div><span class="chip">🎬 68</span></div>
  <div class="pod"><img src="{img}/goats/mosaic.webp" alt="" width="200" height="220" loading="lazy"><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">🎧 45</span></div>
 </div>'''
