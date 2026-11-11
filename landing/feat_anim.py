@@ -191,3 +191,36 @@ JS = r'''
  cards.forEach(function(c){ io.observe(c); });
 })();
 '''
+
+# "the most complete app" claim, above the animated cards
+COMPLETE = {
+ 'en': ('The most complete app to pass WSET Level 3', 'Everything you need in one place, so you walk into the exam with the best chance of passing.'),
+ 'it': ("L'app più completa per passare il WSET Livello 3", "Tutto quello che serve in un solo posto: arrivi all'esame con più probabilità di passarlo."),
+ 'fr': ("L'appli la plus complète pour réussir le WSET Niveau 3", "Tout ce qu'il faut au même endroit : vous arrivez à l'examen avec plus de chances de le réussir."),
+ 'es': ('La app más completa para aprobar el WSET Nivel 3', 'Todo lo que necesitas en un solo lugar: llegas al examen con más probabilidades de aprobar.'),
+ 'es-ar': ('La app más completa para aprobar el WSET Nivel 3', 'Todo lo que necesitás en un solo lugar: llegás al examen con más chances de aprobar.'),
+ 'de': ('Die umfassendste App, um WSET Level 3 zu bestehen', 'Alles an einem Ort – so gehst du mit den besten Chancen in die Prüfung.'),
+ 'nl': ('De meest complete app om WSET Level 3 te halen', 'Alles op één plek, zodat je met de beste kans op slagen aan het examen begint.'),
+ 'pt': ('A app mais completa para passar no WSET Nível 3', 'Tudo num só lugar: chega ao exame com mais probabilidades de passar.'),
+ 'pt-br': ('O app mais completo para passar no WSET Nível 3', 'Tudo em um só lugar: você chega ao exame com mais chances de passar.'),
+ 'el': ('Η πιο ολοκληρωμένη εφαρμογή για να περάσεις το WSET Level 3', 'Όλα όσα χρειάζεσαι σε ένα μέρος, για να πας στην εξέταση με τις καλύτερες πιθανότητες επιτυχίας.'),
+ 'ja': ('WSETレベル3合格のための、最も充実したアプリ', '必要なものがすべてひとつに。合格の可能性を最大にして本番に臨めます。'),
+ 'ko': ('WSET 레벨 3 합격을 위한 가장 완벽한 앱', '필요한 모든 것을 한곳에서. 합격 가능성을 높여 시험에 임하세요.'),
+ 'zh-hans': ('通过 WSET 三级最全面的应用', '所需的一切尽在一处，让你以最大的把握走进考场。'),
+ 'zh-hant': ('通過 WSET 三級最全面的應用程式', '所需的一切盡在一處，讓你以最大的把握走進考場。'),
+ 'pl': ('Najbardziej kompletna aplikacja, by zdać WSET Level 3', 'Wszystko w jednym miejscu – podchodzisz do egzaminu z największą szansą na zdanie.'),
+ 'ar': ('التطبيق الأكثر اكتمالًا لاجتياز WSET المستوى 3', 'كل ما تحتاجه في مكان واحد، لتدخل الامتحان بأفضل فرصة للنجاح.'),
+ 'ru': ('Самое полное приложение, чтобы сдать WSET Level 3', 'Всё необходимое в одном месте — вы идёте на экзамен с наибольшими шансами на успех.'),
+}
+
+def head(c, h):
+    t, p = COMPLETE.get(c, COMPLETE['en'])
+    return f'<div class="fhead"><span class="fbadge">🏆</span><h2>{e(t)}</h2><p>{e(p)}</p></div>'
+
+CSS += r'''
+.fhead{text-align:center;max-width:760px;margin:0 auto}
+.fbadge{display:inline-grid;place-items:center;width:58px;height:58px;border-radius:50%;font-size:28px;background:radial-gradient(circle at 30% 30%,#fff3cf,#e8bf5a);box-shadow:0 10px 24px -10px rgba(168,123,34,.7);animation:fxbadge 3.2s ease-in-out infinite}
+@keyframes fxbadge{50%{transform:translateY(-5px) rotate(-6deg)}}
+.fhead h2{margin:14px 0 10px}
+.fhead p{margin:0 auto;color:#6b5a5f;font-size:18px;line-height:1.5}
+'''

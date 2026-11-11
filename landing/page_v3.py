@@ -128,7 +128,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <div class="w stats3">{stats}</div></section>
 
 <section id="{ids[1]}" class="sec3 feat3"><div class="w">
- <h2>{e(h['why_h'])}</h2>
+ {feat_anim.head(c, h)}
  {feat_anim.render(h, oq, img)}
 </div></section>
 
