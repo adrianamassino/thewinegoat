@@ -1587,7 +1587,9 @@ function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 /* Spanish (es) and Argentine Spanish (es-ar): the app reads the English text and i18n/es.js translates it on display */
 const TES={m:{},on:false,
   sync(){ const D=window.TWG_ES; this.on=!!D&&(lang==="es"||lang==="es-ar"); this.m=D?(lang==="es-ar"?Object.assign({},D.es,D.ar||{}):D.es):{}; },
-  tr(x){ if(!this.on||typeof x!=="string"||!x) return x; const v=this.m[x]; if(v!=null) return v; const k=x.trim(); return k!==x&&this.m[k]!=null?this.m[k]:x; } };
+  tr(x){ if(!this.on||typeof x!=="string"||!x) return x; const v=this.m[x]; if(v!=null) return v; const k=x.trim(); return k!==x&&this.m[k]!=null?this.m[k]:x; },
+  /* on screen: lowercase one-word strings may be ids used in attributes (red, open, mcq…): leave them alone */
+  trE(x){ return typeof x==="string"&&/^[a-z][a-z0-9_-]{0,15}$/.test(x)?x:this.tr(x); } };
 { const ES_OWN={}, AR_OWN={};
   const mk=own=>new Proxy(own,{get(o,k){ if(typeof k!=="string"||k in o) return o[k];
       const e=T.en[k]; if(typeof e!=="string") return e!=null?e:ES_OWN[k];
@@ -1662,7 +1664,7 @@ const activeErrs=()=>Object.keys(P.e).filter(id=>!P.e[id].r&&BY[id]);
 
 /* ---------- helpers ---------- */
 function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
-const esc=s=>String(TES.tr(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const esc=s=>String(TES.trE(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const chName=c=>CH[c]?TES.tr(CH[c][LC()]):(c==="cmp"?t("cmp"):c);
 const fmtD=ts=>new Date(ts).toLocaleDateString(lang==="en"?"en-GB":lang==="it"?"it-IT":"fr-FR",{day:"2-digit",month:"short",year:"numeric"});
 const fmtDT=ts=>new Date(ts).toLocaleString(lang==="en"?"en-GB":lang==="it"?"it-IT":"fr-FR",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"});
