@@ -14,7 +14,7 @@ LANE_CSS = """
 /* hero: the walking goat has its own strip at the foot of the text column */
 .glane{position:relative;height:104px;margin:30px 0 0;overflow-x:clip;overflow-y:visible;pointer-events:none}
 .glane .gw{width:136px}
-.stats3{position:relative;margin-top:84px}.glane.gl1{position:absolute;left:0;right:0;bottom:calc(100% - 3px);height:70px;margin:0}.glane.gl1 .gw{width:96px}
+.hero3 .trust3{margin-top:14px;row-gap:4px}.stats3{position:relative;margin-top:84px}.glane.gl1{position:absolute;left:0;right:0;bottom:calc(100% - 3px);height:70px;margin:0}.glane.gl1 .gw{width:96px}
 .gw .gbub{position:absolute;left:88%;bottom:64%;margin:0;width:max-content;max-width:220px;padding:9px 14px;border-radius:18px 18px 18px 4px;background:#fff;color:var(--plum,#3e0f22);font-weight:700;font-size:14px;line-height:1.3;
  box-shadow:0 12px 26px -12px rgba(62,15,34,.45),inset 0 0 0 1.5px #f0d9df;transform-origin:0 100%;opacity:0;transform:scale(.5) translateY(8px);transition:opacity .25s,transform .35s cubic-bezier(.2,.9,.3,1.3)}
 .gw.talking .gbub{opacity:1;transform:none}
