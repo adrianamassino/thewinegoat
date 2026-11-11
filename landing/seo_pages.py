@@ -265,6 +265,11 @@ def sitemap_robots_llms():
         '- Free: the full Bordeaux module, flashcards, games and the study plan. Paid access unlocks the rest (one-off price, no subscription).',
         '- The WSET Level 3 exam: theory = 50 multiple-choice questions + 4 short written answer questions; tasting = blind tasting of 2 wines with the Systematic Approach to Tasting (SAT); 55% needed in each part; results Pass, Merit or Distinction.', '',
         '## Start', f'- [Home (English)]({D}/)', f'- [Free app – build a study plan]({D}/app/#go=start)', f'- [Italiano]({D}/it/)', f'- [Français]({D}/fr/)', f'- [Español]({D}/es/)', '',
+        '## WSET Level 1 and Level 2 (app coming soon)',
+        '- WSET Level 1 Award in Wines: 30 multiple-choice questions in 45 minutes, 70% to pass, about 6 hours of guided learning, no prerequisites.',
+        '- WSET Level 2 Award in Wines: 50 multiple-choice questions in 60 minutes, 55% to pass, about 28 hours of study (16 guided), 8 principal + 22 regional grape varieties, 70+ geographical indications.',
+        f'- [WSET Level 1 guide]({D}/wset-level-1/) · [Livello 1]({D}/it/wset-livello-1/) · [Niveau 1]({D}/fr/wset-niveau-1/) · [Nivel 1]({D}/es/wset-nivel-1/)',
+        f'- [WSET Level 2 guide]({D}/wset-level-2/) · [Livello 2]({D}/it/wset-livello-2/) · [Niveau 2]({D}/fr/wset-niveau-2/) · [Nivel 2]({D}/es/wset-nivel-2/)', '',
         '## Guides']
     for k in TOPIC:
         for c in LANGS:
@@ -290,5 +295,9 @@ def clean():
             shutil.rmtree(os.path.join(OUT, base(c).strip('/'), v), ignore_errors=True)
 
 if __name__ == '__main__':
-    clean(); assets(); topic_pages(); chapter_pages(); link_landings(); sitemap_robots_llms()
+    clean(); assets(); topic_pages(); chapter_pages(); link_landings()
+    import levels_pages
+    levels_pages.build(sys.modules[__name__])
+    open(os.path.join(OUT, 'assets', 'seo.css'), 'a', encoding='utf-8').write(levels_pages.CSS)
+    sitemap_robots_llms()
     print('seo pages:', len(ALL_URLS))

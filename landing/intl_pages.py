@@ -18,6 +18,8 @@ def page(c, T):
     from intl_home_text import HI, HI_FAQ
     from home_text import H as HMAIN
     HERE = os.path.dirname(os.path.abspath(__file__)); SD = os.path.dirname(HERE)
+    import levels_text
+    if c in levels_text.G: T = dict(T, title=levels_text.G[c]['title'], desc=levels_text.G[c]['desc'])
     rtl = c == 'ar'
     h = HI.get('pt' if c == 'pt-br' else c) or HMAIN['es']
     faq = HI_FAQ.get(c) or T.get('faq') or []

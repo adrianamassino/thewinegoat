@@ -7,6 +7,7 @@ from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
 from goat_walk import goat_svg, GOAT_CSS
 import feat_anim, feat_more, feat_vs, feat_lv
+import levels_text
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANE_CSS = """
 /* hero: one small goat beside the phone */
@@ -139,7 +140,35 @@ HERO_CSS = """
 @media (prefers-reduced-motion:reduce){.hbub{display:none}.hgr,.hsp{animation:none}}
 """
 
+def levels_block(c, img, APP):
+    G = levels_text.G.get(c, levels_text.G['en']); LN = levels_text.LVNAME.get(c, 'Level')
+    u1, u2 = levels_text.LV_URL.get(c, levels_text.LV_URL['en']); u3 = levels_text.L3_URL.get(c, levels_text.L3_URL['en'])
+    def card(n, d, url, goat, live):
+        badge = f'<span class="lbadge{" on" if live else ""}">{e(G["avail"] if live else G["soon"])}</span>'
+        acts = (f'<a class="b3 b3p sm" href="{APP}#go=start">{e(G["go3"])}</a><a class="lbl" href="{u3}">{e(G["info"])} →</a>' if live
+                else f'<a class="lbl" href="{url}">{e(G["info"])} →</a>')
+        return (f'<article class="lcard{" live" if live else ""}"><img class="lgo sway2" src="{img}/goats/{goat}" alt="" loading="lazy">{badge}'
+                f'<p class="lnum">{e(LN)} <b>{n}</b></p><p class="ld">{e(d)}</p><div class="lacts">{acts}</div></article>')
+    return (f'<section class="sec3 lvl3" id="levels"><div class="w"><p class="kick3">{e(G["lv_k"])}</p><h2>{e(G["lv_h"])}</h2><p class="lead3">{e(G["lv_p"])}</p>'
+            f'<div class="lgrid">{card(1, G["d1"], u1, "ig-n15.webp", False)}{card(2, G["d2"], u2, "ig-n04.webp", False)}{card(3, G["d3"], u3, "ig-n33.webp", True)}</div></div></section>')
+
+LVL_CSS = """
+.lvl3{text-align:center}.lvl3 .lead3{margin-left:auto;margin-right:auto}
+.lgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:28px;text-align:left}
+.lcard{position:relative;display:flex;flex-direction:column;padding:22px;border-radius:20px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3,0 18px 40px -32px rgba(62,15,34,.5)}
+.lcard.live{background:linear-gradient(160deg,#fff,#fbf1f3);box-shadow:inset 0 0 0 1.5px #b8892e,0 22px 44px -30px rgba(62,15,34,.55)}
+.lgo{position:absolute;right:14px;top:12px;width:70px;height:auto}
+.lbadge{align-self:flex-start;padding:5px 11px;border-radius:999px;background:#f3ece4;color:#8a7a80;font-weight:800;font-size:12px;letter-spacing:.04em;text-transform:uppercase}
+.lbadge.on{background:#5f7a3c;color:#fff}
+.lnum{margin:14px 0 6px;font:800 30px/1 Fraunces,Georgia,serif;color:#3e0f22}.lnum b{color:#8c1d40}
+.ld{margin:0 0 16px;color:#6b5a5f;flex:1;max-width:88%}
+.lacts{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.lbl{font-weight:800;color:#8c1d40;text-decoration:none}
+@media (max-width:900px){.lgrid{grid-template-columns:1fr}}
+"""
+
 def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, notice='', home='./', img='../img', lang_label=None):
+    _G = levels_text.G.get(c)
+    if _G: h = dict(h, kick=_G['kick'], h1=_G['h1'], sub=_G['sub'])
     nav = ''.join(f'<li><a href="{u}">{e(n)}</a></li>' for u, n in h['nav'])
     stats = ''.join(f'<div class="st"><b>{e(a)}</b><span>{e(b)}</span></div>' for a, b in h['stats'])
     trust = ''.join(f'<li>{e(x)}</li>' for x in h['trust'])
@@ -176,6 +205,8 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  </div>
 </div>
 <div class="w stats3">{stats}<img class="g3 gsmall gs2 sway" src="{img}/goats/ig-n04.webp" alt="" width="221" height="300" loading="lazy"></div></section>
+
+{levels_block(c, img, APP)}
 
 {feat_lv.render(c, img, APP)}
 
@@ -231,7 +262,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
-<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}{feat_vs.CSS}{feat_lv.CSS}{HERO_CSS}</style>
+<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}{feat_vs.CSS}{feat_lv.CSS}{LVL_CSS}{HERO_CSS}</style>
 <script>{JS}</script>
 <script>{LANE_JS}</script>
 <script>{feat_anim.JS}</script>
@@ -277,5 +308,8 @@ def build(ctx):
         SH = c if c in ('it', 'fr', 'en') else 'en'
         year = datetime.date.today().year
         price = money(c, 59)
+        _G = levels_text.G.get(c)
+        if _G:
+            head = head.replace(e(t['title']), e(_G['title'])).replace(e(t['desc']), e(_G['desc']))
         return head + render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT)
     return page, jsonld

@@ -26,6 +26,8 @@ L['es-ar'] = L['es']
 
 def render(c, img, app):
     k, t, s, mt, md, ot, od, go, lock, mn = L.get(c, L['en'])
+    import levels_text
+    k = f"{levels_text.LVNAME.get(c, 'Level')} 3 · {k}"
     card = lambda ic, ti, ds, mins, href, goat: (
         f'<a class="lvc" href="{app}#go={href}"><img class="lvg sway2" src="{img}/goats/{goat}" alt="" loading="lazy">'
         f'<span class="fic">{ICON[ic]}</span><h3>{e(ti)}</h3><p>{e(ds)}</p>'
