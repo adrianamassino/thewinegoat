@@ -1342,7 +1342,7 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
 (function(){
   const C=window.TWG_CONFIG||{};
   const ON=!!(C.supabaseUrl&&C.supabaseAnonKey&&window.supabase);
-  const sb=ON?window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"pkce"}}):null;
+  const sb=ON?window.supabase.createClient(C.supabaseUrl,C.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:"implicit"}}):null;
   let session=null;
   const ready=(async()=>{ if(!sb) return; try{ const {data}=await sb.auth.getSession(); session=data.session; }catch(e){} })();
   if(sb) sb.auth.onAuthStateChange((ev,s)=>{ const had=!!session; session=s;
@@ -1432,7 +1432,12 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
   function mount(){ const st=document.createElement("style"); st.textContent=css; document.head.appendChild(st);
     const langs=document.querySelector(".langs"); if(!langs) return; const b=document.createElement("button"); b.id="acct-btn"; b.className="acct-btn"; b.type="button"; b.onclick=()=>open(); langs.parentNode.insertBefore(b,langs);
     paintBtn(); document.querySelectorAll(".langs button").forEach(x=>x.addEventListener("click",()=>setTimeout(paintBtn,0))); ready.then(paintBtn);
-    if(/[?&#](error_description)=/.test(location.href)) open(decodeURIComponent((location.href.match(/error_description=([^&]+)/)||[])[1]||"").replace(/\+/g," "),true); }
+    if(/[?&#](error_description|error_code)=/.test(location.href)){ const raw=decodeURIComponent((location.href.match(/error_description=([^&#]+)/)||[])[1]||"").replace(/\+/g," "), code=(location.href.match(/error_code=([^&#]+)/)||[])[1]||"";
+      let L="fr"; try{ L=(localStorage.getItem("wset3-lang")||"fr").slice(0,2); }catch(e){}
+      const M={it:"Il link è scaduto o è già stato usato. Accedi con email e password, oppure chiedi un nuovo link qui sotto.",fr:"Le lien a expiré ou a déjà été utilisé. Connectez-vous avec e-mail et mot de passe, ou demandez un nouveau lien ci-dessous.",es:"El enlace ha caducado o ya se ha usado. Entra con email y contraseña, o pide un nuevo enlace aquí abajo.",en:"This link has expired or was already used. Sign in with your email and password, or request a new link below."};
+      const bad=/expired|invalid|otp|access_denied/i.test(raw+" "+code);
+      try{ history.replaceState(null,"",location.pathname+location.search); }catch(e){}
+      mode="login"; open(bad?(M[L]||M.en):raw,true); } }
   if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",mount); else mount();
 })();
 </script><script>
