@@ -1,0 +1,822 @@
+[
+{
+"en": "What is the cap?",
+"it": "Che cos'è il cappello?"
+},
+{
+"en": "The mass of skins and pulp that rises to the top during fermentation",
+"it": "La massa di bucce e polpa che sale in superficie in fermentazione"
+},
+{
+"en": "The deposit of dead yeast that forms at the bottom of the tank",
+"it": "Il deposito di lieviti morti che si forma sul fondo della vasca"
+},
+{
+"en": "The foam that forms on white juice during pressing",
+"it": "La schiuma che si forma sul mosto bianco durante la pressatura"
+},
+{
+"en": "The cork stopper that closes a bottle of red wine",
+"it": "Il tappo di sughero che chiude la bottiglia di vino rosso"
+},
+{
+"en": "A floating cap gives little extraction, hence cap management techniques.",
+"it": "Se il cappello resta a galla si estrae poco colore, sapore e tannino: servono tecniche di gestione del cappello."
+},
+{
+"en": "Left alone, a fermenting red soon forms a thick mass of pulp and skins on its surface, pushed up by CO2: the cap. If it floats, little colour, flavour or tannin is extracted, hence cap management techniques (punching down, pumping over, rack and return, rotary fermenters). It is not a bottle stopper, the lees or sparkling wine foam.",
+"it": "Lasciato a sé, un rosso in fermentazione forma presto in superficie una massa spessa di polpa e bucce, spinta su dalla CO2: è il «cappello». Se il cappello resta a galla si estraggono poco colore, sapore e tannino, quindi esistono varie tecniche di gestione del cappello (follatura, rimontaggio, délestage, fermentatori rotanti). Non è il tappo della bottiglia, le fecce sul fondo o la schiuma degli spumanti."
+},
+{
+"en": "What is the risk of over-vigorous punching down late in fermentation?",
+"it": "Qual è il rischio di una follatura (punching down) troppo vigorosa a fine fermentazione?"
+},
+{
+"en": "Too much tannin: a bitter, astringent wine",
+"it": "Troppo tannino: un vino amaro e astringente"
+},
+{
+"en": "Too little colour, as pigments oxidise in the air",
+"it": "Troppo poco colore, perché i pigmenti si ossidano all'aria"
+},
+{
+"en": "Too much volatile acidity from the oxygen introduced",
+"it": "Troppa acidità volatile per l'ossigeno introdotto"
+},
+{
+"en": "A stuck fermentation from excess heat",
+"it": "Arresto della fermentazione per eccesso di calore"
+},
+{
+"en": "Tannins extract more easily late on; punching down is very effective for colour and tannin.",
+"it": "A fine fermentazione i tannini si estraggono più facilmente; la follatura è molto efficace per colore e tannino."
+},
+{
+"en": "Punching down pushes the cap into the juice, once by hand with paddles, now also mechanically. It is very effective at extracting colour and tannin, so the cap must not be overworked, especially at the end of fermentation when, with more alcohol, tannins extract more easily. Too much tannin makes the finished wine overly bitter and astringent. The risk is not low colour, high acidity or stuck fermentation.",
+"it": "La follatura (punching down) spinge il cappello nel mosto, un tempo a mano con pali, oggi anche con pale meccaniche. È molto efficace per estrarre colore e tannino, quindi bisogna non lavorare troppo il cappello, soprattutto verso la fine della fermentazione, quando con più alcol i tannini si estraggono più facilmente. Se si estrae troppo tannino, il vino finito può risultare troppo amaro e astringente. Il rischio non è poco colore, troppa acidità o un arresto di fermentazione."
+},
+{
+"en": "What are the benefits of pumping over?",
+"it": "Quali vantaggi ha il rimontaggio (pumping over)?"
+},
+{
+"en": "It wets the cap, dissipates heat and oxygenates the juice",
+"it": "Bagna il cappello, disperde il calore e ossigena il mosto"
+},
+{
+"en": "It removes excess tannin and makes the wine softer and rounder",
+"it": "Toglie il tannino in eccesso e rende il vino più morbido e rotondo"
+},
+{
+"en": "It stops fermentation once the desired residual sugar is reached",
+"it": "Ferma la fermentazione quando si raggiunge lo zucchero residuo desiderato"
+},
+{
+"en": "It clarifies the wine by separating lees and solids from the must",
+"it": "Chiarifica il vino separando le fecce e i solidi dal mosto"
+},
+{
+"en": "Juice is drawn from the bottom and pumped over the cap.",
+"it": "Si preleva il mosto dal fondo della vasca e lo si pompa sopra il cappello."
+},
+{
+"en": "Pumping over draws fermenting juice from the bottom of the vat and pumps it onto the top, wetting the cap. It is a popular extraction technique and a good way of dissipating heat and oxygenating the juice (helpful to yeast). It does not remove tannins, stop fermentation or clarify the wine.",
+"it": "Il rimontaggio (pumping over) consiste nel prelevare il mosto in fermentazione dal fondo della vasca e pomparlo sopra, bagnando il cappello. È una tecnica di estrazione molto diffusa ed è anche un buon modo per dissipare il calore e ossigenare il mosto (utile ai lieviti). Non rimuove tannini, non ferma la fermentazione e non chiarifica il vino."
+},
+{
+"en": "What is rack and return (délestage)?",
+"it": "Che cos'è il délestage (rack and return)?"
+},
+{
+"en": "Draining the juice off the cap into another vessel and pumping it back over",
+"it": "Svuotare il mosto dal cappello in un'altra vasca e poi ripomparlo sopra"
+},
+{
+"en": "Racking the finished wine off its lees into clean barrels once or twice a year",
+"it": "Travasare il vino finito dalle fecce in barrique pulite, una o due volte l'anno"
+},
+{
+"en": "Removing skins from the juice at once to make a rosé",
+"it": "Togliere subito le bucce dal mosto per ottenere un rosato"
+},
+{
+"en": "Filtering the must before fermentation to make it clear",
+"it": "Filtrare il mosto prima della fermentazione per renderlo limpido"
+},
+{
+"en": "It is very extractive, done once or twice; it dissipates heat well.",
+"it": "È molto estrattivo, quindi si fa una o due volte; disperde bene il calore."
+},
+{
+"en": "In rack and return (délestage) the fermenting juice is drained into another vessel, leaving the cap behind, then pumped back over the cap. It is usually done only once or twice per fermentation as it is very extractive, and like pumping over it dissipates heat well. It is not racking finished wine, removing skins or filtering.",
+"it": "Nel délestage (rack and return) il mosto in fermentazione viene scolato in un'altra vasca, lasciando il cappello indietro; poi viene ripompato sopra il cappello. Di solito si fa solo una o due volte per fermentazione perché è molto estrattivo, e come il rimontaggio dissipa bene il calore. Non è il travaso del vino finito, la rimozione immediata delle bucce o una filtrazione."
+},
+{
+"en": "In red winemaking, malolactic fermentation is:",
+"it": "Nella vinificazione in rosso, la fermentazione malolattica è:"
+},
+{
+"en": "Standard practice (virtually all reds undergo it)",
+"it": "Pratica standard (quasi tutti i rossi la svolgono)"
+},
+{
+"en": "A rare choice, kept for reds meant for ageing",
+"it": "Una scelta rara, riservata ai rossi da invecchiamento"
+},
+{
+"en": "Banned in the EU for appellation reds",
+"it": "Vietata nell'UE per i rossi a denominazione"
+},
+{
+"en": "Used only for light reds for early drinking",
+"it": "Usata solo nei rossi leggeri da bere giovani"
+},
+{
+"en": "Reds: MLF standard; whites: a stylistic choice.",
+"it": "Rossi: FML standard; bianchi: scelta stilistica."
+},
+{
+"en": "In red winemaking MLF is standard practice, whereas in whites it is a stylistic choice (avoided, for example, in Riesling and Sauvignon Blanc to keep acidity and fruit). Another key difference: in reds pressing happens after fermentation, because the skins must stay in the juice to extract colour and tannin.",
+"it": "Nella vinificazione in rosso la malolattica è una pratica standard, mentre nei bianchi è una scelta di stile (evitata per esempio in Riesling e Sauvignon Blanc per conservare acidità e frutto). Altra differenza chiave: nei rossi la pressatura avviene dopo la fermentazione, perché le bucce devono restare nel mosto per estrarre colore e tannino."
+},
+{
+"en": "What are rotary fermenters?",
+"it": "Che cosa sono i fermentatori rotativi?"
+},
+{
+"en": "Rotating horizontal tanks keeping juice in contact with the skins",
+"it": "Vasche orizzontali rotanti che tengono il mosto sempre a contatto con le bucce"
+},
+{
+"en": "Barrels rolled on rollers to stir the lees without opening them",
+"it": "Barrique fatte rotolare su rulli per rimescolare le fecce senza aprirle"
+},
+{
+"en": "Low-pressure pneumatic presses for whole bunches",
+"it": "Presse pneumatiche a bassa pressione per i grappoli interi"
+},
+{
+"en": "Tanks filled with CO2 for whole-bunch carbonic maceration",
+"it": "Vasche sature di CO2 per la macerazione carbonica dei grappoli"
+},
+{
+"en": "Cap management: punching down, pumping over, rack and return, rotary fermenters.",
+"it": "Tecniche di gestione del cappello: follatura, rimontaggio, délestage, fermentatori rotativi."
+},
+{
+"en": "A floating cap of skins gives up little colour, flavour or tannin if left alone. Among cap management techniques lists rotary fermenters: fermentation takes place in rotating horizontal tanks that keep the juice in constant contact with the skins. They are also used for high-volume reds, alongside static vessels.",
+"it": "Il cappello di bucce che galleggia cede poco colore, sapore e tannino se lasciato a sé. Tra le tecniche di gestione del cappello si citano i fermentatori rotativi: la fermentazione avviene in serbatoi orizzontali che ruotano, mantenendo il mosto in contatto costante con le bucce. Sono usati anche nei vini rossi di grande volume, accanto ai serbatoi statici."
+},
+{
+"en": "What danger did punching down by hand pose, and how is it often done today?",
+"it": "Quale pericolo comportava la follatura a mano, e come si fa oggi?"
+},
+{
+"en": "Risk of CO2 intoxication; today mechanical paddles are used",
+"it": "Rischio di intossicazione da anidride carbonica; oggi si usano pale meccaniche"
+},
+{
+"en": "Risk of burns from fermentation heat; today dry ice is used",
+"it": "Rischio di ustioni per il calore della fermentazione; oggi si usa ghiaccio secco"
+},
+{
+"en": "Risk of oxidising the must; today it is done under nitrogen",
+"it": "Rischio di ossidazione del mosto; oggi si lavora sotto azoto"
+},
+{
+"en": "No particular danger; punching down is no longer done today",
+"it": "Nessun pericolo particolare; oggi la follatura non si fa più"
+},
+{
+"en": "Punching down: very effective for colour and tannin; don't overdo it, especially late in fermentation.",
+"it": "Follatura: molto efficace per colore e tannino; non esagerare, soprattutto a fine fermentazione."
+},
+{
+"en": "Traditionally punching down was done by hand with paddles on sticks, with the risk of workers being intoxicated by the CO2 from fermentation. Today mechanical paddles achieve the same effect. It is widely practised and very effective at extracting colour and tannin, so it must not be done too vigorously or too often, especially near the end of fermentation when tannins are more easily extracted.",
+"it": "Tradizionalmente la follatura si faceva a mano con pale montate su bastoni, con il rischio che i lavoratori venissero intossicati dalla CO2 prodotta dalla fermentazione. Oggi lo stesso effetto si ottiene con pale meccaniche. È una tecnica molto diffusa e molto efficace per estrarre colore e tannino, perciò non va usata troppo vigorosamente o spesso, soprattutto a fine fermentazione quando i tannini si estraggono più facilmente."
+},
+{
+"en": "A winemaker wants less tannin in a Cabernet with not fully ripe tannins. What do they do near the end of fermentation?",
+"it": "Un vinificatore vuole meno tannino in un Cabernet con tannini non del tutto maturi. Che cosa fa verso la fine della fermentazione?"
+},
+{
+"en": "Lowers the temperature and avoids over-extractive cap work",
+"it": "Abbassa la temperatura ed evita un cappello troppo estrattivo"
+},
+{
+"en": "Increases punching down to round out green tannins with more oxygen",
+"it": "Aumenta le follature per arrotondare i tannini verdi con più ossigeno"
+},
+{
+"en": "Does more rack and return, which extracts colour but not tannin",
+"it": "Fa più délestage, che estrae colore ma non tannino"
+},
+{
+"en": "Raises the temperature above 32 °C to finish faster",
+"it": "Alza la temperatura oltre 32 °C per accelerare la fine"
+},
+{
+"en": "Late in fermentation, with more alcohol, tannins extract more easily.",
+"it": "A fine fermentazione, con più alcol, i tannini si estraggono più facilmente."
+},
+{
+"en": "Tannins become more soluble as alcohol rises, but extraction can be reduced by cooling towards the end of fermentation. For tannin-rich Cabernet, high temperatures and extractive cap work are avoided near the end, especially if tannins are unripe; post-fermentation maceration can extract more gently. Vigorous punching down and rack and return are very extractive.",
+"it": "I tannini diventano più solubili all'aumentare dell'alcol, ma il vinificatore può ridurne l'estrazione abbassando la temperatura verso la fine della fermentazione. Per il Cabernet, ricco di tannini, si evitano temperature alte e tecniche estrattive verso la fine, soprattutto se i tannini non sono maturi; una macerazione post-fermentativa può dare un'estrazione più delicata. Follature vigorose e délestage sono molto estrattivi."
+},
+{
+"en": "Rack and return: how often is it usually used per fermentation, and why?",
+"it": "Rack and return (délestage): quante volte si usa di solito per fermentazione e perché?"
+},
+{
+"en": "Once or twice, as it is very extractive (and dissipates heat)",
+"it": "Una o due volte, perché è molto estrattivo (e disperde bene il calore)"
+},
+{
+"en": "Several times a day, because it extracts little and only cools",
+"it": "Più volte al giorno, perché estrae poco e serve solo a raffreddare"
+},
+{
+"en": "Never in reds, only for skin-contact whites and rosés",
+"it": "Mai nei rossi, solo per i bianchi macerati e i rosati"
+},
+{
+"en": "Only after malolactic, to oxygenate the new wine",
+"it": "Solo dopo la malolattica, per ossigenare il vino nuovo"
+},
+{
+"en": "Punching down: very effective, careful near the end; pumping over: popular, cools and oxygenates; rack and return: 1–2 times, very extractive.",
+"it": "Follatura: molto efficace, attenzione a fine fermentazione; rimontaggio: popolare, raffredda e ossigena; délestage: 1–2 volte, molto estrattivo."
+},
+{
+"en": "In rack and return the fermenting juice is drained into another vessel, leaving the cap behind, and then pumped back over the cap. It is normally used only once or twice per fermentation because it can be very extractive; like pumping over, it is also a very good way to dissipate heat. Extraction is adjusted by duration and number of operations per day.",
+"it": "Nel rack and return il mosto in fermentazione viene scaricato in un altro recipiente, lasciando indietro il cappello, e poi ripompato sopra il cappello. Si usa normalmente solo una o due volte per fermentazione perché può essere molto estrattivo; come il rimontaggio, è anche un ottimo modo per dissipare calore. Il livello di estrazione si regola con la durata e il numero di interventi al giorno."
+},
+{
+"en": "Why are reds not fermented in barrels?",
+"it": "Perché i rossi non si fermentano in barrique?"
+},
+{
+"en": "It would be almost impossible to keep skins and juice in contact",
+"it": "Bucce e mosto non resterebbero a contatto"
+},
+{
+"en": "New oak would add too much tannin to an already tannic wine",
+"it": "Il legno nuovo cederebbe troppo tannino a un vino già tannico"
+},
+{
+"en": "Barrels are too big to control the temperature",
+"it": "Le barrique sono troppo grandi per controllare la temperatura"
+},
+{
+"en": "The law forbids fermenting reds in oak",
+"it": "La legge vieta la fermentazione dei rossi in legno"
+},
+{
+"en": "Large, often open-topped vessels of oak, concrete or steel are used.",
+"it": "Si usano grandi vasche, spesso aperte, in legno, cemento o acciaio."
+},
+{
+"en": "Cap management means reds are usually fermented in large vessels, often open-topped to work the skins, made of oak, concrete or steel. Fermenting reds in barrels is impractical as it would be almost impossible to keep enough contact between skins and juice. Oak is not banned (oak vats, barrel ageing), barrels are not too big and do not give too much colour.",
+"it": "Le tecniche di gestione del cappello fanno sì che i rossi fermentino di solito in grandi recipienti, spesso aperti in alto per lavorare facilmente le bucce, in rovere, cemento o acciaio. Fermentare i rossi in barrique è poco pratico perché sarebbe quasi impossibile mantenere un contatto sufficiente tra bucce e mosto. Il legno non è vietato (si usano tini di rovere e l'affinamento in barrique), le barrique non sono troppo grandi e non danno troppo colore."
+},
+{
+"en": "What can very long post-fermentation maceration give?",
+"it": "Che cosa può dare una macerazione post-fermentativa molto lunga?"
+},
+{
+"en": "A smoother tannin structure",
+"it": "Una struttura tannica più morbida"
+},
+{
+"en": "More acidity, freshness and fruit",
+"it": "Più acidità, freschezza e frutto"
+},
+{
+"en": "A more purple, vivid colour",
+"it": "Un colore più porpora e brillante"
+},
+{
+"en": "Banana and bubblegum notes",
+"it": "Note di banana e gomma da masticare"
+},
+{
+"en": "It extracts more tannin; its length depends on the style.",
+"it": "La macerazione dopo la fermentazione estrae altro tannino; la durata dipende dallo stile voluto."
+},
+{
+"en": "Post-fermentation maceration extracts more tannin, which may or may not be wanted, so its length depends on style. Some winemakers find very long post-fermentation maceration can create a smoother tannin structure. It does not add acidity or sweetness and does not give banana notes, which come from carbonic maceration.",
+"it": "La macerazione dopo la fermentazione favorisce un'ulteriore estrazione di tannino, che può essere desiderata o no; la sua durata dipende quindi dallo stile. Alcuni vinificatori hanno scoperto che periodi molto lunghi di macerazione post-fermentativa possono aiutare a creare una struttura tannica più morbida (i tannini si legano e si smussano). Non aumenta l'acidità o la dolcezza e non dà note di banana, tipiche della macerazione carbonica."
+},
+{
+"en": "How does press wine compare with free run wine?",
+"it": "Com'è il vino di pressa rispetto al vino fiore (free run)?"
+},
+{
+"en": "Deeper in colour and higher in tannin, especially later fractions",
+"it": "Più colore e tannino, soprattutto nelle ultime frazioni"
+},
+{
+"en": "Paler and lighter, with less tannin and more primary aromas",
+"it": "Più chiaro e leggero, con meno tannino e più aromi primari"
+},
+{
+"en": "Identical in every fraction, so it is always all blended",
+"it": "Identico in ogni frazione, quindi si assembla sempre tutto"
+},
+{
+"en": "Sweeter, as it contains sugar left in the skins",
+"it": "Più dolce, perché contiene lo zucchero rimasto nelle bucce"
+},
+{
+"en": "Press fractions can be kept apart and used to adjust colour and tannin.",
+"it": "Le frazioni di pressa si possono separare e usare per regolare colore e tannino nell'assemblaggio."
+},
+{
+"en": "After maceration the free run wine is drawn off and the remaining mass pressed, giving press wine. At first it may resemble free run, but as pressing continues it becomes deeper in colour and higher in tannin. Some winemakers separate press fractions and use later ones to adjust colour and tannin in the final blend. So it is not paler, not identical in every fraction and not sweeter.",
+"it": "A fine macerazione il vino fiore (free run) viene scolato dalle bucce e la massa restante viene pressata, dando il vino di torchio (press wine). All'inizio della pressatura il vino di torchio può essere simile al fiore, ma via via diventa più scuro e più tannico. Alcuni separano le frazioni di pressatura e usano le ultime per correggere colore e tannino nel taglio finale. Quindi non è più chiaro, non è identico in tutte le frazioni e non è più dolce."
+},
+{
+"en": "What must be checked if whole bunches are used?",
+"it": "Che cosa bisogna verificare se si fermentano grappoli interi?"
+},
+{
+"en": "That the stems are fully ripe, or they give bitterness",
+"it": "Che i raspi siano ben maturi, altrimenti danno amaro"
+},
+{
+"en": "That all the grapes are crushed before going into the vat",
+"it": "Che le uve siano tutte pigiate prima di entrare in vasca"
+},
+{
+"en": "That there is no CO2 in the tank, to avoid carbonic maceration",
+"it": "Che nella vasca non ci sia CO2, per evitare la carbonica"
+},
+{
+"en": "That the bunches are from fully ripe white grapes",
+"it": "Che i grappoli siano di uve bianche e ben mature"
+},
+{
+"en": "The aim is an oxygen-free environment for whole fruit, where intracellular fermentation occurs.",
+"it": "Lo scopo è un ambiente senza ossigeno per l'uva intera, dove avviene una fermentazione intracellulare."
+},
+{
+"en": "Most reds are made from destemmed, crushed fruit, but some include uncrushed whole bunches, from a whole vat to a small percentage. If whole bunches are used, the stems must be fully ripe: otherwise stem tannins give the wine undesirable bitterness. White grapes, absence of CO2 or crushing are irrelevant.",
+"it": "La grande maggioranza dei rossi è fatta con uva diraspata e pigiata, ma alcuni includono grappoli interi non pigiati, da tutta la vasca a una piccola percentuale. È importante che, se si usano grappoli interi, i raspi siano completamente maturi: altrimenti i tannini dei raspi danno al vino un'amarezza indesiderata (e note erbacee). Non c'entrano uve bianche, l'assenza di CO2 o la pigiatura."
+},
+{
+"en": "What is intracellular fermentation?",
+"it": "Che cos'è la fermentazione intracellulare?"
+},
+{
+"en": "Alcohol produced inside whole berries without yeast, without oxygen",
+"it": "Alcol prodotto dentro acini interi senza lieviti, in assenza di ossigeno"
+},
+{
+"en": "Yeast fermentation of the juice in a closed vat, with oxygen",
+"it": "Fermentazione dei lieviti nel succo dentro la vasca chiusa, con ossigeno"
+},
+{
+"en": "Malolactic that happens inside the berries before crushing",
+"it": "Malolattica che avviene all'interno degli acini prima della pigiatura"
+},
+{
+"en": "The second fermentation in bottle used for traditional sparkling wine",
+"it": "La rifermentazione in bottiglia usata per gli spumanti tradizionali"
+},
+{
+"en": "It also creates distinctive fruity aromas inside the berry.",
+"it": "Crea anche aromi fruttati particolari all'interno dell'acino."
+},
+{
+"en": "With whole bunches the aim is an oxygen-free environment for the uncrushed fruit. Without oxygen, berries produce some alcohol inside their cells with no yeast involved: intracellular fermentation. More importantly, distinctive fruity aromas form inside the berry, giving these wines unique qualities. It is not normal juice fermentation, MLF or bottle refermentation.",
+"it": "Con i grappoli interi l'obiettivo è creare un ambiente privo di ossigeno per l'uva non pigiata. Senza ossigeno, gli acini producono un po' di alcol all'interno delle loro cellule senza intervento dei lieviti: è la fermentazione intracellulare. Soprattutto, all'interno dell'acino si forma una gamma di aromi fruttati distintivi che dà a questi vini qualità uniche. Non è la normale fermentazione del mosto, la malolattica o la rifermentazione in bottiglia."
+},
+{
+"en": "In carbonic maceration, at what alcohol level do the skins start to split?",
+"it": "Nella macerazione carbonica, a quale livello di alcol le bucce iniziano a rompersi?"
+},
+{
+"en": "0.5%",
+"it": "0,5%"
+},
+{
+"en": "The grapes are then usually pressed and yeast finish fermentation off the skins.",
+"it": "Poi di solito si pressano le uve e i lieviti completano la fermentazione senza le bucce."
+},
+{
+"en": "In carbonic maceration only whole bunches go into vats filled with CO2 to remove all oxygen, starting intracellular fermentation. Once alcohol in the berry reaches 2%, the skins start to split and release juice. The grapes are then generally pressed, and yeast finish fermentation off the skins. 5%, 8% and 0.5% are not 's figure.",
+"it": "Nella macerazione carbonica si mettono solo grappoli interi in vasche riempite di CO2 per eliminare tutto l'ossigeno, e parte la fermentazione intracellulare. Quando l'alcol nell'acino raggiunge il 2%, le bucce iniziano a spaccarsi e gli acini rilasciano il succo. A questo punto di solito si pressa per separare il succo dalle bucce, e i lieviti completano la fermentazione fuori dalle bucce. 5%, 8% e 0,5% non sono la soglia."
+},
+{
+"en": "What style does carbonic maceration give?",
+"it": "Che stile di vino dà la macerazione carbonica?"
+},
+{
+"en": "Soft and fruity, coloured but low in tannin, with kirsch, banana and cinnamon",
+"it": "Morbido e fruttato, colorato ma poco tannico, con kirsch, banana e cannella"
+},
+{
+"en": "Very tannic and austere, deeply coloured, with leather and tobacco notes",
+"it": "Molto tannico e austero, con colore profondo e note di cuoio e tabacco"
+},
+{
+"en": "Sweet and oxidised, with walnut and caramel notes from part-filled casks",
+"it": "Dolce e ossidato, con note di noce e caramello da affinamento in botti scolme"
+},
+{
+"en": "Pale and light, almost a rosé, with little fruit and neutral aromas",
+"it": "Pallido e leggero, quasi un rosato, con poco frutto e aromi neutri"
+},
+{
+"en": "Vats of whole bunches are filled with CO2 to remove oxygen.",
+"it": "Le vasche con grappoli interi vengono riempite di CO2 per togliere tutto l'ossigeno."
+},
+{
+"en": "Carbonic maceration extracts colour but little tannin, as fermentation finishes off the skins. The wines are soft and full of fruit, with distinctive kirsch, banana, bubble gum and cinnamon-like spice. It is used, for example, for basic Beaujolais and inexpensive Grenache. It does not give very tannic, austere, sweet-oxidised or white wines.",
+"it": "La macerazione carbonica estrae colore dalle uve ma poco tannino, perché la fermentazione si completa fuori dalle bucce. I vini risultanti sono morbidi e pieni di frutto, con note caratteristiche di kirsch, banana, chewing gum e spezie tipo cannella. È usata per esempio per il Beaujolais base e il Grenache economico. Non dà vini molto tannici e austeri, dolci e ossidati, né bianchi."
+},
+{
+"en": "How does semi-carbonic maceration differ from carbonic?",
+"it": "In che cosa la macerazione semi-carbonica differisce dalla carbonica?"
+},
+{
+"en": "No CO2 is added: bottom grapes are crushed, ferment, and their CO2 fills the vat",
+"it": "Niente CO2 aggiunta: gli acini sul fondo si schiacciano, fermentano e saturano la vasca"
+},
+{
+"en": "Destemmed, crushed grapes are used, with CO2 added only halfway through fermentation",
+"it": "Si usano uve diraspate e pigiate, a cui si aggiunge CO2 solo a metà fermentazione"
+},
+{
+"en": "Sugar is added to whole grapes to speed up intracellular fermentation",
+"it": "Si aggiunge zucchero alle uve intere per accelerare la fermentazione intracellulare"
+},
+{
+"en": "It is used only for aromatic white grapes, whole-bunch in a closed tank",
+"it": "Si usa solo per le uve bianche aromatiche, a grappolo intero in vasca chiusa"
+},
+{
+"en": "Intact berries then undergo carbonic maceration. Some premium Pinot Noirs use it, finishing on skins.",
+"it": "Gli acini rimasti interi fanno poi la macerazione carbonica. Alcuni Pinot Noir di pregio usano questa tecnica, continuando la fermentazione sulle bucce."
+},
+{
+"en": "Semi-carbonic maceration does not fill the vat with CO2. The vat is filled with whole bunches; those at the bottom are crushed by the weight above and release juice that ambient yeast ferment. This produces CO2 that fills the vat, and the intact berries undergo carbonic maceration. As they split, grapes are pressed and yeast finish fermentation. Grapes are not destemmed, no sugar is added and it is not for whites only.",
+"it": "La macerazione semi-carbonica non prevede di riempire le vasche di CO2. Si mettono grappoli interi; quelli sul fondo vengono schiacciati dal peso sovrastante e rilasciano succo, che i lieviti ambientali iniziano a fermentare. Questa fermentazione produce CO2 che riempie la vasca, e gli acini ancora intatti subiscono la macerazione carbonica. Quando si spaccano si pressa e i lieviti completano la fermentazione. Non si usano uve diraspate, non si aggiunge zucchero e non è solo per bianchi."
+},
+{
+"en": "What do whole bunches mixed with crushed fruit give?",
+"it": "Che cosa danno i grappoli interi mescolati all'uva pigiata?"
+},
+{
+"en": "Silkier texture, fresher fruit",
+"it": "Una consistenza più setosa e un frutto più vivace e fresco"
+},
+{
+"en": "More bitter stem tannin and a deeper colour",
+"it": "Più tannino amaro dai raspi e un colore più intenso"
+},
+{
+"en": "More residual sugar, as whole berries don't ferment",
+"it": "Più dolcezza residua, perché gli acini interi non fermentano"
+},
+{
+"en": "Oxidative walnut and caramel notes, and a tawny colour",
+"it": "Note ossidative di noce e caramello, e colore aranciato"
+},
+{
+"en": "More whole bunches at the start give more 'carbonic' character.",
+"it": "Più grappoli interi all'inizio danno più carattere «carbonico»."
+},
+{
+"en": "A variation mixes whole bunches with crushed grapes at the start of fermentation. The bunches are not blanketed in CO2 but are largely submerged and kept from oxygen, so intracellular fermentation occurs; they are progressively crushed by punching down. More whole bunches give more 'carbonic' character. The technique is thought to give a silkier texture and brighter, fresher fruit. It does not add bitter tannin (if stems are ripe), sweetness or oxidative notes.",
+"it": "Una variante è mescolare grappoli interi con uva pigiata all'inizio della fermentazione. I grappoli interi non sono coperti di CO2, ma sono in gran parte sommersi dall'uva pigiata e lontani dall'ossigeno, quindi avviene la fermentazione intracellulare; poi vengono schiacciati progressivamente con le follature. Più grappoli interi danno più caratteri «carbonici». La tecnica dovrebbe dare una consistenza più setosa e un frutto più brillante e fresco. Non dà più tannino amaro (se i raspi sono maturi), dolcezza o note ossidative."
+},
+{
+"en": "Why do reds benefit less from extended lees contact than whites?",
+"it": "Perché i rossi beneficiano meno di lunghi contatti con le fecce rispetto ai bianchi?"
+},
+{
+"en": "Because of their more robust aromas and textures",
+"it": "Per i loro aromi e le loro consistenze più robusti e decisi"
+},
+{
+"en": "Because reds produce no lees during fermentation",
+"it": "Perché i rossi non producono fecce durante la fermentazione"
+},
+{
+"en": "Because red lees oxidise the wine and strip colour",
+"it": "Perché le fecce dei rossi li ossidano e fanno perdere colore"
+},
+{
+"en": "Because EU law bans prolonged lees contact for reds",
+"it": "Perché la legge europea vieta il contatto prolungato con le fecce"
+},
+{
+"en": "The key maturation choice for reds is whether to use oak.",
+"it": "La scelta principale per la maturazione dei rossi è se usare o no il legno."
+},
+{
+"en": "The key pre-bottling decision for reds is probably whether to use oak. Virtually all reds undergo MLF and, compared with most whites, their more robust flavours and textures mean they generally benefit less from extended lees contact. It is not that they have no lees, that lees oxidise them or that it is banned.",
+"it": "La scelta più importante nella maturazione dei rossi è probabilmente se usare il legno. Quasi tutti i rossi fanno la malolattica e, rispetto alla maggior parte dei bianchi, i loro sapori e consistenze più robusti fanno sì che traggano in genere meno beneficio da un lungo contatto con le fecce. Non è vero che non abbiano fecce, che le fecce li ossidino (anzi, le fecce sono riducenti) o che sia vietato."
+},
+{
+"en": "What is the current trend in new oak for premium reds?",
+"it": "Qual è la tendenza attuale nell'uso del legno nuovo per i rossi di pregio?"
+},
+{
+"en": "Less 100% new barriques, more vessels of varied age and size",
+"it": "Meno barrique nuove al 100%, più contenitori di età e taglie diverse"
+},
+{
+"en": "More new oak for every wine, including mid-priced reds",
+"it": "Più legno nuovo per tutti i vini, compresi i rossi di fascia media"
+},
+{
+"en": "Total abandonment of oak in favour of amphorae and steel",
+"it": "Abbandono totale del legno a favore di anfore e acciaio inox"
+},
+{
+"en": "Only heavily toasted American oak, for more obvious aromas",
+"it": "Solo rovere americano molto tostato, per aromi più evidenti"
+},
+{
+"en": "Top wines still get longer and more new oak, as concentrated fruit supports it.",
+"it": "I vini migliori restano comunque più a lungo e con più legno nuovo, perché il frutto più concentrato lo sostiene."
+},
+{
+"en": "Oak is widely used for reds, as barrels or as staves and chips in inert vessels. The trend of maturing premium reds entirely in small new barrels is declining in most regions: many producers seek more subtlety and integration using oak vessels of varied ages and larger sizes. Top wines still get longer ageing and more new oak than entry-level ones. It is not more new oak everywhere, abandoning oak or American oak only.",
+"it": "Il legno è molto usato nei rossi, in botti o come doghe e trucioli in recipienti inerti. La tendenza a maturare i rossi di pregio interamente in piccole barrique nuove è in calo nella maggior parte delle regioni: molti produttori cercano più finezza e integrazione usando recipienti di rovere di età diverse e dimensioni maggiori. I vini migliori restano comunque più a lungo e con più legno nuovo di quelli base. Non è più legno nuovo ovunque, né abbandono del legno, né solo rovere americano."
+},
+{
+"en": "Typical red fermentation temperature and its effect:",
+"it": "Temperatura di fermentazione tipica dei rossi e effetto:"
+},
+{
+"en": "20–32 °C / extracts colour and tannin",
+"it": "20–32 °C / estrae colore e tannino"
+},
+{
+"en": "12–16 °C / keeps delicate fruit aromas",
+"it": "12–16 °C / conserva aromi fruttati delicati"
+},
+{
+"en": "5–8 °C / blocks malolactic",
+"it": "5–8 °C / blocca la malolattica"
+},
+{
+"en": "40–45 °C / gives more fresh fruit",
+"it": "40–45 °C / dà più frutto fresco"
+},
+{
+"en": "Reds 20–32 °C (extraction); whites 12–22 °C (aromas); above ~35 °C yeasts die.",
+"it": "Rossi 20–32 °C (estrazione); bianchi 12–22 °C (aromi); oltre ~35 °C i lieviti muoiono."
+},
+{
+"en": "Reds ferment warmer (about 20–32 °C) to extract colour and tannin from the skins; low temperatures suit aromatic whites. Above about 35 °C yeasts may die and fermentation can stick.",
+"it": "I rossi fermentano più caldi (circa 20–32 °C) per estrarre colore e tannino dalle bucce; le temperature basse servono ai bianchi aromatici. Oltre i 35 °C circa i lieviti rischiano di morire e la fermentazione si blocca."
+},
+{
+"en": "What vessels are reds usually fermented in?",
+"it": "In quali recipienti si fermentano di solito i rossi?"
+},
+{
+"en": "Large vessels, often open-topped, of oak, concrete or stainless steel",
+"it": "Grandi tini aperti in legno, cemento o acciaio"
+},
+{
+"en": "Closed 225-litre barriques, turned daily to wet the skins",
+"it": "Barrique chiuse da 225 litri, ruotate ogni giorno per bagnare le bucce"
+},
+{
+"en": "Glass demijohns, so the cap can be checked by eye",
+"it": "Damigiane di vetro, per controllare visivamente il cappello"
+},
+{
+"en": "Directly in bottle, as happens for traditional sparkling wines",
+"it": "Direttamente in bottiglia, come avviene per gli spumanti classici"
+},
+{
+"en": "Cap management → large open vessels; barrels impractical for red fermentation.",
+"it": "Gestione del cappello → grandi vasche aperte; barrique impraticabili per la fermentazione dei rossi."
+},
+{
+"en": "To allow cap management, reds are usually fermented in large vessels, many open-topped so the skins can be worked easily, made of oak, concrete or stainless steel. Fermenting reds in barrels is impractical, as it would be almost impossible to keep enough contact between skins and juice.",
+"it": "Per poter lavorare il cappello, i rossi si fermentano di solito in grandi recipienti, molti aperti in alto per accedere facilmente alle bucce, in legno, cemento o acciaio. Fermentare i rossi in barrique è poco pratico perché sarebbe quasi impossibile mantenere un contatto sufficiente tra bucce e mosto."
+},
+{
+"en": "In carbonic maceration, what is the vat filled with before the grapes go in?",
+"it": "Nella macerazione carbonica, con che cosa si riempie la vasca prima di caricare l'uva?"
+},
+{
+"en": "Carbon dioxide (CO₂)",
+"it": "Anidride carbonica (CO₂)"
+},
+{
+"en": "Pure sulfur dioxide",
+"it": "Anidride solforosa pura"
+},
+{
+"en": "Selected yeast in suspension",
+"it": "Lieviti selezionati in sospensione"
+},
+{
+"en": "Oxygen to start fermentation",
+"it": "Ossigeno per avviare la fermentazione"
+},
+{
+"en": "Vat saturated with CO₂, then whole bunches, then sealed: an oxygen-free setting.",
+"it": "Vasca satura di CO₂, poi grappoli interi, poi chiusura: ambiente senza ossigeno."
+},
+{
+"en": "In full carbonic maceration the vat is first saturated with carbon dioxide, then loaded with whole bunches and sealed. The lack of oxygen allows intracellular fermentation inside the intact berries.",
+"it": "Nella macerazione carbonica vera e propria la vasca viene prima saturata di anidride carbonica, poi caricata con grappoli interi e chiusa. L'assenza di ossigeno permette la fermentazione intracellulare dentro gli acini intatti."
+},
+{
+"en": "In what state must the grapes reach the winery for carbonic maceration?",
+"it": "In che stato deve arrivare l'uva in cantina per la macerazione carbonica?"
+},
+{
+"en": "Whole bunches with intact berries, picked by hand",
+"it": "Grappoli interi con acini intatti, vendemmiati a mano"
+},
+{
+"en": "Destemmed and crushed to release the juice",
+"it": "Diraspati e pigiati per liberare il succo"
+},
+{
+"en": "Loose berries picked by machine",
+"it": "Acini sciolti raccolti a macchina"
+},
+{
+"en": "Dried on racks to concentrate the sugar",
+"it": "Appassiti su graticci per concentrare lo zucchero"
+},
+{
+"en": "Broken berries would ferment straight away with yeast, as in a classic ferment.",
+"it": "Acini rotti fermenterebbero subito con i lieviti, come in una vinificazione classica."
+},
+{
+"en": "The technique only works with intact berries, so grapes are hand-picked and carried in small crates. Crushed berries would simply ferment normally with yeast.",
+"it": "La tecnica funziona solo con acini integri: per questo si vendemmia a mano e si trasporta l'uva in piccole cassette. Gli acini schiacciati fermenterebbero normalmente con i lieviti."
+},
+{
+"en": "In semi-carbonic maceration, where does the carbon dioxide come from?",
+"it": "Nella semicarbonica, da dove viene l'anidride carbonica?"
+},
+{
+"en": "From the fermentation of the crushed berries at the bottom of the vat",
+"it": "Dalla fermentazione degli acini schiacciati sul fondo della vasca"
+},
+{
+"en": "From gas cylinders added before loading",
+"it": "Da bombole aggiunte prima del carico"
+},
+{
+"en": "From dry ice scattered over the bunches",
+"it": "Dal ghiaccio secco sparso sui grappoli"
+},
+{
+"en": "From air entering the open vat",
+"it": "Dall'aria che entra dalla vasca aperta"
+},
+{
+"en": "No added CO₂: the crushed bottom ferments and its CO₂ rises to protect the berries above.",
+"it": "Nessuna CO₂ aggiunta: il fondo pigiato fermenta, la CO₂ sale e protegge gli acini sopra."
+},
+{
+"en": "In semi-carbonic maceration no gas is added: the weight of the bunches crushes the bottom berries, that juice ferments with yeast and the CO₂ produced protects the whole berries above, where intracellular fermentation happens.",
+"it": "Nella semicarbonica non si aggiunge anidride carbonica: il peso dei grappoli schiaccia gli acini sul fondo, quel mosto fermenta con i lieviti e la CO₂ prodotta protegge gli acini interi più in alto, dove avviene la fermentazione intracellulare."
+},
+{
+"en": "Which method is most widely used in Beaujolais?",
+"it": "Qual è il metodo più usato in Beaujolais?"
+},
+{
+"en": "Semi-carbonic maceration",
+"it": "La macerazione semicarbonica"
+},
+{
+"en": "Crushing with long skin maceration",
+"it": "La pigiatura con lunga macerazione sulle bucce"
+},
+{
+"en": "The solera system",
+"it": "Il sistema solera"
+},
+{
+"en": "Drying grapes on racks",
+"it": "L'appassimento su graticci"
+},
+{
+"en": "Beaujolais = Gamay, mostly semi-carbonic.",
+"it": "Beaujolais = Gamay, soprattutto in semicarbonica."
+},
+{
+"en": "In Beaujolais semi-carbonic maceration is the most common method: whole bunches of Gamay in the vat, with no added CO₂.",
+"it": "In Beaujolais la semicarbonica è il metodo più diffuso: grappoli interi di Gamay in vasca, senza CO₂ aggiunta."
+},
+{
+"en": "Which aromas are typical of a carbonic-maceration red?",
+"it": "Quali aromi sono tipici di un rosso da macerazione carbonica?"
+},
+{
+"en": "Kirsch, banana, cinnamon, sometimes bubblegum",
+"it": "Kirsch, banana, cannella, a volte gomma da masticare"
+},
+{
+"en": "Leather, tobacco and forest floor",
+"it": "Cuoio, tabacco e sottobosco"
+},
+{
+"en": "Petrol, honey and dried apricot",
+"it": "Idrocarburi, miele e albicocca secca"
+},
+{
+"en": "Walnut, caramel and toffee",
+"it": "Noci, caramello e toffee"
+},
+{
+"en": "Intracellular-fermentation aromas: kirsch, banana, cinnamon, bubblegum.",
+"it": "Aromi di fermentazione intracellulare: kirsch, banana, cannella, chewing-gum."
+},
+{
+"en": "Intracellular fermentation creates distinctive aromas: cherry and kirsch, banana, cinnamon and sometimes bubblegum.",
+"it": "La fermentazione intracellulare forma aromi caratteristici: ciliegia e kirsch, banana, cannella e a volte gomma da masticare."
+},
+{
+"en": "Which grape is the symbol of carbonic maceration in Beaujolais?",
+"it": "Quale vitigno è il simbolo della macerazione carbonica in Beaujolais?"
+},
+{
+"en": "Pinot Noir",
+"it": "Pinot Noir"
+},
+{
+"en": "Cabernet Franc",
+"it": "Cabernet Franc"
+},
+{
+"en": "Gamay: thin skin, lively acidity, low tannin.",
+"it": "Gamay: buccia sottile, acidità vivace, tannino basso."
+},
+{
+"en": "Gamay, thin-skinned with lively acidity and naturally low tannin, is the grape of Beaujolais and of carbonic maceration.",
+"it": "Il Gamay, a buccia sottile, acidità vivace e tannino naturalmente basso, è il vitigno del Beaujolais e della macerazione carbonica."
+},
+{
+"en": "When is a carbonic-maceration red usually drunk?",
+"it": "Quando si beve di solito un rosso da macerazione carbonica?"
+},
+{
+"en": "Young and lightly chilled",
+"it": "Giovane e leggermente fresco"
+},
+{
+"en": "After at least ten years in bottle",
+"it": "Dopo almeno dieci anni di bottiglia"
+},
+{
+"en": "Only with dessert at the end of a meal",
+"it": "Solo a fine pasto con il dessert"
+},
+{
+"en": "Always at warm room temperature",
+"it": "Sempre a temperatura ambiente calda"
+},
+{
+"en": "Fruity, low-tannin wines, not made for ageing → young and cool.",
+"it": "Vini fruttati, poco tannici, poco adatti all'invecchiamento → giovani e freschi."
+},
+{
+"en": "Exuberant fruit and low tannin: these wines are made to be drunk young, often lightly chilled. Some more structured Beaujolais crus are the exception.",
+"it": "Frutto esuberante e tannino basso: sono vini fatti per essere bevuti giovani, spesso leggermente freschi. Fanno eccezione alcuni cru del Beaujolais più strutturati."
+},
+{
+"en": "Carbonic and semi-carbonic maceration: what is the key difference?",
+"it": "Macerazione carbonica e semi-carbonica: qual è la differenza chiave?"
+},
+{
+"en": "In semi-carbonic no CO2 is added: it comes from fermenting crushed grapes at the bottom",
+"it": "Nella semi-carbonica non si aggiunge CO2: viene dalle uve pigiate che fermentano sul fondo"
+},
+{
+"en": "Carbonic uses destemmed, crushed grapes; semi-carbonic uses whole bunches under added CO2",
+"it": "Nella carbonica si usano uve diraspate e pigiate, nella semi-carbonica grappoli interi saturati di CO2"
+},
+{
+"en": "Carbonic lasts six months; semi-carbonic only a few days before pressing",
+"it": "La carbonica dura sei mesi, la semi-carbonica solo pochi giorni prima della pressatura"
+},
+{
+"en": "Semi-carbonic is used only for aromatic white grapes in closed tanks",
+"it": "La semi-carbonica si usa solo per le uve bianche aromatiche in vasca chiusa"
+},
+{
+"en": "Carbonic: vat filled with CO2; semi-carbonic: CO2 from spontaneous fermentation at the bottom.",
+"it": "Carbonica: vasca saturata di CO2; semi-carbonica: la CO2 nasce dalla fermentazione spontanea sul fondo."
+},
+{
+"en": "Carbonic maceration puts only whole bunches into CO2-filled vats; intracellular fermentation starts and at 2% alcohol skins split; grapes are pressed and yeast finish off the skins. Semi-carbonic does not fill the vat with CO2: bottom grapes are crushed by weight, ambient yeast ferment the juice and its CO2 fills the vat, so intact berries undergo carbonic maceration. Both use whole bunches.",
+"it": "Nella macerazione carbonica si mettono solo grappoli interi in vasche riempite di CO2, la fermentazione intracellulare parte e al 2% di alcol le bucce si spaccano; si pressa e i lieviti finiscono fuori dalle bucce. Nella semi-carbonica non si riempie la vasca di CO2: le uve sul fondo vengono schiacciate dal peso, i lieviti ambientali fermentano il succo e la CO2 prodotta riempie la vasca, così gli acini intatti fanno la macerazione carbonica. Entrambe usano grappoli interi."
+}
+]

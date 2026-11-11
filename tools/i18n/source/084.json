@@ -1,0 +1,938 @@
+[
+{
+"en": "Food and wine pairing.",
+"it": "Abbinamento cibo-vino."
+},
+{
+"en": "Explain how sweetness, umami, acidity and salt in food change how a wine tastes.",
+"it": "Spiega come dolcezza, umami, acidità e sale nel cibo modificano la percezione del vino."
+},
+{
+"en": "How do chilli heat, fat/oil and flavour intensity interact with wine?",
+"it": "Come interagiscono piccante (chili), grasso/olio e intensità aromatica con il vino?"
+},
+{
+"en": "Risk, traditional rules and classic pairings.",
+"it": "Rischi, regole tradizionali e abbinamenti classici."
+},
+{
+"en": "What are 'high-risk' and 'low-risk' foods and wines?",
+"it": "Che cosa sono cibi e vini «ad alto rischio» e «a basso rischio»?"
+},
+{
+"en": "Explain why oysters work with Muscadet or Champagne, and what to know about 'red with meat, white with fish' and the 'perfect match'.",
+"it": "Spiega perché funzionano ostriche con Muscadet o Champagne e che cosa sapere della regola «rosso con la carne, bianco con il pesce» e del «perfect match»."
+},
+{
+"en": "Riesling around the world.",
+"it": "Il Riesling nel mondo."
+},
+{
+"en": "Compare Riesling from the Mosel, Alsace, the Wachau and Clare/Eden Valley, explaining how climate and winemaking shape style.",
+"it": "Confronta il Riesling di Mosella, Alsazia, Wachau e Clare/Eden Valley spiegando come clima e vinificazione determinano lo stile."
+},
+{
+"en": "Chardonnay around the world.",
+"it": "Lo Chardonnay nel mondo."
+},
+{
+"en": "Explain how the same grape gives a Chablis, a Meursault, a Napa Chardonnay and a Côte des Blancs Chardonnay for sparkling wine.",
+"it": "Spiega come la stessa uva dia uno Chablis, un Meursault, un Chardonnay di Napa e uno della Côte des Blancs per spumante."
+},
+{
+"en": "Pinot Noir around the world.",
+"it": "Il Pinot Noir nel mondo."
+},
+{
+"en": "Why is Pinot Noir difficult to grow, and how do styles vary between Burgundy, Central Otago, Yarra/Mornington and Oregon?",
+"it": "Perché il Pinot Noir è difficile da coltivare e come cambiano gli stili tra Borgogna, Central Otago, Yarra Valley/Mornington e Oregon?"
+},
+{
+"en": "Syrah/Shiraz and Grenache around the world.",
+"it": "Syrah/Shiraz e Grenache nel mondo."
+},
+{
+"en": "Compare Hermitage/Côte-Rôtie Syrah, Barossa Shiraz and cool-area Syrah (e.g. Elqui, Hawke's Bay), and explain Grenache's role in Southern Rhône, Priorat and Barossa blends.",
+"it": "Confronta Syrah dell'Hermitage/Côte-Rôtie, Shiraz della Barossa e Syrah di zone fresche (es. Elqui, Hawke's Bay), e spiega il ruolo della Grenache nei tagli del Rodano meridionale, di Priorat e della Barossa."
+},
+{
+"en": "Cabernet Sauvignon and Merlot around the world.",
+"it": "Cabernet Sauvignon e Merlot nel mondo."
+},
+{
+"en": "Compare Cabernet/Bordeaux blends from the Médoc, Napa, Coonawarra, Stellenbosch and Maipo/Colchagua.",
+"it": "Confronta il Cabernet/i tagli bordolesi di Médoc, Napa, Coonawarra, Stellenbosch e Maipo/Colchagua."
+},
+{
+"en": "Sauvignon Blanc and Chenin Blanc around the world.",
+"it": "Sauvignon Blanc e Chenin Blanc nel mondo."
+},
+{
+"en": "Compare Sauvignon Blanc from Sancerre, Marlborough, Bordeaux (Pessac-Léognan) and Casablanca, and Chenin from the Loire and South Africa.",
+"it": "Confronta il Sauvignon Blanc di Sancerre, Marlborough, Bordeaux (Pessac-Léognan) e Casablanca, e il Chenin della Loira e del Sudafrica."
+},
+{
+"en": "Sweet wines around the world.",
+"it": "Vini dolci nel mondo."
+},
+{
+"en": "Compare three ways of concentrating sugar in grapes (noble rot, drying, freezing) with example wines and their characteristics.",
+"it": "Confronta tre metodi per concentrare lo zucchero nelle uve (muffa nobile, appassimento, congelamento) con esempi di vini e loro caratteristiche."
+},
+{
+"en": "Yields and quality.",
+"it": "Rese e qualità."
+},
+{
+"en": "Explain why low yields are often linked with higher quality, and when higher yields are acceptable.",
+"it": "Spiega perché rese basse sono spesso associate a qualità più alta e quando invece rese più alte sono accettabili."
+},
+{
+"en": "White winemaking: aromatic and non-aromatic grapes.",
+"it": "Vinificazione in bianco: aromatici e non aromatici."
+},
+{
+"en": "Compare winemaking choices for aromatic (Sauvignon, Riesling) and non-aromatic (Chardonnay, Pinot Gris/Grigio) grapes, including inexpensive versus premium Pinot Grigio.",
+"it": "Confronta le scelte di vinificazione per uve aromatiche (Sauvignon, Riesling) e non aromatiche (Chardonnay, Pinot Gris/Grigio), compreso Pinot Grigio economico vs premium."
+},
+{
+"en": "Red and rosé winemaking: extraction choices.",
+"it": "Vinificazione in rosso e rosato: scelte di estrazione."
+},
+{
+"en": "Explain the main extraction techniques in red winemaking and how they differ between inexpensive and premium wines.",
+"it": "Spiega le principali tecniche di estrazione nella vinificazione in rosso e come cambiano tra vini economici e premium."
+},
+{
+"en": "Explain how to assess the quality of a wine using the SAT.",
+"it": "Spiega come valutare la qualità di un vino con il metodo SAT."
+},
+{
+"en": "What are the four criteria (BLIC) and what does each mean?",
+"it": "Quali sono i quattro criteri (BLIC) e che cosa significa ciascuno?"
+},
+{
+"en": "How are they used to reach a quality conclusion, and how is readiness for drinking judged?",
+"it": "Come si usano per arrivare al giudizio di qualità e come si valuta la prontezza?"
+},
+{
+"en": "The SAT describes appearance, nose and palate.",
+"it": "Il SAT descrive aspetto, naso e palato."
+},
+{
+"en": "What can colour indicate about age and winemaking for white and red wines?",
+"it": "Che cosa può indicare il colore di un vino bianco e di un vino rosso riguardo a età e vinificazione?"
+},
+{
+"en": "Distinguish primary, secondary and tertiary aromas with two examples each.",
+"it": "Distingui aromi primari, secondari e terziari con due esempi ciascuno."
+},
+{
+"en": "Assessing structure on the palate with the SAT.",
+"it": "Valutare la struttura al palato con il SAT."
+},
+{
+"en": "How do you correctly distinguish acidity, alcohol and tannin, avoiding the usual confusions?",
+"it": "Come si distinguono correttamente acidità, alcol e tannino, evitando le confusioni tipiche?"
+},
+{
+"en": "What is body, what does it depend on, and how are finish and mousse assessed?",
+"it": "Che cos'è il corpo, da che cosa dipende, e come si valutano finale e mousse?"
+},
+{
+"en": "Condition, intensity and development on the nose.",
+"it": "Condizione, intensità e sviluppo al naso."
+},
+{
+"en": "Describe the main faults (condition) you must recognise.",
+"it": "Descrivi i principali difetti da riconoscere."
+},
+{
+"en": "How are intensity and development (youthful, developing, fully developed, tired) determined, with examples?",
+"it": "Come si stabiliscono intensità e sviluppo con esempi?"
+},
+{
+"en": "Appearance and tasting method.",
+"it": "L'aspetto e il metodo di degustazione."
+},
+{
+"en": "How do you prepare for tasting (environment, yourself, glass, sample)?",
+"it": "Come si prepara una degustazione (ambiente, persona, bicchiere, campione)?"
+},
+{
+"en": "How are clarity, colour intensity and 'other observations' (legs, deposit, pétillance, bubbles) assessed?",
+"it": "Come si valutano limpidezza, intensità di colore e «altre osservazioni» (lacrime, deposito, pétillance, bollicine)?"
+},
+{
+"en": "Vineyard environment: climate and natural factors.",
+"it": "Ambiente del vigneto: clima e fattori naturali."
+},
+{
+"en": "What does the vine need (heat, sunlight, water, nutrients), and how do latitude and altitude affect it?",
+"it": "Quali sono i bisogni della vite (calore, luce, acqua, nutrienti) e come influiscono latitudine e altitudine?"
+},
+{
+"en": "Explain the effect of oceans/currents, mountains, aspect, fog, soil and wind on vineyard climate.",
+"it": "Spiega l'effetto di oceani/correnti, montagne, esposizione, nebbia, suolo e venti sul clima del vigneto."
+},
+{
+"en": "Climate, weather and vintage.",
+"it": "Clima, condizioni meteo e annata."
+},
+{
+"en": "Distinguish continental, maritime and Mediterranean climates and cool/moderate/hot classes.",
+"it": "Distingui clima continentale, marittimo e mediterraneo e le classi fresco/moderato/caldo."
+},
+{
+"en": "What weather events can damage a vintage, and how do growers respond?",
+"it": "Quali eventi meteo possono danneggiare un'annata e come rispondono i viticoltori?"
+},
+{
+"en": "Soil and water.",
+"it": "Suolo e acqua."
+},
+{
+"en": "Explain how soil drainage, water retention, nutrients and temperature affect quality, with examples (chalk, slate, gravel, clay).",
+"it": "Spiega come drenaggio, ritenzione idrica, nutrienti e temperatura del suolo influenzano la qualità con esempi (gesso, ardesia, ghiaia, argilla)."
+},
+{
+"en": "The vine's annual cycle and diurnal range.",
+"it": "Il ciclo annuale della vite e il diurnal range."
+},
+{
+"en": "Describe the stages of the vine's annual cycle from budburst to harvest.",
+"it": "Descrivi le fasi del ciclo annuale della vite dal germogliamento alla vendemmia."
+},
+{
+"en": "What are continentality and diurnal range, and how do they affect wine style?",
+"it": "Che cosa sono continentalità e escursione termica (diurnal range) e come influenzano lo stile del vino?"
+},
+{
+"en": "Describe Rioja's sub-regions and the roles of Tempranillo and Garnacha.",
+"it": "Descrivi le sottoregioni della Rioja e il ruolo di Tempranillo e Garnacha."
+},
+{
+"en": "Explain the ageing categories (Joven, Crianza, Reserva, Gran Reserva) and traditional versus modern style.",
+"it": "Spiega le categorie d'invecchiamento (Joven, Crianza, Reserva, Gran Reserva) e lo stile tradizionale vs moderno."
+},
+{
+"en": "Ribera del Duero, Priorat and central Spain.",
+"it": "Ribera del Duero, Priorat e la Spagna centrale."
+},
+{
+"en": "Compare Ribera del Duero and Priorat (climate, soils, grapes, styles).",
+"it": "Confronta Ribera del Duero e Priorat (clima, suoli, uve, stili)."
+},
+{
+"en": "What do La Mancha, Valdepeñas and Vinos de Pago produce?",
+"it": "Che cosa producono La Mancha, Valdepeñas e i Vinos de Pago?"
+},
+{
+"en": "North-West Spain and Spanish whites.",
+"it": "Spagna del Nord-Ovest e bianchi spagnoli."
+},
+{
+"en": "Describe Rías Baixas (Albariño), Rueda (Verdejo) and Bierzo (Mencía).",
+"it": "Descrivi Rías Baixas (Albariño), Rueda (Verdejo) e Bierzo (Mencía)."
+},
+{
+"en": "What is Navarra, and why is it known for rosé and international blends?",
+"it": "Che cos'è Navarra e perché è nota per i rosati e i tagli internazionali?"
+},
+{
+"en": "Spain: climate, grape varieties and law.",
+"it": "Spagna: clima, vitigni e legislazione."
+},
+{
+"en": "Describe Spain's three climatic zones, the viticultural challenges and the main black grapes.",
+"it": "Descrivi le tre zone climatiche spagnole, le sfide viticole e le principali uve nere."
+},
+{
+"en": "Explain Spain's appellation hierarchy (VP, DOCa, DO, VdlT) and the role of international varieties and Catalunya.",
+"it": "Spiega la gerarchia delle denominazioni spagnole (VP, DOCa, DO, VdlT) e il ruolo delle varietà internazionali e della Catalogna."
+},
+{
+"en": "Germany: climate and Mosel Riesling.",
+"it": "Germania: clima e Riesling della Mosella."
+},
+{
+"en": "Explain why the best Mosel vineyards are on steep slopes near the river and the role of slate soils.",
+"it": "Spiega perché i migliori vigneti della Mosella sono su pendii ripidi vicino al fiume e che ruolo hanno i suoli di ardesia."
+},
+{
+"en": "Describe the typical style of a Mosel Riesling and how it changes with age.",
+"it": "Descrivi lo stile tipico di un Riesling della Mosella e come cambia con l'invecchiamento."
+},
+{
+"en": "German wine law and Prädikate.",
+"it": "Leggi tedesche sul vino e Prädikate."
+},
+{
+"en": "List the Prädikate from Kabinett to Trockenbeerenauslese, explain their basis and the styles they produce.",
+"it": "Elenca i Prädikate dal Kabinett al Trockenbeerenauslese e spiega su quale criterio si basano e quali stili producono."
+},
+{
+"en": "What do Qualitätswein, trocken/halbtrocken and the VDP classification (Grosse Lage, Grosses Gewächs) indicate?",
+"it": "Che cosa indicano Qualitätswein, trocken/halbtrocken e la classificazione VDP (Grosse Lage, Grosses Gewächs)?"
+},
+{
+"en": "German regions beyond the Mosel.",
+"it": "Regioni tedesche oltre la Mosella."
+},
+{
+"en": "Compare Rheingau, Nahe, Pfalz and Baden.",
+"it": "Confronta Rheingau, Nahe, Pfalz e Baden."
+},
+{
+"en": "What should you know about Spätburgunder, Müller-Thurgau and Silvaner in Germany?",
+"it": "Che cosa si sa di Spätburgunder, Müller-Thurgau e Silvaner in Germania?"
+},
+{
+"en": "Greece.",
+"it": "Grecia."
+},
+{
+"en": "Describe Santorini Assyrtiko, including kouloura training, and Naoussa Xinomavro.",
+"it": "Descrivi l'Assyrtiko di Santorini, compresa la coltivazione a «kouloura», e lo Xinomavro di Naoussa."
+},
+{
+"en": "What characterises Nemea Agiorgitiko, and what is the role of climate and native grapes in Greece?",
+"it": "Che cosa caratterizza il Nemea Agiorgitiko e qual è il ruolo di clima e vitigni autoctoni in Grecia?"
+},
+{
+"en": "Piemonte.",
+"it": "Piemonte."
+},
+{
+"en": "Explain why Nebbiolo needs the best sites and describe Barolo and Barbaresco.",
+"it": "Spiega perché il Nebbiolo richiede i siti migliori e descrivi Barolo e Barbaresco."
+},
+{
+"en": "Compare Barbera and Dolcetto and say where they are grown.",
+"it": "Confronta Barbera e Dolcetto e indica dove si coltivano."
+},
+{
+"en": "Veneto and North-East.",
+"it": "Veneto e Nord-Est."
+},
+{
+"en": "How are Amarone and Recioto della Valpolicella made, and what is Ripasso?",
+"it": "Come si producono Amarone e Recioto della Valpolicella, e che cos'è il Ripasso?"
+},
+{
+"en": "Compare Soave, Pinot Grigio delle Venezie and whites from Friuli/Alto Adige.",
+"it": "Confronta Soave, Pinot Grigio delle Venezie e i bianchi del Friuli/Alto Adige."
+},
+{
+"en": "Tuscany.",
+"it": "Toscana."
+},
+{
+"en": "Describe Sangiovese and compare Chianti Classico, Brunello di Montalcino and Vino Nobile di Montepulciano.",
+"it": "Descrivi il Sangiovese e confronta Chianti Classico, Brunello di Montalcino e Vino Nobile di Montepulciano."
+},
+{
+"en": "What are 'Super Tuscans', and what is Bolgheri's role?",
+"it": "Che cosa sono i «Super Tuscans» e il ruolo di Bolgheri?"
+},
+{
+"en": "Central and Southern Italy.",
+"it": "Centro e Sud Italia."
+},
+{
+"en": "Describe Montepulciano d'Abruzzo, Verdicchio, Aglianico (Taurasi), Fiano and Greco.",
+"it": "Descrivi Montepulciano d'Abruzzo, Verdicchio, Aglianico (Taurasi), Fiano e Greco."
+},
+{
+"en": "What wines do Puglia and Sicily make (Primitivo, Negroamaro, Nero d'Avola, Etna)?",
+"it": "Che vini fanno Puglia e Sicilia (Primitivo, Negroamaro, Nero d'Avola, Etna)?"
+},
+{
+"en": "The Italian legal system.",
+"it": "Il sistema legislativo italiano."
+},
+{
+"en": "Explain DOCG, DOC, IGT and the terms Classico, Superiore and Riserva.",
+"it": "Spiega DOCG, DOC, IGT e i termini Classico, Superiore e Riserva."
+},
+{
+"en": "Umbria, Lazio and the North-East: whites and reds to know.",
+"it": "Umbria, Lazio e il Nord-Est: bianchi e rossi da conoscere."
+},
+{
+"en": "Describe Orvieto, Frascati and Sagrantino di Montefalco.",
+"it": "Descrivi Orvieto, Frascati e Sagrantino di Montefalco."
+},
+{
+"en": "Describe Alto Adige, Trentino and Friuli-Venezia Giulia and their main grapes.",
+"it": "Descrivi Alto Adige, Trentino e Friuli-Venezia Giulia e le loro uve principali."
+},
+{
+"en": "Portugal: still wines.",
+"it": "Portogallo: vini fermi."
+},
+{
+"en": "Describe Vinho Verde and the Douro (still wines): climate, grapes and styles.",
+"it": "Descrivi Vinho Verde e Douro (vini fermi) in clima, uve e stili."
+},
+{
+"en": "What characterises Dão, Bairrada and Alentejo?",
+"it": "Che cosa caratterizzano Dão, Bairrada e Alentejo?"
+},
+{
+"en": "Portugal: system and grapes.",
+"it": "Portogallo: sistema e uve."
+},
+{
+"en": "Which Portuguese native grapes do you know and what styles do they give (Touriga Nacional, Baga, Alvarinho, Arinto)?",
+"it": "Quali uve autoctone portoghesi conosci e quali stili danno (Touriga Nacional, Baga, Alvarinho, Arinto)?"
+},
+{
+"en": "Explain DOC and Vinho Regional in Portugal.",
+"it": "Spiega DOC e Vinho Regional in Portogallo."
+},
+{
+"en": "Port: production.",
+"it": "Porto: produzione."
+},
+{
+"en": "Explain how Port's short fermentation affects extraction techniques and fortification.",
+"it": "Spiega come la fermentazione breve del Porto influenza le tecniche di estrazione e la fortificazione."
+},
+{
+"en": "Why are Douro vineyards hard to cultivate, and how have they adapted (socalcos, patamares, vinha ao alto)?",
+"it": "Perché i vigneti del Douro sono difficili da coltivare e come si sono adattati (socalcos, patamares, vinha ao alto)?"
+},
+{
+"en": "Port: styles.",
+"it": "Porto: stili."
+},
+{
+"en": "Compare ruby styles (Ruby, Reserve, LBV, Vintage) and tawny styles (Tawny, age-indicated Tawny).",
+"it": "Confronta gli stili ruby (Ruby, Reserve, LBV, Vintage) e tawny (Tawny, Tawny con indicazione d'età)."
+},
+{
+"en": "Compare a Muscat de Beaumes-de-Venise and a Rutherglen Muscat.",
+"it": "Confronta un Muscat de Beaumes-de-Venise e un Rutherglen Muscat."
+},
+{
+"en": "Port: maturation and locations.",
+"it": "Porto: maturazione e luoghi."
+},
+{
+"en": "Where does Port mature, and why does this affect style?",
+"it": "Dove matura il Porto e perché questo influisce sullo stile?"
+},
+{
+"en": "Wine price and quality.",
+"it": "Prezzo e qualità del vino."
+},
+{
+"en": "Which vineyard and winery costs explain the price difference between an inexpensive and a premium wine?",
+"it": "Quali costi di vigneto e di cantina spiegano la differenza di prezzo tra un vino economico e uno premium?"
+},
+{
+"en": "What are EU GIs (PDO/PGI) and what rules do appellations set?",
+"it": "Che cosa sono le GI europee (DOP/IGP) e quali regole stabiliscono le denominazioni?"
+},
+{
+"en": "Wine law and labelling.",
+"it": "Leggi sul vino ed etichetta."
+},
+{
+"en": "Which regulated labelling terms (e.g. Riserva, Gran Reserva, Prädikat) and unregulated ones (e.g. Old Vines, Reserve outside the EU) do you know, and why does the difference matter?",
+"it": "Quali termini d'etichetta regolati per legge (es. Riserva, Gran Reserva, Prädikat) e non regolati (es. Old Vines, Reserve fuori UE) conosci, e perché la differenza conta?"
+},
+{
+"en": "What are the aims of wine legislation regarding food safety and responsible consumption?",
+"it": "Quali sono gli obiettivi della legislazione sul vino in materia di sicurezza alimentare e consumo responsabile?"
+},
+{
+"en": "Types of producer.",
+"it": "Tipi di produttori."
+},
+{
+"en": "Compare co-operatives, merchants (négociants) and estates (domaines): how they work, advantages and limits.",
+"it": "Confronta cooperative, négociant (merchant) ed estate (domaine): funzionamento, vantaggi e limiti."
+},
+{
+"en": "Red winemaking.",
+"it": "Vinificazione dei vini rossi."
+},
+{
+"en": "What extraction techniques exist during fermentation, and how are they chosen for style?",
+"it": "Quali tecniche di estrazione esistono durante la fermentazione e come le si sceglie in base allo stile?"
+},
+{
+"en": "Explain carbonic maceration and whole-bunch fermentation, pressing (free-run/press wine) and rosé production.",
+"it": "Spiega macerazione carbonica e fermentazione a grappolo intero, la pressatura (vin de goutte/vin de presse) e la produzione di rosati."
+},
+{
+"en": "Red wine maturation.",
+"it": "Maturazione dei vini rossi."
+},
+{
+"en": "Compare maturation in new barriques, large old casks and inert vessels, with examples.",
+"it": "Confronta maturazione in barrique nuove, botti grandi vecchie e recipienti inerti, con esempi di vini."
+},
+{
+"en": "Premium reds by variety.",
+"it": "Rossi premium per varietà."
+},
+{
+"en": "Explain how premium Cabernet Sauvignon, Merlot and Pinot Noir are made and why the choices differ.",
+"it": "Spiega come si vinificano Cabernet Sauvignon, Merlot e Pinot Noir premium e perché le scelte differiscono."
+},
+{
+"en": "How are Syrah/Shiraz and Grenache made in a full or more restrained style?",
+"it": "Come si vinificano Syrah/Shiraz e Grenache in stile pieno o più sobrio?"
+},
+{
+"en": "High-volume inexpensive reds.",
+"it": "Rossi economici di grande volume."
+},
+{
+"en": "Which varieties and techniques are used for high-volume inexpensive reds, and why is Pinot Noir unsuitable?",
+"it": "Quali varietà e tecniche si usano per i rossi economici di grande volume e perché il Pinot Noir non è adatto?"
+},
+{
+"en": "Northern and Southern Rhône.",
+"it": "Rodano settentrionale e meridionale."
+},
+{
+"en": "Compare climate, soils, grapes and styles of the Northern and Southern Rhône.",
+"it": "Confronta clima, suoli, uve e stili del Rodano settentrionale e meridionale."
+},
+{
+"en": "Describe the Southern Rhône appellation hierarchy and what characterises Châteauneuf-du-Pape.",
+"it": "Descrivi la gerarchia delle denominazioni del Rodano meridionale e cosa caratterizza Châteauneuf-du-Pape."
+},
+{
+"en": "Northern Rhône.",
+"it": "Rodano settentrionale."
+},
+{
+"en": "Compare Côte-Rôtie, Hermitage, Crozes-Hermitage, Saint-Joseph, Cornas and Condrieu.",
+"it": "Confronta Côte-Rôtie, Hermitage, Crozes-Hermitage, Saint-Joseph, Cornas e Condrieu."
+},
+{
+"en": "Describe Rhône whites: Viognier, Marsanne and Roussanne, and southern whites.",
+"it": "Descrivi i bianchi del Rodano: Viognier, Marsanne e Roussanne, e i bianchi del sud."
+},
+{
+"en": "South Africa.",
+"it": "Sudafrica."
+},
+{
+"en": "What climatic influences and grapes characterise Stellenbosch, Constantia, Walker Bay and Swartland?",
+"it": "Quali influenze climatiche e varietà caratterizzano Stellenbosch, Constantia, Walker Bay e Swartland?"
+},
+{
+"en": "Describe Chenin Blanc and Pinotage in South Africa.",
+"it": "Descrivi Chenin Blanc e Pinotage in Sudafrica."
+},
+{
+"en": "South Africa: wine law and regions.",
+"it": "Sudafrica: legislazione e regioni."
+},
+{
+"en": "How does the Wine of Origin system work, and why is the Western Cape GI important?",
+"it": "Come funziona il sistema Wine of Origin e perché la GI Western Cape è importante?"
+},
+{
+"en": "Why is the Cape's climate cooler than its latitude suggests?",
+"it": "Perché il clima del Capo è più fresco di quanto la latitudine suggerirebbe?"
+},
+{
+"en": "Southern France: Languedoc, Roussillon and Provence.",
+"it": "Sud della Francia: Languedoc, Roussillon e Provenza."
+},
+{
+"en": "What does IGP Pays d'Oc offer, and why is it commercially important?",
+"it": "Che cosa offre la denominazione IGP Pays d'Oc e perché è commercialmente importante?"
+},
+{
+"en": "What characterises Languedoc red ACs (e.g. Corbières, Minervois, Faugères) and Provence rosé?",
+"it": "Quali sono le caratteristiche delle AC rosse del Languedoc (es. Corbières, Minervois, Faugères) e del rosato di Provenza?"
+},
+{
+"en": "Southern France climate and grape varieties.",
+"it": "Clima e varietà del Sud della Francia."
+},
+{
+"en": "Describe Southern France's climate and winds, and the roles of Grenache, Syrah, Carignan, Mourvèdre and Cinsault.",
+"it": "Descrivi il clima del Sud della Francia, i venti e il ruolo di Grenache, Syrah, Carignan, Mourvèdre e Cinsault."
+},
+{
+"en": "Which white grapes and styles are found in Southern France?",
+"it": "Quali uve bianche e stili si trovano nel Sud della Francia?"
+},
+{
+"en": "Sherry: biological ageing.",
+"it": "Sherry: invecchiamento biologico."
+},
+{
+"en": "Explain how a Fino is made from harvest to bottling, including flor and solera.",
+"it": "Spiega la produzione di un Fino dalla vendemmia all'imbottigliamento, compresi flor e solera."
+},
+{
+"en": "Why does the solera system give a consistent wine?",
+"it": "Perché la solera dà un vino costante?"
+},
+{
+"en": "Oxidative and sweet Sherries.",
+"it": "Sherry ossidativi e dolci."
+},
+{
+"en": "Compare Oloroso, Amontillado and Palo Cortado in production and style.",
+"it": "Confronta Oloroso, Amontillado e Palo Cortado in produzione e stile."
+},
+{
+"en": "How are naturally sweet Sherries (PX) and sweetened Sherries (Pale Cream, Medium, Cream) made?",
+"it": "Come si producono gli Sherry dolci naturali (PX) e quelli dolcificati (Pale Cream, Medium, Cream)?"
+},
+{
+"en": "Sherry: vineyard and age indications.",
+"it": "Sherry: vigneto e indicazioni d'età."
+},
+{
+"en": "Describe the climate, winds and albariza soil of the Jerez area, and the permitted grapes.",
+"it": "Descrivi clima, venti e suolo albariza della zona di Jerez e le uve permesse."
+},
+{
+"en": "What do VORS, VOS, 12 and 15 years old indicate?",
+"it": "Che cosa indicano VORS, VOS, 12 e 15 anni?"
+},
+{
+"en": "Sparkling wines: production methods.",
+"it": "Spumanti: metodi di produzione."
+},
+{
+"en": "Describe the stages of the traditional method from base wine to corking.",
+"it": "Descrivi le fasi del metodo tradizionale dal vino base alla tappatura."
+},
+{
+"en": "Compare the traditional method and tank method in results and costs.",
+"it": "Confronta metodo tradizionale e metodo in autoclave nei risultati e nei costi."
+},
+{
+"en": "Explain how Champagne's climate and its three main grapes determine its style.",
+"it": "Spiega come il clima della Champagne e le tre uve principali determinano lo stile del vino."
+},
+{
+"en": "Give the lees-ageing rules for NV and vintage Champagne, Crémant and Cava, and the sweetness terms Brut Nature, Brut and Demi-Sec.",
+"it": "Indica le regole di invecchiamento sui lieviti per Champagne NV, millesimato, Crémant e Cava, e i termini di dolcezza Brut Nature, Brut e Demi-Sec."
+},
+{
+"en": "Sparkling wines of the world.",
+"it": "Spumanti del mondo."
+},
+{
+"en": "Compare Cava, Prosecco and Asti (areas, grapes, method, style).",
+"it": "Confronta Cava, Prosecco e Asti (zone, uve, metodo, stile)."
+},
+{
+"en": "How do traditional-method sparkling wines from California, Australia/Tasmania, New Zealand and South Africa achieve elegance?",
+"it": "Come ottengono eleganza gli spumanti metodo tradizionale di California, Australia/Tasmania, Nuova Zelanda e Sudafrica?"
+},
+{
+"en": "Sparkling wines: viticulture, other methods and styles.",
+"it": "Spumanti: viticoltura, altri metodi e stili."
+},
+{
+"en": "What must grapes for sparkling wine be like, and why are cool climates fundamental?",
+"it": "Quali requisiti deve avere l'uva per spumante e perché i climi freschi sono fondamentali?"
+},
+{
+"en": "Describe carbonation and the Non-vintage, Vintage, Rosé, Blanc de Blancs, Blanc de Noirs, Crémant and Sekt styles.",
+"it": "Descrivi il metodo per carbonazione e gli stili Non-vintage, Vintage, Rosé, Blanc de Blancs, Blanc de Noirs, Crémant e Sekt."
+},
+{
+"en": "Wine storage and service.",
+"it": "Conservazione e servizio del vino."
+},
+{
+"en": "What long-term storage conditions are recommended and why?",
+"it": "Quali condizioni di conservazione a lungo termine si raccomandano e perché?"
+},
+{
+"en": "Explain serving temperatures for different styles and how to handle a sparkling wine, a red with sediment and a faulty wine.",
+"it": "Spiega le temperature di servizio per diversi stili e come affrontare il servizio di uno spumante, un rosso con deposito e un vino difettoso."
+},
+{
+"en": "Glassware, decanting and preserving opened bottles.",
+"it": "Bicchieri, decantazione e conservazione delle bottiglie aperte."
+},
+{
+"en": "Which glasses for reds, whites/rosés, sparkling and fortified wines, and how should they be prepared?",
+"it": "Quali bicchieri per rossi, bianchi/rosati, spumanti e fortificati, e come vanno preparati?"
+},
+{
+"en": "When is decanting needed, does 'airing' work, and how is an opened bottle preserved?",
+"it": "Quando serve decantare, aerare un vino serve, e come si conserva una bottiglia aperta?"
+},
+{
+"en": "California: Napa and Sonoma.",
+"it": "California: Napa e Sonoma."
+},
+{
+"en": "Explain how fog and San Pablo Bay affect Napa Valley and compare Los Carneros, the valley floor (Oakville, Rutherford) and the valley sides.",
+"it": "Spiega come la nebbia e San Pablo Bay influenzano i vigneti di Napa Valley e confronta Los Carneros, il fondovalle (Oakville, Rutherford) e i fianchi della valle."
+},
+{
+"en": "What characterises Russian River Valley, Sonoma Coast and Dry Creek Valley?",
+"it": "Che cosa caratterizza Russian River Valley, Sonoma Coast e Dry Creek Valley?"
+},
+{
+"en": "Zinfandel, Central Coast and Central Valley.",
+"it": "Zinfandel, Central Coast e Central Valley."
+},
+{
+"en": "Describe Zinfandel styles (sweet blush, full reds) and the variety's challenges.",
+"it": "Descrivi gli stili di Zinfandel (rosé dolce, rossi pieni) e i problemi della varietà."
+},
+{
+"en": "Compare the Central Coast (Monterey, Santa Barbara, Paso Robles) and the Central Valley/Lodi.",
+"it": "Confronta Central Coast (Monterey, Santa Barbara, Paso Robles) e Central Valley/Lodi."
+},
+{
+"en": "Oregon, Washington, New York and Canada.",
+"it": "Oregon, Washington, New York e Canada."
+},
+{
+"en": "Compare the climate and grapes of Willamette Valley (Oregon) and Columbia Valley (Washington).",
+"it": "Confronta il clima e le uve di Willamette Valley (Oregon) e Columbia Valley (Washington)."
+},
+{
+"en": "How is Canadian Icewine made, and why is Ontario suitable?",
+"it": "Come si produce l'Icewine canadese e perché l'Ontario è adatto?"
+},
+{
+"en": "USA: wine law and California overview.",
+"it": "Stati Uniti: leggi e quadro generale della California."
+},
+{
+"en": "Explain the AVA system and what can appear on the label.",
+"it": "Spiega il sistema delle AVA e cosa può comparire in etichetta."
+},
+{
+"en": "Describe California's climate and main styles of Cabernet Sauvignon, Chardonnay, Pinot Noir and Merlot.",
+"it": "Descrivi clima e principali stili californiani di Cabernet Sauvignon, Chardonnay, Pinot Noir e Merlot."
+},
+{
+"en": "Vineyard management: training and pruning.",
+"it": "Gestione del vigneto: forme di allevamento e potatura."
+},
+{
+"en": "Compare spur pruning (cordon) and replacement cane pruning (Guyot), bush vines and trellised vines, and why each is chosen.",
+"it": "Confronta potatura a sperone (cordone) e a capo (Guyot), alberello e spalliera, e perché si scelgono."
+},
+{
+"en": "What are vigour, canopy management and planting density, and how do they affect yield and quality?",
+"it": "Che cosa sono vigore, gestione della chioma e densità d'impianto e come incidono su resa e qualità?"
+},
+{
+"en": "Vineyard hazards, harvest and growing choices.",
+"it": "Rischi del vigneto, vendemmia e scelte di coltivazione."
+},
+{
+"en": "Describe the main pests and diseases (powdery mildew, downy mildew, botrytis, viruses) and their controls.",
+"it": "Descrivi parassiti e malattie principali (oidio, peronospora, botrytis, virus) e i mezzi di controllo."
+},
+{
+"en": "Hand versus machine harvesting: advantages and disadvantages.",
+"it": "Vendemmia manuale o meccanica: vantaggi e svantaggi."
+},
+{
+"en": "Sustainable, organic and biodynamic viticulture; irrigation.",
+"it": "Viticoltura sostenibile, biologica e biodinamica; irrigazione."
+},
+{
+"en": "Compare conventional, sustainable/integrated, organic and biodynamic approaches, and the pros and cons of drip and flood irrigation.",
+"it": "Confronta approcci convenzionale, sostenibile/integrato, biologico e biodinamico e spiega pro e contro dell'irrigazione a goccia e a scorrimento."
+},
+{
+"en": "Site selection, planting and old vines.",
+"it": "Scelta del sito, impianto e vigne vecchie."
+},
+{
+"en": "Which environmental, business and variety factors are assessed when choosing a new vineyard, and how is it planted?",
+"it": "Quali fattori ambientali, economici e varietali si valutano scegliendo un nuovo vigneto, e come si impianta?"
+},
+{
+"en": "What should you know about 'old vines' and replanting, and how does a grower reason in a hot dry climate versus a rainy coastal one?",
+"it": "Che cosa sapere sulle «vecchie vigne» e sui reimpianti, e come ragiona il viticoltore in un clima caldo e secco rispetto a uno costiero piovoso?"
+},
+{
+"en": "Vitis vinifera, American species and grafting.",
+"it": "Vitis vinifera, specie americane e innesti."
+},
+{
+"en": "What is phylloxera, and why are most vinifera vines grafted?",
+"it": "Che cos'è la fillossera e perché la maggior parte delle viti vinifera è innestata?"
+},
+{
+"en": "Besides phylloxera, why choose a particular rootstock, and what are crossings, hybrids and clones?",
+"it": "Oltre alla fillossera, perché si sceglie un portinnesto e che cosa sono incroci, ibridi e cloni?"
+},
+{
+"en": "Varieties, propagation and vine anatomy.",
+"it": "Varietà, propagazione e anatomia della vite."
+},
+{
+"en": "Why is a variety not propagated from seed, and how is it propagated? Why is breeding new varieties slow and costly?",
+"it": "Perché una varietà non si propaga da seme e come si propaga? Perché creare nuove varietà è lento e costoso?"
+},
+{
+"en": "Describe the parts of the vine (green parts, one-year-old wood, permanent wood, roots) and their functions.",
+"it": "Descrivi le parti della vite (parti verdi, legno di un anno, legno permanente, radici) e le loro funzioni."
+},
+{
+"en": "Winemaking: basic principles.",
+"it": "Vinificazione: principi di base."
+},
+{
+"en": "What does alcoholic fermentation need, and what is the effect of temperature, yeast and oxygen?",
+"it": "Che cosa serve per la fermentazione alcolica e come incidono temperatura, lieviti e ossigeno?"
+},
+{
+"en": "Explain the use of SO2, sugar and acid adjustments and the role of vessels (stainless steel, concrete, oak).",
+"it": "Spiega l'uso di SO2, l'aggiustamento di zucchero e acidità e il ruolo dei recipienti (acciaio, cemento, legno)."
+},
+{
+"en": "Maturation, clarification and bottling.",
+"it": "Maturazione, chiarifica e imbottigliamento."
+},
+{
+"en": "Compare fining, filtration and tartrate stabilisation.",
+"it": "Confronta chiarifica (fining), filtrazione e stabilizzazione tartarica."
+},
+{
+"en": "What does barrel maturation add compared with stainless steel, and which closures exist with their pros and cons?",
+"it": "Che cosa cambia nel vino con l'affinamento in botte rispetto all'acciaio e quali chiusure esistono con i loro pro e contro?"
+},
+{
+"en": "Raw material and early winery choices.",
+"it": "La materia prima e le scelte iniziali in cantina."
+},
+{
+"en": "Which parts of the grape matter in winemaking, and why?",
+"it": "Quali componenti dell'acino contano in vinificazione e perché?"
+},
+{
+"en": "Describe grape reception, destemming, crushing, pressing and why press fractions are separated.",
+"it": "Descrivi ricezione delle uve, diraspatura, pigiatura, pressatura e il motivo per separare le frazioni di pressa."
+},
+{
+"en": "White winemaking.",
+"it": "Vinificazione dei vini bianchi."
+},
+{
+"en": "Explain the choices for a fruity aromatic white (e.g. Sauvignon) versus a rich, complex white (e.g. oaked Chardonnay).",
+"it": "Spiega le scelte per un bianco fruttato aromatico (es. Sauvignon) rispetto a un bianco complesso e ricco (es. Chardonnay in legno)."
+},
+{
+"en": "What techniques produce sweet white wines (stopping fermentation, adding sweet reserve, concentration)?",
+"it": "Quali tecniche si usano per i bianchi dolci (fermentazione arrestata, aggiunta di mosto, concentrazione)?"
+},
+{
+"en": "High-volume and premium whites.",
+"it": "Bianchi di grande volume e bianchi premium."
+},
+{
+"en": "How is a high-volume inexpensive white (e.g. warm-climate Chardonnay or Pinot Grigio) made?",
+"it": "Come si produce un bianco economico di grande volume (es. Chardonnay o Pinot Grigio di clima caldo)?"
+},
+{
+"en": "Compare Sauvignon Blanc and Chardonnay styles across regions according to the chapter.",
+"it": "Confronta lo stile di Sauvignon Blanc e Chardonnay in diverse regioni secondo il capitolo."
+},
+{
+"en": "Riesling and Pinot Gris/Grigio.",
+"it": "Riesling e Pinot Gris/Grigio."
+},
+{
+"en": "Why does Riesling suit cool climates and a range of sweetness levels, and how does it age?",
+"it": "Perché il Riesling si adatta ai climi freschi e a diversi livelli di dolcezza, e come evolve?"
+},
+{
+"en": "Compare Pinot Gris from Alsace and New Zealand with Pinot Grigio from north-east Italy and the Veneto.",
+"it": "Confronta Pinot Gris d'Alsazia e Nuova Zelanda con Pinot Grigio del Nord-Est italiano e del Veneto."
+},
+{
+"en": "The Southern Rhône produces red and rosé wines.",
+"it": "La valle del Rodano meridionale produce vini rossi e rosati."
+},
+{
+"en": "Name and describe TWO methods of producing rosé wines in the Southern Rhône.",
+"it": "Indica e descrivi DUE metodi di produzione dei vini rosati nella valle del Rodano meridionale."
+},
+{
+"en": "Direct pressing: black grapes pressed straight away (often whole bunches), the juice picks up very little colour → very pale, delicate, light rosés; cool fermentation in inert vessels, like a white. Short maceration: crushed black grapes left in contact with the skins from a few hours to a few days, kept cool; juice then run off/pressed and fermented like a white at low temperature → more colour, flavour and some tannin, deeper and fuller rosés (e.g. Tavel, Lirac); colour depends on maceration time and variety (Grenache, Cinsault). Blending red and white wine is not allowed for still PDO rosé in the EU. Usually no oak or MLF, to preserve primary fruit.",
+"it": "Pressatura diretta: uve nere pressate subito (spesso grappoli interi), il mosto prende pochissimo colore → rosati molto chiari, delicati, leggeri; fermentazione fresca in recipienti inerti, come un bianco. Breve macerazione: uve nere pigiate lasciate a contatto con le bucce da qualche ora a qualche giorno, al fresco; poi il mosto si separa/pressa e fermenta come un bianco a bassa temperatura → più colore, più sapore e un po' di tannino, rosati più intensi e pieni (es. Tavel, Lirac); il colore dipende da durata della macerazione e vitigno (Grenache, Cinsault). Il taglio di vino rosso e bianco non è ammesso per i rosati fermi DOP nell'UE. Niente legno né malolattica di solito, per preservare il frutto primario."
+},
+{
+"en": "A large share of wines labelled Côtes du Rhône is made using semi-carbonic maceration. What must be considered when selecting the bunches for semi-carbonic maceration?",
+"it": "Una buona parte dei vini etichettati Côtes du Rhône è prodotta con la macerazione semi-carbonica. Di quali aspetti bisogna tenere conto nella scelta dei grappoli per la macerazione semi-carbonica?"
+},
+{
+"en": "Whole, undamaged bunches (hand-picked, not machine-harvested) so the berries stay intact for intracellular fermentation; healthy grapes free of rot; ripe stems, otherwise green, bitter, astringent tannins.",
+"it": "Grappoli interi e integri (vendemmia a mano, non a macchina) perché gli acini restino intatti per la fermentazione intracellulare; uve sane, senza marciume; raspi maturi, altrimenti danno tannini verdi, amari e astringenti."
+},
+{
+"en": "Describe the process of semi-carbonic maceration.",
+"it": "Descrivi il processo della macerazione semi-carbonica."
+},
+{
+"en": "Whole bunches put in the vat (not filled with CO2 beforehand, unlike full carbonic maceration); their weight crushes the lower berries, that juice ferments normally with yeast and produces CO2, which rises and envelops the intact bunches above; inside the whole berries an intracellular fermentation takes place (enzymes, no yeast, up to about 2% abv) creating distinctive fruity aromas; the skins split; after some days the grapes are pressed and fermentation finishes off the skins. Result: colour extracted but little tannin; soft, fruity wines with kirsch, banana, cinnamon notes, for early drinking.",
+"it": "Grappoli interi messi in vasca (senza riempirla prima di CO2, a differenza della carbonica pura); il peso schiaccia gli acini in basso, il mosto fermenta normalmente con i lieviti e produce CO2 che sale e avvolge i grappoli intatti sopra; dentro gli acini interi avviene una fermentazione intracellulare (enzimi, senza lieviti, fino a circa 2% di alcol) che crea aromi fruttati tipici; le bucce si rompono; dopo qualche giorno si pressa e la fermentazione si completa senza bucce. Risultato: colore estratto ma pochi tannini, vini morbidi e fruttati con note di kirsch, banana, cannella, da bere giovani."
+},
+{
+"en": "Describe the characteristic style of an entry-level red Côtes du Rhône, just bottled and made by carbonic or semi-carbonic maceration.",
+"it": "Descrivi lo stile caratteristico di un Côtes du Rhône rosso d'entrata di gamma appena imbottigliato e prodotto con macerazione carbonica o semi-carbonica."
+},
+{
+"en": "Aromas: fresh, ripe red fruit (strawberry, raspberry, red cherry); from carbonic maceration kirsch, banana, bubble gum, cinnamon; sometimes pepper/spice (Grenache, Syrah); primary only, no oak. Sweetness: dry. Tannin: low to medium(-), soft. Body: light to medium(-)/medium. Ageing: drink now, not suitable for ageing.",
+"it": "Aromi: frutti rossi freschi e maturi (fragola, lampone, ciliegia rossa), dalla macerazione carbonica kirsch, banana, gomma da masticare, cannella; a volte pepe/spezie (Grenache, Syrah); solo primari, niente legno. Dolcezza: secco. Tannino: basso o medio(-), morbido. Corpo: leggero o medio(-)/medio. Potenziale: da bere ora, non adatto all'invecchiamento."
+},
+{
+"en": "Red Côtes du Rhône wines are often blends. Describe the style reasons and the practical reasons why a grower in this region may choose to blend.",
+"it": "I rossi Côtes du Rhône sono spesso vini di taglio. Descrivi le ragioni di stile e le ragioni pratiche per cui un viticoltore di questa regione può scegliere il taglio."
+},
+{
+"en": "Style: Grenache (dominant) gives body, high alcohol, red fruit, spice but pale colour, low-medium tannin and oxidises easily; Syrah adds colour, tannin, black fruit, pepper; Mourvèdre tannin, colour, meaty notes, structure; Cinsault fresh fruit and lightness; Carignan colour, acidity, tannin → balance, complexity, consistent house style. Practical: spreads risk (varieties bud, flower and ripen at different times, so frost, Grenache coulure, hail, drought, rot hit them differently); staggers harvest and winery work; consistent volumes and style year after year; Côtes du Rhône rules require a blend with minimum Grenache and Syrah/Mourvèdre.",
+"it": "Stile: il Grenache (dominante) dà corpo, alcol alto, frutti rossi, spezie, ma colore chiaro, tannino medio-basso e si ossida facilmente; la Syrah aggiunge colore, tannino, frutti neri, pepe; il Mourvèdre tannino, colore, note carnose, struttura; il Cinsault frutto fresco e leggerezza; il Carignan colore, acidità, tannino → equilibrio, complessità, stile costante della casa. Pratiche: ripartire i rischi (vitigni con germogliamento, fioritura e maturazione in momenti diversi: gelo, colatura del Grenache, grandine, siccità, marciume colpiscono in modo diverso); scaglionare vendemmia e lavoro in cantina; volumi e stile costanti di anno in anno; il disciplinare Côtes du Rhône prevede un taglio con minimo di Grenache e Syrah/Mourvèdre."
+},
+{
+"en": "Pinot Grigio / Pinot Gris is widely planted around the world and made in different styles.",
+"it": "Il Pinot Grigio / Pinot Gris è ampiamente coltivato nel mondo e prodotto in stili diversi."
+},
+{
+"en": "Under the headings below, describe the two wines shown above.",
+"it": "Nelle rubriche qui sotto descrivi i due vini illustrati sopra."
+},
+{
+"en": "Wine A (inexpensive Pinot Grigio Veneto IGT): dry (sometimes just off-dry), light body, medium(+) acidity; neutral or delicate green apple, pear, lemon, sometimes blossom; simple, short finish; acceptable to good quality, drink young. Wine B (Alsace Grand Cru Pinot Gris Vendange Tardive): medium-sweet to sweet, full body, high alcohol, oily texture, medium acidity; pronounced ripe stone fruit (peach, apricot), tropical fruit, honey, ginger/spice, smoky; sometimes noble rot notes (dried apricot, honey); complex and long; very good to outstanding.",
+"it": "Vino A (Pinot Grigio Veneto IGT, economico): secco (a volte appena abboccato), corpo leggero, acidità media(+); aromi neutri o delicati di mela verde, pera, limone, a volte fiori; semplice, finale corto; qualità accettabile o buona, da bere giovane. Vino B (Pinot Gris Alsace Grand Cru Vendange Tardive): da amabile a dolce, corpo pieno, alcol alto, consistenza untuosa, acidità media; aromi pronunciati di frutta a nocciolo matura (pesca, albicocca), frutta tropicale, miele, zenzero/spezie, affumicato; a volte note di muffa nobile (albicocca secca, miele); complesso e lungo; qualità molto buona o eccezionale."
+},
+{
+"en": "Qualità attesa",
+"it": "Dolcezza e corpo"
+},
+{
+"en": "Qualité attendue",
+"it": "Douceur et corps"
+},
+{
+"en": "Expected quality",
+"it": "Sweetness and body"
+},
+{
+"en": "Describe the key natural factors in Alsace and explain how they contribute to the style of wine B.",
+"it": "Descrivi i fattori naturali chiave dell'Alsazia e spiega come contribuiscono allo stile del vino B."
+},
+{
+"en": "Northerly latitude, cool to moderate continental climate, but the Vosges block rain-bearing westerly winds (rain shadow) → one of France's driest, sunniest regions; long, dry, sunny autumns → late harvesting, passerillage (Vendange Tardive), sometimes noble rot; warm days and cool nights keep acidity; the best grands crus are on steep south/south-east-facing slopes in the Vosges foothills (Rangen is very steep, on warm volcanic soils) → maximum sun, warmth and drainage → high sugar, concentration, potential alcohol and residual sugar; very varied soils add character; low disease pressure.",
+"it": "Latitudine settentrionale, clima continentale da fresco a moderato, ma i Vosgi bloccano i venti piovosi da ovest (ombra pluviometrica) → una delle regioni più secche e soleggiate di Francia; autunni lunghi, secchi e soleggiati → vendemmia tardiva, appassimento in pianta (Vendange Tardive), a volte muffa nobile; giornate calde e notti fresche conservano l'acidità; i migliori grand cru sono su pendii ripidi esposti a sud/sud-est ai piedi dei Vosgi (il Rangen è ripidissimo, su suoli vulcanici caldi) → massimo sole, calore e drenaggio → zuccheri alti, concentrazione, alcol potenziale e zucchero residuo; suoli molto vari danno carattere; poca pressione di malattie."
+}
+]

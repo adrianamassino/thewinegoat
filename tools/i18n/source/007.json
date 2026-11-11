@@ -1,0 +1,806 @@
+[
+{
+"en": "Why is acidity in food generally good for pairing, and when does it become a problem?",
+"it": "Perché l'acidità nel cibo è in generale positiva per l'abbinamento, e quando diventa un problema?"
+},
+{
+"en": "It balances very acidic wines and lifts fruit; but a low-acid wine then seems flat and flabby",
+"it": "Bilancia i vini molto acidi ed esalta il frutto; ma con un vino poco acido lo rende piatto e molle"
+},
+{
+"en": "It raises bitterness and tannin, so it is a problem with structured reds, never with whites",
+"it": "Aumenta amaro e tannino del vino, quindi è un problema con i rossi strutturati, mai con i bianchi"
+},
+{
+"en": "It makes the wine more tannic and harsh, especially with aromatic whites",
+"it": "Rende il vino più tannico e duro, soprattutto con i bianchi aromatici"
+},
+{
+"en": "No effect on the wine, except making it seem slightly more alcoholic and hot",
+"it": "Non ha effetto sul vino, salvo renderlo un po' più alcolico"
+},
+{
+"en": "Acidity in food increases the wine's perceived body, sweetness and fruitiness and decreases its perceived acidity. So it can bring a very high-acid wine into balance and enhance its fruit. But if the wine is low in acidity, a high-acid food makes it seem flat, flabby and unfocused: acidic food needs acidic wine.",
+"it": "L'acidità nel cibo aumenta la percezione di corpo, dolcezza e fruttuosità del vino e diminuisce quella della sua acidità. Per questo può portare in equilibrio un vino con acidità molto alta ed esaltarne il frutto. Se però l'acidità del vino è bassa, un cibo molto acido lo fa sembrare piatto, molle e senza focus: i cibi acidi vanno con vini acidi."
+},
+{
+"en": "What effect does salt in food have on wine?",
+"it": "Che effetto ha il sale del cibo sul vino?"
+},
+{
+"en": "Increases body; decreases astringency, bitterness and acidity",
+"it": "Aumenta il corpo; riduce astringenza, amaro e acidità"
+},
+{
+"en": "Increases bitterness and astringency; reduces body, fruit and sweetness",
+"it": "Aumenta amaro e astringenza; riduce corpo, frutto e dolcezza"
+},
+{
+"en": "Increases acidity; decreases body and alcohol warmth",
+"it": "Aumenta l'acidità; riduce il corpo e il calore alcolico"
+},
+{
+"en": "It reduces body and fruit, and increases alcohol burn",
+"it": "Riduce il corpo e il frutto; aumenta l'alcol"
+},
+{
+"en": "Salt is wine-friendly: it enhances fruit and softens astringency.",
+"it": "Il sale è un componente «amico» del vino: esalta il frutto e ammorbidisce l'astringenza."
+},
+{
+"en": "Salt in food increases perceived body in wine and decreases perceived astringency, bitterness and acidity. It is another wine-friendly component that can enhance fruit and soften astringency, so salty dishes are 'low-risk'. It does not increase bitterness or acidity or reduce body.",
+"it": "Il sale nel cibo aumenta la percezione di corpo nel vino e ne riduce la percezione di astringenza, amarezza e acidità. È un altro componente amico del vino, che può esaltarne il frutto e ammorbidirne l'astringenza: per questo i piatti salati sono considerati «a basso rischio». Non aumenta l'amarezza o l'acidità e non riduce il corpo."
+},
+{
+"en": "What happens when bitter food meets a bitter wine?",
+"it": "Che cosa succede quando un cibo amaro incontra un vino amaro?"
+},
+{
+"en": "The bitterness adds up and can become unpleasant",
+"it": "Gli amari si sommano e possono diventare sgradevoli"
+},
+{
+"en": "They cancel out, as bitter receptors become saturated",
+"it": "Si annullano, perché i recettori dell'amaro si saturano"
+},
+{
+"en": "The wine seems sweeter and fruitier",
+"it": "Il vino sembra più dolce e fruttato"
+},
+{
+"en": "No effect, as bitterness doesn't add up",
+"it": "Nessun effetto, perché l'amaro non si somma"
+},
+{
+"en": "Each bitterness alone may be pleasant, but together they can become unpleasant. Sensitivity varies greatly.",
+"it": "Ogni amaro da solo può essere piacevole, ma insieme superano la soglia. La sensibilità all'amaro varia molto da persona a persona."
+},
+{
+"en": "Bitterness in food increases perceived bitterness in wine. Sensitivity varies greatly between people. Generally bitter flavours add up: even if the food's bitterness alone is pleasant and the wine's is balanced, together they can become unpleasant. With bitter dishes, consider whites or low-tannin reds. They do not cancel out and the wine does not taste sweeter.",
+"it": "L'amaro nel cibo aumenta la percezione dell'amarezza nel vino. La sensibilità all'amaro varia molto da persona a persona. In generale i sapori amari si sommano: anche se l'amaro del cibo da solo è gradevole e quello del vino è in equilibrio, insieme possono raggiungere un livello sgradevole. Per questo con piatti amari conviene scegliere bianchi o rossi poco tannici. Non si annullano e il vino non diventa più dolce."
+},
+{
+"en": "What effect does chilli heat have on wine?",
+"it": "Che effetto ha il piccante del cibo sul vino?"
+},
+{
+"en": "Increases bitterness, astringency, acidity, alcohol burn; cuts body and fruit",
+"it": "Aumenta amaro, astringenza, acidità e alcol; riduce corpo, dolcezza e frutto"
+},
+{
+"en": "Increases body, sweetness and fruit; decreases bitterness, astringency and perceived alcohol",
+"it": "Aumenta corpo, dolcezza e frutto; riduce amaro, astringenza e la percezione dell'alcol"
+},
+{
+"en": "Makes the wine sweeter and rounder, reduces perceived alcohol and softens tannin",
+"it": "Rende il vino più dolce e rotondo, riduce l'alcol percepito e ammorbidisce il tannino"
+},
+{
+"en": "Increases perceived fruit and sweetness; reduces acidity, tannin and alcohol burn",
+"it": "Aumenta frutto e dolcezza percepiti; riduce acidità, tannino e calore alcolico"
+},
+{
+"en": "Effects are greater in high-alcohol wines; alcohol also increases the chilli burn.",
+"it": "Gli effetti sono maggiori nei vini molto alcolici; l'alcol a sua volta aumenta il bruciore del peperoncino."
+},
+{
+"en": "Chilli heat increases perceived bitterness, astringency, acidity and alcohol burn in wine, and decreases body, richness, sweetness and fruit. Effects are greater in high-alcohol wines, and alcohol in turn heightens the chilli burn (some enjoy this). Sensitivity varies widely. It does not sweeten the wine, reduce perceived alcohol or increase fruit.",
+"it": "Il piccante (chilli) aumenta la percezione di amarezza, astringenza, acidità e bruciore dell'alcol nel vino, e riduce la percezione di corpo, ricchezza, dolcezza e frutto. Gli effetti sono maggiori nei vini molto alcolici, e l'alcol a sua volta accentua il bruciore del piccante (alcuni lo apprezzano). La sensibilità varia molto. Non rende il vino più dolce, non riduce l'alcol percepito e non aumenta il frutto."
+},
+{
+"en": "An intensely flavoured dish like a curry can go with:",
+"it": "Un piatto molto saporito come un curry può andare con:"
+},
+{
+"en": "A simple, non-aromatic, unoaked white",
+"it": "Un bianco semplice, non aromatico e senza legno"
+},
+{
+"en": "Only a very tannic, alcoholic red",
+"it": "Solo un rosso molto tannico e alcolico, che regge le spezie"
+},
+{
+"en": "Only a sweet fortified wine, such as Port",
+"it": "Solo un vino fortificato dolce, come un Porto"
+},
+{
+"en": "No wine at all: beer or water is better",
+"it": "Nessun vino: meglio la birra o l'acqua"
+},
+{
+"en": "Intensities are usually matched, but there are exceptions like this.",
+"it": "Di solito si abbinano le intensità, ma ci sono eccezioni come questa."
+},
+{
+"en": "It is usually desirable to match food and wine flavour intensity so neither overpowers the other. But sometimes an intensely flavoured dish such as a curry can partner a lightly flavoured wine like a simple, non-aromatic, unoaked white. A very tannic red would be risky with chilli; fortified or no wine is not 's answer.",
+"it": "Di solito è desiderabile abbinare l'intensità aromatica di cibo e vino, perché uno non sovrasti l'altro. In alcuni casi però un piatto molto saporito, come un curry, può abbinarsi con successo a un vino dal sapore leggero, come un bianco semplice, non aromatico e senza legno. Un rosso molto tannico sarebbe rischioso con il piccante; fortificati o nessun vino non sono la risposta."
+},
+{
+"en": "Why do many people enjoy acidic wines with fatty foods?",
+"it": "Perché vini acidi e cibi grassi piacciono a molte persone?"
+},
+{
+"en": "Acidity 'cuts through' richness and cleans the palate",
+"it": "L'acidità «taglia» la ricchezza e pulisce il palato"
+},
+{
+"en": "Fat raises the wine's acidity and makes it livelier",
+"it": "Il grasso alza l'acidità del vino e lo rende più vivace"
+},
+{
+"en": "The wine seems sweeter and rounder with fat",
+"it": "Il vino sembra più dolce e rotondo con il grasso"
+},
+{
+"en": "Fat masks the wine's alcohol and warmth",
+"it": "Il grasso nasconde l'alcol e il calore del vino"
+},
+{
+"en": "It is subjective, but most people find it satisfying.",
+"it": "È un effetto soggettivo, ma la maggior parte delle persone lo trova piacevole."
+},
+{
+"en": "Most people find acidic wines with fatty or oily foods very satisfying: the acidic wine seems to 'cut through' the richness and cleanse the palate. This is subjective, though. Fat does not raise acidity, sweeten the wine or hide alcohol.",
+"it": "Alla maggior parte delle persone piace molto la combinazione di vini acidi con cibi grassi o oleosi: l'abbinamento dà la piacevole sensazione che l'acidità del vino «tagli» la ricchezza del cibo e pulisca il palato. È però un effetto soggettivo. Il grasso non aumenta l'acidità, non rende il vino più dolce e non nasconde l'alcol."
+},
+{
+"en": "Which pairing is a classic sweet-and-salty example?",
+"it": "Quale abbinamento è un esempio classico di dolce e salato?"
+},
+{
+"en": "Sweet wine and blue cheese",
+"it": "Vino dolce e formaggio erborinato"
+},
+{
+"en": "Brut Champagne and raw oysters",
+"it": "Champagne Brut e ostriche crude"
+},
+{
+"en": "Tannic red and grilled red meat",
+"it": "Rosso tannico e carne rossa alla griglia"
+},
+{
+"en": "Sancerre and goat's cheese",
+"it": "Sancerre e formaggio di capra"
+},
+{
+"en": "The sweet-salty pleasure is subjective but leads to very successful pairings.",
+"it": "Il piacere del dolce-salato è soggettivo, ma porta ad abbinamenti molto riusciti."
+},
+{
+"en": "Enjoying sweet with salty is also subjective, but many love it and it gives very successful pairings: Experts cite sweet wine with blue cheese, like the classic Stilton and Port. Champagne and oysters rely on acidity and no oak; red with red meat is another rule; Sancerre and goat's cheese is acid with acid.",
+"it": "Anche il piacere di combinare dolce e salato è soggettivo, ma molti lo apprezzano e porta ad abbinamenti di grande successo: Si citano vino dolce e formaggio erborinato (blu), come il classico Stilton con il Porto. Champagne e ostriche si basano su acidità e assenza di legno; rosso e carne rossa è un'altra regola; Sancerre e formaggio di capra un classico acido con acido."
+},
+{
+"en": "A high-sugar dish is a 'high-risk' food. What wine does it need?",
+"it": "Un piatto con molto zucchero è un cibo «ad alto rischio». Che vino richiede?"
+},
+{
+"en": "A wine with at least as much sugar",
+"it": "Un vino con almeno altrettanto zucchero"
+},
+{
+"en": "A dry, acidic white that balances sugar with freshness",
+"it": "Un bianco secco acido, che bilancia lo zucchero con la freschezza"
+},
+{
+"en": "A tannic red, whose bitterness counters the sweetness",
+"it": "Un rosso tannico, il cui amaro contrasta la dolcezza"
+},
+{
+"en": "A very alcoholic, full-bodied wine",
+"it": "Un vino molto alcolico e con molto corpo"
+},
+{
+"en": "If the wine is less sweet than the dish it will seem sour and thin.",
+"it": "Se il vino è meno dolce del piatto sembrerà acido e magro."
+},
+{
+"en": "Among 'high-risk' foods lists dishes high in sugar: they should be paired with a wine at least as sweet as the dish, otherwise the food makes the wine less fruity and unpleasantly acidic. A tannic red, very acidic dry white or high-alcohol wine does not solve it.",
+"it": "Tra i cibi «ad alto rischio» si elencano i piatti ricchi di zucchero: vanno abbinati a un vino che abbia almeno tanto zucchero quanto il piatto, altrimenti la dolcezza del cibo rende il vino meno fruttato e sgradevolmente acido. Un rosso tannico, un bianco secco molto acido o un vino molto alcolico non risolvono il problema."
+},
+{
+"en": "Salty food can make a wine seem:",
+"it": "I piatti salati possono far sembrare un vino:"
+},
+{
+"en": "Less bitter and less acidic",
+"it": "Meno amaro e meno acido"
+},
+{
+"en": "More bitter and less acidic",
+"it": "Più amaro e meno acido"
+},
+{
+"en": "More bitter and more acidic",
+"it": "Più amaro e più acido"
+},
+{
+"en": "Less bitter and more acidic",
+"it": "Meno amaro e più acido"
+},
+{
+"en": "Salt in food: wine less bitter and less acidic, smoother.",
+"it": "Sale nel cibo: vino meno amaro e meno acido, più morbido."
+},
+{
+"en": "Salt is wine-friendly: it reduces perceived bitterness (tannin) and acidity, making wine seem smoother. Sweetness and umami do the opposite, increasing bitterness and acidity.",
+"it": "Il sale nel cibo è un elemento «amico» del vino: riduce la percezione di amaro (tannino) e di acidità, facendo sembrare il vino più morbido. Al contrario, cibi dolci e umami aumentano amaro e acidità."
+},
+{
+"en": "What is the general rule on flavour intensity of food and wine?",
+"it": "Qual è la regola generale sull'intensità dei sapori di cibo e vino?"
+},
+{
+"en": "They are usually matched so neither overwhelms the other, with exceptions",
+"it": "Di solito vanno abbinate perché nessuno sovrasti l'altro, con eccezioni"
+},
+{
+"en": "The wine must always be more intense than the food, so it isn't lost",
+"it": "Il vino deve essere sempre più intenso del cibo, per non sparire"
+},
+{
+"en": "The food must always be more intense than the wine, to show it off",
+"it": "Il cibo deve essere sempre più intenso del vino, per esaltarlo"
+},
+{
+"en": "Intensity doesn't matter: only the structural components do",
+"it": "L'intensità non conta: conta solo la struttura dei componenti"
+},
+{
+"en": "It is usually desirable to match the flavour intensities of food and wine so one does not overpower the other. Experts note, though, that an intensely flavoured food such as a curry can sometimes partner a lightly flavoured wine, such as a simple, non-aromatic, unoaked white.",
+"it": "In genere è desiderabile che l'intensità dei sapori di cibo e vino sia accordata, così che uno non sovrasti l'altro. Si nota però che in certi casi un cibo molto saporito, come un curry, può andare bene con un vino delicato, come un semplice bianco non aromatico e senza legno."
+},
+{
+"en": "A very hot curry: which wine is riskiest?",
+"it": "Un curry molto piccante: quale vino è il più rischioso?"
+},
+{
+"en": "A very tannic, high-alcohol red",
+"it": "Un rosso molto tannico e molto alcolico"
+},
+{
+"en": "A fruity white with a little sugar",
+"it": "Un bianco fruttato con un po' di zucchero"
+},
+{
+"en": "A light, fresh, low-tannin red",
+"it": "Un rosso leggero e poco tannico, fresco"
+},
+{
+"en": "Chilli heightens bitterness, astringency and alcohol burn: high tannin and alcohol are worst.",
+"it": "Il piccante aumenta amarezza, astringenza e bruciore dell'alcol: tannino e alcol alti sono il peggio."
+},
+{
+"en": "Chilli increases bitterness, astringency, acidity and alcohol burn and reduces body, richness, sweetness and fruit, more so in high-alcohol wines. It recommends whites or low-tannin reds, not high in alcohol, with more fruit or sweetness. It adds that an intense curry can pair with a light, simple, non-aromatic, unoaked white. A tannic, alcoholic red is therefore riskiest.",
+"it": "Il piccante aumenta amarezza, astringenza, acidità e bruciore dell'alcol e riduce corpo, ricchezza, dolcezza e frutto; gli effetti sono maggiori nei vini molto alcolici. Consiglia per i piatti piccanti bianchi o rossi poco tannici, non molto alcolici, con più frutto o dolcezza. Aggiunge che un piatto intenso come un curry può abbinarsi a un vino leggero come un bianco semplice, non aromatico e senza legno. Un rosso tannico e alcolico è quindi il più rischioso."
+},
+{
+"en": "Sensitivity to bitterness: what should you know?",
+"it": "Sensibilità all'amaro: che cosa bisogna sapere?"
+},
+{
+"en": "It varies widely: someone sensitive to one bitter compound may not be to another",
+"it": "Varia molto, e chi è sensibile a un composto amaro può essere poco sensibile a un altro"
+},
+{
+"en": "It is the same for everyone, depending only on the concentration of bitter compounds",
+"it": "È uguale per tutti, perché dipende solo dalla concentrazione dei composti amari nel vino"
+},
+{
+"en": "It only concerns skin-macerated whites and very young, tannic reds",
+"it": "Riguarda solo i vini bianchi macerati sulle bucce e i rossi molto giovani"
+},
+{
+"en": "It is cancelled by salt, so it only matters with sweet dishes and desserts",
+"it": "È annullata dal sale, quindi conta solo con i piatti dolci e i dessert"
+},
+{
+"en": "Sensitivity to bitterness varies greatly from person to person, and someone very sensitive to one bitter compound may be relatively insensitive to another. Bitter flavours generally add up: food and wine bitterness, each pleasant alone, can combine to an unpleasant level. This is very subjective.",
+"it": "La sensibilità ai sapori amari varia molto da persona a persona, e chi è molto sensibile a un composto amaro può esserlo poco a un altro. In generale i sapori amari si sommano: amaro nel cibo e amaro nel vino, ciascuno gradevole da solo, possono insieme diventare sgradevoli. È un effetto molto soggettivo."
+},
+{
+"en": "How do chilli heat and wine alcohol interact?",
+"it": "Come interagiscono piccante del peperoncino e alcol del vino?"
+},
+{
+"en": "Chilli affects high-alcohol wines more, and alcohol in turn boosts the chilli burn",
+"it": "Il piccante pesa di più nei vini alcolici, e l'alcol aumenta il bruciore del peperoncino"
+},
+{
+"en": "Alcohol cancels chilli burn, so high-alcohol wines suit spicy food best",
+"it": "L'alcol annulla il bruciore del peperoncino, quindi i vini alcolici sono i più adatti"
+},
+{
+"en": "Chilli lowers perceived alcohol, so warm, alcoholic wines seem fresher",
+"it": "Il peperoncino riduce l'alcol percepito, quindi i vini caldi sembrano più freschi"
+},
+{
+"en": "They do not interact: chilli heat affects only the wine's tannin and acidity",
+"it": "Non interagiscono: il piccante agisce solo su tannino e acidità del vino"
+},
+{
+"en": "Chilli heat is a warming or burning sensation with very variable sensitivity and liking. Its effects (more bitterness, astringency, acidity and alcohol burn; less body, richness, sweetness and fruit) are greater in high-alcohol wines. Alcohol in turn increases the chilli burn, which some people enjoy. Hence whites or low-tannin reds, not high in alcohol, with more fruit or sweetness.",
+"it": "Il piccante è una sensazione di calore o bruciore, con sensibilità e gradimento molto variabili. I suoi effetti (più amaro, astringenza, acidità e bruciore dell'alcol; meno corpo, ricchezza, dolcezza e frutto) sono maggiori nei vini con alcol alto. A sua volta l'alcol aumenta il bruciore del peperoncino, effetto che ad alcuni piace. Per questo con piatti piccanti si consigliano bianchi o rossi poco tannici non alcolici, con più frutto o dolcezza."
+},
+{
+"en": "With a very umami-rich dish, what does the wine need to cope?",
+"it": "Con un piatto molto ricco di umami, di che cosa ha bisogno il vino per «resistere»?"
+},
+{
+"en": "Elements such as concentrated fruit, as umami stresses astringency and bitterness",
+"it": "Componenti come frutto concentrato: l'umami accentua astringenza e amaro"
+},
+{
+"en": "As much tannin as possible, since umami softens the wine's tannins",
+"it": "Il massimo di tannino possibile, perché l'umami ammorbidisce i tannini del vino"
+},
+{
+"en": "Very high alcohol and full body, which mask bitterness and warm the finish",
+"it": "Un alcol molto alto e un corpo pieno, che coprono l'amaro e danno calore al finale"
+},
+{
+"en": "Plenty of new oak, whose toasty aromas balance out the dish's umami",
+"it": "Molto legno nuovo, i cui aromi tostati bilanciano l'umami del piatto"
+},
+{
+"en": "Experts list umami as a 'high-risk' food: it emphasises tannin astringency and bitterness, so the chosen wine needs components such as concentrated fruit flavours to cope. Alternatively, the dish can be balanced with acid or salt if in keeping with its character. More tannin or oak would worsen the effect.",
+"it": "Si classifica l'umami tra i cibi «ad alto rischio»: esalta l'astringenza e l'amaro dei tannini, quindi il vino scelto deve avere componenti, come sapori di frutto concentrati, capaci di reggere questo cambiamento. In alternativa si può bilanciare il piatto con acido o sale, se coerente con il suo carattere. Più tannino o legno peggiorerebbero l'effetto."
+},
+{
+"en": "A salty dish: how does it change the way the wine tastes?",
+"it": "Un piatto salato: come cambia la percezione del vino?"
+},
+{
+"en": "It reduces perceived bitterness, astringency and acidity; increases body",
+"it": "Riduce amaro, astringenza e acidità percepiti; aumenta il corpo"
+},
+{
+"en": "It increases perceived bitterness, astringency and acidity; reduces body",
+"it": "Aumenta amaro, astringenza e acidità percepiti; riduce il corpo"
+},
+{
+"en": "It increases the perception of alcohol and burn",
+"it": "Aumenta la percezione dell'alcol e del bruciore"
+},
+{
+"en": "Makes the wine sweeter, less fruity and more alcoholic",
+"it": "Rende il vino più dolce, meno fruttato e più alcolico"
+},
+{
+"en": "Salt = wine-friendly: less bitterness, astringency and acidity, more body.",
+"it": "Sale = alleato del vino: meno amaro, astringenza e acidità, più corpo."
+},
+{
+"en": "Salt is one of the most wine-friendly components: it softens bitterness, astringency and acidity and makes the wine seem fuller-bodied. The opposite effect (more bitterness, astringency and acidity, less body and fruit) is that of sweetness and umami in food: mixing up the two is the trap.",
+"it": "Il sale è uno dei componenti più favorevoli al vino: attenua amaro, astringenza e acidità e fa sembrare il vino più corposo. L'effetto opposto (più amaro, astringenza e acidità, meno corpo e frutto) è quello di dolcezza e umami nel cibo: confondere le due direzioni è la trappola."
+},
+{
+"en": "With a dish high in chilli heat, which wine is best?",
+"it": "Con un piatto molto piccante, quale vino conviene?"
+},
+{
+"en": "A white or low-tannin red, not too alcoholic, with fruit or sweetness",
+"it": "Un bianco o un rosso poco tannico e poco alcolico, con frutto o dolcezza"
+},
+{
+"en": "A very tannic, alcoholic, oaky red that stands up to the chilli",
+"it": "Un rosso molto tannico e alcolico, con legno nuovo, che regge il peperoncino"
+},
+{
+"en": "A dry fortified wine, such as a well-chilled Fino Sherry",
+"it": "Un vino fortificato secco, come uno Sherry Fino servito molto freddo"
+},
+{
+"en": "A very oaky, creamy white with high alcohol and low acidity",
+"it": "Un bianco molto legnoso e cremoso, con alcol alto e acidità bassa"
+},
+{
+"en": "Chilli heightens tannin and alcohol and strips fruit and sweetness, so choose wines that compensate.",
+"it": "Il piccante aumenta tannini e alcol e toglie frutto e dolcezza: servono vini che compensino."
+},
+{
+"en": "Dishes high in chilli heat suit whites or low-tannin reds, neither high in alcohol (chilli heightens bitterness, astringency and alcohol burn). Since chilli also reduces fruit and sweetness, choose wines with more of these to soften the effect. A tannic, high-alcohol red, a dry fortified or a heavily oaked white would be worst.",
+"it": "I piatti molto piccanti vanno abbinati a vini bianchi o rossi poco tannici, nessuno dei quali dovrebbe essere molto alcolico (il piccante aumenta amarezza, astringenza e bruciore dell'alcol). Poiché il piccante riduce anche fruttato e dolcezza del vino, conviene scegliere vini con più frutto o un po' di dolcezza per attenuare l'effetto. Un rosso tannico e alcolico, un fortificato secco o un bianco molto legnoso sarebbero i peggiori."
+},
+{
+"en": "How can a high-umami dish be balanced?",
+"it": "Come si può bilanciare un piatto con molto umami?"
+},
+{
+"en": "By adding acid or salt, if in keeping with the dish",
+"it": "Aggiungendo acido o sale, se in linea con il piatto"
+},
+{
+"en": "By adding sugar or honey, which balance bitterness",
+"it": "Aggiungendo zucchero o miele, che bilanciano l'amaro"
+},
+{
+"en": "By adding chilli, which masks the umami",
+"it": "Aggiungendo peperoncino, che copre l'umami"
+},
+{
+"en": "By serving a very tannic, structured red",
+"it": "Servendo un rosso molto tannico e strutturato"
+},
+{
+"en": "Salt and acid offset umami's hardening effect; the wine still needs concentrated fruit.",
+"it": "Sale e acido compensano l'effetto «induritivo» dell'umami; il vino scelto deve comunque avere frutto concentrato."
+},
+{
+"en": "Umami emphasises tannin astringency and bitterness, so the wine needs components such as concentrated fruit to cope. Also, high umami in a dish can be balanced by adding acid or salt, if in keeping with the dish (salt and acid soften wine). Sugar and chilli would harden the wine further; a very tannic red would turn more bitter.",
+"it": "L'umami nel cibo esalta astringenza e amarezza dei tannini, quindi il vino scelto deve avere componenti, come frutto concentrato, capaci di reggere il cambiamento. Inoltre livelli alti di umami in un piatto si possono bilanciare aggiungendo acidità o sale, purché sia coerente con il carattere del piatto (sale e acido ammorbidiscono il vino). Zucchero e piccante indurirebbero ancora di più il vino; un rosso molto tannico diventerebbe più amaro."
+},
+{
+"en": "Which foods are 'low-risk' with wine?",
+"it": "Quali cibi sono «a basso rischio» con il vino?"
+},
+{
+"en": "Dishes high in salt and/or acid",
+"it": "Piatti ricchi di sale e/o acidità"
+},
+{
+"en": "Very sweet dishes, sugar softens wine",
+"it": "Piatti dolci: lo zucchero ammorbidisce"
+},
+{
+"en": "Very spicy, chilli-hot dishes",
+"it": "Piatti molto piccanti e speziati"
+},
+{
+"en": "Very bitter and smoky dishes",
+"it": "Piatti molto amari e affumicati"
+},
+{
+"en": "Note: high-acid foods need high-acid wines, or the wine seems flabby.",
+"it": "Attenzione però: i cibi molto acidi vanno con vini molto acidi, altrimenti il vino sembra molle."
+},
+{
+"en": "Dishes high in salt and/or acid generally pair well with wine, as these soften it and make it fruitier: 'low-risk' foods. Note, though, that high-acid foods should be matched with high-acid wines, or the wine can seem too soft and flabby. Very sweet, hot or bitter dishes are 'high-risk'.",
+"it": "I piatti ricchi di sale e/o acidità in genere si abbinano bene al vino, perché questi componenti lo rendono più morbido e fruttato: sono cibi «a basso rischio». Va però notato che i cibi molto acidi andrebbero abbinati a vini molto acidi, altrimenti il vino può sembrare troppo morbido e molle. I piatti molto dolci, piccanti o amari sono invece «ad alto rischio»."
+},
+{
+"en": "Which wines are the most problematic to pair?",
+"it": "Quali vini sono i più problematici da abbinare?"
+},
+{
+"en": "Those high in bitterness and tannin, acidity, alcohol and complex flavours",
+"it": "Quelli ricchi di amaro e tannino (uva e legno), acidità, alcol e aromi complessi"
+},
+{
+"en": "Simple unoaked whites, as they lack the structure to stand up to food flavours",
+"it": "I bianchi semplici senza legno, perché non hanno abbastanza struttura per reggere i sapori del cibo"
+},
+{
+"en": "Those with a little residual sugar, which clash with almost all savoury dishes",
+"it": "Quelli con un po' di zucchero residuo, che entrano in conflitto con quasi tutti i piatti salati"
+},
+{
+"en": "Light rosés and neutral whites, which vanish alongside any flavourful dish",
+"it": "I rosati leggeri e i bianchi neutri, che scompaiono con qualsiasi piatto saporito"
+},
+{
+"en": "More structural components mean more interactions: harder but potentially more interesting.",
+"it": "Più componenti strutturali ci sono, più interazioni possibili: abbinamenti più difficili ma anche più interessanti."
+},
+{
+"en": "The more structural components in wine (and food), the more possible interactions: pairing gets complicated but can be more interesting. The most problematic wines combine high bitterness and astringency from grape and oak tannins with high acidity, high alcohol and complex flavours. Simple unoaked whites, wines with a little sugar and light rosés are low-risk.",
+"it": "Più componenti strutturali ci sono nel vino (e nel cibo), più interazioni gustative sono possibili: l'abbinamento si complica ma può dare risultati più interessanti. I vini più problematici sono quelli con livelli alti di amarezza e astringenza da tannini di uva e legno, uniti a acidità e alcol alti e sapori complessi. I bianchi semplici senza legno, i vini con un po' di zucchero e i rosati leggeri sono invece a basso rischio."
+},
+{
+"en": "Which wines are 'low-risk' with food?",
+"it": "Quali vini sono «a basso rischio» con il cibo?"
+},
+{
+"en": "Simple, unoaked wines with a little residual sugar",
+"it": "Vini semplici, senza legno, con un po' di residuo zuccherino"
+},
+{
+"en": "Very tannic, structured reds that stand up to any dish",
+"it": "Rossi molto tannici e strutturati, che reggono qualsiasi piatto"
+},
+{
+"en": "Very oaky, creamy whites with high alcohol",
+"it": "Bianchi molto legnosi e cremosi, con alcol alto"
+},
+{
+"en": "Alcoholic, complex wines for long ageing",
+"it": "Vini alcolici e complessi, da lungo invecchiamento"
+},
+{
+"en": "Few dishes spoil them, but since they change little the pairing is less interesting.",
+"it": "Difficilmente un piatto li rende sgradevoli, ma cambiando poco l'abbinamento è meno interessante."
+},
+{
+"en": "Simple, unoaked wines with a little residual sugar are unlikely to be made unpleasant by any dish: 'low-risk' wines. But since they change relatively little with food, the pairing can be less interesting. Very tannic reds, heavily oaked whites and very alcoholic, complex wines are the most difficult.",
+"it": "I vini semplici, senza legno e con un po' di zucchero residuo difficilmente vengono resi sgradevoli da un piatto: sono vini «a basso rischio». Però, poiché cambiano relativamente poco con il cibo, l'esperienza di abbinamento può essere meno interessante. I rossi molto tannici, i bianchi molto legnosi e i vini molto alcolici e complessi sono invece i più difficili."
+},
+{
+"en": "Why do Muscadet and Champagne work with oysters?",
+"it": "Perché Muscadet e Champagne vanno bene con le ostriche?"
+},
+{
+"en": "Unoaked, light and high in acid",
+"it": "Senza legno, leggeri di aroma e con acidità alta"
+},
+{
+"en": "Sweet and alcoholic, to counter the oysters' salt",
+"it": "Dolci e alcolici, per contrastare il sale delle ostriche"
+},
+{
+"en": "Tannic and structured, to bind with the oyster's proteins",
+"it": "Tannici e strutturati, per legarsi alle proteine dell'ostrica"
+},
+{
+"en": "Long-aged in oak, with buttery notes",
+"it": "Affinati a lungo in legno, con note di burro"
+},
+{
+"en": "No oak bitterness for umami to emphasise, they don't overwhelm the oyster, and stay fresh with lemon.",
+"it": "Niente amaro da legno (che l'umami dell'ostrica accentuerebbe), non coprono il sapore delicato e restano freschi anche col limone."
+},
+{
+"en": "A productive approach is examining established pairings. Muscadet and Champagne work with oysters because they are unoaked (no bitterness for the oyster's umami to spoil), relatively light in flavour (not overwhelming the delicate oyster) and high in acid (staying vibrant even with lemon juice). They are not sweet and alcoholic, tannic or long oak-aged.",
+"it": "Un modo utile di applicare i principi è analizzare abbinamenti consolidati. Muscadet e Champagne funzionano con le ostriche perché sono senza legno (nessuna componente amara che l'umami dell'ostrica possa esaltare), relativamente leggeri di sapore (non coprono il gusto delicato delle ostriche) e molto acidi (restano vivaci e rinfrescanti anche con il succo di limone). Non sono dolci e alcolici, tannici o affinati a lungo in legno."
+},
+{
+"en": "Besides Muscadet and Champagne, which wines suit oysters on the same criteria?",
+"it": "Oltre a Muscadet e Champagne, quali vini vanno bene con le ostriche, con gli stessi criteri?"
+},
+{
+"en": "Rías Baixas Albariño and Hunter Valley Semillon",
+"it": "Albariño di Rías Baixas e Semillon della Hunter Valley"
+},
+{
+"en": "Californian new-oak Chardonnay and Condrieu Viognier",
+"it": "Chardonnay californiano in barrique nuove e Viognier di Condrieu"
+},
+{
+"en": "Young Barolo and Amarone della Valpolicella",
+"it": "Barolo giovane e Amarone della Valpolicella"
+},
+{
+"en": "Vintage Port and aged Oloroso Sherry",
+"it": "Porto Vintage e Sherry Oloroso invecchiato"
+},
+{
+"en": "They too are unoaked, light and high in acidity.",
+"it": "Sono anch'essi senza legno, leggeri e con acidità alta."
+},
+{
+"en": "Once we know why Muscadet and Champagne suit oysters (unoaked, light, high-acid), other wines meeting those criteria should work: Experts cite Rías Baixas Albariño and Hunter Valley Semillon. Barolo and Amarone are tannic and powerful, Vintage Port and Oloroso fortified, oaked Californian Chardonnay has oak bitterness.",
+"it": "Capito perché Muscadet e Champagne funzionano con le ostriche (senza legno, leggeri, molto acidi), anche altri vini con le stesse caratteristiche di base dovrebbero funzionare: Si cita l'Albariño delle Rías Baixas e il Semillon della Hunter Valley. Barolo e Amarone sono tannici e potenti; Vintage Port e Oloroso fortificati; lo Chardonnay californiano con legno ha la componente amara del legno."
+},
+{
+"en": "What really decides whether a pairing works?",
+"it": "Da cosa dipende davvero la riuscita di un abbinamento?"
+},
+{
+"en": "The interaction of structural components in food and wine",
+"it": "L'interazione dei componenti strutturali di cibo e vino"
+},
+{
+"en": "Similar aromas, such as smoky with smoky or citrus with citrus",
+"it": "Aromi simili, come affumicato con affumicato o agrumi con agrumi"
+},
+{
+"en": "The wine's colour compared with the dish's",
+"it": "Il colore del vino rispetto a quello del piatto"
+},
+{
+"en": "The wine's price relative to the dish",
+"it": "Il prezzo del vino rispetto a quello del piatto"
+},
+{
+"en": "If the structure works, matching or contrasting flavours can enhance it; if not, it will likely fail.",
+"it": "Se la struttura funziona, l'abbinamento o il contrasto di sapori può migliorare l'accordo; se la struttura non funziona, l'abbinamento fallisce."
+},
+{
+"en": "Matching or contrasting flavours (a smoky dish with a smoky wine, etc.) is common and may succeed, but success does not depend on flavour matching. It depends on the interaction of structural components in food (sugar, fat, salt…) and wine (sugar, alcohol, acid, tannin…). If the structure works, flavour matching can enhance it; if not, the pairing fails. Colour and price are irrelevant.",
+"it": "L'idea di accostare o contrastare i sapori (un piatto affumicato con un vino affumicato, ecc.) è molto diffusa, e il risultato può riuscire, ma il successo non dipende dall'accordo dei sapori. Dipende invece dall'interazione dei componenti strutturali del cibo (zucchero, grassi, sale…) e del vino (zucchero, alcol, acidità, tannino…). Se la struttura funziona, l'accordo dei sapori può migliorare l'abbinamento; se fallisce, l'abbinamento fallisce. Colore e prezzo non contano."
+},
+{
+"en": "What really softens tannins in meat dishes?",
+"it": "Che cosa ammorbidisce davvero i tannini nei piatti di carne?"
+},
+{
+"en": "Mainly salt in the dish",
+"it": "Soprattutto il sale del piatto"
+},
+{
+"en": "Only the meat proteins",
+"it": "Solo le proteine della carne"
+},
+{
+"en": "The colour of the meat",
+"it": "Il colore della carne"
+},
+{
+"en": "The dish temperature",
+"it": "La temperatura del piatto"
+},
+{
+"en": "Tannins bind to proteins, but salt is thought to play a bigger role.",
+"it": "I tannini si legano alle proteine, ma si pensa che il sale abbia un ruolo più importante."
+},
+{
+"en": "The idea that red meat needs red wine comes from tannins binding to meat proteins, softening the wine (visible in saliva when spitting red wine). But the salt in meat dishes is thought to play a more important role in softening tannins. Proteins alone, meat colour or dish temperature are not the main factor.",
+"it": "L'idea che la carne rossa vada solo con il vino rosso nasce dall'osservazione che i tannini si legano alle proteine della carne, ammorbidendo il vino (lo si vede nella saliva quando si sputa un rosso). Si ritiene però che il sale dei piatti di carne abbia un ruolo più importante nell'ammorbidire i tannini. Le sole proteine, il colore della carne o la temperatura del piatto non sono il fattore principale."
+},
+{
+"en": "Why is it safer to stick to white wine with oily fish?",
+"it": "Perché con il pesce grasso conviene restare sul vino bianco?"
+},
+{
+"en": "Compounds in red wine react to give a metallic taste",
+"it": "Alcuni composti del vino rosso reagiscono dando un gusto metallico"
+},
+{
+"en": "Oily fish is sweet and makes reds too bitter and astringent",
+"it": "Il pesce grasso è dolce e rende i rossi troppo amari e astringenti"
+},
+{
+"en": "The red becomes too sweet with the fish's fat",
+"it": "Il rosso diventa troppo dolce con il grasso del pesce"
+},
+{
+"en": "White has more alcohol and body than red",
+"it": "Il bianco ha più alcol e più corpo del vino rosso"
+},
+{
+"en": "Umami in fish can be offset by salt and acid, but the metallic reaction with oily fish is hard to avoid.",
+"it": "L'umami di alcuni pesci si può compensare con sale e acido, ma la reazione metallica con i pesci grassi è difficile da evitare."
+},
+{
+"en": "Some fish are high in umami, which can make red wine more bitter and astringent, but salt and acid, common in fish dishes, can counterbalance this. Harder to avoid is the reaction between compounds in red wine and oily fish, which tends to give a metallic taste: with such fish it is safer to stick to white. Fish is not sweet and white wine does not have more alcohol.",
+"it": "Alcuni pesci sono ricchi di umami, che può far sembrare un rosso più amaro e astringente; questa reazione però può essere bilanciata da sale e acidità, comuni nei piatti di pesce. Più difficile da evitare è la reazione tra alcuni composti del vino rosso e il pesce grasso (oleoso), che tende a produrre un gusto metallico: con questi pesci è più sicuro restare sui bianchi. Il pesce non è dolce e il bianco non ha più alcol."
+},
+{
+"en": "Which of these is NOT a classic pairing?",
+"it": "Quale di questi NON è un abbinamento classico?"
+},
+{
+"en": "Barolo and oysters",
+"it": "Barolo e ostriche"
+},
+{
+"en": "Goat's cheese and Sancerre",
+"it": "Capra e Sancerre"
+},
+{
+"en": "Stilton and Port",
+"it": "Stilton e Porto"
+},
+{
+"en": "Olives and Manzanilla",
+"it": "Olive e Manzanilla"
+},
+{
+"en": "Experts cite goat's cheese-Sancerre, oysters-Muscadet or Champagne, Stilton-Port, olives-Manzanilla.",
+"it": "Si cita: capra e Sancerre, ostriche con Muscadet o Champagne, Stilton e Porto, olive e Manzanilla."
+},
+{
+"en": "Experts cite many classic pairings: goat's cheese and Sancerre; oysters with Muscadet or Champagne; Stilton and Port; olives and Manzanilla. They work through structural interactions (salt, sweetness, acid…). Barolo and oysters is not a classic: a powerful tannic red would overwhelm the oyster and umami would heighten its bitterness.",
+"it": "Si citano molti abbinamenti classici: formaggio di capra e Sancerre; ostriche con Muscadet o Champagne; Stilton e Porto; olive e Manzanilla. Funzionano per l'interazione tra componenti strutturali (sale, dolcezza, acidità…). Barolo e ostriche non è un classico: un rosso tannico e potente coprirebbe l'ostrica e l'umami ne esalterebbe l'amarezza."
+},
+{
+"en": "What about the idea of 'local wine with local food'?",
+"it": "Che cosa pensare dell'idea «vino locale con cibo locale»?"
+},
+{
+"en": "It can work, but you still need to know interactions as regions make varied styles",
+"it": "Può funzionare, ma bisogna conoscere le interazioni perché le regioni fanno stili diversi"
+},
+{
+"en": "It always works, as a region's food and wine have evolved together over centuries",
+"it": "Funziona sempre, perché cucina e vino di una regione si sono evoluti insieme nei secoli"
+},
+{
+"en": "It never works, as local wines are too acidic for traditional cooking",
+"it": "Non funziona mai, perché i vini locali sono troppo acidi per la cucina tradizionale"
+},
+{
+"en": "It only works for reds, as local whites are too light for the cooking",
+"it": "Vale solo per i rossi, perché i bianchi locali sono troppo leggeri per la cucina"
+},
+{
+"en": "Many great cuisines come from places with little wine, and vice versa.",
+"it": "Molte grandi cucine nascono dove non si fa vino, e molti vini vengono da regioni non famose per la cucina."
+},
+{
+"en": "The idea is that a regional dish best suits a wine from that region, as successful pairings likely evolved locally. But most regions make varied styles (red or white, sweet or dry, simple or complex), so knowledge of interactions is still needed. Also many great cuisines developed where little wine is made. It does not always or never work, and is not only for reds.",
+"it": "L'idea è che un piatto regionale si abbini meglio a un vino della stessa regione, e gli abbinamenti riusciti si sono probabilmente evoluti localmente nel tempo. Però la maggior parte delle regioni produce vini di stili diversi (rossi o bianchi, dolci o secchi, semplici o complessi), quindi serve comunque conoscere le interazioni tra cibo e vino. Inoltre molte grandi cucine sono nate dove si produce poco vino. Non funziona sempre né mai, e non vale solo per i rossi."
+},
+{
+"en": "Sweet food makes a wine seem:",
+"it": "Un cibo dolce fa sembrare il vino:"
+},
+{
+"en": "More bitter, more acidic, less sweet and less fruity",
+"it": "Più amaro, più acido, meno dolce e meno fruttato"
+},
+{
+"en": "Sweeter and fruitier",
+"it": "Più dolce e più fruttato"
+},
+{
+"en": "Less acidic and less bitter",
+"it": "Meno acido e meno amaro"
+},
+{
+"en": "More alcoholic and softer",
+"it": "Più alcolico e più morbido"
+},
+{
+"en": "Sweet food → wine more bitter and acidic; wine should be at least as sweet.",
+"it": "Dolce nel piatto → vino più amaro e acido; il vino dev'essere almeno altrettanto dolce."
+},
+{
+"en": "Sweetness in food increases perceived bitterness, acidity and alcohol burn and reduces the wine's body, sweetness and fruit. Desserts therefore need a wine at least as sweet.",
+"it": "La dolcezza del cibo aumenta la percezione di amaro, acidità e bruciore alcolico e riduce corpo, dolcezza e frutto del vino. Per questo con i dessert serve un vino almeno altrettanto dolce."
+},
+{
+"en": "What can be said about 'low-risk' wines like simple whites with a little residual sugar?",
+"it": "Che cosa si può dire dei vini «a basso rischio» come i bianchi semplici con un po' di residuo zuccherino?"
+},
+{
+"en": "Few dishes make them unpleasant, but the match is less exciting",
+"it": "Pochi piatti li rendono sgradevoli, ma cambiano poco e l'abbinamento è meno interessante"
+},
+{
+"en": "They are the hardest to pair, as sugar clashes with almost every savoury dish",
+"it": "Sono i più difficili da abbinare, perché lo zucchero contrasta con quasi tutti i piatti salati"
+},
+{
+"en": "They only work with desserts, never savoury dishes, as the sugar adds up",
+"it": "Vanno bene solo con i dessert, mai con i piatti salati, perché lo zucchero si somma"
+},
+{
+"en": "They always turn bitter with food, as the sugar reacts with salt",
+"it": "Diventano sempre amari con il cibo, per via dello zucchero che reagisce con il sale"
+},
+{
+"en": "Simple, unoaked wines with a little residual sugar are unlikely to be made unpleasant by any dish. But because they change relatively little with food, the pairing experience can be less interesting. Conversely, the more structural components, the more possible interactions: pairing is more complicated but results can be much more interesting.",
+"it": "I vini semplici, senza legno e con un po' di zucchero residuo difficilmente vengono resi sgradevoli da un piatto. Proprio perché cambiano relativamente poco con il cibo, però, l'esperienza di abbinamento può essere meno interessante. Al contrario, più componenti strutturali ci sono, più interazioni possibili: abbinare è più complicato ma i risultati possono essere molto più interessanti."
+},
+{
+"en": "Which of these are classic pairings?",
+"it": "Quali di questi sono abbinamenti classici?"
+},
+{
+"en": "Goat's cheese and Sancerre; Stilton and Port; olives and Manzanilla",
+"it": "Formaggio di capra e Sancerre; Stilton e Porto; olive e Manzanilla"
+},
+{
+"en": "Oysters and Barolo; chocolate and Muscadet; curry and Amarone",
+"it": "Ostriche e Barolo; cioccolato e Muscadet; curry e Amarone"
+},
+{
+"en": "Asparagus with oaked Cabernet; smoked salmon with Shiraz",
+"it": "Asparagi e Cabernet in barrique; salmone e Shiraz"
+},
+{
+"en": "Spicy curry and Amarone; asparagus and Barolo; oysters and Port",
+"it": "Curry piccante e Amarone; asparagi e Barolo; ostriche e Porto"
+}
+]

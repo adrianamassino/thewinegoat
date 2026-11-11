@@ -1,0 +1,2802 @@
+[
+{
+"en": "The Wine Goat",
+"it": "The Wine Goat"
+},
+{
+"en": "{N} questions to prepare for Level 3",
+"it": "{N} domande per preparare il Level 3"
+},
+{
+"en": "Dashboard",
+"it": "Riepilogo"
+},
+{
+"en": "Practise",
+"it": "Esercitati"
+},
+{
+"en": "Mock exam",
+"it": "Esame simulato"
+},
+{
+"en": "My mistakes",
+"it": "I miei errori"
+},
+{
+"en": "History",
+"it": "Storico"
+},
+{
+"en": "Signed in · progress saved to your account",
+"it": "Connessa · progressi salvati nel tuo account"
+},
+{
+"en": "Not signed in · progress kept in this browser only",
+"it": "Non connessa · progressi salvati solo in questo browser"
+},
+{
+"en": "Connecting to your account…",
+"it": "Connessione all'account…"
+},
+{
+"en": "Online save failed · retrying automatically",
+"it": "Salvataggio online non riuscito · nuovo tentativo automatico"
+},
+{
+"en": "Questions seen",
+"it": "Domande viste"
+},
+{
+"en": "Accuracy",
+"it": "Percentuale corrette"
+},
+{
+"en": "Mistakes to fix",
+"it": "Errori da correggere"
+},
+{
+"en": "Sessions",
+"it": "Sessioni"
+},
+{
+"en": "Mastery by chapter",
+"it": "Padronanza per capitolo"
+},
+{
+"en": "A question is mastered once you have answered it correctly and it is not among your mistakes to fix. Click a chapter for 10 questions.",
+"it": "Una domanda è padroneggiata quando hai risposto giusto e non è tra gli errori da correggere. Clicca un capitolo per 10 domande."
+},
+{
+"en": "0–24%",
+"it": "0–24 %"
+},
+{
+"en": "25–49%",
+"it": "25–49 %"
+},
+{
+"en": "50–74%",
+"it": "50–74 %"
+},
+{
+"en": "75–100%",
+"it": "75–100 %"
+},
+{
+"en": "Choose chapters",
+"it": "Scegli i capitoli"
+},
+{
+"en": "All",
+"it": "Tutti"
+},
+{
+"en": "None",
+"it": "Nessuno"
+},
+{
+"en": "Number of questions",
+"it": "Numero di domande"
+},
+{
+"en": "New questions first",
+"it": "Prima le domande nuove"
+},
+{
+"en": "Start",
+"it": "Inizia"
+},
+{
+"en": "Level",
+"it": "Livello"
+},
+{
+"en": "Advanced only",
+"it": "Solo avanzate"
+},
+{
+"en": "Core only",
+"it": "Solo base"
+},
+{
+"en": "Advanced",
+"it": "Avanzata"
+},
+{
+"en": "Trick question",
+"it": "Domanda trabocchetto"
+},
+{
+"en": "Trick questions only",
+"it": "Solo trabocchetti"
+},
+{
+"en": "50 questions split like the exam: 8 on production factors, 28 on still wines of the world, 5 on sparkling, 5 on fortified, 4 on tasting, food pairing and service. Pass mark: 55%. The correction and explanation appear after each answer, the score at the end.",
+"it": "50 domande distribuite come all'esame: 8 sui fattori di produzione, 28 sui vini fermi del mondo, 5 sugli spumanti, 5 sui fortificati, 4 su degustazione, abbinamenti e servizio. Soglia: 55%. Correzione e spiegazione appaiono dopo ogni risposta, il punteggio alla fine."
+},
+{
+"en": "Start the mock exam",
+"it": "Avvia la simulazione"
+},
+{
+"en": "Question",
+"it": "Domanda"
+},
+{
+"en": "of",
+"it": "di"
+},
+{
+"en": "Next",
+"it": "Avanti"
+},
+{
+"en": "Finish",
+"it": "Termina"
+},
+{
+"en": "Quit",
+"it": "Esci"
+},
+{
+"en": "Correct.",
+"it": "Risposta giusta."
+},
+{
+"en": "Incorrect.",
+"it": "Risposta sbagliata."
+},
+{
+"en": "Correct answer:",
+"it": "Risposta giusta:"
+},
+{
+"en": "Score",
+"it": "Punteggio"
+},
+{
+"en": "Pass",
+"it": "Superato"
+},
+{
+"en": "Fail",
+"it": "Non superato"
+},
+{
+"en": "pass mark 55%",
+"it": "soglia 55%"
+},
+{
+"en": "Review answers",
+"it": "Rivedi le risposte"
+},
+{
+"en": "Start again",
+"it": "Ricomincia"
+},
+{
+"en": "See my mistakes",
+"it": "Vai ai miei errori"
+},
+{
+"en": "Back",
+"it": "Indietro"
+},
+{
+"en": "Every mistake stays here with its explanation. A mistake is marked fixed as soon as you answer that question correctly; it then leaves your reviews but stays in the history. Get it wrong again and it goes back to 'to fix'.",
+"it": "Tutti i tuoi errori restano qui con la spiegazione. Un errore diventa «corretto» appena rispondi giusto alla domanda: esce dai ripassi ma resta nello storico. Se sbagli di nuovo torna «da correggere»."
+},
+{
+"en": "To fix",
+"it": "Da correggere"
+},
+{
+"en": "Fixed",
+"it": "Corretti"
+},
+{
+"en": "All chapters",
+"it": "Tutti i capitoli"
+},
+{
+"en": "Review mistakes to fix",
+"it": "Ripassa gli errori da correggere"
+},
+{
+"en": "Redo all my mistakes",
+"it": "Rifai tutti i miei errori"
+},
+{
+"en": "mistake(s)",
+"it": "errore/i"
+},
+{
+"en": "last",
+"it": "ultimo"
+},
+{
+"en": "first",
+"it": "primo"
+},
+{
+"en": "fixed on",
+"it": "corretto il"
+},
+{
+"en": "Your answer",
+"it": "La tua risposta"
+},
+{
+"en": "Correct answer",
+"it": "Risposta giusta"
+},
+{
+"en": "Explanation",
+"it": "Spiegazione"
+},
+{
+"en": "No mistakes in this filter.",
+"it": "Nessun errore in questo filtro."
+},
+{
+"en": "No mistakes yet. They will appear here after your first quiz.",
+"it": "Ancora nessun errore. Compariranno qui dopo il primo quiz."
+},
+{
+"en": "Date",
+"it": "Data"
+},
+{
+"en": "Mode",
+"it": "Modalità"
+},
+{
+"en": "Content",
+"it": "Contenuto"
+},
+{
+"en": "No sessions yet.",
+"it": "Nessuna sessione per ora."
+},
+{
+"en": "Practice",
+"it": "Esercizio"
+},
+{
+"en": "Mistake review",
+"it": "Ripasso errori"
+},
+{
+"en": "Chapter",
+"it": "Capitolo"
+},
+{
+"en": "Erase all my progress",
+"it": "Cancella tutti i miei progressi"
+},
+{
+"en": "Erase everything? This cannot be undone.",
+"it": "Cancellare tutto? L'azione è definitiva."
+},
+{
+"en": "Yes, erase",
+"it": "Sì, cancella"
+},
+{
+"en": "Cancel",
+"it": "Annulla"
+},
+{
+"en": "Account",
+"it": "Account"
+},
+{
+"en": "Your progress is saved on this device, in this browser.",
+"it": "I tuoi progressi sono salvati su questo dispositivo, in questo browser."
+},
+{
+"en": "Select at least one chapter.",
+"it": "Seleziona almeno un capitolo."
+},
+{
+"en": "chapters",
+"it": "capitoli"
+},
+{
+"en": "Shortcuts: keys 1 to 4 to answer, Enter to continue.",
+"it": "Scorciatoie: tasti da 1 a 4 per rispondere, Invio per continuare."
+},
+{
+"en": "Dig deeper with AI",
+"it": "Approfondisci con l'IA"
+},
+{
+"en": "Ask anything about this topic, whether you got it right or wrong. The conversation stays saved with the question. Enter to send, Shift+Enter for a new line.",
+"it": "Chiedi quello che vuoi su questo argomento, che tu abbia risposto bene o male. La conversazione resta salvata insieme alla domanda. Invio per inviare, Maiusc+Invio per andare a capo."
+},
+{
+"en": "Type your question…",
+"it": "Scrivi la tua domanda…"
+},
+{
+"en": "Send",
+"it": "Invia"
+},
+{
+"en": "Stop",
+"it": "Ferma"
+},
+{
+"en": "Thinking…",
+"it": "Sto pensando…"
+},
+{
+"en": "The AI chat isn't available here: open the page on claude.ai and allow Claude when asked.",
+"it": "La chat con l'IA non è disponibile qui: apri la pagina su claude.ai e consenti l'uso di Claude quando te lo chiede."
+},
+{
+"en": "The answer was cut off. Try again in a moment.",
+"it": "La risposta si è interrotta. Riprova tra poco."
+},
+{
+"en": "Too many requests or usage limit reached: try again later.",
+"it": "Troppe richieste o limite di utilizzo raggiunto: riprova più tardi."
+},
+{
+"en": "Conversation saved",
+"it": "Conversazione salvata"
+},
+{
+"en": "You",
+"it": "Tu"
+},
+{
+"en": "AI",
+"it": "IA"
+},
+{
+"en": "AI chat",
+"it": "Chat IA"
+},
+{
+"en": "Explain it better, with the why",
+"it": "Spiegamelo meglio, con il perché"
+},
+{
+"en": "Why are the other answers wrong?",
+"it": "Perché le altre risposte sono sbagliate?"
+},
+{
+"en": "Link it to other topics that could come up in the exam",
+"it": "Collegalo ad altri argomenti che possono uscire all'esame"
+},
+{
+"en": "Written answers",
+"it": "Risposte scritte"
+},
+{
+"en": "Open questions like the Level 3 written paper, across every topic. Write your answer to each part: the app compares it with the textbook key points, gives a score per part, tells you what you got and what is missing, and shows the model answer.",
+"it": "Domande aperte come nella parte scritta dell'esame, su tutti gli argomenti. Scrivi la risposta per ogni punto: l'app la confronta con i punti chiave del libro, ti dà un punteggio per punto, ti dice cosa hai centrato e cosa manca e ti mostra la risposta modello."
+},
+{
+"en": "All topics",
+"it": "Tutti gli argomenti"
+},
+{
+"en": "Random question (new first)",
+"it": "Domanda a caso (prima le nuove)"
+},
+{
+"en": "Answered",
+"it": "Risposte"
+},
+{
+"en": "Average",
+"it": "Media"
+},
+{
+"en": "best",
+"it": "migliore"
+},
+{
+"en": "marks",
+"it": "punti"
+},
+{
+"en": "parts",
+"it": "parti"
+},
+{
+"en": "part",
+"it": "parte"
+},
+{
+"en": "No questions in this filter.",
+"it": "Nessuna domanda in questo filtro."
+},
+{
+"en": "Mark",
+"it": "Correggi"
+},
+{
+"en": "Marking…",
+"it": "Correzione…"
+},
+{
+"en": "New attempt",
+"it": "Nuovo tentativo"
+},
+{
+"en": "All questions",
+"it": "Tutte le domande"
+},
+{
+"en": "Write at least one answer before asking for marking.",
+"it": "Scrivi almeno una risposta prima di chiedere la correzione."
+},
+{
+"en": "Points credited",
+"it": "Punti centrati"
+},
+{
+"en": "Missing or incorrect points",
+"it": "Punti mancanti o da correggere"
+},
+{
+"en": "Overall comment",
+"it": "Commento generale"
+},
+{
+"en": "Model answer",
+"it": "Risposta modello"
+},
+{
+"en": "Marking guide (key points, in English)",
+"it": "Traccia di correzione (punti chiave, in inglese)"
+},
+{
+"en": "Attempts",
+"it": "Tentativi"
+},
+{
+"en": "AI marking isn't available here: open the page on claude.ai and allow Claude. You can still write answers and compare with the marking guide.",
+"it": "La correzione con l'IA non è disponibile qui: apri la pagina su claude.ai e consenti l'uso di Claude. Puoi comunque scrivere le risposte e confrontarle con la traccia di correzione."
+},
+{
+"en": "Marking failed. Try again in a moment.",
+"it": "La correzione non è riuscita. Riprova tra poco."
+},
+{
+"en": "The AI's reply couldn't be read. Try again.",
+"it": "La risposta dell'IA non era leggibile. Riprova."
+},
+{
+"en": "Draft saved automatically",
+"it": "Bozza salvata automaticamente"
+},
+{
+"en": "words",
+"it": "parole"
+},
+{
+"en": "Written answer",
+"it": "Risposta scritta"
+},
+{
+"en": "Exam tip: one mark = one correct idea, explained (the why). Write short sentences, one idea each, using exam terms.",
+"it": "Consiglio d'esame: un punto = un'idea corretta e spiegata (il perché). Scrivi frasi brevi, una idea per frase, e usa la terminologia d'esame."
+},
+{
+"en": "Cross-topic comparisons",
+"it": "Confronti trasversali"
+},
+{
+"en": "How could I have scored full marks?",
+"it": "Come avrei potuto prendere il punteggio pieno?"
+},
+{
+"en": "Explain the point I missed more clearly",
+"it": "Spiegami meglio il punto che mi manca"
+},
+{
+"en": "Give me a similar question to practise",
+"it": "Fammi una domanda simile per allenarmi"
+},
+{
+"en": "SAT tasting",
+"it": "Degustazione SAT"
+},
+{
+"en": "Practise the Level 3 Systematic Approach to Tasting (SAT) with the official terms. Two modes: write the typical note for a classic wine (the app marks structure and conclusions and shows the expected profile), or record a note for a wine you are tasting. Notes stay in your journal.",
+"it": "Allena l'approccio sistematico alla degustazione (SAT) del Level 3 con i termini ufficiali. Due modi: scrivi la nota tipica di un vino classico (l'app corregge struttura e conclusioni e ti mostra il profilo atteso), oppure registra la nota di un vino che stai assaggiando. Le note restano salvate nel tuo diario."
+},
+{
+"en": "Exercise: a classic wine",
+"it": "Esercizio: un vino classico"
+},
+{
+"en": "Write the typical SAT note for the style shown and compare it with the expected profile.",
+"it": "Scrivi la nota SAT tipica dello stile indicato e confrontala con il profilo atteso."
+},
+{
+"en": "Note for a wine I'm tasting",
+"it": "Nota di un vino che sto degustando"
+},
+{
+"en": "Fill in the SAT while you taste: the note is saved to your journal.",
+"it": "Compila la SAT mentre assaggi: la nota resta salvata nel tuo diario."
+},
+{
+"en": "Random wine",
+"it": "Vino a caso"
+},
+{
+"en": "Resume the note in progress",
+"it": "Riprendi la nota in corso"
+},
+{
+"en": "Discard draft",
+"it": "Scarta la bozza"
+},
+{
+"en": "Tasting journal",
+"it": "Diario di degustazione"
+},
+{
+"en": "No notes saved yet.",
+"it": "Nessuna nota salvata per ora."
+},
+{
+"en": "SAT grid (Level 3)",
+"it": "Scheda SAT (Level 3)"
+},
+{
+"en": "Terms are the official SAT terms.",
+"it": "Termini ufficiali della scheda SAT, in italiano."
+},
+{
+"en": "← Tasting",
+"it": "← Degustazione"
+},
+{
+"en": "Write the typical tasting note for a good example of this wine.",
+"it": "Scrivi la nota di degustazione tipica di un buon esempio di questo vino."
+},
+{
+"en": "Describe the wine in your glass. The name is optional: you can add it afterwards for a blind tasting.",
+"it": "Descrivi il vino che hai nel bicchiere. Il nome è facoltativo: puoi aggiungerlo dopo per una degustazione alla cieca."
+},
+{
+"en": "Wine (producer, appellation)",
+"it": "Vino (produttore, denominazione)"
+},
+{
+"en": "Vintage",
+"it": "Annata"
+},
+{
+"en": "Notes (price, occasion…)",
+"it": "Note (prezzo, occasione…)"
+},
+{
+"en": "Type",
+"it": "Tipo"
+},
+{
+"en": "White",
+"it": "Bianco"
+},
+{
+"en": "Rosé",
+"it": "Rosato"
+},
+{
+"en": "Red",
+"it": "Rosso"
+},
+{
+"en": "Sparkling",
+"it": "Spumante"
+},
+{
+"en": "Fortified",
+"it": "Fortificato"
+},
+{
+"en": "Appearance",
+"it": "Aspetto"
+},
+{
+"en": "Nose",
+"it": "Naso"
+},
+{
+"en": "Palate",
+"it": "Palato"
+},
+{
+"en": "Conclusions",
+"it": "Conclusioni"
+},
+{
+"en": "Clarity",
+"it": "Limpidezza"
+},
+{
+"en": "Intensity",
+"it": "Intensità"
+},
+{
+"en": "Colour",
+"it": "Colore"
+},
+{
+"en": "Other observations",
+"it": "Altre osservazioni"
+},
+{
+"en": "Condition",
+"it": "Condizione"
+},
+{
+"en": "Aroma characteristics",
+"it": "Caratteristiche aromatiche"
+},
+{
+"en": "Development",
+"it": "Sviluppo"
+},
+{
+"en": "Sweetness",
+"it": "Dolcezza"
+},
+{
+"en": "Acidity",
+"it": "Acidità"
+},
+{
+"en": "Tannin",
+"it": "Tannino"
+},
+{
+"en": "Alcohol",
+"it": "Alcol"
+},
+{
+"en": "Body",
+"it": "Corpo"
+},
+{
+"en": "Mousse",
+"it": "Mousse"
+},
+{
+"en": "Flavour intensity",
+"it": "Intensità del sapore"
+},
+{
+"en": "Flavour characteristics",
+"it": "Caratteristiche del sapore"
+},
+{
+"en": "Quality level",
+"it": "Livello di qualità"
+},
+{
+"en": "Readiness for drinking / potential for ageing",
+"it": "Prontezza / potenziale d'invecchiamento"
+},
+{
+"en": "Reasoning (BLIC: balance, length, intensity, complexity)",
+"it": "Motivazione (BLIC: equilibrio, lunghezza, intensità, complessità)"
+},
+{
+"en": "e.g. legs/tears, deposit, bubbles",
+"it": "es. lacrime, deposito, bollicine"
+},
+{
+"en": "e.g. primary: lemon, green apple, white flowers; secondary: vanilla, butter; tertiary: honey, nuts",
+"it": "es. primari: limone, mela verde, fiori bianchi; secondari: vaniglia, burro; terziari: miele, noce"
+},
+{
+"en": "e.g. as on the nose, plus…",
+"it": "es. come al naso, più…"
+},
+{
+"en": "e.g. Very good: balanced (fruit and acidity), long finish, intense, but limited complexity. Can drink now but has potential because…",
+"it": "es. Molto buono: equilibrato (frutto e acidità), finale lungo, intenso, ma poco complesso. Può bere ora, ma ha potenziale perché…"
+},
+{
+"en": "Mark it",
+"it": "Correggi"
+},
+{
+"en": "Analyse with AI",
+"it": "Analizza con l'IA"
+},
+{
+"en": "Save the note",
+"it": "Salva la nota"
+},
+{
+"en": "Assessing…",
+"it": "Valutazione in corso…"
+},
+{
+"en": "Entries not filled in: {N} (they count as wrong). Press again to mark anyway.",
+"it": "Voci non compilate: {N} (contano come errori). Premi di nuovo per correggere comunque."
+},
+{
+"en": "Fill in at least a few entries before saving.",
+"it": "Compila almeno qualche voce prima di salvare."
+},
+{
+"en": "Structure and conclusions",
+"it": "Struttura e conclusioni"
+},
+{
+"en": "Your choice",
+"it": "La tua scelta"
+},
+{
+"en": "Expected",
+"it": "Atteso"
+},
+{
+"en": "Aromas, flavours and reasoning (AI)",
+"it": "Aromi, sapori e motivazione (IA)"
+},
+{
+"en": "Compare your aromas with the expected profile below.",
+"it": "Confronta i tuoi aromi con il profilo atteso qui sotto."
+},
+{
+"en": "Expected profile and why",
+"it": "Profilo atteso e perché"
+},
+{
+"en": "Primary",
+"it": "Primari"
+},
+{
+"en": "Secondary",
+"it": "Secondari"
+},
+{
+"en": "Tertiary",
+"it": "Terziari"
+},
+{
+"en": "Correct aromas",
+"it": "Aromi corretti"
+},
+{
+"en": "Missing",
+"it": "Mancanti"
+},
+{
+"en": "Out of style",
+"it": "Fuori stile"
+},
+{
+"en": "Feedback",
+"it": "Commento"
+},
+{
+"en": "Tips",
+"it": "Consigli"
+},
+{
+"en": "Style and identity",
+"it": "Stile e identità"
+},
+{
+"en": "New note",
+"it": "Nuova nota"
+},
+{
+"en": "Delete",
+"it": "Elimina"
+},
+{
+"en": "Delete this note?",
+"it": "Eliminare questa nota?"
+},
+{
+"en": "Note saved to the journal.",
+"it": "Nota salvata nel diario."
+},
+{
+"en": "Note saved to your journal.",
+"it": "Nota salvata nel diario."
+},
+{
+"en": "Which structural mistakes should I fix?",
+"it": "Quali errori di struttura devo correggere?"
+},
+{
+"en": "How do I write an exam-style BLIC justification for this wine?",
+"it": "Come scrivo una motivazione BLIC da esame per questo vino?"
+},
+{
+"en": "Which aroma descriptors could I have used?",
+"it": "Quali descrittori aromatici avrei potuto usare?"
+},
+{
+"en": "Alcohol: still wines low < 11%, medium 11–13.9%, high ≥ 14%; fortified low 15–16.4%, medium 16.5–18.4%, high ≥ 18.5%.",
+"it": "Alcol: vini fermi basso < 11%, medio 11–13,9%, alto ≥ 14%; fortificati basso 15–16,4%, medio 16,5–18,4%, alto ≥ 18,5%."
+},
+{
+"en": "Quality: positive on all 4 BLIC criteria = outstanding, 3 = very good, 2 = good, 1 = acceptable.",
+"it": "Qualità: positivo su tutti e 4 i criteri BLIC = eccezionale, 3 = molto buono, 2 = buono, 1 = accettabile."
+},
+{
+"en": "e.g. primary, secondary, tertiary (free text)",
+"it": "es. primari, secondari, terziari (testo libero)"
+},
+{
+"en": "Training",
+"it": "Allenamento"
+},
+{
+"en": "Maps",
+"it": "Mappe"
+},
+{
+"en": "Multiple-choice quiz",
+"it": "Quiz a crocette"
+},
+{
+"en": "Multiple-choice questions by chapter",
+"it": "Domande a scelta multipla per capitolo"
+},
+{
+"en": "Open questions",
+"it": "Domande aperte"
+},
+{
+"en": "Written answers marked against the textbook key points",
+"it": "Risposte scritte corrette in base ai punti chiave del libro"
+},
+{
+"en": "Tasting notes with the SAT grid",
+"it": "Note di degustazione con la scheda SAT"
+},
+{
+"en": "Complete the wine maps",
+"it": "Completa le mappe del vino"
+},
+{
+"en": "Every wine map, from countries down to single districts, redrawn on real geographic data. For each map you can explore, complete the puzzle by putting every name in place, or find places one at a time. Your best score is saved.",
+"it": "Tutte le mappe del vino, dai paesi alle singole zone, ridisegnate su dati geografici reali. Per ogni mappa puoi esplorare, completare il puzzle mettendo ogni nome al suo posto, oppure trovare i luoghi uno alla volta. Il miglior punteggio resta salvato."
+},
+{
+"en": "Countries and large regions",
+"it": "Paesi e grandi regioni"
+},
+{
+"en": "Districts and appellations",
+"it": "Zone e denominazioni"
+},
+{
+"en": "places",
+"it": "luoghi"
+},
+{
+"en": "Filters and categories",
+"it": "Filtri e categorie"
+},
+{
+"en": "Best",
+"it": "Record"
+},
+{
+"en": "Explore",
+"it": "Esplora"
+},
+{
+"en": "Puzzle",
+"it": "Puzzle"
+},
+{
+"en": "Find",
+"it": "Trova"
+},
+{
+"en": "All names are shown: study the map, then try the puzzle.",
+"it": "Tutti i nomi sono visibili: studia la mappa, poi passa al puzzle."
+},
+{
+"en": "Tap a name below, then the right point on the map (or the point first, then the name).",
+"it": "Tocca un nome qui sotto e poi il punto giusto sulla mappa (o prima il punto, poi il nome)."
+},
+{
+"en": "Tap the requested point on the map. After 3 misses the point is shown.",
+"it": "Tocca sulla mappa il punto indicato. Dopo 3 errori il punto viene mostrato."
+},
+{
+"en": "Where is",
+"it": "Dov'è"
+},
+{
+"en": "Pick a name first (or tap the point again)",
+"it": "Scegli prima un nome (o tocca di nuovo il punto)"
+},
+{
+"en": "No, try again",
+"it": "No, riprova"
+},
+{
+"en": "Correct!",
+"it": "Giusto!"
+},
+{
+"en": "Map complete",
+"it": "Mappa completata"
+},
+{
+"en": "{C} of {N} first time · {E} mistakes",
+"it": "{C} su {N} al primo colpo · {E} errori"
+},
+{
+"en": "Play again",
+"it": "Rigioca"
+},
+{
+"en": "Change mode",
+"it": "Cambia modalità"
+},
+{
+"en": "← Maps",
+"it": "← Mappe"
+},
+{
+"en": "Zoom in",
+"it": "Ingrandisci"
+},
+{
+"en": "Zoom out",
+"it": "Riduci"
+},
+{
+"en": "Wines and appellations",
+"it": "Vini e denominazioni"
+},
+{
+"en": "Cities",
+"it": "Città"
+},
+{
+"en": "Rivers and lakes",
+"it": "Fiumi e laghi"
+},
+{
+"en": "Mountains and hills",
+"it": "Montagne e rilievi"
+},
+{
+"en": "States and regions",
+"it": "Stati e regioni"
+},
+{
+"en": "Textbook map, p.",
+"it": "Mappa del manuale, pag."
+},
+{
+"en": "Select at least one category.",
+"it": "Seleziona almeno una categoria."
+},
+{
+"en": "Maps redrawn from open geographic data (Natural Earth): points show the approximate position of each area; names are those of the appellations.",
+"it": "Mappe ridisegnate da dati geografici aperti (Natural Earth): i punti indicano la posizione approssimativa delle zone, i nomi sono quelli delle denominazioni."
+},
+{
+"en": "A full paper that mixes everything, like the real exam: multiple-choice questions without instant feedback, open questions, a theory tasting note and a geography test. Choose the parts, answer everything, and get each section's score at the end (pass mark 55%).",
+"it": "Una prova completa che mescola tutto, come l'esame vero: domande a crocette senza correzione immediata, domande aperte, una nota di degustazione teorica e una prova di geografia. Scegli le parti, rispondi a tutto e alla fine ricevi il punteggio di ogni sezione (soglia 55%)."
+},
+{
+"en": "Multiple choice",
+"it": "Domande a crocette"
+},
+{
+"en": "Split like the exam (production factors, still wines, sparkling, fortified, tasting and service). Marked at the end.",
+"it": "Distribuite come all'esame (fattori di produzione, vini fermi, spumanti, fortificati, degustazione e servizio). La correzione arriva alla fine."
+},
+{
+"en": "4 questions from different chapters, marked at the end against the textbook key points.",
+"it": "4 domande da capitoli diversi, corrette alla fine in base ai punti chiave del libro."
+},
+{
+"en": "Theory tasting",
+"it": "Degustazione teorica"
+},
+{
+"en": "Typical SAT note for a classic wine.",
+"it": "Nota SAT tipica di un vino classico."
+},
+{
+"en": "Geography",
+"it": "Geografia"
+},
+{
+"en": "Find 10 appellations on a map.",
+"it": "Trova 10 denominazioni su una mappa."
+},
+{
+"en": "Start the exam",
+"it": "Inizia l'esame"
+},
+{
+"en": "Resume the exam in progress",
+"it": "Riprendi l'esame in corso"
+},
+{
+"en": "Abandon",
+"it": "Abbandona"
+},
+{
+"en": "Section",
+"it": "Sezione"
+},
+{
+"en": "← Previous",
+"it": "← Precedente"
+},
+{
+"en": "Next →",
+"it": "Avanti →"
+},
+{
+"en": "Finish section",
+"it": "Concludi la sezione"
+},
+{
+"en": "Submit and mark",
+"it": "Consegna e correggi"
+},
+{
+"en": "Mock exam result",
+"it": "Risultato dell'esame simulato"
+},
+{
+"en": "Overall score",
+"it": "Punteggio complessivo"
+},
+{
+"en": "Passed: every section at 55% or more",
+"it": "Superato: tutte le sezioni sopra il 55%"
+},
+{
+"en": "Not passed: at least one section below 55%",
+"it": "Non superato: almeno una sezione sotto il 55%"
+},
+{
+"en": "not marked",
+"it": "non corretta"
+},
+{
+"en": "New exam",
+"it": "Nuovo esame"
+},
+{
+"en": "Pick an answer",
+"it": "Scegli una risposta"
+},
+{
+"en": "Unanswered questions: {N}. Submit anyway? Press again.",
+"it": "Domande senza risposta: {N}. Vuoi consegnare comunque? Premi di nuovo."
+},
+{
+"en": "Select at least one section.",
+"it": "Seleziona almeno una sezione."
+},
+{
+"en": "Exit (saved)",
+"it": "Esci (salva)"
+},
+{
+"en": "Wine to describe",
+"it": "Vino da descrivere"
+},
+{
+"en": "Map",
+"it": "Mappa"
+},
+{
+"en": "Explain the main mistakes in this exam",
+"it": "Spiegami gli errori principali di questo esame"
+},
+{
+"en": "Which chapters should I revise?",
+"it": "Su quali capitoli devo ripassare?"
+},
+{
+"en": "How can I improve my written answers?",
+"it": "Come miglioro le risposte scritte?"
+},
+{
+"en": "Today",
+"it": "Oggi"
+},
+{
+"en": "Exam",
+"it": "Esame"
+},
+{
+"en": "Games",
+"it": "Giochi"
+},
+{
+"en": "Me",
+"it": "Io"
+},
+{
+"en": "Good morning!",
+"it": "Buongiorno!"
+},
+{
+"en": "Good afternoon!",
+"it": "Buon pomeriggio!"
+},
+{
+"en": "Good evening!",
+"it": "Buonasera!"
+},
+{
+"en": "Your plan for today",
+"it": "Il tuo piano di oggi"
+},
+{
+"en": "Next step",
+"it": "Prossimo passo"
+},
+{
+"en": "Exam ready",
+"it": "Pronta per l'esame"
+},
+{
+"en": "{N} questions left to master: about {S} sessions of 10.",
+"it": "Ti mancano {N} domande da padroneggiare: circa {S} sessioni da 10."
+},
+{
+"en": "You've mastered every question. Keep sharp with mock exams!",
+"it": "Hai padroneggiato tutte le domande. Fai esami simulati per mantenerti in forma!"
+},
+{
+"en": "Recommended for you",
+"it": "Consigliati per te"
+},
+{
+"en": "Review {N} mistakes",
+"it": "Ripassa {N} errori"
+},
+{
+"en": "Every corrected mistake counts straight away",
+"it": "Ogni errore corretto conta subito per l'esame"
+},
+{
+"en": "School questions: {N} to do",
+"it": "Domande della scuola: {N} da fare"
+},
+{
+"en": "The questions sent by your EVS school",
+"it": "Le domande inviate dalla tua scuola EVS"
+},
+{
+"en": "Strengthen: {C}",
+"it": "Rinforza: {C}"
+},
+{
+"en": "You're at {P}% correct: 10 targeted questions",
+"it": "Sei al {P}% di risposte giuste: 10 domande mirate"
+},
+{
+"en": "Start: {C}",
+"it": "Inizia: {C}"
+},
+{
+"en": "A chapter you haven't tried yet",
+"it": "Capitolo non ancora affrontato"
+},
+{
+"en": "Keep going: {C}",
+"it": "Continua: {C}"
+},
+{
+"en": "{P}% mastered",
+"it": "Padroneggiato al {P}%"
+},
+{
+"en": "Play Match it!",
+"it": "Gioca ad Abbina!"
+},
+{
+"en": "{N} grapes to learn",
+"it": "{N} vitigni da imparare"
+},
+{
+"en": "Explore the maps",
+"it": "Esplora le mappe"
+},
+{
+"en": "Geography earns marks in the exam",
+"it": "La geografia vale punti all'esame"
+},
+{
+"en": "Take a mock exam",
+"it": "Fai un esame simulato"
+},
+{
+"en": "Test yourself in exam conditions",
+"it": "Mettiti alla prova in condizioni d'esame"
+},
+{
+"en": "Last result: {P}%. Try again!",
+"it": "Ultimo risultato: {P}%. Riprova!"
+},
+{
+"en": "Mixed session",
+"it": "Sessione mista"
+},
+{
+"en": "10 questions across every topic",
+"it": "10 domande su tutti gli argomenti"
+},
+{
+"en": "Every topic, one thing at a time.",
+"it": "Tutti gli argomenti, una cosa alla volta."
+},
+{
+"en": "10 questions per chapter",
+"it": "10 domande per capitolo"
+},
+{
+"en": "Countries, regions and grapes at a glance",
+"it": "Paesi, regioni e vitigni in un colpo d'occhio"
+},
+{
+"en": "Short, quick games to make it stick while having fun.",
+"it": "Giochi brevi e veloci per fissare i concetti divertendoti."
+},
+{
+"en": "Lightning true or false",
+"it": "Vero o falso lampo"
+},
+{
+"en": "60 seconds, as many answers as you can",
+"it": "60 secondi, più risposte possibile"
+},
+{
+"en": "You'll see a pairing (area and grape, grape and typical trait, area and country): right or wrong? 60 seconds; each mistake costs 3 seconds, 5 in a row score double.",
+"it": "Vedrai un abbinamento (zona e vitigno, vitigno e tratto tipico, zona e paese): è giusto o no? Hai 60 secondi; ogni errore toglie 3 secondi, 5 risposte di fila valgono doppio."
+},
+{
+"en": "Who am I?",
+"it": "Chi sono?"
+},
+{
+"en": "Guess the grape from clues",
+"it": "Indovina il vitigno dagli indizi"
+},
+{
+"en": "Clues arrive one at a time: structure, aromas, climate, styles, regions. Guess the grape as early as you can: fewer clues, more points. 8 grapes per game.",
+"it": "Arrivano indizi uno alla volta: struttura, aromi, clima, stili, regioni. Indovina il vitigno il prima possibile: meno indizi usi, più punti prendi. 8 vitigni per partita."
+},
+{
+"en": "Survival",
+"it": "Sopravvivenza"
+},
+{
+"en": "3 hearts, 20 seconds per question",
+"it": "3 cuori, 20 secondi a domanda"
+},
+{
+"en": "Exam questions getting harder, 20 seconds each. You have 3 hearts: how long can you last? Answers count towards your progress.",
+"it": "Domande d'esame sempre più difficili, 20 secondi l'una. Hai 3 cuori: quanto resisti? Le risposte contano per i tuoi progressi."
+},
+{
+"en": "In order!",
+"it": "In ordine!"
+},
+{
+"en": "Hierarchies, steps and geography",
+"it": "Gerarchie, tappe e geografia"
+},
+{
+"en": "Tap the items in the right order: Prädikats, hierarchies, winemaking steps, geography north to south. 6 challenges per game.",
+"it": "Tocca gli elementi nell'ordine giusto: Prädikat, gerarchie, tappe di vinificazione, geografia da nord a sud. 6 sfide per partita."
+},
+{
+"en": "Map hunt",
+"it": "Caccia sulla mappa"
+},
+{
+"en": "Find regions and appellations",
+"it": "Trova regioni e denominazioni"
+},
+{
+"en": "Play",
+"it": "Gioca"
+},
+{
+"en": "Glass finished!",
+"it": "Calice finito!"
+},
+{
+"en": "New record!",
+"it": "Nuovo record!"
+},
+{
+"en": "More games",
+"it": "Altri giochi"
+},
+{
+"en": "points",
+"it": "punti"
+},
+{
+"en": "Continue",
+"it": "Continua"
+},
+{
+"en": "See result",
+"it": "Vedi il risultato"
+},
+{
+"en": "Remember",
+"it": "Da ricordare"
+},
+{
+"en": "Is this grape typical of this area?",
+"it": "Questo vitigno è tipico di questa zona?"
+},
+{
+"en": "Is this the grape's typical trait?",
+"it": "Questo è il tratto tipico del vitigno?"
+},
+{
+"en": "Is this area in this country?",
+"it": "Questa zona è in questo paese?"
+},
+{
+"en": "True",
+"it": "Vero"
+},
+{
+"en": "False",
+"it": "Falso"
+},
+{
+"en": "Keyboard: ← false, → true",
+"it": "Tastiera: ← falso, → vero"
+},
+{
+"en": "Guess the grape",
+"it": "Indovina il vitigno"
+},
+{
+"en": "worth {N} points",
+"it": "vale {N} punti"
+},
+{
+"en": "Another clue",
+"it": "Un altro indizio"
+},
+{
+"en": "It was:",
+"it": "Era:"
+},
+{
+"en": "Time's up!",
+"it": "Tempo scaduto!"
+},
+{
+"en": "Wrong answer",
+"it": "Risposta sbagliata"
+},
+{
+"en": "correct answers",
+"it": "risposte giuste"
+},
+{
+"en": "Put in order",
+"it": "Metti in ordine"
+},
+{
+"en": "Check",
+"it": "Verifica"
+},
+{
+"en": "Right order:",
+"it": "Ordine giusto:"
+},
+{
+"en": "challenges solved",
+"it": "sfide riuscite"
+},
+{
+"en": "Your space",
+"it": "Il tuo spazio"
+},
+{
+"en": "mastered",
+"it": "padroneggiate"
+},
+{
+"en": "Road to the exam",
+"it": "Verso l'esame"
+},
+{
+"en": "{M} of {T} questions mastered",
+"it": "{M} domande padroneggiate su {T}"
+},
+{
+"en": "Last mock exam: {P}%",
+"it": "Ultimo esame simulato: {P}%"
+},
+{
+"en": "The questions you got wrong",
+"it": "Le domande che hai sbagliato"
+},
+{
+"en": "All your sessions",
+"it": "Tutte le tue sessioni"
+},
+{
+"en": "Settings",
+"it": "Impostazioni"
+},
+{
+"en": "Goal, language, theme, notifications",
+"it": "Obiettivo, lingua, tema, notifiche"
+},
+{
+"en": "Daily goal",
+"it": "Obiettivo giornaliero"
+},
+{
+"en": "Sessions per day (quizzes, games, maps)",
+"it": "Sessioni al giorno (quiz, giochi, mappe)"
+},
+{
+"en": "Language",
+"it": "Lingua"
+},
+{
+"en": "Theme",
+"it": "Tema"
+},
+{
+"en": "Automatic",
+"it": "Automatico"
+},
+{
+"en": "Light",
+"it": "Chiaro"
+},
+{
+"en": "Dark",
+"it": "Scuro"
+},
+{
+"en": "Reminders",
+"it": "Promemoria"
+},
+{
+"en": "We'll warn you when your streak is at risk (on a phone the app must be open or installed).",
+"it": "Ti avvisiamo quando la serie è a rischio (sul telefono serve l'app aperta o installata)."
+},
+{
+"en": "Your browser doesn't support notifications here.",
+"it": "Il tuo browser non supporta le notifiche qui."
+},
+{
+"en": "On",
+"it": "Attivi"
+},
+{
+"en": "Turn on reminders",
+"it": "Attiva promemoria"
+},
+{
+"en": "Notifications",
+"it": "Notifiche"
+},
+{
+"en": "100 new exam-style questions",
+"it": "100 nuove domande stile esame"
+},
+{
+"en": "Mixed in with all the others in every chapter",
+"it": "Mescolate con tutte le altre in ogni capitolo"
+},
+{
+"en": "New Play section",
+"it": "Nuova sezione Gioca"
+},
+{
+"en": "4 new games to revise while having fun",
+"it": "4 giochi nuovi per ripassare divertendoti"
+},
+{
+"en": "Hungary and Tokaj",
+"it": "Ungheria e Tokaj"
+},
+{
+"en": "New map and profiles",
+"it": "Nuova mappa e schede"
+},
+{
+"en": "Your {N}-day streak is at risk!",
+"it": "La tua serie di {N} giorni è a rischio!"
+},
+{
+"en": "10 questions are enough to save it",
+"it": "Bastano 10 domande per salvarla"
+},
+{
+"en": "{N} mistakes are waiting for review",
+"it": "{N} errori aspettano un ripasso"
+},
+{
+"en": "Daily goal reached! 🎉",
+"it": "Obiettivo del giorno raggiunto! 🎉"
+},
+{
+"en": "Fancy a bonus game?",
+"it": "Vuoi fare un gioco bonus?"
+},
+{
+"en": "This week: {N} sessions",
+"it": "Questa settimana: {N} sessioni"
+},
+{
+"en": "Total XP: {X}. Keep it up!",
+"it": "Totale XP: {X}. Continua così!"
+},
+{
+"en": "Tap a chapter for 10 questions. The ring shows how well you know it.",
+"it": "Tocca un capitolo per 10 domande. Il cerchio mostra quanto lo padroneggi."
+},
+{
+"en": "Custom quiz (several chapters, level, number of questions)",
+"it": "Quiz su misura (più capitoli, livello, numero di domande)"
+},
+{
+"en": "Exam style (EVS school)",
+"it": "Stile esame (scuola EVS)"
+},
+{
+"en": "EVS school questions only",
+"it": "Solo domande della scuola EVS"
+},
+{
+"en": "EVS school",
+"it": "Scuola EVS"
+},
+{
+"en": "Exam style",
+"it": "Stile esame"
+},
+{
+"en": "Day streak",
+"it": "Giorni di fila"
+},
+{
+"en": "Complete {N} sessions today",
+"it": "Completa {N} sessioni oggi"
+},
+{
+"en": "Your progress",
+"it": "I tuoi progressi"
+},
+{
+"en": "grapes",
+"it": "vitigni"
+},
+{
+"en": "maps started",
+"it": "mappe iniziate"
+},
+{
+"en": "mistakes to review",
+"it": "errori da ripassare"
+},
+{
+"en": "A little every day: even 10 minutes keeps your streak alive!",
+"it": "Un po' ogni giorno: anche 10 minuti tengono viva la serie!"
+},
+{
+"en": "Outlines",
+"it": "Schemi"
+},
+{
+"en": "Countries → regions → appellations, and grapes → countries",
+"it": "Paesi → regioni → denominazioni, e vitigni → paesi"
+},
+{
+"en": "By country",
+"it": "Per paese"
+},
+{
+"en": "By grape",
+"it": "Per vitigno"
+},
+{
+"en": "Each country with its regions and appellations: type (AOC, DOCG, AVA…), grapes (main one in bold) and key features. Tap a name to see it on the map, a grape for its outline.",
+"it": "Ogni paese con le sue regioni e denominazioni: tipo (AOC, DOCG, AVA…), uve (in grassetto la principale) e caratteristiche. Tocca un nome per vederlo sulla mappa, un'uva per lo schema di quel vitigno."
+},
+{
+"en": "Each grape with the countries, regions and appellations where it appears. In bold, the areas where it is the main grape.",
+"it": "Ogni vitigno con i paesi, le regioni e le denominazioni dove compare. In grassetto le zone dove è l'uva principale."
+},
+{
+"en": "Search a country, region, appellation or grape…",
+"it": "Cerca paese, regione, denominazione o uva…"
+},
+{
+"en": "Open/close all",
+"it": "Apri/chiudi tutto"
+},
+{
+"en": "Main grapes",
+"it": "Vitigni principali"
+},
+{
+"en": "Main regions",
+"it": "Regioni principali"
+},
+{
+"en": "appellations/areas",
+"it": "denominazioni/zone"
+},
+{
+"en": "Profile",
+"it": "Scheda"
+},
+{
+"en": "Grape profiles",
+"it": "Schede vitigni"
+},
+{
+"en": "Climate, aromas, styles and regions for each grape",
+"it": "Clima, aromi, stili e regioni di ogni uva"
+},
+{
+"en": "Match it!",
+"it": "Abbina!"
+},
+{
+"en": "Duolingo-style pairing game",
+"it": "Gioco a coppie in stile Duolingo"
+},
+{
+"en": "The key grapes, each with its own profile: structure, climate, aromas, styles and regions. Tap a region to see it on the map.",
+"it": "Le uve chiave, ognuna con la sua scheda: struttura, clima, aromi, stili e regioni. Tocca una regione per vederla sulla mappa."
+},
+{
+"en": "Black",
+"it": "Neri"
+},
+{
+"en": "Search a grape or synonym…",
+"it": "Cerca un vitigno o un sinonimo…"
+},
+{
+"en": "White grape",
+"it": "Uva bianca"
+},
+{
+"en": "Black grape",
+"it": "Uva nera"
+},
+{
+"en": "Budburst",
+"it": "Germogliamento"
+},
+{
+"en": "Ripening",
+"it": "Maturazione"
+},
+{
+"en": "early",
+"it": "precoce"
+},
+{
+"en": "mid",
+"it": "media"
+},
+{
+"en": "late",
+"it": "tardiva"
+},
+{
+"en": "Vineyard & climate",
+"it": "Vigneto e clima"
+},
+{
+"en": "Aromas",
+"it": "Aromi"
+},
+{
+"en": "Styles & winemaking",
+"it": "Stili e cantina"
+},
+{
+"en": "Remember:",
+"it": "Da ricordare:"
+},
+{
+"en": "Key regions",
+"it": "Regioni chiave"
+},
+{
+"en": "Synonyms",
+"it": "Sinonimi"
+},
+{
+"en": "See it on the map",
+"it": "Vedi sulla mappa"
+},
+{
+"en": "Practise this family",
+"it": "Allenati su questa famiglia"
+},
+{
+"en": "No grape found.",
+"it": "Nessun vitigno trovato."
+},
+{
+"en": "Mastery in the Match game",
+"it": "Padronanza nel gioco Abbina"
+},
+{
+"en": "Match each grape to its region, aromas, typical trait or synonym. Each lesson has 4 rounds and 3 hearts: every mistake costs one.",
+"it": "Abbina ogni vitigno alla sua regione, ai suoi aromi, al suo tratto tipico o al suo sinonimo. Ogni lezione ha 4 round e 3 cuori: ogni errore ne costa uno."
+},
+{
+"en": "day streak",
+"it": "giorni di fila"
+},
+{
+"en": "grapes mastered",
+"it": "vitigni padroneggiati"
+},
+{
+"en": "Pair type",
+"it": "Tipo di coppie"
+},
+{
+"en": "Mixed",
+"it": "Misto"
+},
+{
+"en": "Grape ↔ Region",
+"it": "Vitigno ↔ Regione"
+},
+{
+"en": "Grape ↔ Aromas",
+"it": "Vitigno ↔ Aromi"
+},
+{
+"en": "Grape ↔ Typical trait",
+"it": "Vitigno ↔ Tratto tipico"
+},
+{
+"en": "Grape ↔ Synonym",
+"it": "Vitigno ↔ Sinonimo"
+},
+{
+"en": "All grapes",
+"it": "Tutti i vitigni"
+},
+{
+"en": "Lesson with all grapes",
+"it": "Lezione con tutti i vitigni"
+},
+{
+"en": "Review mistakes",
+"it": "Ripassa gli errori"
+},
+{
+"en": "Sounds",
+"it": "Suoni"
+},
+{
+"en": "Tap the pairs that go together",
+"it": "Tocca le coppie che vanno insieme"
+},
+{
+"en": "Keyboard: 1–5 left column, 6–0 right column, Esc to quit",
+"it": "Tastiera: 1–5 colonna sinistra, 6–0 colonna destra, Esc per uscire"
+},
+{
+"en": "Quit lesson",
+"it": "Esci dalla lezione"
+},
+{
+"en": "Cheers! 🥂",
+"it": "Cin cin! 🥂"
+},
+{
+"en": "Grand cru!",
+"it": "Grand cru!"
+},
+{
+"en": "What a vintage!",
+"it": "Che annata!"
+},
+{
+"en": "Cheers! Lesson complete 🥂",
+"it": "Salute! Lezione completata 🥂"
+},
+{
+"en": "Out of hearts!",
+"it": "Cuori finiti!"
+},
+{
+"en": "No problem: try again, the pairs change every time.",
+"it": "Nessun problema: riprova, le coppie cambiano ogni volta."
+},
+{
+"en": "No mistakes: +5 bonus XP",
+"it": "Zero errori: +5 XP bonus"
+},
+{
+"en": "XP earned",
+"it": "XP guadagnati"
+},
+{
+"en": "Time",
+"it": "Tempo"
+},
+{
+"en": "To review (tap to open the profile)",
+"it": "Da ripassare (tocca per aprire la scheda)"
+},
+{
+"en": "Another lesson",
+"it": "Un'altra lezione"
+},
+{
+"en": "Try again",
+"it": "Riprova"
+},
+{
+"en": "Back to the path",
+"it": "Torna al percorso"
+},
+{
+"en": "Hello! What shall we revise today?",
+"it": "Ciao! Cosa ripassiamo oggi?"
+},
+{
+"en": "Train by topic or test yourself with a full mock exam.",
+"it": "Allenati per argomento o mettiti alla prova con un esame simulato completo."
+},
+{
+"en": "Go to training",
+"it": "Vai all'allenamento"
+},
+{
+"en": "Like Seterra: tap the place on the map and see instantly if you are right. Appellation borders are the real borders of the communes they include. Every name you find stays written on the map. Three levels: Basic (main places), Advanced (+ extra appellations and crus), Expert (no borders: from memory). Places you miss come back more often.",
+"it": "Come Seterra: tocchi il luogo sulla mappa e vedi subito se è giusto. I confini delle denominazioni sono quelli reali dei comuni che ne fanno parte. Ogni nome che trovi resta scritto sulla mappa. Tre livelli: Base (luoghi principali), Avanzato (+ denominazioni e cru in più), Esperto (senza confini: tocchi a memoria). Le zone sbagliate tornano più spesso."
+},
+{
+"en": "places mastered",
+"it": "luoghi padroneggiati"
+},
+{
+"en": "last 28 days",
+"it": "ultimi 28 giorni"
+},
+{
+"en": "Unlock all levels",
+"it": "Sblocca tutti i livelli"
+},
+{
+"en": "Real borders: communes of France (IGN), Italy (ISTAT), Spain (IGN España), Portugal (CAOP), Austria (Statistik Austria) and German districts; rivers and coasts from Natural Earth. Appellations are drawn by joining the communes or districts of the area, so the border is slightly wider than the official vineyard area. Greece, the New World and South Africa remain schematic.",
+"it": "Confini reali: comuni di Francia (IGN), Italia (ISTAT), Spagna (IGN España), Portogallo (CAOP), Austria (Statistik Austria) e distretti tedeschi; fiumi e coste da Natural Earth. Le denominazioni sono disegnate unendo i comuni o i distretti della zona, quindi il confine è un po' più largo di quello ufficiale dei vigneti. Grecia, Nuovo Mondo e Sudafrica restano schematici."
+},
+{
+"en": "Locked: first master “{P}” (30% of places or a 70% best score).",
+"it": "Livello bloccato: padroneggia prima «{P}» (30% dei luoghi o un record del 70%)."
+},
+{
+"en": "Find it",
+"it": "Trova"
+},
+{
+"en": "Tap the area on the map",
+"it": "Tocca la zona sulla mappa"
+},
+{
+"en": "What is it called?",
+"it": "Come si chiama?"
+},
+{
+"en": "Pick the name from 4",
+"it": "Scegli il nome tra 4"
+},
+{
+"en": "Type the name",
+"it": "Scrivi il nome"
+},
+{
+"en": "The hardest",
+"it": "La più difficile"
+},
+{
+"en": "Atlas",
+"it": "Atlante"
+},
+{
+"en": "Study and search by name",
+"it": "Studia e cerca per nome"
+},
+{
+"en": "Quick session (10)",
+"it": "Sessione rapida (10)"
+},
+{
+"en": "Whole map",
+"it": "Tutta la mappa"
+},
+{
+"en": "{N} areas due for review today",
+"it": "{N} zone da ripassare oggi"
+},
+{
+"en": "Play anyway",
+"it": "Gioca comunque"
+},
+{
+"en": "Find:",
+"it": "Trova:"
+},
+{
+"en": "Hear the pronunciation",
+"it": "Ascolta la pronuncia"
+},
+{
+"en": "What is the highlighted area called?",
+"it": "Come si chiama la zona evidenziata?"
+},
+{
+"en": "Type the name of the highlighted area",
+"it": "Scrivi il nome della zona evidenziata"
+},
+{
+"en": "It was here",
+"it": "Era qui"
+},
+{
+"en": "Search a name…",
+"it": "Cerca un nome…"
+},
+{
+"en": "Tap an area to see its name and what to know. Greener areas are the ones you have mastered.",
+"it": "Tocca una zona per vedere nome e cosa sapere. Le zone più verdi sono quelle che padroneggi."
+},
+{
+"en": "Name (accents don't matter)",
+"it": "Nome (gli accenti non contano)"
+},
+{
+"en": "I don't know",
+"it": "Non lo so"
+},
+{
+"en": "Tap the right place. Pinch or double-tap to zoom.",
+"it": "Tocca il luogo giusto. Due dita o doppio tocco per ingrandire."
+},
+{
+"en": "Retry mistakes",
+"it": "Ripeti gli errori"
+},
+{
+"en": "Next level",
+"it": "Livello successivo"
+},
+{
+"en": "Difficulty",
+"it": "Difficoltà"
+},
+{
+"en": "Basic",
+"it": "Base"
+},
+{
+"en": "Main places, borders shown",
+"it": "Luoghi principali, confini visibili"
+},
+{
+"en": "+ extra appellations and crus, close answers",
+"it": "+ denominazioni e cru extra, risposte vicine"
+},
+{
+"en": "Expert",
+"it": "Esperto"
+},
+{
+"en": "No borders: from memory",
+"it": "Nessun confine: tocchi a memoria"
+},
+{
+"en": "No borders shown: tap where it is. Pinch or double-tap to zoom.",
+"it": "Nessun confine visibile: tocca dove si trova. Due dita o doppio tocco per ingrandire."
+},
+{
+"en": "You tapped:",
+"it": "Hai toccato:"
+},
+{
+"en": "Advanced level",
+"it": "Livello avanzato"
+},
+{
+"en": "General area",
+"it": "Zona generale"
+},
+{
+"en": "Try harder",
+"it": "Prova più difficile"
+},
+{
+"en": "Review",
+"it": "Ripasso"
+},
+{
+"en": "Wrong",
+"it": "Sbagliate"
+},
+{
+"en": "Right",
+"it": "Giuste"
+},
+{
+"en": "My correct answers",
+"it": "Le mie risposte giuste"
+},
+{
+"en": "Every question you have already answered correctly, with the answer and explanation, so you can review them. “Always right” = never missed; “Fixed after a mistake” = missed, then right; “Needs work” = you got it right once but your last try was wrong.",
+"it": "Tutte le domande a cui hai già risposto bene, con risposta e spiegazione, per ripassarle. «Sempre giusta» = mai sbagliata; «Corretta dopo un errore» = prima sbagliata, poi giusta; «Da consolidare» = l'hai indovinata ma l'ultimo tentativo era sbagliato."
+},
+{
+"en": "Always right",
+"it": "Sempre giusta"
+},
+{
+"en": "Fixed after a mistake",
+"it": "Corretta dopo un errore"
+},
+{
+"en": "Needs work",
+"it": "Da consolidare"
+},
+{
+"en": "You once answered",
+"it": "Una volta avevi risposto"
+},
+{
+"en": "Redo these questions",
+"it": "Rifai queste domande"
+},
+{
+"en": "No correct answers here yet. Take a quiz and you'll find them in this section.",
+"it": "Ancora nessuna risposta giusta qui. Fai un quiz e le ritroverai in questa sezione."
+},
+{
+"en": "Grapes & appellations",
+"it": "Vitigni e denominazioni"
+},
+{
+"en": "Names shown: pick the grapes and the category",
+"it": "Nomi già scritti: scegli i vitigni e la categoria"
+},
+{
+"en": "Grapes and category of",
+"it": "Vitigni e categoria di"
+},
+{
+"en": "Pick the main grapes ({N})",
+"it": "Scegli i vitigni principali ({N})"
+},
+{
+"en": "Category / level",
+"it": "Categoria / livello"
+},
+{
+"en": "missed",
+"it": "mancava"
+},
+{
+"en": "Wine law",
+"it": "Legislazione"
+},
+{
+"en": "Almost: see what was missing",
+"it": "Quasi: guarda cosa mancava"
+},
+{
+"en": "Not quite",
+"it": "Non proprio"
+},
+{
+"en": "Back to the game",
+"it": "Torna al gioco"
+},
+{
+"en": "Exam preparation",
+"it": "Preparazione d'esame"
+},
+{
+"en": "Your exam",
+"it": "Il tuo esame"
+},
+{
+"en": "Only exam-format practice: multiple choice, written answers, SAT tasting.",
+"it": "Solo esercizi nel formato dell'esame: scelta multipla, risposte scritte, degustazione SAT."
+},
+{
+"en": "Timed multiple choice, written answers and SAT, just like exam day",
+"it": "Crocette, risposte scritte e SAT a tempo, come il giorno dell'esame"
+},
+{
+"en": "Exam training",
+"it": "Allenamento per l'esame"
+},
+{
+"en": "Everything to review",
+"it": "Tutto da ripassare"
+},
+{
+"en": "Podcasts, films, dictionary, fact sheets and maps: all the content to read and listen to, no scores, no timer.",
+"it": "Podcast, film, dizionario, schede e mappe: tutto il materiale da leggere e ascoltare, senza voti né cronometro."
+},
+{
+"en": "Play break",
+"it": "Pausa ricreativa"
+},
+{
+"en": "Harvest",
+"it": "Vendemmia"
+},
+{
+"en": "Catch only the right grapes",
+"it": "Raccogli al volo solo le uve giuste"
+},
+{
+"en": "Bunches fall from the vine row: tap only those that match the region or country shown. Every 5 catches the target changes and it speeds up. Three mistakes and the harvest is over.",
+"it": "I grappoli cadono dal filare: tocca solo quelli che corrispondono alla regione o al paese indicato. Ogni 5 raccolti cambia la richiesta e si accelera. Tre errori e la vendemmia è finita."
+},
+{
+"en": "Bubbles",
+"it": "Bollicine"
+},
+{
+"en": "Pop the right bubble before it reaches the top",
+"it": "Scoppia la bolla giusta prima che arrivi in cima"
+},
+{
+"en": "Answers rise in the glass like bubbles: tap the right one before it reaches the mousse. Every correct answer fills the flute. Three lives.",
+"it": "Le risposte salgono nel calice come bollicine: tocca quella giusta prima che raggiunga la spuma. Ogni risposta giusta riempie il flûte. Tre vite."
+},
+{
+"en": "The Winemaker",
+"it": "Il Cantiniere"
+},
+{
+"en": "Make the wine: every choice changes the result",
+"it": "Fai il vino: ogni scelta cambia il risultato"
+},
+{
+"en": "You get an order for a wine style and make the decisions in the vineyard and the winery. At the end you taste the result and see what worked.",
+"it": "Ricevi l'ordine di uno stile di vino e prendi tu le decisioni in vigna e in cantina. Alla fine assaggi il risultato e scopri cosa ha funzionato."
+},
+{
+"en": "Pick only grapes from",
+"it": "Raccogli solo le uve di"
+},
+{
+"en": "Pick only grapes typical of",
+"it": "Raccogli solo le uve tipiche di"
+},
+{
+"en": "bunches",
+"it": "grappoli"
+},
+{
+"en": "is not typical of",
+"it": "non è tipica di"
+},
+{
+"en": "left",
+"it": "ancora"
+},
+{
+"en": "bubbles",
+"it": "bolle"
+},
+{
+"en": "It reached the top!",
+"it": "È arrivata in cima!"
+},
+{
+"en": "Today's order",
+"it": "Ordine del giorno"
+},
+{
+"en": "Step",
+"it": "Fase"
+},
+{
+"en": "Your wine",
+"it": "Il tuo vino"
+},
+{
+"en": "Requested style",
+"it": "Stile richiesto"
+},
+{
+"en": "A medal-winning wine!",
+"it": "Vino da medaglia!"
+},
+{
+"en": "Drinkable, but could be better",
+"it": "Bevibile, ma si può fare meglio"
+},
+{
+"en": "Back to the winery…",
+"it": "Da rifare in cantina…"
+},
+{
+"en": "right choices",
+"it": "scelte giuste"
+},
+{
+"en": "New",
+"it": "Nuovo"
+},
+{
+"en": "Wine films",
+"it": "Film del vino"
+},
+{
+"en": "Vineyard, winery, sparkling, sweet wines, Sherry, Port, food pairing and every country on maps",
+"it": "Vigna, cantina, spumanti, vini dolci, Sherry, Porto, abbinamenti e tutti i paesi con le mappe"
+},
+{
+"en": "scenes",
+"it": "scene"
+},
+{
+"en": "watched",
+"it": "visto"
+},
+{
+"en": "Voice",
+"it": "Voce"
+},
+{
+"en": "End of film",
+"it": "Fine del film"
+},
+{
+"en": "Watch again",
+"it": "Rivedi"
+},
+{
+"en": "Next film",
+"it": "Film successivo"
+},
+{
+"en": "All films",
+"it": "Tutti i film"
+},
+{
+"en": "Test yourself",
+"it": "Mettiti alla prova"
+},
+{
+"en": "Vineyard, winery, styles and wine countries: every step animated and narrated, with maps and charts to remember. Each film ends with the key words and a quiz on what the video covered.",
+"it": "Vigna, cantina, stili e paesi del vino: ogni passaggio animato e spiegato a voce, con mappe e schemi da ricordare. Alla fine di ogni film trovi le parole chiave e un test sul contenuto del video."
+},
+{
+"en": "Podcasts",
+"it": "Podcast"
+},
+{
+"en": "Lessons to listen to, topic by topic",
+"it": "Lezioni da ascoltare, tema per tema"
+},
+{
+"en": "Every topic told as a lesson: listen and follow the text as it plays.",
+"it": "Ogni tema raccontato come una lezione: ascoltala e segui il testo mentre parla."
+},
+{
+"en": "Section 1 · Wine and the consumer",
+"it": "Sezione 1 · Il vino e il consumatore"
+},
+{
+"en": "Section 2 · Style, quality and price",
+"it": "Sezione 2 · Stile, qualità e prezzo"
+},
+{
+"en": "Section 3 · Still wines of the world",
+"it": "Sezione 3 · I vini fermi del mondo"
+},
+{
+"en": "Section 4 · Sparkling wines",
+"it": "Sezione 4 · Gli spumanti"
+},
+{
+"en": "Section 5 · Fortified wines",
+"it": "Sezione 5 · I vini fortificati"
+},
+{
+"en": "Audio coming soon",
+"it": "Audio in arrivo"
+},
+{
+"en": "Listened",
+"it": "Ascoltato"
+},
+{
+"en": "Lesson text",
+"it": "Testo della lezione"
+},
+{
+"en": "Mark as listened",
+"it": "Segna come ascoltata"
+},
+{
+"en": "Listened ✓",
+"it": "Ascoltata ✓"
+},
+{
+"en": "Next lesson",
+"it": "Lezione successiva"
+},
+{
+"en": "Speed",
+"it": "Velocità"
+},
+{
+"en": "Ask the AI about this lesson",
+"it": "Domande alla IA su questa lezione"
+},
+{
+"en": "Spoken answers",
+"it": "Risposte a voce"
+},
+{
+"en": "Dictate your question",
+"it": "Detta la domanda"
+},
+{
+"en": "Listen",
+"it": "Ascolta"
+},
+{
+"en": "Preparing the voice… {P}%",
+"it": "Preparo la voce… {P}%"
+},
+{
+"en": "Natural voice unavailable on this device: using the system voice.",
+"it": "Voce naturale non disponibile su questo dispositivo: uso la voce del sistema."
+},
+{
+"en": "Microphone unavailable here: please type your question.",
+"it": "Microfono non disponibile qui: scrivi la domanda."
+},
+{
+"en": "Recorded voice",
+"it": "Voce registrata"
+},
+{
+"en": "Your device's own voice: quality depends on the browser. The most natural: Edge \"Natural\" voices, Chrome \"Google\" voices, Premium or Enhanced voices on iPhone/Mac (Settings › Accessibility › Spoken Content › Voices).",
+"it": "Voce del tuo dispositivo: la qualità dipende dal browser. Le più naturali: in Edge le voci «Natural», in Chrome «Google», su iPhone/Mac le voci «Premium» o «Migliorata» (Impostazioni › Accessibilità › Contenuto letto ad alta voce › Voci)."
+},
+{
+"en": "Loading text…",
+"it": "Carico il testo…"
+},
+{
+"en": "min",
+"it": "min"
+},
+{
+"en": "Text unavailable.",
+"it": "Testo non disponibile."
+},
+{
+"en": "Sum up the lesson in 5 key points",
+"it": "Riassumimi la lezione in 5 punti chiave"
+},
+{
+"en": "Give me 3 exam questions on this chapter",
+"it": "Fammi 3 domande d'esame su questo capitolo"
+},
+{
+"en": "What's the hardest idea to remember here?",
+"it": "Qual è il concetto più difficile da ricordare qui?"
+},
+{
+"en": "Balance · Length · Intensity · Complexity",
+"it": "Equilibrio · Persistenza · Intensità · Complessità"
+},
+{
+"en": "e.g. legs/tears, deposit, pétillance, bubbles",
+"it": "es. lacrime, deposito, perlage, bollicine"
+},
+{
+"en": "Exam format",
+"it": "Formato esame"
+},
+{
+"en": "Total",
+"it": "Totale"
+},
+{
+"en": "Wine",
+"it": "Vino"
+},
+{
+"en": "Exam-format questions (25 points)",
+"it": "Domande in formato esame (25 punti)"
+},
+{
+"en": "Dictionary",
+"it": "Dizionario"
+},
+{
+"en": "All the wine terms, French to English",
+"it": "Tutti i termini del vino, dal francese all'italiano"
+},
+{
+"en": "Search a term (e.g. soutirage)",
+"it": "Cerca un termine (es. soutirage)"
+},
+{
+"en": "terms",
+"it": "termini"
+},
+{
+"en": "No term found.",
+"it": "Nessun termine trovato."
+},
+{
+"en": "In other languages",
+"it": "In altre lingue"
+},
+{
+"en": "Grape comparison",
+"it": "Confronto vitigni"
+},
+{
+"en": "Every grape side by side, in one table",
+"it": "Tutte le uve a confronto, in una tabella"
+},
+{
+"en": "Grape",
+"it": "Vitigno"
+},
+{
+"en": "Young",
+"it": "Da giovane"
+},
+{
+"en": "With age",
+"it": "Con l'età"
+},
+{
+"en": "Vineyard & hazards",
+"it": "Vigna e rischi"
+},
+{
+"en": "Regions",
+"it": "Regioni"
+},
+{
+"en": "Sort by",
+"it": "Ordina per"
+},
+{
+"en": "Search a grape, aroma or region",
+"it": "Cerca un vitigno, un aroma, una regione"
+},
+{
+"en": "Scroll the table sideways · tap a name for the full profile",
+"it": "Scorri la tabella di lato · tocca un nome per la scheda completa"
+},
+{
+"en": "Key figures",
+"it": "Le cifre da sapere"
+},
+{
+"en": "Every number you need for the exam: crus, ageing rules, percentages, thresholds.",
+"it": "Tutti i numeri che servono all'esame: crus, affinamenti, percentuali, soglie."
+},
+{
+"en": "Search a figure (e.g. crus, solera, Barolo)",
+"it": "Cerca una cifra (es. crus, solera, Barolo)"
+},
+{
+"en": "figures",
+"it": "cifre"
+},
+{
+"en": "Chapters",
+"it": "Capitoli"
+},
+{
+"en": "Subtitles",
+"it": "Sottotitoli"
+},
+{
+"en": "Full screen",
+"it": "Schermo intero"
+},
+{
+"en": "The Wine Goat · wine school",
+"it": "The Wine Goat · la scuola del vino"
+},
+{
+"en": "Scene",
+"it": "Scena"
+},
+{
+"en": "In this scene",
+"it": "In questa scena"
+},
+{
+"en": "The review cellar",
+"it": "La cantina del ripasso"
+},
+{
+"en": "Podcasts, films, dictionary, fact sheets and maps: everything to read, listen to and watch, at your own pace.",
+"it": "Podcast, film, dizionario, schede e mappe: tutto da leggere, ascoltare e guardare, con calma."
+},
+{
+"en": "Open",
+"it": "Apri"
+},
+{
+"en": "films",
+"it": "film"
+},
+{
+"en": "maps",
+"it": "mappe"
+},
+{
+"en": "To remember for the exam",
+"it": "Da ricordare per l'esame"
+},
+{
+"en": "Key words",
+"it": "Parole chiave"
+},
+{
+"en": "Summary",
+"it": "Riassunto"
+},
+{
+"en": "Grapes",
+"it": "Vitigni"
+},
+{
+"en": "Regions and places",
+"it": "Regioni e luoghi"
+},
+{
+"en": "Technical terms",
+"it": "Termini tecnici"
+},
+{
+"en": "Figures",
+"it": "Cifre"
+},
+{
+"en": "Summary and key words",
+"it": "Riassunto e parole chiave"
+},
+{
+"en": "Quiz on this video",
+"it": "Test su questo video"
+},
+{
+"en": "questions on what the film covered",
+"it": "domande sul contenuto del film"
+},
+{
+"en": "Search films: Champagne, Riesling, solera, Barolo…",
+"it": "Cerca un film: Champagne, Riesling, solera, Barolo…"
+},
+{
+"en": "No film matches this search.",
+"it": "Nessun film trovato per questa ricerca."
+},
+{
+"en": "films found",
+"it": "film trovati"
+},
+{
+"en": "Ready for a quiz?",
+"it": "Pronta per un quiz?"
+},
+{
+"en": "How many questions?",
+"it": "Quante domande?"
+},
+{
+"en": "Start the quiz",
+"it": "Inizia il quiz"
+},
+{
+"en": "questions",
+"it": "domande"
+},
+{
+"en": "Topics",
+"it": "Argomenti"
+},
+{
+"en": "Optional: pick only the topics you want to revise. By default all are included.",
+"it": "Facoltativo: scegli solo gli argomenti che vuoi ripassare. Di base sono inclusi tutti."
+},
+{
+"en": "Options",
+"it": "Opzioni"
+},
+{
+"en": "all topics",
+"it": "tutti gli argomenti"
+},
+{
+"en": "topics chosen",
+"it": "argomenti scelti"
+},
+{
+"en": "whole group",
+"it": "tutto il gruppo"
+},
+{
+"en": "Watched once",
+"it": "Visto 1 volta"
+},
+{
+"en": "Watched {n} times",
+"it": "Visto {n} volte"
+},
+{
+"en": "Not watched yet",
+"it": "Da vedere"
+},
+{
+"en": "Flashcards",
+"it": "Flashcard"
+},
+{
+"en": "Everything to learn as flip cards: questions, terms, figures and grapes. The ones you miss come back more often.",
+"it": "Tutto il materiale in carte da girare: domande, termini, cifre e vitigni. Ripeti più spesso quelle che non sai."
+},
+{
+"en": "cards",
+"it": "carte"
+},
+{
+"en": "Revise with cards",
+"it": "Ripassa con le carte"
+},
+{
+"en": "How many cards?",
+"it": "Quante carte?"
+},
+{
+"en": "Card types",
+"it": "Tipi di carte"
+},
+{
+"en": "Optional: by default, every topic.",
+"it": "Facoltativo: di base ci sono tutti gli argomenti."
+},
+{
+"en": "Questions",
+"it": "Domande"
+},
+{
+"en": "Terms",
+"it": "Termini"
+},
+{
+"en": "Tap the card to flip it",
+"it": "Tocca la carta per girarla"
+},
+{
+"en": "Show answer",
+"it": "Mostra la risposta"
+},
+{
+"en": "Review again",
+"it": "Da ripassare"
+},
+{
+"en": "I knew it",
+"it": "La sapevo"
+},
+{
+"en": "Session complete!",
+"it": "Sessione finita!"
+},
+{
+"en": "known",
+"it": "sapute"
+},
+{
+"en": "to review",
+"it": "da ripassare"
+},
+{
+"en": "New session",
+"it": "Nuova sessione"
+},
+{
+"en": "Review the missed ones",
+"it": "Ripassa le sbagliate"
+},
+{
+"en": "Back to flashcards",
+"it": "Torna alle flashcard"
+},
+{
+"en": "cards learnt",
+"it": "carte imparate"
+},
+{
+"en": "new",
+"it": "nuove"
+},
+{
+"en": "learning",
+"it": "in corso"
+},
+{
+"en": "{N} new questions still to do",
+"it": "{N} domande nuove ancora da fare"
+},
+{
+"en": "All questions done: now reviewing the ones you missed ({N})",
+"it": "Hai fatto tutte le domande: ora ripassi quelle sbagliate ({N})"
+},
+{
+"en": "All questions done and known: free review",
+"it": "Hai fatto e sapevi tutte le domande: ripasso libero"
+},
+{
+"en": "Confirm answer",
+"it": "Conferma la risposta"
+}
+]

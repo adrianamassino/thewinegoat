@@ -1,0 +1,698 @@
+[
+{
+"en": "Stable = changes slowly and predictably over its intended life",
+"it": "Stabile = cambia lentamente e in modo prevedibile nell'arco di tempo previsto per quel vino"
+},
+{
+"en": "Stable = never forms a deposit and never changes, however long it is kept",
+"it": "Stabile = non forma mai depositi e non cambia, qualunque sia il tempo in bottiglia"
+},
+{
+"en": "Stable = has been sterile filtered and fined before bottling",
+"it": "Stabile = è stato filtrato in modo sterile e chiarificato prima dell'imbottigliamento"
+},
+{
+"en": "Stable = contains enough alcohol and SO2 to prevent any development",
+"it": "Stabile = contiene abbastanza alcol e SO2 da impedire qualsiasi evoluzione"
+},
+{
+"en": "Stability is relative to the wine and its drinking window.",
+"it": "La stabilità è relativa al vino e al suo orizzonte di consumo."
+},
+{
+"en": "All wines change, so a wine is stable if, over a specified time frame, it changes slowly and predictably; acceptable time and change vary. A cheap red for drinking within a year should throw no deposit, while a mature Vintage Port should throw a thick one over 50-60 years in bottle. Hence fining is also seen as stabilisation: it aims at a predictable outcome.",
+"it": "Tutti i vini cambiano col tempo, quindi un vino è considerato stabile se, in un arco di tempo specifico, cambia in modo lento e prevedibile; tempo e cambiamento accettabili variano. Un rosso economico da bere entro un anno non deve fare deposito, mentre un Vintage Port maturo dovrebbe farne uno spesso nei 50-60 anni in bottiglia. Per questo anche il collaggio è visto come stabilizzazione: mira a un risultato prevedibile."
+},
+{
+"en": "Which wines are at no risk of microbiological spoilage?",
+"it": "Quali vini non corrono alcun rischio di contaminazione microbica?"
+},
+{
+"en": "Fortified wines, as their high alcohol is toxic to microbes",
+"it": "I vini fortificati, perché l'alcol elevato è tossico per i microbi"
+},
+{
+"en": "Sweet whites, as their high residual sugar is toxic to all microbes",
+"it": "I bianchi dolci, perché l'alto zucchero residuo è tossico per tutti i microbi"
+},
+{
+"en": "Rosés, as brief skin contact protects them",
+"it": "I rosati, perché il breve contatto con le bucce li protegge"
+},
+{
+"en": "Wines without MLF, as malic acid protects them",
+"it": "I vini senza malolattica, perché l'acido malico li protegge"
+},
+{
+"en": "A dry, high-acid wine that has done MLF is fairly resistant, but not guaranteed.",
+"it": "Anche un vino secco, acido, che ha fatto la malolattica è abbastanza resistente, ma non del tutto sicuro."
+},
+{
+"en": "Many yeasts and bacteria can spoil wine, so winery hygiene is vital. The only wines at no risk of microbiological contamination are fortified wines, as their high alcohol is toxic to all microorganisms. A dry, high-acid wine that has had MLF is quite resistant, but not guaranteed. Sweet whites, rosés and wines without MLF are more at risk.",
+"it": "Molti lieviti e batteri possono alterare il vino, quindi la pulizia della cantina è fondamentale. Gli unici vini che non corrono alcun rischio di contaminazione microbiologica sono i vini fortificati, perché il loro alto livello di alcol è tossico per tutti i microrganismi. Un vino secco, acido e con malolattica è naturalmente abbastanza resistente, ma senza garanzia. I bianchi dolci, i rosati e i vini senza malolattica sono invece più a rischio."
+},
+{
+"en": "Which wines are most at risk of yeast or bacterial spoilage?",
+"it": "Quali vini sono più a rischio di alterazioni da lieviti o batteri?"
+},
+{
+"en": "No MLF, low-medium alcohol, low acidity and some sugar",
+"it": "Niente malolattica, alcol medio-basso, poca acidità, un po' di zucchero"
+},
+{
+"en": "Fortified, high alcohol, medium acidity and lots of sugar",
+"it": "Fortificati, alcol alto, acidità media e molto zucchero residuo"
+},
+{
+"en": "Full MLF, high alcohol, high acidity and bone dry",
+"it": "Con malolattica, alcol alto, acidità alta e completamente secchi"
+},
+{
+"en": "Brut sparkling, medium alcohol, high acidity and high pressure",
+"it": "Spumanti brut, alcol medio, acidità alta e pressione elevata"
+},
+{
+"en": "They need careful handling, appropriate SO2 and sterile filtration before packaging.",
+"it": "Richiedono molta cura, una giusta dose di SO2 e una filtrazione sterile prima del confezionamento."
+},
+{
+"en": "Wines that have not undergone MLF (malic acid remains a bacterial nutrient) and those with low-medium alcohol, low acidity and some residual sugar are particularly at risk of yeast or bacterial spoilage. They need very careful handling, appropriate SO2 and usually sterile filtration. Fortified wines are at no risk; very acidic dry reds and Brut sparkling are more resistant.",
+"it": "I vini che non hanno fatto la malolattica (l'acido malico resta un nutriente per i batteri) e quelli con alcol basso o medio, bassa acidità e un po' di zucchero residuo sono particolarmente a rischio di alterazioni da lieviti o batteri. Per questo richiedono una manipolazione molto attenta, SO2 adeguata e di solito una filtrazione sterile. I fortificati non corrono rischi; i rossi secchi molto acidi e gli spumanti Brut sono più resistenti."
+},
+{
+"en": "How is oxidation risk reduced at packaging?",
+"it": "Come si riduce il rischio di ossidazione all'imbottigliamento?"
+},
+{
+"en": "Flushing bottles with CO2 or nitrogen and keeping SO2 topped up",
+"it": "Saturando le bottiglie di CO2 o azoto e mantenendo adeguata la SO2"
+},
+{
+"en": "Leaving bottles open for a few hours so dissolved oxygen escapes",
+"it": "Lasciando le bottiglie aperte qualche ora per far uscire l'ossigeno disciolto"
+},
+{
+"en": "Heating the bottles before filling to drive out the oxygen",
+"it": "Scaldando le bottiglie prima del riempimento per sterilizzarle dall'ossigeno"
+},
+{
+"en": "Filling bottles only halfway so the air stays separate from the wine",
+"it": "Riempiendo le bottiglie solo a metà, così l'aria resta separata dal vino"
+},
+{
+"en": "An oxidised wine loses fresh aromas and turns brown.",
+"it": "Un vino ossidato perde gli aromi freschi e diventa bruno."
+},
+{
+"en": "If too much oxygen is dissolved in the wine or enters through packaging, the wine oxidises, loses fresh fruit and gradually browns. Risk is reduced by avoiding oxygen exposure and keeping SO2 topped up; at packaging, extra steps are taken, such as flushing bottles with CO2 or nitrogen before filling. Leaving bottles open, heating them or adding sugar does not help.",
+"it": "Se nel vino c'è troppo ossigeno disciolto, o se l'ossigeno entra attraverso la confezione, il vino si ossida, perde gli aromi di frutto fresco e imbrunisce gradualmente. Il rischio si riduce evitando l'esposizione all'ossigeno e mantenendo i livelli di SO2; durante il confezionamento si prendono precauzioni extra, per esempio riempiendo le bottiglie di CO2 o azoto prima del riempimento per eliminare l'ossigeno. Lasciare le bottiglie aperte, scaldarle o aggiungere zucchero non aiuta."
+},
+{
+"en": "What is the main disadvantage of glass bottles?",
+"it": "Qual è il principale svantaggio delle bottiglie di vetro?"
+},
+{
+"en": "It is heavy and rigid, raising transport costs",
+"it": "È pesante e rigido, e aumenta i costi di trasporto"
+},
+{
+"en": "It lets in a little air, like cork does",
+"it": "Lascia passare un po' d'aria, come il sughero"
+},
+{
+"en": "It can taint the wine with off-flavours",
+"it": "Può cedere al vino odori e sapori sgradevoli"
+},
+{
+"en": "Consumers like it less than cartons",
+"it": "È meno apprezzato dai consumatori del cartone"
+},
+{
+"en": "To cut costs: lighter glass or shipping in bulk to bottle near the market.",
+"it": "Per ridurre i costi si usano bottiglie più leggere o si trasporta il vino sfuso per imbottigliarlo vicino al mercato."
+},
+{
+"en": "Most wine worldwide is packaged in glass: portable, cheap to produce, quite strong, airtight and taint-free, and consumers' preferred packaging. The main disadvantages are weight and rigidity: weight adds transport cost and rigidity wastes space; an opened part-full bottle also holds air. Hence lighter glass or bulk shipping. They do not let air in or taint the wine.",
+"it": "La maggior parte del vino nel mondo è confezionata in bottiglie di vetro: portatili, economiche da produrre, abbastanza resistenti, non lasciano entrare aria e non alterano i sapori, e sono la confezione preferita dai consumatori. I principali svantaggi sono che sono pesanti e rigide: il peso aumenta i costi di trasporto e la rigidità impedisce di sfruttare al meglio lo spazio; inoltre una bottiglia aperta e mezza piena contiene aria. Per questo si usano vetri più leggeri o si trasporta sfuso. Non lasciano entrare aria né alterano il vino."
+},
+{
+"en": "Which of these processes guarantees a wine's microbiological stability?",
+"it": "Quale di queste operazioni garantisce la stabilità microbiologica del vino?"
+},
+{
+"en": "Sterile filtration",
+"it": "Filtrazione sterile"
+},
+{
+"en": "Racking",
+"it": "Travaso"
+},
+{
+"en": "Fining",
+"it": "Chiarifica"
+},
+{
+"en": "Low-temperature fermentation",
+"it": "Fermentazione a bassa temperatura"
+},
+{
+"en": "Sterile filtration (~0.45 µm membrane): removes yeasts and bacteria.",
+"it": "Filtrazione sterile (membrana ~0,45 µm): trattiene lieviti e batteri."
+},
+{
+"en": "Sterile filtration passes wine through very fine membranes (about 0.45 micron) that remove yeasts and bacteria, preventing refermentation or spoilage in bottle. Racking and fining improve clarity but do not remove all micro-organisms.",
+"it": "La filtrazione sterile fa passare il vino attraverso membrane finissime (circa 0,45 micron) che trattengono lieviti e batteri, impedendo rifermentazioni o alterazioni in bottiglia. Travaso e chiarifica migliorano la limpidezza ma non eliminano tutti i microrganismi."
+},
+{
+"en": "What advantages do glass bottles have?",
+"it": "Quali vantaggi hanno le bottiglie di vetro?"
+},
+{
+"en": "Portable, cheap, quite strong, airtight, does not taint flavour and is preferred by consumers",
+"it": "Portatile, economico, robusto, ermetico, non altera il sapore ed è preferito dai consumatori"
+},
+{
+"en": "Very light and flexible, it collapses as the wine is drunk and lets in only a very little air",
+"it": "Leggerissimo e flessibile, si affloscia mentre si beve il vino e lascia passare solo pochissima aria"
+},
+{
+"en": "It slowly lets in a little oxygen, favouring tertiary aromas as cork does",
+"it": "Lascia entrare lentamente un po' di ossigeno, favorendo gli aromi terziari come il sughero"
+},
+{
+"en": "Cheap to ship thanks to its low weight and endlessly recyclable at no cost",
+"it": "Economico da trasportare grazie al peso ridotto e riciclabile all'infinito senza costi"
+},
+{
+"en": "Most wine worldwide is in glass bottles: portable, cheap to produce and quite strong; crucially airtight and taint-free, and still consumers' preferred packaging. Drawbacks are weight and rigidity: weight adds transport costs, rigidity wastes space, and a part-filled opened bottle holds air, risking oxidation.",
+"it": "La maggior parte del vino nel mondo è confezionata in bottiglie di vetro: portatili, economiche da produrre e abbastanza robuste; soprattutto non lasciano entrare aria e non alterano il sapore del vino, e restano la confezione preferita dai consumatori. Gli svantaggi sono peso e rigidità: il peso aumenta i costi di trasporto e la rigidità impedisce di sfruttare bene lo spazio; una volta aperta, una bottiglia parzialmente vuota contiene aria e il vino rischia l'ossidazione."
+},
+{
+"en": "Why is a dry, high-acid wine that has undergone MLF fairly resistant to microbes?",
+"it": "Perché un vino secco, molto acido e che ha fatto la malolattica è abbastanza resistente ai microrganismi?"
+},
+{
+"en": "Alcohol, acidity and few nutrients make survival hard for microbes",
+"it": "Alcol, acidità e pochi nutrienti rendono difficile la vita a lieviti e batteri"
+},
+{
+"en": "The lactic acid produced by MLF is toxic to all yeasts and bacteria",
+"it": "L'acido lattico prodotto dalla malolattica è tossico per tutti i lieviti e batteri"
+},
+{
+"en": "Such wines are always sterile filtered and bottled with high SO2",
+"it": "Questi vini sono sempre filtrati in modo sterile e imbottigliati con molta SO2"
+},
+{
+"en": "Residual sugar, which is absent, is the only factor that attracts microbes",
+"it": "Lo zucchero residuo, assente, è l'unico fattore che può attirare i microrganismi"
+},
+{
+"en": "Yeasts and bacteria can make wine undrinkable and thrive in grape and wine residues, so clean equipment is vital. Only fortified wines are safe, their high alcohol being toxic to all microbes. A dry, high-acid wine that has had MLF is naturally quite resistant: alcohol, acidity and lack of nutrients hinder microbes. Not a guarantee, but some winemakers prefer this risk to sterile filtration.",
+"it": "Lieviti e batteri possono rendere un vino imbevibile e prosperano nei residui di uva e vino: la pulizia delle attrezzature è fondamentale. Solo i fortificati sono al riparo, perché il loro alcol alto è tossico per tutti i microrganismi. Un vino secco, molto acido e che ha fatto la malolattica è naturalmente abbastanza resistente: alcol, acidità e mancanza di nutrienti ostacolano i microrganismi. Non è una garanzia totale, ma alcuni vinificatori preferiscono questo rischio alla filtrazione sterile."
+},
+{
+"en": "What is the limitation of plastic bottles?",
+"it": "Qual è il limite delle bottiglie di plastica?"
+},
+{
+"en": "It lets some air through: the wine loses freshness in months",
+"it": "Lascia passare un po' d'aria: il vino perde freschezza in mesi"
+},
+{
+"en": "It is heavier than glass and raises the costs of transport",
+"it": "È più pesante del vetro e aumenta i costi di trasporto"
+},
+{
+"en": "It gives the wine plastic odours that mask the fresh fruit",
+"it": "Cede al vino odori di plastica che coprono il frutto"
+},
+{
+"en": "It cannot take a screwcap, only a natural cork stopper",
+"it": "Non può essere chiusa con tappo a vite, solo con sughero"
+},
+{
+"en": "Plastic and BiB suit early-drinking wines; glass remains best for ageing.",
+"it": "Plastica e bag-in-box vanno bene per vini da bere presto; per l'invecchiamento il vetro resta la scelta migliore."
+},
+{
+"en": "Plastic bottles are much lighter than glass, but plastic lets small amounts of air through, so the wine loses freshness and fruit within months. They suit early-drinking wines; for storage and ageing glass remains best. They are not heavier than glass, do not cause cork taint (TCA) and are not banned.",
+"it": "Le bottiglie di plastica sono molto più leggere del vetro, ma la plastica lascia passare piccole quantità d'aria nel vino, che quindi perde freschezza e fruttato nel giro di mesi. Sono adeguate per vini da bere presto, mentre per conservazione e invecchiamento il vetro resta l'opzione migliore. Non sono più pesanti del vetro, non causano sentore di tappo (TCA) e non sono vietate."
+},
+{
+"en": "Within how long should most bag-in-box packs be used after filling?",
+"it": "Entro quanto tempo va usato di solito un bag-in-box dopo il riempimento?"
+},
+{
+"en": "About 18 months",
+"it": "Circa 18 mesi"
+},
+{
+"en": "About a week",
+"it": "Circa una settimana"
+},
+{
+"en": "About five years",
+"it": "Circa cinque anni"
+},
+{
+"en": "The bag collapses so air can't enter, but some air passes through its wall.",
+"it": "La sacca si affloscia impedendo all'aria di entrare dopo l'apertura, ma un po' d'aria passa attraverso la parete."
+},
+{
+"en": "Bag-in-box is often used for large volumes: the bag collapses as wine is drunk, preventing air entry. But some air still passes through the bag wall, so most packs should be used within about 18 months of filling. It suits early-drinking wines, not ageing. One week is too short, 5 or 10 years too long.",
+"it": "Il bag-in-box si usa spesso per grandi volumi: la sacca si affloscia mentre si consuma il vino, impedendo all'aria di entrare. Ma un po' d'aria riesce comunque ad attraversare la parete della sacca, quindi la maggior parte dei bag-in-box va consumata entro circa 18 mesi dal riempimento. Va bene per vini da consumo rapido, non per l'invecchiamento. Una settimana è troppo poco (dopo l'apertura dura comunque settimane), 5 o 10 anni troppo."
+},
+{
+"en": "Why is cork still chosen for many wines meant for bottle ageing?",
+"it": "Perché il tappo di sughero è ancora scelto per molti vini da invecchiamento?"
+},
+{
+"en": "It lets in a little oxygen slowly, balancing primary and tertiary character",
+"it": "Fa entrare piano un po' di ossigeno, bilanciando primario e terziario"
+},
+{
+"en": "It is airtight and blocks all air exchange, keeping primary fruit intact",
+"it": "È ermetico e blocca ogni scambio d'aria, preservando intatto il frutto primario"
+},
+{
+"en": "It never has faults, unlike screwcaps, which cause reduction",
+"it": "Non presenta mai difetti, a differenza del tappo a vite che causa riduzione"
+},
+{
+"en": "It is cheaper than a screwcap and rules require it for reds",
+"it": "Costa meno del tappo a vite e i disciplinari lo impongono per i rossi"
+},
+{
+"en": "A small share suffers TCA and another share, rising with age, lets in too much oxygen.",
+"it": "Una piccola parte di bottiglie soffre di TCA e un'altra quota, che aumenta con l'età, lascia entrare troppo ossigeno."
+},
+{
+"en": "Cork is the original and still most widely used closure. It remains the choice for many wines meant for bottle maturation because it lets in a small amount of oxygen gradually, achieving what many see as an optimal balance of primary and tertiary character. But a small, declining share suffers cork taint (TCA, mouldy cardboard) and some let in too much oxygen. It is not fault-free, not cheaper than screwcap and not airtight.",
+"it": "Il sughero è la chiusura originale e ancora la più usata. È la chiusura preferita per molti vini destinati a maturare in bottiglia perché lascia entrare gradualmente una piccola quantità di ossigeno, ottenendo secondo molti un equilibrio ottimale tra caratteri primari e terziari. Ha però difetti: una piccola percentuale (in calo) soffre di sentore di tappo (TCA, odore di muffa/cartone) e un'altra lascia entrare troppo ossigeno. Non è privo di difetti, non è più economico del tappo a vite e non è ermetico."
+},
+{
+"en": "Who championed the screwcap?",
+"it": "Chi ha promosso per primo il tappo a vite?"
+},
+{
+"en": "Producers in Australia and New Zealand",
+"it": "I produttori di Australia e Nuova Zelanda"
+},
+{
+"en": "Producers in Bordeaux and Burgundy",
+"it": "I produttori di Bordeaux e Borgogna"
+},
+{
+"en": "Producers in California and Oregon",
+"it": "I produttori di California e Oregon"
+},
+{
+"en": "Producers in Germany and Austria",
+"it": "I produttori di Germania e Austria"
+},
+{
+"en": "It doesn't taint, seals from air and keeps fruit longer than cork; long ageing under screwcap is still debated.",
+"it": "Non dà difetti, sigilla dall'aria e conserva il frutto più a lungo del sughero; si discute ancora sull'invecchiamento lungo sotto vite."
+},
+{
+"en": "The screwcap was championed by Australian and New Zealand producers and its use has grown rapidly in the past decade. It does not taint and can give an airtight seal; trials show it preserves fruit longer than cork, so it is increasingly popular where primary aromas matter. How long-ageing wines mature under screwcap is still debated, and some now allow some oxygen. Bordeaux, Champagne and Port producers were not its champions.",
+"it": "Il tappo a vite è stato promosso dai produttori di Australia e Nuova Zelanda e il suo uso è cresciuto rapidamente nell'ultimo decennio. Non altera il vino e può dare una chiusura impermeabile all'aria; le prove mostrano che conserva il frutto più a lungo del sughero, quindi è sempre più usato per bianchi e rossi dove si vogliono preservare gli aromi primari. Si discute ancora su come maturino i vini da lungo invecchiamento sotto vite, e alcuni tappi ora permettono un po' di ossigeno. Bordeaux, Champagne e Porto non ne sono stati i promotori."
+},
+{
+"en": "What are synthetic corks generally made of?",
+"it": "Di che cosa sono fatti in genere i tappi sintetici?"
+},
+{
+"en": "Plastic",
+"it": "Di plastica"
+},
+{
+"en": "Fine cork",
+"it": "Di sughero fine"
+},
+{
+"en": "Glass",
+"it": "Di vetro"
+},
+{
+"en": "Metal",
+"it": "Di metallo"
+},
+{
+"en": "Once only for wines drunk within a year, premium versions now allow longer storage.",
+"it": "Un tempo adatti solo a vini da bere entro un anno, oggi esistono versioni di pregio per conservazioni più lunghe."
+},
+{
+"en": "Synthetic corks are generally made of some form of plastic. Once suitable only for wines drunk within a year of bottling, there are now premium versions allowing longer storage. Agglomerated cork is still cork; glass and metal (screwcap) are other closures.",
+"it": "I tappi sintetici sono generalmente fatti di qualche forma di plastica. Un tempo erano adatti solo a vini da bere entro un anno dall'imbottigliamento, ma oggi esistono versioni premium che permettono una conservazione più lunga. Il sughero agglomerato è comunque sughero; vetro e metallo (vite) sono altre chiusure."
+},
+{
+"en": "When are most wines best consumed?",
+"it": "Qual è la regola generale sul momento migliore per bere la maggior parte dei vini?"
+},
+{
+"en": "Within a year of bottling",
+"it": "Entro un anno dall'imbottigliamento"
+},
+{
+"en": "After at least ten years in the cellar",
+"it": "Dopo almeno dieci anni in cantina"
+},
+{
+"en": "Five years after bottling",
+"it": "Dopo cinque anni dall'imbottigliamento"
+},
+{
+"en": "It doesn't matter; wine doesn't change",
+"it": "Non importa, il vino non cambia"
+},
+{
+"en": "Exceptions include Vintage Port, the finest German Rieslings and Bordeaux crus classés.",
+"it": "Fanno eccezione vini come Porto Vintage, i migliori Riesling tedeschi e i crus classés di Bordeaux, che migliorano in bottiglia per anni."
+},
+{
+"en": "Most wines are best drunk within a year of bottling: ageing them loses fresh primary fruit. But many wines can mature in bottle for years and are not at their best soon after, such as Vintage Port, the finest German Rieslings and Bordeaux crus classés. Ageing should be undisturbed in a cool, dark place at constant temperature (ideally 10-15 °C), with constant humidity and, under cork, bottles lying down. So five or ten years applies only to a few wines, and it does matter.",
+"it": "La maggior parte dei vini va bevuta entro un anno dall'imbottigliamento: invecchiarli fa perdere i freschi aromi di frutto primario. Ci sono però molti vini che possono maturare in bottiglia per anni e non sono al meglio subito dopo, come Vintage Port, i migliori Riesling tedeschi e i crus classés di Bordeaux. L'invecchiamento deve avvenire indisturbato in un luogo fresco e buio a temperatura costante (idealmente 10-15 °C), con umidità costante e, col sughero, bottiglie coricate. Quindi 5 o 10 anni valgono solo per pochi vini, e conta eccome."
+},
+{
+"en": "Why does bag-in-box protect wine once opened, yet not keep too long?",
+"it": "Perché il bag-in-box protegge il vino dopo l'apertura, ma non va conservato troppo a lungo?"
+},
+{
+"en": "The bag collapses so air cannot enter, but some passes through the bag wall: use within about 18 months of filling",
+"it": "La sacca si affloscia e l'aria non entra, ma un po' passa dalla parete: va bevuto entro circa 18 mesi dal riempimento"
+},
+{
+"en": "The bag stays rigid so air cannot enter, but the carton lets light through: use within about 3 months of filling",
+"it": "La sacca resta rigida e l'aria non entra, ma il cartone lascia passare la luce: va bevuto entro circa 3 mesi dal riempimento"
+},
+{
+"en": "The bag is sterile and blocks all exchange, but the wine slowly referments: use within about 5 years",
+"it": "La sacca è sterile e impedisce ogni scambio, ma il vino rifermenta lentamente: va bevuto entro circa 5 anni"
+},
+{
+"en": "The bag collapses so air cannot enter, so the wine keeps for ten years as in a bottle",
+"it": "La sacca si affloscia e l'aria non entra, quindi il vino si conserva anche dieci anni come in bottiglia"
+},
+{
+"en": "Bag-in-box is often used for large volumes. The bag collapses as wine is consumed, preventing air entering. But some air passes through the bag wall, so most packs should be used within about 18 months of filling. Plastic bottles let air through and wines lose freshness within months.",
+"it": "Il bag-in-box si usa spesso per grandi volumi. La sacca si affloscia man mano che il vino viene consumato, impedendo l'ingresso dell'aria nel contenitore aperto. Un po' d'aria però attraversa la parete della sacca, quindi la maggior parte dei bag-in-box va consumata entro circa 18 mesi dal riempimento. Le bottiglie di plastica lasciano passare aria e i vini perdono freschezza in qualche mese."
+},
+{
+"en": "A producer wants a long-ageing red balancing primary and tertiary character. Which closure would they most likely choose?",
+"it": "Un produttore vuole un rosso da lungo invecchiamento con equilibrio tra caratteri primari e terziari. Quale chiusura sceglie più probabilmente?"
+},
+{
+"en": "Cork, letting in a little oxygen slowly",
+"it": "Il sughero, che lascia entrare lentamente poco ossigeno"
+},
+{
+"en": "An airtight screwcap that blocks all oxygen",
+"it": "Il tappo a vite ermetico, che blocca ogni ossigeno"
+},
+{
+"en": "Bag-in-box, which collapses and keeps air out",
+"it": "Il bag-in-box, che si affloscia e impedisce l'aria"
+},
+{
+"en": "A synthetic stopper that lets in a lot of air",
+"it": "Il tappo sintetico, che lascia passare molta aria"
+},
+{
+"en": "Cork: slow oxygen ingress = tertiary development; screwcap: primary fruit longer.",
+"it": "Sughero: ingresso lento di ossigeno = sviluppo terziario; vite: frutto primario più a lungo."
+},
+{
+"en": "Cork remains the closure for many wines intended for bottle maturation, letting in a small amount of oxygen gradually for what many see as an optimal primary-tertiary balance, though with TCA and over-oxidation risks. Screwcaps preserve fruit longer, with debate over long-ageing wines. Plastic and bag-in-box let air through and suit only early-drinking wines.",
+"it": "Il sughero resta la chiusura scelta per molti vini destinati a maturare in bottiglia, perché lascia entrare gradualmente una piccola quantità di ossigeno, ottenendo secondo molti un equilibrio ottimale tra caratteri primari e terziari; ha però il rischio TCA e di troppa ossigenazione. Il tappo a vite conserva più a lungo il frutto, con dibattito sui vini da lungo invecchiamento. Plastica e bag-in-box lasciano passare aria e vanno bene solo per vini da bere presto."
+},
+{
+"en": "How are the costs of heavy glass bottles reduced?",
+"it": "Come si riducono i costi legati al peso delle bottiglie di vetro?"
+},
+{
+"en": "With lighter bottles or shipping wine in bulk to bottle in or near the market",
+"it": "Con bottiglie più leggere o spedendo il vino sfuso per imbottigliarlo nel o vicino al mercato"
+},
+{
+"en": "With larger 1.5-litre bottles, which reduce the number of units to ship",
+"it": "Con bottiglie più grandi, da 1,5 litri, che riducono il numero di pezzi da trasportare"
+},
+{
+"en": "With thinner tinted glass, which blocks light and weighs less than the closures",
+"it": "Con vetro colorato più sottile, che protegge dalla luce e pesa meno dei tappi"
+},
+{
+"en": "With part-filled bottles, which weigh less and leave room for expansion",
+"it": "Con bottiglie riempite in parte, che pesano meno e lasciano spazio per l'espansione"
+},
+{
+"en": "To cut transport costs, some producers use lighter-weight glass bottles; others ship wine in bulk to be bottled in or near the country of sale. Alternatives (plastic bottles, bag-in-box) suit wines for early drinking, but for long-term storage and ageing glass remains best.",
+"it": "Per ridurre i costi di trasporto dovuti al peso, alcuni produttori hanno iniziato a usare bottiglie di vetro più leggere; altri trasportano il vino sfuso per imbottigliarlo nel paese in cui verrà venduto o vicino ad esso. Le alternative (bottiglie di plastica e bag-in-box) sono adeguate per vini da bere giovani, mentre per la conservazione lunga e l'invecchiamento il vetro resta la scelta migliore."
+},
+{
+"en": "What two problems can cork closures cause?",
+"it": "Quali due problemi può causare il tappo di sughero?"
+},
+{
+"en": "Cork taint (TCA), in a small but declining share, and excess oxygen ingress that increases with the wine's age",
+"it": "Contaminazione da TCA, in una quota piccola e in calo, ed entrata eccessiva di ossigeno che cresce con l'età del vino"
+},
+{
+"en": "Reduction from lack of oxygen, and release of sugar from the cork that can cause refermentation in the bottle",
+"it": "Riduzione per mancanza di ossigeno e cessione di zucchero dal sughero, che può causare rifermentazione in bottiglia"
+},
+{
+"en": "Volatile acidity from cork bacteria, and loss of CO2 that makes the wine flat within months",
+"it": "Acidità volatile per i batteri del sughero e perdita di CO2 che rende il vino piatto dopo pochi mesi"
+},
+{
+"en": "Release of bitter tannin into the wine, and a total halt to aromatic development in bottle",
+"it": "Cessione di tannino amaro al vino e blocco totale dell'evoluzione aromatica in bottiglia"
+},
+{
+"en": "Cork is the original and still most widely used closure, chosen for many ageing wines because it lets in a little oxygen slowly. But a small, declining share of bottles suffers cork taint from TCA (mouldy, cardboard aroma), and a further share, rising with wine age, lets in too much oxygen and oxidises the wine. Cork producers have invested heavily in anti-TCA treatments, with varying success.",
+"it": "Il sughero è la chiusura originale e ancora la più diffusa, scelta per molti vini da invecchiamento perché fa entrare lentamente un po' d'ossigeno. Ma una piccola percentuale, in calo, di bottiglie soffre di sentore di tappo, causato dal TCA (aroma di muffa e cartone), e un'altra parte, che aumenta con l'età del vino, lascia entrare troppo ossigeno, ossidando il vino. I produttori di sughero hanno investito molto in trattamenti contro il TCA, con successo variabile."
+},
+{
+"en": "Are screw caps suitable for long-ageing wines?",
+"it": "I tappi a vite vanno bene per i vini da lungo invecchiamento?"
+},
+{
+"en": "There is still debate given no oxygen transfer; some screwcaps now allow some oxygen and research continues",
+"it": "Se ne discute ancora per l'assenza di scambio di ossigeno; alcuni tappi ora lasciano passare un po' di ossigeno e la ricerca continua"
+},
+{
+"en": "They are banned for age-worthy reds in European appellations but allowed for young whites",
+"it": "Sono vietati per i rossi da invecchiamento nelle denominazioni europee, ma consentiti per i bianchi giovani"
+},
+{
+"en": "They are now considered the best choice for all long-ageing wines, because they prevent any development of the wine whatsoever",
+"it": "Sono ormai considerati la scelta migliore per tutti i vini da lungo invecchiamento, perché impediscono qualsiasi evoluzione del vino"
+},
+{
+"en": "They cause TCA taint after a few years in the cellar, so suit only wines for early drinking",
+"it": "Causano contaminazione da TCA dopo alcuni anni in cantina, quindi vanno bene solo per i vini da bere giovani"
+},
+{
+"en": "Screw caps, championed by Australia and New Zealand, have spread fast: no taint and an impermeable seal; trials show they preserve fruit longer than cork, so they suit whites and reds where primary aromas matter. For long bottle ageing there is still debate given the lack of oxygen transfer; some screw caps now permit some oxygen. Consumer acceptance varies greatly by market and sector.",
+"it": "I tappi a vite, promossi da Australia e Nuova Zelanda, si sono diffusi rapidamente: non contaminano il vino e chiudono ermeticamente; le prove mostrano che conservano il frutto più a lungo del sughero, quindi piacciono per bianchi e rossi dove si vogliono preservare gli aromi primari. Per i vini da lungo invecchiamento in bottiglia c'è ancora dibattito per l'assenza di scambio d'ossigeno; alcuni modelli oggi permettono un po' di passaggio d'ossigeno. L'accettazione dei consumatori varia molto per mercato e segmento."
+},
+{
+"en": "How should the closure be chosen?",
+"it": "Come andrebbe scelta la chiusura?"
+},
+{
+"en": "It is a winemaking choice specific to the wine and desired flavour profile, though some markets impose their preferences",
+"it": "È una scelta enologica legata al vino e al profilo aromatico desiderato, anche se alcuni mercati impongono preferenze"
+},
+{
+"en": "It is set by European law: natural cork for all PDO wines, screwcap for wines without any geographical indication",
+"it": "È stabilita dalla legge europea: sughero naturale per tutti i vini DOP, tappo a vite per i vini senza indicazione geografica"
+},
+{
+"en": "It depends only on bottle colour: dark glass with cork, clear glass with screwcap",
+"it": "Dipende solo dal colore della bottiglia: vetro scuro con sughero, vetro chiaro con tappo a vite"
+},
+{
+"en": "It should follow price: cork for expensive wines, screwcap for inexpensive ones",
+"it": "Va scelta in base al prezzo: il sughero per i vini costosi, il tappo a vite per i vini economici"
+},
+{
+"en": "For many wines, drunk within a year, closures are chosen on ease of use or bottling-line compatibility. For wines meant to mature in bottle the closure must allow positive development: closures let in differing amounts of oxygen; slow ingress favours tertiary flavours, none keeps fresh fruit longer. The closure is a winemaking choice specific to the wine, though some markets' strong preferences may override it. Synthetic corks now come in premium versions for longer storage.",
+"it": "Per molti vini, da bere entro un anno, la chiusura si sceglie in base a fattori come facilità d'uso o compatibilità con la linea d'imbottigliamento. Per i vini da maturare in bottiglia la chiusura deve permettere un'evoluzione positiva: chiusure diverse lasciano entrare quantità diverse d'ossigeno; un ingresso lento di poco ossigeno favorisce i terziari, l'assenza d'ossigeno conserva più a lungo il frutto fresco. La chiusura è una scelta enologica specifica, anche se alcuni mercati hanno preferenze fortissime che possono prevalere. I tappi sintetici di plastica esistono oggi anche in versioni premium per conservazioni più lunghe."
+},
+{
+"en": "Which wines are examples that improve in bottle for several years?",
+"it": "Quali vini sono esempi che migliorano in bottiglia per diversi anni?"
+},
+{
+"en": "Vintage Port, the finest German Rieslings and Bordeaux crus classés",
+"it": "Porto Vintage, i migliori Riesling tedeschi e i crus classés di Bordeaux"
+},
+{
+"en": "Beaujolais Nouveau, Veneto Pinot Grigio and Californian White Zinfandel",
+"it": "Beaujolais Nouveau, Pinot Grigio del Veneto e White Zinfandel californiano"
+},
+{
+"en": "Fino Sherry, Asti and Loire Muscadet sur lie",
+"it": "Sherry Fino, Asti spumante e Muscadet sur lie della Loira"
+},
+{
+"en": "Provence rosé, Moscato d'Asti and young Vinho Verde",
+"it": "Rosati di Provenza, Moscato d'Asti e Vinho Verde giovane"
+},
+{
+"en": "Most wines are best drunk within a year of bottling; ageing loses primary fruit. But many wines mature in bottle for years and are not at their best soon after bottling: notable examples are Vintage Port, the finest German Rieslings and Bordeaux crus classés. The chemistry of this maturation is still poorly understood.",
+"it": "La maggior parte dei vini va bevuta entro un anno dall'imbottigliamento e invecchiandoli si perde il frutto primario. Molti vini però maturano in bottiglia per diversi anni e non sono al meglio subito dopo l'imbottigliamento: esempi notevoli sono Vintage Port, i migliori Riesling tedeschi e i crus classés di Bordeaux. La chimica di questa maturazione è ancora poco compresa."
+},
+{
+"en": "In what conditions should wine be aged in bottle?",
+"it": "In quali condizioni si dovrebbe invecchiare il vino in bottiglia?"
+},
+{
+"en": "Undisturbed, cool and dark, constant 10–15 °C, constant humidity, cork-sealed bottles lying down",
+"it": "Al buio e al fresco, senza scosse, a 10-15 °C costanti, umidità costante, bottiglie con sughero coricate"
+},
+{
+"en": "Cool and in the light, undisturbed, constant 5–8 °C, dry air, cork-sealed bottles standing upright",
+"it": "Alla luce e al fresco, senza scosse, a 5-8 °C costanti, aria secca, bottiglie con sughero in piedi"
+},
+{
+"en": "In the dark, constant 18–22 °C to speed development, high humidity, bottles upright",
+"it": "Al buio, a 18-22 °C costanti per accelerare l'evoluzione, umidità alta, bottiglie in piedi"
+},
+{
+"en": "Cool and dark, with temperature swinging between summer and winter, bottles lying down",
+"it": "Al buio e al fresco, con temperatura che oscilla tra estate e inverno, bottiglie coricate"
+},
+{
+"en": "It is widely agreed that ageing should be undisturbed, in a cool dark place at constant temperature, ideally around 10-15 °C, with constant humidity; cork-sealed bottles should lie on their side so the cork stays moist and the seal optimal.",
+"it": "C'è ampio accordo: il periodo di invecchiamento va trascorso indisturbato, in un luogo fresco e buio, a temperatura costante, idealmente intorno a 10-15 °C, con umidità costante; se il tappo è di sughero le bottiglie vanno coricate perché il sughero resti umido e la chiusura ottimale."
+},
+{
+"en": "Why does white juice usually spend little time on the skins?",
+"it": "Perché nei bianchi il succo resta di solito poco a contatto con le bucce?"
+},
+{
+"en": "To reduce the risk of oxidation",
+"it": "Per ridurre il rischio di ossidazione del mosto"
+},
+{
+"en": "To avoid excessive varietal aromas in the wine",
+"it": "Per evitare un eccesso di aromi varietali nel vino"
+},
+{
+"en": "To keep the tannin from white skins",
+"it": "Per conservare il tannino delle bucce bianche"
+},
+{
+"en": "To get malolactic conversion going at once",
+"it": "Per favorire subito l'avvio della malolattica"
+},
+{
+"en": "Whole-bunch pressing limits contact further, gently, potentially giving purer, more delicate wines.",
+"it": "Caricare la pressa con grappoli interi limita ancora di più il contatto: è delicato e può dare vini più puri e fini."
+},
+{
+"en": "In most cases white juice spends little time on the skins to reduce the risk of oxidation. Grapes are crushed, free run juice separated and the rest pressed; some load the press with whole bunches to limit contact further, giving purer, more delicate wines. In white wine, skin contact is not for tannin or colour, and MLF is unrelated.",
+"it": "Nella maggior parte dei casi il mosto bianco resta poco a contatto con le bucce per ridurre il rischio di ossidazione. Le uve vengono pigiate, il mosto fiore separato e la massa restante va alla pressa; alcuni caricano la pressa con grappoli interi per limitare ancora di più il contatto, ottenendo vini più puri e delicati. Il contatto con le bucce non serve nel bianco ad aumentare tannino o colore, e la malolattica non c'entra."
+},
+{
+"en": "Why is short skin contact sometimes used for aromatic varieties?",
+"it": "Perché si fa a volte una breve macerazione pellicolare con certe uve aromatiche?"
+},
+{
+"en": "To increase flavour intensity and texture",
+"it": "Per aumentare intensità aromatica e consistenza"
+},
+{
+"en": "To extract colour and tannin as for a light red wine",
+"it": "Per estrarre colore e tannino come in un vino rosso leggero"
+},
+{
+"en": "To lower acidity and prepare for malolactic",
+"it": "Per abbassare l'acidità e preparare la malolattica"
+},
+{
+"en": "To reduce the risk of the juice oxidising",
+"it": "Per ridurre il rischio di ossidazione del mosto"
+},
+{
+"en": "It usually lasts a few hours, cool enough to prevent fermentation.",
+"it": "Dura di solito poche ore, a temperatura abbastanza fredda da impedire la fermentazione."
+},
+{
+"en": "For some aromatic varieties, winemakers keep the juice on the skins for a short period, since many aroma compounds are in the skin: this increases flavour intensity and texture. It is done cool enough to inhibit fermentation and usually briefly. It is not to extract tannin like a red, reduce acidity or make rosé.",
+"it": "Per alcune varietà aromatiche, alcuni vinificatori lasciano il mosto a contatto con le bucce per un breve periodo, perché gran parte dei composti aromatici si trova nella buccia: così aumentano intensità aromatica e consistenza. Avviene a temperatura abbastanza bassa da impedire la fermentazione e di solito per poco tempo. Non serve a estrarre tannino come in un rosso, a ridurre l'acidità o a fare un rosato."
+},
+{
+"en": "Why must white juice be clarified before fermentation?",
+"it": "Perché il mosto bianco va chiarificato prima della fermentazione?"
+},
+{
+"en": "Skin and pulp fragments can cause off-aromas and even stop fermentation",
+"it": "Frammenti di buccia e polpa possono dare odori sgradevoli e bloccare la fermentazione"
+},
+{
+"en": "Solid particles add too much colour and make the wine golden even when young",
+"it": "Le particelle solide aumentano troppo il colore e rendono il vino giallo-dorato già da giovane"
+},
+{
+"en": "Solids release bitter tannin that, in whites, cannot later be removed by fining",
+"it": "Le parti solide cedono tannino amaro che, nei bianchi, non può essere tolto in seguito con la chiarifica"
+},
+{
+"en": "Cloudy juice prevents cultured yeasts from starting malolactic after fermentation",
+"it": "Il mosto torbido impedisce ai lieviti selezionati di avviare la malolattica dopo la fermentazione"
+},
+{
+"en": "Some keep a few solids for complexity, but rarely for pure varietal styles.",
+"it": "Alcuni lasciano un po' di «solidi» per complessità e consistenza, ma si evita per i vini dal carattere varietale puro."
+},
+{
+"en": "Freshly pressed juice contains fragments of skin and pulp cells. Fermented untreated, unpleasant aromas can form and fermentation may even stop prematurely. So it is clarified before fermentation (settling, centrifuge, fining, filtration). Some keep a few solids for oxidation resistance, complexity and texture, but rarely for pure-fruit wines. It is not for colour, tannin or MLF.",
+"it": "Il mosto appena pressato contiene frammenti di cellule di bucce e polpa. Se si fermenta così, possono formarsi aromi sgradevoli e la fermentazione può perfino fermarsi prematuramente. Per questo si chiarifica prima della fermentazione (decantazione, centrifuga, collaggio, filtrazione). Alcuni lasciano un po' di solidi per resistenza all'ossidazione, complessità e consistenza, ma è raro nei vini a frutto puro. Non serve a colore, tannino o malolattica."
+},
+{
+"en": "What is the optimum fermentation temperature for whites?",
+"it": "Qual è la temperatura ottimale di fermentazione per i bianchi?"
+},
+{
+"en": "Too cold gives pear drop and loses varietal fruit; warmer gives complex non-fruit aromas but loses fruit.",
+"it": "Troppo freddo dà aromi di caramella inglese (pear drop) e perde il carattere varietale; più caldo dà note non fruttate più complesse ma perde il frutto."
+},
+{
+"en": "The optimum white fermentation temperature is 12-22 °C. Too cold creates pear drop aromas and may fail to capture varietal fruit; warmer encourages complex non-fruit aromas but risks losing varietal fruit. 5-10 °C is too cold; 25-32 °C is red territory; above 35 °C yeast may die.",
+"it": "La temperatura ottimale per le fermentazioni in bianco è tra 12 e 22 °C. Troppo fredda crea aromi di pear drop (caramella alla pera) e può non catturare i caratteri varietali; più calda favorisce aromi complessi non fruttati ma rischia di perdere il frutto varietale. 5-10 °C è troppo freddo; 25-32 °C è l'intervallo dei rossi; oltre 35 °C i lieviti rischiano di morire."
+},
+{
+"en": "What aroma forms if a white is fermented too cold?",
+"it": "Che aroma si forma fermentando un bianco a temperatura troppo bassa?"
+},
+{
+"en": "Pear drop (estery)",
+"it": "Caramella inglese (pear drop)"
+},
+{
+"en": "Vanilla and coconut (oak)",
+"it": "Vaniglia e cocco (legno)"
+},
+{
+"en": "Butter and cream (diacetyl)",
+"it": "Burro e panna (diacetile)"
+},
+{
+"en": "Leather and earth (Brett)",
+"it": "Cuoio e terra (Brett)"
+},
+{
+"en": "Too cold a fermentation can also fail to capture varietal fruit.",
+"it": "Una fermentazione troppo fredda può anche non catturare gli aromi varietali."
+},
+{
+"en": "If a white is fermented too cold, pear drop aromas (a fermentation aroma) form and varietal fruit may not be captured. This is typical, for example, of inexpensive Pinot Grigio. Vanilla comes from oak, butter from MLF, leather is a tertiary aroma of mature reds.",
+"it": "Se un bianco fermenta a una temperatura troppo bassa si formano aromi di pear drop (caramella alla pera, un aroma di fermentazione) e la fermentazione può non catturare i caratteri del frutto varietale. È tipico per esempio del Pinot Grigio economico. Vaniglia viene dal legno, burro dalla malolattica, cuoio è un aroma terziario dei rossi evoluti."
+}
+]
