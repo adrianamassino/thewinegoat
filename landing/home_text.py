@@ -2,6 +2,7 @@
 # Home page v3: only the key messages. Exam facts match the rest of the site.
 H = {
 'it': dict(
+ says=['Ciao! Ti alleno io per il WSET 3 🍷','Bastano 20 minuti al giorno ⏱️','Una domanda aperta? Te la correggo subito ✍️','Bordeaux è gratis, prova! 🍇','Psst… facciamo un quiz?'],
  nav=[('#prova', 'Prova gratis'), ('#perche', 'Perché noi'), ('#prezzi', 'Prezzi'), ('#faq', 'FAQ')], login="Accedi", start='Inizia gratis',
  kick='Preparazione esame WSET® Livello 3', h1='Passa il WSET 3 al primo tentativo',
  sub="L'app che ti allena come all'esame: quiz, domande aperte corrette subito e un piano di studio su misura fino al giorno dell'esame.",
@@ -11,7 +12,7 @@ H = {
  tab_open='✍️ Domanda aperta', tab_mcq='❓ Quiz a crocette',
  o_ctx='Domanda d\'esame · {m} punti', o_ph='Scrivi qui la tua risposta, anche in punti…', o_btn='Correggi la mia risposta', o_res='Il tuo punteggio: {s} su {m}', o_hit='Punti centrati', o_miss='Ti mancano', o_again='Riprova', o_model="Nell'app trovi 101 domande così, con la risposta modello e il ripasso dei punti mancati.", o_short='Scrivi almeno qualche parola 🙂',
  m_ok='Esatto!', m_ko='Non proprio.', m_next='Domanda successiva', m_score='Hai risposto bene a {n} domande su {t}.', m_after='Continua nell\'app: altre 2.000 domande e il tuo piano di studio.',
- why_h='Perché The Wine Goat è diversa', why=[('✍️', 'Domande aperte corrette subito', "Scrivi la risposta e vedi in un secondo quali punti hai preso e cosa manca. Le altre app si fermano alle crocette."),
+ why_h='Perché The Wine Goat è diversa', why=[('✍️', 'Domande aperte corrette come all\'esame', "Corrette come all'esame: vedi subito quali punti hai preso e cosa manca, e impari a concentrarti sui punti chiave. Le altre app si fermano alle crocette."),
   ('📅', 'Un piano su misura fino all\'esame', "Obiettivo Pass, Merit o Distinction, data d'esame e minuti al giorno: l'app ti dice cosa fare oggi e ripropone i tuoi punti deboli."),
   ('🎬', 'Si studia anche senza fatica', '68 film animati, 45 podcast, 11 giochi, mappe interattive e flashcard: per ripassare in metro, in pausa, ovunque.'), ('🎓', 'L\'unica app che registra la lezione', "Appoggia il telefono sul banco: l'app trascrive quello che dice l'insegnante e conserva le foto dei tuoi appunti, accanto ai quiz.")],
  cmp_h='The Wine Goat a confronto', cmp_cols=['', 'The Wine Goat', 'Altre app'],
@@ -21,6 +22,7 @@ H = {
  full_t='Accesso completo', full_l=['Tutti i 2.078 quiz e le 101 domande aperte', 'Simulazioni d\'esame complete', 'Film, podcast e mappe', 'Pagamento unico, niente abbonamento'], full_b='Sblocca tutto', full_note='una volta sola',
  faq_h='Domande frequenti', final_h='Vuoi passare il WSET 3 al primo colpo?', final_p='Bastano 2 minuti per creare il tuo piano. Gratis.', final_b='Crea il mio piano gratis'),
 'fr': dict(
+ says=['Salut ! Je t\'entraîne pour le WSET 3 🍷','20 minutes par jour suffisent ⏱️','Une question ouverte ? Je la corrige tout de suite ✍️','Bordeaux est gratuit, essaie ! 🍇','Psst… on fait un QCM ?'],
  nav=[('#essai', 'Essai gratuit'), ('#pourquoi', 'Pourquoi nous'), ('#prix', 'Prix'), ('#faq', 'FAQ')], login='Connexion', start='Commencer',
  kick="Préparation à l'examen WSET® niveau 3", h1='Réussissez le WSET 3 du premier coup',
  sub="L'appli qui vous entraîne comme à l'examen : QCM, questions ouvertes corrigées tout de suite et un plan de révision sur mesure jusqu'au jour J.",
@@ -30,7 +32,7 @@ H = {
  tab_open='✍️ Question ouverte', tab_mcq='❓ QCM',
  o_ctx="Question d'examen · {m} points", o_ph='Écrivez votre réponse ici, même sous forme de liste…', o_btn='Corriger ma réponse', o_res='Votre score : {s} sur {m}', o_hit='Points trouvés', o_miss='Il vous manque', o_again='Réessayer', o_model="Dans l'appli : 101 questions comme celle-ci, avec la réponse type et la révision des points manqués.", o_short='Écrivez au moins quelques mots 🙂',
  m_ok='Exact !', m_ko='Pas tout à fait.', m_next='Question suivante', m_score='Vous avez bien répondu à {n} questions sur {t}.', m_after="Continuez dans l'appli : 2 000 autres questions et votre plan de révision.",
- why_h='Pourquoi The Wine Goat est différente', why=[('✍️', 'Questions ouvertes corrigées tout de suite', "Rédigez votre réponse et voyez en une seconde les points obtenus et ce qui manque. Les autres applis s'arrêtent aux QCM."),
+ why_h='Pourquoi The Wine Goat est différente', why=[('✍️', 'Questions ouvertes corrigées comme à l\'examen', "Corrigées comme à l'examen : vous voyez tout de suite les points obtenus et ce qui manque, et vous apprenez à vous concentrer sur l'essentiel. Les autres applis s'arrêtent aux QCM."),
   ('📅', "Un plan sur mesure jusqu'à l'examen", "Objectif Pass, Merit ou Distinction, date d'examen et minutes par jour : l'appli vous dit quoi faire aujourd'hui et repropose vos points faibles."),
   ('🎬', 'On révise même sans effort', '68 films animés, 45 podcasts, 11 jeux, cartes interactives et flashcards : pour réviser dans le métro, en pause, partout.'), ('🎓', 'La seule appli qui enregistre le cours', "Posez le téléphone sur la table : l'appli transcrit ce que dit l'enseignant et garde les photos de vos notes, à côté des QCM.")],
  cmp_h='The Wine Goat comparée', cmp_cols=['', 'The Wine Goat', 'Autres applis'],
@@ -40,6 +42,7 @@ H = {
  full_t='Accès complet', full_l=['Les 2 078 QCM et les 101 questions ouvertes', 'Examens blancs complets', 'Films, podcasts et cartes', 'Paiement unique, sans abonnement'], full_b='Tout débloquer', full_note='une seule fois',
  faq_h='Questions fréquentes', final_h='Envie de réussir le WSET 3 du premier coup ?', final_p='2 minutes suffisent pour créer votre plan. Gratuit.', final_b='Créer mon plan gratuit'),
 'en': dict(
+ says=['Hi! I\'ll coach you through WSET 3 🍷','20 minutes a day is enough ⏱️','A written question? I mark it instantly ✍️','Bordeaux is free, try it! 🍇','Psst… ready for a quiz?'],
  nav=[('#free-trial', 'Free trial'), ('#why', 'Why us'), ('#pricing', 'Pricing'), ('#faq', 'FAQ')], login='Sign in', start='Start free',
  kick='WSET® Level 3 exam preparation', h1='Pass WSET Level 3 first time',
  sub='The app that trains you like the real exam: practice questions, short written answers marked instantly and a study plan built around your exam date.',
@@ -49,7 +52,7 @@ H = {
  tab_open='✍️ Written question', tab_mcq='❓ Multiple choice',
  o_ctx='Exam question · {m} marks', o_ph='Write your answer here, bullet points are fine…', o_btn='Mark my answer', o_res='Your score: {s} out of {m}', o_hit='Points you scored', o_miss='You missed', o_again='Try again', o_model='In the app: 101 questions like this, with a model answer and revision of the points you missed.', o_short='Write at least a few words 🙂',
  m_ok='Correct!', m_ko='Not quite.', m_next='Next question', m_score='You got {n} out of {t} right.', m_after='Carry on in the app: 2,000 more questions and your study plan.',
- why_h='Why The Wine Goat is different', why=[('✍️', 'Written answers marked instantly', 'Write your answer and see in a second which points you scored and what is missing. Other apps stop at multiple choice.'),
+ why_h='Why The Wine Goat is different', why=[('✍️', 'Open questions marked like the exam', 'Marked like the real exam: see at once which points you scored and what is missing, and learn to focus on the key points. Other apps stop at multiple choice.'),
   ('📅', 'A plan built around your exam', 'Goal Pass, Merit or Distinction, exam date and minutes a day: the app tells you what to do today and brings back your weak points.'),
   ('🎬', 'Revision that feels easy', '68 animated films, 45 podcasts, 11 games, interactive maps and flashcards: revise on the train, on a break, anywhere.'), ('🎓', 'The only app that records your class', 'Put your phone on the desk: the app transcribes what the teacher says and keeps photos of your notes, right next to your quizzes.')],
  cmp_h='How we compare', cmp_cols=['', 'The Wine Goat', 'Other apps'],
@@ -59,6 +62,7 @@ H = {
  full_t='Full access', full_l=['All 2,078 questions and 101 written questions', 'Full mock exams', 'Films, podcasts and maps', 'One-off payment, no subscription'], full_b='Unlock everything', full_note='one-off',
  faq_h='Frequently asked questions', final_h='Ready to pass WSET Level 3?', final_p='It takes 2 minutes to build your plan. Free.', final_b='Build my free plan'),
 'es': dict(
+ says=['¡Hola! Te entreno para el WSET 3 🍷','Bastan 20 minutos al día ⏱️','¿Una pregunta abierta? Te la corrijo al momento ✍️','Burdeos es gratis, ¡pruébalo! 🍇','Psst… ¿hacemos un test?'],
  nav=[('#prueba', 'Prueba gratis'), ('#por-que', 'Por qué'), ('#precios', 'Precios'), ('#faq', 'FAQ')], login='Entrar', start='Empieza gratis',
  kick='Preparación del examen WSET® nivel 3', h1='Aprueba el WSET 3 a la primera',
  sub='La app que te entrena como en el examen: preguntas tipo test, preguntas abiertas corregidas al instante y un plan de estudio a tu medida hasta el día del examen.',
@@ -68,7 +72,7 @@ H = {
  tab_open='✍️ Pregunta abierta', tab_mcq='❓ Tipo test',
  o_ctx='Pregunta de examen · {m} puntos', o_ph='Escribe aquí tu respuesta, también en puntos…', o_btn='Corregir mi respuesta', o_res='Tu puntuación: {s} de {m}', o_hit='Puntos acertados', o_miss='Te faltan', o_again='Reintentar', o_model='En la app: 101 preguntas como esta, con respuesta modelo y repaso de los puntos que faltan.', o_short='Escribe al menos unas palabras 🙂',
  m_ok='¡Correcto!', m_ko='No del todo.', m_next='Siguiente pregunta', m_score='Has acertado {n} de {t}.', m_after='Sigue en la app: 2.000 preguntas más y tu plan de estudio.',
- why_h='Por qué The Wine Goat es diferente', why=[('✍️', 'Preguntas abiertas corregidas al instante', 'Escribe tu respuesta y ve en un segundo qué puntos has sacado y qué falta. Las demás apps se quedan en el test.'),
+ why_h='Por qué The Wine Goat es diferente', why=[('✍️', 'Preguntas abiertas corregidas como en el examen', 'Corregidas como en el examen: ves al momento qué puntos has sacado y qué falta, y aprendes a centrarte en lo esencial. Las demás apps se quedan en el test.'),
   ('📅', 'Un plan a tu medida hasta el examen', 'Objetivo Pass, Merit o Distinction, fecha del examen y minutos al día: la app te dice qué hacer hoy y repite tus puntos débiles.'),
   ('🎬', 'Estudiar sin esfuerzo', '68 películas animadas, 45 podcasts, 11 juegos, mapas interactivos y flashcards: para repasar en el metro, en un descanso, donde sea.'), ('🎓', 'La única app que graba la clase', 'Deja el móvil en la mesa: la app transcribe lo que dice el profesor y guarda las fotos de tus apuntes, junto a los tests.')],
  cmp_h='The Wine Goat frente a otras', cmp_cols=['', 'The Wine Goat', 'Otras apps'],

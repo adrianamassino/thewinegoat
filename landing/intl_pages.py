@@ -14,24 +14,22 @@ def alts_html():
     return ''.join(f'<link rel="alternate" hreflang="{hl}" href="{D}{u}">' for c, hl, u, n in ALL) + f'<link rel="alternate" hreflang="x-default" href="{D}/">'
 
 def page(c, T):
-    import re as _re
+    import page_v3, page_v2
+    from intl_home_text import HI, HI_FAQ
+    from home_text import H as HMAIN
+    HERE = os.path.dirname(os.path.abspath(__file__)); SD = os.path.dirname(HERE)
     rtl = c == 'ar'
+    h = HI.get('pt' if c == 'pt-br' else c) or HMAIN['es']
+    faq = HI_FAQ.get(c) or T.get('faq') or []
+    notice = ''
+    if h.get('notice'):
+        notice = f'<section class="w lnote"><div class="lnbox"><span class="lnic">🌍</span><div><h2>{e(h["notice_t"])}</h2><p>{e(h["notice"])}</p></div></div></section>'
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "WebPage", "@id": f"{D}/{c}/", "url": f"{D}/{c}/", "name": T['title'], "description": T['desc'], "inLanguage": T['hl'], "dateModified": TODAY, "isPartOf": {"@id": D + '/#site'}, "publisher": {"@id": D + '/#org'}},
         {"@type": "Course", "name": T['h1'], "description": T['desc'], "inLanguage": ["en", "it", "fr"], "provider": {"@type": "Organization", "name": "The Wine Goat", "url": D + '/'},
-         "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR", "category": "Free"}, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online", "courseWorkload": "PT30M"}},
-        {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in T['faq']]}]}
-    langs = ''.join(f'<li><a href="{u}" hreflang="{hl}" lang="{hl}"{" aria-current=true" if cc == c else ""}>{e(n)}</a></li>' for cc, hl, u, n in ALL)
-    def stat(t):
-        m = _re.match(r'^([0-9][0-9.,\s]*\+?)\s*(.*)$', t)
-        return (m.group(1).strip(), m.group(2)) if m else ('★', t)
-    stats = ''.join('<div class="st"><b>{}</b><span>{}</span></div>'.format(*map(e, stat(T['feats'][k][0]))) for k in (0, 1, 5, 6))
-    why = ''.join(f'<article class="why"><span class="wi">{ic}</span><h3>{e(T["feats"][k][0])}</h3><p>{e(T["feats"][k][1])}</p></article>' for ic, k in (('✍️', 1), ('📅', 3), ('🎬', 6)))
-    exam = ''.join(f'<article class="why ex3"><h3>{e(a)}</h3><p>{e(b)}</p></article>' for a, b in T['exam'])
-    steps = ''.join(f'<li><span class="sn3">{i + 1}</span><div><h3>{e(x)}</h3></div></li>' for i, x in enumerate(T['how']))
-    faq = ''.join(f'<details class="fq"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in T['faq'])
-    year = datetime.date.today().year
-    return f'''<!DOCTYPE html>
+         "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR", "category": "Free"}, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online", "courseWorkload": "PT30M"}}]
+        + ([{"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}] if faq else [])}
+    head = f"""<!DOCTYPE html>
 <html lang="{T['hl']}"{' dir="rtl"' if rtl else ''}>
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -42,39 +40,33 @@ def page(c, T):
 <meta property="og:type" content="website"><meta property="og:site_name" content="The Wine Goat"><meta property="og:title" content="{e(T['title'])}"><meta property="og:description" content="{e(T['desc'])}"><meta property="og:url" content="{D}/{c}/"><meta property="og:image" content="{D}/img/og-en.png"><meta property="og:locale" content="{T['hl'].replace('-', '_')}">
 <meta name="theme-color" content="#8c1d40">
 <link rel="icon" href="/img/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-<link rel="stylesheet" href="/assets/home.css"><link rel="stylesheet" href="/assets/intl.css">
+<link rel="stylesheet" href="/assets/intl.css">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-</head>
-<body class="h3{' rtl' if rtl else ''}">
-<header class="top3"><div class="w bar3">
- <a class="brand3" href="/{c}/"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
- <ul class="nav3"></ul>
- <div class="acts3"><details class="lg3"><summary>🌍</summary><ul>{langs}</ul></details><a class="b3 b3p sm" href="/app/#go=start" data-en>{e(T['cta'])}</a></div>
-</div></header>
-<main>
-<section class="hero3"><div class="w hgrid">
- <div class="htx"><p class="kick3">WSET® Level 3 · Award in Wines</p><h1>{e(T['h1'])}</h1><p class="sub3">{e(T['lead'])}</p>
-  <div class="ctas3"><a class="b3 b3p" href="/app/#go=start" data-en>{e(T['cta'])}</a><a class="b3 b3g" href="/wset-level-3-practice-questions/">{e(T['cta2'])}</a></div>
-  <p class="inote3">🌍 {e(T['appnote'])}</p></div>
- <div class="hvis" aria-hidden="true"><div class="glow"></div><div class="phone3"><img src="/img/shots/home-en.webp" alt="" width="540" height="1080"></div>
-  <img class="g3 ga" src="/img/goats/hero.webp" alt="" width="745" height="848"><img class="g3 gb" src="/img/goats/quick.webp" alt="" width="300" height="300"></div>
-</div><div class="w stats3">{stats}</div></section>
-<section class="sec3 why3"><div class="w"><h2>{e(T['feat_h'])}</h2><div class="whys">{why}</div></div></section>
-<section class="sec3"><div class="w"><h2>{e(T['exam_h'])}</h2><div class="whys ex4">{exam}</div></div></section>
-<section class="sec3 steps3"><div class="w s3grid"><img class="g3 gst" src="/img/goats/method.webp" alt="" width="300" height="300" loading="lazy"><div><h2>{e(T['how_h'])}</h2><ol class="stl">{steps}</ol></div></div></section>
-<section class="sec3 faq3"><div class="w nar"><h2>FAQ</h2>{faq}</div></section>
-<section class="sec3 fin3"><div class="w fgrid"><div><h2>{e(T['free_h'])}</h2><p>{e(T['free_p'])}</p><a class="b3 b3gold" href="/app/#go=start" data-en>{e(T['cta'])}</a></div><img class="g3 gfin" src="/img/goats/final.webp" alt="" width="300" height="300" loading="lazy"></div></section>
-</main>
-<footer class="foot3"><div class="w"><a class="brand3" href="/{c}/"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="/img/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a>
-<p class="fd3">{e(T['disc'])}</p><p class="fc3">© {year} The Wine Goat · <a href="/">thewinegoat.com</a></p></div></footer>
-<script>document.querySelectorAll('[data-en]').forEach(function(a){{a.addEventListener('click',function(){{try{{if(!localStorage.getItem('wset3-lang'))localStorage.setItem('wset3-lang','en');}}catch(e){{}}}});}});</script>
-</body></html>'''
+"""
+    # English sample questions (the app language for these visitors)
+    bdx = {x['id']: x for x in json.load(open(os.path.join(SD, 'lp_bdx.json'), encoding='utf-8'))}
+    openq = json.load(open(os.path.join(SD, 'lp_open.json'), encoding='utf-8'))
+    ox = next(x for x in openq if 'cork' in x['t'][2])
+    oq = {'t': ox['t'][2], 'k': ox['k'][2], 'm': ox['m']}
+    mcq = [{'id': i, 'q': bdx[i]['q'][2], 'o': [o[2] for o in bdx[i]['o']], 'e': bdx[i]['e'][2]} for i in page_v2.TRIAL_BDX if i in bdx]
+    data = {'mcq': mcq, 'open': oq, 'tx': {k: h[k] for k in ('o_res', 'o_hit', 'o_miss', 'o_again', 'o_short', 'm_ok', 'm_ko', 'm_next', 'm_score', 'm_after')},
+            'says': h.get('says', []), 'cur': {'list': page_v2.CUR, 'def': page_v2.DEFCUR.get(c, 'EUR'), 'lang': c}, 'app': '/app/'}
+    langs = ''.join(f'<li><a href="{u}" hreflang="{hl}" lang="{hl}"{" aria-current=true" if cc == c else ""}>{e(n)}</a></li>' for cc, hl, u, n in ALL)
+    ids = tuple(u.lstrip('#') for u, n in h['nav'][:3])
+    CSS = open(os.path.join(HERE, 'home.css'), encoding='utf-8').read().replace('../fonts/', '/fonts/')
+    JS = open(os.path.join(HERE, 'home.js'), encoding='utf-8').read()
+    t = {'skip': '↓', 'faq': {'items': faq}, 'foot': {'disc': T['disc']}}
+    price = page_v2.money(c, 59)
+    body = page_v3.render_body(c, t, h, oq, data, '/app/', langs, ids, 'en', price, CSS, JS, '', notice=notice, home=f'/{c}/', img='/img', lang_label='🌍')
+    body = body.replace('<body class="h3">', f'<body class="h3{" rtl" if rtl else ""}">', 1)
+    body = body.replace("</body>", "<script>document.querySelectorAll('a[href^=\"/app/\"]').forEach(function(a){a.addEventListener('click',function(){try{if(!localStorage.getItem('wset3-lang'))localStorage.setItem('wset3-lang','en');}catch(e){}});});</script></body>", 1)
+    return head + body
 
 def css():
     src = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'home.css'), encoding='utf-8').read().replace('../fonts/', '/fonts/')
     open(os.path.join(OUT, 'assets', 'home.css'), 'w', encoding='utf-8').write(src)
     open(os.path.join(OUT, 'assets', 'intl.css'), 'w', encoding='utf-8').write('''
-.inote3{margin:16px 0 0;font-weight:600;color:var(--mut);font-size:15px}
+.lnote{margin-top:28px}.lnbox{display:flex;gap:16px;align-items:flex-start;padding:20px 22px;border-radius:22px;background:#fff;box-shadow:inset 0 0 0 1.5px #ecd6dc,0 18px 40px -28px rgba(62,15,34,.5)}.lnic{font-size:28px}.lnbox h2{font-size:22px;text-align:left;margin:0 0 6px}.lnbox p{margin:0;color:#6b5a5f}
 .ex4{grid-template-columns:repeat(4,1fr)}.ex3 h3{font-size:19px}
 .rtl{direction:rtl}.rtl .hero3 h1:after{margin-left:auto}.rtl .s3grid h2,.rtl .fin3 h2{text-align:right}
 :lang(ja) h1,:lang(ja) h2,:lang(ja) h3,:lang(ko) h1,:lang(ko) h2,:lang(ko) h3,:lang(zh-Hans) h1,:lang(zh-Hans) h2,:lang(zh-Hans) h3,:lang(zh-Hant) h1,:lang(zh-Hant) h2,:lang(zh-Hant) h3,:lang(ar) h1,:lang(ar) h2,:lang(ar) h3,:lang(el) h1,:lang(el) h2,:lang(el) h3{font-family:system-ui,-apple-system,"Noto Sans",sans-serif;font-weight:800}

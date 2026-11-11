@@ -133,4 +133,9 @@ I = {
  free_h='Empezá gratis', free_p='El módulo Burdeos completo, las flashcards, los juegos y el plan de estudio son gratis. Sin suscripción.',
  faq=[('¿Hay preguntas del WSET 3 gratis?', 'Sí. El módulo Burdeos es totalmente gratis, con opción múltiple, preguntas abiertas y repaso de tus errores.'), ('¿Cuántas preguntas tiene el examen WSET nivel 3?', 'La teoría tiene 50 preguntas de opción múltiple y 4 de respuesta corta, más una cata a ciegas de dos vinos.'), ('¿The Wine Goat es oficial del WSET?', 'No, The Wine Goat es una plataforma independiente de preparación.'), ('¿En qué idioma está la app?', 'Por ahora en inglés, italiano y francés; el español viene enseguida.')],
  disc='The Wine Goat es una plataforma independiente de preparación de exámenes y no está vinculada al Wine & Spirit Education Trust. WSET® es una marca registrada del Wine & Spirit Education Trust.', home='Inicio', more='Otros idiomas'),
+'ru': dict(name='Русский', hl='ru', title='Подготовка к WSET Level 3: вопросы, пробный экзамен и дегустация SAT | The Wine Goat',
+ desc='Подготовьтесь к экзамену WSET Level 3: более 2000 вопросов с объяснениями, открытые вопросы с проверкой, пробные экзамены, дегустация по SAT и личный план подготовки.',
+ kw='WSET 3, WSET Level 3, вопросы WSET 3, экзамен WSET 3, подготовка к WSET, пробный экзамен WSET, курс сомелье, винный тест, дегустация SAT',
+ h1='Сдайте WSET Level 3 с первого раза', lead='', cta='Начать бесплатно', cta2='Бесплатные вопросы', appnote='', feat_h='', feats=[('','')]*8, exam_h='', exam=[], how_h='', how=[], free_h='', free_p='',
+ faq=[], disc='The Wine Goat – независимая платформа подготовки к экзаменам, не связанная с Wine & Spirit Education Trust. WSET® – зарегистрированный товарный знак Wine & Spirit Education Trust.', home='Главная', more='Другие языки'),
 }

@@ -57,3 +57,7 @@ var box=$('#mcq3');if(box){var qs=D.mcq,i=0,good=0;
 /* goats hop when tapped */
 $$('.g3').forEach(function(g){g.style.pointerEvents='auto';g.addEventListener('click',function(){g.style.animation='none';void g.offsetWidth;g.style.animation='hop3 .9s ease-out';});});
 })();
+
+/* the goat next to the phone talks (the drawing only sways gently) */
+(function(){ var D=JSON.parse(document.getElementById('home-data').textContent), say=document.getElementById('say'); if(!say||!D.says||!D.says.length) return; var i=0; say.textContent=D.says[0];
+  setInterval(function(){ say.classList.add('out'); setTimeout(function(){ i=(i+1)%D.says.length; say.textContent=D.says[i]; say.classList.remove('out'); },300); },4200); })();
