@@ -1338,7 +1338,7 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
 </div>
 <aside class="rail" id="rail" aria-label="Stats"></aside>
 
-<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}}</script><script src="vendor/supabase-2.119.0.js"></script><script>/* The Wine Goat — standalone runtime: accounts (Supabase), cloud save, AI marking (serverless function) */
+<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}, "iap": {"appleKey": "", "googleKey": "", "productId": "twg_full_12m", "days": 365}}</script><script src="vendor/supabase-2.119.0.js"></script><script>/* The Wine Goat — standalone runtime: accounts (Supabase), cloud save, AI marking (serverless function) */
 (function(){
   const C=window.TWG_CONFIG||{};
   const ON=!!(C.supabaseUrl&&C.supabaseAnonKey&&window.supabase);
@@ -10790,9 +10790,9 @@ function wallOpen(kind,ctx){ ctx=ctx||{};
    ${chips?`<div class="wlchips">${chips}</div>`:""}
    <h2>${esc(h)}</h2><p>${esc(p)}</p>
    <p class="wllist">${esc(t("wlList"))}</p>
-   <button type="button" class="buygo" data-wlbuy>${esc(t("wlGo").replace("{p}",buyPrice()))}</button>
-   <small>${esc(t("wlTerms"))} · 🔒 Stripe</small>
-   <div class="wlalt">${ctx.c!=="bdx"?`<button type="button" data-wlbdx>${esc(t("wlBdx"))}</button>`:""}<button type="button" data-wlx>${esc(t("wlLater"))}</button></div></div>`;
+   <button type="button" class="buygo" data-wlbuy>${esc(t("wlGo").replace("{p}",priceNow()))}</button>
+   <small>${esc(t("wlTerms"))} · 🔒 ${payBrand()}</small>
+   <div class="wlalt">${ctx.c!=="bdx"?`<button type="button" data-wlbdx>${esc(t("wlBdx"))}</button>`:""}${NATIVE?`<button type="button" data-wlrestore>${esc(t("iapRestore"))}</button>`:""}<button type="button" data-wlx>${esc(t("wlLater"))}</button></div></div>`;
   bg.addEventListener("click",e=>{
     if(e.target===bg||e.target.closest("[data-wlx]")){ wallClose(); return; }
     if(e.target.closest("[data-wlbdx]")){ wallClose(); quiz=null; startCh("bdx"); return; }
@@ -10867,6 +10867,56 @@ try{ const stw=document.createElement("style"); stw.textContent=`
 #twgwall .wlalt button[data-wlx]{opacity:.65;font-size:13.5px}
 .wllock .row{flex-wrap:wrap}
 `; document.head.appendChild(stw); }catch(e){}
+
+
+/* ---------- v131: in the Android and iOS apps the paywall uses the store's own payment (Apple / Google, via RevenueCat);
+   on the website it stays Stripe. Same access: 12 months from the purchase.
+   Keys go in TWG_CONFIG.iap = {appleKey, googleKey, productId, days}. Without keys the app says "payment coming soon". ---------- */
+const IAPC=Object.assign({productId:"twg_full_12m",days:365},(window.TWG_CONFIG&&window.TWG_CONFIG.iap)||{});
+const NATIVE=!!(window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform());
+const PLAT=NATIVE?window.Capacitor.getPlatform():"web";
+let IAP=null, IAPP=null, IAPBUSY=false;
+Object.assign(T.it,{iapRestore:"Ripristina acquisti",iapRestored:"Acquisto ripristinato 🎉",iapNone:"Nessun acquisto da ripristinare su questo account.",iapErr:"Il pagamento non è andato a buon fine. Riprova tra poco."});
+Object.assign(T.fr,{iapRestore:"Restaurer les achats",iapRestored:"Achat restauré 🎉",iapNone:"Aucun achat à restaurer sur ce compte.",iapErr:"Le paiement n'a pas abouti. Réessayez dans un instant."});
+Object.assign(T.en,{iapRestore:"Restore purchases",iapRestored:"Purchase restored 🎉",iapNone:"No purchase to restore on this account.",iapErr:"The payment didn't go through. Please try again shortly."});
+if(T.es) Object.assign(T.es,{iapRestore:"Restaurar compras",iapRestored:"Compra restaurada 🎉",iapNone:"No hay compras que restaurar en esta cuenta.",iapErr:"El pago no se completó. Vuelve a intentarlo en un momento."});
+function priceNow(){ return NATIVE&&IAPP&&IAPP.priceString?IAPP.priceString:buyPrice(); }
+function payBrand(){ return NATIVE?(PLAT==="ios"?"App Store":"Google Play"):"Stripe"; }
+function iapApply(ci){ const tx=((ci&&ci.nonSubscriptionTransactions)||[]).filter(x=>x.productIdentifier===IAPC.productId);
+  if(!tx.length) return false;
+  const last=Math.max(...tx.map(x=>new Date(x.purchaseDate).getTime())), until=new Date(last+IAPC.days*864e5);
+  if(until<=new Date()) return false;
+  if(!PRO.until||new Date(PRO.until)<until){ PRO={until:until.toISOString(),chk:Date.now(),src:PLAT}; lsSet(PROK,JSON.stringify(PRO)); try{ render(); }catch(e){} }
+  return true; }
+async function iapInit(){ if(!NATIVE) return null; if(IAP) return IAP;
+  const key=PLAT==="ios"?IAPC.appleKey:IAPC.googleKey; if(!key) return null;
+  try{ const P0=window.Capacitor.registerPlugin("Purchases"); const A=window.twgAccount;
+    await P0.configure({apiKey:key,appUserID:A&&A.signedIn&&A.signedIn()?A.uid():undefined}); IAP=P0;
+    try{ const r=await IAP.getProducts({productIdentifiers:[IAPC.productId],type:"NON_SUBSCRIPTION"}); IAPP=(r&&r.products&&r.products[0])||null; }catch(e){}
+    try{ iapApply((await IAP.getCustomerInfo()).customerInfo); }catch(e){}
+  }catch(e){ console.warn("IAP",e); IAP=null; }
+  return IAP; }
+/* the account and the store purchase stay linked: RevenueCat tells the server, the server writes public.purchases */
+async function iapLink(){ const A=window.twgAccount; if(!IAP||!A||!A.signedIn||!A.signedIn()) return; try{ const r=await IAP.logIn({appUserID:A.uid()}); iapApply(r&&r.customerInfo); }catch(e){} }
+if(NATIVE){ setTimeout(()=>{ iapInit().then(iapLink); },800); window.addEventListener("twg-account",()=>{ iapInit().then(iapLink); }); }
+
+{ const _bg=buyGo; buyGo=async function(){ if(!NATIVE) return _bg.apply(this,arguments);
+    if(IAPBUSY) return; IAPBUSY=true;
+    try{ await iapInit(); if(!IAP||!IAPP){ buyBanner(t("buySoon")); return; }
+      await iapLink();
+      const r=await IAP.purchaseStoreProduct({product:IAPP});
+      if(iapApply(r&&r.customerInfo)){ wallClose(); buyBanner(t("paidOk"),true); resumeAfterPay(); }
+    }catch(e){ if(!(e&&e.userCancelled)) buyBanner(t("iapErr")); }
+    finally{ IAPBUSY=false; } };
+  window.twgBuy=buyGo; }
+async function iapRestore(){ await iapInit(); if(!IAP){ buyBanner(t("buySoon")); return; }
+  try{ const r=await IAP.restorePurchases(); if(iapApply(r&&r.customerInfo)){ wallClose(); buyBanner(t("iapRestored"),true); resumeAfterPay(); } else buyBanner(t("iapNone")); }
+  catch(e){ buyBanner(t("iapErr")); } }
+document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closest("[data-wlrestore]"); if(b){ e.preventDefault(); e.stopPropagation(); iapRestore(); } },true);
+/* the server only knows web (Stripe) purchases until RevenueCat's webhook arrives: don't let it wipe a store purchase */
+{ const _pr2=proRefresh; proRefresh=async function(){ const ok=await _pr2.apply(this,arguments); if(!ok&&NATIVE&&IAP){ try{ return iapApply((await IAP.getCustomerInfo()).customerInfo); }catch(e){} } return ok; }; }
+/* Apple requires a visible "restore purchases": in the profile of the apps, until access is active */
+{ const _bc2=buyCard; buyCard=function(){ const h=_bc2.apply(this,arguments); return h||(NATIVE?`<p style="text-align:center;margin:10px 0"><button type="button" class="btn ghost" data-wlrestore>${esc(t("iapRestore"))}</button></p>`:""); }; }
 
 render();
 connect();
