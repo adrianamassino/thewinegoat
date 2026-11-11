@@ -16,6 +16,7 @@ def render(h, oq, img):
     a = f'''<div class="fv fa" aria-hidden="true">
  <div class="paper"><div class="pq">{e(q)}</div>{lines}</div>
  <div class="ring"><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" pathLength="100"/><circle class="rf" cx="22" cy="22" r="18" pathLength="100"/></svg><span><b class="sc">0</b><small>/5</small></span></div>
+ <img class="fgo" src="{img}/goats/exam.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 2 — personal plan: goal, days ticked, weak topics filled over time, countdown
     days = ''.join(f'<span class="dy" style="--i:{i}"><i>✓</i></span>' for i in range(7))
@@ -25,6 +26,7 @@ def render(h, oq, img):
  <div class="goals"><span>Pass</span><span class="g2">Merit</span><span>Distinction</span><b class="cd"><i class="cdn">60</i></b></div>
  <div class="week">{days}</div>
  <div class="bars">{bars}</div>
+ <img class="fgo" src="{img}/goats/free.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 3 — record the class: REC, waveform, transcript, photo of notes
     wave = ''.join(f'<i style="--d:{(i * 37) % 11 / 10:.1f}s;--h:{30 + (i * 53) % 60}%"></i>' for i in range(26))
@@ -35,6 +37,7 @@ def render(h, oq, img):
  <div class="trans">{tr}</div>
  <div class="polar"><div class="note"><span></span><span></span><span></span></div></div>
  <div class="flash"></div>
+ <img class="fgo" src="{img}/goats/guide.webp" alt="" width="200" height="220" loading="lazy">
 </div>'''
     # 4 — films & podcasts
     eq = ''.join(f'<i style="--d:{d}s"></i>' for d in (0, .25, .5, .15, .4))
@@ -46,9 +49,9 @@ def render(h, oq, img):
    <g class="rows"><path d="M-40 150 C20 112 80 108 140 116 S260 104 400 112" fill="none" stroke="#6f8a3f" stroke-width="5" stroke-dasharray="2 10" stroke-linecap="round"/>
    <path d="M-40 160 C20 124 80 122 140 128 S260 118 400 124" fill="none" stroke="#5c7633" stroke-width="6" stroke-dasharray="2 11" stroke-linecap="round"/></g>
    <path d="M-20 126 C60 110 140 118 200 124 S300 112 360 118 V160 H-20Z" fill="#8aa04f"/>
- </svg>
+ </svg><img class="fgoat" src="{img}/goats/ig-g14.webp" alt="" width="239" height="301" loading="lazy">
  <span class="play">▶</span><div class="fbar"><i></i></div><span class="chip">68</span></div>
- <div class="pod"><span class="pcov"><svg viewBox="0 0 24 24" fill="none" stroke="#f3d48a" stroke-width="1.6" stroke-linecap="round"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg></span><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">45</span></div>
+ <div class="pod"><img src="{img}/goats/mosaic.webp" alt="" width="200" height="220" loading="lazy"><div class="pt"><p></p><p></p><div class="pbar"><i></i></div></div><div class="eq">{eq}</div><span class="chip">45</span></div>
 </div>'''
     vis = (a, b, d, c)
     order = (0, 1, 3, 2)  # open questions, plan, class recording, films & podcasts
@@ -81,12 +84,12 @@ CSS = r'''
 .fa .pl i{display:block;height:7px;border-radius:4px;background:#8a7a80;width:0;animation:fxftype 9s calc(var(--i)*.55s) infinite}
 @keyframes fxftype{0%{width:0}6%{width:var(--w)}88%{width:var(--w);opacity:1}96%,100%{width:var(--w);opacity:0}}
 .fa .pl b{position:absolute;right:-6px;font:900 20px/1 inherit;transform:scale(0);animation:fxftick 9s calc(4s + var(--i)*.35s) infinite}
-.fa .pl b.ok{color:#2f8a4e}.fa .pl b.ko{color:#c0392b}
+.fa .pl b.ok{color:#5f7a3c}.fa .pl b.ko{color:#a3283f}
 @keyframes fxftick{0%{transform:scale(0)}4%{transform:scale(1.4)}7%{transform:scale(1)}48%{transform:scale(1);opacity:1}56%,100%{transform:scale(0);opacity:0}}
 .fa .ring{position:absolute;right:16px;top:24px;width:78px;height:78px}
 .fa .ring svg{width:100%;height:100%;transform:rotate(-90deg)}
 .fa .ring circle{fill:none;stroke:#f0dfe3;stroke-width:5}
-.fa .ring .rf{stroke:#2f8a4e;stroke-linecap:round;stroke-dasharray:100;stroke-dashoffset:100;opacity:0;animation:fxfring 9s infinite}
+.fa .ring .rf{stroke:#5f7a3c;stroke-linecap:round;stroke-dasharray:100;stroke-dashoffset:100;opacity:0;animation:fxfring 9s infinite}
 @keyframes fxfring{0%,44%{stroke-dashoffset:100;opacity:0}46%{opacity:1}66%,90%{stroke-dashoffset:20;opacity:1}97%,100%{stroke-dashoffset:100;opacity:0}}
 .fa .ring span{position:absolute;inset:0;display:flex;align-items:baseline;justify-content:center;padding-top:22px;color:#3e0f22}
 .fa .ring b{font:800 26px/1 Fraunces,Georgia,serif}.fa .ring small{font-weight:700;color:#8a7a80}
@@ -101,15 +104,15 @@ CSS = r'''
 .fb .week{display:flex;gap:8px;margin:18px 0 16px}
 .fb .dy{flex:1;height:30px;border-radius:10px;background:#fff;box-shadow:inset 0 0 0 1.5px #ead8dc;display:grid;place-items:center;animation:fxfday 9s calc(1s + var(--i)*.5s) infinite}
 .fb .dy i{font-style:normal;color:#fff;font-weight:900;opacity:0;animation:fxfdayi 9s calc(1s + var(--i)*.5s) infinite}
-@keyframes fxfday{0%{background:#fff}4%,88%{background:#2f8a4e;box-shadow:none}96%,100%{background:#fff}}
+@keyframes fxfday{0%{background:#fff}4%,88%{background:#5f7a3c;box-shadow:none}96%,100%{background:#fff}}
 @keyframes fxfdayi{0%{opacity:0}4%,88%{opacity:1}96%,100%{opacity:0}}
 .fb .bars{display:grid;gap:10px;margin-right:84px}
 .fb .tb{display:grid;grid-template-columns:24px 1fr 22px;align-items:center;gap:8px}
 .fb .tb>div{height:12px;border-radius:8px;background:#fff;box-shadow:inset 0 0 0 1.5px #ead8dc;overflow:hidden}
-.fb .tb i{display:block;height:100%;border-radius:8px;background:#d4a23a;width:var(--a);animation:fxfbar 9s infinite}
-.fb .tb.weak i{background:#c0392b;animation-name:fxfbarw}
+.fb .tb i{display:block;height:100%;border-radius:8px;background:#b8892e;width:var(--a);animation:fxfbar 9s infinite}
+.fb .tb.weak i{background:#a3283f;animation-name:fxfbarw}
 @keyframes fxfbar{0%,20%{width:var(--a)}70%,90%{width:var(--b)}100%{width:var(--a)}}
-@keyframes fxfbarw{0%,20%{width:var(--a);background:#c0392b}55%{background:#d4a23a}70%,90%{width:var(--b);background:#2f8a4e}100%{width:var(--a);background:#c0392b}}
+@keyframes fxfbarw{0%,20%{width:var(--a);background:#a3283f}55%{background:#b8892e}70%,90%{width:var(--b);background:#5f7a3c}100%{width:var(--a);background:#a3283f}}
 .fb .tb em{font-style:normal;font-size:16px;animation:fxfwarn 9s infinite}
 @keyframes fxfwarn{0%,10%{transform:scale(1)}14%{transform:scale(1.35)}18%,60%{transform:scale(1)}66%,94%{opacity:0}100%{opacity:1}}
 
@@ -117,10 +120,10 @@ CSS = r'''
 .fc{padding:18px;background:linear-gradient(160deg,#fbeef0,#f3e3e8)}
 .fc .rec{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;background:#3e0f22;color:#fff;font-weight:800;font-size:13px;letter-spacing:.06em}
 .fc .rec b{font-variant-numeric:tabular-nums;font-weight:700;letter-spacing:0;opacity:.9}
-.fc .dot{width:10px;height:10px;border-radius:50%;background:#ff4d5e;animation:fxfdot 1.2s ease-in-out infinite}
+.fc .dot{width:10px;height:10px;border-radius:50%;background:#c4485f;animation:fxfdot 1.2s ease-in-out infinite}
 @keyframes fxfdot{50%{opacity:.3;transform:scale(.8)}}
 .fc .wave{display:flex;align-items:center;gap:4px;height:56px;margin:14px 0 10px}
-.fc .wave i{flex:1;height:var(--h);border-radius:3px;background:linear-gradient(#a3264f,#d46a8a);animation:fxfwave 1.1s ease-in-out var(--d) infinite alternate}
+.fc .wave i{flex:1;height:var(--h);border-radius:3px;background:linear-gradient(#5c1630,#a8566e);animation:fxfwave 1.1s ease-in-out var(--d) infinite alternate}
 @keyframes fxfwave{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
 .fc .trans{margin-right:130px}
 .fc .trans p{height:8px;border-radius:4px;background:#bba9b0;margin:0 0 12px;width:0;animation:fxftr 9s calc(.6s + var(--i)*1.1s) infinite}
@@ -232,15 +235,22 @@ CSS += r"""
 .fic .lic{width:22px;height:22px}
 .fb .tdot{width:10px;height:10px;border-radius:50%;background:#b8892e;justify-self:center}
 .fb .tb:nth-child(2) .tdot{background:#8c1d40}.fb .tb:nth-child(3) .tdot{background:#6f8a3f}.fb .tb:nth-child(4) .tdot{background:#5a6b8c}
-.fb .tb em{font:900 14px/1 inherit;color:#c0392b;text-align:center}
+.fb .tb em{font:900 14px/1 inherit;color:#a3283f;text-align:center}
 .fb .tb{grid-template-columns:14px 1fr 16px}.fb .bars{margin-right:0}
 .fb .goals span{border-radius:8px}.fb .cd{border-radius:8px;font-variant-numeric:tabular-nums}
-.fa .paper{right:110px}
-.fc .trans{margin-right:150px}.fc .polar{right:22px}
 .fd .pcov{width:46px;height:46px;border-radius:10px;display:grid;place-items:center;background:linear-gradient(160deg,#7a1838,#3e0f22);flex:none}
 .fd .pcov svg{width:24px;height:24px}
 .fd .chip{border-radius:8px;font-variant-numeric:tabular-nums}
 .seal{width:64px;height:64px;display:block;margin:0 auto}
 .fhead h2{margin-top:10px}
-@media (max-width:420px){.fa .paper{right:96px}.fc .trans{margin-right:120px}}
+"""
+
+CSS += r"""
+/* wine palette for the card visuals */
+.fa .pl i{background:#9a8a8f}.fa .ring circle{stroke:#efe3dc}
+.fb .dy{border-radius:6px}.fb .goals .g2{border-radius:8px}
+.fb .tb>div{height:8px;background:#efe6dc;box-shadow:none}
+.fc .wave i{border-radius:2px}
+.fd .film{border-radius:10px}.fd .pod{border-radius:10px}
+.fcard .fgo{width:80px}
 """

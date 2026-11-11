@@ -101,24 +101,37 @@ def _grape(cls, uid):
             f'<path d="M46 20 C38 16 34 8 40 4 C44 2 46 8 42 10" fill="none" stroke="#7d9a45" stroke-width="1.6" stroke-linecap="round"/>{berries}</svg>')
 
 def _hero_deco():
-    # fine perlage + line-art vineyard hills: quiet, wine-like
     bub = ''.join(f'<i style="--x:{x}%;--s:{sz}px;--d:{d}s;--t:{t}s"></i>' for x, sz, d, t in
-                  ((8,4,0,11),(15,3,3,13),(23,5,6,12),(31,3,1.5,14),(44,4,8,12),(52,3,4.5,13),(61,5,2.2,11),(70,3,7,14),(79,4,5,12),(88,3,9,13),(94,5,1,12)))
+                  ((4,14,0,9),(10,8,2.5,11),(17,20,5,10),(25,10,1.2,12),(33,7,6.5,9),(41,16,3.4,13),(48,9,8,10),(56,12,.6,11),(64,18,4.4,12),(72,8,7.1,9),(80,14,2,10),(88,10,5.7,12),(95,16,3,11),(21,12,9,11),(52,7,10,10),(76,22,6,13),(37,11,11,10),(90,8,8.5,9)))
     rows = ''.join(f'<path d="M{-40 + i * 4},{300 - i * 3} C{240 + i * 6},{232 - i * 9} {520 - i * 5},{258 - i * 7} {820 + i * 8},{214 - i * 6} S{1240},{196 - i * 5} {1480},{226 - i * 4}" />' for i in range(5))
     hills = (f'<svg class="hhills" viewBox="0 0 1440 320" preserveAspectRatio="none"><g fill="none" stroke="#b8892e" stroke-width="1" opacity=".55">{rows}</g>'
              '<g fill="none" stroke="#8c1d40" stroke-width="1" stroke-dasharray="1 7" stroke-linecap="round" opacity=".35">'
              + ''.join(f'<path d="M{-20 + i * 2},{310 - i * 3} C{240 + i * 6},{246 - i * 9} {520 - i * 5},{270 - i * 7} {820 + i * 8},{226 - i * 6} S1240,{208 - i * 5} 1480,{238 - i * 4}"/>' for i in range(0, 5, 2))
              + '</g></svg>')
-    return '<div class="hdeco" aria-hidden="true"><div class="hbub">' + bub + '</div>' + hills + '</div>'
+    return ('<div class="hdeco" aria-hidden="true"><div class="hbub">' + bub + '</div>' + hills
+            + _grape('hg1', 1) + _grape('hg2', 2) + _grape('hg3', 3)
+            + '<span class="hsp s1">✦</span><span class="hsp s2">✦</span><span class="hsp s3">✦</span></div>')
 
 HERO_CSS = """
 .hdeco{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden}
 .hero3>.w,.hero3 .hgrid,.hero3 .stats3{position:relative;z-index:2}
-.hero3{background:radial-gradient(55% 60% at 20% 30%,#fbefe4 0%,rgba(251,239,228,0) 70%),radial-gradient(60% 70% at 85% 20%,#f7e7ea 0%,rgba(247,231,234,0) 70%),#fcf8f3}
-.hbub i{position:absolute;bottom:-10px;left:var(--x);width:var(--s);height:var(--s);border-radius:50%;box-shadow:inset 0 0 0 1px rgba(184,137,46,.55);animation:hbubup var(--t) linear calc(var(--d) * -1) infinite;opacity:0}
-@keyframes hbubup{0%{transform:translate(0,0);opacity:0}12%{opacity:.8}50%{transform:translate(4px,-330px)}88%{opacity:.5}100%{transform:translate(-3px,-680px);opacity:0}}
+.hero3{background:radial-gradient(55% 60% at 20% 30%,#fbefe4 0%,rgba(251,239,228,0) 70%),radial-gradient(60% 70% at 85% 20%,#f5e6e3 0%,rgba(245,230,227,0) 70%),#fcf8f3}
+.hbub i{position:absolute;bottom:-20px;left:var(--x);width:var(--s);height:var(--s);border-radius:50%;
+ background:radial-gradient(circle at 32% 30%,rgba(255,255,255,.95) 0 18%,rgba(255,255,255,0) 30%),radial-gradient(circle,rgba(212,162,58,.16) 50%,rgba(196,120,60,.6) 100%);
+ box-shadow:inset 0 0 0 1.5px rgba(196,140,50,.6),0 2px 6px rgba(212,162,58,.25);animation:hbubup var(--t) linear calc(var(--d) * -1) infinite;opacity:0}
+@keyframes hbubup{0%{transform:translate(0,0);opacity:0}10%{opacity:1}50%{transform:translate(10px,-320px)}90%{opacity:.7}100%{transform:translate(-6px,-680px);opacity:0}}
+.hgr{position:absolute;filter:drop-shadow(0 10px 14px rgba(62,15,34,.25));transform-origin:50% 0;animation:hgsw 6s ease-in-out infinite}
+.hg1{width:96px;left:-14px;top:30px;transform:rotate(-18deg);animation-delay:-1s}
+.hg2{width:70px;left:calc(50% - 60px);top:20px;transform:rotate(12deg);animation-delay:-3s}
+.hg3{width:58px;left:2%;bottom:130px;transform:rotate(-8deg);opacity:.9;animation-delay:-4.5s}
+@keyframes hgsw{0%,100%{rotate:-4deg}50%{rotate:5deg}}
+.hsp{position:absolute;color:#d4a23a;font-size:16px;animation:hspk 3.2s ease-in-out infinite}
+.hsp.s1{left:41%;top:24%}.hsp.s2{left:8%;top:52%;font-size:12px;animation-delay:-1.2s}.hsp.s3{left:47%;top:62%;font-size:13px;animation-delay:-2.2s}
+@keyframes hspk{0%,100%{opacity:.2;transform:scale(.7) rotate(0)}50%{opacity:1;transform:scale(1.15) rotate(20deg)}}
+@media (max-width:1020px){.hg1{width:70px;top:auto;bottom:42%;left:-24px}.hg2{left:auto;right:10px;top:14px}.rtl .hg2{right:auto;left:10px}.rtl .hg1{left:auto;right:-24px}.hg3{display:none}.hsp.s1{left:auto;right:28%}}
+@media (max-width:640px){.hg1{width:62px;left:-22px;top:auto;bottom:46%}.hg2{width:50px;top:8px;right:-8px}.rtl .hg2{left:-8px}.hsp.s3{display:none}}
 .hhills{position:absolute;left:0;right:0;bottom:0;width:100%;height:46%}
-@media (prefers-reduced-motion:reduce){.hbub{display:none}}
+@media (prefers-reduced-motion:reduce){.hbub{display:none}.hgr,.hsp{animation:none}}
 """
 
 def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, notice='', home='./', img='../img', lang_label=None):
@@ -168,7 +181,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <section id="{ids[0]}" class="sec3 try3"><div class="w">
  <h2>{e(h['try_h'])}</h2><p class="lead3">{e(h['try_p'])}</p>
  <div class="tabs3" role="tablist"><button role="tab" aria-selected="true" data-t3="open">{e(h['tab_open'])}</button><button role="tab" aria-selected="false" data-t3="mcq">{e(h['tab_mcq'])}</button></div>
- <div class="panel3wrap">
+ <div class="panel3wrap"><img class="g3 gtry2 sway" src="{img}/goats/mods.webp" alt="" width="351" height="452" loading="lazy"><img class="g3 gtry sway2" src="{img}/goats/explore.webp" alt="" width="421" height="478" loading="lazy">
  <div class="panel3" id="p-open">
   <p class="octx">{e(h['o_ctx'].replace('{m}', str(oq['m'])))}</p>
   <h3 class="oq3">{e(oq['t'])}</h3>
@@ -181,7 +194,8 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div></section>
 
 <section class="sec3 why3"><div class="w">
- <h3 class="cmph">{e(h['cmp_h'])}</h3><div class="cmpwrap">{cmp}</div>
+ <h3 class="cmph">{e(h['cmp_h'])}</h3><div class="cmpwrap"><img class="g3 gcmp sway2" src="{img}/goats/books.webp" alt="" width="326" height="300" loading="lazy">{cmp}</div>
+ <div class="glane gl2" aria-hidden="true" data-dir="rtl" data-stop=".35" data-speed="70"><div class="gw">{goat_svg()}</div></div>
 </div></section>
 
 <section class="sec3 steps3"><div class="w s3grid">
@@ -192,17 +206,17 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <section id="{ids[2]}" class="sec3 price3"><div class="w">
  <h2>{e(h['price_h'])}</h2>
  <div class="pgrid">
-  <div class="pwrap"><article class="pc"><h3>{e(h['free_t'])}</h3><p class="pp">0 €</p><ul>{free}</ul><a class="b3 b3g" href="{APP}#go=start">{e(h['free_b'])}</a></article></div>
-  <div class="pwrap"><article class="pc pro"><span class="rib">★</span><h3>{e(h['full_t'])}</h3><p class="pp">{price} <small>{e(h['full_note'])}</small></p><ul>{full}</ul><a class="b3 b3gold" href="{APP}#go=buy">{e(h["full_b"])}</a></article></div>
+  <div class="pwrap"><img class="g3 gfree sway2" src="{img}/goats/feat.webp" alt="" width="429" height="401" loading="lazy"><article class="pc"><h3>{e(h['free_t'])}</h3><p class="pp">0 €</p><ul>{free}</ul><a class="b3 b3g" href="{APP}#go=start">{e(h['free_b'])}</a></article></div>
+  <div class="pwrap"><img class="g3 gprize sway" src="{img}/goats/trophy.webp" alt="" width="236" height="300" loading="lazy"><article class="pc pro"><span class="rib">★</span><h3>{e(h['full_t'])}</h3><p class="pp">{price} <small>{e(h['full_note'])}</small></p><ul>{full}</ul><a class="b3 b3gold" href="{APP}#go=buy">{e(h["full_b"])}</a></article></div>
  </div>
 </div></section>
 
-<section id="faq" class="sec3 faq3"><div class="w nar"><h2>{e(h['faq_h'])}</h2><div class="cmpwrap" style="max-width:none">{faq}</div></div></section>
+<section id="faq" class="sec3 faq3"><div class="w nar"><h2>{e(h['faq_h'])}</h2><div class="cmpwrap" style="max-width:none"><img class="g3 gfaq3 sway" src="{img}/goats/levels.webp" alt="" width="372" height="501" loading="lazy"><img class="g3 gfaq2 sway2" src="{img}/goats/scoot.webp" alt="" width="262" height="320" loading="lazy">{faq}</div><div class="glane gl3" aria-hidden="true" data-stop=".55" data-speed="60"><div class="gw">{goat_svg()}</div><div class="gw kid">{goat_svg()}</div></div></div></section>
 
-<section class="sec3 fin3"><div class="w fgrid">
+<section class="sec3 fin3"><img class="g3 gquick sway" src="{img}/goats/quick.webp" alt="" width="385" height="489" loading="lazy"><div class="w fgrid">
  <div><h2>{e(h['final_h'])}</h2><p>{e(h['final_p'])}</p><a class="b3 b3gold" href="{APP}#go=start">{e(h['final_b'])}</a></div>
  <img class="g3 gfin sway" src="{img}/goats/final.webp" alt="" width="300" height="300" loading="lazy">
-</div></section>
+</div><div class="w"><div class="glane gl4" aria-hidden="true" data-dir="rtl" data-stop=".6" data-speed="90"><div class="gw">{goat_svg()}</div></div></div></section>
 </main>
 <footer class="foot3"><div class="w">
  <a class="brand3" href="{home}"><img class="emb" src="{img}/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="{img}/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a>
