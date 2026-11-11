@@ -1338,7 +1338,7 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
 </div>
 <aside class="rail" id="rail" aria-label="Stats"></aside>
 
-<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}, "iap": {"appleKey": "", "googleKey": "", "productId": "twg_full_12m", "days": 365}}</script><script>(function(){try{var l=localStorage.getItem("wset3-lang")||"",m=/[?&#]lang=(es-ar|es)\b/.exec(location.href);if(m){l=m[1];localStorage.setItem("wset3-lang",l);}if(!l){var n=((navigator.languages&&navigator.languages[0])||navigator.language||"").toLowerCase();if(n.indexOf("es")===0)l="es";}if(l==="es"||l==="es-ar")document.write('<script src="i18n/es.js"><\/script>');}catch(e){}})();</script><script src="vendor/supabase-2.119.0.js"></script><script>/* The Wine Goat — standalone runtime: accounts (Supabase), cloud save, AI marking (serverless function) */
+<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}, "iap": {"appleKey": "", "googleKey": "", "productId": "twg_full_12m", "days": 365}}</script><script>(function(){try{var l=localStorage.getItem("wset3-lang")||"",m=/[?&#]lang=(es-ar|es|it|fr|en)\b/.exec(location.href);if(m){l=m[1];localStorage.setItem("wset3-lang",l);}if(!l){var n=((navigator.languages&&navigator.languages[0])||navigator.language||"").toLowerCase();if(n.indexOf("es")===0)l="es";}if(l==="es"||l==="es-ar")document.write('<script src="i18n/es.js"><\/script>');}catch(e){}})();</script><script src="vendor/supabase-2.119.0.js"></script><script>/* The Wine Goat — standalone runtime: accounts (Supabase), cloud save, AI marking (serverless function) */
 (function(){
   const C=window.TWG_CONFIG||{};
   const ON=!!(C.supabaseUrl&&C.supabaseAnonKey&&window.supabase);
@@ -10986,6 +10986,108 @@ try{ const stp=document.createElement("style"); stp.textContent=`
 #pwasheet .buygo{flex:1;color:#3e0f22}
 #pwasheet .pwax{border:0;background:none;padding:10px;font:600 14px/1 inherit;font-family:inherit;color:var(--muted,#5d6660);cursor:pointer;margin-left:auto}
 `; document.head.appendChild(stp); }catch(e){}
+
+
+/* ---------- v133: "test your level" challenge. A quick 20-question test (from the site: #go=lvquick);
+   the result needs a free account and comes with a personal forecast: predicted score, how many days of study
+   are needed to pass (and for Merit / Distinction) at the learner's daily pace, and what to do first. ---------- */
+const LVQ_N=20;
+const LVT={pass:{p:.55,h:70},merit:{p:.65,h:95},dist:{p:.8,h:125}};   // target score, study hours from zero (WSET suggests ~84 h in total for Level 3)
+function lvHours(p,k){ const T_=LVT[k]; if(p>=T_.p) return 5; return Math.max(6,Math.round(T_.h*(T_.p-p)/T_.p+3)); }
+function lvMinDay(){ try{ const c=plCfg(); return c&&c.custom&&c.min?c.min:30; }catch(e){ return 30; } }
+function lvExamDays(){ try{ const c=plCfg(); return c&&c.custom?plDaysLeft(c):null; }catch(e){ return null; } }
+function lvFmtDate(n){ const d=new Date(Date.now()+n*864e5); try{ return d.toLocaleDateString({it:"it-IT",fr:"fr-FR",en:"en-GB",es:"es-ES","es-ar":"es-AR"}[lang]||undefined,{day:"numeric",month:"long"}); }catch(e){ return d.toDateString(); } }
+const L5={
+ it:{qT:"Sfida veloce · 20 domande",lockP:"Crea il tuo account gratuito per vedere il tuo livello, i punti deboli e quanti giorni di studio ti servono per passare l'esame.",
+  fcK:"La tua previsione",fcScore:"Oggi all'esame faresti circa",fcPassMark:"(per passare serve il 55%)",fcDays:"Giorni di studio che ti servono",fcAt:"con {m} minuti al giorno",
+  fcPass:"Passare",fcMerit:"Merit",fcDist:"Distinction",fcReady:"già pronta/o",fcBy:"pronta/o verso il {d}",fcExamOk:"Il tuo esame è tra {n} giorni: ce la fai, con margine. 💪",fcExamTight:"Il tuo esame è tra {n} giorni: è stretto. Con {m2} minuti al giorno ci arrivi.",
+  fcPace:"Cambia ritmo:",fcMin:"{m} min/giorno",fcTodo:"Cosa fare, in quest'ordine",
+  fcW:"Rinforza «{g}»: sei al {p}%. 10 domande al giorno finché superi il 70%.",fcOpen:"Allenati sulle domande aperte: all'esame contano quanto le crocette. Una ogni 2 giorni.",
+  fcMock:"Dalla settimana {w}, un esame simulato completo a settimana.",fcDaily:"Ogni giorno: 10 domande, il ripasso degli errori e un gioco veloce. Bastano {m} minuti.",
+  fcNote:"Stima basata su {n} domande: più ne fai, più diventa precisa.",fcPlanGo:"Crea il mio piano giorno per giorno",
+  heroK:"Sfida",heroGo:"Testa il tuo livello"},
+ fr:{qT:"Défi express · 20 questions",lockP:"Créez votre compte gratuit pour voir votre niveau, vos points faibles et combien de jours d'étude il vous faut pour réussir l'examen.",
+  fcK:"Votre prévision",fcScore:"Aujourd'hui à l'examen, vous feriez environ",fcPassMark:"(il faut 55 % pour réussir)",fcDays:"Jours d'étude nécessaires",fcAt:"à raison de {m} minutes par jour",
+  fcPass:"Réussir",fcMerit:"Merit",fcDist:"Distinction",fcReady:"déjà prêt·e",fcBy:"prêt·e vers le {d}",fcExamOk:"Votre examen est dans {n} jours : c'est jouable, avec de la marge. 💪",fcExamTight:"Votre examen est dans {n} jours : c'est serré. Avec {m2} minutes par jour, vous y arrivez.",
+  fcPace:"Changer de rythme :",fcMin:"{m} min/jour",fcTodo:"Quoi faire, dans cet ordre",
+  fcW:"Renforcez « {g} » : vous êtes à {p} %. 10 questions par jour jusqu'à dépasser 70 %.",fcOpen:"Entraînez-vous aux questions ouvertes : à l'examen elles comptent autant que le QCM. Une tous les 2 jours.",
+  fcMock:"À partir de la semaine {w}, un examen blanc complet par semaine.",fcDaily:"Chaque jour : 10 questions, la révision des erreurs et un jeu rapide. {m} minutes suffisent.",
+  fcNote:"Estimation basée sur {n} questions : plus vous en faites, plus elle est précise.",fcPlanGo:"Créer mon plan jour par jour",
+  heroK:"Défi",heroGo:"Testez votre niveau"},
+ en:{qT:"Quick challenge · 20 questions",lockP:"Create your free account to see your level, your weak points and how many days of study you need to pass the exam.",
+  fcK:"Your forecast",fcScore:"If you sat the exam today you'd score about",fcPassMark:"(you need 55% to pass)",fcDays:"Days of study you need",fcAt:"at {m} minutes a day",
+  fcPass:"Pass",fcMerit:"Merit",fcDist:"Distinction",fcReady:"already there",fcBy:"ready around {d}",fcExamOk:"Your exam is in {n} days: you'll make it, with room to spare. 💪",fcExamTight:"Your exam is in {n} days: it's tight. At {m2} minutes a day you'll get there.",
+  fcPace:"Change your pace:",fcMin:"{m} min/day",fcTodo:"What to do, in this order",
+  fcW:"Strengthen “{g}”: you're at {p}%. 10 questions a day until you pass 70%.",fcOpen:"Practise written questions: in the exam they count as much as multiple choice. One every 2 days.",
+  fcMock:"From week {w}, one full mock exam a week.",fcDaily:"Every day: 10 questions, your mistake review and a quick game. {m} minutes is enough.",
+  fcNote:"Estimate based on {n} questions: the more you answer, the more precise it gets.",fcPlanGo:"Build my day-by-day plan",
+  heroK:"Challenge",heroGo:"Test your level"},
+ es:{qT:"Reto rápido · 20 preguntas",lockP:"Crea tu cuenta gratuita para ver tu nivel, tus puntos débiles y cuántos días de estudio necesitas para aprobar el examen.",
+  fcK:"Tu previsión",fcScore:"Si hicieras hoy el examen sacarías alrededor de",fcPassMark:"(para aprobar hace falta un 55 %)",fcDays:"Días de estudio que necesitas",fcAt:"con {m} minutos al día",
+  fcPass:"Aprobar",fcMerit:"Merit",fcDist:"Distinction",fcReady:"ya lo tienes",fcBy:"lista/o hacia el {d}",fcExamOk:"Tu examen es dentro de {n} días: llegas, y con margen. 💪",fcExamTight:"Tu examen es dentro de {n} días: vas justa/o. Con {m2} minutos al día lo consigues.",
+  fcPace:"Cambia de ritmo:",fcMin:"{m} min/día",fcTodo:"Qué hacer, en este orden",
+  fcW:"Refuerza «{g}»: estás en un {p} %. 10 preguntas al día hasta superar el 70 %.",fcOpen:"Practica las preguntas abiertas: en el examen cuentan tanto como las de opción múltiple. Una cada 2 días.",
+  fcMock:"A partir de la semana {w}, un examen simulado completo a la semana.",fcDaily:"Cada día: 10 preguntas, el repaso de errores y un juego rápido. Bastan {m} minutos.",
+  fcNote:"Estimación basada en {n} preguntas: cuantas más hagas, más precisa será.",fcPlanGo:"Crear mi plan día a día",
+  heroK:"Reto",heroGo:"Pon a prueba tu nivel"},
+ "es-ar":{qT:"Desafío rápido · 20 preguntas",lockP:"Creá tu cuenta gratis para ver tu nivel, tus puntos débiles y cuántos días de estudio necesitás para aprobar el examen.",
+  fcK:"Tu pronóstico",fcScore:"Si rindieras hoy el examen sacarías alrededor de",fcPassMark:"(para aprobar hace falta un 55 %)",fcDays:"Días de estudio que necesitás",fcAt:"con {m} minutos por día",
+  fcPass:"Aprobar",fcMerit:"Merit",fcDist:"Distinction",fcReady:"ya lo tenés",fcBy:"lista/o para el {d}",fcExamOk:"Tu examen es en {n} días: llegás, y con margen. 💪",fcExamTight:"Tu examen es en {n} días: estás justa/o. Con {m2} minutos por día llegás.",
+  fcPace:"Cambiá el ritmo:",fcMin:"{m} min/día",fcTodo:"Qué hacer, en este orden",
+  fcW:"Reforzá «{g}»: estás en un {p} %. 10 preguntas por día hasta superar el 70 %.",fcOpen:"Practicá las preguntas abiertas: en el examen cuentan tanto como las de opción múltiple. Una cada 2 días.",
+  fcMock:"Desde la semana {w}, un simulacro completo por semana.",fcDaily:"Todos los días: 10 preguntas, el repaso de errores y un juego rápido. Alcanzan {m} minutos.",
+  fcNote:"Estimación basada en {n} preguntas: cuantas más hagas, más precisa va a ser.",fcPlanGo:"Crear mi plan día por día",
+  heroK:"Desafío",heroGo:"Poné a prueba tu nivel"}};
+Object.keys(L5).forEach(l=>{ if(T[l]) Object.assign(T[l],L5[l],{lvLockP:L5[l].lockP}); });
+let LVPACE=null;   // minutes a day chosen on the result page
+function lvForecast(r){ if(!r||!r.n) return "";
+  /* multiple choice alone overestimates: the written answers of the real exam usually score lower */
+  const p=r.k==="mix"?(r.c/r.n)*0.85:(r.m?r.s/r.m:0), m=LVPACE||lvMinDay(), ex=lvExamDays();
+  const days=k=>Math.max(1,Math.ceil(lvHours(p,k)*60/m));
+  const cell=k=>{ const ready=p>=LVT[k].p+.05, d=days(k);
+    return `<div class="fcc${k==="pass"?" main":""}"><small>${esc(t(k==="pass"?"fcPass":k==="merit"?"fcMerit":"fcDist"))}</small><b>${ready?"✓":d}</b><span>${esc(ready?t("fcReady"):t("fcBy").replace("{d}",lvFmtDate(d)))}</span></div>`; };
+  let exam="";
+  if(ex!=null&&ex>0){ const need=days("pass");
+    if(need<=ex) exam=`<p class="fcex ok">${esc(t("fcExamOk").replace("{n}",ex))}</p>`;
+    else { const m2=Math.min(240,Math.ceil(lvHours(p,"pass")*60/ex/5)*5); exam=`<p class="fcex tight">${esc(t("fcExamTight").replace("{n}",ex).replace("{m2}",m2))}</p>`; } }
+  const weak=(r.g||[]).filter(x=>x.n).slice().sort((a,b)=>a.c/a.n-b.c/b.n).slice(0,2).map(x=>{ const g=GROUPS.find(G=>G.k===x.k); return t("fcW").replace("{g}",g?lvGName(g):x.k).replace("{p}",Math.round(x.c/x.n*100)); });
+  const wk=Math.max(1,Math.floor(days("pass")/7*0.5));
+  const todo=[...weak, r.k==="mix"?t("fcOpen"):"", t("fcMock").replace("{w}",wk), t("fcDaily").replace("{m}",m)].filter(Boolean);
+  const pace=[15,30,60,120].map(x=>`<button type="button" class="fcpace${x===m?" on":""}" data-lvpace="${x}">${esc(t("fcMin").replace("{m}",x))}</button>`).join("");
+  return `<div class="fcbox"><p class="fck">${esc(t("fcK"))}</p>
+    <p class="fcsc">${esc(t("fcScore"))} <b>${Math.round(p*100)}%</b> <small>${esc(t("fcPassMark"))}</small></p>
+    <p class="fcdl">${esc(t("fcDays"))} <small>${esc(t("fcAt").replace("{m}",m))}</small></p>
+    <div class="fcgrid">${cell("pass")}${cell("merit")}${cell("dist")}</div>${exam}
+    <div class="fcpaces"><span>${esc(t("fcPace"))}</span>${pace}</div>
+    <p class="fck" style="margin-top:16px">${esc(t("fcTodo"))}</p><ol class="fctodo">${todo.map(x=>`<li>${esc(x)}</li>`).join("")}</ol>
+    <p class="fcnote">${esc(t("fcNote").replace("{n}",r.n))}</p></div>`; }
+{ const _lr=lvResHTML; lvResHTML=function(r){ let h=_lr.apply(this,arguments); if(!h) return h;
+    h=h.replace('<ul class="asrows">',lvForecast(r)+'<ul class="asrows">');
+    return h.replace(`>${esc(t("lvPlan"))}</button>`,`>${esc(t("fcPlanGo"))}</button>`); }; }
+document.addEventListener("click",e=>{ const b=e.target.closest&&e.target.closest("[data-lvpace]"); if(!b) return; e.preventDefault(); LVPACE=+b.dataset.lvpace; const y=scrollY; render(); scrollTo(0,y); });
+/* the quick challenge: 20 questions spread over the whole syllabus */
+{ const _sm=lvStartMix; lvStartMix=function(n){ if(!n) return _sm.apply(this,arguments);
+    const ids=lvSpread(BANK.map(b=>b.id),n,id=>{ const b=BY[id]; return b?b.c:""; }); LVS={k:"mix",quick:true}; startQuiz(ids,"practice",[]); }; }
+function lvQHash(e){ const h=e&&e.newURL?(new URL(e.newURL).hash||""):(location.hash||LVH0);
+  if(!/[#&]go=lvquick/.test(h)) return; history.replaceState(null,"",location.pathname+location.search); try{ lsSet("wset3-onb","1"); }catch(x){} lvStartMix(LVQ_N); }
+window.addEventListener("hashchange",lvQHash,true); setTimeout(lvQHash,160);
+try{ const st5=document.createElement("style"); st5.textContent=`
+.fcbox{margin:16px 0;padding:18px;border-radius:22px;background:var(--surface,#fff);border:1px solid var(--line,#e5ddd2);text-align:left}
+.fck{margin:0 0 6px;font:800 12px/1.2 inherit;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#7b1e3a)}
+.fcsc{margin:0 0 12px;font-size:15px}.fcsc b{font:800 26px/1 Fraunces,Georgia,serif;color:var(--accent,#7b1e3a)}.fcsc small,.fcdl small{color:var(--muted,#5d6660)}
+.fcdl{margin:0 0 8px;font-weight:700}
+.fcgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.fcc{padding:12px 8px;border-radius:16px;background:var(--sunk,#f3efe8);text-align:center;display:flex;flex-direction:column;gap:2px}
+.fcc small{font-weight:800;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#5d6660)}
+.fcc b{font:800 30px/1.1 Fraunces,Georgia,serif}.fcc span{font-size:12px;color:var(--muted,#5d6660)}
+.fcc.main{background:radial-gradient(120% 140% at 0% 0%,#a3264f,#7a1838 60%,#3e0f22);color:#fff}.fcc.main small,.fcc.main span{color:#f6dfe5}
+.fcex{margin:10px 0 0;padding:10px 12px;border-radius:14px;font-weight:600}.fcex.ok{background:#e4f1ea;color:#21483a}.fcex.tight{background:#fbefd9;color:#6b4a12}
+.fcpaces{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:12px;font-size:13px;color:var(--muted,#5d6660)}
+.fcpace{border:1px solid var(--line,#e5ddd2);background:none;border-radius:99px;padding:6px 10px;font:700 13px/1 inherit;font-family:inherit;color:var(--fg,#1d2320);cursor:pointer}
+.fcpace.on{background:var(--accent,#7b1e3a);border-color:var(--accent,#7b1e3a);color:#fff}
+.fctodo{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;line-height:1.4}
+.fcnote{margin:12px 0 0;font-size:12.5px;color:var(--muted,#5d6660)}
+`; document.head.appendChild(st5); }catch(e){}
 
 render();
 connect();
