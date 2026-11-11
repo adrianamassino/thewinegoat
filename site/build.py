@@ -111,3 +111,16 @@ print('github pages files ok (English at root)')
 # GitHub Pages has no use for netlify.toml (it was growing at every build): drop it
 try: os.remove('pkg/netlify.toml')
 except FileNotFoundError: pass
+
+# Stripe first: on the site, "Unlock everything" opens the payment link directly (the account comes after, in the app)
+_link = (_cfg.get('stripe') or {}).get('link')
+if _link:
+    import re as _re2
+    for _dp, _dn, _fn in os.walk('pkg'):
+        if _dp.startswith('pkg/app'): continue
+        for _f in _fn:
+            if not _f.endswith('.html'): continue
+            _p = os.path.join(_dp, _f); _s = open(_p, encoding='utf-8').read()
+            _n = _re2.sub(r'href="[^"]*app/#go=buy"', 'href="' + _link + '" rel="noopener"', _s)
+            if _n != _s: open(_p, 'w', encoding='utf-8').write(_n)
+    print('stripe link on site buttons')
