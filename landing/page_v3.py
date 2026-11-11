@@ -6,7 +6,7 @@ import page_v2
 from page_v2 import money, CUR, DEFCUR, TRIAL_BDX
 from home_text import H
 from goat_walk import goat_svg, GOAT_CSS
-import feat_anim, feat_more, feat_vs
+import feat_anim, feat_more, feat_vs, feat_lv
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANE_CSS = """
 /* hero: one small goat beside the phone */
@@ -176,6 +176,8 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 </div>
 <div class="w stats3">{stats}<img class="g3 gsmall gs2 sway" src="{img}/goats/ig-n04.webp" alt="" width="221" height="300" loading="lazy"></div></section>
 
+{feat_lv.render(c, img, APP)}
+
 <section id="{ids[1]}" class="sec3 feat3"><div class="w">
  {feat_anim.head(c, h)}
  {feat_anim.render(h, oq, img, c)}
@@ -228,7 +230,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
-<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}{feat_vs.CSS}{HERO_CSS}</style>
+<style>{GOAT_CSS}{LANE_CSS}{feat_anim.CSS}{feat_more.CSS}{feat_vs.CSS}{feat_lv.CSS}{HERO_CSS}</style>
 <script>{JS}</script>
 <script>{LANE_JS}</script>
 <script>{feat_anim.JS}</script>
