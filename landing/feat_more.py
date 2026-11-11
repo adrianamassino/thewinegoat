@@ -31,15 +31,23 @@ def render(c, img):
          f'<b class="xq"><span class="mn">0</span>/50</b></div><div class="mgrid">{cells}</div>'
          f'<div class="mres">🏅 <b>Merit</b> <span>92%</span></div>'
          f'<img class="fgo" src="{img}/goats/ig-n29.webp" alt="" width="323" height="380" loading="lazy"></div>')
-    pins = ''.join(f'<div class="pin" style="--x:{x}%;--y:{y}%;--i:{i}"><span>📍</span><em>{n}</em></div>'
-                   for i, (x, y, n) in enumerate(((22, 58, 'Bordeaux'), (56, 34, 'Champagne'), (62, 56, 'Bourgogne'), (40, 80, 'Rioja'), (80, 30, 'Mosel'))))
-    mp = ('<div class="fv fmap" aria-hidden="true"><svg class="land" viewBox="0 0 400 270" preserveAspectRatio="none">'
-          '<path d="M20 40 C90 10 170 30 230 18 S350 10 390 50 L380 150 C350 190 300 200 250 230 S120 262 60 240 C30 200 10 140 20 40Z" fill="#e8dcc0"/>'
-          '<path d="M70 70 C120 60 160 90 200 80 S280 60 330 90" fill="none" stroke="#a9c8d8" stroke-width="5" stroke-linecap="round"/>'
-          '<path d="M90 180 C140 150 190 170 230 150" fill="none" stroke="#a9c8d8" stroke-width="4" stroke-linecap="round"/>'
-          '<g fill="#c7d39c" opacity=".8"><ellipse cx="95" cy="150" rx="40" ry="22"/><ellipse cx="250" cy="150" rx="46" ry="26"/><ellipse cx="225" cy="85" rx="34" ry="18"/><ellipse cx="320" cy="80" rx="30" ry="16"/></g>'
-          '<path class="route" d="M88 157 L224 92 L248 151 L160 216 L320 81" fill="none" stroke="#8c1d40" stroke-width="2.5" stroke-dasharray="7 7" vector-effect="non-scaling-stroke"/>'
-          f'</svg>{pins}<img class="fgo" src="{img}/goats/ig-n23.webp" alt="" width="267" height="380" loading="lazy"></div>')
+    import json as _j, os as _o
+    M = _j.load(open(_o.path.join(_o.path.dirname(_o.path.abspath(__file__)), 'realmap.json'), encoding='utf-8'))
+    W, H = M['W'], M['H']
+    pts = M['pins']
+    route = 'M' + ' L'.join(f'{x:.1f},{y:.1f}' for _, x, y in (pts[3], pts[0], pts[2], pts[1], pts[4]))
+    pins = ''
+    for i, (n, x, y) in enumerate(pts):
+        tw = len(n) * 6.6 + 14
+        pins += (f'<g class="pin" style="--i:{i}"><g class="pinh"><path d="M{x:.1f},{y:.1f} l-3.2,-9 a6.4,6.4 0 1 1 6.4,0 z" fill="#c0392b" stroke="#7a1f16" stroke-width=".8"/>'
+                 f'<circle cx="{x - 1.5:.1f}" cy="{y - 15.5:.1f}" r="1.8" fill="#fff" opacity=".7"/></g>'
+                 f'<g class="pinl"><rect x="{x - tw / 2:.1f}" y="{y + 4:.1f}" width="{tw:.1f}" height="17" rx="6" fill="#fff"/><text x="{x:.1f}" y="{y + 16.3:.1f}" text-anchor="middle">{n}</text></g></g>')
+    mp = (f'<div class="fv fmap" aria-hidden="true"><svg class="land" viewBox="0 0 {W} {H}" preserveAspectRatio="xMidYMid meet">'
+          f'<path d="{M["others"]}" fill="#efe6d2" stroke="#fff" stroke-width=".9" stroke-linejoin="round"/>'
+          f'<path d="{M["france"]}" fill="#e6d3ae" stroke="#fff" stroke-width="1.1" stroke-linejoin="round"/>'
+          f'<path d="{M["rivers"]}" fill="none" stroke="#93bfd3" stroke-width="1.1" stroke-linecap="round"/>'
+          f'<path class="route" d="{route}" fill="none" stroke="#8c1d40" stroke-width="1.6" stroke-dasharray="4 4"/>'
+          f'{pins}</svg><img class="fgo" src="{img}/goats/ig-n23.webp" alt="" width="267" height="380" loading="lazy"></div>')
     faces = ['🍇', '🍷', '🧀', '🍇', '🍾', '🍷', '🧀', '🍾']
     mem = ''.join(f'<div class="mc"><div class="mci" style="--i:{k}"><span class="mb">?</span><span class="mf">{f}</span></div></div>' for k, f in enumerate(faces))
     g = (f'<div class="fv fg" aria-hidden="true"><div class="gtop"><b class="streak">🔥 <span class="sk">6</span></b><b class="xp">+<span class="xpn">0</span> XP</b></div>'
@@ -68,16 +76,17 @@ CSS = r"""
 .fm .mres{position:absolute;left:18px;bottom:18px;padding:9px 16px;border-radius:16px;background:linear-gradient(180deg,#f3d48a,#d4a23a);color:#3e0f22;font-weight:800;font-size:16px;box-shadow:0 10px 20px -10px rgba(168,123,34,.8);transform:scale(0);animation:fxres 9s infinite}
 .fm .mres span{margin-left:6px;opacity:.75}
 @keyframes fxres{0%,64%{transform:scale(0)}69%{transform:scale(1.15)}72%,90%{transform:scale(1)}96%,100%{transform:scale(0)}}
-.fmap{background:linear-gradient(160deg,#eaf3f6,#dbeaf0)}
-.fmap .land{position:absolute;inset:0;width:100%;height:100%}
+.fmap{background:#dcebf2}
+.fmap .land{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
 .fmap .route{opacity:0;animation:fxroute 9s infinite}
 @keyframes fxroute{0%,38%{opacity:0}48%,88%{opacity:.9}96%,100%{opacity:0}}
-.fmap .pin{position:absolute;left:var(--x);top:var(--y);transform:translate(-50%,-100%)}
-.fmap .pin span{display:block;font-size:24px;text-align:center;opacity:0;animation:fxpin 9s calc(var(--i)*.55s) infinite}
-.fmap .pin em{position:absolute;left:50%;top:100%;transform:translateX(-50%);margin-top:2px;padding:2px 8px;border-radius:8px;background:#fff;color:#3e0f22;font:700 11.5px/1.3 inherit;font-style:normal;white-space:nowrap;box-shadow:0 6px 12px -8px rgba(0,0,0,.4);opacity:0;animation:fxlab 9s calc(var(--i)*.55s) infinite}
-@keyframes fxpin{0%{opacity:0;transform:translateY(-40px)}5%{opacity:1;transform:translateY(0)}7%{transform:translateY(-6px)}9%,88%{opacity:1;transform:none}95%,100%{opacity:0}}
+.fmap .pin .pinh,.fmap .pin .pinl{transform-box:fill-box;transform-origin:50% 100%}
+.fmap .pin .pinh{opacity:0;animation:fxpin 9s calc(var(--i)*.55s) infinite}
+.fmap .pin .pinl{opacity:0;animation:fxlab 9s calc(var(--i)*.55s) infinite;filter:drop-shadow(0 2px 2px rgba(0,0,0,.18))}
+.fmap .pin text{font:700 11px/1 "DM Sans",system-ui,sans-serif;fill:#3e0f22}
+@keyframes fxpin{0%{opacity:0;transform:translateY(-30px)}5%{opacity:1;transform:translateY(0)}7%{transform:translateY(-5px)}9%,88%{opacity:1;transform:none}95%,100%{opacity:0}}
 @keyframes fxlab{0%,6%{opacity:0}10%,88%{opacity:1}95%,100%{opacity:0}}
-.fmap .fgo{width:78px}
+.fmap .fgo{width:74px}
 .fg{padding:18px;background:linear-gradient(160deg,#fff4e6,#fbe6d4)}
 .fg .gtop{display:flex;gap:10px}
 .fg .gtop b{padding:6px 12px;border-radius:12px;background:#fff;color:#3e0f22;box-shadow:inset 0 0 0 1.5px #ead8dc;font-size:14px}
@@ -105,8 +114,8 @@ CSS = r"""
 @keyframes fxcflip{0%,22%{transform:none}30%,100%{transform:rotateY(180deg)}}
 @keyframes fxok{0%,58%{transform:scale(0)}62%{transform:scale(1.2)}65%,100%{transform:scale(1)}}
 @keyframes fxswipe{0%,68%{transform:none;opacity:1}80%{transform:translateX(160%) rotate(18deg);opacity:0}81%{transform:translateY(20px);opacity:0}90%,100%{transform:none;opacity:1}}
-@media (max-width:420px){.fm .mgrid{grid-template-columns:repeat(10,17px);gap:4px}.fm .mgrid i{width:17px;height:17px}.fg .mem{grid-template-columns:repeat(4,46px);gap:7px}.fg .mc{width:46px;height:52px}.fv .fgo{width:70px}.ff .deck{width:60%;height:180px}.fmap .pin em{font-size:10.5px;padding:2px 6px}}
-@media (prefers-reduced-motion:reduce){.fm .mres{transform:none}.fmap .pin span,.fmap .pin em{opacity:1}.fmap .route{opacity:.9}.fg .mci{transform:rotateY(180deg)}.ff .fok{transform:none}}
+@media (max-width:420px){.fm .mgrid{grid-template-columns:repeat(10,17px);gap:4px}.fm .mgrid i{width:17px;height:17px}.fg .mem{grid-template-columns:repeat(4,46px);gap:7px}.fg .mc{width:46px;height:52px}.fv .fgo{width:70px}.ff .deck{width:60%;height:180px}}
+@media (prefers-reduced-motion:reduce){.fm .mres{transform:none}.fmap .pin .pinh,.fmap .pin .pinl{opacity:1}.fmap .route{opacity:.9}.fg .mci{transform:rotateY(180deg)}.ff .fok{transform:none}}
 """
 
 JS = r"""
