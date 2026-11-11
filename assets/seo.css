@@ -50,3 +50,22 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .lvsoon{display:flex;gap:20px;align-items:center;margin:34px 0;padding:24px;border-radius:20px;background:linear-gradient(135deg,#3e0f22,#6e1a3c);color:#fff}
 .lvsoon img{width:110px;height:auto;flex:none}.lvsoon h2{color:#fff;margin:6px 0 8px}.lvsoon p{color:#f2dfe5}.lvsoon .lvk{color:#e8c46a}
 @media (max-width:640px){.lvsoon{flex-direction:column;text-align:center}.lvsoon .ctas{justify-content:center}}
+
+.b2b .bhero{display:grid;grid-template-columns:1.3fr .7fr;gap:28px;align-items:center;margin:10px 0 30px}
+.b2b .bhero img{width:100%;max-width:260px;justify-self:center}
+.bk{font-weight:800;letter-spacing:.06em;text-transform:uppercase;font-size:12.5px;color:#b8892e;margin:0}
+.bwhy{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.bwhy article{padding:18px;border-radius:16px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3}
+.bwhy h3{display:flex;gap:10px;align-items:center;margin:0 0 6px;font-size:18px}.bwhy p{margin:0;color:#6b5a5f}
+.bic{display:inline-grid;place-items:center;width:36px;height:36px;border-radius:10px;background:#f6ecee;color:#8c1d40;flex:none}.bic svg{width:20px;height:20px}
+.boff{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:18px}
+.boff article{display:flex;flex-direction:column;padding:22px;border-radius:18px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3,0 16px 34px -30px rgba(62,15,34,.5)}
+.boff article:nth-child(2){box-shadow:inset 0 0 0 1.5px #b8892e,0 22px 40px -28px rgba(62,15,34,.55)}
+.boff h3{margin:0;font-size:21px}.boff .bp{margin:8px 0 10px;font:800 22px/1.1 Fraunces,Georgia,serif;color:#8c1d40}
+.boff p{margin:0 0 12px;color:#6b5a5f}.boff ul{margin:0 0 16px;padding-left:18px;flex:1}.boff li{margin:0 0 6px}
+.bsteps{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;list-style:none;padding:0;counter-reset:b}
+.bsteps li{padding:16px;border-radius:14px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3;counter-increment:b}
+.bsteps li:before{content:counter(b);display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#8c1d40;color:#fff;font-weight:800;margin-bottom:8px}
+.bsteps b{display:block;margin-bottom:4px}
+.bfin{margin:34px 0;padding:26px;border-radius:20px;background:linear-gradient(135deg,#3e0f22,#6e1a3c);color:#fff;text-align:center}.bfin h2{color:#fff}.bfin p{color:#f2dfe5}
+@media (max-width:900px){.b2b .bhero,.bwhy,.boff,.bsteps{grid-template-columns:1fr}.b2b .bhero img{max-width:180px}}
