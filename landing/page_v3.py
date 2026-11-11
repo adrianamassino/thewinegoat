@@ -33,6 +33,11 @@ LANE_CSS = """
 .g3.gtry2{width:152px;left:auto;right:calc(50% + 400px);bottom:40px}
 .g3.gfaq3{width:146px;right:calc(100% + 30px);top:330px}
 .fin3{position:relative}.g3.gquick{width:150px;left:58%;top:auto;bottom:34px}
+.s3one{max-width:820px}.s3head{display:flex;align-items:flex-end;gap:14px}.s3head h2{margin:0}
+.g3.gsmall{position:relative;inset:auto;flex:none}
+.gs1{width:70px;margin-bottom:-6px}
+.stats3{position:relative}.g3.gs2{position:absolute;width:62px;right:14px;top:-58px;z-index:1}
+.foot3 .w{position:relative}.gs3{position:absolute;right:16px;top:-30px;width:96px;opacity:.95}
 .glane.gl2{margin:44px auto 0;max-width:820px}.glane.gl3{margin:40px 0 0}.glane.gl4{margin:18px 0 -40px;height:96px}
 .glane .gw.kid{width:96px}.glane .gw.back .tgoat{transform:scaleX(-1)}
 .tgoat .head{transform-box:view-box}
@@ -170,7 +175,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
   <div class="phone3"><img src="{img}/shots/home-{SH}.webp" alt="" width="540" height="1080"></div>
  </div>
 </div>
-<div class="w stats3">{stats}</div></section>
+<div class="w stats3">{stats}<img class="g3 gsmall gs2 sway" src="{img}/goats/ig-n04.webp" alt="" width="221" height="300" loading="lazy"></div></section>
 
 <section id="{ids[1]}" class="sec3 feat3"><div class="w">
  {feat_anim.head(c, h)}
@@ -198,9 +203,8 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
  <div class="glane gl2" aria-hidden="true" data-dir="rtl" data-stop=".35" data-speed="70"><div class="gw">{goat_svg()}</div></div>
 </div></section>
 
-<section class="sec3 steps3"><div class="w s3grid">
- <img class="g3 gst sway2" src="{img}/goats/ig-n20.webp" alt="" width="265" height="380" loading="lazy">
- <div><h2>{e(h['steps_h'])}</h2><ol class="stl">{steps}</ol></div>
+<section class="sec3 steps3"><div class="w s3one">
+ <div class="s3head"><h2>{e(h['steps_h'])}</h2><img class="g3 gsmall gs1 sway2" src="{img}/goats/ig-n33.webp" alt="" width="216" height="300" loading="lazy"></div><ol class="stl">{steps}</ol>
 </div></section>
 
 <section id="{ids[2]}" class="sec3 price3"><div class="w">
@@ -221,6 +225,7 @@ def render_body(c, t, h, oq, data, APP, langs, ids, SH, price, CSS, JS, GOAT, no
 <footer class="foot3"><div class="w">
  <a class="brand3" href="{home}"><img class="emb" src="{img}/logo-emblem.webp" alt="" width="360" height="384" loading="lazy"><img class="wm" src="{img}/wordmark-light.webp" alt="The Wine Goat" width="752" height="294" loading="lazy"></a>
  <p class="fd3">{e(t['foot']['disc'])}</p>
+ <img class="gsmall gs3" src="{img}/goats/ig-n15.webp" alt="" width="300" height="203" loading="lazy">
  <p class="fc3">© {year} The Wine Goat · <a href="https://www.instagram.com/the.winegoat/" rel="noopener">Instagram</a></p>
 </div></footer>
 <script type="application/json" id="home-data">{json.dumps(data, ensure_ascii=False).replace("</", "<\\/")}</script>
