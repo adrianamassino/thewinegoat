@@ -966,7 +966,7 @@ function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;
 function shuffle(a){a=a.slice();for(var k=a.length-1;k>0;k--){var j=Math.floor(Math.random()*(k+1)),t=a[k];a[k]=a[j];a[j]=t;}return a;}
 /* language memory + app language */
 $$('a[data-lang]').forEach(function(a){a.addEventListener('click',function(){try{localStorage.setItem('twg-lang',a.getAttribute('data-lang'));}catch(e){}});});
-try{if(!localStorage.getItem('wset3-lang'))localStorage.setItem('wset3-lang',({it:'it',fr:'fr'})[LANG]||'en');}catch(e){}
+try{if(!localStorage.getItem('wset3-lang'))localStorage.setItem('wset3-lang',({it:'it',fr:'fr',es:'es','es-ar':'es-ar','es-AR':'es-ar'})[LANG]||'en');}catch(e){}
 /* progress shared with the app */
 var K='wset3-progress-v1',PT={it:['{n} risposte salvate nel tuo profilo','Continua'],fr:['{n} réponses enregistrées dans votre profil','Continuer'],en:['{n} answers saved to your profile','Continue'],es:['{n} respuestas guardadas en tu perfil','Continuar']};
 function getP(){try{var x=JSON.parse(localStorage.getItem(K)||'null');if(x&&x.v===1)return x;}catch(e){}return {v:1,q:{},e:{},s:[]};}
