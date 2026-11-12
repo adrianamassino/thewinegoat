@@ -10428,6 +10428,29 @@ try{ const st35b=document.createElement("style"); const R35=`
  .schome{border-color:var(--line2)!important;background:var(--surface)!important}`;
  st35b.textContent=`@media (prefers-color-scheme:dark){${R35.replace(/(^|\})\s*([^{}]+)\{/g,(m,a,sel)=>a+sel.split(",").map(x=>':root:not([data-theme="light"]) '+x.trim()).join(",")+"{")}}`+R35.replace(/(^|\})\s*([^{}]+)\{/g,(m,a,sel)=>a+sel.split(",").map(x=>':root[data-theme="dark"] '+x.trim()).join(",")+"{");
  document.head.appendChild(st35b); }catch(e){}
+/* v126: refined dark — cool "velvet night" (aubergine-indigo) with soft gradients, no brown tones */
+try{ const st126=document.createElement("style"); const DK126=`--bg:#2a2839;--surface:#34324a;--sunk:#3c3954;--line:#4a4664;--line2:#5c5779;
+  --fg:#f4f1fa;--fg2:#ffffff;--muted:#d4cfe4;--faint:#a6a0bd;
+  --wine:#f08fab;--wine-d:#b5577a;--wine-s:#4b3656;--accent-soft:#4b3656;
+  --green-s:#2a4240;--good-soft:#2a4240;--bad-soft:#4d3242;--blue-s:#2d3a5a;--red-s:#4d3242;
+  --mland:#39364f;--mwater:#263453`;
+ const BG126=`radial-gradient(900px 520px at 88% -8%,rgba(176,72,112,.30),transparent 62%),radial-gradient(800px 600px at -10% 105%,rgba(96,104,180,.16),transparent 60%),linear-gradient(180deg,#2f2c43 0%,#2a2839 45%,#272536 100%)`;
+ const R126=`
+ body,.app{background:${BG126}!important;background-attachment:fixed!important}
+ .card,.btn,.rec,.schome,.pltask{background:linear-gradient(165deg,rgba(255,255,255,.06),rgba(255,255,255,.012)),var(--surface)!important;border-color:rgba(255,255,255,.09)!important}
+ .card,.schome,.rec{box-shadow:0 10px 28px rgba(12,10,26,.28)!important}
+ .lgtip{background:linear-gradient(140deg,#3d3553,#302d45)!important;border-color:rgba(217,184,120,.42)!important}
+ .pahome.g-t{background:radial-gradient(130% 140% at 0% 0%,#8d4b70,#5b3b66 50%,#34314c)!important}
+ .pahome.g-r{background:radial-gradient(130% 140% at 0% 0%,#93506a,#603d63 50%,#34314c)!important}
+ .pahome.g-f{background:radial-gradient(130% 140% at 0% 0%,#4f7f78,#3a5a6a 50%,#2f3048)!important}
+ .pahome.g-s{background:radial-gradient(130% 140% at 0% 0%,#9a7f55,#6a5363 50%,#34314c)!important}
+ .panb.lock{background:#4a4562!important;box-shadow:0 7px 0 #36324b!important}
+ .obgo[disabled]{background:#524d6c!important;border-bottom-color:#3e3a55!important}
+ .top{background:linear-gradient(180deg,rgba(50,46,72,.94),rgba(42,40,57,.97))!important;border-bottom-color:rgba(255,255,255,.07)!important}
+ nav.tabs{background:linear-gradient(0deg,rgba(36,34,50,.96),rgba(44,41,60,.9))!important;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top-color:rgba(255,255,255,.07)!important}`;
+ const sc=(css,pre)=>css.replace(/(^|\})\s*([^{}]+)\{/g,(m,a,sel)=>a+sel.split(",").map(x=>pre+x.trim()).join(",")+"{");
+ st126.textContent=`@media (prefers-color-scheme:dark){html:root:not([data-theme="light"]){${DK126}} ${sc(R126,':root:not([data-theme="light"]) ')}} html:root[data-theme="dark"]{${DK126}} `+sc(R126,':root[data-theme="dark"] ');
+ document.head.appendChild(st126); }catch(e){}
 
 /* ---------- v124: Stripe checkout (Payment Link) — full access, one payment, 12 months.
    The link and the prices come from TWG_CONFIG.stripe; the purchase is written by the server-side webhook
