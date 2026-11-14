@@ -45,9 +45,18 @@ def block(b):
 QA = {'en': ('Show the answer', 'Answer:', 'Why:'), 'it': ('Mostra la risposta', 'Risposta:', 'Perché:'), 'fr': ('Voir la réponse', 'Réponse :', 'Pourquoi :'), 'es': ('Ver la respuesta', 'Respuesta:', 'Por qué:')}
 CUR_L = 'en'
 
+def short_title(t):
+    if len(t) <= 65: return t
+    if t.endswith(' | The Wine Goat'): t = t[:-16]
+    return t
+def short_desc(d):
+    if len(d) <= 160: return d
+    cut = d.rfind('. ', 0, 159)
+    if cut >= 100: return d[:cut + 1]
+    cut = d.rfind(' ', 0, 155); return d[:cut].rstrip(',;:–- ') + '…'
 def page(key, lang):
     global CUR_L; CUR_L = lang
-    P = PAGES[key]; C = P[lang]; U = UI[lang]; slug = P['slug'][lang]; url = SITE + slug
+    P = PAGES[key]; C = dict(P[lang]); C['title'] = short_title(C['title']); C['desc'] = short_desc(C['desc']); U = UI[lang]; slug = P['slug'][lang]; url = SITE + slug
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{P["slug"][l]}">' for l in LANGS) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{P["slug"]["en"]}">'
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "@id": url + "#article", "headline": C['h1'], "description": C['desc'], "inLanguage": lang, "datePublished": DATE, "dateModified": DATE,
