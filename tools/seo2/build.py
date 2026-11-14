@@ -3,7 +3,13 @@
 Run from repo root:  python3 tools/seo2/build.py"""
 import json, os, re, sys, html
 sys.path.insert(0, os.path.dirname(__file__))
-from content import PAGES, UI, HOME, REL, LANGS
+import importlib
+MOD = sys.argv[1] if len(sys.argv) > 1 else 'content'
+C_ = importlib.import_module(MOD)
+from content import UI, HOME, REL, LANGS, PAGES as P1
+from content3 import PAGES as P3
+PAGES = C_.PAGES
+ALLP = {**P1, **P3}
 
 ROOT = os.getcwd()
 SITE = 'https://thewinegoat.com'
@@ -29,9 +35,18 @@ def block(b):
         for r in rows:
             t += '<tr>' + ''.join((f'<th scope="row">{e(c)}</th>' if i == 0 else f'<td data-l="{e(head[i])}">{e(c)}</td>') for i, c in enumerate(r)) + '</tr>'
         return t + '</tbody></table></div>'
+    if k == 'qs':
+        out = '<div class="sqs">'
+        for n, (q, opts, ok, why) in enumerate(b[1], 1):
+            out += f'<article class="sq"><h3><span class="sqn">{n}</span> {e(q)}</h3><ol class="sq-os" type="A">' + ''.join(f'<li><button type="button" class="sq-o" data-ok="{1 if i == ok else 0}">{e(opts[i])}</button></li>' for i in [(j + n * 3) % len(opts) for j in range(len(opts))]) + '</ol>'
+            out += f'<details class="sq-a"><summary>{e(QA[CUR_L][0])}</summary><p><strong>{e(QA[CUR_L][1])}</strong> {e(opts[ok])}</p><p><strong>{e(QA[CUR_L][2])}</strong> {e(why)}</p></details></article>'
+        return out + '</div>'
     raise ValueError(k)
+QA = {'en': ('Show the answer', 'Answer:', 'Why:'), 'it': ('Mostra la risposta', 'Risposta:', 'Perché:'), 'fr': ('Voir la réponse', 'Réponse :', 'Pourquoi :'), 'es': ('Ver la respuesta', 'Respuesta:', 'Por qué:')}
+CUR_L = 'en'
 
 def page(key, lang):
+    global CUR_L; CUR_L = lang
     P = PAGES[key]; C = P[lang]; U = UI[lang]; slug = P['slug'][lang]; url = SITE + slug
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{P["slug"][l]}">' for l in LANGS) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{P["slug"]["en"]}">'
     ld = {"@context": "https://schema.org", "@graph": [
@@ -46,7 +61,7 @@ def page(key, lang):
     body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
              f'<div class="ctas"><a class="btn btn-gold" href="{U["app"]}#go=start">{e(U["start"])}</a><a class="btn btn-light" href="{U["app"]}#go=lvquick">{e(U["test"])}</a></div></div></section>')
     body += f'<section class="seosec"><h2>{e(U["faq"])}</h2>' + ''.join(f'<details class="faqi"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in C['faq']) + '</section>'
-    rel = [(P2['slug'][lang], P2[lang]['h1']) for k2, P2 in PAGES.items() if k2 != key] + REL[lang]
+    rel = [(P2['slug'][lang], P2[lang]['h1']) for k2, P2 in ALLP.items() if k2 != key] + REL[lang]
     body += f'<section class="seosec rel"><h2>{e(U["more"])}</h2><ul class="rel-l">' + ''.join(f'<li><a href="{h}">{e(t)}</a></li>' for h, t in rel) + '</ul></section>'
     doc = f'''<!DOCTYPE html>
 <html lang="{lang}">
@@ -91,7 +106,7 @@ if add:
 
 # llms.txt
 lt = open(f'{ROOT}/llms.txt', encoding='utf8').read()
-if 'wset-level-3-exam-format' not in lt:
-    lt += '\n## WSET Level 3 guides\n' + ''.join(f'- [{PAGES[k]["en"]["h1"]}]({SITE}{PAGES[k]["slug"]["en"]}): {PAGES[k]["en"]["desc"]}\n' for k in PAGES)
+if PAGES[next(iter(PAGES))]['slug']['en'] not in lt:
+    lt += '\n## WSET guides (' + MOD + ')\n' + ''.join(f'- [{PAGES[k]["en"]["h1"]}]({SITE}{PAGES[k]["slug"]["en"]}): {PAGES[k]["en"]["desc"]}\n' for k in PAGES)
     open(f'{ROOT}/llms.txt', 'w', encoding='utf8').write(lt)
 print(len(slugs), 'pages')
