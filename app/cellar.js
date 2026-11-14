@@ -54,6 +54,79 @@ const lg=()=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||(typeof la
 const x=k=>(TX[lg()][k]!=null?TX[lg()][k]:TX.en[k]);
 const es=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
+const TX2={
+ it:{found:"Riconosciuto",srch:"🔎 Cerca vino, denominazione o vitigno",srchH:"Es. Barolo, Rioja, Sancerre, Malbec…",prof:"Profilo gustativo",aro:"Note aromatiche",food:"Abbinamenti",serve:"Servizio",drink:"Da bere",style:"Lo stile",grapes:"Vitigni",country:"Paese",reg:"Regione",temp:"Temperatura",now:"pronto ora",until:"fino al",b:["Leggero","Strutturato"],t:["Vellutato","Tannico"],s:["Secco","Dolce"],a:["Morbido","Acido"],
+  sty:(c,reg,gr,b,a,t,sw,aro)=>`${c} ${sw}${reg?" da "+reg:""}${gr?", a base di "+gr:""}: corpo ${b}, acidità ${a}${t?", tannino "+t:""}.${aro?" Aromi di "+aro+".":""}`,
+  col:{r:"Rosso",w:"Bianco",p:"Rosato",s:"Spumante",d:"Vino dolce",f:"Vino fortificato"},age:{gran:"Gran Riserva / Gran Reserva",ris:"Riserva / Reserva",cri:"Crianza"},dos:{nature:"Brut nature",xbrut:"Extra brut",brut:"Brut",xdry:"Extra dry"},cru:{gc:"Grand Cru",pc:"Premier Cru"},bio:"Biologico",abv:"Alcol",scanAgain:"Scansiona un'altra etichetta",view:"Scheda"},
+ fr:{found:"Reconnu",srch:"🔎 Rechercher un vin, une appellation ou un cépage",srchH:"Ex. Barolo, Rioja, Sancerre, Malbec…",prof:"Profil gustatif",aro:"Arômes",food:"Accords",serve:"Service",drink:"À boire",style:"Le style",grapes:"Cépages",country:"Pays",reg:"Région",temp:"Température",now:"prêt maintenant",until:"jusqu'en",b:["Léger","Puissant"],t:["Soyeux","Tannique"],s:["Sec","Doux"],a:["Souple","Vif"],
+  sty:(c,reg,gr,b,a,t,sw,aro)=>`${c} ${sw}${reg?" de "+reg:""}${gr?", à base de "+gr:""} : corps ${b}, acidité ${a}${t?", tanins "+t:""}.${aro?" Arômes de "+aro+".":""}`,
+  col:{r:"Rouge",w:"Blanc",p:"Rosé",s:"Effervescent",d:"Vin doux",f:"Vin muté"},age:{gran:"Gran Riserva / Gran Reserva",ris:"Riserva / Reserva",cri:"Crianza"},dos:{nature:"Brut nature",xbrut:"Extra brut",brut:"Brut",xdry:"Extra dry"},cru:{gc:"Grand Cru",pc:"Premier Cru"},bio:"Bio",abv:"Alcool",scanAgain:"Scanner une autre étiquette",view:"Fiche"},
+ en:{found:"Recognised",srch:"🔎 Search a wine, appellation or grape",srchH:"E.g. Barolo, Rioja, Sancerre, Malbec…",prof:"Taste profile",aro:"Aromas",food:"Food pairing",serve:"Serving",drink:"Drink",style:"The style",grapes:"Grapes",country:"Country",reg:"Region",temp:"Temperature",now:"ready now",until:"until",b:["Light","Bold"],t:["Smooth","Tannic"],s:["Dry","Sweet"],a:["Soft","Acidic"],
+  sty:(c,reg,gr,b,a,t,sw,aro)=>`${c} ${sw}${reg?" from "+reg:""}${gr?", made from "+gr:""}: ${b} body, ${a} acidity${t?", "+t+" tannin":""}.${aro?" Aromas of "+aro+".":""}`,
+  col:{r:"Red",w:"White",p:"Rosé",s:"Sparkling",d:"Sweet wine",f:"Fortified wine"},age:{gran:"Gran Riserva / Gran Reserva",ris:"Riserva / Reserva",cri:"Crianza"},dos:{nature:"Brut nature",xbrut:"Extra brut",brut:"Brut",xdry:"Extra dry"},cru:{gc:"Grand Cru",pc:"Premier Cru"},bio:"Organic",abv:"Alcohol",scanAgain:"Scan another label",view:"Card"},
+ es:{found:"Reconocido",srch:"🔎 Busca un vino, denominación o uva",srchH:"Ej. Barolo, Rioja, Sancerre, Malbec…",prof:"Perfil de sabor",aro:"Aromas",food:"Maridaje",serve:"Servicio",drink:"Beber",style:"El estilo",grapes:"Uvas",country:"País",reg:"Región",temp:"Temperatura",now:"listo ahora",until:"hasta",b:["Ligero","Potente"],t:["Suave","Tánico"],s:["Seco","Dulce"],a:["Suave","Ácido"],
+  sty:(c,reg,gr,b,a,t,sw,aro)=>`${c} ${sw}${reg?" de "+reg:""}${gr?", elaborado con "+gr:""}: cuerpo ${b}, acidez ${a}${t?", tanino "+t:""}.${aro?" Aromas de "+aro+".":""}`,
+  col:{r:"Tinto",w:"Blanco",p:"Rosado",s:"Espumoso",d:"Vino dulce",f:"Vino generoso"},age:{gran:"Gran Reserva",ris:"Reserva",cri:"Crianza"},dos:{nature:"Brut nature",xbrut:"Extra brut",brut:"Brut",xdry:"Extra dry"},cru:{gc:"Grand Cru",pc:"Premier Cru"},bio:"Ecológico",abv:"Alcohol",scanAgain:"Escanear otra etiqueta",view:"Ficha"}};
+Object.assign(TX2.it,{bw:["leggero","medio-leggero","medio","medio-pieno","pieno"],aw:["bassa","medio-bassa","media","medio-alta","alta"],tw:["basso","medio-basso","medio","medio-alto","alto"]});
+Object.assign(TX2.fr,{bw:["léger","moyen-léger","moyen","moyen-corsé","corsé"],aw:["faible","moyenne(-)","moyenne","moyenne(+)","élevée"],tw:["faibles","moyens(-)","moyens","moyens(+)","élevés"]});
+Object.assign(TX2.en,{bw:["light","medium(-)","medium","medium(+)","full"],aw:["low","medium(-)","medium","medium(+)","high"],tw:["low","medium(-)","medium","medium(+)","high"]});
+Object.assign(TX2.es,{bw:["ligero","medio(-)","medio","medio(+)","pleno"],aw:["baja","media(-)","media","media(+)","alta"],tw:["bajo","medio(-)","medio","medio(+)","alto"]});
+const RGW={it:{"Right Bank":"riva destra","Left Bank":"riva sinistra","Burgundy":"Borgogna","Loire":"Loira","Northern Rhône":"Rodano settentrionale","Southern Rhône":"Rodano meridionale","Alsace":"Alsazia","Provence":"Provenza","South-West France":"Sud-Ovest della Francia","France":"Francia","Piedmont":"Piemonte","Tuscany":"Toscana","Sicily":"Sicilia","Sardinia":"Sardegna","Lombardy":"Lombardia","North-East Italy":"Nord-Est Italia","Catalonia":"Catalogna","Spain":"Spagna","Jerez":"Jerez","Germany":"Germania","Austria":"Austria","Macedonia (Greece)":"Macedonia (Grecia)","South Australia":"Australia Meridionale","Cool-climate Australia":"Australia a clima fresco","New South Wales":"Nuovo Galles del Sud","New Zealand":"Nuova Zelanda","Coastal Chile":"Cile costiero","Central Valley":"Valle Centrale","Western Cape":"Capo Occidentale","Portugal":"Portogallo"},
+ fr:{"Right Bank":"rive droite","Left Bank":"rive gauche","Burgundy":"Bourgogne","Northern Rhône":"Rhône septentrional","Southern Rhône":"Rhône méridional","South-West France":"Sud-Ouest","Piedmont":"Piémont","Tuscany":"Toscane","Sicily":"Sicile","Sardinia":"Sardaigne","Lombardy":"Lombardie","North-East Italy":"Nord-Est de l'Italie","Catalonia":"Catalogne","Spain":"Espagne","Germany":"Allemagne","Austria":"Autriche","Macedonia (Greece)":"Macédoine (Grèce)","South Australia":"Australie-Méridionale","Cool-climate Australia":"Australie fraîche","New South Wales":"Nouvelle-Galles du Sud","New Zealand":"Nouvelle-Zélande","Coastal Chile":"Chili côtier","Central Valley":"Vallée centrale","Western Cape":"Cap-Occidental"},
+ es:{"Right Bank":"margen derecha","Left Bank":"margen izquierda","Bordeaux":"Burdeos","Burgundy":"Borgoña","Loire":"Loira","Northern Rhône":"Ródano norte","Southern Rhône":"Ródano sur","Alsace":"Alsacia","Provence":"Provenza","South-West France":"Suroeste de Francia","France":"Francia","Piedmont":"Piamonte","Tuscany":"Toscana","Sicily":"Sicilia","Sardinia":"Cerdeña","Lombardy":"Lombardía","North-East Italy":"Noreste de Italia","Catalonia":"Cataluña","Spain":"España","Germany":"Alemania","Macedonia (Greece)":"Macedonia (Grecia)","South Australia":"Australia Meridional","Cool-climate Australia":"Australia de clima fresco","New South Wales":"Nueva Gales del Sur","New Zealand":"Nueva Zelanda","Coastal Chile":"Chile costero","Central Valley":"Valle Central","Western Cape":"Cabo Occidental","Mosel":"Mosela","Douro":"Duero"}};
+const regL=r=>{ const m=RGW[LL()]; if(!m||!r) return r||""; return String(r).split(/( · | \/ )/).map(p=>m[p]||p).join(""); };
+TX2["es-ar"]=Object.assign({},TX2.es,{srch:"🔎 Buscá un vino, denominación o uva"});
+const y=k=>{ const l=lg(); return (TX2[l]||TX2.en)[k]; };
+const LGI=()=>({it:1,fr:2,en:3,es:4,"es-ar":4})[lg()]||3;
+const LL=()=>({it:"it",fr:"fr",en:"en",es:"es","es-ar":"es"})[lg()]||"en";
+const DBX=()=>W.TWG_WINEDB;
+const COL2TYPE={r:"red",w:"white",p:"rose",s:"spark",d:"sweet",f:"fort"};
+const aroL=c=>{ const D=DBX(); return D?(D.L.aroma[LL()][c]||c):c; };
+const foodL=c=>{ const D=DBX(); return D?(D.L.food[LL()][c]||c):c; };
+const ctry=c=>{ const D=DBX(); const r=D&&D.L.country[c]; return r?[r[0],r[LGI()]]:["",""]; };
+function applyDB(e,raw){ if(!e||!CUR) return; const D=DBX();
+  CUR.db={name:e.name,c:e.c,region:e.region,col:e.col,grapes:(e.foundGrapes&&e.foundGrapes.length?e.foundGrapes:e.grapes),prof:e.prof,aro:e.aro,food:e.food,t:e.t,y:e.y,k:e.k};
+  if(!CUR.region&&e.k==="a") CUR.region=[regL(e.region),ctry(e.c)[1]].filter(Boolean).join(", ");
+  if(!CUR.grape) CUR.grape=CUR.db.grapes.join(", ");
+  if(!CUR.type||["white","rose","red"].includes(CUR.type)) CUR.type=COL2TYPE[e.col]||CUR.type;
+  const [b,t,a,sw]=e.prof; CUR.s=CUR.s||{};
+  if(!CUR.s.body) CUR.s.body=SC.body[b-1]; if(!CUR.s.ac) CUR.s.ac=SC.ac[a-1]; if(!CUR.s.tan&&e.col!=="w"&&e.col!=="s") CUR.s.tan=SC.tan[t-1]; if(!CUR.s.sw) CUR.s.sw=sw<=1?"dr":sw===2?"od":sw===3?"me":"swt";
+  if(!CUR.nose) CUR.nose=e.aro.map(aroL).join(", ");
+  if(raw&&D){ CUR.ex=D.extras(raw); } }
+function styleText(w){ const d=w.db; if(!d) return ""; const [b,t,a,sw]=d.prof; const lv=["lo","ml","me","mh","hi"], bv=["li","ml","me","mh","fu"];
+  const swt=sw<=1?x("dr"):sw===2?x("od"):sw>=4?x("swt"):""; const reg=d.k==="a"?[regL(d.region),ctry(d.c)[1]].filter(Boolean).join(", "):"";
+  const aro=d.aro.slice(0,3).map(aroL).join(", ");
+  return y("sty")(y("col")[d.col]||"",reg,d.grapes.join(", "),y("bw")[b-1],y("aw")[a-1],(d.col==="r"||d.col==="f")&&t>1?y("tw")[t-1]:"",swt,aro).replace(/\s+/g," ").replace(" :"," :"); }
+function bar(lbl,v){ return `<div class="vv-bar"><span>${es(lbl[0])}</span><i><b style="left:${((v-1)/4)*100}%"></b></i><span>${es(lbl[1])}</span></div>`; }
+function profOf(w){ if(w.db) return w.db.prof; const m={li:1,ml:2,me:3,mh:4,fu:5,lo:1,hi:5,dr:1,od:2,swt:5}; const s=w.s||{}; if(!s.body&&!s.ac&&!s.tan&&!s.sw) return null; return [m[s.body]||3,m[s.tan]||1,m[s.ac]||3,m[s.sw]||1]; }
+function viewHTML(){ const w=CUR, d=w.db, c=d?ctry(d.c):["",""], pr=profOf(w), yr=parseInt(w.vint,10);
+  const tags=[]; if(w.ex){ if(w.ex.cru) tags.push(y("cru")[w.ex.cru]); if(w.ex.age) tags.push(y("age")[w.ex.age]); if(w.ex.dos) tags.push(y("dos")[w.ex.dos]); if(w.ex.cl) tags.push("Classico"); if(w.ex.sup) tags.push("Superiore"); if(w.ex.bio) tags.push(y("bio")); if(w.ex.abv) tags.push(y("abv")+" "+w.ex.abv+"%"); }
+  const drink=d&&d.y&&yr?(()=>{ const a=yr+d.y[0], b=yr+d.y[1], now=new Date().getFullYear(); return `${a}–${b}${now>=a&&now<=b?" · "+y("now"):""}`; })():"";
+  return `<section class="view cellar vv">
+   <button type="button" class="cl-back" data-cel="list">${es(x("back"))}</button>
+   <div class="vv-hero">${w.label?`<img src="${w.label}" alt="">`:w.glass?`<img src="${w.glass}" alt="">`:`<span class="vv-ph">🍷</span>`}</div>
+   <div class="vv-head"><p class="vv-prod">${es(w.prod||"")}</p><h1>${es(w.name)}${w.vint?` <span>${es(w.vint)}</span>`:""}</h1>
+    <p class="vv-reg">${c[0]?c[0]+" ":""}${es(w.region||[d&&regL(d.region),c[1]].filter(Boolean).join(", "))}</p>
+    <div class="vv-tags">${w.type?`<em class="cl-ty">${es(typeLbl(w.type))}</em>`:""}${tags.map(t=>`<em class="vv-tag">${es(t)}</em>`).join("")}${w.col?`<em class="vv-tag"><i class="cl-sw" style="--c:${w.col.hex}"></i> ${es(x("c_"+w.col.term))}</em>`:""}</div>
+    ${w.rate?`<p class="vv-rate">${"★".repeat(w.rate)}<span>${"★".repeat(5-w.rate)}</span></p>`:""}</div>
+   ${d?`<div class="vv-card"><h2>${es(y("style"))}</h2><p>${es(styleText(w))}</p></div>`:""}
+   ${pr?`<div class="vv-card"><h2>${es(y("prof"))}</h2>${bar(y("b"),pr[0])}${(w.type==="red"||w.type==="fort"||(d&&d.col==="r"))?bar(y("t"),pr[1]):""}${bar(y("s"),pr[3])}${bar(y("a"),pr[2])}</div>`:""}
+   ${d&&d.aro.length?`<div class="vv-card"><h2>${es(y("aro"))}</h2><div class="vv-chips">${d.aro.map(a=>`<span>${es(aroL(a))}</span>`).join("")}</div></div>`:""}
+   ${d&&d.food.length?`<div class="vv-card"><h2>${es(y("food"))}</h2><div class="vv-chips food">${d.food.map(f=>`<span>${es(foodL(f))}</span>`).join("")}</div></div>`:""}
+   <div class="vv-card vv-facts">
+    ${w.grape?`<div><small>${es(y("grapes"))}</small><b>${es(w.grape)}</b></div>`:""}
+    ${d&&d.t?`<div><small>${es(y("temp"))}</small><b>${es(DBX().L.temp[d.t])}</b></div>`:""}
+    ${drink?`<div><small>${es(y("drink"))}</small><b>${es(drink)}</b></div>`:""}
+    ${w.q?`<div><small>${es(x("qual"))}</small><b>${es(x("q_"+w.q))}</b></div>`:""}
+   </div>
+   ${w.pal||w.notes?`<div class="vv-card">${w.pal?`<h2>${es(x("pal"))}</h2><p>${es(w.pal)}</p>`:""}${w.notes?`<h2>${es(x("notes"))}</h2><p>${es(w.notes)}</p>`:""}</div>`:""}
+   <div class="cl-act"><button type="button" class="btn primary" data-cel="edit">${es(x("edit"))}</button><button type="button" class="btn ghost cl-del" data-cel="del">${es(x("del"))}</button></div>
+  </section>`; }
+let SQ="";
+function searchBox(){ const D=DBX(); const res=D&&SQ?D.search(SQ):[];
+  return `<div class="vv-srch"><label class="cl-in"><span>${es(y("srch"))}</span><input id="cl-db" placeholder="${es(y("srchH"))}" value="${es(SQ)}" autocomplete="off"></label>
+   ${res.length?`<div class="vv-res">${res.map((e,i)=>`<button type="button" data-cel="pick" data-i="${i}"><b>${es(e.name)}</b><span>${e.c?ctry(e.c)[0]+" ":""}${es([regL(e.region),e.grapes.join(", ")].filter(Boolean).join(" · "))}</span></button>`).join("")}</div>`:""}</div>`; }
+
 /* ---------- storage (IndexedDB, with in-memory fallback) ---------- */
 let DBP=null; const MEM=new Map();
 function db(){ if(DBP) return DBP; DBP=new Promise(res=>{ try{ const r=indexedDB.open("twg-cellar",1); r.onupgradeneeded=()=>r.result.createObjectStore("wines",{keyPath:"id"}); r.onsuccess=()=>res(r.result); r.onerror=()=>res(null); }catch(e){ res(null); } }); return DBP; }
@@ -88,7 +161,7 @@ async function readLabel(dataUrl){
   const seen=new Set(); const out=clean.sort((a,b)=>b.h-a.h).filter(z=>{ const k=z.t.toLowerCase(); if(seen.has(k)) return false; seen.add(k); return true; }).slice(0,8).map(z=>z.t);
   const yr=(lines.map(z=>z.t).join(" ").match(/\b(19[5-9]\d|20[0-4]\d)\b/)||[])[0]||"";
   const top=clean.length?Math.max(...clean.map(z=>z.h)):0; const big=clean.filter(z=>z.h>=top*.7).slice(0,3).map(z=>z.t);
-  return {lines:out,year:yr,name:big.join(" ")}; }
+  return {lines:out,year:yr,name:big.join(" "),raw:lines.map(z=>z.t).join(" ")}; }
 
 /* ---------- state ---------- */
 let LIST=[], CUR=null, MODE="list", Q="", F="", LOADED=false, MSG="";
@@ -101,7 +174,7 @@ async function load(){ LIST=(await all()).sort((a,b)=>b.ts-a.ts); LOADED=true; }
 const typeLbl=k=>k?x("t_"+k):"";
 function card(w){ const c=w.col; return `<button type="button" class="cl-item" data-cel="open" data-id="${w.id}">
   <span class="cl-th">${w.label?`<img src="${w.label}" alt="">`:w.glass?`<img src="${w.glass}" alt="">`:"🍷"}</span>
-  <span class="cl-tx"><b>${es(w.name)}${w.vint?` <i>${es(w.vint)}</i>`:""}</b><span>${es([w.prod,w.region].filter(Boolean).join(" · "))}</span>
+  <span class="cl-tx"><b>${es(w.name)}${w.vint?` <i>${es(w.vint)}</i>`:""}</b><span>${w.db&&w.db.c?ctry(w.db.c)[0]+" ":""}${es([w.prod,w.region].filter(Boolean).join(" · "))}</span>
   <span class="cl-tags">${w.type?`<em class="cl-ty t-${w.type}">${es(typeLbl(w.type))}</em>`:""}${c?`<em class="cl-sw" style="--c:${c.hex}"></em>${es(x("c_"+c.term))}`:""}${w.rate?` <span class="cl-st">${"★".repeat(w.rate)}</span>`:""}</span></span></button>`; }
 function listHTML(){
   if(!LOADED){ load().then(()=>W.render&&W.render()); }
@@ -129,7 +202,7 @@ function editHTML(){ const w=CUR;
   return `<section class="view cellar">
    <button type="button" class="cl-back" data-cel="list">${es(x("back"))}</button>
    <div class="cl-phs">${photo("label")}${photo("glass")}</div>
-   <div class="cl-form">
+   <div class="cl-form">${CUR.db?`<p class="vv-found">✓ ${es(y("found"))}: <b>${es(CUR.db.name)}</b>${CUR.db.c?" "+ctry(CUR.db.c)[0]:""}</p>`:""}${searchBox()}
     ${inp("name","name")}${inp("prod","prod")}
     <div class="cl-2">${inp("vint","vint")}${inp("date","when","date")}</div>
     <div class="cl-in"><span>${es(x("type"))}</span><div class="cl-seg">${TYPES.map(k=>`<button type="button" data-cel="type" data-v="${k}" aria-pressed="${w.type===k}">${es(typeLbl(k))}</button>`).join("")}</div></div>
@@ -143,7 +216,7 @@ function editHTML(){ const w=CUR;
     ${MSG?`<p class="cl-msg">${es(MSG)}</p>`:""}
     <div class="cl-act"><button type="button" class="btn primary" data-cel="save">${es(x("save"))}</button>${LIST.some(z=>z.id===w.id)?`<button type="button" class="btn ghost cl-del" data-cel="del">${es(x("del"))}</button>`:""}</div>
    </div></section>`; }
-W.renderCellar=function(){ return MODE==="edit"&&CUR?editHTML():listHTML(); };
+W.renderCellar=function(){ return MODE==="edit"&&CUR?editHTML():MODE==="view"&&CUR?viewHTML():listHTML(); };
 function after(){ if(MODE==="edit"&&CUR&&CUR.glass){ const cv=document.getElementById("cl-cv"); if(!cv) return; const im=new Image(); im.onload=()=>{ const s=Math.min(1,900/Math.max(im.width,im.height)); cv.width=Math.round(im.width*s); cv.height=Math.round(im.height*s); cv.getContext("2d").drawImage(im,0,0,cv.width,cv.height); }; im.src=CUR.glass; } }
 function rr(){ if(typeof W.render==="function") W.render(); }
 
@@ -154,8 +227,10 @@ mo.observe(document.getElementById("main"),{childList:true});
 /* ---------- events ---------- */
 document.addEventListener("click",async e=>{
   const b=e.target.closest&&e.target.closest("[data-cel]"); if(b){ const k=b.dataset.cel; e.preventDefault();
-    if(k==="new"){ CUR=fresh(); MODE="edit"; MSG=""; rr(); return; }
-    if(k==="open"){ const w=LIST.find(z=>z.id===b.dataset.id); if(w){ CUR=JSON.parse(JSON.stringify(w)); MODE="edit"; MSG=""; rr(); } return; }
+    if(k==="new"){ CUR=fresh(); MODE="edit"; MSG=""; SQ=""; rr(); return; }
+    if(k==="open"){ const w=LIST.find(z=>z.id===b.dataset.id); if(w){ CUR=JSON.parse(JSON.stringify(w)); MODE="view"; MSG=""; rr(); window.scrollTo(0,0); } return; }
+    if(k==="edit"){ MODE="edit"; SQ=""; rr(); return; }
+    if(k==="pick"){ const D=DBX(); const e=D&&D.search(SQ)[+b.dataset.i]; if(e){ if(!CUR.name) CUR.name=e.name; applyDB(e,""); SQ=""; rr(); } return; }
     if(k==="list"){ MODE="list"; CUR=null; rr(); return; }
     if(k==="f"){ F=b.dataset.f; rr(); return; }
     if(k==="type"){ CUR.type=CUR.type===b.dataset.v?"":b.dataset.v; rr(); return; }
@@ -163,19 +238,19 @@ document.addEventListener("click",async e=>{
     if(k==="rate"){ const n=+b.dataset.v; CUR.rate=CUR.rate===n?0:n; rr(); return; }
     if(k==="sc"){ const kk=b.dataset.k; CUR.s[kk]=CUR.s[kk]===b.dataset.v?"":b.dataset.v; rr(); return; }
     if(k==="chip"){ const v=CUR.ocr.lines[+b.dataset.i]; if(!CUR.name) CUR.name=v; else if(!CUR.prod&&CUR.name!==v) CUR.prod=v; else CUR.name=v; rr(); return; }
-    if(k==="save"){ if(!CUR.name.trim()){ MSG=x("need"); rr(); return; } const w=Object.assign({},CUR); if(w.ocr&&typeof w.ocr!=="object") w.ocr=null; w.ts=w.ts||Date.now(); await put(w); await load(); MODE="list"; CUR=null; MSG=""; rr(); toast(x("saved")); return; }
+    if(k==="save"){ if(!CUR.name.trim()){ MSG=x("need"); rr(); return; } const w=Object.assign({},CUR); if(w.ocr&&typeof w.ocr!=="object") w.ocr=null; w.ts=w.ts||Date.now(); await put(w); await load(); CUR=JSON.parse(JSON.stringify(w)); MODE="view"; MSG=""; rr(); window.scrollTo(0,0); toast(x("saved")); return; }
     if(k==="del"){ if(!confirmDel()) return; await del(CUR.id); await load(); MODE="list"; CUR=null; rr(); return; }
   }
   const cv=e.target.closest&&e.target.closest("#cl-cv"); if(cv&&CUR){ const r=cv.getBoundingClientRect(); const fx=(e.clientX-r.left)/r.width, fy=(e.clientY-r.top)/r.height; const c=sampleAt(cv,Math.round(fx*cv.width),Math.round(fy*cv.height)); if(c){ CUR.col=Object.assign(c,{px:fx,py:fy}); if(!CUR.type||["white","rose","red"].includes(CUR.type)) CUR.type=c.fam; rr(); } }
 });
 let delArm=0; function confirmDel(){ const n=Date.now(); if(n-delArm<4000){ delArm=0; return true; } delArm=n; toast(x("delQ")+" ↻"); return false; }
 function toast(s){ let d=document.getElementById("cl-toast"); if(!d){ d=document.createElement("div"); d.id="cl-toast"; document.body.appendChild(d); } d.textContent=s; d.classList.add("on"); clearTimeout(d._t); d._t=setTimeout(()=>d.classList.remove("on"),2400); }
-document.addEventListener("input",e=>{ const el=e.target; if(el.id==="cl-q"){ Q=el.value; const p=el.selectionStart; rr(); const n=document.getElementById("cl-q"); if(n){ n.focus(); try{n.setSelectionRange(p,p)}catch(_){} } return; }
+document.addEventListener("input",e=>{ const el=e.target; if(el.id==="cl-db"){ SQ=el.value; const p=el.selectionStart; rr(); const n=document.getElementById("cl-db"); if(n){ n.focus(); try{n.setSelectionRange(p,p)}catch(_){} } return; } if(el.id==="cl-q"){ Q=el.value; const p=el.selectionStart; rr(); const n=document.getElementById("cl-q"); if(n){ n.focus(); try{n.setSelectionRange(p,p)}catch(_){} } return; }
   const k=el.dataset&&el.dataset.celIn; if(k&&CUR) CUR[k]=el.value; });
 document.addEventListener("change",async e=>{ const el=e.target; const kind=el.dataset&&el.dataset.celFile; if(!kind||!CUR||!el.files||!el.files[0]) return;
   const f=el.files[0];
   if(kind==="label"){ CUR.label=await shrink(f,1100); CUR.ocr="busy"; rr();
-    try{ const r=await readLabel(CUR.label); if(!CUR) return; CUR.ocr=r; if(r.year&&!CUR.vint) CUR.vint=r.year; if(!CUR.name&&(r.name||r.lines[0])) CUR.name=r.name||r.lines[0]; }catch(err){ if(CUR) CUR.ocr="fail"; }
+    try{ const r=await readLabel(CUR.label); if(!CUR) return; CUR.ocr=r; if(r.year&&!CUR.vint) CUR.vint=r.year; try{ const D=DBX(); const m=D&&D.match(r.raw); if(m) applyDB(m,r.raw); else if(D) CUR.ex=D.extras(r.raw); }catch(_){} if(!CUR.name&&(r.name||r.lines[0])) CUR.name=r.name||r.lines[0]; }catch(err){ if(CUR) CUR.ocr="fail"; }
     rr(); }
   else { CUR.glass=await shrink(f,1000); CUR.col=null; rr();
     /* first guess: centre of the photo, where the wine usually is */
@@ -221,6 +296,16 @@ const st=document.createElement("style"); st.textContent=`
 .cl-act{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}.cl-act .primary{flex:1;padding:14px}.cl-del{color:var(--bad,#b3261e)}
 .cl-msg{color:var(--bad,#b3261e);margin:0}
 #cl-toast{position:fixed;left:50%;bottom:90px;transform:translate(-50%,20px);background:#2a2230;color:#fff;padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:.25s;z-index:9999;pointer-events:none}#cl-toast.on{opacity:1;transform:translate(-50%,0)}
-.clhome{margin-bottom:12px}`;
+.clhome{margin-bottom:12px}
+.vv-found{margin:0;padding:10px 14px;border-radius:12px;background:var(--green-s,#e5f4e4);font-size:14px}
+.vv-srch{display:flex;flex-direction:column;gap:6px}.vv-res{display:grid;gap:6px}.vv-res button{display:flex;flex-direction:column;gap:2px;text-align:left;border:1px solid var(--line,#e5ddd3);background:var(--surface,#fff);color:inherit;border-radius:12px;padding:9px 12px;font:inherit;cursor:pointer}.vv-res span{font-size:12.5px;color:var(--muted,#5d6660)}
+.vv-hero{border-radius:20px;overflow:hidden;background:linear-gradient(160deg,#3a2232,#7a1f3d);display:grid;place-items:center;max-height:360px;margin-bottom:14px}.vv-hero img{width:100%;max-height:360px;object-fit:contain;display:block}.vv-ph{font-size:80px;padding:40px}
+.vv-head h1{margin:2px 0 4px;font-size:26px;line-height:1.15}.vv-head h1 span{color:var(--muted,#5d6660);font-weight:500}.vv-prod{margin:0;font-weight:700;color:var(--wine,#7a1f3d);text-transform:uppercase;letter-spacing:.06em;font-size:12.5px}
+.vv-reg{margin:0 0 8px;color:var(--muted,#5d6660)}.vv-tags{display:flex;flex-wrap:wrap;gap:6px}.vv-tag{font-style:normal;font-size:12px;padding:3px 9px;border-radius:999px;border:1px solid var(--line,#e5ddd3);display:inline-flex;align-items:center;gap:5px}
+.vv-rate{font-size:24px;color:#d4a017;margin:8px 0 0;letter-spacing:2px}.vv-rate span{color:var(--line2,#d8cfc4)}
+.vv-card{margin-top:14px;padding:16px;border-radius:18px;border:1px solid var(--line,#e5ddd3);background:var(--surface,#fff)}.vv-card h2{margin:0 0 10px;font-size:16px}.vv-card p{margin:0 0 6px;line-height:1.5}
+.vv-bar{display:grid;grid-template-columns:84px 1fr 84px;align-items:center;gap:10px;margin:10px 0;font-size:13px}.vv-bar span:last-child{text-align:right}.vv-bar i{position:relative;height:8px;border-radius:99px;background:var(--sunk,#efe8e0)}.vv-bar b{position:absolute;top:50%;width:34px;height:12px;margin:-6px 0 0 -17px;border-radius:99px;background:var(--wine,#7a1f3d)}
+.vv-chips{display:flex;flex-wrap:wrap;gap:8px}.vv-chips span{padding:6px 12px;border-radius:999px;background:var(--wine-s,#f6e3ea);font-size:13.5px}.vv-chips.food span{background:var(--sunk,#f3eee8)}
+.vv-facts{display:grid;grid-template-columns:1fr 1fr;gap:12px}.vv-facts small{display:block;color:var(--muted,#5d6660);font-size:12px}.vv-facts b{font-size:15px}`;
 document.head.appendChild(st);
 })();
