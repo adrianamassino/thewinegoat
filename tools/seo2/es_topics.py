@@ -122,7 +122,7 @@ def build(en_path, es_url, topic, title, desc, kw):
 <link rel="canonical" href="{SITE}{es_url}">{alt_links(hl)}
 <meta property="og:type" content="article"><meta property="og:site_name" content="The Wine Goat"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{SITE}{es_url}"><meta property="og:image" content="{SITE}/img/og-es.png"><meta property="og:locale" content="es_ES">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/img/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/img/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/img/favicon-192.png" type="image/png" sizes="192x192"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seo.css">
 {f'<script type="application/ld+json">{ld}</script>' if ld else ''}
 </head>{header}{main}{footer}{tail}'''

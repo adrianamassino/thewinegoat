@@ -87,7 +87,7 @@ def page(key, lang):
 <link rel="canonical" href="{url}">{alts}
 <meta property="og:type" content="article"><meta property="og:site_name" content="The Wine Goat"><meta property="og:title" content="{e(C['title'])}"><meta property="og:description" content="{e(C['desc'])}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/img/{OG[lang]}.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/img/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/img/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/img/favicon-192.png" type="image/png" sizes="192x192"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seo.css">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head><body class="seo"><header class="top"><div class="wrap nav">
