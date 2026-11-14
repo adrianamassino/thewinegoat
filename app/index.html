@@ -1714,7 +1714,7 @@ function render(){ TES.sync(); chrome(); setFoot(); const m=$("#main");
   if(view==="match"&&ML){ m.innerHTML=renderLesson(); window.scrollTo(0,0); return }
   if(GNAME[view]){ m.innerHTML=renderGame(view); window.scrollTo(0,0); return }
   if(view==="exam"&&MK&&MK.go){ m.innerHTML=MK.fin?renderMockRes():renderMock(); if(MK.fin) window.scrollTo(0,0); else bindMock(); return }
-  m.innerHTML=(SUBV[view]?trainNav():"")+{home:renderHome,study:renderStudy,wine:renderWine,films:renderFilms,film:renderFilm,pods:renderPods,pod:renderPod,play:renderPlay,me:renderMe,settings:renderSettings,practice:renderPractice,exam:renderExam,open:renderOpen,sat:renderSat,maps:renderMaps,grapes:renderGrapes,schemi:renderSchemi,match:renderMatch,errors:renderErrors,history:renderHistory,dict:renderDict,gtab:renderGTab,nums:renderNums,flash:renderFlash,phen:renderPhen,g_phen:renderPhenGame,topg:renderTopG,uve:renderUve,g_terr:renderTerrGame,atlas:renderAtlas,syn:renderSyn,g_syn:renderSynGame,logic:renderLogic,traps:renderTraps,notes:renderNotes,plan:renderPlan,start:renderStart,path:renderPath,chal:renderChal,school:renderSchool,profile:renderProfile,lvres:renderLvRes}[view]();
+  m.innerHTML=(SUBV[view]?trainNav():"")+{home:renderHome,study:renderStudy,wine:renderWine,films:renderFilms,film:renderFilm,pods:renderPods,pod:renderPod,play:renderPlay,me:renderMe,settings:renderSettings,practice:renderPractice,exam:renderExam,open:renderOpen,sat:renderSat,maps:renderMaps,grapes:renderGrapes,schemi:renderSchemi,match:renderMatch,errors:renderErrors,history:renderHistory,dict:renderDict,gtab:renderGTab,nums:renderNums,flash:renderFlash,phen:renderPhen,g_phen:renderPhenGame,topg:renderTopG,uve:renderUve,g_terr:renderTerrGame,atlas:renderAtlas,syn:renderSyn,g_syn:renderSynGame,logic:renderLogic,traps:renderTraps,notes:renderNotes,plan:renderPlan,start:renderStart,path:renderPath,chal:renderChal,school:renderSchool,profile:renderProfile,lvres:renderLvRes,cellar:()=>window.renderCellar?window.renderCellar():""}[view]();
   bindView(); window.scrollTo(0,0); if(view==="grapes"&&gvQ) gvFilter(); if(view==="schemi"&&scQ) scFilter();
 }
 
@@ -11133,5 +11133,6 @@ try{ const st5=document.createElement("style"); st5.textContent=`
 render();
 connect();
 </script>
+<script src="cellar.js?v=2"></script>
 
 </body></html>
