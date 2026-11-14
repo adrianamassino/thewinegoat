@@ -86,3 +86,5 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .seo-a .tldr b{display:block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:#7a1f3d;margin-bottom:4px}
 .seo-a .tldr p{margin:0;font-size:1.05rem;line-height:1.55;color:#2a2230}
 .seo-a .tldr small{display:block;margin-top:8px;color:#8a7d84;font-size:.78rem}
+.seo-a .seofig{margin:6px 0 22px}.seo-a .seofig img{display:block;width:100%;height:auto;border-radius:16px;box-shadow:0 10px 30px rgba(60,16,34,.18)}
+.seo-a .seofig figcaption{margin-top:8px;font-size:.88rem;color:#7d7184;line-height:1.45}

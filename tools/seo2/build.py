@@ -11,6 +11,10 @@ from content3 import PAGES as P3
 from content4 import PAGES as P4
 PAGES = C_.PAGES
 ALLP = {**P1, **P3, **P4}
+try:
+    IMG = json.load(open(os.path.join(os.path.dirname(__file__), 'images.json'), encoding='utf8'))
+except Exception:
+    IMG = {}
 
 ROOT = os.getcwd()
 SITE = 'https://thewinegoat.com'
@@ -43,6 +47,7 @@ def block(b):
             out += f'<details class="sq-a"><summary>{e(QA[CUR_L][0])}</summary><p><strong>{e(QA[CUR_L][1])}</strong> {e(opts[ok])}</p><p><strong>{e(QA[CUR_L][2])}</strong> {e(why)}</p></details></article>'
         return out + '</div>'
     raise ValueError(k)
+GALT = {'en': 'The Wine Goat mascot, the goat of the WSET exam-prep app', 'it': "La capra di The Wine Goat, mascotte dell'app per preparare il WSET", 'fr': "La chèvre de The Wine Goat, mascotte de l'appli de préparation au WSET", 'es': 'La cabra de The Wine Goat, mascota de la app para preparar el WSET'}
 QA = {'en': ('Show the answer', 'Answer:', 'Why:'), 'it': ('Mostra la risposta', 'Risposta:', 'Perché:'), 'fr': ('Voir la réponse', 'Réponse :', 'Pourquoi :'), 'es': ('Ver la respuesta', 'Respuesta:', 'Por qué:')}
 CUR_L = 'en'
 
@@ -61,7 +66,7 @@ def page(key, lang):
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{P["slug"][l]}">' for l in LANGS) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{P["slug"]["en"]}">'
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "@id": url + "#article", "headline": C['h1'], "description": C['desc'], "inLanguage": lang, "datePublished": DATE, "dateModified": DATE,
-         "mainEntityOfPage": url, "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "image": f"{SITE}/img/{OG[lang]}.png",
+         "mainEntityOfPage": url, "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "image": ({"@type": "ImageObject", "url": SITE + IMG[slug]['file'], "contentUrl": SITE + IMG[slug]['file'], "width": 1200, "height": 630, "caption": IMG[slug]['cap'], "description": IMG[slug]['alt'], "inLanguage": lang} if slug in IMG else f"{SITE}/img/{OG[lang]}.png"),
          "about": [{"@type": "Thing", "name": "WSET"}, {"@type": "Thing", "name": "Wine"}], "abstract": C.get('tldr') or C['desc'],
          "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".tldr", "h1"]}},
         {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": U['home'], "item": SITE + HOME[lang]}, {"@type": "ListItem", "position": 2, "name": C['h1']}]},
@@ -69,9 +74,12 @@ def page(key, lang):
     langs = ''.join(f'<a href="{PAGES[key]["slug"][l]}" hreflang="{l}" lang="{l}">{LNAME[l]}</a>' for l in LANGS)
     TL = {'en': 'In short', 'it': 'In breve', 'fr': 'En bref', 'es': 'En resumen'}
     body = f'<div class="tldr" role="note"><b>{TL[lang]}</b><p>{e(C.get("tldr") or C["desc"])}</p><small>{e({"en": "Updated", "it": "Aggiornato il", "fr": "Mis à jour le", "es": "Actualizado el"}[lang])} {DATE} · The Wine Goat</small></div>'
+    if slug in IMG:
+        I = IMG[slug]
+        body += f'<figure class="seofig"><img src="{I["file"]}" alt="{e(I["alt"])}" title="{e(C["h1"])}" width="1200" height="630" fetchpriority="high" decoding="async"><figcaption>{e(I["cap"])}</figcaption></figure>'
     body += ''.join(f'<p class="lead">{e(x)}</p>' for x in C['lead'])
     body += '<section class="seosec">' + ''.join(block(b) for b in C['body']) + '</section>'
-    body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
+    body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="{e(GALT[lang])}" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
              f'<div class="ctas"><a class="btn btn-gold" href="{U["app"]}#go=start">{e(U["start"])}</a><a class="btn btn-light" href="{U["app"]}#go=lvquick">{e(U["test"])}</a></div></div></section>')
     body += f'<section class="seosec"><h2>{e(U["faq"])}</h2>' + ''.join(f'<details class="faqi"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in C['faq']) + '</section>'
     rel = [(P2['slug'][lang], P2[lang]['h1']) for k2, P2 in ALLP.items() if k2 != key] + REL[lang]
@@ -85,7 +93,7 @@ def page(key, lang):
 <meta name="keywords" content="{e(C['kw'])}">
 <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
 <link rel="canonical" href="{url}">{alts}
-<meta property="og:type" content="article"><meta property="og:site_name" content="The Wine Goat"><meta property="og:title" content="{e(C['title'])}"><meta property="og:description" content="{e(C['desc'])}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/img/{OG[lang]}.png">
+<meta property="og:type" content="article"><meta property="og:site_name" content="The Wine Goat"><meta property="og:title" content="{e(C['title'])}"><meta property="og:description" content="{e(C['desc'])}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE + IMG[slug]['file'] if slug in IMG else SITE + '/img/' + OG[lang] + '.png'}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{e(IMG[slug]['alt']) if slug in IMG else 'The Wine Goat'}"><meta name="twitter:image" content="{SITE + IMG[slug]['file'] if slug in IMG else SITE + '/img/' + OG[lang] + '.png'}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/img/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/img/favicon-192.png" type="image/png" sizes="192x192"><link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seo.css">
