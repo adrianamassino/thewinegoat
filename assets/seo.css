@@ -81,3 +81,8 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .seo-a .lvtab tbody tr:nth-child(even){background:rgba(122,31,61,.035)}
 .seo-a .lvtab tbody tr:last-child th,.seo-a .lvtab tbody tr:last-child td{border-bottom:0}
 @media(max-width:640px){.seo-a .lvtab{min-width:0}.seo-a .lvtab thead{display:none}.seo-a .lvtab tr{display:block;padding:12px 14px;border-bottom:1px solid rgba(110,30,60,.09)}.seo-a .lvtab tbody th,.seo-a .lvtab td{display:block;border:0;padding:2px 0;white-space:normal}.seo-a .lvtab tbody th{font-size:1.05rem;margin-bottom:4px}.seo-a .lvtab td[data-l]:before{content:attr(data-l);display:block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#9a7d86;margin-top:6px}}
+/* quick answer box (also read by search engines and AI assistants) */
+.seo-a .tldr{margin:14px 0 20px;padding:16px 18px;border-radius:16px;background:linear-gradient(135deg,#fff7ef,#fbeef2);border:1px solid rgba(122,31,61,.18);border-left:5px solid #7a1f3d}
+.seo-a .tldr b{display:block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:#7a1f3d;margin-bottom:4px}
+.seo-a .tldr p{margin:0;font-size:1.05rem;line-height:1.55;color:#2a2230}
+.seo-a .tldr small{display:block;margin-top:8px;color:#8a7d84;font-size:.78rem}

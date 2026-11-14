@@ -8,12 +8,13 @@ MOD = sys.argv[1] if len(sys.argv) > 1 else 'content'
 C_ = importlib.import_module(MOD)
 from content import UI, HOME, REL, LANGS, PAGES as P1
 from content3 import PAGES as P3
+from content4 import PAGES as P4
 PAGES = C_.PAGES
-ALLP = {**P1, **P3}
+ALLP = {**P1, **P3, **P4}
 
 ROOT = os.getcwd()
 SITE = 'https://thewinegoat.com'
-DATE = '2026-11-14'
+DATE = '2026-11-15'
 e = html.escape
 LNAME = {'en': 'English', 'it': 'Italiano', 'fr': 'Français', 'es': 'Español'}
 OG = {'en': 'og-en', 'it': 'og-it', 'fr': 'og-fr', 'es': 'og-es'}
@@ -61,11 +62,14 @@ def page(key, lang):
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "@id": url + "#article", "headline": C['h1'], "description": C['desc'], "inLanguage": lang, "datePublished": DATE, "dateModified": DATE,
          "mainEntityOfPage": url, "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "image": f"{SITE}/img/{OG[lang]}.png",
-         "about": [{"@type": "Thing", "name": "WSET Level 3 Award in Wines"}, {"@type": "Thing", "name": "Wine"}]},
+         "about": [{"@type": "Thing", "name": "WSET"}, {"@type": "Thing", "name": "Wine"}], "abstract": C.get('tldr') or C['desc'],
+         "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".tldr", "h1"]}},
         {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": U['home'], "item": SITE + HOME[lang]}, {"@type": "ListItem", "position": 2, "name": C['h1']}]},
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in C['faq']]}]}
     langs = ''.join(f'<a href="{PAGES[key]["slug"][l]}" hreflang="{l}" lang="{l}">{LNAME[l]}</a>' for l in LANGS)
-    body = ''.join(f'<p class="lead">{e(x)}</p>' for x in C['lead'])
+    TL = {'en': 'In short', 'it': 'In breve', 'fr': 'En bref', 'es': 'En resumen'}
+    body = f'<div class="tldr" role="note"><b>{TL[lang]}</b><p>{e(C.get("tldr") or C["desc"])}</p><small>{e({"en": "Updated", "it": "Aggiornato il", "fr": "Mis à jour le", "es": "Actualizado el"}[lang])} {DATE} · The Wine Goat</small></div>'
+    body += ''.join(f'<p class="lead">{e(x)}</p>' for x in C['lead'])
     body += '<section class="seosec">' + ''.join(block(b) for b in C['body']) + '</section>'
     body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
              f'<div class="ctas"><a class="btn btn-gold" href="{U["app"]}#go=start">{e(U["start"])}</a><a class="btn btn-light" href="{U["app"]}#go=lvquick">{e(U["test"])}</a></div></div></section>')
