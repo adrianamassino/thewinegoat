@@ -1,0 +1,310 @@
+{
+"en": {
+"sections": [
+{"h2": "Study notes: the vine and grape varieties for WSET Level 3"},
+{"p": "WSET Level 3 questions on the vine and grape varieties test the biology behind every wine: which species make wine, how varieties, clones, crossings and hybrids differ, why vines are grafted onto rootstocks, how the vine is built and what each part of the grape gives to the finished wine. This topic underpins climate, vineyard management and winemaking, so understanding it makes the regional chapters far easier."},
+{"h3": "Species, varieties and clones: the key definitions"},
+{"p": "Almost all wine is made from Vitis vinifera, a European and Asian species. Within that species there are thousands of varieties, such as Chardonnay or Syrah. A clone is a vine, or group of vines, of one variety that shows particular traits, such as smaller berries, higher yield or better disease resistance, as a result of a natural mutation. Clones are still the same variety: a Pinot Noir clone is Pinot Noir. Some mutations go further and change berry colour: Pinot Gris and Pinot Blanc are colour mutations of Pinot Noir."},
+{"table": {"head": ["Term", "How it is created", "Example"], "rows": [
+["Variety", "A distinct, stable type within a species, propagated vegetatively", "Chardonnay, Syrah, Riesling"],
+["Clone", "Selected cuttings from a vine with a useful natural mutation", "Pinot Noir clones chosen for small berries"],
+["Crossing", "Seedling from two parents of the same species (both vinifera)", "Müller-Thurgau, Pinotage; Cabernet Sauvignon is a natural crossing of Cabernet Franc and Sauvignon Blanc"],
+["Hybrid", "Seedling from parents of different species, e.g. vinifera and an American species", "Vidal, Seyval Blanc"],
+["Rootstock", "Often an American species or a cross between American species, used for its roots", "Rootstocks bred from Vitis riparia, rupestris and berlandieri"]
+]}},
+{"tip": "Common mistake: confusing a crossing with a hybrid. A crossing has two Vitis vinifera parents; a hybrid has parents from two different species. Hybrids are valued for cold hardiness and disease resistance and matter in places such as Canada and New York, where Vidal is used for icewine."},
+{"h2": "Propagation, grafting and rootstocks"},
+{"h3": "Why vines are not grown from seed"},
+{"p": "A grape seed is the product of sexual reproduction, so the seedling is genetically new and different from its parent, even if both parents are the same variety. To reproduce a variety exactly, growers use vegetative propagation. Cuttings are pieces of one-year-old cane planted to root, or more often grafted; layering bends a cane from an existing vine into the soil so it roots next to the parent. Layering puts vinifera roots straight into the ground, exposing them to phylloxera, so cuttings grafted onto rootstocks are now the norm."},
+{"h3": "Phylloxera and the role of American rootstocks"},
+{"p": "Phylloxera is a tiny aphid-like insect native to North America that feeds on vine roots. Vitis vinifera has no resistance: the wounds become infected and the vine slowly dies. When phylloxera reached Europe in the second half of the nineteenth century, it destroyed most vineyards. The solution was to graft vinifera onto rootstocks from American species, which evolved alongside the pest and resist it. American species themselves make wines with unappealing flavours, so they are used only below ground. A few areas remain largely free of phylloxera, notably Chile and parts of Australia, and sandy soils are hostile to the insect, so some vines there grow on their own roots."},
+{"h3": "How growers choose a rootstock"},
+{"p": "Rootstocks are chosen for much more than phylloxera resistance. The right choice depends on the site and the style the grower wants."},
+{"ul": [
+"Resistance to pests in the soil, such as phylloxera and nematodes.",
+"Vigour: low-vigour rootstocks suit fertile soils and help control canopy growth; high-vigour rootstocks suit poor soils.",
+"Drought tolerance for dry sites without irrigation.",
+"Tolerance of lime-rich soils, such as chalk and limestone, which can cause nutrient problems.",
+"Tolerance of salinity or wet, poorly drained soils.",
+"Influence on how early or late the vine develops and ripens."
+]},
+{"p": "Grafting can be done in a nursery before planting (bench grafting) or in the vineyard. Top grafting, also called head grafting, places buds of a new variety onto an established vine's trunk, letting growers change variety quickly without replanting and losing years of production."},
+{"h2": "Structure of the vine and the grape berry"},
+{"h3": "Parts of the vine and their functions"},
+{"ul": [
+"Roots: anchor the vine, absorb water and nutrients and store carbohydrates over winter.",
+"Trunk and arms or cordons: the permanent wood that carries water and sugars and supports the canopy; it also stores carbohydrates.",
+"Shoots: the green growth of the season, carrying leaves, buds, tendrils and flower clusters; when they turn woody in autumn they become canes.",
+"Buds: contain next season's shoots; pruning decides how many are kept, which controls yield.",
+"Leaves: carry out photosynthesis, producing the sugars that ripen the grapes.",
+"Tendrils: help the vine climb by gripping supports."
+]},
+{"h3": "What each part of the grape gives to the wine"},
+{"p": "The grape berry is the raw material of the wine, and each part contributes different components. Understanding this explains many winemaking choices: white wines are separated from their skins early, red wines are fermented with them to extract colour and tannin."},
+{"table": {"head": ["Part of the berry", "Main components", "Effect in the wine"], "rows": [
+["Pulp", "Water, sugars (glucose and fructose), acids (mainly tartaric and malic), some aroma precursors", "Sugar becomes alcohol; acids give freshness"],
+["Skin", "Colour pigments in black grapes, tannins, aroma and flavour compounds, yeasts on the surface", "Colour, structure and much of the varietal aroma"],
+["Seeds", "Harsh, bitter tannins and oils", "Must not be crushed, or the wine becomes bitter and astringent"],
+["Stems", "Tannins", "Add structure and fresh, herbal notes when whole bunches are used; harsh if unripe"]
+]}},
+{"h2": "Grape ripening: from veraison to harvest"},
+{"p": "Grape ripening begins at veraison, when berries soften and black grapes change colour. From then on sugars accumulate, acidity falls, colour deepens, tannins ripen and aromas change from green and herbaceous to riper fruit. Malic acid is broken down faster in warm conditions, which is why grapes from hot climates have lower acidity, while tartaric acid stays more stable. A grower picks when the balance of sugar, acidity, tannin ripeness and flavour suits the style of wine being made."},
+{"ol": [
+"Budburst: buds open in spring; young shoots are vulnerable to frost.",
+"Flowering and fruit set: flowers are pollinated and become berries; cool, wet or windy weather can cause poor fruit set (coulure) or uneven berry size (millerandage).",
+"Veraison: berries soften and change colour.",
+"Ripening: sugar rises, acid falls, tannins and aromas mature.",
+"Harvest: timing is chosen for the target style, from early picking for sparkling base wine to late picking for sweet wines.",
+"Dormancy: after leaf fall the vine rests over winter and is pruned."
+]},
+{"tip": "Exam technique: in written answers, link grape biology to wine style. 'Thick-skinned varieties such as Cabernet Sauvignon give deeply coloured, high-tannin wines because colour and tannin come from the skins' is the kind of cause-and-effect sentence that earns marks."},
+{"h2": "How to revise the vine and grape varieties in 15 minutes a day"},
+{"ol": [
+"Day 1: write the definitions of species, variety, clone, crossing and hybrid from memory, with one example each.",
+"Day 2: explain phylloxera in five lines: what it is, where it came from, what it does, the solution, where it is absent.",
+"Day 3: list six reasons for choosing a rootstock.",
+"Day 4: draw a vine and label roots, trunk, cordon, shoot, bud, leaf and tendril with their functions.",
+"Day 5: redraw the grape berry table and add how ripening changes each component.",
+"Day 6–7: test yourself with the free app and revisit only the definitions you mixed up."
+]}
+],
+"faq": [
+["What is the difference between a crossing and a hybrid for WSET 3?", "A crossing is a new variety grown from seed with two parents of the same species, usually both Vitis vinifera, such as Müller-Thurgau or Pinotage. A hybrid comes from parents of different species, typically vinifera and an American species, such as Vidal or Seyval Blanc. Hybrids are bred for cold hardiness and disease resistance and are important in cold regions like Canada and New York."],
+["Why are European vines grafted onto American rootstocks?", "Vitis vinifera roots have no resistance to phylloxera, a root-feeding insect from North America that kills the vine. American vine species evolved with the pest and resist it, so vinifera is grafted onto American rootstocks: the roots resist phylloxera, while the part above ground keeps the variety's fruit quality. Rootstocks are also chosen for vigour, drought tolerance, lime tolerance and resistance to nematodes."],
+["What does each part of the grape contribute to wine?", "The pulp provides water, sugars that become alcohol, and acids, mainly tartaric and malic, that give freshness. The skins provide colour in black grapes, tannins and most aroma and flavour compounds. The seeds contain bitter tannins and oils, so they must not be crushed. Stems add tannin and herbal notes when whole bunches are fermented."],
+["What is a clone in viticulture?", "A clone is a vine, or group of vines, of a single variety selected because a natural mutation gave it particular traits, such as small berries, higher yield, earlier ripening or disease resistance. It is propagated by cuttings so the traits are kept. A clone remains the same variety, so different Chardonnay clones are all Chardonnay; the choice of clone is one of many quality decisions a grower makes."],
+["What happens to grapes during ripening?", "From veraison, grapes soften and black varieties gain colour. Sugar levels rise, acidity falls as malic acid is broken down, especially in warm climates, tannins become riper and less astringent, and aromas move from green and herbaceous to riper fruit. Growers choose the harvest date by balancing sugar, acidity, tannin ripeness and flavour according to the wine style they want."]
+]
+},
+"it": {
+"sections": [
+{"h2": "Appunti di studio: la vite e le varietà d'uva per il WSET Livello 3"},
+{"p": "Le domande WSET Livello 3 su vite e varietà verificano la biologia che sta dietro ogni vino: quali specie producono vino, che differenza c'è tra varietà, cloni, incroci e ibridi, perché le viti si innestano su portainnesti, com'è fatta la pianta e che cosa porta al vino ogni parte dell'acino. Questo argomento è la base di clima, gestione del vigneto e vinificazione: capirlo bene rende molto più facili i capitoli regionali."},
+{"h3": "Specie, varietà e cloni: le definizioni chiave"},
+{"p": "Quasi tutto il vino si fa con Vitis vinifera, specie europea e asiatica. Al suo interno esistono migliaia di varietà, come Chardonnay o Syrah. Un clone è una vite, o un gruppo di viti, di una varietà che presenta caratteristiche particolari, come acini più piccoli, resa più alta o migliore resistenza alle malattie, frutto di una mutazione naturale. Il clone resta la stessa varietà: un clone di Pinot Nero è Pinot Nero. Alcune mutazioni cambiano persino il colore della buccia: Pinot Grigio e Pinot Bianco sono mutazioni di colore del Pinot Nero."},
+{"table": {"head": ["Termine", "Come nasce", "Esempio"], "rows": [
+["Varietà", "Tipo distinto e stabile all'interno di una specie, propagato per via vegetativa", "Chardonnay, Syrah, Riesling"],
+["Clone", "Talee selezionate da una vite con una mutazione naturale utile", "Cloni di Pinot Nero scelti per gli acini piccoli"],
+["Incrocio", "Pianta nata da seme di due genitori della stessa specie (entrambi vinifera)", "Müller-Thurgau, Pinotage; il Cabernet Sauvignon è un incrocio naturale tra Cabernet Franc e Sauvignon Blanc"],
+["Ibrido", "Pianta nata da seme di genitori di specie diverse, es. vinifera e una specie americana", "Vidal, Seyval Blanc"],
+["Portainnesto", "Spesso una specie americana o un incrocio tra specie americane, usato per le radici", "Portainnesti derivati da Vitis riparia, rupestris e berlandieri"]
+]}},
+{"tip": "Errore frequente: confondere incrocio e ibrido. L'incrocio ha due genitori Vitis vinifera; l'ibrido ha genitori di due specie diverse. Gli ibridi sono apprezzati per la resistenza al freddo e alle malattie e contano in zone come Canada e New York, dove il Vidal si usa per l'icewine."},
+{"h2": "Propagazione, innesto e portainnesti"},
+{"h3": "Perché la vite non si coltiva da seme"},
+{"p": "Il seme d'uva nasce da una riproduzione sessuata, quindi la piantina è geneticamente nuova e diversa dalla pianta madre, anche se entrambi i genitori sono della stessa varietà. Per riprodurre esattamente una varietà si usa la propagazione vegetativa. Le talee sono pezzi di tralcio di un anno messi a radicare o, più spesso, innestati; la propaggine piega nel terreno un tralcio di una vite esistente perché radichi accanto alla madre. La propaggine mette le radici di vinifera direttamente nel suolo, esposte alla fillossera: per questo oggi la norma è la talea innestata su portainnesto."},
+{"h3": "La fillossera e il ruolo dei portainnesti americani"},
+{"p": "La fillossera è un minuscolo insetto simile a un afide, originario del Nord America, che si nutre delle radici della vite. Vitis vinifera non ha difese: le ferite si infettano e la pianta muore lentamente. Quando la fillossera arrivò in Europa nella seconda metà dell'Ottocento distrusse gran parte dei vigneti. La soluzione fu innestare la vinifera su portainnesti di specie americane, che si sono evolute insieme all'insetto e gli resistono. Le specie americane danno però vini dai sapori poco gradevoli, quindi si usano solo sotto terra. Alcune zone sono rimaste in gran parte libere dalla fillossera, in particolare il Cile e parti dell'Australia, e i suoli sabbiosi sono ostili all'insetto: lì alcune viti crescono a piede franco."},
+{"h3": "Come si sceglie un portainnesto"},
+{"p": "Il portainnesto si sceglie per molto più della resistenza alla fillossera. La scelta giusta dipende dal sito e dallo stile che si vuole ottenere."},
+{"ul": [
+"Resistenza ai parassiti del suolo, come fillossera e nematodi.",
+"Vigoria: i portainnesti poco vigorosi sono adatti ai suoli fertili e aiutano a controllare la chioma; quelli vigorosi ai suoli poveri.",
+"Tolleranza alla siccità per i siti secchi senza irrigazione.",
+"Tolleranza ai suoli ricchi di calcare, come gesso e calcare, che possono causare problemi di nutrizione.",
+"Tolleranza alla salinità o ai suoli umidi e poco drenati.",
+"Influenza sulla precocità di sviluppo e maturazione della vite."
+]},
+{"p": "L'innesto può essere fatto in vivaio prima dell'impianto (innesto a tavolino) oppure in vigneto. Il sovrainnesto inserisce gemme di una nuova varietà sul tronco di una vite già adulta, permettendo di cambiare varietà rapidamente senza reimpiantare e senza perdere anni di produzione."},
+{"h2": "Struttura della vite e dell'acino"},
+{"h3": "Le parti della vite e le loro funzioni"},
+{"ul": [
+"Radici: ancorano la pianta, assorbono acqua e nutrienti e immagazzinano carboidrati durante l'inverno.",
+"Tronco e branche o cordoni: il legno permanente che trasporta acqua e zuccheri e sostiene la chioma; anch'esso immagazzina riserve.",
+"Germogli: la vegetazione verde della stagione, con foglie, gemme, viticci e grappoli fiorali; quando lignificano in autunno diventano tralci.",
+"Gemme: contengono i germogli della stagione successiva; la potatura decide quante lasciarne e quindi controlla la resa.",
+"Foglie: svolgono la fotosintesi e producono gli zuccheri che fanno maturare l'uva.",
+"Viticci: aiutano la vite ad arrampicarsi aggrappandosi ai sostegni."
+]},
+{"h3": "Che cosa porta al vino ogni parte dell'acino"},
+{"p": "L'acino è la materia prima del vino e ogni sua parte apporta componenti diverse. Questo spiega molte scelte di cantina: il mosto dei bianchi si separa presto dalle bucce, mentre i rossi fermentano a contatto con esse per estrarre colore e tannino."},
+{"table": {"head": ["Parte dell'acino", "Componenti principali", "Effetto nel vino"], "rows": [
+["Polpa", "Acqua, zuccheri (glucosio e fruttosio), acidi (soprattutto tartarico e malico), alcuni precursori aromatici", "Lo zucchero diventa alcol; gli acidi danno freschezza"],
+["Buccia", "Pigmenti colorati nelle uve nere, tannini, composti aromatici, lieviti in superficie", "Colore, struttura e gran parte dell'aroma varietale"],
+["Vinaccioli", "Tannini duri e amari, oli", "Non vanno schiacciati, altrimenti il vino diventa amaro e astringente"],
+["Raspi", "Tannini", "Danno struttura e note fresche ed erbacee se si usano grappoli interi; aggressivi se acerbi"]
+]}},
+{"h2": "La maturazione dell'uva: dall'invaiatura alla vendemmia"},
+{"p": "La maturazione dell'uva comincia con l'invaiatura, quando gli acini si ammorbidiscono e le uve nere cambiano colore. Da quel momento gli zuccheri aumentano, l'acidità cala, il colore si intensifica, i tannini maturano e gli aromi passano da verdi ed erbacei a fruttati più maturi. L'acido malico si degrada più in fretta con il caldo, ed è per questo che le uve dei climi caldi hanno acidità più bassa, mentre l'acido tartarico è più stabile. Si vendemmia quando l'equilibrio tra zucchero, acidità, maturità dei tannini e aromi è adatto allo stile di vino desiderato."},
+{"ol": [
+"Germogliamento: in primavera le gemme si aprono; i giovani germogli temono le gelate.",
+"Fioritura e allegagione: i fiori vengono impollinati e diventano acini; tempo fresco, piovoso o ventoso può causare colatura o acinellatura.",
+"Invaiatura: gli acini si ammorbidiscono e cambiano colore.",
+"Maturazione: lo zucchero sale, l'acidità scende, tannini e aromi maturano.",
+"Vendemmia: il momento si sceglie in base allo stile, dalla raccolta precoce per le basi spumante a quella tardiva per i vini dolci.",
+"Riposo vegetativo: dopo la caduta delle foglie la vite riposa durante l'inverno e viene potata."
+]},
+{"tip": "Tecnica d'esame: nelle risposte scritte collega la biologia dell'uva allo stile del vino. «Le varietà a buccia spessa come il Cabernet Sauvignon danno vini molto colorati e tannici perché colore e tannino vengono dalle bucce» è il tipo di frase causa-effetto che fa guadagnare punti."},
+{"h2": "Come ripassare vite e varietà in 15 minuti al giorno"},
+{"ol": [
+"Giorno 1: scrivi a memoria le definizioni di specie, varietà, clone, incrocio e ibrido, con un esempio ciascuna.",
+"Giorno 2: spiega la fillossera in cinque righe: che cos'è, da dove viene, che danno fa, la soluzione, dove è assente.",
+"Giorno 3: elenca sei motivi per scegliere un portainnesto.",
+"Giorno 4: disegna una vite e indica radici, tronco, cordone, germoglio, gemma, foglia e viticcio con le loro funzioni.",
+"Giorno 5: ricostruisci la tabella dell'acino e aggiungi come cambia ogni componente durante la maturazione.",
+"Giorni 6–7: mettiti alla prova con l'app gratuita e ripassa solo le definizioni che hai confuso."
+]}
+],
+"faq": [
+["Che differenza c'è tra incrocio e ibrido per il WSET 3?", "L'incrocio è una nuova varietà nata da seme con due genitori della stessa specie, di solito entrambi Vitis vinifera, come Müller-Thurgau o Pinotage. L'ibrido nasce da genitori di specie diverse, di solito vinifera e una specie americana, come Vidal o Seyval Blanc. Gli ibridi sono selezionati per la resistenza al freddo e alle malattie e sono importanti in zone fredde come Canada e New York."],
+["Perché le viti europee si innestano su portainnesti americani?", "Le radici di Vitis vinifera non resistono alla fillossera, un insetto nordamericano che si nutre delle radici e uccide la pianta. Le specie americane si sono evolute con il parassita e gli resistono, quindi la vinifera si innesta su di esse: le radici resistono alla fillossera e la parte aerea conserva la qualità dell'uva. I portainnesti si scelgono anche per vigoria, tolleranza alla siccità e al calcare e resistenza ai nematodi."],
+["Che cosa porta al vino ogni parte dell'acino?", "La polpa fornisce acqua, zuccheri che diventano alcol e acidi, soprattutto tartarico e malico, che danno freschezza. Le bucce danno il colore nelle uve nere, i tannini e la maggior parte dei composti aromatici. I vinaccioli contengono tannini amari e oli, quindi non vanno schiacciati. I raspi aggiungono tannino e note erbacee quando si fermentano grappoli interi."],
+["Che cos'è un clone in viticoltura?", "Un clone è una vite, o un gruppo di viti, di una sola varietà selezionata perché una mutazione naturale le ha dato caratteristiche particolari, come acini piccoli, resa più alta, maturazione precoce o resistenza alle malattie. Si propaga per talea per conservare queste caratteristiche. Il clone resta la stessa varietà: tutti i cloni di Chardonnay sono Chardonnay, e la scelta del clone è una delle tante decisioni di qualità in vigneto."],
+["Che cosa succede all'uva durante la maturazione?", "Dall'invaiatura gli acini si ammorbidiscono e le varietà nere prendono colore. Gli zuccheri aumentano, l'acidità cala perché l'acido malico si degrada, soprattutto nei climi caldi, i tannini diventano più maturi e meno astringenti e gli aromi passano da verdi ed erbacei a fruttati maturi. La data di vendemmia si sceglie bilanciando zucchero, acidità, maturità dei tannini e aromi in base allo stile desiderato."]
+]
+},
+"fr": {
+"sections": [
+{"h2": "Fiche de révision : la vigne et les cépages pour le WSET niveau 3"},
+{"p": "Les questions du WSET niveau 3 sur la vigne et les cépages portent sur la biologie qui se cache derrière chaque vin : quelles espèces donnent du vin, ce qui distingue cépages, clones, croisements et hybrides, pourquoi on greffe la vigne sur des porte-greffes, comment la plante est constituée et ce que chaque partie de la baie apporte au vin. Ce thème sert de base au climat, à la conduite du vignoble et à la vinification : bien le comprendre rend les chapitres régionaux beaucoup plus faciles."},
+{"h3": "Espèces, cépages et clones : les définitions clés"},
+{"p": "Presque tout le vin est produit à partir de Vitis vinifera, une espèce européenne et asiatique. Elle compte des milliers de cépages, comme le chardonnay ou la syrah. Un clone est une vigne, ou un groupe de vignes, d'un même cépage présentant des caractéristiques particulières, comme des baies plus petites, un rendement plus élevé ou une meilleure résistance aux maladies, à la suite d'une mutation naturelle. Le clone reste le même cépage : un clone de pinot noir est du pinot noir. Certaines mutations changent même la couleur de la baie : le pinot gris et le pinot blanc sont des mutations de couleur du pinot noir."},
+{"table": {"head": ["Terme", "Comment il est obtenu", "Exemple"], "rows": [
+["Cépage", "Type distinct et stable au sein d'une espèce, multiplié par voie végétative", "Chardonnay, syrah, riesling"],
+["Clone", "Boutures sélectionnées sur une vigne présentant une mutation naturelle utile", "Clones de pinot noir choisis pour leurs petites baies"],
+["Croisement", "Plant issu de semis de deux parents de la même espèce (tous deux vinifera)", "Müller-thurgau, pinotage ; le cabernet-sauvignon est un croisement naturel de cabernet franc et de sauvignon blanc"],
+["Hybride", "Plant issu de semis de parents d'espèces différentes, ex. vinifera et une espèce américaine", "Vidal, seyval blanc"],
+["Porte-greffe", "Souvent une espèce américaine ou un croisement d'espèces américaines, utilisé pour ses racines", "Porte-greffes issus de Vitis riparia, rupestris et berlandieri"]
+]}},
+{"tip": "Erreur fréquente : confondre croisement et hybride. Le croisement a deux parents Vitis vinifera ; l'hybride a des parents de deux espèces différentes. Les hybrides sont appréciés pour leur résistance au froid et aux maladies et comptent dans des régions comme le Canada et New York, où le vidal sert à l'icewine."},
+{"h2": "Multiplication, greffage et porte-greffes"},
+{"h3": "Pourquoi on ne cultive pas la vigne à partir de pépins"},
+{"p": "Un pépin de raisin est le fruit d'une reproduction sexuée : le plant obtenu est génétiquement nouveau et différent de la plante mère, même si les deux parents sont du même cépage. Pour reproduire un cépage à l'identique, on utilise la multiplication végétative. Les boutures sont des morceaux de sarment d'un an mis à raciner ou, le plus souvent, greffés ; le marcottage couche dans le sol un sarment d'une vigne existante pour qu'il s'enracine à côté de la mère. Le marcottage met les racines de vinifera directement en terre, exposées au phylloxéra : la bouture greffée sur porte-greffe est donc aujourd'hui la règle."},
+{"h3": "Le phylloxéra et le rôle des porte-greffes américains"},
+{"p": "Le phylloxéra est un minuscule insecte proche du puceron, originaire d'Amérique du Nord, qui se nourrit des racines de la vigne. Vitis vinifera n'a aucune défense : les blessures s'infectent et la plante dépérit lentement. Arrivé en Europe dans la seconde moitié du XIXe siècle, le phylloxéra a détruit la majorité des vignobles. La solution a été de greffer la vinifera sur des porte-greffes d'espèces américaines, qui ont évolué avec l'insecte et lui résistent. Ces espèces américaines donnent toutefois des vins aux saveurs peu agréables : on ne les utilise donc que sous terre. Quelques zones restent largement indemnes, notamment le Chili et certaines parties de l'Australie, et les sols sableux sont hostiles à l'insecte : certaines vignes y poussent franches de pied."},
+{"h3": "Comment choisir un porte-greffe"},
+{"p": "On choisit un porte-greffe pour bien plus que sa résistance au phylloxéra. Le bon choix dépend du site et du style recherché."},
+{"ul": [
+"Résistance aux ravageurs du sol, comme le phylloxéra et les nématodes.",
+"Vigueur : les porte-greffes peu vigoureux conviennent aux sols fertiles et aident à maîtriser le feuillage ; les vigoureux, aux sols pauvres.",
+"Tolérance à la sécheresse pour les sites secs non irrigués.",
+"Tolérance aux sols riches en calcaire, comme la craie, qui peuvent provoquer des carences.",
+"Tolérance à la salinité ou aux sols humides et mal drainés.",
+"Influence sur la précocité du développement et de la maturité."
+]},
+{"p": "Le greffage peut se faire en pépinière avant la plantation (greffe sur table) ou au vignoble. Le surgreffage place des bourgeons d'un nouveau cépage sur le tronc d'une vigne adulte : on change ainsi rapidement de cépage sans replanter ni perdre des années de production."},
+{"h2": "Structure de la vigne et de la baie"},
+{"h3": "Les parties de la vigne et leurs fonctions"},
+{"ul": [
+"Racines : ancrent la plante, absorbent l'eau et les éléments nutritifs et stockent les glucides pendant l'hiver.",
+"Tronc et bras ou cordons : le bois permanent qui transporte l'eau et les sucres et soutient le feuillage ; il stocke aussi des réserves.",
+"Rameaux : la pousse verte de l'année, portant feuilles, bourgeons, vrilles et inflorescences ; en s'aoûtant à l'automne, ils deviennent des sarments.",
+"Bourgeons : contiennent les rameaux de la saison suivante ; la taille décide combien on en garde et contrôle donc le rendement.",
+"Feuilles : assurent la photosynthèse et produisent les sucres qui font mûrir le raisin.",
+"Vrilles : aident la vigne à grimper en s'accrochant aux supports."
+]},
+{"h3": "Ce que chaque partie de la baie apporte au vin"},
+{"p": "La baie est la matière première du vin et chacune de ses parties apporte des composants différents. Cela explique bien des choix de vinification : le moût des blancs est séparé tôt des pellicules, alors que les rouges fermentent avec elles pour extraire couleur et tanins."},
+{"table": {"head": ["Partie de la baie", "Composants principaux", "Effet dans le vin"], "rows": [
+["Pulpe", "Eau, sucres (glucose et fructose), acides (surtout tartrique et malique), quelques précurseurs d'arômes", "Le sucre devient alcool ; les acides apportent la fraîcheur"],
+["Pellicule", "Pigments colorés des raisins noirs, tanins, composés aromatiques, levures en surface", "Couleur, structure et une grande partie de l'arôme variétal"],
+["Pépins", "Tanins durs et amers, huiles", "À ne pas écraser, sinon le vin devient amer et astringent"],
+["Rafles", "Tanins", "Apportent structure et notes fraîches et végétales en vendange entière ; agressives si elles ne sont pas mûres"]
+]}},
+{"h2": "La maturation du raisin : de la véraison aux vendanges"},
+{"p": "La maturation du raisin commence à la véraison, quand les baies s'assouplissent et que les raisins noirs changent de couleur. Dès lors, les sucres s'accumulent, l'acidité baisse, la couleur s'intensifie, les tanins mûrissent et les arômes passent du vert et de l'herbacé à des fruits plus mûrs. L'acide malique se dégrade plus vite par temps chaud, ce qui explique l'acidité plus faible des raisins de climat chaud, alors que l'acide tartrique est plus stable. On vendange quand l'équilibre entre sucre, acidité, maturité des tanins et arômes correspond au style de vin recherché."},
+{"ol": [
+"Débourrement : les bourgeons s'ouvrent au printemps ; les jeunes rameaux craignent le gel.",
+"Floraison et nouaison : les fleurs sont pollinisées et deviennent des baies ; un temps frais, humide ou venteux peut provoquer coulure ou millerandage.",
+"Véraison : les baies s'assouplissent et changent de couleur.",
+"Maturation : le sucre augmente, l'acidité diminue, tanins et arômes mûrissent.",
+"Vendanges : la date est choisie selon le style, de la récolte précoce pour les vins de base d'effervescents à la récolte tardive pour les vins doux.",
+"Dormance : après la chute des feuilles, la vigne se repose l'hiver et est taillée."
+]},
+{"tip": "Méthode d'examen : dans les réponses rédigées, reliez la biologie du raisin au style du vin. « Les cépages à pellicule épaisse comme le cabernet-sauvignon donnent des vins très colorés et tanniques, car la couleur et les tanins proviennent des pellicules » est le type de phrase cause-effet qui rapporte des points."},
+{"h2": "Réviser la vigne et les cépages en 15 minutes par jour"},
+{"ol": [
+"Jour 1 : écrivez de mémoire les définitions d'espèce, cépage, clone, croisement et hybride, avec un exemple pour chacune.",
+"Jour 2 : expliquez le phylloxéra en cinq lignes : ce que c'est, son origine, ses dégâts, la solution, où il est absent.",
+"Jour 3 : listez six raisons de choisir un porte-greffe.",
+"Jour 4 : dessinez une vigne et annotez racines, tronc, cordon, rameau, bourgeon, feuille et vrille avec leurs fonctions.",
+"Jour 5 : refaites le tableau de la baie et ajoutez l'évolution de chaque composant pendant la maturation.",
+"Jours 6–7 : testez-vous dans l'application gratuite et revoyez seulement les définitions confondues."
+]}
+],
+"faq": [
+["Quelle différence entre croisement et hybride au WSET niveau 3 ?", "Un croisement est un nouveau cépage issu de semis de deux parents de la même espèce, en général tous deux Vitis vinifera, comme le müller-thurgau ou le pinotage. Un hybride est issu de parents d'espèces différentes, souvent vinifera et une espèce américaine, comme le vidal ou le seyval blanc. Les hybrides sont sélectionnés pour leur résistance au froid et aux maladies et comptent dans les régions froides comme le Canada et New York."],
+["Pourquoi greffe-t-on les vignes européennes sur des porte-greffes américains ?", "Les racines de Vitis vinifera ne résistent pas au phylloxéra, un insecte nord-américain qui se nourrit des racines et tue la plante. Les espèces américaines ont évolué avec ce ravageur et lui résistent : on greffe donc la vinifera sur elles, les racines résistent au phylloxéra et la partie aérienne garde la qualité du raisin. Les porte-greffes sont aussi choisis pour la vigueur, la tolérance à la sécheresse et au calcaire et la résistance aux nématodes."],
+["Qu'apporte chaque partie du raisin au vin ?", "La pulpe fournit l'eau, les sucres qui deviennent alcool et les acides, surtout tartrique et malique, qui apportent la fraîcheur. Les pellicules donnent la couleur des raisins noirs, les tanins et la plupart des composés aromatiques. Les pépins contiennent des tanins amers et des huiles : il ne faut pas les écraser. Les rafles ajoutent tanins et notes végétales lorsqu'on vinifie en vendange entière."],
+["Qu'est-ce qu'un clone en viticulture ?", "Un clone est une vigne, ou un groupe de vignes, d'un seul cépage sélectionnée parce qu'une mutation naturelle lui a donné des caractéristiques particulières, comme de petites baies, un rendement plus élevé, une maturité précoce ou une résistance aux maladies. On le multiplie par bouturage pour conserver ces traits. Le clone reste le même cépage : tous les clones de chardonnay sont du chardonnay, et le choix du clone est une décision de qualité parmi d'autres."],
+["Que se passe-t-il dans le raisin pendant la maturation ?", "Dès la véraison, les baies s'assouplissent et les cépages noirs se colorent. Les sucres augmentent, l'acidité baisse car l'acide malique se dégrade, surtout en climat chaud, les tanins deviennent plus mûrs et moins astringents, et les arômes passent du végétal à des fruits mûrs. La date des vendanges est fixée en équilibrant sucre, acidité, maturité des tanins et arômes selon le style recherché."]
+]
+},
+"es": {
+"sections": [
+{"h2": "Apuntes de estudio: la vid y las variedades de uva para el WSET nivel 3"},
+{"p": "Las preguntas del WSET nivel 3 sobre la vid y las variedades de uva evalúan la biología que hay detrás de cada vino: qué especies dan vino, en qué se diferencian variedades, clones, cruces e híbridos, por qué las vides se injertan sobre portainjertos, cómo es la planta y qué aporta al vino cada parte de la uva. Este tema es la base del clima, el manejo del viñedo y la elaboración, así que entenderlo bien hace mucho más fáciles los capítulos regionales."},
+{"h3": "Especies, variedades y clones: las definiciones clave"},
+{"p": "Casi todo el vino se elabora con Vitis vinifera, una especie europea y asiática. Dentro de ella hay miles de variedades, como Chardonnay o Syrah. Un clon es una cepa, o un grupo de cepas, de una variedad que muestra rasgos particulares, como uvas más pequeñas, más rendimiento o mejor resistencia a enfermedades, fruto de una mutación natural. El clon sigue siendo la misma variedad: un clon de Pinot Noir es Pinot Noir. Algunas mutaciones llegan a cambiar el color de la uva: la Pinot Gris y la Pinot Blanc son mutaciones de color de la Pinot Noir."},
+{"table": {"head": ["Término", "Cómo se obtiene", "Ejemplo"], "rows": [
+["Variedad", "Tipo distinto y estable dentro de una especie, propagado de forma vegetativa", "Chardonnay, Syrah, Riesling"],
+["Clon", "Estacas seleccionadas de una cepa con una mutación natural útil", "Clones de Pinot Noir elegidos por sus uvas pequeñas"],
+["Cruce", "Planta nacida de semilla de dos progenitores de la misma especie (ambos vinifera)", "Müller-Thurgau, Pinotage; la Cabernet Sauvignon es un cruce natural de Cabernet Franc y Sauvignon Blanc"],
+["Híbrido", "Planta nacida de semilla de progenitores de especies distintas, p. ej. vinifera y una especie americana", "Vidal, Seyval Blanc"],
+["Portainjerto", "A menudo una especie americana o un cruce entre especies americanas, usado por sus raíces", "Portainjertos derivados de Vitis riparia, rupestris y berlandieri"]
+]}},
+{"tip": "Error frecuente: confundir cruce e híbrido. El cruce tiene dos progenitores Vitis vinifera; el híbrido tiene progenitores de dos especies diferentes. Los híbridos se valoran por su resistencia al frío y a las enfermedades y son importantes en zonas como Canadá y Nueva York, donde la Vidal se usa para el icewine."},
+{"h2": "Propagación, injerto y portainjertos"},
+{"h3": "Por qué la vid no se cultiva a partir de semillas"},
+{"p": "La pepita de uva es el resultado de una reproducción sexual, así que la planta que nace es genéticamente nueva y distinta de la madre, aunque los dos progenitores sean de la misma variedad. Para reproducir una variedad de forma idéntica se usa la propagación vegetativa. Las estacas son trozos de sarmiento de un año que se ponen a enraizar o, más a menudo, se injertan; el acodo entierra un sarmiento de una cepa existente para que enraíce junto a la madre. El acodo deja las raíces de vinifera en contacto directo con el suelo, expuestas a la filoxera, por lo que hoy lo habitual es la estaca injertada sobre portainjerto."},
+{"h3": "La filoxera y el papel de los portainjertos americanos"},
+{"p": "La filoxera es un insecto diminuto parecido a un pulgón, originario de Norteamérica, que se alimenta de las raíces de la vid. Vitis vinifera no tiene defensas: las heridas se infectan y la planta muere poco a poco. Cuando la filoxera llegó a Europa en la segunda mitad del siglo XIX, arrasó la mayoría de los viñedos. La solución fue injertar la vinifera sobre portainjertos de especies americanas, que evolucionaron junto al insecto y lo resisten. Esas especies americanas dan, sin embargo, vinos de sabores poco agradables, así que solo se usan bajo tierra. Algunas zonas siguen en gran parte libres de filoxera, sobre todo Chile y partes de Australia, y los suelos arenosos son hostiles al insecto, por lo que allí hay cepas plantadas sin injertar (pie franco)."},
+{"h3": "Cómo se elige un portainjerto"},
+{"p": "El portainjerto se elige por mucho más que su resistencia a la filoxera. La elección correcta depende de la parcela y del estilo de vino que se busca."},
+{"ul": [
+"Resistencia a plagas del suelo, como la filoxera y los nematodos.",
+"Vigor: los portainjertos poco vigorosos convienen en suelos fértiles y ayudan a controlar la vegetación; los vigorosos, en suelos pobres.",
+"Tolerancia a la sequía en parcelas secas sin riego.",
+"Tolerancia a suelos muy calizos, como la creta y la caliza, que pueden causar problemas de nutrición.",
+"Tolerancia a la salinidad o a suelos húmedos y mal drenados.",
+"Influencia en la precocidad del desarrollo y la maduración."
+]},
+{"p": "El injerto puede hacerse en vivero antes de plantar (injerto de taller) o en el propio viñedo. El sobreinjerto coloca yemas de una nueva variedad sobre el tronco de una cepa adulta, lo que permite cambiar de variedad rápidamente sin replantar ni perder años de producción."},
+{"h2": "Estructura de la vid y de la uva"},
+{"h3": "Las partes de la vid y sus funciones"},
+{"ul": [
+"Raíces: anclan la planta, absorben agua y nutrientes y almacenan carbohidratos durante el invierno.",
+"Tronco y brazos o cordones: la madera permanente que transporta agua y azúcares y sostiene la vegetación; también almacena reservas.",
+"Brotes o pámpanos: el crecimiento verde del año, con hojas, yemas, zarcillos e inflorescencias; cuando se lignifican en otoño se convierten en sarmientos.",
+"Yemas: contienen los brotes de la temporada siguiente; la poda decide cuántas se dejan y, por tanto, controla el rendimiento.",
+"Hojas: realizan la fotosíntesis y producen los azúcares que maduran la uva.",
+"Zarcillos: ayudan a la vid a trepar agarrándose a los soportes."
+]},
+{"h3": "Qué aporta al vino cada parte de la uva"},
+{"p": "La uva es la materia prima del vino y cada una de sus partes aporta componentes distintos. Eso explica muchas decisiones de bodega: el mosto de los blancos se separa pronto de los hollejos, mientras que los tintos fermentan con ellos para extraer color y tanino."},
+{"table": {"head": ["Parte de la uva", "Componentes principales", "Efecto en el vino"], "rows": [
+["Pulpa", "Agua, azúcares (glucosa y fructosa), ácidos (sobre todo tartárico y málico), algunos precursores aromáticos", "El azúcar se convierte en alcohol; los ácidos dan frescura"],
+["Hollejo", "Pigmentos de color en las uvas tintas, taninos, compuestos aromáticos, levaduras en la superficie", "Color, estructura y gran parte del aroma varietal"],
+["Pepitas", "Taninos duros y amargos, aceites", "No deben romperse, o el vino resulta amargo y astringente"],
+["Raspón", "Taninos", "Aporta estructura y notas frescas y herbáceas con racimo entero; agresivo si no está maduro"]
+]}},
+{"h2": "La maduración de la uva: del envero a la vendimia"},
+{"p": "La maduración de la uva empieza con el envero, cuando las bayas se ablandan y las uvas tintas cambian de color. A partir de ahí los azúcares aumentan, la acidez baja, el color se intensifica, los taninos maduran y los aromas pasan de verdes y herbáceos a fruta más madura. El ácido málico se degrada más deprisa con calor, por eso las uvas de climas cálidos tienen menos acidez, mientras que el ácido tartárico es más estable. Se vendimia cuando el equilibrio entre azúcar, acidez, madurez de taninos y aromas se ajusta al estilo de vino buscado."},
+{"ol": [
+"Brotación: en primavera se abren las yemas; los brotes jóvenes son sensibles a las heladas.",
+"Floración y cuajado: las flores se polinizan y se convierten en bayas; el tiempo fresco, lluvioso o ventoso puede provocar corrimiento o millerandage (bayas de tamaño desigual).",
+"Envero: las bayas se ablandan y cambian de color.",
+"Maduración: sube el azúcar, baja la acidez y maduran taninos y aromas.",
+"Vendimia: la fecha se elige según el estilo, desde la vendimia temprana para vinos base de espumoso hasta la tardía para vinos dulces.",
+"Reposo invernal: tras la caída de la hoja la vid descansa en invierno y se poda."
+]},
+{"tip": "Técnica de examen: en las respuestas escritas, relaciona la biología de la uva con el estilo del vino. «Las variedades de hollejo grueso como la Cabernet Sauvignon dan vinos muy coloreados y tánicos porque el color y el tanino proceden del hollejo» es el tipo de frase causa-efecto que suma puntos."},
+{"h2": "Cómo repasar la vid y las variedades en 15 minutos al día"},
+{"ol": [
+"Día 1: escribe de memoria las definiciones de especie, variedad, clon, cruce e híbrido, con un ejemplo de cada una.",
+"Día 2: explica la filoxera en cinco líneas: qué es, de dónde viene, qué daño hace, la solución y dónde no está presente.",
+"Día 3: enumera seis motivos para elegir un portainjerto.",
+"Día 4: dibuja una vid y señala raíces, tronco, cordón, brote, yema, hoja y zarcillo con sus funciones.",
+"Día 5: reconstruye la tabla de la uva y añade cómo cambia cada componente durante la maduración.",
+"Días 6–7: ponte a prueba con la app gratuita y repasa solo las definiciones que confundiste."
+]}
+],
+"faq": [
+["¿Qué diferencia hay entre cruce e híbrido en el WSET 3?", "Un cruce es una nueva variedad nacida de semilla con dos progenitores de la misma especie, normalmente ambos Vitis vinifera, como Müller-Thurgau o Pinotage. Un híbrido procede de progenitores de especies distintas, habitualmente vinifera y una especie americana, como Vidal o Seyval Blanc. Los híbridos se seleccionan por su resistencia al frío y a las enfermedades y son importantes en zonas frías como Canadá y Nueva York."],
+["¿Por qué las vides europeas se injertan sobre portainjertos americanos?", "Las raíces de Vitis vinifera no resisten la filoxera, un insecto norteamericano que se alimenta de las raíces y mata la planta. Las especies americanas evolucionaron con la plaga y la resisten, así que la vinifera se injerta sobre ellas: las raíces resisten la filoxera y la parte aérea conserva la calidad de la uva. Los portainjertos también se eligen por vigor, tolerancia a la sequía y a la caliza y resistencia a los nematodos."],
+["¿Qué aporta al vino cada parte de la uva?", "La pulpa aporta agua, azúcares que se convierten en alcohol y ácidos, sobre todo tartárico y málico, que dan frescura. Los hollejos dan el color en las uvas tintas, los taninos y la mayoría de los compuestos aromáticos. Las pepitas contienen taninos amargos y aceites, por lo que no deben romperse. El raspón añade tanino y notas herbáceas cuando se fermenta con racimo entero."],
+["¿Qué es un clon en viticultura?", "Un clon es una cepa, o un grupo de cepas, de una sola variedad seleccionada porque una mutación natural le dio rasgos particulares, como bayas pequeñas, más rendimiento, maduración temprana o resistencia a enfermedades. Se propaga por estaca para conservar esos rasgos. El clon sigue siendo la misma variedad: todos los clones de Chardonnay son Chardonnay, y elegir clon es una de las muchas decisiones de calidad en el viñedo."],
+["¿Qué le pasa a la uva durante la maduración?", "Desde el envero las bayas se ablandan y las variedades tintas toman color. Los azúcares aumentan, la acidez baja porque el ácido málico se degrada, sobre todo en climas cálidos, los taninos maduran y se vuelven menos astringentes, y los aromas pasan de verdes y herbáceos a fruta madura. La fecha de vendimia se fija equilibrando azúcar, acidez, madurez de taninos y aromas según el estilo buscado."]
+]
+}
+}
