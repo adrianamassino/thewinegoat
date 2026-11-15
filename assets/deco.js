@@ -92,7 +92,7 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
 @keyframes dkSw{0%,100%{transform:rotate(calc(var(--r,0deg) - 7deg))}50%{transform:rotate(calc(var(--r,0deg) + 7deg))}}
 @keyframes dkBo{0%,100%{transform:translateY(0) rotate(var(--r,0deg))}40%{transform:translateY(-8px) rotate(calc(var(--r,0deg) - 3deg))}70%{transform:translateY(-3px) rotate(calc(var(--r,0deg) + 2deg))}}
 .dkB{animation:dkFz 2.8s linear infinite}@keyframes dkFz{0%{transform:translateY(0);opacity:0}15%{opacity:1}100%{transform:translateY(-16px);opacity:0}}
-.dkS{position:relative}.dkS>img{position:relative;z-index:1}.dkS i{position:absolute;font-style:normal;z-index:2;pointer-events:none}.dkS i svg{width:100%;height:auto;display:block}
+.dkS{position:relative}.dkS>img{position:relative;z-index:1;display:block;width:100%;height:auto}.dkS i{position:absolute;font-style:normal;z-index:2;pointer-events:none}.dkS i svg{width:100%;height:auto;display:block}
 .dkSip>img{transform-origin:50% 92%;animation:dkSipA 4.6s ease-in-out infinite}.dkSip .dkH{width:16%;top:4%;right:4%;opacity:0;animation:dkHeart 4.6s ease-out infinite}.dkSip .h2{width:10%;right:20%;top:12%;animation-delay:.45s}
 @keyframes dkSipA{0%,28%,100%{transform:rotate(0)}38%,60%{transform:rotate(-8deg) translateY(-3px)}48%{transform:rotate(-10deg) translateY(-5px)}}
 @keyframes dkHeart{0%,52%{opacity:0;transform:translateY(0) scale(.5)}62%{opacity:1}100%{opacity:0;transform:translateY(-46px) scale(1.15) rotate(12deg)}}
@@ -127,7 +127,16 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
 .dk-host{position:relative;isolation:isolate}.dk-host>*:not(.dk-bub){position:relative;z-index:1}
 .dkI[data-s=r] .dkHa{right:auto;left:-14%;border-radius:14px 14px 3px 14px}.dkI[data-s=r] .dkPw{right:auto;left:-10%}
 @media (prefers-reduced-motion:reduce){.dkL *,.dkWalk *,.dkMob *,.dk-bub i{animation:none!important}.dk-bub{display:none}.dkWalk .dkW{left:46%}.dkS i{display:none}}`;
-  const st = document.createElement("style"); st.textContent = css; document.head.appendChild(st);
+  const DEMO = document.getElementById("dkDemo");
+  const st = document.createElement("style"); st.textContent = DEMO ? css.replace(/@media \(prefers-reduced-motion:reduce\)\{[^]*$/, "") : css; document.head.appendChild(st);
+  if (DEMO) { // showcase page: every goat scene, walkers and props, always animated
+    const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride", barrel: "Salta sulla botte", leap: "Salta di gioia", cheers: "Brinda" };
+    const used = {}; DEMO.innerHTML = `<div class="dmG">${STORIES.filter(([t]) => (used[t] = (used[t] || 0) + 1) <= 2).map(([t, n]) => `<figure><div style="width:${t === "barrel" ? 200 : 160}px;margin:auto">${SC[t](n)}</div><figcaption>${L[t]}</figcaption></figure>`).join("")}</div>
+<h2>Caprette che camminano</h2>${WALKERS.slice(0, 4).map((n, i) => `<div class="dkWalk"><div class="dkP" style="left:${20 + i * 15}%;width:46px">${PROPS[["barrel", "bottleR", "grapesR", "flute"][i]]()}</div><div class="dkW${i % 2 ? " rv" : ""}" style="--t:${14 + i * 3}s;animation-delay:-${i * 4}s">${IMG(n)}</div></div>`).join("")}
+<h2>Oggetti</h2><div class="dmP">${Object.keys(PROPS).map(k => `<div style="width:${PSIZE[k]}px" class="dkA ${k.startsWith("grapes") ? "sw" : "fl"}">${PROPS[k]()}</div>`).join("")}</div>`;
+    DEMO.querySelectorAll("img").forEach(i => i.loading = "eager");
+    return;
+  }
 
   /* seeded random: the same layout on every visit of a page, different from page to page */
   let seed = 7; for (const ch of location.pathname) seed = (Math.imul(seed, 31) + ch.charCodeAt(0)) >>> 0;
