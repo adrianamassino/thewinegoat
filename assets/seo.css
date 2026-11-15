@@ -88,3 +88,7 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .seo-a .tldr small{display:block;margin-top:8px;color:#8a7d84;font-size:.78rem}
 .seo-a .seofig{margin:6px 0 22px}.seo-a .seofig img{display:block;width:100%;height:auto;border-radius:16px;box-shadow:0 10px 30px rgba(60,16,34,.18)}
 .seo-a .seofig figcaption{margin-top:8px;font-size:.88rem;color:#7d7184;line-height:1.45}
+.seosec.more h3{font-size:clamp(19px,2.2vw,23px);margin:26px 0 8px;color:#5c1530}
+.seosec.more p{line-height:1.7}
+.seosec.more ol.tips{padding-left:22px}
+.tipbox{margin:18px 0;padding:14px 16px;border-radius:14px;background:#fbf4e6;border-left:5px solid #c9a24a;line-height:1.6}
