@@ -80,7 +80,7 @@ for f in sorted(glob.glob('tools/seo2/extra/*.json')):
         if faq and not ld.faq_done:
             J = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}
             s = s.replace('</head>', B + '<script type="application/ld+json">' + json.dumps(J, ensure_ascii=False) + '</script>' + E_ + '</head>', 1)
-        if 'assets/deco.js' not in s: s = s.replace('</body>', '<script src="/assets/deco.js?v=2" defer></script></body>', 1)
+        if 'assets/deco.js' not in s: s = s.replace('</body>', '<script src="/assets/deco.js?v=3" defer></script></body>', 1)
         open(p, 'w', encoding='utf8').write(s); done += 1
         llm.append(f'## {d["h1"]}\nURL: {SITE}{d["url"]}\n{text_of(X["sections"])}\n' + ''.join(f'\nQ: {q}\nA: {a}\n' for q, a in faq))
 
