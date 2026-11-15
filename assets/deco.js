@@ -6,6 +6,7 @@
    Purely decorative (aria-hidden, no pointer events); motion off for prefers-reduced-motion. */
 (function () {
   if (window.__twgDeco) return; window.__twgDeco = 1;
+  const API_ONLY = !!(document.currentScript && "api" in document.currentScript.dataset);
   const X = n => `/img/goats/x/e${String(n).padStart(3, "0")}.webp`;
   const IMG = n => `<img src="${X(n)}" alt="" loading="lazy" decoding="async">`;
   let uid = 0; const id = p => "dk" + p + (++uid);
@@ -210,6 +211,13 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
   const DEMO = document.getElementById("dkDemo");
   const cssAll = css.replace('@media (prefers-reduced-motion:reduce){', goatCss + '\n@media (prefers-reduced-motion:reduce){.vg *,.vS i{animation:none!important}');
   const st = document.createElement("style"); st.textContent = DEMO ? cssAll.replace(/@media \(prefers-reduced-motion:reduce\)\{[^]*$/, "") : cssAll; document.head.appendChild(st);
+  /* small API for the app: the same goats, scenes and walking strips */
+  window.TWGGoat = {
+    svg: goatSVG, scene: (t, c) => SC[t](c || 0), types: STORY_TYPES.slice(),
+    walk(o) { o = o || {}; const props = ["barrel", "bottleR", "grapesR", "glassR", "flute", "bottleS"], prop = o.prop === false ? null : (o.prop || props[Math.floor(Math.random() * props.length)]), t = o.t || 24 + Math.round(Math.random() * 12);
+      return `<div class="dkWalk${o.cls ? " " + o.cls : ""}" aria-hidden="true">${prop ? `<div class="dkP" style="left:${o.px || 30 + Math.round(Math.random() * 40)}%;width:${Math.round(PSIZE[prop] * .62)}px">${PROPS[prop]()}</div>` : ""}<div class="dkW walking${o.rv ? " rv" : ""}${o.trot ? " trot" : ""}" style="--t:${t}s;animation-delay:-${Math.round(Math.random() * t)}s">${goatSVG(o.grapes ? { cape: o.cape || 0, vb: "0 0 270 195", inMouth: nest(grapes("red"), 214, 78, 30, 34) } : { cape: o.cape || 0 })}</div></div>`; }
+  };
+  if (API_ONLY) return;
   if (DEMO) { // showcase page: every goat scene, walkers and props, always animated
     const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride a crepapelle", barrel: "Salta sulla botte", dance: "Balla sulle zampe posteriori", hop: "Salta di gioia", sniff: "Annusa il vino", harvest: "Porta a casa il grappolo" };
     DEMO.innerHTML = `<div class="dmG">${Object.keys(L).map((t, i) => `<figure><div style="width:${t === "barrel" ? 230 : 190}px;margin:auto">${SC[t](i % 4)}</div><figcaption>${L[t]}</figcaption></figure>`).join("")}</div>
