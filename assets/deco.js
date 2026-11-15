@@ -69,21 +69,94 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     [["corkscrew", 0, 64, .7], ["cork", 66, 6, .9], ["glassRo", 38, 4, .8]]
   ];
 
-  /* ---------- goats (painted brand set) and their little stories ---------- */
+  /* ---------- the vector goat: articulated legs (hip + knee), head, ear, tail, cape, talking mouth ---------- */
+  const leg = (cls, x, near) => { const f = near ? "#fff7ec" : "#f3e2cc";
+    return `<g class="leg ${cls} ${near ? "near" : "far"}" style="transform-origin:${x}px 126px"><g class="shin" style="transform-origin:${x}px 150px"><path d="M${x - 9},146 C${x - 9},158 ${x - 8},166 ${x - 7},173 L${x + 7},173 C${x + 8},166 ${x + 9},158 ${x + 9},146 Z" fill="${f}" stroke="#c39c7c" stroke-width="1.6"/><path d="M${x - 9},171 C${x - 4},168 ${x + 4},168 ${x + 9},171 L${x + 10},181 Q${x},185 ${x - 10},181 Z" fill="#5a382b"/><path d="M${x + 1},172 L${x + 1},183" stroke="#3a2219" stroke-width="1.3"/></g><path d="M${x - 14},118 C${x - 15},134 ${x - 12},146 ${x - 9},154 Q${x},158 ${x + 9},154 C${x + 12},144 ${x + 15},132 ${x + 14},118 Z" fill="${f}" stroke="#c39c7c" stroke-width="1.6"/></g>`; };
+  const CAPES = [["#8c1d40", "#5a1029", "#a3264f"], ["#3d5a2a", "#26391a", "#56783a"], ["#2c3e66", "#1b2744", "#41598f"], ["#7a4a1c", "#4f2f10", "#a06a2c"]];
+  function goatSVG(o) {
+    o = o || {}; const [c1, c2, c3] = CAPES[o.cape || 0];
+    return `<svg class="vg" viewBox="${o.vb || "0 0 260 195"}" aria-hidden="true">${o.under || ""}<g class="gw0" ${o.gt ? `transform="${o.gt}"` : ""}><g class="mv"><ellipse class="shadow" cx="122" cy="184" rx="66" ry="6.5" fill="rgba(62,15,34,.16)"/>
+<g class="bodyall">${leg("bl", 80, 0)}${leg("fl", 146, 0)}${leg("bl", 94, 1)}${leg("fl", 160, 1)}
+<g class="tail" style="transform-origin:64px 96px"><path d="M68,98 C58,94 52,84 54,74 C56,68 62,70 64,76 C66,84 70,90 74,94 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.5"/></g>
+<path d="M176,108 Q179.3,114.9 171.6,120.6 Q170.4,127.9 159,131.3 Q153.8,138.5 140.2,138.5 Q130.9,144.9 118,141 Q105.1,144.9 95.8,138.5 Q82.2,138.5 77,131.3 Q65.6,127.9 64.4,120.6 Q56.7,114.9 60,108 Q56.7,101.1 64.4,95.4 Q65.6,88.1 77,84.7 Q82.2,77.5 95.8,77.5 Q105.1,71.1 118,75 Q130.9,71.1 140.2,77.5 Q153.8,77.5 159,84.7 Q170.4,88.1 171.6,95.4 Q179.3,101.1 176,108 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M84,118 q6,-5 12,0 M104,124 q6,-5 12,0 M126,122 q6,-5 12,0 M146,116 q6,-5 12,0" fill="none" stroke="#ecd7bd" stroke-width="1.6" stroke-linecap="round"/>
+<g class="cape" style="transform-origin:150px 84px"><path d="M152,80 C132,74 100,74 76,84 C70,96 68,112 72,128 C84,122 96,128 108,122 C120,128 132,120 142,118 C150,108 154,94 152,80 Z" fill="${c1}" stroke="${c2}" stroke-width="1.4" stroke-linejoin="round"/><path d="M72,128 C84,122 96,128 108,122 C120,128 132,120 142,118" fill="none" stroke="#d4a23a" stroke-width="2"/>
+<path d="M90,84 C88,98 88,112 92,124M122,80 C122,94 124,106 128,120" fill="none" stroke="${c2}" stroke-width="1.4" opacity=".6"/><g fill="#d4a23a"><circle cx="108" cy="98" r="3.2"/><circle cx="115" cy="98" r="3.2"/><circle cx="111.5" cy="104" r="3.2"/><circle cx="104.5" cy="104" r="3.2"/><circle cx="118.5" cy="104" r="3.2"/><circle cx="108" cy="110" r="3.2"/><circle cx="115" cy="110" r="3.2"/><circle cx="111.5" cy="116" r="3.2"/></g><path d="M111,92 q3,-6 8,-6" fill="none" stroke="#d4a23a" stroke-width="1.6" stroke-linecap="round"/></g>
+<g class="neck" style="transform-origin:152px 100px"><path d="M146,100 C146,82 156,66 170,58 L192,72 C186,88 176,100 164,110 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.6"/><path d="M148,84 C160,92 178,88 190,74 L194,82 C182,98 162,104 146,96 Z" fill="${c3}" stroke="${c2}" stroke-width="1.2"/><path d="M148,84 C160,92 178,88 190,74" fill="none" stroke="#d4a23a" stroke-width="1.6"/>
+<g class="head" style="transform-origin:180px 70px"><g fill="none" stroke-linecap="round"><path d="M178,46 C170,22 146,16 134,28 C124,38 130,54 144,52 C152,50 152,40 145,39" stroke="#5c3a2e" stroke-width="10"/><path d="M178,46 C170,22 146,16 134,28 C124,38 130,54 144,52 C152,50 152,40 145,39" stroke="#7d5038" stroke-width="7"/><path d="M190,42 C186,18 160,8 146,20 C136,30 140,46 154,45 C162,44 162,34 155,33" stroke="#6b4128" stroke-width="11"/><path d="M190,42 C186,18 160,8 146,20 C136,30 140,46 154,45 C162,44 162,34 155,33" stroke="#a06a45" stroke-width="8"/><path d="M190,42 C186,18 160,8 146,20 C136,30 140,46 154,45" stroke="#6b4128" stroke-width="8" stroke-dasharray="1.5 4.5"/></g>
+<path d="M178,46 C190,32 214,34 222,50 C226,58 236,64 238,72 C240,82 230,88 218,86 C206,88 190,84 182,76 C174,68 172,56 178,46 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.8" stroke-linejoin="round"/>
+<g class="ear" style="transform-origin:180px 56px"><path d="M182,54 C168,52 152,60 146,74 C150,80 162,76 172,70 C178,66 182,60 182,54 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.5"/><path d="M178,58 C168,58 158,64 153,72 C162,74 170,68 176,63 Z" fill="#f4b0b6"/><circle cx="151" cy="76" r="3.4" fill="none" stroke="#d4a23a" stroke-width="2"/></g>
+<path d="M180,44 C186,38 194,38 198,42 C192,42 186,44 182,48 Z" fill="#f3e2cc"/><path class="eye" d="M196,58 q7,6 14,0" fill="none" stroke="#3e261d" stroke-width="2.6" stroke-linecap="round"/><path d="M196,58 l-3,-2 M199,61 l-2,-3" stroke="#3e261d" stroke-width="1.4" stroke-linecap="round"/>
+<ellipse cx="206" cy="70" rx="7" ry="4" fill="#f6a8b0" opacity=".65"/><ellipse cx="233" cy="70" rx="3.6" ry="2.6" fill="#d98a94"/><path class="mouth shut" d="M220,80 q6,4 12,-1" fill="none" stroke="#7a4a3a" stroke-width="1.8" stroke-linecap="round"/><path class="mouth open" d="M219,78 q7,10 14,0 q-7,3 -14,0 Z" fill="#8c1d40" stroke="#7a4a3a" stroke-width="1.4"/>
+<path d="M208,86 C206,96 212,104 216,100 C214,96 216,92 214,86 Z" fill="#fff7ec" stroke="#c39c7c" stroke-width="1.3"/>${o.inMouth || ""}</g></g></g></g></g>${o.over || ""}</svg>`;
+  }
+  const nest = (svg, x, y, w, h, cls) => svg.replace("<svg ", `<svg x="${x}" y="${y}" width="${w}" height="${h}" ${cls ? `class="${cls}" ` : ""}`);
   const heart = c => `<svg viewBox="0 0 20 18"><path d="M10 17S1 11 1 5.5A4.5 4.5 0 0 1 10 3a4.5 4.5 0 0 1 9 2.5C19 11 10 17 10 17z" fill="${c}"/></svg>`;
+  /* scenes: every one keeps the legs, head and tail moving */
   const SC = {
-    sip: n => `<div class="dkS dkSip">${IMG(n)}<i class="dkH">${heart("#c2577f")}</i><i class="dkH h2">${heart("#e58aa7")}</i></div>`,
-    pop: n => `<div class="dkS dkPop">${IMG(n)}<i class="dkCk">${cork()}</i><i class="dkSpr"><b></b><b></b><b></b><b></b><b></b><b></b></i><i class="dkPw">POP!</i></div>`,
-    play: n => `<div class="dkS dkPlay">${IMG(n)}<i class="dkJ">${grapes("red")}</i></div>`,
-    laugh: n => `<div class="dkS dkLaugh">${IMG(n)}<i class="dkHa">Ha ha!</i></div>`,
-    barrel: n => `<div class="dkS dkOnB"><i class="dkBr">${barrel()}</i>${IMG(n)}</div>`,
-    leap: n => `<div class="dkS dkLeap">${IMG(n)}</div>`,
-    cheers: n => `<div class="dkS dkCheers">${IMG(n)}<i class="dkCg">${glass("red")}</i><i class="dkTing">✦</i></div>`
+    walk: c => `<div class="vS vWalkIn">${goatSVG({ cape: c })}</div>`,
+    sip: c => `<div class="vS vSip">${goatSVG({ cape: c, vb: "0 0 270 195", over: nest(glass("red"), 214, 128, 34, 58) })}<i class="vH">${heart("#c2577f")}</i><i class="vH h2">${heart("#e58aa7")}</i></div>`,
+    pop: c => `<div class="vS vPop">${goatSVG({ cape: c, vb: "0 -40 290 235", over: `<g class="btl">${nest(bottle("red"), 212, 84, 36, 104)}</g><g class="bcork">${nest(cork(), 224, 78, 12, 16)}</g>` + `<g class="spr">${[[0, 0], [10, -6], [-10, -4], [16, 4], [-16, 6], [4, -12]].map(([x, y]) => `<circle cx="${230 + x}" cy="${84 + y}" r="3.2" fill="#f2cf87"/>`).join("")}</g>`, inMouth: `<g class="mcork">${nest(cork(), 224, 78, 12, 16)}</g>` })}<i class="vPw">POP!</i></div>`,
+    play: c => `<div class="vS vPlay">${goatSVG({ cape: c, vb: "0 -80 260 275", over: `<g class="ball">${nest(grapes("red"), 182, -60, 44, 50)}</g>` })}</div>`,
+    laugh: c => `<div class="vS vLaugh">${goatSVG({ cape: c })}<i class="vHa">Ha ha!</i></div>`,
+    barrel: c => `<div class="vS vBarrel">${goatSVG({ cape: c, vb: "0 -70 430 360", gt: "translate(0,95)", under: nest(barrel(), 205, 186, 130, 104) })}</div>`,
+    dance: c => `<div class="vS vDance">${goatSVG({ cape: c, vb: "0 -30 260 225" })}<i class="vNote">♪</i><i class="vNote n2">♫</i></div>`,
+    hop: c => `<div class="vS vHop">${goatSVG({ cape: c, vb: "0 -60 260 255" })}</div>`
   };
-  const STORIES = [["sip", 4], ["pop", 6], ["play", 11], ["barrel", 8], ["laugh", 3], ["leap", 14], ["sip", 49], ["play", 43], ["pop", 50], ["cheers", 38],
-    ["barrel", 44], ["laugh", 42], ["sip", 54], ["leap", 41], ["play", 34], ["pop", 45], ["cheers", 1], ["barrel", 56], ["sip", 17], ["leap", 53], ["laugh", 15], ["play", 30]];
-  const WALKERS = [5, 38, 44, 51, 56, 8, 26, 32];
-
+  const STORY_TYPES = ["sip", "pop", "play", "barrel", "laugh", "dance", "hop", "sip", "pop", "barrel", "play", "laugh"];
+  const goatCss = `
+.vS{position:relative}.vS .vg{display:block;width:100%;height:auto;overflow:visible}.vS i{position:absolute;font-style:normal;pointer-events:none}.vS i svg{display:block;width:100%;height:auto}
+.vg .leg,.vg .shin,.vg .head,.vg .neck,.vg .ear,.vg .tail,.vg .cape,.vg .bodyall,.vg .shadow,.vg .mv,.vg .ball,.vg .spr,.vg .mcork{transform-box:view-box}
+.vg .mouth.open{opacity:0}.vg .bodyall{transform-origin:120px 182px;animation:vBreath 3s ease-in-out infinite}.vg .head{animation:vHead 3.6s ease-in-out infinite}.vg .ear{animation:vEar 4.4s ease-in-out infinite}.vg .tail{animation:vTail 1.1s ease-in-out infinite}.vg .cape{animation:vCape 2.4s ease-in-out infinite}
+/* walking: diagonal pairs, knees bend while the hoof is lifted */
+.walking .vg .bodyall,.vWalkIn .vg .bodyall{animation:vBob .4s ease-in-out infinite}.walking .vg .head,.vWalkIn .vg .head{animation:vWHead .8s ease-in-out infinite}.walking .vg .tail,.vWalkIn .vg .tail{animation:vTail .4s ease-in-out infinite}.walking .vg .cape,.vWalkIn .vg .cape{animation:vCapeW .8s ease-in-out infinite}
+.walking .vg .leg.near.fl,.walking .vg .leg.far.bl,.vWalkIn .vg .leg.near.fl,.vWalkIn .vg .leg.far.bl{animation:vStep .8s linear infinite}.walking .vg .leg.far.fl,.walking .vg .leg.near.bl,.vWalkIn .vg .leg.far.fl,.vWalkIn .vg .leg.near.bl{animation:vStep .8s linear -.4s infinite}
+.walking .vg .leg.near.fl .shin,.walking .vg .leg.far.bl .shin,.vWalkIn .vg .leg.near.fl .shin,.vWalkIn .vg .leg.far.bl .shin{animation:vKnee .8s ease-in-out infinite}.walking .vg .leg.far.fl .shin,.walking .vg .leg.near.bl .shin,.vWalkIn .vg .leg.far.fl .shin,.vWalkIn .vg .leg.near.bl .shin{animation:vKnee .8s ease-in-out -.4s infinite}
+.walking .vg .shadow,.vWalkIn .vg .shadow{transform-origin:122px 184px;animation:vShadow .4s ease-in-out infinite}
+.trot .vg .leg.near.fl,.trot .vg .leg.far.bl{animation-duration:.5s!important}.trot .vg .leg.far.fl,.trot .vg .leg.near.bl{animation-duration:.5s!important;animation-delay:-.25s!important}.trot .vg .shin{animation-duration:.5s!important}.trot .vg .bodyall{animation:vJumpLoop 1.5s cubic-bezier(.3,.7,.4,1) infinite!important}
+/* drinking: lowers the head into the glass, sips, looks up happy */
+.vSip .neck{animation:vSipN 4.6s ease-in-out infinite}.vSip .head{animation:vSipH 4.6s ease-in-out infinite}.vSip .vg .tail{animation:vTail .35s ease-in-out infinite}
+.vSip .vH{width:9%;top:2%;right:8%;opacity:0;animation:vHeart 4.6s ease-out infinite}.vSip .h2{width:6%;right:18%;top:8%;animation-delay:.4s}
+/* uncorking: bites the cork, pulls, POP, spits it out */
+.vPop .neck{animation:vPopN 4.4s cubic-bezier(.4,0,.3,1) infinite}.vPop .mcork{opacity:0;animation:vMCork 4.4s steps(1) infinite}.vPop .bcork{animation:vBCork 4.4s steps(1) infinite}.vPop .vg .leg.fl{animation:vBrace 4.4s ease-in-out infinite}
+.vPop .spr circle{opacity:0;animation:vSpray 4.4s ease-out infinite}.vPop .spr circle:nth-child(2){--dx:16px;--dy:-34px}.vPop .spr circle:nth-child(3){--dx:-14px;--dy:-30px}.vPop .spr circle:nth-child(4){--dx:26px;--dy:-14px}.vPop .spr circle:nth-child(5){--dx:-24px;--dy:-12px}.vPop .spr circle:nth-child(6){--dx:2px;--dy:-46px}
+.vPop .vPw{right:2%;top:2%;font:900 15px/1 system-ui,sans-serif;color:#f2cf87;text-shadow:0 2px 0 #7a1f3d,0 0 8px rgba(255,255,255,.7);opacity:0;animation:vPopW 4.4s ease-out infinite}
+/* playing: head-butts a bunch of grapes like a ball */
+.vPlay .vg .bodyall{animation:vPlayB 1.6s cubic-bezier(.3,.7,.4,1) infinite}.vPlay .vg .head{animation:vButt 1.6s ease-in-out infinite}.vPlay .ball{animation:vBall 1.6s cubic-bezier(.3,.7,.4,1) infinite;transform-origin:204px -35px}
+.vPlay .vg .leg.fl{animation:vTuckF 1.6s ease-in-out infinite}.vPlay .vg .leg.bl{animation:vTuckB 1.6s ease-in-out infinite}.vPlay .vg .shin{animation:vTuckK 1.6s ease-in-out infinite}
+/* laughing: head back, mouth open, belly shaking */
+.vLaugh .vg .mouth.open{animation:vTalk .26s steps(1) infinite}.vLaugh .vg .mouth.shut{animation:vTalk2 .26s steps(1) infinite}.vLaugh .neck{animation:vLaughN 2.6s ease-in-out infinite}.vLaugh .vg .bodyall{animation:vShake .26s ease-in-out infinite}.vLaugh .vg .leg.fl.near{animation:vStomp 2.6s ease-in-out infinite}
+.vLaugh .vHa{top:-4%;right:-2%;background:#fff;color:#7a1f3d;font:800 12px/1 system-ui,sans-serif;padding:6px 9px;border-radius:14px 14px 14px 3px;box-shadow:0 6px 14px rgba(60,15,30,.18);animation:vHa 2.6s ease-out infinite;white-space:nowrap}
+/* barrel: trots in place, jumps on the barrel, proud hop, jumps down */
+.vBarrel .mv{animation:vBarrel 6s cubic-bezier(.35,.6,.4,1) infinite}.vBarrel .vg .leg.fl{animation:vBarF 6s ease-in-out infinite}.vBarrel .vg .leg.bl{animation:vBarB 6s ease-in-out infinite}.vBarrel .vg .shin{animation:vBarK 6s ease-in-out infinite}.vBarrel .vg .shadow{opacity:0}
+/* dancing: rears up on the back legs, front hooves paddling */
+.vDance .vg .bodyall{animation:vRear 1.8s ease-in-out infinite}.vDance .vg .leg.fl.near{animation:vPaddle .45s ease-in-out infinite}.vDance .vg .leg.fl.far{animation:vPaddle .45s ease-in-out -.22s infinite}.vDance .vg .shin{animation:vTuckK 1.8s ease-in-out infinite}
+.vDance .vNote{color:#9b2c52;font-size:20px;top:4%;right:16%;opacity:0;animation:vNote 1.8s ease-out infinite}.vDance .n2{right:4%;top:14%;animation-delay:.9s;color:#c9a24a}
+/* happy hops */
+.vHop .vg .bodyall{animation:vJumpLoop 1.6s cubic-bezier(.3,.7,.4,1) infinite}.vHop .vg .leg.fl{animation:vTuckF 1.6s ease-in-out infinite}.vHop .vg .leg.bl{animation:vTuckB 1.6s ease-in-out infinite}.vHop .vg .shin{animation:vTuckK 1.6s ease-in-out infinite}.vHop .vg .shadow{transform-origin:122px 184px;animation:vJs 1.6s ease-in-out infinite}
+@keyframes vBreath{50%{transform:scale(1.01,.99)}}@keyframes vHead{0%,100%{transform:rotate(0)}35%{transform:rotate(-5deg)}65%{transform:rotate(3deg)}}@keyframes vEar{0%,70%,100%{transform:rotate(0)}76%{transform:rotate(14deg)}84%{transform:rotate(-5deg)}90%{transform:rotate(8deg)}}
+@keyframes vTail{50%{transform:rotate(-18deg)}}@keyframes vCape{50%{transform:skewX(-3deg) rotate(1deg)}}@keyframes vCapeW{0%,100%{transform:skewX(0)}50%{transform:skewX(-5deg)}}
+@keyframes vStep{0%{transform:rotate(-18deg)}55%{transform:rotate(16deg)}100%{transform:rotate(-18deg)}}@keyframes vKnee{0%,55%,100%{transform:rotate(0)}78%{transform:rotate(34deg)}}
+@keyframes vBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}@keyframes vWHead{0%,100%{transform:rotate(0)}50%{transform:rotate(-3deg)}}@keyframes vShadow{50%{transform:scaleX(.94)}}
+@keyframes vTalk{0%{opacity:1}50%{opacity:0}}@keyframes vTalk2{0%{opacity:0}50%{opacity:1}}
+@keyframes vJumpLoop{0%,100%{transform:none}15%{transform:translateY(5px) scale(1.04,.95)}50%{transform:translateY(-46px) rotate(-6deg)}82%{transform:translateY(0) rotate(1deg)}90%{transform:translateY(3px) scale(1.03,.97)}}
+@keyframes vTuckF{0%,15%,85%,100%{transform:rotate(0)}30%,65%{transform:rotate(-34deg)}}@keyframes vTuckB{0%,15%,85%,100%{transform:rotate(0)}30%,65%{transform:rotate(30deg)}}@keyframes vTuckK{0%,15%,85%,100%{transform:rotate(0)}30%,65%{transform:rotate(40deg)}}@keyframes vJs{50%{transform:scaleX(.55);opacity:.45}}
+@keyframes vSipN{0%,18%,82%,100%{transform:rotate(0)}32%,62%{transform:rotate(42deg)}}@keyframes vSipH{0%,18%,82%,100%{transform:rotate(0)}32%,62%{transform:rotate(8deg)}40%,54%{transform:rotate(14deg)}70%{transform:rotate(-10deg)}}
+@keyframes vHeart{0%,66%{opacity:0;transform:translateY(0) scale(.5)}74%{opacity:1}100%{opacity:0;transform:translateY(-40px) scale(1.2) rotate(12deg)}}
+@keyframes vPopN{0%,12%{transform:rotate(0)}24%,34%{transform:rotate(10deg)}40%{transform:rotate(-6deg)}48%,56%{transform:rotate(-24deg)}66%{transform:rotate(6deg)}76%,100%{transform:rotate(0)}}@keyframes vBCork{0%,35%{opacity:1}36%,100%{opacity:0}}
+@keyframes vMCork{0%,35%{opacity:0}36%,62%{opacity:1}63%,100%{opacity:0}}@keyframes vBrace{0%,24%,70%,100%{transform:rotate(0)}34%,56%{transform:rotate(-10deg)}}
+@keyframes vSpray{0%,40%{opacity:0;transform:translate(0,0)}43%{opacity:1}68%{opacity:0;transform:translate(var(--dx,8px),var(--dy,-40px))}100%{opacity:0}}@keyframes vPopW{0%,42%{opacity:0;transform:scale(.3) rotate(-14deg)}48%{opacity:1;transform:scale(1.25) rotate(-8deg)}64%{opacity:1;transform:scale(1) rotate(-8deg)}76%,100%{opacity:0}}
+@keyframes vPlayB{0%,100%{transform:none}12%{transform:translateY(4px) scale(1.03,.96)}38%{transform:translateY(-26px)}62%{transform:translateY(0)}}@keyframes vButt{0%,22%,60%,100%{transform:rotate(0)}34%{transform:rotate(-14deg)}44%{transform:rotate(6deg)}}
+@keyframes vBall{0%,100%{transform:translate(0,62px) rotate(0)}30%{transform:translate(0,56px) rotate(-20deg)}60%{transform:translate(8px,-36px) rotate(60deg)}84%{transform:translate(2px,30px) rotate(20deg)}}
+@keyframes vLaughN{0%,100%{transform:rotate(0)}20%,80%{transform:rotate(-16deg)}50%{transform:rotate(-10deg)}}@keyframes vShake{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px) scale(1.01,.99)}}@keyframes vStomp{0%,30%,60%,100%{transform:rotate(0)}40%{transform:rotate(-26deg)}50%{transform:rotate(0)}}
+@keyframes vHa{0%,10%{opacity:0;transform:scale(.4)}18%{opacity:1;transform:scale(1.1)}24%,80%{opacity:1;transform:scale(1)}92%,100%{opacity:0;transform:translateY(-8px)}}
+@keyframes vBarrel{0%,18%{transform:translate(0,0)}22%{transform:translate(0,4px) scale(1.03,.96)}36%{transform:translate(80px,-150px) rotate(-8deg)}46%{transform:translate(150px,-88px) rotate(0)}50%{transform:translate(150px,-85px) scale(1.03,.97)}54%,60%{transform:translate(150px,-88px)}64%{transform:translate(150px,-124px)}68%,72%{transform:translate(150px,-88px)}84%{transform:translate(64px,-112px) rotate(8deg)}94%{transform:translate(0,0) scale(1.03,.97)}100%{transform:translate(0,0)}}
+@keyframes vBarF{0%,4%,8%,12%,16%{transform:rotate(0)}2%,10%{transform:rotate(-16deg)}6%,14%{transform:rotate(14deg)}24%,44%,76%,90%{transform:rotate(-38deg)}50%,70%,96%,100%{transform:rotate(0)}}
+@keyframes vBarB{0%,4%,8%,12%,16%{transform:rotate(0)}2%,10%{transform:rotate(14deg)}6%,14%{transform:rotate(-16deg)}24%,44%,76%,90%{transform:rotate(32deg)}50%,70%,96%,100%{transform:rotate(0)}}
+@keyframes vBarK{0%,18%{transform:rotate(0)}24%,44%,76%,90%{transform:rotate(42deg)}50%,70%,96%,100%{transform:rotate(0)}}
+@keyframes vRear{0%,100%{transform:none}30%,70%{transform:rotate(-16deg) translateY(-6px)}50%{transform:rotate(-19deg) translateY(-9px)}}@keyframes vPaddle{0%,100%{transform:rotate(-30deg)}50%{transform:rotate(-58deg)}}
+@keyframes vNote{0%{opacity:0;transform:translate(0,0)}20%{opacity:1}100%{opacity:0;transform:translate(10px,-34px) rotate(14deg)}}
+.dkWalk .dkW{width:118px}.dkWalk .dkW.rv .vg{transform:scaleX(-1)}@media (max-width:700px){.dkWalk .dkW{width:92px}}`;
   const css = `.dkL{position:absolute;left:0;top:0;width:100%;height:0;pointer-events:none;z-index:2}
 .dkI{position:absolute;pointer-events:none;will-change:transform}.dkI svg,.dkI img,.dkMob svg,.dkMob img,.dkWalk svg,.dkWalk img{display:block;width:100%;height:auto}
 .dkI.far{filter:blur(1.2px) saturate(.85);opacity:.55}.dkI.mid{opacity:.9}.dkI.near{filter:drop-shadow(0 14px 18px rgba(60,15,30,.18))}
@@ -128,13 +201,13 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
 .dkI[data-s=r] .dkHa{right:auto;left:-14%;border-radius:14px 14px 3px 14px}.dkI[data-s=r] .dkPw{right:auto;left:-10%}
 @media (prefers-reduced-motion:reduce){.dkL *,.dkWalk *,.dkMob *,.dk-bub i{animation:none!important}.dk-bub{display:none}.dkWalk .dkW{left:46%}.dkS i{display:none}}`;
   const DEMO = document.getElementById("dkDemo");
-  const st = document.createElement("style"); st.textContent = DEMO ? css.replace(/@media \(prefers-reduced-motion:reduce\)\{[^]*$/, "") : css; document.head.appendChild(st);
+  const cssAll = css.replace('@media (prefers-reduced-motion:reduce){', goatCss + '\n@media (prefers-reduced-motion:reduce){.vg *,.vS i{animation:none!important}');
+  const st = document.createElement("style"); st.textContent = DEMO ? cssAll.replace(/@media \(prefers-reduced-motion:reduce\)\{[^]*$/, "") : cssAll; document.head.appendChild(st);
   if (DEMO) { // showcase page: every goat scene, walkers and props, always animated
-    const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride", barrel: "Salta sulla botte", leap: "Salta di gioia", cheers: "Brinda" };
-    const used = {}; DEMO.innerHTML = `<div class="dmG">${STORIES.filter(([t]) => (used[t] = (used[t] || 0) + 1) <= 2).map(([t, n]) => `<figure><div style="width:${t === "barrel" ? 200 : 160}px;margin:auto">${SC[t](n)}</div><figcaption>${L[t]}</figcaption></figure>`).join("")}</div>
-<h2>Caprette che camminano</h2>${WALKERS.slice(0, 4).map((n, i) => `<div class="dkWalk"><div class="dkP" style="left:${20 + i * 15}%;width:46px">${PROPS[["barrel", "bottleR", "grapesR", "flute"][i]]()}</div><div class="dkW${i % 2 ? " rv" : ""}" style="--t:${14 + i * 3}s;animation-delay:-${i * 4}s">${IMG(n)}</div></div>`).join("")}
+    const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride a crepapelle", barrel: "Salta sulla botte", dance: "Balla sulle zampe posteriori", hop: "Salta di gioia" };
+    DEMO.innerHTML = `<div class="dmG">${Object.keys(L).map((t, i) => `<figure><div style="width:${t === "barrel" ? 230 : 190}px;margin:auto">${SC[t](i % 4)}</div><figcaption>${L[t]}</figcaption></figure>`).join("")}</div>
+<h2>Caprette che camminano e trottano</h2>${[0, 1, 2, 3].map(i => `<div class="dkWalk"><div class="dkP" style="left:${20 + i * 15}%;width:46px">${PROPS[["barrel", "bottleR", "grapesR", "flute"][i]]()}</div><div class="dkW walking${i % 2 ? " rv" : ""}${i === 2 ? " trot" : ""}" style="--t:${14 + i * 3}s;animation-delay:-${i * 4}s">${goatSVG({ cape: i })}</div></div>`).join("")}
 <h2>Oggetti</h2><div class="dmP">${Object.keys(PROPS).map(k => `<div style="width:${PSIZE[k]}px" class="dkA ${k.startsWith("grapes") ? "sw" : "fl"}">${PROPS[k]()}</div>`).join("")}</div>`;
-    DEMO.querySelectorAll("img").forEach(i => i.loading = "eager");
     return;
   }
 
@@ -143,7 +216,7 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
   const rnd = () => { seed = (seed + 0x6D2B79F5) >>> 0; let t = seed; t = Math.imul(t ^ t >>> 15, t | 1); t ^= t + Math.imul(t ^ t >>> 7, t | 61); return ((t ^ t >>> 14) >>> 0) / 4294967296; };
   const pick = a => a[Math.floor(rnd() * a.length)];
   const mix = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
-  const stories = mix(STORIES); let si = 0; const nextStory = () => stories[si++ % stories.length];
+  const stories = mix(STORY_TYPES).map((t, i) => [t, (i + Math.floor(rnd() * 4)) % 4]); let si = 0; const nextStory = () => stories[si++ % stories.length];
   const propKeys = Object.keys(PROPS);
 
   const isHome = !!document.querySelector(".hero3, #levels");
@@ -166,12 +239,12 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
       const w = document.createElement("div"); w.className = "dkWalk"; w.setAttribute("aria-hidden", "true");
       const rv = rnd() < .5, t = 26 + Math.round(rnd() * 14), prop = rnd() < .6 ? pick(["barrel", "bottleR", "grapesR", "glassR", "flute", "bottleS"]) : null;
       w.innerHTML = (prop ? `<div class="dkP" style="left:${18 + Math.round(rnd() * 64)}%;width:${Math.round(PSIZE[prop] * .62)}px">${PROPS[prop]()}</div>` : "") +
-        `<div class="dkW${rv ? " rv" : ""}" style="--t:${t}s;animation-delay:-${Math.round(rnd() * t)}s">${IMG(pick(WALKERS))}</div>`;
+        `<div class="dkW walking${rv ? " rv" : ""}${rnd() < .3 ? " trot" : ""}" style="--t:${t}s;animation-delay:-${Math.round(rnd() * t)}s">${goatSVG({ cape: Math.floor(rnd() * 4) })}</div>`;
       el.parentNode.insertBefore(w, el);
     } else if (r < .82) {
       const m = document.createElement("div"); m.className = "dkMob"; m.setAttribute("aria-hidden", "true");
       const [type, n] = nextStory(), a = pick(propKeys), b = pick(propKeys);
-      m.innerHTML = `<div style="width:${Math.round(PSIZE[a] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[a]()}</div><div style="width:${type === "barrel" ? 120 : 96}px">${SC[type](n)}</div><div style="width:${Math.round(PSIZE[b] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[b]()}</div>`;
+      m.innerHTML = `<div style="width:${Math.round(PSIZE[a] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[a]()}</div><div style="width:${type === "barrel" ? 170 : 130}px">${SC[type](n)}</div><div style="width:${Math.round(PSIZE[b] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[b]()}</div>`;
       el.parentNode.insertBefore(m, el);
     }
   });
@@ -184,7 +257,7 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     const depth = kind === "goat" ? (rnd() < .8 ? "near" : "mid") : pick(["far", "mid", "mid", "near", "near"]);
     const sc = depth === "far" ? .7 : depth === "mid" ? .9 : 1.05, rot = Math.round(rnd() * 30 - 15);
     let size;
-    if (kind === "goat") { const [type, n] = nextStory(); size = Math.round((type === "barrel" ? 176 : 134) * (.85 + rnd() * .35)); a.className = "dkA"; a.innerHTML = SC[type](n); }
+    if (kind === "goat") { const [type, n] = nextStory(); size = Math.round((type === "barrel" ? 210 : 165) * (.85 + rnd() * .3)); a.className = "dkA"; a.innerHTML = SC[type](n); }
     else if (kind === "group") { const g = pick(GROUPS); size = Math.round(132 * sc); a.className = "dkA bo"; a.style.position = "relative"; a.style.height = Math.round(size * 1.15) + "px"; a.dataset.g = 1;
       a.innerHTML = g.map(([p, x, yy, s]) => `<div style="position:absolute;left:${x}%;top:${yy}%;width:${(PSIZE[p] * s * 1.05 / 132 * 100).toFixed(1)}%">${PROPS[p]()}</div>`).join(""); }
     else { const p = pick(propKeys); size = Math.round(PSIZE[p] * sc * (.95 + rnd() * .5)); a.className = "dkA " + (p.startsWith("grapes") ? "sw" : "fl"); a.innerHTML = PROPS[p](); }
