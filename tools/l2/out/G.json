@@ -328,6 +328,171 @@
      "Menciones nacionales con mínimos legales, no solo para Rioja"
     ]
    ]
+  },
+  {
+   "c": "r3",
+   "t": [
+    "Carmenère, la specialità del Cile",
+    "Le Carmenère, spécialité du Chili",
+    "Carmenère, Chile's speciality",
+    "Carmenère, la especialidad de Chile"
+   ],
+   "p": [
+    [
+     "Carmenère, Malbec e Pinotage sono tre uve nere legate ciascuna a un paese: Cile, Argentina e Sudafrica. Questi paesi hanno successo anche con le varietà internazionali più note, ma le loro specialità regionali li distinguono in un mercato affollato e sono diventate parte della loro identità vinicola.",
+     "Carmenère, Malbec et Pinotage sont trois cépages noirs liés chacun à un pays : le Chili, l'Argentine et l'Afrique du Sud. Ces pays réussissent aussi avec les cépages internationaux les plus connus, mais leurs spécialités régionales les distinguent sur un marché encombré et font désormais partie de leur identité viticole.",
+     "Carmenère, Malbec and Pinotage are three black grapes each tied to one country: Chile, Argentina and South Africa. These countries also succeed with better-known international grapes, but their regional specialities set them apart in a crowded market and have become part of their wine identity.",
+     "Carmenère, Malbec y Pinotage son tres uvas tintas ligadas cada una a un país: Chile, Argentina y Sudáfrica. Estos países también triunfan con las variedades internacionales más conocidas, pero sus especialidades regionales los diferencian en un mercado saturado y ya forman parte de su identidad vinícola."
+    ],
+    [
+     "Il Carmenère è originario di Bordeaux, dove oggi è quasi scomparso, ed è molto coltivato in Cile. Ha bisogno di una stagione lunga e soleggiata: anche in Cile fatica a maturare, tranne nei siti più caldi e assolati della Central Valley. Se si vendemmia prima della piena maturazione, il vino ha note erbacee pungenti, come peperone verde e foglia di pomodoro; ben maturo, offre invece frutta nera fresca, come la mora.",
+     "Le Carmenère est originaire de Bordeaux, où il a presque disparu, et il est très cultivé au Chili. Il lui faut une saison longue et ensoleillée : même au Chili, il a du mal à mûrir ailleurs que sur les sites les plus chauds et ensoleillés de la Central Valley. Vendangé avant pleine maturité, il donne des notes herbacées marquées, comme le poivron vert et la feuille de tomate ; bien mûr, il offre au contraire des fruits noirs frais, comme la mûre.",
+     "Carmenère comes from Bordeaux, where it is now rarely found, and is widely grown in Chile. It needs a long, sunny season: even in Chile it struggles to ripen except in the warmest, sunniest sites of the Central Valley. Picked before full ripeness, it gives pungent herbaceous notes such as green bell pepper and tomato leaf; fully ripe, it shows fresh black fruit such as blackberry.",
+     "La Carmenère procede de Burdeos, donde hoy casi no se encuentra, y se cultiva mucho en Chile. Necesita una temporada larga y soleada: incluso en Chile le cuesta madurar salvo en los lugares más cálidos y soleados del Central Valley. Si se vendimia antes de la plena madurez, da notas herbáceas intensas, como pimiento verde y hoja de tomate; bien madura, ofrece en cambio fruta negra fresca, como la mora."
+    ],
+    [
+     "Un Carmenère tipico ha colore intenso, acidità da media ad alta, tannini alti e corpo pieno. Spesso matura in botti di rovere, che ne ammorbidiscono i tannini e aggiungono note di caffè e cioccolato; gli esemplari molto buoni o eccellenti sviluppano con l'età note terziarie di cuoio e terra. Si trova in purezza, ma più spesso in taglio con Cabernet Sauvignon e Merlot. In etichetta compare di solito come Wine of Chile.",
+     "Un Carmenère typique a une couleur profonde, une acidité moyenne à élevée, des tanins élevés et un corps plein. Il est souvent élevé en fûts de chêne, qui assouplissent ses tanins et ajoutent des notes de café et de chocolat ; les très bons ou excellents exemples développent avec l'âge des notes tertiaires de cuir et de terre. On le trouve en monocépage, mais plus souvent en assemblage avec le Cabernet Sauvignon et le Merlot. L'étiquette porte en général la mention Wine of Chile.",
+     "A typical Carmenère is deeply coloured, with medium to high acidity, high tannins and full body. It is often matured in oak barrels, which soften its tannins and add coffee and chocolate notes; very good or outstanding examples develop tertiary notes of leather and earth with age. It can be a single-varietal wine but is more often blended with Cabernet Sauvignon and Merlot. Labels usually carry Wine of Chile.",
+     "Una Carmenère típica tiene color intenso, acidez de media a alta, taninos altos y cuerpo pleno. A menudo se cría en barricas de roble, que suavizan sus taninos y aportan notas de café y chocolate; los ejemplos muy buenos o excelentes desarrollan con la edad notas terciarias de cuero y tierra. Puede ser monovarietal, pero es más frecuente en mezcla con Cabernet Sauvignon y Merlot. En la etiqueta suele figurar Wine of Chile."
+    ]
+   ],
+   "keys": [
+    [
+     "Uve nere identitarie: Carmenère (Cile), Malbec (Argentina), Pinotage (Sudafrica)",
+     "Cépages noirs identitaires : Carmenère (Chili), Malbec (Argentine), Pinotage (Afrique du Sud)",
+     "Signature black grapes: Carmenère (Chile), Malbec (Argentina), Pinotage (South Africa)",
+     "Uvas tintas identitarias: Carmenère (Chile), Malbec (Argentina), Pinotage (Sudáfrica)"
+    ],
+    [
+     "Carmenère: origine Bordeaux; serve stagione lunga e soleggiata (Central Valley)",
+     "Carmenère : origine Bordeaux ; il faut une saison longue et ensoleillée (Central Valley)",
+     "Carmenère: from Bordeaux; needs a long, sunny season (Central Valley)",
+     "Carmenère: origen Burdeos; necesita una temporada larga y soleada (Central Valley)"
+    ],
+    [
+     "Poco matura: peperone verde, foglia di pomodoro; matura: mora",
+     "Pas assez mûr : poivron vert, feuille de tomate ; mûr : mûre",
+     "Underripe: green bell pepper, tomato leaf; ripe: blackberry",
+     "Poco madura: pimiento verde, hoja de tomate; madura: mora"
+    ],
+    [
+     "Colore intenso, tannini alti, corpo pieno; rovere: caffè e cioccolato",
+     "Couleur profonde, tanins élevés, corps plein ; chêne : café et chocolat",
+     "Deep colour, high tannin, full body; oak: coffee and chocolate",
+     "Color intenso, taninos altos, cuerpo pleno; roble: café y chocolate"
+    ]
+   ]
+  },
+  {
+   "c": "r3",
+   "t": [
+    "Malbec e Mendoza",
+    "Le Malbec et Mendoza",
+    "Malbec and Mendoza",
+    "Malbec y Mendoza"
+   ],
+   "p": [
+    [
+     "Il Malbec è l'uva nera più importante dell'Argentina. Come il Carmenère viene dal sud-ovest della Francia, ma si è adattato bene al clima più caldo del Sud America. È coltivato in molte zone del paese, ma la maggior parte dei vigneti si trova a Mendoza, una regione in alta quota.",
+     "Le Malbec est le cépage noir le plus important d'Argentine. Comme le Carmenère, il vient du sud-ouest de la France, mais il s'est bien adapté au climat plus chaud de l'Amérique du Sud. On le cultive dans de nombreuses zones du pays, mais la plupart des vignes se trouvent à Mendoza, une région d'altitude.",
+     "Malbec is Argentina's most important black grape. Like Carmenère, it comes from south-west France, but it has adapted well to the warmer South American climate. It is grown in many parts of the country, but most plantings are in Mendoza, a high-altitude region.",
+     "La Malbec es la uva tinta más importante de Argentina. Como la Carmenère, procede del suroeste de Francia, pero se ha adaptado bien al clima más cálido de Sudamérica. Se cultiva en muchas zonas del país, pero la mayor parte de los viñedos está en Mendoza, una región de altura."
+    ],
+    [
+     "Il Malbec dà di solito vini di colore intenso, corpo pieno e tannini alti, con frutta nera come mora e prugna nera. La maturazione in rovere nuovo lo rende più morbido e aggiunge spezie come chiodo di garofano e vaniglia. In bottiglia, gli esemplari molto buoni o eccellenti sviluppano note di frutta secca e carne.",
+     "Le Malbec donne en général des vins à la couleur profonde, corsés et aux tanins élevés, avec des fruits noirs comme la mûre et la prune noire. L'élevage en chêne neuf l'assouplit et ajoute des épices comme le clou de girofle et la vanille. En bouteille, les très bons ou excellents exemples développent des notes de fruits secs et de viande.",
+     "Malbec usually gives deeply coloured, full-bodied wines with high tannins and black fruit such as blackberry and black plum. Maturing in new oak makes it softer and adds spice such as clove and vanilla. In bottle, very good or outstanding examples develop notes of dried fruit and meat.",
+     "La Malbec suele dar vinos de color intenso, con mucho cuerpo y taninos altos, con fruta negra como mora y ciruela negra. La crianza en roble nuevo la suaviza y aporta especias como clavo y vainilla. En botella, los ejemplos muy buenos o excelentes desarrollan notas de fruta pasa y carne."
+    ],
+    [
+     "Si trova spesso in purezza, ma è comune anche il taglio con Cabernet Sauvignon e/o Merlot. In etichetta compaiono di solito il nome del vitigno, la regione Mendoza e la dicitura Wine of Argentina: tre indizi utili per riconoscere un Malbec argentino.",
+     "On le trouve souvent en monocépage, mais l'assemblage avec le Cabernet Sauvignon et/ou le Merlot est courant aussi. L'étiquette indique en général le nom du cépage, la région de Mendoza et la mention Wine of Argentina : trois indices utiles pour reconnaître un Malbec argentin.",
+     "It is often a single-varietal wine, but blending with Cabernet Sauvignon and/or Merlot is common too. Labels usually show the grape name, the region Mendoza and the words Wine of Argentina: three handy clues for spotting an Argentine Malbec.",
+     "Se encuentra a menudo como monovarietal, pero también es habitual mezclarla con Cabernet Sauvignon y/o Merlot. En la etiqueta suelen figurar el nombre de la uva, la región de Mendoza y la mención Wine of Argentina: tres pistas útiles para reconocer una Malbec argentina."
+    ]
+   ],
+   "keys": [
+    [
+     "Malbec: origine sud-ovest della Francia; uva nera n. 1 dell'Argentina",
+     "Malbec : origine sud-ouest de la France ; cépage noir n° 1 d'Argentine",
+     "Malbec: from south-west France; Argentina's leading black grape",
+     "Malbec: origen suroeste de Francia; principal uva tinta de Argentina"
+    ],
+    [
+     "Mendoza: regione in alta quota con la maggior parte dei vigneti",
+     "Mendoza : région d'altitude qui concentre la plupart des vignes",
+     "Mendoza: high-altitude region with most of the plantings",
+     "Mendoza: región de altura con la mayor parte de los viñedos"
+    ],
+    [
+     "Colore intenso, corpo pieno, tannini alti, mora e prugna nera",
+     "Couleur profonde, corps plein, tanins élevés, mûre et prune noire",
+     "Deep colour, full body, high tannin, blackberry and black plum",
+     "Color intenso, cuerpo pleno, taninos altos, mora y ciruela negra"
+    ],
+    [
+     "Rovere nuovo: morbidezza, chiodo di garofano, vaniglia",
+     "Chêne neuf : souplesse, clou de girofle, vanille",
+     "New oak: softness, clove, vanilla",
+     "Roble nuevo: suavidad, clavo, vainilla"
+    ]
+   ]
+  },
+  {
+   "c": "r3",
+   "t": [
+    "Pinotage e Cape Blend",
+    "Le Pinotage et le Cape Blend",
+    "Pinotage and the Cape Blend",
+    "Pinotage y Cape Blend"
+   ],
+   "p": [
+    [
+     "A differenza di Carmenère e Malbec, che vengono dalla Francia, il Pinotage è stato creato apposta per il clima caldo e secco del Sudafrica. È strettamente imparentato con il Pinot Nero e ne condivide la frutta rossa: fragola, lampone, ciliegia rossa. Si coltiva in tutto il Western Cape.",
+     "Contrairement au Carmenère et au Malbec, d'origine française, le Pinotage a été créé tout exprès pour le climat chaud et sec de l'Afrique du Sud. Il est proche parent du Pinot Noir et en partage les fruits rouges : fraise, framboise, cerise rouge. On le cultive dans tout le Western Cape.",
+     "Unlike Carmenère and Malbec, which come from France, Pinotage was bred specially for South Africa's warm, dry climate. It is closely related to Pinot Noir and shares its red fruit: strawberry, raspberry, red cherry. It is grown throughout the Western Cape.",
+     "A diferencia de la Carmenère y la Malbec, de origen francés, la Pinotage se creó expresamente para el clima cálido y seco de Sudáfrica. Está muy emparentada con la Pinot Noir y comparte su fruta roja: fresa, frambuesa, cereza roja. Se cultiva en todo el Western Cape."
+    ],
+    [
+     "I suoi vini hanno di solito tannini medi e acidità alta. Gli stili vanno da rossi fruttati e di medio corpo, con fragola e ciliegia rossa, a vini potenti e di corpo pieno, con frutta rossa e nera concentrata come prugna rossa e mora. Quando entra in contatto con il rovere, il Pinotage può prendere profumi marcati di caffè, cioccolato e fumo.",
+     "Ses vins ont en général des tanins moyens et une acidité élevée. Les styles vont de rouges fruités et de corps moyen, sur la fraise et la cerise rouge, à des vins puissants et corsés, aux fruits rouges et noirs concentrés comme la prune rouge et la mûre. Au contact du chêne, le Pinotage peut prendre des arômes marqués de café, de chocolat et de fumée.",
+     "Its wines usually have medium tannins and high acidity. Styles range from fruity, medium-bodied reds with strawberry and red cherry to powerful, full-bodied wines with concentrated red and black fruit such as red plum and blackberry. In contact with oak, Pinotage can pick up pronounced aromas of coffee, chocolate and smoke.",
+     "Sus vinos suelen tener taninos medios y acidez alta. Los estilos van desde tintos afrutados y de cuerpo medio, con fresa y cereza roja, hasta vinos potentes y con mucho cuerpo, con fruta roja y negra concentrada como ciruela roja y mora. En contacto con el roble, la Pinotage puede adquirir aromas marcados de café, chocolate y humo."
+    ],
+    [
+     "Il Pinotage si trova in purezza oppure in taglio con altre uve come Cabernet Sauvignon e Merlot. Questi tagli che includono il Pinotage sono chiamati comunemente Cape Blend, un termine che può comparire in etichetta accanto a Western Cape e Wine of South Africa.",
+     "Le Pinotage se trouve en monocépage ou en assemblage avec d'autres cépages comme le Cabernet Sauvignon et le Merlot. Ces assemblages qui comprennent du Pinotage sont couramment appelés Cape Blend, une mention qui peut figurer sur l'étiquette à côté de Western Cape et de Wine of South Africa.",
+     "Pinotage appears as a single-varietal wine or blended with other grapes such as Cabernet Sauvignon and Merlot. These blends that include Pinotage are commonly called Cape Blends, a term that can appear on the label alongside Western Cape and Wine of South Africa.",
+     "La Pinotage se encuentra como monovarietal o en mezcla con otras uvas como Cabernet Sauvignon y Merlot. Estas mezclas que incluyen Pinotage se llaman comúnmente Cape Blend, un término que puede aparecer en la etiqueta junto a Western Cape y Wine of South Africa."
+    ]
+   ],
+   "keys": [
+    [
+     "Pinotage: creato per il clima caldo e secco del Sudafrica; parente del Pinot Nero",
+     "Pinotage : créé pour le climat chaud et sec de l'Afrique du Sud ; parent du Pinot Noir",
+     "Pinotage: bred for South Africa's warm, dry climate; related to Pinot Noir",
+     "Pinotage: creada para el clima cálido y seco de Sudáfrica; pariente de la Pinot Noir"
+    ],
+    [
+     "Tannini medi, acidità alta; stili da medio corpo fruttato a pieno e concentrato",
+     "Tanins moyens, acidité élevée ; du style fruité de corps moyen au style corsé et concentré",
+     "Medium tannin, high acidity; from fruity medium body to full and concentrated",
+     "Taninos medios, acidez alta; de afrutado y cuerpo medio a pleno y concentrado"
+    ],
+    [
+     "Con il rovere: caffè, cioccolato, fumo",
+     "Avec le chêne : café, chocolat, fumée",
+     "With oak: coffee, chocolate, smoke",
+     "Con roble: café, chocolate, humo"
+    ],
+    [
+     "Cape Blend: taglio con Pinotage e uve come Cabernet Sauvignon e Merlot",
+     "Cape Blend : assemblage avec Pinotage et des cépages comme Cabernet Sauvignon et Merlot",
+     "Cape Blend: blend with Pinotage plus grapes like Cabernet Sauvignon and Merlot",
+     "Cape Blend: mezcla con Pinotage y uvas como Cabernet Sauvignon y Merlot"
+    ]
+   ]
   }
  ],
  "questions": [],
