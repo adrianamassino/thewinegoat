@@ -368,6 +368,8 @@ details.model .mb p{margin:0 0 8px}
 .mlvl{display:flex;flex-direction:column;gap:2px;text-align:left;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:9px}.mlvl b{font-size:.84rem}.mlvl span{font-size:.72rem;color:var(--muted)}.mlvl[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
 @media (max-width:430px){.mlvls{grid-template-columns:1fr}}
 .mbottom #m-next{position:sticky;bottom:0;box-shadow:0 -8px 14px var(--surface)}
+.mplay:not(.inline) .mbottom #m-next{position:fixed;left:14px;right:14px;width:auto;max-width:none;box-sizing:border-box;bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:95;box-shadow:0 10px 26px rgba(40,10,20,.28);margin:0}
+.mplay:not(.inline) .mbottom:has(#m-next){padding-bottom:calc(78px + env(safe-area-inset-bottom,0px))}
 .tag.tsm{font-size:.68rem;padding:1px 7px}
 .mtapped{margin:6px 0 0;font-size:.85rem;color:var(--warn)}
 .mstreak{font-size:.9rem;color:var(--warn)}
@@ -2732,15 +2734,22 @@ function mBindBottom(){
 }
 let mTick=null;
 function bindMapPlay(){
-  const g=mg; mBindStage(); mBindBottom(); mLastU=0;
+  const g=mg; mBindStage(); mBindBottom(); mLastU=0; if(!g.exam) mVpLock(true);
   const c=$("#m-close"); if(c) c.onclick=mClose;
   if(!g.exam) document.body.classList.add("mlock");
   requestAnimationFrame(()=>{ mApplyNow(); if((g.mode==="name"||g.mode==="type"||g.mode==="grapes")&&!g.fin) mFocus([mCur(g)],false,true); mDraw(); });
   clearInterval(mTick); mTick=setInterval(()=>{ const el=$("#m-clock"); if(el&&mg&&!mg.fin) el.textContent=mClock(mg); else if(!el) clearInterval(mTick); },1000);
 }
 function mgRefresh(){ mDraw(); }
+/* while a map game is open on a phone: no page zoom (it pushed the Next button off screen); pinch only zooms the map */
+let mVpOrig=null;
+function mVpLock(on){ const mv=document.querySelector('meta[name="viewport"]'); if(!mv) return;
+  if(on){ if(mVpOrig===null) mVpOrig=mv.getAttribute("content"); mv.setAttribute("content",mVpOrig.replace(/,?\s*(maximum-scale|user-scalable)=[^,]*/g,"")+", maximum-scale=1, user-scalable=no"); }
+  else if(mVpOrig!==null){ mv.setAttribute("content",mVpOrig); mVpOrig=null; } }
+["gesturestart","gesturechange"].forEach(ev=>document.addEventListener(ev,e=>{ if(mg&&!mg.exam) e.preventDefault(); },{passive:false}));
+document.addEventListener("touchmove",e=>{ if(mg&&!mg.exam&&e.touches.length>1&&!e.target.closest("#m-stage")) e.preventDefault(); },{passive:false});
 function mStart(id,mode,opts){ mg=mgNew(id,mode,Object.assign({cats:[...mCats],len:mLen,lvl:mLvl},opts||{})); mSel=null; render(); }
-function mClose(){ clearTimeout(mAdv); cancelAnimationFrame(mAnim); mg=null; document.body.classList.remove("mlock"); clearInterval(mTick); render(); }
+function mClose(){ mVpLock(false); clearTimeout(mAdv); cancelAnimationFrame(mAnim); mg=null; document.body.classList.remove("mlock"); clearInterval(mTick); render(); }
 window.addEventListener("resize",()=>{ if(mg&&$("#msvg")){ mLastU=0; mApplyVB(); } });
 document.addEventListener("keydown",e=>{ if(!mg||mg.exam) return; if(e.key==="Escape"){ mClose(); } else if(e.key==="Enter"&&mg.fb&&!mg.fb.ok&&e.target.tagName!=="INPUT"){ e.preventDefault(); mNext(); }
   else if(mg.mode==="name"&&!mg.fb&&/^[1-4]$/.test(e.key)&&e.target.tagName!=="INPUT"){ const o=mOptions(mg)[+e.key-1]; if(o!==undefined) mAnswer(o); } });
