@@ -495,6 +495,2263 @@
    ]
   }
  ],
- "questions": [],
+ "questions": [
+  {
+   "c": "r1",
+   "q": [
+    "Da quale regione proviene quasi tutto il vino di Gamay?",
+    "De quelle région provient presque tout le vin de Gamay ?",
+    "Which region produces almost all Gamay wine?",
+    "¿De qué región procede casi todo el vino de Gamay?"
+   ],
+   "o": [
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Bourgogne",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Rodano meridionale",
+     "Rhône méridional",
+     "Southern Rhône",
+     "Ródano meridional"
+    ],
+    [
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon"
+    ]
+   ],
+   "e": [
+    "Il Gamay è famoso nel mondo ma i suoi vini arrivano quasi solo dal Beaujolais.",
+    "Le Gamay est connu partout mais ses vins viennent presque tous du Beaujolais.",
+    "Gamay is known worldwide, yet its wines come almost exclusively from Beaujolais.",
+    "La Gamay es famosa en todo el mundo, pero sus vinos vienen casi solo del Beaujolais."
+   ],
+   "d": [
+    "Il Gamay è un caso raro: un'uva nota a livello internazionale i cui vini nascono quasi tutti in una sola zona, il Beaujolais, subito a sud della Borgogna. Qui il clima moderato e le tecniche di vinificazione scelte producono rossi freschi e fruttati. La Borgogna è vicina ma è la terra del Pinot Noir; Rodano e Languedoc puntano soprattutto su Grenache e Syrah.",
+    "Le Gamay est un cas rare : un cépage connu dans le monde entier dont les vins naissent presque tous dans une seule région, le Beaujolais, juste au sud de la Bourgogne. Le climat modéré et les techniques de vinification choisies y donnent des rouges frais et fruités. La Bourgogne est voisine mais c'est le domaine du Pinot Noir ; le Rhône et le Languedoc misent surtout sur le Grenache et la Syrah.",
+    "Gamay is a rare case: an internationally known grape whose wines come almost entirely from one region, Beaujolais, just south of Burgundy. There, a moderate climate and the winemaking techniques chosen give fresh, fruity reds. Burgundy is next door but is Pinot Noir country; the Rhône and Languedoc rely mainly on Grenache and Syrah.",
+    "La Gamay es un caso raro: una uva conocida internacionalmente cuyos vinos nacen casi todos en una sola región, el Beaujolais, justo al sur de Borgoña. Allí el clima moderado y las técnicas de elaboración elegidas dan tintos frescos y afrutados. Borgoña está al lado, pero es tierra de Pinot Noir; el Ródano y el Languedoc se basan sobre todo en Garnacha y Syrah."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale struttura è tipica di un vino di Gamay?",
+    "Quelle structure est typique d'un vin de Gamay ?",
+    "Which structure is typical of a Gamay wine?",
+    "¿Qué estructura es típica de un vino de Gamay?"
+   ],
+   "o": [
+    [
+     "Acidità alta, tannini da bassi a medi",
+     "Acidité élevée, tanins faibles à moyens",
+     "High acidity, low to medium tannins",
+     "Acidez alta, taninos de bajos a medios"
+    ],
+    [
+     "Acidità bassa, tannini alti",
+     "Acidité faible, tanins élevés",
+     "Low acidity, high tannins",
+     "Acidez baja, taninos altos"
+    ],
+    [
+     "Acidità media, tannini alti",
+     "Acidité moyenne, tanins élevés",
+     "Medium acidity, high tannins",
+     "Acidez media, taninos altos"
+    ],
+    [
+     "Acidità bassa, tannini da bassi a medi",
+     "Acidité faible, tanins faibles à moyens",
+     "Low acidity, low to medium tannins",
+     "Acidez baja, taninos de bajos a medios"
+    ]
+   ],
+   "e": [
+    "Il Gamay unisce acidità alta e tannini contenuti, con frutta rossa in evidenza.",
+    "Le Gamay associe acidité élevée et tanins discrets, avec un fruit rouge marqué.",
+    "Gamay combines high acidity with modest tannins and prominent red fruit.",
+    "La Gamay combina acidez alta y taninos moderados, con fruta roja marcada."
+   ],
+   "d": [
+    "Il Gamay dà rossi freschi grazie all'acidità alta, mentre i tannini restano da bassi a medi; in più, le tecniche usate nel Beaujolais estraggono colore senza estrarre troppi tannini. I profumi sono di lampone, ciliegia rossa e prugna rossa. Tannini alti e acidità bassa descrivono uve molto diverse, più adatte a climi caldi o a vini di lunga maturazione.",
+    "Le Gamay donne des rouges frais grâce à son acidité élevée, tandis que ses tanins restent faibles à moyens ; de plus, les techniques du Beaujolais extraient la couleur sans trop de tanins. Les arômes évoquent la framboise, la cerise rouge et la prune rouge. Des tanins élevés et une acidité faible décrivent des cépages très différents, plutôt de climat chaud ou de longue garde.",
+    "Gamay gives fresh reds thanks to high acidity, while its tannins stay low to medium; on top of that, Beaujolais techniques extract colour without much tannin. Aromas recall raspberry, red cherry and red plum. High tannin and low acidity describe very different grapes, more suited to warm climates or long-aged wines.",
+    "La Gamay da tintos frescos gracias a su acidez alta, mientras que los taninos se quedan entre bajos y medios; además, las técnicas del Beaujolais extraen color sin demasiado tanino. Los aromas recuerdan a frambuesa, cereza roja y ciruela roja. Taninos altos y acidez baja describen uvas muy distintas, más propias de climas cálidos o de vinos de larga guarda."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché alcuni Beaujolais profumano di banana e caramella?",
+    "Pourquoi certains Beaujolais sentent-ils la banane et le bonbon ?",
+    "Why do some Beaujolais wines smell of banana and candy?",
+    "¿Por qué algunos Beaujolais huelen a plátano y caramelo?"
+   ],
+   "o": [
+    [
+     "Per le tecniche che estraggono colore ma pochi tannini",
+     "À cause des techniques qui extraient la couleur mais peu de tanins",
+     "Because of techniques that extract colour but little tannin",
+     "Por técnicas que extraen color pero pocos taninos"
+    ],
+    [
+     "Per la lunga maturazione in botti di rovere nuovo",
+     "À cause d'un long élevage en fûts de chêne neuf",
+     "Because of long maturation in new oak barrels",
+     "Por una larga crianza en barricas de roble nuevo"
+    ],
+    [
+     "Per l'invecchiamento prolungato in bottiglia",
+     "À cause d'un vieillissement prolongé en bouteille",
+     "Because of extended ageing in bottle",
+     "Por un envejecimiento prolongado en botella"
+    ],
+    [
+     "Per le rese molto basse delle viti vecchie",
+     "À cause des rendements très faibles des vieilles vignes",
+     "Because of very low yields from old vines",
+     "Por los rendimientos muy bajos de las viñas viejas"
+    ]
+   ],
+   "e": [
+    "Le tecniche tipiche del Beaujolais massimizzano il colore, limitano i tannini e possono dare note di banana e caramella.",
+    "Les techniques du Beaujolais maximisent la couleur, limitent les tanins et peuvent donner banane et bonbon.",
+    "Beaujolais techniques maximise colour, limit tannin and can create banana and candy aromas.",
+    "Las técnicas del Beaujolais maximizan el color, limitan los taninos y pueden dar plátano y caramelo."
+   ],
+   "d": [
+    "Nel Beaujolais si usano spesso metodi di vinificazione pensati per estrarre molto colore e pochi tannini, così da ottenere rossi morbidi e fruttati. Un effetto secondario di queste tecniche sono i profumi di banana e caramella. Non derivano dal legno, che il Gamay vede raramente, né dall'invecchiamento in bottiglia, che anzi fa perdere il frutto fresco.",
+    "Dans le Beaujolais, on utilise souvent des méthodes qui extraient beaucoup de couleur et peu de tanins, pour obtenir des rouges souples et fruités. Ces techniques peuvent aussi produire des arômes de banane et de bonbon. Ils ne viennent pas du bois, que le Gamay voit rarement, ni du vieillissement en bouteille, qui lui fait au contraire perdre son fruit frais.",
+    "In Beaujolais, winemakers often use methods that extract plenty of colour and little tannin, to make soft, fruity reds. A side effect of these techniques is aromas of banana and candy. They do not come from oak, which Gamay rarely sees, nor from bottle ageing, which actually makes these wines lose their fresh fruit.",
+    "En el Beaujolais se usan a menudo métodos que extraen mucho color y pocos taninos, para lograr tintos suaves y afrutados. Un efecto de estas técnicas son los aromas de plátano y caramelo. No proceden de la madera, que la Gamay rara vez ve, ni del envejecimiento en botella, que de hecho le hace perder la fruta fresca."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Dove si trova il Beaujolais?",
+    "Où se situe le Beaujolais ?",
+    "Where is Beaujolais located?",
+    "¿Dónde está el Beaujolais?"
+   ],
+   "o": [
+    [
+     "Subito a sud della Borgogna",
+     "Juste au sud de la Bourgogne",
+     "Directly south of Burgundy",
+     "Justo al sur de Borgoña"
+    ],
+    [
+     "Subito a nord dello Champagne",
+     "Juste au nord de la Champagne",
+     "Directly north of Champagne",
+     "Justo al norte de Champagne"
+    ],
+    [
+     "A est della Provenza",
+     "À l'est de la Provence",
+     "East of Provence",
+     "Al este de Provenza"
+    ],
+    [
+     "A ovest di Bordeaux",
+     "À l'ouest de Bordeaux",
+     "West of Bordeaux",
+     "Al oeste de Burdeos"
+    ]
+   ],
+   "e": [
+    "Il Beaujolais è una regione dal clima moderato posta immediatamente a sud della Borgogna.",
+    "Le Beaujolais est une région au climat modéré située juste au sud de la Bourgogne.",
+    "Beaujolais is a moderate-climate region lying immediately south of Burgundy.",
+    "El Beaujolais es una región de clima moderado situada justo al sur de Borgoña."
+   ],
+   "d": [
+    "Il Beaujolais confina a nord con la Borgogna e ha un clima moderato, adatto a un'uva come il Gamay che dà vini freschi e di corpo leggero o medio. Anche il sistema delle denominazioni ricorda quello del Rodano, che si trova più a sud: una base regionale, un livello Villages e, in cima, i cru come Fleurie.",
+    "Le Beaujolais touche la Bourgogne au nord et jouit d'un climat modéré, adapté à un cépage comme le Gamay qui donne des vins frais, légers à moyennement corsés. Son système d'appellations rappelle celui du Rhône, situé plus au sud : une base régionale, un niveau Villages et, au sommet, les crus comme Fleurie.",
+    "Beaujolais borders Burgundy to the north and has a moderate climate, well suited to a grape like Gamay that gives fresh, light- to medium-bodied wines. Its appellation system also resembles that of the Rhône further south: a regional base, a Villages level and, at the top, crus such as Fleurie.",
+    "El Beaujolais linda al norte con Borgoña y tiene un clima moderado, adecuado para una uva como la Gamay, que da vinos frescos de cuerpo ligero a medio. Su sistema de denominaciones recuerda además al del Ródano, más al sur: una base regional, un nivel Villages y, en la cima, los crus como Fleurie."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale denominazione dà i vini più leggeri e semplici del Beaujolais?",
+    "Quelle appellation donne les vins les plus légers et simples du Beaujolais ?",
+    "Which appellation gives the lightest, simplest wines of Beaujolais?",
+    "¿Qué denominación da los vinos más ligeros y sencillos del Beaujolais?"
+   ],
+   "o": [
+    [
+     "Beaujolais AOC",
+     "Beaujolais AOC",
+     "Beaujolais AOC",
+     "Beaujolais AOC"
+    ],
+    [
+     "Beaujolais Villages AOC",
+     "Beaujolais Villages AOC",
+     "Beaujolais Villages AOC",
+     "Beaujolais Villages AOC"
+    ],
+    [
+     "Fleurie AOC",
+     "Fleurie AOC",
+     "Fleurie AOC",
+     "Fleurie AOC"
+    ],
+    [
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC"
+    ]
+   ],
+   "e": [
+    "Beaujolais AOC è la base: uve soprattutto da vigneti piani, fertili e ad alta resa del sud.",
+    "Le Beaujolais AOC est la base : raisins surtout de vignes plates, fertiles et productives du sud.",
+    "Beaujolais AOC is the base level, mostly from flat, fertile, high-yielding southern vineyards.",
+    "Beaujolais AOC es la base: uva sobre todo de viñedos llanos, fértiles y de alto rendimiento del sur."
+   ],
+   "d": [
+    "Beaujolais AOC può usare uve da tutta la regione, ma per lo più arrivano dalla parte sud, pianeggiante e fertile. Rese alte significano meno concentrazione: ecco perché questi sono i vini più leggeri e semplici. Beaujolais Villages, da pendii nel nord, ha più intensità e corpo; i cru come Fleurie sono i più concentrati e strutturati.",
+    "Le Beaujolais AOC peut utiliser des raisins de toute la région, mais ils proviennent surtout du sud, plat et fertile. Des rendements élevés signifient moins de concentration : voilà pourquoi ce sont les vins les plus légers et simples. Le Beaujolais Villages, issu de coteaux du nord, a plus d'intensité et de corps ; les crus comme Fleurie sont les plus concentrés et structurés.",
+    "Beaujolais AOC may use grapes from anywhere in the region, but most come from the flat, fertile south. High yields mean less concentration, which is why these are the lightest and simplest wines. Beaujolais Villages, from northern slopes, has more intensity and body; crus such as Fleurie are the most concentrated and structured.",
+    "Beaujolais AOC puede usar uva de toda la región, pero la mayoría viene del sur, llano y fértil. Rendimientos altos implican menos concentración: por eso son los vinos más ligeros y sencillos. Beaujolais Villages, de laderas del norte, tiene más intensidad y cuerpo; los crus como Fleurie son los más concentrados y estructurados."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché i Beaujolais Villages hanno più intensità e corpo del Beaujolais di base?",
+    "Pourquoi les Beaujolais Villages ont-ils plus d'intensité et de corps que le Beaujolais de base ?",
+    "Why do Beaujolais Villages wines have more intensity and body than basic Beaujolais?",
+    "¿Por qué los Beaujolais Villages tienen más intensidad y cuerpo que el Beaujolais básico?"
+   ],
+   "o": [
+    [
+     "Pendii soleggiati e suoli caldi e drenanti aiutano la maturazione",
+     "Coteaux ensoleillés et sols chauds et drainants favorisent la maturité",
+     "Sunny slopes and warm, free-draining soils help ripening",
+     "Laderas soleadas y suelos cálidos y drenantes ayudan a madurar"
+    ],
+    [
+     "Pianure fertili e rese alte aumentano la concentrazione",
+     "Plaines fertiles et rendements élevés augmentent la concentration",
+     "Fertile plains and high yields increase concentration",
+     "Llanuras fértiles y rendimientos altos aumentan la concentración"
+    ],
+    [
+     "Lunga maturazione in rovere nuovo aggiunge corpo",
+     "Un long élevage en chêne neuf ajoute du corps",
+     "Long maturation in new oak adds body",
+     "Una larga crianza en roble nuevo añade cuerpo"
+    ],
+    [
+     "Un clima più fresco e nebbioso rallenta la maturazione",
+     "Un climat plus frais et brumeux ralentit la maturité",
+     "A cooler, foggier climate slows ripening",
+     "Un clima más fresco y brumoso ralentiza la maduración"
+    ]
+   ],
+   "e": [
+    "Nel nord, i vigneti in pendio prendono più sole e i suoli caldi e drenanti favoriscono la maturazione.",
+    "Au nord, les coteaux reçoivent plus de soleil et les sols chauds et drainants favorisent la maturité.",
+    "In the north, sloping vineyards get more sun and warm, free-draining soils aid ripening.",
+    "En el norte, las laderas reciben más sol y los suelos cálidos y drenantes favorecen la maduración."
+   ],
+   "d": [
+    "I villaggi del nord con diritto alla denominazione Beaujolais Villages hanno vigneti in pendio, più esposti al sole, e suoli caldi e ben drenati. Uve più mature danno vini con maggiore intensità di frutto e più corpo. Le pianure fertili ad alta resa sono invece tipiche del Beaujolais di base, e il Gamay vede raramente il legno.",
+    "Les villages du nord qui ont droit à l'appellation Beaujolais Villages possèdent des vignes en coteaux, mieux exposées au soleil, et des sols chauds et bien drainés. Des raisins plus mûrs donnent des vins plus intenses en fruit et plus corsés. Les plaines fertiles à hauts rendements sont au contraire typiques du Beaujolais de base, et le Gamay voit rarement le bois.",
+    "The northern villages entitled to Beaujolais Villages have sloping vineyards with more sun exposure and warm, well-drained soils. Riper grapes give wines with greater fruit intensity and more body. Fertile, high-yielding plains are instead typical of basic Beaujolais, and Gamay rarely sees oak.",
+    "Los pueblos del norte con derecho a la denominación Beaujolais Villages tienen viñedos en ladera, más expuestos al sol, y suelos cálidos y bien drenados. Una uva más madura da vinos con más intensidad de fruta y más cuerpo. Las llanuras fértiles de alto rendimiento son en cambio típicas del Beaujolais básico, y la Gamay rara vez ve la madera."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Che cos'è Fleurie AOC?",
+    "Qu'est-ce que Fleurie AOC ?",
+    "What is Fleurie AOC?",
+    "¿Qué es Fleurie AOC?"
+   ],
+   "o": [
+    [
+     "Uno dei cru del Beaujolais",
+     "L'un des crus du Beaujolais",
+     "One of the Beaujolais crus",
+     "Uno de los crus del Beaujolais"
+    ],
+    [
+     "Uno dei cru del Rodano meridionale",
+     "L'un des crus du Rhône méridional",
+     "One of the Southern Rhône crus",
+     "Uno de los crus del Ródano meridional"
+    ],
+    [
+     "Una denominazione di rosati della Provenza",
+     "Une appellation de rosés de Provence",
+     "A Provence rosé appellation",
+     "Una denominación de rosados de Provenza"
+    ],
+    [
+     "Un villaggio del Languedoc-Roussillon",
+     "Un village du Languedoc-Roussillon",
+     "A Languedoc-Roussillon village",
+     "Un pueblo del Languedoc-Roussillon"
+    ]
+   ],
+   "e": [
+    "Fleurie è uno dei dieci cru del Beaujolais, il livello più alto della piramide, a base di Gamay.",
+    "Fleurie est l'un des dix crus du Beaujolais, sommet de la pyramide, à base de Gamay.",
+    "Fleurie is one of the ten Beaujolais crus, the top of the pyramid, made from Gamay.",
+    "Fleurie es uno de los diez crus del Beaujolais, la cima de la pirámide, elaborado con Gamay."
+   ],
+   "d": [
+    "All'interno della zona Beaujolais Villages, dieci aree hanno ottenuto una denominazione propria: i cru. Fleurie AOC è tra i più noti. Questi vini di Gamay sono i più concentrati e strutturati della regione, con frutta rossa intensa e finale da medio a lungo; molti vanno bevuti giovani, ma alcuni possono evolvere in bottiglia.",
+    "Au sein de la zone Beaujolais Villages, dix secteurs ont obtenu leur propre appellation : les crus. Fleurie AOC compte parmi les plus connus. Ces vins de Gamay sont les plus concentrés et structurés de la région, avec un fruit rouge intense et une finale moyenne à longue ; beaucoup se boivent jeunes, mais certains peuvent évoluer en bouteille.",
+    "Within the Beaujolais Villages area, ten zones have been given their own appellation: the crus. Fleurie AOC is among the best known. These Gamay wines are the most concentrated and structured of the region, with intense red fruit and a medium to long finish; many are drunk young, but some can develop in bottle.",
+    "Dentro de la zona Beaujolais Villages, diez áreas tienen denominación propia: los crus. Fleurie AOC es de los más conocidos. Estos vinos de Gamay son los más concentrados y estructurados de la región, con fruta roja intensa y final de medio a largo; muchos se beben jóvenes, pero algunos pueden evolucionar en botella."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché il Beaujolais si serve spesso leggermente fresco?",
+    "Pourquoi sert-on souvent le Beaujolais légèrement frais ?",
+    "Why is Beaujolais often served lightly chilled?",
+    "¿Por qué el Beaujolais se sirve a menudo ligeramente fresco?"
+   ],
+   "o": [
+    [
+     "Per esaltare la freschezza della sua frutta rossa delicata",
+     "Pour souligner la fraîcheur de son fruit rouge délicat",
+     "To highlight the freshness of its delicate red fruit",
+     "Para realzar la frescura de su fruta roja delicada"
+    ],
+    [
+     "Per ammorbidire i suoi tannini molto alti",
+     "Pour assouplir ses tanins très élevés",
+     "To soften its very high tannins",
+     "Para suavizar sus taninos muy altos"
+    ],
+    [
+     "Per nascondere i profumi del rovere nuovo",
+     "Pour masquer les arômes du chêne neuf",
+     "To hide the aromas of new oak",
+     "Para ocultar los aromas del roble nuevo"
+    ],
+    [
+     "Per attenuare la sua dolcezza marcata",
+     "Pour atténuer sa douceur marquée",
+     "To tone down its marked sweetness",
+     "Para atenuar su dulzor marcado"
+    ]
+   ],
+   "e": [
+    "Una temperatura leggermente fresca mette in risalto la vivacità del frutto rosso del Gamay.",
+    "Une température un peu fraîche met en valeur la vivacité du fruit rouge du Gamay.",
+    "A slightly cool temperature brings out the freshness of Gamay's red fruit.",
+    "Una temperatura algo fresca resalta la viveza de la fruta roja de la Gamay."
+   ],
+   "d": [
+    "Il Beaujolais è un rosso secco, con tannini bassi o medi, acidità alta e quasi mai segni di legno. Il suo pregio è la frutta rossa fresca e delicata, che una temperatura leggermente fresca valorizza. Le altre risposte non reggono: i tannini non sono alti, il rovere è raro e il vino non è dolce.",
+    "Le Beaujolais est un rouge sec, aux tanins faibles à moyens, à l'acidité élevée et presque jamais boisé. Son atout est un fruit rouge frais et délicat, qu'une température légèrement fraîche met en valeur. Les autres réponses ne tiennent pas : les tanins ne sont pas élevés, le chêne est rare et le vin n'est pas doux.",
+    "Beaujolais is a dry red with low to medium tannins, high acidity and almost never any oak character. Its strength is fresh, delicate red fruit, which a slightly cool temperature shows off. The other answers do not fit: tannins are not high, oak is rare and the wine is not sweet.",
+    "El Beaujolais es un tinto seco, con taninos bajos o medios, acidez alta y casi nunca carácter de madera. Su punto fuerte es la fruta roja fresca y delicada, que una temperatura ligeramente fresca pone en valor. Las demás respuestas no encajan: los taninos no son altos, el roble es raro y el vino no es dulce."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Di che cosa ha bisogno la Grenache per maturare bene?",
+    "De quoi le Grenache a-t-il besoin pour bien mûrir ?",
+    "What does Grenache need to ripen successfully?",
+    "¿Qué necesita la Garnacha para madurar bien?"
+   ],
+   "o": [
+    [
+     "Un clima caldo",
+     "Un climat chaud",
+     "A warm climate",
+     "Un clima cálido"
+    ],
+    [
+     "Un clima fresco",
+     "Un climat frais",
+     "A cool climate",
+     "Un clima fresco"
+    ],
+    [
+     "Molta pioggia d'estate",
+     "Beaucoup de pluie en été",
+     "Plenty of summer rain",
+     "Mucha lluvia en verano"
+    ],
+    [
+     "Rese molto alte",
+     "Des rendements très élevés",
+     "Very high yields",
+     "Rendimientos muy altos"
+    ]
+   ],
+   "e": [
+    "La Grenache è un'uva nera che matura bene solo con il caldo.",
+    "Le Grenache est un cépage noir qui ne mûrit bien qu'avec de la chaleur.",
+    "Grenache is a black grape that only ripens properly with warmth.",
+    "La Garnacha es una uva tinta que solo madura bien con calor."
+   ],
+   "d": [
+    "La Grenache ha bisogno di un clima caldo: per questo prospera nel Rodano meridionale, in Languedoc-Roussillon, in Priorat e nelle calde Barossa Valley e McLaren Vale. Matura, ha molto zucchero e poca acidità. Inoltre dà i vini migliori quando le rese sono controllate, quindi rese molto alte vanno nella direzione sbagliata.",
+    "Le Grenache a besoin d'un climat chaud : c'est pourquoi il prospère dans le Rhône méridional, en Languedoc-Roussillon, au Priorat et dans les chaudes Barossa Valley et McLaren Vale. Mûr, il est riche en sucre et pauvre en acidité. Il donne aussi ses meilleurs vins quand les rendements sont maîtrisés : des rendements très élevés vont donc dans le mauvais sens.",
+    "Grenache needs a warm climate, which is why it thrives in the Southern Rhône, Languedoc-Roussillon, Priorat and the warm Barossa Valley and McLaren Vale. When ripe it is high in sugar and low in acidity. It also gives its best wines when yields are controlled, so very high yields work against quality.",
+    "La Garnacha necesita un clima cálido: por eso prospera en el Ródano meridional, el Languedoc-Roussillon, el Priorat y las cálidas Barossa Valley y McLaren Vale. Madura, tiene mucho azúcar y poca acidez. Además da sus mejores vinos con rendimientos controlados, así que unos rendimientos muy altos van en contra de la calidad."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Come sono di solito le uve di Grenache mature?",
+    "Comment sont en général les raisins de Grenache mûrs ?",
+    "What are ripe Grenache grapes typically like?",
+    "¿Cómo suelen ser las uvas de Garnacha maduras?"
+   ],
+   "o": [
+    [
+     "Molto zucchero e poca acidità",
+     "Beaucoup de sucre et peu d'acidité",
+     "High sugar and low acidity",
+     "Mucho azúcar y poca acidez"
+    ],
+    [
+     "Poco zucchero e molta acidità",
+     "Peu de sucre et beaucoup d'acidité",
+     "Low sugar and high acidity",
+     "Poco azúcar y mucha acidez"
+    ],
+    [
+     "Buccia spessa e tannini alti",
+     "Peau épaisse et tanins élevés",
+     "Thick skins and high tannin",
+     "Piel gruesa y taninos altos"
+    ],
+    [
+     "Molta acidità e tannini alti",
+     "Beaucoup d'acidité et tanins élevés",
+     "High acidity and high tannin",
+     "Mucha acidez y taninos altos"
+    ]
+   ],
+   "e": [
+    "La Grenache matura accumula zucchero (quindi alcol) ma conserva poca acidità.",
+    "Le Grenache mûr accumule du sucre (donc de l'alcool) mais garde peu d'acidité.",
+    "Ripe Grenache builds up sugar (hence alcohol) but keeps little acidity.",
+    "La Garnacha madura acumula azúcar (y por tanto alcohol) pero conserva poca acidez."
+   ],
+   "d": [
+    "Nel caldo in cui cresce, la Grenache accumula molto zucchero e perde acidità: ne derivano vini spesso alcolici e morbidi, come i Châteauneuf-du-Pape di corpo pieno. Ha però la buccia sottile, quindi i tannini sono da bassi a medi. Per questo si taglia con Syrah o Tempranillo, che portano colore, acidità e tannini.",
+    "Dans la chaleur où il pousse, le Grenache accumule beaucoup de sucre et perd de l'acidité : ses vins sont souvent alcooleux et souples, comme les Châteauneuf-du-Pape corsés. Sa peau est en revanche fine, d'où des tanins faibles à moyens. C'est pourquoi on l'assemble à la Syrah ou au Tempranillo, qui apportent couleur, acidité et tanins.",
+    "In the warmth where it grows, Grenache builds up a lot of sugar and loses acidity, so its wines are often high in alcohol and soft, like full-bodied Châteauneuf-du-Pape. Its skins are thin, however, so tannins are low to medium. That is why it is blended with Syrah or Tempranillo, which add colour, acidity and tannin.",
+    "Con el calor en que crece, la Garnacha acumula mucho azúcar y pierde acidez, así que sus vinos suelen ser alcohólicos y suaves, como los Châteauneuf-du-Pape con mucho cuerpo. Su piel, en cambio, es fina, por lo que los taninos son de bajos a medios. Por eso se mezcla con Syrah o Tempranillo, que aportan color, acidez y taninos."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché i vini di Grenache hanno tannini da bassi a medi?",
+    "Pourquoi les vins de Grenache ont-ils des tanins faibles à moyens ?",
+    "Why do Grenache wines have low to medium tannins?",
+    "¿Por qué los vinos de Garnacha tienen taninos de bajos a medios?"
+   ],
+   "o": [
+    [
+     "Perché la sua buccia è sottile",
+     "Parce que sa peau est fine",
+     "Because its skins are thin",
+     "Porque su piel es fina"
+    ],
+    [
+     "Perché matura in climi freschi",
+     "Parce qu'il mûrit en climat frais",
+     "Because it ripens in cool climates",
+     "Porque madura en climas frescos"
+    ],
+    [
+     "Perché si vendemmia sempre acerba",
+     "Parce qu'on le vendange toujours vert",
+     "Because it is always picked unripe",
+     "Porque siempre se vendimia verde"
+    ],
+    [
+     "Perché matura sempre in legno nuovo",
+     "Parce qu'il est toujours élevé en bois neuf",
+     "Because it is always aged in new oak",
+     "Porque siempre se cría en roble nuevo"
+    ]
+   ],
+   "e": [
+    "La buccia sottile contiene meno tannini, quindi i vini di Grenache restano morbidi.",
+    "Une peau fine contient moins de tanins, d'où des vins de Grenache souples.",
+    "Thin skins hold less tannin, so Grenache wines stay soft.",
+    "La piel fina contiene menos taninos, así que los vinos de Garnacha son suaves."
+   ],
+   "d": [
+    "I tannini del vino rosso arrivano soprattutto dalle bucce. La Grenache ha bucce sottili e quindi dà vini con tannini da bassi a medi e frutta rossa come fragola e ciliegia. Cresce in climi caldi, non freschi, e i vini semplici spesso non vedono affatto il legno; quando c'è, alcuni preferiscono botti vecchie.",
+    "Les tanins d'un vin rouge viennent surtout des peaux. Le Grenache a une peau fine et donne donc des vins aux tanins faibles à moyens, avec des fruits rouges comme la fraise et la cerise. Il pousse en climat chaud, non frais, et les vins simples ne voient souvent pas le bois ; quand il y en a, certains préfèrent des fûts anciens.",
+    "A red wine's tannins come mainly from the skins. Grenache has thin skins, so it gives wines with low to medium tannins and red fruit such as strawberry and cherry. It grows in warm, not cool, climates, and simple wines are often unoaked; when oak is used, some producers prefer old barrels.",
+    "Los taninos de un tinto proceden sobre todo de la piel. La Garnacha tiene piel fina, así que da vinos con taninos de bajos a medios y fruta roja como fresa y cereza. Crece en climas cálidos, no frescos, y los vinos sencillos a menudo no ven madera; cuando la hay, algunos prefieren barricas usadas."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale combinazione di profumi è tipica della Grenache?",
+    "Quelle combinaison d'arômes est typique du Grenache ?",
+    "Which combination of aromas is typical of Grenache?",
+    "¿Qué combinación de aromas es típica de la Garnacha?"
+   ],
+   "o": [
+    [
+     "Fragola, ciliegia rossa, pepe bianco",
+     "Fraise, cerise rouge, poivre blanc",
+     "Strawberry, red cherry, white pepper",
+     "Fresa, cereza roja, pimienta blanca"
+    ],
+    [
+     "Mora, peperone verde, foglia di pomodoro",
+     "Mûre, poivron vert, feuille de tomate",
+     "Blackberry, green pepper, tomato leaf",
+     "Mora, pimiento verde, hoja de tomate"
+    ],
+    [
+     "Mora, prugna nera, chiodo di garofano",
+     "Mûre, prune noire, clou de girofle",
+     "Blackberry, black plum, clove",
+     "Mora, ciruela negra, clavo"
+    ],
+    [
+     "Banana, caramella, lampone",
+     "Banane, bonbon, framboise",
+     "Banana, candy, raspberry",
+     "Plátano, caramelo, frambuesa"
+    ]
+   ],
+   "e": [
+    "La Grenache dà frutta rossa (fragola, prugna e ciliegia rossa) e talvolta spezie come pepe bianco e liquirizia.",
+    "Le Grenache donne des fruits rouges (fraise, prune et cerise rouges) et parfois poivre blanc et réglisse.",
+    "Grenache gives red fruit (strawberry, red plum, red cherry) and sometimes white pepper and liquorice.",
+    "La Garnacha da fruta roja (fresa, ciruela y cereza rojas) y a veces pimienta blanca y regaliz."
+   ],
+   "d": [
+    "Il profilo della Grenache è di frutta rossa, con fragola in evidenza, a volte accompagnata da spezie come pepe bianco e liquirizia; i Côtes du Rhône semplici mostrano proprio frutta rossa e pepe bianco. Peperone verde e foglia di pomodoro indicano un Carmenère poco maturo, mora e chiodo di garofano un Malbec in rovere, banana e caramella certi Beaujolais.",
+    "Le profil du Grenache est axé sur les fruits rouges, la fraise en tête, parfois avec des épices comme le poivre blanc et la réglisse ; les Côtes du Rhône simples montrent justement fruits rouges et poivre blanc. Poivron vert et feuille de tomate signalent un Carmenère pas assez mûr, mûre et girofle un Malbec boisé, banane et bonbon certains Beaujolais.",
+    "Grenache's profile is red fruit, led by strawberry, sometimes with spice such as white pepper and liquorice; simple Côtes du Rhône show exactly this red fruit and white pepper. Green pepper and tomato leaf point to underripe Carmenère, blackberry and clove to oaked Malbec, and banana and candy to some Beaujolais.",
+    "El perfil de la Garnacha es de fruta roja, con la fresa al frente, a veces con especias como pimienta blanca y regaliz; los Côtes du Rhône sencillos muestran precisamente fruta roja y pimienta blanca. Pimiento verde y hoja de tomate indican una Carmenère poco madura, mora y clavo una Malbec con roble, y plátano y caramelo ciertos Beaujolais."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché la Grenache si taglia spesso con Syrah o Tempranillo?",
+    "Pourquoi assemble-t-on souvent le Grenache avec la Syrah ou le Tempranillo ?",
+    "Why is Grenache often blended with Syrah or Tempranillo?",
+    "¿Por qué se mezcla a menudo la Garnacha con Syrah o Tempranillo?"
+   ],
+   "o": [
+    [
+     "Per aggiungere colore, acidità e tannini",
+     "Pour ajouter couleur, acidité et tanins",
+     "To add colour, acidity and tannin",
+     "Para añadir color, acidez y taninos"
+    ],
+    [
+     "Per aggiungere zucchero e alcol",
+     "Pour ajouter sucre et alcool",
+     "To add sugar and alcohol",
+     "Para añadir azúcar y alcohol"
+    ],
+    [
+     "Per ridurre colore e tannini",
+     "Pour réduire couleur et tanins",
+     "To reduce colour and tannin",
+     "Para reducir color y taninos"
+    ],
+    [
+     "Per aggiungere note di banana e caramella",
+     "Pour ajouter des notes de banane et de bonbon",
+     "To add banana and candy notes",
+     "Para añadir notas de plátano y caramelo"
+    ]
+   ],
+   "e": [
+    "Syrah e Tempranillo compensano ciò che manca alla Grenache: colore, acidità e tannini.",
+    "La Syrah et le Tempranillo compensent ce qui manque au Grenache : couleur, acidité et tanins.",
+    "Syrah and Tempranillo make up for what Grenache lacks: colour, acidity and tannin.",
+    "La Syrah y el Tempranillo compensan lo que le falta a la Garnacha: color, acidez y taninos."
+   ],
+   "d": [
+    "La Grenache matura con molto zucchero e quindi alcol, ma ha poca acidità e, per la buccia sottile, tannini modesti. Tagliarla con la Syrah in Francia o con il Tempranillo in Spagna dà al vino più colore, più freschezza e più struttura. Zucchero e alcol, invece, la Grenache li porta già da sola in abbondanza.",
+    "Le Grenache mûrit avec beaucoup de sucre, donc d'alcool, mais il a peu d'acidité et, à cause de sa peau fine, peu de tanins. L'assembler avec la Syrah en France ou le Tempranillo en Espagne donne au vin plus de couleur, de fraîcheur et de structure. Le sucre et l'alcool, le Grenache les apporte déjà en abondance tout seul.",
+    "Grenache ripens with plenty of sugar and therefore alcohol, but has little acidity and, because of its thin skins, modest tannins. Blending it with Syrah in France or Tempranillo in Spain gives the wine more colour, freshness and structure. Sugar and alcohol, on the other hand, Grenache already supplies in abundance.",
+    "La Garnacha madura con mucho azúcar y por tanto alcohol, pero tiene poca acidez y, por su piel fina, taninos modestos. Mezclarla con Syrah en Francia o con Tempranillo en España da al vino más color, frescura y estructura. El azúcar y el alcohol, en cambio, ya los aporta la Garnacha por sí sola en abundancia."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché alcuni produttori di Grenache preferiscono il rovere vecchio a quello nuovo?",
+    "Pourquoi certains producteurs de Grenache préfèrent-ils le chêne ancien au neuf ?",
+    "Why do some Grenache producers prefer old oak to new oak?",
+    "¿Por qué algunos productores de Garnacha prefieren el roble usado al nuevo?"
+   ],
+   "o": [
+    [
+     "Per non coprire la sua frutta rossa delicata",
+     "Pour ne pas masquer son fruit rouge délicat",
+     "So as not to mask its delicate red fruit",
+     "Para no tapar su delicada fruta roja"
+    ],
+    [
+     "Per aumentare i suoi tannini già alti",
+     "Pour augmenter ses tanins déjà élevés",
+     "To increase its already high tannins",
+     "Para aumentar sus taninos ya altos"
+    ],
+    [
+     "Per aggiungere note di vaniglia e cocco",
+     "Pour ajouter des notes de vanille et de coco",
+     "To add vanilla and coconut notes",
+     "Para añadir notas de vainilla y coco"
+    ],
+    [
+     "Per alzare la sua acidità naturale",
+     "Pour relever son acidité naturelle",
+     "To raise its natural acidity",
+     "Para subir su acidez natural"
+    ]
+   ],
+   "e": [
+    "Il legno vecchio dà meno sapori di quello nuovo e lascia spazio ai profumi delicati della Grenache.",
+    "Le bois ancien apporte moins d'arômes que le neuf et laisse s'exprimer le fruit délicat du Grenache.",
+    "Old oak gives fewer flavours than new oak and lets Grenache's delicate fruit show.",
+    "El roble usado aporta menos aromas que el nuevo y deja ver la fruta delicada de la Garnacha."
+   ],
+   "d": [
+    "I Grenache molto buoni o eccellenti spesso maturano in botte per guadagnare complessità. Il rovere nuovo però aggiunge molti aromi, come vaniglia, che rischiano di coprire la frutta rossa delicata dell'uva. Per questo alcuni preferiscono botti vecchie. I tannini della Grenache non sono alti, e il legno non aumenta l'acidità.",
+    "Les Grenache très bons ou excellents sont souvent élevés en fût pour gagner en complexité. Le chêne neuf ajoute cependant beaucoup d'arômes, comme la vanille, qui risquent de couvrir le fruit rouge délicat du cépage. C'est pourquoi certains préfèrent des fûts anciens. Les tanins du Grenache ne sont pas élevés, et le bois n'augmente pas l'acidité.",
+    "Very good or outstanding Grenache is often matured in barrel for extra complexity. New oak, however, adds a lot of flavour, such as vanilla, which can smother the grape's delicate red fruit. That is why some producers prefer old barrels. Grenache's tannins are not high, and oak does not raise acidity.",
+    "Las Garnachas muy buenas o excelentes suelen criarse en barrica para ganar complejidad. Sin embargo, el roble nuevo aporta muchos aromas, como vainilla, que pueden tapar la delicada fruta roja de la uva. Por eso algunos prefieren barricas usadas. Los taninos de la Garnacha no son altos y la madera no sube la acidez."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale ruolo hanno i grossi ciottoli nei vigneti di Châteauneuf-du-Pape?",
+    "Quel rôle jouent les gros galets dans les vignes de Châteauneuf-du-Pape ?",
+    "What role do the large stones play in Châteauneuf-du-Pape vineyards?",
+    "¿Qué papel tienen los grandes cantos rodados en los viñedos de Châteauneuf-du-Pape?"
+   ],
+   "o": [
+    [
+     "Assorbono calore di giorno e lo cedono alle viti di notte",
+     "Ils absorbent la chaleur le jour et la rendent aux vignes la nuit",
+     "They absorb heat by day and release it to the vines at night",
+     "Absorben calor de día y lo ceden a las cepas de noche"
+    ],
+    [
+     "Riflettono la luce e rinfrescano i grappoli",
+     "Ils reflètent la lumière et rafraîchissent les grappes",
+     "They reflect light and cool the bunches",
+     "Reflejan la luz y refrescan los racimos"
+    ],
+    [
+     "Trattengono l'acqua e aumentano le rese",
+     "Ils retiennent l'eau et augmentent les rendements",
+     "They hold water and increase yields",
+     "Retienen el agua y aumentan los rendimientos"
+    ],
+    [
+     "Proteggono le viti dalla grandine",
+     "Ils protègent les vignes de la grêle",
+     "They protect the vines from hail",
+     "Protegen las cepas del granizo"
+    ]
+   ],
+   "e": [
+    "I ciottoli immagazzinano il calore diurno e lo restituiscono di notte, aiutando la Grenache a maturare del tutto.",
+    "Les galets stockent la chaleur du jour et la restituent la nuit, aidant le Grenache à mûrir pleinement.",
+    "The stones store daytime heat and release it at night, helping Grenache ripen fully.",
+    "Los cantos almacenan el calor del día y lo devuelven de noche, ayudando a la Garnacha a madurar del todo."
+   ],
+   "d": [
+    "Molti vigneti di Châteauneuf-du-Pape sono coperti da grandi pietre tonde. Di giorno si scaldano al sole, di notte irradiano il calore verso le viti. Questo calore in più aiuta la Grenache, che ama il caldo, a raggiungere la piena maturazione: da qui vini di corpo pieno e con alcol alto, che con l'età sviluppano frutta secca, terra e carne.",
+    "Beaucoup de vignes de Châteauneuf-du-Pape sont couvertes de gros galets ronds. Le jour, ils chauffent au soleil ; la nuit, ils renvoient cette chaleur vers les ceps. Ce surplus de chaleur aide le Grenache, qui aime le chaud, à atteindre sa pleine maturité : d'où des vins corsés et riches en alcool, qui développent avec l'âge fruits secs, terre et viande.",
+    "Many Châteauneuf-du-Pape vineyards are covered with large round stones. By day they heat up in the sun; at night they radiate that heat back to the vines. The extra warmth helps heat-loving Grenache reach full ripeness, giving full-bodied, high-alcohol wines that develop dried fruit, earth and meat with age.",
+    "Muchos viñedos de Châteauneuf-du-Pape están cubiertos de grandes cantos rodados. De día se calientan al sol; de noche irradian ese calor hacia las cepas. Este calor extra ayuda a la Garnacha, amante del calor, a alcanzar la plena madurez: de ahí vinos con mucho cuerpo y alcohol alto, que con la edad desarrollan fruta pasa, tierra y carne."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale denominazione è il livello di base, più ampio e semplice, del Rodano?",
+    "Quelle appellation est le niveau de base, le plus large et le plus simple, du Rhône ?",
+    "Which appellation is the broadest, simplest base level of the Rhône?",
+    "¿Qué denominación es el nivel básico, más amplio y sencillo, del Ródano?"
+   ],
+   "o": [
+    [
+     "Côtes du Rhône AOC",
+     "Côtes du Rhône AOC",
+     "Côtes du Rhône AOC",
+     "Côtes du Rhône AOC"
+    ],
+    [
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC",
+     "Côtes du Rhône Villages AOC"
+    ],
+    [
+     "Châteauneuf-du-Pape AOC",
+     "Châteauneuf-du-Pape AOC",
+     "Châteauneuf-du-Pape AOC",
+     "Châteauneuf-du-Pape AOC"
+    ],
+    [
+     "Crozes-Hermitage AOC",
+     "Crozes-Hermitage AOC",
+     "Crozes-Hermitage AOC",
+     "Crozes-Hermitage AOC"
+    ]
+   ],
+   "e": [
+    "Côtes du Rhône AOC copre tutta la valle e dà rossi semplici e di medio corpo da bere subito.",
+    "Le Côtes du Rhône AOC couvre toute la vallée et donne des rouges simples, de corps moyen, à boire jeunes.",
+    "Côtes du Rhône AOC covers the whole valley and gives simple, medium-bodied reds for early drinking.",
+    "Côtes du Rhône AOC cubre todo el valle y da tintos sencillos, de cuerpo medio, para beber ya."
+   ],
+   "d": [
+    "Il Rodano ha una gerarchia simile a quella del Beaujolais. Alla base, Côtes du Rhône AOC copre tutta la valle, ma le uve vengono quasi solo dal sud: vini semplici, di medio corpo, con frutta rossa e pepe bianco. Sopra c'è Côtes du Rhône Villages, più intenso e complesso; in cima i cru, come Châteauneuf-du-Pape al sud e Crozes-Hermitage al nord.",
+    "Le Rhône a une hiérarchie proche de celle du Beaujolais. À la base, le Côtes du Rhône AOC couvre toute la vallée, mais les raisins viennent presque tous du sud : vins simples, de corps moyen, aux fruits rouges et au poivre blanc. Au-dessus, le Côtes du Rhône Villages, plus intense et complexe ; au sommet, les crus, comme Châteauneuf-du-Pape au sud et Crozes-Hermitage au nord.",
+    "The Rhône has a hierarchy similar to Beaujolais. At the base, Côtes du Rhône AOC covers the whole valley, but the grapes come almost entirely from the south: simple, medium-bodied wines with red fruit and white pepper. Above it is Côtes du Rhône Villages, more intense and complex; at the top are the crus, such as Châteauneuf-du-Pape in the south and Crozes-Hermitage in the north.",
+    "El Ródano tiene una jerarquía parecida a la del Beaujolais. En la base, Côtes du Rhône AOC cubre todo el valle, pero la uva procede casi solo del sur: vinos sencillos, de cuerpo medio, con fruta roja y pimienta blanca. Por encima está Côtes du Rhône Villages, más intenso y complejo; en la cima, los crus, como Châteauneuf-du-Pape en el sur y Crozes-Hermitage en el norte."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Per quale stile di vino è nota soprattutto la Côtes de Provence AOC?",
+    "Pour quel style de vin la Côtes de Provence AOC est-elle surtout connue ?",
+    "Which wine style is Côtes de Provence AOC best known for?",
+    "¿Por qué estilo de vino es conocida sobre todo Côtes de Provence AOC?"
+   ],
+   "o": [
+    [
+     "Rosati secchi e di colore chiaro",
+     "Rosés secs et de couleur pâle",
+     "Dry, pale-coloured rosé",
+     "Rosados secos y de color pálido"
+    ],
+    [
+     "Rossi potenti e longevi",
+     "Rouges puissants et de garde",
+     "Powerful, long-lived reds",
+     "Tintos potentes y longevos"
+    ],
+    [
+     "Rosati dolci e di colore intenso",
+     "Rosés doux et de couleur soutenue",
+     "Sweet, deeply coloured rosé",
+     "Rosados dulces y de color intenso"
+    ],
+    [
+     "Rossi leggeri da servire freschi",
+     "Rouges légers à servir frais",
+     "Light reds served chilled",
+     "Tintos ligeros para servir frescos"
+    ]
+   ],
+   "e": [
+    "La Provenza è famosa per i rosati secchi e chiari, quasi tutti di Côtes de Provence, con la Grenache spesso nel taglio.",
+    "La Provence est célèbre pour ses rosés secs et pâles, surtout en Côtes de Provence, souvent avec du Grenache.",
+    "Provence is famous for dry, pale rosé, mostly Côtes de Provence, often with Grenache in the blend.",
+    "Provenza es famosa por sus rosados secos y pálidos, casi todos de Côtes de Provence, a menudo con Garnacha."
+   ],
+   "d": [
+    "La Provenza si trova a est del Languedoc-Roussillon ed è conosciuta soprattutto per i suoi rosati secchi e di colore chiaro; la maggior parte arriva dalla denominazione Côtes de Provence. La Grenache, con la sua frutta rossa, è spesso un elemento chiave del taglio insieme ad altre uve locali. I rossi leggeri da servire freschi ricordano invece il Beaujolais.",
+    "La Provence se situe à l'est du Languedoc-Roussillon et elle est surtout connue pour ses rosés secs et pâles ; la plupart proviennent de l'appellation Côtes de Provence. Le Grenache, avec ses fruits rouges, y est souvent un élément clé de l'assemblage aux côtés d'autres cépages locaux. Les rouges légers servis frais évoquent plutôt le Beaujolais.",
+    "Provence lies east of Languedoc-Roussillon and is best known for dry, pale rosé, most of it from the Côtes de Provence appellation. Grenache, with its red fruit, is often a key part of the blend alongside other local grapes. Light reds served chilled bring Beaujolais to mind instead.",
+    "Provenza está al este del Languedoc-Roussillon y es conocida sobre todo por sus rosados secos y pálidos; la mayoría procede de la denominación Côtes de Provence. La Garnacha, con su fruta roja, suele ser clave en la mezcla junto a otras uvas locales. Los tintos ligeros servidos frescos recuerdan más bien al Beaujolais."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "In quale regione si trova Minervois AOC?",
+    "Dans quelle région se trouve le Minervois AOC ?",
+    "In which region is Minervois AOC?",
+    "¿En qué región está Minervois AOC?"
+   ],
+   "o": [
+    [
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon",
+     "Languedoc-Roussillon"
+    ],
+    [
+     "Rodano meridionale",
+     "Rhône méridional",
+     "Southern Rhône",
+     "Ródano meridional"
+    ],
+    [
+     "Provenza",
+     "Provence",
+     "Provence",
+     "Provenza"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ]
+   ],
+   "e": [
+    "Minervois è una delle principali denominazioni di vini rossi del Languedoc-Roussillon.",
+    "Le Minervois est l'une des principales appellations de vins rouges du Languedoc-Roussillon.",
+    "Minervois is one of the leading red wine appellations of Languedoc-Roussillon.",
+    "Minervois es una de las principales denominaciones de tintos del Languedoc-Roussillon."
+   ],
+   "d": [
+    "Nel caldo Languedoc-Roussillon la Grenache matura bene e dà frutta rossa e corpo ai tagli con altre uve locali, tra cui la Syrah. Minervois AOC è una delle denominazioni più importanti della regione per i rossi. Il Rodano meridionale ha come simbolo Châteauneuf-du-Pape, la Provenza i rosati, il Beaujolais il Gamay.",
+    "Dans le chaud Languedoc-Roussillon, le Grenache mûrit bien et apporte fruits rouges et corps aux assemblages avec d'autres cépages locaux, dont la Syrah. Le Minervois AOC est l'une des appellations les plus importantes de la région pour les rouges. Le Rhône méridional a pour emblème Châteauneuf-du-Pape, la Provence ses rosés, le Beaujolais le Gamay.",
+    "In warm Languedoc-Roussillon, Grenache ripens well and gives red fruit and body to blends with other local grapes, Syrah included. Minervois AOC is one of the region's most important appellations for reds. The Southern Rhône's flagship is Châteauneuf-du-Pape, Provence is known for rosé and Beaujolais for Gamay.",
+    "En el cálido Languedoc-Roussillon la Garnacha madura bien y aporta fruta roja y cuerpo a las mezclas con otras uvas locales, entre ellas la Syrah. Minervois AOC es una de las denominaciones más importantes de la región para tintos. El emblema del Ródano meridional es Châteauneuf-du-Pape; Provenza destaca por sus rosados y el Beaujolais por la Gamay."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché la Garnacha di Priorat è così potente e concentrata?",
+    "Pourquoi la Garnacha du Priorat est-elle si puissante et concentrée ?",
+    "Why is Priorat Garnacha so powerful and concentrated?",
+    "¿Por qué la Garnacha del Priorat es tan potente y concentrada?"
+   ],
+   "o": [
+    [
+     "Viti molto vecchie in zona calda e secca danno rese minime",
+     "De très vieilles vignes en zone chaude et sèche donnent des rendements minimes",
+     "Very old vines in a warm, dry area give tiny yields",
+     "Viñas muy viejas en una zona cálida y seca dan rendimientos mínimos"
+    ],
+    [
+     "Viti giovani in pianura fertile danno rese alte",
+     "De jeunes vignes en plaine fertile donnent des rendements élevés",
+     "Young vines on fertile plains give high yields",
+     "Viñas jóvenes en llanuras fértiles dan rendimientos altos"
+    ],
+    [
+     "Un clima fresco e piovoso allunga la maturazione",
+     "Un climat frais et pluvieux allonge la maturation",
+     "A cool, rainy climate lengthens ripening",
+     "Un clima fresco y lluvioso alarga la maduración"
+    ],
+    [
+     "Il taglio con Gamay aggiunge corpo e tannini",
+     "L'assemblage avec le Gamay ajoute corps et tanins",
+     "Blending with Gamay adds body and tannin",
+     "La mezcla con Gamay añade cuerpo y taninos"
+    ]
+   ],
+   "e": [
+    "Le vecchie viti di Priorat, in clima caldo e secco, producono poche uve molto concentrate.",
+    "Les vieilles vignes du Priorat, en climat chaud et sec, produisent peu de raisins très concentrés.",
+    "Priorat's old vines, in a warm, dry climate, produce few, highly concentrated grapes.",
+    "Las viñas viejas del Priorat, en clima cálido y seco, producen poca uva muy concentrada."
+   ],
+   "d": [
+    "Priorat DOCa, in Catalunya, è una zona calda e secca con viti di Garnacha molto vecchie. Queste piante producono rese minuscole di uve concentrate, da cui nascono le Garnacha più potenti e piene di Spagna. Di solito sono tagliate con altre uve nere e possono maturare a lungo, sviluppando in bottiglia frutta secca e caramello.",
+    "Le Priorat DOCa, en Catalunya, est une zone chaude et sèche plantée de très vieilles vignes de Garnacha. Ces ceps donnent des rendements minuscules de raisins concentrés, d'où les Garnacha les plus puissantes et corsées d'Espagne. Généralement assemblées à d'autres cépages noirs, elles peuvent vieillir longtemps et développent en bouteille fruits secs et caramel.",
+    "Priorat DOCa, in Catalunya, is a warm, dry area with very old Garnacha vines. These vines give tiny yields of concentrated grapes, producing Spain's most powerful, full-bodied Garnacha wines. Usually blended with other black grapes, they can age for a long time and develop dried fruit and caramel in bottle.",
+    "La DOCa Priorat, en Catalunya, es una zona cálida y seca con viñas muy viejas de Garnacha. Estas cepas dan rendimientos mínimos de uva concentrada, de donde salen las Garnachas más potentes y con más cuerpo de España. Normalmente mezcladas con otras uvas tintas, pueden envejecer mucho y desarrollan en botella fruta pasa y caramelo."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Oltre ai rossi, per quale stile di Garnacha è nota la Navarra DO?",
+    "Outre les rouges, pour quel style de Garnacha la Navarra DO est-elle connue ?",
+    "Besides reds, which Garnacha style is Navarra DO known for?",
+    "Además de tintos, ¿por qué estilo de Garnacha es conocida la DO Navarra?"
+   ],
+   "o": [
+    [
+     "Rosati secchi",
+     "Rosés secs",
+     "Dry rosé",
+     "Rosados secos"
+    ],
+    [
+     "Bianchi dolci",
+     "Blancs doux",
+     "Sweet whites",
+     "Blancos dulces"
+    ],
+    [
+     "Rossi spumanti",
+     "Rouges effervescents",
+     "Sparkling reds",
+     "Tintos espumosos"
+    ],
+    [
+     "Rossi fortificati",
+     "Rouges mutés",
+     "Fortified reds",
+     "Tintos generosos"
+    ]
+   ],
+   "e": [
+    "In Navarra la Garnacha porta corpo e frutta rossa ai rossi ed è nota anche per i rosati secchi.",
+    "En Navarra, la Garnacha donne corps et fruits rouges aux rouges et elle est aussi connue pour ses rosés secs.",
+    "In Navarra, Garnacha adds body and red fruit to reds and is also known for dry rosé.",
+    "En Navarra la Garnacha aporta cuerpo y fruta roja a los tintos y es conocida también por sus rosados secos."
+   ],
+   "d": [
+    "La Navarra confina con la Rioja. In entrambe la Garnacha dà corpo e frutta rossa fresca ai vini, ma la Navarra è conosciuta anche per i rosati secchi. Non è un caso: la frutta rossa della Garnacha la rende ideale per i rosati a breve macerazione, da bere freschi e giovani.",
+    "La Navarra est voisine de la Rioja. Dans les deux, la Garnacha apporte corps et fruits rouges frais aux vins, mais la Navarra est aussi réputée pour ses rosés secs. Ce n'est pas un hasard : les fruits rouges de la Garnacha la rendent idéale pour les rosés de courte macération, à boire frais et jeunes.",
+    "Navarra neighbours Rioja. In both, Garnacha gives body and fresh red fruit to the wines, but Navarra is also known for dry rosé. That is no accident: Garnacha's red fruit makes it ideal for short-maceration rosé, drunk chilled and young.",
+    "Navarra es vecina de Rioja. En ambas la Garnacha aporta cuerpo y fruta roja fresca a los vinos, pero Navarra es conocida además por sus rosados secos. No es casualidad: la fruta roja de la Garnacha la hace ideal para rosados de maceración corta, que se beben frescos y jóvenes."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quali regioni australiane sono note per le viti molto vecchie di Grenache?",
+    "Quelles régions australiennes sont connues pour leurs très vieilles vignes de Grenache ?",
+    "Which Australian regions are known for very old Grenache vines?",
+    "¿Qué regiones australianas son conocidas por sus viñas muy viejas de Grenache?"
+   ],
+   "o": [
+    [
+     "Barossa Valley e McLaren Vale",
+     "Barossa Valley et McLaren Vale",
+     "Barossa Valley and McLaren Vale",
+     "Barossa Valley y McLaren Vale"
+    ],
+    [
+     "Yarra Valley e Mornington Peninsula",
+     "Yarra Valley et Mornington Peninsula",
+     "Yarra Valley and Mornington Peninsula",
+     "Yarra Valley y Mornington Peninsula"
+    ],
+    [
+     "Clare Valley ed Eden Valley",
+     "Clare Valley et Eden Valley",
+     "Clare Valley and Eden Valley",
+     "Clare Valley y Eden Valley"
+    ],
+    [
+     "Margaret River e Coonawarra",
+     "Margaret River et Coonawarra",
+     "Margaret River and Coonawarra",
+     "Margaret River y Coonawarra"
+    ]
+   ],
+   "e": [
+    "Le calde Barossa Valley e McLaren Vale, in South Australia, hanno molte vecchie viti di Grenache.",
+    "Les chaudes Barossa Valley et McLaren Vale, en South Australia, comptent beaucoup de vieilles vignes de Grenache.",
+    "The warm Barossa Valley and McLaren Vale in South Australia have many old Grenache vines.",
+    "Las cálidas Barossa Valley y McLaren Vale, en South Australia, tienen muchas viñas viejas de Grenache."
+   ],
+   "d": [
+    "La Grenache ha bisogno di caldo, e le regioni calde di Barossa Valley e McLaren Vale ospitano molte viti antiche. Da qui arrivano vini eccellenti con frutta rossa concentrata, spezie e lunga capacità di invecchiamento, oltre a tagli con Shiraz che possono ricordare Châteauneuf-du-Pape. Le altre coppie di regioni sono legate ad altri vitigni.",
+    "Le Grenache a besoin de chaleur, et les régions chaudes de Barossa Valley et McLaren Vale abritent de nombreuses vignes anciennes. Elles donnent des vins excellents, aux fruits rouges concentrés et épicés, de longue garde, ainsi que des assemblages avec la Shiraz qui peuvent rappeler Châteauneuf-du-Pape. Les autres paires de régions sont associées à d'autres cépages.",
+    "Grenache needs warmth, and the warm regions of Barossa Valley and McLaren Vale are home to many old vines. They give outstanding wines with concentrated red fruit, spice and long ageing potential, as well as Shiraz blends that can resemble Châteauneuf-du-Pape. The other pairs of regions are linked to other grapes.",
+    "La Garnacha necesita calor, y las regiones cálidas de Barossa Valley y McLaren Vale albergan muchas cepas antiguas. Dan vinos excelentes, con fruta roja concentrada, especias y gran capacidad de guarda, además de mezclas con Shiraz que pueden recordar a Châteauneuf-du-Pape. Las otras parejas de regiones se asocian a otras uvas."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Con quale metodo si fanno spesso i rosati di Grenache?",
+    "Par quelle méthode élabore-t-on souvent les rosés de Grenache ?",
+    "Which method is commonly used to make Grenache rosé?",
+    "¿Con qué método se elaboran a menudo los rosados de Garnacha?"
+   ],
+   "o": [
+    [
+     "Breve macerazione delle bucce",
+     "Courte macération des peaux",
+     "Short maceration on the skins",
+     "Maceración corta con las pieles"
+    ],
+    [
+     "Lunga macerazione e affinamento in rovere",
+     "Longue macération et élevage en chêne",
+     "Long maceration and oak ageing",
+     "Maceración larga y crianza en roble"
+    ],
+    [
+     "Seconda fermentazione in bottiglia",
+     "Seconde fermentation en bouteille",
+     "Second fermentation in bottle",
+     "Segunda fermentación en botella"
+    ],
+    [
+     "Fortificazione durante la fermentazione",
+     "Mutage pendant la fermentation",
+     "Fortification during fermentation",
+     "Encabezado durante la fermentación"
+    ]
+   ],
+   "e": [
+    "Grazie alla frutta rossa, la Grenache è molto usata per rosati a breve macerazione.",
+    "Grâce à ses fruits rouges, le Grenache sert beaucoup aux rosés de courte macération.",
+    "Thanks to its red fruit, Grenache is widely used for short-maceration rosé.",
+    "Gracias a su fruta roja, la Garnacha se usa mucho para rosados de maceración corta."
+   ],
+   "d": [
+    "Con la breve macerazione il mosto resta a contatto con le bucce solo per poco tempo, così prende un colore rosa e la frutta della varietà. La Grenache, con fragola e ciliegia rossa in evidenza, è perfetta per questo stile: rosati da secchi a mediamente dolci, da bere freschi e giovani, come quelli di Navarra o Côtes de Provence.",
+    "Avec la courte macération, le moût ne reste au contact des peaux que peu de temps et prend ainsi une couleur rose et le fruit du cépage. Le Grenache, aux arômes de fraise et de cerise rouge, est parfait pour ce style : des rosés secs à demi-doux, à boire frais et jeunes, comme ceux de Navarra ou des Côtes de Provence.",
+    "With short maceration, the juice stays in contact with the skins only briefly, picking up a pink colour and the grape's fruit. Grenache, with its strawberry and red cherry, is ideal for this style: dry to medium rosés for drinking chilled and young, like those of Navarra or Côtes de Provence.",
+    "Con la maceración corta, el mosto solo está poco tiempo en contacto con las pieles, así que toma un color rosado y la fruta de la variedad. La Garnacha, con fresa y cereza roja, es perfecta para este estilo: rosados de secos a semidulces, para beber frescos y jóvenes, como los de Navarra o Côtes de Provence."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quali condizioni permettono al Tempranillo di Ribera del Duero di essere pieno ma con frutta fresca?",
+    "Quelles conditions permettent au Tempranillo de Ribera del Duero d'être corsé mais au fruit frais ?",
+    "Which conditions let Ribera del Duero Tempranillo be full-bodied yet fresh-fruited?",
+    "¿Qué condiciones permiten al Tempranillo de Ribera del Duero tener mucho cuerpo y fruta fresca?"
+   ],
+   "o": [
+    [
+     "Altitudine, giornate calde e notti fresche",
+     "Altitude, journées chaudes et nuits fraîches",
+     "Altitude, warm days and cool nights",
+     "Altitud, días cálidos y noches frescas"
+    ],
+    [
+     "Vicinanza al mare e nebbie frequenti",
+     "Proximité de la mer et brouillards fréquents",
+     "Closeness to the sea and frequent fog",
+     "Cercanía al mar y nieblas frecuentes"
+    ],
+    [
+     "Pianura fertile e rese alte",
+     "Plaine fertile et rendements élevés",
+     "Fertile plains and high yields",
+     "Llanura fértil y rendimientos altos"
+    ],
+    [
+     "Ciottoli che scaldano le viti di notte",
+     "Galets qui chauffent les vignes la nuit",
+     "Stones that warm the vines at night",
+     "Cantos que calientan las cepas de noche"
+    ]
+   ],
+   "e": [
+    "In alta quota, giorni caldi e notti fresche danno vini molto pieni con frutta nera fresca.",
+    "En altitude, journées chaudes et nuits fraîches donnent des vins très corsés aux fruits noirs frais.",
+    "At altitude, warm days and cool nights give very full-bodied wines with fresh black fruit.",
+    "En altura, días cálidos y noches frescas dan vinos con mucho cuerpo y fruta negra fresca."
+   ],
+   "d": [
+    "Ribera del Duero DO si trova nell'interno della Spagna, in alta quota. Le giornate calde fanno maturare bene il Tempranillo, dando corpo molto pieno, mentre le notti fresche conservano la freschezza del frutto nero. Qui nascono vini molto buoni ed eccellenti. I ciottoli che scaldano le viti di notte sono invece tipici di Châteauneuf-du-Pape.",
+    "La Ribera del Duero DO se trouve à l'intérieur de l'Espagne, en altitude. Les journées chaudes font bien mûrir le Tempranillo et donnent des vins très corsés, tandis que les nuits fraîches préservent la fraîcheur des fruits noirs. La région produit des vins très bons à excellents. Les galets qui chauffent les vignes la nuit sont, eux, typiques de Châteauneuf-du-Pape.",
+    "Ribera del Duero DO lies inland in Spain, at high altitude. Warm days ripen Tempranillo well, giving very full body, while cool nights keep the black fruit fresh. The region makes very good to outstanding wines. Stones that warm vines at night are a feature of Châteauneuf-du-Pape instead.",
+    "La DO Ribera del Duero está en el interior de España, en altura. Los días cálidos hacen madurar bien el Tempranillo y dan mucho cuerpo, mientras que las noches frescas conservan la frescura de la fruta negra. Allí se elaboran vinos muy buenos y excelentes. Los cantos que calientan las cepas de noche son, en cambio, típicos de Châteauneuf-du-Pape."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quali note dà tipicamente il rovere nuovo a un Tempranillo?",
+    "Quelles notes le chêne neuf apporte-t-il en général à un Tempranillo ?",
+    "Which notes does new oak typically give a Tempranillo?",
+    "¿Qué notas aporta normalmente el roble nuevo a un Tempranillo?"
+   ],
+   "o": [
+    [
+     "Vaniglia, fumo, cedro",
+     "Vanille, fumée, cèdre",
+     "Vanilla, smoke, cedar",
+     "Vainilla, humo, cedro"
+    ],
+    [
+     "Fungo, cuoio, frutta secca",
+     "Champignon, cuir, fruits secs",
+     "Mushroom, leather, dried fruit",
+     "Champiñón, cuero, fruta pasa"
+    ],
+    [
+     "Banana, caramella, lampone",
+     "Banane, bonbon, framboise",
+     "Banana, candy, raspberry",
+     "Plátano, caramelo, frambuesa"
+    ],
+    [
+     "Peperone verde, foglia di pomodoro",
+     "Poivron vert, feuille de tomate",
+     "Green pepper, tomato leaf",
+     "Pimiento verde, hoja de tomate"
+    ]
+   ],
+   "e": [
+    "Le piccole botti di rovere nuovo danno note secondarie di vaniglia, fumo e cedro e ammorbidiscono i tannini.",
+    "Les petits fûts de chêne neuf apportent des notes secondaires de vanille, fumée et cèdre et assouplissent les tanins.",
+    "Small new oak barrels add secondary notes of vanilla, smoke and cedar and soften tannins.",
+    "Las barricas pequeñas de roble nuevo aportan notas secundarias de vainilla, humo y cedro y suavizan los taninos."
+   ],
+   "d": [
+    "Per tradizione, in molte zone della Spagna il Tempranillo matura in piccole botti di rovere nuovo. Il legno porta profumi secondari come vaniglia, fumo e cedro. Fungo, cuoio e frutta secca sono invece note terziarie che compaiono dopo anni in bottiglia; banana e caramella appartengono al Beaujolais, peperone verde al Carmenère poco maturo.",
+    "Par tradition, dans de nombreuses régions d'Espagne, le Tempranillo est élevé en petits fûts de chêne neuf. Le bois apporte des arômes secondaires comme la vanille, la fumée et le cèdre. Champignon, cuir et fruits secs sont au contraire des notes tertiaires qui apparaissent après des années en bouteille ; banane et bonbon appartiennent au Beaujolais, le poivron vert au Carmenère pas assez mûr.",
+    "Traditionally, in many parts of Spain Tempranillo is matured in small new oak barrels. The oak brings secondary aromas such as vanilla, smoke and cedar. Mushroom, leather and dried fruit are tertiary notes that appear after years in bottle; banana and candy belong to Beaujolais, and green pepper to underripe Carmenère.",
+    "Por tradición, en muchas zonas de España el Tempranillo se cría en barricas pequeñas de roble nuevo. La madera aporta aromas secundarios como vainilla, humo y cedro. Champiñón, cuero y fruta pasa son en cambio notas terciarias que aparecen tras años en botella; plátano y caramelo son propios del Beaujolais y el pimiento verde de la Carmenère poco madura."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quali note terziarie può sviluppare un Tempranillo di alta qualità in bottiglia?",
+    "Quelles notes tertiaires un Tempranillo de grande qualité peut-il développer en bouteille ?",
+    "Which tertiary notes can a high-quality Tempranillo develop in bottle?",
+    "¿Qué notas terciarias puede desarrollar en botella un Tempranillo de gran calidad?"
+   ],
+   "o": [
+    [
+     "Fungo, cuoio, frutta secca",
+     "Champignon, cuir, fruits secs",
+     "Mushroom, leather, dried fruit",
+     "Champiñón, cuero, fruta pasa"
+    ],
+    [
+     "Vaniglia, fumo, cedro",
+     "Vanille, fumée, cèdre",
+     "Vanilla, smoke, cedar",
+     "Vainilla, humo, cedro"
+    ],
+    [
+     "Fragola, ciliegia rossa, mora",
+     "Fraise, cerise rouge, mûre",
+     "Strawberry, red cherry, blackberry",
+     "Fresa, cereza roja, mora"
+    ],
+    [
+     "Caffè, cioccolato, fumo",
+     "Café, chocolat, fumée",
+     "Coffee, chocolate, smoke",
+     "Café, chocolate, humo"
+    ]
+   ],
+   "e": [
+    "Con l'età in bottiglia i migliori Tempranillo sviluppano funghi, cuoio e frutta secca.",
+    "Avec l'âge en bouteille, les meilleurs Tempranillo développent champignon, cuir et fruits secs.",
+    "With bottle age the best Tempranillo develops mushroom, leather and dried fruit.",
+    "Con la edad en botella los mejores Tempranillos desarrollan champiñón, cuero y fruta pasa."
+   ],
+   "d": [
+    "Le note terziarie nascono dal lungo affinamento. I Tempranillo molto buoni o eccellenti, spesso affinati anche in bottiglia prima della vendita, sviluppano funghi, cuoio e frutta secca. Fragola, ciliegia rossa e mora sono profumi primari dell'uva; vaniglia, fumo e cedro sono secondari, dal rovere; caffè e cioccolato sono legati al legno in altri vitigni.",
+    "Les notes tertiaires naissent d'un long vieillissement. Les Tempranillo très bons ou excellents, souvent aussi vieillis en bouteille avant la vente, développent champignon, cuir et fruits secs. Fraise, cerise rouge et mûre sont des arômes primaires du raisin ; vanille, fumée et cèdre sont secondaires, dus au chêne ; café et chocolat sont liés au bois chez d'autres cépages.",
+    "Tertiary notes come from long ageing. Very good or outstanding Tempranillo, often also aged in bottle before release, develops mushroom, leather and dried fruit. Strawberry, red cherry and blackberry are primary grape aromas; vanilla, smoke and cedar are secondary, from oak; coffee and chocolate are oak-related notes in other grapes.",
+    "Las notas terciarias proceden de una crianza larga. Los Tempranillos muy buenos o excelentes, a menudo envejecidos también en botella antes de la venta, desarrollan champiñón, cuero y fruta pasa. Fresa, cereza roja y mora son aromas primarios de la uva; vainilla, humo y cedro son secundarios, del roble; café y chocolate se asocian a la madera en otras uvas."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Che cosa caratterizza la Catalunya DO per il Tempranillo?",
+    "Qu'est-ce qui caractérise la Catalunya DO pour le Tempranillo ?",
+    "What characterises Catalunya DO for Tempranillo?",
+    "¿Qué caracteriza a la DO Catalunya en cuanto al Tempranillo?"
+   ],
+   "o": [
+    [
+     "Grandi volumi in stili molto diversi",
+     "De gros volumes dans des styles très variés",
+     "Large volumes in a wide range of styles",
+     "Grandes volúmenes en estilos muy variados"
+    ],
+    [
+     "Solo vini Gran Reserva da viti vecchie",
+     "Uniquement des Gran Reserva de vieilles vignes",
+     "Only Gran Reserva wines from old vines",
+     "Solo Gran Reservas de viñas viejas"
+    ],
+    [
+     "Solo rosati secchi da bere giovani",
+     "Uniquement des rosés secs à boire jeunes",
+     "Only dry rosés for drinking young",
+     "Solo rosados secos para beber jóvenes"
+    ],
+    [
+     "Altitudine elevata e rese minime",
+     "Altitude élevée et rendements minimes",
+     "High altitude and tiny yields",
+     "Gran altitud y rendimientos mínimos"
+    ]
+   ],
+   "e": [
+    "La vasta Catalunya DO produce molto Tempranillo, dal semplice e fruttato al potente con legno.",
+    "La vaste Catalunya DO produit beaucoup de Tempranillo, du simple et fruité au puissant et boisé.",
+    "The broad Catalunya DO makes lots of Tempranillo, from simple and fruity to powerful and oaked.",
+    "La amplia DO Catalunya produce mucho Tempranillo, de sencillo y afrutado a potente y con roble."
+   ],
+   "d": [
+    "Catalunya DO è una denominazione ampia che produce grandi volumi di Tempranillo e di tagli a base Tempranillo. Gli stili spaziano dai rossi semplici e fruttati a quelli potenti e affinati in rovere. Altitudine e rese minime descrivono piuttosto Ribera del Duero o Priorat, che pure si trova in Catalunya ma è nota per la Garnacha.",
+    "La Catalunya DO est une appellation étendue qui produit de gros volumes de Tempranillo et d'assemblages à base de Tempranillo. Les styles vont du rouge simple et fruité au rouge puissant élevé en chêne. Altitude et rendements minimes évoquent plutôt la Ribera del Duero ou le Priorat, situé lui aussi en Catalunya mais connu pour la Garnacha.",
+    "Catalunya DO is a broad appellation producing large volumes of Tempranillo and Tempranillo-based blends. Styles run from simple, fruity reds to powerful, oak-aged ones. Altitude and tiny yields describe Ribera del Duero or Priorat instead; Priorat is also in Catalunya but is known for Garnacha.",
+    "La DO Catalunya es una denominación amplia que produce grandes volúmenes de Tempranillo y de mezclas a base de Tempranillo. Los estilos van desde tintos sencillos y afrutados hasta otros potentes y criados en roble. La altitud y los rendimientos mínimos describen más bien Ribera del Duero o el Priorat, que también está en Catalunya pero destaca por la Garnacha."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "In un Rioja da lungo invecchiamento, con che cosa si taglia di solito il Tempranillo?",
+    "Dans un Rioja de longue garde, avec quoi assemble-t-on en général le Tempranillo ?",
+    "In a Rioja meant for long ageing, what is Tempranillo usually blended with?",
+    "En un Rioja de larga guarda, ¿con qué se suele mezclar el Tempranillo?"
+   ],
+   "o": [
+    [
+     "Uve locali che danno tannini e acidità",
+     "Des cépages locaux qui apportent tanins et acidité",
+     "Local grapes that add tannin and acidity",
+     "Uvas locales que aportan taninos y acidez"
+    ],
+    [
+     "Garnacha per la frutta e la morbidezza",
+     "Garnacha pour le fruit et la souplesse",
+     "Garnacha for fruit and softness",
+     "Garnacha para la fruta y la suavidad"
+    ],
+    [
+     "Gamay per la freschezza e il colore",
+     "Gamay pour la fraîcheur et la couleur",
+     "Gamay for freshness and colour",
+     "Gamay para la frescura y el color"
+    ],
+    [
+     "Uve bianche per alleggerire il corpo",
+     "Des cépages blancs pour alléger le corps",
+     "White grapes to lighten the body",
+     "Uvas blancas para aligerar el cuerpo"
+    ]
+   ],
+   "e": [
+    "Per i Rioja da lungo invecchiamento si aggiungono uve locali che aumentano tannini e acidità.",
+    "Pour les Rioja de longue garde, on ajoute des cépages locaux qui renforcent tanins et acidité.",
+    "For long-ageing Rioja, local grapes are added to boost tannin and acidity.",
+    "Para los Rioja de larga guarda se añaden uvas locales que elevan taninos y acidez."
+   ],
+   "d": [
+    "Il Rioja è di solito un taglio dominato dal Tempranillo nei vini migliori. Per i vini da bere giovani si usa spesso la Garnacha, che porta frutta e corpo. Per quelli destinati a invecchiare a lungo servono più tannini e acidità, quindi si aggiungono altre uve locali con queste caratteristiche: la struttura aiuta il vino a reggere il tempo.",
+    "Le Rioja est en général un assemblage dominé par le Tempranillo dans les meilleurs vins. Pour les vins à boire jeunes, on utilise souvent la Garnacha, qui apporte fruit et corps. Pour ceux destinés à une longue garde, il faut plus de tanins et d'acidité : on ajoute donc d'autres cépages locaux qui les fournissent, car la structure aide le vin à traverser le temps.",
+    "Rioja is usually a blend in which Tempranillo dominates the best wines. For wines to be drunk young, Garnacha is often used, adding fruit and body. Wines intended for long ageing need more tannin and acidity, so other local grapes with these traits are added: structure helps the wine stand the test of time.",
+    "El Rioja suele ser una mezcla dominada por el Tempranillo en los mejores vinos. Para los vinos de beber jóvenes se usa a menudo la Garnacha, que aporta fruta y cuerpo. Los destinados a una larga guarda necesitan más taninos y acidez, así que se añaden otras uvas locales con esos rasgos: la estructura ayuda al vino a aguantar el paso del tiempo."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale menzione spagnola indica i requisiti minimi di affinamento più lunghi?",
+    "Quelle mention espagnole impose les durées minimales d'élevage les plus longues ?",
+    "Which Spanish label term has the longest minimum ageing requirements?",
+    "¿Qué mención española exige los mínimos de crianza más largos?"
+   ],
+   "o": [
+    [
+     "Gran Reserva",
+     "Gran Reserva",
+     "Gran Reserva",
+     "Gran Reserva"
+    ],
+    [
+     "Reserva",
+     "Reserva",
+     "Reserva",
+     "Reserva"
+    ],
+    [
+     "Crianza",
+     "Crianza",
+     "Crianza",
+     "Crianza"
+    ],
+    [
+     "Joven",
+     "Joven",
+     "Joven",
+     "Joven"
+    ]
+   ],
+   "e": [
+    "L'ordine è Joven, Crianza, Reserva, Gran Reserva: quest'ultimo ha i minimi più lunghi.",
+    "L'ordre est Joven, Crianza, Reserva, Gran Reserva : ce dernier a les minimums les plus longs.",
+    "The order is Joven, Crianza, Reserva, Gran Reserva: the last has the longest minimums.",
+    "El orden es Joven, Crianza, Reserva, Gran Reserva: esta última tiene los mínimos más largos."
+   ],
+   "d": [
+    "Le quattro menzioni spagnole seguono una scala precisa. Joven non ha minimi; Crianza richiede un passaggio in botte; Reserva un affinamento lungo in botte e in bottiglia; Gran Reserva i requisiti minimi più lunghi in assoluto. Di conseguenza il Gran Reserva mostra di solito i profumi secondari e terziari più marcati.",
+    "Les quatre mentions espagnoles suivent une échelle précise. Joven n'a pas de minimum ; Crianza exige un passage en fût ; Reserva un long élevage en fût et en bouteille ; Gran Reserva les minimums les plus longs de tous. Le Gran Reserva présente donc en général les arômes secondaires et tertiaires les plus marqués.",
+    "The four Spanish terms follow a clear ladder. Joven has no minimum; Crianza requires time in barrel; Reserva long ageing in barrel and bottle; Gran Reserva the longest minimums of all. As a result, Gran Reserva usually shows the most pronounced secondary and tertiary aromas.",
+    "Las cuatro menciones españolas siguen una escala clara. Joven no tiene mínimo; Crianza exige paso por barrica; Reserva una crianza larga en barrica y botella; Gran Reserva los mínimos más largos de todos. Por eso el Gran Reserva suele mostrar los aromas secundarios y terciarios más marcados."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Come si chiamano in Rioja i vini Joven?",
+    "Comment appelle-t-on les vins Joven en Rioja ?",
+    "What are Joven wines called in Rioja?",
+    "¿Cómo se llaman en Rioja los vinos Joven?"
+   ],
+   "o": [
+    [
+     "Genérico",
+     "Genérico",
+     "Genérico",
+     "Genérico"
+    ],
+    [
+     "Crianza",
+     "Crianza",
+     "Crianza",
+     "Crianza"
+    ],
+    [
+     "Reserva",
+     "Reserva",
+     "Reserva",
+     "Reserva"
+    ],
+    [
+     "Vino de la Tierra",
+     "Vino de la Tierra",
+     "Vino de la Tierra",
+     "Vino de la Tierra"
+    ]
+   ],
+   "e": [
+    "In Rioja i vini giovani e fruttati senza minimi di affinamento si chiamano Genérico.",
+    "En Rioja, les vins jeunes et fruités sans minimum d'élevage s'appellent Genérico.",
+    "In Rioja, young fruity wines with no minimum ageing are called Genérico.",
+    "En Rioja los vinos jóvenes y afrutados sin crianza mínima se llaman Genérico."
+   ],
+   "d": [
+    "Joven indica vini giovani e fruttati, senza requisiti minimi di affinamento, di solito in vendita l'anno dopo la vendemmia e dominati dalla frutta primaria. In Rioja la stessa categoria prende il nome di Genérico. Crianza e Reserva sono livelli con affinamento obbligatorio; Vino de la Tierra è invece una categoria di indicazione geografica, non un termine di invecchiamento.",
+    "Joven désigne des vins jeunes et fruités, sans durée minimale d'élevage, en général vendus l'année suivant les vendanges et dominés par le fruit primaire. En Rioja, cette catégorie s'appelle Genérico. Crianza et Reserva sont des niveaux avec élevage obligatoire ; Vino de la Tierra est une catégorie d'indication géographique, pas une mention de vieillissement.",
+    "Joven means young, fruity wines with no minimum ageing, usually sold the year after the harvest and dominated by primary fruit. In Rioja the same category is called Genérico. Crianza and Reserva are levels with compulsory ageing; Vino de la Tierra is a geographical indication category, not an ageing term.",
+    "Joven indica vinos jóvenes y afrutados, sin crianza mínima, que suelen venderse el año siguiente a la vendimia y donde domina la fruta primaria. En Rioja esta categoría se llama Genérico. Crianza y Reserva son niveles con crianza obligatoria; Vino de la Tierra es una categoría de indicación geográfica, no una mención de envejecimiento."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Quale stile ci si aspetta da un vino spagnolo Crianza?",
+    "Quel style attend-on d'un vin espagnol Crianza ?",
+    "Which style would you expect from a Spanish Crianza?",
+    "¿Qué estilo cabe esperar de un vino español Crianza?"
+   ],
+   "o": [
+    [
+     "Frutta primaria con note di rovere come vaniglia e cocco",
+     "Fruit primaire avec des notes de chêne comme vanille et coco",
+     "Primary fruit plus oak notes such as vanilla and coconut",
+     "Fruta primaria con notas de roble como vainilla y coco"
+    ],
+    [
+     "Solo frutta fresca, senza alcun passaggio in botte",
+     "Uniquement du fruit frais, sans aucun passage en fût",
+     "Only fresh fruit, with no time in barrel",
+     "Solo fruta fresca, sin ningún paso por barrica"
+    ],
+    [
+     "Note terziarie dominanti di funghi e frutta secca",
+     "Des notes tertiaires dominantes de champignon et fruits secs",
+     "Dominant tertiary notes of mushroom and dried fruit",
+     "Notas terciarias dominantes de champiñón y fruta pasa"
+    ],
+    [
+     "Note di banana e caramella dalla vinificazione",
+     "Des notes de banane et bonbon dues à la vinification",
+     "Banana and candy notes from winemaking",
+     "Notas de plátano y caramelo por la elaboración"
+    ]
+   ],
+   "e": [
+    "Il Crianza passa in botte prima della vendita e unisce alla frutta note secondarie del legno.",
+    "Le Crianza séjourne en fût avant la vente et ajoute au fruit des notes secondaires boisées.",
+    "Crianza spends time in barrel before release, adding secondary oak notes to its fruit.",
+    "El Crianza pasa por barrica antes de la venta y suma a la fruta notas secundarias de madera."
+   ],
+   "d": [
+    "Un Crianza deve maturare in botti di rovere prima della messa in vendita. Conserva la frutta primaria dell'uva ma aggiunge note secondarie come vaniglia, fumo e cocco. Un vino senza legno sarebbe un Joven; note terziarie dominanti sono più tipiche di Reserva e Gran Reserva, che affinano più a lungo anche in bottiglia.",
+    "Un Crianza doit être élevé en fûts de chêne avant sa mise en vente. Il garde le fruit primaire du raisin mais ajoute des notes secondaires comme la vanille, la fumée et la noix de coco. Un vin sans bois serait un Joven ; des notes tertiaires dominantes sont plus typiques des Reserva et Gran Reserva, qui vieillissent plus longtemps, y compris en bouteille.",
+    "A Crianza must be matured in oak barrels before it goes on sale. It keeps the grape's primary fruit but adds secondary notes such as vanilla, smoke and coconut. A wine with no oak would be a Joven; dominant tertiary notes are more typical of Reserva and Gran Reserva, which age longer, including in bottle.",
+    "Un Crianza debe criarse en barricas de roble antes de salir a la venta. Conserva la fruta primaria de la uva pero añade notas secundarias como vainilla, humo y coco. Un vino sin madera sería un Joven; las notas terciarias dominantes son más propias de Reserva y Gran Reserva, que envejecen más tiempo, también en botella."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Perché un produttore può decidere di non fare un Gran Reserva in una certa annata?",
+    "Pourquoi un producteur peut-il renoncer à faire un Gran Reserva certaines années ?",
+    "Why might a producer decide not to make a Gran Reserva in a given vintage?",
+    "¿Por qué un productor puede decidir no hacer Gran Reserva en una añada?"
+   ],
+   "o": [
+    [
+     "Le uve non hanno qualità sufficiente per un lungo invecchiamento",
+     "Les raisins n'ont pas la qualité suffisante pour un long vieillissement",
+     "The grapes are not good enough for long ageing",
+     "La uva no tiene calidad suficiente para una larga crianza"
+    ],
+    [
+     "La legge vieta il Gran Reserva negli anni caldi",
+     "La loi interdit le Gran Reserva les années chaudes",
+     "The law bans Gran Reserva in hot years",
+     "La ley prohíbe el Gran Reserva en años cálidos"
+    ],
+    [
+     "Il rovere nuovo è troppo costoso in quell'anno",
+     "Le chêne neuf est trop cher cette année-là",
+     "New oak is too expensive that year",
+     "El roble nuevo es demasiado caro ese año"
+    ],
+    [
+     "Le uve sono troppo ricche di tannini e acidità",
+     "Les raisins sont trop riches en tanins et en acidité",
+     "The grapes have too much tannin and acidity",
+     "La uva tiene demasiados taninos y acidez"
+    ]
+   ],
+   "e": [
+    "Solo vini con frutto, acidità e tannini sufficienti reggono un lungo affinamento; gli altri diventano stanchi.",
+    "Seuls les vins assez riches en fruit, acidité et tanins supportent un long élevage ; les autres s'épuisent.",
+    "Only wines with enough fruit, acidity and tannin can take long ageing; others turn stale.",
+    "Solo los vinos con suficiente fruta, acidez y taninos aguantan una crianza larga; los demás se cansan."
+   ],
+   "d": [
+    "La qualità dell'uva determina lo stile possibile. Per un lungo invecchiamento servono intensità di frutto, acidità e, nei rossi, tannini adeguati. Un vino modesto sottoposto a un affinamento prolungato risulta stanco e povero di frutta. Per questo, nelle annate deboli, un produttore può rinunciare al Gran Reserva. Tannini e acidità abbondanti sono invece un vantaggio.",
+    "La qualité du raisin détermine le style possible. Un long vieillissement demande de l'intensité en fruit, de l'acidité et, pour les rouges, des tanins suffisants. Un vin modeste soumis à un élevage prolongé paraît fatigué et pauvre en fruit. C'est pourquoi, les années faibles, un producteur peut renoncer au Gran Reserva. Des tanins et une acidité abondants sont au contraire un atout.",
+    "Grape quality decides which style is possible. Long ageing needs fruit intensity, acidity and, in reds, enough tannin. A modest wine put through extended ageing ends up stale and short of fruit. So in weak vintages a producer may skip Gran Reserva. Plenty of tannin and acidity is actually an advantage.",
+    "La calidad de la uva decide qué estilo es posible. Una crianza larga necesita intensidad de fruta, acidez y, en los tintos, taninos suficientes. Un vino modesto sometido a una crianza prolongada resulta cansado y sin fruta. Por eso, en añadas flojas, un productor puede renunciar al Gran Reserva. Unos taninos y una acidez abundantes son, en cambio, una ventaja."
+   ]
+  },
+  {
+   "c": "r1",
+   "q": [
+    "Che cosa sono esattamente Crianza, Reserva e Gran Reserva?",
+    "Que sont exactement Crianza, Reserva et Gran Reserva ?",
+    "What exactly are Crianza, Reserva and Gran Reserva?",
+    "¿Qué son exactamente Crianza, Reserva y Gran Reserva?"
+   ],
+   "o": [
+    [
+     "Menzioni nazionali spagnole con minimi di affinamento",
+     "Des mentions nationales espagnoles avec des minimums d'élevage",
+     "National Spanish terms with minimum ageing rules",
+     "Menciones nacionales españolas con mínimos de crianza"
+    ],
+    [
+     "Menzioni riservate solo ai vini della Rioja",
+     "Des mentions réservées aux seuls vins de Rioja",
+     "Terms reserved for Rioja wines only",
+     "Menciones reservadas solo a los vinos de Rioja"
+    ],
+    [
+     "Livelli di resa massima per ettaro",
+     "Des niveaux de rendement maximal à l'hectare",
+     "Maximum yield levels per hectare",
+     "Niveles de rendimiento máximo por hectárea"
+    ],
+    [
+     "Indicazioni del grado di dolcezza",
+     "Des indications du degré de sucre",
+     "Indications of sweetness level",
+     "Indicaciones del grado de dulzor"
+    ]
+   ],
+   "e": [
+    "Sono menzioni valide in tutta la Spagna che fissano tempi minimi di affinamento prima della vendita.",
+    "Ce sont des mentions valables dans toute l'Espagne qui fixent des durées minimales d'élevage avant la vente.",
+    "They are nationwide Spanish terms setting minimum ageing periods before release.",
+    "Son menciones válidas en toda España que fijan tiempos mínimos de crianza antes de la venta."
+   ],
+   "d": [
+    "Crianza, Reserva e Gran Reserva si trovano spesso sui Rioja, ma non sono esclusivi di quella regione: sono termini nazionali spagnoli. Indicano minimi di legge di affinamento prima della vendita, dal più breve (Crianza) al più lungo (Gran Reserva). Alcune regioni hanno regole più severe e molti produttori superano i minimi.",
+    "Crianza, Reserva et Gran Reserva figurent souvent sur les Rioja, mais ne sont pas propres à cette région : ce sont des mentions nationales espagnoles. Elles indiquent des durées légales minimales d'élevage avant la vente, de la plus courte (Crianza) à la plus longue (Gran Reserva). Certaines régions sont plus strictes et beaucoup de producteurs dépassent les minimums.",
+    "Crianza, Reserva and Gran Reserva often appear on Rioja labels, but they are not unique to that region: they are national Spanish terms. They set legal minimum ageing periods before sale, from the shortest (Crianza) to the longest (Gran Reserva). Some regions are stricter and many producers exceed the minimums.",
+    "Crianza, Reserva y Gran Reserva aparecen a menudo en los Rioja, pero no son exclusivas de esa región: son menciones nacionales españolas. Fijan mínimos legales de crianza antes de la venta, del más corto (Crianza) al más largo (Gran Reserva). Algunas regiones son más estrictas y muchos productores superan los mínimos."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Da quale regione francese è originario il Carmenère?",
+    "De quelle région française le Carmenère est-il originaire ?",
+    "Which French region does Carmenère originally come from?",
+    "¿De qué región francesa procede la Carmenère?"
+   ],
+   "o": [
+    [
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux",
+     "Burdeos"
+    ],
+    [
+     "Borgogna",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Rodano",
+     "Rhône",
+     "Rhône",
+     "Ródano"
+    ],
+    [
+     "Alsazia",
+     "Alsace",
+     "Alsace",
+     "Alsacia"
+    ]
+   ],
+   "e": [
+    "Il Carmenère viene da Bordeaux, dove oggi è raro, ed è molto coltivato in Cile.",
+    "Le Carmenère vient de Bordeaux, où il est devenu rare, et il est très cultivé au Chili.",
+    "Carmenère comes from Bordeaux, where it is now rare, and is widely grown in Chile.",
+    "La Carmenère viene de Burdeos, donde hoy es rara, y se cultiva mucho en Chile."
+   ],
+   "d": [
+    "Il Carmenère è nato a Bordeaux ma lì oggi si trova raramente. Ha trovato casa in Cile, dove è diventato una specialità nazionale. Questa origine spiega anche perché spesso si tagli con Cabernet Sauvignon e Merlot, due uve bordolesi. Borgogna, Rodano e Alsazia sono legati ad altri vitigni.",
+    "Le Carmenère est né à Bordeaux, mais on l'y trouve rarement aujourd'hui. Il a trouvé refuge au Chili, où il est devenu une spécialité nationale. Cette origine explique aussi qu'on l'assemble souvent au Cabernet Sauvignon et au Merlot, deux cépages bordelais. La Bourgogne, le Rhône et l'Alsace sont liés à d'autres cépages.",
+    "Carmenère originated in Bordeaux but is rarely found there today. It found a home in Chile, where it became a national speciality. Its origin also explains why it is often blended with Cabernet Sauvignon and Merlot, two Bordeaux grapes. Burgundy, the Rhône and Alsace are linked to other grapes.",
+    "La Carmenère nació en Burdeos, pero hoy apenas se encuentra allí. Encontró su sitio en Chile, donde se ha convertido en una especialidad nacional. Este origen explica también que se mezcle a menudo con Cabernet Sauvignon y Merlot, dos uvas bordelesas. Borgoña, el Ródano y Alsacia se asocian a otras uvas."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quali profumi indicano un Carmenère vendemmiato prima della piena maturazione?",
+    "Quels arômes signalent un Carmenère vendangé avant pleine maturité ?",
+    "Which aromas show a Carmenère picked before full ripeness?",
+    "¿Qué aromas delatan una Carmenère vendimiada antes de la plena madurez?"
+   ],
+   "o": [
+    [
+     "Peperone verde e foglia di pomodoro",
+     "Poivron vert et feuille de tomate",
+     "Green bell pepper and tomato leaf",
+     "Pimiento verde y hoja de tomate"
+    ],
+    [
+     "Mora e prugna nera",
+     "Mûre et prune noire",
+     "Blackberry and black plum",
+     "Mora y ciruela negra"
+    ],
+    [
+     "Caffè e cioccolato",
+     "Café et chocolat",
+     "Coffee and chocolate",
+     "Café y chocolate"
+    ],
+    [
+     "Cuoio e terra",
+     "Cuir et terre",
+     "Leather and earth",
+     "Cuero y tierra"
+    ]
+   ],
+   "e": [
+    "Il Carmenère poco maturo ha note erbacee pungenti come peperone verde e foglia di pomodoro.",
+    "Le Carmenère pas assez mûr a des notes herbacées marquées comme le poivron vert et la feuille de tomate.",
+    "Underripe Carmenère has pungent herbaceous notes such as green bell pepper and tomato leaf.",
+    "La Carmenère poco madura tiene notas herbáceas intensas como pimiento verde y hoja de tomate."
+   ],
+   "d": [
+    "Il Carmenère matura con difficoltà. Se si vendemmia troppo presto, il vino mostra caratteri erbacei pungenti: peperone verde e foglia di pomodoro. Ben maturo, invece, offre frutta nera fresca come la mora. Caffè e cioccolato arrivano dal rovere; cuoio e terra sono note terziarie dei vini migliori invecchiati.",
+    "Le Carmenère mûrit difficilement. Vendangé trop tôt, il donne des caractères herbacés marqués : poivron vert et feuille de tomate. Bien mûr, il offre au contraire des fruits noirs frais comme la mûre. Café et chocolat viennent du chêne ; cuir et terre sont des notes tertiaires des meilleurs vins vieillis.",
+    "Carmenère ripens with difficulty. If picked too early, the wine shows pungent herbaceous characters: green bell pepper and tomato leaf. Fully ripe, it gives fresh black fruit such as blackberry instead. Coffee and chocolate come from oak; leather and earth are tertiary notes of the best aged wines.",
+    "La Carmenère madura con dificultad. Si se vendimia demasiado pronto, el vino muestra caracteres herbáceos intensos: pimiento verde y hoja de tomate. Bien madura, ofrece en cambio fruta negra fresca como la mora. Café y chocolate proceden del roble; cuero y tierra son notas terciarias de los mejores vinos envejecidos."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Perché il Carmenère matura bene solo nei siti più caldi e soleggiati della Central Valley?",
+    "Pourquoi le Carmenère ne mûrit-il bien que sur les sites les plus chauds et ensoleillés de la Central Valley ?",
+    "Why does Carmenère ripen well only in the warmest, sunniest Central Valley sites?",
+    "¿Por qué la Carmenère solo madura bien en los lugares más cálidos y soleados del Central Valley?"
+   ],
+   "o": [
+    [
+     "Ha bisogno di una stagione lunga e soleggiata",
+     "Il a besoin d'une saison longue et ensoleillée",
+     "It needs a long, sunny growing season",
+     "Necesita una temporada larga y soleada"
+    ],
+    [
+     "Ha bisogno di un clima fresco e nebbioso",
+     "Il a besoin d'un climat frais et brumeux",
+     "It needs a cool, foggy climate",
+     "Necesita un clima fresco y brumoso"
+    ],
+    [
+     "Ha la buccia sottile e teme il sole",
+     "Il a la peau fine et craint le soleil",
+     "It has thin skins and fears the sun",
+     "Tiene la piel fina y teme el sol"
+    ],
+    [
+     "Germoglia tardi e matura molto presto",
+     "Il débourre tard et mûrit très tôt",
+     "It buds late and ripens very early",
+     "Brota tarde y madura muy pronto"
+    ]
+   ],
+   "e": [
+    "Il Carmenère richiede una stagione lunga e assolata, che in Cile trova solo nei siti più caldi.",
+    "Le Carmenère exige une saison longue et ensoleillée, qu'il ne trouve au Chili que sur les sites les plus chauds.",
+    "Carmenère needs a long, sunny season, which in Chile only the warmest sites provide.",
+    "La Carmenère exige una temporada larga y soleada, que en Chile solo dan los lugares más cálidos."
+   ],
+   "d": [
+    "Per maturare del tutto, il Carmenère ha bisogno di una stagione vegetativa lunga e soleggiata. Anche in Cile fatica, tranne nei siti più caldi e assolati della Central Valley. Se non matura, il vino ha note erbacee di peperone verde; se matura, frutta nera fresca. Un clima fresco e nebbioso peggiorerebbe il problema.",
+    "Pour mûrir pleinement, le Carmenère a besoin d'une saison de végétation longue et ensoleillée. Même au Chili il peine, sauf sur les sites les plus chauds et ensoleillés de la Central Valley. S'il ne mûrit pas, le vin sent le poivron vert ; s'il mûrit, il offre des fruits noirs frais. Un climat frais et brumeux aggraverait le problème.",
+    "To ripen fully, Carmenère needs a long, sunny growing season. Even in Chile it struggles, except in the warmest, sunniest sites of the Central Valley. If it does not ripen, the wine smells of green pepper; when ripe, it shows fresh black fruit. A cool, foggy climate would make the problem worse.",
+    "Para madurar del todo, la Carmenère necesita un ciclo vegetativo largo y soleado. Incluso en Chile le cuesta, salvo en los lugares más cálidos y soleados del Central Valley. Si no madura, el vino huele a pimiento verde; si madura, ofrece fruta negra fresca. Un clima fresco y brumoso agravaría el problema."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quale profilo descrive un Carmenère tipico e maturo?",
+    "Quel profil décrit un Carmenère typique et mûr ?",
+    "Which profile describes a typical ripe Carmenère?",
+    "¿Qué perfil describe una Carmenère típica y madura?"
+   ],
+   "o": [
+    [
+     "Colore intenso, tannini alti, corpo pieno, mora",
+     "Couleur profonde, tanins élevés, corps plein, mûre",
+     "Deep colour, high tannin, full body, blackberry",
+     "Color intenso, taninos altos, cuerpo pleno, mora"
+    ],
+    [
+     "Colore chiaro, tannini bassi, corpo leggero, lampone",
+     "Couleur pâle, tanins faibles, corps léger, framboise",
+     "Pale colour, low tannin, light body, raspberry",
+     "Color pálido, taninos bajos, cuerpo ligero, frambuesa"
+    ],
+    [
+     "Colore medio, tannini bassi, corpo medio, fragola",
+     "Couleur moyenne, tanins faibles, corps moyen, fraise",
+     "Medium colour, low tannin, medium body, strawberry",
+     "Color medio, taninos bajos, cuerpo medio, fresa"
+    ],
+    [
+     "Colore chiaro, acidità bassa, corpo pieno, banana",
+     "Couleur pâle, acidité faible, corps plein, banane",
+     "Pale colour, low acidity, full body, banana",
+     "Color pálido, acidez baja, cuerpo pleno, plátano"
+    ]
+   ],
+   "e": [
+    "Il Carmenère maturo è scuro, tannico e pieno, con acidità medio-alta e frutta nera fresca.",
+    "Le Carmenère mûr est sombre, tannique et corsé, avec une acidité moyenne à élevée et des fruits noirs frais.",
+    "Ripe Carmenère is dark, tannic and full, with medium to high acidity and fresh black fruit.",
+    "La Carmenère madura es oscura, tánica y con cuerpo, con acidez media-alta y fruta negra fresca."
+   ],
+   "d": [
+    "Un Carmenère tipico ha colore profondo, acidità da media ad alta, tannini alti e corpo pieno; quando è maturo profuma di frutta nera fresca come la mora. Spesso matura in rovere per ammorbidire i tannini. I profili chiari e leggeri con frutta rossa ricordano piuttosto Gamay o Grenache; banana e acidità bassa non c'entrano.",
+    "Un Carmenère typique a une couleur profonde, une acidité moyenne à élevée, des tanins élevés et un corps plein ; mûr, il sent les fruits noirs frais comme la mûre. Il est souvent élevé en chêne pour assouplir ses tanins. Les profils pâles et légers aux fruits rouges évoquent plutôt le Gamay ou le Grenache ; banane et acidité faible ne lui correspondent pas.",
+    "A typical Carmenère has deep colour, medium to high acidity, high tannins and full body; when ripe it smells of fresh black fruit such as blackberry. It is often oak-matured to soften the tannins. Pale, light, red-fruited profiles suggest Gamay or Grenache instead; banana and low acidity do not fit.",
+    "Una Carmenère típica tiene color profundo, acidez de media a alta, taninos altos y cuerpo pleno; madura, huele a fruta negra fresca como la mora. A menudo se cría en roble para suavizar los taninos. Los perfiles pálidos y ligeros con fruta roja recuerdan más a Gamay o Garnacha; el plátano y la acidez baja no encajan."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Che cosa apporta la maturazione in rovere a un Carmenère?",
+    "Qu'apporte l'élevage en chêne à un Carmenère ?",
+    "What does oak maturation bring to Carmenère?",
+    "¿Qué aporta la crianza en roble a una Carmenère?"
+   ],
+   "o": [
+    [
+     "Tannini più morbidi e note di caffè e cioccolato",
+     "Des tanins plus souples et des notes de café et chocolat",
+     "Softer tannins and coffee and chocolate notes",
+     "Taninos más suaves y notas de café y chocolate"
+    ],
+    [
+     "Più acidità e note di peperone verde",
+     "Plus d'acidité et des notes de poivron vert",
+     "More acidity and green pepper notes",
+     "Más acidez y notas de pimiento verde"
+    ],
+    [
+     "Colore più chiaro e note di banana",
+     "Une couleur plus pâle et des notes de banane",
+     "Paler colour and banana notes",
+     "Color más pálido y notas de plátano"
+    ],
+    [
+     "Tannini più duri e note di fragola",
+     "Des tanins plus durs et des notes de fraise",
+     "Harder tannins and strawberry notes",
+     "Taninos más duros y notas de fresa"
+    ]
+   ],
+   "e": [
+    "Il rovere ammorbidisce i tannini alti del Carmenère e aggiunge caffè e cioccolato.",
+    "Le chêne assouplit les tanins élevés du Carmenère et ajoute café et chocolat.",
+    "Oak softens Carmenère's high tannins and adds coffee and chocolate.",
+    "El roble suaviza los taninos altos de la Carmenère y añade café y chocolate."
+   ],
+   "d": [
+    "Il Carmenère ha tannini alti, quindi spesso matura in botti di rovere: il legno li rende più morbidi e aggiunge sapori come caffè e cioccolato. Gli esemplari molto buoni o eccellenti sviluppano poi note terziarie di cuoio e terra. Il peperone verde viene invece da uve poco mature, non dal legno.",
+    "Le Carmenère a des tanins élevés et il est donc souvent élevé en fûts de chêne : le bois les assouplit et ajoute des saveurs comme le café et le chocolat. Les très bons ou excellents exemples développent ensuite des notes tertiaires de cuir et de terre. Le poivron vert vient lui de raisins pas assez mûrs, pas du bois.",
+    "Carmenère has high tannins, so it is often matured in oak barrels: the wood softens them and adds flavours such as coffee and chocolate. Very good or outstanding examples then develop tertiary notes of leather and earth. Green pepper comes from underripe grapes, not from oak.",
+    "La Carmenère tiene taninos altos, así que a menudo se cría en barricas de roble: la madera los suaviza y añade sabores como café y chocolate. Los ejemplos muy buenos o excelentes desarrollan después notas terciarias de cuero y tierra. El pimiento verde procede de uvas poco maduras, no de la madera."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Con quali uve si taglia più spesso il Carmenère?",
+    "Avec quels cépages assemble-t-on le plus souvent le Carmenère ?",
+    "Which grapes is Carmenère most often blended with?",
+    "¿Con qué uvas se mezcla más a menudo la Carmenère?"
+   ],
+   "o": [
+    [
+     "Cabernet Sauvignon e Merlot",
+     "Cabernet Sauvignon et Merlot",
+     "Cabernet Sauvignon and Merlot",
+     "Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Grenache e Syrah",
+     "Grenache et Syrah",
+     "Grenache and Syrah",
+     "Garnacha y Syrah"
+    ],
+    [
+     "Tempranillo e Garnacha",
+     "Tempranillo et Garnacha",
+     "Tempranillo and Garnacha",
+     "Tempranillo y Garnacha"
+    ],
+    [
+     "Pinot Nero e Gamay",
+     "Pinot Noir et Gamay",
+     "Pinot Noir and Gamay",
+     "Pinot Noir y Gamay"
+    ]
+   ],
+   "e": [
+    "Il Carmenère si trova in purezza ma più spesso in taglio con Cabernet Sauvignon e Merlot.",
+    "Le Carmenère existe en monocépage mais se trouve plus souvent assemblé au Cabernet Sauvignon et au Merlot.",
+    "Carmenère can be single-varietal but is more often blended with Cabernet Sauvignon and Merlot.",
+    "La Carmenère puede ser monovarietal, pero es más frecuente en mezcla con Cabernet Sauvignon y Merlot."
+   ],
+   "d": [
+    "In Cile il Carmenère esiste come vino monovarietale, ma è più comune trovarlo in taglio con Cabernet Sauvignon e Merlot, uve che come lui hanno legami con Bordeaux. Grenache e Syrah sono la coppia classica del sud della Francia, Tempranillo e Garnacha quella della Rioja.",
+    "Au Chili, le Carmenère existe en monocépage, mais on le trouve plus souvent assemblé au Cabernet Sauvignon et au Merlot, des cépages qui, comme lui, ont des liens avec Bordeaux. Grenache et Syrah forment le duo classique du sud de la France, Tempranillo et Garnacha celui de la Rioja.",
+    "In Chile, Carmenère exists as a single-varietal wine, but it is more commonly blended with Cabernet Sauvignon and Merlot, grapes that, like it, have Bordeaux connections. Grenache and Syrah are the classic southern French pairing, and Tempranillo and Garnacha the Rioja one.",
+    "En Chile la Carmenère existe como vino monovarietal, pero es más habitual encontrarla mezclada con Cabernet Sauvignon y Merlot, uvas que, como ella, tienen vínculos con Burdeos. Garnacha y Syrah son la pareja clásica del sur de Francia, y Tempranillo y Garnacha la de Rioja."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Di quale paese il Malbec è l'uva nera più importante?",
+    "De quel pays le Malbec est-il le cépage noir le plus important ?",
+    "Malbec is the most important black grape of which country?",
+    "¿De qué país es la Malbec la uva tinta más importante?"
+   ],
+   "o": [
+    [
+     "Argentina",
+     "Argentine",
+     "Argentina",
+     "Argentina"
+    ],
+    [
+     "Cile",
+     "Chili",
+     "Chile",
+     "Chile"
+    ],
+    [
+     "Sudafrica",
+     "Afrique du Sud",
+     "South Africa",
+     "Sudáfrica"
+    ],
+    [
+     "Australia",
+     "Australie",
+     "Australia",
+     "Australia"
+    ]
+   ],
+   "e": [
+    "Il Malbec è l'uva nera di punta dell'Argentina, coltivata soprattutto a Mendoza.",
+    "Le Malbec est le cépage noir phare de l'Argentine, cultivé surtout à Mendoza.",
+    "Malbec is Argentina's flagship black grape, grown mostly in Mendoza.",
+    "La Malbec es la uva tinta emblemática de Argentina, cultivada sobre todo en Mendoza."
+   ],
+   "d": [
+    "Ognuna delle tre specialità regionali è legata a un paese: il Carmenère al Cile, il Malbec all'Argentina, il Pinotage al Sudafrica. Il Malbec è arrivato dal sud-ovest della Francia e si è adattato bene al clima più caldo del Sud America; la maggior parte dei vigneti si trova nella regione d'alta quota di Mendoza.",
+    "Chacune des trois spécialités régionales est liée à un pays : le Carmenère au Chili, le Malbec à l'Argentine, le Pinotage à l'Afrique du Sud. Le Malbec est venu du sud-ouest de la France et s'est bien adapté au climat plus chaud de l'Amérique du Sud ; la plupart des vignes se trouvent dans la région d'altitude de Mendoza.",
+    "Each of the three regional specialities is tied to one country: Carmenère to Chile, Malbec to Argentina, Pinotage to South Africa. Malbec came from south-west France and adapted well to the warmer South American climate; most plantings are in the high-altitude region of Mendoza.",
+    "Cada una de las tres especialidades regionales está ligada a un país: la Carmenère a Chile, la Malbec a Argentina y la Pinotage a Sudáfrica. La Malbec llegó del suroeste de Francia y se adaptó bien al clima más cálido de Sudamérica; la mayor parte de los viñedos está en la región de altura de Mendoza."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Dove si trova la maggior parte dei vigneti di Malbec in Argentina?",
+    "Où se trouve la majeure partie des vignes de Malbec en Argentine ?",
+    "Where are most of Argentina's Malbec plantings?",
+    "¿Dónde está la mayor parte de los viñedos de Malbec de Argentina?"
+   ],
+   "o": [
+    [
+     "Mendoza, regione in alta quota",
+     "Mendoza, région d'altitude",
+     "Mendoza, a high-altitude region",
+     "Mendoza, región de altura"
+    ],
+    [
+     "Central Valley, regione costiera",
+     "Central Valley, région côtière",
+     "Central Valley, a coastal region",
+     "Central Valley, región costera"
+    ],
+    [
+     "Western Cape, regione calda e secca",
+     "Western Cape, région chaude et sèche",
+     "Western Cape, a warm, dry region",
+     "Western Cape, región cálida y seca"
+    ],
+    [
+     "Barossa Valley, regione di pianura",
+     "Barossa Valley, région de plaine",
+     "Barossa Valley, a lowland region",
+     "Barossa Valley, región de llanura"
+    ]
+   ],
+   "e": [
+    "Il Malbec è coltivato in tutta l'Argentina, ma soprattutto nella regione d'alta quota di Mendoza.",
+    "Le Malbec est cultivé dans toute l'Argentine, mais surtout dans la région d'altitude de Mendoza.",
+    "Malbec is grown across Argentina, but mostly in the high-altitude region of Mendoza.",
+    "La Malbec se cultiva en toda Argentina, pero sobre todo en la región de altura de Mendoza."
+   ],
+   "d": [
+    "Mendoza è la regione chiave per il Malbec: lì si concentra la maggior parte dei vigneti del paese, in alta quota. In etichetta si legge spesso Mendoza accanto a Malbec e Wine of Argentina. La Central Valley è la zona del Carmenère in Cile, il Western Cape quella del Pinotage, la Barossa Valley è in Australia.",
+    "Mendoza est la région clé du Malbec : elle concentre la majorité des vignes du pays, en altitude. Sur l'étiquette, on lit souvent Mendoza à côté de Malbec et de Wine of Argentina. La Central Valley est la zone du Carmenère au Chili, le Western Cape celle du Pinotage, et la Barossa Valley se trouve en Australie.",
+    "Mendoza is the key region for Malbec: most of the country's plantings are there, at high altitude. Labels often show Mendoza alongside Malbec and Wine of Argentina. The Central Valley is Carmenère's area in Chile, the Western Cape is Pinotage's, and Barossa Valley is in Australia.",
+    "Mendoza es la región clave para la Malbec: allí se concentra la mayoría de los viñedos del país, en altura. En la etiqueta suele leerse Mendoza junto a Malbec y Wine of Argentina. El Central Valley es la zona de la Carmenère en Chile, el Western Cape la de la Pinotage y Barossa Valley está en Australia."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quali note dà il rovere nuovo a un Malbec?",
+    "Quelles notes le chêne neuf apporte-t-il à un Malbec ?",
+    "Which notes does new oak give a Malbec?",
+    "¿Qué notas aporta el roble nuevo a una Malbec?"
+   ],
+   "o": [
+    [
+     "Chiodo di garofano e vaniglia",
+     "Clou de girofle et vanille",
+     "Clove and vanilla",
+     "Clavo y vainilla"
+    ],
+    [
+     "Banana e caramella",
+     "Banane et bonbon",
+     "Banana and candy",
+     "Plátano y caramelo"
+    ],
+    [
+     "Peperone verde e foglia di pomodoro",
+     "Poivron vert et feuille de tomate",
+     "Green pepper and tomato leaf",
+     "Pimiento verde y hoja de tomate"
+    ],
+    [
+     "Fragola e pepe bianco",
+     "Fraise et poivre blanc",
+     "Strawberry and white pepper",
+     "Fresa y pimienta blanca"
+    ]
+   ],
+   "e": [
+    "La maturazione in rovere nuovo ammorbidisce il Malbec e aggiunge spezie come chiodo di garofano e vaniglia.",
+    "L'élevage en chêne neuf assouplit le Malbec et ajoute des épices comme le clou de girofle et la vanille.",
+    "New oak maturation softens Malbec and adds spice such as clove and vanilla.",
+    "La crianza en roble nuevo suaviza la Malbec y añade especias como clavo y vainilla."
+   ],
+   "d": [
+    "Il Malbec dà vini scuri, pieni e tannici con frutta nera. Il rovere nuovo li rende più morbidi e aggiunge note speziate di chiodo di garofano e vaniglia; con l'età in bottiglia i migliori sviluppano frutta secca e carne. Banana e caramella sono tipiche di certi Beaujolais, fragola e pepe bianco della Grenache.",
+    "Le Malbec donne des vins sombres, corsés et tanniques aux fruits noirs. Le chêne neuf les assouplit et ajoute des notes épicées de clou de girofle et de vanille ; avec l'âge en bouteille, les meilleurs développent fruits secs et viande. Banane et bonbon sont typiques de certains Beaujolais, fraise et poivre blanc du Grenache.",
+    "Malbec gives dark, full-bodied, tannic wines with black fruit. New oak softens them and adds spicy notes of clove and vanilla; with bottle age, the best develop dried fruit and meat. Banana and candy are typical of some Beaujolais, and strawberry and white pepper of Grenache.",
+    "La Malbec da vinos oscuros, con cuerpo y tánicos, con fruta negra. El roble nuevo los suaviza y añade notas especiadas de clavo y vainilla; con la edad en botella, los mejores desarrollan fruta pasa y carne. Plátano y caramelo son típicos de ciertos Beaujolais, y fresa y pimienta blanca de la Garnacha."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quale descrizione corrisponde a un Malbec tipico?",
+    "Quelle description correspond à un Malbec typique ?",
+    "Which description matches a typical Malbec?",
+    "¿Qué descripción corresponde a una Malbec típica?"
+   ],
+   "o": [
+    [
+     "Colore intenso, corpo pieno, tannini alti, frutta nera",
+     "Couleur profonde, corps plein, tanins élevés, fruits noirs",
+     "Deep colour, full body, high tannin, black fruit",
+     "Color intenso, cuerpo pleno, taninos altos, fruta negra"
+    ],
+    [
+     "Colore chiaro, corpo leggero, tannini bassi, frutta rossa",
+     "Couleur pâle, corps léger, tanins faibles, fruits rouges",
+     "Pale colour, light body, low tannin, red fruit",
+     "Color pálido, cuerpo ligero, taninos bajos, fruta roja"
+    ],
+    [
+     "Colore medio, corpo medio, tannini medi, agrumi",
+     "Couleur moyenne, corps moyen, tanins moyens, agrumes",
+     "Medium colour, medium body, medium tannin, citrus",
+     "Color medio, cuerpo medio, taninos medios, cítricos"
+    ],
+    [
+     "Colore chiaro, corpo pieno, tannini bassi, fragola",
+     "Couleur pâle, corps plein, tanins faibles, fraise",
+     "Pale colour, full body, low tannin, strawberry",
+     "Color pálido, cuerpo pleno, taninos bajos, fresa"
+    ]
+   ],
+   "e": [
+    "Il Malbec dà vini scuri, di corpo pieno, con tannini alti e mora e prugna nera.",
+    "Le Malbec donne des vins sombres, corsés, aux tanins élevés, sur la mûre et la prune noire.",
+    "Malbec gives dark, full-bodied wines with high tannins, blackberry and black plum.",
+    "La Malbec da vinos oscuros, con cuerpo, taninos altos, mora y ciruela negra."
+   ],
+   "d": [
+    "Il Malbec argentino è tipicamente di colore intenso, corpo pieno e tannini alti, con frutta nera come mora e prugna nera. Si trova spesso in purezza, ma anche in taglio con Cabernet Sauvignon e/o Merlot. Profili chiari e leggeri con frutta rossa descrivono piuttosto il Gamay; la fragola è tipica di Grenache e Pinotage.",
+    "Le Malbec argentin a typiquement une couleur profonde, un corps plein et des tanins élevés, avec des fruits noirs comme la mûre et la prune noire. On le trouve souvent en monocépage, mais aussi assemblé au Cabernet Sauvignon et/ou au Merlot. Les profils pâles et légers aux fruits rouges décrivent plutôt le Gamay ; la fraise est typique du Grenache et du Pinotage.",
+    "Argentine Malbec is typically deeply coloured, full-bodied and high in tannin, with black fruit such as blackberry and black plum. It is often single-varietal but also blended with Cabernet Sauvignon and/or Merlot. Pale, light profiles with red fruit describe Gamay instead; strawberry is typical of Grenache and Pinotage.",
+    "La Malbec argentina suele tener color intenso, cuerpo pleno y taninos altos, con fruta negra como mora y ciruela negra. A menudo es monovarietal, pero también se mezcla con Cabernet Sauvignon y/o Merlot. Los perfiles pálidos y ligeros con fruta roja describen más bien la Gamay; la fresa es típica de la Garnacha y la Pinotage."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Da dove è originario il Malbec?",
+    "D'où le Malbec est-il originaire ?",
+    "Where does Malbec originally come from?",
+    "¿De dónde es originaria la Malbec?"
+   ],
+   "o": [
+    [
+     "Sud-ovest della Francia",
+     "Sud-ouest de la France",
+     "South-west France",
+     "Suroeste de Francia"
+    ],
+    [
+     "Nord-est della Spagna",
+     "Nord-est de l'Espagne",
+     "North-east Spain",
+     "Noreste de España"
+    ],
+    [
+     "Valle del Rodano",
+     "Vallée du Rhône",
+     "Rhône Valley",
+     "Valle del Ródano"
+    ],
+    [
+     "Sudafrica",
+     "Afrique du Sud",
+     "South Africa",
+     "Sudáfrica"
+    ]
+   ],
+   "e": [
+    "Come il Carmenère, il Malbec viene dal sud-ovest della Francia e si è adattato bene al Sud America.",
+    "Comme le Carmenère, le Malbec vient du sud-ouest de la France et s'est bien adapté à l'Amérique du Sud.",
+    "Like Carmenère, Malbec comes from south-west France and has adapted well to South America.",
+    "Como la Carmenère, la Malbec procede del suroeste de Francia y se ha adaptado bien a Sudamérica."
+   ],
+   "d": [
+    "Il Malbec, come il Carmenère, è un'uva di origine francese, del sud-ovest del paese. Ha trovato in Argentina un clima più caldo che gli si addice, ed è diventato l'uva nera più importante del paese. Il Pinotage, al contrario, non viene dalla Francia: è stato creato in Sudafrica per il clima locale.",
+    "Le Malbec, comme le Carmenère, est un cépage d'origine française, du sud-ouest du pays. Il a trouvé en Argentine un climat plus chaud qui lui convient et il y est devenu le cépage noir le plus important. Le Pinotage, au contraire, ne vient pas de France : il a été créé en Afrique du Sud pour le climat local.",
+    "Malbec, like Carmenère, is a French grape from the south-west of the country. In Argentina it found a warmer climate that suits it and became the country's most important black grape. Pinotage, by contrast, does not come from France: it was bred in South Africa for the local climate.",
+    "La Malbec, como la Carmenère, es una uva de origen francés, del suroeste del país. En Argentina encontró un clima más cálido que le sienta bien y se convirtió en la uva tinta más importante del país. La Pinotage, en cambio, no viene de Francia: se creó en Sudáfrica para el clima local."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "A quale vitigno è strettamente imparentato il Pinotage?",
+    "À quel cépage le Pinotage est-il étroitement apparenté ?",
+    "Which grape is Pinotage closely related to?",
+    "¿Con qué uva está muy emparentada la Pinotage?"
+   ],
+   "o": [
+    [
+     "Pinot Nero",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon"
+    ],
+    [
+     "Malbec",
+     "Malbec",
+     "Malbec",
+     "Malbec"
+    ],
+    [
+     "Gamay",
+     "Gamay",
+     "Gamay",
+     "Gamay"
+    ]
+   ],
+   "e": [
+    "Il Pinotage è stretto parente del Pinot Nero e ne condivide la frutta rossa.",
+    "Le Pinotage est proche parent du Pinot Noir et en partage les fruits rouges.",
+    "Pinotage is closely related to Pinot Noir and shares its red fruit.",
+    "La Pinotage es pariente cercana de la Pinot Noir y comparte su fruta roja."
+   ],
+   "d": [
+    "Il Pinotage è stato creato appositamente per il Sudafrica ed è strettamente imparentato con il Pinot Nero. Per questo i suoi vini mostrano una frutta rossa simile: fragola, lampone e ciliegia rossa. Cabernet Sauvignon e Merlot sono uve con cui spesso si taglia, non suoi parenti stretti.",
+    "Le Pinotage a été créé tout exprès pour l'Afrique du Sud et il est étroitement apparenté au Pinot Noir. Ses vins montrent donc des fruits rouges semblables : fraise, framboise et cerise rouge. Le Cabernet Sauvignon et le Merlot sont des cépages avec lesquels on l'assemble souvent, pas de proches parents.",
+    "Pinotage was bred specially for South Africa and is closely related to Pinot Noir. That is why its wines show similar red fruit: strawberry, raspberry and red cherry. Cabernet Sauvignon and Merlot are grapes it is often blended with, not close relatives.",
+    "La Pinotage se creó expresamente para Sudáfrica y está muy emparentada con la Pinot Noir. Por eso sus vinos muestran una fruta roja parecida: fresa, frambuesa y cereza roja. Cabernet Sauvignon y Merlot son uvas con las que se mezcla a menudo, no parientes cercanas."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quale struttura è tipica di un Pinotage?",
+    "Quelle structure est typique d'un Pinotage ?",
+    "Which structure is typical of Pinotage?",
+    "¿Qué estructura es típica de una Pinotage?"
+   ],
+   "o": [
+    [
+     "Tannini medi e acidità alta",
+     "Tanins moyens et acidité élevée",
+     "Medium tannins and high acidity",
+     "Taninos medios y acidez alta"
+    ],
+    [
+     "Tannini alti e acidità bassa",
+     "Tanins élevés et acidité faible",
+     "High tannins and low acidity",
+     "Taninos altos y acidez baja"
+    ],
+    [
+     "Tannini bassi e acidità bassa",
+     "Tanins faibles et acidité faible",
+     "Low tannins and low acidity",
+     "Taninos bajos y acidez baja"
+    ],
+    [
+     "Tannini alti e acidità media",
+     "Tanins élevés et acidité moyenne",
+     "High tannins and medium acidity",
+     "Taninos altos y acidez media"
+    ]
+   ],
+   "e": [
+    "I vini di Pinotage hanno di solito tannini medi e acidità alta.",
+    "Les vins de Pinotage ont en général des tanins moyens et une acidité élevée.",
+    "Pinotage wines usually have medium tannins and high acidity.",
+    "Los vinos de Pinotage suelen tener taninos medios y acidez alta."
+   ],
+   "d": [
+    "Il Pinotage dà vini con tannini medi e acidità alta. Gli stili spaziano da rossi fruttati e di medio corpo con fragola e ciliegia rossa a vini potenti e pieni, con frutta rossa e nera concentrata. Tannini alti sono invece tipici di Malbec e Carmenère, mentre l'acidità bassa è un tratto della Grenache.",
+    "Le Pinotage donne des vins aux tanins moyens et à l'acidité élevée. Les styles vont de rouges fruités de corps moyen, sur la fraise et la cerise rouge, à des vins puissants et corsés aux fruits rouges et noirs concentrés. Les tanins élevés sont plutôt typiques du Malbec et du Carmenère, et l'acidité faible est un trait du Grenache.",
+    "Pinotage gives wines with medium tannins and high acidity. Styles range from fruity, medium-bodied reds with strawberry and red cherry to powerful, full-bodied wines with concentrated red and black fruit. High tannins are more typical of Malbec and Carmenère, while low acidity is a Grenache trait.",
+    "La Pinotage da vinos con taninos medios y acidez alta. Los estilos van desde tintos afrutados de cuerpo medio, con fresa y cereza roja, hasta vinos potentes y con cuerpo, con fruta roja y negra concentrada. Los taninos altos son más propios de la Malbec y la Carmenère, y la acidez baja es un rasgo de la Garnacha."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Che cos'è un Cape Blend?",
+    "Qu'est-ce qu'un Cape Blend ?",
+    "What is a Cape Blend?",
+    "¿Qué es un Cape Blend?"
+   ],
+   "o": [
+    [
+     "Un taglio sudafricano con Pinotage e uve come Cabernet Sauvignon e Merlot",
+     "Un assemblage sud-africain avec Pinotage et des cépages comme Cabernet Sauvignon et Merlot",
+     "A South African blend of Pinotage with grapes such as Cabernet Sauvignon and Merlot",
+     "Una mezcla sudafricana de Pinotage con uvas como Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Un taglio cileno di Carmenère con Cabernet Sauvignon e Merlot",
+     "Un assemblage chilien de Carmenère avec Cabernet Sauvignon et Merlot",
+     "A Chilean blend of Carmenère with Cabernet Sauvignon and Merlot",
+     "Una mezcla chilena de Carmenère con Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Un taglio argentino di Malbec con Cabernet Sauvignon e Merlot",
+     "Un assemblage argentin de Malbec avec Cabernet Sauvignon et Merlot",
+     "An Argentine blend of Malbec with Cabernet Sauvignon and Merlot",
+     "Una mezcla argentina de Malbec con Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Un rosato sudafricano di Pinotage fatto con breve macerazione",
+     "Un rosé sud-africain de Pinotage élaboré par courte macération",
+     "A South African Pinotage rosé made by short maceration",
+     "Un rosado sudafricano de Pinotage hecho por maceración corta"
+    ]
+   ],
+   "e": [
+    "Cape Blend è il nome comune dei tagli che uniscono il Pinotage ad altre uve come Cabernet Sauvignon e Merlot.",
+    "Cape Blend est le nom courant des assemblages associant le Pinotage à d'autres cépages comme le Cabernet Sauvignon et le Merlot.",
+    "Cape Blend is the common name for blends of Pinotage with other grapes such as Cabernet Sauvignon and Merlot.",
+    "Cape Blend es el nombre común de las mezclas de Pinotage con otras uvas como Cabernet Sauvignon y Merlot."
+   ],
+   "d": [
+    "Il Pinotage si trova in purezza oppure in taglio con altre varietà, per esempio Cabernet Sauvignon e Merlot. Questi tagli sono chiamati comunemente Cape Blend, e il termine può comparire in etichetta. Anche Carmenère e Malbec si tagliano con le stesse uve bordolesi, ma quei vini non si chiamano Cape Blend.",
+    "Le Pinotage se trouve en monocépage ou assemblé à d'autres variétés, par exemple le Cabernet Sauvignon et le Merlot. Ces assemblages sont couramment appelés Cape Blend, et la mention peut figurer sur l'étiquette. Le Carmenère et le Malbec s'assemblent aussi aux mêmes cépages bordelais, mais ces vins ne s'appellent pas Cape Blend.",
+    "Pinotage can be single-varietal or blended with other varieties, for example Cabernet Sauvignon and Merlot. These blends are commonly called Cape Blends, and the term can appear on labels. Carmenère and Malbec are also blended with the same Bordeaux grapes, but those wines are not called Cape Blends.",
+    "La Pinotage se encuentra como monovarietal o mezclada con otras variedades, por ejemplo Cabernet Sauvignon y Merlot. Estas mezclas se llaman comúnmente Cape Blend, y el término puede aparecer en la etiqueta. La Carmenère y la Malbec también se mezclan con las mismas uvas bordelesas, pero esos vinos no se llaman Cape Blend."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Quali profumi può prendere un Pinotage a contatto con il rovere?",
+    "Quels arômes un Pinotage peut-il prendre au contact du chêne ?",
+    "Which aromas can Pinotage take on from contact with oak?",
+    "¿Qué aromas puede adquirir una Pinotage en contacto con el roble?"
+   ],
+   "o": [
+    [
+     "Caffè, cioccolato e fumo",
+     "Café, chocolat et fumée",
+     "Coffee, chocolate and smoke",
+     "Café, chocolate y humo"
+    ],
+    [
+     "Peperone verde e foglia di pomodoro",
+     "Poivron vert et feuille de tomate",
+     "Green pepper and tomato leaf",
+     "Pimiento verde y hoja de tomate"
+    ],
+    [
+     "Banana, caramella e lampone",
+     "Banane, bonbon et framboise",
+     "Banana, candy and raspberry",
+     "Plátano, caramelo y frambuesa"
+    ],
+    [
+     "Pepe bianco e liquirizia",
+     "Poivre blanc et réglisse",
+     "White pepper and liquorice",
+     "Pimienta blanca y regaliz"
+    ]
+   ],
+   "e": [
+    "Con il rovere il Pinotage può avere profumi marcati di caffè, cioccolato e fumo.",
+    "Au contact du chêne, le Pinotage peut prendre des arômes marqués de café, chocolat et fumée.",
+    "With oak, Pinotage can show pronounced coffee, chocolate and smoke aromas.",
+    "Con el roble, la Pinotage puede mostrar aromas marcados de café, chocolate y humo."
+   ],
+   "d": [
+    "Quando matura a contatto con il rovere, il Pinotage può sviluppare profumi intensi di caffè, cioccolato e fumo, che si aggiungono alla sua frutta rossa e, negli stili più potenti, nera. Il peperone verde segnala un Carmenère poco maturo; pepe bianco e liquirizia sono spezie tipiche della Grenache; banana e caramella di certi Beaujolais.",
+    "Élevé au contact du chêne, le Pinotage peut développer des arômes intenses de café, de chocolat et de fumée, qui s'ajoutent à ses fruits rouges et, dans les styles puissants, noirs. Le poivron vert signale un Carmenère pas assez mûr ; poivre blanc et réglisse sont des épices typiques du Grenache ; banane et bonbon de certains Beaujolais.",
+    "When matured in contact with oak, Pinotage can develop intense coffee, chocolate and smoke aromas on top of its red fruit and, in more powerful styles, black fruit. Green pepper signals underripe Carmenère; white pepper and liquorice are typical Grenache spices; banana and candy belong to some Beaujolais.",
+    "Cuando se cría en contacto con roble, la Pinotage puede desarrollar aromas intensos de café, chocolate y humo, que se suman a su fruta roja y, en los estilos potentes, negra. El pimiento verde indica una Carmenère poco madura; pimienta blanca y regaliz son especias típicas de la Garnacha; plátano y caramelo, de ciertos Beaujolais."
+   ]
+  },
+  {
+   "c": "r3",
+   "q": [
+    "Per quale clima è stato creato il Pinotage?",
+    "Pour quel climat le Pinotage a-t-il été créé ?",
+    "Which climate was Pinotage bred for?",
+    "¿Para qué clima se creó la Pinotage?"
+   ],
+   "o": [
+    [
+     "Il clima caldo e secco del Sudafrica",
+     "Le climat chaud et sec de l'Afrique du Sud",
+     "South Africa's warm, dry climate",
+     "El clima cálido y seco de Sudáfrica"
+    ],
+    [
+     "Il clima fresco e umido del Cile",
+     "Le climat frais et humide du Chili",
+     "Chile's cool, damp climate",
+     "El clima fresco y húmedo de Chile"
+    ],
+    [
+     "Il clima moderato della Borgogna",
+     "Le climat modéré de la Bourgogne",
+     "Burgundy's moderate climate",
+     "El clima moderado de Borgoña"
+    ],
+    [
+     "Il clima d'alta quota di Mendoza",
+     "Le climat d'altitude de Mendoza",
+     "Mendoza's high-altitude climate",
+     "El clima de altura de Mendoza"
+    ]
+   ],
+   "e": [
+    "A differenza di Carmenère e Malbec, il Pinotage è stato sviluppato apposta per il clima caldo e secco del Sudafrica.",
+    "Contrairement au Carmenère et au Malbec, le Pinotage a été créé exprès pour le climat chaud et sec sud-africain.",
+    "Unlike Carmenère and Malbec, Pinotage was developed specially for South Africa's warm, dry climate.",
+    "A diferencia de la Carmenère y la Malbec, la Pinotage se desarrolló expresamente para el clima cálido y seco de Sudáfrica."
+   ],
+   "d": [
+    "Carmenère e Malbec sono uve francesi che hanno trovato una nuova casa in Sud America. Il Pinotage invece è nato in Sudafrica, sviluppato appositamente per il clima caldo e secco del paese, ed è coltivato in tutto il Western Cape. Pur essendo parente del Pinot Nero, non è stato pensato per i climi moderati della Borgogna.",
+    "Le Carmenère et le Malbec sont des cépages français qui ont trouvé une nouvelle patrie en Amérique du Sud. Le Pinotage, lui, est né en Afrique du Sud, créé tout exprès pour le climat chaud et sec du pays, et il est cultivé dans tout le Western Cape. Bien que parent du Pinot Noir, il n'a pas été conçu pour le climat modéré de la Bourgogne.",
+    "Carmenère and Malbec are French grapes that found a new home in South America. Pinotage, however, was born in South Africa, bred specially for the country's warm, dry climate, and is grown throughout the Western Cape. Although related to Pinot Noir, it was not designed for Burgundy's moderate climate.",
+    "La Carmenère y la Malbec son uvas francesas que encontraron un nuevo hogar en Sudamérica. La Pinotage, en cambio, nació en Sudáfrica, creada expresamente para el clima cálido y seco del país, y se cultiva en todo el Western Cape. Aunque es pariente de la Pinot Noir, no se pensó para el clima moderado de Borgoña."
+   ]
+  }
+ ],
  "flash": []
 }
