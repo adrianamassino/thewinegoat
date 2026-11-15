@@ -359,6 +359,488 @@
     ]
    ],
    "c": "w1"
+  },
+  {
+   "t": [
+    "Chardonnay",
+    "Chardonnay",
+    "Chardonnay",
+    "Chardonnay"
+   ],
+   "p": [
+    [
+     "Lo Chardonnay è uno dei vitigni più amati e più coltivati al mondo. Dà vini secchi, ma in stili molto diversi tra loro. Il motivo principale è che si adatta bene sia ai climi freschi sia a quelli caldi, e cambia carattere a seconda di quanto maturano le uve. Anche le scelte in cantina, soprattutto l'uso del rovere, ne modificano lo stile.",
+     "Le Chardonnay est l'un des cépages les plus appréciés et les plus plantés au monde. Il donne des vins secs, mais dans des styles très différents. La raison principale : il pousse aussi bien en climat frais qu'en climat chaud et change de caractère selon la maturité du raisin. Les choix en cave, surtout l'usage du chêne, modifient aussi son style.",
+     "Chardonnay is one of the most popular and widely planted grape varieties in the world. It makes dry wines, but in very different styles. The main reason is that it does well in both cool and warm climates and changes character with the ripeness of the grapes. Choices in the winery, above all the use of oak, also shape its style.",
+     "La Chardonnay es una de las variedades más apreciadas y plantadas del mundo. Da vinos secos, pero en estilos muy distintos. La razón principal es que se adapta tanto a climas frescos como cálidos y cambia de carácter según lo madura que esté la uva. Las decisiones en bodega, sobre todo el uso del roble, también modifican su estilo."
+    ],
+    [
+     "In un clima fresco le uve maturano meno: restano più acide e meno zuccherine. Ne nasce uno Chardonnay con acidità alta, corpo da leggero a medio e aromi di frutta verde (mela) e agrumi (limone). In un clima caldo le uve maturano di più: il vino ha acidità media, corpo da medio a pieno e sapori di frutta a nocciolo (pesca) e tropicale (ananas, banana).",
+     "En climat frais, le raisin mûrit moins : il reste plus acide et moins sucré. On obtient un Chardonnay à l'acidité élevée, au corps léger à moyen, aux arômes de fruit vert (pomme) et d'agrumes (citron). En climat chaud, le raisin mûrit davantage : le vin a une acidité moyenne, un corps moyen à ample et des saveurs de fruit à noyau (pêche) et tropical (ananas, banane).",
+     "In a cool climate the grapes ripen less, so they stay more acidic and less sugary. The result is a Chardonnay with high acidity, a light to medium body and aromas of green fruit (apple) and citrus (lemon). In a warm climate the grapes ripen further: the wine has medium acidity, a medium to full body and flavours of stone fruit (peach) and tropical fruit (pineapple, banana).",
+     "En clima fresco la uva madura menos y se mantiene más ácida y menos azucarada. El resultado es un Chardonnay de acidez alta, cuerpo ligero a medio y aromas de fruta verde (manzana) y cítricos (limón). En clima cálido la uva madura más: el vino tiene acidez media, cuerpo medio a alto y sabores de fruta de hueso (melocotón) y tropical (piña, plátano)."
+    ],
+    [
+     "Lo Chardonnay può fermentare e affinarsi in serbatoi d'acciaio inox oppure in botti di rovere. Senza legno conserva una frutta pura e fresca. Con il rovere acquista note di vaniglia e spesso un carattere più ricco. Un esempio tipico di stile caldo e passato in legno è uno Chardonnay californiano di corpo pieno, con frutta tropicale matura e vaniglia.",
+     "Le Chardonnay peut fermenter et être élevé en cuve inox ou en fût de chêne. Sans bois, il garde un fruit pur et frais. Avec le chêne, il prend des notes de vanille et souvent un caractère plus riche. Un exemple typique de style chaud et boisé : un Chardonnay californien corsé, au fruit tropical mûr et à la vanille.",
+     "Chardonnay can be fermented and matured in stainless steel tanks or in oak barrels. Without oak it keeps pure, fresh fruit. With oak it picks up vanilla notes and often a richer character. A typical example of the warm, oaked style is a full-bodied Californian Chardonnay with ripe tropical fruit and vanilla.",
+     "La Chardonnay puede fermentar y criarse en depósitos de acero inoxidable o en barricas de roble. Sin madera conserva una fruta pura y fresca. Con roble adquiere notas de vainilla y a menudo un carácter más rico. Un ejemplo típico del estilo cálido y con madera es un Chardonnay californiano con cuerpo, fruta tropical madura y vainilla."
+    ],
+    [
+     "Lo Chardonnay è l'uva dei bianchi di Burgundy (Bourgogne), in Francia: vini di corpo medio, molto freschi, con limone e pesca e talvolta vaniglia del rovere. Lo Chablis viene dalla parte più fresca di Burgundy: acidità alta, corpo da leggero a medio, mela e limone, di solito senza legno. Fuori dalla Francia sono famosi gli Chardonnay di Australia e California.",
+     "Le Chardonnay est le cépage des blancs de Burgundy (Bourgogne), en France : vins de corps moyen, très frais, aux notes de citron et de pêche, parfois de vanille du chêne. Le Chablis vient de la partie la plus fraîche de la Bourgogne : acidité élevée, corps léger à moyen, pomme et citron, en général sans bois. Hors de France, l'Australie et la Californie sont réputées.",
+     "Chardonnay is the grape behind white Burgundy (Bourgogne) in France: medium-bodied, high-acid wines with lemon and peach, sometimes with vanilla from oak. Chablis comes from the coolest part of Burgundy: high acidity, light to medium body, apple and lemon, and usually no oak. Outside France, Australia and California are well known for Chardonnay.",
+     "La Chardonnay es la uva de los blancos de Burgundy (Borgoña), en Francia: vinos de cuerpo medio y acidez alta, con limón y melocotón y a veces vainilla del roble. El Chablis procede de la parte más fresca de Borgoña: acidez alta, cuerpo ligero a medio, manzana y limón y normalmente sin madera. Fuera de Francia destacan Australia y California."
+    ],
+    [
+     "Lo Chardonnay serve anche a fare lo Champagne, dove viene spesso unito al Pinot Noir. In sintesi, per riconoscere uno Chardonnay chiediti due cose: il clima era fresco o caldo (mela e limone oppure pesca e ananas)? E il vino è passato in rovere (vaniglia sì o no)? Le risposte ti dicono quasi tutto sullo stile.",
+     "Le Chardonnay entre aussi dans l'élaboration du Champagne, où il est souvent assemblé au Pinot Noir. En résumé, face à un Chardonnay, posez-vous deux questions : climat frais ou chaud (pomme et citron, ou pêche et ananas) ? Passage en chêne ou non (vanille ou pas) ? Les réponses disent presque tout du style.",
+     "Chardonnay is also used to make Champagne, where it is often blended with Pinot Noir. In short, when you meet a Chardonnay, ask two questions: was the climate cool or warm (apple and lemon, or peach and pineapple)? And did the wine see oak (vanilla or not)? The answers tell you almost everything about its style.",
+     "La Chardonnay también se utiliza para elaborar Champagne, donde a menudo se mezcla con Pinot Noir. En resumen, ante un Chardonnay hazte dos preguntas: ¿clima fresco o cálido (manzana y limón, o melocotón y piña)? ¿Ha pasado por roble (vainilla o no)? Las respuestas te dicen casi todo sobre su estilo."
+    ]
+   ],
+   "keys": [
+    [
+     "Vini secchi in molti stili; uno dei vitigni più coltivati",
+     "Vins secs de nombreux styles ; l'un des cépages les plus plantés",
+     "Dry wines in many styles; one of the most planted grapes",
+     "Vinos secos de muchos estilos; una de las uvas más plantadas"
+    ],
+    [
+     "Clima fresco: acidità alta, mela e limone; clima caldo: pesca, ananas, banana",
+     "Climat frais : acidité élevée, pomme et citron ; climat chaud : pêche, ananas, banane",
+     "Cool: high acidity, apple and lemon; warm: peach, pineapple, banana",
+     "Fresco: acidez alta, manzana y limón; cálido: melocotón, piña, plátano"
+    ],
+    [
+     "Il rovere aggiunge vaniglia",
+     "Le chêne apporte la vanille",
+     "Oak adds vanilla",
+     "El roble aporta vainilla"
+    ],
+    [
+     "Burgundy bianco e Chablis (senza legno); anche Australia e California",
+     "Bourgogne blanc et Chablis (sans bois) ; aussi Australie et Californie",
+     "White Burgundy and Chablis (unoaked); also Australia and California",
+     "Burgundy blanco y Chablis (sin madera); también Australia y California"
+    ],
+    [
+     "Nello Champagne insieme al Pinot Noir",
+     "Dans le Champagne avec le Pinot Noir",
+     "In Champagne with Pinot Noir",
+     "En el Champagne junto a la Pinot Noir"
+    ]
+   ],
+   "c": "w2"
+  },
+  {
+   "t": [
+    "Sauvignon Blanc",
+    "Sauvignon Blanc",
+    "Sauvignon Blanc",
+    "Sauvignon Blanc"
+   ],
+   "p": [
+    [
+     "Il Sauvignon Blanc dà vini secchi dai profumi intensi e con un'acidità alta e rinfrescante. Il corpo va da leggero a medio. È un vitigno facile da riconoscere proprio per il naso: già avvicinando il bicchiere si sentono aromi netti e vivaci, che lo distinguono da bianchi più delicati come il Pinot Grigio.",
+     "Le Sauvignon Blanc donne des vins secs aux arômes intenses, avec une acidité élevée et rafraîchissante. Le corps va de léger à moyen. C'est un cépage facile à reconnaître grâce au nez : dès qu'on approche le verre, on perçoit des arômes nets et vifs qui le distinguent de blancs plus discrets comme le Pinot Grigio.",
+     "Sauvignon Blanc makes dry wines with intense aromas and refreshingly high acidity. The body ranges from light to medium. It is an easy grape to spot by its nose: as soon as you lift the glass, you notice sharp, lively aromas that set it apart from more delicate whites such as Pinot Grigio.",
+     "La Sauvignon Blanc da vinos secos de aromas intensos y con una acidez alta y refrescante. El cuerpo va de ligero a medio. Es una uva fácil de reconocer por la nariz: en cuanto acercas la copa, notas aromas nítidos y vivos que la distinguen de blancos más delicados como el Pinot Grigio."
+    ],
+    [
+     "La frutta va dalla mela verde agli agrumi, come il pompelmo, fino ai frutti tropicali, come il frutto della passione. Accanto alla frutta compaiono spesso note erbacee: asparago, peperone verde, erba appena tagliata. Questa combinazione di frutta fresca e note «verdi» è la firma del Sauvignon Blanc.",
+     "Le fruit va de la pomme verte aux agrumes, comme le pamplemousse, jusqu'aux fruits tropicaux, comme le fruit de la passion. À côté du fruit apparaissent souvent des notes herbacées : asperge, poivron vert, herbe fraîchement coupée. Ce mélange de fruit frais et de notes « vertes » est la signature du Sauvignon Blanc.",
+     "The fruit ranges from green apple to citrus such as grapefruit, and on to tropical fruit such as passion fruit. Alongside the fruit there are often herbaceous notes: asparagus, green bell pepper and freshly cut grass. This mix of fresh fruit and «green» notes is Sauvignon Blanc's signature.",
+     "La fruta va de la manzana verde a los cítricos, como el pomelo, hasta las frutas tropicales, como la fruta de la pasión. Junto a la fruta aparecen a menudo notas herbáceas: espárrago, pimiento verde, hierba recién cortada. Esta mezcla de fruta fresca y notas «verdes» es la firma de la Sauvignon Blanc."
+    ],
+    [
+     "In cantina l'obiettivo è proteggere questi profumi. Per questo il Sauvignon Blanc fermenta spesso in serbatoi d'acciaio inox e di solito non viene affinato in rovere: il legno aggiungerebbe vaniglia e note tostate che coprirebbero gli aromi tipici del vitigno. Il risultato è un vino fresco, diretto, molto aromatico.",
+     "En cave, l'objectif est de protéger ces arômes. C'est pourquoi le Sauvignon Blanc fermente souvent en cuve inox et n'est en général pas élevé en chêne : le bois ajouterait de la vanille et des notes grillées qui masqueraient les arômes typiques du cépage. On obtient un vin frais, direct, très aromatique.",
+     "In the winery the aim is to protect those aromas. So Sauvignon Blanc is often fermented in stainless steel tanks and usually not matured in oak: wood would add vanilla and toasty notes that would hide the grape's typical aromas. The result is a fresh, direct and very aromatic wine.",
+     "En bodega el objetivo es proteger esos aromas. Por eso la Sauvignon Blanc fermenta a menudo en depósitos de acero inoxidable y normalmente no se cría en roble: la madera añadiría vainilla y notas tostadas que taparían los aromas típicos de la uva. El resultado es un vino fresco, directo y muy aromático."
+    ],
+    [
+     "Due vini molto popolari da ricordare: il Sauvignon Blanc della Nuova Zelanda (per esempio di Marlborough), spesso con pompelmo, limone ed erba, e il Sancerre, bianco della Valle della Loira in Francia, secco, di corpo medio, con mela verde e note erbacee. Nel Sancerre il nome del vitigno di solito non compare in etichetta: bisogna sapere che è Sauvignon Blanc.",
+     "Deux vins très populaires à retenir : le Sauvignon Blanc de Nouvelle-Zélande (par exemple de Marlborough), souvent sur le pamplemousse, le citron et l'herbe, et le Sancerre, blanc de la vallée de la Loire, sec, de corps moyen, avec pomme verte et notes herbacées. Le cépage n'apparaît en général pas sur l'étiquette du Sancerre : il faut savoir que c'est du Sauvignon Blanc.",
+     "Two very popular wines to remember: New Zealand Sauvignon Blanc (from Marlborough, for example), often showing grapefruit, lemon and grass, and Sancerre, a dry, medium-bodied white from France's Loire Valley with green apple and herbaceous notes. Sancerre labels usually do not name the grape, so you need to know it is Sauvignon Blanc.",
+     "Dos vinos muy populares que conviene recordar: el Sauvignon Blanc de Nueva Zelanda (por ejemplo, de Marlborough), a menudo con pomelo, limón e hierba, y el Sancerre, blanco seco del valle del Loira, en Francia, de cuerpo medio, con manzana verde y notas herbáceas. En la etiqueta del Sancerre no suele aparecer la uva: hay que saber que es Sauvignon Blanc."
+    ]
+   ],
+   "keys": [
+    [
+     "Secco, profumi intensi, acidità alta, corpo leggero-medio",
+     "Sec, arômes intenses, acidité élevée, corps léger à moyen",
+     "Dry, pronounced aromas, high acidity, light to medium body",
+     "Seco, aromas intensos, acidez alta, cuerpo ligero a medio"
+    ],
+    [
+     "Mela, pompelmo, frutto della passione + asparago, peperone verde, erba",
+     "Pomme, pamplemousse, fruit de la passion + asperge, poivron vert, herbe",
+     "Apple, grapefruit, passion fruit + asparagus, green pepper, grass",
+     "Manzana, pomelo, fruta de la pasión + espárrago, pimiento verde, hierba"
+    ],
+    [
+     "Acciaio inox, di solito niente rovere, per proteggere gli aromi",
+     "Cuve inox, en général sans chêne, pour protéger les arômes",
+     "Stainless steel, usually no oak, to keep its aromas",
+     "Acero inoxidable, normalmente sin roble, para conservar los aromas"
+    ],
+    [
+     "Vini chiave: Nuova Zelanda e Sancerre (Loira)",
+     "Vins clés : Nouvelle-Zélande et Sancerre (Loire)",
+     "Key wines: New Zealand and Sancerre (Loire)",
+     "Vinos clave: Nueva Zelanda y Sancerre (Loira)"
+    ]
+   ],
+   "c": "w2"
+  },
+  {
+   "t": [
+    "Pinot Grigio",
+    "Pinot Grigio",
+    "Pinot Grigio",
+    "Pinot Grigio"
+   ],
+   "p": [
+    [
+     "Il Pinot Grigio è un vitigno molto popolare. I suoi vini sono di solito secchi, di corpo leggero e con un'acidità da media ad alta. I sapori sono semplici e delicati: soprattutto pera e limone. Non cerca la potenza o la complessità: è un bianco facile, fresco e immediato, pensato per essere bevuto con piacere.",
+     "Le Pinot Grigio est un cépage très populaire. Ses vins sont en général secs, légers en corps, avec une acidité moyenne à élevée. Les saveurs sont simples et délicates : surtout la poire et le citron. Il ne cherche ni la puissance ni la complexité : c'est un blanc facile, frais et direct, fait pour être bu avec plaisir.",
+     "Pinot Grigio is a hugely popular grape variety. Its wines are usually dry and light-bodied, with medium to high acidity. The flavours are simple and delicate: mostly pear and lemon. It is not about power or complexity; it is an easy, fresh and straightforward white made to be enjoyed without fuss.",
+     "El Pinot Grigio es una variedad muy popular. Sus vinos suelen ser secos, de cuerpo ligero y con una acidez media a alta. Los sabores son sencillos y delicados: sobre todo pera y limón. No busca potencia ni complejidad: es un blanco fácil, fresco y directo, pensado para disfrutarlo sin complicaciones."
+    ],
+    [
+     "Anche qui le scelte di cantina servono a proteggere la frutta. Il Pinot Grigio fermenta di solito in serbatoi d'acciaio inox e non passa in rovere. Così conserva i suoi sapori fruttati e la sua leggerezza: il legno, con vaniglia e note tostate, coprirebbe una frutta così delicata.",
+     "Ici aussi, les choix en cave servent à protéger le fruit. Le Pinot Grigio fermente en général en cuve inox et ne passe pas en chêne. Il garde ainsi ses saveurs fruitées et sa légèreté : le bois, avec sa vanille et ses notes grillées, couvrirait un fruit aussi délicat.",
+     "Here too, winemaking choices are about protecting the fruit. Pinot Grigio is usually fermented in stainless steel tanks and not matured in oak. That way it keeps its fruity flavours and its lightness: oak, with its vanilla and toasty notes, would easily cover such delicate fruit.",
+     "También aquí las decisiones de bodega sirven para proteger la fruta. El Pinot Grigio suele fermentar en depósitos de acero inoxidable y no pasa por roble. Así conserva sus sabores afrutados y su ligereza: la madera, con su vainilla y sus notas tostadas, taparía una fruta tan delicada."
+    ],
+    [
+     "Il Pinot Grigio è legato soprattutto all'Italia, per esempio a zone come il Veneto o il Trentino, ma si coltiva anche in altri paesi. Il nome in etichetta è quello del vitigno: è proprio l'esempio tipico di vino chiamato con il nome dell'uva. Essendo leggero, si serve fresco, come gli altri bianchi di corpo leggero o medio.",
+     "Le Pinot Grigio est surtout associé à l'Italie, par exemple à des zones comme la Vénétie ou le Trentin, mais il est aussi cultivé dans d'autres pays. Le nom sur l'étiquette est celui du cépage : c'est l'exemple type du vin désigné par son raisin. Léger, il se sert frais, comme les autres blancs légers ou moyens.",
+     "Pinot Grigio is linked above all with Italy, for example areas such as Veneto or Trentino, but it is grown in other countries too. The name on the label is the grape's name, making it the classic example of a wine named after its variety. Being light, it is served chilled, like other light and medium-bodied whites.",
+     "El Pinot Grigio se asocia sobre todo con Italia, por ejemplo con zonas como el Véneto o el Trentino, aunque también se cultiva en otros países. El nombre de la etiqueta es el de la uva: es el ejemplo típico de vino que se llama como su variedad. Al ser ligero, se sirve frío, como los demás blancos ligeros o de cuerpo medio."
+    ]
+   ],
+   "keys": [
+    [
+     "Di solito secco, corpo leggero, acidità media-alta",
+     "En général sec, corps léger, acidité moyenne à élevée",
+     "Usually dry, light body, medium to high acidity",
+     "Normalmente seco, cuerpo ligero, acidez media a alta"
+    ],
+    [
+     "Sapori semplici di pera e limone",
+     "Saveurs simples de poire et de citron",
+     "Simple pear and lemon flavours",
+     "Sabores sencillos de pera y limón"
+    ],
+    [
+     "Acciaio inox, niente rovere, per conservare la frutta",
+     "Cuve inox, sans chêne, pour garder le fruit",
+     "Stainless steel, no oak, to keep the fruit",
+     "Acero inoxidable, sin roble, para conservar la fruta"
+    ],
+    [
+     "Legato soprattutto all'Italia",
+     "Surtout associé à l'Italie",
+     "Mainly associated with Italy",
+     "Asociado sobre todo con Italia"
+    ]
+   ],
+   "c": "w2"
+  },
+  {
+   "t": [
+    "Riesling",
+    "Riesling",
+    "Riesling",
+    "Riesling"
+   ],
+   "p": [
+    [
+     "Il Riesling è un vitigno versatile: dà vini che vanno dal secco al dolce, passando per la dolcezza media. C'è però un punto fermo: tutti i Riesling hanno un'acidità alta. È proprio questa acidità a bilanciare l'eventuale zucchero, così anche un Riesling dolce resta fresco e non stanca. Il corpo va da leggero a medio.",
+     "Le Riesling est un cépage polyvalent : il donne des vins secs, demi-doux ou doux. Un point ne change jamais : tous les Riesling ont une acidité élevée. C'est elle qui équilibre le sucre éventuel, si bien que même un Riesling doux reste frais et n'écœure pas. Le corps va de léger à moyen.",
+     "Riesling is a versatile grape: it makes wines from dry through medium to sweet. One thing never changes, though: every Riesling has high acidity. That acidity balances any sugar, so even a sweet Riesling stays fresh rather than cloying. The body ranges from light to medium.",
+     "La Riesling es una uva versátil: da vinos secos, de dulzor medio o dulces. Pero hay algo que no cambia: todos los Riesling tienen una acidez alta. Esa acidez equilibra el azúcar que pueda haber, de modo que incluso un Riesling dulce sigue siendo fresco y no empalaga. El cuerpo va de ligero a medio."
+    ],
+    [
+     "I profumi sono intensi e possono andare dai fiori e dalla mela verde agli agrumi (lime, limone) fino alla frutta a nocciolo (pesca, albicocca). Come per Sauvignon Blanc e Pinot Grigio, il Riesling fermenta spesso in acciaio inox e non passa in rovere: lo scopo è mettere in primo piano gli aromi puri del vitigno.",
+     "Les arômes sont intenses et peuvent aller des fleurs et de la pomme verte aux agrumes (citron vert, citron) jusqu'aux fruits à noyau (pêche, abricot). Comme le Sauvignon Blanc et le Pinot Grigio, le Riesling fermente souvent en cuve inox et ne passe pas en chêne : le but est de mettre en avant les arômes purs du cépage.",
+     "The aromas are pronounced and can range from flowers and green apple to citrus (lime, lemon) and on to stone fruit (peach, apricot). Like Sauvignon Blanc and Pinot Grigio, Riesling is often fermented in stainless steel and not matured in oak, so that the grape's pure aromas take centre stage.",
+     "Los aromas son intensos y pueden ir de las flores y la manzana verde a los cítricos (lima, limón) y hasta la fruta de hueso (melocotón, albaricoque). Como la Sauvignon Blanc y el Pinot Grigio, la Riesling fermenta a menudo en acero inoxidable y no pasa por roble: se busca poner en primer plano los aromas puros de la uva."
+    ],
+    [
+     "Il Riesling è il vitigno classico della Germania, dove si producono vini in tutta la gamma, da secchi a dolci; alcuni Riesling tedeschi, per esempio della Mosella, hanno una dolcezza media bilanciata dall'acidità e un grado alcolico basso. L'Alsazia, in Francia, e l'Australia fanno invece Riesling in stile secco, spesso con agrumi come lime e limone e note floreali.",
+     "Le Riesling est le cépage classique de l'Allemagne, qui produit toute la gamme, du sec au doux ; certains Riesling allemands, par exemple de Moselle, sont demi-doux, équilibrés par l'acidité et peu alcoolisés. L'Alsace, en France, et l'Australie font en revanche des Riesling de style sec, souvent sur le citron vert, le citron et les fleurs.",
+     "Riesling is the classic grape of Germany, where it is made across the whole range from dry to sweet; some German Rieslings, from the Mosel for example, are medium-sweet, balanced by acidity and low in alcohol. Alsace in France and Australia, on the other hand, make Riesling in a dry style, often with lime, lemon and floral notes.",
+     "La Riesling es la uva clásica de Alemania, donde se elabora en toda la gama, de seco a dulce; algunos Riesling alemanes, por ejemplo del Mosela, tienen un dulzor medio equilibrado por la acidez y poca graduación. Alsacia, en Francia, y Australia elaboran en cambio Riesling de estilo seco, a menudo con lima, limón y notas florales."
+    ],
+    [
+     "Attenzione in etichetta: dato che lo stesso vitigno può dare vini secchi, medi o dolci, il nome «Riesling» da solo non dice quanto sarà dolce il vino. L'origine aiuta: Alsazia e Australia fanno pensare a uno stile secco, mentre la Germania copre tutta la gamma. Vale la pena leggere anche la descrizione del vino.",
+     "Attention à l'étiquette : comme le même cépage peut donner des vins secs, demi-doux ou doux, le nom « Riesling » seul ne dit pas si le vin sera sucré. L'origine aide : l'Alsace et l'Australie évoquent un style sec, tandis que l'Allemagne couvre toute la gamme. Mieux vaut aussi lire la description du vin.",
+     "Watch the label: because the same grape can make dry, medium or sweet wines, the word «Riesling» alone does not tell you how sweet the wine will be. The origin helps: Alsace and Australia point to a dry style, while Germany covers the whole range. It is also worth reading the wine's description.",
+     "Ojo con la etiqueta: como la misma uva puede dar vinos secos, de dulzor medio o dulces, la palabra «Riesling» por sí sola no indica cuánto dulzor tendrá el vino. El origen ayuda: Alsacia y Australia hacen pensar en un estilo seco, mientras que Alemania abarca toda la gama. Conviene leer también la descripción del vino."
+    ]
+   ],
+   "keys": [
+    [
+     "Da secco a dolce, ma sempre con acidità alta",
+     "Du sec au doux, mais toujours avec une acidité élevée",
+     "Dry to sweet, but always high in acidity",
+     "De seco a dulce, pero siempre con acidez alta"
+    ],
+    [
+     "Fiori, mela, lime, limone, pesca, albicocca",
+     "Fleurs, pomme, citron vert, citron, pêche, abricot",
+     "Floral, apple, lime, lemon, peach, apricot",
+     "Flores, manzana, lima, limón, melocotón, albaricoque"
+    ],
+    [
+     "Acciaio inox, niente rovere",
+     "Cuve inox, sans chêne",
+     "Stainless steel, no oak",
+     "Acero inoxidable, sin roble"
+    ],
+    [
+     "Germania: tutta la gamma; Alsazia e Australia: stile secco",
+     "Allemagne : toute la gamme ; Alsace et Australie : style sec",
+     "Germany: full range; Alsace and Australia: dry style",
+     "Alemania: toda la gama; Alsacia y Australia: estilo seco"
+    ]
+   ],
+   "c": "w2"
+  },
+  {
+   "t": [
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon"
+   ],
+   "p": [
+    [
+     "Il Cabernet Sauvignon è un'uva nera coltivata in tutto il mondo. Dà vini rossi secchi, con molto tannino e un'acidità alta: si sentono subito la bocca che si asciuga e la freschezza che fa salivare. Il corpo va da medio a pieno. Come gli altri vitigni neri, si trova bene nelle regioni calde, dove le uve maturano con regolarità.",
+     "Le Cabernet Sauvignon est un raisin noir cultivé dans le monde entier. Il donne des rouges secs, riches en tanins et à l'acidité élevée : on sent tout de suite la bouche qui s'assèche et la fraîcheur qui fait saliver. Le corps va de moyen à ample. Comme les autres cépages noirs, il se plaît dans les régions chaudes, où le raisin mûrit régulièrement.",
+     "Cabernet Sauvignon is a black grape planted all over the world. It makes dry red wines with high tannin and high acidity: you notice both the drying grip and the mouth-watering freshness straight away. The body ranges from medium to full. Like other black grapes, it does well in warm regions, where the grapes ripen reliably.",
+     "El Cabernet Sauvignon es una uva tinta plantada en todo el mundo. Da tintos secos con mucho tanino y acidez alta: enseguida se nota cómo se seca la boca y la frescura que hace salivar. El cuerpo va de medio a alto. Como otras uvas tintas, se da bien en regiones cálidas, donde la uva madura con regularidad."
+    ],
+    [
+     "Il profumo più tipico è il ribes nero, spesso con ciliegia nera. Accanto alla frutta compaiono note erbacee come peperone verde e menta. Molti Cabernet Sauvignon vengono affinati in rovere, che aggiunge cedro e vaniglia. Un Cabernet californiano, per esempio, può essere di corpo pieno, con ribes nero intenso e note di cedro.",
+     "L'arôme le plus typique est le cassis, souvent accompagné de cerise noire. À côté du fruit apparaissent des notes herbacées comme le poivron vert et la menthe. Beaucoup de Cabernet Sauvignon sont élevés en chêne, qui ajoute cèdre et vanille. Un Cabernet de Californie, par exemple, peut être corsé, avec un cassis intense et des notes de cèdre.",
+     "Its signature aroma is blackcurrant, often with black cherry. Alongside the fruit there are herbaceous notes such as green bell pepper and mint. Many Cabernet Sauvignons are matured in oak, which adds cedar and vanilla. A Californian Cabernet, for example, can be full-bodied, with intense blackcurrant and cedar notes.",
+     "Su aroma más típico es la grosella negra, a menudo con cereza negra. Junto a la fruta aparecen notas herbáceas como pimiento verde y menta. Muchos Cabernet Sauvignon se crían en roble, que añade cedro y vainilla. Un Cabernet californiano, por ejemplo, puede tener mucho cuerpo, con grosella negra intensa y notas de cedro."
+    ],
+    [
+     "Dato che il tannino è così alto, il Cabernet Sauvignon viene spesso unito ad altri vitigni. A Bordeaux si sposa con il Merlot, che ammorbidisce il vino e gli dà più corpo. In Australia a volte viene unito allo Shiraz, che porta note speziate. Il taglio serve quindi a correggere o arricchire lo stile.",
+     "Ses tanins étant très présents, le Cabernet Sauvignon est souvent assemblé à d'autres cépages. À Bordeaux, il s'allie au Merlot, qui assouplit le vin et lui donne plus de corps. En Australie, il est parfois assemblé à la Shiraz, qui apporte des notes épicées. L'assemblage sert donc à corriger ou enrichir le style.",
+     "Because its tannin is so high, Cabernet Sauvignon is often blended with other grapes. In Bordeaux it is paired with Merlot, which softens the wine and adds body. In Australia it is sometimes blended with Shiraz, which brings spicy aromas. Blending is therefore a way to round out or enrich the style.",
+     "Como su tanino es tan alto, el Cabernet Sauvignon se mezcla a menudo con otras uvas. En Burdeos se une al Merlot, que suaviza el vino y le da más cuerpo. En Australia a veces se mezcla con Shiraz, que aporta notas especiadas. El ensamblaje sirve, por tanto, para pulir o enriquecer el estilo."
+    ],
+    [
+     "Oltre a Bordeaux, il Cabernet Sauvignon è molto coltivato in California, Australia, Cile e Sudafrica. In questi paesi spesso compare in etichetta da solo, con il nome del vitigno. A Bordeaux, invece, l'etichetta riporta il nome della zona e il vino è di solito un taglio: bisogna sapere che dentro ci sono Cabernet Sauvignon e Merlot.",
+     "Outre Bordeaux, le Cabernet Sauvignon est très cultivé en Californie, en Australie, au Chili et en Afrique du Sud. Dans ces pays, il apparaît souvent seul sur l'étiquette, sous le nom du cépage. À Bordeaux, l'étiquette indique plutôt la région et le vin est en général un assemblage : il faut savoir qu'il contient du Cabernet Sauvignon et du Merlot.",
+     "Beyond Bordeaux, Cabernet Sauvignon is widely grown in California, Australia, Chile and South Africa. In these countries it often appears on its own on the label, under the grape's name. In Bordeaux, by contrast, the label shows the region and the wine is usually a blend, so you need to know it contains Cabernet Sauvignon and Merlot.",
+     "Además de en Burdeos, el Cabernet Sauvignon se cultiva mucho en California, Australia, Chile y Sudáfrica. En estos países suele aparecer solo en la etiqueta, con el nombre de la uva. En Burdeos, en cambio, la etiqueta indica la zona y el vino suele ser un ensamblaje: hay que saber que lleva Cabernet Sauvignon y Merlot."
+    ]
+   ],
+   "keys": [
+    [
+     "Secco, tannino alto, acidità alta, corpo medio-pieno",
+     "Sec, tanins élevés, acidité élevée, corps moyen à ample",
+     "Dry, high tannin, high acidity, medium to full body",
+     "Seco, tanino alto, acidez alta, cuerpo medio a alto"
+    ],
+    [
+     "Ribes nero, ciliegia nera, peperone verde, menta; rovere: cedro, vaniglia",
+     "Cassis, cerise noire, poivron vert, menthe ; chêne : cèdre, vanille",
+     "Blackcurrant, black cherry, green pepper, mint; oak: cedar, vanilla",
+     "Grosella negra, cereza negra, pimiento verde, menta; roble: cedro, vainilla"
+    ],
+    [
+     "Bordeaux: con il Merlot (più morbidezza e corpo)",
+     "Bordeaux : avec le Merlot (souplesse et corps)",
+     "Bordeaux: blended with Merlot (softness and body)",
+     "Burdeos: con Merlot (suavidad y cuerpo)"
+    ],
+    [
+     "Anche California, Australia (a volte con Shiraz), Cile, Sudafrica",
+     "Aussi Californie, Australie (parfois avec la Shiraz), Chili, Afrique du Sud",
+     "Also California, Australia (sometimes with Shiraz), Chile, South Africa",
+     "También California, Australia (a veces con Shiraz), Chile, Sudáfrica"
+    ]
+   ],
+   "c": "w3"
+  },
+  {
+   "t": [
+    "Merlot",
+    "Merlot",
+    "Merlot",
+    "Merlot"
+   ],
+   "p": [
+    [
+     "Il Merlot dà vini generalmente secchi, di corpo da medio a pieno, con acidità e tannino medi. È quindi più morbido e rotondo del Cabernet Sauvignon. La frutta va dai frutti rossi, come fragola e prugna rossa, ai frutti neri, come mora e prugna nera: più l'uva è matura, più ci si sposta verso la frutta nera.",
+     "Le Merlot donne des vins généralement secs, au corps moyen à ample, avec une acidité et des tanins moyens. Il est donc plus souple et rond que le Cabernet Sauvignon. Le fruit va des fruits rouges, comme la fraise et la prune rouge, aux fruits noirs, comme la mûre et la prune noire.",
+     "Merlot makes wines that are generally dry and medium- to full-bodied, with medium acidity and medium tannin. That makes it softer and rounder than Cabernet Sauvignon. Its fruit ranges from red fruit such as strawberry and red plum to black fruit such as blackberry and black plum.",
+     "El Merlot da vinos generalmente secos, de cuerpo medio a alto, con acidez y tanino medios. Por eso es más suave y redondo que el Cabernet Sauvignon. Su fruta va de las frutas rojas, como la fresa y la ciruela roja, a las negras, como la mora y la ciruela negra."
+    ],
+    [
+     "Il Merlot viene spesso affinato in rovere, che aggiunge note di vaniglia alla frutta. In Cile e in California se ne fanno vini morbidi e fruttati, facili da bere: in carta potresti trovare un Merlot cileno descritto come «morbido, con prugna nera e mora». È uno dei rossi più accessibili per chi inizia.",
+     "Le Merlot est souvent élevé en chêne, qui ajoute des notes de vanille au fruit. Au Chili et en Californie, on en fait des vins souples et fruités, faciles à boire : sur une carte, un Merlot chilien peut être décrit comme « souple, prune noire et mûre ». C'est l'un des rouges les plus accessibles pour débuter.",
+     "Merlot is often matured in oak, which adds vanilla notes to the fruit. Chile and California use it to make soft, fruity, easy-drinking wines: on a wine list, a Chilean Merlot might be described as «smooth, with black plum and blackberry». It is one of the most approachable reds for beginners.",
+     "El Merlot se cría a menudo en roble, que añade notas de vainilla a la fruta. En Chile y California se elaboran con él vinos suaves y afrutados, fáciles de beber: en una carta, un Merlot chileno puede describirse como «suave, con ciruela negra y mora». Es uno de los tintos más accesibles para empezar."
+    ],
+    [
+     "Il Merlot è il compagno classico del Cabernet Sauvignon. Nel taglio i due si completano: il Merlot porta morbidezza e corpo, il Cabernet Sauvignon aggiunge tannino e acidità. La regione più famosa per questo taglio è Bordeaux; in alcune zone di Bordeaux, come Saint-Émilion, il Merlot è spesso il vitigno principale. Oggi questo taglio si fa in molti altri paesi.",
+     "Le Merlot est le partenaire classique du Cabernet Sauvignon. Dans l'assemblage, ils se complètent : le Merlot apporte souplesse et corps, le Cabernet Sauvignon ajoute tanins et acidité. La région la plus célèbre pour cet assemblage est Bordeaux ; dans certaines zones, comme Saint-Émilion, le Merlot domine souvent. Cet assemblage se fait aujourd'hui dans bien d'autres pays.",
+     "Merlot is Cabernet Sauvignon's classic partner. In a blend the two complete each other: Merlot brings softness and body, while Cabernet Sauvignon adds tannin and acidity. Bordeaux is the most famous region for this blend; in some parts of Bordeaux, such as Saint-Émilion, Merlot is often the main grape. The blend is now common in many other countries.",
+     "El Merlot es el compañero clásico del Cabernet Sauvignon. En el ensamblaje se complementan: el Merlot aporta suavidad y cuerpo, y el Cabernet Sauvignon añade tanino y acidez. La región más famosa por esta mezcla es Burdeos; en algunas zonas, como Saint-Émilion, el Merlot suele ser la uva principal. Hoy esta mezcla es habitual en muchos otros países."
+    ]
+   ],
+   "keys": [
+    [
+     "Secco, corpo medio-pieno, acidità e tannino medi",
+     "Sec, corps moyen à ample, acidité et tanins moyens",
+     "Dry, medium to full body, medium acidity and tannin",
+     "Seco, cuerpo medio a alto, acidez y tanino medios"
+    ],
+    [
+     "Da fragola e prugna rossa a mora e prugna nera; rovere: vaniglia",
+     "De la fraise et prune rouge à la mûre et prune noire ; chêne : vanille",
+     "From strawberry and red plum to blackberry and black plum; oak: vanilla",
+     "De fresa y ciruela roja a mora y ciruela negra; roble: vainilla"
+    ],
+    [
+     "Cile e California: vini morbidi e fruttati",
+     "Chili et Californie : vins souples et fruités",
+     "Chile and California: soft, fruity wines",
+     "Chile y California: vinos suaves y afrutados"
+    ],
+    [
+     "Bordeaux: taglio con il Cabernet Sauvignon (che aggiunge tannino e acidità)",
+     "Bordeaux : assemblage avec le Cabernet Sauvignon (qui ajoute tanins et acidité)",
+     "Bordeaux: blend with Cabernet Sauvignon (which adds tannin and acidity)",
+     "Burdeos: mezcla con Cabernet Sauvignon (que añade tanino y acidez)"
+    ]
+   ],
+   "c": "w3"
+  },
+  {
+   "t": [
+    "Pinot Noir",
+    "Pinot Noir",
+    "Pinot Noir",
+    "Pinot Noir"
+   ],
+   "p": [
+    [
+     "Il Pinot Noir dà rossi di solito secchi, di corpo da leggero a medio, con acidità alta e tannino da basso a medio. È quindi un rosso elegante e delicato, molto diverso dal Cabernet Sauvignon. I suoi aromi sono di frutti rossi: fragola, ciliegia rossa, lampone. Se passa in rovere, cosa frequente, aggiunge note di vaniglia e di affumicato.",
+     "Le Pinot Noir donne des rouges en général secs, au corps léger à moyen, à l'acidité élevée et aux tanins faibles à moyens. C'est donc un rouge élégant et délicat, très différent du Cabernet Sauvignon. Ses arômes sont de fruits rouges : fraise, cerise rouge, framboise. S'il passe en chêne, ce qui est fréquent, il ajoute vanille et fumé.",
+     "Pinot Noir makes reds that are usually dry and light- to medium-bodied, with high acidity and low to medium tannin. It is an elegant, delicate red, very different from Cabernet Sauvignon. Its aromas are of red fruit: strawberry, red cherry and raspberry. It is often matured in oak, which adds notes of vanilla and smoke.",
+     "La Pinot Noir da tintos normalmente secos, de cuerpo ligero a medio, con acidez alta y tanino bajo a medio. Es, por tanto, un tinto elegante y delicado, muy distinto del Cabernet Sauvignon. Sus aromas son de frutas rojas: fresa, cereza roja y frambuesa. Si pasa por roble, algo frecuente, suma notas de vainilla y ahumado."
+    ],
+    [
+     "Il Pinot Noir è l'uva dei rossi di Burgundy (Bourgogne), in Francia: vini secchi, leggeri o medi, molto freschi, con lampone e ciliegia rossa e talvolta vaniglia e affumicato del rovere. È anche il principale vitigno nero della Nuova Zelanda, per esempio nella zona di Central Otago.",
+     "Le Pinot Noir est le cépage des rouges de Bourgogne (Burgundy), en France : vins secs, légers à moyens, très frais, sur la framboise et la cerise rouge, parfois avec vanille et fumé du chêne. C'est aussi le principal cépage noir de Nouvelle-Zélande, par exemple dans la région de Central Otago.",
+     "Pinot Noir is the grape of red Burgundy (Bourgogne) in France: dry, light to medium-bodied, very fresh wines with raspberry and red cherry, and sometimes vanilla and smoke from oak. It is also the main black grape of New Zealand, for example in the Central Otago region.",
+     "La Pinot Noir es la uva de los tintos de Borgoña (Burgundy, Bourgogne), en Francia: vinos secos, ligeros a medios, muy frescos, con frambuesa y cereza roja y a veces vainilla y ahumado del roble. También es la principal uva tinta de Nueva Zelanda, por ejemplo en la zona de Central Otago."
+    ],
+    [
+     "A differenza del Cabernet Sauvignon e del Merlot, quando si fa un vino rosso il Pinot Noir di solito non viene unito ad altri vitigni: si preferisce mostrarne il carattere puro. C'è però un'eccezione importante: nello Champagne il Pinot Noir viene spesso unito allo Chardonnay. Qui le bucce vengono separate subito, così il succo resta chiaro.",
+     "Contrairement au Cabernet Sauvignon et au Merlot, le Pinot Noir n'est en général pas assemblé quand on fait un vin rouge : on préfère montrer son caractère pur. Il y a toutefois une exception importante : dans le Champagne, le Pinot Noir est souvent assemblé au Chardonnay. Les peaux sont alors séparées tout de suite, et le jus reste clair.",
+     "Unlike Cabernet Sauvignon and Merlot, Pinot Noir is not usually blended with other grapes when making red wine; producers prefer to show its pure character. There is one important exception: in Champagne, Pinot Noir is often blended with Chardonnay. There the skins are removed straight away, so the juice stays pale.",
+     "A diferencia del Cabernet Sauvignon y del Merlot, la Pinot Noir no suele mezclarse con otras uvas cuando se hace vino tinto: se prefiere mostrar su carácter puro. Hay, sin embargo, una excepción importante: en el Champagne, la Pinot Noir se mezcla a menudo con Chardonnay. Allí los hollejos se separan enseguida y el zumo se mantiene claro."
+    ]
+   ],
+   "keys": [
+    [
+     "Secco, corpo leggero-medio, acidità alta, tannino basso-medio",
+     "Sec, corps léger à moyen, acidité élevée, tanins faibles à moyens",
+     "Dry, light to medium body, high acidity, low to medium tannin",
+     "Seco, cuerpo ligero a medio, acidez alta, tanino bajo a medio"
+    ],
+    [
+     "Fragola, ciliegia rossa, lampone; rovere: vaniglia, affumicato",
+     "Fraise, cerise rouge, framboise ; chêne : vanille, fumé",
+     "Strawberry, red cherry, raspberry; oak: vanilla, smoke",
+     "Fresa, cereza roja, frambuesa; roble: vainilla, ahumado"
+    ],
+    [
+     "Burgundy rosso; principale uva nera della Nuova Zelanda",
+     "Bourgogne rouge ; principal cépage noir de Nouvelle-Zélande",
+     "Red Burgundy; New Zealand's main black grape",
+     "Borgoña tinto; principal uva tinta de Nueva Zelanda"
+    ],
+    [
+     "Di solito non in taglio per i rossi; nello Champagne con lo Chardonnay",
+     "En général pas d'assemblage en rouge ; dans le Champagne avec le Chardonnay",
+     "Not usually blended for reds; in Champagne with Chardonnay",
+     "Normalmente sin mezclar en tintos; en el Champagne con Chardonnay"
+    ]
+   ],
+   "c": "w3"
+  },
+  {
+   "t": [
+    "Syrah / Shiraz",
+    "Syrah / Shiraz",
+    "Syrah / Shiraz",
+    "Syrah / Shiraz"
+   ],
+   "p": [
+    [
+     "È lo stesso vitigno con due nomi: in Francia si chiama Syrah, in Australia Shiraz. Il nome in etichetta suggerisce quindi anche l'origine e, spesso, lo stile. Dà vini secchi, di corpo da medio a pieno, con tannino da medio ad alto e acidità media. I sapori tipici sono frutta nera (mora, ciliegia nera) e spezie (pepe nero, liquirizia).",
+     "C'est le même cépage sous deux noms : Syrah en France, Shiraz en Australie. Le nom sur l'étiquette suggère donc aussi l'origine et, souvent, le style. Il donne des vins secs, au corps moyen à ample, aux tanins moyens à élevés et à l'acidité moyenne. Les saveurs typiques sont les fruits noirs (mûre, cerise noire) et les épices (poivre noir, réglisse).",
+     "This is one grape with two names: it is called Syrah in France and Shiraz in Australia, so the name on the label also hints at the origin and often the style. It makes dry wines with medium to full body, medium to high tannin and medium acidity. Typical flavours are black fruit (blackberry, black cherry) and spice (black pepper, liquorice).",
+     "Es una misma uva con dos nombres: en Francia se llama Syrah y en Australia, Shiraz. Por eso el nombre de la etiqueta también sugiere el origen y, a menudo, el estilo. Da vinos secos, de cuerpo medio a alto, con tanino medio a alto y acidez media. Los sabores típicos son fruta negra (mora, cereza negra) y especias (pimienta negra, regaliz)."
+    ],
+    [
+     "Molti Syrah e Shiraz vengono affinati in rovere, che aggiunge note di vaniglia o di cocco. Accanto alla frutta nera e alle spezie, questi aromi del legno rendono il vino più ricco. Per chi studia, la coppia «frutta nera + pepe nero» è un ottimo indizio per riconoscere questo vitigno.",
+     "Beaucoup de Syrah et de Shiraz sont élevées en chêne, qui ajoute des notes de vanille ou de noix de coco. À côté du fruit noir et des épices, ces arômes boisés rendent le vin plus riche. Pour les personnes qui étudient, le duo « fruit noir + poivre noir » est un excellent indice pour reconnaître ce cépage.",
+     "Many Syrahs and Shirazes are matured in oak, which adds vanilla or coconut notes. Alongside the black fruit and spice, these oak aromas make the wine richer. For anyone studying, the pairing «black fruit + black pepper» is an excellent clue for recognising this grape.",
+     "Muchos Syrah y Shiraz se crían en roble, que añade notas de vainilla o de coco. Junto a la fruta negra y las especias, estos aromas de la madera hacen el vino más rico. Para quien estudia, la pareja «fruta negra + pimienta negra» es una pista excelente para reconocer esta uva."
+    ],
+    [
+     "Il clima cambia molto lo stile. Nel Rodano settentrionale, in Francia, il Syrah può dare vini di corpo medio, con mora fresca e pepe nero. Nelle zone calde dell'Australia, come la Barossa Valley, le uve maturano di più: lo Shiraz diventa di corpo pieno, con ciliegia nera dal gusto quasi di confettura e liquirizia.",
+     "Le climat change beaucoup le style. Dans le nord de la vallée du Rhône, en France, la Syrah peut donner des vins de corps moyen, avec mûre fraîche et poivre noir. Dans les régions chaudes d'Australie, comme la Barossa Valley, le raisin mûrit davantage : la Shiraz devient corsée, avec une cerise noire presque confiturée et de la réglisse.",
+     "Climate changes the style a great deal. In France's Northern Rhône, Syrah can make medium-bodied wines with fresh blackberry and black pepper. In warm parts of Australia, such as the Barossa Valley, the grapes ripen further, and Shiraz becomes full-bodied, with jammy black cherry and liquorice.",
+     "El clima cambia mucho el estilo. En el norte del Ródano, en Francia, la Syrah puede dar vinos de cuerpo medio, con mora fresca y pimienta negra. En las zonas cálidas de Australia, como el Barossa Valley, la uva madura más: la Shiraz se vuelve de cuerpo alto, con cereza negra casi confitada y regaliz."
+    ],
+    [
+     "Lo Shiraz australiano viene anche unito al Cabernet Sauvignon: in questo taglio lo Shiraz porta aromi speziati. Riassumendo: Francia e Rodano settentrionale = Syrah più fresco e pepato; Australia calda = Shiraz pieno e maturo. Stesso vitigno, due climi, due stili diversi.",
+     "La Shiraz australienne est aussi assemblée au Cabernet Sauvignon : dans cet assemblage, elle apporte des arômes épicés. En résumé : France et nord du Rhône = Syrah plus fraîche et poivrée ; Australie chaude = Shiraz ample et mûre. Même cépage, deux climats, deux styles différents.",
+     "Australian Shiraz is also blended with Cabernet Sauvignon, and in that blend it contributes spicy aromas. To sum up: France and the Northern Rhône = fresher, peppery Syrah; warm Australia = full, ripe Shiraz. Same grape, two climates, two different styles.",
+     "La Shiraz australiana también se mezcla con Cabernet Sauvignon, y en esa mezcla aporta aromas especiados. En resumen: Francia y norte del Ródano = Syrah más fresca y con pimienta; Australia cálida = Shiraz con cuerpo y madura. La misma uva, dos climas, dos estilos distintos."
+    ]
+   ],
+   "keys": [
+    [
+     "Syrah in Francia, Shiraz in Australia: stesso vitigno",
+     "Syrah en France, Shiraz en Australie : même cépage",
+     "Syrah in France, Shiraz in Australia: the same grape",
+     "Syrah en Francia, Shiraz en Australia: la misma uva"
+    ],
+    [
+     "Secco, corpo medio-pieno, tannino medio-alto, acidità media",
+     "Sec, corps moyen à ample, tanins moyens à élevés, acidité moyenne",
+     "Dry, medium to full body, medium to high tannin, medium acidity",
+     "Seco, cuerpo medio a alto, tanino medio a alto, acidez media"
+    ],
+    [
+     "Mora, ciliegia nera, pepe nero, liquirizia; rovere: vaniglia, cocco",
+     "Mûre, cerise noire, poivre noir, réglisse ; chêne : vanille, coco",
+     "Blackberry, black cherry, black pepper, liquorice; oak: vanilla, coconut",
+     "Mora, cereza negra, pimienta negra, regaliz; roble: vainilla, coco"
+    ],
+    [
+     "Rodano settentrionale: medio e pepato; Australia calda: pieno, confettura, liquirizia",
+     "Nord du Rhône : moyen et poivré ; Australie chaude : ample, confituré, réglisse",
+     "Northern Rhône: medium, peppery; warm Australia: full, jammy, liquorice",
+     "Norte del Ródano: medio y con pimienta; Australia cálida: con cuerpo, confitado, regaliz"
+    ]
+   ],
+   "c": "w3"
   }
  ],
  "questions": [
@@ -1583,6 +2065,2356 @@
     "En general, cuanto más fresco es el clima, más ácida y menos dulce se queda la uva; cuanto más cálido, más azúcar, menos acidez y sabores más maduros. Por eso los vinos de clima fresco suelen ser más frescos y ligeros, con fruta verde y cítricos."
    ],
    "c": "w1"
+  },
+  {
+   "q": [
+    "Come si presenta di solito uno Chardonnay di clima fresco?",
+    "Comment se présente en général un Chardonnay de climat frais ?",
+    "What is a cool-climate Chardonnay usually like?",
+    "¿Cómo suele ser un Chardonnay de clima fresco?"
+   ],
+   "o": [
+    [
+     "Acidità alta, corpo leggero-medio, mela e limone",
+     "Acidité élevée, corps léger à moyen, pomme et citron",
+     "High acidity, light to medium body, apple and lemon",
+     "Acidez alta, cuerpo ligero a medio, manzana y limón"
+    ],
+    [
+     "Acidità media, corpo pieno, ananas e banana",
+     "Acidité moyenne, corps ample, ananas et banane",
+     "Medium acidity, full body, pineapple and banana",
+     "Acidez media, mucho cuerpo, piña y plátano"
+    ],
+    [
+     "Acidità bassa, corpo pieno, miele e albicocca",
+     "Acidité faible, corps ample, miel et abricot",
+     "Low acidity, full body, honey and apricot",
+     "Acidez baja, mucho cuerpo, miel y albaricoque"
+    ],
+    [
+     "Acidità media, corpo leggero, pera e fiori",
+     "Acidité moyenne, corps léger, poire et fleurs",
+     "Medium acidity, light body, pear and flowers",
+     "Acidez media, cuerpo ligero, pera y flores"
+    ]
+   ],
+   "e": [
+    "Il clima fresco mantiene alta l'acidità e dà frutta verde e agrumi.",
+    "Le climat frais garde l'acidité élevée et donne fruits verts et agrumes.",
+    "A cool climate keeps acidity high and gives green fruit and citrus.",
+    "El clima fresco mantiene la acidez alta y da fruta verde y cítricos."
+   ],
+   "d": [
+    "Nei climi freschi le uve maturano meno, quindi hanno più acidità e meno zucchero. Lo Chardonnay che ne nasce ha acidità alta, corpo da leggero a medio e aromi di mela e limone. Lo Chablis, dalla parte più fresca di Burgundy, ne è l'esempio classico.",
+    "En climat frais, le raisin mûrit moins : il a plus d'acidité et moins de sucre. Le Chardonnay obtenu a une acidité élevée, un corps léger à moyen et des arômes de pomme et de citron. Le Chablis, issu de la partie la plus fraîche de la Bourgogne, en est l'exemple classique.",
+    "In cool climates the grapes ripen less, so they keep more acidity and less sugar. The resulting Chardonnay has high acidity, a light to medium body and aromas of apple and lemon. Chablis, from the coolest part of Burgundy, is the classic example of this style.",
+    "En climas frescos la uva madura menos, así que conserva más acidez y menos azúcar. El Chardonnay resultante tiene acidez alta, cuerpo ligero a medio y aromas de manzana y limón. El Chablis, de la parte más fresca de Borgoña, es el ejemplo clásico de este estilo."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quali sapori ricorda uno Chardonnay di clima caldo?",
+    "Quelles saveurs évoque un Chardonnay de climat chaud ?",
+    "Which flavours does a warm-climate Chardonnay show?",
+    "¿Qué sabores muestra un Chardonnay de clima cálido?"
+   ],
+   "o": [
+    [
+     "Pesca, ananas e banana",
+     "Pêche, ananas et banane",
+     "Peach, pineapple and banana",
+     "Melocotón, piña y plátano"
+    ],
+    [
+     "Mela verde e limone",
+     "Pomme verte et citron",
+     "Green apple and lemon",
+     "Manzana verde y limón"
+    ],
+    [
+     "Pompelmo, asparago ed erba",
+     "Pamplemousse, asperge et herbe",
+     "Grapefruit, asparagus and grass",
+     "Pomelo, espárrago e hierba"
+    ],
+    [
+     "Ribes nero, menta e cedro",
+     "Cassis, menthe et cèdre",
+     "Blackcurrant, mint and cedar",
+     "Grosella negra, menta y cedro"
+    ]
+   ],
+   "e": [
+    "Con il caldo le uve maturano di più: frutta a nocciolo e tropicale.",
+    "Avec la chaleur, le raisin mûrit davantage : fruits à noyau et tropicaux.",
+    "Warmth ripens the grapes further, giving stone and tropical fruit.",
+    "Con el calor la uva madura más: fruta de hueso y tropical."
+   ],
+   "d": [
+    "Lo Chardonnay di clima caldo ha uve più mature: acidità media, corpo da medio a pieno e sapori di pesca, ananas e banana. Mela verde e limone indicano invece un clima fresco. Pompelmo e asparago fanno pensare al Sauvignon Blanc, ribes nero e menta al Cabernet Sauvignon.",
+    "Le Chardonnay de climat chaud provient de raisins plus mûrs : acidité moyenne, corps moyen à ample, saveurs de pêche, d'ananas et de banane. La pomme verte et le citron signalent au contraire un climat frais. Pamplemousse et asperge évoquent le Sauvignon Blanc, cassis et menthe le Cabernet Sauvignon.",
+    "Warm-climate Chardonnay comes from riper grapes: medium acidity, medium to full body, and flavours of peach, pineapple and banana. Green apple and lemon point instead to a cool climate. Grapefruit and asparagus suggest Sauvignon Blanc, while blackcurrant and mint suggest Cabernet Sauvignon.",
+    "El Chardonnay de clima cálido procede de uvas más maduras: acidez media, cuerpo medio a alto y sabores de melocotón, piña y plátano. La manzana verde y el limón indican, en cambio, un clima fresco. Pomelo y espárrago apuntan a la Sauvignon Blanc; grosella negra y menta, al Cabernet Sauvignon."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Con quale vitigno si fanno i bianchi di Burgundy?",
+    "Avec quel cépage fait-on les blancs de Bourgogne ?",
+    "Which grape is used for white Burgundy?",
+    "¿Con qué uva se elaboran los blancos de Borgoña?"
+   ],
+   "o": [
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ]
+   ],
+   "e": [
+    "I bianchi di Burgundy, Chablis compreso, sono fatti con Chardonnay.",
+    "Les blancs de Bourgogne, Chablis compris, sont faits de Chardonnay.",
+    "White Burgundy, including Chablis, is made from Chardonnay.",
+    "Los blancos de Borgoña, Chablis incluido, se hacen con Chardonnay."
+   ],
+   "d": [
+    "Burgundy (Bourgogne) è la regione francese di riferimento per lo Chardonnay. I suoi bianchi sono di corpo medio, con acidità alta, limone e pesca e a volte vaniglia del rovere. Anche lo Chablis, dalla parte più fresca della regione, è Chardonnay. Il Sauvignon Blanc è invece l'uva del Sancerre.",
+    "La Bourgogne (Burgundy) est la région française de référence pour le Chardonnay. Ses blancs ont un corps moyen, une acidité élevée, des notes de citron et de pêche et parfois de vanille du chêne. Le Chablis, issu de la partie la plus fraîche, est aussi du Chardonnay. Le Sauvignon Blanc est le cépage du Sancerre.",
+    "Burgundy (Bourgogne) is France's benchmark region for Chardonnay. Its whites are medium-bodied with high acidity, lemon and peach, and sometimes vanilla from oak. Chablis, from the coolest part of the region, is also Chardonnay. Sauvignon Blanc, by contrast, is the grape of Sancerre.",
+    "Borgoña (Burgundy, Bourgogne) es la región francesa de referencia para la Chardonnay. Sus blancos tienen cuerpo medio, acidez alta, limón y melocotón y a veces vainilla del roble. El Chablis, de la parte más fresca, también es Chardonnay. La Sauvignon Blanc, en cambio, es la uva del Sancerre."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Perché lo Chablis ha un'acidità alta?",
+    "Pourquoi le Chablis a-t-il une acidité élevée ?",
+    "Why does Chablis have high acidity?",
+    "¿Por qué el Chablis tiene una acidez alta?"
+   ],
+   "o": [
+    [
+     "Viene dalla parte più fresca di Burgundy",
+     "Il vient de la partie la plus fraîche de la Bourgogne",
+     "It comes from the coolest part of Burgundy",
+     "Procede de la parte más fresca de Borgoña"
+    ],
+    [
+     "Viene affinato a lungo in rovere nuovo",
+     "Il est longuement élevé en chêne neuf",
+     "It is aged for a long time in new oak",
+     "Se cría mucho tiempo en roble nuevo"
+    ],
+    [
+     "È fatto con uve nere pressate",
+     "Il est fait de raisins noirs pressés",
+     "It is made from pressed black grapes",
+     "Se elabora con uvas tintas prensadas"
+    ],
+    [
+     "Le uve vengono raccolte molto mature",
+     "Le raisin est vendangé très mûr",
+     "The grapes are picked very ripe",
+     "La uva se vendimia muy madura"
+    ]
+   ],
+   "e": [
+    "Il clima fresco fa maturare meno le uve, che restano più acide.",
+    "Le climat frais limite la maturité : le raisin reste plus acide.",
+    "A cool climate limits ripening, so the grapes stay more acidic.",
+    "El clima fresco limita la maduración y la uva se mantiene más ácida."
+   ],
+   "d": [
+    "Lo Chablis nasce dalla zona più fresca di Burgundy. Lì le uve maturano meno: restano più acide e danno sapori di mela verde e limone. Ne risulta un bianco secco, di corpo leggero o medio, di solito senza rovere. Uve molto mature darebbero, al contrario, meno acidità.",
+    "Le Chablis vient de la zone la plus fraîche de la Bourgogne. Le raisin y mûrit moins : il reste plus acide et donne des saveurs de pomme verte et de citron. On obtient un blanc sec, léger à moyen en corps, en général sans chêne. Un raisin très mûr donnerait, au contraire, moins d'acidité.",
+    "Chablis comes from the coolest area of Burgundy. There the grapes ripen less, so they stay more acidic and give green apple and lemon flavours. The result is a dry white, light to medium in body, usually with no oak. Very ripe grapes would do the opposite and give lower acidity.",
+    "El Chablis procede de la zona más fresca de Borgoña. Allí la uva madura menos, conserva más acidez y da sabores de manzana verde y limón. El resultado es un blanco seco, de cuerpo ligero a medio, normalmente sin roble. Una uva muy madura haría lo contrario y daría menos acidez."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Da dove vengono le note di vaniglia in alcuni bianchi di Burgundy?",
+    "D'où viennent les notes de vanille de certains Bourgogne blancs ?",
+    "Where do vanilla notes in some white Burgundies come from?",
+    "¿De dónde vienen las notas de vainilla de algunos Borgoña blancos?"
+   ],
+   "o": [
+    [
+     "Dall'affinamento in rovere",
+     "De l'élevage en fût de chêne",
+     "Maturation in oak",
+     "La crianza en roble"
+    ],
+    [
+     "Dal clima fresco della regione",
+     "Du climat frais de la région",
+     "The region's cool climate",
+     "El clima fresco de la región"
+    ],
+    [
+     "Dalle bucce delle uve",
+     "De la peau des raisins",
+     "The grape skins",
+     "Los hollejos de la uva"
+    ],
+    [
+     "Dall'acciaio inox",
+     "De la cuve inox",
+     "Stainless steel tanks",
+     "Los depósitos de acero"
+    ]
+   ],
+   "e": [
+    "La vaniglia è un aroma tipico del passaggio in rovere.",
+    "La vanille est un arôme typique du passage en chêne.",
+    "Vanilla is a typical aroma from time in oak.",
+    "La vainilla es un aroma típico del paso por roble."
+   ],
+   "d": [
+    "I bianchi di Burgundy possono essere affinati in rovere oppure no. Quando passano in botte, il legno aggiunge note di vaniglia ai profumi di limone e pesca. L'acciaio inox, al contrario, non cede aromi, e il clima fresco influisce su acidità e tipo di frutta, non sulla vaniglia.",
+    "Les Bourgogne blancs peuvent être élevés en chêne ou non. Quand ils passent en fût, le bois ajoute des notes de vanille aux arômes de citron et de pêche. La cuve inox, elle, n'apporte pas d'arôme, et le climat frais agit sur l'acidité et le type de fruit, pas sur la vanille.",
+    "White Burgundy can be matured in oak or not. When it spends time in barrel, the wood adds vanilla notes to the lemon and peach aromas. Stainless steel, by contrast, adds no aromas, and the cool climate affects acidity and the type of fruit rather than vanilla.",
+    "Los Borgoña blancos pueden criarse en roble o no. Cuando pasan por barrica, la madera añade notas de vainilla a los aromas de limón y melocotón. El acero inoxidable, en cambio, no aporta aromas, y el clima fresco influye en la acidez y en el tipo de fruta, no en la vainilla."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Nello Champagne, lo Chardonnay è spesso unito a quale vitigno?",
+    "Dans le Champagne, à quel cépage le Chardonnay est-il souvent assemblé ?",
+    "In Champagne, Chardonnay is often blended with which grape?",
+    "En el Champagne, ¿con qué uva se mezcla a menudo la Chardonnay?"
+   ],
+   "o": [
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ]
+   ],
+   "e": [
+    "Lo Champagne si fa con Chardonnay e Pinot Noir.",
+    "Le Champagne est fait de Chardonnay et de Pinot Noir.",
+    "Champagne is made from Chardonnay and Pinot Noir.",
+    "El Champagne se elabora con Chardonnay y Pinot Noir."
+   ],
+   "d": [
+    "Lo Champagne, il celebre spumante francese, nasce da Chardonnay e Pinot Noir, spesso uniti. Il Pinot Noir è un'uva nera, ma il suo succo è incolore: separando subito le bucce si ottiene un vino bianco. Merlot e Riesling non sono vitigni dello Champagne.",
+    "Le Champagne, célèbre effervescent français, est fait de Chardonnay et de Pinot Noir, souvent assemblés. Le Pinot Noir est un raisin noir, mais son jus est incolore : en séparant tout de suite les peaux, on obtient un vin blanc. Le Merlot et le Riesling ne sont pas des cépages du Champagne.",
+    "Champagne, the famous French sparkling wine, is made from Chardonnay and Pinot Noir, often blended together. Pinot Noir is a black grape, but its juice is colourless, so removing the skins straight away gives a white wine. Merlot and Riesling are not Champagne grapes.",
+    "El Champagne, el famoso espumoso francés, se elabora con Chardonnay y Pinot Noir, a menudo mezcladas. La Pinot Noir es una uva tinta, pero su zumo es incoloro: si se separan enseguida los hollejos, se obtiene vino blanco. Merlot y Riesling no son uvas del Champagne."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Oltre a Burgundy, quali zone sono famose per lo Chardonnay?",
+    "Outre la Bourgogne, quelles régions sont réputées pour le Chardonnay ?",
+    "Besides Burgundy, which places are well known for Chardonnay?",
+    "Además de Borgoña, ¿qué lugares son famosos por la Chardonnay?"
+   ],
+   "o": [
+    [
+     "Australia e California",
+     "Australie et Californie",
+     "Australia and California",
+     "Australia y California"
+    ],
+    [
+     "Germania e Alsazia",
+     "Allemagne et Alsace",
+     "Germany and Alsace",
+     "Alemania y Alsacia"
+    ],
+    [
+     "Spagna e Portogallo",
+     "Espagne et Portugal",
+     "Spain and Portugal",
+     "España y Portugal"
+    ],
+    [
+     "Nuova Zelanda e Loira",
+     "Nouvelle-Zélande et Loire",
+     "New Zealand and the Loire",
+     "Nueva Zelanda y el Loira"
+    ]
+   ],
+   "e": [
+    "Australia e California sono note per i loro Chardonnay.",
+    "L'Australie et la Californie sont réputées pour leurs Chardonnay.",
+    "Australia and California are well known for their Chardonnay.",
+    "Australia y California son conocidas por sus Chardonnay."
+   ],
+   "d": [
+    "Lo Chardonnay si coltiva in molti paesi, ma oltre a Burgundy sono particolarmente note Australia e California, spesso con stili più caldi e fruttati. Germania e Alsazia sono famose per il Riesling, Nuova Zelanda e Loira (Sancerre) per il Sauvignon Blanc.",
+    "Le Chardonnay est cultivé dans de nombreux pays, mais outre la Bourgogne, l'Australie et la Californie sont particulièrement réputées, souvent pour des styles plus chauds et fruités. L'Allemagne et l'Alsace sont connues pour le Riesling, la Nouvelle-Zélande et la Loire (Sancerre) pour le Sauvignon Blanc.",
+    "Chardonnay is grown in many countries, but besides Burgundy, Australia and California are especially well known, often for warmer, fruitier styles. Germany and Alsace are famous for Riesling, while New Zealand and the Loire (Sancerre) are famous for Sauvignon Blanc.",
+    "La Chardonnay se cultiva en muchos países, pero además de Borgoña destacan Australia y California, a menudo con estilos más cálidos y afrutados. Alemania y Alsacia son famosas por la Riesling, y Nueva Zelanda y el Loira (Sancerre) por la Sauvignon Blanc."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quali note erbacee sono tipiche del Sauvignon Blanc?",
+    "Quelles notes herbacées sont typiques du Sauvignon Blanc ?",
+    "Which herbaceous notes are typical of Sauvignon Blanc?",
+    "¿Qué notas herbáceas son típicas de la Sauvignon Blanc?"
+   ],
+   "o": [
+    [
+     "Asparago, peperone verde, erba",
+     "Asperge, poivron vert, herbe",
+     "Asparagus, green bell pepper, grass",
+     "Espárrago, pimiento verde, hierba"
+    ],
+    [
+     "Vaniglia, cocco, affumicato",
+     "Vanille, noix de coco, fumé",
+     "Vanilla, coconut, smoke",
+     "Vainilla, coco, ahumado"
+    ],
+    [
+     "Miele, albicocca, pesca",
+     "Miel, abricot, pêche",
+     "Honey, apricot, peach",
+     "Miel, albaricoque, melocotón"
+    ],
+    [
+     "Pepe nero, liquirizia, mora",
+     "Poivre noir, réglisse, mûre",
+     "Black pepper, liquorice, blackberry",
+     "Pimienta negra, regaliz, mora"
+    ]
+   ],
+   "e": [
+    "Il Sauvignon Blanc unisce frutta fresca a note di asparago, peperone ed erba.",
+    "Le Sauvignon Blanc associe fruit frais et notes d'asperge, de poivron et d'herbe.",
+    "Sauvignon Blanc pairs fresh fruit with asparagus, green pepper and grass.",
+    "La Sauvignon Blanc une fruta fresca a notas de espárrago, pimiento e hierba."
+   ],
+   "d": [
+    "Oltre alla frutta (mela, pompelmo, frutto della passione), il Sauvignon Blanc mostra spesso note erbacee: asparago, peperone verde ed erba tagliata. Vaniglia, cocco e affumicato vengono dal rovere; pepe nero e liquirizia sono tipici di Syrah/Shiraz; miele e albicocca del Sauternes.",
+    "En plus du fruit (pomme, pamplemousse, fruit de la passion), le Sauvignon Blanc montre souvent des notes herbacées : asperge, poivron vert, herbe coupée. Vanille, noix de coco et fumé viennent du chêne ; poivre noir et réglisse sont typiques de la Syrah/Shiraz ; miel et abricot du Sauternes.",
+    "Besides fruit (apple, grapefruit, passion fruit), Sauvignon Blanc often shows herbaceous notes: asparagus, green bell pepper and cut grass. Vanilla, coconut and smoke come from oak; black pepper and liquorice are typical of Syrah/Shiraz; and honey and apricot belong to Sauternes.",
+    "Además de fruta (manzana, pomelo, fruta de la pasión), la Sauvignon Blanc muestra a menudo notas herbáceas: espárrago, pimiento verde e hierba cortada. Vainilla, coco y ahumado vienen del roble; pimienta negra y regaliz son típicos de la Syrah/Shiraz; miel y albaricoque, del Sauternes."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Perché il Sauvignon Blanc di solito non passa in rovere?",
+    "Pourquoi le Sauvignon Blanc n'est-il en général pas élevé en chêne ?",
+    "Why is Sauvignon Blanc usually not matured in oak?",
+    "¿Por qué la Sauvignon Blanc no suele criarse en roble?"
+   ],
+   "o": [
+    [
+     "Per conservare i suoi aromi tipici",
+     "Pour garder ses arômes typiques",
+     "To keep its characteristic aromas",
+     "Para conservar sus aromas típicos"
+    ],
+    [
+     "Per aumentare il tannino del vino",
+     "Pour augmenter les tanins du vin",
+     "To increase the wine's tannin",
+     "Para aumentar el tanino del vino"
+    ],
+    [
+     "Per renderlo più dolce",
+     "Pour le rendre plus doux",
+     "To make the wine sweeter",
+     "Para hacerlo más dulce"
+    ],
+    [
+     "Per dargli un colore più scuro",
+     "Pour lui donner une couleur plus foncée",
+     "To give it a darker colour",
+     "Para darle un color más oscuro"
+    ]
+   ],
+   "e": [
+    "Senza legno restano in primo piano gli aromi intensi del vitigno.",
+    "Sans bois, les arômes intenses du cépage restent au premier plan.",
+    "Without oak, the grape's intense aromas stay in the spotlight.",
+    "Sin madera, los aromas intensos de la uva siguen en primer plano."
+   ],
+   "d": [
+    "Il Sauvignon Blanc è apprezzato proprio per i suoi profumi intensi di frutta ed erbe. Per proteggerli fermenta spesso in acciaio inox e di solito non viene affinato in rovere, che aggiungerebbe vaniglia e note tostate. Il legno non serve a renderlo più dolce né più scuro.",
+    "Le Sauvignon Blanc est apprécié justement pour ses arômes intenses de fruit et d'herbe. Pour les protéger, il fermente souvent en cuve inox et n'est en général pas élevé en chêne, qui ajouterait vanille et notes grillées. Le bois ne sert ni à l'adoucir ni à le foncer.",
+    "Sauvignon Blanc is loved precisely for its intense fruity and herbaceous aromas. To protect them, it is often fermented in stainless steel and usually not matured in oak, which would add vanilla and toasty notes. Oak is not used to make it sweeter or darker.",
+    "La Sauvignon Blanc se aprecia precisamente por sus intensos aromas de fruta e hierba. Para protegerlos, suele fermentar en acero inoxidable y normalmente no se cría en roble, que añadiría vainilla y notas tostadas. La madera no se usa para hacerla más dulce ni más oscura."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale vino francese è fatto con Sauvignon Blanc?",
+    "Quel vin français est fait de Sauvignon Blanc ?",
+    "Which French wine is made from Sauvignon Blanc?",
+    "¿Qué vino francés se elabora con Sauvignon Blanc?"
+   ],
+   "o": [
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ],
+    [
+     "Chablis",
+     "Chablis",
+     "Chablis",
+     "Chablis"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Côtes du Rhône",
+     "Côtes du Rhône",
+     "Côtes du Rhône",
+     "Côtes du Rhône"
+    ]
+   ],
+   "e": [
+    "Il Sancerre, bianco della Loira, è fatto con Sauvignon Blanc.",
+    "Le Sancerre, blanc de la Loire, est fait de Sauvignon Blanc.",
+    "Sancerre, a white from the Loire, is made from Sauvignon Blanc.",
+    "El Sancerre, blanco del Loira, se elabora con Sauvignon Blanc."
+   ],
+   "d": [
+    "Il Sancerre è un bianco secco della Valle della Loira, di corpo medio, con mela verde ed erba e acidità alta: è Sauvignon Blanc, anche se l'etichetta di solito non lo dice. Lo Chablis è Chardonnay, mentre Beaujolais e Côtes du Rhône sono vini rossi.",
+    "Le Sancerre est un blanc sec de la vallée de la Loire, de corps moyen, avec pomme verte, herbe et acidité élevée : c'est du Sauvignon Blanc, même si l'étiquette ne le dit pas en général. Le Chablis est du Chardonnay, tandis que le Beaujolais et le Côtes du Rhône sont des rouges.",
+    "Sancerre is a dry, medium-bodied white from the Loire Valley with green apple, grass and high acidity. It is Sauvignon Blanc, even though the label usually does not say so. Chablis is made from Chardonnay, while Beaujolais and Côtes du Rhône are red wines.",
+    "El Sancerre es un blanco seco del valle del Loira, de cuerpo medio, con manzana verde, hierba y acidez alta: es Sauvignon Blanc, aunque la etiqueta no suela decirlo. El Chablis se elabora con Chardonnay, mientras que el Beaujolais y el Côtes du Rhône son tintos."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale coppia di vini è un classico del Sauvignon Blanc?",
+    "Quelle paire de vins est un classique du Sauvignon Blanc ?",
+    "Which pair of wines are classic Sauvignon Blanc wines?",
+    "¿Qué pareja de vinos es un clásico de la Sauvignon Blanc?"
+   ],
+   "o": [
+    [
+     "Nuova Zelanda Sauvignon Blanc e Sancerre",
+     "Sauvignon Blanc de Nouvelle-Zélande et Sancerre",
+     "New Zealand Sauvignon Blanc and Sancerre",
+     "Sauvignon Blanc de Nueva Zelanda y Sancerre"
+    ],
+    [
+     "Chablis e Burgundy bianco",
+     "Chablis et Bourgogne blanc",
+     "Chablis and white Burgundy",
+     "Chablis y Borgoña blanco"
+    ],
+    [
+     "Riesling d'Alsazia e della Mosella",
+     "Riesling d'Alsace et de Moselle",
+     "Alsace and Mosel Riesling",
+     "Riesling de Alsacia y del Mosela"
+    ],
+    [
+     "Prosecco e Cava",
+     "Prosecco et Cava",
+     "Prosecco and Cava",
+     "Prosecco y Cava"
+    ]
+   ],
+   "e": [
+    "Sono i due vini più popolari citati per il Sauvignon Blanc.",
+    "Ce sont les deux vins de Sauvignon Blanc les plus populaires.",
+    "They are the two most popular Sauvignon Blanc wines to know.",
+    "Son los dos vinos de Sauvignon Blanc más populares."
+   ],
+   "d": [
+    "Il Sauvignon Blanc della Nuova Zelanda, per esempio di Marlborough, e il Sancerre della Loira sono i due esempi più popolari di questo vitigno: secchi, aromatici, con acidità alta. Chablis e Burgundy bianco sono Chardonnay; Prosecco e Cava sono spumanti fatti con altri vitigni.",
+    "Le Sauvignon Blanc de Nouvelle-Zélande, par exemple de Marlborough, et le Sancerre de la Loire sont les deux exemples les plus populaires de ce cépage : secs, aromatiques, à l'acidité élevée. Chablis et Bourgogne blanc sont du Chardonnay ; Prosecco et Cava sont des effervescents d'autres cépages.",
+    "New Zealand Sauvignon Blanc, from Marlborough for example, and Sancerre from the Loire are the two most popular examples of the grape: dry, aromatic and high in acidity. Chablis and white Burgundy are Chardonnay, while Prosecco and Cava are sparkling wines made from other grapes.",
+    "El Sauvignon Blanc de Nueva Zelanda, por ejemplo de Marlborough, y el Sancerre del Loira son los dos ejemplos más populares de esta uva: secos, aromáticos y de acidez alta. Chablis y Borgoña blanco son Chardonnay; Prosecco y Cava son espumosos de otras variedades."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quali sono acidità e corpo tipici del Sauvignon Blanc?",
+    "Quels sont l'acidité et le corps typiques du Sauvignon Blanc ?",
+    "What acidity and body are typical of Sauvignon Blanc?",
+    "¿Qué acidez y cuerpo son típicos de la Sauvignon Blanc?"
+   ],
+   "o": [
+    [
+     "Acidità alta, corpo leggero-medio",
+     "Acidité élevée, corps léger à moyen",
+     "High acidity, light to medium body",
+     "Acidez alta, cuerpo ligero a medio"
+    ],
+    [
+     "Acidità bassa, corpo pieno",
+     "Acidité faible, corps ample",
+     "Low acidity, full body",
+     "Acidez baja, mucho cuerpo"
+    ],
+    [
+     "Acidità media, corpo pieno",
+     "Acidité moyenne, corps ample",
+     "Medium acidity, full body",
+     "Acidez media, mucho cuerpo"
+    ],
+    [
+     "Acidità bassa, corpo leggero",
+     "Acidité faible, corps léger",
+     "Low acidity, light body",
+     "Acidez baja, cuerpo ligero"
+    ]
+   ],
+   "e": [
+    "Il Sauvignon Blanc è fresco e vivace: acidità alta, corpo leggero-medio.",
+    "Le Sauvignon Blanc est vif : acidité élevée, corps léger à moyen.",
+    "Sauvignon Blanc is crisp: high acidity with a light to medium body.",
+    "La Sauvignon Blanc es viva: acidez alta y cuerpo ligero a medio."
+   ],
+   "d": [
+    "Il Sauvignon Blanc dà vini secchi con un'acidità alta e rinfrescante e un corpo da leggero a medio. Insieme ai profumi intensi di frutta ed erba, questa freschezza ne definisce lo stile. Un corpo pieno con acidità media fa pensare piuttosto a uno Chardonnay di clima caldo.",
+    "Le Sauvignon Blanc donne des vins secs, à l'acidité élevée et rafraîchissante, au corps léger à moyen. Avec ses arômes intenses de fruit et d'herbe, cette fraîcheur définit son style. Un corps ample avec une acidité moyenne évoquerait plutôt un Chardonnay de climat chaud.",
+    "Sauvignon Blanc makes dry wines with refreshingly high acidity and a light to medium body. Together with its intense fruity and herbaceous aromas, that freshness defines its style. A full body with medium acidity would point more towards a warm-climate Chardonnay.",
+    "La Sauvignon Blanc da vinos secos de acidez alta y refrescante, con cuerpo ligero a medio. Junto con sus intensos aromas de fruta e hierba, esa frescura define su estilo. Un cuerpo alto con acidez media haría pensar más bien en un Chardonnay de clima cálido."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale gamma di frutta si trova nel Sauvignon Blanc?",
+    "Quelle gamme de fruits trouve-t-on dans le Sauvignon Blanc ?",
+    "Which range of fruit is found in Sauvignon Blanc?",
+    "¿Qué gama de frutas se encuentra en la Sauvignon Blanc?"
+   ],
+   "o": [
+    [
+     "Mela, pompelmo, frutto della passione",
+     "Pomme, pamplemousse, fruit de la passion",
+     "Apple, grapefruit, passion fruit",
+     "Manzana, pomelo, fruta de la pasión"
+    ],
+    [
+     "Ribes nero, ciliegia nera, mora",
+     "Cassis, cerise noire, mûre",
+     "Blackcurrant, black cherry, blackberry",
+     "Grosella negra, cereza negra, mora"
+    ],
+    [
+     "Fragola, lampone, ciliegia rossa",
+     "Fraise, framboise, cerise rouge",
+     "Strawberry, raspberry, red cherry",
+     "Fresa, frambuesa, cereza roja"
+    ],
+    [
+     "Albicocca, miele, pesca matura",
+     "Abricot, miel, pêche mûre",
+     "Apricot, honey, ripe peach",
+     "Albaricoque, miel, melocotón maduro"
+    ]
+   ],
+   "e": [
+    "Il Sauvignon Blanc va dalla frutta verde agli agrumi ai tropicali.",
+    "Le Sauvignon Blanc va du fruit vert aux agrumes et aux fruits tropicaux.",
+    "Sauvignon Blanc ranges from green fruit to citrus to tropical fruit.",
+    "La Sauvignon Blanc va de la fruta verde a los cítricos y los tropicales."
+   ],
+   "d": [
+    "Gli aromi di frutta del Sauvignon Blanc vanno dalla mela verde al pompelmo fino al frutto della passione, spesso con note erbacee. La frutta nera è tipica dei rossi come il Cabernet Sauvignon, quella rossa del Pinot Noir, mentre albicocca e miele ricordano il Sauternes. Riconoscere la famiglia di frutta è il primo passo per indovinare il vitigno.",
+    "Les arômes fruités du Sauvignon Blanc vont de la pomme verte au pamplemousse jusqu'au fruit de la passion, souvent avec des notes herbacées. Les fruits noirs sont typiques de rouges comme le Cabernet Sauvignon, les fruits rouges du Pinot Noir, et l'abricot et le miel évoquent le Sauternes. Reconnaître la famille de fruits est le premier pas pour deviner le cépage.",
+    "Sauvignon Blanc's fruit aromas run from green apple through grapefruit to passion fruit, often with herbaceous notes. Black fruit is typical of reds like Cabernet Sauvignon, red fruit of Pinot Noir, while apricot and honey bring Sauternes to mind. Recognising the family of fruit is the first step towards naming the grape.",
+    "Los aromas de fruta de la Sauvignon Blanc van de la manzana verde al pomelo y hasta la fruta de la pasión, a menudo con notas herbáceas. La fruta negra es típica de tintos como el Cabernet Sauvignon, la roja de la Pinot Noir, y el albaricoque y la miel recuerdan al Sauternes. Reconocer la familia de fruta es el primer paso para adivinar la uva."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde a un Pinot Grigio?",
+    "Quelle description correspond à un Pinot Grigio ?",
+    "Which description matches a Pinot Grigio?",
+    "¿Qué descripción corresponde a un Pinot Grigio?"
+   ],
+   "o": [
+    [
+     "Secco, leggero, pera e limone",
+     "Sec, léger, poire et citron",
+     "Dry, light-bodied, pear and lemon",
+     "Seco, ligero, pera y limón"
+    ],
+    [
+     "Dolce, pieno, albicocca e miele",
+     "Doux, ample, abricot et miel",
+     "Sweet, full-bodied, apricot and honey",
+     "Dulce, con cuerpo, albaricoque y miel"
+    ],
+    [
+     "Secco, pieno, ananas e vaniglia",
+     "Sec, ample, ananas et vanille",
+     "Dry, full-bodied, pineapple and vanilla",
+     "Seco, con cuerpo, piña y vainilla"
+    ],
+    [
+     "Medio, leggero, fragola e lampone",
+     "Demi-doux, léger, fraise et framboise",
+     "Medium, light, strawberry and raspberry",
+     "Semiseco, ligero, fresa y frambuesa"
+    ]
+   ],
+   "e": [
+    "Il Pinot Grigio è di solito secco, leggero, con pera e limone.",
+    "Le Pinot Grigio est en général sec, léger, sur la poire et le citron.",
+    "Pinot Grigio is usually dry and light, with pear and lemon.",
+    "El Pinot Grigio suele ser seco y ligero, con pera y limón."
+   ],
+   "d": [
+    "Il Pinot Grigio dà vini di solito secchi, di corpo leggero, con acidità da media ad alta e sapori semplici di pera e limone. Le altre descrizioni corrispondono ad altri vini: il Sauternes (dolce, albicocca e miele), uno Chardonnay caldo e passato in legno, e il White Zinfandel. Pensa a un bianco semplice e fresco.",
+    "Le Pinot Grigio donne des vins en général secs, légers, à l'acidité moyenne à élevée, aux saveurs simples de poire et de citron. Les autres descriptions correspondent à d'autres vins : le Sauternes (doux, abricot et miel), un Chardonnay de climat chaud boisé et le White Zinfandel. Pensez à un blanc simple et frais.",
+    "Pinot Grigio usually makes dry, light-bodied wines with medium to high acidity and simple pear and lemon flavours. The other descriptions fit other wines: Sauternes (sweet, apricot and honey), an oaked warm-climate Chardonnay, and White Zinfandel. Think of it as a simple, fresh and easy white.",
+    "El Pinot Grigio suele dar vinos secos, de cuerpo ligero, con acidez media a alta y sabores sencillos de pera y limón. Las otras descripciones encajan con otros vinos: el Sauternes (dulce, albaricoque y miel), un Chardonnay cálido con roble y el White Zinfandel. Piensa en un blanco sencillo y fresco."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "A quale paese è legato soprattutto il Pinot Grigio?",
+    "À quel pays le Pinot Grigio est-il surtout associé ?",
+    "Which country is Pinot Grigio mainly associated with?",
+    "¿Con qué país se asocia sobre todo el Pinot Grigio?"
+   ],
+   "o": [
+    [
+     "Italia",
+     "Italie",
+     "Italy",
+     "Italia"
+    ],
+    [
+     "Germania",
+     "Allemagne",
+     "Germany",
+     "Alemania"
+    ],
+    [
+     "Spagna",
+     "Espagne",
+     "Spain",
+     "España"
+    ],
+    [
+     "Nuova Zelanda",
+     "Nouvelle-Zélande",
+     "New Zealand",
+     "Nueva Zelanda"
+    ]
+   ],
+   "e": [
+    "Il Pinot Grigio è legato soprattutto all'Italia, ma si coltiva anche altrove.",
+    "Le Pinot Grigio est surtout associé à l'Italie, mais il est cultivé ailleurs aussi.",
+    "Pinot Grigio is mainly linked with Italy, though grown elsewhere too.",
+    "El Pinot Grigio se asocia sobre todo con Italia, aunque se cultiva en otros lugares."
+   ],
+   "d": [
+    "Il Pinot Grigio è un vitigno molto popolare associato soprattutto all'Italia, con zone come il Veneto o il Trentino, anche se si coltiva in diversi altri paesi. La Germania è la patria classica del Riesling, la Nuova Zelanda è nota per il Sauvignon Blanc e il Pinot Noir.",
+    "Le Pinot Grigio est un cépage très populaire, surtout associé à l'Italie, avec des zones comme la Vénétie ou le Trentin, même s'il est cultivé dans plusieurs autres pays. L'Allemagne est la patrie classique du Riesling, et la Nouvelle-Zélande est connue pour le Sauvignon Blanc et le Pinot Noir.",
+    "Pinot Grigio is a hugely popular grape mainly associated with Italy, in areas such as Veneto or Trentino, although it is grown in several other countries too. Germany is the classic home of Riesling, and New Zealand is known for Sauvignon Blanc and Pinot Noir.",
+    "El Pinot Grigio es una uva muy popular asociada sobre todo con Italia, con zonas como el Véneto o el Trentino, aunque se cultiva en otros países. Alemania es la patria clásica de la Riesling, y Nueva Zelanda es conocida por la Sauvignon Blanc y la Pinot Noir."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Perché il Pinot Grigio fermenta di solito in acciaio senza rovere?",
+    "Pourquoi le Pinot Grigio fermente-t-il en général en inox, sans chêne ?",
+    "Why is Pinot Grigio usually made in stainless steel without oak?",
+    "¿Por qué el Pinot Grigio suele hacerse en acero y sin roble?"
+   ],
+   "o": [
+    [
+     "Per conservarne i sapori fruttati",
+     "Pour préserver ses saveurs fruitées",
+     "To keep its fruity flavours",
+     "Para conservar sus sabores afrutados"
+    ],
+    [
+     "Per aggiungere note di vaniglia",
+     "Pour ajouter des notes de vanille",
+     "To add notes of vanilla",
+     "Para añadir notas de vainilla"
+    ],
+    [
+     "Per aumentarne il tannino",
+     "Pour augmenter ses tanins",
+     "To increase its tannin",
+     "Para aumentar su tanino"
+    ],
+    [
+     "Per renderlo più alcolico",
+     "Pour le rendre plus alcoolisé",
+     "To make it higher in alcohol",
+     "Para darle más alcohol"
+    ]
+   ],
+   "e": [
+    "L'acciaio non aggiunge aromi e lascia intatta la frutta delicata.",
+    "L'inox n'ajoute pas d'arômes et laisse intact un fruit délicat.",
+    "Steel adds no aromas, so the delicate fruit stays intact.",
+    "El acero no aporta aromas y deja intacta la fruta delicada."
+   ],
+   "d": [
+    "Il Pinot Grigio ha sapori delicati di pera e limone. Fermentandolo in acciaio inox e senza affinamento in rovere, la cantina ne protegge la frutta e la leggerezza. Il rovere aggiungerebbe proprio la vaniglia, mentre tannino e alcol non dipendono dal recipiente usato.",
+    "Le Pinot Grigio a des saveurs délicates de poire et de citron. En le faisant fermenter en cuve inox, sans élevage en chêne, on protège son fruit et sa légèreté. Le chêne ajouterait justement de la vanille, tandis que les tanins et l'alcool ne dépendent pas du contenant.",
+    "Pinot Grigio has delicate pear and lemon flavours. Fermenting it in stainless steel and skipping oak maturation protects that fruit and lightness. Oak would add exactly the vanilla notes the style avoids, while tannin and alcohol do not depend on the vessel used.",
+    "El Pinot Grigio tiene sabores delicados de pera y limón. Al fermentarlo en acero inoxidable y sin crianza en roble, la bodega protege su fruta y su ligereza. El roble añadiría precisamente la vainilla, mientras que el tanino y el alcohol no dependen del recipiente."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale gamma di dolcezza può avere il Riesling?",
+    "Quelle gamme de sucrosité le Riesling peut-il avoir ?",
+    "What range of sweetness can Riesling have?",
+    "¿Qué gama de dulzor puede tener la Riesling?"
+   ],
+   "o": [
+    [
+     "Da secco a dolce, sempre molto acido",
+     "Du sec au doux, toujours très acide",
+     "Dry to sweet, always with high acidity",
+     "De seco a dulce, siempre muy ácido"
+    ],
+    [
+     "Sempre dolce, con acidità bassa",
+     "Toujours doux, avec une acidité faible",
+     "Always sweet, with low acidity",
+     "Siempre dulce, con acidez baja"
+    ],
+    [
+     "Sempre secco, con acidità bassa",
+     "Toujours sec, avec une acidité faible",
+     "Always dry, with low acidity",
+     "Siempre seco, con acidez baja"
+    ],
+    [
+     "Solo medio, con acidità media",
+     "Uniquement demi-doux, acidité moyenne",
+     "Only medium, with medium acidity",
+     "Solo semiseco, con acidez media"
+    ]
+   ],
+   "e": [
+    "Il Riesling può essere secco, medio o dolce, ma è sempre molto acido.",
+    "Le Riesling peut être sec, demi-doux ou doux, mais toujours très acide.",
+    "Riesling can be dry, medium or sweet, but always has high acidity.",
+    "La Riesling puede ser seca, semiseca o dulce, pero siempre muy ácida."
+   ],
+   "d": [
+    "Il Riesling è versatile: dà vini secchi, di dolcezza media o dolci. Ciò che non cambia è l'acidità alta, che bilancia lo zucchero e mantiene il vino fresco. Per questo, leggendo «Riesling» in etichetta, conviene guardare l'origine o la descrizione per capire quanto sarà dolce.",
+    "Le Riesling est polyvalent : il donne des vins secs, demi-doux ou doux. Ce qui ne change pas, c'est l'acidité élevée, qui équilibre le sucre et garde le vin frais. Face à « Riesling » sur une étiquette, mieux vaut donc regarder l'origine ou la description pour deviner la sucrosité.",
+    "Riesling is versatile: it makes dry, medium and sweet wines. What does not change is its high acidity, which balances the sugar and keeps the wine fresh. So when you see «Riesling» on a label, check the origin or the description to work out how sweet it will be.",
+    "La Riesling es versátil: da vinos secos, de dulzor medio y dulces. Lo que no cambia es su acidez alta, que equilibra el azúcar y mantiene el vino fresco. Por eso, al leer «Riesling» en una etiqueta, conviene mirar el origen o la descripción para saber cuánto dulzor tendrá."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Qual è il paese classico del Riesling?",
+    "Quel est le pays classique du Riesling ?",
+    "Which country is the classic home of Riesling?",
+    "¿Cuál es el país clásico de la Riesling?"
+   ],
+   "o": [
+    [
+     "Germania",
+     "Allemagne",
+     "Germany",
+     "Alemania"
+    ],
+    [
+     "Italia",
+     "Italie",
+     "Italy",
+     "Italia"
+    ],
+    [
+     "Spagna",
+     "Espagne",
+     "Spain",
+     "España"
+    ],
+    [
+     "Cile",
+     "Chili",
+     "Chile",
+     "Chile"
+    ]
+   ],
+   "e": [
+    "La Germania è la patria classica del Riesling, dal secco al dolce.",
+    "L'Allemagne est la patrie classique du Riesling, du sec au doux.",
+    "Germany is Riesling's classic home, making it from dry to sweet.",
+    "Alemania es la patria clásica de la Riesling, de seca a dulce."
+   ],
+   "d": [
+    "Il Riesling è il vitigno classico della Germania, dove si producono vini in tutta la gamma di dolcezza, dal secco al dolce. Ottimi Riesling secchi arrivano anche dall'Alsazia, in Francia, e dall'Australia. L'Italia è invece associata soprattutto al Pinot Grigio tra i bianchi principali.",
+    "Le Riesling est le cépage classique de l'Allemagne, où l'on produit toute la gamme de sucrosité, du sec au doux. De très bons Riesling secs viennent aussi d'Alsace, en France, et d'Australie. L'Italie est surtout associée au Pinot Grigio parmi les grands blancs.",
+    "Riesling is the classic grape of Germany, where it is made across the full sweetness range, from dry to sweet. Fine dry Rieslings also come from Alsace in France and from Australia. Among the key white grapes, Italy is linked mainly with Pinot Grigio.",
+    "La Riesling es la uva clásica de Alemania, donde se elabora en toda la gama de dulzor, de seco a dulce. También llegan excelentes Riesling secos de Alsacia, en Francia, y de Australia. Entre las grandes blancas, Italia se asocia sobre todo con el Pinot Grigio."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "In quale stile si producono i Riesling di Alsazia e Australia?",
+    "Dans quel style l'Alsace et l'Australie produisent-elles leurs Riesling ?",
+    "In which style do Alsace and Australia make Riesling?",
+    "¿En qué estilo elaboran Riesling Alsacia y Australia?"
+   ],
+   "o": [
+    [
+     "Secco",
+     "Sec",
+     "Dry",
+     "Seco"
+    ],
+    [
+     "Dolce",
+     "Doux",
+     "Sweet",
+     "Dulce"
+    ],
+    [
+     "Spumante",
+     "Effervescent",
+     "Sparkling",
+     "Espumoso"
+    ],
+    [
+     "Fortificato",
+     "Fortifié",
+     "Fortified",
+     "Fortificado"
+    ]
+   ],
+   "e": [
+    "Alsazia e Australia sono note per Riesling in stile secco.",
+    "L'Alsace et l'Australie sont connues pour des Riesling secs.",
+    "Alsace and Australia are known for dry Riesling.",
+    "Alsacia y Australia son conocidas por sus Riesling secos."
+   ],
+   "d": [
+    "Mentre la Germania produce Riesling dal secco al dolce, l'Alsazia in Francia e l'Australia lo fanno in stile secco. Sono vini molto freschi, con agrumi come lime e limone, note floreali e talvolta pesca. Riconoscere l'origine aiuta quindi a prevedere la dolcezza.",
+    "Alors que l'Allemagne produit des Riesling du sec au doux, l'Alsace et l'Australie le font en style sec. Ce sont des vins très frais, aux notes d'agrumes comme le citron vert et le citron, de fleurs et parfois de pêche. Connaître l'origine aide donc à prévoir la sucrosité.",
+    "While Germany makes Riesling from dry to sweet, Alsace in France and Australia make it in a dry style. These are very fresh wines with citrus such as lime and lemon, floral notes and sometimes peach. Knowing the origin therefore helps you predict the sweetness.",
+    "Mientras Alemania elabora Riesling de seco a dulce, Alsacia, en Francia, y Australia lo hacen en estilo seco. Son vinos muy frescos, con cítricos como lima y limón, notas florales y a veces melocotón. Conocer el origen ayuda, por tanto, a prever el dulzor."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Perché un Riesling dolce non risulta stucchevole?",
+    "Pourquoi un Riesling doux n'est-il pas écœurant ?",
+    "Why does a sweet Riesling not taste cloying?",
+    "¿Por qué un Riesling dulce no resulta empalagoso?"
+   ],
+   "o": [
+    [
+     "L'acidità alta bilancia la dolcezza",
+     "L'acidité élevée équilibre la douceur",
+     "Its high acidity balances the sweetness",
+     "Su acidez alta equilibra el dulzor"
+    ],
+    [
+     "Il rovere copre lo zucchero",
+     "Le chêne masque le sucre",
+     "Oak flavours mask the sugar",
+     "El roble tapa el azúcar"
+    ],
+    [
+     "Il tannino asciuga la bocca",
+     "Le tanin assèche la bouche",
+     "Tannin dries out the mouth",
+     "El tanino seca la boca"
+    ],
+    [
+     "L'alcol alto nasconde lo zucchero",
+     "L'alcool élevé cache le sucre",
+     "High alcohol hides the sugar",
+     "El alcohol alto oculta el azúcar"
+    ]
+   ],
+   "e": [
+    "Tutti i Riesling sono molto acidi e l'acidità fa da contrappeso allo zucchero.",
+    "Tous les Riesling sont très acides, et l'acidité fait contrepoids au sucre.",
+    "All Rieslings are high in acid, which counterbalances the sugar.",
+    "Todos los Riesling son muy ácidos, y la acidez contrarresta el azúcar."
+   ],
+   "d": [
+    "Il Riesling ha sempre un'acidità alta. Nei vini dolci o medi questa acidità bilancia lo zucchero e mantiene il sorso fresco. Il Riesling di solito non passa in rovere, è un vino bianco quindi quasi privo di tannino, e i Riesling dolci tedeschi sono spesso poco alcolici.",
+    "Le Riesling a toujours une acidité élevée. Dans les vins doux ou demi-doux, elle équilibre le sucre et garde la gorgée fraîche. Le Riesling n'est en général pas élevé en chêne, c'est un blanc donc pratiquement sans tanin, et les Riesling doux allemands sont souvent peu alcoolisés.",
+    "Riesling always has high acidity. In sweet or medium wines, that acidity balances the sugar and keeps each sip fresh. Riesling is usually not oaked, as a white wine it has almost no tannin, and sweet German Rieslings are often low in alcohol, so the other options do not apply.",
+    "La Riesling siempre tiene una acidez alta. En los vinos dulces o semisecos, esa acidez equilibra el azúcar y mantiene fresco cada sorbo. La Riesling no suele criarse en roble, como blanco casi no tiene tanino y los Riesling dulces alemanes suelen tener poco alcohol."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quali aromi può mostrare un Riesling?",
+    "Quels arômes un Riesling peut-il montrer ?",
+    "Which aromas can a Riesling show?",
+    "¿Qué aromas puede mostrar una Riesling?"
+   ],
+   "o": [
+    [
+     "Fiori, lime, pesca",
+     "Fleurs, citron vert, pêche",
+     "Floral, lime, peach",
+     "Flores, lima, melocotón"
+    ],
+    [
+     "Vaniglia, cedro, affumicato",
+     "Vanille, cèdre, fumé",
+     "Vanilla, cedar, smoke",
+     "Vainilla, cedro, ahumado"
+    ],
+    [
+     "Pepe nero, liquirizia, mora",
+     "Poivre noir, réglisse, mûre",
+     "Black pepper, liquorice, blackberry",
+     "Pimienta negra, regaliz, mora"
+    ],
+    [
+     "Ribes nero, menta, peperone",
+     "Cassis, menthe, poivron",
+     "Blackcurrant, mint, bell pepper",
+     "Grosella negra, menta, pimiento"
+    ]
+   ],
+   "e": [
+    "Il Riesling va dai fiori e dagli agrumi fino alla frutta a nocciolo.",
+    "Le Riesling va des fleurs et des agrumes jusqu'aux fruits à noyau.",
+    "Riesling ranges from floral and citrus aromas to stone fruit.",
+    "La Riesling va de las flores y los cítricos a la fruta de hueso."
+   ],
+   "d": [
+    "Il Riesling ha profumi intensi che possono andare da fiori e mela verde ad agrumi come lime e limone, fino a pesca e albicocca. Non passa di solito in rovere, quindi vaniglia, cedro e affumicato non sono tipici. Pepe nero e ribes nero appartengono a vitigni rossi.",
+    "Le Riesling a des arômes intenses qui vont des fleurs et de la pomme verte aux agrumes comme le citron vert et le citron, jusqu'à la pêche et l'abricot. Il n'est en général pas boisé : vanille, cèdre et fumé ne sont pas typiques. Poivre noir et cassis appartiennent à des cépages rouges.",
+    "Riesling has pronounced aromas that can range from flowers and green apple to citrus such as lime and lemon, and on to peach and apricot. It is usually unoaked, so vanilla, cedar and smoke are not typical. Black pepper and blackcurrant belong to black grape varieties.",
+    "La Riesling tiene aromas intensos que van de las flores y la manzana verde a cítricos como la lima y el limón, hasta el melocotón y el albaricoque. No suele criarse en roble, así que vainilla, cedro y ahumado no son típicos. Pimienta negra y grosella negra son de uvas tintas."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale dei quattro bianchi principali è più spesso affinato in rovere?",
+    "Lequel des quatre grands blancs est le plus souvent élevé en chêne ?",
+    "Which of the four key white grapes is most often matured in oak?",
+    "¿Cuál de las cuatro grandes blancas se cría más a menudo en roble?"
+   ],
+   "o": [
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ]
+   ],
+   "e": [
+    "Lo Chardonnay può passare in rovere; gli altri tre di solito no.",
+    "Le Chardonnay peut être boisé ; les trois autres en général non.",
+    "Chardonnay can be oaked; the other three usually are not.",
+    "La Chardonnay puede criarse en roble; las otras tres normalmente no."
+   ],
+   "d": [
+    "Sauvignon Blanc, Pinot Grigio e Riesling fermentano spesso in acciaio inox e di solito non passano in rovere, per proteggere i loro aromi fruttati. Lo Chardonnay, invece, viene spesso affinato in legno, che aggiunge vaniglia: pensiamo a molti bianchi di Burgundy o agli Chardonnay californiani.",
+    "Le Sauvignon Blanc, le Pinot Grigio et le Riesling fermentent souvent en cuve inox et ne sont en général pas élevés en chêne, pour protéger leur fruit. Le Chardonnay, lui, est souvent élevé en fût, ce qui apporte de la vanille : pensons à de nombreux Bourgogne blancs ou aux Chardonnay californiens.",
+    "Sauvignon Blanc, Pinot Grigio and Riesling are often fermented in stainless steel and usually not matured in oak, to protect their fruity aromas. Chardonnay, on the other hand, is often aged in oak, which adds vanilla: think of many white Burgundies or Californian Chardonnays.",
+    "La Sauvignon Blanc, el Pinot Grigio y la Riesling suelen fermentar en acero inoxidable y normalmente no pasan por roble, para proteger su fruta. La Chardonnay, en cambio, se cría a menudo en barrica, que aporta vainilla: pensemos en muchos Borgoña blancos o en los Chardonnay californianos."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "In carta: «corpo pieno, frutta tropicale matura e vaniglia». Quale vino è?",
+    "Sur une carte : « corsé, fruit tropical mûr et vanille ». Quel vin est-ce ?",
+    "A wine list says «full-bodied, ripe tropical fruit and vanilla». Which wine is it?",
+    "En una carta: «con cuerpo, fruta tropical madura y vainilla». ¿Qué vino es?"
+   ],
+   "o": [
+    [
+     "Uno Chardonnay della California",
+     "Un Chardonnay de Californie",
+     "A Californian Chardonnay",
+     "Un Chardonnay de California"
+    ],
+    [
+     "Uno Chablis",
+     "Un Chablis",
+     "A Chablis",
+     "Un Chablis"
+    ],
+    [
+     "Un Pinot Grigio italiano",
+     "Un Pinot Grigio italien",
+     "An Italian Pinot Grigio",
+     "Un Pinot Grigio italiano"
+    ],
+    [
+     "Un Riesling dell'Alsazia",
+     "Un Riesling d'Alsace",
+     "An Alsace Riesling",
+     "Un Riesling de Alsacia"
+    ]
+   ],
+   "e": [
+    "Clima caldo e rovere danno corpo, frutta tropicale e vaniglia.",
+    "Climat chaud et chêne donnent corps, fruit tropical et vanille.",
+    "Warm climate plus oak gives body, tropical fruit and vanilla.",
+    "Clima cálido y roble dan cuerpo, fruta tropical y vainilla."
+   ],
+   "d": [
+    "La frutta tropicale matura indica un clima caldo, la vaniglia indica il rovere e il corpo pieno completa il quadro: è lo stile di uno Chardonnay californiano. Lo Chablis è leggero e senza legno, il Pinot Grigio è leggero con pera e limone, il Riesling d'Alsazia è secco, floreale e senza rovere.",
+    "Le fruit tropical mûr signale un climat chaud, la vanille indique le chêne, et le corps ample complète le tableau : c'est le style d'un Chardonnay californien. Le Chablis est léger et sans bois, le Pinot Grigio léger sur la poire et le citron, et le Riesling d'Alsace sec, floral et sans chêne.",
+    "Ripe tropical fruit points to a warm climate, vanilla points to oak, and a full body completes the picture: this is the style of a Californian Chardonnay. Chablis is light and unoaked, Pinot Grigio is light with pear and lemon, and Alsace Riesling is dry, floral and unoaked.",
+    "La fruta tropical madura indica un clima cálido, la vainilla indica roble y el cuerpo completa el cuadro: es el estilo de un Chardonnay californiano. El Chablis es ligero y sin madera, el Pinot Grigio es ligero con pera y limón, y el Riesling de Alsacia es seco, floral y sin roble."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale vitigno bianco si usa per lo Champagne?",
+    "Quel cépage blanc entre dans le Champagne ?",
+    "Which white grape is used to make Champagne?",
+    "¿Qué uva blanca se usa para elaborar Champagne?"
+   ],
+   "o": [
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ]
+   ],
+   "e": [
+    "Lo Chardonnay è il vitigno bianco dello Champagne, spesso con il Pinot Noir.",
+    "Le Chardonnay est le cépage blanc du Champagne, souvent avec le Pinot Noir.",
+    "Chardonnay is Champagne's white grape, often blended with Pinot Noir.",
+    "La Chardonnay es la uva blanca del Champagne, a menudo con Pinot Noir."
+   ],
+   "d": [
+    "Tra i quattro bianchi principali, solo lo Chardonnay entra nello Champagne, dove viene spesso unito al Pinot Noir, un'uva nera. Il risultato è uno spumante di solito secco, con acidità alta, mela verde, limone e note di pane tostato. Gli altri tre vitigni non sono uve dello Champagne.",
+    "Parmi les quatre grands blancs, seul le Chardonnay entre dans le Champagne, où il est souvent assemblé au Pinot Noir, un raisin noir. On obtient un effervescent en général sec, à l'acidité élevée, aux notes de pomme verte, de citron et de pain grillé. Les trois autres cépages ne sont pas des raisins du Champagne.",
+    "Of the four key white grapes, only Chardonnay goes into Champagne, where it is often blended with Pinot Noir, a black grape. The result is a sparkling wine that is usually dry, with high acidity, green apple, lemon and notes of toasted bread. The other three grapes are not used for Champagne.",
+    "De las cuatro grandes blancas, solo la Chardonnay entra en el Champagne, donde a menudo se mezcla con Pinot Noir, una uva tinta. El resultado es un espumoso normalmente seco, de acidez alta, con manzana verde, limón y notas de pan tostado. Las otras tres variedades no se usan para el Champagne."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "In carta: «Australia, secco, profumi di lime e fiori». Quale vitigno è?",
+    "Sur une carte : « Australie, sec, arômes de citron vert et de fleurs ». Quel cépage ?",
+    "A list says «Australia, dry, aromas of lime and blossom». Which grape is it?",
+    "En una carta: «Australia, seco, aromas de lima y flores». ¿Qué uva es?"
+   ],
+   "o": [
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ]
+   ],
+   "e": [
+    "Lime e fiori in un bianco secco australiano indicano il Riesling.",
+    "Citron vert et fleurs dans un blanc sec australien désignent le Riesling.",
+    "Lime and blossom in a dry Australian white point to Riesling.",
+    "Lima y flores en un blanco seco australiano apuntan a la Riesling."
+   ],
+   "d": [
+    "L'Australia produce Riesling in stile secco, con agrumi come il lime e note floreali, sostenuti da un'acidità alta. Lo Chardonnay australiano tende a frutta più matura e spesso vaniglia; il Sauvignon Blanc unisce agrumi a note erbacee; il Pinot Grigio ha pera e limone, senza profumi floreali marcati.",
+    "L'Australie produit des Riesling secs, aux agrumes comme le citron vert et aux notes florales, portés par une acidité élevée. Le Chardonnay australien tend vers un fruit plus mûr, souvent vanillé ; le Sauvignon Blanc associe agrumes et notes herbacées ; le Pinot Grigio a poire et citron, sans arômes floraux marqués.",
+    "Australia makes Riesling in a dry style, with citrus such as lime and floral notes, carried by high acidity. Australian Chardonnay leans towards riper fruit and often vanilla; Sauvignon Blanc pairs citrus with herbaceous notes; and Pinot Grigio shows pear and lemon without marked floral aromas.",
+    "Australia elabora Riesling en estilo seco, con cítricos como la lima y notas florales, sostenidos por una acidez alta. El Chardonnay australiano tiende a fruta más madura y a menudo vainilla; la Sauvignon Blanc une cítricos y notas herbáceas; y el Pinot Grigio tiene pera y limón, sin aromas florales marcados."
+   ],
+   "c": "w2"
+  },
+  {
+   "q": [
+    "Quale struttura è tipica del Cabernet Sauvignon?",
+    "Quelle structure est typique du Cabernet Sauvignon ?",
+    "Which structure is typical of Cabernet Sauvignon?",
+    "¿Qué estructura es típica del Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Tannino alto e acidità alta",
+     "Tanins élevés et acidité élevée",
+     "High tannin and high acidity",
+     "Tanino alto y acidez alta"
+    ],
+    [
+     "Tannino basso e acidità alta",
+     "Tanins faibles et acidité élevée",
+     "Low tannin and high acidity",
+     "Tanino bajo y acidez alta"
+    ],
+    [
+     "Tannino medio e acidità media",
+     "Tanins moyens et acidité moyenne",
+     "Medium tannin and medium acidity",
+     "Tanino medio y acidez media"
+    ],
+    [
+     "Tannino basso e acidità bassa",
+     "Tanins faibles et acidité faible",
+     "Low tannin and low acidity",
+     "Tanino bajo y acidez baja"
+    ]
+   ],
+   "e": [
+    "Il Cabernet Sauvignon è ricco sia di tannino sia di acidità.",
+    "Le Cabernet Sauvignon est riche à la fois en tanins et en acidité.",
+    "Cabernet Sauvignon is high in both tannin and acidity.",
+    "El Cabernet Sauvignon tiene tanto tanino como acidez altos."
+   ],
+   "d": [
+    "Il Cabernet Sauvignon dà rossi secchi con tannino alto e acidità alta, di corpo medio o pieno. Il Merlot ha invece tannino e acidità medi, mentre il Pinot Noir ha acidità alta ma tannino da basso a medio. Proprio il tannino alto spiega perché il Cabernet viene spesso unito al Merlot.",
+    "Le Cabernet Sauvignon donne des rouges secs aux tanins élevés et à l'acidité élevée, de corps moyen à ample. Le Merlot a des tanins et une acidité moyens, et le Pinot Noir une acidité élevée mais des tanins faibles à moyens. Ce sont ces tanins élevés qui expliquent l'assemblage fréquent avec le Merlot.",
+    "Cabernet Sauvignon makes dry reds with high tannin and high acidity, and a medium to full body. Merlot has medium tannin and acidity, while Pinot Noir has high acidity but low to medium tannin. That high tannin is exactly why Cabernet is so often blended with Merlot.",
+    "El Cabernet Sauvignon da tintos secos con tanino alto y acidez alta, de cuerpo medio a alto. El Merlot tiene tanino y acidez medios, y la Pinot Noir acidez alta pero tanino bajo a medio. Ese tanino alto explica precisamente por qué el Cabernet se mezcla tan a menudo con Merlot."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quale frutto è l'aroma tipico del Cabernet Sauvignon?",
+    "Quel fruit est l'arôme typique du Cabernet Sauvignon ?",
+    "Which fruit is the signature aroma of Cabernet Sauvignon?",
+    "¿Qué fruta es el aroma típico del Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Ribes nero",
+     "Cassis",
+     "Blackcurrant",
+     "Grosella negra"
+    ],
+    [
+     "Fragola",
+     "Fraise",
+     "Strawberry",
+     "Fresa"
+    ],
+    [
+     "Pera",
+     "Poire",
+     "Pear",
+     "Pera"
+    ],
+    [
+     "Lampone",
+     "Framboise",
+     "Raspberry",
+     "Frambuesa"
+    ]
+   ],
+   "e": [
+    "Il ribes nero è l'aroma simbolo del Cabernet Sauvignon.",
+    "Le cassis est l'arôme emblématique du Cabernet Sauvignon.",
+    "Blackcurrant is Cabernet Sauvignon's hallmark aroma.",
+    "La grosella negra es el aroma emblemático del Cabernet Sauvignon."
+   ],
+   "d": [
+    "Il Cabernet Sauvignon profuma di frutti neri, soprattutto ribes nero e ciliegia nera, spesso con note di peperone verde e menta. Fragola e lampone sono frutti rossi tipici del Pinot Noir o del Beaujolais, mentre la pera è legata a bianchi come il Pinot Grigio.",
+    "Le Cabernet Sauvignon sent les fruits noirs, surtout le cassis et la cerise noire, souvent avec des notes de poivron vert et de menthe. La fraise et la framboise sont des fruits rouges typiques du Pinot Noir ou du Beaujolais, tandis que la poire est liée à des blancs comme le Pinot Grigio.",
+    "Cabernet Sauvignon smells of black fruit, above all blackcurrant and black cherry, often with notes of green bell pepper and mint. Strawberry and raspberry are red fruits typical of Pinot Noir or Beaujolais, while pear belongs to whites such as Pinot Grigio.",
+    "El Cabernet Sauvignon huele a frutas negras, sobre todo grosella negra y cereza negra, a menudo con notas de pimiento verde y menta. La fresa y la frambuesa son frutas rojas típicas de la Pinot Noir o del Beaujolais, y la pera se asocia a blancos como el Pinot Grigio."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali note erbacee può avere il Cabernet Sauvignon?",
+    "Quelles notes herbacées le Cabernet Sauvignon peut-il avoir ?",
+    "Which herbaceous notes can Cabernet Sauvignon show?",
+    "¿Qué notas herbáceas puede tener el Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Peperone verde e menta",
+     "Poivron vert et menthe",
+     "Green bell pepper and mint",
+     "Pimiento verde y menta"
+    ],
+    [
+     "Pepe nero e liquirizia",
+     "Poivre noir et réglisse",
+     "Black pepper and liquorice",
+     "Pimienta negra y regaliz"
+    ],
+    [
+     "Erbe secche e chiodi di garofano",
+     "Herbes séchées et clou de girofle",
+     "Dried herbs and cloves",
+     "Hierbas secas y clavo"
+    ],
+    [
+     "Fiori e miele",
+     "Fleurs et miel",
+     "Flowers and honey",
+     "Flores y miel"
+    ]
+   ],
+   "e": [
+    "Peperone verde e menta accompagnano spesso il ribes nero del Cabernet.",
+    "Poivron vert et menthe accompagnent souvent le cassis du Cabernet.",
+    "Green pepper and mint often sit alongside Cabernet's blackcurrant.",
+    "Pimiento verde y menta suelen acompañar a la grosella negra del Cabernet."
+   ],
+   "d": [
+    "Oltre al ribes nero e alla ciliegia nera, il Cabernet Sauvignon ha spesso note erbacee di peperone verde e di menta. Pepe nero e liquirizia sono spezie tipiche di Syrah/Shiraz; le erbe secche si trovano nel Chianti; i chiodi di garofano vengono dal rovere. Le note «verdi» sono quindi un buon indizio per riconoscerlo.",
+    "En plus du cassis et de la cerise noire, le Cabernet Sauvignon montre souvent des notes herbacées de poivron vert et de menthe. Poivre noir et réglisse sont des épices typiques de la Syrah/Shiraz ; les herbes séchées se trouvent dans le Chianti ; le clou de girofle vient du chêne. Ces notes « vertes » sont donc un bon indice pour le reconnaître.",
+    "Besides blackcurrant and black cherry, Cabernet Sauvignon often shows herbaceous notes of green bell pepper and mint. Black pepper and liquorice are spices typical of Syrah/Shiraz, dried herbs are found in Chianti, and cloves come from oak. Those «green» notes are therefore a useful clue for recognising it.",
+    "Además de grosella negra y cereza negra, el Cabernet Sauvignon muestra a menudo notas herbáceas de pimiento verde y menta. Pimienta negra y regaliz son especias típicas de la Syrah/Shiraz; las hierbas secas aparecen en el Chianti; y el clavo procede del roble. Esas notas «verdes» son, por tanto, una buena pista para reconocerlo."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali aromi aggiunge il rovere a un Cabernet Sauvignon?",
+    "Quels arômes le chêne ajoute-t-il à un Cabernet Sauvignon ?",
+    "Which aromas does oak add to a Cabernet Sauvignon?",
+    "¿Qué aromas añade el roble a un Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Cedro e vaniglia",
+     "Cèdre et vanille",
+     "Cedar and vanilla",
+     "Cedro y vainilla"
+    ],
+    [
+     "Menta e peperone verde",
+     "Menthe et poivron vert",
+     "Mint and green bell pepper",
+     "Menta y pimiento verde"
+    ],
+    [
+     "Ribes nero e ciliegia nera",
+     "Cassis et cerise noire",
+     "Blackcurrant and black cherry",
+     "Grosella negra y cereza negra"
+    ],
+    [
+     "Limone e mela verde",
+     "Citron et pomme verte",
+     "Lemon and green apple",
+     "Limón y manzana verde"
+    ]
+   ],
+   "e": [
+    "Il rovere porta cedro e vaniglia; frutta e note erbacee vengono dall'uva.",
+    "Le chêne apporte cèdre et vanille ; fruit et notes herbacées viennent du raisin.",
+    "Oak brings cedar and vanilla; fruit and herbaceous notes come from the grape.",
+    "El roble aporta cedro y vainilla; la fruta y las notas herbáceas vienen de la uva."
+   ],
+   "d": [
+    "Il Cabernet Sauvignon viene spesso affinato in rovere, che aggiunge note di cedro e vaniglia. Ribes nero, ciliegia nera, menta e peperone verde, invece, arrivano dall'uva stessa. Saper separare gli aromi dell'uva da quelli del legno aiuta a capire come è stato fatto il vino.",
+    "Le Cabernet Sauvignon est souvent élevé en chêne, qui ajoute des notes de cèdre et de vanille. Le cassis, la cerise noire, la menthe et le poivron vert viennent en revanche du raisin lui-même. Distinguer les arômes du raisin de ceux du bois aide à comprendre comment le vin a été fait.",
+    "Cabernet Sauvignon is often matured in oak, which adds cedar and vanilla notes. Blackcurrant, black cherry, mint and green bell pepper, on the other hand, come from the grape itself. Separating grape aromas from oak aromas helps you understand how the wine was made.",
+    "El Cabernet Sauvignon se cría a menudo en roble, que añade notas de cedro y vainilla. La grosella negra, la cereza negra, la menta y el pimiento verde, en cambio, proceden de la propia uva. Distinguir los aromas de la uva de los de la madera ayuda a entender cómo se ha hecho el vino."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Perché il Cabernet Sauvignon viene spesso unito al Merlot?",
+    "Pourquoi le Cabernet Sauvignon est-il souvent assemblé au Merlot ?",
+    "Why is Cabernet Sauvignon often blended with Merlot?",
+    "¿Por qué se mezcla a menudo el Cabernet Sauvignon con Merlot?"
+   ],
+   "o": [
+    [
+     "Il Merlot ammorbidisce il tannino e dà corpo",
+     "Le Merlot assouplit les tanins et donne du corps",
+     "Merlot softens the tannin and adds body",
+     "El Merlot suaviza el tanino y da cuerpo"
+    ],
+    [
+     "Il Merlot aumenta acidità e tannino",
+     "Le Merlot augmente acidité et tanins",
+     "Merlot raises acidity and tannin",
+     "El Merlot aumenta la acidez y el tanino"
+    ],
+    [
+     "Il Merlot rende il vino dolce",
+     "Le Merlot rend le vin doux",
+     "Merlot makes the wine sweet",
+     "El Merlot hace el vino dulce"
+    ],
+    [
+     "Il Merlot schiarisce il colore",
+     "Le Merlot éclaircit la couleur",
+     "Merlot makes the colour lighter",
+     "El Merlot aclara el color"
+    ]
+   ],
+   "e": [
+    "Il tannino alto del Cabernet viene ammorbidito dal Merlot, che aggiunge corpo.",
+    "Les tanins élevés du Cabernet sont assouplis par le Merlot, qui ajoute du corps.",
+    "Merlot softens Cabernet's high tannin and adds body.",
+    "El Merlot suaviza el tanino alto del Cabernet y añade cuerpo."
+   ],
+   "d": [
+    "Il Cabernet Sauvignon ha molto tannino. Unendolo al Merlot, che ha tannino e acidità medi, si ottiene un vino più morbido e con più corpo. Il rapporto funziona anche al contrario: il Cabernet porta al Merlot tannino e acidità. Bordeaux è la regione più famosa per questo taglio.",
+    "Le Cabernet Sauvignon a beaucoup de tanins. En l'assemblant au Merlot, aux tanins et à l'acidité moyens, on obtient un vin plus souple et plus ample. Cela fonctionne aussi dans l'autre sens : le Cabernet apporte au Merlot tanins et acidité. Bordeaux est la région la plus célèbre pour cet assemblage.",
+    "Cabernet Sauvignon has a lot of tannin. Blending it with Merlot, which has medium tannin and acidity, gives a softer wine with more body. It works the other way round too: Cabernet gives Merlot extra tannin and acidity. Bordeaux is the most famous region for this blend.",
+    "El Cabernet Sauvignon tiene mucho tanino. Al mezclarlo con Merlot, de tanino y acidez medios, se obtiene un vino más suave y con más cuerpo. También funciona al revés: el Cabernet aporta al Merlot tanino y acidez. Burdeos es la región más famosa por esta mezcla."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "In Australia, con quale vitigno si unisce a volte il Cabernet Sauvignon?",
+    "En Australie, avec quel cépage le Cabernet Sauvignon est-il parfois assemblé ?",
+    "In Australia, Cabernet Sauvignon is sometimes blended with which grape?",
+    "En Australia, ¿con qué uva se mezcla a veces el Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Shiraz",
+     "Shiraz",
+     "Shiraz",
+     "Shiraz"
+    ],
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ]
+   ],
+   "e": [
+    "In Australia lo Shiraz porta aromi speziati al Cabernet Sauvignon.",
+    "En Australie, la Shiraz apporte des arômes épicés au Cabernet Sauvignon.",
+    "In Australia, Shiraz adds spicy aromas to Cabernet Sauvignon.",
+    "En Australia, la Shiraz aporta aromas especiados al Cabernet Sauvignon."
+   ],
+   "d": [
+    "Il Cabernet Sauvignon si coltiva molto in Australia, dove talvolta viene unito allo Shiraz, che aggiunge aromi di spezie. Il Pinot Noir, per i vini rossi, di solito non si usa in taglio, mentre Riesling e Chardonnay sono uve bianche e non entrano nei rossi.",
+    "Le Cabernet Sauvignon est très cultivé en Australie, où il est parfois assemblé à la Shiraz, qui ajoute des arômes d'épices. Le Pinot Noir n'est en général pas assemblé pour les rouges, et le Riesling et le Chardonnay sont des raisins blancs qui n'entrent pas dans les rouges.",
+    "Cabernet Sauvignon is widely grown in Australia, where it is sometimes blended with Shiraz, which adds spicy aromas. Pinot Noir is not usually blended when making red wine, and Riesling and Chardonnay are white grapes that do not go into red blends.",
+    "El Cabernet Sauvignon se cultiva mucho en Australia, donde a veces se mezcla con Shiraz, que aporta aromas especiados. La Pinot Noir no suele mezclarse para hacer tintos, y la Riesling y la Chardonnay son uvas blancas que no entran en los tintos."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quale struttura ha di solito il Merlot?",
+    "Quelle structure a en général le Merlot ?",
+    "What structure does Merlot usually have?",
+    "¿Qué estructura suele tener el Merlot?"
+   ],
+   "o": [
+    [
+     "Acidità e tannino medi, corpo medio-pieno",
+     "Acidité et tanins moyens, corps moyen à ample",
+     "Medium acidity and tannin, medium to full body",
+     "Acidez y tanino medios, cuerpo medio a alto"
+    ],
+    [
+     "Acidità e tannino alti, corpo pieno",
+     "Acidité et tanins élevés, corps ample",
+     "High acidity and tannin, full body",
+     "Acidez y tanino altos, mucho cuerpo"
+    ],
+    [
+     "Acidità alta, tannino basso, corpo leggero",
+     "Acidité élevée, tanins faibles, corps léger",
+     "High acidity, low tannin, light body",
+     "Acidez alta, tanino bajo, cuerpo ligero"
+    ],
+    [
+     "Acidità bassa, tannino alto, corpo leggero",
+     "Acidité faible, tanins élevés, corps léger",
+     "Low acidity, high tannin, light body",
+     "Acidez baja, tanino alto, cuerpo ligero"
+    ]
+   ],
+   "e": [
+    "Il Merlot è morbido: acidità e tannino medi, corpo medio-pieno.",
+    "Le Merlot est souple : acidité et tanins moyens, corps moyen à ample.",
+    "Merlot is soft: medium acidity and tannin, medium to full body.",
+    "El Merlot es suave: acidez y tanino medios, cuerpo medio a alto."
+   ],
+   "d": [
+    "Il Merlot dà vini generalmente secchi, di corpo da medio a pieno, con acidità e tannino medi. Il Cabernet Sauvignon ha invece tannino e acidità alti, mentre il Pinot Noir ha acidità alta, tannino basso o medio e corpo leggero-medio. Per questo il Merlot appare più morbido.",
+    "Le Merlot donne des vins généralement secs, au corps moyen à ample, avec une acidité et des tanins moyens. Le Cabernet Sauvignon a des tanins et une acidité élevés, tandis que le Pinot Noir a une acidité élevée, des tanins faibles à moyens et un corps léger à moyen. Le Merlot paraît donc plus souple.",
+    "Merlot makes wines that are generally dry, with a medium to full body and medium acidity and tannin. Cabernet Sauvignon has high tannin and acidity, while Pinot Noir has high acidity, low to medium tannin and a light to medium body. That is why Merlot feels softer.",
+    "El Merlot da vinos generalmente secos, de cuerpo medio a alto, con acidez y tanino medios. El Cabernet Sauvignon tiene tanino y acidez altos, y la Pinot Noir acidez alta, tanino bajo a medio y cuerpo ligero a medio. Por eso el Merlot resulta más suave."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali frutti si trovano tipicamente nel Merlot?",
+    "Quels fruits trouve-t-on typiquement dans le Merlot ?",
+    "Which fruits are typically found in Merlot?",
+    "¿Qué frutas se encuentran típicamente en el Merlot?"
+   ],
+   "o": [
+    [
+     "Da fragola e prugna rossa a mora e prugna nera",
+     "De la fraise et prune rouge à la mûre et prune noire",
+     "Strawberry and red plum through to blackberry and black plum",
+     "De fresa y ciruela roja a mora y ciruela negra"
+    ],
+    [
+     "Mela verde, limone e pompelmo",
+     "Pomme verte, citron et pamplemousse",
+     "Green apple, lemon and grapefruit",
+     "Manzana verde, limón y pomelo"
+    ],
+    [
+     "Albicocca, pesca e miele",
+     "Abricot, pêche et miel",
+     "Apricot, peach and honey",
+     "Albaricoque, melocotón y miel"
+    ],
+    [
+     "Pera, fiori e lime",
+     "Poire, fleurs et citron vert",
+     "Pear, flowers and lime",
+     "Pera, flores y lima"
+    ]
+   ],
+   "e": [
+    "Il Merlot va dai frutti rossi ai frutti neri.",
+    "Le Merlot va des fruits rouges aux fruits noirs.",
+    "Merlot ranges from red fruit to black fruit.",
+    "El Merlot va de las frutas rojas a las negras."
+   ],
+   "d": [
+    "Il Merlot può avere sapori di frutti rossi, come fragola e prugna rossa, oppure di frutti neri, come mora e prugna nera. Spesso passa in rovere, che aggiunge vaniglia. Le altre opzioni descrivono aromi di vini bianchi come Sauvignon Blanc, Sauternes o Riesling.",
+    "Le Merlot peut avoir des saveurs de fruits rouges, comme la fraise et la prune rouge, ou de fruits noirs, comme la mûre et la prune noire. Il passe souvent en chêne, qui ajoute de la vanille. Les autres réponses décrivent des arômes de blancs comme le Sauvignon Blanc, le Sauternes ou le Riesling.",
+    "Merlot can show red fruit such as strawberry and red plum, or black fruit such as blackberry and black plum. It is often matured in oak, which adds vanilla. The other options describe aromas of white wines such as Sauvignon Blanc, Sauternes or Riesling.",
+    "El Merlot puede tener sabores de frutas rojas, como fresa y ciruela roja, o de frutas negras, como mora y ciruela negra. Suele criarse en roble, que añade vainilla. Las demás opciones describen aromas de blancos como Sauvignon Blanc, Sauternes o Riesling."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Che cosa aggiunge il Cabernet Sauvignon a un taglio con il Merlot?",
+    "Qu'apporte le Cabernet Sauvignon dans un assemblage avec le Merlot ?",
+    "What does Cabernet Sauvignon add to a blend with Merlot?",
+    "¿Qué aporta el Cabernet Sauvignon a una mezcla con Merlot?"
+   ],
+   "o": [
+    [
+     "Tannino e acidità",
+     "Tanins et acidité",
+     "Tannin and acidity",
+     "Tanino y acidez"
+    ],
+    [
+     "Dolcezza e morbidezza",
+     "Sucrosité et souplesse",
+     "Sweetness and softness",
+     "Dulzor y suavidad"
+    ],
+    [
+     "Bollicine e freschezza",
+     "Bulles et fraîcheur",
+     "Bubbles and freshness",
+     "Burbujas y frescura"
+    ],
+    [
+     "Colore chiaro e leggerezza",
+     "Couleur claire et légèreté",
+     "Pale colour and lightness",
+     "Color claro y ligereza"
+    ]
+   ],
+   "e": [
+    "Il Cabernet porta tannino e acidità; il Merlot morbidezza e corpo.",
+    "Le Cabernet apporte tanins et acidité ; le Merlot souplesse et corps.",
+    "Cabernet brings tannin and acidity; Merlot brings softness and body.",
+    "El Cabernet aporta tanino y acidez; el Merlot, suavidad y cuerpo."
+   ],
+   "d": [
+    "Nel taglio di Bordeaux i due vitigni si completano. Il Merlot, con tannino e acidità medi, porta morbidezza e corpo. Il Cabernet Sauvignon, con tannino e acidità alti, dà al vino struttura e freschezza. Il risultato è un rosso secco, di corpo medio-pieno, con frutti neri e spesso cedro del rovere.",
+    "Dans l'assemblage bordelais, les deux cépages se complètent. Le Merlot, aux tanins et à l'acidité moyens, apporte souplesse et corps. Le Cabernet Sauvignon, aux tanins et à l'acidité élevés, donne structure et fraîcheur. On obtient un rouge sec, de corps moyen à ample, aux fruits noirs, souvent avec du cèdre.",
+    "In the Bordeaux blend the two grapes complete each other. Merlot, with medium tannin and acidity, brings softness and body. Cabernet Sauvignon, with high tannin and acidity, gives the wine structure and freshness. The result is a dry, medium- to full-bodied red with black fruit, often with cedar from oak.",
+    "En la mezcla de Burdeos las dos uvas se complementan. El Merlot, con tanino y acidez medios, aporta suavidad y cuerpo. El Cabernet Sauvignon, con tanino y acidez altos, da estructura y frescura. El resultado es un tinto seco, de cuerpo medio a alto, con fruta negra y a menudo cedro del roble."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali paesi producono Merlot morbidi e fruttati?",
+    "Quels pays produisent des Merlot souples et fruités ?",
+    "Which countries make soft, fruity Merlot?",
+    "¿Qué países elaboran Merlot suaves y afrutados?"
+   ],
+   "o": [
+    [
+     "Cile e California",
+     "Chili et Californie",
+     "Chile and California",
+     "Chile y California"
+    ],
+    [
+     "Germania e Alsazia",
+     "Allemagne et Alsace",
+     "Germany and Alsace",
+     "Alemania y Alsacia"
+    ],
+    [
+     "Nuova Zelanda e Loira",
+     "Nouvelle-Zélande et Loire",
+     "New Zealand and the Loire",
+     "Nueva Zelanda y el Loira"
+    ],
+    [
+     "Portogallo e Spagna",
+     "Portugal et Espagne",
+     "Portugal and Spain",
+     "Portugal y España"
+    ]
+   ],
+   "e": [
+    "Cile e California sono citati per i loro Merlot morbidi e fruttati.",
+    "Le Chili et la Californie sont connus pour leurs Merlot souples et fruités.",
+    "Chile and California are known for soft, fruity Merlot.",
+    "Chile y California son conocidos por sus Merlot suaves y afrutados."
+   ],
+   "d": [
+    "Il Merlot si coltiva in molti luoghi; in Cile e in California se ne fanno vini morbidi, fruttati e facili da bere, spesso con prugna nera e mora. Germania e Alsazia sono legate al Riesling, Nuova Zelanda e Loira al Sauvignon Blanc, il Portogallo al Port.",
+    "Le Merlot est cultivé dans de nombreux endroits ; au Chili et en Californie, on en fait des vins souples, fruités et faciles à boire, souvent sur la prune noire et la mûre. L'Allemagne et l'Alsace sont liées au Riesling, la Nouvelle-Zélande et la Loire au Sauvignon Blanc, le Portugal au Port.",
+    "Merlot is grown in many places; Chile and California use it for soft, fruity, easy-drinking wines, often with black plum and blackberry. Germany and Alsace are linked with Riesling, New Zealand and the Loire with Sauvignon Blanc, and Portugal with Port.",
+    "El Merlot se cultiva en muchos lugares; en Chile y California se elaboran con él vinos suaves, afrutados y fáciles de beber, a menudo con ciruela negra y mora. Alemania y Alsacia se asocian a la Riesling, Nueva Zelanda y el Loira a la Sauvignon Blanc, y Portugal al Port."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quale regione è la più famosa per il taglio Merlot-Cabernet Sauvignon?",
+    "Quelle région est la plus célèbre pour l'assemblage Merlot-Cabernet Sauvignon ?",
+    "Which region is most famous for Merlot-Cabernet Sauvignon blends?",
+    "¿Qué región es la más famosa por la mezcla Merlot-Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux",
+     "Burdeos (Bordeaux)"
+    ],
+    [
+     "Burgundy",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Rioja",
+     "Rioja",
+     "Rioja",
+     "Rioja"
+    ],
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ]
+   ],
+   "e": [
+    "Bordeaux è la patria del taglio tra Merlot e Cabernet Sauvignon.",
+    "Bordeaux est la patrie de l'assemblage Merlot-Cabernet Sauvignon.",
+    "Bordeaux is the home of the Merlot-Cabernet Sauvignon blend.",
+    "Burdeos es la cuna de la mezcla Merlot-Cabernet Sauvignon."
+   ],
+   "d": [
+    "Bordeaux, in Francia, è la regione più famosa per il taglio di Merlot e Cabernet Sauvignon, oggi diffuso anche in molti altri paesi. Burgundy usa invece Pinot Noir per i rossi e Chardonnay per i bianchi, mentre lo Champagne nasce da Chardonnay e Pinot Noir.",
+    "Bordeaux, en France, est la région la plus célèbre pour l'assemblage de Merlot et de Cabernet Sauvignon, aujourd'hui répandu dans bien d'autres pays. La Bourgogne utilise le Pinot Noir pour ses rouges et le Chardonnay pour ses blancs, et le Champagne naît du Chardonnay et du Pinot Noir.",
+    "Bordeaux in France is the most famous region for blending Merlot and Cabernet Sauvignon, a blend now common in many other countries too. Burgundy uses Pinot Noir for its reds and Chardonnay for its whites, while Champagne is made from Chardonnay and Pinot Noir.",
+    "Burdeos, en Francia, es la región más famosa por la mezcla de Merlot y Cabernet Sauvignon, hoy habitual en muchos otros países. Borgoña usa Pinot Noir para sus tintos y Chardonnay para sus blancos, y el Champagne se elabora con Chardonnay y Pinot Noir."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde al Pinot Noir?",
+    "Quelle description correspond au Pinot Noir ?",
+    "Which description fits Pinot Noir?",
+    "¿Qué descripción corresponde a la Pinot Noir?"
+   ],
+   "o": [
+    [
+     "Corpo leggero-medio, acidità alta, tannino basso-medio",
+     "Corps léger à moyen, acidité élevée, tanins faibles à moyens",
+     "Light to medium body, high acidity, low to medium tannin",
+     "Cuerpo ligero a medio, acidez alta, tanino bajo a medio"
+    ],
+    [
+     "Corpo pieno, acidità media, tannino alto",
+     "Corps ample, acidité moyenne, tanins élevés",
+     "Full body, medium acidity, high tannin",
+     "Mucho cuerpo, acidez media, tanino alto"
+    ],
+    [
+     "Corpo pieno, acidità alta, tannino alto",
+     "Corps ample, acidité élevée, tanins élevés",
+     "Full body, high acidity, high tannin",
+     "Mucho cuerpo, acidez alta, tanino alto"
+    ],
+    [
+     "Corpo medio, acidità bassa, tannino medio",
+     "Corps moyen, acidité faible, tanins moyens",
+     "Medium body, low acidity, medium tannin",
+     "Cuerpo medio, acidez baja, tanino medio"
+    ]
+   ],
+   "e": [
+    "Il Pinot Noir è un rosso fresco e delicato, poco tannico.",
+    "Le Pinot Noir est un rouge frais et délicat, peu tannique.",
+    "Pinot Noir is a fresh, delicate red with modest tannin.",
+    "La Pinot Noir es un tinto fresco y delicado, con poco tanino."
+   ],
+   "d": [
+    "Il Pinot Noir dà rossi di solito secchi, di corpo da leggero a medio, con acidità alta e tannino basso o medio. Ha aromi di frutti rossi come fragola, ciliegia rossa e lampone. Corpo pieno e tannino alto descrivono piuttosto Cabernet Sauvignon o Shiraz.",
+    "Le Pinot Noir donne des rouges en général secs, au corps léger à moyen, à l'acidité élevée et aux tanins faibles à moyens. Il a des arômes de fruits rouges comme la fraise, la cerise rouge et la framboise. Un corps ample et des tanins élevés décrivent plutôt le Cabernet Sauvignon ou la Shiraz.",
+    "Pinot Noir makes reds that are usually dry, light to medium in body, with high acidity and low to medium tannin. It has red fruit aromas such as strawberry, red cherry and raspberry. A full body with high tannin describes Cabernet Sauvignon or Shiraz instead.",
+    "La Pinot Noir da tintos normalmente secos, de cuerpo ligero a medio, con acidez alta y tanino bajo a medio. Tiene aromas de frutas rojas como fresa, cereza roja y frambuesa. Un cuerpo alto con tanino alto describe más bien al Cabernet Sauvignon o a la Shiraz."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali aromi di frutta sono tipici del Pinot Noir?",
+    "Quels arômes de fruits sont typiques du Pinot Noir ?",
+    "Which fruit aromas are typical of Pinot Noir?",
+    "¿Qué aromas de fruta son típicos de la Pinot Noir?"
+   ],
+   "o": [
+    [
+     "Fragola, ciliegia rossa, lampone",
+     "Fraise, cerise rouge, framboise",
+     "Strawberry, red cherry, raspberry",
+     "Fresa, cereza roja, frambuesa"
+    ],
+    [
+     "Ribes nero, ciliegia nera, menta",
+     "Cassis, cerise noire, menthe",
+     "Blackcurrant, black cherry, mint",
+     "Grosella negra, cereza negra, menta"
+    ],
+    [
+     "Mora, pepe nero, liquirizia",
+     "Mûre, poivre noir, réglisse",
+     "Blackberry, black pepper, liquorice",
+     "Mora, pimienta negra, regaliz"
+    ],
+    [
+     "Pera, limone, mela",
+     "Poire, citron, pomme",
+     "Pear, lemon, apple",
+     "Pera, limón, manzana"
+    ]
+   ],
+   "e": [
+    "Il Pinot Noir profuma di frutti rossi.",
+    "Le Pinot Noir sent les fruits rouges.",
+    "Pinot Noir smells of red fruit.",
+    "La Pinot Noir huele a frutas rojas."
+   ],
+   "d": [
+    "Il Pinot Noir è il vitigno dei frutti rossi: fragola, ciliegia rossa e lampone, spesso con vaniglia e affumicato se passa in rovere. Ribes nero e menta indicano il Cabernet Sauvignon; mora, pepe nero e liquirizia indicano Syrah/Shiraz; pera e limone sono aromi di vini bianchi.",
+    "Le Pinot Noir est le cépage des fruits rouges : fraise, cerise rouge et framboise, souvent avec vanille et fumé s'il passe en chêne. Cassis et menthe signalent le Cabernet Sauvignon ; mûre, poivre noir et réglisse, la Syrah/Shiraz ; poire et citron sont des arômes de vins blancs.",
+    "Pinot Noir is the red-fruit grape: strawberry, red cherry and raspberry, often with vanilla and smoke when oaked. Blackcurrant and mint point to Cabernet Sauvignon; blackberry, black pepper and liquorice point to Syrah/Shiraz; and pear and lemon are white-wine aromas.",
+    "La Pinot Noir es la uva de las frutas rojas: fresa, cereza roja y frambuesa, a menudo con vainilla y ahumado si pasa por roble. Grosella negra y menta apuntan al Cabernet Sauvignon; mora, pimienta negra y regaliz, a la Syrah/Shiraz; pera y limón son aromas de vinos blancos."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Con quale vitigno si fanno i rossi di Burgundy?",
+    "Avec quel cépage fait-on les Bourgogne rouges ?",
+    "Which grape is used for red Burgundy?",
+    "¿Con qué uva se elaboran los Borgoña tintos?"
+   ],
+   "o": [
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ],
+    [
+     "Syrah",
+     "Syrah",
+     "Syrah",
+     "Syrah"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon"
+    ]
+   ],
+   "e": [
+    "I rossi di Burgundy sono fatti con Pinot Noir.",
+    "Les Bourgogne rouges sont faits de Pinot Noir.",
+    "Red Burgundy is made from Pinot Noir.",
+    "Los Borgoña tintos se elaboran con Pinot Noir."
+   ],
+   "d": [
+    "Burgundy (Bourgogne) usa il Pinot Noir per i rossi e lo Chardonnay per i bianchi. I rossi sono secchi, leggeri o medi, con acidità alta, tannino basso o medio e frutti rossi. Merlot e Cabernet Sauvignon sono i vitigni di Bordeaux, il Syrah è tipico del Rodano settentrionale.",
+    "La Bourgogne utilise le Pinot Noir pour les rouges et le Chardonnay pour les blancs. Les rouges sont secs, légers à moyens, à l'acidité élevée, aux tanins faibles à moyens et aux fruits rouges. Merlot et Cabernet Sauvignon sont les cépages de Bordeaux, la Syrah est typique du nord du Rhône.",
+    "Burgundy (Bourgogne) uses Pinot Noir for its reds and Chardonnay for its whites. The reds are dry, light to medium-bodied, with high acidity, low to medium tannin and red fruit. Merlot and Cabernet Sauvignon are the grapes of Bordeaux, and Syrah is typical of the Northern Rhône.",
+    "Borgoña usa Pinot Noir para los tintos y Chardonnay para los blancos. Los tintos son secos, ligeros a medios, con acidez alta, tanino bajo a medio y frutas rojas. Merlot y Cabernet Sauvignon son las uvas de Burdeos, y la Syrah es típica del norte del Ródano."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "In quale paese il Pinot Noir è il principale vitigno nero?",
+    "Dans quel pays le Pinot Noir est-il le principal cépage noir ?",
+    "In which country is Pinot Noir the main black grape?",
+    "¿En qué país es la Pinot Noir la principal uva tinta?"
+   ],
+   "o": [
+    [
+     "Nuova Zelanda",
+     "Nouvelle-Zélande",
+     "New Zealand",
+     "Nueva Zelanda"
+    ],
+    [
+     "Australia",
+     "Australie",
+     "Australia",
+     "Australia"
+    ],
+    [
+     "Cile",
+     "Chili",
+     "Chile",
+     "Chile"
+    ],
+    [
+     "Sudafrica",
+     "Afrique du Sud",
+     "South Africa",
+     "Sudáfrica"
+    ]
+   ],
+   "e": [
+    "In Nuova Zelanda il Pinot Noir è l'uva nera principale.",
+    "En Nouvelle-Zélande, le Pinot Noir est le premier cépage noir.",
+    "In New Zealand, Pinot Noir is the leading black grape.",
+    "En Nueva Zelanda, la Pinot Noir es la principal uva tinta."
+   ],
+   "d": [
+    "Oltre a Burgundy, il Pinot Noir è il principale vitigno nero della Nuova Zelanda, con zone come Central Otago. Australia, Cile e Sudafrica sono invece citati soprattutto per il Cabernet Sauvignon, e l'Australia anche per lo Shiraz. La Nuova Zelanda è famosa anche per il Sauvignon Blanc.",
+    "Outre la Bourgogne, le Pinot Noir est le principal cépage noir de Nouvelle-Zélande, avec des régions comme Central Otago. L'Australie, le Chili et l'Afrique du Sud sont surtout cités pour le Cabernet Sauvignon, et l'Australie aussi pour la Shiraz. La Nouvelle-Zélande est aussi célèbre pour son Sauvignon Blanc.",
+    "Besides Burgundy, Pinot Noir is the main black grape of New Zealand, in regions such as Central Otago. Australia, Chile and South Africa are mentioned mainly for Cabernet Sauvignon, and Australia also for Shiraz. New Zealand is also famous for its Sauvignon Blanc.",
+    "Además de Borgoña, la Pinot Noir es la principal uva tinta de Nueva Zelanda, con zonas como Central Otago. Australia, Chile y Sudáfrica se citan sobre todo por el Cabernet Sauvignon, y Australia también por la Shiraz. Nueva Zelanda es famosa además por su Sauvignon Blanc."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Per i vini rossi, il Pinot Noir di solito viene...",
+    "Pour les vins rouges, le Pinot Noir est en général...",
+    "When making red wine, Pinot Noir is usually...",
+    "Para los vinos tintos, la Pinot Noir normalmente se..."
+   ],
+   "o": [
+    [
+     "vinificato da solo, senza altri vitigni",
+     "vinifié seul, sans autre cépage",
+     "made on its own, without other grapes",
+     "elabora sola, sin otras uvas"
+    ],
+    [
+     "unito al Cabernet Sauvignon",
+     "assemblé au Cabernet Sauvignon",
+     "blended with Cabernet Sauvignon",
+     "mezcla con Cabernet Sauvignon"
+    ],
+    [
+     "unito allo Shiraz",
+     "assemblé à la Shiraz",
+     "blended with Shiraz",
+     "mezcla con Shiraz"
+    ],
+    [
+     "unito al Merlot",
+     "assemblé au Merlot",
+     "blended with Merlot",
+     "mezcla con Merlot"
+    ]
+   ],
+   "e": [
+    "Per i rossi il Pinot Noir di solito non si usa in taglio.",
+    "Pour les rouges, le Pinot Noir n'est en général pas assemblé.",
+    "For red wines, Pinot Noir is not usually blended.",
+    "En los tintos, la Pinot Noir no suele mezclarse."
+   ],
+   "d": [
+    "A differenza di Cabernet Sauvignon, Merlot e Shiraz, che spesso vengono uniti tra loro, il Pinot Noir per i rossi viene di solito vinificato in purezza. L'unico taglio importante da ricordare è nello Champagne, dove il Pinot Noir si unisce allo Chardonnay per fare uno spumante.",
+    "Contrairement au Cabernet Sauvignon, au Merlot et à la Shiraz, souvent assemblés entre eux, le Pinot Noir est en général vinifié seul pour les rouges. Le seul assemblage important à retenir est celui du Champagne, où le Pinot Noir s'allie au Chardonnay pour faire un effervescent.",
+    "Unlike Cabernet Sauvignon, Merlot and Shiraz, which are often blended with each other, Pinot Noir is usually made on its own when producing red wine. The one important blend to remember is Champagne, where Pinot Noir is combined with Chardonnay to make a sparkling wine.",
+    "A diferencia del Cabernet Sauvignon, el Merlot y la Shiraz, que a menudo se mezclan entre sí, la Pinot Noir suele elaborarse sola en los tintos. La única mezcla importante que conviene recordar es la del Champagne, donde la Pinot Noir se une a la Chardonnay para hacer un espumoso."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Come si chiama il Syrah in Australia?",
+    "Comment appelle-t-on la Syrah en Australie ?",
+    "What is Syrah called in Australia?",
+    "¿Cómo se llama la Syrah en Australia?"
+   ],
+   "o": [
+    [
+     "Shiraz",
+     "Shiraz",
+     "Shiraz",
+     "Shiraz"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ],
+    [
+     "Zinfandel",
+     "Zinfandel",
+     "Zinfandel",
+     "Zinfandel"
+    ],
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ]
+   ],
+   "e": [
+    "Syrah in Francia e Shiraz in Australia sono lo stesso vitigno.",
+    "Syrah en France et Shiraz en Australie désignent le même cépage.",
+    "Syrah in France and Shiraz in Australia are the same grape.",
+    "Syrah en Francia y Shiraz en Australia son la misma uva."
+   ],
+   "d": [
+    "Lo stesso vitigno ha due nomi: Syrah in Francia e Shiraz in Australia. Il nome in etichetta dà quindi un indizio sull'origine e spesso sullo stile, più fresco e pepato in Francia, più pieno e maturo nelle zone calde dell'Australia. Merlot e Pinot Noir sono vitigni diversi.",
+    "Le même cépage porte deux noms : Syrah en France et Shiraz en Australie. Le nom sur l'étiquette donne donc un indice sur l'origine et souvent sur le style, plus frais et poivré en France, plus ample et mûr dans les régions chaudes d'Australie. Merlot et Pinot Noir sont d'autres cépages.",
+    "The same grape has two names: Syrah in France and Shiraz in Australia. The name on the label therefore hints at the origin and often the style, fresher and more peppery in France, fuller and riper in Australia's warm regions. Merlot and Pinot Noir are different grapes.",
+    "La misma uva tiene dos nombres: Syrah en Francia y Shiraz en Australia. El nombre de la etiqueta da, por tanto, una pista sobre el origen y a menudo sobre el estilo: más fresco y con pimienta en Francia, más corpulento y maduro en las zonas cálidas de Australia. Merlot y Pinot Noir son otras uvas."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali spezie sono tipiche di Syrah/Shiraz?",
+    "Quelles épices sont typiques de la Syrah/Shiraz ?",
+    "Which spices are typical of Syrah/Shiraz?",
+    "¿Qué especias son típicas de la Syrah/Shiraz?"
+   ],
+   "o": [
+    [
+     "Pepe nero e liquirizia",
+     "Poivre noir et réglisse",
+     "Black pepper and liquorice",
+     "Pimienta negra y regaliz"
+    ],
+    [
+     "Vaniglia e cocco",
+     "Vanille et noix de coco",
+     "Vanilla and coconut",
+     "Vainilla y coco"
+    ],
+    [
+     "Menta e peperone verde",
+     "Menthe et poivron vert",
+     "Mint and green bell pepper",
+     "Menta y pimiento verde"
+    ],
+    [
+     "Pepe bianco ed erbe secche",
+     "Poivre blanc et herbes séchées",
+     "White pepper and dried herbs",
+     "Pimienta blanca y hierbas secas"
+    ]
+   ],
+   "e": [
+    "Syrah/Shiraz unisce frutta nera a pepe nero e liquirizia.",
+    "La Syrah/Shiraz associe fruit noir, poivre noir et réglisse.",
+    "Syrah/Shiraz pairs black fruit with black pepper and liquorice.",
+    "La Syrah/Shiraz une fruta negra con pimienta negra y regaliz."
+   ],
+   "d": [
+    "I sapori tipici di Syrah/Shiraz sono frutti neri come mora e ciliegia nera, con spezie come pepe nero e liquirizia. Vaniglia e cocco arrivano dal rovere, non dall'uva. Menta e peperone verde sono note del Cabernet Sauvignon; il pepe bianco è citato per il Côtes du Rhône.",
+    "Les saveurs typiques de la Syrah/Shiraz sont les fruits noirs comme la mûre et la cerise noire, avec des épices comme le poivre noir et la réglisse. Vanille et noix de coco viennent du chêne, pas du raisin. Menthe et poivron vert sont des notes du Cabernet Sauvignon ; le poivre blanc est cité pour le Côtes du Rhône.",
+    "Syrah/Shiraz typically shows black fruit such as blackberry and black cherry, with spices such as black pepper and liquorice. Vanilla and coconut come from oak rather than the grape. Mint and green bell pepper are Cabernet Sauvignon notes, and white pepper is mentioned for Côtes du Rhône.",
+    "Los sabores típicos de la Syrah/Shiraz son frutas negras como la mora y la cereza negra, con especias como la pimienta negra y el regaliz. La vainilla y el coco vienen del roble, no de la uva. Menta y pimiento verde son notas del Cabernet Sauvignon; la pimienta blanca se cita en el Côtes du Rhône."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Che stile ha spesso il Syrah del Rodano settentrionale?",
+    "Quel style a souvent la Syrah du nord du Rhône ?",
+    "What style does Northern Rhône Syrah often have?",
+    "¿Qué estilo suele tener la Syrah del norte del Ródano?"
+   ],
+   "o": [
+    [
+     "Corpo medio, mora fresca e pepe nero",
+     "Corps moyen, mûre fraîche et poivre noir",
+     "Medium body, fresh blackberry and black pepper",
+     "Cuerpo medio, mora fresca y pimienta negra"
+    ],
+    [
+     "Corpo pieno, ciliegia nera in confettura",
+     "Corps ample, cerise noire confiturée",
+     "Full body, jammy black cherry",
+     "Mucho cuerpo, cereza negra confitada"
+    ],
+    [
+     "Corpo leggero, fragola e lampone",
+     "Corps léger, fraise et framboise",
+     "Light body, strawberry and raspberry",
+     "Cuerpo ligero, fresa y frambuesa"
+    ],
+    [
+     "Dolce, prugna nera e miele",
+     "Doux, prune noire et miel",
+     "Sweet, black plum and honey",
+     "Dulce, ciruela negra y miel"
+    ]
+   ],
+   "e": [
+    "Nel Rodano settentrionale il Syrah è più fresco: corpo medio, mora e pepe.",
+    "Dans le nord du Rhône, la Syrah est plus fraîche : corps moyen, mûre et poivre.",
+    "Northern Rhône Syrah is fresher: medium body, blackberry and pepper.",
+    "En el norte del Ródano la Syrah es más fresca: cuerpo medio, mora y pimienta."
+   ],
+   "d": [
+    "Il Rodano settentrionale, in Francia, può dare Syrah di corpo medio, con mora fresca e pepe nero. Nelle zone calde dell'Australia, invece, le uve maturano di più e lo Shiraz diventa pieno, con ciliegia nera dal gusto di confettura e liquirizia. Stesso vitigno, climi diversi, stili diversi. Il clima spiega la differenza.",
+    "Le nord de la vallée du Rhône peut donner des Syrah de corps moyen, avec mûre fraîche et poivre noir. Dans les régions chaudes d'Australie, le raisin mûrit davantage et la Shiraz devient corsée, avec une cerise noire confiturée et de la réglisse. Même cépage, climats différents, styles différents. Le climat explique la différence.",
+    "France's Northern Rhône can produce medium-bodied Syrah with fresh blackberry and black pepper. In warm parts of Australia the grapes ripen further and Shiraz becomes full-bodied, with jammy black cherry and liquorice. Same grape, different climates, different styles. Climate explains the difference.",
+    "El norte del Ródano, en Francia, puede dar Syrah de cuerpo medio, con mora fresca y pimienta negra. En las zonas cálidas de Australia la uva madura más y la Shiraz se vuelve de cuerpo alto, con cereza negra confitada y regaliz. La misma uva, climas distintos, estilos distintos. El clima explica la diferencia."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Perché lo Shiraz delle zone calde dell'Australia è spesso di corpo pieno?",
+    "Pourquoi la Shiraz des régions chaudes d'Australie est-elle souvent corsée ?",
+    "Why is Shiraz from warm parts of Australia often full-bodied?",
+    "¿Por qué la Shiraz de las zonas cálidas de Australia suele tener mucho cuerpo?"
+   ],
+   "o": [
+    [
+     "Il caldo fa maturare di più le uve",
+     "La chaleur fait davantage mûrir le raisin",
+     "The heat makes the grapes riper",
+     "El calor hace que la uva madure más"
+    ],
+    [
+     "Le uve vengono raccolte acerbe",
+     "Le raisin est vendangé avant maturité",
+     "The grapes are picked unripe",
+     "La uva se vendimia sin madurar"
+    ],
+    [
+     "Il vino è fatto senza bucce",
+     "Le vin est fait sans les peaux",
+     "The wine is made without skins",
+     "El vino se hace sin hollejos"
+    ],
+    [
+     "Si aggiunge succo non fermentato",
+     "On ajoute du jus non fermenté",
+     "Unfermented juice is added",
+     "Se añade zumo sin fermentar"
+    ]
+   ],
+   "e": [
+    "Più calore = uve più mature e zuccherine = vino più pieno e maturo.",
+    "Plus de chaleur = raisin plus mûr et sucré = vin plus ample et mûr.",
+    "More heat means riper, sweeter grapes and a fuller, riper wine.",
+    "Más calor = uva más madura y azucarada = vino con más cuerpo y madurez."
+   ],
+   "d": [
+    "Nei climi caldi le uve maturano con regolarità e accumulano più zucchero. Ne nascono vini più maturi e corposi: lo Shiraz australiano delle zone calde, come la Barossa Valley, è pieno, con ciliegia nera dal gusto di confettura e liquirizia. Nel Rodano settentrionale, più fresco, lo stile è di corpo medio.",
+    "En climat chaud, le raisin mûrit régulièrement et accumule plus de sucre. On obtient des vins plus mûrs et plus amples : la Shiraz des régions chaudes d'Australie, comme la Barossa Valley, est corsée, avec une cerise noire confiturée et de la réglisse. Dans le nord du Rhône, plus frais, le style est de corps moyen.",
+    "In warm climates grapes ripen reliably and build up more sugar. That gives riper, fuller wines: Shiraz from warm Australian regions such as the Barossa Valley is full-bodied, with jammy black cherry and liquorice. In the cooler Northern Rhône, the style is medium-bodied instead.",
+    "En climas cálidos la uva madura con regularidad y acumula más azúcar. Así salen vinos más maduros y con más cuerpo: la Shiraz de zonas cálidas de Australia, como el Barossa Valley, tiene mucho cuerpo, con cereza negra confitada y regaliz. En el norte del Ródano, más fresco, el estilo es de cuerpo medio."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quali note aggiunge il rovere a molti Syrah/Shiraz?",
+    "Quelles notes le chêne ajoute-t-il à beaucoup de Syrah/Shiraz ?",
+    "Which notes does oak add to many Syrah/Shiraz wines?",
+    "¿Qué notas añade el roble a muchos Syrah/Shiraz?"
+   ],
+   "o": [
+    [
+     "Vaniglia o cocco",
+     "Vanille ou noix de coco",
+     "Vanilla or coconut",
+     "Vainilla o coco"
+    ],
+    [
+     "Pepe nero o liquirizia",
+     "Poivre noir ou réglisse",
+     "Black pepper or liquorice",
+     "Pimienta negra o regaliz"
+    ],
+    [
+     "Mora o ciliegia nera",
+     "Mûre ou cerise noire",
+     "Blackberry or black cherry",
+     "Mora o cereza negra"
+    ],
+    [
+     "Erba o asparago",
+     "Herbe ou asperge",
+     "Grass or asparagus",
+     "Hierba o espárrago"
+    ]
+   ],
+   "e": [
+    "Il rovere dà vaniglia o cocco; frutta nera e spezie vengono dall'uva.",
+    "Le chêne donne vanille ou coco ; fruit noir et épices viennent du raisin.",
+    "Oak gives vanilla or coconut; black fruit and spice come from the grape.",
+    "El roble da vainilla o coco; la fruta negra y las especias vienen de la uva."
+   ],
+   "d": [
+    "Molti Syrah e Shiraz vengono affinati in rovere, che aggiunge note di vaniglia o di cocco. La frutta nera (mora, ciliegia nera) e le spezie (pepe nero, liquirizia) sono invece aromi propri del vitigno. Erba e asparago sono note erbacee tipiche del Sauvignon Blanc.",
+    "Beaucoup de Syrah et de Shiraz sont élevées en chêne, qui ajoute des notes de vanille ou de noix de coco. Les fruits noirs (mûre, cerise noire) et les épices (poivre noir, réglisse) sont en revanche des arômes propres au cépage. Herbe et asperge sont des notes herbacées typiques du Sauvignon Blanc.",
+    "Many Syrahs and Shirazes are matured in oak, which adds vanilla or coconut notes. Black fruit (blackberry, black cherry) and spice (black pepper, liquorice), on the other hand, are the grape's own aromas. Grass and asparagus are herbaceous notes typical of Sauvignon Blanc.",
+    "Muchos Syrah y Shiraz se crían en roble, que añade notas de vainilla o de coco. La fruta negra (mora, cereza negra) y las especias (pimienta negra, regaliz), en cambio, son aromas propios de la uva. Hierba y espárrago son notas herbáceas típicas de la Sauvignon Blanc."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "In carta: «leggero, acidità alta, fragola e ciliegia rossa». Quale vitigno?",
+    "Sur une carte : « léger, acidité élevée, fraise et cerise rouge ». Quel cépage ?",
+    "A list says «light-bodied, high acidity, strawberry and red cherry». Which grape?",
+    "En una carta: «ligero, acidez alta, fresa y cereza roja». ¿Qué uva?"
+   ],
+   "o": [
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon"
+    ],
+    [
+     "Shiraz",
+     "Shiraz",
+     "Shiraz",
+     "Shiraz"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ]
+   ],
+   "e": [
+    "Corpo leggero, acidità alta e frutti rossi indicano il Pinot Noir.",
+    "Corps léger, acidité élevée et fruits rouges désignent le Pinot Noir.",
+    "Light body, high acidity and red fruit point to Pinot Noir.",
+    "Cuerpo ligero, acidez alta y frutas rojas apuntan a la Pinot Noir."
+   ],
+   "d": [
+    "Tra i quattro rossi principali, il Pinot Noir è quello più leggero e fresco: corpo leggero o medio, acidità alta, tannino basso o medio e frutti rossi. Cabernet Sauvignon e Shiraz sono più pieni e con frutta nera; il Merlot ha acidità media e corpo da medio a pieno.",
+    "Parmi les quatre grands rouges, le Pinot Noir est le plus léger et le plus frais : corps léger à moyen, acidité élevée, tanins faibles à moyens et fruits rouges. Le Cabernet Sauvignon et la Shiraz sont plus amples, aux fruits noirs ; le Merlot a une acidité moyenne et un corps moyen à ample.",
+    "Of the four key black grapes, Pinot Noir is the lightest and freshest: light to medium body, high acidity, low to medium tannin and red fruit. Cabernet Sauvignon and Shiraz are fuller, with black fruit, while Merlot has medium acidity and a medium to full body.",
+    "De las cuatro grandes tintas, la Pinot Noir es la más ligera y fresca: cuerpo ligero a medio, acidez alta, tanino bajo a medio y frutas rojas. El Cabernet Sauvignon y la Shiraz tienen más cuerpo y fruta negra, y el Merlot tiene acidez media y cuerpo medio a alto."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "In carta: «Australia, corpo pieno, ciliegia nera intensa e liquirizia». Quale vitigno?",
+    "Sur une carte : « Australie, corsé, cerise noire intense et réglisse ». Quel cépage ?",
+    "A list says «Australia, full-bodied, intense black cherry and liquorice». Which grape?",
+    "En una carta: «Australia, con cuerpo, cereza negra intensa y regaliz». ¿Qué uva?"
+   ],
+   "o": [
+    [
+     "Shiraz",
+     "Shiraz",
+     "Shiraz",
+     "Shiraz"
+    ],
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ]
+   ],
+   "e": [
+    "Ciliegia nera e liquirizia in un rosso pieno australiano indicano lo Shiraz.",
+    "Cerise noire et réglisse dans un rouge corsé australien : c'est la Shiraz.",
+    "Black cherry and liquorice in a full Australian red point to Shiraz.",
+    "Cereza negra y regaliz en un tinto australiano con cuerpo apuntan a la Shiraz."
+   ],
+   "d": [
+    "Le zone calde dell'Australia, come la Barossa Valley, producono Shiraz di corpo pieno, con ciliegia nera matura e liquirizia. Il Pinot Noir è leggero e con frutti rossi, il Merlot è morbido con prugna e mora, e il Riesling è un'uva bianca.",
+    "Les régions chaudes d'Australie, comme la Barossa Valley, produisent des Shiraz corsées, à la cerise noire mûre et à la réglisse. Le Pinot Noir est léger et sur les fruits rouges, le Merlot souple sur la prune et la mûre, et le Riesling est un raisin blanc.",
+    "Warm Australian regions such as the Barossa Valley make full-bodied Shiraz with ripe black cherry and liquorice. Pinot Noir is light with red fruit, Merlot is soft with plum and blackberry, and Riesling is a white grape, so none of them fits this description.",
+    "Las zonas cálidas de Australia, como el Barossa Valley, producen Shiraz con mucho cuerpo, con cereza negra madura y regaliz. La Pinot Noir es ligera y de frutas rojas, el Merlot es suave con ciruela y mora, y la Riesling es una uva blanca."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "Quale uva nera si usa per lo Champagne?",
+    "Quel raisin noir entre dans le Champagne ?",
+    "Which black grape is used to make Champagne?",
+    "¿Qué uva tinta se usa para elaborar Champagne?"
+   ],
+   "o": [
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ],
+    [
+     "Merlot",
+     "Merlot",
+     "Merlot",
+     "Merlot"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon"
+    ],
+    [
+     "Syrah",
+     "Syrah",
+     "Syrah",
+     "Syrah"
+    ]
+   ],
+   "e": [
+    "Lo Champagne unisce spesso Pinot Noir e Chardonnay.",
+    "Le Champagne assemble souvent Pinot Noir et Chardonnay.",
+    "Champagne often blends Pinot Noir with Chardonnay.",
+    "El Champagne mezcla a menudo Pinot Noir y Chardonnay."
+   ],
+   "d": [
+    "Tra i quattro rossi principali, solo il Pinot Noir entra nello Champagne, dove viene spesso unito allo Chardonnay. Anche se è un'uva nera, il suo succo è incolore: separando subito le bucce si ottiene una base chiara. Merlot, Cabernet Sauvignon e Syrah non sono vitigni dello Champagne.",
+    "Parmi les quatre grands rouges, seul le Pinot Noir entre dans le Champagne, où il est souvent assemblé au Chardonnay. Bien que ce soit un raisin noir, son jus est incolore : en séparant tout de suite les peaux, on obtient une base claire. Merlot, Cabernet Sauvignon et Syrah ne sont pas des cépages du Champagne.",
+    "Of the four key black grapes, only Pinot Noir goes into Champagne, where it is often blended with Chardonnay. Although it is a black grape, its juice is colourless, so removing the skins straight away gives a pale base wine. Merlot, Cabernet Sauvignon and Syrah are not Champagne grapes.",
+    "De las cuatro grandes tintas, solo la Pinot Noir entra en el Champagne, donde a menudo se mezcla con Chardonnay. Aunque es una uva tinta, su zumo es incoloro: si se separan enseguida los hollejos, se obtiene una base clara. Merlot, Cabernet Sauvignon y Syrah no son uvas del Champagne."
+   ],
+   "c": "w3"
+  },
+  {
+   "q": [
+    "In quali regioni è comune coltivare uve nere come il Cabernet Sauvignon?",
+    "Dans quelles régions cultive-t-on couramment des raisins noirs comme le Cabernet Sauvignon ?",
+    "In which regions is it common to grow black grapes like Cabernet Sauvignon?",
+    "¿En qué regiones es habitual cultivar uvas tintas como el Cabernet Sauvignon?"
+   ],
+   "o": [
+    [
+     "Regioni calde, dove le uve maturano con regolarità",
+     "Régions chaudes, où le raisin mûrit régulièrement",
+     "Warm regions, where grapes ripen reliably",
+     "Regiones cálidas, donde la uva madura con regularidad"
+    ],
+    [
+     "Regioni fresche, dove le uve faticano a maturare",
+     "Régions fraîches, où le raisin peine à mûrir",
+     "Cool regions, where grapes struggle to ripen",
+     "Regiones frescas, donde a la uva le cuesta madurar"
+    ],
+    [
+     "Regioni senza inverno, dove la vite non riposa",
+     "Régions sans hiver, où la vigne ne se repose pas",
+     "Regions with no winter, where vines never rest",
+     "Regiones sin invierno, donde la vid no descansa"
+    ],
+    [
+     "Regioni vicino ai poli, con luce debole",
+     "Régions proches des pôles, à la lumière faible",
+     "Regions near the poles, with weak sunlight",
+     "Regiones cerca de los polos, con luz débil"
+    ]
+   ],
+   "e": [
+    "Nei climi caldi le uve maturano bene: lì è comune coltivare uve nere.",
+    "En climat chaud, le raisin mûrit bien : on y cultive souvent des raisins noirs.",
+    "Warm climates ripen grapes well, so black grapes are commonly grown there.",
+    "En climas cálidos la uva madura bien: allí es habitual cultivar uvas tintas."
+   ],
+   "d": [
+    "Le regioni calde, più vicine all'Equatore, come parti dell'Australia e della California, hanno temperature alte e sole intenso: le uve maturano con regolarità ed è comune coltivare uve nere. Nelle regioni fresche, come Germania e nord della Francia, si coltivano più spesso uve bianche.",
+    "Les régions chaudes, plus proches de l'équateur, comme certaines parties de l'Australie et de la Californie, ont des températures élevées et un soleil intense : le raisin mûrit régulièrement et l'on y cultive souvent des raisins noirs. Dans les régions fraîches, comme l'Allemagne et le nord de la France, on cultive plutôt des raisins blancs.",
+    "Warm regions closer to the Equator, such as parts of Australia and California, have high temperatures and intense sunshine, so grapes ripen reliably and black grapes are commonly grown. In cool regions such as Germany and northern France, white grapes are grown more often.",
+    "Las regiones cálidas, más cerca del ecuador, como partes de Australia y California, tienen temperaturas altas y sol intenso: la uva madura con regularidad y es habitual cultivar uvas tintas. En las regiones frescas, como Alemania y el norte de Francia, se cultivan más a menudo uvas blancas."
+   ],
+   "c": "w3"
   }
  ],
  "flash": [
@@ -1735,6 +4567,306 @@
     "Uvas tintas, unas horas con los hollejos y luego fermentación sin ellos."
    ],
    "c": "w1"
+  },
+  {
+   "f": [
+    "Chardonnay di clima fresco",
+    "Chardonnay de climat frais",
+    "Cool-climate Chardonnay",
+    "Chardonnay de clima fresco"
+   ],
+   "b": [
+    "Acidità alta, corpo leggero-medio, mela verde e limone (es. Chablis).",
+    "Acidité élevée, corps léger à moyen, pomme verte et citron (ex. Chablis).",
+    "High acidity, light to medium body, green apple and lemon (e.g. Chablis).",
+    "Acidez alta, cuerpo ligero a medio, manzana verde y limón (ej. Chablis)."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Chardonnay di clima caldo",
+    "Chardonnay de climat chaud",
+    "Warm-climate Chardonnay",
+    "Chardonnay de clima cálido"
+   ],
+   "b": [
+    "Acidità media, corpo medio-pieno, pesca, ananas, banana; spesso vaniglia dal rovere.",
+    "Acidité moyenne, corps moyen à ample, pêche, ananas, banane ; souvent vanille du chêne.",
+    "Medium acidity, medium to full body, peach, pineapple, banana; often vanilla from oak.",
+    "Acidez media, cuerpo medio a alto, melocotón, piña, plátano; a menudo vainilla del roble."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Burgundy bianco: quale vitigno?",
+    "Bourgogne blanc : quel cépage ?",
+    "White Burgundy: which grape?",
+    "Borgoña blanco: ¿qué uva?"
+   ],
+   "b": [
+    "Chardonnay; corpo medio, acidità alta, limone e pesca, a volte vaniglia.",
+    "Chardonnay ; corps moyen, acidité élevée, citron et pêche, parfois vanille.",
+    "Chardonnay; medium body, high acidity, lemon and peach, sometimes vanilla.",
+    "Chardonnay; cuerpo medio, acidez alta, limón y melocotón, a veces vainilla."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Sauvignon Blanc",
+    "Sauvignon Blanc",
+    "Sauvignon Blanc",
+    "Sauvignon Blanc"
+   ],
+   "b": [
+    "Secco, profumi intensi, acidità alta; frutta da mela a pompelmo a frutto della passione.",
+    "Sec, arômes intenses, acidité élevée ; fruit de la pomme au pamplemousse et au fruit de la passion.",
+    "Dry, pronounced aromas, high acidity; fruit from apple to grapefruit to passion fruit.",
+    "Seco, aromas intensos, acidez alta; fruta de manzana a pomelo y fruta de la pasión."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Note erbacee del Sauvignon Blanc",
+    "Notes herbacées du Sauvignon Blanc",
+    "Sauvignon Blanc herbaceous notes",
+    "Notas herbáceas de la Sauvignon Blanc"
+   ],
+   "b": [
+    "Asparago, peperone verde, erba tagliata.",
+    "Asperge, poivron vert, herbe coupée.",
+    "Asparagus, green bell pepper, cut grass.",
+    "Espárrago, pimiento verde, hierba cortada."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Vini chiave di Sauvignon Blanc",
+    "Vins clés de Sauvignon Blanc",
+    "Key Sauvignon Blanc wines",
+    "Vinos clave de Sauvignon Blanc"
+   ],
+   "b": [
+    "Sauvignon Blanc della Nuova Zelanda e Sancerre (Loira, Francia).",
+    "Sauvignon Blanc de Nouvelle-Zélande et Sancerre (Loire, France).",
+    "New Zealand Sauvignon Blanc and Sancerre (Loire, France).",
+    "Sauvignon Blanc de Nueva Zelanda y Sancerre (Loira, Francia)."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Pinot Grigio",
+    "Pinot Grigio",
+    "Pinot Grigio",
+    "Pinot Grigio"
+   ],
+   "b": [
+    "Di solito secco, leggero, acidità media-alta, pera e limone; soprattutto Italia.",
+    "En général sec, léger, acidité moyenne à élevée, poire et citron ; surtout l'Italie.",
+    "Usually dry, light, medium to high acidity, pear and lemon; mainly Italy.",
+    "Normalmente seco, ligero, acidez media a alta, pera y limón; sobre todo Italia."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Riesling",
+    "Riesling",
+    "Riesling",
+    "Riesling"
+   ],
+   "b": [
+    "Da secco a dolce, sempre acidità alta; fiori, lime, limone, pesca, albicocca.",
+    "Du sec au doux, toujours acidité élevée ; fleurs, citron vert, citron, pêche, abricot.",
+    "Dry to sweet, always high acidity; floral, lime, lemon, peach, apricot.",
+    "De seco a dulce, siempre acidez alta; flores, lima, limón, melocotón, albaricoque."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Riesling: dove e in che stile?",
+    "Riesling : où et dans quel style ?",
+    "Riesling: where and in what style?",
+    "Riesling: ¿dónde y en qué estilo?"
+   ],
+   "b": [
+    "Germania: dal secco al dolce. Alsazia e Australia: secco.",
+    "Allemagne : du sec au doux. Alsace et Australie : sec.",
+    "Germany: dry to sweet. Alsace and Australia: dry.",
+    "Alemania: de seco a dulce. Alsacia y Australia: seco."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Bianchi aromatici senza rovere",
+    "Blancs aromatiques sans chêne",
+    "Aromatic whites without oak",
+    "Blancos aromáticos sin roble"
+   ],
+   "b": [
+    "Sauvignon Blanc, Pinot Grigio e Riesling: di solito acciaio inox, per conservare la frutta.",
+    "Sauvignon Blanc, Pinot Grigio et Riesling : en général cuve inox, pour garder le fruit.",
+    "Sauvignon Blanc, Pinot Grigio and Riesling: usually stainless steel, to keep the fruit.",
+    "Sauvignon Blanc, Pinot Grigio y Riesling: normalmente acero inoxidable, para conservar la fruta."
+   ],
+   "c": "w2"
+  },
+  {
+   "f": [
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon",
+    "Cabernet Sauvignon"
+   ],
+   "b": [
+    "Secco, tannino e acidità alti, corpo medio-pieno; ribes nero, peperone verde, menta.",
+    "Sec, tanins et acidité élevés, corps moyen à ample ; cassis, poivron vert, menthe.",
+    "Dry, high tannin and acidity, medium to full body; blackcurrant, green pepper, mint.",
+    "Seco, tanino y acidez altos, cuerpo medio a alto; grosella negra, pimiento verde, menta."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Cabernet Sauvignon + rovere",
+    "Cabernet Sauvignon + chêne",
+    "Cabernet Sauvignon + oak",
+    "Cabernet Sauvignon + roble"
+   ],
+   "b": [
+    "Note di cedro e vaniglia.",
+    "Notes de cèdre et de vanille.",
+    "Cedar and vanilla notes.",
+    "Notas de cedro y vainilla."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Merlot",
+    "Merlot",
+    "Merlot",
+    "Merlot"
+   ],
+   "b": [
+    "Secco, corpo medio-pieno, acidità e tannino medi; frutti rossi e neri, vaniglia dal rovere.",
+    "Sec, corps moyen à ample, acidité et tanins moyens ; fruits rouges et noirs, vanille du chêne.",
+    "Dry, medium to full body, medium acidity and tannin; red and black fruit, vanilla from oak.",
+    "Seco, cuerpo medio a alto, acidez y tanino medios; fruta roja y negra, vainilla del roble."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Taglio di Bordeaux",
+    "Assemblage bordelais",
+    "Bordeaux blend",
+    "Mezcla de Burdeos"
+   ],
+   "b": [
+    "Cabernet Sauvignon (tannino, acidità) + Merlot (morbidezza, corpo).",
+    "Cabernet Sauvignon (tanins, acidité) + Merlot (souplesse, corps).",
+    "Cabernet Sauvignon (tannin, acidity) + Merlot (softness, body).",
+    "Cabernet Sauvignon (tanino, acidez) + Merlot (suavidad, cuerpo)."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Pinot Noir",
+    "Pinot Noir",
+    "Pinot Noir",
+    "Pinot Noir"
+   ],
+   "b": [
+    "Secco, leggero-medio, acidità alta, tannino basso-medio; fragola, ciliegia rossa, lampone.",
+    "Sec, léger à moyen, acidité élevée, tanins faibles à moyens ; fraise, cerise rouge, framboise.",
+    "Dry, light to medium, high acidity, low to medium tannin; strawberry, red cherry, raspberry.",
+    "Seco, ligero a medio, acidez alta, tanino bajo a medio; fresa, cereza roja, frambuesa."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Dove si trova il Pinot Noir?",
+    "Où trouve-t-on le Pinot Noir ?",
+    "Where is Pinot Noir key?",
+    "¿Dónde destaca la Pinot Noir?"
+   ],
+   "b": [
+    "Burgundy rosso, Nuova Zelanda (uva nera principale) e Champagne con lo Chardonnay.",
+    "Bourgogne rouge, Nouvelle-Zélande (premier cépage noir) et Champagne avec le Chardonnay.",
+    "Red Burgundy, New Zealand (main black grape) and Champagne with Chardonnay.",
+    "Borgoña tinto, Nueva Zelanda (principal uva tinta) y Champagne con Chardonnay."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Syrah o Shiraz?",
+    "Syrah ou Shiraz ?",
+    "Syrah or Shiraz?",
+    "¿Syrah o Shiraz?"
+   ],
+   "b": [
+    "Stesso vitigno: Syrah in Francia, Shiraz in Australia.",
+    "Même cépage : Syrah en France, Shiraz en Australie.",
+    "Same grape: Syrah in France, Shiraz in Australia.",
+    "La misma uva: Syrah en Francia, Shiraz en Australia."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Syrah/Shiraz: aromi",
+    "Syrah/Shiraz : arômes",
+    "Syrah/Shiraz: aromas",
+    "Syrah/Shiraz: aromas"
+   ],
+   "b": [
+    "Mora, ciliegia nera, pepe nero, liquirizia; rovere: vaniglia, cocco.",
+    "Mûre, cerise noire, poivre noir, réglisse ; chêne : vanille, noix de coco.",
+    "Blackberry, black cherry, black pepper, liquorice; oak: vanilla, coconut.",
+    "Mora, cereza negra, pimienta negra, regaliz; roble: vainilla, coco."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Rodano settentrionale vs Australia calda",
+    "Nord du Rhône vs Australie chaude",
+    "Northern Rhône vs warm Australia",
+    "Norte del Ródano vs Australia cálida"
+   ],
+   "b": [
+    "Rodano: corpo medio, mora fresca, pepe nero. Australia: corpo pieno, ciliegia nera in confettura, liquirizia.",
+    "Rhône : corps moyen, mûre fraîche, poivre noir. Australie : corsé, cerise noire confiturée, réglisse.",
+    "Rhône: medium body, fresh blackberry, black pepper. Australia: full, jammy black cherry, liquorice.",
+    "Ródano: cuerpo medio, mora fresca, pimienta negra. Australia: con cuerpo, cereza negra confitada, regaliz."
+   ],
+   "c": "w3"
+  },
+  {
+   "f": [
+    "Dove si coltiva molto il Cabernet Sauvignon?",
+    "Où le Cabernet Sauvignon est-il très cultivé ?",
+    "Where is Cabernet Sauvignon widely grown?",
+    "¿Dónde se cultiva mucho el Cabernet Sauvignon?"
+   ],
+   "b": [
+    "Bordeaux, California, Australia, Cile, Sudafrica.",
+    "Bordeaux, Californie, Australie, Chili, Afrique du Sud.",
+    "Bordeaux, California, Australia, Chile, South Africa.",
+    "Burdeos, California, Australia, Chile, Sudáfrica."
+   ],
+   "c": "w3"
   }
  ]
 }
