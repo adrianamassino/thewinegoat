@@ -1,0 +1,1035 @@
+{
+ "lessons": [
+  {
+   "c": "p1",
+   "t": [
+    "Le parti dell'acino",
+    "Les parties de la baie",
+    "The parts of the grape",
+    "Las partes de la uva"
+   ],
+   "p": [
+    [
+     "L'uva è il frutto della vite. Come molte piante, la vite produce frutti per attirare gli animali: li mangiano e ne disperdono i semi. Per chi fa vino, però, ogni acino è un piccolo magazzino di ingredienti diversi, distribuiti in quattro parti: buccia, polpa, vinaccioli (i semi) e raspi (gli steli). Sapere cosa contiene ciascuna parte aiuta a capire da dove arrivano colore, tannino, zucchero, acidità e aromi del vino.",
+     "Le raisin est le fruit de la vigne. Comme beaucoup de plantes, la vigne produit des fruits pour attirer les animaux, qui les mangent et dispersent les pépins. Pour le vinificateur, chaque baie est une petite réserve d'ingrédients répartis en quatre parties : la peau, la pulpe, les pépins et les rafles. Savoir ce que contient chaque partie permet de comprendre d'où viennent la couleur, les tanins, le sucre, l'acidité et les arômes du vin.",
+     "Grapes are the fruit of the vine. Like many plants, the vine makes fruit to attract animals, which eat it and spread the seeds. For a winemaker, though, each grape is a small store of different ingredients, spread across four parts: skin, pulp, seeds and stems. Knowing what each part holds explains where a wine's colour, tannin, sugar, acidity and flavours come from.",
+     "La uva es el fruto de la vid. Como muchas plantas, la vid produce fruta para atraer a los animales, que se la comen y dispersan las semillas. Para quien elabora vino, cada uva es un pequeño almacén de ingredientes repartidos en cuatro partes: hollejo, pulpa, pepitas y raspones. Saber qué contiene cada parte ayuda a entender de dónde vienen el color, el tanino, el azúcar, la acidez y los aromas del vino."
+    ],
+    [
+     "La buccia e lo strato appena sotto di essa sono ricchissimi di aromi. La buccia contiene anche colore e tannini, presenti in quantità molto più alte nelle uve a bacca nera. La polpa, invece, è fatta soprattutto di acqua e zucchero, con in più acidi e aromi. Salvo rarissime eccezioni, la polpa delle uve bianche e nere ha lo stesso colore chiaro: il colore dei vini rossi arriva quindi dalle bucce.",
+     "La peau et la zone située juste en dessous concentrent beaucoup d'arômes. La peau contient aussi la couleur et les tanins, bien plus abondants dans les raisins noirs. La pulpe, elle, est surtout composée d'eau et de sucre, avec des acides et des arômes. À de très rares exceptions près, la pulpe des raisins blancs et noirs a la même couleur pâle : c'est donc la peau des raisins noirs qui colore les vins rouges.",
+     "The skin and the layer just beneath it are packed with flavour. The skin also holds colour and tannin, both found at much higher levels in black grapes. The pulp is mostly water and sugar, plus acids and flavours. With very few exceptions, the pulp of white and black grapes is the same pale colour, so the colour of a red wine comes from the skins of black grapes.",
+     "El hollejo y la capa justo debajo están cargados de aromas. El hollejo también contiene color y taninos, mucho más abundantes en las uvas tintas. La pulpa, en cambio, es sobre todo agua y azúcar, con algo de ácidos y aromas. Salvo rarísimas excepciones, la pulpa de las uvas blancas y tintas tiene el mismo color pálido: por eso el color del vino tinto procede del hollejo de las uvas tintas."
+    ],
+    [
+     "Vinaccioli e raspi contengono molti tannini. Se vengono trattati in modo brusco durante la vinificazione, possono rendere il vino decisamente amaro. Ecco perché in cantina si maneggiano con cura. Ricapitolando con un esempio: un vino bianco può nascere anche da uve nere, purché il succo chiaro non resti a contatto con le bucce; un rosso, al contrario, ha bisogno delle bucce per prendere colore e tannino.",
+     "Les pépins et les rafles renferment beaucoup de tanins. S'ils sont manipulés brutalement pendant la vinification, ils peuvent rendre le vin très amer. C'est pourquoi on les traite avec soin au chai. Un exemple pour résumer : un vin blanc peut être obtenu à partir de raisins noirs si le jus pâle ne reste pas au contact des peaux ; un rouge, au contraire, a besoin des peaux pour prendre couleur et tanins.",
+     "Seeds and stems are high in tannin. If they are handled roughly during winemaking, they can make a wine taste very bitter, which is why they are treated with care in the winery. To sum up with an example: a white wine can be made from black grapes as long as the pale juice is kept away from the skins, whereas a red wine needs the skins to gain its colour and tannin.",
+     "Las pepitas y los raspones contienen muchos taninos. Si se manipulan con brusquedad durante la elaboración, pueden dar un vino muy amargo, y por eso se tratan con cuidado en bodega. Un ejemplo para resumir: se puede elaborar un vino blanco con uvas tintas si el mosto pálido no permanece en contacto con los hollejos; un tinto, en cambio, necesita los hollejos para obtener color y tanino."
+    ]
+   ],
+   "keys": [
+    [
+     "Buccia: aromi, colore e tannini (molto più nelle uve nere)",
+     "Peau : arômes, couleur et tanins (bien plus dans les raisins noirs)",
+     "Skin: flavour, colour and tannin (much more in black grapes)",
+     "Hollejo: aromas, color y taninos (mucho más en uvas tintas)"
+    ],
+    [
+     "Polpa: soprattutto acqua e zucchero, più acidi e aromi",
+     "Pulpe : surtout eau et sucre, plus acides et arômes",
+     "Pulp: mostly water and sugar, plus acids and flavours",
+     "Pulpa: sobre todo agua y azúcar, más ácidos y aromas"
+    ],
+    [
+     "La polpa è quasi sempre chiara: il colore del rosso viene dalle bucce",
+     "La pulpe est presque toujours pâle : la couleur du rouge vient des peaux",
+     "Pulp is almost always pale: red wine colour comes from the skins",
+     "La pulpa casi siempre es pálida: el color del tinto viene del hollejo"
+    ],
+    [
+     "Vinaccioli e raspi: molto tannino, amaro se trattati con forza",
+     "Pépins et rafles : beaucoup de tanins, amers si maltraités",
+     "Seeds and stems: high tannin, bitter if handled roughly",
+     "Pepitas y raspones: mucho tanino, amargos si se tratan con brusquedad"
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "Che cosa serve alla vite",
+    "Ce dont la vigne a besoin",
+    "What a vine needs",
+    "Lo que necesita la vid"
+   ],
+   "p": [
+    [
+     "La vite è una pianta che può vivere 60 anni o più e ogni anno segue lo stesso ciclo. In primavera inizia la stagione vegetativa: spuntano germogli, foglie e fiori. A fine estate i fiori sono diventati grappoli d'uva matura. In autunno la pianta perde le foglie e la stagione si chiude; d'inverno la vite è in riposo e non cresce. Il vino si fa in vigneti curati con attenzione, non con uva raccolta a caso.",
+     "La vigne est une plante qui peut vivre 60 ans ou plus et qui suit chaque année le même cycle. Au printemps commence la saison de croissance : apparaissent rameaux, feuilles et fleurs. À la fin de l'été, les fleurs sont devenues des grappes de raisins mûrs. En automne, la vigne perd ses feuilles et la saison s'achève ; en hiver, elle est en dormance et ne pousse pas. Le vin naît de vignobles soigneusement conduits.",
+     "A vine is a plant that can live for 60 years or more, and it follows the same cycle every year. Spring starts the growing season, with new shoots, leaves and flowers. By late summer the flowers have become bunches of ripe grapes. In autumn the vine drops its leaves and the season ends; in winter it is dormant and does not grow. Wine grapes come from carefully managed vineyards, not from wild plants.",
+     "La vid es una planta que puede vivir 60 años o más y que cada año sigue el mismo ciclo. En primavera empieza la temporada de crecimiento: brotan pámpanos, hojas y flores. A finales del verano, las flores se han convertido en racimos de uva madura. En otoño la planta pierde las hojas y la temporada termina; en invierno la vid está en reposo y no crece. El vino nace de viñedos cuidadosamente gestionados."
+    ],
+    [
+     "Per crescere la vite ha bisogno di cinque cose: calore, luce solare, anidride carbonica, acqua e nutrienti. Essendo radicata al suolo, prende tutto o dalla terra, attraverso le radici, o dall'aria, attraverso le foglie. Il sole fornisce calore e luce: senza abbastanza calore la vite non cresce, ed è per questo che d'inverno va in riposo. Le radici assorbono anche piccole quantità di nutrienti, indispensabili per germogli, foglie e radici sani.",
+     "Pour pousser, la vigne a besoin de cinq éléments : chaleur, lumière, dioxyde de carbone, eau et nutriments. Enracinée dans le sol, elle puise tout soit dans la terre par ses racines, soit dans l'air par ses feuilles. Le soleil apporte chaleur et lumière : sans chaleur suffisante, la vigne ne pousse pas, d'où sa dormance hivernale. Les racines absorbent aussi de petites quantités de nutriments, nécessaires à des rameaux, feuilles et racines sains.",
+     "To grow, a vine needs five things: warmth, sunlight, carbon dioxide, water and nutrients. Because it is rooted in one place, it takes everything either from the soil through its roots or from the air through its leaves. The sun supplies heat and light; without enough heat the vine cannot grow, which is why it goes dormant in winter. The roots also take up small amounts of nutrients needed for healthy shoots, leaves and roots.",
+     "Para crecer, la vid necesita cinco cosas: calor, luz solar, dióxido de carbono, agua y nutrientes. Como está anclada al suelo, lo obtiene todo de la tierra, a través de las raíces, o del aire, a través de las hojas. El sol aporta calor y luz: sin calor suficiente la vid no crece, y por eso entra en reposo en invierno. Las raíces también absorben pequeñas cantidades de nutrientes, necesarias para pámpanos, hojas y raíces sanos."
+    ],
+    [
+     "La luce ha un ruolo speciale: permette alla vite di combinare l'anidride carbonica, assorbita dalle foglie, con l'acqua, assorbita dalle radici, per produrre zuccheri. Questo processo si chiama fotosintesi. Gli zuccheri danno energia alla crescita e servono a far maturare l'uva. Esistono varie specie di vite, originarie dell'Eurasia o del Nord America, ma quasi tutto il vino viene da un'unica specie europea, che comprende tante varietà diverse per colore e sapore, come Riesling e Cabernet Sauvignon.",
+     "La lumière joue un rôle particulier : elle permet à la vigne de combiner le dioxyde de carbone, capté par les feuilles, et l'eau, puisée par les racines, pour fabriquer des sucres. C'est la photosynthèse. Ces sucres alimentent la croissance et la maturation du raisin. Il existe plusieurs espèces de vigne, originaires d'Eurasie ou d'Amérique du Nord, mais presque tous les vins viennent d'une seule espèce européenne, riche en variétés aux couleurs et saveurs différentes, comme le Riesling et le Cabernet Sauvignon.",
+     "Sunlight has a special job: it lets the vine combine carbon dioxide, taken in by the leaves, with water, taken up by the roots, to make sugars. This is photosynthesis. The vine uses these sugars to fuel its growth and ripen its grapes. There are several vine species, native to Eurasia or North America, but almost all wine comes from one European species. It includes many varieties that differ in colour and flavour, such as Riesling and Cabernet Sauvignon.",
+     "La luz tiene un papel especial: permite a la vid combinar el dióxido de carbono, que captan las hojas, con el agua, que absorben las raíces, para fabricar azúcares. Es la fotosíntesis. Esos azúcares alimentan el crecimiento y la maduración de la uva. Hay varias especies de vid, originarias de Eurasia o de Norteamérica, pero casi todo el vino procede de una sola especie europea, con muchas variedades de color y sabor distintos, como Riesling y Cabernet Sauvignon."
+    ]
+   ],
+   "keys": [
+    [
+     "Cinque bisogni: calore, luce, CO2, acqua, nutrienti",
+     "Cinq besoins : chaleur, lumière, CO2, eau, nutriments",
+     "Five needs: warmth, sunlight, CO2, water, nutrients",
+     "Cinco necesidades: calor, luz, CO2, agua, nutrientes"
+    ],
+    [
+     "Fotosintesi: luce + CO2 (foglie) + acqua (radici) = zuccheri",
+     "Photosynthèse : lumière + CO2 (feuilles) + eau (racines) = sucres",
+     "Photosynthesis: light + CO2 (leaves) + water (roots) = sugars",
+     "Fotosíntesis: luz + CO2 (hojas) + agua (raíces) = azúcares"
+    ],
+    [
+     "Ciclo annuale: germogli in primavera, uva a fine estate, riposo d'inverno",
+     "Cycle annuel : pousse au printemps, raisins fin d'été, dormance en hiver",
+     "Annual cycle: shoots in spring, ripe grapes by late summer, dormant in winter",
+     "Ciclo anual: brotación en primavera, uva madura a finales de verano, reposo en invierno"
+    ],
+    [
+     "Quasi tutto il vino viene da un'unica specie europea con molte varietà",
+     "Presque tous les vins viennent d'une seule espèce européenne aux nombreuses variétés",
+     "Almost all wine comes from one European species with many varieties",
+     "Casi todo el vino procede de una sola especie europea con muchas variedades"
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "Dal fiore all'acino: fioritura, allegagione, invaiatura",
+    "De la fleur à la baie : floraison, nouaison, véraison",
+    "From flower to grape: flowering, fruit set, véraison",
+    "De la flor a la uva: floración, cuajado, envero"
+   ],
+   "p": [
+    [
+     "In primavera, quando la vite riparte, produce dei grappoli di fiori: ognuno diventerà un grappolo d'uva. Ogni singolo fiore deve essere impollinato per trasformarsi in acino. A differenza di molte piante con fiori vistosi che richiamano gli insetti, la vite è autoimpollinante: non ha bisogno degli insetti e i suoi fiori sono piccoli e discreti.",
+     "Au printemps, quand la vigne redémarre, elle forme des grappes de fleurs : chacune deviendra une grappe de raisin. Chaque fleur doit être pollinisée pour devenir une baie. Contrairement à beaucoup de plantes aux fleurs colorées qui attirent les insectes, la vigne est autopollinisatrice : elle n'a pas besoin des insectes et ses fleurs restent discrètes.",
+     "In spring, as the vine starts to grow, it produces clusters of flowers, and each cluster will become a bunch of grapes. Every single flower must be pollinated to turn into a grape. Unlike plants with bright flowers that attract insects, vines pollinate themselves, so they do not need insects and their flowers are small and discreet.",
+     "En primavera, cuando la vid se pone en marcha, forma racimos de flores, y cada uno se convertirá en un racimo de uvas. Cada flor debe ser polinizada para transformarse en uva. A diferencia de las plantas con flores vistosas que atraen a los insectos, la vid se autopoliniza: no necesita insectos y sus flores son pequeñas y discretas."
+    ],
+    [
+     "Dopo l'impollinazione il fiore inizia a formare i semi e a gonfiarsi: a quel punto è diventato un acino. È l'allegagione. Tutti gli acini appena formati sono piccoli, duri, verdi e sgradevoli al gusto. Per diventare uve bianche o nere adatte al vino devono crescere e maturare durante i mesi estivi.",
+     "Une fois pollinisée, la fleur commence à former des pépins et à grossir : elle est alors devenue une baie. C'est la nouaison. Toutes les jeunes baies sont petites, dures, vertes et désagréables au goût. Pour devenir des raisins blancs ou noirs bons à vinifier, elles doivent grossir et mûrir pendant l'été.",
+     "Once pollinated, the flower starts to grow seeds and to swell; at this point it has become a grape. This is fruit set. All newly formed grapes are small, hard, green and unpleasant to taste. To become white or black grapes fit for winemaking, they need to grow and ripen over the summer months.",
+     "Una vez polinizada, la flor empieza a formar pepitas y a hincharse: en ese momento ya es una uva. Es el cuajado. Todas las uvas recién formadas son pequeñas, duras, verdes y desagradables de sabor. Para llegar a ser uvas blancas o tintas aptas para el vino, tienen que crecer y madurar durante los meses de verano."
+    ],
+    [
+     "A metà estate gli acini sono abbastanza grandi perché la vite avvii la maturazione. Il punto di partenza è l'invaiatura (in francese véraison): gli acini perdono il colore verde. Le uve bianche diventano dorate, quelle nere passano al rosso e poi al viola. Da qui in avanti cambiano zuccheri, acidità, aromi e tannini, come vedremo nella lezione successiva.",
+     "Au milieu de l'été, les baies sont assez grosses pour que la vigne lance la maturation. Le point de départ est la véraison : les baies perdent leur couleur verte. Les raisins blancs deviennent dorés, les noirs virent au rouge puis au violet. À partir de là, sucres, acidité, arômes et tanins évoluent, comme on le verra dans la leçon suivante.",
+     "By mid-summer the grapes are big enough for the vine to begin ripening them. Ripening starts with véraison, the moment grapes lose their green colour. White grapes turn golden, while black grapes turn red and then purple. From here on, sugar, acidity, flavours and tannins all change, as the next lesson explains.",
+     "A mediados del verano, las uvas son lo bastante grandes para que la vid inicie la maduración. El punto de partida es el envero (véraison en francés): las uvas pierden el color verde. Las blancas se vuelven doradas y las tintas pasan al rojo y luego al morado. A partir de ahí cambian azúcares, acidez, aromas y taninos, como se verá en la lección siguiente."
+    ]
+   ],
+   "keys": [
+    [
+     "Fioritura: in primavera; ogni grappolo di fiori diventa un grappolo d'uva",
+     "Floraison : au printemps ; chaque grappe de fleurs devient une grappe",
+     "Flowering: in spring; each flower cluster becomes a bunch of grapes",
+     "Floración: en primavera; cada racimo de flores será un racimo de uvas"
+    ],
+    [
+     "La vite è autoimpollinante: non servono insetti",
+     "La vigne est autopollinisatrice : pas besoin d'insectes",
+     "Vines are self-pollinating: no insects needed",
+     "La vid se autopoliniza: no necesita insectos"
+    ],
+    [
+     "Allegagione: il fiore impollinato si gonfia e diventa un acino piccolo, duro e verde",
+     "Nouaison : la fleur pollinisée grossit et devient une petite baie dure et verte",
+     "Fruit set: the pollinated flower swells into a small, hard, green grape",
+     "Cuajado: la flor polinizada se hincha y se convierte en una uva pequeña, dura y verde"
+    ],
+    [
+     "Invaiatura: a metà estate gli acini perdono il verde e inizia la maturazione",
+     "Véraison : au milieu de l'été, les baies perdent le vert et la maturation commence",
+     "Véraison: mid-summer, grapes lose their green colour and ripening begins",
+     "Envero: a mediados de verano las uvas pierden el verde y empieza la maduración"
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "Maturazione: acerbo, maturo, surmaturo",
+    "Maturation : vert, mûr, surmûri",
+    "Ripening: unripe, ripe, extra-ripe",
+    "Maduración: verde, madura, sobremadura"
+   ],
+   "p": [
+    [
+     "All'inizio della maturazione l'uva è acerba: molto acida, quasi senza zucchero e con un sapore erbaceo poco piacevole. Durante la maturazione gli acini si riempiono d'acqua e diventano morbidi e carnosi. L'acidità scende, lo zucchero sale e le note erbacee lasciano spazio agli aromi tipici della varietà. In alcune uve bianche gli aromi passano dalla frutta verde alla frutta a nocciolo e poi tropicale; nelle uve nere, dalla frutta fresca a quella cotta.",
+     "Au début de la maturation, le raisin est vert : très acide, presque sans sucre et avec un goût herbacé peu agréable. Pendant la maturation, les baies se gorgent d'eau et deviennent tendres et charnues. L'acidité baisse, le sucre augmente et les notes herbacées cèdent la place aux arômes typiques du cépage. Pour certains raisins blancs, on passe des fruits verts aux fruits à noyau puis aux fruits tropicaux ; pour les noirs, du fruit frais au fruit cuit.",
+     "At the start of ripening, grapes are unripe: very high in acid, with hardly any sugar and an unattractive herbaceous flavour. As they ripen, they swell with water and become soft and fleshy. Acidity falls, sugar rises and the herbaceous notes give way to the grape's signature flavours. In some white grapes, aromas move from green fruit to stone fruit and then tropical fruit; in black grapes, from fresh fruit to cooked fruit.",
+     "Al principio de la maduración la uva está verde: muy ácida, casi sin azúcar y con un sabor herbáceo poco agradable. Durante la maduración, las uvas se llenan de agua y se vuelven blandas y carnosas. La acidez baja, el azúcar sube y las notas herbáceas dejan paso a los aromas propios de la variedad. En algunas uvas blancas, los aromas pasan de fruta verde a fruta de hueso y luego tropical; en las tintas, de fruta fresca a fruta cocinada."
+    ],
+    [
+     "Nelle uve nere succede un altro cambiamento importante: i tannini della buccia maturano. I tannini contribuiscono alla sensazione in bocca dei vini rossi, ma se l'uva viene raccolta con tannini ancora acerbi il vino può risultare amaro. Per questo chi coltiva deve assicurarsi che, al momento della vendemmia, non sia maturo solo lo zucchero ma anche il tannino. Intanto il colore si è già sviluppato con l'invaiatura.",
+     "Dans les raisins noirs, un autre changement important se produit : les tanins de la peau mûrissent. Les tanins participent à la sensation en bouche des vins rouges, mais s'ils sont encore verts au moment de la récolte, le vin peut être amer. Le viticulteur doit donc vérifier qu'à la vendange, non seulement le sucre mais aussi les tanins sont mûrs. La couleur, elle, s'est déjà développée à la véraison.",
+     "In black grapes another important change takes place: the tannins in the skins ripen. Tannins shape the mouthfeel of red wines, but if grapes are picked with unripe tannins, the wine can taste bitter. So the grower must make sure that at harvest it is not only the sugar that is ready but the tannins too. Colour, meanwhile, has already developed since véraison.",
+     "En las uvas tintas se produce otro cambio importante: los taninos del hollejo maduran. Los taninos contribuyen a la sensación en boca de los tintos, pero si la uva se vendimia con taninos verdes, el vino puede resultar amargo. Por eso quien cultiva debe asegurarse de que en la vendimia no solo el azúcar esté a punto, sino también el tanino. El color, por su parte, ya se ha desarrollado desde el envero."
+    ],
+    [
+     "Se l'uva resta sulla pianta oltre il momento abituale della raccolta, entra in surmaturazione. Serve però un tempo adatto: asciutto, perché la pioggia favorisce le malattie fungine, e abbastanza caldo perché la maturazione continui. All'inizio gli aromi diventano più intensi e maturi e lo zucchero aumenta. Più avanti l'acqua evapora e gli acini appassiscono come uvetta: acidi e zuccheri si concentrano e compaiono aromi di frutta secca.",
+     "Si le raisin reste sur la vigne au-delà de la date habituelle de récolte, il devient surmûri. Il faut toutefois une météo favorable : sèche, car la pluie favorise les maladies fongiques, et assez chaude pour que la maturation continue. D'abord, les arômes deviennent plus mûrs et exubérants et le sucre augmente. Ensuite, l'eau s'évapore et les baies se flétrissent comme des raisins secs : acides et sucres se concentrent et des arômes de fruits secs apparaissent.",
+     "If grapes are left on the vine beyond the usual picking time, they become extra-ripe. This only works if the weather stays dry, since rain encourages fungal disease, and warm enough for ripening to continue. At first, the aromas become more intensely ripe and sugar builds up. Later, water evaporates and the grapes shrivel towards raisins, concentrating acids and sugars and bringing dried-fruit aromas.",
+     "Si la uva se deja en la planta más allá del momento habitual de vendimia, se sobremadura. Para ello hace falta un tiempo adecuado: seco, porque la lluvia favorece las enfermedades fúngicas, y lo bastante cálido para que siga madurando. Al principio, los aromas se vuelven más maduros e intensos y el azúcar aumenta. Después, el agua se evapora y las uvas se pasifican: ácidos y azúcares se concentran y aparecen aromas de fruta pasa."
+    ],
+    [
+     "Le uve surmature o appassite possono avere così tanto zucchero alla raccolta da essere usate spesso per vini dolci. Riassumendo il percorso: uva acerba, acida ed erbacea; uva matura, con più zucchero, meno acidità, aromi varietali e, nelle uve nere, tannini maturi; uva surmatura, ancora più dolce e concentrata, con aromi molto maturi o di frutta secca.",
+     "Les raisins surmûris ou passerillés peuvent contenir tellement de sucre à la récolte qu'on les utilise souvent pour des vins doux. En résumé : raisin vert, acide et herbacé ; raisin mûr, plus sucré, moins acide, avec ses arômes de cépage et, pour les noirs, des tanins mûrs ; raisin surmûri, encore plus sucré et concentré, aux arômes très mûrs ou de fruits secs.",
+     "Extra-ripe or shrivelled grapes can be so high in sugar at harvest that they are often used for sweet wines. To sum up the journey: unripe grapes are acidic and herbaceous; ripe grapes have more sugar, less acid, varietal flavours and, in black grapes, ripe tannins; extra-ripe grapes are even sweeter and more concentrated, with very ripe or dried-fruit aromas.",
+     "Las uvas sobremaduras o pasificadas pueden tener tanto azúcar en la vendimia que se usan a menudo para vinos dulces. Resumiendo el recorrido: uva verde, ácida y herbácea; uva madura, con más azúcar, menos acidez, aromas varietales y, en las tintas, taninos maduros; uva sobremadura, aún más dulce y concentrada, con aromas muy maduros o de fruta pasa."
+    ]
+   ],
+   "keys": [
+    [
+     "Maturando: acidità giù, zucchero su, erbaceo che lascia posto agli aromi varietali",
+     "En mûrissant : acidité en baisse, sucre en hausse, l'herbacé laisse place au cépage",
+     "As grapes ripen: acid falls, sugar rises, herbaceous gives way to varietal flavour",
+     "Al madurar: baja la acidez, sube el azúcar y lo herbáceo deja paso a la variedad"
+    ],
+    [
+     "Bianche: frutta verde, poi a nocciolo, poi tropicale; nere: frutta fresca, poi cotta",
+     "Blancs : fruit vert, puis à noyau, puis tropical ; noirs : fruit frais puis cuit",
+     "Whites: green to stone to tropical fruit; blacks: fresh to cooked fruit",
+     "Blancas: fruta verde, de hueso y tropical; tintas: fruta fresca y luego cocinada"
+    ],
+    [
+     "Tannini acerbi nelle uve nere danno amaro: vanno raccolti maturi",
+     "Des tanins verts donnent de l'amertume : il faut les récolter mûrs",
+     "Unripe tannins in black grapes taste bitter: pick them ripe",
+     "Los taninos verdes amargan: hay que vendimiarlos maduros"
+    ],
+    [
+     "Surmaturazione: serve tempo asciutto e caldo; l'appassimento concentra zuccheri e acidi",
+     "Surmaturité : il faut un temps sec et chaud ; le passerillage concentre sucres et acides",
+     "Extra-ripeness needs dry, warm weather; shrivelling concentrates sugar and acid",
+     "Sobremaduración: tiempo seco y cálido; la pasificación concentra azúcar y ácidos"
+    ],
+    [
+     "Uve surmature o appassite: spesso destinate a vini dolci",
+     "Raisins surmûris ou passerillés : souvent destinés aux vins doux",
+     "Extra-ripe or raisined grapes: often used for sweet wines",
+     "Uvas sobremaduras o pasificadas: a menudo para vinos dulces"
+    ]
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "c": "p1",
+   "q": [
+    "Da quale parte dell'acino proviene il colore di un vino rosso?",
+    "De quelle partie de la baie vient la couleur d'un vin rouge ?",
+    "Which part of the grape gives a red wine its colour?",
+    "¿De qué parte de la uva procede el color de un vino tinto?"
+   ],
+   "o": [
+    [
+     "La buccia",
+     "La peau",
+     "The skin",
+     "El hollejo"
+    ],
+    [
+     "La polpa",
+     "La pulpe",
+     "The pulp",
+     "La pulpa"
+    ],
+    [
+     "I vinaccioli",
+     "Les pépins",
+     "The seeds",
+     "Las pepitas"
+    ],
+    [
+     "I raspi",
+     "Les rafles",
+     "The stems",
+     "Los raspones"
+    ]
+   ],
+   "e": [
+    "Il colore si trova nella buccia delle uve nere; la polpa è quasi sempre chiara.",
+    "La couleur se trouve dans la peau des raisins noirs ; la pulpe est presque toujours pâle.",
+    "Colour is held in the skins of black grapes; the pulp is almost always pale.",
+    "El color está en el hollejo de las uvas tintas; la pulpa casi siempre es pálida."
+   ],
+   "d": [
+    "Salvo rarissime eccezioni, la polpa delle uve bianche e nere ha lo stesso colore chiaro. La buccia contiene colore e tannini, molto più abbondanti nelle uve nere. Per questo un vino rosso prende colore solo se il succo resta a contatto con le bucce; vinaccioli e raspi apportano soprattutto tannino, non colore.",
+    "À de très rares exceptions près, la pulpe des raisins blancs et noirs a la même couleur pâle. La peau contient la couleur et les tanins, bien plus abondants dans les raisins noirs. Un vin rouge ne prend donc sa couleur que si le jus reste au contact des peaux ; pépins et rafles apportent surtout des tanins, pas de couleur.",
+    "With very few exceptions, the pulp of white and black grapes is the same pale colour. The skin holds colour and tannin, both much more plentiful in black grapes. So a red wine only gains its colour if the juice stays in contact with the skins; seeds and stems mainly bring tannin, not colour.",
+    "Salvo rarísimas excepciones, la pulpa de las uvas blancas y tintas tiene el mismo color pálido. El hollejo contiene color y taninos, mucho más abundantes en las uvas tintas. Por eso un tinto solo toma color si el mosto permanece en contacto con los hollejos; pepitas y raspones aportan sobre todo tanino, no color."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Di che cosa è composta soprattutto la polpa dell'acino?",
+    "De quoi la pulpe du raisin est-elle surtout composée ?",
+    "What is grape pulp mainly made of?",
+    "¿De qué se compone principalmente la pulpa de la uva?"
+   ],
+   "o": [
+    [
+     "Acqua e zucchero",
+     "Eau et sucre",
+     "Water and sugar",
+     "Agua y azúcar"
+    ],
+    [
+     "Tannini e colore",
+     "Tanins et couleur",
+     "Tannin and colour",
+     "Taninos y color"
+    ],
+    [
+     "Colore e aromi",
+     "Couleur et arômes",
+     "Colour and flavour",
+     "Color y aromas"
+    ],
+    [
+     "Tannini e acidi",
+     "Tanins et acides",
+     "Tannin and acids",
+     "Taninos y ácidos"
+    ]
+   ],
+   "e": [
+    "La polpa è soprattutto acqua e zucchero, con in più acidi e aromi.",
+    "La pulpe est surtout de l'eau et du sucre, avec des acides et des arômes.",
+    "Pulp is mostly water and sugar, with some acids and flavours.",
+    "La pulpa es sobre todo agua y azúcar, con algo de ácidos y aromas."
+   ],
+   "d": [
+    "La polpa costituisce la parte succosa dell'acino: acqua e zucchero sono i componenti principali, accompagnati da acidi e aromi. Colore e tannini, invece, si concentrano nella buccia, mentre vinaccioli e raspi sono ricchi di tannini. Distinguere bene il contenuto di ogni parte aiuta a capire come nascono vini bianchi, rosati e rossi.",
+    "La pulpe est la partie juteuse de la baie : l'eau et le sucre en sont les principaux composants, accompagnés d'acides et d'arômes. La couleur et les tanins se concentrent dans la peau, tandis que pépins et rafles sont riches en tanins. Bien distinguer le contenu de chaque partie aide à comprendre la naissance des vins blancs, rosés et rouges.",
+    "The pulp is the juicy part of the grape: water and sugar are its main components, along with acids and flavours. Colour and tannin are concentrated in the skin, while seeds and stems are rich in tannin. Knowing what each part contains helps explain how white, rosé and red wines are made.",
+    "La pulpa es la parte jugosa de la uva: el agua y el azúcar son sus componentes principales, junto con ácidos y aromas. El color y los taninos se concentran en el hollejo, mientras que pepitas y raspones son ricos en taninos. Distinguir lo que contiene cada parte ayuda a entender cómo se elaboran blancos, rosados y tintos."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché vinaccioli e raspi vanno trattati con delicatezza in cantina?",
+    "Pourquoi faut-il manipuler les pépins et les rafles avec douceur au chai ?",
+    "Why must seeds and stems be handled gently in the winery?",
+    "¿Por qué hay que tratar con suavidad las pepitas y los raspones en bodega?"
+   ],
+   "o": [
+    [
+     "Sono ricchi di tannini che possono rendere il vino amaro",
+     "Ils sont riches en tanins qui peuvent rendre le vin amer",
+     "They are high in tannins that can make wine bitter",
+     "Son ricos en taninos que pueden amargar el vino"
+    ],
+    [
+     "Contengono quasi tutto lo zucchero dell'acino",
+     "Ils contiennent presque tout le sucre de la baie",
+     "They contain almost all of the grape's sugar",
+     "Contienen casi todo el azúcar de la uva"
+    ],
+    [
+     "Sono la principale fonte di colore del vino",
+     "Ils sont la principale source de couleur du vin",
+     "They are the main source of the wine's colour",
+     "Son la principal fuente de color del vino"
+    ],
+    [
+     "Liberano acidi che rendono il vino troppo aspro",
+     "Ils libèrent des acides qui rendent le vin trop aigre",
+     "They release acids that make the wine too sour",
+     "Liberan ácidos que hacen el vino demasiado agrio"
+    ]
+   ],
+   "e": [
+    "Vinaccioli e raspi contengono molti tannini: trattati con forza danno amarezza.",
+    "Pépins et rafles contiennent beaucoup de tanins : maltraités, ils donnent de l'amertume.",
+    "Seeds and stems hold a lot of tannin, which turns bitter if they are handled roughly.",
+    "Pepitas y raspones contienen muchos taninos: si se tratan con brusquedad, amargan."
+   ],
+   "d": [
+    "I tannini di vinaccioli e raspi sono abbondanti e, se queste parti vengono schiacciate o lavorate in modo brusco, passano nel vino rendendolo molto amaro. Lo zucchero si trova nella polpa e il colore nella buccia delle uve nere, quindi le altre risposte attribuiscono a vinaccioli e raspi un ruolo che non hanno.",
+    "Les tanins des pépins et des rafles sont abondants et, si ces parties sont écrasées ou travaillées brutalement, ils passent dans le vin et le rendent très amer. Le sucre se trouve dans la pulpe et la couleur dans la peau des raisins noirs : les autres réponses attribuent aux pépins et aux rafles un rôle qu'ils n'ont pas.",
+    "Seeds and stems contain plenty of tannin, and if they are crushed or worked roughly this passes into the wine and makes it very bitter. Sugar is found in the pulp and colour in the skins of black grapes, so the other answers give seeds and stems a role they do not play.",
+    "Los taninos de pepitas y raspones son abundantes y, si estas partes se aplastan o se trabajan con brusquedad, pasan al vino y lo vuelven muy amargo. El azúcar está en la pulpa y el color en el hollejo de las uvas tintas, así que las demás respuestas atribuyen a pepitas y raspones un papel que no tienen."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Quale processo permette alla vite di produrre zuccheri?",
+    "Quel processus permet à la vigne de fabriquer des sucres ?",
+    "Which process allows the vine to produce sugars?",
+    "¿Qué proceso permite a la vid fabricar azúcares?"
+   ],
+   "o": [
+    [
+     "La fotosintesi",
+     "La photosynthèse",
+     "Photosynthesis",
+     "La fotosíntesis"
+    ],
+    [
+     "L'invaiatura",
+     "La véraison",
+     "Véraison",
+     "El envero"
+    ],
+    [
+     "L'impollinazione",
+     "La pollinisation",
+     "Pollination",
+     "La polinización"
+    ],
+    [
+     "L'allegagione",
+     "La nouaison",
+     "Fruit set",
+     "El cuajado"
+    ]
+   ],
+   "e": [
+    "Con la fotosintesi la luce permette di unire CO2 e acqua per creare zuccheri.",
+    "Par la photosynthèse, la lumière permet d'unir CO2 et eau pour créer des sucres.",
+    "In photosynthesis, sunlight lets the vine combine CO2 and water into sugars.",
+    "En la fotosíntesis, la luz permite combinar CO2 y agua para crear azúcares."
+   ],
+   "d": [
+    "Le foglie assorbono anidride carbonica dall'aria e le radici assorbono acqua dal suolo. Grazie alla luce del sole, la vite combina questi elementi e produce zuccheri: è la fotosintesi. Gli zuccheri alimentano la crescita della pianta e la maturazione dell'uva. Invaiatura, impollinazione e allegagione sono invece fasi dello sviluppo dell'acino.",
+    "Les feuilles captent le dioxyde de carbone de l'air et les racines puisent l'eau du sol. Grâce à la lumière du soleil, la vigne combine ces éléments pour produire des sucres : c'est la photosynthèse. Ces sucres alimentent la croissance de la plante et la maturation du raisin. Véraison, pollinisation et nouaison sont des étapes du développement de la baie.",
+    "The leaves take in carbon dioxide from the air and the roots take up water from the soil. Using sunlight, the vine combines these to make sugars: this is photosynthesis. The sugars fuel the plant's growth and the ripening of the grapes. Véraison, pollination and fruit set are stages in the development of the grape itself.",
+    "Las hojas captan dióxido de carbono del aire y las raíces absorben agua del suelo. Gracias a la luz del sol, la vid combina estos elementos y produce azúcares: es la fotosíntesis. Los azúcares alimentan el crecimiento de la planta y la maduración de la uva. Envero, polinización y cuajado son, en cambio, etapas del desarrollo de la uva."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché la vite va in riposo durante l'inverno?",
+    "Pourquoi la vigne entre-t-elle en dormance en hiver ?",
+    "Why does the vine go dormant in winter?",
+    "¿Por qué la vid entra en reposo en invierno?"
+   ],
+   "o": [
+    [
+     "Non c'è abbastanza calore per crescere",
+     "Il n'y a pas assez de chaleur pour pousser",
+     "There is not enough heat for it to grow",
+     "No hay calor suficiente para crecer"
+    ],
+    [
+     "Il suolo non contiene più nutrienti",
+     "Le sol ne contient plus de nutriments",
+     "The soil no longer contains nutrients",
+     "El suelo ya no contiene nutrientes"
+    ],
+    [
+     "Le radici smettono di assorbire CO2",
+     "Les racines cessent d'absorber le CO2",
+     "The roots stop absorbing CO2",
+     "Las raíces dejan de absorber CO2"
+    ],
+    [
+     "La pianta è stata appena potata",
+     "La plante vient d'être taillée",
+     "The plant has just been pruned",
+     "La planta acaba de ser podada"
+    ]
+   ],
+   "e": [
+    "Senza abbastanza calore la vite non può crescere, quindi d'inverno si ferma.",
+    "Sans chaleur suffisante, la vigne ne peut pas pousser : en hiver, elle s'arrête.",
+    "Without enough heat a vine cannot grow, so in winter it stops.",
+    "Sin calor suficiente la vid no puede crecer, así que en invierno se detiene."
+   ],
+   "d": [
+    "Il calore, fornito dal sole, è uno dei cinque bisogni della vite. Quando le temperature sono troppo basse la pianta non riesce a crescere ed entra in riposo, perdendo le foglie già in autunno. La CO2 viene assorbita dalle foglie, non dalle radici, e la potatura invernale si fa proprio perché la vite è già a riposo.",
+    "La chaleur, apportée par le soleil, est l'un des cinq besoins de la vigne. Quand il fait trop froid, la plante ne peut pas pousser et entre en dormance, après avoir perdu ses feuilles en automne. Le CO2 est capté par les feuilles, pas par les racines, et la taille d'hiver se fait justement parce que la vigne est déjà en dormance.",
+    "Heat, supplied by the sun, is one of the vine's five needs. When it is too cold the plant cannot grow and becomes dormant, having dropped its leaves in autumn. CO2 is taken in by the leaves, not the roots, and winter pruning happens precisely because the vine is already dormant.",
+    "El calor, que aporta el sol, es una de las cinco necesidades de la vid. Cuando hace demasiado frío, la planta no puede crecer y entra en reposo, tras perder las hojas en otoño. El CO2 lo captan las hojas, no las raíces, y la poda invernal se hace precisamente porque la vid ya está en reposo."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Che cosa assorbe la vite attraverso le foglie?",
+    "Qu'est-ce que la vigne capte par ses feuilles ?",
+    "What does the vine take in through its leaves?",
+    "¿Qué capta la vid a través de las hojas?"
+   ],
+   "o": [
+    [
+     "Anidride carbonica",
+     "Dioxyde de carbone",
+     "Carbon dioxide",
+     "Dióxido de carbono"
+    ],
+    [
+     "Acqua",
+     "Eau",
+     "Water",
+     "Agua"
+    ],
+    [
+     "Nutrienti",
+     "Nutriments",
+     "Nutrients",
+     "Nutrientes"
+    ],
+    [
+     "Zuccheri",
+     "Sucres",
+     "Sugars",
+     "Azúcares"
+    ]
+   ],
+   "e": [
+    "Le foglie assorbono CO2 dall'aria; acqua e nutrienti arrivano dalle radici.",
+    "Les feuilles captent le CO2 de l'air ; l'eau et les nutriments viennent des racines.",
+    "Leaves take in CO2 from the air; water and nutrients come through the roots.",
+    "Las hojas captan CO2 del aire; el agua y los nutrientes llegan por las raíces."
+   ],
+   "d": [
+    "La vite prende ciò che le serve o dal suolo, tramite le radici, o dall'aria, tramite le foglie. Dalle foglie entra l'anidride carbonica; dalle radici arrivano acqua e piccole quantità di nutrienti. Gli zuccheri non vengono assorbiti: la pianta li fabbrica da sola con la fotosintesi, usando luce, CO2 e acqua.",
+    "La vigne puise ce dont elle a besoin soit dans le sol par ses racines, soit dans l'air par ses feuilles. Les feuilles captent le dioxyde de carbone ; les racines apportent l'eau et de petites quantités de nutriments. Les sucres ne sont pas absorbés : la plante les fabrique elle-même par photosynthèse, avec la lumière, le CO2 et l'eau.",
+    "A vine takes what it needs either from the soil through its roots or from the air through its leaves. Carbon dioxide enters through the leaves; water and small amounts of nutrients come in through the roots. Sugars are not absorbed at all: the plant makes them itself by photosynthesis, using light, CO2 and water.",
+    "La vid obtiene lo que necesita del suelo, a través de las raíces, o del aire, a través de las hojas. Por las hojas entra el dióxido de carbono; por las raíces, el agua y pequeñas cantidades de nutrientes. Los azúcares no se absorben: la planta los fabrica ella misma mediante la fotosíntesis, con luz, CO2 y agua."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Come vengono impollinati i fiori della vite?",
+    "Comment les fleurs de la vigne sont-elles pollinisées ?",
+    "How are vine flowers pollinated?",
+    "¿Cómo se polinizan las flores de la vid?"
+   ],
+   "o": [
+    [
+     "Si autoimpollinano",
+     "Elles s'autopollinisent",
+     "They pollinate themselves",
+     "Se autopolinizan"
+    ],
+    [
+     "Grazie alle api",
+     "Grâce aux abeilles",
+     "By bees",
+     "Gracias a las abejas"
+    ],
+    [
+     "Grazie agli uccelli",
+     "Grâce aux oiseaux",
+     "By birds",
+     "Gracias a los pájaros"
+    ],
+    [
+     "Con l'aiuto di chi coltiva",
+     "Avec l'aide du viticulteur",
+     "By hand, by the grower",
+     "Con ayuda de quien cultiva"
+    ]
+   ],
+   "e": [
+    "La vite è autoimpollinante: non deve attirare insetti con fiori vistosi.",
+    "La vigne est autopollinisatrice : elle n'a pas à attirer d'insectes avec des fleurs voyantes.",
+    "Vines are self-pollinating, so they do not need showy flowers to attract insects.",
+    "La vid se autopoliniza: no necesita flores vistosas para atraer insectos."
+   ],
+   "d": [
+    "Molte piante hanno fiori colorati per richiamare gli insetti impollinatori. La vite no: i suoi fiori si impollinano da soli. Ogni fiore impollinato può poi formare i semi e gonfiarsi, diventando un acino durante l'allegagione. Per questo i fiori della vite sono piccoli e poco appariscenti.",
+    "Beaucoup de plantes ont des fleurs colorées pour attirer les insectes pollinisateurs. Pas la vigne : ses fleurs se pollinisent seules. Chaque fleur pollinisée peut ensuite former ses pépins et grossir, devenant une baie lors de la nouaison. C'est pourquoi les fleurs de la vigne sont petites et discrètes.",
+    "Many plants have colourful flowers to attract pollinating insects. Vines do not: their flowers pollinate themselves. Each pollinated flower can then grow seeds and swell, becoming a grape at fruit set. That is why vine flowers are small and inconspicuous.",
+    "Muchas plantas tienen flores de colores para atraer a los insectos polinizadores. La vid no: sus flores se polinizan solas. Cada flor polinizada puede luego formar pepitas e hincharse, convirtiéndose en uva durante el cuajado. Por eso las flores de la vid son pequeñas y poco llamativas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Come si chiama la fase in cui il fiore impollinato si gonfia e diventa un acino?",
+    "Comment s'appelle l'étape où la fleur pollinisée grossit et devient une baie ?",
+    "What is the stage called when the pollinated flower swells into a grape?",
+    "¿Cómo se llama la fase en que la flor polinizada se hincha y se convierte en uva?"
+   ],
+   "o": [
+    [
+     "Allegagione",
+     "Nouaison",
+     "Fruit set",
+     "Cuajado"
+    ],
+    [
+     "Invaiatura",
+     "Véraison",
+     "Véraison",
+     "Envero"
+    ],
+    [
+     "Fioritura",
+     "Floraison",
+     "Flowering",
+     "Floración"
+    ],
+    [
+     "Surmaturazione",
+     "Surmaturité",
+     "Extra-ripening",
+     "Sobremaduración"
+    ]
+   ],
+   "e": [
+    "Nell'allegagione il fiore forma i semi, si gonfia e diventa un piccolo acino verde.",
+    "À la nouaison, la fleur forme ses pépins, grossit et devient une petite baie verte.",
+    "At fruit set the flower grows seeds, swells and becomes a small green grape.",
+    "En el cuajado la flor forma pepitas, se hincha y se convierte en una pequeña uva verde."
+   ],
+   "d": [
+    "L'ordine è: fioritura in primavera, allegagione quando il fiore impollinato inizia a formare i semi e a gonfiarsi, poi crescita estiva, invaiatura a metà estate e infine maturazione. Gli acini appena allegati sono piccoli, duri, verdi e sgradevoli: devono ancora crescere e maturare per diventare uve da vino.",
+    "L'ordre est : floraison au printemps, nouaison quand la fleur pollinisée commence à former ses pépins et à grossir, puis croissance estivale, véraison au milieu de l'été et enfin maturation. Les baies juste nouées sont petites, dures, vertes et désagréables : elles doivent encore grossir et mûrir pour devenir des raisins à vin.",
+    "The order is: flowering in spring, fruit set when the pollinated flower starts to grow seeds and swell, then summer growth, véraison in mid-summer and finally ripening. Newly set grapes are small, hard, green and unpleasant; they still need to grow and ripen to become wine grapes.",
+    "El orden es: floración en primavera, cuajado cuando la flor polinizada empieza a formar pepitas y a hincharse, luego crecimiento estival, envero a mediados del verano y, por último, maduración. Las uvas recién cuajadas son pequeñas, duras, verdes y desagradables: aún tienen que crecer y madurar para ser uvas de vino."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Che cosa succede all'invaiatura?",
+    "Que se passe-t-il à la véraison ?",
+    "What happens at véraison?",
+    "¿Qué ocurre en el envero?"
+   ],
+   "o": [
+    [
+     "Gli acini perdono il colore verde e inizia la maturazione",
+     "Les baies perdent leur couleur verte et la maturation commence",
+     "Grapes lose their green colour and ripening begins",
+     "Las uvas pierden el color verde y empieza la maduración"
+    ],
+    [
+     "I fiori vengono impollinati e formano i semi",
+     "Les fleurs sont pollinisées et forment des pépins",
+     "Flowers are pollinated and start forming seeds",
+     "Las flores se polinizan y forman pepitas"
+    ],
+    [
+     "La vite perde le foglie e va in riposo",
+     "La vigne perd ses feuilles et entre en dormance",
+     "The vine drops its leaves and goes dormant",
+     "La vid pierde las hojas y entra en reposo"
+    ],
+    [
+     "Gli acini appassiscono e diventano uvetta",
+     "Les baies se flétrissent et deviennent raisins secs",
+     "Grapes shrivel and turn into raisins",
+     "Las uvas se arrugan y se convierten en pasas"
+    ]
+   ],
+   "e": [
+    "L'invaiatura segna l'inizio della maturazione: gli acini cambiano colore.",
+    "La véraison marque le début de la maturation : les baies changent de couleur.",
+    "Véraison marks the start of ripening, when grapes change colour.",
+    "El envero marca el inicio de la maduración: las uvas cambian de color."
+   ],
+   "d": [
+    "A metà estate gli acini sono abbastanza grandi perché la vite avvii la maturazione. L'invaiatura è il momento in cui perdono il verde: le uve bianche diventano dorate, quelle nere virano al rosso e poi al viola. L'impollinazione avviene molto prima, la caduta delle foglie in autunno e l'appassimento solo in caso di raccolta molto tardiva.",
+    "Au milieu de l'été, les baies sont assez grosses pour que la vigne lance la maturation. La véraison est le moment où elles perdent leur vert : les raisins blancs deviennent dorés, les noirs passent au rouge puis au violet. La pollinisation a lieu bien avant, la chute des feuilles en automne et le passerillage seulement en cas de récolte très tardive.",
+    "By mid-summer the grapes are big enough for the vine to start ripening them. Véraison is when they lose their green colour: white grapes turn golden, black grapes go red and then purple. Pollination happens much earlier, leaf fall comes in autumn, and shrivelling only occurs if picking is delayed a long time.",
+    "A mediados del verano, las uvas son lo bastante grandes para que la vid inicie la maduración. El envero es el momento en que pierden el verde: las blancas se vuelven doradas y las tintas pasan al rojo y luego al morado. La polinización ocurre mucho antes, la caída de las hojas en otoño y la pasificación solo si se retrasa mucho la vendimia."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Di che colore diventano le uve nere durante l'invaiatura?",
+    "Quelle couleur prennent les raisins noirs pendant la véraison ?",
+    "What colour do black grapes turn during véraison?",
+    "¿De qué color se vuelven las uvas tintas durante el envero?"
+   ],
+   "o": [
+    [
+     "Rosso, poi viola",
+     "Rouge, puis violet",
+     "Red, then purple",
+     "Rojo y luego morado"
+    ],
+    [
+     "Dorato, poi rosso",
+     "Doré, puis rouge",
+     "Golden, then red",
+     "Dorado y luego rojo"
+    ],
+    [
+     "Viola, poi rosso",
+     "Violet, puis rouge",
+     "Purple, then red",
+     "Morado y luego rojo"
+    ],
+    [
+     "Giallo, poi marrone",
+     "Jaune, puis brun",
+     "Yellow, then brown",
+     "Amarillo y luego marrón"
+    ]
+   ],
+   "e": [
+    "All'invaiatura le uve nere passano dal verde al rosso e poi al viola.",
+    "À la véraison, les raisins noirs passent du vert au rouge puis au violet.",
+    "At véraison black grapes go from green to red and then purple.",
+    "En el envero las uvas tintas pasan del verde al rojo y luego al morado."
+   ],
+   "d": [
+    "L'invaiatura è il cambio di colore che apre la maturazione. Le uve bianche passano dal verde al dorato, mentre quelle nere prima diventano rosse e poi viola. Il colore si concentra nella buccia, che è proprio la parte da cui un vino rosso ricava la sua tinta durante la vinificazione.",
+    "La véraison est le changement de couleur qui ouvre la maturation. Les raisins blancs passent du vert au doré, tandis que les noirs deviennent d'abord rouges puis violets. La couleur se concentre dans la peau, la partie dont le vin rouge tire justement sa teinte pendant la vinification.",
+    "Véraison is the colour change that opens the ripening period. White grapes go from green to golden, while black grapes first turn red and then purple. The colour sits in the skin, which is exactly where a red wine gets its hue during winemaking.",
+    "El envero es el cambio de color que abre la maduración. Las uvas blancas pasan del verde al dorado, mientras que las tintas se vuelven primero rojas y luego moradas. El color se concentra en el hollejo, precisamente la parte de la que el vino tinto obtiene su tono durante la elaboración."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Come cambiano acidità e zucchero durante la maturazione?",
+    "Comment évoluent l'acidité et le sucre pendant la maturation ?",
+    "How do acidity and sugar change during ripening?",
+    "¿Cómo cambian la acidez y el azúcar durante la maduración?"
+   ],
+   "o": [
+    [
+     "L'acidità scende e lo zucchero sale",
+     "L'acidité baisse et le sucre augmente",
+     "Acidity falls and sugar rises",
+     "La acidez baja y el azúcar sube"
+    ],
+    [
+     "L'acidità sale e lo zucchero scende",
+     "L'acidité augmente et le sucre baisse",
+     "Acidity rises and sugar falls",
+     "La acidez sube y el azúcar baja"
+    ],
+    [
+     "Salgono entrambi",
+     "Les deux augmentent",
+     "Both rise",
+     "Suben los dos"
+    ],
+    [
+     "Scendono entrambi",
+     "Les deux baissent",
+     "Both fall",
+     "Bajan los dos"
+    ]
+   ],
+   "e": [
+    "Maturando, l'uva perde acidità e accumula zucchero.",
+    "En mûrissant, le raisin perd de l'acidité et accumule du sucre.",
+    "As grapes ripen they lose acidity and build up sugar.",
+    "Al madurar, la uva pierde acidez y acumula azúcar."
+   ],
+   "d": [
+    "L'uva acerba è molto acida e quasi priva di zucchero. Con la maturazione gli acini si gonfiano d'acqua, l'acidità diminuisce e lo zucchero aumenta, mentre le note erbacee lasciano spazio agli aromi tipici della varietà. Solo con la surmaturazione e l'appassimento acidi e zuccheri si concentrano insieme, perché evapora l'acqua.",
+    "Le raisin vert est très acide et presque sans sucre. Pendant la maturation, les baies se gorgent d'eau, l'acidité diminue et le sucre augmente, tandis que les notes herbacées laissent place aux arômes typiques du cépage. Ce n'est qu'avec la surmaturité et le passerillage que acides et sucres se concentrent ensemble, car l'eau s'évapore.",
+    "Unripe grapes are very acidic with hardly any sugar. As they ripen, they swell with water, acidity drops and sugar rises, while herbaceous notes give way to the variety's signature flavours. Only with extra-ripeness and shrivelling do acids and sugars become concentrated together, because water evaporates.",
+    "La uva verde es muy ácida y casi no tiene azúcar. Al madurar, las uvas se llenan de agua, la acidez disminuye y el azúcar aumenta, mientras las notas herbáceas dejan paso a los aromas típicos de la variedad. Solo con la sobremaduración y la pasificación se concentran a la vez ácidos y azúcares, porque el agua se evapora."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Un'uva nera viene raccolta con tannini ancora acerbi. Quale difetto è più probabile nel vino?",
+    "Un raisin noir est récolté avec des tanins encore verts. Quel défaut est le plus probable dans le vin ?",
+    "A black grape is picked with unripe tannins. Which fault is most likely in the wine?",
+    "Una uva tinta se vendimia con los taninos aún verdes. ¿Qué defecto es más probable en el vino?"
+   ],
+   "o": [
+    [
+     "Amarezza",
+     "Amertume",
+     "Bitterness",
+     "Amargor"
+    ],
+    [
+     "Dolcezza eccessiva",
+     "Douceur excessive",
+     "Excessive sweetness",
+     "Dulzor excesivo"
+    ],
+    [
+     "Aromi di frutta secca",
+     "Arômes de fruits secs",
+     "Dried-fruit aromas",
+     "Aromas de fruta pasa"
+    ],
+    [
+     "Colore troppo intenso",
+     "Couleur trop intense",
+     "Overly deep colour",
+     "Color demasiado intenso"
+    ]
+   ],
+   "e": [
+    "I tannini acerbi possono dare un gusto amaro al vino rosso.",
+    "Des tanins verts peuvent donner un goût amer au vin rouge.",
+    "Unripe tannins can make a red wine taste bitter.",
+    "Los taninos verdes pueden dar un sabor amargo al tinto."
+   ],
+   "d": [
+    "Durante la maturazione, oltre a zucchero e aromi, maturano anche i tannini delle bucce delle uve nere. I tannini contribuiscono alla sensazione in bocca dei rossi, ma se sono acerbi risultano amari. Chi coltiva deve quindi scegliere il momento di raccolta controllando non solo lo zucchero ma anche la maturità del tannino.",
+    "Pendant la maturation, en plus du sucre et des arômes, les tanins de la peau des raisins noirs mûrissent aussi. Les tanins participent à la sensation en bouche des rouges, mais verts, ils sont amers. Le viticulteur doit donc choisir la date de récolte en surveillant non seulement le sucre mais aussi la maturité des tanins.",
+    "During ripening, along with sugar and flavours, the tannins in black grape skins also ripen. Tannins shape the mouthfeel of red wines, but unripe tannins taste bitter. So the grower must time the harvest by checking not just the sugar level but also how ripe the tannins are.",
+    "Durante la maduración, además del azúcar y los aromas, maduran también los taninos del hollejo de las uvas tintas. Los taninos contribuyen a la sensación en boca de los tintos, pero verdes resultan amargos. Por eso quien cultiva debe elegir el momento de la vendimia controlando no solo el azúcar, sino también la madurez del tanino."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "In alcune uve bianche, come evolvono gli aromi man mano che la maturità aumenta?",
+    "Pour certains raisins blancs, comment les arômes évoluent-ils quand la maturité augmente ?",
+    "In some white grapes, how do aromas develop as ripeness increases?",
+    "En algunas uvas blancas, ¿cómo evolucionan los aromas al aumentar la madurez?"
+   ],
+   "o": [
+    [
+     "Da frutta verde a frutta a nocciolo e poi tropicale",
+     "Du fruit vert au fruit à noyau puis au fruit tropical",
+     "From green fruit to stone fruit to tropical fruit",
+     "De fruta verde a fruta de hueso y luego tropical"
+    ],
+    [
+     "Da frutta tropicale a frutta a nocciolo e poi verde",
+     "Du fruit tropical au fruit à noyau puis au fruit vert",
+     "From tropical fruit to stone fruit to green fruit",
+     "De fruta tropical a fruta de hueso y luego verde"
+    ],
+    [
+     "Da frutta fresca a frutta cotta",
+     "Du fruit frais au fruit cuit",
+     "From fresh fruit to cooked fruit",
+     "De fruta fresca a fruta cocinada"
+    ],
+    [
+     "Da frutta secca a frutta fresca",
+     "Du fruit sec au fruit frais",
+     "From dried fruit to fresh fruit",
+     "De fruta pasa a fruta fresca"
+    ]
+   ],
+   "e": [
+    "Più l'uva bianca matura, più gli aromi passano da verdi a nocciolo e tropicali.",
+    "Plus le raisin blanc mûrit, plus les arômes passent du vert au noyau puis au tropical.",
+    "The riper a white grape gets, the more its aromas move from green to stone to tropical fruit.",
+    "Cuanto más madura la uva blanca, más pasan sus aromas de verdes a hueso y tropicales."
+   ],
+   "d": [
+    "Con la maturazione le note erbacee calano e compaiono gli aromi varietali. Per alcune uve bianche il percorso tipico è frutta verde, poi frutta a nocciolo, poi frutta tropicale. Il passaggio da frutta fresca a frutta cotta descrive invece le uve nere, mentre gli aromi di frutta secca arrivano solo con la surmaturazione.",
+    "Pendant la maturation, les notes herbacées diminuent et les arômes du cépage apparaissent. Pour certains raisins blancs, le parcours typique est fruit vert, puis fruit à noyau, puis fruit tropical. Le passage du fruit frais au fruit cuit décrit plutôt les raisins noirs, et les arômes de fruits secs n'arrivent qu'avec la surmaturité.",
+    "As grapes ripen, herbaceous notes fade and varietal flavours appear. For some white grapes the typical path is green fruit, then stone fruit, then tropical fruit. The shift from fresh to cooked fruit describes black grapes instead, while dried-fruit aromas only come with extra-ripeness.",
+    "Con la maduración, las notas herbáceas disminuyen y aparecen los aromas varietales. En algunas uvas blancas el recorrido típico es fruta verde, luego fruta de hueso y después fruta tropical. El paso de fruta fresca a fruta cocinada describe, en cambio, a las uvas tintas, y los aromas de fruta pasa solo llegan con la sobremaduración."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché per lasciare l'uva sulla pianta oltre la normale vendemmia serve tempo asciutto?",
+    "Pourquoi faut-il un temps sec pour laisser le raisin sur la vigne au-delà de la vendange normale ?",
+    "Why is dry weather needed to leave grapes on the vine beyond the normal harvest?",
+    "¿Por qué hace falta tiempo seco para dejar la uva en la planta más allá de la vendimia normal?"
+   ],
+   "o": [
+    [
+     "La pioggia può favorire le malattie fungine",
+     "La pluie peut favoriser les maladies fongiques",
+     "Rain can lead to fungal diseases",
+     "La lluvia puede favorecer las enfermedades fúngicas"
+    ],
+    [
+     "La pioggia fa aumentare troppo l'acidità",
+     "La pluie fait trop augmenter l'acidité",
+     "Rain makes acidity rise too much",
+     "La lluvia hace subir demasiado la acidez"
+    ],
+    [
+     "La pioggia fa scurire le bucce",
+     "La pluie fait foncer les peaux",
+     "Rain makes the skins darker",
+     "La lluvia oscurece los hollejos"
+    ],
+    [
+     "La pioggia blocca la fotosintesi",
+     "La pluie bloque la photosynthèse",
+     "Rain stops photosynthesis",
+     "La lluvia bloquea la fotosíntesis"
+    ]
+   ],
+   "e": [
+    "L'umidità della pioggia favorisce i funghi che possono rovinare l'uva.",
+    "L'humidité de la pluie favorise les champignons qui peuvent abîmer le raisin.",
+    "Rain brings moisture that encourages fungi which can spoil the grapes.",
+    "La humedad de la lluvia favorece los hongos que pueden estropear la uva."
+   ],
+   "d": [
+    "Per la surmaturazione il tempo deve restare asciutto, perché la pioggia favorisce le malattie fungine, e abbastanza caldo perché la maturazione continui. In queste condizioni gli aromi diventano più maturi, lo zucchero aumenta e, col tempo, gli acini appassiscono concentrando zuccheri e acidi: un'uva ideale per vini dolci.",
+    "Pour la surmaturité, le temps doit rester sec, car la pluie favorise les maladies fongiques, et assez chaud pour que la maturation continue. Dans ces conditions, les arômes deviennent plus mûrs, le sucre augmente et, avec le temps, les baies se flétrissent en concentrant sucres et acides : un raisin idéal pour les vins doux.",
+    "For extra-ripening the weather must stay dry, because rain encourages fungal diseases, and warm enough for ripening to carry on. Under these conditions aromas become riper, sugar rises and, over time, the grapes shrivel, concentrating sugars and acids: ideal fruit for sweet wines.",
+    "Para la sobremaduración el tiempo debe seguir seco, porque la lluvia favorece las enfermedades fúngicas, y lo bastante cálido para que la maduración continúe. Así, los aromas se vuelven más maduros, el azúcar aumenta y, con el tiempo, las uvas se pasifican concentrando azúcares y ácidos: una uva ideal para vinos dulces."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Un'uva lasciata a lungo sulla pianta appassisce. Quali aromi tende a sviluppare?",
+    "Un raisin laissé longtemps sur la vigne se flétrit. Quels arômes tend-il à développer ?",
+    "A grape left on the vine for a long time shrivels. Which aromas does it tend to develop?",
+    "Una uva dejada mucho tiempo en la planta se pasifica. ¿Qué aromas tiende a desarrollar?"
+   ],
+   "o": [
+    [
+     "Frutta secca",
+     "Fruits secs",
+     "Dried fruit",
+     "Fruta pasa"
+    ],
+    [
+     "Erbacei",
+     "Herbacés",
+     "Herbaceous",
+     "Herbáceos"
+    ],
+    [
+     "Frutta verde",
+     "Fruits verts",
+     "Green fruit",
+     "Fruta verde"
+    ],
+    [
+     "Floreali freschi",
+     "Floraux frais",
+     "Fresh floral",
+     "Florales frescos"
+    ]
+   ],
+   "e": [
+    "Con l'appassimento l'acqua evapora e compaiono aromi di frutta secca.",
+    "Avec le passerillage, l'eau s'évapore et des arômes de fruits secs apparaissent.",
+    "As the grapes shrivel, water evaporates and dried-fruit aromas appear.",
+    "Al pasificarse, el agua se evapora y aparecen aromas de fruta pasa."
+   ],
+   "d": [
+    "Nelle prime fasi della surmaturazione gli aromi diventano molto maturi e lo zucchero aumenta. Se l'uva resta ancora sulla pianta, l'acqua evapora e gli acini si trasformano quasi in uvetta: acidi e zuccheri si concentrano e nascono aromi di frutta secca. Le note erbacee e di frutta verde, al contrario, sono tipiche dell'uva acerba.",
+    "Au début de la surmaturité, les arômes deviennent très mûrs et le sucre augmente. Si le raisin reste encore sur la vigne, l'eau s'évapore et les baies deviennent presque des raisins secs : acides et sucres se concentrent et des arômes de fruits secs apparaissent. Les notes herbacées et de fruits verts sont au contraire typiques du raisin vert.",
+    "In the early stages of extra-ripeness, aromas become very ripe and sugar rises. If the grapes stay on the vine longer, water evaporates and they turn almost into raisins: acids and sugars concentrate and dried-fruit aromas develop. Herbaceous and green-fruit notes, by contrast, are typical of unripe grapes.",
+    "En las primeras fases de la sobremaduración, los aromas se vuelven muy maduros y el azúcar aumenta. Si la uva sigue en la planta, el agua se evapora y las uvas casi se convierten en pasas: ácidos y azúcares se concentran y aparecen aromas de fruta pasa. Las notas herbáceas y de fruta verde, en cambio, son típicas de la uva verde."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "p1",
+   "f": [
+    "Buccia",
+    "Peau",
+    "Skin",
+    "Hollejo"
+   ],
+   "b": [
+    "Aromi, colore e tannini; colore e tannini molto più alti nelle uve nere.",
+    "Arômes, couleur et tanins ; couleur et tanins bien plus élevés dans les raisins noirs.",
+    "Flavours, colour and tannin; colour and tannin much higher in black grapes.",
+    "Aromas, color y taninos; color y taninos mucho más altos en las uvas tintas."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Polpa",
+    "Pulpe",
+    "Pulp",
+    "Pulpa"
+   ],
+   "b": [
+    "Soprattutto acqua e zucchero, più acidi e aromi; quasi sempre chiara.",
+    "Surtout eau et sucre, plus acides et arômes ; presque toujours pâle.",
+    "Mostly water and sugar, plus acids and flavours; almost always pale.",
+    "Sobre todo agua y azúcar, más ácidos y aromas; casi siempre pálida."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Fotosintesi",
+    "Photosynthèse",
+    "Photosynthesis",
+    "Fotosíntesis"
+   ],
+   "b": [
+    "La luce permette di unire CO2 (foglie) e acqua (radici) per produrre zuccheri.",
+    "La lumière permet d'unir le CO2 (feuilles) et l'eau (racines) pour produire des sucres.",
+    "Sunlight lets the vine combine CO2 (leaves) and water (roots) to make sugars.",
+    "La luz permite combinar CO2 (hojas) y agua (raíces) para producir azúcares."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Allegagione",
+    "Nouaison",
+    "Fruit set",
+    "Cuajado"
+   ],
+   "b": [
+    "Il fiore impollinato forma i semi e si gonfia: nasce un acino piccolo, duro e verde.",
+    "La fleur pollinisée forme ses pépins et grossit : naît une baie petite, dure et verte.",
+    "The pollinated flower grows seeds and swells into a small, hard, green grape.",
+    "La flor polinizada forma pepitas y se hincha: nace una uva pequeña, dura y verde."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Invaiatura (véraison)",
+    "Véraison",
+    "Véraison",
+    "Envero (véraison)"
+   ],
+   "b": [
+    "A metà estate gli acini perdono il verde: bianche dorate, nere rosse poi viola. Inizia la maturazione.",
+    "Au milieu de l'été, les baies perdent le vert : blancs dorés, noirs rouges puis violets. La maturation commence.",
+    "Mid-summer: grapes lose their green; whites turn golden, blacks red then purple. Ripening begins.",
+    "A mediados del verano las uvas pierden el verde: blancas doradas, tintas rojas y luego moradas. Empieza la maduración."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Surmaturazione",
+    "Surmaturité",
+    "Extra-ripeness",
+    "Sobremaduración"
+   ],
+   "b": [
+    "Uva lasciata oltre la normale raccolta: più zucchero, aromi maturi, poi appassimento con aromi di frutta secca.",
+    "Raisin laissé au-delà de la récolte normale : plus de sucre, arômes mûrs, puis passerillage aux arômes de fruits secs.",
+    "Grapes left past normal harvest: more sugar, riper aromas, then shrivelling with dried-fruit notes.",
+    "Uva dejada más allá de la vendimia normal: más azúcar, aromas maduros y luego pasificación con notas de fruta pasa."
+   ]
+  }
+ ]
+}
