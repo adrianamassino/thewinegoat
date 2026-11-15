@@ -1,0 +1,250 @@
+{
+"en": {
+"sections": [
+{"h2": "Study notes: white winemaking for WSET Level 3"},
+{"p": "WSET Level 3 white winemaking questions revolve around one decision: does the winemaker want to protect fresh, primary fruit, or build texture and complexity? Almost every step, from how the grapes are pressed to whether malolactic conversion is allowed, follows from that choice. These notes walk through the process in order, then cover sweet white wines and the four main style families, so you can explain each technique, its effect and the style it produces."},
+{"h2": "From vineyard to press: protecting the juice"},
+{"h3": "Harvest and reception"},
+{"p": "White grapes are vulnerable to oxidation and loss of aroma once the skins break, so many producers pick at night or early in the morning and bring the fruit to the winery quickly and cool. For aromatic varieties the winemaker may use sulfur dioxide and inert gases such as carbon dioxide or nitrogen to keep oxygen away from the juice. This protective, or reductive, handling keeps fresh citrus, green fruit and floral notes."},
+{"h3": "Crushing, skin contact and pressing"},
+{"p": "Most white grapes are crushed and pressed soon after arrival because the skins contribute little that is wanted and extended contact can extract bitter phenolics. Whole-bunch pressing skips crushing: the stems create channels for the juice, the pressing is gentle and the result is a purer, lower-phenolic juice, widely used for premium whites and sparkling base wines. Pneumatic presses inflate a membrane slowly and are favoured because they are gentle and can work in an inert atmosphere. The first juice to run, the free-run juice, is the finest; later press fractions are richer in phenolics and may be kept apart."},
+{"tip": "Exam technique: if a question asks why a winemaker uses short skin contact for a white wine, the answer is to increase flavour intensity and texture in aromatic varieties, usually for a few hours at a cool temperature so that fermentation does not start. Do not say it is for colour or tannin."},
+{"h3": "Juice clarification"},
+{"p": "Before fermentation the juice is usually clarified to remove solids. The simplest method is settling: the juice is chilled and left for the solids to fall to the bottom, then the clear juice is racked off. Centrifugation and flotation are faster options used by large wineries. Very clear juice gives clean, fruity wines; leaving some solids can add complexity and help a natural fermentation, at a higher risk of off-flavours."},
+{"h2": "Fermentation choices for white wines"},
+{"p": "White wine fermentations usually run between 12 and 22 °C. Cool temperatures preserve delicate primary aromas, while the warmer end of the range gives fuller, more complex wines with less overt fruit. The fermentation vessel is the other big decision."},
+{"table": {"head": ["Vessel", "Effect on the wine", "Typical examples"], "rows": [
+["Stainless steel", "Inert, easy to cool precisely; keeps primary fruit pure", "Riesling, Sauvignon Blanc, Pinot Grigio, many inexpensive whites"],
+["Oak barrel", "Some oxygen, integrates oak flavours, adds texture; harder to cool", "Premium Chardonnay, white Bordeaux"],
+["Concrete or clay", "Mostly neutral flavour; stable temperature, some oxygen exchange if unlined", "Producers seeking texture without oak flavour"]
+]}},
+{"p": "Barrel fermentation is often preferred to only maturing a wine in oak, because oak flavours integrate better when the wine is fermented in the barrel. Small barrels in a cool cellar lose heat easily, which is why barrel fermentations can run warmer without overheating. Winemakers may use selected cultured yeasts for reliability and aroma, or ambient yeasts for complexity, accepting slower and less predictable fermentations."},
+{"h2": "After fermentation: malolactic, lees and oak"},
+{"h3": "Malolactic conversion: yes or no?"},
+{"p": "Malolactic conversion (MLF) turns sharp malic acid into softer lactic acid, raising pH slightly and producing diacetyl, which smells of butter. For crisp aromatic whites such as Riesling or Sauvignon Blanc, winemakers usually block MLF by keeping the wine cool, adding sulfur dioxide or removing bacteria by filtration, so the wine keeps its tangy acidity and pure fruit. For Chardonnay, full or partial MLF is common, giving a rounder texture and buttery notes. Winemakers can blend batches with and without MLF to fine-tune the style."},
+{"h3": "Lees contact and lees stirring"},
+{"p": "Lees are dead yeast cells that settle after fermentation. Leaving the wine on the fine lees adds a creamy texture and savoury, bready or biscuit notes, and lees also absorb oxygen, giving some protection. Stirring the lees (bâtonnage) increases these effects and spreads them through the wine. Muscadet sur lie is a classic example of lees contact in a neutral, unoaked style; barrel-matured Chardonnay often combines lees stirring with oak."},
+{"h3": "Oak maturation"},
+{"p": "New oak gives vanilla, toast, smoke and spice; older barrels give little flavour but allow slow oxygen exchange that softens and adds complexity. Barrel size, toast level and the proportion of new oak are all style levers. A high proportion of new oak suits concentrated wines; it would overwhelm a delicate one."},
+{"h3": "Blending, clarification and stabilisation"},
+{"p": "For aromatic, primary-fruit whites, blending mainly keeps the wine consistent. For Chardonnay the reverse can apply: batches with different lees, MLF and oak treatments are blended for complexity. Before bottling, whites are fined and filtered for clarity, cold stabilised to prevent tartrate crystals forming in the bottle, and treated with bentonite to remove proteins that could make the wine hazy."},
+{"h2": "Sweet white wines: how residual sugar is achieved"},
+{"p": "Sweet white wines are a frequent WSET 3 short written answer topic. There are three routes to sweetness, and examiners expect you to name the method and its effect on style."},
+{"ol": [
+"Stopping fermentation before all the sugar is used: by chilling and removing the yeast with filtration or centrifugation, by adding sulfur dioxide, or by adding spirit (fortification, covered with fortified wines). German Riesling with low alcohol and some sweetness is often made by stopping fermentation.",
+"Adding a sweetening component after fermentation, such as unfermented grape juice (Süssreserve) or rectified concentrated grape must; common for inexpensive medium-sweet wines.",
+"Concentrating sugar in the grapes before fermentation: noble rot (Botrytis cinerea in humid mornings followed by dry afternoons, as in Sauternes, Tokaji and Beerenauslese), drying on the vine (late harvest), drying after picking (passito wines such as Recioto di Soave or Vin Santo) or freezing on the vine (Eiswein and icewine)."
+]},
+{"p": "Grapes concentrated by noble rot give flavours of honey, marmalade and dried fruit with high acidity; ice wine keeps intense primary fruit and very high acidity because the grapes are not affected by rot. Fermentations of very sweet musts are slow and often stop naturally at moderate alcohol."},
+{"h2": "The four WSET 3 white wine style families"},
+{"table": {"head": ["Style", "Key winemaking", "Examples"], "rows": [
+["Aromatic, unoaked", "Protective handling, cool steel fermentation, MLF blocked", "Riesling, Sauvignon Blanc, Gewurztraminer, Albariño"],
+["Neutral, unoaked", "Clean fermentation, sometimes lees contact for texture", "Muscadet, Pinot Grigio, many inexpensive blends"],
+["Oaked and textured", "Barrel fermentation, MLF, lees stirring, new or old oak", "Premium Chardonnay, white Rioja, white Bordeaux"],
+["Sweet", "Stopped fermentation, sweetening component or concentrated grapes", "Sauternes, Tokaji Aszú, Eiswein, late harvest wines"]
+]}},
+{"h2": "How to revise white winemaking in 15 minutes a day"},
+{"ul": [
+"Write the process flow from harvest to bottling on one card, with one sentence of effect for each step.",
+"Make a two-column table: techniques that protect fruit versus techniques that add complexity.",
+"Learn the three routes to sweetness with one wine example each.",
+"Taste or picture an unoaked Sauvignon Blanc and an oaked Chardonnay and list which winemaking choices explain the differences.",
+"Do a short timed set of questions on white winemaking in the free app and rewrite any wrong answer as a cause and effect sentence."
+]},
+{"tip": "Common mistake: saying that oak barrels make a wine taste of oak in every case. Old barrels add little oak flavour; their main effect is slow oxygen exchange. Always state whether the barrels are new or old when you explain an oaked white."}
+],
+"faq": [
+["Why is malolactic conversion blocked in some white wines for WSET 3?", "Winemakers block malolactic conversion in aromatic whites such as Riesling and Sauvignon Blanc to keep their sharp malic acidity and pure primary fruit. MLF would soften the acidity and add buttery notes that mask varietal aromas. It is prevented by keeping the wine cool, adding sulfur dioxide or removing lactic bacteria by filtration. Chardonnay, by contrast, often goes through full or partial MLF."],
+["What does lees stirring do to a white wine for WSET Level 3?", "Lees stirring, or bâtonnage, puts the dead yeast cells back into suspension. This increases the creamy, rounder texture and the savoury, bready or biscuit notes that lees contact gives, and the lees also absorb some oxygen. It is common for barrel-matured Chardonnay. Lees contact without stirring is used for neutral wines such as Muscadet sur lie."],
+["How is noble rot sweet wine made for WSET 3?", "Noble rot is Botrytis cinerea developing on ripe, healthy grapes in a climate with humid, misty mornings followed by dry, sunny afternoons. The fungus pierces the skins, water evaporates and sugar, acidity and flavour concentrate. Grapes are often picked by hand in several passes. The wines, such as Sauternes and Tokaji Aszú, show honey, marmalade and dried fruit with high acidity."],
+["What is the difference between whole-bunch pressing and crushing white grapes for WSET Level 3?", "Crushing breaks the berries before pressing, releasing juice quickly but also more phenolics. Whole-bunch pressing puts intact bunches straight into the press; the stems form drainage channels, the pressing is gentle and the juice is purer and lower in phenolics. It is slower and the press holds less fruit, so it is mostly used for premium whites and sparkling base wines."],
+["Why are white wines cold stabilised before bottling?", "Cold stabilisation chills the wine to make tartaric acid crystals form in the tank, where they can be removed, instead of later in a cold bottle. The crystals are harmless but look like glass to many consumers. It is part of the stabilisation stage, alongside bentonite fining to remove proteins that could cause haze. Some premium producers skip it and accept the occasional tartrate deposit."]
+]
+},
+"it": {
+"sections": [
+{"h2": "Appunti di studio: la vinificazione in bianco per il WSET Livello 3"},
+{"p": "Le domande del WSET Livello 3 sulla vinificazione in bianco ruotano intorno a una sola decisione: chi produce vuole proteggere il frutto fresco e primario o costruire struttura e complessità? Quasi ogni passaggio, dalla pressatura alla scelta di fare o no la malolattica, discende da lì. Questi appunti seguono il processo in ordine, poi trattano i vini bianchi dolci e le quattro grandi famiglie di stile, così potrai spiegare ogni tecnica, il suo effetto e lo stile che ne risulta."},
+{"h2": "Dalla vigna alla pressa: proteggere il mosto"},
+{"h3": "Vendemmia e arrivo in cantina"},
+{"p": "Le uve bianche sono vulnerabili all'ossidazione e alla perdita di aromi appena la buccia si rompe, perciò molti produttori vendemmiano di notte o all'alba e portano l'uva in cantina in fretta e fresca. Per le varietà aromatiche si usano anidride solforosa e gas inerti, come anidride carbonica o azoto, per tenere l'ossigeno lontano dal mosto. Questa gestione protettiva, detta anche riduttiva, conserva note fresche di agrumi, frutta verde e fiori."},
+{"h3": "Pigiatura, macerazione pellicolare e pressatura"},
+{"p": "La maggior parte delle uve bianche viene pigiata e pressata subito, perché le bucce danno poco di utile e un contatto prolungato può estrarre fenoli amari. La pressatura a grappolo intero salta la pigiatura: i raspi creano canali di drenaggio, la pressione è delicata e il mosto è più puro e povero di fenoli; è molto usata per i bianchi di pregio e le basi spumante. Le presse pneumatiche gonfiano lentamente una membrana e sono preferite perché delicate e utilizzabili in atmosfera inerte. Il mosto fiore, il primo a uscire, è il più fine; le frazioni di torchiatura successive sono più ricche di fenoli e possono essere tenute separate."},
+{"tip": "Tecnica d'esame: se ti chiedono perché si fa una breve macerazione pellicolare su un bianco, la risposta è aumentare intensità aromatica e struttura nelle varietà aromatiche, di solito per qualche ora a bassa temperatura perché la fermentazione non parta. Non scrivere che serve per il colore o i tannini."},
+{"h3": "Chiarifica del mosto"},
+{"p": "Prima della fermentazione il mosto viene di solito chiarificato per eliminare le parti solide. Il metodo più semplice è la decantazione statica: si raffredda il mosto, si lasciano depositare i solidi e si travasa la parte limpida. Centrifugazione e flottazione sono alternative più rapide usate dalle grandi cantine. Un mosto molto limpido dà vini puliti e fruttati; lasciare qualche solido può aggiungere complessità e aiutare una fermentazione spontanea, con più rischio di difetti."},
+{"h2": "Le scelte di fermentazione per i bianchi"},
+{"p": "La fermentazione dei bianchi si svolge di solito tra 12 e 22 °C. Le temperature basse preservano gli aromi primari delicati, mentre la parte alta dell'intervallo dà vini più pieni e complessi, con frutto meno evidente. L'altra grande decisione è il contenitore."},
+{"table": {"head": ["Contenitore", "Effetto sul vino", "Esempi tipici"], "rows": [
+["Acciaio inox", "Inerte, facile da raffreddare con precisione; frutto primario puro", "Riesling, Sauvignon Blanc, Pinot Grigio, molti bianchi economici"],
+["Barrique e botti di rovere", "Un po' di ossigeno, aromi di legno integrati, più struttura; difficili da raffreddare", "Chardonnay di pregio, Bordeaux bianco"],
+["Cemento o terracotta", "Aroma quasi neutro; temperatura stabile, scambio d'ossigeno se non rivestiti", "Chi cerca struttura senza sapore di legno"]
+]}},
+{"p": "Spesso si preferisce fermentare in barrique piuttosto che solo affinare in legno, perché gli aromi del rovere si integrano meglio. Le botti piccole in una cantina fresca disperdono bene il calore, per questo le fermentazioni in barrique possono svolgersi a temperature più alte senza surriscaldarsi. Si possono usare lieviti selezionati, per sicurezza e aromi, o lieviti indigeni, per complessità, accettando fermentazioni più lente e meno prevedibili."},
+{"h2": "Dopo la fermentazione: malolattica, fecce e legno"},
+{"h3": "Fermentazione malolattica: sì o no?"},
+{"p": "La fermentazione malolattica trasforma l'acido malico, pungente, in acido lattico, più morbido, alzando leggermente il pH e producendo diacetile, che sa di burro. Per i bianchi aromatici e freschi come Riesling o Sauvignon Blanc di solito la si blocca tenendo il vino al fresco, aggiungendo anidride solforosa o eliminando i batteri con la filtrazione, così il vino conserva acidità vivace e frutto puro. Per lo Chardonnay è comune una malolattica totale o parziale, che dà morbidezza e note burrose. Si possono assemblare lotti con e senza malolattica per calibrare lo stile."},
+{"h3": "Affinamento sulle fecce e bâtonnage"},
+{"p": "Le fecce sono i lieviti morti che si depositano dopo la fermentazione. Lasciare il vino sulle fecce fini aggiunge una consistenza cremosa e note sapide di pane o biscotto; le fecce assorbono anche ossigeno e offrono una certa protezione. Rimescolarle (bâtonnage) aumenta questi effetti e li distribuisce in tutto il vino. Il Muscadet sur lie è l'esempio classico di contatto con le fecce in uno stile neutro senza legno; lo Chardonnay affinato in barrique unisce spesso bâtonnage e rovere."},
+{"h3": "Affinamento in legno"},
+{"p": "Il rovere nuovo dà vaniglia, tostatura, fumo e spezie; le botti usate danno poco aroma ma permettono un lento scambio di ossigeno che ammorbidisce e aggiunge complessità. Dimensione della botte, grado di tostatura e quota di legno nuovo sono leve di stile. Molto rovere nuovo si addice a vini concentrati e coprirebbe un vino delicato."},
+{"h3": "Assemblaggio, chiarifica e stabilizzazione"},
+{"p": "Nei bianchi aromatici a frutto primario l'assemblaggio serve soprattutto a garantire costanza. Per lo Chardonnay può valere il contrario: si uniscono lotti con fecce, malolattica e legno diversi per ottenere complessità. Prima dell'imbottigliamento i bianchi vengono chiarificati e filtrati, stabilizzati a freddo per evitare la formazione di cristalli di tartrato in bottiglia e trattati con bentonite per eliminare le proteine che potrebbero intorbidirli."},
+{"h2": "Vini bianchi dolci: come si ottiene lo zucchero residuo"},
+{"p": "I vini bianchi dolci sono un tema frequente nelle domande a risposta breve del WSET 3. Le strade per la dolcezza sono tre, e chi corregge si aspetta il nome del metodo e il suo effetto sullo stile."},
+{"ol": [
+"Fermare la fermentazione prima che lo zucchero finisca: refrigerando ed eliminando i lieviti con filtrazione o centrifugazione, aggiungendo anidride solforosa o alcol (fortificazione, trattata con i vini fortificati). Molti Riesling tedeschi leggeri e abboccati nascono così.",
+"Aggiungere una componente dolce dopo la fermentazione, come mosto non fermentato (Süssreserve) o mosto concentrato rettificato; tipico dei vini amabili economici.",
+"Concentrare lo zucchero nell'uva prima della fermentazione: muffa nobile (Botrytis cinerea con mattine umide e pomeriggi asciutti, come a Sauternes, nel Tokaji e nei Beerenauslese), surmaturazione in pianta (vendemmia tardiva), appassimento dopo la raccolta (passiti come il Recioto di Soave o il Vin Santo) o congelamento in pianta (Eiswein e icewine)."
+]},
+{"p": "Le uve concentrate dalla muffa nobile danno miele, marmellata d'arancia e frutta secca con acidità alta; l'icewine conserva un frutto primario intenso e un'acidità altissima perché l'uva non è attaccata dalla muffa. Le fermentazioni dei mosti molto dolci sono lente e spesso si fermano da sole a gradazioni moderate."},
+{"h2": "Le quattro famiglie di stile dei bianchi per il WSET 3"},
+{"table": {"head": ["Stile", "Vinificazione chiave", "Esempi"], "rows": [
+["Aromatico, senza legno", "Gestione protettiva, fermentazione fredda in acciaio, malolattica bloccata", "Riesling, Sauvignon Blanc, Gewürztraminer, Albariño"],
+["Neutro, senza legno", "Fermentazione pulita, a volte sulle fecce per struttura", "Muscadet, Pinot Grigio, molti blend economici"],
+["Con legno e strutturato", "Fermentazione in barrique, malolattica, bâtonnage, legno nuovo o usato", "Chardonnay di pregio, Rioja bianco, Bordeaux bianco"],
+["Dolce", "Fermentazione interrotta, componente dolce o uve concentrate", "Sauternes, Tokaji Aszú, Eiswein, vendemmie tardive"]
+]}},
+{"h2": "Come ripassare la vinificazione in bianco in 15 minuti al giorno"},
+{"ul": [
+"Scrivi su una scheda il flusso dalla vendemmia all'imbottigliamento, con una frase sull'effetto di ogni fase.",
+"Fai una tabella a due colonne: tecniche che proteggono il frutto e tecniche che aggiungono complessità.",
+"Impara le tre strade per la dolcezza con un vino d'esempio ciascuna.",
+"Assaggia o immagina un Sauvignon Blanc senza legno e uno Chardonnay in barrique ed elenca le scelte di cantina che spiegano le differenze.",
+"Fai una breve serie di domande a tempo nell'app gratuita e riscrivi ogni risposta sbagliata come frase causa-effetto."
+]},
+{"tip": "Errore frequente: scrivere che la botte dà sempre sapore di legno. Le botti usate aggiungono poco aroma; il loro effetto principale è il lento scambio di ossigeno. Quando spieghi un bianco affinato in legno, specifica sempre se le botti sono nuove o usate."}
+],
+"faq": [
+["Perché in alcuni bianchi si blocca la malolattica per il WSET 3?", "Nei bianchi aromatici come Riesling e Sauvignon Blanc si blocca la malolattica per conservare l'acidità malica tagliente e il frutto primario puro. La malolattica ammorbidirebbe l'acidità e aggiungerebbe note burrose che coprono gli aromi varietali. Si evita tenendo il vino al fresco, aggiungendo anidride solforosa o filtrando via i batteri lattici. Lo Chardonnay, invece, la svolge spesso in tutto o in parte."],
+["Che effetto ha il bâtonnage su un bianco per il WSET Livello 3?", "Il bâtonnage rimette in sospensione i lieviti morti. Aumenta così la consistenza cremosa e rotonda e le note sapide di pane o biscotto date dal contatto con le fecce, che assorbono anche un po' di ossigeno. È comune per lo Chardonnay affinato in barrique. Il contatto con le fecce senza rimescolamento si usa per vini neutri come il Muscadet sur lie."],
+["Come si produce un vino dolce da muffa nobile per il WSET 3?", "La muffa nobile è la Botrytis cinerea che si sviluppa su uve mature e sane in un clima con mattine umide e nebbiose seguite da pomeriggi asciutti e soleggiati. Il fungo buca la buccia, l'acqua evapora e zuccheri, acidità e aromi si concentrano. Spesso si vendemmia a mano in più passaggi. Vini come Sauternes e Tokaji Aszú mostrano miele, marmellata e frutta secca con acidità alta."],
+["Che differenza c'è tra pressatura a grappolo intero e pigiatura per il WSET Livello 3?", "La pigiatura rompe gli acini prima della pressa, libera il mosto in fretta ma anche più fenoli. La pressatura a grappolo intero mette i grappoli integri direttamente in pressa: i raspi creano canali di drenaggio, la pressione è delicata e il mosto è più puro e povero di fenoli. È più lenta e la pressa contiene meno uva, quindi si usa soprattutto per bianchi di pregio e basi spumante."],
+["Perché i vini bianchi si stabilizzano a freddo prima dell'imbottigliamento?", "La stabilizzazione a freddo raffredda il vino perché i cristalli di acido tartarico si formino in vasca, dove si possono eliminare, e non più tardi in una bottiglia fredda. I cristalli sono innocui ma a molti consumatori sembrano vetro. Fa parte della stabilizzazione insieme alla bentonite, che elimina le proteine responsabili di intorbidamenti. Alcuni produttori di pregio la evitano e accettano qualche deposito."]
+]
+},
+"fr": {
+"sections": [
+{"h2": "Fiches de révision : la vinification en blanc pour le WSET niveau 3"},
+{"p": "Les questions du WSET niveau 3 sur la vinification en blanc tournent autour d'une seule décision : veut-on protéger le fruit frais et primaire, ou construire texture et complexité ? Presque chaque étape, du pressurage au choix de faire ou non la malolactique, en découle. Ces fiches suivent le processus dans l'ordre, puis traitent des vins blancs doux et des quatre grandes familles de styles, pour que vous sachiez expliquer chaque technique, son effet et le style obtenu."},
+{"h2": "De la vigne au pressoir : protéger le moût"},
+{"h3": "Vendange et réception"},
+{"p": "Les raisins blancs craignent l'oxydation et la perte d'arômes dès que la pellicule est abîmée ; beaucoup de domaines vendangent donc la nuit ou au petit matin et acheminent le raisin vite et au frais. Pour les cépages aromatiques, on utilise le dioxyde de soufre et des gaz inertes comme le dioxyde de carbone ou l'azote pour tenir l'oxygène à l'écart du moût. Ce travail protecteur, dit aussi réducteur, préserve les notes fraîches d'agrumes, de fruits verts et de fleurs."},
+{"h3": "Foulage, macération pelliculaire et pressurage"},
+{"p": "La plupart des raisins blancs sont foulés et pressés rapidement, car les pellicules apportent peu d'éléments utiles et un contact prolongé peut extraire des composés phénoliques amers. Le pressurage en grappes entières supprime le foulage : les rafles forment des canaux de drainage, la pression est douce et le jus plus pur et moins phénolique ; il est très utilisé pour les grands blancs et les vins de base des effervescents. Les pressoirs pneumatiques gonflent lentement une membrane et sont appréciés pour leur douceur et la possibilité de travailler sous gaz inerte. Le jus de goutte, le premier à couler, est le plus fin ; les jus de presse suivants sont plus riches en phénols et peuvent être séparés."},
+{"tip": "Technique d'examen : si l'on vous demande pourquoi faire une courte macération pelliculaire sur un blanc, répondez qu'elle augmente l'intensité aromatique et la texture des cépages aromatiques, en général quelques heures à basse température pour que la fermentation ne démarre pas. N'écrivez pas qu'elle sert à la couleur ou aux tanins."},
+{"h3": "Débourbage"},
+{"p": "Avant la fermentation, le moût est en général débourbé pour éliminer les bourbes. La méthode la plus simple est le débourbage statique : on refroidit le moût, on laisse les particules se déposer, puis on soutire le jus clair. La centrifugation et la flottation sont plus rapides et utilisées par les grandes caves. Un moût très clair donne des vins nets et fruités ; garder un peu de bourbes peut apporter de la complexité et aider une fermentation spontanée, avec un risque accru de défauts."},
+{"h2": "Les choix de fermentation pour les blancs"},
+{"p": "La fermentation des blancs se déroule en général entre 12 et 22 °C. Les températures basses préservent les arômes primaires délicats, le haut de la fourchette donne des vins plus amples et complexes, au fruit moins expressif. L'autre grande décision est le contenant."},
+{"table": {"head": ["Contenant", "Effet sur le vin", "Exemples typiques"], "rows": [
+["Inox", "Inerte, facile à refroidir précisément ; fruit primaire pur", "Riesling, sauvignon blanc, pinot gris, beaucoup de blancs d'entrée de gamme"],
+["Fût de chêne", "Un peu d'oxygène, arômes boisés mieux intégrés, texture ; difficile à refroidir", "Grands chardonnays, bordeaux blancs"],
+["Béton ou terre cuite", "Arôme presque neutre ; température stable, échanges d'oxygène si non revêtu", "Recherche de texture sans goût boisé"]
+]}},
+{"p": "On préfère souvent fermenter en fût plutôt que seulement élever sous bois, car les arômes du chêne s'intègrent mieux. Les petits fûts placés dans un chai frais dissipent bien la chaleur, ce qui explique que les fermentations en barrique puissent se faire plus chaud sans s'emballer. On peut utiliser des levures sélectionnées, pour la sécurité et les arômes, ou des levures indigènes, pour la complexité, en acceptant des fermentations plus lentes et moins prévisibles."},
+{"h2": "Après la fermentation : malolactique, lies et bois"},
+{"h3": "Fermentation malolactique : oui ou non ?"},
+{"p": "La fermentation malolactique transforme l'acide malique, mordant, en acide lactique, plus souple ; elle élève un peu le pH et produit du diacétyle, à l'odeur de beurre. Pour les blancs aromatiques et vifs comme le riesling ou le sauvignon blanc, on la bloque en général en gardant le vin au froid, en ajoutant du dioxyde de soufre ou en éliminant les bactéries par filtration : le vin garde son acidité tendue et son fruit pur. Pour le chardonnay, une malolactique totale ou partielle est courante et apporte rondeur et notes beurrées. On peut assembler des lots avec et sans malolactique pour ajuster le style."},
+{"h3": "Élevage sur lies et bâtonnage"},
+{"p": "Les lies sont les levures mortes qui se déposent après la fermentation. Garder le vin sur lies fines apporte une texture crémeuse et des notes de pain ou de biscuit ; les lies consomment aussi de l'oxygène et protègent le vin. Le bâtonnage, qui remet les lies en suspension, renforce et répartit ces effets. Le muscadet sur lie est l'exemple classique d'élevage sur lies dans un style neutre sans bois ; le chardonnay élevé en fût associe souvent bâtonnage et chêne."},
+{"h3": "Élevage en fût"},
+{"p": "Le chêne neuf apporte vanille, grillé, fumé et épices ; les fûts usagés donnent peu d'arômes mais permettent une lente oxygénation qui assouplit et complexifie. La taille du fût, le niveau de chauffe et la part de bois neuf sont des leviers de style. Beaucoup de chêne neuf convient aux vins concentrés et écraserait un vin délicat."},
+{"h3": "Assemblage, clarification et stabilisation"},
+{"p": "Pour les blancs aromatiques axés sur le fruit primaire, l'assemblage sert surtout à la régularité. Pour le chardonnay, c'est souvent l'inverse : on assemble des lots aux élevages sur lies, malolactiques et boisés différents pour gagner en complexité. Avant la mise en bouteille, les blancs sont collés et filtrés, stabilisés par le froid pour éviter les cristaux de tartre en bouteille et traités à la bentonite pour retirer les protéines susceptibles de troubler le vin."},
+{"h2": "Vins blancs doux : comment obtenir du sucre résiduel"},
+{"p": "Les vins blancs doux sont un sujet fréquent des questions à réponse courte du WSET 3. Il existe trois voies vers la douceur, et la correction attend le nom de la méthode et son effet sur le style."},
+{"ol": [
+"Arrêter la fermentation avant que tout le sucre soit consommé : par le froid suivi d'une filtration ou d'une centrifugation qui retire les levures, par ajout de dioxyde de soufre, ou par ajout d'alcool (mutage, vu avec les vins mutés). Beaucoup de rieslings allemands légers et demi-doux sont élaborés ainsi.",
+"Ajouter un élément sucrant après la fermentation, comme du jus de raisin non fermenté (Süssreserve) ou du moût concentré rectifié ; fréquent pour les demi-doux bon marché.",
+"Concentrer le sucre dans le raisin avant la fermentation : pourriture noble (Botrytis cinerea avec matinées humides et après-midi secs, comme à Sauternes, à Tokaj ou pour les Beerenauslese), passerillage sur souche (vendanges tardives), séchage après cueillette (vins de paille, Recioto di Soave, Vin Santo) ou gel sur souche (Eiswein et icewine)."
+]},
+{"p": "Les raisins concentrés par la pourriture noble donnent miel, marmelade d'orange et fruits secs avec une acidité élevée ; le vin de glace garde un fruit primaire intense et une acidité très élevée car le raisin n'est pas touché par la pourriture. Les fermentations de moûts très sucrés sont lentes et s'arrêtent souvent d'elles-mêmes à un degré modéré."},
+{"h2": "Les quatre familles de styles de blancs au WSET 3"},
+{"table": {"head": ["Style", "Vinification clé", "Exemples"], "rows": [
+["Aromatique, sans bois", "Travail protecteur, fermentation froide en inox, malolactique bloquée", "Riesling, sauvignon blanc, gewurztraminer, albariño"],
+["Neutre, sans bois", "Fermentation nette, parfois élevage sur lies pour la texture", "Muscadet, pinot grigio, nombreux assemblages simples"],
+["Boisé et texturé", "Fermentation en fût, malolactique, bâtonnage, bois neuf ou usagé", "Grands chardonnays, rioja blanc, bordeaux blanc"],
+["Doux", "Fermentation arrêtée, élément sucrant ou raisins concentrés", "Sauternes, tokaji aszú, Eiswein, vendanges tardives"]
+]}},
+{"h2": "Comment réviser la vinification en blanc en 15 minutes par jour"},
+{"ul": [
+"Écrivez sur une fiche le déroulé de la vendange à la mise en bouteille, avec une phrase sur l'effet de chaque étape.",
+"Faites un tableau à deux colonnes : techniques qui protègent le fruit, techniques qui ajoutent de la complexité.",
+"Apprenez les trois voies vers la douceur avec un vin exemple pour chacune.",
+"Dégustez ou imaginez un sauvignon blanc sans bois et un chardonnay boisé, puis listez les choix de cave qui expliquent leurs différences.",
+"Faites une courte série de questions chronométrées dans l'appli gratuite et réécrivez chaque erreur sous forme de phrase cause-effet."
+]},
+{"tip": "Erreur fréquente : écrire qu'un fût donne toujours un goût boisé. Les fûts usagés apportent peu d'arômes ; leur effet principal est une lente oxygénation. Quand vous expliquez un blanc élevé sous bois, précisez toujours si les fûts sont neufs ou usagés."}
+],
+"faq": [
+["Pourquoi bloque-t-on la malolactique sur certains blancs au WSET 3 ?", "Sur les blancs aromatiques comme le riesling et le sauvignon blanc, on bloque la malolactique pour garder l'acidité malique tranchante et le fruit primaire pur. La malolactique assouplirait l'acidité et ajouterait des notes beurrées qui masquent les arômes variétaux. On l'empêche en gardant le vin au froid, en ajoutant du dioxyde de soufre ou en filtrant les bactéries lactiques. Le chardonnay, lui, la fait souvent en totalité ou en partie."],
+["Quel est l'effet du bâtonnage sur un blanc au WSET niveau 3 ?", "Le bâtonnage remet en suspension les levures mortes. Il renforce la texture crémeuse et ronde et les notes de pain ou de biscuit apportées par l'élevage sur lies, qui consomment aussi un peu d'oxygène. Il est courant pour les chardonnays élevés en fût. L'élevage sur lies sans bâtonnage s'utilise pour des vins neutres comme le muscadet sur lie."],
+["Comment élabore-t-on un vin de pourriture noble au WSET 3 ?", "La pourriture noble est le Botrytis cinerea qui se développe sur des raisins mûrs et sains dans un climat aux matinées humides et brumeuses suivies d'après-midi secs et ensoleillés. Le champignon perce la pellicule, l'eau s'évapore et sucre, acidité et arômes se concentrent. On vendange souvent à la main en plusieurs tries. Les vins, comme le sauternes ou le tokaji aszú, montrent miel, marmelade et fruits secs avec une acidité élevée."],
+["Quelle différence entre pressurage en grappes entières et foulage au WSET niveau 3 ?", "Le foulage éclate les baies avant le pressoir : le jus sort vite, mais avec plus de composés phénoliques. Le pressurage en grappes entières met les grappes intactes directement dans le pressoir ; les rafles forment des drains, la pression est douce et le jus plus pur et moins phénolique. C'est plus lent et le pressoir contient moins de raisin, d'où son usage surtout pour les grands blancs et les bases d'effervescents."],
+["Pourquoi stabilise-t-on les vins blancs par le froid avant la mise en bouteille ?", "La stabilisation tartrique par le froid refroidit le vin pour que les cristaux d'acide tartrique se forment en cuve, où on peut les retirer, et non plus tard dans une bouteille froide. Ces cristaux sont inoffensifs mais beaucoup de consommateurs les prennent pour du verre. Elle fait partie de la stabilisation, avec le collage à la bentonite qui retire les protéines responsables de troubles. Certains producteurs haut de gamme s'en passent."]
+]
+},
+"es": {
+"sections": [
+{"h2": "Apuntes de estudio: la elaboración de vinos blancos para el WSET nivel 3"},
+{"p": "Las preguntas del WSET nivel 3 sobre elaboración de vinos blancos giran en torno a una sola decisión: ¿quien elabora quiere proteger la fruta fresca y primaria o construir textura y complejidad? Casi cada paso, desde el prensado hasta la decisión de hacer o no la maloláctica, se deriva de ahí. Estos apuntes siguen el proceso en orden y después tratan los blancos dulces y las cuatro grandes familias de estilos, para que sepas explicar cada técnica, su efecto y el estilo resultante."},
+{"h2": "Del viñedo a la prensa: proteger el mosto"},
+{"h3": "Vendimia y recepción"},
+{"p": "La uva blanca es vulnerable a la oxidación y a la pérdida de aromas en cuanto se rompe el hollejo, por eso muchas bodegas vendimian de noche o al amanecer y llevan la uva a bodega rápido y fresca. En las variedades aromáticas se usan dióxido de azufre y gases inertes, como dióxido de carbono o nitrógeno, para mantener el oxígeno lejos del mosto. Esta elaboración protectora, también llamada reductiva, conserva notas frescas de cítricos, fruta verde y flores."},
+{"h3": "Estrujado, maceración pelicular y prensado"},
+{"p": "La mayoría de las uvas blancas se estrujan y prensan enseguida, porque los hollejos aportan poco de lo que se busca y un contacto largo puede extraer compuestos fenólicos amargos. El prensado de racimo entero se salta el estrujado: los raspones forman canales de drenaje, la presión es suave y el mosto resulta más puro y con menos fenoles; se usa mucho en blancos de gama alta y en vinos base de espumoso. Las prensas neumáticas inflan despacio una membrana y se prefieren por su suavidad y porque pueden trabajar en atmósfera inerte. El mosto flor o yema, el primero en salir, es el más fino; las fracciones de prensa posteriores son más ricas en fenoles y pueden separarse."},
+{"tip": "Técnica de examen: si te preguntan por qué se hace una maceración pelicular corta en un blanco, la respuesta es aumentar la intensidad aromática y la textura en variedades aromáticas, normalmente unas horas en frío para que no arranque la fermentación. No escribas que es para el color o los taninos."},
+{"h3": "Desfangado"},
+{"p": "Antes de fermentar, el mosto suele desfangarse para eliminar sólidos. El método más sencillo es el desfangado estático: se enfría el mosto, se dejan caer los sólidos y se trasiega la parte limpia. La centrifugación y la flotación son opciones más rápidas que usan las grandes bodegas. Un mosto muy limpio da vinos limpios y afrutados; dejar algo de sólidos puede aportar complejidad y ayudar a una fermentación espontánea, con más riesgo de defectos."},
+{"h2": "Las decisiones de fermentación en los blancos"},
+{"p": "La fermentación de los blancos suele hacerse entre 12 y 22 °C. Las temperaturas bajas conservan los aromas primarios delicados; la parte alta del intervalo da vinos más amplios y complejos, con una fruta menos evidente. La otra gran decisión es el recipiente."},
+{"table": {"head": ["Recipiente", "Efecto en el vino", "Ejemplos típicos"], "rows": [
+["Acero inoxidable", "Inerte, fácil de enfriar con precisión; fruta primaria pura", "Riesling, Sauvignon Blanc, Pinot Grigio, muchos blancos económicos"],
+["Barrica de roble", "Algo de oxígeno, aromas de madera integrados, textura; difícil de enfriar", "Chardonnay de gama alta, Burdeos blanco"],
+["Hormigón o tinaja de barro", "Aroma casi neutro; temperatura estable, intercambio de oxígeno si no está revestido", "Quien busca textura sin sabor a madera"]
+]}},
+{"p": "A menudo se prefiere fermentar en barrica a solo criar en madera, porque los aromas del roble se integran mejor. Las barricas pequeñas en una bodega fresca disipan bien el calor, por eso las fermentaciones en barrica pueden ir más calientes sin descontrolarse. Se pueden usar levaduras seleccionadas, por seguridad y aromas, o levaduras autóctonas, por complejidad, aceptando fermentaciones más lentas y menos previsibles."},
+{"h2": "Después de la fermentación: maloláctica, lías y madera"},
+{"h3": "Fermentación maloláctica: ¿sí o no?"},
+{"p": "La fermentación maloláctica convierte el ácido málico, punzante, en ácido láctico, más suave; sube ligeramente el pH y produce diacetilo, que huele a mantequilla. En los blancos aromáticos y frescos como Riesling o Sauvignon Blanc suele bloquearse manteniendo el vino frío, añadiendo dióxido de azufre o eliminando las bacterias por filtración, de modo que el vino conserva una acidez viva y una fruta pura. En el Chardonnay es habitual una maloláctica total o parcial, que aporta redondez y notas mantecosas. Se pueden mezclar lotes con y sin maloláctica para afinar el estilo."},
+{"h3": "Crianza sobre lías y battonage"},
+{"p": "Las lías son las levaduras muertas que se depositan tras la fermentación. Dejar el vino sobre lías finas aporta una textura cremosa y notas sabrosas de pan o galleta; además, las lías consumen oxígeno y protegen el vino. Removerlas (battonage) intensifica estos efectos y los reparte por todo el vino. El Muscadet sur lie es el ejemplo clásico de crianza sobre lías en un estilo neutro sin madera; el Chardonnay criado en barrica combina a menudo battonage y roble."},
+{"h3": "Crianza en madera"},
+{"p": "El roble nuevo aporta vainilla, tostados, ahumados y especias; las barricas usadas dan poco aroma pero permiten un intercambio lento de oxígeno que suaviza y añade complejidad. El tamaño de la barrica, el nivel de tostado y la proporción de madera nueva son palancas de estilo. Mucho roble nuevo encaja con vinos concentrados y taparía uno delicado."},
+{"h3": "Ensamblaje, clarificación y estabilización"},
+{"p": "En los blancos aromáticos de fruta primaria, el ensamblaje sirve sobre todo para mantener la regularidad. En el Chardonnay puede ser al revés: se mezclan lotes con distintas crianzas sobre lías, malolácticas y maderas para ganar complejidad. Antes del embotellado, los blancos se clarifican y filtran, se estabilizan en frío para evitar cristales de tartrato en la botella y se tratan con bentonita para retirar las proteínas que podrían enturbiarlos."},
+{"h2": "Blancos dulces: cómo se consigue el azúcar residual"},
+{"p": "Los blancos dulces son un tema frecuente en las preguntas de respuesta corta del WSET 3. Hay tres vías hacia el dulzor, y quien corrige espera el nombre del método y su efecto en el estilo."},
+{"ol": [
+"Parar la fermentación antes de que se consuma todo el azúcar: enfriando y eliminando las levaduras por filtración o centrifugación, añadiendo dióxido de azufre o añadiendo alcohol (encabezado, que se estudia con los generosos). Muchos Riesling alemanes ligeros y semidulces se elaboran así.",
+"Añadir un componente dulce tras la fermentación, como mosto sin fermentar (Süssreserve) o mosto concentrado rectificado; habitual en semidulces económicos.",
+"Concentrar el azúcar en la uva antes de fermentar: podredumbre noble (Botrytis cinerea con mañanas húmedas y tardes secas, como en Sauternes, Tokaji o los Beerenauslese), sobremaduración en la cepa (vendimia tardía), pasificación tras la vendimia (Recioto di Soave, Vin Santo o los dulces de uva pasa) o congelación en la cepa (Eiswein e icewine)."
+]},
+{"p": "La uva concentrada por la podredumbre noble da miel, mermelada de naranja y fruta seca con acidez alta; el vino de hielo conserva una fruta primaria intensa y una acidez muy alta porque la uva no está afectada por podredumbre. Las fermentaciones de mostos muy dulces son lentas y a menudo se detienen solas a una graduación moderada."},
+{"h2": "Las cuatro familias de estilos de blancos en el WSET 3"},
+{"table": {"head": ["Estilo", "Elaboración clave", "Ejemplos"], "rows": [
+["Aromático, sin madera", "Elaboración protectora, fermentación fría en acero, maloláctica bloqueada", "Riesling, Sauvignon Blanc, Gewürztraminer, Albariño"],
+["Neutro, sin madera", "Fermentación limpia, a veces crianza sobre lías para dar textura", "Muscadet, Pinot Grigio, muchos coupages económicos"],
+["Con madera y textura", "Fermentación en barrica, maloláctica, battonage, roble nuevo o usado", "Chardonnay de gama alta, Rioja blanco, Burdeos blanco"],
+["Dulce", "Fermentación detenida, componente dulce o uva concentrada", "Sauternes, Tokaji Aszú, Eiswein, vendimias tardías"]
+]}},
+{"h2": "Cómo repasar la elaboración de blancos en 15 minutos al día"},
+{"ul": [
+"Escribe en una ficha el recorrido desde la vendimia hasta el embotellado, con una frase sobre el efecto de cada paso.",
+"Haz una tabla de dos columnas: técnicas que protegen la fruta y técnicas que añaden complejidad.",
+"Aprende las tres vías hacia el dulzor con un vino de ejemplo para cada una.",
+"Cata o imagina un Sauvignon Blanc sin madera y un Chardonnay con barrica y enumera las decisiones de bodega que explican sus diferencias.",
+"Haz una serie corta de preguntas cronometradas en la app gratuita y reescribe cada fallo como frase de causa y efecto."
+]},
+{"tip": "Error frecuente: escribir que la barrica siempre da sabor a madera. Las barricas usadas aportan poco aroma; su efecto principal es el intercambio lento de oxígeno. Cuando expliques un blanco criado en madera, indica siempre si las barricas son nuevas o usadas."}
+],
+"faq": [
+["¿Por qué se bloquea la maloláctica en algunos blancos en el WSET 3?", "En blancos aromáticos como Riesling y Sauvignon Blanc se bloquea la maloláctica para conservar la acidez málica cortante y la fruta primaria pura. La maloláctica suavizaría la acidez y añadiría notas mantecosas que tapan los aromas varietales. Se evita manteniendo el vino frío, añadiendo dióxido de azufre o filtrando las bacterias lácticas. El Chardonnay, en cambio, suele hacerla total o parcialmente."],
+["¿Qué efecto tiene el battonage en un blanco para el WSET nivel 3?", "El battonage vuelve a poner en suspensión las levaduras muertas. Así aumenta la textura cremosa y redonda y las notas de pan o galleta que da la crianza sobre lías, que además consumen algo de oxígeno. Es habitual en Chardonnay criado en barrica. La crianza sobre lías sin removido se usa en vinos neutros como el Muscadet sur lie."],
+["¿Cómo se elabora un vino dulce de podredumbre noble en el WSET 3?", "La podredumbre noble es Botrytis cinerea desarrollándose sobre uva madura y sana en un clima de mañanas húmedas y con niebla seguidas de tardes secas y soleadas. El hongo perfora el hollejo, el agua se evapora y se concentran azúcar, acidez y aromas. Se suele vendimiar a mano en varias pasadas. Vinos como Sauternes y Tokaji Aszú muestran miel, mermelada y fruta seca con acidez alta."],
+["¿Qué diferencia hay entre prensado de racimo entero y estrujado en el WSET nivel 3?", "El estrujado rompe las bayas antes de la prensa: el mosto sale deprisa, pero con más fenoles. El prensado de racimo entero lleva los racimos intactos directamente a la prensa; los raspones forman canales de drenaje, la presión es suave y el mosto es más puro y con menos fenoles. Es más lento y cabe menos uva en la prensa, por eso se usa sobre todo en blancos de gama alta y bases de espumoso."],
+["¿Por qué se estabilizan en frío los vinos blancos antes de embotellar?", "La estabilización tartárica en frío enfría el vino para que los cristales de ácido tartárico se formen en el depósito, donde se pueden retirar, y no después en una botella fría. Los cristales son inofensivos, pero mucha gente los confunde con cristal. Forma parte de la estabilización junto con la bentonita, que elimina las proteínas responsables de turbidez. Algunas bodegas de gama alta prescinden de ella."]
+]
+}
+}

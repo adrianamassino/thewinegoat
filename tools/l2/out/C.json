@@ -1,0 +1,281 @@
+{
+ "lessons": [
+  {
+   "c": "p5",
+   "t": [
+    "La fermentazione alcolica",
+    "La fermentation alcoolique",
+    "Alcoholic fermentation",
+    "La fermentación alcohólica"
+   ],
+   "p": [
+    [
+     "Il passaggio dal succo d'uva al vino non si riduce alla comparsa dell'alcol, ma l'alcol è comunque il cuore della trasformazione. Tutti i vini, senza eccezione, passano attraverso la fermentazione alcolica. È l'unico processo davvero comune a ogni stile: tutte le altre tappe sono scelte che il produttore può fare oppure no, ed è proprio la combinazione di queste scelte a creare la grande varietà di vini che troviamo in commercio.",
+     "Le passage du jus de raisin au vin ne se résume pas à l'apparition de l'alcool, mais l'alcool reste le cœur de la transformation. Tous les vins, sans exception, passent par la fermentation alcoolique. C'est la seule étape vraiment commune à tous les styles : les autres sont des options que le vinificateur choisit ou non, et c'est la combinaison de ces choix qui donne l'immense diversité de vins proposés aux consommateurs.",
+     "Turning grape juice into wine is about more than the appearance of alcohol, but alcohol is still at the heart of the change. Every wine, without exception, goes through alcoholic fermentation. It is the only step shared by all styles: every other step is an option the winemaker may or may not choose, and it is the mix of those choices that creates the huge range of wine styles on the market.",
+     "Pasar del mosto al vino es algo más que la aparición del alcohol, pero el alcohol sigue siendo el centro de la transformación. Todos los vinos, sin excepción, pasan por la fermentación alcohólica. Es el único paso común a todos los estilos: el resto son opciones que el enólogo puede elegir o no, y es la combinación de esas decisiones la que crea la enorme variedad de estilos que encontramos en el mercado."
+    ],
+    [
+     "La fermentazione è opera dei lieviti, microrganismi che si nutrono degli zuccheri presenti nel succo. Mentre li consumano producono tre cose: alcol, anidride carbonica (CO2) e calore. La CO2 di solito viene lasciata disperdersi nell'aria, mentre il calore va tenuto sotto controllo. In condizioni normali i lieviti continuano a lavorare finché trovano zucchero; quando lo hanno esaurito la fermentazione si ferma da sola e il risultato è un vino secco.",
+     "La fermentation est l'œuvre des levures, des micro-organismes qui se nourrissent des sucres du jus. En les consommant, elles produisent trois choses : de l'alcool, du dioxyde de carbone (CO2) et de la chaleur. Le CO2 est en général libéré dans l'atmosphère, tandis que la chaleur doit être surveillée. Normalement, les levures travaillent tant qu'il reste du sucre ; une fois tout le sucre consommé, la fermentation s'arrête d'elle-même et l'on obtient un vin sec.",
+     "Fermentation is carried out by yeast, microorganisms that feed on the sugars in the juice. As they consume the sugar they produce three things: alcohol, carbon dioxide (CO2) and heat. The CO2 is usually allowed to escape into the air, while the heat has to be managed. Normally the yeast keep working as long as there is sugar; once it has all been used up, fermentation stops by itself and the result is a dry wine.",
+     "La fermentación la llevan a cabo las levaduras, microorganismos que se alimentan de los azúcares del mosto. Al consumirlos producen tres cosas: alcohol, dióxido de carbono (CO2) y calor. El CO2 normalmente se deja escapar a la atmósfera, mientras que el calor hay que controlarlo. En condiciones normales, las levaduras siguen trabajando mientras haya azúcar; cuando se acaba, la fermentación se detiene sola y el resultado es un vino seco."
+    ],
+    [
+     "Più zucchero c'è nell'uva, più alcol potrà formarsi: per questo il grado alcolico di un vino dipende direttamente dalla maturità dei grappoli. La maggior parte dei vini secchi si colloca tra circa 11,5% e 16% vol. Un vino molto alcolico indica quindi uve ricche di zucchero, tipiche di climi caldi o di annate calde. I vini con zucchero residuo, cioè non del tutto secchi, richiedono tecniche specifiche che vedremo più avanti in questo capitolo.",
+     "Plus le raisin contient de sucre, plus il pourra se former d'alcool : le degré d'un vin dépend donc directement de la maturité des raisins. La plupart des vins secs se situent entre environ 11,5 % et 16 % vol. Un vin très alcoolisé signale des raisins riches en sucre, typiques des climats ou des millésimes chauds. Les vins qui gardent du sucre résiduel demandent des techniques particulières, présentées plus loin dans ce chapitre.",
+     "The more sugar there is in the grapes, the more alcohol can be produced, so a wine's alcohol level depends directly on how ripe the grapes were. Most dry wines fall between about 11.5% and 16% abv. A high-alcohol wine therefore points to sugar-rich grapes, typical of warm climates or warm vintages. Wines that keep some sugar, rather than being fully dry, need specific techniques, covered later in this chapter.",
+     "Cuanto más azúcar tenga la uva, más alcohol podrá formarse, así que la graduación de un vino depende directamente de la madurez de la uva. La mayoría de los vinos secos se sitúan entre un 11,5 % y un 16 % vol. aproximadamente. Un vino muy alcohólico indica uvas ricas en azúcar, propias de climas o añadas cálidas. Los vinos que conservan azúcar, en lugar de ser totalmente secos, requieren técnicas específicas que veremos más adelante en este capítulo."
+    ]
+   ],
+   "keys": [
+    [
+     "Lieviti + zucchero → alcol + CO2 + calore",
+     "Levures + sucre → alcool + CO2 + chaleur",
+     "Yeast + sugar → alcohol + CO2 + heat",
+     "Levaduras + azúcar → alcohol + CO2 + calor"
+    ],
+    [
+     "Tutto lo zucchero fermentato = vino secco",
+     "Tout le sucre fermenté = vin sec",
+     "All sugar fermented = dry wine",
+     "Todo el azúcar fermentado = vino seco"
+    ],
+    [
+     "Più zucchero nell'uva → più alcol; vini secchi circa 11,5–16% vol",
+     "Plus de sucre dans le raisin → plus d'alcool ; vins secs env. 11,5–16 % vol",
+     "More sugar in the grapes → more alcohol; dry wines about 11.5–16% abv",
+     "Más azúcar en la uva → más alcohol; vinos secos aprox. 11,5–16 % vol."
+    ],
+    [
+     "È l'unico passaggio comune a tutti i vini",
+     "C'est la seule étape commune à tous les vins",
+     "It is the one step common to all wines",
+     "Es el único paso común a todos los vinos"
+    ]
+   ]
+  },
+  {
+   "c": "p5",
+   "t": [
+    "Le tappe di base: dalla pigiatura al confezionamento",
+    "Les étapes de base : du foulage au conditionnement",
+    "The basic steps: from crushing to packaging",
+    "Los pasos básicos: del estrujado al envasado"
+   ],
+   "p": [
+    [
+     "La pigiatura consiste nel rompere la buccia degli acini per far uscire una parte del succo. La pressatura va oltre: l'uva pigiata viene spremuta in una macchina, la pressa, per estrarre quanto più liquido possibile. Un dettaglio importante per l'esame: la pressatura può avvenire prima della fermentazione, come nei bianchi, oppure dopo, come nei rossi. L'ordine delle tappe cambia infatti a seconda del colore del vino.",
+     "Le foulage consiste à faire éclater la peau des baies pour libérer une partie du jus. Le pressurage va plus loin : les raisins foulés sont pressés dans une machine, le pressoir, afin d'en extraire le maximum de liquide. Point important pour l'examen : le pressurage peut avoir lieu avant la fermentation, comme pour les blancs, ou après, comme pour les rouges. L'ordre des étapes dépend donc de la couleur du vin.",
+     "Crushing means splitting the grape skins to release some of the juice. Pressing goes further: the crushed grapes are squeezed in a machine called a press to extract as much liquid as possible. An important exam point: pressing can take place before fermentation, as for white wines, or after it, as for red wines. The order of the steps therefore depends on the colour of the wine.",
+     "El estrujado consiste en romper el hollejo de las uvas para liberar parte del mosto. El prensado va más allá: la uva estrujada se exprime en una máquina, la prensa, para extraer todo el líquido posible. Un detalle importante para el examen: el prensado puede hacerse antes de la fermentación, como en los blancos, o después, como en los tintos. El orden de los pasos depende, por tanto, del color del vino."
+    ],
+    [
+     "Finita la fermentazione, il vino nuovo viene conservato per un certo tempo prima dell'imbottigliamento. Per la maggior parte dei vini si tratta di meno di un anno, a volte solo di qualche mese, e in un tempo così breve gli aromi cambiano poco o nulla. Alcuni vini invece restano in cantina molto più a lungo: in questo caso si parla di maturazione. Gli aromi evolvono da primari a terziari e i tannini possono integrarsi meglio. La maturazione avviene di solito in contenitori di rovere, che possono aggiungere anche aromi secondari propri.",
+     "Une fois la fermentation terminée, le vin nouveau est conservé un certain temps avant la mise en bouteille. Pour la plupart des vins, cela dure moins d'un an, parfois quelques mois seulement, et sur une période aussi courte les arômes changent peu, voire pas du tout. Certains vins restent bien plus longtemps au chai : on parle alors d'élevage ou de maturation. Les arômes évoluent du primaire au tertiaire et les tanins peuvent mieux s'intégrer. Cette maturation se fait en général en contenants de chêne, qui peuvent aussi apporter leurs propres arômes secondaires.",
+     "Once fermentation is over, the new wine is stored for a while before bottling. For most wines this is less than a year, sometimes just a few months, and over such a short time the flavours change very little, if at all. Some wines, however, are kept much longer: this is called maturation. The flavours develop from primary to tertiary and tannins can become more integrated. Maturation usually happens in oak vessels, which may also add their own secondary flavours.",
+     "Una vez terminada la fermentación, el vino nuevo se guarda un tiempo antes del embotellado. En la mayoría de los vinos es menos de un año, a veces solo unos meses, y en tan poco tiempo los aromas apenas cambian. Algunos vinos, en cambio, permanecen mucho más tiempo en bodega: es lo que se llama crianza o maturación. Los aromas evolucionan de primarios a terciarios y los taninos pueden integrarse mejor. La crianza suele hacerse en recipientes de roble, que pueden aportar también sus propios aromas secundarios."
+    ],
+    [
+     "Il vetro resta l'imballaggio più diffuso per il vino, ma non è l'unico: esistono anche bag-in-box, bottiglie di plastica e brick in cartone. Lungo il percorso il produttore può anche assemblare vini diversi, una scelta che approfondiremo nel capitolo sulle scelte di cantina. Ricorda che pigiatura, fermentazione, pressatura, conservazione o maturazione e confezionamento sono i mattoni con cui si costruiscono tutti gli stili, combinati in ordini diversi.",
+     "Le verre reste l'emballage le plus répandu pour le vin, mais ce n'est pas le seul : il existe aussi le bag-in-box, les bouteilles en plastique et les briques en carton. En chemin, le vinificateur peut aussi assembler différents vins, un choix développé dans le chapitre sur les choix au chai. Retenez que foulage, fermentation, pressurage, conservation ou élevage et conditionnement sont les briques de base de tous les styles, combinées dans des ordres différents.",
+     "Glass bottles are still the most popular packaging for wine, but there are other options: bag-in-box, plastic bottles and cartons. Along the way the winemaker may also blend different wines, a choice explored in the chapter on winery choices. Remember that crushing, fermentation, pressing, storage or maturation and packaging are the building blocks of every style, simply combined in different orders.",
+     "La botella de vidrio sigue siendo el envase más habitual para el vino, pero no el único: también existen el bag-in-box, las botellas de plástico y los briks de cartón. Por el camino, el enólogo puede además mezclar distintos vinos, una decisión que veremos en el capítulo sobre las decisiones en bodega. Recuerda que estrujado, fermentación, prensado, almacenamiento o crianza y envasado son las piezas con las que se construyen todos los estilos, combinadas en distinto orden."
+    ]
+   ],
+   "keys": [
+    [
+     "Pigiatura: rompere le bucce; pressatura: estrarre il liquido",
+     "Foulage : éclater les peaux ; pressurage : extraire le liquide",
+     "Crushing splits skins; pressing extracts the liquid",
+     "Estrujado: romper hollejos; prensado: extraer el líquido"
+    ],
+    [
+     "Pressatura prima (bianchi) o dopo (rossi) la fermentazione",
+     "Pressurage avant (blancs) ou après (rouges) la fermentation",
+     "Pressing before (white) or after (red) fermentation",
+     "Prensado antes (blancos) o después (tintos) de la fermentación"
+    ],
+    [
+     "Breve conservazione = pochi cambiamenti; maturazione lunga = aromi terziari",
+     "Conservation courte = peu de changement ; élevage long = arômes tertiaires",
+     "Short storage = little change; long maturation = tertiary flavours",
+     "Almacenamiento corto = pocos cambios; crianza larga = aromas terciarios"
+    ],
+    [
+     "Vetro il più diffuso; anche bag-in-box, plastica, brick",
+     "Verre le plus courant ; aussi bag-in-box, plastique, brique",
+     "Glass most popular; also bag-in-box, plastic, cartons",
+     "Vidrio el más común; también bag-in-box, plástico, brik"
+    ]
+   ]
+  },
+  {
+   "c": "p5",
+   "t": [
+    "Bianchi, rosati e rossi passo dopo passo",
+    "Blancs, rosés et rouges étape par étape",
+    "White, rosé and red wines step by step",
+    "Blancos, rosados y tintos paso a paso"
+   ],
+   "p": [
+    [
+     "Per un bianco secco si parte di solito da uve bianche, che vengono pigiate e pressate prima della fermentazione; le bucce in genere si scartano. Sequenza tipica: pigiatura, pressatura, fermentazione alcolica, conservazione o maturazione, confezionamento. Poiché nelle uve nere il colore si trova solo nella buccia, si può ottenere un vino bianco anche da uve nere, a patto di pressarle molto delicatamente.",
+     "Pour un blanc sec, on part généralement de raisins blancs, foulés et pressés avant la fermentation ; les peaux sont en principe écartées. Séquence type : foulage, pressurage, fermentation alcoolique, conservation ou élevage, conditionnement. Comme la couleur des raisins noirs se trouve uniquement dans la peau, on peut aussi faire du vin blanc avec des raisins noirs, à condition de les presser très doucement.",
+     "A dry white wine is usually made from white grapes, which are crushed and pressed before fermentation; the skins are normally discarded. Typical order: crushing, pressing, alcoholic fermentation, storage or maturation, packaging. Because the colour of black grapes is found only in the skins, white wine can also be made from black grapes, as long as they are pressed very gently.",
+     "Un blanco seco suele elaborarse con uvas blancas, que se estrujan y se prensan antes de la fermentación; los hollejos normalmente se desechan. Orden típico: estrujado, prensado, fermentación alcohólica, almacenamiento o crianza, envasado. Como en las uvas tintas el color está solo en el hollejo, también se puede hacer vino blanco con uvas tintas, siempre que se prensen con mucha suavidad."
+    ],
+    [
+     "Un rosso, invece, deve nascere da uve nere, e le bucce devono partecipare alla fermentazione per cedere colore e tannini. A fermentazione conclusa, il vino viene separato dalle bucce per sgrondo e ciò che resta viene pressato. Sequenza tipica: pigiatura, fermentazione alcolica, sgrondo, pressatura, conservazione o maturazione, confezionamento. La differenza chiave rispetto al bianco è quindi la posizione della pressatura: dopo la fermentazione, non prima.",
+     "Un rouge, en revanche, doit être fait à partir de raisins noirs, et les peaux doivent participer à la fermentation pour céder couleur et tanins. Une fois la fermentation terminée, le vin est écoulé (séparé des peaux) et le reste est pressé. Séquence type : foulage, fermentation alcoolique, écoulage, pressurage, conservation ou élevage, conditionnement. La différence clé avec le blanc est donc la place du pressurage : après la fermentation, et non avant.",
+     "A red wine, by contrast, must be made from black grapes, and the skins must be part of the fermentation so they can give colour and tannin. When fermentation is over, the wine is drained off the skins and whatever remains is pressed. Typical order: crushing, alcoholic fermentation, draining, pressing, storage or maturation, packaging. The key difference from white winemaking is where pressing sits: after fermentation, not before.",
+     "Un tinto, en cambio, debe hacerse con uvas tintas, y los hollejos tienen que participar en la fermentación para ceder color y taninos. Al terminar la fermentación, el vino se escurre separándolo de los hollejos y lo que queda se prensa. Orden típico: estrujado, fermentación alcohólica, escurrido, prensado, almacenamiento o crianza, envasado. La diferencia clave con el blanco es la posición del prensado: después de la fermentación, no antes."
+    ],
+    [
+     "Il rosato si colloca a metà strada. Con il metodo della macerazione breve si usano uve nere e si inizia come per un rosso, ma il mosto in fermentazione viene separato dalle bucce dopo poche ore; la fermentazione prosegue senza bucce, come per un bianco. I rosati raramente vengono conservati o maturati in rovere. Un altro metodo è l'assemblaggio di vino rosso e vino bianco, che però non è consentito in molte zone d'Europa.",
+     "Le rosé se situe à mi-chemin. Avec la macération courte, on utilise des raisins noirs et l'on commence comme pour un rouge, mais le moût en fermentation est séparé des peaux au bout de quelques heures ; la fermentation se poursuit sans les peaux, comme pour un blanc. Les rosés sont rarement conservés ou élevés en chêne. Autre méthode : l'assemblage d'un vin rouge et d'un vin blanc, interdit cependant dans de nombreuses régions d'Europe.",
+     "Rosé sits halfway between the two. With short maceration, black grapes are used and the process starts just like a red, but the fermenting juice is drained off the skins after a few hours; fermentation then carries on without the skins, as for a white. Rosés are rarely stored or matured in oak. Another method is blending a red wine with a white wine, although this is not allowed in many parts of Europe.",
+     "El rosado está a medio camino. Con la maceración corta se usan uvas tintas y se empieza como un tinto, pero el mosto en fermentación se separa de los hollejos al cabo de unas horas; la fermentación continúa sin hollejos, como en un blanco. Los rosados rara vez se almacenan o crían en roble. Otro método es mezclar vino tinto con vino blanco, aunque no está permitido en muchas zonas de Europa."
+    ]
+   ],
+   "keys": [
+    [
+     "Bianco: pigiatura → pressatura → fermentazione",
+     "Blanc : foulage → pressurage → fermentation",
+     "White: crush → press → ferment",
+     "Blanco: estrujado → prensado → fermentación"
+    ],
+    [
+     "Rosso: pigiatura → fermentazione con bucce → sgrondo → pressatura",
+     "Rouge : foulage → fermentation avec peaux → écoulage → pressurage",
+     "Red: crush → ferment on skins → drain → press",
+     "Tinto: estrujado → fermentación con hollejos → escurrido → prensado"
+    ],
+    [
+     "Uve nere pressate delicatamente possono dare vino bianco",
+     "Des raisins noirs pressés doucement peuvent donner du blanc",
+     "Gently pressed black grapes can make white wine",
+     "Uvas tintas prensadas con suavidad pueden dar vino blanco"
+    ],
+    [
+     "Rosato: macerazione breve (poche ore) o assemblaggio rosso + bianco",
+     "Rosé : macération courte (quelques heures) ou assemblage rouge + blanc",
+     "Rosé: short maceration (a few hours) or red + white blend",
+     "Rosado: maceración corta (unas horas) o mezcla tinto + blanco"
+    ]
+   ]
+  },
+  {
+   "c": "p5",
+   "t": [
+    "Correzioni e temperature di fermentazione",
+    "Ajustements et températures de fermentation",
+    "Adjustments and fermentation temperatures",
+    "Correcciones y temperaturas de fermentación"
+   ],
+   "p": [
+    [
+     "Non sempre l'uva arriva in cantina con l'equilibrio ideale, per cui il produttore può fare piccole correzioni di zucchero e acidità nel mosto. Nei climi freschi o nelle annate fresche lo zucchero può essere troppo basso: il vino risulterebbe poco alcolico e povero di corpo. Aumentando lo zucchero nel mosto si ottiene un vino con più alcol. È la catena causa → effetto tipica: clima fresco → poco zucchero → correzione.",
+     "Le raisin n'arrive pas toujours au chai avec l'équilibre idéal ; le vinificateur peut donc ajuster légèrement le sucre et l'acidité du moût. En climat frais ou lors d'un millésime frais, le sucre peut être trop bas : le vin serait peu alcoolisé et manquerait de corps. En augmentant le sucre du moût, on obtient un vin plus alcoolisé. C'est la logique cause → effet : climat frais → peu de sucre → ajustement.",
+     "Grapes do not always reach the winery with the ideal balance, so the winemaker may make small adjustments to the sugar and acid in the juice. In cool climates or cool vintages sugar levels can be too low: the wine would be low in alcohol and lacking in body. Raising the sugar in the juice gives a wine with more alcohol. This is the classic cause → effect chain: cool climate → low sugar → adjustment.",
+     "La uva no siempre llega a la bodega con el equilibrio ideal, por lo que el enólogo puede hacer pequeñas correcciones de azúcar y acidez en el mosto. En climas o añadas frescas el azúcar puede quedarse corto: el vino tendría poco alcohol y le faltaría cuerpo. Aumentando el azúcar del mosto se obtiene un vino con más alcohol. Es la lógica causa → efecto: clima fresco → poco azúcar → corrección."
+    ],
+    [
+     "Con l'acidità il problema può presentarsi in entrambe le direzioni. Nei climi caldi l'acidità dell'uva può calare molto durante la maturazione e il vino sarebbe squilibrato, piatto: il produttore può allora aggiungere acido. Nei climi freschi, al contrario, l'acidità può essere eccessiva e il produttore può neutralizzarne una parte, così che il vino non risulti troppo aspro e sbilanciato.",
+     "Pour l'acidité, le problème peut se poser dans les deux sens. En climat chaud, l'acidité du raisin peut beaucoup baisser pendant la maturation et le vin manquerait d'équilibre : le vinificateur peut alors ajouter de l'acide. En climat frais, au contraire, l'acidité peut être trop élevée et le vinificateur peut en neutraliser une partie, pour que le vin ne soit pas déséquilibré par une acidité excessive.",
+     "With acidity the problem can go either way. In warm climates the acid in the grapes can drop very low during ripening, leaving the wine unbalanced: the winemaker can then add acid. In cool climates, on the other hand, acidity can be too high, and the winemaker can neutralise some of it so that the wine is not unbalanced by excessive acidity.",
+     "Con la acidez, el problema puede darse en ambos sentidos. En climas cálidos, la acidez de la uva puede bajar mucho durante la maduración y el vino quedaría desequilibrado: el enólogo puede entonces añadir ácido. En climas frescos, al contrario, la acidez puede ser excesiva y el enólogo puede neutralizar una parte para que el vino no resulte desequilibrado por un exceso de acidez."
+    ],
+    [
+     "La fermentazione produce calore e la temperatura va monitorata; oggi esistono tecnologie per raffreddare o riscaldare il mosto. I rossi fermentano più caldi, tra 20 e 32 °C circa, perché il calore aiuta a estrarre colore e tannini dalle bucce. I bianchi fermentano tra 12 e 22 °C circa; nella parte bassa di questo intervallo si sviluppano aromi fruttati marcati. I rosati da macerazione breve, una volta separati dalle bucce, fermentano a temperature simili a quelle dei bianchi.",
+     "La fermentation dégage de la chaleur et la température doit être surveillée ; il existe aujourd'hui des technologies pour refroidir ou réchauffer le moût. Les rouges fermentent plus chaud, entre 20 et 32 °C environ, car la chaleur aide à extraire couleur et tanins des peaux. Les blancs fermentent entre 12 et 22 °C environ ; dans le bas de cette fourchette, on obtient des arômes fruités marqués. Les rosés de macération courte, une fois séparés des peaux, fermentent à des températures proches de celles des blancs.",
+     "Fermentation creates heat, so the temperature must be monitored; today winemakers have technology to chill or warm a fermentation. Red wines ferment warmer, roughly 20–32°C (68–90°F), because the heat helps extract colour and tannin from the skins. White wines ferment at roughly 12–22°C (54–72°F); towards the cool end of that range, fermentations can give pronounced fruity aromas. Short-maceration rosés, once off the skins, ferment at temperatures similar to whites.",
+     "La fermentación genera calor y la temperatura debe vigilarse; hoy existen tecnologías para enfriar o calentar el mosto. Los tintos fermentan más calientes, entre 20 y 32 °C aproximadamente, porque el calor ayuda a extraer color y taninos de los hollejos. Los blancos fermentan entre 12 y 22 °C aproximadamente; en la parte baja de ese rango se obtienen aromas afrutados marcados. Los rosados de maceración corta, una vez separados de los hollejos, fermentan a temperaturas parecidas a las de los blancos."
+    ]
+   ],
+   "keys": [
+    [
+     "Clima fresco: si può aumentare lo zucchero → più alcol",
+     "Climat frais : on peut augmenter le sucre → plus d'alcool",
+     "Cool climate: sugar can be raised → more alcohol",
+     "Clima fresco: se puede aumentar el azúcar → más alcohol"
+    ],
+    [
+     "Clima caldo: aggiunta di acido; clima fresco: si neutralizza l'acido",
+     "Climat chaud : ajout d'acide ; climat frais : on neutralise l'acide",
+     "Warm climate: add acid; cool climate: neutralise acid",
+     "Clima cálido: añadir ácido; clima fresco: neutralizar ácido"
+    ],
+    [
+     "Rossi 20–32 °C per estrarre colore e tannini",
+     "Rouges 20–32 °C pour extraire couleur et tanins",
+     "Reds 20–32°C to extract colour and tannin",
+     "Tintos 20–32 °C para extraer color y taninos"
+    ],
+    [
+     "Bianchi 12–22 °C; più freddo = più aromi fruttati",
+     "Blancs 12–22 °C ; plus frais = plus d'arômes fruités",
+     "Whites 12–22°C; cooler = more fruity aromas",
+     "Blancos 12–22 °C; más frío = más aromas afrutados"
+    ]
+   ]
+  },
+  {
+   "c": "p5",
+   "t": [
+    "Estrazione nei rossi e vini dolci",
+    "Extraction des rouges et vins doux",
+    "Red extraction and sweet wines",
+    "Extracción en tintos y vinos dulces"
+   ],
+   "p": [
+    [
+     "Il calore della fermentazione aiuta l'estrazione, ma da solo non basta. Le bucce salgono in superficie e formano uno strato spesso chiamato cappello; se resta lì indisturbato, cede poco colore e poco tannino. Bisogna quindi rimescolare spesso le bucce con il liquido. Le due tecniche più comuni sono la follatura, in cui il cappello viene spinto giù nel liquido con uno stantuffo, e il rimontaggio, in cui il liquido prelevato dal fondo della vasca viene pompato e spruzzato sopra il cappello.",
+     "La chaleur de la fermentation aide l'extraction, mais ne suffit pas. Les peaux remontent à la surface et forment une couche épaisse appelée chapeau ; laissé tranquille, il cède peu de couleur et de tanins. Il faut donc mélanger souvent les peaux avec le liquide. Les deux techniques les plus courantes sont le pigeage, où l'on enfonce le chapeau dans le liquide à l'aide d'un piston, et le remontage, où le liquide du bas de la cuve est pompé et arrosé sur le chapeau.",
+     "The heat of fermentation helps extraction, but it is not enough on its own. The skins float to the top and form a thick layer called the cap; left undisturbed, it gives up little colour or tannin. The skins therefore need to be mixed thoroughly and often with the liquid. The two most common techniques are punching down, where a plunger pushes the cap down into the liquid, and pumping over, where liquid from the bottom of the vessel is pumped up through a hose and sprayed over the cap.",
+     "El calor de la fermentación ayuda a la extracción, pero no basta. Los hollejos suben a la superficie y forman una capa gruesa llamada sombrero; si se deja tranquilo, cede poco color y poco tanino. Por eso hay que mezclar a menudo los hollejos con el líquido. Las dos técnicas más comunes son el bazuqueo, en el que se hunde el sombrero en el líquido con un émbolo, y el remontado, en el que el líquido del fondo del depósito se bombea por una manguera y se riega sobre el sombrero."
+    ],
+    [
+     "Molti vini bianchi, rossi e rosati non sono secchi: contengono zucchero residuo, cioè zucchero rimasto dopo la fermentazione. Si va dagli abboccati, con poco zucchero, ai dolci, che possono averne moltissimo. Un primo modo per ottenerli è partire da uve con zuccheri concentrati: uve stramature, colpite da botrytis/muffa nobile o congelate. Il loro succo è così zuccherino che i lieviti non riescono a consumarlo tutto e la fermentazione si ferma lasciando dolcezza, come nel Tokaji Aszú ungherese.",
+     "Beaucoup de blancs, rouges et rosés ne sont pas secs : ils contiennent du sucre résiduel, c'est-à-dire du sucre restant après la fermentation. On va des demi-secs, peu sucrés, aux vins doux, qui peuvent en contenir énormément. Une première façon de les obtenir est de partir de raisins aux sucres concentrés : surmûris, touchés par le botrytis/pourriture noble ou gelés. Leur jus est si sucré que les levures ne peuvent pas tout consommer et la fermentation s'arrête en laissant de la douceur, comme pour le Tokaji Aszú de Hongrie.",
+     "Many white, red and rosé wines are not dry: they contain residual sugar, meaning sugar left after fermentation. They range from off-dry, with a little sugar, to sweet, which can have very high levels. One way to make them is to start with grapes whose sugars are concentrated: extra-ripe, botrytis/noble-rot-affected or frozen grapes. Their juice is so sweet that the yeast cannot eat all the sugar, so fermentation stops with sweetness left behind, as in Tokaji Aszú from Hungary.",
+     "Muchos blancos, tintos y rosados no son secos: contienen azúcar residual, es decir, azúcar que queda tras la fermentación. Van desde los semisecos, con poco azúcar, hasta los dulces, que pueden tener muchísimo. Una primera forma de elaborarlos es partir de uvas con azúcares concentrados: sobremaduradas, afectadas por botrytis/podredumbre noble o congeladas. Su mosto es tan dulce que las levaduras no pueden consumirlo todo y la fermentación se detiene dejando dulzor, como en el Tokaji Aszú de Hungría."
+    ],
+    [
+     "In alternativa si può fermare la fermentazione. Si possono eliminare i lieviti con filtri molto sofisticati dai fori minuscoli, come per il White Zinfandel californiano. Oppure si possono uccidere i lieviti aggiungendo alcol: è la fortificazione, che porta il vino al 15–20% vol, livello a cui i lieviti muoiono prima di finire lo zucchero; così non c'è rischio di rifermentazione, come nel Porto. Infine si può addolcire un vino secco con zucchero d'uva: succo non fermentato, succo concentrato o un vino dolce in assemblaggio. Questo metodo permette di controllare con precisione il livello di dolcezza.",
+     "On peut aussi arrêter la fermentation. Soit en retirant les levures avec des filtres très sophistiqués aux pores minuscules, comme pour le White Zinfandel de Californie. Soit en tuant les levures par ajout d'alcool : c'est le mutage (fortification), qui porte le vin à 15–20 % vol, niveau où les levures meurent avant d'avoir fini le sucre ; aucun risque de refermentation, comme pour le Porto. Enfin, on peut adoucir un vin sec avec du sucre de raisin : jus non fermenté, jus concentré ou vin doux en assemblage. Cette méthode permet de doser la douceur avec précision.",
+     "Alternatively, fermentation can be stopped. The yeast can be removed with very sophisticated filters whose holes are small enough to catch them, as for White Zinfandel from California. Or the yeast can be killed by adding alcohol: this is fortification, which raises the wine to 15–20% abv, a level that kills the yeast before all the sugar is used, with no risk of fermentation restarting, as in Port. Finally, a dry wine can be sweetened with grape sugar: unfermented juice, concentrated juice or a blend with a sweet wine. This method lets the winemaker control sweetness precisely.",
+     "También se puede detener la fermentación. Se pueden retirar las levaduras con filtros muy sofisticados de poros diminutos, como en el White Zinfandel de California. O se pueden matar añadiendo alcohol: es el encabezado (fortificación), que eleva el vino al 15–20 % vol., nivel al que las levaduras mueren antes de acabar el azúcar, sin riesgo de que vuelva a fermentar, como en el Oporto. Por último, se puede endulzar un vino seco con azúcar de uva: mosto sin fermentar, mosto concentrado o mezcla con un vino dulce. Este método permite controlar el dulzor con precisión."
+    ]
+   ],
+   "keys": [
+    [
+     "Cappello: va rimescolato con follatura o rimontaggio",
+     "Chapeau : à mélanger par pigeage ou remontage",
+     "Cap must be mixed: punching down or pumping over",
+     "Sombrero: se mezcla con bazuqueo o remontado"
+    ],
+    [
+     "Uve concentrate (stramature, botrytis, congelate) → fermentazione incompleta, es. Tokaji Aszú",
+     "Raisins concentrés (surmûris, botrytis, gelés) → fermentation incomplète, ex. Tokaji Aszú",
+     "Concentrated grapes (extra-ripe, botrytis, frozen) → fermentation stops, e.g. Tokaji Aszú",
+     "Uvas concentradas (sobremaduras, botrytis, congeladas) → fermentación incompleta, p. ej. Tokaji Aszú"
+    ],
+    [
+     "Filtrazione dei lieviti: White Zinfandel; fortificazione 15–20% vol: Porto",
+     "Filtration des levures : White Zinfandel ; mutage 15–20 % vol : Porto",
+     "Filtering out yeast: White Zinfandel; fortification to 15–20% abv: Port",
+     "Filtrado de levaduras: White Zinfandel; encabezado al 15–20 % vol.: Oporto"
+    ],
+    [
+     "Addolcire un vino secco = controllo preciso della dolcezza",
+     "Adoucir un vin sec = contrôle précis de la douceur",
+     "Sweetening a dry wine = precise control of sweetness",
+     "Endulzar un vino seco = control preciso del dulzor"
+    ]
+   ]
+  }
+ ],
+ "questions": [],
+ "flash": []
+}
