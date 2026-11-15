@@ -274,8 +274,2448 @@
      "Endulzar un vino seco = control preciso del dulzor"
     ]
    ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "Acciaio inox, cemento e rovere",
+    "Inox, béton et chêne",
+    "Stainless steel, concrete and oak",
+    "Acero inoxidable, hormigón y roble"
+   ],
+   "p": [
+    [
+     "I contenitori di cantina hanno forme, dimensioni e materiali diversi. Per capire il loro effetto sullo stile conviene dividerli in due famiglie: quelli in materiale inerte, che non cedono nulla al vino, e quelli in rovere, che invece possono modificarlo. Entrambe le famiglie possono servire sia per la fermentazione sia per la conservazione; la scelta dipende dallo stile che il produttore vuole ottenere.",
+     "Les contenants du chai varient par la forme, la taille et le matériau. Pour comprendre leur effet sur le style, il est utile de les classer en deux familles : ceux en matériau inerte, qui n'apportent rien au vin, et ceux en chêne, qui peuvent au contraire le modifier. Les deux familles peuvent servir à la fermentation comme à la conservation ; le choix dépend du style recherché par le vinificateur.",
+     "Winery vessels come in different shapes, sizes and materials. To understand their effect on style, it helps to split them into two families: those made of an inert material, which give nothing to the wine, and those made of oak, which can change it. Both families can be used for fermentation and for storage; the choice depends on the style the winemaker is aiming for.",
+     "Los recipientes de bodega tienen formas, tamaños y materiales distintos. Para entender su efecto en el estilo conviene dividirlos en dos familias: los de material inerte, que no aportan nada al vino, y los de roble, que en cambio pueden modificarlo. Ambas familias pueden usarse tanto para fermentar como para almacenar; la elección depende del estilo que busque el enólogo."
+    ],
+    [
+     "Acciaio inox e cemento sono materiali inerti: non aggiungono alcun aroma al vino. In più possono essere costruiti in modo ermetico, impedendo all'ossigeno di entrare in contatto con il vino e di modificarne gli aromi. Sono quindi la scelta naturale quando si vuole preservare il frutto fresco e primario dell'uva, senza note di legno né evoluzione ossidativa.",
+     "L'inox et le béton sont des matériaux inertes : ils n'ajoutent aucun arôme au vin. Ils peuvent en outre être rendus hermétiques, ce qui empêche l'oxygène d'entrer en contact avec le vin et d'en modifier les arômes. Ce sont donc les choix naturels quand on veut préserver le fruit frais et primaire du raisin, sans notes boisées ni évolution oxydative.",
+     "Stainless steel and concrete are inert: they add no flavour to the wine. They can also be made airtight, which stops oxygen from reaching the wine and changing its flavours. That makes them the natural choice when the aim is to keep the fresh, primary fruit of the grape, with no oak notes and no oxidative development.",
+     "El acero inoxidable y el hormigón son inertes: no añaden ningún aroma al vino. Además, pueden fabricarse herméticos, lo que impide que el oxígeno entre en contacto con el vino y cambie sus aromas. Son, por tanto, la elección natural cuando se quiere conservar la fruta fresca y primaria de la uva, sin notas de madera ni evolución oxidativa."
+    ],
+    [
+     "Anche il legno, quasi sempre rovere, si usa per fermentare e conservare. Le botti influenzano lo stile in due modi: possono cedere direttamente aromi di rovere al vino e, poiché sono a tenuta d'acqua ma non d'aria, lasciano entrare un po' di ossigeno che fa evolvere gli aromi durante la maturazione. Lo stesso vino, quindi, avrà un carattere ben diverso se riposa in acciaio o in botte.",
+     "Le bois, presque toujours du chêne, sert aussi à fermenter et à conserver. Les fûts influencent le style de deux façons : ils peuvent apporter directement des arômes de chêne au vin et, comme ils sont étanches à l'eau mais pas à l'air, ils laissent entrer un peu d'oxygène qui fait évoluer les arômes pendant l'élevage. Le même vin aura donc un caractère bien différent selon qu'il repose en inox ou en fût.",
+     "Wood, almost always oak, is also used for fermentation and storage. Barrels influence style in two ways: they can add oak flavours directly to the wine and, because they are watertight but not airtight, they let in a little oxygen that makes flavours evolve during maturation. The same wine will therefore have a very different character depending on whether it rests in steel or in barrel.",
+     "La madera, casi siempre roble, también se usa para fermentar y almacenar. Las barricas influyen en el estilo de dos maneras: pueden aportar directamente aromas de roble al vino y, como son estancas al agua pero no al aire, dejan entrar algo de oxígeno que hace evolucionar los aromas durante la crianza. Así, un mismo vino tendrá un carácter muy distinto si reposa en acero o en barrica."
+    ]
+   ],
+   "keys": [
+    [
+     "Inox e cemento: inerti, nessun aroma aggiunto",
+     "Inox et béton : inertes, aucun arôme ajouté",
+     "Steel and concrete: inert, add no flavour",
+     "Acero y hormigón: inertes, no añaden aromas"
+    ],
+    [
+     "Possono essere ermetici: niente ossigeno, frutto fresco preservato",
+     "Peuvent être hermétiques : pas d'oxygène, fruit frais préservé",
+     "Can be airtight: no oxygen, fresh fruit kept",
+     "Pueden ser herméticos: sin oxígeno, fruta fresca conservada"
+    ],
+    [
+     "Rovere: aggiunge aromi e lascia passare ossigeno",
+     "Chêne : apporte des arômes et laisse passer l'oxygène",
+     "Oak: adds flavour and lets oxygen in",
+     "Roble: aporta aromas y deja pasar oxígeno"
+    ]
+   ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "Il rovere: nuovo o vecchio, piccolo o grande, tostatura",
+    "Le chêne : neuf ou ancien, petit ou grand, chauffe",
+    "Oak: new or old, small or large, toast level",
+    "El roble: nuevo o usado, pequeño o grande, tostado"
+   ],
+   "p": [
+    [
+     "La quantità di aroma che una botte cede dipende da come è stata costruita, dalla sua età e dalle sue dimensioni. Durante la costruzione le doghe vengono scaldate su una fiamma viva e piegate. La durata e l'intensità del calore determinano il livello di tostatura, che influenza gli aromi del legno: la tostatura può dare note di spezie dolci e di legno bruciato.",
+     "La quantité d'arômes qu'un fût apporte dépend de sa fabrication, de son âge et de sa taille. Lors de la fabrication, les douelles sont chauffées au-dessus d'une flamme vive puis cintrées. La durée et l'intensité de la chauffe déterminent le niveau de bousinage (chauffe), qui influence les arômes du bois : la chauffe peut donner des notes d'épices douces et de bois brûlé.",
+     "How much flavour a barrel gives depends on how it was made, how old it is and how big it is. When a barrel is made, the oak staves are heated over an open flame and bent into shape. The length of time and the amount of heat set the toast level, which shapes the oak flavours: toasting can give sweet-spice and charred-wood aromas.",
+     "La cantidad de aroma que cede una barrica depende de cómo se ha fabricado, de su edad y de su tamaño. Al fabricarla, las duelas se calientan sobre una llama viva y se curvan. La duración y la intensidad del calor determinan el nivel de tostado, que influye en los aromas de la madera: el tostado puede dar notas de especias dulces y de madera quemada."
+    ],
+    [
+     "Una botte nuova, mai usata, cede molto aroma: vaniglia, cocco, legno bruciato e spezie. Si parla di rovere nuovo. Una botte già usata ne cede meno, e dopo due o tre utilizzi ha ben poco da dare: si parla di rovere vecchio. Chi vuole un'impronta di legno evidente sceglie quindi botti nuove; chi cerca soprattutto l'effetto dell'ossigeno senza aromi di rovere marcati sceglie botti vecchie.",
+     "Un fût neuf, jamais utilisé, apporte beaucoup d'arômes : vanille, noix de coco, bois brûlé et épices. On parle de chêne neuf. Un fût déjà utilisé en apporte moins, et après deux ou trois utilisations il n'a presque plus rien à donner : on parle de chêne ancien (vieux fûts). Pour une empreinte boisée marquée, on choisit du neuf ; pour l'effet de l'oxygène sans arômes de chêne prononcés, on choisit de vieux fûts.",
+     "A new barrel that has never been used gives a lot of flavour: vanilla, coconut, charred wood and spice. This is called new oak. A barrel that has been used before gives less, and after two or three uses it has very little left to give: this is called old oak. A winemaker wanting obvious oak character chooses new barrels; one who mainly wants the effect of oxygen without strong oak flavours chooses old ones.",
+     "Una barrica nueva, nunca usada, cede mucho aroma: vainilla, coco, madera quemada y especias. Se habla de roble nuevo. Una barrica ya usada cede menos, y tras dos o tres usos le queda muy poco que dar: se habla de roble usado o viejo. Quien quiere una huella de madera evidente elige barricas nuevas; quien busca sobre todo el efecto del oxígeno sin aromas marcados de roble elige barricas usadas."
+    ],
+    [
+     "Durante la maturazione l'ossigeno che entra nella botte può sviluppare aromi di caramello, frutta secca e frutta a guscio (nocciola, mandorla, noce) e ammorbidisce i tannini dei rossi. Questi cambiamenti sono più rapidi nelle botti piccole, perché una parte maggiore del vino è a contatto con il legno; i grandi contenitori di rovere raramente servono a dare aromi di legno. Per i vini meno costosi, invece delle botti si possono usare doghe o trucioli di rovere in un contenitore inerte, molto più economici.",
+     "Pendant l'élevage, l'oxygène qui pénètre dans le fût peut développer des arômes de caramel, de fruits secs et de fruits à coque (noisette, amande, noix) et assouplit les tanins des rouges. Ces changements sont plus rapides en petits fûts, car une plus grande part du vin est en contact avec le bois ; les grands contenants de chêne servent rarement à donner des arômes boisés. Pour les vins moins chers, on peut remplacer les fûts par des douelles ou des copeaux de chêne dans une cuve inerte, bien plus économiques.",
+     "During maturation, oxygen entering the barrel can develop caramel, dried fruit and nut (hazelnut, almond, walnut) flavours, and it softens the tannins in red wines. These changes happen faster in small barrels, because more of the wine is in contact with the wood; large oak vessels are rarely used to add oak flavour. For less expensive wines, oak staves or chips added to wine in an inert vessel are a much cheaper alternative to barrels.",
+     "Durante la crianza, el oxígeno que entra en la barrica puede desarrollar aromas de caramelo, fruta pasa y frutos secos (avellana, almendra, nuez) y suaviza los taninos de los tintos. Estos cambios son más rápidos en barricas pequeñas, porque una mayor parte del vino está en contacto con la madera; los grandes recipientes de roble rara vez se usan para aportar aromas de madera. Para vinos más económicos, en lugar de barricas se pueden usar duelas o virutas de roble en un recipiente inerte, mucho más baratas."
+    ]
+   ],
+   "keys": [
+    [
+     "Tostatura: spezie dolci e legno bruciato",
+     "Chauffe : épices douces et bois brûlé",
+     "Toasting: sweet spice and charred wood",
+     "Tostado: especias dulces y madera quemada"
+    ],
+    [
+     "Rovere nuovo: vaniglia, cocco, spezie; dopo 2–3 usi poco aroma",
+     "Chêne neuf : vanille, coco, épices ; après 2–3 usages peu d'arômes",
+     "New oak: vanilla, coconut, spice; little left after 2–3 uses",
+     "Roble nuevo: vainilla, coco, especias; poco aroma tras 2–3 usos"
+    ],
+    [
+     "Ossigeno: caramello, frutta secca, nocciola; tannini più morbidi; più rapido in botti piccole",
+     "Oxygène : caramel, fruits secs, noisette ; tanins assouplis ; plus rapide en petits fûts",
+     "Oxygen: caramel, dried fruit, nut; softer tannins; faster in small barrels",
+     "Oxígeno: caramelo, fruta pasa, avellana; taninos suaves; más rápido en barrica pequeña"
+    ],
+    [
+     "Doghe e trucioli: aroma di rovere a basso costo",
+     "Douelles et copeaux : arômes de chêne à petit prix",
+     "Staves and chips: cheap oak flavour",
+     "Duelas y virutas: aroma de roble barato"
+    ]
+   ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "La fermentazione malolattica",
+    "La fermentation malolactique",
+    "Malolactic conversion",
+    "La fermentación maloláctica"
+   ],
+   "p": [
+    [
+     "La fermentazione (o conversione) malolattica avviene dopo la fermentazione alcolica e non è opera dei lieviti, ma di altri microrganismi: i batteri. Ha due effetti principali sullo stile: abbassa l'acidità del vino e può aggiungere aromi di burro. Conoscere questa doppia conseguenza permette di capire perché il produttore la favorisce in alcuni vini e la evita in altri.",
+     "La fermentation malolactique a lieu après la fermentation alcoolique et n'est pas l'œuvre des levures, mais d'autres micro-organismes : les bactéries. Elle a deux effets principaux sur le style : elle baisse l'acidité du vin et peut apporter des arômes beurrés. Connaître ce double effet permet de comprendre pourquoi le vinificateur la favorise pour certains vins et l'évite pour d'autres.",
+     "Malolactic conversion happens after alcoholic fermentation and is carried out not by yeast but by other microorganisms: bacteria. It has two main effects on style: it lowers the wine's acidity and it can add buttery flavours. Knowing this double effect explains why winemakers encourage it in some wines and avoid it in others.",
+     "La fermentación maloláctica se produce después de la fermentación alcohólica y no la realizan las levaduras, sino otros microorganismos: las bacterias. Tiene dos efectos principales en el estilo: baja la acidez del vino y puede aportar aromas mantecosos. Conocer este doble efecto permite entender por qué el enólogo la favorece en unos vinos y la evita en otros."
+    ],
+    [
+     "Nei rossi la malolattica avviene quasi sempre e le note di burro non si percepiscono davvero. Nei bianchi, invece, è una scelta. Se si vuole conservare l'acidità e si ritiene che il burro non si addica allo stile, la si impedisce: è la scelta abituale per i vitigni aromatici come il Riesling, il cui frutto vivace e la cui acidità vanno preservati. Altri vitigni ne traggono beneficio, ad esempio alcuni stili di Chardonnay, che guadagnano morbidezza e note burrose.",
+     "Pour les rouges, la malolactique a presque toujours lieu et les notes beurrées ne se perçoivent pas vraiment. Pour les blancs, en revanche, c'est un choix. Si l'on veut préserver l'acidité et que le beurre ne convient pas au style, on l'empêche : c'est le choix habituel pour les cépages aromatiques comme le Riesling, dont le fruit vif et l'acidité doivent être préservés. D'autres cépages en profitent, par exemple certains styles de Chardonnay, qui gagnent en rondeur et en notes beurrées.",
+     "In red wines malolactic conversion nearly always takes place and the buttery notes are not really noticeable. In whites, however, it is a choice. If the winemaker wants to keep the acidity and feels buttery aromas do not suit the style, it is prevented: this is the usual choice for aromatic varieties such as Riesling, whose lively fruit and acidity need to be kept. Other varieties benefit from it, for example certain styles of Chardonnay, which gain softness and buttery notes.",
+     "En los tintos la maloláctica se produce casi siempre y las notas mantecosas apenas se perciben. En los blancos, en cambio, es una decisión. Si se quiere conservar la acidez y se considera que la mantequilla no encaja con el estilo, se impide: es la opción habitual para variedades aromáticas como el Riesling, cuya fruta viva y acidez deben preservarse. Otras variedades se benefician de ella, por ejemplo ciertos estilos de Chardonnay, que ganan suavidad y notas mantecosas."
+    ],
+    [
+     "Per l'esame ricorda la catena causa → effetto: batteri → meno acidità e possibili note di burro → vino più morbido e rotondo. Un bianco molto fresco, vivace e senza burro probabilmente non ha svolto la malolattica; un bianco morbido con note burrose probabilmente sì. Attenzione a non confonderla con la fermentazione alcolica: lieviti e batteri sono microrganismi diversi con compiti diversi.",
+     "Pour l'examen, retenez la chaîne cause → effet : bactéries → moins d'acidité et possibles notes beurrées → vin plus souple et rond. Un blanc très frais, vif et sans beurre n'a probablement pas fait sa malolactique ; un blanc rond aux notes beurrées l'a probablement faite. Attention à ne pas la confondre avec la fermentation alcoolique : levures et bactéries sont des micro-organismes différents, aux rôles différents.",
+     "For the exam, remember the cause → effect chain: bacteria → lower acidity and possible buttery notes → softer, rounder wine. A very fresh, lively white with no butter has probably not gone through malolactic conversion; a soft white with buttery notes probably has. Take care not to confuse it with alcoholic fermentation: yeast and bacteria are different microorganisms with different jobs.",
+     "Para el examen, recuerda la cadena causa → efecto: bacterias → menos acidez y posibles notas mantecosas → vino más suave y redondo. Un blanco muy fresco, vivo y sin mantequilla probablemente no ha hecho la maloláctica; un blanco suave con notas mantecosas probablemente sí. Cuidado con no confundirla con la fermentación alcohólica: levaduras y bacterias son microorganismos distintos con funciones distintas."
+    ]
+   ],
+   "keys": [
+    [
+     "Svolta dai batteri, dopo la fermentazione alcolica",
+     "Réalisée par des bactéries, après la fermentation alcoolique",
+     "Carried out by bacteria, after alcoholic fermentation",
+     "La realizan bacterias, tras la fermentación alcohólica"
+    ],
+    [
+     "Abbassa l'acidità e può dare note di burro",
+     "Baisse l'acidité et peut donner des notes beurrées",
+     "Lowers acidity and can give buttery flavours",
+     "Baja la acidez y puede dar notas mantecosas"
+    ],
+    [
+     "Rossi: quasi sempre; bianchi: una scelta",
+     "Rouges : presque toujours ; blancs : un choix",
+     "Reds: nearly always; whites: a choice",
+     "Tintos: casi siempre; blancos: una decisión"
+    ],
+    [
+     "Evitata per il Riesling; utile per alcuni Chardonnay",
+     "Évitée pour le Riesling ; utile pour certains Chardonnay",
+     "Avoided for Riesling; used for some Chardonnay",
+     "Se evita en Riesling; útil en algunos Chardonnay"
+    ]
+   ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "Le fecce (lees)",
+    "Les lies",
+    "Lees",
+    "Las lías"
+   ],
+   "p": [
+    [
+     "Alla fine della fermentazione alcolica i lieviti muoiono e si depositano sul fondo del contenitore, formando uno strato di cellule morte chiamato feccia (in inglese lees). Nella vinificazione in bianco il produttore deve decidere che cosa farne: separare subito il vino da questo deposito oppure lasciarlo a contatto per un certo periodo.",
+     "À la fin de la fermentation alcoolique, les levures meurent et tombent au fond du contenant, formant une couche de cellules mortes appelée les lies. En vinification en blanc, le vinificateur doit décider quoi en faire : séparer rapidement le vin de ce dépôt ou le laisser en contact pendant un certain temps.",
+     "At the end of alcoholic fermentation the yeast die and fall to the bottom of the vessel, forming a layer of dead cells called the lees. In white winemaking the winemaker has to decide what to do with them: separate the wine from this deposit straight away, or leave the wine in contact with it for a while.",
+     "Al final de la fermentación alcohólica, las levaduras mueren y caen al fondo del recipiente, formando una capa de células muertas llamada lías. En la vinificación en blanco, el enólogo debe decidir qué hacer con ellas: separar enseguida el vino de ese depósito o dejarlo en contacto durante un tiempo."
+    ],
+    [
+     "Se si sceglie il contatto con le fecce, queste possono essere rimescolate nel vino durante la maturazione. L'effetto è doppio: il vino acquista più corpo e sviluppa aromi in più, come biscotto e pane. Sono aromi legati alla vinificazione, quindi diversi dal frutto dell'uva e dalle note di rovere come vaniglia o cocco.",
+     "Si l'on choisit le contact avec les lies, celles-ci peuvent être remises en suspension dans le vin pendant l'élevage. L'effet est double : le vin gagne en corps et développe des arômes supplémentaires, comme le biscuit et le pain. Ce sont des arômes liés à la vinification, donc différents du fruit du raisin et des notes de chêne comme la vanille ou la noix de coco.",
+     "If the winemaker opts for lees contact, the lees can be stirred up through the wine during maturation. The effect is twofold: the wine gains body and develops extra flavours such as biscuit and bread. These are winemaking flavours, so they are different from the grape's fruit and from oak notes such as vanilla or coconut.",
+     "Si se opta por el contacto con las lías, estas pueden removerse en el vino durante la crianza. El efecto es doble: el vino gana cuerpo y desarrolla aromas adicionales, como galleta y pan. Son aromas de vinificación, distintos por tanto de la fruta de la uva y de las notas de roble como la vainilla o el coco."
+    ],
+    [
+     "Nella degustazione, un bianco con corpo pieno e note di pane o biscotto può indicare un contatto prolungato con le fecce. Spesso questa scelta si combina con altre, come la malolattica o la maturazione in rovere, per costruire bianchi ricchi e complessi. Chi studia deve saper distinguere l'origine di ciascun aroma: frutto (uva), burro (malolattica), vaniglia (rovere nuovo), pane e biscotto (fecce).",
+     "En dégustation, un blanc au corps ample avec des notes de pain ou de biscuit peut signaler un contact prolongé avec les lies. Ce choix se combine souvent avec d'autres, comme la malolactique ou l'élevage en chêne, pour construire des blancs riches et complexes. Les personnes qui préparent l'examen doivent savoir relier chaque arôme à son origine : fruit (raisin), beurre (malolactique), vanille (chêne neuf), pain et biscuit (lies).",
+     "When tasting, a full-bodied white with bread or biscuit notes may point to extended lees contact. This choice is often combined with others, such as malolactic conversion or oak maturation, to build rich, complex whites. Anyone studying should be able to link each flavour to its source: fruit (grape), butter (malolactic), vanilla (new oak), bread and biscuit (lees).",
+     "En la cata, un blanco con cuerpo amplio y notas de pan o galleta puede indicar un contacto prolongado con las lías. Esta decisión suele combinarse con otras, como la maloláctica o la crianza en roble, para crear blancos ricos y complejos. Quien estudia debe saber relacionar cada aroma con su origen: fruta (uva), mantequilla (maloláctica), vainilla (roble nuevo), pan y galleta (lías)."
+    ]
+   ],
+   "keys": [
+    [
+     "Fecce = lieviti morti depositati dopo la fermentazione",
+     "Lies = levures mortes déposées après la fermentation",
+     "Lees = dead yeast that settle after fermentation",
+     "Lías = levaduras muertas depositadas tras la fermentación"
+    ],
+    [
+     "Rimescolate durante la maturazione → più corpo",
+     "Remises en suspension pendant l'élevage → plus de corps",
+     "Stirred during maturation → more body",
+     "Removidas durante la crianza → más cuerpo"
+    ],
+    [
+     "Aromi di biscotto e pane",
+     "Arômes de biscuit et de pain",
+     "Biscuit and bread flavours",
+     "Aromas de galleta y pan"
+    ]
+   ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "Assemblaggio e chiarifica",
+    "Assemblage et clarification",
+    "Blending and clarification",
+    "Mezcla (coupage) y clarificación"
+   ],
+   "p": [
+    [
+     "L'assemblaggio può avvenire in molte fasi della vinificazione ed è fondamentale per definire e mantenere lo stile di un vino. Un primo motivo è la costanza: chi acquista certi vini di marca si aspetta che abbiano lo stesso gusto ogni anno. Poiché ogni annata è diversa, il produttore può dover assemblare vini differenti per ritrovare sempre lo stesso profilo.",
+     "L'assemblage peut intervenir à de nombreuses étapes de la vinification et il est essentiel pour définir et maintenir le style d'un vin. Première raison : la régularité. Les consommateurs attendent de certains vins de marque qu'ils aient le même goût chaque année. Comme chaque millésime est différent, le vinificateur peut devoir assembler des vins différents pour retrouver toujours le même profil.",
+     "Blending can happen at many stages of winemaking and is key to defining and maintaining a wine's style. The first reason is consistency: consumers expect some branded wines to taste the same every year. Since every vintage is different, the winemaker may need to blend different wines each year to achieve the same profile.",
+     "La mezcla puede hacerse en muchas fases de la vinificación y es clave para definir y mantener el estilo de un vino. El primer motivo es la regularidad: los consumidores esperan que ciertos vinos de marca sepan igual cada año. Como cada añada es distinta, el enólogo puede tener que mezclar vinos diferentes para lograr siempre el mismo perfil."
+    ],
+    [
+     "Il secondo motivo è la complessità. Assemblando vini di vitigni diversi, di vigneti in posizioni diverse o ottenuti con tecniche diverse, si può creare un vino più complesso delle sue singole componenti. Ogni parte porta qualcosa: un vitigno può dare struttura, un altro frutto; un vino maturato in botte può aggiungere spezie a uno fermentato in acciaio.",
+     "La deuxième raison est la complexité. En assemblant des vins issus de cépages différents, de parcelles situées à des endroits différents ou élaborés selon des techniques différentes, on peut créer un vin plus complexe que chacune de ses composantes. Chaque partie apporte quelque chose : un cépage la structure, un autre le fruit ; un vin élevé en fût peut ajouter des épices à un vin fermenté en inox.",
+     "The second reason is complexity. By blending wines from different grape varieties, from vineyards in different locations or made with different techniques, a winemaker can create a wine that is more complex than its individual parts. Each part brings something: one variety structure, another fruit; a barrel-matured wine can add spice to one fermented in steel.",
+     "El segundo motivo es la complejidad. Mezclando vinos de variedades distintas, de viñedos situados en lugares distintos o elaborados con técnicas distintas, se puede crear un vino más complejo que cada uno de sus componentes. Cada parte aporta algo: una variedad estructura, otra fruta; un vino criado en barrica puede añadir especias a uno fermentado en acero."
+    ],
+    [
+     "Prima dell'imbottigliamento entra in gioco la chiarifica. La grande maggioranza dei consumatori si aspetta un vino perfettamente limpido, e tecniche come la filtrazione aiutano a ottenerlo. Alcuni produttori, però, pensano che queste tecniche possano togliere qualcosa al carattere del vino e scelgono di non usarle. Il risultato può essere un vino non perfettamente limpido nel bicchiere, senza che questo sia un difetto.",
+     "Avant la mise en bouteille intervient la clarification. La grande majorité des consommateurs attend un vin parfaitement limpide, et des techniques comme la filtration aident à y parvenir. Certains vinificateurs estiment cependant que ces techniques peuvent retirer quelque chose au caractère du vin et choisissent de ne pas les utiliser. Le vin peut alors être un peu moins limpide dans le verre, sans que ce soit un défaut.",
+     "Before bottling comes clarification. The vast majority of consumers expect a perfectly clear wine, and techniques such as filtration help achieve this. Some winemakers, however, feel these techniques can take something away from the wine's character and choose not to use them. The result can be a wine that is less than perfectly clear in the glass, which is not a fault in itself.",
+     "Antes del embotellado entra en juego la clarificación. La gran mayoría de los consumidores espera un vino perfectamente limpio, y técnicas como la filtración ayudan a conseguirlo. Algunos enólogos, sin embargo, creen que estas técnicas pueden restar carácter al vino y deciden no usarlas. El resultado puede ser un vino no del todo limpio en la copa, sin que eso sea un defecto."
+    ]
+   ],
+   "keys": [
+    [
+     "Assemblaggio possibile in molte fasi",
+     "Assemblage possible à de nombreuses étapes",
+     "Blending can happen at many stages",
+     "La mezcla puede hacerse en muchas fases"
+    ],
+    [
+     "Costanza: stesso gusto ogni anno per i vini di marca",
+     "Régularité : même goût chaque année pour les vins de marque",
+     "Consistency: same taste every year for branded wines",
+     "Regularidad: mismo sabor cada año en vinos de marca"
+    ],
+    [
+     "Complessità: vitigni, vigneti o tecniche diverse",
+     "Complexité : cépages, parcelles ou techniques différents",
+     "Complexity: different grapes, sites or techniques",
+     "Complejidad: variedades, viñedos o técnicas distintos"
+    ],
+    [
+     "Filtrazione = limpidezza; alcuni la evitano per il carattere",
+     "Filtration = limpidité ; certains l'évitent pour le caractère",
+     "Filtration = clarity; some skip it for character",
+     "Filtración = limpidez; algunos la evitan por el carácter"
+    ]
+   ]
+  },
+  {
+   "c": "p6",
+   "t": [
+    "L'invecchiamento in bottiglia di rossi e bianchi",
+    "Le vieillissement en bouteille des rouges et des blancs",
+    "Bottle ageing of red and white wines",
+    "El envejecimiento en botella de tintos y blancos"
+   ],
+   "p": [
+    [
+     "Una volta in bottiglia, la maggior parte dei vini non migliora: i profumi di frutta si affievoliscono e lasciano spazio a note vegetali. Solo alcuni vini sanno evolvere positivamente per diversi anni o perfino decenni. Di solito hanno acidità elevata; se dolci, molto zucchero residuo; se rossi, tannini elevati. Questi componenti aiutano a conservare il vino. Soprattutto, però, serve una concentrazione di aromi sufficiente a evolvere bene e ad aggiungere complessità.",
+     "Une fois en bouteille, la plupart des vins ne s'améliorent pas : les arômes de fruit s'estompent et laissent place à des notes végétales. Seuls certains vins savent évoluer positivement pendant plusieurs années, voire des décennies. Ils ont généralement une acidité élevée ; s'ils sont doux, beaucoup de sucre résiduel ; s'ils sont rouges, des tanins élevés. Ces composants aident à conserver le vin. Mais il faut surtout une concentration d'arômes suffisante pour bien évoluer et gagner en complexité.",
+     "Once bottled, most wines do not improve: their fruit flavours fade and are replaced by vegetal notes. Only some wines can develop positively over several years or even decades. They usually have high acidity; if sweet, high residual sugar; if red, high tannin. These components help preserve the wine. Above all, though, the wine needs enough concentration of flavour to evolve well and gain complexity.",
+     "Una vez embotellados, la mayoría de los vinos no mejoran: los aromas de fruta se apagan y dejan paso a notas vegetales. Solo algunos vinos son capaces de evolucionar positivamente durante varios años o incluso décadas. Suelen tener acidez elevada; si son dulces, mucho azúcar residual; si son tintos, taninos elevados. Estos componentes ayudan a conservar el vino. Pero, sobre todo, hace falta una concentración de aromas suficiente para evolucionar bien y ganar complejidad."
+    ],
+    [
+     "Con l'invecchiamento la frutta fresca diventa frutta secca e compaiono aromi complessi come fungo e cuoio. Nei bianchi il colore passa da limone a oro ad ambra e diventa più intenso. Possono svilupparsi caratteri terziari come albicocca secca, miele, frutta a guscio e spezie. Un bianco dorato o ambrato con note di miele indica quindi un vino evoluto.",
+     "Avec le vieillissement, le fruit frais devient fruit sec et des arômes complexes comme le champignon et le cuir apparaissent. Pour les blancs, la couleur passe de citron à or puis à ambre, et devient plus intense. Des caractères tertiaires peuvent se développer, comme l'abricot sec, le miel, les fruits à coque et les épices. Un blanc doré ou ambré aux notes de miel signale donc un vin évolué.",
+     "As wine ages, fresh fruit turns into dried fruit and complex flavours such as mushroom and leather appear. In white wines the colour moves from lemon to gold to amber and becomes deeper. Tertiary characteristics such as dried apricot, honey, nut and spice can develop. A gold or amber white with honeyed notes therefore signals a mature wine.",
+     "Con el envejecimiento, la fruta fresca pasa a fruta pasa y aparecen aromas complejos como champiñón y cuero. En los blancos, el color evoluciona de limón a oro y a ámbar, y se vuelve más intenso. Pueden desarrollarse caracteres terciarios como orejón, miel, frutos secos y especias. Un blanco dorado o ámbar con notas de miel indica, por tanto, un vino evolucionado."
+    ],
+    [
+     "Nei rossi il colore cambia da rubino a granato a aranciato (tawny) e infine marrone, e di solito diventa meno intenso. I tannini si fanno più morbidi e vellutati. Possono comparire aromi terziari di fico, prugna secca, carne e foglie bagnate. Con la maturazione nelle bottiglie di rosso si forma spesso un deposito; se è abbondante, il vino di norma va decantato prima del servizio.",
+     "Pour les rouges, la couleur passe de rubis à grenat puis à tuilé (tawny), et enfin à brun, en devenant généralement moins intense. Les tanins s'assouplissent et deviennent plus soyeux. Des arômes tertiaires de figue, de pruneau, de viande et de feuilles mouillées peuvent apparaître. Avec l'âge, un dépôt se forme souvent dans les bouteilles de rouge ; s'il est abondant, le vin est normalement carafé avant le service.",
+     "In red wines the colour changes from ruby to garnet to tawny and eventually brown, and usually becomes paler. The tannins become softer and smoother. Tertiary flavours such as fig, prune, meat and wet leaves can appear. As red wines mature, a deposit often forms in the bottle; if there is a lot of it, the wine will normally be decanted before serving.",
+     "En los tintos, el color pasa de rubí a granate y a teja (tawny), y finalmente a marrón, y suele volverse más pálido. Los taninos se vuelven más suaves y sedosos. Pueden aparecer aromas terciarios de higo, ciruela pasa, carne y hojas mojadas. Con la crianza en botella, en los tintos suele formarse un poso; si es abundante, normalmente se decanta el vino antes de servirlo."
+    ]
+   ],
+   "keys": [
+    [
+     "La maggior parte dei vini non migliora in bottiglia",
+     "La plupart des vins ne s'améliorent pas en bouteille",
+     "Most wines do not improve in bottle",
+     "La mayoría de los vinos no mejora en botella"
+    ],
+    [
+     "Per invecchiare: acidità, zucchero o tannino, e soprattutto concentrazione",
+     "Pour vieillir : acidité, sucre ou tanins, et surtout concentration",
+     "To age: acidity, sugar or tannin, and above all concentration",
+     "Para envejecer: acidez, azúcar o tanino y, sobre todo, concentración"
+    ],
+    [
+     "Bianchi: limone → oro → ambra; miele, albicocca secca, frutta a guscio",
+     "Blancs : citron → or → ambre ; miel, abricot sec, fruits à coque",
+     "Whites: lemon → gold → amber; honey, dried apricot, nut",
+     "Blancos: limón → oro → ámbar; miel, orejón, frutos secos"
+    ],
+    [
+     "Rossi: rubino → granato → tawny → marrone; più pallidi, deposito",
+     "Rouges : rubis → grenat → tuilé → brun ; plus pâles, dépôt",
+     "Reds: ruby → garnet → tawny → brown; paler, deposit",
+     "Tintos: rubí → granate → teja → marrón; más pálidos, poso"
+    ]
+   ]
   }
  ],
- "questions": [],
- "flash": []
+ "questions": [
+  {
+   "c": "p5",
+   "q": [
+    "Quali microrganismi svolgono la fermentazione alcolica?",
+    "Quels micro-organismes réalisent la fermentation alcoolique ?",
+    "Which microorganisms carry out alcoholic fermentation?",
+    "¿Qué microorganismos realizan la fermentación alcohólica?"
+   ],
+   "o": [
+    [
+     "Lieviti",
+     "Les levures",
+     "Yeast",
+     "Levaduras"
+    ],
+    [
+     "Batteri",
+     "Les bactéries",
+     "Bacteria",
+     "Bacterias"
+    ],
+    [
+     "Muffe",
+     "Les moisissures",
+     "Moulds",
+     "Mohos"
+    ],
+    [
+     "Enzimi",
+     "Les enzymes",
+     "Enzymes",
+     "Enzimas"
+    ]
+   ],
+   "e": [
+    "I lieviti si nutrono degli zuccheri del succo e li trasformano in alcol.",
+    "Les levures se nourrissent des sucres du jus et les transforment en alcool.",
+    "Yeast feed on the sugars in the juice and turn them into alcohol.",
+    "Las levaduras se alimentan de los azúcares del mosto y los convierten en alcohol."
+   ],
+   "d": [
+    "La fermentazione alcolica è l'unico processo comune a tutti i vini ed è opera dei lieviti. I batteri, invece, sono responsabili della fermentazione malolattica, che avviene dopo e abbassa l'acidità. Muffe ed enzimi non sono i protagonisti della produzione di alcol: confonderli con i lieviti è un errore frequente nelle domande d'esame.",
+    "La fermentation alcoolique est la seule étape commune à tous les vins et elle est réalisée par les levures. Les bactéries, elles, sont responsables de la fermentation malolactique, qui intervient ensuite et réduit l'acidité. Ni les moisissures ni les enzymes ne produisent l'alcool : les confondre avec les levures est une erreur fréquente à l'examen.",
+    "Alcoholic fermentation is the one process common to all wines, and it is carried out by yeast. Bacteria, on the other hand, are responsible for malolactic conversion, which happens afterwards and lowers acidity. Moulds and enzymes are not what produce the alcohol: mixing them up with yeast is a common exam mistake.",
+    "La fermentación alcohólica es el único proceso común a todos los vinos y la realizan las levaduras. Las bacterias, en cambio, son responsables de la fermentación maloláctica, que llega después y reduce la acidez. Ni los mohos ni las enzimas producen el alcohol: confundirlos con las levaduras es un error frecuente en el examen."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Oltre all'alcol, che cosa producono i lieviti durante la fermentazione?",
+    "Outre l'alcool, que produisent les levures pendant la fermentation ?",
+    "Apart from alcohol, what do yeast produce during fermentation?",
+    "Además del alcohol, ¿qué producen las levaduras durante la fermentación?"
+   ],
+   "o": [
+    [
+     "Anidride carbonica e calore",
+     "Du dioxyde de carbone et de la chaleur",
+     "Carbon dioxide and heat",
+     "Dióxido de carbono y calor"
+    ],
+    [
+     "Ossigeno e acidità",
+     "De l'oxygène et de l'acidité",
+     "Oxygen and acidity",
+     "Oxígeno y acidez"
+    ],
+    [
+     "Tannini e colore",
+     "Des tanins et de la couleur",
+     "Tannin and colour",
+     "Taninos y color"
+    ],
+    [
+     "Zucchero e acqua",
+     "Du sucre et de l'eau",
+     "Sugar and water",
+     "Azúcar y agua"
+    ]
+   ],
+   "e": [
+    "La fermentazione trasforma lo zucchero in alcol, CO2 e calore.",
+    "La fermentation transforme le sucre en alcool, CO2 et chaleur.",
+    "Fermentation turns sugar into alcohol, CO2 and heat.",
+    "La fermentación transforma el azúcar en alcohol, CO2 y calor."
+   ],
+   "d": [
+    "Mentre consumano gli zuccheri, i lieviti liberano alcol, anidride carbonica e calore. La CO2 nei vini fermi di solito si disperde nell'aria, mentre il calore va controllato perché la temperatura influenza lo stile. Colore e tannini non sono prodotti dai lieviti: vengono estratti dalle bucce delle uve nere, e il calore della fermentazione aiuta questa estrazione.",
+    "En consommant les sucres, les levures libèrent de l'alcool, du dioxyde de carbone et de la chaleur. Pour les vins tranquilles, le CO2 s'échappe généralement dans l'air, tandis que la chaleur doit être maîtrisée car la température influence le style. Couleur et tanins ne sont pas produits par les levures : ils sont extraits des peaux des raisins noirs, et la chaleur de la fermentation aide cette extraction.",
+    "As they consume sugar, yeast release alcohol, carbon dioxide and heat. For still wines the CO2 usually escapes into the air, while the heat must be controlled because temperature affects style. Colour and tannin are not made by yeast: they are extracted from the skins of black grapes, and the heat of fermentation helps that extraction.",
+    "Al consumir los azúcares, las levaduras liberan alcohol, dióxido de carbono y calor. En los vinos tranquilos, el CO2 suele escapar al aire, mientras que el calor debe controlarse porque la temperatura influye en el estilo. El color y los taninos no los producen las levaduras: se extraen de los hollejos de las uvas tintas, y el calor de la fermentación ayuda a esa extracción."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Che cosa determina principalmente il grado alcolico di un vino secco?",
+    "Qu'est-ce qui détermine principalement le degré d'alcool d'un vin sec ?",
+    "What mainly determines the alcohol level of a dry wine?",
+    "¿Qué determina principalmente la graduación de un vino seco?"
+   ],
+   "o": [
+    [
+     "La quantità di zucchero nell'uva",
+     "La quantité de sucre dans le raisin",
+     "The amount of sugar in the grapes",
+     "La cantidad de azúcar en la uva"
+    ],
+    [
+     "Il tipo di contenitore usato",
+     "Le type de contenant utilisé",
+     "The type of vessel used",
+     "El tipo de recipiente utilizado"
+    ],
+    [
+     "La durata della conservazione",
+     "La durée de conservation",
+     "The length of storage",
+     "La duración del almacenamiento"
+    ],
+    [
+     "La quantità di tannino nelle bucce",
+     "La quantité de tanins dans les peaux",
+     "The amount of tannin in the skins",
+     "La cantidad de tanino en los hollejos"
+    ]
+   ],
+   "e": [
+    "Più zucchero c'è nell'uva, più alcol possono produrre i lieviti.",
+    "Plus il y a de sucre dans le raisin, plus les levures peuvent produire d'alcool.",
+    "The more sugar in the grapes, the more alcohol the yeast can make.",
+    "Cuanto más azúcar tiene la uva, más alcohol pueden producir las levaduras."
+   ],
+   "d": [
+    "In un vino secco i lieviti consumano tutto lo zucchero disponibile, quindi l'alcol finale dipende da quanto zucchero c'era all'inizio, cioè dalla maturità dell'uva. Per questo i vini di climi caldi tendono a essere più alcolici. Contenitori, durata della conservazione e tannini influenzano altri aspetti dello stile, ma non la quantità di alcol prodotta.",
+    "Dans un vin sec, les levures consomment tout le sucre disponible ; l'alcool final dépend donc de la quantité de sucre au départ, c'est-à-dire de la maturité du raisin. C'est pourquoi les vins de climats chauds ont tendance à être plus alcoolisés. Contenants, durée de conservation et tanins influencent d'autres aspects du style, mais pas la quantité d'alcool produite.",
+    "In a dry wine the yeast use up all the available sugar, so the final alcohol depends on how much sugar there was at the start, in other words on grape ripeness. That is why warm-climate wines tend to be higher in alcohol. Vessels, storage time and tannins affect other aspects of style, but not how much alcohol is produced.",
+    "En un vino seco, las levaduras consumen todo el azúcar disponible, así que el alcohol final depende del azúcar inicial, es decir, de la madurez de la uva. Por eso los vinos de climas cálidos tienden a ser más alcohólicos. Los recipientes, el tiempo de almacenamiento y los taninos influyen en otros aspectos del estilo, pero no en la cantidad de alcohol producida."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Qual è l'intervallo tipico di alcol della maggior parte dei vini secchi?",
+    "Quelle est la fourchette d'alcool typique de la plupart des vins secs ?",
+    "What is the typical alcohol range of most dry wines?",
+    "¿Cuál es el rango de alcohol típico de la mayoría de los vinos secos?"
+   ],
+   "o": [
+    [
+     "Circa 11,5–16% vol",
+     "Environ 11,5–16 % vol",
+     "About 11.5–16% abv",
+     "Aprox. 11,5–16 % vol."
+    ],
+    [
+     "Circa 5–9% vol",
+     "Environ 5–9 % vol",
+     "About 5–9% abv",
+     "Aprox. 5–9 % vol."
+    ],
+    [
+     "Circa 15–20% vol",
+     "Environ 15–20 % vol",
+     "About 15–20% abv",
+     "Aprox. 15–20 % vol."
+    ],
+    [
+     "Circa 18–22% vol",
+     "Environ 18–22 % vol",
+     "About 18–22% abv",
+     "Aprox. 18–22 % vol."
+    ]
+   ],
+   "e": [
+    "La maggior parte dei vini secchi ha tra circa 11,5% e 16% vol.",
+    "La plupart des vins secs titrent entre environ 11,5 % et 16 % vol.",
+    "Most dry wines sit between about 11.5% and 16% abv.",
+    "La mayoría de los vinos secos tienen entre un 11,5 % y un 16 % vol."
+   ],
+   "d": [
+    "Il grado alcolico dei vini secchi dipende dallo zucchero dell'uva e cade di solito tra 11,5% e 16% vol. L'intervallo 15–20% vol corrisponde invece ai vini fortificati, in cui l'alcol viene aggiunto per fermare la fermentazione. Valori molto bassi, sotto il 10%, non sono tipici dei vini secchi, perché indicano che non tutto lo zucchero si è trasformato.",
+    "Le degré des vins secs dépend du sucre du raisin et se situe en général entre 11,5 % et 16 % vol. La fourchette 15–20 % vol correspond en revanche aux vins mutés, où l'alcool est ajouté pour arrêter la fermentation. Des valeurs très basses, sous 10 %, ne sont pas typiques des vins secs, car elles signalent que tout le sucre n'a pas été transformé.",
+    "The alcohol level of dry wines depends on grape sugar and usually falls between 11.5% and 16% abv. The 15–20% abv range belongs to fortified wines, where alcohol is added to stop fermentation. Very low levels, under 10%, are not typical of dry wines, because they suggest that not all the sugar has been converted.",
+    "La graduación de los vinos secos depende del azúcar de la uva y suele situarse entre el 11,5 % y el 16 % vol. El rango del 15–20 % vol. corresponde a los vinos encabezados, en los que se añade alcohol para detener la fermentación. Valores muy bajos, por debajo del 10 %, no son típicos de vinos secos, porque indican que no todo el azúcar se ha transformado."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Nella vinificazione in bianco, quando avviene di solito la pressatura?",
+    "En vinification en blanc, quand a lieu en général le pressurage ?",
+    "In white winemaking, when does pressing usually take place?",
+    "En la vinificación en blanco, ¿cuándo se suele prensar?"
+   ],
+   "o": [
+    [
+     "Prima della fermentazione alcolica",
+     "Avant la fermentation alcoolique",
+     "Before alcoholic fermentation",
+     "Antes de la fermentación alcohólica"
+    ],
+    [
+     "Dopo la fermentazione alcolica",
+     "Après la fermentation alcoolique",
+     "After alcoholic fermentation",
+     "Después de la fermentación alcohólica"
+    ],
+    [
+     "Durante la maturazione in rovere",
+     "Pendant l'élevage en chêne",
+     "During oak maturation",
+     "Durante la crianza en roble"
+    ],
+    [
+     "Subito prima dell'imbottigliamento",
+     "Juste avant la mise en bouteille",
+     "Just before bottling",
+     "Justo antes del embotellado"
+    ]
+   ],
+   "e": [
+    "Nei bianchi l'uva viene pigiata e pressata prima di fermentare, senza bucce.",
+    "Pour les blancs, le raisin est foulé et pressé avant de fermenter, sans les peaux.",
+    "For whites, grapes are crushed and pressed before fermenting, without skins.",
+    "En los blancos, la uva se estruja y prensa antes de fermentar, sin hollejos."
+   ],
+   "d": [
+    "La sequenza tipica di un bianco è pigiatura, pressatura, fermentazione, conservazione o maturazione e confezionamento. Il succo fermenta separato dalle bucce, che di solito si scartano, perché non servono colore e tannini. Nei rossi succede il contrario: la pressatura arriva dopo la fermentazione, perché le bucce devono restare a contatto con il mosto in fermentazione.",
+    "La séquence type d'un blanc est : foulage, pressurage, fermentation, conservation ou élevage, conditionnement. Le jus fermente séparé des peaux, généralement écartées, car on ne cherche ni couleur ni tanins. Pour les rouges, c'est l'inverse : le pressurage intervient après la fermentation, car les peaux doivent rester en contact avec le moût en fermentation.",
+    "The typical order for a white is crushing, pressing, fermentation, storage or maturation, packaging. The juice ferments apart from the skins, which are usually discarded, because colour and tannin are not wanted. For reds it is the opposite: pressing comes after fermentation, because the skins must stay in contact with the fermenting juice.",
+    "El orden típico de un blanco es estrujado, prensado, fermentación, almacenamiento o crianza y envasado. El mosto fermenta separado de los hollejos, que suelen desecharse, porque no se buscan color ni taninos. En los tintos ocurre lo contrario: el prensado llega después de la fermentación, porque los hollejos deben permanecer en contacto con el mosto que fermenta."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Qual è la sequenza tipica per un vino rosso secco?",
+    "Quelle est la séquence type pour un vin rouge sec ?",
+    "What is the typical order for a dry red wine?",
+    "¿Cuál es el orden típico para un vino tinto seco?"
+   ],
+   "o": [
+    [
+     "Pigiatura, fermentazione, sgrondo, pressatura",
+     "Foulage, fermentation, écoulage, pressurage",
+     "Crushing, fermentation, draining, pressing",
+     "Estrujado, fermentación, escurrido, prensado"
+    ],
+    [
+     "Pigiatura, pressatura, fermentazione, sgrondo",
+     "Foulage, pressurage, fermentation, écoulage",
+     "Crushing, pressing, fermentation, draining",
+     "Estrujado, prensado, fermentación, escurrido"
+    ],
+    [
+     "Pressatura, pigiatura, sgrondo, fermentazione",
+     "Pressurage, foulage, écoulage, fermentation",
+     "Pressing, crushing, draining, fermentation",
+     "Prensado, estrujado, escurrido, fermentación"
+    ],
+    [
+     "Sgrondo, pigiatura, fermentazione, pressatura",
+     "Écoulage, foulage, fermentation, pressurage",
+     "Draining, crushing, fermentation, pressing",
+     "Escurrido, estrujado, fermentación, prensado"
+    ]
+   ],
+   "e": [
+    "Nei rossi le bucce fermentano con il succo; sgrondo e pressatura vengono dopo.",
+    "Pour les rouges, les peaux fermentent avec le jus ; écoulage et pressurage viennent après.",
+    "In reds the skins ferment with the juice; draining and pressing come afterwards.",
+    "En los tintos los hollejos fermentan con el mosto; escurrido y prensado vienen después."
+   ],
+   "d": [
+    "Un rosso deve nascere da uve nere e le bucce devono restare nel mosto durante la fermentazione per cedere colore e tannini. Solo a fermentazione finita il vino viene separato dalle bucce per sgrondo, e il vino rimasto nelle vinacce viene recuperato con la pressatura. Seguono conservazione o maturazione e infine il confezionamento.",
+    "Un rouge doit être fait de raisins noirs, et les peaux doivent rester dans le moût pendant la fermentation pour céder couleur et tanins. Ce n'est qu'à la fin de la fermentation que le vin est écoulé, puis le vin restant dans le marc est récupéré au pressurage. Viennent ensuite la conservation ou l'élevage, puis le conditionnement.",
+    "A red must be made from black grapes, and the skins must stay in the juice during fermentation to give colour and tannin. Only when fermentation is finished is the wine drained off the skins, and the wine left in them is recovered by pressing. Storage or maturation and finally packaging follow.",
+    "Un tinto debe hacerse con uvas tintas y los hollejos deben permanecer en el mosto durante la fermentación para ceder color y taninos. Solo al terminar la fermentación se escurre el vino y el que queda en los hollejos se recupera con el prensado. Después vienen el almacenamiento o la crianza y, por último, el envasado."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Perché si può ottenere un vino bianco da uve nere?",
+    "Pourquoi peut-on faire un vin blanc avec des raisins noirs ?",
+    "Why can white wine be made from black grapes?",
+    "¿Por qué se puede hacer vino blanco con uvas tintas?"
+   ],
+   "o": [
+    [
+     "Il colore si trova solo nella buccia",
+     "La couleur se trouve uniquement dans la peau",
+     "The colour is found only in the skin",
+     "El color se encuentra solo en el hollejo"
+    ],
+    [
+     "Il colore sparisce con la fermentazione",
+     "La couleur disparaît avec la fermentation",
+     "The colour disappears during fermentation",
+     "El color desaparece con la fermentación"
+    ],
+    [
+     "Il colore si trova solo nei semi",
+     "La couleur se trouve uniquement dans les pépins",
+     "The colour is found only in the seeds",
+     "El color se encuentra solo en las pepitas"
+    ],
+    [
+     "Il colore viene rimosso dal rovere",
+     "La couleur est retirée par le chêne",
+     "The colour is removed by oak",
+     "El color lo elimina el roble"
+    ]
+   ],
+   "e": [
+    "La polpa delle uve nere è chiara: pressandole delicatamente il succo resta incolore.",
+    "La pulpe des raisins noirs est claire : pressés doucement, le jus reste incolore.",
+    "Black grape pulp is clear, so gentle pressing keeps the juice colourless.",
+    "La pulpa de la uva tinta es clara: prensándola con suavidad, el mosto queda incoloro."
+   ],
+   "d": [
+    "Nelle uve nere i pigmenti colorati si trovano soltanto nella buccia, non nella polpa. Se l'uva viene pressata molto delicatamente, il succo esce quasi senza colore e, fermentato lontano dalle bucce, dà un vino bianco. Al contrario, per un rosso le bucce devono partecipare alla fermentazione proprio per cedere il loro colore.",
+    "Dans les raisins noirs, les pigments colorés se trouvent seulement dans la peau, pas dans la pulpe. Si le raisin est pressé très doucement, le jus sort presque incolore et, fermenté loin des peaux, donne un vin blanc. Pour un rouge, au contraire, les peaux doivent participer à la fermentation justement pour céder leur couleur.",
+    "In black grapes the coloured pigments are found only in the skin, not the pulp. If the grapes are pressed very gently, the juice comes out almost colourless and, fermented away from the skins, makes a white wine. For a red, by contrast, the skins must take part in fermentation precisely to release their colour.",
+    "En las uvas tintas los pigmentos de color están solo en el hollejo, no en la pulpa. Si la uva se prensa con mucha suavidad, el mosto sale casi sin color y, fermentado lejos de los hollejos, da un vino blanco. En cambio, para un tinto los hollejos deben participar en la fermentación precisamente para ceder su color."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Nel metodo della macerazione breve per il rosato, quando si separano le bucce?",
+    "Dans la méthode de macération courte pour le rosé, quand sépare-t-on les peaux ?",
+    "In the short maceration method for rosé, when are the skins removed?",
+    "En el método de maceración corta para rosado, ¿cuándo se separan los hollejos?"
+   ],
+   "o": [
+    [
+     "Dopo poche ore di fermentazione",
+     "Après quelques heures de fermentation",
+     "After a few hours of fermentation",
+     "Tras unas horas de fermentación"
+    ],
+    [
+     "Dopo diverse settimane di fermentazione",
+     "Après plusieurs semaines de fermentation",
+     "After several weeks of fermentation",
+     "Tras varias semanas de fermentación"
+    ],
+    [
+     "Prima della pigiatura",
+     "Avant le foulage",
+     "Before crushing",
+     "Antes del estrujado"
+    ],
+    [
+     "Solo durante l'imbottigliamento",
+     "Seulement à la mise en bouteille",
+     "Only at bottling",
+     "Solo en el embotellado"
+    ]
+   ],
+   "e": [
+    "Le bucce restano a contatto solo poche ore, quanto basta per un colore leggero.",
+    "Les peaux restent en contact quelques heures seulement, juste assez pour une couleur légère.",
+    "The skins stay in contact for just a few hours, enough for a light colour.",
+    "Los hollejos solo están en contacto unas horas, lo justo para un color ligero."
+   ],
+   "d": [
+    "Con la macerazione breve si usano uve nere e si comincia come per un rosso, ma il mosto in fermentazione viene separato dalle bucce dopo poche ore. Il breve contatto dà un colore rosa e pochi tannini. La fermentazione prosegue poi senza bucce, alle temperature più basse tipiche dei bianchi, e i rosati raramente passano in rovere.",
+    "Avec la macération courte, on utilise des raisins noirs et on commence comme pour un rouge, mais le moût en fermentation est séparé des peaux au bout de quelques heures. Ce bref contact donne une couleur rose et peu de tanins. La fermentation se poursuit ensuite sans les peaux, aux températures plus basses des blancs, et les rosés passent rarement en chêne.",
+    "With short maceration, black grapes are used and the process starts like a red, but the fermenting juice is drained off the skins after a few hours. The brief contact gives a pink colour and little tannin. Fermentation then continues without the skins, at the cooler temperatures used for whites, and rosés rarely see oak.",
+    "Con la maceración corta se usan uvas tintas y se empieza como un tinto, pero el mosto en fermentación se separa de los hollejos tras unas horas. Ese breve contacto da un color rosado y pocos taninos. La fermentación sigue sin hollejos, a las temperaturas más bajas propias de los blancos, y los rosados rara vez pasan por roble."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Quale metodo per il rosato non è consentito in molte zone d'Europa?",
+    "Quelle méthode de rosé n'est pas autorisée dans de nombreuses régions d'Europe ?",
+    "Which rosé method is not permitted in many parts of Europe?",
+    "¿Qué método de rosado no está permitido en muchas zonas de Europa?"
+   ],
+   "o": [
+    [
+     "Assemblare vino rosso e vino bianco",
+     "Assembler vin rouge et vin blanc",
+     "Blending red wine with white wine",
+     "Mezclar vino tinto con vino blanco"
+    ],
+    [
+     "Macerazione breve di uve nere",
+     "Macération courte de raisins noirs",
+     "Short maceration of black grapes",
+     "Maceración corta de uvas tintas"
+    ],
+    [
+     "Fermentare a bassa temperatura",
+     "Fermenter à basse température",
+     "Fermenting at low temperature",
+     "Fermentar a baja temperatura"
+    ],
+    [
+     "Usare vasche in acciaio inox",
+     "Utiliser des cuves inox",
+     "Using stainless steel tanks",
+     "Usar depósitos de acero inoxidable"
+    ]
+   ],
+   "e": [
+    "Il rosato da assemblaggio di rosso e bianco è vietato in molte zone europee.",
+    "Le rosé par assemblage de rouge et de blanc est interdit dans de nombreuses régions européennes.",
+    "Rosé made by blending red and white is banned in many European regions.",
+    "El rosado por mezcla de tinto y blanco está prohibido en muchas zonas europeas."
+   ],
+   "d": [
+    "I due metodi più comuni per il rosato sono la macerazione breve e l'assemblaggio. Nel secondo si mescola un vino rosso con un vino bianco per ottenere il colore rosa. È una tecnica semplice, ma in molte parti d'Europa non è permessa. La macerazione breve, invece, è ammessa e molto diffusa.",
+    "Les deux méthodes les plus courantes pour le rosé sont la macération courte et l'assemblage. Dans la seconde, on mélange un vin rouge et un vin blanc pour obtenir la couleur rose. C'est une technique simple, mais elle n'est pas autorisée dans de nombreuses régions d'Europe. La macération courte, elle, est permise et très répandue.",
+    "The two most common rosé methods are short maceration and blending. In blending, a red wine is mixed with a white wine to achieve the pink colour. It is a simple technique, but it is not permitted in many parts of Europe. Short maceration, by contrast, is allowed and widely used.",
+    "Los dos métodos más comunes para el rosado son la maceración corta y la mezcla. En la mezcla se combina un vino tinto con un vino blanco para obtener el color rosado. Es una técnica sencilla, pero no está permitida en muchas zonas de Europa. La maceración corta, en cambio, está permitida y muy extendida."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Perché i rossi fermentano a temperature più alte dei bianchi?",
+    "Pourquoi les rouges fermentent-ils à des températures plus élevées que les blancs ?",
+    "Why are red wines fermented at higher temperatures than whites?",
+    "¿Por qué los tintos fermentan a temperaturas más altas que los blancos?"
+   ],
+   "o": [
+    [
+     "Per estrarre colore e tannini dalle bucce",
+     "Pour extraire couleur et tanins des peaux",
+     "To extract colour and tannin from the skins",
+     "Para extraer color y taninos de los hollejos"
+    ],
+    [
+     "Per conservare gli aromi fruttati delicati",
+     "Pour préserver les arômes fruités délicats",
+     "To preserve delicate fruity aromas",
+     "Para conservar los aromas afrutados delicados"
+    ],
+    [
+     "Per aumentare l'acidità del vino",
+     "Pour augmenter l'acidité du vin",
+     "To increase the wine's acidity",
+     "Para aumentar la acidez del vino"
+    ],
+    [
+     "Per fermare i lieviti prima del tempo",
+     "Pour arrêter les levures prématurément",
+     "To stop the yeast early",
+     "Para detener antes las levaduras"
+    ]
+   ],
+   "e": [
+    "Il calore favorisce l'estrazione di colore e tannini dalle bucce.",
+    "La chaleur favorise l'extraction de la couleur et des tanins des peaux.",
+    "Heat helps extract colour and tannin from the skins.",
+    "El calor favorece la extracción de color y taninos de los hollejos."
+   ],
+   "d": [
+    "I rossi fermentano tra circa 20 e 32 °C, mentre i bianchi tra 12 e 22 °C. Le temperature più alte servono ai rossi per estrarre dalle bucce colore e tannini, che sono parte essenziale del loro stile. I bianchi, che fermentano senza bucce, beneficiano invece del fresco, che esalta gli aromi fruttati.",
+    "Les rouges fermentent entre 20 et 32 °C environ, les blancs entre 12 et 22 °C. Les températures plus élevées permettent aux rouges d'extraire des peaux la couleur et les tanins, essentiels à leur style. Les blancs, qui fermentent sans les peaux, profitent au contraire de la fraîcheur, qui met en valeur les arômes fruités.",
+    "Reds ferment at roughly 20–32°C, whites at 12–22°C. The higher temperatures allow reds to extract colour and tannin from the skins, which are essential to their style. Whites, which ferment without skins, benefit instead from cooler temperatures, which bring out fruity aromas.",
+    "Los tintos fermentan entre 20 y 32 °C aproximadamente, los blancos entre 12 y 22 °C. Las temperaturas más altas permiten a los tintos extraer de los hollejos color y taninos, esenciales para su estilo. Los blancos, que fermentan sin hollejos, se benefician en cambio del frescor, que realza los aromas afrutados."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Quale intervallo di temperatura è tipico per la fermentazione dei bianchi?",
+    "Quelle fourchette de température est typique pour la fermentation des blancs ?",
+    "Which temperature range is typical for fermenting white wines?",
+    "¿Qué rango de temperatura es típico para fermentar blancos?"
+   ],
+   "o": [
+    [
+     "12–22 °C",
+     "12–22 °C",
+     "12–22°C (54–72°F)",
+     "12–22 °C"
+    ],
+    [
+     "20–32 °C",
+     "20–32 °C",
+     "20–32°C (68–90°F)",
+     "20–32 °C"
+    ],
+    [
+     "2–8 °C",
+     "2–8 °C",
+     "2–8°C (36–46°F)",
+     "2–8 °C"
+    ],
+    [
+     "30–40 °C",
+     "30–40 °C",
+     "30–40°C (86–104°F)",
+     "30–40 °C"
+    ]
+   ],
+   "e": [
+    "I bianchi fermentano a 12–22 °C, più freschi dei rossi.",
+    "Les blancs fermentent à 12–22 °C, plus frais que les rouges.",
+    "Whites ferment at 12–22°C, cooler than reds.",
+    "Los blancos fermentan a 12–22 °C, más frescos que los tintos."
+   ],
+   "d": [
+    "I bianchi fermentano tra circa 12 e 22 °C. Nella parte bassa dell'intervallo la fermentazione può sviluppare aromi fruttati marcati, molto ricercati in molti bianchi freschi. L'intervallo 20–32 °C è quello dei rossi, che hanno bisogno di calore per estrarre colore e tannini. I rosati da macerazione breve, dopo lo sgrondo, fermentano a temperature simili ai bianchi.",
+    "Les blancs fermentent entre 12 et 22 °C environ. Dans le bas de la fourchette, la fermentation peut développer des arômes fruités marqués, très recherchés pour de nombreux blancs frais. La fourchette 20–32 °C est celle des rouges, qui ont besoin de chaleur pour extraire couleur et tanins. Les rosés de macération courte, une fois écoulés, fermentent à des températures proches des blancs.",
+    "Whites ferment at roughly 12–22°C. At the cooler end of that range, fermentation can produce pronounced fruity aromas, prized in many fresh whites. The 20–32°C range belongs to reds, which need heat to extract colour and tannin. Short-maceration rosés, once drained, ferment at temperatures similar to whites.",
+    "Los blancos fermentan entre 12 y 22 °C aproximadamente. En la parte baja del rango, la fermentación puede desarrollar aromas afrutados marcados, muy buscados en muchos blancos frescos. El rango de 20–32 °C es el de los tintos, que necesitan calor para extraer color y taninos. Los rosados de maceración corta, tras el escurrido, fermentan a temperaturas parecidas a las de los blancos."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Un bianco fermentato a temperatura molto bassa avrà più probabilmente...",
+    "Un blanc fermenté à très basse température aura plus probablement...",
+    "A white wine fermented at a very cool temperature is most likely to show...",
+    "Un blanco fermentado a temperatura muy baja tendrá más probablemente..."
+   ],
+   "o": [
+    [
+     "Aromi fruttati marcati",
+     "Des arômes fruités marqués",
+     "Pronounced fruity aromas",
+     "Aromas afrutados marcados"
+    ],
+    [
+     "Tannini elevati",
+     "Des tanins élevés",
+     "High tannin",
+     "Taninos elevados"
+    ],
+    [
+     "Aromi di nocciola e caramello",
+     "Des arômes de noisette et de caramel",
+     "Nut and caramel aromas",
+     "Aromas de avellana y caramelo"
+    ],
+    [
+     "Colore ambrato intenso",
+     "Une couleur ambrée intense",
+     "A deep amber colour",
+     "Un color ámbar intenso"
+    ]
+   ],
+   "e": [
+    "Le fermentazioni fresche dei bianchi possono dare aromi fruttati marcati.",
+    "Les fermentations fraîches des blancs peuvent donner des arômes fruités marqués.",
+    "Cool white fermentations can produce pronounced fruity aromas.",
+    "Las fermentaciones frías de blancos pueden dar aromas afrutados marcados."
+   ],
+   "d": [
+    "Nella parte bassa dell'intervallo dei bianchi, intorno ai 12 °C, la fermentazione può esaltare aromi fruttati marcati. Nocciola e caramello derivano invece dal contatto con l'ossigeno durante la maturazione in botte, mentre il colore ambrato è segno di invecchiamento. I tannini elevati non riguardano i bianchi, che fermentano senza bucce.",
+    "Dans le bas de la fourchette des blancs, autour de 12 °C, la fermentation peut faire ressortir des arômes fruités marqués. Noisette et caramel proviennent du contact avec l'oxygène pendant l'élevage en fût, et la couleur ambrée est un signe de vieillissement. Les tanins élevés ne concernent pas les blancs, qui fermentent sans les peaux.",
+    "At the cool end of the white range, around 12°C, fermentation can bring out pronounced fruity aromas. Nut and caramel come from contact with oxygen during barrel maturation, while an amber colour is a sign of age. High tannin does not apply to whites, which ferment without their skins.",
+    "En la parte baja del rango de los blancos, en torno a 12 °C, la fermentación puede realzar aromas afrutados marcados. La avellana y el caramelo proceden del contacto con el oxígeno durante la crianza en barrica, y el color ámbar es señal de envejecimiento. Los taninos elevados no afectan a los blancos, que fermentan sin hollejos."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Che cos'è il «cappello» nella vinificazione in rosso?",
+    "Qu'est-ce que le « chapeau » en vinification en rouge ?",
+    "What is the \"cap\" in red winemaking?",
+    "¿Qué es el «sombrero» en la vinificación en tinto?"
+   ],
+   "o": [
+    [
+     "Lo strato di bucce che sale in superficie",
+     "La couche de peaux qui remonte en surface",
+     "The layer of skins that floats to the top",
+     "La capa de hollejos que sube a la superficie"
+    ],
+    [
+     "Lo strato di lieviti morti sul fondo",
+     "La couche de levures mortes au fond",
+     "The layer of dead yeast at the bottom",
+     "La capa de levaduras muertas en el fondo"
+    ],
+    [
+     "Il tappo usato per chiudere la vasca",
+     "Le bouchon qui ferme la cuve",
+     "The lid used to close the vessel",
+     "La tapa que cierra el depósito"
+    ],
+    [
+     "La schiuma di CO2 sopra il vino",
+     "La mousse de CO2 sur le vin",
+     "The CO2 foam on top of the wine",
+     "La espuma de CO2 sobre el vino"
+    ]
+   ],
+   "e": [
+    "Le bucce galleggiano e formano uno strato spesso detto cappello.",
+    "Les peaux flottent et forment une couche épaisse appelée chapeau.",
+    "The skins float and form a thick layer called the cap.",
+    "Los hollejos flotan y forman una capa gruesa llamada sombrero."
+   ],
+   "d": [
+    "Durante la fermentazione dei rossi le bucce salgono in superficie e formano il cappello. Se resta indisturbato, cede poco colore e tannino, quindi va rimescolato spesso con il liquido tramite follatura o rimontaggio. Lo strato di lieviti morti sul fondo, invece, si chiama feccia e riguarda soprattutto la vinificazione in bianco.",
+    "Pendant la fermentation des rouges, les peaux remontent et forment le chapeau. Laissé tranquille, il cède peu de couleur et de tanins ; il faut donc le mélanger souvent au liquide par pigeage ou remontage. La couche de levures mortes au fond, elle, s'appelle les lies et concerne surtout la vinification en blanc.",
+    "During red fermentation the skins rise and form the cap. Left undisturbed it gives up little colour and tannin, so it must be mixed often with the liquid by punching down or pumping over. The layer of dead yeast at the bottom, on the other hand, is called the lees and mostly matters in white winemaking.",
+    "Durante la fermentación de los tintos, los hollejos suben y forman el sombrero. Si se deja tranquilo, cede poco color y tanino, así que hay que mezclarlo a menudo con el líquido mediante bazuqueo o remontado. La capa de levaduras muertas en el fondo, en cambio, se llama lías y afecta sobre todo a la vinificación en blanco."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "In quale tecnica il liquido dal fondo della vasca viene spruzzato sopra il cappello?",
+    "Dans quelle technique le liquide du bas de la cuve est-il arrosé sur le chapeau ?",
+    "In which technique is liquid from the bottom of the vessel sprayed over the cap?",
+    "¿En qué técnica se riega el líquido del fondo del depósito sobre el sombrero?"
+   ],
+   "o": [
+    [
+     "Rimontaggio",
+     "Remontage",
+     "Pumping over",
+     "Remontado"
+    ],
+    [
+     "Follatura",
+     "Pigeage",
+     "Punching down",
+     "Bazuqueo"
+    ],
+    [
+     "Pressatura",
+     "Pressurage",
+     "Pressing",
+     "Prensado"
+    ],
+    [
+     "Sgrondo",
+     "Écoulage",
+     "Draining",
+     "Escurrido"
+    ]
+   ],
+   "e": [
+    "Nel rimontaggio il liquido viene pompato con un tubo e spruzzato sul cappello.",
+    "Au remontage, le liquide est pompé par un tuyau et arrosé sur le chapeau.",
+    "In pumping over, liquid is pumped through a hose and sprayed over the cap.",
+    "En el remontado, el líquido se bombea por una manguera y se riega sobre el sombrero."
+   ],
+   "d": [
+    "Rimontaggio e follatura servono entrambi a mescolare bucce e liquido per estrarre colore e tannini. Nel rimontaggio si preleva il liquido dal fondo della vasca e lo si spruzza sopra il cappello; nella follatura si usa uno stantuffo per spingere il cappello giù nel liquido. Sgrondo e pressatura avvengono invece a fermentazione conclusa.",
+    "Remontage et pigeage servent tous deux à mélanger peaux et liquide pour extraire couleur et tanins. Au remontage, on prélève le liquide du bas de la cuve et on l'arrose sur le chapeau ; au pigeage, on utilise un piston pour enfoncer le chapeau dans le liquide. Écoulage et pressurage ont lieu après la fermentation.",
+    "Pumping over and punching down both mix skins and liquid to extract colour and tannin. In pumping over, liquid is drawn from the bottom of the vessel and sprayed over the cap; in punching down, a plunger pushes the cap down into the liquid. Draining and pressing take place once fermentation has finished.",
+    "El remontado y el bazuqueo sirven para mezclar hollejos y líquido y extraer color y taninos. En el remontado se toma el líquido del fondo del depósito y se riega sobre el sombrero; en el bazuqueo se usa un émbolo para hundir el sombrero en el líquido. El escurrido y el prensado se hacen al terminar la fermentación."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "In un'annata fresca, perché il produttore potrebbe aumentare lo zucchero del mosto?",
+    "Lors d'un millésime frais, pourquoi le vinificateur pourrait-il augmenter le sucre du moût ?",
+    "In a cool vintage, why might a winemaker increase the sugar in the juice?",
+    "En una añada fresca, ¿por qué podría el enólogo aumentar el azúcar del mosto?"
+   ],
+   "o": [
+    [
+     "Per evitare un vino poco alcolico e leggero",
+     "Pour éviter un vin peu alcoolisé et léger",
+     "To avoid a wine low in alcohol and body",
+     "Para evitar un vino con poco alcohol y cuerpo"
+    ],
+    [
+     "Per rendere il vino dolce",
+     "Pour rendre le vin doux",
+     "To make the wine sweet",
+     "Para que el vino sea dulce"
+    ],
+    [
+     "Per abbassare l'acidità",
+     "Pour baisser l'acidité",
+     "To lower the acidity",
+     "Para bajar la acidez"
+    ],
+    [
+     "Per estrarre più tannino",
+     "Pour extraire plus de tanins",
+     "To extract more tannin",
+     "Para extraer más tanino"
+    ]
+   ],
+   "e": [
+    "Più zucchero da fermentare significa più alcol e più corpo.",
+    "Plus de sucre à fermenter signifie plus d'alcool et plus de corps.",
+    "More sugar to ferment means more alcohol and more body.",
+    "Más azúcar para fermentar significa más alcohol y más cuerpo."
+   ],
+   "d": [
+    "Nei climi o nelle annate fresche l'uva può maturare poco e avere poco zucchero: il vino risulterebbe poco alcolico e privo di corpo. Aumentando lo zucchero nel mosto, i lieviti hanno più materia da trasformare e il vino finale ha un grado alcolico più alto. Lo zucchero aggiunto fermenta, quindi il vino resta secco.",
+    "En climat ou millésime frais, le raisin peut mal mûrir et manquer de sucre : le vin serait peu alcoolisé et manquerait de corps. En augmentant le sucre du moût, les levures ont plus de matière à transformer et le vin final est plus alcoolisé. Le sucre ajouté fermente, donc le vin reste sec.",
+    "In cool climates or vintages the grapes may not ripen fully and may lack sugar, giving a wine low in alcohol and lacking body. Raising the sugar in the juice gives the yeast more to convert, so the finished wine has more alcohol. The added sugar is fermented, so the wine stays dry.",
+    "En climas o añadas frescas, la uva puede madurar poco y tener poco azúcar: el vino tendría poco alcohol y le faltaría cuerpo. Al aumentar el azúcar del mosto, las levaduras tienen más materia que transformar y el vino final tiene más alcohol. El azúcar añadido fermenta, así que el vino sigue siendo seco."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "In un clima caldo, quale correzione è più probabile?",
+    "En climat chaud, quel ajustement est le plus probable ?",
+    "In a warm climate, which adjustment is most likely?",
+    "En un clima cálido, ¿qué corrección es más probable?"
+   ],
+   "o": [
+    [
+     "Aggiungere acido",
+     "Ajouter de l'acide",
+     "Adding acid",
+     "Añadir ácido"
+    ],
+    [
+     "Neutralizzare l'acido",
+     "Neutraliser l'acide",
+     "Neutralising acid",
+     "Neutralizar ácido"
+    ],
+    [
+     "Aggiungere zucchero",
+     "Ajouter du sucre",
+     "Adding sugar",
+     "Añadir azúcar"
+    ],
+    [
+     "Aggiungere tannino",
+     "Ajouter des tanins",
+     "Adding tannin",
+     "Añadir tanino"
+    ]
+   ],
+   "e": [
+    "Nei climi caldi l'acidità cala molto e il vino risulterebbe squilibrato.",
+    "En climat chaud, l'acidité baisse beaucoup et le vin serait déséquilibré.",
+    "In warm climates acidity drops sharply, leaving the wine unbalanced.",
+    "En climas cálidos la acidez baja mucho y el vino quedaría desequilibrado."
+   ],
+   "d": [
+    "Durante la maturazione in clima caldo l'acidità dell'uva può scendere molto. Un vino con acidità troppo bassa sarebbe squilibrato, per cui il produttore può aggiungere acido in cantina. Neutralizzare l'acido e aumentare lo zucchero sono invece correzioni tipiche dei climi freschi, dove l'uva matura con più acidità e meno zucchero.",
+    "Pendant la maturation en climat chaud, l'acidité du raisin peut fortement baisser. Un vin trop peu acide serait déséquilibré ; le vinificateur peut donc ajouter de l'acide au chai. Neutraliser l'acide et augmenter le sucre sont, au contraire, des ajustements typiques des climats frais, où le raisin mûrit avec plus d'acidité et moins de sucre.",
+    "During ripening in a warm climate, grape acidity can fall very low. A wine with too little acidity would be unbalanced, so the winemaker may add acid in the winery. Neutralising acid and raising sugar are, by contrast, typical adjustments for cool climates, where grapes ripen with more acid and less sugar.",
+    "Durante la maduración en clima cálido, la acidez de la uva puede bajar mucho. Un vino con muy poca acidez estaría desequilibrado, así que el enólogo puede añadir ácido en bodega. Neutralizar ácido y aumentar el azúcar son, en cambio, correcciones típicas de climas frescos, donde la uva madura con más acidez y menos azúcar."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Come viene addolcito il Tokaji Aszú?",
+    "Comment le Tokaji Aszú obtient-il sa douceur ?",
+    "How does Tokaji Aszú get its sweetness?",
+    "¿Cómo obtiene su dulzor el Tokaji Aszú?"
+   ],
+   "o": [
+    [
+     "Da uve con zuccheri concentrati",
+     "Avec des raisins aux sucres concentrés",
+     "From grapes with concentrated sugars",
+     "De uvas con azúcares concentrados"
+    ],
+    [
+     "Con l'aggiunta di alcol",
+     "Par ajout d'alcool",
+     "By adding alcohol",
+     "Añadiendo alcohol"
+    ],
+    [
+     "Filtrando via i lieviti",
+     "En filtrant les levures",
+     "By filtering out the yeast",
+     "Filtrando las levaduras"
+    ],
+    [
+     "Aggiungendo succo a un vino secco",
+     "En ajoutant du jus à un vin sec",
+     "By adding juice to a dry wine",
+     "Añadiendo mosto a un vino seco"
+    ]
+   ],
+   "e": [
+    "Lo zucchero è così concentrato che i lieviti non riescono a consumarlo tutto.",
+    "Le sucre est si concentré que les levures ne peuvent pas tout consommer.",
+    "The sugar is so concentrated that the yeast cannot consume it all.",
+    "El azúcar está tan concentrado que las levaduras no pueden consumirlo todo."
+   ],
+   "d": [
+    "Il Tokaji Aszú ungherese nasce da uve con zuccheri molto concentrati. Quando il succo è così ricco di zucchero, i lieviti non riescono a fermentarlo completamente e la fermentazione si ferma lasciando zucchero residuo. L'aggiunta di alcol è tipica del Porto, la filtrazione dei lieviti del White Zinfandel.",
+    "Le Tokaji Aszú hongrois est issu de raisins aux sucres très concentrés. Quand le jus est aussi riche en sucre, les levures ne parviennent pas à tout fermenter et la fermentation s'arrête en laissant du sucre résiduel. L'ajout d'alcool est typique du Porto, la filtration des levures du White Zinfandel.",
+    "Tokaji Aszú from Hungary is made from grapes with highly concentrated sugars. When the juice is that sugary, the yeast cannot ferment it all, and fermentation stops with residual sugar left over. Adding alcohol is typical of Port, and filtering out yeast of White Zinfandel.",
+    "El Tokaji Aszú húngaro se elabora con uvas de azúcares muy concentrados. Cuando el mosto es tan rico en azúcar, las levaduras no logran fermentarlo todo y la fermentación se detiene dejando azúcar residual. Añadir alcohol es típico del Oporto, y filtrar las levaduras, del White Zinfandel."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Quale vino dolce viene ottenuto eliminando i lieviti con filtri molto fini?",
+    "Quel vin doux est obtenu en retirant les levures avec des filtres très fins ?",
+    "Which sweet wine is made by removing the yeast with very fine filters?",
+    "¿Qué vino dulce se obtiene retirando las levaduras con filtros muy finos?"
+   ],
+   "o": [
+    [
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel"
+    ],
+    [
+     "Porto",
+     "Porto",
+     "Port",
+     "Oporto"
+    ],
+    [
+     "Tokaji Aszú",
+     "Tokaji Aszú",
+     "Tokaji Aszú",
+     "Tokaji Aszú"
+    ],
+    [
+     "Icewine",
+     "Icewine",
+     "Icewine",
+     "Icewine"
+    ]
+   ],
+   "e": [
+    "Il White Zinfandel californiano usa filtri che trattengono i lieviti.",
+    "Le White Zinfandel de Californie utilise des filtres qui retiennent les levures.",
+    "Californian White Zinfandel uses filters that catch the yeast.",
+    "El White Zinfandel californiano usa filtros que retienen las levaduras."
+   ],
+   "d": [
+    "Per eliminare i lieviti dal mosto in fermentazione servono filtri estremamente sofisticati, con fori abbastanza piccoli da trattenerli. Senza lieviti la fermentazione si interrompe e resta zucchero residuo: è il caso del White Zinfandel della California. Il Porto si ottiene invece aggiungendo alcol, mentre Tokaji Aszú e icewine partono da uve con zuccheri concentrati.",
+    "Pour retirer les levures du moût en fermentation, il faut des filtres extrêmement sophistiqués, aux pores assez petits pour les retenir. Sans levures, la fermentation s'arrête et il reste du sucre résiduel : c'est le cas du White Zinfandel de Californie. Le Porto s'obtient par ajout d'alcool, tandis que Tokaji Aszú et icewine partent de raisins aux sucres concentrés.",
+    "Removing yeast from fermenting juice requires extremely sophisticated filters with holes small enough to catch them. Without yeast, fermentation stops and residual sugar remains: this is how White Zinfandel from California is made. Port is made by adding alcohol, while Tokaji Aszú and icewine start from grapes with concentrated sugars.",
+    "Para retirar las levaduras del mosto en fermentación hacen falta filtros muy sofisticados, con poros lo bastante pequeños para retenerlas. Sin levaduras, la fermentación se detiene y queda azúcar residual: así se elabora el White Zinfandel de California. El Oporto se obtiene añadiendo alcohol, mientras que el Tokaji Aszú y el icewine parten de uvas con azúcares concentrados."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Perché un vino fortificato come il Porto non rischia di rifermentare?",
+    "Pourquoi un vin muté comme le Porto ne risque-t-il pas de refermenter ?",
+    "Why is a fortified wine such as Port in no danger of fermenting again?",
+    "¿Por qué un vino encabezado como el Oporto no corre riesgo de volver a fermentar?"
+   ],
+   "o": [
+    [
+     "L'alcol al 15–20% vol uccide i lieviti",
+     "L'alcool à 15–20 % vol tue les levures",
+     "Alcohol at 15–20% abv kills the yeast",
+     "El alcohol al 15–20 % vol. mata las levaduras"
+    ],
+    [
+     "Tutto lo zucchero è stato consumato",
+     "Tout le sucre a été consommé",
+     "All the sugar has been used up",
+     "Se ha consumido todo el azúcar"
+    ],
+    [
+     "Il vino viene filtrato più volte",
+     "Le vin est filtré plusieurs fois",
+     "The wine is filtered several times",
+     "El vino se filtra varias veces"
+    ],
+    [
+     "Il vino è conservato a bassa temperatura",
+     "Le vin est conservé au froid",
+     "The wine is kept at a low temperature",
+     "El vino se guarda a baja temperatura"
+    ]
+   ],
+   "e": [
+    "L'alcol aggiunto porta il vino a un livello che uccide i lieviti.",
+    "L'alcool ajouté porte le vin à un niveau qui tue les levures.",
+    "The added alcohol takes the wine to a level that kills yeast.",
+    "El alcohol añadido lleva el vino a un nivel que mata las levaduras."
+   ],
+   "d": [
+    "Con la fortificazione si aggiunge alcol al mosto in fermentazione, portandolo al 15–20% vol. A questo livello i lieviti muoiono prima di aver consumato tutto lo zucchero, che resta nel vino come dolcezza. L'alcol elevato impedisce anche che la fermentazione riparta in seguito: per questo il Porto è stabile pur essendo dolce.",
+    "Avec le mutage, on ajoute de l'alcool au moût en fermentation pour atteindre 15–20 % vol. À ce niveau, les levures meurent avant d'avoir consommé tout le sucre, qui reste dans le vin sous forme de douceur. L'alcool élevé empêche aussi la fermentation de redémarrer : c'est pourquoi le Porto est stable tout en étant doux.",
+    "Fortification adds alcohol to the fermenting juice, raising it to 15–20% abv. At this level the yeast die before they have used all the sugar, which stays in the wine as sweetness. The high alcohol also stops fermentation from restarting later, which is why Port is stable even though it is sweet.",
+    "Con el encabezado se añade alcohol al mosto en fermentación hasta alcanzar el 15–20 % vol. A ese nivel las levaduras mueren antes de consumir todo el azúcar, que queda en el vino como dulzor. El alcohol elevado impide también que la fermentación se reanude: por eso el Oporto es estable aunque sea dulce."
+   ]
+  },
+  {
+   "c": "p5",
+   "q": [
+    "Quale vantaggio offre l'addolcimento di un vino secco?",
+    "Quel avantage offre l'adoucissement d'un vin sec ?",
+    "What is the main advantage of adding sweetness to a dry wine?",
+    "¿Qué ventaja ofrece endulzar un vino seco?"
+   ],
+   "o": [
+    [
+     "Controllo preciso del livello di dolcezza",
+     "Un contrôle précis du niveau de douceur",
+     "Precise control of the sweetness level",
+     "Control preciso del nivel de dulzor"
+    ],
+    [
+     "Un grado alcolico molto più alto",
+     "Un degré d'alcool bien plus élevé",
+     "A much higher alcohol level",
+     "Una graduación mucho más alta"
+    ],
+    [
+     "Tannini più morbidi",
+     "Des tanins plus souples",
+     "Softer tannins",
+     "Taninos más suaves"
+    ],
+    [
+     "Aromi di rovere più intensi",
+     "Des arômes de chêne plus intenses",
+     "More intense oak flavours",
+     "Aromas de roble más intensos"
+    ]
+   ],
+   "e": [
+    "Aggiungendo dolcezza dopo la fermentazione si dosa esattamente lo zucchero finale.",
+    "En ajoutant la douceur après fermentation, on dose exactement le sucre final.",
+    "Adding sweetness after fermentation lets the final sugar be set exactly.",
+    "Añadiendo dulzor tras la fermentación se ajusta exactamente el azúcar final."
+   ],
+   "d": [
+    "È una tecnica molto diffusa per rossi, bianchi e rosati proprio perché il produttore può controllare con precisione la dolcezza. Lo zucchero aggiunto proviene sempre dall'uva: succo non fermentato, succo concentrato molto dolce, oppure un vino dolce assemblato con quello secco. Non influisce su tannini o aromi di rovere.",
+    "C'est une technique très répandue pour les rouges, blancs et rosés justement parce que le vinificateur peut contrôler précisément la douceur. Le sucre ajouté provient toujours du raisin : jus non fermenté, jus concentré très sucré, ou vin doux assemblé au vin sec. Elle n'agit ni sur les tanins ni sur les arômes de chêne.",
+    "This technique is widely used for red, white and rosé wines precisely because the winemaker can control sweetness accurately. The added sugar always comes from grapes: unfermented juice, very sweet concentrated juice, or a sweet wine blended with the dry one. It does not affect tannins or oak flavours.",
+    "Es una técnica muy extendida para tintos, blancos y rosados precisamente porque el enólogo puede controlar el dulzor con precisión. El azúcar añadido procede siempre de la uva: mosto sin fermentar, mosto concentrado muy dulce o un vino dulce mezclado con el seco. No influye en los taninos ni en los aromas de roble."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Perché un produttore sceglie l'acciaio inox per un bianco fresco e fruttato?",
+    "Pourquoi un vinificateur choisit-il l'inox pour un blanc frais et fruité ?",
+    "Why would a winemaker choose stainless steel for a fresh, fruity white?",
+    "¿Por qué un enólogo elige acero inoxidable para un blanco fresco y afrutado?"
+   ],
+   "o": [
+    [
+     "È inerte e può essere ermetico",
+     "Il est inerte et peut être hermétique",
+     "It is inert and can be airtight",
+     "Es inerte y puede ser hermético"
+    ],
+    [
+     "Cede aromi di vaniglia",
+     "Il apporte des arômes de vanille",
+     "It adds vanilla flavours",
+     "Aporta aromas de vainilla"
+    ],
+    [
+     "Lascia entrare ossigeno",
+     "Il laisse entrer l'oxygène",
+     "It lets oxygen in",
+     "Deja entrar oxígeno"
+    ],
+    [
+     "Ammorbidisce i tannini",
+     "Il assouplit les tanins",
+     "It softens tannins",
+     "Suaviza los taninos"
+    ]
+   ],
+   "e": [
+    "L'acciaio non aggiunge aromi e può escludere l'ossigeno, preservando il frutto.",
+    "L'inox n'ajoute aucun arôme et peut exclure l'oxygène, préservant le fruit.",
+    "Steel adds no flavour and can keep oxygen out, preserving the fruit.",
+    "El acero no añade aromas y puede impedir la entrada de oxígeno, preservando la fruta."
+   ],
+   "d": [
+    "Acciaio inox e cemento sono materiali inerti: non cedono aromi al vino. Possono inoltre essere costruiti in modo ermetico, impedendo all'ossigeno di modificare gli aromi. Per un bianco in cui si vuole esaltare il frutto primario e fresco sono quindi la scelta ideale. Vaniglia, ossigeno e tannini più morbidi sono invece effetti tipici delle botti di rovere.",
+    "L'inox et le béton sont des matériaux inertes : ils n'apportent aucun arôme au vin. Ils peuvent aussi être hermétiques, empêchant l'oxygène de modifier les arômes. Pour un blanc dont on veut mettre en valeur le fruit primaire et frais, c'est donc le choix idéal. Vanille, oxygène et tanins assouplis sont au contraire des effets typiques des fûts de chêne.",
+    "Stainless steel and concrete are inert materials: they give no flavour to the wine. They can also be made airtight, stopping oxygen from changing the flavours. For a white where the aim is fresh, primary fruit, they are the ideal choice. Vanilla, oxygen contact and softer tannins are, by contrast, typical effects of oak barrels.",
+    "El acero inoxidable y el hormigón son materiales inertes: no ceden aromas al vino. Además pueden ser herméticos, impidiendo que el oxígeno modifique los aromas. Para un blanco en el que se busca realzar la fruta primaria y fresca, son la opción ideal. La vainilla, el oxígeno y los taninos más suaves son, en cambio, efectos típicos de las barricas de roble."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale coppia di materiali è considerata inerte?",
+    "Quelle paire de matériaux est considérée comme inerte ?",
+    "Which pair of vessel materials is considered inert?",
+    "¿Qué pareja de materiales se considera inerte?"
+   ],
+   "o": [
+    [
+     "Acciaio inox e cemento",
+     "Inox et béton",
+     "Stainless steel and concrete",
+     "Acero inoxidable y hormigón"
+    ],
+    [
+     "Rovere nuovo e rovere vecchio",
+     "Chêne neuf et chêne ancien",
+     "New oak and old oak",
+     "Roble nuevo y roble usado"
+    ],
+    [
+     "Rovere e cemento",
+     "Chêne et béton",
+     "Oak and concrete",
+     "Roble y hormigón"
+    ],
+    [
+     "Acciaio inox e rovere",
+     "Inox et chêne",
+     "Stainless steel and oak",
+     "Acero inoxidable y roble"
+    ]
+   ],
+   "e": [
+    "Acciaio inox e cemento non cedono aromi al vino.",
+    "L'inox et le béton n'apportent aucun arôme au vin.",
+    "Stainless steel and concrete add no flavour to the wine.",
+    "El acero inoxidable y el hormigón no aportan aromas al vino."
+   ],
+   "d": [
+    "I contenitori di cantina si dividono in inerti e in rovere. Acciaio inox e cemento sono inerti: possono servire per fermentare e conservare senza modificare gli aromi. Il rovere, nuovo o vecchio, non è inerte: anche una botte vecchia, che cede pochi aromi, lascia comunque passare ossigeno e fa evolvere il vino durante la maturazione.",
+    "Les contenants du chai se répartissent entre inertes et chêne. L'inox et le béton sont inertes : ils servent à fermenter et à conserver sans modifier les arômes. Le chêne, neuf ou ancien, n'est pas inerte : même un vieux fût, qui apporte peu d'arômes, laisse passer l'oxygène et fait évoluer le vin pendant l'élevage.",
+    "Winery vessels divide into inert and oak. Stainless steel and concrete are inert: they can be used for fermentation and storage without changing the flavours. Oak, new or old, is not inert: even an old barrel, which gives little flavour, still lets oxygen in and makes the wine evolve during maturation.",
+    "Los recipientes de bodega se dividen en inertes y de roble. El acero inoxidable y el hormigón son inertes: sirven para fermentar y almacenar sin modificar los aromas. El roble, nuevo o usado, no es inerte: incluso una barrica vieja, que cede pocos aromas, deja pasar oxígeno y hace evolucionar el vino durante la crianza."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quali sono i due modi in cui una botte di rovere influenza lo stile?",
+    "Quelles sont les deux façons dont un fût de chêne influence le style ?",
+    "What are the two ways an oak barrel influences wine style?",
+    "¿Cuáles son las dos formas en que una barrica de roble influye en el estilo?"
+   ],
+   "o": [
+    [
+     "Cede aromi e permette il contatto con l'ossigeno",
+     "Apport d'arômes et contact avec l'oxygène",
+     "Adding flavour and allowing oxygen contact",
+     "Aporta aromas y permite el contacto con oxígeno"
+    ],
+    [
+     "Aumenta l'alcol e l'acidità",
+     "Augmente l'alcool et l'acidité",
+     "Raising alcohol and acidity",
+     "Aumenta el alcohol y la acidez"
+    ],
+    [
+     "Aggiunge zucchero e tannino",
+     "Ajoute du sucre et des tanins",
+     "Adding sugar and tannin",
+     "Añade azúcar y tanino"
+    ],
+    [
+     "Filtra il vino e lo rende limpido",
+     "Filtre le vin et le rend limpide",
+     "Filtering the wine and clarifying it",
+     "Filtra el vino y lo vuelve limpio"
+    ]
+   ],
+   "e": [
+    "Il rovere cede aromi propri e, non essendo ermetico, fa entrare ossigeno.",
+    "Le chêne apporte ses arômes et, n'étant pas hermétique, laisse entrer l'oxygène.",
+    "Oak gives its own flavours and, not being airtight, lets oxygen in.",
+    "El roble aporta sus aromas y, al no ser hermético, deja entrar oxígeno."
+   ],
+   "d": [
+    "Le botti sono a tenuta d'acqua ma non d'aria. Per questo agiscono in due modi: cedono direttamente aromi come vaniglia, cocco o spezie, soprattutto se nuove, e permettono a un po' di ossigeno di interagire con il vino, sviluppando note di caramello e frutta a guscio e ammorbidendo i tannini dei rossi. Non aumentano alcol, acidità o zucchero.",
+    "Les fûts sont étanches à l'eau mais pas à l'air. Ils agissent donc de deux façons : ils apportent directement des arômes comme la vanille, la coco ou les épices, surtout s'ils sont neufs, et laissent un peu d'oxygène interagir avec le vin, ce qui développe caramel et fruits à coque et assouplit les tanins des rouges. Ils n'augmentent ni l'alcool, ni l'acidité, ni le sucre.",
+    "Barrels are watertight but not airtight. They therefore work in two ways: they add flavours such as vanilla, coconut or spice directly, especially when new, and they let a little oxygen interact with the wine, developing caramel and nut notes and softening red wine tannins. They do not raise alcohol, acidity or sugar.",
+    "Las barricas son estancas al agua pero no al aire. Por eso actúan de dos maneras: aportan directamente aromas como vainilla, coco o especias, sobre todo si son nuevas, y dejan que algo de oxígeno interactúe con el vino, desarrollando caramelo y frutos secos y suavizando los taninos de los tintos. No aumentan el alcohol, la acidez ni el azúcar."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quali aromi sono tipici di una botte di rovere nuovo?",
+    "Quels arômes sont typiques d'un fût de chêne neuf ?",
+    "Which flavours are typical of a new oak barrel?",
+    "¿Qué aromas son típicos de una barrica de roble nuevo?"
+   ],
+   "o": [
+    [
+     "Vaniglia, cocco, legno bruciato, spezie",
+     "Vanille, coco, bois brûlé, épices",
+     "Vanilla, coconut, charred wood, spice",
+     "Vainilla, coco, madera quemada, especias"
+    ],
+    [
+     "Biscotto, pane, crosta di pane",
+     "Biscuit, pain, croûte de pain",
+     "Biscuit, bread, toast crust",
+     "Galleta, pan, corteza de pan"
+    ],
+    [
+     "Burro, panna, yogurt",
+     "Beurre, crème, yaourt",
+     "Butter, cream, yoghurt",
+     "Mantequilla, nata, yogur"
+    ],
+    [
+     "Fico, prugna, foglie bagnate",
+     "Figue, pruneau, feuilles mouillées",
+     "Fig, prune, wet leaves",
+     "Higo, ciruela pasa, hojas mojadas"
+    ]
+   ],
+   "e": [
+    "Il rovere nuovo cede molto aroma: vaniglia, cocco, legno bruciato e spezie.",
+    "Le chêne neuf apporte beaucoup d'arômes : vanille, coco, bois brûlé et épices.",
+    "New oak gives lots of flavour: vanilla, coconut, charred wood and spice.",
+    "El roble nuevo aporta mucho aroma: vainilla, coco, madera quemada y especias."
+   ],
+   "d": [
+    "Una botte mai usata ha ancora tutto il suo potenziale aromatico e può cedere molto: vaniglia, cocco, legno bruciato e spezie. Gli aromi di biscotto e pane derivano invece dal contatto con le fecce, quelli di burro dalla fermentazione malolattica, mentre fico, prugna e foglie bagnate sono aromi terziari dei rossi invecchiati in bottiglia.",
+    "Un fût jamais utilisé a encore tout son potentiel aromatique et peut beaucoup apporter : vanille, coco, bois brûlé et épices. Les arômes de biscuit et de pain viennent plutôt du contact avec les lies, ceux de beurre de la malolactique, tandis que figue, pruneau et feuilles mouillées sont des arômes tertiaires des rouges vieillis en bouteille.",
+    "A barrel that has never been used still has all its flavour potential and can give a lot: vanilla, coconut, charred wood and spice. Biscuit and bread notes come instead from lees contact, buttery notes from malolactic conversion, while fig, prune and wet leaves are tertiary flavours of reds aged in bottle.",
+    "Una barrica nunca usada conserva todo su potencial aromático y puede aportar mucho: vainilla, coco, madera quemada y especias. Los aromas de galleta y pan proceden, en cambio, del contacto con las lías, los de mantequilla de la maloláctica, mientras que higo, ciruela pasa y hojas mojadas son aromas terciarios de los tintos envejecidos en botella."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Dopo quanti utilizzi una botte ha ormai poco aroma da cedere?",
+    "Après combien d'utilisations un fût n'a-t-il presque plus d'arômes à donner ?",
+    "After how many uses does a barrel have very little flavour left to give?",
+    "¿Tras cuántos usos le queda muy poco aroma a una barrica?"
+   ],
+   "o": [
+    [
+     "Dopo due o tre utilizzi",
+     "Après deux ou trois utilisations",
+     "After two or three uses",
+     "Tras dos o tres usos"
+    ],
+    [
+     "Dopo un solo utilizzo",
+     "Après une seule utilisation",
+     "After a single use",
+     "Tras un solo uso"
+    ],
+    [
+     "Dopo dieci utilizzi",
+     "Après dix utilisations",
+     "After ten uses",
+     "Tras diez usos"
+    ],
+    [
+     "Mai, il rovere cede sempre aroma",
+     "Jamais, le chêne donne toujours des arômes",
+     "Never, oak always gives flavour",
+     "Nunca, el roble siempre aporta aroma"
+    ]
+   ],
+   "e": [
+    "Dopo due o tre utilizzi una botte è considerata rovere vecchio, con poco aroma.",
+    "Après deux ou trois usages, un fût est du chêne ancien, avec peu d'arômes.",
+    "After two or three uses a barrel is old oak, with little flavour left.",
+    "Tras dos o tres usos, una barrica es roble usado, con poco aroma."
+   ],
+   "d": [
+    "Ogni volta che una botte viene riempita cede parte dei suoi aromi. Già al secondo uso dà meno aroma rispetto a una nuova, e dopo due o tre utilizzi ne ha ben poco da offrire: si parla di rovere vecchio. Queste botti restano utili quando si cerca l'effetto dell'ossigeno senza un'impronta di legno marcata.",
+    "Chaque fois qu'un fût est rempli, il cède une partie de ses arômes. Dès la deuxième utilisation, il en donne moins qu'un fût neuf, et après deux ou trois utilisations il n'a presque plus rien à offrir : on parle de chêne ancien. Ces fûts restent utiles quand on recherche l'effet de l'oxygène sans empreinte boisée marquée.",
+    "Every time a barrel is filled it gives up some of its flavour. From the second use it already gives less than a new barrel, and after two or three uses it has very little left: this is called old oak. Such barrels are still useful when the aim is the effect of oxygen without strong oak character.",
+    "Cada vez que se llena una barrica, cede parte de sus aromas. Ya en el segundo uso aporta menos que una nueva, y tras dos o tres usos le queda muy poco: se habla de roble usado o viejo. Estas barricas siguen siendo útiles cuando se busca el efecto del oxígeno sin una huella de madera marcada."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Che cosa determina il livello di tostatura di una botte?",
+    "Qu'est-ce qui détermine le niveau de chauffe d'un fût ?",
+    "What determines a barrel's toast level?",
+    "¿Qué determina el nivel de tostado de una barrica?"
+   ],
+   "o": [
+    [
+     "Durata e intensità del calore sulle doghe",
+     "La durée et l'intensité de la chauffe des douelles",
+     "How long and how hot the staves are heated",
+     "Duración e intensidad del calor sobre las duelas"
+    ],
+    [
+     "L'età degli alberi di rovere",
+     "L'âge des chênes",
+     "The age of the oak trees",
+     "La edad de los robles"
+    ],
+    [
+     "Quante volte la botte è stata usata",
+     "Le nombre d'utilisations du fût",
+     "How many times the barrel has been used",
+     "Cuántas veces se ha usado la barrica"
+    ],
+    [
+     "La temperatura della cantina",
+     "La température du chai",
+     "The temperature of the cellar",
+     "La temperatura de la bodega"
+    ]
+   ],
+   "e": [
+    "Le doghe vengono scaldate su fiamma: tempo e calore definiscono la tostatura.",
+    "Les douelles sont chauffées à la flamme : durée et chaleur définissent la chauffe.",
+    "Staves are heated over flame: time and heat set the toast level.",
+    "Las duelas se calientan con llama: tiempo y calor definen el tostado."
+   ],
+   "d": [
+    "Per costruire una botte le doghe di rovere vengono scaldate su una fiamma viva e piegate. Più a lungo e più intensamente vengono scaldate, più alto è il livello di tostatura. La tostatura modifica gli aromi che il legno cede al vino e può dare note di spezie dolci e di legno bruciato.",
+    "Pour fabriquer un fût, les douelles de chêne sont chauffées au-dessus d'une flamme vive et cintrées. Plus la chauffe est longue et intense, plus le niveau de chauffe est élevé. Celle-ci modifie les arômes que le bois apporte au vin et peut donner des notes d'épices douces et de bois brûlé.",
+    "To make a barrel, the oak staves are heated over an open flame and bent into shape. The longer and hotter the heating, the higher the toast level. Toasting changes the flavours the wood gives to the wine and can produce sweet-spice and charred-wood notes.",
+    "Para fabricar una barrica, las duelas de roble se calientan sobre una llama viva y se curvan. Cuanto más largo e intenso es el calentamiento, mayor es el nivel de tostado. El tostado modifica los aromas que la madera cede al vino y puede dar notas de especias dulces y de madera quemada."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Perché i cambiamenti dovuti all'ossigeno sono più rapidi nelle botti piccole?",
+    "Pourquoi les changements dus à l'oxygène sont-ils plus rapides en petits fûts ?",
+    "Why do oxygen-related changes happen faster in small barrels?",
+    "¿Por qué los cambios debidos al oxígeno son más rápidos en barricas pequeñas?"
+   ],
+   "o": [
+    [
+     "Più vino è a contatto con il legno",
+     "Plus de vin est en contact avec le bois",
+     "More of the wine is in contact with the wood",
+     "Más vino está en contacto con la madera"
+    ],
+    [
+     "Il legno delle botti piccole è più nuovo",
+     "Le bois des petits fûts est plus neuf",
+     "Small barrels are always made of newer oak",
+     "La madera de las barricas pequeñas es más nueva"
+    ],
+    [
+     "Le botti piccole sono ermetiche",
+     "Les petits fûts sont hermétiques",
+     "Small barrels are airtight",
+     "Las barricas pequeñas son herméticas"
+    ],
+    [
+     "Le botti piccole sono più tostate",
+     "Les petits fûts sont plus chauffés",
+     "Small barrels are more heavily toasted",
+     "Las barricas pequeñas están más tostadas"
+    ]
+   ],
+   "e": [
+    "Nelle botti piccole una parte maggiore del vino tocca il legno.",
+    "Dans les petits fûts, une plus grande part du vin touche le bois.",
+    "In small barrels a greater share of the wine touches the wood.",
+    "En barricas pequeñas, una mayor parte del vino toca la madera."
+   ],
+   "d": [
+    "In una botte piccola il rapporto tra superficie di legno e volume di vino è maggiore, quindi una parte più ampia del vino è in contatto con la botte. Le interazioni con l'ossigeno, come lo sviluppo di caramello e frutta a guscio e l'ammorbidimento dei tannini, avvengono quindi più in fretta. I grandi contenitori di rovere raramente servono a dare aromi di legno.",
+    "Dans un petit fût, le rapport entre surface de bois et volume de vin est plus élevé : une plus grande part du vin est en contact avec le fût. Les interactions avec l'oxygène, comme le développement du caramel et des fruits à coque ou l'assouplissement des tanins, sont donc plus rapides. Les grands contenants de chêne servent rarement à apporter des arômes boisés.",
+    "In a small barrel the ratio of wood surface to wine volume is higher, so more of the wine is in contact with the barrel. Interactions with oxygen, such as the development of caramel and nut flavours and the softening of tannins, therefore happen faster. Large oak vessels are rarely used to give oak flavour.",
+    "En una barrica pequeña, la relación entre superficie de madera y volumen de vino es mayor, así que más vino está en contacto con ella. Las interacciones con el oxígeno, como el desarrollo de caramelo y frutos secos o la suavización de los taninos, son por tanto más rápidas. Los grandes recipientes de roble rara vez se usan para aportar aromas de madera."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quali aromi possono svilupparsi per effetto dell'ossigeno durante la maturazione in botte?",
+    "Quels arômes peuvent se développer sous l'effet de l'oxygène pendant l'élevage en fût ?",
+    "Which flavours can develop from oxygen during barrel maturation?",
+    "¿Qué aromas pueden desarrollarse por el oxígeno durante la crianza en barrica?"
+   ],
+   "o": [
+    [
+     "Caramello, frutta secca, nocciola",
+     "Caramel, fruits secs, noisette",
+     "Caramel, dried fruit, hazelnut",
+     "Caramelo, fruta pasa, avellana"
+    ],
+    [
+     "Agrumi, mela verde, fiori",
+     "Agrumes, pomme verte, fleurs",
+     "Citrus, green apple, flowers",
+     "Cítricos, manzana verde, flores"
+    ],
+    [
+     "Burro e panna",
+     "Beurre et crème",
+     "Butter and cream",
+     "Mantequilla y nata"
+    ],
+    [
+     "Pane e biscotto",
+     "Pain et biscuit",
+     "Bread and biscuit",
+     "Pan y galleta"
+    ]
+   ],
+   "e": [
+    "L'ossigeno che entra nella botte sviluppa note di caramello, frutta secca e frutta a guscio.",
+    "L'oxygène qui entre dans le fût développe caramel, fruits secs et fruits à coque.",
+    "Oxygen entering the barrel develops caramel, dried fruit and nut notes.",
+    "El oxígeno que entra en la barrica desarrolla caramelo, fruta pasa y frutos secos."
+   ],
+   "d": [
+    "Le botti non sono ermetiche: durante la maturazione un po' d'ossigeno entra e interagisce con il vino, favorendo aromi di caramello, frutta secca e frutta a guscio come nocciola, mandorla e noce. Agrumi e mela verde sono aromi primari dell'uva; burro deriva dalla malolattica; pane e biscotto dal contatto con le fecce.",
+    "Les fûts ne sont pas hermétiques : pendant l'élevage, un peu d'oxygène entre et interagit avec le vin, favorisant des arômes de caramel, de fruits secs et de fruits à coque comme la noisette, l'amande et la noix. Agrumes et pomme verte sont des arômes primaires du raisin ; le beurre vient de la malolactique ; pain et biscuit du contact avec les lies.",
+    "Barrels are not airtight: during maturation a little oxygen gets in and interacts with the wine, encouraging caramel, dried fruit and nut flavours such as hazelnut, almond and walnut. Citrus and green apple are primary grape flavours; butter comes from malolactic conversion; bread and biscuit from lees contact.",
+    "Las barricas no son herméticas: durante la crianza entra algo de oxígeno que interactúa con el vino y favorece aromas de caramelo, fruta pasa y frutos secos como avellana, almendra y nuez. Los cítricos y la manzana verde son aromas primarios de la uva; la mantequilla viene de la maloláctica; el pan y la galleta, del contacto con las lías."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Come si possono dare aromi di rovere a un vino economico?",
+    "Comment donner des arômes de chêne à un vin bon marché ?",
+    "How can oak flavour be given to an inexpensive wine?",
+    "¿Cómo se pueden dar aromas de roble a un vino económico?"
+   ],
+   "o": [
+    [
+     "Con doghe o trucioli in un contenitore inerte",
+     "Avec des douelles ou copeaux dans une cuve inerte",
+     "With staves or chips in an inert vessel",
+     "Con duelas o virutas en un recipiente inerte"
+    ],
+    [
+     "Con un lungo contatto con le fecce",
+     "Par un long contact avec les lies",
+     "With long lees contact",
+     "Con un largo contacto con las lías"
+    ],
+    [
+     "Con la fermentazione malolattica",
+     "Par la fermentation malolactique",
+     "Through malolactic conversion",
+     "Mediante la fermentación maloláctica"
+    ],
+    [
+     "Con grandi botti di rovere vecchio",
+     "Avec de grands foudres de vieux chêne",
+     "With large old oak vessels",
+     "Con grandes toneles de roble usado"
+    ]
+   ],
+   "e": [
+    "Doghe e trucioli costano molto meno delle botti e cedono aromi di rovere.",
+    "Douelles et copeaux coûtent bien moins cher que les fûts et apportent des arômes de chêne.",
+    "Staves and chips cost far less than barrels and still give oak flavour.",
+    "Las duelas y virutas cuestan mucho menos que las barricas y aportan aroma de roble."
+   ],
+   "d": [
+    "Le botti di rovere sono costose. Per vini meno cari si possono aggiungere doghe o trucioli di rovere al vino conservato in un contenitore inerte, ottenendo aromi di legno a costo ridotto. I grandi contenitori di rovere vecchio raramente danno aromi di legno, mentre fecce e malolattica producono rispettivamente note di pane e di burro, non di rovere.",
+    "Les fûts de chêne sont chers. Pour les vins moins coûteux, on peut ajouter des douelles ou des copeaux de chêne au vin conservé dans une cuve inerte, ce qui donne des arômes boisés à moindre coût. Les grands contenants de vieux chêne apportent rarement des arômes boisés, tandis que lies et malolactique donnent respectivement des notes de pain et de beurre, pas de chêne.",
+    "Oak barrels are expensive. For cheaper wines, oak staves or chips can be added to wine stored in an inert vessel, giving oak flavour at a lower cost. Large old oak vessels rarely add oak flavour, while lees and malolactic conversion give bread and buttery notes respectively, not oak.",
+    "Las barricas de roble son caras. Para vinos más económicos se pueden añadir duelas o virutas de roble al vino guardado en un recipiente inerte, obteniendo aromas de madera a menor coste. Los grandes recipientes de roble usado rara vez aportan aroma de madera, y las lías y la maloláctica dan notas de pan y de mantequilla respectivamente, no de roble."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale microrganismo svolge la fermentazione malolattica?",
+    "Quel micro-organisme réalise la fermentation malolactique ?",
+    "Which microorganism carries out malolactic conversion?",
+    "¿Qué microorganismo realiza la fermentación maloláctica?"
+   ],
+   "o": [
+    [
+     "Batteri",
+     "Les bactéries",
+     "Bacteria",
+     "Bacterias"
+    ],
+    [
+     "Lieviti",
+     "Les levures",
+     "Yeast",
+     "Levaduras"
+    ],
+    [
+     "Botrytis",
+     "Le botrytis",
+     "Botrytis",
+     "Botrytis"
+    ],
+    [
+     "Muffe del rovere",
+     "Les moisissures du chêne",
+     "Moulds from the oak",
+     "Mohos del roble"
+    ]
+   ],
+   "e": [
+    "La malolattica è svolta da batteri, non da lieviti.",
+    "La malolactique est réalisée par des bactéries, pas par des levures.",
+    "Malolactic conversion is carried out by bacteria, not yeast.",
+    "La maloláctica la realizan bacterias, no levaduras."
+   ],
+   "d": [
+    "La fermentazione malolattica avviene dopo la fermentazione alcolica ed è opera dei batteri. I lieviti sono invece responsabili della fermentazione alcolica, mentre la botrytis è una muffa che agisce in vigneto concentrando gli zuccheri dell'uva. L'attività dei batteri abbassa l'acidità del vino e può aggiungere aromi di burro.",
+    "La fermentation malolactique intervient après la fermentation alcoolique et elle est l'œuvre des bactéries. Les levures, elles, sont responsables de la fermentation alcoolique, tandis que le botrytis est un champignon qui agit au vignoble en concentrant les sucres du raisin. L'activité des bactéries baisse l'acidité du vin et peut apporter des arômes beurrés.",
+    "Malolactic conversion takes place after alcoholic fermentation and is the work of bacteria. Yeast are responsible for alcoholic fermentation, while botrytis is a fungus that acts in the vineyard, concentrating grape sugars. The bacteria's activity lowers the wine's acidity and can add buttery flavours.",
+    "La fermentación maloláctica tiene lugar tras la alcohólica y la realizan las bacterias. Las levaduras son responsables de la fermentación alcohólica, mientras que la botrytis es un hongo que actúa en el viñedo concentrando los azúcares de la uva. La actividad de las bacterias baja la acidez del vino y puede aportar aromas mantecosos."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quali sono gli effetti della fermentazione malolattica?",
+    "Quels sont les effets de la fermentation malolactique ?",
+    "What are the effects of malolactic conversion?",
+    "¿Cuáles son los efectos de la fermentación maloláctica?"
+   ],
+   "o": [
+    [
+     "Meno acidità e possibili note di burro",
+     "Moins d'acidité et possibles notes beurrées",
+     "Lower acidity and possible buttery flavours",
+     "Menos acidez y posibles notas mantecosas"
+    ],
+    [
+     "Più acidità e aromi di agrumi",
+     "Plus d'acidité et arômes d'agrumes",
+     "Higher acidity and citrus flavours",
+     "Más acidez y aromas cítricos"
+    ],
+    [
+     "Più alcol e più corpo",
+     "Plus d'alcool et plus de corps",
+     "More alcohol and more body",
+     "Más alcohol y más cuerpo"
+    ],
+    [
+     "Più tannino e colore più intenso",
+     "Plus de tanins et couleur plus intense",
+     "More tannin and deeper colour",
+     "Más tanino y color más intenso"
+    ]
+   ],
+   "e": [
+    "I batteri abbassano l'acidità e possono dare aromi burrosi.",
+    "Les bactéries baissent l'acidité et peuvent donner des arômes beurrés.",
+    "The bacteria lower acidity and can give buttery flavours.",
+    "Las bacterias bajan la acidez y pueden dar aromas mantecosos."
+   ],
+   "d": [
+    "L'attività dei batteri durante la malolattica riduce l'acidità del vino e può aggiungere aromi di burro, rendendo lo stile più morbido. Non produce alcol, che deriva solo dalla fermentazione alcolica dei lieviti, né aggiunge tannino o colore, che provengono dalle bucce. Per questo il produttore la evita quando vuole un bianco vivace e fresco.",
+    "L'activité des bactéries pendant la malolactique réduit l'acidité du vin et peut apporter des arômes beurrés, rendant le style plus souple. Elle ne produit pas d'alcool, qui vient seulement de la fermentation alcoolique des levures, et n'ajoute ni tanins ni couleur, qui proviennent des peaux. C'est pourquoi on l'évite quand on veut un blanc vif et frais.",
+    "The bacteria's activity during malolactic conversion lowers the wine's acidity and can add buttery flavours, giving a softer style. It does not produce alcohol, which comes only from yeast in alcoholic fermentation, nor does it add tannin or colour, which come from the skins. That is why it is avoided when a lively, fresh white is wanted.",
+    "La actividad de las bacterias durante la maloláctica reduce la acidez del vino y puede aportar aromas mantecosos, dando un estilo más suave. No produce alcohol, que solo procede de la fermentación alcohólica de las levaduras, ni añade tanino o color, que vienen de los hollejos. Por eso se evita cuando se busca un blanco vivo y fresco."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Per quale vitigno la malolattica viene di solito impedita?",
+    "Pour quel cépage la malolactique est-elle généralement évitée ?",
+    "For which grape is malolactic conversion usually prevented?",
+    "¿En qué variedad se suele impedir la maloláctica?"
+   ],
+   "o": [
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon",
+     "Cabernet Sauvignon"
+    ],
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ]
+   ],
+   "e": [
+    "Nei vitigni aromatici come il Riesling si vogliono preservare acidità e frutto.",
+    "Pour les cépages aromatiques comme le Riesling, on veut préserver acidité et fruit.",
+    "For aromatic grapes like Riesling, acidity and fruit are kept intact.",
+    "En variedades aromáticas como el Riesling se quiere preservar acidez y fruta."
+   ],
+   "d": [
+    "Nei bianchi la malolattica è una scelta. Per i vitigni aromatici come il Riesling di solito la si impedisce, perché abbasserebbe l'acidità e aggiungerebbe note di burro che coprirebbero il frutto. Alcuni stili di Chardonnay, invece, ne traggono beneficio. Nei rossi, come Cabernet Sauvignon e Pinot Noir, avviene quasi sempre.",
+    "Pour les blancs, la malolactique est un choix. Pour les cépages aromatiques comme le Riesling, on l'empêche généralement, car elle baisserait l'acidité et ajouterait des notes beurrées qui masqueraient le fruit. Certains styles de Chardonnay, en revanche, en profitent. Pour les rouges, comme le Cabernet Sauvignon et le Pinot Noir, elle a presque toujours lieu.",
+    "In whites, malolactic conversion is a choice. For aromatic varieties like Riesling it is usually prevented, because it would lower acidity and add buttery notes that would mask the fruit. Certain styles of Chardonnay, on the other hand, benefit from it. In reds such as Cabernet Sauvignon and Pinot Noir it nearly always takes place.",
+    "En los blancos, la maloláctica es una decisión. En variedades aromáticas como el Riesling se suele impedir, porque bajaría la acidez y añadiría notas mantecosas que taparían la fruta. Algunos estilos de Chardonnay, en cambio, se benefician de ella. En tintos como Cabernet Sauvignon y Pinot Noir se produce casi siempre."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Che cosa sono le fecce (lees)?",
+    "Que sont les lies ?",
+    "What are lees?",
+    "¿Qué son las lías?"
+   ],
+   "o": [
+    [
+     "Lieviti morti depositati sul fondo",
+     "Des levures mortes déposées au fond",
+     "Dead yeast cells that settle at the bottom",
+     "Levaduras muertas depositadas en el fondo"
+    ],
+    [
+     "Bucce che galleggiano in superficie",
+     "Des peaux qui flottent en surface",
+     "Skins floating on the surface",
+     "Hollejos que flotan en la superficie"
+    ],
+    [
+     "Trucioli di rovere aggiunti al vino",
+     "Des copeaux de chêne ajoutés au vin",
+     "Oak chips added to the wine",
+     "Virutas de roble añadidas al vino"
+    ],
+    [
+     "Deposito che si forma nei rossi invecchiati",
+     "Le dépôt des vieux rouges",
+     "The deposit in aged red wines",
+     "El poso de los tintos envejecidos"
+    ]
+   ],
+   "e": [
+    "Dopo la fermentazione i lieviti muoiono e formano uno strato sul fondo.",
+    "Après la fermentation, les levures meurent et forment une couche au fond.",
+    "After fermentation the yeast die and form a layer at the bottom.",
+    "Tras la fermentación, las levaduras mueren y forman una capa en el fondo."
+   ],
+   "d": [
+    "Quando la fermentazione alcolica finisce, i lieviti muoiono e cadono sul fondo del contenitore formando uno strato di cellule morte: le fecce. Le bucce galleggianti formano invece il cappello dei rossi, e il deposito che si crea nei rossi invecchiati in bottiglia è un fenomeno diverso, legato alla maturazione.",
+    "Quand la fermentation alcoolique se termine, les levures meurent et tombent au fond du contenant, formant une couche de cellules mortes : les lies. Les peaux qui flottent forment au contraire le chapeau des rouges, et le dépôt qui apparaît dans les rouges vieillis en bouteille est un phénomène différent, lié au vieillissement.",
+    "When alcoholic fermentation ends, the yeast die and fall to the bottom of the vessel, forming a layer of dead cells: the lees. Floating skins form the cap in red winemaking instead, and the deposit that appears in reds aged in bottle is a different phenomenon, linked to maturation.",
+    "Cuando termina la fermentación alcohólica, las levaduras mueren y caen al fondo del recipiente, formando una capa de células muertas: las lías. Los hollejos que flotan forman, en cambio, el sombrero de los tintos, y el poso que aparece en los tintos envejecidos en botella es un fenómeno distinto, ligado a la crianza."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale effetto ha il rimescolamento delle fecce in un vino bianco?",
+    "Quel effet a la remise en suspension des lies dans un vin blanc ?",
+    "What effect does stirring the lees have on a white wine?",
+    "¿Qué efecto tiene remover las lías en un vino blanco?"
+   ],
+   "o": [
+    [
+     "Più corpo e aromi di pane e biscotto",
+     "Plus de corps et arômes de pain et biscuit",
+     "More body and bread and biscuit flavours",
+     "Más cuerpo y aromas de pan y galleta"
+    ],
+    [
+     "Più acidità e aromi di agrumi",
+     "Plus d'acidité et arômes d'agrumes",
+     "More acidity and citrus flavours",
+     "Más acidez y aromas cítricos"
+    ],
+    [
+     "Più tannino e colore",
+     "Plus de tanins et de couleur",
+     "More tannin and colour",
+     "Más tanino y color"
+    ],
+    [
+     "Meno alcol e meno corpo",
+     "Moins d'alcool et moins de corps",
+     "Less alcohol and less body",
+     "Menos alcohol y menos cuerpo"
+    ]
+   ],
+   "e": [
+    "Il contatto con le fecce aumenta il corpo e aggiunge note di pane e biscotto.",
+    "Le contact avec les lies augmente le corps et ajoute des notes de pain et de biscuit.",
+    "Lees contact adds body and bread and biscuit notes.",
+    "El contacto con las lías aumenta el cuerpo y añade notas de pan y galleta."
+   ],
+   "d": [
+    "Se il produttore lascia il bianco a contatto con le fecce, può rimescolarle nel vino durante la maturazione. Questo aumenta il corpo del vino e aggiunge aromi come biscotto e pane. Non aumenta l'acidità né il tannino, e non riduce l'alcol. È una scelta tipica per bianchi ricchi, spesso combinata con malolattica o rovere.",
+    "Si le vinificateur laisse le blanc sur ses lies, il peut les remettre en suspension pendant l'élevage. Cela augmente le corps du vin et ajoute des arômes comme le biscuit et le pain. Cela n'augmente ni l'acidité ni les tanins et ne réduit pas l'alcool. C'est un choix typique des blancs riches, souvent associé à la malolactique ou au chêne.",
+    "If the winemaker keeps a white in contact with its lees, they can be stirred through the wine during maturation. This increases the wine's body and adds flavours such as biscuit and bread. It does not raise acidity or tannin, nor lower alcohol. It is a typical choice for rich whites, often combined with malolactic conversion or oak.",
+    "Si el enólogo deja el blanco en contacto con sus lías, puede removerlas durante la crianza. Esto aumenta el cuerpo del vino y añade aromas como galleta y pan. No aumenta la acidez ni el tanino, ni reduce el alcohol. Es una opción típica para blancos ricos, a menudo combinada con maloláctica o roble."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Perché si assemblano vini diversi ogni anno per un vino di marca?",
+    "Pourquoi assemble-t-on des vins différents chaque année pour un vin de marque ?",
+    "Why are different wines blended each year for a branded wine?",
+    "¿Por qué se mezclan vinos distintos cada año para un vino de marca?"
+   ],
+   "o": [
+    [
+     "Per mantenere uno stile costante",
+     "Pour maintenir un style constant",
+     "To keep the style consistent",
+     "Para mantener un estilo constante"
+    ],
+    [
+     "Per aumentare il grado alcolico",
+     "Pour augmenter le degré d'alcool",
+     "To raise the alcohol level",
+     "Para aumentar la graduación"
+    ],
+    [
+     "Per evitare la malolattica",
+     "Pour éviter la malolactique",
+     "To avoid malolactic conversion",
+     "Para evitar la maloláctica"
+    ],
+    [
+     "Per rendere il vino più limpido",
+     "Pour rendre le vin plus limpide",
+     "To make the wine clearer",
+     "Para que el vino sea más limpio"
+    ]
+   ],
+   "e": [
+    "Chi compra un vino di marca si aspetta lo stesso gusto ogni anno.",
+    "Les consommateurs attendent le même goût chaque année d'un vin de marque.",
+    "Consumers expect a branded wine to taste the same every year.",
+    "Los consumidores esperan que un vino de marca sepa igual cada año."
+   ],
+   "d": [
+    "Ogni annata dà vini diversi a causa del clima e del meteo. Per un vino di marca, però, i consumatori si aspettano un gusto identico di anno in anno. Il produttore assembla quindi vini differenti per ricostruire lo stesso profilo. L'assemblaggio serve anche a creare complessità, ma non ha lo scopo di alzare l'alcol o chiarificare il vino.",
+    "Chaque millésime donne des vins différents à cause du climat et de la météo. Pour un vin de marque, les consommateurs attendent pourtant un goût identique d'une année à l'autre. Le vinificateur assemble donc des vins différents pour reconstruire le même profil. L'assemblage sert aussi à créer de la complexité, mais pas à augmenter l'alcool ni à clarifier le vin.",
+    "Each vintage gives different wines because of climate and weather. For a branded wine, though, consumers expect the same taste year after year. The winemaker therefore blends different wines to rebuild the same profile. Blending also serves to create complexity, but its purpose is not to raise alcohol or clarify the wine.",
+    "Cada añada da vinos distintos por el clima y el tiempo. Sin embargo, en un vino de marca los consumidores esperan el mismo sabor año tras año. Por eso el enólogo mezcla vinos diferentes para reconstruir el mismo perfil. La mezcla sirve también para crear complejidad, pero no para subir el alcohol ni clarificar el vino."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale assemblaggio mira soprattutto alla complessità?",
+    "Quel assemblage vise surtout la complexité ?",
+    "Which kind of blending aims mainly at complexity?",
+    "¿Qué tipo de mezcla busca sobre todo la complejidad?"
+   ],
+   "o": [
+    [
+     "Unire vini di vitigni, vigneti o tecniche diversi",
+     "Réunir des vins de cépages, parcelles ou techniques différents",
+     "Combining wines from different grapes, sites or techniques",
+     "Unir vinos de variedades, viñedos o técnicas distintos"
+    ],
+    [
+     "Unire vino secco e succo d'uva",
+     "Réunir vin sec et jus de raisin",
+     "Combining dry wine and grape juice",
+     "Unir vino seco y mosto"
+    ],
+    [
+     "Unire vino rosso e vino bianco",
+     "Réunir vin rouge et vin blanc",
+     "Combining red and white wine",
+     "Unir vino tinto y vino blanco"
+    ],
+    [
+     "Unire vino e alcol",
+     "Réunir vin et alcool",
+     "Combining wine and spirit",
+     "Unir vino y alcohol"
+    ]
+   ],
+   "e": [
+    "Componenti diversi rendono il vino più complesso delle sue singole parti.",
+    "Des composantes différentes rendent le vin plus complexe que chacune d'elles.",
+    "Different components make the wine more complex than its parts.",
+    "Componentes distintos hacen el vino más complejo que sus partes."
+   ],
+   "d": [
+    "Assemblando vini di vitigni diversi, di vigneti in posizioni diverse o ottenuti con tecniche diverse, il produttore crea un vino più complesso delle singole componenti. Unire vino secco e succo serve invece ad addolcire, unire rosso e bianco è un metodo per il rosato, e aggiungere alcol corrisponde alla fortificazione.",
+    "En assemblant des vins issus de cépages différents, de parcelles situées à des endroits différents ou élaborés selon des techniques différentes, le vinificateur crée un vin plus complexe que ses composantes. Réunir vin sec et jus sert plutôt à adoucir, réunir rouge et blanc est une méthode de rosé, et ajouter de l'alcool correspond au mutage.",
+    "By blending wines from different grape varieties, vineyard locations or techniques, the winemaker creates a wine more complex than its individual components. Combining dry wine with juice is used for sweetening, combining red and white is a rosé method, and adding spirit is fortification.",
+    "Mezclando vinos de variedades distintas, de viñedos situados en lugares distintos o elaborados con técnicas distintas, el enólogo crea un vino más complejo que sus componentes. Unir vino seco y mosto sirve para endulzar, unir tinto y blanco es un método de rosado y añadir alcohol corresponde al encabezado."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Perché alcuni produttori scelgono di non filtrare il vino?",
+    "Pourquoi certains vinificateurs choisissent-ils de ne pas filtrer leur vin ?",
+    "Why do some winemakers choose not to filter their wine?",
+    "¿Por qué algunos enólogos deciden no filtrar el vino?"
+   ],
+   "o": [
+    [
+     "Temono che tolga carattere al vino",
+     "Ils craignent qu'elle retire du caractère au vin",
+     "They feel it can strip the wine's character",
+     "Temen que reste carácter al vino"
+    ],
+    [
+     "Rende il vino più alcolico",
+     "Elle rend le vin plus alcoolisé",
+     "It makes the wine more alcoholic",
+     "Hace el vino más alcohólico"
+    ],
+    [
+     "Aggiunge aromi di rovere",
+     "Elle ajoute des arômes de chêne",
+     "It adds oak flavours",
+     "Añade aromas de roble"
+    ],
+    [
+     "Aumenta l'acidità del vino",
+     "Elle augmente l'acidité du vin",
+     "It increases the wine's acidity",
+     "Aumenta la acidez del vino"
+    ]
+   ],
+   "e": [
+    "Alcuni ritengono che la filtrazione possa togliere qualcosa al carattere del vino.",
+    "Certains estiment que la filtration peut retirer quelque chose au caractère du vin.",
+    "Some believe filtration can take something away from the wine's character.",
+    "Algunos creen que la filtración puede restar algo al carácter del vino."
+   ],
+   "d": [
+    "La maggior parte dei consumatori vuole un vino perfettamente limpido e la filtrazione aiuta a ottenerlo. Alcuni produttori, però, ritengono che queste tecniche possano togliere qualcosa al carattere del vino e preferiscono non usarle. Il loro vino può quindi apparire non perfettamente limpido nel bicchiere. La filtrazione non influisce su alcol, rovere o acidità.",
+    "La plupart des consommateurs veulent un vin parfaitement limpide, et la filtration aide à l'obtenir. Certains vinificateurs estiment cependant que ces techniques peuvent retirer quelque chose au caractère du vin et préfèrent s'en passer. Leur vin peut alors paraître moins limpide dans le verre. La filtration n'agit ni sur l'alcool, ni sur le chêne, ni sur l'acidité.",
+    "Most consumers want a perfectly clear wine, and filtration helps achieve that. Some winemakers, however, feel these techniques can take something away from the wine's character and prefer not to use them. Their wine may therefore look less than perfectly clear in the glass. Filtration does not affect alcohol, oak or acidity.",
+    "La mayoría de los consumidores quiere un vino perfectamente limpio, y la filtración ayuda a conseguirlo. Algunos enólogos, sin embargo, creen que estas técnicas pueden restar algo al carácter del vino y prefieren no usarlas. Su vino puede verse entonces no del todo limpio en la copa. La filtración no influye en el alcohol, el roble ni la acidez."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Come cambia il colore di un vino bianco con l'invecchiamento?",
+    "Comment évolue la couleur d'un blanc avec l'âge ?",
+    "How does a white wine's colour change with age?",
+    "¿Cómo cambia el color de un blanco con la edad?"
+   ],
+   "o": [
+    [
+     "Limone → oro → ambra, più intenso",
+     "Citron → or → ambre, plus intense",
+     "Lemon → gold → amber, deeper",
+     "Limón → oro → ámbar, más intenso"
+    ],
+    [
+     "Oro → limone → verde, più pallido",
+     "Or → citron → vert, plus pâle",
+     "Gold → lemon → green, paler",
+     "Oro → limón → verde, más pálido"
+    ],
+    [
+     "Ambra → oro → limone, più pallido",
+     "Ambre → or → citron, plus pâle",
+     "Amber → gold → lemon, paler",
+     "Ámbar → oro → limón, más pálido"
+    ],
+    [
+     "Limone → rosa → granato",
+     "Citron → rose → grenat",
+     "Lemon → pink → garnet",
+     "Limón → rosa → granate"
+    ]
+   ],
+   "e": [
+    "I bianchi passano da limone a oro ad ambra e il colore si intensifica.",
+    "Les blancs passent du citron à l'or puis à l'ambre, et la couleur s'intensifie.",
+    "Whites go from lemon to gold to amber and deepen in colour.",
+    "Los blancos pasan de limón a oro y a ámbar, y el color se intensifica."
+   ],
+   "d": [
+    "Con il tempo il colore dei bianchi evolve da limone a oro e infine ad ambra, diventando anche più intenso. È l'opposto dei rossi, che con l'età tendono a schiarirsi passando da rubino a granato, aranciato e marrone. Insieme al colore compaiono aromi terziari come albicocca secca, miele, frutta a guscio e spezie.",
+    "Avec le temps, la couleur des blancs évolue du citron à l'or puis à l'ambre, en devenant aussi plus intense. C'est l'inverse des rouges, qui ont tendance à pâlir avec l'âge en passant du rubis au grenat, au tuilé puis au brun. Avec la couleur apparaissent des arômes tertiaires comme l'abricot sec, le miel, les fruits à coque et les épices.",
+    "Over time, the colour of whites moves from lemon to gold and finally amber, also becoming deeper. This is the opposite of reds, which tend to get paler with age, moving from ruby to garnet, tawny and brown. Alongside the colour change, tertiary flavours such as dried apricot, honey, nut and spice appear.",
+    "Con el tiempo, el color de los blancos evoluciona de limón a oro y finalmente a ámbar, volviéndose además más intenso. Es lo contrario de los tintos, que tienden a aclararse con la edad pasando de rubí a granate, teja y marrón. Junto al color aparecen aromas terciarios como orejón, miel, frutos secos y especias."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale insieme di aromi indica un vino rosso evoluto in bottiglia?",
+    "Quel ensemble d'arômes signale un rouge évolué en bouteille ?",
+    "Which set of flavours signals a red wine that has aged in bottle?",
+    "¿Qué conjunto de aromas indica un tinto evolucionado en botella?"
+   ],
+   "o": [
+    [
+     "Fico, prugna secca, carne, foglie bagnate",
+     "Figue, pruneau, viande, feuilles mouillées",
+     "Fig, prune, meat, wet leaves",
+     "Higo, ciruela pasa, carne, hojas mojadas"
+    ],
+    [
+     "Fragola, lampone, ciliegia fresca",
+     "Fraise, framboise, cerise fraîche",
+     "Strawberry, raspberry, fresh cherry",
+     "Fresa, frambuesa, cereza fresca"
+    ],
+    [
+     "Vaniglia, cocco, spezie dolci",
+     "Vanille, coco, épices douces",
+     "Vanilla, coconut, sweet spice",
+     "Vainilla, coco, especias dulces"
+    ],
+    [
+     "Burro, pane, biscotto",
+     "Beurre, pain, biscuit",
+     "Butter, bread, biscuit",
+     "Mantequilla, pan, galleta"
+    ]
+   ],
+   "e": [
+    "Fico, prugna, carne e foglie bagnate sono aromi terziari dei rossi.",
+    "Figue, pruneau, viande et feuilles mouillées sont des arômes tertiaires des rouges.",
+    "Fig, prune, meat and wet leaves are tertiary flavours of reds.",
+    "Higo, ciruela pasa, carne y hojas mojadas son aromas terciarios de los tintos."
+   ],
+   "d": [
+    "Con l'invecchiamento in bottiglia la frutta fresca dei rossi lascia spazio a frutta secca e a note complesse: fico, prugna secca, carne, foglie bagnate, oltre a fungo e cuoio. Fragola e ciliegia fresca sono aromi primari di un vino giovane; vaniglia e cocco vengono dal rovere nuovo; burro, pane e biscotto da malolattica e fecce.",
+    "Avec le vieillissement en bouteille, le fruit frais des rouges laisse place aux fruits secs et à des notes complexes : figue, pruneau, viande, feuilles mouillées, ainsi que champignon et cuir. Fraise et cerise fraîche sont des arômes primaires d'un vin jeune ; vanille et coco viennent du chêne neuf ; beurre, pain et biscuit de la malolactique et des lies.",
+    "With bottle age, the fresh fruit of reds gives way to dried fruit and complex notes: fig, prune, meat and wet leaves, as well as mushroom and leather. Strawberry and fresh cherry are primary flavours of a young wine; vanilla and coconut come from new oak; butter, bread and biscuit from malolactic conversion and lees.",
+    "Con el envejecimiento en botella, la fruta fresca de los tintos deja paso a fruta pasa y a notas complejas: higo, ciruela pasa, carne y hojas mojadas, además de champiñón y cuero. La fresa y la cereza fresca son aromas primarios de un vino joven; la vainilla y el coco vienen del roble nuevo; la mantequilla, el pan y la galleta, de la maloláctica y las lías."
+   ]
+  },
+  {
+   "c": "p6",
+   "q": [
+    "Quale caratteristica è più importante perché un vino migliori in bottiglia?",
+    "Quelle caractéristique est la plus importante pour qu'un vin s'améliore en bouteille ?",
+    "Which feature matters most for a wine to improve in bottle?",
+    "¿Qué característica es la más importante para que un vino mejore en botella?"
+   ],
+   "o": [
+    [
+     "Una concentrazione di aromi sufficiente",
+     "Une concentration d'arômes suffisante",
+     "Enough concentration of flavour",
+     "Suficiente concentración de aromas"
+    ],
+    [
+     "Un basso grado alcolico",
+     "Un faible degré d'alcool",
+     "A low alcohol level",
+     "Una graduación baja"
+    ],
+    [
+     "Una bassa acidità",
+     "Une faible acidité",
+     "Low acidity",
+     "Una acidez baja"
+    ],
+    [
+     "Un tappo di plastica",
+     "Un bouchon en plastique",
+     "A plastic closure",
+     "Un tapón de plástico"
+    ]
+   ],
+   "e": [
+    "Serve soprattutto abbastanza concentrazione di aromi per evolvere positivamente.",
+    "Il faut surtout assez de concentration aromatique pour évoluer positivement.",
+    "Above all, the wine needs enough flavour concentration to evolve well.",
+    "Sobre todo, hace falta suficiente concentración aromática para evolucionar bien."
+   ],
+   "d": [
+    "La maggior parte dei vini non migliora in bottiglia: il frutto svanisce e compaiono note vegetali. I vini da invecchiamento hanno spesso acidità elevata, molto zucchero se dolci e molto tannino se rossi, componenti che li conservano. Ma soprattutto devono avere una concentrazione di aromi sufficiente a evolvere in modo positivo e a guadagnare complessità.",
+    "La plupart des vins ne s'améliorent pas en bouteille : le fruit s'estompe et des notes végétales apparaissent. Les vins de garde ont souvent une acidité élevée, beaucoup de sucre s'ils sont doux et beaucoup de tanins s'ils sont rouges, des composants qui les conservent. Mais ils doivent surtout avoir une concentration aromatique suffisante pour évoluer positivement et gagner en complexité.",
+    "Most wines do not improve in bottle: their fruit fades and vegetal notes appear. Wines for ageing often have high acidity, plenty of sugar if sweet and plenty of tannin if red, components that preserve them. Above all, though, they need enough concentration of flavour to evolve positively and gain complexity.",
+    "La mayoría de los vinos no mejora en botella: la fruta se apaga y aparecen notas vegetales. Los vinos de guarda suelen tener acidez elevada, mucho azúcar si son dulces y mucho tanino si son tintos, componentes que los conservan. Pero, sobre todo, necesitan suficiente concentración aromática para evolucionar de forma positiva y ganar complejidad."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "p5",
+   "f": [
+    "Fermentazione alcolica",
+    "Fermentation alcoolique",
+    "Alcoholic fermentation",
+    "Fermentación alcohólica"
+   ],
+   "b": [
+    "Lieviti + zuccheri → alcol, CO2 e calore. Comune a tutti i vini.",
+    "Levures + sucres → alcool, CO2 et chaleur. Commune à tous les vins.",
+    "Yeast + sugars → alcohol, CO2 and heat. Common to all wines.",
+    "Levaduras + azúcares → alcohol, CO2 y calor. Común a todos los vinos."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Pigiatura vs pressatura",
+    "Foulage vs pressurage",
+    "Crushing vs pressing",
+    "Estrujado vs prensado"
+   ],
+   "b": [
+    "Pigiatura: rompe le bucce. Pressatura: spreme l'uva per estrarre più liquido possibile.",
+    "Foulage : fait éclater les peaux. Pressurage : presse le raisin pour extraire le maximum de liquide.",
+    "Crushing splits the skins. Pressing squeezes out as much liquid as possible.",
+    "Estrujado: rompe los hollejos. Prensado: exprime la uva para extraer el máximo de líquido."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Ordine del bianco",
+    "Ordre du blanc",
+    "White wine order",
+    "Orden del blanco"
+   ],
+   "b": [
+    "Pigiatura → pressatura → fermentazione → conservazione/maturazione → confezionamento.",
+    "Foulage → pressurage → fermentation → conservation/élevage → conditionnement.",
+    "Crush → press → ferment → store/mature → package.",
+    "Estrujado → prensado → fermentación → almacenamiento/crianza → envasado."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Ordine del rosso",
+    "Ordre du rouge",
+    "Red wine order",
+    "Orden del tinto"
+   ],
+   "b": [
+    "Pigiatura → fermentazione con bucce → sgrondo → pressatura → conservazione/maturazione → confezionamento.",
+    "Foulage → fermentation avec peaux → écoulage → pressurage → conservation/élevage → conditionnement.",
+    "Crush → ferment on skins → drain → press → store/mature → package.",
+    "Estrujado → fermentación con hollejos → escurrido → prensado → almacenamiento/crianza → envasado."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Follatura e rimontaggio",
+    "Pigeage et remontage",
+    "Punching down and pumping over",
+    "Bazuqueo y remontado"
+   ],
+   "b": [
+    "Tecniche per mescolare il cappello di bucce con il liquido ed estrarre colore e tannini.",
+    "Techniques pour mélanger le chapeau de peaux au liquide et extraire couleur et tanins.",
+    "Ways of mixing the cap of skins with the liquid to extract colour and tannin.",
+    "Técnicas para mezclar el sombrero de hollejos con el líquido y extraer color y taninos."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Temperature di fermentazione",
+    "Températures de fermentation",
+    "Fermentation temperatures",
+    "Temperaturas de fermentación"
+   ],
+   "b": [
+    "Rossi 20–32 °C (estrazione); bianchi 12–22 °C (più fresco = più fruttato).",
+    "Rouges 20–32 °C (extraction) ; blancs 12–22 °C (plus frais = plus fruité).",
+    "Reds 20–32°C (extraction); whites 12–22°C (cooler = fruitier).",
+    "Tintos 20–32 °C (extracción); blancos 12–22 °C (más frío = más afrutado)."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Fortificazione",
+    "Mutage (fortification)",
+    "Fortification",
+    "Encabezado (fortificación)"
+   ],
+   "b": [
+    "Aggiunta di alcol fino al 15–20% vol: i lieviti muoiono e resta zucchero. Es. Porto.",
+    "Ajout d'alcool jusqu'à 15–20 % vol : les levures meurent et du sucre reste. Ex. Porto.",
+    "Adding alcohol to 15–20% abv kills the yeast, leaving sugar. E.g. Port.",
+    "Añadir alcohol hasta el 15–20 % vol.: las levaduras mueren y queda azúcar. P. ej. Oporto."
+   ]
+  },
+  {
+   "c": "p5",
+   "f": [
+    "Correzioni in cantina",
+    "Ajustements au chai",
+    "Winery adjustments",
+    "Correcciones en bodega"
+   ],
+   "b": [
+    "Clima fresco: più zucchero o meno acido. Clima caldo: aggiunta di acido.",
+    "Climat frais : plus de sucre ou moins d'acide. Climat chaud : ajout d'acide.",
+    "Cool climate: add sugar or reduce acid. Warm climate: add acid.",
+    "Clima fresco: más azúcar o menos ácido. Clima cálido: añadir ácido."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Contenitori inerti",
+    "Contenants inertes",
+    "Inert vessels",
+    "Recipientes inertes"
+   ],
+   "b": [
+    "Acciaio inox e cemento: nessun aroma, possono essere ermetici.",
+    "Inox et béton : aucun arôme, peuvent être hermétiques.",
+    "Stainless steel and concrete: no flavour, can be airtight.",
+    "Acero inoxidable y hormigón: sin aromas, pueden ser herméticos."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Rovere nuovo",
+    "Chêne neuf",
+    "New oak",
+    "Roble nuevo"
+   ],
+   "b": [
+    "Molto aroma: vaniglia, cocco, legno bruciato, spezie. Dopo 2–3 usi diventa rovere vecchio.",
+    "Beaucoup d'arômes : vanille, coco, bois brûlé, épices. Après 2–3 usages, devient chêne ancien.",
+    "Lots of flavour: vanilla, coconut, charred wood, spice. After 2–3 uses it becomes old oak.",
+    "Mucho aroma: vainilla, coco, madera quemada, especias. Tras 2–3 usos pasa a roble usado."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Tostatura",
+    "Chauffe (bousinage)",
+    "Toasting",
+    "Tostado"
+   ],
+   "b": [
+    "Doghe scaldate su fiamma; dà spezie dolci e legno bruciato.",
+    "Douelles chauffées à la flamme ; donne épices douces et bois brûlé.",
+    "Staves heated over flame; gives sweet spice and charred wood.",
+    "Duelas calentadas con llama; da especias dulces y madera quemada."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Ossigeno in botte",
+    "Oxygène en fût",
+    "Oxygen in barrel",
+    "Oxígeno en barrica"
+   ],
+   "b": [
+    "Caramello, frutta secca, frutta a guscio; tannini più morbidi; più rapido in botti piccole.",
+    "Caramel, fruits secs, fruits à coque ; tanins assouplis ; plus rapide en petits fûts.",
+    "Caramel, dried fruit, nuts; softer tannins; faster in small barrels.",
+    "Caramelo, fruta pasa, frutos secos; taninos más suaves; más rápido en barricas pequeñas."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Fermentazione malolattica",
+    "Fermentation malolactique",
+    "Malolactic conversion",
+    "Fermentación maloláctica"
+   ],
+   "b": [
+    "Svolta da batteri: meno acidità, possibili note di burro. Evitata nel Riesling.",
+    "Réalisée par des bactéries : moins d'acidité, notes beurrées possibles. Évitée pour le Riesling.",
+    "By bacteria: lowers acidity, may add butter. Avoided for Riesling.",
+    "La hacen bacterias: menos acidez, posibles notas mantecosas. Se evita en Riesling."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Fecce (lees)",
+    "Lies",
+    "Lees",
+    "Lías"
+   ],
+   "b": [
+    "Lieviti morti; rimescolati danno più corpo e aromi di pane e biscotto.",
+    "Levures mortes ; remuées, elles donnent du corps et des arômes de pain et biscuit.",
+    "Dead yeast; stirred, they add body and bread and biscuit flavours.",
+    "Levaduras muertas; removidas dan más cuerpo y aromas de pan y galleta."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Perché assemblare?",
+    "Pourquoi assembler ?",
+    "Why blend?",
+    "¿Por qué mezclar?"
+   ],
+   "b": [
+    "Costanza dello stile (vini di marca) e complessità.",
+    "Régularité du style (vins de marque) et complexité.",
+    "Consistency of style (branded wines) and complexity.",
+    "Regularidad del estilo (vinos de marca) y complejidad."
+   ]
+  },
+  {
+   "c": "p6",
+   "f": [
+    "Rosso invecchiato in bottiglia",
+    "Rouge vieilli en bouteille",
+    "Red aged in bottle",
+    "Tinto envejecido en botella"
+   ],
+   "b": [
+    "Rubino → granato → tawny → marrone, più pallido; tannini morbidi; fico, prugna, carne; deposito.",
+    "Rubis → grenat → tuilé → brun, plus pâle ; tanins souples ; figue, pruneau, viande ; dépôt.",
+    "Ruby → garnet → tawny → brown, paler; softer tannins; fig, prune, meat; deposit.",
+    "Rubí → granate → teja → marrón, más pálido; taninos suaves; higo, ciruela pasa, carne; poso."
+   ]
+  }
+ ]
 }
