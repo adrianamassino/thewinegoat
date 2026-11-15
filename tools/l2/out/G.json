@@ -408,7 +408,7 @@
     [
      "Si trova spesso in purezza, ma è comune anche il taglio con Cabernet Sauvignon e/o Merlot. In etichetta compaiono di solito il nome del vitigno, la regione Mendoza e la dicitura Wine of Argentina: tre indizi utili per riconoscere un Malbec argentino.",
      "On le trouve souvent en monocépage, mais l'assemblage avec le Cabernet Sauvignon et/ou le Merlot est courant aussi. L'étiquette indique en général le nom du cépage, la région de Mendoza et la mention Wine of Argentina : trois indices utiles pour reconnaître un Malbec argentin.",
-     "It is often a single-varietal wine, but blending with Cabernet Sauvignon and/or Merlot is common too. Labels usually show the grape name, the region Mendoza and the words Wine of Argentina: three handy clues for spotting an Argentine Malbec.",
+     "It is often made as a single-varietal wine, but blending with Cabernet Sauvignon and/or Merlot is common too. Labels usually show the grape name, the region Mendoza and the words Wine of Argentina: three handy clues for spotting an Argentine Malbec.",
      "Se encuentra a menudo como monovarietal, pero también es habitual mezclarla con Cabernet Sauvignon y/o Merlot. En la etiqueta suelen figurar el nombre de la uva, la región de Mendoza y la mención Wine of Argentina: tres pistas útiles para reconocer una Malbec argentina."
     ]
    ],
@@ -2753,5 +2753,276 @@
    ]
   }
  ],
- "flash": []
+ "flash": [
+  {
+   "c": "r1",
+   "f": [
+    "Gamay",
+    "Gamay",
+    "Gamay",
+    "Gamay"
+   ],
+   "b": [
+    "Uva nera del Beaujolais: acidità alta, tannini bassi-medi, lampone e ciliegia rossa, raramente legno.",
+    "Cépage noir du Beaujolais : acidité élevée, tanins faibles à moyens, framboise et cerise rouge, rarement boisé.",
+    "Beaujolais black grape: high acidity, low-medium tannin, raspberry and red cherry, rarely oaked.",
+    "Uva tinta del Beaujolais: acidez alta, taninos bajos-medios, frambuesa y cereza roja, rara vez con madera."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Beaujolais AOC",
+    "Beaujolais AOC",
+    "Beaujolais AOC",
+    "Beaujolais AOC"
+   ],
+   "b": [
+    "Livello base: vigneti piani e fertili del sud, rese alte, vini leggeri e semplici.",
+    "Niveau de base : vignes plates et fertiles du sud, hauts rendements, vins légers et simples.",
+    "Base level: flat, fertile southern vineyards, high yields, light and simple wines.",
+    "Nivel básico: viñedos llanos y fértiles del sur, rendimientos altos, vinos ligeros y sencillos."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Beaujolais Villages AOC",
+    "Beaujolais Villages AOC",
+    "Beaujolais Villages AOC",
+    "Beaujolais Villages AOC"
+   ],
+   "b": [
+    "Villaggi del nord su pendii soleggiati e suoli caldi e drenanti: più intensità e corpo.",
+    "Villages du nord sur coteaux ensoleillés et sols chauds et drainants : plus d'intensité et de corps.",
+    "Northern villages on sunny slopes with warm, free-draining soils: more intensity and body.",
+    "Pueblos del norte en laderas soleadas con suelos cálidos y drenantes: más intensidad y cuerpo."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Fleurie AOC",
+    "Fleurie AOC",
+    "Fleurie AOC",
+    "Fleurie AOC"
+   ],
+   "b": [
+    "Uno dei dieci cru del Beaujolais: Gamay più concentrato e strutturato; alcuni evolvono in bottiglia.",
+    "L'un des dix crus du Beaujolais : Gamay plus concentré et structuré ; certains évoluent en bouteille.",
+    "One of the ten Beaujolais crus: more concentrated, structured Gamay; some develop in bottle.",
+    "Uno de los diez crus del Beaujolais: Gamay más concentrada y estructurada; algunos evolucionan en botella."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Grenache / Garnacha",
+    "Grenache / Garnacha",
+    "Grenache / Garnacha",
+    "Grenache / Garnacha"
+   ],
+   "b": [
+    "Uva da clima caldo, molto zucchero, poca acidità, buccia sottile; fragola, pepe bianco, liquirizia.",
+    "Cépage de climat chaud, riche en sucre, peu acide, peau fine ; fraise, poivre blanc, réglisse.",
+    "Warm-climate grape, high sugar, low acidity, thin skin; strawberry, white pepper, liquorice.",
+    "Uva de clima cálido, mucho azúcar, poca acidez, piel fina; fresa, pimienta blanca, regaliz."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Châteauneuf-du-Pape AOC",
+    "Châteauneuf-du-Pape AOC",
+    "Châteauneuf-du-Pape AOC",
+    "Châteauneuf-du-Pape AOC"
+   ],
+   "b": [
+    "Cru del Rodano meridionale: rossi pieni e alcolici; i ciottoli rilasciano calore di notte.",
+    "Cru du Rhône méridional : rouges corsés et alcooleux ; les galets restituent la chaleur la nuit.",
+    "Southern Rhône cru: full-bodied, high-alcohol reds; stones release heat at night.",
+    "Cru del Ródano meridional: tintos con cuerpo y alcohol alto; los cantos liberan calor de noche."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Côtes du Rhône vs Côtes du Rhône Villages",
+    "Côtes du Rhône ou Côtes du Rhône Villages",
+    "Côtes du Rhône vs Côtes du Rhône Villages",
+    "Côtes du Rhône frente a Côtes du Rhône Villages"
+   ],
+   "b": [
+    "Il primo: semplice, medio corpo, da bere subito. Il secondo: più intensità e complessità.",
+    "Le premier : simple, corps moyen, à boire jeune. Le second : plus d'intensité et de complexité.",
+    "The first: simple, medium-bodied, drink now. The second: more intensity and complexity.",
+    "El primero: sencillo, cuerpo medio, para beber ya. El segundo: más intensidad y complejidad."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Priorat DOCa",
+    "Priorat DOCa",
+    "Priorat DOCa",
+    "Priorat DOCa"
+   ],
+   "b": [
+    "Catalunya, caldo e secco: vecchie viti di Garnacha, rese minime, vini potenti che evolvono a lungo.",
+    "Catalunya, chaud et sec : vieilles vignes de Garnacha, rendements minimes, vins puissants de longue garde.",
+    "Catalunya, warm and dry: old Garnacha vines, tiny yields, powerful long-ageing wines.",
+    "Catalunya, cálido y seco: viñas viejas de Garnacha, rendimientos mínimos, vinos potentes y longevos."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Tempranillo",
+    "Tempranillo",
+    "Tempranillo",
+    "Tempranillo"
+   ],
+   "b": [
+    "Uva nera n. 1 di Spagna: corpo medio-pieno, acidità e tannini medi, frutta rossa e nera.",
+    "Premier cépage noir d'Espagne : corps moyen à plein, acidité et tanins moyens, fruits rouges et noirs.",
+    "Spain's top black grape: medium to full body, medium acidity and tannin, red and black fruit.",
+    "Principal uva tinta de España: cuerpo medio-alto, acidez y taninos medios, fruta roja y negra."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Ribera del Duero DO",
+    "Ribera del Duero DO",
+    "Ribera del Duero DO",
+    "Ribera del Duero DO"
+   ],
+   "b": [
+    "Interno, in quota; giorni caldi e notti fresche: Tempranillo molto pieno con frutta nera fresca.",
+    "Intérieur des terres, en altitude ; jours chauds, nuits fraîches : Tempranillo très corsé aux fruits noirs frais.",
+    "Inland, high altitude; warm days, cool nights: very full-bodied Tempranillo with fresh black fruit.",
+    "Interior, en altura; días cálidos, noches frescas: Tempranillo con mucho cuerpo y fruta negra fresca."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Joven / Genérico",
+    "Joven / Genérico",
+    "Joven / Genérico",
+    "Joven / Genérico"
+   ],
+   "b": [
+    "Vino giovane e fruttato, senza minimi di affinamento, venduto l'anno dopo la vendemmia. In Rioja: Genérico.",
+    "Vin jeune et fruité, sans minimum d'élevage, vendu l'année suivant les vendanges. En Rioja : Genérico.",
+    "Young, fruity wine with no minimum ageing, released the year after harvest. In Rioja: Genérico.",
+    "Vino joven y afrutado, sin crianza mínima, a la venta el año siguiente a la vendimia. En Rioja: Genérico."
+   ]
+  },
+  {
+   "c": "r1",
+   "f": [
+    "Crianza / Reserva / Gran Reserva",
+    "Crianza / Reserva / Gran Reserva",
+    "Crianza / Reserva / Gran Reserva",
+    "Crianza / Reserva / Gran Reserva"
+   ],
+   "b": [
+    "Affinamento minimo crescente: Crianza (botte) < Reserva (botte e bottiglia) < Gran Reserva (il più lungo).",
+    "Élevage minimal croissant : Crianza (fût) < Reserva (fût et bouteille) < Gran Reserva (le plus long).",
+    "Rising minimum ageing: Crianza (barrel) < Reserva (barrel and bottle) < Gran Reserva (longest).",
+    "Crianza mínima creciente: Crianza (barrica) < Reserva (barrica y botella) < Gran Reserva (la más larga)."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Carmenère",
+    "Carmenère",
+    "Carmenère",
+    "Carmenère"
+   ],
+   "b": [
+    "Origine Bordeaux, specialità del Cile; serve una stagione lunga e soleggiata. Scuro, tannico, pieno.",
+    "Origine Bordeaux, spécialité du Chili ; il lui faut une saison longue et ensoleillée. Sombre, tannique, corsé.",
+    "From Bordeaux, Chile's speciality; needs a long, sunny season. Dark, tannic, full-bodied.",
+    "Origen Burdeos, especialidad de Chile; necesita una temporada larga y soleada. Oscura, tánica, con cuerpo."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Carmenère poco maturo",
+    "Carmenère pas assez mûr",
+    "Underripe Carmenère",
+    "Carmenère poco madura"
+   ],
+   "b": [
+    "Note erbacee pungenti: peperone verde e foglia di pomodoro. Matura: mora fresca.",
+    "Notes herbacées marquées : poivron vert et feuille de tomate. Mûr : mûre fraîche.",
+    "Pungent herbaceous notes: green bell pepper and tomato leaf. Ripe: fresh blackberry.",
+    "Notas herbáceas intensas: pimiento verde y hoja de tomate. Madura: mora fresca."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Malbec",
+    "Malbec",
+    "Malbec",
+    "Malbec"
+   ],
+   "b": [
+    "Origine sud-ovest della Francia; uva nera n. 1 dell'Argentina. Scuro, pieno, tannico, mora e prugna nera.",
+    "Origine sud-ouest de la France ; premier cépage noir d'Argentine. Sombre, corsé, tannique, mûre et prune noire.",
+    "From south-west France; Argentina's top black grape. Dark, full, tannic, blackberry and black plum.",
+    "Origen suroeste de Francia; principal uva tinta de Argentina. Oscura, con cuerpo, tánica, mora y ciruela negra."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Mendoza",
+    "Mendoza",
+    "Mendoza",
+    "Mendoza"
+   ],
+   "b": [
+    "Regione argentina in alta quota con la maggior parte dei vigneti di Malbec.",
+    "Région argentine d'altitude qui concentre la plupart des vignes de Malbec.",
+    "High-altitude Argentine region holding most Malbec plantings.",
+    "Región argentina de altura con la mayor parte de los viñedos de Malbec."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Pinotage",
+    "Pinotage",
+    "Pinotage",
+    "Pinotage"
+   ],
+   "b": [
+    "Creato per il clima caldo e secco del Sudafrica, parente del Pinot Nero; tannini medi, acidità alta; Western Cape.",
+    "Créé pour le climat chaud et sec sud-africain, parent du Pinot Noir ; tanins moyens, acidité élevée ; Western Cape.",
+    "Bred for South Africa's warm, dry climate, related to Pinot Noir; medium tannin, high acidity; Western Cape.",
+    "Creada para el clima cálido y seco de Sudáfrica, pariente de la Pinot Noir; taninos medios, acidez alta; Western Cape."
+   ]
+  },
+  {
+   "c": "r3",
+   "f": [
+    "Cape Blend",
+    "Cape Blend",
+    "Cape Blend",
+    "Cape Blend"
+   ],
+   "b": [
+    "Taglio sudafricano che unisce Pinotage e altre uve come Cabernet Sauvignon e Merlot.",
+    "Assemblage sud-africain associant le Pinotage à d'autres cépages comme le Cabernet Sauvignon et le Merlot.",
+    "South African blend of Pinotage with other grapes such as Cabernet Sauvignon and Merlot.",
+    "Mezcla sudafricana de Pinotage con otras uvas como Cabernet Sauvignon y Merlot."
+   ]
+  }
+ ]
 }
