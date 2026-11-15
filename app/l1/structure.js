@@ -1,4 +1,4 @@
-/* The Wine Goat — Level 1 structure (content to be filled from the course material).
+/* The Wine Goat — Level 1 structure (checked against the 2022 issue of the course specification) (content to be filled from the course material).
    Same engines as Level 3: groups → chapters → lessons; every item carries a chapter id.
    Exam: 30 multiple-choice questions, 45 minutes, pass 70%. "w" = exam questions per area (out of 30).
    No exam-body or book names appear in the app text. */
@@ -44,9 +44,9 @@ window.TWG_L1 = {
     t3: { w: 0, n: { it: "Degustare: i primi passi", fr: "Déguster : premiers pas", en: "Tasting: first steps", es: "Catar: primeros pasos" },
       lessons: ["appearance: colour", "nose: fruit, oak, other", "palate: sweetness, acidity, tannin, alcohol, body; flavours"] }
   },
-  /* suggested first tasting flight (for "My wines") */
-  tastings: [["light, high-acid unoaked Sauvignon Blanc", "full-bodied oaked Chardonnay", "light unoaked Pinot Noir", "medium-bodied oaked Merlot",
-              "full-bodied, highly oaked Cabernet Sauvignon", "Sauternes"]],
+  /* tasting during the course: 3 reds + 2 whites from the key grapes with contrasting characteristics,
+     plus 1 sweet wine named in the course (e.g. Sauternes) or 1 rosé (e.g. White Zinfandel) — used by "My wines" */
+  tastings: { reds: 3, whites: 2, sweetOrRose: 1, suggest: ["unoaked Sauvignon Blanc", "oaked Chardonnay", "Pinot Noir", "Merlot", "Cabernet Sauvignon", "Sauternes"] },
   formats: {
     question: "{id, c:chapter, q:[it,fr,en], o:[[it,fr,en] ×4 or ×2 for true/false, first = correct], e:[it,fr,en] short why}",
     lesson: "{c:chapter, t:[it,fr,en] title, p:[[it,fr,en] paragraphs], keys:[[it,fr,en] key points]}",
