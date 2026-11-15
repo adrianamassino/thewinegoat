@@ -1,6 +1,195 @@
 {
 "lessons": [
 {
+"c": "s3",
+"t": [
+"Il Porto: Douro e fortificazione che ferma la fermentazione",
+"Le Porto : le Douro et un mutage qui arrête la fermentation",
+"Port: the Douro and fortification that stops fermentation",
+"El Oporto: el Duero y un encabezado que detiene la fermentación"
+],
+"p": [
+[
+"Il Porto è un vino fortificato dolce prodotto con uve coltivate nell'Alto Douro, in Portogallo. Nasce da un assemblaggio di vitigni neri locali e la maggior parte dei Porto unisce vini di più annate. Tutti i Porto seguono lo stesso procedimento di base; sono poi la maturazione e la selezione dei vini a creare gli stili diversi.",
+"Le Porto est un vin muté doux élaboré avec des raisins cultivés dans le Haut-Douro, au Portugal. Il naît d'un assemblage de cépages noirs locaux, et la plupart des Portos associent des vins de plusieurs années. Tous les Portos suivent le même procédé de base ; ce sont ensuite l'élevage et la sélection des vins qui créent les différents styles.",
+"Port is a sweet fortified wine made from grapes grown in the Upper Douro region of Portugal. It is a blend of local black grape varieties, and most Ports blend wines from several vintages. All Port follows the same basic process; maturation and the choice of wines then create the different styles.",
+"El Oporto es un vino generoso dulce elaborado con uvas cultivadas en el Alto Duero, en Portugal. Es un ensamblaje de variedades tintas locales, y la mayoría de los Oportos mezclan vinos de varias añadas. Todos siguen el mismo proceso básico; después, la crianza y la selección de vinos crean los distintos estilos."
+],
+[
+"Dopo la vendemmia bisogna estrarre in fretta colore e tannino dalle bucce, perché la fermentazione sarà breve. Tradizionalmente si pigiano le uve con i piedi; oggi esistono anche macchine che fanno lo stesso lavoro. Senza questa estrazione veloce il vino resterebbe chiaro e leggero, lontano dallo stile scuro e strutturato tipico del Porto.",
+"Après la vendange, il faut extraire rapidement la couleur et le tanin des peaux, car la fermentation sera courte. Traditionnellement, on foule le raisin aux pieds ; aujourd'hui, des machines peuvent faire le même travail. Sans cette extraction rapide, le vin resterait pâle et léger, loin du style foncé et structuré typique du Porto.",
+"After the harvest, colour and tannin must be extracted quickly from the skins, because fermentation will be short. Traditionally this is done by treading the grapes by foot; today machines can also do the job. Without this quick extraction the wine would stay pale and light, far from the deep, structured style typical of Port.",
+"Tras la vendimia hay que extraer rápido el color y el tanino de los hollejos, porque la fermentación será corta. Tradicionalmente se pisa la uva con los pies; hoy también hay máquinas que hacen ese trabajo. Sin esta extracción rápida, el vino quedaría pálido y ligero, lejos del estilo oscuro y estructurado típico del Oporto."
+],
+[
+"La fermentazione viene interrotta aggiungendo spirito d'uva. L'alcol uccide i lieviti, la fermentazione si ferma e una parte dello zucchero dell'uva resta nel vino: il Porto è quindi dolce e con alcol alto. È questa la grande differenza con lo Sherry, fortificato a fermentazione finita e quindi di base secco.",
+"La fermentation est interrompue par l'ajout d'eau-de-vie de raisin. L'alcool tue les levures, la fermentation s'arrête et une partie du sucre du raisin reste dans le vin : le Porto est donc doux et riche en alcool. C'est la grande différence avec le Xérès, muté après la fermentation et donc sec à la base.",
+"Fermentation is interrupted by adding grape spirit. The alcohol kills the yeast, fermentation stops and some of the grape sugar stays in the wine: Port is therefore sweet and high in alcohol. This is the big difference from Sherry, which is fortified after fermentation and so starts out dry.",
+"La fermentación se interrumpe añadiendo aguardiente de uva. El alcohol mata las levaduras, la fermentación se detiene y parte del azúcar de la uva queda en el vino: el Oporto es, por tanto, dulce y de alcohol alto. Esa es la gran diferencia con el Jerez, encabezado tras la fermentación y por eso seco de base."
+],
+[
+"Dopo la fortificazione il vino matura per un certo periodo prima dell'assemblaggio e dell'imbottigliamento. Come per lo Sherry, è soprattutto la maturazione a definire lo stile. Le due grandi famiglie sono i Porto in stile ruby, scuri e fruttati, e i Porto in stile tawny, segnati dall'ossidazione.",
+"Après le mutage, le vin est élevé un certain temps avant l'assemblage et la mise en bouteille. Comme pour le Xérès, c'est surtout l'élevage qui définit le style. Les deux grandes familles sont les Portos de style ruby, foncés et fruités, et les Portos de style tawny, marqués par l'oxydation.",
+"After fortification the wine matures for a time before blending and bottling. As with Sherry, maturation is what mainly defines the style. The two big families are ruby-style Ports, deep and fruity, and tawny-style Ports, shaped by oxidation. Whatever the family, every Port is sweet.",
+"Tras el encabezado, el vino se cría durante un tiempo antes del ensamblaje y el embotellado. Como en el Jerez, es sobre todo la crianza la que define el estilo. Las dos grandes familias son los Oportos de estilo ruby, oscuros y afrutados, y los de estilo tawny, marcados por la oxidación."
+]
+],
+"keys": [
+[
+"Alto Douro, Portogallo; assemblaggio di uve nere locali",
+"Haut-Douro, Portugal ; assemblage de cépages noirs locaux",
+"Upper Douro, Portugal; blend of local black grapes",
+"Alto Duero, Portugal; ensamblaje de uvas tintas locales"
+],
+[
+"Estrazione rapida di colore e tannino (pigiatura con i piedi o macchine)",
+"Extraction rapide de couleur et de tanin (foulage aux pieds ou machines)",
+"Rapid extraction of colour and tannin (foot treading or machines)",
+"Extracción rápida de color y tanino (pisado o máquinas)"
+],
+[
+"Spirito d'uva a metà fermentazione → lieviti morti → dolce e alcolico",
+"Eau-de-vie en cours de fermentation → levures tuées → doux et alcoolisé",
+"Grape spirit mid-fermentation → yeast killed → sweet and strong",
+"Aguardiente a mitad de fermentación → levaduras muertas → dulce y alcohólico"
+],
+[
+"Tutto il Porto è dolce; lo stile dipende dalla maturazione",
+"Tout Porto est doux ; le style dépend de l'élevage",
+"All Port is sweet; style depends on maturation",
+"Todo Oporto es dulce; el estilo depende de la crianza"
+]
+]
+},
+{
+"c": "s3",
+"t": [
+"Porto in stile ruby: Ruby, Reserve Ruby, LBV e Vintage",
+"Portos de style ruby : Ruby, Reserve Ruby, LBV et Vintage",
+"Ruby-style Port: Ruby, Reserve Ruby, LBV and Vintage",
+"Oportos de estilo ruby: Ruby, Reserve Ruby, LBV y Vintage"
+],
+"p": [
+[
+"I Porto in stile ruby sono di colore intenso e fruttati. Dopo la fortificazione maturano per un periodo in grandi contenitori, tradizionalmente grandi botti di rovere vecchio, a volte vasche d'acciaio, e poi si imbottigliano pronti da bere. Grandi contenitori significano poco ossigeno: il vino conserva colore e frutto, con sapori di frutti neri cotti come ciliegia nera e mora.",
+"Les Portos de style ruby sont d'une couleur intense et fruités. Après le mutage, ils sont élevés un temps dans de grands contenants, traditionnellement de grands foudres de vieux chêne, parfois des cuves inox, puis mis en bouteille prêts à boire. Grands contenants, peu d'oxygène : le vin garde sa couleur et son fruit, avec des saveurs de fruits noirs cuits comme la cerise noire et la mûre.",
+"Ruby-style Ports are deeply coloured and fruity. After fortification they spend some time in large vessels, traditionally big old-oak casks and sometimes stainless steel tanks, then are bottled ready to drink. Large vessels mean little oxygen, so the wine keeps its colour and fruit, with flavours of cooked black fruit such as black cherry and blackberry.",
+"Los Oportos de estilo ruby tienen color intenso y son afrutados. Tras el encabezado se crían un tiempo en grandes recipientes, tradicionalmente grandes toneles de roble viejo y a veces depósitos de acero inoxidable, y se embotellan listos para beber. Recipientes grandes significan poco oxígeno: el vino conserva color y fruta, con sabores de fruta negra cocida como cereza negra y mora."
+],
+[
+"Il Ruby più economico è dolce, semplice e fruttato, con tannini più bassi degli altri ruby e spesso un po' di frutta rossa accanto a quella nera. Il Reserve Ruby usa vini di qualità migliore, con sapori più intensi, e talvolta matura più a lungo per ammorbidire e integrare l'alcol aggiunto.",
+"Le Ruby d'entrée de gamme est doux, simple et fruité, avec des tanins plus bas que les autres ruby et souvent un peu de fruits rouges à côté des fruits noirs. Le Reserve Ruby utilise des vins de meilleure qualité, aux saveurs plus intenses, et il est parfois élevé plus longtemps pour assouplir et intégrer l'alcool ajouté.",
+"Inexpensive Ruby is sweet, simple and fruity, with lower tannins than other ruby styles and often some red fruit alongside the black. Reserve Ruby uses better-quality wines with more flavour intensity, and is sometimes matured for longer to soften and integrate the added alcohol.",
+"El Ruby económico es dulce, sencillo y afrutado, con taninos más bajos que otros ruby y a menudo algo de fruta roja junto a la negra. El Reserve Ruby usa vinos de mejor calidad, con sabores más intensos, y a veces se cría más tiempo para suavizar e integrar el alcohol añadido."
+],
+[
+"Il Late Bottled Vintage (LBV) ha uno stile simile al Reserve Ruby, ma contiene vini di una sola annata. Il Vintage Port è il vertice: si fa con i vini migliori di una singola annata eccezionale. È molto tannico e concentrato e può evolvere in bottiglia almeno 20 anni, a volte molto di più.",
+"Le Late Bottled Vintage (LBV) a un style proche du Reserve Ruby, mais il provient d'une seule année. Le Vintage Port est le sommet : il est élaboré avec les meilleurs vins d'une seule année exceptionnelle. Très tannique et concentré, il peut évoluer en bouteille au moins 20 ans, parfois bien plus.",
+"Late Bottled Vintage (LBV) Port is similar in style to Reserve Ruby but contains wines from a single vintage. Vintage Port is the top of the range: it is made from the best wines of a single exceptional year. It is high in tannin and very concentrated, and can mature in bottle for at least 20 years, sometimes much longer.",
+"El Late Bottled Vintage (LBV) tiene un estilo parecido al Reserve Ruby, pero contiene vinos de una sola añada. El Vintage Port es la cima: se elabora con los mejores vinos de un único año excepcional. Es muy tánico y concentrado y puede evolucionar en botella al menos 20 años, a veces mucho más."
+],
+[
+"Con gli anni il Vintage passa dal colore rubino al granato e sviluppa complessi aromi terziari di frutta secca, cuoio e sottobosco. Forma anche un deposito spesso, quindi va decantato prima di servirlo. Non si produce ogni anno: i produttori lo dichiarano solo nelle annate migliori.",
+"Avec les années, le Vintage passe du rubis au grenat et développe des arômes tertiaires complexes de fruits secs, de cuir et de sous-bois. Il forme aussi un dépôt épais et doit donc être décanté avant le service. Il n'est pas produit chaque année : les producteurs ne le déclarent que les meilleures années.",
+"Over the years Vintage Port turns from ruby to garnet and develops complex tertiary aromas of dried fruit, leather and forest floor. It also throws a thick deposit, so it must be decanted before serving. It is not made every year: producers declare a vintage only in the best years.",
+"Con los años el Vintage pasa del rubí al granate y desarrolla complejos aromas terciarios de fruta pasa, cuero y sotobosque. También forma un depósito espeso, así que hay que decantarlo antes de servirlo. No se elabora todos los años: los productores solo lo declaran en las mejores añadas."
+]
+],
+"keys": [
+[
+"Ruby: grandi contenitori, colore intenso, frutti neri cotti",
+"Ruby : grands contenants, couleur intense, fruits noirs cuits",
+"Ruby: large vessels, deep colour, cooked black fruit",
+"Ruby: recipientes grandes, color intenso, fruta negra cocida"
+],
+[
+"Reserve Ruby: vini migliori, più intensi, a volte più maturazione",
+"Reserve Ruby : meilleurs vins, plus intenses, parfois élevage plus long",
+"Reserve Ruby: better wines, more intense, sometimes aged longer",
+"Reserve Ruby: mejores vinos, más intensos, a veces más crianza"
+],
+[
+"LBV: come un Reserve Ruby ma da una sola annata",
+"LBV : comme un Reserve Ruby mais d'une seule année",
+"LBV: like Reserve Ruby but from one vintage",
+"LBV: como un Reserve Ruby pero de una sola añada"
+],
+[
+"Vintage: annata eccezionale dichiarata, tannico, 20+ anni in bottiglia",
+"Vintage : année exceptionnelle déclarée, tannique, 20 ans et plus en bouteille",
+"Vintage: declared exceptional year, tannic, 20+ years in bottle",
+"Vintage: añada excepcional declarada, tánico, más de 20 años en botella"
+],
+[
+"Vintage maturo: granato, frutta secca, cuoio, sottobosco; va decantato",
+"Vintage évolué : grenat, fruits secs, cuir, sous-bois ; à décanter",
+"Mature Vintage: garnet, dried fruit, leather, forest floor; decant",
+"Vintage maduro: granate, fruta pasa, cuero, sotobosque; decantar"
+]
+]
+},
+{
+"c": "s3",
+"t": [
+"Porto in stile tawny",
+"Portos de style tawny",
+"Tawny-style Port",
+"Oportos de estilo tawny"
+],
+"p": [
+[
+"I Porto tawny prendono il nome dal loro colore fulvo, bruno-aranciato. I migliori lo ottengono con un lungo invecchiamento ossidativo in piccole botti: più ossigeno raggiunge il vino rispetto ai grandi contenitori dei ruby, e col tempo il colore diventa sempre più bruno.",
+"Les Portos tawny doivent leur nom à leur couleur fauve, brun orangé. Les meilleurs l'obtiennent grâce à un long vieillissement oxydatif en petits fûts : l'oxygène atteint davantage le vin que dans les grands contenants des ruby, et avec le temps la couleur devient de plus en plus brune.",
+"Tawny-style Ports are named after their tawny, brownish colour. The best get it from long oxidative ageing in small barrels: more oxygen reaches the wine than in the large vessels used for ruby styles, and over time the colour turns more and more brown.",
+"Los Oportos tawny deben su nombre a su color leonado, pardo anaranjado. Los mejores lo obtienen con una larga crianza oxidativa en barricas pequeñas: llega al vino más oxígeno que en los grandes recipientes de los ruby, y con el tiempo el color se vuelve cada vez más marrón."
+],
+[
+"Durante questo invecchiamento il tawny sviluppa note complesse di frutta secca e di ossidazione voluta, come noce, caffè e caramello, perdendo il frutto fresco dei ruby. I tawny di questo tipo riportano spesso in etichetta un'indicazione d'età: 10, 20, 30 o 40 anni, ma se ne trovano anche di più vecchi.",
+"Pendant ce vieillissement, le tawny développe des notes complexes de fruits secs et d'oxydation voulue, comme la noix, le café et le caramel, et perd le fruit frais des ruby. Les tawnies de ce type portent souvent une indication d'âge sur l'étiquette : 10, 20, 30 ou 40 ans, mais on en trouve aussi de plus vieux.",
+"During this ageing the tawny develops complex notes of dried fruit and deliberate oxidation, such as walnut, coffee and caramel, leaving behind the fresh fruit of ruby styles. Tawnies made this way often carry an age indication on the label: 10, 20, 30 or 40 years, though even older ones exist.",
+"Durante esta crianza el tawny desarrolla complejas notas de fruta pasa y de oxidación deliberada, como nuez, café y caramelo, y pierde la fruta fresca de los ruby. Los tawnies de este tipo suelen llevar en la etiqueta una indicación de edad: 10, 20, 30 o 40 años, aunque también los hay más viejos."
+],
+[
+"Attenzione però: non tutti i Tawny sono così. I vini economici etichettati semplicemente Tawny Port sono semplici, fruttati, poco tannici e di colore chiaro. Per un tawny complesso conviene cercare l'indicazione d'età in etichetta: è un indizio utile per capire che stile ci sarà nel bicchiere.",
+"Attention toutefois : tous les Tawny ne se ressemblent pas. Les vins bon marché simplement étiquetés Tawny Port sont simples, fruités, peu tanniques et de couleur pâle. Pour un tawny complexe, mieux vaut chercher l'indication d'âge sur l'étiquette : c'est un indice précieux du style qui attend dans le verre.",
+"Be careful, though: not every Tawny is like this. Inexpensive wines labelled simply Tawny Port are simple, fruity, low in tannin and pale in colour. For a complex tawny, look for an age indication on the label: it is a useful clue to the style you will find in the glass.",
+"Ojo, eso sí: no todos los Tawny son así. Los vinos económicos etiquetados simplemente como Tawny Port son sencillos, afrutados, poco tánicos y de color pálido. Para un tawny complejo conviene buscar la indicación de edad en la etiqueta: es una pista útil sobre el estilo que encontrarás en la copa."
+]
+],
+"keys": [
+[
+"Tawny = colore fulvo dato dall'ossidazione",
+"Tawny = couleur fauve due à l'oxydation",
+"Tawny = brownish colour from oxidation",
+"Tawny = color leonado debido a la oxidación"
+],
+[
+"Migliori tawny: lungo invecchiamento in piccole botti",
+"Meilleurs tawnies : long vieillissement en petits fûts",
+"Best tawnies: long ageing in small barrels",
+"Mejores tawnies: larga crianza en barricas pequeñas"
+],
+[
+"Note di frutta secca, noce, caffè, caramello",
+"Notes de fruits secs, noix, café, caramel",
+"Dried fruit, walnut, coffee, caramel notes",
+"Notas de fruta pasa, nuez, café, caramelo"
+],
+[
+"Indicazione d'età: 10, 20, 30, 40 anni",
+"Indication d'âge : 10, 20, 30, 40 ans",
+"Age indication: 10, 20, 30, 40 years",
+"Indicación de edad: 10, 20, 30, 40 años"
+],
+[
+"Tawny economico: semplice, fruttato, chiaro, poco tannico",
+"Tawny bon marché : simple, fruité, pâle, peu tannique",
+"Cheap Tawny: simple, fruity, pale, low tannin",
+"Tawny económico: sencillo, afrutado, pálido, poco tánico"
+]
+]
+},
+{
 "c": "s1",
 "t": [
 "Da dove vengono le bollicine: vino base e seconda fermentazione",
@@ -467,10 +656,10 @@
 "Para el Fino, el vino base se encabeza a alrededor de un 15 % vol. antes de entrar en la solera: con esa graduación la flor puede vivir. El resultado es un Jerez amarillo pálido, con aromas de manzana y almendra e intensas notas de masa de pan que proceden precisamente de la flor."
 ],
 [
-"Il Fino è delicato: una volta imbottigliato perde presto la sua freschezza, quindi va bevuto il prima possibile. Si serve fresco di frigorifero. Sull'etichetta, Pale Cream indica un Fino addolcito.",
-"Le Fino est délicat : une fois en bouteille, il perd vite sa fraîcheur et doit être bu le plus tôt possible. Il se sert frais. Sur l'étiquette, Pale Cream désigne un Fino adouci.",
-"Fino is delicate: once bottled it quickly loses its freshness, so it should be drunk as soon as possible. It is best served chilled. On a label, Pale Cream means a sweetened Fino.",
-"El Fino es delicado: una vez embotellado pierde enseguida su frescura, así que hay que beberlo cuanto antes. Se sirve frío. En la etiqueta, Pale Cream indica un Fino endulzado."
+"Il Fino è delicato: una volta imbottigliato perde presto la sua freschezza, quindi va bevuto il prima possibile. Si serve fresco di frigorifero. Il suo colore chiaro e le note di pasta di pane dipendono dalla protezione del flor: per questo è così diverso dagli stili ossidativi, più scuri. Sull'etichetta, Pale Cream indica un Fino addolcito.",
+"Le Fino est délicat : une fois en bouteille, il perd vite sa fraîcheur et doit être bu le plus tôt possible. Il se sert frais. Sa couleur pâle et ses notes de pâte à pain viennent de la protection de la flor : c'est ce qui le distingue tant des styles oxydatifs, plus foncés. Sur l'étiquette, Pale Cream désigne un Fino adouci.",
+"Fino is delicate: once bottled it quickly loses its freshness, so it should be drunk as soon as possible. It is best served chilled. Its pale colour and bread-dough notes come from the flor's protection, which is why it is so different from the darker oxidative styles. On a label, Pale Cream means a sweetened Fino.",
+"El Fino es delicado: una vez embotellado pierde enseguida su frescura, así que hay que beberlo cuanto antes. Se sirve frío. Su color pálido y sus notas de masa de pan se deben a la protección de la flor: por eso es tan distinto de los estilos oxidativos, más oscuros. En la etiqueta, Pale Cream indica un Fino endulzado."
 ]
 ],
 "keys": [
@@ -518,7 +707,7 @@
 [
 "Per l'Oloroso il flor non entra in gioco. Il vino base secco viene fortificato a circa il 17% vol., una gradazione a cui il flor non sopravvive. Senza la sua protezione, il vino invecchia a contatto con l'ossigeno: è l'invecchiamento ossidativo.",
 "Pour l'Oloroso, la flor n'intervient pas. Le vin de base sec est muté à environ 17 % vol., un degré auquel la flor ne survit pas. Sans sa protection, le vin vieillit au contact de l'oxygène : c'est le vieillissement oxydatif.",
-"Oloroso is made without flor. The dry base wine is fortified to about 17% abv, a strength at which flor cannot survive. Without that protection, the wine ages in contact with oxygen: this is oxidative ageing.",
+"Oloroso is made without flor. The dry base wine is fortified to about 17% abv, a strength at which flor cannot survive. Without that protection, the wine ages in contact with oxygen: this is oxidative ageing, the opposite of the protected, biological ageing of Fino.",
 "En el Oloroso la flor no interviene. El vino base seco se encabeza a alrededor de un 17 % vol., graduación a la que la flor no sobrevive. Sin su protección, el vino envejece en contacto con el oxígeno: es la crianza oxidativa."
 ],
 [
@@ -618,6 +807,805 @@
 }
 ],
 "questions": [
+{
+"c": "s3",
+"q": [
+"Dove si coltivano le uve per il Porto?",
+"Où sont cultivés les raisins du Porto ?",
+"Where are the grapes for Port grown?",
+"¿Dónde se cultivan las uvas del Oporto?"
+],
+"o": [
+[
+"Nell'Alto Douro, in Portogallo",
+"Dans le Haut-Douro, au Portugal",
+"In the Upper Douro, Portugal",
+"En el Alto Duero, Portugal"
+],
+[
+"Intorno a Jerez, in Spagna",
+"Autour de Jerez, en Espagne",
+"Around Jerez, Spain",
+"Alrededor de Jerez, España"
+],
+[
+"In Catalogna, in Spagna",
+"En Catalogne, en Espagne",
+"In Catalunya, Spain",
+"En Cataluña, España"
+],
+[
+"Nel Piemonte, in Italia",
+"Dans le Piémont, en Italie",
+"In Piemonte, Italy",
+"En el Piamonte, Italia"
+]
+],
+"e": [
+"Il Porto nasce da uve dell'Alto Douro, nel nord del Portogallo.",
+"Le Porto est issu de raisins du Haut-Douro, au Portugal.",
+"Port is made from grapes grown in Portugal's Upper Douro.",
+"El Oporto se elabora con uvas del Alto Duero, en Portugal."
+],
+"d": [
+"Il Porto è un vino fortificato dolce fatto con uve dell'Alto Douro, in Portogallo, assemblando vitigni neri locali. Jerez è la zona dello Sherry, la Catalogna quella del Cava e il Piemonte quella dell'Asti: tutte aree legate ad altri stili trattati in questa parte del programma.",
+"Le Porto est un vin muté doux élaboré avec des raisins du Haut-Douro, au Portugal, en assemblant des cépages noirs locaux. Jerez est la zone du Xérès, la Catalogne celle du Cava et le Piémont celle de l'Asti : autant de régions liées à d'autres styles vus dans cette partie du programme.",
+"Port is a sweet fortified wine made from grapes grown in the Upper Douro in Portugal, blending local black varieties. Jerez is Sherry country, Catalunya is home to Cava and Piemonte to Asti: all regions linked to other styles in this part of the syllabus.",
+"El Oporto es un vino generoso dulce elaborado con uvas del Alto Duero, en Portugal, mezclando variedades tintas locales. Jerez es la zona del Jerez, Cataluña la del Cava y el Piamonte la del Asti: todas ellas regiones ligadas a otros estilos de esta parte del temario."
+]
+},
+{
+"c": "s3",
+"q": [
+"Perché tutto il Porto è dolce?",
+"Pourquoi tout Porto est-il doux ?",
+"Why is all Port sweet?",
+"¿Por qué todo el Oporto es dulce?"
+],
+"o": [
+[
+"Lo spirito ferma la fermentazione prima che finisca lo zucchero",
+"L'eau-de-vie arrête la fermentation avant la fin du sucre",
+"Spirit stops fermentation before all the sugar is used",
+"El aguardiente detiene la fermentación antes de agotar el azúcar"
+],
+[
+"Si aggiunge zucchero prima dell'imbottigliamento",
+"On ajoute du sucre avant la mise en bouteille",
+"Sugar is added before bottling",
+"Se añade azúcar antes del embotellado"
+],
+[
+"Le uve sono appassite al sole prima della pigiatura",
+"Les raisins sont séchés au soleil avant le foulage",
+"The grapes are sun-dried before crushing",
+"La uva se pasifica al sol antes del pisado"
+],
+[
+"Si filtrano i lieviti a metà fermentazione",
+"On filtre les levures à mi-fermentation",
+"The yeast are filtered out mid-fermentation",
+"Se filtran las levaduras a mitad de fermentación"
+]
+],
+"e": [
+"L'alcol aggiunto uccide i lieviti: la fermentazione si ferma e resta zucchero dell'uva.",
+"L'alcool ajouté tue les levures : la fermentation s'arrête et du sucre du raisin reste.",
+"The added spirit kills the yeast: fermentation stops and grape sugar remains.",
+"El alcohol añadido mata las levaduras: la fermentación se para y queda azúcar de la uva."
+],
+"d": [
+"Nel Porto la fermentazione viene interrotta aggiungendo spirito d'uva. L'alcol uccide i lieviti, che non possono più trasformare lo zucchero, quindi una parte resta nel vino. Il risultato è dolce e con alcol alto. Fermare la fermentazione filtrando i lieviti è invece il metodo Asti, usato per spumanti dolci.",
+"Pour le Porto, la fermentation est interrompue par l'ajout d'eau-de-vie de raisin. L'alcool tue les levures, qui ne peuvent plus transformer le sucre : une partie reste donc dans le vin. Le résultat est doux et riche en alcool. Arrêter la fermentation en filtrant les levures, c'est en revanche la méthode Asti, utilisée pour les effervescents doux.",
+"For Port, fermentation is interrupted by adding grape spirit. The alcohol kills the yeast, which can no longer convert sugar, so some sugar remains in the wine. The result is sweet and high in alcohol. Stopping fermentation by filtering the yeast is the Asti method instead, used for sweet sparkling wines.",
+"En el Oporto, la fermentación se interrumpe añadiendo aguardiente de uva. El alcohol mata las levaduras, que ya no pueden transformar el azúcar, así que parte queda en el vino. El resultado es dulce y con mucho alcohol. Detener la fermentación filtrando las levaduras es, en cambio, el método Asti, usado para espumosos dulces."
+]
+},
+{
+"c": "s3",
+"q": [
+"Perché nel Porto colore e tannino vanno estratti rapidamente?",
+"Pourquoi faut-il extraire vite la couleur et le tanin pour le Porto ?",
+"Why must colour and tannin be extracted quickly for Port?",
+"¿Por qué hay que extraer rápido el color y el tanino en el Oporto?"
+],
+"o": [
+[
+"Perché la fermentazione viene interrotta presto",
+"Parce que la fermentation est interrompue tôt",
+"Because fermentation is interrupted early",
+"Porque la fermentación se interrumpe pronto"
+],
+[
+"Perché il vino invecchia sotto flor",
+"Parce que le vin vieillit sous flor",
+"Because the wine ages under flor",
+"Porque el vino envejece bajo flor"
+],
+[
+"Perché le uve sono bianche",
+"Parce que les raisins sont blancs",
+"Because the grapes are white",
+"Porque las uvas son blancas"
+],
+[
+"Perché il vino resta sulle fecce per anni",
+"Parce que le vin reste sur lies pendant des années",
+"Because the wine stays on lees for years",
+"Porque el vino pasa años en lías"
+]
+],
+"e": [
+"La fortificazione ferma presto la fermentazione, quindi c'è poco tempo per estrarre dalle bucce.",
+"Le mutage arrête tôt la fermentation : il reste peu de temps pour extraire des peaux.",
+"Fortification stops fermentation early, leaving little time to extract from the skins.",
+"El encabezado detiene pronto la fermentación, así que hay poco tiempo para extraer de los hollejos."
+],
+"d": [
+"Nel Porto lo spirito d'uva si aggiunge durante la fermentazione, che quindi dura poco. Per ottenere comunque un vino scuro e strutturato, colore e tannino vanno estratti in fretta dalle bucce delle uve nere. Tradizionalmente lo si fa pigiando l'uva con i piedi; oggi esistono anche macchine apposite.",
+"Pour le Porto, l'eau-de-vie est ajoutée pendant la fermentation, qui est donc courte. Pour obtenir malgré tout un vin foncé et structuré, il faut extraire vite la couleur et le tanin des peaux des raisins noirs. Traditionnellement, on foule le raisin aux pieds ; aujourd'hui, des machines existent aussi pour cela.",
+"For Port, grape spirit is added during fermentation, which is therefore short. To still get a deep-coloured, structured wine, colour and tannin must be extracted quickly from the black grape skins. Traditionally this is done by foot treading; today machines exist for the same purpose.",
+"En el Oporto el aguardiente se añade durante la fermentación, que por tanto es corta. Para conseguir aun así un vino oscuro y con estructura, hay que extraer rápido el color y el tanino de los hollejos de las uvas tintas. Tradicionalmente se hace pisando la uva; hoy también existen máquinas para ello."
+]
+},
+{
+"c": "s3",
+"q": [
+"Qual è il metodo tradizionale per estrarre colore e tannino nel Porto?",
+"Quelle est la méthode traditionnelle pour extraire couleur et tanin dans le Porto ?",
+"What is the traditional way to extract colour and tannin for Port?",
+"¿Cuál es el método tradicional para extraer color y tanino en el Oporto?"
+],
+"o": [
+[
+"La pigiatura con i piedi",
+"Le foulage aux pieds",
+"Foot treading",
+"El pisado con los pies"
+],
+[
+"Il remuage in gyropalette",
+"Le remuage en gyropalette",
+"Riddling in gyropalettes",
+"El removido en girasoles"
+],
+[
+"L'appassimento al sole",
+"Le séchage au soleil",
+"Drying in the sun",
+"El soleo de la uva"
+],
+[
+"La macerazione sotto flor",
+"La macération sous flor",
+"Maceration under flor",
+"La maceración bajo flor"
+]
+],
+"e": [
+"Tradizionalmente le uve per il Porto si pigiano con i piedi; oggi ci sono anche macchine.",
+"Traditionnellement, on foule aux pieds le raisin du Porto ; aujourd'hui, il existe aussi des machines.",
+"Traditionally Port grapes are trodden by foot; today machines can also be used.",
+"Tradicionalmente la uva del Oporto se pisa con los pies; hoy también hay máquinas."
+],
+"d": [
+"Il primo passo dopo la vendemmia è estrarre rapidamente colore e tannino dalle bucce. La tecnica tradizionale è la pigiatura con i piedi, oggi affiancata da macchine progettate per lo stesso scopo. Remuage, appassimento e flor appartengono invece a spumanti e Sherry.",
+"La première étape après la vendange consiste à extraire rapidement la couleur et le tanin des peaux. La technique traditionnelle est le foulage aux pieds, aujourd'hui complété par des machines conçues dans le même but. Le remuage, le séchage et la flor relèvent en revanche des effervescents et du Xérès.",
+"The first step after harvest is to extract colour and tannin quickly from the skins. The traditional technique is foot treading, now joined by machines designed for the same job. Riddling, sun-drying and flor belong to sparkling wine and Sherry instead.",
+"El primer paso tras la vendimia es extraer rápido el color y el tanino de los hollejos. La técnica tradicional es el pisado con los pies, hoy acompañado por máquinas diseñadas para lo mismo. El removido, el soleo y la flor pertenecen en cambio a los espumosos y al Jerez."
+]
+},
+{
+"c": "s3",
+"q": [
+"Dove maturano di solito i Porto in stile ruby?",
+"Où sont généralement élevés les Portos de style ruby ?",
+"Where are ruby-style Ports usually matured?",
+"¿Dónde se crían normalmente los Oportos de estilo ruby?"
+],
+"o": [
+[
+"In grandi botti di rovere vecchio o vasche d'acciaio",
+"En grands foudres de vieux chêne ou cuves inox",
+"In large old-oak casks or steel tanks",
+"En grandes toneles de roble viejo o depósitos de acero"
+],
+[
+"In piccole botti con molto ossigeno",
+"En petits fûts avec beaucoup d'oxygène",
+"In small barrels with plenty of oxygen",
+"En barricas pequeñas con mucho oxígeno"
+],
+[
+"In una solera sotto uno strato di flor",
+"En solera sous un voile de flor",
+"In a solera under a layer of flor",
+"En una solera bajo un velo de flor"
+],
+[
+"In bottiglia sulle fecce per anni",
+"En bouteille sur lies pendant des années",
+"In bottle on the lees for years",
+"En botella sobre lías durante años"
+]
+],
+"e": [
+"I grandi contenitori limitano l'ossigeno, così il ruby conserva colore e frutto.",
+"Les grands contenants limitent l'oxygène : le ruby garde couleur et fruit.",
+"Large vessels limit oxygen, so ruby keeps its colour and fruit.",
+"Los recipientes grandes limitan el oxígeno, así que el ruby conserva color y fruta."
+],
+"d": [
+"Dopo la fortificazione i ruby maturano per un periodo in grandi contenitori: tradizionalmente grandi botti di rovere vecchio, a volte vasche d'acciaio inox. Poi vengono imbottigliati pronti da bere. Il poco ossigeno preserva il colore intenso e i frutti neri cotti. Le piccole botti con ossidazione lunga sono invece la via dei migliori tawny.",
+"Après le mutage, les ruby sont élevés un temps en grands contenants : traditionnellement de grands foudres de vieux chêne, parfois des cuves inox. Ils sont ensuite mis en bouteille prêts à boire. Le peu d'oxygène préserve la couleur intense et les fruits noirs cuits. Les petits fûts et la longue oxydation sont la voie des meilleurs tawnies.",
+"After fortification, ruby styles spend some time in large vessels: traditionally big old-oak casks, sometimes stainless steel tanks. They are then bottled ready to drink. Little oxygen preserves the deep colour and cooked black fruit. Small barrels and long oxidation are the route for the best tawnies instead.",
+"Tras el encabezado, los ruby se crían un tiempo en recipientes grandes: tradicionalmente grandes toneles de roble viejo, a veces depósitos de acero inoxidable. Después se embotellan listos para beber. El poco oxígeno conserva el color intenso y la fruta negra cocida. Las barricas pequeñas con larga oxidación son, en cambio, el camino de los mejores tawnies."
+]
+},
+{
+"c": "s3",
+"q": [
+"Quali sapori sono tipici dei Porto in stile ruby?",
+"Quelles saveurs sont typiques des Portos de style ruby ?",
+"Which flavours are typical of ruby-style Ports?",
+"¿Qué sabores son típicos de los Oportos de estilo ruby?"
+],
+"o": [
+[
+"Frutti neri cotti: ciliegia nera e mora",
+"Fruits noirs cuits : cerise noire et mûre",
+"Cooked black fruit: black cherry and blackberry",
+"Fruta negra cocida: cereza negra y mora"
+],
+[
+"Noce, caffè e caramello",
+"Noix, café et caramel",
+"Walnut, coffee and caramel",
+"Nuez, café y caramelo"
+],
+[
+"Mela, mandorla e pasta di pane",
+"Pomme, amande et pâte à pain",
+"Apple, almond and bread dough",
+"Manzana, almendra y masa de pan"
+],
+[
+"Fico, liquirizia e melassa",
+"Figue, réglisse et mélasse",
+"Fig, liquorice and molasses",
+"Higo, regaliz y melaza"
+]
+],
+"e": [
+"I ruby, maturati con poco ossigeno, conservano il frutto: frutti neri cotti come ciliegia nera e mora.",
+"Élevés avec peu d'oxygène, les ruby gardent le fruit : fruits noirs cuits comme cerise noire et mûre.",
+"Matured with little oxygen, rubies keep their fruit: cooked black cherry and blackberry.",
+"Criados con poco oxígeno, los ruby conservan la fruta: cereza negra y mora cocidas."
+],
+"d": [
+"I Porto ruby sono scuri e fruttati, con sapori di frutti neri cotti come ciliegia nera e mora; i Ruby più economici mostrano spesso anche un po' di frutta rossa. Noce, caffè e caramello sono note di ossidazione tipiche dei tawny; mela e pasta di pane del Fino; fico e melassa del PX.",
+"Les Portos ruby sont foncés et fruités, avec des saveurs de fruits noirs cuits comme la cerise noire et la mûre ; les Ruby d'entrée de gamme montrent souvent aussi un peu de fruits rouges. Noix, café et caramel sont des notes d'oxydation typiques des tawnies ; pomme et pâte à pain, du Fino ; figue et mélasse, du PX.",
+"Ruby Ports are deep and fruity, with cooked black fruit flavours such as black cherry and blackberry; inexpensive Rubies often show some red fruit too. Walnut, coffee and caramel are oxidative notes typical of tawnies; apple and bread dough belong to Fino; fig and molasses to PX.",
+"Los Oportos ruby son oscuros y afrutados, con sabores de fruta negra cocida como cereza negra y mora; los Ruby económicos suelen mostrar también algo de fruta roja. Nuez, café y caramelo son notas oxidativas típicas de los tawnies; manzana y masa de pan, del Fino; higo y melaza, del PX."
+]
+},
+{
+"c": "s3",
+"q": [
+"Come si descrive di solito un Ruby Port economico?",
+"Comment décrit-on en général un Ruby Port d'entrée de gamme ?",
+"How is an inexpensive Ruby Port usually described?",
+"¿Cómo se describe normalmente un Ruby Port económico?"
+],
+"o": [
+[
+"Dolce, semplice, fruttato, tannini più bassi",
+"Doux, simple, fruité, tanins plus bas",
+"Sweet, simple, fruity, lower tannins",
+"Dulce, sencillo, afrutado, taninos más bajos"
+],
+[
+"Secco, complesso, con note di noce",
+"Sec, complexe, avec des notes de noix",
+"Dry, complex, with walnut notes",
+"Seco, complejo, con notas de nuez"
+],
+[
+"Molto tannico, adatto a 20 anni di cantina",
+"Très tannique, apte à 20 ans de cave",
+"Very tannic, fit for 20 years' cellaring",
+"Muy tánico, apto para 20 años de guarda"
+],
+[
+"Granato, con cuoio e sottobosco",
+"Grenat, avec cuir et sous-bois",
+"Garnet, with leather and forest floor",
+"Granate, con cuero y sotobosque"
+]
+],
+"e": [
+"Il Ruby base è dolce, semplice e fruttato, meno tannico degli altri ruby, spesso con frutta rossa.",
+"Le Ruby de base est doux, simple et fruité, moins tannique que les autres ruby, souvent avec du fruit rouge.",
+"Basic Ruby is sweet, simple and fruity, less tannic than other rubies, often with red fruit.",
+"El Ruby básico es dulce, sencillo y afrutado, menos tánico que otros ruby, a menudo con fruta roja."
+],
+"d": [
+"I Ruby economici sono vini dolci, semplici e fruttati, con tannini più bassi rispetto agli altri Porto in stile ruby e spesso un po' di frutta rossa accanto a quella nera. Tannini alti, lunga evoluzione, colore granato con cuoio e sottobosco descrivono invece un Vintage Port maturo.",
+"Les Ruby bon marché sont des vins doux, simples et fruités, aux tanins plus bas que les autres Portos de style ruby, avec souvent un peu de fruits rouges à côté des fruits noirs. Des tanins élevés, une longue garde et une couleur grenat avec cuir et sous-bois décrivent plutôt un Vintage Port évolué.",
+"Inexpensive Rubies are sweet, simple and fruity, with lower tannins than other ruby-style Ports and often some red fruit alongside the black. High tannin, long ageing and a garnet colour with leather and forest floor describe a mature Vintage Port instead.",
+"Los Ruby económicos son vinos dulces, sencillos y afrutados, con taninos más bajos que otros Oportos de estilo ruby y a menudo algo de fruta roja junto a la negra. Taninos altos, larga guarda y color granate con cuero y sotobosque describen, en cambio, un Vintage Port maduro."
+]
+},
+{
+"c": "s3",
+"q": [
+"Che cosa distingue un Reserve Ruby da un Ruby semplice?",
+"Qu'est-ce qui distingue un Reserve Ruby d'un simple Ruby ?",
+"What sets Reserve Ruby apart from basic Ruby?",
+"¿Qué distingue a un Reserve Ruby de un Ruby sencillo?"
+],
+"o": [
+[
+"Vini di qualità migliore e più intensi",
+"Des vins de meilleure qualité et plus intenses",
+"Better-quality wines with more intensity",
+"Vinos de mejor calidad y más intensos"
+],
+[
+"Vini di una sola annata dichiarata",
+"Des vins d'une seule année déclarée",
+"Wines from a single declared year",
+"Vinos de una única añada declarada"
+],
+[
+"Invecchiamento ossidativo in piccole botti",
+"Un vieillissement oxydatif en petits fûts",
+"Oxidative ageing in small barrels",
+"Crianza oxidativa en barricas pequeñas"
+],
+[
+"Uve bianche appassite al sole",
+"Des raisins blancs séchés au soleil",
+"Sun-dried white grapes",
+"Uvas blancas pasificadas al sol"
+]
+],
+"e": [
+"Il Reserve Ruby usa vini migliori e più intensi, a volte maturati più a lungo.",
+"Le Reserve Ruby utilise des vins meilleurs et plus intenses, parfois élevés plus longtemps.",
+"Reserve Ruby uses better, more intense wines, sometimes matured for longer.",
+"El Reserve Ruby usa vinos mejores y más intensos, a veces criados más tiempo."
+],
+"d": [
+"Il Reserve Ruby resta nello stile ruby, scuro e fruttato, ma usa vini di qualità superiore con sapori più intensi. A volte matura più a lungo del Ruby per ammorbidire e integrare l'alcol aggiunto. Una sola annata indica invece LBV o Vintage; le piccole botti ossidative indicano i tawny.",
+"Le Reserve Ruby reste dans le style ruby, foncé et fruité, mais utilise des vins de meilleure qualité aux saveurs plus intenses. Il est parfois élevé plus longtemps que le Ruby pour assouplir et intégrer l'alcool ajouté. Une seule année renvoie plutôt au LBV ou au Vintage ; les petits fûts oxydatifs, aux tawnies.",
+"Reserve Ruby stays in the deep, fruity ruby style but uses better-quality wines with more flavour intensity. It is sometimes matured longer than Ruby to soften and integrate the added alcohol. A single year points to LBV or Vintage instead, and small oxidative barrels to tawnies.",
+"El Reserve Ruby sigue el estilo ruby, oscuro y afrutado, pero usa vinos de mejor calidad con sabores más intensos. A veces se cría más tiempo que el Ruby para suavizar e integrar el alcohol añadido. Una sola añada apunta a LBV o Vintage; las barricas pequeñas oxidativas, a los tawnies."
+]
+},
+{
+"c": "s3",
+"q": [
+"Perché alcuni Reserve Ruby maturano più a lungo?",
+"Pourquoi certains Reserve Ruby sont-ils élevés plus longtemps ?",
+"Why are some Reserve Ruby Ports matured for longer?",
+"¿Por qué algunos Reserve Ruby se crían más tiempo?"
+],
+"o": [
+[
+"Per ammorbidire e integrare l'alcol aggiunto",
+"Pour assouplir et intégrer l'alcool ajouté",
+"To soften and integrate the added alcohol",
+"Para suavizar e integrar el alcohol añadido"
+],
+[
+"Per far formare il flor",
+"Pour faire naître la flor",
+"To allow flor to form",
+"Para que se forme la flor"
+],
+[
+"Per far diventare il vino secco",
+"Pour rendre le vin sec",
+"To make the wine dry",
+"Para que el vino quede seco"
+],
+[
+"Per ottenere un colore fulvo",
+"Pour obtenir une couleur fauve",
+"To gain a tawny colour",
+"Para obtener un color leonado"
+]
+],
+"e": [
+"Una maturazione più lunga rende più armonico l'alcol della fortificazione.",
+"Un élevage plus long fond mieux l'alcool du mutage.",
+"Longer maturation makes the fortifying alcohol better integrated.",
+"Una crianza más larga integra mejor el alcohol del encabezado."
+],
+"d": [
+"Il Porto contiene alcol aggiunto, che nei vini giovani può risultare evidente. Alcuni Reserve Ruby vengono quindi maturati più a lungo dei Ruby semplici, così l'alcol si ammorbidisce e si integra meglio con il frutto. Restano comunque vini dolci in stile ruby, scuri e fruttati, non tawny.",
+"Le Porto contient de l'alcool ajouté, qui peut se faire sentir dans les vins jeunes. Certains Reserve Ruby sont donc élevés plus longtemps que les Ruby simples, afin que l'alcool s'assouplisse et se fonde mieux dans le fruit. Ils restent des vins doux de style ruby, foncés et fruités, pas des tawnies.",
+"Port contains added alcohol, which can stand out in young wines. Some Reserve Rubies are therefore matured longer than basic Rubies, so that the alcohol softens and blends better with the fruit. They are still sweet ruby-style wines, deep and fruity, not tawnies.",
+"El Oporto lleva alcohol añadido, que puede notarse en los vinos jóvenes. Por eso algunos Reserve Ruby se crían más tiempo que los Ruby sencillos, para que el alcohol se suavice y se integre mejor con la fruta. Siguen siendo vinos dulces de estilo ruby, oscuros y afrutados, no tawnies."
+]
+},
+{
+"c": "s3",
+"q": [
+"Che cosa differenzia un LBV da un Reserve Ruby?",
+"Qu'est-ce qui différencie un LBV d'un Reserve Ruby ?",
+"What makes LBV different from Reserve Ruby?",
+"¿Qué diferencia a un LBV de un Reserve Ruby?"
+],
+"o": [
+[
+"Contiene vini di una sola annata",
+"Il provient d'une seule année",
+"It contains wine from a single vintage",
+"Contiene vinos de una sola añada"
+],
+[
+"Invecchia sotto uno strato di flor",
+"Il vieillit sous un voile de flor",
+"It ages under a layer of flor",
+"Envejece bajo un velo de flor"
+],
+[
+"È sempre secco",
+"Il est toujours sec",
+"It is always dry",
+"Siempre es seco"
+],
+[
+"Matura in piccole botti per 40 anni",
+"Il vieillit 40 ans en petits fûts",
+"It ages 40 years in small barrels",
+"Se cría 40 años en barricas pequeñas"
+]
+],
+"e": [
+"Lo stile è simile al Reserve Ruby, ma il Late Bottled Vintage viene da un solo anno.",
+"Le style est proche du Reserve Ruby, mais le Late Bottled Vintage vient d'une seule année.",
+"The style is like Reserve Ruby, but Late Bottled Vintage comes from one year.",
+"El estilo es parecido al Reserve Ruby, pero el Late Bottled Vintage procede de un solo año."
+],
+"d": [
+"La maggior parte dei Porto assembla vini di più annate. Il Late Bottled Vintage (LBV) ha uno stile simile al Reserve Ruby, scuro, fruttato e intenso, ma contiene vini di una sola annata. Non va confuso con il Vintage Port, fatto solo nelle annate eccezionali dichiarate e molto più tannico e longevo.",
+"La plupart des Portos assemblent plusieurs années. Le Late Bottled Vintage (LBV) a un style proche du Reserve Ruby, foncé, fruité et intense, mais il provient d'une seule année. Il ne faut pas le confondre avec le Vintage Port, élaboré seulement les années exceptionnelles déclarées, bien plus tannique et apte à la garde.",
+"Most Ports blend several vintages. Late Bottled Vintage (LBV) is similar in style to Reserve Ruby, deep, fruity and intense, but contains wine from a single year. It should not be confused with Vintage Port, made only in declared exceptional years and much more tannic and long-lived.",
+"La mayoría de los Oportos mezclan varias añadas. El Late Bottled Vintage (LBV) tiene un estilo parecido al Reserve Ruby, oscuro, afrutado e intenso, pero contiene vinos de un solo año. No hay que confundirlo con el Vintage Port, elaborado solo en años excepcionales declarados y mucho más tánico y longevo."
+]
+},
+{
+"c": "s3",
+"q": [
+"Che cosa significa che un produttore dichiara un Vintage Port?",
+"Que signifie qu'un producteur déclare un Vintage Port ?",
+"What does it mean when a producer declares a Vintage Port?",
+"¿Qué significa que un productor declare un Vintage Port?"
+],
+"o": [
+[
+"Che l'annata è eccezionale e merita un Vintage",
+"Que l'année est exceptionnelle et mérite un Vintage",
+"That the year is exceptional enough for a Vintage",
+"Que el año es excepcional y merece un Vintage"
+],
+[
+"Che il vino è pronto da bere subito",
+"Que le vin est prêt à boire tout de suite",
+"That the wine is ready to drink at once",
+"Que el vino está listo para beber ya"
+],
+[
+"Che il vino ha passato 40 anni in botte",
+"Que le vin a passé 40 ans en fût",
+"That the wine spent 40 years in barrel",
+"Que el vino pasó 40 años en barrica"
+],
+[
+"Che il vino è un assemblaggio di molte annate",
+"Que le vin assemble de nombreuses années",
+"That the wine blends many vintages",
+"Que el vino mezcla muchas añadas"
+]
+],
+"e": [
+"Il Vintage Port non si fa ogni anno: si dichiara solo nelle annate migliori.",
+"Le Vintage Port n'est pas produit chaque année : on ne le déclare que les meilleures années.",
+"Vintage Port is not made every year: it is declared only in the best years.",
+"El Vintage Port no se hace todos los años: solo se declara en los mejores."
+],
+"d": [
+"Il Vintage Port nasce dai vini di qualità più alta di una singola annata eccezionale. Poiché le annate così buone non sono la norma, i produttori lo dichiarano solo negli anni migliori. Il vino è molto tannico e concentrato e ha bisogno di lunghi anni in bottiglia, non è pensato per essere bevuto subito.",
+"Le Vintage Port naît des meilleurs vins d'une seule année exceptionnelle. Comme ces très bonnes années ne sont pas la règle, les producteurs ne le déclarent que les meilleures années. Le vin est très tannique et concentré et a besoin de longues années en bouteille : il n'est pas conçu pour être bu tout de suite.",
+"Vintage Port is made from the highest-quality wines of a single exceptional year. Since such years are not the norm, producers declare it only in the best years. The wine is very tannic and concentrated and needs many years in bottle: it is not meant to be drunk straight away.",
+"El Vintage Port nace de los mejores vinos de un único año excepcional. Como esos años tan buenos no son lo habitual, los productores solo lo declaran en los mejores. El vino es muy tánico y concentrado y necesita muchos años en botella: no está pensado para beberse enseguida."
+]
+},
+{
+"c": "s3",
+"q": [
+"Come evolve un Vintage Port con l'invecchiamento in bottiglia?",
+"Comment un Vintage Port évolue-t-il en bouteille ?",
+"How does Vintage Port develop with bottle age?",
+"¿Cómo evoluciona un Vintage Port con la crianza en botella?"
+],
+"o": [
+[
+"Da rubino a granato, con frutta secca, cuoio e sottobosco",
+"Du rubis au grenat, avec fruits secs, cuir et sous-bois",
+"Ruby to garnet, with dried fruit, leather and forest floor",
+"De rubí a granate, con fruta pasa, cuero y sotobosque"
+],
+[
+"Da granato a rubino, con frutta rossa fresca",
+"Du grenat au rubis, avec fruits rouges frais",
+"Garnet to ruby, with fresh red fruit",
+"De granate a rubí, con fruta roja fresca"
+],
+[
+"Diventa chiaro e sviluppa note di pasta di pane",
+"Il pâlit et prend des notes de pâte à pain",
+"It turns pale and gains bread-dough notes",
+"Palidece y toma notas de masa de pan"
+],
+[
+"Resta invariato e perde ogni deposito",
+"Il reste inchangé et perd tout dépôt",
+"It stays unchanged and loses all deposit",
+"No cambia y pierde todo el depósito"
+]
+],
+"e": [
+"In bottiglia il colore vira al granato e compaiono aromi terziari di frutta secca, cuoio e sottobosco.",
+"En bouteille, la couleur vire au grenat et apparaissent des arômes tertiaires de fruits secs, cuir et sous-bois.",
+"In bottle the colour moves to garnet and tertiary aromas of dried fruit, leather and forest floor appear.",
+"En botella el color vira a granate y aparecen aromas terciarios de fruta pasa, cuero y sotobosque."
+],
+"d": [
+"Il Vintage Port può maturare in bottiglia almeno 20 anni, a volte molto di più. Col tempo il colore passa da rubino a granato e il vino sviluppa complessi aromi terziari di frutta secca, cuoio e sottobosco. Si forma anche un deposito spesso, per cui prima di servirlo va decantato.",
+"Le Vintage Port peut évoluer en bouteille au moins 20 ans, parfois bien plus. Avec le temps, sa couleur passe du rubis au grenat et il développe des arômes tertiaires complexes de fruits secs, de cuir et de sous-bois. Un dépôt épais se forme aussi : il faut donc le décanter avant le service.",
+"Vintage Port can mature in bottle for at least 20 years, sometimes much longer. Over time the colour shifts from ruby to garnet and the wine develops complex tertiary aromas of dried fruit, leather and forest floor. A thick deposit also forms, so it must be decanted before serving.",
+"El Vintage Port puede evolucionar en botella al menos 20 años, a veces mucho más. Con el tiempo el color pasa de rubí a granate y el vino desarrolla complejos aromas terciarios de fruta pasa, cuero y sotobosque. También se forma un depósito espeso, por lo que hay que decantarlo antes de servirlo."
+]
+},
+{
+"c": "s3",
+"q": [
+"Quale Porto va normalmente decantato prima del servizio?",
+"Quel Porto faut-il normalement décanter avant le service ?",
+"Which Port normally needs decanting before serving?",
+"¿Qué Oporto hay que decantar normalmente antes de servirlo?"
+],
+"o": [
+[
+"Vintage Port",
+"Vintage Port",
+"Vintage Port",
+"Vintage Port"
+],
+[
+"Ruby",
+"Ruby",
+"Ruby",
+"Ruby"
+],
+[
+"Reserve Ruby",
+"Reserve Ruby",
+"Reserve Ruby",
+"Reserve Ruby"
+],
+[
+"Tawny economico",
+"Tawny bon marché",
+"Inexpensive Tawny",
+"Tawny económico"
+]
+],
+"e": [
+"Il Vintage Port evolve in bottiglia e forma un deposito spesso, quindi va decantato.",
+"Le Vintage Port évolue en bouteille et forme un dépôt épais : il faut le décanter.",
+"Vintage Port ages in bottle and throws a thick deposit, so it needs decanting.",
+"El Vintage Port evoluciona en botella y forma un depósito espeso, así que hay que decantarlo."
+],
+"d": [
+"Il Vintage Port viene imbottigliato giovane, molto tannico e concentrato, e poi matura per decenni in bottiglia. Durante questa lunga evoluzione si forma un deposito spesso, che va separato decantando il vino prima di servirlo. I Ruby e i Reserve Ruby maturano invece prima dell'imbottigliamento e si vendono pronti da bere.",
+"Le Vintage Port est mis en bouteille jeune, très tannique et concentré, puis évolue pendant des décennies en bouteille. Pendant cette longue évolution, un dépôt épais se forme : il faut le séparer en décantant le vin avant le service. Les Ruby et Reserve Ruby sont élevés avant la mise en bouteille et vendus prêts à boire.",
+"Vintage Port is bottled young, very tannic and concentrated, and then matures for decades in bottle. During this long evolution a thick deposit forms, which must be separated by decanting before serving. Ruby and Reserve Ruby are matured before bottling and sold ready to drink.",
+"El Vintage Port se embotella joven, muy tánico y concentrado, y luego evoluciona durante décadas en botella. En esa larga evolución se forma un depósito espeso que hay que separar decantando el vino antes de servirlo. Los Ruby y Reserve Ruby se crían antes del embotellado y se venden listos para beber."
+]
+},
+{
+"c": "s3",
+"q": [
+"Da dove prende colore e carattere un tawny di qualità?",
+"D'où un bon tawny tire-t-il sa couleur et son caractère ?",
+"Where does a quality tawny get its colour and character?",
+"¿De dónde saca su color y carácter un buen tawny?"
+],
+"o": [
+[
+"Da un lungo invecchiamento ossidativo in piccole botti",
+"D'un long vieillissement oxydatif en petits fûts",
+"Long oxidative ageing in small barrels",
+"De una larga crianza oxidativa en barricas pequeñas"
+],
+[
+"Da un breve passaggio in grandi vasche d'acciaio",
+"D'un court passage en grandes cuves inox",
+"A short spell in large steel tanks",
+"De un breve paso por grandes depósitos de acero"
+],
+[
+"Da un lungo affinamento in bottiglia sulle fecce",
+"D'un long élevage en bouteille sur lies",
+"Long ageing in bottle on the lees",
+"De una larga crianza en botella sobre lías"
+],
+[
+"Dall'invecchiamento sotto uno strato di flor",
+"D'un vieillissement sous voile de flor",
+"Ageing under a layer of flor",
+"De la crianza bajo un velo de flor"
+]
+],
+"e": [
+"Nelle piccole botti l'ossigeno agisce di più: il vino diventa fulvo e sviluppa note ossidative.",
+"En petits fûts, l'oxygène agit davantage : le vin devient fauve et prend des notes oxydatives.",
+"In small barrels oxygen acts more: the wine turns tawny and gains oxidative notes.",
+"En barricas pequeñas el oxígeno actúa más: el vino se vuelve leonado y adquiere notas oxidativas."
+],
+"d": [
+"I migliori Porto tawny invecchiano a lungo in piccole botti, dove il contatto con l'ossigeno è maggiore. Col tempo il colore diventa sempre più bruno e il vino sviluppa note complesse di frutta secca e di ossidazione voluta, come noce, caffè e caramello. I grandi contenitori, al contrario, preservano il colore e il frutto dei ruby.",
+"Les meilleurs Portos tawny vieillissent longuement en petits fûts, où le contact avec l'oxygène est plus grand. Avec le temps, la couleur brunit de plus en plus et le vin développe des notes complexes de fruits secs et d'oxydation voulue, comme la noix, le café et le caramel. Les grands contenants, eux, préservent la couleur et le fruit des ruby.",
+"The best tawny Ports age for a long time in small barrels, where contact with oxygen is greater. Over time the colour becomes more and more brown and the wine develops complex notes of dried fruit and deliberate oxidation, such as walnut, coffee and caramel. Large vessels, by contrast, preserve the colour and fruit of ruby styles.",
+"Los mejores Oportos tawny envejecen mucho tiempo en barricas pequeñas, donde el contacto con el oxígeno es mayor. Con el tiempo el color se vuelve cada vez más marrón y el vino desarrolla complejas notas de fruta pasa y de oxidación deliberada, como nuez, café y caramelo. Los recipientes grandes, en cambio, conservan el color y la fruta de los ruby."
+]
+},
+{
+"c": "s3",
+"q": [
+"Quale descrizione si adatta a un tawny con indicazione d'età?",
+"Quelle description correspond à un tawny avec indication d'âge ?",
+"Which description fits a tawny with an age indication?",
+"¿Qué descripción encaja con un tawny con indicación de edad?"
+],
+"o": [
+[
+"Bruno, con frutta secca, noce, caffè e caramello",
+"Brun, avec fruits secs, noix, café et caramel",
+"Brown, with dried fruit, walnut, coffee and caramel",
+"Marrón, con fruta pasa, nuez, café y caramelo"
+],
+[
+"Scuro, con ciliegia nera e mora cotte",
+"Foncé, avec cerise noire et mûre cuites",
+"Deep, with cooked black cherry and blackberry",
+"Oscuro, con cereza negra y mora cocidas"
+],
+[
+"Chiaro, semplice, fruttato e poco tannico",
+"Pâle, simple, fruité et peu tannique",
+"Pale, simple, fruity and low in tannin",
+"Pálido, sencillo, afrutado y poco tánico"
+],
+[
+"Granato, con cuoio, sottobosco e deposito",
+"Grenat, avec cuir, sous-bois et dépôt",
+"Garnet, with leather, forest floor and deposit",
+"Granate, con cuero, sotobosque y depósito"
+]
+],
+"e": [
+"Un tawny con 10, 20, 30 o 40 anni è segnato dall'ossidazione: bruno, con noce, caffè e caramello.",
+"Un tawny de 10, 20, 30 ou 40 ans est marqué par l'oxydation : brun, avec noix, café et caramel.",
+"A 10, 20, 30 or 40 year old tawny is shaped by oxidation: brown, with walnut, coffee and caramel.",
+"Un tawny de 10, 20, 30 o 40 años está marcado por la oxidación: marrón, con nuez, café y caramelo."
+],
+"d": [
+"I tawny ottenuti con lungo invecchiamento ossidativo in piccole botti riportano spesso un'età in etichetta: 10, 20, 30 o 40 anni. Sono bruni e complessi, con frutta secca, noce, caffè e caramello. Il tawny economico senza età è chiaro e semplice; frutti neri cotti indicano un ruby; cuoio e deposito un Vintage maturo.",
+"Les tawnies issus d'un long vieillissement oxydatif en petits fûts portent souvent un âge sur l'étiquette : 10, 20, 30 ou 40 ans. Ils sont bruns et complexes, avec fruits secs, noix, café et caramel. Le tawny bon marché sans âge est pâle et simple ; les fruits noirs cuits signalent un ruby ; cuir et dépôt, un Vintage évolué.",
+"Tawnies made by long oxidative ageing in small barrels often show an age on the label: 10, 20, 30 or 40 years. They are brown and complex, with dried fruit, walnut, coffee and caramel. Cheap tawny with no age is pale and simple; cooked black fruit points to a ruby; leather and deposit to a mature Vintage.",
+"Los tawnies obtenidos con larga crianza oxidativa en barricas pequeñas suelen indicar una edad en la etiqueta: 10, 20, 30 o 40 años. Son marrones y complejos, con fruta pasa, nuez, café y caramelo. El tawny económico sin edad es pálido y sencillo; la fruta negra cocida indica un ruby; cuero y depósito, un Vintage maduro."
+]
+},
+{
+"c": "s3",
+"q": [
+"Come è di solito un Porto economico etichettato semplicemente Tawny?",
+"Comment est en général un Porto bon marché simplement étiqueté Tawny ?",
+"What is an inexpensive Port labelled simply Tawny usually like?",
+"¿Cómo suele ser un Oporto económico etiquetado simplemente como Tawny?"
+],
+"o": [
+[
+"Semplice, fruttato, poco tannico e chiaro",
+"Simple, fruité, peu tannique et pâle",
+"Simple, fruity, low in tannin and pale",
+"Sencillo, afrutado, poco tánico y pálido"
+],
+[
+"Complesso, con noce, caffè e caramello",
+"Complexe, avec noix, café et caramel",
+"Complex, with walnut, coffee and caramel",
+"Complejo, con nuez, café y caramelo"
+],
+[
+"Molto tannico e da decantare",
+"Très tannique et à décanter",
+"Very tannic and needs decanting",
+"Muy tánico y para decantar"
+],
+[
+"Secco, con note di pasta di pane",
+"Sec, avec des notes de pâte à pain",
+"Dry, with bread-dough notes",
+"Seco, con notas de masa de pan"
+]
+],
+"e": [
+"Il Tawny economico è semplice, fruttato, chiaro e poco tannico, senza la complessità dei tawny invecchiati.",
+"Le Tawny bon marché est simple, fruité, pâle et peu tannique, sans la complexité des tawnies âgés.",
+"Cheap Tawny is simple, fruity, pale and low in tannin, without the complexity of aged tawnies.",
+"El Tawny económico es sencillo, afrutado, pálido y poco tánico, sin la complejidad de los tawnies con edad."
+],
+"d": [
+"Non tutti i Porto con la parola Tawny hanno fatto un lungo invecchiamento ossidativo. I vini economici etichettati semplicemente Tawny Port sono semplici, fruttati, con pochi tannini e colore chiaro. Le note complesse di noce, caffè e caramello appartengono ai tawny invecchiati a lungo in piccole botti, spesso con indicazione d'età.",
+"Tous les Portos portant le mot Tawny n'ont pas connu un long vieillissement oxydatif. Les vins bon marché simplement étiquetés Tawny Port sont simples, fruités, peu tanniques et de couleur pâle. Les notes complexes de noix, de café et de caramel appartiennent aux tawnies longuement vieillis en petits fûts, souvent avec indication d'âge.",
+"Not every Port with the word Tawny has had long oxidative ageing. Inexpensive wines labelled simply Tawny Port are simple, fruity, low in tannin and pale. The complex walnut, coffee and caramel notes belong to tawnies aged for a long time in small barrels, often with an age indication.",
+"No todos los Oportos con la palabra Tawny han tenido una larga crianza oxidativa. Los vinos económicos etiquetados simplemente como Tawny Port son sencillos, afrutados, poco tánicos y pálidos. Las notas complejas de nuez, café y caramelo pertenecen a los tawnies criados mucho tiempo en barricas pequeñas, a menudo con indicación de edad."
+]
+},
+{
+"c": "s3",
+"q": [
+"Un Porto scuro, fruttato, da una sola annata, simile a un Reserve Ruby e pronto da bere. Quale stile è?",
+"Un Porto foncé et fruité, d'une seule année, proche d'un Reserve Ruby et prêt à boire. Quel style est-ce ?",
+"A deep, fruity Port from a single year, similar to Reserve Ruby and ready to drink. Which style is it?",
+"Un Oporto oscuro y afrutado, de un solo año, parecido a un Reserve Ruby y listo para beber. ¿Qué estilo es?"
+],
+"o": [
+[
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)"
+],
+[
+"Vintage Port",
+"Vintage Port",
+"Vintage Port",
+"Vintage Port"
+],
+[
+"Tawny 20 anni",
+"Tawny 20 ans",
+"20 Year Old Tawny",
+"Tawny 20 años"
+],
+[
+"Ruby",
+"Ruby",
+"Ruby",
+"Ruby"
+]
+],
+"e": [
+"Stile Reserve Ruby ma da una singola annata: è la definizione dell'LBV.",
+"Style Reserve Ruby mais d'une seule année : c'est la définition du LBV.",
+"Reserve Ruby style but from a single year: that is the definition of LBV.",
+"Estilo Reserve Ruby pero de una sola añada: es la definición del LBV."
+],
+"d": [
+"L'LBV unisce lo stile scuro, fruttato e intenso del Reserve Ruby con l'origine da una sola annata. Il Vintage Port è anch'esso di una sola annata, ma è molto tannico e richiede decenni in bottiglia e decantazione. Il tawny 20 anni è bruno e ossidativo, mentre il Ruby semplice assembla più annate.",
+"Le LBV associe le style foncé, fruité et intense du Reserve Ruby à une origine d'une seule année. Le Vintage Port vient aussi d'une seule année, mais il est très tannique et demande des décennies en bouteille et une décantation. Le tawny 20 ans est brun et oxydatif, et le Ruby simple assemble plusieurs années.",
+"LBV combines the deep, fruity, intense style of Reserve Ruby with a single-vintage origin. Vintage Port is also from one year, but it is very tannic and needs decades in bottle and decanting. A 20 Year Old Tawny is brown and oxidative, while basic Ruby blends several years.",
+"El LBV une el estilo oscuro, afrutado e intenso del Reserve Ruby con el origen de una sola añada. El Vintage Port también es de un solo año, pero es muy tánico y necesita décadas en botella y decantación. El tawny de 20 años es marrón y oxidativo, y el Ruby sencillo mezcla varias añadas."
+]
+},
 {
 "c": "s1",
 "q": [
@@ -2024,7 +3012,7 @@
 "d": [
 "La fermentazione in autoclave è diffusa in tutto il mondo. Una tendenza molto popolare è produrre vini pienamente o leggermente spumanti da Moscato/Muscat con il metodo Asti. Fermando la fermentazione con la filtrazione, si ottengono vini dolci, fruttati e con poco alcol, nello stile dell'Asti DOCG.",
 "La fermentation en cuve close est répandue dans le monde entier. Une tendance très populaire consiste à produire des vins mousseux ou perlants de Moscato/Muscat selon la méthode Asti. En arrêtant la fermentation par filtration, on obtient des vins doux, fruités et peu alcoolisés, dans le style de l'Asti DOCG.",
-"Tank fermentation is used all over the world. A popular trend is making fully or lightly sparkling wines from Moscato/Muscat by the Asti method. Stopping fermentation by filtration gives sweet, fruity, low-alcohol wines in the style of Asti DOCG.",
+"Tank fermentation is used all over the world. A popular trend is making fully or lightly sparkling wines from Moscato/Muscat by the Asti method. Stopping fermentation by filtration, before all the sugar is used up, gives sweet, fruity, low-alcohol wines in the style of Asti DOCG.",
 "La fermentación en depósito se usa en todo el mundo. Una tendencia muy popular es elaborar vinos espumosos o de aguja de Moscato/Muscat por el método Asti. Al detener la fermentación por filtración se obtienen vinos dulces, afrutados y con poco alcohol, al estilo del Asti DOCG."
 ]
 },
@@ -2870,7 +3858,7 @@
 "d": [
 "Il PX nasce da uve appassite al sole e invecchia ossidativamente: per questo è marrone scuro, dolce e ricco di frutta secca, liquirizia e melassa. Il Pale Cream è dolce ma chiaro, perché è un Fino addolcito; Fino e Amontillado sono secchi.",
 "Le PX naît de raisins séchés au soleil et vieillit en oxydation : il est donc brun foncé, doux et riche en fruits secs, réglisse et mélasse. Le Pale Cream est doux mais pâle, car c'est un Fino adouci ; le Fino et l'Amontillado sont secs.",
-"PX comes from sun-dried grapes and ages oxidatively, so it is deep brown, sweet and full of dried fruit, liquorice and molasses. Pale Cream is sweet but pale, being a sweetened Fino; Fino and Amontillado are dry.",
+"PX comes from sun-dried grapes and ages oxidatively, so it is deep brown, sweet and full of dried fruit, liquorice and molasses. Pale Cream is sweet but pale, being a sweetened Fino, while Fino and Amontillado are both dry styles.",
 "El PX procede de uvas pasificadas al sol y envejece de forma oxidativa, por eso es marrón oscuro, dulce y rico en fruta pasa, regaliz y melaza. El Pale Cream es dulce pero pálido, porque es un Fino endulzado; el Fino y el Amontillado son secos."
 ]
 },
@@ -2923,6 +3911,96 @@
 }
 ],
 "flash": [
+{
+"c": "s3",
+"f": [
+"Fortificazione del Porto",
+"Mutage du Porto",
+"Port fortification",
+"Encabezado del Oporto"
+],
+"b": [
+"Spirito d'uva aggiunto durante la fermentazione: uccide i lieviti, lascia zucchero → dolce e alcolico.",
+"Eau-de-vie de raisin ajoutée pendant la fermentation : tue les levures, garde du sucre → doux et alcoolisé.",
+"Grape spirit added during fermentation: kills the yeast, keeps sugar → sweet and strong.",
+"Aguardiente de uva añadido durante la fermentación: mata las levaduras, deja azúcar → dulce y alcohólico."
+]
+},
+{
+"c": "s3",
+"f": [
+"Ruby",
+"Ruby",
+"Ruby",
+"Ruby"
+],
+"b": [
+"Grandi contenitori, poi in bottiglia pronto da bere; dolce, semplice, frutti neri cotti, tannini più bassi.",
+"Grands contenants, puis bouteille prêt à boire ; doux, simple, fruits noirs cuits, tanins plus bas.",
+"Large vessels, then bottled ready to drink; sweet, simple, cooked black fruit, lower tannin.",
+"Recipientes grandes, luego botella listo para beber; dulce, sencillo, fruta negra cocida, taninos más bajos."
+]
+},
+{
+"c": "s3",
+"f": [
+"Reserve Ruby",
+"Reserve Ruby",
+"Reserve Ruby",
+"Reserve Ruby"
+],
+"b": [
+"Vini migliori e più intensi; a volte maturato più a lungo per integrare l'alcol.",
+"Vins meilleurs et plus intenses ; parfois élevé plus longtemps pour fondre l'alcool.",
+"Better, more intense wines; sometimes matured longer to integrate the alcohol.",
+"Vinos mejores y más intensos; a veces criado más tiempo para integrar el alcohol."
+]
+},
+{
+"c": "s3",
+"f": [
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)",
+"Late Bottled Vintage (LBV)"
+],
+"b": [
+"Stile simile al Reserve Ruby, ma da una sola annata.",
+"Style proche du Reserve Ruby, mais d'une seule année.",
+"Similar in style to Reserve Ruby, but from a single vintage.",
+"Estilo parecido al Reserve Ruby, pero de una sola añada."
+]
+},
+{
+"c": "s3",
+"f": [
+"Vintage Port",
+"Vintage Port",
+"Vintage Port",
+"Vintage Port"
+],
+"b": [
+"Annata eccezionale dichiarata; tannico, concentrato, 20+ anni in bottiglia; granato, cuoio, sottobosco; decantare.",
+"Année exceptionnelle déclarée ; tannique, concentré, 20 ans et plus en bouteille ; grenat, cuir, sous-bois ; décanter.",
+"Declared exceptional year; tannic, concentrated, 20+ years in bottle; garnet, leather, forest floor; decant.",
+"Añada excepcional declarada; tánico, concentrado, más de 20 años en botella; granate, cuero, sotobosque; decantar."
+]
+},
+{
+"c": "s3",
+"f": [
+"Tawny",
+"Tawny",
+"Tawny",
+"Tawny"
+],
+"b": [
+"Migliori: lunga ossidazione in piccole botti, noce, caffè, caramello, età 10-40 anni. Economico: chiaro e semplice.",
+"Meilleurs : longue oxydation en petits fûts, noix, café, caramel, âge 10-40 ans. Bon marché : pâle et simple.",
+"Best: long oxidation in small barrels, walnut, coffee, caramel, 10-40 years old. Cheap: pale and simple.",
+"Mejores: larga oxidación en barricas pequeñas, nuez, café, caramelo, 10-40 años. Económico: pálido y sencillo."
+]
+},
 {
 "c": "s1",
 "f": [
