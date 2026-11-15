@@ -1,0 +1,1740 @@
+{
+ "lessons": [
+  {
+   "t": [
+    "Tre tipi di vino: fermo, spumante, fortificato",
+    "Trois types de vin : tranquille, effervescent, fortifié",
+    "Three types of wine: still, sparkling, fortified",
+    "Tres tipos de vino: tranquilo, espumoso, fortificado"
+   ],
+   "p": [
+    [
+     "Quando qualcuno dice semplicemente «vino», di solito pensa a un vino fermo, cioè senza bollicine. È la categoria più grande. Il grado alcolico dei vini fermi va dall'8% al 15% vol., ma nella maggior parte dei casi resta tra l'11,5% e il 14%. Il valore «% vol.» (abv in inglese) indica la quota di alcol nel liquido: 10% vol. significa che un decimo del vino è alcol.",
+     "Quand on parle simplement de « vin », on pense en général à un vin tranquille, c'est-à-dire sans bulles. C'est de loin la catégorie la plus vaste. Les vins tranquilles titrent entre 8 % et 15 % vol., mais la plupart se situent entre 11,5 % et 14 %. Le chiffre « % vol. » (abv en anglais) indique la part d'alcool dans le liquide : 10 % vol. signifie qu'un dixième du vin est de l'alcool.",
+     "When people simply say «wine», they usually mean a still wine: one without bubbles. This is by far the biggest category. Still wines range from 8% to 15% abv, though most sit between 11.5% and 14%. The abv figure (alcohol by volume) tells you how much of the liquid is alcohol, so a wine at 10% abv is one tenth alcohol.",
+     "Cuando alguien dice simplemente «vino», casi siempre piensa en un vino tranquilo, es decir, sin burbujas. Es la categoría más amplia con diferencia. Los vinos tranquilos tienen entre un 8 % y un 15 % vol., aunque la mayoría se mueve entre el 11,5 % y el 14 %. La cifra «% vol.» (abv en inglés) indica qué parte del líquido es alcohol: un vino de 10 % vol. es una décima parte alcohol."
+    ],
+    [
+     "Molti vini fermi prendono il nome dalla zona di produzione: Sancerre e Burgundy (Bourgogne) in Francia, Rioja in Spagna, Chianti in Italia. Altri invece portano in etichetta il nome del vitigno, come un Pinot Grigio. Imparare a riconoscere queste due logiche aiuta subito a leggere le etichette e a capire che cosa aspettarsi nel bicchiere.",
+     "Beaucoup de vins tranquilles portent le nom de leur région de production : Sancerre et Burgundy (Bourgogne) en France, Rioja en Espagne, Chianti en Italie. D'autres affichent plutôt le nom du cépage, comme un Pinot Grigio. Savoir distinguer ces deux logiques aide tout de suite à lire une étiquette et à deviner ce qu'il y aura dans le verre.",
+     "Many still wines take their name from the place where they are made: Sancerre and Burgundy in France, Rioja in Spain, Chianti in Italy. Others carry the name of the grape variety instead, such as a Pinot Grigio. Spotting which of the two naming logics a label uses is a quick first step towards knowing what will be in the glass.",
+     "Muchos vinos tranquilos llevan el nombre de la zona donde se elaboran: Sancerre y Burgundy (Borgoña) en Francia, Rioja en España, Chianti en Italia. Otros, en cambio, indican el nombre de la variedad de uva, como un Pinot Grigio. Reconocer cuál de las dos lógicas sigue una etiqueta ayuda enseguida a saber qué esperar de la copa."
+    ],
+    [
+     "I vini spumanti hanno bollicine. Durante la fermentazione si forma anidride carbonica: se il gas resta intrappolato nel vino, all'apertura della bottiglia si libera sotto forma di bollicine. Il più famoso è lo Champagne francese; molto noti anche il Cava spagnolo e il Prosecco italiano. Ma gli spumanti si producono ormai in tutto il mondo.",
+     "Les vins effervescents ont des bulles. La fermentation produit du dioxyde de carbone : si ce gaz reste piégé dans le vin, il s'échappe en bulles à l'ouverture de la bouteille. Le plus célèbre est le Champagne, en France ; le Cava espagnol et le Prosecco italien sont aussi très connus. On en produit aujourd'hui partout dans le monde.",
+     "Sparkling wines are fizzy. Fermentation creates carbon dioxide gas, and if that gas is kept trapped inside the wine, it is released as bubbles once the bottle is opened. Champagne from France is the most famous example; Cava from Spain and Prosecco from Italy are also very well known. Sparkling wine is now made all around the world.",
+     "Los vinos espumosos tienen burbujas. La fermentación genera dióxido de carbono y, si ese gas queda atrapado en el vino, sale en forma de burbujas al abrir la botella. El ejemplo más famoso es el Champagne francés; el Cava español y el Prosecco italiano también son muy conocidos. Hoy se elaboran espumosos en todo el mundo."
+    ],
+    [
+     "I vini fortificati sono vini a cui è stato aggiunto altro alcol. Per questo il loro grado è più alto rispetto a quello dei vini fermi: di solito tra il 15% e il 22% vol. Due esempi classici da ricordare sono lo Sherry, dalla Spagna, e il Port (Porto), dal Portogallo. Li ritroveremo nel capitolo sugli altri vini da conoscere.",
+     "Les vins fortifiés sont des vins auxquels on a ajouté de l'alcool. Leur degré est donc plus élevé que celui des vins tranquilles : en général entre 15 % et 22 % vol. Deux exemples classiques à retenir : le Sherry (Xérès), d'Espagne, et le Port (Porto), du Portugal. Nous les retrouverons dans le chapitre consacré aux autres vins à connaître.",
+     "Fortified wines have had extra alcohol added to them. That is why they are stronger than still wines, usually somewhere between 15% and 22% abv. Two classic examples to remember are Sherry, from Spain, and Port, from Portugal. You will meet both again in the chapter on other wines to know.",
+     "Los vinos fortificados son vinos a los que se ha añadido alcohol. Por eso tienen más graduación que los tranquilos: normalmente entre un 15 % y un 22 % vol. Dos ejemplos clásicos que conviene recordar son el Sherry (Jerez), de España, y el Port (Oporto), de Portugal. Volveremos a ellos en el capítulo de otros vinos que conocer."
+    ]
+   ],
+   "keys": [
+    [
+     "Fermo: niente bollicine, 8–15% vol. (di solito 11,5–14%)",
+     "Tranquille : sans bulles, 8–15 % vol. (le plus souvent 11,5–14 %)",
+     "Still: no bubbles, 8–15% abv (mostly 11.5–14%)",
+     "Tranquilo: sin burbujas, 8–15 % vol. (casi siempre 11,5–14 %)"
+    ],
+    [
+     "Spumante: anidride carbonica della fermentazione intrappolata nel vino",
+     "Effervescent : dioxyde de carbone de la fermentation piégé dans le vin",
+     "Sparkling: carbon dioxide from fermentation trapped in the wine",
+     "Espumoso: dióxido de carbono de la fermentación atrapado en el vino"
+    ],
+    [
+     "Fortificato: alcol aggiunto, 15–22% vol. (Sherry, Port)",
+     "Fortifié : alcool ajouté, 15–22 % vol. (Sherry, Port)",
+     "Fortified: extra alcohol added, 15–22% abv (Sherry, Port)",
+     "Fortificado: alcohol añadido, 15–22 % vol. (Sherry, Port)"
+    ],
+    [
+     "Un vino può chiamarsi come la sua zona o come il suo vitigno",
+     "Un vin peut porter le nom de sa région ou de son cépage",
+     "A wine may be named after its region or its grape",
+     "Un vino puede llamarse como su zona o como su uva"
+    ]
+   ],
+   "c": "w1"
+  },
+  {
+   "t": [
+    "Il colore: bianco, rosso, rosato",
+    "La couleur : blanc, rouge, rosé",
+    "Colour: white, red, rosé",
+    "El color: blanco, tinto, rosado"
+   ],
+   "p": [
+    [
+     "Il colore di un vino dipende da due cose: il vitigno usato e il modo in cui il vino viene fatto. Esistono uve bianche e uve nere, ma dentro si somigliano molto: la polpa ha lo stesso colore in entrambe e il succo è incolore. Il colore delle uve nere si trova tutto nella buccia, che contiene anche i tannini.",
+     "La couleur d'un vin dépend de deux choses : le cépage et la façon dont le vin est élaboré. Il existe des raisins blancs et des raisins noirs, mais à l'intérieur ils se ressemblent beaucoup : la pulpe a la même couleur et le jus est incolore. Toute la couleur des raisins noirs se trouve dans la peau, qui contient aussi les tanins.",
+     "A wine's colour depends on two things: the grape variety and the way the wine is made. There are white grapes and black grapes, but inside they look very alike: the pulp is the same colour in both and the juice has no colour. All the colour of a black grape sits in its skin, which also holds the tannins.",
+     "El color de un vino depende de dos cosas: la variedad de uva y la forma de elaborarlo. Hay uvas blancas y uvas tintas, pero por dentro se parecen mucho: la pulpa tiene el mismo color en ambas y el zumo es incoloro. Todo el color de la uva tinta está en el hollejo (la piel), que además contiene los taninos."
+    ],
+    [
+     "I vini bianchi si fanno di solito con uve bianche: pensiamo a uno Chablis o a un Riesling. Però si può ottenere un vino bianco anche da uve nere. Basta separare le bucce dal succo prima della fermentazione, per esempio con una pressatura delicata: dato che il colore è nella buccia, il succo resta chiaro e il vino sarà bianco.",
+     "Les vins blancs sont en général faits avec des raisins blancs : pensons à un Chablis ou à un Riesling. Mais on peut aussi obtenir un vin blanc à partir de raisins noirs. Il suffit de séparer les peaux du jus avant la fermentation, par exemple avec un pressurage doux : comme la couleur est dans la peau, le jus reste clair et le vin sera blanc.",
+     "White wines are usually made from white grapes, as in Chablis or a Riesling. Yet black grapes can also give a white wine. The trick is to separate the skins from the juice before fermentation, for example by pressing gently: since the colour lives in the skins, the juice stays pale and the finished wine is white.",
+     "Los vinos blancos suelen elaborarse con uvas blancas, como un Chablis o un Riesling. Sin embargo, también se puede hacer vino blanco con uvas tintas. Basta con separar los hollejos del zumo antes de la fermentación, por ejemplo con un prensado suave: como el color está en la piel, el zumo sigue claro y el vino resulta blanco."
+    ],
+    [
+     "Un vino rosso, invece, richiede per forza uve nere. Durante la fermentazione le bucce restano a contatto con il succo e vengono mescolate bene: così cedono colore e tannino al vino. Quando la fermentazione è finita, il vino viene separato dalle bucce. Esempi di rossi sono il Rioja spagnolo e i vini di Cabernet Sauvignon.",
+     "Un vin rouge, lui, exige des raisins noirs. Pendant la fermentation, les peaux restent au contact du jus et sont bien mélangées : elles cèdent ainsi couleur et tanins au vin. Une fois la fermentation terminée, le vin est séparé des peaux. Le Rioja espagnol et les vins de Cabernet Sauvignon sont des exemples de vins rouges.",
+     "A red wine, on the other hand, must come from black grapes. During fermentation the skins stay in the juice and are mixed in thoroughly, so they pass colour and tannin into the wine. Once fermentation is over, the new wine is drained off the skins. Rioja from Spain and Cabernet Sauvignon wines are red examples.",
+     "Un vino tinto, en cambio, tiene que hacerse con uvas tintas. Durante la fermentación los hollejos permanecen en el zumo y se mezclan bien con él, de modo que le ceden color y tanino. Cuando termina la fermentación, el vino se separa de los hollejos. El Rioja español y los vinos de Cabernet Sauvignon son ejemplos de tintos."
+    ],
+    [
+     "Anche il rosato nasce da uve nere, ma il contatto con le bucce dura poco: solo qualche ora. Poi il succo, appena rosa, viene separato e termina la fermentazione senza bucce. Il risultato è un vino di colore tenue. Il White Zinfandel della California è un esempio di rosato. I rosati, inoltre, vengono affinati in legno molto raramente.",
+     "Le rosé naît lui aussi de raisins noirs, mais le contact avec les peaux est bref : seulement quelques heures. Le jus, à peine rose, est alors écoulé et termine sa fermentation sans les peaux. On obtient un vin à la couleur légère. Le White Zinfandel de Californie en est un exemple. Les rosés sont d'ailleurs rarement élevés en fût de chêne.",
+     "Rosé is also made from black grapes, but the skin contact is short: just a few hours. The juice, by then only pink, is drained off and finishes fermenting without the skins, giving a lightly coloured wine. White Zinfandel from California is a rosé example. Rosé wines are also only rarely aged in oak.",
+     "El rosado también procede de uvas tintas, pero el contacto con los hollejos es breve: apenas unas horas. Después el zumo, solo ligeramente rosado, se separa y termina de fermentar sin pieles. El resultado es un vino de color suave. El White Zinfandel de California es un ejemplo de rosado. Además, los rosados rara vez se crían en roble."
+    ]
+   ],
+   "keys": [
+    [
+     "Il colore delle uve nere è nella buccia; il succo è incolore",
+     "La couleur des raisins noirs est dans la peau ; le jus est incolore",
+     "Black grape colour is in the skin; the juice is colourless",
+     "El color de la uva tinta está en el hollejo; el zumo es incoloro"
+    ],
+    [
+     "Bianco: di solito uve bianche, ma anche uve nere senza bucce",
+     "Blanc : en général raisins blancs, mais aussi raisins noirs sans les peaux",
+     "White: usually white grapes, possible from black grapes without skins",
+     "Blanco: normalmente uvas blancas, también tintas sin hollejos"
+    ],
+    [
+     "Rosso: solo uve nere, bucce presenti per tutta la fermentazione",
+     "Rouge : uniquement raisins noirs, peaux présentes pendant toute la fermentation",
+     "Red: black grapes only, skins kept through fermentation",
+     "Tinto: solo uvas tintas, con hollejos durante toda la fermentación"
+    ],
+    [
+     "Rosato: uve nere, poche ore di contatto con le bucce",
+     "Rosé : raisins noirs, quelques heures de contact avec les peaux",
+     "Rosé: black grapes, a few hours of skin contact",
+     "Rosado: uvas tintas, pocas horas de contacto con los hollejos"
+    ]
+   ],
+   "c": "w1"
+  },
+  {
+   "t": [
+    "Struttura (1): dolcezza e acidità",
+    "Structure (1) : sucrosité et acidité",
+    "Structure (1): sweetness and acidity",
+    "Estructura (1): dulzor y acidez"
+   ],
+   "p": [
+    [
+     "La dolcezza dipende dalla quantità di zucchero rimasta nel vino. La maggior parte dei vini è secca: per ottenerla, i lieviti devono trasformare in alcol tutto lo zucchero del succo, così nel vino ne resta pochissimo o nulla. Sono secchi, per esempio, lo Chablis e i Sauvignon Blanc tra i bianchi, il Côtes du Rhône, il Chianti e i Cabernet Sauvignon tra i rossi.",
+     "La sucrosité dépend du sucre resté dans le vin. La plupart des vins sont secs : pour cela, les levures doivent transformer en alcool tout le sucre du jus, si bien qu'il n'en reste presque pas. Sont secs, par exemple, le Chablis et les Sauvignon Blanc côté blancs, le Côtes du Rhône, le Chianti et les Cabernet Sauvignon côté rouges.",
+     "Sweetness comes from sugar left in the wine. Most wines are dry: to make one, the yeast must turn all the sugar in the juice into alcohol, leaving little or none behind. Dry examples include Chablis and Sauvignon Blanc wines among whites, and Côtes du Rhône, Chianti and Cabernet Sauvignon wines among reds.",
+     "El dulzor depende del azúcar que queda en el vino. La mayoría de los vinos son secos: para lograrlo, las levaduras tienen que convertir en alcohol todo el azúcar del zumo, de modo que queda muy poco o nada. Son secos, por ejemplo, el Chablis y los Sauvignon Blanc entre los blancos, y el Côtes du Rhône, el Chianti y los Cabernet Sauvignon entre los tintos."
+    ],
+    [
+     "I vini di dolcezza media sono per lo più bianchi o rosati. Si ottengono in due modi: si tolgono i lieviti prima che abbiano trasformato tutto lo zucchero, oppure si aggiunge succo d'uva non fermentato a un vino secco. Ne sono esempi alcuni Riesling tedeschi e il White Zinfandel, il rosato californiano.",
+     "Les vins de sucrosité moyenne sont surtout des blancs ou des rosés. On les obtient de deux façons : soit on retire les levures avant qu'elles aient transformé tout le sucre, soit on ajoute du jus de raisin non fermenté à un vin sec. Exemples : certains Riesling allemands et le White Zinfandel, rosé californien.",
+     "Medium-sweet wines are mostly white or rosé. There are two main ways to make them: remove the yeast before it has turned all the sugar into alcohol, or blend some unfermented grape juice into a dry wine. Some German Rieslings and White Zinfandel, the Californian rosé, are good examples.",
+     "Los vinos de dulzor medio son sobre todo blancos o rosados. Se elaboran de dos maneras: retirando las levaduras antes de que hayan transformado todo el azúcar, o añadiendo zumo de uva sin fermentar a un vino seco. Algunos Riesling alemanes y el White Zinfandel, el rosado californiano, son buenos ejemplos."
+    ],
+    [
+     "I vini dolci contengono così tanto zucchero da sembrare quasi densi e sciropposi. Possono nascere da uve talmente zuccherine che i lieviti si fermano prima di averlo consumato tutto, come nel Sauternes o in alcuni Riesling tedeschi. Nei vini fortificati, invece, si aggiunge alcol distillato ad alta gradazione che uccide i lieviti: lo zucchero rimasto rende dolci il Port e alcuni Sherry.",
+     "Les vins doux sont si riches en sucre qu'ils peuvent paraître épais, presque sirupeux. Ils peuvent venir de raisins tellement sucrés que les levures s'arrêtent avant d'avoir tout consommé, comme pour le Sauternes ou certains Riesling allemands. Dans les vins fortifiés, on ajoute un alcool distillé très fort qui tue les levures : le sucre restant rend doux le Port et certains Sherry.",
+     "Sweet wines hold so much sugar that they can feel thick, almost syrupy. They can come from grapes so rich in sugar that the yeast stop before eating it all, as in Sauternes or some German Rieslings. In fortified wines, strong distilled alcohol is added, killing the yeast early; the sugar left behind makes Port and some Sherries sweet.",
+     "Los vinos dulces tienen tanto azúcar que pueden resultar espesos, casi como un almíbar. Pueden proceder de uvas tan azucaradas que las levaduras se detienen antes de consumirlo todo, como en el Sauternes o en algunos Riesling alemanes. En los fortificados, en cambio, se añade alcohol destilado de alta graduación que mata las levaduras: el azúcar restante hace dulces el Port y algunos Sherry."
+    ],
+    [
+     "L'acidità arriva direttamente dal succo d'uva ed è ciò che rende un vino rinfrescante. Si riconosce facilmente perché fa venire l'acquolina in bocca. Troppa acidità rende il vino sgradevolmente aspro; troppo poca lo rende piatto. Sono vini molto acidi lo Chablis, il Chianti e i vini di Sauvignon Blanc, Riesling, Cabernet Sauvignon e Pinot Noir.",
+     "L'acidité vient directement du jus de raisin et c'est elle qui rend un vin rafraîchissant. On la reconnaît facilement : elle fait saliver. Trop d'acidité rend le vin désagréablement acide ; trop peu, et il perd sa fraîcheur. Le Chablis, le Chianti et les vins de Sauvignon Blanc, Riesling, Cabernet Sauvignon et Pinot Noir ont une acidité élevée.",
+     "Acidity comes straight from the grape juice, and it is what makes a wine refreshing. It is easy to spot because it makes your mouth water. Too much tastes unpleasantly sharp; too little and the wine loses its freshness. Chablis, Chianti and wines from Sauvignon Blanc, Riesling, Cabernet Sauvignon and Pinot Noir all have high acidity.",
+     "La acidez procede directamente del zumo de uva y es lo que hace que un vino resulte refrescante. Es fácil de reconocer porque hace salivar. Demasiada acidez hace que el vino sea desagradablemente ácido; demasiado poca y pierde su frescura. El Chablis, el Chianti y los vinos de Sauvignon Blanc, Riesling, Cabernet Sauvignon y Pinot Noir tienen acidez alta."
+    ],
+    [
+     "Nei vini dolci l'acidità è fondamentale. Fa da contrappeso allo zucchero ed evita che il vino risulti stucchevole. Per questo un buon Sauternes o un Riesling dolce hanno sempre un'acidità alta: dolcezza e freschezza si bilanciano a vicenda e il sorso resta piacevole fino alla fine.",
+     "Dans les vins doux, l'acidité est essentielle. Elle fait contrepoids au sucre et évite que le vin devienne écœurant. C'est pourquoi un bon Sauternes ou un Riesling doux ont toujours une acidité élevée : douceur et fraîcheur s'équilibrent et la gorgée reste agréable jusqu'au bout.",
+     "In sweet wines, acidity is vital. It acts as a counterweight to the sugar and stops the wine from tasting cloying. That is why a good Sauternes or a sweet Riesling always has high acidity: sweetness and freshness balance each other, and every sip stays enjoyable to the end.",
+     "En los vinos dulces, la acidez es esencial. Hace de contrapeso al azúcar y evita que el vino resulte empalagoso. Por eso un buen Sauternes o un Riesling dulce siempre tienen una acidez alta: dulzor y frescura se equilibran y cada sorbo sigue siendo agradable hasta el final."
+    ]
+   ],
+   "keys": [
+    [
+     "Secco: i lieviti trasformano tutto lo zucchero in alcol",
+     "Sec : les levures transforment tout le sucre en alcool",
+     "Dry: yeast turn all the sugar into alcohol",
+     "Seco: las levaduras convierten todo el azúcar en alcohol"
+    ],
+    [
+     "Medio: lieviti tolti prima, o succo non fermentato aggiunto",
+     "Moyen : levures retirées tôt, ou jus non fermenté ajouté",
+     "Medium: yeast removed early, or unfermented juice added",
+     "Medio: levaduras retiradas antes, o zumo sin fermentar añadido"
+    ],
+    [
+     "Dolce: uve molto zuccherine, o alcol aggiunto che uccide i lieviti",
+     "Doux : raisins très sucrés, ou alcool ajouté qui tue les levures",
+     "Sweet: very sugary grapes, or added alcohol killing the yeast",
+     "Dulce: uvas muy azucaradas, o alcohol añadido que mata las levaduras"
+    ],
+    [
+     "Acidità: viene dal succo, fa salivare, rinfresca e bilancia la dolcezza",
+     "Acidité : vient du jus, fait saliver, rafraîchit et équilibre la douceur",
+     "Acidity: from the juice, makes the mouth water, balances sweetness",
+     "Acidez: viene del zumo, hace salivar, refresca y equilibra el dulzor"
+    ]
+   ],
+   "c": "w1"
+  },
+  {
+   "t": [
+    "Struttura (2): tannino, alcol e corpo",
+    "Structure (2) : tanins, alcool et corps",
+    "Structure (2): tannin, alcohol and body",
+    "Estructura (2): tanino, alcohol y cuerpo"
+   ],
+   "p": [
+    [
+     "Il tannino è tipico dei vini rossi e proviene dalle bucce delle uve nere. La sua quantità dipende dal vitigno e da come si fa il vino. A volte ha un gusto amaro, ma soprattutto si sente come una sensazione: lascia la bocca asciutta. Sono ricchi di tannino il Bordeaux rosso e il Chianti; ne hanno poco il Beaujolais e alcuni Pinot Noir.",
+     "Le tanin est propre aux vins rouges et vient de la peau des raisins noirs. Sa quantité dépend du cépage et de la vinification. Il peut paraître amer, mais on le perçoit surtout comme une sensation : il assèche la bouche. Le Bordeaux rouge et le Chianti sont riches en tanins ; le Beaujolais et certains Pinot Noir en ont peu.",
+     "Tannin belongs to red wines and comes from the skins of black grapes. How much a wine has depends on the grape variety and on the winemaking. It can taste a little bitter, but mostly it is something you feel: it leaves your mouth dry. Red Bordeaux and Chianti are high in tannin; Beaujolais and some Pinot Noir wines are low.",
+     "El tanino es propio de los vinos tintos y procede de los hollejos de las uvas tintas. Su cantidad depende de la variedad y de la elaboración. Puede resultar algo amargo, pero sobre todo se nota como una sensación: deja la boca seca. El Bordeaux tinto y el Chianti tienen mucho tanino; el Beaujolais y algunos Pinot Noir, poco."
+    ],
+    [
+     "Quasi tutti i vini fermi e spumanti hanno tra l'11,5% e il 14% vol. Alcuni arrivano fino al 15%, altri scendono fino all'8%. Un esempio di vino molto alcolico è lo Châteauneuf-du-Pape, rosso francese; un esempio di vino poco alcolico è il White Zinfandel californiano. Ricorda: l'alcol nasce dalla fermentazione dello zucchero.",
+     "Presque tous les vins tranquilles et effervescents titrent entre 11,5 % et 14 % vol. Certains montent jusqu'à 15 %, d'autres descendent jusqu'à 8 %. Le Châteauneuf-du-Pape, rouge français, est un exemple de vin riche en alcool ; le White Zinfandel californien, un exemple de vin peu alcoolisé. Rappel : l'alcool naît de la fermentation du sucre.",
+     "Nearly all still and sparkling wines sit between 11.5% and 14% abv. A few reach 15%, while others go as low as 8%. Châteauneuf-du-Pape, a French red, is an example of a high-alcohol wine; White Zinfandel from California is an example of a low-alcohol one. Remember that alcohol is produced when yeast ferment sugar.",
+     "Casi todos los vinos tranquilos y espumosos tienen entre un 11,5 % y un 14 % vol. Algunos llegan al 15 % y otros bajan hasta el 8 %. El Châteauneuf-du-Pape, tinto francés, es un ejemplo de vino con mucho alcohol; el White Zinfandel californiano, de vino con poco. Recuerda que el alcohol se forma cuando las levaduras fermentan el azúcar."
+    ],
+    [
+     "Il corpo descrive la sensazione generale del vino in bocca. Molti fattori lo influenzano, quindi la domanda più semplice è: quanto riempie la bocca? Un vino di corpo pieno sembra denso e avvolgente, uno leggero più delicato. Leggeri: Pinot Grigio e Beaujolais. Medi: Sancerre e Côtes du Rhône. Pieni: Cabernet Sauvignon della California e Sauternes.",
+     "Le corps décrit la sensation globale du vin en bouche. Beaucoup de facteurs y contribuent, alors la question la plus simple est : à quel point remplit-il la bouche ? Un vin corsé paraît dense et enveloppant, un vin léger plus délicat. Légers : Pinot Grigio, Beaujolais. Moyens : Sancerre, Côtes du Rhône. Corsés : Cabernet Sauvignon de Californie, Sauternes.",
+     "Body describes the overall feel of a wine in your mouth. Many things contribute to it, so the easiest question to ask is: how mouth-filling is it? Full-bodied wines feel dense and rich, while light-bodied ones feel more delicate. Light: Pinot Grigio, Beaujolais. Medium: Sancerre, Côtes du Rhône. Full: Californian Cabernet Sauvignon, Sauternes.",
+     "El cuerpo describe la sensación general del vino en la boca. Influyen muchos factores, así que la pregunta más sencilla es: ¿cuánto llena la boca? Un vino con cuerpo parece denso y envolvente; uno ligero, más delicado. Ligeros: Pinot Grigio y Beaujolais. Medios: Sancerre y Côtes du Rhône. Con mucho cuerpo: Cabernet Sauvignon de California y Sauternes."
+    ]
+   ],
+   "keys": [
+    [
+     "Tannino: dalle bucce, asciuga la bocca, tipico dei rossi",
+     "Tanin : vient des peaux, assèche la bouche, typique des rouges",
+     "Tannin: from skins, dries the mouth, a red-wine feature",
+     "Tanino: de los hollejos, seca la boca, propio de los tintos"
+    ],
+    [
+     "Alcol: di solito 11,5–14% vol., tra 8% e 15% per vini fermi e spumanti",
+     "Alcool : en général 11,5–14 % vol., entre 8 et 15 % pour tranquilles et effervescents",
+     "Alcohol: usually 11.5–14% abv, 8–15% for still and sparkling",
+     "Alcohol: normalmente 11,5–14 % vol., entre 8 y 15 % en tranquilos y espumosos"
+    ],
+    [
+     "Corpo: quanto il vino riempie la bocca (leggero, medio, pieno)",
+     "Corps : à quel point le vin remplit la bouche (léger, moyen, corsé)",
+     "Body: how mouth-filling the wine is (light, medium, full)",
+     "Cuerpo: cuánto llena la boca el vino (ligero, medio, con cuerpo)"
+    ]
+   ],
+   "c": "w1"
+  },
+  {
+   "t": [
+    "Aromi e sapori: frutta, legno, altro",
+    "Arômes et saveurs : fruit, bois, autres",
+    "Aromas and flavours: fruit, oak, other",
+    "Aromas y sabores: fruta, roble, otros"
+   ],
+   "p": [
+    [
+     "Gli aromi e i sapori di un vino hanno origini diverse. Alcuni arrivano direttamente dalle uve, altri si sviluppano durante la vinificazione e l'affinamento. All'inizio descriverli può sembrare difficile, ma è un'abilità che migliora con la pratica. Un metodo semplice è chiedersi: sento frutta? Sento legno? Sento qualcos'altro?",
+     "Les arômes et saveurs d'un vin ont des origines variées. Certains viennent directement du raisin, d'autres apparaissent pendant la vinification et l'élevage. Les décrire peut sembler difficile au début, mais cela s'apprend avec la pratique. Une méthode simple : se demander si l'on sent du fruit, du bois ou autre chose.",
+     "A wine's aromas and flavours come from different places. Some come straight from the grapes, while others develop during winemaking and maturation. Putting them into words feels hard at first, but it is a skill that grows with practice. A simple method is to ask three questions: do I notice fruit? Oak? Something else?",
+     "Los aromas y sabores de un vino tienen orígenes distintos. Algunos proceden directamente de la uva y otros aparecen durante la elaboración y la crianza. Al principio cuesta describirlos, pero es una habilidad que mejora con la práctica. Un método sencillo es preguntarse: ¿noto fruta? ¿Noto roble? ¿Noto otra cosa?"
+    ],
+    [
+     "Quasi tutti i vini profumano di frutta. Il tipo di frutta dipende prima di tutto dal vitigno: il Cabernet Sauvignon, per esempio, sa di ribes nero. Conta anche la maturità delle uve: uno Chardonnay di clima fresco ricorda la mela verde e il limone, mentre uno di clima caldo ricorda la pesca e frutti tropicali come l'ananas.",
+     "Presque tous les vins sentent le fruit. Le type de fruit dépend d'abord du cépage : le Cabernet Sauvignon, par exemple, évoque le cassis. La maturité du raisin compte aussi : un Chardonnay de climat frais rappelle la pomme verte et le citron, tandis qu'un Chardonnay de climat chaud évoque la pêche et des fruits tropicaux comme l'ananas.",
+     "Almost every wine smells of fruit. The kind of fruit depends first on the grape variety: Cabernet Sauvignon, for instance, smells of blackcurrant. Ripeness matters too. A Chardonnay from a cool climate shows green apple and lemon, whereas one from a warm climate leans towards peach and tropical fruit such as pineapple.",
+     "Casi todos los vinos huelen a fruta. El tipo de fruta depende ante todo de la variedad: el Cabernet Sauvignon, por ejemplo, recuerda a la grosella negra. También influye la madurez de la uva: un Chardonnay de clima fresco recuerda a la manzana verde y al limón, mientras que uno de clima cálido tira hacia el melocotón y frutas tropicales como la piña."
+    ],
+    [
+     "Il vino può fermentare e/o affinarsi in botti di rovere. In quel caso il legno aggiunge note come vaniglia, cocco, chiodi di garofano, cedro e affumicato. A volte l'uso del legno è indicato in etichetta. Quando senti questi profumi accanto alla frutta, è un buon indizio che il vino sia passato in botte.",
+     "Le vin peut fermenter et/ou être élevé en fût de chêne. Le bois apporte alors des notes de vanille, de noix de coco, de clou de girofle, de cèdre ou de fumé. L'usage du chêne est parfois indiqué sur l'étiquette. Quand on perçoit ces arômes à côté du fruit, c'est un bon indice d'un passage en fût.",
+     "Wine can be fermented and/or matured in oak barrels. When it is, the wood adds notes such as vanilla, coconut, cloves, cedar and smoke. The use of oak is sometimes mentioned on the label. If you pick up these aromas alongside the fruit, it is a good clue that the wine has spent time in barrel.",
+     "El vino puede fermentar y/o criarse en barricas de roble. En ese caso la madera aporta notas de vainilla, coco, clavo, cedro y ahumado. A veces el uso de roble aparece en la etiqueta. Si notas estos aromas junto a la fruta, es una buena pista de que el vino ha pasado por barrica."
+    ],
+    [
+     "Infine ci sono gli «altri» aromi, che rendono il vino così vario e interessante: erba, fiori, erbe aromatiche, ortaggi, terra, funghi, cuoio. Per esempio, un Sauvignon Blanc può far pensare all'erba appena tagliata, mentre il Chianti può avere note di erbe secche. Raggrupparli in una famiglia a parte aiuta a non confonderli con la frutta.",
+     "Restent les « autres » arômes, qui rendent le vin si varié et passionnant : herbe, fleurs, herbes aromatiques, légumes, terre, champignon, cuir. Un Sauvignon Blanc peut par exemple évoquer l'herbe coupée, et le Chianti des herbes séchées. Les ranger dans une famille à part évite de les confondre avec le fruit.",
+     "Finally, there are the «other» aromas that make wine so varied and interesting: grass, flowers, herbs, vegetables, earth, mushroom and leather. A Sauvignon Blanc, for example, can bring cut grass to mind, while Chianti can show dried herbs. Keeping them in a family of their own stops you confusing them with fruit.",
+     "Por último están los «otros» aromas, que hacen el vino tan variado e interesante: hierba, flores, hierbas aromáticas, verduras, tierra, champiñón y cuero. Un Sauvignon Blanc, por ejemplo, puede recordar a hierba recién cortada, y el Chianti a hierbas secas. Agruparlos en una familia aparte ayuda a no confundirlos con la fruta."
+    ]
+   ],
+   "keys": [
+    [
+     "Frutta: dipende dal vitigno e dalla maturità delle uve",
+     "Fruit : dépend du cépage et de la maturité du raisin",
+     "Fruit: depends on the grape variety and its ripeness",
+     "Fruta: depende de la variedad y de la madurez de la uva"
+    ],
+    [
+     "Clima fresco = mela, limone; clima caldo = pesca, ananas",
+     "Climat frais = pomme, citron ; climat chaud = pêche, ananas",
+     "Cool climate = apple, lemon; warm climate = peach, pineapple",
+     "Clima fresco = manzana, limón; clima cálido = melocotón, piña"
+    ],
+    [
+     "Legno di rovere: vaniglia, cocco, chiodi di garofano, cedro, affumicato",
+     "Chêne : vanille, noix de coco, clou de girofle, cèdre, fumé",
+     "Oak: vanilla, coconut, cloves, cedar, smoke",
+     "Roble: vainilla, coco, clavo, cedro, ahumado"
+    ],
+    [
+     "Altro: erba, fiori, erbe, ortaggi, terra, funghi, cuoio",
+     "Autres : herbe, fleurs, herbes, légumes, terre, champignon, cuir",
+     "Other: grass, flowers, herbs, vegetables, earth, mushroom, leather",
+     "Otros: hierba, flores, hierbas, verduras, tierra, champiñón, cuero"
+    ]
+   ],
+   "c": "w1"
+  },
+  {
+   "t": [
+    "Lo stile: la somma delle caratteristiche",
+    "Le style : la somme des caractéristiques",
+    "Style: the sum of the characteristics",
+    "El estilo: la suma de las características"
+   ],
+   "p": [
+    [
+     "Ognuno dei tre tipi di vino, fermo, spumante o fortificato, può presentarsi in tanti stili diversi. Lo stile è l'insieme di tre elementi: il colore, la struttura (dolcezza, acidità, tannino, alcol, corpo) e gli aromi e sapori. Descrivere uno stile significa mettere insieme questi pezzi in un ritratto unico del vino.",
+     "Chacun des trois types de vin, tranquille, effervescent ou fortifié, peut se décliner en de nombreux styles. Le style réunit trois éléments : la couleur, la structure (sucrosité, acidité, tanins, alcool, corps) et les arômes et saveurs. Décrire un style, c'est assembler ces pièces pour dresser le portrait complet d'un vin.",
+     "Each of the three types of wine, still, sparkling or fortified, can come in many different styles. A style brings together three elements: colour, structure (sweetness, acidity, tannin, alcohol, body) and aromas and flavours. Describing a style means putting these pieces together into one complete portrait of the wine.",
+     "Cada uno de los tres tipos de vino, tranquilo, espumoso o fortificado, puede presentarse en muchos estilos. El estilo reúne tres elementos: el color, la estructura (dulzor, acidez, tanino, alcohol, cuerpo) y los aromas y sabores. Describir un estilo es juntar estas piezas en un retrato completo del vino."
+    ],
+    [
+     "Un confronto lo rende chiaro. Lo Chablis e il Sauternes sono entrambi bianchi francesi, eppure hanno stili opposti. Lo Chablis è secco, molto acido, di corpo leggero o medio, con mela verde e limone e senza legno. Il Sauternes è dolce, di corpo pieno, con albicocca, miele e vaniglia del rovere, sostenuto da un'acidità alta.",
+     "Une comparaison rend l'idée claire. Le Chablis et le Sauternes sont tous deux des blancs français, et pourtant leurs styles s'opposent. Le Chablis est sec, très acide, léger à moyen en corps, avec pomme verte et citron, sans bois. Le Sauternes est doux, corsé, avec abricot, miel et vanille du chêne, porté par une acidité élevée.",
+     "A comparison makes this clear. Chablis and Sauternes are both French white wines, yet their styles are opposites. Chablis is dry, high in acidity, light to medium in body, with green apple and lemon and no oak. Sauternes is sweet and full-bodied, with apricot, honey and vanilla from oak, held up by high acidity.",
+     "Una comparación lo deja claro. El Chablis y el Sauternes son ambos blancos franceses y, sin embargo, sus estilos son opuestos. El Chablis es seco, de acidez alta, cuerpo ligero a medio, con manzana verde y limón y sin roble. El Sauternes es dulce y con cuerpo, con albaricoque, miel y vainilla del roble, sostenido por una acidez alta."
+    ],
+    [
+     "Lo stile dipende molto dal clima in cui crescono le uve. Più fa fresco, meno zucchero e più acidità hanno le uve: ne nascono vini più freschi e leggeri, con frutta verde e agrumi. Più fa caldo, più zucchero e meno acidità: i sapori sono più maturi e, dato che lo zucchero diventa alcol, i vini tendono a essere più alcolici e corposi.",
+     "Le style dépend beaucoup du climat où pousse le raisin. Plus il fait frais, moins le raisin a de sucre et plus il a d'acidité : on obtient des vins plus frais et légers, aux fruits verts et agrumes. Plus il fait chaud, plus il y a de sucre et moins d'acidité : les saveurs sont plus mûres et, le sucre devenant alcool, les vins sont plus alcoolisés et plus amples.",
+     "Style depends a lot on the climate where the grapes grow. The cooler it is, the less sugar and the more acidity the grapes have, giving fresher, lighter wines with green fruit and citrus. The warmer it is, the more sugar and the less acidity: flavours taste riper and, since sugar becomes alcohol, wines tend to be stronger and fuller.",
+     "El estilo depende mucho del clima en que crece la uva. Cuanto más fresco, menos azúcar y más acidez tiene la uva: salen vinos más frescos y ligeros, con fruta verde y cítricos. Cuanto más cálido, más azúcar y menos acidez: los sabores son más maduros y, como el azúcar se convierte en alcohol, los vinos suelen tener más graduación y más cuerpo."
+    ],
+    [
+     "Per descrivere uno stile si segue un approccio sistematico alla degustazione. Prima l'aspetto: il colore (bianco, rosso, rosato). Poi il naso: aromi di frutta, legno o altro. Infine il palato: dolcezza, acidità, tannino, alcol e corpo, più i sapori. Usare sempre lo stesso ordine aiuta chi studia a confrontare i vini e a ricordarli.",
+     "Pour décrire un style, on suit une approche systématique de la dégustation. D'abord l'aspect : la couleur (blanc, rouge, rosé). Puis le nez : arômes de fruit, de bois ou autres. Enfin la bouche : sucrosité, acidité, tanins, alcool et corps, plus les saveurs. Suivre toujours le même ordre aide les personnes qui étudient à comparer les vins et à s'en souvenir.",
+     "To describe a style, you follow a systematic approach to tasting. First the appearance: the colour (white, red, rosé). Then the nose: aromas of fruit, oak or other. Finally the palate: sweetness, acidity, tannin, alcohol and body, plus the flavours. Always using the same order makes it easier to compare wines and remember them.",
+     "Para describir un estilo se sigue un enfoque sistemático de la cata. Primero la vista: el color (blanco, tinto, rosado). Después la nariz: aromas de fruta, de roble u otros. Por último la boca: dulzor, acidez, tanino, alcohol y cuerpo, además de los sabores. Seguir siempre el mismo orden ayuda a quien estudia a comparar vinos y recordarlos."
+    ]
+   ],
+   "keys": [
+    [
+     "Stile = colore + struttura + aromi e sapori",
+     "Style = couleur + structure + arômes et saveurs",
+     "Style = colour + structure + aromas and flavours",
+     "Estilo = color + estructura + aromas y sabores"
+    ],
+    [
+     "Clima fresco: più acidità, meno zucchero, vini più leggeri e freschi",
+     "Climat frais : plus d'acidité, moins de sucre, vins plus légers et frais",
+     "Cool climate: more acid, less sugar, lighter and fresher wines",
+     "Clima fresco: más acidez, menos azúcar, vinos más ligeros y frescos"
+    ],
+    [
+     "Clima caldo: più zucchero, meno acidità, sapori più maturi",
+     "Climat chaud : plus de sucre, moins d'acidité, saveurs plus mûres",
+     "Warm climate: more sugar, less acid, riper flavours",
+     "Clima cálido: más azúcar, menos acidez, sabores más maduros"
+    ],
+    [
+     "Degustazione: aspetto, naso, palato, sempre nello stesso ordine",
+     "Dégustation : aspect, nez, bouche, toujours dans le même ordre",
+     "Tasting: appearance, nose, palate, always in the same order",
+     "Cata: vista, nariz, boca, siempre en el mismo orden"
+    ]
+   ],
+   "c": "w1"
+  }
+ ],
+ "questions": [
+  {
+   "q": [
+    "Quale tipo di vino ha ricevuto un'aggiunta di alcol?",
+    "Quel type de vin a reçu un ajout d'alcool ?",
+    "Which type of wine has had extra alcohol added?",
+    "¿A qué tipo de vino se le ha añadido alcohol?"
+   ],
+   "o": [
+    [
+     "Fortificato",
+     "Fortifié",
+     "Fortified",
+     "Fortificado"
+    ],
+    [
+     "Spumante",
+     "Effervescent",
+     "Sparkling",
+     "Espumoso"
+    ],
+    [
+     "Fermo",
+     "Tranquille",
+     "Still",
+     "Tranquilo"
+    ],
+    [
+     "Rosato",
+     "Rosé",
+     "Rosé",
+     "Rosado"
+    ]
+   ],
+   "e": [
+    "Nei vini fortificati si aggiunge alcol, per questo sono più forti.",
+    "On ajoute de l'alcool aux vins fortifiés, d'où leur degré plus élevé.",
+    "Fortified wines have alcohol added, which makes them stronger.",
+    "A los fortificados se les añade alcohol, por eso son más fuertes."
+   ],
+   "d": [
+    "Esistono tre tipi di vino: fermo, spumante e fortificato. Solo il fortificato riceve un'aggiunta di alcol, che porta il grado tra il 15% e il 22% vol. Lo spumante deve le bollicine all'anidride carbonica della fermentazione, mentre il rosato è un colore, non un tipo di vino.",
+    "Il existe trois types de vin : tranquille, effervescent et fortifié. Seul le fortifié reçoit un ajout d'alcool, qui porte son degré entre 15 % et 22 % vol. L'effervescent doit ses bulles au dioxyde de carbone de la fermentation, et le rosé est une couleur, pas un type de vin.",
+    "There are three types of wine: still, sparkling and fortified. Only fortified wine has extra alcohol added, which lifts it to between 15% and 22% abv. Sparkling wine owes its bubbles to carbon dioxide from fermentation, and rosé is a colour, not a type of wine.",
+    "Hay tres tipos de vino: tranquilo, espumoso y fortificado. Solo al fortificado se le añade alcohol, lo que eleva su graduación a entre el 15 % y el 22 % vol. El espumoso debe sus burbujas al dióxido de carbono de la fermentación, y el rosado es un color, no un tipo de vino."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Qual è la gradazione tipica dei vini fortificati?",
+    "Quel est le degré habituel des vins fortifiés ?",
+    "What is the usual alcohol range of fortified wines?",
+    "¿Cuál es la graduación habitual de los vinos fortificados?"
+   ],
+   "o": [
+    [
+     "15–22% vol.",
+     "15–22 % vol.",
+     "15–22% abv",
+     "15–22 % vol."
+    ],
+    [
+     "8–11% vol.",
+     "8–11 % vol.",
+     "8–11% abv",
+     "8–11 % vol."
+    ],
+    [
+     "11,5–14% vol.",
+     "11,5–14 % vol.",
+     "11.5–14% abv",
+     "11,5–14 % vol."
+    ],
+    [
+     "4–7% vol.",
+     "4–7 % vol.",
+     "4–7% abv",
+     "4–7 % vol."
+    ]
+   ],
+   "e": [
+    "L'alcol aggiunto porta i fortificati tra il 15% e il 22% vol.",
+    "L'alcool ajouté place les fortifiés entre 15 % et 22 % vol.",
+    "The added alcohol puts fortified wines between 15% and 22% abv.",
+    "El alcohol añadido sitúa a los fortificados entre el 15 % y el 22 % vol."
+   ],
+   "d": [
+    "I vini fermi e spumanti stanno quasi sempre tra l'11,5% e il 14% vol., con estremi tra 8% e 15%. I fortificati, come Sherry e Port, ricevono alcol in più e salgono a una fascia più alta, tra il 15% e il 22% vol.",
+    "Les vins tranquilles et effervescents se situent presque toujours entre 11,5 % et 14 % vol., avec des extrêmes de 8 % à 15 %. Les fortifiés, comme le Sherry et le Port, reçoivent de l'alcool en plus et montent dans une fourchette plus haute, de 15 % à 22 % vol.",
+    "Still and sparkling wines almost always sit between 11.5% and 14% abv, with extremes from 8% to 15%. Fortified wines such as Sherry and Port have extra alcohol added, so they move up into a higher band of 15% to 22% abv.",
+    "Los vinos tranquilos y espumosos casi siempre están entre el 11,5 % y el 14 % vol., con extremos del 8 % al 15 %. Los fortificados, como el Sherry y el Port, reciben alcohol adicional y suben a una franja más alta, del 15 % al 22 % vol."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Da dove vengono le bollicine di un vino spumante?",
+    "D'où viennent les bulles d'un vin effervescent ?",
+    "Where do the bubbles in sparkling wine come from?",
+    "¿De dónde salen las burbujas del vino espumoso?"
+   ],
+   "o": [
+    [
+     "Anidride carbonica della fermentazione rimasta nel vino",
+     "Dioxyde de carbone de la fermentation resté dans le vin",
+     "Carbon dioxide from fermentation trapped in the wine",
+     "Dióxido de carbono de la fermentación atrapado en el vino"
+    ],
+    [
+     "Alcol distillato aggiunto dopo la fermentazione",
+     "Alcool distillé ajouté après la fermentation",
+     "Distilled alcohol added after fermentation",
+     "Alcohol destilado añadido tras la fermentación"
+    ],
+    [
+     "Zucchero lasciato nel vino dopo la fermentazione",
+     "Sucre laissé dans le vin après la fermentation",
+     "Sugar left in the wine after fermentation",
+     "Azúcar que queda en el vino tras fermentar"
+    ],
+    [
+     "Aria che entra dalle doghe delle botti",
+     "Air qui entre par les douelles des fûts",
+     "Air entering through the oak barrel staves",
+     "Aire que entra por las duelas de la barrica"
+    ]
+   ],
+   "e": [
+    "La fermentazione produce anidride carbonica; se resta intrappolata, forma le bollicine.",
+    "La fermentation produit du dioxyde de carbone ; piégé, il forme les bulles.",
+    "Fermentation makes carbon dioxide; when it is trapped, it becomes the bubbles.",
+    "La fermentación produce dióxido de carbono; si queda atrapado, forma las burbujas."
+   ],
+   "d": [
+    "I lieviti trasformano lo zucchero in alcol e anidride carbonica. Nei vini fermi il gas si disperde nell'aria, mentre negli spumanti viene trattenuto nel vino. Quando si apre la bottiglia, il gas si libera sotto forma di bollicine, come nello Champagne, nel Cava o nel Prosecco.",
+    "Les levures transforment le sucre en alcool et en dioxyde de carbone. Dans les vins tranquilles, le gaz s'échappe dans l'air ; dans les effervescents, il est retenu dans le vin. À l'ouverture de la bouteille, il se libère sous forme de bulles, comme dans le Champagne, le Cava ou le Prosecco.",
+    "Yeast turn sugar into alcohol and carbon dioxide. In still wines the gas escapes into the air, but in sparkling wines it is kept inside the wine. When the bottle is opened, the gas is released as bubbles, as in Champagne, Cava or Prosecco.",
+    "Las levaduras convierten el azúcar en alcohol y dióxido de carbono. En los vinos tranquilos el gas se escapa al aire, pero en los espumosos se retiene dentro del vino. Al abrir la botella, el gas se libera en forma de burbujas, como en el Champagne, el Cava o el Prosecco."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Tra quali valori si trova la maggior parte dei vini fermi?",
+    "Entre quelles valeurs se situent la plupart des vins tranquilles ?",
+    "Between which values do most still wines fall?",
+    "¿Entre qué valores se sitúan la mayoría de los vinos tranquilos?"
+   ],
+   "o": [
+    [
+     "11,5% e 14% vol.",
+     "11,5 % et 14 % vol.",
+     "11.5% and 14% abv",
+     "11,5 % y 14 % vol."
+    ],
+    [
+     "15% e 22% vol.",
+     "15 % et 22 % vol.",
+     "15% and 22% abv",
+     "15 % y 22 % vol."
+    ],
+    [
+     "5% e 8% vol.",
+     "5 % et 8 % vol.",
+     "5% and 8% abv",
+     "5 % y 8 % vol."
+    ],
+    [
+     "16% e 20% vol.",
+     "16 % et 20 % vol.",
+     "16% and 20% abv",
+     "16 % y 20 % vol."
+    ]
+   ],
+   "e": [
+    "I vini fermi vanno da 8% a 15% vol., ma quasi tutti stanno tra 11,5% e 14%.",
+    "Les tranquilles vont de 8 % à 15 % vol., mais presque tous entre 11,5 % et 14 %.",
+    "Still wines range from 8% to 15% abv, but most sit between 11.5% and 14%.",
+    "Los tranquilos van del 8 % al 15 % vol., pero casi todos entre el 11,5 % y el 14 %."
+   ],
+   "d": [
+    "La fascia completa dei vini fermi va dall'8% al 15% vol., ma la grande maggioranza si colloca tra l'11,5% e il 14%. Valori tra il 15% e il 22% sono tipici dei vini fortificati, a cui si aggiunge alcol. Un vino come il White Zinfandel è un esempio di gradazione bassa.",
+    "La fourchette complète des vins tranquilles va de 8 % à 15 % vol., mais la grande majorité se situe entre 11,5 % et 14 %. Les valeurs de 15 % à 22 % sont typiques des vins fortifiés, auxquels on ajoute de l'alcool. Le White Zinfandel est un exemple de vin peu alcoolisé.",
+    "The full range for still wines runs from 8% to 15% abv, but the great majority sit between 11.5% and 14%. Figures of 15% to 22% are typical of fortified wines, which have alcohol added. White Zinfandel is an example of a still wine at the low end.",
+    "La franja completa de los vinos tranquilos va del 8 % al 15 % vol., pero la gran mayoría se sitúa entre el 11,5 % y el 14 %. Las cifras del 15 % al 22 % son típicas de los fortificados, a los que se añade alcohol. El White Zinfandel es un ejemplo de vino con poca graduación."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi vini prende il nome dal vitigno?",
+    "Lequel de ces vins porte le nom de son cépage ?",
+    "Which of these wines is named after its grape variety?",
+    "¿Cuál de estos vinos lleva el nombre de su variedad de uva?"
+   ],
+   "o": [
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ],
+    [
+     "Rioja",
+     "Rioja",
+     "Rioja",
+     "Rioja"
+    ],
+    [
+     "Chianti",
+     "Chianti",
+     "Chianti",
+     "Chianti"
+    ],
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ]
+   ],
+   "e": [
+    "Pinot Grigio è un vitigno; Rioja, Chianti e Sancerre sono zone di produzione.",
+    "Pinot Grigio est un cépage ; Rioja, Chianti et Sancerre sont des régions.",
+    "Pinot Grigio is a grape; Rioja, Chianti and Sancerre are places.",
+    "Pinot Grigio es una uva; Rioja, Chianti y Sancerre son zonas."
+   ],
+   "d": [
+    "Molti vini europei portano il nome della zona in cui sono prodotti: Rioja in Spagna, Chianti in Italia, Sancerre in Francia. Altri vini, invece, indicano in etichetta il vitigno usato. Il Pinot Grigio è proprio un esempio di vino chiamato con il nome dell'uva.",
+    "Beaucoup de vins européens portent le nom de leur région de production : Rioja en Espagne, Chianti en Italie, Sancerre en France. D'autres indiquent plutôt le cépage sur l'étiquette. Le Pinot Grigio est justement un exemple de vin désigné par le nom de son raisin.",
+    "Many European wines take the name of the area where they are made: Rioja in Spain, Chianti in Italy, Sancerre in France. Other wines show the grape variety on the label instead. Pinot Grigio is a typical example of a wine named after its grape.",
+    "Muchos vinos europeos llevan el nombre de la zona donde se elaboran: Rioja en España, Chianti en Italia, Sancerre en Francia. Otros, en cambio, indican la variedad de uva en la etiqueta. El Pinot Grigio es precisamente un ejemplo de vino que se llama como su uva."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi è uno spumante spagnolo?",
+    "Lequel de ces vins est un effervescent espagnol ?",
+    "Which of these is a Spanish sparkling wine?",
+    "¿Cuál de estos es un espumoso español?"
+   ],
+   "o": [
+    [
+     "Cava",
+     "Cava",
+     "Cava",
+     "Cava"
+    ],
+    [
+     "Prosecco",
+     "Prosecco",
+     "Prosecco",
+     "Prosecco"
+    ],
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ],
+    [
+     "Sherry",
+     "Sherry",
+     "Sherry",
+     "Sherry"
+    ]
+   ],
+   "e": [
+    "Il Cava è lo spumante della Spagna.",
+    "Le Cava est l'effervescent espagnol.",
+    "Cava is the sparkling wine from Spain.",
+    "El Cava es el espumoso de España."
+   ],
+   "d": [
+    "Tre spumanti famosi da ricordare: Champagne dalla Francia, Prosecco dall'Italia e Cava dalla Spagna. Anche lo Sherry è spagnolo, ma è un vino fortificato, non uno spumante: ha ricevuto alcol in più e non ha bollicine. Gli spumanti, comunque, si producono oggi in quasi tutti i paesi del vino.",
+    "Trois effervescents célèbres à retenir : le Champagne de France, le Prosecco d'Italie et le Cava d'Espagne. Le Sherry est lui aussi espagnol, mais c'est un vin fortifié, pas un effervescent : il a reçu de l'alcool en plus et n'a pas de bulles. On produit d'ailleurs aujourd'hui des effervescents dans presque tous les pays viticoles.",
+    "Three famous sparkling wines to remember: Champagne from France, Prosecco from Italy and Cava from Spain. Sherry is also Spanish, but it is a fortified wine, not a sparkling one: it has had alcohol added and has no bubbles. Sparkling wines are, in fact, now made in almost every wine-producing country.",
+    "Tres espumosos famosos que conviene recordar: Champagne de Francia, Prosecco de Italia y Cava de España. El Sherry también es español, pero es un vino fortificado, no un espumoso: lleva alcohol añadido y no tiene burbujas. De hecho, hoy se elaboran espumosos en casi todos los países productores de vino."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Perché un vino rosso è rosso?",
+    "Pourquoi un vin rouge est-il rouge ?",
+    "Why is a red wine red?",
+    "¿Por qué un vino tinto es tinto?"
+   ],
+   "o": [
+    [
+     "Le bucce restano nel succo durante la fermentazione",
+     "Les peaux restent dans le jus pendant la fermentation",
+     "The skins stay in the juice during fermentation",
+     "Los hollejos se quedan en el zumo durante la fermentación"
+    ],
+    [
+     "La polpa delle uve nere è di colore rosso",
+     "La pulpe des raisins noirs est de couleur rouge",
+     "The pulp of black grapes is red in colour",
+     "La pulpa de las uvas tintas es de color rojo"
+    ],
+    [
+     "Le botti di rovere cedono colore al vino",
+     "Les fûts de chêne donnent leur couleur au vin",
+     "The oak barrels give their colour to the wine",
+     "Las barricas de roble ceden color al vino"
+    ],
+    [
+     "Si aggiunge succo d'uva nera non fermentato",
+     "On ajoute du jus de raisin noir non fermenté",
+     "Unfermented black grape juice is added",
+     "Se añade zumo de uva tinta sin fermentar"
+    ]
+   ],
+   "e": [
+    "Il colore è nelle bucce, che cedono colore durante la fermentazione.",
+    "La couleur est dans les peaux, qui la cèdent pendant la fermentation.",
+    "The colour is in the skins, which release it during fermentation.",
+    "El color está en los hollejos, que lo ceden durante la fermentación."
+   ],
+   "d": [
+    "La polpa delle uve bianche e nere ha lo stesso colore e il succo è incolore. Per fare un rosso si usano uve nere e si lasciano le bucce a contatto con il succo per tutta la fermentazione, mescolando bene: così passano nel vino colore e tannino.",
+    "La pulpe des raisins blancs et noirs a la même couleur et le jus est incolore. Pour faire un rouge, on utilise des raisins noirs et on laisse les peaux au contact du jus pendant toute la fermentation, en mélangeant bien : couleur et tanins passent ainsi dans le vin.",
+    "The pulp of white and black grapes is the same colour and the juice is colourless. To make a red wine, black grapes are used and the skins are kept in contact with the juice throughout fermentation, mixed in well, so colour and tannin pass into the wine.",
+    "La pulpa de las uvas blancas y tintas tiene el mismo color y el zumo es incoloro. Para hacer un tinto se usan uvas tintas y se dejan los hollejos en contacto con el zumo durante toda la fermentación, mezclándolos bien: así pasan al vino el color y el tanino."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Si può fare un vino bianco con uve nere?",
+    "Peut-on faire un vin blanc avec des raisins noirs ?",
+    "Can a white wine be made from black grapes?",
+    "¿Se puede hacer vino blanco con uvas tintas?"
+   ],
+   "o": [
+    [
+     "Sì, separando le bucce dal succo prima della fermentazione",
+     "Oui, en séparant les peaux du jus avant la fermentation",
+     "Yes, by separating skins and juice before fermentation",
+     "Sí, separando hollejos y zumo antes de fermentar"
+    ],
+    [
+     "Sì, ma solo se il vino viene affinato in rovere",
+     "Oui, mais seulement si le vin est élevé en chêne",
+     "Yes, but only if the wine is then aged in oak",
+     "Sí, pero solo si después se cría en roble"
+    ],
+    [
+     "No, le uve nere danno sempre un vino rosso",
+     "Non, les raisins noirs donnent toujours du rouge",
+     "No, black grapes always give a red wine",
+     "No, las uvas tintas siempre dan vino tinto"
+    ],
+    [
+     "No, le uve nere danno solo vini rosati",
+     "Non, les raisins noirs ne donnent que du rosé",
+     "No, black grapes can only make rosé wine",
+     "No, las uvas tintas solo dan vino rosado"
+    ]
+   ],
+   "e": [
+    "Il succo delle uve nere è incolore: senza bucce, il vino resta bianco.",
+    "Le jus des raisins noirs est incolore : sans les peaux, le vin reste blanc.",
+    "Black grape juice is colourless, so without the skins the wine stays white.",
+    "El zumo de la uva tinta es incoloro: sin hollejos, el vino queda blanco."
+   ],
+   "d": [
+    "Il colore delle uve nere si trova solo nella buccia. Se le uve vengono pressate delicatamente e le bucce separate dal succo prima della fermentazione, il succo resta chiaro e dà un vino bianco. È lo stesso principio che permette di usare il Pinot Noir nello Champagne.",
+    "La couleur des raisins noirs se trouve uniquement dans la peau. Si l'on presse les raisins doucement et qu'on sépare les peaux du jus avant la fermentation, le jus reste clair et donne un vin blanc. C'est ce principe qui permet d'utiliser le Pinot Noir dans le Champagne.",
+    "All the colour of a black grape is in its skin. If the grapes are pressed gently and the skins are separated from the juice before fermentation, the juice stays pale and makes a white wine. This same idea is what allows Pinot Noir to be used in Champagne.",
+    "Todo el color de la uva tinta está en su piel. Si las uvas se prensan con suavidad y los hollejos se separan del zumo antes de la fermentación, el zumo sigue claro y da un vino blanco. Es la misma idea que permite usar Pinot Noir en el Champagne."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Come si ottiene un vino rosato?",
+    "Comment obtient-on un vin rosé ?",
+    "How is a rosé wine made?",
+    "¿Cómo se elabora un vino rosado?"
+   ],
+   "o": [
+    [
+     "Uve nere, contatto con le bucce di poche ore",
+     "Raisins noirs, contact avec les peaux de quelques heures",
+     "Black grapes with only a few hours of skin contact",
+     "Uvas tintas con pocas horas de contacto con los hollejos"
+    ],
+    [
+     "Uve bianche fermentate insieme alle loro bucce",
+     "Raisins blancs fermentés avec leurs peaux",
+     "White grapes fermented together with their skins",
+     "Uvas blancas fermentadas junto con sus hollejos"
+    ],
+    [
+     "Uve nere con bucce fino a fine fermentazione",
+     "Raisins noirs avec peaux jusqu'à la fin de la fermentation",
+     "Black grapes kept on skins until fermentation ends",
+     "Uvas tintas con hollejos hasta el final de la fermentación"
+    ],
+    [
+     "Uve bianche affinate a lungo in botti di rovere",
+     "Raisins blancs élevés longtemps en fût de chêne",
+     "White grapes aged for a long time in oak barrels",
+     "Uvas blancas criadas largo tiempo en barricas de roble"
+    ]
+   ],
+   "e": [
+    "Il succo resta poche ore con le bucce di uve nere, poi viene separato.",
+    "Le jus reste quelques heures avec les peaux de raisins noirs, puis il est écoulé.",
+    "The juice sits with black grape skins for a few hours, then is drained off.",
+    "El zumo pasa unas horas con los hollejos de uva tinta y luego se separa."
+   ],
+   "d": [
+    "Il rosato nasce da uve nere, come il rosso, ma il contatto con le bucce dura solo qualche ora. Il succo, appena rosa, viene separato e termina la fermentazione senza bucce. Se invece le bucce restassero fino alla fine, si otterrebbe un vino rosso.",
+    "Le rosé naît de raisins noirs, comme le rouge, mais le contact avec les peaux ne dure que quelques heures. Le jus, à peine rose, est écoulé et termine sa fermentation sans les peaux. Si les peaux restaient jusqu'à la fin, on obtiendrait un vin rouge.",
+    "Rosé comes from black grapes, like red wine, but the skin contact lasts only a few hours. The juice, now just pink, is drained off and finishes fermenting without the skins. If the skins stayed in until the end, the result would be a red wine instead.",
+    "El rosado procede de uvas tintas, como el tinto, pero el contacto con los hollejos dura solo unas horas. El zumo, apenas rosado, se separa y termina de fermentar sin pieles. Si los hollejos se quedaran hasta el final, se obtendría un vino tinto."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi vini è un rosato?",
+    "Lequel de ces vins est un rosé ?",
+    "Which of these wines is a rosé?",
+    "¿Cuál de estos vinos es un rosado?"
+   ],
+   "o": [
+    [
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel"
+    ],
+    [
+     "Chablis",
+     "Chablis",
+     "Chablis",
+     "Chablis"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Sauternes",
+     "Sauternes",
+     "Sauternes",
+     "Sauternes"
+    ]
+   ],
+   "e": [
+    "Nonostante il nome, il White Zinfandel della California è un rosato.",
+    "Malgré son nom, le White Zinfandel de Californie est un rosé.",
+    "Despite its name, White Zinfandel from California is a rosé.",
+    "Pese a su nombre, el White Zinfandel de California es un rosado."
+   ],
+   "d": [
+    "Il nome può ingannare: il White Zinfandel è un rosato californiano, di dolcezza media, poco alcolico e con fragola e lampone. Lo Chablis e il Sauternes sono vini bianchi francesi, mentre il Beaujolais è un rosso leggero e poco tannico. Ricorda di non giudicare un vino solo dal nome.",
+    "Le nom peut tromper : le White Zinfandel est un rosé californien, demi-doux, peu alcoolisé, aux arômes de fraise et de framboise. Le Chablis et le Sauternes sont des blancs français, tandis que le Beaujolais est un rouge léger et peu tannique. Mieux vaut donc ne jamais juger un vin à son seul nom.",
+    "The name can mislead you: White Zinfandel is a Californian rosé, medium-sweet, low in alcohol, with strawberry and raspberry flavours. Chablis and Sauternes are French white wines, while Beaujolais is a light red with low tannin. So never judge a wine by its name alone.",
+    "El nombre puede despistar: el White Zinfandel es un rosado californiano, de dulzor medio, con poco alcohol y sabores de fresa y frambuesa. El Chablis y el Sauternes son blancos franceses, y el Beaujolais es un tinto ligero y con poco tanino. Así que conviene no juzgar nunca un vino solo por su nombre."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Che cosa succede quando si fa un vino secco?",
+    "Que se passe-t-il quand on fait un vin sec ?",
+    "What happens when a dry wine is made?",
+    "¿Qué ocurre cuando se elabora un vino seco?"
+   ],
+   "o": [
+    [
+     "I lieviti trasformano in alcol tutto lo zucchero",
+     "Les levures transforment tout le sucre en alcool",
+     "The yeast turn all of the sugar into alcohol",
+     "Las levaduras convierten todo el azúcar en alcohol"
+    ],
+    [
+     "Si aggiunge alcol distillato prima della fine",
+     "On ajoute de l'alcool distillé avant la fin",
+     "Distilled alcohol is added before fermentation ends",
+     "Se añade alcohol destilado antes del final"
+    ],
+    [
+     "Si aggiunge succo d'uva non fermentato",
+     "On ajoute du jus de raisin non fermenté",
+     "Unfermented grape juice is added to the wine",
+     "Se añade zumo de uva sin fermentar"
+    ],
+    [
+     "Si tolgono i lieviti prima della fine",
+     "On retire les levures avant la fin",
+     "The yeast are removed before they finish",
+     "Se retiran las levaduras antes de terminar"
+    ]
+   ],
+   "e": [
+    "Un vino è secco quando i lieviti hanno consumato tutto lo zucchero.",
+    "Un vin est sec quand les levures ont consommé tout le sucre.",
+    "A wine is dry when the yeast have eaten all the sugar.",
+    "Un vino es seco cuando las levaduras se han comido todo el azúcar."
+   ],
+   "d": [
+    "La maggior parte dei vini è secca: i lieviti continuano a lavorare finché non hanno trasformato tutto lo zucchero in alcol. Le altre risposte descrivono come si ottengono vini con zucchero residuo: togliere i lieviti o aggiungere succo per i vini medi, aggiungere alcol per i fortificati dolci.",
+    "La plupart des vins sont secs : les levures travaillent jusqu'à avoir transformé tout le sucre en alcool. Les autres réponses décrivent des façons de garder du sucre : retirer les levures ou ajouter du jus pour les demi-doux, ajouter de l'alcool pour les fortifiés doux.",
+    "Most wines are dry: the yeast keep working until they have turned all the sugar into alcohol. The other answers describe ways of keeping sugar in the wine: removing yeast or adding juice for medium wines, and adding alcohol for sweet fortified wines.",
+    "La mayoría de los vinos son secos: las levaduras trabajan hasta convertir todo el azúcar en alcohol. Las demás respuestas describen formas de conservar azúcar: retirar las levaduras o añadir zumo en los vinos de dulzor medio, y añadir alcohol en los fortificados dulces."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale metodo serve a ottenere un vino di dolcezza media?",
+    "Quelle méthode permet d'obtenir un vin demi-doux ?",
+    "Which method is used to make a medium-sweet wine?",
+    "¿Qué método sirve para obtener un vino de dulzor medio?"
+   ],
+   "o": [
+    [
+     "Aggiungere succo d'uva non fermentato a un vino secco",
+     "Ajouter du jus de raisin non fermenté à un vin sec",
+     "Adding unfermented grape juice to a dry wine",
+     "Añadir zumo de uva sin fermentar a un vino seco"
+    ],
+    [
+     "Lasciare le bucce nel succo per più tempo",
+     "Laisser les peaux plus longtemps dans le jus",
+     "Leaving the skins in the juice for longer",
+     "Dejar los hollejos más tiempo en el zumo"
+    ],
+    [
+     "Far affinare il vino in botti di rovere",
+     "Élever le vin en fût de chêne",
+     "Maturing the wine in oak barrels",
+     "Criar el vino en barricas de roble"
+    ],
+    [
+     "Raccogliere l'uva prima che maturi",
+     "Vendanger le raisin avant sa maturité",
+     "Picking the grapes before they ripen",
+     "Vendimiar la uva antes de que madure"
+    ]
+   ],
+   "e": [
+    "Il succo non fermentato aggiunge zucchero a un vino già secco.",
+    "Le jus non fermenté apporte du sucre à un vin déjà sec.",
+    "Unfermented juice brings sugar back into an already dry wine.",
+    "El zumo sin fermentar aporta azúcar a un vino ya seco."
+   ],
+   "d": [
+    "Per i vini di dolcezza media ci sono due strade: togliere i lieviti prima che abbiano consumato tutto lo zucchero, oppure aggiungere succo d'uva non fermentato a un vino secco. Bucce e rovere influiscono su colore, tannino e aromi, non sulla dolcezza.",
+    "Pour les vins demi-doux, il y a deux voies : retirer les levures avant qu'elles aient consommé tout le sucre, ou ajouter du jus de raisin non fermenté à un vin sec. Les peaux et le chêne influencent la couleur, les tanins et les arômes, pas la sucrosité.",
+    "There are two routes to a medium-sweet wine: remove the yeast before they have eaten all the sugar, or add unfermented grape juice to a dry wine. Skins and oak affect colour, tannin and aromas, not the level of sweetness.",
+    "Hay dos caminos para un vino de dulzor medio: retirar las levaduras antes de que consuman todo el azúcar, o añadir zumo de uva sin fermentar a un vino seco. Los hollejos y el roble influyen en el color, el tanino y los aromas, no en el dulzor."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "In un vino fortificato dolce, che cosa ferma la fermentazione?",
+    "Dans un vin fortifié doux, qu'est-ce qui arrête la fermentation ?",
+    "In a sweet fortified wine, what stops the fermentation?",
+    "En un vino fortificado dulce, ¿qué detiene la fermentación?"
+   ],
+   "o": [
+    [
+     "L'aggiunta di alcol distillato che uccide i lieviti",
+     "L'ajout d'alcool distillé qui tue les levures",
+     "Adding distilled alcohol, which kills the yeast",
+     "Añadir alcohol destilado, que mata las levaduras"
+    ],
+    [
+     "L'aggiunta di succo d'uva non fermentato",
+     "L'ajout de jus de raisin non fermenté",
+     "Adding unfermented grape juice to the wine",
+     "Añadir zumo de uva sin fermentar"
+    ],
+    [
+     "Il passaggio in botti di rovere",
+     "Le passage en fût de chêne",
+     "Moving the wine into oak barrels",
+     "Pasar el vino a barricas de roble"
+    ],
+    [
+     "La separazione del vino dalle bucce",
+     "La séparation du vin et des peaux",
+     "Draining the wine off the skins",
+     "Separar el vino de los hollejos"
+    ]
+   ],
+   "e": [
+    "L'alcol forte aggiunto uccide i lieviti e lascia zucchero nel vino.",
+    "L'alcool fort ajouté tue les levures et laisse du sucre dans le vin.",
+    "The strong added alcohol kills the yeast, leaving sugar in the wine.",
+    "El alcohol fuerte añadido mata las levaduras y deja azúcar en el vino."
+   ],
+   "d": [
+    "Nei fortificati dolci si aggiunge alcol distillato ad alta gradazione prima che i lieviti abbiano consumato tutto lo zucchero. I lieviti muoiono, lo zucchero rimasto rende il vino dolce e l'alcol aggiunto lo rende più forte. È il caso del Port e di alcuni Sherry.",
+    "Dans les fortifiés doux, on ajoute un alcool distillé très fort avant que les levures aient consommé tout le sucre. Les levures meurent, le sucre restant rend le vin doux et l'alcool ajouté le rend plus fort. C'est le cas du Port et de certains Sherry.",
+    "In sweet fortified wines, high-strength distilled alcohol is added before the yeast have eaten all the sugar. The yeast die, the leftover sugar makes the wine sweet and the added alcohol makes it stronger. Port and some Sherries are made this way.",
+    "En los fortificados dulces se añade alcohol destilado de alta graduación antes de que las levaduras se coman todo el azúcar. Las levaduras mueren, el azúcar que queda hace dulce el vino y el alcohol añadido lo hace más fuerte. Así se elaboran el Port y algunos Sherry."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale sensazione indica un'acidità alta?",
+    "Quelle sensation révèle une acidité élevée ?",
+    "Which sensation tells you a wine has high acidity?",
+    "¿Qué sensación indica una acidez alta?"
+   ],
+   "o": [
+    [
+     "Fa venire l'acquolina in bocca",
+     "Elle fait saliver",
+     "It makes your mouth water",
+     "Hace salivar"
+    ],
+    [
+     "Lascia la bocca asciutta",
+     "Elle assèche la bouche",
+     "It makes your mouth feel dry",
+     "Deja la boca seca"
+    ],
+    [
+     "Dà calore in gola",
+     "Elle chauffe la gorge",
+     "It warms the back of your throat",
+     "Da calor en la garganta"
+    ],
+    [
+     "Sembra densa e sciropposa",
+     "Elle paraît épaisse et sirupeuse",
+     "It feels thick and syrupy",
+     "Parece espesa y almibarada"
+    ]
+   ],
+   "e": [
+    "L'acidità si riconosce perché fa salivare.",
+    "On reconnaît l'acidité au fait qu'elle fait saliver.",
+    "Acidity is easy to spot because it makes your mouth water.",
+    "La acidez se reconoce porque hace salivar."
+   ],
+   "d": [
+    "Ogni elemento della struttura si riconosce da una sensazione diversa. L'acidità fa salivare e dà freschezza. Il tannino, invece, asciuga la bocca; l'alcol si percepisce come calore; un vino molto dolce può sembrare denso e sciropposo. Troppa acidità, però, rende il vino sgradevolmente aspro.",
+    "Chaque élément de la structure se reconnaît à une sensation différente. L'acidité fait saliver et apporte de la fraîcheur. Le tanin, lui, assèche la bouche ; l'alcool se perçoit comme une chaleur ; un vin très doux peut paraître épais et sirupeux. Trop d'acidité rend toutefois le vin désagréablement acide.",
+    "Each part of a wine's structure has its own sensation. Acidity makes your mouth water and brings freshness. Tannin, by contrast, dries the mouth; alcohol is felt as warmth; and a very sweet wine can feel thick and syrupy. Too much acidity, however, makes a wine taste unpleasantly sharp.",
+    "Cada elemento de la estructura se reconoce por una sensación distinta. La acidez hace salivar y aporta frescura. El tanino, en cambio, seca la boca; el alcohol se nota como calor; y un vino muy dulce puede resultar espeso y almibarado. Eso sí, demasiada acidez hace que el vino resulte desagradablemente ácido."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Perché l'acidità è importante nei vini dolci?",
+    "Pourquoi l'acidité est-elle importante dans les vins doux ?",
+    "Why is acidity important in sweet wines?",
+    "¿Por qué es importante la acidez en los vinos dulces?"
+   ],
+   "o": [
+    [
+     "Bilancia la dolcezza e evita che il vino stanchi",
+     "Elle équilibre la douceur et évite l'écœurement",
+     "It balances the sweetness so the wine is not cloying",
+     "Equilibra el dulzor y evita que empalague"
+    ],
+    [
+     "Aumenta il grado alcolico del vino",
+     "Elle augmente le degré d'alcool du vin",
+     "It raises the alcohol level of the wine",
+     "Aumenta la graduación del vino"
+    ],
+    [
+     "Dà al vino un colore più intenso",
+     "Elle donne au vin une couleur plus intense",
+     "It gives the wine a deeper colour",
+     "Da al vino un color más intenso"
+    ],
+    [
+     "Aggiunge tannino e quindi più corpo",
+     "Elle ajoute du tanin et donc du corps",
+     "It adds tannin and therefore more body",
+     "Añade tanino y, por tanto, más cuerpo"
+    ]
+   ],
+   "e": [
+    "Senza acidità un vino dolce risulterebbe stucchevole.",
+    "Sans acidité, un vin doux serait écœurant.",
+    "Without acidity, a sweet wine would taste cloying.",
+    "Sin acidez, un vino dulce resultaría empalagoso."
+   ],
+   "d": [
+    "L'acidità viene dal succo d'uva e rinfresca il vino. Nei vini dolci fa da contrappeso allo zucchero: per questo il Sauternes e i Riesling dolci hanno un'acidità alta. Non influisce su colore, tannino o grado alcolico. Senza di essa il vino sembrerebbe pesante.",
+    "L'acidité vient du jus de raisin et rafraîchit le vin. Dans les vins doux, elle fait contrepoids au sucre : c'est pourquoi le Sauternes et les Riesling doux ont une acidité élevée. Elle n'agit ni sur la couleur, ni sur les tanins, ni sur le degré. Sans elle, le vin paraîtrait lourd.",
+    "Acidity comes from the grape juice and refreshes the wine. In sweet wines it acts as a counterweight to the sugar, which is why Sauternes and sweet Rieslings have high acidity. It does not change the colour, the tannin or the alcohol level. Without it, the wine would feel heavy.",
+    "La acidez procede del zumo de uva y refresca el vino. En los dulces hace de contrapeso al azúcar: por eso el Sauternes y los Riesling dulces tienen acidez alta. No influye en el color, el tanino ni la graduación. Sin ella, el vino resultaría pesado."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Da dove proviene il tannino del vino?",
+    "D'où vient le tanin du vin ?",
+    "Where does tannin in wine come from?",
+    "¿De dónde procede el tanino del vino?"
+   ],
+   "o": [
+    [
+     "Dalle bucce delle uve nere",
+     "De la peau des raisins noirs",
+     "The skins of black grapes",
+     "Los hollejos de la uva tinta"
+    ],
+    [
+     "Dalla polpa delle uve bianche",
+     "De la pulpe des raisins blancs",
+     "The pulp of white grapes",
+     "La pulpa de la uva blanca"
+    ],
+    [
+     "Dallo zucchero del succo",
+     "Du sucre du jus",
+     "The sugar in the juice",
+     "El azúcar del zumo"
+    ],
+    [
+     "Dai lieviti della fermentazione",
+     "Des levures de fermentation",
+     "The yeast used in fermentation",
+     "Las levaduras de la fermentación"
+    ]
+   ],
+   "e": [
+    "Il tannino si trova nelle bucce delle uve nere ed è tipico dei rossi.",
+    "Le tanin se trouve dans la peau des raisins noirs ; il est typique des rouges.",
+    "Tannin sits in black grape skins, which is why it is a red-wine feature.",
+    "El tanino está en el hollejo de la uva tinta; por eso es propio de los tintos."
+   ],
+   "d": [
+    "Le uve nere hanno bucce colorate che contengono tannini. Durante la fermentazione dei rossi le bucce restano nel succo e cedono colore e tannino. Quanto tannino avrà il vino dipende dal vitigno e dalla vinificazione: ne ha molto il Bordeaux rosso, poco il Beaujolais.",
+    "Les raisins noirs ont une peau colorée qui contient des tanins. Pendant la fermentation des rouges, les peaux restent dans le jus et cèdent couleur et tanins. La quantité finale dépend du cépage et de la vinification : beaucoup dans le Bordeaux rouge, peu dans le Beaujolais.",
+    "Black grapes have coloured skins that contain tannins. When red wine ferments, the skins stay in the juice and release colour and tannin. How much tannin the wine ends up with depends on the grape and the winemaking: red Bordeaux has a lot, Beaujolais very little.",
+    "Las uvas tintas tienen hollejos coloreados que contienen taninos. Al fermentar un tinto, los hollejos permanecen en el zumo y le ceden color y tanino. La cantidad final depende de la variedad y de la elaboración: el Bordeaux tinto tiene mucho; el Beaujolais, poco."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi rossi ha poco tannino?",
+    "Lequel de ces rouges a peu de tanins ?",
+    "Which of these reds is low in tannin?",
+    "¿Cuál de estos tintos tiene poco tanino?"
+   ],
+   "o": [
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Bordeaux rosso",
+     "Bordeaux rouge",
+     "Red Bordeaux",
+     "Bordeaux tinto"
+    ],
+    [
+     "Chianti",
+     "Chianti",
+     "Chianti",
+     "Chianti"
+    ],
+    [
+     "Port",
+     "Port",
+     "Port",
+     "Port"
+    ]
+   ],
+   "e": [
+    "Il Beaujolais è un rosso leggero, fresco e poco tannico.",
+    "Le Beaujolais est un rouge léger, frais et peu tannique.",
+    "Beaujolais is a light, fresh red with low tannin.",
+    "El Beaujolais es un tinto ligero, fresco y con poco tanino."
+   ],
+   "d": [
+    "Il Beaujolais è un esempio classico di rosso poco tannico, insieme ad alcuni Pinot Noir. Il Bordeaux rosso e il Chianti, invece, sono citati come rossi molto tannici, e anche il Port, vino fortificato rosso e dolce, ha tannini alti. Ricorda che il tannino lascia la bocca asciutta.",
+    "Le Beaujolais est un exemple classique de rouge peu tannique, comme certains Pinot Noir. Le Bordeaux rouge et le Chianti sont au contraire cités comme des rouges très tanniques, et le Port, vin fortifié rouge et doux, a lui aussi des tanins élevés. Rappel : le tanin assèche la bouche.",
+    "Beaujolais is a classic example of a low-tannin red, along with some Pinot Noir wines. Red Bordeaux and Chianti, by contrast, are standard examples of high-tannin reds, and Port, a sweet red fortified wine, also has high tannins. Remember that tannin leaves the mouth feeling dry.",
+    "El Beaujolais es un ejemplo clásico de tinto con poco tanino, como algunos Pinot Noir. El Bordeaux tinto y el Chianti, en cambio, son ejemplos típicos de tintos muy tánicos, y el Port, vino fortificado tinto y dulce, también tiene taninos altos. Recuerda que el tanino deja la boca seca."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi vini è un esempio di vino molto alcolico?",
+    "Lequel de ces vins est un exemple de vin riche en alcool ?",
+    "Which of these is an example of a high-alcohol wine?",
+    "¿Cuál de estos vinos es un ejemplo de vino con mucho alcohol?"
+   ],
+   "o": [
+    [
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape"
+    ],
+    [
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ]
+   ],
+   "e": [
+    "Lo Châteauneuf-du-Pape è un rosso francese pieno e ricco di alcol.",
+    "Le Châteauneuf-du-Pape est un rouge français corsé et riche en alcool.",
+    "Châteauneuf-du-Pape is a full-bodied French red with high alcohol.",
+    "El Châteauneuf-du-Pape es un tinto francés con cuerpo y mucho alcohol."
+   ],
+   "d": [
+    "Lo Châteauneuf-du-Pape, rosso del Rodano, è il classico esempio di vino ad alta gradazione: secco, di corpo pieno, con fragola e chiodi di garofano. All'opposto il White Zinfandel è citato come vino poco alcolico; Beaujolais e Pinot Grigio sono vini leggeri.",
+    "Le Châteauneuf-du-Pape, rouge de la vallée du Rhône, est l'exemple type du vin riche en alcool : sec, corsé, avec fraise et clou de girofle. À l'opposé, le White Zinfandel est cité comme vin peu alcoolisé ; Beaujolais et Pinot Grigio sont des vins légers.",
+    "Châteauneuf-du-Pape, a red from the Rhône, is the textbook example of a high-alcohol wine: dry and full-bodied, with strawberry and clove. At the other end, White Zinfandel is the standard low-alcohol example, while Beaujolais and Pinot Grigio are light-bodied wines.",
+    "El Châteauneuf-du-Pape, tinto del Ródano, es el ejemplo típico de vino con mucho alcohol: seco, con cuerpo, con fresa y clavo. En el extremo opuesto, el White Zinfandel es el ejemplo de vino con poco alcohol, y el Beaujolais y el Pinot Grigio son vinos ligeros."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Che cosa significa «12% vol.» in etichetta?",
+    "Que signifie « 12 % vol. » sur l'étiquette ?",
+    "What does «12% abv» on a label mean?",
+    "¿Qué significa «12 % vol.» en la etiqueta?"
+   ],
+   "o": [
+    [
+     "Il 12% del liquido è alcol",
+     "12 % du liquide est de l'alcool",
+     "12% of the liquid is alcohol",
+     "El 12 % del líquido es alcohol"
+    ],
+    [
+     "Il vino contiene il 12% di zucchero",
+     "Le vin contient 12 % de sucre",
+     "The wine contains 12% sugar",
+     "El vino contiene un 12 % de azúcar"
+    ],
+    [
+     "Il 12% delle uve era nero",
+     "12 % des raisins étaient noirs",
+     "12% of the grapes were black",
+     "El 12 % de la uva era tinta"
+    ],
+    [
+     "Il vino ha passato 12 mesi in botte",
+     "Le vin a passé 12 mois en fût",
+     "The wine spent 12 months in oak",
+     "El vino pasó 12 meses en barrica"
+    ]
+   ],
+   "e": [
+    "La percentuale in volume indica quanta parte del vino è alcol.",
+    "Le pourcentage en volume indique la part d'alcool dans le vin.",
+    "Alcohol by volume shows what share of the wine is alcohol.",
+    "El porcentaje en volumen indica qué parte del vino es alcohol."
+   ],
+   "d": [
+    "Il grado alcolico si misura come percentuale in volume (abv in inglese). Un vino a 12% vol. contiene dodici parti di alcol su cento. È un valore tipico di un vino fermo: la maggior parte si colloca tra l'11,5% e il 14%.",
+    "Le degré d'alcool se mesure en pourcentage du volume (abv en anglais). Un vin à 12 % vol. contient douze parts d'alcool sur cent. C'est une valeur typique d'un vin tranquille : la plupart se situent entre 11,5 % et 14 %.",
+    "Alcohol is measured as a percentage of the total volume, called alcohol by volume or abv. A wine at 12% abv has twelve parts alcohol in every hundred. That is a typical figure for a still wine, as most sit between 11.5% and 14%.",
+    "El alcohol se mide como porcentaje del volumen total (abv en inglés). Un vino de 12 % vol. contiene doce partes de alcohol de cada cien. Es una cifra típica de un vino tranquilo: la mayoría se sitúa entre el 11,5 % y el 14 %."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Che cosa descrive il corpo di un vino?",
+    "Que décrit le corps d'un vin ?",
+    "What does the body of a wine describe?",
+    "¿Qué describe el cuerpo de un vino?"
+   ],
+   "o": [
+    [
+     "Quanto il vino riempie la bocca",
+     "À quel point le vin remplit la bouche",
+     "How mouth-filling the wine feels",
+     "Cuánto llena la boca el vino"
+    ],
+    [
+     "Quanta acidità contiene il vino",
+     "Combien d'acidité contient le vin",
+     "How much acidity the wine contains",
+     "Cuánta acidez contiene el vino"
+    ],
+    [
+     "Quanto è intenso il colore del vino",
+     "L'intensité de la couleur du vin",
+     "How deep the colour of the wine is",
+     "Lo intenso que es el color del vino"
+    ],
+    [
+     "Quanto tempo è rimasto in botte",
+     "Combien de temps il est resté en fût",
+     "How long the wine stayed in oak",
+     "Cuánto tiempo pasó en barrica"
+    ]
+   ],
+   "e": [
+    "Il corpo è la sensazione generale in bocca: leggero, medio o pieno.",
+    "Le corps est la sensation globale en bouche : léger, moyen ou corsé.",
+    "Body is the overall feel in the mouth: light, medium or full.",
+    "El cuerpo es la sensación general en boca: ligero, medio o con cuerpo."
+   ],
+   "d": [
+    "Il corpo dipende da molti fattori, quindi la domanda pratica è: quanto riempie la bocca questo vino? I vini pieni, come Sauternes o un Cabernet Sauvignon californiano, sembrano densi e avvolgenti; quelli leggeri, come Pinot Grigio e Beaujolais, più delicati.",
+    "Le corps dépend de nombreux facteurs, d'où la question pratique : à quel point ce vin remplit-il la bouche ? Les vins corsés, comme le Sauternes ou un Cabernet Sauvignon de Californie, paraissent denses ; les vins légers, comme le Pinot Grigio et le Beaujolais, plus délicats.",
+    "Many factors shape body, so the practical question is: how much does this wine fill my mouth? Full-bodied wines such as Sauternes or a Californian Cabernet Sauvignon feel dense and rich, while light ones such as Pinot Grigio and Beaujolais feel more delicate.",
+    "El cuerpo depende de muchos factores, así que la pregunta práctica es: ¿cuánto me llena la boca este vino? Los vinos con cuerpo, como el Sauternes o un Cabernet Sauvignon californiano, resultan densos; los ligeros, como el Pinot Grigio o el Beaujolais, más delicados."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi vini ha corpo pieno?",
+    "Lequel de ces vins est corsé ?",
+    "Which of these wines is full-bodied?",
+    "¿Cuál de estos vinos tiene mucho cuerpo?"
+   ],
+   "o": [
+    [
+     "Sauternes",
+     "Sauternes",
+     "Sauternes",
+     "Sauternes"
+    ],
+    [
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio",
+     "Pinot Grigio"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ]
+   ],
+   "e": [
+    "Il Sauternes, bianco dolce di Bordeaux, ha corpo pieno.",
+    "Le Sauternes, blanc doux de Bordeaux, est corsé.",
+    "Sauternes, the sweet white from Bordeaux, is full-bodied.",
+    "El Sauternes, blanco dulce de Burdeos, tiene mucho cuerpo."
+   ],
+   "d": [
+    "Il Sauternes è dolce e di corpo pieno, con albicocca, miele e vaniglia. Il Pinot Grigio e il Beaujolais sono esempi di vini di corpo leggero, mentre il Sancerre è un bianco secco di corpo medio. Anche un Cabernet Sauvignon californiano sarebbe un buon esempio di vino pieno.",
+    "Le Sauternes est doux et corsé, avec abricot, miel et vanille. Le Pinot Grigio et le Beaujolais sont des exemples de vins légers, tandis que le Sancerre est un blanc sec de corps moyen. Un Cabernet Sauvignon de Californie serait lui aussi un bon exemple de vin corsé.",
+    "Sauternes is sweet and full-bodied, with apricot, honey and vanilla. Pinot Grigio and Beaujolais are examples of light-bodied wines, and Sancerre is a dry white with medium body. A Californian Cabernet Sauvignon would also be a good example of a full-bodied wine.",
+    "El Sauternes es dulce y con mucho cuerpo, con albaricoque, miel y vainilla. El Pinot Grigio y el Beaujolais son ejemplos de vinos ligeros, y el Sancerre es un blanco seco de cuerpo medio. Un Cabernet Sauvignon de California también sería un buen ejemplo de vino con cuerpo."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale gruppo di aromi deriva tipicamente dal rovere?",
+    "Quel groupe d'arômes vient en général du chêne ?",
+    "Which group of aromas typically comes from oak?",
+    "¿Qué grupo de aromas procede normalmente del roble?"
+   ],
+   "o": [
+    [
+     "Vaniglia, cedro, affumicato",
+     "Vanille, cèdre, fumé",
+     "Vanilla, cedar, smoke",
+     "Vainilla, cedro, ahumado"
+    ],
+    [
+     "Mela, limone, pera",
+     "Pomme, citron, poire",
+     "Apple, lemon, pear",
+     "Manzana, limón, pera"
+    ],
+    [
+     "Erba, asparago, peperone",
+     "Herbe, asperge, poivron",
+     "Grass, asparagus, bell pepper",
+     "Hierba, espárrago, pimiento"
+    ],
+    [
+     "Fragola, lampone, ciliegia",
+     "Fraise, framboise, cerise",
+     "Strawberry, raspberry, cherry",
+     "Fresa, frambuesa, cereza"
+    ]
+   ],
+   "e": [
+    "Il rovere dà vaniglia, cedro, affumicato, cocco e chiodi di garofano.",
+    "Le chêne apporte vanille, cèdre, fumé, noix de coco et clou de girofle.",
+    "Oak gives vanilla, cedar, smoke, coconut and cloves.",
+    "El roble aporta vainilla, cedro, ahumado, coco y clavo."
+   ],
+   "d": [
+    "Quando un vino fermenta o si affina in botti di rovere, il legno aggiunge note di vaniglia, cedro, affumicato, cocco e chiodi di garofano. Mela, limone e pera sono aromi di frutta; erba, asparago e peperone sono note erbacee tipiche, per esempio, del Sauvignon Blanc.",
+    "Quand un vin fermente ou s'élève en fût de chêne, le bois apporte des notes de vanille, de cèdre, de fumé, de noix de coco et de clou de girofle. Pomme, citron et poire sont des arômes de fruit ; herbe, asperge et poivron sont des notes herbacées typiques du Sauvignon Blanc.",
+    "When a wine is fermented or matured in oak barrels, the wood adds notes of vanilla, cedar, smoke, coconut and cloves. Apple, lemon and pear are fruit aromas, while grass, asparagus and bell pepper are herbaceous notes typical of Sauvignon Blanc, for example.",
+    "Cuando un vino fermenta o se cría en barricas de roble, la madera aporta notas de vainilla, cedro, ahumado, coco y clavo. Manzana, limón y pera son aromas de fruta; hierba, espárrago y pimiento son notas herbáceas típicas, por ejemplo, del Sauvignon Blanc."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quali aromi ha di solito uno Chardonnay di clima fresco?",
+    "Quels arômes a en général un Chardonnay de climat frais ?",
+    "Which aromas does a cool-climate Chardonnay usually show?",
+    "¿Qué aromas suele tener un Chardonnay de clima fresco?"
+   ],
+   "o": [
+    [
+     "Mela verde e limone",
+     "Pomme verte et citron",
+     "Green apple and lemon",
+     "Manzana verde y limón"
+    ],
+    [
+     "Pesca e ananas",
+     "Pêche et ananas",
+     "Peach and pineapple",
+     "Melocotón y piña"
+    ],
+    [
+     "Ribes nero e menta",
+     "Cassis et menthe",
+     "Blackcurrant and mint",
+     "Grosella negra y menta"
+    ],
+    [
+     "Fragola e ciliegia",
+     "Fraise et cerise",
+     "Strawberry and cherry",
+     "Fresa y cereza"
+    ]
+   ],
+   "e": [
+    "Nel clima fresco le uve maturano meno: frutta verde e agrumi.",
+    "En climat frais, le raisin mûrit moins : fruits verts et agrumes.",
+    "In a cool climate grapes ripen less, giving green fruit and citrus.",
+    "En clima fresco la uva madura menos: fruta verde y cítricos."
+   ],
+   "d": [
+    "La maturità delle uve cambia il tipo di frutta che si sente. Uno Chardonnay di clima fresco profuma di mela verde e limone; uno di clima caldo di pesca e frutta tropicale come l'ananas. Ribes nero e menta sono tipici del Cabernet Sauvignon, fragola e ciliegia del Pinot Noir.",
+    "La maturité du raisin change le type de fruit perçu. Un Chardonnay de climat frais sent la pomme verte et le citron ; un Chardonnay de climat chaud, la pêche et des fruits tropicaux comme l'ananas. Cassis et menthe sont typiques du Cabernet Sauvignon, fraise et cerise du Pinot Noir.",
+    "How ripe the grapes are changes the fruit you notice. A cool-climate Chardonnay smells of green apple and lemon; a warm-climate one of peach and tropical fruit such as pineapple. Blackcurrant and mint are typical of Cabernet Sauvignon, and strawberry and cherry of Pinot Noir.",
+    "La madurez de la uva cambia la fruta que se percibe. Un Chardonnay de clima fresco huele a manzana verde y limón; uno de clima cálido, a melocotón y frutas tropicales como la piña. Grosella negra y menta son típicas del Cabernet Sauvignon, y fresa y cereza del Pinot Noir."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Quale di questi è un aroma della famiglia «altro»?",
+    "Lequel de ces arômes appartient à la famille « autres » ?",
+    "Which of these aromas belongs to the «other» family?",
+    "¿Cuál de estos aromas pertenece a la familia «otros»?"
+   ],
+   "o": [
+    [
+     "Funghi",
+     "Champignon",
+     "Mushroom",
+     "Champiñón"
+    ],
+    [
+     "Ananas",
+     "Ananas",
+     "Pineapple",
+     "Piña"
+    ],
+    [
+     "Vaniglia",
+     "Vanille",
+     "Vanilla",
+     "Vainilla"
+    ],
+    [
+     "Ribes nero",
+     "Cassis",
+     "Blackcurrant",
+     "Grosella negra"
+    ]
+   ],
+   "e": [
+    "Funghi, terra, cuoio, erba e fiori rientrano negli «altri» aromi.",
+    "Champignon, terre, cuir, herbe et fleurs font partie des « autres » arômes.",
+    "Mushroom, earth, leather, grass and flowers are «other» aromas.",
+    "Champiñón, tierra, cuero, hierba y flores son «otros» aromas."
+   ],
+   "d": [
+    "Gli aromi si dividono in tre famiglie: frutta, rovere e altro. Ananas e ribes nero sono frutta, la vaniglia viene dal rovere. Nella famiglia «altro» rientrano invece erba, fiori, erbe aromatiche, ortaggi, terra, funghi e cuoio. Sono proprio questi aromi a rendere il vino così vario e interessante.",
+    "Les arômes se répartissent en trois familles : fruit, chêne et autres. L'ananas et le cassis sont des fruits, la vanille vient du chêne. La famille « autres » regroupe l'herbe, les fleurs, les herbes aromatiques, les légumes, la terre, le champignon et le cuir. Ce sont justement ces arômes qui rendent le vin si varié et passionnant.",
+    "Aromas fall into three families: fruit, oak and other. Pineapple and blackcurrant are fruit, and vanilla comes from oak. The «other» family covers grass, flowers, herbs, vegetables, earth, mushroom and leather. These are the aromas that make wine so varied and interesting to explore.",
+    "Los aromas se reparten en tres familias: fruta, roble y otros. La piña y la grosella negra son fruta, y la vainilla procede del roble. La familia «otros» agrupa hierba, flores, hierbas aromáticas, verduras, tierra, champiñón y cuero. Son precisamente estos aromas los que hacen el vino tan variado e interesante."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Che cos'è lo stile di un vino?",
+    "Qu'est-ce que le style d'un vin ?",
+    "What is the style of a wine?",
+    "¿Qué es el estilo de un vino?"
+   ],
+   "o": [
+    [
+     "L'insieme di colore, struttura e aromi",
+     "L'ensemble couleur, structure et arômes",
+     "Its colour, structure and aromas combined",
+     "El conjunto de color, estructura y aromas"
+    ],
+    [
+     "Solo il vitigno con cui è fatto",
+     "Uniquement le cépage utilisé",
+     "Only the grape variety it is made from",
+     "Solo la variedad con la que se elabora"
+    ],
+    [
+     "Solo la zona in cui è prodotto",
+     "Uniquement la région de production",
+     "Only the region where it is produced",
+     "Solo la zona donde se produce"
+    ],
+    [
+     "Solo il suo grado alcolico",
+     "Uniquement son degré d'alcool",
+     "Only its level of alcohol",
+     "Solo su graduación alcohólica"
+    ]
+   ],
+   "e": [
+    "Lo stile combina colore, struttura e aromi e sapori.",
+    "Le style combine couleur, structure, arômes et saveurs.",
+    "Style combines colour, structure, and aromas and flavours.",
+    "El estilo combina color, estructura y aromas y sabores."
+   ],
+   "d": [
+    "Vitigno, zona e alcol influenzano lo stile, ma da soli non lo descrivono. Lo stile è la somma di colore, struttura (dolcezza, acidità, tannino, alcol, corpo) e aromi e sapori. Per questo due bianchi francesi come Chablis e Sauternes possono avere stili opposti.",
+    "Le cépage, la région et l'alcool influencent le style, mais ne le décrivent pas à eux seuls. Le style est la somme de la couleur, de la structure (sucrosité, acidité, tanins, alcool, corps) et des arômes et saveurs. Deux blancs français comme le Chablis et le Sauternes peuvent donc s'opposer.",
+    "Grape, region and alcohol all influence style, but none of them describes it alone. Style is the sum of colour, structure (sweetness, acidity, tannin, alcohol, body) and aromas and flavours. That is how two French whites such as Chablis and Sauternes can be complete opposites.",
+    "La uva, la zona y el alcohol influyen en el estilo, pero ninguno lo describe por sí solo. El estilo es la suma del color, la estructura (dulzor, acidez, tanino, alcohol, cuerpo) y los aromas y sabores. Por eso dos blancos franceses como el Chablis y el Sauternes pueden ser opuestos."
+   ],
+   "c": "w1"
+  },
+  {
+   "q": [
+    "Che effetto ha un clima fresco sulle uve?",
+    "Quel effet a un climat frais sur le raisin ?",
+    "What effect does a cool climate have on the grapes?",
+    "¿Qué efecto tiene un clima fresco en la uva?"
+   ],
+   "o": [
+    [
+     "Meno zucchero e più acidità",
+     "Moins de sucre et plus d'acidité",
+     "Less sugar and more acidity",
+     "Menos azúcar y más acidez"
+    ],
+    [
+     "Più zucchero e meno acidità",
+     "Plus de sucre et moins d'acidité",
+     "More sugar and less acidity",
+     "Más azúcar y menos acidez"
+    ],
+    [
+     "Più tannino e più colore",
+     "Plus de tanin et plus de couleur",
+     "More tannin and more colour",
+     "Más tanino y más color"
+    ],
+    [
+     "Sapori più maturi e tropicali",
+     "Des saveurs plus mûres et tropicales",
+     "Riper, more tropical flavours",
+     "Sabores más maduros y tropicales"
+    ]
+   ],
+   "e": [
+    "Più fa fresco, meno zucchero e più acidità hanno le uve.",
+    "Plus il fait frais, moins le raisin a de sucre et plus il a d'acidité.",
+    "The cooler it is, the less sugar and the more acid the grapes have.",
+    "Cuanto más fresco, menos azúcar y más acidez tiene la uva."
+   ],
+   "d": [
+    "In generale, più il clima è fresco, più le uve restano acide e meno zuccherine; più è caldo, più zucchero e meno acidità, con sapori più maturi. Per questo i vini di clima fresco tendono a essere più freschi e leggeri, con frutta verde e agrumi.",
+    "En général, plus le climat est frais, plus le raisin reste acide et peu sucré ; plus il est chaud, plus il a de sucre et moins d'acidité, avec des saveurs plus mûres. C'est pourquoi les vins de climat frais sont souvent plus frais et légers, aux fruits verts et agrumes.",
+    "As a rule, the cooler the climate, the more acidic and the less sugary the grapes stay; the warmer it is, the more sugar and the less acidity, with riper flavours. That is why cool-climate wines tend to be fresher and lighter, with green fruit and citrus.",
+    "En general, cuanto más fresco es el clima, más ácida y menos dulce se queda la uva; cuanto más cálido, más azúcar, menos acidez y sabores más maduros. Por eso los vinos de clima fresco suelen ser más frescos y ligeros, con fruta verde y cítricos."
+   ],
+   "c": "w1"
+  }
+ ],
+ "flash": [
+  {
+   "f": [
+    "Vino fermo",
+    "Vin tranquille",
+    "Still wine",
+    "Vino tranquilo"
+   ],
+   "b": [
+    "Vino senza bollicine; 8–15% vol., di solito 11,5–14%.",
+    "Vin sans bulles ; 8–15 % vol., le plus souvent 11,5–14 %.",
+    "Wine without bubbles; 8–15% abv, mostly 11.5–14%.",
+    "Vino sin burbujas; 8–15 % vol., casi siempre 11,5–14 %."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Vino spumante",
+    "Vin effervescent",
+    "Sparkling wine",
+    "Vino espumoso"
+   ],
+   "b": [
+    "Bollicine di anidride carbonica della fermentazione. Es.: Champagne, Cava, Prosecco.",
+    "Bulles de dioxyde de carbone issu de la fermentation. Ex. : Champagne, Cava, Prosecco.",
+    "Bubbles of carbon dioxide from fermentation. E.g. Champagne, Cava, Prosecco.",
+    "Burbujas de dióxido de carbono de la fermentación. Ej.: Champagne, Cava, Prosecco."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Vino fortificato",
+    "Vin fortifié",
+    "Fortified wine",
+    "Vino fortificado"
+   ],
+   "b": [
+    "Vino con alcol aggiunto, 15–22% vol. Es.: Sherry, Port.",
+    "Vin additionné d'alcool, 15–22 % vol. Ex. : Sherry, Port.",
+    "Wine with added alcohol, 15–22% abv. E.g. Sherry, Port.",
+    "Vino con alcohol añadido, 15–22 % vol. Ej.: Sherry, Port."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "% vol. (abv)",
+    "% vol. (abv)",
+    "abv",
+    "% vol. (abv)"
+   ],
+   "b": [
+    "Percentuale di alcol nel volume: 10% = un decimo del vino è alcol.",
+    "Part d'alcool dans le volume : 10 % = un dixième du vin est de l'alcool.",
+    "Alcohol by volume: 10% means one tenth of the liquid is alcohol.",
+    "Porcentaje de alcohol en volumen: 10 % = una décima parte es alcohol."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Vino secco",
+    "Vin sec",
+    "Dry wine",
+    "Vino seco"
+   ],
+   "b": [
+    "Zucchero assente o minimo: i lieviti l'hanno trasformato tutto in alcol.",
+    "Pas ou très peu de sucre : les levures l'ont tout transformé en alcool.",
+    "No or very little sugar: the yeast turned it all into alcohol.",
+    "Nada o muy poco azúcar: las levaduras lo convirtieron todo en alcohol."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Acidità",
+    "Acidité",
+    "Acidity",
+    "Acidez"
+   ],
+   "b": [
+    "Viene dal succo d'uva, fa salivare, rinfresca e bilancia la dolcezza.",
+    "Vient du jus de raisin, fait saliver, rafraîchit et équilibre la douceur.",
+    "Comes from the juice, makes the mouth water, refreshes and balances sweetness.",
+    "Viene del zumo, hace salivar, refresca y equilibra el dulzor."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Tannino",
+    "Tanin",
+    "Tannin",
+    "Tanino"
+   ],
+   "b": [
+    "Dalle bucce delle uve nere; asciuga la bocca. Alto: Bordeaux rosso, Chianti.",
+    "Vient de la peau des raisins noirs ; assèche la bouche. Élevé : Bordeaux rouge, Chianti.",
+    "From black grape skins; dries the mouth. High: red Bordeaux, Chianti.",
+    "De los hollejos de uva tinta; seca la boca. Alto: Bordeaux tinto, Chianti."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Corpo",
+    "Corps",
+    "Body",
+    "Cuerpo"
+   ],
+   "b": [
+    "Quanto il vino riempie la bocca: leggero (Pinot Grigio), medio (Sancerre), pieno (Sauternes).",
+    "À quel point le vin remplit la bouche : léger (Pinot Grigio), moyen (Sancerre), corsé (Sauternes).",
+    "How mouth-filling a wine is: light (Pinot Grigio), medium (Sancerre), full (Sauternes).",
+    "Cuánto llena la boca: ligero (Pinot Grigio), medio (Sancerre), con cuerpo (Sauternes)."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Aromi del rovere",
+    "Arômes du chêne",
+    "Oak aromas",
+    "Aromas del roble"
+   ],
+   "b": [
+    "Vaniglia, cocco, chiodi di garofano, cedro, affumicato.",
+    "Vanille, noix de coco, clou de girofle, cèdre, fumé.",
+    "Vanilla, coconut, cloves, cedar, smoke.",
+    "Vainilla, coco, clavo, cedro, ahumado."
+   ],
+   "c": "w1"
+  },
+  {
+   "f": [
+    "Vino rosato",
+    "Vin rosé",
+    "Rosé wine",
+    "Vino rosado"
+   ],
+   "b": [
+    "Uve nere, poche ore di contatto con le bucce, poi fermentazione senza bucce.",
+    "Raisins noirs, quelques heures avec les peaux, puis fermentation sans elles.",
+    "Black grapes, a few hours on the skins, then fermented without them.",
+    "Uvas tintas, unas horas con los hollejos y luego fermentación sin ellos."
+   ],
+   "c": "w1"
+  }
+ ]
+}

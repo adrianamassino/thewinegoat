@@ -1,0 +1,1306 @@
+{
+ "lessons": [
+  {
+   "c": "p1",
+   "t": [
+    "Com'è fatto un acino d'uva",
+    "Ce qu'il y a dans un grain de raisin",
+    "Inside a grape",
+    "Cómo es una uva por dentro"
+   ],
+   "p": [
+    [
+     "Il vino nasce da un'idea semplice: si schiaccia l'uva, se ne libera il succo dolce e lo si lascia fermentare. Per questo il vino si può definire succo d'uva fermentato. Per capire che cosa finirà nel bicchiere conviene quindi partire dall'acino, che ha due parti principali: la buccia all'esterno e la polpa all'interno. Ognuna porta qualcosa di diverso al vino.",
+     "Le vin repose sur une idée simple : on écrase le raisin pour libérer son jus sucré, puis on le laisse fermenter. On peut donc définir le vin comme du jus de raisin fermenté. Pour comprendre ce que l'on trouvera dans le verre, il faut partir du grain de raisin, qui se compose de deux parties principales : la peau à l'extérieur et la pulpe à l'intérieur. Chacune apporte quelque chose de différent au vin.",
+     "Wine starts from a simple idea: crush grapes to free their sweet juice, then let that juice ferment. That is why wine can be described as fermented grape juice. To understand what ends up in the glass, it helps to start with the grape itself, which has two main parts: the skin on the outside and the pulp on the inside. Each one gives something different to the wine.",
+     "El vino parte de una idea sencilla: se estrujan las uvas para liberar su zumo dulce y después se deja fermentar. Por eso el vino se puede definir como zumo de uva fermentado. Para entender lo que acabará en la copa, conviene empezar por la uva, que tiene dos partes principales: la piel por fuera y la pulpa por dentro. Cada una aporta algo distinto al vino."
+    ],
+    [
+     "Esistono due grandi famiglie di uve: bianche e nere. Tagliate a metà si somigliano molto, perché la differenza sta quasi tutta nella buccia. Le uve nere hanno una buccia dal colore intenso che contiene anche i tannini, sostanze che lasciano in bocca una sensazione di secchezza. Le uve bianche, a maturità, hanno invece una buccia di colore dorato.",
+     "Il existe deux grandes familles de raisins : blancs et noirs. Coupés en deux, ils se ressemblent beaucoup, car la différence se trouve surtout dans la peau. Les raisins noirs ont une peau très colorée qui contient aussi des tanins, des substances qui donnent une sensation de sécheresse en bouche. Les raisins blancs, une fois mûrs, ont une peau de couleur dorée.",
+     "There are two broad families of grapes: white and black. Cut in half, they look very much alike, because the real difference lies mainly in the skin. Black grapes have deeply coloured skins that also hold tannins, substances that leave your mouth feeling dry. White grapes, once ripe, have skins with a golden colour.",
+     "Hay dos grandes familias de uvas: blancas y tintas. Cortadas por la mitad se parecen mucho, porque la diferencia está sobre todo en la piel. Las uvas tintas tienen una piel de color intenso que además contiene taninos, unas sustancias que dejan la boca con sensación de sequedad. Las uvas blancas, cuando están maduras, tienen la piel de color dorado."
+    ],
+    [
+     "La polpa è la parte morbida e carnosa dell'acino e contiene il succo. Questo succo è formato soprattutto da acqua, zucchero e acido. Un dettaglio importante: il colore della polpa è lo stesso sia nelle uve bianche sia in quelle nere. Il colore di un vino rosso, quindi, non viene dal succo ma dalle bucce: è una chiave per capire più avanti come si fanno i diversi vini.",
+     "La pulpe est la partie tendre et charnue du grain ; c'est elle qui contient le jus. Ce jus est composé surtout d'eau, de sucre et d'acide. Détail important : la couleur de la pulpe est la même pour les raisins blancs et les raisins noirs. La couleur d'un vin rouge ne vient donc pas du jus mais des peaux, une clé pour comprendre plus tard comment on élabore les différents vins.",
+     "The pulp is the soft, fleshy part of the grape and it holds the juice. That juice is made up mostly of water, sugar and acid. One important detail: the pulp has the same colour whether the grape is white or black. So the colour of a red wine does not come from the juice but from the skins, a key idea for understanding later how the different wines are made.",
+     "La pulpa es la parte blanda y carnosa de la uva y es la que contiene el zumo. Ese zumo está formado sobre todo por agua, azúcar y ácido. Un detalle importante: la pulpa tiene el mismo color tanto en las uvas blancas como en las tintas. Por eso el color de un vino tinto no viene del zumo sino de las pieles, una idea clave para entender después cómo se elaboran los distintos vinos."
+    ]
+   ],
+   "keys": [
+    [
+     "Il vino è succo d'uva fermentato.",
+     "Le vin est du jus de raisin fermenté.",
+     "Wine is fermented grape juice.",
+     "El vino es zumo de uva fermentado."
+    ],
+    [
+     "Buccia delle uve nere: colore intenso e tannini.",
+     "Peau des raisins noirs : couleur intense et tanins.",
+     "Black grape skins: deep colour and tannins.",
+     "Piel de las uvas tintas: color intenso y taninos."
+    ],
+    [
+     "I tannini lasciano la bocca secca.",
+     "Les tanins assèchent la bouche.",
+     "Tannins make the mouth feel dry.",
+     "Los taninos dejan la boca seca."
+    ],
+    [
+     "Polpa: succo fatto di acqua, zucchero e acido.",
+     "Pulpe : jus fait d'eau, de sucre et d'acide.",
+     "Pulp: juice made of water, sugar and acid.",
+     "Pulpa: zumo de agua, azúcar y ácido."
+    ],
+    [
+     "La polpa ha lo stesso colore nelle uve bianche e nere.",
+     "La pulpe a la même couleur dans les raisins blancs et noirs.",
+     "Pulp is the same colour in white and black grapes.",
+     "La pulpa tiene el mismo color en uvas blancas y tintas."
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "L'anno della vite",
+    "L'année de la vigne",
+    "The vine's year",
+    "El año de la vid"
+   ],
+   "p": [
+    [
+     "L'uva è il frutto della vite, una pianta che può vivere per diversi decenni. Dopo l'impianto servono un paio d'anni perché la vite diventi adulta; da quel momento produce un raccolto ogni anno. Il suo ciclo segue le stagioni: fiorisce in primavera, i frutti maturano durante l'estate e la vendemmia arriva verso la fine dell'estate.",
+     "Le raisin est le fruit de la vigne, une plante qui peut vivre plusieurs dizaines d'années. Après la plantation, il faut environ deux ans pour que la vigne arrive à maturité ; elle donne ensuite une récolte chaque année. Son cycle suit les saisons : floraison au printemps, maturation des fruits pendant l'été et vendanges vers la fin de l'été.",
+     "Grapes are the fruit of the grape vine, a plant that can live for several decades. After planting, a vine needs a couple of years to become mature; from then on it gives a crop every year. Its cycle follows the seasons: it flowers in spring, the fruit ripens through the summer and the grapes are picked towards the end of summer.",
+     "La uva es el fruto de la vid, una planta que puede vivir varias décadas. Tras plantarla, la vid necesita un par de años para llegar a la madurez; a partir de entonces da una cosecha cada año. Su ciclo sigue las estaciones: florece en primavera, el fruto madura durante el verano y la vendimia llega hacia el final del verano."
+    ],
+    [
+     "In primavera la vite produce grappoli di piccoli fiori. Ogni singolo fiore è destinato a trasformarsi in un acino. Subito dopo la fioritura gli acini appena formati sono piccoli, duri e verdi, sia che si tratti di uve bianche sia di uve nere: in questa fase non si distinguono ancora e non sono pronti per fare vino.",
+     "Au printemps, la vigne produit des grappes de petites fleurs. Chaque fleur est appelée à devenir un grain de raisin. Juste après la floraison, les jeunes grains sont petits, durs et verts, qu'il s'agisse de raisins blancs ou noirs : à ce stade, on ne peut pas encore les distinguer et ils ne sont pas prêts pour faire du vin.",
+     "In spring the vine produces clusters of tiny flowers. Each single flower is set to become one grape. Right after flowering, the young grapes are small, hard and green, whether they will end up white or black: at this stage you cannot yet tell them apart, and they are far from ready to make wine.",
+     "En primavera la vid produce racimos de flores diminutas. Cada flor está destinada a convertirse en una uva. Justo después de la floración, las uvas recién formadas son pequeñas, duras y verdes, tanto si serán blancas como tintas: en esta fase todavía no se distinguen y están lejos de servir para hacer vino."
+    ],
+    [
+     "Perché la vite cresca bene e dia uva di qualità servono la giusta quantità di sole e di calore: se fa troppo freddo o troppo caldo non ci riesce. La vite preferisce inoltre zone con un inverno abbastanza freddo da permetterle di riposare. Per questo la maggior parte dei vigneti si trova in due fasce del pianeta, all'incirca tra i 30° e i 50° di latitudine, a nord e a sud dell'Equatore.",
+     "Pour bien pousser et donner des raisins de qualité, la vigne a besoin de la bonne dose de soleil et de chaleur : s'il fait trop froid ou trop chaud, elle n'y parvient pas. Elle préfère aussi les zones où l'hiver est assez froid pour lui permettre de se reposer. C'est pourquoi la plupart des vignobles se situent dans deux bandes du globe, à peu près entre 30° et 50° de latitude, au nord et au sud de l'équateur.",
+     "To grow well and give good quality fruit, a vine needs the right amount of sunlight and heat: if it is too cold or too hot, it cannot manage. Vines also do best where the winter is cold enough to let them rest. That is why most vineyards lie in two bands around the globe, roughly between 30° and 50° of latitude, north and south of the Equator.",
+     "Para crecer bien y dar uva de calidad, la vid necesita la cantidad justa de sol y de calor: si hace demasiado frío o demasiado calor, no lo consigue. Además, prefiere zonas donde el invierno sea lo bastante frío para que pueda descansar. Por eso la mayoría de los viñedos están en dos franjas del planeta, más o menos entre los 30° y los 50° de latitud, al norte y al sur del ecuador."
+    ]
+   ],
+   "keys": [
+    [
+     "Una vite adulta dà un raccolto ogni anno e può vivere decenni.",
+     "Une vigne adulte donne une récolte par an et peut vivre des décennies.",
+     "A mature vine gives a crop every year and can live for decades.",
+     "Una vid adulta da una cosecha al año y puede vivir décadas."
+    ],
+    [
+     "Primavera: fioritura; ogni fiore diventa un acino.",
+     "Printemps : floraison ; chaque fleur devient un grain.",
+     "Spring: flowering; each flower becomes a grape.",
+     "Primavera: floración; cada flor se convierte en una uva."
+    ],
+    [
+     "Estate: maturazione; fine estate: vendemmia.",
+     "Été : maturation ; fin de l'été : vendanges.",
+     "Summer: ripening; late summer: harvest.",
+     "Verano: maduración; final del verano: vendimia."
+    ],
+    [
+     "La vite vuole sole e calore giusti e un inverno freddo per riposare.",
+     "La vigne veut assez de soleil et de chaleur et un hiver froid pour se reposer.",
+     "Vines need the right sun and heat, plus a cold winter to rest.",
+     "La vid necesita sol y calor justos y un invierno frío para descansar."
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "Che cosa succede quando l'uva matura",
+    "Ce qui se passe quand le raisin mûrit",
+    "What happens as grapes ripen",
+    "Qué ocurre cuando la uva madura"
+   ],
+   "p": [
+    [
+     "Durante l'estate gli acini piccoli e duri cambiano profondamente. Si gonfiano perché si riempiono d'acqua, e allo stesso tempo il loro contenuto di zucchero sale mentre quello di acido scende. Anche i sapori evolvono e diventano più maturi. Un acino acerbo è quindi aspro e poco saporito, mentre un acino maturo è più grosso, più dolce e meno acido.",
+     "Pendant l'été, les petits grains durs changent profondément. Ils gonflent en se remplissant d'eau, tandis que leur teneur en sucre augmente et que leur teneur en acide diminue. Les saveurs évoluent elles aussi et deviennent plus mûres. Un raisin vert est donc acide et peu savoureux, alors qu'un raisin mûr est plus gros, plus sucré et moins acide.",
+     "Over the summer the small, hard grapes change a great deal. They swell as they fill with water, while their sugar content goes up and their acid content goes down. Their flavours also develop and become riper. An unripe grape is therefore sour and not very tasty, whereas a ripe grape is bigger, sweeter and less acidic.",
+     "Durante el verano, las uvas pequeñas y duras cambian mucho. Se hinchan al llenarse de agua y, al mismo tiempo, su contenido de azúcar sube y el de ácido baja. Los sabores también evolucionan y se vuelven más maduros. Una uva verde es, por tanto, agria y poco sabrosa, mientras que una uva madura es más grande, más dulce y menos ácida."
+    ],
+    [
+     "Con la maturazione cambia anche il colore della buccia. Le uve bianche passano dal verde a un colore dorato, mentre le uve nere passano dal verde al viola. Osservare il colore è quindi un primo indizio di quanto l'uva sia vicina alla vendemmia, insieme agli altri cambiamenti: più acqua, più zucchero, meno acido e sapori più maturi.",
+     "Avec la maturation, la couleur de la peau change aussi. Les raisins blancs passent du vert au doré, tandis que les raisins noirs passent du vert au violet. La couleur donne donc un premier indice sur la proximité des vendanges, en même temps que les autres changements : plus d'eau, plus de sucre, moins d'acide et des saveurs plus mûres.",
+     "Ripening also changes the colour of the skin. White grapes turn from green to golden, while black grapes turn from green to purple. Colour is therefore a first clue to how close the grapes are to harvest, alongside the other changes: more water, more sugar, less acid and riper flavours.",
+     "Con la maduración también cambia el color de la piel. Las uvas blancas pasan del verde a un tono dorado, y las uvas tintas pasan del verde al morado. El color es, por tanto, una primera pista de lo cerca que está la vendimia, junto con los demás cambios: más agua, más azúcar, menos ácido y sabores más maduros."
+    ],
+    [
+     "Questi cambiamenti contano perché finiscono direttamente nel vino. Lo zucchero dell'uva è ciò che i lieviti trasformeranno in alcol: più zucchero significa, in genere, un vino più alcolico. L'acido resta nel vino e gli dà freschezza. I sapori dell'acino diventano gli aromi di frutta nel bicchiere. Il momento della vendemmia, quindi, orienta già lo stile del vino.",
+     "Ces changements comptent car ils passent directement dans le vin. Le sucre du raisin est ce que les levures transformeront en alcool : plus de sucre donne en général un vin plus alcoolisé. L'acide reste dans le vin et lui apporte de la fraîcheur. Les saveurs du raisin deviennent les arômes de fruits dans le verre. Le moment des vendanges oriente donc déjà le style du vin.",
+     "These changes matter because they pass straight into the wine. The sugar in the grape is what yeast will turn into alcohol, so more sugar generally means a stronger wine. The acid stays in the wine and gives it freshness. The grape's flavours become the fruit aromas in the glass. The moment of picking therefore already shapes the style of the wine.",
+     "Estos cambios importan porque pasan directamente al vino. El azúcar de la uva es lo que las levaduras convertirán en alcohol, así que más azúcar suele significar un vino con más alcohol. El ácido se queda en el vino y le da frescura. Los sabores de la uva se convierten en los aromas de fruta de la copa. El momento de la vendimia ya orienta, por tanto, el estilo del vino."
+    ]
+   ],
+   "keys": [
+    [
+     "Maturando l'uva si gonfia d'acqua.",
+     "En mûrissant, le raisin gonfle d'eau.",
+     "Ripening grapes swell with water.",
+     "Al madurar, la uva se hincha de agua."
+    ],
+    [
+     "Lo zucchero sale, l'acido scende.",
+     "Le sucre augmente, l'acide diminue.",
+     "Sugar rises, acid falls.",
+     "El azúcar sube y el ácido baja."
+    ],
+    [
+     "I sapori diventano più maturi.",
+     "Les saveurs deviennent plus mûres.",
+     "Flavours become riper.",
+     "Los sabores se vuelven más maduros."
+    ],
+    [
+     "Uve bianche: da verdi a dorate; uve nere: da verdi a viola.",
+     "Raisins blancs : du vert au doré ; noirs : du vert au violet.",
+     "White grapes: green to golden; black grapes: green to purple.",
+     "Uvas blancas: de verde a dorado; tintas: de verde a morado."
+    ]
+   ]
+  },
+  {
+   "c": "p1",
+   "t": [
+    "Clima fresco e clima caldo",
+    "Climat frais et climat chaud",
+    "Cool climate and warm climate",
+    "Clima fresco y clima cálido"
+   ],
+   "p": [
+    [
+     "Le zone viticole più vicine ai poli hanno un clima fresco. Esempi tipici sono la Germania e il nord della Francia. Qui le temperature medie sono basse e il sole può essere meno forte che vicino all'Equatore; in certe annate l'uva fatica persino a maturare. Nei climi freschi è frequente coltivare uve bianche.",
+     "Les régions viticoles les plus proches des pôles ont un climat frais. L'Allemagne et le nord de la France en sont des exemples typiques. Les températures moyennes y sont basses et le soleil peut être moins fort que près de l'équateur ; certaines années, le raisin a même du mal à mûrir. Dans les climats frais, on cultive souvent des raisins blancs.",
+     "Wine regions closer to the poles have a cool climate. Germany and northern France are typical examples. Average temperatures are low and the sunshine can be weaker than nearer the Equator; in some years the grapes even struggle to ripen. In cool climates, growing white grapes is common.",
+     "Las regiones vitícolas más cercanas a los polos tienen un clima fresco. Alemania y el norte de Francia son ejemplos típicos. Allí las temperaturas medias son bajas y el sol puede ser más débil que cerca del ecuador; algunos años a la uva incluso le cuesta madurar. En los climas frescos es habitual cultivar uvas blancas."
+    ],
+    [
+     "Le zone più vicine all'Equatore hanno invece un clima caldo, come alcune parti dell'Australia e della California. Le temperature medie sono alte, il sole è più intenso e l'uva matura senza difficoltà quasi ogni anno. Nei climi caldi è frequente coltivare uve nere, che approfittano di tutto questo calore.",
+     "Les régions plus proches de l'équateur ont au contraire un climat chaud, comme certaines parties de l'Australie et de la Californie. Les températures moyennes y sont élevées, le soleil est plus intense et le raisin mûrit sans difficulté d'une année à l'autre. Dans les climats chauds, on cultive souvent des raisins noirs, qui profitent de cette chaleur.",
+     "Regions closer to the Equator have a warm climate instead, such as parts of Australia and parts of California. Average temperatures are high, the sunshine is more intense and the grapes ripen reliably year after year. In warm climates it is common to grow black grapes, which make the most of all that heat.",
+     "Las regiones más cercanas al ecuador tienen, en cambio, un clima cálido, como algunas partes de Australia y de California. Las temperaturas medias son altas, el sol es más intenso y la uva madura sin problemas año tras año. En los climas cálidos es habitual cultivar uvas tintas, que aprovechan todo ese calor."
+    ],
+    [
+     "Il clima lascia un'impronta precisa sull'uva. In generale, più fa fresco, meno zucchero e più acidità ci sono negli acini; più fa caldo, più zucchero e meno acidità, con sapori più maturi. Ne derivano stili diversi: un vino da clima fresco tende a essere più leggero e vivace, uno da clima caldo più ricco e maturo.",
+     "Le climat laisse une empreinte nette sur le raisin. En règle générale, plus il fait frais, moins il y a de sucre et plus il y a d'acidité dans les grains ; plus il fait chaud, plus il y a de sucre et moins d'acidité, avec des saveurs plus mûres. On obtient ainsi des styles différents : un vin de climat frais tend à être plus léger et vif, un vin de climat chaud plus riche et mûr.",
+     "Climate leaves a clear mark on the grapes. As a rule, the cooler it is, the less sugar and the more acidity the grapes have; the warmer it is, the more sugar and the less acidity, together with riper flavours. This leads to different styles: a cool-climate wine tends to be lighter and fresher, a warm-climate wine richer and riper.",
+     "El clima deja una huella clara en la uva. Por regla general, cuanto más fresco, menos azúcar y más acidez tienen las uvas; cuanto más calor, más azúcar y menos acidez, con sabores más maduros. De ahí salen estilos distintos: un vino de clima fresco tiende a ser más ligero y vivo, y uno de clima cálido, más rico y maduro."
+    ],
+    [
+     "Lo Chardonnay è un ottimo esempio. Coltivato in clima fresco dà vini con profumi di frutta verde, come la mela, e di agrumi, come il limone. Coltivato in clima caldo, lo stesso vitigno offre invece frutta a nocciolo, come la pesca, e frutta tropicale, come l'ananas. Stessa uva, stile molto diverso: è il clima a fare la differenza.",
+     "Le Chardonnay en est un bon exemple. Cultivé en climat frais, il donne des vins aux arômes de fruits verts comme la pomme et d'agrumes comme le citron. Cultivé en climat chaud, le même cépage offre plutôt des fruits à noyau comme la pêche et des fruits tropicaux comme l'ananas. Même raisin, style très différent : c'est le climat qui fait la différence.",
+     "Chardonnay is a good example. Grown in a cool climate, it gives wines with aromas of green fruit such as apple and citrus such as lemon. Grown in a warm climate, the same grape shows stone fruit such as peach and tropical fruit such as pineapple instead. Same grape, very different style: the climate makes the difference.",
+     "La Chardonnay es un buen ejemplo. Cultivada en clima fresco, da vinos con aromas de fruta verde, como la manzana, y de cítricos, como el limón. Cultivada en clima cálido, la misma uva ofrece en cambio fruta de hueso, como el melocotón, y fruta tropical, como la piña. Misma uva, estilo muy distinto: el clima marca la diferencia."
+    ]
+   ],
+   "keys": [
+    [
+     "Clima fresco: vicino ai poli (es. Germania, nord della Francia).",
+     "Climat frais : près des pôles (ex. Allemagne, nord de la France).",
+     "Cool climate: nearer the poles (e.g. Germany, northern France).",
+     "Clima fresco: cerca de los polos (p. ej. Alemania, norte de Francia)."
+    ],
+    [
+     "Clima caldo: vicino all'Equatore (es. parti di Australia e California).",
+     "Climat chaud : près de l'équateur (ex. parties de l'Australie et de la Californie).",
+     "Warm climate: nearer the Equator (e.g. parts of Australia and California).",
+     "Clima cálido: cerca del ecuador (p. ej. partes de Australia y California)."
+    ],
+    [
+     "Più fresco → meno zucchero, più acidità → vino più leggero e fresco.",
+     "Plus frais → moins de sucre, plus d'acidité → vin plus léger et frais.",
+     "Cooler → less sugar, more acidity → lighter, fresher wine.",
+     "Más fresco → menos azúcar, más acidez → vino más ligero y fresco."
+    ],
+    [
+     "Più caldo → più zucchero, meno acidità, sapori più maturi.",
+     "Plus chaud → plus de sucre, moins d'acidité, saveurs plus mûres.",
+     "Warmer → more sugar, less acidity, riper flavours.",
+     "Más cálido → más azúcar, menos acidez, sabores más maduros."
+    ],
+    [
+     "Fresco: spesso uve bianche; caldo: spesso uve nere.",
+     "Frais : souvent raisins blancs ; chaud : souvent raisins noirs.",
+     "Cool: often white grapes; warm: often black grapes.",
+     "Fresco: a menudo uvas blancas; cálido: a menudo uvas tintas."
+    ]
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "c": "p1",
+   "q": [
+    "Quale definizione descrive meglio il vino?",
+    "Quelle définition décrit le mieux le vin ?",
+    "Which definition best describes wine?",
+    "¿Qué definición describe mejor el vino?"
+   ],
+   "o": [
+    [
+     "Succo d'uva fermentato",
+     "Du jus de raisin fermenté",
+     "Fermented grape juice",
+     "Zumo de uva fermentado"
+    ],
+    [
+     "Succo d'uva distillato",
+     "Du jus de raisin distillé",
+     "Distilled grape juice",
+     "Zumo de uva destilado"
+    ],
+    [
+     "Succo d'uva concentrato",
+     "Du jus de raisin concentré",
+     "Concentrated grape juice",
+     "Zumo de uva concentrado"
+    ],
+    [
+     "Succo d'uva pastorizzato",
+     "Du jus de raisin pasteurisé",
+     "Pasteurised grape juice",
+     "Zumo de uva pasteurizado"
+    ]
+   ],
+   "e": [
+    "Il vino si ottiene facendo fermentare il succo dolce dell'uva.",
+    "Le vin s'obtient en faisant fermenter le jus sucré du raisin.",
+    "Wine is made by fermenting the sweet juice of grapes.",
+    "El vino se obtiene haciendo fermentar el zumo dulce de la uva."
+   ],
+   "d": [
+    "Per fare il vino si schiaccia l'uva per liberarne il succo dolce. Poi la fermentazione alcolica, grazie ai lieviti, trasforma lo zucchero di quel succo in alcol. Senza fermentazione resterebbe semplice succo d'uva; la distillazione o la concentrazione non fanno parte della definizione di base del vino.",
+    "Pour faire du vin, on écrase le raisin afin de libérer son jus sucré. Ensuite, la fermentation alcoolique, grâce aux levures, transforme le sucre de ce jus en alcool. Sans fermentation, il ne resterait qu'un jus de raisin ; la distillation ou la concentration ne font pas partie de la définition de base du vin.",
+    "To make wine, grapes are crushed to release their sweet juice. Alcoholic fermentation, carried out by yeast, then turns the sugar in that juice into alcohol. Without fermentation you would simply have grape juice; distilling or concentrating the juice is not part of the basic definition of wine.",
+    "Para hacer vino se estrujan las uvas y se libera su zumo dulce. Después, la fermentación alcohólica, gracias a las levaduras, convierte el azúcar de ese zumo en alcohol. Sin fermentación solo quedaría zumo de uva; destilar o concentrar el zumo no forma parte de la definición básica del vino."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "In quale parte dell'uva nera si trovano i tannini?",
+    "Dans quelle partie du raisin noir trouve-t-on les tanins ?",
+    "Which part of a black grape contains tannins?",
+    "¿En qué parte de la uva tinta se encuentran los taninos?"
+   ],
+   "o": [
+    [
+     "Nella buccia",
+     "Dans la peau",
+     "The skin",
+     "En la piel"
+    ],
+    [
+     "Nella polpa",
+     "Dans la pulpe",
+     "The pulp",
+     "En la pulpa"
+    ],
+    [
+     "Nel succo",
+     "Dans le jus",
+     "The juice",
+     "En el zumo"
+    ],
+    [
+     "Nel fiore",
+     "Dans la fleur",
+     "The flower",
+     "En la flor"
+    ]
+   ],
+   "e": [
+    "La buccia delle uve nere contiene sia il colore sia i tannini.",
+    "La peau des raisins noirs contient à la fois la couleur et les tanins.",
+    "Black grape skins hold both the colour and the tannins.",
+    "La piel de las uvas tintas contiene tanto el color como los taninos."
+   ],
+   "d": [
+    "La buccia è la parte che distingue davvero le uve nere da quelle bianche: è intensamente colorata e contiene tannini, che lasciano in bocca una sensazione di secchezza. La polpa invece contiene il succo, fatto di acqua, zucchero e acido, ed è dello stesso colore in tutte le uve.",
+    "La peau est ce qui distingue vraiment les raisins noirs des blancs : elle est très colorée et contient des tanins, qui donnent une sensation de sécheresse en bouche. La pulpe, elle, contient le jus, fait d'eau, de sucre et d'acide, et elle a la même couleur dans tous les raisins.",
+    "The skin is what really sets black grapes apart from white ones: it is deeply coloured and contains tannins, which leave the mouth feeling dry. The pulp, by contrast, holds the juice, made of water, sugar and acid, and it is the same colour in all grapes.",
+    "La piel es lo que distingue de verdad las uvas tintas de las blancas: tiene un color intenso y contiene taninos, que dejan sensación de sequedad en la boca. La pulpa, en cambio, contiene el zumo, formado por agua, azúcar y ácido, y tiene el mismo color en todas las uvas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Da che cosa è composto principalmente il succo della polpa?",
+    "De quoi est principalement composé le jus de la pulpe ?",
+    "What is the juice in the pulp mainly made of?",
+    "¿De qué está compuesto principalmente el zumo de la pulpa?"
+   ],
+   "o": [
+    [
+     "Acqua, zucchero e acido",
+     "Eau, sucre et acide",
+     "Water, sugar and acid",
+     "Agua, azúcar y ácido"
+    ],
+    [
+     "Acqua, tannini e colore",
+     "Eau, tanins et couleur",
+     "Water, tannin and colour",
+     "Agua, taninos y color"
+    ],
+    [
+     "Alcol, zucchero e lievito",
+     "Alcool, sucre et levures",
+     "Alcohol, sugar and yeast",
+     "Alcohol, azúcar y levadura"
+    ],
+    [
+     "Acqua, alcol e anidride carbonica",
+     "Eau, alcool et gaz carbonique",
+     "Water, alcohol and carbon dioxide",
+     "Agua, alcohol y dióxido de carbono"
+    ]
+   ],
+   "e": [
+    "Il succo d'uva è soprattutto acqua, zucchero e acido.",
+    "Le jus de raisin est surtout composé d'eau, de sucre et d'acide.",
+    "Grape juice is mostly water, sugar and acid.",
+    "El zumo de uva es sobre todo agua, azúcar y ácido."
+   ],
+   "d": [
+    "La polpa è la parte morbida dell'acino e contiene il succo, formato in gran parte da acqua, zucchero e acido. Tannini e colore stanno invece nella buccia. Alcol e anidride carbonica compaiono solo più tardi, quando i lieviti fermentano lo zucchero del succo.",
+    "La pulpe est la partie tendre du grain et contient le jus, composé en grande partie d'eau, de sucre et d'acide. Les tanins et la couleur se trouvent dans la peau. L'alcool et le gaz carbonique n'apparaissent que plus tard, quand les levures font fermenter le sucre du jus.",
+    "The pulp is the soft part of the grape and holds the juice, which is mostly water, sugar and acid. Tannin and colour are found in the skin instead. Alcohol and carbon dioxide only appear later, when yeast ferments the sugar in the juice.",
+    "La pulpa es la parte blanda de la uva y contiene el zumo, formado sobre todo por agua, azúcar y ácido. Los taninos y el color están en la piel. El alcohol y el dióxido de carbono solo aparecen más tarde, cuando las levaduras fermentan el azúcar del zumo."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Che sensazione lasciano in bocca i tannini?",
+    "Quelle sensation les tanins laissent-ils en bouche ?",
+    "What do tannins do to your mouth?",
+    "¿Qué sensación dejan los taninos en la boca?"
+   ],
+   "o": [
+    [
+     "La fanno sentire secca",
+     "Ils l'assèchent",
+     "Make it feel dry",
+     "La dejan seca"
+    ],
+    [
+     "La fanno salivare",
+     "Ils la font saliver",
+     "Make it water",
+     "La hacen salivar"
+    ],
+    [
+     "La fanno sentire calda",
+     "Ils la réchauffent",
+     "Make it feel hot",
+     "La calientan"
+    ],
+    [
+     "La fanno sentire dolce",
+     "Ils l'adoucissent",
+     "Make it feel sweet",
+     "La endulzan"
+    ]
+   ],
+   "e": [
+    "I tannini della buccia danno una sensazione di secchezza in bocca.",
+    "Les tanins de la peau donnent une sensation de sécheresse en bouche.",
+    "Tannins from the skins leave the mouth feeling dry.",
+    "Los taninos de la piel dejan sensación de sequedad en la boca."
+   ],
+   "d": [
+    "I tannini provengono dalla buccia delle uve nere e si percepiscono più come una sensazione che come un sapore: asciugano la bocca. Non vanno confusi con l'acidità, che invece fa salivare, né con l'alcol, che dà una sensazione di calore.",
+    "Les tanins viennent de la peau des raisins noirs et se perçoivent davantage comme une sensation que comme un goût : ils assèchent la bouche. Il ne faut pas les confondre avec l'acidité, qui fait saliver, ni avec l'alcool, qui donne une sensation de chaleur.",
+    "Tannins come from black grape skins and are felt more than tasted: they dry out the mouth. When tasting, they should not be confused with acidity, which makes your mouth water instead, or with alcohol, which gives a warming sensation.",
+    "Los taninos proceden de la piel de las uvas tintas y se notan más como una sensación que como un sabor: secan la boca. No hay que confundirlos con la acidez, que hace salivar, ni con el alcohol, que da sensación de calor."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Che colore ha la polpa di un'uva nera?",
+    "Quelle est la couleur de la pulpe d'un raisin noir ?",
+    "What colour is the pulp of a black grape?",
+    "¿De qué color es la pulpa de una uva tinta?"
+   ],
+   "o": [
+    [
+     "Lo stesso di quella di un'uva bianca",
+     "La même que celle d'un raisin blanc",
+     "The same as in a white grape",
+     "El mismo que en una uva blanca"
+    ],
+    [
+     "Rosso intenso, come la buccia",
+     "Rouge intense, comme la peau",
+     "Deep red, like the skin",
+     "Rojo intenso, como la piel"
+    ],
+    [
+     "Viola, ma solo a piena maturità",
+     "Violette, mais seulement à maturité",
+     "Purple, but only when fully ripe",
+     "Morada, pero solo cuando está madura"
+    ],
+    [
+     "Rosa, più chiara della buccia",
+     "Rose, plus claire que la peau",
+     "Pink, paler than the skin",
+     "Rosa, más clara que la piel"
+    ]
+   ],
+   "e": [
+    "La polpa ha lo stesso colore in tutte le uve; il colore sta nella buccia.",
+    "La pulpe a la même couleur dans tous les raisins ; la couleur est dans la peau.",
+    "Pulp is the same colour in all grapes; the colour is in the skin.",
+    "La pulpa tiene el mismo color en todas las uvas; el color está en la piel."
+   ],
+   "d": [
+    "All'interno uve bianche e nere si somigliano molto: la polpa ha lo stesso colore, qualunque sia il colore della buccia. È proprio per questo che il colore di un vino rosso viene dalle bucce, e che da uve nere si può persino ottenere un vino bianco separando subito il succo dalle bucce.",
+    "À l'intérieur, raisins blancs et noirs se ressemblent beaucoup : la pulpe a la même couleur, quelle que soit celle de la peau. C'est pour cela que la couleur d'un vin rouge vient des peaux, et qu'on peut même faire un vin blanc avec des raisins noirs en séparant tout de suite le jus des peaux.",
+    "Inside, white and black grapes look very alike: the pulp is the same colour whatever the colour of the skin. This is exactly why a red wine gets its colour from the skins, and why a white wine can even be made from black grapes if the juice is separated from the skins straight away.",
+    "Por dentro, las uvas blancas y tintas se parecen mucho: la pulpa tiene el mismo color sea cual sea el de la piel. Precisamente por eso el color de un vino tinto viene de las pieles, y por eso se puede hacer incluso un vino blanco con uvas tintas si se separa el zumo de las pieles enseguida."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "In quale stagione fiorisce la vite?",
+    "À quelle saison la vigne fleurit-elle ?",
+    "In which season does the grape vine flower?",
+    "¿En qué estación florece la vid?"
+   ],
+   "o": [
+    [
+     "In primavera",
+     "Au printemps",
+     "Spring",
+     "En primavera"
+    ],
+    [
+     "In estate",
+     "En été",
+     "Summer",
+     "En verano"
+    ],
+    [
+     "In autunno",
+     "En automne",
+     "Autumn",
+     "En otoño"
+    ],
+    [
+     "In inverno",
+     "En hiver",
+     "Winter",
+     "En invierno"
+    ]
+   ],
+   "e": [
+    "La vite fiorisce in primavera; l'uva matura poi in estate.",
+    "La vigne fleurit au printemps ; le raisin mûrit ensuite en été.",
+    "Vines flower in spring; the grapes then ripen in summer.",
+    "La vid florece en primavera; luego la uva madura en verano."
+   ],
+   "d": [
+    "Il ciclo annuale della vite segue le stagioni. In primavera compaiono i grappoli di fiori, ciascuno dei quali diventerà un acino. In estate l'uva matura e verso la fine dell'estate si vendemmia. In inverno, invece, la vite riposa, e ha bisogno di un freddo sufficiente per farlo.",
+    "Le cycle annuel de la vigne suit les saisons. Au printemps apparaissent les grappes de fleurs, dont chacune deviendra un grain. En été, le raisin mûrit, et vers la fin de l'été on vendange. En hiver, en revanche, la vigne se repose, et elle a besoin d'un froid suffisant pour cela.",
+    "The vine's yearly cycle follows the seasons. In spring the clusters of flowers appear, and each flower will become a grape. During summer the grapes ripen, and they are picked towards the end of summer. In winter the vine rests, and it needs enough cold to do so.",
+    "El ciclo anual de la vid sigue las estaciones. En primavera aparecen los racimos de flores, y cada flor se convertirá en una uva. En verano la uva madura y hacia el final del verano se vendimia. En invierno, en cambio, la vid descansa, y necesita suficiente frío para hacerlo."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Che cosa diventa ogni fiore della vite?",
+    "Que devient chaque fleur de la vigne ?",
+    "What does each individual vine flower become?",
+    "¿En qué se convierte cada flor de la vid?"
+   ],
+   "o": [
+    [
+     "Un acino d'uva",
+     "Un grain de raisin",
+     "One grape",
+     "Una uva"
+    ],
+    [
+     "Un nuovo germoglio",
+     "Une nouvelle pousse",
+     "A new shoot",
+     "Un nuevo brote"
+    ],
+    [
+     "Un'intera foglia",
+     "Une feuille entière",
+     "A whole leaf",
+     "Una hoja entera"
+    ],
+    [
+     "Un grappolo intero",
+     "Une grappe entière",
+     "A whole bunch",
+     "Un racimo entero"
+    ]
+   ],
+   "e": [
+    "Dopo la fioritura ogni singolo fiore si trasforma in un piccolo acino.",
+    "Après la floraison, chaque fleur se transforme en un petit grain.",
+    "After flowering, each single flower turns into a small grape.",
+    "Tras la floración, cada flor se transforma en una uva pequeña."
+   ],
+   "d": [
+    "I fiori della vite si presentano a grappoli formati da tanti fiori piccolissimi. Dopo la fioritura ognuno di essi diventa un acino: il grappolo di fiori diventa quindi un grappolo d'uva. All'inizio questi acini sono piccoli, duri e verdi, e solo durante l'estate cresceranno e matureranno.",
+    "Les fleurs de vigne forment des grappes composées de nombreuses fleurs minuscules. Après la floraison, chacune devient un grain : la grappe de fleurs devient donc une grappe de raisin. Au début, ces grains sont petits, durs et verts ; ils ne grossiront et ne mûriront qu'au cours de l'été.",
+    "Vine flowers come in clusters made up of many tiny flowers. After flowering, each one becomes a grape, so the cluster of flowers turns into a bunch of grapes. At first these grapes are small, hard and green; they only grow and ripen as the summer goes on.",
+    "Las flores de la vid forman racimos compuestos por muchas flores diminutas. Tras la floración, cada una se convierte en una uva, así que el racimo de flores se transforma en un racimo de uvas. Al principio son pequeñas, duras y verdes; solo crecen y maduran a lo largo del verano."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Come sono gli acini subito dopo la fioritura?",
+    "Comment sont les grains juste après la floraison ?",
+    "What are grapes like just after flowering?",
+    "¿Cómo son las uvas justo después de la floración?"
+   ],
+   "o": [
+    [
+     "Piccoli, duri e verdi",
+     "Petits, durs et verts",
+     "Small, hard and green",
+     "Pequeñas, duras y verdes"
+    ],
+    [
+     "Piccoli, morbidi e dorati",
+     "Petits, mous et dorés",
+     "Small, soft and golden",
+     "Pequeñas, blandas y doradas"
+    ],
+    [
+     "Grossi, duri e viola",
+     "Gros, durs et violets",
+     "Large, hard and purple",
+     "Grandes, duras y moradas"
+    ],
+    [
+     "Grossi, morbidi e dolci",
+     "Gros, mous et sucrés",
+     "Large, soft and sweet",
+     "Grandes, blandas y dulces"
+    ]
+   ],
+   "e": [
+    "Tutti gli acini giovani sono piccoli, duri e verdi, bianchi o neri che siano.",
+    "Tous les jeunes grains sont petits, durs et verts, blancs ou noirs.",
+    "All young grapes are small, hard and green, white or black.",
+    "Todas las uvas jóvenes son pequeñas, duras y verdes, blancas o tintas."
+   ],
+   "d": [
+    "Appena formati, gli acini non sono ancora pronti: sono piccoli, duri e verdi, e in questa fase uve bianche e nere non si distinguono. Solo con la maturazione estiva si gonfiano d'acqua, diventano più dolci e cambiano colore, verso il dorato per le bianche e verso il viola per le nere.",
+    "Juste formés, les grains ne sont pas encore prêts : ils sont petits, durs et verts, et à ce stade on ne distingue pas les raisins blancs des noirs. Ce n'est qu'avec la maturation estivale qu'ils gonflent d'eau, deviennent plus sucrés et changent de couleur, vers le doré pour les blancs et vers le violet pour les noirs.",
+    "Newly formed grapes are not ready yet: they are small, hard and green, and at this stage white and black grapes look the same. Only during summer ripening do they swell with water, become sweeter and change colour, towards golden for white grapes and purple for black ones.",
+    "Recién formadas, las uvas aún no están listas: son pequeñas, duras y verdes, y en esta fase no se distinguen las blancas de las tintas. Solo con la maduración del verano se hinchan de agua, se vuelven más dulces y cambian de color, hacia el dorado las blancas y hacia el morado las tintas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Durante la maturazione, che cosa succede ai livelli di zucchero e di acido nell'uva?",
+    "Pendant la maturation, que deviennent les niveaux de sucre et d'acide du raisin ?",
+    "As grapes ripen, what happens to their sugar and acid levels?",
+    "Durante la maduración, ¿qué ocurre con los niveles de azúcar y de ácido de la uva?"
+   ],
+   "o": [
+    [
+     "Lo zucchero sale e l'acido scende",
+     "Le sucre augmente et l'acide diminue",
+     "Sugar rises and acid falls",
+     "El azúcar sube y el ácido baja"
+    ],
+    [
+     "Lo zucchero scende e l'acido sale",
+     "Le sucre diminue et l'acide augmente",
+     "Sugar falls and acid rises",
+     "El azúcar baja y el ácido sube"
+    ],
+    [
+     "Salgono entrambi allo stesso ritmo",
+     "Les deux augmentent au même rythme",
+     "Both rise at the same rate",
+     "Ambos suben al mismo ritmo"
+    ],
+    [
+     "Restano entrambi invariati",
+     "Les deux restent stables",
+     "Both stay the same",
+     "Ambos se mantienen igual"
+    ]
+   ],
+   "e": [
+    "Maturando l'uva diventa più dolce e meno acida.",
+    "En mûrissant, le raisin devient plus sucré et moins acide.",
+    "Ripening makes grapes sweeter and less acidic.",
+    "Al madurar, la uva se vuelve más dulce y menos ácida."
+   ],
+   "d": [
+    "Mentre l'uva matura in estate avvengono diversi cambiamenti: gli acini si gonfiano d'acqua, lo zucchero aumenta, l'acido diminuisce e i sapori diventano più maturi. È questo equilibrio tra zucchero e acido che, più tardi, influenzerà l'alcol e la freschezza del vino.",
+    "Pendant que le raisin mûrit en été, plusieurs changements se produisent : les grains gonflent d'eau, le sucre augmente, l'acide diminue et les saveurs deviennent plus mûres. C'est cet équilibre entre sucre et acide qui influencera plus tard l'alcool et la fraîcheur du vin.",
+    "While grapes ripen over the summer, several things change: they swell with water, sugar goes up, acid goes down and the flavours become riper. This balance between sugar and acid will later influence the alcohol and freshness of the wine.",
+    "Mientras la uva madura en verano se producen varios cambios: las uvas se hinchan de agua, el azúcar aumenta, el ácido disminuye y los sabores se vuelven más maduros. Este equilibrio entre azúcar y ácido influirá más tarde en el alcohol y la frescura del vino."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Di che colore diventano le uve bianche quando maturano?",
+    "Quelle couleur prennent les raisins blancs en mûrissant ?",
+    "What colour do white grapes turn as they ripen?",
+    "¿De qué color se vuelven las uvas blancas al madurar?"
+   ],
+   "o": [
+    [
+     "Dal verde al dorato",
+     "Du vert au doré",
+     "From green to golden",
+     "De verde a dorado"
+    ],
+    [
+     "Dal verde al viola",
+     "Du vert au violet",
+     "From green to purple",
+     "De verde a morado"
+    ],
+    [
+     "Dal giallo al verde",
+     "Du jaune au vert",
+     "From yellow to green",
+     "De amarillo a verde"
+    ],
+    [
+     "Dal dorato al rosa",
+     "Du doré au rose",
+     "From golden to pink",
+     "De dorado a rosa"
+    ]
+   ],
+   "e": [
+    "Le uve bianche passano dal verde al dorato; le nere dal verde al viola.",
+    "Les raisins blancs passent du vert au doré ; les noirs du vert au violet.",
+    "White grapes go from green to golden; black ones from green to purple.",
+    "Las uvas blancas pasan de verde a dorado; las tintas, de verde a morado."
+   ],
+   "d": [
+    "All'inizio tutti gli acini sono verdi. Con la maturazione la buccia cambia colore: nelle uve bianche diventa dorata, nelle uve nere diventa viola. Il cambiamento di colore accompagna gli altri segni della maturazione, cioè più acqua, più zucchero, meno acido e sapori più maturi.",
+    "Au départ, tous les grains sont verts. Avec la maturation, la peau change de couleur : elle devient dorée chez les raisins blancs et violette chez les raisins noirs. Ce changement accompagne les autres signes de maturation : plus d'eau, plus de sucre, moins d'acide et des saveurs plus mûres.",
+    "At first all grapes are green. As they ripen, the skin changes colour: it becomes golden in white grapes and purple in black grapes. This colour change goes hand in hand with the other signs of ripening, namely more water, more sugar, less acid and riper flavours.",
+    "Al principio todas las uvas son verdes. Con la maduración, la piel cambia de color: se vuelve dorada en las uvas blancas y morada en las tintas. Este cambio acompaña a las demás señales de maduración: más agua, más azúcar, menos ácido y sabores más maduros."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Quale di questi cambiamenti NON avviene quando l'uva matura?",
+    "Lequel de ces changements ne se produit PAS quand le raisin mûrit ?",
+    "Which of these does NOT happen as grapes ripen?",
+    "¿Cuál de estos cambios NO ocurre cuando la uva madura?"
+   ],
+   "o": [
+    [
+     "L'acidità aumenta",
+     "L'acidité augmente",
+     "Acidity increases",
+     "La acidez aumenta"
+    ],
+    [
+     "Gli acini si gonfiano d'acqua",
+     "Les grains gonflent d'eau",
+     "Grapes swell with water",
+     "Las uvas se hinchan de agua"
+    ],
+    [
+     "Lo zucchero aumenta",
+     "Le sucre augmente",
+     "Sugar increases",
+     "El azúcar aumenta"
+    ],
+    [
+     "I sapori diventano più maturi",
+     "Les saveurs deviennent plus mûres",
+     "Flavours become riper",
+     "Los sabores maduran"
+    ]
+   ],
+   "e": [
+    "Con la maturazione l'acidità scende, non sale.",
+    "En mûrissant, l'acidité baisse, elle n'augmente pas.",
+    "During ripening acidity falls, it does not rise.",
+    "Durante la maduración la acidez baja, no sube."
+   ],
+   "d": [
+    "La maturazione porta più acqua negli acini, più zucchero e sapori più maturi, ma l'acido segue la direzione opposta e diminuisce. Per questo un'uva acerba è aspra, mentre un'uva matura è dolce e meno acida. Ricordare questa tendenza aiuta anche a capire l'effetto del clima.",
+    "La maturation apporte plus d'eau dans les grains, plus de sucre et des saveurs plus mûres, mais l'acide suit le chemin inverse et diminue. C'est pourquoi un raisin vert est acide, tandis qu'un raisin mûr est sucré et moins acide. Retenir cette tendance aide aussi à comprendre l'effet du climat.",
+    "Ripening brings more water into the grapes, more sugar and riper flavours, but acid moves the other way and drops. That is why an unripe grape tastes sour, while a ripe one is sweet and less acidic. Remembering this trend also helps you understand the effect of climate.",
+    "La maduración aporta más agua a las uvas, más azúcar y sabores más maduros, pero el ácido va en sentido contrario y disminuye. Por eso una uva verde es agria y una madura es dulce y menos ácida. Recordar esta tendencia ayuda también a entender el efecto del clima."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Quando si vendemmia di solito, secondo il ciclo della vite?",
+    "Quand vendange-t-on habituellement, selon le cycle de la vigne ?",
+    "In the vine's yearly cycle, when are the grapes usually picked?",
+    "Según el ciclo de la vid, ¿cuándo se suele vendimiar?"
+   ],
+   "o": [
+    [
+     "Verso la fine dell'estate",
+     "Vers la fin de l'été",
+     "In late summer",
+     "A finales del verano"
+    ],
+    [
+     "All'inizio della primavera",
+     "Au début du printemps",
+     "In early spring",
+     "A principios de primavera"
+    ],
+    [
+     "In pieno inverno",
+     "En plein hiver",
+     "In midwinter",
+     "En pleno invierno"
+    ],
+    [
+     "Subito dopo la fioritura",
+     "Juste après la floraison",
+     "Just after flowering",
+     "Justo después de la floración"
+    ]
+   ],
+   "e": [
+    "L'uva matura durante l'estate e si raccoglie verso la fine dell'estate.",
+    "Le raisin mûrit pendant l'été et se récolte vers la fin de l'été.",
+    "Grapes ripen through summer and are picked in late summer.",
+    "La uva madura en verano y se recoge hacia el final del verano."
+   ],
+   "d": [
+    "La vite fiorisce in primavera, i fiori diventano acini e questi maturano durante l'estate. Quando sono abbastanza maturi, verso la fine dell'estate, si raccolgono. Subito dopo la fioritura gli acini sono ancora piccoli, duri e verdi, quindi troppo acerbi per fare vino.",
+    "La vigne fleurit au printemps, les fleurs deviennent des grains, et ceux-ci mûrissent pendant l'été. Lorsqu'ils sont assez mûrs, vers la fin de l'été, on les récolte. Juste après la floraison, les grains sont encore petits, durs et verts, donc beaucoup trop peu mûrs pour faire du vin.",
+    "The vine flowers in spring, the flowers become grapes and these ripen during the summer. Once they are ripe enough, towards the end of summer, they are picked. Just after flowering the grapes are still small, hard and green, far too unripe to make wine.",
+    "La vid florece en primavera, las flores se convierten en uvas y estas maduran durante el verano. Cuando están lo bastante maduras, hacia el final del verano, se recogen. Justo después de la floración las uvas son todavía pequeñas, duras y verdes, demasiado verdes para hacer vino."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché la vite cresce meglio dove l'inverno è freddo?",
+    "Pourquoi la vigne pousse-t-elle mieux là où l'hiver est froid ?",
+    "Why do vines grow best where winters are cold?",
+    "¿Por qué la vid crece mejor donde el invierno es frío?"
+   ],
+   "o": [
+    [
+     "Perché il freddo le permette di riposare",
+     "Parce que le froid lui permet de se reposer",
+     "The cold lets the vine rest",
+     "Porque el frío le permite descansar"
+    ],
+    [
+     "Perché il freddo aumenta lo zucchero",
+     "Parce que le froid augmente le sucre",
+     "The cold raises sugar levels",
+     "Porque el frío aumenta el azúcar"
+    ],
+    [
+     "Perché il freddo fa fiorire la vite",
+     "Parce que le froid fait fleurir la vigne",
+     "The cold makes the vine flower",
+     "Porque el frío hace florecer la vid"
+    ],
+    [
+     "Perché il freddo colora le bucce",
+     "Parce que le froid colore les peaux",
+     "The cold colours the skins",
+     "Porque el frío colorea las pieles"
+    ]
+   ],
+   "e": [
+    "Un inverno abbastanza freddo dà alla vite un periodo di riposo.",
+    "Un hiver assez froid offre à la vigne une période de repos.",
+    "A cold enough winter gives the vine a period of rest.",
+    "Un invierno lo bastante frío da a la vid un periodo de descanso."
+   ],
+   "d": [
+    "Oltre alla giusta quantità di sole e calore durante la stagione di crescita, la vite ha bisogno di un inverno abbastanza freddo da poter riposare. Per questo la maggior parte dei vigneti si trova in fasce di latitudine precise, né troppo fredde né troppo calde.",
+    "En plus de la bonne dose de soleil et de chaleur pendant la saison de croissance, la vigne a besoin d'un hiver assez froid pour pouvoir se reposer. C'est pourquoi la plupart des vignobles se trouvent dans des bandes de latitude précises, ni trop froides ni trop chaudes.",
+    "Besides the right amount of sunlight and heat during the growing season, a vine needs a winter cold enough to let it rest. This is why most vineyards are found in particular bands of latitude, neither too cold nor too hot.",
+    "Además de la cantidad justa de sol y calor durante la temporada de crecimiento, la vid necesita un invierno lo bastante frío para poder descansar. Por eso la mayoría de los viñedos se encuentra en franjas de latitud concretas, ni demasiado frías ni demasiado cálidas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Quale di questi Paesi è un esempio di clima fresco per la vite?",
+    "Lequel de ces pays est un exemple de climat frais pour la vigne ?",
+    "Which of these is an example of a cool climate wine region?",
+    "¿Cuál de estos es un ejemplo de región vitícola de clima fresco?"
+   ],
+   "o": [
+    [
+     "La Germania",
+     "L'Allemagne",
+     "Germany",
+     "Alemania"
+    ],
+    [
+     "Alcune zone dell'Australia",
+     "Certaines zones d'Australie",
+     "Parts of Australia",
+     "Algunas zonas de Australia"
+    ],
+    [
+     "Alcune zone della California",
+     "Certaines zones de Californie",
+     "Parts of California",
+     "Algunas zonas de California"
+    ],
+    [
+     "Le zone sull'Equatore",
+     "Les zones sur l'équateur",
+     "Areas on the Equator",
+     "Las zonas del ecuador"
+    ]
+   ],
+   "e": [
+    "La Germania, come il nord della Francia, è vicina ai poli e ha un clima fresco.",
+    "L'Allemagne, comme le nord de la France, est proche des pôles et a un climat frais.",
+    "Germany, like northern France, lies nearer the poles and has a cool climate.",
+    "Alemania, como el norte de Francia, está más cerca de los polos y tiene clima fresco."
+   ],
+   "d": [
+    "Le regioni a clima fresco sono quelle più vicine ai poli, come la Germania e il nord della Francia. Alcune parti dell'Australia e della California sono invece esempi di clima caldo. Vicino all'Equatore fa troppo caldo perché la vite cresca bene e possa riposare in inverno.",
+    "Les régions de climat frais sont les plus proches des pôles, comme l'Allemagne et le nord de la France. Certaines parties de l'Australie et de la Californie sont au contraire des exemples de climat chaud. Près de l'équateur, il fait trop chaud pour que la vigne pousse bien et se repose en hiver.",
+    "Cool climate regions are those closer to the poles, such as Germany and northern France. Parts of Australia and California are examples of warm climates instead. Right at the Equator it is too hot for vines to grow well and rest in winter.",
+    "Las regiones de clima fresco son las más cercanas a los polos, como Alemania y el norte de Francia. Algunas partes de Australia y de California son, en cambio, ejemplos de clima cálido. Junto al ecuador hace demasiado calor para que la vid crezca bien y descanse en invierno."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Quale tipo di uva si coltiva più spesso nelle regioni a clima caldo?",
+    "Quel type de raisin cultive-t-on le plus souvent dans les régions chaudes ?",
+    "Which type of grape is commonly grown in warm climate regions?",
+    "¿Qué tipo de uva se cultiva con más frecuencia en las regiones cálidas?"
+   ],
+   "o": [
+    [
+     "Le uve nere",
+     "Les raisins noirs",
+     "Black grapes",
+     "Las uvas tintas"
+    ],
+    [
+     "Le uve bianche",
+     "Les raisins blancs",
+     "White grapes",
+     "Las uvas blancas"
+    ],
+    [
+     "Le uve acerbe",
+     "Les raisins verts",
+     "Unripe grapes",
+     "Las uvas verdes"
+    ],
+    [
+     "Le uve senza buccia",
+     "Les raisins sans peau",
+     "Skinless grapes",
+     "Las uvas sin piel"
+    ]
+   ],
+   "e": [
+    "Nei climi caldi l'uva matura con regolarità ed è comune coltivare uve nere.",
+    "En climat chaud, le raisin mûrit régulièrement et on cultive souvent des raisins noirs.",
+    "Warm climates ripen grapes reliably, and black grapes are commonly grown.",
+    "En clima cálido la uva madura con regularidad y es habitual cultivar uvas tintas."
+   ],
+   "d": [
+    "Le regioni calde, più vicine all'Equatore, hanno temperature medie alte e un sole più intenso, quindi l'uva matura con regolarità. In queste zone è comune coltivare uve nere. Nelle regioni fresche, dove l'uva a volte fatica a maturare, è invece frequente coltivare uve bianche.",
+    "Les régions chaudes, plus proches de l'équateur, ont des températures moyennes élevées et un soleil plus intense ; le raisin y mûrit donc régulièrement. On y cultive souvent des raisins noirs. Dans les régions fraîches, où le raisin peine parfois à mûrir, on cultive plutôt des raisins blancs.",
+    "Warm regions, closer to the Equator, have high average temperatures and more intense sunshine, so grapes ripen reliably. Growing black grapes is common there. In cool regions, closer to the poles, where grapes sometimes struggle to ripen at all, white grapes are more commonly grown.",
+    "Las regiones cálidas, más cercanas al ecuador, tienen temperaturas medias altas y un sol más intenso, así que la uva madura con regularidad. Allí es habitual cultivar uvas tintas. En las regiones frescas, donde a veces a la uva le cuesta madurar, es más frecuente cultivar uvas blancas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "In un clima fresco, come saranno di solito le uve?",
+    "En climat frais, comment seront généralement les raisins ?",
+    "In a cool climate, grapes will usually have…",
+    "En un clima fresco, ¿cómo suelen ser las uvas?"
+   ],
+   "o": [
+    [
+     "Meno zucchero e più acidità",
+     "Moins de sucre et plus d'acidité",
+     "Less sugar and more acidity",
+     "Menos azúcar y más acidez"
+    ],
+    [
+     "Più zucchero e meno acidità",
+     "Plus de sucre et moins d'acidité",
+     "More sugar and less acidity",
+     "Más azúcar y menos acidez"
+    ],
+    [
+     "Più zucchero e più acidità",
+     "Plus de sucre et plus d'acidité",
+     "More sugar and more acidity",
+     "Más azúcar y más acidez"
+    ],
+    [
+     "Meno zucchero e meno acidità",
+     "Moins de sucre et moins d'acidité",
+     "Less sugar and less acidity",
+     "Menos azúcar y menos acidez"
+    ]
+   ],
+   "e": [
+    "Più fa fresco, più l'uva resta acida e meno zucchero accumula.",
+    "Plus il fait frais, plus le raisin reste acide et moins il accumule de sucre.",
+    "The cooler it is, the more acidic and less sugary the grapes stay.",
+    "Cuanto más fresco, más ácida queda la uva y menos azúcar acumula."
+   ],
+   "d": [
+    "Con poco calore e un sole più debole, l'uva matura meno: accumula meno zucchero e conserva più acidità. Il risultato nel bicchiere sono vini tendenzialmente più leggeri e freschi. In un clima caldo succede il contrario: più zucchero, meno acidità e sapori più maturi.",
+    "Avec peu de chaleur et un soleil plus faible, le raisin mûrit moins : il accumule moins de sucre et garde plus d'acidité. Dans le verre, cela donne des vins plutôt légers et frais. En climat chaud, c'est l'inverse : plus de sucre, moins d'acidité et des saveurs plus mûres.",
+    "With little heat and weaker sunshine, grapes ripen less: they build up less sugar and keep more acidity. In the glass this tends to give lighter, fresher wines. In a warm climate the opposite happens: more sugar, less acidity and riper flavours.",
+    "Con poco calor y un sol más débil, la uva madura menos: acumula menos azúcar y conserva más acidez. En la copa, esto suele dar vinos más ligeros y frescos. En un clima cálido ocurre lo contrario: más azúcar, menos acidez y sabores más maduros."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché un vino da clima caldo tende ad avere sapori di frutta più maturi?",
+    "Pourquoi un vin de climat chaud a-t-il en général des saveurs de fruits plus mûres ?",
+    "Why does a warm-climate wine tend to show riper fruit flavours?",
+    "¿Por qué un vino de clima cálido suele tener sabores de fruta más maduros?"
+   ],
+   "o": [
+    [
+     "Il calore fa maturare di più l'uva",
+     "La chaleur fait davantage mûrir le raisin",
+     "Heat ripens the grapes further",
+     "El calor hace madurar más la uva"
+    ],
+    [
+     "Il calore aumenta l'acidità dell'uva",
+     "La chaleur augmente l'acidité du raisin",
+     "Heat raises the grapes' acidity",
+     "El calor aumenta la acidez de la uva"
+    ],
+    [
+     "Il calore toglie colore alle bucce",
+     "La chaleur enlève la couleur des peaux",
+     "Heat removes colour from the skins",
+     "El calor quita color a las pieles"
+    ],
+    [
+     "Il calore ferma la fioritura",
+     "La chaleur arrête la floraison",
+     "Heat stops the vine flowering",
+     "El calor detiene la floración"
+    ]
+   ],
+   "e": [
+    "Con più calore e sole l'uva matura di più: più zucchero, sapori più maturi.",
+    "Avec plus de chaleur et de soleil, le raisin mûrit davantage : plus de sucre, saveurs plus mûres.",
+    "More heat and sun ripen grapes further: more sugar, riper flavours.",
+    "Con más calor y sol la uva madura más: más azúcar y sabores más maduros."
+   ],
+   "d": [
+    "Nelle regioni calde le temperature medie sono alte e il sole è intenso, quindi l'uva matura con regolarità e a fondo. Questo porta più zucchero, meno acidità e sapori più maturi. Lo Chardonnay, per esempio, passa dai profumi di mela e limone in clima fresco a pesca e ananas in clima caldo.",
+    "Dans les régions chaudes, les températures moyennes sont élevées et le soleil est intense ; le raisin mûrit donc régulièrement et pleinement. Cela donne plus de sucre, moins d'acidité et des saveurs plus mûres. Le Chardonnay, par exemple, passe de la pomme et du citron en climat frais à la pêche et à l'ananas en climat chaud.",
+    "In warm regions average temperatures are high and the sunshine is intense, so grapes ripen fully and reliably. This brings more sugar, less acidity and riper flavours. Chardonnay, for example, moves from apple and lemon aromas in a cool climate to peach and pineapple in a warm one.",
+    "En las regiones cálidas las temperaturas medias son altas y el sol es intenso, así que la uva madura del todo y con regularidad. Esto aporta más azúcar, menos acidez y sabores más maduros. La Chardonnay, por ejemplo, pasa de aromas de manzana y limón en clima fresco a melocotón y piña en clima cálido."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Uno Chardonnay con profumi di mela e limone viene probabilmente da…",
+    "Un Chardonnay aux arômes de pomme et de citron vient probablement…",
+    "A Chardonnay with apple and lemon aromas most likely comes from…",
+    "Una Chardonnay con aromas de manzana y limón probablemente procede de…"
+   ],
+   "o": [
+    [
+     "Un clima fresco",
+     "D'un climat frais",
+     "A cool climate",
+     "Un clima fresco"
+    ],
+    [
+     "Un clima caldo",
+     "D'un climat chaud",
+     "A warm climate",
+     "Un clima cálido"
+    ],
+    [
+     "Un clima tropicale",
+     "D'un climat tropical",
+     "A tropical climate",
+     "Un clima tropical"
+    ],
+    [
+     "Un clima molto secco",
+     "D'un climat très sec",
+     "A very dry climate",
+     "Un clima muy seco"
+    ]
+   ],
+   "e": [
+    "Frutta verde e agrumi indicano uva meno matura, tipica del clima fresco.",
+    "Fruits verts et agrumes signalent un raisin moins mûr, typique du climat frais.",
+    "Green fruit and citrus point to less ripe, cool-climate grapes.",
+    "La fruta verde y los cítricos indican uva menos madura, típica del clima fresco."
+   ],
+   "d": [
+    "Il clima cambia il tipo di frutta che si sente nel vino. In clima fresco lo Chardonnay dà frutta verde come la mela e agrumi come il limone. In clima caldo, con uva più matura, mostra frutta a nocciolo come la pesca e frutta tropicale come l'ananas.",
+    "Le climat change le type de fruits que l'on perçoit dans le vin. En climat frais, le Chardonnay donne des fruits verts comme la pomme et des agrumes comme le citron. En climat chaud, avec un raisin plus mûr, il montre des fruits à noyau comme la pêche et des fruits tropicaux comme l'ananas.",
+    "Climate changes the type of fruit you find in a wine. In a cool climate Chardonnay gives green fruit such as apple and citrus such as lemon. In a warm climate, with riper grapes, it shows stone fruit such as peach and tropical fruit such as pineapple.",
+    "El clima cambia el tipo de fruta que se percibe en el vino. En clima fresco, la Chardonnay da fruta verde como la manzana y cítricos como el limón. En clima cálido, con uva más madura, muestra fruta de hueso como el melocotón y fruta tropical como la piña."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Perché nelle regioni a clima fresco l'uva, in certe annate, fatica a maturare?",
+    "Pourquoi, dans les régions fraîches, le raisin a-t-il parfois du mal à mûrir ?",
+    "Why can grapes in cool regions struggle to ripen in some years?",
+    "¿Por qué en las regiones frescas a la uva le cuesta a veces madurar?"
+   ],
+   "o": [
+    [
+     "Temperature basse e sole più debole",
+     "Températures basses et soleil plus faible",
+     "Low temperatures and weaker sunlight",
+     "Temperaturas bajas y sol más débil"
+    ],
+    [
+     "Temperature alte e sole più intenso",
+     "Températures élevées et soleil plus intense",
+     "High temperatures and stronger sunlight",
+     "Temperaturas altas y sol más intenso"
+    ],
+    [
+     "Inverni troppo miti per riposare",
+     "Hivers trop doux pour se reposer",
+     "Winters too mild for the vine to rest",
+     "Inviernos demasiado suaves para descansar"
+    ],
+    [
+     "Viti troppo giovani per fiorire",
+     "Vignes trop jeunes pour fleurir",
+     "Vines too young to flower",
+     "Vides demasiado jóvenes para florecer"
+    ]
+   ],
+   "e": [
+    "Poco calore e luce più debole rallentano la maturazione dell'uva.",
+    "Peu de chaleur et une lumière plus faible ralentissent la maturation du raisin.",
+    "Little heat and weaker light slow down ripening.",
+    "Poco calor y una luz más débil frenan la maduración."
+   ],
+   "d": [
+    "Le regioni fresche sono più vicine ai poli: le temperature medie sono basse e la luce del sole può essere meno intensa che vicino all'Equatore. In annate particolarmente fresche l'uva può non maturare del tutto. Per questo in queste zone si coltivano spesso uve bianche.",
+    "Les régions fraîches sont plus proches des pôles : les températures moyennes y sont basses et la lumière du soleil peut être moins intense que près de l'équateur. Les années particulièrement fraîches, le raisin peut ne pas mûrir complètement. C'est pourquoi on y cultive souvent des raisins blancs.",
+    "Cool regions lie closer to the poles: average temperatures are low and the sunlight can be less intense than near the Equator. In especially cool years the grapes may not ripen fully. This is one reason white grapes are commonly grown there.",
+    "Las regiones frescas están más cerca de los polos: las temperaturas medias son bajas y la luz del sol puede ser menos intensa que cerca del ecuador. En los años especialmente frescos la uva puede no llegar a madurar del todo. Por eso allí se cultivan a menudo uvas blancas."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Dopo l'impianto, quanto tempo serve in genere perché una vite dia un raccolto ogni anno?",
+    "Après la plantation, combien de temps faut-il en général pour qu'une vigne donne une récolte chaque année ?",
+    "After planting, how long does a vine usually take before it gives a crop every year?",
+    "Tras plantarla, ¿cuánto tarda normalmente una vid en dar cosecha cada año?"
+   ],
+   "o": [
+    [
+     "Un paio d'anni",
+     "Environ deux ans",
+     "A couple of years",
+     "Un par de años"
+    ],
+    [
+     "Pochi mesi",
+     "Quelques mois",
+     "A few months",
+     "Unos meses"
+    ],
+    [
+     "Circa vent'anni",
+     "Environ vingt ans",
+     "About twenty years",
+     "Unos veinte años"
+    ],
+    [
+     "Mezzo secolo",
+     "Un demi-siècle",
+     "Half a century",
+     "Medio siglo"
+    ]
+   ],
+   "e": [
+    "Una vite diventa adulta un paio d'anni dopo l'impianto, poi produce ogni anno.",
+    "Une vigne devient adulte environ deux ans après la plantation, puis produit chaque année.",
+    "A vine matures a couple of years after planting, then crops every year.",
+    "Una vid madura un par de años después de plantarla y luego da cosecha cada año."
+   ],
+   "d": [
+    "La vite è una pianta longeva, che può vivere per diversi decenni. Dopo l'impianto le servono un paio d'anni per diventare adulta; da quel momento produce un raccolto di uva ogni anno, seguendo sempre lo stesso ciclo: fioritura in primavera, maturazione in estate e vendemmia a fine estate.",
+    "La vigne est une plante qui vit longtemps, parfois plusieurs dizaines d'années. Après la plantation, il lui faut environ deux ans pour arriver à maturité ; elle donne ensuite une récolte chaque année, en suivant toujours le même cycle : floraison au printemps, maturation en été et vendanges en fin d'été.",
+    "The vine is a long-lived plant that can survive for several decades. After planting it needs a couple of years to become mature; from then on it gives a crop every year, always following the same cycle: flowering in spring, ripening in summer and harvest in late summer.",
+    "La vid es una planta longeva que puede vivir varias décadas. Tras plantarla necesita un par de años para llegar a la madurez; desde entonces da una cosecha cada año, siguiendo siempre el mismo ciclo: floración en primavera, maduración en verano y vendimia al final del verano."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "p1",
+   "f": [
+    "Buccia dell'uva nera",
+    "Peau du raisin noir",
+    "Black grape skin",
+    "Piel de la uva tinta"
+   ],
+   "b": [
+    "Colore intenso e tannini, che lasciano la bocca secca.",
+    "Couleur intense et tanins, qui assèchent la bouche.",
+    "Deep colour and tannins, which make the mouth feel dry.",
+    "Color intenso y taninos, que dejan la boca seca."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Polpa dell'uva",
+    "Pulpe du raisin",
+    "Grape pulp",
+    "Pulpa de la uva"
+   ],
+   "b": [
+    "Parte morbida con il succo: acqua, zucchero e acido. Stesso colore in tutte le uve.",
+    "Partie tendre contenant le jus : eau, sucre et acide. Même couleur dans tous les raisins.",
+    "Soft part holding the juice: water, sugar and acid. Same colour in all grapes.",
+    "Parte blanda con el zumo: agua, azúcar y ácido. Mismo color en todas las uvas."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Tannini",
+    "Tanins",
+    "Tannins",
+    "Taninos"
+   ],
+   "b": [
+    "Sostanze della buccia delle uve nere che asciugano la bocca.",
+    "Substances de la peau des raisins noirs qui assèchent la bouche.",
+    "Substances in black grape skins that dry out the mouth.",
+    "Sustancias de la piel de las uvas tintas que secan la boca."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Ciclo annuale della vite",
+    "Cycle annuel de la vigne",
+    "The vine's yearly cycle",
+    "Ciclo anual de la vid"
+   ],
+   "b": [
+    "Fioritura in primavera, maturazione in estate, vendemmia a fine estate.",
+    "Floraison au printemps, maturation en été, vendanges en fin d'été.",
+    "Flowering in spring, ripening in summer, picking in late summer.",
+    "Floración en primavera, maduración en verano, vendimia a finales de verano."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Che cosa cambia quando l'uva matura?",
+    "Que change-t-il quand le raisin mûrit ?",
+    "What changes as grapes ripen?",
+    "¿Qué cambia cuando la uva madura?"
+   ],
+   "b": [
+    "Più acqua e zucchero, meno acido, sapori più maturi, cambio di colore.",
+    "Plus d'eau et de sucre, moins d'acide, saveurs plus mûres, changement de couleur.",
+    "More water and sugar, less acid, riper flavours, colour change.",
+    "Más agua y azúcar, menos ácido, sabores más maduros, cambio de color."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Clima fresco",
+    "Climat frais",
+    "Cool climate",
+    "Clima fresco"
+   ],
+   "b": [
+    "Vicino ai poli (Germania, nord della Francia): meno zucchero, più acidità; spesso uve bianche.",
+    "Près des pôles (Allemagne, nord de la France) : moins de sucre, plus d'acidité ; souvent raisins blancs.",
+    "Nearer the poles (Germany, northern France): less sugar, more acidity; often white grapes.",
+    "Cerca de los polos (Alemania, norte de Francia): menos azúcar, más acidez; a menudo uvas blancas."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Clima caldo",
+    "Climat chaud",
+    "Warm climate",
+    "Clima cálido"
+   ],
+   "b": [
+    "Vicino all'Equatore (parti di Australia e California): più zucchero, meno acidità, sapori maturi; spesso uve nere.",
+    "Près de l'équateur (parties de l'Australie et de la Californie) : plus de sucre, moins d'acidité, saveurs mûres ; souvent raisins noirs.",
+    "Nearer the Equator (parts of Australia and California): more sugar, less acidity, riper flavours; often black grapes.",
+    "Cerca del ecuador (partes de Australia y California): más azúcar, menos acidez, sabores maduros; a menudo uvas tintas."
+   ]
+  },
+  {
+   "c": "p1",
+   "f": [
+    "Chardonnay: clima fresco o caldo?",
+    "Chardonnay : climat frais ou chaud ?",
+    "Chardonnay: cool or warm climate?",
+    "Chardonnay: ¿clima fresco o cálido?"
+   ],
+   "b": [
+    "Fresco: mela e limone. Caldo: pesca e ananas.",
+    "Frais : pomme et citron. Chaud : pêche et ananas.",
+    "Cool: apple and lemon. Warm: peach and pineapple.",
+    "Fresco: manzana y limón. Cálido: melocotón y piña."
+   ]
+  }
+ ]
+}

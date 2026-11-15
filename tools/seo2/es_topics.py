@@ -23,11 +23,11 @@ REL = {'/wset-level-3-practice-questions/': ('/es/preguntas-examen-wset-3/', 'Pr
        '/wset-level-3-short-answer-questions/': ('/es/preguntas-abiertas-wset-3/', 'Preguntas de respuesta corta WSET nivel 3: ejemplos y respuestas modelo'), '/wset-systematic-approach-to-tasting/': ('/es/cata-sat-wset/', 'El enfoque sistemático de cata (SAT) del WSET 3'),
        '/wset-level-3-flashcards/': ('/es/flashcards-wset-3/', 'Flashcards WSET nivel 3: uvas, regiones, cifras y términos'), '/how-to-pass-wset-level-3/': ('/es/como-aprobar-wset-3/', 'Cómo aprobar el WSET 3 a la primera'), '/': ('/es/', 'Inicio')}
 FIX = {'Home': 'Inicio', 'WSET 3 questions by region and topic': 'Preguntas WSET 3 por región y tema', 'Sample questions with answers': 'Preguntas de ejemplo con respuestas', 'Show the answer': 'Ver la respuesta',
-       'Answer:': 'Respuesta:', 'Why:': 'Por qué:', 'Practise all of it in the free app': 'Practica todo en la app gratuita',
+       'Answer:': 'Respuesta:', 'Why:': 'Por qué:', 'Practise all of it in the app': 'Practica todo en la app',
        'Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.': 'Tus respuestas quedan guardadas en tu perfil, la app crea tu plan de estudio día a día hasta el examen y te vuelve a proponer tus puntos débiles hasta que los domines.',
-       'Start free – build my plan': 'Empieza gratis – crear mi plan', 'Try the free Bordeaux module': 'Prueba el módulo Burdeos gratis', 'Frequently asked questions': 'Preguntas frecuentes', 'More WSET Level 3 resources': 'Más recursos para el WSET 3',
+       'Start free – build my plan': 'Empieza gratis – crear mi plan', 'Try the Bordeaux questions': 'Prueba las preguntas de Burdeos', 'Frequently asked questions': 'Preguntas frecuentes', 'More WSET Level 3 resources': 'Más recursos para el WSET 3',
        'WSET Level 3 practice questions by region and topic': 'Preguntas WSET nivel 3 por región y tema',
-       'Pick a region or topic of the WSET Level 3 Award in Wines syllabus to see sample questions with answers and explanations. Every page links to the full set in the free app.': 'Elige una región o un tema del temario del WSET Level 3 Award in Wines para ver preguntas de ejemplo con respuestas y explicaciones. Cada página enlaza con la serie completa en la app gratuita.'}
+       'Pick a region or topic of the WSET Level 3 Award in Wines syllabus to see sample questions with answers and explanations. Every page links to the full set in the app.': 'Elige una región o un tema del temario del WSET Level 3 Award in Wines para ver preguntas de ejemplo con respuestas y explicaciones. Cada página enlaza con la serie completa en la app.'}
 NAME = {v: TOP[k][1] for k, v in []}
 EN_NAMES = {}
 
@@ -47,8 +47,8 @@ def tr_text(t, topic):
     if out is None and topic:
         T = topic
         pats = [(rf'WSET Level 3 {re.escape(T[0])}: practice questions with answers', f'WSET nivel 3 {T[1]}: preguntas de examen con respuestas'),
-                (rf'These are real questions from The Wine Goat bank on {re.escape(T[0])}, written to the WSET Level 3 Award in Wines syllabus\. Answer them, read the explanation, then practise the full set of (\d+) questions in the free app, where your mistakes come back until you know them\.',
-                 f'Son preguntas reales del banco de The Wine Goat sobre {T[1]}, escritas según el temario del WSET Level 3 Award in Wines. Respóndelas, lee la explicación y practica la serie completa de \\1 preguntas en la app gratuita, donde tus errores vuelven hasta que los domines.'),
+                (rf'These are real questions from The Wine Goat bank on {re.escape(T[0])}, written to the WSET Level 3 Award in Wines syllabus\. Answer them, read the explanation, then practise the full set of (\d+) questions in the app, where your mistakes come back until you know them\.',
+                 f'Son preguntas reales del banco de The Wine Goat sobre {T[1]}, escritas según el temario del WSET Level 3 Award in Wines. Respóndelas, lee la explicación y practica la serie completa de \\1 preguntas en la app, donde tus errores vuelven hasta que los domines.'),
                 (r'(\d+) questions on this topic in the app', r'\1 preguntas sobre este tema en la app'),
                 (rf'How many questions on {re.escape(T[0])} are in The Wine Goat\?', f'¿Cuántas preguntas sobre {T[1]} tiene The Wine Goat?'),
                 (rf'The app has (\d+) multiple-choice questions on {re.escape(T[0])}, each with an explanation, plus short written answer questions and flashcards on the same topic\.', f'La app tiene \\1 preguntas tipo test sobre {T[1]}, cada una con su explicación, además de preguntas de respuesta corta y flashcards sobre el mismo tema.'),

@@ -34,7 +34,7 @@
     "Tap the card to turn it over": "Tocá la tarjeta para darla vuelta", "Not yet: you need 55%": "Todavía no: necesitás un 55 %" };
   const X = window.TWG_ESX || (window.TWG_ESX = { es: {}, ar: {} });
   Object.assign(X.es, ES); Object.assign(X.ar, AR);
-  const C = window.TWG_L2C;
+  const C = window.TWG_L2C || window.TWG_L1C, LV = C.level;
   let les = null, fl = { c: "", i: 0, flip: false, order: null }, timer = null;
 
   function lvSwitch() {
@@ -46,7 +46,7 @@
   function study() {
     const row = (attr, ic, ti, sub) => `<button type="button" class="hubrow" ${attr}><span class="hub-ic">${ICO[ic] || ""}</span><span class="hub-tx"><b>${esc(ti)}</b><span>${esc(sub)}</span></span>${ICO.chev}</button>`;
     return `<section class="view hub area-wset">${lvSw()}${hubHead("ban-wset", "l2Kick", "l2Title", "l2Intro", "n37")}
-      <button type="button" class="mockcard" data-l2="exam"><span class="mk-seal"> <br><b>2</b></span><span class="mk-tx"><b>${esc(t("l2Mock"))}</b><span>${esc(t("l2MockD"))}</span></span>${ICO.chev}</button>
+      <button type="button" class="mockcard" data-l2="exam"><span class="mk-seal"> <br><b>${LV}</b></span><span class="mk-tx"><b>${esc(t("l2Mock"))}</b><span>${esc(t("l2MockD"))}</span></span>${ICO.chev}</button>
       <h2 class="hsec">${esc(t("l2Sec"))}</h2>
       <div class="hublist">${row('data-go="l2les"', "schemi", t("l2Les"), t("l2LesD"))}${row('data-go="practice"', "quiz", t("l2Quiz"), t("l2QuizD"))}${row('data-go="l2fl"', "grapes", t("l2Fl"), t("l2FlD"))}</div></section>`;
   }
@@ -144,7 +144,15 @@
   document.addEventListener("change", e => { if (e.target && e.target.id === "l2-flc") { fl.c = e.target.value; fl.order = null; render(); } });
 
   function init() {
-    ["it", "fr", "en"].forEach(l => Object.assign(T[l], UI[l]));
+    /* the same screens serve Level 1 and Level 2: put the right level number and exam rules in the texts */
+    const E = C.exam, MOCK = { it: `${E.questions} domande in ${E.minutes} minuti, come il giorno dell'esame · soglia ${E.pass}%`, fr: `${E.questions} questions en ${E.minutes} minutes, comme le jour J · seuil ${E.pass} %`, en: `${E.questions} questions in ${E.minutes} minutes, just like exam day · pass mark ${E.pass}%` };
+    const MOCKES = `${E.questions} preguntas en ${E.minutes} minutos, como el día del examen · aprobado con ${E.pass} %`;
+    const NUM = ["tab_study", "l2Title", "l2Intro", "l2RevT", "l2RevI", "l2PlayT", "l2PlayI"];
+    ["it", "fr", "en"].forEach(l => { const u = Object.assign({}, UI[l]); if (LV !== 2) NUM.forEach(k => { const o = u[k]; u[k] = o.replace(/\b2\b/g, LV); if (l === "en" && ES[o]) ES[u[k]] = ES[o].replace(/\b2\b/g, LV); if (l === "en" && AR[o]) AR[u[k]] = AR[o].replace(/\b2\b/g, LV); }); u.l2MockD = MOCK[l];
+      if (LV === 1) Object.assign(u, { plG_merit: { it: "Pass 85%+", fr: "Pass 85 %+", en: "Pass 85%+" }[l], plG_dist: { it: "Pass 95%+", fr: "Pass 95 %+", en: "Pass 95%+" }[l], plGoalD: { it: "Si supera con il 70%: più alto è l'obiettivo, più domande al giorno.", fr: "Réussite dès 70 % : plus l'objectif est élevé, plus il y a de questions par jour.", en: "You pass with 70%: the higher the goal, the more questions per day." }[l] });
+      Object.assign(T[l], u); });
+    ES[MOCK.en] = MOCKES; if (LV === 1) ES["You pass with 70%: the higher the goal, the more questions per day."] = "Se aprueba con el 70 %: cuanto más alto el objetivo, más preguntas al día.";
+    Object.assign(X.es, ES); Object.assign(X.ar, AR);
     Object.assign(TABG, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBV, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBT, { l2les: "l2Les", l2fl: "l2Fl", l2match: "l2Match" });
     const st = document.createElement("style");
     st.textContent = `.lvsw{display:flex;align-items:center;gap:6px;margin:0 0 12px;font-size:13px;color:var(--muted)}.lvsw span{margin-right:4px}

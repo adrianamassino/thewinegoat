@@ -432,7 +432,7 @@ PAGES['l2vsl3'] = {
 UI = {
  'en': dict(home='Home', faq='Frequently asked questions', more='More WSET 3 resources', start='Start free – build my plan', test='Take the free level test', btn='Start free', app='/app/?lang=en'),
  'it': dict(home='Home', faq='Domande frequenti', more='Altre risorse per il WSET 3', start='Inizia gratis – crea il mio piano', test='Fai il test di livello gratuito', btn='Inizia gratis', app='/app/?lang=it'),
- 'fr': dict(home='Accueil', faq='Questions fréquentes', more='Plus de ressources pour le WSET 3', start='Commencer gratuitement – créer mon plan', test='Faire le test de niveau gratuit', btn='Commencer', app='/app/?lang=fr'),
+ 'fr': dict(home='Accueil', faq='Questions fréquentes', more='Plus de ressources pour le WSET 3', start='Commencer – créer mon plan', test='Faire le test de niveau gratuit', btn='Commencer', app='/app/?lang=fr'),
  'es': dict(home='Inicio', faq='Preguntas frecuentes', more='Más recursos para el WSET 3', start='Empieza gratis – crear mi plan', test='Haz el test de nivel gratis', btn='Empieza gratis', app='/app/?lang=es'),
 }
 HOME = {'en': '/', 'it': '/it/', 'fr': '/fr/', 'es': '/es/'}
