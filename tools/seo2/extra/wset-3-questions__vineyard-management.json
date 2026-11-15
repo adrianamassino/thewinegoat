@@ -1,0 +1,322 @@
+{
+"en": {
+"sections": [
+{"h2": "Study notes: vineyard management and pruning for WSET Level 3"},
+{"p": "WSET Level 3 vineyard management questions test whether you can link a grower's decision to its effect on the grapes and then on the wine. Every choice in the vineyard, from rootstock to harvest date, changes yield, ripeness, health or cost, and the examiner wants that chain of cause and effect, not a list of terms. These study notes cover the full vineyard year as it is examined at Level 3: establishing a vineyard, training and pruning, canopy and yield control, water and soil management, pests and diseases, hazards such as frost, and harvesting."},
+{"h2": "Planting a vineyard: rootstocks, propagation and density"},
+{"h3": "Why grafting onto rootstocks matters"},
+{"p": "Most of the world's vines are Vitis vinifera grafted onto rootstocks from American vine species or their hybrids. The main reason is phylloxera, a root-feeding aphid that kills ungrafted vinifera vines but does little harm to American species. Rootstocks are also chosen for resistance to nematodes, tolerance of drought, lime-rich or salty soils, and for the vigour they give the vine. A high-vigour rootstock suits poor soils; a low-vigour one helps control growth on fertile soils. A few areas, such as parts of Chile and South Australia, still have many ungrafted vines because phylloxera has not become established there."},
+{"h3": "Propagation: cuttings, layering and grafting"},
+{"p": "New vines are propagated from cuttings, so each vine is genetically identical to its parent. Layering, where a cane is bent into the soil until it roots, fills gaps in an existing vineyard but only works on ungrafted vines. Grafting can be done in a nursery (bench grafting) or in the field; top grafting a new variety onto an established trunk lets a grower change variety quickly, with a crop within a year or two."},
+{"h3": "Clonal selection and mass selection"},
+{"p": "Clonal selection plants cuttings from one chosen mother vine, giving uniform vines with known traits such as yield, ripening time or disease resistance. Mass selection takes cuttings from many good vines in a vineyard, keeping more genetic diversity, which some growers believe adds complexity to the wine."},
+{"h3": "Vine density"},
+{"p": "Vine density is the number of vines per hectare. In dry, low-fertility regions vines are planted far apart so each one has enough water and nutrients. In fertile, well-watered sites high density makes vines compete, which limits vigour and yield per vine. Classic regions such as Bordeaux and Burgundy can reach around 10,000 vines per hectare, while wide rows are also needed where tractors and machine harvesters must pass."},
+{"h2": "Training, pruning and trellising: the WSET 3 vocabulary"},
+{"p": "Training, pruning and trellising are three different things, and mixing them up is one of the most common errors in WSET 3 vineyard management answers. Training is the shape of the permanent wood, pruning is the removal of unwanted parts of the vine, and trellising is the support system of posts and wires."},
+{"table": {"head": ["System", "How it works", "Typical use and effect"], "rows": [
+["Spur-pruned bush vine (gobelet)", "Head-trained, short spurs, no trellis", "Hot, dry, sunny sites; leaves shade the fruit; hand harvesting only"],
+["Guyot (single or double)", "Head-trained, one or two replacement canes laid on a wire", "Cool and moderate regions such as Burgundy and Bordeaux; needs skilled pruners"],
+["Spur-pruned cordon (e.g. Cordon de Royat)", "Permanent horizontal arm with short spurs", "Simple to prune and partly mechanise; even spacing of shoots"],
+["Vertical shoot positioning (VSP)", "Shoots trained upwards between pairs of foliage wires", "Fruit in one zone, easy spraying, leaf removal and machine harvesting"],
+["Pergola (tendone, parral)", "High overhead canopy", "Shades fruit in hot sites, keeps grapes away from humid ground; used historically for high yields"]
+]}},
+{"h3": "Winter pruning and summer pruning"},
+{"p": "Winter pruning, carried out while the vine is dormant, decides how many buds are left and therefore the potential number of shoots and bunches. Leaving more buds raises yield; leaving fewer concentrates the vine's resources. Summer pruning covers trimming shoots, removing leaves and green harvesting to keep the canopy in balance during the growing season."},
+{"tip": "Exam technique: when a short written answer asks how a grower can control yield, give at least three separate tools with an effect for each: fewer buds at winter pruning, choice of rootstock and density, green harvesting, controlled irrigation and fertiliser. One tool explained well beats five named without explanation."},
+{"h2": "Canopy management and yield"},
+{"p": "Canopy management means organising the leaves and shoots so that the grapes receive the right amount of sunlight and air. A dense, shaded canopy leads to under-ripe flavours, high acidity, herbaceous notes and higher disease risk because the fruit zone stays damp. An open canopy improves ripening, colour and flavour, and lets sprays reach the bunches. In hot climates, however, too much exposure can sunburn the grapes, so growers keep some leaf cover on the side facing the afternoon sun."},
+{"ul": [
+"Shoot positioning: tying shoots to wires so leaves and bunches are evenly spread.",
+"Leaf removal around the bunches: more sunlight and airflow, less rot, better colour in black grapes.",
+"Shoot thinning: removing surplus shoots in spring to avoid crowding.",
+"Green harvesting: cutting off some bunches before or around veraison so the remaining grapes ripen more fully; it is costly and not always effective if the vine is out of balance.",
+"Trimming: cutting back long shoots so the canopy does not shade the next row."
+]},
+{"p": "A balanced vine has the right ratio of leaf area to fruit: enough leaves to ripen the crop, but not so much vigour that energy goes into shoots instead of grapes. High yields usually dilute flavour and slow ripening, which is why many quality appellations set maximum yields in hectolitres per hectare."},
+{"h2": "Water, soil and nutrients"},
+{"p": "The vine needs water for photosynthesis and to keep growing, but a moderate water deficit during ripening slows shoot growth and pushes energy into the grapes, giving smaller berries with more concentrated flavour and tannin. Severe water stress, on the other hand, stops photosynthesis and ripening altogether. Where rainfall is low, irrigation is essential: drip irrigation gives precise, efficient control, flood irrigation is cheap where water is plentiful, and sprinklers can also protect against frost. Some regions restrict irrigation for quality wines, and water availability is a growing issue with climate change."},
+{"p": "Soil management controls weeds and vine competition. Growers can cultivate (plough) between rows, use herbicides, lay mulch, or grow cover crops. Cover crops compete with the vine for water and nitrogen, reducing vigour in fertile sites, and they also improve soil structure and limit erosion on slopes. Fertilisers replace nutrients removed by the harvest, but too much nitrogen gives excessive vigour, shaded canopies and more disease."},
+{"h2": "Pests, diseases and natural hazards"},
+{"h3": "Fungal, viral and bacterial problems"},
+{"table": {"head": ["Problem", "Cause and conditions", "Main remedy"], "rows": [
+["Powdery mildew (oidium)", "Fungus; warm, shaded canopies, does not need rain", "Sulfur sprays, open canopy"],
+["Downy mildew (peronospora)", "Fungus-like organism; warm, wet weather", "Copper sprays such as Bordeaux mixture"],
+["Grey rot (Botrytis bunch rot)", "Botrytis cinerea in humid conditions, especially on damaged or tight bunches", "Open canopy, fungicides, careful handling"],
+["Trunk diseases (e.g. esca, eutypa dieback)", "Fungi entering through pruning wounds", "Careful pruning, protecting wounds; few cures"],
+["Viruses (leafroll, fanleaf)", "Spread by grafting or by insects and nematodes", "No cure: virus-free planting material, replanting"],
+["Pierce's disease", "Bacterium spread by sharpshooter insects", "Control the insect; no cure for infected vines"]
+]}},
+{"h3": "Approaches to vineyard management"},
+{"p": "Conventional viticulture uses synthetic sprays to prevent problems. Integrated pest management (IPM) monitors pest levels and acts only when needed, combining natural predators, cultural methods and targeted sprays. Organic viticulture bans synthetic pesticides and fertilisers but allows copper and sulfur, so more frequent spraying can be needed in wet years. Biodynamic viticulture follows organic rules and adds specific preparations and a calendar based on lunar and cosmic rhythms."},
+{"h3": "Frost, winter cold and hail"},
+{"p": "Spring frost after budburst can destroy young shoots and the crop. Growers protect vines with heaters or candles, wind machines that mix warmer air from above with cold air near the ground, and sprinklers that coat buds in ice, which releases latent heat as it freezes. Late pruning delays budburst. Extreme winter cold can kill the vine itself, so in very cold regions soil is piled up over the graft union (hilling up). Hail damages leaves, shoots and grapes and opens the way to rot; nets are the main protection."},
+{"h2": "Harvesting: when and how"},
+{"p": "The harvest date balances sugar, acidity, flavour and tannin ripeness against the weather forecast, disease risk and the availability of pickers or machines. Grapes for sparkling base wine are picked early for high acidity, while grapes for sweet wines may be picked very late."},
+{"table": {"head": ["Hand harvesting", "Machine harvesting"], "rows": [
+["Selective: unhealthy or unripe bunches can be left", "Fast and cheaper per hectare once the machine is paid for"],
+["Whole bunches intact, needed for whole-bunch pressing and carbonic maceration", "Can pick at night, when grapes are cool, and quickly before bad weather"],
+["Possible on steep slopes and untrellised bush vines", "Needs suitable trellising and gentle slopes; berries can be split, risking oxidation"],
+["Slow, expensive, depends on available labour", "Cannot select; material other than grapes may need sorting out"]
+]}},
+{"h2": "How to revise vineyard management in 15 minutes a day"},
+{"ol": [
+"Day 1: write out the vine's annual cycle and add one vineyard task to each stage.",
+"Day 2: draw the four training and pruning combinations (head/cordon, spur/cane) from memory.",
+"Day 3: learn the disease table and practise one sentence per disease: cause, conditions, remedy.",
+"Day 4: explain three frost protection methods and why each works.",
+"Day 5: list hand versus machine harvesting and link each point to a wine style.",
+"Day 6: answer ten timed multiple-choice questions on this topic in the free app, then review every mistake.",
+"Day 7: write one short written answer on yield control and mark it against the cause, effect, style structure."
+]},
+{"tip": "Common mistake: writing that low yields always make better wine. A vine can be out of balance at low yields too. At WSET Level 3, explain that the aim is a balanced vine that ripens its crop fully, and that maximum yields are a legal or quality tool rather than a guarantee."}
+],
+"faq": [
+["What is the difference between training and pruning for WSET 3?", "Training describes the permanent shape of the vine's wood, either head-trained or cordon-trained, and either low or high. Pruning is the removal of unwanted wood and shoots. Winter pruning sets the number of buds, either on short spurs or on longer replacement canes, while summer pruning manages the canopy during the growing season. Many candidates confuse the two in written answers."],
+["Which frost protection methods do I need to know for WSET Level 3?", "Know heaters or candles, wind machines, sprinklers and late pruning for spring frost, plus site selection away from frost pockets. Sprinklers work because freezing water releases heat that keeps the bud near 0 °C. Wind machines only work during radiation frosts with a warmer layer of air above. For winter cold, know that soil is heaped over the graft union to protect it."],
+["Why are vines grafted onto rootstocks in WSET 3?", "Vines are grafted mainly to resist phylloxera, an aphid that attacks the roots of Vitis vinifera but not of American vine species. Rootstocks also bring resistance to nematodes, tolerance of drought, salt or lime-rich soils, and they influence vine vigour. Choosing the right rootstock for a site is one of the first and longest-lasting decisions a grower makes."],
+["What is the difference between powdery and downy mildew for WSET Level 3?", "Powdery mildew (oidium) thrives in warm, shaded canopies and does not need rain; it is controlled with sulfur. Downy mildew (peronospora) needs warm, wet weather and is controlled with copper sprays such as Bordeaux mixture. Both attack the green parts of the vine and the grapes, reduce yield and can give off-flavours, so open canopies help prevent them."],
+["Is organic viticulture the same as biodynamic for WSET 3?", "No. Organic viticulture bans synthetic fertilisers, herbicides and pesticides but allows copper and sulfur sprays. Biodynamic viticulture follows the same restrictions and adds special preparations applied to soil and vines, plus a calendar linked to lunar and cosmic cycles. Both are certified by independent bodies, and both can cost more because of extra labour and lower yields in difficult years."]
+]
+},
+"it": {
+"sections": [
+{"h2": "Appunti di studio: gestione del vigneto e potatura per il WSET Livello 3"},
+{"p": "Le domande del WSET Livello 3 sulla gestione del vigneto verificano se sai collegare una scelta del viticoltore al suo effetto sull'uva e poi sul vino. Ogni decisione in vigna, dal portinnesto alla data di vendemmia, modifica resa, maturazione, sanità o costi, e chi corregge l'esame cerca proprio questa catena di causa ed effetto, non un elenco di termini. Questi appunti coprono tutto l'anno viticolo come viene esaminato al Livello 3: impianto, forme di allevamento e potatura, gestione della chioma e della resa, acqua e suolo, malattie e parassiti, gelate e grandine, vendemmia."},
+{"h2": "Impiantare un vigneto: portinnesti, propagazione e densità"},
+{"h3": "Perché si innesta su portinnesto"},
+{"p": "La maggior parte delle viti nel mondo è Vitis vinifera innestata su portinnesti di specie americane o loro ibridi. Il motivo principale è la fillossera, un afide che si nutre delle radici e uccide la vinifera non innestata, mentre fa pochi danni alle specie americane. I portinnesti si scelgono anche per la resistenza ai nematodi, la tolleranza alla siccità, ai suoli calcarei o salini e per il vigore che conferiscono. Un portinnesto vigoroso è adatto ai suoli poveri, uno poco vigoroso aiuta a frenare la crescita nei suoli fertili. Alcune zone, come parti del Cile e del South Australia, hanno ancora molte viti a piede franco perché la fillossera non vi si è diffusa."},
+{"h3": "Propagazione: talee, propaggine e innesto"},
+{"p": "Le nuove viti si ottengono da talee, quindi ogni pianta è geneticamente identica alla pianta madre. La propaggine, cioè interrare un tralcio finché non radica, serve a riempire le fallanze in un vigneto esistente ma funziona solo con viti non innestate. L'innesto si fa in vivaio (innesto al banco) oppure in campo; il sovrainnesto di una nuova varietà su un tronco già adulto permette di cambiare vitigno in fretta, con un raccolto dopo uno o due anni."},
+{"h3": "Selezione clonale e selezione massale"},
+{"p": "La selezione clonale moltiplica una sola pianta madre scelta, dando viti uniformi con caratteristiche note: resa, epoca di maturazione, resistenza alle malattie. La selezione massale preleva talee da molte buone viti dello stesso vigneto e conserva più diversità genetica, che secondo molti produttori aggiunge complessità al vino."},
+{"h3": "Densità d'impianto"},
+{"p": "La densità è il numero di viti per ettaro. Nelle zone aride e poco fertili le viti si piantano distanti perché ognuna abbia acqua e nutrienti a sufficienza. Nei terreni fertili e ben irrigati un'alta densità mette le viti in competizione e limita vigore e produzione per pianta. Regioni classiche come Bordeaux e la Borgogna arrivano a circa 10.000 viti per ettaro, mentre file larghe servono dove devono passare trattori e vendemmiatrici."},
+{"h2": "Forma di allevamento, potatura e palizzata: il lessico del WSET 3"},
+{"p": "Forma di allevamento, potatura e sistema di sostegno sono tre cose diverse, e confonderle è uno degli errori più frequenti nelle risposte del WSET 3 sulla gestione del vigneto. La forma riguarda la struttura del legno permanente, la potatura è l'eliminazione delle parti indesiderate, la palizzata è il sistema di pali e fili."},
+{"table": {"head": ["Sistema", "Come funziona", "Uso tipico ed effetto"], "rows": [
+["Alberello (gobelet) potato a sperone", "Allevamento a testa, speroni corti, senza sostegni", "Zone calde, secche e soleggiate; le foglie ombreggiano i grappoli; solo vendemmia a mano"],
+["Guyot (semplice o doppio)", "Allevamento a testa, uno o due capi a frutto rinnovati ogni anno su un filo", "Zone fresche e temperate come Borgogna e Bordeaux; richiede potatori esperti"],
+["Cordone speronato (es. Cordon de Royat)", "Braccio orizzontale permanente con speroni corti", "Potatura semplice e in parte meccanizzabile; germogli ben distribuiti"],
+["Spalliera con germogli verticali (VSP)", "Germogli guidati verso l'alto tra coppie di fili", "Grappoli in una sola fascia: trattamenti, sfogliatura e vendemmia meccanica facili"],
+["Pergola e tendone", "Chioma alta orizzontale", "Ombreggia i grappoli nei climi caldi e li tiene lontani dal suolo umido; storicamente usata per rese alte"]
+]}},
+{"h3": "Potatura invernale e potatura verde"},
+{"p": "La potatura invernale, eseguita durante il riposo vegetativo, stabilisce quante gemme lasciare e quindi il numero potenziale di germogli e grappoli. Più gemme significano più resa; meno gemme concentrano le risorse della pianta. La potatura verde comprende cimatura, sfogliatura e diradamento dei grappoli per tenere la chioma in equilibrio durante la stagione."},
+{"tip": "Tecnica d'esame: se una domanda a risposta breve chiede come controllare la resa, indica almeno tre strumenti distinti con l'effetto di ciascuno: meno gemme alla potatura invernale, scelta di portinnesto e densità, diradamento, irrigazione e concimazione controllate. Uno strumento ben spiegato vale più di cinque solo nominati."},
+{"h2": "Gestione della chioma e della resa"},
+{"p": "Gestire la chioma significa organizzare foglie e germogli perché i grappoli ricevano la giusta quantità di luce e di aria. Una chioma fitta e ombreggiata porta aromi poco maturi, acidità alta, note erbacee e più rischio di malattie, perché la zona dei grappoli resta umida. Una chioma aperta migliora maturazione, colore e aromi e permette ai trattamenti di raggiungere l'uva. Nei climi caldi però un'esposizione eccessiva provoca scottature, quindi si lascia qualche foglia sul lato del sole pomeridiano."},
+{"ul": [
+"Palizzamento: legare i germogli ai fili per distribuire foglie e grappoli in modo uniforme.",
+"Sfogliatura nella zona dei grappoli: più luce e aria, meno muffe, colore migliore nelle uve nere.",
+"Scacchiatura: eliminare in primavera i germogli in eccesso per evitare l'affollamento.",
+"Diradamento dei grappoli (vendemmia verde): togliere una parte dei grappoli prima o intorno all'invaiatura perché gli altri maturino meglio; costoso e poco efficace se la vite non è in equilibrio.",
+"Cimatura: accorciare i germogli lunghi perché non ombreggino il filare vicino."
+]},
+{"p": "Una vite equilibrata ha il giusto rapporto tra superficie fogliare e frutti: foglie sufficienti a maturare l'uva, ma non un vigore tale da dirottare energia nei germogli. Le rese alte di solito diluiscono gli aromi e rallentano la maturazione, ed è per questo che molte denominazioni fissano rese massime in ettolitri per ettaro."},
+{"h2": "Acqua, suolo e nutrienti"},
+{"p": "La vite ha bisogno di acqua per la fotosintesi e per crescere, ma un deficit idrico moderato durante la maturazione rallenta la crescita dei germogli e spinge l'energia verso i grappoli: acini più piccoli, aromi e tannini più concentrati. Uno stress idrico grave invece blocca fotosintesi e maturazione. Dove piove poco l'irrigazione è indispensabile: a goccia per un controllo preciso ed efficiente, per scorrimento dove l'acqua costa poco, a pioggia anche come difesa antibrina. Alcune zone limitano l'irrigazione per i vini di qualità, e la disponibilità d'acqua è un problema crescente con il cambiamento climatico."},
+{"p": "La gestione del suolo controlla le infestanti e la competizione con la vite. Si può lavorare il terreno tra i filari, usare diserbanti, pacciamare o inerbire. L'inerbimento compete con la vite per acqua e azoto, riducendo il vigore nei terreni fertili, migliora la struttura del suolo e limita l'erosione in pendenza. I concimi restituiscono i nutrienti asportati dalla vendemmia, ma troppo azoto dà vigore eccessivo, chiome ombreggiate e più malattie."},
+{"h2": "Malattie, parassiti e calamità naturali"},
+{"h3": "Problemi fungini, virali e batterici"},
+{"table": {"head": ["Problema", "Causa e condizioni", "Rimedio principale"], "rows": [
+["Oidio (mal bianco)", "Fungo; chiome calde e ombreggiate, non serve la pioggia", "Zolfo, chioma aperta"],
+["Peronospora", "Organismo simile a un fungo; tempo caldo e umido", "Prodotti rameici come la poltiglia bordolese"],
+["Muffa grigia (botrite)", "Botrytis cinerea con umidità, soprattutto su acini danneggiati o grappoli compatti", "Chioma aperta, fungicidi, manipolazione attenta"],
+["Malattie del legno (mal dell'esca, eutipiosi)", "Funghi che entrano dai tagli di potatura", "Potatura accurata, protezione delle ferite; poche cure"],
+["Virus (accartocciamento fogliare, arricciamento)", "Trasmessi dall'innesto o da insetti e nematodi", "Nessuna cura: materiale sano, reimpianto"],
+["Malattia di Pierce", "Batterio trasmesso da cicaline", "Controllo dell'insetto; nessuna cura per le viti infette"]
+]}},
+{"h3": "Approcci alla gestione del vigneto"},
+{"p": "La viticoltura convenzionale usa trattamenti di sintesi per prevenire i problemi. La lotta integrata monitora i parassiti e interviene solo quando serve, combinando predatori naturali, pratiche colturali e trattamenti mirati. Il biologico vieta pesticidi e concimi di sintesi ma ammette rame e zolfo, quindi nelle annate piovose possono servire più passaggi. Il biodinamico segue le regole del biologico e aggiunge preparati specifici e un calendario legato ai ritmi lunari e cosmici."},
+{"h3": "Gelate, freddo invernale e grandine"},
+{"p": "Le gelate primaverili dopo il germogliamento possono distruggere i giovani germogli e il raccolto. Si difendono le viti con bruciatori o candele, ventilatori che rimescolano l'aria più calda in quota con quella fredda al suolo, e irrigazione antibrina che ricopre le gemme di ghiaccio: congelando, l'acqua libera calore latente. La potatura tardiva ritarda il germogliamento. Il freddo invernale estremo può uccidere la pianta, perciò nelle zone molto fredde si rincalza la terra sul punto d'innesto. La grandine danneggia foglie, germogli e acini e apre la strada alle muffe; la difesa principale sono le reti."},
+{"h2": "Vendemmia: quando e come"},
+{"p": "La data di vendemmia bilancia zuccheri, acidità, maturità aromatica e dei tannini con le previsioni meteo, il rischio di malattie e la disponibilità di vendemmiatori o macchine. Le uve per le basi spumante si raccolgono presto per avere acidità alta, quelle per i vini dolci anche molto tardi."},
+{"table": {"head": ["Vendemmia manuale", "Vendemmia meccanica"], "rows": [
+["Selettiva: si lasciano grappoli malati o acerbi", "Rapida e meno costosa per ettaro una volta ammortizzata la macchina"],
+["Grappoli interi, necessari per la pressatura a grappolo intero e la macerazione carbonica", "Si può raccogliere di notte, con uva fresca, e in fretta prima del maltempo"],
+["Possibile su pendii ripidi e alberelli senza sostegno", "Richiede palizzata adatta e pendenze dolci; gli acini possono rompersi e ossidarsi"],
+["Lenta, costosa, dipende dalla manodopera", "Non seleziona; serve una cernita del materiale estraneo"]
+]}},
+{"h2": "Come ripassare la gestione del vigneto in 15 minuti al giorno"},
+{"ol": [
+"Giorno 1: scrivi il ciclo annuale della vite e associa un lavoro in vigna a ogni fase.",
+"Giorno 2: disegna a memoria le quattro combinazioni di allevamento e potatura (testa/cordone, sperone/capo a frutto).",
+"Giorno 3: impara la tabella delle malattie con una frase per ciascuna: causa, condizioni, rimedio.",
+"Giorno 4: spiega tre metodi di difesa antibrina e perché funzionano.",
+"Giorno 5: confronta vendemmia manuale e meccanica collegando ogni punto a uno stile di vino.",
+"Giorno 6: rispondi a dieci domande a scelta multipla a tempo nell'app gratuita e rivedi ogni errore.",
+"Giorno 7: scrivi una risposta breve sul controllo della resa e valutala con lo schema causa, effetto, stile."
+]},
+{"tip": "Errore frequente: scrivere che le rese basse danno sempre vini migliori. Anche una vite a bassa resa può essere squilibrata. Al WSET Livello 3 spiega che l'obiettivo è una vite in equilibrio che porti a piena maturazione il suo carico, e che le rese massime sono uno strumento legale o qualitativo, non una garanzia."}
+],
+"faq": [
+["Che differenza c'è tra forma di allevamento e potatura per il WSET 3?", "La forma di allevamento descrive la struttura permanente del legno della vite: a testa o a cordone, bassa o alta. La potatura è l'eliminazione di legno e germogli indesiderati. La potatura invernale fissa il numero di gemme, su speroni corti o su capi a frutto più lunghi, mentre la potatura verde gestisce la chioma durante la stagione. Molti candidati confondono i due concetti nelle risposte scritte."],
+["Quali metodi antibrina bisogna conoscere per il WSET Livello 3?", "Bruciatori o candele, ventilatori, irrigazione antibrina e potatura tardiva per le gelate primaverili, oltre alla scelta di siti lontani dalle sacche di aria fredda. L'irrigazione funziona perché l'acqua che gela libera calore e tiene la gemma vicino a 0 °C. I ventilatori servono solo con gelate da irraggiamento, quando sopra c'è uno strato d'aria più calda. Per il freddo invernale si rincalza la terra sull'innesto."],
+["Perché le viti si innestano su portinnesto nel WSET 3?", "Soprattutto per resistere alla fillossera, un afide che attacca le radici della Vitis vinifera ma non quelle delle specie americane. Il portinnesto dà anche resistenza ai nematodi, tolleranza a siccità, salinità o calcare, e influisce sul vigore della pianta. Scegliere il portinnesto giusto per il sito è una delle prime decisioni del viticoltore e una delle più durature."],
+["Che differenza c'è tra oidio e peronospora per il WSET Livello 3?", "L'oidio prospera in chiome calde e ombreggiate e non ha bisogno di pioggia; si combatte con lo zolfo. La peronospora richiede tempo caldo e umido e si combatte con prodotti rameici come la poltiglia bordolese. Entrambi colpiscono le parti verdi della vite e i grappoli, riducono la resa e possono dare difetti aromatici, perciò una chioma aperta aiuta a prevenirli."],
+["Biologico e biodinamico sono la stessa cosa per il WSET 3?", "No. Il biologico vieta concimi, diserbanti e pesticidi di sintesi ma ammette rame e zolfo. Il biodinamico rispetta gli stessi divieti e aggiunge preparati specifici da distribuire su suolo e piante, più un calendario legato ai cicli lunari e cosmici. Entrambi sono certificati da enti indipendenti e possono costare di più per la manodopera extra e le rese più basse nelle annate difficili."]
+]
+},
+"fr": {
+"sections": [
+{"h2": "Fiches de révision : conduite de la vigne et taille pour le WSET niveau 3"},
+{"p": "Les questions du WSET niveau 3 sur la conduite de la vigne vérifient que vous savez relier une décision du vigneron à son effet sur le raisin, puis sur le vin. Chaque choix à la vigne, du porte-greffe à la date des vendanges, modifie le rendement, la maturité, l'état sanitaire ou les coûts, et la correction attend cette chaîne de cause à effet, pas une liste de mots. Ces fiches couvrent toute l'année viticole telle qu'elle tombe au niveau 3 : plantation, systèmes de conduite et taille, gestion du feuillage et du rendement, eau et sol, maladies et ravageurs, gel et grêle, vendanges."},
+{"h2": "Planter une vigne : porte-greffes, multiplication et densité"},
+{"h3": "Pourquoi greffer sur porte-greffe"},
+{"p": "La plupart des vignes du monde sont des Vitis vinifera greffées sur des porte-greffes issus d'espèces américaines ou de leurs hybrides. La raison principale est le phylloxéra, un puceron qui se nourrit des racines et tue la vinifera franche de pied, alors qu'il nuit peu aux espèces américaines. On choisit aussi un porte-greffe pour sa résistance aux nématodes, sa tolérance à la sécheresse, au calcaire actif ou au sel, et pour la vigueur qu'il donne. Un porte-greffe vigoureux convient aux sols pauvres ; un porte-greffe faible aide à freiner la croissance sur sols fertiles. Quelques zones, comme une partie du Chili et de l'Australie-Méridionale, ont encore beaucoup de vignes franches de pied car le phylloxéra ne s'y est pas installé."},
+{"h3": "Multiplication : bouturage, marcottage et greffage"},
+{"p": "Les nouveaux pieds proviennent de boutures : chaque plant est génétiquement identique à la plante mère. Le marcottage, qui consiste à enterrer un sarment jusqu'à ce qu'il s'enracine, sert à remplacer les manquants dans une vigne existante, mais seulement sur des pieds non greffés. Le greffage se fait en pépinière (greffe sur table) ou au champ ; le surgreffage d'un nouveau cépage sur un tronc adulte permet de changer de variété rapidement, avec une récolte au bout d'un ou deux ans."},
+{"h3": "Sélection clonale et sélection massale"},
+{"p": "La sélection clonale multiplie un seul pied mère choisi, ce qui donne des vignes homogènes aux caractères connus : rendement, précocité, résistance aux maladies. La sélection massale prélève des boutures sur de nombreux bons pieds d'une parcelle et conserve davantage de diversité génétique, ce qui, pour beaucoup de vignerons, apporte de la complexité au vin."},
+{"h3": "Densité de plantation"},
+{"p": "La densité est le nombre de pieds par hectare. Dans les régions sèches et peu fertiles, on plante espacé pour que chaque pied dispose d'assez d'eau et de nutriments. Sur sols fertiles et bien alimentés, une densité élevée met les pieds en concurrence et limite la vigueur et la production par souche. Les régions classiques comme Bordeaux et la Bourgogne atteignent environ 10 000 pieds par hectare, tandis que des rangs larges sont nécessaires là où passent tracteurs et machines à vendanger."},
+{"h2": "Conduite, taille et palissage : le vocabulaire du WSET 3"},
+{"p": "Système de conduite, taille et palissage sont trois notions distinctes, et les confondre est l'une des erreurs les plus fréquentes dans les réponses du WSET 3 sur la conduite de la vigne. La conduite désigne la forme du bois permanent, la taille l'élimination des parties indésirables, le palissage le système de piquets et de fils."},
+{"table": {"head": ["Système", "Principe", "Usage typique et effet"], "rows": [
+["Gobelet taillé court", "Conduite en tête, coursons courts, sans palissage", "Climats chauds, secs et ensoleillés ; les feuilles ombragent les grappes ; vendange manuelle uniquement"],
+["Guyot (simple ou double)", "Conduite en tête, une ou deux baguettes renouvelées chaque année sur un fil", "Régions fraîches et tempérées comme la Bourgogne et Bordeaux ; demande des tailleurs qualifiés"],
+["Cordon taillé à coursons (ex. cordon de Royat)", "Bras horizontal permanent portant des coursons courts", "Taille simple, en partie mécanisable ; rameaux bien répartis"],
+["Palissage vertical (VSP)", "Rameaux dirigés vers le haut entre des paires de fils releveurs", "Grappes sur une seule zone : traitements, effeuillage et vendange mécanique faciles"],
+["Pergola (tendone, parral)", "Feuillage haut à l'horizontale", "Ombrage des grappes en climat chaud, éloignées du sol humide ; historiquement pour de gros rendements"]
+]}},
+{"h3": "Taille d'hiver et travaux en vert"},
+{"p": "La taille d'hiver, réalisée pendant le repos végétatif, fixe le nombre d'yeux laissés, donc le nombre potentiel de rameaux et de grappes. Plus d'yeux, c'est plus de rendement ; moins d'yeux concentre les ressources de la souche. Les travaux en vert regroupent rognage, effeuillage et vendange en vert pour garder le feuillage en équilibre pendant la saison."},
+{"tip": "Technique d'examen : si une question à réponse courte demande comment maîtriser le rendement, donnez au moins trois leviers distincts avec l'effet de chacun : moins d'yeux à la taille, choix du porte-greffe et de la densité, vendange en vert, irrigation et fertilisation maîtrisées. Un levier bien expliqué vaut mieux que cinq simplement cités."},
+{"h2": "Gestion du feuillage et du rendement"},
+{"p": "Gérer le feuillage, c'est organiser feuilles et rameaux pour que les grappes reçoivent la bonne quantité de lumière et d'air. Un feuillage dense et ombragé donne des arômes peu mûrs, une acidité élevée, des notes herbacées et davantage de maladies, car la zone des grappes reste humide. Un feuillage aéré améliore maturité, couleur et arômes et laisse les traitements atteindre le raisin. En climat chaud, en revanche, trop d'exposition provoque l'échaudage : on garde des feuilles du côté du soleil de l'après-midi."},
+{"ul": [
+"Palissage et relevage : attacher les rameaux aux fils pour répartir feuilles et grappes.",
+"Effeuillage de la zone des grappes : plus de lumière et d'air, moins de pourriture, meilleure couleur des raisins noirs.",
+"Ébourgeonnage : supprimer au printemps les pousses en surnombre pour éviter l'entassement.",
+"Vendange en vert : couper une partie des grappes avant ou vers la véraison pour mieux mûrir les autres ; coûteuse et peu efficace si la souche est déséquilibrée.",
+"Rognage : raccourcir les rameaux trop longs pour qu'ils n'ombragent pas le rang voisin."
+]},
+{"p": "Une vigne équilibrée a le bon rapport entre surface foliaire et récolte : assez de feuilles pour mûrir le raisin, mais pas une vigueur qui détourne l'énergie vers les rameaux. Les rendements élevés diluent souvent les arômes et retardent la maturité, d'où les rendements maximaux en hectolitres par hectare fixés par de nombreuses appellations."},
+{"h2": "Eau, sol et nutriments"},
+{"p": "La vigne a besoin d'eau pour la photosynthèse et sa croissance, mais un stress hydrique modéré pendant la maturation ralentit la pousse des rameaux et oriente l'énergie vers les grappes : baies plus petites, arômes et tanins plus concentrés. Un stress sévère, au contraire, bloque photosynthèse et maturation. Là où il pleut peu, l'irrigation est indispensable : le goutte-à-goutte permet un contrôle précis et économe, l'irrigation par submersion est bon marché quand l'eau abonde, l'aspersion protège aussi du gel. Certaines régions limitent l'irrigation pour les vins de qualité, et l'accès à l'eau devient un enjeu avec le changement climatique."},
+{"p": "L'entretien du sol contrôle les adventices et la concurrence avec la vigne. On peut travailler le sol entre les rangs, désherber chimiquement, pailler ou enherber. L'enherbement concurrence la vigne pour l'eau et l'azote, ce qui réduit la vigueur sur sols fertiles, améliore la structure du sol et limite l'érosion en coteau. Les engrais compensent ce qu'emporte la récolte, mais trop d'azote entraîne excès de vigueur, feuillage ombragé et maladies."},
+{"h2": "Maladies, ravageurs et aléas climatiques"},
+{"h3": "Problèmes fongiques, viraux et bactériens"},
+{"table": {"head": ["Problème", "Cause et conditions", "Remède principal"], "rows": [
+["Oïdium", "Champignon ; feuillage chaud et ombragé, pas besoin de pluie", "Soufre, feuillage aéré"],
+["Mildiou", "Organisme proche des champignons ; temps chaud et humide", "Cuivre, par exemple la bouillie bordelaise"],
+["Pourriture grise (botrytis)", "Botrytis cinerea par temps humide, surtout sur baies abîmées ou grappes compactes", "Feuillage aéré, fongicides, manipulation soignée"],
+["Maladies du bois (esca, eutypiose)", "Champignons entrant par les plaies de taille", "Taille soignée, protection des plaies ; peu de remèdes"],
+["Virus (enroulement, court-noué)", "Transmis par le greffage, des insectes ou des nématodes", "Aucun remède : plants sains, arrachage et replantation"],
+["Maladie de Pierce", "Bactérie transmise par des cicadelles", "Lutte contre l'insecte ; pas de remède pour les souches atteintes"]
+]}},
+{"h3": "Approches de la viticulture"},
+{"p": "La viticulture conventionnelle utilise des produits de synthèse en prévention. La lutte raisonnée (protection intégrée) surveille les populations de ravageurs et n'intervient qu'en cas de besoin, en combinant auxiliaires, pratiques culturales et traitements ciblés. La viticulture biologique interdit pesticides et engrais de synthèse mais autorise cuivre et soufre, ce qui peut imposer plus de passages les années humides. La biodynamie suit les règles du bio et y ajoute des préparations spécifiques et un calendrier fondé sur les rythmes lunaires et cosmiques."},
+{"h3": "Gel, froid hivernal et grêle"},
+{"p": "Les gelées de printemps après le débourrement peuvent détruire les jeunes pousses et la récolte. On protège la vigne avec des chaufferettes ou des bougies, des tours antigel qui brassent l'air plus chaud situé en altitude avec l'air froid au sol, et l'aspersion qui enrobe les bourgeons de glace : en gelant, l'eau libère de la chaleur latente. Une taille tardive retarde le débourrement. Le froid extrême de l'hiver peut tuer la souche, d'où le buttage du point de greffe dans les régions très froides. La grêle abîme feuilles, rameaux et baies et ouvre la porte à la pourriture ; les filets sont la principale protection."},
+{"h2": "Vendanges : quand et comment"},
+{"p": "La date de vendange arbitre entre sucre, acidité, maturité aromatique et phénolique d'un côté, prévisions météo, risque sanitaire et disponibilité des vendangeurs ou des machines de l'autre. Les raisins destinés aux vins de base pour effervescents sont cueillis tôt pour garder l'acidité, ceux des vins liquoreux parfois très tard."},
+{"table": {"head": ["Vendange manuelle", "Vendange mécanique"], "rows": [
+["Sélective : on laisse les grappes malades ou pas mûres", "Rapide et moins chère à l'hectare une fois la machine amortie"],
+["Grappes entières, indispensables au pressurage en grappes entières et à la macération carbonique", "Récolte possible la nuit, au frais, et vite avant une dégradation météo"],
+["Possible sur fortes pentes et gobelets non palissés", "Exige un palissage adapté et des pentes douces ; baies parfois éclatées, risque d'oxydation"],
+["Lente, coûteuse, dépend de la main-d'œuvre", "Aucune sélection ; il faut trier les corps étrangers"]
+]}},
+{"h2": "Comment réviser la conduite de la vigne en 15 minutes par jour"},
+{"ol": [
+"Jour 1 : écrivez le cycle annuel de la vigne et associez un travail à chaque stade.",
+"Jour 2 : dessinez de mémoire les quatre combinaisons conduite et taille (tête/cordon, courson/baguette).",
+"Jour 3 : apprenez le tableau des maladies avec une phrase par ligne : cause, conditions, remède.",
+"Jour 4 : expliquez trois méthodes de lutte antigel et pourquoi chacune fonctionne.",
+"Jour 5 : comparez vendange manuelle et mécanique en reliant chaque point à un style de vin.",
+"Jour 6 : faites dix QCM chronométrés sur ce thème dans l'appli gratuite, puis revoyez chaque erreur.",
+"Jour 7 : rédigez une réponse courte sur la maîtrise du rendement et corrigez-la selon la structure cause, effet, style."
+]},
+{"tip": "Erreur fréquente : écrire que les petits rendements donnent toujours de meilleurs vins. Une souche peu chargée peut aussi être déséquilibrée. Au WSET niveau 3, expliquez que le but est une vigne équilibrée qui mûrit pleinement sa récolte, et que les rendements maximaux sont un outil réglementaire ou qualitatif, pas une garantie."}
+],
+"faq": [
+["Quelle différence entre conduite et taille pour le WSET 3 ?", "La conduite décrit la forme permanente du bois de la vigne : en tête ou en cordon, basse ou haute. La taille consiste à supprimer le bois et les rameaux indésirables. La taille d'hiver fixe le nombre d'yeux, sur des coursons courts ou des baguettes plus longues, tandis que les travaux en vert gèrent le feuillage pendant la saison. Beaucoup de candidats confondent les deux à l'écrit."],
+["Quelles méthodes antigel connaître pour le WSET niveau 3 ?", "Chaufferettes ou bougies, tours antigel, aspersion et taille tardive contre les gelées de printemps, plus le choix de parcelles hors des zones où l'air froid stagne. L'aspersion fonctionne parce que l'eau qui gèle libère de la chaleur et maintient le bourgeon vers 0 °C. Les tours antigel n'agissent qu'en gelée radiative, quand une couche d'air plus chaud existe au-dessus. Contre le froid d'hiver, on butte le point de greffe."],
+["Pourquoi greffe-t-on la vigne sur porte-greffe au WSET 3 ?", "Surtout pour résister au phylloxéra, un puceron qui attaque les racines de Vitis vinifera mais pas celles des espèces américaines. Le porte-greffe apporte aussi une résistance aux nématodes, une tolérance à la sécheresse, au sel ou au calcaire, et il influence la vigueur. Choisir le bon porte-greffe pour la parcelle est l'une des premières décisions du vigneron, et l'une des plus durables."],
+["Quelle différence entre oïdium et mildiou pour le WSET niveau 3 ?", "L'oïdium se développe dans un feuillage chaud et ombragé, sans besoin de pluie ; on le combat au soufre. Le mildiou exige un temps chaud et humide et se traite au cuivre, par exemple avec la bouillie bordelaise. Les deux attaquent les parties vertes et les grappes, réduisent le rendement et peuvent donner des défauts aromatiques : un feuillage aéré aide à les prévenir."],
+["Bio et biodynamie, est-ce la même chose pour le WSET 3 ?", "Non. Le bio interdit engrais, herbicides et pesticides de synthèse mais autorise le cuivre et le soufre. La biodynamie respecte les mêmes interdictions et ajoute des préparations spécifiques appliquées au sol et aux plantes, ainsi qu'un calendrier lié aux cycles lunaires et cosmiques. Les deux sont certifiés par des organismes indépendants et peuvent coûter plus cher à cause de la main-d'œuvre et des rendements plus faibles les années difficiles."]
+]
+},
+"es": {
+"sections": [
+{"h2": "Apuntes de estudio: gestión del viñedo y poda para el WSET nivel 3"},
+{"p": "Las preguntas del WSET nivel 3 sobre gestión del viñedo comprueban si sabes relacionar una decisión del viticultor con su efecto en la uva y, después, en el vino. Cada elección en el viñedo, del portainjerto a la fecha de vendimia, cambia el rendimiento, la madurez, la sanidad o los costes, y quien corrige busca esa cadena de causa y efecto, no una lista de términos. Estos apuntes recorren todo el año vitícola tal como se examina en el nivel 3: plantación, sistemas de conducción y poda, manejo de la vegetación y del rendimiento, agua y suelo, plagas y enfermedades, heladas y granizo, y vendimia."},
+{"h2": "Plantar un viñedo: portainjertos, propagación y densidad"},
+{"h3": "Por qué se injerta sobre portainjerto"},
+{"p": "La mayoría de las cepas del mundo son Vitis vinifera injertada sobre portainjertos de especies americanas o sus híbridos. La razón principal es la filoxera, un pulgón que se alimenta de las raíces y mata a la vinifera sin injertar, mientras que apenas daña a las especies americanas. El portainjerto también se elige por su resistencia a los nematodos, su tolerancia a la sequía, a los suelos calizos o salinos y por el vigor que aporta. Uno vigoroso conviene en suelos pobres; uno poco vigoroso ayuda a frenar el crecimiento en suelos fértiles. Algunas zonas, como partes de Chile y de Australia Meridional, conservan muchas cepas en pie franco porque la filoxera no se ha establecido allí."},
+{"h3": "Propagación: esquejes, acodo e injerto"},
+{"p": "Las cepas nuevas se obtienen de esquejes, de modo que cada planta es genéticamente idéntica a la madre. El acodo, que consiste en enterrar un sarmiento hasta que enraíce, sirve para reponer marras en un viñedo existente, pero solo funciona con cepas sin injertar. El injerto puede hacerse en vivero (injerto de taller) o en el campo; el sobreinjerto de una variedad nueva en un tronco adulto permite cambiar de variedad deprisa, con cosecha al cabo de uno o dos años."},
+{"h3": "Selección clonal y selección masal"},
+{"p": "La selección clonal multiplica una sola cepa madre elegida y da plantas uniformes con rasgos conocidos: rendimiento, precocidad, resistencia a enfermedades. La selección masal toma esquejes de muchas buenas cepas de una parcela y conserva más diversidad genética, lo que, según muchos productores, aporta complejidad al vino."},
+{"h3": "Densidad de plantación"},
+{"p": "La densidad es el número de cepas por hectárea. En regiones secas y poco fértiles se planta con mucho espacio para que cada cepa tenga agua y nutrientes suficientes. En suelos fértiles y con agua, una densidad alta hace competir a las plantas y limita el vigor y la producción por cepa. Regiones clásicas como Burdeos y Borgoña llegan a unas 10.000 cepas por hectárea, mientras que hacen falta calles anchas donde pasan tractores y vendimiadoras."},
+{"h2": "Conducción, poda y espaldera: el vocabulario del WSET 3"},
+{"p": "Sistema de conducción, poda y emparrado son tres cosas distintas, y confundirlas es uno de los errores más frecuentes en las respuestas del WSET 3 sobre gestión del viñedo. La conducción es la forma de la madera permanente, la poda es la eliminación de las partes no deseadas y el emparrado o espaldera es el sistema de postes y alambres."},
+{"table": {"head": ["Sistema", "Cómo funciona", "Uso típico y efecto"], "rows": [
+["Vaso podado en pulgares", "Conducción en cabeza, pulgares cortos, sin espaldera", "Zonas cálidas, secas y soleadas; las hojas dan sombra a los racimos; solo vendimia manual"],
+["Guyot (simple o doble)", "Conducción en cabeza, una o dos varas renovadas cada año sobre un alambre", "Zonas frescas y templadas como Borgoña y Burdeos; exige podadores expertos"],
+["Cordón podado en pulgares (p. ej. cordón Royat)", "Brazo horizontal permanente con pulgares cortos", "Poda sencilla y en parte mecanizable; brotes bien repartidos"],
+["Espaldera con posicionamiento vertical (VSP)", "Brotes guiados hacia arriba entre pares de alambres", "Racimos en una sola franja: tratamientos, deshojado y vendimia mecánica fáciles"],
+["Parral o pérgola", "Vegetación alta y horizontal", "Sombrea la uva en climas cálidos y la aleja del suelo húmedo; históricamente para rendimientos altos"]
+]}},
+{"h3": "Poda de invierno y poda en verde"},
+{"p": "La poda de invierno, durante el reposo vegetativo, fija cuántas yemas se dejan y, por tanto, el número posible de brotes y racimos. Más yemas suponen más rendimiento; menos yemas concentran los recursos de la cepa. La poda en verde abarca despuntes, deshojado y aclareo de racimos para mantener la vegetación equilibrada durante el ciclo."},
+{"tip": "Técnica de examen: si una pregunta de respuesta corta pide cómo controlar el rendimiento, da al menos tres herramientas distintas con su efecto: menos yemas en la poda de invierno, elección de portainjerto y densidad, aclareo de racimos, riego y abonado controlados. Una herramienta bien explicada vale más que cinco solo nombradas."},
+{"h2": "Manejo de la vegetación y del rendimiento"},
+{"p": "Manejar la vegetación significa organizar hojas y brotes para que los racimos reciban la cantidad justa de luz y aire. Una vegetación densa y sombreada da aromas poco maduros, acidez alta, notas herbáceas y más riesgo de enfermedades, porque la zona de los racimos se mantiene húmeda. Una vegetación abierta mejora la maduración, el color y los aromas y deja que los tratamientos lleguen a la uva. En climas cálidos, sin embargo, un exceso de exposición quema la uva, así que se dejan hojas en el lado del sol de la tarde."},
+{"ul": [
+"Posicionamiento de brotes: atarlos a los alambres para repartir hojas y racimos.",
+"Deshojado en la zona de racimos: más luz y aire, menos podredumbre, mejor color en uvas tintas.",
+"Despampanado: eliminar en primavera los brotes sobrantes para evitar amontonamientos.",
+"Aclareo de racimos (vendimia en verde): quitar parte de los racimos antes o hacia el envero para que el resto madure mejor; es caro y poco eficaz si la cepa está desequilibrada.",
+"Despunte: recortar los brotes largos para que no den sombra a la fila vecina."
+]},
+{"p": "Una cepa equilibrada tiene la proporción justa entre superficie foliar y fruta: hojas suficientes para madurar la cosecha, pero no tanto vigor que la energía se vaya a los brotes. Los rendimientos altos suelen diluir los aromas y retrasar la maduración, por eso muchas denominaciones fijan rendimientos máximos en hectolitros por hectárea."},
+{"h2": "Agua, suelo y nutrientes"},
+{"p": "La vid necesita agua para la fotosíntesis y para crecer, pero un déficit hídrico moderado durante la maduración frena el crecimiento de los brotes y dirige la energía a los racimos: bayas más pequeñas, aromas y taninos más concentrados. Un estrés hídrico grave, en cambio, detiene la fotosíntesis y la maduración. Donde llueve poco el riego es imprescindible: el goteo permite un control preciso y eficiente, el riego a manta es barato si sobra agua y la aspersión sirve también contra las heladas. Algunas zonas limitan el riego para los vinos de calidad, y el acceso al agua es un problema creciente con el cambio climático."},
+{"p": "El manejo del suelo controla las malas hierbas y la competencia con la vid. Se puede labrar entre filas, usar herbicidas, acolchar o mantener cubiertas vegetales. Las cubiertas compiten con la vid por el agua y el nitrógeno, lo que reduce el vigor en suelos fértiles, mejoran la estructura del suelo y limitan la erosión en pendiente. Los abonos reponen lo que se lleva la cosecha, pero el exceso de nitrógeno provoca demasiado vigor, vegetación sombreada y más enfermedades."},
+{"h2": "Plagas, enfermedades y riesgos naturales"},
+{"h3": "Problemas fúngicos, víricos y bacterianos"},
+{"table": {"head": ["Problema", "Causa y condiciones", "Remedio principal"], "rows": [
+["Oídio (ceniza)", "Hongo; vegetación cálida y sombreada, no necesita lluvia", "Azufre, vegetación abierta"],
+["Mildiu", "Organismo similar a un hongo; tiempo cálido y húmedo", "Cobre, como el caldo bordelés"],
+["Podredumbre gris (botritis)", "Botrytis cinerea con humedad, sobre todo en bayas dañadas o racimos compactos", "Vegetación abierta, fungicidas, manipulación cuidadosa"],
+["Enfermedades de la madera (yesca, eutipiosis)", "Hongos que entran por las heridas de poda", "Poda cuidadosa y protección de heridas; pocos remedios"],
+["Virus (enrollado, entrenudo corto)", "Transmitidos por injerto, insectos o nematodos", "Sin cura: planta sana, arranque y replantación"],
+["Enfermedad de Pierce", "Bacteria transmitida por cicadélidos", "Controlar el insecto; las cepas infectadas no tienen cura"]
+]}},
+{"h3": "Enfoques de viticultura"},
+{"p": "La viticultura convencional usa productos de síntesis de forma preventiva. La gestión integrada de plagas vigila las poblaciones y actúa solo cuando hace falta, combinando fauna auxiliar, prácticas culturales y tratamientos dirigidos. La viticultura ecológica prohíbe pesticidas y abonos de síntesis pero permite cobre y azufre, por lo que en años lluviosos pueden hacer falta más pasadas. La biodinámica sigue las normas ecológicas y añade preparados específicos y un calendario basado en ritmos lunares y cósmicos."},
+{"h3": "Heladas, frío invernal y granizo"},
+{"p": "Las heladas de primavera después de la brotación pueden destruir los brotes jóvenes y la cosecha. Se protege la viña con quemadores o velas, ventiladores que mezclan el aire más templado de arriba con el frío del suelo, y aspersión que cubre las yemas de hielo: al congelarse, el agua libera calor latente. La poda tardía retrasa la brotación. El frío invernal extremo puede matar la cepa, por eso en zonas muy frías se aporca tierra sobre el injerto. El granizo daña hojas, brotes y bayas y abre la puerta a la podredumbre; las mallas son la principal protección."},
+{"h2": "Vendimia: cuándo y cómo"},
+{"p": "La fecha de vendimia equilibra azúcar, acidez, madurez aromática y de taninos con la previsión meteorológica, el riesgo sanitario y la disponibilidad de vendimiadores o máquinas. La uva para vinos base de espumoso se recoge pronto para conservar acidez; la de vinos dulces, a veces muy tarde."},
+{"table": {"head": ["Vendimia manual", "Vendimia mecánica"], "rows": [
+["Selectiva: se dejan los racimos enfermos o verdes", "Rápida y más barata por hectárea una vez amortizada la máquina"],
+["Racimos enteros, necesarios para el prensado de racimo entero y la maceración carbónica", "Permite vendimiar de noche, con uva fresca, y deprisa antes del mal tiempo"],
+["Posible en pendientes fuertes y en vasos sin espaldera", "Requiere espaldera adecuada y pendientes suaves; las bayas pueden romperse y oxidarse"],
+["Lenta, cara, depende de la mano de obra", "No selecciona; hay que retirar materia extraña"]
+]}},
+{"h2": "Cómo repasar la gestión del viñedo en 15 minutos al día"},
+{"ol": [
+"Día 1: escribe el ciclo anual de la vid y asigna una labor a cada fase.",
+"Día 2: dibuja de memoria las cuatro combinaciones de conducción y poda (cabeza/cordón, pulgar/vara).",
+"Día 3: aprende la tabla de enfermedades con una frase por fila: causa, condiciones, remedio.",
+"Día 4: explica tres métodos contra las heladas y por qué funciona cada uno.",
+"Día 5: compara vendimia manual y mecánica relacionando cada punto con un estilo de vino.",
+"Día 6: responde diez preguntas tipo test cronometradas en la app gratuita y repasa cada error.",
+"Día 7: redacta una respuesta corta sobre el control del rendimiento y corrígela con la estructura causa, efecto, estilo."
+]},
+{"tip": "Error frecuente: escribir que los rendimientos bajos siempre dan mejores vinos. Una cepa con poca carga también puede estar desequilibrada. En el WSET nivel 3 explica que el objetivo es una cepa equilibrada que madure por completo su cosecha, y que los rendimientos máximos son una herramienta legal o de calidad, no una garantía."}
+],
+"faq": [
+["¿Qué diferencia hay entre conducción y poda en el WSET 3?", "La conducción describe la forma permanente de la madera de la cepa: en cabeza o en cordón, baja o alta. La poda es la eliminación de madera y brotes no deseados. La poda de invierno fija el número de yemas, en pulgares cortos o en varas más largas, mientras que la poda en verde maneja la vegetación durante el ciclo. Mucha gente que se presenta confunde ambos conceptos por escrito."],
+["¿Qué métodos contra las heladas hay que conocer para el WSET nivel 3?", "Quemadores o velas, ventiladores, aspersión y poda tardía para las heladas de primavera, además de elegir parcelas lejos de las hondonadas donde se acumula el aire frío. La aspersión funciona porque el agua al congelarse libera calor y mantiene la yema cerca de 0 °C. Los ventiladores solo sirven en heladas de radiación, con una capa de aire más templado encima. Contra el frío invernal se aporca el injerto."],
+["¿Por qué se injertan las vides sobre portainjerto en el WSET 3?", "Sobre todo para resistir la filoxera, un pulgón que ataca las raíces de Vitis vinifera pero no las de las especies americanas. El portainjerto aporta además resistencia a nematodos, tolerancia a sequía, salinidad o caliza, e influye en el vigor de la planta. Elegir el portainjerto adecuado para la parcela es una de las primeras decisiones del viticultor y de las más duraderas."],
+["¿Qué diferencia hay entre oídio y mildiu en el WSET nivel 3?", "El oídio prospera en vegetaciones cálidas y sombreadas y no necesita lluvia; se combate con azufre. El mildiu requiere tiempo cálido y húmedo y se trata con cobre, por ejemplo con caldo bordelés. Ambos atacan las partes verdes de la cepa y los racimos, reducen el rendimiento y pueden dar defectos aromáticos, así que una vegetación abierta ayuda a prevenirlos."],
+["¿Ecológico y biodinámico son lo mismo en el WSET 3?", "No. La viticultura ecológica prohíbe abonos, herbicidas y pesticidas de síntesis pero permite cobre y azufre. La biodinámica respeta las mismas prohibiciones y añade preparados específicos aplicados al suelo y a las plantas, además de un calendario ligado a ciclos lunares y cósmicos. Ambas se certifican por organismos independientes y pueden resultar más caras por la mano de obra extra y los rendimientos menores en años difíciles."]
+]
+}
+}
