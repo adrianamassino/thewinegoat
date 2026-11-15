@@ -101,9 +101,11 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     laugh: c => `<div class="vS vLaugh">${goatSVG({ cape: c })}<i class="vHa">Ha ha!</i></div>`,
     barrel: c => `<div class="vS vBarrel">${goatSVG({ cape: c, vb: "0 -70 430 360", gt: "translate(0,95)", under: nest(barrel(), 205, 186, 130, 104) })}</div>`,
     dance: c => `<div class="vS vDance">${goatSVG({ cape: c, vb: "0 -30 260 225" })}<i class="vNote">♪</i><i class="vNote n2">♫</i></div>`,
+    sniff: c => `<div class="vS vSniff">${goatSVG({ cape: c, vb: "0 0 270 195", over: nest(glass("red"), 214, 128, 34, 58) })}<i class="vMm">Mmm…</i></div>`,
+    harvest: c => `<div class="vS vWalkIn">${goatSVG({ cape: c, vb: "0 0 270 195", inMouth: nest(grapes("red"), 214, 78, 30, 34) })}</div>`,
     hop: c => `<div class="vS vHop">${goatSVG({ cape: c, vb: "0 -60 260 255" })}</div>`
   };
-  const STORY_TYPES = ["sip", "pop", "play", "barrel", "laugh", "dance", "hop", "sip", "pop", "barrel", "play", "laugh"];
+  const STORY_TYPES = ["sip", "pop", "play", "barrel", "laugh", "dance", "hop", "sniff", "harvest"];
   const goatCss = `
 .vS{position:relative}.vS .vg{display:block;width:100%;height:auto;overflow:visible}.vS i{position:absolute;font-style:normal;pointer-events:none}.vS i svg{display:block;width:100%;height:auto}
 .vg .leg,.vg .shin,.vg .head,.vg .neck,.vg .ear,.vg .tail,.vg .cape,.vg .bodyall,.vg .shadow,.vg .mv,.vg .ball,.vg .spr,.vg .mcork{transform-box:view-box}
@@ -132,6 +134,11 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
 /* dancing: rears up on the back legs, front hooves paddling */
 .vDance .vg .bodyall{animation:vRear 1.8s ease-in-out infinite}.vDance .vg .leg.fl.near{animation:vPaddle .45s ease-in-out infinite}.vDance .vg .leg.fl.far{animation:vPaddle .45s ease-in-out -.22s infinite}.vDance .vg .shin{animation:vTuckK 1.8s ease-in-out infinite}
 .vDance .vNote{color:#9b2c52;font-size:20px;top:4%;right:16%;opacity:0;animation:vNote 1.8s ease-out infinite}.vDance .n2{right:4%;top:14%;animation-delay:.9s;color:#c9a24a}
+/* sniffing the wine: nose in the glass, little sniffs, "Mmm…" */
+.vSniff .neck{animation:vSipN 5s ease-in-out infinite}.vSniff .head{animation:vSniffH 5s ease-in-out infinite}.vSniff .vg .ear{animation:vEar 1.2s ease-in-out infinite}
+.vSniff .vMm{top:0;right:0;background:#fff;color:#7a1f3d;font:800 12px/1 system-ui,sans-serif;padding:6px 9px;border-radius:14px 14px 14px 3px;box-shadow:0 6px 14px rgba(60,15,30,.18);opacity:0;animation:vMm 5s ease-out infinite;white-space:nowrap}
+@keyframes vSniffH{0%,18%,82%,100%{transform:rotate(0)}34%{transform:rotate(6deg)}38%{transform:rotate(3deg)}42%{transform:rotate(6deg)}46%{transform:rotate(3deg)}50%{transform:rotate(6deg)}62%{transform:rotate(-8deg)}}
+@keyframes vMm{0%,60%{opacity:0;transform:scale(.4)}66%{opacity:1;transform:scale(1.08)}72%,88%{opacity:1;transform:scale(1)}96%,100%{opacity:0}}
 /* happy hops */
 .vHop .vg .bodyall{animation:vJumpLoop 1.6s cubic-bezier(.3,.7,.4,1) infinite}.vHop .vg .leg.fl{animation:vTuckF 1.6s ease-in-out infinite}.vHop .vg .leg.bl{animation:vTuckB 1.6s ease-in-out infinite}.vHop .vg .shin{animation:vTuckK 1.6s ease-in-out infinite}.vHop .vg .shadow{transform-origin:122px 184px;animation:vJs 1.6s ease-in-out infinite}
 @keyframes vBreath{50%{transform:scale(1.01,.99)}}@keyframes vHead{0%,100%{transform:rotate(0)}35%{transform:rotate(-5deg)}65%{transform:rotate(3deg)}}@keyframes vEar{0%,70%,100%{transform:rotate(0)}76%{transform:rotate(14deg)}84%{transform:rotate(-5deg)}90%{transform:rotate(8deg)}}
@@ -204,7 +211,7 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
   const cssAll = css.replace('@media (prefers-reduced-motion:reduce){', goatCss + '\n@media (prefers-reduced-motion:reduce){.vg *,.vS i{animation:none!important}');
   const st = document.createElement("style"); st.textContent = DEMO ? cssAll.replace(/@media \(prefers-reduced-motion:reduce\)\{[^]*$/, "") : cssAll; document.head.appendChild(st);
   if (DEMO) { // showcase page: every goat scene, walkers and props, always animated
-    const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride a crepapelle", barrel: "Salta sulla botte", dance: "Balla sulle zampe posteriori", hop: "Salta di gioia" };
+    const L = { sip: "Beve dal calice", pop: "Stappa la bottiglia", play: "Gioca con il grappolo", laugh: "Ride a crepapelle", barrel: "Salta sulla botte", dance: "Balla sulle zampe posteriori", hop: "Salta di gioia", sniff: "Annusa il vino", harvest: "Porta a casa il grappolo" };
     DEMO.innerHTML = `<div class="dmG">${Object.keys(L).map((t, i) => `<figure><div style="width:${t === "barrel" ? 230 : 190}px;margin:auto">${SC[t](i % 4)}</div><figcaption>${L[t]}</figcaption></figure>`).join("")}</div>
 <h2>Caprette che camminano e trottano</h2>${[0, 1, 2, 3].map(i => `<div class="dkWalk"><div class="dkP" style="left:${20 + i * 15}%;width:46px">${PROPS[["barrel", "bottleR", "grapesR", "flute"][i]]()}</div><div class="dkW walking${i % 2 ? " rv" : ""}${i === 2 ? " trot" : ""}" style="--t:${14 + i * 3}s;animation-delay:-${i * 4}s">${goatSVG({ cape: i })}</div></div>`).join("")}
 <h2>Oggetti</h2><div class="dmP">${Object.keys(PROPS).map(k => `<div style="width:${PSIZE[k]}px" class="dkA ${k.startsWith("grapes") ? "sw" : "fl"}">${PROPS[k]()}</div>`).join("")}</div>`;
@@ -231,17 +238,19 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     h.classList.add("dk-host"); h.insertBefore(box, h.firstChild);
   });
 
+  const gaps = blocks.map((_, i) => i).filter(i => i >= 2 && i % 2 === 0), WALK_AT = isHome || blocks.length >= 6 ? gaps[Math.floor(gaps.length / 2)] : -1;
   /* between sections: a goat walking past (sometimes past a prop), or a small vignette on phones */
   blocks.forEach((el, i) => {
     if (i === 0) return;
     const r = rnd();
-    if (r < (isHome ? .4 : .26)) {
+    if (i < 2 || i % 2) return; // at most every other gap, never right under the first sections
+    if (i === WALK_AT) {
       const w = document.createElement("div"); w.className = "dkWalk"; w.setAttribute("aria-hidden", "true");
       const rv = rnd() < .5, t = 26 + Math.round(rnd() * 14), prop = rnd() < .6 ? pick(["barrel", "bottleR", "grapesR", "glassR", "flute", "bottleS"]) : null;
       w.innerHTML = (prop ? `<div class="dkP" style="left:${18 + Math.round(rnd() * 64)}%;width:${Math.round(PSIZE[prop] * .62)}px">${PROPS[prop]()}</div>` : "") +
-        `<div class="dkW walking${rv ? " rv" : ""}${rnd() < .3 ? " trot" : ""}" style="--t:${t}s;animation-delay:-${Math.round(rnd() * t)}s">${goatSVG({ cape: Math.floor(rnd() * 4) })}</div>`;
+        `<div class="dkW walking${rv ? " rv" : ""}${rnd() < .3 ? " trot" : ""}" style="--t:${t}s;animation-delay:-${Math.round(rnd() * t)}s">${goatSVG(rnd() < .35 ? { cape: Math.floor(rnd() * 4), vb: "0 0 270 195", inMouth: nest(grapes("red"), 214, 78, 30, 34) } : { cape: Math.floor(rnd() * 4) })}</div>`;
       el.parentNode.insertBefore(w, el);
-    } else if (r < .82) {
+    } else if (r < .8 && (blocks.__m = (blocks.__m || 0) + 1) <= 3) {
       const m = document.createElement("div"); m.className = "dkMob"; m.setAttribute("aria-hidden", "true");
       const [type, n] = nextStory(), a = pick(propKeys), b = pick(propKeys);
       m.innerHTML = `<div style="width:${Math.round(PSIZE[a] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[a]()}</div><div style="width:${type === "barrel" ? 170 : 130}px">${SC[type](n)}</div><div style="width:${Math.round(PSIZE[b] * .55)}px;transform:rotate(${Math.round(rnd() * 24 - 12)}deg)">${PROPS[b]()}</div>`;
@@ -263,18 +272,23 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     else { const p = pick(propKeys); size = Math.round(PSIZE[p] * sc * (.95 + rnd() * .5)); a.className = "dkA " + (p.startsWith("grapes") ? "sw" : "fl"); a.innerHTML = PROPS[p](); }
     a.style.setProperty("--r", (kind === "goat" ? 0 : rot) + "deg"); a.style.animationDelay = -(rnd() * 8).toFixed(2) + "s";
     o.className = "dkI " + depth; o.dataset.s = side; o.appendChild(a); layer.appendChild(o);
-    items.push({ el, o, a, size, side, y, jx: rnd(), par: depth === "far" ? .10 : depth === "mid" ? .05 : -.03 });
+    items.push({ el, o, a, size, side, y, goat: kind === "goat", jx: rnd(), par: depth === "far" ? .10 : depth === "mid" ? .05 : -.03 });
   }
+  const specs = [];
   blocks.forEach(el => {
-    const slots = Math.max(1, Math.round(el.offsetHeight / 520));
+    const slots = Math.max(1, Math.round(el.offsetHeight / 950));
     ["l", "r"].forEach(side => {
       for (let s = 0; s < slots; s++) {
-        if (rnd() < .18) continue;
+        if (rnd() < .45) continue;
         let y = (s + .15 + rnd() * .7) / slots; if (rnd() < .2) y += rnd() < .5 ? -.12 : .12;
-        const r = rnd(); add(el, side, Math.max(-.08, Math.min(1.04, y)), r < .36 ? "goat" : r < .56 ? "group" : "prop");
+        specs.push([el, side, Math.max(-.08, Math.min(1.04, y))]);
       }
     });
   });
+  const want = Math.min(specs.length, isHome ? 3 : 2), gIdx = new Set();
+  for (let j = 0; j < want; j++) gIdx.add(Math.min(specs.length - 1, Math.floor((j + .3 + rnd() * .4) * specs.length / want)));
+  specs.forEach((sp, j) => add(sp[0], sp[1], sp[2], gIdx.has(j) ? "goat" : rnd() < .45 ? "group" : "prop"));
+  items.sort((a, b) => (b.goat ? 1 : 0) - (a.goat ? 1 : 0));
   function box(el) {
     const inner = el.querySelector(":scope > .w, :scope > .wrap, :scope > div") || el, r = inner.getBoundingClientRect(), cs = getComputedStyle(inner);
     return { left: r.left + (parseFloat(cs.paddingLeft) || 0), right: r.right - (parseFloat(cs.paddingRight) || 0), top: el.getBoundingClientRect().top + scrollY, h: el.offsetHeight };

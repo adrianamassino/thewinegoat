@@ -1169,5 +1169,5 @@ var M={it:['Questo sito è disponibile in italiano','Italiano'],fr:['Ce site est
 var ls=navigator.languages||[navigator.language||''],c=null;for(var i=0;i<ls.length;i++){var k=(ls[i]||'').slice(0,2).toLowerCase();if(k==='en')return;if(M[k]){c=k;break;}}
 if(!c)return;var b=document.getElementById('lsug');document.getElementById('lsug-t').textContent=M[c][0];var a=document.getElementById('lsug-a');a.textContent=M[c][1]+' →';a.href='/'+c+'/';a.setAttribute('data-lang',c);
 document.getElementById('lsug-x').onclick=function(){b.hidden=true;b.style.display="none";try{localStorage.setItem('twg-lsug','1');}catch(e){}};b.hidden=false;b.style.display='flex';})();</script>
-<script src="/assets/deco.js?v=5" defer></script></body>
+<script src="/assets/deco.js?v=6" defer></script></body>
 </html>
