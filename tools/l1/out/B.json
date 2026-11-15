@@ -841,6 +841,495 @@
     ]
    ],
    "c": "w3"
+  },
+  {
+   "t": [
+    "Sancerre e Chablis: due bianchi secchi francesi",
+    "Sancerre et Chablis : deux blancs secs français",
+    "Sancerre and Chablis: two dry French whites",
+    "Sancerre y Chablis: dos blancos secos franceses"
+   ],
+   "p": [
+    [
+     "In Europa molti vini prendono il nome dalla zona in cui nascono, non dal vitigno. Per questo sull'etichetta di un Sancerre o di uno Chablis di solito non leggerai il nome dell'uva: sta a chi beve sapere che cosa c'è dentro. Conoscere questi pochi vini famosi permette di leggere molte carte dei vini con sicurezza.",
+     "En Europe, beaucoup de vins portent le nom de leur lieu d'origine, et non celui du cépage. C'est pourquoi l'étiquette d'un Sancerre ou d'un Chablis n'indique en général pas le raisin : c'est à la personne qui boit de savoir ce qu'il y a dedans. Connaître ces quelques vins célèbres permet de lire beaucoup de cartes avec assurance.",
+     "In Europe many wines are named after the place they come from, not the grape. That is why a Sancerre or Chablis label usually does not mention the grape variety: it is up to the drinker to know what is inside. Learning these few famous wines lets you read a great many wine lists with confidence.",
+     "En Europa muchos vinos llevan el nombre del lugar donde nacen, no el de la uva. Por eso en la etiqueta de un Sancerre o de un Chablis normalmente no aparece la variedad: le toca a quien bebe saber qué hay dentro. Conocer estos pocos vinos famosos permite leer muchas cartas de vinos con seguridad."
+    ],
+    [
+     "Il Sancerre è un bianco della Valle della Loira, in Francia, fatto con Sauvignon Blanc. È secco, di corpo medio, con un'acidità alta e profumi intensi di frutta verde (mela) e note erbacee (erba). Di solito non passa in rovere, così gli aromi del vitigno restano nitidi. In carta potresti trovarlo descritto con «agrumi ed erba al naso».",
+     "Le Sancerre est un blanc de la vallée de la Loire, en France, élaboré avec du Sauvignon Blanc. Il est sec, de corps moyen, à l'acidité élevée, avec des arômes intenses de fruit vert (pomme) et des notes herbacées (herbe). Il n'est en général pas boisé, pour garder les arômes du cépage bien nets. Sur une carte, on le décrit souvent avec « agrumes et herbe au nez ».",
+     "Sancerre is a white wine from France's Loire Valley, made from Sauvignon Blanc. It is dry and medium-bodied, with high acidity and pronounced aromas of green fruit (apple) and herbaceous notes (grass). It is usually unoaked, so the grape's aromas stay crisp and clear. A wine list might describe it with «citrus and grass on the nose».",
+     "El Sancerre es un blanco del valle del Loira, en Francia, elaborado con Sauvignon Blanc. Es seco, de cuerpo medio, con acidez alta y aromas intensos de fruta verde (manzana) y notas herbáceas (hierba). Normalmente no pasa por roble, para que los aromas de la uva se mantengan nítidos. En una carta puede aparecer descrito con «cítricos e hierba en nariz»."
+    ],
+    [
+     "Lo Chablis è un bianco di Burgundy fatto con Chardonnay. Viene dalla parte più fresca della regione: le uve maturano meno e restano acide. Il risultato è un vino secco, di corpo da leggero a medio, con acidità alta e aromi di mela verde e limone. È senza rovere, quindi niente vaniglia: solo frutta fresca e tanta freschezza.",
+     "Le Chablis est un blanc de Bourgogne élaboré avec du Chardonnay. Il vient de la partie la plus fraîche de la région : le raisin y mûrit moins et reste acide. On obtient un vin sec, au corps léger à moyen, à l'acidité élevée, aux arômes de pomme verte et de citron. Il n'est pas boisé : pas de vanille, seulement du fruit frais et beaucoup de fraîcheur.",
+     "Chablis is a white Burgundy made from Chardonnay. It comes from the coolest part of the region, where grapes ripen less and keep their acidity. The result is a dry, light to medium-bodied wine with high acidity and aromas of green apple and lemon. It is unoaked, so there is no vanilla: just fresh fruit and plenty of freshness.",
+     "El Chablis es un blanco de Borgoña elaborado con Chardonnay. Procede de la parte más fresca de la región, donde la uva madura menos y conserva su acidez. El resultado es un vino seco, de cuerpo ligero a medio, con acidez alta y aromas de manzana verde y limón. No pasa por roble, así que no hay vainilla: solo fruta fresca y mucha frescura."
+    ],
+    [
+     "Sancerre e Chablis si somigliano: entrambi secchi, freschi, senza legno, con mela verde. Per distinguerli guarda le note «in più»: il Sancerre ha profumi più intensi e note erbacee come l'erba tagliata, tipiche del Sauvignon Blanc; lo Chablis è più sobrio, con mela e limone e un corpo che può essere più leggero.",
+     "Le Sancerre et le Chablis se ressemblent : tous deux secs, frais, sans bois, sur la pomme verte. Pour les distinguer, regardez les notes « en plus » : le Sancerre a des arômes plus intenses et des notes herbacées comme l'herbe coupée, typiques du Sauvignon Blanc ; le Chablis est plus sobre, sur la pomme et le citron, avec un corps parfois plus léger.",
+     "Sancerre and Chablis have a lot in common: both dry, fresh and unoaked, with green apple. To tell them apart, look for the «extra» notes: Sancerre has more pronounced aromas and herbaceous notes like cut grass, typical of Sauvignon Blanc, while Chablis is more restrained, with apple and lemon and a body that can be lighter.",
+     "El Sancerre y el Chablis se parecen: ambos secos, frescos, sin madera y con manzana verde. Para distinguirlos, fíjate en las notas «de más»: el Sancerre tiene aromas más intensos y notas herbáceas como la hierba cortada, típicas de la Sauvignon Blanc; el Chablis es más sobrio, con manzana y limón y un cuerpo que puede ser más ligero."
+    ]
+   ],
+   "keys": [
+    [
+     "Molti vini europei portano il nome della zona, non dell'uva",
+     "Beaucoup de vins européens portent le nom du lieu, pas du cépage",
+     "Many European wines are named after the place, not the grape",
+     "Muchos vinos europeos llevan el nombre del lugar, no de la uva"
+    ],
+    [
+     "Sancerre: Loira, Sauvignon Blanc, secco, corpo medio, mela ed erba, senza rovere",
+     "Sancerre : Loire, Sauvignon Blanc, sec, corps moyen, pomme et herbe, sans bois",
+     "Sancerre: Loire, Sauvignon Blanc, dry, medium body, apple and grass, unoaked",
+     "Sancerre: Loira, Sauvignon Blanc, seco, cuerpo medio, manzana e hierba, sin roble"
+    ],
+    [
+     "Chablis: Burgundy più fresca, Chardonnay, leggero-medio, mela e limone, senza rovere",
+     "Chablis : Bourgogne la plus fraîche, Chardonnay, léger à moyen, pomme et citron, sans bois",
+     "Chablis: coolest Burgundy, Chardonnay, light-medium, apple and lemon, unoaked",
+     "Chablis: la Borgoña más fresca, Chardonnay, ligero a medio, manzana y limón, sin roble"
+    ],
+    [
+     "Entrambi: acidità alta",
+     "Les deux : acidité élevée",
+     "Both: high acidity",
+     "Ambos: acidez alta"
+    ]
+   ],
+   "c": "w4"
+  },
+  {
+   "t": [
+    "Burgundy (Bourgogne): bianchi e rossi",
+    "Bourgogne (Burgundy) : blancs et rouges",
+    "Burgundy (Bourgogne): white and red",
+    "Borgoña (Bourgogne): blancos y tintos"
+   ],
+   "p": [
+    [
+     "Burgundy è una regione della Francia che produce sia vini bianchi sia vini rossi. In etichetta trovi spesso il nome francese, «Bourgogne», sia sui bianchi sia sui rossi. Alcune etichette riportano invece il nome di un paese della regione, come Meursault, Puligny-Montrachet o Volnay. La regola è semplice: i bianchi sono Chardonnay, i rossi sono Pinot Noir.",
+     "La Bourgogne (Burgundy en anglais) est une région française qui produit à la fois des blancs et des rouges. Le mot « Bourgogne » figure souvent sur l'étiquette des deux couleurs. Certaines étiquettes indiquent plutôt le nom d'un village de la région, comme Meursault, Puligny-Montrachet ou Volnay. La règle est simple : les blancs sont du Chardonnay, les rouges du Pinot Noir.",
+     "Burgundy is a French region that makes both white and red wines. The French name, «Bourgogne», often appears on labels of both colours. Some labels show the name of a village in the region instead, such as Meursault, Puligny-Montrachet or Volnay. The rule is simple: the whites are Chardonnay and the reds are Pinot Noir.",
+     "Borgoña (Burgundy en inglés) es una región francesa que produce tanto blancos como tintos. En la etiqueta aparece a menudo el nombre francés, «Bourgogne», en vinos de ambos colores. Algunas etiquetas indican en cambio el nombre de un pueblo de la región, como Meursault, Puligny-Montrachet o Volnay. La regla es sencilla: los blancos son Chardonnay y los tintos, Pinot Noir."
+    ],
+    [
+     "I bianchi di Burgundy sono secchi, di corpo medio e con un'acidità alta. Possono essere affinati in rovere oppure no. Rispetto allo Chablis, che viene dalla zona più fresca, mostrano spesso una frutta più matura: agrumi come il limone, ma anche frutta a nocciolo come la pesca. Se sono passati in legno, aggiungono note di vaniglia.",
+     "Les Bourgogne blancs sont secs, de corps moyen, à l'acidité élevée. Ils peuvent être élevés en chêne ou non. Par rapport au Chablis, issu de la zone la plus fraîche, ils montrent souvent un fruit plus mûr : des agrumes comme le citron, mais aussi des fruits à noyau comme la pêche. S'ils sont boisés, ils prennent des notes de vanille.",
+     "White Burgundies are dry and medium-bodied, with high acidity. They can be oaked or unoaked. Compared with Chablis, which comes from the coolest area, they often show riper fruit: citrus such as lemon, but also stone fruit such as peach. When they have been aged in oak, they add vanilla notes.",
+     "Los Borgoña blancos son secos, de cuerpo medio y con acidez alta. Pueden criarse en roble o no. Frente al Chablis, que procede de la zona más fresca, muestran a menudo una fruta más madura: cítricos como el limón, pero también fruta de hueso como el melocotón. Si han pasado por madera, suman notas de vainilla."
+    ],
+    [
+     "I rossi di Burgundy sono secchi, di corpo da leggero a medio, con acidità alta e tannino da basso a medio. Profumano di frutti rossi come lampone e ciliegia rossa e, a volte, di vaniglia e affumicato grazie al rovere. Sono quindi rossi eleganti e freschi, l'opposto dei rossi potenti e tannici come il Bordeaux.",
+     "Les Bourgogne rouges sont secs, au corps léger à moyen, à l'acidité élevée et aux tanins faibles à moyens. Ils sentent les fruits rouges comme la framboise et la cerise rouge, et parfois la vanille et le fumé grâce au chêne. Ce sont donc des rouges élégants et frais, à l'opposé des rouges puissants et tanniques comme le Bordeaux.",
+     "Red Burgundies are dry, light to medium-bodied, with high acidity and low to medium tannin. They smell of red fruit such as raspberry and red cherry and sometimes of vanilla and smoke from oak. They are elegant, fresh reds: the opposite of powerful, tannic reds such as Bordeaux.",
+     "Los Borgoña tintos son secos, de cuerpo ligero a medio, con acidez alta y tanino bajo a medio. Huelen a frutas rojas como la frambuesa y la cereza roja y, a veces, a vainilla y ahumado gracias al roble. Son, por tanto, tintos elegantes y frescos, lo opuesto a tintos potentes y tánicos como el Bordeaux."
+    ]
+   ],
+   "keys": [
+    [
+     "«Bourgogne» = Burgundy in francese, su bianchi e rossi",
+     "« Bourgogne » = Burgundy, sur les blancs comme sur les rouges",
+     "«Bourgogne» = Burgundy in French, on whites and reds",
+     "«Bourgogne» = Borgoña en francés, en blancos y tintos"
+    ],
+    [
+     "Bianco: Chardonnay, secco, corpo medio, limone e pesca, con o senza rovere",
+     "Blanc : Chardonnay, sec, corps moyen, citron et pêche, avec ou sans chêne",
+     "White: Chardonnay, dry, medium body, lemon and peach, oaked or unoaked",
+     "Blanco: Chardonnay, seco, cuerpo medio, limón y melocotón, con o sin roble"
+    ],
+    [
+     "Rosso: Pinot Noir, leggero-medio, acidità alta, lampone e ciliegia rossa",
+     "Rouge : Pinot Noir, léger à moyen, acidité élevée, framboise et cerise rouge",
+     "Red: Pinot Noir, light-medium, high acidity, raspberry and red cherry",
+     "Tinto: Pinot Noir, ligero a medio, acidez alta, frambuesa y cereza roja"
+    ],
+    [
+     "Frutta più matura rispetto allo Chablis",
+     "Fruit plus mûr que le Chablis",
+     "Riper fruit than Chablis",
+     "Fruta más madura que el Chablis"
+    ]
+   ],
+   "c": "w4"
+  },
+  {
+   "t": [
+    "Bordeaux",
+    "Bordeaux",
+    "Bordeaux",
+    "Burdeos (Bordeaux)"
+   ],
+   "p": [
+    [
+     "Bordeaux è una regione della Francia famosa soprattutto per i vini rossi. Il rosso di Bordeaux è di solito un taglio di Cabernet Sauvignon e Merlot. I due vitigni si completano: il Cabernet Sauvignon porta tannino e acidità, il Merlot morbidezza e corpo. Il nome in etichetta è quello della regione o di una sua zona, non dei vitigni.",
+     "Bordeaux est une région française célèbre surtout pour ses vins rouges. Le Bordeaux rouge est en général un assemblage de Cabernet Sauvignon et de Merlot. Les deux cépages se complètent : le Cabernet Sauvignon apporte tanins et acidité, le Merlot souplesse et corps. L'étiquette indique la région ou une de ses zones, pas les cépages.",
+     "Bordeaux is a French region famous above all for its red wines. Red Bordeaux is usually a blend of Cabernet Sauvignon and Merlot. The two grapes complete each other: Cabernet Sauvignon brings tannin and acidity, Merlot brings softness and body. The label shows the region or one of its areas, not the grapes.",
+     "Burdeos (Bordeaux) es una región francesa famosa sobre todo por sus tintos. El Bordeaux tinto suele ser un ensamblaje de Cabernet Sauvignon y Merlot. Las dos uvas se complementan: el Cabernet Sauvignon aporta tanino y acidez, y el Merlot suavidad y cuerpo. La etiqueta indica la región o una de sus zonas, no las uvas."
+    ],
+    [
+     "Lo stile dei rossi di Bordeaux è secco, di corpo da medio a pieno, con acidità e tannino alti. Gli aromi sono di frutti neri, come mora e ribes nero, con note di cedro dovute al rovere. È uno dei classici esempi di vino rosso molto tannico: in bocca si sente bene la sensazione di asciugatura.",
+     "Le style des Bordeaux rouges est sec, au corps moyen à ample, avec une acidité et des tanins élevés. Les arômes sont de fruits noirs, comme la mûre et le cassis, avec des notes de cèdre dues au chêne. C'est l'un des exemples classiques de rouge très tannique : en bouche, on sent nettement l'assèchement.",
+     "The style of red Bordeaux is dry, medium to full-bodied, with high acidity and high tannin. The aromas are of black fruit such as blackberry and blackcurrant, with cedar notes from oak. It is one of the classic examples of a high-tannin red: you clearly feel the drying sensation in your mouth.",
+     "El estilo de los Bordeaux tintos es seco, de cuerpo medio a alto, con acidez y tanino altos. Los aromas son de frutas negras, como la mora y la grosella negra, con notas de cedro procedentes del roble. Es uno de los ejemplos clásicos de tinto muy tánico: en boca se nota claramente la sensación de sequedad."
+    ],
+    [
+     "Su una carta dei vini, un Bordeaux può comparire con il nome di una zona della regione. Per esempio, un Saint-Émilion può essere descritto come «taglio a prevalenza Merlot, mora e cedro», mentre un Margaux come «tannino alto, ribes nero concentrato e cedro». Ricorda anche che Bordeaux produce un famoso bianco dolce, il Sauternes.",
+     "Sur une carte, un Bordeaux peut apparaître sous le nom d'une zone de la région. Par exemple, un Saint-Émilion peut être décrit comme « assemblage à dominante Merlot, mûre et cèdre », et un Margaux comme « tanins élevés, cassis concentré et cèdre ». Retenez aussi que Bordeaux produit un célèbre blanc doux, le Sauternes.",
+     "On a wine list, a Bordeaux may appear under the name of an area within the region. A Saint-Émilion, for example, might be described as «a Merlot-dominant blend with blackberry and cedar», and a Margaux as «high tannin, concentrated blackcurrant and cedar». Remember too that Bordeaux makes a famous sweet white, Sauternes.",
+     "En una carta, un Bordeaux puede aparecer con el nombre de una zona de la región. Por ejemplo, un Saint-Émilion puede describirse como «ensamblaje con predominio de Merlot, mora y cedro», y un Margaux como «tanino alto, grosella negra concentrada y cedro». Recuerda también que Burdeos produce un famoso blanco dulce, el Sauternes."
+    ]
+   ],
+   "keys": [
+    [
+     "Soprattutto rossi: taglio di Cabernet Sauvignon e Merlot",
+     "Surtout des rouges : assemblage Cabernet Sauvignon et Merlot",
+     "Mostly red: a blend of Cabernet Sauvignon and Merlot",
+     "Sobre todo tintos: mezcla de Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Secco, corpo medio-pieno, acidità e tannino alti",
+     "Sec, corps moyen à ample, acidité et tanins élevés",
+     "Dry, medium to full body, high acidity and tannin",
+     "Seco, cuerpo medio a alto, acidez y tanino altos"
+    ],
+    [
+     "Mora, ribes nero, cedro dal rovere",
+     "Mûre, cassis, cèdre du chêne",
+     "Blackberry, blackcurrant, cedar from oak",
+     "Mora, grosella negra, cedro del roble"
+    ],
+    [
+     "Zone in etichetta: es. Saint-Émilion, Margaux",
+     "Zones sur l'étiquette : ex. Saint-Émilion, Margaux",
+     "Areas on labels: e.g. Saint-Émilion, Margaux",
+     "Zonas en la etiqueta: p. ej. Saint-Émilion, Margaux"
+    ]
+   ],
+   "c": "w4"
+  },
+  {
+   "t": [
+    "Champagne",
+    "Champagne",
+    "Champagne",
+    "Champagne"
+   ],
+   "p": [
+    [
+     "Lo Champagne è il più famoso vino spumante al mondo e viene dalla Francia. Si fa con Chardonnay e Pinot Noir, spesso uniti tra loro. Il Pinot Noir è un'uva nera, ma dato che il suo succo è incolore, separando subito le bucce si ottiene un vino chiaro. Le bollicine nascono dall'anidride carbonica della fermentazione, trattenuta nel vino.",
+     "Le Champagne est le vin effervescent le plus célèbre au monde et il vient de France. Il est élaboré avec du Chardonnay et du Pinot Noir, souvent assemblés. Le Pinot Noir est un raisin noir, mais son jus étant incolore, on obtient un vin clair en séparant tout de suite les peaux. Les bulles viennent du dioxyde de carbone de la fermentation, retenu dans le vin.",
+     "Champagne is the world's most famous sparkling wine, and it comes from France. It is made from Chardonnay and Pinot Noir, often blended together. Pinot Noir is a black grape, but because its juice is colourless, removing the skins straight away gives a pale wine. The bubbles come from fermentation carbon dioxide that is kept in the wine.",
+     "El Champagne es el espumoso más famoso del mundo y procede de Francia. Se elabora con Chardonnay y Pinot Noir, a menudo mezcladas. La Pinot Noir es una uva tinta, pero como su zumo es incoloro, separando enseguida los hollejos se obtiene un vino claro. Las burbujas proceden del dióxido de carbono de la fermentación, retenido en el vino."
+    ],
+    [
+     "Lo stile tipico dello Champagne è secco, con acidità alta e aromi di frutta verde (mela) e agrumi (limone). A questi si aggiungono note di pane tostato, che lo rendono riconoscibile rispetto ad altri spumanti più semplici e fruttati. Un esempio di carta: «spumante secco, mela e limone, acidità alta», intorno al 12,5% vol.",
+     "Le style typique du Champagne est sec, à l'acidité élevée, avec des arômes de fruit vert (pomme) et d'agrumes (citron). S'y ajoutent des notes de pain grillé, qui le distinguent d'effervescents plus simples et fruités. Exemple de carte : « effervescent sec, pomme et citron, acidité élevée », autour de 12,5 % vol.",
+     "Champagne's typical style is dry, with high acidity and aromas of green fruit (apple) and citrus (lemon). On top of that come notes of toasted bread, which set it apart from simpler, fruitier sparkling wines. A wine list might read: «dry sparkling, apple and lemon, high acidity», at around 12.5% abv.",
+     "El estilo típico del Champagne es seco, con acidez alta y aromas de fruta verde (manzana) y cítricos (limón). A ellos se suman notas de pan tostado, que lo distinguen de otros espumosos más sencillos y afrutados. Un ejemplo de carta: «espumoso seco, manzana y limón, acidez alta», en torno al 12,5 % vol."
+    ],
+    [
+     "Lo Champagne è anche il vino di riferimento quando si parla di servizio degli spumanti: va servito ben freddo, intorno ai 6–10 °C, e la bottiglia va aperta con attenzione, tenendo sempre il tappo con la mano per via della pressione interna. Lo Champagne collega così due capitoli: i grandi vitigni e il servizio del vino.",
+     "Le Champagne sert aussi de référence pour le service des effervescents : il se sert bien frais, autour de 6–10 °C, et la bouteille s'ouvre avec précaution, en gardant toujours le bouchon en main à cause de la pression. Le Champagne relie ainsi deux chapitres : les grands cépages et le service du vin.",
+     "Champagne is also the reference point for serving sparkling wine: it should be served well chilled, around 6–10 °C, and the bottle opened with care, always keeping a hand on the cork because of the pressure inside. Champagne therefore links two topics: the key grapes and wine service.",
+     "El Champagne es también la referencia para el servicio de espumosos: se sirve muy frío, en torno a 6–10 °C, y la botella se abre con cuidado, sujetando siempre el corcho con la mano por la presión interior. Así, el Champagne enlaza dos temas: las grandes uvas y el servicio del vino."
+    ]
+   ],
+   "keys": [
+    [
+     "Spumante francese, il più famoso",
+     "Effervescent français, le plus célèbre",
+     "French sparkling wine, the best known",
+     "Espumoso francés, el más famoso"
+    ],
+    [
+     "Chardonnay + Pinot Noir",
+     "Chardonnay + Pinot Noir",
+     "Chardonnay + Pinot Noir",
+     "Chardonnay + Pinot Noir"
+    ],
+    [
+     "Secco, acidità alta, mela, limone, pane tostato",
+     "Sec, acidité élevée, pomme, citron, pain grillé",
+     "Dry, high acidity, apple, lemon, toasted bread",
+     "Seco, acidez alta, manzana, limón, pan tostado"
+    ],
+    [
+     "Servire ben freddo (6–10 °C)",
+     "Servir bien frais (6–10 °C)",
+     "Serve well chilled (6–10 °C)",
+     "Servir muy frío (6–10 °C)"
+    ]
+   ],
+   "c": "w4"
+  },
+  {
+   "t": [
+    "Un bianco dolce e un rosato: Sauternes e White Zinfandel",
+    "Un blanc doux et un rosé : Sauternes et White Zinfandel",
+    "A sweet white and a rosé: Sauternes and White Zinfandel",
+    "Un blanco dulce y un rosado: Sauternes y White Zinfandel"
+   ],
+   "p": [
+    [
+     "I vini di questo capitolo non sono fatti con i quattro bianchi e i quattro rossi principali, ma sono così famosi che è utile conoscerli. Per ciascuno basta ricordare l'essenziale: da dove viene, che tipo di vino è (fermo, spumante, fortificato), il colore e i tratti chiave di stile. Iniziamo da due vini molto diversi tra loro.",
+     "Les vins de ce chapitre ne sont pas faits avec les quatre grands blancs et les quatre grands rouges, mais ils sont si connus qu'il est utile de les connaître. Pour chacun, il suffit de retenir l'essentiel : d'où il vient, quel type de vin c'est (tranquille, effervescent, fortifié), sa couleur et ses grands traits de style. Commençons par deux vins très différents.",
+     "The wines in this chapter are not made from the four key white and four key black grapes, but they are so well known that they are worth learning. For each one, just remember the essentials: where it comes from, what type of wine it is (still, sparkling or fortified), its colour and its key style traits. Let us start with two very different wines.",
+     "Los vinos de este capítulo no se elaboran con las cuatro grandes blancas ni las cuatro grandes tintas, pero son tan conocidos que conviene saber de ellos. De cada uno basta con recordar lo esencial: de dónde viene, qué tipo de vino es (tranquilo, espumoso o fortificado), su color y sus rasgos clave de estilo. Empecemos por dos vinos muy distintos."
+    ],
+    [
+     "Il Sauternes è un bianco dolce prodotto a Bordeaux. È di corpo pieno, con sapori di frutta a nocciolo (albicocca), miele e vaniglia data dal rovere. La sua acidità alta è fondamentale: bilancia lo zucchero e impedisce che il vino risulti stucchevole. Un modo per ottenere vini dolci come questo è usare uve così ricche di zucchero che i lieviti si fermano prima di averlo consumato tutto.",
+     "Le Sauternes est un blanc doux produit à Bordeaux. Il est corsé, avec des saveurs de fruit à noyau (abricot), de miel et de vanille apportée par le chêne. Son acidité élevée est essentielle : elle équilibre le sucre et l'empêche d'être écœurant. Une façon d'obtenir de tels vins doux est d'utiliser des raisins si sucrés que les levures s'arrêtent avant d'avoir tout consommé.",
+     "Sauternes is a sweet white wine made in Bordeaux. It is full-bodied, with flavours of stone fruit (apricot), honey and vanilla from oak. Its high acidity is vital: it balances the sugar and stops the wine from tasting cloying. One way to make sweet wines like this is to use grapes so rich in sugar that the yeast stop before they have eaten it all.",
+     "El Sauternes es un blanco dulce elaborado en Burdeos. Tiene mucho cuerpo, con sabores de fruta de hueso (albaricoque), miel y vainilla aportada por el roble. Su acidez alta es esencial: equilibra el azúcar y evita que resulte empalagoso. Una forma de obtener vinos dulces así es usar uvas tan ricas en azúcar que las levaduras se detienen antes de consumirlo todo."
+    ],
+    [
+     "Il White Zinfandel, nonostante il nome, è un rosato della California. È senza rovere, poco alcolico e di dolcezza media, con sapori freschi di frutti rossi come fragola e lampone. È l'esempio classico sia di vino poco alcolico sia di rosato con un po' di dolcezza: in carta potresti trovarlo intorno al 10,5% vol.",
+     "Le White Zinfandel, malgré son nom, est un rosé de Californie. Il n'est pas boisé, il est peu alcoolisé et demi-doux, avec des saveurs fraîches de fruits rouges comme la fraise et la framboise. C'est l'exemple classique à la fois du vin peu alcoolisé et du rosé avec un peu de sucre : sur une carte, on peut le trouver autour de 10,5 % vol.",
+     "White Zinfandel, despite its name, is a rosé from California. It is unoaked, low in alcohol and medium-sweet, with fresh red fruit flavours such as strawberry and raspberry. It is the classic example both of a low-alcohol wine and of a rosé with some sweetness: on a list you might see it at around 10.5% abv.",
+     "El White Zinfandel, pese a su nombre, es un rosado de California. No pasa por roble, tiene poco alcohol y un dulzor medio, con sabores frescos de frutas rojas como la fresa y la frambuesa. Es el ejemplo clásico tanto de vino con poco alcohol como de rosado con algo de dulzor: en una carta puede aparecer en torno al 10,5 % vol."
+    ]
+   ],
+   "keys": [
+    [
+     "Sauternes: bianco dolce di Bordeaux, corpo pieno",
+     "Sauternes : blanc doux de Bordeaux, corsé",
+     "Sauternes: sweet white from Bordeaux, full-bodied",
+     "Sauternes: blanco dulce de Burdeos, con cuerpo"
+    ],
+    [
+     "Sauternes: albicocca, miele, vaniglia, acidità alta che bilancia",
+     "Sauternes : abricot, miel, vanille, acidité élevée qui équilibre",
+     "Sauternes: apricot, honey, vanilla, balancing high acidity",
+     "Sauternes: albaricoque, miel, vainilla, acidez alta que equilibra"
+    ],
+    [
+     "White Zinfandel: rosato della California, dolcezza media, alcol basso",
+     "White Zinfandel : rosé de Californie, demi-doux, peu alcoolisé",
+     "White Zinfandel: Californian rosé, medium-sweet, low alcohol",
+     "White Zinfandel: rosado de California, dulzor medio, poco alcohol"
+    ],
+    [
+     "White Zinfandel: fragola e lampone, senza rovere",
+     "White Zinfandel : fraise et framboise, sans bois",
+     "White Zinfandel: strawberry and raspberry, unoaked",
+     "White Zinfandel: fresa y frambuesa, sin roble"
+    ]
+   ],
+   "c": "w5"
+  },
+  {
+   "t": [
+    "Tre rossi francesi: Beaujolais, Côtes du Rhône, Châteauneuf-du-Pape",
+    "Trois rouges français : Beaujolais, Côtes du Rhône, Châteauneuf-du-Pape",
+    "Three French reds: Beaujolais, Côtes du Rhône, Châteauneuf-du-Pape",
+    "Tres tintos franceses: Beaujolais, Côtes du Rhône, Châteauneuf-du-Pape"
+   ],
+   "p": [
+    [
+     "Il modo più semplice per ricordare questi tre rossi è metterli in fila per corpo: dal più leggero al più pieno. Il Beaujolais è leggero, il Côtes du Rhône è medio, lo Châteauneuf-du-Pape è pieno. Tutti e tre sono francesi e secchi, ma con caratteri ben diversi.",
+     "Le plus simple pour retenir ces trois rouges est de les ranger par corps, du plus léger au plus ample. Le Beaujolais est léger, le Côtes du Rhône moyen, le Châteauneuf-du-Pape corsé. Tous trois sont français et secs, mais leurs caractères sont bien différents.",
+     "The easiest way to remember these three reds is to line them up by body, from lightest to fullest. Beaujolais is light, Côtes du Rhône is medium and Châteauneuf-du-Pape is full. All three are French and dry, but each has a very different character.",
+     "La forma más sencilla de recordar estos tres tintos es ordenarlos por cuerpo, del más ligero al de más cuerpo. El Beaujolais es ligero, el Côtes du Rhône es medio y el Châteauneuf-du-Pape tiene mucho cuerpo. Los tres son franceses y secos, pero con caracteres muy distintos."
+    ],
+    [
+     "Il Beaujolais è un rosso secco e leggero, senza rovere, con sapori freschi di frutti rossi come lampone e ciliegia rossa e con poco tannino. È l'esempio tipico di rosso leggero e poco tannico. Proprio perché è leggero, si può servire leggermente fresco, intorno ai 13 °C.",
+     "Le Beaujolais est un rouge sec et léger, non boisé, aux saveurs fraîches de fruits rouges comme la framboise et la cerise rouge, et peu tannique. C'est l'exemple type du rouge léger aux tanins faibles. Justement parce qu'il est léger, on peut le servir légèrement rafraîchi, autour de 13 °C.",
+     "Beaujolais is a dry, light-bodied, unoaked red with fresh red fruit flavours such as raspberry and red cherry and low tannin. It is the standard example of a light, low-tannin red. Precisely because it is light, it can be served lightly chilled, at around 13 °C.",
+     "El Beaujolais es un tinto seco y ligero, sin roble, con sabores frescos de frutas rojas como frambuesa y cereza roja y poco tanino. Es el ejemplo típico de tinto ligero y poco tánico. Precisamente por ser ligero, puede servirse ligeramente fresco, en torno a 13 °C."
+    ],
+    [
+     "Il Côtes du Rhône è un rosso secco di corpo medio, con frutti rossi come fragola e prugna rossa e una nota speziata di pepe bianco. Può essere con o senza rovere. Lo Châteauneuf-du-Pape, anche lui della zona del Rodano, è secco, di corpo pieno e ricco di alcol, con fragola e chiodi di garofano dati dal rovere.",
+     "Le Côtes du Rhône est un rouge sec de corps moyen, aux fruits rouges comme la fraise et la prune rouge, avec une note épicée de poivre blanc. Il peut être boisé ou non. Le Châteauneuf-du-Pape, lui aussi de la vallée du Rhône, est sec, corsé et riche en alcool, avec fraise et clou de girofle apporté par le chêne.",
+     "Côtes du Rhône is a dry, medium-bodied red with red fruit such as strawberry and red plum and a spicy note of white pepper. It can be oaked or unoaked. Châteauneuf-du-Pape, also from the Rhône area, is dry, full-bodied and high in alcohol, with strawberry and cloves from oak.",
+     "El Côtes du Rhône es un tinto seco de cuerpo medio, con frutas rojas como fresa y ciruela roja y una nota especiada de pimienta blanca. Puede tener o no roble. El Châteauneuf-du-Pape, también de la zona del Ródano, es seco, con mucho cuerpo y mucho alcohol, con fresa y clavo aportado por el roble."
+    ]
+   ],
+   "keys": [
+    [
+     "Beaujolais: leggero, senza rovere, lampone e ciliegia rossa, poco tannino",
+     "Beaujolais : léger, non boisé, framboise et cerise rouge, peu tannique",
+     "Beaujolais: light, unoaked, raspberry and red cherry, low tannin",
+     "Beaujolais: ligero, sin roble, frambuesa y cereza roja, poco tanino"
+    ],
+    [
+     "Côtes du Rhône: medio, fragola, prugna rossa, pepe bianco; con o senza rovere",
+     "Côtes du Rhône : moyen, fraise, prune rouge, poivre blanc ; boisé ou non",
+     "Côtes du Rhône: medium, strawberry, red plum, white pepper; oaked or not",
+     "Côtes du Rhône: medio, fresa, ciruela roja, pimienta blanca; con o sin roble"
+    ],
+    [
+     "Châteauneuf-du-Pape: pieno, alcol alto, fragola e chiodi di garofano",
+     "Châteauneuf-du-Pape : corsé, alcool élevé, fraise et clou de girofle",
+     "Châteauneuf-du-Pape: full, high alcohol, strawberry and clove",
+     "Châteauneuf-du-Pape: con cuerpo, alcohol alto, fresa y clavo"
+    ]
+   ],
+   "c": "w5"
+  },
+  {
+   "t": [
+    "Chianti e Rioja",
+    "Chianti et Rioja",
+    "Chianti and Rioja",
+    "Chianti y Rioja"
+   ],
+   "p": [
+    [
+     "Il Chianti è un rosso italiano secco e di corpo medio. Ha tannino alto e acidità alta: in bocca è asciutto e molto fresco. I sapori sono di frutti rossi come ciliegia rossa e prugna rossa, con note di erbe secche e, a volte, di chiodi di garofano dovuti al rovere. Viene dalla Toscana; in carta potresti trovare per esempio un Chianti Classico.",
+     "Le Chianti est un rouge italien sec, de corps moyen. Il a des tanins élevés et une acidité élevée : en bouche, il est asséchant et très frais. Les saveurs sont de fruits rouges comme la cerise rouge et la prune rouge, avec des notes d'herbes séchées et parfois de clou de girofle dû au chêne. Il vient de Toscane ; sur une carte, on peut trouver par exemple un Chianti Classico.",
+     "Chianti is a dry, medium-bodied Italian red. It has high tannin and high acidity, so it feels both drying and very fresh. The flavours are of red fruit such as red cherry and red plum, with dried herb notes and sometimes cloves from oak. It comes from Tuscany; on a list you might find a Chianti Classico, for example.",
+     "El Chianti es un tinto italiano seco y de cuerpo medio. Tiene tanino alto y acidez alta: en boca resulta secante y muy fresco. Los sabores son de frutas rojas como cereza roja y ciruela roja, con notas de hierbas secas y, a veces, de clavo procedente del roble. Viene de la Toscana; en una carta puedes encontrar, por ejemplo, un Chianti Classico."
+    ],
+    [
+     "Il Rioja è un rosso spagnolo secco, di corpo da medio a pieno. Ha tipicamente sapori di frutti rossi, soprattutto fragola, e di vaniglia data dal rovere. Questa combinazione «fragola + vaniglia» è il suo segno distintivo. In carta potresti trovare la dicitura Rioja Crianza, descritta per esempio con «fragola e note di vaniglia».",
+     "Le Rioja est un rouge espagnol sec, au corps moyen à ample. Il a typiquement des saveurs de fruits rouges, surtout la fraise, et de vanille apportée par le chêne. Ce duo « fraise + vanille » est sa signature. Sur une carte, on peut trouver la mention Rioja Crianza, décrite par exemple avec « fraise et notes de vanille ».",
+     "Rioja is a dry Spanish red with a medium to full body. It typically shows red fruit, especially strawberry, and vanilla from oak. That «strawberry + vanilla» combination is its signature. On a wine list you may see Rioja Crianza, described for example as «strawberry fruit with notes of vanilla».",
+     "El Rioja es un tinto español seco, de cuerpo medio a alto. Tiene típicamente sabores de frutas rojas, sobre todo fresa, y vainilla aportada por el roble. Esa combinación «fresa + vainilla» es su seña de identidad. En una carta puedes ver la mención Rioja Crianza, descrita por ejemplo con «fresa y notas de vainilla»."
+    ],
+    [
+     "Per non confonderli: entrambi hanno frutti rossi, ma il Chianti punta su tannino e acidità alti con erbe secche, mentre il Rioja è più morbido e segnato dalla vaniglia del rovere. Ricorda anche i paesi: Chianti = Italia, Rioja = Spagna. Sono due esempi classici di vini che prendono il nome dalla zona di produzione.",
+     "Pour ne pas les confondre : tous deux ont des fruits rouges, mais le Chianti mise sur des tanins et une acidité élevés avec des herbes séchées, tandis que le Rioja est plus rond et marqué par la vanille du chêne. Retenez aussi les pays : Chianti = Italie, Rioja = Espagne. Ce sont deux exemples classiques de vins nommés d'après leur région.",
+     "To tell them apart: both show red fruit, but Chianti is built on high tannin and acidity with dried herbs, while Rioja is rounder and marked by vanilla from oak. Remember the countries too: Chianti = Italy, Rioja = Spain. Both are classic examples of wines named after the region where they are made.",
+     "Para no confundirlos: ambos tienen frutas rojas, pero el Chianti se apoya en un tanino y una acidez altos con hierbas secas, mientras que el Rioja es más redondo y está marcado por la vainilla del roble. Recuerda también los países: Chianti = Italia, Rioja = España. Son dos ejemplos clásicos de vinos que se llaman como su zona."
+    ]
+   ],
+   "keys": [
+    [
+     "Chianti: Italia, secco, corpo medio, tannino e acidità alti",
+     "Chianti : Italie, sec, corps moyen, tanins et acidité élevés",
+     "Chianti: Italy, dry, medium body, high tannin and acidity",
+     "Chianti: Italia, seco, cuerpo medio, tanino y acidez altos"
+    ],
+    [
+     "Chianti: ciliegia e prugna rossa, erbe secche, a volte chiodi di garofano",
+     "Chianti : cerise et prune rouges, herbes séchées, parfois girofle",
+     "Chianti: red cherry and plum, dried herbs, sometimes cloves",
+     "Chianti: cereza y ciruela rojas, hierbas secas, a veces clavo"
+    ],
+    [
+     "Rioja: Spagna, secco, corpo medio-pieno",
+     "Rioja : Espagne, sec, corps moyen à ample",
+     "Rioja: Spain, dry, medium to full body",
+     "Rioja: España, seco, cuerpo medio a alto"
+    ],
+    [
+     "Rioja: fragola e vaniglia dal rovere",
+     "Rioja : fraise et vanille du chêne",
+     "Rioja: strawberry and vanilla from oak",
+     "Rioja: fresa y vainilla del roble"
+    ]
+   ],
+   "c": "w5"
+  },
+  {
+   "t": [
+    "Due spumanti: Prosecco e Cava",
+    "Deux effervescents : Prosecco et Cava",
+    "Two sparkling wines: Prosecco and Cava",
+    "Dos espumosos: Prosecco y Cava"
+   ],
+   "p": [
+    [
+     "Accanto allo Champagne, due spumanti molto noti sono il Prosecco e il Cava. Come tutti gli spumanti, devono le bollicine all'anidride carbonica prodotta dalla fermentazione e rimasta intrappolata nel vino. Per distinguerli conviene ricordare paese, dolcezza e frutta tipica di ciascuno.",
+     "À côté du Champagne, deux effervescents très connus sont le Prosecco et le Cava. Comme tous les effervescents, ils doivent leurs bulles au dioxyde de carbone produit par la fermentation et resté piégé dans le vin. Pour les distinguer, il vaut mieux retenir le pays, la sucrosité et le fruit typique de chacun.",
+     "Alongside Champagne, two very well-known sparkling wines are Prosecco and Cava. Like all sparkling wines, they owe their bubbles to carbon dioxide produced by fermentation and kept trapped in the wine. To tell them apart, remember the country, sweetness and typical fruit of each.",
+     "Junto al Champagne, dos espumosos muy conocidos son el Prosecco y el Cava. Como todos los espumosos, deben sus burbujas al dióxido de carbono que produce la fermentación y que queda atrapado en el vino. Para distinguirlos, conviene recordar el país, el dulzor y la fruta típica de cada uno."
+    ],
+    [
+     "Il Prosecco è uno spumante italiano di corpo leggero, con aromi di frutta verde (pera) e floreali. Può essere secco oppure di dolcezza media: in carta potresti trovarlo descritto come «leggero, dolcezza media, profumo di pera», intorno al 12% vol. È uno spumante fresco e fruttato, senza le note di pane tostato dello Champagne.",
+     "Le Prosecco est un effervescent italien léger, aux arômes de fruit vert (poire) et floraux. Il peut être sec ou demi-doux : sur une carte, on peut le trouver décrit comme « léger, demi-doux, arômes de poire », autour de 12 % vol. C'est un effervescent frais et fruité, sans les notes de pain grillé du Champagne.",
+     "Prosecco is a light-bodied Italian sparkling wine with green fruit (pear) and floral aromas. It can be dry or medium-sweet: a list might describe it as «light-bodied, medium sweetness, pear aromas», at around 12% abv. It is a fresh, fruity sparkling wine without Champagne's toasted bread notes.",
+     "El Prosecco es un espumoso italiano de cuerpo ligero, con aromas de fruta verde (pera) y florales. Puede ser seco o de dulzor medio: en una carta puede aparecer como «ligero, dulzor medio, aromas de pera», en torno al 12 % vol. Es un espumoso fresco y afrutado, sin las notas de pan tostado del Champagne."
+    ],
+    [
+     "Il Cava è uno spumante secco della Spagna, con sapori di frutta verde (mela) e agrumi (limone). Riassumendo: Prosecco = Italia, pera e fiori, secco o medio; Cava = Spagna, mela e limone, secco; Champagne = Francia, mela, limone e pane tostato, secco.",
+     "Le Cava est un effervescent sec d'Espagne, aux saveurs de fruit vert (pomme) et d'agrumes (citron). En résumé : Prosecco = Italie, poire et fleurs, sec ou demi-doux ; Cava = Espagne, pomme et citron, sec ; Champagne = France, pomme, citron et pain grillé, sec.",
+     "Cava is a dry sparkling wine from Spain with green fruit (apple) and citrus (lemon) flavours. To sum up: Prosecco = Italy, pear and flowers, dry or medium; Cava = Spain, apple and lemon, dry; Champagne = France, apple, lemon and toasted bread, dry.",
+     "El Cava es un espumoso seco de España, con sabores de fruta verde (manzana) y cítricos (limón). En resumen: Prosecco = Italia, pera y flores, seco o de dulzor medio; Cava = España, manzana y limón, seco; Champagne = Francia, manzana, limón y pan tostado, seco."
+    ]
+   ],
+   "keys": [
+    [
+     "Prosecco: Italia, leggero, pera e fiori",
+     "Prosecco : Italie, léger, poire et fleurs",
+     "Prosecco: Italy, light-bodied, pear and floral",
+     "Prosecco: Italia, ligero, pera y flores"
+    ],
+    [
+     "Prosecco: secco o di dolcezza media",
+     "Prosecco : sec ou demi-doux",
+     "Prosecco: dry or medium-sweet",
+     "Prosecco: seco o de dulzor medio"
+    ],
+    [
+     "Cava: Spagna, secco, mela e limone",
+     "Cava : Espagne, sec, pomme et citron",
+     "Cava: Spain, dry, apple and lemon",
+     "Cava: España, seco, manzana y limón"
+    ]
+   ],
+   "c": "w5"
+  },
+  {
+   "t": [
+    "Due fortificati: Sherry e Port",
+    "Deux vins fortifiés : Sherry et Port",
+    "Two fortified wines: Sherry and Port",
+    "Dos fortificados: Sherry y Port"
+   ],
+   "p": [
+    [
+     "Sherry e Port sono i due vini fortificati da conoscere. Fortificato significa che al vino è stato aggiunto alcol, per questo il grado è più alto di quello dei vini fermi, tra il 15% e il 22% vol. Se l'alcol viene aggiunto prima che i lieviti abbiano consumato tutto lo zucchero, i lieviti muoiono e il vino resta dolce.",
+     "Le Sherry et le Port sont les deux vins fortifiés à connaître. Fortifié signifie qu'on a ajouté de l'alcool au vin, d'où un degré plus élevé que celui des vins tranquilles, entre 15 % et 22 % vol. Si l'alcool est ajouté avant que les levures aient consommé tout le sucre, elles meurent et le vin reste doux.",
+     "Sherry and Port are the two fortified wines to know. Fortified means that alcohol has been added to the wine, which is why they are stronger than still wines, at 15% to 22% abv. If the alcohol is added before the yeast have eaten all the sugar, the yeast die and the wine stays sweet.",
+     "El Sherry y el Port son los dos vinos fortificados que conviene conocer. Fortificado significa que se ha añadido alcohol al vino, por eso tienen más graduación que los tranquilos, entre el 15 % y el 22 % vol. Si el alcohol se añade antes de que las levaduras se coman todo el azúcar, estas mueren y el vino queda dulce."
+    ],
+    [
+     "Lo Sherry è un vino fortificato bianco della Spagna. Si produce in diversi stili e può essere secco, di dolcezza media o dolce. Per questo, come per il Riesling, il solo nome non basta a capire quanto sarà dolce: bisogna guardare lo stile indicato. Ricorda soprattutto: Sherry = Spagna, fortificato, bianco, da secco a dolce.",
+     "Le Sherry (Xérès) est un vin fortifié blanc d'Espagne. Il se décline en plusieurs styles et peut être sec, demi-doux ou doux. Comme pour le Riesling, le nom seul ne dit donc pas s'il sera sucré : il faut regarder le style indiqué. Retenez surtout : Sherry = Espagne, fortifié, blanc, du sec au doux.",
+     "Sherry is a white fortified wine from Spain. It is made in a range of styles and can be dry, medium or sweet. So, as with Riesling, the name alone does not tell you how sweet it will be: you need to check the style. Above all, remember: Sherry = Spain, fortified, white, dry to sweet.",
+     "El Sherry (Jerez) es un vino fortificado blanco de España. Se elabora en varios estilos y puede ser seco, de dulzor medio o dulce. Por eso, como pasa con la Riesling, el nombre por sí solo no indica cuánto dulzor tendrá: hay que fijarse en el estilo. Recuerda sobre todo: Sherry = España, fortificado, blanco, de seco a dulce."
+    ],
+    [
+     "Il Port (Porto) è un vino fortificato del Portogallo. È dolce e ricco di alcol, e anche lui esiste in diversi stili. Di solito è rosso, di corpo pieno, con tannino alto e sapori di frutti neri come la mora. In carta potresti trovarlo descritto come «dolce, pieno, mora intensa e tannino alto», intorno al 20% vol.",
+     "Le Port (Porto) est un vin fortifié du Portugal. Il est doux et riche en alcool, et existe lui aussi en plusieurs styles. Il est en général rouge, corsé, aux tanins élevés, avec des saveurs de fruits noirs comme la mûre. Sur une carte, on peut le trouver décrit comme « doux, corsé, mûre intense et tanins élevés », autour de 20 % vol.",
+     "Port is a fortified wine from Portugal. It is sweet and high in alcohol, and it too comes in a range of styles. It is usually red and full-bodied, with high tannin and black fruit flavours such as blackberry. A wine list might describe it as «sweet, full-bodied, intense blackberry and high tannins», at around 20% abv.",
+     "El Port (Oporto) es un vino fortificado de Portugal. Es dulce y con mucho alcohol, y también existe en varios estilos. Normalmente es tinto, con mucho cuerpo, tanino alto y sabores de frutas negras como la mora. En una carta puede describirse como «dulce, con cuerpo, mora intensa y taninos altos», en torno al 20 % vol."
+    ]
+   ],
+   "keys": [
+    [
+     "Fortificato = alcol aggiunto, 15–22% vol.",
+     "Fortifié = alcool ajouté, 15–22 % vol.",
+     "Fortified = alcohol added, 15–22% abv",
+     "Fortificado = alcohol añadido, 15–22 % vol."
+    ],
+    [
+     "Sherry: Spagna, bianco, secco, medio o dolce",
+     "Sherry : Espagne, blanc, sec, demi-doux ou doux",
+     "Sherry: Spain, white, dry, medium or sweet",
+     "Sherry: España, blanco, seco, semiseco o dulce"
+    ],
+    [
+     "Port: Portogallo, dolce, alcol alto, di solito rosso",
+     "Port : Portugal, doux, alcool élevé, en général rouge",
+     "Port: Portugal, sweet, high alcohol, usually red",
+     "Port: Portugal, dulce, alcohol alto, normalmente tinto"
+    ],
+    [
+     "Port: corpo pieno, tannino alto, mora",
+     "Port : corsé, tanins élevés, mûre",
+     "Port: full body, high tannin, blackberry",
+     "Port: con cuerpo, tanino alto, mora"
+    ]
+   ],
+   "c": "w5"
   }
  ],
  "questions": [
@@ -1685,7 +2174,7 @@
    "d": [
     "Lo Châteauneuf-du-Pape, rosso del Rodano, è il classico esempio di vino ad alta gradazione: secco, di corpo pieno, con fragola e chiodi di garofano. All'opposto il White Zinfandel è citato come vino poco alcolico; Beaujolais e Pinot Grigio sono vini leggeri.",
     "Le Châteauneuf-du-Pape, rouge de la vallée du Rhône, est l'exemple type du vin riche en alcool : sec, corsé, avec fraise et clou de girofle. À l'opposé, le White Zinfandel est cité comme vin peu alcoolisé ; Beaujolais et Pinot Grigio sont des vins légers.",
-    "Châteauneuf-du-Pape, a red from the Rhône, is the textbook example of a high-alcohol wine: dry and full-bodied, with strawberry and clove. At the other end, White Zinfandel is the standard low-alcohol example, while Beaujolais and Pinot Grigio are light-bodied wines.",
+    "Châteauneuf-du-Pape, a red from the Rhône, is the classic example of a high-alcohol wine: dry and full-bodied, with strawberry and clove. At the other end, White Zinfandel is the standard low-alcohol example, while Beaujolais and Pinot Grigio are light-bodied wines.",
     "El Châteauneuf-du-Pape, tinto del Ródano, es el ejemplo típico de vino con mucho alcohol: seco, con cuerpo, con fresa y clavo. En el extremo opuesto, el White Zinfandel es el ejemplo de vino con poco alcohol, y el Beaujolais y el Pinot Grigio son vinos ligeros."
    ],
    "c": "w1"
@@ -4415,6 +4904,1933 @@
     "Las regiones cálidas, más cerca del ecuador, como partes de Australia y California, tienen temperaturas altas y sol intenso: la uva madura con regularidad y es habitual cultivar uvas tintas. En las regiones frescas, como Alemania y el norte de Francia, se cultivan más a menudo uvas blancas."
    ],
    "c": "w3"
+  },
+  {
+   "q": [
+    "Con quali vitigni si fa lo Champagne?",
+    "Avec quels cépages fait-on le Champagne ?",
+    "Which grapes are used to make Champagne?",
+    "¿Con qué uvas se elabora el Champagne?"
+   ],
+   "o": [
+    [
+     "Chardonnay e Pinot Noir",
+     "Chardonnay et Pinot Noir",
+     "Chardonnay and Pinot Noir",
+     "Chardonnay y Pinot Noir"
+    ],
+    [
+     "Chardonnay e Sauvignon Blanc",
+     "Chardonnay et Sauvignon Blanc",
+     "Chardonnay and Sauvignon Blanc",
+     "Chardonnay y Sauvignon Blanc"
+    ],
+    [
+     "Cabernet Sauvignon e Merlot",
+     "Cabernet Sauvignon et Merlot",
+     "Cabernet Sauvignon and Merlot",
+     "Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Riesling e Pinot Grigio",
+     "Riesling et Pinot Grigio",
+     "Riesling and Pinot Grigio",
+     "Riesling y Pinot Grigio"
+    ]
+   ],
+   "e": [
+    "Lo Champagne nasce da Chardonnay e Pinot Noir.",
+    "Le Champagne naît du Chardonnay et du Pinot Noir.",
+    "Champagne is made from Chardonnay and Pinot Noir.",
+    "El Champagne se elabora con Chardonnay y Pinot Noir."
+   ],
+   "d": [
+    "Lo Champagne, spumante francese, si fa con Chardonnay e Pinot Noir, spesso uniti. Il Pinot Noir è nero, ma il suo succo è incolore, quindi può dare un vino chiaro. Cabernet Sauvignon e Merlot sono i vitigni del Bordeaux rosso, mentre Riesling e Pinot Grigio non si usano nello Champagne.",
+    "Le Champagne, effervescent français, est fait de Chardonnay et de Pinot Noir, souvent assemblés. Le Pinot Noir est noir, mais son jus est incolore et peut donc donner un vin clair. Cabernet Sauvignon et Merlot sont les cépages du Bordeaux rouge, et le Riesling et le Pinot Grigio n'entrent pas dans le Champagne.",
+    "Champagne, the French sparkling wine, is made from Chardonnay and Pinot Noir, often blended. Pinot Noir is a black grape, but its juice is colourless, so it can give a pale wine. Cabernet Sauvignon and Merlot are the grapes of red Bordeaux, while Riesling and Pinot Grigio are not used in Champagne.",
+    "El Champagne, espumoso francés, se elabora con Chardonnay y Pinot Noir, a menudo mezcladas. La Pinot Noir es tinta, pero su zumo es incoloro, así que puede dar un vino claro. Cabernet Sauvignon y Merlot son las uvas del Bordeaux tinto, y la Riesling y el Pinot Grigio no se usan en el Champagne."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Qual è lo stile tipico dello Champagne?",
+    "Quel est le style typique du Champagne ?",
+    "What is the typical style of Champagne?",
+    "¿Cuál es el estilo típico del Champagne?"
+   ],
+   "o": [
+    [
+     "Secco, acidità alta, mela, limone, pane tostato",
+     "Sec, acidité élevée, pomme, citron, pain grillé",
+     "Dry, high acidity, apple, lemon, toasted bread",
+     "Seco, acidez alta, manzana, limón, pan tostado"
+    ],
+    [
+     "Dolce, acidità bassa, albicocca e miele",
+     "Doux, acidité faible, abricot et miel",
+     "Sweet, low acidity, apricot and honey",
+     "Dulce, acidez baja, albaricoque y miel"
+    ],
+    [
+     "Medio, corpo leggero, fragola e lampone",
+     "Demi-doux, léger, fraise et framboise",
+     "Medium-sweet, light, strawberry and raspberry",
+     "Semiseco, ligero, fresa y frambuesa"
+    ],
+    [
+     "Secco, tannico, ribes nero e cedro",
+     "Sec, tannique, cassis et cèdre",
+     "Dry, tannic, blackcurrant and cedar",
+     "Seco, tánico, grosella negra y cedro"
+    ]
+   ],
+   "e": [
+    "Lo Champagne è di solito secco e fresco, con mela, limone e pane tostato.",
+    "Le Champagne est en général sec et frais : pomme, citron et pain grillé.",
+    "Champagne is usually dry and fresh, with apple, lemon and toast.",
+    "El Champagne suele ser seco y fresco, con manzana, limón y pan tostado."
+   ],
+   "d": [
+    "Lo Champagne è tipicamente secco, con acidità alta, aromi di mela verde e limone e note di pane tostato. Albicocca e miele descrivono il Sauternes, fragola e lampone con dolcezza media il White Zinfandel, mentre tannino, ribes nero e cedro sono tipici del Bordeaux rosso.",
+    "Le Champagne est typiquement sec, à l'acidité élevée, avec des arômes de pomme verte et de citron et des notes de pain grillé. Abricot et miel décrivent le Sauternes, fraise et framboise demi-douces le White Zinfandel, tandis que tanins, cassis et cèdre sont typiques du Bordeaux rouge.",
+    "Champagne is typically dry, with high acidity, aromas of green apple and lemon, and notes of toasted bread. Apricot and honey describe Sauternes, medium-sweet strawberry and raspberry describe White Zinfandel, and tannin, blackcurrant and cedar are typical of red Bordeaux.",
+    "El Champagne es típicamente seco, con acidez alta, aromas de manzana verde y limón y notas de pan tostado. Albaricoque y miel describen el Sauternes; fresa y frambuesa con dulzor medio, el White Zinfandel; y tanino, grosella negra y cedro son típicos del Bordeaux tinto."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quale di questi vini ha tipicamente note di pane tostato?",
+    "Lequel de ces vins a typiquement des notes de pain grillé ?",
+    "Which of these wines typically shows notes of toasted bread?",
+    "¿Cuál de estos vinos tiene típicamente notas de pan tostado?"
+   ],
+   "o": [
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ],
+    [
+     "Prosecco",
+     "Prosecco",
+     "Prosecco",
+     "Prosecco"
+    ],
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ],
+    [
+     "Chablis",
+     "Chablis",
+     "Chablis",
+     "Chablis"
+    ]
+   ],
+   "e": [
+    "Il pane tostato è una nota tipica dello Champagne.",
+    "Le pain grillé est une note typique du Champagne.",
+    "Toasted bread is a typical note of Champagne.",
+    "El pan tostado es una nota típica del Champagne."
+   ],
+   "d": [
+    "Accanto alla mela e al limone, lo Champagne mostra spesso note di pane tostato. Il Prosecco è uno spumante leggero con pera e fiori, il Sancerre ha mela ed erba, lo Chablis mela e limone: nessuno dei tre è descritto con note di pane tostato.",
+    "À côté de la pomme et du citron, le Champagne montre souvent des notes de pain grillé. Le Prosecco est un effervescent léger sur la poire et les fleurs, le Sancerre a pomme et herbe, le Chablis pomme et citron : aucun des trois n'est décrit avec des notes de pain grillé.",
+    "Alongside apple and lemon, Champagne often shows notes of toasted bread. Prosecco is a light sparkling wine with pear and floral aromas, Sancerre has apple and grass, and Chablis has apple and lemon: none of those three is described with toasted bread notes.",
+    "Junto a la manzana y el limón, el Champagne muestra a menudo notas de pan tostado. El Prosecco es un espumoso ligero con pera y flores, el Sancerre tiene manzana e hierba y el Chablis manzana y limón: ninguno de los tres se describe con notas de pan tostado."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Da quale regione francese viene il Sancerre?",
+    "De quelle région française vient le Sancerre ?",
+    "Which French region does Sancerre come from?",
+    "¿De qué región francesa procede el Sancerre?"
+   ],
+   "o": [
+    [
+     "Valle della Loira",
+     "Vallée de la Loire",
+     "The Loire Valley",
+     "Valle del Loira"
+    ],
+    [
+     "Burgundy",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux",
+     "Burdeos"
+    ],
+    [
+     "Rodano",
+     "Vallée du Rhône",
+     "The Rhône",
+     "Ródano"
+    ]
+   ],
+   "e": [
+    "Il Sancerre è un bianco della Valle della Loira.",
+    "Le Sancerre est un blanc de la vallée de la Loire.",
+    "Sancerre is a white wine from the Loire Valley.",
+    "El Sancerre es un blanco del valle del Loira."
+   ],
+   "d": [
+    "Il Sancerre è un bianco secco della Valle della Loira, fatto con Sauvignon Blanc: corpo medio, acidità alta, mela verde ed erba. Burgundy è la patria di Chablis e dei bianchi di Chardonnay, Bordeaux dei rossi da Cabernet Sauvignon e Merlot, il Rodano di vini come Côtes du Rhône.",
+    "Le Sancerre est un blanc sec de la vallée de la Loire, élaboré avec du Sauvignon Blanc : corps moyen, acidité élevée, pomme verte et herbe. La Bourgogne est la patrie du Chablis et des blancs de Chardonnay, Bordeaux des rouges de Cabernet Sauvignon et Merlot, le Rhône de vins comme le Côtes du Rhône.",
+    "Sancerre is a dry white from the Loire Valley made from Sauvignon Blanc: medium body, high acidity, green apple and grass. Burgundy is home to Chablis and Chardonnay whites, Bordeaux to reds from Cabernet Sauvignon and Merlot, and the Rhône to wines such as Côtes du Rhône.",
+    "El Sancerre es un blanco seco del valle del Loira, elaborado con Sauvignon Blanc: cuerpo medio, acidez alta, manzana verde e hierba. Borgoña es la cuna del Chablis y de los blancos de Chardonnay, Burdeos de los tintos de Cabernet Sauvignon y Merlot, y el Ródano de vinos como el Côtes du Rhône."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde a un Sancerre?",
+    "Quelle description correspond à un Sancerre ?",
+    "Which description fits a Sancerre?",
+    "¿Qué descripción corresponde a un Sancerre?"
+   ],
+   "o": [
+    [
+     "Secco, corpo medio, mela verde ed erba",
+     "Sec, corps moyen, pomme verte et herbe",
+     "Dry, medium body, green apple and grass",
+     "Seco, cuerpo medio, manzana verde e hierba"
+    ],
+    [
+     "Dolce, corpo pieno, albicocca e miele",
+     "Doux, corps ample, abricot et miel",
+     "Sweet, full body, apricot and honey",
+     "Dulce, mucho cuerpo, albaricoque y miel"
+    ],
+    [
+     "Secco, corpo pieno, ananas e vaniglia",
+     "Sec, corps ample, ananas et vanille",
+     "Dry, full body, pineapple and vanilla",
+     "Seco, mucho cuerpo, piña y vainilla"
+    ],
+    [
+     "Medio, corpo leggero, pera e fiori",
+     "Demi-doux, léger, poire et fleurs",
+     "Medium-sweet, light body, pear and flowers",
+     "Semiseco, ligero, pera y flores"
+    ]
+   ],
+   "e": [
+    "Il Sancerre è un Sauvignon Blanc secco, fresco ed erbaceo.",
+    "Le Sancerre est un Sauvignon Blanc sec, frais et herbacé.",
+    "Sancerre is a dry, fresh, herbaceous Sauvignon Blanc.",
+    "El Sancerre es un Sauvignon Blanc seco, fresco y herbáceo."
+   ],
+   "d": [
+    "Il Sancerre è secco, di corpo medio, di solito senza rovere, con acidità alta e profumi intensi di mela verde ed erba. Le altre descrizioni corrispondono al Sauternes, a uno Chardonnay caldo passato in legno e al Prosecco, che può essere secco o di dolcezza media. Ricorda: in etichetta compare la zona, non il vitigno.",
+    "Le Sancerre est sec, de corps moyen, en général non boisé, à l'acidité élevée, avec des arômes intenses de pomme verte et d'herbe. Les autres descriptions correspondent au Sauternes, à un Chardonnay de climat chaud boisé et au Prosecco, qui peut être sec ou demi-doux. Rappel : l'étiquette indique le lieu, pas le cépage.",
+    "Sancerre is dry and medium-bodied, usually unoaked, with high acidity and pronounced aromas of green apple and grass. The other descriptions fit Sauternes, an oaked warm-climate Chardonnay and Prosecco, which can be dry or medium-sweet. Remember that the label names the place, not the grape.",
+    "El Sancerre es seco, de cuerpo medio, normalmente sin roble, con acidez alta y aromas intensos de manzana verde e hierba. Las otras descripciones corresponden al Sauternes, a un Chardonnay cálido con madera y al Prosecco, que puede ser seco o de dulzor medio. Recuerda: la etiqueta indica el lugar, no la uva."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Con quale vitigno si fa lo Chablis?",
+    "Avec quel cépage fait-on le Chablis ?",
+    "Which grape is Chablis made from?",
+    "¿Con qué uva se elabora el Chablis?"
+   ],
+   "o": [
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ],
+    [
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc",
+     "Sauvignon Blanc"
+    ],
+    [
+     "Riesling",
+     "Riesling",
+     "Riesling",
+     "Riesling"
+    ],
+    [
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir",
+     "Pinot Noir"
+    ]
+   ],
+   "e": [
+    "Lo Chablis è uno Chardonnay della parte più fresca di Burgundy.",
+    "Le Chablis est un Chardonnay de la partie la plus fraîche de la Bourgogne.",
+    "Chablis is Chardonnay from the coolest part of Burgundy.",
+    "El Chablis es un Chardonnay de la parte más fresca de Borgoña."
+   ],
+   "d": [
+    "Lo Chablis è un bianco di Burgundy fatto con Chardonnay. Viene dalla zona più fresca della regione, quindi è secco, di corpo leggero-medio, con acidità alta, mela verde e limone, e di solito senza rovere. Il Sauvignon Blanc è il vitigno del Sancerre; il Pinot Noir dei rossi di Burgundy.",
+    "Le Chablis est un blanc de Bourgogne fait de Chardonnay. Il vient de la zone la plus fraîche de la région : il est donc sec, léger à moyen en corps, à l'acidité élevée, sur la pomme verte et le citron, et en général non boisé. Le Sauvignon Blanc est le cépage du Sancerre ; le Pinot Noir, celui des Bourgogne rouges.",
+    "Chablis is a white Burgundy made from Chardonnay. It comes from the region's coolest area, so it is dry, light to medium-bodied, with high acidity, green apple and lemon, and usually no oak. Sauvignon Blanc is the grape of Sancerre, and Pinot Noir is the grape of red Burgundy.",
+    "El Chablis es un blanco de Borgoña elaborado con Chardonnay. Procede de la zona más fresca de la región, así que es seco, de cuerpo ligero a medio, con acidez alta, manzana verde y limón, y normalmente sin roble. La Sauvignon Blanc es la uva del Sancerre, y la Pinot Noir la de los Borgoña tintos."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Lo Chablis di solito è...",
+    "Le Chablis est en général...",
+    "Chablis is usually...",
+    "El Chablis suele ser..."
+   ],
+   "o": [
+    [
+     "senza rovere",
+     "non boisé",
+     "unoaked",
+     "sin roble"
+    ],
+    [
+     "affinato in rovere nuovo",
+     "élevé en chêne neuf",
+     "aged in new oak",
+     "criado en roble nuevo"
+    ],
+    [
+     "spumante",
+     "effervescent",
+     "sparkling",
+     "espumoso"
+    ],
+    [
+     "dolce",
+     "doux",
+     "sweet",
+     "dulce"
+    ]
+   ],
+   "e": [
+    "Lo Chablis di solito non passa in rovere: niente vaniglia, solo frutta fresca.",
+    "Le Chablis n'est en général pas boisé : pas de vanille, seulement du fruit frais.",
+    "Chablis is usually unoaked: no vanilla, just fresh fruit.",
+    "El Chablis no suele pasar por roble: nada de vainilla, solo fruta fresca."
+   ],
+   "d": [
+    "Lo Chablis è tipicamente senza rovere. Per questo mostra solo frutta fresca, mela verde e limone, sostenuta da un'acidità alta, senza le note di vaniglia del legno. È un vino fermo e secco, non spumante né dolce. Altri bianchi di Burgundy, invece, possono passare in rovere.",
+    "Le Chablis est typiquement non boisé. Il montre donc seulement du fruit frais, pomme verte et citron, porté par une acidité élevée, sans les notes de vanille du bois. C'est un vin tranquille et sec, ni effervescent ni doux. D'autres Bourgogne blancs, en revanche, peuvent être élevés en chêne.",
+    "Chablis is typically unoaked. It therefore shows only fresh fruit, green apple and lemon, carried by high acidity, without the vanilla notes that oak would add. It is a still, dry wine, neither sparkling nor sweet. Other white Burgundies, on the other hand, may be oaked.",
+    "El Chablis es típicamente sin roble. Por eso muestra solo fruta fresca, manzana verde y limón, sostenida por una acidez alta, sin las notas de vainilla de la madera. Es un vino tranquilo y seco, ni espumoso ni dulce. Otros Borgoña blancos, en cambio, pueden criarse en roble."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Rispetto allo Chablis, gli altri bianchi di Burgundy mostrano spesso...",
+    "Par rapport au Chablis, les autres Bourgogne blancs montrent souvent...",
+    "Compared with Chablis, other white Burgundies often show...",
+    "Frente al Chablis, los demás Borgoña blancos suelen mostrar..."
+   ],
+   "o": [
+    [
+     "frutta più matura, come la pesca",
+     "un fruit plus mûr, comme la pêche",
+     "riper fruit, such as peach",
+     "fruta más madura, como el melocotón"
+    ],
+    [
+     "più note erbacee, come l'erba",
+     "plus de notes herbacées, comme l'herbe",
+     "more herbaceous notes, like grass",
+     "más notas herbáceas, como la hierba"
+    ],
+    [
+     "frutti rossi come il lampone",
+     "des fruits rouges comme la framboise",
+     "red fruit such as raspberry",
+     "frutas rojas como la frambuesa"
+    ],
+    [
+     "più dolcezza e corpo leggero",
+     "plus de sucre et un corps léger",
+     "more sweetness and a light body",
+     "más dulzor y cuerpo ligero"
+    ]
+   ],
+   "e": [
+    "Fuori dalla zona più fresca le uve maturano di più: limone e pesca.",
+    "Hors de la zone la plus fraîche, le raisin mûrit davantage : citron et pêche.",
+    "Outside the coolest area grapes ripen more: lemon and peach.",
+    "Fuera de la zona más fresca la uva madura más: limón y melocotón."
+   ],
+   "d": [
+    "Lo Chablis viene dalla parte più fresca di Burgundy e ha mela verde e limone. Gli altri bianchi della regione, da uve più mature, mostrano spesso agrumi e frutta a nocciolo come la pesca, e possono avere vaniglia se passano in rovere. Restano comunque secchi e di corpo medio.",
+    "Le Chablis vient de la partie la plus fraîche de la Bourgogne et a pomme verte et citron. Les autres blancs de la région, issus de raisins plus mûrs, montrent souvent agrumes et fruits à noyau comme la pêche, et peuvent avoir de la vanille s'ils sont boisés. Ils restent secs et de corps moyen.",
+    "Chablis comes from the coolest part of Burgundy and has green apple and lemon. The region's other whites, from riper grapes, often show citrus and stone fruit such as peach, and may have vanilla if oaked. They are still dry and medium-bodied.",
+    "El Chablis procede de la parte más fresca de Borgoña y tiene manzana verde y limón. Los demás blancos de la región, de uvas más maduras, muestran a menudo cítricos y fruta de hueso como el melocotón, y pueden tener vainilla si pasan por roble. Siguen siendo secos y de cuerpo medio."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Che cosa significa «Bourgogne» su un'etichetta?",
+    "Que signifie « Bourgogne » sur une étiquette ?",
+    "What does «Bourgogne» on a label mean?",
+    "¿Qué significa «Bourgogne» en una etiqueta?"
+   ],
+   "o": [
+    [
+     "È il nome francese di Burgundy",
+     "C'est le nom français de la région Burgundy",
+     "It is the French name for Burgundy",
+     "Es el nombre francés de Borgoña"
+    ],
+    [
+     "È il nome di un vitigno bianco",
+     "C'est le nom d'un cépage blanc",
+     "It is the name of a white grape",
+     "Es el nombre de una uva blanca"
+    ],
+    [
+     "Indica un vino dolce",
+     "Cela indique un vin doux",
+     "It means the wine is sweet",
+     "Indica un vino dulce"
+    ],
+    [
+     "Indica un vino spumante",
+     "Cela indique un vin effervescent",
+     "It means the wine is sparkling",
+     "Indica un vino espumoso"
+    ]
+   ],
+   "e": [
+    "«Bourgogne» è Burgundy in francese, su bianchi e rossi.",
+    "« Bourgogne » est le nom français, utilisé pour les blancs et les rouges.",
+    "«Bourgogne» is French for Burgundy, used on whites and reds.",
+    "«Bourgogne» es Borgoña en francés, en blancos y tintos."
+   ],
+   "d": [
+    "«Bourgogne» è il nome francese della regione di Burgundy e può comparire in etichetta sia sui vini bianchi sia sui rossi. Non indica né un vitigno né uno stile: per sapere che cosa aspettarsi bisogna ricordare che i bianchi sono Chardonnay e i rossi Pinot Noir.",
+    "« Bourgogne » est le nom français de la région appelée Burgundy en anglais ; il peut figurer sur l'étiquette des blancs comme des rouges. Il n'indique ni un cépage ni un style : pour savoir à quoi s'attendre, il faut se rappeler que les blancs sont du Chardonnay et les rouges du Pinot Noir.",
+    "«Bourgogne» is the French name for the Burgundy region, and it can appear on labels of both white and red wines. It does not refer to a grape or a style: to know what to expect, remember that the whites are Chardonnay and the reds are Pinot Noir.",
+    "«Bourgogne» es el nombre francés de la región de Borgoña y puede aparecer en la etiqueta tanto de blancos como de tintos. No indica una uva ni un estilo: para saber qué esperar, hay que recordar que los blancos son Chardonnay y los tintos, Pinot Noir."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "I bianchi di Burgundy possono essere...",
+    "Les Bourgogne blancs peuvent être...",
+    "White Burgundies can be...",
+    "Los Borgoña blancos pueden ser..."
+   ],
+   "o": [
+    [
+     "con o senza rovere",
+     "boisés ou non boisés",
+     "oaked or unoaked",
+     "con o sin roble"
+    ],
+    [
+     "solo dolci",
+     "uniquement doux",
+     "only sweet",
+     "solo dulces"
+    ],
+    [
+     "solo spumanti",
+     "uniquement effervescents",
+     "only sparkling",
+     "solo espumosos"
+    ],
+    [
+     "solo fortificati",
+     "uniquement fortifiés",
+     "only fortified",
+     "solo fortificados"
+    ]
+   ],
+   "e": [
+    "I bianchi di Burgundy possono passare in rovere oppure no.",
+    "Les Bourgogne blancs peuvent être élevés en chêne ou non.",
+    "White Burgundy can be made with or without oak.",
+    "Los Borgoña blancos pueden criarse en roble o no."
+   ],
+   "d": [
+    "I bianchi di Burgundy sono vini fermi e secchi, di corpo medio, fatti con Chardonnay. Possono essere affinati in rovere, che porta vaniglia, oppure no: lo Chablis, per esempio, di solito è senza legno. Non sono vini dolci, spumanti o fortificati. Con il legno compaiono note di vaniglia accanto a limone e pesca.",
+    "Les Bourgogne blancs sont des vins tranquilles et secs, de corps moyen, faits de Chardonnay. Ils peuvent être élevés en chêne, qui apporte de la vanille, ou non : le Chablis, par exemple, est en général non boisé. Ce ne sont pas des vins doux, effervescents ou fortifiés. Avec le bois, des notes de vanille s'ajoutent au citron et à la pêche.",
+    "White Burgundies are still, dry, medium-bodied wines made from Chardonnay. They can be matured in oak, which brings vanilla, or not: Chablis, for example, is usually unoaked. They are not sweet, sparkling or fortified wines. With oak, vanilla notes join the lemon and peach fruit.",
+    "Los Borgoña blancos son vinos tranquilos y secos, de cuerpo medio, elaborados con Chardonnay. Pueden criarse en roble, que aporta vainilla, o no: el Chablis, por ejemplo, suele ser sin madera. No son vinos dulces, espumosos ni fortificados. Con madera, aparecen notas de vainilla junto al limón y el melocotón."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Qual è lo stile tipico di un Burgundy rosso?",
+    "Quel est le style typique d'un Bourgogne rouge ?",
+    "What is the typical style of red Burgundy?",
+    "¿Cuál es el estilo típico de un Borgoña tinto?"
+   ],
+   "o": [
+    [
+     "Leggero-medio, acidità alta, lampone e ciliegia",
+     "Léger à moyen, acidité élevée, framboise et cerise",
+     "Light to medium, high acidity, raspberry and cherry",
+     "Ligero a medio, acidez alta, frambuesa y cereza"
+    ],
+    [
+     "Pieno, tannino alto, ribes nero e cedro",
+     "Ample, tanins élevés, cassis et cèdre",
+     "Full, high tannin, blackcurrant and cedar",
+     "Con cuerpo, tanino alto, grosella negra y cedro"
+    ],
+    [
+     "Pieno, alcol alto, fragola e chiodi di garofano",
+     "Ample, alcool élevé, fraise et girofle",
+     "Full, high alcohol, strawberry and clove",
+     "Con cuerpo, alcohol alto, fresa y clavo"
+    ],
+    [
+     "Dolce, tannino alto, mora",
+     "Doux, tanins élevés, mûre",
+     "Sweet, high tannin, blackberry",
+     "Dulce, tanino alto, mora"
+    ]
+   ],
+   "e": [
+    "Il Burgundy rosso è Pinot Noir: fresco, leggero-medio, frutti rossi.",
+    "Le Bourgogne rouge est du Pinot Noir : frais, léger à moyen, fruits rouges.",
+    "Red Burgundy is Pinot Noir: fresh, light to medium, red fruit.",
+    "El Borgoña tinto es Pinot Noir: fresco, ligero a medio, frutas rojas."
+   ],
+   "d": [
+    "I rossi di Burgundy, fatti con Pinot Noir, sono secchi, di corpo leggero-medio, con acidità alta, tannino basso-medio e frutti rossi come lampone e ciliegia rossa. Le altre opzioni descrivono il Bordeaux rosso, lo Châteauneuf-du-Pape e il Port. Sono rossi freschi ed eleganti.",
+    "Les Bourgogne rouges, faits de Pinot Noir, sont secs, légers à moyens, à l'acidité élevée, aux tanins faibles à moyens et aux fruits rouges comme la framboise et la cerise rouge. Les autres réponses décrivent le Bordeaux rouge, le Châteauneuf-du-Pape et le Port. Ce sont des rouges frais et élégants.",
+    "Red Burgundies, made from Pinot Noir, are dry and light to medium-bodied, with high acidity, low to medium tannin and red fruit such as raspberry and red cherry. The other options describe red Bordeaux, Châteauneuf-du-Pape and Port respectively. They are fresh, elegant reds.",
+    "Los Borgoña tintos, de Pinot Noir, son secos, de cuerpo ligero a medio, con acidez alta, tanino bajo a medio y frutas rojas como frambuesa y cereza roja. Las demás opciones describen el Bordeaux tinto, el Châteauneuf-du-Pape y el Port. Son tintos frescos y elegantes."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quali note può dare il rovere a un Burgundy rosso?",
+    "Quelles notes le chêne peut-il donner à un Bourgogne rouge ?",
+    "Which notes can oak give a red Burgundy?",
+    "¿Qué notas puede dar el roble a un Borgoña tinto?"
+   ],
+   "o": [
+    [
+     "Vaniglia e affumicato",
+     "Vanille et fumé",
+     "Vanilla and smoke",
+     "Vainilla y ahumado"
+    ],
+    [
+     "Erbe secche e pepe bianco",
+     "Herbes séchées et poivre blanc",
+     "Dried herbs and white pepper",
+     "Hierbas secas y pimienta blanca"
+    ],
+    [
+     "Liquirizia e pepe nero",
+     "Réglisse et poivre noir",
+     "Liquorice and black pepper",
+     "Regaliz y pimienta negra"
+    ],
+    [
+     "Miele e albicocca",
+     "Miel et abricot",
+     "Honey and apricot",
+     "Miel y albaricoque"
+    ]
+   ],
+   "e": [
+    "Nei rossi di Burgundy il rovere può aggiungere vaniglia e affumicato.",
+    "Dans les Bourgogne rouges, le chêne peut ajouter vanille et fumé.",
+    "In red Burgundy, oak can add vanilla and smoke.",
+    "En el Borgoña tinto, el roble puede añadir vainilla y ahumado."
+   ],
+   "d": [
+    "Il Pinot Noir dei rossi di Burgundy viene spesso affinato in rovere, che può aggiungere note di vaniglia e affumicato ai frutti rossi. Erbe secche e pepe bianco ricordano Chianti e Côtes du Rhône; liquirizia e pepe nero lo Shiraz; miele e albicocca il Sauternes.",
+    "Le Pinot Noir des Bourgogne rouges est souvent élevé en chêne, qui peut ajouter des notes de vanille et de fumé aux fruits rouges. Herbes séchées et poivre blanc évoquent le Chianti et le Côtes du Rhône ; réglisse et poivre noir la Shiraz ; miel et abricot le Sauternes.",
+    "The Pinot Noir in red Burgundy is often matured in oak, which can add vanilla and smoke to the red fruit. Dried herbs and white pepper suggest Chianti and Côtes du Rhône, liquorice and black pepper suggest Shiraz, and honey and apricot suggest Sauternes.",
+    "La Pinot Noir de los Borgoña tintos se cría a menudo en roble, que puede añadir notas de vainilla y ahumado a la fruta roja. Hierbas secas y pimienta blanca recuerdan al Chianti y al Côtes du Rhône; regaliz y pimienta negra, a la Shiraz; miel y albaricoque, al Sauternes."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Di che colore sono più spesso i vini di Bordeaux?",
+    "De quelle couleur sont le plus souvent les vins de Bordeaux ?",
+    "What colour are Bordeaux wines most often?",
+    "¿De qué color son con más frecuencia los vinos de Burdeos?"
+   ],
+   "o": [
+    [
+     "Rossi",
+     "Rouges",
+     "Red",
+     "Tintos"
+    ],
+    [
+     "Bianchi",
+     "Blancs",
+     "White",
+     "Blancos"
+    ],
+    [
+     "Rosati",
+     "Rosés",
+     "Rosé",
+     "Rosados"
+    ],
+    [
+     "Spumanti bianchi",
+     "Effervescents blancs",
+     "Sparkling white",
+     "Espumosos blancos"
+    ]
+   ],
+   "e": [
+    "Bordeaux è famosa soprattutto per i vini rossi.",
+    "Bordeaux est célèbre surtout pour ses vins rouges.",
+    "Bordeaux is mostly known for red wine.",
+    "Burdeos es famosa sobre todo por sus tintos."
+   ],
+   "d": [
+    "La regione di Bordeaux produce soprattutto vini rossi, di solito tagli di Cabernet Sauvignon e Merlot, secchi e tannici. Esistono anche bianchi, come il famoso Sauternes dolce, ma quando si parla semplicemente di «Bordeaux» si pensa in genere a un rosso. Il bianco dolce è l'eccezione da ricordare.",
+    "La région de Bordeaux produit surtout des vins rouges, en général des assemblages de Cabernet Sauvignon et de Merlot, secs et tanniques. Il existe aussi des blancs, comme le célèbre Sauternes doux, mais quand on dit simplement « Bordeaux », on pense en général à un rouge. Le blanc doux est l'exception à retenir.",
+    "The Bordeaux region makes mostly red wines, usually dry, tannic blends of Cabernet Sauvignon and Merlot. There are whites too, such as the famous sweet Sauternes, but when people simply say «Bordeaux», they generally mean a red wine. The sweet white is the exception worth remembering.",
+    "La región de Burdeos produce sobre todo tintos, normalmente mezclas secas y tánicas de Cabernet Sauvignon y Merlot. También hay blancos, como el famoso Sauternes dulce, pero cuando se dice simplemente «Bordeaux», suele pensarse en un tinto. El blanco dulce es la excepción que conviene recordar."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Di quali vitigni è di solito un taglio il Bordeaux rosso?",
+    "De quels cépages le Bordeaux rouge est-il en général l'assemblage ?",
+    "Red Bordeaux is typically a blend of which grapes?",
+    "¿De qué uvas suele ser una mezcla el Bordeaux tinto?"
+   ],
+   "o": [
+    [
+     "Cabernet Sauvignon e Merlot",
+     "Cabernet Sauvignon et Merlot",
+     "Cabernet Sauvignon and Merlot",
+     "Cabernet Sauvignon y Merlot"
+    ],
+    [
+     "Pinot Noir e Chardonnay",
+     "Pinot Noir et Chardonnay",
+     "Pinot Noir and Chardonnay",
+     "Pinot Noir y Chardonnay"
+    ],
+    [
+     "Syrah e Pinot Noir",
+     "Syrah et Pinot Noir",
+     "Syrah and Pinot Noir",
+     "Syrah y Pinot Noir"
+    ],
+    [
+     "Merlot e Pinot Noir",
+     "Merlot et Pinot Noir",
+     "Merlot and Pinot Noir",
+     "Merlot y Pinot Noir"
+    ]
+   ],
+   "e": [
+    "Il Bordeaux rosso unisce Cabernet Sauvignon e Merlot.",
+    "Le Bordeaux rouge assemble Cabernet Sauvignon et Merlot.",
+    "Red Bordeaux blends Cabernet Sauvignon and Merlot.",
+    "El Bordeaux tinto mezcla Cabernet Sauvignon y Merlot."
+   ],
+   "d": [
+    "Il Bordeaux rosso è tipicamente un taglio di Cabernet Sauvignon, che porta tannino e acidità, e Merlot, che porta morbidezza e corpo. Pinot Noir e Chardonnay sono le uve dello Champagne; il Pinot Noir, per i rossi, di solito non viene unito ad altri vitigni.",
+    "Le Bordeaux rouge est typiquement un assemblage de Cabernet Sauvignon, qui apporte tanins et acidité, et de Merlot, qui apporte souplesse et corps. Pinot Noir et Chardonnay sont les cépages du Champagne ; en rouge, le Pinot Noir n'est en général pas assemblé.",
+    "Red Bordeaux is typically a blend of Cabernet Sauvignon, which brings tannin and acidity, and Merlot, which brings softness and body. Pinot Noir and Chardonnay are the grapes of Champagne, and Pinot Noir is not usually blended when making red wine.",
+    "El Bordeaux tinto es típicamente una mezcla de Cabernet Sauvignon, que aporta tanino y acidez, y Merlot, que aporta suavidad y cuerpo. Pinot Noir y Chardonnay son las uvas del Champagne, y en tintos la Pinot Noir no suele mezclarse."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quale struttura ha di solito un Bordeaux rosso?",
+    "Quelle structure a en général un Bordeaux rouge ?",
+    "What structure does a red Bordeaux usually have?",
+    "¿Qué estructura suele tener un Bordeaux tinto?"
+   ],
+   "o": [
+    [
+     "Acidità e tannino alti, corpo medio-pieno",
+     "Acidité et tanins élevés, corps moyen à ample",
+     "High acidity and tannin, medium to full body",
+     "Acidez y tanino altos, cuerpo medio a alto"
+    ],
+    [
+     "Tannino basso, corpo leggero",
+     "Tanins faibles, corps léger",
+     "Low tannin, light body",
+     "Tanino bajo, cuerpo ligero"
+    ],
+    [
+     "Acidità bassa, dolcezza media",
+     "Acidité faible, demi-doux",
+     "Low acidity, medium sweetness",
+     "Acidez baja, dulzor medio"
+    ],
+    [
+     "Tannino basso, alcol basso",
+     "Tanins faibles, alcool faible",
+     "Low tannin, low alcohol",
+     "Tanino bajo, alcohol bajo"
+    ]
+   ],
+   "e": [
+    "Il Bordeaux rosso è secco, tannico e fresco, di corpo medio-pieno.",
+    "Le Bordeaux rouge est sec, tannique et frais, de corps moyen à ample.",
+    "Red Bordeaux is dry, tannic and fresh, with medium to full body.",
+    "El Bordeaux tinto es seco, tánico y fresco, de cuerpo medio a alto."
+   ],
+   "d": [
+    "Il Bordeaux rosso è un esempio classico di vino con tannino alto. È secco, con acidità alta e corpo da medio a pieno. Tannino basso e corpo leggero descrivono piuttosto il Beaujolais; dolcezza media e alcol basso il White Zinfandel.",
+    "Le Bordeaux rouge est un exemple classique de vin aux tanins élevés. Il est sec, à l'acidité élevée et au corps moyen à ample. Tanins faibles et corps léger décrivent plutôt le Beaujolais ; sucrosité moyenne et alcool faible, le White Zinfandel.",
+    "Red Bordeaux is a classic example of a high-tannin wine. It is dry, with high acidity and a medium to full body. Low tannin and a light body describe Beaujolais instead, while medium sweetness and low alcohol describe White Zinfandel.",
+    "El Bordeaux tinto es un ejemplo clásico de vino con tanino alto. Es seco, con acidez alta y cuerpo medio a alto. Tanino bajo y cuerpo ligero describen más bien el Beaujolais; dulzor medio y alcohol bajo, el White Zinfandel."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quali aromi sono tipici di un Bordeaux rosso?",
+    "Quels arômes sont typiques d'un Bordeaux rouge ?",
+    "Which aromas are typical of a red Bordeaux?",
+    "¿Qué aromas son típicos de un Bordeaux tinto?"
+   ],
+   "o": [
+    [
+     "Mora, ribes nero e cedro",
+     "Mûre, cassis et cèdre",
+     "Blackberry, blackcurrant and cedar",
+     "Mora, grosella negra y cedro"
+    ],
+    [
+     "Fragola, lampone e ciliegia",
+     "Fraise, framboise et cerise",
+     "Strawberry, raspberry and cherry",
+     "Fresa, frambuesa y cereza"
+    ],
+    [
+     "Mela, limone e pane tostato",
+     "Pomme, citron et pain grillé",
+     "Apple, lemon and toasted bread",
+     "Manzana, limón y pan tostado"
+    ],
+    [
+     "Pera, fiori e lime",
+     "Poire, fleurs et citron vert",
+     "Pear, flowers and lime",
+     "Pera, flores y lima"
+    ]
+   ],
+   "e": [
+    "Frutti neri del Cabernet e del Merlot, più cedro dal rovere.",
+    "Fruits noirs du Cabernet et du Merlot, plus le cèdre du chêne.",
+    "Black fruit from Cabernet and Merlot, plus cedar from oak.",
+    "Fruta negra del Cabernet y el Merlot, más cedro del roble."
+   ],
+   "d": [
+    "Il Bordeaux rosso profuma di frutti neri come mora e ribes nero, dai suoi vitigni Cabernet Sauvignon e Merlot, con note di cedro dovute al rovere. I frutti rossi sono tipici di vini come il Burgundy rosso o il Beaujolais; mela, limone e pane tostato descrivono lo Champagne.",
+    "Le Bordeaux rouge sent les fruits noirs comme la mûre et le cassis, issus du Cabernet Sauvignon et du Merlot, avec des notes de cèdre dues au chêne. Les fruits rouges sont typiques de vins comme le Bourgogne rouge ou le Beaujolais ; pomme, citron et pain grillé décrivent le Champagne.",
+    "Red Bordeaux smells of black fruit such as blackberry and blackcurrant, from its Cabernet Sauvignon and Merlot, with cedar notes from oak. Red fruit is typical of wines like red Burgundy or Beaujolais, while apple, lemon and toasted bread describe Champagne.",
+    "El Bordeaux tinto huele a frutas negras como mora y grosella negra, de su Cabernet Sauvignon y su Merlot, con notas de cedro del roble. Las frutas rojas son típicas de vinos como el Borgoña tinto o el Beaujolais, y manzana, limón y pan tostado describen el Champagne."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Un Saint-Émilion è descritto come «taglio a prevalenza Merlot». Da quale regione viene?",
+    "Un Saint-Émilion est décrit comme « assemblage à dominante Merlot ». De quelle région vient-il ?",
+    "A Saint-Émilion is described as a «Merlot-dominant blend». Which region is it from?",
+    "Un Saint-Émilion se describe como «ensamblaje con predominio de Merlot». ¿De qué región procede?"
+   ],
+   "o": [
+    [
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux",
+     "Burdeos"
+    ],
+    [
+     "Burgundy",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Rodano",
+     "Rhône",
+     "The Rhône",
+     "Ródano"
+    ],
+    [
+     "Loira",
+     "Loire",
+     "The Loire",
+     "Loira"
+    ]
+   ],
+   "e": [
+    "Saint-Émilion è una zona di Bordeaux, terra dei tagli con Merlot.",
+    "Saint-Émilion est une zone de Bordeaux, terre des assemblages avec Merlot.",
+    "Saint-Émilion is an area of Bordeaux, home of Merlot blends.",
+    "Saint-Émilion es una zona de Burdeos, tierra de mezclas con Merlot."
+   ],
+   "d": [
+    "Molti vini francesi riportano in etichetta il nome di una zona precisa. Saint-Émilion è una zona di Bordeaux, dove il Merlot è spesso il vitigno principale del taglio con il Cabernet Sauvignon. Burgundy usa Pinot Noir per i rossi, mentre la Loira è nota per il Sancerre bianco.",
+    "Beaucoup de vins français indiquent sur l'étiquette le nom d'une zone précise. Saint-Émilion est une zone de Bordeaux, où le Merlot est souvent le cépage principal de l'assemblage avec le Cabernet Sauvignon. La Bourgogne utilise le Pinot Noir pour ses rouges, et la Loire est connue pour le Sancerre blanc.",
+    "Many French wines show the name of a specific area on the label. Saint-Émilion is an area of Bordeaux, where Merlot is often the main grape in the blend with Cabernet Sauvignon. Burgundy uses Pinot Noir for its reds, and the Loire is known for white Sancerre.",
+    "Muchos vinos franceses indican en la etiqueta el nombre de una zona concreta. Saint-Émilion es una zona de Burdeos, donde el Merlot suele ser la uva principal de la mezcla con Cabernet Sauvignon. Borgoña usa Pinot Noir para sus tintos, y el Loira es conocido por el Sancerre blanco."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Perché molti vini europei, come lo Chablis, non indicano il vitigno?",
+    "Pourquoi beaucoup de vins européens, comme le Chablis, n'indiquent-ils pas le cépage ?",
+    "Why do many European wines, such as Chablis, not name the grape?",
+    "¿Por qué muchos vinos europeos, como el Chablis, no indican la uva?"
+   ],
+   "o": [
+    [
+     "Prendono il nome dalla zona di produzione",
+     "Ils portent le nom de leur région de production",
+     "They are named after the region where they are made",
+     "Llevan el nombre de su zona de producción"
+    ],
+    [
+     "Sono sempre tagli di molti vitigni",
+     "Ce sont toujours des assemblages de nombreux cépages",
+     "They are always blends of many grapes",
+     "Siempre son mezclas de muchas uvas"
+    ],
+    [
+     "Il vitigno è scritto solo sul tappo",
+     "Le cépage est écrit uniquement sur le bouchon",
+     "The grape is written only on the cork",
+     "La uva solo figura en el corcho"
+    ],
+    [
+     "Sono fatti con uve sconosciute",
+     "Ils sont faits avec des raisins inconnus",
+     "They are made from unknown grapes",
+     "Se elaboran con uvas desconocidas"
+    ]
+   ],
+   "e": [
+    "In Europa molti vini portano il nome della zona, non dell'uva.",
+    "En Europe, beaucoup de vins portent le nom du lieu, pas du raisin.",
+    "In Europe, many wines carry the name of the place, not the grape.",
+    "En Europa muchos vinos llevan el nombre del lugar, no de la uva."
+   ],
+   "d": [
+    "In Europa molti vini, come Chablis, Sancerre, Burgundy o Bordeaux, prendono il nome dalla regione in cui sono prodotti. Per questo chi studia deve sapere quali vitigni si nascondono dietro quei nomi: per esempio, lo Chablis è Chardonnay e il Sancerre è Sauvignon Blanc.",
+    "En Europe, beaucoup de vins, comme le Chablis, le Sancerre, la Bourgogne ou le Bordeaux, portent le nom de leur région de production. Les personnes qui étudient doivent donc savoir quels cépages se cachent derrière ces noms : par exemple, le Chablis est du Chardonnay et le Sancerre du Sauvignon Blanc.",
+    "In Europe many wines, such as Chablis, Sancerre, Burgundy or Bordeaux, take their name from the region where they are made. That is why you need to know which grapes lie behind those names: Chablis, for example, is Chardonnay, and Sancerre is Sauvignon Blanc.",
+    "En Europa muchos vinos, como el Chablis, el Sancerre, el Borgoña o el Bordeaux, llevan el nombre de la región donde se elaboran. Por eso quien estudia debe saber qué uvas se esconden tras esos nombres: el Chablis, por ejemplo, es Chardonnay, y el Sancerre, Sauvignon Blanc."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Quale di questi vini famosi può essere sia bianco sia rosso?",
+    "Lequel de ces vins célèbres peut être blanc ou rouge ?",
+    "Which of these famous wines can be either white or red?",
+    "¿Cuál de estos vinos famosos puede ser blanco o tinto?"
+   ],
+   "o": [
+    [
+     "Burgundy",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Chablis",
+     "Chablis",
+     "Chablis",
+     "Chablis"
+    ],
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ],
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ]
+   ],
+   "e": [
+    "Burgundy produce bianchi di Chardonnay e rossi di Pinot Noir.",
+    "La Bourgogne produit des blancs de Chardonnay et des rouges de Pinot Noir.",
+    "Burgundy makes Chardonnay whites and Pinot Noir reds.",
+    "Borgoña produce blancos de Chardonnay y tintos de Pinot Noir."
+   ],
+   "d": [
+    "I vini di Burgundy (Bourgogne) possono essere bianchi, da Chardonnay, oppure rossi, da Pinot Noir. Lo Chablis e il Sancerre, come presentati qui, sono bianchi secchi, mentre lo Champagne è uno spumante tipicamente secco fatto con Chardonnay e Pinot Noir. La regola è quindi semplice da ricordare.",
+    "Les vins de Bourgogne peuvent être blancs, à base de Chardonnay, ou rouges, à base de Pinot Noir. Le Chablis et le Sancerre, tels qu'ils sont présentés ici, sont des blancs secs, et le Champagne est un effervescent typiquement sec fait de Chardonnay et de Pinot Noir. La règle est donc simple à retenir.",
+    "Burgundy (Bourgogne) wines can be white, from Chardonnay, or red, from Pinot Noir. Chablis and Sancerre, as presented here, are dry white wines, while Champagne is a typically dry sparkling wine made from Chardonnay and Pinot Noir. So the rule is simple to remember.",
+    "Los vinos de Borgoña (Bourgogne) pueden ser blancos, de Chardonnay, o tintos, de Pinot Noir. El Chablis y el Sancerre, tal como se presentan aquí, son blancos secos, y el Champagne es un espumoso típicamente seco elaborado con Chardonnay y Pinot Noir. Así que la regla es fácil de recordar."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "In carta: «Loira, agrumi ed erba al naso e in bocca». Quale vino è?",
+    "Sur une carte : « Loire, agrumes et herbe au nez et en bouche ». Quel vin est-ce ?",
+    "A list says «Loire Valley, citrus and grass on nose and palate». Which wine is it?",
+    "En una carta: «Loira, cítricos e hierba en nariz y boca». ¿Qué vino es?"
+   ],
+   "o": [
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ],
+    [
+     "Chablis",
+     "Chablis",
+     "Chablis",
+     "Chablis"
+    ],
+    [
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux",
+     "Bordeaux"
+    ],
+    [
+     "Burgundy rosso",
+     "Bourgogne rouge",
+     "Red Burgundy",
+     "Borgoña tinto"
+    ]
+   ],
+   "e": [
+    "Loira ed erba indicano il Sancerre, cioè Sauvignon Blanc.",
+    "Loire et herbe désignent le Sancerre, donc du Sauvignon Blanc.",
+    "Loire plus grass points to Sancerre, made from Sauvignon Blanc.",
+    "Loira e hierba apuntan al Sancerre, es decir, Sauvignon Blanc."
+   ],
+   "d": [
+    "L'origine nella Valle della Loira e le note di erba, tipiche del Sauvignon Blanc, indicano un Sancerre. Anche lo Chablis è un bianco fresco, ma viene da Burgundy e ha mela e limone senza note erbacee marcate. Bordeaux e Burgundy rosso sono vini rossi.",
+    "L'origine Loire et les notes d'herbe, typiques du Sauvignon Blanc, désignent un Sancerre. Le Chablis est aussi un blanc frais, mais il vient de Bourgogne et a pomme et citron, sans notes herbacées marquées. Le Bordeaux et le Bourgogne rouge sont des vins rouges.",
+    "A Loire Valley origin and grassy notes, typical of Sauvignon Blanc, point to Sancerre. Chablis is also a fresh white, but it comes from Burgundy and shows apple and lemon without marked herbaceous notes. Bordeaux and red Burgundy are red wines.",
+    "El origen en el valle del Loira y las notas de hierba, típicas de la Sauvignon Blanc, apuntan a un Sancerre. El Chablis también es un blanco fresco, pero procede de Borgoña y tiene manzana y limón sin notas herbáceas marcadas. Bordeaux y Borgoña tinto son tintos."
+   ],
+   "c": "w4"
+  },
+  {
+   "q": [
+    "Che cos'è il Sauternes?",
+    "Qu'est-ce que le Sauternes ?",
+    "What is Sauternes?",
+    "¿Qué es el Sauternes?"
+   ],
+   "o": [
+    [
+     "Un bianco dolce di Bordeaux",
+     "Un blanc doux de Bordeaux",
+     "A sweet white wine from Bordeaux",
+     "Un blanco dulce de Burdeos"
+    ],
+    [
+     "Un bianco secco della Loira",
+     "Un blanc sec de la Loire",
+     "A dry white wine from the Loire",
+     "Un blanco seco del Loira"
+    ],
+    [
+     "Uno spumante di Burgundy",
+     "Un effervescent de Bourgogne",
+     "A sparkling wine from Burgundy",
+     "Un espumoso de Borgoña"
+    ],
+    [
+     "Un fortificato della Spagna",
+     "Un vin fortifié d'Espagne",
+     "A fortified wine from Spain",
+     "Un fortificado de España"
+    ]
+   ],
+   "e": [
+    "Il Sauternes è il famoso bianco dolce prodotto a Bordeaux.",
+    "Le Sauternes est le célèbre blanc doux produit à Bordeaux.",
+    "Sauternes is the famous sweet white made in Bordeaux.",
+    "El Sauternes es el famoso blanco dulce elaborado en Burdeos."
+   ],
+   "d": [
+    "Il Sauternes è un vino bianco dolce di Bordeaux: corpo pieno, albicocca, miele e vaniglia del rovere, con un'acidità alta che bilancia lo zucchero. Il bianco secco della Loira è il Sancerre; il fortificato spagnolo è lo Sherry. Bordeaux, quindi, non fa solo rossi.",
+    "Le Sauternes est un blanc doux de Bordeaux : corsé, avec abricot, miel et vanille du chêne, et une acidité élevée qui équilibre le sucre. Le blanc sec de la Loire est le Sancerre ; le vin fortifié espagnol est le Sherry. Bordeaux ne fait donc pas que des rouges.",
+    "Sauternes is a sweet white wine from Bordeaux: full-bodied, with apricot, honey and vanilla from oak, and high acidity to balance the sugar. The dry white from the Loire is Sancerre, and the Spanish fortified wine is Sherry. So Bordeaux does not only make reds.",
+    "El Sauternes es un blanco dulce de Burdeos: con cuerpo, albaricoque, miel y vainilla del roble, y una acidez alta que equilibra el azúcar. El blanco seco del Loira es el Sancerre, y el fortificado español es el Sherry. Así que Burdeos no solo elabora tintos."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quali sapori sono tipici del Sauternes?",
+    "Quelles saveurs sont typiques du Sauternes ?",
+    "Which flavours are typical of Sauternes?",
+    "¿Qué sabores son típicos del Sauternes?"
+   ],
+   "o": [
+    [
+     "Albicocca, miele e vaniglia",
+     "Abricot, miel et vanille",
+     "Apricot, honey and vanilla",
+     "Albaricoque, miel y vainilla"
+    ],
+    [
+     "Mela verde, limone e pane tostato",
+     "Pomme verte, citron et pain grillé",
+     "Green apple, lemon and toast",
+     "Manzana verde, limón y pan tostado"
+    ],
+    [
+     "Pera, fiori e mela",
+     "Poire, fleurs et pomme",
+     "Pear, flowers and apple",
+     "Pera, flores y manzana"
+    ],
+    [
+     "Fragola, lampone e ciliegia",
+     "Fraise, framboise et cerise",
+     "Strawberry, raspberry and cherry",
+     "Fresa, frambuesa y cereza"
+    ]
+   ],
+   "e": [
+    "Il Sauternes unisce albicocca e miele alla vaniglia del rovere.",
+    "Le Sauternes associe abricot et miel à la vanille du chêne.",
+    "Sauternes combines apricot and honey with vanilla from oak.",
+    "El Sauternes une albaricoque y miel a la vainilla del roble."
+   ],
+   "d": [
+    "Il Sauternes ha sapori di frutta a nocciolo (albicocca), miele e vaniglia data dal rovere, sostenuti da un'acidità alta. Mela, limone e pane tostato descrivono lo Champagne; pera e fiori il Prosecco; fragola e lampone, con dolcezza media, il White Zinfandel. Ricorda anche il corpo pieno.",
+    "Le Sauternes a des saveurs de fruit à noyau (abricot), de miel et de vanille apportée par le chêne, portées par une acidité élevée. Pomme, citron et pain grillé décrivent le Champagne ; poire et fleurs le Prosecco ; fraise et framboise, avec une sucrosité moyenne, le White Zinfandel. Retenez aussi son corps ample.",
+    "Sauternes has flavours of stone fruit (apricot), honey and vanilla from oak, all held up by high acidity. Apple, lemon and toasted bread describe Champagne; pear and flowers describe Prosecco; and medium-sweet strawberry and raspberry describe White Zinfandel. Remember its full body too.",
+    "El Sauternes tiene sabores de fruta de hueso (albaricoque), miel y vainilla aportada por el roble, sostenidos por una acidez alta. Manzana, limón y pan tostado describen el Champagne; pera y flores, el Prosecco; y fresa y frambuesa con dulzor medio, el White Zinfandel. Recuerda también su cuerpo."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale affermazione sul Sauternes è corretta?",
+    "Quelle affirmation sur le Sauternes est correcte ?",
+    "Which statement about Sauternes is correct?",
+    "¿Qué afirmación sobre el Sauternes es correcta?"
+   ],
+   "o": [
+    [
+     "È pieno, con un'acidità alta che bilancia lo zucchero",
+     "Il est corsé, avec une acidité élevée qui équilibre le sucre",
+     "It is full-bodied, with high acidity balancing the sugar",
+     "Tiene cuerpo, con acidez alta que equilibra el azúcar"
+    ],
+    [
+     "È leggero, con acidità bassa e poco zucchero",
+     "Il est léger, peu acide et peu sucré",
+     "It is light-bodied, with low acidity and little sugar",
+     "Es ligero, con acidez baja y poco azúcar"
+    ],
+    [
+     "È secco, senza rovere, con note erbacee",
+     "Il est sec, non boisé, avec des notes herbacées",
+     "It is dry and unoaked, with herbaceous notes",
+     "Es seco, sin roble, con notas herbáceas"
+    ],
+    [
+     "È uno spumante con note di pane tostato",
+     "C'est un effervescent aux notes de pain grillé",
+     "It is sparkling, with notes of toasted bread",
+     "Es un espumoso con notas de pan tostado"
+    ]
+   ],
+   "e": [
+    "Il Sauternes è dolce e pieno, ma l'acidità alta lo mantiene fresco.",
+    "Le Sauternes est doux et corsé, mais son acidité élevée le garde frais.",
+    "Sauternes is sweet and full, but high acidity keeps it fresh.",
+    "El Sauternes es dulce y con cuerpo, pero la acidez alta lo mantiene fresco."
+   ],
+   "d": [
+    "Il Sauternes è un esempio sia di vino dolce sia di vino di corpo pieno. La sua acidità alta è essenziale perché bilancia la grande quantità di zucchero. Note erbacee e assenza di rovere ricordano il Sancerre, mentre il pane tostato è tipico dello Champagne.",
+    "Le Sauternes est un exemple à la fois de vin doux et de vin corsé. Son acidité élevée est essentielle, car elle équilibre la grande quantité de sucre. Notes herbacées et absence de bois évoquent le Sancerre, tandis que le pain grillé est typique du Champagne.",
+    "Sauternes is an example of both a sweet wine and a full-bodied wine. Its high acidity is essential because it balances the large amount of sugar. Herbaceous notes and no oak suggest Sancerre instead, while toasted bread is typical of Champagne.",
+    "El Sauternes es un ejemplo tanto de vino dulce como de vino con mucho cuerpo. Su acidez alta es esencial porque equilibra la gran cantidad de azúcar. Las notas herbáceas y la ausencia de roble recuerdan al Sancerre, y el pan tostado es típico del Champagne."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Che tipo di vino è il White Zinfandel?",
+    "Quel type de vin est le White Zinfandel ?",
+    "What kind of wine is White Zinfandel?",
+    "¿Qué tipo de vino es el White Zinfandel?"
+   ],
+   "o": [
+    [
+     "Un rosato californiano, dolcezza media, poco alcol",
+     "Un rosé californien, demi-doux, peu alcoolisé",
+     "A Californian rosé, medium-sweet, low in alcohol",
+     "Un rosado californiano, dulzor medio, poco alcohol"
+    ],
+    [
+     "Un bianco californiano, secco, molto alcolico",
+     "Un blanc californien, sec, très alcoolisé",
+     "A Californian white, dry, high in alcohol",
+     "Un blanco californiano, seco, con mucho alcohol"
+    ],
+    [
+     "Un rosso francese, secco e tannico",
+     "Un rouge français, sec et tannique",
+     "A French red, dry and tannic",
+     "Un tinto francés, seco y tánico"
+    ],
+    [
+     "Uno spumante italiano, leggero e floreale",
+     "Un effervescent italien, léger et floral",
+     "An Italian sparkling wine, light and floral",
+     "Un espumoso italiano, ligero y floral"
+    ]
+   ],
+   "e": [
+    "Nonostante il nome, il White Zinfandel è un rosato della California.",
+    "Malgré son nom, le White Zinfandel est un rosé de Californie.",
+    "Despite its name, White Zinfandel is a rosé from California.",
+    "Pese a su nombre, el White Zinfandel es un rosado de California."
+   ],
+   "d": [
+    "Il White Zinfandel è un rosato della California, senza rovere, di dolcezza media e poco alcolico, con fragola e lampone. È l'esempio classico di vino a bassa gradazione. Lo spumante italiano leggero e floreale è il Prosecco. Il nome inganna: il vino è rosa.",
+    "Le White Zinfandel est un rosé de Californie, non boisé, demi-doux et peu alcoolisé, aux notes de fraise et de framboise. C'est l'exemple classique du vin à faible degré. L'effervescent italien léger et floral est le Prosecco. Le nom trompe : le vin est rose.",
+    "White Zinfandel is an unoaked Californian rosé, medium-sweet and low in alcohol, with strawberry and raspberry. It is the classic example of a low-alcohol wine. The light, floral Italian sparkling wine in the options is Prosecco, which is a different wine altogether. The name misleads: the wine is pink.",
+    "El White Zinfandel es un rosado de California, sin roble, de dulzor medio y poco alcohol, con fresa y frambuesa. Es el ejemplo clásico de vino de baja graduación. El espumoso italiano ligero y floral de las opciones es el Prosecco, un vino completamente distinto. El nombre engaña: el vino es rosado."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quali sapori ha di solito il White Zinfandel?",
+    "Quelles saveurs a en général le White Zinfandel ?",
+    "Which flavours does White Zinfandel usually have?",
+    "¿Qué sabores suele tener el White Zinfandel?"
+   ],
+   "o": [
+    [
+     "Fragola e lampone",
+     "Fraise et framboise",
+     "Strawberry and raspberry",
+     "Fresa y frambuesa"
+    ],
+    [
+     "Albicocca e miele",
+     "Abricot et miel",
+     "Apricot and honey",
+     "Albaricoque y miel"
+    ],
+    [
+     "Mora e pepe nero",
+     "Mûre et poivre noir",
+     "Blackberry and black pepper",
+     "Mora y pimienta negra"
+    ],
+    [
+     "Mela e pane tostato",
+     "Pomme et pain grillé",
+     "Apple and toasted bread",
+     "Manzana y pan tostado"
+    ]
+   ],
+   "e": [
+    "Il White Zinfandel ha frutti rossi freschi come fragola e lampone.",
+    "Le White Zinfandel a des fruits rouges frais comme la fraise et la framboise.",
+    "White Zinfandel shows fresh red fruit such as strawberry and raspberry.",
+    "El White Zinfandel tiene frutas rojas frescas como fresa y frambuesa."
+   ],
+   "d": [
+    "Il White Zinfandel, rosato della California, ha sapori di frutti rossi come fragola e lampone, una dolcezza media e poco alcol; non passa in rovere. Albicocca e miele sono tipici del Sauternes, mora e pepe nero dello Syrah, mela e pane tostato dello Champagne.",
+    "Le White Zinfandel, rosé de Californie, a des saveurs de fruits rouges comme la fraise et la framboise, une sucrosité moyenne et peu d'alcool ; il n'est pas boisé. Abricot et miel sont typiques du Sauternes, mûre et poivre noir de la Syrah, pomme et pain grillé du Champagne.",
+    "White Zinfandel, the Californian rosé, has red fruit flavours such as strawberry and raspberry, medium sweetness and low alcohol, and it is unoaked. Apricot and honey are typical of Sauternes, blackberry and black pepper of Syrah, and apple and toasted bread of Champagne.",
+    "El White Zinfandel, rosado de California, tiene sabores de frutas rojas como fresa y frambuesa, un dulzor medio y poco alcohol, y no pasa por roble. Albaricoque y miel son típicos del Sauternes; mora y pimienta negra, de la Syrah; manzana y pan tostado, del Champagne."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale di questi vini ha il grado alcolico più basso?",
+    "Lequel de ces vins a le degré d'alcool le plus bas ?",
+    "Which of these wines has the lowest alcohol?",
+    "¿Cuál de estos vinos tiene menos alcohol?"
+   ],
+   "o": [
+    [
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel",
+     "White Zinfandel"
+    ],
+    [
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape"
+    ],
+    [
+     "Port",
+     "Port",
+     "Port",
+     "Port"
+    ],
+    [
+     "Sherry",
+     "Sherry",
+     "Sherry",
+     "Sherry"
+    ]
+   ],
+   "e": [
+    "Il White Zinfandel è l'esempio classico di vino poco alcolico.",
+    "Le White Zinfandel est l'exemple type du vin peu alcoolisé.",
+    "White Zinfandel is the classic example of a low-alcohol wine.",
+    "El White Zinfandel es el ejemplo clásico de vino con poco alcohol."
+   ],
+   "d": [
+    "Il White Zinfandel è citato come esempio di vino a bassa gradazione, intorno al 10,5% vol. Lo Châteauneuf-du-Pape è invece l'esempio di rosso molto alcolico, mentre Port e Sherry sono fortificati, con alcol aggiunto e un grado tra il 15% e il 22% vol.",
+    "Le White Zinfandel est cité comme exemple de vin peu alcoolisé, autour de 10,5 % vol. Le Châteauneuf-du-Pape est au contraire l'exemple du rouge riche en alcool, tandis que le Port et le Sherry sont des vins fortifiés, avec alcool ajouté et un degré de 15 % à 22 % vol.",
+    "White Zinfandel is the standard example of a low-alcohol wine, at around 10.5% abv. Châteauneuf-du-Pape, by contrast, is the example of a high-alcohol red, while Port and Sherry are fortified wines with added alcohol and a strength of 15% to 22% abv.",
+    "El White Zinfandel es el ejemplo típico de vino con poco alcohol, en torno al 10,5 % vol. El Châteauneuf-du-Pape, en cambio, es el ejemplo de tinto con mucho alcohol, y el Port y el Sherry son fortificados, con alcohol añadido y una graduación del 15 % al 22 % vol."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Qual è lo stile tipico del Beaujolais?",
+    "Quel est le style typique du Beaujolais ?",
+    "What is the typical style of Beaujolais?",
+    "¿Cuál es el estilo típico del Beaujolais?"
+   ],
+   "o": [
+    [
+     "Rosso secco leggero, poco tannico, senza rovere",
+     "Rouge sec léger, peu tannique, non boisé",
+     "Dry, light red with low tannin and no oak",
+     "Tinto seco ligero, poco tánico, sin roble"
+    ],
+    [
+     "Rosso secco pieno, molto tannico, con rovere",
+     "Rouge sec corsé, très tannique, boisé",
+     "Dry, full red with high tannin and oak",
+     "Tinto seco con cuerpo, muy tánico, con roble"
+    ],
+    [
+     "Rosato dolce e poco alcolico",
+     "Rosé doux et peu alcoolisé",
+     "Sweet rosé with low alcohol",
+     "Rosado dulce y con poco alcohol"
+    ],
+    [
+     "Rosso fortificato dolce e pieno",
+     "Rouge fortifié doux et corsé",
+     "Sweet, full-bodied fortified red",
+     "Tinto fortificado dulce y con cuerpo"
+    ]
+   ],
+   "e": [
+    "Il Beaujolais è un rosso francese leggero, fresco e poco tannico.",
+    "Le Beaujolais est un rouge français léger, frais et peu tannique.",
+    "Beaujolais is a light, fresh French red with low tannin.",
+    "El Beaujolais es un tinto francés ligero, fresco y poco tánico."
+   ],
+   "d": [
+    "Il Beaujolais è un rosso francese secco e leggero, senza rovere, con frutti rossi freschi come lampone e ciliegia rossa e poco tannino. Il rosso pieno e tannico ricorda il Bordeaux, il rosato dolce il White Zinfandel, il rosso fortificato dolce il Port.",
+    "Le Beaujolais est un rouge français sec et léger, non boisé, aux fruits rouges frais comme la framboise et la cerise rouge, et peu tannique. Le rouge corsé et tannique évoque le Bordeaux, le rosé doux le White Zinfandel, le rouge fortifié doux le Port.",
+    "Beaujolais is a dry, light-bodied, unoaked French red with fresh red fruit such as raspberry and red cherry and low tannin. The full, tannic red describes Bordeaux, the sweet rosé describes White Zinfandel, and the sweet fortified red describes Port.",
+    "El Beaujolais es un tinto francés seco y ligero, sin roble, con frutas rojas frescas como frambuesa y cereza roja y poco tanino. El tinto con cuerpo y tánico describe el Bordeaux; el rosado dulce, el White Zinfandel; y el tinto fortificado dulce, el Port."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "In carta: «rosso leggero, poco tannico, fragola e lampone». Quale vino è?",
+    "Sur une carte : « rouge léger, peu tannique, fraise et framboise ». Quel vin ?",
+    "A list says «light red, low tannin, strawberry and raspberry». Which wine is it?",
+    "En una carta: «tinto ligero, poco tánico, fresa y frambuesa». ¿Qué vino es?"
+   ],
+   "o": [
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape",
+     "Châteauneuf-du-Pape"
+    ],
+    [
+     "Chianti",
+     "Chianti",
+     "Chianti",
+     "Chianti"
+    ],
+    [
+     "Port",
+     "Port",
+     "Port",
+     "Port"
+    ]
+   ],
+   "e": [
+    "Leggero, poco tannico e con frutti rossi: è il ritratto del Beaujolais.",
+    "Léger, peu tannique et fruité : c'est le portrait du Beaujolais.",
+    "Light, low in tannin and red-fruited: that is Beaujolais.",
+    "Ligero, poco tánico y de fruta roja: es el retrato del Beaujolais."
+   ],
+   "d": [
+    "Il Beaujolais è il classico rosso leggero e poco tannico, con frutti rossi freschi. Lo Châteauneuf-du-Pape è pieno e molto alcolico, il Chianti ha tannino e acidità alti, il Port è un fortificato dolce e tannico. Un rosso così leggero si può anche servire leggermente fresco.",
+    "Le Beaujolais est le rouge léger et peu tannique par excellence, aux fruits rouges frais. Le Châteauneuf-du-Pape est corsé et riche en alcool, le Chianti a des tanins et une acidité élevés, le Port est un fortifié doux et tannique. Un rouge aussi léger peut même se servir légèrement rafraîchi.",
+    "Beaujolais is the classic light, low-tannin red with fresh red fruit. Châteauneuf-du-Pape is full-bodied and high in alcohol, Chianti has high tannin and acidity, and Port is a sweet, tannic fortified wine. A red this light can even be served lightly chilled.",
+    "El Beaujolais es el tinto ligero y poco tánico por excelencia, con frutas rojas frescas. El Châteauneuf-du-Pape tiene mucho cuerpo y alcohol, el Chianti tanino y acidez altos, y el Port es un fortificado dulce y tánico. Un tinto tan ligero puede incluso servirse ligeramente fresco."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale spezia è tipica del Côtes du Rhône?",
+    "Quelle épice est typique du Côtes du Rhône ?",
+    "Which spice is typical of Côtes du Rhône?",
+    "¿Qué especia es típica del Côtes du Rhône?"
+   ],
+   "o": [
+    [
+     "Pepe bianco",
+     "Poivre blanc",
+     "White pepper",
+     "Pimienta blanca"
+    ],
+    [
+     "Liquirizia",
+     "Réglisse",
+     "Liquorice",
+     "Regaliz"
+    ],
+    [
+     "Cannella",
+     "Cannelle",
+     "Cinnamon",
+     "Canela"
+    ],
+    [
+     "Zenzero",
+     "Gingembre",
+     "Ginger",
+     "Jengibre"
+    ]
+   ],
+   "e": [
+    "Il Côtes du Rhône unisce frutti rossi a una nota di pepe bianco.",
+    "Le Côtes du Rhône associe fruits rouges et une note de poivre blanc.",
+    "Côtes du Rhône pairs red fruit with a white pepper note.",
+    "El Côtes du Rhône une frutas rojas y una nota de pimienta blanca."
+   ],
+   "d": [
+    "Il Côtes du Rhône è un rosso francese secco di corpo medio, con fragola, prugna rossa e pepe bianco, con o senza rovere. La liquirizia è tipica invece dello Shiraz delle zone calde dell'Australia. Ricorda la differenza: pepe bianco nel Côtes du Rhône, pepe nero nel Syrah.",
+    "Le Côtes du Rhône est un rouge français sec de corps moyen, avec fraise, prune rouge et poivre blanc, boisé ou non. La réglisse est typique de la Shiraz des régions chaudes d'Australie. Retenez la différence : poivre blanc dans le Côtes du Rhône, poivre noir dans la Syrah.",
+    "Côtes du Rhône is a dry, medium-bodied French red with strawberry, red plum and white pepper, oaked or unoaked. Liquorice, by contrast, is typical of Shiraz from warm parts of Australia. Remember the difference: white pepper in Côtes du Rhône, black pepper in Syrah.",
+    "El Côtes du Rhône es un tinto francés seco de cuerpo medio, con fresa, ciruela roja y pimienta blanca, con o sin roble. El regaliz es típico, en cambio, de la Shiraz de las zonas cálidas de Australia. Recuerda la diferencia: pimienta blanca en el Côtes du Rhône, pimienta negra en la Syrah."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde allo Châteauneuf-du-Pape?",
+    "Quelle description correspond au Châteauneuf-du-Pape ?",
+    "Which description fits Châteauneuf-du-Pape?",
+    "¿Qué descripción corresponde al Châteauneuf-du-Pape?"
+   ],
+   "o": [
+    [
+     "Rosso secco, pieno, molto alcolico, fragola e chiodi di garofano",
+     "Rouge sec, corsé, très alcoolisé, fraise et girofle",
+     "Dry, full-bodied, high-alcohol red with strawberry and clove",
+     "Tinto seco, con cuerpo, mucho alcohol, fresa y clavo"
+    ],
+    [
+     "Rosso secco, leggero, senza rovere, lampone",
+     "Rouge sec, léger, non boisé, framboise",
+     "Dry, light, unoaked red with raspberry",
+     "Tinto seco, ligero, sin roble, frambuesa"
+    ],
+    [
+     "Rosso secco, medio, pepe bianco, prugna rossa",
+     "Rouge sec, moyen, poivre blanc, prune rouge",
+     "Dry, medium red with white pepper and red plum",
+     "Tinto seco, medio, pimienta blanca, ciruela roja"
+    ],
+    [
+     "Rosso dolce, fortificato, mora",
+     "Rouge doux, fortifié, mûre",
+     "Sweet, fortified red with blackberry",
+     "Tinto dulce, fortificado, mora"
+    ]
+   ],
+   "e": [
+    "Lo Châteauneuf-du-Pape è pieno e ricco di alcol, con fragola e chiodi di garofano.",
+    "Le Châteauneuf-du-Pape est corsé et riche en alcool, sur la fraise et le girofle.",
+    "Châteauneuf-du-Pape is full and high in alcohol, with strawberry and clove.",
+    "El Châteauneuf-du-Pape tiene cuerpo y mucho alcohol, con fresa y clavo."
+   ],
+   "d": [
+    "Lo Châteauneuf-du-Pape è un rosso francese secco, di corpo pieno e ad alta gradazione, con fragola e chiodi di garofano dati dal rovere. Le altre opzioni descrivono il Beaujolais (leggero), il Côtes du Rhône (medio, pepe bianco) e il Port (fortificato dolce). Viene dalla zona del Rodano.",
+    "Le Châteauneuf-du-Pape est un rouge français sec, corsé et riche en alcool, avec fraise et clou de girofle apporté par le chêne. Les autres réponses décrivent le Beaujolais (léger), le Côtes du Rhône (moyen, poivre blanc) et le Port (fortifié doux). Il vient de la vallée du Rhône.",
+    "Châteauneuf-du-Pape is a dry, full-bodied, high-alcohol French red with strawberry and cloves from oak. The other options describe Beaujolais (light), Côtes du Rhône (medium, white pepper) and Port (sweet and fortified), so only the first one matches. It comes from the Rhône area.",
+    "El Châteauneuf-du-Pape es un tinto francés seco, con mucho cuerpo y alcohol, con fresa y clavo aportado por el roble. Las otras opciones describen el Beaujolais (ligero), el Côtes du Rhône (medio, pimienta blanca) y el Port (fortificado dulce), así que solo la primera encaja. Procede de la zona del Ródano."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale rosso italiano ha tannino e acidità alti e note di erbe secche?",
+    "Quel rouge italien a des tanins et une acidité élevés et des notes d'herbes séchées ?",
+    "Which Italian red has high tannin and acidity with dried herb notes?",
+    "¿Qué tinto italiano tiene tanino y acidez altos y notas de hierbas secas?"
+   ],
+   "o": [
+    [
+     "Chianti",
+     "Chianti",
+     "Chianti",
+     "Chianti"
+    ],
+    [
+     "Rioja",
+     "Rioja",
+     "Rioja",
+     "Rioja"
+    ],
+    [
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais",
+     "Beaujolais"
+    ],
+    [
+     "Côtes du Rhône",
+     "Côtes du Rhône",
+     "Côtes du Rhône",
+     "Côtes du Rhône"
+    ]
+   ],
+   "e": [
+    "Il Chianti è il rosso italiano tannico e fresco con erbe secche.",
+    "Le Chianti est le rouge italien tannique et frais aux herbes séchées.",
+    "Chianti is the tannic, fresh Italian red with dried herbs.",
+    "El Chianti es el tinto italiano tánico y fresco con hierbas secas."
+   ],
+   "d": [
+    "Il Chianti è un rosso italiano secco, di corpo medio, con tannino e acidità alti, ciliegia rossa, prugna rossa, erbe secche e a volte chiodi di garofano del rovere. Il Rioja è spagnolo, mentre Beaujolais e Côtes du Rhône sono rossi francesi. Viene dalla Toscana.",
+    "Le Chianti est un rouge italien sec, de corps moyen, aux tanins et à l'acidité élevés, avec cerise rouge, prune rouge, herbes séchées et parfois clou de girofle du chêne. Le Rioja est espagnol, tandis que le Beaujolais et le Côtes du Rhône sont des rouges français. Il vient de Toscane.",
+    "Chianti is a dry, medium-bodied Italian red with high tannin and acidity, red cherry, red plum, dried herbs and sometimes cloves from oak. Rioja is Spanish, while Beaujolais and Côtes du Rhône are French reds, so only Chianti fits. It comes from Tuscany.",
+    "El Chianti es un tinto italiano seco, de cuerpo medio, con tanino y acidez altos, cereza roja, ciruela roja, hierbas secas y a veces clavo del roble. El Rioja es español, y el Beaujolais y el Côtes du Rhône son tintos franceses. Procede de la Toscana."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quali aromi può dare il rovere al Chianti?",
+    "Quels arômes le chêne peut-il donner au Chianti ?",
+    "Which aromas can oak give to Chianti?",
+    "¿Qué aromas puede dar el roble al Chianti?"
+   ],
+   "o": [
+    [
+     "Chiodi di garofano",
+     "Clou de girofle",
+     "Cloves",
+     "Clavo"
+    ],
+    [
+     "Pane tostato",
+     "Pain grillé",
+     "Toasted bread",
+     "Pan tostado"
+    ],
+    [
+     "Peperone verde",
+     "Poivron vert",
+     "Green bell pepper",
+     "Pimiento verde"
+    ],
+    [
+     "Miele",
+     "Miel",
+     "Honey",
+     "Miel"
+    ]
+   ],
+   "e": [
+    "Nel Chianti il rovere può aggiungere note di chiodi di garofano.",
+    "Dans le Chianti, le chêne peut apporter des notes de clou de girofle.",
+    "In Chianti, oak can add notes of cloves.",
+    "En el Chianti, el roble puede añadir notas de clavo."
+   ],
+   "d": [
+    "Il Chianti ha frutti rossi ed erbe secche e, a volte, aromi di chiodi di garofano dovuti al rovere. Anche nello Châteauneuf-du-Pape il rovere porta chiodi di garofano. Il pane tostato è tipico dello Champagne, il peperone verde del Cabernet Sauvignon, il miele del Sauternes. Il legno, quindi, può lasciare un'impronta speziata anche in un rosso fresco come il Chianti.",
+    "Le Chianti a des fruits rouges, des herbes séchées et parfois des arômes de clou de girofle dus au chêne. Dans le Châteauneuf-du-Pape aussi, le chêne apporte le girofle. Le pain grillé est typique du Champagne, le poivron vert du Cabernet Sauvignon, le miel du Sauternes. Le bois peut donc laisser une empreinte épicée même dans un rouge frais comme le Chianti.",
+    "Chianti has red fruit and dried herbs and sometimes clove aromas from oak. In Châteauneuf-du-Pape, too, oak brings cloves. Toasted bread is typical of Champagne, green bell pepper of Cabernet Sauvignon, and honey of Sauternes. So oak can leave a spicy mark even on a fresh red like Chianti.",
+    "El Chianti tiene frutas rojas y hierbas secas y, a veces, aromas de clavo procedentes del roble. En el Châteauneuf-du-Pape el roble también aporta clavo. El pan tostado es típico del Champagne, el pimiento verde del Cabernet Sauvignon y la miel del Sauternes. Así, la madera puede dejar una huella especiada incluso en un tinto fresco como el Chianti."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Da quale paese viene il Rioja e quali sapori ha di solito?",
+    "De quel pays vient le Rioja et quelles saveurs a-t-il en général ?",
+    "Which country is Rioja from, and what does it usually taste of?",
+    "¿De qué país es el Rioja y a qué suele saber?"
+   ],
+   "o": [
+    [
+     "Spagna; fragola e vaniglia",
+     "Espagne ; fraise et vanille",
+     "Spain; strawberry and vanilla",
+     "España; fresa y vainilla"
+    ],
+    [
+     "Italia; ciliegia ed erbe secche",
+     "Italie ; cerise et herbes séchées",
+     "Italy; cherry and dried herbs",
+     "Italia; cereza y hierbas secas"
+    ],
+    [
+     "Portogallo; mora e tannino alto",
+     "Portugal ; mûre et tanins élevés",
+     "Portugal; blackberry and high tannin",
+     "Portugal; mora y tanino alto"
+    ],
+    [
+     "Francia; lampone e ciliegia",
+     "France ; framboise et cerise",
+     "France; raspberry and cherry",
+     "Francia; frambuesa y cereza"
+    ]
+   ],
+   "e": [
+    "Il Rioja è spagnolo, con fragola e vaniglia del rovere.",
+    "Le Rioja est espagnol, avec fraise et vanille du chêne.",
+    "Rioja is Spanish, with strawberry and vanilla from oak.",
+    "El Rioja es español, con fresa y vainilla del roble."
+   ],
+   "d": [
+    "Il Rioja è un rosso spagnolo secco, di corpo da medio a pieno, con frutti rossi come la fragola e vaniglia data dal rovere. Ciliegia ed erbe secche descrivono il Chianti italiano, mora e tannino alto il Port portoghese, lampone e ciliegia il Beaujolais francese.",
+    "Le Rioja est un rouge espagnol sec, au corps moyen à ample, avec des fruits rouges comme la fraise et la vanille apportée par le chêne. Cerise et herbes séchées décrivent le Chianti italien, mûre et tanins élevés le Port portugais, framboise et cerise le Beaujolais français.",
+    "Rioja is a dry Spanish red with a medium to full body, red fruit such as strawberry, and vanilla from oak. Cherry and dried herbs describe Italian Chianti, blackberry and high tannin describe Portuguese Port, and raspberry and cherry describe French Beaujolais.",
+    "El Rioja es un tinto español seco, de cuerpo medio a alto, con frutas rojas como la fresa y vainilla aportada por el roble. Cereza y hierbas secas describen el Chianti italiano; mora y tanino alto, el Port portugués; frambuesa y cereza, el Beaujolais francés."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Da dove viene la vaniglia di un Rioja?",
+    "D'où vient la vanille d'un Rioja ?",
+    "Where does the vanilla in a Rioja come from?",
+    "¿De dónde viene la vainilla de un Rioja?"
+   ],
+   "o": [
+    [
+     "Dal rovere",
+     "Du chêne",
+     "From oak",
+     "Del roble"
+    ],
+    [
+     "Dalle bucce dell'uva",
+     "De la peau du raisin",
+     "From the grape skins",
+     "De los hollejos"
+    ],
+    [
+     "Dal clima caldo",
+     "Du climat chaud",
+     "From the warm climate",
+     "Del clima cálido"
+    ],
+    [
+     "Dall'alcol aggiunto",
+     "De l'alcool ajouté",
+     "From added alcohol",
+     "Del alcohol añadido"
+    ]
+   ],
+   "e": [
+    "La vaniglia è un aroma tipico del rovere.",
+    "La vanille est un arôme typique du chêne.",
+    "Vanilla is a typical oak aroma.",
+    "La vainilla es un aroma típico del roble."
+   ],
+   "d": [
+    "Il Rioja abbina frutti rossi come la fragola a note di vaniglia, che arrivano dall'affinamento in rovere. Le bucce danno colore e tannino, il clima incide su zucchero, acidità e maturità della frutta, e il Rioja non è un vino fortificato.",
+    "Le Rioja associe des fruits rouges comme la fraise à des notes de vanille, qui viennent de l'élevage en chêne. Les peaux apportent couleur et tanins, le climat agit sur le sucre, l'acidité et la maturité du fruit, et le Rioja n'est pas un vin fortifié.",
+    "Rioja combines red fruit such as strawberry with vanilla notes, which come from maturation in oak. Skins provide colour and tannin, climate affects sugar, acidity and fruit ripeness, and Rioja is not a fortified wine, so the other options do not apply.",
+    "El Rioja combina frutas rojas como la fresa con notas de vainilla, que proceden de la crianza en roble. Los hollejos aportan color y tanino, el clima influye en el azúcar, la acidez y la madurez de la fruta, y el Rioja no es un vino fortificado."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde al Prosecco?",
+    "Quelle description correspond au Prosecco ?",
+    "Which description fits Prosecco?",
+    "¿Qué descripción corresponde al Prosecco?"
+   ],
+   "o": [
+    [
+     "Spumante italiano leggero, pera e fiori",
+     "Effervescent italien léger, poire et fleurs",
+     "Light Italian sparkling wine, pear and floral",
+     "Espumoso italiano ligero, pera y flores"
+    ],
+    [
+     "Spumante spagnolo secco, mela e limone",
+     "Effervescent espagnol sec, pomme et citron",
+     "Dry Spanish sparkling wine, apple and lemon",
+     "Espumoso español seco, manzana y limón"
+    ],
+    [
+     "Spumante francese, pane tostato",
+     "Effervescent français, pain grillé",
+     "French sparkling wine with toasted bread",
+     "Espumoso francés con pan tostado"
+    ],
+    [
+     "Fortificato italiano dolce",
+     "Vin fortifié italien doux",
+     "Sweet Italian fortified wine",
+     "Fortificado italiano dulce"
+    ]
+   ],
+   "e": [
+    "Il Prosecco è uno spumante italiano leggero con pera e fiori.",
+    "Le Prosecco est un effervescent italien léger, sur la poire et les fleurs.",
+    "Prosecco is a light Italian sparkling wine with pear and flowers.",
+    "El Prosecco es un espumoso italiano ligero con pera y flores."
+   ],
+   "d": [
+    "Il Prosecco è uno spumante italiano di corpo leggero, con frutta verde (pera) e aromi floreali, secco o di dolcezza media. Lo spumante spagnolo secco con mela e limone è il Cava; quello francese con note di pane tostato è lo Champagne. Nessuno dei tre è fortificato.",
+    "Le Prosecco est un effervescent italien léger, au fruit vert (poire) et aux arômes floraux, sec ou demi-doux. L'effervescent espagnol sec, sur la pomme et le citron, est le Cava ; le français aux notes de pain grillé est le Champagne. Aucun des trois n'est fortifié.",
+    "Prosecco is a light-bodied Italian sparkling wine with green fruit (pear) and floral aromas, either dry or medium-sweet. The dry Spanish sparkling wine with apple and lemon is Cava, and the French one with toasted bread notes is Champagne. None of the three is fortified.",
+    "El Prosecco es un espumoso italiano de cuerpo ligero, con fruta verde (pera) y aromas florales, seco o de dulzor medio. El espumoso español seco con manzana y limón es el Cava, y el francés con notas de pan tostado es el Champagne. Ninguno de los tres es fortificado."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale di questi spumanti può essere di dolcezza media?",
+    "Lequel de ces effervescents peut être demi-doux ?",
+    "Which of these sparkling wines can be medium-sweet?",
+    "¿Cuál de estos espumosos puede tener dulzor medio?"
+   ],
+   "o": [
+    [
+     "Prosecco",
+     "Prosecco",
+     "Prosecco",
+     "Prosecco"
+    ],
+    [
+     "Cava",
+     "Cava",
+     "Cava",
+     "Cava"
+    ],
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ],
+    [
+     "Sancerre",
+     "Sancerre",
+     "Sancerre",
+     "Sancerre"
+    ]
+   ],
+   "e": [
+    "Il Prosecco può essere secco oppure di dolcezza media.",
+    "Le Prosecco peut être sec ou demi-doux.",
+    "Prosecco can be either dry or medium-sweet.",
+    "El Prosecco puede ser seco o de dulzor medio."
+   ],
+   "d": [
+    "Tra gli spumanti da conoscere, il Prosecco è quello che può essere sia secco sia di dolcezza media. Il Cava è descritto come secco e lo Champagne come tipicamente secco. Il Sancerre non è uno spumante, ma un bianco fermo e secco della Loira.",
+    "Parmi les effervescents à connaître, le Prosecco est celui qui peut être sec ou demi-doux. Le Cava est décrit comme sec et le Champagne comme typiquement sec. Le Sancerre n'est pas un effervescent, mais un blanc tranquille et sec de la Loire.",
+    "Of the sparkling wines to know, Prosecco is the one that can be either dry or medium-sweet. Cava is described as dry and Champagne as typically dry. Sancerre is not a sparkling wine at all, but a still, dry white from the Loire.",
+    "De los espumosos que hay que conocer, el Prosecco es el que puede ser seco o de dulzor medio. El Cava se describe como seco y el Champagne como típicamente seco. El Sancerre no es un espumoso, sino un blanco tranquilo y seco del Loira."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde al Cava?",
+    "Quelle description correspond au Cava ?",
+    "Which description fits Cava?",
+    "¿Qué descripción corresponde al Cava?"
+   ],
+   "o": [
+    [
+     "Spumante secco spagnolo, mela e limone",
+     "Effervescent sec espagnol, pomme et citron",
+     "Dry Spanish sparkling wine, apple and lemon",
+     "Espumoso seco español, manzana y limón"
+    ],
+    [
+     "Spumante dolce italiano, pera e fiori",
+     "Effervescent doux italien, poire et fleurs",
+     "Sweet Italian sparkling wine, pear and flowers",
+     "Espumoso dulce italiano, pera y flores"
+    ],
+    [
+     "Fortificato spagnolo, da secco a dolce",
+     "Vin fortifié espagnol, du sec au doux",
+     "Spanish fortified wine, dry to sweet",
+     "Fortificado español, de seco a dulce"
+    ],
+    [
+     "Rosso spagnolo, fragola e vaniglia",
+     "Rouge espagnol, fraise et vanille",
+     "Spanish red, strawberry and vanilla",
+     "Tinto español, fresa y vainilla"
+    ]
+   ],
+   "e": [
+    "Il Cava è lo spumante secco della Spagna, con mela e limone.",
+    "Le Cava est l'effervescent sec d'Espagne, sur la pomme et le citron.",
+    "Cava is Spain's dry sparkling wine, with apple and lemon.",
+    "El Cava es el espumoso seco de España, con manzana y limón."
+   ],
+   "d": [
+    "Il Cava è uno spumante secco spagnolo con frutta verde (mela) e agrumi (limone). Attenzione agli altri vini spagnoli: lo Sherry è un fortificato bianco che può essere secco, medio o dolce, e il Rioja è un rosso con fragola e vaniglia.",
+    "Le Cava est un effervescent sec espagnol, au fruit vert (pomme) et aux agrumes (citron). Attention aux autres vins espagnols : le Sherry est un fortifié blanc qui peut être sec, demi-doux ou doux, et le Rioja est un rouge sur la fraise et la vanille.",
+    "Cava is a dry Spanish sparkling wine with green fruit (apple) and citrus (lemon). Do not mix it up with the other Spanish wines: Sherry is a white fortified wine that can be dry, medium or sweet, and Rioja is a red with strawberry and vanilla.",
+    "El Cava es un espumoso seco español con fruta verde (manzana) y cítricos (limón). Ojo con los otros vinos españoles: el Sherry es un fortificado blanco que puede ser seco, semiseco o dulce, y el Rioja es un tinto con fresa y vainilla."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale coppia è formata da due vini fortificati?",
+    "Quelle paire est formée de deux vins fortifiés ?",
+    "Which pair are both fortified wines?",
+    "¿Qué pareja está formada por dos vinos fortificados?"
+   ],
+   "o": [
+    [
+     "Sherry e Port",
+     "Sherry et Port",
+     "Sherry and Port",
+     "Sherry y Port"
+    ],
+    [
+     "Prosecco e Cava",
+     "Prosecco et Cava",
+     "Prosecco and Cava",
+     "Prosecco y Cava"
+    ],
+    [
+     "Rioja e Chianti",
+     "Rioja et Chianti",
+     "Rioja and Chianti",
+     "Rioja y Chianti"
+    ],
+    [
+     "Sauternes e White Zinfandel",
+     "Sauternes et White Zinfandel",
+     "Sauternes and White Zinfandel",
+     "Sauternes y White Zinfandel"
+    ]
+   ],
+   "e": [
+    "Sherry e Port sono vini a cui è stato aggiunto alcol.",
+    "Le Sherry et le Port sont des vins additionnés d'alcool.",
+    "Sherry and Port are wines with added alcohol.",
+    "El Sherry y el Port son vinos con alcohol añadido."
+   ],
+   "d": [
+    "Sherry, dalla Spagna, e Port, dal Portogallo, sono i due vini fortificati da conoscere: hanno alcol aggiunto e un grado tra il 15% e il 22% vol. Prosecco e Cava sono spumanti, Rioja e Chianti rossi fermi, Sauternes e White Zinfandel vini fermi dolci o di dolcezza media.",
+    "Le Sherry, d'Espagne, et le Port, du Portugal, sont les deux vins fortifiés à connaître : alcool ajouté et degré de 15 % à 22 % vol. Le Prosecco et le Cava sont des effervescents, le Rioja et le Chianti des rouges tranquilles, le Sauternes et le White Zinfandel des vins tranquilles doux ou demi-doux.",
+    "Sherry from Spain and Port from Portugal are the two fortified wines to know: they have added alcohol and a strength of 15% to 22% abv. Prosecco and Cava are sparkling, Rioja and Chianti are still reds, and Sauternes and White Zinfandel are still wines that are sweet or medium-sweet.",
+    "El Sherry, de España, y el Port, de Portugal, son los dos fortificados que conviene conocer: llevan alcohol añadido y tienen entre un 15 % y un 22 % vol. Prosecco y Cava son espumosos, Rioja y Chianti tintos tranquilos, y Sauternes y White Zinfandel vinos tranquilos dulces o de dulzor medio."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale affermazione sullo Sherry è corretta?",
+    "Quelle affirmation sur le Sherry est correcte ?",
+    "Which statement about Sherry is correct?",
+    "¿Qué afirmación sobre el Sherry es correcta?"
+   ],
+   "o": [
+    [
+     "È un fortificato bianco spagnolo, secco, medio o dolce",
+     "C'est un fortifié blanc espagnol, sec, demi-doux ou doux",
+     "It is a white Spanish fortified wine, dry, medium or sweet",
+     "Es un fortificado blanco español, seco, semiseco o dulce"
+    ],
+    [
+     "È un fortificato rosso portoghese, sempre dolce",
+     "C'est un fortifié rouge portugais, toujours doux",
+     "It is a red Portuguese fortified wine, always sweet",
+     "Es un fortificado tinto portugués, siempre dulce"
+    ],
+    [
+     "È uno spumante spagnolo secco",
+     "C'est un effervescent espagnol sec",
+     "It is a dry Spanish sparkling wine",
+     "Es un espumoso español seco"
+    ],
+    [
+     "È un rosso fermo spagnolo con vaniglia",
+     "C'est un rouge tranquille espagnol vanillé",
+     "It is a still Spanish red with vanilla",
+     "Es un tinto tranquilo español con vainilla"
+    ]
+   ],
+   "e": [
+    "Lo Sherry è un fortificato bianco della Spagna, in stili da secco a dolce.",
+    "Le Sherry est un fortifié blanc d'Espagne, du sec au doux.",
+    "Sherry is a white fortified wine from Spain, made dry to sweet.",
+    "El Sherry es un fortificado blanco de España, de seco a dulce."
+   ],
+   "d": [
+    "Lo Sherry è un vino fortificato bianco della Spagna, prodotto in diversi stili: può essere secco, di dolcezza media o dolce. Il fortificato rosso e dolce del Portogallo è il Port; lo spumante spagnolo secco è il Cava; il rosso spagnolo con vaniglia è il Rioja.",
+    "Le Sherry est un vin fortifié blanc d'Espagne, produit en plusieurs styles : il peut être sec, demi-doux ou doux. Le fortifié rouge et doux du Portugal est le Port ; l'effervescent espagnol sec est le Cava ; le rouge espagnol vanillé est le Rioja.",
+    "Sherry is a white fortified wine from Spain, made in a range of styles: it can be dry, medium or sweet. The sweet red fortified wine from Portugal is Port, the dry Spanish sparkling wine is Cava, and the Spanish red with vanilla is Rioja.",
+    "El Sherry es un vino fortificado blanco de España, elaborado en varios estilos: puede ser seco, semiseco o dulce. El fortificado tinto y dulce de Portugal es el Port; el espumoso español seco es el Cava; y el tinto español con vainilla es el Rioja."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Quale descrizione corrisponde al Port?",
+    "Quelle description correspond au Port ?",
+    "Which description fits Port?",
+    "¿Qué descripción corresponde al Port?"
+   ],
+   "o": [
+    [
+     "Fortificato portoghese, dolce, rosso, pieno, tannico",
+     "Fortifié portugais, doux, rouge, corsé, tannique",
+     "Portuguese fortified wine: sweet, red, full, tannic",
+     "Fortificado portugués: dulce, tinto, con cuerpo, tánico"
+    ],
+    [
+     "Fortificato spagnolo, bianco, spesso secco",
+     "Fortifié espagnol, blanc, souvent sec",
+     "Spanish fortified wine: white, often dry",
+     "Fortificado español: blanco, a menudo seco"
+    ],
+    [
+     "Rosso fermo portoghese, leggero e secco",
+     "Rouge tranquille portugais, léger et sec",
+     "Still Portuguese red: light and dry",
+     "Tinto tranquilo portugués: ligero y seco"
+    ],
+    [
+     "Bianco dolce francese con miele",
+     "Blanc doux français au miel",
+     "Sweet French white with honey",
+     "Blanco dulce francés con miel"
+    ]
+   ],
+   "e": [
+    "Il Port è un fortificato del Portogallo, dolce, di solito rosso, pieno e tannico.",
+    "Le Port est un fortifié du Portugal, doux, en général rouge, corsé et tannique.",
+    "Port is a sweet Portuguese fortified wine, usually red, full and tannic.",
+    "El Port es un fortificado portugués, dulce, normalmente tinto, con cuerpo y tánico."
+   ],
+   "d": [
+    "Il Port è un vino fortificato del Portogallo, dolce e ad alta gradazione, prodotto in diversi stili. Di solito è rosso, di corpo pieno, con tannino alto e frutti neri come la mora. Il fortificato bianco spagnolo è lo Sherry; il bianco dolce francese con miele è il Sauternes.",
+    "Le Port est un vin fortifié du Portugal, doux et riche en alcool, produit en plusieurs styles. Il est en général rouge, corsé, aux tanins élevés, avec des fruits noirs comme la mûre. Le fortifié blanc espagnol est le Sherry ; le blanc doux français au miel est le Sauternes.",
+    "Port is a fortified wine from Portugal, sweet and high in alcohol, made in a range of styles. It is usually red and full-bodied, with high tannin and black fruit such as blackberry. The white Spanish fortified wine is Sherry, and the sweet French white with honey is Sauternes.",
+    "El Port es un vino fortificado de Portugal, dulce y con mucho alcohol, elaborado en varios estilos. Normalmente es tinto, con mucho cuerpo, tanino alto y frutas negras como la mora. El fortificado blanco español es el Sherry, y el blanco dulce francés con miel es el Sauternes."
+   ],
+   "c": "w5"
+  },
+  {
+   "q": [
+    "Perché il Port è dolce e ricco di alcol?",
+    "Pourquoi le Port est-il doux et riche en alcool ?",
+    "Why is Port both sweet and high in alcohol?",
+    "¿Por qué el Port es dulce y tiene mucho alcohol?"
+   ],
+   "o": [
+    [
+     "L'alcol aggiunto ferma i lieviti e lascia zucchero",
+     "L'alcool ajouté arrête les levures et laisse du sucre",
+     "Added alcohol stops the yeast, leaving sugar behind",
+     "El alcohol añadido detiene las levaduras y deja azúcar"
+    ],
+    [
+     "Si aggiunge zucchero dopo l'imbottigliamento",
+     "On ajoute du sucre après la mise en bouteille",
+     "Sugar is added after bottling",
+     "Se añade azúcar tras el embotellado"
+    ],
+    [
+     "Le uve vengono raccolte acerbe",
+     "Le raisin est vendangé avant maturité",
+     "The grapes are picked unripe",
+     "La uva se vendimia sin madurar"
+    ],
+    [
+     "Fermenta a lungo in botti di rovere",
+     "Il fermente longtemps en fût de chêne",
+     "It ferments for a long time in oak",
+     "Fermenta mucho tiempo en barrica"
+    ]
+   ],
+   "e": [
+    "Nei fortificati dolci l'alcol aggiunto uccide i lieviti prima della fine.",
+    "Dans les fortifiés doux, l'alcool ajouté tue les levures avant la fin.",
+    "In sweet fortified wines, added alcohol kills the yeast early.",
+    "En los fortificados dulces, el alcohol añadido mata las levaduras antes de tiempo."
+   ],
+   "d": [
+    "Nel Port si aggiunge alcol distillato ad alta gradazione prima che i lieviti abbiano consumato tutto lo zucchero. I lieviti muoiono: lo zucchero rimasto rende il vino dolce e l'alcol aggiunto ne alza il grado, intorno al 20% vol. È la logica dei fortificati dolci.",
+    "Dans le Port, on ajoute un alcool distillé très fort avant que les levures aient consommé tout le sucre. Les levures meurent : le sucre restant rend le vin doux et l'alcool ajouté élève son degré, autour de 20 % vol. C'est la logique des fortifiés doux.",
+    "With Port, high-strength distilled alcohol is added before the yeast have eaten all the sugar. The yeast die: the leftover sugar makes the wine sweet and the added alcohol raises its strength to around 20% abv. This is how sweet fortified wines work.",
+    "En el Port se añade alcohol destilado de alta graduación antes de que las levaduras se coman todo el azúcar. Las levaduras mueren: el azúcar restante hace dulce el vino y el alcohol añadido eleva su graduación, en torno al 20 % vol. Es la lógica de los fortificados dulces."
+   ],
+   "c": "w5"
   }
  ],
  "flash": [
@@ -4867,6 +7283,291 @@
     "Burdeos, California, Australia, Chile, Sudáfrica."
    ],
    "c": "w3"
+  },
+  {
+   "f": [
+    "Champagne",
+    "Champagne",
+    "Champagne",
+    "Champagne"
+   ],
+   "b": [
+    "Spumante francese da Chardonnay e Pinot Noir; secco, acidità alta, mela, limone, pane tostato.",
+    "Effervescent français de Chardonnay et Pinot Noir ; sec, acidité élevée, pomme, citron, pain grillé.",
+    "French sparkling from Chardonnay and Pinot Noir; dry, high acidity, apple, lemon, toasted bread.",
+    "Espumoso francés de Chardonnay y Pinot Noir; seco, acidez alta, manzana, limón, pan tostado."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Sancerre",
+    "Sancerre",
+    "Sancerre",
+    "Sancerre"
+   ],
+   "b": [
+    "Bianco della Loira da Sauvignon Blanc; secco, corpo medio, acidità alta, mela ed erba, senza rovere.",
+    "Blanc de Loire de Sauvignon Blanc ; sec, corps moyen, acidité élevée, pomme et herbe, sans bois.",
+    "Loire white from Sauvignon Blanc; dry, medium body, high acidity, apple and grass, unoaked.",
+    "Blanco del Loira de Sauvignon Blanc; seco, cuerpo medio, acidez alta, manzana e hierba, sin roble."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Chablis",
+    "Chablis",
+    "Chablis",
+    "Chablis"
+   ],
+   "b": [
+    "Chardonnay della parte più fresca di Burgundy; secco, leggero-medio, mela e limone, senza rovere.",
+    "Chardonnay de la partie la plus fraîche de la Bourgogne ; sec, léger à moyen, pomme et citron, sans bois.",
+    "Chardonnay from Burgundy's coolest part; dry, light-medium, apple and lemon, unoaked.",
+    "Chardonnay de la parte más fresca de Borgoña; seco, ligero a medio, manzana y limón, sin roble."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Bourgogne",
+    "Bourgogne",
+    "Bourgogne",
+    "Bourgogne"
+   ],
+   "b": [
+    "Nome francese di Burgundy, usato in etichetta su bianchi e rossi.",
+    "Nom français de la Bourgogne (Burgundy), utilisé sur les blancs et les rouges.",
+    "French name for Burgundy, used on labels of whites and reds.",
+    "Nombre francés de Borgoña, usado en etiquetas de blancos y tintos."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Burgundy bianco",
+    "Bourgogne blanc",
+    "White Burgundy",
+    "Borgoña blanco"
+   ],
+   "b": [
+    "Chardonnay; secco, corpo medio, acidità alta, limone e pesca; con o senza rovere.",
+    "Chardonnay ; sec, corps moyen, acidité élevée, citron et pêche ; boisé ou non.",
+    "Chardonnay; dry, medium body, high acidity, lemon and peach; oaked or unoaked.",
+    "Chardonnay; seco, cuerpo medio, acidez alta, limón y melocotón; con o sin roble."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Burgundy rosso",
+    "Bourgogne rouge",
+    "Red Burgundy",
+    "Borgoña tinto"
+   ],
+   "b": [
+    "Pinot Noir; secco, leggero-medio, acidità alta, lampone e ciliegia rossa, a volte vaniglia e affumicato.",
+    "Pinot Noir ; sec, léger à moyen, acidité élevée, framboise et cerise rouge, parfois vanille et fumé.",
+    "Pinot Noir; dry, light-medium, high acidity, raspberry and red cherry, sometimes vanilla and smoke.",
+    "Pinot Noir; seco, ligero a medio, acidez alta, frambuesa y cereza roja, a veces vainilla y ahumado."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Bordeaux rosso",
+    "Bordeaux rouge",
+    "Red Bordeaux",
+    "Bordeaux tinto"
+   ],
+   "b": [
+    "Taglio Cabernet Sauvignon + Merlot; secco, medio-pieno, acidità e tannino alti, mora, ribes nero, cedro.",
+    "Assemblage Cabernet Sauvignon + Merlot ; sec, moyen à ample, acidité et tanins élevés, mûre, cassis, cèdre.",
+    "Cabernet Sauvignon + Merlot blend; dry, medium-full, high acidity and tannin, blackberry, blackcurrant, cedar.",
+    "Mezcla Cabernet Sauvignon + Merlot; seco, medio a alto, acidez y tanino altos, mora, grosella negra, cedro."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Sancerre o Chablis?",
+    "Sancerre ou Chablis ?",
+    "Sancerre or Chablis?",
+    "¿Sancerre o Chablis?"
+   ],
+   "b": [
+    "Note di erba = Sancerre (Sauvignon Blanc, Loira). Mela e limone sobri = Chablis (Chardonnay, Burgundy).",
+    "Herbe = Sancerre (Sauvignon Blanc, Loire). Pomme et citron sobres = Chablis (Chardonnay, Bourgogne).",
+    "Grassy = Sancerre (Sauvignon Blanc, Loire). Restrained apple and lemon = Chablis (Chardonnay, Burgundy).",
+    "Hierba = Sancerre (Sauvignon Blanc, Loira). Manzana y limón sobrios = Chablis (Chardonnay, Borgoña)."
+   ],
+   "c": "w4"
+  },
+  {
+   "f": [
+    "Sauternes",
+    "Sauternes",
+    "Sauternes",
+    "Sauternes"
+   ],
+   "b": [
+    "Bianco dolce di Bordeaux; pieno, albicocca, miele, vaniglia, acidità alta.",
+    "Blanc doux de Bordeaux ; corsé, abricot, miel, vanille, acidité élevée.",
+    "Sweet white from Bordeaux; full, apricot, honey, vanilla, high acidity.",
+    "Blanco dulce de Burdeos; con cuerpo, albaricoque, miel, vainilla, acidez alta."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "White Zinfandel",
+    "White Zinfandel",
+    "White Zinfandel",
+    "White Zinfandel"
+   ],
+   "b": [
+    "Rosato della California; dolcezza media, poco alcol, fragola e lampone, senza rovere.",
+    "Rosé de Californie ; demi-doux, peu alcoolisé, fraise et framboise, non boisé.",
+    "Californian rosé; medium-sweet, low alcohol, strawberry and raspberry, unoaked.",
+    "Rosado de California; dulzor medio, poco alcohol, fresa y frambuesa, sin roble."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Beaujolais",
+    "Beaujolais",
+    "Beaujolais",
+    "Beaujolais"
+   ],
+   "b": [
+    "Rosso francese secco e leggero, senza rovere, lampone e ciliegia rossa, poco tannino.",
+    "Rouge français sec et léger, non boisé, framboise et cerise rouge, peu tannique.",
+    "Dry, light French red, unoaked, raspberry and red cherry, low tannin.",
+    "Tinto francés seco y ligero, sin roble, frambuesa y cereza roja, poco tanino."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Côtes du Rhône",
+    "Côtes du Rhône",
+    "Côtes du Rhône",
+    "Côtes du Rhône"
+   ],
+   "b": [
+    "Rosso francese secco, corpo medio, fragola, prugna rossa, pepe bianco; con o senza rovere.",
+    "Rouge français sec, corps moyen, fraise, prune rouge, poivre blanc ; boisé ou non.",
+    "Dry, medium-bodied French red; strawberry, red plum, white pepper; oaked or not.",
+    "Tinto francés seco, cuerpo medio, fresa, ciruela roja, pimienta blanca; con o sin roble."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Châteauneuf-du-Pape",
+    "Châteauneuf-du-Pape",
+    "Châteauneuf-du-Pape",
+    "Châteauneuf-du-Pape"
+   ],
+   "b": [
+    "Rosso francese secco, pieno, molto alcolico; fragola e chiodi di garofano dal rovere.",
+    "Rouge français sec, corsé, riche en alcool ; fraise et clou de girofle du chêne.",
+    "Dry, full-bodied, high-alcohol French red; strawberry and clove from oak.",
+    "Tinto francés seco, con cuerpo y mucho alcohol; fresa y clavo del roble."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Chianti",
+    "Chianti",
+    "Chianti",
+    "Chianti"
+   ],
+   "b": [
+    "Rosso italiano secco, corpo medio, tannino e acidità alti; ciliegia, prugna rossa, erbe secche.",
+    "Rouge italien sec, corps moyen, tanins et acidité élevés ; cerise, prune rouge, herbes séchées.",
+    "Dry, medium-bodied Italian red, high tannin and acidity; cherry, red plum, dried herbs.",
+    "Tinto italiano seco, cuerpo medio, tanino y acidez altos; cereza, ciruela roja, hierbas secas."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Rioja",
+    "Rioja",
+    "Rioja",
+    "Rioja"
+   ],
+   "b": [
+    "Rosso spagnolo secco, corpo medio-pieno; fragola e vaniglia dal rovere.",
+    "Rouge espagnol sec, corps moyen à ample ; fraise et vanille du chêne.",
+    "Dry Spanish red, medium to full body; strawberry and vanilla from oak.",
+    "Tinto español seco, cuerpo medio a alto; fresa y vainilla del roble."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Prosecco",
+    "Prosecco",
+    "Prosecco",
+    "Prosecco"
+   ],
+   "b": [
+    "Spumante italiano leggero; pera e fiori; secco o di dolcezza media.",
+    "Effervescent italien léger ; poire et fleurs ; sec ou demi-doux.",
+    "Light Italian sparkling wine; pear and floral; dry or medium-sweet.",
+    "Espumoso italiano ligero; pera y flores; seco o de dulzor medio."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Cava",
+    "Cava",
+    "Cava",
+    "Cava"
+   ],
+   "b": [
+    "Spumante secco della Spagna; mela e limone.",
+    "Effervescent sec d'Espagne ; pomme et citron.",
+    "Dry sparkling wine from Spain; apple and lemon.",
+    "Espumoso seco de España; manzana y limón."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Sherry",
+    "Sherry",
+    "Sherry",
+    "Sherry"
+   ],
+   "b": [
+    "Fortificato bianco della Spagna; secco, medio o dolce.",
+    "Fortifié blanc d'Espagne ; sec, demi-doux ou doux.",
+    "White fortified wine from Spain; dry, medium or sweet.",
+    "Fortificado blanco de España; seco, semiseco o dulce."
+   ],
+   "c": "w5"
+  },
+  {
+   "f": [
+    "Port",
+    "Port",
+    "Port",
+    "Port"
+   ],
+   "b": [
+    "Fortificato del Portogallo; dolce, alcol alto, di solito rosso, pieno, tannico, mora.",
+    "Fortifié du Portugal ; doux, alcool élevé, en général rouge, corsé, tannique, mûre.",
+    "Fortified wine from Portugal; sweet, high alcohol, usually red, full, tannic, blackberry.",
+    "Fortificado de Portugal; dulce, alcohol alto, normalmente tinto, con cuerpo, tánico, mora."
+   ],
+   "c": "w5"
   }
  ]
 }
