@@ -72,8 +72,8 @@ for p in sorted(glob.glob('**/index.html', recursive=True)):
     s = re.sub(r'<script type="application/ld\+json">(.*?)</script>', ld, s, flags=re.S)
     open(p, 'w', encoding='utf8').write(s)
     full = SITE + src
-    sm = re.sub(rf'(<image:image><image:loc>{re.escape(full)}</image:loc>)(?:<image:title>.*?</image:title>)?(?:<image:caption>.*?</image:caption>)?',
-                lambda mm: mm.group(1) + f'<image:title>{e(title)}</image:title><image:caption>{e(alt)}</image:caption>', sm)
+    sm = re.sub(rf'(<image:image><image:loc>{re.escape(full)}</image:loc>)(?:<image:(?:title|caption)>.*?</image:(?:title|caption)>)*',
+                lambda mm: mm.group(1) + f'<image:caption>{e(alt)}</image:caption><image:title>{e(title)}</image:title>', sm)
     n += 1
 open('sitemap.xml', 'w', encoding='utf8').write(sm)
 print(n, 'images updated')

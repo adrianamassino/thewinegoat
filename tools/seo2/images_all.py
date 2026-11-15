@@ -100,6 +100,6 @@ for p, (f, alt, cap, l, h1) in meta.items():
     if loc in sm:
         i = sm.find(loc); j = sm.find('</url>', i)
         if 'image:image' not in sm[i:j]:
-            sm = sm[:j] + f'<image:image><image:loc>{full}</image:loc><image:title>{e(h1)}</image:title><image:caption>{e(cap)}</image:caption></image:image>' + sm[j:]
+            sm = sm[:j] + f'<image:image><image:loc>{full}</image:loc><image:caption>{e(cap)}</image:caption><image:title>{e(h1)}</image:title></image:image>' + sm[j:]
 open('sitemap.xml', 'w', encoding='utf8').write(sm)
 print(len(meta), 'pages illustrated')
