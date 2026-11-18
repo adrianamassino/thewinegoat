@@ -34,7 +34,7 @@
     "Tap the card to turn it over": "Tocá la tarjeta para darla vuelta", "Not yet: you need 55%": "Todavía no: necesitás un 55 %" };
   const X = window.TWG_ESX || (window.TWG_ESX = { es: {}, ar: {} });
   Object.assign(X.es, ES); Object.assign(X.ar, AR);
-  const C = window.TWG_L2C || window.TWG_L1C, LV = C.level;
+  const C = window.TWG_L2C || window.TWG_L1C || window.TWG_S1C || window.TWG_S2C || window.TWG_S3C; if (!C) return; const LV = C.level, SP = C.track === "spirits";
   let les = null, fl = { c: "", i: 0, flip: false, order: null }, timer = null;
 
   function lvSwitch() {
@@ -150,7 +150,15 @@
     const NUM = ["tab_study", "l2Title", "l2Intro", "l2RevT", "l2RevI", "l2PlayT", "l2PlayI"];
     ["it", "fr", "en"].forEach(l => { const u = Object.assign({}, UI[l]); if (LV !== 2) NUM.forEach(k => { const o = u[k]; u[k] = o.replace(/\b2\b/g, LV); if (l === "en" && ES[o]) ES[u[k]] = ES[o].replace(/\b2\b/g, LV); if (l === "en" && AR[o]) AR[u[k]] = AR[o].replace(/\b2\b/g, LV); }); u.l2MockD = MOCK[l];
       if (LV === 1) Object.assign(u, { plG_merit: { it: "Pass 85%+", fr: "Pass 85 %+", en: "Pass 85%+" }[l], plG_dist: { it: "Pass 95%+", fr: "Pass 95 %+", en: "Pass 95%+" }[l], plGoalD: { it: "Si supera con il 70%: più alto è l'obiettivo, più domande al giorno.", fr: "Réussite dès 70 % : plus l'objectif est élevé, plus il y a de questions par jour.", en: "You pass with 70%: the higher the goal, the more questions per day." }[l] });
+      if (SP) Object.assign(u, {
+        it: { tab_study: `Spirits ${LV}`, l2Title: `Esame Spirits ${LV}`, l2Intro: "Lezioni, quiz e flashcard su distillati, liquori e cocktail.", l2FlD: "Ripassa distillati, etichette e cocktail", l2RevT: `Tutto Spirits ${LV}`, l2RevI: `Lezioni, flashcard ed errori: solo il programma di Spirits ${LV}.`, l2PlayT: `Giochi di Spirits ${LV}`, l2PlayI: `Giochi brevi sulle domande e sui termini di Spirits ${LV}.` },
+        fr: { tab_study: `Spirits ${LV}`, l2Title: `Examen Spirits ${LV}`, l2Intro: "Leçons, quiz et flashcards sur les spiritueux, liqueurs et cocktails.", l2FlD: "Révisez spiritueux, étiquettes et cocktails", l2RevT: `Tout Spirits ${LV}`, l2RevI: `Leçons, flashcards et erreurs : uniquement le programme Spirits ${LV}.`, l2PlayT: `Jeux Spirits ${LV}`, l2PlayI: `Des jeux courts sur les questions et les termes de Spirits ${LV}.` },
+        en: { tab_study: `Spirits ${LV}`, l2Title: `Spirits ${LV} exam`, l2Intro: "Lessons, quizzes and flashcards on spirits, liqueurs and cocktails.", l2FlD: "Review spirits, label terms and cocktails", l2RevT: `All of Spirits ${LV}`, l2RevI: `Lessons, flashcards and mistakes: only the Spirits ${LV} syllabus.`, l2PlayT: `Spirits ${LV} games`, l2PlayI: `Short games on Spirits ${LV} questions and terms.` }
+      }[l]);
       Object.assign(T[l], u); });
+    if (SP) Object.assign(ES, { [`Spirits ${LV} exam`]: `Examen Spirits ${LV}`, "Lessons, quizzes and flashcards on spirits, liqueurs and cocktails.": "Lecciones, tests y tarjetas sobre destilados, licores y cócteles.",
+      "Review spirits, label terms and cocktails": "Repasa destilados, etiquetas y cócteles", [`All of Spirits ${LV}`]: `Todo Spirits ${LV}`, [`Lessons, flashcards and mistakes: only the Spirits ${LV} syllabus.`]: `Lecciones, tarjetas y errores: solo el programa de Spirits ${LV}.`,
+      [`Spirits ${LV} games`]: `Juegos de Spirits ${LV}`, [`Short games on Spirits ${LV} questions and terms.`]: `Juegos cortos sobre preguntas y términos de Spirits ${LV}.` });
     ES[MOCK.en] = MOCKES; if (LV === 1) ES["You pass with 70%: the higher the goal, the more questions per day."] = "Se aprueba con el 70 %: cuanto más alto el objetivo, más preguntas al día.";
     Object.assign(X.es, ES); Object.assign(X.ar, AR);
     Object.assign(TABG, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBV, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBT, { l2les: "l2Les", l2fl: "l2Fl", l2match: "l2Match" });

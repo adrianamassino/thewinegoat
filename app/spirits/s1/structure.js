@@ -1,7 +1,7 @@
-/* The Wine Goat — Spirits Level 1 structure (checked against the 2016/2017 issue of the course specification).
-   Content still to be written. Same engines as wine Levels 1–2: groups → chapters → lessons; every item carries a chapter id.
+/* The Wine Goat — Spirits Level 1 structure (checked against the 2016/2017 specification and the 2021/2022 course
+   workbook, which is newer: XO = 10+ years, aromatised wines and cocktail families added, bar tools no longer covered). Same engines as wine Levels 1–2: groups → chapters → lessons; every item carries a chapter id.
    Exam: 30 multiple-choice questions, 45 minutes, pass 70% (no grades above pass).
-   "w" on a group = exam questions in that area (official split 5 / 20 / 5); "w" on a chapter = our own estimate of how
+   "w" on a group = exam questions in that area (5 / 20 / 5 in the specification); "w" on a chapter = our own estimate of how
    those questions spread, used only to weight practice and the mock exam.
    No exam-body or book names appear in the app text. */
 window.TWG_S1 = {
@@ -9,8 +9,8 @@ window.TWG_S1 = {
   exam: { questions: 30, minutes: 45, pass: 70, written: false, tasting: false, trueFalse: true },
   groups: [
     { k: "p", w: 5, n: { it: "Come si fa un distillato", fr: "Comment on fait un spiritueux", en: "How a spirit is made", es: "Cómo se hace un destilado" }, c: ["p1", "p2"] },
-    { k: "s", w: 20, n: { it: "Le grandi famiglie di distillati", fr: "Les grandes familles de spiritueux", en: "The main spirit families", es: "Las grandes familias de destilados" }, c: ["s1", "s2", "s3", "s4", "s5", "s6", "s7"] },
-    { k: "t", w: 5, n: { it: "Conservare, servire, miscelare", fr: "Conserver, servir, mélanger", en: "Store, serve, mix", es: "Conservar, servir, mezclar" }, c: ["t1", "t2", "t3"] }
+    { k: "s", w: 20, n: { it: "Le grandi famiglie di distillati", fr: "Les grandes familles de spiritueux", en: "The main spirit families", es: "Las grandes familias de destilados" }, c: ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8"] },
+    { k: "t", w: 5, n: { it: "Degustare e miscelare", fr: "Déguster et mélanger", en: "Taste and mix", es: "Catar y mezclar" }, c: ["t1", "t2", "t3"] }
   ],
   chapters: {
     /* ---------- how a spirit is made (exam: 5 questions) ---------- */
@@ -24,35 +24,42 @@ window.TWG_S1 = {
 
     /* ---------- the main spirit families (exam: 20 questions) ---------- */
     s1: { w: 3, n: { it: "Cognac", fr: "Cognac", en: "Cognac", es: "Coñac" },
-      lessons: ["grapes from a defined area; double distillation in pot stills", "at least two years in oak; often lightly sweetened",
-                "age terms: VS (2+ years), VSOP (4+ years), XO"] },
+      lessons: ["grapes from a defined area north of Bordeaux; pressed and fermented straight away", "double distillation in pot stills, required by law",
+                "at least two years in oak; most are blends, often with caramel and a little sugar", "age terms: VS (2+ years), VSOP (4+ years), XO (10+ years)"] },
     s2: { w: 2, n: { it: "Vodka", fr: "Vodka", en: "Vodka", es: "Vodka" },
-      lessons: ["any raw material (grain and potato are the classics)", "distilled to around 95–96% abv, so very neutral; not aged"] },
-    s3: { w: 4, n: { it: "Whisky scozzese", fr: "Whisky écossais", en: "Scotch whisky", es: "Whisky escocés" },
-      lessons: ["malting barley so its starch can become sugar", "single malt: barley only, pot stills, made and aged in Scotland, 3+ years, peat optional",
-                "blended Scotch: malt + grain whisky, 3+ years in Scotland", "label words: single, malt, blended"] },
-    s4: { w: 4, n: { it: "Whiskey americano e altri whisky", fr: "Whiskey américain et autres whiskies", en: "American and other whiskies", es: "Whiskey americano y otros whiskies" },
-      lessons: ["Bourbon: 51%+ corn, new oak barrels, anywhere in the USA (Kentucky leads)", "Tennessee: made only in Tennessee, charcoal filtering, new oak",
-                "Rye: 51%+ rye, new oak", "other whisky countries: Ireland, Canada, Japan"] },
+      lessons: ["any raw material, anywhere (grains and potatoes for premium vodka)", "neutral spirit: 95–96% abv, column still; unaged, bottled around 40%",
+                "neutral style vs vodka with a little character"] },
+    s3: { w: 3, n: { it: "Whisky scozzese", fr: "Whisky écossais", en: "Scotch whisky", es: "Whisky escocés" },
+      lessons: ["grain → malting → crushing → warm water: enzymes turn starch into sugar", "all Scotch: distilled and aged 3+ years in Scotland",
+                "single malt: 100% malted barley, pot stills, one distillery; peat smoke in a few", "blended Scotch: malt + grain whisky from several distilleries; grain whisky is column-distilled and light"] },
+    s4: { w: 3, n: { it: "Whiskey americano e altri whisky", fr: "Whiskey américain et autres whiskies", en: "American and other whiskies", es: "Whiskey americano y otros whiskies" },
+      lessons: ["Bourbon: 51%+ corn, low-strength column distillation, new charred oak; anywhere in the USA (Kentucky leads)", "Tennessee: like Bourbon plus maple charcoal filtering before the barrel",
+                "Rye: 51%+ rye, spicy and peppery", "Ireland (pot + column blends; unmalted barley), Canada (many grains, rye signature), Japan (Scottish model)"] },
     s5: { w: 3, n: { it: "Rum dei Caraibi", fr: "Rhum des Caraïbes", en: "Caribbean rum", es: "Ron del Caribe" },
-      lessons: ["from sugar cane juice or molasses", "pot still and column still rums; blending", "white, golden and dark; colour and sugar may be added"] },
+      lessons: ["cane juice (grassy; rhum agricole from Martinique and Guadeloupe) vs molasses (caramel, brown sugar)", "fermentation can build tropical fruit (Jamaica)",
+                "pot still or short column for character; tall column for light rums (Cuba, Puerto Rico)", "aged or unaged; charcoal filtering for white aged rum; blending; sugar and caramel in some countries"] },
     s6: { w: 2, n: { it: "Tequila", fr: "Tequila", en: "Tequila", es: "Tequila" },
-      lessons: ["blue agave from a defined area; cooked to make sugar; usually distilled to a low strength",
-                "Tequila vs Tequila 100% agave", "blanco/silver, oro/joven/gold, reposado, añejo"] },
-    s7: { w: 2, n: { it: "Distillati aromatizzati e liquori", fr: "Spiritueux aromatisés et liqueurs", en: "Flavoured spirits and liqueurs", es: "Destilados aromatizados y licores" },
-      lessons: ["spiced rum and flavoured vodka", "gin: juniper must lead the flavour", "liqueurs: always sweetened, often coloured, on a neutral or characterful base"] },
+      lessons: ["blue agave from named Mexican states; cores cooked in ovens, then crushed", "51%+ agave sugars; '100% agave' = agave only",
+                "best: double pot distilled to a low strength", "blanco/silver and joven/oro (unaged); reposado (2–12 months) and añejo (12+ months)"] },
+    s7: { w: 3, n: { it: "Distillati aromatizzati e liquori", fr: "Spiritueux aromatisés et liqueurs", en: "Flavoured spirits and liqueurs", es: "Destilados aromatizados y licores" },
+      lessons: ["usually a bought-in neutral spirit; three ways to add flavour: redistillation, maceration, flavourings", "flavoured vodka; gin (juniper first; London Dry = flavour added by redistillation, made anywhere)",
+                "bitter spirits and cocktail bitters; spiced rum", "liqueurs: flavoured and sweetened by law, any flavour (even cream), often coloured"] },
+    s8: { w: 1, n: { it: "Vini aromatizzati", fr: "Vins aromatisés", en: "Aromatised wines", es: "Vinos aromatizados" },
+      lessons: ["four parts: base wine, flavourings with something bitter, sugar, a little spirit (caramel optional)", "vermouth: white wine base + wormwood; France and Italy; even 'dry' has some sugar"] },
 
-    /* ---------- store, serve, mix (exam: 5 questions) ---------- */
-    t1: { w: 1, n: { it: "Conservare i distillati", fr: "Conserver les spiritueux", en: "Storing spirits", es: "Conservar los destilados" },
-      lessons: ["ideal conditions", "what poor storage does"] },
-    t2: { w: 2, n: { it: "Attrezzi e bicchieri", fr: "Matériel et verres", en: "Bar tools and glasses", es: "Utensilios y vasos" },
-      lessons: ["jigger, pourer, muddler, Boston shaker, bar spoon, mixing glass", "strainers: Hawthorne, julep, fine sieve",
-                "glasses: cocktail/Martini, Margarita, tumbler/Old Fashioned, highball/Collins, shot"] },
-    t3: { w: 2, n: { it: "Il cocktail equilibrato", fr: "Le cocktail équilibré", en: "A balanced cocktail", es: "El cóctel equilibrado" },
-      lessons: ["key ingredients: fresh juices, simple syrup, bitters", "balance four things: strong, weak, sour/bitter, sweet"] }
+    /* ---------- tasting and mixing (exam: 5 questions) ---------- */
+    t1: { w: 1, n: { it: "Degustare un distillato", fr: "Déguster un spiritueux", en: "Tasting a spirit", es: "Catar un destilado" },
+      lessons: ["the right conditions and glass", "small sample, look and smell, add the same amount of water, smell again, taste, spit",
+                "colour, nose intensity, aromas by source, palate, finish"] },
+    t2: { w: 1, n: { it: "Il cocktail equilibrato", fr: "Le cocktail équilibré", en: "A balanced cocktail", es: "El cóctel equilibrado" },
+      lessons: ["strong vs weak: base spirit vs dilution, juices, sodas", "sweet vs bitter and/or sour: syrups and liqueurs vs citrus and bitters",
+                "short drinks vs long drinks"] },
+    t3: { w: 3, n: { it: "Famiglie di cocktail", fr: "Familles de cocktails", en: "Cocktail families", es: "Familias de cócteles" },
+      lessons: ["spirit-forward: Old Fashioned, Sazerac, Rusty Nail, Manhattan, Martini, Negroni (and the Alexander)", "short sour: Pisco Sour, Whiskey Sour, Daiquiri; Sidecar, Margarita, Clover Club",
+                "highball: Cuba Libre, Greyhound, Horse's Neck, Americano", "long sour: Tom Collins, Paloma, French 75, Mojito, Singapore Sling"] }
   },
   /* course tastings: about nine benchmark spirits — used by "My spirits" and the tasting game (simple 4-step grid) */
-  tastings: { min: 9, suggest: ["vodka", "VS Cognac", "VSOP or XO Cognac", "Blended Scotch", "straight Bourbon", "white rum", "golden rum", "blanco Tequila 100% agave", "London Dry Gin", "a liqueur"] },
+  tastings: { min: 9, suggest: ["vodka", "VS Cognac", "VSOP or XO Cognac", "Blended Scotch", "straight Bourbon", "white rum", "golden rum", "blanco Tequila 100% agave", "London Dry Gin", "a liqueur", "a vermouth"] },
   /* simple tasting grid (our own wording of the course grid): colour → nose intensity + aromas → palate flavours, sweetness, texture → finish */
   grid: {
     colour: ["colourless", "lemon", "gold", "amber", "brown", "other (pink, red, orange, yellow, green, blue, purple, black)"],
