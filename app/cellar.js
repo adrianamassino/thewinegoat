@@ -50,6 +50,29 @@ TX.es={cel:"Mis vinos",celD:"Fotografía etiqueta y copa: tu archivo de vinos ca
 TX["es-ar"]=Object.assign({},TX.es,{celD:"Sacale foto a la etiqueta y a la copa: tu archivo de vinos catados",celIntro:"Sacale una foto a la etiqueta y al vino en la copa: la app lee el texto de la etiqueta y el color del vino, y vos completás la ficha.",
   add:"Agregar un vino",readFail:"No pude leer el texto: escribilo vos.",sugg:"Tocá para usar el texto leído:",tapWine:"Tocá el vino en la foto para medir el color",
   empty:"Todavía no hay vinos. ¡Sacale una foto a la próxima etiqueta que pruebes!",search:"Buscá por nombre, uva, región…",need:"Escribí al menos el nombre del vino.",retake:"Sacar otra"});
+/* Spirits courses: the same diary, worded for spirits */
+const SPM=(()=>{ try{ return typeof L2!=="undefined"&&L2&&L2.track==="spirits"; }catch(e){ return false; } })();
+if(SPM){
+ Object.assign(TX.it,{cel:"I miei distillati",celD:"Fotografa etichetta e bicchiere: archivio dei distillati degustati",celTitle:"I miei distillati",celIntro:"Fotografa l'etichetta e il distillato nel bicchiere: la app legge il testo dell'etichetta e il colore, tu completi la scheda.",
+  add:"Aggiungi un distillato",glass:"Distillato nel bicchiere",takeG:"🥃 Fotografa il bicchiere",tapWine:"Tocca il distillato nella foto per misurare il colore",name:"Nome del distillato",prod:"Distilleria / Produttore",vint:"Età / Annata",grape:"Materia prima",type:"Categoria",
+  t_white:"Whisky",t_rose:"Brandy",t_red:"Rum / Cachaça",t_spark:"Tequila / Mezcal",t_sweet:"Vodka / Gin",t_fort:"Liquore / Altro",saved:"Distillato salvato ✓",delQ:"Eliminare questo distillato?",back:"‹ I miei distillati",
+  empty:"Ancora nessun distillato. Fotografa la prossima etichetta che assaggi!",search:"Cerca per nome, categoria, regione…",n:"distillati",n1:"distillato",need:"Inserisci almeno il nome del distillato."});
+ Object.assign(TX.fr,{cel:"Mes spiritueux",celD:"Photographiez étiquette et verre : votre carnet de spiritueux dégustés",celTitle:"Mes spiritueux",celIntro:"Photographiez l'étiquette et le spiritueux dans le verre : l'app lit le texte de l'étiquette et la couleur, vous complétez la fiche.",
+  add:"Ajouter un spiritueux",glass:"Spiritueux dans le verre",takeG:"🥃 Photographier le verre",tapWine:"Touchez le spiritueux sur la photo pour mesurer la couleur",name:"Nom du spiritueux",prod:"Distillerie / Producteur",vint:"Âge / Millésime",grape:"Matière première",type:"Catégorie",
+  t_white:"Whisky",t_rose:"Brandy",t_red:"Rhum / Cachaça",t_spark:"Tequila / Mezcal",t_sweet:"Vodka / Gin",t_fort:"Liqueur / Autre",saved:"Spiritueux enregistré ✓",delQ:"Supprimer ce spiritueux ?",back:"‹ Mes spiritueux",
+  empty:"Aucun spiritueux pour l'instant. Photographiez la prochaine étiquette que vous dégustez !",search:"Rechercher par nom, catégorie, région…",n:"spiritueux",n1:"spiritueux",need:"Saisissez au moins le nom du spiritueux."});
+ Object.assign(TX.en,{cel:"My spirits",celD:"Snap the label and the glass: your tasted-spirits archive",celTitle:"My spirits",celIntro:"Photograph the label and the spirit in the glass: the app reads the label text and the colour, you complete the card.",
+  add:"Add a spirit",glass:"Spirit in the glass",takeG:"🥃 Photograph the glass",tapWine:"Tap the spirit in the photo to measure its colour",name:"Spirit name",prod:"Distillery / Producer",vint:"Age / Vintage",grape:"Raw material",type:"Category",
+  t_white:"Whisky",t_rose:"Brandy",t_red:"Rum / Cachaça",t_spark:"Tequila / Mezcal",t_sweet:"Vodka / Gin",t_fort:"Liqueur / Other",saved:"Spirit saved ✓",delQ:"Delete this spirit?",back:"‹ My spirits",
+  empty:"No spirits yet. Photograph the next label you taste!",search:"Search by name, category, region…",n:"spirits",n1:"spirit",need:"Enter at least the spirit name."});
+ const esS={cel:"Mis destilados",celD:"Fotografía etiqueta y copa: tu archivo de destilados catados",celTitle:"Mis destilados",celIntro:"Fotografía la etiqueta y el destilado en la copa: la app lee el texto de la etiqueta y el color, y tú completas la ficha.",
+  add:"Añadir un destilado",glass:"Destilado en la copa",takeG:"🥃 Fotografiar la copa",tapWine:"Toca el destilado en la foto para medir el color",name:"Nombre del destilado",prod:"Destilería / Productor",vint:"Edad / Añada",grape:"Materia prima",type:"Categoría",
+  t_white:"Whisky",t_rose:"Brandy",t_red:"Ron / Cachaça",t_spark:"Tequila / Mezcal",t_sweet:"Vodka / Ginebra",t_fort:"Licor / Otro",saved:"Destilado guardado ✓",delQ:"¿Eliminar este destilado?",back:"‹ Mis destilados",
+  empty:"Todavía no hay destilados. ¡Fotografía la próxima etiqueta que pruebes!",search:"Busca por nombre, categoría, región…",n:"destilados",n1:"destilado",need:"Escribe al menos el nombre del destilado."};
+ Object.assign(TX.es,esS);
+ Object.assign(TX["es-ar"],esS,{celD:"Sacale foto a la etiqueta y al vaso: tu archivo de destilados catados",celIntro:"Sacale una foto a la etiqueta y al destilado en el vaso: la app lee el texto de la etiqueta y el color, y vos completás la ficha.",
+  tapWine:"Tocá el destilado en la foto para medir el color",empty:"Todavía no hay destilados. ¡Sacale una foto a la próxima etiqueta que pruebes!",search:"Buscá por nombre, categoría, región…",need:"Escribí al menos el nombre del destilado.",t_sweet:"Vodka / Gin"});
+}
 const lg=()=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||(typeof lang!=="undefined"?lang:"en"); }catch(e){} return TX[l]?l:"en"; };
 const x=k=>(TX[lg()][k]!=null?TX[lg()][k]:TX.en[k]);
 const es=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -76,6 +99,7 @@ const RGW={it:{"Right Bank":"riva destra","Left Bank":"riva sinistra","Burgundy"
  es:{"Right Bank":"margen derecha","Left Bank":"margen izquierda","Bordeaux":"Burdeos","Burgundy":"Borgoña","Loire":"Loira","Northern Rhône":"Ródano norte","Southern Rhône":"Ródano sur","Alsace":"Alsacia","Provence":"Provenza","South-West France":"Suroeste de Francia","France":"Francia","Piedmont":"Piamonte","Tuscany":"Toscana","Sicily":"Sicilia","Sardinia":"Cerdeña","Lombardy":"Lombardía","North-East Italy":"Noreste de Italia","Catalonia":"Cataluña","Spain":"España","Germany":"Alemania","Macedonia (Greece)":"Macedonia (Grecia)","South Australia":"Australia Meridional","Cool-climate Australia":"Australia de clima fresco","New South Wales":"Nueva Gales del Sur","New Zealand":"Nueva Zelanda","Coastal Chile":"Chile costero","Central Valley":"Valle Central","Western Cape":"Cabo Occidental","Mosel":"Mosela","Douro":"Duero"}};
 const regL=r=>{ const m=RGW[LL()]; if(!m||!r) return r||""; return String(r).split(/( · | \/ )/).map(p=>m[p]||p).join(""); };
 TX2["es-ar"]=Object.assign({},TX2.es,{srch:"🔎 Buscá un vino, denominación o uva"});
+if(SPM){ TX2.it.srch="🔎 Cerca distillato o categoria"; TX2.it.srchH="Es. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.fr.srch="🔎 Rechercher un spiritueux ou une catégorie"; TX2.fr.srchH="Ex. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.en.srch="🔎 Search a spirit or category"; TX2.en.srchH="E.g. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.es.srch="🔎 Busca un destilado o categoría"; TX2.es.srchH="Ej. Cognac VSOP, Bourbon, Tequila reposado…"; TX2["es-ar"].srch="🔎 Buscá un destilado o categoría"; TX2["es-ar"].srchH=TX2.es.srchH; }
 const y=k=>{ const l=lg(); return (TX2[l]||TX2.en)[k]; };
 const LGI=()=>({it:1,fr:2,en:3,es:4,"es-ar":4})[lg()]||3;
 const LL=()=>({it:"it",fr:"fr",en:"en",es:"es","es-ar":"es"})[lg()]||"en";
@@ -88,7 +112,7 @@ function applyDB(e,raw){ if(!e||!CUR) return; const D=DBX();
   CUR.db={name:e.name,c:e.c,region:e.region,col:e.col,grapes:(e.foundGrapes&&e.foundGrapes.length?e.foundGrapes:e.grapes),prof:e.prof,aro:e.aro,food:e.food,t:e.t,y:e.y,k:e.k};
   if(!CUR.region&&e.k==="a") CUR.region=[regL(e.region),ctry(e.c)[1]].filter(Boolean).join(", ");
   if(!CUR.grape) CUR.grape=CUR.db.grapes.join(", ");
-  if(!CUR.type||["white","rose","red"].includes(CUR.type)) CUR.type=COL2TYPE[e.col]||CUR.type;
+  if(!SPM&&(!CUR.type||["white","rose","red"].includes(CUR.type))) CUR.type=COL2TYPE[e.col]||CUR.type;
   const [b,t,a,sw]=e.prof; CUR.s=CUR.s||{};
   if(!CUR.s.body) CUR.s.body=SC.body[b-1]; if(!CUR.s.ac) CUR.s.ac=SC.ac[a-1]; if(!CUR.s.tan&&e.col!=="w"&&e.col!=="s") CUR.s.tan=SC.tan[t-1]; if(!CUR.s.sw) CUR.s.sw=sw<=1?"dr":sw===2?"od":sw===3?"me":"swt";
   if(!CUR.nose) CUR.nose=e.aro.map(aroL).join(", ");
@@ -208,7 +232,7 @@ function editHTML(){ const w=CUR;
     <div class="cl-in"><span>${es(x("type"))}</span><div class="cl-seg">${TYPES.map(k=>`<button type="button" data-cel="type" data-v="${k}" aria-pressed="${w.type===k}">${es(typeLbl(k))}</button>`).join("")}</div></div>
     ${inp("grape","grape")}${inp("region","region")}
     <h2>${es(x("struct"))}</h2>
-    ${["sw","ac",w.type==="white"||w.type==="spark"?null:"tan","alc","body","fin"].filter(Boolean).map(scaleRow).join("")}
+    ${(SPM?["sw","alc","body","fin"]:["sw","ac",w.type==="white"||w.type==="spark"?null:"tan","alc","body","fin"]).filter(Boolean).map(scaleRow).join("")}
     ${area("nose","nose")}${area("pal","pal")}
     <div class="cl-in"><span>${es(x("qual"))}</span><div class="cl-seg">${QUAL.map(k=>`<button type="button" data-cel="q" data-v="${k}" aria-pressed="${w.q===k}">${es(x("q_"+k))}</button>`).join("")}</div></div>
     <div class="cl-in"><span>${es(x("rate"))}</span><div class="cl-stars">${[1,2,3,4,5].map(n=>`<button type="button" data-cel="rate" data-v="${n}" aria-pressed="${w.rate>=n}">★</button>`).join("")}</div></div>
@@ -241,7 +265,7 @@ document.addEventListener("click",async e=>{
     if(k==="save"){ if(!CUR.name.trim()){ MSG=x("need"); rr(); return; } const w=Object.assign({},CUR); if(w.ocr&&typeof w.ocr!=="object") w.ocr=null; w.ts=w.ts||Date.now(); await put(w); await load(); CUR=JSON.parse(JSON.stringify(w)); MODE="view"; MSG=""; rr(); window.scrollTo(0,0); toast(x("saved")); return; }
     if(k==="del"){ if(!confirmDel()) return; await del(CUR.id); await load(); MODE="list"; CUR=null; rr(); return; }
   }
-  const cv=e.target.closest&&e.target.closest("#cl-cv"); if(cv&&CUR){ const r=cv.getBoundingClientRect(); const fx=(e.clientX-r.left)/r.width, fy=(e.clientY-r.top)/r.height; const c=sampleAt(cv,Math.round(fx*cv.width),Math.round(fy*cv.height)); if(c){ CUR.col=Object.assign(c,{px:fx,py:fy}); if(!CUR.type||["white","rose","red"].includes(CUR.type)) CUR.type=c.fam; rr(); } }
+  const cv=e.target.closest&&e.target.closest("#cl-cv"); if(cv&&CUR){ const r=cv.getBoundingClientRect(); const fx=(e.clientX-r.left)/r.width, fy=(e.clientY-r.top)/r.height; const c=sampleAt(cv,Math.round(fx*cv.width),Math.round(fy*cv.height)); if(c){ CUR.col=Object.assign(c,{px:fx,py:fy}); if(!SPM&&(!CUR.type||["white","rose","red"].includes(CUR.type))) CUR.type=c.fam; rr(); } }
 });
 let delArm=0; function confirmDel(){ const n=Date.now(); if(n-delArm<4000){ delArm=0; return true; } delArm=n; toast(x("delQ")+" ↻"); return false; }
 function toast(s){ let d=document.getElementById("cl-toast"); if(!d){ d=document.createElement("div"); d.id="cl-toast"; document.body.appendChild(d); } d.textContent=s; d.classList.add("on"); clearTimeout(d._t); d._t=setTimeout(()=>d.classList.remove("on"),2400); }
@@ -254,13 +278,13 @@ document.addEventListener("change",async e=>{ const el=e.target; const kind=el.d
     rr(); }
   else { CUR.glass=await shrink(f,1000); CUR.col=null; rr();
     /* first guess: centre of the photo, where the wine usually is */
-    setTimeout(()=>{ const cv=document.getElementById("cl-cv"); if(!cv||!CUR) return; const tryIt=()=>{ if(!cv.width||cv.width<10) return setTimeout(tryIt,80); const c=sampleAt(cv,Math.round(cv.width*.5),Math.round(cv.height*.55)); if(c){ CUR.col=Object.assign(c,{px:.5,py:.55}); if(!CUR.type) CUR.type=c.fam; rr(); } }; tryIt(); },60); }
+    setTimeout(()=>{ const cv=document.getElementById("cl-cv"); if(!cv||!CUR) return; const tryIt=()=>{ if(!cv.width||cv.width<10) return setTimeout(tryIt,80); const c=sampleAt(cv,Math.round(cv.width*.5),Math.round(cv.height*.55)); if(c){ CUR.col=Object.assign(c,{px:.5,py:.55}); if(!CUR.type&&!SPM) CUR.type=c.fam; rr(); } }; tryIt(); },60); }
 });
 
 /* ---------- register the view in the app ---------- */
 try{ TABG.cellar="wine"; SUBV.cellar="wine"; SUBT.cellar="cel"; ["it","fr","en"].forEach(l=>{ T[l].cel=TX[l].cel; T[l].tr_cellar=TX[l].cel; T[l].trd_cellar=TX[l].celD; }); }catch(e){}
 try{ ICO.cellar='<svg viewBox="0 0 48 48"><rect x="6" y="6" width="36" height="36" rx="10" fill="#7a1f3d"/><path d="M18 11h12l-1 9a5 5 0 0 1-10 0z" fill="#fff"/><path d="M24 25v8M19 35h10" stroke="#fff" stroke-width="3" stroke-linecap="round"/><circle cx="33" cy="14" r="4" fill="#e9c46a"/></svg>'; }catch(e){}
-const celCard=()=>`<button type="button" class="schome clhome" data-go="cellar"><span class="scic">🍷</span><span><b>${es(x("cel"))}</b><small>${es(x("celD"))}</small></span><i>▸</i></button>`;
+const celCard=()=>`<button type="button" class="schome clhome" data-go="cellar"><span class="scic">${SPM?"🥃":"🍷"}</span><span><b>${es(x("cel"))}</b><small>${es(x("celD"))}</small></span><i>▸</i></button>`;
 try{ const RW=W.renderWine; if(typeof RW==="function"){ W.renderWine=function(){ const h=RW.apply(this,arguments); return h.includes('class="rvpod2"')?h.replace('<button type="button" class="rvpod2"',celCard()+'<button type="button" class="rvpod2"'):h.replace(/(<\/header>)/,"$1"+celCard()); }; } }catch(e){}
 try{ const RH=W.renderHome; if(typeof RH==="function"){ W.renderHome=function(){ const h=RH.apply(this,arguments); return h.includes('class="schome" data-go="school"')?h.replace('<button type="button" class="schome" data-go="school"',celCard()+'<button type="button" class="schome" data-go="school"'):h; }; } }catch(e){}
 const st=document.createElement("style"); st.textContent=`
@@ -307,5 +331,40 @@ const st=document.createElement("style"); st.textContent=`
 .vv-bar{display:grid;grid-template-columns:84px 1fr 84px;align-items:center;gap:10px;margin:10px 0;font-size:13px}.vv-bar span:last-child{text-align:right}.vv-bar i{position:relative;height:8px;border-radius:99px;background:var(--sunk,#efe8e0)}.vv-bar b{position:absolute;top:50%;width:34px;height:12px;margin:-6px 0 0 -17px;border-radius:99px;background:var(--wine,#7a1f3d)}
 .vv-chips{display:flex;flex-wrap:wrap;gap:8px}.vv-chips span{padding:6px 12px;border-radius:999px;background:var(--wine-s,#f6e3ea);font-size:13.5px}.vv-chips.food span{background:var(--sunk,#f3eee8)}
 .vv-facts{display:grid;grid-template-columns:1fr 1fr;gap:12px}.vv-facts small{display:block;color:var(--muted,#5d6660);font-size:12px}.vv-facts b{font-size:15px}`;
+document.head.appendChild(st);
+})();
+
+/* ---------- the scanner, front and centre: floating camera button + card at the top of Today ---------- */
+(function(){
+const SPM2=(()=>{ try{ return typeof L2!=="undefined"&&L2&&L2.track==="spirits"; }catch(e){ return false; } })();
+const LB={it:["Scanner","Fotografa un'etichetta: riconosco "+(SPM2?"il distillato":"il vino")+" e lo salvo nel tuo diario",SPM2?"Scanner distillati":"Scanner vini"],
+ fr:["Scanner","Photographiez une étiquette : je reconnais "+(SPM2?"le spiritueux":"le vin")+" et je l'enregistre dans votre carnet",SPM2?"Scanner spiritueux":"Scanner vins"],
+ en:["Scan","Snap a label: I recognise the "+(SPM2?"spirit":"wine")+" and save it to your diary",SPM2?"Spirits scanner":"Wine scanner"],
+ es:["Escáner","Fotografía una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"],
+ "es-ar":["Escáner","Sacale foto a una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"]};
+const lb=i=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||"en"; }catch(e){} return (LB[l]||LB.en)[i]; };
+const HIDE=new Set(["cellar","quiz","exam","film","pod","onb","welcome","login"]);
+const CAM='<svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/><circle cx="12" cy="13" r="3.6"/></svg>';
+function openScan(){ try{ go("cellar"); }catch(e){ try{ window.go&&window.go("cellar"); }catch(_){} } setTimeout(()=>{ const b=document.querySelector('[data-cel="new"]'); if(b) b.click(); },120); }
+let fab=null;
+function sync(){ if(!fab){ fab=document.createElement("button"); fab.type="button"; fab.className="scanfab"; fab.addEventListener("click",openScan); document.body.appendChild(fab); }
+  fab.innerHTML=CAM+"<span>"+lb(0)+"</span>"; fab.setAttribute("aria-label",lb(2));
+  const v=(typeof view!=="undefined")?view:""; const busy=(typeof quiz!=="undefined"&&quiz)||document.querySelector(".ob,.onb,.quizview,.view.quiz,.view.exam");
+  fab.hidden=HIDE.has(v)||!!busy;
+  const m=document.getElementById("main"); if(m&&v==="home"&&!m.querySelector(".scanhero")){ const h=document.createElement("button"); h.type="button"; h.className="scanhero"; h.innerHTML='<span class="sh-ic">'+CAM+'</span><span class="sh-tx"><b>'+lb(2)+'</b><small>'+lb(1)+'</small></span><span class="sh-go">'+lb(0)+' ›</span>'; h.addEventListener("click",openScan);
+    const sec=m.querySelector("section.view"); if(sec) sec.insertBefore(h,sec.firstChild); }
+}
+new MutationObserver(()=>{ clearTimeout(sync.t); sync.t=setTimeout(sync,30); }).observe(document.documentElement,{childList:true,subtree:true});
+document.addEventListener("DOMContentLoaded",sync); setTimeout(sync,300);
+const st=document.createElement("style"); st.textContent=`
+.scanfab{position:fixed;right:16px;bottom:calc(84px + env(safe-area-inset-bottom));z-index:60;display:flex;align-items:center;gap:8px;padding:12px 18px 12px 14px;border:0;border-radius:999px;background:linear-gradient(135deg,#8a1c3f,#5e1028);color:#fff;font:700 15px/1 inherit;box-shadow:0 8px 22px rgba(94,16,40,.38),0 0 0 4px rgba(255,255,255,.85);cursor:pointer;animation:scpulse 2.6s ease-in-out 3}
+.scanfab[hidden]{display:none}.scanfab:active{transform:scale(.96)}
+@keyframes scpulse{0%,100%{box-shadow:0 8px 22px rgba(94,16,40,.38),0 0 0 4px rgba(255,255,255,.85)}50%{box-shadow:0 8px 22px rgba(94,16,40,.38),0 0 0 10px rgba(138,28,63,.18)}}
+@media (min-width:900px){.scanfab{bottom:28px;right:28px}}
+.scanhero{display:flex;align-items:center;gap:14px;width:100%;margin:0 0 14px;padding:16px;border:0;border-radius:20px;text-align:left;cursor:pointer;color:#fff;background:radial-gradient(120% 140% at 0% 0%,#a32a52 0%,#6b1430 55%,#3f0a1c 100%);box-shadow:0 10px 26px rgba(94,16,40,.25)}
+.scanhero .sh-ic{flex:0 0 52px;height:52px;border-radius:16px;display:grid;place-items:center;background:rgba(255,255,255,.16)}
+.scanhero .sh-tx{flex:1;display:flex;flex-direction:column;gap:4px}.scanhero b{font-size:17px}.scanhero small{font-size:13px;opacity:.9;line-height:1.35}
+.scanhero .sh-go{flex:0 0 auto;padding:8px 12px;border-radius:999px;background:#e9c46a;color:#3f0a1c;font-weight:800;font-size:13px}
+html[dir=rtl] .scanfab{right:auto;left:16px}`;
 document.head.appendChild(st);
 })();

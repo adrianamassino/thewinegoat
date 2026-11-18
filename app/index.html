@@ -10147,7 +10147,7 @@ try{ const st30=document.createElement("style"); st30.textContent=`
 .ps b{font-size:1.3rem}
 .pago{font:inherit;font-weight:900;text-transform:uppercase;letter-spacing:.04em;min-height:52px;padding:0 26px;border-radius:16px;border:0;background:#8c1d40;color:#fff;box-shadow:0 5px 0 #5a1029;cursor:pointer}
 .pago:active{transform:translateY(3px);box-shadow:0 2px 0 #5a1029}
-.pahome{position:relative;isolation:isolate;overflow:hidden;display:flex;align-items:flex-end;justify-content:space-between;gap:8px;border-radius:24px;color:#fff;padding:18px 0 0 18px;margin:0 0 14px;box-shadow:0 18px 40px -22px rgba(60,15,30,.6),inset 0 0 0 1px rgba(255,236,200,.22)}
+.pahome{background:radial-gradient(130% 140% at 0% 0%,#a3264f,#7a1838 55%,#3e0f22);position:relative;isolation:isolate;overflow:hidden;display:flex;align-items:flex-end;justify-content:space-between;gap:8px;border-radius:24px;color:#fff;padding:18px 0 0 18px;margin:0 0 14px;box-shadow:0 18px 40px -22px rgba(60,15,30,.6),inset 0 0 0 1px rgba(255,236,200,.22)}
 .pahome:before{content:"";position:absolute;inset:7px;border-radius:18px;border:1px solid rgba(255,226,170,.35);pointer-events:none}
 .pahx{position:relative;z-index:2;padding-bottom:18px;flex:1;min-width:0}.pahx small{font-weight:800;letter-spacing:.14em;text-transform:uppercase;font-size:.68rem;color:#f6d98f}.pahx h2{color:#fff!important;margin:2px 0 4px;font-size:1.45rem}.pahx p{margin:0 0 10px;color:rgba(255,248,240,.88);font-size:.9rem}
 .pabar{height:10px;border-radius:9px;background:rgba(255,255,255,.2);overflow:hidden;margin-bottom:12px}.pabar i{display:block;height:100%;background:linear-gradient(90deg,#f6d98f,#d4a23a)}
@@ -11149,7 +11149,7 @@ try{ const st5=document.createElement("style"); st5.textContent=`
 `; document.head.appendChild(st5); }catch(e){}
 
 function lvSw(){ const v=L2?(L2.track==="spirits"?"s":"")+String(L2.level):"3"; return `<div class="lvsw" role="group" aria-label="${esc(t("lvLbl"))}"><span>${esc(t("lvLbl"))}</span>${["1","2","3","s1","s2"].map(n=>`<button type="button" data-lvl="${n}" aria-pressed="${v===n}">${esc(t("lvL"+n))}</button>`).join("")}</div>`; }
-Object.assign(T.it,{lvLbl:"Livello di studio",lvL1:"Livello 1",lvL2:"Livello 2",lvL3:"Livello 3",lvLs1:"Spirits 1",lvLs2:"Spirits 2",lvLs3:"Spirits 3"}); Object.assign(T.fr,{lvLbl:"Niveau étudié",lvL1:"Niveau 1",lvL2:"Niveau 2",lvL3:"Niveau 3",lvLs1:"Spirits 1",lvLs2:"Spirits 2",lvLs3:"Spirits 3"}); Object.assign(T.en,{lvLbl:"Study level",lvL1:"Level 1",lvL2:"Level 2",lvL3:"Level 3",lvLs1:"Spirits 1",lvLs2:"Spirits 2",lvLs3:"Spirits 3"});
+Object.assign(T.it,{lvLbl:"Livello di studio",lvL1:"Livello 1",lvL2:"Livello 2",lvL3:"Livello 3",lvLs1:"Spirits 1",lvLs2:"Spirits 2",lvLs3:"Spirits 3"}); Object.assign(T.fr,{lvLbl:"Niveau étudié",lvL1:"Niveau 1",lvL2:"Niveau 2",lvL3:"Niveau 3",lvLs1:"Spiritueux 1",lvLs2:"Spiritueux 2",lvLs3:"Spiritueux 3"}); Object.assign(T.en,{lvLbl:"Study level",lvL1:"Level 1",lvL2:"Level 2",lvL3:"Level 3",lvLs1:"Spirits 1",lvLs2:"Spirits 2",lvLs3:"Spirits 3"});
 document.addEventListener("click",e=>{ const b=e.target.closest("[data-lvl]"); if(!b) return; const v=b.dataset.lvl; if(v===(L2?(L2.track==="spirits"?"s":"")+String(L2.level):"3")) return; lsSet("twg-level",v); location.reload(); });
 { const st=document.createElement("style"); st.textContent=`.lvsw{display:flex;align-items:center;gap:6px;margin:0 0 12px;font-size:13px;color:var(--muted)}.lvsw span{margin-right:4px}.lvsw button{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 14px;font:inherit;font-weight:700;cursor:pointer}.lvsw button[aria-pressed=true]{background:var(--wine,#7a1f3d);border-color:var(--wine,#7a1f3d);color:#fff}`; document.head.appendChild(st); }
 /* walking goats (the articulated vector goat) on the main screens */
@@ -11168,6 +11168,6 @@ render();
 connect();
 </script>
 <script src="winedb.js?v=1"></script>
-<script src="cellar.js?v=4"></script>
+<script src="cellar.js?v=5"></script>
 
 </body></html>
