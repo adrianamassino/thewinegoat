@@ -57,7 +57,17 @@ def load(l):
     C = json.load(open(p, encoding='utf8'))
     return C if all(k in C for k in KEYS) else None
 
-CONTENT = {l: c for l in ALL if (c := load(l))}
+def extend(l, C):
+    """<lang>_x.json: extra sections (and FAQ) appended to each page — the long-form part of every page"""
+    p = f'{D}/content/{l}_x.json'
+    if not C or not os.path.exists(p): return C
+    X = json.load(open(p, encoding='utf8'))
+    for k, v in X.items():
+        if k in C:
+            C[k]['body'] = C[k]['body'] + v.get('body', [])
+            C[k]['faq'] = C[k]['faq'] + [q for q in v.get('faq', []) if q[0] not in {a for a, _ in C[k]['faq']}]
+    return C
+CONTENT = {l: c for l in ALL if (c := extend(l, load(l)))}
 LANGS = [l for l in ALL if l in CONTENT]
 
 def short(t, n):
