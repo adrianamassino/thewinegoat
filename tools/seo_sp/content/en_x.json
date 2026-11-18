@@ -884,5 +884,749 @@
     "The tasting exam is not multiple choice, so practice means writing full tasting notes on spirits served blind. Use pairs from the examinable list, allow 15 minutes per sample, and check that your note covers appearance, nose, palate, a reasoned quality level and an identification. Practice multiple-choice questions remain useful for the theory part."
    ]
   ]
+ },
+ "stills": {
+  "body": [
+   [
+    "h2",
+    "Three spirits from field to bottle"
+   ],
+   [
+    "p",
+    "Following real production routes is the best way to see how the four stages combine. These three spirits are made in very different ways, and each choice explains part of their style."
+   ],
+   [
+    "table",
+    [
+     "Stage",
+     "Single malt Scotch",
+     "London Dry Gin",
+     "Blanco Tequila"
+    ],
+    [
+     [
+      "Raw material",
+      "Barley is malted, sometimes dried over peat smoke, then mashed with hot water",
+      "Usually a bought-in neutral spirit made from grain or other crops",
+      "Blue agave hearts are cooked to turn inulin into sugar, then crushed"
+     ],
+     [
+      "Fermentation",
+      "Yeast ferments the sugary liquid to a low-strength 'wash'",
+      "Already done for the base spirit; the gin maker starts at the still",
+      "Agave juice ferments, often with water added"
+     ],
+     [
+      "Distillation",
+      "Double distillation in copper pot stills; cuts for heads, hearts and tails",
+      "Redistillation of neutral spirit with juniper and other botanicals",
+      "Usually two distillations to a relatively low strength, keeping agave character"
+     ],
+     [
+      "After distillation",
+      "At least three years in oak in Scotland; blending of casks; dilution",
+      "Only water, neutral spirit and a trace of sugar may be added",
+      "Unaged or rested briefly in inert vessels, then diluted"
+     ],
+     [
+      "Result",
+      "Cereal, fruit, oak spice; smoke if peated",
+      "Juniper-led, crisp, dry",
+      "Cooked agave, pepper, herbaceous freshness"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Fermentation choices that shape flavour"
+   ],
+   [
+    "p",
+    "Fermentation is not just a step to make alcohol; it is the main factory of aroma. Distillers manage several variables:"
+   ],
+   [
+    "ul",
+    [
+     "Yeast strain: different strains create different quantities of fruity esters and other congeners.",
+     "Fermentation length: a short fermentation gives a cleaner, simpler liquid; a long one allows bacteria to contribute and builds more complex, fruitier aromas.",
+     "Temperature: warm fermentations run quickly and can produce more pungent aromas; cool ones are slower and more delicate.",
+     "Sour mash: in American whiskey, part of the acidic residue left at the base of the still is added back to the next fermentation, which helps control the process and keep batches consistent."
+    ]
+   ],
+   [
+    "p",
+    "Some Jamaican rum makers push fermentation to extremes to create very high ester levels, which, after pot distillation, produce the pungent style known as high-ester rum. This is a good example of the rule that a still can only select what fermentation has made."
+   ],
+   [
+    "h2",
+    "Inside the still: shape, copper and reflux"
+   ],
+   [
+    "p",
+    "Reflux is the key to understanding why two pot stills can make very different spirits. It happens when vapour cools and condenses inside the still before reaching the condenser, then falls back to be boiled again. Each cycle strips away more of the heavy congeners, so more reflux means a lighter, cleaner spirit."
+   ],
+   [
+    "table",
+    [
+     "Still feature",
+     "More reflux, lighter spirit",
+     "Less reflux, heavier spirit"
+    ],
+    [
+     [
+      "Neck height",
+      "Tall neck",
+      "Short neck"
+     ],
+     [
+      "Shape",
+      "Bulges or narrow sections that trap vapour",
+      "Straight, simple shape"
+     ],
+     [
+      "Lyne arm angle",
+      "Pointing upwards",
+      "Pointing downwards"
+     ],
+     [
+      "Heating speed",
+      "Slow, gentle heating",
+      "Fast, vigorous heating"
+     ]
+    ]
+   ],
+   [
+    "p",
+    "Copper matters too. Contact between the vapour and copper surfaces removes unpleasant sulfur compounds, which smell of rotten egg or cooked vegetables. That is one reason almost all pot stills are made of copper, and why the type of condenser counts: a traditional worm tub offers less copper contact than a modern shell and tube condenser, so it tends to give a heavier, more robust spirit."
+   ],
+   [
+    "h2",
+    "Hybrid stills: the best of both systems"
+   ],
+   [
+    "p",
+    "A hybrid still is a pot still connected to a rectifying column, with valves that let the distiller decide how many plates the vapour passes through. With the column bypassed, it behaves like a pot still and gives a full-flavoured spirit. With the plates in use, it produces a lighter, higher-strength spirit. This flexibility is why hybrid stills are popular with smaller producers who make several products, such as fruit brandies, gin and whisky, from the same equipment."
+   ],
+   [
+    "p",
+    "Hybrid stills also have a use in vodka. Some producers who buy neutral spirit dilute it and pass it again through a hybrid still to give the vodka a smoother, silkier texture, effectively one more column distillation."
+   ],
+   [
+    "h2",
+    "How flavour is added to flavoured spirits"
+   ],
+   [
+    "p",
+    "When the flavour comes from ingredients rather than from the raw material or oak, producers choose between three routes, and each gives a different result."
+   ],
+   [
+    "table",
+    [
+     "Method",
+     "How it works",
+     "Typical result"
+    ],
+    [
+     [
+      "Maceration",
+      "Fruit, herbs or spices are steeped in the spirit, then removed",
+      "Fresh, intense flavours and natural colour"
+     ],
+     [
+      "Redistillation",
+      "The spirit is distilled again with the botanicals, in the liquid or in the vapour path",
+      "Clean, precise, colourless flavours, as in gin"
+     ],
+     [
+      "Adding flavourings",
+      "Natural or artificial flavourings are blended into the spirit",
+      "Consistent and economical, used widely in flavoured vodkas and liqueurs"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Production terms in one line each"
+   ],
+   [
+    "table",
+    [
+     "Term",
+     "Meaning"
+    ],
+    [
+     [
+      "Wash",
+      "The fermented liquid ready for distillation, especially in whisky"
+     ],
+     [
+      "Mash",
+      "Crushed grain mixed with hot water to extract sugar"
+     ],
+     [
+      "Malting",
+      "Sprouting then drying grain so it develops enzymes to convert starch"
+     ],
+     [
+      "Peat",
+      "Partly decayed vegetation burnt to dry malt, giving smoky aromas"
+     ],
+     [
+      "Cut",
+      "The moment the distiller switches between heads, hearts and tails"
+     ],
+     [
+      "Angels' share",
+      "Spirit lost by evaporation during ageing; very old barrels can lose over half their volume"
+     ],
+     [
+      "Rectification",
+      "Repeated condensation and re-evaporation that purifies the spirit and raises its strength"
+     ],
+     [
+      "Chill-filtration",
+      "Cooling and filtering a spirit to stop it going hazy when cold"
+     ]
+    ]
+   ]
+  ],
+  "faq": [
+   [
+    "Why are stills made of copper?",
+    "Copper is easy to shape, conducts heat well and, above all, reacts with sulfur compounds in the vapour, removing unpleasant aromas reminiscent of rotten eggs or cooked vegetables. The more contact the vapour has with copper, the cleaner and lighter the spirit. This is why still shape, distillation speed and condenser type all influence the final style."
+   ],
+   [
+    "What is a hybrid still?",
+    "A hybrid still combines a pot with a column of plates mounted above or beside it. The distiller can send the vapour through some, all or none of the plates. With few plates the spirit is full-flavoured, as from a pot still; with many plates it is lighter and stronger. Smaller distilleries use hybrid stills to make several different spirits with one piece of equipment."
+   ],
+   [
+    "What does sour mash mean?",
+    "Sour mash is a technique used by most American whiskey distillers. Part of the acidic residue left at the base of the still after distillation is added back to the next fermentation. It helps keep conditions stable and the style consistent from one batch to the next. It is not a legal requirement, and it does not make the whiskey taste sour."
+   ],
+   [
+    "What is the angels' share?",
+    "It is the portion of a spirit that evaporates through the wood while it matures in barrels. Both water and alcohol are lost, and over a long period the losses can be very large: barrels of very old spirits can lose more than half their volume. The evaporation concentrates the remaining flavours, which is one reason old spirits can be so intense."
+   ],
+   [
+    "How does peat make whisky smoky?",
+    "Peat is damp, partly decayed vegetation cut from the ground and dried. When it is burnt as fuel to dry malted barley, its aromatic smoke clings to the grain. Those smoky compounds survive mashing, fermentation and distillation and end up in the spirit. The amount of peat used decides whether a whisky is unpeated, lightly smoky or intensely smoky."
+   ]
+  ]
+ },
+ "cats": {
+  "body": [
+   [
+    "h2",
+    "Other fruit spirits worth knowing"
+   ],
+   [
+    "p",
+    "Beyond Cognac, Armagnac, Calvados, grappa and pisco, several fruit spirits appear in more advanced study and on good back bars. They are easiest to remember by what makes each one distinctive."
+   ],
+   [
+    "ul",
+    [
+     "Brandy de Jerez: a Spanish grape brandy matured in casks that previously held Sherry, usually in a system of fractional blending in which younger spirit gradually refreshes older spirit. Expect dried fruit, nuts and a rich, sometimes sweet style.",
+     "South African brandy: grape brandy with its own rules on pot still content and maturation, ranging from blends for mixing to pot still brandies for sipping.",
+     "Central European fruit spirits: plums, cherries, apricots, pears and raspberries are distilled into clear spirits prized for purity and intense fruit aromas. Fruits with little sugar, such as many berries, are often macerated in spirit and then distilled rather than fermented on their own.",
+     "Peruvian and Chilean Pisco differ: Peruvian Pisco must be unaged, while Chile allows some wood-aged examples, usually with short maturation to keep the fruity character."
+    ]
+   ],
+   [
+    "h2",
+    "Asian spirits: baijiu, shōchū and soju"
+   ],
+   [
+    "p",
+    "Some of the largest spirits categories in the world by volume are Asian, and they follow different traditions for turning starch into sugar. Instead of malting, producers use mould cultures that grow on grains and release enzymes."
+   ],
+   [
+    "table",
+    [
+     "Spirit",
+     "Country",
+     "Key facts",
+     "Typical style"
+    ],
+    [
+     [
+      "Baijiu",
+      "China",
+      "Mostly sorghum, fermented in solid state with qu, a starter of moulds and yeasts; distilled from the solid mash",
+      "Four main aroma types: Strong (fruity, pungent), Sauce (savoury, soy-like), Light (clean, floral), Rice (delicate)"
+     ],
+     [
+      "Shōchū",
+      "Japan",
+      "Column-distilled versions are light; Honkaku Shōchū is pot-distilled once from bases such as barley, sweet potato or rice",
+      "From neutral to clearly expressive of the base ingredient"
+     ],
+     [
+      "Awamori",
+      "Japan (Okinawa)",
+      "A pot-distilled rice spirit, a specific type of shōchū",
+      "Rounded, often aged in clay pots"
+     ],
+     [
+      "Soju",
+      "Korea",
+      "Diluted soju is made from highly rectified spirit, diluted and often sweetened; distilled soju is the traditional style",
+      "Light and easy-drinking, or fuller and more characterful"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Other agave and Mexican spirits"
+   ],
+   [
+    "p",
+    "Tequila and Mezcal are the famous names, but Mexico has other protected spirits. Bacanora comes from the state of Sonora and is made from a specific agave species. Raicilla comes mostly from Jalisco, outside the Tequila heartland, and covers a range of traditional, often wild-agave styles. Sotol, from northern Mexico, is not an agave spirit at all: it is made from a desert plant often called the desert spoon, although production follows a similar logic of cooking, crushing, fermenting and distilling."
+   ],
+   [
+    "h2",
+    "More flavoured spirits: genever, aquavit and spiced styles"
+   ],
+   [
+    "table",
+    [
+     "Spirit",
+     "Base",
+     "Main flavour",
+     "Notes"
+    ],
+    [
+     [
+      "Genever",
+      "A malty, characterful spirit blended with juniper-flavoured spirit",
+      "Juniper, cereal",
+      "From the Netherlands and Belgium; 'jonge' is a lighter, modern style and 'oude' an older, maltier style, not a statement of age"
+     ],
+     [
+      "Aquavit",
+      "Neutral spirit",
+      "Caraway and/or dill",
+      "Scandinavian; some styles are matured in oak, others are clear"
+     ],
+     [
+      "Old Tom gin",
+      "Neutral spirit",
+      "Juniper with sweetness",
+      "An older, sweetened gin style"
+     ],
+     [
+      "Distilled Gin",
+      "Neutral spirit",
+      "Juniper-led",
+      "In the EU, flavourings may be added after redistillation; in the USA all flavour must come from redistillation"
+     ],
+     [
+      "Flavoured whiskey",
+      "Whiskey",
+      "Honey, spice, fruit and more",
+      "Often sweetened; cannot be labelled simply as whiskey"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Liqueurs by flavour group"
+   ],
+   [
+    "p",
+    "Liqueurs can carry any flavour, so the easiest way to learn them is by group. Each group has its own typical base, colour and use."
+   ],
+   [
+    "table",
+    [
+     "Group",
+     "Typical flavourings",
+     "How they are usually used"
+    ],
+    [
+     [
+      "Herb",
+      "Complex botanical recipes, mint, anise, bitter roots",
+      "Digestifs, cocktail modifiers"
+     ],
+     [
+      "Fruit",
+      "Orange peel, cherries, berries, stone fruit",
+      "Sours (orange liqueur in the Margarita and Sidecar), long drinks"
+     ],
+     [
+      "Seed, nut and kernel",
+      "Almond, hazelnut, coffee, cocoa, apricot kernel",
+      "After dinner, in coffee, creamy cocktails"
+     ],
+     [
+      "Cream",
+      "Dairy cream with whisky, chocolate or coffee notes",
+      "Served chilled or over ice; one of the few opaque alcoholic drinks"
+     ]
+    ]
+   ],
+   [
+    "p",
+    "Liqueurs may use a characterful base such as Cognac or Scotch whisky, which carries through into the flavour, and they can legally be bottled at a lower strength than other spirits. Lower-strength, opened liqueurs lose freshness faster than other spirits, so they should be stored carefully."
+   ],
+   [
+    "h2",
+    "What an age term means in each category"
+   ],
+   [
+    "p",
+    "Age words look similar across labels but carry very different guarantees. Confusing them is a classic source of mistakes in exams and on the shop floor."
+   ],
+   [
+    "table",
+    [
+     "Term",
+     "Category",
+     "What it guarantees"
+    ],
+    [
+     [
+      "VS / VSOP / XO",
+      "Cognac",
+      "Youngest brandy at least 2 / 4 / 10 years in oak"
+     ],
+     [
+      "Age statement (e.g. 12 years)",
+      "Scotch and other whiskies",
+      "The youngest whisky in the bottle is at least that age"
+     ],
+     [
+      "Straight",
+      "American whiskey",
+      "At least two years in new oak, nothing added; age stated if under four years"
+     ],
+     [
+      "Reposado / Añejo / Extra Añejo",
+      "Tequila",
+      "At least two months / one year / three years in oak"
+     ],
+     [
+      "Vintage",
+      "Armagnac",
+      "All the spirit comes from a single harvest year"
+     ],
+     [
+      "XO, Gran Reserva, years on the label",
+      "Rum",
+      "Not standardised; meaning depends on the producer and country"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Clues for recognising a category by taste"
+   ],
+   [
+    "p",
+    "Even without a tasting exam, linking each category to a few signature aromas makes facts stick and helps you describe spirits to customers."
+   ],
+   [
+    "ul",
+    [
+     "Popcorn, sweetcorn, butterscotch and strong vanilla point to corn and new charred oak: think Bourbon.",
+     "Rye bread, black pepper and allspice point to rye whiskey.",
+     "Malt, porridge and cereal, sometimes with smoke or a medicinal edge, suggest malt whisky; a lighter cereal note with less depth suggests a blend.",
+     "Grassy, vegetal freshness suggests cane juice: rhum agricole or cachaça. Toffee, treacle and banana suggest molasses rum.",
+     "Cooked agave, green pepper and herbaceous notes suggest Tequila; the same with smoke and earth suggests Mezcal.",
+     "Dried fruit, floral notes and, with age, leather and mushroom (rancio) suggest Cognac or Armagnac.",
+     "A clear spirit with intense pure fruit, such as pear, plum or raspberry, suggests a Central European fruit spirit.",
+     "Pine-like juniper leading the nose is the signature of gin; caraway or dill points to aquavit."
+    ]
+   ]
+  ],
+  "faq": [
+   [
+    "What is the difference between Bourbon and Scotch?",
+    "Bourbon is American, made from at least 51% corn and matured in new charred oak barrels, which give strong vanilla, coconut and sweet spice. Scotch is made in Scotland from malted barley, alone or with other grains, matured at least three years, usually in used casks. Scotch can be smoky from peat; Bourbon is typically sweeter in aroma and richer in oak character."
+   ],
+   [
+    "What is the difference between liqueur and liquor?",
+    "Liquor is an informal word, mainly American, for any distilled spirit, such as vodka, whisky or rum. A liqueur is a specific category: a flavoured spirit that must be sweetened, often coloured and sometimes lower in alcohol. Orange, coffee, herbal and cream liqueurs are examples. All liqueurs are made from spirit, but most spirits are not liqueurs."
+   ],
+   [
+    "What is cachaça?",
+    "Cachaça is Brazil's sugar cane spirit, made from fresh cane juice rather than molasses. It is produced in very large volumes, mostly unaged and sometimes slightly sweetened, with grassy, vegetal and fruity aromas. Aged versions can be matured in oak or in various native Brazilian woods. It is the base of the Caipirinha, a classic drink built with lime and sugar."
+   ],
+   [
+    "What is baijiu?",
+    "Baijiu is China's traditional spirit and one of the most consumed spirits in the world. It is usually made from sorghum, sometimes with other grains, fermented in solid state with qu, a starter culture of moulds and yeasts. It is grouped by aroma type, the four main ones being Strong, Sauce, Light and Rice aroma, each with its own production methods."
+   ],
+   [
+    "Is rum always sweet?",
+    "No. Every freshly distilled rum is dry, like any spirit. Some producers add sugar after distillation, which is common in certain styles and in spiced rum, while others add none, especially in the French Caribbean tradition. Aromas of vanilla, caramel or tropical fruit can suggest sweetness on the nose, but true sweetness can only be confirmed on the palate."
+   ],
+   [
+    "What is the difference between genever and gin?",
+    "Both are flavoured with juniper, but genever uses a malty, characterful base spirit made from grain, blended with juniper-flavoured spirit, so it tastes of cereal as well as juniper. Gin is usually made from neutral spirit, and juniper with other botanicals carries all the flavour. Genever comes from the Netherlands and Belgium, where 'jonge' and 'oude' describe styles rather than ages."
+   ]
+  ]
+ },
+ "cocktails": {
+  "body": [
+   [
+    "h2",
+    "Fixing an unbalanced drink"
+   ],
+   [
+    "p",
+    "Most faults in a cocktail come from one of the four elements being too strong or too weak. Tasting a drink with a straw before it is served and knowing the right correction is a core bar skill, and it is also the logic behind many exam questions on balance."
+   ],
+   [
+    "table",
+    [
+     "What you taste",
+     "Likely cause",
+     "Correction"
+    ],
+    [
+     [
+      "Sharp, puckering",
+      "Too much citrus, or citrus that is very acidic",
+      "Add sweetener in small steps; check the size of your citrus measure"
+     ],
+     [
+      "Cloying, flat",
+      "Too much syrup or liqueur",
+      "Add a little citrus or a dash of bitters; reduce the sweet part next time"
+     ],
+     [
+      "Hot, harsh, burning",
+      "Not enough dilution: stirred or shaken too briefly, or ice too warm",
+      "Stir or shake longer with cold, dry ice"
+     ],
+     [
+      "Thin, watery",
+      "Too much dilution: wet ice, long stirring, or few cubes in a long drink",
+      "Use colder ice, fill the glass with ice, shorten stirring"
+     ],
+     [
+      "Spirit disappears",
+      "Mixer overwhelms the base, or the spirit is too light for the drink",
+      "Use less mixer or a more characterful spirit"
+     ],
+     [
+      "Muddy, unclear flavours",
+      "Too many modifiers fighting each other",
+      "Remove an ingredient; return to the basic family structure"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Ice: the ingredient people forget"
+   ],
+   [
+    "p",
+    "Ice does two jobs: it chills the drink and it dilutes it. To do both predictably it must be very cold and dry. Ice close to melting point is wet, chills poorly and melts fast, adding too much water."
+   ],
+   [
+    "ul",
+    [
+     "Shaking with cubed ice chills a drink very quickly and dilutes it slightly, while adding air and texture.",
+     "Stirring with cubed ice chills more slowly, so by the time the drink is cold the dilution can be greater than in a shaken drink.",
+     "Ice used for shaking or stirring is always discarded; fresh ice goes into the serving glass.",
+     "In a long drink, a glass filled with ice keeps the drink cold with little melting; a few cubes melt quickly and water the drink down.",
+     "Crushed ice is chosen when you want fast chilling and visible dilution, as in the Mojito or Caipirinha, and for the frosted look it gives."
+    ]
+   ],
+   [
+    "h2",
+    "Families beyond the core four"
+   ],
+   [
+    "p",
+    "The spirits courses focus on spirit-forward drinks, short sours, highballs and long sours, but bartenders meet a few more groups. Each one can still be described with the same four elements."
+   ],
+   [
+    "table",
+    [
+     "Group",
+     "Structure",
+     "Examples"
+    ],
+    [
+     [
+      "Cream drinks",
+      "Spirit, a liqueur for sweetness, and cream as the weak element",
+      "Brandy Alexander"
+     ],
+     [
+      "Smashes and juleps",
+      "Spirit, sugar and muddled mint or fruit over crushed ice",
+      "Mint Julep"
+     ],
+     [
+      "Built sours on crushed ice",
+      "Muddled lime and sugar with spirit, built in the glass",
+      "Caipirinha"
+     ],
+     [
+      "Hot drinks",
+      "Spirit lengthened with hot water, tea or coffee, sweetened",
+      "Hot Toddy, Irish coffee"
+     ],
+     [
+      "Sparkling wine cocktails",
+      "Sparkling wine with a small amount of liqueur, spirit or bitter aperitif",
+      "French 75, spritz-style drinks"
+     ]
+    ]
+   ],
+   [
+    "p",
+    "Placing a new drink in a family is the quickest way to make it well. A Caipirinha, for example, has the structure of a sour (spirit, lime, sugar) but is built in the glass with crushed ice instead of being shaken and strained."
+   ],
+   [
+    "h2",
+    "Common starting ratios"
+   ],
+   [
+    "p",
+    "Recipes vary from bar to bar, and exams test structure rather than exact measures. Still, a few widely used starting points help you understand proportions and adjust with confidence."
+   ],
+   [
+    "table",
+    [
+     "Drink",
+     "Common starting point",
+     "What to adjust"
+    ],
+    [
+     [
+      "Negroni",
+      "Equal parts gin, sweet vermouth and red bitter aperitif",
+      "More gin for a drier, stronger drink"
+     ],
+     [
+      "Manhattan",
+      "About two parts whiskey to one part sweet vermouth, plus bitters",
+      "Vermouth level controls sweetness"
+     ],
+     [
+      "Short sour",
+      "About two parts spirit, one part citrus, half to one part syrup",
+      "Syrup level depends on the citrus and syrup strength"
+     ],
+     [
+      "Highball",
+      "About one part spirit to two or three parts mixer, glass full of ice",
+      "Less mixer to let the spirit show"
+     ],
+     [
+      "Old Fashioned",
+      "Spirit with a small amount of sugar or syrup and a few dashes of bitters",
+      "Stirring time sets the dilution"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Bar vocabulary in one line each"
+   ],
+   [
+    "table",
+    [
+     "Term",
+     "Meaning"
+    ],
+    [
+     [
+      "Neat",
+      "A spirit served at room temperature with no ice or mixer"
+     ],
+     [
+      "On the rocks",
+      "Served over ice"
+     ],
+     [
+      "Up",
+      "Chilled with ice, then strained and served without ice, usually in a cocktail glass or coupe"
+     ],
+     [
+      "Dash",
+      "A very small amount shaken from a bitters bottle"
+     ],
+     [
+      "Twist",
+      "A strip of citrus peel squeezed over the drink to release its oils"
+     ],
+     [
+      "Rinse",
+      "Coating the inside of a glass with a spirit, then discarding the excess, as with absinthe in a Sazerac"
+     ],
+     [
+      "Float",
+      "A small amount of an ingredient poured gently on top so it stays as a layer"
+     ],
+     [
+      "Top",
+      "Filling the glass with a long mixer or sparkling wine at the end"
+     ],
+     [
+      "Dry shake",
+      "Shaking without ice first to build foam, typically with egg white, before shaking again with ice"
+     ]
+    ]
+   ],
+   [
+    "h2",
+    "Case study: building a balanced six-drink menu"
+   ],
+   [
+    "p",
+    "Imagine a small bar that wants a short classic list. The family structure makes the job simple: pick drinks from different families and different base spirits so every guest finds a style they like."
+   ],
+   [
+    "ul",
+    [
+     "Spirit-forward: an Old Fashioned on whiskey for guests who like strong, rich drinks.",
+     "Bitter and aromatic: a Negroni on gin for those who like bitterness.",
+     "Short sour: a Daiquiri on white rum, fresh and simple.",
+     "Short sour variation: a Margarita on Tequila with orange liqueur.",
+     "Highball: a Moscow Mule on vodka, long and refreshing.",
+     "Long sour: a Tom Collins on gin, or a Paloma for Tequila lovers."
+    ]
+   ],
+   [
+    "p",
+    "The menu covers whiskey, gin, rum, Tequila and vodka, both short and long drinks, and both stirred and shaken methods. Staff can learn it quickly because each drink is a variation on a family they already understand. The Wine Goat app uses the same family logic in its lessons and games for Spirits Levels 1 and 2."
+   ],
+   [
+    "h2",
+    "Low-alcohol and alcohol-free versions"
+   ],
+   [
+    "p",
+    "The four-element model also works without much spirit. Lower-alcohol drinks often swap the base for vermouth or a bitter aperitif, which are less strong but bring sweetness and bitterness on their own; a vermouth and tonic highball is an example. Alcohol-free drinks replace the strong element with something that gives body and intensity, such as a strong tea, a non-alcoholic spirit or a richly flavoured syrup, then balance it with citrus and dilution as usual."
+   ]
+  ],
+  "faq": [
+   [
+    "What does 'up' mean in a cocktail order?",
+    "'Up' means the drink is chilled with ice, by stirring or shaking, then strained and served without ice, usually in a cocktail glass or coupe. It is the opposite of 'on the rocks', which means served over ice. A Martini or Daiquiri is normally served up, while an Old Fashioned or Negroni is commonly served on the rocks in a tumbler."
+   ],
+   [
+    "What is a dry shake?",
+    "A dry shake is shaking the ingredients without ice before shaking them again with ice. It is used for drinks with egg white or a vegan foaming agent, such as a Pisco Sour or Clover Club, because shaking without ice whips the proteins into a thicker, more stable foam. The second shake with ice then chills and dilutes the drink."
+   ],
+   [
+    "What is the classic Negroni ratio?",
+    "The classic starting point is equal parts gin, sweet vermouth and a red bitter aperitif, stirred with ice and usually served over ice with an orange garnish. It sits in the spirit-forward family: gin is the strong element, vermouth brings sweetness and some bitterness, and the aperitif adds pronounced bitterness. Many bars increase the gin slightly for a drier drink."
+   ],
+   [
+    "Why do bartenders use 2:1 simple syrup?",
+    "A syrup of two parts sugar to one part water delivers the same sweetness in a smaller volume than a 1:1 syrup. That leaves more room in the glass for characterful ingredients and adds less water to the drink. Pre-made syrups are also easier to measure precisely than loose sugar, which makes every drink more consistent."
+   ],
+   [
+    "Should a cocktail glass be chilled?",
+    "For drinks served up, without ice, yes. A chilled glass keeps the drink cold for longer, so it stays balanced and does not warm and taste harsh before it is finished. Fill the glass with ice and water while you prepare the drink, then empty it just before straining. For drinks served over ice, the ice does the chilling."
+   ]
+  ]
  }
 }
