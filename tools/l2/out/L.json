@@ -546,10 +546,10 @@
      "Ambos al este del Dordoña, en la Orilla Derecha"
     ],
     [
-     "Entrambi sulla costa atlantica, lontano dai fiumi",
-     "Tous deux sur la côte atlantique, loin des fleuves",
-     "Both on the Atlantic coast, far from the rivers",
-     "Ambos en la costa atlántica, lejos de los ríos"
+     "Entrambi sulla costa atlantica",
+     "Tous deux sur la côte atlantique",
+     "Both on the Atlantic coast",
+     "Ambos en la costa atlántica"
     ]
    ],
    "e": [
@@ -628,10 +628,10 @@
      "Cálido y soleado, con un ciclo largo"
     ],
     [
-     "Fresco e nuvoloso, con brezze costanti dal sud",
-     "Frais et nuageux, avec des brises régulières du sud",
-     "Cool and cloudy, with steady southerly breezes",
-     "Fresco y nublado, con brisas constantes del sur"
+     "Fresco e nuvoloso, con brezze dal sud",
+     "Frais et nuageux, avec des brises du sud",
+     "Cool and cloudy, with southerly breezes",
+     "Fresco y nublado, con brisas del sur"
     ],
     [
      "Molto piovoso, con suoli di ghiaia",
@@ -957,10 +957,10 @@
      "Nubosidad y brisas frescas del sur"
     ],
     [
-     "L'altitudine delle Ande e i venti di montagna notturni",
-     "L'altitude des Andes et les vents de montagne nocturnes",
-     "Andean altitude and night-time mountain winds",
-     "La altitud de los Andes y los vientos nocturnos de montaña"
+     "L'altitudine delle Ande",
+     "L'altitude des Andes",
+     "Andean altitude",
+     "La altitud de los Andes"
     ],
     [
      "Le nebbie mattutine di una baia vicina",
@@ -969,10 +969,10 @@
      "Las nieblas matinales de una bahía cercana"
     ],
     [
-     "Un grande estuario che divide la regione in due",
-     "Un grand estuaire qui coupe la région en deux",
-     "A large estuary splitting the region in two",
-     "Un gran estuario que divide la región en dos"
+     "Un grande estuario vicino",
+     "Un grand estuaire voisin",
+     "A large estuary nearby",
+     "Un gran estuario cercano"
     ]
    ],
    "e": [
@@ -1004,10 +1004,10 @@
      "Fruta roja y negra fresca con pimiento verde"
     ],
     [
-     "Frutto nero cotto, liquirizia e alcol molto elevato",
-     "Fruit noir cuit, réglisse et alcool très élevé",
-     "Cooked black fruit, liquorice and very high alcohol",
-     "Fruta negra cocida, regaliz y alcohol muy alto"
+     "Frutto nero cotto e liquirizia",
+     "Fruit noir cuit et réglisse",
+     "Cooked black fruit and liquorice",
+     "Fruta negra cocida y regaliz"
     ],
     [
      "Fragola e lampone, senza alcun tannino",
@@ -1051,15 +1051,15 @@
      "La comida puede suavizar su tanino y su acidez"
     ],
     [
-     "Ha un residuo zuccherino che bilancia i piatti più salati",
-     "Il a un sucre résiduel qui équilibre les plats les plus salés",
-     "Its residual sugar balances the saltiest dishes",
-     "Su azúcar residual equilibra los platos más salados"
+     "Il suo zucchero bilancia i piatti salati",
+     "Son sucre équilibre les plats salés",
+     "Its residual sugar balances salty dishes",
+     "Su azúcar equilibra los platos salados"
     ],
     [
      "Ha tannini così bassi da adattarsi a ogni piatto",
      "Ses tanins sont si faibles qu'il s'accorde à tout",
-     "Its tannins are so low that it suits any dish",
+     "Its tannins are low enough to suit any dish",
      "Sus taninos son tan bajos que va con cualquier plato"
     ],
     [
@@ -1427,10 +1427,10 @@
      "Uvas más maduras, de clima cálido o vendimia tardía"
     ],
     [
-     "Uve appena mature, raccolte presto in un clima moderato",
-     "Des raisins tout juste mûrs, cueillis tôt en climat modéré",
-     "Just-ripe grapes, picked early in a moderate climate",
-     "Uvas apenas maduras, vendimiadas pronto en clima moderado"
+     "Uve appena mature, raccolte presto",
+     "Des raisins tout juste mûrs, cueillis tôt",
+     "Just-ripe grapes, picked early",
+     "Uvas apenas maduras, vendimiadas pronto"
     ],
     [
      "Uve congelate sulla pianta",
@@ -1568,10 +1568,10 @@
      "Cuerpo pleno, fruta negra intensa, notas de roble"
     ],
     [
-     "Leggero, con fragola fresca e peperone verde e nessun legno",
-     "Léger, avec fraise fraîche et poivron vert, sans bois",
-     "Light, with fresh strawberry, green pepper and no oak",
-     "Ligero, con fresa fresca, pimiento verde y sin madera"
+     "Leggero, con fragola fresca e senza legno",
+     "Léger, avec fraise fraîche, sans bois",
+     "Light, with fresh strawberry and no oak",
+     "Ligero, con fresa fresca y sin madera"
     ],
     [
      "Pepe nero e fiori di Viognier",
@@ -2038,10 +2038,10 @@
      "Tanino y acidez medios: va bien sin madera y con madera"
     ],
     [
-     "Ha acidità altissima e serve soprattutto per gli spumanti",
-     "Il a une acidité très haute et sert surtout aux effervescents",
-     "It has very high acidity and is mostly used for sparkling wine",
-     "Tiene una acidez altísima y sirve sobre todo para espumosos"
+     "Ha acidità altissima, adatta agli spumanti",
+     "Il a une acidité très haute, idéale pour les effervescents",
+     "It has very high acidity, mostly for sparkling wine",
+     "Tiene una acidez altísima, ideal para espumosos"
     ],
     [
      "È un'uva bianca che può anche dare vini rossi molto leggeri",
@@ -2367,10 +2367,10 @@
      "Syrah con uvas del sur del Ródano como la Garnacha"
     ],
     [
-     "Syrah con Cabernet Sauvignon e Merlot, come nei tagli della Riva Sinistra",
-     "Syrah avec Cabernet Sauvignon et Merlot, comme en Rive Gauche",
-     "Syrah with Cabernet Sauvignon and Merlot, as on the Left Bank",
-     "Syrah con Cabernet Sauvignon y Merlot, como en la Orilla Izquierda"
+     "Syrah con Cabernet Sauvignon e Merlot",
+     "Syrah avec Cabernet Sauvignon et Merlot",
+     "Syrah with Cabernet Sauvignon and Merlot",
+     "Syrah con Cabernet Sauvignon y Merlot"
     ],
     [
      "Un vino bianco da sole uve aromatiche",
@@ -2414,15 +2414,15 @@
      "Tienen sabores intensos y taninos firmes"
     ],
     [
-     "Hanno molto zucchero residuo che le protegge nel tempo",
-     "Elles ont beaucoup de sucre résiduel qui les protège",
-     "They have a lot of residual sugar that protects them",
-     "Tienen mucho azúcar residual que las protege"
+     "Hanno molto zucchero residuo",
+     "Elles ont beaucoup de sucre résiduel",
+     "They have lots of residual sugar",
+     "Tienen mucho azúcar residual"
     ],
     [
      "Sono imbottigliati senza alcun affinamento in legno",
      "Elles sont mises en bouteille sans aucun élevage en bois",
-     "They are bottled with no oak maturation at all",
+     "They are bottled with no oak maturation",
      "Se embotellan sin ninguna crianza en madera"
     ],
     [
@@ -2884,16 +2884,16 @@
      "Por su latitud relativamente septentrional"
     ],
     [
-     "Per l'altitudine molto elevata dei vigneti",
-     "À cause de l'altitude très élevée des vignes",
-     "The very high altitude of its vineyards",
-     "Por la gran altitud de sus viñedos"
+     "Per l'altitudine dei vigneti",
+     "À cause de l'altitude des vignes",
+     "Very high vineyard altitude",
+     "Por la altitud de sus viñedos"
     ],
     [
-     "Per le correnti fredde dell'oceano che soffiano dal sud",
-     "À cause des courants océaniques froids venus du sud",
-     "Cold ocean currents blowing from the south",
-     "Por las corrientes oceánicas frías que soplan del sur"
+     "Per le correnti oceaniche fredde",
+     "À cause des courants océaniques froids",
+     "Cold southern ocean currents",
+     "Por las corrientes oceánicas frías"
     ],
     [
      "Per i suoli di ghiaia vicini a un estuario",
@@ -3172,10 +3172,10 @@
      "Solo Bourgogne AOC, sin nada más"
     ],
     [
-     "Il nome del village seguito da Premier Cru e dall'anno",
-     "Le nom du village suivi de Premier Cru et du millésime",
-     "The village name followed by Premier Cru and the vintage",
-     "El nombre del village seguido de Premier Cru y la añada"
+     "Il nome del village con Premier Cru",
+     "Le nom du village avec Premier Cru",
+     "The village name with Premier Cru",
+     "El nombre del village con Premier Cru"
     ],
     [
      "La parola Château e il nome della tenuta",
@@ -3401,10 +3401,10 @@
      "En el clima fresco alemán la madurez suele ser difícil"
     ],
     [
-     "Perché le uve tedesche sono sempre troppo mature e vanno raccolte molto presto",
-     "Parce que les raisins allemands sont toujours trop mûrs et cueillis très tôt",
-     "German grapes are always overripe and must be picked very early",
-     "Porque las uvas alemanas siempre están demasiado maduras y se recogen muy pronto"
+     "Perché le uve tedesche sono sempre troppo mature",
+     "Parce que les raisins allemands sont toujours trop mûrs",
+     "German grapes are always overripe",
+     "Porque las uvas alemanas siempre están demasiado maduras"
     ],
     [
      "Perché in Germania è vietato indicare l'uva",
@@ -3544,14 +3544,14 @@
     [
      "Si aggiunge zucchero dopo la fermentazione per addolcirli",
      "On ajoute du sucre après la fermentation pour les adoucir",
-     "Sugar is added after fermentation to sweeten them",
+     "Sugar is added after fermentation",
      "Se añade azúcar tras la fermentación para endulzarlos"
     ],
     [
-     "Le uve sono raccolte acerbe e molto presto, prima che maturino",
-     "Les raisins sont cueillis verts et très tôt, avant maturité",
-     "The grapes are picked unripe and very early, before ripening",
-     "Las uvas se recogen verdes y muy pronto, antes de madurar"
+     "Le uve sono raccolte acerbe e presto",
+     "Les raisins sont cueillis verts et tôt",
+     "The grapes are picked unripe and early",
+     "Las uvas se recogen verdes y pronto"
     ],
     [
      "L'alcol viene tolto con la distillazione",
@@ -3824,10 +3824,10 @@
      "Puede figurar tanto en Alsace como en Alsace Grand Cru"
     ],
     [
-     "È riservata ai soli vini regionali, mai ai grands crus",
-     "Elle est réservée aux vins régionaux, jamais aux grands crus",
-     "It is reserved for regional wines, never for grands crus",
-     "Está reservada a los vinos regionales, nunca a los grands crus"
+     "È riservata ai soli vini regionali",
+     "Elle est réservée aux seuls vins régionaux",
+     "It is reserved for regional wines only",
+     "Está reservada solo a los vinos regionales"
     ],
     [
      "Indica un vino secco da uve raccolte presto",
