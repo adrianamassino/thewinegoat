@@ -52,7 +52,7 @@ os.makedirs(f'app/spirits/{LV}', exist_ok=True)
 open(f'app/spirits/{LV}/content.js', 'w', encoding='utf8').write(js)
 h = hashlib.md5((js + open('app/l2/l2app.js', encoding='utf8').read()).encode()).hexdigest()[:8]
 ix = open('app/index.html', encoding='utf8').read()
-ix = re.sub(rf'spirits/{LV}/content\.js\?v=\w+', f'spirits/{LV}/content.js?v=' + h, ix); ix = re.sub(r'l2/l2app\.js\?v=\w+', 'l2/l2app.js?v=' + h, ix)
+ix = re.sub(r"(spirits/'\+_L\+'/content\.js\?v=)\w+", lambda m: m.group(1) + h, ix); ix = re.sub(r'l2/l2app\.js\?v=\w+', 'l2/l2app.js?v=' + h, ix)
 open('app/index.html', 'w', encoding='utf8').write(ix)
 from collections import Counter
 cq, cl, cf = Counter(b['c'] for b in bank), Counter(b['c'] for b in lessons), Counter(b['c'] for b in flash)
