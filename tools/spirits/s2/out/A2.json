@@ -521,53 +521,6 @@
   {
    "c": "p1",
    "q": [
-    "Perché mais, frumento e segale vengono cotti ad alta temperatura?",
-    "Pourquoi cuit-on le maïs, le blé et le seigle à haute température ?",
-    "Why are corn, wheat and rye cooked at a high temperature?",
-    "¿Por qué se cuecen el maíz, el trigo y el centeno a alta temperatura?"
-   ],
-   "o": [
-    [
-     "Il calore rende solubile l'amido",
-     "La chaleur rend l'amidon soluble",
-     "Heat makes the starch soluble",
-     "El calor vuelve soluble el almidón"
-    ],
-    [
-     "Il calore trasforma da solo tutto l'amido in alcol",
-     "La chaleur transforme à elle seule tout l'amidon en alcool",
-     "Heat alone turns all the starch into alcohol",
-     "El calor por sí solo convierte todo el almidón en alcohol"
-    ],
-    [
-     "Il calore crea enzimi nei chicchi",
-     "La chaleur crée des enzymes dans les grains",
-     "Heat creates enzymes in the grains",
-     "El calor crea enzimas en los granos"
-    ],
-    [
-     "Il calore elimina i congeneri sgradevoli prima della fermentazione",
-     "La chaleur élimine les congénères désagréables avant la fermentation",
-     "Heat removes unpleasant congeners before fermentation",
-     "El calor elimina los congéneres desagradables antes de fermentar"
-    ]
-   ],
-   "e": [
-    "La cottura porta l'amido in una forma solubile; poi gli enzimi dell'orzo maltato lo trasformano in zucchero.",
-    "La cuisson rend l'amidon soluble ; ensuite les enzymes de l'orge maltée le transforment en sucre.",
-    "Cooking puts the starch into a soluble form; the malted barley's enzymes then turn it into sugar.",
-    "La cocción vuelve soluble el almidón; después las enzimas de la cebada malteada lo transforman en azúcar."
-   ],
-   "d": [
-    "Dopo la cottura il liquido si raffredda e si aggiunge orzo maltato macinato, i cui enzimi bastano per tutto l'amido. Il calore non produce enzimi: è la germinazione a farlo. L'alcol nasce solo con i lieviti.",
-    "Après la cuisson, le liquide refroidit et on ajoute de l'orge maltée moulue, dont les enzymes suffisent pour tout l'amidon. La chaleur ne produit pas d'enzymes : c'est la germination qui le fait. L'alcool n'apparaît qu'avec les levures.",
-    "After cooking the liquid is cooled and ground malted barley is added, whose enzymes are enough for all the starch. Heat does not make enzymes; germination does. Alcohol only appears with yeast.",
-    "Tras la cocción el líquido se enfría y se añade cebada malteada molida, cuyas enzimas bastan para todo el almidón. El calor no produce enzimas: lo hace la germinación. El alcohol solo aparece con las levaduras."
-   ]
-  },
-  {
-   "c": "p1",
-   "q": [
     "Una distilleria cambia ceppo di lievito. Che cosa è più probabile?",
     "Une distillerie change de souche de levure. Qu'est-ce qui est le plus probable ?",
     "A distillery switches to a different yeast strain. What is most likely?",
@@ -944,53 +897,6 @@
   {
    "c": "p1",
    "q": [
-    "Da dove comprano di solito il loro cereale i produttori di Scotch whisky?",
-    "D'où les producteurs de Scotch whisky achètent-ils en général leurs céréales ?",
-    "Where do Scotch whisky producers usually get their grain?",
-    "¿De dónde suelen comprar el cereal los productores de whisky escocés?"
-   ],
-   "o": [
-    [
-     "Da diversi Paesi: non deve per forza essere scozzese",
-     "De plusieurs pays : elles ne doivent pas forcément être écossaises",
-     "From several countries: it need not be Scottish",
-     "De varios países: no tiene por qué ser escocés"
-    ],
-    [
-     "Solo da campi della stessa distilleria",
-     "Uniquement des champs de la distillerie elle-même",
-     "Only from the distillery's own fields",
-     "Solo de los campos de la propia destilería"
-    ],
-    [
-     "Solo dall'isola di Islay",
-     "Uniquement de l'île d'Islay",
-     "Only from the island of Islay",
-     "Solo de la isla de Islay"
-    ],
-    [
-     "Solo da zone delimitate per legge, come per la Tequila",
-     "Uniquement de zones délimitées par la loi, comme pour la Tequila",
-     "Only from legally defined areas, as for Tequila",
-     "Solo de zonas delimitadas por ley, como para el tequila"
-    ]
-   ],
-   "e": [
-    "Molti produttori possono acquistare la materia prima ovunque; i distillatori di Scotch comprano cereali da vari Paesi.",
-    "Beaucoup de producteurs peuvent acheter leur matière première n'importe où ; les distillateurs de Scotch achètent des céréales dans plusieurs pays.",
-    "Many producers can source raw material anywhere; Scotch distillers buy grain from a number of countries.",
-    "Muchos productores pueden comprar la materia prima en cualquier parte; los destiladores de whisky escocés compran cereal de varios países."
-   ],
-   "d": [
-    "Per alcuni distillati, come Tequila e Calvados, la materia prima deve venire da un'area precisa; per lo Scotch no. Pochissimi produttori coltivano da sé la materia prima.",
-    "Pour certains spiritueux, comme la Tequila et le Calvados, la matière première doit venir d'une zone précise ; pas pour le Scotch. Très peu de producteurs cultivent eux-mêmes leur matière première.",
-    "For some spirits, such as Tequila and Calvados, the raw material must come from a set area; not for Scotch. Very few producers grow their own raw material.",
-    "Para algunos destilados, como el tequila y el Calvados, la materia prima debe venir de una zona concreta; para el whisky escocés no. Muy pocos productores cultivan su propia materia prima."
-   ]
-  },
-  {
-   "c": "p1",
-   "q": [
     "La maggior parte dei distillatori coltiva da sé la propria materia prima?",
     "La plupart des distillateurs cultivent-ils eux-mêmes leur matière première ?",
     "Do most distillers grow their own raw material?",
@@ -1315,6 +1221,100 @@
     "La fermentation ne commence qu'ensuite, quand on ajoute les levures au liquide sucré. La distillation et les opérations suivantes travaillent sur un liquide déjà alcoolisé.",
     "Fermentation only starts afterwards, when yeast is added to the sugary liquid. Distillation and later steps work on an already alcoholic liquid.",
     "La fermentación solo empieza después, cuando se añaden las levaduras al líquido azucarado. La destilación y las operaciones siguientes trabajan con un líquido ya alcohólico."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Un litro di liquido fermentato al 10% abv: quanto alcol contiene?",
+    "Un litre de liquide fermenté à 10 % abv : combien d'alcool contient-il ?",
+    "One litre of fermented liquid at 10% abv: how much alcohol does it contain?",
+    "Un litro de líquido fermentado al 10 % abv: ¿cuánto alcohol contiene?"
+   ],
+   "o": [
+    [
+     "Circa 100 ml",
+     "Environ 100 ml",
+     "About 100 ml",
+     "Unos 100 ml"
+    ],
+    [
+     "Circa 10 ml",
+     "Environ 10 ml",
+     "About 10 ml",
+     "Unos 10 ml"
+    ],
+    [
+     "Circa 200 ml, perché si conta in proof",
+     "Environ 200 ml, car on compte en proof",
+     "About 200 ml, since it is counted in proof",
+     "Unos 200 ml, porque se cuenta en proof"
+    ],
+    [
+     "Circa 10 grammi di zucchero non ancora trasformato",
+     "Environ 10 grammes de sucre pas encore transformé",
+     "About 10 grams of unconverted sugar",
+     "Unos 10 gramos de azúcar aún sin transformar"
+    ]
+   ],
+   "e": [
+    "Il 10% del volume è alcol: in 1000 ml sono circa 100 ml.",
+    "10 % du volume est de l'alcool : sur 1 000 ml, cela fait environ 100 ml.",
+    "10% of the volume is alcohol: in 1,000 ml that is about 100 ml.",
+    "El 10 % del volumen es alcohol: en 1.000 ml son unos 100 ml."
+   ],
+   "d": [
+    "abv è una percentuale di volume, non un peso né una misura di zucchero. Il proof è un altro sistema di scrittura (10% abv = 20 proof), ma non cambia la quantità reale di alcol.",
+    "L'abv est un pourcentage de volume, ni un poids ni une mesure de sucre. Le proof est un autre système d'écriture (10 % abv = 20 proof), mais il ne change pas la quantité réelle d'alcool.",
+    "abv is a percentage of volume, not a weight or a sugar measure. Proof is another way of writing it (10% abv = 20 proof), but it does not change the real amount of alcohol.",
+    "El abv es un porcentaje de volumen, no un peso ni una medida de azúcar. El proof es otra forma de expresarlo (10 % abv = 20 proof), pero no cambia la cantidad real de alcohol."
+   ]
+  },
+  {
+   "c": "p1",
+   "q": [
+    "Da circa il 10% dopo la fermentazione a circa il 75% dopo la distillazione: di quanto si concentra più o meno l'etanolo?",
+    "D'environ 10 % après fermentation à environ 75 % après distillation : de combien l'éthanol est-il à peu près concentré ?",
+    "From about 10% after fermentation to about 75% after distillation: roughly how much is the ethanol concentrated?",
+    "De alrededor del 10 % tras la fermentación a alrededor del 75 % tras la destilación: ¿cuánto se concentra más o menos el etanol?"
+   ],
+   "o": [
+    [
+     "Circa sette volte e mezzo",
+     "Environ sept fois et demie",
+     "About seven and a half times",
+     "Unas siete veces y media"
+    ],
+    [
+     "Circa due volte",
+     "Environ deux fois",
+     "About twice",
+     "Unas dos veces"
+    ],
+    [
+     "Circa cento volte",
+     "Environ cent fois",
+     "About a hundred times",
+     "Unas cien veces"
+    ],
+    [
+     "Non si concentra: cambia solo il colore del liquido",
+     "Il n'est pas concentré : seule la couleur du liquide change",
+     "It is not concentrated: only the liquid's colour changes",
+     "No se concentra: solo cambia el color del líquido"
+    ]
+   ],
+   "e": [
+    "Passare da 10% a 75% significa concentrare l'etanolo di circa 7,5 volte.",
+    "Passer de 10 % à 75 % revient à concentrer l'éthanol environ 7,5 fois.",
+    "Going from 10% to 75% means concentrating the ethanol about 7.5 times.",
+    "Pasar del 10 % al 75 % supone concentrar el etanol unas 7,5 veces."
+   ],
+   "d": [
+    "Questo effetto di concentrazione vale anche per i congeneri scelti, e per i difetti della materia prima: per questo serve un ingrediente sano. Il distillato appena prodotto resta incolore.",
+    "Cet effet de concentration vaut aussi pour les congénères retenus, et pour les défauts de la matière première : d'où la nécessité d'un ingrédient sain. Le spiritueux fraîchement distillé reste incolore.",
+    "This concentrating effect also applies to the congeners kept, and to any flaws in the raw material, which is why sound ingredients matter. Newly made spirit stays colourless.",
+    "Este efecto de concentración vale también para los congéneres elegidos y para los defectos de la materia prima: por eso hace falta un ingrediente sano. El destilado recién hecho sigue incoloro."
    ]
   },
   {
@@ -3811,10 +3811,10 @@
   {
    "c": "p3",
    "q": [
-    "In un alambicco discontinuo, quale parte si trova tra il capitello e il braccio?",
-    "Sur un alambic à repasse, quelle partie se trouve entre le chapiteau et le bras ?",
-    "On a pot still, which part sits between the still head and the lyne arm?",
-    "En un alambique discontinuo, ¿qué parte está entre el capitel y el brazo?"
+    "In un alambicco discontinuo di tipo scozzese, quale parte si trova tra la testa dell'alambicco e il lyne arm?",
+    "Sur un alambic à repasse de type écossais, quelle partie se trouve entre la tête de l'alambic et le lyne arm ?",
+    "On a Scottish-style pot still, which part sits between the still head and the lyne arm?",
+    "En un alambique discontinuo de tipo escocés, ¿qué parte está entre la cabeza del alambique y el lyne arm?"
    ],
    "o": [
     [
@@ -3849,10 +3849,10 @@
     "Sobre el capitel, el alambique se estrecha en el cuello de cisne, del que sale el brazo hacia el condensador."
    ],
    "d": [
-    "Il percorso dei vapori è: caldaia, capitello, collo di cigno, braccio, condensatore. Lo scarico è in fondo alla caldaia e serve solo a svuotarla.",
-    "Le trajet des vapeurs est : chaudière, chapiteau, col de cygne, bras, condenseur. La vidange est au fond de la chaudière et sert seulement à la vider.",
-    "The vapour path is pot, still head, swan neck, lyne arm, condenser. The drain is at the bottom of the pot and only empties it.",
-    "El recorrido de los vapores es: caldera, capitel, cuello de cisne, brazo, condensador. El desagüe está en el fondo de la caldera y solo sirve para vaciarla."
+    "Il percorso dei vapori è: caldaia, capitello, collo di cigno, braccio, condensatore. Lo scarico è in fondo alla caldaia e serve solo a svuotarla. (In Cognac i nomi cambiano: lì il «collo di cigno» è il tubo che porta al condensatore.)",
+    "Le trajet des vapeurs est : chaudière, chapiteau, col de cygne, bras, condenseur. La vidange est au fond de la chaudière et sert seulement à la vider. (À Cognac les noms changent : le « col de cygne » y désigne le tube qui mène au condenseur.)",
+    "The vapour path is pot, still head, swan neck, lyne arm, condenser. The drain is at the bottom of the pot and only empties it. (In Cognac the names differ: there the 'swan neck' is the tube leading to the condenser.)",
+    "El recorrido de los vapores es: caldera, capitel, cuello de cisne, brazo, condensador. El desagüe está en el fondo de la caldera y solo sirve para vaciarla. (En Cognac los nombres cambian: allí el «cuello de cisne» es el tubo que lleva al condensador.)"
    ]
   },
   {

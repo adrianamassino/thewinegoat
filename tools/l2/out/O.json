@@ -1,0 +1,3240 @@
+{
+ "lessons": [],
+ "questions": [
+  {
+   "c": "t1",
+   "q": [
+    "Una cantina contiene bottiglie con tappo di sughero e bottiglie con tappo a vite. Quale sistemazione è corretta?",
+    "Une cave contient des bouteilles bouchées liège et d'autres capsulées à vis. Quel rangement est correct ?",
+    "A cellar holds both cork-sealed and screwcap bottles. Which storage plan is correct?",
+    "Una bodega tiene botellas con tapón de corcho y otras con tapón de rosca. ¿Qué forma de guardarlas es correcta?"
+   ],
+   "o": [
+    [
+     "Sughero coricate; tappo a vite anche in piedi",
+     "Liège couchées ; vis possibles debout",
+     "Cork bottles lying down; screwcaps may stand",
+     "Corcho tumbadas; rosca pueden ir de pie"
+    ],
+    [
+     "Tutte in piedi, così il deposito si raccoglie sul fondo della bottiglia",
+     "Toutes debout, pour que le dépôt se rassemble au fond de la bouteille",
+     "All standing up, so any deposit collects at the bottom of the bottle",
+     "Todas de pie, para que el posible poso se acumule en el fondo"
+    ],
+    [
+     "Tappo a vite coricate; sughero in piedi",
+     "Vis couchées ; liège debout",
+     "Screwcaps lying down; cork bottles standing",
+     "Rosca tumbadas; corcho de pie"
+    ],
+    [
+     "Tutte coricate, perché il tappo a vite si secca",
+     "Toutes couchées, car la capsule à vis sèche",
+     "All lying down, because screwcaps dry out",
+     "Todas tumbadas, porque la rosca se reseca"
+    ]
+   ],
+   "e": [
+    "Solo il sughero deve restare a contatto col vino per non seccarsi; il tappo a vite non ha questo problema.",
+    "Seul le liège doit rester au contact du vin pour ne pas sécher ; la capsule à vis n'a pas ce souci.",
+    "Only a cork needs to stay in contact with the wine so it does not dry out; a screwcap has no such need.",
+    "Solo el corcho necesita seguir en contacto con el vino para no secarse; la rosca no tiene ese problema."
+   ],
+   "d": [
+    "Un sughero secco si restringe e lascia entrare aria, quindi le bottiglie tappate così vanno tenute coricate. Il tappo a vite chiude bene in ogni posizione, quindi la bottiglia può stare dritta. Un tappo a vite non si secca, e tenere in piedi una bottiglia col sughero per anni è proprio ciò che bisogna evitare.",
+    "Un liège sec se rétracte et laisse entrer l'air : ces bouteilles se gardent donc couchées. La capsule à vis ferme bien dans toutes les positions, la bouteille peut rester debout. Une capsule ne sèche pas, et garder une bouteille bouchée liège debout pendant des années est justement ce qu'il faut éviter.",
+    "A dry cork shrinks and lets air in, so cork-sealed bottles are kept on their side. A screwcap seals well in any position, so its bottle can stand. Screwcaps do not dry out, and keeping a cork-sealed bottle upright for years is exactly what to avoid.",
+    "Un corcho seco encoge y deja entrar aire, por eso esas botellas se guardan tumbadas. La rosca cierra bien en cualquier posición, así que la botella puede ir de pie. La rosca no se reseca, y guardar de pie durante años una botella con corcho es justo lo que hay que evitar."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Quale di queste NON è una buona regola per conservare il vino a lungo?",
+    "Laquelle de ces règles n'est PAS adaptée à la conservation longue du vin ?",
+    "Which of these is NOT a good rule for storing wine long term?",
+    "¿Cuál de estas NO es una buena norma para guardar vino a largo plazo?"
+   ],
+   "o": [
+    [
+     "Tenerlo al caldo per farlo maturare prima",
+     "Le garder au chaud pour qu'il mûrisse plus vite",
+     "Keep it warm so that it matures faster",
+     "Guardarlo en un lugar cálido para que madure antes"
+    ],
+    [
+     "Tenerlo lontano dal sole forte e dalle luci artificiali più intense",
+     "Le tenir loin du soleil fort et des lumières artificielles vives",
+     "Keep it away from strong sunshine and bright artificial lighting",
+     "Mantenerlo lejos del sol intenso y de la luz artificial fuerte"
+    ],
+    [
+     "Tenere coricate le bottiglie chiuse con tappo di sughero",
+     "Garder couchées les bouteilles bouchées liège",
+     "Keep cork-sealed bottles lying on their side",
+     "Guardar tumbadas las botellas con tapón de corcho"
+    ],
+    [
+     "Mantenere una temperatura fresca e costante",
+     "Maintenir une température fraîche et constante",
+     "Keep the temperature cool and constant",
+     "Mantener una temperatura fresca y constante"
+    ]
+   ],
+   "e": [
+    "Il calore danneggia il vino: la conservazione ideale è fresca e costante.",
+    "La chaleur abîme le vin : la conservation idéale est fraîche et constante.",
+    "Heat damages wine: ideal storage is cool and constant.",
+    "El calor daña el vino: lo ideal es un lugar fresco y constante."
+   ],
+   "d": [
+    "Le tre regole di base sono: temperatura fresca e stabile, niente luce forte, bottiglie col sughero coricate. Il calore non 'accelera' un invecchiamento positivo: fa perdere freschezza e frutto e può portare a difetti. Le altre tre opzioni sono proprio le regole corrette.",
+    "Les trois règles de base : température fraîche et stable, pas de lumière forte, bouteilles bouchées liège couchées. La chaleur n'« accélère » pas un bon vieillissement : elle fait perdre fraîcheur et fruit et peut créer des défauts. Les trois autres options sont justement les bonnes règles.",
+    "The three basic rules are: cool, steady temperature; no strong light; cork-sealed bottles on their side. Heat does not 'speed up' good ageing: it strips freshness and fruit and can lead to faults. The other three options are exactly the correct rules.",
+    "Las tres reglas básicas son: temperatura fresca y estable, nada de luz fuerte y botellas con corcho tumbadas. El calor no 'acelera' un buen envejecimiento: quita frescura y fruta y puede provocar defectos. Las otras tres opciones son precisamente las reglas correctas."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Oltre alla luce in sé, che cosa rende dannose per il vino le lampade molto intense?",
+    "Outre la lumière elle-même, qu'est-ce qui rend les lampes très vives nocives pour le vin ?",
+    "Apart from the light itself, what else makes very bright lamps harmful to stored wine?",
+    "Además de la propia luz, ¿qué más hace que las lámparas muy potentes dañen el vino?"
+   ],
+   "o": [
+    [
+     "Il calore che producono",
+     "La chaleur qu'elles produisent",
+     "The heat they give off",
+     "El calor que desprenden"
+    ],
+    [
+     "Le vibrazioni elettriche che trasmettono alle bottiglie sugli scaffali",
+     "Les vibrations électriques qu'elles transmettent aux bouteilles",
+     "The electrical vibrations they pass on to the bottles on the shelves",
+     "Las vibraciones eléctricas que transmiten a las botellas de los estantes"
+    ],
+    [
+     "L'umidità che fanno salire",
+     "L'humidité qu'elles font monter",
+     "The humidity they raise",
+     "La humedad que hacen subir"
+    ],
+    [
+     "Il freddo che portano di notte",
+     "Le froid qu'elles amènent la nuit",
+     "The cold they bring at night",
+     "El frío que traen por la noche"
+    ]
+   ],
+   "e": [
+    "Sole e luci forti danneggiano il vino sia con la luce sia con il calore che generano.",
+    "Le soleil et les lumières vives abîment le vin par la lumière et par la chaleur qu'ils dégagent.",
+    "Sunshine and bright lights harm wine through both their light and the heat they generate.",
+    "El sol y las luces fuertes dañan el vino tanto por la luz como por el calor que generan."
+   ],
+   "d": [
+    "Luce e calore insieme possono far perdere al vino il carattere fruttato atteso. Per questo le bottiglie esposte in vetrina o sotto faretti si rovinano anche senza sole diretto. Vibrazioni, umidità e freddo notturno non sono il motivo per cui si evitano le luci forti.",
+    "Lumière et chaleur ensemble peuvent faire perdre au vin le fruit attendu. Voilà pourquoi des bouteilles en vitrine ou sous des spots s'abîment même sans soleil direct. Vibrations, humidité et froid nocturne ne sont pas la raison pour laquelle on évite les lumières vives.",
+    "Light and heat together can make a wine lose its expected fruit character. That is why bottles in a shop window or under spotlights suffer even without direct sun. Vibration, humidity and night-time cold are not why bright lights are avoided.",
+    "Luz y calor juntos pueden hacer que el vino pierda el carácter frutal esperado. Por eso las botellas de un escaparate o bajo focos se estropean aunque no les dé el sol. Las vibraciones, la humedad o el frío nocturno no son la razón para evitar las luces fuertes."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Un garage è gelido d'inverno e caldissimo d'estate. Perché non è adatto a conservare vino a lungo?",
+    "Un garage est glacial l'hiver et très chaud l'été. Pourquoi ne convient-il pas pour garder du vin longtemps ?",
+    "A garage is freezing in winter and very hot in summer. Why is it unsuitable for storing wine long term?",
+    "Un garaje está helado en invierno y muy caliente en verano. ¿Por qué no sirve para guardar vino mucho tiempo?"
+   ],
+   "o": [
+    [
+     "Estremi e sbalzi di temperatura danneggiano il vino",
+     "Les extrêmes et les écarts de température abîment le vin",
+     "Extremes and swings of temperature damage wine",
+     "Los extremos y cambios de temperatura dañan el vino"
+    ],
+    [
+     "Solo il caldo estivo è un problema, il freddo dell'inverno invece protegge il vino",
+     "Seule la chaleur estivale pose problème, le froid de l'hiver protège le vin",
+     "Only the summer heat matters; winter cold actually protects the wine",
+     "Solo importa el calor del verano; el frío del invierno protege el vino"
+    ],
+    [
+     "Il vino ha bisogno di caldo costante",
+     "Le vin a besoin d'une chaleur constante",
+     "Wine needs constant warmth",
+     "El vino necesita calor constante"
+    ],
+    [
+     "Il buio totale fa ossidare il vino",
+     "L'obscurité totale fait oxyder le vin",
+     "Total darkness makes wine oxidise",
+     "La oscuridad total oxida el vino"
+    ]
+   ],
+   "e": [
+    "Il vino vuole fresco e costante: sia gli estremi di caldo e freddo sia i grandi sbalzi lo rovinano.",
+    "Le vin veut du frais et du constant : les extrêmes de chaud et de froid comme les grands écarts l'abîment.",
+    "Wine needs cool, constant conditions: both extremes of heat and cold and big changes harm it.",
+    "El vino pide frescor constante: tanto los extremos de calor y frío como los grandes cambios lo dañan."
+   ],
+   "d": [
+    "Non è solo il caldo il nemico: anche il freddo estremo e le forti variazioni stagionali possono rovinare il vino. Il buio, al contrario, è un vantaggio. 'Caldo costante' è sbagliato perché il vino va tenuto fresco, non caldo.",
+    "La chaleur n'est pas le seul ennemi : le froid extrême et les fortes variations saisonnières peuvent aussi abîmer le vin. L'obscurité, elle, est un atout. « Chaleur constante » est faux : le vin se garde au frais, pas au chaud.",
+    "Heat is not the only enemy: extreme cold and large seasonal swings can damage wine too. Darkness, on the other hand, is a benefit. 'Constant warmth' is wrong because wine should be kept cool, not warm.",
+    "El calor no es el único enemigo: el frío extremo y las grandes oscilaciones de temperatura también pueden dañar el vino. La oscuridad, en cambio, es una ventaja. 'Calor constante' es incorrecto, porque el vino se guarda fresco, no caliente."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Perché la posizione della bottiglia non conta per i vini con tappo a vite?",
+    "Pourquoi la position de la bouteille n'a-t-elle pas d'importance pour les vins capsulés à vis ?",
+    "Why does bottle position not matter for screwcap wines?",
+    "¿Por qué la posición de la botella no importa en los vinos con tapón de rosca?"
+   ],
+   "o": [
+    [
+     "Non c'è un sughero da mantenere umido",
+     "Il n'y a pas de liège à garder humide",
+     "There is no cork to keep moist",
+     "No hay un corcho que mantener húmedo"
+    ],
+    [
+     "Il tappo a vite lascia passare un po' d'aria che aiuta il vino a maturare",
+     "La capsule laisse passer un peu d'air qui aide le vin à mûrir",
+     "The screwcap lets a little air through, which helps the wine mature",
+     "La rosca deja pasar algo de aire que ayuda al vino a madurar"
+    ],
+    [
+     "Sono sempre vini da bere subito",
+     "Ce sont toujours des vins à boire tout de suite",
+     "They are always wines to drink at once",
+     "Siempre son vinos para beber enseguida"
+    ],
+    [
+     "Il metallo protegge dalla luce",
+     "Le métal protège de la lumière",
+     "The metal protects from light",
+     "El metal protege de la luz"
+    ]
+   ],
+   "e": [
+    "Si coricano le bottiglie per tenere umido il sughero; senza sughero il motivo sparisce.",
+    "On couche les bouteilles pour garder le liège humide ; sans liège, la raison disparaît.",
+    "Bottles are laid down to keep a cork moist; with no cork, the reason disappears.",
+    "Las botellas se tumban para mantener húmedo el corcho; sin corcho, el motivo desaparece."
+   ],
+   "d": [
+    "Il tappo a vite non si secca e non si restringe, quindi la bottiglia può stare in piedi senza rischi. Non è vero che lasci passare aria per far maturare il vino, né che tutti i vini con tappo a vite siano da bere subito. Il tappo protegge solo la chiusura, non il vino dalla luce.",
+    "La capsule à vis ne sèche pas et ne se rétracte pas : la bouteille peut rester debout sans risque. Elle ne laisse pas passer d'air « pour faire mûrir » le vin, et tous les vins capsulés ne sont pas à boire tout de suite. Elle ne protège pas le vin de la lumière.",
+    "A screwcap does not dry out or shrink, so the bottle can stand without risk. It does not let air in to help maturation, and not every screwcap wine is for drinking at once. The cap does not shield the wine from light either.",
+    "La rosca no se seca ni encoge, así que la botella puede ir de pie sin riesgo. No es cierto que deje pasar aire para que el vino madure, ni que todos los vinos con rosca sean para beber enseguida. Tampoco protege al vino de la luz."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "In che ordine compaiono di solito gli effetti di una cattiva conservazione?",
+    "Dans quel ordre apparaissent en général les effets d'une mauvaise conservation ?",
+    "In what order do the effects of poor storage usually appear?",
+    "¿En qué orden suelen aparecer los efectos de una mala conservación?"
+   ],
+   "o": [
+    [
+     "Prima perde carattere, poi possono comparire difetti",
+     "D'abord perte de caractère, puis défauts possibles",
+     "First loss of character, then possible faults",
+     "Primero pierde carácter, luego pueden surgir defectos"
+    ],
+    [
+     "Prima compaiono subito difetti gravi, poi con il tempo il vino si riprende e migliora",
+     "D'abord des défauts graves, puis avec le temps le vin se rétablit et s'améliore",
+     "Serious faults appear at once, then over time the wine recovers and improves",
+     "Primero aparecen defectos graves y luego, con el tiempo, el vino se recupera"
+    ],
+    [
+     "Prima diventa più fruttato, poi più acido",
+     "D'abord plus fruité, puis plus acide",
+     "First fruitier, then more acidic",
+     "Primero más afrutado, luego más ácido"
+    ],
+    [
+     "Nessun effetto finché non si apre",
+     "Aucun effet avant l'ouverture",
+     "No effect until it is opened",
+     "Ningún efecto hasta abrirlo"
+    ]
+   ],
+   "e": [
+    "Un vino mal conservato all'inizio perde parte del suo carattere e alla fine può sviluppare difetti.",
+    "Un vin mal conservé perd d'abord une partie de son caractère et peut finir par développer des défauts.",
+    "A badly stored wine first loses some character and can eventually develop faults.",
+    "Un vino mal guardado primero pierde parte de su carácter y al final puede desarrollar defectos."
+   ],
+   "d": [
+    "Il danno è graduale: prima si attenua il carattere atteso (freschezza, frutto), poi, se le cattive condizioni continuano, arrivano veri difetti. Il vino non 'guarisce' da solo e non diventa più fruttato. Il danno avviene nella bottiglia chiusa, non solo dopo l'apertura.",
+    "Les dégâts sont progressifs : le caractère attendu (fraîcheur, fruit) s'estompe d'abord, puis, si les mauvaises conditions durent, de vrais défauts apparaissent. Le vin ne « guérit » pas et ne devient pas plus fruité. Le mal se fait dans la bouteille fermée, pas seulement après ouverture.",
+    "The damage is gradual: the expected character (freshness, fruit) fades first, then, if poor conditions continue, real faults appear. The wine does not 'heal' or become fruitier. The harm happens in the closed bottle, not only after opening.",
+    "El daño es gradual: primero se apaga el carácter esperado (frescura, fruta) y, si las malas condiciones siguen, aparecen defectos reales. El vino no se 'cura' ni gana fruta. El daño ocurre en la botella cerrada, no solo después de abrirla."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Una bottiglia è rimasta settimane in vetrina al sole. Aperta, è piatta e senza frutto. Di quale problema si tratta probabilmente?",
+    "Une bouteille est restée des semaines en vitrine au soleil. À l'ouverture, elle est plate et sans fruit. De quel problème s'agit-il sans doute ?",
+    "A bottle spent weeks in a sunny shop window. When opened it is flat and lacks fruit. What is the likely problem?",
+    "Una botella pasó semanas al sol en un escaparate. Al abrirla está plana y sin fruta. ¿Qué problema es el más probable?"
+   ],
+   "o": [
+    [
+     "Danno da calore",
+     "Dommage dû à la chaleur",
+     "Heat damage",
+     "Daño por calor"
+    ],
+    [
+     "Sentore di tappo dovuto a un sughero contaminato da TCA",
+     "Goût de bouchon dû à un liège contaminé au TCA",
+     "Cork taint from a cork contaminated with TCA",
+     "Olor a corcho por un tapón contaminado con TCA"
+    ],
+    [
+     "Troppo deposito",
+     "Trop de dépôt",
+     "Too much deposit",
+     "Demasiado poso"
+    ],
+    [
+     "Servito troppo freddo",
+     "Servi trop froid",
+     "Served too cold",
+     "Servido demasiado frío"
+    ]
+   ],
+   "e": [
+    "Calore, sole diretto o luci forti fanno perdere rapidamente freschezza e frutto: è il danno da calore.",
+    "Chaleur, soleil direct ou lumières vives font vite perdre fraîcheur et fruit : c'est le dommage dû à la chaleur.",
+    "Heat, direct sun or bright lights quickly strip freshness and fruit: this is heat damage.",
+    "El calor, el sol directo o las luces fuertes quitan rápido la frescura y la fruta: es daño por calor."
+   ],
+   "d": [
+    "La storia della bottiglia (vetrina, sole, settimane) indica il calore. Il sentore di tappo darebbe note di cartone bagnato e dipende dal sughero, non dall'esposizione. Il deposito non toglie frutto e un vino troppo freddo si riprende scaldandosi.",
+    "L'histoire de la bouteille (vitrine, soleil, semaines) désigne la chaleur. Le goût de bouchon donnerait du carton mouillé et vient du liège, pas de l'exposition. Le dépôt n'ôte pas le fruit, et un vin trop froid se rattrape en se réchauffant.",
+    "The bottle's history (window, sun, weeks) points to heat. Cork taint would give damp-cardboard notes and comes from the cork, not exposure. Deposit does not remove fruit, and a too-cold wine recovers as it warms.",
+    "La historia de la botella (escaparate, sol, semanas) apunta al calor. El olor a corcho daría notas de cartón mojado y viene del tapón, no de la exposición. El poso no quita fruta y un vino demasiado frío se recupera al calentarse."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Perché una bottiglia aperta diventa 'stanca' col passare del tempo?",
+    "Pourquoi une bouteille ouverte devient-elle « éventée » avec le temps ?",
+    "Why does an opened bottle of wine slowly go stale?",
+    "¿Por qué una botella abierta se va 'apagando' con el tiempo?"
+   ],
+   "o": [
+    [
+     "Reagisce con l'aria",
+     "Il réagit avec l'air",
+     "It reacts with the air",
+     "Reacciona con el aire"
+    ],
+    [
+     "L'alcol evapora e lascia nel bicchiere solo acqua e zucchero",
+     "L'alcool s'évapore et ne laisse que de l'eau et du sucre",
+     "The alcohol evaporates and leaves only water and sugar behind",
+     "El alcohol se evapora y deja solo agua y azúcar"
+    ],
+    [
+     "Riprende a fermentare",
+     "Il se remet à fermenter",
+     "It starts fermenting again",
+     "Vuelve a fermentar"
+    ],
+    [
+     "Il tannino si trasforma in zucchero",
+     "Le tanin se transforme en sucre",
+     "The tannin turns into sugar",
+     "El tanino se convierte en azúcar"
+    ]
+   ],
+   "e": [
+    "Una volta aperto, il vino entra in contatto con l'aria e perde a poco a poco il suo carattere fresco.",
+    "Une fois ouvert, le vin est au contact de l'air et perd peu à peu son caractère frais.",
+    "Once opened, wine is in contact with air and gradually loses its fresh character.",
+    "Una vez abierto, el vino está en contacto con el aire y pierde poco a poco su carácter fresco."
+   ],
+   "d": [
+    "Tutti i sistemi per conservare il vino aperto (tappo e frigo, vuoto, gas inerte) puntano a limitare il contatto con l'aria. Non è l'evaporazione dell'alcol a renderlo stanco, né una nuova fermentazione. Il tannino non diventa zucchero.",
+    "Toutes les solutions pour garder un vin ouvert (bouchon et frigo, vide, gaz inerte) visent à limiter le contact avec l'air. Ce n'est ni l'évaporation de l'alcool ni une nouvelle fermentation. Le tanin ne devient pas du sucre.",
+    "Every method for keeping opened wine (cork and fridge, vacuum, inert gas) aims to limit contact with air. Staleness is not caused by alcohol evaporating or by a new fermentation. Tannin does not turn into sugar.",
+    "Todos los métodos para conservar el vino abierto (tapón y nevera, vacío, gas inerte) buscan limitar el contacto con el aire. No se debe a que el alcohol se evapore ni a una nueva fermentación. El tanino no se convierte en azúcar."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Qual è la differenza principale tra un sistema a vuoto e un sistema a gas inerte?",
+    "Quelle est la principale différence entre un système sous vide et un système à gaz inerte ?",
+    "What is the key difference between a vacuum system and an inert gas system?",
+    "¿Cuál es la diferencia principal entre un sistema de vacío y uno de gas inerte?"
+   ],
+   "o": [
+    [
+     "Il primo toglie l'aria, il secondo isola il vino dall'aria con un gas",
+     "Le premier retire l'air, le second isole le vin de l'air par un gaz",
+     "One pumps air out; the other shields the wine from air with a gas",
+     "Uno saca el aire; el otro aísla el vino del aire con un gas"
+    ],
+    [
+     "Il primo raffredda il vino, il secondo lo scalda",
+     "Le premier refroidit le vin, le second le réchauffe",
+     "One chills the wine; the other warms it",
+     "Uno enfría el vino; el otro lo calienta"
+    ],
+    [
+     "Il primo è per i rossi, il secondo per i bianchi",
+     "Le premier pour les rouges, le second pour les blancs",
+     "One is for reds; the other is for whites",
+     "Uno es para tintos; el otro para blancos"
+    ],
+    [
+     "Il primo aggiunge ossigeno, il secondo anidride carbonica",
+     "Le premier ajoute de l'oxygène, le second du CO2",
+     "One adds oxygen; the other adds carbon dioxide",
+     "Uno añade oxígeno; el otro dióxido de carbono"
+    ]
+   ],
+   "e": [
+    "Il vuoto usa una pompa per estrarre l'aria; il gas inerte (azoto, argon) evita che il vino tocchi l'aria.",
+    "Le vide utilise une pompe pour retirer l'air ; le gaz inerte (azote, argon) empêche le vin de toucher l'air.",
+    "Vacuum uses a pump to remove air; inert gas (nitrogen, argon) stops the wine touching air.",
+    "El vacío usa una bomba para sacar el aire; el gas inerte (nitrógeno, argón) evita que el vino toque el aire."
+   ],
+   "d": [
+    "Entrambi hanno lo stesso scopo, ridurre il contatto con l'aria, ma con mezzi diversi: togliere l'aria oppure metterci 'davanti' un gas che non reagisce col vino. Nessuno dei due scalda o raffredda il vino, e si usano per qualunque colore. Aggiungere ossigeno farebbe l'opposto di ciò che si vuole.",
+    "Les deux ont le même but, limiter le contact avec l'air, par des moyens différents : retirer l'air ou interposer un gaz qui ne réagit pas avec le vin. Aucun ne chauffe ni ne refroidit le vin, et ils servent pour toutes les couleurs. Ajouter de l'oxygène ferait l'inverse du but recherché.",
+    "Both share one goal, limiting contact with air, by different means: removing the air or placing a gas that does not react with wine between them. Neither heats nor chills the wine, and both work for any colour. Adding oxygen would do the opposite of what is wanted.",
+    "Ambos buscan lo mismo, limitar el contacto con el aire, por caminos distintos: sacar el aire o interponer un gas que no reacciona con el vino. Ninguno calienta ni enfría el vino y sirven para cualquier color. Añadir oxígeno haría justo lo contrario."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Quale di questi gas NON verrebbe mai usato per proteggere un vino aperto?",
+    "Lequel de ces gaz ne serait JAMAIS utilisé pour protéger un vin ouvert ?",
+    "Which of these gases would NEVER be used to protect an opened wine?",
+    "¿Cuál de estos gases NUNCA se usaría para proteger un vino abierto?"
+   ],
+   "o": [
+    [
+     "Ossigeno",
+     "Oxygène",
+     "Oxygen",
+     "Oxígeno"
+    ],
+    [
+     "Argon",
+     "Argon",
+     "Argon",
+     "Argón"
+    ],
+    [
+     "Azoto",
+     "Azote",
+     "Nitrogen",
+     "Nitrógeno"
+    ],
+    [
+     "Una miscela di azoto e argon, i due gas inerti più comuni",
+     "Un mélange d'azote et d'argon, les deux gaz inertes courants",
+     "A blend of nitrogen and argon, the two common inert gases",
+     "Una mezcla de nitrógeno y argón, los dos gases inertes habituales"
+    ]
+   ],
+   "e": [
+    "L'ossigeno è proprio ciò che rende stanco il vino aperto; si usano gas inerti come azoto e argon.",
+    "L'oxygène est justement ce qui évente le vin ouvert ; on utilise des gaz inertes comme l'azote et l'argon.",
+    "Oxygen is exactly what makes opened wine go stale; inert gases such as nitrogen and argon are used.",
+    "El oxígeno es justo lo que apaga el vino abierto; se usan gases inertes como el nitrógeno y el argón."
+   ],
+   "d": [
+    "Un gas è utile solo se non reagisce col vino: azoto e argon sono 'inerti' e quindi adatti, anche miscelati. L'ossigeno invece reagisce con il vino e lo ossida, togliendo freschezza e frutto.",
+    "Un gaz n'est utile que s'il ne réagit pas avec le vin : azote et argon sont « inertes », donc adaptés, même mélangés. L'oxygène, lui, réagit avec le vin et l'oxyde, lui ôtant fraîcheur et fruit.",
+    "A gas only helps if it does not react with wine: nitrogen and argon are 'inert', so they are suitable, even blended. Oxygen, by contrast, reacts with wine and oxidises it, removing freshness and fruit.",
+    "Un gas solo sirve si no reacciona con el vino: el nitrógeno y el argón son 'inertes' y por tanto adecuados, incluso mezclados. El oxígeno, en cambio, reacciona con el vino y lo oxida, quitándole frescura y fruta."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Quale affermazione sui sistemi a gas inerte è corretta?",
+    "Quelle affirmation sur les systèmes à gaz inerte est correcte ?",
+    "Which statement about inert gas systems is correct?",
+    "¿Qué afirmación sobre los sistemas de gas inerte es correcta?"
+   ],
+   "o": [
+    [
+     "Il gas resta nella bottiglia e tiene l'aria lontana dal vino",
+     "Le gaz reste dans la bouteille et tient l'air à l'écart du vin",
+     "The gas sits in the bottle and keeps air away from the wine",
+     "El gas queda en la botella y mantiene el aire lejos del vino"
+    ],
+    [
+     "Il gas si scioglie nel vino e gli restituisce freschezza e aromi fruttati",
+     "Le gaz se dissout dans le vin et lui rend fraîcheur et arômes fruités",
+     "The gas dissolves into the wine and restores its freshness and fruit",
+     "El gas se disuelve en el vino y le devuelve frescura y fruta"
+    ],
+    [
+     "Funzionano solo con il tappo a vite",
+     "Ils ne marchent qu'avec une capsule à vis",
+     "They only work with screwcaps",
+     "Solo funcionan con tapón de rosca"
+    ],
+    [
+     "Servono a rendere frizzante il vino",
+     "Ils servent à rendre le vin pétillant",
+     "They are used to make the wine fizzy",
+     "Sirven para hacer el vino espumoso"
+    ]
+   ],
+   "e": [
+    "Il gas inerte occupa lo spazio sopra il vino così che non entri in contatto con l'aria.",
+    "Le gaz inerte occupe l'espace au-dessus du vin pour qu'il ne touche pas l'air.",
+    "The inert gas fills the space above the wine so it does not come into contact with air.",
+    "El gas inerte ocupa el espacio sobre el vino para que no entre en contacto con el aire."
+   ],
+   "d": [
+    "Questi gas non reagiscono col vino: non aggiungono né tolgono aromi, si limitano a proteggerlo. Non 'ringiovaniscono' un vino già stanco e non lo rendono frizzante. Si usano con qualsiasi bottiglia aperta, non solo con tappo a vite.",
+    "Ces gaz ne réagissent pas avec le vin : ils n'ajoutent ni n'enlèvent d'arômes, ils le protègent seulement. Ils ne « rajeunissent » pas un vin éventé et ne le rendent pas pétillant. On les utilise avec toute bouteille ouverte, pas seulement capsulée.",
+    "These gases do not react with wine: they add or remove no aromas, they simply protect it. They cannot 'refresh' a wine that is already stale, nor make it fizzy. They work with any opened bottle, not just screwcaps.",
+    "Estos gases no reaccionan con el vino: no añaden ni quitan aromas, solo lo protegen. No 'rejuvenecen' un vino ya apagado ni lo vuelven espumoso. Se usan con cualquier botella abierta, no solo con rosca."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Perché una buona conservazione conta anche per i vini destinati a invecchiare in bottiglia?",
+    "Pourquoi une bonne conservation compte-t-elle aussi pour les vins destinés à vieillir en bouteille ?",
+    "Why does correct storage also matter for wines meant to age in bottle?",
+    "¿Por qué importa una buena conservación también en los vinos pensados para envejecer en botella?"
+   ],
+   "o": [
+    [
+     "Permette loro di maturare bene invece di rovinarsi",
+     "Elle leur permet de bien évoluer au lieu de s'abîmer",
+     "It lets them mature well rather than spoil",
+     "Les permite madurar bien en lugar de estropearse"
+    ],
+    [
+     "Non conta: i vini da invecchiamento resistono a qualsiasi condizione grazie al tannino",
+     "Elle ne compte pas : les vins de garde résistent à tout grâce au tanin",
+     "It does not matter: ageworthy wines withstand any conditions thanks to tannin",
+     "No importa: los vinos de guarda resisten cualquier condición gracias al tanino"
+    ],
+    [
+     "Serve solo a mantenere l'etichetta pulita",
+     "Elle sert seulement à garder l'étiquette propre",
+     "It only keeps the label clean",
+     "Solo sirve para mantener limpia la etiqueta"
+    ],
+    [
+     "Serve a farli diventare più dolci",
+     "Elle sert à les rendre plus doux",
+     "It makes them sweeter",
+     "Sirve para hacerlos más dulces"
+    ]
+   ],
+   "e": [
+    "Le giuste condizioni servono sia a mantenere fresco un vino sia a farlo maturare in bottiglia.",
+    "Les bonnes conditions servent autant à garder un vin frais qu'à le faire évoluer en bouteille.",
+    "The right conditions are needed both to keep a wine fresh and to let it mature in bottle.",
+    "Las condiciones adecuadas sirven tanto para mantener fresco un vino como para dejarlo madurar en botella."
+   ],
+   "d": [
+    "Un vino da lungo invecchiamento passa anni in bottiglia, quindi è esposto più a lungo a calore, luce e sbalzi. Il tannino non lo rende immune. La conservazione non cambia la dolcezza e non serve all'estetica dell'etichetta.",
+    "Un vin de garde passe des années en bouteille et reste donc plus longtemps exposé à la chaleur, à la lumière et aux écarts. Le tanin ne l'immunise pas. La conservation ne change pas la douceur et ne sert pas à l'esthétique de l'étiquette.",
+    "An ageworthy wine spends years in bottle, so it is exposed longer to heat, light and swings. Tannin does not make it immune. Storage does not change sweetness and is not about keeping the label tidy.",
+    "Un vino de guarda pasa años en botella, así que está más tiempo expuesto al calor, la luz y los cambios. El tanino no lo hace inmune. La conservación no cambia el dulzor ni sirve para cuidar la etiqueta."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Un'enoteca tiene alcune bottiglie per poche settimane sotto faretti potenti. Quale affermazione è corretta?",
+    "Une cave à vins garde quelques bouteilles quelques semaines sous des spots puissants. Quelle affirmation est correcte ?",
+    "A wine shop keeps some bottles under powerful spotlights for just a few weeks. Which statement is correct?",
+    "Una tienda de vinos tiene unas botellas pocas semanas bajo focos potentes. ¿Qué afirmación es correcta?"
+   ],
+   "o": [
+    [
+     "Anche così poco tempo può danneggiarle",
+     "Même si peu de temps peut les abîmer",
+     "Even this short time can damage them",
+     "Incluso tan poco tiempo puede dañarlas"
+    ],
+    [
+     "Nessun rischio: le regole valgono solo per la conservazione oltre un anno",
+     "Aucun risque : les règles ne valent que pour une garde de plus d'un an",
+     "No risk: the rules only apply to storage of more than a year",
+     "Ningún riesgo: las reglas solo valen para guardar más de un año"
+    ],
+    [
+     "Nessun rischio se le bottiglie sono in piedi",
+     "Aucun risque si les bouteilles sont debout",
+     "No risk if the bottles stand up",
+     "Ningún riesgo si las botellas están de pie"
+    ],
+    [
+     "La luce artificiale non danneggia il vino",
+     "La lumière artificielle n'abîme pas le vin",
+     "Artificial light does not harm wine",
+     "La luz artificial no daña el vino"
+    ]
+   ],
+   "e": [
+    "Le buone condizioni contano sia per la conservazione lunga sia per quella breve: luci forti e calore danneggiano presto.",
+    "Les bonnes conditions comptent pour la garde longue comme courte : lumières vives et chaleur abîment vite.",
+    "Good conditions matter for short-term as well as long-term storage: bright lights and heat do harm quickly.",
+    "Las buenas condiciones importan tanto a corto como a largo plazo: las luces fuertes y el calor dañan rápido."
+   ],
+   "d": [
+    "Il danno da calore e luce può far perdere freschezza rapidamente, quindi anche poche settimane contano. Le luci artificiali intense sono esplicitamente da evitare. Tenere le bottiglie in piedi non protegge dalla luce, anzi può far seccare il sughero.",
+    "Les dégâts de chaleur et de lumière peuvent ôter vite la fraîcheur : quelques semaines suffisent. Les lumières artificielles vives sont clairement à éviter. Mettre les bouteilles debout ne protège pas de la lumière et peut même sécher le liège.",
+    "Heat and light damage can strip freshness quickly, so even a few weeks count. Bright artificial lights are specifically to be avoided. Standing bottles up gives no protection from light and may even dry out the cork.",
+    "El daño por calor y luz puede quitar frescura deprisa, así que unas semanas ya cuentan. Las luces artificiales intensas deben evitarse. Poner las botellas de pie no protege de la luz y puede secar el corcho."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Qual è lo scopo comune di tutte le tradizioni di conservazione e servizio del vino?",
+    "Quel est le but commun de toutes les traditions de conservation et de service du vin ?",
+    "What should every wine storage and service tradition ultimately aim for?",
+    "¿Cuál es el objetivo común de todas las tradiciones de conservación y servicio del vino?"
+   ],
+   "o": [
+    [
+     "Servire il vino nelle migliori condizioni",
+     "Servir le vin dans les meilleures conditions",
+     "Serving the wine in the best possible condition",
+     "Servir el vino en las mejores condiciones"
+    ],
+    [
+     "Rispettare la storia locale anche se il vino ne risente un po'",
+     "Respecter l'histoire locale, même si le vin en souffre un peu",
+     "Respecting local history, even if the wine suffers a little",
+     "Respetar la historia local aunque el vino se resienta un poco"
+    ],
+    [
+     "Far invecchiare ogni vino il più a lungo possibile",
+     "Faire vieillir chaque vin le plus longtemps possible",
+     "Ageing every wine for as long as possible",
+     "Envejecer cada vino el mayor tiempo posible"
+    ],
+    [
+     "Impressionare gli ospiti con il rituale",
+     "Impressionner les invités par le rituel",
+     "Impressing guests with the ritual",
+     "Impresionar a los invitados con el ritual"
+    ]
+   ],
+   "e": [
+    "Qualunque sia la loro origine, queste pratiche devono servire a presentare il vino al meglio.",
+    "Quelle que soit leur origine, ces pratiques doivent servir à présenter le vin au mieux.",
+    "Whatever their origin, these practices should serve to present the wine at its best.",
+    "Sea cual sea su origen, estas prácticas deben servir para presentar el vino en su mejor estado."
+   ],
+   "d": [
+    "Le tradizioni sono tante e spesso legate a un luogo, ma il criterio è sempre la qualità del vino nel bicchiere. La storia non giustifica un vino rovinato. Non tutti i vini migliorano invecchiando, e il rituale da solo non è lo scopo.",
+    "Les traditions sont nombreuses et souvent locales, mais le critère reste la qualité du vin dans le verre. L'histoire ne justifie pas un vin abîmé. Tous les vins ne gagnent pas à vieillir, et le rituel seul n'est pas le but.",
+    "Traditions are many and often local, but the yardstick is always the quality of the wine in the glass. History does not justify a spoiled wine. Not every wine improves with age, and ritual alone is not the point.",
+    "Las tradiciones son muchas y a menudo locales, pero el criterio siempre es la calidad del vino en la copa. La historia no justifica un vino estropeado. No todos los vinos mejoran con los años y el ritual por sí solo no es el fin."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Una bottiglia col sughero è rimasta in piedi per anni. Aperta, il vino è brunito e senza frutto. Qual è la catena di cause più probabile?",
+    "Une bouteille bouchée liège est restée debout des années. À l'ouverture, le vin est bruni et sans fruit. Quelle chaîne de causes est la plus probable ?",
+    "A cork-sealed bottle stood upright for years. When opened, the wine is brownish with no fruit. What chain of causes is most likely?",
+    "Una botella con corcho estuvo de pie durante años. Al abrirla, el vino está pardo y sin fruta. ¿Qué cadena de causas es la más probable?"
+   ],
+   "o": [
+    [
+     "Sughero secco → aria → ossidazione",
+     "Liège sec → air → oxydation",
+     "Dry cork → air in → oxidation",
+     "Corcho seco → entra aire → oxidación"
+    ],
+    [
+     "Sughero umido → TCA → sentore di tappo",
+     "Liège humide → TCA → goût de bouchon",
+     "Moist cork → TCA → cork taint",
+     "Corcho húmedo → TCA → olor a corcho"
+    ],
+    [
+     "Troppa luce → più deposito → colore bruno, perché il deposito tinge il vino",
+     "Trop de lumière → plus de dépôt → couleur brune, car le dépôt teinte le vin",
+     "Too much light → more deposit → brown colour, because deposit stains the wine",
+     "Demasiada luz → más poso → color pardo, porque el poso tiñe el vino"
+    ],
+    [
+     "Freddo → rifermentazione → perdita di frutto",
+     "Froid → refermentation → perte de fruit",
+     "Cold → refermentation → loss of fruit",
+     "Frío → refermentación → pérdida de fruta"
+    ]
+   ],
+   "e": [
+    "In piedi il sughero si secca, lascia entrare aria e il vino si ossida, imbrunisce e perde frutto.",
+    "Debout, le liège sèche, laisse entrer l'air et le vin s'oxyde, brunit et perd son fruit.",
+    "Upright, the cork dries, lets air in, and the wine oxidises, browns and loses fruit.",
+    "De pie, el corcho se seca, deja entrar aire y el vino se oxida, se oscurece y pierde fruta."
+   ],
+   "d": [
+    "La posizione verticale è l'indizio chiave: il sughero non tocca il vino e si restringe. Il TCA dà cartone bagnato, non imbrunimento, e non dipende dalla posizione. Il deposito non 'tinge' il vino di bruno e il freddo non fa rifermentare un vino in bottiglia.",
+    "La position debout est l'indice clé : le liège ne touche pas le vin et se rétracte. Le TCA donne du carton mouillé, pas un brunissement, et ne dépend pas de la position. Le dépôt ne « teinte » pas le vin en brun et le froid ne fait pas refermenter un vin en bouteille.",
+    "The upright position is the key clue: the cork is not touching the wine and shrinks. TCA gives damp cardboard, not browning, and does not depend on position. Deposit does not 'stain' wine brown and cold does not make a bottled wine referment.",
+    "La posición vertical es la pista clave: el corcho no toca el vino y encoge. El TCA da cartón mojado, no color pardo, y no depende de la posición. El poso no 'tiñe' el vino de pardo y el frío no hace que un vino embotellado vuelva a fermentar."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Una persona vuole bere metà bottiglia stasera e il resto tra quattro giorni. Quale soluzione la proteggerà meglio?",
+    "Quelqu'un veut boire une demi-bouteille ce soir et le reste dans quatre jours. Quelle solution la protégera le mieux ?",
+    "Someone wants to drink half a bottle tonight and the rest in four days. Which option will protect it best?",
+    "Alguien quiere beber media botella esta noche y el resto dentro de cuatro días. ¿Qué opción la protegerá mejor?"
+   ],
+   "o": [
+    [
+     "Una pompa a vuoto o un gas inerte, poi in frigo",
+     "Une pompe à vide ou un gaz inerte, puis au frigo",
+     "A vacuum pump or inert gas, then the fridge",
+     "Una bomba de vacío o gas inerte, y luego a la nevera"
+    ],
+    [
+     "Lasciarla aperta in cucina, così il vino respira e si ammorbidisce",
+     "La laisser ouverte en cuisine pour que le vin respire et s'assouplisse",
+     "Leave it open in the kitchen so the wine can breathe and soften",
+     "Dejarla abierta en la cocina para que el vino respire y se suavice"
+    ],
+    [
+     "Travasarla in una caraffa aperta",
+     "La transvaser dans une carafe ouverte",
+     "Pour it into an open decanter",
+     "Pasarla a una jarra abierta"
+    ],
+    [
+     "Tenerla vicino al termosifone",
+     "La garder près du radiateur",
+     "Keep it near the radiator",
+     "Dejarla junto al radiador"
+    ]
+   ],
+   "e": [
+    "Per tempi più lunghi del semplice tappo in frigo si usano i sistemi a vuoto o a gas inerte.",
+    "Pour tenir plus longtemps qu'avec le simple bouchon au frigo, on utilise le vide ou le gaz inerte.",
+    "To keep wine longer than cork-and-fridge alone allows, vacuum or inert gas systems are used.",
+    "Para que dure más que con el tapón y la nevera, se usan sistemas de vacío o de gas inerte."
+   ],
+   "d": [
+    "Il tappo in frigo basta per poco tempo; per diversi giorni conviene togliere l'aria o proteggere il vino con un gas inerte. Lasciare la bottiglia aperta o in una caraffa aumenta il contatto con l'aria, e il calore del termosifone peggiora tutto.",
+    "Le bouchon au frigo suffit pour peu de temps ; pour plusieurs jours, mieux vaut retirer l'air ou protéger le vin par un gaz inerte. Laisser la bouteille ouverte ou en carafe augmente le contact avec l'air, et la chaleur du radiateur aggrave tout.",
+    "Cork in the fridge works for a short time; for several days it is better to remove the air or protect the wine with inert gas. Leaving the bottle open or in a decanter increases air contact, and radiator heat makes everything worse.",
+    "El tapón en la nevera sirve poco tiempo; para varios días conviene sacar el aire o proteger el vino con gas inerte. Dejar la botella abierta o en una jarra aumenta el contacto con el aire, y el calor del radiador lo empeora todo."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "A che temperatura si serve un bianco leggero come un Pinot Grigio?",
+    "À quelle température sert-on un blanc léger comme un Pinot Grigio ?",
+    "At what temperature is a light white such as Pinot Grigio served?",
+    "¿A qué temperatura se sirve un blanco ligero como un Pinot Grigio?"
+   ],
+   "o": [
+    [
+     "7–10 °C, fresco",
+     "7–10 °C, frais",
+     "7–10 °C, chilled",
+     "7–10 °C, frío"
+    ],
+    [
+     "13–18 °C, a temperatura ambiente oppure appena rinfrescato",
+     "13–18 °C, à température ambiante ou juste rafraîchi",
+     "13–18 °C, at room temperature or only lightly chilled",
+     "13–18 °C, a temperatura ambiente o apenas fresco"
+    ],
+    [
+     "15–18 °C, a temperatura ambiente",
+     "15–18 °C, à température ambiante",
+     "15–18 °C, room temperature",
+     "15–18 °C, temperatura ambiente"
+    ],
+    [
+     "2–4 °C, ghiacciato",
+     "2–4 °C, glacé",
+     "2–4 °C, ice-cold",
+     "2–4 °C, helado"
+    ]
+   ],
+   "e": [
+    "I bianchi e i rosati leggeri o di medio corpo si servono freschi, a 7–10 °C.",
+    "Les blancs et rosés légers à moyennement corsés se servent frais, à 7–10 °C.",
+    "Light and medium-bodied whites and rosés are served chilled, at 7–10 °C.",
+    "Los blancos y rosados ligeros o de cuerpo medio se sirven fríos, a 7–10 °C."
+   ],
+   "d": [
+    "Il freddo mantiene vivaci freschezza e frutto di questi vini. 13–18 °C è la fascia dei rossi leggeri e 15–18 °C quella dei rossi di medio o pieno corpo. 2–4 °C è troppo freddo per qualsiasi vino della tabella e smorza gli aromi.",
+    "Le froid garde vifs la fraîcheur et le fruit de ces vins. 13–18 °C correspond aux rouges légers et 15–18 °C aux rouges moyennement ou très corsés. 2–4 °C est trop froid pour tout vin du tableau et étouffe les arômes.",
+    "Chilling keeps the freshness and fruit of these wines lively. 13–18 °C is the range for light reds and 15–18 °C for medium- to full-bodied reds. 2–4 °C is colder than any recommended range and mutes aromas.",
+    "El frío mantiene viva la frescura y la fruta de estos vinos. 13–18 °C es la franja de los tintos ligeros y 15–18 °C la de los tintos de cuerpo medio o con cuerpo. 2–4 °C es más frío que cualquier rango recomendado y apaga los aromas."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un vino viene servito a 17 °C. Quale di questi stili è il più adatto a quella temperatura?",
+    "Un vin est servi à 17 °C. Lequel de ces styles convient le mieux à cette température ?",
+    "A wine is served at 17 °C. Which of these styles best suits that temperature?",
+    "Un vino se sirve a 17 °C. ¿Cuál de estos estilos encaja mejor con esa temperatura?"
+   ],
+   "o": [
+    [
+     "Un rosso di corpo pieno come uno Shiraz",
+     "Un rouge corsé comme une Syrah (Shiraz)",
+     "A full-bodied red such as Shiraz",
+     "Un tinto con cuerpo como un Shiraz"
+    ],
+    [
+     "Un bianco leggero come il Pinot Grigio",
+     "Un blanc léger comme le Pinot Grigio",
+     "A light white such as Pinot Grigio",
+     "Un blanco ligero como el Pinot Grigio"
+    ],
+    [
+     "Un vino dolce come il Sauternes, da servire a fine pasto",
+     "Un vin liquoreux comme le Sauternes, servi en fin de repas",
+     "A sweet wine such as Sauternes, served at the end of a meal",
+     "Un vino dulce como el Sauternes, servido al final de la comida"
+    ],
+    [
+     "Uno spumante come lo Champagne",
+     "Un effervescent comme le Champagne",
+     "A sparkling wine such as Champagne",
+     "Un espumoso como el Champagne"
+    ]
+   ],
+   "e": [
+    "I rossi di medio o pieno corpo si servono a temperatura ambiente, 15–18 °C.",
+    "Les rouges moyennement à très corsés se servent à température ambiante, 15–18 °C.",
+    "Medium- to full-bodied reds are served at room temperature, 15–18 °C.",
+    "Los tintos de cuerpo medio o con cuerpo se sirven a temperatura ambiente, 15–18 °C."
+   ],
+   "d": [
+    "Il Pinot Grigio va a 7–10 °C, il Sauternes a 6–8 °C e lo Champagne a 6–10 °C: a 17 °C sembrerebbero pesanti e alcolici. Lo Shiraz invece, con tannino e corpo, si esprime al meglio senza essere raffreddato.",
+    "Le Pinot Grigio se sert à 7–10 °C, le Sauternes à 6–8 °C et le Champagne à 6–10 °C : à 17 °C ils paraîtraient lourds et alcooleux. La Syrah, avec son tanin et son corps, s'exprime mieux sans être rafraîchie.",
+    "Pinot Grigio belongs at 7–10 °C, Sauternes at 6–8 °C and Champagne at 6–10 °C: at 17 °C they would seem heavy and alcoholic. Shiraz, with its tannin and body, shows best without chilling.",
+    "El Pinot Grigio va a 7–10 °C, el Sauternes a 6–8 °C y el Champagne a 6–10 °C: a 17 °C parecerían pesados y alcohólicos. El Shiraz, con su tanino y su cuerpo, se expresa mejor sin enfriar."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Quali due stili si servono 'ben freddi', nella fascia più bassa di temperatura?",
+    "Quels deux styles se servent « bien frais », dans la tranche de température la plus basse ?",
+    "Which two styles are served 'well chilled', in the coldest temperature band?",
+    "¿Qué dos estilos se sirven 'muy fríos', en la franja de temperatura más baja?"
+   ],
+   "o": [
+    [
+     "Vini dolci e spumanti",
+     "Vins liquoreux et effervescents",
+     "Sweet wines and sparkling wines",
+     "Vinos dulces y espumosos"
+    ],
+    [
+     "Bianchi corposi passati in legno e rossi leggeri e fruttati",
+     "Blancs corsés boisés et rouges légers et fruités",
+     "Full-bodied oaked whites and light, fruity reds",
+     "Blancos con cuerpo con madera y tintos ligeros y afrutados"
+    ],
+    [
+     "Rosati e rossi leggeri",
+     "Rosés et rouges légers",
+     "Rosés and light reds",
+     "Rosados y tintos ligeros"
+    ],
+    [
+     "Rossi corposi e vini dolci",
+     "Rouges corsés et vins liquoreux",
+     "Full-bodied reds and sweet wines",
+     "Tintos con cuerpo y vinos dulces"
+    ]
+   ],
+   "e": [
+    "Vini dolci (6–8 °C) e spumanti (6–10 °C) sono quelli serviti più freddi.",
+    "Les liquoreux (6–8 °C) et les effervescents (6–10 °C) sont les plus frais.",
+    "Sweet wines (6–8 °C) and sparkling wines (6–10 °C) are served coldest.",
+    "Los dulces (6–8 °C) y los espumosos (6–10 °C) son los que se sirven más fríos."
+   ],
+   "d": [
+    "Il freddo rende più fresco un vino molto dolce e aiuta a controllare la pressione degli spumanti. I bianchi corposi vanno appena rinfrescati (10–13 °C), i rosati a 7–10 °C, i rossi leggeri a 13–18 °C e i rossi corposi a temperatura ambiente.",
+    "Le froid rafraîchit un vin très sucré et aide à maîtriser la pression des effervescents. Les blancs corsés se servent juste rafraîchis (10–13 °C), les rosés à 7–10 °C, les rouges légers à 13–18 °C et les rouges corsés à température ambiante.",
+    "Cold makes a very sweet wine feel fresher and helps control the pressure in sparkling wines. Full-bodied whites are only lightly chilled (10–13 °C), rosés 7–10 °C, light reds 13–18 °C and full-bodied reds at room temperature.",
+    "El frío hace más fresco un vino muy dulce y ayuda a controlar la presión de los espumosos. Los blancos con cuerpo se sirven solo frescos (10–13 °C), los rosados a 7–10 °C, los tintos ligeros a 13–18 °C y los tintos con cuerpo a temperatura ambiente."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un ospite chiede di avere il suo rosso corposo un po' più fresco del solito. Cosa conviene fare?",
+    "Un invité demande que son rouge corsé soit un peu plus frais que d'habitude. Que faire ?",
+    "A guest asks for their full-bodied red a little cooler than usual. What should the host do?",
+    "Un invitado pide su tinto con cuerpo algo más fresco de lo habitual. ¿Qué conviene hacer?"
+   ],
+   "o": [
+    [
+     "Rispettare la sua preferenza",
+     "Respecter sa préférence",
+     "Respect the guest's preference",
+     "Respetar su preferencia"
+    ],
+    [
+     "Spiegare che le temperature consigliate sono regole fisse e non si possono cambiare",
+     "Expliquer que les températures conseillées sont des règles fixes, intouchables",
+     "Explain that recommended temperatures are fixed rules that cannot change",
+     "Explicar que las temperaturas recomendadas son reglas fijas e inamovibles"
+    ],
+    [
+     "Servirlo invece più caldo",
+     "Le servir au contraire plus chaud",
+     "Serve it warmer instead",
+     "Servirlo más caliente"
+    ],
+    [
+     "Proporre un vino diverso",
+     "Proposer un autre vin",
+     "Offer a different wine",
+     "Proponer otro vino"
+    ]
+   ],
+   "e": [
+    "Le temperature consigliate sono una guida e non devono prevalere sul gusto personale.",
+    "Les températures conseillées sont un repère et ne doivent pas l'emporter sur le goût personnel.",
+    "Recommended temperatures are guidance and should not override personal preference.",
+    "Las temperaturas recomendadas son una guía y no deben imponerse al gusto personal."
+   ],
+   "d": [
+    "Chi ospita deve far star bene chi beve: se qualcuno preferisce un'altra temperatura, la si asseconda. Trattare le fasce come regole rigide, imporre il contrario o cambiare vino ignorano il desiderio dell'ospite.",
+    "L'hôte doit faire plaisir à qui boit : si quelqu'un préfère une autre température, on s'y plie. Traiter les plages comme des règles rigides, faire l'inverse ou changer de vin ignorent le souhait de l'invité.",
+    "A host's job is to please the drinker: if someone prefers a different temperature, go along with it. Treating the ranges as rigid rules, doing the opposite or swapping the wine all ignore what the guest asked for.",
+    "Quien invita debe complacer a quien bebe: si alguien prefiere otra temperatura, se le hace caso. Tratar las franjas como reglas rígidas, hacer lo contrario o cambiar de vino ignoran lo que pide el invitado."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Perché per i rossi è meglio indicare una fascia in gradi invece di dire solo 'temperatura ambiente'?",
+    "Pourquoi vaut-il mieux indiquer une plage en degrés plutôt que dire seulement « température ambiante » pour les rouges ?",
+    "Why is a range in degrees better guidance for reds than simply 'room temperature'?",
+    "¿Por qué es mejor dar una franja en grados para los tintos que decir solo 'temperatura ambiente'?"
+   ],
+   "o": [
+    [
+     "Con riscaldamento e aria condizionata le stanze variano molto",
+     "Avec chauffage et climatisation, les pièces varient beaucoup",
+     "Heating and air conditioning make rooms vary a lot",
+     "Con calefacción y aire acondicionado las habitaciones varían mucho"
+    ],
+    [
+     "Perché i rossi moderni hanno più alcol di un tempo e vanno serviti sempre ghiacciati",
+     "Parce que les rouges modernes ont plus d'alcool et se servent toujours glacés",
+     "Because modern reds are higher in alcohol and must always be served ice-cold",
+     "Porque los tintos actuales tienen más alcohol y deben servirse siempre helados"
+    ],
+    [
+     "Perché i termometri sono obbligatori per legge",
+     "Parce que les thermomètres sont obligatoires",
+     "Because thermometers are legally required",
+     "Porque los termómetros son obligatorios"
+    ],
+    [
+     "Perché i rossi non si servono mai a temperatura ambiente",
+     "Parce que les rouges ne se servent jamais à température ambiante",
+     "Because reds are never served at room temperature",
+     "Porque los tintos nunca se sirven a temperatura ambiente"
+    ]
+   ],
+   "e": [
+    "La 'temperatura ambiente' di oggi può essere molto diversa da casa a casa; la fascia in gradi è più affidabile.",
+    "La « température ambiante » d'aujourd'hui varie beaucoup d'un lieu à l'autre ; une plage en degrés est plus fiable.",
+    "Today's 'room temperature' varies widely from place to place; a range in degrees is more reliable.",
+    "La 'temperatura ambiente' de hoy varía mucho de un sitio a otro; una franja en grados es más fiable."
+   ],
+   "d": [
+    "Una stanza riscaldata può superare i 22 °C, troppo per un rosso. I rossi corposi si servono effettivamente 'a temperatura ambiente', ma intesa come 15–18 °C. Non esistono obblighi di legge sui termometri e i rossi non vanno serviti ghiacciati.",
+    "Une pièce chauffée peut dépasser 22 °C, trop pour un rouge. Les rouges corsés se servent bien « à température ambiante », mais au sens de 15–18 °C. Aucune loi n'impose de thermomètre et les rouges ne se servent pas glacés.",
+    "A heated room can exceed 22 °C, too warm for a red. Full-bodied reds are indeed served 'at room temperature', but meaning 15–18 °C. No law requires thermometers, and reds are not served ice-cold.",
+    "Una habitación con calefacción puede pasar de 22 °C, demasiado para un tinto. Los tintos con cuerpo sí se sirven 'a temperatura ambiente', pero entendida como 15–18 °C. Ninguna ley exige termómetros y los tintos no se sirven helados."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Perché non bisogna scaldare un rosso troppo freddo vicino a un termosifone?",
+    "Pourquoi ne faut-il pas réchauffer un rouge trop froid près d'un radiateur ?",
+    "Why should a too-cold red never be warmed next to a radiator?",
+    "¿Por qué no hay que calentar un tinto demasiado frío junto a un radiador?"
+   ],
+   "o": [
+    [
+     "Può danneggiarne gli aromi e i sapori",
+     "Cela peut abîmer ses arômes et saveurs",
+     "It can damage the wine's flavours",
+     "Puede dañar sus aromas y sabores"
+    ],
+    [
+     "Fa aumentare il tannino",
+     "Cela augmente le tanin",
+     "It increases the tannin",
+     "Aumenta el tanino"
+    ],
+    [
+     "Il vetro della bottiglia potrebbe spaccarsi all'istante per lo shock termico",
+     "Le verre pourrait éclater aussitôt sous le choc thermique",
+     "The glass bottle would shatter instantly from thermal shock",
+     "El cristal de la botella estallaría al instante por el choque térmico"
+    ],
+    [
+     "Fa ripartire la fermentazione",
+     "Cela relance la fermentation",
+     "It restarts fermentation",
+     "Reactiva la fermentación"
+    ]
+   ],
+   "e": [
+    "Il calore diretto rovina gli aromi: meglio lasciare che il vino si scaldi da solo nella sala.",
+    "La chaleur directe abîme les arômes : mieux vaut laisser le vin se réchauffer seul dans la salle.",
+    "Direct heat spoils the flavours: let the wine warm up naturally in the room instead.",
+    "El calor directo estropea los aromas: mejor dejar que el vino se temple solo en la sala."
+   ],
+   "d": [
+    "È lo stesso principio del danno da calore: una fonte di calore forte toglie freschezza e frutto. Il tannino non aumenta scaldando e la fermentazione non riparte. Il rischio reale è per il vino, non un'esplosione immediata della bottiglia.",
+    "C'est le même principe que le dommage dû à la chaleur : une source de chaleur forte ôte fraîcheur et fruit. Le tanin n'augmente pas et la fermentation ne repart pas. Le vrai risque concerne le vin, pas une bouteille qui éclate.",
+    "It is the same idea as heat damage: a strong heat source strips freshness and fruit. Tannin does not increase and fermentation does not restart. The real risk is to the wine, not an exploding bottle.",
+    "Es la misma idea que el daño por calor: una fuente de calor intensa quita frescura y fruta. El tanino no aumenta y la fermentación no se reactiva. El riesgo real es para el vino, no que estalle la botella."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Quale abbinamento tra vino e tipo di bicchiere è corretto?",
+    "Quelle association entre vin et type de verre est correcte ?",
+    "Which pairing of wine and glass is correct?",
+    "¿Qué combinación de vino y copa es correcta?"
+   ],
+   "o": [
+    [
+     "Spumante: flûte o bicchiere a tulipano",
+     "Effervescent : flûte ou verre tulipe",
+     "Sparkling: flute or tulip glass",
+     "Espumoso: flauta o copa de tulipán"
+    ],
+    [
+     "Rosso: bicchiere più piccolo di quello da bianco, per non disperdere aromi",
+     "Rouge : verre plus petit que celui du blanc, pour ne pas perdre d'arômes",
+     "Red: a smaller glass than for white, so as not to lose aromas",
+     "Tinto: copa más pequeña que la del blanco, para no perder aromas"
+    ],
+    [
+     "Bianco: coppa larga e bassa",
+     "Blanc : coupe large et basse",
+     "White: a wide, shallow coupe",
+     "Blanco: copa ancha y baja"
+    ],
+    [
+     "Spumante: bicchiere da rosso grande",
+     "Effervescent : grand verre à rouge",
+     "Sparkling: a large red-wine glass",
+     "Espumoso: copa grande de tinto"
+    ]
+   ],
+   "e": [
+    "Gli spumanti si servono in flûte o bicchieri a tulipano; i bicchieri da rosso sono un po' più grandi di quelli da bianco.",
+    "Les effervescents se servent en flûte ou en tulipe ; les verres à rouge sont un peu plus grands que ceux à blanc.",
+    "Sparkling wines go in flutes or tulip glasses; red-wine glasses are slightly larger than white-wine ones.",
+    "Los espumosos se sirven en flauta o copa de tulipán; las copas de tinto son algo más grandes que las de blanco."
+   ],
+   "d": [
+    "La regola è il contrario dell'opzione sul rosso: il bicchiere da rosso è leggermente più grande. Una coppa larga e bassa non stringe verso il bordo, quindi non concentra gli aromi. Uno spumante in un grande bicchiere da rosso non è la scelta tipica.",
+    "La règle est l'inverse de l'option sur le rouge : le verre à rouge est un peu plus grand. Une coupe large et basse ne se resserre pas au bord et ne concentre pas les arômes. Un effervescent dans un grand verre à rouge n'est pas le choix habituel.",
+    "The rule is the reverse of the red-wine option: red glasses are slightly larger. A wide, shallow coupe does not narrow at the rim, so it does not gather aromas. Sparkling wine in a big red glass is not the usual choice.",
+    "La regla es la contraria a la opción del tinto: la copa de tinto es algo más grande. Una copa ancha y baja no se cierra en el borde y no concentra los aromas. Un espumoso en una copa grande de tinto no es lo habitual."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Perché è utile che la coppa del bicchiere si stringa verso il bordo?",
+    "Pourquoi est-il utile que le verre se resserre vers le bord ?",
+    "Why is it useful for a glass bowl to narrow towards the rim?",
+    "¿Por qué es útil que la copa se estreche hacia el borde?"
+   ],
+   "o": [
+    [
+     "Concentra gli aromi dentro il bicchiere",
+     "Il concentre les arômes dans le verre",
+     "It concentrates the aromas inside the glass",
+     "Concentra los aromas dentro de la copa"
+    ],
+    [
+     "Mantiene il vino più freddo per tutta la durata del pasto",
+     "Il garde le vin plus frais pendant tout le repas",
+     "It keeps the wine colder throughout the meal",
+     "Mantiene el vino más frío durante toda la comida"
+    ],
+    [
+     "Riduce la quantità di vino versata",
+     "Il réduit la quantité de vin servie",
+     "It reduces how much wine is poured",
+     "Reduce la cantidad de vino servida"
+    ],
+    [
+     "Rende il colore più intenso",
+     "Il rend la couleur plus intense",
+     "It makes the colour look deeper",
+     "Hace que el color parezca más intenso"
+    ]
+   ],
+   "e": [
+    "Un bordo più stretto trattiene gli aromi, che si apprezzano meglio.",
+    "Un bord plus étroit retient les arômes, mieux appréciés.",
+    "A narrower rim holds the aromas in, so they can be better appreciated.",
+    "Un borde más estrecho retiene los aromas, que se aprecian mejor."
+   ],
+   "d": [
+    "È la caratteristica comune a tutti i buoni bicchieri, qualunque sia la forma. La forma non cambia sensibilmente la temperatura, la quantità versata o il colore del vino: serve al naso.",
+    "C'est le point commun de tous les bons verres, quelle que soit leur forme. La forme ne change guère la température, la quantité servie ni la couleur : elle sert le nez.",
+    "This is what all good glasses share, whatever their shape. Shape does not really change temperature, pour size or colour: it is about the nose.",
+    "Es lo que comparten todas las buenas copas, sea cual sea su forma. La forma no cambia apenas la temperatura, la cantidad servida ni el color: sirve a la nariz."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Perché i bicchieri vanno lucidati prima dell'uso?",
+    "Pourquoi faut-il polir les verres avant de les utiliser ?",
+    "Why should glasses be polished before use?",
+    "¿Por qué hay que repasar las copas antes de usarlas?"
+   ],
+   "o": [
+    [
+     "Per togliere sporco e impronte rimasti",
+     "Pour ôter saleté et traces de doigts restantes",
+     "To remove any lingering dirt and finger marks",
+     "Para quitar suciedad y huellas que queden"
+    ],
+    [
+     "Per scaldare un po' il vetro prima di versare, così il vino si apre",
+     "Pour réchauffer un peu le verre avant de servir, afin d'ouvrir le vin",
+     "To warm the glass slightly before pouring so the wine opens up",
+     "Para templar un poco el cristal antes de servir y abrir el vino"
+    ],
+    [
+     "Per lasciare un velo di detersivo che protegge il vino",
+     "Pour laisser un film de détergent qui protège le vin",
+     "To leave a film of detergent that protects the wine",
+     "Para dejar una película de detergente que proteja el vino"
+    ],
+    [
+     "Solo per motivi estetici",
+     "Uniquement pour l'esthétique",
+     "Only for looks",
+     "Solo por estética"
+    ]
+   ],
+   "e": [
+    "Sporco o residui di detersivo possono rovinare il vino: la lucidatura li elimina.",
+    "Saleté ou résidus de détergent peuvent gâcher le vin : le polissage les élimine.",
+    "Dirt or detergent residue can spoil a wine: polishing removes it.",
+    "La suciedad o los restos de detergente pueden estropear el vino: repasar la copa los elimina."
+   ],
+   "d": [
+    "Il bicchiere deve essere perfettamente pulito, altrimenti odori e residui alterano il vino. Il detersivo è proprio uno dei residui da evitare. Lucidare non serve a scaldare il vetro, e non è solo una questione di apparenza.",
+    "Le verre doit être parfaitement propre, sinon odeurs et résidus altèrent le vin. Le détergent est justement un résidu à éviter. Polir ne sert pas à réchauffer le verre et n'est pas qu'une question d'apparence.",
+    "The glass must be spotless, otherwise smells and residues alter the wine. Detergent is exactly one of the residues to avoid. Polishing is not meant to warm the glass, and it is not just about looks.",
+    "La copa debe estar perfectamente limpia; si no, olores y restos alteran el vino. El detergente es justo uno de los restos que hay que evitar. Repasarla no sirve para templar el cristal y no es solo cuestión de aspecto."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Prima di servire un vino, quale di questi controlli NON fa parte delle verifiche di base?",
+    "Avant de servir un vin, lequel de ces contrôles ne fait PAS partie des vérifications de base ?",
+    "Before serving a wine, which of these is NOT one of the basic checks?",
+    "Antes de servir un vino, ¿cuál de estas comprobaciones NO forma parte de las básicas?"
+   ],
+   "o": [
+    [
+     "Misurare il grado alcolico",
+     "Mesurer le degré d'alcool",
+     "Measuring its alcohol level",
+     "Medir su graduación alcohólica"
+    ],
+    [
+     "Controllare che non sia velato",
+     "Vérifier qu'il n'est pas trouble",
+     "Checking it is not hazy",
+     "Comprobar que no esté turbio"
+    ],
+    [
+     "Controllare che non ci siano frammenti che galleggiano nel bicchiere",
+     "Vérifier qu'aucun débris ne flotte dans le verre",
+     "Checking there are no bits floating in the wine",
+     "Comprobar que no haya restos flotando en el vino"
+    ],
+    [
+     "Annusarlo per escludere odori di cartone bagnato o aceto",
+     "Le sentir pour écarter carton mouillé ou vinaigre",
+     "Smelling it for wet cardboard or vinegar notes",
+     "Olerlo por si huele a cartón mojado o vinagre"
+    ]
+   ],
+   "e": [
+    "Le verifiche riguardano aspetto (velatura, frammenti) e naso (difetti); il grado alcolico non si controlla.",
+    "Les vérifications portent sur l'aspect (trouble, débris) et le nez (défauts) ; on ne mesure pas l'alcool.",
+    "The checks cover appearance (haze, bits) and nose (faults); alcohol is not measured.",
+    "Las comprobaciones son de aspecto (turbidez, restos) y nariz (defectos); el alcohol no se mide."
+   ],
+   "d": [
+    "Un vino velato può essere difettoso, i frammenti in sospensione disturbano chi beve e odori di cartone bagnato o aceto indicano un difetto. Il grado alcolico è indicato in etichetta e non serve a capire se il vino è in buone condizioni.",
+    "Un vin trouble peut être défectueux, les débris gênent le buveur et le carton mouillé ou le vinaigre signalent un défaut. Le degré figure sur l'étiquette et ne dit pas si le vin est en bon état.",
+    "A hazy wine may be faulty, floating bits put drinkers off, and wet cardboard or vinegar signal a fault. The alcohol level is on the label and does not tell you whether the wine is in good condition.",
+    "Un vino turbio puede estar defectuoso, los restos flotando molestan a quien bebe y el cartón mojado o el vinagre indican un defecto. La graduación está en la etiqueta y no dice si el vino está en buen estado."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Aprendo un vino fermo con tappo di sughero, che cosa si fa subito dopo aver tolto la parte alta della capsula?",
+    "En ouvrant un vin tranquille bouché liège, que fait-on juste après avoir retiré le haut de la capsule ?",
+    "Opening a still wine with a cork, what is done right after removing the top of the capsule?",
+    "Al abrir un vino tranquilo con corcho, ¿qué se hace justo después de quitar la parte superior de la cápsula?"
+   ],
+   "o": [
+    [
+     "Si pulisce il collo della bottiglia con un panno",
+     "On essuie le col de la bouteille avec un linge",
+     "Wipe the neck of the bottle with a cloth",
+     "Se limpia el cuello de la botella con un paño"
+    ],
+    [
+     "Si scuote delicatamente la bottiglia per ossigenare il vino prima di aprirla",
+     "On agite doucement la bouteille pour oxygéner le vin avant d'ouvrir",
+     "Gently shake the bottle to aerate the wine before opening",
+     "Se agita suavemente la botella para oxigenar el vino antes de abrir"
+    ],
+    [
+     "Si versa subito un bicchiere",
+     "On sert tout de suite un verre",
+     "Pour a glass straight away",
+     "Se sirve enseguida una copa"
+    ],
+    [
+     "Si tira il tappo con le mani",
+     "On tire le bouchon à la main",
+     "Pull the cork out by hand",
+     "Se saca el corcho con la mano"
+    ]
+   ],
+   "e": [
+    "Dopo la capsula si pulisce il collo; poi si centra il cavatappi e si estrae il tappo con delicatezza.",
+    "Après la capsule, on essuie le col ; puis on centre le tire-bouchon et on retire le bouchon doucement.",
+    "After the capsule, the neck is wiped; then the corkscrew is centred and the cork drawn out gently.",
+    "Tras la cápsula se limpia el cuello; luego se centra el sacacorchos y se saca el corcho con suavidad."
+   ],
+   "d": [
+    "La sequenza è: togliere la parte alta della capsula, pulire il collo, avvitare il cavatappi al centro del tappo, estrarlo dolcemente e ripulire il collo dentro e fuori. Scuotere la bottiglia smuove eventuali depositi; il tappo di un vino fermo non si toglie a mano.",
+    "La séquence : retirer le haut de la capsule, essuyer le col, visser le tire-bouchon au centre, tirer doucement, puis essuyer l'intérieur et l'extérieur du col. Agiter la bouteille remue le dépôt ; le bouchon d'un vin tranquille ne s'ôte pas à la main.",
+    "The sequence is: remove the top of the capsule, wipe the neck, screw the corkscrew into the centre of the cork, draw it out gently, then wipe the neck inside and out. Shaking stirs up any deposit; a still-wine cork is not pulled by hand.",
+    "La secuencia es: quitar la parte superior de la cápsula, limpiar el cuello, enroscar el sacacorchos en el centro, sacar el corcho con suavidad y limpiar el cuello por dentro y por fuera. Agitar la botella remueve el poso; el corcho de un vino tranquilo no se saca con la mano."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Perché uno spumante va servito ben freddo anche per ragioni di sicurezza?",
+    "Pourquoi un effervescent doit-il être bien frais, aussi pour des raisons de sécurité ?",
+    "Why is chilling sparkling wine well also a matter of safety?",
+    "¿Por qué enfriar bien un espumoso es también una cuestión de seguridad?"
+   ],
+   "o": [
+    [
+     "Il freddo riduce la pressione nella bottiglia",
+     "Le froid réduit la pression dans la bouteille",
+     "Chilling reduces the pressure in the bottle",
+     "El frío reduce la presión en la botella"
+    ],
+    [
+     "Il freddo indurisce il tappo, che così non può più uscire da solo in nessun caso",
+     "Le froid durcit le bouchon, qui ne peut alors plus sortir seul",
+     "Cold hardens the cork so that it can never come out on its own",
+     "El frío endurece el corcho, que ya no puede salir solo en ningún caso"
+    ],
+    [
+     "Il freddo elimina tutta l'anidride carbonica",
+     "Le froid élimine tout le gaz carbonique",
+     "Cold removes all the carbon dioxide",
+     "El frío elimina todo el gas carbónico"
+    ],
+    [
+     "Il freddo rende il vetro più resistente",
+     "Le froid rend le verre plus solide",
+     "Cold makes the glass stronger",
+     "El frío hace el cristal más resistente"
+    ]
+   ],
+   "e": [
+    "Uno spumante freddo ha meno pressione, ma il tappo può comunque saltare: va sempre tenuto con la mano.",
+    "Un effervescent froid a moins de pression, mais le bouchon peut quand même sauter : on le tient toujours.",
+    "A chilled sparkling wine has less pressure, but the cork can still fly out: keep a hand on it.",
+    "Un espumoso frío tiene menos presión, pero el corcho aún puede saltar: hay que sujetarlo siempre."
+   ],
+   "d": [
+    "La pressione dentro uno spumante è alta e un tappo che parte può ferire qualcuno. Il freddo la riduce senza eliminarla: il vino resta frizzante e il tappo può ancora uscire. Il freddo non irrigidisce il tappo e non rinforza il vetro.",
+    "La pression d'un effervescent est forte et un bouchon qui part peut blesser. Le froid la réduit sans la supprimer : le vin reste pétillant et le bouchon peut encore sortir. Le froid ne durcit pas le bouchon et ne renforce pas le verre.",
+    "Pressure inside sparkling wine is high, and a flying cork can injure someone. Chilling lowers it without removing it: the wine stays fizzy and the cork can still escape. Cold neither locks the cork nor strengthens the glass.",
+    "La presión dentro de un espumoso es alta y un corcho que sale disparado puede herir a alguien. El frío la reduce sin eliminarla: el vino sigue con burbuja y el corcho aún puede salir. El frío no bloquea el corcho ni refuerza el cristal."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Aprendo correttamente uno spumante, che cosa si dovrebbe sentire?",
+    "En ouvrant correctement un effervescent, que devrait-on entendre ?",
+    "When sparkling wine is opened correctly, what should you hear?",
+    "Al abrir correctamente un espumoso, ¿qué debería oírse?"
+   ],
+   "o": [
+    [
+     "Un leggero sospiro, senza perdere vino",
+     "Un léger soupir, sans perte de vin",
+     "A quiet sigh, with no wine lost",
+     "Un leve suspiro, sin perder vino"
+    ],
+    [
+     "Un botto forte, segno che il vino è di buona qualità e ben conservato",
+     "Une forte détonation, signe d'un vin de qualité bien conservé",
+     "A loud pop, a sign the wine is good quality and well kept",
+     "Un fuerte estallido, señal de un vino de calidad bien conservado"
+    ],
+    [
+     "Nessun rumore, perché il gas è uscito",
+     "Aucun bruit, car le gaz est parti",
+     "No sound at all, as the gas has gone",
+     "Ningún ruido, porque el gas se ha ido"
+    ],
+    [
+     "Uno schiocco seguito da schiuma",
+     "Un claquement suivi de mousse",
+     "A bang followed by foam",
+     "Un chasquido seguido de espuma"
+    ]
+   ],
+   "e": [
+    "Tenendo fermo il tappo e girando la bottiglia, la pressione esce lentamente con un 'pff' discreto.",
+    "En tenant le bouchon et en tournant la bouteille, la pression s'échappe doucement dans un « pschitt » discret.",
+    "Holding the cork and turning the bottle releases the pressure slowly with a gentle 'phut'.",
+    "Sujetando el corcho y girando la botella, la presión sale despacio con un discreto 'pfff'."
+   ],
+   "d": [
+    "Il botto e la schiuma indicano che il tappo è uscito troppo in fretta: si spreca vino e si rischia di ferire qualcuno. Il rumore forte non dice nulla sulla qualità. Silenzio totale non è l'obiettivo: un vino ancora frizzante rilascia sempre un po' di pressione.",
+    "La détonation et la mousse montrent que le bouchon est sorti trop vite : on gaspille du vin et on risque de blesser. Le bruit ne dit rien de la qualité. Le silence total n'est pas le but : un vin encore pétillant libère toujours un peu de pression.",
+    "A bang or foam means the cork came out too fast: wine is wasted and someone could be hurt. Noise says nothing about quality. Total silence is not the aim: a wine that is still fizzy always releases a little pressure.",
+    "El estallido y la espuma indican que el corcho salió demasiado rápido: se pierde vino y puede herirse a alguien. El ruido no dice nada de la calidad. El silencio total no es el objetivo: un vino aún con burbuja siempre libera algo de presión."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Durante la decantazione, perché si tiene la bottiglia davanti a una luce mentre si versa?",
+    "Lors d'un décantage, pourquoi tient-on la bouteille devant une lumière en versant ?",
+    "When decanting, why is the bottle held in front of a light while pouring?",
+    "Al decantar, ¿por qué se sostiene la botella delante de una luz mientras se vierte?"
+   ],
+   "o": [
+    [
+     "Per vedere il deposito arrivare al collo",
+     "Pour voir le dépôt arriver au col",
+     "To see the deposit reaching the neck",
+     "Para ver el poso llegar al cuello"
+    ],
+    [
+     "Per scaldare un poco il vino e liberarne gli aromi mentre passa nella caraffa",
+     "Pour réchauffer un peu le vin et libérer ses arômes pendant qu'il passe en carafe",
+     "To warm the wine slightly and release its aromas as it flows",
+     "Para templar un poco el vino y liberar sus aromas al pasar a la jarra"
+    ],
+    [
+     "Per controllare il livello di alcol",
+     "Pour vérifier le degré d'alcool",
+     "To check the alcohol level",
+     "Para comprobar el grado de alcohol"
+    ],
+    [
+     "Per mostrare l'etichetta agli ospiti",
+     "Pour montrer l'étiquette aux invités",
+     "To show the label to guests",
+     "Para enseñar la etiqueta a los invitados"
+    ]
+   ],
+   "e": [
+    "La luce permette di fermarsi appena il deposito si avvicina al collo, lasciandolo nella bottiglia.",
+    "La lumière permet de s'arrêter dès que le dépôt approche du col et de le laisser dans la bouteille.",
+    "The light lets you stop as soon as the deposit nears the neck, leaving it in the bottle.",
+    "La luz permite parar en cuanto el poso se acerca al cuello y dejarlo en la botella."
+   ],
+   "d": [
+    "Lo scopo della decantazione è separare il vino limpido dal deposito. La luce non scalda il vino in modo utile e non dice nulla sull'alcol; mostrare l'etichetta è cortesia, non il motivo della luce.",
+    "Le but du décantage est de séparer le vin limpide du dépôt. La lumière ne réchauffe pas utilement le vin et ne dit rien de l'alcool ; montrer l'étiquette est une politesse, pas la raison de la lumière.",
+    "The aim of decanting is to separate clear wine from the deposit. The light does not usefully warm the wine and says nothing about alcohol; showing the label is a courtesy, not why the light is used.",
+    "El objetivo de decantar es separar el vino limpio del poso. La luz no templa el vino de forma útil ni dice nada del alcohol; enseñar la etiqueta es cortesía, no el motivo de la luz."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un cliente nota un deposito sul fondo di un vecchio rosso e pensa che sia difettoso. Che cosa gli si può spiegare?",
+    "Un client remarque un dépôt au fond d'un vieux rouge et le croit défectueux. Que peut-on lui expliquer ?",
+    "A customer sees deposit at the bottom of an old red and thinks it is faulty. What can you explain?",
+    "Un cliente ve poso en el fondo de un tinto viejo y cree que está defectuoso. ¿Qué se le puede explicar?"
+   ],
+   "o": [
+    [
+     "È naturale e si forma con l'invecchiamento in bottiglia",
+     "Il est naturel et se forme au vieillissement en bouteille",
+     "It is natural and forms as the wine ages in bottle",
+     "Es natural y se forma al envejecer en botella"
+    ],
+    [
+     "È un segno di sentore di tappo e il vino va sostituito subito con un'altra bottiglia",
+     "C'est un signe de goût de bouchon et il faut changer de bouteille tout de suite",
+     "It is a sign of cork taint and the bottle should be replaced at once",
+     "Es señal de olor a corcho y hay que cambiar la botella enseguida"
+    ],
+    [
+     "Significa che il vino è stato conservato al caldo",
+     "Cela signifie qu'il a été gardé au chaud",
+     "It means the wine was stored too warm",
+     "Significa que se guardó con calor"
+    ],
+    [
+     "È zucchero cristallizzato",
+     "C'est du sucre cristallisé",
+     "It is crystallised sugar",
+     "Es azúcar cristalizado"
+    ]
+   ],
+   "e": [
+    "Alcuni rossi formano un deposito naturale invecchiando in bottiglia; basta decantarli.",
+    "Certains rouges forment un dépôt naturel en vieillissant en bouteille ; il suffit de les décanter.",
+    "Some reds form a natural deposit while ageing in bottle; it just needs decanting.",
+    "Algunos tintos forman un poso natural al envejecer en botella; basta con decantarlos."
+   ],
+   "d": [
+    "Il deposito non è un difetto: si separa versando con cura in una caraffa. Il sentore di tappo si riconosce al naso (cartone bagnato), non dal deposito. Il deposito non dimostra una cattiva conservazione e non è zucchero.",
+    "Le dépôt n'est pas un défaut : on le sépare en versant avec soin dans une carafe. Le goût de bouchon se reconnaît au nez (carton mouillé), pas au dépôt. Le dépôt ne prouve pas une mauvaise conservation et ce n'est pas du sucre.",
+    "Deposit is not a fault: it is separated by pouring carefully into a decanter. Cork taint shows on the nose (damp cardboard), not as deposit. Deposit does not prove poor storage and is not sugar.",
+    "El poso no es un defecto: se separa vertiendo con cuidado en una jarra. El olor a corcho se nota en nariz (cartón mojado), no por el poso. El poso no demuestra mala conservación ni es azúcar."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un vino bianco di vent'anni ha colore dorato e note di miele. È sicuramente difettoso per ossidazione?",
+    "Un blanc de vingt ans est doré et sent le miel. Est-il forcément oxydé et défectueux ?",
+    "A 20-year-old white is golden with honey notes. Is it necessarily faulty from oxidation?",
+    "Un blanco de veinte años es dorado y huele a miel. ¿Está necesariamente defectuoso por oxidación?"
+   ],
+   "o": [
+    [
+     "No: può essere normale dopo anni in bottiglia",
+     "Non : cela peut être normal après des années en bouteille",
+     "No: this can be normal after years in bottle",
+     "No: puede ser normal tras años en botella"
+    ],
+    [
+     "Sì: il miele indica sempre una chiusura difettosa, a prescindere dall'età del vino",
+     "Oui : le miel signale toujours un bouchage défaillant, quel que soit l'âge",
+     "Yes: honey always signals a failed closure, whatever the wine's age",
+     "Sí: la miel indica siempre un cierre defectuoso, sea cual sea la edad"
+    ],
+    [
+     "Sì: è sentore di tappo",
+     "Oui : c'est un goût de bouchon",
+     "Yes: it is cork taint",
+     "Sí: es olor a corcho"
+    ],
+    [
+     "No: è danno da calore",
+     "Non : c'est un dommage dû à la chaleur",
+     "No: it is heat damage",
+     "No: es daño por calor"
+    ]
+   ],
+   "e": [
+    "Note simili all'ossidazione sono attese in vini molto maturi o di stile ossidativo; sono un difetto solo in un vino giovane e fruttato.",
+    "Des notes proches de l'oxydation sont attendues dans les vins très évolués ou oxydatifs ; elles ne sont un défaut que dans un vin jeune et fruité.",
+    "Oxidation-like notes are expected in long-aged or oxidative-style wines; they are only a fault in a young, fruity wine.",
+    "Las notas parecidas a la oxidación son esperables en vinos muy evolucionados o de estilo oxidativo; solo son defecto en un vino joven y afrutado."
+   ],
+   "d": [
+    "Il contesto conta: in un bianco giovane, colore bruno e miele farebbero pensare a una chiusura che ha lasciato entrare ossigeno. Dopo vent'anni di bottiglia possono invece essere aromi terziari normali. Il sentore di tappo dà cartone bagnato; il danno da calore toglie frutto ma non è automatico qui.",
+    "Le contexte compte : dans un blanc jeune, couleur brune et miel feraient penser à un bouchage qui a laissé passer l'oxygène. Après vingt ans de bouteille, ce peuvent être des arômes tertiaires normaux. Le goût de bouchon donne du carton mouillé ; le dommage dû à la chaleur ôte le fruit mais n'est pas évident ici.",
+    "Context matters: in a young white, browning and honey would suggest a closure that let oxygen in. After twenty years in bottle they can be normal tertiary aromas. Cork taint gives damp cardboard; heat damage strips fruit but is not indicated here.",
+    "El contexto importa: en un blanco joven, color pardo y miel harían pensar en un cierre que dejó pasar oxígeno. Tras veinte años en botella pueden ser aromas terciarios normales. El olor a corcho da cartón mojado; el daño por calor quita fruta, pero aquí nada lo indica."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Qual è lo scopo principale dell'abbinamento cibo-vino?",
+    "Quel est le but principal de l'accord mets-vins ?",
+    "What is the main aim of food and wine pairing?",
+    "¿Cuál es el objetivo principal del maridaje?"
+   ],
+   "o": [
+    [
+     "Dare più piacere insieme che separati",
+     "Donner plus de plaisir ensemble que séparément",
+     "More pleasure together than apart",
+     "Dar más placer juntos que por separado"
+    ],
+    [
+     "Far sembrare sempre il vino più dolce, più fruttato e più morbido di quanto sia",
+     "Rendre le vin toujours plus doux, plus fruité et plus souple qu'il n'est",
+     "Always making the wine seem sweeter, fruitier and softer than it is",
+     "Hacer que el vino parezca siempre más dulce, afrutado y suave de lo que es"
+    ],
+    [
+     "Far risaltare solo il cibo",
+     "Mettre seulement le plat en valeur",
+     "Showing off only the food",
+     "Lucir solo la comida"
+    ],
+    [
+     "Seguire regole regionali fisse",
+     "Suivre des règles régionales fixes",
+     "Following fixed regional rules",
+     "Seguir reglas regionales fijas"
+    ]
+   ],
+   "e": [
+    "Si sfruttano le interazioni tra cibo e vino perché insieme diano più piacere, evitando combinazioni sgradevoli.",
+    "On exploite les interactions entre plat et vin pour qu'ensemble ils plaisent davantage, en évitant les accords désagréables.",
+    "Food–wine interactions are used so the two together give more pleasure, while avoiding unpleasant matches.",
+    "Se aprovechan las interacciones entre comida y vino para que juntos den más placer, evitando combinaciones desagradables."
+   ],
+   "d": [
+    "L'idea è che l'insieme superi le parti; conoscere le interazioni aiuta anche a evitare gli abbinamenti negativi. Non si tratta di cambiare sempre il vino in una direzione fissa, né di privilegiare solo il piatto. Non esistono regole regionali obbligatorie.",
+    "L'idée est que l'ensemble dépasse les parties ; connaître les interactions aide aussi à éviter les mauvais accords. Il ne s'agit pas de modifier toujours le vin dans un sens, ni de privilégier le plat seul. Il n'y a pas de règles régionales obligatoires.",
+    "The idea is that the whole beats the parts; knowing the interactions also helps avoid bad matches. It is not about always shifting the wine in one direction or favouring the food alone. There are no compulsory regional rules.",
+    "La idea es que el conjunto supere a las partes; conocer las interacciones también ayuda a evitar malas combinaciones. No se trata de cambiar siempre el vino en una dirección fija ni de favorecer solo el plato. No hay reglas regionales obligatorias."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Qual è la differenza tra 'sensibilità' e 'preferenza' nell'abbinamento?",
+    "Quelle est la différence entre « sensibilité » et « préférence » en matière d'accords ?",
+    "In food and wine pairing, how does 'sensitivity' differ from 'preference'?",
+    "En el maridaje, ¿en qué se diferencia la 'sensibilidad' de la 'preferencia'?"
+   ],
+   "o": [
+    [
+     "Sensibilità: quanto si percepisce; preferenza: se piace",
+     "Sensibilité : combien on ressent ; préférence : si on aime",
+     "Sensitivity: how strongly you sense it; preference: whether you like it",
+     "Sensibilidad: cuánto se percibe; preferencia: si gusta"
+    ],
+    [
+     "Sono due parole diverse che indicano esattamente la stessa cosa",
+     "Ce sont deux mots différents pour exactement la même chose",
+     "They are two different words for exactly the same thing",
+     "Son dos palabras distintas para exactamente lo mismo"
+    ],
+    [
+     "La sensibilità riguarda il vino, la preferenza il cibo",
+     "La sensibilité concerne le vin, la préférence le plat",
+     "Sensitivity is about wine; preference is about food",
+     "La sensibilidad es del vino; la preferencia, de la comida"
+    ],
+    [
+     "La sensibilità si impara, la preferenza no",
+     "La sensibilité s'apprend, pas la préférence",
+     "Sensitivity can be learnt; preference cannot",
+     "La sensibilidad se aprende; la preferencia no"
+    ]
+   ],
+   "e": [
+    "Lo stesso amaro può colpire una persona più di un'altra (sensibilità); c'è poi chi ama le sensazioni forti e chi no (preferenza).",
+    "La même amertume touche plus certaines personnes (sensibilité) ; certains aiment les sensations fortes, d'autres non (préférence).",
+    "The same bitterness can affect one person more than another (sensitivity); some people enjoy strong reactions and others do not (preference).",
+    "El mismo amargor afecta más a unas personas que a otras (sensibilidad); a unas les gustan las sensaciones fuertes y a otras no (preferencia)."
+   ],
+   "d": [
+    "Le due cose insieme spiegano perché un abbinamento 'perfetto' per qualcuno può sembrare banale a un altro. Non sono sinonimi, ed entrambe valgono per cibo e vino. Per questo un buon abbinamento tiene conto della persona, oltre che delle interazioni di base.",
+    "Ensemble, elles expliquent pourquoi un accord « parfait » pour l'un paraît banal à l'autre. Ce ne sont pas des synonymes et elles s'appliquent au plat comme au vin. Un bon accord tient donc compte de la personne autant que des interactions de base.",
+    "Together they explain why a 'perfect' match for one person seems ordinary to another. They are not synonyms, and both apply to food and wine alike. So a good pairing considers the person as well as the basic interactions.",
+    "Juntas explican por qué un maridaje 'perfecto' para alguien parece corriente a otra persona. No son sinónimos y valen tanto para la comida como para el vino. Por eso un buen maridaje tiene en cuenta a la persona además de las interacciones básicas."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Perché un dolce al cioccolato o una salsa molto cremosa possono rendere difficile giudicare un vino?",
+    "Pourquoi un dessert au chocolat ou une sauce très crémeuse peuvent-ils gêner l'appréciation d'un vin ?",
+    "Why can a chocolate dessert or a thick creamy sauce make a wine harder to judge?",
+    "¿Por qué un postre de chocolate o una salsa muy cremosa pueden dificultar valorar un vino?"
+   ],
+   "o": [
+    [
+     "Rivestono la bocca e attenuano il gusto",
+     "Ils tapissent la bouche et brouillent le goût",
+     "They coat the mouth and dull the sense of taste",
+     "Recubren la boca y apagan el gusto"
+    ],
+    [
+     "Contengono molto alcol, che si somma a quello del vino nel bicchiere",
+     "Ils contiennent beaucoup d'alcool, qui s'ajoute à celui du vin",
+     "They contain a lot of alcohol, which adds to the wine's own",
+     "Contienen mucho alcohol, que se suma al del vino"
+    ],
+    [
+     "Sono sempre troppo salati",
+     "Ils sont toujours trop salés",
+     "They are always too salty",
+     "Siempre están demasiado salados"
+    ],
+    [
+     "Raffreddano il vino in bocca",
+     "Ils refroidissent le vin en bouche",
+     "They chill the wine in the mouth",
+     "Enfrían el vino en la boca"
+    ]
+   ],
+   "e": [
+    "Alcuni cibi lasciano una patina in bocca che riduce la capacità di percepire i sapori.",
+    "Certains aliments laissent un film en bouche qui réduit la perception des saveurs.",
+    "Some foods leave a coating in the mouth that reduces the ability to taste.",
+    "Algunos alimentos dejan una película en la boca que reduce la percepción de sabores."
+   ],
+   "d": [
+    "Oltre all'adattamento delle papille, cioccolato e piatti molto cremosi creano un effetto di rivestimento. Non c'entrano alcol, sale o temperatura: è una questione di consistenza del cibo.",
+    "En plus de l'adaptation des papilles, chocolat et plats très crémeux tapissent la bouche. Ni l'alcool, ni le sel, ni la température n'y sont pour rien : c'est la texture de l'aliment.",
+    "On top of taste-bud adaptation, chocolate and very creamy dishes coat the mouth. Alcohol, salt and temperature have nothing to do with it: it is the food's texture.",
+    "Además de la adaptación de las papilas, el chocolate y los platos muy cremosos recubren la boca. No tienen que ver el alcohol, la sal ni la temperatura: es la textura del alimento."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale effetto del sale nel cibo sul vino è corretto?",
+    "Quel effet du sel des aliments sur le vin est correct ?",
+    "Which effect of salty food on wine is correct?",
+    "¿Qué efecto de la comida salada sobre el vino es correcto?"
+   ],
+   "o": [
+    [
+     "Il vino sembra più fruttato e con più corpo",
+     "Le vin paraît plus fruité et plus corsé",
+     "The wine seems fruitier and fuller in body",
+     "El vino parece más afrutado y con más cuerpo"
+    ],
+    [
+     "Il vino sembra più amaro e più astringente, soprattutto se è un rosso tannico",
+     "Le vin paraît plus amer et plus asséchant, surtout un rouge tannique",
+     "The wine seems more bitter and drying, especially a tannic red",
+     "El vino parece más amargo y secante, sobre todo un tinto tánico"
+    ],
+    [
+     "Il vino sembra più acido",
+     "Le vin paraît plus acide",
+     "The wine seems more acidic",
+     "El vino parece más ácido"
+    ],
+    [
+     "Il vino sembra meno dolce",
+     "Le vin paraît moins doux",
+     "The wine seems less sweet",
+     "El vino parece menos dulce"
+    ]
+   ],
+   "e": [
+    "Il sale è amico del vino: lo rende più fruttato, gli dà corpo e ammorbidisce il tannino.",
+    "Le sel est l'ami du vin : il le rend plus fruité, plus corsé et assouplit le tanin.",
+    "Salt is wine-friendly: it makes wine fruitier and fuller and softens tannin.",
+    "La sal es amiga del vino: lo hace más afrutado, le da cuerpo y suaviza el tanino."
+   ],
+   "d": [
+    "Il sale fa sembrare il vino meno amaro e meno acido, quindi le opzioni 'più amaro' e 'più acido' descrivono l'effetto opposto, tipico di dolcezza e umami. Anche 'meno dolce' è un effetto di dolcezza e umami, non del sale.",
+    "Le sel rend le vin moins amer et moins acide : « plus amer » et « plus acide » décrivent l'effet inverse, celui du sucre et de l'umami. « Moins doux » est aussi un effet du sucre et de l'umami, pas du sel.",
+    "Salt makes wine seem less bitter and less acidic, so 'more bitter' and 'more acidic' describe the opposite effect, typical of sweetness and umami. 'Less sweet' is also a sweetness or umami effect, not salt.",
+    "La sal hace que el vino parezca menos amargo y menos ácido, así que 'más amargo' y 'más ácido' describen el efecto contrario, típico del dulzor y el umami. 'Menos dulce' también es efecto del dulzor y el umami, no de la sal."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Perché l'umami è difficile da isolare in un piatto?",
+    "Pourquoi l'umami est-il difficile à isoler dans un plat ?",
+    "Why is umami hard to pick out in a dish?",
+    "¿Por qué es difícil aislar el umami en un plato?"
+   ],
+   "o": [
+    [
+     "Spesso è insieme al sale, che ne bilancia gli effetti",
+     "Il est souvent associé au sel, qui équilibre ses effets",
+     "It usually comes with salt, which balances its effects",
+     "Suele ir con sal, que equilibra sus efectos"
+    ],
+    [
+     "Perché si percepisce soltanto nei vini rossi molto tannici e mai nei cibi",
+     "Parce qu'on ne le perçoit que dans les rouges très tanniques, jamais dans les plats",
+     "Because it is only noticed in very tannic red wines, never in food",
+     "Porque solo se nota en tintos muy tánicos, nunca en la comida"
+    ],
+    [
+     "È identico al dolce",
+     "Il est identique au sucré",
+     "It is identical to sweetness",
+     "Es idéntico al dulce"
+    ],
+    [
+     "Scompare con la cottura",
+     "Il disparaît à la cuisson",
+     "It disappears when cooked",
+     "Desaparece al cocinar"
+    ]
+   ],
+   "e": [
+    "L'umami è un gusto a sé, ma di solito arriva con altri gusti come il salato che ne compensano gli effetti negativi.",
+    "L'umami est un goût à part, mais il arrive en général avec d'autres goûts comme le salé qui compensent ses effets négatifs.",
+    "Umami is a distinct taste, but it tends to come with others, such as salt, that offset its negative effects.",
+    "El umami es un sabor propio, pero suele llegar con otros, como el salado, que compensan sus efectos negativos."
+   ],
+   "d": [
+    "L'umami è diverso dagli altri gusti primari, non uguale al dolce. Si trova in cibi come funghi cotti o secchi, salumi stagionati, formaggi stagionati e miso; la cottura dei funghi lo rende anzi evidente. Non è una caratteristica del vino.",
+    "L'umami est différent des autres goûts primaires, pas identique au sucré. On le trouve dans les champignons cuits ou séchés, les viandes séchées, les fromages affinés et le miso ; la cuisson des champignons le révèle même. Ce n'est pas un caractère du vin.",
+    "Umami is distinct from the other primary tastes, not the same as sweetness. It is found in cooked or dried mushrooms, air-dried meats, aged cheeses and miso; cooking mushrooms actually brings it out. It is not a wine characteristic.",
+    "El umami es distinto de los otros sabores primarios, no igual al dulce. Está en setas cocinadas o secas, embutidos curados, quesos curados y miso; cocinar las setas incluso lo realza. No es una característica del vino."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Con una crostata di mele viene servito un Sauvignon Blanc secco. Che cosa è probabile notare?",
+    "Avec une tarte aux pommes, on sert un Sauvignon Blanc sec. Que risque-t-on de remarquer ?",
+    "A dry Sauvignon Blanc is served with an apple tart. What is likely to be noticed?",
+    "Con una tarta de manzana se sirve un Sauvignon Blanc seco. ¿Qué es probable notar?"
+   ],
+   "o": [
+    [
+     "Il vino sembra aspro e poco fruttato",
+     "Le vin paraît aigre et peu fruité",
+     "The wine tastes sour and less fruity",
+     "El vino parece agrio y poco afrutado"
+    ],
+    [
+     "Il vino sembra più dolce, più rotondo e più fruttato di quanto sia da solo",
+     "Le vin paraît plus doux, plus rond et plus fruité que seul",
+     "The wine seems sweeter, rounder and fruitier than on its own",
+     "El vino parece más dulce, redondo y afrutado que solo"
+    ],
+    [
+     "Nessun cambiamento",
+     "Aucun changement",
+     "No change at all",
+     "Ningún cambio"
+    ],
+    [
+     "Il vino sembra più alcolico",
+     "Le vin paraît plus alcooleux",
+     "The wine seems more alcoholic",
+     "El vino parece más alcohólico"
+    ]
+   ],
+   "e": [
+    "La dolcezza del piatto fa sembrare un vino secco più acido e meno fruttato.",
+    "Le sucré du plat rend un vin sec plus acide et moins fruité.",
+    "Sweetness in the dish makes a dry wine seem more acidic and less fruity.",
+    "El dulzor del plato hace que un vino seco parezca más ácido y menos afrutado."
+   ],
+   "d": [
+    "Il dolce 'indurisce' il vino. Per un dessert serve un vino più dolce del piatto. L'effetto 'più dolce e fruttato' è quello di sale e acidità nel cibo, non dello zucchero; e il dolce non aumenta la percezione dell'alcol, che è invece legata al piccante.",
+    "Le sucré « durcit » le vin. Pour un dessert, il faut un vin plus sucré que le plat. L'effet « plus doux et fruité » vient du sel et de l'acidité, pas du sucre ; et le sucré n'augmente pas la sensation d'alcool, liée plutôt au piment.",
+    "Sweetness 'hardens' wine. A dessert needs a wine sweeter than the dish. The 'sweeter and fruitier' effect comes from salt and acid in food, not sugar; and sweetness does not boost the feel of alcohol, which is linked to chilli heat.",
+    "El dulce 'endurece' el vino. Un postre pide un vino más dulce que el plato. El efecto 'más dulce y afrutado' es de la sal y la acidez de la comida, no del azúcar; y el dulce no aumenta la sensación de alcohol, que se asocia al picante."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Che effetto ha un piatto grasso o oleoso sulla percezione dell'acidità del vino?",
+    "Quel effet un plat gras ou huileux a-t-il sur l'acidité perçue du vin ?",
+    "What effect does fatty or oily food have on how acidic a wine seems?",
+    "¿Qué efecto tiene un plato graso u oleoso en la acidez que se percibe en el vino?"
+   ],
+   "o": [
+    [
+     "Il vino sembra meno acido",
+     "Le vin paraît moins acide",
+     "The wine seems less acidic",
+     "El vino parece menos ácido"
+    ],
+    [
+     "Il vino sembra molto più acido e tagliente, quasi come aceto",
+     "Le vin paraît beaucoup plus acide et mordant, presque vinaigré",
+     "The wine seems much more acidic and sharp, almost vinegary",
+     "El vino parece mucho más ácido y punzante, casi avinagrado"
+    ],
+    [
+     "Il vino sembra più tannico",
+     "Le vin paraît plus tannique",
+     "The wine seems more tannic",
+     "El vino parece más tánico"
+    ],
+    [
+     "Il vino sembra più alcolico",
+     "Le vin paraît plus alcooleux",
+     "The wine seems more alcoholic",
+     "El vino parece más alcohólico"
+    ]
+   ],
+   "e": [
+    "Il grasso del cibo fa percepire meno l'acidità del vino.",
+    "Le gras de l'aliment fait percevoir moins d'acidité dans le vin.",
+    "Fat in food makes a wine's acidity less noticeable.",
+    "La grasa de la comida hace que se note menos la acidez del vino."
+   ],
+   "d": [
+    "Per questo molte persone amano un vino acido con un piatto grasso: l'acidità sembra 'sgrassare' e pulire il palato. L'effetto opposto (più acido) non è quello del grasso. Tannino e alcol non sono gli elementi su cui agisce il grasso.",
+    "C'est pourquoi beaucoup aiment un vin acide avec un plat gras : l'acidité semble « trancher » le gras et nettoyer le palais. L'effet inverse (plus acide) n'est pas celui du gras. Le gras n'agit pas sur le tanin ou l'alcool.",
+    "This is why many people enjoy an acidic wine with fatty food: the acidity seems to 'cut through' and cleanse the palate. The opposite effect (more acidic) is not what fat does. Fat is not the factor acting on tannin or alcohol.",
+    "Por eso a mucha gente le gusta un vino ácido con un plato graso: la acidez parece 'cortar' la grasa y limpiar el paladar. El efecto contrario (más ácido) no es el de la grasa. La grasa no actúa sobre el tanino ni sobre el alcohol."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Un vino rosso molto potente e aromatico accompagna un pesce al vapore delicato. Che cosa succede probabilmente?",
+    "Un rouge très puissant et aromatique accompagne un poisson vapeur délicat. Que se passe-t-il probablement ?",
+    "A very powerful, intensely flavoured red is served with delicate steamed fish. What is likely to happen?",
+    "Un tinto muy potente y aromático acompaña un pescado al vapor delicado. ¿Qué es probable que pase?"
+   ],
+   "o": [
+    [
+     "Il vino copre il piatto",
+     "Le vin écrase le plat",
+     "The wine overpowers the dish",
+     "El vino tapa el plato"
+    ],
+    [
+     "Il pesce rende il vino più leggero e così i due trovano da soli un equilibrio perfetto",
+     "Le poisson allège le vin et les deux trouvent seuls un équilibre parfait",
+     "The fish lightens the wine so the two naturally reach perfect balance",
+     "El pescado aligera el vino y ambos encuentran solos un equilibrio perfecto"
+    ],
+    [
+     "Il vino diventa più dolce",
+     "Le vin devient plus doux",
+     "The wine becomes sweeter",
+     "El vino se vuelve más dulce"
+    ],
+    [
+     "Il piatto diventa più salato",
+     "Le plat devient plus salé",
+     "The dish becomes saltier",
+     "El plato se vuelve más salado"
+    ]
+   ],
+   "e": [
+    "Conviene abbinare intensità simili, perché uno non sovrasti l'altro: qui è il vino a dominare.",
+    "Mieux vaut accorder des intensités proches pour que l'un n'écrase pas l'autre : ici, c'est le vin qui domine.",
+    "Flavour intensities should be matched so neither overwhelms the other: here the wine dominates.",
+    "Conviene igualar intensidades para que uno no tape al otro: aquí domina el vino."
+   ],
+   "d": [
+    "La regola dell'intensità vale in entrambe le direzioni: un piatto saporito schiaccia un vino delicato e un vino potente schiaccia un piatto delicato. Un pesce al vapore non 'alleggerisce' il vino e non cambia dolcezza o sapidità.",
+    "La règle de l'intensité joue dans les deux sens : un plat relevé écrase un vin délicat, et un vin puissant écrase un plat délicat. Un poisson vapeur n'« allège » pas le vin et ne change ni la douceur ni le sel.",
+    "The intensity rule works both ways: a strongly flavoured dish swamps a delicate wine, and a powerful wine swamps a delicate dish. Steamed fish does not 'lighten' the wine or change sweetness or saltiness.",
+    "La regla de la intensidad funciona en los dos sentidos: un plato sabroso tapa un vino delicado y un vino potente tapa un plato delicado. Un pescado al vapor no 'aligera' el vino ni cambia el dulzor o la sal."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale di questi cibi NON è un tipico esempio di umami?",
+    "Lequel de ces aliments n'est PAS un exemple typique d'umami ?",
+    "Which of these foods is NOT a typical example of umami?",
+    "¿Cuál de estos alimentos NO es un ejemplo típico de umami?"
+   ],
+   "o": [
+    [
+     "Succo di limone fresco",
+     "Jus de citron frais",
+     "Fresh lemon juice",
+     "Zumo de limón fresco"
+    ],
+    [
+     "Un formaggio a pasta dura stagionato a lungo",
+     "Un fromage à pâte dure longuement affiné",
+     "A hard cheese that has been aged for a long time",
+     "Un queso curado durante mucho tiempo"
+    ],
+    [
+     "Miso",
+     "Miso",
+     "Miso",
+     "Miso"
+    ],
+    [
+     "Prosciutto stagionato all'aria",
+     "Jambon séché à l'air",
+     "Air-dried ham",
+     "Jamón curado al aire"
+    ]
+   ],
+   "e": [
+    "Il limone è soprattutto acido; formaggi stagionati, miso e salumi stagionati sono ricchi di umami.",
+    "Le citron est surtout acide ; fromages affinés, miso et viandes séchées sont riches en umami.",
+    "Lemon is mainly acidic; aged cheese, miso and air-dried meat are rich in umami.",
+    "El limón es sobre todo ácido; el queso curado, el miso y los embutidos curados son ricos en umami."
+   ],
+   "d": [
+    "L'acidità del limone ha effetti opposti all'umami: tende ad ammorbidire il vino invece di indurirlo. Gli altri tre cibi sono classici esempi di umami, insieme ai funghi cotti o secchi.",
+    "L'acidité du citron a l'effet inverse de l'umami : elle tend à assouplir le vin au lieu de le durcir. Les trois autres aliments sont des exemples classiques d'umami, avec les champignons cuits ou séchés.",
+    "Lemon's acidity has the opposite effect to umami: it tends to soften wine rather than harden it. The other three are classic umami examples, along with cooked or dried mushrooms.",
+    "La acidez del limón tiene el efecto contrario al umami: tiende a suavizar el vino en lugar de endurecerlo. Los otros tres son ejemplos clásicos de umami, junto con las setas cocinadas o secas."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quali caratteristiche del vino un piatto ricco di umami tende ad attenuare?",
+    "Quels caractères du vin un plat riche en umami tend-il à atténuer ?",
+    "Which wine characteristics does an umami-rich dish tend to reduce?",
+    "¿Qué características del vino tiende a reducir un plato rico en umami?"
+   ],
+   "o": [
+    [
+     "Dolcezza e fruttato",
+     "Douceur et fruité",
+     "Sweetness and fruitiness",
+     "Dulzor y fruta"
+    ],
+    [
+     "Acidità e amaro",
+     "Acidité et amertume",
+     "Acidity and bitterness",
+     "Acidez y amargor"
+    ],
+    [
+     "Astringenza del tannino e sensazione di secchezza in bocca",
+     "Astringence du tanin et sensation d'assèchement en bouche",
+     "Tannic grip and the drying feel in the mouth",
+     "Astringencia del tanino y sensación secante en boca"
+    ],
+    [
+     "Nessuna: l'umami non cambia il vino",
+     "Aucun : l'umami ne change pas le vin",
+     "None: umami does not change wine",
+     "Ninguna: el umami no cambia el vino"
+    ]
+   ],
+   "e": [
+    "Come la dolcezza, l'umami rende il vino meno dolce e meno fruttato.",
+    "Comme le sucré, l'umami rend le vin moins doux et moins fruité.",
+    "Like sweetness, umami makes wine seem less sweet and less fruity.",
+    "Como el dulzor, el umami hace que el vino parezca menos dulce y menos afrutado."
+   ],
+   "d": [
+    "L'umami 'indurisce' il vino: fa crescere acidità, amaro e secchezza del tannino, mentre riduce dolcezza e frutto. Le opzioni su acidità, amaro e tannino indicano quindi ciò che aumenta, non ciò che cala.",
+    "L'umami « durcit » le vin : il accroît acidité, amertume et assèchement du tanin, et réduit douceur et fruit. Les options sur l'acidité, l'amertume et le tanin indiquent donc ce qui augmente, pas ce qui diminue.",
+    "Umami 'hardens' wine: it increases acidity, bitterness and tannic drying while reducing sweetness and fruit. The options about acidity, bitterness and tannin describe what goes up, not down.",
+    "El umami 'endurece' el vino: aumenta acidez, amargor y sequedad del tanino y reduce dulzor y fruta. Las opciones sobre acidez, amargor y tanino describen lo que sube, no lo que baja."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Un bianco secco molto acido accompagna un piatto con salsa al limone. Come può sembrare il vino?",
+    "Un blanc sec très acide accompagne un plat sauce citron. Comment le vin peut-il paraître ?",
+    "A very high-acid dry white is served with a lemony dish. How might the wine seem?",
+    "Un blanco seco muy ácido acompaña un plato con salsa de limón. ¿Cómo puede parecer el vino?"
+   ],
+   "o": [
+    [
+     "Meno acido e più fruttato",
+     "Moins acide et plus fruité",
+     "Less acidic and fruitier",
+     "Menos ácido y más afrutado"
+    ],
+    [
+     "Molto più acido, al punto da diventare sgradevole e quasi imbevibile",
+     "Beaucoup plus acide, au point d'être désagréable, presque imbuvable",
+     "Far more acidic, to the point of being unpleasant and almost undrinkable",
+     "Mucho más ácido, hasta resultar desagradable y casi imbebible"
+    ],
+    [
+     "Più amaro e più tannico",
+     "Plus amer et plus tannique",
+     "More bitter and more tannic",
+     "Más amargo y más tánico"
+    ],
+    [
+     "Più alcolico e caldo",
+     "Plus alcooleux et chaud",
+     "More alcoholic and hot",
+     "Más alcohólico y cálido"
+    ]
+   ],
+   "e": [
+    "L'acidità del cibo bilancia quella di un vino molto acido e ne esalta il frutto.",
+    "L'acidité du plat équilibre celle d'un vin très acide et met son fruit en valeur.",
+    "Acid in food balances a very high-acid wine and brings out its fruit.",
+    "La acidez de la comida equilibra un vino muy ácido y realza su fruta."
+   ],
+   "d": [
+    "L'acido nel cibo 'ammorbidisce' il vino: meno acido, meno amaro, più dolce e fruttato. Il rischio è solo con un vino poco acido, che accanto a un piatto molto acido sembra piatto e senza frutto. Amaro, tannino e alcol non sono gli effetti dell'acidità del cibo.",
+    "L'acidité du plat « assouplit » le vin : moins acide, moins amer, plus doux et fruité. Le risque concerne seulement un vin peu acide, qui paraît plat et sans fruit face à un plat très acide. Amertume, tanin et alcool ne sont pas les effets de l'acidité du plat.",
+    "Acid in food 'softens' wine: less acidic, less bitter, sweeter and fruitier. The risk is only with a low-acid wine, which seems flat and fruitless next to a very acidic dish. Bitterness, tannin and alcohol are not what food acidity affects here.",
+    "La acidez de la comida 'suaviza' el vino: menos ácido, menos amargo, más dulce y afrutado. El riesgo solo existe con un vino poco ácido, que junto a un plato muy ácido parece plano y sin fruta. Amargor, tanino y alcohol no son efectos de la acidez de la comida."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "A cena c'è un curry molto piccante e un ospite non sopporta il bruciore. Quale vino è più prudente proporre?",
+    "Au dîner, un curry très pimenté est servi et un invité supporte mal le feu. Quel vin est le plus prudent ?",
+    "A very hot curry is served and a guest dislikes the burning sensation. Which wine is the safest choice?",
+    "En la cena hay un curry muy picante y a un invitado le molesta el ardor. ¿Qué vino es más prudente?"
+   ],
+   "o": [
+    [
+     "Un vino con poco alcol",
+     "Un vin peu alcoolisé",
+     "A wine with low alcohol",
+     "Un vino con poco alcohol"
+    ],
+    [
+     "Un rosso molto alcolico e corposo, che tiene testa alle spezie del piatto",
+     "Un rouge très alcoolisé et corsé, qui tient tête aux épices",
+     "A high-alcohol, full-bodied red that can stand up to the spices",
+     "Un tinto muy alcohólico y con cuerpo que aguante las especias"
+    ],
+    [
+     "Un vino fortificato",
+     "Un vin muté",
+     "A fortified wine",
+     "Un vino generoso"
+    ],
+    [
+     "Qualsiasi vino: l'alcol non conta",
+     "N'importe quel vin : l'alcool ne compte pas",
+     "Any wine: alcohol makes no difference",
+     "Cualquier vino: el alcohol no influye"
+    ]
+   ],
+   "e": [
+    "L'alcol aumenta il bruciore del peperoncino, quindi un vino leggero in alcol lo limita.",
+    "L'alcool accentue la brûlure du piment : un vin peu alcoolisé la limite.",
+    "Alcohol increases chilli burn, so a low-alcohol wine keeps it in check.",
+    "El alcohol aumenta el ardor del chile, así que un vino con poco alcohol lo limita."
+   ],
+   "d": [
+    "Gli effetti del piccante sono maggiori con vini ad alto grado: un rosso molto alcolico o un vino fortificato peggiorerebbero la situazione. Alcune persone amano quell'effetto, ma qui l'ospite no, quindi conta la sua sensibilità.",
+    "Les effets du piment sont plus forts avec les vins riches en alcool : un rouge très alcoolisé ou un vin muté aggraveraient les choses. Certaines personnes aiment cet effet, mais pas cet invité : sa sensibilité compte.",
+    "Chilli effects are greater with high-alcohol wines: a strong red or a fortified wine would make things worse. Some people enjoy that effect, but this guest does not, so their sensitivity is what counts.",
+    "Los efectos del picante son mayores con vinos de alta graduación: un tinto muy alcohólico o un generoso lo empeorarían. A algunas personas les gusta ese efecto, pero a este invitado no, así que cuenta su sensibilidad."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Oltre ad aumentare il bruciore, che cosa fa il piccante al vino?",
+    "Outre l'augmentation du feu, que fait le piment au vin ?",
+    "Besides the burn increasing, what does chilli heat do to a wine?",
+    "Además de aumentar el ardor, ¿qué hace el picante al vino?"
+   ],
+   "o": [
+    [
+     "Fa notare di più l'alcol",
+     "Il rend l'alcool plus perceptible",
+     "It makes the alcohol more noticeable",
+     "Hace que se note más el alcohol"
+    ],
+    [
+     "Lo rende più dolce, più morbido e più rotondo, nascondendo il calore alcolico",
+     "Il le rend plus doux, plus souple et rond, en masquant l'alcool",
+     "It makes it sweeter, softer and rounder, hiding the alcohol",
+     "Lo hace más dulce, suave y redondo, ocultando el alcohol"
+    ],
+    [
+     "Ne aumenta l'acidità",
+     "Il augmente son acidité",
+     "It raises its acidity",
+     "Aumenta su acidez"
+    ],
+    [
+     "Ne cambia il colore",
+     "Il change sa couleur",
+     "It changes its colour",
+     "Cambia su color"
+    ]
+   ],
+   "e": [
+    "Piccante e alcol si rinforzano a vicenda: l'alcol del vino sembra più evidente.",
+    "Piment et alcool se renforcent mutuellement : l'alcool du vin paraît plus présent.",
+    "Chilli and alcohol reinforce each other: the wine's alcohol seems more obvious.",
+    "Picante y alcohol se refuerzan entre sí: el alcohol del vino resulta más evidente."
+   ],
+   "d": [
+    "È un circolo: l'alcol esalta il bruciore e il bruciore fa sentire di più l'alcol. Il piccante non addolcisce il vino né nasconde l'alcol; non agisce sull'acidità né sul colore.",
+    "C'est un cercle : l'alcool attise le feu et le feu fait ressortir l'alcool. Le piment n'adoucit pas le vin et ne masque pas l'alcool ; il n'agit ni sur l'acidité ni sur la couleur.",
+    "It is a loop: alcohol fans the burn and the burn makes alcohol stand out. Chilli does not sweeten the wine or hide alcohol; it does not affect acidity or colour.",
+    "Es un círculo: el alcohol aviva el ardor y el ardor hace notar más el alcohol. El picante no endulza el vino ni oculta el alcohol; no actúa sobre la acidez ni el color."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Perché il sale è considerato un componente 'amico del vino'?",
+    "Pourquoi le sel est-il considéré comme un élément « ami du vin » ?",
+    "Why is salt considered a 'wine-friendly' food component?",
+    "¿Por qué se considera la sal un componente 'amigo del vino'?"
+   ],
+   "o": [
+    [
+     "Esalta il sapore, anche del vino, e ammorbidisce il tannino",
+     "Il exalte les saveurs, y compris du vin, et assouplit le tanin",
+     "It boosts flavour, wine's included, and softens tannin",
+     "Realza el sabor, también del vino, y suaviza el tanino"
+    ],
+    [
+     "Copre del tutto il vino, così qualunque bottiglia va bene con qualsiasi piatto",
+     "Il masque complètement le vin, donc toute bouteille va avec tout plat",
+     "It masks the wine completely, so any bottle suits any dish",
+     "Tapa por completo el vino, así que cualquier botella va con todo"
+    ],
+    [
+     "Aumenta l'acidità del vino",
+     "Il augmente l'acidité du vin",
+     "It raises the wine's acidity",
+     "Aumenta la acidez del vino"
+    ],
+    [
+     "Riduce l'alcol del vino",
+     "Il réduit l'alcool du vin",
+     "It lowers the wine's alcohol",
+     "Reduce el alcohol del vino"
+    ]
+   ],
+   "e": [
+    "Come rende più saporito anche un riso bollito, il sale rende il vino più fruttato e il tannino più morbido.",
+    "Comme il rend plus savoureux même un riz nature, le sel rend le vin plus fruité et le tanin plus souple.",
+    "Just as it makes even plain boiled rice tastier, salt makes wine fruitier and tannin softer.",
+    "Igual que da más sabor incluso a un arroz hervido, la sal hace el vino más afrutado y el tanino más suave."
+   ],
+   "d": [
+    "Il sale non nasconde il vino: lo valorizza. Riduce l'acidità percepita, non la aumenta, e non cambia il grado alcolico reale né quello percepito in modo significativo.",
+    "Le sel ne masque pas le vin : il le met en valeur. Il réduit l'acidité perçue au lieu de l'augmenter, et ne modifie pas vraiment l'alcool.",
+    "Salt does not hide wine: it shows it off. It reduces perceived acidity rather than raising it, and does not really change the alcohol.",
+    "La sal no oculta el vino: lo realza. Reduce la acidez percibida en lugar de aumentarla y no cambia realmente el alcohol."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale coppia contiene un componente che 'indurisce' il vino e uno che lo 'ammorbidisce'?",
+    "Quelle paire réunit un élément qui « durcit » le vin et un qui l'« assouplit » ?",
+    "Which pair contains one component that 'hardens' wine and one that 'softens' it?",
+    "¿Qué pareja reúne un componente que 'endurece' el vino y otro que lo 'suaviza'?"
+   ],
+   "o": [
+    [
+     "Umami e sale",
+     "Umami et sel",
+     "Umami and salt",
+     "Umami y sal"
+    ],
+    [
+     "Dolcezza e umami",
+     "Sucre et umami",
+     "Sweetness and umami",
+     "Dulzor y umami"
+    ],
+    [
+     "Sale e acidità",
+     "Sel et acidité",
+     "Salt and acidity",
+     "Sal y acidez"
+    ],
+    [
+     "Dolcezza del dessert e umami dei funghi secchi",
+     "Sucre du dessert et umami des champignons séchés",
+     "Dessert sweetness and the umami in dried mushrooms",
+     "Dulzor del postre y umami de las setas secas"
+    ]
+   ],
+   "e": [
+    "L'umami indurisce il vino, il sale lo ammorbidisce.",
+    "L'umami durcit le vin, le sel l'assouplit.",
+    "Umami hardens wine; salt softens it.",
+    "El umami endurece el vino; la sal lo suaviza."
+   ],
+   "d": [
+    "Dolcezza e umami sono entrambi componenti 'induritori' (anche nella versione con dessert e funghi); sale e acidità sono entrambi 'ammorbidenti'. Solo la coppia umami–sale mescola i due gruppi.",
+    "Sucre et umami durcissent tous deux (y compris dans la version dessert et champignons) ; sel et acidité assouplissent tous deux. Seule la paire umami–sel mêle les deux groupes.",
+    "Sweetness and umami both harden wine (including the dessert-and-mushroom version); salt and acid both soften it. Only umami–salt mixes the two groups.",
+    "El dulzor y el umami endurecen ambos (también en la versión postre y setas); la sal y la acidez suavizan ambas. Solo la pareja umami–sal mezcla los dos grupos."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Un rosso giovane e tannico sembra troppo duro da solo. Quale piatto lo farà sembrare più morbido?",
+    "Un rouge jeune et tannique paraît trop dur seul. Quel plat le rendra plus souple ?",
+    "A young, tannic red feels too harsh on its own. Which dish will make it seem softer?",
+    "Un tinto joven y tánico resulta demasiado duro solo. ¿Qué plato lo hará parecer más suave?"
+   ],
+   "o": [
+    [
+     "Una bistecca ben salata",
+     "Un steak bien salé",
+     "A well-salted steak",
+     "Un filete bien salado"
+    ],
+    [
+     "Un risotto ai funghi secchi con parmigiano stagionato a lungo",
+     "Un risotto aux champignons séchés et parmesan longuement affiné",
+     "A dried-mushroom risotto with long-aged parmesan",
+     "Un risotto de setas secas con parmesano muy curado"
+    ],
+    [
+     "Una torta al cioccolato",
+     "Un gâteau au chocolat",
+     "A chocolate cake",
+     "Una tarta de chocolate"
+    ],
+    [
+     "Una crostata di frutta",
+     "Une tarte aux fruits",
+     "A fruit tart",
+     "Una tarta de frutas"
+    ]
+   ],
+   "e": [
+    "Il sale ammorbidisce il tannino e rende il vino più fruttato.",
+    "Le sel assouplit le tanin et rend le vin plus fruité.",
+    "Salt softens tannin and makes the wine fruitier.",
+    "La sal suaviza el tanino y hace el vino más afrutado."
+   ],
+   "d": [
+    "Il risotto con funghi secchi e formaggio stagionato è ricco di umami, che renderebbe il vino ancora più amaro e astringente. I dolci farebbero sembrare il vino più duro, meno fruttato e più acido.",
+    "Le risotto aux champignons séchés et fromage affiné est riche en umami, qui rendrait le vin encore plus amer et asséchant. Les desserts rendraient le vin plus dur, moins fruité et plus acide.",
+    "The dried-mushroom and aged-cheese risotto is rich in umami, which would make the wine even more bitter and drying. The desserts would make the wine harder, less fruity and more acidic.",
+    "El risotto de setas secas y queso curado es rico en umami, que haría el vino aún más amargo y secante. Los postres harían que el vino pareciera más duro, menos afrutado y más ácido."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Quale di questi elementi NON fa parte di un buon ambiente di degustazione?",
+    "Lequel de ces éléments ne fait PAS partie d'un bon cadre de dégustation ?",
+    "Which of these does NOT belong in a good tasting environment?",
+    "¿Cuál de estos elementos NO forma parte de un buen entorno de cata?"
+   ],
+   "o": [
+    [
+     "Candele profumate sul tavolo",
+     "Des bougies parfumées sur la table",
+     "Scented candles on the table",
+     "Velas aromáticas en la mesa"
+    ],
+    [
+     "Una buona luce per valutare l'aspetto",
+     "Un bon éclairage pour juger l'aspect",
+     "Good lighting to judge appearance",
+     "Buena luz para valorar el aspecto"
+    ],
+    [
+     "Spazio sufficiente per i bicchieri e per prendere appunti con calma",
+     "Assez de place pour les verres et pour prendre des notes tranquillement",
+     "Enough space to lay out glasses and take notes comfortably",
+     "Espacio suficiente para las copas y para tomar notas con calma"
+    ],
+    [
+     "Sputacchiere a disposizione",
+     "Des crachoirs à disposition",
+     "Spittoons available",
+     "Escupideras disponibles"
+    ]
+   ],
+   "e": [
+    "L'ambiente deve essere privo di odori forti che interferiscano con gli aromi del vino.",
+    "Le lieu doit être exempt d'odeurs fortes qui gêneraient les arômes du vin.",
+    "The room should be free of strong smells that would interfere with the wine's aromas.",
+    "El lugar debe estar libre de olores fuertes que interfieran con los aromas del vino."
+   ],
+   "d": [
+    "Luce, spazio e sputacchiere sono tutti elementi utili. Un profumo nell'aria, come quello delle candele, confonde il naso e rende difficile riconoscere gli aromi del vino.",
+    "Lumière, espace et crachoirs sont utiles. Une odeur dans l'air, comme celle des bougies, brouille le nez et empêche de bien reconnaître les arômes du vin.",
+    "Light, space and spittoons all help. A scent in the air, such as from candles, confuses the nose and makes the wine's aromas hard to identify.",
+    "La luz, el espacio y las escupideras ayudan. Un olor en el ambiente, como el de las velas, confunde la nariz y dificulta reconocer los aromas del vino."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Prima di una degustazione, che cosa conviene evitare per rispetto di sé e degli altri?",
+    "Avant une dégustation, que vaut-il mieux éviter, pour soi et pour les autres ?",
+    "Before a tasting, what should you avoid, for your own sake and others'?",
+    "Antes de una cata, ¿qué conviene evitar, por uno mismo y por los demás?"
+   ],
+   "o": [
+    [
+     "Profumi e cibi o dentifricio dal gusto forte",
+     "Parfum et aliments ou dentifrice au goût fort",
+     "Perfume and strong-tasting food or toothpaste",
+     "Perfume y comida o pasta de dientes de sabor fuerte"
+    ],
+    [
+     "Bere un bicchiere d'acqua naturale a temperatura ambiente",
+     "Boire un verre d'eau plate à température ambiante",
+     "Drinking a glass of still water at room temperature",
+     "Beber un vaso de agua sin gas a temperatura ambiente"
+    ],
+    [
+     "Portare un quaderno",
+     "Apporter un carnet",
+     "Bringing a notebook",
+     "Llevar un cuaderno"
+    ],
+    [
+     "Indossare abiti scuri",
+     "Porter des vêtements sombres",
+     "Wearing dark clothes",
+     "Llevar ropa oscura"
+    ]
+   ],
+   "e": [
+    "Serve un palato pulito e un'aria senza profumi: dentifricio, cibi forti e profumi interferiscono con il vino.",
+    "Il faut un palais propre et un air sans parfum : dentifrice, aliments forts et parfums gênent la dégustation.",
+    "You need a clean palate and scent-free air: toothpaste, strong foods and perfume all interfere.",
+    "Se necesita un paladar limpio y un aire sin perfumes: pasta de dientes, comidas fuertes y perfume interfieren."
+   ],
+   "d": [
+    "Un sapore che resta in bocca altera la percezione del vino, e un profumo disturba anche il naso di chi è accanto. L'acqua aiuta, il quaderno serve per le note e il colore dei vestiti non conta.",
+    "Un goût qui persiste fausse la perception du vin, et un parfum gêne aussi le nez des voisins. L'eau aide, le carnet sert aux notes et la couleur des vêtements ne compte pas.",
+    "A lingering taste skews your perception of the wine, and perfume also disturbs the noses of people nearby. Water helps, a notebook is for notes, and clothing colour is irrelevant.",
+    "Un sabor que permanece altera la percepción del vino, y un perfume molesta también a quien está al lado. El agua ayuda, el cuaderno sirve para notas y el color de la ropa da igual."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Perché in degustazione si versa un campione piccolo e sempre uguale, circa 5 cl?",
+    "Pourquoi verse-t-on en dégustation un petit échantillon constant, environ 5 cl ?",
+    "Why is a small, consistent sample of about 5 cl poured for tasting?",
+    "¿Por qué en una cata se sirve una muestra pequeña y constante, de unos 5 cl?"
+   ],
+   "o": [
+    [
+     "Basta per valutare e si ruota senza versarlo",
+     "Assez pour juger, et on le fait tourner sans renverser",
+     "Enough to assess, small enough to swirl without spilling",
+     "Basta para valorar y se gira sin derramar"
+    ],
+    [
+     "Per bere il meno possibile, perché in degustazione il vino non va mai assaggiato",
+     "Pour boire le moins possible, car on ne goûte jamais le vin en dégustation",
+     "To drink as little as possible, since wine is never tasted in a tasting",
+     "Para beber lo mínimo, porque en una cata el vino nunca se prueba"
+    ],
+    [
+     "Per tenere il vino più freddo",
+     "Pour garder le vin plus frais",
+     "To keep the wine colder",
+     "Para mantener el vino más frío"
+    ],
+    [
+     "Perché il colore si vede solo in poco vino",
+     "Parce que la couleur ne se voit que dans peu de vin",
+     "Because colour only shows in a little wine",
+     "Porque el color solo se ve con poco vino"
+    ]
+   ],
+   "e": [
+    "Circa 5 cl bastano per aspetto, naso e bocca, e lasciano spazio per far ruotare il vino senza versarlo.",
+    "Environ 5 cl suffisent pour l'œil, le nez et la bouche, et laissent de quoi faire tourner le vin sans le renverser.",
+    "About 5 cl is enough for appearance, nose and palate, and leaves room to swirl without spilling.",
+    "Unos 5 cl bastan para vista, nariz y boca, y dejan sitio para girar el vino sin derramarlo."
+   ],
+   "d": [
+    "Versare sempre la stessa quantità rende i vini confrontabili tra loro. Il vino si assaggia eccome, per giudicare la bocca, anche se si può sputare. La quantità non cambia la temperatura in modo utile, e il colore si valuta bene con qualsiasi quantità ragionevole.",
+    "Verser toujours la même quantité rend les vins comparables. On goûte bien le vin pour juger la bouche, même si l'on crache. La quantité ne change pas utilement la température, et la couleur se juge avec toute quantité raisonnable.",
+    "Pouring the same amount each time makes wines comparable. Wine is certainly tasted to judge the palate, even if you spit. The amount does not usefully change temperature, and colour can be judged with any sensible volume.",
+    "Servir siempre la misma cantidad hace los vinos comparables. El vino sí se prueba para valorar la boca, aunque se escupa. La cantidad no cambia la temperatura de forma útil y el color se valora con cualquier cantidad razonable."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Guardando dall'alto un rosso nel bicchiere dritto, non si riesce a vedere lo stelo. Come si descrive l'intensità?",
+    "En regardant d'en haut un rouge dans un verre droit, on ne voit pas la jambe. Comment décrire l'intensité ?",
+    "Looking down into an upright glass of red, you cannot see the stem. How is the intensity described?",
+    "Mirando desde arriba un tinto en la copa recta, no se ve el tallo. ¿Cómo se describe la intensidad?"
+   ],
+   "o": [
+    [
+     "Profonda",
+     "Profonde",
+     "Deep",
+     "Profunda"
+    ],
+    [
+     "Pallida, perché la luce non attraversa il vino fino allo stelo",
+     "Pâle, car la lumière ne traverse pas le vin jusqu'à la jambe",
+     "Pale, because light cannot pass through to the stem",
+     "Pálida, porque la luz no atraviesa el vino hasta el tallo"
+    ],
+    [
+     "Media",
+     "Moyenne",
+     "Medium",
+     "Media"
+    ],
+    [
+     "Velata",
+     "Trouble",
+     "Hazy",
+     "Turbia"
+    ]
+   ],
+   "e": [
+    "Un rosso così intenso che nasconde lo stelo ha un'intensità profonda.",
+    "Un rouge si intense qu'il cache la jambe a une intensité profonde.",
+    "A red so intense that it hides the stem has deep intensity.",
+    "Un tinto tan intenso que oculta el tallo tiene una intensidad profunda."
+   ],
+   "d": [
+    "Se lo stelo si vede bene, il rosso è pallido; se non si vede affatto, è profondo. 'Velato' riguarda la limpidezza (particelle in sospensione), non l'intensità del colore.",
+    "Si l'on voit bien la jambe, le rouge est pâle ; si on ne la voit pas du tout, il est profond. « Trouble » concerne la limpidité (particules en suspension), pas l'intensité de la couleur.",
+    "If the stem is easy to see, the red is pale; if it cannot be seen at all, it is deep. 'Hazy' is about clarity (suspended particles), not colour intensity.",
+    "Si el tallo se ve bien, el tinto es pálido; si no se ve en absoluto, es profundo. 'Turbio' se refiere a la limpidez (partículas en suspensión), no a la intensidad del color."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un bianco, con il bicchiere inclinato, ha un largo bordo quasi acquoso. Come si descrive la sua intensità?",
+    "Un blanc, verre incliné, présente un large bord presque aqueux. Comment décrire son intensité ?",
+    "A white wine, with the glass tilted, shows a broad watery rim. How is its intensity described?",
+    "Un blanco, con la copa inclinada, muestra un borde ancho casi acuoso. ¿Cómo se describe su intensidad?"
+   ],
+   "o": [
+    [
+     "Pallida",
+     "Pâle",
+     "Pale",
+     "Pálida"
+    ],
+    [
+     "Profonda",
+     "Profonde",
+     "Deep",
+     "Profunda"
+    ],
+    [
+     "Ambrata",
+     "Ambrée",
+     "Amber",
+     "Ámbar"
+    ],
+    [
+     "Difettosa, perché un bianco sano deve essere colorato fino al bordo",
+     "Défectueuse, car un blanc sain doit être coloré jusqu'au bord",
+     "Faulty, because a healthy white should be coloured right to the rim",
+     "Defectuosa, porque un blanco sano debe tener color hasta el borde"
+    ]
+   ],
+   "e": [
+    "Un ampio bordo acquoso indica un bianco pallido; se il colore arriva quasi al bordo è profondo.",
+    "Un large bord aqueux signale un blanc pâle ; si la couleur va presque jusqu'au bord, il est profond.",
+    "A broad watery rim means a pale white; if colour reaches almost to the rim, it is deep.",
+    "Un borde ancho y acuoso indica un blanco pálido; si el color llega casi al borde, es profundo."
+   ],
+   "d": [
+    "Tutti i bianchi appaiono incolori proprio sul bordo, quindi non è un difetto. 'Ambrato' descrive il colore (molto brunito), non l'intensità.",
+    "Tous les blancs paraissent incolores tout au bord : ce n'est pas un défaut. « Ambré » décrit la couleur (très brunie), pas l'intensité.",
+    "Every white looks colourless right at the rim, so this is not a fault. 'Amber' describes colour (heavily browned), not intensity.",
+    "Todos los blancos parecen incoloros justo en el borde, así que no es un defecto. 'Ámbar' describe el color (muy oscurecido), no la intensidad."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un bianco mostra un riflesso arancio o bruno, pur restando chiaramente giallo. Come si descrive il colore?",
+    "Un blanc montre un reflet orangé ou brun, tout en restant nettement jaune. Comment décrire sa couleur ?",
+    "A white wine shows a hint of orange or brown but is still clearly yellow. What is its colour?",
+    "Un blanco muestra un matiz anaranjado o pardo pero sigue siendo claramente amarillo. ¿Qué color tiene?"
+   ],
+   "o": [
+    [
+     "Dorato",
+     "Doré",
+     "Gold",
+     "Dorado"
+    ],
+    [
+     "Limone-verde",
+     "Citron-vert",
+     "Lemon-green",
+     "Limón verdoso"
+    ],
+    [
+     "Limone",
+     "Citron",
+     "Lemon",
+     "Limón"
+    ],
+    [
+     "Marrone, perché qualsiasi traccia di bruno basta a definirlo così",
+     "Brun, car la moindre trace de brun suffit",
+     "Brown, because any trace of brown is enough to call it that",
+     "Marrón, porque cualquier rastro de pardo basta para llamarlo así"
+    ]
+   ],
+   "e": [
+    "Un bianco con una punta di arancio o bruno si definisce dorato.",
+    "Un blanc avec une pointe d'orange ou de brun se dit doré.",
+    "A white with a hint of orange or brown is described as gold.",
+    "Un blanco con un toque anaranjado o pardo se describe como dorado."
+   ],
+   "d": [
+    "Per i bianchi la scala va dal limone-verde al bruno: il limone è il colore più comune, il limone-verde ha una nota verde evidente. Ambra o bruno si usano solo quando l'imbrunimento è molto marcato.",
+    "Pour les blancs, l'échelle va du citron-vert au brun : citron est la couleur la plus courante, citron-vert a une nette touche verte. Ambre ou brun ne s'emploient que pour un brunissement très marqué.",
+    "For whites the scale runs from lemon-green to brown: lemon is the most common colour, lemon-green has a clear green tinge. Amber or brown are only used for very marked browning.",
+    "En los blancos la escala va de limón verdoso a marrón: limón es el color más habitual y limón verdoso tiene un toque verde claro. Ámbar o marrón solo se usan con un oscurecimiento muy marcado."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un rosato è rosa ma con una leggera sfumatura arancio. Come si descrive?",
+    "Un rosé est rose avec une légère nuance orangée. Comment le décrire ?",
+    "A rosé is pink with a slight orange tinge. How is it described?",
+    "Un rosado es rosa con un ligero matiz anaranjado. ¿Cómo se describe?"
+   ],
+   "o": [
+    [
+     "Rosa-arancio",
+     "Rose-orangé",
+     "Pink-orange",
+     "Rosa anaranjado"
+    ],
+    [
+     "Arancio, colore molto comune nei rosati giovani",
+     "Orange, couleur très courante chez les rosés jeunes",
+     "Orange, a very common colour in young rosés",
+     "Naranja, color muy habitual en rosados jóvenes"
+    ],
+    [
+     "Rosa",
+     "Rose",
+     "Pink",
+     "Rosa"
+    ],
+    [
+     "Ramato-bruno",
+     "Cuivré-brun",
+     "Copper-brown",
+     "Cobrizo pardo"
+    ]
+   ],
+   "e": [
+    "Rosa puro = rosa; rosa con un tocco di arancio = rosa-arancio; arancio dominante = arancio.",
+    "Rose pur = rose ; rose avec une touche d'orange = rose-orangé ; orange dominant = orange.",
+    "Pure pink = pink; pink with a hint of orange = pink-orange; orange dominant = orange.",
+    "Rosa puro = rosa; rosa con un toque naranja = rosa anaranjado; naranja dominante = naranja."
+   ],
+   "d": [
+    "'Arancio' si usa quando l'arancio domina, e questi vini sono molto rari, non comuni. 'Rosa' è riservato a un rosa puro. 'Ramato-bruno' non fa parte della scala dei rosati usata qui.",
+    "« Orange » s'emploie quand l'orange domine, et ces vins sont très rares, pas courants. « Rose » est réservé à un rose pur. « Cuivré-brun » ne fait pas partie de l'échelle des rosés utilisée ici.",
+    "'Orange' is used when orange dominates, and such wines are very rare, not common. 'Pink' is kept for a pure pink. 'Copper-brown' is not part of the rosé scale used here.",
+    "'Naranja' se usa cuando domina el naranja, y esos vinos son muy raros, no habituales. 'Rosa' se reserva para un rosa puro. 'Cobrizo pardo' no forma parte de la escala de rosados usada aquí."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Perché può essere utile annusare il vino una volta prima di farlo ruotare nel bicchiere?",
+    "Pourquoi peut-il être utile de sentir le vin une fois avant de l'agiter dans le verre ?",
+    "Why can it help to take a quick sniff before swirling the wine?",
+    "¿Por qué puede ser útil oler el vino una vez antes de girarlo en la copa?"
+   ],
+   "o": [
+    [
+     "Per cogliere aromi molto delicati",
+     "Pour saisir des arômes très délicats",
+     "To catch very delicate aromas",
+     "Para captar aromas muy delicados"
+    ],
+    [
+     "Per capire subito il grado alcolico e la dolcezza esatta del vino",
+     "Pour connaître tout de suite le degré et la douceur exacte",
+     "To find out the exact alcohol level and sweetness at once",
+     "Para saber al instante la graduación y el dulzor exactos"
+    ],
+    [
+     "Per evitare di dover ruotare il vino",
+     "Pour éviter de devoir l'agiter",
+     "To avoid having to swirl at all",
+     "Para no tener que girar el vino"
+    ],
+    [
+     "Per scaldare il vino con il respiro",
+     "Pour réchauffer le vin avec son souffle",
+     "To warm the wine with your breath",
+     "Para templar el vino con el aliento"
+    ]
+   ],
+   "e": [
+    "Alcuni aromi delicati si colgono meglio con una breve annusata prima di agitare il bicchiere.",
+    "Certains arômes délicats se perçoivent mieux par un bref coup de nez avant d'agiter le verre.",
+    "Some delicate aromas are best caught with a brief sniff before swirling.",
+    "Algunos aromas delicados se perciben mejor con una breve olfacción antes de girar la copa."
+   ],
+   "d": [
+    "Dopo la prima annusata si fa comunque ruotare il vino per liberare gli aromi, poi si annusa di nuovo. Alcol e dolcezza si valutano in bocca, non con il naso; e il respiro non scalda il vino.",
+    "Après ce premier coup de nez, on agite quand même le vin pour libérer les arômes, puis on sent de nouveau. Alcool et douceur se jugent en bouche, pas au nez ; et le souffle ne réchauffe pas le vin.",
+    "After that first sniff you still swirl to release aromas, then smell again. Alcohol and sweetness are judged on the palate, not the nose; and breath does not warm the wine.",
+    "Tras esa primera olfacción se gira igualmente el vino para liberar aromas y se vuelve a oler. Alcohol y dulzor se valoran en boca, no en nariz; y el aliento no templa el vino."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Anche dopo averlo fatto ruotare, gli aromi di un vino sono deboli e difficili da cogliere. Come si descrive l'intensità al naso?",
+    "Même après agitation, les arômes d'un vin restent faibles et difficiles à saisir. Comment décrire l'intensité au nez ?",
+    "Even after swirling, a wine's aromas are faint and hard to detect. How is its aroma intensity described?",
+    "Incluso después de girarlo, los aromas de un vino son débiles y difíciles de captar. ¿Cómo se describe su intensidad en nariz?"
+   ],
+   "o": [
+    [
+     "Leggera",
+     "Légère",
+     "Light",
+     "Ligera"
+    ],
+    [
+     "Pronunciata",
+     "Prononcée",
+     "Pronounced",
+     "Pronunciada"
+    ],
+    [
+     "Media",
+     "Moyenne",
+     "Medium",
+     "Media"
+    ],
+    [
+     "Difettosa, perché un vino sano deve sempre avere aromi evidenti fin da subito",
+     "Défectueuse, car un vin sain doit toujours avoir des arômes nets d'emblée",
+     "Faulty, because a sound wine should always have obvious aromas straight away",
+     "Defectuosa, porque un vino sano siempre debe tener aromas claros desde el principio"
+    ]
+   ],
+   "e": [
+    "Aromi deboli anche dopo la rotazione = intensità leggera; aromi immediati = pronunciata.",
+    "Arômes faibles même après agitation = intensité légère ; arômes immédiats = prononcée.",
+    "Faint aromas even after swirling = light; aromas obvious at once = pronounced.",
+    "Aromas débiles incluso tras girar = ligera; aromas inmediatos = pronunciada."
+   ],
+   "d": [
+    "Tutto ciò che sta in mezzo è 'medio'. Un'intensità leggera non significa difetto: i difetti si riconoscono da odori precisi come cartone bagnato o note ossidate inattese, o dalla mancanza del frutto atteso.",
+    "Tout ce qui se situe entre les deux est « moyen ». Une intensité légère n'est pas un défaut : les défauts se reconnaissent à des odeurs précises comme le carton mouillé ou des notes oxydées inattendues, ou à l'absence du fruit attendu.",
+    "Anything in between is 'medium'. Light intensity is not a fault: faults show as specific smells such as damp cardboard or unexpected oxidised notes, or as missing expected fruit.",
+    "Lo que queda entre medias es 'media'. Una intensidad ligera no es un defecto: los defectos se reconocen por olores concretos como cartón mojado o notas oxidadas inesperadas, o por la falta de la fruta esperada."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Che differenza c'è tra un vino 'abboccato' (off-dry) e uno 'medio' per dolcezza?",
+    "Quelle différence entre un vin « off-dry » (à peine doux) et un vin « moyen » en sucrosité ?",
+    "What separates an 'off-dry' wine from a 'medium' one for sweetness?",
+    "¿Qué diferencia un vino 'off-dry' (apenas abocado) de uno 'medio' en dulzor?"
+   ],
+   "o": [
+    [
+     "Off-dry: appena percepibile; medio: zucchero netto",
+     "Off-dry : à peine perceptible ; moyen : sucre net",
+     "Off-dry: barely detectable; medium: distinct sugar",
+     "Off-dry: apenas perceptible; medio: azúcar evidente"
+    ],
+    [
+     "Off-dry ha più zucchero del medio ed è adatto a quasi tutti i dessert",
+     "Off-dry a plus de sucre que moyen et convient à presque tous les desserts",
+     "Off-dry has more sugar than medium and suits most desserts",
+     "Off-dry tiene más azúcar que medio y va con casi todos los postres"
+    ],
+    [
+     "Sono la stessa cosa",
+     "C'est la même chose",
+     "They are the same thing",
+     "Son lo mismo"
+    ],
+    [
+     "Dipende solo dall'alcol",
+     "Cela dépend seulement de l'alcool",
+     "It depends only on alcohol",
+     "Depende solo del alcohol"
+    ]
+   ],
+   "e": [
+    "Off-dry ha una minima traccia di zucchero percepibile; medio ha zucchero evidente ma in genere non abbastanza per i dessert.",
+    "Off-dry a une infime trace de sucre perceptible ; moyen a un sucre net mais en général insuffisant pour un dessert.",
+    "Off-dry has a tiny detectable amount of sugar; medium has distinct sugar but is usually not sweet enough for most desserts.",
+    "Off-dry tiene una mínima cantidad de azúcar perceptible; medio tiene azúcar claro, pero en general no basta para la mayoría de postres."
+   ],
+   "d": [
+    "La scala va da secco (zucchero non percepibile) a off-dry, medio e dolce (lo zucchero domina, come nel Sauternes o nel Porto). L'ordine dell'opzione sbagliata è invertito, e l'alcol non definisce la dolcezza.",
+    "L'échelle va de sec (sucre imperceptible) à off-dry, moyen et sucré (le sucre domine, comme dans le Sauternes ou le Porto). L'option fausse inverse l'ordre, et l'alcool ne définit pas la douceur.",
+    "The scale runs dry (no detectable sugar), off-dry, medium, sweet (sugar dominates, as in Sauternes or Port). The wrong option reverses the order, and alcohol does not define sweetness.",
+    "La escala va de seco (azúcar imperceptible) a off-dry, medio y dulce (domina el azúcar, como en el Sauternes o el Oporto). La opción errónea invierte el orden y el alcohol no define el dulzor."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un vino dolce ha molta acidità, ma sembra meno acido di un bianco secco molto vivace. Perché?",
+    "Un vin liquoreux a beaucoup d'acidité mais paraît moins acide qu'un blanc sec très vif. Pourquoi ?",
+    "A sweet wine has high acidity but seems less acidic than a very crisp dry white. Why?",
+    "Un vino dulce tiene mucha acidez pero parece menos ácido que un blanco seco muy vivo. ¿Por qué?"
+   ],
+   "o": [
+    [
+     "Zucchero e acidità si mascherano a vicenda",
+     "Sucre et acidité se masquent mutuellement",
+     "Sugar and acidity mask each other",
+     "El azúcar y la acidez se enmascaran entre sí"
+    ],
+    [
+     "Lo zucchero distrugge chimicamente l'acido durante l'invecchiamento in bottiglia",
+     "Le sucre détruit chimiquement l'acide pendant la garde en bouteille",
+     "Sugar chemically destroys the acid during bottle ageing",
+     "El azúcar destruye químicamente el ácido durante el envejecimiento en botella"
+    ],
+    [
+     "I vini dolci si servono più caldi",
+     "Les liquoreux se servent plus chauds",
+     "Sweet wines are served warmer",
+     "Los dulces se sirven más calientes"
+    ],
+    [
+     "L'alcol copre l'acidità",
+     "L'alcool couvre l'acidité",
+     "The alcohol covers the acidity",
+     "El alcohol tapa la acidez"
+    ]
+   ],
+   "e": [
+    "In un vino dolce l'acidità bilancia lo zucchero invece di dominare, quindi sembra meno evidente.",
+    "Dans un liquoreux, l'acidité équilibre le sucre au lieu de dominer, d'où une impression moindre.",
+    "In a sweet wine the acidity balances the sugar instead of dominating, so it seems less obvious.",
+    "En un vino dulce la acidez equilibra el azúcar en lugar de dominar, por eso parece menos evidente."
+   ],
+   "d": [
+    "L'acido è ancora tutto lì: l'acquolina in bocca resta la guida più affidabile per misurarlo. I vini dolci si servono anzi più freddi. L'alcol può creare un bruciore simile all'acidità, ma non la nasconde.",
+    "L'acide est toujours là : la salivation reste le repère le plus fiable pour le juger. Les liquoreux se servent d'ailleurs plus frais. L'alcool peut donner une brûlure proche de l'acidité, mais il ne la masque pas.",
+    "The acid is all still there: mouth-watering remains the most reliable guide to it. Sweet wines are in fact served colder. Alcohol can create a burn that feels like acidity, but it does not hide it.",
+    "El ácido sigue ahí: la salivación es la guía más fiable para medirlo. Los dulces, además, se sirven más fríos. El alcohol puede dar un ardor parecido a la acidez, pero no la oculta."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un vino brucia in bocca e non si è sicuri se sia acidità o alcol. Come si distingue?",
+    "Un vin brûle en bouche et on ne sait pas si c'est l'acidité ou l'alcool. Comment trancher ?",
+    "A wine gives a burning feel and you are unsure if it is acidity or alcohol. How do you tell?",
+    "Un vino quema en boca y no se sabe si es acidez o alcohol. ¿Cómo distinguirlo?"
+   ],
+   "o": [
+    [
+     "Si osserva quanto fa salivare",
+     "On observe la salivation",
+     "Check how much it makes your mouth water",
+     "Fijarse en cuánto hace salivar"
+    ],
+    [
+     "Si guarda il colore: più è intenso, più il bruciore viene sicuramente dall'alcol",
+     "On regarde la couleur : plus elle est intense, plus la brûlure vient de l'alcool",
+     "Look at the colour: the deeper it is, the more the burn must be alcohol",
+     "Mirar el color: cuanto más intenso, más seguro es que el ardor sea alcohol"
+    ],
+    [
+     "Si annusa più a lungo",
+     "On sent plus longtemps",
+     "Smell it for longer",
+     "Olerlo más tiempo"
+    ],
+    [
+     "Si misura la persistenza",
+     "On mesure la longueur",
+     "Measure the length",
+     "Medir la persistencia"
+    ]
+   ],
+   "e": [
+    "L'acidità fa salivare, l'alcol no: è l'effetto salivazione a chiarire il dubbio.",
+    "L'acidité fait saliver, l'alcool non : c'est la salivation qui tranche.",
+    "Acidity makes your mouth water and alcohol does not: the mouth-watering effect settles it.",
+    "La acidez hace salivar y el alcohol no: la salivación resuelve la duda."
+   ],
+   "d": [
+    "L'alcol alto dà una sensazione calda e bruciante, soprattutto dopo aver sputato o deglutito, che può confondersi con l'acidità. Colore, naso e persistenza non permettono di separare le due sensazioni.",
+    "Un alcool élevé donne une sensation chaude et brûlante, surtout après avoir craché ou avalé, qui peut se confondre avec l'acidité. Couleur, nez et longueur ne permettent pas de séparer les deux.",
+    "High alcohol gives a hot, burning feel, especially after spitting or swallowing, that can be confused with acidity. Colour, nose and length cannot separate the two.",
+    "El alcohol alto da una sensación cálida y ardiente, sobre todo tras escupir o tragar, que puede confundirse con la acidez. El color, la nariz y la persistencia no permiten separarlas."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Quale affermazione sul corpo di un vino è corretta?",
+    "Quelle affirmation sur le corps d'un vin est correcte ?",
+    "Which statement about a wine's body is correct?",
+    "¿Qué afirmación sobre el cuerpo de un vino es correcta?"
+   ],
+   "o": [
+    [
+     "Un'acidità alta lo fa sembrare più leggero",
+     "Une acidité élevée le fait paraître plus léger",
+     "High acidity makes a wine feel lighter",
+     "Una acidez alta lo hace parecer más ligero"
+    ],
+    [
+     "Lo zucchero lo rende sempre più leggero e più fresco, soprattutto nei vini dolci",
+     "Le sucre le rend toujours plus léger et plus frais, surtout dans les liquoreux",
+     "Sugar always makes it lighter and fresher, especially in sweet wines",
+     "El azúcar siempre lo hace más ligero y fresco, sobre todo en los dulces"
+    ],
+    [
+     "È un gusto percepito sulla lingua",
+     "C'est un goût perçu sur la langue",
+     "It is a taste picked up on the tongue",
+     "Es un sabor que se percibe en la lengua"
+    ],
+    [
+     "Dipende solo dal tannino",
+     "Il dépend uniquement du tanin",
+     "It depends only on tannin",
+     "Depende solo del tanino"
+    ]
+   ],
+   "e": [
+    "Il corpo nasce da più componenti insieme: l'acidità alta lo alleggerisce, lo zucchero e l'alcol lo aumentano.",
+    "Le corps naît de plusieurs composants : une acidité élevée l'allège, le sucre et l'alcool l'augmentent.",
+    "Body comes from several components together: high acidity lightens it, sugar and alcohol add to it.",
+    "El cuerpo nace de varios componentes: la acidez alta lo aligera, el azúcar y el alcohol lo aumentan."
+   ],
+   "d": [
+    "Il corpo è una sensazione tattile, non un gusto, e non dipende da un solo elemento. Lo zucchero aggiunge corpo, non lo toglie. Il tannino conta (maturo e abbondante dà pienezza, scarso e acerbo rende il vino più magro) ma non è l'unico fattore: nella maggior parte dei vini il principale è l'alcol.",
+    "Le corps est une sensation tactile, pas un goût, et ne dépend pas d'un seul élément. Le sucre ajoute du corps, il n'en retire pas. Le tanin compte (mûr et abondant, il donne de l'ampleur ; rare et vert, il amaigrit le vin) mais n'est pas seul : dans la plupart des vins, c'est l'alcool qui pèse le plus.",
+    "Body is a feeling of touch, not a taste, and has no single source. Sugar adds body rather than removing it. Tannin plays a part (plenty of ripe tannin gives fullness, a little unripe tannin makes the wine thinner) but is not alone: in most wines alcohol matters most.",
+    "El cuerpo es una sensación táctil, no un sabor, y no tiene una sola causa. El azúcar añade cuerpo, no lo quita. El tanino influye (abundante y maduro da plenitud, escaso y verde adelgaza el vino) pero no está solo: en la mayoría de los vinos lo principal es el alcohol."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Rispetto al naso, quali caratteristiche tendono spesso a essere più evidenti in bocca?",
+    "Par rapport au nez, quels caractères ressortent souvent davantage en bouche ?",
+    "Compared with the nose, which characteristics often show more strongly on the palate?",
+    "En comparación con la nariz, ¿qué características suelen notarse más en boca?"
+   ],
+   "o": [
+    [
+     "Alcune note speziate",
+     "Certaines notes épicées",
+     "Some spice notes",
+     "Algunas notas especiadas"
+    ],
+    [
+     "Le note floreali, che in bocca diventano sempre molto più intense che al naso",
+     "Les notes florales, qui en bouche deviennent toujours bien plus intenses",
+     "Floral notes, which always become much stronger in the mouth",
+     "Las notas florales, que en boca siempre se vuelven mucho más intensas"
+    ],
+    [
+     "Il colore",
+     "La couleur",
+     "The colour",
+     "El color"
+    ],
+    [
+     "Le note di cartone bagnato",
+     "Les notes de carton mouillé",
+     "Damp-cardboard notes",
+     "Las notas de cartón mojado"
+    ]
+   ],
+   "e": [
+    "Il vino si scalda in bocca e alcune spezie risaltano di più; le note floreali invece spesso si attenuano.",
+    "Le vin se réchauffe en bouche et certaines épices ressortent ; les notes florales, elles, s'estompent souvent.",
+    "The wine warms in the mouth and some spice notes stand out more; floral notes often fade instead.",
+    "El vino se calienta en la boca y algunas especias destacan más; las notas florales, en cambio, suelen atenuarse."
+   ],
+   "d": [
+    "Di norma intensità e caratteristiche in bocca ricalcano quelle del naso, ma il calore della bocca può cambiare un po' l'equilibrio. Il fiore va nella direzione opposta. Il colore non si valuta in bocca e il cartone bagnato è un difetto, non un aroma che 'cresce'.",
+    "En général, intensité et caractères en bouche reflètent le nez, mais la chaleur de la bouche peut modifier un peu l'équilibre. Le floral va dans l'autre sens. La couleur ne se juge pas en bouche et le carton mouillé est un défaut, pas un arôme qui « monte ».",
+    "Usually intensity and character on the palate mirror the nose, but the warmth of the mouth can shift things slightly. Floral notes go the other way. Colour is not judged on the palate and damp cardboard is a fault, not an aroma that 'grows'.",
+    "Normalmente intensidad y carácter en boca reflejan la nariz, pero el calor de la boca puede cambiar algo el equilibrio. Lo floral va en sentido contrario. El color no se valora en boca y el cartón mojado es un defecto, no un aroma que 'crece'."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un vino è equilibrato e ha un finale lungo, ma i sapori sono diluiti e semplici. A quale livello di qualità corrisponde?",
+    "Un vin est équilibré et a une finale longue, mais ses saveurs sont diluées et simples. Quel niveau de qualité ?",
+    "A wine is balanced with a long finish, but its flavours are dilute and simple. What quality level is it?",
+    "Un vino está equilibrado y tiene un final largo, pero sus sabores son diluidos y simples. ¿Qué nivel de calidad tiene?"
+   ],
+   "o": [
+    [
+     "Buono",
+     "Bon",
+     "Good",
+     "Bueno"
+    ],
+    [
+     "Eccezionale, perché equilibrio e lunghezza contano più di tutti gli altri criteri",
+     "Exceptionnel, car équilibre et longueur comptent plus que le reste",
+     "Outstanding, because balance and length outweigh the other criteria",
+     "Excepcional, porque el equilibrio y la longitud pesan más que lo demás"
+    ],
+    [
+     "Molto buono",
+     "Très bon",
+     "Very good",
+     "Muy bueno"
+    ],
+    [
+     "Accettabile",
+     "Acceptable",
+     "Acceptable",
+     "Aceptable"
+    ]
+   ],
+   "e": [
+    "Due criteri positivi (equilibrio, lunghezza) e due carenti (intensità, complessità) = buono.",
+    "Deux critères positifs (équilibre, longueur) et deux faibles (intensité, complexité) = bon.",
+    "Two criteria positive (balance, length) and two lacking (intensity, complexity) = good.",
+    "Dos criterios positivos (equilibrio, longitud) y dos flojos (intensidad, complejidad) = bueno."
+   ],
+   "d": [
+    "I quattro criteri pesano allo stesso modo: tutti e quattro positivi = eccezionale, tre = molto buono, due = buono, uno = accettabile, nessuno = scadente. Qui i positivi sono due.",
+    "Les quatre critères pèsent autant : quatre positifs = exceptionnel, trois = très bon, deux = bon, un = acceptable, aucun = médiocre. Ici, deux sont positifs.",
+    "The four criteria weigh the same: all four positive = outstanding, three = very good, two = good, one = acceptable, none = poor. Here two are positive.",
+    "Los cuatro criterios pesan igual: cuatro positivos = excepcional, tres = muy bueno, dos = bueno, uno = aceptable, ninguno = pobre. Aquí son dos los positivos."
+   ]
+  },
+  {
+   "c": "t4",
+   "q": [
+    "Un vino dolce da uve ghiacciate ha aromi puri e precisi ma poco complessi. Che cosa si può dire della sua qualità?",
+    "Un vin de glace offre des arômes purs et nets mais peu complexes. Que dire de sa qualité ?",
+    "An icewine shows pure, precise aromas but little complexity. What can be said about its quality?",
+    "Un vino de hielo muestra aromas puros y precisos pero poco complejos. ¿Qué se puede decir de su calidad?"
+   ],
+   "o": [
+    [
+     "Può essere grande: qui contano purezza e precisione",
+     "Il peut être grand : pureté et netteté priment ici",
+     "It can still be great: purity and definition matter here",
+     "Puede ser grande: aquí cuentan la pureza y la precisión"
+    ],
+    [
+     "È per forza mediocre, perché senza complessità nessun vino può mai essere di alta qualità",
+     "Il est forcément médiocre, car sans complexité aucun vin ne peut être grand",
+     "It must be mediocre, because no wine can be high quality without complexity",
+     "Es forzosamente mediocre, porque sin complejidad ningún vino puede ser de calidad"
+    ],
+    [
+     "Migliorerebbe con molto rovere nuovo",
+     "Il gagnerait à beaucoup de chêne neuf",
+     "It would improve with lots of new oak",
+     "Mejoraría con mucho roble nuevo"
+    ],
+    [
+     "È difettoso",
+     "Il est défectueux",
+     "It is faulty",
+     "Está defectuoso"
+    ]
+   ],
+   "e": [
+    "Non tutti i grandi vini sono complessi: in alcuni, come i vini da uve ghiacciate, la qualità sta nella purezza.",
+    "Tous les grands vins ne sont pas complexes : pour certains, comme les vins de glace, la qualité tient à la pureté.",
+    "Not every fine wine is complex: in some, such as icewines, quality lies in purity.",
+    "No todos los grandes vinos son complejos: en algunos, como los vinos de hielo, la calidad está en la pureza."
+   ],
+   "d": [
+    "La mancanza di complessità non è sempre un difetto. In questi vini note di rovere o terziarie potrebbero anzi togliere qualcosa. Un vino puro e preciso non ha segni di difetto.",
+    "Le manque de complexité n'est pas toujours un défaut. Dans ces vins, des notes de chêne ou tertiaires pourraient même nuire. Un vin pur et net ne montre aucun signe de défaut.",
+    "A lack of complexity is not always a negative. In these wines oak or tertiary notes could even detract. A pure, precise wine shows no sign of a fault.",
+    "La falta de complejidad no siempre es negativa. En estos vinos, notas de roble o terciarias podrían incluso restar. Un vino puro y preciso no muestra signos de defecto."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "t1",
+   "f": [
+    "Danno da calore",
+    "Dommage dû à la chaleur",
+    "Heat damage",
+    "Daño por calor"
+   ],
+   "b": [
+    "Vino tenuto al caldo, al sole o sotto luci forti: perde presto freschezza e frutto.",
+    "Vin gardé au chaud, au soleil ou sous lumière vive : il perd vite fraîcheur et fruit.",
+    "Wine kept too hot, in sun or under bright lights: it quickly loses freshness and fruit.",
+    "Vino guardado con calor, al sol o bajo luces fuertes: pierde pronto frescura y fruta."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Perché un vino aperto diventa stanco?",
+    "Pourquoi un vin ouvert s'évente-t-il ?",
+    "Why does an opened wine go stale?",
+    "¿Por qué se apaga un vino abierto?"
+   ],
+   "b": [
+    "Reagisce con l'aria e perde a poco a poco il suo carattere fresco.",
+    "Il réagit avec l'air et perd peu à peu son caractère frais.",
+    "It reacts with air and gradually loses its fresh character.",
+    "Reacciona con el aire y pierde poco a poco su carácter fresco."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Conservazione: primo effetto e poi?",
+    "Mauvaise conservation : d'abord, puis ?",
+    "Poor storage: first effect, then?",
+    "Mala conservación: ¿primero y después?"
+   ],
+   "b": [
+    "Prima il vino perde carattere; con il tempo possono comparire difetti.",
+    "D'abord le vin perd du caractère ; avec le temps, des défauts peuvent apparaître.",
+    "First the wine loses character; over time faults can develop.",
+    "Primero el vino pierde carácter; con el tiempo pueden aparecer defectos."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Bianchi leggeri e rosati: temperatura",
+    "Blancs légers et rosés : température",
+    "Light whites and rosés: temperature",
+    "Blancos ligeros y rosados: temperatura"
+   ],
+   "b": [
+    "Freschi, 7–10 °C (per esempio Pinot Grigio).",
+    "Frais, 7–10 °C (par exemple Pinot Grigio).",
+    "Chilled, 7–10 °C (for example Pinot Grigio).",
+    "Fríos, 7–10 °C (por ejemplo Pinot Grigio)."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Rossi di medio e pieno corpo: temperatura",
+    "Rouges moyennement à très corsés : température",
+    "Medium- and full-bodied reds: temperature",
+    "Tintos de cuerpo medio y con cuerpo: temperatura"
+   ],
+   "b": [
+    "Temperatura ambiente, 15–18 °C (per esempio Shiraz).",
+    "Température ambiante, 15–18 °C (par exemple Syrah).",
+    "Room temperature, 15–18 °C (for example Shiraz).",
+    "Temperatura ambiente, 15–18 °C (por ejemplo Shiraz)."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Bicchieri: rosso, bianco, spumante",
+    "Verres : rouge, blanc, effervescent",
+    "Glasses: red, white, sparkling",
+    "Copas: tinto, blanco, espumoso"
+   ],
+   "b": [
+    "Rosso un po' più grande del bianco; spumante in flûte o tulipano.",
+    "Rouge un peu plus grand que blanc ; effervescent en flûte ou tulipe.",
+    "Red slightly larger than white; sparkling in a flute or tulip.",
+    "Tinto algo mayor que blanco; espumoso en flauta o tulipán."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Aprire un vino fermo col sughero",
+    "Ouvrir un vin tranquille bouché liège",
+    "Opening a still wine with a cork",
+    "Abrir un vino tranquilo con corcho"
+   ],
+   "b": [
+    "Capsula, pulire il collo, cavatappi al centro, estrarre piano, ripulire il collo.",
+    "Capsule, essuyer le col, tire-bouchon au centre, tirer doucement, réessuyer.",
+    "Capsule off, wipe neck, corkscrew centred, draw gently, wipe neck again.",
+    "Cápsula, limpiar cuello, sacacorchos centrado, sacar despacio, limpiar otra vez."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Cibi che rivestono la bocca",
+    "Aliments qui tapissent la bouche",
+    "Mouth-coating foods",
+    "Alimentos que recubren la boca"
+   ],
+   "b": [
+    "Cioccolato, piatti molto cremosi: attenuano la percezione dei sapori del vino.",
+    "Chocolat, plats très crémeux : ils atténuent la perception des saveurs du vin.",
+    "Chocolate, thick creamy dishes: they dull your perception of the wine.",
+    "Chocolate, platos muy cremosos: apagan la percepción del vino."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Intensità di sapore",
+    "Intensité aromatique",
+    "Flavour intensity",
+    "Intensidad de sabor"
+   ],
+   "b": [
+    "Abbinare intensità simili: un elemento troppo forte copre l'altro.",
+    "Accorder des intensités proches : un élément trop fort écrase l'autre.",
+    "Match intensities: whichever is much stronger overwhelms the other.",
+    "Igualar intensidades: el que es mucho más fuerte tapa al otro."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Cibo grasso o oleoso",
+    "Plat gras ou huileux",
+    "Fatty or oily food",
+    "Comida grasa u oleosa"
+   ],
+   "b": [
+    "Il vino sembra meno acido.",
+    "Le vin paraît moins acide.",
+    "The wine seems less acidic.",
+    "El vino parece menos ácido."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Sensibilità vs preferenza",
+    "Sensibilité ou préférence",
+    "Sensitivity vs preference",
+    "Sensibilidad o preferencia"
+   ],
+   "b": [
+    "Sensibilità: quanto si percepisce. Preferenza: se piace. Entrambe cambiano da persona a persona.",
+    "Sensibilité : combien on ressent. Préférence : si on aime. Les deux varient selon les personnes.",
+    "Sensitivity: how strongly you sense it. Preference: whether you like it. Both vary between people.",
+    "Sensibilidad: cuánto se percibe. Preferencia: si gusta. Ambas varían entre personas."
+   ]
+  },
+  {
+   "c": "t4",
+   "f": [
+    "Intensità del colore: come si giudica",
+    "Intensité de la couleur : comment juger",
+    "Colour intensity: how to judge",
+    "Intensidad de color: cómo valorarla"
+   ],
+   "b": [
+    "Bicchiere inclinato, dal centro al bordo; per i rossi anche guardando lo stelo dall'alto.",
+    "Verre incliné, du cœur au bord ; pour les rouges, aussi en regardant la jambe d'en haut.",
+    "Tilt the glass, core to rim; for reds, also look down at the stem.",
+    "Copa inclinada, del centro al borde; en tintos, también mirando el tallo desde arriba."
+   ]
+  },
+  {
+   "c": "t4",
+   "f": [
+    "Intensità al naso: leggera o pronunciata?",
+    "Intensité au nez : légère ou prononcée ?",
+    "Aroma intensity: light or pronounced?",
+    "Intensidad en nariz: ¿ligera o pronunciada?"
+   ],
+   "b": [
+    "Pronunciata: aromi immediati. Leggera: deboli anche dopo la rotazione. In mezzo: media.",
+    "Prononcée : arômes immédiats. Légère : faibles même après agitation. Entre les deux : moyenne.",
+    "Pronounced: obvious at once. Light: faint even after swirling. In between: medium.",
+    "Pronunciada: aromas inmediatos. Ligera: débiles incluso tras girar. Entre medias: media."
+   ]
+  },
+  {
+   "c": "t4",
+   "f": [
+    "Acidità o alcol?",
+    "Acidité ou alcool ?",
+    "Acidity or alcohol?",
+    "¿Acidez o alcohol?"
+   ],
+   "b": [
+    "Entrambi possono bruciare; solo l'acidità fa salivare.",
+    "Les deux peuvent brûler ; seule l'acidité fait saliver.",
+    "Both can burn; only acidity makes your mouth water.",
+    "Ambos pueden quemar; solo la acidez hace salivar."
+   ]
+  },
+  {
+   "c": "t4",
+   "f": [
+    "Off-dry e medio",
+    "Off-dry et moyen",
+    "Off-dry vs medium",
+    "Off-dry y medio"
+   ],
+   "b": [
+    "Off-dry: traccia minima di zucchero. Medio: zucchero netto, di solito non abbastanza per i dessert.",
+    "Off-dry : infime trace de sucre. Moyen : sucre net, en général insuffisant pour un dessert.",
+    "Off-dry: tiny detectable sugar. Medium: distinct sugar, usually not enough for desserts.",
+    "Off-dry: mínima cantidad de azúcar. Medio: azúcar claro, normalmente insuficiente para postres."
+   ]
+  }
+ ]
+}
