@@ -1,0 +1,2999 @@
+{
+ "lessons": [
+  {
+   "c": "s6",
+   "t": [
+    "Dall'agave blu al succo dolce",
+    "De l'agave bleu au jus sucré",
+    "From blue agave to sweet juice",
+    "Del agave azul al jugo dulce"
+   ],
+   "p": [
+    [
+     "La Tequila è un distillato messicano con un'identità molto precisa: si può produrre solo in alcuni stati del Messico indicati dalla legge e solo a partire dall'agave blu, una pianta originaria di quel paese. Non è un cactus, anche se ci somiglia: ha lunghe foglie appuntite, disposte a rosetta attorno a un grosso cuore duro. È proprio quel cuore la materia prima che interessa al distillatore.",
+     "La Tequila est un spiritueux mexicain à l'identité bien définie : on ne peut la produire que dans certains États du Mexique fixés par la loi, et uniquement à partir de l'agave bleu, une plante originaire de ce pays. Ce n'est pas un cactus, même s'il en a l'air : de longues feuilles pointues entourent un gros cœur dur. C'est ce cœur qui intéresse le distillateur.",
+     "Tequila is a Mexican spirit with a very clear identity: it can only be made in certain Mexican states named by law, and only from blue agave, a plant native to Mexico. It is not a cactus, even if it looks a bit like one: long, spiky leaves fan out around a large, hard core. That core is the part the distiller actually wants.",
+     "El Tequila es un destilado mexicano con una identidad muy clara: solo puede elaborarse en determinados estados de México fijados por ley y únicamente a partir del agave azul, una planta originaria de ese país. No es un cactus, aunque lo parezca: sus largas hojas puntiagudas rodean un gran corazón duro. Ese corazón es lo que de verdad le interesa al destilador."
+    ],
+    [
+     "Durante la raccolta le foglie vengono tagliate via e resta solo il cuore. Come accade per i cereali, il cuore d'agave appena raccolto non offre zuccheri pronti da fermentare: va lavorato. Lo si cuoce lentamente in forni, finché diventa morbido e al suo interno si formano zuccheri. Immaginate una patata dura che, dopo la cottura, si schiaccia con una forchetta: il principio è simile.",
+     "À la récolte, on coupe les feuilles pour ne garder que le cœur. Comme pour les céréales, ce cœur fraîchement récolté n'offre pas de sucres prêts à fermenter : il faut le transformer. On le cuit lentement dans des fours, jusqu'à ce qu'il devienne tendre et que des sucres se forment. Pensez à une pomme de terre dure qui s'écrase à la fourchette une fois cuite : le principe est proche.",
+     "At harvest the leaves are cut away, leaving only the core. As with grains, a freshly harvested agave core has no sugar ready to ferment: it has to be processed first. The cores are cooked slowly in ovens until they turn soft and sugars form inside them. Think of a hard potato that you can mash with a fork once it has been cooked: the idea is much the same.",
+     "En la cosecha se cortan las hojas y solo queda el corazón. Como ocurre con los cereales, el corazón recién cosechado no tiene azúcares listos para fermentar: hay que transformarlo. Se cuece lentamente en hornos hasta que se ablanda y en su interior se forman azúcares. Piensa en una patata dura que, una vez cocida, se aplasta con un tenedor: la idea es parecida."
+    ],
+    [
+     "Una volta cotti, i cuori vengono schiacciati e rilasciano un succo dolce. Questo succo porta con sé i profumi tipici dell'agave blu, molto riconoscibili: note erbacee e vegetali, sentori di oliva, di terra e una punta di pepe. Sono questi aromi a rendere la Tequila così diversa da un rum o da un whisky, e il produttore cercherà di preservarli nelle fasi successive.",
+     "Une fois cuits, les cœurs sont broyés et libèrent un jus sucré. Ce jus porte les arômes typiques de l'agave bleu, très reconnaissables : des notes herbacées et végétales, des touches d'olive, de terre et une pointe de poivre. Ce sont ces arômes qui distinguent si nettement la Tequila d'un rhum ou d'un whisky, et le producteur cherchera à les préserver dans les étapes suivantes.",
+     "Once cooked, the cores are crushed and give up a sweet juice. That juice carries the very recognisable aromas of blue agave: herbaceous and vegetal notes, hints of olive and earth, and a touch of pepper. These aromas are what set Tequila so clearly apart from rum or whisky, and the producer will try to protect them through the following steps.",
+     "Una vez cocidos, los corazones se trituran y sueltan un jugo dulce. Ese jugo lleva los aromas muy reconocibles del agave azul: notas herbáceas y vegetales, matices de aceituna y de tierra, y un toque de pimienta. Son esos aromas los que separan con claridad el Tequila de un ron o de un whisky, y el productor intentará conservarlos en las etapas siguientes."
+    ]
+   ],
+   "keys": [
+    [
+     "Solo agave blu, solo in alcuni stati del Messico.",
+     "Uniquement de l'agave bleu, uniquement dans certains États du Mexique.",
+     "Blue agave only, made only in certain Mexican states.",
+     "Solo agave azul, solo en ciertos estados de México."
+    ],
+    [
+     "Si usa il cuore: le foglie si tagliano via.",
+     "On utilise le cœur : les feuilles sont coupées.",
+     "The core is used; the leaves are cut away.",
+     "Se usa el corazón; las hojas se cortan."
+    ],
+    [
+     "Cottura in forno: il cuore si ammorbidisce e si formano zuccheri, poi lo si schiaccia.",
+     "Cuisson au four : le cœur s'attendrit et des sucres se forment, puis on le broie.",
+     "Oven cooking softens the core and creates sugars; then it is crushed.",
+     "La cocción en horno ablanda el corazón y crea azúcares; después se tritura."
+    ],
+    [
+     "Aromi dell'agave: erbacei, vegetali, oliva, terra, pepe.",
+     "Arômes de l'agave : herbacés, végétaux, olive, terre, poivre.",
+     "Agave aromas: herbaceous, vegetal, olive, earthy, peppery.",
+     "Aromas del agave: herbáceos, vegetales, aceituna, tierra, pimienta."
+    ]
+   ]
+  },
+  {
+   "c": "s6",
+   "t": [
+    "Tequila o Tequila 100% agave?",
+    "Tequila ou Tequila 100 % agave ?",
+    "Tequila or Tequila 100% agave?",
+    "¿Tequila o Tequila 100% agave?"
+   ],
+   "p": [
+    [
+     "Il succo d'agave viene allungato con acqua per ottenere un liquido zuccherino pronto per la fermentazione. A questo punto il produttore ha una scelta: può aggiungere anche altri zuccheri, che non vengono dall'agave. La legge però fissa un limite chiaro: almeno il 51% degli zuccheri fermentati deve provenire dall'agave blu. Più della metà, insomma, deve sempre essere agave.",
+     "Le jus d'agave est allongé d'eau pour obtenir un liquide sucré prêt à fermenter. À ce stade, le producteur a un choix : il peut ajouter d'autres sucres, qui ne viennent pas de l'agave. La loi fixe toutefois une limite claire : au moins 51 % des sucres fermentés doivent provenir de l'agave bleu. Autrement dit, plus de la moitié doit toujours être de l'agave.",
+     "The agave juice is mixed with water to make a sugary liquid ready for fermentation. At this point the producer has a choice: other sugars, not from agave, may be added too. The law sets a clear floor, though: at least 51% of the sugars fermented must come from blue agave. In other words, more than half must always be agave.",
+     "El jugo de agave se mezcla con agua para obtener un líquido azucarado listo para fermentar. En este punto el productor puede elegir: también puede añadir otros azúcares que no proceden del agave. Eso sí, la ley fija un mínimo claro: al menos el 51% de los azúcares fermentados debe venir del agave azul. Es decir, más de la mitad siempre tiene que ser agave."
+    ],
+    [
+     "Quando in etichetta compare la dicitura «100% agave», significa che per il liquido zuccherino è stato usato solo agave blu, senza alcun altro zucchero. Il risultato tende ad avere un carattere d'agave più marcato. Tutte le altre Tequile, quelle che sfruttano la possibilità di aggiungere altri zuccheri, portano semplicemente il nome «Tequila», senza altre precisazioni.",
+     "Quand l'étiquette indique « 100 % agave », cela signifie que seul l'agave bleu a servi à préparer le liquide sucré, sans aucun autre sucre. Le résultat a souvent un caractère d'agave plus marqué. Toutes les autres Tequilas, celles qui profitent de la possibilité d'ajouter d'autres sucres, s'appellent simplement « Tequila », sans autre précision.",
+     "When a label says ‘100% agave’, it means only blue agave was used to make the sugary liquid, with no other sugars at all. The result tends to show a more pronounced agave character. Every other Tequila, the ones that use the option of adding other sugars, is simply labelled ‘Tequila’, with nothing more.",
+     "Cuando la etiqueta dice «100% agave», significa que solo se usó agave azul para preparar el líquido azucarado, sin ningún otro azúcar. El resultado suele tener un carácter de agave más marcado. Todos los demás Tequilas, los que aprovechan la posibilidad de añadir otros azúcares, se llaman simplemente «Tequila», sin más."
+    ],
+    [
+     "Attenzione a non confondere questa distinzione con l'invecchiamento: riguarda solo l'origine degli zuccheri. Una Tequila non invecchiata può essere «100% agave» oppure no, e lo stesso vale per una Tequila passata in legno. Davanti a uno scaffale conviene quindi leggere due informazioni separate: da un lato quanto agave c'è, dall'altro quanto tempo il distillato ha riposato.",
+     "Attention à ne pas confondre cette distinction avec le vieillissement : elle concerne seulement l'origine des sucres. Une Tequila non vieillie peut être « 100 % agave » ou non, et il en va de même pour une Tequila passée en fût. Devant un rayon, il faut donc lire deux informations distinctes : d'un côté la part d'agave, de l'autre le temps de repos du spiritueux.",
+     "Be careful not to mix this up with ageing: it is only about where the sugars came from. An unaged Tequila can be ‘100% agave’ or not, and the same is true of an oak-aged one. So, in front of a shelf, it pays to read two separate pieces of information: how much agave went in, and how long the spirit has rested.",
+     "Ojo con no confundir esta distinción con el envejecimiento: solo se refiere al origen de los azúcares. Un Tequila sin envejecer puede ser «100% agave» o no, y lo mismo ocurre con uno que ha pasado por barrica. Así que, delante de una estantería, conviene leer dos datos por separado: cuánto agave lleva y cuánto tiempo ha reposado."
+    ]
+   ],
+   "keys": [
+    [
+     "Il succo d'agave si mescola con acqua prima della fermentazione.",
+     "Le jus d'agave est mélangé à de l'eau avant la fermentation.",
+     "Agave juice is mixed with water before fermentation.",
+     "El jugo de agave se mezcla con agua antes de fermentar."
+    ],
+    [
+     "Almeno il 51% degli zuccheri deve venire dall'agave blu.",
+     "Au moins 51 % des sucres doivent venir de l'agave bleu.",
+     "At least 51% of the sugars must come from blue agave.",
+     "Al menos el 51% de los azúcares debe venir del agave azul."
+    ],
+    [
+     "«100% agave» = nessun altro zucchero, carattere d'agave più marcato.",
+     "« 100 % agave » = aucun autre sucre, caractère d'agave plus marqué.",
+     "‘100% agave’ = no other sugars, more pronounced agave character.",
+     "«100% agave» = ningún otro azúcar, carácter de agave más marcado."
+    ],
+    [
+     "Ogni stile, invecchiato o no, può essere «Tequila» o «100% agave».",
+     "Chaque style, vieilli ou non, peut être « Tequila » ou « 100 % agave ».",
+     "Any style, aged or unaged, can be ‘Tequila’ or ‘100% agave’.",
+     "Cualquier estilo, envejecido o no, puede ser «Tequila» o «100% agave»."
+    ]
+   ]
+  },
+  {
+   "c": "s6",
+   "t": [
+    "Distillare per conservare l'agave",
+    "Distiller pour garder l'agave",
+    "Distilling to keep the agave",
+    "Destilar para conservar el agave"
+   ],
+   "p": [
+    [
+     "Dopo la fermentazione arriva la distillazione. La Tequila si può fare anche in alambicchi a colonna, ma le migliori seguono un'altra strada: vengono distillate due volte in alambicchi discontinui, fermandosi a una gradazione notevolmente bassa. Ricordate la regola generale: più bassa è la gradazione di distillazione, più profumi della materia prima restano nel distillato.",
+     "Après la fermentation vient la distillation. On peut faire de la Tequila dans des colonnes, mais les meilleures suivent une autre voie : elles sont distillées deux fois en alambic à repasse, en s'arrêtant à un degré remarquablement bas. Rappelez-vous la règle générale : plus le degré de distillation est bas, plus le spiritueux garde les arômes de sa matière première.",
+     "After fermentation comes distillation. Tequila can be made in column stills, but the best ones take another route: they are distilled twice in pot stills and stopped at a notably low strength. Remember the general rule: the lower the distillation strength, the more of the raw material's aromas stay in the spirit.",
+     "Después de la fermentación llega la destilación. El Tequila puede hacerse en columnas, pero los mejores siguen otro camino: se destilan dos veces en alambiques de cobre tradicionales y se detienen a una graduación notablemente baja. Recuerda la regla general: cuanto más baja es la graduación de destilación, más aromas de la materia prima conserva el destilado."
+    ],
+    [
+     "Il risultato è un distillato dal carattere deciso, che mette in primo piano quelle note erbacee e pepate dell'agave blu riconoscibili già al primo sorso. È l'esatto contrario di uno spirito neutro come la vodka, che viene spinto in colonna fino a gradazioni altissime proprio per eliminare quasi tutti i profumi.",
+     "Le résultat est un spiritueux au caractère affirmé, qui met en avant les notes herbacées et poivrées de l'agave bleu, reconnaissables dès la première gorgée. C'est tout l'inverse d'un alcool neutre comme la vodka, poussé en colonne jusqu'à des degrés très élevés justement pour effacer presque tous les arômes.",
+     "The result is a spirit with real personality, putting the herbaceous, peppery notes of blue agave front and centre, easy to spot from the first sip. It is the exact opposite of a neutral spirit such as vodka, which is pushed through a column to very high strength precisely to strip out almost all aroma.",
+     "El resultado es un destilado con mucha personalidad, que pone en primer plano las notas herbáceas y picantes del agave azul, reconocibles desde el primer sorbo. Es justo lo contrario de un destilado neutro como el vodka, que se lleva en columna hasta graduaciones altísimas precisamente para eliminar casi todos los aromas."
+    ],
+    [
+     "Un modo semplice per fissare il concetto: alambicco discontinuo, doppia distillazione e bassa gradazione significano «più agave nel bicchiere». Se un esercizio vi chiede come si ottengono le Tequile più espressive, la risposta passa da qui, non dalle colonne alte e dalle gradazioni elevate. Le colonne restano possibili, ma producono in genere Tequile dal carattere meno marcato.",
+     "Une façon simple de retenir l'idée : alambic à repasse, double distillation et degré bas signifient « plus d'agave dans le verre ». Si un exercice demande comment on obtient les Tequilas les plus expressives, la réponse passe par là, et non par les grandes colonnes et les degrés élevés. Les colonnes restent permises, mais donnent en général des Tequilas au caractère moins affirmé.",
+     "A simple way to lock the idea in: pot still, double distillation and low strength mean ‘more agave in the glass’. If a question asks how the most expressive Tequilas are made, the answer lies here, not with tall columns and high strengths. Columns are still allowed, but they generally give Tequilas with less pronounced character.",
+     "Una forma sencilla de fijar la idea: alambique tradicional, doble destilación y graduación baja significan «más agave en la copa». Si una pregunta plantea cómo se consiguen los Tequilas más expresivos, la respuesta está aquí, no en las columnas altas ni en las graduaciones elevadas. Las columnas siguen estando permitidas, pero suelen dar Tequilas con un carácter menos marcado."
+    ]
+   ],
+   "keys": [
+    [
+     "Si possono usare le colonne, ma le migliori Tequile sono distillate due volte in alambicco discontinuo.",
+     "Les colonnes sont permises, mais les meilleures Tequilas sont distillées deux fois en alambic à repasse.",
+     "Columns are allowed, but the best Tequilas are double distilled in pot stills.",
+     "Se permiten columnas, pero los mejores Tequilas se destilan dos veces en alambique tradicional."
+    ],
+    [
+     "Gradazione di distillazione bassa = più profumi d'agave.",
+     "Degré de distillation bas = plus d'arômes d'agave.",
+     "Low distillation strength = more agave aroma.",
+     "Graduación de destilación baja = más aroma de agave."
+    ],
+    [
+     "Risultato: distillato caratteriale, erbaceo e pepato.",
+     "Résultat : spiritueux de caractère, herbacé et poivré.",
+     "Result: a characterful, herbaceous, peppery spirit.",
+     "Resultado: destilado con carácter, herbáceo y picante."
+    ]
+   ]
+  },
+  {
+   "c": "s6",
+   "t": [
+    "Blanco, Joven, Reposado, Añejo",
+    "Blanco, Joven, Reposado, Añejo",
+    "Blanco, Joven, Reposado, Añejo",
+    "Blanco, Joven, Reposado, Añejo"
+   ],
+   "p": [
+    [
+     "Dopo la distillazione il produttore decide se invecchiare la Tequila o lasciarla com'è. Le versioni non invecchiate sono due. La Blanco, chiamata anche Silver, è incolore ed è apprezzata perché esprime l'agave nel modo più puro. La Joven, detta anche Oro o Gold, ha un bel colore dorato ma non è passata in legno: il colore viene dal caramello, e altri additivi ne ammorbidiscono la consistenza.",
+     "Après la distillation, le producteur décide de vieillir la Tequila ou de la laisser telle quelle. Il existe deux versions non vieillies. La Blanco, aussi appelée Silver, est incolore et appréciée parce qu'elle exprime l'agave de la façon la plus pure. La Joven, dite aussi Oro ou Gold, a une jolie couleur dorée mais n'est pas passée en fût : sa couleur vient du caramel, et d'autres additifs adoucissent sa texture.",
+     "After distillation the producer decides whether to age the Tequila or leave it as it is. There are two unaged versions. Blanco, also called Silver, is colourless and prized for showing agave at its purest. Joven, also called Oro or Gold, has an attractive golden colour but has never seen a barrel: the colour comes from caramel, and other additives soften its texture.",
+     "Tras la destilación, el productor decide si envejece el Tequila o lo deja tal cual. Hay dos versiones sin envejecer. El Blanco, también llamado Silver, es incoloro y se aprecia porque expresa el agave de la forma más pura. El Joven, también llamado Oro o Gold, tiene un bonito color dorado, pero no ha pasado por barrica: el color viene del caramelo, y otros aditivos suavizan su textura."
+    ],
+    [
+     "Le versioni invecchiate in rovere sono altre due. La Reposado («riposata») passa in legno da 2 a 12 mesi: ne esce più morbida, ma raramente il legno si fa sentire molto e i profumi d'agave restano intensi. La Añejo («vecchia») resta in botte almeno 12 mesi e unisce i profumi dell'agave a quelli del rovere, come vaniglia e spezie.",
+     "Les versions vieillies en fût de chêne sont au nombre de deux. La Reposado (« reposée ») passe de 2 à 12 mois en fût : elle en ressort plus souple, mais le bois se fait rarement très présent et les arômes d'agave restent intenses. L'Añejo (« vieille ») reste au moins 12 mois en fût et associe les arômes d'agave à ceux du chêne, comme la vanille et les épices.",
+     "There are also two oak-aged versions. Reposado (‘rested’) spends between 2 and 12 months in oak: it comes out softer, but the wood rarely shows strongly and the agave aromas stay pronounced. Añejo (‘aged’) spends at least 12 months in barrel and combines agave aromas with oak notes such as vanilla and spice.",
+     "Las versiones envejecidas en roble también son dos. El Reposado pasa entre 2 y 12 meses en madera: sale más suave, pero la madera rara vez se nota mucho y los aromas de agave siguen siendo intensos. El Añejo permanece al menos 12 meses en barrica y combina los aromas del agave con los del roble, como la vainilla y las especias."
+    ],
+    [
+     "Perché le Tequile invecchiate restano in botte relativamente poco? Perché il produttore cerca un equilibrio: un po' di vaniglia e di spezia, senza coprire il carattere dell'agave che rende unica la Tequila. Le versioni invecchiate vengono poi assemblate e possono ricevere caramello per uniformare il colore, prima di essere diluite con acqua e imbottigliate.",
+     "Pourquoi les Tequilas vieillies restent-elles assez peu de temps en fût ? Parce que le producteur cherche un équilibre : un peu de vanille et d'épices, sans masquer le caractère de l'agave qui rend la Tequila unique. Les versions vieillies sont ensuite assemblées et peuvent recevoir du caramel pour harmoniser la couleur, avant d'être diluées à l'eau et mises en bouteille.",
+     "Why do aged Tequilas spend fairly little time in barrel? Because the producer is looking for balance: some vanilla and spice, without burying the agave character that makes Tequila unique. Aged versions are then blended and may receive caramel to even out the colour, before being diluted with water and bottled.",
+     "¿Por qué los Tequilas envejecidos pasan relativamente poco tiempo en barrica? Porque el productor busca equilibrio: algo de vainilla y especias, sin tapar el carácter del agave que hace único al Tequila. Después, las versiones envejecidas se mezclan y pueden recibir caramelo para igualar el color, antes de diluirse con agua y embotellarse."
+    ]
+   ],
+   "keys": [
+    [
+     "Blanco/Silver: non invecchiata, agave allo stato puro.",
+     "Blanco/Silver : non vieillie, l'agave à l'état pur.",
+     "Blanco/Silver: unaged, agave at its purest.",
+     "Blanco/Silver: sin envejecer, agave en estado puro."
+    ],
+    [
+     "Joven/Oro/Gold: non invecchiata, colorata con caramello.",
+     "Joven/Oro/Gold : non vieillie, colorée au caramel.",
+     "Joven/Oro/Gold: unaged, coloured with caramel.",
+     "Joven/Oro/Gold: sin envejecer, coloreado con caramelo."
+    ],
+    [
+     "Reposado: da 2 a 12 mesi in rovere, più morbida, agave ancora protagonista.",
+     "Reposado : de 2 à 12 mois en chêne, plus souple, l'agave reste au premier plan.",
+     "Reposado: 2–12 months in oak, softer, agave still in the lead.",
+     "Reposado: de 2 a 12 meses en roble, más suave, el agave sigue mandando."
+    ],
+    [
+     "Añejo: almeno 12 mesi in rovere, agave più legno.",
+     "Añejo : au moins 12 mois en chêne, agave et bois.",
+     "Añejo: at least 12 months in oak, agave plus oak.",
+     "Añejo: al menos 12 meses en roble, agave más madera."
+    ]
+   ]
+  },
+  {
+   "c": "s7",
+   "t": [
+    "Tre modi per dare sapore a un distillato",
+    "Trois façons d'aromatiser un spiritueux",
+    "Three ways to flavour a spirit",
+    "Tres formas de aromatizar un destilado"
+   ],
+   "p": [
+    [
+     "Per i distillati aromatizzati il punto di partenza è diverso: il produttore di solito non coltiva né fermenta nulla, ma acquista un distillato già pronto. Nella grande maggioranza dei casi è lo stesso spirito neutro che, diluito con acqua, diventa vodka. Ogni tanto si parte invece da un rum, un whisky o un brandy. Il lavoro vero comincia dopo: aggiungere sapori diversi da quelli del legno.",
+     "Pour les spiritueux aromatisés, le point de départ est différent : le producteur ne cultive et ne fait généralement rien fermenter, il achète un spiritueux déjà prêt. Dans la grande majorité des cas, c'est le même alcool neutre qui, dilué à l'eau, devient de la vodka. Parfois, on part plutôt d'un rhum, d'un whisky ou d'un brandy. Le vrai travail commence ensuite : ajouter des saveurs autres que celles du bois.",
+     "With flavoured spirits the starting point is different: the producer usually grows and ferments nothing, but buys in a ready-made spirit. In the vast majority of cases it is the same neutral spirit that becomes vodka once diluted with water. Now and then the base is a rum, whisky or brandy instead. The real work starts afterwards: adding flavours other than those from oak.",
+     "En los destilados aromatizados el punto de partida es distinto: el productor normalmente no cultiva ni fermenta nada, sino que compra un destilado ya hecho. En la gran mayoría de los casos es el mismo destilado neutro que, diluido con agua, se convierte en vodka. A veces se parte de un ron, un whisky o un brandy. El trabajo de verdad empieza después: añadir sabores distintos de los de la madera."
+    ],
+    [
+     "I migliori prodotti usano ingredienti naturali come frutta, semi, erbe e spezie, chiamati botanici. Il primo metodo è la ridistillazione: lo spirito neutro diluito e i botanici vanno insieme in un alambicco discontinuo e si distillano. Ne esce un distillato profumato e incolore. Il secondo è la macerazione: i botanici restano in infusione nello spirito, come una tisana a freddo, e cedono sapore e anche colore.",
+     "Les meilleurs produits utilisent des ingrédients naturels comme des fruits, des graines, des herbes et des épices, appelés botaniques. La première méthode est la redistillation : l'alcool neutre dilué et les botaniques passent ensemble dans un alambic à repasse. On obtient un spiritueux parfumé et incolore. La deuxième est la macération : les botaniques infusent dans l'alcool, comme une tisane à froid, et lui cèdent leur saveur et aussi leur couleur.",
+     "The best products use natural ingredients such as fruits, seeds, herbs and spices, known as botanicals. The first method is redistillation: diluted neutral spirit and botanicals go into a pot still together and are distilled. What comes out is fragrant and colourless. The second is maceration: the botanicals steep in the spirit, like a cold herbal tea, giving up flavour and colour too.",
+     "Los mejores productos usan ingredientes naturales como frutas, semillas, hierbas y especias, llamados botánicos. El primer método es la redestilación: el destilado neutro diluido y los botánicos se meten juntos en un alambique tradicional y se destilan. Sale un destilado aromático e incoloro. El segundo es la maceración: los botánicos reposan en el alcohol, como una infusión en frío, y le ceden sabor y también color."
+    ],
+    [
+     "La macerazione può durare pochi giorni o diversi mesi: più è lunga, più sapore si estrae, e un leggero riscaldamento accelera il processo. Il terzo metodo è il più semplice: aggiungere aromi acquistati già pronti, naturali o artificiali, molto concentrati, in piccole quantità. Di solito lo si sceglie per ragioni di costo, al posto dei botanici veri e propri.",
+     "La macération peut durer quelques jours ou plusieurs mois : plus elle est longue, plus on extrait de saveur, et un léger chauffage accélère le processus. La troisième méthode est la plus simple : ajouter des arômes achetés tout prêts, naturels ou artificiels, très concentrés, en petites quantités. On la choisit généralement pour des raisons de coût, à la place de vrais botaniques.",
+     "Maceration can last a few days or several months: the longer it goes on, the more flavour is drawn out, and gentle heating speeds things up. The third method is the simplest: adding bought-in flavourings, natural or artificial, which are very concentrated and used in small amounts. It is usually chosen for cost reasons, instead of real botanicals.",
+     "La maceración puede durar unos días o varios meses: cuanto más larga, más sabor se extrae, y un calentamiento suave acelera el proceso. El tercer método es el más sencillo: añadir aromas comprados ya hechos, naturales o artificiales, muy concentrados, en pequeñas cantidades. Normalmente se elige por motivos de coste, en lugar de usar botánicos de verdad."
+    ]
+   ],
+   "keys": [
+    [
+     "Base tipica: spirito neutro acquistato (a volte rum, whisky o brandy).",
+     "Base typique : alcool neutre acheté (parfois rhum, whisky ou brandy).",
+     "Typical base: bought-in neutral spirit (sometimes rum, whisky or brandy).",
+     "Base típica: destilado neutro comprado (a veces ron, whisky o brandy)."
+    ],
+    [
+     "Botanici = frutta, semi, erbe e spezie.",
+     "Botaniques = fruits, graines, herbes et épices.",
+     "Botanicals = fruits, seeds, herbs and spices.",
+     "Botánicos = frutas, semillas, hierbas y especias."
+    ],
+    [
+     "Ridistillazione: aromatizzato e incolore. Macerazione: aromatizzato e colorato.",
+     "Redistillation : aromatisé et incolore. Macération : aromatisé et coloré.",
+     "Redistillation: flavoured and colourless. Maceration: flavoured and coloured.",
+     "Redestilación: aromatizado e incoloro. Maceración: aromatizado y coloreado."
+    ],
+    [
+     "Aromi acquistati: concentrati, usati in piccole dosi, spesso per contenere i costi.",
+     "Arômes achetés : concentrés, en petites doses, souvent pour réduire les coûts.",
+     "Bought-in flavourings: concentrated, used in small doses, often to save cost.",
+     "Aromas comprados: concentrados, en pequeñas dosis, a menudo para ahorrar costes."
+    ]
+   ]
+  },
+  {
+   "c": "s7",
+   "t": [
+    "Vodka aromatizzata e gin",
+    "Vodka aromatisée et gin",
+    "Flavoured vodka and gin",
+    "Vodka aromatizado y ginebra"
+   ],
+   "p": [
+    [
+     "La vodka aromatizzata è il caso più intuitivo: una base neutra a cui si dà un sapore preciso. Le possibilità sono tantissime: vaniglia, frutta come mela o limone, perfino spezie come il pepe. Quasi sempre i produttori aggiungono aromi acquistati alla loro vodka neutra, anche se qualcuno sceglie la ridistillazione. Il risultato è facile da riconoscere al naso: un solo aroma, netto e diretto.",
+     "La vodka aromatisée est le cas le plus intuitif : une base neutre à laquelle on donne une saveur précise. Les possibilités sont nombreuses : vanille, fruits comme la pomme ou le citron, et même des épices comme le poivre. Le plus souvent, les producteurs ajoutent des arômes achetés à leur vodka neutre, même si certains choisissent la redistillation. Le résultat se reconnaît facilement au nez : un arôme unique, net et direct.",
+     "Flavoured vodka is the most intuitive case: a neutral base given one clear flavour. The options are endless: vanilla, fruits such as apple or lemon, even spices like pepper. Most producers simply add bought-in flavourings to their neutral vodka, although some use redistillation. The result is easy to spot on the nose: one flavour, clean and direct.",
+     "El vodka aromatizado es el caso más intuitivo: una base neutra a la que se da un sabor concreto. Las opciones son muchísimas: vainilla, frutas como la manzana o el limón, incluso especias como la pimienta. Casi siempre los productores añaden aromas comprados a su vodka neutro, aunque algunos recurren a la redestilación. El resultado se reconoce fácilmente en nariz: un solo aroma, limpio y directo."
+    ],
+    [
+     "Il gin è un distillato aromatizzato con una regola fondamentale: il sapore dominante deve essere quello del ginepro, con le sue note resinose e di pino. Accanto al ginepro compaiono spesso semi di coriandolo, radice di angelica, radice di iris e scorza di agrumi. Di solito la base è uno spirito neutro, anche se negli Stati Uniti sono ammessi altri distillati. Il gin tipico è incolore e non invecchiato.",
+     "Le gin est un spiritueux aromatisé soumis à une règle essentielle : la saveur dominante doit être celle du genièvre, avec ses notes résineuses de pin. À côté du genièvre, on trouve souvent des graines de coriandre, de la racine d'angélique, de la racine d'iris et des zestes d'agrumes. La base est généralement un alcool neutre, même si d'autres spiritueux sont admis aux États-Unis. Le gin typique est incolore et non vieilli.",
+     "Gin is a flavoured spirit with one essential rule: juniper must be the leading flavour, with its resinous, piney notes. Alongside juniper you often find coriander seed, angelica root, orris root and citrus peel. The base is usually neutral spirit, although other distilled spirits are allowed in the USA. A typical gin is colourless and unaged.",
+     "La ginebra es un destilado aromatizado con una regla fundamental: el sabor dominante debe ser el del enebro, con sus notas resinosas de pino. Junto al enebro suelen aparecer semillas de cilantro, raíz de angélica, raíz de lirio y piel de cítricos. La base suele ser un destilado neutro, aunque en Estados Unidos se admiten otros destilados. La ginebra típica es incolora y no envejecida."
+    ],
+    [
+     "I gin migliori sono di solito ridistillati con i botanici, anche se alcuni aromi molto delicati vengono aggiunti dopo. Altri produttori aggiungono semplicemente aromi acquistati. In etichetta, la dicitura «London Dry Gin» indica che gli aromi sono stati dati durante la ridistillazione. Nonostante il nome, non indica un luogo: un London Dry Gin si può produrre in qualsiasi parte del mondo.",
+     "Les meilleurs gins sont en général redistillés avec les botaniques, même si certains arômes très délicats sont ajoutés après. D'autres producteurs se contentent d'ajouter des arômes achetés. Sur l'étiquette, la mention « London Dry Gin » indique que les arômes ont été apportés pendant la redistillation. Malgré son nom, elle n'indique aucun lieu : un London Dry Gin peut être produit n'importe où dans le monde.",
+     "The best gins are usually redistilled with their botanicals, although some very delicate flavours are added afterwards. Other producers simply add bought-in flavourings. On a label, ‘London Dry Gin’ means the flavours were added during redistillation. Despite the name, it is not a place: a London Dry Gin can be made anywhere in the world.",
+     "Las mejores ginebras suelen redestilarse con sus botánicos, aunque algunos aromas muy delicados se añaden después. Otros productores se limitan a añadir aromas comprados. En la etiqueta, la mención «London Dry Gin» indica que los aromas se aportaron durante la redestilación. Pese al nombre, no indica un lugar: un London Dry Gin puede elaborarse en cualquier parte del mundo."
+    ]
+   ],
+   "keys": [
+    [
+     "Vodka aromatizzata: base neutra + di solito aromi acquistati (a volte ridistillazione).",
+     "Vodka aromatisée : base neutre + le plus souvent arômes achetés (parfois redistillation).",
+     "Flavoured vodka: neutral base + usually bought-in flavourings (sometimes redistillation).",
+     "Vodka aromatizado: base neutra + normalmente aromas comprados (a veces redestilación)."
+    ],
+    [
+     "Gin: il ginepro deve dominare.",
+     "Gin : le genièvre doit dominer.",
+     "Gin: juniper must lead.",
+     "Ginebra: el enebro debe dominar."
+    ],
+    [
+     "Altri botanici classici: coriandolo, angelica, iris, scorza di agrumi.",
+     "Autres botaniques classiques : coriandre, angélique, iris, zestes d'agrumes.",
+     "Other classic botanicals: coriander, angelica, orris, citrus peel.",
+     "Otros botánicos clásicos: cilantro, angélica, lirio, piel de cítricos."
+    ],
+    [
+     "London Dry = aromi dati in ridistillazione; si può fare ovunque.",
+     "London Dry = arômes apportés par redistillation ; peut se faire partout.",
+     "London Dry = flavours added by redistillation; can be made anywhere.",
+     "London Dry = aromas aportados al redestilar; se puede elaborar en cualquier lugar."
+    ]
+   ]
+  },
+  {
+   "c": "s7",
+   "t": [
+    "Amari, bitter da cocktail e rum speziato",
+    "Amers, bitters à cocktail et rhum épicé",
+    "Bitter spirits, cocktail bitters and spiced rum",
+    "Amargos, bitters de cóctel y ron especiado"
+   ],
+   "p": [
+    [
+     "I distillati amari, come gli amari e i bitter da aperitivo, contengono almeno un botanico amaro: genziana, chinino o arancia amara, per esempio. Un dettaglio curioso: l'amaro si percepisce solo in bocca, perché il naso non sente l'amarezza. I profumi vengono dai botanici amari ma anche da molti altri ingredienti. Un tempo si bevevano a inizio o fine pasto; oggi finiscono soprattutto nei cocktail.",
+     "Les spiritueux amers contiennent au moins une botanique amère : gentiane, quinine ou orange amère, par exemple. Un détail curieux : l'amertume ne se perçoit qu'en bouche, car le nez ne la sent pas. Les arômes viennent des botaniques amères mais aussi de nombreux autres ingrédients. Autrefois, on les buvait en début ou en fin de repas ; aujourd'hui, ils servent surtout dans les cocktails.",
+     "Bitter spirits contain at least one bitter botanical, such as gentian, quinine or bitter orange. A curious detail: bitterness only shows up in the mouth, because the nose cannot detect it. The aromas come from the bitter botanicals but also from many other ingredients. These spirits were traditionally drunk before or after a meal; today they end up mostly in cocktails.",
+     "Los destilados amargos contienen al menos un botánico amargo, como la genciana, la quinina o la naranja amarga. Un detalle curioso: el amargor solo se percibe en boca, porque la nariz no lo detecta. Los aromas vienen de los botánicos amargos, pero también de muchos otros ingredientes. Tradicionalmente se tomaban al principio o al final de una comida; hoy acaban sobre todo en cócteles."
+    ],
+    [
+     "I bitter da cocktail sono un'altra cosa: distillati molto concentrati e intensamente amari, che nessuno beve da soli. Si usano a gocce, poche spruzzate in un cocktail, per aggiungere complessità, un po' come il sale e il pepe in cucina. Una bottiglietta dura a lungo dietro al bancone proprio perché ne basta pochissimo.",
+     "Les bitters à cocktail sont autre chose : des spiritueux très concentrés et intensément amers, que personne ne boit seuls. On les utilise à la goutte, quelques traits dans un cocktail, pour ajouter de la complexité, un peu comme le sel et le poivre en cuisine. Un petit flacon dure longtemps derrière le comptoir, justement parce qu'il en faut très peu.",
+     "Cocktail bitters are something else: highly concentrated, intensely bitter spirits that nobody drinks on their own. They are used by the drop, a few dashes in a cocktail, to add complexity, rather like salt and pepper in cooking. A small bottle lasts a long time behind the bar precisely because so little is needed.",
+     "Los bitters de cóctel son otra cosa: destilados muy concentrados e intensamente amargos que nadie toma solos. Se usan a gotas, unos golpes en un cóctel, para aportar complejidad, un poco como la sal y la pimienta en la cocina. Un frasquito dura mucho tras la barra precisamente porque hace falta muy poco."
+    ],
+    [
+     "Il rum speziato, infine, è una famiglia molto varia, sia per il rum di base sia per gli aromi aggiunti. Molti partono da un rum leggero e non invecchiato, che viene aromatizzato e colorato con caramello; solo pochi usano un rum invecchiato in rovere. Si impiegano sia botanici veri sia altri aromi. Quindi, attenzione: un colore ambrato non significa per forza anni di botte.",
+     "Le rhum épicé, enfin, est une famille très variée, tant pour le rhum de base que pour les arômes ajoutés. Beaucoup partent d'un rhum léger et non vieilli, aromatisé et coloré au caramel ; seuls quelques-uns utilisent un rhum vieilli en fût de chêne. On emploie à la fois de vraies botaniques et d'autres arômes. Attention donc : une couleur ambrée ne signifie pas forcément des années de fût.",
+     "Spiced rum, finally, is a very varied family, both in its base rum and in the flavourings added. Many start from a light, unaged rum that is flavoured and coloured with caramel; only a handful use an oak-aged rum. Both real botanicals and other flavourings are used. So be careful: an amber colour does not necessarily mean years in a barrel.",
+     "El ron especiado, por último, es una familia muy variada, tanto por el ron de base como por los aromas añadidos. Muchos parten de un ron ligero y sin envejecer, que se aromatiza y se colorea con caramelo; solo unos pocos usan un ron envejecido en roble. Se emplean tanto botánicos de verdad como otros aromas. Así que cuidado: un color ámbar no significa necesariamente años de barrica."
+    ]
+   ],
+   "keys": [
+    [
+     "Distillati amari: almeno un botanico amaro (genziana, chinino, arancia amara).",
+     "Spiritueux amers : au moins une botanique amère (gentiane, quinine, orange amère).",
+     "Bitter spirits: at least one bitter botanical (gentian, quinine, bitter orange).",
+     "Destilados amargos: al menos un botánico amargo (genciana, quinina, naranja amarga)."
+    ],
+    [
+     "L'amaro si sente solo in bocca, non al naso.",
+     "L'amertume se perçoit seulement en bouche, pas au nez.",
+     "Bitterness is felt only on the palate, not the nose.",
+     "El amargor solo se nota en boca, no en nariz."
+    ],
+    [
+     "Bitter da cocktail: concentratissimi, mai bevuti da soli, usati a gocce.",
+     "Bitters à cocktail : très concentrés, jamais bus seuls, utilisés à la goutte.",
+     "Cocktail bitters: very concentrated, never drunk alone, used in dashes.",
+     "Bitters de cóctel: muy concentrados, nunca se toman solos, se usan a gotas."
+    ],
+    [
+     "Rum speziato: spesso rum leggero non invecchiato + aromi + caramello.",
+     "Rhum épicé : souvent rhum léger non vieilli + arômes + caramel.",
+     "Spiced rum: often light unaged rum + flavourings + caramel.",
+     "Ron especiado: a menudo ron ligero sin envejecer + aromas + caramelo."
+    ]
+   ]
+  },
+  {
+   "c": "s7",
+   "t": [
+    "Liquori: aromatizzati e dolci",
+    "Liqueurs : aromatisées et sucrées",
+    "Liqueurs: flavoured and sweet",
+    "Licores: aromatizados y dulces"
+   ],
+   "p": [
+    [
+     "Un liquore è un distillato aromatizzato a cui è stato aggiunto anche zucchero. È questa la differenza chiave rispetto a un gin o a una vodka aromatizzata, che restano secchi. Lo zucchero si aggiunge dopo l'aromatizzazione e la legge impone un livello minimo di dolcezza: senza raggiungerlo, un prodotto non può chiamarsi liquore.",
+     "Une liqueur est un spiritueux aromatisé auquel on a aussi ajouté du sucre. C'est la différence essentielle avec un gin ou une vodka aromatisée, qui restent secs. Le sucre est ajouté après l'aromatisation, et la loi impose un niveau minimal de douceur : sans l'atteindre, un produit ne peut pas s'appeler liqueur.",
+     "A liqueur is a flavoured spirit that has also been sweetened. That is the key difference from a gin or a flavoured vodka, which stay dry. Sugar goes in after the flavouring, and the law sets a minimum level of sweetness: without reaching it, a product cannot be called a liqueur.",
+     "Un licor es un destilado aromatizado al que además se le ha añadido azúcar. Esa es la diferencia clave frente a una ginebra o un vodka aromatizado, que siguen siendo secos. El azúcar se añade después de aromatizar, y la ley exige un nivel mínimo de dulzor: si no lo alcanza, un producto no puede llamarse licor."
+    ],
+    [
+     "La maggior parte dei liquori nasce da uno spirito neutro, ma alcuni partono da distillati con più carattere, come brandy, rum o whisky. Per il resto la libertà è quasi totale: qualsiasi sapore e qualsiasi metodo per aggiungerlo. Si va dagli agrumi al caffè, dalle erbe alle nocciole. Esiste persino un ingrediente sorprendente in alcuni liquori: la panna, che dà una consistenza morbida e vellutata.",
+     "La plupart des liqueurs sont faites à partir d'un alcool neutre, mais certaines partent de spiritueux plus caractérisés, comme le brandy, le rhum ou le whisky. Pour le reste, la liberté est presque totale : n'importe quelle saveur et n'importe quelle méthode pour l'apporter. On va des agrumes au café, des herbes aux noisettes. Certaines liqueurs contiennent même un ingrédient surprenant : la crème, qui leur donne une texture douce et veloutée.",
+     "Most liqueurs are made from neutral spirit, but some start from more characterful spirits such as brandy, rum or whisky. Beyond that, freedom is almost complete: any flavour and any method of adding it. Think citrus or coffee, herbs or hazelnuts. Some liqueurs even contain a surprising ingredient: cream, which gives them a soft, velvety texture.",
+     "La mayoría de los licores parten de un destilado neutro, pero algunos se basan en destilados con más carácter, como el brandy, el ron o el whisky. Por lo demás, la libertad es casi total: cualquier sabor y cualquier método para añadirlo. Pueden ir de los cítricos al café, de las hierbas a la avellana. Algunos licores llevan incluso un ingrediente sorprendente: la nata, que les da una textura suave y aterciopelada."
+    ],
+    [
+     "Molti liquori sono anche colorati. Il colore naturale ottenuto con la macerazione è bello ma tende a sbiadire in fretta, così è diffuso l'uso di coloranti artificiali, più stabili. Offrono inoltre una gamma di tinte molto più ampia: ecco perché sugli scaffali si vedono liquori verde brillante, blu elettrico o rosso acceso.",
+     "Beaucoup de liqueurs sont aussi colorées. La couleur naturelle obtenue par macération est belle mais a tendance à pâlir vite : on utilise donc largement des colorants artificiels, plus stables. Ils offrent en plus une gamme de teintes bien plus large : voilà pourquoi on voit en rayon des liqueurs vert vif, bleu électrique ou rouge éclatant.",
+     "Many liqueurs are coloured as well. Natural colour from maceration is attractive but tends to fade quickly, so artificial colourings, which are more stable, are widely used. They also offer a much wider range of shades, which is why shelves show liqueurs in bright green, electric blue or vivid red.",
+     "Muchos licores también llevan color. El color natural que da la maceración es bonito, pero tiende a apagarse pronto, por eso se usan mucho los colorantes artificiales, más estables. Además ofrecen una gama de tonos mucho más amplia: por eso en las estanterías se ven licores verde intenso, azul eléctrico o rojo vivo."
+    ]
+   ],
+   "keys": [
+    [
+     "Liquore = distillato aromatizzato + zucchero.",
+     "Liqueur = spiritueux aromatisé + sucre.",
+     "Liqueur = flavoured spirit + sugar.",
+     "Licor = destilado aromatizado + azúcar."
+    ],
+    [
+     "La legge impone una dolcezza minima.",
+     "La loi impose une douceur minimale.",
+     "The law requires a minimum sweetness.",
+     "La ley exige un dulzor mínimo."
+    ],
+    [
+     "Base neutra o con carattere; qualsiasi sapore, anche la panna.",
+     "Base neutre ou de caractère ; toute saveur, même la crème.",
+     "Neutral or characterful base; any flavour, even cream.",
+     "Base neutra o con carácter; cualquier sabor, incluso nata."
+    ],
+    [
+     "Coloranti artificiali: colore stabile e tinte più vivaci.",
+     "Colorants artificiels : couleur stable et teintes plus vives.",
+     "Artificial colours: stable colour and brighter shades.",
+     "Colorantes artificiales: color estable y tonos más vivos."
+    ]
+   ]
+  },
+  {
+   "c": "s8",
+   "t": [
+    "I quattro ingredienti di un vino aromatizzato",
+    "Les quatre composants d'un vin aromatisé",
+    "The four building blocks of an aromatised wine",
+    "Los cuatro componentes de un vino aromatizado"
+   ],
+   "p": [
+    [
+     "I vini aromatizzati non sono distillati, ma si trovano su ogni bancone perché nei cocktail sono preziosi: in un solo ingrediente portano dolcezza, amaro e acidità. La categoria è varia, eppure la ricetta di base è sempre la stessa. Ci sono quattro componenti: un vino di base, degli aromi che includono sempre qualcosa di amaro, dello zucchero e un po' di distillato. A volte si aggiunge anche caramello.",
+     "Les vins aromatisés ne sont pas des spiritueux, mais on les trouve dans tous les bars, car ils sont précieux en cocktail : en un seul ingrédient, ils apportent douceur, amertume et acidité. La catégorie est variée, et pourtant la recette de base reste la même. Il y a quatre composants : un vin de base, des arômes qui comprennent toujours quelque chose d'amer, du sucre et un peu de spiritueux. On ajoute parfois du caramel.",
+     "Aromatised wines are not spirits, yet every bar has them because they are so useful in cocktails: a single ingredient brings sweetness, bitterness and acidity. The category is varied, but the basic recipe never changes. There are four components: a base wine, flavourings that always include something bitter, sugar and a little spirit. Caramel is sometimes added too.",
+     "Los vinos aromatizados no son destilados, pero están en todas las barras porque en coctelería son muy valiosos: en un solo ingrediente aportan dulzor, amargor y acidez. La categoría es variada, y aun así la receta básica es siempre la misma. Hay cuatro componentes: un vino base, unos aromas que siempre incluyen algo amargo, azúcar y un poco de destilado. A veces también se añade caramelo."
+    ],
+    [
+     "Il vino di base è quasi sempre bianco, spesso piuttosto neutro, così da fare da tela per gli aromi aggiunti; alcuni produttori scelgono invece vini aromatici e li bilanciano con la ricetta, e c'è chi usa vino rosso o rosato. Gli aromi si aggiungono direttamente al vino o sotto forma di distillati aromatizzati. Le ricette cambiano molto, ma tutte contengono botanici amari come assenzio, genziana o chinino.",
+     "Le vin de base est presque toujours blanc, souvent assez neutre, pour servir de toile de fond aux arômes ajoutés ; certains producteurs choisissent au contraire des vins aromatiques qu'ils équilibrent avec leur recette, et d'autres utilisent du vin rouge ou rosé. Les arômes sont ajoutés directement au vin ou sous forme de spiritueux aromatisés. Les recettes varient beaucoup, mais toutes contiennent des botaniques amères comme l'absinthe, la gentiane ou la quinine.",
+     "The base wine is nearly always white, often fairly neutral, so it works as a blank canvas for the added flavours; some producers prefer aromatic wines and balance them with their recipe, and some use red or rosé wine. Flavourings go straight into the wine or are added as flavoured spirits. Recipes vary a lot, but all of them include bitter botanicals such as wormwood, gentian or quinine.",
+     "El vino base es casi siempre blanco, a menudo bastante neutro, para que sirva de lienzo a los aromas añadidos; algunos productores prefieren vinos aromáticos y los equilibran con su receta, y otros usan vino tinto o rosado. Los aromas se añaden directamente al vino o en forma de destilados aromatizados. Las recetas varían mucho, pero todas incluyen botánicos amargos como el ajenjo, la genciana o la quinina."
+    ],
+    [
+     "Il distillato, quasi sempre neutro, si aggiunge in piccola quantità per alzare la gradazione e far durare di più il prodotto, soprattutto dopo l'apertura della bottiglia. Quasi nessun vino aromatizzato è del tutto secco: la dolcezza può venire dal vino stesso o dallo zucchero aggiunto. Il caramello, facoltativo, serve a colorare; nei prodotti rossi fatti con vino bianco può anche dare note di caramello.",
+     "Le spiritueux, presque toujours neutre, est ajouté en petite quantité pour relever le degré et prolonger la durée de conservation, surtout une fois la bouteille ouverte. Presque aucun vin aromatisé n'est complètement sec : la douceur peut venir du vin lui-même ou du sucre ajouté. Le caramel, facultatif, sert à colorer ; dans les produits rouges élaborés avec du vin blanc, il peut aussi apporter des notes de caramel.",
+     "The spirit, nearly always neutral, is added in a small amount to raise the alcohol and give the product a longer life, especially once the bottle is open. Almost no aromatised wine is fully dry: sweetness can come from the wine itself or from added sugar. Caramel is optional and used for colour; in red products made from white wine it can also add caramel notes.",
+     "El destilado, casi siempre neutro, se añade en pequeña cantidad para subir la graduación y alargar la vida del producto, sobre todo una vez abierta la botella. Casi ningún vino aromatizado es completamente seco: el dulzor puede venir del propio vino o del azúcar añadido. El caramelo es opcional y sirve para dar color; en los productos rojos hechos con vino blanco también puede aportar notas de caramelo."
+    ]
+   ],
+   "keys": [
+    [
+     "Quattro componenti: vino di base, aromi con un elemento amaro, zucchero, distillato.",
+     "Quatre composants : vin de base, arômes avec un élément amer, sucre, spiritueux.",
+     "Four components: base wine, flavourings with something bitter, sugar, spirit.",
+     "Cuatro componentes: vino base, aromas con algo amargo, azúcar, destilado."
+    ],
+    [
+     "Vino di base di solito bianco e piuttosto neutro.",
+     "Vin de base généralement blanc et assez neutre.",
+     "Base wine usually white and fairly neutral.",
+     "Vino base normalmente blanco y bastante neutro."
+    ],
+    [
+     "Il distillato (di solito neutro) alza la gradazione e allunga la conservazione.",
+     "Le spiritueux (souvent neutre) relève le degré et prolonge la conservation.",
+     "The spirit (usually neutral) raises alcohol and extends shelf life.",
+     "El destilado (normalmente neutro) sube la graduación y alarga la conservación."
+    ],
+    [
+     "Quasi mai del tutto secchi; caramello facoltativo per il colore.",
+     "Presque jamais complètement secs ; caramel facultatif pour la couleur.",
+     "Almost never fully dry; caramel optional for colour.",
+     "Casi nunca del todo secos; caramelo opcional para el color."
+    ]
+   ]
+  },
+  {
+   "c": "s8",
+   "t": [
+    "Il vermut",
+    "Le vermouth",
+    "Vermouth",
+    "El vermut"
+   ],
+   "p": [
+    [
+     "I vini aromatizzati si possono produrre ovunque nel mondo, ma le zone più celebri sono due: il sud-est della Francia e il nord-ovest dell'Italia. In entrambi i paesi il tipo più diffuso è il vermut. Due regole lo definiscono: nasce da un vino bianco e deve essere aromatizzato con l'assenzio, un botanico dal gusto decisamente amaro.",
+     "Les vins aromatisés peuvent être produits partout dans le monde, mais deux zones sont particulièrement célèbres : le sud-est de la France et le nord-ouest de l'Italie. Dans ces deux pays, le type le plus répandu est le vermouth. Deux règles le définissent : il est élaboré à partir d'un vin blanc et doit être aromatisé à l'absinthe, une botanique à l'amertume prononcée.",
+     "Aromatised wines can be made anywhere in the world, but two areas are especially famous: south-east France and north-west Italy. In both countries the most widely made type is vermouth. Two rules define it: it is made from a white wine base, and it must be flavoured with wormwood, a botanical with a strongly bitter taste.",
+     "Los vinos aromatizados pueden elaborarse en cualquier parte del mundo, pero hay dos zonas especialmente famosas: el sureste de Francia y el noroeste de Italia. En ambos países el tipo más extendido es el vermut. Dos reglas lo definen: se elabora con un vino blanco y debe aromatizarse con ajenjo, un botánico de sabor claramente amargo."
+    ],
+    [
+     "Attenzione alle etichette: un vermut «dry» (secco) contiene quasi sempre zucchero aggiunto, anche se in quantità minore. I vermut rossi, invece, sono in genere molto zuccherati. E il loro colore? Visto che la base è un vino bianco, la tinta rossa arriva di solito dal caramello, che può aggiungere anche un leggero profumo di caramello.",
+     "Attention aux étiquettes : un vermouth « dry » (sec) contient presque toujours du sucre ajouté, même en plus petite quantité. Les vermouths rouges, eux, sont en général très sucrés. Et leur couleur ? Comme la base est un vin blanc, la teinte rouge vient généralement du caramel, qui peut aussi apporter une légère note de caramel.",
+     "Watch the labels: a vermouth marked ‘dry’ nearly always contains added sugar, just less of it. Red vermouths, on the other hand, are usually heavily sweetened. And their colour? Since the base is a white wine, the red shade usually comes from caramel, which can also add a light caramel aroma.",
+     "Ojo con las etiquetas: un vermut «dry» (seco) casi siempre lleva azúcar añadido, aunque en menor cantidad. Los vermuts rojos, en cambio, suelen estar muy endulzados. ¿Y su color? Como la base es un vino blanco, el tono rojo suele venir del caramelo, que además puede aportar un ligero aroma a caramelo."
+    ],
+    [
+     "Dietro al bancone il vermut è un vero jolly. Un vermut secco può asciugare e profumare un drink a base di gin, mentre uno rosso, dolce e amaricante, arrotonda un cocktail a base di whiskey. In entrambi i casi fa lo stesso lavoro: bilancia dolcezza, amaro e acidità in un solo gesto. Ecco perché conviene conoscerne bene stile e dolcezza prima di usarlo.",
+     "Derrière le comptoir, le vermouth est un vrai joker. Un vermouth sec peut assécher et parfumer une boisson à base de gin, tandis qu'un rouge, sucré et légèrement amer, arrondit un cocktail à base de whiskey. Dans les deux cas, il fait le même travail : équilibrer douceur, amertume et acidité en un seul geste. D'où l'intérêt de bien connaître son style et sa douceur avant de l'utiliser.",
+     "Behind the bar, vermouth is a real all-rounder. A dry vermouth can add dryness and perfume to a gin-based drink, while a red one, sweet with a bitter edge, rounds out a whiskey cocktail. Either way it does the same job: balancing sweetness, bitterness and acidity in one pour. That is why it pays to know its style and sweetness before reaching for the bottle.",
+     "Detrás de la barra, el vermut es un auténtico comodín. Un vermut seco puede secar y perfumar una bebida a base de ginebra, mientras que uno rojo, dulce y amargo a la vez, redondea un cóctel a base de whiskey. En los dos casos hace el mismo trabajo: equilibrar dulzor, amargor y acidez de un solo gesto. Por eso conviene conocer bien su estilo y su dulzor antes de usarlo."
+    ]
+   ],
+   "keys": [
+    [
+     "Zone più note: sud-est della Francia e nord-ovest dell'Italia.",
+     "Zones les plus connues : sud-est de la France et nord-ouest de l'Italie.",
+     "Best-known areas: south-east France and north-west Italy.",
+     "Zonas más conocidas: sureste de Francia y noroeste de Italia."
+    ],
+    [
+     "Vermut = vino bianco di base + assenzio obbligatorio.",
+     "Vermouth = vin blanc de base + absinthe obligatoire.",
+     "Vermouth = white wine base + wormwood, by rule.",
+     "Vermut = vino blanco de base + ajenjo obligatorio."
+    ],
+    [
+     "Anche il «dry» ha quasi sempre zucchero; il rosso è molto dolce.",
+     "Même le « dry » contient presque toujours du sucre ; le rouge est très sucré.",
+     "Even ‘dry’ nearly always has sugar; red is very sweet.",
+     "Incluso el «dry» casi siempre lleva azúcar; el rojo es muy dulce."
+    ],
+    [
+     "Il colore del vermut rosso viene di solito dal caramello.",
+     "La couleur du vermouth rouge vient généralement du caramel.",
+     "Red vermouth usually gets its colour from caramel.",
+     "El color del vermut rojo suele venir del caramelo."
+    ]
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "c": "s6",
+   "q": [
+    "Da quale pianta si ottiene la Tequila?",
+    "De quelle plante est tirée la Tequila ?",
+    "Which plant is Tequila made from?",
+    "¿De qué planta se obtiene el Tequila?"
+   ],
+   "o": [
+    [
+     "Agave blu",
+     "L'agave bleu",
+     "Blue agave",
+     "Agave azul"
+    ],
+    [
+     "Canna da zucchero",
+     "La canne à sucre",
+     "Sugar cane",
+     "Caña de azúcar"
+    ],
+    [
+     "Mais",
+     "Le maïs",
+     "Corn",
+     "Maíz"
+    ],
+    [
+     "Patata",
+     "La pomme de terre",
+     "Potato",
+     "Patata"
+    ]
+   ],
+   "e": [
+    "Per legge la Tequila deve essere prodotta con l'agave blu, pianta originaria del Messico.",
+    "Par la loi, la Tequila doit être produite à partir de l'agave bleu, plante originaire du Mexique.",
+    "By law, Tequila must be made from blue agave, a plant native to Mexico.",
+    "Por ley, el Tequila debe elaborarse con agave azul, planta originaria de México."
+   ],
+   "d": [
+    "L'agave blu è l'unica pianta ammessa e dà alla Tequila i suoi aromi erbacei e pepati. La canna da zucchero è la materia prima del rum, il mais è il cereale principale del Bourbon e la patata è una delle materie prime classiche della vodka.",
+    "L'agave bleu est la seule plante autorisée et donne à la Tequila ses arômes herbacés et poivrés. La canne à sucre est la matière première du rhum, le maïs la céréale principale du Bourbon, et la pomme de terre l'une des matières premières classiques de la vodka.",
+    "Blue agave is the only plant allowed and gives Tequila its herbaceous, peppery aromas. Sugar cane is the raw material of rum, corn is the main grain in Bourbon, and potato is one of the classic raw materials for vodka.",
+    "El agave azul es la única planta permitida y da al Tequila sus aromas herbáceos y picantes. La caña de azúcar es la materia prima del ron, el maíz es el cereal principal del Bourbon y la patata una de las materias primas clásicas del vodka."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Dove si può produrre la Tequila?",
+    "Où peut-on produire de la Tequila ?",
+    "Where can Tequila be made?",
+    "¿Dónde puede elaborarse el Tequila?"
+   ],
+   "o": [
+    [
+     "Solo in alcuni stati del Messico",
+     "Seulement dans certains États du Mexique",
+     "Only in certain states of Mexico",
+     "Solo en ciertos estados de México"
+    ],
+    [
+     "In qualsiasi stato del Messico",
+     "Dans n'importe quel État du Mexique",
+     "In any state of Mexico",
+     "En cualquier estado de México"
+    ],
+    [
+     "In tutta l'America centrale",
+     "Dans toute l'Amérique centrale",
+     "Anywhere in Central America",
+     "En toda Centroamérica"
+    ],
+    [
+     "Ovunque cresca l'agave blu",
+     "Partout où pousse l'agave bleu",
+     "Wherever blue agave grows",
+     "Donde crezca el agave azul"
+    ]
+   ],
+   "e": [
+    "La legge limita la produzione ad alcuni stati messicani ben definiti.",
+    "La loi limite la production à certains États mexicains bien définis.",
+    "The law limits production to certain named Mexican states.",
+    "La ley limita la producción a determinados estados mexicanos."
+   ],
+   "d": [
+    "Non basta essere in Messico: solo alcuni stati sono autorizzati. Coltivare agave blu altrove non dà diritto al nome Tequila, e l'America centrale non rientra nella zona. È una differenza importante rispetto alla vodka, che si può produrre ovunque.",
+    "Il ne suffit pas d'être au Mexique : seuls certains États sont autorisés. Cultiver de l'agave bleu ailleurs ne donne pas droit au nom Tequila, et l'Amérique centrale n'en fait pas partie. C'est une grande différence avec la vodka, qu'on peut produire partout.",
+    "Being in Mexico is not enough: only certain states are allowed. Growing blue agave elsewhere does not earn the name Tequila, and Central America is outside the zone. This is a key difference from vodka, which can be made anywhere.",
+    "No basta con estar en México: solo algunos estados están autorizados. Cultivar agave azul en otro lugar no da derecho al nombre Tequila, y Centroamérica queda fuera. Es una gran diferencia con el vodka, que puede elaborarse en cualquier parte."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Perché i cuori d'agave vengono cotti in forno?",
+    "Pourquoi cuit-on les cœurs d'agave au four ?",
+    "Why are agave cores cooked in ovens?",
+    "¿Por qué se cuecen en horno los corazones de agave?"
+   ],
+   "o": [
+    [
+     "Per ammorbidirli e creare zuccheri",
+     "Pour les attendrir et créer des sucres",
+     "To soften them and create sugars",
+     "Para ablandarlos y crear azúcares"
+    ],
+    [
+     "Per dare un aroma affumicato",
+     "Pour leur donner un arôme fumé",
+     "To give them a smoky aroma",
+     "Para darles un aroma ahumado"
+    ],
+    [
+     "Per eliminare il loro colore",
+     "Pour éliminer leur couleur",
+     "To remove their colour",
+     "Para eliminar su color"
+    ],
+    [
+     "Per uccidere i lieviti naturali",
+     "Pour tuer les levures naturelles",
+     "To kill the natural yeasts",
+     "Para matar las levaduras naturales"
+    ]
+   ],
+   "e": [
+    "La cottura rende il cuore morbido e vi forma gli zuccheri necessari alla fermentazione.",
+    "La cuisson attendrit le cœur et y forme les sucres nécessaires à la fermentation.",
+    "Cooking softens the core and forms the sugars needed for fermentation.",
+    "La cocción ablanda el corazón y forma los azúcares necesarios para fermentar."
+   ],
+   "d": [
+    "Come i cereali, l'agave appena raccolto non ha zuccheri pronti: senza cottura non ci sarebbe nulla da fermentare. Il fumo non è l'obiettivo (pensate piuttosto alla torba di alcuni whisky scozzesi), il colore non c'entra e i lieviti servono proprio dopo, per la fermentazione.",
+    "Comme les céréales, l'agave fraîchement récolté n'a pas de sucres prêts : sans cuisson, il n'y aurait rien à fermenter. La fumée n'est pas le but (pensez plutôt à la tourbe de certains whiskies écossais), la couleur n'a rien à voir et les levures sont justement utiles ensuite, pour la fermentation.",
+    "Like grains, freshly harvested agave has no sugar ready to use: without cooking there would be nothing to ferment. Smoke is not the goal (that is more the peat in some Scotch whiskies), colour is irrelevant, and yeast is needed right afterwards for fermentation.",
+    "Como los cereales, el agave recién cosechado no tiene azúcares listos: sin cocción no habría nada que fermentar. El humo no es el objetivo (eso recuerda más a la turba de algunos whiskies escoceses), el color no tiene nada que ver y las levaduras se necesitan justo después, para fermentar."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Su un'etichetta di Tequila si legge «Silver». Che cosa indica?",
+    "Une étiquette de Tequila porte la mention « Silver ». Qu'est-ce que cela indique ?",
+    "A Tequila label says ‘Silver’. What does that tell you?",
+    "Una etiqueta de Tequila dice «Silver». ¿Qué indica?"
+   ],
+   "o": [
+    [
+     "Che è una Tequila non invecchiata, come la Blanco",
+     "Que c'est une Tequila non vieillie, comme la Blanco",
+     "It is an unaged Tequila, the same as Blanco",
+     "Que es un Tequila sin envejecer, como el Blanco"
+    ],
+    [
+     "Che è invecchiata da 2 a 12 mesi",
+     "Qu'elle a vieilli de 2 à 12 mois",
+     "It has been aged for 2 to 12 months",
+     "Que ha envejecido entre 2 y 12 meses"
+    ],
+    [
+     "Che è fatta con il 100% di agave",
+     "Qu'elle est faite à 100 % d'agave",
+     "It is made from 100% agave",
+     "Que está hecho con un 100% de agave"
+    ],
+    [
+     "Che è stata colorata con caramello",
+     "Qu'elle a été colorée au caramel",
+     "It has been coloured with caramel",
+     "Que se ha coloreado con caramelo"
+    ]
+   ],
+   "e": [
+    "Silver è un altro nome per Blanco: Tequila non invecchiata.",
+    "Silver est un autre nom de la Blanco : une Tequila non vieillie.",
+    "Silver is another name for Blanco: unaged Tequila.",
+    "Silver es otro nombre del Blanco: Tequila sin envejecer."
+   ],
+   "d": [
+    "Blanco e Silver indicano lo stesso stile, incolore e dal profilo d'agave puro. Il periodo da 2 a 12 mesi corrisponde alla Reposado; la dicitura «100% agave» è un'informazione separata, e il caramello è tipico invece della Joven/Oro.",
+    "Blanco et Silver désignent le même style, incolore et au profil d'agave pur. La période de 2 à 12 mois correspond à la Reposado ; la mention « 100 % agave » est une information distincte, et le caramel est plutôt typique de la Joven/Oro.",
+    "Blanco and Silver name the same style, colourless with a pure agave profile. The 2–12 month period belongs to Reposado; ‘100% agave’ is a separate piece of information, and caramel is typical of Joven/Oro instead.",
+    "Blanco y Silver designan el mismo estilo, incoloro y con un perfil de agave puro. El periodo de 2 a 12 meses corresponde al Reposado; «100% agave» es un dato aparte, y el caramelo es típico del Joven/Oro."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Quale quota minima di zuccheri deve provenire dall'agave blu in qualsiasi Tequila?",
+    "Quelle part minimale des sucres doit provenir de l'agave bleu dans toute Tequila ?",
+    "What minimum share of the sugars in any Tequila must come from blue agave?",
+    "¿Qué proporción mínima de los azúcares de cualquier Tequila debe proceder del agave azul?"
+   ],
+   "o": [
+    [
+     "51%",
+     "51 %",
+     "51%",
+     "51%"
+    ],
+    [
+     "25%",
+     "25 %",
+     "25%",
+     "25%"
+    ],
+    [
+     "75%",
+     "75 %",
+     "75%",
+     "75%"
+    ],
+    [
+     "100%",
+     "100 %",
+     "100%",
+     "100%"
+    ]
+   ],
+   "e": [
+    "Almeno il 51% degli zuccheri fermentati deve venire dall'agave blu.",
+    "Au moins 51 % des sucres fermentés doivent provenir de l'agave bleu.",
+    "At least 51% of the fermented sugars must come from blue agave.",
+    "Al menos el 51% de los azúcares fermentados debe proceder del agave azul."
+   ],
+   "d": [
+    "Il produttore può aggiungere altri zuccheri, ma l'agave deve restare maggioritario. Il 100% non è obbligatorio: è la condizione per poter scrivere «100% agave» in etichetta. Il 25% e il 75% non corrispondono a nessuna regola.",
+    "Le producteur peut ajouter d'autres sucres, mais l'agave doit rester majoritaire. Le 100 % n'est pas obligatoire : c'est la condition pour pouvoir écrire « 100 % agave » sur l'étiquette. Les valeurs de 25 % et 75 % ne correspondent à aucune règle.",
+    "The producer may add other sugars, but agave must stay in the majority. 100% is not compulsory: it is the condition for writing ‘100% agave’ on the label. The 25% and 75% figures match no rule.",
+    "El productor puede añadir otros azúcares, pero el agave debe seguir siendo mayoritario. El 100% no es obligatorio: es la condición para poder poner «100% agave» en la etiqueta. Las cifras de 25% y 75% no corresponden a ninguna regla."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Che cosa garantisce la dicitura «100% agave» su una Tequila?",
+    "Que garantit la mention « 100 % agave » sur une Tequila ?",
+    "What does ‘100% agave’ on a Tequila label guarantee?",
+    "¿Qué garantiza la mención «100% agave» en un Tequila?"
+   ],
+   "o": [
+    [
+     "Nessuno zucchero diverso dall'agave blu",
+     "Aucun sucre autre que celui de l'agave bleu",
+     "No sugar other than blue agave was used",
+     "Ningún azúcar distinto del agave azul"
+    ],
+    [
+     "Una distillazione solo in alambicco",
+     "Une distillation uniquement en alambic",
+     "Distillation in pot stills only",
+     "Destilación solo en alambique tradicional"
+    ],
+    [
+     "Un invecchiamento minimo in rovere",
+     "Un vieillissement minimal en chêne",
+     "A minimum period in oak",
+     "Un envejecimiento mínimo en roble"
+    ],
+    [
+     "L'assenza di caramello e additivi",
+     "L'absence de caramel et d'additifs",
+     "No caramel or other additives",
+     "La ausencia de caramelo y aditivos"
+    ]
+   ],
+   "e": [
+    "Significa che per il liquido zuccherino è stato usato solo agave blu.",
+    "Cela signifie que seul l'agave bleu a servi à préparer le liquide sucré.",
+    "It means only blue agave was used to make the sugary liquid.",
+    "Significa que solo se usó agave azul para preparar el líquido azucarado."
+   ],
+   "d": [
+    "La dicitura riguarda solo l'origine degli zuccheri. Non dice nulla sul tipo di alambicco né sull'invecchiamento: esistono Tequile «100% agave» sia non invecchiate sia invecchiate. Non garantisce nemmeno l'assenza di caramello, che può essere usato nelle versioni invecchiate.",
+    "La mention concerne seulement l'origine des sucres. Elle ne dit rien du type d'alambic ni du vieillissement : il existe des Tequilas « 100 % agave » non vieillies comme vieillies. Elle ne garantit pas non plus l'absence de caramel, qui peut être utilisé dans les versions vieillies.",
+    "The term is only about where the sugars came from. It says nothing about the type of still or about ageing: there are both unaged and aged ‘100% agave’ Tequilas. Nor does it promise no caramel, which may be used in aged versions.",
+    "La mención solo se refiere al origen de los azúcares. No dice nada del tipo de alambique ni del envejecimiento: hay Tequilas «100% agave» tanto sin envejecer como envejecidos. Tampoco garantiza la ausencia de caramelo, que puede usarse en las versiones envejecidas."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Un cliente cerca la Tequila con l'espressione d'agave più pura possibile. Quale proporre?",
+    "Un client cherche la Tequila à l'expression d'agave la plus pure possible. Laquelle proposer ?",
+    "A customer wants the purest possible expression of agave. Which Tequila would you suggest?",
+    "Un cliente busca el Tequila con la expresión de agave más pura posible. ¿Cuál le propondrías?"
+   ],
+   "o": [
+    [
+     "Una Blanco 100% agave",
+     "Une Blanco 100 % agave",
+     "A Blanco labelled 100% agave",
+     "Un Blanco 100% agave"
+    ],
+    [
+     "Una Añejo 100% agave",
+     "Une Añejo 100 % agave",
+     "An Añejo labelled 100% agave",
+     "Un Añejo 100% agave"
+    ],
+    [
+     "Una Joven/Oro",
+     "Une Joven/Oro",
+     "A Joven/Oro",
+     "Un Joven/Oro"
+    ],
+    [
+     "Una Reposado senza altre diciture",
+     "Une Reposado sans autre mention",
+     "A Reposado with no other label terms",
+     "Un Reposado sin más menciones"
+    ]
+   ],
+   "e": [
+    "La Blanco non passa in legno e il «100% agave» esclude altri zuccheri: l'agave è protagonista assoluto.",
+    "La Blanco ne passe pas en fût et le « 100 % agave » exclut les autres sucres : l'agave est seul en scène.",
+    "Blanco sees no oak, and ‘100% agave’ rules out other sugars: agave has the stage to itself.",
+    "El Blanco no pasa por madera y el «100% agave» excluye otros azúcares: el agave es el protagonista absoluto."
+   ],
+   "d": [
+    "Due scelte vanno nella stessa direzione: niente legno e solo zuccheri d'agave. La Añejo aggiunge note di rovere, la Joven/Oro ha caramello e additivi che ne ammorbidiscono la consistenza, e una Reposado senza la dicitura «100% agave» può contenere altri zuccheri oltre a un passaggio in legno.",
+    "Deux choix vont dans le même sens : pas de bois et uniquement des sucres d'agave. L'Añejo ajoute des notes de chêne, la Joven/Oro contient du caramel et des additifs qui adoucissent sa texture, et une Reposado sans la mention « 100 % agave » peut contenir d'autres sucres en plus de son passage en fût.",
+    "Two choices point the same way: no oak and only agave sugars. Añejo adds oak notes, Joven/Oro has caramel and additives that soften its texture, and a Reposado without ‘100% agave’ may contain other sugars on top of its time in oak.",
+    "Dos elecciones van en la misma dirección: nada de madera y solo azúcares de agave. El Añejo añade notas de roble, el Joven/Oro lleva caramelo y aditivos que suavizan su textura, y un Reposado sin la mención «100% agave» puede contener otros azúcares además de su paso por madera."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Come vengono distillate le migliori Tequile?",
+    "Comment les meilleures Tequilas sont-elles distillées ?",
+    "How are the best Tequilas distilled?",
+    "¿Cómo se destilan los mejores Tequilas?"
+   ],
+   "o": [
+    [
+     "Due volte in alambicco discontinuo, a bassa gradazione",
+     "Deux fois en alambic à repasse, à faible degré",
+     "Twice in pot stills, to a low strength",
+     "Dos veces en alambique tradicional, a baja graduación"
+    ],
+    [
+     "Una volta in colonna alta, a 96% vol.",
+     "Une fois en grande colonne, à 96 % vol.",
+     "Once in a tall column, to 96% abv",
+     "Una vez en columna alta, al 96% vol."
+    ],
+    [
+     "Tre volte in colonna, ad alta gradazione",
+     "Trois fois en colonne, à degré élevé",
+     "Three times in columns, to a high strength",
+     "Tres veces en columna, a alta graduación"
+    ],
+    [
+     "Una volta in alambicco, poi filtrate su carbone",
+     "Une fois en alambic, puis filtrées au charbon",
+     "Once in a pot still, then charcoal filtered",
+     "Una vez en alambique y luego filtrados con carbón"
+    ]
+   ],
+   "e": [
+    "La doppia distillazione in alambicco a bassa gradazione conserva i profumi dell'agave.",
+    "La double distillation en alambic à faible degré préserve les arômes de l'agave.",
+    "Double pot distillation to a low strength keeps the agave aromas.",
+    "La doble destilación en alambique a baja graduación conserva los aromas del agave."
+   ],
+   "d": [
+    "Più bassa è la gradazione, più profumo resta nel distillato. Una colonna alta che arriva a 96% vol. produce uno spirito neutro, l'opposto di ciò che si cerca. La filtrazione su carbone non fa parte del metodo tipico della Tequila: la si incontra piuttosto nel whiskey del Tennessee o in alcuni rum bianchi.",
+    "Plus le degré est bas, plus le spiritueux garde d'arômes. Une grande colonne qui atteint 96 % vol. donne un alcool neutre, l'inverse de ce qu'on cherche. La filtration au charbon ne fait pas partie de la méthode typique de la Tequila : on la rencontre plutôt dans le whiskey du Tennessee ou certains rhums blancs.",
+    "The lower the strength, the more aroma stays in the spirit. A tall column reaching 96% abv makes a neutral spirit, the opposite of what is wanted. Charcoal filtering is not part of the typical Tequila method; it belongs rather to Tennessee whiskey or some white rums.",
+    "Cuanto más baja es la graduación, más aroma conserva el destilado. Una columna alta que llega al 96% vol. da un destilado neutro, justo lo contrario de lo que se busca. El filtrado con carbón no forma parte del método típico del Tequila: es más propio del whiskey de Tennessee o de algunos rones blancos."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Quali profumi sono tipici dell'agave blu?",
+    "Quels arômes sont typiques de l'agave bleu ?",
+    "Which aromas are typical of blue agave?",
+    "¿Qué aromas son típicos del agave azul?"
+   ],
+   "o": [
+    [
+     "Erbacei, terrosi e pepati",
+     "Herbacés, terreux et poivrés",
+     "Herbaceous, earthy and peppery",
+     "Herbáceos, terrosos y picantes"
+    ],
+    [
+     "Cereali, miele e fumo",
+     "Céréales, miel et fumée",
+     "Cereal, honey and smoke",
+     "Cereal, miel y humo"
+    ],
+    [
+     "Caramello e zucchero di canna",
+     "Caramel et sucre roux",
+     "Caramel and brown sugar",
+     "Caramelo y azúcar moreno"
+    ],
+    [
+     "Vaniglia, cocco e mais dolce",
+     "Vanille, noix de coco et maïs doux",
+     "Vanilla, coconut and sweetcorn",
+     "Vainilla, coco y maíz dulce"
+    ]
+   ],
+   "e": [
+    "L'agave blu porta note erbacee, vegetali, di oliva, di terra e di pepe.",
+    "L'agave bleu apporte des notes herbacées, végétales, d'olive, de terre et de poivre.",
+    "Blue agave brings herbaceous, vegetal, olive, earthy and peppery notes.",
+    "El agave azul aporta notas herbáceas, vegetales, de aceituna, de tierra y de pimienta."
+   ],
+   "d": [
+    "Ogni materia prima lascia la sua firma. Cereali, miele e fumo fanno pensare a un single malt scozzese torbato, caramello e zucchero di canna a un rum da melassa, vaniglia, cocco e mais dolce a un Bourbon in rovere nuovo.",
+    "Chaque matière première laisse sa signature. Céréales, miel et fumée évoquent un single malt écossais tourbé, caramel et sucre roux un rhum de mélasse, vanille, noix de coco et maïs doux un Bourbon élevé en chêne neuf.",
+    "Every raw material leaves its signature. Cereal, honey and smoke point to a peated Scotch single malt, caramel and brown sugar to a molasses rum, and vanilla, coconut and sweetcorn to a Bourbon aged in new oak.",
+    "Cada materia prima deja su firma. Cereal, miel y humo recuerdan a un single malt escocés con turba, caramelo y azúcar moreno a un ron de melaza, y vainilla, coco y maíz dulce a un Bourbon criado en roble nuevo."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Per quanto tempo invecchia in rovere una Tequila Reposado?",
+    "Combien de temps une Tequila Reposado vieillit-elle en chêne ?",
+    "How long is a Reposado Tequila aged in oak?",
+    "¿Cuánto tiempo envejece en roble un Tequila Reposado?"
+   ],
+   "o": [
+    [
+     "Da 2 a 12 mesi",
+     "De 2 à 12 mois",
+     "Between 2 and 12 months",
+     "Entre 2 y 12 meses"
+    ],
+    [
+     "Almeno 12 mesi",
+     "Au moins 12 mois",
+     "At least 12 months",
+     "Al menos 12 meses"
+    ],
+    [
+     "Almeno 2 anni",
+     "Au moins 2 ans",
+     "At least 2 years",
+     "Al menos 2 años"
+    ],
+    [
+     "Non invecchia affatto",
+     "Elle ne vieillit pas du tout",
+     "It is not aged at all",
+     "No envejece en absoluto"
+    ]
+   ],
+   "e": [
+    "La Reposado riposa in rovere tra 2 e 12 mesi.",
+    "La Reposado repose en chêne entre 2 et 12 mois.",
+    "Reposado rests in oak for 2 to 12 months.",
+    "El Reposado reposa en roble entre 2 y 12 meses."
+   ],
+   "d": [
+    "Almeno 12 mesi è la regola della Añejo; nessun invecchiamento vale per Blanco e Joven. Almeno 2 anni è un numero che ricorda il minimo del Cognac (VS), non una regola della Tequila.",
+    "Au moins 12 mois est la règle de l'Añejo ; aucun vieillissement concerne la Blanco et la Joven. Au moins 2 ans rappelle le minimum du Cognac (VS), pas une règle de la Tequila.",
+    "At least 12 months is the Añejo rule; no ageing applies to Blanco and Joven. At least 2 years recalls the Cognac minimum (VS), not a Tequila rule.",
+    "Al menos 12 meses es la regla del Añejo; sin envejecimiento son el Blanco y el Joven. Al menos 2 años recuerda al mínimo del Coñac (VS), no a una regla del Tequila."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Quale stile di Tequila passa almeno 12 mesi in rovere?",
+    "Quel style de Tequila passe au moins 12 mois en chêne ?",
+    "Which Tequila style spends at least 12 months in oak?",
+    "¿Qué estilo de Tequila pasa al menos 12 meses en roble?"
+   ],
+   "o": [
+    [
+     "Añejo",
+     "Añejo",
+     "Añejo",
+     "Añejo"
+    ],
+    [
+     "Reposado",
+     "Reposado",
+     "Reposado",
+     "Reposado"
+    ],
+    [
+     "Joven",
+     "Joven",
+     "Joven",
+     "Joven"
+    ],
+    [
+     "Blanco",
+     "Blanco",
+     "Blanco",
+     "Blanco"
+    ]
+   ],
+   "e": [
+    "La Añejo invecchia almeno 12 mesi e unisce agave e rovere.",
+    "L'Añejo vieillit au moins 12 mois et associe agave et chêne.",
+    "Añejo is aged for at least 12 months and combines agave and oak.",
+    "El Añejo envejece al menos 12 meses y combina agave y roble."
+   ],
+   "d": [
+    "La Reposado si ferma tra 2 e 12 mesi. Blanco e Joven non sono invecchiate: la Joven può sembrare matura per il colore dorato, ma quel colore viene dal caramello, non dalla botte.",
+    "La Reposado s'arrête entre 2 et 12 mois. La Blanco et la Joven ne sont pas vieillies : la Joven peut sembler âgée à cause de sa couleur dorée, mais cette couleur vient du caramel, pas du fût.",
+    "Reposado stops at between 2 and 12 months. Blanco and Joven are unaged: Joven may look mature because of its golden colour, but that colour comes from caramel, not from a barrel.",
+    "El Reposado se queda entre 2 y 12 meses. El Blanco y el Joven no se envejecen: el Joven puede parecer maduro por su color dorado, pero ese color viene del caramelo, no de la barrica."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Da dove viene il colore dorato di una Tequila Joven (Oro)?",
+    "D'où vient la couleur dorée d'une Tequila Joven (Oro) ?",
+    "Where does the golden colour of a Joven (Oro) Tequila come from?",
+    "¿De dónde viene el color dorado de un Tequila Joven (Oro)?"
+   ],
+   "o": [
+    [
+     "Dal caramello aggiunto",
+     "Du caramel ajouté",
+     "Added caramel",
+     "Del caramelo añadido"
+    ],
+    [
+     "Da qualche mese in rovere",
+     "De quelques mois en chêne",
+     "A few months in oak",
+     "De unos meses en roble"
+    ],
+    [
+     "Da una varietà d'agave dorata",
+     "D'une variété d'agave dorée",
+     "A golden variety of agave",
+     "De una variedad de agave dorada"
+    ],
+    [
+     "Da una cottura più lunga",
+     "D'une cuisson plus longue",
+     "A longer cooking time",
+     "De una cocción más larga"
+    ]
+   ],
+   "e": [
+    "La Joven non è invecchiata: è colorata con caramello e ammorbidita con altri additivi.",
+    "La Joven n'est pas vieillie : elle est colorée au caramel et adoucie par d'autres additifs.",
+    "Joven is unaged: it is coloured with caramel and softened with other additives.",
+    "El Joven no se envejece: se colorea con caramelo y se suaviza con otros aditivos."
+   ],
+   "d": [
+    "È un tranello frequente: l'aspetto dorato fa pensare al legno, ma la Joven non passa in botte. La Tequila si fa solo con agave blu, non con varietà «dorate», e la cottura serve a creare zuccheri, non a colorare il distillato, che esce sempre incolore dall'alambicco.",
+    "C'est un piège classique : l'aspect doré fait penser au bois, mais la Joven ne passe pas en fût. La Tequila se fait uniquement avec de l'agave bleu, pas avec une variété « dorée », et la cuisson sert à créer des sucres, pas à colorer un spiritueux qui sort toujours incolore de l'alambic.",
+    "It is a classic trap: the golden look suggests wood, but Joven never goes into a barrel. Tequila is made only from blue agave, not a ‘golden’ variety, and cooking creates sugars rather than colour; the spirit always leaves the still colourless.",
+    "Es una trampa clásica: el aspecto dorado hace pensar en madera, pero el Joven no pasa por barrica. El Tequila se elabora solo con agave azul, no con una variedad «dorada», y la cocción sirve para crear azúcares, no para dar color a un destilado que siempre sale incoloro del alambique."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Quale affermazione sulla Tequila Reposado è corretta?",
+    "Quelle affirmation sur la Tequila Reposado est exacte ?",
+    "Which statement about Reposado Tequila is true?",
+    "¿Qué afirmación sobre el Tequila Reposado es correcta?"
+   ],
+   "o": [
+    [
+     "È più morbida, ma l'agave resta protagonista",
+     "Elle est plus souple, mais l'agave reste au premier plan",
+     "It is softer, but agave stays in the lead",
+     "Es más suave, pero el agave sigue mandando"
+    ],
+    [
+     "Il gusto del legno domina su quello dell'agave",
+     "Le goût du bois domine celui de l'agave",
+     "Oak flavours dominate the agave",
+     "El sabor de la madera domina sobre el agave"
+    ],
+    [
+     "È sempre prodotta con 100% agave",
+     "Elle est toujours produite à 100 % d'agave",
+     "It is always made from 100% agave",
+     "Siempre se elabora con 100% agave"
+    ],
+    [
+     "Passa almeno due anni in botte",
+     "Elle passe au moins deux ans en fût",
+     "It spends at least two years in barrel",
+     "Pasa al menos dos años en barrica"
+    ]
+   ],
+   "e": [
+    "Il breve passaggio in legno la ammorbidisce senza cancellare l'agave.",
+    "Le court passage en fût l'assouplit sans effacer l'agave.",
+    "Its short time in oak softens it without erasing the agave.",
+    "Su breve paso por madera lo suaviza sin borrar el agave."
+   ],
+   "d": [
+    "Tra 2 e 12 mesi il rovere raramente si impone, quindi l'agave resta intensa: due anni sarebbero ben oltre il limite. Una Reposado può essere «100% agave» o semplice «Tequila», come ogni altro stile.",
+    "Entre 2 et 12 mois, le chêne s'impose rarement : l'agave reste donc intense, et deux ans dépasseraient largement la limite. Une Reposado peut être « 100 % agave » ou simplement « Tequila », comme tout autre style.",
+    "With 2–12 months in oak, the wood rarely takes over, so the agave stays pronounced; two years would be well beyond the limit. A Reposado can be ‘100% agave’ or plain ‘Tequila’, like any other style.",
+    "Con 2 a 12 meses en roble, la madera rara vez se impone, así que el agave sigue intenso; dos años superarían con creces el límite. Un Reposado puede ser «100% agave» o simplemente «Tequila», como cualquier otro estilo."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Perché le Tequile invecchiate raramente restano molto a lungo in botte?",
+    "Pourquoi les Tequilas vieillies restent-elles rarement très longtemps en fût ?",
+    "Why are aged Tequilas rarely matured for very long?",
+    "¿Por qué los Tequilas envejecidos rara vez pasan mucho tiempo en barrica?"
+   ],
+   "o": [
+    [
+     "Per non coprire il carattere dell'agave con il legno",
+     "Pour ne pas masquer le caractère de l'agave sous le bois",
+     "To keep oak from masking the agave character",
+     "Para que la madera no tape el carácter del agave"
+    ],
+    [
+     "Perché la legge vieta più di un anno in botte",
+     "Parce que la loi interdit plus d'un an en fût",
+     "Because the law forbids more than a year in oak",
+     "Porque la ley prohíbe más de un año en barrica"
+    ],
+    [
+     "Perché l'agave rende la botte inutilizzabile",
+     "Parce que l'agave rend le fût inutilisable",
+     "Because agave ruins the barrels",
+     "Porque el agave estropea las barricas"
+    ],
+    [
+     "Perché il clima messicano fa evaporare tutto",
+     "Parce que le climat mexicain fait tout évaporer",
+     "Because the Mexican climate evaporates it all",
+     "Porque el clima mexicano lo evapora todo"
+    ]
+   ],
+   "e": [
+    "Il produttore cerca un equilibrio tra vaniglia e spezie del rovere e l'agave.",
+    "Le producteur cherche un équilibre entre la vanille et les épices du chêne et l'agave.",
+    "Producers want a balance between oak's vanilla and spice and the agave.",
+    "El productor busca un equilibrio entre la vainilla y las especias del roble y el agave."
+   ],
+   "d": [
+    "È una scelta di stile, non un divieto: la Añejo, per esempio, ha solo un minimo di 12 mesi e nessun massimo. Le altre due risposte non hanno fondamento: l'obiettivo è che il rovere accompagni l'agave senza dominarlo.",
+    "C'est un choix de style, pas une interdiction : l'Añejo, par exemple, n'a qu'un minimum de 12 mois et aucun maximum. Les deux autres réponses n'ont pas de fondement : le but est que le chêne accompagne l'agave sans le dominer.",
+    "It is a style choice, not a ban: Añejo, for example, has a 12-month minimum and no maximum. The other two answers have no basis: the aim is for oak to support the agave, not dominate it.",
+    "Es una elección de estilo, no una prohibición: el Añejo, por ejemplo, solo tiene un mínimo de 12 meses y ningún máximo. Las otras dos respuestas no tienen fundamento: el objetivo es que el roble acompañe al agave sin dominarlo."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Quale affermazione sulle etichette della Tequila è corretta?",
+    "Quelle affirmation sur les étiquettes de Tequila est exacte ?",
+    "Which statement about Tequila labels is true?",
+    "¿Qué afirmación sobre las etiquetas de Tequila es correcta?"
+   ],
+   "o": [
+    [
+     "Ogni stile può essere «Tequila» o «100% agave»",
+     "Chaque style peut être « Tequila » ou « 100 % agave »",
+     "Any style can be ‘Tequila’ or ‘100% agave’",
+     "Cualquier estilo puede ser «Tequila» o «100% agave»"
+    ],
+    [
+     "Solo la Añejo può essere «100% agave»",
+     "Seule l'Añejo peut être « 100 % agave »",
+     "Only Añejo can be ‘100% agave’",
+     "Solo el Añejo puede ser «100% agave»"
+    ],
+    [
+     "La Blanco deve essere sempre «100% agave»",
+     "La Blanco doit toujours être « 100 % agave »",
+     "Blanco must always be ‘100% agave’",
+     "El Blanco siempre debe ser «100% agave»"
+    ],
+    [
+     "Una «100% agave» deve essere invecchiata",
+     "Une « 100 % agave » doit être vieillie",
+     "A ‘100% agave’ Tequila must be aged",
+     "Un «100% agave» debe estar envejecido"
+    ]
+   ],
+   "e": [
+    "Origine degli zuccheri e invecchiamento sono due informazioni indipendenti.",
+    "L'origine des sucres et le vieillissement sont deux informations indépendantes.",
+    "Sugar source and ageing are two independent pieces of information.",
+    "El origen de los azúcares y el envejecimiento son dos datos independientes."
+   ],
+   "d": [
+    "Blanco, Joven, Reposado e Añejo possono tutte essere «100% agave» oppure semplice «Tequila». Le altre risposte legano per errore la dicitura sugli zuccheri a uno stile o all'invecchiamento, cosa che la legge non fa.",
+    "Blanco, Joven, Reposado et Añejo peuvent toutes être « 100 % agave » ou simplement « Tequila ». Les autres réponses lient à tort la mention sur les sucres à un style ou au vieillissement, ce que la loi ne fait pas.",
+    "Blanco, Joven, Reposado and Añejo can all be either ‘100% agave’ or plain ‘Tequila’. The other answers wrongly tie the sugar term to one style or to ageing, which the law does not do.",
+    "Blanco, Joven, Reposado y Añejo pueden ser todos «100% agave» o simplemente «Tequila». Las otras respuestas vinculan por error la mención sobre los azúcares a un estilo o al envejecimiento, cosa que la ley no hace."
+   ]
+  },
+  {
+   "c": "s6",
+   "q": [
+    "Qual è l'ordine corretto delle prime fasi di produzione della Tequila?",
+    "Quel est l'ordre correct des premières étapes de production de la Tequila ?",
+    "What is the correct order of the first steps in making Tequila?",
+    "¿Cuál es el orden correcto de las primeras etapas de elaboración del Tequila?"
+   ],
+   "o": [
+    [
+     "Tagliare le foglie, cuocere, schiacciare, fermentare",
+     "Couper les feuilles, cuire, broyer, fermenter",
+     "Cut the leaves, cook, crush, ferment",
+     "Cortar las hojas, cocer, triturar, fermentar"
+    ],
+    [
+     "Schiacciare, cuocere, tagliare le foglie, fermentare",
+     "Broyer, cuire, couper les feuilles, fermenter",
+     "Crush, cook, cut the leaves, ferment",
+     "Triturar, cocer, cortar las hojas, fermentar"
+    ],
+    [
+     "Tagliare le foglie, fermentare, cuocere, schiacciare",
+     "Couper les feuilles, fermenter, cuire, broyer",
+     "Cut the leaves, ferment, cook, crush",
+     "Cortar las hojas, fermentar, cocer, triturar"
+    ],
+    [
+     "Cuocere, fermentare, schiacciare, tagliare le foglie",
+     "Cuire, fermenter, broyer, couper les feuilles",
+     "Cook, ferment, crush, cut the leaves",
+     "Cocer, fermentar, triturar, cortar las hojas"
+    ]
+   ],
+   "e": [
+    "Si isola il cuore, lo si cuoce per creare zuccheri, lo si schiaccia per estrarre il succo e poi si fermenta.",
+    "On isole le cœur, on le cuit pour créer des sucres, on le broie pour extraire le jus, puis on fermente.",
+    "The core is freed, cooked to create sugars, crushed to release juice, then fermented.",
+    "Se separa el corazón, se cuece para crear azúcares, se tritura para sacar el jugo y luego se fermenta."
+   ],
+   "d": [
+    "La logica aiuta: la fermentazione ha bisogno di un liquido zuccherino, quindi gli zuccheri devono già esistere (cottura) ed essere estratti (schiacciatura). Un cuore crudo è troppo duro da schiacciare in modo utile, e fermentare prima di cuocere non avrebbe zuccheri su cui lavorare.",
+    "La logique aide : la fermentation a besoin d'un liquide sucré, donc les sucres doivent déjà exister (cuisson) et être extraits (broyage). Un cœur cru est trop dur pour être broyé utilement, et fermenter avant de cuire ne donnerait aucun sucre à transformer.",
+    "Logic helps: fermentation needs a sugary liquid, so the sugars must already exist (cooking) and be extracted (crushing). A raw core is too hard to crush usefully, and fermenting before cooking would leave no sugar to work on.",
+    "La lógica ayuda: la fermentación necesita un líquido azucarado, así que los azúcares deben existir ya (cocción) y estar extraídos (trituración). Un corazón crudo es demasiado duro para triturarlo con provecho, y fermentar antes de cocer no dejaría azúcares que transformar."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Da che cosa parte di solito un produttore di distillati aromatizzati?",
+    "De quoi part généralement un producteur de spiritueux aromatisés ?",
+    "What does a flavoured-spirit producer usually start from?",
+    "¿De qué parte normalmente un productor de destilados aromatizados?"
+   ],
+   "o": [
+    [
+     "Da uno spirito neutro acquistato",
+     "D'un alcool neutre acheté",
+     "A bought-in neutral spirit",
+     "De un destilado neutro comprado"
+    ],
+    [
+     "Da frutta raccolta e fermentata in casa",
+     "De fruits récoltés et fermentés sur place",
+     "Fruit harvested and fermented on site",
+     "De fruta cosechada y fermentada en casa"
+    ],
+    [
+     "Da un brandy invecchiato in rovere",
+     "D'un brandy vieilli en chêne",
+     "An oak-aged brandy",
+     "De un brandy envejecido en roble"
+    ],
+    [
+     "Da un mosto di cereali maltati",
+     "D'un moût de céréales maltées",
+     "A mash of malted grain",
+     "De un mosto de cereales malteados"
+    ]
+   ],
+   "e": [
+    "La maggior parte compra lo stesso spirito neutro che diventa vodka.",
+    "La plupart achètent le même alcool neutre qui devient de la vodka.",
+    "Most buy in the same neutral spirit that becomes vodka.",
+    "La mayoría compra el mismo destilado neutro que se convierte en vodka."
+   ],
+   "d": [
+    "Per questi distillati non serve partire da una materia prima: il lavoro sta nell'aromatizzazione. Rum, whisky o brandy vengono usati solo occasionalmente come base, e fermentare frutta o cereali in proprio non è la regola.",
+    "Pour ces spiritueux, inutile de partir d'une matière première : le travail se fait dans l'aromatisation. Le rhum, le whisky ou le brandy ne servent de base qu'occasionnellement, et faire fermenter soi-même fruits ou céréales n'est pas la règle.",
+    "These spirits do not need to start from a raw material: the work lies in the flavouring. Rum, whisky or brandy are only occasionally used as a base, and fermenting fruit or grain in-house is not the norm.",
+    "Para estos destilados no hace falta partir de una materia prima: el trabajo está en la aromatización. El ron, el whisky o el brandy solo se usan de vez en cuando como base, y fermentar fruta o cereales por cuenta propia no es lo habitual."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa si ottiene ridistillando uno spirito neutro con dei botanici?",
+    "Qu'obtient-on en redistillant un alcool neutre avec des botaniques ?",
+    "What do you get by redistilling neutral spirit with botanicals?",
+    "¿Qué se obtiene al redestilar un destilado neutro con botánicos?"
+   ],
+   "o": [
+    [
+     "Un distillato aromatizzato e incolore",
+     "Un spiritueux aromatisé et incolore",
+     "A flavoured, colourless spirit",
+     "Un destilado aromatizado e incoloro"
+    ],
+    [
+     "Un distillato aromatizzato e colorato",
+     "Un spiritueux aromatisé et coloré",
+     "A flavoured, coloured spirit",
+     "Un destilado aromatizado y coloreado"
+    ],
+    [
+     "Un distillato dolce e colorato",
+     "Un spiritueux sucré et coloré",
+     "A sweet, coloured spirit",
+     "Un destilado dulce y coloreado"
+    ],
+    [
+     "Uno spirito di nuovo neutro",
+     "Un alcool de nouveau neutre",
+     "A spirit that is neutral again",
+     "Un destilado de nuevo neutro"
+    ]
+   ],
+   "e": [
+    "Il vapore porta con sé i profumi ma non il colore dei botanici.",
+    "La vapeur emporte les arômes mais pas la couleur des botaniques.",
+    "The vapour carries the botanicals' aromas but not their colour.",
+    "El vapor arrastra los aromas de los botánicos, pero no su color."
+   ],
+   "d": [
+    "Tutto ciò che esce da un alambicco è incolore e secco, quindi né colore né dolcezza. Il colore arriva con la macerazione, la dolcezza con lo zucchero aggiunto. I profumi però passano: per questo il risultato non è affatto neutro.",
+    "Tout ce qui sort d'un alambic est incolore et sec : ni couleur ni douceur. La couleur vient avec la macération, la douceur avec le sucre ajouté. Les arômes, en revanche, passent : le résultat n'est donc pas du tout neutre.",
+    "Everything that leaves a still is colourless and dry, so there is no colour and no sweetness. Colour comes from maceration, sweetness from added sugar. The aromas do come through, though, so the result is far from neutral.",
+    "Todo lo que sale de un alambique es incoloro y seco: ni color ni dulzor. El color llega con la maceración y el dulzor con el azúcar añadido. Los aromas, en cambio, sí pasan: por eso el resultado no es en absoluto neutro."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cos'è la macerazione?",
+    "Qu'est-ce que la macération ?",
+    "What is maceration?",
+    "¿Qué es la maceración?"
+   ],
+   "o": [
+    [
+     "Lasciare i botanici in infusione nello spirito",
+     "Laisser infuser les botaniques dans l'alcool",
+     "Steeping botanicals in the spirit",
+     "Dejar los botánicos en infusión en el alcohol"
+    ],
+    [
+     "Distillare lo spirito insieme ai botanici",
+     "Distiller l'alcool avec les botaniques",
+     "Distilling the spirit with botanicals",
+     "Destilar el alcohol junto con los botánicos"
+    ],
+    [
+     "Aggiungere essenze concentrate",
+     "Ajouter des essences concentrées",
+     "Adding concentrated essences",
+     "Añadir esencias concentradas"
+    ],
+    [
+     "Invecchiare lo spirito in botti usate",
+     "Vieillir l'alcool dans des fûts usagés",
+     "Ageing the spirit in used barrels",
+     "Envejecer el alcohol en barricas usadas"
+    ]
+   ],
+   "e": [
+    "Nella macerazione i botanici restano immersi e cedono sapore e colore.",
+    "Dans la macération, les botaniques restent immergés et cèdent saveur et couleur.",
+    "In maceration the botanicals soak and release flavour and colour.",
+    "En la maceración los botánicos quedan sumergidos y ceden sabor y color."
+   ],
+   "d": [
+    "Distillare con i botanici è la ridistillazione, aggiungere essenze è il terzo metodo, quello degli aromi acquistati. Il passaggio in botte è invecchiamento: dà aromi di legno, non quelli di frutta, erbe e spezie.",
+    "Distiller avec les botaniques, c'est la redistillation ; ajouter des essences, c'est la troisième méthode, celle des arômes achetés. Le passage en fût est un vieillissement : il apporte des arômes de bois, pas ceux de fruits, d'herbes et d'épices.",
+    "Distilling with botanicals is redistillation, and adding essences is the third method, bought-in flavourings. Time in barrel is ageing: it gives oak aromas, not those of fruit, herbs and spices.",
+    "Destilar con botánicos es la redestilación, y añadir esencias es el tercer método, el de los aromas comprados. El paso por barrica es envejecimiento: da aromas de madera, no de fruta, hierbas y especias."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Un produttore vuole estrarre più sapore, più in fretta, durante la macerazione. Che cosa può fare?",
+    "Un producteur veut extraire plus de saveur, plus vite, pendant la macération. Que peut-il faire ?",
+    "A producer wants to extract more flavour, faster, during maceration. What can they do?",
+    "Un productor quiere extraer más sabor, más rápido, durante la maceración. ¿Qué puede hacer?"
+   ],
+   "o": [
+    [
+     "Riscaldare leggermente lo spirito",
+     "Chauffer légèrement l'alcool",
+     "Gently heat the spirit",
+     "Calentar ligeramente el alcohol"
+    ],
+    [
+     "Raffreddare lo spirito",
+     "Refroidir l'alcool",
+     "Chill the spirit",
+     "Enfriar el alcohol"
+    ],
+    [
+     "Aggiungere caramello",
+     "Ajouter du caramel",
+     "Add caramel",
+     "Añadir caramelo"
+    ],
+    [
+     "Filtrare su carbone",
+     "Filtrer au charbon",
+     "Filter it through charcoal",
+     "Filtrar con carbón"
+    ]
+   ],
+   "e": [
+    "Un leggero calore accelera l'estrazione del sapore.",
+    "Une légère chaleur accélère l'extraction de la saveur.",
+    "Gentle heat speeds up flavour extraction.",
+    "Un calor suave acelera la extracción del sabor."
+   ],
+   "d": [
+    "Come per un tè, il calore aiuta a estrarre: il freddo rallenta. Il caramello dà colore ma non sapore, e la filtrazione su carbone serve a togliere qualcosa (impurità o colore), non ad aggiungere aromi.",
+    "Comme pour un thé, la chaleur aide à extraire ; le froid ralentit. Le caramel apporte de la couleur mais pas de saveur, et la filtration au charbon sert à retirer quelque chose (impuretés ou couleur), pas à ajouter des arômes.",
+    "As with tea, heat helps extraction and cold slows it. Caramel adds colour but no flavour, and charcoal filtering removes things (impurities or colour) rather than adding aroma.",
+    "Como con el té, el calor ayuda a extraer y el frío frena. El caramelo da color pero no sabor, y el filtrado con carbón sirve para quitar algo (impurezas o color), no para añadir aromas."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Perché alcuni produttori usano aromi acquistati invece dei botanici?",
+    "Pourquoi certains producteurs utilisent-ils des arômes achetés plutôt que des botaniques ?",
+    "Why do some producers use bought-in flavourings instead of botanicals?",
+    "¿Por qué algunos productores usan aromas comprados en lugar de botánicos?"
+   ],
+   "o": [
+    [
+     "Soprattutto per ragioni di costo",
+     "Surtout pour des raisons de coût",
+     "Mostly for reasons of cost",
+     "Sobre todo por motivos de coste"
+    ],
+    [
+     "Perché la legge lo impone per il gin",
+     "Parce que la loi l'impose pour le gin",
+     "Because the law requires it for gin",
+     "Porque la ley lo exige para la ginebra"
+    ],
+    [
+     "Per dare colore al distillato",
+     "Pour donner de la couleur au spiritueux",
+     "To give the spirit colour",
+     "Para dar color al destilado"
+    ],
+    [
+     "Perché aumentano la gradazione",
+     "Parce qu'ils augmentent le degré",
+     "Because they raise the strength",
+     "Porque aumentan la graduación"
+    ]
+   ],
+   "e": [
+    "Gli aromi acquistati, molto concentrati, sono di solito una scelta economica.",
+    "Les arômes achetés, très concentrés, sont en général un choix économique.",
+    "Concentrated bought-in flavourings are usually a cost-driven choice.",
+    "Los aromas comprados, muy concentrados, suelen ser una elección económica."
+   ],
+   "d": [
+    "La legge non obbliga il gin a usarli: anzi, i gin migliori sono ridistillati con botanici veri. Gli aromi si usano in piccole dosi per il sapore, non per il colore, e non hanno nulla a che fare con la gradazione.",
+    "La loi n'oblige pas le gin à les utiliser : au contraire, les meilleurs gins sont redistillés avec de vraies botaniques. Les arômes s'utilisent en petites doses pour la saveur, pas pour la couleur, et n'ont rien à voir avec le degré.",
+    "The law does not make gin use them: in fact the best gins are redistilled with real botanicals. Flavourings are used in small doses for taste, not colour, and have nothing to do with strength.",
+    "La ley no obliga a la ginebra a usarlos: al contrario, las mejores ginebras se redestilan con botánicos de verdad. Los aromas se usan en pequeñas dosis por el sabor, no por el color, y no tienen nada que ver con la graduación."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa si intende per «botanici»?",
+    "Que désigne-t-on par « botaniques » ?",
+    "What are ‘botanicals’?",
+    "¿Qué se entiende por «botánicos»?"
+   ],
+   "o": [
+    [
+     "Frutta, semi, erbe e spezie usati per aromatizzare",
+     "Fruits, graines, herbes et épices servant à aromatiser",
+     "Fruits, seeds, herbs and spices used for flavour",
+     "Frutas, semillas, hierbas y especias para aromatizar"
+    ],
+    [
+     "Aromi artificiali molto concentrati",
+     "Des arômes artificiels très concentrés",
+     "Highly concentrated artificial flavours",
+     "Aromas artificiales muy concentrados"
+    ],
+    [
+     "I lieviti che avviano la fermentazione",
+     "Les levures qui lancent la fermentation",
+     "The yeasts that start fermentation",
+     "Las levaduras que inician la fermentación"
+    ],
+    [
+     "Le piante usate per fare le botti",
+     "Les plantes qui servent à faire les fûts",
+     "The plants used to make barrels",
+     "Las plantas con las que se hacen las barricas"
+    ]
+   ],
+   "e": [
+    "Sono gli ingredienti naturali che danno sapore ai distillati aromatizzati.",
+    "Ce sont les ingrédients naturels qui donnent leur saveur aux spiritueux aromatisés.",
+    "They are the natural ingredients that flavour flavoured spirits.",
+    "Son los ingredientes naturales que dan sabor a los destilados aromatizados."
+   ],
+   "d": [
+    "Gli aromi artificiali sono proprio l'alternativa ai botanici, non la stessa cosa. I lieviti trasformano lo zucchero in alcol e il rovere delle botti dà aromi di invecchiamento: nessuno dei due rientra nella definizione.",
+    "Les arômes artificiels sont justement l'alternative aux botaniques, pas la même chose. Les levures transforment le sucre en alcool et le chêne des fûts apporte des arômes de vieillissement : aucun des deux n'entre dans la définition.",
+    "Artificial flavours are the alternative to botanicals, not the same thing. Yeast turns sugar into alcohol and barrel oak gives ageing aromas: neither fits the definition.",
+    "Los aromas artificiales son precisamente la alternativa a los botánicos, no lo mismo. Las levaduras convierten el azúcar en alcohol y el roble de las barricas da aromas de envejecimiento: ninguno encaja en la definición."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Quale sapore deve dominare in un gin?",
+    "Quelle saveur doit dominer dans un gin ?",
+    "Which flavour must lead in a gin?",
+    "¿Qué sabor debe dominar en una ginebra?"
+   ],
+   "o": [
+    [
+     "Ginepro",
+     "Le genièvre",
+     "Juniper",
+     "Enebro"
+    ],
+    [
+     "Coriandolo",
+     "La coriandre",
+     "Coriander",
+     "Cilantro"
+    ],
+    [
+     "Scorza di limone",
+     "Le zeste de citron",
+     "Lemon peel",
+     "Piel de limón"
+    ],
+    [
+     "Genziana",
+     "La gentiane",
+     "Gentian",
+     "Genciana"
+    ]
+   ],
+   "e": [
+    "Per definizione il gin deve avere il ginepro come sapore predominante.",
+    "Par définition, le gin doit avoir le genièvre comme saveur dominante.",
+    "By definition, gin must have juniper as its main flavour.",
+    "Por definición, la ginebra debe tener el enebro como sabor predominante."
+   ],
+   "d": [
+    "Coriandolo e scorza di agrumi sono botanici frequenti nel gin, ma restano comprimari. La genziana è un classico botanico amaro, tipico dei distillati amari e dei vini aromatizzati, non il cuore del gin.",
+    "La coriandre et les zestes d'agrumes sont des botaniques fréquentes dans le gin, mais restent au second plan. La gentiane est une botanique amère classique, typique des spiritueux amers et des vins aromatisés, pas le cœur du gin.",
+    "Coriander and citrus peel are common gin botanicals, but they play supporting roles. Gentian is a classic bitter botanical, typical of bitter spirits and aromatised wines, not the heart of gin.",
+    "El cilantro y la piel de cítricos son botánicos habituales en la ginebra, pero tienen un papel secundario. La genciana es un botánico amargo clásico, típico de los destilados amargos y los vinos aromatizados, no el corazón de la ginebra."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa indica la dicitura «London Dry Gin»?",
+    "Qu'indique la mention « London Dry Gin » ?",
+    "What does the term ‘London Dry Gin’ tell you?",
+    "¿Qué indica la mención «London Dry Gin»?"
+   ],
+   "o": [
+    [
+     "Che gli aromi sono stati dati con la ridistillazione",
+     "Que les arômes ont été apportés par redistillation",
+     "The flavours were added by redistillation",
+     "Que los aromas se aportaron por redestilación"
+    ],
+    [
+     "Che il gin è stato prodotto a Londra",
+     "Que le gin a été produit à Londres",
+     "The gin was made in London",
+     "Que la ginebra se elaboró en Londres"
+    ],
+    [
+     "Che il gin è invecchiato in rovere",
+     "Que le gin a vieilli en chêne",
+     "The gin has been aged in oak",
+     "Que la ginebra ha envejecido en roble"
+    ],
+    [
+     "Che il gin non contiene ginepro",
+     "Que le gin ne contient pas de genièvre",
+     "The gin contains no juniper",
+     "Que la ginebra no contiene enebro"
+    ]
+   ],
+   "e": [
+    "È un'indicazione di metodo: aromi aggiunti durante la ridistillazione.",
+    "C'est une indication de méthode : arômes apportés pendant la redistillation.",
+    "It is a method term: flavours added during redistillation.",
+    "Es una indicación de método: aromas aportados durante la redestilación."
+   ],
+   "d": [
+    "Il nome trae in inganno, ma non è un luogo: si può produrre ovunque. Il gin tipico non è invecchiato, e un gin senza ginepro dominante non sarebbe un gin.",
+    "Le nom est trompeur, mais ce n'est pas un lieu : on peut le produire partout. Le gin typique n'est pas vieilli, et un gin sans genièvre dominant ne serait pas un gin.",
+    "The name is misleading, but it is not a place: it can be made anywhere. Typical gin is unaged, and a gin without leading juniper would not be gin at all.",
+    "El nombre engaña, pero no es un lugar: puede elaborarse en cualquier sitio. La ginebra típica no se envejece, y una ginebra sin enebro dominante no sería ginebra."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Quale gruppo elenca botanici tipici del gin oltre al ginepro?",
+    "Quel groupe cite des botaniques typiques du gin en plus du genièvre ?",
+    "Which group lists typical gin botanicals besides juniper?",
+    "¿Qué grupo enumera botánicos típicos de la ginebra además del enebro?"
+   ],
+   "o": [
+    [
+     "Coriandolo, angelica, iris, scorza di agrumi",
+     "Coriandre, angélique, iris, zestes d'agrumes",
+     "Coriander, angelica, orris, citrus peel",
+     "Cilantro, angélica, lirio, piel de cítricos"
+    ],
+    [
+     "Genziana, chinino, assenzio, arancia amara",
+     "Gentiane, quinine, absinthe, orange amère",
+     "Gentian, quinine, wormwood, bitter orange",
+     "Genciana, quinina, ajenjo, naranja amarga"
+    ],
+    [
+     "Vaniglia, cannella, chiodi di garofano, cocco",
+     "Vanille, cannelle, clou de girofle, coco",
+     "Vanilla, cinnamon, cloves, coconut",
+     "Vainilla, canela, clavo, coco"
+    ],
+    [
+     "Menta, lime, zucchero di canna, panna",
+     "Menthe, citron vert, sucre de canne, crème",
+     "Mint, lime, cane sugar, cream",
+     "Menta, lima, azúcar de caña, nata"
+    ]
+   ],
+   "e": [
+    "Semi di coriandolo, radice di angelica, radice di iris e scorza di agrumi sono botanici classici del gin.",
+    "Graines de coriandre, racine d'angélique, racine d'iris et zestes d'agrumes sont des botaniques classiques du gin.",
+    "Coriander seed, angelica root, orris root and citrus peel are classic gin botanicals.",
+    "Semillas de cilantro, raíz de angélica, raíz de lirio y piel de cítricos son botánicos clásicos de la ginebra."
+   ],
+   "d": [
+    "Il secondo gruppo riunisce botanici amari, tipici di amari e vini aromatizzati. Vaniglia, cannella, chiodi di garofano e cocco ricordano gli aromi dati dal rovere. Il quarto gruppo somiglia agli ingredienti di un cocktail o di un liquore cremoso.",
+    "Le deuxième groupe réunit des botaniques amères, typiques des amers et des vins aromatisés. Vanille, cannelle, clou de girofle et coco rappellent les arômes apportés par le chêne. Le quatrième groupe ressemble aux ingrédients d'un cocktail ou d'une liqueur à la crème.",
+    "The second group is made of bitter botanicals, typical of bitter spirits and aromatised wines. Vanilla, cinnamon, cloves and coconut recall the aromas oak gives. The fourth group looks like cocktail ingredients or a cream liqueur.",
+    "El segundo grupo reúne botánicos amargos, típicos de los amargos y los vinos aromatizados. Vainilla, canela, clavo y coco recuerdan a los aromas que da el roble. El cuarto grupo parece una lista de ingredientes de cóctel o de licor de nata."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Come si presenta, di solito, un gin?",
+    "Comment se présente généralement un gin ?",
+    "What is a typical gin like?",
+    "¿Cómo suele ser una ginebra?"
+   ],
+   "o": [
+    [
+     "Incolore e non invecchiato",
+     "Incolore et non vieilli",
+     "Colourless and unaged",
+     "Incolora y sin envejecer"
+    ],
+    [
+     "Dorato e invecchiato in rovere",
+     "Doré et vieilli en chêne",
+     "Golden and oak-aged",
+     "Dorada y envejecida en roble"
+    ],
+    [
+     "Incolore e zuccherato",
+     "Incolore et sucré",
+     "Colourless and sweetened",
+     "Incolora y azucarada"
+    ],
+    [
+     "Ambrato e colorato con caramello",
+     "Ambré et coloré au caramel",
+     "Amber and coloured with caramel",
+     "Ámbar y coloreada con caramelo"
+    ]
+   ],
+   "e": [
+    "Il gin tipico non passa in legno e resta trasparente.",
+    "Le gin typique ne passe pas en fût et reste limpide.",
+    "Typical gin sees no oak and stays clear.",
+    "La ginebra típica no pasa por madera y se mantiene transparente."
+   ],
+   "d": [
+    "Il colore dorato o ambrato farebbe pensare a botte o caramello, che non fanno parte del gin tipico. Un gin incolore ma zuccherato sarebbe più vicino a un liquore: la dolcezza non è una caratteristica del gin.",
+    "Une couleur dorée ou ambrée ferait penser au fût ou au caramel, qui ne font pas partie du gin typique. Un gin incolore mais sucré serait plus proche d'une liqueur : la douceur n'est pas une caractéristique du gin.",
+    "A golden or amber colour would suggest oak or caramel, neither of which belongs to typical gin. A colourless but sweetened gin would be closer to a liqueur: sweetness is not a feature of gin.",
+    "Un color dorado o ámbar haría pensar en barrica o caramelo, que no forman parte de la ginebra típica. Una ginebra incolora pero azucarada se acercaría más a un licor: el dulzor no es un rasgo de la ginebra."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Come si producono di solito le vodke aromatizzate?",
+    "Comment produit-on généralement les vodkas aromatisées ?",
+    "How are flavoured vodkas usually made?",
+    "¿Cómo se elaboran normalmente los vodkas aromatizados?"
+   ],
+   "o": [
+    [
+     "Vodka neutra più aromi acquistati",
+     "Vodka neutre et arômes achetés",
+     "Neutral vodka plus bought-in flavourings",
+     "Vodka neutro más aromas comprados"
+    ],
+    [
+     "Macerazione lunga in botti di rovere",
+     "Longue macération en fûts de chêne",
+     "Long maceration in oak barrels",
+     "Maceración larga en barricas de roble"
+    ],
+    [
+     "Distillazione diretta della frutta",
+     "Distillation directe des fruits",
+     "Distilling the fruit directly",
+     "Destilación directa de la fruta"
+    ],
+    [
+     "Aggiunta di zucchero e caramello",
+     "Ajout de sucre et de caramel",
+     "Adding sugar and caramel",
+     "Añadiendo azúcar y caramelo"
+    ]
+   ],
+   "e": [
+    "Quasi sempre si aggiungono aromi acquistati a una vodka neutra; qualcuno ridistilla.",
+    "Le plus souvent, on ajoute des arômes achetés à une vodka neutre ; certains redistillent.",
+    "Most add bought-in flavourings to neutral vodka; some redistil.",
+    "Casi siempre se añaden aromas comprados a un vodka neutro; algunos redestilan."
+   ],
+   "d": [
+    "La base è la stessa vodka neutra, non un distillato di frutta. Il rovere non c'entra, e zucchero e caramello porterebbero verso un liquore colorato, non verso una vodka aromatizzata.",
+    "La base est la même vodka neutre, pas une eau-de-vie de fruits. Le chêne n'a rien à voir, et le sucre et le caramel mèneraient vers une liqueur colorée, pas vers une vodka aromatisée.",
+    "The base is the same neutral vodka, not a fruit spirit. Oak plays no part, and sugar plus caramel would lead to a coloured liqueur, not a flavoured vodka.",
+    "La base es el mismo vodka neutro, no un destilado de fruta. El roble no interviene, y el azúcar y el caramelo llevarían a un licor coloreado, no a un vodka aromatizado."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa hanno in comune tutti i distillati amari?",
+    "Qu'ont en commun tous les spiritueux amers ?",
+    "What do all bitter spirits have in common?",
+    "¿Qué tienen en común todos los destilados amargos?"
+   ],
+   "o": [
+    [
+     "Almeno un botanico amaro, come la genziana",
+     "Au moins une botanique amère, comme la gentiane",
+     "At least one bitter botanical, such as gentian",
+     "Al menos un botánico amargo, como la genciana"
+    ],
+    [
+     "Un invecchiamento minimo in rovere",
+     "Un vieillissement minimal en chêne",
+     "A minimum time in oak",
+     "Un envejecimiento mínimo en roble"
+    ],
+    [
+     "Una base di rum scuro",
+     "Une base de rhum brun",
+     "A dark rum base",
+     "Una base de ron oscuro"
+    ],
+    [
+     "Un livello minimo di zucchero per legge",
+     "Un niveau minimal de sucre fixé par la loi",
+     "A legal minimum sugar level",
+     "Un nivel mínimo de azúcar por ley"
+    ]
+   ],
+   "e": [
+    "Genziana, chinino o arancia amara danno l'amaro a questi distillati.",
+    "Gentiane, quinine ou orange amère donnent leur amertume à ces spiritueux.",
+    "Gentian, quinine or bitter orange provide the bitterness.",
+    "La genciana, la quinina o la naranja amarga aportan el amargor."
+   ],
+   "d": [
+    "Non serve alcun passaggio in legno né una base di rum. La dolcezza minima per legge è la regola dei liquori, non dei distillati amari.",
+    "Aucun passage en fût ni aucune base de rhum ne sont nécessaires. La douceur minimale imposée par la loi est la règle des liqueurs, pas des spiritueux amers.",
+    "No oak or rum base is needed. The legal minimum sweetness is the rule for liqueurs, not for bitter spirits.",
+    "No hace falta paso por madera ni base de ron. El dulzor mínimo por ley es la regla de los licores, no de los destilados amargos."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Durante una degustazione, dove si percepisce l'amaro di un distillato amaro?",
+    "Lors d'une dégustation, où perçoit-on l'amertume d'un spiritueux amer ?",
+    "When tasting a bitter spirit, where is the bitterness detected?",
+    "En una cata, ¿dónde se percibe el amargor de un destilado amargo?"
+   ],
+   "o": [
+    [
+     "Solo in bocca",
+     "Seulement en bouche",
+     "Only on the palate",
+     "Solo en boca"
+    ],
+    [
+     "Solo al naso",
+     "Seulement au nez",
+     "Only on the nose",
+     "Solo en nariz"
+    ],
+    [
+     "Sia al naso sia in bocca",
+     "Au nez comme en bouche",
+     "On both nose and palate",
+     "Tanto en nariz como en boca"
+    ],
+    [
+     "Già dal colore",
+     "Dès la couleur",
+     "Already from the colour",
+     "Ya por el color"
+    ]
+   ],
+   "e": [
+    "L'amaro è un gusto: si sente in bocca, non con l'olfatto.",
+    "L'amertume est une saveur : on la perçoit en bouche, pas à l'odorat.",
+    "Bitterness is a taste: it is felt in the mouth, not smelled.",
+    "El amargor es un sabor: se nota en boca, no con el olfato."
+   ],
+   "d": [
+    "Al naso si colgono i profumi dei botanici, amari e non, ma non l'amarezza in sé. Il colore non rivela il gusto: un distillato amaro può essere colorato come qualsiasi altro.",
+    "Au nez, on perçoit les arômes des botaniques, amères ou non, mais pas l'amertume elle-même. La couleur ne révèle pas le goût : un spiritueux amer peut être coloré comme n'importe quel autre.",
+    "On the nose you pick up the aromas of the botanicals, bitter or not, but not the bitterness itself. Colour reveals nothing about taste: a bitter spirit can be coloured like any other.",
+    "En nariz se captan los aromas de los botánicos, amargos o no, pero no el amargor en sí. El color no revela el sabor: un destilado amargo puede tener color como cualquier otro."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Un barman vuole aggiungere complessità a un cocktail usandone solo poche gocce. Che cosa prende?",
+    "Pour ajouter de la complexité à un cocktail avec seulement quelques gouttes, que choisir derrière le bar ?",
+    "A bartender wants to add complexity to a drink with just a few drops. What do they reach for?",
+    "Un bartender quiere añadir complejidad a un cóctel con solo unas gotas. ¿Qué usa?"
+   ],
+   "o": [
+    [
+     "Un bitter da cocktail",
+     "Un bitter à cocktail",
+     "Cocktail bitters",
+     "Un bitter de cóctel"
+    ],
+    [
+     "Un liquore alla panna",
+     "Une liqueur à la crème",
+     "A cream liqueur",
+     "Un licor de nata"
+    ],
+    [
+     "Un rum speziato",
+     "Un rhum épicé",
+     "A spiced rum",
+     "Un ron especiado"
+    ],
+    [
+     "Un gin London Dry",
+     "Un London Dry Gin",
+     "A London Dry Gin",
+     "Una ginebra London Dry"
+    ]
+   ],
+   "e": [
+    "I bitter da cocktail sono così concentrati che bastano poche spruzzate.",
+    "Les bitters à cocktail sont si concentrés que quelques traits suffisent.",
+    "Cocktail bitters are so concentrated that a few dashes are enough.",
+    "Los bitters de cóctel están tan concentrados que bastan unos golpes."
+   ],
+   "d": [
+    "Liquore alla panna, rum speziato e gin si usano in quantità normali e possono anche essere bevuti da soli. I bitter da cocktail invece non si bevono mai lisci: servono solo a dare profondità a un drink.",
+    "La liqueur à la crème, le rhum épicé et le gin s'utilisent en quantités normales et peuvent aussi se boire seuls. Les bitters à cocktail, eux, ne se boivent jamais purs : ils servent seulement à donner de la profondeur à une boisson.",
+    "Cream liqueur, spiced rum and gin are used in normal measures and can be drunk on their own. Cocktail bitters are never drunk neat: they are there only to add depth to a drink.",
+    "El licor de nata, el ron especiado y la ginebra se usan en cantidades normales y pueden tomarse solos. Los bitters de cóctel nunca se toman solos: solo sirven para dar profundidad a una bebida."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Quando si bevevano tradizionalmente i distillati amari?",
+    "Quand buvait-on traditionnellement les spiritueux amers ?",
+    "When were bitter spirits traditionally drunk?",
+    "¿Cuándo se tomaban tradicionalmente los destilados amargos?"
+   ],
+   "o": [
+    [
+     "A inizio o a fine pasto",
+     "En début ou en fin de repas",
+     "At the start or end of a meal",
+     "Al principio o al final de una comida"
+    ],
+    [
+     "Solo durante la colazione",
+     "Seulement au petit-déjeuner",
+     "Only with breakfast",
+     "Solo en el desayuno"
+    ],
+    [
+     "Solo come ingrediente di cucina",
+     "Seulement comme ingrédient de cuisine",
+     "Only as a cooking ingredient",
+     "Solo como ingrediente de cocina"
+    ],
+    [
+     "Solo diluiti in acqua calda",
+     "Seulement dilués dans de l'eau chaude",
+     "Only diluted in hot water",
+     "Solo diluidos en agua caliente"
+    ]
+   ],
+   "e": [
+    "Tradizionalmente accompagnavano l'inizio o la fine del pasto; oggi si usano soprattutto nei cocktail.",
+    "Traditionnellement, on les buvait en début ou en fin de repas ; aujourd'hui, ils servent surtout en cocktail.",
+    "Traditionally they opened or closed a meal; today they are mostly used in cocktails.",
+    "Tradicionalmente abrían o cerraban una comida; hoy se usan sobre todo en cócteles."
+   ],
+   "d": [
+    "Il loro posto classico era attorno al pasto, come aperitivo o digestivo. Le altre risposte descrivono abitudini inventate: oggi il loro uso principale è nella miscelazione.",
+    "Leur place classique était autour du repas, en apéritif ou en digestif. Les autres réponses décrivent des habitudes inventées : aujourd'hui, leur principal usage est la mixologie.",
+    "Their classic place was around a meal, as an aperitif or digestif. The other answers describe invented habits: today their main use is in mixing.",
+    "Su lugar clásico era alrededor de la comida, como aperitivo o digestivo. Las otras respuestas describen costumbres inventadas: hoy su uso principal es en coctelería."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Quale affermazione sul rum speziato è corretta?",
+    "Quelle affirmation sur le rhum épicé est exacte ?",
+    "Which statement about spiced rum is true?",
+    "¿Qué afirmación sobre el ron especiado es correcta?"
+   ],
+   "o": [
+    [
+     "Spesso parte da un rum leggero non invecchiato",
+     "Il part souvent d'un rhum léger non vieilli",
+     "It often starts from a light, unaged rum",
+     "A menudo parte de un ron ligero sin envejecer"
+    ],
+    [
+     "Deve sempre partire da un rum invecchiato",
+     "Il doit toujours partir d'un rhum vieilli",
+     "It must always start from an aged rum",
+     "Siempre debe partir de un ron envejecido"
+    ],
+    [
+     "Può essere aromatizzato solo con botanici",
+     "Il ne peut être aromatisé qu'avec des botaniques",
+     "It may only be flavoured with botanicals",
+     "Solo puede aromatizarse con botánicos"
+    ],
+    [
+     "Il suo colore viene sempre dal rovere",
+     "Sa couleur vient toujours du chêne",
+     "Its colour always comes from oak",
+     "Su color siempre viene del roble"
+    ]
+   ],
+   "e": [
+    "Molti rum speziati usano un rum leggero non invecchiato, aromatizzato e colorato con caramello.",
+    "Beaucoup de rhums épicés utilisent un rhum léger non vieilli, aromatisé et coloré au caramel.",
+    "Many spiced rums use a light unaged rum, flavoured and coloured with caramel.",
+    "Muchos rones especiados usan un ron ligero sin envejecer, aromatizado y coloreado con caramelo."
+   ],
+   "d": [
+    "Solo pochi rum speziati partono da un rum invecchiato in rovere. Si usano sia botanici sia altri aromi, e il colore spesso viene dal caramello: un aspetto ambrato non prova un lungo invecchiamento.",
+    "Seuls quelques rhums épicés partent d'un rhum vieilli en chêne. On utilise à la fois des botaniques et d'autres arômes, et la couleur vient souvent du caramel : un aspect ambré ne prouve pas un long vieillissement.",
+    "Only a handful of spiced rums start from an oak-aged rum. Both botanicals and other flavourings are used, and the colour often comes from caramel: an amber look does not prove long ageing.",
+    "Solo unos pocos rones especiados parten de un ron envejecido en roble. Se usan tanto botánicos como otros aromas, y el color suele venir del caramelo: un aspecto ámbar no demuestra un envejecimiento largo."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa distingue un liquore da un semplice distillato aromatizzato?",
+    "Qu'est-ce qui distingue une liqueur d'un simple spiritueux aromatisé ?",
+    "What sets a liqueur apart from a plain flavoured spirit?",
+    "¿Qué distingue un licor de un simple destilado aromatizado?"
+   ],
+   "o": [
+    [
+     "È stato anche zuccherato",
+     "Elle a aussi été sucrée",
+     "It has also been sweetened",
+     "También se ha endulzado"
+    ],
+    [
+     "È stato invecchiato in rovere",
+     "Elle a vieilli en chêne",
+     "It has been aged in oak",
+     "Ha envejecido en roble"
+    ],
+    [
+     "Contiene sempre panna",
+     "Elle contient toujours de la crème",
+     "It always contains cream",
+     "Siempre contiene nata"
+    ],
+    [
+     "Ha una gradazione più alta",
+     "Elle a un degré plus élevé",
+     "It has a higher strength",
+     "Tiene una graduación más alta"
+    ]
+   ],
+   "e": [
+    "Liquore = distillato aromatizzato più zucchero.",
+    "Liqueur = spiritueux aromatisé plus sucre.",
+    "Liqueur = flavoured spirit plus sugar.",
+    "Licor = destilado aromatizado más azúcar."
+   ],
+   "d": [
+    "L'invecchiamento non fa parte della definizione. La panna compare solo in alcuni liquori, non in tutti. E non c'è nessuna regola che imponga una gradazione più alta: ciò che conta è la dolcezza.",
+    "Le vieillissement ne fait pas partie de la définition. La crème n'apparaît que dans certaines liqueurs, pas dans toutes. Et aucune règle n'impose un degré plus élevé : ce qui compte, c'est la douceur.",
+    "Ageing is not part of the definition. Cream appears only in some liqueurs, not all. And no rule demands a higher strength: what matters is the sweetness.",
+    "El envejecimiento no forma parte de la definición. La nata solo aparece en algunos licores, no en todos. Y ninguna regla exige una graduación más alta: lo que cuenta es el dulzor."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Che cosa stabilisce la legge sullo zucchero nei liquori?",
+    "Que prévoit la loi sur le sucre dans les liqueurs ?",
+    "What does the law say about sugar in liqueurs?",
+    "¿Qué establece la ley sobre el azúcar en los licores?"
+   ],
+   "o": [
+    [
+     "Che ci sia un livello minimo di dolcezza",
+     "Un niveau minimal de douceur",
+     "There must be a minimum level of sweetness",
+     "Que haya un nivel mínimo de dulzor"
+    ],
+    [
+     "Che lo zucchero sia vietato",
+     "Que le sucre soit interdit",
+     "Sugar is not allowed",
+     "Que el azúcar esté prohibido"
+    ],
+    [
+     "Che lo zucchero sia facoltativo",
+     "Que le sucre soit facultatif",
+     "Sugar is optional",
+     "Que el azúcar sea opcional"
+    ],
+    [
+     "Che lo zucchero venga solo dalla frutta",
+     "Que le sucre vienne uniquement des fruits",
+     "Sugar may only come from fruit",
+     "Que el azúcar solo proceda de la fruta"
+    ]
+   ],
+   "e": [
+    "Per chiamarsi liquore, un distillato deve raggiungere una dolcezza minima.",
+    "Pour s'appeler liqueur, un spiritueux doit atteindre une douceur minimale.",
+    "To be called a liqueur, a spirit must reach a minimum sweetness.",
+    "Para llamarse licor, un destilado debe alcanzar un dulzor mínimo."
+   ],
+   "d": [
+    "Lo zucchero non solo è ammesso, è obbligatorio, quindi non può essere vietato né facoltativo. Si aggiunge dopo l'aromatizzazione e non deve per forza venire dalla frutta.",
+    "Le sucre n'est pas seulement permis, il est obligatoire : il ne peut donc être ni interdit ni facultatif. On l'ajoute après l'aromatisation, et il ne doit pas forcément venir des fruits.",
+    "Sugar is not just allowed but required, so it cannot be banned or optional. It is added after flavouring and does not have to come from fruit.",
+    "El azúcar no solo está permitido, es obligatorio, así que no puede estar prohibido ni ser opcional. Se añade después de aromatizar y no tiene por qué proceder de la fruta."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Quale ingrediente, insolito per un distillato, si trova in alcuni liquori?",
+    "Quel ingrédient, inhabituel pour un spiritueux, trouve-t-on dans certaines liqueurs ?",
+    "Which ingredient, unusual for a spirit, is found in some liqueurs?",
+    "¿Qué ingrediente, poco habitual en un destilado, se encuentra en algunos licores?"
+   ],
+   "o": [
+    [
+     "La panna",
+     "La crème",
+     "Cream",
+     "La nata"
+    ],
+    [
+     "Il lievito",
+     "La levure",
+     "Yeast",
+     "La levadura"
+    ],
+    [
+     "Il vino rosso",
+     "Le vin rouge",
+     "Red wine",
+     "El vino tinto"
+    ],
+    [
+     "L'acqua di mare",
+     "L'eau de mer",
+     "Sea water",
+     "El agua de mar"
+    ]
+   ],
+   "e": [
+    "Alcuni liquori contengono panna, un ingrediente notevole in questa categoria.",
+    "Certaines liqueurs contiennent de la crème, un ingrédient remarquable dans cette catégorie.",
+    "Some liqueurs contain cream, a notable ingredient in this category.",
+    "Algunos licores contienen nata, un ingrediente notable en esta categoría."
+   ],
+   "d": [
+    "Il lievito serve alla fermentazione, prima della distillazione, e non si aggiunge a un liquore. Il vino come base è tipico dei vini aromatizzati, che sono un'altra categoria. L'acqua di mare non ha alcun ruolo.",
+    "La levure sert à la fermentation, avant la distillation, et ne s'ajoute pas à une liqueur. Le vin comme base est typique des vins aromatisés, une autre catégorie. L'eau de mer ne joue aucun rôle.",
+    "Yeast is for fermentation, before distillation, and is not added to a liqueur. Wine as a base belongs to aromatised wines, a different category. Sea water plays no part.",
+    "La levadura sirve para fermentar, antes de destilar, y no se añade a un licor. El vino como base es propio de los vinos aromatizados, otra categoría. El agua de mar no tiene ningún papel."
+   ]
+  },
+  {
+   "c": "s7",
+   "q": [
+    "Perché molti liquori usano coloranti artificiali?",
+    "Pourquoi beaucoup de liqueurs utilisent-elles des colorants artificiels ?",
+    "Why do many liqueurs use artificial colourings?",
+    "¿Por qué muchos licores usan colorantes artificiales?"
+   ],
+   "o": [
+    [
+     "Il colore naturale sbiadisce in fretta",
+     "La couleur naturelle pâlit vite",
+     "Natural colour fades quickly",
+     "El color natural se apaga pronto"
+    ],
+    [
+     "Rendono il liquore più dolce",
+     "Ils rendent la liqueur plus sucrée",
+     "They make the liqueur sweeter",
+     "Hacen el licor más dulce"
+    ],
+    [
+     "La legge vieta i coloranti naturali",
+     "La loi interdit les colorants naturels",
+     "The law bans natural colours",
+     "La ley prohíbe los colorantes naturales"
+    ],
+    [
+     "Aggiungono profumi di frutta",
+     "Ils ajoutent des arômes de fruits",
+     "They add fruity aromas",
+     "Añaden aromas de fruta"
+    ]
+   ],
+   "e": [
+    "I coloranti artificiali mantengono il colore stabile e offrono più tinte.",
+    "Les colorants artificiels gardent une couleur stable et offrent plus de teintes.",
+    "Artificial colours keep the colour stable and offer more shades.",
+    "Los colorantes artificiales mantienen el color estable y ofrecen más tonos."
+   ],
+   "d": [
+    "Il colore naturale da macerazione è ammesso, ma tende a perdere vivacità: per questo si preferiscono coloranti più stabili, che permettono anche colori molto accesi. I coloranti non danno dolcezza né aromi: quelli arrivano da zucchero e aromatizzazione.",
+    "La couleur naturelle issue de la macération est permise, mais elle perd vite de son éclat : on préfère donc des colorants plus stables, qui permettent aussi des couleurs très vives. Les colorants n'apportent ni douceur ni arômes : ceux-ci viennent du sucre et de l'aromatisation.",
+    "Natural colour from maceration is allowed, but it loses its brightness: so more stable colourings are preferred, which also allow very vivid shades. Colourings add neither sweetness nor aroma; those come from sugar and flavouring.",
+    "El color natural de la maceración está permitido, pero pierde viveza: por eso se prefieren colorantes más estables, que además permiten colores muy llamativos. Los colorantes no aportan dulzor ni aromas: eso viene del azúcar y de la aromatización."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Che cos'è un vino aromatizzato?",
+    "Qu'est-ce qu'un vin aromatisé ?",
+    "What is an aromatised wine?",
+    "¿Qué es un vino aromatizado?"
+   ],
+   "o": [
+    [
+     "Un vino con aromi, zucchero e un po' di distillato",
+     "Un vin additionné d'arômes, de sucre et d'un peu de spiritueux",
+     "A wine with flavourings, sugar and a little spirit",
+     "Un vino con aromas, azúcar y un poco de destilado"
+    ],
+    [
+     "Un distillato di vino invecchiato in rovere",
+     "Une eau-de-vie de vin vieillie en chêne",
+     "A wine spirit aged in oak",
+     "Un destilado de vino envejecido en roble"
+    ],
+    [
+     "Un liquore a base di spirito neutro",
+     "Une liqueur à base d'alcool neutre",
+     "A liqueur based on neutral spirit",
+     "Un licor a base de destilado neutro"
+    ],
+    [
+     "Un vino lasciato ossidare in botte",
+     "Un vin qu'on laisse s'oxyder en fût",
+     "A wine left to oxidise in barrel",
+     "Un vino que se deja oxidar en barrica"
+    ]
+   ],
+   "e": [
+    "È un prodotto a base di vino, non un distillato, con aromi, zucchero e un po' di spirito.",
+    "C'est un produit à base de vin, pas un spiritueux, avec arômes, sucre et un peu d'alcool.",
+    "It is wine-based, not a spirit, with flavourings, sugar and a little spirit added.",
+    "Es un producto a base de vino, no un destilado, con aromas, azúcar y algo de destilado."
+   ],
+   "d": [
+    "Un distillato di vino invecchiato è un brandy, come il Cognac. Un liquore parte da un distillato, non da un vino. L'ossidazione in botte non fa parte della definizione: ciò che conta sono gli aromi, tra cui sempre un elemento amaro.",
+    "Une eau-de-vie de vin vieillie est un brandy, comme le Cognac. Une liqueur part d'un spiritueux, pas d'un vin. L'oxydation en fût ne fait pas partie de la définition : ce qui compte, ce sont les arômes, dont toujours un élément amer.",
+    "An aged wine spirit is a brandy, such as Cognac. A liqueur starts from a spirit, not a wine. Oxidation in barrel is not part of the definition: what counts is the flavourings, always including something bitter.",
+    "Un destilado de vino envejecido es un brandy, como el Coñac. Un licor parte de un destilado, no de un vino. La oxidación en barrica no forma parte de la definición: lo que cuenta son los aromas, que siempre incluyen algo amargo."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Quale elenco riporta i quattro componenti di ogni vino aromatizzato?",
+    "Quelle liste donne les quatre composants de tout vin aromatisé ?",
+    "Which list gives the four components of every aromatised wine?",
+    "¿Qué lista recoge los cuatro componentes de todo vino aromatizado?"
+   ],
+   "o": [
+    [
+     "Vino, aromi con un amaro, zucchero, distillato",
+     "Vin, arômes avec un amer, sucre, spiritueux",
+     "Wine, flavourings incl. a bitter, sugar, spirit",
+     "Vino, aromas con un amargo, azúcar, destilado"
+    ],
+    [
+     "Vino, aromi, caramello, acqua gassata",
+     "Vin, arômes, caramel, eau gazeuse",
+     "Wine, flavourings, caramel, soda water",
+     "Vino, aromas, caramelo, agua con gas"
+    ],
+    [
+     "Distillato, zucchero, panna, coloranti",
+     "Spiritueux, sucre, crème, colorants",
+     "Spirit, sugar, cream, colourings",
+     "Destilado, azúcar, nata, colorantes"
+    ],
+    [
+     "Vino, succo di frutta, zucchero, lievito",
+     "Vin, jus de fruits, sucre, levure",
+     "Wine, fruit juice, sugar, yeast",
+     "Vino, zumo de fruta, azúcar, levadura"
+    ]
+   ],
+   "e": [
+    "Vino di base, aromi (sempre con qualcosa di amaro), zucchero e un po' di distillato.",
+    "Vin de base, arômes (toujours avec un élément amer), sucre et un peu de spiritueux.",
+    "Base wine, flavourings (always with something bitter), sugar and a little spirit.",
+    "Vino base, aromas (siempre con algo amargo), azúcar y un poco de destilado."
+   ],
+   "d": [
+    "Il caramello è solo facoltativo e l'acqua gassata non c'entra. Distillato, panna e coloranti descrivono piuttosto un liquore cremoso. Succo e lievito non fanno parte della ricetta, mentre manca il distillato, che è obbligatorio.",
+    "Le caramel n'est que facultatif et l'eau gazeuse n'a rien à faire là. Spiritueux, crème et colorants décrivent plutôt une liqueur à la crème. Le jus et la levure ne font pas partie de la recette, et il manque le spiritueux, qui est obligatoire.",
+    "Caramel is only optional and soda water does not belong. Spirit, cream and colourings describe a cream liqueur instead. Juice and yeast are not part of the recipe, and that list leaves out the spirit, which is required.",
+    "El caramelo es solo opcional y el agua con gas no pinta nada. Destilado, nata y colorantes describen más bien un licor de nata. El zumo y la levadura no forman parte de la receta, y en esa lista falta el destilado, que es obligatorio."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Perché a un vino aromatizzato si aggiunge un po' di distillato?",
+    "Pourquoi ajoute-t-on un peu de spiritueux à un vin aromatisé ?",
+    "Why is a little spirit added to an aromatised wine?",
+    "¿Por qué se añade un poco de destilado a un vino aromatizado?"
+   ],
+   "o": [
+    [
+     "Per alzare la gradazione e conservarlo più a lungo",
+     "Pour relever le degré et le conserver plus longtemps",
+     "To raise the alcohol and make it keep longer",
+     "Para subir la graduación y que se conserve más"
+    ],
+    [
+     "Per dargli un colore più scuro",
+     "Pour lui donner une couleur plus foncée",
+     "To give it a darker colour",
+     "Para darle un color más oscuro"
+    ],
+    [
+     "Per renderlo più dolce",
+     "Pour le rendre plus sucré",
+     "To make it sweeter",
+     "Para hacerlo más dulce"
+    ],
+    [
+     "Per aggiungere note di rovere",
+     "Pour ajouter des notes de chêne",
+     "To add oak notes",
+     "Para añadir notas de roble"
+    ]
+   ],
+   "e": [
+    "Il distillato alza l'alcol e allunga la vita del prodotto, anche a bottiglia aperta.",
+    "Le spiritueux relève l'alcool et prolonge la vie du produit, même bouteille ouverte.",
+    "The spirit raises alcohol and extends shelf life, even once opened.",
+    "El destilado sube el alcohol y alarga la vida del producto, incluso abierto."
+   ],
+   "d": [
+    "Si usa quasi sempre uno spirito neutro, quindi non dà colore né note di legno. Uno spirito è secco: la dolcezza arriva dal vino o dallo zucchero aggiunto, il colore eventualmente dal caramello.",
+    "On utilise presque toujours un alcool neutre : il n'apporte donc ni couleur ni notes boisées. Un spiritueux est sec : la douceur vient du vin ou du sucre ajouté, la couleur éventuellement du caramel.",
+    "A neutral spirit is nearly always used, so it brings no colour or oak notes. Spirits are dry: sweetness comes from the wine or added sugar, and any colour from caramel.",
+    "Casi siempre se usa un destilado neutro, así que no aporta color ni notas de madera. Un destilado es seco: el dulzor viene del vino o del azúcar añadido, y el color, en su caso, del caramelo."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Che tipo di distillato si usa quasi sempre nei vini aromatizzati?",
+    "Quel type de spiritueux utilise-t-on presque toujours dans les vins aromatisés ?",
+    "Which type of spirit is nearly always used in aromatised wines?",
+    "¿Qué tipo de destilado se usa casi siempre en los vinos aromatizados?"
+   ],
+   "o": [
+    [
+     "Uno spirito neutro",
+     "Un alcool neutre",
+     "A neutral spirit",
+     "Un destilado neutro"
+    ],
+    [
+     "Un brandy invecchiato",
+     "Un brandy vieilli",
+     "An aged brandy",
+     "Un brandy envejecido"
+    ],
+    [
+     "Un whisky torbato",
+     "Un whisky tourbé",
+     "A peated whisky",
+     "Un whisky con turba"
+    ],
+    [
+     "Un rum scuro",
+     "Un rhum brun",
+     "A dark rum",
+     "Un ron oscuro"
+    ]
+   ],
+   "e": [
+    "Lo spirito neutro alza la gradazione senza disturbare gli aromi scelti.",
+    "L'alcool neutre relève le degré sans gêner les arômes choisis.",
+    "Neutral spirit raises the strength without clashing with the chosen flavours.",
+    "El destilado neutro sube la graduación sin estorbar a los aromas elegidos."
+   ],
+   "d": [
+    "Un distillato con carattere porterebbe aromi propri, come legno, torba o melassa, che entrerebbero in competizione con la ricetta. Il ruolo del distillato qui è tecnico, non aromatico.",
+    "Un spiritueux de caractère apporterait ses propres arômes, comme le bois, la tourbe ou la mélasse, qui entreraient en concurrence avec la recette. Ici, le rôle du spiritueux est technique, pas aromatique.",
+    "A characterful spirit would bring its own aromas, such as oak, peat or molasses, competing with the recipe. Here the spirit's role is technical, not aromatic.",
+    "Un destilado con carácter aportaría aromas propios, como madera, turba o melaza, que competirían con la receta. Aquí el papel del destilado es técnico, no aromático."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Quale gruppo elenca botanici amari usati nei vini aromatizzati?",
+    "Quel groupe cite des botaniques amères utilisées dans les vins aromatisés ?",
+    "Which group lists bitter botanicals used in aromatised wines?",
+    "¿Qué grupo enumera botánicos amargos usados en los vinos aromatizados?"
+   ],
+   "o": [
+    [
+     "Assenzio, genziana, chinino",
+     "Absinthe, gentiane, quinine",
+     "Wormwood, gentian, quinine",
+     "Ajenjo, genciana, quinina"
+    ],
+    [
+     "Ginepro, coriandolo, angelica",
+     "Genièvre, coriandre, angélique",
+     "Juniper, coriander, angelica",
+     "Enebro, cilantro, angélica"
+    ],
+    [
+     "Vaniglia, cocco, cannella",
+     "Vanille, coco, cannelle",
+     "Vanilla, coconut, cinnamon",
+     "Vainilla, coco, canela"
+    ],
+    [
+     "Menta, lime, zenzero",
+     "Menthe, citron vert, gingembre",
+     "Mint, lime, ginger",
+     "Menta, lima, jengibre"
+    ]
+   ],
+   "e": [
+    "Ogni ricetta include un amaro, come assenzio, genziana o chinino.",
+    "Chaque recette comprend un amer, comme l'absinthe, la gentiane ou la quinine.",
+    "Every recipe includes a bitter, such as wormwood, gentian or quinine.",
+    "Toda receta incluye un amargo, como el ajenjo, la genciana o la quinina."
+   ],
+   "d": [
+    "Ginepro, coriandolo e angelica sono i classici del gin, che non sono amari. Vaniglia, cocco e cannella ricordano gli aromi del rovere. Menta, lime e zenzero fanno pensare a un cocktail lungo, non alla ricetta di un vino aromatizzato.",
+    "Genièvre, coriandre et angélique sont les classiques du gin, et ne sont pas amers. Vanille, coco et cannelle rappellent les arômes du chêne. Menthe, citron vert et gingembre évoquent un long drink, pas la recette d'un vin aromatisé.",
+    "Juniper, coriander and angelica are gin classics, and they are not bitter. Vanilla, coconut and cinnamon recall oak aromas. Mint, lime and ginger suggest a long drink, not an aromatised wine recipe.",
+    "Enebro, cilantro y angélica son clásicos de la ginebra y no son amargos. Vainilla, coco y canela recuerdan a los aromas del roble. Menta, lima y jengibre hacen pensar en un trago largo, no en la receta de un vino aromatizado."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Con quale botanico deve essere aromatizzato un vermut?",
+    "Avec quelle botanique un vermouth doit-il être aromatisé ?",
+    "Which botanical must vermouth be flavoured with?",
+    "¿Con qué botánico debe aromatizarse un vermut?"
+   ],
+   "o": [
+    [
+     "Assenzio",
+     "L'absinthe",
+     "Wormwood",
+     "Ajenjo"
+    ],
+    [
+     "Ginepro",
+     "Le genièvre",
+     "Juniper",
+     "Enebro"
+    ],
+    [
+     "Arancia amara",
+     "L'orange amère",
+     "Bitter orange",
+     "Naranja amarga"
+    ],
+    [
+     "Chinino",
+     "La quinine",
+     "Quinine",
+     "Quinina"
+    ]
+   ],
+   "e": [
+    "L'assenzio è obbligatorio nel vermut.",
+    "L'absinthe est obligatoire dans le vermouth.",
+    "Wormwood is required in vermouth.",
+    "El ajenjo es obligatorio en el vermut."
+   ],
+   "d": [
+    "Il ginepro è la firma del gin. Arancia amara e chinino sono botanici amari che possono comparire in vini aromatizzati e distillati amari, ma la regola del vermut riguarda specificamente l'assenzio.",
+    "Le genièvre est la signature du gin. L'orange amère et la quinine sont des botaniques amères qu'on peut trouver dans les vins aromatisés et les spiritueux amers, mais la règle du vermouth concerne précisément l'absinthe.",
+    "Juniper is gin's signature. Bitter orange and quinine are bitter botanicals that may appear in aromatised wines and bitter spirits, but the vermouth rule is specifically about wormwood.",
+    "El enebro es la firma de la ginebra. La naranja amarga y la quinina son botánicos amargos que pueden aparecer en vinos aromatizados y destilados amargos, pero la regla del vermut se refiere concretamente al ajenjo."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Un vermut rosso è prodotto con vino bianco. Da dove viene, di solito, il suo colore?",
+    "Un vermouth rouge est élaboré avec du vin blanc. D'où vient généralement sa couleur ?",
+    "A red vermouth is made from white wine. Where does its colour usually come from?",
+    "Un vermut rojo se elabora con vino blanco. ¿De dónde suele venir su color?"
+   ],
+   "o": [
+    [
+     "Dal caramello",
+     "Du caramel",
+     "Caramel",
+     "Del caramelo"
+    ],
+    [
+     "Dalle bucce dell'uva rossa",
+     "Des peaux de raisin noir",
+     "Black grape skins",
+     "De los hollejos de uva tinta"
+    ],
+    [
+     "Da un lungo invecchiamento in rovere",
+     "D'un long vieillissement en chêne",
+     "Long ageing in oak",
+     "De un largo envejecimiento en roble"
+    ],
+    [
+     "Dal ginepro macerato",
+     "Du genièvre macéré",
+     "Macerated juniper",
+     "Del enebro macerado"
+    ]
+   ],
+   "e": [
+    "Con una base bianca, il rosso arriva di solito dal caramello.",
+    "Avec une base blanche, le rouge vient généralement du caramel.",
+    "With a white base, the red colour usually comes from caramel.",
+    "Con una base blanca, el rojo suele venir del caramelo."
+   ],
+   "d": [
+    "Se la base è bianca, le bucce rosse non entrano in gioco. Il lungo invecchiamento in rovere non fa parte della ricetta, e il ginepro è un botanico del gin che non tinge di rosso. Il caramello può anche aggiungere un leggero aroma di caramello.",
+    "Si la base est blanche, les peaux de raisin noir n'entrent pas en jeu. Un long vieillissement en chêne ne fait pas partie de la recette, et le genièvre est une botanique du gin qui ne colore pas en rouge. Le caramel peut aussi apporter une légère note de caramel.",
+    "If the base is white, black grape skins play no part. Long oak ageing is not part of the recipe, and juniper is a gin botanical that does not turn things red. Caramel can also add a light caramel aroma.",
+    "Si la base es blanca, los hollejos de uva tinta no intervienen. Un largo envejecimiento en roble no forma parte de la receta, y el enebro es un botánico de la ginebra que no tiñe de rojo. El caramelo también puede aportar un ligero aroma a caramelo."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Un cliente chiede un vermut «dry» pensando che sia senza zucchero. Che cosa è corretto rispondere?",
+    "Un client demande un vermouth « dry » en pensant qu'il ne contient pas de sucre. Que répondre ?",
+    "A customer orders a ‘dry’ vermouth thinking it has no sugar. What is the correct reply?",
+    "Un cliente pide un vermut «dry» pensando que no tiene azúcar. ¿Qué es correcto responderle?"
+   ],
+   "o": [
+    [
+     "Che quasi sempre contiene zucchero aggiunto",
+     "Qu'il contient presque toujours du sucre ajouté",
+     "It nearly always contains added sugar",
+     "Que casi siempre lleva azúcar añadido"
+    ],
+    [
+     "Che per legge non contiene zucchero",
+     "Que la loi lui interdit tout sucre",
+     "By law it contains no sugar at all",
+     "Que por ley no lleva azúcar"
+    ],
+    [
+     "Che è più dolce di un vermut rosso",
+     "Qu'il est plus sucré qu'un vermouth rouge",
+     "It is sweeter than a red vermouth",
+     "Que es más dulce que un vermut rojo"
+    ],
+    [
+     "Che è fatto senza vino",
+     "Qu'il est fait sans vin",
+     "It is made without wine",
+     "Que se elabora sin vino"
+    ]
+   ],
+   "e": [
+    "Anche i vermut «dry» hanno quasi sempre un po' di zucchero aggiunto.",
+    "Même les vermouths « dry » ont presque toujours un peu de sucre ajouté.",
+    "Even ‘dry’ vermouths nearly always have some added sugar.",
+    "Incluso los vermuts «dry» casi siempre llevan algo de azúcar añadido."
+   ],
+   "d": [
+    "Quasi nessun vino aromatizzato è del tutto secco, e nessuna regola vieta lo zucchero nel «dry». È invece il vermut rosso a essere di solito molto zuccherato. E ogni vermut parte da un vino bianco.",
+    "Presque aucun vin aromatisé n'est complètement sec, et aucune règle n'interdit le sucre dans le « dry ». C'est au contraire le vermouth rouge qui est généralement très sucré. Et tout vermouth part d'un vin blanc.",
+    "Almost no aromatised wine is fully dry, and no rule bans sugar in ‘dry’. It is red vermouth that is usually heavily sweetened. And every vermouth starts from a white wine.",
+    "Casi ningún vino aromatizado es completamente seco, y ninguna regla prohíbe el azúcar en el «dry». Es el vermut rojo el que suele estar muy endulzado. Y todo vermut parte de un vino blanco."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Quali sono le zone più note per la produzione di vini aromatizzati?",
+    "Quelles sont les zones les plus connues pour les vins aromatisés ?",
+    "Which areas are best known for aromatised wines?",
+    "¿Cuáles son las zonas más conocidas por sus vinos aromatizados?"
+   ],
+   "o": [
+    [
+     "Sud-est della Francia e nord-ovest dell'Italia",
+     "Le sud-est de la France et le nord-ouest de l'Italie",
+     "South-east France and north-west Italy",
+     "El sureste de Francia y el noroeste de Italia"
+    ],
+    [
+     "Nord della Francia e sud dell'Italia",
+     "Le nord de la France et le sud de l'Italie",
+     "Northern France and southern Italy",
+     "El norte de Francia y el sur de Italia"
+    ],
+    [
+     "Scozia e Irlanda",
+     "L'Écosse et l'Irlande",
+     "Scotland and Ireland",
+     "Escocia e Irlanda"
+    ],
+    [
+     "Messico e Caraibi",
+     "Le Mexique et les Caraïbes",
+     "Mexico and the Caribbean",
+     "México y el Caribe"
+    ]
+   ],
+   "e": [
+    "Si producono ovunque, ma le zone celebri sono il sud-est francese e il nord-ovest italiano.",
+    "On en produit partout, mais les zones célèbres sont le sud-est français et le nord-ouest italien.",
+    "They are made everywhere, but the famous areas are south-east France and north-west Italy.",
+    "Se elaboran en todas partes, pero las zonas famosas son el sureste francés y el noroeste italiano."
+   ],
+   "d": [
+    "La seconda risposta inverte le direzioni. Scozia e Irlanda richiamano il whisky, Messico e Caraibi la Tequila e il rum: sono distillati, mentre qui parliamo di prodotti a base di vino.",
+    "La deuxième réponse inverse les directions. L'Écosse et l'Irlande évoquent le whisky, le Mexique et les Caraïbes la Tequila et le rhum : ce sont des spiritueux, alors qu'il s'agit ici de produits à base de vin.",
+    "The second answer flips the directions. Scotland and Ireland point to whisky, Mexico and the Caribbean to Tequila and rum: those are spirits, while this is about wine-based products.",
+    "La segunda respuesta invierte las direcciones. Escocia e Irlanda remiten al whisky, México y el Caribe al Tequila y al ron: son destilados, mientras que aquí se habla de productos a base de vino."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Perché i vini aromatizzati sono così utili nei cocktail?",
+    "Pourquoi les vins aromatisés sont-ils si utiles en cocktail ?",
+    "Why are aromatised wines so useful in cocktails?",
+    "¿Por qué los vinos aromatizados son tan útiles en coctelería?"
+   ],
+   "o": [
+    [
+     "Portano dolcezza, amaro e acidità insieme",
+     "Ils apportent à la fois douceur, amertume et acidité",
+     "They bring sweetness, bitterness and acidity at once",
+     "Aportan a la vez dulzor, amargor y acidez"
+    ],
+    [
+     "Sono la base alcolica più forte del drink",
+     "Ce sont la base alcoolique la plus forte de la boisson",
+     "They are the strongest spirit in the drink",
+     "Son la base alcohólica más fuerte de la bebida"
+    ],
+    [
+     "Danno solo colore senza cambiare il gusto",
+     "Ils donnent seulement de la couleur sans changer le goût",
+     "They add colour without changing the taste",
+     "Solo dan color sin cambiar el sabor"
+    ],
+    [
+     "Sostituiscono il ghiaccio nella diluizione",
+     "Ils remplacent la glace pour la dilution",
+     "They replace ice for dilution",
+     "Sustituyen al hielo en la dilución"
+    ]
+   ],
+   "e": [
+    "Un solo ingrediente aggiunge dolcezza, amaro e acidità al cocktail.",
+    "Un seul ingrédient ajoute douceur, amertume et acidité au cocktail.",
+    "One ingredient adds sweetness, bitterness and acidity to the drink.",
+    "Un solo ingrediente añade dulzor, amargor y acidez al cóctel."
+   ],
+   "d": [
+    "Sono vini con un po' di distillato, quindi molto meno forti della base alcolica, che di solito ha 40% vol. o più. Cambiano eccome il gusto, e la diluizione resta compito del ghiaccio e degli ingredienti analcolici.",
+    "Ce sont des vins additionnés d'un peu de spiritueux, donc bien moins forts que la base alcoolique, qui fait généralement 40 % vol. ou plus. Ils changent nettement le goût, et la dilution reste l'affaire de la glace et des ingrédients sans alcool.",
+    "They are wines with a little spirit, so far weaker than the base spirit, which is usually 40% abv or more. They clearly change the taste, and dilution is still the job of ice and non-alcoholic ingredients.",
+    "Son vinos con un poco de destilado, así que mucho menos fuertes que la base alcohólica, que suele tener un 40% vol. o más. Cambian claramente el sabor, y la dilución sigue siendo cosa del hielo y de los ingredientes sin alcohol."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "s6",
+   "f": [
+    "Cuore d'agave blu",
+    "Cœur d'agave bleu",
+    "Blue agave core",
+    "Corazón de agave azul"
+   ],
+   "b": [
+    "Si tagliano le foglie, si cuoce in forno per creare zuccheri, poi si schiaccia.",
+    "On coupe les feuilles, on le cuit au four pour créer des sucres, puis on le broie.",
+    "Leaves cut off; cooked in ovens to create sugars, then crushed.",
+    "Se cortan las hojas, se cuece en horno para crear azúcares y luego se tritura."
+   ]
+  },
+  {
+   "c": "s6",
+   "f": [
+    "Tequila vs Tequila 100% agave",
+    "Tequila vs Tequila 100 % agave",
+    "Tequila vs Tequila 100% agave",
+    "Tequila vs Tequila 100% agave"
+   ],
+   "b": [
+    "Almeno 51% di zuccheri d'agave, oppure solo zuccheri d'agave.",
+    "Au moins 51 % de sucres d'agave, ou uniquement des sucres d'agave.",
+    "At least 51% agave sugars, or agave sugars only.",
+    "Al menos un 51% de azúcares de agave, o solo azúcares de agave."
+   ]
+  },
+  {
+   "c": "s6",
+   "f": [
+    "Come si distillano le migliori Tequile?",
+    "Comment distille-t-on les meilleures Tequilas ?",
+    "How are the best Tequilas distilled?",
+    "¿Cómo se destilan los mejores Tequilas?"
+   ],
+   "b": [
+    "Due volte in alambicco discontinuo, a bassa gradazione: tanto carattere d'agave.",
+    "Deux fois en alambic à repasse, à faible degré : beaucoup de caractère d'agave.",
+    "Twice in pot stills to a low strength: lots of agave character.",
+    "Dos veces en alambique tradicional, a baja graduación: mucho carácter de agave."
+   ]
+  },
+  {
+   "c": "s6",
+   "f": [
+    "Blanco / Silver",
+    "Blanco / Silver",
+    "Blanco / Silver",
+    "Blanco / Silver"
+   ],
+   "b": [
+    "Non invecchiata, incolore: l'agave nella forma più pura.",
+    "Non vieillie, incolore : l'agave dans sa forme la plus pure.",
+    "Unaged and colourless: agave at its purest.",
+    "Sin envejecer e incoloro: el agave en su forma más pura."
+   ]
+  },
+  {
+   "c": "s6",
+   "f": [
+    "Joven / Oro / Gold",
+    "Joven / Oro / Gold",
+    "Joven / Oro / Gold",
+    "Joven / Oro / Gold"
+   ],
+   "b": [
+    "Non invecchiata; colore da caramello, consistenza ammorbidita da additivi.",
+    "Non vieillie ; couleur due au caramel, texture adoucie par des additifs.",
+    "Unaged; colour from caramel, texture softened by additives.",
+    "Sin envejecer; color de caramelo, textura suavizada con aditivos."
+   ]
+  },
+  {
+   "c": "s6",
+   "f": [
+    "Reposado vs Añejo",
+    "Reposado vs Añejo",
+    "Reposado vs Añejo",
+    "Reposado vs Añejo"
+   ],
+   "b": [
+    "Reposado: 2–12 mesi in rovere. Añejo: almeno 12 mesi.",
+    "Reposado : 2 à 12 mois en chêne. Añejo : au moins 12 mois.",
+    "Reposado: 2–12 months in oak. Añejo: at least 12 months.",
+    "Reposado: de 2 a 12 meses en roble. Añejo: al menos 12 meses."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Botanici",
+    "Botaniques",
+    "Botanicals",
+    "Botánicos"
+   ],
+   "b": [
+    "Ingredienti naturali che aromatizzano: frutta, semi, erbe e spezie.",
+    "Ingrédients naturels qui aromatisent : fruits, graines, herbes et épices.",
+    "Natural flavouring ingredients: fruits, seeds, herbs and spices.",
+    "Ingredientes naturales que aromatizan: frutas, semillas, hierbas y especias."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Ridistillazione",
+    "Redistillation",
+    "Redistillation",
+    "Redestilación"
+   ],
+   "b": [
+    "Spirito neutro + botanici distillati insieme in alambicco: aromatizzato e incolore.",
+    "Alcool neutre + botaniques distillés ensemble en alambic : aromatisé et incolore.",
+    "Neutral spirit and botanicals distilled together in a pot still: flavoured, colourless.",
+    "Destilado neutro + botánicos destilados juntos en alambique: aromatizado e incoloro."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Macerazione",
+    "Macération",
+    "Maceration",
+    "Maceración"
+   ],
+   "b": [
+    "Botanici in infusione per giorni o mesi; danno sapore e colore. Il calore accelera.",
+    "Botaniques infusés des jours ou des mois ; saveur et couleur. La chaleur accélère.",
+    "Botanicals steeped for days or months; give flavour and colour. Heat speeds it up.",
+    "Botánicos en infusión días o meses; dan sabor y color. El calor acelera."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Gin",
+    "Gin",
+    "Gin",
+    "Ginebra"
+   ],
+   "b": [
+    "Distillato aromatizzato con il ginepro dominante; di solito incolore e non invecchiato.",
+    "Spiritueux aromatisé où domine le genièvre ; en général incolore et non vieilli.",
+    "Flavoured spirit led by juniper; usually colourless and unaged.",
+    "Destilado aromatizado dominado por el enebro; normalmente incoloro y sin envejecer."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "London Dry Gin",
+    "London Dry Gin",
+    "London Dry Gin",
+    "London Dry Gin"
+   ],
+   "b": [
+    "Aromi dati con la ridistillazione. Si può produrre ovunque, non solo a Londra.",
+    "Arômes apportés par redistillation. Peut être produit partout, pas seulement à Londres.",
+    "Flavours added by redistillation. Can be made anywhere, not just London.",
+    "Aromas aportados al redestilar. Puede elaborarse en cualquier lugar, no solo en Londres."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Distillato amaro",
+    "Spiritueux amer",
+    "Bitter spirit",
+    "Destilado amargo"
+   ],
+   "b": [
+    "Almeno un botanico amaro (genziana, chinino, arancia amara); l'amaro si sente solo in bocca.",
+    "Au moins une botanique amère (gentiane, quinine, orange amère) ; amertume perçue en bouche seulement.",
+    "At least one bitter botanical (gentian, quinine, bitter orange); bitterness felt only on the palate.",
+    "Al menos un botánico amargo (genciana, quinina, naranja amarga); amargor solo en boca."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Bitter da cocktail",
+    "Bitters à cocktail",
+    "Cocktail bitters",
+    "Bitters de cóctel"
+   ],
+   "b": [
+    "Concentratissimi e molto amari; mai bevuti da soli, poche gocce per dare complessità.",
+    "Très concentrés et très amers ; jamais bus seuls, quelques gouttes pour la complexité.",
+    "Very concentrated and very bitter; never drunk alone, a few drops add complexity.",
+    "Muy concentrados y muy amargos; nunca solos, unas gotas aportan complejidad."
+   ]
+  },
+  {
+   "c": "s7",
+   "f": [
+    "Liquore",
+    "Liqueur",
+    "Liqueur",
+    "Licor"
+   ],
+   "b": [
+    "Distillato aromatizzato e zuccherato, con dolcezza minima per legge; spesso colorato.",
+    "Spiritueux aromatisé et sucré, douceur minimale imposée par la loi ; souvent coloré.",
+    "Flavoured, sweetened spirit with a legal minimum sweetness; often coloured.",
+    "Destilado aromatizado y endulzado, con dulzor mínimo por ley; a menudo coloreado."
+   ]
+  },
+  {
+   "c": "s8",
+   "f": [
+    "Vino aromatizzato",
+    "Vin aromatisé",
+    "Aromatised wine",
+    "Vino aromatizado"
+   ],
+   "b": [
+    "Vino di base + aromi con un amaro + zucchero + un po' di distillato.",
+    "Vin de base + arômes avec un amer + sucre + un peu de spiritueux.",
+    "Base wine + flavourings with a bitter + sugar + a little spirit.",
+    "Vino base + aromas con un amargo + azúcar + un poco de destilado."
+   ]
+  },
+  {
+   "c": "s8",
+   "f": [
+    "Perché si aggiunge distillato?",
+    "Pourquoi ajouter du spiritueux ?",
+    "Why add spirit?",
+    "¿Por qué se añade destilado?"
+   ],
+   "b": [
+    "Per alzare l'alcol e conservare più a lungo, anche dopo l'apertura.",
+    "Pour relever l'alcool et mieux conserver, même après ouverture.",
+    "To raise alcohol and extend shelf life, even after opening.",
+    "Para subir el alcohol y conservar más tiempo, incluso tras abrir."
+   ]
+  },
+  {
+   "c": "s8",
+   "f": [
+    "Vermut",
+    "Vermouth",
+    "Vermouth",
+    "Vermut"
+   ],
+   "b": [
+    "Vino bianco di base aromatizzato con assenzio; Francia e Italia.",
+    "Vin blanc de base aromatisé à l'absinthe ; France et Italie.",
+    "White wine base flavoured with wormwood; France and Italy.",
+    "Vino blanco de base aromatizado con ajenjo; Francia e Italia."
+   ]
+  },
+  {
+   "c": "s8",
+   "f": [
+    "Vermut «dry»",
+    "Vermouth « dry »",
+    "‘Dry’ vermouth",
+    "Vermut «dry»"
+   ],
+   "b": [
+    "Quasi sempre con zucchero aggiunto, solo meno del rosso.",
+    "Presque toujours avec du sucre ajouté, simplement moins que le rouge.",
+    "Nearly always has added sugar, just less than red.",
+    "Casi siempre lleva azúcar añadido, solo menos que el rojo."
+   ]
+  },
+  {
+   "c": "s8",
+   "f": [
+    "Colore del vermut rosso",
+    "Couleur du vermouth rouge",
+    "Red vermouth colour",
+    "Color del vermut rojo"
+   ],
+   "b": [
+    "Di solito dal caramello, perché la base è un vino bianco.",
+    "Généralement du caramel, car la base est un vin blanc.",
+    "Usually from caramel, as the base is a white wine.",
+    "Normalmente del caramelo, porque la base es un vino blanco."
+   ]
+  }
+ ]
+}
