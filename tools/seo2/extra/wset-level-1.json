@@ -1,282 +1,1190 @@
 {
-"en": {
-"sections": [
-{"h2": "Study notes: WSET Level 1 explained topic by topic"},
-{"p": "WSET Level 1 study notes only need to cover a few big ideas, but you need to know them precisely, because the pass mark is 70%: 21 correct answers out of 30. This section goes through each part of the syllabus in more depth than the overview above: how wine is made, what each principal grape tastes like, how climate changes a wine, how to describe a wine, and the practical rules for storage, service and food pairing. Read it once, then use it as a checklist in the days before the exam."},
-{"h2": "How wine is made, in simple terms"},
-{"p": "Wine is made by fermentation: yeast converts the sugar in grape juice into alcohol and carbon dioxide, and releases heat and flavour. Everything else in WSET Level 1 winemaking is about what happens before and after that step, and whether the grape skins are used."},
-{"h3": "White, red and rosé"},
-{"ul": [
-"White wine: grapes are crushed and pressed straight away, and only the juice is fermented, usually at a cool temperature to keep fresh fruit aromas. White wine can be made from white grapes and, less often, from black grapes, because the juice of most black grapes is colourless.",
-"Red wine: black grapes are crushed and fermented together with their skins, which give colour and tannin. After fermentation the wine is pressed to separate it from the skins.",
-"Rosé wine: black grapes are used, but the juice stays in contact with the skins for only a short time, so the wine takes a little colour and very little tannin."
-]},
-{"h3": "Sparkling, sweet and fortified wines"},
-{"p": "Sparkling wine has bubbles because the carbon dioxide from a fermentation is trapped in the wine, usually in a sealed tank or in the bottle. Sweet wines keep some natural grape sugar, for example because fermentation is stopped before all the sugar has turned into alcohol. Fortified wines, such as port and sherry, have grape spirit added, which raises the alcohol level."},
-{"tip": "Tannin is a Level 1 favourite. Remember the chain: tannin comes from the skins, red wine is fermented with the skins, so tannin is found mainly in red wines. A question that mentions a drying, mouth-coating feeling in a white wine is almost always a trap."},
-{"h2": "The eight principal grapes: profiles to learn"},
-{"p": "The WSET Level 1 grape varieties are the eight principal grapes listed above. For each one, learn its colour, its typical aromas and a well-known place where it grows. The table below gives the essentials in one place."},
-{"table": {"head": ["Grape", "Colour", "Typical style and aromas", "Well-known examples"], "rows": [
-["Chardonnay", "White", "Cool climate: green apple, citrus, high acidity. Warm climate: peach and tropical fruit; often oaked, with vanilla and toast", "Chablis, white Burgundy, California, Australia"],
-["Sauvignon Blanc", "White", "Aromatic, high acidity, green aromas such as grass and green pepper, plus citrus and passion fruit; usually unoaked", "Sancerre, Marlborough (New Zealand)"],
-["Pinot Grigio / Pinot Gris", "White", "Pinot Grigio: light, crisp, delicate. Pinot Gris: fuller and richer, sometimes off-dry", "North-east Italy, Alsace"],
-["Riesling", "White", "Aromatic, high acidity, citrus, stone fruit and flowers; made from dry to sweet", "Germany, Alsace, Australia"],
-["Cabernet Sauvignon", "Black", "Thick skins: deep colour, high tannin, blackcurrant; often aged in oak", "Bordeaux, Napa Valley, Chile"],
-["Merlot", "Black", "Softer than Cabernet, medium tannin, plum and red or black fruit", "Bordeaux, Chile, California"],
-["Pinot Noir", "Black", "Thin skins: pale colour, light body, low tannin, red fruit such as strawberry and cherry", "Burgundy, New Zealand, California"],
-["Syrah / Shiraz", "Black", "Deep colour, black fruit, black pepper; full-bodied when ripe", "Rhône Valley (Syrah), Australia (Shiraz)"]
-]}},
-{"h2": "How climate shapes the style of a wine"},
-{"p": "At WSET Level 1, climate explains most differences between wines made from the same grape. Grapes in a cool climate ripen slowly and keep more acidity; grapes in a warm climate ripen fully, gain more sugar and lose some acidity. Because sugar becomes alcohol during fermentation, riper grapes also give wines with more alcohol and body."},
-{"ul": [
-"Cool climate: higher acidity, lighter body, lower alcohol, green and citrus fruit in whites, red fruit in reds.",
-"Warm climate: lower acidity, fuller body, higher alcohol, tropical fruit in whites, riper black fruit in reds."
-]},
-{"h2": "Describing a wine: the Level 1 tasting method"},
-{"p": "The WSET Level 1 tasting method describes a wine in three steps: look, smell, taste. You will not be examined on tasting, but multiple-choice questions use its vocabulary, so learn the words and what they mean."},
-{"ol": [
-"Look: note the colour and how deep it is. White wines range from lemon to gold, rosés from pink to salmon, reds from purple to garnet; older wines tend to be deeper in colour for whites and paler for reds.",
-"Smell: note the main aromas, for example fruit (citrus, tropical, red or black fruit), flowers, spice or oak.",
-"Taste: describe sweetness (dry to sweet), acidity, tannin in reds, body (light to full), the flavours and how long they last."
-]},
-{"h2": "Storage, service and food: the rules that score easy points"},
-{"h3": "Storing and serving wine"},
-{"p": "Store wine in a cool place with a constant temperature, away from light, vibration and strong smells. Bottles with a cork should lie on their side so the cork stays moist and does not let air in. Serve sparkling wine in a flute to keep the bubbles, white and rosé in a medium glass, and red in a larger glass that gives room for the aromas. Leftover wine should be resealed and kept in the fridge, then drunk within a few days."},
-{"h3": "Opening a bottle of sparkling wine safely"},
-{"ol": [
-"Make sure the bottle is well chilled, because warm sparkling wine has more pressure.",
-"Remove the foil and loosen the wire cage, keeping a thumb on the cork at all times.",
-"Hold the cork and cage together, tilt the bottle at about 45 degrees and point it away from people.",
-"Turn the bottle, not the cork, and ease the cork out gently so it releases with a quiet sigh, not a pop."
-]},
-{"h3": "Food and wine pairing in one table"},
-{"table": {"head": ["In the food", "Effect on the wine"], "rows": [
-["Sweetness", "Wine tastes drier, more acidic and more bitter, and less fruity"],
-["Umami (mushrooms, ripe cheese, soy)", "Same direction as sweetness: wine tastes more bitter and acidic"],
-["Acidity", "Wine tastes less acidic, and richer and fruitier"],
-["Salt", "Wine tastes softer: less acidic and less bitter"],
-["Chilli heat", "Alcohol burn and bitterness are increased"]
-]}},
-{"tip": "A simple rule answers many pairing questions: a wine should be at least as sweet as the food. If the dessert is sweeter than the wine, the wine will taste thin and sour."},
-{"h2": "How to revise WSET Level 1 in 15 minutes a day"},
-{"p": "Level 1 rewards short, regular practice. For one week before the exam, spend five minutes on the grape table (cover one column and recall it), five minutes on service temperatures and the food table, and five minutes on a timed set of ten questions, reviewing every mistake. With 90 seconds per question in the real exam, the timing is comfortable if your knowledge is automatic. Practice questions for Level 1 are coming to the app."}
-],
-"faq": [
-["What grapes do I need to know for WSET Level 1?", "You need the eight principal grapes: Chardonnay, Sauvignon Blanc, Pinot Grigio or Pinot Gris and Riesling for white wines, and Cabernet Sauvignon, Merlot, Pinot Noir and Syrah or Shiraz for red wines. For each one, learn its colour, typical aromas, the style it gives in cool and warm climates and one or two famous regions."],
-["What are the food and wine pairing rules for WSET Level 1?", "Sweetness and umami in food make wine taste drier, more acidic and more bitter. Acidity and salt in food make wine taste softer and fruitier. Chilli heat increases the burning sensation of alcohol. The safest rule is that a wine should be at least as sweet as the food it is served with."],
-["What serving temperatures should I learn for WSET Level 1?", "Sweet and sparkling wines are served well chilled, light and medium-bodied whites chilled, full-bodied oaked whites lightly chilled, light-bodied reds lightly chilled at around 13 °C, and medium or full-bodied reds at room temperature, roughly 15 to 18 °C. Serving reds too warm makes the alcohol stand out."],
-["How do climate and grape ripeness come up in WSET Level 1 questions?", "Questions often ask why the same grape tastes different in two places. The answer is climate: cool climates give higher acidity, lighter body and green or citrus fruit, while warm climates give riper fruit, fuller body, lower acidity and more alcohol, because riper grapes contain more sugar to ferment."],
-["Is WSET Level 1 useful if I work in a restaurant or wine shop?", "Yes. It gives a shared vocabulary to describe wines, the confidence to recommend wine with food, and the basics of storage and service, such as temperatures and opening sparkling wine safely. Many employers in hospitality and retail use it as an introduction for new staff before Level 2."]
-]
-},
-"it": {
-"sections": [
-{"h2": "Appunti di studio: il WSET Livello 1 argomento per argomento"},
-{"p": "Gli appunti per il WSET Livello 1 devono coprire poche grandi idee, ma bisogna conoscerle con precisione, perché la soglia è del 70%: 21 risposte corrette su 30. Questa sezione ripercorre ogni parte del programma più a fondo della panoramica qui sopra: come si fa il vino, che sapore ha ciascun vitigno principale, come il clima cambia un vino, come descriverlo e le regole pratiche di conservazione, servizio e abbinamento. Leggila una volta, poi usala come checklist nei giorni prima dell'esame."},
-{"h2": "Come si fa il vino, in parole semplici"},
-{"p": "Il vino nasce dalla fermentazione: i lieviti trasformano lo zucchero del mosto in alcol e anidride carbonica, liberando calore e aromi. Tutto il resto della vinificazione al WSET Livello 1 riguarda ciò che succede prima e dopo questo passaggio, e se si usano o no le bucce."},
-{"h3": "Bianco, rosso e rosato"},
-{"ul": [
-"Vino bianco: l'uva viene pigiata e pressata subito e si fa fermentare solo il mosto, di solito a bassa temperatura per conservare gli aromi di frutta fresca. Si può fare con uve bianche e, più raramente, con uve nere, perché il succo della maggior parte delle uve nere è incolore.",
-"Vino rosso: le uve nere vengono pigiate e fermentate insieme alle bucce, che danno colore e tannino. Dopo la fermentazione il vino viene pressato per separarlo dalle bucce.",
-"Vino rosato: si usano uve nere, ma il mosto resta a contatto con le bucce solo per poco tempo, quindi prende un po' di colore e pochissimo tannino."
-]},
-{"h3": "Spumanti, vini dolci e fortificati"},
-{"p": "Lo spumante ha le bollicine perché l'anidride carbonica di una fermentazione resta intrappolata nel vino, di solito in un'autoclave chiusa o in bottiglia. I vini dolci conservano parte dello zucchero naturale dell'uva, per esempio perché la fermentazione viene fermata prima che tutto lo zucchero diventi alcol. I vini fortificati, come porto e sherry, ricevono un'aggiunta di acquavite di vino che ne alza il grado alcolico."},
-{"tip": "Il tannino è un classico del Livello 1. Ricorda la catena: il tannino viene dalle bucce, il rosso fermenta con le bucce, quindi il tannino si trova soprattutto nei vini rossi. Una domanda che parla di una sensazione astringente e asciugante in un vino bianco è quasi sempre un tranello."},
-{"h2": "Gli otto vitigni principali: le schede da imparare"},
-{"p": "I vitigni del WSET Livello 1 sono gli otto principali elencati sopra. Per ciascuno impara il colore, gli aromi tipici e un luogo famoso in cui cresce. La tabella riunisce l'essenziale."},
-{"table": {"head": ["Vitigno", "Colore", "Stile e aromi tipici", "Esempi famosi"], "rows": [
-["Chardonnay", "Bianco", "Clima fresco: mela verde, agrumi, acidità alta. Clima caldo: pesca e frutta tropicale; spesso in legno, con vaniglia e tostato", "Chablis, Borgogna bianco, California, Australia"],
-["Sauvignon Blanc", "Bianco", "Aromatico, acidità alta, note verdi come erba e peperone verde, più agrumi e frutto della passione; di solito senza legno", "Sancerre, Marlborough (Nuova Zelanda)"],
-["Pinot Grigio / Pinot Gris", "Bianco", "Pinot Grigio: leggero, fresco, delicato. Pinot Gris: più pieno e ricco, talvolta abboccato", "Nord-est d'Italia, Alsazia"],
-["Riesling", "Bianco", "Aromatico, acidità alta, agrumi, frutta a nocciolo e fiori; da secco a dolce", "Germania, Alsazia, Australia"],
-["Cabernet Sauvignon", "Nero", "Buccia spessa: colore intenso, tannino alto, ribes nero; spesso affinato in legno", "Bordeaux, Napa Valley, Cile"],
-["Merlot", "Nero", "Più morbido del Cabernet, tannino medio, prugna e frutta rossa o nera", "Bordeaux, Cile, California"],
-["Pinot Noir", "Nero", "Buccia sottile: colore chiaro, corpo leggero, tannino basso, frutta rossa come fragola e ciliegia", "Borgogna, Nuova Zelanda, California"],
-["Syrah / Shiraz", "Nero", "Colore intenso, frutta nera, pepe nero; corpo pieno quando è maturo", "Valle del Rodano (Syrah), Australia (Shiraz)"]
-]}},
-{"h2": "Come il clima cambia lo stile di un vino"},
-{"p": "Al WSET Livello 1 il clima spiega la maggior parte delle differenze tra vini dello stesso vitigno. In un clima fresco l'uva matura lentamente e conserva più acidità; in un clima caldo matura del tutto, accumula più zucchero e perde un po' di acidità. Poiché lo zucchero diventa alcol durante la fermentazione, uve più mature danno anche vini con più alcol e più corpo."},
-{"ul": [
-"Clima fresco: acidità più alta, corpo più leggero, alcol più basso, frutta verde e agrumi nei bianchi, frutta rossa nei rossi.",
-"Clima caldo: acidità più bassa, corpo più pieno, alcol più alto, frutta tropicale nei bianchi, frutta nera più matura nei rossi."
-]},
-{"h2": "Descrivere un vino: il metodo di degustazione del Livello 1"},
-{"p": "Il metodo di degustazione del WSET Livello 1 descrive un vino in tre passaggi: guardare, annusare, assaggiare. Non c'è un esame di degustazione, ma le domande a scelta multipla ne usano il vocabolario, quindi impara le parole e il loro significato."},
-{"ol": [
-"Guardare: nota il colore e la sua intensità. I bianchi vanno dal giallo limone al dorato, i rosati dal rosa al salmone, i rossi dal porpora al granato; con l'età i bianchi tendono a scurirsi e i rossi a schiarirsi.",
-"Annusare: nota gli aromi principali, per esempio frutta (agrumi, tropicale, rossa o nera), fiori, spezie o legno.",
-"Assaggiare: descrivi dolcezza (da secco a dolce), acidità, tannino nei rossi, corpo (da leggero a pieno), i sapori e quanto durano."
-]},
-{"h2": "Conservazione, servizio e cibo: le regole che danno punti facili"},
-{"h3": "Conservare e servire il vino"},
-{"p": "Conserva il vino in un luogo fresco a temperatura costante, lontano da luce, vibrazioni e odori forti. Le bottiglie con tappo di sughero vanno tenute coricate, così il tappo resta umido e non lascia entrare aria. Servi lo spumante nel flûte per conservare le bollicine, bianchi e rosati in un calice medio e i rossi in un calice più grande che lasci spazio agli aromi. Il vino avanzato va richiuso, conservato in frigorifero e bevuto entro pochi giorni."},
-{"h3": "Aprire una bottiglia di spumante in sicurezza"},
-{"ol": [
-"Assicurati che la bottiglia sia ben fredda, perché uno spumante caldo ha più pressione.",
-"Togli la capsula e allenta la gabbietta tenendo sempre il pollice sul tappo.",
-"Tieni insieme tappo e gabbietta, inclina la bottiglia di circa 45 gradi e non puntarla verso le persone.",
-"Gira la bottiglia, non il tappo, e fai uscire il tappo con delicatezza, con un leggero sospiro e non con un botto."
-]},
-{"h3": "Gli abbinamenti cibo-vino in una tabella"},
-{"table": {"head": ["Nel cibo", "Effetto sul vino"], "rows": [
-["Dolcezza", "Il vino sembra più secco, più acido e più amaro, e meno fruttato"],
-["Umami (funghi, formaggi stagionati, salsa di soia)", "Stessa direzione della dolcezza: il vino sembra più amaro e acido"],
-["Acidità", "Il vino sembra meno acido, più ricco e più fruttato"],
-["Sale", "Il vino sembra più morbido: meno acido e meno amaro"],
-["Piccante", "Aumentano il bruciore dell'alcol e l'amaro"]
-]}},
-{"tip": "Una regola semplice risolve molte domande sugli abbinamenti: il vino deve essere dolce almeno quanto il cibo. Se il dessert è più dolce del vino, il vino sembrerà magro e aspro."},
-{"h2": "Come ripassare il WSET Livello 1 in 15 minuti al giorno"},
-{"p": "Il Livello 1 premia la pratica breve e regolare. Nella settimana prima dell'esame dedica cinque minuti alla tabella dei vitigni (copri una colonna e ricordala), cinque alle temperature di servizio e alla tabella degli abbinamenti e cinque a una serie di dieci domande a tempo, rivedendo ogni errore. Con 90 secondi per domanda all'esame vero, il tempo basta se le conoscenze sono automatiche. Le domande di allenamento per il Livello 1 stanno arrivando nell'app."}
-],
-"faq": [
-["Quali vitigni bisogna conoscere per il WSET Livello 1?", "Servono gli otto vitigni principali: Chardonnay, Sauvignon Blanc, Pinot Grigio o Pinot Gris e Riesling per i bianchi, Cabernet Sauvignon, Merlot, Pinot Noir e Syrah o Shiraz per i rossi. Per ciascuno impara il colore, gli aromi tipici, lo stile che dà nei climi freschi e caldi e una o due regioni famose."],
-["Quali sono le regole di abbinamento cibo-vino per il WSET Livello 1?", "Dolcezza e umami nel cibo fanno sembrare il vino più secco, più acido e più amaro. Acidità e sale nel cibo lo fanno sembrare più morbido e più fruttato. Il piccante aumenta la sensazione di bruciore dell'alcol. La regola più sicura è che il vino sia dolce almeno quanto il piatto con cui viene servito."],
-["Quali temperature di servizio imparare per il WSET Livello 1?", "Vini dolci e spumanti si servono ben freddi, i bianchi leggeri e di medio corpo freddi, i bianchi strutturati e affinati in legno leggermente freschi, i rossi leggeri leggermente freschi intorno ai 13 °C e i rossi di medio o pieno corpo a temperatura ambiente, circa 15–18 °C. Un rosso troppo caldo fa risaltare l'alcol."],
-["Come compaiono clima e maturazione nelle domande del WSET Livello 1?", "Le domande chiedono spesso perché lo stesso vitigno ha un sapore diverso in due luoghi. La risposta è il clima: i climi freschi danno più acidità, corpo più leggero e frutta verde o agrumi, quelli caldi frutta più matura, corpo più pieno, meno acidità e più alcol, perché l'uva più matura contiene più zucchero da fermentare."],
-["Il WSET Livello 1 è utile per chi lavora in un ristorante o in enoteca?", "Sì. Offre un vocabolario comune per descrivere i vini, la sicurezza per consigliare abbinamenti e le basi di conservazione e servizio, come le temperature e l'apertura sicura dello spumante. Molti locali e negozi lo usano come introduzione per il nuovo personale prima del Livello 2."]
-]
-},
-"fr": {
-"sections": [
-{"h2": "Fiches de révision : le WSET niveau 1, thème par thème"},
-{"p": "Les fiches pour le WSET niveau 1 n'ont que quelques grandes idées à couvrir, mais il faut les connaître avec précision, car le seuil de réussite est de 70 % : 21 bonnes réponses sur 30. Cette partie reprend chaque thème du programme plus en détail que la présentation ci-dessus : comment on fait le vin, le goût de chaque cépage principal, l'effet du climat, la description d'un vin et les règles pratiques de conservation, de service et d'accords. Lisez-la une fois, puis servez-vous-en comme check-list dans les jours qui précèdent l'examen."},
-{"h2": "Comment on fait le vin, simplement"},
-{"p": "Le vin naît de la fermentation : les levures transforment le sucre du jus de raisin en alcool et en gaz carbonique, en dégageant de la chaleur et des arômes. Tout le reste de la vinification au WSET niveau 1 concerne ce qui se passe avant et après cette étape, et l'utilisation ou non des peaux."},
-{"h3": "Blanc, rouge et rosé"},
-{"ul": [
-"Vin blanc : le raisin est foulé et pressé tout de suite, et seul le jus fermente, en général à basse température pour garder les arômes de fruits frais. On peut le faire avec des raisins blancs et, plus rarement, avec des raisins noirs, car le jus de la plupart des raisins noirs est incolore.",
-"Vin rouge : les raisins noirs sont foulés et fermentent avec leurs peaux, qui donnent la couleur et les tanins. Après la fermentation, le vin est pressé pour le séparer des peaux.",
-"Vin rosé : on utilise des raisins noirs, mais le jus ne reste au contact des peaux que peu de temps ; le vin prend donc un peu de couleur et très peu de tanins."
-]},
-{"h3": "Effervescents, vins doux et vins mutés"},
-{"p": "Un vin effervescent a des bulles parce que le gaz carbonique d'une fermentation reste piégé dans le vin, en général dans une cuve fermée ou en bouteille. Les vins doux gardent une partie du sucre naturel du raisin, par exemple parce que la fermentation est arrêtée avant que tout le sucre ne devienne alcool. Les vins mutés, comme le porto et le xérès, reçoivent une eau-de-vie de vin qui augmente le degré d'alcool."},
-{"tip": "Les tanins sont un grand classique du niveau 1. Retenez l'enchaînement : les tanins viennent des peaux, le rouge fermente avec les peaux, donc les tanins se trouvent surtout dans les vins rouges. Une question qui évoque une sensation asséchante et râpeuse dans un vin blanc est presque toujours un piège."},
-{"h2": "Les huit cépages principaux : les fiches à apprendre"},
-{"p": "Les cépages du WSET niveau 1 sont les huit cépages principaux cités plus haut. Pour chacun, apprenez sa couleur, ses arômes typiques et un lieu célèbre où il pousse. Le tableau rassemble l'essentiel."},
-{"table": {"head": ["Cépage", "Couleur", "Style et arômes typiques", "Exemples connus"], "rows": [
-["Chardonnay", "Blanc", "Climat frais : pomme verte, agrumes, acidité élevée. Climat chaud : pêche et fruits tropicaux ; souvent boisé, avec vanille et grillé", "Chablis, bourgogne blanc, Californie, Australie"],
-["Sauvignon blanc", "Blanc", "Aromatique, acidité élevée, notes vertes comme l'herbe et le poivron vert, plus agrumes et fruit de la passion ; en général sans bois", "Sancerre, Marlborough (Nouvelle-Zélande)"],
-["Pinot grigio / pinot gris", "Blanc", "Pinot grigio : léger, vif, délicat. Pinot gris : plus ample et riche, parfois demi-sec", "Nord-est de l'Italie, Alsace"],
-["Riesling", "Blanc", "Aromatique, acidité élevée, agrumes, fruits à noyau et fleurs ; du sec au liquoreux", "Allemagne, Alsace, Australie"],
-["Cabernet sauvignon", "Noir", "Peau épaisse : couleur profonde, tanins élevés, cassis ; souvent élevé en fût", "Bordeaux, Napa Valley, Chili"],
-["Merlot", "Noir", "Plus souple que le cabernet, tanins moyens, prune et fruits rouges ou noirs", "Bordeaux, Chili, Californie"],
-["Pinot noir", "Noir", "Peau fine : couleur claire, corps léger, tanins faibles, fruits rouges comme la fraise et la cerise", "Bourgogne, Nouvelle-Zélande, Californie"],
-["Syrah / shiraz", "Noir", "Couleur profonde, fruits noirs, poivre noir ; corps ample à maturité", "Vallée du Rhône (syrah), Australie (shiraz)"]
-]}},
-{"h2": "L'effet du climat sur le style du vin"},
-{"p": "Au WSET niveau 1, le climat explique la plupart des différences entre des vins issus du même cépage. En climat frais, le raisin mûrit lentement et garde plus d'acidité ; en climat chaud, il mûrit pleinement, accumule plus de sucre et perd un peu d'acidité. Comme le sucre devient alcool pendant la fermentation, des raisins plus mûrs donnent aussi des vins plus alcoolisés et plus corsés."},
-{"ul": [
-"Climat frais : acidité plus élevée, corps plus léger, alcool plus faible, fruits verts et agrumes dans les blancs, fruits rouges dans les rouges.",
-"Climat chaud : acidité plus faible, corps plus ample, alcool plus élevé, fruits tropicaux dans les blancs, fruits noirs plus mûrs dans les rouges."
-]},
-{"h2": "Décrire un vin : la méthode de dégustation du niveau 1"},
-{"p": "La méthode de dégustation du WSET niveau 1 décrit un vin en trois étapes : regarder, sentir, goûter. Il n'y a pas d'épreuve de dégustation, mais les QCM utilisent son vocabulaire : apprenez les mots et leur sens."},
-{"ol": [
-"Regarder : notez la couleur et son intensité. Les blancs vont du jaune citron au doré, les rosés du rose au saumon, les rouges du pourpre au grenat ; avec l'âge, les blancs foncent et les rouges s'éclaircissent.",
-"Sentir : notez les arômes principaux, par exemple fruits (agrumes, tropicaux, rouges ou noirs), fleurs, épices ou bois.",
-"Goûter : décrivez le sucre (du sec au doux), l'acidité, les tanins dans les rouges, le corps (de léger à ample), les saveurs et leur longueur."
-]},
-{"h2": "Conservation, service et accords : les règles qui rapportent des points faciles"},
-{"h3": "Conserver et servir le vin"},
-{"p": "Conservez le vin dans un endroit frais à température constante, à l'abri de la lumière, des vibrations et des odeurs fortes. Les bouteilles bouchées au liège se gardent couchées, pour que le bouchon reste humide et ne laisse pas entrer l'air. Servez l'effervescent en flûte pour garder les bulles, les blancs et rosés dans un verre moyen et les rouges dans un verre plus grand qui laisse de la place aux arômes. Un reste de vin se rebouche, se garde au réfrigérateur et se boit sous quelques jours."},
-{"h3": "Ouvrir une bouteille d'effervescent en sécurité"},
-{"ol": [
-"Vérifiez que la bouteille est bien froide, car un effervescent tiède est sous plus forte pression.",
-"Retirez la capsule et desserrez le muselet en gardant toujours le pouce sur le bouchon.",
-"Tenez ensemble bouchon et muselet, inclinez la bouteille à environ 45 degrés, sans la diriger vers quelqu'un.",
-"Tournez la bouteille, pas le bouchon, et libérez celui-ci doucement, dans un léger soupir plutôt qu'avec un bruit sec."
-]},
-{"h3": "Les accords mets-vins en un tableau"},
-{"table": {"head": ["Dans le plat", "Effet sur le vin"], "rows": [
-["Sucre", "Le vin paraît plus sec, plus acide et plus amer, et moins fruité"],
-["Umami (champignons, fromages affinés, sauce soja)", "Même effet que le sucre : le vin paraît plus amer et plus acide"],
-["Acidité", "Le vin paraît moins acide, plus riche et plus fruité"],
-["Sel", "Le vin paraît plus souple : moins acide et moins amer"],
-["Piment", "La sensation de brûlure de l'alcool et l'amertume augmentent"]
-]}},
-{"tip": "Une règle simple résout beaucoup de questions d'accords : le vin doit être au moins aussi sucré que le plat. Si le dessert est plus sucré que le vin, celui-ci paraîtra maigre et aigre."},
-{"h2": "Réviser le WSET niveau 1 en 15 minutes par jour"},
-{"p": "Le niveau 1 récompense une pratique courte et régulière. La semaine avant l'examen, consacrez cinq minutes au tableau des cépages (cachez une colonne et retrouvez-la), cinq minutes aux températures de service et au tableau des accords, et cinq minutes à une série de dix questions chronométrées, en revoyant chaque erreur. Avec 90 secondes par question le jour J, le temps suffit si les connaissances sont automatiques. Les leçons, QCM et examens blancs du niveau 1 sont déjà dans l'appli, entièrement gratuits."}
-],
-"faq": [
-["Quels cépages connaître pour le WSET niveau 1 ?", "Il faut les huit cépages principaux : chardonnay, sauvignon blanc, pinot grigio ou pinot gris et riesling pour les blancs, cabernet sauvignon, merlot, pinot noir et syrah ou shiraz pour les rouges. Pour chacun, apprenez la couleur, les arômes typiques, le style obtenu en climat frais et en climat chaud, et une ou deux régions célèbres."],
-["Quelles sont les règles d'accords mets-vins au WSET niveau 1 ?", "Le sucre et l'umami du plat rendent le vin plus sec, plus acide et plus amer. L'acidité et le sel du plat le rendent plus souple et plus fruité. Le piment accentue la brûlure de l'alcool. La règle la plus sûre : le vin doit être au moins aussi sucré que le plat avec lequel on le sert."],
-["Quelles températures de service apprendre pour le WSET niveau 1 ?", "Vins doux et effervescents se servent bien frais, les blancs légers et moyens frais, les blancs amples et boisés légèrement frais, les rouges légers légèrement frais vers 13 °C, et les rouges moyens ou corsés à température ambiante, environ 15 à 18 °C. Un rouge servi trop chaud fait ressortir l'alcool."],
-["Comment le climat et la maturité apparaissent-ils dans les questions du WSET niveau 1 ?", "Les questions demandent souvent pourquoi un même cépage a un goût différent selon le lieu. La réponse est le climat : le climat frais donne plus d'acidité, un corps plus léger et des fruits verts ou des agrumes, le climat chaud des fruits plus mûrs, plus de corps, moins d'acidité et plus d'alcool, car un raisin plus mûr contient plus de sucre."],
-["Le WSET niveau 1 est-il utile pour travailler en restaurant ou chez un caviste ?", "Oui. Il apporte un vocabulaire commun pour décrire les vins, l'assurance pour conseiller un accord et les bases de la conservation et du service, comme les températures et l'ouverture sécurisée d'un effervescent. Beaucoup d'établissements l'utilisent comme initiation pour les nouvelles recrues avant le niveau 2."]
-]
-},
-"es": {
-"sections": [
-{"h2": "Apuntes de estudio: el WSET nivel 1 tema por tema"},
-{"p": "Los apuntes para el WSET nivel 1 solo tienen que cubrir unas pocas ideas grandes, pero hay que saberlas con precisión, porque para aprobar hace falta un 70 %: 21 respuestas correctas de 30. Esta sección repasa cada parte del temario con más detalle que el resumen de arriba: cómo se hace el vino, a qué sabe cada variedad principal, cómo cambia el clima un vino, cómo describirlo y las reglas prácticas de conservación, servicio y maridaje. Léela una vez y luego úsala como lista de control los días antes del examen."},
-{"h2": "Cómo se hace el vino, en pocas palabras"},
-{"p": "El vino se hace por fermentación: las levaduras convierten el azúcar del mosto en alcohol y dióxido de carbono, y liberan calor y aromas. Todo lo demás de la elaboración en el WSET nivel 1 trata de lo que pasa antes y después de ese paso, y de si se usan o no los hollejos."},
-{"h3": "Blanco, tinto y rosado"},
-{"ul": [
-"Vino blanco: la uva se estruja y se prensa enseguida, y solo fermenta el mosto, normalmente a baja temperatura para conservar los aromas de fruta fresca. Se puede hacer con uvas blancas y, con menos frecuencia, con uvas tintas, porque el mosto de la mayoría de las uvas tintas es incoloro.",
-"Vino tinto: las uvas tintas se estrujan y fermentan junto con los hollejos, que aportan color y tanino. Tras la fermentación, el vino se prensa para separarlo de los hollejos.",
-"Vino rosado: se usan uvas tintas, pero el mosto está en contacto con los hollejos poco tiempo, así que toma algo de color y muy poco tanino."
-]},
-{"h3": "Espumosos, dulces y generosos"},
-{"p": "Un vino espumoso tiene burbujas porque el dióxido de carbono de una fermentación queda atrapado en el vino, normalmente en un depósito cerrado o en la botella. Los vinos dulces conservan parte del azúcar natural de la uva, por ejemplo porque la fermentación se detiene antes de que todo el azúcar se convierta en alcohol. Los vinos generosos o fortificados, como el oporto y el jerez, llevan aguardiente vínico añadido, que sube el grado alcohólico."},
-{"tip": "El tanino es un clásico del nivel 1. Recuerda la cadena: el tanino viene de los hollejos, el tinto fermenta con los hollejos, así que el tanino está sobre todo en los vinos tintos. Una pregunta que habla de una sensación secante y astringente en un vino blanco casi siempre es una trampa."},
-{"h2": "Las ocho variedades principales: fichas para aprender"},
-{"p": "Las variedades del WSET nivel 1 son las ocho principales de la lista de arriba. De cada una, aprende el color, los aromas típicos y un lugar conocido donde se cultiva. La tabla reúne lo esencial."},
-{"table": {"head": ["Variedad", "Color", "Estilo y aromas típicos", "Ejemplos conocidos"], "rows": [
-["Chardonnay", "Blanca", "Clima fresco: manzana verde, cítricos, acidez alta. Clima cálido: melocotón y fruta tropical; a menudo con madera, vainilla y tostados", "Chablis, Borgoña blanco, California, Australia"],
-["Sauvignon Blanc", "Blanca", "Aromática, acidez alta, notas verdes como hierba y pimiento verde, más cítricos y maracuyá; normalmente sin madera", "Sancerre, Marlborough (Nueva Zelanda)"],
-["Pinot Grigio / Pinot Gris", "Blanca", "Pinot Grigio: ligero, fresco, delicado. Pinot Gris: más amplio y rico, a veces semiseco", "Noreste de Italia, Alsacia"],
-["Riesling", "Blanca", "Aromática, acidez alta, cítricos, fruta de hueso y flores; de seco a dulce", "Alemania, Alsacia, Australia"],
-["Cabernet Sauvignon", "Tinta", "Hollejo grueso: color intenso, tanino alto, grosella negra; a menudo criado en roble", "Burdeos, Napa Valley, Chile"],
-["Merlot", "Tinta", "Más suave que la Cabernet, tanino medio, ciruela y fruta roja o negra", "Burdeos, Chile, California"],
-["Pinot Noir", "Tinta", "Hollejo fino: color pálido, cuerpo ligero, tanino bajo, fruta roja como fresa y cereza", "Borgoña, Nueva Zelanda, California"],
-["Syrah / Shiraz", "Tinta", "Color intenso, fruta negra, pimienta negra; con mucho cuerpo cuando está madura", "Valle del Ródano (Syrah), Australia (Shiraz)"]
-]}},
-{"h2": "Cómo cambia el clima el estilo de un vino"},
-{"p": "En el WSET nivel 1, el clima explica la mayoría de las diferencias entre vinos de la misma variedad. En un clima fresco la uva madura despacio y conserva más acidez; en un clima cálido madura del todo, acumula más azúcar y pierde algo de acidez. Como el azúcar se convierte en alcohol durante la fermentación, las uvas más maduras dan también vinos con más alcohol y más cuerpo."},
-{"ul": [
-"Clima fresco: acidez más alta, cuerpo más ligero, alcohol más bajo, fruta verde y cítricos en los blancos, fruta roja en los tintos.",
-"Clima cálido: acidez más baja, más cuerpo, alcohol más alto, fruta tropical en los blancos, fruta negra más madura en los tintos."
-]},
-{"h2": "Describir un vino: el método de cata del nivel 1"},
-{"p": "El método de cata del WSET nivel 1 describe un vino en tres pasos: mirar, oler y probar. No hay examen de cata, pero las preguntas tipo test usan su vocabulario, así que aprende las palabras y lo que significan."},
-{"ol": [
-"Mirar: fíjate en el color y su intensidad. Los blancos van del amarillo limón al dorado, los rosados del rosa al salmón y los tintos del púrpura al granate; con la edad los blancos se oscurecen y los tintos se aclaran.",
-"Oler: anota los aromas principales, por ejemplo fruta (cítricos, tropical, roja o negra), flores, especias o madera.",
-"Probar: describe el dulzor (de seco a dulce), la acidez, el tanino en los tintos, el cuerpo (de ligero a mucho cuerpo), los sabores y cuánto duran."
-]},
-{"h2": "Conservación, servicio y comida: las reglas que dan puntos fáciles"},
-{"h3": "Conservar y servir el vino"},
-{"p": "Guarda el vino en un lugar fresco a temperatura constante, lejos de la luz, las vibraciones y los olores fuertes. Las botellas con tapón de corcho deben estar tumbadas para que el corcho se mantenga húmedo y no deje entrar aire. Sirve el espumoso en copa flauta para conservar las burbujas, los blancos y rosados en una copa mediana y los tintos en una copa más grande que deje espacio a los aromas. El vino que sobra se vuelve a tapar, se guarda en la nevera y se bebe en pocos días."},
-{"h3": "Abrir una botella de espumoso con seguridad"},
-{"ol": [
-"Comprueba que la botella está bien fría, porque un espumoso templado tiene más presión.",
-"Quita la cápsula y afloja el bozal sin dejar de sujetar el tapón con el pulgar.",
-"Sujeta a la vez tapón y bozal, inclina la botella unos 45 grados y no apuntes a nadie.",
-"Gira la botella, no el tapón, y deja salir el corcho con suavidad, con un leve suspiro y no con un estallido."
-]},
-{"h3": "El maridaje en una tabla"},
-{"table": {"head": ["En la comida", "Efecto en el vino"], "rows": [
-["Dulzor", "El vino parece más seco, más ácido y más amargo, y menos afrutado"],
-["Umami (setas, quesos curados, salsa de soja)", "Mismo efecto que el dulzor: el vino parece más amargo y ácido"],
-["Acidez", "El vino parece menos ácido, más rico y más afrutado"],
-["Sal", "El vino parece más suave: menos ácido y menos amargo"],
-["Picante", "Aumentan el ardor del alcohol y el amargor"]
-]}},
-{"tip": "Una regla sencilla resuelve muchas preguntas de maridaje: el vino debe ser al menos tan dulce como la comida. Si el postre es más dulce que el vino, el vino parecerá flaco y agrio."},
-{"h2": "Cómo repasar el WSET nivel 1 en 15 minutos al día"},
-{"p": "El nivel 1 premia la práctica breve y constante. La semana antes del examen, dedica cinco minutos a la tabla de variedades (tapa una columna y recuérdala), cinco a las temperaturas de servicio y a la tabla de maridaje, y cinco a una tanda de diez preguntas con tiempo, revisando cada fallo. Con 90 segundos por pregunta en el examen real, el tiempo sobra si tienes los conocimientos automatizados. Las preguntas de práctica del nivel 1 llegarán pronto a la app."}
-],
-"faq": [
-["¿Qué variedades hay que conocer para el WSET nivel 1?", "Hacen falta las ocho variedades principales: Chardonnay, Sauvignon Blanc, Pinot Grigio o Pinot Gris y Riesling para los blancos, y Cabernet Sauvignon, Merlot, Pinot Noir y Syrah o Shiraz para los tintos. De cada una, aprende el color, los aromas típicos, el estilo que da en climas frescos y cálidos y una o dos regiones famosas."],
-["¿Cuáles son las reglas de maridaje del WSET nivel 1?", "El dulzor y el umami de la comida hacen que el vino parezca más seco, más ácido y más amargo. La acidez y la sal de la comida lo hacen parecer más suave y afrutado. El picante aumenta la sensación de ardor del alcohol. La regla más segura es que el vino sea al menos tan dulce como el plato."],
-["¿Qué temperaturas de servicio hay que aprender para el WSET nivel 1?", "Los vinos dulces y espumosos se sirven muy fríos, los blancos ligeros y de cuerpo medio fríos, los blancos con cuerpo y madera ligeramente frescos, los tintos ligeros ligeramente frescos, hacia 13 °C, y los tintos de cuerpo medio o con mucho cuerpo a temperatura ambiente, unos 15 a 18 °C. Un tinto demasiado caliente resalta el alcohol."],
-["¿Cómo aparecen el clima y la madurez en las preguntas del WSET nivel 1?", "Muchas preguntas piden explicar por qué una misma variedad sabe distinta en dos lugares. La respuesta es el clima: el clima fresco da más acidez, menos cuerpo y fruta verde o cítrica; el cálido, fruta más madura, más cuerpo, menos acidez y más alcohol, porque la uva más madura tiene más azúcar para fermentar."],
-["¿Sirve el WSET nivel 1 si trabajas en un restaurante o una tienda de vinos?", "Sí. Da un vocabulario común para describir vinos, seguridad para recomendar maridajes y las bases de conservación y servicio, como las temperaturas y cómo abrir un espumoso con seguridad. Muchos restaurantes y tiendas lo usan como formación inicial para el personal nuevo antes del nivel 2."]
-]
-}
+ "en": {
+  "sections": [
+   {
+    "h2": "Study notes: WSET Level 1 explained topic by topic"
+   },
+   {
+    "p": "WSET Level 1 study notes only need to cover a few big ideas, but you need to know them precisely, because the pass mark is 70%: 21 correct answers out of 30. This section goes through each part of the syllabus in more depth than the overview above: how wine is made, what each principal grape tastes like, how climate changes a wine, how to describe a wine, and the practical rules for storage, service and food pairing. Read it once, then use it as a checklist in the days before the exam."
+   },
+   {
+    "h2": "How wine is made, in simple terms"
+   },
+   {
+    "p": "Wine is made by fermentation: yeast converts the sugar in grape juice into alcohol and carbon dioxide, and releases heat and flavour. Everything else in WSET Level 1 winemaking is about what happens before and after that step, and whether the grape skins are used."
+   },
+   {
+    "h3": "White, red and rosé"
+   },
+   {
+    "ul": [
+     "White wine: grapes are crushed and pressed straight away, and only the juice is fermented, usually at a cool temperature to keep fresh fruit aromas. White wine can be made from white grapes and, less often, from black grapes, because the juice of most black grapes is colourless.",
+     "Red wine: black grapes are crushed and fermented together with their skins, which give colour and tannin. After fermentation the wine is pressed to separate it from the skins.",
+     "Rosé wine: black grapes are used, but the juice stays in contact with the skins for only a short time, so the wine takes a little colour and very little tannin."
+    ]
+   },
+   {
+    "h3": "Sparkling, sweet and fortified wines"
+   },
+   {
+    "p": "Sparkling wine has bubbles because the carbon dioxide from a fermentation is trapped in the wine, usually in a sealed tank or in the bottle. Sweet wines keep some natural grape sugar, for example because fermentation is stopped before all the sugar has turned into alcohol. Fortified wines, such as port and sherry, have grape spirit added, which raises the alcohol level."
+   },
+   {
+    "tip": "Tannin is a Level 1 favourite. Remember the chain: tannin comes from the skins, red wine is fermented with the skins, so tannin is found mainly in red wines. A question that mentions a drying, mouth-coating feeling in a white wine is almost always a trap."
+   },
+   {
+    "h2": "The eight principal grapes: profiles to learn"
+   },
+   {
+    "p": "The WSET Level 1 grape varieties are the eight principal grapes listed above. For each one, learn its colour, its typical aromas and a well-known place where it grows. The table below gives the essentials in one place."
+   },
+   {
+    "table": {
+     "head": [
+      "Grape",
+      "Colour",
+      "Typical style and aromas",
+      "Well-known examples"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "White",
+       "Cool climate: green apple, citrus, high acidity. Warm climate: peach and tropical fruit; often oaked, with vanilla and toast",
+       "Chablis, white Burgundy, California, Australia"
+      ],
+      [
+       "Sauvignon Blanc",
+       "White",
+       "Aromatic, high acidity, green aromas such as grass and green pepper, plus citrus and passion fruit; usually unoaked",
+       "Sancerre, Marlborough (New Zealand)"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "White",
+       "Pinot Grigio: light, crisp, delicate. Pinot Gris: fuller and richer, sometimes off-dry",
+       "North-east Italy, Alsace"
+      ],
+      [
+       "Riesling",
+       "White",
+       "Aromatic, high acidity, citrus, stone fruit and flowers; made from dry to sweet",
+       "Germany, Alsace, Australia"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Black",
+       "Thick skins: deep colour, high tannin, blackcurrant; often aged in oak",
+       "Bordeaux, Napa Valley, Chile"
+      ],
+      [
+       "Merlot",
+       "Black",
+       "Softer than Cabernet, medium tannin, plum and red or black fruit",
+       "Bordeaux, Chile, California"
+      ],
+      [
+       "Pinot Noir",
+       "Black",
+       "Thin skins: pale colour, light body, low tannin, red fruit such as strawberry and cherry",
+       "Burgundy, New Zealand, California"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Black",
+       "Deep colour, black fruit, black pepper; full-bodied when ripe",
+       "Rhône Valley (Syrah), Australia (Shiraz)"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "How climate shapes the style of a wine"
+   },
+   {
+    "p": "At WSET Level 1, climate explains most differences between wines made from the same grape. Grapes in a cool climate ripen slowly and keep more acidity; grapes in a warm climate ripen fully, gain more sugar and lose some acidity. Because sugar becomes alcohol during fermentation, riper grapes also give wines with more alcohol and body."
+   },
+   {
+    "ul": [
+     "Cool climate: higher acidity, lighter body, lower alcohol, green and citrus fruit in whites, red fruit in reds.",
+     "Warm climate: lower acidity, fuller body, higher alcohol, tropical fruit in whites, riper black fruit in reds."
+    ]
+   },
+   {
+    "h2": "Describing a wine: the Level 1 tasting method"
+   },
+   {
+    "p": "The WSET Level 1 tasting method describes a wine in three steps: look, smell, taste. You will not be examined on tasting, but multiple-choice questions use its vocabulary, so learn the words and what they mean."
+   },
+   {
+    "ol": [
+     "Look: note the colour and how deep it is. White wines range from lemon to gold, rosés from pink to salmon, reds from purple to garnet; older wines tend to be deeper in colour for whites and paler for reds.",
+     "Smell: note the main aromas, for example fruit (citrus, tropical, red or black fruit), flowers, spice or oak.",
+     "Taste: describe sweetness (dry to sweet), acidity, tannin in reds, body (light to full), the flavours and how long they last."
+    ]
+   },
+   {
+    "h2": "Storage, service and food: the rules that score easy points"
+   },
+   {
+    "h3": "Storing and serving wine"
+   },
+   {
+    "p": "Store wine in a cool place with a constant temperature, away from light, vibration and strong smells. Bottles with a cork should lie on their side so the cork stays moist and does not let air in. Serve sparkling wine in a flute to keep the bubbles, white and rosé in a medium glass, and red in a larger glass that gives room for the aromas. Leftover wine should be resealed and kept in the fridge, then drunk within a few days."
+   },
+   {
+    "h3": "Opening a bottle of sparkling wine safely"
+   },
+   {
+    "ol": [
+     "Make sure the bottle is well chilled, because warm sparkling wine has more pressure.",
+     "Remove the foil and loosen the wire cage, keeping a thumb on the cork at all times.",
+     "Hold the cork and cage together, tilt the bottle at about 45 degrees and point it away from people.",
+     "Turn the bottle, not the cork, and ease the cork out gently so it releases with a quiet sigh, not a pop."
+    ]
+   },
+   {
+    "h3": "Food and wine pairing in one table"
+   },
+   {
+    "table": {
+     "head": [
+      "In the food",
+      "Effect on the wine"
+     ],
+     "rows": [
+      [
+       "Sweetness",
+       "Wine tastes drier, more acidic and more bitter, and less fruity"
+      ],
+      [
+       "Umami (mushrooms, ripe cheese, soy)",
+       "Same direction as sweetness: wine tastes more bitter and acidic"
+      ],
+      [
+       "Acidity",
+       "Wine tastes less acidic, and richer and fruitier"
+      ],
+      [
+       "Salt",
+       "Wine tastes softer: less acidic and less bitter"
+      ],
+      [
+       "Chilli heat",
+       "Alcohol burn and bitterness are increased"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "A simple rule answers many pairing questions: a wine should be at least as sweet as the food. If the dessert is sweeter than the wine, the wine will taste thin and sour."
+   },
+   {
+    "h2": "How to revise WSET Level 1 in 15 minutes a day"
+   },
+   {
+    "p": "Level 1 rewards short, regular practice. For one week before the exam, spend five minutes on the grape table (cover one column and recall it), five minutes on service temperatures and the food table, and five minutes on a timed set of ten questions, reviewing every mistake. With 90 seconds per question in the real exam, the timing is comfortable if your knowledge is automatic. Practice questions for Level 1 are coming to the app."
+   },
+   {
+    "h2": "A two-week study plan for WSET Level 1"
+   },
+   {
+    "p": "Level 1 needs only a few hours of guided learning, so two weeks of short, regular sessions are usually enough to feel confident. Adapt the plan to your course dates; the order matters more than the exact days."
+   },
+   {
+    "ol": [
+     "Days 1 to 2: read how wine is made and learn the difference between white, rosé, red, sparkling and fortified wines.",
+     "Days 3 to 4: learn the four white grapes (Chardonnay, Sauvignon Blanc, Pinot Grigio, Riesling) with one typical style and one example each.",
+     "Days 5 to 6: learn the four black grapes (Cabernet Sauvignon, Merlot, Pinot Noir, Syrah/Shiraz) in the same way.",
+     "Day 7: learn how cool and warm climates change acidity, body, alcohol and fruit, and test yourself with ten questions.",
+     "Days 8 to 9: study storage and service: temperatures, glasses, opening still and sparkling wine, keeping an open bottle.",
+     "Days 10 to 11: learn the food and wine effects of sweetness, umami, acidity, salt and chilli heat, with one example dish for each.",
+     "Days 12 to 13: answer mixed practice questions and write down the rule behind every mistake.",
+     "Day 14: one full timed set of 30 questions in 45 minutes, then a light review of your weakest topic."
+    ]
+   },
+   {
+    "h2": "Level 1 glossary: words that appear in the questions"
+   },
+   {
+    "ul": [
+     "Acidity: the fresh, mouth-watering quality of a wine; high in cool-climate wines.",
+     "Body: how heavy or light a wine feels in the mouth; alcohol adds body.",
+     "Tannin: the drying, slightly bitter feel in red wine, which comes from grape skins.",
+     "Dry: a wine with no noticeable sweetness, because the yeast has converted almost all the sugar.",
+     "Fermentation: yeast turns the sugar in grape juice into alcohol and carbon dioxide.",
+     "Oak: wood used for barrels; it can add flavours such as vanilla, toast and smoke.",
+     "Off-dry: a wine with a small amount of noticeable sweetness.",
+     "Sparkling wine: a wine with bubbles of carbon dioxide, trapped during a second fermentation or added.",
+     "Fortified wine: a wine with extra alcohol added, such as Port or Sherry.",
+     "Umami: a savoury taste found in mushrooms, ripe cheese and soy sauce.",
+     "Cool climate and warm climate: describe how much heat and sun the grapes receive while ripening.",
+     "Finish: how long the flavours remain after you swallow or spit."
+    ]
+   },
+   {
+    "h2": "Worked example: choosing wines for three dishes"
+   },
+   {
+    "p": "Food and wine questions are easier if you think about the main component of the dish first, then about its effect on the wine. Here is the reasoning for three common cases."
+   },
+   {
+    "p": "Grilled fish with a squeeze of lemon: the acidity in the lemon makes a wine taste less acidic and fruitier, so a high-acid white such as an unoaked Sauvignon Blanc keeps its freshness; a low-acid wine would taste flat. Salty fries alongside also soften the wine."
+   },
+   {
+    "p": "A chocolate dessert: sweetness in food makes a dry wine taste more acidic and bitter and less fruity. The rule is that the wine must be at least as sweet as the food, so a sweet wine is the safe answer, while a dry red would taste sharp and thin."
+   },
+   {
+    "p": "A spicy chicken curry: chilli heat increases the burning sensation of alcohol and the bitterness of tannin. A fruity, low-alcohol, off-dry white, such as a Riesling, is the better choice; a high-alcohol, tannic red would make the dish feel hotter."
+   },
+   {
+    "tip": "In the exam, identify the strongest element in the dish, recall its effect from the table, and choose the option that is not harmed by it."
+   },
+   {
+    "h2": "Exam day checklist"
+   },
+   {
+    "ul": [
+     "Bring the identification and documents your course provider asked for, and arrive early.",
+     "Read each question to the end and look for words such as not, best or most.",
+     "Answer every question; there are four options and only one is correct.",
+     "Keep an eye on time: 45 minutes for 30 questions is about a minute and a half per question.",
+     "Use the last minutes to check flagged questions only."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "What grapes do I need to know for WSET Level 1?",
+    "You need the eight principal grapes: Chardonnay, Sauvignon Blanc, Pinot Grigio or Pinot Gris and Riesling for white wines, and Cabernet Sauvignon, Merlot, Pinot Noir and Syrah or Shiraz for red wines. For each one, learn its colour, typical aromas, the style it gives in cool and warm climates and one or two famous regions."
+   ],
+   [
+    "What are the food and wine pairing rules for WSET Level 1?",
+    "Sweetness and umami in food make wine taste drier, more acidic and more bitter. Acidity and salt in food make wine taste softer and fruitier. Chilli heat increases the burning sensation of alcohol. The safest rule is that a wine should be at least as sweet as the food it is served with."
+   ],
+   [
+    "What serving temperatures should I learn for WSET Level 1?",
+    "Sweet and sparkling wines are served well chilled, light and medium-bodied whites chilled, full-bodied oaked whites lightly chilled, light-bodied reds lightly chilled at around 13 °C, and medium or full-bodied reds at room temperature, roughly 15 to 18 °C. Serving reds too warm makes the alcohol stand out."
+   ],
+   [
+    "How do climate and grape ripeness come up in WSET Level 1 questions?",
+    "Questions often ask why the same grape tastes different in two places. The answer is climate: cool climates give higher acidity, lighter body and green or citrus fruit, while warm climates give riper fruit, fuller body, lower acidity and more alcohol, because riper grapes contain more sugar to ferment."
+   ],
+   [
+    "Is WSET Level 1 useful if I work in a restaurant or wine shop?",
+    "Yes. It gives a shared vocabulary to describe wines, the confidence to recommend wine with food, and the basics of storage and service, such as temperatures and opening sparkling wine safely. Many employers in hospitality and retail use it as an introduction for new staff before Level 2."
+   ],
+   [
+    "What can I do after passing WSET Level 1?",
+    "The natural next step is Level 2, which goes deeper into grape varieties, the main wine regions of the world and the factors that shape style, and also covers sparkling, sweet and fortified wines in more detail. Some people stop at Level 1 because it already gives them the confidence to choose, serve and describe wine at work or at home."
+   ],
+   [
+    "Can I retake WSET Level 1 if I do not pass?",
+    "Yes, you can usually book a new attempt through your course provider, who will explain the practical arrangements. Before retaking, check which topics caused the most mistakes, usually food pairing or the effect of climate, and practise them with timed sets of questions until you score comfortably above the 70% pass mark."
+   ],
+   [
+    "How can I practise tasting at home for WSET Level 1?",
+    "Open two contrasting wines, for example an unoaked Sauvignon Blanc and an oaked Chardonnay, or a Pinot Noir and a Cabernet Sauvignon. Look at the colour, smell the main aromas, then describe sweetness, acidity, tannin, body and finish. Comparing two wines side by side makes the differences much clearer than tasting one wine alone."
+   ],
+   [
+    "What is the difference between dry, off-dry and sweet?",
+    "A dry wine has almost no sugar left, because the yeast has converted it into alcohol. An off-dry wine has a small but noticeable amount of sweetness. A sweet wine has a lot of sugar remaining, either because fermentation was stopped early or because the grapes had very concentrated sugar. Level 1 questions often link sweetness to food pairing."
+   ],
+   [
+    "How many hours a day should I study for WSET Level 1?",
+    "Short sessions work best: 15 to 30 minutes a day over one or two weeks is enough for most beginners. Use each session for one topic, then finish with a few practice questions. Regular repetition helps you remember the grape styles, serving temperatures and food effects far better than one long session the night before the exam."
+   ]
+  ]
+ },
+ "it": {
+  "sections": [
+   {
+    "h2": "Appunti di studio: il WSET Livello 1 argomento per argomento"
+   },
+   {
+    "p": "Gli appunti per il WSET Livello 1 devono coprire poche grandi idee, ma bisogna conoscerle con precisione, perché la soglia è del 70%: 21 risposte corrette su 30. Questa sezione ripercorre ogni parte del programma più a fondo della panoramica qui sopra: come si fa il vino, che sapore ha ciascun vitigno principale, come il clima cambia un vino, come descriverlo e le regole pratiche di conservazione, servizio e abbinamento. Leggila una volta, poi usala come checklist nei giorni prima dell'esame."
+   },
+   {
+    "h2": "Come si fa il vino, in parole semplici"
+   },
+   {
+    "p": "Il vino nasce dalla fermentazione: i lieviti trasformano lo zucchero del mosto in alcol e anidride carbonica, liberando calore e aromi. Tutto il resto della vinificazione al WSET Livello 1 riguarda ciò che succede prima e dopo questo passaggio, e se si usano o no le bucce."
+   },
+   {
+    "h3": "Bianco, rosso e rosato"
+   },
+   {
+    "ul": [
+     "Vino bianco: l'uva viene pigiata e pressata subito e si fa fermentare solo il mosto, di solito a bassa temperatura per conservare gli aromi di frutta fresca. Si può fare con uve bianche e, più raramente, con uve nere, perché il succo della maggior parte delle uve nere è incolore.",
+     "Vino rosso: le uve nere vengono pigiate e fermentate insieme alle bucce, che danno colore e tannino. Dopo la fermentazione il vino viene pressato per separarlo dalle bucce.",
+     "Vino rosato: si usano uve nere, ma il mosto resta a contatto con le bucce solo per poco tempo, quindi prende un po' di colore e pochissimo tannino."
+    ]
+   },
+   {
+    "h3": "Spumanti, vini dolci e fortificati"
+   },
+   {
+    "p": "Lo spumante ha le bollicine perché l'anidride carbonica di una fermentazione resta intrappolata nel vino, di solito in un'autoclave chiusa o in bottiglia. I vini dolci conservano parte dello zucchero naturale dell'uva, per esempio perché la fermentazione viene fermata prima che tutto lo zucchero diventi alcol. I vini fortificati, come porto e sherry, ricevono un'aggiunta di acquavite di vino che ne alza il grado alcolico."
+   },
+   {
+    "tip": "Il tannino è un classico del Livello 1. Ricorda la catena: il tannino viene dalle bucce, il rosso fermenta con le bucce, quindi il tannino si trova soprattutto nei vini rossi. Una domanda che parla di una sensazione astringente e asciugante in un vino bianco è quasi sempre un tranello."
+   },
+   {
+    "h2": "Gli otto vitigni principali: le schede da imparare"
+   },
+   {
+    "p": "I vitigni del WSET Livello 1 sono gli otto principali elencati sopra. Per ciascuno impara il colore, gli aromi tipici e un luogo famoso in cui cresce. La tabella riunisce l'essenziale."
+   },
+   {
+    "table": {
+     "head": [
+      "Vitigno",
+      "Colore",
+      "Stile e aromi tipici",
+      "Esempi famosi"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Bianco",
+       "Clima fresco: mela verde, agrumi, acidità alta. Clima caldo: pesca e frutta tropicale; spesso in legno, con vaniglia e tostato",
+       "Chablis, Borgogna bianco, California, Australia"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Bianco",
+       "Aromatico, acidità alta, note verdi come erba e peperone verde, più agrumi e frutto della passione; di solito senza legno",
+       "Sancerre, Marlborough (Nuova Zelanda)"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "Bianco",
+       "Pinot Grigio: leggero, fresco, delicato. Pinot Gris: più pieno e ricco, talvolta abboccato",
+       "Nord-est d'Italia, Alsazia"
+      ],
+      [
+       "Riesling",
+       "Bianco",
+       "Aromatico, acidità alta, agrumi, frutta a nocciolo e fiori; da secco a dolce",
+       "Germania, Alsazia, Australia"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Nero",
+       "Buccia spessa: colore intenso, tannino alto, ribes nero; spesso affinato in legno",
+       "Bordeaux, Napa Valley, Cile"
+      ],
+      [
+       "Merlot",
+       "Nero",
+       "Più morbido del Cabernet, tannino medio, prugna e frutta rossa o nera",
+       "Bordeaux, Cile, California"
+      ],
+      [
+       "Pinot Noir",
+       "Nero",
+       "Buccia sottile: colore chiaro, corpo leggero, tannino basso, frutta rossa come fragola e ciliegia",
+       "Borgogna, Nuova Zelanda, California"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Nero",
+       "Colore intenso, frutta nera, pepe nero; corpo pieno quando è maturo",
+       "Valle del Rodano (Syrah), Australia (Shiraz)"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Come il clima cambia lo stile di un vino"
+   },
+   {
+    "p": "Al WSET Livello 1 il clima spiega la maggior parte delle differenze tra vini dello stesso vitigno. In un clima fresco l'uva matura lentamente e conserva più acidità; in un clima caldo matura del tutto, accumula più zucchero e perde un po' di acidità. Poiché lo zucchero diventa alcol durante la fermentazione, uve più mature danno anche vini con più alcol e più corpo."
+   },
+   {
+    "ul": [
+     "Clima fresco: acidità più alta, corpo più leggero, alcol più basso, frutta verde e agrumi nei bianchi, frutta rossa nei rossi.",
+     "Clima caldo: acidità più bassa, corpo più pieno, alcol più alto, frutta tropicale nei bianchi, frutta nera più matura nei rossi."
+    ]
+   },
+   {
+    "h2": "Descrivere un vino: il metodo di degustazione del Livello 1"
+   },
+   {
+    "p": "Il metodo di degustazione del WSET Livello 1 descrive un vino in tre passaggi: guardare, annusare, assaggiare. Non c'è un esame di degustazione, ma le domande a scelta multipla ne usano il vocabolario, quindi impara le parole e il loro significato."
+   },
+   {
+    "ol": [
+     "Guardare: nota il colore e la sua intensità. I bianchi vanno dal giallo limone al dorato, i rosati dal rosa al salmone, i rossi dal porpora al granato; con l'età i bianchi tendono a scurirsi e i rossi a schiarirsi.",
+     "Annusare: nota gli aromi principali, per esempio frutta (agrumi, tropicale, rossa o nera), fiori, spezie o legno.",
+     "Assaggiare: descrivi dolcezza (da secco a dolce), acidità, tannino nei rossi, corpo (da leggero a pieno), i sapori e quanto durano."
+    ]
+   },
+   {
+    "h2": "Conservazione, servizio e cibo: le regole che danno punti facili"
+   },
+   {
+    "h3": "Conservare e servire il vino"
+   },
+   {
+    "p": "Conserva il vino in un luogo fresco a temperatura costante, lontano da luce, vibrazioni e odori forti. Le bottiglie con tappo di sughero vanno tenute coricate, così il tappo resta umido e non lascia entrare aria. Servi lo spumante nel flûte per conservare le bollicine, bianchi e rosati in un calice medio e i rossi in un calice più grande che lasci spazio agli aromi. Il vino avanzato va richiuso, conservato in frigorifero e bevuto entro pochi giorni."
+   },
+   {
+    "h3": "Aprire una bottiglia di spumante in sicurezza"
+   },
+   {
+    "ol": [
+     "Assicurati che la bottiglia sia ben fredda, perché uno spumante caldo ha più pressione.",
+     "Togli la capsula e allenta la gabbietta tenendo sempre il pollice sul tappo.",
+     "Tieni insieme tappo e gabbietta, inclina la bottiglia di circa 45 gradi e non puntarla verso le persone.",
+     "Gira la bottiglia, non il tappo, e fai uscire il tappo con delicatezza, con un leggero sospiro e non con un botto."
+    ]
+   },
+   {
+    "h3": "Gli abbinamenti cibo-vino in una tabella"
+   },
+   {
+    "table": {
+     "head": [
+      "Nel cibo",
+      "Effetto sul vino"
+     ],
+     "rows": [
+      [
+       "Dolcezza",
+       "Il vino sembra più secco, più acido e più amaro, e meno fruttato"
+      ],
+      [
+       "Umami (funghi, formaggi stagionati, salsa di soia)",
+       "Stessa direzione della dolcezza: il vino sembra più amaro e acido"
+      ],
+      [
+       "Acidità",
+       "Il vino sembra meno acido, più ricco e più fruttato"
+      ],
+      [
+       "Sale",
+       "Il vino sembra più morbido: meno acido e meno amaro"
+      ],
+      [
+       "Piccante",
+       "Aumentano il bruciore dell'alcol e l'amaro"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Una regola semplice risolve molte domande sugli abbinamenti: il vino deve essere dolce almeno quanto il cibo. Se il dessert è più dolce del vino, il vino sembrerà magro e aspro."
+   },
+   {
+    "h2": "Come ripassare il WSET Livello 1 in 15 minuti al giorno"
+   },
+   {
+    "p": "Il Livello 1 premia la pratica breve e regolare. Nella settimana prima dell'esame dedica cinque minuti alla tabella dei vitigni (copri una colonna e ricordala), cinque alle temperature di servizio e alla tabella degli abbinamenti e cinque a una serie di dieci domande a tempo, rivedendo ogni errore. Con 90 secondi per domanda all'esame vero, il tempo basta se le conoscenze sono automatiche. Le domande di allenamento per il Livello 1 stanno arrivando nell'app."
+   },
+   {
+    "h2": "Un piano di studio di due settimane per il WSET Livello 1"
+   },
+   {
+    "p": "Il Livello 1 richiede solo poche ore di formazione guidata, quindi due settimane di sessioni brevi e regolari bastano di solito per sentirsi sicuri. Adatta il piano alle date del tuo corso: conta più l'ordine che i giorni esatti."
+   },
+   {
+    "ol": [
+     "Giorni 1-2: leggi come si fa il vino e impara la differenza tra bianchi, rosati, rossi, spumanti e fortificati.",
+     "Giorni 3-4: impara i quattro vitigni bianchi (Chardonnay, Sauvignon Blanc, Pinot Grigio, Riesling) con uno stile tipico e un esempio ciascuno.",
+     "Giorni 5-6: impara allo stesso modo i quattro vitigni a bacca nera (Cabernet Sauvignon, Merlot, Pinot Noir, Syrah/Shiraz).",
+     "Giorno 7: impara come i climi freschi e caldi cambiano acidità, corpo, alcol e frutto, e mettiti alla prova con dieci domande.",
+     "Giorni 8-9: studia conservazione e servizio: temperature, bicchieri, apertura di vini fermi e spumanti, conservazione della bottiglia aperta.",
+     "Giorni 10-11: impara gli effetti di dolcezza, umami, acidità, sale e piccante sul vino, con un piatto di esempio per ciascuno.",
+     "Giorni 12-13: rispondi a domande miste e annota la regola dietro ogni errore.",
+     "Giorno 14: una simulazione completa di 30 domande in 45 minuti, poi un ripasso leggero dell'argomento più debole."
+    ]
+   },
+   {
+    "h2": "Glossario del Livello 1: le parole che compaiono nelle domande"
+   },
+   {
+    "ul": [
+     "Acidità: la sensazione fresca, che fa salivare; alta nei vini di clima fresco.",
+     "Corpo: quanto un vino sembra pesante o leggero in bocca; l'alcol aggiunge corpo.",
+     "Tannino: la sensazione asciugante e un po' amara del vino rosso, che viene dalle bucce.",
+     "Secco: un vino senza dolcezza percepibile, perché i lieviti hanno trasformato quasi tutto lo zucchero.",
+     "Fermentazione: i lieviti trasformano lo zucchero del mosto in alcol e anidride carbonica.",
+     "Rovere: legno usato per le botti; può aggiungere sapori come vaniglia, tostatura e affumicato.",
+     "Abboccato: un vino con una piccola dolcezza percepibile.",
+     "Spumante: un vino con bollicine di anidride carbonica, trattenuta durante una seconda fermentazione o aggiunta.",
+     "Vino fortificato: un vino a cui si aggiunge alcol, come il Porto o lo Sherry.",
+     "Umami: il gusto sapido di funghi, formaggi stagionati e salsa di soia.",
+     "Clima fresco e clima caldo: indicano quanto calore e sole ricevono le uve durante la maturazione.",
+     "Finale (persistenza): quanto durano i sapori dopo aver deglutito o sputato."
+    ]
+   },
+   {
+    "h2": "Esempio svolto: scegliere i vini per tre piatti"
+   },
+   {
+    "p": "Le domande sull'abbinamento sono più semplici se pensi prima all'elemento principale del piatto e poi al suo effetto sul vino. Ecco il ragionamento per tre casi frequenti."
+   },
+   {
+    "p": "Pesce alla griglia con una spruzzata di limone: l'acidità del limone rende il vino meno acido e più fruttato, quindi un bianco molto acido come un Sauvignon Blanc senza legno mantiene la sua freschezza; un vino poco acido sembrerebbe piatto. Le patatine salate di contorno ammorbidiscono anche il vino."
+   },
+   {
+    "p": "Un dolce al cioccolato: la dolcezza del cibo rende un vino secco più acido e amaro e meno fruttato. La regola è che il vino deve essere dolce almeno quanto il cibo, quindi la risposta sicura è un vino dolce, mentre un rosso secco sembrerebbe aspro e magro."
+   },
+   {
+    "p": "Un curry di pollo piccante: il piccante aumenta la sensazione bruciante dell'alcol e l'amaro del tannino. Un bianco fruttato, abboccato e poco alcolico, come un Riesling, è la scelta migliore; un rosso alcolico e tannico renderebbe il piatto ancora più piccante."
+   },
+   {
+    "tip": "All'esame individua l'elemento più forte del piatto, ricorda il suo effetto dalla tabella e scegli l'opzione che non ne viene penalizzata."
+   },
+   {
+    "h2": "Checklist per il giorno dell'esame"
+   },
+   {
+    "ul": [
+     "Porta il documento d'identità e i documenti richiesti dal tuo centro corsi, e arriva in anticipo.",
+     "Leggi ogni domanda fino in fondo e cerca parole come non, migliore o più.",
+     "Rispondi a tutte le domande: ci sono quattro opzioni e una sola è corretta.",
+     "Controlla il tempo: 45 minuti per 30 domande sono circa un minuto e mezzo a domanda.",
+     "Usa gli ultimi minuti solo per ricontrollare le domande segnate."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Quali vitigni bisogna conoscere per il WSET Livello 1?",
+    "Servono gli otto vitigni principali: Chardonnay, Sauvignon Blanc, Pinot Grigio o Pinot Gris e Riesling per i bianchi, Cabernet Sauvignon, Merlot, Pinot Noir e Syrah o Shiraz per i rossi. Per ciascuno impara il colore, gli aromi tipici, lo stile che dà nei climi freschi e caldi e una o due regioni famose."
+   ],
+   [
+    "Quali sono le regole di abbinamento cibo-vino per il WSET Livello 1?",
+    "Dolcezza e umami nel cibo fanno sembrare il vino più secco, più acido e più amaro. Acidità e sale nel cibo lo fanno sembrare più morbido e più fruttato. Il piccante aumenta la sensazione di bruciore dell'alcol. La regola più sicura è che il vino sia dolce almeno quanto il piatto con cui viene servito."
+   ],
+   [
+    "Quali temperature di servizio imparare per il WSET Livello 1?",
+    "Vini dolci e spumanti si servono ben freddi, i bianchi leggeri e di medio corpo freddi, i bianchi strutturati e affinati in legno leggermente freschi, i rossi leggeri leggermente freschi intorno ai 13 °C e i rossi di medio o pieno corpo a temperatura ambiente, circa 15–18 °C. Un rosso troppo caldo fa risaltare l'alcol."
+   ],
+   [
+    "Come compaiono clima e maturazione nelle domande del WSET Livello 1?",
+    "Le domande chiedono spesso perché lo stesso vitigno ha un sapore diverso in due luoghi. La risposta è il clima: i climi freschi danno più acidità, corpo più leggero e frutta verde o agrumi, quelli caldi frutta più matura, corpo più pieno, meno acidità e più alcol, perché l'uva più matura contiene più zucchero da fermentare."
+   ],
+   [
+    "Il WSET Livello 1 è utile per chi lavora in un ristorante o in enoteca?",
+    "Sì. Offre un vocabolario comune per descrivere i vini, la sicurezza per consigliare abbinamenti e le basi di conservazione e servizio, come le temperature e l'apertura sicura dello spumante. Molti locali e negozi lo usano come introduzione per il nuovo personale prima del Livello 2."
+   ],
+   [
+    "Cosa posso fare dopo aver superato il WSET Livello 1?",
+    "Il passo naturale è il Livello 2, che approfondisce vitigni, principali regioni vinicole del mondo e fattori che determinano lo stile, e tratta più nel dettaglio spumanti, vini dolci e fortificati. Alcuni si fermano al Livello 1 perché dà già la sicurezza per scegliere, servire e descrivere il vino al lavoro o a casa."
+   ],
+   [
+    "Posso ripetere il WSET Livello 1 se non lo supero?",
+    "Sì, di solito puoi prenotare un nuovo tentativo tramite il tuo centro corsi, che ti spiegherà le modalità pratiche. Prima di ripeterlo, verifica quali argomenti hanno causato più errori, di solito l'abbinamento o l'effetto del clima, e allenati con simulazioni a tempo finché non superi comodamente la soglia del 70%."
+   ],
+   [
+    "Come posso allenarmi a degustare a casa per il WSET Livello 1?",
+    "Apri due vini molto diversi, per esempio un Sauvignon Blanc senza legno e uno Chardonnay affinato in legno, oppure un Pinot Noir e un Cabernet Sauvignon. Osserva il colore, annusa gli aromi principali, poi descrivi dolcezza, acidità, tannino, corpo e finale. Confrontare due vini fianco a fianco rende le differenze molto più chiare che assaggiarne uno solo."
+   ],
+   [
+    "Che differenza c'è tra secco, abboccato e dolce?",
+    "Un vino secco non ha quasi più zucchero, perché i lieviti l'hanno trasformato in alcol. Un vino abboccato ha una dolcezza piccola ma percepibile. Un vino dolce conserva molto zucchero, perché la fermentazione è stata interrotta presto o perché le uve avevano zuccheri molto concentrati. Le domande del Livello 1 collegano spesso la dolcezza all'abbinamento."
+   ],
+   [
+    "Quante ore al giorno studiare per il WSET Livello 1?",
+    "Le sessioni brevi funzionano meglio: 15-30 minuti al giorno per una o due settimane bastano alla maggior parte dei principianti. Dedica ogni sessione a un argomento e chiudi con qualche domanda di prova. La ripetizione regolare aiuta a ricordare stili dei vitigni, temperature di servizio ed effetti del cibo molto meglio di una lunga sessione la sera prima dell'esame."
+   ]
+  ]
+ },
+ "fr": {
+  "sections": [
+   {
+    "h2": "Fiches de révision : le WSET niveau 1, thème par thème"
+   },
+   {
+    "p": "Les fiches pour le WSET niveau 1 n'ont que quelques grandes idées à couvrir, mais il faut les connaître avec précision, car le seuil de réussite est de 70 % : 21 bonnes réponses sur 30. Cette partie reprend chaque thème du programme plus en détail que la présentation ci-dessus : comment on fait le vin, le goût de chaque cépage principal, l'effet du climat, la description d'un vin et les règles pratiques de conservation, de service et d'accords. Lisez-la une fois, puis servez-vous-en comme check-list dans les jours qui précèdent l'examen."
+   },
+   {
+    "h2": "Comment on fait le vin, simplement"
+   },
+   {
+    "p": "Le vin naît de la fermentation : les levures transforment le sucre du jus de raisin en alcool et en gaz carbonique, en dégageant de la chaleur et des arômes. Tout le reste de la vinification au WSET niveau 1 concerne ce qui se passe avant et après cette étape, et l'utilisation ou non des peaux."
+   },
+   {
+    "h3": "Blanc, rouge et rosé"
+   },
+   {
+    "ul": [
+     "Vin blanc : le raisin est foulé et pressé tout de suite, et seul le jus fermente, en général à basse température pour garder les arômes de fruits frais. On peut le faire avec des raisins blancs et, plus rarement, avec des raisins noirs, car le jus de la plupart des raisins noirs est incolore.",
+     "Vin rouge : les raisins noirs sont foulés et fermentent avec leurs peaux, qui donnent la couleur et les tanins. Après la fermentation, le vin est pressé pour le séparer des peaux.",
+     "Vin rosé : on utilise des raisins noirs, mais le jus ne reste au contact des peaux que peu de temps ; le vin prend donc un peu de couleur et très peu de tanins."
+    ]
+   },
+   {
+    "h3": "Effervescents, vins doux et vins mutés"
+   },
+   {
+    "p": "Un vin effervescent a des bulles parce que le gaz carbonique d'une fermentation reste piégé dans le vin, en général dans une cuve fermée ou en bouteille. Les vins doux gardent une partie du sucre naturel du raisin, par exemple parce que la fermentation est arrêtée avant que tout le sucre ne devienne alcool. Les vins mutés, comme le porto et le xérès, reçoivent une eau-de-vie de vin qui augmente le degré d'alcool."
+   },
+   {
+    "tip": "Les tanins sont un grand classique du niveau 1. Retenez l'enchaînement : les tanins viennent des peaux, le rouge fermente avec les peaux, donc les tanins se trouvent surtout dans les vins rouges. Une question qui évoque une sensation asséchante et râpeuse dans un vin blanc est presque toujours un piège."
+   },
+   {
+    "h2": "Les huit cépages principaux : les fiches à apprendre"
+   },
+   {
+    "p": "Les cépages du WSET niveau 1 sont les huit cépages principaux cités plus haut. Pour chacun, apprenez sa couleur, ses arômes typiques et un lieu célèbre où il pousse. Le tableau rassemble l'essentiel."
+   },
+   {
+    "table": {
+     "head": [
+      "Cépage",
+      "Couleur",
+      "Style et arômes typiques",
+      "Exemples connus"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Blanc",
+       "Climat frais : pomme verte, agrumes, acidité élevée. Climat chaud : pêche et fruits tropicaux ; souvent boisé, avec vanille et grillé",
+       "Chablis, bourgogne blanc, Californie, Australie"
+      ],
+      [
+       "Sauvignon blanc",
+       "Blanc",
+       "Aromatique, acidité élevée, notes vertes comme l'herbe et le poivron vert, plus agrumes et fruit de la passion ; en général sans bois",
+       "Sancerre, Marlborough (Nouvelle-Zélande)"
+      ],
+      [
+       "Pinot grigio / pinot gris",
+       "Blanc",
+       "Pinot grigio : léger, vif, délicat. Pinot gris : plus ample et riche, parfois demi-sec",
+       "Nord-est de l'Italie, Alsace"
+      ],
+      [
+       "Riesling",
+       "Blanc",
+       "Aromatique, acidité élevée, agrumes, fruits à noyau et fleurs ; du sec au liquoreux",
+       "Allemagne, Alsace, Australie"
+      ],
+      [
+       "Cabernet sauvignon",
+       "Noir",
+       "Peau épaisse : couleur profonde, tanins élevés, cassis ; souvent élevé en fût",
+       "Bordeaux, Napa Valley, Chili"
+      ],
+      [
+       "Merlot",
+       "Noir",
+       "Plus souple que le cabernet, tanins moyens, prune et fruits rouges ou noirs",
+       "Bordeaux, Chili, Californie"
+      ],
+      [
+       "Pinot noir",
+       "Noir",
+       "Peau fine : couleur claire, corps léger, tanins faibles, fruits rouges comme la fraise et la cerise",
+       "Bourgogne, Nouvelle-Zélande, Californie"
+      ],
+      [
+       "Syrah / shiraz",
+       "Noir",
+       "Couleur profonde, fruits noirs, poivre noir ; corps ample à maturité",
+       "Vallée du Rhône (syrah), Australie (shiraz)"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "L'effet du climat sur le style du vin"
+   },
+   {
+    "p": "Au WSET niveau 1, le climat explique la plupart des différences entre des vins issus du même cépage. En climat frais, le raisin mûrit lentement et garde plus d'acidité ; en climat chaud, il mûrit pleinement, accumule plus de sucre et perd un peu d'acidité. Comme le sucre devient alcool pendant la fermentation, des raisins plus mûrs donnent aussi des vins plus alcoolisés et plus corsés."
+   },
+   {
+    "ul": [
+     "Climat frais : acidité plus élevée, corps plus léger, alcool plus faible, fruits verts et agrumes dans les blancs, fruits rouges dans les rouges.",
+     "Climat chaud : acidité plus faible, corps plus ample, alcool plus élevé, fruits tropicaux dans les blancs, fruits noirs plus mûrs dans les rouges."
+    ]
+   },
+   {
+    "h2": "Décrire un vin : la méthode de dégustation du niveau 1"
+   },
+   {
+    "p": "La méthode de dégustation du WSET niveau 1 décrit un vin en trois étapes : regarder, sentir, goûter. Il n'y a pas d'épreuve de dégustation, mais les QCM utilisent son vocabulaire : apprenez les mots et leur sens."
+   },
+   {
+    "ol": [
+     "Regarder : notez la couleur et son intensité. Les blancs vont du jaune citron au doré, les rosés du rose au saumon, les rouges du pourpre au grenat ; avec l'âge, les blancs foncent et les rouges s'éclaircissent.",
+     "Sentir : notez les arômes principaux, par exemple fruits (agrumes, tropicaux, rouges ou noirs), fleurs, épices ou bois.",
+     "Goûter : décrivez le sucre (du sec au doux), l'acidité, les tanins dans les rouges, le corps (de léger à ample), les saveurs et leur longueur."
+    ]
+   },
+   {
+    "h2": "Conservation, service et accords : les règles qui rapportent des points faciles"
+   },
+   {
+    "h3": "Conserver et servir le vin"
+   },
+   {
+    "p": "Conservez le vin dans un endroit frais à température constante, à l'abri de la lumière, des vibrations et des odeurs fortes. Les bouteilles bouchées au liège se gardent couchées, pour que le bouchon reste humide et ne laisse pas entrer l'air. Servez l'effervescent en flûte pour garder les bulles, les blancs et rosés dans un verre moyen et les rouges dans un verre plus grand qui laisse de la place aux arômes. Un reste de vin se rebouche, se garde au réfrigérateur et se boit sous quelques jours."
+   },
+   {
+    "h3": "Ouvrir une bouteille d'effervescent en sécurité"
+   },
+   {
+    "ol": [
+     "Vérifiez que la bouteille est bien froide, car un effervescent tiède est sous plus forte pression.",
+     "Retirez la capsule et desserrez le muselet en gardant toujours le pouce sur le bouchon.",
+     "Tenez ensemble bouchon et muselet, inclinez la bouteille à environ 45 degrés, sans la diriger vers quelqu'un.",
+     "Tournez la bouteille, pas le bouchon, et libérez celui-ci doucement, dans un léger soupir plutôt qu'avec un bruit sec."
+    ]
+   },
+   {
+    "h3": "Les accords mets-vins en un tableau"
+   },
+   {
+    "table": {
+     "head": [
+      "Dans le plat",
+      "Effet sur le vin"
+     ],
+     "rows": [
+      [
+       "Sucre",
+       "Le vin paraît plus sec, plus acide et plus amer, et moins fruité"
+      ],
+      [
+       "Umami (champignons, fromages affinés, sauce soja)",
+       "Même effet que le sucre : le vin paraît plus amer et plus acide"
+      ],
+      [
+       "Acidité",
+       "Le vin paraît moins acide, plus riche et plus fruité"
+      ],
+      [
+       "Sel",
+       "Le vin paraît plus souple : moins acide et moins amer"
+      ],
+      [
+       "Piment",
+       "La sensation de brûlure de l'alcool et l'amertume augmentent"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Une règle simple résout beaucoup de questions d'accords : le vin doit être au moins aussi sucré que le plat. Si le dessert est plus sucré que le vin, celui-ci paraîtra maigre et aigre."
+   },
+   {
+    "h2": "Réviser le WSET niveau 1 en 15 minutes par jour"
+   },
+   {
+    "p": "Le niveau 1 récompense une pratique courte et régulière. La semaine avant l'examen, consacrez cinq minutes au tableau des cépages (cachez une colonne et retrouvez-la), cinq minutes aux températures de service et au tableau des accords, et cinq minutes à une série de dix questions chronométrées, en revoyant chaque erreur. Avec 90 secondes par question le jour J, le temps suffit si les connaissances sont automatiques. Les leçons, QCM et examens blancs du niveau 1 sont déjà dans l'appli, entièrement gratuits."
+   },
+   {
+    "h2": "Un plan de révision sur deux semaines pour le WSET niveau 1"
+   },
+   {
+    "p": "Le niveau 1 ne demande que quelques heures de formation encadrée : deux semaines de séances courtes et régulières suffisent en général pour se sentir prêt. Adaptez le plan aux dates de votre cours ; l'ordre compte plus que les jours exacts."
+   },
+   {
+    "ol": [
+     "Jours 1 et 2 : lisez comment on fait le vin et apprenez la différence entre vins blancs, rosés, rouges, effervescents et mutés.",
+     "Jours 3 et 4 : apprenez les quatre cépages blancs (chardonnay, sauvignon blanc, pinot grigio, riesling) avec un style typique et un exemple pour chacun.",
+     "Jours 5 et 6 : apprenez de la même façon les quatre cépages noirs (cabernet sauvignon, merlot, pinot noir, syrah/shiraz).",
+     "Jour 7 : apprenez comment les climats frais et chauds modifient l'acidité, le corps, l'alcool et le fruit, puis testez-vous sur dix questions.",
+     "Jours 8 et 9 : révisez la conservation et le service : températures, verres, ouverture des vins tranquilles et effervescents, conservation d'une bouteille ouverte.",
+     "Jours 10 et 11 : apprenez les effets du sucre, de l'umami, de l'acidité, du sel et du piment sur le vin, avec un plat d'exemple pour chacun.",
+     "Jours 12 et 13 : répondez à des questions mélangées et notez la règle derrière chaque erreur.",
+     "Jour 14 : un examen blanc complet de 30 questions en 45 minutes, puis une révision légère de votre point faible."
+    ]
+   },
+   {
+    "h2": "Glossaire du niveau 1 : les mots qui reviennent dans les questions"
+   },
+   {
+    "ul": [
+     "Acidité : la fraîcheur qui fait saliver ; élevée dans les vins de climat frais.",
+     "Corps : la sensation de lourdeur ou de légèreté en bouche ; l'alcool apporte du corps.",
+     "Tanins : la sensation asséchante et un peu amère du vin rouge, qui vient des peaux du raisin.",
+     "Sec : un vin sans douceur perceptible, car les levures ont transformé presque tout le sucre.",
+     "Fermentation : les levures transforment le sucre du jus de raisin en alcool et en gaz carbonique.",
+     "Chêne : bois des fûts ; il peut apporter des arômes de vanille, de grillé et de fumé.",
+     "Demi-sec : un vin avec une petite douceur perceptible.",
+     "Vin effervescent : un vin avec des bulles de gaz carbonique, piégé lors d'une seconde fermentation ou ajouté.",
+     "Vin muté (fortifié) : un vin auquel on ajoute de l'alcool, comme le porto ou le xérès.",
+     "Umami : la saveur savoureuse des champignons, des fromages affinés et de la sauce soja.",
+     "Climat frais et climat chaud : décrivent la chaleur et le soleil que reçoivent les raisins pendant la maturation.",
+     "Finale (longueur) : la durée des arômes après avoir avalé ou recraché."
+    ]
+   },
+   {
+    "h2": "Exemple commenté : choisir les vins pour trois plats"
+   },
+   {
+    "p": "Les questions d'accords sont plus simples si l'on repère d'abord l'élément dominant du plat, puis son effet sur le vin. Voici le raisonnement pour trois cas courants."
+   },
+   {
+    "p": "Poisson grillé avec un filet de citron : l'acidité du citron rend le vin moins acide et plus fruité, donc un blanc vif comme un sauvignon blanc sans bois garde sa fraîcheur ; un vin peu acide paraîtrait plat. Des frites salées en accompagnement assouplissent aussi le vin."
+   },
+   {
+    "p": "Un dessert au chocolat : le sucre du plat rend un vin sec plus acide, plus amer et moins fruité. La règle veut que le vin soit au moins aussi sucré que le plat : la réponse sûre est un vin doux, alors qu'un rouge sec paraîtrait aigre et maigre."
+   },
+   {
+    "p": "Un curry de poulet épicé : le piment renforce la sensation de brûlure de l'alcool et l'amertume des tanins. Un blanc fruité, demi-sec et peu alcoolisé, comme un riesling, est le meilleur choix ; un rouge alcoolisé et tannique rendrait le plat encore plus piquant."
+   },
+   {
+    "tip": "À l'examen, repérez l'élément le plus fort du plat, rappelez-vous son effet grâce au tableau et choisissez l'option qui n'en souffre pas."
+   },
+   {
+    "h2": "Check-list du jour de l'examen"
+   },
+   {
+    "ul": [
+     "Apportez la pièce d'identité et les documents demandés par votre organisme de formation, et arrivez en avance.",
+     "Lisez chaque question jusqu'au bout et repérez des mots comme pas, meilleur ou le plus.",
+     "Répondez à toutes les questions : il y a quatre propositions et une seule est correcte.",
+     "Surveillez le temps : 45 minutes pour 30 questions, soit environ une minute et demie par question.",
+     "Utilisez les dernières minutes uniquement pour revoir les questions marquées."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Quels cépages connaître pour le WSET niveau 1 ?",
+    "Il faut les huit cépages principaux : chardonnay, sauvignon blanc, pinot grigio ou pinot gris et riesling pour les blancs, cabernet sauvignon, merlot, pinot noir et syrah ou shiraz pour les rouges. Pour chacun, apprenez la couleur, les arômes typiques, le style obtenu en climat frais et en climat chaud, et une ou deux régions célèbres."
+   ],
+   [
+    "Quelles sont les règles d'accords mets-vins au WSET niveau 1 ?",
+    "Le sucre et l'umami du plat rendent le vin plus sec, plus acide et plus amer. L'acidité et le sel du plat le rendent plus souple et plus fruité. Le piment accentue la brûlure de l'alcool. La règle la plus sûre : le vin doit être au moins aussi sucré que le plat avec lequel on le sert."
+   ],
+   [
+    "Quelles températures de service apprendre pour le WSET niveau 1 ?",
+    "Vins doux et effervescents se servent bien frais, les blancs légers et moyens frais, les blancs amples et boisés légèrement frais, les rouges légers légèrement frais vers 13 °C, et les rouges moyens ou corsés à température ambiante, environ 15 à 18 °C. Un rouge servi trop chaud fait ressortir l'alcool."
+   ],
+   [
+    "Comment le climat et la maturité apparaissent-ils dans les questions du WSET niveau 1 ?",
+    "Les questions demandent souvent pourquoi un même cépage a un goût différent selon le lieu. La réponse est le climat : le climat frais donne plus d'acidité, un corps plus léger et des fruits verts ou des agrumes, le climat chaud des fruits plus mûrs, plus de corps, moins d'acidité et plus d'alcool, car un raisin plus mûr contient plus de sucre."
+   ],
+   [
+    "Le WSET niveau 1 est-il utile pour travailler en restaurant ou chez un caviste ?",
+    "Oui. Il apporte un vocabulaire commun pour décrire les vins, l'assurance pour conseiller un accord et les bases de la conservation et du service, comme les températures et l'ouverture sécurisée d'un effervescent. Beaucoup d'établissements l'utilisent comme initiation pour les nouvelles recrues avant le niveau 2."
+   ],
+   [
+    "Que faire après avoir réussi le WSET niveau 1 ?",
+    "L'étape suivante naturelle est le niveau 2, qui approfondit les cépages, les grandes régions viticoles du monde et les facteurs qui façonnent le style, et traite plus en détail les effervescents, les vins doux et les vins mutés. Certains s'arrêtent au niveau 1, qui donne déjà l'assurance de choisir, servir et décrire un vin au travail ou à la maison."
+   ],
+   [
+    "Peut-on repasser le WSET niveau 1 en cas d'échec ?",
+    "Oui, vous pouvez en général vous réinscrire auprès de votre organisme de formation, qui vous expliquera les modalités pratiques. Avant de repasser l'examen, identifiez les thèmes qui vous ont coûté le plus d'erreurs, souvent les accords ou l'effet du climat, et entraînez-vous avec des QCM chronométrés jusqu'à dépasser nettement le seuil de 70 %."
+   ],
+   [
+    "Comment s'entraîner à la dégustation chez soi pour le WSET niveau 1 ?",
+    "Ouvrez deux vins contrastés, par exemple un sauvignon blanc sans bois et un chardonnay boisé, ou un pinot noir et un cabernet sauvignon. Observez la couleur, sentez les arômes principaux, puis décrivez la douceur, l'acidité, les tanins, le corps et la finale. Comparer deux vins côte à côte rend les différences bien plus nettes qu'en goûter un seul."
+   ],
+   [
+    "Quelle différence entre sec, demi-sec et doux ?",
+    "Un vin sec n'a presque plus de sucre, car les levures l'ont transformé en alcool. Un vin demi-sec garde une petite douceur perceptible. Un vin doux conserve beaucoup de sucre, parce que la fermentation a été arrêtée tôt ou parce que les raisins avaient des sucres très concentrés. Les questions du niveau 1 relient souvent la douceur aux accords mets et vins."
+   ],
+   [
+    "Combien d'heures par jour réviser pour le WSET niveau 1 ?",
+    "Les séances courtes fonctionnent le mieux : 15 à 30 minutes par jour pendant une ou deux semaines suffisent à la plupart des débutants. Consacrez chaque séance à un thème et terminez par quelques questions d'entraînement. La répétition régulière fixe les styles des cépages, les températures de service et les effets des plats bien mieux qu'une longue séance la veille."
+   ]
+  ]
+ },
+ "es": {
+  "sections": [
+   {
+    "h2": "Apuntes de estudio: el WSET nivel 1 tema por tema"
+   },
+   {
+    "p": "Los apuntes para el WSET nivel 1 solo tienen que cubrir unas pocas ideas grandes, pero hay que saberlas con precisión, porque para aprobar hace falta un 70 %: 21 respuestas correctas de 30. Esta sección repasa cada parte del temario con más detalle que el resumen de arriba: cómo se hace el vino, a qué sabe cada variedad principal, cómo cambia el clima un vino, cómo describirlo y las reglas prácticas de conservación, servicio y maridaje. Léela una vez y luego úsala como lista de control los días antes del examen."
+   },
+   {
+    "h2": "Cómo se hace el vino, en pocas palabras"
+   },
+   {
+    "p": "El vino se hace por fermentación: las levaduras convierten el azúcar del mosto en alcohol y dióxido de carbono, y liberan calor y aromas. Todo lo demás de la elaboración en el WSET nivel 1 trata de lo que pasa antes y después de ese paso, y de si se usan o no los hollejos."
+   },
+   {
+    "h3": "Blanco, tinto y rosado"
+   },
+   {
+    "ul": [
+     "Vino blanco: la uva se estruja y se prensa enseguida, y solo fermenta el mosto, normalmente a baja temperatura para conservar los aromas de fruta fresca. Se puede hacer con uvas blancas y, con menos frecuencia, con uvas tintas, porque el mosto de la mayoría de las uvas tintas es incoloro.",
+     "Vino tinto: las uvas tintas se estrujan y fermentan junto con los hollejos, que aportan color y tanino. Tras la fermentación, el vino se prensa para separarlo de los hollejos.",
+     "Vino rosado: se usan uvas tintas, pero el mosto está en contacto con los hollejos poco tiempo, así que toma algo de color y muy poco tanino."
+    ]
+   },
+   {
+    "h3": "Espumosos, dulces y generosos"
+   },
+   {
+    "p": "Un vino espumoso tiene burbujas porque el dióxido de carbono de una fermentación queda atrapado en el vino, normalmente en un depósito cerrado o en la botella. Los vinos dulces conservan parte del azúcar natural de la uva, por ejemplo porque la fermentación se detiene antes de que todo el azúcar se convierta en alcohol. Los vinos generosos o fortificados, como el oporto y el jerez, llevan aguardiente vínico añadido, que sube el grado alcohólico."
+   },
+   {
+    "tip": "El tanino es un clásico del nivel 1. Recuerda la cadena: el tanino viene de los hollejos, el tinto fermenta con los hollejos, así que el tanino está sobre todo en los vinos tintos. Una pregunta que habla de una sensación secante y astringente en un vino blanco casi siempre es una trampa."
+   },
+   {
+    "h2": "Las ocho variedades principales: fichas para aprender"
+   },
+   {
+    "p": "Las variedades del WSET nivel 1 son las ocho principales de la lista de arriba. De cada una, aprende el color, los aromas típicos y un lugar conocido donde se cultiva. La tabla reúne lo esencial."
+   },
+   {
+    "table": {
+     "head": [
+      "Variedad",
+      "Color",
+      "Estilo y aromas típicos",
+      "Ejemplos conocidos"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Blanca",
+       "Clima fresco: manzana verde, cítricos, acidez alta. Clima cálido: melocotón y fruta tropical; a menudo con madera, vainilla y tostados",
+       "Chablis, Borgoña blanco, California, Australia"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Blanca",
+       "Aromática, acidez alta, notas verdes como hierba y pimiento verde, más cítricos y maracuyá; normalmente sin madera",
+       "Sancerre, Marlborough (Nueva Zelanda)"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "Blanca",
+       "Pinot Grigio: ligero, fresco, delicado. Pinot Gris: más amplio y rico, a veces semiseco",
+       "Noreste de Italia, Alsacia"
+      ],
+      [
+       "Riesling",
+       "Blanca",
+       "Aromática, acidez alta, cítricos, fruta de hueso y flores; de seco a dulce",
+       "Alemania, Alsacia, Australia"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Tinta",
+       "Hollejo grueso: color intenso, tanino alto, grosella negra; a menudo criado en roble",
+       "Burdeos, Napa Valley, Chile"
+      ],
+      [
+       "Merlot",
+       "Tinta",
+       "Más suave que la Cabernet, tanino medio, ciruela y fruta roja o negra",
+       "Burdeos, Chile, California"
+      ],
+      [
+       "Pinot Noir",
+       "Tinta",
+       "Hollejo fino: color pálido, cuerpo ligero, tanino bajo, fruta roja como fresa y cereza",
+       "Borgoña, Nueva Zelanda, California"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Tinta",
+       "Color intenso, fruta negra, pimienta negra; con mucho cuerpo cuando está madura",
+       "Valle del Ródano (Syrah), Australia (Shiraz)"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Cómo cambia el clima el estilo de un vino"
+   },
+   {
+    "p": "En el WSET nivel 1, el clima explica la mayoría de las diferencias entre vinos de la misma variedad. En un clima fresco la uva madura despacio y conserva más acidez; en un clima cálido madura del todo, acumula más azúcar y pierde algo de acidez. Como el azúcar se convierte en alcohol durante la fermentación, las uvas más maduras dan también vinos con más alcohol y más cuerpo."
+   },
+   {
+    "ul": [
+     "Clima fresco: acidez más alta, cuerpo más ligero, alcohol más bajo, fruta verde y cítricos en los blancos, fruta roja en los tintos.",
+     "Clima cálido: acidez más baja, más cuerpo, alcohol más alto, fruta tropical en los blancos, fruta negra más madura en los tintos."
+    ]
+   },
+   {
+    "h2": "Describir un vino: el método de cata del nivel 1"
+   },
+   {
+    "p": "El método de cata del WSET nivel 1 describe un vino en tres pasos: mirar, oler y probar. No hay examen de cata, pero las preguntas tipo test usan su vocabulario, así que aprende las palabras y lo que significan."
+   },
+   {
+    "ol": [
+     "Mirar: fíjate en el color y su intensidad. Los blancos van del amarillo limón al dorado, los rosados del rosa al salmón y los tintos del púrpura al granate; con la edad los blancos se oscurecen y los tintos se aclaran.",
+     "Oler: anota los aromas principales, por ejemplo fruta (cítricos, tropical, roja o negra), flores, especias o madera.",
+     "Probar: describe el dulzor (de seco a dulce), la acidez, el tanino en los tintos, el cuerpo (de ligero a mucho cuerpo), los sabores y cuánto duran."
+    ]
+   },
+   {
+    "h2": "Conservación, servicio y comida: las reglas que dan puntos fáciles"
+   },
+   {
+    "h3": "Conservar y servir el vino"
+   },
+   {
+    "p": "Guarda el vino en un lugar fresco a temperatura constante, lejos de la luz, las vibraciones y los olores fuertes. Las botellas con tapón de corcho deben estar tumbadas para que el corcho se mantenga húmedo y no deje entrar aire. Sirve el espumoso en copa flauta para conservar las burbujas, los blancos y rosados en una copa mediana y los tintos en una copa más grande que deje espacio a los aromas. El vino que sobra se vuelve a tapar, se guarda en la nevera y se bebe en pocos días."
+   },
+   {
+    "h3": "Abrir una botella de espumoso con seguridad"
+   },
+   {
+    "ol": [
+     "Comprueba que la botella está bien fría, porque un espumoso templado tiene más presión.",
+     "Quita la cápsula y afloja el bozal sin dejar de sujetar el tapón con el pulgar.",
+     "Sujeta a la vez tapón y bozal, inclina la botella unos 45 grados y no apuntes a nadie.",
+     "Gira la botella, no el tapón, y deja salir el corcho con suavidad, con un leve suspiro y no con un estallido."
+    ]
+   },
+   {
+    "h3": "El maridaje en una tabla"
+   },
+   {
+    "table": {
+     "head": [
+      "En la comida",
+      "Efecto en el vino"
+     ],
+     "rows": [
+      [
+       "Dulzor",
+       "El vino parece más seco, más ácido y más amargo, y menos afrutado"
+      ],
+      [
+       "Umami (setas, quesos curados, salsa de soja)",
+       "Mismo efecto que el dulzor: el vino parece más amargo y ácido"
+      ],
+      [
+       "Acidez",
+       "El vino parece menos ácido, más rico y más afrutado"
+      ],
+      [
+       "Sal",
+       "El vino parece más suave: menos ácido y menos amargo"
+      ],
+      [
+       "Picante",
+       "Aumentan el ardor del alcohol y el amargor"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Una regla sencilla resuelve muchas preguntas de maridaje: el vino debe ser al menos tan dulce como la comida. Si el postre es más dulce que el vino, el vino parecerá flaco y agrio."
+   },
+   {
+    "h2": "Cómo repasar el WSET nivel 1 en 15 minutos al día"
+   },
+   {
+    "p": "El nivel 1 premia la práctica breve y constante. La semana antes del examen, dedica cinco minutos a la tabla de variedades (tapa una columna y recuérdala), cinco a las temperaturas de servicio y a la tabla de maridaje, y cinco a una tanda de diez preguntas con tiempo, revisando cada fallo. Con 90 segundos por pregunta en el examen real, el tiempo sobra si tienes los conocimientos automatizados. Las preguntas de práctica del nivel 1 llegarán pronto a la app."
+   },
+   {
+    "h2": "Un plan de estudio de dos semanas para el WSET nivel 1"
+   },
+   {
+    "p": "El nivel 1 solo requiere unas pocas horas de formación guiada, así que dos semanas de sesiones cortas y regulares suelen bastar para sentirte seguro. Adapta el plan a las fechas de tu curso; importa más el orden que los días exactos."
+   },
+   {
+    "ol": [
+     "Días 1 y 2: lee cómo se hace el vino y aprende la diferencia entre blancos, rosados, tintos, espumosos y generosos.",
+     "Días 3 y 4: aprende las cuatro variedades blancas (Chardonnay, Sauvignon Blanc, Pinot Grigio, Riesling) con un estilo típico y un ejemplo de cada una.",
+     "Días 5 y 6: aprende del mismo modo las cuatro variedades tintas (Cabernet Sauvignon, Merlot, Pinot Noir, Syrah/Shiraz).",
+     "Día 7: aprende cómo los climas frescos y cálidos cambian la acidez, el cuerpo, el alcohol y la fruta, y ponte a prueba con diez preguntas.",
+     "Días 8 y 9: estudia conservación y servicio: temperaturas, copas, abrir vinos tranquilos y espumosos, conservar una botella abierta.",
+     "Días 10 y 11: aprende los efectos del dulzor, el umami, la acidez, la sal y el picante en el vino, con un plato de ejemplo para cada uno.",
+     "Días 12 y 13: responde preguntas variadas y apunta la regla que hay detrás de cada fallo.",
+     "Día 14: un simulacro completo de 30 preguntas en 45 minutos y luego un repaso ligero de tu tema más flojo."
+    ]
+   },
+   {
+    "h2": "Glosario del nivel 1: palabras que salen en las preguntas"
+   },
+   {
+    "ul": [
+     "Acidez: la sensación fresca que hace salivar; alta en los vinos de clima fresco.",
+     "Cuerpo: lo pesado o ligero que se siente un vino en boca; el alcohol aporta cuerpo.",
+     "Tanino: la sensación secante y algo amarga del vino tinto, que procede de los hollejos.",
+     "Seco: un vino sin dulzor perceptible, porque las levaduras han transformado casi todo el azúcar.",
+     "Fermentación: las levaduras transforman el azúcar del mosto en alcohol y dióxido de carbono.",
+     "Roble: madera de las barricas; puede aportar sabores de vainilla, tostado y ahumado.",
+     "Semiseco: un vino con un ligero dulzor perceptible.",
+     "Vino espumoso: un vino con burbujas de dióxido de carbono, retenido en una segunda fermentación o añadido.",
+     "Vino generoso (encabezado): un vino al que se añade alcohol, como el Oporto o el Jerez.",
+     "Umami: el sabor sabroso de las setas, los quesos curados y la salsa de soja.",
+     "Clima fresco y clima cálido: indican cuánto calor y sol recibe la uva durante la maduración.",
+     "Final (persistencia): cuánto duran los sabores después de tragar o escupir."
+    ]
+   },
+   {
+    "h2": "Ejemplo resuelto: elegir vinos para tres platos"
+   },
+   {
+    "p": "Las preguntas de maridaje son más fáciles si piensas primero en el elemento principal del plato y después en su efecto sobre el vino. Este es el razonamiento para tres casos habituales."
+   },
+   {
+    "p": "Pescado a la plancha con unas gotas de limón: la acidez del limón hace que el vino parezca menos ácido y más afrutado, así que un blanco con acidez alta, como un Sauvignon Blanc sin roble, mantiene su frescura; un vino poco ácido parecería plano. Unas patatas fritas saladas como guarnición también suavizan el vino."
+   },
+   {
+    "p": "Un postre de chocolate: el dulzor de la comida hace que un vino seco parezca más ácido y amargo y menos afrutado. La regla es que el vino debe ser al menos tan dulce como la comida, así que la respuesta segura es un vino dulce, mientras que un tinto seco parecería áspero y delgado."
+   },
+   {
+    "p": "Un curry de pollo picante: el picante aumenta la sensación de quemazón del alcohol y el amargor del tanino. Un blanco afrutado, semiseco y con poco alcohol, como un Riesling, es la mejor opción; un tinto con mucho alcohol y tanino haría que el plato pareciera aún más picante."
+   },
+   {
+    "tip": "En el examen, localiza el elemento más fuerte del plato, recuerda su efecto con la tabla y elige la opción que no sale perjudicada."
+   },
+   {
+    "h2": "Lista de comprobación para el día del examen"
+   },
+   {
+    "ul": [
+     "Lleva la identificación y los documentos que te pidió tu centro de formación, y llega con tiempo.",
+     "Lee cada pregunta hasta el final y busca palabras como no, mejor o más.",
+     "Responde a todas las preguntas: hay cuatro opciones y solo una es correcta.",
+     "Controla el tiempo: 45 minutos para 30 preguntas es más o menos un minuto y medio por pregunta.",
+     "Usa los últimos minutos solo para revisar las preguntas que marcaste."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Qué variedades hay que conocer para el WSET nivel 1?",
+    "Hacen falta las ocho variedades principales: Chardonnay, Sauvignon Blanc, Pinot Grigio o Pinot Gris y Riesling para los blancos, y Cabernet Sauvignon, Merlot, Pinot Noir y Syrah o Shiraz para los tintos. De cada una, aprende el color, los aromas típicos, el estilo que da en climas frescos y cálidos y una o dos regiones famosas."
+   ],
+   [
+    "¿Cuáles son las reglas de maridaje del WSET nivel 1?",
+    "El dulzor y el umami de la comida hacen que el vino parezca más seco, más ácido y más amargo. La acidez y la sal de la comida lo hacen parecer más suave y afrutado. El picante aumenta la sensación de ardor del alcohol. La regla más segura es que el vino sea al menos tan dulce como el plato."
+   ],
+   [
+    "¿Qué temperaturas de servicio hay que aprender para el WSET nivel 1?",
+    "Los vinos dulces y espumosos se sirven muy fríos, los blancos ligeros y de cuerpo medio fríos, los blancos con cuerpo y madera ligeramente frescos, los tintos ligeros ligeramente frescos, hacia 13 °C, y los tintos de cuerpo medio o con mucho cuerpo a temperatura ambiente, unos 15 a 18 °C. Un tinto demasiado caliente resalta el alcohol."
+   ],
+   [
+    "¿Cómo aparecen el clima y la madurez en las preguntas del WSET nivel 1?",
+    "Muchas preguntas piden explicar por qué una misma variedad sabe distinta en dos lugares. La respuesta es el clima: el clima fresco da más acidez, menos cuerpo y fruta verde o cítrica; el cálido, fruta más madura, más cuerpo, menos acidez y más alcohol, porque la uva más madura tiene más azúcar para fermentar."
+   ],
+   [
+    "¿Sirve el WSET nivel 1 si trabajas en un restaurante o una tienda de vinos?",
+    "Sí. Da un vocabulario común para describir vinos, seguridad para recomendar maridajes y las bases de conservación y servicio, como las temperaturas y cómo abrir un espumoso con seguridad. Muchos restaurantes y tiendas lo usan como formación inicial para el personal nuevo antes del nivel 2."
+   ],
+   [
+    "¿Qué puedo hacer después de aprobar el WSET nivel 1?",
+    "El paso natural es el nivel 2, que profundiza en las variedades, las principales regiones vinícolas del mundo y los factores que determinan el estilo, y trata con más detalle los espumosos, los vinos dulces y los generosos. Algunas personas se quedan en el nivel 1 porque ya les da seguridad para elegir, servir y describir vinos en el trabajo o en casa."
+   ],
+   [
+    "¿Puedo repetir el WSET nivel 1 si no apruebo?",
+    "Sí, normalmente puedes reservar un nuevo intento a través de tu centro de formación, que te explicará cómo hacerlo. Antes de repetir, revisa qué temas te hicieron fallar más, casi siempre el maridaje o el efecto del clima, y practica con simulacros cronometrados hasta superar con holgura el 70 % necesario."
+   ],
+   [
+    "¿Cómo practico la cata en casa para el WSET nivel 1?",
+    "Abre dos vinos muy distintos, por ejemplo un Sauvignon Blanc sin roble y un Chardonnay con barrica, o una Pinot Noir y un Cabernet Sauvignon. Observa el color, huele los aromas principales y luego describe dulzor, acidez, tanino, cuerpo y final. Comparar dos vinos a la vez hace las diferencias mucho más claras que catar uno solo."
+   ],
+   [
+    "¿Qué diferencia hay entre seco, semiseco y dulce?",
+    "Un vino seco casi no conserva azúcar, porque las levaduras lo han transformado en alcohol. Un vino semiseco tiene un dulzor pequeño pero perceptible. Un vino dulce conserva mucho azúcar, porque la fermentación se detuvo pronto o porque la uva tenía azúcares muy concentrados. Las preguntas del nivel 1 relacionan a menudo el dulzor con el maridaje."
+   ],
+   [
+    "¿Cuántas horas al día debo estudiar para el WSET nivel 1?",
+    "Las sesiones cortas funcionan mejor: entre 15 y 30 minutos al día durante una o dos semanas bastan para la mayoría de los principiantes. Dedica cada sesión a un tema y termina con unas cuantas preguntas de práctica. La repetición regular te ayuda a recordar los estilos de las variedades, las temperaturas de servicio y los efectos de la comida mucho mejor que una sesión larga la noche antes del examen."
+   ]
+  ]
+ }
 }
