@@ -46,14 +46,56 @@
 "Day 6: practise a timed set of pairing questions in the app and turn every mistake into a rule.",
 "Day 7: plan a three-course menu and justify the wine for each course in cause-effect form."
 ]},
-{"tip": "Common mistake: assuming red wine always goes with meat. A tannic red with a sweet glaze or a chilli sauce can taste harsh; the components of the dish matter more than its colour or main ingredient."}
+{"tip": "Common mistake: assuming red wine always goes with meat. A tannic red with a sweet glaze or a chilli sauce can taste harsh; the components of the dish matter more than its colour or main ingredient."},
+{"h2": "Worked example: a short written answer on pairing"},
+{"p": "Pairing questions in the written section usually give you a dish and two or three wines, and ask which works best and why. The marks come from naming the food components, predicting their effect and justifying the choice."},
+{"p": "Question: A restaurant serves a Thai green curry with chicken, coconut milk and fresh chilli. Which of these wines would you recommend: an oaked Australian Shiraz at 15% abv, a dry Sancerre, or an off-dry Mosel Riesling Kabinett? Explain your choice."},
+{"p": "Model answer: The dominant components are chilli heat, some sweetness from the coconut milk, and a rich, creamy texture. Chilli heat increases the burning sensation of alcohol and makes tannin and oak bitterness harsher, so the oaked Shiraz, with high alcohol and firm tannins, would taste hot, bitter and less fruity. The Sancerre is dry and high in acidity: the sweetness in the dish would make it taste even sharper and thinner, and the chilli would emphasise its acidity. The Riesling Kabinett is the best choice. Its low alcohol will not be amplified much by the chilli, its residual sugar softens the heat and matches the sweetness of the coconut, its high acidity cuts through the creaminess, and its intense fruit stands up to the aromatic spices."},
+{"p": "Why it works: the answer identifies three components, explains why the two weaker wines fail, and gives four reasons for the recommended wine. Explaining the rejected options shows full understanding, which earns marks."},
+{"h2": "Dish-by-dish reference table"},
+{"p": "Practising with real dishes fixes the rules in memory. For each dish, find the components first, then the wine."},
+{"table": {"head": ["Dish", "Key components", "Suitable wine style", "Why"], "rows": [
+["Grilled steak", "Fat, protein, salt, high intensity", "Full-bodied red with ripe tannins", "Protein and fat soften tannin; salt reduces bitterness"],
+["Smoked salmon", "Salt, umami, oily texture", "High-acid white or traditional-method sparkling", "Acidity cuts the oil; salt softens the wine; low tannin avoids a metallic taste"],
+["Goat's cheese salad with vinaigrette", "Acidity, salt", "High-acid, unoaked white such as Sauvignon Blanc", "A low-acid wine would taste flat against the dressing"],
+["Mushroom risotto", "Umami, cream, medium intensity", "Low-tannin red such as Pinot Noir, or a rounded white", "Umami makes tannic wines harder; a seasoning of salt helps"],
+["Blue cheese", "Salt, intense flavour, fat", "Sweet wine such as Sauternes or a sweet fortified wine", "Salt and sweetness contrast; the wine's intensity matches the cheese"],
+["Chocolate dessert", "Sweetness, bitterness, intensity", "Sweet, intense wine, for example a sweet fortified red", "The wine must be at least as sweet and as intense as the dessert"]
+]}},
+{"h2": "Mini case study: one wine through a whole menu"},
+{"p": "Imagine a host who wants to serve a single bottle of young, tannic, dry red, such as a Barolo, with every course. Following it through the menu shows how food changes a wine."},
+{"ul": [
+"Asparagus starter: high umami and low salt make the tannins taste harder and more bitter. A poor match.",
+"Tomato pasta: the acidity of the sauce makes the wine taste less acidic and fruitier. A good match, as the Italian combination suggests.",
+"Braised beef: protein, fat and rich flavour soften the tannins and match the wine's intensity. The best match of the evening.",
+"Fruit tart: sweetness makes the dry wine taste thin, sour and bitter. A clear mismatch; a sweet wine would be needed."
+]},
+{"p": "The lesson is that the wine itself did not change: each dish changed how it tasted. This is exactly the reasoning examiners want to see."},
+{"h2": "Sample questions answered in text"},
+{"p": "Question: Why does a squeeze of lemon or a pinch of salt often rescue a difficult pairing? Answer: Acidity and salt make wine taste softer: less acidic, less bitter and astringent, and fuller and fruitier. Adding them to a dish balances components such as umami that would otherwise harden the wine."},
+{"p": "Question: Why can a heavily oaked white overpower a delicate dish of steamed fish? Answer: The intense toasty and vanilla flavours and the fuller body dominate a light, subtle dish, so the flavour of the fish disappears. A light, unoaked white matches its weight and intensity."},
+{"p": "Question: Which wine is low risk for a mixed buffet? Answer: A fruity, unoaked wine with moderate alcohol, low tannin and good acidity, possibly with a touch of sweetness, because it adapts to many components without becoming harsh."},
+{"h2": "Common mistakes in pairing answers"},
+{"ul": [
+"Choosing a wine by the colour of the main ingredient instead of by the components of the dish.",
+"Forgetting the sauce, which often decides the match more than the meat or fish.",
+"Pairing a dry wine with a sweet dessert because both are 'elegant'.",
+"Ignoring chilli heat when the wine is high in alcohol or tannin.",
+"Stating a match without explaining the effect on the wine, which loses marks in written answers."
+]},
+{"tip": "Exam fact: pairing is assessed in the theory unit, while the tasting unit asks you to assess two wines blind with the SAT. WSET Level 3 treats theory and tasting as separate units, each needing at least 55%, and a failed unit is retaken on its own."}
 ],
 "faq": [
 ["Which wine should I choose for a spicy dish in the WSET Level 3 exam?", "Choose a wine with low alcohol, low tannin and plenty of fruit, ideally with a little sweetness, such as an off-dry Riesling. Chilli heat makes alcohol burn more and makes tannin and acidity taste harsher, so high-alcohol, oaky or very tannic reds are the riskiest options. Justify your choice by naming these effects."],
 ["Why do salty foods pair well with sweet wines?", "Salt makes wine taste less bitter, astringent and acidic and seems to increase its body, while the sweetness of the wine contrasts with the salty food. This combination of contrast and softening explains classic matches such as salty blue cheese with Sauternes or Port. The same softening effect helps high-acid wines with salty dishes."],
 ["What are low-risk wines for food pairing in WSET 3?", "Low-risk wines are fruity, low in tannin, unoaked or lightly oaked and moderate in alcohol, sometimes with a touch of sweetness. They adapt to many foods because there is little bitterness or astringency for the food to increase. They are a safe choice when a dish has several difficult components, such as umami and chilli together."],
 ["Does fat in food change how a wine tastes?", "Yes. Fat and oil coat the mouth, which makes tannin and acidity feel softer. High-acid wines refresh the palate after rich, fatty food, and tannic reds can taste smoother with fatty red meat. A low-acid wine with a very fatty dish can feel heavy and cloying, so acidity is the key factor to consider."],
-["Is food and wine pairing assessed in the WSET Level 3 tasting exam?", "The tasting paper asks you to describe and assess two wines blind using the systematic approach, so pairing is not tested there. Pairing belongs to the theory paper, where it can appear in the multiple-choice questions or in a short written answer asking you to recommend and justify a wine for a dish."]
+["Is food and wine pairing assessed in the WSET Level 3 tasting exam?", "The tasting paper asks you to describe and assess two wines blind using the systematic approach, so pairing is not tested there. Pairing belongs to the theory paper, where it can appear in the multiple-choice questions or in a short written answer asking you to recommend and justify a wine for a dish."],
+["Which wines suit cheese in WSET Level 3 answers?", "It depends on the cheese. Fresh, acidic cheeses such as goat's cheese suit high-acid whites. Hard, salty cheeses with umami, such as aged Parmesan, can handle fuller reds because salt softens tannin. Strong blue cheeses pair well with sweet wines, since salt and sweetness contrast. Soft, creamy cheeses with high umami are harder and favour fruity wines with low tannin."],
+["Does fat in food soften tannin?", "Fat and protein in dishes such as steak or lamb coat the mouth and reduce the drying sensation of tannin, so a full-bodied tannic red feels smoother. Fat also adds richness, which high acidity can cut through, making a high-acid wine feel refreshing. In WSET 3 answers, link fat to either tannin or acidity and explain the effect on the wine."],
+["Why do oily fish and tannic red wines often clash?", "With oily fish such as mackerel or sardines, the combination of fish oils and high tannin can create an unpleasant metallic taste. A low-tannin red, a rosé or a high-acid white is safer, because acidity cuts through the oil without the tannin clash. This is a good example of why the components of the dish matter more than the colour of the wine."],
+["When should I recommend an off-dry wine in a pairing question?", "An off-dry wine is a useful recommendation when a dish has chilli heat, some sweetness or many different flavours. Residual sugar softens the burning sensation of chilli and matches mild sweetness, while good acidity keeps the wine fresh. Off-dry Riesling with low alcohol is the classic choice for spicy Asian dishes."],
+["Why is a sweet wine such as Sauternes a classic match for blue cheese?", "Blue cheese is salty and intensely flavoured. Salt makes a wine taste softer and brings out its sweetness and fruit, so a sweet wine tastes rich and balanced next to it. The high flavour intensity and full body of Sauternes also match the strength of the cheese, while its acidity cuts through the fat. It is a good example of contrast (salt and sugar) combined with matching intensity."]
 ]
 },
 "it": {
@@ -103,14 +145,56 @@
 "Giorno 6: fai un blocco di domande sull'abbinamento a tempo nell'app e trasforma ogni errore in una regola.",
 "Giorno 7: progetta un menu di tre portate e giustifica il vino di ognuna in forma causa-effetto."
 ]},
-{"tip": "Errore frequente: pensare che il rosso vada sempre con la carne. Un rosso tannico con una glassa dolce o una salsa piccante può sembrare aggressivo; contano i componenti del piatto più del suo colore o dell'ingrediente principale."}
+{"tip": "Errore frequente: pensare che il rosso vada sempre con la carne. Un rosso tannico con una glassa dolce o una salsa piccante può sembrare aggressivo; contano i componenti del piatto più del suo colore o dell'ingrediente principale."},
+{"h2": "Esempio svolto: una risposta scritta breve sull'abbinamento"},
+{"p": "Nella parte scritta, le domande sull'abbinamento di solito propongono un piatto e due o tre vini e chiedono quale funziona meglio e perché. I punti si ottengono nominando le componenti del cibo, prevedendo il loro effetto e motivando la scelta."},
+{"p": "Domanda: un ristorante serve un curry verde thailandese con pollo, latte di cocco e peperoncino fresco. Quale di questi vini consiglieresti: uno Shiraz australiano affinato in legno a 15% vol., un Sancerre secco o un Riesling Kabinett abboccato della Mosella? Motiva la scelta."},
+{"p": "Risposta modello: le componenti dominanti sono il piccante del peperoncino, una certa dolcezza dal latte di cocco e una consistenza ricca e cremosa. Il piccante aumenta la sensazione bruciante dell'alcol e rende più aspri i tannini e l'amaro del legno, quindi lo Shiraz, con alcol alto e tannini decisi, risulterebbe caldo, amaro e meno fruttato. Il Sancerre è secco e molto acido: la dolcezza del piatto lo farebbe sembrare ancora più aspro e magro, e il peperoncino ne accentuerebbe l'acidità. Il Riesling Kabinett è la scelta migliore. Il suo alcol basso non viene amplificato molto dal peperoncino, il residuo zuccherino attenua il piccante e si accorda con la dolcezza del cocco, l'acidità alta pulisce la cremosità e il frutto intenso regge le spezie aromatiche."},
+{"p": "Perché funziona: la risposta individua tre componenti, spiega perché i due vini più deboli non funzionano e dà quattro ragioni per il vino consigliato. Spiegare le opzioni scartate dimostra una comprensione completa, che vale punti."},
+{"h2": "Tabella di riferimento piatto per piatto"},
+{"p": "Esercitarsi con piatti reali fissa le regole nella memoria. Per ogni piatto, individua prima le componenti, poi il vino."},
+{"table": {"head": ["Piatto", "Componenti chiave", "Stile di vino adatto", "Perché"], "rows": [
+["Bistecca alla griglia", "Grasso, proteine, sale, intensità alta", "Rosso di corpo pieno con tannini maturi", "Proteine e grasso ammorbidiscono il tannino; il sale riduce l'amaro"],
+["Salmone affumicato", "Sale, umami, consistenza oleosa", "Bianco ad alta acidità o spumante metodo classico", "L'acidità pulisce l'untuosità; il sale ammorbidisce il vino; il tannino basso evita il gusto metallico"],
+["Insalata di caprino con vinaigrette", "Acidità, sale", "Bianco ad alta acidità senza legno, come il Sauvignon Blanc", "Un vino poco acido sembrerebbe piatto accanto al condimento"],
+["Risotto ai funghi", "Umami, crema, intensità media", "Rosso poco tannico come il Pinot Noir, o un bianco morbido", "L'umami indurisce i vini tannici; un po' di sale aiuta"],
+["Formaggio erborinato", "Sale, sapore intenso, grasso", "Vino dolce come il Sauternes o un fortificato dolce", "Sale e dolcezza contrastano; l'intensità del vino eguaglia quella del formaggio"],
+["Dessert al cioccolato", "Dolcezza, amaro, intensità", "Vino dolce e intenso, per esempio un rosso fortificato dolce", "Il vino deve essere dolce e intenso almeno quanto il dessert"]
+]}},
+{"h2": "Mini caso di studio: un solo vino per tutto il menu"},
+{"p": "Immagina un padrone di casa che vuole servire un'unica bottiglia di rosso giovane, tannico e secco, come un Barolo, con ogni portata. Seguirlo lungo il menu mostra come il cibo cambia un vino."},
+{"ul": [
+"Antipasto di asparagi: umami alto e poco sale rendono i tannini più duri e amari. Un abbinamento scarso.",
+"Pasta al pomodoro: l'acidità del sugo fa sembrare il vino meno acido e più fruttato. Un buon abbinamento, come suggerisce la tradizione italiana.",
+"Brasato di manzo: proteine, grasso e sapore ricco ammorbidiscono i tannini e si accordano con l'intensità del vino. Il miglior abbinamento della serata.",
+"Crostata di frutta: la dolcezza rende il vino secco magro, aspro e amaro. Un errore evidente; servirebbe un vino dolce."
+]},
+{"p": "La lezione è che il vino non è cambiato: ogni piatto ha cambiato il modo in cui lo percepiamo. È proprio il ragionamento che gli esaminatori vogliono vedere."},
+{"h2": "Domande di esempio con risposta"},
+{"p": "Domanda: perché una spruzzata di limone o un pizzico di sale salvano spesso un abbinamento difficile? Risposta: acidità e sale rendono il vino più morbido: meno acido, meno amaro e astringente, più pieno e fruttato. Aggiungerli a un piatto bilancia componenti come l'umami che altrimenti indurirebbero il vino."},
+{"p": "Domanda: perché un bianco molto affinato in legno può sovrastare un piatto delicato di pesce al vapore? Risposta: gli aromi intensi di tostato e vaniglia e il corpo più pieno dominano un piatto leggero e sottile, e il sapore del pesce scompare. Un bianco leggero senza legno ne eguaglia peso e intensità."},
+{"p": "Domanda: quale vino è a basso rischio per un buffet misto? Risposta: un vino fruttato senza legno, con alcol moderato, tannino basso e buona acidità, magari con un tocco di dolcezza, perché si adatta a molte componenti senza diventare aspro."},
+{"h2": "Errori comuni nelle risposte sull'abbinamento"},
+{"ul": [
+"Scegliere il vino in base al colore dell'ingrediente principale anziché alle componenti del piatto.",
+"Dimenticare la salsa, che spesso decide l'abbinamento più della carne o del pesce.",
+"Abbinare un vino secco a un dessert dolce perché entrambi sono 'eleganti'.",
+"Ignorare il piccante quando il vino è ricco di alcol o di tannino.",
+"Indicare un abbinamento senza spiegarne l'effetto sul vino, il che fa perdere punti nelle risposte scritte."
+]},
+{"tip": "Dato d'esame: l'abbinamento è valutato nell'unità di teoria, mentre l'unità di degustazione chiede di valutare due vini alla cieca con il SAT. Il WSET Level 3 considera teoria e degustazione come unità separate, ciascuna con almeno il 55%, e un'unità non superata si ripete da sola."}
 ],
 "faq": [
 ["Quale vino scegliere per un piatto piccante all'esame WSET 3?", "Scegli un vino poco alcolico, poco tannico e molto fruttato, meglio se con un po' di dolcezza, come un Riesling abboccato. Il piccante fa bruciare di più l'alcol e rende tannino e acidità più aggressivi, quindi rossi alcolici, molto legnosi o molto tannici sono le opzioni più rischiose. Giustifica la scelta citando questi effetti."],
 ["Perché i cibi salati stanno bene con i vini dolci?", "Il sale fa sembrare il vino meno amaro, astringente e acido e ne aumenta la sensazione di corpo, mentre la dolcezza del vino crea un contrasto con il cibo salato. Questa combinazione di contrasto e ammorbidimento spiega abbinamenti classici come erborinato salato con Sauternes o Porto. Lo stesso effetto aiuta i vini acidi con piatti salati."],
 ["Quali sono i vini a basso rischio per l'abbinamento nel WSET 3?", "I vini a basso rischio sono fruttati, poco tannici, senza legno o con poco legno e di alcol moderato, a volte con un tocco di dolcezza. Si adattano a molti cibi perché hanno poco amaro o astringenza che il cibo possa accentuare. Sono una scelta sicura quando un piatto ha più componenti difficili, come umami e piccante insieme."],
 ["Il grasso del cibo cambia il sapore del vino?", "Sì. Grassi e oli rivestono la bocca e fanno percepire tannino e acidità più morbidi. I vini acidi rinfrescano il palato dopo cibi ricchi e grassi, e i rossi tannici possono sembrare più vellutati con carni rosse grasse. Un vino poco acido con un piatto molto grasso può risultare pesante e stucchevole: l'acidità è il fattore chiave."],
-["L'abbinamento cibo-vino è valutato nella prova di degustazione WSET 3?", "La prova di degustazione chiede di descrivere e valutare alla cieca due vini con l'approccio sistematico, quindi l'abbinamento non è verificato lì. Fa parte della prova teorica, dove può comparire nelle domande a scelta multipla o in una domanda a risposta breve che chiede di consigliare e giustificare un vino per un piatto."]
+["L'abbinamento cibo-vino è valutato nella prova di degustazione WSET 3?", "La prova di degustazione chiede di descrivere e valutare alla cieca due vini con l'approccio sistematico, quindi l'abbinamento non è verificato lì. Fa parte della prova teorica, dove può comparire nelle domande a scelta multipla o in una domanda a risposta breve che chiede di consigliare e giustificare un vino per un piatto."],
+["Quali vini si abbinano al formaggio nelle risposte del WSET Level 3?", "Dipende dal formaggio. I formaggi freschi e acidi come il caprino vanno con bianchi ad alta acidità. I formaggi stagionati e sapidi ricchi di umami, come il Parmigiano invecchiato, reggono rossi più strutturati perché il sale ammorbidisce il tannino. Gli erborinati intensi stanno bene con i vini dolci, grazie al contrasto tra sale e dolcezza. I formaggi morbidi e cremosi con molto umami sono più difficili e preferiscono vini fruttati poco tannici."],
+["Il grasso nel cibo ammorbidisce il tannino?", "Grasso e proteine in piatti come bistecca o agnello rivestono la bocca e riducono la sensazione asciugante del tannino, così un rosso strutturato e tannico risulta più morbido. Il grasso aggiunge anche ricchezza, che un'acidità alta riesce a pulire, rendendo rinfrescante un vino acido. Nelle risposte del WSET 3, collega il grasso al tannino o all'acidità e spiega l'effetto sul vino."],
+["Perché il pesce azzurro e i rossi tannici spesso non vanno d'accordo?", "Con pesci grassi come sgombro o sardine, la combinazione di oli del pesce e tannino alto può creare uno sgradevole gusto metallico. Un rosso poco tannico, un rosato o un bianco ad alta acidità sono più sicuri, perché l'acidità pulisce l'untuosità senza lo scontro con il tannino. È un buon esempio di come le componenti del piatto contino più del colore del vino."],
+["Quando conviene consigliare un vino abboccato in una domanda sull'abbinamento?", "Un vino abboccato è un consiglio utile quando il piatto è piccante, ha una certa dolcezza o molti sapori diversi. Il residuo zuccherino attenua la sensazione bruciante del peperoncino e si accorda con una dolcezza moderata, mentre una buona acidità mantiene il vino fresco. Il Riesling abboccato a basso grado alcolico è la scelta classica per i piatti asiatici speziati."],
+["Perché un vino dolce come il Sauternes è un abbinamento classico per l'erborinato?", "Il formaggio erborinato è salato e di sapore intenso. Il sale fa sembrare il vino più morbido ed esalta dolcezza e frutto, quindi un vino dolce risulta ricco ed equilibrato. L'intensità aromatica alta e il corpo pieno del Sauternes eguagliano la forza del formaggio, mentre la sua acidità pulisce il grasso. È un buon esempio di contrasto (sale e zucchero) unito a un'intensità simile."]
 ]
 },
 "fr": {
@@ -160,14 +244,56 @@
 "Jour 6 : faites une série chronométrée de questions sur les accords dans l'appli et transformez chaque erreur en règle.",
 "Jour 7 : composez un menu en trois plats et justifiez le vin de chacun en cause-effet."
 ]},
-{"tip": "Erreur fréquente : croire qu'un rouge va toujours avec la viande. Un rouge tannique avec un glaçage sucré ou une sauce pimentée peut paraître dur ; les composants du plat comptent plus que sa couleur ou son ingrédient principal."}
+{"tip": "Erreur fréquente : croire qu'un rouge va toujours avec la viande. Un rouge tannique avec un glaçage sucré ou une sauce pimentée peut paraître dur ; les composants du plat comptent plus que sa couleur ou son ingrédient principal."},
+{"h2": "Exemple corrigé : une réponse écrite courte sur les accords"},
+{"p": "Dans la partie écrite, les questions d'accords mets-vins proposent en général un plat et deux ou trois vins, et demandent lequel convient le mieux et pourquoi. Les points viennent de l'identification des composantes du plat, de la prévision de leur effet et de la justification du choix."},
+{"p": "Question : un restaurant sert un curry vert thaï au poulet, au lait de coco et au piment frais. Lequel de ces vins recommanderiez-vous : une Shiraz australienne boisée à 15 % vol., un Sancerre sec ou un Riesling Kabinett demi-sec de Moselle ? Justifiez votre choix."},
+{"p": "Réponse modèle : les composantes dominantes sont le piquant du piment, une certaine douceur venue du lait de coco et une texture riche et crémeuse. Le piment accentue la sensation brûlante de l'alcool et durcit les tanins et l'amertume du bois : la Shiraz boisée, riche en alcool et aux tanins fermes, paraîtrait chaude, amère et moins fruitée. Le Sancerre est sec et très acide : la douceur du plat le rendrait encore plus aigre et maigre, et le piment ferait ressortir son acidité. Le Riesling Kabinett est le meilleur choix. Son alcool modéré est peu amplifié par le piment, son sucre résiduel adoucit le piquant et s'accorde à la douceur de la coco, son acidité élevée tranche la texture crémeuse et son fruit intense tient tête aux épices aromatiques."},
+{"p": "Pourquoi cela fonctionne : la réponse identifie trois composantes, explique pourquoi les deux autres vins échouent et donne quatre raisons pour le vin recommandé. Expliquer les options écartées montre une compréhension complète, ce qui rapporte des points."},
+{"h2": "Tableau de référence plat par plat"},
+{"p": "S'entraîner avec des plats réels ancre les règles. Pour chaque plat, repérez d'abord les composantes, puis choisissez le vin."},
+{"table": {"head": ["Plat", "Composantes clés", "Style de vin adapté", "Pourquoi"], "rows": [
+["Steak grillé", "Gras, protéines, sel, forte intensité", "Rouge corsé aux tanins mûrs", "Protéines et gras assouplissent les tanins ; le sel réduit l'amertume"],
+["Saumon fumé", "Sel, umami, texture huileuse", "Blanc vif ou effervescent de méthode traditionnelle", "L'acidité tranche le gras ; le sel assouplit le vin ; peu de tanins évite un goût métallique"],
+["Salade de chèvre à la vinaigrette", "Acidité, sel", "Blanc vif non boisé comme le Sauvignon Blanc", "Un vin peu acide paraîtrait plat face à la vinaigrette"],
+["Risotto aux champignons", "Umami, crème, intensité moyenne", "Rouge peu tannique comme le Pinot Noir, ou un blanc rond", "L'umami durcit les vins tanniques ; un peu de sel aide"],
+["Fromage à pâte persillée", "Sel, saveur intense, gras", "Vin doux comme le Sauternes ou un vin muté doux", "Sel et sucre se répondent ; l'intensité du vin égale celle du fromage"],
+["Dessert au chocolat", "Sucre, amertume, intensité", "Vin doux et intense, par exemple un rouge muté doux", "Le vin doit être au moins aussi doux et intense que le dessert"]
+]}},
+{"h2": "Mini-étude de cas : un seul vin pour tout un menu"},
+{"p": "Imaginez un hôte qui veut servir une seule bouteille de rouge jeune, tannique et sec, comme un Barolo, avec chaque plat. Le suivre au fil du menu montre comment la nourriture transforme un vin."},
+{"ul": [
+"Entrée d'asperges : beaucoup d'umami et peu de sel rendent les tanins plus durs et amers. Un accord médiocre.",
+"Pâtes à la tomate : l'acidité de la sauce rend le vin moins acide et plus fruité. Un bon accord, comme le suggère la tradition italienne.",
+"Bœuf braisé : protéines, gras et saveur riche assouplissent les tanins et répondent à l'intensité du vin. Le meilleur accord de la soirée.",
+"Tarte aux fruits : le sucre rend le vin sec maigre, aigre et amer. Un désaccord net ; il faudrait un vin doux."
+]},
+{"p": "La leçon : le vin n'a pas changé, c'est chaque plat qui a modifié sa perception. C'est exactement le raisonnement attendu par les correcteurs."},
+{"h2": "Questions d'entraînement avec réponses rédigées"},
+{"p": "Question : pourquoi un filet de citron ou une pincée de sel sauvent-ils souvent un accord difficile ? Réponse : l'acidité et le sel rendent le vin plus souple : moins acide, moins amer et astringent, plus ample et fruité. Les ajouter au plat compense des composantes comme l'umami qui durciraient sinon le vin."},
+{"p": "Question : pourquoi un blanc très boisé peut-il écraser un plat délicat de poisson vapeur ? Réponse : les arômes intenses de toasté et de vanille et le corps plus ample dominent un plat léger et subtil, et le goût du poisson disparaît. Un blanc léger non boisé correspond à son poids et à son intensité."},
+{"p": "Question : quel vin est peu risqué pour un buffet varié ? Réponse : un vin fruité non boisé, à l'alcool modéré, peu tannique et à bonne acidité, éventuellement avec une pointe de douceur, car il s'adapte à de nombreuses composantes sans devenir dur."},
+{"h2": "Erreurs fréquentes dans les réponses sur les accords"},
+{"ul": [
+"Choisir le vin selon la couleur de l'ingrédient principal plutôt que selon les composantes du plat.",
+"Oublier la sauce, qui décide souvent de l'accord plus que la viande ou le poisson.",
+"Associer un vin sec à un dessert sucré parce que les deux sont « élégants ».",
+"Ignorer le piment quand le vin est riche en alcool ou en tanins.",
+"Proposer un accord sans expliquer son effet sur le vin, ce qui fait perdre des points à l'écrit."
+]},
+{"tip": "À savoir pour l'examen : les accords sont évalués dans l'unité théorique, tandis que l'unité de dégustation demande d'évaluer deux vins à l'aveugle avec la SAT. Le WSET Level 3 traite théorie et dégustation comme deux unités distinctes, chacune exigeant au moins 55 %, et une unité échouée se repasse seule."}
 ],
 "faq": [
 ["Quel vin choisir pour un plat épicé à l'examen du WSET niveau 3 ?", "Choisissez un vin peu alcooleux, peu tannique et bien fruité, idéalement avec un peu de sucre, comme un riesling demi-sec. Le piment accentue la brûlure de l'alcool et durcit tanins et acidité : les rouges alcooleux, très boisés ou très tanniques sont donc les options les plus risquées. Justifiez votre choix en citant ces effets."],
 ["Pourquoi les aliments salés s'accordent-ils avec les vins liquoreux ?", "Le sel rend le vin moins amer, moins astringent et moins acide et en augmente la sensation de corps, tandis que la douceur du vin contraste avec le plat salé. Ce mélange de contraste et d'assouplissement explique des accords classiques comme fromage bleu et sauternes ou porto. Le même effet aide aussi les vins vifs avec les plats salés."],
 ["Quels sont les vins à faible risque en accords mets-vins au WSET niveau 3 ?", "Ce sont des vins fruités, peu tanniques, non boisés ou peu boisés et d'alcool modéré, parfois avec une pointe de sucre. Ils s'adaptent à beaucoup de plats car ils ont peu d'amertume ou d'astringence que le plat pourrait accentuer. C'est un choix sûr quand un plat réunit plusieurs composants difficiles, comme l'umami et le piment."],
 ["Le gras d'un plat change-t-il le goût du vin ?", "Oui. Le gras et l'huile tapissent la bouche et font paraître tanins et acidité plus souples. Les vins vifs rafraîchissent le palais après un plat riche et gras, et les rouges tanniques peuvent sembler plus soyeux avec une viande rouge grasse. Un vin peu acide face à un plat très gras peut paraître lourd et écœurant : l'acidité est le critère clé."],
-["Les accords mets-vins sont-ils évalués à l'épreuve de dégustation du WSET niveau 3 ?", "L'épreuve de dégustation demande de décrire et d'évaluer deux vins à l'aveugle avec l'approche systématique : les accords n'y sont donc pas testés. Ils relèvent de l'épreuve théorique, où ils peuvent apparaître dans les QCM ou dans une question à réponse courte demandant de recommander et de justifier un vin pour un plat."]
+["Les accords mets-vins sont-ils évalués à l'épreuve de dégustation du WSET niveau 3 ?", "L'épreuve de dégustation demande de décrire et d'évaluer deux vins à l'aveugle avec l'approche systématique : les accords n'y sont donc pas testés. Ils relèvent de l'épreuve théorique, où ils peuvent apparaître dans les QCM ou dans une question à réponse courte demandant de recommander et de justifier un vin pour un plat."],
+["Quels vins associer au fromage dans les réponses du WSET Level 3 ?", "Tout dépend du fromage. Les fromages frais et acides comme le chèvre vont avec des blancs vifs. Les fromages à pâte dure, salés et riches en umami, comme un vieux parmesan, supportent des rouges plus étoffés, car le sel assouplit les tanins. Les bleus puissants s'accordent avec des vins doux grâce au contraste sel-sucre. Les pâtes molles et crémeuses riches en umami sont plus délicates et demandent des vins fruités peu tanniques."],
+["Le gras des aliments assouplit-il les tanins ?", "Le gras et les protéines de plats comme un steak ou de l'agneau tapissent la bouche et réduisent la sensation asséchante des tanins : un rouge corsé et tannique paraît plus soyeux. Le gras apporte aussi de la richesse, qu'une acidité élevée vient trancher, ce qui rend un vin vif rafraîchissant. Dans vos réponses au WSET 3, reliez le gras aux tanins ou à l'acidité et expliquez l'effet sur le vin."],
+["Pourquoi les poissons gras et les rouges tanniques s'accordent-ils mal ?", "Avec des poissons gras comme le maquereau ou la sardine, l'association des huiles du poisson et de tanins élevés peut créer un désagréable goût métallique. Un rouge peu tannique, un rosé ou un blanc vif sont plus sûrs, car l'acidité tranche le gras sans heurt avec les tanins. C'est un bon exemple de l'importance des composantes du plat plutôt que de la couleur du vin."],
+["Quand recommander un vin demi-sec dans une question d'accord ?", "Un vin demi-sec est une bonne recommandation quand un plat est pimenté, légèrement sucré ou mêle de nombreuses saveurs. Le sucre résiduel atténue la sensation brûlante du piment et répond à une douceur modérée, tandis qu'une bonne acidité garde le vin frais. Le Riesling demi-sec peu alcoolisé est le choix classique pour les plats asiatiques épicés."],
+["Pourquoi un vin doux comme le Sauternes est-il un accord classique avec le bleu ?", "Le bleu est salé et très intense. Le sel rend le vin plus souple et fait ressortir sa douceur et son fruit, si bien qu'un vin doux paraît riche et équilibré à ses côtés. L'intensité aromatique et le corps ample du Sauternes égalent la puissance du fromage, tandis que son acidité tranche le gras. C'est un bel exemple de contraste (sel et sucre) associé à une intensité comparable."]
 ]
 },
 "es": {
@@ -217,14 +343,56 @@
 "Día 6: haz una tanda cronometrada de preguntas de maridaje en la app y convierte cada fallo en una regla.",
 "Día 7: diseña un menú de tres platos y justifica el vino de cada uno en formato causa-efecto."
 ]},
-{"tip": "Error frecuente: dar por hecho que el tinto siempre va con la carne. Un tinto tánico con un glaseado dulce o una salsa picante puede resultar áspero; importan más los componentes del plato que su color o su ingrediente principal."}
+{"tip": "Error frecuente: dar por hecho que el tinto siempre va con la carne. Un tinto tánico con un glaseado dulce o una salsa picante puede resultar áspero; importan más los componentes del plato que su color o su ingrediente principal."},
+{"h2": "Ejemplo resuelto: una respuesta escrita corta sobre maridaje"},
+{"p": "En la parte escrita, las preguntas de maridaje suelen darte un plato y dos o tres vinos, y te piden cuál funciona mejor y por qué. Los puntos se consiguen nombrando los componentes de la comida, prediciendo su efecto y justificando la elección."},
+{"p": "Pregunta: un restaurante sirve un curry verde tailandés con pollo, leche de coco y guindilla fresca. ¿Cuál de estos vinos recomendarías: un Shiraz australiano con crianza en roble de 15 % vol., un Sancerre seco o un Riesling Kabinett semiseco del Mosela? Justifica tu elección."},
+{"p": "Respuesta modelo: los componentes dominantes son el picante de la guindilla, cierto dulzor de la leche de coco y una textura rica y cremosa. El picante aumenta la sensación ardiente del alcohol y endurece los taninos y el amargor del roble, así que el Shiraz, con alcohol alto y taninos firmes, resultaría ardiente, amargo y menos afrutado. El Sancerre es seco y de acidez alta: el dulzor del plato lo haría parecer aún más ácido y delgado, y la guindilla resaltaría su acidez. El Riesling Kabinett es la mejor opción. Su alcohol bajo apenas se ve amplificado por la guindilla, su azúcar residual suaviza el picante y acompaña el dulzor del coco, su acidez alta limpia la cremosidad y su fruta intensa aguanta las especias aromáticas."},
+{"p": "Por qué funciona: la respuesta identifica tres componentes, explica por qué fallan los dos vinos más débiles y da cuatro razones para el vino recomendado. Explicar las opciones descartadas demuestra una comprensión completa, y eso suma puntos."},
+{"h2": "Tabla de referencia plato a plato"},
+{"p": "Practicar con platos reales fija las reglas en la memoria. Para cada plato, identifica primero los componentes y después el vino."},
+{"table": {"head": ["Plato", "Componentes clave", "Estilo de vino adecuado", "Por qué"], "rows": [
+["Chuletón a la parrilla", "Grasa, proteína, sal, intensidad alta", "Tinto con cuerpo y taninos maduros", "Proteína y grasa suavizan el tanino; la sal reduce el amargor"],
+["Salmón ahumado", "Sal, umami, textura grasa", "Blanco de acidez alta o espumoso de método tradicional", "La acidez limpia la grasa; la sal suaviza el vino; el tanino bajo evita un sabor metálico"],
+["Ensalada de queso de cabra con vinagreta", "Acidez, sal", "Blanco de acidez alta sin madera, como un Sauvignon Blanc", "Un vino de poca acidez parecería plano frente al aliño"],
+["Risotto de setas", "Umami, nata, intensidad media", "Tinto de poco tanino como un Pinot Noir, o un blanco redondo", "El umami endurece los vinos tánicos; un poco de sal ayuda"],
+["Queso azul", "Sal, sabor intenso, grasa", "Vino dulce como un Sauternes o un generoso dulce", "Sal y dulzor contrastan; la intensidad del vino iguala la del queso"],
+["Postre de chocolate", "Dulzor, amargor, intensidad", "Vino dulce e intenso, por ejemplo un tinto generoso dulce", "El vino debe ser al menos tan dulce e intenso como el postre"]
+]}},
+{"h2": "Minicaso práctico: un solo vino para todo el menú"},
+{"p": "Imagina un anfitrión que quiere servir una sola botella de tinto joven, tánico y seco, como un Barolo, con cada plato. Seguirlo a lo largo del menú muestra cómo la comida cambia el vino."},
+{"ul": [
+"Entrante de espárragos: mucho umami y poca sal hacen que los taninos parezcan más duros y amargos. Un maridaje pobre.",
+"Pasta con tomate: la acidez de la salsa hace que el vino parezca menos ácido y más afrutado. Un buen maridaje, como sugiere la tradición italiana.",
+"Ternera estofada: proteína, grasa y sabor intenso suavizan los taninos y están a la altura del vino. El mejor maridaje de la noche.",
+"Tarta de frutas: el dulzor hace que el vino seco parezca delgado, ácido y amargo. Un desacierto claro; haría falta un vino dulce."
+]},
+{"p": "La lección es que el vino no cambió: cada plato cambió la forma de percibirlo. Ese es exactamente el razonamiento que buscan los examinadores."},
+{"h2": "Preguntas de práctica con respuesta"},
+{"p": "Pregunta: ¿por qué unas gotas de limón o una pizca de sal suelen salvar un maridaje difícil? Respuesta: la acidez y la sal hacen que el vino parezca más suave: menos ácido, menos amargo y astringente, más lleno y afrutado. Añadirlas al plato equilibra componentes como el umami que, si no, endurecerían el vino."},
+{"p": "Pregunta: ¿por qué un blanco con mucha madera puede tapar un plato delicado de pescado al vapor? Respuesta: los aromas intensos de tostado y vainilla y el cuerpo más lleno dominan un plato ligero y sutil, y el sabor del pescado desaparece. Un blanco ligero sin madera está a la altura de su peso e intensidad."},
+{"p": "Pregunta: ¿qué vino es de bajo riesgo para un bufé variado? Respuesta: un vino afrutado sin madera, con alcohol moderado, poco tanino y buena acidez, quizá con un toque de dulzor, porque se adapta a muchos componentes sin volverse áspero."},
+{"h2": "Errores frecuentes en las respuestas de maridaje"},
+{"ul": [
+"Elegir el vino por el color del ingrediente principal en lugar de por los componentes del plato.",
+"Olvidar la salsa, que a menudo decide el maridaje más que la carne o el pescado.",
+"Combinar un vino seco con un postre dulce porque ambos son «elegantes».",
+"Ignorar el picante cuando el vino tiene mucho alcohol o tanino.",
+"Proponer un maridaje sin explicar su efecto en el vino, lo que resta puntos en las respuestas escritas."
+]},
+{"tip": "Dato de examen: el maridaje se evalúa en la unidad de teoría, mientras que la unidad de cata te pide evaluar dos vinos a ciegas con el SAT. El WSET Level 3 trata teoría y cata como unidades separadas, cada una con al menos un 55 %, y una unidad suspendida se repite por separado."}
 ],
 "faq": [
 ["¿Qué vino elegir para un plato picante en el examen del WSET 3?", "Elige un vino de poco alcohol, poco tanino y mucha fruta, a ser posible con algo de dulzor, como un Riesling semiseco. El picante hace que el alcohol queme más y que el tanino y la acidez resulten más agresivos, así que los tintos alcohólicos, muy marcados por la madera o muy tánicos son las opciones más arriesgadas. Justifica la elección citando estos efectos."],
 ["¿Por qué los alimentos salados maridan bien con vinos dulces?", "La sal hace que el vino parezca menos amargo, astringente y ácido y aumenta la sensación de cuerpo, mientras que el dulzor del vino contrasta con la comida salada. Esa mezcla de contraste y suavizado explica maridajes clásicos como el queso azul con Sauternes u Oporto. El mismo efecto ayuda a los vinos de acidez alta con platos salados."],
 ["¿Qué son los vinos de bajo riesgo para maridar en el WSET 3?", "Los vinos de bajo riesgo son afrutados, con poco tanino, sin madera o con poca madera y de alcohol moderado, a veces con un toque de dulzor. Se adaptan a muchos platos porque tienen poco amargor o astringencia que la comida pueda acentuar. Son una opción segura cuando un plato reúne varios componentes difíciles, como umami y picante a la vez."],
 ["¿La grasa de la comida cambia el sabor del vino?", "Sí. La grasa y el aceite recubren la boca y hacen que el tanino y la acidez se perciban más suaves. Los vinos de acidez alta refrescan el paladar tras una comida rica y grasa, y los tintos tánicos pueden parecer más sedosos con carne roja grasa. Un vino de poca acidez con un plato muy graso puede resultar pesado y empalagoso: la acidez es el factor clave."],
-["¿Se evalúa el maridaje en el examen de cata del WSET nivel 3?", "La prueba de cata pide describir y evaluar dos vinos a ciegas con el enfoque sistemático, así que el maridaje no se evalúa ahí. Forma parte del examen teórico, donde puede aparecer en las preguntas tipo test o en una pregunta de respuesta corta que pida recomendar y justificar un vino para un plato."]
+["¿Se evalúa el maridaje en el examen de cata del WSET nivel 3?", "La prueba de cata pide describir y evaluar dos vinos a ciegas con el enfoque sistemático, así que el maridaje no se evalúa ahí. Forma parte del examen teórico, donde puede aparecer en las preguntas tipo test o en una pregunta de respuesta corta que pida recomendar y justificar un vino para un plato."],
+["¿Qué vinos van con el queso en las respuestas del WSET Level 3?", "Depende del queso. Los quesos frescos y ácidos como el de cabra van con blancos de acidez alta. Los quesos curados y salados con umami, como un parmesano añejo, aguantan tintos con más cuerpo porque la sal suaviza el tanino. Los azules intensos maridan bien con vinos dulces por el contraste entre sal y dulzor. Los quesos blandos y cremosos con mucho umami son más difíciles y prefieren vinos afrutados de poco tanino."],
+["¿La grasa de la comida suaviza el tanino?", "La grasa y la proteína de platos como un chuletón o el cordero recubren la boca y reducen la sensación secante del tanino, así que un tinto con cuerpo y tánico resulta más sedoso. La grasa también aporta riqueza, que una acidez alta limpia, de modo que un vino ácido resulta refrescante. En tus respuestas del WSET 3, relaciona la grasa con el tanino o con la acidez y explica el efecto en el vino."],
+["¿Por qué el pescado azul y los tintos tánicos no suelen ir bien?", "Con pescados grasos como la caballa o la sardina, la combinación de los aceites del pescado y un tanino alto puede crear un desagradable sabor metálico. Un tinto de poco tanino, un rosado o un blanco de acidez alta son más seguros, porque la acidez limpia la grasa sin choque con el tanino. Es un buen ejemplo de que los componentes del plato importan más que el color del vino."],
+["¿Cuándo conviene recomendar un vino semiseco en una pregunta de maridaje?", "Un vino semiseco es una buena recomendación cuando el plato es picante, tiene algo de dulzor o muchos sabores distintos. El azúcar residual suaviza la sensación ardiente de la guindilla y acompaña un dulzor moderado, mientras que una buena acidez mantiene el vino fresco. El Riesling semiseco de baja graduación es la elección clásica para los platos asiáticos especiados."],
+["¿Por qué un vino dulce como el Sauternes es un maridaje clásico con el queso azul?", "El queso azul es salado y de sabor intenso. La sal hace que el vino parezca más suave y realza su dulzor y su fruta, así que un vino dulce resulta rico y equilibrado a su lado. La alta intensidad aromática y el cuerpo lleno del Sauternes igualan la fuerza del queso, y su acidez limpia la grasa. Es un buen ejemplo de contraste (sal y azúcar) unido a una intensidad similar."]
 ]
 }
 }
