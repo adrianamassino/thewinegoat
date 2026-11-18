@@ -265,5 +265,806 @@
     "Plan at least as long as the theory paper itself, and often more. Marking takes little time; the valuable part is understanding every wrong or doubtful answer, comparing your written answers with the expected points and turning the patterns into a plan for the next week. Candidates who review thoroughly usually improve faster than those who simply take more mocks."
    ]
   ]
+ },
+ "it": {
+  "sections": [
+   {
+    "h2": "Come fare una simulazione completa dell'esame WSET Livello 3 a casa"
+   },
+   {
+    "p": "Una simulazione funziona solo se assomiglia davvero all'esame. Leggere domande sul divano con gli appunti a portata di mano misura la memoria con un aiuto, non la tua preparazione. La routine seguente trasforma una serata qualunque in una prova realistica della parte teorica e, quando hai dei vini a disposizione, anche della degustazione."
+   },
+   {
+    "ol": [
+     "Scegli un momento in cui puoi lavorare per tutta la durata senza interruzioni, possibilmente alla stessa ora del tuo esame vero.",
+     "Libera il tavolo: niente appunti, niente telefono, solo penne, fogli e un orologio o un timer ben visibile.",
+     "Stampa o apri le domande e avvia il timer per l'intera prova prima di leggere qualsiasi cosa.",
+     "Scrivi le risposte alle 50 domande multiple su un foglio a parte, così potrai correggerle senza vedere il tuo primo istinto cerchiato sulla domanda.",
+     "Scrivi a mano le quattro risposte brevi. Digitare è più veloce e nasconde il vero problema: scrivere a mano sotto pressione.",
+     "Fermati quando il timer si ferma, anche se una domanda è incompleta. La risposta incompleta è un'informazione preziosa.",
+     "Se includi la degustazione, servi due vini scelti e coperti da un'altra persona e scrivi per ciascuno una nota SAT completa in un tempo fisso."
+    ]
+   },
+   {
+    "tip": "Chiedi a un amico di scegliere e coprire i vini della tua degustazione di prova. Se li servi tu, le tue conclusioni saranno influenzate da ciò che già sai e l'esercizio perde gran parte del suo valore."
+   },
+   {
+    "h2": "Un programma tipo per una sessione di simulazione"
+   },
+   {
+    "table": {
+     "head": [
+      "Blocco",
+      "Durata",
+      "Che cosa fai"
+     ],
+     "rows": [
+      [
+       "Preparazione",
+       "10 minuti",
+       "Liberi il tavolo, prepari i fogli, imposti il timer, servi e copri i vini"
+      ],
+      [
+       "Prova teorica",
+       "Circa 2 ore",
+       "50 domande a risposta multipla e 4 risposte brevi con la suddivisione dei tempi prevista"
+      ],
+      [
+       "Pausa",
+       "10-15 minuti",
+       "Acqua, niente sapori forti, una breve passeggiata"
+      ],
+      [
+       "Degustazione",
+       "Circa 30 minuti",
+       "Nota SAT completa e conclusioni per due vini"
+      ],
+      [
+       "Correzione",
+       "30-45 minuti",
+       "Correggi le domande multiple, confronti le risposte scritte con i punti chiave, scopri i vini"
+      ],
+      [
+       "Analisi",
+       "45-60 minuti",
+       "Registro degli errori, elenco dei punti deboli, piano per la settimana successiva"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "È una sessione lunga, ed è proprio questo il punto. La concentrazione è un'abilità, e l'ultima risposta scritta del giorno d'esame la scrive qualcuno che lavora già da ben più di un'ora. Se non riesci a ritagliarti un blocco unico, dividi la simulazione in una sessione di teoria e una di degustazione in due giorni diversi, ma mantieni ogni parte completa e cronometrata."
+   },
+   {
+    "h2": "Come correggere e analizzare davvero la simulazione"
+   },
+   {
+    "p": "Il punteggio è il risultato meno interessante di una simulazione. Conta il motivo per cui hai perso ogni punto, perché ogni causa ha un rimedio diverso. Tieni un registro degli errori: una semplice tabella in cui annoti ogni risposta sbagliata o incerta con la sua causa. Dopo due o tre simulazioni emergono schemi che nessun punteggio singolo può mostrarti."
+   },
+   {
+    "table": {
+     "head": [
+      "Causa dell'errore",
+      "Come la riconosci",
+      "Rimedio"
+     ],
+     "rows": [
+      [
+       "Lacuna",
+       "Non conoscevi affatto il dato",
+       "Studia l'argomento, poi rispondi a dieci domande su di esso entro la settimana"
+      ],
+      [
+       "Confusione",
+       "Hai scambiato due regioni, vitigni o termini simili",
+       "Costruisci una tabella di confronto tra i due"
+      ],
+      [
+       "Lettura sbagliata",
+       "Sapevi la risposta ma non hai visto NON, principale o tipicamente",
+       "Sottolinea i qualificatori in ogni domanda di esercitazione per una settimana"
+      ],
+      [
+       "Risposta scritta incompleta",
+       "Punti corretti ma sottopunti mancanti o non spiegati",
+       "Pianifica ogni risposta per parole chiave prima di scrivere"
+      ],
+      [
+       "Tempi",
+       "Ultime domande affrettate o in bianco",
+       "Esercitati con una suddivisione dei tempi più rigida e un timer visibile"
+      ],
+      [
+       "Taratura in degustazione",
+       "Livelli strutturali spostati di un gradino",
+       "Degusta con un compagno e confronta i livelli vino per vino"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Applica a ogni simulazione la stessa routine di analisi: correggi, registra, scegli le tre cause più frequenti e trasformale in azioni per la settimana seguente. Una simulazione non analizzata è soprattutto una serata persa."
+   },
+   {
+    "h2": "Mini caso di studio: tre simulazioni, tre lezioni"
+   },
+   {
+    "p": "Prendiamo una candidata tipo, che chiameremo Sara, che prepara il WSET Livello 3 lavorando a tempo pieno. La sua prima simulazione, sei settimane prima dell'esame, dà un buon risultato nelle domande multiple ma risposte scritte deboli: conosceva le regioni, ma le sue risposte erano elenchi di fatti senza spiegazione. Il registro degli errori mostrava che la maggior parte dei punti persi era nelle domande con spiega, dove aveva descritto invece di spiegare."
+   },
+   {
+    "p": "Nelle due settimane successive scrive una risposta breve al giorno, obbligandosi a inserire un perché in ogni frase. La seconda simulazione mostra un chiaro progresso nelle risposte scritte ma rivela un nuovo problema: finisce il tempo e lascia in bianco l'ultimo sottopunto. Fissa allora un limite di tempo per ogni domanda aperta e inizia a usare un timer visibile durante le esercitazioni."
+   },
+   {
+    "p": "La terza simulazione, due settimane prima dell'esame, è equilibrata in tutte le parti, e gli errori rimasti sono soprattutto confusioni tra regioni vicine, come le diverse denominazioni del Rodano settentrionale. Dedica gli ultimi giorni alle tabelle di confronto. La lezione è che ogni simulazione ha rivelato una debolezza diversa, e nessuna sarebbe emersa limitandosi a rileggere gli appunti."
+   },
+   {
+    "h2": "Altre domande d'esempio, con risposta e spiegazione"
+   },
+   {
+    "p": "Ecco dieci domande in più nello stile della parte a risposta multipla, scritte come testo per metterti alla prova prima di leggere ogni risposta. Copri la risposta, decidi, poi controlla la spiegazione."
+   },
+   {
+    "p": "Domanda 1: quale vitigno si usa per i bianchi di Sancerre? Risposta: Sauvignon Blanc. Sancerre si trova nei Central Vineyards della Loira, dove un clima continentale fresco dà vini di acidità alta, corpo da leggero a medio e note di frutta verde ed erbacee, di solito senza legno percepibile."
+   },
+   {
+    "p": "Domanda 2: qual è il vitigno principale del Barolo? Risposta: Nebbiolo. Dà vini spesso scarichi di colore ma ricchi di acidità e tannino, con aromi di ciliegia rossa, rosa e, con l'età, catrame e frutta secca. La struttura importante spiega perché il Barolo richieda un lungo affinamento prima della messa in commercio."
+   },
+   {
+    "p": "Domanda 3: a che cosa serve il sistema solera nella produzione dello Sherry? Risposta: a una miscelazione frazionata, in cui il vino giovane rinfresca quello più vecchio nel corso degli anni. Il risultato è uno stile della casa costante da un anno all'altro invece di un vino millesimato."
+   },
+   {
+    "p": "Domanda 4: come ottiene di solito le bollicine il Prosecco? Risposta: con il metodo Martinotti, o metodo in autoclave, con la seconda fermentazione in una vasca chiusa sotto pressione. Il metodo è relativamente rapido e preserva gli aromi primari freschi, fruttati e floreali dell'uva Glera, senza le note di autolisi di un lungo affinamento sui lieviti."
+   },
+   {
+    "p": "Domanda 5: perché una forte escursione termica giova alle uve nelle regioni calde? Risposta: le giornate calde permettono l'accumulo di zuccheri e la maturazione, mentre le notti fresche rallentano la perdita di acidità e aiutano a preservare i composti aromatici. I vini uniscono così frutto maturo e freschezza."
+   },
+   {
+    "p": "Domanda 6: di quali condizioni ha bisogno la muffa nobile? Risposta: mattine umide e nebbiose che favoriscono lo sviluppo del fungo, seguite da pomeriggi asciutti e soleggiati che gli impediscono di trasformarsi in marciume grigio dannoso. Queste condizioni si trovano per esempio a Sauternes, dove i fiumi creano nebbie mattutine."
+   },
+   {
+    "p": "Domanda 7: in che cosa l'affinamento del Porto Tawny differisce da quello del Ruby? Risposta: il Tawny invecchia a lungo in piccole botti di legno, dove una lenta ossidazione porta il colore verso il bruno e sviluppa note di frutta secca a guscio, caramello e frutta essiccata. Gli stili Ruby affinano in grandi contenitori per conservare colore intenso e frutto rosso e nero fresco."
+   },
+   {
+    "p": "Domanda 8: per quale suolo è nota la regione di Coonawarra? Risposta: la terra rossa, un suolo rosso su calcare, associato a Cabernet Sauvignon strutturati con intenso ribes nero e spesso note di menta o eucalipto."
+   },
+   {
+    "p": "Domanda 9: quale vitigno è il principale responsabile del Tokaji Aszú? Risposta: il Furmint, varietà ad alta acidità sensibile alla muffa nobile. L'acidità elevata bilancia la dolcezza molto alta dei vini e ne permette un lungo invecchiamento."
+   },
+   {
+    "p": "Domanda 10: perché i vigneti di Mendoza sono di solito irrigati? Risposta: il clima è molto secco e la pioggia da sola non basta alla vite. Si usa l'acqua dello scioglimento delle nevi andine, mentre l'altitudine elevata garantisce notti fresche che aiutano a mantenere l'acidità nel Malbec e in altre varietà."
+   },
+   {
+    "h2": "Una risposta breve d'esempio, con i punti che valgono"
+   },
+   {
+    "p": "Domanda di esercitazione scritta da noi: descrivi e spiega le scelte di cantina che creano lo stile di uno Chardonnay premium affinato in legno da clima moderato. Prima di leggere i punti modello, prova a pianificare la risposta per parole chiave in tre minuti."
+   },
+   {
+    "ul": [
+     "La fermentazione in barrique integra gli aromi del legno e dà una consistenza più rotonda rispetto alla fermentazione in acciaio.",
+     "L'affinamento in legno nuovo aggiunge aromi secondari come vaniglia, tostato e fumo; una quota di botti usate mantiene il legno in equilibrio con il frutto.",
+     "La fermentazione malolattica ammorbidisce l'acidità e può aggiungere una nota burrosa, aumentando la ricchezza dello stile.",
+     "Il contatto con le fecce e il bâtonnage aggiungono corpo, consistenza cremosa e note sapide o di biscotto.",
+     "La pressatura a grappolo intero o una pressatura delicata limita l'estrazione fenolica e mantiene il vino fine.",
+     "Il clima moderato permette sapori maturi di frutta a nocciolo mantenendo acidità sufficiente per equilibrio e potenziale di invecchiamento."
+    ]
+   },
+   {
+    "p": "Ogni punto è un'idea separata e spiegata. Una risposta che dicesse solo legno, malolattica e fecce citerebbe tre tecniche senza spiegarne nessuna e otterrebbe solo una parte dei punti disponibili."
+   },
+   {
+    "h2": "Quando programmare le simulazioni d'esame"
+   },
+   {
+    "table": {
+     "head": [
+      "Tempo prima dell'esame",
+      "Tipo di simulazione",
+      "Scopo principale"
+     ],
+     "rows": [
+      [
+       "Da 8 a 6 settimane",
+       "Prima prova teorica completa, anche senza cronometro in alcune parti",
+       "Diagnosi: capire dove sono le lacune"
+      ],
+      [
+       "Da 5 a 4 settimane",
+       "Prova teorica completa e cronometrata",
+       "Verificare la suddivisione dei tempi e la tecnica di scrittura"
+      ],
+      [
+       "3 settimane",
+       "Prova teorica completa più due vini",
+       "Provare l'intera giornata e la concentrazione"
+      ],
+      [
+       "2 settimane",
+       "Prova cronometrata su un mix di argomenti deboli",
+       "Confermare che i punti deboli migliorano"
+      ],
+      [
+       "Ultima settimana",
+       "Solo serie brevi, nessuna nuova simulazione completa negli ultimi giorni",
+       "Mantenere la fiducia e far riposare la mente"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Come leggere il punteggio della simulazione"
+   },
+   {
+    "p": "Il punteggio di una simulazione è una fotografia, non una previsione. Le domande scritte per esercitarsi non sono mai identiche a quelle d'esame e il risultato varia con il mix di argomenti. Usalo per confrontarti con te stesso nel tempo e per decidere dove lavorare, non per indovinare il voto finale."
+   },
+   {
+    "ul": [
+     "Sotto il 55% in una parte: quella parte è la priorità della settimana, qualunque sia il risultato complessivo.",
+     "Appena sopra il 55%: sei vicino alla soglia; cerca di costruirti un margine, perché l'emozione del giorno d'esame costa punti.",
+     "Ben sopra il 55% ovunque: mantieni la routine e concentrati su errori di distrazione e completezza delle risposte scritte.",
+     "Grande differenza tra domande multiple e risposte scritte: la conoscenza c'è, la tecnica no; esercitati a spiegare.",
+     "Punteggio in calo tra due simulazioni: controlla prima il mix di argomenti, poi se il calo dipende da stanchezza o tempi."
+    ]
+   },
+   {
+    "p": "L'app The Wine Goat conserva lo storico delle tue simulazioni e delle sessioni di esercizio, così vedi i progressi per parte e per argomento e ritrovi automaticamente i punti più deboli finché non migliorano: una preparazione all'esame WSET costruita sui tuoi risultati."
+   }
+  ],
+  "faq": [
+   [
+    "Quanto sono realistiche le simulazioni online del WSET Livello 3?",
+    "Una buona simulazione riproduce la struttura dell'esame: domande a risposta multipla su tutto il programma, risposte brevi e una nota di degustazione alla cieca. Le domande sono scritte per esercitarsi, quindi non sono mai quelle vere dell'esame, ma formato, pressione del tempo e tipi di trappola sono simili. Il loro vero valore sta nell'allenare i tempi e nel rivelare gli argomenti deboli."
+   ],
+   [
+    "Devo includere la degustazione nella simulazione?",
+    "Sì, quando possibile. La degustazione è valutata separatamente e richiede da sola il 55%, quindi merita una prova nelle stesse condizioni: due vini serviti e coperti da un'altra persona, un tempo fisso e una nota SAT completa per ciascuno. Farla dopo la prova teorica ti allena anche a degustare bene quando sei già stanco."
+   ],
+   [
+    "Che cosa fare dopo una simulazione andata male?",
+    "Non ripetere subito una simulazione completa. Analizzala con cura, annota ogni punto perso nel registro degli errori con la sua causa e scegli le due o tre cause più frequenti. Lavoraci per una settimana con sessioni quotidiane brevi, poi fai un'altra simulazione per verificare il miglioramento. Una simulazione iniziale debole è utile perché ti mostra dove lavorare."
+   ],
+   [
+    "Posso fare la simulazione in una seconda lingua?",
+    "Sì, e può aiutare se sosterrai l'esame in una lingua diversa dalla tua. Esercitarti nella lingua d'esame ti allena a leggere le domande con precisione e a scrivere correttamente i termini tecnici. The Wine Goat propone le domande in italiano, inglese, francese e spagnolo, così puoi anche confrontare una spiegazione in due lingue quando un termine non è chiaro."
+   ],
+   [
+    "Quanto tempo dedicare all'analisi di una simulazione?",
+    "Prevedi almeno quanto la prova teorica stessa, spesso di più. Correggere richiede poco; la parte preziosa è capire ogni risposta sbagliata o incerta, confrontare le risposte scritte con i punti attesi e trasformare gli schemi in un piano per la settimana successiva. Chi analizza a fondo di solito migliora più in fretta di chi si limita a fare più simulazioni."
+   ]
+  ]
+ },
+ "fr": {
+  "sections": [
+   {
+    "h2": "Comment faire un examen blanc WSET niveau 3 complet chez soi"
+   },
+   {
+    "p": "Un examen blanc n'est utile que s'il ressemble vraiment à l'examen. Lire des questions sur le canapé avec ses notes à portée de main mesure votre mémoire assistée, pas votre niveau de préparation. La routine ci-dessous transforme une soirée ordinaire en répétition réaliste de l'épreuve théorique et, si vous avez des vins sous la main, de la dégustation aussi."
+   },
+   {
+    "ol": [
+     "Choisissez un moment où vous pouvez travailler pendant toute la durée sans interruption, idéalement à la même heure que votre véritable examen.",
+     "Dégagez la table : pas de notes, pas de téléphone, seulement des stylos, du papier et une montre ou un minuteur bien visible.",
+     "Imprimez ou ouvrez les questions et lancez le minuteur pour toute l'épreuve avant de lire quoi que ce soit.",
+     "Notez vos réponses aux 50 QCM sur une feuille à part, pour pouvoir les corriger sans voir votre premier réflexe entouré sur la question.",
+     "Rédigez les quatre réponses courtes à la main. Taper au clavier est plus rapide et masque le vrai problème : écrire à la main sous la pression du temps.",
+     "Arrêtez-vous quand le minuteur s'arrête, même si une question est inachevée. La réponse inachevée est une information précieuse.",
+     "Si vous incluez la dégustation, servez deux vins choisis et masqués par quelqu'un d'autre, et rédigez pour chacun une note SAT complète en temps limité."
+    ]
+   },
+   {
+    "tip": "Demandez à un ami de choisir et de masquer les vins de votre dégustation d'entraînement. Si vous les servez vous-même, vos conclusions seront influencées par ce que vous savez déjà, et l'exercice perd l'essentiel de sa valeur."
+   },
+   {
+    "h2": "Un exemple d'emploi du temps pour une séance d'examen blanc"
+   },
+   {
+    "table": {
+     "head": [
+      "Bloc",
+      "Durée",
+      "Ce que vous faites"
+     ],
+     "rows": [
+      [
+       "Installation",
+       "10 minutes",
+       "Dégager la table, préparer le papier, régler le minuteur, servir et masquer les vins"
+      ],
+      [
+       "Épreuve théorique",
+       "Environ 2 heures",
+       "50 QCM et 4 réponses courtes avec votre répartition du temps prévue"
+      ],
+      [
+       "Pause",
+       "10 à 15 minutes",
+       "De l'eau, pas de saveurs fortes, une courte marche"
+      ],
+      [
+       "Dégustation",
+       "Environ 30 minutes",
+       "Note SAT complète et conclusions pour deux vins"
+      ],
+      [
+       "Correction",
+       "30 à 45 minutes",
+       "Corriger les QCM, comparer les réponses rédigées aux points clés, découvrir les vins"
+      ],
+      [
+       "Analyse",
+       "45 à 60 minutes",
+       "Carnet d'erreurs, liste des points faibles, plan pour la semaine suivante"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "C'est une longue séance, et c'est justement le but. La concentration est une compétence, et la dernière réponse rédigée le jour de l'examen est écrite par quelqu'un qui travaille déjà depuis bien plus d'une heure. Si vous ne pouvez pas réserver un seul grand bloc, divisez l'examen blanc en une séance de théorie et une séance de dégustation sur deux jours différents, mais gardez chaque partie complète et chronométrée."
+   },
+   {
+    "h2": "Comment corriger et analyser vraiment votre examen blanc"
+   },
+   {
+    "p": "La note est le résultat le moins intéressant d'un examen blanc. Ce qui compte, c'est la raison de chaque point perdu, car chaque cause a un remède différent. Tenez un carnet d'erreurs : un simple tableau où chaque réponse fausse ou hésitante est notée avec sa cause. Après deux ou trois examens blancs, des tendances apparaissent qu'aucune note isolée ne peut montrer."
+   },
+   {
+    "table": {
+     "head": [
+      "Cause de l'erreur",
+      "Comment la reconnaître",
+      "Remède"
+     ],
+     "rows": [
+      [
+       "Lacune",
+       "Vous ne connaissiez pas du tout le fait",
+       "Étudier le sujet, puis répondre à dix questions dessus dans la semaine"
+      ],
+      [
+       "Confusion",
+       "Vous avez mélangé deux régions, cépages ou termes proches",
+       "Construire un tableau comparatif des deux"
+      ],
+      [
+       "Erreur de lecture",
+       "Vous saviez la réponse mais n'avez pas vu PAS, principal ou typiquement",
+       "Souligner les qualificatifs dans chaque question d'entraînement pendant une semaine"
+      ],
+      [
+       "Réponse rédigée incomplète",
+       "Points justes, mais sous-questions manquantes ou non expliquées",
+       "Planifier chaque réponse par mots clés avant de rédiger"
+      ],
+      [
+       "Gestion du temps",
+       "Dernières questions bâclées ou blanches",
+       "S'entraîner avec une répartition plus stricte et un minuteur visible"
+      ],
+      [
+       "Étalonnage en dégustation",
+       "Niveaux de structure décalés d'un cran",
+       "Déguster avec un partenaire et comparer les niveaux vin par vin"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Appliquez à chaque examen blanc la même routine d'analyse : corriger, consigner, retenir les trois causes les plus fréquentes et les transformer en actions pour la semaine suivante. Un examen blanc non analysé est surtout une soirée perdue."
+   },
+   {
+    "h2": "Mini étude de cas : trois examens blancs, trois leçons"
+   },
+   {
+    "p": "Prenons une candidate type, que nous appellerons Sara, qui prépare le WSET niveau 3 tout en travaillant à plein temps. Son premier examen blanc, six semaines avant l'examen, donne un bon résultat aux QCM mais des réponses rédigées faibles : elle connaissait les régions, mais ses réponses étaient des listes de faits sans explication. Son carnet d'erreurs montrait que la plupart des points perdus venaient des questions avec expliquer, où elle avait décrit au lieu d'expliquer."
+   },
+   {
+    "p": "Pendant les deux semaines suivantes, elle rédige une réponse courte par jour en s'obligeant à mettre un parce que dans chaque phrase. Son deuxième examen blanc montre un net progrès dans les réponses rédigées mais révèle un nouveau problème : elle manque de temps et laisse la dernière sous-question blanche. Elle fixe alors une limite de temps pour chaque question rédigée et commence à s'entraîner avec un minuteur visible."
+   },
+   {
+    "p": "Son troisième examen blanc, deux semaines avant l'examen, est équilibré sur toutes les parties, et les erreurs restantes sont surtout des confusions entre régions voisines, comme les différentes appellations du Rhône septentrional. Elle consacre les derniers jours aux tableaux comparatifs. La leçon : chaque examen blanc a révélé une faiblesse différente, et aucune n'aurait été visible en relisant simplement ses notes."
+   },
+   {
+    "h2": "D'autres exemples de questions, avec réponse et explication"
+   },
+   {
+    "p": "Voici dix questions supplémentaires dans le style des QCM, rédigées sous forme de texte pour que vous puissiez vous tester avant de lire chaque réponse. Cachez la réponse, décidez, puis vérifiez l'explication."
+   },
+   {
+    "p": "Question 1 : quel cépage est utilisé pour les blancs de Sancerre ? Réponse : le Sauvignon Blanc. Sancerre se situe dans le Centre-Loire, où un climat continental frais donne des vins à l'acidité élevée, au corps léger à moyen, aux notes de fruits verts et herbacées, en général sans boisé perceptible."
+   },
+   {
+    "p": "Question 2 : quel est le cépage principal du Barolo ? Réponse : le Nebbiolo. Il donne des vins souvent pâles mais riches en acidité et en tanins, aux arômes de cerise rouge, de rose et, avec l'âge, de goudron et de fruits secs. Cette structure ferme explique pourquoi le Barolo exige un long élevage avant sa commercialisation."
+   },
+   {
+    "p": "Question 3 : à quoi sert le système de solera dans la production du Xérès ? Réponse : à un assemblage fractionné, dans lequel le vin jeune rafraîchit le vin plus âgé au fil des années. Le résultat est un style maison constant d'une année sur l'autre plutôt qu'un vin millésimé."
+   },
+   {
+    "p": "Question 4 : comment le Prosecco obtient-il généralement ses bulles ? Réponse : par la méthode en cuve close, avec la seconde fermentation dans une cuve fermée sous pression. Cette méthode relativement rapide préserve les arômes primaires frais, fruités et floraux du cépage Glera, sans les notes autolytiques d'un long vieillissement sur lies."
+   },
+   {
+    "p": "Question 5 : pourquoi une forte amplitude thermique profite-t-elle aux raisins des régions chaudes ? Réponse : les journées chaudes permettent l'accumulation des sucres et la maturation, tandis que les nuits fraîches ralentissent la perte d'acidité et aident à préserver les composés aromatiques. Les vins associent ainsi fruit mûr et fraîcheur."
+   },
+   {
+    "p": "Question 6 : de quelles conditions la pourriture noble a-t-elle besoin ? Réponse : de matinées humides et brumeuses qui favorisent le développement du champignon, suivies d'après-midi secs et ensoleillés qui l'empêchent de se transformer en pourriture grise néfaste. On trouve ces conditions par exemple à Sauternes, où les rivières créent des brumes matinales."
+   },
+   {
+    "p": "Question 7 : en quoi l'élevage du Porto Tawny diffère-t-il de celui du Ruby ? Réponse : le Tawny vieillit longtemps en petits fûts de bois, où une oxydation lente fait évoluer la couleur vers le brun et développe des notes de fruits à coque, de caramel et de fruits secs. Les styles Ruby sont élevés en grands contenants pour garder une couleur profonde et un fruit rouge et noir frais."
+   },
+   {
+    "p": "Question 8 : pour quel sol la région de Coonawarra est-elle connue ? Réponse : la terra rossa, un sol rouge sur calcaire, associé à des Cabernet Sauvignon structurés aux notes intenses de cassis et souvent de menthe ou d'eucalyptus."
+   },
+   {
+    "p": "Question 9 : quel cépage est le principal responsable du Tokaji Aszú ? Réponse : le Furmint, cépage à l'acidité élevée sensible à la pourriture noble. Cette acidité équilibre la très forte sucrosité des vins et leur permet de vieillir longtemps."
+   },
+   {
+    "p": "Question 10 : pourquoi les vignobles de Mendoza sont-ils généralement irrigués ? Réponse : le climat est très sec et la pluie seule ne suffit pas à la vigne. On utilise l'eau de la fonte des neiges des Andes, tandis que l'altitude élevée apporte des nuits fraîches qui aident à garder l'acidité du Malbec et d'autres cépages."
+   },
+   {
+    "h2": "Un exemple de réponse courte, avec les points qui comptent"
+   },
+   {
+    "p": "Question d'entraînement de notre cru : décrivez et expliquez les choix de vinification qui créent le style d'un Chardonnay haut de gamme élevé en fût, issu d'un climat modéré. Avant de lire les points modèles, essayez de planifier votre réponse par mots clés en trois minutes."
+   },
+   {
+    "ul": [
+     "La fermentation en fût intègre les arômes du bois et donne une texture plus ronde que la fermentation en cuve inox.",
+     "L'élevage en fûts neufs apporte des arômes secondaires comme la vanille, le grillé et le fumé ; une part de fûts usagés garde le bois en équilibre avec le fruit.",
+     "La fermentation malolactique assouplit l'acidité et peut apporter une note beurrée, ajoutant à la richesse du style.",
+     "L'élevage sur lies et le bâtonnage apportent du corps, une texture crémeuse et des notes salines ou de biscuit.",
+     "Le pressurage en grappes entières ou un pressurage délicat limite l'extraction phénolique et garde le vin fin.",
+     "Le climat modéré permet des arômes mûrs de fruits à noyau tout en conservant assez d'acidité pour l'équilibre et le potentiel de garde."
+    ]
+   },
+   {
+    "p": "Chaque point est une idée distincte et expliquée. Une réponse qui se contenterait de dire fût, malolactique et lies citerait trois techniques sans en expliquer aucune, et n'obtiendrait qu'une fraction des points disponibles."
+   },
+   {
+    "h2": "Quand programmer vos examens blancs"
+   },
+   {
+    "table": {
+     "head": [
+      "Temps avant l'examen",
+      "Type d'examen blanc",
+      "Objectif principal"
+     ],
+     "rows": [
+      [
+       "De 8 à 6 semaines",
+       "Premier examen théorique complet, certaines parties sans chrono",
+       "Diagnostiquer : trouver les lacunes"
+      ],
+      [
+       "De 5 à 4 semaines",
+       "Examen théorique complet chronométré",
+       "Tester la répartition du temps et la technique de rédaction"
+      ],
+      [
+       "3 semaines",
+       "Examen théorique complet plus deux vins",
+       "Répéter la journée entière et la concentration"
+      ],
+      [
+       "2 semaines",
+       "Épreuve chronométrée sur un mélange de points faibles",
+       "Confirmer que les points faibles progressent"
+      ],
+      [
+       "Dernière semaine",
+       "Séries courtes uniquement, pas de nouvel examen blanc complet les derniers jours",
+       "Garder confiance et reposer l'esprit"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Interpréter la note de votre examen blanc"
+   },
+   {
+    "p": "La note d'un examen blanc est une photographie, pas une prédiction. Les questions écrites pour l'entraînement ne sont jamais identiques à celles de l'examen, et votre note varie selon le mélange de sujets. Servez-vous-en pour vous comparer à vous-même dans le temps et décider où travailler, plutôt que pour deviner votre mention finale."
+   },
+   {
+    "ul": [
+     "Moins de 55 % dans une partie : cette partie est la priorité de la semaine, quel que soit le résultat global.",
+     "Juste au-dessus de 55 % : vous êtes près du seuil ; construisez une marge de sécurité, car le stress du jour J coûte des points.",
+     "Nettement au-dessus de 55 % partout : gardez la routine et concentrez-vous sur les erreurs d'inattention et la complétude des réponses rédigées.",
+     "Grand écart entre QCM et réponses rédigées : les connaissances sont là, la technique non ; entraînez-vous à expliquer.",
+     "Note en baisse entre deux examens blancs : vérifiez d'abord le mélange de sujets, puis si la fatigue ou le temps ont joué."
+    ]
+   },
+   {
+    "p": "L'appli The Wine Goat conserve l'historique de vos examens blancs et de vos séances d'entraînement : vous voyez votre progression par partie et par thème, et vos points les plus faibles reviennent automatiquement jusqu'à ce qu'ils s'améliorent, pour une préparation à l'examen WSET fondée sur vos propres résultats."
+   }
+  ],
+  "faq": [
+   [
+    "Les examens blancs WSET niveau 3 en ligne sont-ils réalistes ?",
+    "Un bon examen blanc reproduit la structure de l'examen : des QCM sur tout le programme, des réponses courtes et une note de dégustation à l'aveugle. Les questions sont écrites pour l'entraînement, ce ne sont donc jamais les vraies questions d'examen, mais le format, la pression du temps et les types de pièges sont similaires. Leur vraie valeur est d'entraîner votre gestion du temps et de révéler vos points faibles."
+   ],
+   [
+    "Faut-il inclure la dégustation dans l'examen blanc ?",
+    "Oui, dès que possible. L'unité de dégustation est notée séparément et exige à elle seule 55 % : elle mérite donc une répétition dans les mêmes conditions, avec deux vins servis et masqués par quelqu'un d'autre, un temps fixe et une note SAT complète pour chacun. La faire après la théorie vous entraîne aussi à bien déguster quand vous êtes déjà fatigué."
+   ],
+   [
+    "Que faire après un mauvais résultat à l'examen blanc ?",
+    "Ne refaites pas tout de suite un examen blanc complet. Analysez-le soigneusement, notez chaque point perdu dans un carnet d'erreurs avec sa cause et retenez les deux ou trois causes les plus fréquentes. Travaillez-les pendant une semaine par courtes séances quotidiennes, puis faites un nouvel examen blanc pour vérifier les progrès. Un premier examen blanc faible est utile parce qu'il montre où travailler."
+   ],
+   [
+    "Puis-je faire l'examen blanc dans une autre langue que la mienne ?",
+    "Oui, et cela peut aider si vous passez l'examen dans une langue qui n'est pas votre langue maternelle. S'entraîner dans la langue de l'examen apprend à lire les questions avec précision et à écrire correctement les termes techniques. The Wine Goat propose ses questions en français, anglais, italien et espagnol, ce qui permet aussi de comparer une explication dans deux langues quand un terme n'est pas clair."
+   ],
+   [
+    "Combien de temps consacrer à l'analyse d'un examen blanc ?",
+    "Prévoyez au moins autant de temps que l'épreuve théorique elle-même, souvent davantage. La correction est rapide ; la partie précieuse consiste à comprendre chaque réponse fausse ou hésitante, à comparer vos réponses rédigées aux points attendus et à transformer les tendances en plan pour la semaine suivante. Ceux qui analysent à fond progressent souvent plus vite que ceux qui enchaînent les examens blancs."
+   ]
+  ]
+ },
+ "es": {
+  "sections": [
+   {
+    "h2": "Cómo hacer un simulacro completo del examen WSET nivel 3 en casa"
+   },
+   {
+    "p": "Un simulacro solo sirve si se parece de verdad al examen. Leer preguntas en el sofá con los apuntes a mano mide tu memoria con ayuda, no tu preparación. La rutina siguiente convierte una tarde cualquiera en un ensayo realista de la prueba teórica y, si tienes vinos a mano, también de la cata."
+   },
+   {
+    "ol": [
+     "Elige un momento en el que puedas trabajar durante toda la prueba sin interrupciones, a ser posible a la misma hora que tu examen real.",
+     "Despeja la mesa: sin apuntes ni móvil, solo bolígrafos, papel y un reloj o temporizador bien visible.",
+     "Imprime o abre las preguntas y pon en marcha el temporizador para toda la prueba antes de leer nada.",
+     "Escribe las respuestas de las 50 preguntas tipo test en una hoja aparte, para corregirlas sin ver tu primer impulso marcado en la pregunta.",
+     "Escribe a mano las cuatro respuestas cortas. Teclear es más rápido y oculta el verdadero problema: escribir a mano con el reloj en contra.",
+     "Para cuando pare el temporizador, aunque una pregunta esté sin terminar. La respuesta incompleta es información valiosa.",
+     "Si incluyes la cata, sirve dos vinos que haya elegido y tapado otra persona y escribe para cada uno una nota SAT completa en un tiempo fijo."
+    ]
+   },
+   {
+    "tip": "Pide a un amigo que elija y tape los vinos de tu cata de práctica. Si los sirves tú, tus conclusiones estarán condicionadas por lo que ya sabes y el ejercicio pierde casi todo su valor."
+   },
+   {
+    "h2": "Un horario tipo para una sesión de simulacro"
+   },
+   {
+    "table": {
+     "head": [
+      "Bloque",
+      "Duración",
+      "Qué haces"
+     ],
+     "rows": [
+      [
+       "Preparación",
+       "10 minutos",
+       "Despejar la mesa, preparar el papel, poner el temporizador, servir y tapar los vinos"
+      ],
+      [
+       "Prueba teórica",
+       "Unas 2 horas",
+       "50 preguntas tipo test y 4 respuestas cortas con tu reparto de tiempo previsto"
+      ],
+      [
+       "Pausa",
+       "10-15 minutos",
+       "Agua, nada de sabores fuertes, un paseo corto"
+      ],
+      [
+       "Cata",
+       "Unos 30 minutos",
+       "Nota SAT completa y conclusiones para dos vinos"
+      ],
+      [
+       "Corrección",
+       "30-45 minutos",
+       "Corregir el tipo test, comparar las respuestas escritas con los puntos clave, destapar los vinos"
+      ],
+      [
+       "Análisis",
+       "45-60 minutos",
+       "Registro de errores, lista de puntos débiles, plan para la semana siguiente"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Es una sesión larga, y precisamente de eso se trata. La concentración es una habilidad, y la última respuesta escrita del día del examen la escribe alguien que lleva ya bastante más de una hora trabajando. Si no puedes reservar un único bloque, divide el simulacro en una sesión de teoría y otra de cata en dos días distintos, pero mantén cada parte completa y cronometrada."
+   },
+   {
+    "h2": "Cómo corregir y analizar de verdad tu simulacro"
+   },
+   {
+    "p": "La nota es el resultado menos interesante de un simulacro. Lo que importa es por qué has perdido cada punto, porque cada causa tiene un remedio distinto. Lleva un registro de errores: una tabla sencilla en la que anotas cada respuesta fallada o dudosa con su causa. Tras dos o tres simulacros aparecen patrones que ninguna nota aislada puede mostrarte."
+   },
+   {
+    "table": {
+     "head": [
+      "Causa del error",
+      "Cómo la reconoces",
+      "Remedio"
+     ],
+     "rows": [
+      [
+       "Laguna",
+       "No conocías el dato en absoluto",
+       "Estudia el tema y responde diez preguntas sobre él esa misma semana"
+      ],
+      [
+       "Confusión",
+       "Mezclaste dos regiones, variedades o términos parecidos",
+       "Haz una tabla comparativa de los dos"
+      ],
+      [
+       "Mala lectura",
+       "Sabías la respuesta pero no viste NO, principal o normalmente",
+       "Subraya los matices en cada pregunta de práctica durante una semana"
+      ],
+      [
+       "Respuesta escrita incompleta",
+       "Puntos correctos, pero apartados ausentes o sin explicar",
+       "Planifica cada respuesta con palabras clave antes de escribir"
+      ],
+      [
+       "Tiempo",
+       "Últimas preguntas con prisas o en blanco",
+       "Practica con un reparto de tiempo más estricto y un temporizador visible"
+      ],
+      [
+       "Calibración en la cata",
+       "Niveles estructurales desplazados un escalón",
+       "Cata con un compañero y comparad los niveles vino a vino"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Aplica a cada simulacro la misma rutina de análisis: corrige, registra, elige las tres causas más frecuentes y conviértelas en acciones para la semana siguiente. Un simulacro sin analizar es, sobre todo, una tarde perdida."
+   },
+   {
+    "h2": "Mini caso práctico: tres simulacros, tres lecciones"
+   },
+   {
+    "p": "Pensemos en una candidata tipo, a la que llamaremos Sara, que prepara el WSET nivel 3 mientras trabaja a jornada completa. Su primer simulacro, seis semanas antes del examen, da un buen resultado en el tipo test pero respuestas escritas flojas: conocía las regiones, pero sus respuestas eran listas de datos sin explicación. Su registro de errores mostraba que la mayoría de los puntos perdidos estaban en preguntas con explica, donde había descrito en lugar de explicar."
+   },
+   {
+    "p": "Durante las dos semanas siguientes escribe una respuesta corta al día, obligándose a incluir un porque en cada frase. Su segundo simulacro muestra un avance claro en las respuestas escritas, pero destapa un problema nuevo: se queda sin tiempo y deja en blanco el último apartado. Entonces fija un límite de tiempo para cada pregunta escrita y empieza a practicar con un temporizador visible."
+   },
+   {
+    "p": "Su tercer simulacro, dos semanas antes del examen, está equilibrado en todas las partes, y los errores que quedan son sobre todo confusiones entre regiones vecinas, como las distintas denominaciones del Ródano septentrional. Dedica los últimos días a tablas comparativas. La lección: cada simulacro reveló una debilidad distinta, y ninguna habría salido a la luz solo releyendo apuntes."
+   },
+   {
+    "h2": "Más preguntas de ejemplo, con respuesta y explicación"
+   },
+   {
+    "p": "Aquí tienes diez preguntas más con el estilo de la parte tipo test, escritas como texto para que te pongas a prueba antes de leer cada respuesta. Tapa la respuesta, decide y luego comprueba la explicación."
+   },
+   {
+    "p": "Pregunta 1: ¿qué variedad se usa para los blancos de Sancerre? Respuesta: Sauvignon Blanc. Sancerre está en los Central Vineyards del Loira, donde un clima continental fresco da vinos de acidez alta, cuerpo ligero a medio y notas de fruta verde y herbáceas, normalmente sin madera perceptible."
+   },
+   {
+    "p": "Pregunta 2: ¿cuál es la variedad principal del Barolo? Respuesta: Nebbiolo. Da vinos a menudo de color pálido pero con mucha acidez y tanino, con aromas de cereza roja, rosa y, con la edad, alquitrán y fruta seca. Esa estructura firme explica por qué el Barolo necesita una larga crianza antes de salir al mercado."
+   },
+   {
+    "p": "Pregunta 3: ¿para qué sirve el sistema de solera en la elaboración del Jerez? Respuesta: para una mezcla fraccionada en la que el vino joven refresca al más viejo a lo largo de los años. El resultado es un estilo de la casa constante de un año a otro, en lugar de un vino de añada."
+   },
+   {
+    "p": "Pregunta 4: ¿cómo consigue normalmente sus burbujas el Prosecco? Respuesta: con el método de depósito, o método Charmat, con la segunda fermentación en un depósito cerrado a presión. Es un método relativamente rápido que conserva los aromas primarios frescos, afrutados y florales de la uva Glera, sin las notas de autólisis de una larga crianza sobre lías."
+   },
+   {
+    "p": "Pregunta 5: ¿por qué una gran amplitud térmica beneficia a la uva en regiones cálidas? Respuesta: los días cálidos permiten acumular azúcar y madurar, mientras que las noches frescas frenan la pérdida de acidez y ayudan a conservar los compuestos aromáticos. Así los vinos combinan fruta madura y frescura."
+   },
+   {
+    "p": "Pregunta 6: ¿qué condiciones necesita la podredumbre noble? Respuesta: mañanas húmedas y con niebla que favorecen el desarrollo del hongo, seguidas de tardes secas y soleadas que evitan que se convierta en podredumbre gris dañina. Estas condiciones se dan, por ejemplo, en Sauternes, donde los ríos crean nieblas matinales."
+   },
+   {
+    "p": "Pregunta 7: ¿en qué se diferencia la crianza del Oporto Tawny de la del Ruby? Respuesta: el Tawny envejece durante largos periodos en pequeñas barricas de madera, donde una oxidación lenta lleva el color hacia el marrón y desarrolla notas de frutos secos, caramelo y fruta pasa. Los estilos Ruby se crían en recipientes grandes para conservar un color intenso y una fruta roja y negra fresca."
+   },
+   {
+    "p": "Pregunta 8: ¿por qué suelo es conocida la región de Coonawarra? Respuesta: por la terra rossa, un suelo rojo sobre caliza, asociado a Cabernet Sauvignon estructurados con intensa grosella negra y a menudo notas de menta o eucalipto."
+   },
+   {
+    "p": "Pregunta 9: ¿qué variedad es la principal responsable del Tokaji Aszú? Respuesta: la Furmint, una variedad de acidez alta sensible a la podredumbre noble. Esa acidez equilibra el dulzor muy alto de los vinos y les permite envejecer durante mucho tiempo."
+   },
+   {
+    "p": "Pregunta 10: ¿por qué se suelen regar los viñedos de Mendoza? Respuesta: el clima es muy seco y la lluvia por sí sola no basta para la vid. Se usa agua del deshielo de los Andes, mientras que la altitud elevada aporta noches frescas que ayudan a mantener la acidez de la Malbec y otras variedades."
+   },
+   {
+    "h2": "Una respuesta corta de ejemplo, con los puntos que suman"
+   },
+   {
+    "p": "Pregunta de práctica redactada por nosotros: describe y explica las decisiones de bodega que crean el estilo de un Chardonnay premium con crianza en madera de clima moderado. Antes de leer los puntos modelo, intenta planificar tu respuesta con palabras clave en tres minutos."
+   },
+   {
+    "ul": [
+     "La fermentación en barrica integra los aromas de la madera y da una textura más redonda que la fermentación en acero inoxidable.",
+     "La crianza en roble nuevo aporta aromas secundarios como vainilla, tostado y ahumado; una parte de barricas usadas mantiene la madera en equilibrio con la fruta.",
+     "La fermentación maloláctica suaviza la acidez y puede aportar una nota mantecosa, sumando riqueza al estilo.",
+     "La crianza sobre lías y el bâtonnage aportan cuerpo, una textura cremosa y notas saladas o de galleta.",
+     "El prensado de racimo entero o un prensado delicado limita la extracción fenólica y mantiene la finura del vino.",
+     "El clima moderado permite sabores maduros de fruta de hueso conservando acidez suficiente para el equilibrio y el potencial de guarda."
+    ]
+   },
+   {
+    "p": "Cada punto es una idea independiente y explicada. Una respuesta que solo dijera barrica, maloláctica y lías citaría tres técnicas sin explicar ninguna y obtendría solo una parte de los puntos disponibles."
+   },
+   {
+    "h2": "Cuándo programar tus simulacros"
+   },
+   {
+    "table": {
+     "head": [
+      "Tiempo antes del examen",
+      "Tipo de simulacro",
+      "Objetivo principal"
+     ],
+     "rows": [
+      [
+       "De 8 a 6 semanas",
+       "Primera prueba teórica completa, con algunas partes sin cronometrar",
+       "Diagnóstico: descubrir dónde están las lagunas"
+      ],
+      [
+       "De 5 a 4 semanas",
+       "Prueba teórica completa y cronometrada",
+       "Probar el reparto de tiempo y la técnica de redacción"
+      ],
+      [
+       "3 semanas",
+       "Prueba teórica completa más dos vinos",
+       "Ensayar el día entero y la concentración"
+      ],
+      [
+       "2 semanas",
+       "Prueba cronometrada con una mezcla de temas débiles",
+       "Confirmar que los puntos débiles mejoran"
+      ],
+      [
+       "Última semana",
+       "Solo series cortas, ningún simulacro completo nuevo en los últimos días",
+       "Mantener la confianza y descansar la mente"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Cómo interpretar la nota del simulacro"
+   },
+   {
+    "p": "La nota de un simulacro es una foto, no una predicción. Las preguntas escritas para practicar nunca son idénticas a las del examen, y tu resultado varía según la mezcla de temas. Úsala para compararte contigo mismo a lo largo del tiempo y decidir dónde trabajar, no para adivinar tu calificación final."
+   },
+   {
+    "ul": [
+     "Menos del 55 % en una parte: esa parte es la prioridad de la semana, sea cual sea el resultado global.",
+     "Justo por encima del 55 %: estás cerca del límite; busca un margen de seguridad, porque los nervios del día del examen cuestan puntos.",
+     "Holgadamente por encima del 55 % en todo: mantén la rutina y céntrate en los despistes y en que las respuestas escritas estén completas.",
+     "Gran diferencia entre tipo test y respuestas escritas: los conocimientos están, la técnica no; practica a explicar.",
+     "Nota que baja entre dos simulacros: revisa primero la mezcla de temas y después si influyeron el cansancio o el tiempo."
+    ]
+   },
+   {
+    "p": "La app The Wine Goat guarda el historial de tus simulacros y sesiones de práctica, así ves tu progreso por parte y por tema, y tus puntos más débiles vuelven automáticamente hasta que mejoran: una preparación del examen WSET basada en tus propios resultados."
+   }
+  ],
+  "faq": [
+   [
+    "¿Son realistas los simulacros online del WSET nivel 3?",
+    "Un buen simulacro reproduce la estructura del examen: preguntas tipo test de todo el temario, respuestas cortas y una nota de cata a ciegas. Las preguntas están escritas para practicar, así que nunca son las del examen real, pero el formato, la presión del tiempo y los tipos de trampa son parecidos. Su verdadero valor está en entrenar el tiempo y revelar tus temas débiles."
+   ],
+   [
+    "¿Debo incluir la cata en el simulacro?",
+    "Sí, siempre que puedas. La unidad de cata se califica por separado y exige por sí sola un 55 %, así que merece un ensayo en las mismas condiciones: dos vinos servidos y tapados por otra persona, un tiempo fijo y una nota SAT completa para cada uno. Hacerla después de la teoría también te entrena a catar bien cuando ya estás cansado."
+   ],
+   [
+    "¿Qué hago después de un mal resultado en el simulacro?",
+    "No repitas enseguida un simulacro completo. Analízalo con calma, anota cada punto perdido en un registro de errores con su causa y elige las dos o tres causas más frecuentes. Trabájalas durante una semana con sesiones diarias cortas y luego haz otro simulacro para comprobar la mejora. Un primer simulacro flojo es útil porque te enseña dónde trabajar."
+   ],
+   [
+    "¿Puedo hacer el simulacro en otro idioma?",
+    "Sí, y puede ayudarte si vas a hacer el examen en un idioma que no es el tuyo. Practicar en el idioma del examen te entrena a leer las preguntas con precisión y a escribir bien los términos técnicos. The Wine Goat ofrece sus preguntas en español, inglés, italiano y francés, así que también puedes comparar una explicación en dos idiomas cuando un término no te quede claro."
+   ],
+   [
+    "¿Cuánto tiempo dedicar a analizar un simulacro?",
+    "Calcula al menos lo mismo que dura la prueba teórica, y a menudo más. Corregir lleva poco; lo valioso es entender cada respuesta fallada o dudosa, comparar tus respuestas escritas con los puntos esperados y convertir los patrones en un plan para la semana siguiente. Quien analiza a fondo suele mejorar más rápido que quien se limita a hacer más simulacros."
+   ]
+  ]
  }
 }
