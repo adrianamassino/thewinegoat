@@ -10,7 +10,7 @@ window.TWG_S2 = {
     { k: "p", w: 14, n: { it: "Produzione dei distillati", fr: "Production des spiritueux", en: "Spirits production", es: "Producción de destilados" }, c: ["p1", "p2", "p3", "p4", "p5"] },
     { k: "s", w: 23, n: { it: "I principali distillati del mondo", fr: "Les grands spiritueux du monde", en: "The principal spirits", es: "Los principales destilados" }, c: ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8"] },
     { k: "f", w: 7, n: { it: "Aromatizzati, liquori e vini aromatizzati", fr: "Aromatisés, liqueurs et vins aromatisés", en: "Flavoured spirits, liqueurs, aromatised wines", es: "Aromatizados, licores y vinos aromatizados" }, c: ["f1", "f2", "f3", "f4"] },
-    { k: "t", w: 6, n: { it: "Il bar e i cocktail", fr: "Le bar et les cocktails", en: "The bar and cocktails", es: "La barra y los cócteles" }, c: ["t1", "t2", "t3"] }
+    { k: "t", w: 6, n: { it: "Il bar e i cocktail", fr: "Le bar et les cocktails", en: "The bar and cocktails", es: "La barra y los cócteles" }, c: ["t1", "t2", "t3", "t0"] }
   ],
   chapters: {
     /* ---------- spirits production (exam: 14 questions) ---------- */
@@ -76,7 +76,10 @@ window.TWG_S2 = {
       lessons: ["fresh juice, simple and flavoured syrups, bitters, garnishes, cubed and crushed ice", "balance: strong, weak, sour/bitter, sweet"] },
     t3: { w: 3, n: { it: "Famiglie di cocktail", fr: "Familles de cocktails", en: "Cocktail families", es: "Familias de cócteles" },
       lessons: ["highball: Cuba Libre, Moscow Mule", "sour: Pisco Sour, Whisky Sour, Daiquiri, Tommy's; Sidecar, Margarita, Cosmopolitan",
-                "Collins: Tom, Vodka, Pierre Collins; Mojito, Paloma", "spirit-forward: Manhattan, Martini, Old Fashioned, Sazerac, Negroni; Rob Roy, wet and dirty Martini"] }
+                "Collins: Tom, Vodka, Pierre Collins; Mojito, Paloma", "spirit-forward: Manhattan, Martini, Old Fashioned, Sazerac, Negroni; Rob Roy, wet and dirty Martini"] },
+    t0: { w: 0, n: { it: "Degustare e valutare i distillati", fr: "Déguster et évaluer les spiritueux", en: "Tasting and judging spirits", es: "Catar y valorar destilados" },
+      lessons: ["tasting conditions, glass, small sample, adding water", "appearance, nose, palate, finish: what each step tells you",
+                "aromas by source: raw material, processing, oak and age", "judging quality: from faulty to outstanding"] }
   },
   /* course tastings: about 29 spirits — used by "My spirits" and the tasting game */
   tastings: { min: 29, suggest: ["VS, VSOP, XO Cognac", "Armagnac / Grappa / Pisco", "Tennessee, Bourbon, Rye", "two single malts + a blend", "Cuban-style white rum",
