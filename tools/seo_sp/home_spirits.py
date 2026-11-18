@@ -96,7 +96,9 @@ T = {
 }
 GOATS = ['ig-n21.webp', 'ig-n05.webp', 'ig-n26.webp']
 A, Z = '<!--spirits-->', '<!--/spirits-->'
+import os
 for l, d in DIRS.items():
+    if not os.path.exists('.' + SL['hub'][l] + 'index.html'): continue  # pages not built yet in this language
     p = f'{d}/index.html'; s = open(p, encoding='utf8').read(); t = T[l]
     s = re.sub(re.escape(A) + '.*?' + re.escape(Z), '', s, flags=re.S)
     cards = ''
@@ -111,7 +113,7 @@ for l, d in DIRS.items():
     assert i > 0, p
     s = s[:j] + sec + s[j:]
     # menu link
-    s = re.sub(r'(<ul class="nav3">)', lambda m: m.group(1) + f'{A}<li><a href="#spirits">{e(t[9])}</a></li>{Z}', s, count=1)
+    s = re.sub(r'(<ul class="nav3">.*?)(</ul>)', lambda m: m.group(1) + f'{A}<li><a href="#spirits">{e(t[9])}</a></li>{Z}' + m.group(2), s, count=1, flags=re.S)
     # hero sentence
     s = re.sub(r'(<p class="sub3">)(.*?)(</p>)', lambda m: m.group(1) + m.group(2) + f'{A} {e(t[12])}{Z}' + m.group(3), s, count=1, flags=re.S)
     # FAQ (visible + JSON-LD)
