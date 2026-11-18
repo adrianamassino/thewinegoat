@@ -1,0 +1,2832 @@
+{
+ "lessons": [
+  {
+   "c": "t1",
+   "t": [
+    "Preparare il posto e il bicchiere",
+    "Préparer le lieu et le verre",
+    "Setting the scene and choosing the glass",
+    "Preparar el lugar y la copa"
+   ],
+   "p": [
+    [
+     "Degustare un distillato significa osservarlo con attenzione, e per farlo bene serve un metodo da ripetere sempre allo stesso modo. Se ogni campione viene trattato nello stesso modo, le note scritte oggi si potranno confrontare con quelle di domani. Prima ancora di versare, però, conviene sistemare l'ambiente: un buon assaggio dipende tanto da ciò che c'è intorno al bicchiere quanto dal liquido che contiene.",
+     "Déguster un spiritueux, c'est l'observer avec attention, et pour bien le faire il faut une méthode que l'on répète toujours de la même façon. Si chaque échantillon est traité de manière identique, les notes prises aujourd'hui pourront être comparées à celles de demain. Avant même de servir, il vaut mieux préparer l'environnement : une bonne dégustation dépend autant de ce qui entoure le verre que du liquide qu'il contient.",
+     "Tasting a spirit means looking at it closely, and doing that well needs a method you repeat the same way every time. If every sample is treated identically, the notes you write today can be compared with the ones you write next month. Before pouring anything, though, it pays to prepare the setting: a good tasting depends as much on what surrounds the glass as on the liquid inside it.",
+     "Catar un destilado es observarlo con atención, y para hacerlo bien hace falta un método que se repita siempre igual. Si cada muestra se trata de la misma manera, las notas de hoy se podrán comparar con las de dentro de un mes. Pero antes de servir nada conviene preparar el entorno: una buena cata depende tanto de lo que rodea la copa como del líquido que contiene."
+    ],
+    [
+     "La stanza deve essere libera da odori che distraggono: niente profumi forti, cucina o candele. Serve buona luce naturale e una superficie bianca, come un foglio o una tovaglia, su cui tenere il bicchiere per giudicarne il colore senza riflessi ingannevoli. Anche chi assaggia ha la sua parte: bocca pulita, senza il ricordo di dentifricio o caffè, e il corpo ben idratato.",
+     "La pièce doit être libre de toute odeur parasite : pas de parfum puissant, de cuisine ni de bougie. Il faut une bonne lumière naturelle et une surface blanche, une feuille ou une nappe, sur laquelle poser le verre pour juger la couleur sans reflets trompeurs. La personne qui déguste compte aussi : une bouche propre, sans trace de dentifrice ou de café, et un corps bien hydraté.",
+     "The room should be free of distracting smells: no strong perfume, cooking or scented candles. You need good natural light and a white surface, such as a sheet of paper or a tablecloth, to hold the glass against so the colour can be judged without misleading reflections. The taster matters too: a clean palate with no lingering toothpaste or coffee, and a well-hydrated body.",
+     "La sala debe estar libre de olores que distraigan: nada de perfumes fuertes, cocina ni velas aromáticas. Hace falta buena luz natural y una superficie blanca, como una hoja o un mantel, sobre la que mirar la copa para juzgar el color sin reflejos engañosos. Quien cata también cuenta: boca limpia, sin restos de pasta de dientes ni de café, y el cuerpo bien hidratado."
+    ],
+    [
+     "Poi c'è il bicchiere. La forma ideale ha una coppa ampia che si stringe verso l'alto, un po' come un tulipano. La parte larga lascia spazio agli aromi per liberarsi, mentre l'apertura più stretta li raccoglie e li porta dritti al naso. Con un bicchiere dritto e largo, invece, i profumi si disperdono nell'aria e il distillato sembra meno espressivo di quanto sia davvero.",
+     "Vient ensuite le verre. La forme idéale présente un large calice qui se resserre vers le haut, un peu comme une tulipe. La partie large laisse aux arômes la place de se libérer, tandis que l'ouverture plus étroite les rassemble et les conduit droit vers le nez. Avec un verre droit et évasé, au contraire, les parfums se dispersent et le spiritueux paraît moins expressif qu'il ne l'est vraiment.",
+     "Then comes the glass. The ideal shape has a wide bowl that narrows towards the rim, a little like a tulip. The wide part gives the aromas room to rise, while the narrower opening gathers them and channels them straight to your nose. In a straight, open tumbler, by contrast, the scents drift away and the spirit seems less expressive than it really is.",
+     "Después viene la copa. La forma ideal tiene un cuerpo ancho que se estrecha hacia el borde, un poco como un tulipán. La parte ancha deja espacio para que los aromas se liberen, y la boca más estrecha los concentra y los lleva directos a la nariz. En un vaso recto y abierto, en cambio, los aromas se dispersan y el destilado parece menos expresivo de lo que es."
+    ]
+   ],
+   "keys": [
+    [
+     "Un metodo sempre uguale rende le note confrontabili nel tempo.",
+     "Une méthode toujours identique rend les notes comparables dans le temps.",
+     "A consistent method makes your notes comparable over time.",
+     "Un método siempre igual hace que las notas sean comparables con el tiempo."
+    ],
+    [
+     "Stanza senza odori, luce naturale e superficie bianca per il colore.",
+     "Pièce sans odeurs, lumière naturelle et surface blanche pour la couleur.",
+     "No stray smells, natural light and a white surface for colour.",
+     "Sala sin olores, luz natural y superficie blanca para el color."
+    ],
+    [
+     "Bocca pulita (niente dentifricio o caffè) e buona idratazione.",
+     "Bouche propre (ni dentifrice ni café) et bonne hydratation.",
+     "A clean palate (no toothpaste or coffee) and good hydration.",
+     "Boca limpia (sin pasta de dientes ni café) y buena hidratación."
+    ],
+    [
+     "Bicchiere a coppa ampia che si stringe in alto: concentra gli aromi.",
+     "Verre à large calice resserré en haut : il concentre les arômes.",
+     "A wide bowl narrowing at the top concentrates the aromas.",
+     "Copa ancha que se estrecha arriba: concentra los aromas."
+    ]
+   ]
+  },
+  {
+   "c": "t1",
+   "t": [
+    "Il metodo passo dopo passo",
+    "La méthode pas à pas",
+    "The method step by step",
+    "El método paso a paso"
+   ],
+   "p": [
+    [
+     "Anche se il produttore lo ha già diluito prima dell'imbottigliamento, un distillato resta una bevanda molto forte. A 40% vol l'alcol punge il naso e scalda la bocca, coprendo molte sfumature. Per questo si lavora con un campione piccolo, circa 1,5 cL, cioè più o meno un cucchiaio. Bastano poche gocce per avere tutto ciò che serve, senza stancare i sensi.",
+     "Même si le producteur l'a déjà dilué avant la mise en bouteille, un spiritueux reste une boisson très forte. À 40 % vol, l'alcool pique le nez et chauffe la bouche, masquant beaucoup de nuances. On travaille donc avec un petit échantillon, environ 1,5 cL, soit à peu près une cuillère à soupe. Cela suffit largement, sans fatiguer les sens.",
+     "Even though the distiller has already diluted it before bottling, a spirit is still a very strong drink. At 40% abv the alcohol stings the nose and warms the mouth, hiding many details. That is why you work with a small sample of about 1.5 cL, roughly a tablespoon. It gives you everything you need without tiring your senses.",
+     "Aunque el productor ya lo haya rebajado antes de embotellarlo, un destilado sigue siendo una bebida muy fuerte. A 40 % vol, el alcohol pica en la nariz y calienta la boca, tapando muchos matices. Por eso se trabaja con una muestra pequeña, de unos 1,5 cL, más o menos una cucharada. Es suficiente para todo lo que hace falta sin cansar los sentidos."
+    ],
+    [
+     "Il percorso è semplice. Prima si guarda il campione e lo si annusa così com'è. Poi si aggiunge la stessa quantità d'acqua, altri 1,5 cL, così il liquido si dimezza di forza. Si annusa di nuovo: spesso compaiono profumi che prima l'alcol nascondeva, come quando si apre una finestra in una stanza affollata. Solo a questo punto si passa all'assaggio.",
+     "Le parcours est simple. On regarde d'abord l'échantillon et on le sent tel quel. On ajoute ensuite la même quantité d'eau, soit 1,5 cL de plus, ce qui divise sa force par deux. On sent à nouveau : des arômes que l'alcool cachait apparaissent souvent, comme lorsqu'on ouvre une fenêtre dans une pièce bondée. Ce n'est qu'alors que l'on passe à la bouche.",
+     "The route is simple. First you look at the sample and smell it neat. Then you add the same amount of water, another 1.5 cL, which halves its strength. You smell again: aromas the alcohol was hiding often appear, like opening a window in a crowded room. Only then do you move on to tasting.",
+     "El recorrido es sencillo. Primero se mira la muestra y se huele tal cual. Luego se añade la misma cantidad de agua, otros 1,5 cL, con lo que su fuerza se reduce a la mitad. Se vuelve a oler: a menudo aparecen aromas que el alcohol escondía, como al abrir una ventana en una sala llena de gente. Solo entonces se pasa a probar."
+    ],
+    [
+     "In bocca si fa girare il liquido per qualche secondo, si cercano i sapori e poi lo si sputa. Sputare non è scortesia: è ciò che permette di assaggiare più campioni restando lucidi e di giudicare l'ultimo con la stessa attenzione del primo. Riassumendo: poco campione, occhio e naso, acqua in pari quantità, di nuovo naso, bocca, sputare.",
+     "En bouche, on fait tourner le liquide quelques secondes, on cherche les saveurs, puis on recrache. Recracher n'a rien d'impoli : c'est ce qui permet de goûter plusieurs échantillons en gardant les idées claires et de juger le dernier avec autant de soin que le premier. En résumé : un petit échantillon, l'œil et le nez, autant d'eau, à nouveau le nez, la bouche, recracher.",
+     "In the mouth, you roll the liquid around for a few seconds, look for the flavours and then spit it out. Spitting is not rude: it lets you taste several samples while staying clear-headed and judge the last one as carefully as the first. In short: small sample, eyes and nose, equal water, nose again, palate, spit.",
+     "En boca, se mueve el líquido unos segundos, se buscan los sabores y después se escupe. Escupir no es de mala educación: permite probar varias muestras con la cabeza despejada y juzgar la última con la misma atención que la primera. En resumen: muestra pequeña, vista y nariz, la misma cantidad de agua, otra vez nariz, boca y escupir."
+    ]
+   ],
+   "keys": [
+    [
+     "Campione piccolo: circa 1,5 cL.",
+     "Petit échantillon : environ 1,5 cL.",
+     "Small sample: about 1.5 cL.",
+     "Muestra pequeña: unos 1,5 cL."
+    ],
+    [
+     "Si guarda e si annusa prima di aggiungere acqua.",
+     "On regarde et on sent avant d'ajouter de l'eau.",
+     "Look and smell before adding any water.",
+     "Se mira y se huele antes de añadir agua."
+    ],
+    [
+     "Si aggiunge la stessa quantità d'acqua, poi si annusa di nuovo.",
+     "On ajoute autant d'eau, puis on sent à nouveau.",
+     "Add an equal amount of water, then smell again.",
+     "Se añade la misma cantidad de agua y se vuelve a oler."
+    ],
+    [
+     "Si assaggia e poi si sputa.",
+     "On goûte puis on recrache.",
+     "Taste, then spit.",
+     "Se prueba y después se escupe."
+    ]
+   ]
+  },
+  {
+   "c": "t1",
+   "t": [
+    "Che cosa annotare",
+    "Que noter",
+    "What to write down",
+    "Qué anotar"
+   ],
+   "p": [
+    [
+     "Le note seguono l'ordine dell'assaggio: occhio, naso, bocca. Per l'aspetto basta il colore. Molti distillati non invecchiati sono incolori, mentre quelli passati in legno vanno dal giallo limone all'oro, all'ambra fino al marrone. Alcuni prodotti aromatizzati, soprattutto i liquori, possono avere tinte vivaci: rosa, rosso, verde, blu, perfino nero. Il colore è un primo indizio, non una prova.",
+     "Les notes suivent l'ordre de la dégustation : l'œil, le nez, la bouche. Pour l'aspect, la couleur suffit. Beaucoup de spiritueux non vieillis sont incolores, tandis que ceux passés en bois vont du jaune citron à l'or, à l'ambre puis au brun. Certains produits aromatisés, surtout les liqueurs, peuvent afficher des teintes vives : rose, rouge, vert, bleu, voire noir. La couleur est un premier indice, pas une preuve.",
+     "Your notes follow the order of the tasting: eyes, nose, palate. For appearance, colour is all you need. Many unaged spirits are colourless, while those that have spent time in wood range from lemon to gold, amber and brown. Some flavoured products, especially liqueurs, can be vivid: pink, red, green, blue, even black. Colour is a first clue, not proof.",
+     "Las notas siguen el orden de la cata: vista, nariz y boca. Para el aspecto basta con el color. Muchos destilados sin envejecer son incoloros, mientras que los que han pasado por madera van del amarillo limón al dorado, al ámbar y al marrón. Algunos productos aromatizados, sobre todo los licores, pueden tener colores vivos: rosa, rojo, verde, azul e incluso negro. El color es una primera pista, no una prueba."
+    ],
+    [
+     "Al naso si giudica prima l'intensità: un distillato può essere neutro, quasi senza profumo come molte vodka, oppure leggero, medio o pronunciato. Poi si descrivono gli aromi raggruppandoli per origine: quelli della materia prima, come frutta o cereali; quelli dovuti alla lavorazione; quelli del legno e dell'invecchiamento, come vaniglia, spezie o note tostate. Chiedersi «da dove viene questo profumo?» aiuta a ordinare le idee.",
+     "Au nez, on juge d'abord l'intensité : un spiritueux peut être neutre, presque sans odeur comme beaucoup de vodkas, ou bien léger, moyen ou prononcé. On décrit ensuite les arômes en les classant par origine : ceux de la matière première, comme le fruit ou la céréale ; ceux qui viennent de l'élaboration ; ceux du bois et du vieillissement, comme la vanille, les épices ou le grillé. Se demander « d'où vient cette odeur ? » aide à mettre de l'ordre.",
+     "On the nose, you first judge intensity: a spirit can be neutral, with almost no smell like many vodkas, or light, medium or pronounced. Then you describe the aromas grouped by where they come from: the raw material, such as fruit or grain; the way it was made; and the oak and maturation, such as vanilla, spice or toasty notes. Asking 'where does this smell come from?' helps you sort your thoughts.",
+     "En nariz se juzga primero la intensidad: un destilado puede ser neutro, casi sin olor como muchos vodkas, o bien ligero, medio o pronunciado. Después se describen los aromas agrupándolos por su origen: los de la materia prima, como fruta o cereal; los que vienen de la elaboración; y los de la madera y el envejecimiento, como vainilla, especias o tostados. Preguntarse «¿de dónde viene este olor?» ayuda a ordenar las ideas."
+    ],
+    [
+     "In bocca si ritrovano gli stessi gruppi di sapori, più due osservazioni utili: quanto zucchero si percepisce e che consistenza ha il liquido, se scorrevole o più ricco. Dopo aver sputato si misura il finale, cioè quanto a lungo restano i sapori: corto, medio o lungo. Infine si dà un giudizio sulla complessità, da neutro a semplice, fino a molto complesso quando i sapori sono tanti e cambiano.",
+     "En bouche, on retrouve les mêmes familles de saveurs, plus deux observations utiles : le niveau de sucre perçu et la texture du liquide, fluide ou plus riche. Après avoir recraché, on mesure la finale, c'est-à-dire combien de temps les saveurs persistent : courte, moyenne ou longue. Enfin, on juge la complexité, de neutre à simple, jusqu'à très complexe lorsque les saveurs sont nombreuses et évoluent.",
+     "On the palate you find the same groups of flavours, plus two useful observations: how much sugar you can sense and what the texture is like, thin or richer. After spitting, you measure the finish, meaning how long the flavours linger: short, medium or long. Finally, you judge complexity, from neutral to simple, up to very complex when there are many flavours that keep changing.",
+     "En boca se encuentran los mismos grupos de sabores, más dos observaciones útiles: cuánto azúcar se percibe y qué textura tiene el líquido, fluida o más rica. Tras escupir se mide el final, es decir, cuánto tiempo permanecen los sabores: corto, medio o largo. Por último se valora la complejidad, de neutro a simple, hasta muy complejo cuando hay muchos sabores que van cambiando."
+    ]
+   ],
+   "keys": [
+    [
+     "Aspetto: il colore, da incolore a marrone, o tinte vivaci nei prodotti aromatizzati.",
+     "Aspect : la couleur, d'incolore à brun, ou des teintes vives pour les produits aromatisés.",
+     "Appearance: colour, from colourless to brown, or vivid shades in flavoured products.",
+     "Aspecto: el color, de incoloro a marrón, o tonos vivos en productos aromatizados."
+    ],
+    [
+     "Naso: intensità (neutro, leggero, medio, pronunciato) e aromi per origine.",
+     "Nez : intensité (neutre, léger, moyen, prononcé) et arômes par origine.",
+     "Nose: intensity (neutral, light, medium, pronounced) and aromas by source.",
+     "Nariz: intensidad (neutra, ligera, media, pronunciada) y aromas por origen."
+    ],
+    [
+     "Origini degli aromi: materia prima, lavorazione, legno e invecchiamento.",
+     "Origines des arômes : matière première, élaboration, bois et vieillissement.",
+     "Aroma sources: raw material, processing, oak and maturation.",
+     "Origen de los aromas: materia prima, elaboración, madera y envejecimiento."
+    ],
+    [
+     "Bocca: sapori, zucchero, consistenza; poi finale (corto, medio, lungo) e complessità.",
+     "Bouche : saveurs, sucre, texture ; puis finale (courte, moyenne, longue) et complexité.",
+     "Palate: flavours, sugar, texture; then finish (short, medium, long) and complexity.",
+     "Boca: sabores, azúcar, textura; después final (corto, medio, largo) y complejidad."
+    ]
+   ]
+  },
+  {
+   "c": "t2",
+   "t": [
+    "Forte contro leggero",
+    "Fort contre léger",
+    "Strong versus weak",
+    "Fuerte frente a suave"
+   ],
+   "p": [
+    [
+     "Buoni ingredienti e strumenti giusti aiutano, ma ciò che trasforma un cocktail discreto in uno memorabile è l'equilibrio. Si può immaginarlo come due bilance. La prima mette su un piatto la parte forte e sull'altro quella leggera; la seconda mette il dolce contro l'amaro e l'acido. Insieme formano quattro punti di equilibrio, e ogni cocktail classico è costruito proprio su questi quattro elementi.",
+     "De bons ingrédients et les bons outils aident, mais ce qui transforme un cocktail correct en un cocktail mémorable, c'est l'équilibre. On peut l'imaginer comme deux balances. La première place le fort d'un côté et le léger de l'autre ; la seconde oppose le sucré à l'amer et à l'acide. Ensemble, elles donnent quatre points d'équilibre, et chaque cocktail classique est construit sur ces quatre éléments.",
+     "Good ingredients and the right tools help, but what turns a decent cocktail into a memorable one is balance. Picture two sets of scales. The first weighs the strong part against the weak part; the second weighs sweet against bitter and sour. Together they give four points of balance, and every classic cocktail is built from exactly these four elements.",
+     "Los buenos ingredientes y las herramientas adecuadas ayudan, pero lo que convierte un cóctel correcto en uno memorable es el equilibrio. Se puede imaginar como dos balanzas. La primera pone lo fuerte en un platillo y lo suave en el otro; la segunda enfrenta lo dulce con lo amargo y lo ácido. Juntas dan cuatro puntos de equilibrio, y todo cóctel clásico se construye con estos cuatro elementos."
+    ],
+    [
+     "La parte forte è il distillato di base, di solito al 40% vol o più. È il cuore del gusto: in un Daiquiri è il rum, in un Martini è il gin. Cambiare distillato cambia il cocktail. Anche passare a un altro prodotto della stessa categoria modifica il risultato, e sostituire del tutto la base crea una variante, come un Old Fashioned fatto con il rum invece che con il whiskey.",
+     "Le fort, c'est le spiritueux de base, en général à 40 % vol ou plus. C'est le cœur du goût : dans un Daiquiri, c'est le rhum ; dans un Martini, le gin. Changer de spiritueux change le cocktail. Même passer à un autre produit de la même catégorie modifie le résultat, et remplacer complètement la base crée une variante, comme un Old Fashioned au rhum au lieu du whiskey.",
+     "The strong part is the base spirit, usually 40% abv or more. It is the heart of the flavour: rum in a Daiquiri, gin in a Martini. Change the spirit and you change the drink. Even switching to another product from the same category alters the result, and replacing the base entirely creates a variation, such as an Old Fashioned made with rum instead of whiskey.",
+     "Lo fuerte es el destilado base, normalmente de 40 % vol o más. Es el corazón del sabor: el ron en un Daiquiri, la ginebra en un Martini. Si se cambia el destilado, cambia el cóctel. Incluso pasar a otro producto de la misma categoría modifica el resultado, y sustituir del todo la base crea una variante, como un Old Fashioned hecho con ron en lugar de whiskey."
+    ],
+    [
+     "La parte leggera ammorbidisce la forza dell'alcol. Una fonte c'è sempre: il ghiaccio, che fondendo un po' mentre si mescola o si shakera aggiunge acqua. Altre sono facoltative e analcoliche: succhi di frutta, panna o latte, bibite gassate, acqua gassata, acqua tonica. Pensate a un gin tonic: il gin è la parte forte, la tonica e il ghiaccio fanno da contrappeso.",
+     "Le léger adoucit la force de l'alcool. Une source est toujours présente : la glace, qui fond un peu quand on remue ou que l'on secoue, et apporte de l'eau. D'autres sont facultatives et sans alcool : jus de fruits, crème ou lait, sodas, eau gazeuse, tonic. Pensez à un gin tonic : le gin est le fort, le tonic et la glace font contrepoids.",
+     "The weak part softens the power of the alcohol. One source is always there: ice, which melts a little as you stir or shake and adds water. Others are optional and non-alcoholic: fruit juices, cream or milk, sodas, club soda and tonic. Think of a gin and tonic: the gin is the strong part, and the tonic and ice balance it.",
+     "Lo suave suaviza la fuerza del alcohol. Hay una fuente que siempre está: el hielo, que se funde un poco al remover o agitar y añade agua. Otras son opcionales y sin alcohol: zumos de fruta, nata o leche, refrescos, soda y tónica. Piensa en un gin-tonic: la ginebra es lo fuerte, y la tónica y el hielo hacen de contrapeso."
+    ]
+   ],
+   "keys": [
+    [
+     "Due bilance: forte contro leggero, dolce contro amaro e/o acido.",
+     "Deux balances : fort contre léger, sucré contre amer et/ou acide.",
+     "Two scales: strong vs weak, and sweet vs bitter and/or sour.",
+     "Dos balanzas: fuerte frente a suave, dulce frente a amargo y/o ácido."
+    ],
+    [
+     "Forte = distillato di base, di solito 40% vol o più.",
+     "Fort = spiritueux de base, en général 40 % vol ou plus.",
+     "Strong = the base spirit, usually 40% abv or more.",
+     "Fuerte = destilado base, normalmente 40 % vol o más."
+    ],
+    [
+     "Leggero = diluizione del ghiaccio più succhi, latticini, bibite o tonica.",
+     "Léger = dilution par la glace, plus jus, produits laitiers, sodas ou tonic.",
+     "Weak = dilution from ice, plus juices, dairy, sodas or tonic.",
+     "Suave = dilución del hielo, más zumos, lácteos, refrescos o tónica."
+    ],
+    [
+     "Cambiare il distillato di base crea una variante del cocktail.",
+     "Changer le spiritueux de base crée une variante du cocktail.",
+     "Swapping the base spirit creates a variation of the drink.",
+     "Cambiar el destilado base crea una variante del cóctel."
+    ]
+   ]
+  },
+  {
+   "c": "t2",
+   "t": [
+    "Dolce contro amaro e acido",
+    "Sucré contre amer et acide",
+    "Sweet versus bitter and sour",
+    "Dulce frente a amargo y ácido"
+   ],
+   "p": [
+    [
+     "Molti cocktail vengono prima addolciti e poi «condizionati» con un altro ingrediente, chiamato modificatore, che porta una nota amara, acida o entrambe. Il dolce può arrivare in varie forme: zucchero, sciroppo semplice, cioè zucchero sciolto in acqua, oppure un liquore. La dolcezza arrotonda e lega, ma da sola stanca: un cocktail troppo dolce risulta stucchevole e pesante.",
+     "Beaucoup de cocktails sont d'abord sucrés puis « assaisonnés » avec un autre ingrédient, appelé modificateur, qui apporte une note amère, acide ou les deux. Le sucré peut prendre plusieurs formes : sucre, sirop simple, c'est-à-dire du sucre dissous dans l'eau, ou une liqueur. La douceur arrondit et lie, mais seule elle lasse : un cocktail trop sucré devient écœurant et lourd.",
+     "Many cocktails are first sweetened and then 'seasoned' with another ingredient, called a modifier, which brings a bitter note, a sour note or both. Sweetness can come in several forms: sugar, simple syrup (sugar dissolved in water) or a liqueur. Sweetness rounds things off and binds them together, but on its own it tires the palate: a cocktail that is too sweet tastes cloying and heavy.",
+     "Muchos cócteles primero se endulzan y luego se «sazonan» con otro ingrediente, llamado modificador, que aporta una nota amarga, ácida o ambas. El dulzor puede llegar de varias formas: azúcar, jarabe simple, es decir, azúcar disuelto en agua, o un licor. El dulzor redondea y une, pero solo cansa: un cóctel demasiado dulce resulta empalagoso y pesado."
+    ],
+    [
+     "Il contrappeso è l'acidità o l'amaro. L'acido arriva soprattutto dagli agrumi: un po' di succo di lime o di limone rende il sorso vivace. L'amaro arriva in modo evidente dai bitter da cocktail, usati a gocce, ma anche da distillati amari. È come in cucina: un pizzico di sale o una spruzzata di limone fanno risaltare un piatto che sembrava piatto.",
+     "Le contrepoids, c'est l'acidité ou l'amertume. L'acide vient surtout des agrumes : un peu de jus de citron vert ou jaune rend la gorgée vive. L'amer vient très nettement des bitters à cocktail, utilisés en quelques gouttes, mais aussi des spiritueux amers. C'est comme en cuisine : une pincée de sel ou un trait de citron réveillent un plat qui semblait fade.",
+     "The counterweight is acidity or bitterness. Sourness comes mainly from citrus: a little lime or lemon juice makes the sip lively. Bitterness comes most obviously from cocktail bitters, used by the dash, but also from bitter spirits. It is just like cooking: a pinch of salt or a squeeze of lemon lifts a dish that seemed flat.",
+     "El contrapeso es la acidez o el amargor. Lo ácido viene sobre todo de los cítricos: un poco de zumo de lima o de limón hace el trago más vivo. Lo amargo llega de forma clara con los bitters de cóctel, que se usan por gotas, y también con los destilados amargos. Es como en la cocina: una pizca de sal o un chorrito de limón despiertan un plato que parecía soso."
+    ],
+    [
+     "Un singolo ingrediente può giocare più ruoli. I vini aromatizzati, come il vermouth, portano insieme dolcezza, amaro e acidità; un liquore porta alcol e dolcezza. L'obiettivo finale è un insieme coeso, in cui nessuna parte prevale sulle altre: se il cocktail sa solo di zucchero, di limone o di alcol, l'equilibrio non c'è ancora.",
+     "Un même ingrédient peut jouer plusieurs rôles. Les vins aromatisés, comme le vermouth, apportent à la fois douceur, amertume et acidité ; une liqueur apporte de l'alcool et du sucre. Le but est un ensemble cohérent, où aucun élément ne domine les autres : si le cocktail ne goûte que le sucre, le citron ou l'alcool, l'équilibre n'est pas encore atteint.",
+     "A single ingredient can play several roles. Aromatised wines such as vermouth bring sweetness, bitterness and acidity all at once; a liqueur brings both alcohol and sweetness. The goal is a cohesive whole in which no part dominates the others: if the drink tastes only of sugar, lemon or alcohol, it is not balanced yet.",
+     "Un solo ingrediente puede cumplir varios papeles. Los vinos aromatizados, como el vermut, aportan a la vez dulzor, amargor y acidez; un licor aporta alcohol y dulzor. El objetivo es un conjunto coherente, en el que ninguna parte domine a las demás: si el cóctel solo sabe a azúcar, a limón o a alcohol, todavía no está equilibrado."
+    ]
+   ],
+   "keys": [
+    [
+     "Il dolce viene da zucchero, sciroppo semplice o liquori.",
+     "Le sucré vient du sucre, du sirop simple ou des liqueurs.",
+     "Sweetness comes from sugar, simple syrup or liqueurs.",
+     "El dulzor viene del azúcar, el jarabe simple o los licores."
+    ],
+    [
+     "Troppo dolce = stucchevole.",
+     "Trop sucré = écœurant.",
+     "Too sweet = cloying.",
+     "Demasiado dulce = empalagoso."
+    ],
+    [
+     "Il modificatore porta acido (agrumi) e/o amaro (bitter).",
+     "Le modificateur apporte de l'acide (agrumes) et/ou de l'amer (bitters).",
+     "The modifier brings sour (citrus) and/or bitter (bitters).",
+     "El modificador aporta ácido (cítricos) y/o amargo (bitters)."
+    ],
+    [
+     "I vini aromatizzati possono dare dolce, amaro e acido insieme.",
+     "Les vins aromatisés peuvent apporter sucré, amer et acide à la fois.",
+     "Aromatised wines can add sweet, bitter and sour at once.",
+     "Los vinos aromatizados pueden aportar dulce, amargo y ácido a la vez."
+    ]
+   ]
+  },
+  {
+   "c": "t2",
+   "t": [
+    "Drink corti e drink lunghi",
+    "Short drinks et long drinks",
+    "Short drinks and long drinks",
+    "Tragos cortos y tragos largos"
+   ],
+   "p": [
+    [
+     "Centinaia di cocktail possono sembrare un labirinto, ma basta una prima divisione per orientarsi: drink corti e drink lunghi. I drink corti hanno pochi ingredienti e un volume ridotto. La loro parte leggera viene quasi solo dall'acqua che il ghiaccio rilascia mentre si mescola o si shakera; poi vengono serviti in un bicchiere piccolo, concentrati e intensi.",
+     "Des centaines de cocktails peuvent ressembler à un labyrinthe, mais une première division suffit pour s'orienter : les short drinks et les long drinks. Les short drinks comptent peu d'ingrédients et un petit volume. Leur partie légère vient presque uniquement de l'eau que libère la glace quand on remue ou que l'on secoue ; ils sont ensuite servis dans un petit verre, concentrés et intenses.",
+     "Hundreds of cocktails can look like a maze, but one first split is enough to find your way: short drinks and long drinks. Short drinks have few ingredients and a small volume. Their weak part comes almost entirely from the water released by ice while stirring or shaking; they are then served in a small glass, concentrated and intense.",
+     "Cientos de cócteles pueden parecer un laberinto, pero basta una primera división para orientarse: tragos cortos y tragos largos. Los cortos tienen pocos ingredientes y poco volumen. Su parte suave viene casi solo del agua que suelta el hielo al remover o agitar; después se sirven en un vaso pequeño, concentrados e intensos."
+    ],
+    [
+     "Tra i drink corti ci sono due famiglie. I cocktail «spirit-forward», dove domina il distillato, come il Manhattan, e i sour corti, che uniscono distillato, agrumi e dolce, come il Daiquiri. I drink lunghi, invece, hanno un volume maggiore: la parte leggera arriva da bibite gassate, succhi, latticini o altre bevande analcoliche. Qui si trovano gli highball e i sour lunghi.",
+     "Parmi les short drinks, on trouve deux familles : les cocktails « spirit-forward », où le spiritueux domine, comme le Manhattan, et les sours courts, qui associent spiritueux, agrumes et sucré, comme le Daiquiri. Les long drinks, eux, ont un volume plus important : leur partie légère vient de sodas, de jus, de produits laitiers ou d'autres boissons sans alcool. On y trouve les highballs et les sours longs.",
+     "Short drinks include two families: spirit-forward cocktails, where the spirit leads, such as the Manhattan, and short sours, which combine spirit, citrus and sweetness, such as the Daiquiri. Long drinks have a larger volume: their weak part comes from sodas, juices, dairy or other non-alcoholic drinks. This is where highballs and long sours belong.",
+     "Entre los tragos cortos hay dos familias: los cócteles «spirit-forward», donde manda el destilado, como el Manhattan, y los sours cortos, que combinan destilado, cítricos y dulzor, como el Daiquiri. Los tragos largos tienen más volumen: su parte suave llega de refrescos, zumos, lácteos u otras bebidas sin alcohol. Aquí están los highballs y los sours largos."
+    ],
+    [
+     "Un esempio aiuta a vedere il legame. Un gin sour corto, shakerato e servito in un bicchierino, diventa un drink lungo se lo si versa su ghiaccio e lo si allunga con acqua gassata. Gli ingredienti di base restano gli stessi; cambia la quantità della parte leggera, e con essa la forza, il volume e il momento in cui lo si beve.",
+     "Un exemple aide à voir le lien. Un gin sour court, secoué et servi dans un petit verre, devient un long drink si on le verse sur de la glace et qu'on l'allonge d'eau gazeuse. Les ingrédients de base restent les mêmes ; c'est la quantité de partie légère qui change, et avec elle la force, le volume et le moment où on le boit.",
+     "An example shows the link. A short gin sour, shaken and served in a small glass, becomes a long drink if you pour it over ice and top it with club soda. The core ingredients stay the same; what changes is the amount of the weak part, and with it the strength, the volume and the moment you might drink it.",
+     "Un ejemplo ayuda a ver la relación. Un gin sour corto, agitado y servido en un vaso pequeño, se convierte en un trago largo si se sirve sobre hielo y se completa con soda. Los ingredientes básicos son los mismos; lo que cambia es la cantidad de la parte suave, y con ella la fuerza, el volumen y el momento en que se bebe."
+    ]
+   ],
+   "keys": [
+    [
+     "Drink corti: pochi ingredienti, diluiti solo dal ghiaccio durante la preparazione.",
+     "Short drinks : peu d'ingrédients, dilués seulement par la glace pendant la préparation.",
+     "Short drinks: few ingredients, diluted only by ice during mixing.",
+     "Tragos cortos: pocos ingredientes, diluidos solo por el hielo al prepararlos."
+    ],
+    [
+     "Famiglie corte: spirit-forward e sour corti.",
+     "Familles courtes : spirit-forward et sours courts.",
+     "Short families: spirit-forward and short sours.",
+     "Familias cortas: spirit-forward y sours cortos."
+    ],
+    [
+     "Drink lunghi: più volume, allungati con bibite, succhi o latticini.",
+     "Long drinks : plus de volume, allongés de sodas, jus ou produits laitiers.",
+     "Long drinks: bigger volume, lengthened with sodas, juices or dairy.",
+     "Tragos largos: más volumen, alargados con refrescos, zumos o lácteos."
+    ],
+    [
+     "Famiglie lunghe: highball e sour lunghi.",
+     "Familles longues : highballs et sours longs.",
+     "Long families: highballs and long sours.",
+     "Familias largas: highballs y sours largos."
+    ]
+   ]
+  },
+  {
+   "c": "t3",
+   "t": [
+    "I cocktail spirit-forward",
+    "Les cocktails spirit-forward",
+    "Spirit-forward cocktails",
+    "Los cócteles spirit-forward"
+   ],
+   "p": [
+    [
+     "Sono i cocktail più alcolici, quelli che mettono in vetrina il distillato. Nella versione più semplice uniscono un distillato a zucchero e bitter, oppure un distillato a un liquore; nelle versioni più elaborate dolce e amaro arrivano da combinazioni di zucchero, vini aromatizzati e bitter. Si preparano direttamente nel bicchiere o mescolando, e il ghiaccio serve sia a raffreddare sia a diluire.",
+     "Ce sont les cocktails les plus alcoolisés, ceux qui mettent le spiritueux en vitrine. Dans leur forme la plus simple, ils associent un spiritueux à du sucre et des bitters, ou un spiritueux à une liqueur ; dans les versions plus élaborées, sucré et amer viennent de combinaisons de sucre, de vins aromatisés et de bitters. On les prépare directement dans le verre ou en remuant, et la glace sert à refroidir comme à diluer.",
+     "These are the strongest cocktails, the ones that put the spirit on show. In their simplest form they combine a spirit with sugar and bitters, or a spirit with a liqueur; in more elaborate versions, sweetness and bitterness come from mixes of sugar, aromatised wines and bitters. They are built in the glass or stirred, and the ice both chills and dilutes.",
+     "Son los cócteles con más alcohol, los que ponen el destilado en primer plano. En su forma más sencilla combinan un destilado con azúcar y bitters, o un destilado con un licor; en las versiones más elaboradas, el dulce y el amargo llegan de mezclas de azúcar, vinos aromatizados y bitters. Se preparan directamente en el vaso o removiendo, y el hielo sirve tanto para enfriar como para diluir."
+    ],
+    [
+     "L'Old Fashioned è il modello: whiskey americano, una zolletta di zucchero e bitter Angostura. Il Manhattan usa rye o Bourbon con gli stessi bitter, ma sostituisce lo zucchero con vermouth rosso dolce, che lo rende più complesso. Il Sazerac parte da Cognac o rye, con zucchero, bitter Peychaud's e un tocco di assenzio. Il Rusty Nail è il più semplice: Scotch whisky e Drambuie, un liquore.",
+     "L'Old Fashioned est le modèle : whiskey américain, un morceau de sucre et des bitters Angostura. Le Manhattan utilise du rye ou du Bourbon avec les mêmes bitters, mais remplace le sucre par du vermouth rouge doux, ce qui le rend plus complexe. Le Sazerac part d'un Cognac ou d'un rye, avec du sucre, des bitters Peychaud's et une touche d'absinthe. Le Rusty Nail est le plus simple : Scotch whisky et Drambuie, une liqueur.",
+     "The Old Fashioned is the template: American whiskey, a sugar cube and Angostura bitters. The Manhattan uses rye or Bourbon with the same bitters, but swaps the sugar for sweet red vermouth, which makes it more complex. The Sazerac starts from Cognac or rye, with sugar, Peychaud's bitters and a touch of absinthe. The Rusty Nail is the simplest: Scotch whisky and Drambuie, a liqueur.",
+     "El Old Fashioned es el modelo: whiskey americano, un terrón de azúcar y bitters Angostura. El Manhattan usa rye o Bourbon con los mismos bitters, pero cambia el azúcar por vermut rojo dulce, lo que lo hace más complejo. El Sazerac parte de Cognac o rye, con azúcar, bitters Peychaud's y un toque de absenta. El Rusty Nail es el más sencillo: Scotch whisky y Drambuie, un licor."
+    ],
+    [
+     "Con il gin nascono due grandi classici. Il Martini abbina gin e vermouth dry, che da solo porta sia la nota dolce sia quella amara. Il Negroni unisce gin, vermouth rosso dolce e Campari, un distillato amaro rosso: tre ingredienti, tre ruoli chiari. Infine, aggiungendo panna a un drink di questo tipo nasce la famiglia degli Alexander, come il Brandy Alexander.",
+     "Avec le gin naissent deux grands classiques. Le Martini associe gin et vermouth dry, qui apporte à lui seul la note sucrée et la note amère. Le Negroni réunit gin, vermouth rouge doux et Campari, un spiritueux amer rouge : trois ingrédients, trois rôles clairs. Enfin, en ajoutant de la crème à ce type de boisson, on obtient la famille des Alexander, comme le Brandy Alexander.",
+     "Gin gives two great classics. The Martini pairs gin with dry vermouth, which on its own provides both the sweet and the bitter note. The Negroni combines gin, sweet red vermouth and Campari, a red bitter spirit: three ingredients, three clear roles. Finally, adding cream to this kind of drink creates the Alexander family, such as the Brandy Alexander.",
+     "Con la ginebra nacen dos grandes clásicos. El Martini combina ginebra y vermut seco, que aporta por sí solo la nota dulce y la amarga. El Negroni une ginebra, vermut rojo dulce y Campari, un destilado amargo rojo: tres ingredientes, tres papeles claros. Por último, al añadir nata a este tipo de bebida nace la familia de los Alexander, como el Brandy Alexander."
+    ]
+   ],
+   "keys": [
+    [
+     "Spirit-forward: i più alcolici, preparati nel bicchiere o mescolati.",
+     "Spirit-forward : les plus alcoolisés, préparés dans le verre ou remués.",
+     "Spirit-forward: the strongest drinks, built or stirred.",
+     "Spirit-forward: los más alcohólicos, preparados en el vaso o removidos."
+    ],
+    [
+     "Old Fashioned e Manhattan: whiskey e Angostura; il Manhattan aggiunge vermouth dolce.",
+     "Old Fashioned et Manhattan : whiskey et Angostura ; le Manhattan ajoute du vermouth doux.",
+     "Old Fashioned and Manhattan: whiskey and Angostura; the Manhattan adds sweet vermouth.",
+     "Old Fashioned y Manhattan: whiskey y Angostura; el Manhattan añade vermut dulce."
+    ],
+    [
+     "Sazerac: Cognac o rye, Peychaud's e assenzio; Rusty Nail: Scotch e Drambuie.",
+     "Sazerac : Cognac ou rye, Peychaud's et absinthe ; Rusty Nail : Scotch et Drambuie.",
+     "Sazerac: Cognac or rye, Peychaud's and absinthe; Rusty Nail: Scotch and Drambuie.",
+     "Sazerac: Cognac o rye, Peychaud's y absenta; Rusty Nail: Scotch y Drambuie."
+    ],
+    [
+     "Martini: gin e vermouth dry; Negroni: gin, vermouth dolce, Campari. Con panna: Alexander.",
+     "Martini : gin et vermouth dry ; Negroni : gin, vermouth doux, Campari. Avec crème : Alexander.",
+     "Martini: gin and dry vermouth; Negroni: gin, sweet vermouth, Campari. With cream: Alexander.",
+     "Martini: ginebra y vermut seco; Negroni: ginebra, vermut dulce, Campari. Con nata: Alexander."
+    ]
+   ]
+  },
+  {
+   "c": "t3",
+   "t": [
+    "I sour corti",
+    "Les sours courts",
+    "Short sours",
+    "Los sours cortos"
+   ],
+   "p": [
+    [
+     "Il sour corto si regge su un trio: forte, acido, dolce. La ricetta base prevede un distillato, un succo di agrumi e un dolcificante neutro come lo sciroppo semplice. Questi drink si shakerano: lo shaker raffredda, mescola, diluisce un po' e dona una consistenza leggera e ariosa, quasi spumosa. È la famiglia da cui derivano moltissimi cocktail di successo.",
+     "Le sour court repose sur un trio : fort, acide, sucré. La recette de base associe un spiritueux, un jus d'agrume et un édulcorant neutre comme le sirop simple. Ces boissons se secouent : le shaker refroidit, mélange, dilue un peu et donne une texture légère et aérienne, presque mousseuse. C'est la famille dont découlent de très nombreux cocktails à succès.",
+     "The short sour rests on a trio: strong, sour, sweet. The basic recipe is a spirit, a citrus juice and an unflavoured sweetener such as simple syrup. These drinks are shaken: the shaker chills, mixes, dilutes a little and gives a light, airy, almost frothy texture. It is the family behind a huge number of successful cocktails.",
+     "El sour corto se apoya en un trío: fuerte, ácido y dulce. La receta básica lleva un destilado, un zumo de cítricos y un endulzante neutro como el jarabe simple. Estas bebidas se agitan: la coctelera enfría, mezcla, diluye un poco y da una textura ligera y aireada, casi espumosa. Es la familia de la que nacen muchísimos cócteles de éxito."
+    ],
+    [
+     "Tre classici mostrano lo schema puro. Il Daiquiri: rum, lime e sciroppo semplice. Il Whiskey Sour: Bourbon o rye, limone e sciroppo, con albume e bitter facoltativi. Il Pisco Sour: pisco, lime e sciroppo, più un albume e qualche goccia di bitter. Qui l'albume è indispensabile: crea una testa di schiuma e una consistenza setosa. Molti bar oggi usano l'aquafaba, l'acqua di cottura dei ceci, come alternativa vegana.",
+     "Trois classiques montrent le schéma pur. Le Daiquiri : rhum, citron vert et sirop simple. Le Whiskey Sour : Bourbon ou rye, citron jaune et sirop, avec blanc d'œuf et bitters facultatifs. Le Pisco Sour : pisco, citron vert et sirop, plus un blanc d'œuf et quelques gouttes de bitters. Ici, le blanc d'œuf est indispensable : il crée une tête de mousse et une texture soyeuse. Beaucoup de bars utilisent aujourd'hui l'aquafaba, l'eau de cuisson des pois chiches, comme alternative végane.",
+     "Three classics show the pure pattern. The Daiquiri: rum, lime and simple syrup. The Whiskey Sour: Bourbon or rye, lemon and syrup, with optional egg white and bitters. The Pisco Sour: pisco, lime and syrup, plus one egg white and a dash of bitters. Here the egg white is essential: it creates a foam head and a silky texture. Many bars now use aquafaba, the water chickpeas are cooked in, as a vegan alternative.",
+     "Tres clásicos muestran el esquema puro. El Daiquiri: ron, lima y jarabe simple. El Whiskey Sour: Bourbon o rye, limón y jarabe, con clara de huevo y bitters opcionales. El Pisco Sour: pisco, lima y jarabe, más una clara y unas gotas de bitters. Aquí la clara es imprescindible: crea una capa de espuma y una textura sedosa. Muchos bares usan hoy el aquafaba, el agua de cocción de los garbanzos, como alternativa vegana."
+    ],
+    [
+     "Le varianti cambiano il dolcificante, l'acido o entrambi. Nel Sidecar il Cognac incontra limone e triple sec, un liquore all'arancia che sostituisce lo sciroppo. La Margarita usa tequila, lime e triple sec, con il bordo di sale facoltativo. Il Clover Club unisce gin, limone e sciroppo di lampone, con albume e, a piacere, un po' di vermouth: lo stesso schema, un colore tutto diverso.",
+     "Les variantes changent l'édulcorant, l'acide ou les deux. Dans le Sidecar, le Cognac rencontre le citron jaune et le triple sec, une liqueur d'orange qui remplace le sirop. La Margarita utilise tequila, citron vert et triple sec, avec un bord de sel facultatif. Le Clover Club associe gin, citron jaune et sirop de framboise, avec blanc d'œuf et, si l'on veut, un peu de vermouth : le même schéma, une tout autre couleur.",
+     "Variations change the sweetener, the sour ingredient or both. In the Sidecar, Cognac meets lemon and triple sec, an orange liqueur that replaces the syrup. The Margarita uses tequila, lime and triple sec, with an optional salt rim. The Clover Club brings together gin, lemon and raspberry syrup, with egg white and optionally a little vermouth: the same pattern, a completely different colour.",
+     "Las variantes cambian el endulzante, el ácido o ambos. En el Sidecar, el Cognac se encuentra con limón y triple sec, un licor de naranja que sustituye al jarabe. La Margarita usa tequila, lima y triple sec, con el borde de sal opcional. El Clover Club une ginebra, limón y jarabe de frambuesa, con clara y, si se quiere, un poco de vermut: el mismo esquema, un color muy distinto."
+    ]
+   ],
+   "keys": [
+    [
+     "Sour corto = distillato + agrumi + dolcificante, shakerato.",
+     "Sour court = spiritueux + agrume + édulcorant, secoué.",
+     "Short sour = spirit + citrus + sweetener, shaken.",
+     "Sour corto = destilado + cítrico + endulzante, agitado."
+    ],
+    [
+     "Daiquiri: rum e lime; Whiskey Sour: whiskey e limone; Pisco Sour: pisco, lime e albume.",
+     "Daiquiri : rhum et citron vert ; Whiskey Sour : whiskey et citron jaune ; Pisco Sour : pisco, citron vert et blanc d'œuf.",
+     "Daiquiri: rum and lime; Whiskey Sour: whiskey and lemon; Pisco Sour: pisco, lime and egg white.",
+     "Daiquiri: ron y lima; Whiskey Sour: whiskey y limón; Pisco Sour: pisco, lima y clara."
+    ],
+    [
+     "Albume: schiuma e consistenza setosa; alternativa vegana: aquafaba.",
+     "Blanc d'œuf : mousse et texture soyeuse ; alternative végane : aquafaba.",
+     "Egg white: foam and a silky texture; vegan alternative: aquafaba.",
+     "Clara: espuma y textura sedosa; alternativa vegana: aquafaba."
+    ],
+    [
+     "Varianti: Sidecar (Cognac), Margarita (tequila), Clover Club (gin, lampone).",
+     "Variantes : Sidecar (Cognac), Margarita (tequila), Clover Club (gin, framboise).",
+     "Variations: Sidecar (Cognac), Margarita (tequila), Clover Club (gin, raspberry).",
+     "Variantes: Sidecar (Cognac), Margarita (tequila), Clover Club (ginebra, frambuesa)."
+    ]
+   ]
+  },
+  {
+   "c": "t3",
+   "t": [
+    "Gli highball",
+    "Les highballs",
+    "Highballs",
+    "Los highballs"
+   ],
+   "p": [
+    [
+     "L'highball è il più semplice di tutti i drink miscelati: un distillato e una bevanda analcolica, serviti in un bicchiere lungo con ghiaccio a cubetti. Gin tonic, vodka tonic, whisky e soda sono esempi che quasi tutti conoscono senza sapere che appartengono a una famiglia. La regola è chiara: poco lavoro, tanto volume e la parte leggera affidata alla bibita.",
+     "Le highball est le plus simple de tous les mélanges : un spiritueux et une boisson sans alcool, servis dans un verre haut sur des glaçons. Gin tonic, vodka tonic, whisky soda sont des exemples que presque tout le monde connaît sans savoir qu'ils forment une famille. La règle est claire : peu de travail, beaucoup de volume et la partie légère confiée à la boisson gazeuse ou au jus.",
+     "The highball is the simplest of all mixed drinks: a spirit and a non-alcoholic mixer, served long over cubed ice. Gin and tonic, vodka and tonic, whisky and soda are examples almost everyone knows without realising they form a family. The rule is clear: little work, plenty of volume, and the weak part handed over to the mixer.",
+     "El highball es la más sencilla de todas las mezclas: un destilado y una bebida sin alcohol, servidos en vaso alto con hielo en cubitos. Gin-tonic, vodka con tónica o whisky con soda son ejemplos que casi todo el mundo conoce sin saber que forman una familia. La regla es clara: poco trabajo, mucho volumen y la parte suave en manos del refresco o el zumo."
+    ],
+    [
+     "Alcuni highball hanno un nome proprio. Il Cuba Libre è rum e cola con lime. Il Greyhound è vodka e succo di pompelmo: il succo, leggermente amaro e acido, fa da modificatore. Sono drink da immaginare in un pomeriggio caldo, facili da preparare a casa con ingredienti che si trovano ovunque, eppure costruiti con la stessa logica di equilibrio dei cocktail più complessi.",
+     "Certains highballs portent un nom. Le Cuba Libre, c'est rhum et cola avec du citron vert. Le Greyhound, c'est vodka et jus de pamplemousse : le jus, légèrement amer et acide, sert de modificateur. Ce sont des boissons d'après-midi d'été, faciles à préparer chez soi avec des ingrédients que l'on trouve partout, mais construites selon la même logique d'équilibre que les cocktails plus complexes.",
+     "Some highballs have their own names. The Cuba Libre is rum and cola with lime. The Greyhound is vodka and grapefruit juice: the slightly bitter, sour juice acts as the modifier. These are summer-afternoon drinks, easy to make at home with ingredients found anywhere, yet built on the same logic of balance as more complex cocktails.",
+     "Algunos highballs tienen nombre propio. El Cuba Libre es ron y cola con lima. El Greyhound es vodka y zumo de pomelo: el zumo, ligeramente amargo y ácido, hace de modificador. Son bebidas de tarde de verano, fáciles de preparar en casa con ingredientes que se encuentran en cualquier parte, pero construidas con la misma lógica de equilibrio que los cócteles más complejos."
+    ],
+    [
+     "Altri highball aggiungono un dettaglio. L'Horse's Neck unisce Cognac, ginger ale e bitter: un esempio di highball con una nota amara oltre a distillato e bibita. L'Americano, invece, ha una base divisa: la parte alcolica è formata da Campari e vermouth rosso dolce insieme, completati con acqua gassata. Meno alcolico di un Negroni, ne è quasi una versione allungata senza gin.",
+     "D'autres highballs ajoutent un détail. Le Horse's Neck associe Cognac, ginger ale et bitters : un exemple de highball avec une note amère en plus du spiritueux et du soda. L'Americano, lui, a une base partagée : la partie alcoolisée est formée de Campari et de vermouth rouge doux réunis, complétés d'eau gazeuse. Moins alcoolisé qu'un Negroni, il en est presque une version allongée sans gin.",
+     "Other highballs add a detail. The Horse's Neck combines Cognac, ginger ale and bitters: a highball with a bitter accent on top of spirit and mixer. The Americano has a split base: its alcoholic part is Campari and sweet red vermouth together, topped with club soda. Lighter than a Negroni, it is almost a lengthened version of it without the gin.",
+     "Otros highballs añaden un detalle. El Horse's Neck combina Cognac, ginger ale y bitters: un highball con una nota amarga además del destilado y el refresco. El Americano, en cambio, tiene una base dividida: su parte alcohólica son Campari y vermut rojo dulce juntos, completados con soda. Menos alcohólico que un Negroni, es casi una versión alargada de este sin ginebra."
+    ]
+   ],
+   "keys": [
+    [
+     "Highball: distillato + bibita analcolica, in bicchiere lungo con ghiaccio.",
+     "Highball : spiritueux + boisson sans alcool, en verre haut sur glace.",
+     "Highball: spirit + non-alcoholic mixer, served long over ice.",
+     "Highball: destilado + bebida sin alcohol, en vaso alto con hielo."
+    ],
+    [
+     "Cuba Libre: rum, cola e lime. Greyhound: vodka e succo di pompelmo.",
+     "Cuba Libre : rhum, cola et citron vert. Greyhound : vodka et jus de pamplemousse.",
+     "Cuba Libre: rum, cola and lime. Greyhound: vodka and grapefruit juice.",
+     "Cuba Libre: ron, cola y lima. Greyhound: vodka y zumo de pomelo."
+    ],
+    [
+     "Horse's Neck: Cognac, ginger ale e bitter.",
+     "Horse's Neck : Cognac, ginger ale et bitters.",
+     "Horse's Neck: Cognac, ginger ale and bitters.",
+     "Horse's Neck: Cognac, ginger ale y bitters."
+    ],
+    [
+     "Americano: base divisa di Campari e vermouth dolce, più acqua gassata.",
+     "Americano : base partagée de Campari et vermouth doux, plus eau gazeuse.",
+     "Americano: split base of Campari and sweet vermouth, plus club soda.",
+     "Americano: base dividida de Campari y vermut dulce, más soda."
+    ]
+   ]
+  },
+  {
+   "c": "t3",
+   "t": [
+    "I sour lunghi",
+    "Les sours longs",
+    "Long sours",
+    "Los sours largos"
+   ],
+   "p": [
+    [
+     "Il sour lungo comprende diverse sottofamiglie: i Collins, gli Sling e i sour frizzanti. Nella forma più semplice è un sour corto reso lungo con acqua gassata. Il Tom Collins ne è l'esempio perfetto: gin, succo di limone e sciroppo semplice, versati su ghiaccio e completati con soda. È rinfrescante, dissetante e mostra bene come un'unica ricetta possa cambiare veste.",
+     "Le sour long regroupe plusieurs sous-familles : les Collins, les Slings et les sours pétillants. Dans sa forme la plus simple, c'est un sour court rallongé à l'eau gazeuse. Le Tom Collins en est l'exemple parfait : gin, jus de citron jaune et sirop simple, versés sur glace et complétés d'eau gazeuse. Il est rafraîchissant, désaltérant, et montre bien comment une même recette peut changer d'allure.",
+     "The long sour covers several sub-families: Collinses, Slings and sparkling sours. In its simplest form it is a short sour made long with club soda. The Tom Collins is the perfect example: gin, lemon juice and simple syrup, poured over ice and topped with soda. It is refreshing and thirst-quenching, and shows clearly how one recipe can change its outfit.",
+     "El sour largo reúne varias subfamilias: los Collins, los Sling y los sours espumosos. En su forma más simple es un sour corto alargado con soda. El Tom Collins es el ejemplo perfecto: ginebra, zumo de limón y jarabe simple, servidos sobre hielo y completados con soda. Es refrescante, quita la sed y muestra muy bien cómo una misma receta puede cambiar de aspecto."
+    ],
+    [
+     "Al posto della soda si può usare una bibita aromatizzata o lo Champagne. La Paloma unisce tequila e lime a una soda al pompelmo di tipo messicano, che porta insieme dolcezza e bollicine; in alternativa si usano succo di pompelmo e acqua gassata. Il French 75 parte da Cognac o gin, limone e sciroppo semplice, e si completa con Champagne: un sour frizzante ed elegante.",
+     "À la place de l'eau gazeuse, on peut utiliser un soda aromatisé ou du Champagne. La Paloma associe tequila et citron vert à un soda au pamplemousse de type mexicain, qui apporte à la fois sucre et bulles ; on peut aussi employer jus de pamplemousse et eau gazeuse. Le French 75 part d'un Cognac ou d'un gin, de citron jaune et de sirop simple, et se complète au Champagne : un sour pétillant et élégant.",
+     "Instead of club soda you can use a flavoured soda or Champagne. The Paloma combines tequila and lime with a Mexican-style grapefruit soda, which brings sweetness and bubbles at once; alternatively, grapefruit juice and soda water are used. The French 75 starts from Cognac or gin, lemon and simple syrup, and is topped with Champagne: an elegant sparkling sour.",
+     "En lugar de soda se puede usar un refresco aromatizado o Champagne. La Paloma combina tequila y lima con un refresco de pomelo de estilo mexicano, que aporta a la vez dulzor y burbujas; como alternativa se usan zumo de pomelo y soda. El French 75 parte de Cognac o ginebra, limón y jarabe simple, y se completa con Champagne: un sour espumoso y elegante."
+    ],
+    [
+     "Alcuni sour lunghi si arricchiscono con ingredienti extra. Il Mojito resta semplice: rum, lime e zucchero o sciroppo, con foglie di menta che lo rendono fresco e profumato. Il Singapore Sling è più complesso: gin e lime, addolciti da un liquore alla ciliegia e da un liquore alle erbe, con qualche goccia di bitter Angostura e un'aggiunta finale di acqua gassata.",
+     "Certains sours longs s'enrichissent d'ingrédients supplémentaires. Le Mojito reste simple : rhum, citron vert et sucre ou sirop, avec des feuilles de menthe qui le rendent frais et parfumé. Le Singapore Sling est plus complexe : gin et citron vert, adoucis par une liqueur de cerise et une liqueur aux plantes, avec quelques gouttes de bitters Angostura et un complément d'eau gazeuse.",
+     "Some long sours are enriched with extra ingredients. The Mojito stays simple: rum, lime and sugar or syrup, with mint leaves that make it fresh and fragrant. The Singapore Sling is more complex: gin and lime, sweetened with a cherry liqueur and a herbal liqueur, with a dash of Angostura bitters and a final top of club soda.",
+     "Algunos sours largos se enriquecen con ingredientes extra. El Mojito sigue siendo sencillo: ron, lima y azúcar o jarabe, con hojas de menta que lo hacen fresco y aromático. El Singapore Sling es más complejo: ginebra y lima, endulzadas con un licor de cereza y un licor de hierbas, con unas gotas de bitters Angostura y un toque final de soda."
+    ]
+   ],
+   "keys": [
+    [
+     "Sour lungo = sour corto allungato; sottofamiglie: Collins, Sling, sour frizzanti.",
+     "Sour long = sour court allongé ; sous-familles : Collins, Slings, sours pétillants.",
+     "Long sour = a lengthened short sour; sub-families: Collins, Sling, sparkling sour.",
+     "Sour largo = sour corto alargado; subfamilias: Collins, Sling, sours espumosos."
+    ],
+    [
+     "Tom Collins: gin, limone, sciroppo, acqua gassata.",
+     "Tom Collins : gin, citron jaune, sirop, eau gazeuse.",
+     "Tom Collins: gin, lemon, syrup, club soda.",
+     "Tom Collins: ginebra, limón, jarabe, soda."
+    ],
+    [
+     "Paloma: tequila, lime, soda al pompelmo. French 75: Cognac o gin, limone, sciroppo, Champagne.",
+     "Paloma : tequila, citron vert, soda au pamplemousse. French 75 : Cognac ou gin, citron jaune, sirop, Champagne.",
+     "Paloma: tequila, lime, grapefruit soda. French 75: Cognac or gin, lemon, syrup, Champagne.",
+     "Paloma: tequila, lima, refresco de pomelo. French 75: Cognac o ginebra, limón, jarabe, Champagne."
+    ],
+    [
+     "Mojito: rum, lime, zucchero e menta. Singapore Sling: gin, lime, liquori, bitter, soda.",
+     "Mojito : rhum, citron vert, sucre et menthe. Singapore Sling : gin, citron vert, liqueurs, bitters, eau gazeuse.",
+     "Mojito: rum, lime, sugar and mint. Singapore Sling: gin, lime, liqueurs, bitters, soda.",
+     "Mojito: ron, lima, azúcar y menta. Singapore Sling: ginebra, lima, licores, bitters, soda."
+    ]
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "c": "t1",
+   "q": [
+    "Perché si aggiunge acqua al campione durante una degustazione di distillati?",
+    "Pourquoi ajoute-t-on de l'eau à l'échantillon lors d'une dégustation de spiritueux ?",
+    "Why is water added to the sample when tasting a spirit?",
+    "¿Por qué se añade agua a la muestra al catar un destilado?"
+   ],
+   "o": [
+    [
+     "Perché a 40% vol è difficile giudicarlo con precisione",
+     "Parce qu'à 40 % vol il est difficile de le juger avec précision",
+     "Because at 40% abv it is hard to judge accurately",
+     "Porque a 40 % vol es difícil juzgarlo con precisión"
+    ],
+    [
+     "Perché l'acqua cambia il colore e lo rende più leggibile",
+     "Parce que l'eau change la couleur et la rend plus lisible",
+     "Because water changes the colour and makes it easier to read",
+     "Porque el agua cambia el color y lo hace más fácil de leer"
+    ],
+    [
+     "Perché l'acqua aggiunge zucchero e rende il sorso più morbido",
+     "Parce que l'eau ajoute du sucre et adoucit la gorgée",
+     "Because water adds sugar and softens the sip",
+     "Porque el agua añade azúcar y suaviza el trago"
+    ],
+    [
+     "Perché il distillato non è mai stato diluito prima",
+     "Parce que le spiritueux n'a jamais été dilué auparavant",
+     "Because the spirit has never been diluted before",
+     "Porque el destilado nunca se ha rebajado antes"
+    ]
+   ],
+   "e": [
+    "La forza dell'alcol copre molti aromi: diluendo si percepiscono meglio.",
+    "La force de l'alcool masque de nombreux arômes : en diluant, on les perçoit mieux.",
+    "The strength of the alcohol hides many aromas; diluting reveals them.",
+    "La fuerza del alcohol tapa muchos aromas; al diluir se perciben mejor."
+   ],
+   "d": [
+    "Un distillato in bottiglia è già stato diluito dal produttore, ma a circa 40% vol resta molto forte: l'alcol punge il naso e copre le sfumature. Aggiungere acqua lo rende più facile da giudicare. L'acqua non aggiunge zucchero e non serve a valutare il colore, che si osserva prima della diluizione.",
+    "Un spiritueux en bouteille a déjà été dilué par le producteur, mais à environ 40 % vol il reste très fort : l'alcool pique le nez et masque les nuances. Ajouter de l'eau le rend plus facile à juger. L'eau n'apporte pas de sucre et ne sert pas à évaluer la couleur, que l'on observe avant la dilution.",
+    "A bottled spirit has already been diluted by the producer, but at around 40% abv it is still very strong: the alcohol stings the nose and masks the details. Adding water makes it easier to judge. Water adds no sugar and is not used to assess colour, which is looked at before diluting.",
+    "Un destilado embotellado ya ha sido rebajado por el productor, pero a unos 40 % vol sigue siendo muy fuerte: el alcohol pica en la nariz y tapa los matices. Añadir agua lo hace más fácil de juzgar. El agua no aporta azúcar ni sirve para valorar el color, que se observa antes de diluir."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Quanto distillato si versa di solito come campione da degustazione?",
+    "Quelle quantité de spiritueux verse-t-on en général comme échantillon de dégustation ?",
+    "How much spirit is usually poured as a tasting sample?",
+    "¿Cuánto destilado se sirve normalmente como muestra de cata?"
+   ],
+   "o": [
+    [
+     "Circa 1,5 cL",
+     "Environ 1,5 cL",
+     "About 1.5 cL",
+     "Unos 1,5 cL"
+    ],
+    [
+     "Circa 15 cL",
+     "Environ 15 cL",
+     "About 15 cL",
+     "Unos 15 cL"
+    ],
+    [
+     "Circa 5 cL",
+     "Environ 5 cL",
+     "About 5 cL",
+     "Unos 5 cL"
+    ],
+    [
+     "Circa 0,1 cL",
+     "Environ 0,1 cL",
+     "About 0.1 cL",
+     "Unos 0,1 cL"
+    ]
+   ],
+   "e": [
+    "Un campione di circa 1,5 cL basta per osservare, annusare e assaggiare.",
+    "Un échantillon d'environ 1,5 cL suffit pour regarder, sentir et goûter.",
+    "A sample of about 1.5 cL is enough to look, smell and taste.",
+    "Una muestra de unos 1,5 cL basta para mirar, oler y probar."
+   ],
+   "d": [
+    "1,5 cL corrisponde più o meno a un cucchiaio: abbastanza per tutte le fasi, poco per non affaticare i sensi. 5 cL è già una dose da bere, 15 cL un bicchiere intero, mentre 0,1 cL sarebbe solo qualche goccia, troppo poco per lavorare.",
+    "1,5 cL correspond à peu près à une cuillère à soupe : assez pour toutes les étapes, assez peu pour ne pas fatiguer les sens. 5 cL est déjà une dose à boire, 15 cL un verre entier, tandis que 0,1 cL ne ferait que quelques gouttes, trop peu pour travailler.",
+    "1.5 cL is roughly a tablespoon: enough for every step, small enough not to tire your senses. 5 cL is already a drinking measure and 15 cL a full glass, while 0.1 cL would be just a few drops, too little to work with.",
+    "1,5 cL equivale más o menos a una cucharada: suficiente para todas las fases y poco para no cansar los sentidos. 5 cL ya es una dosis para beber y 15 cL un vaso entero, mientras que 0,1 cL serían solo unas gotas, demasiado poco para trabajar."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Quale forma di bicchiere è la più adatta per degustare un distillato?",
+    "Quelle forme de verre convient le mieux pour déguster un spiritueux ?",
+    "Which glass shape is best for tasting a spirit?",
+    "¿Qué forma de copa es la más adecuada para catar un destilado?"
+   ],
+   "o": [
+    [
+     "Coppa ampia che si stringe verso l'alto",
+     "Un large calice qui se resserre vers le haut",
+     "A wide bowl that narrows towards the top",
+     "Cuerpo ancho que se estrecha hacia arriba"
+    ],
+    [
+     "Bicchiere basso e dritto, molto aperto",
+     "Un verre bas et droit, très ouvert",
+     "A short, straight, wide-open tumbler",
+     "Vaso bajo y recto, muy abierto"
+    ],
+    [
+     "Coppa piatta e larga come per lo spumante",
+     "Une coupe plate et large comme pour les bulles",
+     "A flat, wide saucer like a sparkling-wine coupe",
+     "Copa plana y ancha como la de espumoso"
+    ],
+    [
+     "Bicchiere alto e stretto con bordo svasato",
+     "Un verre haut et étroit au bord évasé",
+     "A tall, narrow glass with a flared rim",
+     "Vaso alto y estrecho con el borde abierto"
+    ]
+   ],
+   "e": [
+    "La coppa ampia libera gli aromi e l'apertura stretta li concentra verso il naso.",
+    "Le large calice libère les arômes et l'ouverture étroite les concentre vers le nez.",
+    "The wide bowl releases the aromas and the narrow top concentrates them.",
+    "El cuerpo ancho libera los aromas y la boca estrecha los concentra."
+   ],
+   "d": [
+    "Un bicchiere a tulipano è pensato per raccogliere i profumi. Nei bicchieri molto aperti, come la coppa piatta o il tumbler, gli aromi si disperdono subito. Un bordo svasato fa lo stesso effetto: allarga l'apertura invece di stringerla.",
+    "Un verre en forme de tulipe est conçu pour rassembler les parfums. Dans les verres très ouverts, comme la coupe plate ou le gobelet, les arômes s'échappent aussitôt. Un bord évasé produit le même effet : il élargit l'ouverture au lieu de la resserrer.",
+    "A tulip-shaped glass is designed to gather the scents. In very open glasses, such as a flat coupe or a tumbler, the aromas escape at once. A flared rim has the same effect: it widens the opening instead of narrowing it.",
+    "Una copa en forma de tulipán está pensada para reunir los aromas. En los recipientes muy abiertos, como la copa plana o el vaso bajo, los aromas se escapan enseguida. Un borde abierto produce el mismo efecto: ensancha la boca en lugar de estrecharla."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "A che cosa serve una superficie bianca durante la degustazione?",
+    "À quoi sert une surface blanche pendant la dégustation ?",
+    "What is a white surface used for during a tasting?",
+    "¿Para qué sirve una superficie blanca durante la cata?"
+   ],
+   "o": [
+    [
+     "A valutare meglio il colore del distillato",
+     "À mieux évaluer la couleur du spiritueux",
+     "To judge the colour of the spirit better",
+     "Para valorar mejor el color del destilado"
+    ],
+    [
+     "A capire quanto è lungo il finale",
+     "À mesurer la longueur de la finale",
+     "To work out how long the finish is",
+     "Para saber cuánto dura el final"
+    ],
+    [
+     "A ridurre gli odori presenti nella stanza",
+     "À réduire les odeurs présentes dans la pièce",
+     "To reduce the smells in the room",
+     "Para reducir los olores de la sala"
+    ],
+    [
+     "A tenere il campione alla giusta temperatura",
+     "À garder l'échantillon à la bonne température",
+     "To keep the sample at the right temperature",
+     "Para mantener la muestra a la temperatura correcta"
+    ]
+   ],
+   "e": [
+    "Uno sfondo bianco permette di vedere il colore senza distrazioni.",
+    "Un fond blanc permet de voir la couleur sans distraction.",
+    "A white background lets you see the colour without distractions.",
+    "Un fondo blanco permite ver el color sin distracciones."
+   ],
+   "d": [
+    "Tenendo il bicchiere davanti a un foglio o una tovaglia bianca, con buona luce naturale, il colore si legge in modo affidabile. La superficie non influisce su odori, temperatura o finale: queste cose dipendono dalla stanza, dal campione e dall'assaggio in bocca.",
+    "En tenant le verre devant une feuille ou une nappe blanche, avec une bonne lumière naturelle, on lit la couleur de façon fiable. La surface n'a aucun effet sur les odeurs, la température ou la finale : cela dépend de la pièce, de l'échantillon et de la bouche.",
+    "Holding the glass against white paper or a white tablecloth, in good natural light, lets you read the colour reliably. The surface has no effect on smells, temperature or finish: those depend on the room, the sample and the palate.",
+    "Si se coloca la copa delante de una hoja o un mantel blanco, con buena luz natural, el color se lee con fiabilidad. La superficie no influye en los olores, la temperatura ni el final: eso depende de la sala, de la muestra y de la boca."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Poco prima di una degustazione, quale di queste abitudini conviene evitare?",
+    "Juste avant une dégustation, quelle habitude vaut-il mieux éviter ?",
+    "Just before a tasting, which of these habits is best avoided?",
+    "Justo antes de una cata, ¿qué costumbre conviene evitar?"
+   ],
+   "o": [
+    [
+     "Lavarsi i denti o bere un caffè",
+     "Se brosser les dents ou boire un café",
+     "Brushing your teeth or drinking coffee",
+     "Lavarse los dientes o tomar un café"
+    ],
+    [
+     "Bere un bicchiere d'acqua naturale",
+     "Boire un verre d'eau plate",
+     "Drinking a glass of still water",
+     "Beber un vaso de agua sin gas"
+    ],
+    [
+     "Sedersi vicino a una finestra luminosa",
+     "S'asseoir près d'une fenêtre lumineuse",
+     "Sitting near a bright window",
+     "Sentarse junto a una ventana luminosa"
+    ],
+    [
+     "Preparare un foglio bianco sul tavolo",
+     "Préparer une feuille blanche sur la table",
+     "Putting a white sheet on the table",
+     "Poner una hoja blanca en la mesa"
+    ]
+   ],
+   "e": [
+    "Dentifricio e caffè lasciano sapori persistenti che falsano l'assaggio.",
+    "Le dentifrice et le café laissent des saveurs persistantes qui faussent la dégustation.",
+    "Toothpaste and coffee leave lingering flavours that distort the tasting.",
+    "La pasta de dientes y el café dejan sabores persistentes que falsean la cata."
+   ],
+   "d": [
+    "La bocca deve essere pulita e neutra, senza sapori che restano. Le altre tre abitudini invece aiutano: l'acqua mantiene idratati, la luce naturale e il foglio bianco servono per osservare bene il colore.",
+    "La bouche doit être propre et neutre, sans saveurs qui persistent. Les trois autres habitudes, au contraire, aident : l'eau maintient hydraté, la lumière naturelle et la feuille blanche servent à bien observer la couleur.",
+    "Your palate should be clean and neutral, with no lingering flavours. The other three habits actually help: water keeps you hydrated, while natural light and white paper help you see the colour properly.",
+    "La boca debe estar limpia y neutra, sin sabores que perduren. Las otras tres costumbres, en cambio, ayudan: el agua mantiene la hidratación, y la luz natural y la hoja blanca sirven para observar bien el color."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Qual è l'ordine corretto delle fasi di degustazione di un distillato?",
+    "Quel est l'ordre correct des étapes de dégustation d'un spiritueux ?",
+    "What is the correct order of steps when tasting a spirit?",
+    "¿Cuál es el orden correcto de las fases de cata de un destilado?"
+   ],
+   "o": [
+    [
+     "Occhio e naso, acqua, di nuovo naso, bocca, sputare",
+     "Œil et nez, eau, à nouveau nez, bouche, recracher",
+     "Eyes and nose, water, nose again, palate, spit",
+     "Vista y nariz, agua, otra vez nariz, boca, escupir"
+    ],
+    [
+     "Acqua, occhio e naso, bocca, di nuovo naso, sputare",
+     "Eau, œil et nez, bouche, à nouveau nez, recracher",
+     "Water, eyes and nose, palate, nose again, spit",
+     "Agua, vista y nariz, boca, otra vez nariz, escupir"
+    ],
+    [
+     "Bocca, occhio e naso, acqua, di nuovo bocca, sputare",
+     "Bouche, œil et nez, eau, à nouveau bouche, recracher",
+     "Palate, eyes and nose, water, palate again, spit",
+     "Boca, vista y nariz, agua, otra vez boca, escupir"
+    ],
+    [
+     "Occhio e naso, bocca, sputare, acqua, di nuovo naso",
+     "Œil et nez, bouche, recracher, eau, à nouveau nez",
+     "Eyes and nose, palate, spit, water, nose again",
+     "Vista y nariz, boca, escupir, agua, otra vez nariz"
+    ]
+   ],
+   "e": [
+    "Si osserva e si annusa puro, si diluisce, si riannusa, poi si assaggia e si sputa.",
+    "On observe et on sent pur, on dilue, on sent à nouveau, puis on goûte et on recrache.",
+    "Look and smell neat, dilute, smell again, then taste and spit.",
+    "Se mira y se huele solo, se diluye, se vuelve a oler, luego se prueba y se escupe."
+   ],
+   "d": [
+    "Il primo esame si fa sul distillato puro, per avere un'impressione di partenza. L'acqua arriva dopo, così si può confrontare il naso prima e dopo la diluizione. L'assaggio viene per ultimo, sul campione diluito, che è più facile da giudicare; mettere la bocca prima dell'acqua o il naso dopo aver sputato rompe questa logica.",
+    "Le premier examen se fait sur le spiritueux pur, pour avoir une impression de départ. L'eau vient ensuite, ce qui permet de comparer le nez avant et après dilution. La bouche arrive en dernier, sur l'échantillon dilué, plus facile à juger ; goûter avant d'ajouter l'eau ou sentir après avoir recraché casse cette logique.",
+    "The first look and sniff are on the neat spirit, to get a starting impression. Water comes next, so you can compare the nose before and after dilution. Tasting comes last, on the diluted sample, which is easier to judge; tasting before the water or smelling after spitting breaks this logic.",
+    "El primer examen se hace con el destilado solo, para tener una impresión inicial. Después llega el agua, para comparar la nariz antes y después de diluir. La boca va al final, con la muestra diluida, más fácil de juzgar; probar antes del agua u oler después de escupir rompe esta lógica."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Dopo aver aggiunto l'acqua e annusato di nuovo, si nota che compaiono profumi nuovi. Perché succede?",
+    "Après avoir ajouté l'eau et senti à nouveau, de nouveaux parfums apparaissent. Pourquoi ?",
+    "After adding water and smelling again, new aromas appear. Why does this happen?",
+    "Tras añadir agua y volver a oler, aparecen aromas nuevos. ¿Por qué ocurre?"
+   ],
+   "o": [
+    [
+     "L'alcol, ora meno forte, non copre più alcuni aromi",
+     "L'alcool, moins fort, ne masque plus certains arômes",
+     "The alcohol, now weaker, no longer masks some aromas",
+     "El alcohol, ahora menos fuerte, ya no tapa algunos aromas"
+    ],
+    [
+     "L'acqua porta con sé profumi di frutta e fiori",
+     "L'eau apporte elle-même des parfums de fruits et de fleurs",
+     "The water itself brings fruit and floral aromas",
+     "El agua aporta por sí misma aromas de fruta y flores"
+    ],
+    [
+     "Il campione si è scaldato e ha iniziato a invecchiare",
+     "L'échantillon s'est réchauffé et a commencé à vieillir",
+     "The sample has warmed up and started to age",
+     "La muestra se ha calentado y ha empezado a envejecer"
+    ],
+    [
+     "Il bicchiere ha rilasciato gli aromi del campione precedente",
+     "Le verre a libéré les arômes de l'échantillon précédent",
+     "The glass has released aromas from the previous sample",
+     "La copa ha soltado los aromas de la muestra anterior"
+    ]
+   ],
+   "e": [
+    "Con meno forza alcolica, profumi prima nascosti diventano percepibili.",
+    "Avec moins de force alcoolique, des parfums cachés deviennent perceptibles.",
+    "With less alcoholic strength, hidden aromas become noticeable.",
+    "Con menos fuerza alcohólica, aromas antes ocultos se vuelven perceptibles."
+   ],
+   "d": [
+    "Diluire in parti uguali dimezza la forza del campione: il pizzico dell'alcol si attenua e lascia emergere sfumature che prima erano coperte. L'acqua di per sé non ha profumo, e pochi minuti nel bicchiere non invecchiano un distillato. Un bicchiere sporco sarebbe un errore di preparazione, non l'effetto normale della diluizione.",
+    "Diluer à parts égales divise par deux la force de l'échantillon : le piquant de l'alcool s'atténue et laisse apparaître des nuances jusque-là masquées. L'eau n'a pas d'odeur, et quelques minutes dans le verre ne font pas vieillir un spiritueux. Un verre sale serait une erreur de préparation, pas l'effet normal de la dilution.",
+    "Diluting with an equal amount of water halves the strength of the sample: the sting of the alcohol fades and lets hidden details come through. Water has no aroma of its own, and a few minutes in a glass do not age a spirit. A dirty glass would be a preparation mistake, not the normal effect of dilution.",
+    "Diluir a partes iguales reduce a la mitad la fuerza de la muestra: el picor del alcohol se suaviza y deja salir matices que antes estaban tapados. El agua no tiene aroma propio, y unos minutos en la copa no envejecen un destilado. Una copa sucia sería un error de preparación, no el efecto normal de la dilución."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Una vodka non ha quasi nessun profumo. Quale intensità al naso si annota?",
+    "Une vodka n'a presque aucune odeur. Quelle intensité au nez note-t-on ?",
+    "A vodka has almost no smell at all. Which nose intensity do you record?",
+    "Un vodka casi no tiene olor. ¿Qué intensidad en nariz se anota?"
+   ],
+   "o": [
+    [
+     "Neutra",
+     "Neutre",
+     "Neutral",
+     "Neutra"
+    ],
+    [
+     "Leggera",
+     "Légère",
+     "Light",
+     "Ligera"
+    ],
+    [
+     "Corta",
+     "Courte",
+     "Short",
+     "Corta"
+    ],
+    [
+     "Semplice",
+     "Simple",
+     "Simple",
+     "Simple"
+    ]
+   ],
+   "e": [
+    "«Neutro» è il gradino più basso dell'intensità, per un naso quasi assente.",
+    "« Neutre » est le niveau le plus bas d'intensité, pour un nez presque absent.",
+    "'Neutral' is the lowest intensity level, for an almost absent nose.",
+    "«Neutra» es el nivel más bajo de intensidad, para una nariz casi ausente."
+   ],
+   "d": [
+    "L'intensità al naso va da neutro a leggero, medio e pronunciato. «Leggero» indica che qualche profumo c'è, anche se delicato. «Corto» descrive il finale in bocca e «semplice» riguarda la complessità: sono termini veri ma usati in un altro punto della nota.",
+    "L'intensité au nez va de neutre à léger, moyen et prononcé. « Léger » indique qu'il y a quelques parfums, même discrets. « Court » décrit la finale en bouche et « simple » concerne la complexité : ce sont de vrais termes, mais utilisés ailleurs dans la note.",
+    "Nose intensity runs from neutral to light, medium and pronounced. 'Light' means there is some aroma, however delicate. 'Short' describes the finish and 'simple' refers to complexity: real terms, but used in a different part of the note.",
+    "La intensidad en nariz va de neutra a ligera, media y pronunciada. «Ligera» indica que hay algo de aroma, aunque sea delicado. «Corto» describe el final y «simple» se refiere a la complejidad: son términos reales, pero se usan en otra parte de la nota."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "In un brandy invecchiato si notano vaniglia e spezie dolci. Da dove vengono più probabilmente questi aromi?",
+    "Dans un brandy vieilli, on perçoit de la vanille et des épices douces. D'où viennent le plus probablement ces arômes ?",
+    "In an aged brandy you notice vanilla and sweet spice. Where do these aromas most likely come from?",
+    "En un brandy envejecido se notan vainilla y especias dulces. ¿De dónde vienen probablemente estos aromas?"
+   ],
+   "o": [
+    [
+     "Dal legno e dall'invecchiamento",
+     "Du bois et du vieillissement",
+     "From the oak and maturation",
+     "De la madera y el envejecimiento"
+    ],
+    [
+     "Dall'uva usata come materia prima",
+     "Du raisin utilisé comme matière première",
+     "From the grapes used as raw material",
+     "De la uva usada como materia prima"
+    ],
+    [
+     "Dall'acqua aggiunta nel bicchiere",
+     "De l'eau ajoutée dans le verre",
+     "From the water added in the glass",
+     "Del agua añadida en la copa"
+    ],
+    [
+     "Dallo zucchero aggiunto dopo la distillazione",
+     "Du sucre ajouté après la distillation",
+     "From sugar added after distillation",
+     "Del azúcar añadido tras la destilación"
+    ]
+   ],
+   "e": [
+    "Vaniglia e spezie sono tipici aromi che il legno cede durante l'invecchiamento.",
+    "La vanille et les épices sont des arômes typiques cédés par le bois pendant le vieillissement.",
+    "Vanilla and spice are typical aromas given by oak during maturation.",
+    "La vainilla y las especias son aromas típicos que aporta la madera durante el envejecimiento."
+   ],
+   "d": [
+    "Gli aromi si raggruppano per origine: materia prima, lavorazione, legno e invecchiamento. L'uva tende a dare note fruttate, non vaniglia. L'acqua non ha profumo e lo zucchero, se presente, si sente come dolcezza in bocca più che come aroma speziato.",
+    "On classe les arômes par origine : matière première, élaboration, bois et vieillissement. Le raisin donne plutôt des notes fruitées, pas de la vanille. L'eau n'a pas d'odeur et le sucre, s'il y en a, se perçoit comme une douceur en bouche plutôt que comme un arôme épicé.",
+    "Aromas are grouped by source: raw material, processing, and oak and maturation. Grapes tend to give fruity notes, not vanilla. Water has no smell, and sugar, if present, shows up as sweetness on the palate rather than as a spicy aroma.",
+    "Los aromas se agrupan por su origen: materia prima, elaboración, y madera y envejecimiento. La uva suele dar notas afrutadas, no vainilla. El agua no tiene olor y el azúcar, si lo hay, se nota como dulzor en boca más que como un aroma especiado."
+   ]
+  },
+  {
+   "c": "t1",
+   "q": [
+    "Nella nota di degustazione, che cosa descrive il «finale»?",
+    "Dans une note de dégustation, que décrit la « finale » ?",
+    "In a tasting note, what does the 'finish' describe?",
+    "En una nota de cata, ¿qué describe el «final»?"
+   ],
+   "o": [
+    [
+     "Quanto a lungo restano i sapori dopo aver sputato",
+     "Combien de temps les saveurs persistent après avoir recraché",
+     "How long the flavours linger after spitting",
+     "Cuánto tiempo permanecen los sabores tras escupir"
+    ],
+    [
+     "Il colore del liquido in fondo al bicchiere",
+     "La couleur du liquide au fond du verre",
+     "The colour of the liquid at the bottom of the glass",
+     "El color del líquido en el fondo de la copa"
+    ],
+    [
+     "L'ultimo aroma percepito prima di aggiungere acqua",
+     "Le dernier arôme perçu avant d'ajouter l'eau",
+     "The last aroma noticed before adding water",
+     "El último aroma percibido antes de añadir agua"
+    ],
+    [
+     "Il grado alcolico indicato in etichetta",
+     "Le degré d'alcool indiqué sur l'étiquette",
+     "The alcoholic strength shown on the label",
+     "La graduación alcohólica indicada en la etiqueta"
+    ]
+   ],
+   "e": [
+    "Il finale misura la persistenza dei sapori: corto, medio o lungo.",
+    "La finale mesure la persistance des saveurs : courte, moyenne ou longue.",
+    "The finish measures how long flavours persist: short, medium or long.",
+    "El final mide la persistencia de los sabores: corto, medio o largo."
+   ],
+   "d": [
+    "Il finale è l'ultima osservazione in bocca: dopo aver sputato si conta quanto durano i sapori. Un finale lungo è spesso segno di qualità. Il colore appartiene all'aspetto, gli aromi al naso e il grado alcolico è un dato dell'etichetta, non un'osservazione di degustazione.",
+    "La finale est la dernière observation en bouche : après avoir recraché, on mesure combien de temps durent les saveurs. Une finale longue est souvent un signe de qualité. La couleur relève de l'aspect, les arômes du nez, et le degré d'alcool est une donnée d'étiquette, pas une observation de dégustation.",
+    "The finish is the last observation on the palate: after spitting, you note how long the flavours last. A long finish is often a sign of quality. Colour belongs to appearance, aromas to the nose, and alcoholic strength is label information, not a tasting observation.",
+    "El final es la última observación en boca: tras escupir, se mide cuánto duran los sabores. Un final largo suele ser señal de calidad. El color pertenece al aspecto, los aromas a la nariz, y la graduación es un dato de la etiqueta, no una observación de cata."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "In un cocktail, che cosa costituisce la parte «forte»?",
+    "Dans un cocktail, qu'est-ce qui constitue la partie « forte » ?",
+    "In a cocktail, what makes up the 'strong' element?",
+    "En un cóctel, ¿qué constituye la parte «fuerte»?"
+   ],
+   "o": [
+    [
+     "Il distillato di base",
+     "Le spiritueux de base",
+     "The base spirit",
+     "El destilado base"
+    ],
+    [
+     "Il succo di agrumi",
+     "Le jus d'agrumes",
+     "The citrus juice",
+     "El zumo de cítricos"
+    ],
+    [
+     "Lo sciroppo di zucchero",
+     "Le sirop de sucre",
+     "The sugar syrup",
+     "El jarabe de azúcar"
+    ],
+    [
+     "Il ghiaccio usato per raffreddare",
+     "La glace utilisée pour refroidir",
+     "The ice used for chilling",
+     "El hielo usado para enfriar"
+    ]
+   ],
+   "e": [
+    "Il distillato di base è la parte forte e il cuore del gusto.",
+    "Le spiritueux de base est la partie forte et le cœur du goût.",
+    "The base spirit is the strong element and the heart of the flavour.",
+    "El destilado base es la parte fuerte y el corazón del sabor."
+   ],
+   "d": [
+    "La parte forte porta l'alcol e il carattere principale del drink. Gli agrumi forniscono acidità, lo sciroppo dolcezza e il ghiaccio diluizione, quindi appartiene alla parte leggera: sono contrappesi, non la base.",
+    "La partie forte apporte l'alcool et le caractère principal de la boisson. Les agrumes donnent l'acidité, le sirop la douceur et la glace la dilution, qui relève donc de la partie légère : ce sont des contrepoids, pas la base.",
+    "The strong element brings the alcohol and the main character of the drink. Citrus gives acidity, syrup gives sweetness and ice gives dilution, which belongs to the weak side: they are counterweights, not the base.",
+    "La parte fuerte aporta el alcohol y el carácter principal de la bebida. Los cítricos dan acidez, el jarabe dulzor y el hielo dilución, que pertenece a la parte suave: son contrapesos, no la base."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Qual è la gradazione tipica del distillato di base di un cocktail?",
+    "Quel est le degré typique du spiritueux de base d'un cocktail ?",
+    "What is the typical strength of a cocktail's base spirit?",
+    "¿Cuál es la graduación típica del destilado base de un cóctel?"
+   ],
+   "o": [
+    [
+     "Di solito 40% vol o più",
+     "En général 40 % vol ou plus",
+     "Usually 40% abv or higher",
+     "Normalmente 40 % vol o más"
+    ],
+    [
+     "Di solito tra 12 e 15% vol",
+     "En général entre 12 et 15 % vol",
+     "Usually between 12 and 15% abv",
+     "Normalmente entre 12 y 15 % vol"
+    ],
+    [
+     "Di solito intorno al 20% vol",
+     "En général autour de 20 % vol",
+     "Usually around 20% abv",
+     "Normalmente en torno al 20 % vol"
+    ],
+    [
+     "Di solito oltre il 90% vol",
+     "En général plus de 90 % vol",
+     "Usually above 90% abv",
+     "Normalmente más de 90 % vol"
+    ]
+   ],
+   "e": [
+    "La base forte di un cocktail è in genere un distillato al 40% vol o più.",
+    "La base forte d'un cocktail est en général un spiritueux à 40 % vol ou plus.",
+    "A cocktail's strong base is generally a spirit at 40% abv or more.",
+    "La base fuerte de un cóctel suele ser un destilado de 40 % vol o más."
+   ],
+   "d": [
+    "Le gradazioni di 12–15% vol sono tipiche del vino, e intorno al 20% si trovano molti prodotti più leggeri come alcuni vini aromatizzati. Oltre il 90% vol si parla di alcol neutro destinato alla produzione, non di un distillato pronto da miscelare.",
+    "Les degrés de 12 à 15 % vol sont typiques du vin, et autour de 20 % on trouve des produits plus légers comme certains vins aromatisés. Au-delà de 90 % vol, il s'agit d'alcool neutre destiné à la production, pas d'un spiritueux prêt à mélanger.",
+    "Strengths of 12–15% abv are typical of wine, and around 20% you find lighter products such as some aromatised wines. Above 90% abv you are looking at neutral spirit for production, not a spirit ready for mixing.",
+    "Las graduaciones de 12–15 % vol son propias del vino, y en torno al 20 % hay productos más ligeros como algunos vinos aromatizados. Por encima del 90 % vol se trata de alcohol neutro para producción, no de un destilado listo para mezclar."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "In un drink corto mescolato con ghiaccio e servito senza aggiunte, da dove viene la parte «leggera»?",
+    "Dans un short drink remué sur glace et servi sans rien ajouter, d'où vient la partie « légère » ?",
+    "In a short drink stirred with ice and served with nothing added, where does the 'weak' element come from?",
+    "En un trago corto removido con hielo y servido sin añadidos, ¿de dónde viene la parte «suave»?"
+   ],
+   "o": [
+    [
+     "Dall'acqua del ghiaccio che fonde mescolando",
+     "De l'eau de la glace qui fond en remuant",
+     "From water as the ice melts during stirring",
+     "Del agua del hielo que se funde al remover"
+    ],
+    [
+     "Dai bitter aggiunti a gocce",
+     "Des bitters ajoutés en quelques gouttes",
+     "From the bitters added by the dash",
+     "De los bitters añadidos por gotas"
+    ],
+    [
+     "Dal distillato di base",
+     "Du spiritueux de base",
+     "From the base spirit",
+     "Del destilado base"
+    ],
+    [
+     "Dalla buccia di agrume usata come guarnizione",
+     "Du zeste d'agrume utilisé en décoration",
+     "From the citrus peel used as a garnish",
+     "De la piel de cítrico usada como decoración"
+    ]
+   ],
+   "e": [
+    "Mescolando con ghiaccio, la fusione aggiunge acqua e attenua l'alcol.",
+    "En remuant sur glace, la fonte apporte de l'eau et adoucit l'alcool.",
+    "Stirring with ice adds meltwater and softens the alcohol.",
+    "Al remover con hielo, el deshielo añade agua y suaviza el alcohol."
+   ],
+   "d": [
+    "Nei drink corti la diluizione arriva quasi solo dal ghiaccio durante la preparazione, mescolando o shakerando. I bitter sono una nota amara, il distillato è la parte forte e una scorza d'agrume dà profumo, ma nessuno dei tre allunga davvero il drink.",
+    "Dans les short drinks, la dilution vient presque uniquement de la glace pendant la préparation, en remuant ou en secouant. Les bitters sont une note amère, le spiritueux est la partie forte et un zeste parfume, mais aucun des trois n'allonge vraiment la boisson.",
+    "In short drinks, dilution comes almost entirely from ice during mixing, by stirring or shaking. Bitters are a bitter accent, the spirit is the strong part and a citrus peel adds scent, but none of them really lengthens the drink.",
+    "En los tragos cortos, la dilución viene casi solo del hielo durante la preparación, al remover o agitar. Los bitters son una nota amarga, el destilado es la parte fuerte y una piel de cítrico perfuma, pero ninguno alarga realmente la bebida."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Come si chiama l'ingrediente che porta una nota amara e/o acida per bilanciare la dolcezza?",
+    "Comment appelle-t-on l'ingrédient qui apporte une note amère et/ou acide pour équilibrer le sucré ?",
+    "What is the ingredient called that brings a bitter and/or sour note to balance sweetness?",
+    "¿Cómo se llama el ingrediente que aporta una nota amarga y/o ácida para equilibrar el dulzor?"
+   ],
+   "o": [
+    [
+     "Il modificatore",
+     "Le modificateur",
+     "The modifier",
+     "El modificador"
+    ],
+    [
+     "La guarnizione",
+     "La garniture",
+     "The garnish",
+     "La decoración"
+    ],
+    [
+     "Il distillato di base",
+     "Le spiritueux de base",
+     "The base spirit",
+     "El destilado base"
+    ],
+    [
+     "Il dolcificante",
+     "L'édulcorant",
+     "The sweetener",
+     "El endulzante"
+    ]
+   ],
+   "e": [
+    "Il modificatore «condisce» il cocktail con amaro e/o acido.",
+    "Le modificateur « assaisonne » le cocktail avec de l'amer et/ou de l'acide.",
+    "The modifier 'seasons' the drink with bitterness and/or sourness.",
+    "El modificador «sazona» el cóctel con amargor y/o acidez."
+   ],
+   "d": [
+    "Spesso un cocktail viene prima addolcito e poi bilanciato da un modificatore, come succo di agrumi o bitter. La guarnizione è soprattutto decorativa o profumata, il distillato di base è la parte forte e il dolcificante è proprio ciò che il modificatore deve controbilanciare.",
+    "Souvent, un cocktail est d'abord sucré puis équilibré par un modificateur, comme un jus d'agrume ou des bitters. La garniture est surtout décorative ou parfumée, le spiritueux de base est la partie forte, et l'édulcorant est justement ce que le modificateur doit contrebalancer.",
+    "A cocktail is often sweetened first and then balanced by a modifier, such as citrus juice or bitters. A garnish is mainly decorative or aromatic, the base spirit is the strong part, and the sweetener is exactly what the modifier has to offset.",
+    "A menudo un cóctel se endulza primero y luego se equilibra con un modificador, como zumo de cítricos o bitters. La decoración es sobre todo visual o aromática, el destilado base es la parte fuerte y el endulzante es justo lo que el modificador debe compensar."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Che cos'è uno sciroppo semplice?",
+    "Qu'est-ce qu'un sirop simple ?",
+    "What is simple syrup?",
+    "¿Qué es un jarabe simple?"
+   ],
+   "o": [
+    [
+     "Zucchero sciolto in acqua",
+     "Du sucre dissous dans de l'eau",
+     "Sugar dissolved in water",
+     "Azúcar disuelto en agua"
+    ],
+    [
+     "Succo di limone zuccherato",
+     "Du jus de citron sucré",
+     "Sweetened lemon juice",
+     "Zumo de limón endulzado"
+    ],
+    [
+     "Un liquore all'arancia",
+     "Une liqueur d'orange",
+     "An orange liqueur",
+     "Un licor de naranja"
+    ],
+    [
+     "Vermouth ridotto sul fuoco",
+     "Du vermouth réduit sur le feu",
+     "Vermouth reduced over heat",
+     "Vermut reducido al fuego"
+    ]
+   ],
+   "e": [
+    "Lo sciroppo semplice è solo zucchero e acqua, un dolcificante senza aromi.",
+    "Le sirop simple, c'est seulement du sucre et de l'eau, un édulcorant sans arôme.",
+    "Simple syrup is just sugar and water, an unflavoured sweetener.",
+    "El jarabe simple es solo azúcar y agua, un endulzante sin aroma."
+   ],
+   "d": [
+    "Sciogliere lo zucchero in acqua permette di mescolarlo facilmente in un cocktail freddo. Il succo di limone è un ingrediente acido, il liquore all'arancia è un dolcificante aromatizzato e alcolico, e il vermouth è un vino aromatizzato: nessuno è «semplice».",
+    "Dissoudre le sucre dans l'eau permet de l'incorporer facilement à un cocktail froid. Le jus de citron est un ingrédient acide, la liqueur d'orange un édulcorant aromatisé et alcoolisé, et le vermouth un vin aromatisé : aucun n'est « simple ».",
+    "Dissolving sugar in water makes it easy to mix into a cold cocktail. Lemon juice is a sour ingredient, orange liqueur is a flavoured, alcoholic sweetener and vermouth is an aromatised wine: none of them is 'simple'.",
+    "Disolver el azúcar en agua permite mezclarlo fácilmente en un cóctel frío. El zumo de limón es un ingrediente ácido, el licor de naranja un endulzante aromatizado y con alcohol, y el vermut un vino aromatizado: ninguno es «simple»."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un barman assaggia un cocktail e lo trova stucchevole, troppo dolce. Quale correzione è più adatta?",
+    "Un barman goûte un cocktail et le trouve écœurant, trop sucré. Quelle correction est la plus adaptée ?",
+    "A bartender tastes a cocktail and finds it cloying and too sweet. Which fix makes most sense?",
+    "Un barman prueba un cóctel y lo encuentra empalagoso, demasiado dulce. ¿Qué corrección es la más adecuada?"
+   ],
+   "o": [
+    [
+     "Aggiungere un po' di succo di agrumi o qualche goccia di bitter",
+     "Ajouter un peu de jus d'agrume ou quelques gouttes de bitters",
+     "Add a little citrus juice or a dash of bitters",
+     "Añadir un poco de zumo de cítricos o unas gotas de bitters"
+    ],
+    [
+     "Aggiungere un cucchiaio di sciroppo semplice",
+     "Ajouter une cuillère de sirop simple",
+     "Add a spoonful of simple syrup",
+     "Añadir una cucharada de jarabe simple"
+    ],
+    [
+     "Sostituire il distillato con un liquore",
+     "Remplacer le spiritueux par une liqueur",
+     "Swap the spirit for a liqueur",
+     "Sustituir el destilado por un licor"
+    ],
+    [
+     "Servirlo più caldo, senza ghiaccio",
+     "Le servir plus chaud, sans glace",
+     "Serve it warmer, without ice",
+     "Servirlo más caliente, sin hielo"
+    ]
+   ],
+   "e": [
+    "Acidità o amaro bilanciano un eccesso di dolcezza.",
+    "L'acidité ou l'amertume équilibrent un excès de sucré.",
+    "Sourness or bitterness balances too much sweetness.",
+    "La acidez o el amargor equilibran un exceso de dulzor."
+   ],
+   "d": [
+    "Sulla bilancia dolce contro amaro e acido, per compensare troppo zucchero si aumenta il piatto opposto. Altro sciroppo o un liquore aggiungerebbero ancora dolcezza. Togliere il ghiaccio riduce la diluizione e non risolve il problema del dolce.",
+    "Sur la balance sucré contre amer et acide, pour compenser un excès de sucre on renforce l'autre plateau. Davantage de sirop ou une liqueur ajouteraient encore du sucré. Supprimer la glace réduit la dilution et ne règle pas le problème de la douceur.",
+    "On the sweet-versus-bitter-and-sour scale, you offset too much sugar by adding weight to the other side. More syrup or a liqueur would add even more sweetness. Removing the ice reduces dilution and does nothing about the sweetness.",
+    "En la balanza dulce frente a amargo y ácido, para compensar el exceso de azúcar se refuerza el otro platillo. Más jarabe o un licor añadirían aún más dulzor. Quitar el hielo reduce la dilución y no resuelve el problema del dulzor."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Quale ingrediente può portare da solo dolcezza, amaro e acidità in un cocktail?",
+    "Quel ingrédient peut apporter à lui seul douceur, amertume et acidité dans un cocktail ?",
+    "Which ingredient can bring sweetness, bitterness and acidity to a cocktail on its own?",
+    "¿Qué ingrediente puede aportar por sí solo dulzor, amargor y acidez a un cóctel?"
+   ],
+   "o": [
+    [
+     "Un vino aromatizzato come il vermouth",
+     "Un vin aromatisé comme le vermouth",
+     "An aromatised wine such as vermouth",
+     "Un vino aromatizado como el vermut"
+    ],
+    [
+     "Lo sciroppo semplice",
+     "Le sirop simple",
+     "Simple syrup",
+     "El jarabe simple"
+    ],
+    [
+     "L'acqua gassata",
+     "L'eau gazeuse",
+     "Club soda",
+     "La soda"
+    ],
+    [
+     "Un distillato neutro come la vodka",
+     "Un spiritueux neutre comme la vodka",
+     "A neutral spirit such as vodka",
+     "Un destilado neutro como el vodka"
+    ]
+   ],
+   "e": [
+    "I vini aromatizzati uniscono dolce, amaro e acido in un solo ingrediente.",
+    "Les vins aromatisés réunissent sucré, amer et acide en un seul ingrédient.",
+    "Aromatised wines combine sweet, bitter and sour in one ingredient.",
+    "Los vinos aromatizados reúnen dulce, amargo y ácido en un solo ingrediente."
+   ],
+   "d": [
+    "Il vermouth parte da un vino, quindi ha acidità, contiene botaniche amare e quasi sempre zucchero: per questo è così utile nei cocktail. Lo sciroppo dà solo dolcezza, l'acqua gassata solo diluizione e la vodka soprattutto forza alcolica.",
+    "Le vermouth part d'un vin, il a donc de l'acidité, il contient des plantes amères et presque toujours du sucre : c'est pour cela qu'il est si utile en cocktail. Le sirop n'apporte que du sucré, l'eau gazeuse que de la dilution et la vodka surtout de la force alcoolique.",
+    "Vermouth starts from wine, so it has acidity, it contains bitter botanicals and almost always some sugar: that is why it is so useful in cocktails. Syrup gives only sweetness, club soda only dilution and vodka mainly alcoholic strength.",
+    "El vermut parte de un vino, así que tiene acidez, contiene botánicos amargos y casi siempre azúcar: por eso es tan útil en coctelería. El jarabe solo da dulzor, la soda solo dilución y el vodka sobre todo fuerza alcohólica."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Quali due famiglie di cocktail rientrano tra i drink corti?",
+    "Quelles deux familles de cocktails font partie des short drinks ?",
+    "Which two cocktail families are short drinks?",
+    "¿Qué dos familias de cócteles son tragos cortos?"
+   ],
+   "o": [
+    [
+     "Spirit-forward e sour corti",
+     "Spirit-forward et sours courts",
+     "Spirit-forward and short sours",
+     "Spirit-forward y sours cortos"
+    ],
+    [
+     "Highball e sour lunghi",
+     "Highballs et sours longs",
+     "Highballs and long sours",
+     "Highballs y sours largos"
+    ],
+    [
+     "Highball e spirit-forward",
+     "Highballs et spirit-forward",
+     "Highballs and spirit-forward",
+     "Highballs y spirit-forward"
+    ],
+    [
+     "Sour corti e sour lunghi",
+     "Sours courts et sours longs",
+     "Short sours and long sours",
+     "Sours cortos y sours largos"
+    ]
+   ],
+   "e": [
+    "Spirit-forward e sour corti sono i due gruppi di drink corti.",
+    "Spirit-forward et sours courts sont les deux groupes de short drinks.",
+    "Spirit-forward drinks and short sours are the two short groups.",
+    "Los spirit-forward y los sours cortos son los dos grupos de tragos cortos."
+   ],
+   "d": [
+    "I drink corti hanno pochi ingredienti e si diluiscono solo con il ghiaccio: è il caso del Manhattan o del Daiquiri. Highball e sour lunghi sono invece drink lunghi, allungati con bibite o succhi. Le opzioni miste mescolano un gruppo corto e uno lungo.",
+    "Les short drinks ont peu d'ingrédients et ne sont dilués que par la glace : c'est le cas du Manhattan ou du Daiquiri. Les highballs et les sours longs sont au contraire des long drinks, allongés de sodas ou de jus. Les options mixtes associent un groupe court et un groupe long.",
+    "Short drinks have few ingredients and are diluted only by ice, as with a Manhattan or a Daiquiri. Highballs and long sours are long drinks, lengthened with sodas or juices. The mixed options pair a short group with a long one.",
+    "Los tragos cortos tienen pocos ingredientes y solo se diluyen con hielo, como el Manhattan o el Daiquiri. Los highballs y los sours largos son tragos largos, alargados con refrescos o zumos. Las opciones mixtas combinan un grupo corto con uno largo."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Nei drink lunghi, da dove arriva di solito gran parte della parte «leggera»?",
+    "Dans les long drinks, d'où vient en général l'essentiel de la partie « légère » ?",
+    "In long drinks, where does most of the 'weak' element usually come from?",
+    "En los tragos largos, ¿de dónde suele venir la mayor parte de lo «suave»?"
+   ],
+   "o": [
+    [
+     "Da bibite gassate, succhi o latticini",
+     "De sodas, de jus ou de produits laitiers",
+     "From sodas, juices or dairy",
+     "De refrescos, zumos o lácteos"
+    ],
+    [
+     "Da un secondo distillato aggiunto alla base",
+     "D'un second spiritueux ajouté à la base",
+     "From a second spirit added to the base",
+     "De un segundo destilado añadido a la base"
+    ],
+    [
+     "Da qualche goccia di bitter",
+     "De quelques gouttes de bitters",
+     "From a few dashes of bitters",
+     "De unas gotas de bitters"
+    ],
+    [
+     "Da un liquore dolce",
+     "D'une liqueur sucrée",
+     "From a sweet liqueur",
+     "De un licor dulce"
+    ]
+   ],
+   "e": [
+    "Bevande analcoliche come bibite e succhi allungano il drink.",
+    "Les boissons sans alcool comme les sodas et les jus allongent la boisson.",
+    "Non-alcoholic mixers such as sodas and juices lengthen the drink.",
+    "Las bebidas sin alcohol como refrescos y zumos alargan la bebida."
+   ],
+   "d": [
+    "Ciò che distingue un drink lungo è il volume maggiore, ottenuto con ingredienti analcolici: tonica, acqua gassata, succhi, latte o panna. Un secondo distillato aumenterebbe la forza invece di ridurla, i bitter si usano a gocce e un liquore porta soprattutto dolcezza e alcol.",
+    "Ce qui distingue un long drink, c'est son volume plus important, obtenu avec des ingrédients sans alcool : tonic, eau gazeuse, jus, lait ou crème. Un second spiritueux augmenterait la force au lieu de la réduire, les bitters s'utilisent en gouttes et une liqueur apporte surtout du sucre et de l'alcool.",
+    "What sets a long drink apart is its bigger volume, achieved with non-alcoholic ingredients: tonic, club soda, juice, milk or cream. A second spirit would raise the strength instead of lowering it, bitters are used by the dash and a liqueur mainly adds sugar and alcohol.",
+    "Lo que distingue un trago largo es su mayor volumen, conseguido con ingredientes sin alcohol: tónica, soda, zumos, leche o nata. Un segundo destilado aumentaría la fuerza en lugar de reducirla, los bitters se usan por gotas y un licor aporta sobre todo azúcar y alcohol."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Un Old Fashioned preparato con il rum al posto del whiskey è un esempio di che cosa?",
+    "Un Old Fashioned préparé avec du rhum au lieu du whiskey est un exemple de quoi ?",
+    "An Old Fashioned made with rum instead of whiskey is an example of what?",
+    "Un Old Fashioned hecho con ron en lugar de whiskey, ¿de qué es un ejemplo?"
+   ],
+   "o": [
+    [
+     "Una variante ottenuta cambiando la parte forte",
+     "Une variante obtenue en changeant la partie forte",
+     "A variation made by changing the strong element",
+     "Una variante obtenida al cambiar la parte fuerte"
+    ],
+    [
+     "Una variante ottenuta cambiando il modificatore",
+     "Une variante obtenue en changeant le modificateur",
+     "A variation made by changing the modifier",
+     "Una variante obtenida al cambiar el modificador"
+    ],
+    [
+     "Un modo per trasformarlo in un drink lungo",
+     "Une façon de le transformer en long drink",
+     "A way of turning it into a long drink",
+     "Una forma de convertirlo en un trago largo"
+    ],
+    [
+     "Un modo per renderlo un sour corto",
+     "Une façon d'en faire un sour court",
+     "A way of making it a short sour",
+     "Una forma de convertirlo en un sour corto"
+    ]
+   ],
+   "e": [
+    "Si sostituisce il distillato di base, cioè la parte forte.",
+    "On remplace le spiritueux de base, c'est-à-dire la partie forte.",
+    "The base spirit, the strong element, is replaced.",
+    "Se sustituye el destilado base, es decir, la parte fuerte."
+   ],
+   "d": [
+    "Conoscendo i quattro punti di equilibrio, si può modificare una ricetta in modo mirato. Sostituire il whiskey con il rum lascia invariati zucchero e bitter, cioè dolce e modificatore. Il volume non cambia, quindi non diventa un drink lungo, e senza agrumi non diventa un sour.",
+    "Quand on connaît les quatre points d'équilibre, on peut modifier une recette de façon ciblée. Remplacer le whiskey par du rhum laisse inchangés le sucre et les bitters, donc le sucré et le modificateur. Le volume ne change pas, ce n'est donc pas un long drink, et sans agrumes ce n'est pas un sour.",
+    "Knowing the four points of balance lets you change a recipe in a targeted way. Swapping whiskey for rum leaves the sugar and bitters, the sweet part and the modifier, unchanged. The volume stays the same, so it does not become a long drink, and with no citrus it is not a sour.",
+    "Conociendo los cuatro puntos de equilibrio, se puede modificar una receta de forma precisa. Cambiar el whiskey por ron deja igual el azúcar y los bitters, es decir, el dulce y el modificador. El volumen no cambia, así que no se convierte en un trago largo, y sin cítricos no es un sour."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Qual è il distillato di base del Negroni?",
+    "Quel est le spiritueux de base du Negroni ?",
+    "What is the base spirit of a Negroni?",
+    "¿Cuál es el destilado base del Negroni?"
+   ],
+   "o": [
+    [
+     "Gin",
+     "Gin",
+     "Gin",
+     "Ginebra"
+    ],
+    [
+     "Vodka",
+     "Vodka",
+     "Vodka",
+     "Vodka"
+    ],
+    [
+     "Rum",
+     "Rhum",
+     "Rum",
+     "Ron"
+    ],
+    [
+     "Bourbon",
+     "Bourbon",
+     "Bourbon",
+     "Bourbon"
+    ]
+   ],
+   "e": [
+    "Il Negroni si costruisce sul gin.",
+    "Le Negroni se construit sur le gin.",
+    "The Negroni is built on gin.",
+    "El Negroni se construye sobre la ginebra."
+   ],
+   "d": [
+    "Il Negroni unisce gin, vermouth rosso dolce e Campari in un drink spirit-forward. La vodka non ha il carattere botanico del gin, il rum è la base di Daiquiri e Mojito, e il Bourbon compare in drink come l'Old Fashioned o il Whiskey Sour.",
+    "Le Negroni associe gin, vermouth rouge doux et Campari dans une boisson spirit-forward. La vodka n'a pas le caractère botanique du gin, le rhum est la base du Daiquiri et du Mojito, et le Bourbon apparaît dans des boissons comme l'Old Fashioned ou le Whiskey Sour.",
+    "The Negroni combines gin, sweet red vermouth and Campari in a spirit-forward drink. Vodka lacks gin's botanical character, rum is the base of the Daiquiri and Mojito, and Bourbon appears in drinks such as the Old Fashioned or Whiskey Sour.",
+    "El Negroni une ginebra, vermut rojo dulce y Campari en un trago spirit-forward. El vodka no tiene el carácter botánico de la ginebra, el ron es la base del Daiquiri y del Mojito, y el Bourbon aparece en bebidas como el Old Fashioned o el Whiskey Sour."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Nel Negroni, quale ingrediente porta soprattutto la nota amara?",
+    "Dans le Negroni, quel ingrédient apporte surtout la note amère ?",
+    "In a Negroni, which ingredient mainly provides the bitter note?",
+    "En el Negroni, ¿qué ingrediente aporta sobre todo la nota amarga?"
+   ],
+   "o": [
+    [
+     "Il Campari",
+     "Le Campari",
+     "Campari",
+     "El Campari"
+    ],
+    [
+     "Il vermouth rosso dolce",
+     "Le vermouth rouge doux",
+     "Sweet red vermouth",
+     "El vermut rojo dulce"
+    ],
+    [
+     "Il gin",
+     "Le gin",
+     "Gin",
+     "La ginebra"
+    ],
+    [
+     "La zolletta di zucchero",
+     "Le morceau de sucre",
+     "A sugar cube",
+     "El terrón de azúcar"
+    ]
+   ],
+   "e": [
+    "Il Campari, un distillato amaro rosso, è l'elemento amaro del Negroni.",
+    "Le Campari, un spiritueux amer rouge, est l'élément amer du Negroni.",
+    "Campari, a red bitter spirit, is the Negroni's bitter element.",
+    "El Campari, un destilado amargo rojo, es el elemento amargo del Negroni."
+   ],
+   "d": [
+    "Ogni ingrediente del Negroni ha un ruolo: il gin è la parte forte, il vermouth rosso dolce porta la dolcezza e il Campari l'amaro. Lo zucchero in zolletta appartiene all'Old Fashioned, non al Negroni.",
+    "Chaque ingrédient du Negroni a un rôle : le gin est la partie forte, le vermouth rouge doux apporte la douceur et le Campari l'amertume. Le morceau de sucre appartient à l'Old Fashioned, pas au Negroni.",
+    "Each Negroni ingredient has a role: gin is the strong part, sweet red vermouth brings sweetness and Campari the bitterness. The sugar cube belongs to the Old Fashioned, not the Negroni.",
+    "Cada ingrediente del Negroni tiene un papel: la ginebra es la parte fuerte, el vermut rojo dulce aporta el dulzor y el Campari el amargor. El terrón de azúcar pertenece al Old Fashioned, no al Negroni."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Old Fashioned e Manhattan usano entrambi whiskey e bitter Angostura. Che cosa rende diverso il Manhattan?",
+    "L'Old Fashioned et le Manhattan utilisent tous deux whiskey et bitters Angostura. Qu'est-ce qui distingue le Manhattan ?",
+    "The Old Fashioned and the Manhattan both use whiskey and Angostura bitters. What makes the Manhattan different?",
+    "El Old Fashioned y el Manhattan usan whiskey y bitters Angostura. ¿Qué diferencia al Manhattan?"
+   ],
+   "o": [
+    [
+     "Il vermouth rosso dolce al posto dello zucchero",
+     "Le vermouth rouge doux à la place du sucre",
+     "Sweet red vermouth instead of sugar",
+     "Vermut rojo dulce en lugar de azúcar"
+    ],
+    [
+     "Il succo di limone al posto dei bitter",
+     "Le jus de citron à la place des bitters",
+     "Lemon juice instead of bitters",
+     "Zumo de limón en lugar de bitters"
+    ],
+    [
+     "L'acqua gassata che lo rende un drink lungo",
+     "L'eau gazeuse qui en fait un long drink",
+     "Club soda that makes it a long drink",
+     "La soda que lo convierte en trago largo"
+    ],
+    [
+     "La panna che lo rende morbido",
+     "La crème qui l'adoucit",
+     "Cream that makes it smooth",
+     "La nata que lo suaviza"
+    ]
+   ],
+   "e": [
+    "Nel Manhattan la dolcezza arriva dal vermouth rosso dolce, più complesso dello zucchero.",
+    "Dans le Manhattan, la douceur vient du vermouth rouge doux, plus complexe que le sucre.",
+    "In the Manhattan, sweetness comes from sweet red vermouth, which is more complex than sugar.",
+    "En el Manhattan, el dulzor viene del vermut rojo dulce, más complejo que el azúcar."
+   ],
+   "d": [
+    "I due drink condividono la base di whiskey e i bitter Angostura; il Manhattan sostituisce la zolletta di zucchero con il vermouth, che porta anche sfumature amare e acide. Resta un drink corto spirit-forward: niente agrumi, soda o panna, che appartengono rispettivamente ai sour, ai drink lunghi e agli Alexander.",
+    "Les deux boissons partagent la base de whiskey et les bitters Angostura ; le Manhattan remplace le morceau de sucre par le vermouth, qui apporte aussi des nuances amères et acides. Il reste un short drink spirit-forward : ni agrumes, ni eau gazeuse, ni crème, qui appartiennent respectivement aux sours, aux long drinks et aux Alexander.",
+    "Both drinks share the whiskey base and Angostura bitters; the Manhattan replaces the sugar cube with vermouth, which also brings bitter and sour nuances. It remains a short spirit-forward drink: no citrus, soda or cream, which belong to sours, long drinks and the Alexander family respectively.",
+    "Ambos comparten la base de whiskey y los bitters Angostura; el Manhattan cambia el terrón de azúcar por vermut, que también aporta matices amargos y ácidos. Sigue siendo un trago corto spirit-forward: sin cítricos, soda ni nata, que corresponden a los sours, los tragos largos y los Alexander."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale combinazione porta la nota amara in un Sazerac?",
+    "Quelle combinaison apporte la note amère dans un Sazerac ?",
+    "Which combination provides the bitter note in a Sazerac?",
+    "¿Qué combinación aporta la nota amarga en un Sazerac?"
+   ],
+   "o": [
+    [
+     "Bitter Peychaud's e assenzio",
+     "Bitters Peychaud's et absinthe",
+     "Peychaud's bitters and absinthe",
+     "Bitters Peychaud's y absenta"
+    ],
+    [
+     "Bitter Angostura e vermouth dry",
+     "Bitters Angostura et vermouth dry",
+     "Angostura bitters and dry vermouth",
+     "Bitters Angostura y vermut seco"
+    ],
+    [
+     "Campari e vermouth rosso dolce",
+     "Campari et vermouth rouge doux",
+     "Campari and sweet red vermouth",
+     "Campari y vermut rojo dulce"
+    ],
+    [
+     "Succo di pompelmo e ginger ale",
+     "Jus de pamplemousse et ginger ale",
+     "Grapefruit juice and ginger ale",
+     "Zumo de pomelo y ginger ale"
+    ]
+   ],
+   "e": [
+    "Il Sazerac si distingue per i bitter Peychaud's e un tocco di assenzio.",
+    "Le Sazerac se distingue par les bitters Peychaud's et une touche d'absinthe.",
+    "The Sazerac stands out for Peychaud's bitters and a touch of absinthe.",
+    "El Sazerac destaca por los bitters Peychaud's y un toque de absenta."
+   ],
+   "d": [
+    "Il Sazerac usa Cognac o rye, zucchero e, come elemento amaro, bitter Peychaud's con assenzio. Angostura e vermouth dry compaiono in altri classici (Old Fashioned, Manhattan, Martini), Campari e vermouth dolce sono la coppia di Negroni e Americano, mentre pompelmo e ginger ale sono bibite da highball.",
+    "Le Sazerac utilise Cognac ou rye, du sucre et, comme élément amer, des bitters Peychaud's avec de l'absinthe. L'Angostura et le vermouth dry apparaissent dans d'autres classiques (Old Fashioned, Manhattan, Martini), Campari et vermouth doux forment le duo du Negroni et de l'Americano, tandis que pamplemousse et ginger ale sont des boissons de highball.",
+    "The Sazerac uses Cognac or rye, sugar and, as its bitter element, Peychaud's bitters with absinthe. Angostura and dry vermouth appear in other classics (Old Fashioned, Manhattan, Martini), Campari and sweet vermouth are the Negroni and Americano pair, and grapefruit and ginger ale are highball mixers.",
+    "El Sazerac usa Cognac o rye, azúcar y, como elemento amargo, bitters Peychaud's con absenta. Angostura y vermut seco aparecen en otros clásicos (Old Fashioned, Manhattan, Martini), Campari y vermut dulce son la pareja del Negroni y el Americano, y el pomelo y el ginger ale son refrescos de highball."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Un cliente vuole un drink semplice di Scotch whisky addolcito con un liquore. Quale classico gli si propone?",
+    "Un client veut une boisson simple à base de Scotch whisky adoucie par une liqueur. Quel classique lui propose-t-on ?",
+    "A customer wants a simple drink of Scotch whisky sweetened with a liqueur. Which classic do you suggest?",
+    "Un cliente quiere un trago sencillo de Scotch whisky endulzado con un licor. ¿Qué clásico se le propone?"
+   ],
+   "o": [
+    [
+     "Rusty Nail",
+     "Rusty Nail",
+     "Rusty Nail",
+     "Rusty Nail"
+    ],
+    [
+     "Sazerac",
+     "Sazerac",
+     "Sazerac",
+     "Sazerac"
+    ],
+    [
+     "Sidecar",
+     "Sidecar",
+     "Sidecar",
+     "Sidecar"
+    ],
+    [
+     "Horse's Neck",
+     "Horse's Neck",
+     "Horse's Neck",
+     "Horse's Neck"
+    ]
+   ],
+   "e": [
+    "Il Rusty Nail è Scotch whisky con Drambuie, un liquore.",
+    "Le Rusty Nail, c'est du Scotch whisky avec du Drambuie, une liqueur.",
+    "The Rusty Nail is Scotch whisky with Drambuie, a liqueur.",
+    "El Rusty Nail es Scotch whisky con Drambuie, un licor."
+   ],
+   "d": [
+    "È l'esempio più semplice di spirit-forward con distillato e liquore. Il Sazerac usa Cognac o rye con zucchero, bitter e assenzio; il Sidecar è un sour di Cognac con limone; l'Horse's Neck è un highball di Cognac con ginger ale.",
+    "C'est l'exemple le plus simple de spirit-forward associant spiritueux et liqueur. Le Sazerac utilise Cognac ou rye avec sucre, bitters et absinthe ; le Sidecar est un sour au Cognac avec du citron ; le Horse's Neck est un highball au Cognac avec du ginger ale.",
+    "It is the simplest example of a spirit-forward drink made of spirit plus liqueur. The Sazerac uses Cognac or rye with sugar, bitters and absinthe; the Sidecar is a Cognac sour with lemon; the Horse's Neck is a Cognac highball with ginger ale.",
+    "Es el ejemplo más sencillo de spirit-forward con destilado y licor. El Sazerac usa Cognac o rye con azúcar, bitters y absenta; el Sidecar es un sour de Cognac con limón; el Horse's Neck es un highball de Cognac con ginger ale."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quali sono gli ingredienti di un Martini classico?",
+    "Quels sont les ingrédients d'un Martini classique ?",
+    "What are the ingredients of a classic Martini?",
+    "¿Cuáles son los ingredientes de un Martini clásico?"
+   ],
+   "o": [
+    [
+     "Gin e vermouth dry",
+     "Gin et vermouth dry",
+     "Gin and dry vermouth",
+     "Ginebra y vermut seco"
+    ],
+    [
+     "Gin e vermouth rosso dolce",
+     "Gin et vermouth rouge doux",
+     "Gin and sweet red vermouth",
+     "Ginebra y vermut rojo dulce"
+    ],
+    [
+     "Vodka e succo di limone",
+     "Vodka et jus de citron",
+     "Vodka and lemon juice",
+     "Vodka y zumo de limón"
+    ],
+    [
+     "Gin, Campari e acqua gassata",
+     "Gin, Campari et eau gazeuse",
+     "Gin, Campari and club soda",
+     "Ginebra, Campari y soda"
+    ]
+   ],
+   "e": [
+    "Il Martini unisce gin e vermouth dry.",
+    "Le Martini associe gin et vermouth dry.",
+    "The Martini pairs gin with dry vermouth.",
+    "El Martini combina ginebra y vermut seco."
+   ],
+   "d": [
+    "Nel Martini il vermouth dry fa due lavori insieme: porta un filo di dolcezza (anche il «dry» contiene un po' di zucchero) e una nota amara. Il vermouth dolce va nel Manhattan e nel Negroni; vodka e limone ricordano un sour, e Campari con soda richiama la famiglia degli highball.",
+    "Dans le Martini, le vermouth dry fait deux choses à la fois : il apporte un soupçon de douceur (même le « dry » contient un peu de sucre) et une note amère. Le vermouth doux va dans le Manhattan et le Negroni ; vodka et citron évoquent un sour, et Campari avec eau gazeuse renvoie aux highballs.",
+    "In the Martini, dry vermouth does two jobs at once: it brings a hint of sweetness (even 'dry' vermouth has a little sugar) and a bitter note. Sweet vermouth goes into the Manhattan and Negroni; vodka and lemon suggest a sour, and Campari with soda points to the highball family.",
+    "En el Martini, el vermut seco hace dos cosas a la vez: aporta un punto de dulzor (incluso el «seco» lleva algo de azúcar) y una nota amarga. El vermut dulce va en el Manhattan y el Negroni; vodka y limón recuerdan a un sour, y Campari con soda remite a los highballs."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Che cosa si ottiene aggiungendo panna a un cocktail spirit-forward?",
+    "Qu'obtient-on en ajoutant de la crème à un cocktail spirit-forward ?",
+    "What do you get by adding cream to a spirit-forward cocktail?",
+    "¿Qué se obtiene al añadir nata a un cóctel spirit-forward?"
+   ],
+   "o": [
+    [
+     "La famiglia degli Alexander, come il Brandy Alexander",
+     "La famille des Alexander, comme le Brandy Alexander",
+     "The Alexander family, such as the Brandy Alexander",
+     "La familia de los Alexander, como el Brandy Alexander"
+    ],
+    [
+     "La famiglia dei Collins, come il Tom Collins",
+     "La famille des Collins, comme le Tom Collins",
+     "The Collins family, such as the Tom Collins",
+     "La familia de los Collins, como el Tom Collins"
+    ],
+    [
+     "La famiglia degli Sling, come il Singapore Sling",
+     "La famille des Slings, comme le Singapore Sling",
+     "The Sling family, such as the Singapore Sling",
+     "La familia de los Sling, como el Singapore Sling"
+    ],
+    [
+     "La famiglia dei sour, come il Pisco Sour",
+     "La famille des sours, comme le Pisco Sour",
+     "The sour family, such as the Pisco Sour",
+     "La familia de los sours, como el Pisco Sour"
+    ]
+   ],
+   "e": [
+    "La panna trasforma il drink in un Alexander.",
+    "La crème transforme la boisson en Alexander.",
+    "Cream turns the drink into an Alexander.",
+    "La nata convierte la bebida en un Alexander."
+   ],
+   "d": [
+    "Gli Alexander sono una modifica dei drink spirit-forward in cui la panna rende tutto più rotondo e vellutato. Collins e Sling sono sour lunghi allungati con soda, e il Pisco Sour è un sour corto la cui morbidezza viene dall'albume, non dalla panna.",
+    "Les Alexander sont une variante des spirit-forward dans laquelle la crème rend l'ensemble plus rond et velouté. Collins et Slings sont des sours longs allongés à l'eau gazeuse, et le Pisco Sour est un sour court dont le moelleux vient du blanc d'œuf, pas de la crème.",
+    "Alexanders are a twist on spirit-forward drinks in which cream makes everything rounder and velvety. Collinses and Slings are long sours topped with soda, and the Pisco Sour is a short sour whose smoothness comes from egg white, not cream.",
+    "Los Alexander son una variación de los spirit-forward en la que la nata lo hace todo más redondo y aterciopelado. Collins y Sling son sours largos alargados con soda, y el Pisco Sour es un sour corto cuya suavidad viene de la clara, no de la nata."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Come si preparano di solito i cocktail spirit-forward?",
+    "Comment prépare-t-on en général les cocktails spirit-forward ?",
+    "How are spirit-forward cocktails usually prepared?",
+    "¿Cómo se preparan normalmente los cócteles spirit-forward?"
+   ],
+   "o": [
+    [
+     "Direttamente nel bicchiere o mescolati, con ghiaccio per raffreddare e diluire",
+     "Directement dans le verre ou remués, avec de la glace pour refroidir et diluer",
+     "Built in the glass or stirred, with ice to chill and dilute",
+     "Directamente en el vaso o removidos, con hielo para enfriar y diluir"
+    ],
+    [
+     "Shakerati con albume per creare una schiuma",
+     "Secoués avec du blanc d'œuf pour créer une mousse",
+     "Shaken with egg white to create a foam",
+     "Agitados con clara para crear espuma"
+    ],
+    [
+     "Allungati con molta acqua gassata in un bicchiere alto",
+     "Allongés de beaucoup d'eau gazeuse dans un verre haut",
+     "Topped with plenty of club soda in a tall glass",
+     "Alargados con mucha soda en un vaso alto"
+    ],
+    [
+     "Serviti caldi, senza ghiaccio né diluizione",
+     "Servis chauds, sans glace ni dilution",
+     "Served warm, with no ice or dilution",
+     "Servidos calientes, sin hielo ni dilución"
+    ]
+   ],
+   "e": [
+    "Si costruiscono nel bicchiere o si mescolano; il ghiaccio raffredda e diluisce.",
+    "On les construit dans le verre ou on les remue ; la glace refroidit et dilue.",
+    "They are built or stirred; the ice chills and dilutes.",
+    "Se preparan en el vaso o se remueven; el hielo enfría y diluye."
+   ],
+   "d": [
+    "Mescolare lascia il drink limpido e compatto, adatto a mettere in risalto il distillato. Lo shaker con albume è tipico dei sour corti, la soda in bicchiere alto dei drink lunghi. Senza ghiaccio mancherebbe proprio la parte leggera che rende bevibile un drink così alcolico.",
+    "Remuer laisse la boisson limpide et dense, idéale pour mettre le spiritueux en valeur. Le shaker avec blanc d'œuf est typique des sours courts, l'eau gazeuse en verre haut des long drinks. Sans glace, il manquerait justement la partie légère qui rend buvable une boisson aussi alcoolisée.",
+    "Stirring keeps the drink clear and dense, ideal for showcasing the spirit. Shaking with egg white is typical of short sours, and soda in a tall glass of long drinks. Without ice you would lose the very weak element that makes such a strong drink pleasant to sip.",
+    "Remover deja la bebida limpia y densa, ideal para destacar el destilado. La coctelera con clara es típica de los sours cortos, y la soda en vaso alto de los tragos largos. Sin hielo faltaría justo la parte suave que hace agradable una bebida tan alcohólica."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quali sono i tre elementi di un sour corto classico?",
+    "Quels sont les trois éléments d'un sour court classique ?",
+    "What are the three elements of a classic short sour?",
+    "¿Cuáles son los tres elementos de un sour corto clásico?"
+   ],
+   "o": [
+    [
+     "Distillato, succo di agrumi, sciroppo semplice",
+     "Spiritueux, jus d'agrume, sirop simple",
+     "Spirit, citrus juice, simple syrup",
+     "Destilado, zumo de cítricos, jarabe simple"
+    ],
+    [
+     "Distillato, vermouth, bitter",
+     "Spiritueux, vermouth, bitters",
+     "Spirit, vermouth, bitters",
+     "Destilado, vermut, bitters"
+    ],
+    [
+     "Distillato, panna, liquore",
+     "Spiritueux, crème, liqueur",
+     "Spirit, cream, liqueur",
+     "Destilado, nata, licor"
+    ],
+    [
+     "Distillato, tonica, ghiaccio",
+     "Spiritueux, tonic, glace",
+     "Spirit, tonic, ice",
+     "Destilado, tónica, hielo"
+    ]
+   ],
+   "e": [
+    "Il sour corto bilancia forte, acido e dolce: distillato, agrumi, sciroppo.",
+    "Le sour court équilibre fort, acide et sucré : spiritueux, agrume, sirop.",
+    "The short sour balances strong, sour and sweet: spirit, citrus, syrup.",
+    "El sour corto equilibra fuerte, ácido y dulce: destilado, cítrico, jarabe."
+   ],
+   "d": [
+    "La formula base usa un dolcificante senza aroma, come lo sciroppo semplice, e un agrume come lime o limone. Distillato, vermouth e bitter descrivono uno spirit-forward; con panna e liquore si va verso gli Alexander; con tonica si ottiene un highball.",
+    "La formule de base utilise un édulcorant neutre, comme le sirop simple, et un agrume comme le citron vert ou jaune. Spiritueux, vermouth et bitters décrivent un spirit-forward ; avec crème et liqueur on va vers les Alexander ; avec du tonic on obtient un highball.",
+    "The basic formula uses an unflavoured sweetener such as simple syrup and a citrus fruit such as lime or lemon. Spirit, vermouth and bitters describe a spirit-forward drink; cream and liqueur lead to the Alexander family; tonic gives a highball.",
+    "La fórmula básica usa un endulzante sin aroma, como el jarabe simple, y un cítrico como la lima o el limón. Destilado, vermut y bitters describen un spirit-forward; con nata y licor se va hacia los Alexander; con tónica se obtiene un highball."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale ricetta corrisponde al Daiquiri?",
+    "Quelle recette correspond au Daiquiri ?",
+    "Which recipe is a Daiquiri?",
+    "¿Qué receta corresponde al Daiquiri?"
+   ],
+   "o": [
+    [
+     "Rum, lime, sciroppo semplice",
+     "Rhum, citron vert, sirop simple",
+     "Rum, lime, simple syrup",
+     "Ron, lima, jarabe simple"
+    ],
+    [
+     "Rum, cola, lime",
+     "Rhum, cola, citron vert",
+     "Rum, cola, lime",
+     "Ron, cola, lima"
+    ],
+    [
+     "Tequila, lime, triple sec",
+     "Tequila, citron vert, triple sec",
+     "Tequila, lime, triple sec",
+     "Tequila, lima, triple sec"
+    ],
+    [
+     "Rum, lime, zucchero, menta",
+     "Rhum, citron vert, sucre, menthe",
+     "Rum, lime, sugar, mint",
+     "Ron, lima, azúcar, menta"
+    ]
+   ],
+   "e": [
+    "Il Daiquiri è il sour corto classico a base di rum.",
+    "Le Daiquiri est le sour court classique à base de rhum.",
+    "The Daiquiri is the classic rum-based short sour.",
+    "El Daiquiri es el sour corto clásico a base de ron."
+   ],
+   "d": [
+    "Il Daiquiri segue lo schema puro del sour: rum, lime, sciroppo, shakerati. Rum, cola e lime è il Cuba Libre, un highball; tequila, lime e triple sec è la Margarita; con menta e un formato lungo si arriva al Mojito.",
+    "Le Daiquiri suit le schéma pur du sour : rhum, citron vert, sirop, secoués. Rhum, cola et citron vert, c'est le Cuba Libre, un highball ; tequila, citron vert et triple sec, c'est la Margarita ; avec de la menthe et un format long, on arrive au Mojito.",
+    "The Daiquiri follows the pure sour pattern: rum, lime and syrup, shaken. Rum, cola and lime is the Cuba Libre, a highball; tequila, lime and triple sec is the Margarita; add mint and a long format and you reach the Mojito.",
+    "El Daiquiri sigue el esquema puro del sour: ron, lima y jarabe, agitados. Ron, cola y lima es el Cuba Libre, un highball; tequila, lima y triple sec es la Margarita; con menta y formato largo se llega al Mojito."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "In quale cocktail l'albume è considerato indispensabile?",
+    "Dans quel cocktail le blanc d'œuf est-il considéré comme indispensable ?",
+    "In which cocktail is egg white considered essential?",
+    "¿En qué cóctel se considera imprescindible la clara de huevo?"
+   ],
+   "o": [
+    [
+     "Pisco Sour",
+     "Pisco Sour",
+     "Pisco Sour",
+     "Pisco Sour"
+    ],
+    [
+     "Daiquiri",
+     "Daiquiri",
+     "Daiquiri",
+     "Daiquiri"
+    ],
+    [
+     "Sidecar",
+     "Sidecar",
+     "Sidecar",
+     "Sidecar"
+    ],
+    [
+     "Margarita",
+     "Margarita",
+     "Margarita",
+     "Margarita"
+    ]
+   ],
+   "e": [
+    "Il Pisco Sour richiede sempre un albume.",
+    "Le Pisco Sour demande toujours un blanc d'œuf.",
+    "The Pisco Sour always calls for an egg white.",
+    "El Pisco Sour siempre lleva una clara."
+   ],
+   "d": [
+    "Nel Pisco Sour l'albume crea una testa di schiuma e una consistenza setosa, ed è parte integrante della ricetta. Nel Whiskey Sour è facoltativo e nel Clover Club è previsto, mentre Daiquiri, Sidecar e Margarita si fanno normalmente senza.",
+    "Dans le Pisco Sour, le blanc d'œuf crée une tête de mousse et une texture soyeuse ; il fait partie intégrante de la recette. Dans le Whiskey Sour il est facultatif et dans le Clover Club il est prévu, tandis que Daiquiri, Sidecar et Margarita se font normalement sans.",
+    "In the Pisco Sour, egg white creates a foam head and a silky texture and is an integral part of the recipe. It is optional in the Whiskey Sour and included in the Clover Club, while the Daiquiri, Sidecar and Margarita are normally made without it.",
+    "En el Pisco Sour, la clara crea una capa de espuma y una textura sedosa, y forma parte de la receta. En el Whiskey Sour es opcional y en el Clover Club está prevista, mientras que el Daiquiri, el Sidecar y la Margarita se hacen normalmente sin ella."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale ricetta corrisponde al Sidecar?",
+    "Quelle recette correspond au Sidecar ?",
+    "Which recipe is a Sidecar?",
+    "¿Qué receta corresponde al Sidecar?"
+   ],
+   "o": [
+    [
+     "Cognac, limone, triple sec",
+     "Cognac, citron jaune, triple sec",
+     "Cognac, lemon, triple sec",
+     "Cognac, limón, triple sec"
+    ],
+    [
+     "Cognac, ginger ale, bitter",
+     "Cognac, ginger ale, bitters",
+     "Cognac, ginger ale, bitters",
+     "Cognac, ginger ale, bitters"
+    ],
+    [
+     "Cognac, limone, sciroppo, Champagne",
+     "Cognac, citron jaune, sirop, Champagne",
+     "Cognac, lemon, syrup, Champagne",
+     "Cognac, limón, jarabe, Champagne"
+    ],
+    [
+     "Cognac, zucchero, Peychaud's, assenzio",
+     "Cognac, sucre, Peychaud's, absinthe",
+     "Cognac, sugar, Peychaud's, absinthe",
+     "Cognac, azúcar, Peychaud's, absenta"
+    ]
+   ],
+   "e": [
+    "Il Sidecar è un sour di Cognac addolcito con triple sec.",
+    "Le Sidecar est un sour au Cognac adouci au triple sec.",
+    "The Sidecar is a Cognac sour sweetened with triple sec.",
+    "El Sidecar es un sour de Cognac endulzado con triple sec."
+   ],
+   "d": [
+    "Il Sidecar è una variante del sour in cui il triple sec, un liquore all'arancia, prende il posto dello sciroppo. Tutte le opzioni contengono Cognac, ma Cognac, ginger ale e bitter è l'Horse's Neck; con Champagne si ha il French 75; con Peychaud's e assenzio il Sazerac.",
+    "Le Sidecar est une variante du sour où le triple sec, une liqueur d'orange, remplace le sirop. Toutes les options contiennent du Cognac, mais Cognac, ginger ale et bitters, c'est le Horse's Neck ; avec du Champagne, le French 75 ; avec Peychaud's et absinthe, le Sazerac.",
+    "The Sidecar is a sour variation in which triple sec, an orange liqueur, takes the place of syrup. Every option contains Cognac, but Cognac, ginger ale and bitters is the Horse's Neck; with Champagne it is the French 75; with Peychaud's and absinthe, the Sazerac.",
+    "El Sidecar es una variante del sour en la que el triple sec, un licor de naranja, sustituye al jarabe. Todas las opciones llevan Cognac, pero Cognac, ginger ale y bitters es el Horse's Neck; con Champagne, el French 75; con Peychaud's y absenta, el Sazerac."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Nella Margarita, quale ingrediente porta la dolcezza?",
+    "Dans la Margarita, quel ingrédient apporte la douceur ?",
+    "In a Margarita, which ingredient provides the sweetness?",
+    "En la Margarita, ¿qué ingrediente aporta el dulzor?"
+   ],
+   "o": [
+    [
+     "Il triple sec",
+     "Le triple sec",
+     "Triple sec",
+     "El triple sec"
+    ],
+    [
+     "Il sale sul bordo",
+     "Le sel sur le bord",
+     "The salt rim",
+     "La sal del borde"
+    ],
+    [
+     "Il succo di lime",
+     "Le jus de citron vert",
+     "Lime juice",
+     "El zumo de lima"
+    ],
+    [
+     "La soda al pompelmo",
+     "Le soda au pamplemousse",
+     "Grapefruit soda",
+     "El refresco de pomelo"
+    ]
+   ],
+   "e": [
+    "Il triple sec, liquore all'arancia, è il dolcificante della Margarita.",
+    "Le triple sec, liqueur d'orange, est l'édulcorant de la Margarita.",
+    "Triple sec, an orange liqueur, is the Margarita's sweetener.",
+    "El triple sec, licor de naranja, es el endulzante de la Margarita."
+   ],
+   "d": [
+    "La Margarita è tequila, lime e triple sec: il lime è la parte acida, non quella dolce. Il bordo di sale è facoltativo e serve a esaltare i sapori. La soda al pompelmo appartiene alla Paloma, un altro drink a base di tequila ma lungo.",
+    "La Margarita, c'est tequila, citron vert et triple sec : le citron vert est la partie acide, pas la partie sucrée. Le bord de sel est facultatif et sert à relever les saveurs. Le soda au pamplemousse appartient à la Paloma, une autre boisson à la tequila, mais longue.",
+    "The Margarita is tequila, lime and triple sec: the lime is the sour part, not the sweet one. The salt rim is optional and lifts the flavours. Grapefruit soda belongs to the Paloma, another tequila drink, but a long one.",
+    "La Margarita es tequila, lima y triple sec: la lima es la parte ácida, no la dulce. El borde de sal es opcional y realza los sabores. El refresco de pomelo pertenece a la Paloma, otro trago de tequila, pero largo."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale sour corto usa gin, limone e sciroppo di lampone?",
+    "Quel sour court utilise gin, citron jaune et sirop de framboise ?",
+    "Which short sour uses gin, lemon and raspberry syrup?",
+    "¿Qué sour corto usa ginebra, limón y jarabe de frambuesa?"
+   ],
+   "o": [
+    [
+     "Clover Club",
+     "Clover Club",
+     "Clover Club",
+     "Clover Club"
+    ],
+    [
+     "Tom Collins",
+     "Tom Collins",
+     "Tom Collins",
+     "Tom Collins"
+    ],
+    [
+     "Singapore Sling",
+     "Singapore Sling",
+     "Singapore Sling",
+     "Singapore Sling"
+    ],
+    [
+     "French 75",
+     "French 75",
+     "French 75",
+     "French 75"
+    ]
+   ],
+   "e": [
+    "Il Clover Club è la variante al gin con sciroppo di lampone.",
+    "Le Clover Club est la variante au gin avec sirop de framboise.",
+    "The Clover Club is the gin variation with raspberry syrup.",
+    "El Clover Club es la variante de ginebra con jarabe de frambuesa."
+   ],
+   "d": [
+    "Il Clover Club è un sour corto con un dolcificante aromatizzato, più albume e, a scelta, un po' di vermouth. Gli altri tre contengono gin ma sono sour lunghi: il Tom Collins con sciroppo semplice e soda, il Singapore Sling con liquori e soda, il French 75 con Champagne.",
+    "Le Clover Club est un sour court avec un édulcorant aromatisé, plus du blanc d'œuf et, au choix, un peu de vermouth. Les trois autres contiennent du gin mais sont des sours longs : le Tom Collins avec sirop simple et eau gazeuse, le Singapore Sling avec liqueurs et eau gazeuse, le French 75 avec du Champagne.",
+    "The Clover Club is a short sour with a flavoured sweetener, plus egg white and optionally a little vermouth. The other three contain gin but are long sours: the Tom Collins with simple syrup and soda, the Singapore Sling with liqueurs and soda, and the French 75 with Champagne.",
+    "El Clover Club es un sour corto con un endulzante aromatizado, más clara y, si se quiere, algo de vermut. Los otros tres llevan ginebra pero son sours largos: el Tom Collins con jarabe simple y soda, el Singapore Sling con licores y soda, y el French 75 con Champagne."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Whiskey Sour e Pisco Sour sono entrambi sour classici. In che cosa differiscono gli agrumi usati?",
+    "Le Whiskey Sour et le Pisco Sour sont deux sours classiques. En quoi diffèrent les agrumes utilisés ?",
+    "The Whiskey Sour and the Pisco Sour are both classic sours. How do their citrus juices differ?",
+    "El Whiskey Sour y el Pisco Sour son sours clásicos. ¿En qué se diferencian los cítricos que usan?"
+   ],
+   "o": [
+    [
+     "Il Whiskey Sour usa limone, il Pisco Sour lime",
+     "Le Whiskey Sour utilise du citron jaune, le Pisco Sour du citron vert",
+     "The Whiskey Sour uses lemon, the Pisco Sour lime",
+     "El Whiskey Sour usa limón y el Pisco Sour lima"
+    ],
+    [
+     "Il Whiskey Sour usa lime, il Pisco Sour limone",
+     "Le Whiskey Sour utilise du citron vert, le Pisco Sour du citron jaune",
+     "The Whiskey Sour uses lime, the Pisco Sour lemon",
+     "El Whiskey Sour usa lima y el Pisco Sour limón"
+    ],
+    [
+     "Entrambi usano succo di pompelmo",
+     "Les deux utilisent du jus de pamplemousse",
+     "Both use grapefruit juice",
+     "Ambos usan zumo de pomelo"
+    ],
+    [
+     "Entrambi usano succo d'arancia",
+     "Les deux utilisent du jus d'orange",
+     "Both use orange juice",
+     "Ambos usan zumo de naranja"
+    ]
+   ],
+   "e": [
+    "Limone per il Whiskey Sour, lime per il Pisco Sour.",
+    "Citron jaune pour le Whiskey Sour, citron vert pour le Pisco Sour.",
+    "Lemon for the Whiskey Sour, lime for the Pisco Sour.",
+    "Limón para el Whiskey Sour, lima para el Pisco Sour."
+   ],
+   "d": [
+    "Tra i tre sour classici, solo il Whiskey Sour usa il limone; Pisco Sour e Daiquiri usano il lime. Un trucco per ricordarlo: il whiskey, come il Cognac del Sidecar, va con il limone. Il pompelmo compare in Greyhound e Paloma, non in questi sour.",
+    "Parmi les trois sours classiques, seul le Whiskey Sour utilise le citron jaune ; le Pisco Sour et le Daiquiri utilisent le citron vert. Une astuce : le whiskey, comme le Cognac du Sidecar, va avec le citron jaune. Le pamplemousse apparaît dans le Greyhound et la Paloma, pas dans ces sours.",
+    "Of the three classic sours, only the Whiskey Sour uses lemon; the Pisco Sour and Daiquiri use lime. A memory tip: whiskey, like the Cognac in a Sidecar, goes with lemon. Grapefruit appears in the Greyhound and the Paloma, not in these sours.",
+    "De los tres sours clásicos, solo el Whiskey Sour usa limón; el Pisco Sour y el Daiquiri usan lima. Un truco para recordarlo: el whiskey, como el Cognac del Sidecar, va con limón. El pomelo aparece en el Greyhound y la Paloma, no en estos sours."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Che cos'è un Greyhound?",
+    "Qu'est-ce qu'un Greyhound ?",
+    "What is a Greyhound?",
+    "¿Qué es un Greyhound?"
+   ],
+   "o": [
+    [
+     "Vodka e succo di pompelmo",
+     "Vodka et jus de pamplemousse",
+     "Vodka and grapefruit juice",
+     "Vodka y zumo de pomelo"
+    ],
+    [
+     "Rum e cola con lime",
+     "Rhum et cola avec citron vert",
+     "Rum and cola with lime",
+     "Ron y cola con lima"
+    ],
+    [
+     "Gin e acqua tonica",
+     "Gin et tonic",
+     "Gin and tonic water",
+     "Ginebra y tónica"
+    ],
+    [
+     "Tequila e soda al pompelmo",
+     "Tequila et soda au pamplemousse",
+     "Tequila and grapefruit soda",
+     "Tequila y refresco de pomelo"
+    ]
+   ],
+   "e": [
+    "Il Greyhound è un highball di vodka e succo di pompelmo.",
+    "Le Greyhound est un highball de vodka et jus de pamplemousse.",
+    "The Greyhound is a highball of vodka and grapefruit juice.",
+    "El Greyhound es un highball de vodka y zumo de pomelo."
+   ],
+   "d": [
+    "È uno degli highball con un nome proprio, semplice come tutti quelli della famiglia. Rum, cola e lime è il Cuba Libre; gin e tonica non ha un nome speciale; tequila e soda al pompelmo con lime è la Paloma, che però è un sour lungo.",
+    "C'est l'un des highballs qui portent un nom, simple comme tous ceux de la famille. Rhum, cola et citron vert, c'est le Cuba Libre ; le gin tonic n'a pas de nom particulier ; tequila et soda au pamplemousse avec citron vert, c'est la Paloma, qui est pourtant un sour long.",
+    "It is one of the highballs with its own name, as simple as the rest of the family. Rum, cola and lime is the Cuba Libre; gin and tonic has no special name; tequila and grapefruit soda with lime is the Paloma, which is a long sour.",
+    "Es uno de los highballs con nombre propio, tan sencillo como los demás de la familia. Ron, cola y lima es el Cuba Libre; la ginebra con tónica no tiene nombre especial; tequila y refresco de pomelo con lima es la Paloma, que en realidad es un sour largo."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Un cliente chiede un highball a base di Cognac con ginger ale e qualche goccia di bitter. Che cosa si prepara?",
+    "Un client demande un highball au Cognac avec du ginger ale et quelques gouttes de bitters. Que prépare-t-on ?",
+    "A customer asks for a Cognac highball with ginger ale and a few dashes of bitters. What do you make?",
+    "Un cliente pide un highball de Cognac con ginger ale y unas gotas de bitters. ¿Qué se prepara?"
+   ],
+   "o": [
+    [
+     "Un Horse's Neck",
+     "Un Horse's Neck",
+     "A Horse's Neck",
+     "Un Horse's Neck"
+    ],
+    [
+     "Un Sidecar",
+     "Un Sidecar",
+     "A Sidecar",
+     "Un Sidecar"
+    ],
+    [
+     "Un French 75",
+     "Un French 75",
+     "A French 75",
+     "Un French 75"
+    ],
+    [
+     "Un Americano",
+     "Un Americano",
+     "An Americano",
+     "Un Americano"
+    ]
+   ],
+   "e": [
+    "L'Horse's Neck è Cognac, ginger ale e bitter.",
+    "Le Horse's Neck, c'est Cognac, ginger ale et bitters.",
+    "The Horse's Neck is Cognac, ginger ale and bitters.",
+    "El Horse's Neck es Cognac, ginger ale y bitters."
+   ],
+   "d": [
+    "È un esempio di highball che aggiunge i bitter a distillato e bibita. Sidecar e French 75 contengono Cognac ma sono sour, con limone; l'Americano è un highball senza Cognac, con Campari, vermouth dolce e soda.",
+    "C'est un exemple de highball qui ajoute des bitters au spiritueux et au soda. Le Sidecar et le French 75 contiennent du Cognac mais sont des sours, avec du citron ; l'Americano est un highball sans Cognac, avec Campari, vermouth doux et eau gazeuse.",
+    "It is an example of a highball that adds bitters to the spirit and mixer. The Sidecar and French 75 contain Cognac but are sours, with lemon; the Americano is a highball with no Cognac, made with Campari, sweet vermouth and soda.",
+    "Es un ejemplo de highball que añade bitters al destilado y al refresco. El Sidecar y el French 75 llevan Cognac pero son sours, con limón; el Americano es un highball sin Cognac, con Campari, vermut dulce y soda."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Perché si dice che l'Americano ha una «base divisa»?",
+    "Pourquoi dit-on que l'Americano a une « base partagée » ?",
+    "Why is the Americano said to have a 'split base'?",
+    "¿Por qué se dice que el Americano tiene una «base dividida»?"
+   ],
+   "o": [
+    [
+     "La parte alcolica è formata da Campari e vermouth dolce insieme",
+     "La partie alcoolisée est formée de Campari et de vermouth doux réunis",
+     "Its alcoholic part is Campari and sweet vermouth together",
+     "Su parte alcohólica son Campari y vermut dulce juntos"
+    ],
+    [
+     "Si serve metà in un bicchiere corto e metà in uno lungo",
+     "On le sert moitié en verre court, moitié en verre haut",
+     "It is served half in a short glass and half in a tall one",
+     "Se sirve la mitad en vaso corto y la mitad en vaso alto"
+    ],
+    [
+     "Usa due tipi di gin diversi",
+     "Il utilise deux gins différents",
+     "It uses two different gins",
+     "Usa dos ginebras distintas"
+    ],
+    [
+     "Mescola succo di limone e succo di lime",
+     "Il mélange jus de citron jaune et jus de citron vert",
+     "It mixes lemon juice and lime juice",
+     "Mezcla zumo de limón y zumo de lima"
+    ]
+   ],
+   "e": [
+    "Campari e vermouth rosso dolce condividono il ruolo di parte forte.",
+    "Le Campari et le vermouth rouge doux se partagent le rôle de partie forte.",
+    "Campari and sweet red vermouth share the role of the strong element.",
+    "Campari y vermut rojo dulce se reparten el papel de parte fuerte."
+   ],
+   "d": [
+    "Invece di un solo distillato, l'Americano usa due ingredienti alcolici che insieme fanno da base, poi allungati con acqua gassata. Non contiene gin né agrumi: è come un Negroni senza gin e reso lungo con la soda.",
+    "Au lieu d'un seul spiritueux, l'Americano utilise deux ingrédients alcoolisés qui forment ensemble la base, puis allongés d'eau gazeuse. Il ne contient ni gin ni agrumes : c'est comme un Negroni sans gin rallongé à l'eau gazeuse.",
+    "Instead of a single spirit, the Americano uses two alcoholic ingredients that together form the base, then lengthened with club soda. It contains no gin and no citrus: think of a Negroni without the gin, made long with soda.",
+    "En lugar de un solo destilado, el Americano usa dos ingredientes alcohólicos que juntos forman la base, y luego se alarga con soda. No lleva ginebra ni cítricos: es como un Negroni sin ginebra alargado con soda."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Come si trasforma un sour corto in un Tom Collins?",
+    "Comment transforme-t-on un sour court en Tom Collins ?",
+    "How is a short sour turned into a Tom Collins?",
+    "¿Cómo se convierte un sour corto en un Tom Collins?"
+   ],
+   "o": [
+    [
+     "Usando gin e allungando con acqua gassata",
+     "En utilisant du gin et en allongeant à l'eau gazeuse",
+     "By using gin and topping with club soda",
+     "Usando ginebra y alargando con soda"
+    ],
+    [
+     "Usando rum e aggiungendo foglie di menta",
+     "En utilisant du rhum et en ajoutant de la menthe",
+     "By using rum and adding mint leaves",
+     "Usando ron y añadiendo hojas de menta"
+    ],
+    [
+     "Usando Cognac e completando con Champagne",
+     "En utilisant du Cognac et en complétant au Champagne",
+     "By using Cognac and topping with Champagne",
+     "Usando Cognac y completando con Champagne"
+    ],
+    [
+     "Usando tequila e soda al pompelmo",
+     "En utilisant de la tequila et du soda au pamplemousse",
+     "By using tequila and grapefruit soda",
+     "Usando tequila y refresco de pomelo"
+    ]
+   ],
+   "e": [
+    "Il Tom Collins è un sour di gin allungato con acqua gassata.",
+    "Le Tom Collins est un sour au gin allongé à l'eau gazeuse.",
+    "The Tom Collins is a gin sour lengthened with club soda.",
+    "El Tom Collins es un sour de ginebra alargado con soda."
+   ],
+   "d": [
+    "Gin, limone e sciroppo semplice formano un sour; aggiungendo soda su ghiaccio diventa un Collins, il sour lungo più semplice. Rum e menta portano al Mojito, Cognac e Champagne al French 75, tequila e soda al pompelmo alla Paloma.",
+    "Gin, citron jaune et sirop simple forment un sour ; en ajoutant de l'eau gazeuse sur glace, il devient un Collins, le sour long le plus simple. Rhum et menthe mènent au Mojito, Cognac et Champagne au French 75, tequila et soda au pamplemousse à la Paloma.",
+    "Gin, lemon and simple syrup make a sour; topped with soda over ice it becomes a Collins, the simplest long sour. Rum and mint lead to the Mojito, Cognac and Champagne to the French 75, and tequila with grapefruit soda to the Paloma.",
+    "Ginebra, limón y jarabe simple forman un sour; al añadir soda sobre hielo se convierte en un Collins, el sour largo más sencillo. Ron y menta llevan al Mojito, Cognac y Champagne al French 75, y tequila con refresco de pomelo a la Paloma."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Con che cosa si completa un French 75?",
+    "Avec quoi complète-t-on un French 75 ?",
+    "What is a French 75 topped with?",
+    "¿Con qué se completa un French 75?"
+   ],
+   "o": [
+    [
+     "Champagne",
+     "Champagne",
+     "Champagne",
+     "Champagne"
+    ],
+    [
+     "Acqua tonica",
+     "Tonic",
+     "Tonic water",
+     "Tónica"
+    ],
+    [
+     "Ginger ale",
+     "Ginger ale",
+     "Ginger ale",
+     "Ginger ale"
+    ],
+    [
+     "Cola",
+     "Cola",
+     "Cola",
+     "Cola"
+    ]
+   ],
+   "e": [
+    "Il French 75 è un sour frizzante completato con Champagne.",
+    "Le French 75 est un sour pétillant complété au Champagne.",
+    "The French 75 is a sparkling sour topped with Champagne.",
+    "El French 75 es un sour espumoso completado con Champagne."
+   ],
+   "d": [
+    "La base è Cognac o gin, limone e sciroppo semplice; lo Champagne sostituisce la soda e lo rende un sour frizzante. La tonica è tipica di highball come il gin tonic, il ginger ale dell'Horse's Neck e la cola del Cuba Libre.",
+    "La base est un Cognac ou un gin, du citron jaune et du sirop simple ; le Champagne remplace l'eau gazeuse et en fait un sour pétillant. Le tonic est typique de highballs comme le gin tonic, le ginger ale du Horse's Neck et le cola du Cuba Libre.",
+    "The base is Cognac or gin, lemon and simple syrup; Champagne replaces the soda and makes it a sparkling sour. Tonic is typical of highballs such as the gin and tonic, ginger ale of the Horse's Neck and cola of the Cuba Libre.",
+    "La base es Cognac o ginebra, limón y jarabe simple; el Champagne sustituye a la soda y lo convierte en un sour espumoso. La tónica es típica de highballs como el gin-tonic, el ginger ale del Horse's Neck y la cola del Cuba Libre."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Nella Paloma, che cosa porta insieme dolcezza e bollicine?",
+    "Dans la Paloma, qu'est-ce qui apporte à la fois douceur et bulles ?",
+    "In a Paloma, what provides both sweetness and bubbles?",
+    "En la Paloma, ¿qué aporta a la vez dulzor y burbujas?"
+   ],
+   "o": [
+    [
+     "Una soda al pompelmo di tipo messicano",
+     "Un soda au pamplemousse de type mexicain",
+     "A Mexican-style grapefruit soda",
+     "Un refresco de pomelo de estilo mexicano"
+    ],
+    [
+     "Il triple sec",
+     "Le triple sec",
+     "Triple sec",
+     "El triple sec"
+    ],
+    [
+     "Lo Champagne",
+     "Le Champagne",
+     "Champagne",
+     "El Champagne"
+    ],
+    [
+     "Il ginger ale",
+     "Le ginger ale",
+     "Ginger ale",
+     "El ginger ale"
+    ]
+   ],
+   "e": [
+    "La soda al pompelmo addolcisce e allunga la Paloma.",
+    "Le soda au pamplemousse adoucit et allonge la Paloma.",
+    "Grapefruit soda both sweetens and lengthens the Paloma.",
+    "El refresco de pomelo endulza y alarga la Paloma."
+   ],
+   "d": [
+    "La Paloma è tequila e lime completati con soda al pompelmo; in alternativa si possono usare succo di pompelmo e acqua gassata. Il triple sec è il dolcificante della Margarita, lo Champagne completa il French 75 e il ginger ale va nell'Horse's Neck.",
+    "La Paloma, c'est tequila et citron vert complétés de soda au pamplemousse ; on peut aussi utiliser jus de pamplemousse et eau gazeuse. Le triple sec est l'édulcorant de la Margarita, le Champagne complète le French 75 et le ginger ale va dans le Horse's Neck.",
+    "The Paloma is tequila and lime topped with grapefruit soda; alternatively, grapefruit juice and soda water can be used. Triple sec sweetens the Margarita, Champagne tops the French 75 and ginger ale goes into the Horse's Neck.",
+    "La Paloma es tequila y lima completados con refresco de pomelo; como alternativa se pueden usar zumo de pomelo y soda. El triple sec endulza la Margarita, el Champagne completa el French 75 y el ginger ale va en el Horse's Neck."
+   ]
+  },
+  {
+   "c": "t3",
+   "q": [
+    "Quale ingrediente extra caratterizza il Mojito rispetto a un semplice sour di rum?",
+    "Quel ingrédient supplémentaire caractérise le Mojito par rapport à un simple sour au rhum ?",
+    "Which extra ingredient sets the Mojito apart from a plain rum sour?",
+    "¿Qué ingrediente extra distingue al Mojito de un simple sour de ron?"
+   ],
+   "o": [
+    [
+     "Le foglie di menta",
+     "Les feuilles de menthe",
+     "Mint leaves",
+     "Las hojas de menta"
+    ],
+    [
+     "L'albume",
+     "Le blanc d'œuf",
+     "Egg white",
+     "La clara de huevo"
+    ],
+    [
+     "Il bordo di sale",
+     "Le bord de sel",
+     "A salt rim",
+     "El borde de sal"
+    ],
+    [
+     "La panna",
+     "La crème",
+     "Cream",
+     "La nata"
+    ]
+   ],
+   "e": [
+    "La menta, con il lime, rende il Mojito fresco e profumato.",
+    "La menthe, avec le citron vert, rend le Mojito frais et parfumé.",
+    "Mint, with the lime, makes the Mojito fresh and fragrant.",
+    "La menta, con la lima, hace que el Mojito sea fresco y aromático."
+   ],
+   "d": [
+    "Il Mojito è rum, lime e zucchero o sciroppo, arricchito con menta: un sour lungo con un ingrediente extra semplice. L'albume è tipico del Pisco Sour, il sale della Margarita e la panna degli Alexander.",
+    "Le Mojito, c'est rhum, citron vert et sucre ou sirop, enrichi de menthe : un sour long avec un ingrédient supplémentaire simple. Le blanc d'œuf est typique du Pisco Sour, le sel de la Margarita et la crème des Alexander.",
+    "The Mojito is rum, lime and sugar or syrup, enriched with mint: a long sour with one simple extra ingredient. Egg white is typical of the Pisco Sour, salt of the Margarita and cream of the Alexander family.",
+    "El Mojito es ron, lima y azúcar o jarabe, enriquecido con menta: un sour largo con un ingrediente extra sencillo. La clara es típica del Pisco Sour, la sal de la Margarita y la nata de los Alexander."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "t1",
+   "f": [
+    "Campione per degustare un distillato",
+    "Échantillon pour déguster un spiritueux",
+    "Sample size for tasting a spirit",
+    "Muestra para catar un destilado"
+   ],
+   "b": [
+    "Circa 1,5 cL, più o meno un cucchiaio.",
+    "Environ 1,5 cL, à peu près une cuillère à soupe.",
+    "About 1.5 cL, roughly a tablespoon.",
+    "Unos 1,5 cL, más o menos una cucharada."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Quanta acqua aggiungere?",
+    "Combien d'eau ajouter ?",
+    "How much water to add?",
+    "¿Cuánta agua añadir?"
+   ],
+   "b": [
+    "La stessa quantità del campione, dopo il primo esame di occhio e naso.",
+    "Autant que l'échantillon, après le premier examen de l'œil et du nez.",
+    "The same amount as the sample, after the first look and sniff.",
+    "La misma cantidad que la muestra, tras el primer examen de vista y nariz."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Bicchiere da degustazione ideale",
+    "Verre de dégustation idéal",
+    "Ideal tasting glass",
+    "Copa de cata ideal"
+   ],
+   "b": [
+    "Coppa ampia che si stringe in alto, per concentrare gli aromi.",
+    "Large calice resserré en haut, pour concentrer les arômes.",
+    "Wide bowl narrowing at the top, to concentrate the aromas.",
+    "Cuerpo ancho que se estrecha arriba, para concentrar los aromas."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Livelli di intensità al naso",
+    "Niveaux d'intensité au nez",
+    "Nose intensity levels",
+    "Niveles de intensidad en nariz"
+   ],
+   "b": [
+    "Neutro, leggero, medio, pronunciato.",
+    "Neutre, léger, moyen, prononcé.",
+    "Neutral, light, medium, pronounced.",
+    "Neutra, ligera, media, pronunciada."
+   ]
+  },
+  {
+   "c": "t1",
+   "f": [
+    "Due osservazioni in bocca oltre ai sapori",
+    "Deux observations en bouche en plus des saveurs",
+    "Two palate observations besides flavours",
+    "Dos observaciones en boca además de los sabores"
+   ],
+   "b": [
+    "Livello di zucchero e consistenza del liquido.",
+    "Niveau de sucre et texture du liquide.",
+    "Sugar level and the texture of the liquid.",
+    "Nivel de azúcar y textura del líquido."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "I quattro punti di equilibrio",
+    "Les quatre points d'équilibre",
+    "The four points of balance",
+    "Los cuatro puntos de equilibrio"
+   ],
+   "b": [
+    "Forte, leggero, dolce, amaro e/o acido.",
+    "Fort, léger, sucré, amer et/ou acide.",
+    "Strong, weak, sweet, bitter and/or sour.",
+    "Fuerte, suave, dulce, amargo y/o ácido."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Sciroppo semplice",
+    "Sirop simple",
+    "Simple syrup",
+    "Jarabe simple"
+   ],
+   "b": [
+    "Zucchero sciolto in acqua: un dolcificante senza aromi.",
+    "Du sucre dissous dans l'eau : un édulcorant sans arôme.",
+    "Sugar dissolved in water: an unflavoured sweetener.",
+    "Azúcar disuelto en agua: un endulzante sin aroma."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Modificatore",
+    "Modificateur",
+    "Modifier",
+    "Modificador"
+   ],
+   "b": [
+    "Ingrediente che bilancia il dolce con amaro e/o acido, come agrumi o bitter.",
+    "Ingrédient qui équilibre le sucré par de l'amer et/ou de l'acide, comme agrumes ou bitters.",
+    "Ingredient that balances sweetness with bitter and/or sour, like citrus or bitters.",
+    "Ingrediente que equilibra el dulzor con amargo y/o ácido, como cítricos o bitters."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Drink corto",
+    "Short drink",
+    "Short drink",
+    "Trago corto"
+   ],
+   "b": [
+    "Pochi ingredienti, diluito dal ghiaccio mescolando o shakerando.",
+    "Peu d'ingrédients, dilué par la glace en remuant ou en secouant.",
+    "Few ingredients, diluted by ice when stirred or shaken.",
+    "Pocos ingredientes, diluido por el hielo al remover o agitar."
+   ]
+  },
+  {
+   "c": "t2",
+   "f": [
+    "Drink lungo",
+    "Long drink",
+    "Long drink",
+    "Trago largo"
+   ],
+   "b": [
+    "Più volume, allungato con bibite, succhi o latticini.",
+    "Plus de volume, allongé de sodas, jus ou produits laitiers.",
+    "Bigger volume, lengthened with sodas, juices or dairy.",
+    "Más volumen, alargado con refrescos, zumos o lácteos."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Old Fashioned",
+    "Old Fashioned",
+    "Old Fashioned",
+    "Old Fashioned"
+   ],
+   "b": [
+    "Whiskey (di solito Bourbon), zolletta di zucchero, bitter Angostura.",
+    "Whiskey (souvent Bourbon), morceau de sucre, bitters Angostura.",
+    "Whiskey (usually Bourbon), sugar cube, Angostura bitters.",
+    "Whiskey (normalmente Bourbon), terrón de azúcar, bitters Angostura."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Manhattan",
+    "Manhattan",
+    "Manhattan",
+    "Manhattan"
+   ],
+   "b": [
+    "Rye o Bourbon, vermouth rosso dolce, bitter Angostura.",
+    "Rye ou Bourbon, vermouth rouge doux, bitters Angostura.",
+    "Rye or Bourbon, sweet red vermouth, Angostura bitters.",
+    "Rye o Bourbon, vermut rojo dulce, bitters Angostura."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Brandy Alexander",
+    "Brandy Alexander",
+    "Brandy Alexander",
+    "Brandy Alexander"
+   ],
+   "b": [
+    "Esempio della famiglia Alexander: un drink spirit-forward arricchito con panna.",
+    "Exemple de la famille Alexander : un spirit-forward enrichi de crème.",
+    "Example of the Alexander family: a spirit-forward drink with cream added.",
+    "Ejemplo de la familia Alexander: un spirit-forward enriquecido con nata."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Whiskey Sour",
+    "Whiskey Sour",
+    "Whiskey Sour",
+    "Whiskey Sour"
+   ],
+   "b": [
+    "Bourbon o rye, limone, sciroppo semplice; albume e bitter facoltativi.",
+    "Bourbon ou rye, citron jaune, sirop simple ; blanc d'œuf et bitters facultatifs.",
+    "Bourbon or rye, lemon, simple syrup; optional egg white and bitters.",
+    "Bourbon o rye, limón, jarabe simple; clara y bitters opcionales."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Aquafaba",
+    "Aquafaba",
+    "Aquafaba",
+    "Aquafaba"
+   ],
+   "b": [
+    "Acqua di cottura dei ceci: alternativa vegana all'albume per la schiuma.",
+    "Eau de cuisson des pois chiches : alternative végane au blanc d'œuf pour la mousse.",
+    "Chickpea cooking water: a vegan alternative to egg white for foam.",
+    "Agua de cocción de garbanzos: alternativa vegana a la clara para la espuma."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Highball",
+    "Highball",
+    "Highball",
+    "Highball"
+   ],
+   "b": [
+    "Il drink miscelato più semplice: distillato e bibita, lungo, su ghiaccio a cubetti.",
+    "Le mélange le plus simple : spiritueux et soda, long, sur glaçons.",
+    "The simplest mixed drink: spirit and mixer, served long over cubed ice.",
+    "La mezcla más sencilla: destilado y refresco, en vaso alto con cubitos."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Cuba Libre",
+    "Cuba Libre",
+    "Cuba Libre",
+    "Cuba Libre"
+   ],
+   "b": [
+    "Highball di rum e cola con lime.",
+    "Highball de rhum et cola avec citron vert.",
+    "Highball of rum and cola with lime.",
+    "Highball de ron y cola con lima."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "French 75",
+    "French 75",
+    "French 75",
+    "French 75"
+   ],
+   "b": [
+    "Cognac o gin, limone, sciroppo semplice, completato con Champagne.",
+    "Cognac ou gin, citron jaune, sirop simple, complété au Champagne.",
+    "Cognac or gin, lemon, simple syrup, topped with Champagne.",
+    "Cognac o ginebra, limón, jarabe simple, completado con Champagne."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Singapore Sling",
+    "Singapore Sling",
+    "Singapore Sling",
+    "Singapore Sling"
+   ],
+   "b": [
+    "Gin, lime, liquore alla ciliegia e alle erbe, bitter Angostura, acqua gassata.",
+    "Gin, citron vert, liqueur de cerise et aux plantes, bitters Angostura, eau gazeuse.",
+    "Gin, lime, cherry and herbal liqueurs, Angostura bitters, club soda.",
+    "Ginebra, lima, licor de cereza y de hierbas, bitters Angostura, soda."
+   ]
+  },
+  {
+   "c": "t3",
+   "f": [
+    "Sottofamiglie del sour lungo",
+    "Sous-familles du sour long",
+    "Long sour sub-families",
+    "Subfamilias del sour largo"
+   ],
+   "b": [
+    "Collins, Sling e sour frizzanti.",
+    "Collins, Slings et sours pétillants.",
+    "Collins, Sling and sparkling sour.",
+    "Collins, Sling y sours espumosos."
+   ]
+  }
+ ]
+}
