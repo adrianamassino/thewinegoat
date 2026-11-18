@@ -41,6 +41,13 @@
     }
     if (hasFilms) {
       FILMS.length = 0; M.films.forEach(f => FILMS.push(f));
+      try { FLTAGS.length = 0; (M.tags || (C.track === "spirits" ? ["Cognac", "Whisky", "Bourbon", "Rum", "Tequila", "Gin", "Vodka", "Vermouth", "Negroni", "Daiquiri"] : [])).forEach(x => FLTAGS.push(x)); } catch (e) {}
+      const sp = C.track === "spirits", lvn = (sp ? "Spirits " : "") + C.level;
+      const FT = { it: { tr_films: sp ? "Film dei distillati" : "Film del vino", trd_films: `${M.films.length} film animati, livello ${lvn}`, flIntro: sp ? "Come si fa ogni distillato, dalla materia prima al bicchiere: ogni passaggio animato e spiegato a voce. Alla fine di ogni film puoi metterti alla prova." : "Ogni passaggio animato e spiegato a voce. Alla fine di ogni film puoi metterti alla prova." },
+        fr: { tr_films: sp ? "Films des spiritueux" : "Films du vin", trd_films: `${M.films.length} films animés, niveau ${lvn}`, flIntro: sp ? "Comment naît chaque spiritueux, de la matière première au verre : chaque étape animée et expliquée à voix haute. À la fin de chaque film, testez-vous." : "Chaque étape animée et expliquée à voix haute. À la fin de chaque film, testez-vous." },
+        en: { tr_films: sp ? "Spirits films" : "Wine films", trd_films: `${M.films.length} animated films, level ${lvn}`, flIntro: sp ? "How every spirit is made, from raw material to glass: each step animated and explained aloud. At the end of each film you can test yourself." : "Each step animated and explained aloud. At the end of each film you can test yourself." } };
+      ["it", "fr", "en"].forEach(l => Object.assign(T[l], FT[l]));
+      try { Object.assign(X.es, { "Spirits films": "Películas de destilados", "How every spirit is made, from raw material to glass: each step animated and explained aloud. At the end of each film you can test yourself.": "Cómo se hace cada destilado, de la materia prima a la copa: cada paso animado y explicado en voz alta. Al final de cada película puedes ponerte a prueba." }); } catch (e) {}
       if (M.fsec) Object.keys(M.fsec).forEach(k => { FSEC[k] = M.fsec[k]; });
     }
     /* entry points in the Review hub */
