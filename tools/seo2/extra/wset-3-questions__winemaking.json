@@ -1,290 +1,1186 @@
 {
-"en": {
-"sections": [
-{"h2": "Study notes: winemaking and maturation for WSET Level 3"},
-{"p": "WSET Level 3 winemaking questions cover the techniques shared by every wine style: controlling oxygen and temperature, running the alcoholic fermentation, adjusting the must, maturing the wine, then clarifying, stabilising and packaging it. These study notes give you the general principles that sit behind the white, red, rosé, sparkling and fortified processes, explained as cause, effect and style so you can apply them to any wine in the exam."},
-{"h2": "The winemaker's toolkit: oxygen, temperature and hygiene"},
-{"p": "Oxygen is the winemaker's most important variable. Protective (reductive) winemaking keeps oxygen away with stainless steel, inert gases, full containers and sulfur dioxide, preserving fresh primary fruit. Oxidative winemaking deliberately allows some oxygen contact, for example in barrels, which softens tannins, changes colour and builds tertiary notes such as nut, toffee or leather. Too much oxygen, or oxygen at the wrong time, causes faults: loss of fruit, browning and acetaldehyde aromas."},
-{"p": "Temperature control lets the winemaker steer fermentation speed and aroma. Hygiene matters because spoilage microbes such as acetic acid bacteria and Brettanomyces yeast thrive in dirty equipment and in wines with low sulfur dioxide or exposed to air. Sulfur dioxide is used throughout the process as an antioxidant and antimicrobial, but too much can mute aromas and is regulated by law."},
-{"h3": "Fermentation and storage vessels"},
-{"table": {"head": ["Vessel", "Main features", "Effect on style"], "rows": [
-["Stainless steel", "Inert, airtight, easy to clean and temperature-control", "Pure primary fruit; no added flavour"],
-["Concrete", "Thermally stable, lined or unlined, available in many shapes", "Neutral flavour, some texture; slight oxygen exchange if unlined"],
-["Oak (barrels, large vats)", "Allows slow oxygen ingress; new oak adds flavour compounds", "Softer tannins, oak aromas, more complex, developed style"],
-["Clay amphora", "Traditional porous vessel, often unlined", "Neutral flavour with gentle oxygen exchange and texture"]
-]}},
-{"h2": "Alcoholic fermentation in detail"},
-{"p": "Alcoholic fermentation is carried out by yeast, which converts sugar into ethanol and carbon dioxide, releasing heat and producing many flavour compounds such as esters. Saccharomyces cerevisiae is the yeast that completes fermentation because it tolerates high alcohol. Fermentation usually stops when all the sugar has been used, when the yeast is killed by rising alcohol, or when the winemaker intervenes."},
-{"h3": "Ambient yeast or cultured yeast?"},
-{"p": "Ambient (natural or indigenous) yeasts come from the vineyard and winery. A mix of species starts the fermentation before Saccharomyces takes over, which can add complexity, but results are less predictable and the risk of off-flavours or a slow fermentation is higher. Cultured yeasts are selected strains added by the winemaker; they start quickly, ferment reliably to dryness and can be chosen for particular aromas or alcohol tolerance, at the cost of some individuality."},
-{"h3": "Stuck fermentations"},
-{"p": "A stuck fermentation stops before the wine is dry, leaving it exposed to spoilage. Common causes are temperatures that are too high (yeast dies) or too low (yeast becomes inactive), very high sugar levels, lack of yeast nutrients such as nitrogen, and high alcohol. Winemakers prevent it by controlling temperature and adding nutrients; restarting a stuck fermentation is difficult."},
-{"h3": "Must adjustments"},
-{"p": "Where grapes are not perfectly balanced, winemakers may adjust the must, within limits set by local law. In cool climates, enrichment raises potential alcohol, by adding sugar (chaptalisation), rectified concentrated grape must, or by concentrating the must. In warm climates, acidification with tartaric acid corrects low acidity; deacidification is used in cool years with very high acidity. Many regions restrict how much can be added and do not allow enrichment and acidification of the same wine."},
-{"tip": "Exam technique: when a question mentions a cool region in a poor vintage, think enrichment and possibly deacidification; when it mentions a hot region, think acidification and harvesting earlier. Always say why: ripeness of the grapes drives the adjustment."},
-{"h2": "Malolactic conversion and maturation"},
-{"p": "Malolactic conversion is carried out by lactic acid bacteria, mainly Oenococcus oeni, which convert malic acid into lactic acid and carbon dioxide. Acidity becomes softer, the wine is more microbiologically stable, and buttery diacetyl may appear. Almost all red wines go through it; for whites it is a style choice. It can be encouraged by warmth and adding bacteria, or prevented with cool temperatures, sulfur dioxide or filtration."},
-{"h3": "Inert vessels versus oak"},
-{"p": "Maturation in inert vessels such as stainless steel or lined concrete keeps the wine fresh and fruity and is usually short. Maturation in oak does two things: it adds flavour if the oak is new or fairly new, and it allows slow oxygen exchange, which softens tannins, stabilises colour in reds and builds tertiary aromas. The smaller and newer the barrel, the stronger both effects."},
-{"table": {"head": ["Factor", "French oak", "American oak"], "rows": [
-["Species", "Quercus petraea and Quercus robur", "Quercus alba"],
-["Typical aromas", "Subtle spice, toast, cedar, finer tannin", "Stronger vanilla, coconut, sweet spice"],
-["Traditional use", "Bordeaux, Burgundy, many premium wines worldwide", "Traditional Rioja, many New World reds"]
-]}},
-{"p": "Toasting the inside of the barrel during coopering changes its flavour: light toast keeps more fresh wood character, heavier toast gives smoky, roasted and spicy notes. The standard Bordeaux barrique holds 225 litres; large casks and vats give very little oak flavour and slow oxidation. Oak alternatives such as staves or chips placed in a tank give oak flavour cheaply and quickly but without the gradual oxygen exchange of a barrel."},
-{"h3": "Bottle ageing"},
-{"p": "In bottle, the wine is in an almost oxygen-free environment. Over time primary fruit fades and tertiary aromas develop: dried fruit, mushroom, forest floor, honey or petrol depending on the wine. Only a small proportion of wines improve with long bottle ageing; most are made to be drunk young."},
-{"h2": "Blending, clarification, stabilisation and packaging"},
-{"p": "Blending combines batches of different grapes, vineyards, vessels or ages to achieve a consistent house style or a more complex, balanced wine. Before bottling, the wine is clarified and stabilised so that it stays clear and sound once it reaches the consumer."},
-{"ol": [
-"Sedimentation and racking: solids settle naturally and the clear wine is moved off them.",
-"Fining: an agent such as bentonite, egg white or gelatine binds with haze-forming particles or harsh tannins and drops out; animal-based agents matter for vegan labelling.",
-"Filtration: depth filtration removes larger particles; fine membrane filtration can remove yeast and bacteria for microbial stability.",
-"Tartrate stabilisation: chilling the wine to remove tartrate crystals before bottling.",
-"Protein stabilisation: bentonite fining to prevent haze, important for whites and rosés.",
-"Final sulfur dioxide adjustment and bottling with minimal oxygen pick-up."
-]},
-{"p": "Some premium producers choose minimal fining and filtration, believing it preserves texture and flavour, and accept a risk of deposits or instability."},
-{"h3": "Closures and common faults"},
-{"table": {"head": ["Closure", "Advantages", "Limitations"], "rows": [
-["Natural cork", "Traditional, allows tiny oxygen transfer, accepted for long ageing", "Risk of cork taint (TCA), variable between corks"],
-["Synthetic cork", "Cheap, no TCA", "Less suited to long ageing; can be hard to remove"],
-["Screwcap", "No TCA, consistent, keeps primary fruit fresh", "Very low oxygen can favour reductive aromas"],
-["Bag-in-box", "Cheap, light, wine keeps for weeks once opened", "Short shelf life before opening; for early drinking"]
-]}},
-{"p": "Key faults to recognise are cork taint (TCA: musty, damp cardboard, muted fruit), oxidation (loss of fruit, browning, bruised apple), reduction (rotten egg or struck match, caused by lack of oxygen), Brettanomyces (leather, farmyard, plaster) and volatile acidity (vinegar or nail varnish, from acetic acid bacteria)."},
-{"h2": "How to revise winemaking in 15 minutes a day"},
-{"ul": [
-"Draw one master flow chart from must to bottle and add the purpose of each step in five words or fewer.",
-"Learn the oak table and practise one sentence each on species, size, age and toast.",
-"Write the six clarification and stabilisation steps from memory, then check.",
-"Make flashcards of the five faults with cause and smell on each.",
-"Do a timed set of winemaking questions in the app and turn every mistake into a cause and effect sentence."
-]},
-{"tip": "Common mistake: confusing fining and filtration. Fining adds an agent that binds particles and settles out; filtration passes the wine through a medium that physically traps them. Both clarify, but only fine membrane filtration reliably removes microbes."}
-],
-"faq": [
-["What is the difference between ambient and cultured yeast for WSET 3?", "Ambient yeasts are naturally present in the vineyard and winery; a mix of species can give extra complexity but the fermentation is less predictable and riskier. Cultured yeasts are selected strains added by the winemaker; they start quickly, finish reliably and can be chosen for aroma or alcohol tolerance. Both rely on Saccharomyces cerevisiae to complete fermentation because it tolerates high alcohol."],
-["What is the difference between French and American oak for WSET Level 3?", "French oak comes mainly from Quercus petraea and Quercus robur and gives subtle spice, toast and cedar with fine tannins. American oak, Quercus alba, gives stronger vanilla and coconut aromas. Both are toasted during barrel making, and the level of toast, barrel size and age change their effect. Traditional Rioja is a classic example of American oak; many premium Bordeaux and Burgundy wines use French oak."],
-["What is the difference between fining and filtration for WSET 3?", "Fining adds an agent such as bentonite, egg white or gelatine that binds with haze-forming particles or harsh tannins and settles out, so the clear wine can be racked off. Filtration passes wine through a medium that physically traps particles; fine membrane filtration can remove yeast and bacteria. Both clarify the wine, but they work differently and are often used together."],
-["Why do some wines use screwcaps instead of corks for WSET Level 3?", "Screwcaps eliminate the risk of cork taint and give consistent results from bottle to bottle. They let very little oxygen in, which keeps primary fruit fresh, so they are popular for aromatic whites such as Riesling and Sauvignon Blanc. Their limitation is that very low oxygen can encourage reductive aromas. Natural cork remains traditional for many wines intended for long ageing."],
-["What causes a stuck fermentation for WSET 3?", "A stuck fermentation stops before all the sugar is converted. Common causes are temperatures too high, which kill yeast, or too low, which make it inactive; very high sugar levels; high alcohol; and a lack of nutrients such as nitrogen. The wine is then exposed to spoilage by bacteria and other yeasts. Winemakers prevent it with temperature control and nutrient additions, because restarting fermentation is difficult."]
-]
-},
-"it": {
-"sections": [
-{"h2": "Appunti di studio: vinificazione e affinamento per il WSET Livello 3"},
-{"p": "Le domande del WSET Livello 3 sulla vinificazione riguardano le tecniche comuni a tutti gli stili: controllo di ossigeno e temperatura, conduzione della fermentazione alcolica, correzioni del mosto, affinamento, poi chiarifica, stabilizzazione e confezionamento. Questi appunti danno i principi generali che stanno dietro alla vinificazione in bianco, in rosso, in rosato, degli spumanti e dei fortificati, spiegati come causa, effetto e stile, così da poterli applicare a qualsiasi vino all'esame."},
-{"h2": "Gli strumenti di chi fa vino: ossigeno, temperatura e igiene"},
-{"p": "L'ossigeno è la variabile più importante in cantina. La vinificazione protettiva, o riduttiva, lo tiene lontano con acciaio inox, gas inerti, vasche colme e anidride solforosa, preservando il frutto primario fresco. La vinificazione ossidativa permette volutamente un certo contatto con l'aria, per esempio in botte, che ammorbidisce i tannini, cambia il colore e sviluppa note terziarie come frutta secca, caramello o cuoio. Troppo ossigeno, o nel momento sbagliato, provoca difetti: perdita di frutto, imbrunimento e aromi di acetaldeide."},
-{"p": "Il controllo della temperatura permette di guidare velocità e aromi della fermentazione. L'igiene conta perché microrganismi alteranti come i batteri acetici e il lievito Brettanomyces proliferano in attrezzature sporche e nei vini poco solfitati o esposti all'aria. L'anidride solforosa si usa in tutte le fasi come antiossidante e antimicrobico, ma in eccesso spegne gli aromi ed è regolata per legge."},
-{"h3": "Contenitori di fermentazione e conservazione"},
-{"table": {"head": ["Contenitore", "Caratteristiche", "Effetto sullo stile"], "rows": [
-["Acciaio inox", "Inerte, ermetico, facile da pulire e da termoregolare", "Frutto primario puro; nessun aroma aggiunto"],
-["Cemento", "Termicamente stabile, vetrificato o grezzo, di molte forme", "Aroma neutro, un po' di struttura; leggero scambio d'ossigeno se grezzo"],
-["Rovere (barrique, grandi botti)", "Lento ingresso di ossigeno; il legno nuovo cede composti aromatici", "Tannini più morbidi, aromi di legno, stile più complesso ed evoluto"],
-["Anfora di terracotta", "Contenitore tradizionale poroso, spesso non rivestito", "Aroma neutro con lieve scambio d'ossigeno e più consistenza"]
-]}},
-{"h2": "La fermentazione alcolica nel dettaglio"},
-{"p": "La fermentazione alcolica è condotta dai lieviti, che trasformano lo zucchero in etanolo e anidride carbonica, liberando calore e producendo molti composti aromatici come gli esteri. Il Saccharomyces cerevisiae è il lievito che porta a termine la fermentazione perché tollera gradazioni alte. La fermentazione di solito si ferma quando lo zucchero è finito, quando l'alcol uccide i lieviti o quando interviene l'enologo."},
-{"h3": "Lieviti indigeni o selezionati?"},
-{"p": "I lieviti indigeni (spontanei) arrivano dalla vigna e dalla cantina. Un insieme di specie avvia la fermentazione prima che il Saccharomyces prenda il sopravvento, il che può aggiungere complessità, ma i risultati sono meno prevedibili e il rischio di difetti o di fermentazioni lente è più alto. I lieviti selezionati sono ceppi scelti e aggiunti dall'enologo: partono in fretta, portano il vino al secco in modo affidabile e si scelgono per aromi o tolleranza all'alcol, a scapito di un po' di personalità."},
-{"h3": "Arresti di fermentazione"},
-{"p": "Un arresto di fermentazione si verifica quando il vino si ferma prima di essere secco, restando esposto ad alterazioni. Le cause comuni sono temperature troppo alte (i lieviti muoiono) o troppo basse (i lieviti si bloccano), zuccheri molto elevati, carenza di nutrienti come l'azoto e alcol alto. Si previene controllando la temperatura e aggiungendo nutrienti; far ripartire una fermentazione bloccata è difficile."},
-{"h3": "Correzioni del mosto"},
-{"p": "Quando l'uva non è perfettamente equilibrata si può correggere il mosto, entro i limiti fissati dalla legge locale. Nei climi freschi l'arricchimento aumenta l'alcol potenziale, aggiungendo zucchero (zuccheraggio o chaptalisation), mosto concentrato rettificato o concentrando il mosto. Nei climi caldi l'acidificazione con acido tartarico corregge l'acidità bassa; la disacidificazione si usa nelle annate fresche con acidità molto alta. Molte zone limitano le quantità e non ammettono arricchimento e acidificazione sullo stesso vino."},
-{"tip": "Tecnica d'esame: se la domanda parla di una zona fresca in un'annata difficile, pensa ad arricchimento ed eventualmente disacidificazione; se parla di una zona calda, pensa ad acidificazione e vendemmia anticipata. Spiega sempre il perché: è la maturità dell'uva a guidare la correzione."},
-{"h2": "Fermentazione malolattica e affinamento"},
-{"p": "La fermentazione malolattica è svolta da batteri lattici, soprattutto Oenococcus oeni, che trasformano l'acido malico in acido lattico e anidride carbonica. L'acidità si ammorbidisce, il vino diventa più stabile dal punto di vista microbiologico e può comparire il diacetile, dal sentore burroso. Quasi tutti i rossi la svolgono; per i bianchi è una scelta di stile. La si favorisce con il calore e l'inoculo di batteri, o la si impedisce con basse temperature, anidride solforosa o filtrazione."},
-{"h3": "Contenitori inerti contro rovere"},
-{"p": "L'affinamento in contenitori inerti come acciaio o cemento vetrificato mantiene il vino fresco e fruttato ed è di solito breve. L'affinamento in rovere fa due cose: aggiunge aromi se il legno è nuovo o poco usato, e consente un lento scambio di ossigeno che ammorbidisce i tannini, stabilizza il colore dei rossi e sviluppa aromi terziari. Più la botte è piccola e nuova, più entrambi gli effetti sono marcati."},
-{"table": {"head": ["Fattore", "Rovere francese", "Rovere americano"], "rows": [
-["Specie", "Quercus petraea e Quercus robur", "Quercus alba"],
-["Aromi tipici", "Spezie delicate, tostatura, cedro, tannino più fine", "Vaniglia e cocco più marcati, spezie dolci"],
-["Uso tradizionale", "Bordeaux, Borgogna, molti vini di pregio nel mondo", "Rioja tradizionale, molti rossi del Nuovo Mondo"]
-]}},
-{"p": "La tostatura dell'interno della botte durante la costruzione ne cambia l'aroma: una tostatura leggera mantiene più carattere di legno fresco, una più forte dà note affumicate, torrefatte e speziate. La barrique bordolese standard contiene 225 litri; le grandi botti danno pochissimo aroma di legno e un'ossidazione lenta. Le alternative come doghe o chips immerse in vasca danno aroma di rovere in modo rapido ed economico, ma senza il graduale scambio d'ossigeno della botte."},
-{"h3": "Affinamento in bottiglia"},
-{"p": "In bottiglia il vino si trova in un ambiente quasi privo di ossigeno. Con il tempo il frutto primario si attenua e si sviluppano aromi terziari: frutta secca, fungo, sottobosco, miele o idrocarburi a seconda del vino. Solo una piccola parte dei vini migliora con un lungo affinamento in bottiglia; la maggior parte è fatta per essere bevuta giovane."},
-{"h2": "Assemblaggio, chiarifica, stabilizzazione e confezionamento"},
-{"p": "L'assemblaggio unisce lotti di uve, vigneti, contenitori o età diverse per ottenere uno stile della casa costante o un vino più complesso ed equilibrato. Prima dell'imbottigliamento il vino viene chiarificato e stabilizzato perché resti limpido e sano fino al consumatore."},
-{"ol": [
-"Sedimentazione e travaso: i solidi si depositano naturalmente e il vino limpido viene separato.",
-"Chiarifica: un coadiuvante come bentonite, albume o gelatina si lega alle particelle che intorbidano o ai tannini duri e precipita; i prodotti di origine animale contano per i vini vegani.",
-"Filtrazione: quella di profondità elimina le particelle più grandi; quella su membrana fine può eliminare lieviti e batteri per la stabilità microbiologica.",
-"Stabilizzazione tartarica: raffreddare il vino per eliminare i cristalli di tartrato prima dell'imbottigliamento.",
-"Stabilizzazione proteica: chiarifica con bentonite contro gli intorbidamenti, importante per bianchi e rosati.",
-"Correzione finale dell'anidride solforosa e imbottigliamento con il minimo apporto di ossigeno."
-]},
-{"p": "Alcuni produttori di pregio scelgono di chiarificare e filtrare il meno possibile, convinti che si preservino struttura e aromi, accettando il rischio di depositi o instabilità."},
-{"h3": "Chiusure e difetti più comuni"},
-{"table": {"head": ["Chiusura", "Vantaggi", "Limiti"], "rows": [
-["Sughero naturale", "Tradizionale, minimo passaggio di ossigeno, accettato per il lungo invecchiamento", "Rischio di sentore di tappo (TCA), variabilità tra tappi"],
-["Tappo sintetico", "Economico, niente TCA", "Meno adatto all'invecchiamento lungo; può essere difficile da estrarre"],
-["Tappo a vite", "Niente TCA, costante, conserva fresco il frutto primario", "L'ossigeno scarsissimo può favorire aromi di riduzione"],
-["Bag-in-box", "Economico, leggero, il vino dura settimane una volta aperto", "Durata breve prima dell'apertura; per consumo rapido"]
-]}},
-{"p": "I difetti principali da riconoscere sono il sentore di tappo (TCA: muffa, cartone bagnato, frutto spento), l'ossidazione (perdita di frutto, imbrunimento, mela ammaccata), la riduzione (uovo marcio o fiammifero, per mancanza di ossigeno), il Brettanomyces (cuoio, stalla, cerotto) e l'acidità volatile (aceto o smalto, dovuta ai batteri acetici)."},
-{"h2": "Come ripassare la vinificazione in 15 minuti al giorno"},
-{"ul": [
-"Disegna un unico schema dal mosto alla bottiglia e annota lo scopo di ogni fase in cinque parole al massimo.",
-"Impara la tabella del rovere e scrivi una frase su specie, dimensione, età e tostatura.",
-"Scrivi a memoria le sei fasi di chiarifica e stabilizzazione, poi controlla.",
-"Prepara flashcard dei cinque difetti con causa e odore.",
-"Fai una serie a tempo di domande sulla vinificazione nell'app e trasforma ogni errore in una frase causa-effetto."
-]},
-{"tip": "Errore frequente: confondere chiarifica e filtrazione. La chiarifica aggiunge un coadiuvante che lega le particelle e precipita; la filtrazione fa passare il vino attraverso un materiale che le trattiene fisicamente. Entrambe rendono il vino limpido, ma solo la filtrazione su membrana fine elimina in modo affidabile i microrganismi."}
-],
-"faq": [
-["Che differenza c'è tra lieviti indigeni e selezionati per il WSET 3?", "I lieviti indigeni sono presenti naturalmente in vigna e in cantina; un insieme di specie può dare più complessità, ma la fermentazione è meno prevedibile e più rischiosa. I lieviti selezionati sono ceppi scelti e aggiunti dall'enologo: partono in fretta, finiscono in modo affidabile e si scelgono per aromi o tolleranza all'alcol. In entrambi i casi è il Saccharomyces cerevisiae a completare la fermentazione, perché tollera l'alcol alto."],
-["Che differenza c'è tra rovere francese e americano per il WSET Livello 3?", "Il rovere francese proviene soprattutto da Quercus petraea e Quercus robur e dà spezie delicate, tostatura e cedro con tannini fini. Il rovere americano, Quercus alba, dà aromi più marcati di vaniglia e cocco. Entrambi vengono tostati durante la costruzione della botte, e tostatura, dimensione ed età ne modificano l'effetto. Il Rioja tradizionale è l'esempio classico di rovere americano; molti grandi Bordeaux e Borgogna usano rovere francese."],
-["Che differenza c'è tra chiarifica e filtrazione per il WSET 3?", "La chiarifica aggiunge un coadiuvante come bentonite, albume o gelatina che si lega alle particelle che intorbidano o ai tannini duri e precipita, così il vino limpido si può travasare. La filtrazione fa passare il vino attraverso un materiale che trattiene fisicamente le particelle; quella su membrana fine può eliminare lieviti e batteri. Entrambe chiarificano, ma funzionano in modo diverso e spesso si usano insieme."],
-["Perché alcuni vini usano il tappo a vite invece del sughero per il WSET Livello 3?", "Il tappo a vite elimina il rischio di sentore di tappo e dà risultati costanti da una bottiglia all'altra. Lascia entrare pochissimo ossigeno e mantiene fresco il frutto primario, perciò è diffuso per i bianchi aromatici come Riesling e Sauvignon Blanc. Il limite è che l'ossigeno scarsissimo può favorire aromi di riduzione. Il sughero naturale resta la chiusura tradizionale per molti vini da lungo invecchiamento."],
-["Che cosa causa un arresto di fermentazione per il WSET 3?", "Un arresto di fermentazione si ha quando la fermentazione si ferma prima di trasformare tutto lo zucchero. Le cause comuni sono temperature troppo alte, che uccidono i lieviti, o troppo basse, che li bloccano; zuccheri molto elevati; alcol alto; carenza di nutrienti come l'azoto. Il vino resta così esposto a batteri e altri lieviti. Si previene con il controllo della temperatura e l'aggiunta di nutrienti, perché farla ripartire è difficile."]
-]
-},
-"fr": {
-"sections": [
-{"h2": "Fiches de révision : vinification et élevage pour le WSET niveau 3"},
-{"p": "Les questions du WSET niveau 3 sur la vinification portent sur les techniques communes à tous les styles : maîtrise de l'oxygène et de la température, conduite de la fermentation alcoolique, corrections du moût, élevage, puis clarification, stabilisation et conditionnement. Ces fiches donnent les principes généraux qui sous-tendent la vinification en blanc, en rouge, en rosé, des effervescents et des vins mutés, expliqués en cause, effet et style pour que vous puissiez les appliquer à n'importe quel vin le jour de l'examen."},
-{"h2": "La boîte à outils du chai : oxygène, température et hygiène"},
-{"p": "L'oxygène est la variable la plus importante au chai. La vinification protectrice, ou réductrice, le tient à l'écart grâce à l'inox, aux gaz inertes, aux cuves pleines et au dioxyde de soufre, ce qui préserve le fruit primaire frais. La vinification oxydative autorise volontairement un certain contact avec l'air, par exemple en fût, ce qui assouplit les tanins, fait évoluer la couleur et développe des notes tertiaires de fruits secs, de caramel ou de cuir. Trop d'oxygène, ou au mauvais moment, provoque des défauts : perte de fruit, brunissement et arômes d'éthanal."},
-{"p": "La maîtrise des températures permet d'orienter la vitesse et les arômes de la fermentation. L'hygiène compte car les micro-organismes d'altération, comme les bactéries acétiques et la levure Brettanomyces, prolifèrent dans le matériel sale et dans les vins peu sulfités ou exposés à l'air. Le dioxyde de soufre s'emploie à toutes les étapes comme antioxydant et antimicrobien, mais en excès il éteint les arômes et sa dose est réglementée."},
-{"h3": "Contenants de fermentation et de stockage"},
-{"table": {"head": ["Contenant", "Caractéristiques", "Effet sur le style"], "rows": [
-["Inox", "Inerte, étanche, facile à nettoyer et à thermoréguler", "Fruit primaire pur ; aucun arôme ajouté"],
-["Béton", "Inertie thermique, revêtu ou brut, formes variées", "Arôme neutre, un peu de texture ; légers échanges d'oxygène s'il est brut"],
-["Chêne (barriques, foudres)", "Entrée lente d'oxygène ; le bois neuf cède des composés aromatiques", "Tanins assouplis, arômes boisés, style plus complexe et évolué"],
-["Amphore en terre cuite", "Contenant traditionnel poreux, souvent non revêtu", "Arôme neutre, échanges d'oxygène doux et texture"]
-]}},
-{"h2": "La fermentation alcoolique en détail"},
-{"p": "La fermentation alcoolique est réalisée par les levures, qui transforment le sucre en éthanol et en dioxyde de carbone, en dégageant de la chaleur et de nombreux composés aromatiques comme les esters. Saccharomyces cerevisiae est la levure qui mène la fermentation à son terme car elle tolère des degrés élevés. La fermentation s'arrête en général quand tout le sucre est consommé, quand l'alcool tue les levures ou quand le vinificateur intervient."},
-{"h3": "Levures indigènes ou levures sélectionnées ?"},
-{"p": "Les levures indigènes proviennent de la vigne et du chai. Un ensemble d'espèces démarre la fermentation avant que Saccharomyces ne prenne le relais, ce qui peut apporter de la complexité, mais le résultat est moins prévisible et le risque de déviations ou de fermentation lente plus élevé. Les levures sélectionnées sont des souches choisies et ajoutées par le vinificateur : elles démarrent vite, fermentent à sec de façon fiable et se choisissent pour leurs arômes ou leur tolérance à l'alcool, au prix d'un peu de singularité."},
-{"h3": "Arrêts de fermentation"},
-{"p": "Un arrêt de fermentation survient quand le vin s'arrête avant d'être sec, ce qui l'expose aux altérations. Les causes fréquentes sont une température trop élevée (les levures meurent) ou trop basse (elles deviennent inactives), une teneur en sucre très forte, un manque de nutriments comme l'azote et un degré alcoolique élevé. On le prévient en maîtrisant la température et en ajoutant des nutriments ; relancer une fermentation arrêtée est difficile."},
-{"h3": "Corrections du moût"},
-{"p": "Quand le raisin n'est pas parfaitement équilibré, on peut corriger le moût dans les limites fixées par la réglementation locale. En climat frais, l'enrichissement augmente l'alcool potentiel, par ajout de sucre (chaptalisation), de moût concentré rectifié ou par concentration du moût. En climat chaud, l'acidification à l'acide tartrique corrige une acidité faible ; la désacidification sert les années fraîches à l'acidité très élevée. Beaucoup de régions limitent les quantités et interdisent d'enrichir et d'acidifier un même vin."},
-{"tip": "Technique d'examen : si la question évoque une région fraîche dans un millésime difficile, pensez enrichissement et éventuellement désacidification ; si elle évoque une région chaude, pensez acidification et vendange plus précoce. Dites toujours pourquoi : c'est la maturité du raisin qui commande la correction."},
-{"h2": "Fermentation malolactique et élevage"},
-{"p": "La fermentation malolactique est réalisée par des bactéries lactiques, surtout Oenococcus oeni, qui transforment l'acide malique en acide lactique et en dioxyde de carbone. L'acidité s'assouplit, le vin devient plus stable sur le plan microbiologique et du diacétyle aux notes beurrées peut apparaître. Presque tous les rouges la font ; pour les blancs, c'est un choix de style. On la favorise par la chaleur et l'ensemencement en bactéries, ou on l'empêche par le froid, le dioxyde de soufre ou la filtration."},
-{"h3": "Contenants inertes ou chêne"},
-{"p": "L'élevage en contenant inerte, inox ou béton revêtu, garde le vin frais et fruité et dure en général peu de temps. L'élevage sous bois fait deux choses : il apporte des arômes si le fût est neuf ou peu utilisé, et il permet une lente oxygénation qui assouplit les tanins, stabilise la couleur des rouges et développe des arômes tertiaires. Plus le fût est petit et neuf, plus ces deux effets sont marqués."},
-{"table": {"head": ["Critère", "Chêne français", "Chêne américain"], "rows": [
-["Espèce", "Quercus petraea et Quercus robur", "Quercus alba"],
-["Arômes typiques", "Épices discrètes, grillé, cèdre, tanin plus fin", "Vanille et noix de coco plus marquées, épices douces"],
-["Usage traditionnel", "Bordeaux, Bourgogne, nombreux grands vins dans le monde", "Rioja traditionnel, nombreux rouges du Nouveau Monde"]
-]}},
-{"p": "La chauffe de l'intérieur du fût pendant la tonnellerie modifie ses arômes : une chauffe légère garde un caractère de bois frais, une chauffe forte donne des notes fumées, torréfiées et épicées. La barrique bordelaise standard contient 225 litres ; les foudres apportent très peu de boisé et une oxydation lente. Les alternatives comme les douelles ou les copeaux plongés en cuve donnent un goût boisé rapidement et à bas coût, mais sans l'oxygénation progressive du fût."},
-{"h3": "Vieillissement en bouteille"},
-{"p": "En bouteille, le vin évolue dans un milieu presque sans oxygène. Avec le temps, le fruit primaire s'estompe et des arômes tertiaires apparaissent : fruits secs, champignon, sous-bois, miel ou hydrocarbures selon le vin. Seule une petite partie des vins gagne à vieillir longtemps en bouteille ; la plupart sont faits pour être bus jeunes."},
-{"h2": "Assemblage, clarification, stabilisation et conditionnement"},
-{"p": "L'assemblage réunit des lots de cépages, de parcelles, de contenants ou d'âges différents pour obtenir un style maison régulier ou un vin plus complexe et équilibré. Avant la mise en bouteille, le vin est clarifié et stabilisé pour rester limpide et sain jusqu'au consommateur."},
-{"ol": [
-"Sédimentation et soutirage : les particules se déposent naturellement et l'on sépare le vin clair.",
-"Collage : un agent comme la bentonite, le blanc d'œuf ou la gélatine se lie aux particules responsables de troubles ou aux tanins durs et se dépose ; les colles d'origine animale comptent pour les vins véganes.",
-"Filtration : la filtration en profondeur retire les grosses particules ; la filtration sur membrane fine peut éliminer levures et bactéries pour la stabilité microbiologique.",
-"Stabilisation tartrique : refroidir le vin pour éliminer les cristaux de tartre avant la mise en bouteille.",
-"Stabilisation protéique : collage à la bentonite contre la casse protéique, important pour les blancs et les rosés.",
-"Ajustement final du dioxyde de soufre et mise en bouteille avec un minimum d'oxygène."
-]},
-{"p": "Certains producteurs haut de gamme collent et filtrent le moins possible, convaincus de préserver texture et arômes, et acceptent un risque de dépôt ou d'instabilité."},
-{"h3": "Bouchages et défauts courants"},
-{"table": {"head": ["Bouchage", "Avantages", "Limites"], "rows": [
-["Liège naturel", "Traditionnel, infime passage d'oxygène, reconnu pour la longue garde", "Risque de goût de bouchon (TCA), variabilité d'un bouchon à l'autre"],
-["Bouchon synthétique", "Bon marché, pas de TCA", "Moins adapté à la longue garde ; parfois difficile à retirer"],
-["Capsule à vis", "Pas de TCA, régulière, garde le fruit primaire frais", "Très peu d'oxygène, ce qui peut favoriser des arômes de réduction"],
-["Bag-in-box (BIB)", "Bon marché, léger, le vin se garde des semaines après ouverture", "Durée de vie courte avant ouverture ; pour une consommation rapide"]
-]}},
-{"p": "Les principaux défauts à reconnaître sont le goût de bouchon (TCA : moisi, carton humide, fruit éteint), l'oxydation (perte de fruit, brunissement, pomme blette), la réduction (œuf pourri ou allumette, par manque d'oxygène), les Brettanomyces (cuir, écurie, sparadrap) et l'acidité volatile (vinaigre ou vernis à ongles, due aux bactéries acétiques)."},
-{"h2": "Comment réviser la vinification en 15 minutes par jour"},
-{"ul": [
-"Dessinez un schéma unique du moût à la bouteille et notez le but de chaque étape en cinq mots maximum.",
-"Apprenez le tableau du chêne et rédigez une phrase sur l'espèce, la taille, l'âge et la chauffe.",
-"Écrivez de mémoire les six étapes de clarification et de stabilisation, puis vérifiez.",
-"Faites des cartes mémoire des cinq défauts avec cause et odeur.",
-"Faites une série chronométrée de questions sur la vinification dans l'appli et transformez chaque erreur en phrase cause-effet."
-]},
-{"tip": "Erreur fréquente : confondre collage et filtration. Le collage ajoute un agent qui se lie aux particules et se dépose ; la filtration fait passer le vin à travers un support qui les retient physiquement. Les deux clarifient, mais seule la filtration sur membrane fine élimine de façon fiable les micro-organismes."}
-],
-"faq": [
-["Quelle différence entre levures indigènes et sélectionnées au WSET 3 ?", "Les levures indigènes sont naturellement présentes à la vigne et au chai ; un ensemble d'espèces peut apporter de la complexité, mais la fermentation est moins prévisible et plus risquée. Les levures sélectionnées sont des souches choisies et ajoutées par le vinificateur : elles démarrent vite, terminent de façon fiable et se choisissent pour leurs arômes ou leur tolérance à l'alcool. Dans les deux cas, c'est Saccharomyces cerevisiae qui achève la fermentation."],
-["Quelle différence entre chêne français et chêne américain au WSET niveau 3 ?", "Le chêne français provient surtout de Quercus petraea et Quercus robur et donne des épices discrètes, du grillé et du cèdre avec des tanins fins. Le chêne américain, Quercus alba, donne des arômes plus marqués de vanille et de noix de coco. Les deux sont chauffés en tonnellerie, et la chauffe, la taille et l'âge du fût modifient leur effet. Le rioja traditionnel est l'exemple classique du chêne américain ; beaucoup de grands bordeaux et bourgognes utilisent du chêne français."],
-["Quelle différence entre collage et filtration au WSET 3 ?", "Le collage ajoute un agent comme la bentonite, le blanc d'œuf ou la gélatine, qui se lie aux particules responsables de troubles ou aux tanins durs et se dépose, si bien que l'on peut soutirer le vin clair. La filtration fait passer le vin à travers un support qui retient physiquement les particules ; sur membrane fine, elle peut éliminer levures et bactéries. Les deux clarifient, mais différemment, et sont souvent associés."],
-["Pourquoi certains vins sont-ils bouchés à vis plutôt qu'au liège au WSET niveau 3 ?", "La capsule à vis supprime le risque de goût de bouchon et donne des résultats réguliers d'une bouteille à l'autre. Elle laisse entrer très peu d'oxygène et garde le fruit primaire frais, d'où son succès pour les blancs aromatiques comme le riesling et le sauvignon blanc. Sa limite : ce très faible apport d'oxygène peut favoriser des arômes de réduction. Le liège naturel reste le bouchage traditionnel de nombreux vins de garde."],
-["Qu'est-ce qui provoque un arrêt de fermentation au WSET 3 ?", "Un arrêt de fermentation se produit quand la fermentation s'interrompt avant d'avoir transformé tout le sucre. Les causes fréquentes sont une température trop élevée, qui tue les levures, ou trop basse, qui les rend inactives ; une teneur en sucre très élevée ; un degré alcoolique élevé ; un manque de nutriments comme l'azote. Le vin est alors exposé aux bactéries et autres levures. On le prévient par la maîtrise des températures et l'ajout de nutriments."]
-]
-},
-"es": {
-"sections": [
-{"h2": "Apuntes de estudio: vinificación y crianza para el WSET nivel 3"},
-{"p": "Las preguntas del WSET nivel 3 sobre vinificación tratan las técnicas comunes a todos los estilos: control del oxígeno y la temperatura, conducción de la fermentación alcohólica, correcciones del mosto, crianza y, por último, clarificación, estabilización y envasado. Estos apuntes reúnen los principios generales que hay detrás de la elaboración de blancos, tintos, rosados, espumosos y generosos, explicados como causa, efecto y estilo para que puedas aplicarlos a cualquier vino en el examen."},
-{"h2": "Las herramientas de la bodega: oxígeno, temperatura e higiene"},
-{"p": "El oxígeno es la variable más importante en bodega. La elaboración protectora, o reductiva, lo mantiene a distancia con acero inoxidable, gases inertes, depósitos llenos y dióxido de azufre, y así conserva la fruta primaria fresca. La elaboración oxidativa permite a propósito cierto contacto con el aire, por ejemplo en barrica, lo que suaviza los taninos, hace evolucionar el color y desarrolla notas terciarias de frutos secos, tofe o cuero. Demasiado oxígeno, o en el momento equivocado, causa defectos: pérdida de fruta, pardeamiento y aromas de acetaldehído."},
-{"p": "El control de temperatura permite dirigir la velocidad y los aromas de la fermentación. La higiene importa porque los microorganismos alterantes, como las bacterias acéticas y la levadura Brettanomyces, proliferan en equipos sucios y en vinos con poco sulfuroso o expuestos al aire. El dióxido de azufre se usa en todas las fases como antioxidante y antimicrobiano, pero en exceso apaga los aromas y su dosis está regulada por ley."},
-{"h3": "Recipientes de fermentación y almacenamiento"},
-{"table": {"head": ["Recipiente", "Características", "Efecto en el estilo"], "rows": [
-["Acero inoxidable", "Inerte, hermético, fácil de limpiar y de controlar la temperatura", "Fruta primaria pura; no añade aromas"],
-["Hormigón", "Estable térmicamente, revestido o sin revestir, de muchas formas", "Aroma neutro, algo de textura; leve intercambio de oxígeno si no está revestido"],
-["Roble (barricas, tinos grandes)", "Entrada lenta de oxígeno; la madera nueva cede compuestos aromáticos", "Taninos más suaves, aromas de madera, estilo más complejo y evolucionado"],
-["Tinaja o ánfora de barro", "Recipiente tradicional poroso, a menudo sin revestir", "Aroma neutro con un intercambio suave de oxígeno y textura"]
-]}},
-{"h2": "La fermentación alcohólica en detalle"},
-{"p": "La fermentación alcohólica la llevan a cabo las levaduras, que transforman el azúcar en etanol y dióxido de carbono, desprendiendo calor y generando muchos compuestos aromáticos como los ésteres. Saccharomyces cerevisiae es la levadura que termina la fermentación porque tolera graduaciones altas. La fermentación suele detenerse cuando se acaba el azúcar, cuando el alcohol mata a las levaduras o cuando interviene quien elabora."},
-{"h3": "¿Levaduras autóctonas o seleccionadas?"},
-{"p": "Las levaduras autóctonas (salvajes o indígenas) proceden del viñedo y de la bodega. Una mezcla de especies inicia la fermentación antes de que Saccharomyces tome el relevo, lo que puede aportar complejidad, pero el resultado es menos previsible y hay más riesgo de defectos o de fermentaciones lentas. Las levaduras seleccionadas son cepas escogidas y añadidas por quien elabora: arrancan rápido, fermentan hasta seco de forma fiable y se eligen por sus aromas o su tolerancia al alcohol, a costa de algo de personalidad."},
-{"h3": "Paradas de fermentación"},
-{"p": "Una parada de fermentación ocurre cuando el vino se detiene antes de quedar seco, lo que lo deja expuesto a alteraciones. Las causas habituales son temperaturas demasiado altas (las levaduras mueren) o demasiado bajas (se inactivan), niveles de azúcar muy altos, falta de nutrientes como el nitrógeno y alcohol elevado. Se previene controlando la temperatura y añadiendo nutrientes; reactivar una fermentación parada es difícil."},
-{"h3": "Correcciones del mosto"},
-{"p": "Cuando la uva no está perfectamente equilibrada, se puede corregir el mosto dentro de los límites que fija la normativa local. En climas frescos, el enriquecimiento sube el alcohol potencial añadiendo azúcar (chaptalización), mosto concentrado rectificado o concentrando el mosto. En climas cálidos, la acidificación con ácido tartárico corrige la acidez baja; la desacidificación se usa en añadas frescas con acidez muy alta. Muchas regiones limitan las cantidades y no permiten enriquecer y acidificar un mismo vino."},
-{"tip": "Técnica de examen: si la pregunta habla de una región fresca en una añada difícil, piensa en enriquecimiento y quizá desacidificación; si habla de una región cálida, piensa en acidificación y en vendimiar antes. Explica siempre el porqué: la madurez de la uva es lo que manda la corrección."},
-{"h2": "Fermentación maloláctica y crianza"},
-{"p": "La fermentación maloláctica la realizan bacterias lácticas, sobre todo Oenococcus oeni, que convierten el ácido málico en ácido láctico y dióxido de carbono. La acidez se suaviza, el vino gana estabilidad microbiológica y puede aparecer diacetilo, con notas mantecosas. Casi todos los tintos la hacen; en los blancos es una decisión de estilo. Se favorece con calor y añadiendo bacterias, o se impide con temperaturas bajas, dióxido de azufre o filtración."},
-{"h3": "Recipientes inertes frente a roble"},
-{"p": "La crianza en recipientes inertes como acero u hormigón revestido mantiene el vino fresco y afrutado y suele ser corta. La crianza en roble hace dos cosas: aporta aromas si la madera es nueva o poco usada, y permite un intercambio lento de oxígeno que suaviza los taninos, estabiliza el color de los tintos y desarrolla aromas terciarios. Cuanto más pequeña y nueva es la barrica, más intensos son ambos efectos."},
-{"table": {"head": ["Factor", "Roble francés", "Roble americano"], "rows": [
-["Especie", "Quercus petraea y Quercus robur", "Quercus alba"],
-["Aromas típicos", "Especias sutiles, tostados, cedro, tanino más fino", "Vainilla y coco más marcados, especias dulces"],
-["Uso tradicional", "Burdeos, Borgoña, muchos grandes vinos del mundo", "Rioja tradicional, muchos tintos del Nuevo Mundo"]
-]}},
-{"p": "El tostado del interior de la barrica durante su fabricación cambia sus aromas: un tostado ligero conserva más carácter de madera fresca, uno intenso da notas ahumadas, torrefactas y especiadas. La barrica bordelesa estándar tiene 225 litros; los tinos y fudres grandes aportan muy poca madera y una oxidación lenta. Las alternativas como duelas o virutas sumergidas en el depósito dan sabor a roble rápido y barato, pero sin el intercambio gradual de oxígeno de una barrica."},
-{"h3": "Crianza en botella"},
-{"p": "En la botella, el vino está en un medio casi sin oxígeno. Con el tiempo la fruta primaria se apaga y aparecen aromas terciarios: fruta seca, champiñón, sotobosque, miel o hidrocarburos según el vino. Solo una pequeña parte de los vinos mejora con una larga crianza en botella; la mayoría se elabora para beberse joven."},
-{"h2": "Ensamblaje, clarificación, estabilización y envasado"},
-{"p": "El ensamblaje combina lotes de distintas variedades, viñedos, recipientes o edades para lograr un estilo de la casa constante o un vino más complejo y equilibrado. Antes del embotellado, el vino se clarifica y estabiliza para que llegue limpio y sano al consumidor."},
-{"ol": [
-"Sedimentación y trasiego: los sólidos se depositan de forma natural y se separa el vino limpio.",
-"Clarificación (encolado): un agente como la bentonita, la clara de huevo o la gelatina se une a las partículas que enturbian o a los taninos duros y se deposita; los de origen animal importan para los vinos veganos.",
-"Filtración: la filtración en profundidad retira las partículas grandes; la de membrana fina puede eliminar levaduras y bacterias para la estabilidad microbiológica.",
-"Estabilización tartárica: enfriar el vino para eliminar los cristales de tartrato antes de embotellar.",
-"Estabilización proteica: encolado con bentonita contra la turbidez, importante en blancos y rosados.",
-"Ajuste final del sulfuroso y embotellado con la mínima entrada de oxígeno."
-]},
-{"p": "Algunas bodegas de gama alta clarifican y filtran lo mínimo, convencidas de que así conservan textura y aromas, y aceptan el riesgo de posos o inestabilidad."},
-{"h3": "Cierres y defectos frecuentes"},
-{"table": {"head": ["Cierre", "Ventajas", "Limitaciones"], "rows": [
-["Corcho natural", "Tradicional, mínimo paso de oxígeno, aceptado para crianzas largas", "Riesgo de olor a corcho (TCA), variabilidad entre tapones"],
-["Tapón sintético", "Barato, sin TCA", "Menos adecuado para guardas largas; a veces cuesta sacarlo"],
-["Tapón de rosca", "Sin TCA, constante, mantiene fresca la fruta primaria", "El oxígeno muy escaso puede favorecer aromas de reducción"],
-["Bag-in-box", "Barato, ligero, el vino aguanta semanas una vez abierto", "Vida corta antes de abrir; para consumo rápido"]
-]}},
-{"p": "Los defectos principales que hay que reconocer son el olor a corcho (TCA: moho, cartón mojado, fruta apagada), la oxidación (pérdida de fruta, pardeamiento, manzana golpeada), la reducción (huevo podrido o cerilla, por falta de oxígeno), Brettanomyces (cuero, cuadra, esparadrapo) y la acidez volátil (vinagre o quitaesmalte, por bacterias acéticas)."},
-{"h2": "Cómo repasar la vinificación en 15 minutos al día"},
-{"ul": [
-"Dibuja un único esquema del mosto a la botella y anota el objetivo de cada paso en cinco palabras como máximo.",
-"Aprende la tabla del roble y escribe una frase sobre especie, tamaño, edad y tostado.",
-"Escribe de memoria los seis pasos de clarificación y estabilización y después compruébalos.",
-"Haz tarjetas de los cinco defectos con su causa y su olor.",
-"Haz una serie cronometrada de preguntas de vinificación en la app y convierte cada fallo en una frase de causa y efecto."
-]},
-{"tip": "Error frecuente: confundir clarificación y filtración. La clarificación añade un agente que se une a las partículas y se deposita; la filtración hace pasar el vino por un material que las retiene físicamente. Las dos dejan el vino limpio, pero solo la filtración por membrana fina elimina de forma fiable los microorganismos."}
-],
-"faq": [
-["¿Qué diferencia hay entre levaduras autóctonas y seleccionadas en el WSET 3?", "Las levaduras autóctonas están presentes de forma natural en el viñedo y la bodega; una mezcla de especies puede aportar complejidad, pero la fermentación es menos previsible y más arriesgada. Las seleccionadas son cepas escogidas y añadidas por quien elabora: arrancan rápido, terminan de forma fiable y se eligen por aromas o tolerancia al alcohol. En ambos casos es Saccharomyces cerevisiae quien completa la fermentación."],
-["¿Qué diferencia hay entre roble francés y americano en el WSET nivel 3?", "El roble francés procede sobre todo de Quercus petraea y Quercus robur y aporta especias sutiles, tostados y cedro con taninos finos. El roble americano, Quercus alba, da aromas más marcados de vainilla y coco. Ambos se tuestan al fabricar la barrica, y el tostado, el tamaño y la edad modifican su efecto. El Rioja tradicional es el ejemplo clásico de roble americano; muchos grandes Burdeos y Borgoñas usan roble francés."],
-["¿Qué diferencia hay entre clarificación y filtración en el WSET 3?", "La clarificación añade un agente como bentonita, clara de huevo o gelatina que se une a las partículas que enturbian o a los taninos duros y se deposita, de modo que se puede trasegar el vino limpio. La filtración hace pasar el vino por un material que retiene físicamente las partículas; con membrana fina puede eliminar levaduras y bacterias. Ambas limpian el vino, pero funcionan de forma distinta y a menudo se combinan."],
-["¿Por qué algunos vinos usan tapón de rosca en lugar de corcho en el WSET nivel 3?", "El tapón de rosca elimina el riesgo de olor a corcho y da resultados constantes de una botella a otra. Deja entrar muy poco oxígeno y mantiene fresca la fruta primaria, por eso es habitual en blancos aromáticos como Riesling y Sauvignon Blanc. Su limitación es que ese oxígeno tan escaso puede favorecer aromas de reducción. El corcho natural sigue siendo el cierre tradicional de muchos vinos de guarda."],
-["¿Qué provoca una parada de fermentación en el WSET 3?", "Una parada de fermentación se produce cuando la fermentación se detiene antes de transformar todo el azúcar. Las causas habituales son temperaturas demasiado altas, que matan a las levaduras, o demasiado bajas, que las inactivan; niveles de azúcar muy altos; alcohol elevado; y falta de nutrientes como el nitrógeno. El vino queda expuesto a bacterias y otras levaduras. Se previene controlando la temperatura y añadiendo nutrientes."]
-]
-}
+ "en": {
+  "sections": [
+   {
+    "h2": "Study notes: winemaking and maturation for WSET Level 3"
+   },
+   {
+    "p": "WSET Level 3 winemaking questions cover the techniques shared by every wine style: controlling oxygen and temperature, running the alcoholic fermentation, adjusting the must, maturing the wine, then clarifying, stabilising and packaging it. These study notes give you the general principles that sit behind the white, red, rosé, sparkling and fortified processes, explained as cause, effect and style so you can apply them to any wine in the exam."
+   },
+   {
+    "h2": "The winemaker's toolkit: oxygen, temperature and hygiene"
+   },
+   {
+    "p": "Oxygen is the winemaker's most important variable. Protective (reductive) winemaking keeps oxygen away with stainless steel, inert gases, full containers and sulfur dioxide, preserving fresh primary fruit. Oxidative winemaking deliberately allows some oxygen contact, for example in barrels, which softens tannins, changes colour and builds tertiary notes such as nut, toffee or leather. Too much oxygen, or oxygen at the wrong time, causes faults: loss of fruit, browning and acetaldehyde aromas."
+   },
+   {
+    "p": "Temperature control lets the winemaker steer fermentation speed and aroma. Hygiene matters because spoilage microbes such as acetic acid bacteria and Brettanomyces yeast thrive in dirty equipment and in wines with low sulfur dioxide or exposed to air. Sulfur dioxide is used throughout the process as an antioxidant and antimicrobial, but too much can mute aromas and is regulated by law."
+   },
+   {
+    "h3": "Fermentation and storage vessels"
+   },
+   {
+    "table": {
+     "head": [
+      "Vessel",
+      "Main features",
+      "Effect on style"
+     ],
+     "rows": [
+      [
+       "Stainless steel",
+       "Inert, airtight, easy to clean and temperature-control",
+       "Pure primary fruit; no added flavour"
+      ],
+      [
+       "Concrete",
+       "Thermally stable, lined or unlined, available in many shapes",
+       "Neutral flavour, some texture; slight oxygen exchange if unlined"
+      ],
+      [
+       "Oak (barrels, large vats)",
+       "Allows slow oxygen ingress; new oak adds flavour compounds",
+       "Softer tannins, oak aromas, more complex, developed style"
+      ],
+      [
+       "Clay amphora",
+       "Traditional porous vessel, often unlined",
+       "Neutral flavour with gentle oxygen exchange and texture"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Alcoholic fermentation in detail"
+   },
+   {
+    "p": "Alcoholic fermentation is carried out by yeast, which converts sugar into ethanol and carbon dioxide, releasing heat and producing many flavour compounds such as esters. Saccharomyces cerevisiae is the yeast that completes fermentation because it tolerates high alcohol. Fermentation usually stops when all the sugar has been used, when the yeast is killed by rising alcohol, or when the winemaker intervenes."
+   },
+   {
+    "h3": "Ambient yeast or cultured yeast?"
+   },
+   {
+    "p": "Ambient (natural or indigenous) yeasts come from the vineyard and winery. A mix of species starts the fermentation before Saccharomyces takes over, which can add complexity, but results are less predictable and the risk of off-flavours or a slow fermentation is higher. Cultured yeasts are selected strains added by the winemaker; they start quickly, ferment reliably to dryness and can be chosen for particular aromas or alcohol tolerance, at the cost of some individuality."
+   },
+   {
+    "h3": "Stuck fermentations"
+   },
+   {
+    "p": "A stuck fermentation stops before the wine is dry, leaving it exposed to spoilage. Common causes are temperatures that are too high (yeast dies) or too low (yeast becomes inactive), very high sugar levels, lack of yeast nutrients such as nitrogen, and high alcohol. Winemakers prevent it by controlling temperature and adding nutrients; restarting a stuck fermentation is difficult."
+   },
+   {
+    "h3": "Must adjustments"
+   },
+   {
+    "p": "Where grapes are not perfectly balanced, winemakers may adjust the must, within limits set by local law. In cool climates, enrichment raises potential alcohol, by adding sugar (chaptalisation), rectified concentrated grape must, or by concentrating the must. In warm climates, acidification with tartaric acid corrects low acidity; deacidification is used in cool years with very high acidity. Many regions restrict how much can be added and do not allow enrichment and acidification of the same wine."
+   },
+   {
+    "tip": "Exam technique: when a question mentions a cool region in a poor vintage, think enrichment and possibly deacidification; when it mentions a hot region, think acidification and harvesting earlier. Always say why: ripeness of the grapes drives the adjustment."
+   },
+   {
+    "h2": "Malolactic conversion and maturation"
+   },
+   {
+    "p": "Malolactic conversion is carried out by lactic acid bacteria, mainly Oenococcus oeni, which convert malic acid into lactic acid and carbon dioxide. Acidity becomes softer, the wine is more microbiologically stable, and buttery diacetyl may appear. Almost all red wines go through it; for whites it is a style choice. It can be encouraged by warmth and adding bacteria, or prevented with cool temperatures, sulfur dioxide or filtration."
+   },
+   {
+    "h3": "Inert vessels versus oak"
+   },
+   {
+    "p": "Maturation in inert vessels such as stainless steel or lined concrete keeps the wine fresh and fruity and is usually short. Maturation in oak does two things: it adds flavour if the oak is new or fairly new, and it allows slow oxygen exchange, which softens tannins, stabilises colour in reds and builds tertiary aromas. The smaller and newer the barrel, the stronger both effects."
+   },
+   {
+    "table": {
+     "head": [
+      "Factor",
+      "French oak",
+      "American oak"
+     ],
+     "rows": [
+      [
+       "Species",
+       "Quercus petraea and Quercus robur",
+       "Quercus alba"
+      ],
+      [
+       "Typical aromas",
+       "Subtle spice, toast, cedar, finer tannin",
+       "Stronger vanilla, coconut, sweet spice"
+      ],
+      [
+       "Traditional use",
+       "Bordeaux, Burgundy, many premium wines worldwide",
+       "Traditional Rioja, many New World reds"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Toasting the inside of the barrel during coopering changes its flavour: light toast keeps more fresh wood character, heavier toast gives smoky, roasted and spicy notes. The standard Bordeaux barrique holds 225 litres; large casks and vats give very little oak flavour and slow oxidation. Oak alternatives such as staves or chips placed in a tank give oak flavour cheaply and quickly but without the gradual oxygen exchange of a barrel."
+   },
+   {
+    "h3": "Bottle ageing"
+   },
+   {
+    "p": "In bottle, the wine is in an almost oxygen-free environment. Over time primary fruit fades and tertiary aromas develop: dried fruit, mushroom, forest floor, honey or petrol depending on the wine. Only a small proportion of wines improve with long bottle ageing; most are made to be drunk young."
+   },
+   {
+    "h2": "Blending, clarification, stabilisation and packaging"
+   },
+   {
+    "p": "Blending combines batches of different grapes, vineyards, vessels or ages to achieve a consistent house style or a more complex, balanced wine. Before bottling, the wine is clarified and stabilised so that it stays clear and sound once it reaches the consumer."
+   },
+   {
+    "ol": [
+     "Sedimentation and racking: solids settle naturally and the clear wine is moved off them.",
+     "Fining: an agent such as bentonite, egg white or gelatine binds with haze-forming particles or harsh tannins and drops out; animal-based agents matter for vegan labelling.",
+     "Filtration: depth filtration removes larger particles; fine membrane filtration can remove yeast and bacteria for microbial stability.",
+     "Tartrate stabilisation: chilling the wine to remove tartrate crystals before bottling.",
+     "Protein stabilisation: bentonite fining to prevent haze, important for whites and rosés.",
+     "Final sulfur dioxide adjustment and bottling with minimal oxygen pick-up."
+    ]
+   },
+   {
+    "p": "Some premium producers choose minimal fining and filtration, believing it preserves texture and flavour, and accept a risk of deposits or instability."
+   },
+   {
+    "h3": "Closures and common faults"
+   },
+   {
+    "table": {
+     "head": [
+      "Closure",
+      "Advantages",
+      "Limitations"
+     ],
+     "rows": [
+      [
+       "Natural cork",
+       "Traditional, allows tiny oxygen transfer, accepted for long ageing",
+       "Risk of cork taint (TCA), variable between corks"
+      ],
+      [
+       "Synthetic cork",
+       "Cheap, no TCA",
+       "Less suited to long ageing; can be hard to remove"
+      ],
+      [
+       "Screwcap",
+       "No TCA, consistent, keeps primary fruit fresh",
+       "Very low oxygen can favour reductive aromas"
+      ],
+      [
+       "Bag-in-box",
+       "Cheap, light, wine keeps for weeks once opened",
+       "Short shelf life before opening; for early drinking"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Key faults to recognise are cork taint (TCA: musty, damp cardboard, muted fruit), oxidation (loss of fruit, browning, bruised apple), reduction (rotten egg or struck match, caused by lack of oxygen), Brettanomyces (leather, farmyard, plaster) and volatile acidity (vinegar or nail varnish, from acetic acid bacteria)."
+   },
+   {
+    "h2": "How to revise winemaking in 15 minutes a day"
+   },
+   {
+    "ul": [
+     "Draw one master flow chart from must to bottle and add the purpose of each step in five words or fewer.",
+     "Learn the oak table and practise one sentence each on species, size, age and toast.",
+     "Write the six clarification and stabilisation steps from memory, then check.",
+     "Make flashcards of the five faults with cause and smell on each.",
+     "Do a timed set of winemaking questions in the app and turn every mistake into a cause and effect sentence."
+    ]
+   },
+   {
+    "tip": "Common mistake: confusing fining and filtration. Fining adds an agent that binds particles and settles out; filtration passes the wine through a medium that physically traps them. Both clarify, but only fine membrane filtration reliably removes microbes."
+   },
+   {
+    "h2": "Sulfur dioxide: why almost every wine contains some"
+   },
+   {
+    "p": "Sulfur dioxide (SO2) is the winemaker's main safety net. It acts as an antioxidant, protecting juice and wine from browning and loss of fresh aromas, and as an antimicrobial, slowing the growth of spoilage yeasts and bacteria. It can be added at several points: on the grapes at reception, to the juice before fermentation, after fermentation and before bottling. Fermentation itself also produces a small amount. Too much SO2 can mute aromas and give a burnt-match smell, and legal limits apply, so winemakers aim for the lowest effective dose. Wines with residual sugar generally need more protection than dry wines, because sugar is food for microbes. Producers who use little or no added SO2 must work with very healthy fruit and strict hygiene, and accept a higher risk of faults."
+   },
+   {
+    "h2": "Volume or premium: the same steps, different goals"
+   },
+   {
+    "table": {
+     "head": [
+      "Step",
+      "Inexpensive, high-volume wine",
+      "Premium, age-worthy wine"
+     ],
+     "rows": [
+      [
+       "Harvest",
+       "Machine harvesting at high yields, timed for efficiency",
+       "Hand harvesting, sorting tables, low yields, timed for full ripeness"
+      ],
+      [
+       "Fermentation",
+       "Cultured yeast, temperature control for a clean, predictable result",
+       "Sometimes ambient yeast, small batches handled separately"
+      ],
+      [
+       "Maturation",
+       "Short, in inert vessels; oak alternatives such as chips or staves for oak flavour",
+       "Months or years in barrel, a share of new oak, then bottle ageing before release"
+      ],
+      [
+       "Blending",
+       "To keep the same style every year from many sources",
+       "To build complexity and balance from separate plots and barrels"
+      ],
+      [
+       "Clarification and stabilisation",
+       "Thorough fining and filtration so the wine is bright and stable on shelves",
+       "Sometimes minimal, accepting a deposit in exchange for texture"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Neither column is good or bad: each is the right answer to a different question. Exam questions often ask why a technique suits one wine and not another, so always connect the technique to the target style and to the cost of producing it."
+   },
+   {
+    "h2": "Sample questions with answers"
+   },
+   {
+    "p": "Question: why might a winemaker choose cultured yeast for a large-volume wine? Answer: cultured yeast gives a quick, reliable fermentation with predictable flavours and a low risk of stuck fermentation or off-flavours. For a wine that must taste the same every year and be produced at low cost, that reliability matters more than the extra complexity ambient yeast might add."
+   },
+   {
+    "p": "Question: a premium red is bottled without filtration. What are the benefit and the risk? Answer: the producer believes that avoiding filtration preserves texture and flavour. The risk is a deposit in the bottle and, if the wine is not microbiologically stable, possible spoilage, so the winery must be confident in its hygiene and in the stability of the wine."
+   },
+   {
+    "tip": "Common mistakes: saying that oak alternatives give the same result as barrels (they give flavour but not the slow oxygen exchange of a barrel), forgetting that SO2 has two roles, and describing a technique without saying which style or price level it suits."
+   }
+  ],
+  "faq": [
+   [
+    "What is the difference between ambient and cultured yeast for WSET 3?",
+    "Ambient yeasts are naturally present in the vineyard and winery; a mix of species can give extra complexity but the fermentation is less predictable and riskier. Cultured yeasts are selected strains added by the winemaker; they start quickly, finish reliably and can be chosen for aroma or alcohol tolerance. Both rely on Saccharomyces cerevisiae to complete fermentation because it tolerates high alcohol."
+   ],
+   [
+    "What is the difference between French and American oak for WSET Level 3?",
+    "French oak comes mainly from Quercus petraea and Quercus robur and gives subtle spice, toast and cedar with fine tannins. American oak, Quercus alba, gives stronger vanilla and coconut aromas. Both are toasted during barrel making, and the level of toast, barrel size and age change their effect. Traditional Rioja is a classic example of American oak; many premium Bordeaux and Burgundy wines use French oak."
+   ],
+   [
+    "What is the difference between fining and filtration for WSET 3?",
+    "Fining adds an agent such as bentonite, egg white or gelatine that binds with haze-forming particles or harsh tannins and settles out, so the clear wine can be racked off. Filtration passes wine through a medium that physically traps particles; fine membrane filtration can remove yeast and bacteria. Both clarify the wine, but they work differently and are often used together."
+   ],
+   [
+    "Why do some wines use screwcaps instead of corks for WSET Level 3?",
+    "Screwcaps eliminate the risk of cork taint and give consistent results from bottle to bottle. They let very little oxygen in, which keeps primary fruit fresh, so they are popular for aromatic whites such as Riesling and Sauvignon Blanc. Their limitation is that very low oxygen can encourage reductive aromas. Natural cork remains traditional for many wines intended for long ageing."
+   ],
+   [
+    "What causes a stuck fermentation for WSET 3?",
+    "A stuck fermentation stops before all the sugar is converted. Common causes are temperatures too high, which kill yeast, or too low, which make it inactive; very high sugar levels; high alcohol; and a lack of nutrients such as nitrogen. The wine is then exposed to spoilage by bacteria and other yeasts. Winemakers prevent it with temperature control and nutrient additions, because restarting fermentation is difficult."
+   ],
+   [
+    "Why is sulfur dioxide added to wine for WSET 3?",
+    "Sulfur dioxide has two roles. As an antioxidant it protects the juice and wine from browning and loss of fresh aromas; as an antimicrobial it inhibits spoilage yeasts and bacteria. It can be added at harvest, before and after fermentation and at bottling. Too much can mute aromas, and legal limits apply, so winemakers use the lowest dose that keeps the wine stable."
+   ],
+   [
+    "What are oak alternatives and why are they used?",
+    "Oak alternatives are chips, staves or powder added to wine in tanks to give oak flavours such as vanilla and toast. They are far cheaper and quicker than barrels, which suits inexpensive wines. However, they do not reproduce the slow oxygen exchange that takes place through the wood of a barrel, so they add flavour without the same softening and complexity."
+   ],
+   [
+    "What is the difference between winemaking for volume and for premium wine?",
+    "Volume wines aim for a consistent, clean style at low cost: machine harvesting, cultured yeast, short maturation in inert vessels, oak alternatives and thorough filtration. Premium wines aim for concentration, complexity and ageing potential: low yields, hand harvesting, separate handling of small batches, longer maturation in barrel and often minimal fining and filtration. Each set of choices fits its own style and price."
+   ],
+   [
+    "Why do some wines need bottle ageing before release?",
+    "Some wines, especially those with high tannin, high acidity and concentrated fruit, are harsh when young. Time in bottle lets the tannins soften, the components integrate and tertiary aromas develop. Some regions and quality levels require minimum ageing before release, and some producers hold wines back so that customers receive them closer to their best drinking window."
+   ]
+  ]
+ },
+ "it": {
+  "sections": [
+   {
+    "h2": "Appunti di studio: vinificazione e affinamento per il WSET Livello 3"
+   },
+   {
+    "p": "Le domande del WSET Livello 3 sulla vinificazione riguardano le tecniche comuni a tutti gli stili: controllo di ossigeno e temperatura, conduzione della fermentazione alcolica, correzioni del mosto, affinamento, poi chiarifica, stabilizzazione e confezionamento. Questi appunti danno i principi generali che stanno dietro alla vinificazione in bianco, in rosso, in rosato, degli spumanti e dei fortificati, spiegati come causa, effetto e stile, così da poterli applicare a qualsiasi vino all'esame."
+   },
+   {
+    "h2": "Gli strumenti di chi fa vino: ossigeno, temperatura e igiene"
+   },
+   {
+    "p": "L'ossigeno è la variabile più importante in cantina. La vinificazione protettiva, o riduttiva, lo tiene lontano con acciaio inox, gas inerti, vasche colme e anidride solforosa, preservando il frutto primario fresco. La vinificazione ossidativa permette volutamente un certo contatto con l'aria, per esempio in botte, che ammorbidisce i tannini, cambia il colore e sviluppa note terziarie come frutta secca, caramello o cuoio. Troppo ossigeno, o nel momento sbagliato, provoca difetti: perdita di frutto, imbrunimento e aromi di acetaldeide."
+   },
+   {
+    "p": "Il controllo della temperatura permette di guidare velocità e aromi della fermentazione. L'igiene conta perché microrganismi alteranti come i batteri acetici e il lievito Brettanomyces proliferano in attrezzature sporche e nei vini poco solfitati o esposti all'aria. L'anidride solforosa si usa in tutte le fasi come antiossidante e antimicrobico, ma in eccesso spegne gli aromi ed è regolata per legge."
+   },
+   {
+    "h3": "Contenitori di fermentazione e conservazione"
+   },
+   {
+    "table": {
+     "head": [
+      "Contenitore",
+      "Caratteristiche",
+      "Effetto sullo stile"
+     ],
+     "rows": [
+      [
+       "Acciaio inox",
+       "Inerte, ermetico, facile da pulire e da termoregolare",
+       "Frutto primario puro; nessun aroma aggiunto"
+      ],
+      [
+       "Cemento",
+       "Termicamente stabile, vetrificato o grezzo, di molte forme",
+       "Aroma neutro, un po' di struttura; leggero scambio d'ossigeno se grezzo"
+      ],
+      [
+       "Rovere (barrique, grandi botti)",
+       "Lento ingresso di ossigeno; il legno nuovo cede composti aromatici",
+       "Tannini più morbidi, aromi di legno, stile più complesso ed evoluto"
+      ],
+      [
+       "Anfora di terracotta",
+       "Contenitore tradizionale poroso, spesso non rivestito",
+       "Aroma neutro con lieve scambio d'ossigeno e più consistenza"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "La fermentazione alcolica nel dettaglio"
+   },
+   {
+    "p": "La fermentazione alcolica è condotta dai lieviti, che trasformano lo zucchero in etanolo e anidride carbonica, liberando calore e producendo molti composti aromatici come gli esteri. Il Saccharomyces cerevisiae è il lievito che porta a termine la fermentazione perché tollera gradazioni alte. La fermentazione di solito si ferma quando lo zucchero è finito, quando l'alcol uccide i lieviti o quando interviene l'enologo."
+   },
+   {
+    "h3": "Lieviti indigeni o selezionati?"
+   },
+   {
+    "p": "I lieviti indigeni (spontanei) arrivano dalla vigna e dalla cantina. Un insieme di specie avvia la fermentazione prima che il Saccharomyces prenda il sopravvento, il che può aggiungere complessità, ma i risultati sono meno prevedibili e il rischio di difetti o di fermentazioni lente è più alto. I lieviti selezionati sono ceppi scelti e aggiunti dall'enologo: partono in fretta, portano il vino al secco in modo affidabile e si scelgono per aromi o tolleranza all'alcol, a scapito di un po' di personalità."
+   },
+   {
+    "h3": "Arresti di fermentazione"
+   },
+   {
+    "p": "Un arresto di fermentazione si verifica quando il vino si ferma prima di essere secco, restando esposto ad alterazioni. Le cause comuni sono temperature troppo alte (i lieviti muoiono) o troppo basse (i lieviti si bloccano), zuccheri molto elevati, carenza di nutrienti come l'azoto e alcol alto. Si previene controllando la temperatura e aggiungendo nutrienti; far ripartire una fermentazione bloccata è difficile."
+   },
+   {
+    "h3": "Correzioni del mosto"
+   },
+   {
+    "p": "Quando l'uva non è perfettamente equilibrata si può correggere il mosto, entro i limiti fissati dalla legge locale. Nei climi freschi l'arricchimento aumenta l'alcol potenziale, aggiungendo zucchero (zuccheraggio o chaptalisation), mosto concentrato rettificato o concentrando il mosto. Nei climi caldi l'acidificazione con acido tartarico corregge l'acidità bassa; la disacidificazione si usa nelle annate fresche con acidità molto alta. Molte zone limitano le quantità e non ammettono arricchimento e acidificazione sullo stesso vino."
+   },
+   {
+    "tip": "Tecnica d'esame: se la domanda parla di una zona fresca in un'annata difficile, pensa ad arricchimento ed eventualmente disacidificazione; se parla di una zona calda, pensa ad acidificazione e vendemmia anticipata. Spiega sempre il perché: è la maturità dell'uva a guidare la correzione."
+   },
+   {
+    "h2": "Fermentazione malolattica e affinamento"
+   },
+   {
+    "p": "La fermentazione malolattica è svolta da batteri lattici, soprattutto Oenococcus oeni, che trasformano l'acido malico in acido lattico e anidride carbonica. L'acidità si ammorbidisce, il vino diventa più stabile dal punto di vista microbiologico e può comparire il diacetile, dal sentore burroso. Quasi tutti i rossi la svolgono; per i bianchi è una scelta di stile. La si favorisce con il calore e l'inoculo di batteri, o la si impedisce con basse temperature, anidride solforosa o filtrazione."
+   },
+   {
+    "h3": "Contenitori inerti contro rovere"
+   },
+   {
+    "p": "L'affinamento in contenitori inerti come acciaio o cemento vetrificato mantiene il vino fresco e fruttato ed è di solito breve. L'affinamento in rovere fa due cose: aggiunge aromi se il legno è nuovo o poco usato, e consente un lento scambio di ossigeno che ammorbidisce i tannini, stabilizza il colore dei rossi e sviluppa aromi terziari. Più la botte è piccola e nuova, più entrambi gli effetti sono marcati."
+   },
+   {
+    "table": {
+     "head": [
+      "Fattore",
+      "Rovere francese",
+      "Rovere americano"
+     ],
+     "rows": [
+      [
+       "Specie",
+       "Quercus petraea e Quercus robur",
+       "Quercus alba"
+      ],
+      [
+       "Aromi tipici",
+       "Spezie delicate, tostatura, cedro, tannino più fine",
+       "Vaniglia e cocco più marcati, spezie dolci"
+      ],
+      [
+       "Uso tradizionale",
+       "Bordeaux, Borgogna, molti vini di pregio nel mondo",
+       "Rioja tradizionale, molti rossi del Nuovo Mondo"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "La tostatura dell'interno della botte durante la costruzione ne cambia l'aroma: una tostatura leggera mantiene più carattere di legno fresco, una più forte dà note affumicate, torrefatte e speziate. La barrique bordolese standard contiene 225 litri; le grandi botti danno pochissimo aroma di legno e un'ossidazione lenta. Le alternative come doghe o chips immerse in vasca danno aroma di rovere in modo rapido ed economico, ma senza il graduale scambio d'ossigeno della botte."
+   },
+   {
+    "h3": "Affinamento in bottiglia"
+   },
+   {
+    "p": "In bottiglia il vino si trova in un ambiente quasi privo di ossigeno. Con il tempo il frutto primario si attenua e si sviluppano aromi terziari: frutta secca, fungo, sottobosco, miele o idrocarburi a seconda del vino. Solo una piccola parte dei vini migliora con un lungo affinamento in bottiglia; la maggior parte è fatta per essere bevuta giovane."
+   },
+   {
+    "h2": "Assemblaggio, chiarifica, stabilizzazione e confezionamento"
+   },
+   {
+    "p": "L'assemblaggio unisce lotti di uve, vigneti, contenitori o età diverse per ottenere uno stile della casa costante o un vino più complesso ed equilibrato. Prima dell'imbottigliamento il vino viene chiarificato e stabilizzato perché resti limpido e sano fino al consumatore."
+   },
+   {
+    "ol": [
+     "Sedimentazione e travaso: i solidi si depositano naturalmente e il vino limpido viene separato.",
+     "Chiarifica: un coadiuvante come bentonite, albume o gelatina si lega alle particelle che intorbidano o ai tannini duri e precipita; i prodotti di origine animale contano per i vini vegani.",
+     "Filtrazione: quella di profondità elimina le particelle più grandi; quella su membrana fine può eliminare lieviti e batteri per la stabilità microbiologica.",
+     "Stabilizzazione tartarica: raffreddare il vino per eliminare i cristalli di tartrato prima dell'imbottigliamento.",
+     "Stabilizzazione proteica: chiarifica con bentonite contro gli intorbidamenti, importante per bianchi e rosati.",
+     "Correzione finale dell'anidride solforosa e imbottigliamento con il minimo apporto di ossigeno."
+    ]
+   },
+   {
+    "p": "Alcuni produttori di pregio scelgono di chiarificare e filtrare il meno possibile, convinti che si preservino struttura e aromi, accettando il rischio di depositi o instabilità."
+   },
+   {
+    "h3": "Chiusure e difetti più comuni"
+   },
+   {
+    "table": {
+     "head": [
+      "Chiusura",
+      "Vantaggi",
+      "Limiti"
+     ],
+     "rows": [
+      [
+       "Sughero naturale",
+       "Tradizionale, minimo passaggio di ossigeno, accettato per il lungo invecchiamento",
+       "Rischio di sentore di tappo (TCA), variabilità tra tappi"
+      ],
+      [
+       "Tappo sintetico",
+       "Economico, niente TCA",
+       "Meno adatto all'invecchiamento lungo; può essere difficile da estrarre"
+      ],
+      [
+       "Tappo a vite",
+       "Niente TCA, costante, conserva fresco il frutto primario",
+       "L'ossigeno scarsissimo può favorire aromi di riduzione"
+      ],
+      [
+       "Bag-in-box",
+       "Economico, leggero, il vino dura settimane una volta aperto",
+       "Durata breve prima dell'apertura; per consumo rapido"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "I difetti principali da riconoscere sono il sentore di tappo (TCA: muffa, cartone bagnato, frutto spento), l'ossidazione (perdita di frutto, imbrunimento, mela ammaccata), la riduzione (uovo marcio o fiammifero, per mancanza di ossigeno), il Brettanomyces (cuoio, stalla, cerotto) e l'acidità volatile (aceto o smalto, dovuta ai batteri acetici)."
+   },
+   {
+    "h2": "Come ripassare la vinificazione in 15 minuti al giorno"
+   },
+   {
+    "ul": [
+     "Disegna un unico schema dal mosto alla bottiglia e annota lo scopo di ogni fase in cinque parole al massimo.",
+     "Impara la tabella del rovere e scrivi una frase su specie, dimensione, età e tostatura.",
+     "Scrivi a memoria le sei fasi di chiarifica e stabilizzazione, poi controlla.",
+     "Prepara flashcard dei cinque difetti con causa e odore.",
+     "Fai una serie a tempo di domande sulla vinificazione nell'app e trasforma ogni errore in una frase causa-effetto."
+    ]
+   },
+   {
+    "tip": "Errore frequente: confondere chiarifica e filtrazione. La chiarifica aggiunge un coadiuvante che lega le particelle e precipita; la filtrazione fa passare il vino attraverso un materiale che le trattiene fisicamente. Entrambe rendono il vino limpido, ma solo la filtrazione su membrana fine elimina in modo affidabile i microrganismi."
+   },
+   {
+    "h2": "Anidride solforosa: perché quasi ogni vino ne contiene"
+   },
+   {
+    "p": "L'anidride solforosa (SO2) è la principale rete di sicurezza del produttore. Agisce come antiossidante, proteggendo mosto e vino dall'imbrunimento e dalla perdita degli aromi freschi, e come antimicrobico, rallentando lo sviluppo di lieviti e batteri dannosi. Si può aggiungere in più momenti: sulle uve al ricevimento, al mosto prima della fermentazione, dopo la fermentazione e prima dell'imbottigliamento. Anche la fermentazione ne produce una piccola quantità. Troppa SO2 può spegnere gli aromi e dare un odore di fiammifero bruciato, e ci sono limiti di legge, quindi si cerca la dose efficace più bassa. I vini con zucchero residuo in genere richiedono più protezione dei vini secchi, perché lo zucchero nutre i microbi. Chi usa poca o nessuna SO2 aggiunta deve lavorare con uve sanissime e un'igiene rigorosa, accettando un rischio più alto di difetti."
+   },
+   {
+    "h2": "Volume o alta gamma: stesse fasi, obiettivi diversi"
+   },
+   {
+    "table": {
+     "head": [
+      "Fase",
+      "Vino economico ad alto volume",
+      "Vino di alta gamma da invecchiamento"
+     ],
+     "rows": [
+      [
+       "Vendemmia",
+       "Vendemmia meccanica con rese alte, programmata per l'efficienza",
+       "Vendemmia manuale, tavoli di cernita, rese basse, programmata per la piena maturità"
+      ],
+      [
+       "Fermentazione",
+       "Lieviti selezionati, controllo della temperatura per un risultato pulito e prevedibile",
+       "A volte lieviti indigeni, piccoli lotti vinificati separatamente"
+      ],
+      [
+       "Affinamento",
+       "Breve, in contenitori inerti; alternative al legno come chips o doghe per il sapore di legno",
+       "Mesi o anni in botte, una quota di legno nuovo, poi affinamento in bottiglia prima dell'uscita"
+      ],
+      [
+       "Assemblaggio",
+       "Per mantenere lo stesso stile ogni anno partendo da molte fonti",
+       "Per costruire complessità ed equilibrio da parcelle e botti separate"
+      ],
+      [
+       "Chiarifica e stabilizzazione",
+       "Chiarifica e filtrazione accurate perché il vino sia brillante e stabile sugli scaffali",
+       "A volte minime, accettando un deposito in cambio di consistenza"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Nessuna delle due colonne è giusta o sbagliata: ciascuna risponde a una domanda diversa. Le domande d'esame chiedono spesso perché una tecnica si addice a un vino e non a un altro, quindi collega sempre la tecnica allo stile cercato e al costo di produzione."
+   },
+   {
+    "h2": "Domande di esempio con risposta"
+   },
+   {
+    "p": "Domanda: perché un produttore potrebbe scegliere lieviti selezionati per un vino ad alto volume? Risposta: i lieviti selezionati danno una fermentazione rapida e affidabile, con sapori prevedibili e un basso rischio di arresto di fermentazione o di odori sgradevoli. Per un vino che deve avere lo stesso gusto ogni anno ed essere prodotto a basso costo, questa affidabilità conta più della complessità in più che potrebbero dare i lieviti indigeni."
+   },
+   {
+    "p": "Domanda: un rosso di alta gamma viene imbottigliato senza filtrazione. Quali sono il vantaggio e il rischio? Risposta: il produttore ritiene che evitare la filtrazione preservi consistenza e sapore. Il rischio è un deposito in bottiglia e, se il vino non è microbiologicamente stabile, un possibile deterioramento, quindi la cantina deve essere sicura della propria igiene e della stabilità del vino."
+   },
+   {
+    "tip": "Errori frequenti: dire che le alternative al legno danno lo stesso risultato delle botti (danno sapore ma non il lento scambio di ossigeno della botte), dimenticare che la SO2 ha due ruoli, e descrivere una tecnica senza dire a quale stile o fascia di prezzo si adatta."
+   }
+  ],
+  "faq": [
+   [
+    "Che differenza c'è tra lieviti indigeni e selezionati per il WSET 3?",
+    "I lieviti indigeni sono presenti naturalmente in vigna e in cantina; un insieme di specie può dare più complessità, ma la fermentazione è meno prevedibile e più rischiosa. I lieviti selezionati sono ceppi scelti e aggiunti dall'enologo: partono in fretta, finiscono in modo affidabile e si scelgono per aromi o tolleranza all'alcol. In entrambi i casi è il Saccharomyces cerevisiae a completare la fermentazione, perché tollera l'alcol alto."
+   ],
+   [
+    "Che differenza c'è tra rovere francese e americano per il WSET Livello 3?",
+    "Il rovere francese proviene soprattutto da Quercus petraea e Quercus robur e dà spezie delicate, tostatura e cedro con tannini fini. Il rovere americano, Quercus alba, dà aromi più marcati di vaniglia e cocco. Entrambi vengono tostati durante la costruzione della botte, e tostatura, dimensione ed età ne modificano l'effetto. Il Rioja tradizionale è l'esempio classico di rovere americano; molti grandi Bordeaux e Borgogna usano rovere francese."
+   ],
+   [
+    "Che differenza c'è tra chiarifica e filtrazione per il WSET 3?",
+    "La chiarifica aggiunge un coadiuvante come bentonite, albume o gelatina che si lega alle particelle che intorbidano o ai tannini duri e precipita, così il vino limpido si può travasare. La filtrazione fa passare il vino attraverso un materiale che trattiene fisicamente le particelle; quella su membrana fine può eliminare lieviti e batteri. Entrambe chiarificano, ma funzionano in modo diverso e spesso si usano insieme."
+   ],
+   [
+    "Perché alcuni vini usano il tappo a vite invece del sughero per il WSET Livello 3?",
+    "Il tappo a vite elimina il rischio di sentore di tappo e dà risultati costanti da una bottiglia all'altra. Lascia entrare pochissimo ossigeno e mantiene fresco il frutto primario, perciò è diffuso per i bianchi aromatici come Riesling e Sauvignon Blanc. Il limite è che l'ossigeno scarsissimo può favorire aromi di riduzione. Il sughero naturale resta la chiusura tradizionale per molti vini da lungo invecchiamento."
+   ],
+   [
+    "Che cosa causa un arresto di fermentazione per il WSET 3?",
+    "Un arresto di fermentazione si ha quando la fermentazione si ferma prima di trasformare tutto lo zucchero. Le cause comuni sono temperature troppo alte, che uccidono i lieviti, o troppo basse, che li bloccano; zuccheri molto elevati; alcol alto; carenza di nutrienti come l'azoto. Il vino resta così esposto a batteri e altri lieviti. Si previene con il controllo della temperatura e l'aggiunta di nutrienti, perché farla ripartire è difficile."
+   ],
+   [
+    "Perché si aggiunge anidride solforosa al vino per il WSET 3?",
+    "L'anidride solforosa ha due ruoli. Come antiossidante protegge mosto e vino dall'imbrunimento e dalla perdita degli aromi freschi; come antimicrobico inibisce lieviti e batteri dannosi. Si può aggiungere alla vendemmia, prima e dopo la fermentazione e all'imbottigliamento. Troppa può spegnere gli aromi e ci sono limiti di legge, quindi i produttori usano la dose più bassa che mantiene il vino stabile."
+   ],
+   [
+    "Che cosa sono le alternative al legno e perché si usano?",
+    "Le alternative al legno sono chips, doghe o polvere di rovere aggiunte al vino in vasca per dare sapori di legno come vaniglia e tostato. Sono molto più economiche e rapide delle botti, il che si adatta ai vini di fascia bassa. Tuttavia non riproducono il lento scambio di ossigeno che avviene attraverso il legno della botte, quindi aggiungono sapore senza lo stesso ammorbidimento e la stessa complessità."
+   ],
+   [
+    "Che differenza c'è tra vinificare per il volume e per l'alta gamma?",
+    "I vini di volume puntano a uno stile costante e pulito a basso costo: vendemmia meccanica, lieviti selezionati, breve affinamento in contenitori inerti, alternative al legno e filtrazione accurata. I vini di alta gamma puntano a concentrazione, complessità e potenziale di invecchiamento: rese basse, vendemmia manuale, piccoli lotti separati, affinamento più lungo in botte e spesso chiarifica e filtrazione minime. Ogni insieme di scelte si adatta al proprio stile e prezzo."
+   ],
+   [
+    "Perché alcuni vini richiedono affinamento in bottiglia prima dell'uscita?",
+    "Alcuni vini, soprattutto quelli con tannino alto, acidità alta e frutto concentrato, da giovani sono duri. Il tempo in bottiglia permette ai tannini di ammorbidirsi, alle componenti di integrarsi e agli aromi terziari di svilupparsi. Alcune regioni e categorie di qualità impongono un invecchiamento minimo prima della vendita, e alcuni produttori trattengono i vini perché arrivino ai clienti più vicini al loro momento migliore."
+   ]
+  ]
+ },
+ "fr": {
+  "sections": [
+   {
+    "h2": "Fiches de révision : vinification et élevage pour le WSET niveau 3"
+   },
+   {
+    "p": "Les questions du WSET niveau 3 sur la vinification portent sur les techniques communes à tous les styles : maîtrise de l'oxygène et de la température, conduite de la fermentation alcoolique, corrections du moût, élevage, puis clarification, stabilisation et conditionnement. Ces fiches donnent les principes généraux qui sous-tendent la vinification en blanc, en rouge, en rosé, des effervescents et des vins mutés, expliqués en cause, effet et style pour que vous puissiez les appliquer à n'importe quel vin le jour de l'examen."
+   },
+   {
+    "h2": "La boîte à outils du chai : oxygène, température et hygiène"
+   },
+   {
+    "p": "L'oxygène est la variable la plus importante au chai. La vinification protectrice, ou réductrice, le tient à l'écart grâce à l'inox, aux gaz inertes, aux cuves pleines et au dioxyde de soufre, ce qui préserve le fruit primaire frais. La vinification oxydative autorise volontairement un certain contact avec l'air, par exemple en fût, ce qui assouplit les tanins, fait évoluer la couleur et développe des notes tertiaires de fruits secs, de caramel ou de cuir. Trop d'oxygène, ou au mauvais moment, provoque des défauts : perte de fruit, brunissement et arômes d'éthanal."
+   },
+   {
+    "p": "La maîtrise des températures permet d'orienter la vitesse et les arômes de la fermentation. L'hygiène compte car les micro-organismes d'altération, comme les bactéries acétiques et la levure Brettanomyces, prolifèrent dans le matériel sale et dans les vins peu sulfités ou exposés à l'air. Le dioxyde de soufre s'emploie à toutes les étapes comme antioxydant et antimicrobien, mais en excès il éteint les arômes et sa dose est réglementée."
+   },
+   {
+    "h3": "Contenants de fermentation et de stockage"
+   },
+   {
+    "table": {
+     "head": [
+      "Contenant",
+      "Caractéristiques",
+      "Effet sur le style"
+     ],
+     "rows": [
+      [
+       "Inox",
+       "Inerte, étanche, facile à nettoyer et à thermoréguler",
+       "Fruit primaire pur ; aucun arôme ajouté"
+      ],
+      [
+       "Béton",
+       "Inertie thermique, revêtu ou brut, formes variées",
+       "Arôme neutre, un peu de texture ; légers échanges d'oxygène s'il est brut"
+      ],
+      [
+       "Chêne (barriques, foudres)",
+       "Entrée lente d'oxygène ; le bois neuf cède des composés aromatiques",
+       "Tanins assouplis, arômes boisés, style plus complexe et évolué"
+      ],
+      [
+       "Amphore en terre cuite",
+       "Contenant traditionnel poreux, souvent non revêtu",
+       "Arôme neutre, échanges d'oxygène doux et texture"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "La fermentation alcoolique en détail"
+   },
+   {
+    "p": "La fermentation alcoolique est réalisée par les levures, qui transforment le sucre en éthanol et en dioxyde de carbone, en dégageant de la chaleur et de nombreux composés aromatiques comme les esters. Saccharomyces cerevisiae est la levure qui mène la fermentation à son terme car elle tolère des degrés élevés. La fermentation s'arrête en général quand tout le sucre est consommé, quand l'alcool tue les levures ou quand le vinificateur intervient."
+   },
+   {
+    "h3": "Levures indigènes ou levures sélectionnées ?"
+   },
+   {
+    "p": "Les levures indigènes proviennent de la vigne et du chai. Un ensemble d'espèces démarre la fermentation avant que Saccharomyces ne prenne le relais, ce qui peut apporter de la complexité, mais le résultat est moins prévisible et le risque de déviations ou de fermentation lente plus élevé. Les levures sélectionnées sont des souches choisies et ajoutées par le vinificateur : elles démarrent vite, fermentent à sec de façon fiable et se choisissent pour leurs arômes ou leur tolérance à l'alcool, au prix d'un peu de singularité."
+   },
+   {
+    "h3": "Arrêts de fermentation"
+   },
+   {
+    "p": "Un arrêt de fermentation survient quand le vin s'arrête avant d'être sec, ce qui l'expose aux altérations. Les causes fréquentes sont une température trop élevée (les levures meurent) ou trop basse (elles deviennent inactives), une teneur en sucre très forte, un manque de nutriments comme l'azote et un degré alcoolique élevé. On le prévient en maîtrisant la température et en ajoutant des nutriments ; relancer une fermentation arrêtée est difficile."
+   },
+   {
+    "h3": "Corrections du moût"
+   },
+   {
+    "p": "Quand le raisin n'est pas parfaitement équilibré, on peut corriger le moût dans les limites fixées par la réglementation locale. En climat frais, l'enrichissement augmente l'alcool potentiel, par ajout de sucre (chaptalisation), de moût concentré rectifié ou par concentration du moût. En climat chaud, l'acidification à l'acide tartrique corrige une acidité faible ; la désacidification sert les années fraîches à l'acidité très élevée. Beaucoup de régions limitent les quantités et interdisent d'enrichir et d'acidifier un même vin."
+   },
+   {
+    "tip": "Technique d'examen : si la question évoque une région fraîche dans un millésime difficile, pensez enrichissement et éventuellement désacidification ; si elle évoque une région chaude, pensez acidification et vendange plus précoce. Dites toujours pourquoi : c'est la maturité du raisin qui commande la correction."
+   },
+   {
+    "h2": "Fermentation malolactique et élevage"
+   },
+   {
+    "p": "La fermentation malolactique est réalisée par des bactéries lactiques, surtout Oenococcus oeni, qui transforment l'acide malique en acide lactique et en dioxyde de carbone. L'acidité s'assouplit, le vin devient plus stable sur le plan microbiologique et du diacétyle aux notes beurrées peut apparaître. Presque tous les rouges la font ; pour les blancs, c'est un choix de style. On la favorise par la chaleur et l'ensemencement en bactéries, ou on l'empêche par le froid, le dioxyde de soufre ou la filtration."
+   },
+   {
+    "h3": "Contenants inertes ou chêne"
+   },
+   {
+    "p": "L'élevage en contenant inerte, inox ou béton revêtu, garde le vin frais et fruité et dure en général peu de temps. L'élevage sous bois fait deux choses : il apporte des arômes si le fût est neuf ou peu utilisé, et il permet une lente oxygénation qui assouplit les tanins, stabilise la couleur des rouges et développe des arômes tertiaires. Plus le fût est petit et neuf, plus ces deux effets sont marqués."
+   },
+   {
+    "table": {
+     "head": [
+      "Critère",
+      "Chêne français",
+      "Chêne américain"
+     ],
+     "rows": [
+      [
+       "Espèce",
+       "Quercus petraea et Quercus robur",
+       "Quercus alba"
+      ],
+      [
+       "Arômes typiques",
+       "Épices discrètes, grillé, cèdre, tanin plus fin",
+       "Vanille et noix de coco plus marquées, épices douces"
+      ],
+      [
+       "Usage traditionnel",
+       "Bordeaux, Bourgogne, nombreux grands vins dans le monde",
+       "Rioja traditionnel, nombreux rouges du Nouveau Monde"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "La chauffe de l'intérieur du fût pendant la tonnellerie modifie ses arômes : une chauffe légère garde un caractère de bois frais, une chauffe forte donne des notes fumées, torréfiées et épicées. La barrique bordelaise standard contient 225 litres ; les foudres apportent très peu de boisé et une oxydation lente. Les alternatives comme les douelles ou les copeaux plongés en cuve donnent un goût boisé rapidement et à bas coût, mais sans l'oxygénation progressive du fût."
+   },
+   {
+    "h3": "Vieillissement en bouteille"
+   },
+   {
+    "p": "En bouteille, le vin évolue dans un milieu presque sans oxygène. Avec le temps, le fruit primaire s'estompe et des arômes tertiaires apparaissent : fruits secs, champignon, sous-bois, miel ou hydrocarbures selon le vin. Seule une petite partie des vins gagne à vieillir longtemps en bouteille ; la plupart sont faits pour être bus jeunes."
+   },
+   {
+    "h2": "Assemblage, clarification, stabilisation et conditionnement"
+   },
+   {
+    "p": "L'assemblage réunit des lots de cépages, de parcelles, de contenants ou d'âges différents pour obtenir un style maison régulier ou un vin plus complexe et équilibré. Avant la mise en bouteille, le vin est clarifié et stabilisé pour rester limpide et sain jusqu'au consommateur."
+   },
+   {
+    "ol": [
+     "Sédimentation et soutirage : les particules se déposent naturellement et l'on sépare le vin clair.",
+     "Collage : un agent comme la bentonite, le blanc d'œuf ou la gélatine se lie aux particules responsables de troubles ou aux tanins durs et se dépose ; les colles d'origine animale comptent pour les vins véganes.",
+     "Filtration : la filtration en profondeur retire les grosses particules ; la filtration sur membrane fine peut éliminer levures et bactéries pour la stabilité microbiologique.",
+     "Stabilisation tartrique : refroidir le vin pour éliminer les cristaux de tartre avant la mise en bouteille.",
+     "Stabilisation protéique : collage à la bentonite contre la casse protéique, important pour les blancs et les rosés.",
+     "Ajustement final du dioxyde de soufre et mise en bouteille avec un minimum d'oxygène."
+    ]
+   },
+   {
+    "p": "Certains producteurs haut de gamme collent et filtrent le moins possible, convaincus de préserver texture et arômes, et acceptent un risque de dépôt ou d'instabilité."
+   },
+   {
+    "h3": "Bouchages et défauts courants"
+   },
+   {
+    "table": {
+     "head": [
+      "Bouchage",
+      "Avantages",
+      "Limites"
+     ],
+     "rows": [
+      [
+       "Liège naturel",
+       "Traditionnel, infime passage d'oxygène, reconnu pour la longue garde",
+       "Risque de goût de bouchon (TCA), variabilité d'un bouchon à l'autre"
+      ],
+      [
+       "Bouchon synthétique",
+       "Bon marché, pas de TCA",
+       "Moins adapté à la longue garde ; parfois difficile à retirer"
+      ],
+      [
+       "Capsule à vis",
+       "Pas de TCA, régulière, garde le fruit primaire frais",
+       "Très peu d'oxygène, ce qui peut favoriser des arômes de réduction"
+      ],
+      [
+       "Bag-in-box (BIB)",
+       "Bon marché, léger, le vin se garde des semaines après ouverture",
+       "Durée de vie courte avant ouverture ; pour une consommation rapide"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Les principaux défauts à reconnaître sont le goût de bouchon (TCA : moisi, carton humide, fruit éteint), l'oxydation (perte de fruit, brunissement, pomme blette), la réduction (œuf pourri ou allumette, par manque d'oxygène), les Brettanomyces (cuir, écurie, sparadrap) et l'acidité volatile (vinaigre ou vernis à ongles, due aux bactéries acétiques)."
+   },
+   {
+    "h2": "Comment réviser la vinification en 15 minutes par jour"
+   },
+   {
+    "ul": [
+     "Dessinez un schéma unique du moût à la bouteille et notez le but de chaque étape en cinq mots maximum.",
+     "Apprenez le tableau du chêne et rédigez une phrase sur l'espèce, la taille, l'âge et la chauffe.",
+     "Écrivez de mémoire les six étapes de clarification et de stabilisation, puis vérifiez.",
+     "Faites des cartes mémoire des cinq défauts avec cause et odeur.",
+     "Faites une série chronométrée de questions sur la vinification dans l'appli et transformez chaque erreur en phrase cause-effet."
+    ]
+   },
+   {
+    "tip": "Erreur fréquente : confondre collage et filtration. Le collage ajoute un agent qui se lie aux particules et se dépose ; la filtration fait passer le vin à travers un support qui les retient physiquement. Les deux clarifient, mais seule la filtration sur membrane fine élimine de façon fiable les micro-organismes."
+   },
+   {
+    "h2": "Le dioxyde de soufre : pourquoi presque tous les vins en contiennent"
+   },
+   {
+    "p": "Le dioxyde de soufre (SO2) est le principal filet de sécurité du vinificateur. Il agit comme antioxydant, en protégeant le moût et le vin du brunissement et de la perte des arômes frais, et comme antimicrobien, en freinant le développement des levures et bactéries d'altération. On peut l'ajouter à plusieurs moments : sur les raisins à la réception, au moût avant la fermentation, après la fermentation et avant la mise en bouteille. La fermentation elle-même en produit un peu. Trop de SO2 peut éteindre les arômes et donner une odeur d'allumette brûlée, et des limites légales s'appliquent, donc on vise la dose efficace la plus faible. Les vins avec du sucre résiduel demandent en général plus de protection que les vins secs, car le sucre nourrit les micro-organismes. Les producteurs qui ajoutent peu ou pas de SO2 doivent travailler avec des raisins très sains et une hygiène stricte, et accepter un risque de défauts plus élevé."
+   },
+   {
+    "h2": "Volume ou haut de gamme : mêmes étapes, objectifs différents"
+   },
+   {
+    "table": {
+     "head": [
+      "Étape",
+      "Vin bon marché produit en volume",
+      "Vin haut de gamme de garde"
+     ],
+     "rows": [
+      [
+       "Vendange",
+       "Vendange mécanique à hauts rendements, planifiée pour l'efficacité",
+       "Vendange manuelle, tables de tri, faibles rendements, planifiée pour la pleine maturité"
+      ],
+      [
+       "Fermentation",
+       "Levures sélectionnées, maîtrise des températures pour un résultat net et prévisible",
+       "Parfois levures indigènes, petits lots vinifiés séparément"
+      ],
+      [
+       "Élevage",
+       "Court, en cuves inertes ; alternatives au fût comme copeaux ou douelles pour le goût boisé",
+       "Des mois ou des années en fût, une part de bois neuf, puis vieillissement en bouteille avant la sortie"
+      ],
+      [
+       "Assemblage",
+       "Pour garder le même style chaque année à partir de nombreuses sources",
+       "Pour construire complexité et équilibre à partir de parcelles et de fûts séparés"
+      ],
+      [
+       "Clarification et stabilisation",
+       "Collage et filtration poussés pour un vin brillant et stable en rayon",
+       "Parfois minimales, en acceptant un dépôt en échange de la texture"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Aucune des deux colonnes n'est bonne ou mauvaise : chacune répond à une question différente. Les questions d'examen demandent souvent pourquoi une technique convient à un vin et pas à un autre ; reliez donc toujours la technique au style visé et au coût de production."
+   },
+   {
+    "h2": "Exemples de questions avec réponses"
+   },
+   {
+    "p": "Question : pourquoi un vinificateur choisirait-il des levures sélectionnées pour un vin produit en grand volume ? Réponse : les levures sélectionnées donnent une fermentation rapide et fiable, avec des arômes prévisibles et un faible risque d'arrêt de fermentation ou de déviations. Pour un vin qui doit avoir le même goût chaque année et être produit à faible coût, cette fiabilité compte davantage que la complexité supplémentaire que pourraient apporter les levures indigènes."
+   },
+   {
+    "p": "Question : un rouge haut de gamme est mis en bouteille sans filtration. Quels sont l'avantage et le risque ? Réponse : le producteur estime qu'éviter la filtration préserve la texture et les saveurs. Le risque est un dépôt dans la bouteille et, si le vin n'est pas stable sur le plan microbiologique, une possible altération ; le domaine doit donc être sûr de son hygiène et de la stabilité du vin."
+   },
+   {
+    "tip": "Erreurs fréquentes : dire que les alternatives au fût donnent le même résultat qu'une barrique (elles apportent du goût mais pas l'échange lent d'oxygène du fût), oublier que le SO2 a deux rôles, et décrire une technique sans dire à quel style ou à quel niveau de prix elle convient."
+   }
+  ],
+  "faq": [
+   [
+    "Quelle différence entre levures indigènes et sélectionnées au WSET 3 ?",
+    "Les levures indigènes sont naturellement présentes à la vigne et au chai ; un ensemble d'espèces peut apporter de la complexité, mais la fermentation est moins prévisible et plus risquée. Les levures sélectionnées sont des souches choisies et ajoutées par le vinificateur : elles démarrent vite, terminent de façon fiable et se choisissent pour leurs arômes ou leur tolérance à l'alcool. Dans les deux cas, c'est Saccharomyces cerevisiae qui achève la fermentation."
+   ],
+   [
+    "Quelle différence entre chêne français et chêne américain au WSET niveau 3 ?",
+    "Le chêne français provient surtout de Quercus petraea et Quercus robur et donne des épices discrètes, du grillé et du cèdre avec des tanins fins. Le chêne américain, Quercus alba, donne des arômes plus marqués de vanille et de noix de coco. Les deux sont chauffés en tonnellerie, et la chauffe, la taille et l'âge du fût modifient leur effet. Le rioja traditionnel est l'exemple classique du chêne américain ; beaucoup de grands bordeaux et bourgognes utilisent du chêne français."
+   ],
+   [
+    "Quelle différence entre collage et filtration au WSET 3 ?",
+    "Le collage ajoute un agent comme la bentonite, le blanc d'œuf ou la gélatine, qui se lie aux particules responsables de troubles ou aux tanins durs et se dépose, si bien que l'on peut soutirer le vin clair. La filtration fait passer le vin à travers un support qui retient physiquement les particules ; sur membrane fine, elle peut éliminer levures et bactéries. Les deux clarifient, mais différemment, et sont souvent associés."
+   ],
+   [
+    "Pourquoi certains vins sont-ils bouchés à vis plutôt qu'au liège au WSET niveau 3 ?",
+    "La capsule à vis supprime le risque de goût de bouchon et donne des résultats réguliers d'une bouteille à l'autre. Elle laisse entrer très peu d'oxygène et garde le fruit primaire frais, d'où son succès pour les blancs aromatiques comme le riesling et le sauvignon blanc. Sa limite : ce très faible apport d'oxygène peut favoriser des arômes de réduction. Le liège naturel reste le bouchage traditionnel de nombreux vins de garde."
+   ],
+   [
+    "Qu'est-ce qui provoque un arrêt de fermentation au WSET 3 ?",
+    "Un arrêt de fermentation se produit quand la fermentation s'interrompt avant d'avoir transformé tout le sucre. Les causes fréquentes sont une température trop élevée, qui tue les levures, ou trop basse, qui les rend inactives ; une teneur en sucre très élevée ; un degré alcoolique élevé ; un manque de nutriments comme l'azote. Le vin est alors exposé aux bactéries et autres levures. On le prévient par la maîtrise des températures et l'ajout de nutriments."
+   ],
+   [
+    "Pourquoi ajoute-t-on du dioxyde de soufre au vin pour le WSET 3 ?",
+    "Le dioxyde de soufre a deux rôles. Comme antioxydant, il protège le moût et le vin du brunissement et de la perte des arômes frais ; comme antimicrobien, il freine les levures et bactéries d'altération. On peut l'ajouter à la vendange, avant et après la fermentation et à la mise en bouteille. Trop de SO2 peut éteindre les arômes et des limites légales s'appliquent, donc les vinificateurs utilisent la dose la plus faible qui garde le vin stable."
+   ],
+   [
+    "Que sont les alternatives au fût et pourquoi les utilise-t-on ?",
+    "Les alternatives au fût sont des copeaux, des douelles ou de la poudre de chêne ajoutés au vin en cuve pour apporter des arômes boisés comme la vanille et le toasté. Elles sont bien moins chères et plus rapides que les barriques, ce qui convient aux vins d'entrée de gamme. En revanche, elles ne reproduisent pas l'échange lent d'oxygène à travers le bois d'un fût : elles apportent du goût sans le même assouplissement ni la même complexité."
+   ],
+   [
+    "Quelle différence entre vinifier pour le volume et pour le haut de gamme ?",
+    "Les vins de volume visent un style régulier et net à faible coût : vendange mécanique, levures sélectionnées, élevage court en cuves inertes, alternatives au fût et filtration poussée. Les vins haut de gamme visent la concentration, la complexité et le potentiel de garde : faibles rendements, vendange manuelle, petits lots séparés, élevage plus long en fût et souvent collage et filtration minimaux. Chaque ensemble de choix correspond à son style et à son prix."
+   ],
+   [
+    "Pourquoi certains vins doivent-ils vieillir en bouteille avant leur sortie ?",
+    "Certains vins, surtout ceux qui ont des tanins élevés, une acidité élevée et un fruit concentré, sont durs dans leur jeunesse. Le temps en bouteille permet aux tanins de s'assouplir, aux composantes de s'intégrer et aux arômes tertiaires de se développer. Certaines régions et catégories de qualité imposent un vieillissement minimal avant la commercialisation, et certains producteurs gardent leurs vins pour que les clients les reçoivent plus près de leur apogée."
+   ]
+  ]
+ },
+ "es": {
+  "sections": [
+   {
+    "h2": "Apuntes de estudio: vinificación y crianza para el WSET nivel 3"
+   },
+   {
+    "p": "Las preguntas del WSET nivel 3 sobre vinificación tratan las técnicas comunes a todos los estilos: control del oxígeno y la temperatura, conducción de la fermentación alcohólica, correcciones del mosto, crianza y, por último, clarificación, estabilización y envasado. Estos apuntes reúnen los principios generales que hay detrás de la elaboración de blancos, tintos, rosados, espumosos y generosos, explicados como causa, efecto y estilo para que puedas aplicarlos a cualquier vino en el examen."
+   },
+   {
+    "h2": "Las herramientas de la bodega: oxígeno, temperatura e higiene"
+   },
+   {
+    "p": "El oxígeno es la variable más importante en bodega. La elaboración protectora, o reductiva, lo mantiene a distancia con acero inoxidable, gases inertes, depósitos llenos y dióxido de azufre, y así conserva la fruta primaria fresca. La elaboración oxidativa permite a propósito cierto contacto con el aire, por ejemplo en barrica, lo que suaviza los taninos, hace evolucionar el color y desarrolla notas terciarias de frutos secos, tofe o cuero. Demasiado oxígeno, o en el momento equivocado, causa defectos: pérdida de fruta, pardeamiento y aromas de acetaldehído."
+   },
+   {
+    "p": "El control de temperatura permite dirigir la velocidad y los aromas de la fermentación. La higiene importa porque los microorganismos alterantes, como las bacterias acéticas y la levadura Brettanomyces, proliferan en equipos sucios y en vinos con poco sulfuroso o expuestos al aire. El dióxido de azufre se usa en todas las fases como antioxidante y antimicrobiano, pero en exceso apaga los aromas y su dosis está regulada por ley."
+   },
+   {
+    "h3": "Recipientes de fermentación y almacenamiento"
+   },
+   {
+    "table": {
+     "head": [
+      "Recipiente",
+      "Características",
+      "Efecto en el estilo"
+     ],
+     "rows": [
+      [
+       "Acero inoxidable",
+       "Inerte, hermético, fácil de limpiar y de controlar la temperatura",
+       "Fruta primaria pura; no añade aromas"
+      ],
+      [
+       "Hormigón",
+       "Estable térmicamente, revestido o sin revestir, de muchas formas",
+       "Aroma neutro, algo de textura; leve intercambio de oxígeno si no está revestido"
+      ],
+      [
+       "Roble (barricas, tinos grandes)",
+       "Entrada lenta de oxígeno; la madera nueva cede compuestos aromáticos",
+       "Taninos más suaves, aromas de madera, estilo más complejo y evolucionado"
+      ],
+      [
+       "Tinaja o ánfora de barro",
+       "Recipiente tradicional poroso, a menudo sin revestir",
+       "Aroma neutro con un intercambio suave de oxígeno y textura"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "La fermentación alcohólica en detalle"
+   },
+   {
+    "p": "La fermentación alcohólica la llevan a cabo las levaduras, que transforman el azúcar en etanol y dióxido de carbono, desprendiendo calor y generando muchos compuestos aromáticos como los ésteres. Saccharomyces cerevisiae es la levadura que termina la fermentación porque tolera graduaciones altas. La fermentación suele detenerse cuando se acaba el azúcar, cuando el alcohol mata a las levaduras o cuando interviene quien elabora."
+   },
+   {
+    "h3": "¿Levaduras autóctonas o seleccionadas?"
+   },
+   {
+    "p": "Las levaduras autóctonas (salvajes o indígenas) proceden del viñedo y de la bodega. Una mezcla de especies inicia la fermentación antes de que Saccharomyces tome el relevo, lo que puede aportar complejidad, pero el resultado es menos previsible y hay más riesgo de defectos o de fermentaciones lentas. Las levaduras seleccionadas son cepas escogidas y añadidas por quien elabora: arrancan rápido, fermentan hasta seco de forma fiable y se eligen por sus aromas o su tolerancia al alcohol, a costa de algo de personalidad."
+   },
+   {
+    "h3": "Paradas de fermentación"
+   },
+   {
+    "p": "Una parada de fermentación ocurre cuando el vino se detiene antes de quedar seco, lo que lo deja expuesto a alteraciones. Las causas habituales son temperaturas demasiado altas (las levaduras mueren) o demasiado bajas (se inactivan), niveles de azúcar muy altos, falta de nutrientes como el nitrógeno y alcohol elevado. Se previene controlando la temperatura y añadiendo nutrientes; reactivar una fermentación parada es difícil."
+   },
+   {
+    "h3": "Correcciones del mosto"
+   },
+   {
+    "p": "Cuando la uva no está perfectamente equilibrada, se puede corregir el mosto dentro de los límites que fija la normativa local. En climas frescos, el enriquecimiento sube el alcohol potencial añadiendo azúcar (chaptalización), mosto concentrado rectificado o concentrando el mosto. En climas cálidos, la acidificación con ácido tartárico corrige la acidez baja; la desacidificación se usa en añadas frescas con acidez muy alta. Muchas regiones limitan las cantidades y no permiten enriquecer y acidificar un mismo vino."
+   },
+   {
+    "tip": "Técnica de examen: si la pregunta habla de una región fresca en una añada difícil, piensa en enriquecimiento y quizá desacidificación; si habla de una región cálida, piensa en acidificación y en vendimiar antes. Explica siempre el porqué: la madurez de la uva es lo que manda la corrección."
+   },
+   {
+    "h2": "Fermentación maloláctica y crianza"
+   },
+   {
+    "p": "La fermentación maloláctica la realizan bacterias lácticas, sobre todo Oenococcus oeni, que convierten el ácido málico en ácido láctico y dióxido de carbono. La acidez se suaviza, el vino gana estabilidad microbiológica y puede aparecer diacetilo, con notas mantecosas. Casi todos los tintos la hacen; en los blancos es una decisión de estilo. Se favorece con calor y añadiendo bacterias, o se impide con temperaturas bajas, dióxido de azufre o filtración."
+   },
+   {
+    "h3": "Recipientes inertes frente a roble"
+   },
+   {
+    "p": "La crianza en recipientes inertes como acero u hormigón revestido mantiene el vino fresco y afrutado y suele ser corta. La crianza en roble hace dos cosas: aporta aromas si la madera es nueva o poco usada, y permite un intercambio lento de oxígeno que suaviza los taninos, estabiliza el color de los tintos y desarrolla aromas terciarios. Cuanto más pequeña y nueva es la barrica, más intensos son ambos efectos."
+   },
+   {
+    "table": {
+     "head": [
+      "Factor",
+      "Roble francés",
+      "Roble americano"
+     ],
+     "rows": [
+      [
+       "Especie",
+       "Quercus petraea y Quercus robur",
+       "Quercus alba"
+      ],
+      [
+       "Aromas típicos",
+       "Especias sutiles, tostados, cedro, tanino más fino",
+       "Vainilla y coco más marcados, especias dulces"
+      ],
+      [
+       "Uso tradicional",
+       "Burdeos, Borgoña, muchos grandes vinos del mundo",
+       "Rioja tradicional, muchos tintos del Nuevo Mundo"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "El tostado del interior de la barrica durante su fabricación cambia sus aromas: un tostado ligero conserva más carácter de madera fresca, uno intenso da notas ahumadas, torrefactas y especiadas. La barrica bordelesa estándar tiene 225 litros; los tinos y fudres grandes aportan muy poca madera y una oxidación lenta. Las alternativas como duelas o virutas sumergidas en el depósito dan sabor a roble rápido y barato, pero sin el intercambio gradual de oxígeno de una barrica."
+   },
+   {
+    "h3": "Crianza en botella"
+   },
+   {
+    "p": "En la botella, el vino está en un medio casi sin oxígeno. Con el tiempo la fruta primaria se apaga y aparecen aromas terciarios: fruta seca, champiñón, sotobosque, miel o hidrocarburos según el vino. Solo una pequeña parte de los vinos mejora con una larga crianza en botella; la mayoría se elabora para beberse joven."
+   },
+   {
+    "h2": "Ensamblaje, clarificación, estabilización y envasado"
+   },
+   {
+    "p": "El ensamblaje combina lotes de distintas variedades, viñedos, recipientes o edades para lograr un estilo de la casa constante o un vino más complejo y equilibrado. Antes del embotellado, el vino se clarifica y estabiliza para que llegue limpio y sano al consumidor."
+   },
+   {
+    "ol": [
+     "Sedimentación y trasiego: los sólidos se depositan de forma natural y se separa el vino limpio.",
+     "Clarificación (encolado): un agente como la bentonita, la clara de huevo o la gelatina se une a las partículas que enturbian o a los taninos duros y se deposita; los de origen animal importan para los vinos veganos.",
+     "Filtración: la filtración en profundidad retira las partículas grandes; la de membrana fina puede eliminar levaduras y bacterias para la estabilidad microbiológica.",
+     "Estabilización tartárica: enfriar el vino para eliminar los cristales de tartrato antes de embotellar.",
+     "Estabilización proteica: encolado con bentonita contra la turbidez, importante en blancos y rosados.",
+     "Ajuste final del sulfuroso y embotellado con la mínima entrada de oxígeno."
+    ]
+   },
+   {
+    "p": "Algunas bodegas de gama alta clarifican y filtran lo mínimo, convencidas de que así conservan textura y aromas, y aceptan el riesgo de posos o inestabilidad."
+   },
+   {
+    "h3": "Cierres y defectos frecuentes"
+   },
+   {
+    "table": {
+     "head": [
+      "Cierre",
+      "Ventajas",
+      "Limitaciones"
+     ],
+     "rows": [
+      [
+       "Corcho natural",
+       "Tradicional, mínimo paso de oxígeno, aceptado para crianzas largas",
+       "Riesgo de olor a corcho (TCA), variabilidad entre tapones"
+      ],
+      [
+       "Tapón sintético",
+       "Barato, sin TCA",
+       "Menos adecuado para guardas largas; a veces cuesta sacarlo"
+      ],
+      [
+       "Tapón de rosca",
+       "Sin TCA, constante, mantiene fresca la fruta primaria",
+       "El oxígeno muy escaso puede favorecer aromas de reducción"
+      ],
+      [
+       "Bag-in-box",
+       "Barato, ligero, el vino aguanta semanas una vez abierto",
+       "Vida corta antes de abrir; para consumo rápido"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Los defectos principales que hay que reconocer son el olor a corcho (TCA: moho, cartón mojado, fruta apagada), la oxidación (pérdida de fruta, pardeamiento, manzana golpeada), la reducción (huevo podrido o cerilla, por falta de oxígeno), Brettanomyces (cuero, cuadra, esparadrapo) y la acidez volátil (vinagre o quitaesmalte, por bacterias acéticas)."
+   },
+   {
+    "h2": "Cómo repasar la vinificación en 15 minutos al día"
+   },
+   {
+    "ul": [
+     "Dibuja un único esquema del mosto a la botella y anota el objetivo de cada paso en cinco palabras como máximo.",
+     "Aprende la tabla del roble y escribe una frase sobre especie, tamaño, edad y tostado.",
+     "Escribe de memoria los seis pasos de clarificación y estabilización y después compruébalos.",
+     "Haz tarjetas de los cinco defectos con su causa y su olor.",
+     "Haz una serie cronometrada de preguntas de vinificación en la app y convierte cada fallo en una frase de causa y efecto."
+    ]
+   },
+   {
+    "tip": "Error frecuente: confundir clarificación y filtración. La clarificación añade un agente que se une a las partículas y se deposita; la filtración hace pasar el vino por un material que las retiene físicamente. Las dos dejan el vino limpio, pero solo la filtración por membrana fina elimina de forma fiable los microorganismos."
+   },
+   {
+    "h2": "El dióxido de azufre: por qué casi todos los vinos lo contienen"
+   },
+   {
+    "p": "El dióxido de azufre (SO2) es la principal red de seguridad del enólogo. Actúa como antioxidante, protegiendo el mosto y el vino del pardeamiento y de la pérdida de aromas frescos, y como antimicrobiano, frenando el desarrollo de levaduras y bacterias alterantes. Puede añadirse en varios momentos: sobre la uva a la llegada a bodega, al mosto antes de fermentar, después de la fermentación y antes del embotellado. La propia fermentación también produce un poco. Un exceso de SO2 puede apagar los aromas y dar olor a cerilla quemada, y existen límites legales, así que se busca la dosis eficaz más baja. Los vinos con azúcar residual suelen necesitar más protección que los secos, porque el azúcar alimenta a los microorganismos. Quien añade poco o ningún SO2 debe trabajar con uva muy sana y una higiene estricta, y asumir un riesgo mayor de defectos."
+   },
+   {
+    "h2": "Volumen o alta gama: los mismos pasos, objetivos distintos"
+   },
+   {
+    "table": {
+     "head": [
+      "Paso",
+      "Vino económico de gran volumen",
+      "Vino de alta gama para guardar"
+     ],
+     "rows": [
+      [
+       "Vendimia",
+       "Vendimia mecánica con rendimientos altos, planificada por eficiencia",
+       "Vendimia manual, mesas de selección, rendimientos bajos, planificada para la plena madurez"
+      ],
+      [
+       "Fermentación",
+       "Levaduras seleccionadas, control de temperatura para un resultado limpio y previsible",
+       "A veces levaduras autóctonas, pequeños lotes elaborados por separado"
+      ],
+      [
+       "Crianza",
+       "Corta, en depósitos inertes; alternativas al roble como chips o duelas para el sabor a madera",
+       "Meses o años en barrica, una parte de roble nuevo y luego crianza en botella antes de salir al mercado"
+      ],
+      [
+       "Coupage",
+       "Para mantener el mismo estilo cada año a partir de muchas procedencias",
+       "Para construir complejidad y equilibrio a partir de parcelas y barricas separadas"
+      ],
+      [
+       "Clarificación y estabilización",
+       "Clarificación y filtración a fondo para que el vino esté brillante y estable en el lineal",
+       "A veces mínimas, aceptando un sedimento a cambio de textura"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Ninguna de las dos columnas es buena o mala: cada una responde a una pregunta distinta. Las preguntas del examen suelen pedir por qué una técnica conviene a un vino y no a otro, así que relaciona siempre la técnica con el estilo buscado y con el coste de producirlo."
+   },
+   {
+    "h2": "Preguntas de ejemplo con respuesta"
+   },
+   {
+    "p": "Pregunta: ¿por qué un enólogo elegiría levaduras seleccionadas para un vino de gran volumen? Respuesta: las levaduras seleccionadas dan una fermentación rápida y fiable, con sabores previsibles y poco riesgo de paradas de fermentación o de olores anómalos. Para un vino que debe saber igual cada año y producirse a bajo coste, esa fiabilidad importa más que la complejidad adicional que podrían aportar las levaduras autóctonas."
+   },
+   {
+    "p": "Pregunta: un tinto de alta gama se embotella sin filtrar. ¿Cuáles son la ventaja y el riesgo? Respuesta: el productor considera que evitar la filtración preserva la textura y el sabor. El riesgo es un sedimento en la botella y, si el vino no es estable desde el punto de vista microbiológico, una posible alteración, así que la bodega debe confiar en su higiene y en la estabilidad del vino."
+   },
+   {
+    "tip": "Errores frecuentes: decir que las alternativas al roble dan el mismo resultado que la barrica (aportan sabor pero no el lento intercambio de oxígeno de la barrica), olvidar que el SO2 tiene dos funciones, y describir una técnica sin decir a qué estilo o nivel de precio se adapta."
+   }
+  ],
+  "faq": [
+   [
+    "¿Qué diferencia hay entre levaduras autóctonas y seleccionadas en el WSET 3?",
+    "Las levaduras autóctonas están presentes de forma natural en el viñedo y la bodega; una mezcla de especies puede aportar complejidad, pero la fermentación es menos previsible y más arriesgada. Las seleccionadas son cepas escogidas y añadidas por quien elabora: arrancan rápido, terminan de forma fiable y se eligen por aromas o tolerancia al alcohol. En ambos casos es Saccharomyces cerevisiae quien completa la fermentación."
+   ],
+   [
+    "¿Qué diferencia hay entre roble francés y americano en el WSET nivel 3?",
+    "El roble francés procede sobre todo de Quercus petraea y Quercus robur y aporta especias sutiles, tostados y cedro con taninos finos. El roble americano, Quercus alba, da aromas más marcados de vainilla y coco. Ambos se tuestan al fabricar la barrica, y el tostado, el tamaño y la edad modifican su efecto. El Rioja tradicional es el ejemplo clásico de roble americano; muchos grandes Burdeos y Borgoñas usan roble francés."
+   ],
+   [
+    "¿Qué diferencia hay entre clarificación y filtración en el WSET 3?",
+    "La clarificación añade un agente como bentonita, clara de huevo o gelatina que se une a las partículas que enturbian o a los taninos duros y se deposita, de modo que se puede trasegar el vino limpio. La filtración hace pasar el vino por un material que retiene físicamente las partículas; con membrana fina puede eliminar levaduras y bacterias. Ambas limpian el vino, pero funcionan de forma distinta y a menudo se combinan."
+   ],
+   [
+    "¿Por qué algunos vinos usan tapón de rosca en lugar de corcho en el WSET nivel 3?",
+    "El tapón de rosca elimina el riesgo de olor a corcho y da resultados constantes de una botella a otra. Deja entrar muy poco oxígeno y mantiene fresca la fruta primaria, por eso es habitual en blancos aromáticos como Riesling y Sauvignon Blanc. Su limitación es que ese oxígeno tan escaso puede favorecer aromas de reducción. El corcho natural sigue siendo el cierre tradicional de muchos vinos de guarda."
+   ],
+   [
+    "¿Qué provoca una parada de fermentación en el WSET 3?",
+    "Una parada de fermentación se produce cuando la fermentación se detiene antes de transformar todo el azúcar. Las causas habituales son temperaturas demasiado altas, que matan a las levaduras, o demasiado bajas, que las inactivan; niveles de azúcar muy altos; alcohol elevado; y falta de nutrientes como el nitrógeno. El vino queda expuesto a bacterias y otras levaduras. Se previene controlando la temperatura y añadiendo nutrientes."
+   ],
+   [
+    "¿Por qué se añade dióxido de azufre al vino para el WSET 3?",
+    "El dióxido de azufre tiene dos funciones. Como antioxidante protege el mosto y el vino del pardeamiento y de la pérdida de aromas frescos; como antimicrobiano inhibe levaduras y bacterias alterantes. Puede añadirse en la vendimia, antes y después de la fermentación y en el embotellado. Un exceso puede apagar los aromas y hay límites legales, así que los enólogos usan la dosis más baja que mantiene el vino estable."
+   ],
+   [
+    "¿Qué son las alternativas al roble y por qué se usan?",
+    "Las alternativas al roble son chips, duelas o polvo de roble que se añaden al vino en depósito para darle sabores de madera como vainilla y tostado. Son mucho más baratas y rápidas que las barricas, lo que encaja con los vinos económicos. Sin embargo, no reproducen el lento intercambio de oxígeno que se produce a través de la madera de una barrica, así que aportan sabor sin el mismo suavizado ni la misma complejidad."
+   ],
+   [
+    "¿Qué diferencia hay entre elaborar para el volumen y para la alta gama?",
+    "Los vinos de volumen buscan un estilo constante y limpio a bajo coste: vendimia mecánica, levaduras seleccionadas, crianza corta en depósitos inertes, alternativas al roble y filtración a fondo. Los de alta gama buscan concentración, complejidad y potencial de guarda: rendimientos bajos, vendimia manual, pequeños lotes por separado, crianza más larga en barrica y a menudo clarificación y filtración mínimas. Cada conjunto de decisiones encaja con su estilo y su precio."
+   ],
+   [
+    "¿Por qué algunos vinos necesitan crianza en botella antes de salir al mercado?",
+    "Algunos vinos, sobre todo los de tanino alto, acidez alta y fruta concentrada, resultan duros de jóvenes. El tiempo en botella permite que los taninos se suavicen, que los componentes se integren y que se desarrollen los aromas terciarios. Algunas regiones y categorías exigen una crianza mínima antes de la venta, y algunos productores retienen sus vinos para que lleguen al cliente más cerca de su mejor momento."
+   ]
+  ]
+ }
 }

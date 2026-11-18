@@ -1,254 +1,986 @@
 {
-"en": {
-"sections": [
-{"h2": "Study notes: wine pricing and the trade for WSET Level 3"},
-{"p": "WSET Level 3 wine pricing questions ask why one bottle costs five times more than another. The answer always combines two sides: what it costs to produce and deliver the wine, and what the market is prepared to pay for it. These study notes explain the costs in the vineyard and winery, the businesses that make and sell wine, the route from producer to consumer, and the factors that push prices up or down, so you can answer both multiple-choice and short written questions on the wine trade."},
-{"h2": "Production costs: from vineyard to bottle"},
-{"h3": "Vineyard costs"},
-{"p": "Land is the first cost, and it varies enormously: a hectare in a famous appellation can cost many times more than land in a lesser-known region. Planting a vineyard is expensive and gives no return for the first few years, because a commercial crop usually arrives only from the third year. Once a vineyard is established, labour is generally the largest cost. Flat, accessible vineyards can be mechanised for pruning, spraying and harvesting, which cuts costs; steep slopes, terraces and bush vines need hand work and cost much more per hectare. Low yields also raise the cost of each bottle, because the fixed costs of the vineyard are spread over less wine."},
-{"h3": "Winery costs"},
-{"p": "Equipment such as presses, temperature-controlled tanks and bottling lines is a major investment. New oak barrels are one of the most expensive choices a winemaker can make, and they can only give strong oak flavour for a limited number of uses; oak alternatives such as staves and chips give oak flavour much more cheaply. Time is a cost too: wine kept for months or years in barrel or bottle ties up money, storage space and stock that cannot yet be sold."},
-{"h3": "Packaging and transport"},
-{"p": "Glass, closures, labels and cartons add a fixed cost to every bottle, which weighs heavily on inexpensive wine. Heavy premium bottles cost more to buy and to ship. Large producers can cut costs by shipping wine in bulk containers and bottling it in the destination market, although local rules do not always permit this. Sea freight is cheap per bottle; air freight is rarely used for wine."},
-{"table": {"head": ["Cost driver", "Effect on price", "Typical example"], "rows": [
-["Expensive land in a famous region", "High fixed cost per bottle", "Top Burgundy or Napa vineyards"],
-["Steep slopes and hand work", "High labour cost per hectare", "Mosel, Douro terraces, Côte-Rôtie"],
-["Low yields", "Fixed costs spread over fewer bottles", "Old vines, quality-driven estates"],
-["New oak and long maturation", "Barrel cost plus capital tied up", "Premium red Bordeaux, Rioja Gran Reserva"],
-["Mechanisation and high yields", "Lower cost per bottle", "Large flat vineyards producing inexpensive brands"]
-]}},
-{"h2": "Who makes and sells the wine"},
-{"p": "Wine businesses fall into three broad models. Estates (domaines) grow their own grapes and make and bottle their own wine, giving maximum control. Co-operatives are owned by their grower members, who pool grapes so they can share equipment, winemaking and marketing; they are very common in Europe where holdings are small, and many have improved quality by paying growers according to grape quality rather than weight alone. Merchants, or négociants, buy grapes, juice or finished wine from growers and co-operatives, often under long-term contracts, and can blend across many sources. Many large brands are made this way because blending from different vineyards gives a consistent product every year."},
-{"tip": "Exam technique: when asked for an advantage of each business model, link it to quality or price. Estate: control of every step but limited blending options in a poor vintage. Co-operative: shared costs for small growers but quality depends on member grapes. Merchant: scale and blending flexibility but less control in the vineyard."},
-{"h2": "Routes to market: from producer to consumer"},
-{"p": "A bottle of wine often passes through several businesses before it reaches the consumer, and each one adds its own costs and margin. In an export market a typical route looks like this:"},
-{"ol": [
-"The producer sells the wine at the cellar-door or ex-cellar price.",
-"Transport and insurance are added to move the wine to the destination country.",
-"An importer brings the wine in, deals with paperwork and pays the duty when the wine is released for sale.",
-"A distributor or wholesaler may sell it on to shops, restaurants and bars, often handling local storage and delivery.",
-"The retailer (off-trade) or restaurant (on-trade) adds its margin and sales tax before the consumer pays."
-]},
-{"p": "Direct-to-consumer sales, such as cellar-door sales, wine clubs, mail order and online shops, cut out intermediaries, so the producer keeps more of the final price, but they need marketing effort and usually reach fewer customers. Supermarkets buy large volumes and use their buying power to negotiate low prices, which suits big brands. Specialist wine shops offer advice and wider ranges at higher prices. Restaurants charge more than shops for the same wine because their price must also cover the setting, service, glassware, storage and the occasion."},
-{"h3": "Taxes and the price of cheap wine"},
-{"p": "Excise duty and sales tax (such as VAT) can make up a large part of the shelf price. In markets where duty is a fixed amount per bottle or per litre, it takes the same sum from an inexpensive bottle as from an expensive one. As a result, the share of the price that actually pays for the wine itself rises quickly as the bottle price goes up: spending a little more often buys much more wine value. This is a classic point in WSET 3 written answers on pricing."},
-{"h2": "What the market will pay"},
-{"p": "Production costs set a minimum price, but the selling price of premium wine is driven mainly by demand. Key factors include:"},
-{"ul": [
-"Reputation of the region, appellation and producer: famous names command higher prices.",
-"Scarcity: small production from a limited, renowned vineyard cannot be increased to meet demand.",
-"Vintage quality and critics' scores, which can move prices sharply for fine wine.",
-"Brand strength: a well-known brand can charge more than a similar unbranded wine.",
-"Fashion and changing consumer tastes, for example demand for particular grapes or styles.",
-"Exchange rates and trade tariffs, which change the price of imported wine."
-]},
-{"h3": "Fine wine, en primeur and the secondary market"},
-{"p": "Some fine wines, especially top Bordeaux, are sold en primeur: buyers pay for the wine in the spring after the harvest while it is still maturing in barrel, and receive the bottles later. Châteaux sell through brokers and négociants, which spreads risk and brings in cash early. Once released, fine wines can be resold on the secondary market and at auction, where prices depend on provenance, storage conditions and demand. Prices for the most sought-after wines can rise far beyond their production cost."},
-{"h2": "How to revise wine pricing in 15 minutes a day"},
-{"ul": [
-"Draw the route to market as a flow chart and add which costs and margins are added at each stage.",
-"Write one sentence each for estate, co-operative and merchant: definition, advantage, disadvantage.",
-"Explain in two sentences why fixed duty makes cheap wine poor value.",
-"Pick two wines at very different prices and list the cost and market reasons for the gap.",
-"Answer a set of pricing and trade questions in the app and rewrite each wrong answer in your own words."
-]},
-{"tip": "Common mistake: explaining price with production costs only. For premium and fine wine, the market factors usually matter more. A full WSET 3 answer gives at least one cost reason and one demand reason."}
-],
-"faq": [
-["Why does spending more on a bottle often give better value for WSET 3?", "Many costs are fixed per bottle, including excise duty in markets that tax by volume, glass, closure, transport and handling. These take the same amount from a cheap bottle as from a dearer one, so in the cheapest bottles only a small share of the price pays for the wine itself. As the price rises, that share grows quickly, which is why a moderate increase can buy much better wine."],
-["What does en primeur mean for WSET Level 3?", "En primeur is a way of selling fine wine, especially top Bordeaux, before it is bottled. Buyers pay in the spring after the vintage while the wine is still in barrel, and the bottles are delivered later. The château receives cash early and shares the risk with the trade, while buyers hope to secure scarce wines at a lower price than after release."],
-["What is the role of an importer in the wine trade for WSET 3?", "An importer buys wine from producers abroad, arranges shipping, handles customs paperwork and pays duty when the wine is released for sale. Importers often also market the wine and sell it to distributors, retailers and restaurants. Each step adds costs and margin, which is one reason why the shelf price of an imported wine is far higher than its ex-cellar price."],
-["Why are big wine brands usually made by merchants for WSET Level 3?", "Brands need a consistent style and large volumes every year. Merchants can buy grapes, juice or wine from many growers and regions and blend them, smoothing out differences between vineyards and vintages. An estate is limited to its own grapes, so in a difficult year it has fewer blending options. Large brands also benefit from economies of scale in winemaking, packaging and marketing."],
-["How do supermarkets affect wine prices for WSET 3?", "Supermarkets sell large volumes and have strong buying power, so they can negotiate low prices from producers and use frequent promotions. This favours large producers and brands that can supply consistent wine in big quantities at a low cost per bottle. Smaller producers often prefer specialist shops, restaurants or direct sales, where advice and storytelling support higher prices."]
-]
-},
-"it": {
-"sections": [
-{"h2": "Appunti di studio: prezzo e commercio del vino per il WSET Livello 3"},
-{"p": "Le domande del WSET Livello 3 sul prezzo del vino chiedono perché una bottiglia costi cinque volte più di un'altra. La risposta unisce sempre due lati: quanto costa produrre e consegnare il vino e quanto il mercato è disposto a pagarlo. Questi appunti spiegano i costi in vigna e in cantina, le aziende che producono e vendono vino, il percorso dal produttore al consumatore e i fattori che spingono i prezzi in alto o in basso, per rispondere sia alle domande a scelta multipla sia a quelle scritte sul commercio del vino."},
-{"h2": "Costi di produzione: dalla vigna alla bottiglia"},
-{"h3": "Costi in vigna"},
-{"p": "Il terreno è il primo costo e varia moltissimo: un ettaro in una denominazione famosa può costare molte volte più di uno in una zona poco nota. Impiantare un vigneto è caro e non rende nulla per i primi anni, perché un raccolto commerciale arriva di solito solo dal terzo anno. Una volta in produzione, la manodopera è in genere la voce più pesante. I vigneti pianeggianti e accessibili si possono meccanizzare per potatura, trattamenti e vendemmia, abbassando i costi; pendii ripidi, terrazze e alberelli richiedono lavoro manuale e costano molto di più per ettaro. Anche le rese basse aumentano il costo per bottiglia, perché i costi fissi del vigneto si distribuiscono su meno vino."},
-{"h3": "Costi in cantina"},
-{"p": "Attrezzature come presse, vasche termocondizionate e linee di imbottigliamento sono un grosso investimento. Le barrique nuove sono tra le scelte più costose per chi fa vino e danno un aroma di rovere marcato solo per un numero limitato di utilizzi; le alternative come doghe e chips danno sapore di legno a un costo molto inferiore. Anche il tempo è un costo: il vino tenuto mesi o anni in botte o in bottiglia immobilizza denaro, spazio e scorte che non si possono ancora vendere."},
-{"h3": "Confezionamento e trasporto"},
-{"p": "Vetro, tappi, etichette e cartoni aggiungono un costo fisso a ogni bottiglia, che pesa molto sui vini economici. Le bottiglie pesanti di fascia alta costano di più all'acquisto e alla spedizione. I grandi produttori possono risparmiare spedendo il vino sfuso in container e imbottigliandolo nel paese di destinazione, anche se le norme locali non sempre lo consentono. Il trasporto via mare costa poco per bottiglia; quello aereo si usa raramente per il vino."},
-{"table": {"head": ["Voce di costo", "Effetto sul prezzo", "Esempio tipico"], "rows": [
-["Terreni cari in una zona famosa", "Alto costo fisso per bottiglia", "Grandi vigneti di Borgogna o della Napa Valley"],
-["Pendii ripidi e lavoro manuale", "Alto costo di manodopera per ettaro", "Mosella, terrazze del Douro, Côte-Rôtie"],
-["Rese basse", "Costi fissi su meno bottiglie", "Vigne vecchie, aziende orientate alla qualità"],
-["Rovere nuovo e lungo affinamento", "Costo delle botti più capitale immobilizzato", "Grandi rossi di Bordeaux, Rioja Gran Reserva"],
-["Meccanizzazione e rese alte", "Costo per bottiglia più basso", "Grandi vigneti pianeggianti per marchi economici"]
-]}},
-{"h2": "Chi produce e chi vende il vino"},
-{"p": "Le aziende vinicole rientrano in tre grandi modelli. Le aziende agricole (domaine, tenute) coltivano le proprie uve e vinificano e imbottigliano il proprio vino, con il massimo controllo. Le cantine cooperative sono di proprietà dei soci viticoltori, che conferiscono le uve per condividere attrezzature, vinificazione e marketing; sono diffusissime in Europa, dove le proprietà sono piccole, e molte hanno migliorato la qualità pagando le uve in base alla qualità e non solo al peso. I commercianti, o négociant, comprano uve, mosto o vino finito da viticoltori e cooperative, spesso con contratti pluriennali, e possono assemblare da molte fonti. Molti grandi marchi nascono così, perché l'assemblaggio di vigneti diversi garantisce un prodotto costante ogni anno."},
-{"tip": "Tecnica d'esame: se ti chiedono un vantaggio di ciascun modello, collegalo a qualità o prezzo. Tenuta: controllo di ogni fase ma poche possibilità di assemblaggio in un'annata difficile. Cooperativa: costi condivisi per i piccoli viticoltori ma qualità legata alle uve dei soci. Commerciante: volumi e flessibilità di assemblaggio ma meno controllo in vigna."},
-{"h2": "I canali di vendita: dal produttore al consumatore"},
-{"p": "Una bottiglia passa spesso per diverse aziende prima di arrivare al consumatore, e ognuna aggiunge costi e margine. Su un mercato d'esportazione il percorso tipico è questo:"},
-{"ol": [
-"Il produttore vende il vino al prezzo franco cantina.",
-"Si aggiungono trasporto e assicurazione fino al paese di destinazione.",
-"Un importatore introduce il vino, gestisce le pratiche e paga le accise quando il vino viene messo in vendita.",
-"Un distributore o grossista può rivenderlo a negozi, ristoranti e bar, occupandosi spesso di magazzino e consegne locali.",
-"Il rivenditore (off-trade) o il ristorante (on-trade) aggiunge il proprio margine e l'imposta sulle vendite prima che il consumatore paghi."
-]},
-{"p": "La vendita diretta, cioè in cantina, tramite club del vino, per corrispondenza o online, elimina gli intermediari: il produttore trattiene una quota maggiore del prezzo finale, ma serve impegno di marketing e di solito si raggiungono meno clienti. La grande distribuzione compra grandi volumi e usa il proprio potere d'acquisto per ottenere prezzi bassi, il che favorisce i grandi marchi. Le enoteche offrono consiglio e assortimenti più ampi a prezzi più alti. I ristoranti fanno pagare lo stesso vino più dei negozi perché il prezzo deve coprire anche ambiente, servizio, bicchieri, conservazione e l'occasione."},
-{"h3": "Tasse e prezzo dei vini economici"},
-{"p": "Accise e imposte sulle vendite, come l'IVA, possono rappresentare una parte importante del prezzo a scaffale. Nei mercati in cui l'accisa è un importo fisso per bottiglia o per litro, essa pesa allo stesso modo su una bottiglia economica e su una cara. Di conseguenza, la quota del prezzo che paga davvero il vino cresce rapidamente quando sale il prezzo: spendere un po' di più spesso significa ottenere molto più valore nel bicchiere. È un punto classico nelle risposte scritte del WSET 3 sul prezzo."},
-{"h2": "Quanto è disposto a pagare il mercato"},
-{"p": "I costi di produzione fissano un prezzo minimo, ma il prezzo di vendita dei vini di pregio dipende soprattutto dalla domanda. I fattori principali sono:"},
-{"ul": [
-"Reputazione della regione, della denominazione e del produttore: i nomi famosi spuntano prezzi più alti.",
-"Scarsità: la produzione limitata di un vigneto rinomato non può crescere per seguire la domanda.",
-"Qualità dell'annata e punteggi della critica, che possono muovere molto i prezzi dei grandi vini.",
-"Forza del marchio: un marchio noto può costare più di un vino simile senza marchio.",
-"Mode e gusti dei consumatori, per esempio la richiesta di certi vitigni o stili.",
-"Tassi di cambio e dazi, che cambiano il prezzo del vino importato."
-]},
-{"h3": "Grandi vini, en primeur e mercato secondario"},
-{"p": "Alcuni grandi vini, in particolare i migliori Bordeaux, si vendono en primeur: chi compra paga il vino nella primavera successiva alla vendemmia, quando è ancora in botte, e riceve le bottiglie più tardi. Gli châteaux vendono tramite mediatori e négociant, distribuendo il rischio e incassando in anticipo. Dopo l'uscita, i grandi vini possono essere rivenduti sul mercato secondario e all'asta, dove il prezzo dipende da provenienza, condizioni di conservazione e domanda. Per i vini più ricercati il prezzo può superare di gran lunga il costo di produzione."},
-{"h2": "Come ripassare prezzo e commercio in 15 minuti al giorno"},
-{"ul": [
-"Disegna il percorso dal produttore al consumatore come diagramma e indica costi e margini aggiunti a ogni passaggio.",
-"Scrivi una frase per tenuta, cooperativa e commerciante: definizione, vantaggio, svantaggio.",
-"Spiega in due frasi perché un'accisa fissa rende poco conveniente il vino molto economico.",
-"Scegli due vini a prezzi molto diversi ed elenca le ragioni di costo e di mercato della differenza.",
-"Rispondi a una serie di domande su prezzo e commercio nell'app e riscrivi ogni errore con parole tue."
-]},
-{"tip": "Errore frequente: spiegare il prezzo solo con i costi di produzione. Per i vini di pregio contano di più i fattori di mercato. Una risposta completa al WSET 3 dà almeno una ragione di costo e una ragione di domanda."}
-],
-"faq": [
-["Perché spendere di più per una bottiglia conviene spesso, per il WSET 3?", "Molti costi sono fissi per bottiglia: l'accisa nei mercati che tassano a volume, il vetro, il tappo, il trasporto e la movimentazione. Pesano allo stesso modo su una bottiglia economica e su una più cara, quindi nelle bottiglie più economiche solo una piccola parte del prezzo paga il vino. Salendo di prezzo quella quota cresce in fretta: per questo un aumento moderato può comprare un vino molto migliore."],
-["Che cosa significa en primeur per il WSET Livello 3?", "En primeur è un modo di vendere i grandi vini, soprattutto i migliori Bordeaux, prima dell'imbottigliamento. Chi compra paga nella primavera dopo la vendemmia, quando il vino è ancora in botte, e riceve le bottiglie più tardi. Lo château incassa in anticipo e divide il rischio con il commercio, mentre chi compra spera di assicurarsi vini rari a un prezzo inferiore a quello dopo l'uscita."],
-["Qual è il ruolo dell'importatore nel commercio del vino per il WSET 3?", "L'importatore acquista vino da produttori esteri, organizza la spedizione, gestisce le pratiche doganali e paga le accise quando il vino viene messo in vendita. Spesso si occupa anche del marketing e rivende a distributori, negozi e ristoranti. Ogni passaggio aggiunge costi e margine, ed è uno dei motivi per cui il prezzo a scaffale di un vino importato è molto superiore al prezzo franco cantina."],
-["Perché i grandi marchi di vino sono spesso prodotti da commercianti per il WSET Livello 3?", "Un marchio ha bisogno di uno stile costante e di grandi volumi ogni anno. Il commerciante può acquistare uve, mosto o vino da molti viticoltori e regioni e assemblarli, attenuando le differenze tra vigneti e annate. Una tenuta è limitata alle proprie uve e in un'annata difficile ha meno margini di assemblaggio. I grandi marchi godono inoltre di economie di scala in vinificazione, confezionamento e marketing."],
-["Come influisce la grande distribuzione sui prezzi del vino per il WSET 3?", "I supermercati vendono grandi volumi e hanno un forte potere d'acquisto, quindi ottengono prezzi bassi dai produttori e fanno promozioni frequenti. Questo favorisce i grandi produttori e i marchi capaci di fornire vino costante in grandi quantità a un basso costo per bottiglia. I piccoli produttori preferiscono spesso enoteche, ristoranti o vendita diretta, dove consiglio e racconto sostengono prezzi più alti."]
-]
-},
-"fr": {
-"sections": [
-{"h2": "Fiches de révision : prix et commerce du vin pour le WSET niveau 3"},
-{"p": "Les questions du WSET niveau 3 sur le prix du vin demandent pourquoi une bouteille coûte cinq fois plus qu'une autre. La réponse associe toujours deux aspects : ce que coûtent la production et l'acheminement du vin, et ce que le marché est prêt à payer. Ces fiches expliquent les coûts à la vigne et au chai, les entreprises qui produisent et vendent le vin, le circuit du producteur au consommateur et les facteurs qui font monter ou baisser les prix, pour répondre aux QCM comme aux questions rédigées sur le commerce du vin."},
-{"h2": "Coûts de production : de la vigne à la bouteille"},
-{"h3": "Coûts à la vigne"},
-{"p": "Le foncier est le premier coût, et il varie énormément : un hectare dans une appellation célèbre peut valoir bien plus qu'un hectare dans une région peu connue. Planter une vigne coûte cher et ne rapporte rien les premières années, car une récolte commerciale n'arrive en général qu'à partir de la troisième année. Une fois la vigne en production, la main-d'œuvre est le plus souvent le premier poste de dépense. Les vignes plates et accessibles peuvent être mécanisées pour la taille, les traitements et la vendange, ce qui réduit les coûts ; les coteaux escarpés, les terrasses et les gobelets exigent un travail manuel bien plus cher à l'hectare. Les faibles rendements augmentent aussi le coût de chaque bouteille, car les coûts fixes de la vigne se répartissent sur moins de vin."},
-{"h3": "Coûts au chai"},
-{"p": "Les équipements comme les pressoirs, les cuves thermorégulées et les chaînes d'embouteillage représentent un gros investissement. Les barriques neuves comptent parmi les choix les plus coûteux, et elles n'apportent un boisé marqué que pendant un nombre limité d'utilisations ; les alternatives comme les douelles et les copeaux donnent un goût boisé pour bien moins cher. Le temps est aussi un coût : un vin gardé des mois ou des années en fût ou en bouteille immobilise de l'argent, de l'espace et un stock qu'on ne peut pas encore vendre."},
-{"h3": "Conditionnement et transport"},
-{"p": "Verre, bouchons, étiquettes et cartons ajoutent un coût fixe à chaque bouteille, ce qui pèse lourd sur les vins bon marché. Les bouteilles lourdes du haut de gamme coûtent plus à l'achat et au transport. Les grands producteurs peuvent réduire les coûts en expédiant le vin en vrac et en le mettant en bouteille dans le pays de destination, même si la réglementation locale ne le permet pas toujours. Le transport maritime coûte peu par bouteille ; l'avion est rarement utilisé pour le vin."},
-{"table": {"head": ["Poste de coût", "Effet sur le prix", "Exemple typique"], "rows": [
-["Foncier cher dans une région célèbre", "Coût fixe élevé par bouteille", "Grands terroirs de Bourgogne ou de Napa"],
-["Coteaux escarpés et travail manuel", "Main-d'œuvre chère à l'hectare", "Moselle, terrasses du Douro, Côte-Rôtie"],
-["Faibles rendements", "Coûts fixes sur moins de bouteilles", "Vieilles vignes, domaines axés sur la qualité"],
-["Bois neuf et long élevage", "Prix des fûts plus capital immobilisé", "Grands bordeaux rouges, Rioja Gran Reserva"],
-["Mécanisation et rendements élevés", "Coût par bouteille plus faible", "Grands vignobles de plaine pour des marques bon marché"]
-]}},
-{"h2": "Qui produit et qui vend le vin"},
-{"p": "Les entreprises du vin relèvent de trois grands modèles. Les domaines cultivent leurs propres raisins, vinifient et mettent en bouteille leur vin, avec un contrôle maximal. Les caves coopératives appartiennent à leurs adhérents, qui apportent leurs raisins pour partager équipements, vinification et commercialisation ; elles sont très répandues en Europe, où les exploitations sont petites, et beaucoup ont progressé en payant le raisin selon sa qualité et non au seul poids. Les négociants achètent raisins, moûts ou vins finis à des vignerons et à des coopératives, souvent par contrats pluriannuels, et peuvent assembler de nombreuses sources. Beaucoup de grandes marques naissent ainsi, car l'assemblage de vignobles différents assure un produit régulier chaque année."},
-{"tip": "Technique d'examen : si l'on vous demande un avantage de chaque modèle, reliez-le à la qualité ou au prix. Domaine : maîtrise de chaque étape mais peu d'options d'assemblage dans un millésime difficile. Coopérative : coûts partagés pour les petits vignerons mais qualité dépendante des apports. Négoce : volumes et souplesse d'assemblage mais moins de contrôle à la vigne."},
-{"h2": "Les circuits de distribution : du producteur au consommateur"},
-{"p": "Une bouteille passe souvent par plusieurs entreprises avant d'arriver au consommateur, et chacune ajoute ses coûts et sa marge. Sur un marché d'export, le circuit type est le suivant :"},
-{"ol": [
-"Le producteur vend le vin au prix départ propriété.",
-"On ajoute le transport et l'assurance jusqu'au pays de destination.",
-"Un importateur fait entrer le vin, gère les formalités et paie les droits d'accise à la mise en vente.",
-"Un distributeur ou grossiste peut le revendre aux cavistes, restaurants et bars, en assurant souvent le stockage et la livraison sur place.",
-"Le détaillant (hors restauration) ou le restaurant (CHR) ajoute sa marge et la taxe sur les ventes avant que le consommateur ne paie."
-]},
-{"p": "La vente directe, au caveau, par clubs de vin, par correspondance ou en ligne, supprime les intermédiaires : le producteur garde une plus grande part du prix final, mais cela demande un effort commercial et touche en général moins de clients. La grande distribution achète de gros volumes et utilise son pouvoir de négociation pour obtenir des prix bas, ce qui favorise les grandes marques. Les cavistes offrent conseil et choix plus large à des prix plus élevés. Les restaurants vendent le même vin plus cher que les magasins, car le prix doit aussi couvrir le cadre, le service, la verrerie, le stockage et l'occasion."},
-{"h3": "Taxes et prix des vins bon marché"},
-{"p": "Les droits d'accise et la taxe sur les ventes, comme la TVA, peuvent représenter une grande partie du prix en rayon. Sur les marchés où l'accise est un montant fixe par bouteille ou par litre, elle prélève la même somme sur une bouteille bon marché que sur une bouteille chère. Résultat : la part du prix qui paie réellement le vin augmente vite quand le prix monte, et dépenser un peu plus permet souvent d'obtenir beaucoup plus de vin dans le verre. C'est un argument classique des réponses rédigées du WSET 3 sur les prix."},
-{"h2": "Ce que le marché est prêt à payer"},
-{"p": "Les coûts de production fixent un prix plancher, mais le prix de vente des vins haut de gamme dépend surtout de la demande. Les principaux facteurs sont :"},
-{"ul": [
-"La réputation de la région, de l'appellation et du producteur : les grands noms se vendent plus cher.",
-"La rareté : la petite production d'un vignoble réputé ne peut pas augmenter pour suivre la demande.",
-"La qualité du millésime et les notes des critiques, qui peuvent faire bouger fortement les prix des grands vins.",
-"La force de la marque : une marque connue peut se vendre plus cher qu'un vin équivalent sans marque.",
-"Les modes et l'évolution des goûts, par exemple l'engouement pour certains cépages ou styles.",
-"Les taux de change et les droits de douane, qui modifient le prix des vins importés."
-]},
-{"h3": "Grands vins, primeurs et marché secondaire"},
-{"p": "Certains grands vins, notamment les grands bordeaux, se vendent en primeur : l'acheteur paie le vin au printemps qui suit la vendange, quand il est encore en élevage en barrique, et reçoit les bouteilles plus tard. Les châteaux vendent par l'intermédiaire de courtiers et de négociants, ce qui répartit le risque et apporte de la trésorerie tôt. Une fois livrés, les grands vins peuvent être revendus sur le marché secondaire et aux enchères, où le prix dépend de la provenance, des conditions de stockage et de la demande. Pour les vins les plus recherchés, le prix peut dépasser de très loin le coût de production."},
-{"h2": "Comment réviser prix et commerce en 15 minutes par jour"},
-{"ul": [
-"Dessinez le circuit du producteur au consommateur sous forme de schéma et notez les coûts et marges ajoutés à chaque étape.",
-"Écrivez une phrase pour le domaine, la coopérative et le négoce : définition, avantage, inconvénient.",
-"Expliquez en deux phrases pourquoi une accise fixe rend les vins très bon marché peu intéressants.",
-"Choisissez deux vins à des prix très différents et listez les raisons de coût et de marché de l'écart.",
-"Faites une série de questions sur les prix et le commerce dans l'appli et reformulez chaque erreur avec vos mots."
-]},
-{"tip": "Erreur fréquente : expliquer le prix uniquement par les coûts de production. Pour les vins haut de gamme, les facteurs de marché comptent davantage. Une réponse complète au WSET 3 donne au moins une raison de coût et une raison de demande."}
-],
-"faq": [
-["Pourquoi dépenser plus pour une bouteille est-il souvent plus intéressant au WSET 3 ?", "Beaucoup de coûts sont fixes par bouteille : l'accise sur les marchés qui taxent au volume, le verre, le bouchon, le transport et la manutention. Ils pèsent autant sur une bouteille bon marché que sur une plus chère, si bien que dans les bouteilles les moins chères, seule une petite part du prix paie le vin. Quand le prix monte, cette part augmente vite : une hausse modérée peut donc acheter un bien meilleur vin."],
-["Que signifie vente en primeur pour le WSET niveau 3 ?", "La vente en primeur est une façon de vendre les grands vins, surtout les grands bordeaux, avant leur mise en bouteille. L'acheteur paie au printemps suivant la vendange, quand le vin est encore en barrique, et reçoit les bouteilles plus tard. Le château encaisse tôt et partage le risque avec le négoce, tandis que l'acheteur espère obtenir des vins rares moins cher qu'après leur sortie."],
-["Quel est le rôle de l'importateur dans le commerce du vin au WSET 3 ?", "L'importateur achète du vin à des producteurs étrangers, organise l'expédition, gère les formalités douanières et paie les droits d'accise à la mise en vente. Il assure souvent aussi la promotion et revend aux distributeurs, cavistes et restaurants. Chaque étape ajoute des coûts et une marge, ce qui explique en partie pourquoi le prix en rayon d'un vin importé dépasse largement son prix départ propriété."],
-["Pourquoi les grandes marques de vin sont-elles souvent produites par des négociants au WSET niveau 3 ?", "Une marque a besoin d'un style régulier et de gros volumes chaque année. Le négociant peut acheter raisins, moûts ou vins à de nombreux vignerons et régions et les assembler, ce qui gomme les différences entre parcelles et millésimes. Un domaine est limité à ses propres raisins et dispose de moins d'options d'assemblage dans une année difficile. Les grandes marques profitent aussi d'économies d'échelle en vinification, conditionnement et marketing."],
-["Quel est l'effet de la grande distribution sur le prix du vin au WSET 3 ?", "Les supermarchés vendent de gros volumes et disposent d'un fort pouvoir d'achat : ils obtiennent des prix bas des producteurs et multiplient les promotions. Cela favorise les grands producteurs et les marques capables de livrer un vin régulier en grande quantité à faible coût par bouteille. Les petits producteurs préfèrent souvent les cavistes, la restauration ou la vente directe, où le conseil et l'histoire du domaine justifient des prix plus élevés."]
-]
-},
-"es": {
-"sections": [
-{"h2": "Apuntes de estudio: precio y comercio del vino para el WSET nivel 3"},
-{"p": "Las preguntas del WSET nivel 3 sobre el precio del vino plantean por qué una botella cuesta cinco veces más que otra. La respuesta siempre combina dos lados: lo que cuesta producir y hacer llegar el vino, y lo que el mercado está dispuesto a pagar. Estos apuntes explican los costes en el viñedo y en la bodega, las empresas que elaboran y venden vino, el camino del productor al consumidor y los factores que suben o bajan los precios, para responder tanto a las preguntas tipo test como a las de respuesta escrita sobre el comercio del vino."},
-{"h2": "Costes de producción: del viñedo a la botella"},
-{"h3": "Costes en el viñedo"},
-{"p": "La tierra es el primer coste y varía muchísimo: una hectárea en una denominación famosa puede costar muchas veces más que otra en una zona poco conocida. Plantar un viñedo es caro y no da rendimiento los primeros años, porque una cosecha comercial no suele llegar hasta el tercer año. Con el viñedo en producción, la mano de obra es por lo general el mayor gasto. Los viñedos llanos y accesibles se pueden mecanizar para la poda, los tratamientos y la vendimia, lo que reduce costes; las laderas empinadas, las terrazas y los vasos exigen trabajo manual y cuestan mucho más por hectárea. Los rendimientos bajos también encarecen cada botella, porque los costes fijos del viñedo se reparten entre menos vino."},
-{"h3": "Costes en bodega"},
-{"p": "Equipos como prensas, depósitos con control de temperatura y líneas de embotellado suponen una gran inversión. Las barricas nuevas están entre las decisiones más caras de quien elabora, y solo aportan un roble marcado durante un número limitado de usos; las alternativas como duelas y virutas dan sabor a madera por mucho menos dinero. El tiempo también es un coste: el vino que pasa meses o años en barrica o en botella inmoviliza dinero, espacio y un stock que aún no se puede vender."},
-{"h3": "Envasado y transporte"},
-{"p": "Vidrio, tapones, etiquetas y cajas añaden un coste fijo a cada botella, que pesa mucho en los vinos baratos. Las botellas pesadas de gama alta cuestan más de comprar y de transportar. Los grandes productores pueden ahorrar enviando el vino a granel en contenedores y embotellándolo en el país de destino, aunque la normativa local no siempre lo permite. El transporte marítimo es barato por botella; el aéreo casi no se usa para el vino."},
-{"table": {"head": ["Factor de coste", "Efecto en el precio", "Ejemplo típico"], "rows": [
-["Tierra cara en una región famosa", "Coste fijo alto por botella", "Grandes viñedos de Borgoña o de Napa"],
-["Laderas empinadas y trabajo manual", "Mano de obra cara por hectárea", "Mosela, terrazas del Duero portugués, Côte-Rôtie"],
-["Rendimientos bajos", "Costes fijos repartidos entre menos botellas", "Viñas viejas, bodegas centradas en la calidad"],
-["Roble nuevo y crianza larga", "Coste de barricas más capital inmovilizado", "Grandes tintos de Burdeos, Rioja Gran Reserva"],
-["Mecanización y rendimientos altos", "Menor coste por botella", "Grandes viñedos llanos para marcas económicas"]
-]}},
-{"h2": "Quién elabora y quién vende el vino"},
-{"p": "Las empresas del vino responden a tres grandes modelos. Las bodegas de propiedad o domaines cultivan su propia uva, elaboran y embotellan su vino, con el máximo control. Las cooperativas pertenecen a sus socios viticultores, que aportan la uva para compartir equipos, elaboración y comercialización; son muy comunes en Europa, donde las explotaciones son pequeñas, y muchas han mejorado la calidad pagando la uva según su calidad y no solo por kilo. Los negociantes compran uva, mosto o vino terminado a viticultores y cooperativas, a menudo con contratos plurianuales, y pueden mezclar muchas procedencias. Muchas grandes marcas se elaboran así, porque el ensamblaje de viñedos distintos asegura un producto constante cada año."},
-{"tip": "Técnica de examen: si te piden una ventaja de cada modelo, relaciónala con la calidad o el precio. Bodega de propiedad: control de cada paso pero pocas opciones de ensamblaje en una mala añada. Cooperativa: costes compartidos para pequeños viticultores pero calidad dependiente de la uva de los socios. Negociante: volumen y flexibilidad de ensamblaje pero menos control en el viñedo."},
-{"h2": "Canales de venta: del productor al consumidor"},
-{"p": "Una botella suele pasar por varias empresas antes de llegar al consumidor, y cada una añade sus costes y su margen. En un mercado de exportación, el recorrido típico es este:"},
-{"ol": [
-"El productor vende el vino a precio de salida de bodega.",
-"Se añaden el transporte y el seguro hasta el país de destino.",
-"Un importador introduce el vino, gestiona los trámites y paga los impuestos especiales cuando el vino sale a la venta.",
-"Un distribuidor o mayorista puede revenderlo a tiendas, restaurantes y bares, y a menudo se ocupa del almacenaje y la entrega local.",
-"El minorista (canal de alimentación y tiendas) o el restaurante (hostelería) añade su margen y el impuesto sobre las ventas antes de que pague el consumidor."
-]},
-{"p": "La venta directa, en la propia bodega, mediante clubes de vino, por correo o en línea, elimina intermediarios: el productor se queda con una parte mayor del precio final, pero exige esfuerzo comercial y suele llegar a menos clientes. Los supermercados compran grandes volúmenes y usan su poder de compra para negociar precios bajos, lo que favorece a las grandes marcas. Las tiendas especializadas ofrecen consejo y más variedad a precios más altos. Los restaurantes cobran más que las tiendas por el mismo vino porque el precio también cubre el local, el servicio, la cristalería, el almacenaje y la ocasión."},
-{"h3": "Impuestos y precio de los vinos baratos"},
-{"p": "Los impuestos especiales y el impuesto sobre las ventas, como el IVA, pueden suponer una parte grande del precio en el lineal. En los mercados donde el impuesto especial es una cantidad fija por botella o por litro, se lleva lo mismo de una botella barata que de una cara. Por eso la parte del precio que paga de verdad el vino crece deprisa cuando sube el precio: gastar un poco más suele dar mucho más vino en la copa. Es un argumento clásico en las respuestas escritas del WSET 3 sobre precios."},
-{"h2": "Lo que el mercado está dispuesto a pagar"},
-{"p": "Los costes de producción marcan un precio mínimo, pero el precio de venta de los vinos de gama alta depende sobre todo de la demanda. Los factores principales son:"},
-{"ul": [
-"La reputación de la región, la denominación y el productor: los nombres famosos se venden más caros.",
-"La escasez: la producción pequeña de un viñedo reputado no puede crecer para seguir la demanda.",
-"La calidad de la añada y las puntuaciones de la crítica, que pueden mover mucho los precios de los grandes vinos.",
-"La fuerza de la marca: una marca conocida puede costar más que un vino parecido sin marca.",
-"Las modas y los cambios de gusto, por ejemplo la demanda de ciertas variedades o estilos.",
-"Los tipos de cambio y los aranceles, que alteran el precio del vino importado."
-]},
-{"h3": "Grandes vinos, en primeur y mercado secundario"},
-{"p": "Algunos grandes vinos, sobre todo los mejores de Burdeos, se venden en primeur: quien compra paga el vino en la primavera siguiente a la vendimia, mientras aún está en barrica, y recibe las botellas más tarde. Los châteaux venden a través de corredores y negociantes, lo que reparte el riesgo y les da liquidez pronto. Una vez entregados, los grandes vinos pueden revenderse en el mercado secundario y en subastas, donde el precio depende de la procedencia, las condiciones de conservación y la demanda. En los vinos más buscados, el precio puede superar con creces el coste de producción."},
-{"h2": "Cómo repasar precio y comercio en 15 minutos al día"},
-{"ul": [
-"Dibuja el recorrido del productor al consumidor como diagrama y anota los costes y márgenes que se suman en cada paso.",
-"Escribe una frase para la bodega de propiedad, la cooperativa y el negociante: definición, ventaja, inconveniente.",
-"Explica en dos frases por qué un impuesto fijo hace que el vino muy barato salga poco rentable.",
-"Elige dos vinos de precios muy distintos y enumera las razones de coste y de mercado de la diferencia.",
-"Responde una serie de preguntas sobre precio y comercio en la app y reescribe cada fallo con tus palabras."
-]},
-{"tip": "Error frecuente: explicar el precio solo con los costes de producción. En los vinos de gama alta pesan más los factores de mercado. Una respuesta completa en el WSET 3 da al menos una razón de coste y una razón de demanda."}
-],
-"faq": [
-["¿Por qué gastar más en una botella suele compensar en el WSET 3?", "Muchos costes son fijos por botella: el impuesto especial en los mercados que gravan por volumen, el vidrio, el tapón, el transporte y la manipulación. Pesan lo mismo en una botella barata que en una más cara, así que en las más baratas solo una pequeña parte del precio paga el vino. Al subir el precio esa parte crece rápido, por eso un aumento moderado puede comprar un vino mucho mejor."],
-["¿Qué significa en primeur para el WSET nivel 3?", "En primeur es una forma de vender grandes vinos, sobre todo los mejores de Burdeos, antes de embotellarlos. Quien compra paga en la primavera siguiente a la vendimia, cuando el vino aún está en barrica, y recibe las botellas más tarde. El château cobra pronto y comparte el riesgo con el comercio, mientras que el comprador espera asegurarse vinos escasos a un precio menor que tras su salida."],
-["¿Qué papel tiene el importador en el comercio del vino en el WSET 3?", "El importador compra vino a productores extranjeros, organiza el envío, gestiona los trámites de aduana y paga los impuestos especiales cuando el vino sale a la venta. A menudo también se encarga del marketing y revende a distribuidores, tiendas y restaurantes. Cada paso añade costes y margen, y esa es una de las razones por las que el precio en tienda de un vino importado supera con mucho su precio de salida de bodega."],
-["¿Por qué las grandes marcas de vino suelen ser de negociantes en el WSET nivel 3?", "Una marca necesita un estilo constante y grandes volúmenes cada año. El negociante puede comprar uva, mosto o vino a muchos viticultores y regiones y ensamblarlos, suavizando las diferencias entre viñedos y añadas. Una bodega de propiedad está limitada a su propia uva y en un año difícil tiene menos margen de ensamblaje. Las grandes marcas se benefician además de economías de escala en elaboración, envasado y marketing."],
-["¿Cómo influyen los supermercados en el precio del vino en el WSET 3?", "Los supermercados venden grandes volúmenes y tienen mucho poder de compra, así que consiguen precios bajos de los productores y hacen promociones frecuentes. Esto favorece a los grandes productores y a las marcas capaces de suministrar vino constante en grandes cantidades a bajo coste por botella. Los pequeños productores suelen preferir tiendas especializadas, restaurantes o venta directa, donde el consejo y la historia de la bodega sostienen precios más altos."]
-]
-}
+ "en": {
+  "sections": [
+   {
+    "h2": "Study notes: wine pricing and the trade for WSET Level 3"
+   },
+   {
+    "p": "WSET Level 3 wine pricing questions ask why one bottle costs five times more than another. The answer always combines two sides: what it costs to produce and deliver the wine, and what the market is prepared to pay for it. These study notes explain the costs in the vineyard and winery, the businesses that make and sell wine, the route from producer to consumer, and the factors that push prices up or down, so you can answer both multiple-choice and short written questions on the wine trade."
+   },
+   {
+    "h2": "Production costs: from vineyard to bottle"
+   },
+   {
+    "h3": "Vineyard costs"
+   },
+   {
+    "p": "Land is the first cost, and it varies enormously: a hectare in a famous appellation can cost many times more than land in a lesser-known region. Planting a vineyard is expensive and gives no return for the first few years, because a commercial crop usually arrives only from the third year. Once a vineyard is established, labour is generally the largest cost. Flat, accessible vineyards can be mechanised for pruning, spraying and harvesting, which cuts costs; steep slopes, terraces and bush vines need hand work and cost much more per hectare. Low yields also raise the cost of each bottle, because the fixed costs of the vineyard are spread over less wine."
+   },
+   {
+    "h3": "Winery costs"
+   },
+   {
+    "p": "Equipment such as presses, temperature-controlled tanks and bottling lines is a major investment. New oak barrels are one of the most expensive choices a winemaker can make, and they can only give strong oak flavour for a limited number of uses; oak alternatives such as staves and chips give oak flavour much more cheaply. Time is a cost too: wine kept for months or years in barrel or bottle ties up money, storage space and stock that cannot yet be sold."
+   },
+   {
+    "h3": "Packaging and transport"
+   },
+   {
+    "p": "Glass, closures, labels and cartons add a fixed cost to every bottle, which weighs heavily on inexpensive wine. Heavy premium bottles cost more to buy and to ship. Large producers can cut costs by shipping wine in bulk containers and bottling it in the destination market, although local rules do not always permit this. Sea freight is cheap per bottle; air freight is rarely used for wine."
+   },
+   {
+    "table": {
+     "head": [
+      "Cost driver",
+      "Effect on price",
+      "Typical example"
+     ],
+     "rows": [
+      [
+       "Expensive land in a famous region",
+       "High fixed cost per bottle",
+       "Top Burgundy or Napa vineyards"
+      ],
+      [
+       "Steep slopes and hand work",
+       "High labour cost per hectare",
+       "Mosel, Douro terraces, Côte-Rôtie"
+      ],
+      [
+       "Low yields",
+       "Fixed costs spread over fewer bottles",
+       "Old vines, quality-driven estates"
+      ],
+      [
+       "New oak and long maturation",
+       "Barrel cost plus capital tied up",
+       "Premium red Bordeaux, Rioja Gran Reserva"
+      ],
+      [
+       "Mechanisation and high yields",
+       "Lower cost per bottle",
+       "Large flat vineyards producing inexpensive brands"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Who makes and sells the wine"
+   },
+   {
+    "p": "Wine businesses fall into three broad models. Estates (domaines) grow their own grapes and make and bottle their own wine, giving maximum control. Co-operatives are owned by their grower members, who pool grapes so they can share equipment, winemaking and marketing; they are very common in Europe where holdings are small, and many have improved quality by paying growers according to grape quality rather than weight alone. Merchants, or négociants, buy grapes, juice or finished wine from growers and co-operatives, often under long-term contracts, and can blend across many sources. Many large brands are made this way because blending from different vineyards gives a consistent product every year."
+   },
+   {
+    "tip": "Exam technique: when asked for an advantage of each business model, link it to quality or price. Estate: control of every step but limited blending options in a poor vintage. Co-operative: shared costs for small growers but quality depends on member grapes. Merchant: scale and blending flexibility but less control in the vineyard."
+   },
+   {
+    "h2": "Routes to market: from producer to consumer"
+   },
+   {
+    "p": "A bottle of wine often passes through several businesses before it reaches the consumer, and each one adds its own costs and margin. In an export market a typical route looks like this:"
+   },
+   {
+    "ol": [
+     "The producer sells the wine at the cellar-door or ex-cellar price.",
+     "Transport and insurance are added to move the wine to the destination country.",
+     "An importer brings the wine in, deals with paperwork and pays the duty when the wine is released for sale.",
+     "A distributor or wholesaler may sell it on to shops, restaurants and bars, often handling local storage and delivery.",
+     "The retailer (off-trade) or restaurant (on-trade) adds its margin and sales tax before the consumer pays."
+    ]
+   },
+   {
+    "p": "Direct-to-consumer sales, such as cellar-door sales, wine clubs, mail order and online shops, cut out intermediaries, so the producer keeps more of the final price, but they need marketing effort and usually reach fewer customers. Supermarkets buy large volumes and use their buying power to negotiate low prices, which suits big brands. Specialist wine shops offer advice and wider ranges at higher prices. Restaurants charge more than shops for the same wine because their price must also cover the setting, service, glassware, storage and the occasion."
+   },
+   {
+    "h3": "Taxes and the price of cheap wine"
+   },
+   {
+    "p": "Excise duty and sales tax (such as VAT) can make up a large part of the shelf price. In markets where duty is a fixed amount per bottle or per litre, it takes the same sum from an inexpensive bottle as from an expensive one. As a result, the share of the price that actually pays for the wine itself rises quickly as the bottle price goes up: spending a little more often buys much more wine value. This is a classic point in WSET 3 written answers on pricing."
+   },
+   {
+    "h2": "What the market will pay"
+   },
+   {
+    "p": "Production costs set a minimum price, but the selling price of premium wine is driven mainly by demand. Key factors include:"
+   },
+   {
+    "ul": [
+     "Reputation of the region, appellation and producer: famous names command higher prices.",
+     "Scarcity: small production from a limited, renowned vineyard cannot be increased to meet demand.",
+     "Vintage quality and critics' scores, which can move prices sharply for fine wine.",
+     "Brand strength: a well-known brand can charge more than a similar unbranded wine.",
+     "Fashion and changing consumer tastes, for example demand for particular grapes or styles.",
+     "Exchange rates and trade tariffs, which change the price of imported wine."
+    ]
+   },
+   {
+    "h3": "Fine wine, en primeur and the secondary market"
+   },
+   {
+    "p": "Some fine wines, especially top Bordeaux, are sold en primeur: buyers pay for the wine in the spring after the harvest while it is still maturing in barrel, and receive the bottles later. Châteaux sell through brokers and négociants, which spreads risk and brings in cash early. Once released, fine wines can be resold on the secondary market and at auction, where prices depend on provenance, storage conditions and demand. Prices for the most sought-after wines can rise far beyond their production cost."
+   },
+   {
+    "h2": "How to revise wine pricing in 15 minutes a day"
+   },
+   {
+    "ul": [
+     "Draw the route to market as a flow chart and add which costs and margins are added at each stage.",
+     "Write one sentence each for estate, co-operative and merchant: definition, advantage, disadvantage.",
+     "Explain in two sentences why fixed duty makes cheap wine poor value.",
+     "Pick two wines at very different prices and list the cost and market reasons for the gap.",
+     "Answer a set of pricing and trade questions in the app and rewrite each wrong answer in your own words."
+    ]
+   },
+   {
+    "tip": "Common mistake: explaining price with production costs only. For premium and fine wine, the market factors usually matter more. A full WSET 3 answer gives at least one cost reason and one demand reason."
+   },
+   {
+    "h2": "Where the money goes: an inexpensive bottle versus a premium one"
+   },
+   {
+    "p": "A useful way to answer pricing questions is to split the shelf price into its components and ask how each one changes as the price rises. Several costs are roughly fixed per bottle, so their weight changes dramatically between price levels."
+   },
+   {
+    "table": {
+     "head": [
+      "Component",
+      "Inexpensive bottle",
+      "Premium bottle"
+     ],
+     "rows": [
+      [
+       "The wine itself",
+       "A small share of the shelf price",
+       "The largest share of the shelf price"
+      ],
+      [
+       "Glass, closure, label, carton",
+       "A significant share",
+       "A small share, even with a heavier bottle"
+      ],
+      [
+       "Duty charged per bottle or per litre",
+       "A large share",
+       "A small share, because the amount is the same"
+      ],
+      [
+       "Transport and logistics",
+       "Noticeable, partly reduced by bulk shipping",
+       "Minor"
+      ],
+      [
+       "Margins of importer, distributor and retailer",
+       "Thin per bottle, earned on high volumes",
+       "Higher per bottle, on smaller volumes"
+      ],
+      [
+       "Marketing and brand building",
+       "Spread over very large volumes for big brands",
+       "Often reputation-led rather than advertising-led"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "This is why a written answer on value for money should explain the mechanism, not just state that dearer wine is better: as the shelf price rises, the fixed elements shrink as a proportion, so a much larger part of what the consumer pays goes into the wine."
+   },
+   {
+    "h2": "Supply shocks and vintage variation"
+   },
+   {
+    "p": "Supply changes from year to year, and price follows. Spring frost, hail, drought or poor flowering can cut yields sharply, and for a region with strong demand a small harvest pushes prices up. A very large harvest has the opposite effect, especially on wine sold in bulk, where surpluses quickly lower prices. Supply also responds slowly: a newly planted vineyard gives no commercial crop for about three years, and premium wines may need further years of maturation, so a sudden rise in demand cannot be met quickly. Scarcity is permanent for wines from small, famous vineyards whose boundaries cannot grow."
+   },
+   {
+    "h2": "Brands, retailer own labels and marketing"
+   },
+   {
+    "p": "Building a brand costs money, through advertising, promotions, sponsorship and listing in shops, and that cost is recovered in the price. In return, a strong brand gives consumers confidence and lets the owner charge more than for a similar unbranded wine. Large retailers also sell wines under their own labels: they source the wine from producers or merchants, often to a precise specification, and control both the price and the margin. For producers this can mean large, secure volumes but less control over how their wine is presented and priced."
+   },
+   {
+    "h2": "A sample written answer"
+   },
+   {
+    "p": "Question: explain why a Cabernet Sauvignon from a small hillside estate in a famous region costs much more than one from a large, flat, irrigated vineyard. Answer: on the cost side, land in a famous region is expensive; slopes prevent mechanisation, so pruning and harvesting are done by hand; yields are lower, so fixed costs are spread over fewer bottles; and the premium wine is usually matured in new oak and aged before release, tying up capital. The flat vineyard can be machine harvested, gives high yields and may use oak alternatives. On the market side, the famous region and the estate's reputation create demand, production is limited, and critics' scores can raise prices further, while the volume wine competes on price in supermarkets."
+   },
+   {
+    "tip": "Common mistakes: giving only cost reasons for an expensive wine, forgetting that fixed duty affects cheap wine most, and describing the route to market without saying that each stage adds its own costs and margin."
+   }
+  ],
+  "faq": [
+   [
+    "Why does spending more on a bottle often give better value for WSET 3?",
+    "Many costs are fixed per bottle, including excise duty in markets that tax by volume, glass, closure, transport and handling. These take the same amount from a cheap bottle as from a dearer one, so in the cheapest bottles only a small share of the price pays for the wine itself. As the price rises, that share grows quickly, which is why a moderate increase can buy much better wine."
+   ],
+   [
+    "What does en primeur mean for WSET Level 3?",
+    "En primeur is a way of selling fine wine, especially top Bordeaux, before it is bottled. Buyers pay in the spring after the vintage while the wine is still in barrel, and the bottles are delivered later. The château receives cash early and shares the risk with the trade, while buyers hope to secure scarce wines at a lower price than after release."
+   ],
+   [
+    "What is the role of an importer in the wine trade for WSET 3?",
+    "An importer buys wine from producers abroad, arranges shipping, handles customs paperwork and pays duty when the wine is released for sale. Importers often also market the wine and sell it to distributors, retailers and restaurants. Each step adds costs and margin, which is one reason why the shelf price of an imported wine is far higher than its ex-cellar price."
+   ],
+   [
+    "Why are big wine brands usually made by merchants for WSET Level 3?",
+    "Brands need a consistent style and large volumes every year. Merchants can buy grapes, juice or wine from many growers and regions and blend them, smoothing out differences between vineyards and vintages. An estate is limited to its own grapes, so in a difficult year it has fewer blending options. Large brands also benefit from economies of scale in winemaking, packaging and marketing."
+   ],
+   [
+    "How do supermarkets affect wine prices for WSET 3?",
+    "Supermarkets sell large volumes and have strong buying power, so they can negotiate low prices from producers and use frequent promotions. This favours large producers and brands that can supply consistent wine in big quantities at a low cost per bottle. Smaller producers often prefer specialist shops, restaurants or direct sales, where advice and storytelling support higher prices."
+   ],
+   [
+    "Why does fixed duty make inexpensive wine poor value for WSET 3?",
+    "When duty is charged as a fixed amount per bottle or per litre, it takes the same sum from an inexpensive bottle as from an expensive one. Together with packaging, transport and margins, it can account for most of the price of a cheap bottle, leaving little for the wine itself. As the price rises, these fixed elements become a smaller proportion, so more of the money pays for the wine."
+   ],
+   [
+    "How do frost and hail affect wine prices?",
+    "Frost, hail, drought or poor flowering reduce the quantity of grapes harvested. For regions where demand is strong, a smaller supply usually pushes prices up, sometimes for several vintages. Because new vineyards take about three years to produce a commercial crop, supply cannot be increased quickly. A very large harvest has the opposite effect, particularly for wine sold in bulk."
+   ],
+   [
+    "What is a retailer own-label wine?",
+    "It is a wine sold under a brand that belongs to the retailer, such as a supermarket, rather than to the producer. The retailer sources the wine from producers or merchants, often to a detailed specification, and controls the price and the margin. Producers gain large, secure orders but give up control over branding and pricing. These wines compete mainly on value at accessible price levels."
+   ],
+   [
+    "Why are some wines expensive even when production costs are moderate?",
+    "For premium and fine wine, demand rather than cost sets the price. Reputation of the region and producer, limited production from famous vineyards, critics' scores, vintage quality and strong brands can push prices far above the cost of making the wine. On the secondary market, provenance and storage conditions also matter. A complete exam answer combines cost reasons with these market reasons."
+   ]
+  ]
+ },
+ "it": {
+  "sections": [
+   {
+    "h2": "Appunti di studio: prezzo e commercio del vino per il WSET Livello 3"
+   },
+   {
+    "p": "Le domande del WSET Livello 3 sul prezzo del vino chiedono perché una bottiglia costi cinque volte più di un'altra. La risposta unisce sempre due lati: quanto costa produrre e consegnare il vino e quanto il mercato è disposto a pagarlo. Questi appunti spiegano i costi in vigna e in cantina, le aziende che producono e vendono vino, il percorso dal produttore al consumatore e i fattori che spingono i prezzi in alto o in basso, per rispondere sia alle domande a scelta multipla sia a quelle scritte sul commercio del vino."
+   },
+   {
+    "h2": "Costi di produzione: dalla vigna alla bottiglia"
+   },
+   {
+    "h3": "Costi in vigna"
+   },
+   {
+    "p": "Il terreno è il primo costo e varia moltissimo: un ettaro in una denominazione famosa può costare molte volte più di uno in una zona poco nota. Impiantare un vigneto è caro e non rende nulla per i primi anni, perché un raccolto commerciale arriva di solito solo dal terzo anno. Una volta in produzione, la manodopera è in genere la voce più pesante. I vigneti pianeggianti e accessibili si possono meccanizzare per potatura, trattamenti e vendemmia, abbassando i costi; pendii ripidi, terrazze e alberelli richiedono lavoro manuale e costano molto di più per ettaro. Anche le rese basse aumentano il costo per bottiglia, perché i costi fissi del vigneto si distribuiscono su meno vino."
+   },
+   {
+    "h3": "Costi in cantina"
+   },
+   {
+    "p": "Attrezzature come presse, vasche termocondizionate e linee di imbottigliamento sono un grosso investimento. Le barrique nuove sono tra le scelte più costose per chi fa vino e danno un aroma di rovere marcato solo per un numero limitato di utilizzi; le alternative come doghe e chips danno sapore di legno a un costo molto inferiore. Anche il tempo è un costo: il vino tenuto mesi o anni in botte o in bottiglia immobilizza denaro, spazio e scorte che non si possono ancora vendere."
+   },
+   {
+    "h3": "Confezionamento e trasporto"
+   },
+   {
+    "p": "Vetro, tappi, etichette e cartoni aggiungono un costo fisso a ogni bottiglia, che pesa molto sui vini economici. Le bottiglie pesanti di fascia alta costano di più all'acquisto e alla spedizione. I grandi produttori possono risparmiare spedendo il vino sfuso in container e imbottigliandolo nel paese di destinazione, anche se le norme locali non sempre lo consentono. Il trasporto via mare costa poco per bottiglia; quello aereo si usa raramente per il vino."
+   },
+   {
+    "table": {
+     "head": [
+      "Voce di costo",
+      "Effetto sul prezzo",
+      "Esempio tipico"
+     ],
+     "rows": [
+      [
+       "Terreni cari in una zona famosa",
+       "Alto costo fisso per bottiglia",
+       "Grandi vigneti di Borgogna o della Napa Valley"
+      ],
+      [
+       "Pendii ripidi e lavoro manuale",
+       "Alto costo di manodopera per ettaro",
+       "Mosella, terrazze del Douro, Côte-Rôtie"
+      ],
+      [
+       "Rese basse",
+       "Costi fissi su meno bottiglie",
+       "Vigne vecchie, aziende orientate alla qualità"
+      ],
+      [
+       "Rovere nuovo e lungo affinamento",
+       "Costo delle botti più capitale immobilizzato",
+       "Grandi rossi di Bordeaux, Rioja Gran Reserva"
+      ],
+      [
+       "Meccanizzazione e rese alte",
+       "Costo per bottiglia più basso",
+       "Grandi vigneti pianeggianti per marchi economici"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Chi produce e chi vende il vino"
+   },
+   {
+    "p": "Le aziende vinicole rientrano in tre grandi modelli. Le aziende agricole (domaine, tenute) coltivano le proprie uve e vinificano e imbottigliano il proprio vino, con il massimo controllo. Le cantine cooperative sono di proprietà dei soci viticoltori, che conferiscono le uve per condividere attrezzature, vinificazione e marketing; sono diffusissime in Europa, dove le proprietà sono piccole, e molte hanno migliorato la qualità pagando le uve in base alla qualità e non solo al peso. I commercianti, o négociant, comprano uve, mosto o vino finito da viticoltori e cooperative, spesso con contratti pluriennali, e possono assemblare da molte fonti. Molti grandi marchi nascono così, perché l'assemblaggio di vigneti diversi garantisce un prodotto costante ogni anno."
+   },
+   {
+    "tip": "Tecnica d'esame: se ti chiedono un vantaggio di ciascun modello, collegalo a qualità o prezzo. Tenuta: controllo di ogni fase ma poche possibilità di assemblaggio in un'annata difficile. Cooperativa: costi condivisi per i piccoli viticoltori ma qualità legata alle uve dei soci. Commerciante: volumi e flessibilità di assemblaggio ma meno controllo in vigna."
+   },
+   {
+    "h2": "I canali di vendita: dal produttore al consumatore"
+   },
+   {
+    "p": "Una bottiglia passa spesso per diverse aziende prima di arrivare al consumatore, e ognuna aggiunge costi e margine. Su un mercato d'esportazione il percorso tipico è questo:"
+   },
+   {
+    "ol": [
+     "Il produttore vende il vino al prezzo franco cantina.",
+     "Si aggiungono trasporto e assicurazione fino al paese di destinazione.",
+     "Un importatore introduce il vino, gestisce le pratiche e paga le accise quando il vino viene messo in vendita.",
+     "Un distributore o grossista può rivenderlo a negozi, ristoranti e bar, occupandosi spesso di magazzino e consegne locali.",
+     "Il rivenditore (off-trade) o il ristorante (on-trade) aggiunge il proprio margine e l'imposta sulle vendite prima che il consumatore paghi."
+    ]
+   },
+   {
+    "p": "La vendita diretta, cioè in cantina, tramite club del vino, per corrispondenza o online, elimina gli intermediari: il produttore trattiene una quota maggiore del prezzo finale, ma serve impegno di marketing e di solito si raggiungono meno clienti. La grande distribuzione compra grandi volumi e usa il proprio potere d'acquisto per ottenere prezzi bassi, il che favorisce i grandi marchi. Le enoteche offrono consiglio e assortimenti più ampi a prezzi più alti. I ristoranti fanno pagare lo stesso vino più dei negozi perché il prezzo deve coprire anche ambiente, servizio, bicchieri, conservazione e l'occasione."
+   },
+   {
+    "h3": "Tasse e prezzo dei vini economici"
+   },
+   {
+    "p": "Accise e imposte sulle vendite, come l'IVA, possono rappresentare una parte importante del prezzo a scaffale. Nei mercati in cui l'accisa è un importo fisso per bottiglia o per litro, essa pesa allo stesso modo su una bottiglia economica e su una cara. Di conseguenza, la quota del prezzo che paga davvero il vino cresce rapidamente quando sale il prezzo: spendere un po' di più spesso significa ottenere molto più valore nel bicchiere. È un punto classico nelle risposte scritte del WSET 3 sul prezzo."
+   },
+   {
+    "h2": "Quanto è disposto a pagare il mercato"
+   },
+   {
+    "p": "I costi di produzione fissano un prezzo minimo, ma il prezzo di vendita dei vini di pregio dipende soprattutto dalla domanda. I fattori principali sono:"
+   },
+   {
+    "ul": [
+     "Reputazione della regione, della denominazione e del produttore: i nomi famosi spuntano prezzi più alti.",
+     "Scarsità: la produzione limitata di un vigneto rinomato non può crescere per seguire la domanda.",
+     "Qualità dell'annata e punteggi della critica, che possono muovere molto i prezzi dei grandi vini.",
+     "Forza del marchio: un marchio noto può costare più di un vino simile senza marchio.",
+     "Mode e gusti dei consumatori, per esempio la richiesta di certi vitigni o stili.",
+     "Tassi di cambio e dazi, che cambiano il prezzo del vino importato."
+    ]
+   },
+   {
+    "h3": "Grandi vini, en primeur e mercato secondario"
+   },
+   {
+    "p": "Alcuni grandi vini, in particolare i migliori Bordeaux, si vendono en primeur: chi compra paga il vino nella primavera successiva alla vendemmia, quando è ancora in botte, e riceve le bottiglie più tardi. Gli châteaux vendono tramite mediatori e négociant, distribuendo il rischio e incassando in anticipo. Dopo l'uscita, i grandi vini possono essere rivenduti sul mercato secondario e all'asta, dove il prezzo dipende da provenienza, condizioni di conservazione e domanda. Per i vini più ricercati il prezzo può superare di gran lunga il costo di produzione."
+   },
+   {
+    "h2": "Come ripassare prezzo e commercio in 15 minuti al giorno"
+   },
+   {
+    "ul": [
+     "Disegna il percorso dal produttore al consumatore come diagramma e indica costi e margini aggiunti a ogni passaggio.",
+     "Scrivi una frase per tenuta, cooperativa e commerciante: definizione, vantaggio, svantaggio.",
+     "Spiega in due frasi perché un'accisa fissa rende poco conveniente il vino molto economico.",
+     "Scegli due vini a prezzi molto diversi ed elenca le ragioni di costo e di mercato della differenza.",
+     "Rispondi a una serie di domande su prezzo e commercio nell'app e riscrivi ogni errore con parole tue."
+    ]
+   },
+   {
+    "tip": "Errore frequente: spiegare il prezzo solo con i costi di produzione. Per i vini di pregio contano di più i fattori di mercato. Una risposta completa al WSET 3 dà almeno una ragione di costo e una ragione di domanda."
+   },
+   {
+    "h2": "Dove vanno i soldi: una bottiglia economica e una di alta gamma"
+   },
+   {
+    "p": "Un modo utile per rispondere alle domande sui prezzi è scomporre il prezzo a scaffale nelle sue componenti e chiedersi come cambia ciascuna quando il prezzo sale. Diversi costi sono più o meno fissi per bottiglia, quindi il loro peso cambia moltissimo tra una fascia di prezzo e l'altra."
+   },
+   {
+    "table": {
+     "head": [
+      "Componente",
+      "Bottiglia economica",
+      "Bottiglia di alta gamma"
+     ],
+     "rows": [
+      [
+       "Il vino in sé",
+       "Una piccola quota del prezzo a scaffale",
+       "La quota maggiore del prezzo a scaffale"
+      ],
+      [
+       "Vetro, chiusura, etichetta, cartone",
+       "Una quota significativa",
+       "Una quota piccola, anche con una bottiglia più pesante"
+      ],
+      [
+       "Accise calcolate per bottiglia o per litro",
+       "Una quota grande",
+       "Una quota piccola, perché l'importo è lo stesso"
+      ],
+      [
+       "Trasporto e logistica",
+       "Rilevante, in parte ridotta dalla spedizione sfusa",
+       "Marginale"
+      ],
+      [
+       "Margini di importatore, distributore e dettagliante",
+       "Sottili per bottiglia, guadagnati su grandi volumi",
+       "Più alti per bottiglia, su volumi minori"
+      ],
+      [
+       "Marketing e costruzione del marchio",
+       "Ripartiti su volumi enormi per i grandi marchi",
+       "Spesso guidati dalla reputazione più che dalla pubblicità"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Per questo una risposta scritta sul rapporto qualità-prezzo deve spiegare il meccanismo, non limitarsi a dire che il vino più caro è migliore: quando il prezzo a scaffale sale, gli elementi fissi pesano in proporzione sempre meno, quindi una parte molto più ampia di ciò che paga il consumatore va al vino."
+   },
+   {
+    "h2": "Shock di offerta e variabilità delle annate"
+   },
+   {
+    "p": "L'offerta cambia di anno in anno, e il prezzo la segue. Gelate primaverili, grandine, siccità o una cattiva fioritura possono ridurre fortemente le rese, e per una regione molto richiesta un raccolto scarso fa salire i prezzi. Un raccolto molto abbondante ha l'effetto opposto, soprattutto sul vino venduto sfuso, dove le eccedenze abbassano rapidamente i prezzi. L'offerta reagisce anche con lentezza: un vigneto appena piantato non dà un raccolto commerciale per circa tre anni, e i vini di alta gamma possono richiedere ulteriori anni di affinamento, quindi un aumento improvviso della domanda non può essere soddisfatto in fretta. Per i vini di vigneti piccoli e famosi, i cui confini non possono allargarsi, la scarsità è permanente."
+   },
+   {
+    "h2": "Marchi, etichette della distribuzione e marketing"
+   },
+   {
+    "p": "Costruire un marchio costa, tra pubblicità, promozioni, sponsorizzazioni e inserimento nei punti vendita, e quel costo si recupera nel prezzo. In cambio, un marchio forte dà fiducia ai consumatori e permette al proprietario di chiedere di più rispetto a un vino simile senza marchio. Le grandi catene vendono anche vini con la propria etichetta (marchio del distributore): si riforniscono da produttori o commercianti, spesso secondo un capitolato preciso, e controllano sia il prezzo sia il margine. Per i produttori questo può significare volumi grandi e sicuri, ma meno controllo su come il loro vino viene presentato e prezzato."
+   },
+   {
+    "h2": "Un esempio di risposta scritta"
+   },
+   {
+    "p": "Domanda: spiega perché un Cabernet Sauvignon di una piccola tenuta collinare in una regione famosa costa molto di più di uno proveniente da un grande vigneto pianeggiante e irrigato. Risposta: sul piano dei costi, la terra in una regione famosa è cara; i pendii impediscono la meccanizzazione, quindi potatura e vendemmia sono manuali; le rese sono più basse, quindi i costi fissi si distribuiscono su meno bottiglie; e il vino di alta gamma di solito affina in legno nuovo e invecchia prima dell'uscita, immobilizzando capitale. Il vigneto pianeggiante può essere vendemmiato a macchina, dà rese alte e può usare alternative al legno. Sul piano del mercato, la regione famosa e la reputazione della tenuta creano domanda, la produzione è limitata e i punteggi della critica possono alzare ancora i prezzi, mentre il vino di volume compete sul prezzo nella grande distribuzione."
+   },
+   {
+    "tip": "Errori frequenti: dare solo ragioni di costo per un vino caro, dimenticare che le accise fisse pesano soprattutto sul vino economico, e descrivere la filiera senza dire che ogni passaggio aggiunge i propri costi e il proprio margine."
+   }
+  ],
+  "faq": [
+   [
+    "Perché spendere di più per una bottiglia conviene spesso, per il WSET 3?",
+    "Molti costi sono fissi per bottiglia: l'accisa nei mercati che tassano a volume, il vetro, il tappo, il trasporto e la movimentazione. Pesano allo stesso modo su una bottiglia economica e su una più cara, quindi nelle bottiglie più economiche solo una piccola parte del prezzo paga il vino. Salendo di prezzo quella quota cresce in fretta: per questo un aumento moderato può comprare un vino molto migliore."
+   ],
+   [
+    "Che cosa significa en primeur per il WSET Livello 3?",
+    "En primeur è un modo di vendere i grandi vini, soprattutto i migliori Bordeaux, prima dell'imbottigliamento. Chi compra paga nella primavera dopo la vendemmia, quando il vino è ancora in botte, e riceve le bottiglie più tardi. Lo château incassa in anticipo e divide il rischio con il commercio, mentre chi compra spera di assicurarsi vini rari a un prezzo inferiore a quello dopo l'uscita."
+   ],
+   [
+    "Qual è il ruolo dell'importatore nel commercio del vino per il WSET 3?",
+    "L'importatore acquista vino da produttori esteri, organizza la spedizione, gestisce le pratiche doganali e paga le accise quando il vino viene messo in vendita. Spesso si occupa anche del marketing e rivende a distributori, negozi e ristoranti. Ogni passaggio aggiunge costi e margine, ed è uno dei motivi per cui il prezzo a scaffale di un vino importato è molto superiore al prezzo franco cantina."
+   ],
+   [
+    "Perché i grandi marchi di vino sono spesso prodotti da commercianti per il WSET Livello 3?",
+    "Un marchio ha bisogno di uno stile costante e di grandi volumi ogni anno. Il commerciante può acquistare uve, mosto o vino da molti viticoltori e regioni e assemblarli, attenuando le differenze tra vigneti e annate. Una tenuta è limitata alle proprie uve e in un'annata difficile ha meno margini di assemblaggio. I grandi marchi godono inoltre di economie di scala in vinificazione, confezionamento e marketing."
+   ],
+   [
+    "Come influisce la grande distribuzione sui prezzi del vino per il WSET 3?",
+    "I supermercati vendono grandi volumi e hanno un forte potere d'acquisto, quindi ottengono prezzi bassi dai produttori e fanno promozioni frequenti. Questo favorisce i grandi produttori e i marchi capaci di fornire vino costante in grandi quantità a un basso costo per bottiglia. I piccoli produttori preferiscono spesso enoteche, ristoranti o vendita diretta, dove consiglio e racconto sostengono prezzi più alti."
+   ],
+   [
+    "Perché le accise fisse rendono poco conveniente il vino economico per il WSET 3?",
+    "Quando l'accisa è un importo fisso per bottiglia o per litro, pesa allo stesso modo su una bottiglia economica e su una costosa. Insieme a confezione, trasporto e margini, può rappresentare la maggior parte del prezzo di una bottiglia economica, lasciando poco al vino vero e proprio. Quando il prezzo sale, questi elementi fissi diventano una quota minore, quindi una parte maggiore della spesa paga il vino."
+   ],
+   [
+    "Come incidono gelate e grandine sui prezzi del vino?",
+    "Gelate, grandine, siccità o una cattiva fioritura riducono la quantità di uva raccolta. Nelle regioni con una domanda forte, un'offerta minore di solito fa salire i prezzi, a volte per più annate. Poiché i nuovi vigneti impiegano circa tre anni per dare un raccolto commerciale, l'offerta non può aumentare in fretta. Un raccolto molto abbondante ha l'effetto opposto, in particolare per il vino venduto sfuso."
+   ],
+   [
+    "Che cos'è un vino a marchio del distributore?",
+    "È un vino venduto con un marchio che appartiene al distributore, per esempio un supermercato, e non al produttore. Il distributore si rifornisce da produttori o commercianti, spesso secondo un capitolato dettagliato, e controlla prezzo e margine. I produttori ottengono ordini grandi e sicuri, ma rinunciano al controllo su marchio e prezzo. Questi vini competono soprattutto sul rapporto qualità-prezzo nelle fasce accessibili."
+   ],
+   [
+    "Perché alcuni vini sono cari anche con costi di produzione moderati?",
+    "Per i vini di alta gamma e i fine wine è la domanda, più che il costo, a fissare il prezzo. La reputazione della regione e del produttore, la produzione limitata di vigneti famosi, i punteggi della critica, la qualità dell'annata e marchi forti possono spingere i prezzi ben oltre il costo di produzione. Sul mercato secondario contano anche provenienza e condizioni di conservazione. Una risposta d'esame completa unisce ragioni di costo e ragioni di mercato."
+   ]
+  ]
+ },
+ "fr": {
+  "sections": [
+   {
+    "h2": "Fiches de révision : prix et commerce du vin pour le WSET niveau 3"
+   },
+   {
+    "p": "Les questions du WSET niveau 3 sur le prix du vin demandent pourquoi une bouteille coûte cinq fois plus qu'une autre. La réponse associe toujours deux aspects : ce que coûtent la production et l'acheminement du vin, et ce que le marché est prêt à payer. Ces fiches expliquent les coûts à la vigne et au chai, les entreprises qui produisent et vendent le vin, le circuit du producteur au consommateur et les facteurs qui font monter ou baisser les prix, pour répondre aux QCM comme aux questions rédigées sur le commerce du vin."
+   },
+   {
+    "h2": "Coûts de production : de la vigne à la bouteille"
+   },
+   {
+    "h3": "Coûts à la vigne"
+   },
+   {
+    "p": "Le foncier est le premier coût, et il varie énormément : un hectare dans une appellation célèbre peut valoir bien plus qu'un hectare dans une région peu connue. Planter une vigne coûte cher et ne rapporte rien les premières années, car une récolte commerciale n'arrive en général qu'à partir de la troisième année. Une fois la vigne en production, la main-d'œuvre est le plus souvent le premier poste de dépense. Les vignes plates et accessibles peuvent être mécanisées pour la taille, les traitements et la vendange, ce qui réduit les coûts ; les coteaux escarpés, les terrasses et les gobelets exigent un travail manuel bien plus cher à l'hectare. Les faibles rendements augmentent aussi le coût de chaque bouteille, car les coûts fixes de la vigne se répartissent sur moins de vin."
+   },
+   {
+    "h3": "Coûts au chai"
+   },
+   {
+    "p": "Les équipements comme les pressoirs, les cuves thermorégulées et les chaînes d'embouteillage représentent un gros investissement. Les barriques neuves comptent parmi les choix les plus coûteux, et elles n'apportent un boisé marqué que pendant un nombre limité d'utilisations ; les alternatives comme les douelles et les copeaux donnent un goût boisé pour bien moins cher. Le temps est aussi un coût : un vin gardé des mois ou des années en fût ou en bouteille immobilise de l'argent, de l'espace et un stock qu'on ne peut pas encore vendre."
+   },
+   {
+    "h3": "Conditionnement et transport"
+   },
+   {
+    "p": "Verre, bouchons, étiquettes et cartons ajoutent un coût fixe à chaque bouteille, ce qui pèse lourd sur les vins bon marché. Les bouteilles lourdes du haut de gamme coûtent plus à l'achat et au transport. Les grands producteurs peuvent réduire les coûts en expédiant le vin en vrac et en le mettant en bouteille dans le pays de destination, même si la réglementation locale ne le permet pas toujours. Le transport maritime coûte peu par bouteille ; l'avion est rarement utilisé pour le vin."
+   },
+   {
+    "table": {
+     "head": [
+      "Poste de coût",
+      "Effet sur le prix",
+      "Exemple typique"
+     ],
+     "rows": [
+      [
+       "Foncier cher dans une région célèbre",
+       "Coût fixe élevé par bouteille",
+       "Grands terroirs de Bourgogne ou de Napa"
+      ],
+      [
+       "Coteaux escarpés et travail manuel",
+       "Main-d'œuvre chère à l'hectare",
+       "Moselle, terrasses du Douro, Côte-Rôtie"
+      ],
+      [
+       "Faibles rendements",
+       "Coûts fixes sur moins de bouteilles",
+       "Vieilles vignes, domaines axés sur la qualité"
+      ],
+      [
+       "Bois neuf et long élevage",
+       "Prix des fûts plus capital immobilisé",
+       "Grands bordeaux rouges, Rioja Gran Reserva"
+      ],
+      [
+       "Mécanisation et rendements élevés",
+       "Coût par bouteille plus faible",
+       "Grands vignobles de plaine pour des marques bon marché"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Qui produit et qui vend le vin"
+   },
+   {
+    "p": "Les entreprises du vin relèvent de trois grands modèles. Les domaines cultivent leurs propres raisins, vinifient et mettent en bouteille leur vin, avec un contrôle maximal. Les caves coopératives appartiennent à leurs adhérents, qui apportent leurs raisins pour partager équipements, vinification et commercialisation ; elles sont très répandues en Europe, où les exploitations sont petites, et beaucoup ont progressé en payant le raisin selon sa qualité et non au seul poids. Les négociants achètent raisins, moûts ou vins finis à des vignerons et à des coopératives, souvent par contrats pluriannuels, et peuvent assembler de nombreuses sources. Beaucoup de grandes marques naissent ainsi, car l'assemblage de vignobles différents assure un produit régulier chaque année."
+   },
+   {
+    "tip": "Technique d'examen : si l'on vous demande un avantage de chaque modèle, reliez-le à la qualité ou au prix. Domaine : maîtrise de chaque étape mais peu d'options d'assemblage dans un millésime difficile. Coopérative : coûts partagés pour les petits vignerons mais qualité dépendante des apports. Négoce : volumes et souplesse d'assemblage mais moins de contrôle à la vigne."
+   },
+   {
+    "h2": "Les circuits de distribution : du producteur au consommateur"
+   },
+   {
+    "p": "Une bouteille passe souvent par plusieurs entreprises avant d'arriver au consommateur, et chacune ajoute ses coûts et sa marge. Sur un marché d'export, le circuit type est le suivant :"
+   },
+   {
+    "ol": [
+     "Le producteur vend le vin au prix départ propriété.",
+     "On ajoute le transport et l'assurance jusqu'au pays de destination.",
+     "Un importateur fait entrer le vin, gère les formalités et paie les droits d'accise à la mise en vente.",
+     "Un distributeur ou grossiste peut le revendre aux cavistes, restaurants et bars, en assurant souvent le stockage et la livraison sur place.",
+     "Le détaillant (hors restauration) ou le restaurant (CHR) ajoute sa marge et la taxe sur les ventes avant que le consommateur ne paie."
+    ]
+   },
+   {
+    "p": "La vente directe, au caveau, par clubs de vin, par correspondance ou en ligne, supprime les intermédiaires : le producteur garde une plus grande part du prix final, mais cela demande un effort commercial et touche en général moins de clients. La grande distribution achète de gros volumes et utilise son pouvoir de négociation pour obtenir des prix bas, ce qui favorise les grandes marques. Les cavistes offrent conseil et choix plus large à des prix plus élevés. Les restaurants vendent le même vin plus cher que les magasins, car le prix doit aussi couvrir le cadre, le service, la verrerie, le stockage et l'occasion."
+   },
+   {
+    "h3": "Taxes et prix des vins bon marché"
+   },
+   {
+    "p": "Les droits d'accise et la taxe sur les ventes, comme la TVA, peuvent représenter une grande partie du prix en rayon. Sur les marchés où l'accise est un montant fixe par bouteille ou par litre, elle prélève la même somme sur une bouteille bon marché que sur une bouteille chère. Résultat : la part du prix qui paie réellement le vin augmente vite quand le prix monte, et dépenser un peu plus permet souvent d'obtenir beaucoup plus de vin dans le verre. C'est un argument classique des réponses rédigées du WSET 3 sur les prix."
+   },
+   {
+    "h2": "Ce que le marché est prêt à payer"
+   },
+   {
+    "p": "Les coûts de production fixent un prix plancher, mais le prix de vente des vins haut de gamme dépend surtout de la demande. Les principaux facteurs sont :"
+   },
+   {
+    "ul": [
+     "La réputation de la région, de l'appellation et du producteur : les grands noms se vendent plus cher.",
+     "La rareté : la petite production d'un vignoble réputé ne peut pas augmenter pour suivre la demande.",
+     "La qualité du millésime et les notes des critiques, qui peuvent faire bouger fortement les prix des grands vins.",
+     "La force de la marque : une marque connue peut se vendre plus cher qu'un vin équivalent sans marque.",
+     "Les modes et l'évolution des goûts, par exemple l'engouement pour certains cépages ou styles.",
+     "Les taux de change et les droits de douane, qui modifient le prix des vins importés."
+    ]
+   },
+   {
+    "h3": "Grands vins, primeurs et marché secondaire"
+   },
+   {
+    "p": "Certains grands vins, notamment les grands bordeaux, se vendent en primeur : l'acheteur paie le vin au printemps qui suit la vendange, quand il est encore en élevage en barrique, et reçoit les bouteilles plus tard. Les châteaux vendent par l'intermédiaire de courtiers et de négociants, ce qui répartit le risque et apporte de la trésorerie tôt. Une fois livrés, les grands vins peuvent être revendus sur le marché secondaire et aux enchères, où le prix dépend de la provenance, des conditions de stockage et de la demande. Pour les vins les plus recherchés, le prix peut dépasser de très loin le coût de production."
+   },
+   {
+    "h2": "Comment réviser prix et commerce en 15 minutes par jour"
+   },
+   {
+    "ul": [
+     "Dessinez le circuit du producteur au consommateur sous forme de schéma et notez les coûts et marges ajoutés à chaque étape.",
+     "Écrivez une phrase pour le domaine, la coopérative et le négoce : définition, avantage, inconvénient.",
+     "Expliquez en deux phrases pourquoi une accise fixe rend les vins très bon marché peu intéressants.",
+     "Choisissez deux vins à des prix très différents et listez les raisons de coût et de marché de l'écart.",
+     "Faites une série de questions sur les prix et le commerce dans l'appli et reformulez chaque erreur avec vos mots."
+    ]
+   },
+   {
+    "tip": "Erreur fréquente : expliquer le prix uniquement par les coûts de production. Pour les vins haut de gamme, les facteurs de marché comptent davantage. Une réponse complète au WSET 3 donne au moins une raison de coût et une raison de demande."
+   },
+   {
+    "h2": "Où va l'argent : une bouteille d'entrée de gamme face à une bouteille haut de gamme"
+   },
+   {
+    "p": "Une bonne façon de répondre aux questions sur les prix consiste à décomposer le prix en rayon et à se demander comment chaque élément évolue quand le prix monte. Plusieurs coûts sont à peu près fixes par bouteille, donc leur poids change énormément d'un niveau de prix à l'autre."
+   },
+   {
+    "table": {
+     "head": [
+      "Élément",
+      "Bouteille d'entrée de gamme",
+      "Bouteille haut de gamme"
+     ],
+     "rows": [
+      [
+       "Le vin lui-même",
+       "Une petite part du prix en rayon",
+       "La plus grande part du prix en rayon"
+      ],
+      [
+       "Verre, bouchage, étiquette, carton",
+       "Une part importante",
+       "Une petite part, même avec une bouteille plus lourde"
+      ],
+      [
+       "Droits d'accises par bouteille ou par litre",
+       "Une grande part",
+       "Une petite part, car le montant est le même"
+      ],
+      [
+       "Transport et logistique",
+       "Sensible, en partie réduit par le transport en vrac",
+       "Mineur"
+      ],
+      [
+       "Marges de l'importateur, du distributeur et du détaillant",
+       "Faibles par bouteille, gagnées sur de gros volumes",
+       "Plus élevées par bouteille, sur de plus petits volumes"
+      ],
+      [
+       "Marketing et construction de la marque",
+       "Répartis sur des volumes énormes pour les grandes marques",
+       "Souvent portés par la réputation plutôt que par la publicité"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "C'est pourquoi une réponse rédigée sur le rapport qualité-prix doit expliquer le mécanisme, et pas seulement affirmer qu'un vin plus cher est meilleur : quand le prix en rayon augmente, les éléments fixes pèsent proportionnellement moins, donc une part bien plus grande de ce que paie le consommateur va au vin."
+   },
+   {
+    "h2": "Chocs d'offre et variations des millésimes"
+   },
+   {
+    "p": "L'offre change d'une année à l'autre, et le prix suit. Gel de printemps, grêle, sécheresse ou mauvaise floraison peuvent réduire fortement les rendements et, pour une région très demandée, une petite récolte fait monter les prix. Une très grosse récolte produit l'effet inverse, surtout pour le vin vendu en vrac, où les excédents font vite baisser les prix. L'offre réagit aussi lentement : une vigne nouvellement plantée ne donne pas de récolte commerciale avant environ trois ans, et les vins haut de gamme peuvent exiger encore des années d'élevage, donc une hausse soudaine de la demande ne peut pas être satisfaite rapidement. Pour les vins issus de petits vignobles célèbres, dont les limites ne peuvent pas s'étendre, la rareté est permanente."
+   },
+   {
+    "h2": "Marques, marques de distributeur et marketing"
+   },
+   {
+    "p": "Construire une marque coûte cher, entre publicité, promotions, parrainages et référencement en magasin, et ce coût se retrouve dans le prix. En échange, une marque forte rassure le consommateur et permet à son propriétaire de vendre plus cher qu'un vin comparable sans marque. Les grands distributeurs vendent aussi des vins sous leur propre marque (marque de distributeur) : ils s'approvisionnent auprès de producteurs ou de négociants, souvent selon un cahier des charges précis, et maîtrisent à la fois le prix et la marge. Pour les producteurs, cela peut signifier des volumes importants et sûrs, mais moins de contrôle sur la présentation et le prix de leur vin."
+   },
+   {
+    "h2": "Un exemple de réponse rédigée"
+   },
+   {
+    "p": "Question : expliquez pourquoi un cabernet sauvignon issu d'un petit domaine à flanc de coteau dans une région célèbre coûte beaucoup plus cher qu'un autre issu d'un grand vignoble plat et irrigué. Réponse : côté coûts, la terre est chère dans une région célèbre ; les pentes empêchent la mécanisation, donc la taille et les vendanges se font à la main ; les rendements sont plus faibles, donc les coûts fixes se répartissent sur moins de bouteilles ; et le vin haut de gamme est généralement élevé en bois neuf et vieilli avant sa sortie, ce qui immobilise du capital. Le vignoble plat peut être vendangé à la machine, donne de hauts rendements et peut utiliser des alternatives au fût. Côté marché, la région célèbre et la réputation du domaine créent la demande, la production est limitée et les notes des critiques peuvent encore faire monter les prix, alors que le vin de volume se bat sur le prix en grande distribution."
+   },
+   {
+    "tip": "Erreurs fréquentes : ne donner que des raisons de coût pour un vin cher, oublier que les droits fixes pèsent surtout sur le vin bon marché, et décrire le circuit de distribution sans dire que chaque étape ajoute ses propres coûts et sa marge."
+   }
+  ],
+  "faq": [
+   [
+    "Pourquoi dépenser plus pour une bouteille est-il souvent plus intéressant au WSET 3 ?",
+    "Beaucoup de coûts sont fixes par bouteille : l'accise sur les marchés qui taxent au volume, le verre, le bouchon, le transport et la manutention. Ils pèsent autant sur une bouteille bon marché que sur une plus chère, si bien que dans les bouteilles les moins chères, seule une petite part du prix paie le vin. Quand le prix monte, cette part augmente vite : une hausse modérée peut donc acheter un bien meilleur vin."
+   ],
+   [
+    "Que signifie vente en primeur pour le WSET niveau 3 ?",
+    "La vente en primeur est une façon de vendre les grands vins, surtout les grands bordeaux, avant leur mise en bouteille. L'acheteur paie au printemps suivant la vendange, quand le vin est encore en barrique, et reçoit les bouteilles plus tard. Le château encaisse tôt et partage le risque avec le négoce, tandis que l'acheteur espère obtenir des vins rares moins cher qu'après leur sortie."
+   ],
+   [
+    "Quel est le rôle de l'importateur dans le commerce du vin au WSET 3 ?",
+    "L'importateur achète du vin à des producteurs étrangers, organise l'expédition, gère les formalités douanières et paie les droits d'accise à la mise en vente. Il assure souvent aussi la promotion et revend aux distributeurs, cavistes et restaurants. Chaque étape ajoute des coûts et une marge, ce qui explique en partie pourquoi le prix en rayon d'un vin importé dépasse largement son prix départ propriété."
+   ],
+   [
+    "Pourquoi les grandes marques de vin sont-elles souvent produites par des négociants au WSET niveau 3 ?",
+    "Une marque a besoin d'un style régulier et de gros volumes chaque année. Le négociant peut acheter raisins, moûts ou vins à de nombreux vignerons et régions et les assembler, ce qui gomme les différences entre parcelles et millésimes. Un domaine est limité à ses propres raisins et dispose de moins d'options d'assemblage dans une année difficile. Les grandes marques profitent aussi d'économies d'échelle en vinification, conditionnement et marketing."
+   ],
+   [
+    "Quel est l'effet de la grande distribution sur le prix du vin au WSET 3 ?",
+    "Les supermarchés vendent de gros volumes et disposent d'un fort pouvoir d'achat : ils obtiennent des prix bas des producteurs et multiplient les promotions. Cela favorise les grands producteurs et les marques capables de livrer un vin régulier en grande quantité à faible coût par bouteille. Les petits producteurs préfèrent souvent les cavistes, la restauration ou la vente directe, où le conseil et l'histoire du domaine justifient des prix plus élevés."
+   ],
+   [
+    "Pourquoi des droits fixes rendent-ils le vin bon marché peu avantageux pour le WSET 3 ?",
+    "Quand les droits sont un montant fixe par bouteille ou par litre, ils prélèvent la même somme sur une bouteille bon marché que sur une bouteille chère. Avec l'emballage, le transport et les marges, ils peuvent représenter l'essentiel du prix d'une bouteille d'entrée de gamme, laissant peu pour le vin lui-même. Quand le prix monte, ces éléments fixes pèsent proportionnellement moins, donc une plus grande part de la dépense paie le vin."
+   ],
+   [
+    "Comment le gel et la grêle influencent-ils le prix du vin ?",
+    "Le gel, la grêle, la sécheresse ou une mauvaise floraison réduisent la quantité de raisin récoltée. Dans les régions où la demande est forte, une offre plus faible fait généralement monter les prix, parfois pendant plusieurs millésimes. Comme une nouvelle vigne met environ trois ans à donner une récolte commerciale, l'offre ne peut pas augmenter vite. Une très grosse récolte a l'effet inverse, surtout pour le vin vendu en vrac."
+   ],
+   [
+    "Qu'est-ce qu'un vin de marque de distributeur ?",
+    "C'est un vin vendu sous une marque qui appartient au distributeur, par exemple un supermarché, et non au producteur. Le distributeur s'approvisionne auprès de producteurs ou de négociants, souvent selon un cahier des charges détaillé, et maîtrise le prix et la marge. Les producteurs obtiennent des commandes importantes et sûres mais renoncent au contrôle de la marque et du prix. Ces vins se battent surtout sur le rapport qualité-prix dans les gammes accessibles."
+   ],
+   [
+    "Pourquoi certains vins sont-ils chers même avec des coûts de production modérés ?",
+    "Pour les vins haut de gamme et les grands vins, c'est la demande plus que le coût qui fixe le prix. La réputation de la région et du producteur, la production limitée de vignobles célèbres, les notes des critiques, la qualité du millésime et la force des marques peuvent pousser les prix bien au-delà du coût de production. Sur le marché secondaire, la provenance et les conditions de stockage comptent aussi. Une réponse d'examen complète associe raisons de coût et raisons de marché."
+   ]
+  ]
+ },
+ "es": {
+  "sections": [
+   {
+    "h2": "Apuntes de estudio: precio y comercio del vino para el WSET nivel 3"
+   },
+   {
+    "p": "Las preguntas del WSET nivel 3 sobre el precio del vino plantean por qué una botella cuesta cinco veces más que otra. La respuesta siempre combina dos lados: lo que cuesta producir y hacer llegar el vino, y lo que el mercado está dispuesto a pagar. Estos apuntes explican los costes en el viñedo y en la bodega, las empresas que elaboran y venden vino, el camino del productor al consumidor y los factores que suben o bajan los precios, para responder tanto a las preguntas tipo test como a las de respuesta escrita sobre el comercio del vino."
+   },
+   {
+    "h2": "Costes de producción: del viñedo a la botella"
+   },
+   {
+    "h3": "Costes en el viñedo"
+   },
+   {
+    "p": "La tierra es el primer coste y varía muchísimo: una hectárea en una denominación famosa puede costar muchas veces más que otra en una zona poco conocida. Plantar un viñedo es caro y no da rendimiento los primeros años, porque una cosecha comercial no suele llegar hasta el tercer año. Con el viñedo en producción, la mano de obra es por lo general el mayor gasto. Los viñedos llanos y accesibles se pueden mecanizar para la poda, los tratamientos y la vendimia, lo que reduce costes; las laderas empinadas, las terrazas y los vasos exigen trabajo manual y cuestan mucho más por hectárea. Los rendimientos bajos también encarecen cada botella, porque los costes fijos del viñedo se reparten entre menos vino."
+   },
+   {
+    "h3": "Costes en bodega"
+   },
+   {
+    "p": "Equipos como prensas, depósitos con control de temperatura y líneas de embotellado suponen una gran inversión. Las barricas nuevas están entre las decisiones más caras de quien elabora, y solo aportan un roble marcado durante un número limitado de usos; las alternativas como duelas y virutas dan sabor a madera por mucho menos dinero. El tiempo también es un coste: el vino que pasa meses o años en barrica o en botella inmoviliza dinero, espacio y un stock que aún no se puede vender."
+   },
+   {
+    "h3": "Envasado y transporte"
+   },
+   {
+    "p": "Vidrio, tapones, etiquetas y cajas añaden un coste fijo a cada botella, que pesa mucho en los vinos baratos. Las botellas pesadas de gama alta cuestan más de comprar y de transportar. Los grandes productores pueden ahorrar enviando el vino a granel en contenedores y embotellándolo en el país de destino, aunque la normativa local no siempre lo permite. El transporte marítimo es barato por botella; el aéreo casi no se usa para el vino."
+   },
+   {
+    "table": {
+     "head": [
+      "Factor de coste",
+      "Efecto en el precio",
+      "Ejemplo típico"
+     ],
+     "rows": [
+      [
+       "Tierra cara en una región famosa",
+       "Coste fijo alto por botella",
+       "Grandes viñedos de Borgoña o de Napa"
+      ],
+      [
+       "Laderas empinadas y trabajo manual",
+       "Mano de obra cara por hectárea",
+       "Mosela, terrazas del Duero portugués, Côte-Rôtie"
+      ],
+      [
+       "Rendimientos bajos",
+       "Costes fijos repartidos entre menos botellas",
+       "Viñas viejas, bodegas centradas en la calidad"
+      ],
+      [
+       "Roble nuevo y crianza larga",
+       "Coste de barricas más capital inmovilizado",
+       "Grandes tintos de Burdeos, Rioja Gran Reserva"
+      ],
+      [
+       "Mecanización y rendimientos altos",
+       "Menor coste por botella",
+       "Grandes viñedos llanos para marcas económicas"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Quién elabora y quién vende el vino"
+   },
+   {
+    "p": "Las empresas del vino responden a tres grandes modelos. Las bodegas de propiedad o domaines cultivan su propia uva, elaboran y embotellan su vino, con el máximo control. Las cooperativas pertenecen a sus socios viticultores, que aportan la uva para compartir equipos, elaboración y comercialización; son muy comunes en Europa, donde las explotaciones son pequeñas, y muchas han mejorado la calidad pagando la uva según su calidad y no solo por kilo. Los negociantes compran uva, mosto o vino terminado a viticultores y cooperativas, a menudo con contratos plurianuales, y pueden mezclar muchas procedencias. Muchas grandes marcas se elaboran así, porque el ensamblaje de viñedos distintos asegura un producto constante cada año."
+   },
+   {
+    "tip": "Técnica de examen: si te piden una ventaja de cada modelo, relaciónala con la calidad o el precio. Bodega de propiedad: control de cada paso pero pocas opciones de ensamblaje en una mala añada. Cooperativa: costes compartidos para pequeños viticultores pero calidad dependiente de la uva de los socios. Negociante: volumen y flexibilidad de ensamblaje pero menos control en el viñedo."
+   },
+   {
+    "h2": "Canales de venta: del productor al consumidor"
+   },
+   {
+    "p": "Una botella suele pasar por varias empresas antes de llegar al consumidor, y cada una añade sus costes y su margen. En un mercado de exportación, el recorrido típico es este:"
+   },
+   {
+    "ol": [
+     "El productor vende el vino a precio de salida de bodega.",
+     "Se añaden el transporte y el seguro hasta el país de destino.",
+     "Un importador introduce el vino, gestiona los trámites y paga los impuestos especiales cuando el vino sale a la venta.",
+     "Un distribuidor o mayorista puede revenderlo a tiendas, restaurantes y bares, y a menudo se ocupa del almacenaje y la entrega local.",
+     "El minorista (canal de alimentación y tiendas) o el restaurante (hostelería) añade su margen y el impuesto sobre las ventas antes de que pague el consumidor."
+    ]
+   },
+   {
+    "p": "La venta directa, en la propia bodega, mediante clubes de vino, por correo o en línea, elimina intermediarios: el productor se queda con una parte mayor del precio final, pero exige esfuerzo comercial y suele llegar a menos clientes. Los supermercados compran grandes volúmenes y usan su poder de compra para negociar precios bajos, lo que favorece a las grandes marcas. Las tiendas especializadas ofrecen consejo y más variedad a precios más altos. Los restaurantes cobran más que las tiendas por el mismo vino porque el precio también cubre el local, el servicio, la cristalería, el almacenaje y la ocasión."
+   },
+   {
+    "h3": "Impuestos y precio de los vinos baratos"
+   },
+   {
+    "p": "Los impuestos especiales y el impuesto sobre las ventas, como el IVA, pueden suponer una parte grande del precio en el lineal. En los mercados donde el impuesto especial es una cantidad fija por botella o por litro, se lleva lo mismo de una botella barata que de una cara. Por eso la parte del precio que paga de verdad el vino crece deprisa cuando sube el precio: gastar un poco más suele dar mucho más vino en la copa. Es un argumento clásico en las respuestas escritas del WSET 3 sobre precios."
+   },
+   {
+    "h2": "Lo que el mercado está dispuesto a pagar"
+   },
+   {
+    "p": "Los costes de producción marcan un precio mínimo, pero el precio de venta de los vinos de gama alta depende sobre todo de la demanda. Los factores principales son:"
+   },
+   {
+    "ul": [
+     "La reputación de la región, la denominación y el productor: los nombres famosos se venden más caros.",
+     "La escasez: la producción pequeña de un viñedo reputado no puede crecer para seguir la demanda.",
+     "La calidad de la añada y las puntuaciones de la crítica, que pueden mover mucho los precios de los grandes vinos.",
+     "La fuerza de la marca: una marca conocida puede costar más que un vino parecido sin marca.",
+     "Las modas y los cambios de gusto, por ejemplo la demanda de ciertas variedades o estilos.",
+     "Los tipos de cambio y los aranceles, que alteran el precio del vino importado."
+    ]
+   },
+   {
+    "h3": "Grandes vinos, en primeur y mercado secundario"
+   },
+   {
+    "p": "Algunos grandes vinos, sobre todo los mejores de Burdeos, se venden en primeur: quien compra paga el vino en la primavera siguiente a la vendimia, mientras aún está en barrica, y recibe las botellas más tarde. Los châteaux venden a través de corredores y negociantes, lo que reparte el riesgo y les da liquidez pronto. Una vez entregados, los grandes vinos pueden revenderse en el mercado secundario y en subastas, donde el precio depende de la procedencia, las condiciones de conservación y la demanda. En los vinos más buscados, el precio puede superar con creces el coste de producción."
+   },
+   {
+    "h2": "Cómo repasar precio y comercio en 15 minutos al día"
+   },
+   {
+    "ul": [
+     "Dibuja el recorrido del productor al consumidor como diagrama y anota los costes y márgenes que se suman en cada paso.",
+     "Escribe una frase para la bodega de propiedad, la cooperativa y el negociante: definición, ventaja, inconveniente.",
+     "Explica en dos frases por qué un impuesto fijo hace que el vino muy barato salga poco rentable.",
+     "Elige dos vinos de precios muy distintos y enumera las razones de coste y de mercado de la diferencia.",
+     "Responde una serie de preguntas sobre precio y comercio en la app y reescribe cada fallo con tus palabras."
+    ]
+   },
+   {
+    "tip": "Error frecuente: explicar el precio solo con los costes de producción. En los vinos de gama alta pesan más los factores de mercado. Una respuesta completa en el WSET 3 da al menos una razón de coste y una razón de demanda."
+   },
+   {
+    "h2": "Adónde va el dinero: una botella económica frente a una de alta gama"
+   },
+   {
+    "p": "Una forma útil de responder a las preguntas sobre precios es descomponer el precio en el lineal en sus partes y preguntarse cómo cambia cada una cuando el precio sube. Varios costes son más o menos fijos por botella, así que su peso cambia muchísimo de un nivel de precio a otro."
+   },
+   {
+    "table": {
+     "head": [
+      "Componente",
+      "Botella económica",
+      "Botella de alta gama"
+     ],
+     "rows": [
+      [
+       "El vino en sí",
+       "Una parte pequeña del precio en el lineal",
+       "La parte mayor del precio en el lineal"
+      ],
+      [
+       "Vidrio, cierre, etiqueta, caja",
+       "Una parte importante",
+       "Una parte pequeña, incluso con una botella más pesada"
+      ],
+      [
+       "Impuestos especiales por botella o por litro",
+       "Una parte grande",
+       "Una parte pequeña, porque el importe es el mismo"
+      ],
+      [
+       "Transporte y logística",
+       "Notable, en parte reducido con el envío a granel",
+       "Menor"
+      ],
+      [
+       "Márgenes de importador, distribuidor y minorista",
+       "Estrechos por botella, ganados con grandes volúmenes",
+       "Más altos por botella, con volúmenes menores"
+      ],
+      [
+       "Marketing y construcción de marca",
+       "Repartidos entre volúmenes enormes en las grandes marcas",
+       "A menudo impulsados por la reputación más que por la publicidad"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Por eso una respuesta escrita sobre la relación calidad-precio debe explicar el mecanismo, y no limitarse a decir que el vino más caro es mejor: cuando sube el precio en el lineal, los elementos fijos pesan proporcionalmente menos, así que una parte mucho mayor de lo que paga el consumidor va al vino."
+   },
+   {
+    "h2": "Golpes de oferta y variación entre añadas"
+   },
+   {
+    "p": "La oferta cambia de un año a otro y el precio la sigue. Las heladas de primavera, el granizo, la sequía o una mala floración pueden reducir mucho los rendimientos y, en una región muy demandada, una cosecha corta hace subir los precios. Una cosecha muy grande tiene el efecto contrario, sobre todo en el vino a granel, donde los excedentes bajan rápidamente los precios. Además, la oferta reacciona despacio: un viñedo recién plantado no da una cosecha comercial hasta unos tres años después, y los vinos de alta gama pueden necesitar más años de crianza, así que un aumento repentino de la demanda no puede cubrirse con rapidez. En los vinos de viñedos pequeños y famosos, cuyos límites no pueden crecer, la escasez es permanente."
+   },
+   {
+    "h2": "Marcas, marcas blancas y marketing"
+   },
+   {
+    "p": "Construir una marca cuesta dinero, entre publicidad, promociones, patrocinios y presencia en tiendas, y ese coste se recupera en el precio. A cambio, una marca fuerte da confianza al consumidor y permite a su propietario cobrar más que por un vino parecido sin marca. Las grandes cadenas venden también vinos con su propia marca (marca blanca): los compran a productores o negociantes, a menudo según un pliego de condiciones preciso, y controlan tanto el precio como el margen. Para los productores, esto puede suponer volúmenes grandes y seguros, pero menos control sobre cómo se presenta y se fija el precio de su vino."
+   },
+   {
+    "h2": "Un ejemplo de respuesta escrita"
+   },
+   {
+    "p": "Pregunta: explica por qué un Cabernet Sauvignon de una pequeña finca en ladera en una región famosa cuesta mucho más que otro de un gran viñedo llano y con riego. Respuesta: en cuanto a los costes, la tierra en una región famosa es cara; las pendientes impiden la mecanización, así que la poda y la vendimia son manuales; los rendimientos son más bajos, así que los costes fijos se reparten entre menos botellas; y el vino de alta gama suele criarse en roble nuevo y envejecer antes de salir al mercado, lo que inmoviliza capital. El viñedo llano puede vendimiarse a máquina, da rendimientos altos y puede usar alternativas al roble. En cuanto al mercado, la región famosa y la reputación de la finca crean demanda, la producción es limitada y las puntuaciones de la crítica pueden subir aún más los precios, mientras que el vino de volumen compite por precio en los supermercados."
+   },
+   {
+    "tip": "Errores frecuentes: dar solo razones de coste para un vino caro, olvidar que los impuestos fijos pesan sobre todo en el vino económico, y describir la cadena de distribución sin decir que cada etapa añade sus propios costes y su margen."
+   }
+  ],
+  "faq": [
+   [
+    "¿Por qué gastar más en una botella suele compensar en el WSET 3?",
+    "Muchos costes son fijos por botella: el impuesto especial en los mercados que gravan por volumen, el vidrio, el tapón, el transporte y la manipulación. Pesan lo mismo en una botella barata que en una más cara, así que en las más baratas solo una pequeña parte del precio paga el vino. Al subir el precio esa parte crece rápido, por eso un aumento moderado puede comprar un vino mucho mejor."
+   ],
+   [
+    "¿Qué significa en primeur para el WSET nivel 3?",
+    "En primeur es una forma de vender grandes vinos, sobre todo los mejores de Burdeos, antes de embotellarlos. Quien compra paga en la primavera siguiente a la vendimia, cuando el vino aún está en barrica, y recibe las botellas más tarde. El château cobra pronto y comparte el riesgo con el comercio, mientras que el comprador espera asegurarse vinos escasos a un precio menor que tras su salida."
+   ],
+   [
+    "¿Qué papel tiene el importador en el comercio del vino en el WSET 3?",
+    "El importador compra vino a productores extranjeros, organiza el envío, gestiona los trámites de aduana y paga los impuestos especiales cuando el vino sale a la venta. A menudo también se encarga del marketing y revende a distribuidores, tiendas y restaurantes. Cada paso añade costes y margen, y esa es una de las razones por las que el precio en tienda de un vino importado supera con mucho su precio de salida de bodega."
+   ],
+   [
+    "¿Por qué las grandes marcas de vino suelen ser de negociantes en el WSET nivel 3?",
+    "Una marca necesita un estilo constante y grandes volúmenes cada año. El negociante puede comprar uva, mosto o vino a muchos viticultores y regiones y ensamblarlos, suavizando las diferencias entre viñedos y añadas. Una bodega de propiedad está limitada a su propia uva y en un año difícil tiene menos margen de ensamblaje. Las grandes marcas se benefician además de economías de escala en elaboración, envasado y marketing."
+   ],
+   [
+    "¿Cómo influyen los supermercados en el precio del vino en el WSET 3?",
+    "Los supermercados venden grandes volúmenes y tienen mucho poder de compra, así que consiguen precios bajos de los productores y hacen promociones frecuentes. Esto favorece a los grandes productores y a las marcas capaces de suministrar vino constante en grandes cantidades a bajo coste por botella. Los pequeños productores suelen preferir tiendas especializadas, restaurantes o venta directa, donde el consejo y la historia de la bodega sostienen precios más altos."
+   ],
+   [
+    "¿Por qué los impuestos fijos hacen que el vino económico salga poco a cuenta para el WSET 3?",
+    "Cuando el impuesto es un importe fijo por botella o por litro, se lleva la misma cantidad de una botella económica que de una cara. Junto con el envase, el transporte y los márgenes, puede suponer la mayor parte del precio de una botella barata y dejar poco para el vino en sí. Cuando el precio sube, esos elementos fijos pesan proporcionalmente menos, así que una parte mayor del gasto paga el vino."
+   ],
+   [
+    "¿Cómo afectan las heladas y el granizo al precio del vino?",
+    "Las heladas, el granizo, la sequía o una mala floración reducen la cantidad de uva vendimiada. En las regiones con una demanda fuerte, una oferta menor suele hacer subir los precios, a veces durante varias añadas. Como un viñedo nuevo tarda unos tres años en dar una cosecha comercial, la oferta no puede aumentar deprisa. Una cosecha muy grande tiene el efecto contrario, sobre todo en el vino a granel."
+   ],
+   [
+    "¿Qué es un vino de marca blanca?",
+    "Es un vino que se vende con una marca que pertenece al distribuidor, por ejemplo un supermercado, y no al productor. El distribuidor lo compra a productores o negociantes, a menudo según un pliego de condiciones detallado, y controla el precio y el margen. Los productores consiguen pedidos grandes y seguros, pero renuncian al control de la marca y del precio. Estos vinos compiten sobre todo por relación calidad-precio en los niveles accesibles."
+   ],
+   [
+    "¿Por qué algunos vinos son caros aunque sus costes de producción sean moderados?",
+    "En los vinos de alta gama y los grandes vinos, es la demanda más que el coste lo que fija el precio. La reputación de la región y del productor, la producción limitada de viñedos famosos, las puntuaciones de la crítica, la calidad de la añada y las marcas fuertes pueden llevar los precios muy por encima del coste de elaboración. En el mercado secundario también cuentan la procedencia y las condiciones de conservación. Una respuesta de examen completa combina razones de coste y de mercado."
+   ]
+  ]
+ }
 }
