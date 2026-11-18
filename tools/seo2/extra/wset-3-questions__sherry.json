@@ -48,6 +48,42 @@
 "Day 3: list the three effects of flor and the conditions it needs.",
 "Day 4: draw a solera with three criaderas and label the saca and the topping up.",
 "Day 5: rebuild the style table from memory, then do 20 Sherry questions in the app and revise every mistake."
+]},
+{"h2": "Worked example: a short written answer comparing Fino and Oloroso"},
+{"p": "A favourite written question asks you to compare two Sherry styles made from the same grape. The marks go to the decisions that separate them, explained in the order they happen."},
+{"p": "Question: Fino and Oloroso are both dry Sherries made from Palomino. Explain how differences in production give them different styles."},
+{"p": "Model answer: After fermentation to dryness, the base wines are classified. The lightest, most delicate wines are selected for Fino, while fuller wines are selected for Oloroso. Fino is fortified to 15 to 15.5% abv, a level at which flor can grow; Oloroso is fortified to around 17% abv, which prevents flor. Fino then ages biologically under a layer of flor in butts that are not completely full. The flor protects it from oxygen, so it stays pale lemon; it consumes glycerol, so the body is light; and it produces acetaldehyde, which gives tangy, bready and almond aromas. Oloroso ages oxidatively: without flor, oxygen slowly turns it brown and develops walnut, toffee, leather and dried fruit aromas. Water evaporates through the wood over many years, so Oloroso becomes more concentrated and higher in alcohol, with a fuller body. Both are aged in a solera, which gives a consistent style. Fino is best drunk young and chilled, while Oloroso is more robust and keeps better once opened."},
+{"p": "Why it works: the answer follows the production order (classification, fortification, ageing) and links each step to colour, body and aroma. It uses the correct strengths and explains why they matter, rather than simply quoting numbers."},
+{"h2": "Sherry, Port and Madeira: how fortification shapes the style"},
+{"p": "Multiple-choice questions often test the difference between fortified wines. The key is when the spirit is added and how the wine is then aged."},
+{"table": {"head": ["Wine", "When spirit is added", "Resulting sweetness", "Ageing"], "rows": [
+["Sherry", "After fermentation has finished", "Dry, unless sweetened later", "Biological under flor or oxidative, in a solera"],
+["Port", "During fermentation, to stop it", "Sweet, with natural grape sugar", "Reductive in bottle or large vats (Ruby styles) or oxidative in small casks (Tawny styles)"],
+["Madeira", "During or after fermentation, depending on sweetness", "From dry to sweet", "Heated, either in tanks (estufagem) or slowly in warm lofts (canteiro)"]
+]}},
+{"h2": "Sherry in the tasting unit"},
+{"p": "WSET Level 3 is assessed in two separate units: theory (multiple-choice questions and short written answers) and tasting (two wines assessed blind using the SAT). You need at least 55% in each, and if you fail one unit you retake only that one. If a fortified wine appears in the tasting, describe it with the same discipline as a table wine. A Fino would be pale lemon, with pronounced almond, bread dough and bruised apple notes, dry, low acidity, high alcohol and light body. An Oloroso would be brown, with walnut, caramel, leather and dried fruit, dry, high alcohol and full body."},
+{"tip": "Exam technique: when you describe a biologically aged Sherry, name the flor aromas (bread, dough, almond) under secondary characteristics and the nutty, oxidative notes under tertiary ones. Placing them in the right category shows you understand where they come from."},
+{"h2": "Serving and food: quick reference"},
+{"table": {"head": ["Style", "Serving", "Good food matches"], "rows": [
+["Fino and Manzanilla", "Well chilled, opened bottles used within a few days", "Olives, almonds, ham, fried fish, seafood"],
+["Amontillado", "Lightly chilled", "Clear soups, mushrooms, white meat"],
+["Oloroso", "Cool room temperature", "Game, stews, hard cheese"],
+["Pedro Ximénez", "Lightly chilled", "Poured over ice cream, chocolate desserts, blue cheese"]
+]}},
+{"h2": "Sample questions answered in text"},
+{"p": "Question: Why are Sherry butts not filled to the top? Answer: The space above the wine gives flor the air it needs to grow on the surface in biological ageing, and allows controlled oxidation in oxidative ageing."},
+{"p": "Question: Why are Pedro Ximénez grapes dried in the sun before pressing? Answer: Drying removes water and concentrates sugar, so the must is extremely sweet. Fermentation stops early, and the wine is fortified, keeping a very high level of residual sugar."},
+{"p": "Question: A Sherry is amber, dry and shows hazelnut aromas with a light tang. Which style is it most likely to be, and how was it made? Answer: Amontillado. It began ageing under flor, then the flor died or was killed by refortification, and the wine continued to age oxidatively."},
+{"p": "Question: Why does Manzanilla have to be aged in Sanlúcar de Barrameda? Answer: The style depends on the cooler, more humid coastal conditions there, which give a thicker flor and an especially light, delicate wine; the name is protected for wines aged in that town."},
+{"h2": "Common mistakes on Sherry"},
+{"ul": [
+"Writing that Sherry is fortified during fermentation: that is Port. Sherry base wines are fermented to dryness first.",
+"Describing Fino as oxidative: it is protected from oxygen by flor and stays pale.",
+"Forgetting that Oloroso gains alcohol over time because water evaporates through the cask.",
+"Using Pedro Ximénez for dry Sherries: dry styles are made from Palomino.",
+"Thinking a solera Sherry has a vintage: fractional blending mixes many years.",
+"Treating Fino like a wine for long cellaring: it loses freshness quickly and should be drunk young."
 ]}
 ],
 "faq": [
@@ -55,7 +91,12 @@
 ["How is Amontillado made?", "Amontillado starts life as a Fino or Manzanilla, ageing under flor. When the flor dies naturally or the wine is refortified to around 17% abv, the wine continues ageing in contact with oxygen. It therefore combines the tangy, yeasty notes of biological ageing with the amber colour and hazelnut aromas of oxidative ageing, and it is naturally dry."],
 ["Why is albariza important for Sherry?", "Albariza is a white, chalky soil that soaks up winter rain and releases it slowly during the hot, dry summer, while its surface crust limits evaporation. Its white colour reflects sunlight. Vines on albariza give the finest, most delicate base wines, which are usually chosen for biological ageing, so it is the most prized soil in the region."],
 ["What do VOS and VORS mean on a Sherry label?", "They are certified age categories. VOS means Very Old Sherry, with an average age of at least 20 years; VORS means Very Old Rare Sherry, with an average age of at least 30 years. The wines are assessed by the regulatory body before they can use the term. They apply to oxidative and partly oxidative styles such as Amontillado, Oloroso and Palo Cortado."],
-["Why does Oloroso get stronger as it ages?", "Oloroso is aged oxidatively in butts without a protective flor layer. Over many years in the warm bodega, water evaporates through the wood more than alcohol does, so the wine becomes more concentrated and its alcohol level rises above the original fortification strength. This concentration also intensifies its walnut, dried fruit and leather aromas."]
+["Why does Oloroso get stronger as it ages?", "Oloroso is aged oxidatively in butts without a protective flor layer. Over many years in the warm bodega, water evaporates through the wood more than alcohol does, so the wine becomes more concentrated and its alcohol level rises above the original fortification strength. This concentration also intensifies its walnut, dried fruit and leather aromas."],
+["What is Palo Cortado Sherry?", "Palo Cortado begins life like a Fino or Amontillado, ageing under flor, but the flor fails early and the wine continues to age oxidatively, like an Oloroso. The result is a dry, amber to brown Sherry that combines the finesse and aromatic lift of Amontillado with the richness and body of Oloroso. It is a rare style, and in exam answers it is enough to explain this shift from biological to oxidative ageing."],
+["What does en rama mean on a Sherry label?", "En rama means the Sherry is bottled with minimal clarification, fining and filtration, close to how it tastes straight from the butt. It is most often seen on Fino and Manzanilla and gives more intense flor aromas and a fuller texture. Because it is less stable, it is best drunk soon after bottling. For WSET 3 you only need to know the meaning and its effect on style."],
+["Why is Sherry fortified after fermentation and Port during it?", "Sherry needs a dry, neutral base wine, so fermentation is allowed to finish before spirit is added; any sweetness is added later by blending. Port is meant to be sweet and fruity, so spirit is added part-way through fermentation, which kills the yeast and keeps natural grape sugar in the wine. Remembering this single difference helps you answer many fortified-wine questions."],
+["Can a Sherry come up in the WSET Level 3 blind tasting?", "Yes, fortified wines can appear in the tasting unit. Describe the wine fully with the SAT: appearance, nose with primary, secondary and tertiary aromas, sweetness, acidity, alcohol, body, finish and quality. The tasting is a separate unit requiring at least 55%, so it is worth practising one or two fortified styles alongside your table wines."],
+["How long does an open bottle of Fino or Manzanilla stay fresh?", "Not long. Once flor no longer protects them, Fino and Manzanilla oxidise and lose their freshness within a few days, so they should be kept cold and finished quickly. Oxidative styles such as Amontillado, Oloroso and Pedro Ximénez are much more robust and keep for weeks after opening, because they have already been aged in contact with oxygen."]
 ]
 },
 "it": {
@@ -107,6 +148,42 @@
 "Giorno 3: elencate i tre effetti della flor e le condizioni di cui ha bisogno.",
 "Giorno 4: disegnate una solera con tre criaderas e indicate saca e rabbocco.",
 "Giorno 5: ricostruite a memoria la tabella degli stili, poi fate 20 domande sullo Sherry nell'app e ripassate ogni errore."
+]},
+{"h2": "Esempio svolto: una risposta scritta breve che confronta Fino e Oloroso"},
+{"p": "Una domanda scritta molto frequente chiede di confrontare due stili di Sherry prodotti con la stessa uva. I punti vanno alle scelte che li distinguono, spiegate nell'ordine in cui avvengono."},
+{"p": "Domanda: Fino e Oloroso sono entrambi Sherry secchi da Palomino. Spiega come le differenze di produzione danno loro stili diversi."},
+{"p": "Risposta modello: dopo la fermentazione fino al secco, i vini base vengono classificati. I vini più leggeri e delicati sono destinati al Fino, quelli più strutturati all'Oloroso. Il Fino viene fortificato al 15-15,5% vol., un livello a cui la flor può svilupparsi; l'Oloroso a circa il 17% vol., che impedisce la flor. Il Fino invecchia poi biologicamente sotto uno strato di flor in botti non completamente piene. La flor lo protegge dall'ossigeno, quindi resta giallo paglierino pallido; consuma il glicerolo, quindi il corpo è leggero; e produce acetaldeide, che dà aromi pungenti di pane e mandorla. L'Oloroso invecchia in modo ossidativo: senza flor, l'ossigeno lo rende lentamente bruno e sviluppa aromi di noce, toffee, cuoio e frutta secca. Nel corso degli anni l'acqua evapora attraverso il legno, così l'Oloroso si concentra, aumenta di grado alcolico e acquista corpo. Entrambi invecchiano in solera, che garantisce uno stile costante. Il Fino va bevuto giovane e fresco, mentre l'Oloroso è più robusto e si conserva meglio dopo l'apertura."},
+{"p": "Perché funziona: la risposta segue l'ordine della produzione (classificazione, fortificazione, invecchiamento) e collega ogni fase a colore, corpo e aromi. Usa le gradazioni corrette e spiega perché contano, invece di limitarsi a citare numeri."},
+{"h2": "Sherry, Porto e Madeira: come la fortificazione definisce lo stile"},
+{"p": "Le domande a scelta multipla verificano spesso le differenze tra i vini fortificati. Il punto chiave è quando si aggiunge l'acquavite e come il vino viene poi invecchiato."},
+{"table": {"head": ["Vino", "Quando si aggiunge l'acquavite", "Dolcezza risultante", "Invecchiamento"], "rows": [
+["Sherry", "A fermentazione conclusa", "Secco, salvo dolcificazione successiva", "Biologico sotto flor oppure ossidativo, in solera"],
+["Porto", "Durante la fermentazione, per fermarla", "Dolce, con zucchero naturale dell'uva", "Riduttivo in bottiglia o grandi vasche (stili Ruby) oppure ossidativo in piccole botti (stili Tawny)"],
+["Madeira", "Durante o dopo la fermentazione, secondo la dolcezza", "Da secco a dolce", "Con calore, in vasche (estufagem) o lentamente in sottotetti caldi (canteiro)"]
+]}},
+{"h2": "Lo Sherry nell'unità di degustazione"},
+{"p": "Il WSET Level 3 si valuta in due unità separate: teoria (domande a scelta multipla e risposte scritte brevi) e degustazione (due vini valutati alla cieca con il SAT). Serve almeno il 55% in ciascuna e, se non superi un'unità, ripeti solo quella. Se nella degustazione compare un vino fortificato, descrivilo con lo stesso rigore di un vino fermo. Un Fino sarebbe giallo paglierino pallido, con note pronunciate di mandorla, pasta di pane e mela ammaccata, secco, acidità bassa, alcol alto e corpo leggero. Un Oloroso sarebbe bruno, con noce, caramello, cuoio e frutta secca, secco, alcol alto e corpo pieno."},
+{"tip": "Tecnica d'esame: quando descrivi uno Sherry a invecchiamento biologico, indica gli aromi della flor (pane, pasta lievitata, mandorla) tra le caratteristiche secondarie e le note di frutta secca ossidative tra quelle terziarie. Collocarli nella categoria giusta mostra che sai da dove provengono."},
+{"h2": "Servizio e abbinamenti: riferimento rapido"},
+{"table": {"head": ["Stile", "Servizio", "Buoni abbinamenti"], "rows": [
+["Fino e Manzanilla", "Ben freddi, bottiglie aperte da finire in pochi giorni", "Olive, mandorle, prosciutto, frittura di pesce, frutti di mare"],
+["Amontillado", "Leggermente fresco", "Consommé, funghi, carni bianche"],
+["Oloroso", "Temperatura ambiente fresca", "Selvaggina, stufati, formaggi stagionati"],
+["Pedro Ximénez", "Leggermente fresco", "Versato sul gelato, dolci al cioccolato, formaggi erborinati"]
+]}},
+{"h2": "Domande di esempio con risposta"},
+{"p": "Domanda: perché le botti di Sherry non vengono riempite fino all'orlo? Risposta: lo spazio sopra il vino fornisce alla flor l'aria necessaria per crescere in superficie durante l'invecchiamento biologico e consente un'ossidazione controllata in quello ossidativo."},
+{"p": "Domanda: perché le uve Pedro Ximénez vengono essiccate al sole prima della pressatura? Risposta: l'appassimento elimina acqua e concentra gli zuccheri, così il mosto è estremamente dolce. La fermentazione si ferma presto e il vino viene fortificato, mantenendo un residuo zuccherino molto alto."},
+{"p": "Domanda: uno Sherry è ambrato, secco e mostra aromi di nocciola con una leggera nota pungente. Di quale stile si tratta probabilmente e come è stato prodotto? Risposta: Amontillado. Ha iniziato l'invecchiamento sotto flor, poi la flor è morta o è stata eliminata con una nuova fortificazione e il vino ha proseguito l'invecchiamento in modo ossidativo."},
+{"p": "Domanda: perché la Manzanilla deve invecchiare a Sanlúcar de Barrameda? Risposta: lo stile dipende dalle condizioni costiere più fresche e umide della città, che danno una flor più spessa e un vino particolarmente leggero e delicato; il nome è protetto per i vini invecchiati lì."},
+{"h2": "Errori comuni sullo Sherry"},
+{"ul": [
+"Scrivere che lo Sherry è fortificato durante la fermentazione: questo è il Porto. I vini base dello Sherry fermentano prima fino al secco.",
+"Descrivere il Fino come ossidativo: è protetto dall'ossigeno dalla flor e resta pallido.",
+"Dimenticare che l'Oloroso aumenta di grado alcolico nel tempo perché l'acqua evapora attraverso la botte.",
+"Usare il Pedro Ximénez per gli Sherry secchi: gli stili secchi si producono con il Palomino.",
+"Pensare che uno Sherry da solera abbia un'annata: la miscelazione frazionata unisce molti anni.",
+"Trattare il Fino come un vino da lungo invecchiamento in cantina: perde presto la freschezza e va bevuto giovane."
 ]}
 ],
 "faq": [
@@ -114,7 +191,12 @@
 ["Come si produce l'Amontillado?", "L'Amontillado nasce come Fino o Manzanilla e invecchia sotto flor. Quando la flor muore naturalmente o il vino viene rifortificato a circa 17% vol., l'invecchiamento prosegue a contatto con l'ossigeno. Unisce quindi le note pungenti e di lievito dell'invecchiamento biologico al colore ambrato e ai profumi di nocciola dell'invecchiamento ossidativo, ed è naturalmente secco."],
 ["Perché l'albariza è importante per lo Sherry?", "L'albariza è un suolo bianco e calcareo che assorbe la pioggia invernale e la rilascia lentamente durante l'estate calda e secca, mentre la crosta superficiale limita l'evaporazione. Il colore bianco riflette la luce del sole. Le viti su albariza danno i vini base più fini e delicati, di solito scelti per l'invecchiamento biologico: è il suolo più pregiato della zona."],
 ["Che cosa significano VOS e VORS sull'etichetta dello Sherry?", "Sono categorie di età certificate. VOS significa Very Old Sherry, con età media di almeno 20 anni; VORS significa Very Old Rare Sherry, con età media di almeno 30 anni. I vini vengono valutati dall'ente regolatore prima di poter usare la menzione. Riguardano stili ossidativi o in parte ossidativi come Amontillado, Oloroso e Palo Cortado."],
-["Perché l'Oloroso diventa più alcolico invecchiando?", "L'Oloroso invecchia in modo ossidativo in botti senza strato protettivo di flor. In molti anni nella bodega calda, attraverso il legno evapora più acqua che alcol, quindi il vino si concentra e il grado alcolico sale oltre quello della fortificazione iniziale. Questa concentrazione intensifica anche i profumi di noce, frutta secca e cuoio."]
+["Perché l'Oloroso diventa più alcolico invecchiando?", "L'Oloroso invecchia in modo ossidativo in botti senza strato protettivo di flor. In molti anni nella bodega calda, attraverso il legno evapora più acqua che alcol, quindi il vino si concentra e il grado alcolico sale oltre quello della fortificazione iniziale. Questa concentrazione intensifica anche i profumi di noce, frutta secca e cuoio."],
+["Che cos'è lo Sherry Palo Cortado?", "Il Palo Cortado nasce come un Fino o un Amontillado, invecchiando sotto flor, ma la flor si esaurisce presto e il vino prosegue l'invecchiamento in modo ossidativo, come un Oloroso. Il risultato è uno Sherry secco, da ambrato a bruno, che unisce la finezza e la freschezza aromatica dell'Amontillado alla ricchezza e al corpo dell'Oloroso. È uno stile raro: all'esame basta spiegare questo passaggio dall'invecchiamento biologico a quello ossidativo."],
+["Che cosa significa en rama sull'etichetta di uno Sherry?", "En rama indica che lo Sherry è imbottigliato con chiarifica, collaggio e filtrazione minimi, vicino a come si presenta direttamente dalla botte. Si trova soprattutto su Fino e Manzanilla e dà aromi di flor più intensi e una consistenza più piena. Essendo meno stabile, va bevuto poco dopo l'imbottigliamento. Per il WSET 3 basta conoscerne il significato e l'effetto sullo stile."],
+["Perché lo Sherry si fortifica dopo la fermentazione e il Porto durante?", "Lo Sherry richiede un vino base secco e neutro, quindi la fermentazione si completa prima di aggiungere l'acquavite; l'eventuale dolcezza si aggiunge dopo, con il taglio. Il Porto deve essere dolce e fruttato, quindi l'acquavite si aggiunge a metà fermentazione, uccidendo i lieviti e lasciando nel vino lo zucchero naturale dell'uva. Ricordare questa sola differenza aiuta a rispondere a molte domande sui fortificati."],
+["Uno Sherry può uscire nella degustazione alla cieca del WSET Level 3?", "Sì, i vini fortificati possono comparire nell'unità di degustazione. Descrivi il vino in modo completo con il SAT: aspetto, naso con aromi primari, secondari e terziari, dolcezza, acidità, alcol, corpo, finale e qualità. La degustazione è un'unità separata che richiede almeno il 55%, quindi conviene esercitarsi su uno o due stili fortificati insieme ai vini fermi nella preparazione all'esame WSET."],
+["Quanto resta fresca una bottiglia aperta di Fino o Manzanilla?", "Poco. Senza più la protezione della flor, Fino e Manzanilla si ossidano e perdono freschezza in pochi giorni, quindi vanno tenuti al fresco e finiti in fretta. Gli stili ossidativi come Amontillado, Oloroso e Pedro Ximénez sono molto più robusti e si conservano per settimane dopo l'apertura, perché sono già invecchiati a contatto con l'ossigeno."]
 ]
 },
 "fr": {
@@ -166,6 +248,42 @@
 "Jour 3 : listez les trois effets de la flor et les conditions dont elle a besoin.",
 "Jour 4 : dessinez une solera à trois criaderas et indiquez la saca et le remplissage.",
 "Jour 5 : refaites de mémoire le tableau des styles, puis faites 20 questions sur le xérès dans l'appli et révisez chaque erreur."
+]},
+{"h2": "Exemple corrigé : une réponse écrite courte comparant Fino et Oloroso"},
+{"p": "Une question écrite très fréquente demande de comparer deux styles de xérès issus du même cépage. Les points récompensent les choix qui les distinguent, expliqués dans l'ordre où ils interviennent."},
+{"p": "Question : le Fino et l'Oloroso sont deux xérès secs issus du Palomino. Expliquez comment les différences d'élaboration leur donnent des styles différents."},
+{"p": "Réponse modèle : après une fermentation jusqu'à sec, les vins de base sont classés. Les vins les plus légers et délicats sont destinés au Fino, les plus étoffés à l'Oloroso. Le Fino est muté à 15-15,5 % vol., un niveau qui permet au voile de flor de se développer ; l'Oloroso l'est à environ 17 % vol., ce qui empêche la flor. Le Fino vieillit ensuite biologiquement sous un voile de flor, dans des fûts qui ne sont pas entièrement remplis. La flor le protège de l'oxygène, il reste donc jaune citron pâle ; elle consomme le glycérol, d'où un corps léger ; et elle produit de l'acétaldéhyde, qui donne des arômes piquants de pain et d'amande. L'Oloroso vieillit de manière oxydative : sans flor, l'oxygène le brunit lentement et développe des arômes de noix, de caramel, de cuir et de fruits secs. Au fil des ans, l'eau s'évapore à travers le bois : l'Oloroso se concentre, gagne en alcool et en corps. Les deux vieillissent en solera, ce qui assure un style constant. Le Fino se boit jeune et frais, tandis que l'Oloroso, plus robuste, se garde mieux après ouverture."},
+{"p": "Pourquoi cela fonctionne : la réponse suit l'ordre de l'élaboration (classement, mutage, vieillissement) et relie chaque étape à la couleur, au corps et aux arômes. Elle donne les degrés exacts et explique pourquoi ils comptent, au lieu de se contenter de citer des chiffres."},
+{"h2": "Xérès, Porto et Madère : comment le mutage façonne le style"},
+{"p": "Les questions à choix multiples testent souvent la différence entre vins mutés. L'essentiel est le moment où l'eau-de-vie est ajoutée et la manière dont le vin vieillit ensuite."},
+{"table": {"head": ["Vin", "Moment de l'ajout d'eau-de-vie", "Sucrosité obtenue", "Vieillissement"], "rows": [
+["Xérès", "Après la fin de la fermentation", "Sec, sauf édulcoration ultérieure", "Biologique sous flor ou oxydatif, en solera"],
+["Porto", "Pendant la fermentation, pour l'arrêter", "Doux, avec le sucre naturel du raisin", "Réducteur en bouteille ou en grandes cuves (styles Ruby) ou oxydatif en petits fûts (styles Tawny)"],
+["Madère", "Pendant ou après la fermentation, selon la douceur", "De sec à doux", "Chauffé, en cuves (estufagem) ou lentement dans des greniers chauds (canteiro)"]
+]}},
+{"h2": "Le xérès dans l'unité de dégustation"},
+{"p": "Le WSET Level 3 s'évalue en deux unités distinctes : la théorie (questions à choix multiples et réponses écrites courtes) et la dégustation (deux vins évalués à l'aveugle avec la SAT). Il faut au moins 55 % dans chacune, et si vous échouez à une unité, vous ne repassez que celle-ci. Si un vin muté apparaît à la dégustation, décrivez-le avec la même rigueur qu'un vin tranquille. Un Fino serait jaune citron pâle, avec des notes prononcées d'amande, de pâte à pain et de pomme blette, sec, acidité faible, alcool élevé et corps léger. Un Oloroso serait brun, avec noix, caramel, cuir et fruits secs, sec, alcool élevé et corps ample."},
+{"tip": "Technique d'examen : pour un xérès à vieillissement biologique, placez les arômes de flor (pain, pâte levée, amande) parmi les caractères secondaires et les notes de fruits secs oxydatives parmi les caractères tertiaires. Les ranger dans la bonne catégorie montre que vous savez d'où ils viennent."},
+{"h2": "Service et accords : mémo rapide"},
+{"table": {"head": ["Style", "Service", "Bons accords"], "rows": [
+["Fino et Manzanilla", "Bien frais, bouteilles ouvertes à finir en quelques jours", "Olives, amandes, jambon, friture de poisson, fruits de mer"],
+["Amontillado", "Légèrement frais", "Consommés, champignons, viandes blanches"],
+["Oloroso", "Température ambiante fraîche", "Gibier, ragoûts, fromages à pâte dure"],
+["Pedro Ximénez", "Légèrement frais", "Versé sur une glace, desserts au chocolat, fromages à pâte persillée"]
+]}},
+{"h2": "Questions d'entraînement avec réponses rédigées"},
+{"p": "Question : pourquoi les fûts de xérès ne sont-ils pas remplis à ras bord ? Réponse : l'espace au-dessus du vin apporte à la flor l'air dont elle a besoin pour se développer en surface lors du vieillissement biologique, et permet une oxydation maîtrisée lors du vieillissement oxydatif."},
+{"p": "Question : pourquoi les raisins de Pedro Ximénez sont-ils séchés au soleil avant le pressurage ? Réponse : le séchage retire de l'eau et concentre le sucre, si bien que le moût est extrêmement doux. La fermentation s'arrête tôt et le vin est muté, en gardant un taux de sucre résiduel très élevé."},
+{"p": "Question : un xérès est ambré, sec, avec des arômes de noisette et une légère note piquante. De quel style s'agit-il probablement et comment a-t-il été élaboré ? Réponse : un Amontillado. Il a commencé son vieillissement sous flor, puis la flor est morte ou a été éliminée par un second mutage, et le vin a poursuivi son vieillissement de façon oxydative."},
+{"p": "Question : pourquoi la Manzanilla doit-elle vieillir à Sanlúcar de Barrameda ? Réponse : son style dépend des conditions côtières plus fraîches et humides de la ville, qui donnent une flor plus épaisse et un vin particulièrement léger et délicat ; le nom est protégé pour les vins élevés dans cette ville."},
+{"h2": "Erreurs fréquentes sur le xérès"},
+{"ul": [
+"Écrire que le xérès est muté pendant la fermentation : c'est le cas du Porto. Les vins de base du xérès fermentent d'abord jusqu'à sec.",
+"Décrire le Fino comme oxydatif : la flor le protège de l'oxygène et il reste pâle.",
+"Oublier que l'Oloroso gagne en alcool avec le temps, car l'eau s'évapore à travers le fût.",
+"Utiliser le Pedro Ximénez pour les xérès secs : les styles secs sont issus du Palomino.",
+"Croire qu'un xérès de solera porte un millésime : l'assemblage fractionné mêle de nombreuses années.",
+"Traiter le Fino comme un vin de longue garde : il perd vite sa fraîcheur et se boit jeune."
 ]}
 ],
 "faq": [
@@ -173,7 +291,12 @@
 ["Comment est élaboré l'amontillado ?", "L'amontillado commence sa vie comme un fino ou un manzanilla, élevé sous flor. Quand la flor meurt naturellement ou que le vin est remuté à environ 17 % vol., l'élevage se poursuit au contact de l'oxygène. Il associe donc les notes de levure et de pomme blette de l'élevage biologique à la couleur ambrée et aux arômes de noisette de l'élevage oxydatif, et il est naturellement sec."],
 ["Pourquoi l'albariza est-elle importante pour le xérès ?", "L'albariza est un sol blanc et crayeux qui absorbe les pluies d'hiver et les restitue lentement pendant l'été chaud et sec, tandis que sa croûte de surface limite l'évaporation. Sa couleur blanche réfléchit la lumière. Les vignes sur albariza donnent les vins de base les plus fins et délicats, généralement choisis pour l'élevage biologique : c'est le sol le plus prisé de la région."],
 ["Que signifient VOS et VORS sur une étiquette de xérès ?", "Ce sont des catégories d'âge certifiées. VOS signifie Very Old Sherry, avec un âge moyen d'au moins 20 ans ; VORS signifie Very Old Rare Sherry, avec un âge moyen d'au moins 30 ans. Les vins sont évalués par l'organisme de contrôle avant de pouvoir porter la mention. Elles concernent les styles oxydatifs ou en partie oxydatifs comme l'amontillado, l'oloroso et le palo cortado."],
-["Pourquoi l'oloroso devient-il plus alcoolisé en vieillissant ?", "L'oloroso vieillit en oxydatif, dans des bottes sans voile de flor protecteur. Au fil des années dans la bodega chaude, l'eau s'évapore à travers le bois davantage que l'alcool : le vin se concentre et son degré dépasse celui du mutage initial. Cette concentration intensifie aussi ses arômes de noix, de fruits secs et de cuir."]
+["Pourquoi l'oloroso devient-il plus alcoolisé en vieillissant ?", "L'oloroso vieillit en oxydatif, dans des bottes sans voile de flor protecteur. Au fil des années dans la bodega chaude, l'eau s'évapore à travers le bois davantage que l'alcool : le vin se concentre et son degré dépasse celui du mutage initial. Cette concentration intensifie aussi ses arômes de noix, de fruits secs et de cuir."],
+["Qu'est-ce qu'un xérès Palo Cortado ?", "Le Palo Cortado commence comme un Fino ou un Amontillado, en vieillissant sous flor, mais la flor disparaît tôt et le vin poursuit son vieillissement de façon oxydative, comme un Oloroso. On obtient un xérès sec, ambré à brun, qui associe la finesse et la fraîcheur aromatique de l'Amontillado à la richesse et au corps de l'Oloroso. C'est un style rare : à l'examen, il suffit d'expliquer ce passage du vieillissement biologique au vieillissement oxydatif."],
+["Que signifie en rama sur une étiquette de xérès ?", "En rama signifie que le xérès est mis en bouteille avec un minimum de clarification, de collage et de filtration, au plus près de son goût au sortir du fût. On le voit surtout sur les Fino et les Manzanilla, avec des arômes de flor plus intenses et une texture plus ample. Moins stable, il se boit peu après la mise en bouteille. Pour le WSET 3, il suffit d'en connaître le sens et l'effet sur le style."],
+["Pourquoi le xérès est-il muté après la fermentation et le Porto pendant ?", "Le xérès a besoin d'un vin de base sec et neutre : on laisse donc la fermentation se terminer avant d'ajouter l'eau-de-vie, la douceur éventuelle étant apportée plus tard par assemblage. Le Porto doit être doux et fruité : l'eau-de-vie est ajoutée en cours de fermentation, ce qui tue les levures et garde le sucre naturel du raisin dans le vin. Retenir cette seule différence aide à répondre à beaucoup de questions sur les vins mutés."],
+["Un xérès peut-il tomber à la dégustation à l'aveugle du WSET Level 3 ?", "Oui, des vins mutés peuvent apparaître dans l'unité de dégustation. Décrivez le vin entièrement avec la SAT : aspect, nez avec arômes primaires, secondaires et tertiaires, sucrosité, acidité, alcool, corps, finale et qualité. La dégustation est une unité distincte qui exige au moins 55 % : dans votre préparation à l'examen WSET, entraînez-vous sur un ou deux styles mutés en plus des vins tranquilles."],
+["Combien de temps une bouteille ouverte de Fino ou de Manzanilla reste-t-elle fraîche ?", "Peu de temps. Sans la protection de la flor, le Fino et la Manzanilla s'oxydent et perdent leur fraîcheur en quelques jours : gardez-les au froid et finissez-les vite. Les styles oxydatifs comme l'Amontillado, l'Oloroso et le Pedro Ximénez sont bien plus robustes et se conservent des semaines après ouverture, car ils ont déjà vieilli au contact de l'oxygène."]
 ]
 },
 "es": {
@@ -225,6 +348,42 @@
 "Día 3: enumera los tres efectos de la flor y las condiciones que necesita.",
 "Día 4: dibuja una solera con tres criaderas y señala la saca y el rocío.",
 "Día 5: reconstruye de memoria la tabla de estilos, luego haz 20 preguntas sobre Jerez en la app y repasa cada fallo."
+]},
+{"h2": "Ejemplo resuelto: una respuesta escrita corta que compara fino y oloroso"},
+{"p": "Una pregunta escrita muy habitual pide comparar dos estilos de jerez elaborados con la misma uva. Los puntos van a las decisiones que los separan, explicadas en el orden en que ocurren."},
+{"p": "Pregunta: el fino y el oloroso son jereces secos elaborados con Palomino. Explica cómo las diferencias de elaboración les dan estilos distintos."},
+{"p": "Respuesta modelo: tras fermentar hasta quedar secos, los vinos base se clasifican. Los más ligeros y delicados se destinan a fino y los de más cuerpo a oloroso. El fino se encabeza al 15-15,5 % vol., un nivel en el que puede crecer el velo de flor; el oloroso, a alrededor del 17 % vol., lo que impide la flor. Después, el fino tiene una crianza biológica bajo velo de flor en botas que no se llenan del todo. La flor lo protege del oxígeno, por eso sigue siendo amarillo limón pálido; consume glicerol, de ahí su cuerpo ligero; y produce acetaldehído, que aporta aromas punzantes de pan y almendra. El oloroso tiene una crianza oxidativa: sin flor, el oxígeno lo va oscureciendo y desarrolla aromas de nuez, toffee, cuero y fruta pasificada. Con los años el agua se evapora a través de la madera, así que el oloroso se concentra, gana grado y cuerpo. Ambos se crían en solera, lo que da un estilo constante. El fino se bebe joven y frío, mientras que el oloroso es más robusto y aguanta mejor una vez abierto."},
+{"p": "Por qué funciona: la respuesta sigue el orden de elaboración (clasificación, encabezado, crianza) y relaciona cada paso con el color, el cuerpo y los aromas. Da las graduaciones correctas y explica por qué importan, en lugar de limitarse a citar números."},
+{"h2": "Jerez, Oporto y Madeira: cómo el encabezado define el estilo"},
+{"p": "Las preguntas tipo test suelen evaluar la diferencia entre vinos generosos. La clave es cuándo se añade el aguardiente y cómo se cría después el vino."},
+{"table": {"head": ["Vino", "Cuándo se añade el aguardiente", "Dulzor resultante", "Crianza"], "rows": [
+["Jerez", "Cuando la fermentación ha terminado", "Seco, salvo que se endulce después", "Biológica bajo flor u oxidativa, en solera"],
+["Oporto", "Durante la fermentación, para detenerla", "Dulce, con azúcar natural de la uva", "Reductiva en botella o grandes depósitos (estilos Ruby) u oxidativa en barricas pequeñas (estilos Tawny)"],
+["Madeira", "Durante o después de la fermentación, según el dulzor", "De seco a dulce", "Con calor, en depósitos (estufagem) o lentamente en desvanes cálidos (canteiro)"]
+]}},
+{"h2": "El jerez en la unidad de cata"},
+{"p": "El WSET Level 3 se evalúa en dos unidades separadas: teoría (preguntas tipo test y respuestas escritas cortas) y cata (dos vinos evaluados a ciegas con el SAT). Necesitas al menos un 55 % en cada una y, si suspendes una unidad, solo repites esa. Si en la cata aparece un vino generoso, descríbelo con el mismo rigor que un vino tranquilo. Un fino sería amarillo limón pálido, con notas pronunciadas de almendra, masa de pan y manzana magullada, seco, acidez baja, alcohol alto y cuerpo ligero. Un oloroso sería marrón, con nuez, caramelo, cuero y fruta pasificada, seco, alcohol alto y cuerpo lleno."},
+{"tip": "Técnica de examen: al describir un jerez de crianza biológica, sitúa los aromas de flor (pan, masa, almendra) entre las características secundarias y las notas de frutos secos oxidativas entre las terciarias. Colocarlos en la categoría correcta demuestra que sabes de dónde vienen."},
+{"h2": "Servicio y maridaje: referencia rápida"},
+{"table": {"head": ["Estilo", "Servicio", "Buenos maridajes"], "rows": [
+["Fino y manzanilla", "Bien fríos; botellas abiertas para terminar en pocos días", "Aceitunas, almendras, jamón, pescaíto frito, marisco"],
+["Amontillado", "Ligeramente fresco", "Consomés, setas, carnes blancas"],
+["Oloroso", "Temperatura ambiente fresca", "Caza, guisos, quesos curados"],
+["Pedro Ximénez", "Ligeramente fresco", "Sobre helado, postres de chocolate, quesos azules"]
+]}},
+{"h2": "Preguntas de práctica con respuesta"},
+{"p": "Pregunta: ¿por qué las botas de jerez no se llenan hasta arriba? Respuesta: el espacio sobre el vino da a la flor el aire que necesita para crecer en la superficie durante la crianza biológica y permite una oxidación controlada en la crianza oxidativa."},
+{"p": "Pregunta: ¿por qué se secan al sol las uvas Pedro Ximénez antes de prensarlas? Respuesta: el asoleo elimina agua y concentra el azúcar, así que el mosto es extremadamente dulce. La fermentación se detiene pronto y el vino se encabeza, conservando un azúcar residual muy alto."},
+{"p": "Pregunta: un jerez es ámbar, seco y muestra aromas de avellana con un ligero toque punzante. ¿Qué estilo es probablemente y cómo se elaboró? Respuesta: un amontillado. Empezó su crianza bajo flor; después la flor murió o se eliminó con un nuevo encabezado, y el vino continuó su crianza de forma oxidativa."},
+{"p": "Pregunta: ¿por qué la manzanilla tiene que criarse en Sanlúcar de Barrameda? Respuesta: su estilo depende de las condiciones costeras, más frescas y húmedas, de la ciudad, que dan un velo de flor más grueso y un vino especialmente ligero y delicado; el nombre está protegido para los vinos criados allí."},
+{"h2": "Errores frecuentes sobre el jerez"},
+{"ul": [
+"Escribir que el jerez se encabeza durante la fermentación: eso es el Oporto. Los vinos base del jerez fermentan antes hasta quedar secos.",
+"Describir el fino como oxidativo: la flor lo protege del oxígeno y sigue siendo pálido.",
+"Olvidar que el oloroso gana grado con el tiempo porque el agua se evapora a través de la bota.",
+"Usar Pedro Ximénez para los jereces secos: los estilos secos se elaboran con Palomino.",
+"Pensar que un jerez de solera tiene añada: el sistema de criaderas mezcla muchos años.",
+"Tratar el fino como un vino de larga guarda: pierde frescura enseguida y se bebe joven."
 ]}
 ],
 "faq": [
@@ -232,7 +391,12 @@
 ["¿Cómo se elabora el amontillado?", "El amontillado empieza su vida como fino o manzanilla, criándose bajo flor. Cuando la flor muere de forma natural o el vino se vuelve a encabezar hasta unos 17 % vol., la crianza continúa en contacto con el oxígeno. Así combina las notas punzantes y de levadura de la crianza biológica con el color ámbar y los aromas de avellana de la oxidativa, y es seco por naturaleza."],
 ["¿Por qué es importante la albariza para el Jerez?", "La albariza es un suelo blanco y calizo que absorbe la lluvia del invierno y la libera poco a poco durante el verano cálido y seco, mientras su costra superficial limita la evaporación. Su color blanco refleja la luz del sol. Las cepas en albariza dan los vinos base más finos y delicados, que suelen destinarse a crianza biológica: es el suelo más apreciado de la zona."],
 ["¿Qué significan VOS y VORS en una etiqueta de Jerez?", "Son categorías de edad certificadas. VOS significa Very Old Sherry, con una edad media de al menos 20 años; VORS significa Very Old Rare Sherry, con una edad media de al menos 30 años. El Consejo Regulador evalúa los vinos antes de que puedan usar la mención. Se aplican a estilos oxidativos o parcialmente oxidativos como amontillado, oloroso y palo cortado."],
-["¿Por qué el oloroso gana graduación con los años?", "El oloroso se cría de forma oxidativa en botas sin el velo protector de flor. Durante muchos años en la bodega cálida, a través de la madera se evapora más agua que alcohol, de modo que el vino se concentra y su graduación supera la del encabezado inicial. Esa concentración intensifica también sus aromas de nuez, fruta pasa y cuero."]
+["¿Por qué el oloroso gana graduación con los años?", "El oloroso se cría de forma oxidativa en botas sin el velo protector de flor. Durante muchos años en la bodega cálida, a través de la madera se evapora más agua que alcohol, de modo que el vino se concentra y su graduación supera la del encabezado inicial. Esa concentración intensifica también sus aromas de nuez, fruta pasa y cuero."],
+["¿Qué es un jerez palo cortado?", "El palo cortado empieza como un fino o un amontillado, con crianza bajo flor, pero la flor desaparece pronto y el vino continúa su crianza de forma oxidativa, como un oloroso. El resultado es un jerez seco, de ámbar a caoba, que une la finura y la viveza aromática del amontillado con la riqueza y el cuerpo del oloroso. Es un estilo poco frecuente: en el examen basta con explicar ese paso de crianza biológica a oxidativa."],
+["¿Qué significa en rama en una etiqueta de jerez?", "En rama significa que el jerez se embotella con una clarificación, un encolado y un filtrado mínimos, muy cerca de cómo sabe directamente de la bota. Se ve sobre todo en finos y manzanillas y aporta aromas de flor más intensos y una textura más llena. Al ser menos estable, conviene beberlo poco después del embotellado. Para el WSET 3 basta con conocer su significado y su efecto en el estilo."],
+["¿Por qué el jerez se encabeza después de la fermentación y el Oporto durante?", "El jerez necesita un vino base seco y neutro, así que se deja terminar la fermentación antes de añadir el aguardiente; el dulzor, si lo hay, se añade después mediante mezcla. El Oporto debe ser dulce y afrutado, por lo que el aguardiente se añade a mitad de fermentación, lo que mata las levaduras y deja en el vino el azúcar natural de la uva. Recordar esta diferencia ayuda a responder muchas preguntas sobre vinos generosos."],
+["¿Puede salir un jerez en la cata a ciegas del WSET Level 3?", "Sí, los vinos generosos pueden aparecer en la unidad de cata. Describe el vino por completo con el SAT: aspecto, nariz con aromas primarios, secundarios y terciarios, dulzor, acidez, alcohol, cuerpo, final y calidad. La cata es una unidad separada que exige al menos un 55 %, así que en tu preparación del examen WSET conviene practicar uno o dos estilos generosos además de los vinos tranquilos."],
+["¿Cuánto tiempo se mantiene fresca una botella abierta de fino o manzanilla?", "Poco. Sin la protección de la flor, el fino y la manzanilla se oxidan y pierden frescura en pocos días, así que hay que guardarlos en frío y terminarlos pronto. Los estilos oxidativos como el amontillado, el oloroso y el Pedro Ximénez son mucho más resistentes y aguantan semanas tras abrirse, porque ya se han criado en contacto con el oxígeno."]
 ]
 }
 }

@@ -54,6 +54,54 @@
 "Day 5: list frost-protection methods and explain how each one works.",
 "Day 6: do a timed set of climate questions in the app and rewrite every mistake as a rule.",
 "Day 7: explain aloud why a cool-climate and a hot-climate Chardonnay taste different."
+]},
+{"h2": "Worked example: a short written answer on climate"},
+{"p": "Climate questions in the written section usually give you a region and ask you to explain how its natural conditions shape the wine. The best answers move step by step from the environment to the vine, then to the grape, then to the glass."},
+{"p": "Question: Mendoza lies at a low latitude, yet it produces fresh, high-quality Malbec. Explain how the environment makes this possible."},
+{"p": "Model answer: At a latitude of about 33° south, Mendoza would normally be too hot for fine wine, but many vineyards are planted at high altitude in the foothills of the Andes. Temperature falls as altitude rises, so the growing season is cooler than the latitude suggests. Nights are especially cold, giving a wide diurnal range: the grapes ripen in warm, sunny days but keep their acidity and fresh fruit aromas during cool nights. The strong sunlight at altitude encourages thicker skins, which give deep colour and ripe tannins to Malbec. The climate is continental and very dry, with low rainfall, so disease pressure is low but irrigation is essential; growers use meltwater from the Andes, which also lets them control vigour and yields. The result is a full-bodied red with deep colour, ripe black fruit and balanced acidity."},
+{"p": "Why it works: the answer names each factor (altitude, diurnal range, sunlight, dryness, irrigation) and finishes every chain with its effect on the grape and the wine. It also shows that one factor (altitude) can compensate for another (low latitude), an idea examiners like to test."},
+{"h2": "Cooling and warming influences around the world"},
+{"p": "Learning one clear example for each influence makes it easy to answer both multiple-choice and written questions. This table links the influence to a region and to the style it explains."},
+{"table": {"head": ["Influence", "Example region", "Effect on the wine"], "rows": [
+["Cold ocean current", "Coastal Chile (Humboldt), Western Cape (Benguela)", "Cooler sites, slower ripening, fresher acidity in Sauvignon Blanc and Chardonnay"],
+["Coastal fog", "Carneros and Russian River Valley, California", "Cooler mornings, longer season, elegant Pinot Noir and Chardonnay"],
+["High altitude", "Salta and Mendoza, Argentina", "Wide diurnal range, deep colour, fresh acidity despite low latitude"],
+["High latitude", "Mosel, Champagne", "Marginal ripening, high acidity, light body, strong vintage variation"],
+["Rain shadow", "Alsace, protected by the Vosges", "Dry, sunny autumns that allow ripe and late-harvest wines"],
+["River or lake", "Mosel, Lake Neusiedl, Tokaj", "Reflected warmth or autumn mists that encourage noble rot"],
+["Strong, cold wind", "Southern Rhône (Mistral)", "Healthy grapes, less disease, but possible damage at flowering"]
+]}},
+{"h2": "Reading the climate in the glass"},
+{"p": "WSET Level 3 has two separate units: a theory unit (multiple-choice questions and short written answers) and a tasting unit (two wines assessed blind with the SAT). You need at least 55% in each, and a failed unit is retaken on its own. Climate knowledge helps in both: in the tasting, the structure of a wine often shows how warm the place was."},
+{"table": {"head": ["Feature", "Cooler climate", "Warmer climate"], "rows": [
+["Acidity", "High", "Lower, unless adjusted"],
+["Alcohol", "Lower to medium", "Medium(+) to high"],
+["Body", "Lighter", "Fuller"],
+["Fruit character", "Citrus, green fruit, red fruit, sometimes herbaceous", "Tropical fruit, black fruit, jammy or dried fruit"],
+["Tannin in reds", "Can be firm and less ripe", "Riper, softer, more abundant"]
+]}},
+{"tip": "Exam technique: in the tasting unit, use climate clues to support your quality judgement, not to guess a region. A high-acid, light-bodied red with red fruit and a long finish can be described as balanced and of very good quality without naming the place."},
+{"h2": "Sample questions answered in text"},
+{"p": "Question: Why is vintage variation greater in Champagne than in Barossa Valley? Answer: Champagne is a cool, marginal climate where grapes only just ripen, so a cold or wet year can leave them unripe. Barossa is warm and dry, so grapes ripen fully almost every year and the differences between vintages are smaller."},
+{"p": "Question: How does a rain shadow benefit Alsace? Answer: The Vosges mountains catch the rain coming from the west, so Alsace is one of the driest parts of France. Dry, sunny autumns allow the grapes to ripen fully and make late-harvest styles possible."},
+{"p": "Question: A vineyard lies in a valley bottom. Which hazard is most likely, and why? Answer: Spring frost, because cold air is dense and flows down slopes, collecting in low areas known as frost pockets. Buds and young shoots can be killed, reducing the crop."},
+{"p": "Question: Why can drought reduce quality even in a warm region? Answer: Severe water stress makes the vine close its stomata, so photosynthesis slows or stops and ripening can stall. Grapes may then be small and unbalanced, with high sugar but unripe tannins and flavours."},
+{"h2": "Common mistakes in climate questions"},
+{"ul": [
+"Confusing climate (the long-term pattern) with weather (what happens in one year).",
+"Writing that more sunshine always means better wine: too much heat and light can cause sunburn and loss of acidity.",
+"Saying altitude makes a vineyard warmer: higher vineyards are cooler, by roughly 0.6 °C per 100 m.",
+"Forgetting the southern hemisphere: there, slopes facing north receive the most sunlight.",
+"Describing a factor without its consequence in the wine, which costs marks in short written answers.",
+"Mixing up continental and maritime: continental means a big difference between summer and winter, not simply a cold climate."
+]},
+{"h2": "Five-point checklist for any climate answer"},
+{"ol": [
+"Name the climate type and temperature band.",
+"Identify the main local factor: latitude, altitude, water, wind, fog, slope or soil.",
+"Explain what it does to temperature, sunlight or water.",
+"Describe the effect on ripening: sugar, acidity, colour, tannin, flavour.",
+"Finish with the resulting wine style and, if relevant, its quality."
 ]}
 ],
 "faq": [
@@ -61,7 +109,12 @@
 ["Which temperatures define cool, moderate, warm and hot climates in WSET Level 3?", "The bands are based on average growing season temperature: cool is 16.5 °C or less, moderate is 16.5 to 18.5 °C, warm is 18.5 to 21 °C and hot is above 21 °C. Learn them with an example region each, because questions often ask you to link a band to typical acidity, body, alcohol and fruit character."],
 ["How do sprinklers protect vines against frost?", "Sprinklers spray water onto buds and shoots during a frost. As the water freezes it releases latent heat, which keeps the tissue inside the ice at around 0 °C instead of colder temperatures that would kill it. Spraying must continue until the ice melts. The method needs a large water supply and can cause waterlogging."],
 ["Why does a wide diurnal range improve wine quality?", "Warm days let grapes build sugar and ripe flavours, while cool nights slow the breakdown of acids and help preserve aroma compounds. The result is wine with ripe fruit but fresh acidity and good aromatic intensity. High-altitude and some coastal regions are known for this effect."],
-["Does soil affect wine style in WSET Level 3?", "Yes, mainly through water and heat. Free-draining gravel and sand reduce vigour and warm up quickly; clay holds water and stays cool; stony or dark soils store heat and release it at night. Soil fertility matters too: very fertile soils encourage vigour and shading, which can lower fruit quality."]
+["Does soil affect wine style in WSET Level 3?", "Yes, mainly through water and heat. Free-draining gravel and sand reduce vigour and warm up quickly; clay holds water and stays cool; stony or dark soils store heat and release it at night. Soil fertility matters too: very fertile soils encourage vigour and shading, which can lower fruit quality."],
+["What is a rain shadow and why does it matter in WSET 3?", "A rain shadow is a dry area on the sheltered side of a mountain range. Moist air rises over the mountains, cools and drops its rain on the windward side, so the other side stays dry. Alsace, behind the Vosges, is the classic example: dry, sunny autumns allow full ripening and late-harvest wines. In exam answers, link the dryness to lower disease pressure and riper grapes."],
+["How do cold ocean currents affect wine regions?", "Cold currents such as the Humboldt off Chile and the Benguela off South Africa cool the air above the sea. Breezes and sometimes fog carry this cool air inland, lowering vineyard temperatures. Ripening becomes slower, so grapes keep more acidity and fresh fruit flavours. This is why coastal areas in these warm countries can make crisp Sauvignon Blanc, Chardonnay and Pinot Noir."],
+["How can I recognise a cool-climate wine in the WSET 3 blind tasting?", "Look at the structure first. Cool-climate wines usually have high acidity, lower alcohol and lighter body, with citrus, green fruit or red fruit rather than tropical or jammy aromas. Reds may have lighter colour. Use these clues to support your description and quality assessment. The tasting is a separate unit needing at least 55%, so practise with real wines regularly."],
+["Why is irrigation needed in some wine regions?", "In dry climates such as Mendoza, much of Australia or parts of California, rainfall is too low for the vine to survive or ripen its grapes. Irrigation supplies the missing water and lets growers control how much the vine receives, which helps manage vigour and yields. Where it is allowed, it is a tool for consistency; where rain is enough, it is unnecessary or restricted."],
+["If I fail the tasting but pass the theory in WSET 3, do I resit everything?", "No. WSET Level 3 has two separate units, theory and tasting, and you need at least 55% in each. If you fail one unit, you retake only that unit; the passed unit is kept. It is still wise to prepare both seriously, because a strong theory score cannot compensate for a weak tasting result."]
 ]
 },
 "it": {
@@ -119,6 +172,54 @@
 "Giorno 5: elenca i metodi antigelo e spiega come funziona ciascuno.",
 "Giorno 6: fai un blocco di domande sul clima a tempo nell'app e riscrivi ogni errore come regola.",
 "Giorno 7: spiega ad alta voce perché uno Chardonnay di clima fresco e uno di clima caldo hanno sapori diversi."
+]},
+{"h2": "Esempio svolto: una risposta scritta breve sul clima"},
+{"p": "Nella parte scritta, le domande sul clima di solito indicano una regione e chiedono di spiegare come le sue condizioni naturali influenzano il vino. Le risposte migliori procedono per gradi: dall'ambiente alla vite, poi all'acino, infine al bicchiere."},
+{"p": "Domanda: Mendoza si trova a bassa latitudine, eppure produce Malbec freschi e di alta qualità. Spiega come l'ambiente lo rende possibile."},
+{"p": "Risposta modello: a una latitudine di circa 33° sud, Mendoza sarebbe normalmente troppo calda per vini fini, ma molti vigneti sono piantati ad alta quota ai piedi delle Ande. La temperatura scende con l'altitudine, quindi la stagione vegetativa è più fresca di quanto suggerisca la latitudine. Le notti sono particolarmente fredde e creano una forte escursione termica: gli acini maturano in giornate calde e soleggiate ma conservano acidità e aromi di frutta fresca durante le notti fresche. La luce solare intensa in quota favorisce bucce più spesse, che danno al Malbec colore profondo e tannini maturi. Il clima è continentale e molto secco, con poche piogge, quindi la pressione delle malattie è bassa ma l'irrigazione è indispensabile; i viticoltori usano l'acqua di fusione delle Ande, che permette anche di controllare vigoria e rese. Il risultato è un rosso di corpo pieno, colore intenso, frutto nero maturo e acidità equilibrata."},
+{"p": "Perché funziona: la risposta nomina ogni fattore (altitudine, escursione termica, luce solare, siccità, irrigazione) e chiude ogni catena con il suo effetto sull'acino e sul vino. Mostra anche che un fattore (l'altitudine) può compensarne un altro (la bassa latitudine), un concetto che gli esaminatori amano verificare."},
+{"h2": "Influenze rinfrescanti e riscaldanti nel mondo"},
+{"p": "Imparare un esempio chiaro per ogni influenza rende facile rispondere sia alle domande a scelta multipla sia a quelle scritte. Questa tabella collega l'influenza a una regione e allo stile che spiega."},
+{"table": {"head": ["Influenza", "Regione di esempio", "Effetto sul vino"], "rows": [
+["Corrente oceanica fredda", "Costa cilena (Humboldt), Western Cape (Benguela)", "Siti più freschi, maturazione lenta, acidità più fresca in Sauvignon Blanc e Chardonnay"],
+["Nebbia costiera", "Carneros e Russian River Valley, California", "Mattine più fresche, stagione più lunga, Pinot Noir e Chardonnay eleganti"],
+["Alta quota", "Salta e Mendoza, Argentina", "Forte escursione termica, colore profondo, acidità fresca nonostante la bassa latitudine"],
+["Alta latitudine", "Mosella, Champagne", "Maturazione al limite, acidità alta, corpo leggero, forte variabilità tra annate"],
+["Ombra pluviometrica", "Alsazia, protetta dai Vosgi", "Autunni secchi e soleggiati che consentono vini maturi e vendemmie tardive"],
+["Fiume o lago", "Mosella, lago di Neusiedl, Tokaj", "Calore riflesso o nebbie autunnali che favoriscono la muffa nobile"],
+["Vento forte e freddo", "Rodano meridionale (Mistral)", "Uve sane, meno malattie, ma possibili danni alla fioritura"]
+]}},
+{"h2": "Leggere il clima nel bicchiere"},
+{"p": "Il WSET Level 3 ha due unità separate: un'unità di teoria (domande a scelta multipla e risposte scritte brevi) e un'unità di degustazione (due vini valutati alla cieca con il SAT). Serve almeno il 55% in ciascuna e un'unità non superata si ripete da sola. La conoscenza del clima aiuta in entrambe: nella degustazione, la struttura di un vino spesso rivela quanto fosse caldo il luogo d'origine."},
+{"table": {"head": ["Caratteristica", "Clima più fresco", "Clima più caldo"], "rows": [
+["Acidità", "Alta", "Più bassa, salvo correzioni"],
+["Alcol", "Da basso a medio", "Da medio(+) ad alto"],
+["Corpo", "Più leggero", "Più pieno"],
+["Carattere del frutto", "Agrumi, frutta verde, frutti rossi, a volte erbaceo", "Frutta tropicale, frutti neri, frutta in confettura o secca"],
+["Tannino nei rossi", "Può essere deciso e meno maturo", "Più maturo, morbido e abbondante"]
+]}},
+{"tip": "Tecnica d'esame: nell'unità di degustazione usa gli indizi climatici per sostenere il giudizio di qualità, non per indovinare la regione. Un rosso ad alta acidità e corpo leggero, con frutti rossi e un finale lungo, può essere descritto come equilibrato e di qualità molto buona senza nominare il luogo."},
+{"h2": "Domande di esempio con risposta"},
+{"p": "Domanda: perché la variabilità tra annate è maggiore in Champagne che nella Barossa Valley? Risposta: la Champagne ha un clima fresco e al limite, dove le uve maturano a fatica, quindi un anno freddo o piovoso può lasciarle acerbe. La Barossa è calda e secca, perciò le uve maturano completamente quasi ogni anno e le differenze tra annate sono minori."},
+{"p": "Domanda: in che modo l'ombra pluviometrica favorisce l'Alsazia? Risposta: i Vosgi trattengono la pioggia proveniente da ovest, quindi l'Alsazia è una delle zone più secche della Francia. Autunni secchi e soleggiati permettono alle uve di maturare pienamente e rendono possibili gli stili da vendemmia tardiva."},
+{"p": "Domanda: un vigneto si trova in fondovalle. Quale rischio è più probabile e perché? Risposta: la gelata primaverile, perché l'aria fredda è densa, scende lungo i pendii e si accumula nelle zone basse, dette sacche di gelo. Gemme e germogli giovani possono morire, riducendo il raccolto."},
+{"p": "Domanda: perché la siccità può ridurre la qualità anche in una regione calda? Risposta: uno stress idrico grave fa chiudere gli stomi alla vite, quindi la fotosintesi rallenta o si ferma e la maturazione può bloccarsi. Gli acini possono restare piccoli e squilibrati, con molto zucchero ma tannini e aromi immaturi."},
+{"h2": "Errori comuni nelle domande sul clima"},
+{"ul": [
+"Confondere il clima (l'andamento di lungo periodo) con il tempo meteorologico (ciò che accade in un anno).",
+"Scrivere che più sole significa sempre vino migliore: troppo calore e luce possono causare scottature e perdita di acidità.",
+"Dire che l'altitudine rende un vigneto più caldo: i vigneti più alti sono più freschi, di circa 0,6 °C ogni 100 m.",
+"Dimenticare l'emisfero sud: lì sono i pendii esposti a nord a ricevere più sole.",
+"Descrivere un fattore senza la sua conseguenza nel vino, il che costa punti nelle risposte scritte brevi.",
+"Confondere continentale e marittimo: continentale indica una grande differenza tra estate e inverno, non semplicemente un clima freddo."
+]},
+{"h2": "Checklist in cinque punti per ogni risposta sul clima"},
+{"ol": [
+"Indica il tipo di clima e la fascia di temperatura.",
+"Individua il principale fattore locale: latitudine, altitudine, acqua, vento, nebbia, pendenza o suolo.",
+"Spiega che cosa fa alla temperatura, alla luce o all'acqua.",
+"Descrivi l'effetto sulla maturazione: zuccheri, acidità, colore, tannino, aromi.",
+"Concludi con lo stile del vino che ne risulta e, se pertinente, con la sua qualità."
 ]}
 ],
 "faq": [
@@ -126,7 +227,12 @@
 ["Quali temperature definiscono i climi fresco, moderato, caldo e molto caldo nel WSET 3?", "Le fasce si basano sulla temperatura media della stagione vegetativa: fresco fino a 16,5 °C, moderato da 16,5 a 18,5 °C, caldo da 18,5 a 21 °C, molto caldo oltre 21 °C. Imparale con una regione d'esempio ciascuna, perché le domande chiedono spesso di collegare una fascia ad acidità, corpo, alcol e frutto tipici."],
 ["Come protegge le viti dal gelo l'irrigazione antibrina?", "Durante la gelata si spruzza acqua su gemme e germogli. Congelando, l'acqua libera calore latente che mantiene i tessuti dentro il ghiaccio intorno a 0 °C invece che a temperature più basse che li ucciderebbero. Bisogna continuare a spruzzare finché il ghiaccio non si scioglie. Serve molta acqua e il terreno può diventare asfittico."],
 ["Perché una forte escursione termica migliora la qualità del vino?", "Le giornate calde permettono all'uva di accumulare zuccheri e aromi maturi, mentre le notti fresche rallentano la degradazione degli acidi e aiutano a preservare i composti aromatici. Il risultato è un vino con frutto maturo ma acidità fresca e buona intensità aromatica. Le zone d'alta quota e alcune zone costiere sono note per questo effetto."],
-["Il suolo influisce sullo stile del vino nel WSET Livello 3?", "Sì, soprattutto attraverso acqua e calore. Ghiaia e sabbia drenanti riducono la vigoria e si scaldano in fretta; l'argilla trattiene l'acqua e resta fresca; i suoli sassosi o scuri immagazzinano calore e lo cedono di notte. Conta anche la fertilità: suoli molto fertili favoriscono vigoria e ombreggiamento, che possono abbassare la qualità del frutto."]
+["Il suolo influisce sullo stile del vino nel WSET Livello 3?", "Sì, soprattutto attraverso acqua e calore. Ghiaia e sabbia drenanti riducono la vigoria e si scaldano in fretta; l'argilla trattiene l'acqua e resta fresca; i suoli sassosi o scuri immagazzinano calore e lo cedono di notte. Conta anche la fertilità: suoli molto fertili favoriscono vigoria e ombreggiamento, che possono abbassare la qualità del frutto."],
+["Che cos'è l'ombra pluviometrica e perché conta nel WSET 3?", "È una zona secca sul lato riparato di una catena montuosa. L'aria umida sale sulle montagne, si raffredda e scarica la pioggia sul versante esposto, mentre l'altro lato resta asciutto. L'Alsazia, dietro i Vosgi, è l'esempio classico: autunni secchi e soleggiati consentono una maturazione completa e vini da vendemmia tardiva. Nelle risposte d'esame collega la siccità a una minore pressione delle malattie e a uve più mature."],
+["Come influiscono le correnti oceaniche fredde sulle regioni vinicole?", "Correnti fredde come quella di Humboldt al largo del Cile e quella del Benguela al largo del Sudafrica raffreddano l'aria sopra il mare. Brezze e talvolta nebbie portano quest'aria fresca nell'entroterra, abbassando la temperatura dei vigneti. La maturazione rallenta, così le uve conservano più acidità e aromi freschi. Per questo le zone costiere di questi Paesi caldi producono Sauvignon Blanc, Chardonnay e Pinot Noir freschi."],
+["Come riconosco un vino di clima fresco nella degustazione alla cieca del WSET 3?", "Guarda prima la struttura. I vini di clima fresco hanno di solito acidità alta, alcol più basso e corpo leggero, con agrumi, frutta verde o frutti rossi più che aromi tropicali o di confettura. I rossi possono avere un colore più chiaro. Usa questi indizi per sostenere descrizione e giudizio di qualità. La degustazione è un'unità separata che richiede almeno il 55%: fai simulazioni regolari con vini veri."],
+["Perché in alcune regioni vinicole serve l'irrigazione?", "Nei climi secchi come Mendoza, gran parte dell'Australia o zone della California, le piogge sono troppo scarse perché la vite sopravviva o porti a maturazione le uve. L'irrigazione fornisce l'acqua mancante e permette di controllare quanta ne riceve la pianta, aiutando a gestire vigoria e rese. Dove è consentita è uno strumento di costanza; dove la pioggia basta è inutile o limitata."],
+["Se non supero la degustazione ma supero la teoria del WSET 3, devo ripetere tutto?", "No. Il WSET Level 3 ha due unità separate, teoria e degustazione, e serve almeno il 55% in ciascuna. Se non superi un'unità, ripeti soltanto quella; l'unità superata resta valida. Conviene comunque prepararle entrambe con serietà, perché un ottimo punteggio in teoria non può compensare una degustazione debole."]
 ]
 },
 "fr": {
@@ -184,6 +290,54 @@
 "Jour 5 : listez les méthodes de lutte antigel et expliquez le fonctionnement de chacune.",
 "Jour 6 : faites une série chronométrée de questions sur le climat dans l'appli et réécrivez chaque erreur sous forme de règle.",
 "Jour 7 : expliquez à voix haute pourquoi un chardonnay de climat frais et un chardonnay de climat chaud n'ont pas le même goût."
+]},
+{"h2": "Exemple corrigé : une réponse écrite courte sur le climat"},
+{"p": "Dans la partie écrite, les questions sur le climat donnent généralement une région et demandent d'expliquer comment ses conditions naturelles façonnent le vin. Les meilleures réponses avancent étape par étape : de l'environnement à la vigne, puis au raisin, enfin au verre."},
+{"p": "Question : Mendoza se situe à basse latitude, et pourtant elle produit des Malbec frais et de grande qualité. Expliquez comment l'environnement le permet."},
+{"p": "Réponse modèle : à une latitude d'environ 33° sud, Mendoza serait normalement trop chaude pour des vins fins, mais beaucoup de vignes sont plantées en altitude, au pied des Andes. La température baisse avec l'altitude, donc la saison végétative est plus fraîche que ne le laisse penser la latitude. Les nuits sont particulièrement froides, ce qui crée une forte amplitude thermique : les raisins mûrissent pendant des journées chaudes et ensoleillées mais conservent leur acidité et leurs arômes de fruits frais pendant les nuits fraîches. Le soleil intense en altitude favorise des pellicules plus épaisses, qui donnent au Malbec une couleur profonde et des tanins mûrs. Le climat est continental et très sec, avec peu de pluie : la pression des maladies est faible mais l'irrigation est indispensable ; les vignerons utilisent l'eau de fonte des Andes, ce qui leur permet aussi de maîtriser la vigueur et les rendements. Le résultat est un rouge corsé, à la couleur profonde, aux fruits noirs mûrs et à l'acidité équilibrée."},
+{"p": "Pourquoi cela fonctionne : la réponse nomme chaque facteur (altitude, amplitude thermique, ensoleillement, sécheresse, irrigation) et termine chaque enchaînement par son effet sur le raisin et sur le vin. Elle montre aussi qu'un facteur (l'altitude) peut en compenser un autre (la basse latitude), une idée que les correcteurs aiment tester."},
+{"h2": "Influences rafraîchissantes et réchauffantes dans le monde"},
+{"p": "Retenir un exemple clair pour chaque influence permet de répondre facilement aux questions à choix multiples comme aux questions écrites. Ce tableau relie l'influence à une région et au style qu'elle explique."},
+{"table": {"head": ["Influence", "Région exemple", "Effet sur le vin"], "rows": [
+["Courant océanique froid", "Côte chilienne (Humboldt), Western Cape (Benguela)", "Sites plus frais, maturation lente, acidité plus vive dans le Sauvignon Blanc et le Chardonnay"],
+["Brouillard côtier", "Carneros et Russian River Valley, Californie", "Matinées plus fraîches, saison plus longue, Pinot Noir et Chardonnay élégants"],
+["Haute altitude", "Salta et Mendoza, Argentine", "Forte amplitude thermique, couleur profonde, acidité fraîche malgré la basse latitude"],
+["Haute latitude", "Moselle, Champagne", "Maturation limite, acidité élevée, corps léger, forte variation entre millésimes"],
+["Effet de foehn (abri des pluies)", "Alsace, protégée par les Vosges", "Automnes secs et ensoleillés qui permettent des vins mûrs et des vendanges tardives"],
+["Fleuve ou lac", "Moselle, lac de Neusiedl, Tokaj", "Chaleur réfléchie ou brumes d'automne favorables à la pourriture noble"],
+["Vent fort et froid", "Rhône méridional (mistral)", "Raisins sains, moins de maladies, mais dégâts possibles à la floraison"]
+]}},
+{"h2": "Lire le climat dans le verre"},
+{"p": "Le WSET Level 3 comporte deux unités distinctes : une unité théorique (questions à choix multiples et réponses écrites courtes) et une unité de dégustation (deux vins évalués à l'aveugle avec la SAT). Il faut au moins 55 % dans chacune, et une unité échouée se repasse seule. La connaissance du climat aide dans les deux : à la dégustation, la structure d'un vin révèle souvent la chaleur de son lieu d'origine."},
+{"table": {"head": ["Caractéristique", "Climat plus frais", "Climat plus chaud"], "rows": [
+["Acidité", "Élevée", "Plus basse, sauf correction"],
+["Alcool", "Faible à moyen", "Moyen(+) à élevé"],
+["Corps", "Plus léger", "Plus ample"],
+["Caractère du fruit", "Agrumes, fruits verts, fruits rouges, parfois herbacé", "Fruits tropicaux, fruits noirs, fruits confiturés ou secs"],
+["Tanins des rouges", "Parfois fermes et moins mûrs", "Plus mûrs, plus souples, plus abondants"]
+]}},
+{"tip": "Technique d'examen : à la dégustation, servez-vous des indices climatiques pour étayer votre jugement de qualité, pas pour deviner la région. Un rouge vif et léger, aux fruits rouges et à la longue finale, peut être décrit comme équilibré et de très bonne qualité sans nommer son origine."},
+{"h2": "Questions d'entraînement avec réponses rédigées"},
+{"p": "Question : pourquoi la variation entre millésimes est-elle plus forte en Champagne que dans la Barossa Valley ? Réponse : la Champagne a un climat frais et limite où le raisin mûrit tout juste, si bien qu'une année froide ou pluvieuse peut le laisser vert. La Barossa est chaude et sèche, les raisins y mûrissent pleinement presque chaque année et les écarts entre millésimes sont plus faibles."},
+{"p": "Question : en quoi l'abri des Vosges profite-t-il à l'Alsace ? Réponse : les Vosges arrêtent la pluie venue de l'ouest, si bien que l'Alsace est l'une des régions les plus sèches de France. Des automnes secs et ensoleillés permettent une maturité complète et rendent possibles les vendanges tardives."},
+{"p": "Question : une vigne se trouve en fond de vallée. Quel risque est le plus probable, et pourquoi ? Réponse : la gelée de printemps, car l'air froid est dense, descend les pentes et s'accumule dans les points bas, appelés poches de gel. Les bourgeons et jeunes pousses peuvent être détruits, ce qui réduit la récolte."},
+{"p": "Question : pourquoi la sécheresse peut-elle nuire à la qualité même dans une région chaude ? Réponse : un stress hydrique sévère fait fermer les stomates de la vigne : la photosynthèse ralentit ou s'arrête et la maturation peut se bloquer. Les raisins risquent d'être petits et déséquilibrés, riches en sucre mais avec des tanins et des arômes immatures."},
+{"h2": "Erreurs fréquentes dans les questions sur le climat"},
+{"ul": [
+"Confondre le climat (la tendance à long terme) et la météo (ce qui se passe une année donnée).",
+"Écrire que plus de soleil donne toujours un meilleur vin : trop de chaleur et de lumière peuvent provoquer des brûlures et une perte d'acidité.",
+"Dire que l'altitude réchauffe une vigne : les vignes plus hautes sont plus fraîches, d'environ 0,6 °C tous les 100 m.",
+"Oublier l'hémisphère Sud : ce sont les pentes exposées au nord qui y reçoivent le plus de soleil.",
+"Décrire un facteur sans sa conséquence dans le vin, ce qui coûte des points dans les réponses écrites courtes.",
+"Confondre continental et maritime : continental signifie un grand écart entre été et hiver, pas simplement un climat froid."
+]},
+{"h2": "Check-list en cinq points pour toute réponse sur le climat"},
+{"ol": [
+"Nommez le type de climat et la tranche de température.",
+"Identifiez le principal facteur local : latitude, altitude, eau, vent, brouillard, pente ou sol.",
+"Expliquez son effet sur la température, la lumière ou l'eau.",
+"Décrivez l'effet sur la maturation : sucre, acidité, couleur, tanins, arômes.",
+"Terminez par le style de vin obtenu et, si c'est pertinent, sa qualité."
 ]}
 ],
 "faq": [
@@ -191,7 +345,12 @@
 ["Quelles températures définissent les climats frais, modéré, chaud et très chaud au WSET niveau 3 ?", "Les tranches reposent sur la température moyenne de la saison végétative : frais jusqu'à 16,5 °C, modéré de 16,5 à 18,5 °C, chaud de 18,5 à 21 °C, très chaud au-delà de 21 °C. Apprenez-les avec une région exemple chacune, car les questions demandent souvent de relier une tranche à l'acidité, au corps, à l'alcool et au fruit typiques."],
 ["Comment l'aspersion protège-t-elle la vigne du gel ?", "Pendant la gelée, on pulvérise de l'eau sur les bourgeons et les jeunes pousses. En gelant, l'eau libère de la chaleur latente qui maintient les tissus sous la glace autour de 0 °C au lieu de températures plus basses qui les tueraient. Il faut arroser jusqu'à ce que la glace fonde. La méthode demande beaucoup d'eau et peut engorger le sol."],
 ["Pourquoi une forte amplitude thermique améliore-t-elle la qualité du vin ?", "Les journées chaudes permettent au raisin d'accumuler sucres et arômes mûrs, tandis que les nuits fraîches ralentissent la dégradation des acides et aident à préserver les composés aromatiques. On obtient un vin au fruit mûr mais à l'acidité fraîche et à bonne intensité aromatique. Les vignobles d'altitude et certaines zones côtières sont connus pour cet effet."],
-["Le sol influence-t-il le style du vin au WSET niveau 3 ?", "Oui, surtout par l'eau et la chaleur. Graves et sables drainants réduisent la vigueur et se réchauffent vite ; l'argile retient l'eau et reste fraîche ; les sols caillouteux ou sombres stockent la chaleur et la restituent la nuit. La fertilité compte aussi : des sols très fertiles favorisent vigueur et ombrage, ce qui peut réduire la qualité du raisin."]
+["Le sol influence-t-il le style du vin au WSET niveau 3 ?", "Oui, surtout par l'eau et la chaleur. Graves et sables drainants réduisent la vigueur et se réchauffent vite ; l'argile retient l'eau et reste fraîche ; les sols caillouteux ou sombres stockent la chaleur et la restituent la nuit. La fertilité compte aussi : des sols très fertiles favorisent vigueur et ombrage, ce qui peut réduire la qualité du raisin."],
+["Qu'est-ce que l'effet d'abri pluviométrique et pourquoi compte-t-il au WSET 3 ?", "C'est une zone sèche située du côté abrité d'une chaîne de montagnes. L'air humide monte, se refroidit et déverse sa pluie sur le versant exposé, tandis que l'autre côté reste sec. L'Alsace, derrière les Vosges, en est l'exemple classique : des automnes secs et ensoleillés permettent une maturité complète et des vendanges tardives. Dans vos réponses, reliez cette sécheresse à une faible pression des maladies et à des raisins plus mûrs."],
+["Quel est l'effet des courants océaniques froids sur les régions viticoles ?", "Des courants froids comme celui de Humboldt au large du Chili et celui de Benguela au large de l'Afrique du Sud refroidissent l'air au-dessus de la mer. Les brises, et parfois le brouillard, portent cet air frais vers l'intérieur et abaissent la température des vignes. La maturation ralentit, les raisins gardent plus d'acidité et d'arômes frais. C'est pourquoi les zones côtières de ces pays chauds produisent des Sauvignon Blanc, Chardonnay et Pinot Noir vifs."],
+["Comment reconnaître un vin de climat frais à la dégustation à l'aveugle du WSET 3 ?", "Regardez d'abord la structure. Les vins de climat frais ont en général une acidité élevée, moins d'alcool et un corps plus léger, avec des agrumes, des fruits verts ou des fruits rouges plutôt que des arômes tropicaux ou confiturés. Les rouges peuvent avoir une couleur plus claire. Utilisez ces indices pour étayer votre description et votre jugement de qualité. La dégustation est une unité distincte qui exige au moins 55 % : faites régulièrement des examens blancs avec de vrais vins."],
+["Pourquoi l'irrigation est-elle nécessaire dans certaines régions viticoles ?", "Dans les climats secs comme Mendoza, une grande partie de l'Australie ou certaines zones de Californie, les pluies sont trop faibles pour que la vigne survive ou mûrisse ses raisins. L'irrigation apporte l'eau manquante et permet de contrôler la quantité reçue, ce qui aide à gérer la vigueur et les rendements. Là où elle est autorisée, c'est un outil de régularité ; là où la pluie suffit, elle est inutile ou encadrée."],
+["Si j'échoue à la dégustation mais réussis la théorie du WSET 3, dois-je tout repasser ?", "Non. Le WSET Level 3 comporte deux unités distinctes, la théorie et la dégustation, et chacune exige au moins 55 %. Si vous échouez à une unité, vous ne repassez que celle-ci ; l'unité réussie reste acquise. Il est tout de même sage de préparer sérieusement les deux, car une excellente note en théorie ne peut pas compenser une dégustation faible."]
 ]
 },
 "es": {
@@ -249,6 +408,54 @@
 "Día 5: enumera los métodos contra las heladas y explica cómo funciona cada uno.",
 "Día 6: haz una tanda cronometrada de preguntas de clima en la app y reescribe cada fallo como una regla.",
 "Día 7: explica en voz alta por qué una Chardonnay de clima fresco y una de clima cálido saben distinto."
+]},
+{"h2": "Ejemplo resuelto: una respuesta escrita corta sobre el clima"},
+{"p": "En la parte escrita, las preguntas sobre el clima suelen darte una región y pedirte que expliques cómo sus condiciones naturales influyen en el vino. Las mejores respuestas avanzan paso a paso: del entorno a la vid, después a la uva y, por último, a la copa."},
+{"p": "Pregunta: Mendoza está a baja latitud y, sin embargo, elabora Malbec frescos y de alta calidad. Explica cómo lo hace posible el entorno."},
+{"p": "Respuesta modelo: a una latitud de unos 33° sur, Mendoza sería normalmente demasiado cálida para vinos finos, pero muchos viñedos están plantados en altura, al pie de los Andes. La temperatura baja con la altitud, así que la temporada de crecimiento es más fresca de lo que indica la latitud. Las noches son especialmente frías y crean una gran amplitud térmica: las uvas maduran en días cálidos y soleados, pero conservan la acidez y los aromas de fruta fresca durante las noches frescas. La intensa luz solar en altura favorece hollejos más gruesos, que dan al Malbec un color profundo y taninos maduros. El clima es continental y muy seco, con poca lluvia, por lo que la presión de enfermedades es baja pero el riego es imprescindible; los viticultores usan agua del deshielo de los Andes, lo que además les permite controlar el vigor y los rendimientos. El resultado es un tinto con cuerpo, color profundo, fruta negra madura y acidez equilibrada."},
+{"p": "Por qué funciona: la respuesta nombra cada factor (altitud, amplitud térmica, luz solar, sequedad, riego) y cierra cada cadena con su efecto en la uva y en el vino. También muestra que un factor (la altitud) puede compensar otro (la baja latitud), una idea que a los examinadores les gusta evaluar."},
+{"h2": "Influencias que refrescan y calientan en el mundo"},
+{"p": "Aprender un ejemplo claro para cada influencia hace fácil responder tanto a las preguntas tipo test como a las escritas. Esta tabla relaciona la influencia con una región y con el estilo que explica."},
+{"table": {"head": ["Influencia", "Región de ejemplo", "Efecto en el vino"], "rows": [
+["Corriente oceánica fría", "Costa de Chile (Humboldt), Western Cape (Benguela)", "Zonas más frescas, maduración lenta, acidez más viva en Sauvignon Blanc y Chardonnay"],
+["Niebla costera", "Carneros y Russian River Valley, California", "Mañanas más frescas, temporada más larga, Pinot Noir y Chardonnay elegantes"],
+["Gran altitud", "Salta y Mendoza, Argentina", "Gran amplitud térmica, color profundo, acidez fresca pese a la baja latitud"],
+["Latitud alta", "Mosela, Champagne", "Maduración al límite, acidez alta, cuerpo ligero, gran variación entre añadas"],
+["Sombra pluviométrica", "Alsacia, protegida por los Vosgos", "Otoños secos y soleados que permiten vinos maduros y de vendimia tardía"],
+["Río o lago", "Mosela, lago Neusiedl, Tokaj", "Calor reflejado o nieblas otoñales que favorecen la podredumbre noble"],
+["Viento fuerte y frío", "Ródano meridional (mistral)", "Uvas sanas, menos enfermedades, pero posibles daños en la floración"]
+]}},
+{"h2": "Leer el clima en la copa"},
+{"p": "El WSET Level 3 tiene dos unidades separadas: una de teoría (preguntas tipo test y respuestas escritas cortas) y otra de cata (dos vinos evaluados a ciegas con el SAT). Necesitas al menos un 55 % en cada una, y una unidad suspendida se repite por separado. Conocer el clima ayuda en ambas: en la cata, la estructura de un vino suele mostrar lo cálido que era su lugar de origen."},
+{"table": {"head": ["Rasgo", "Clima más fresco", "Clima más cálido"], "rows": [
+["Acidez", "Alta", "Más baja, salvo corrección"],
+["Alcohol", "Bajo a medio", "Medio(+) a alto"],
+["Cuerpo", "Más ligero", "Más lleno"],
+["Carácter de la fruta", "Cítricos, fruta verde, fruta roja, a veces herbáceo", "Fruta tropical, fruta negra, fruta en mermelada o pasificada"],
+["Tanino en los tintos", "Puede ser firme y menos maduro", "Más maduro, suave y abundante"]
+]}},
+{"tip": "Técnica de examen: en la cata, usa las pistas climáticas para apoyar tu juicio de calidad, no para adivinar la región. Un tinto de acidez alta y cuerpo ligero, con fruta roja y un final largo, puede describirse como equilibrado y de calidad muy buena sin nombrar su origen."},
+{"h2": "Preguntas de práctica con respuesta"},
+{"p": "Pregunta: ¿por qué la variación entre añadas es mayor en Champagne que en el Barossa Valley? Respuesta: Champagne tiene un clima fresco y al límite, donde las uvas apenas maduran, así que un año frío o lluvioso puede dejarlas verdes. El Barossa es cálido y seco, las uvas maduran por completo casi todos los años y las diferencias entre añadas son menores."},
+{"p": "Pregunta: ¿cómo beneficia la sombra pluviométrica a Alsacia? Respuesta: los Vosgos frenan la lluvia que llega del oeste, por lo que Alsacia es una de las zonas más secas de Francia. Los otoños secos y soleados permiten una maduración completa y hacen posibles los estilos de vendimia tardía."},
+{"p": "Pregunta: un viñedo está en el fondo de un valle. ¿Qué riesgo es más probable y por qué? Respuesta: la helada primaveral, porque el aire frío es denso, baja por las laderas y se acumula en las zonas bajas, llamadas bolsas de helada. Las yemas y los brotes jóvenes pueden morir y la cosecha se reduce."},
+{"p": "Pregunta: ¿por qué la sequía puede reducir la calidad incluso en una región cálida? Respuesta: un estrés hídrico grave hace que la vid cierre los estomas, así que la fotosíntesis se frena o se detiene y la maduración puede bloquearse. Las uvas pueden quedar pequeñas y desequilibradas, con mucho azúcar pero taninos y aromas inmaduros."},
+{"h2": "Errores frecuentes en las preguntas sobre el clima"},
+{"ul": [
+"Confundir clima (el patrón a largo plazo) con tiempo meteorológico (lo que ocurre en un año concreto).",
+"Escribir que más sol siempre da mejor vino: demasiado calor y luz pueden causar quemaduras y pérdida de acidez.",
+"Decir que la altitud hace más cálido un viñedo: los viñedos más altos son más frescos, unos 0,6 °C menos cada 100 m.",
+"Olvidar el hemisferio sur: allí son las laderas orientadas al norte las que reciben más sol.",
+"Describir un factor sin su consecuencia en el vino, lo que resta puntos en las respuestas escritas cortas.",
+"Confundir continental y marítimo: continental significa una gran diferencia entre verano e invierno, no simplemente un clima frío."
+]},
+{"h2": "Lista de comprobación en cinco puntos para cualquier respuesta sobre el clima"},
+{"ol": [
+"Nombra el tipo de clima y la franja de temperatura.",
+"Identifica el principal factor local: latitud, altitud, agua, viento, niebla, pendiente o suelo.",
+"Explica qué efecto tiene en la temperatura, la luz o el agua.",
+"Describe el efecto en la maduración: azúcar, acidez, color, tanino, aromas.",
+"Termina con el estilo de vino resultante y, si procede, su calidad."
 ]}
 ],
 "faq": [
@@ -256,7 +463,12 @@
 ["¿Qué temperaturas definen los climas fresco, moderado, cálido y caluroso en el WSET 3?", "Las franjas se basan en la temperatura media del ciclo vegetativo: fresco hasta 16,5 °C, moderado de 16,5 a 18,5 °C, cálido de 18,5 a 21 °C y caluroso por encima de 21 °C. Apréndelas con una región de ejemplo cada una, porque las preguntas suelen pedir que relaciones una franja con la acidez, el cuerpo, el alcohol y la fruta típicos."],
 ["¿Cómo protegen los aspersores a la vid de las heladas?", "Durante la helada se pulveriza agua sobre yemas y brotes. Al congelarse, el agua libera calor latente que mantiene los tejidos bajo el hielo en torno a 0 °C, en lugar de temperaturas más bajas que los matarían. Hay que seguir regando hasta que el hielo se derrita. El método necesita mucha agua y puede encharcar el suelo."],
 ["¿Por qué una gran amplitud térmica mejora la calidad del vino?", "Los días cálidos permiten a la uva acumular azúcares y aromas maduros, mientras que las noches frescas frenan la degradación de los ácidos y ayudan a conservar los compuestos aromáticos. El resultado es un vino con fruta madura pero acidez fresca y buena intensidad aromática. Las zonas de altura y algunas zonas costeras son conocidas por este efecto."],
-["¿Influye el suelo en el estilo del vino en el WSET nivel 3?", "Sí, sobre todo a través del agua y el calor. La grava y la arena drenantes reducen el vigor y se calientan deprisa; la arcilla retiene agua y se mantiene fresca; los suelos pedregosos u oscuros almacenan calor y lo liberan de noche. La fertilidad también cuenta: los suelos muy fértiles favorecen el vigor y el sombreado, lo que puede bajar la calidad de la uva."]
+["¿Influye el suelo en el estilo del vino en el WSET nivel 3?", "Sí, sobre todo a través del agua y el calor. La grava y la arena drenantes reducen el vigor y se calientan deprisa; la arcilla retiene agua y se mantiene fresca; los suelos pedregosos u oscuros almacenan calor y lo liberan de noche. La fertilidad también cuenta: los suelos muy fértiles favorecen el vigor y el sombreado, lo que puede bajar la calidad de la uva."],
+["¿Qué es la sombra pluviométrica y por qué importa en el WSET 3?", "Es una zona seca en el lado protegido de una cordillera. El aire húmedo sube por las montañas, se enfría y descarga la lluvia en la ladera expuesta, mientras el otro lado queda seco. Alsacia, detrás de los Vosgos, es el ejemplo clásico: los otoños secos y soleados permiten una maduración completa y vinos de vendimia tardía. En tus respuestas, relaciona esa sequedad con menos enfermedades y uvas más maduras."],
+["¿Cómo afectan las corrientes oceánicas frías a las regiones vinícolas?", "Corrientes frías como la de Humboldt frente a Chile y la de Benguela frente a Sudáfrica enfrían el aire sobre el mar. Las brisas, y a veces la niebla, llevan ese aire fresco tierra adentro y bajan la temperatura de los viñedos. La maduración se ralentiza, de modo que las uvas conservan más acidez y aromas frescos. Por eso las zonas costeras de estos países cálidos elaboran Sauvignon Blanc, Chardonnay y Pinot Noir frescos."],
+["¿Cómo reconozco un vino de clima fresco en la cata a ciegas del WSET 3?", "Fíjate primero en la estructura. Los vinos de clima fresco suelen tener acidez alta, menos alcohol y cuerpo más ligero, con cítricos, fruta verde o fruta roja en lugar de aromas tropicales o de mermelada. Los tintos pueden tener un color más claro. Usa estas pistas para apoyar tu descripción y tu juicio de calidad. La cata es una unidad separada que exige al menos un 55 %: haz simulacros regulares con vinos reales."],
+["¿Por qué hace falta el riego en algunas regiones vinícolas?", "En climas secos como Mendoza, gran parte de Australia o zonas de California, llueve demasiado poco para que la vid sobreviva o madure sus uvas. El riego aporta el agua que falta y permite controlar cuánta recibe la planta, lo que ayuda a gestionar el vigor y los rendimientos. Donde está permitido es una herramienta de regularidad; donde la lluvia basta, es innecesario o está limitado."],
+["Si suspendo la cata pero apruebo la teoría del WSET 3, ¿tengo que repetirlo todo?", "No. El WSET Level 3 tiene dos unidades separadas, teoría y cata, y cada una exige al menos un 55 %. Si suspendes una unidad, solo repites esa; la unidad aprobada se mantiene. Aun así, conviene preparar ambas en serio, porque una nota excelente en teoría no puede compensar una cata floja."]
 ]
 }
 }
