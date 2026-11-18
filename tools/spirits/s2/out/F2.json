@@ -1,0 +1,1510 @@
+{
+ "lessons": [],
+ "questions": [
+  {
+   "c": "s5",
+   "q": [
+    "Molti whiskey irlandesi contengono orzo non maltato. Come diventa zucchero il suo amido?",
+    "Beaucoup de whiskeys irlandais contiennent de l'orge non maltée. Comment son amidon devient-il du sucre ?",
+    "Many Irish whiskeys contain unmalted barley. How does its starch become sugar?",
+    "Muchos whiskeys irlandeses contienen cebada sin maltear. ¿Cómo se convierte su almidón en azúcar?"
+   ],
+   "o": [
+    [
+     "Viene cotto, poi l'orzo maltato fornisce gli enzimi",
+     "Elle est cuite, puis l'orge maltée apporte les enzymes",
+     "It is cooked, then malted barley supplies the enzymes",
+     "Se cuece y luego la cebada malteada aporta las enzimas"
+    ],
+    [
+     "Il lievito trasforma l'amido direttamente in alcol",
+     "La levure transforme directement l'amidon en alcool",
+     "The yeast turns the starch straight into alcohol",
+     "La levadura transforma el almidón directamente en alcohol"
+    ],
+    [
+     "Viene essiccato sul fuoco di torba finché l'amido non diventa dolce",
+     "Elle est séchée sur un feu de tourbe jusqu'à ce que l'amidon devienne sucré",
+     "It is dried over a peat fire until the starch turns sweet",
+     "Se seca sobre un fuego de turba hasta que el almidón se vuelve dulce"
+    ],
+    [
+     "La filtrazione al carbone dopo la distillazione libera i suoi zuccheri",
+     "La filtration au charbon après la distillation libère ses sucres",
+     "Charcoal filtering after distillation releases its sugars",
+     "El filtrado con carbón tras la destilación libera sus azúcares"
+    ]
+   ],
+   "e": [
+    "I cereali non maltati si cuociono per rendere solubile l'amido, poi gli enzimi dell'orzo maltato lo convertono.",
+    "Les céréales non maltées sont cuites pour rendre l'amidon soluble, puis les enzymes de l'orge maltée le convertissent.",
+    "Unmalted grains are cooked to make the starch soluble, then enzymes from malted barley convert it.",
+    "Los cereales sin maltear se cuecen para que el almidón sea soluble y luego las enzimas de la cebada malteada lo convierten."
+   ],
+   "d": [
+    "Il lievito sa fermentare solo gli zuccheri, non l'amido: la conversione deve avvenire prima. Il fuoco di torba serve, se usato, ad asciugare il malto verde e aggiunge fumo, non zucchero. La filtrazione arriva dopo la distillazione, troppo tardi per creare zuccheri fermentabili.",
+    "La levure ne fermente que des sucres, pas l'amidon : la conversion doit se faire avant. Le feu de tourbe, s'il est utilisé, sert à sécher le malt vert et apporte de la fumée, pas du sucre. La filtration a lieu après la distillation, bien trop tard pour créer des sucres fermentescibles.",
+    "Yeast can only ferment sugar, not starch, so conversion has to happen first. A peat fire, when used, dries the green malt and adds smoke, not sugar. Filtering comes after distillation, far too late to create fermentable sugar.",
+    "La levadura solo fermenta azúcares, no almidón, así que la conversión debe hacerse antes. El fuego de turba, si se usa, seca la malta verde y aporta humo, no azúcar. El filtrado llega después de la destilación, demasiado tarde para crear azúcares fermentables."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Oltre a essere fatti con cereali, che cosa hanno in comune i whisky di pregio di Irlanda, Canada, Giappone, Scozia e Stati Uniti?",
+    "En plus d'être faits à partir de céréales, qu'ont en commun les whiskies haut de gamme d'Irlande, du Canada, du Japon, d'Écosse et des États-Unis ?",
+    "Apart from being made from grain, what do the premium whiskies of Ireland, Canada, Japan, Scotland and the USA have in common?",
+    "Además de elaborarse con cereales, ¿qué tienen en común los whiskies de calidad de Irlanda, Canadá, Japón, Escocia y Estados Unidos?"
+   ],
+   "o": [
+    [
+     "La maturazione in rovere",
+     "Le vieillissement en fût de chêne",
+     "Maturation in oak",
+     "La crianza en roble"
+    ],
+    [
+     "La tripla distillazione in alambicco discontinuo",
+     "La triple distillation en alambic à repasse",
+     "Triple distillation in pot stills",
+     "La triple destilación en alambique discontinuo"
+    ],
+    [
+     "Almeno il 51% di mais nella ricetta dei cereali",
+     "Au moins 51 % de maïs dans la recette de céréales",
+     "At least 51% corn in the grain recipe",
+     "Al menos un 51 % de maíz en la receta de cereales"
+    ],
+    [
+     "L'obbligo di miscelare distillati di più distillerie diverse",
+     "L'obligation d'assembler des eaux-de-vie de plusieurs distilleries",
+     "A duty to blend spirits from several different distilleries",
+     "La obligación de mezclar destilados de varias destilerías distintas"
+    ]
+   ],
+   "e": [
+    "Cereali e invecchiamento in rovere sono i due punti comuni; lo stile varia con cereali, grado di distillazione e botti.",
+    "Céréales et vieillissement en chêne sont les deux points communs ; le style varie avec les céréales, le degré de distillation et les fûts.",
+    "Grain and oak maturation are the two shared points; style varies with grains, distillation strength and barrels.",
+    "Cereales y crianza en roble son los dos puntos comunes; el estilo cambia según cereales, grado de destilación y barricas."
+   ],
+   "d": [
+    "La tripla distillazione è tipica dei malti irlandesi, non degli altri paesi. Il 51% di mais è una regola del Bourbon e del Tennessee Whiskey. I single malt scozzesi provengono per definizione da una sola distilleria, quindi la miscela tra distillerie non è un obbligo comune.",
+    "La triple distillation est typique des malts irlandais, pas des autres pays. Les 51 % de maïs sont une règle du Bourbon et du Tennessee Whiskey. Les single malts écossais viennent par définition d'une seule distillerie : l'assemblage entre distilleries n'est donc pas une obligation commune.",
+    "Triple distillation is typical of Irish malts, not of the other countries. The 51% corn rule belongs to Bourbon and Tennessee Whiskey. Scottish single malts come from just one distillery by definition, so blending across distilleries is not a shared duty.",
+    "La triple destilación es típica de las maltas irlandesas, no de los demás países. El 51 % de maíz es una norma del Bourbon y del Tennessee Whiskey. Los single malts escoceses proceden por definición de una sola destilería, así que mezclar destilerías no es una obligación común."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Il whisky leggero di mais di un blend canadese viene distillato a gradazione alta. Quale alambicco lo rende possibile?",
+    "Le whisky léger de maïs d'un blend canadien est distillé à haut degré. Quel alambic le permet ?",
+    "The light corn whisky in a Canadian blend is distilled to a high strength. Which still makes this possible?",
+    "El whisky ligero de maíz de un blend canadiense se destila a alta graduación. ¿Qué alambique lo hace posible?"
+   ],
+   "o": [
+    [
+     "La colonna",
+     "La colonne",
+     "A column still",
+     "La columna"
+    ],
+    [
+     "Un alambicco discontinuo usato una sola volta",
+     "Un alambic à repasse utilisé une seule fois",
+     "A pot still used for a single distillation",
+     "Un alambique discontinuo usado una sola vez"
+    ],
+    [
+     "Un alambicco discontinuo con un braccio molto lungo",
+     "Un alambic à repasse avec un col de cygne très long",
+     "A pot still with a very long lyne arm",
+     "Un alambique discontinuo con un brazo muy largo"
+    ],
+    [
+     "Un alambicco discontinuo seguito da un filtro di carbone d'acero",
+     "Un alambic à repasse suivi d'un filtre au charbon d'érable",
+     "A pot still followed by a maple-charcoal filter",
+     "Un alambique discontinuo seguido de un filtro de carbón de arce"
+    ]
+   ],
+   "e": [
+    "Solo la colonna, con i suoi tanti piatti, raggiunge le gradazioni alte che danno un whisky così leggero.",
+    "Seule la colonne, avec ses nombreux plateaux, atteint les hauts degrés qui donnent un whisky aussi léger.",
+    "Only a column, with its many plates, reaches the high strengths that give such a light whisky.",
+    "Solo la columna, con sus muchos platos, alcanza las altas graduaciones que dan un whisky tan ligero."
+   ],
+   "d": [
+    "Un alambicco discontinuo lavora a lotti e dà gradazioni più basse con più congeneri: è adatto ai whisky aromatizzanti, non alla base leggera. Un braccio lungo cambia un po' lo stile ma non porta alle gradazioni della colonna. Il filtro al carbone d'acero è il Lincoln County Process del Tennessee e non è un alambicco.",
+    "Un alambic à repasse travaille par lots et donne des degrés plus bas avec plus de congénères : il convient aux whiskies aromatiques, pas à la base légère. Un col long modifie un peu le style mais n'atteint pas les degrés de la colonne. Le filtre au charbon d'érable, c'est le Lincoln County Process du Tennessee, et ce n'est pas un alambic.",
+    "A pot still works in batches and gives lower strengths with more congeners, so it suits flavouring whiskies, not the light base. A long lyne arm shifts the style a little but cannot reach column strengths. The maple-charcoal filter is Tennessee's Lincoln County Process and is not a still at all.",
+    "Un alambique discontinuo trabaja por lotes y da graduaciones más bajas con más congéneres: sirve para whiskies aromatizantes, no para la base ligera. Un brazo largo cambia algo el estilo, pero no alcanza las graduaciones de la columna. El filtro de carbón de arce es el Lincoln County Process de Tennessee y no es un alambique."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Assaggiando un whiskey irlandese si trovano note speziate, fruttate e un po' oleose. Quale ingrediente le spiega meglio?",
+    "En dégustant un whiskey irlandais, on trouve des notes épicées, fruitées et un peu huileuses. Quel ingrédient les explique le mieux ?",
+    "Tasting an Irish whiskey, you find spicy, fruity and slightly oily notes. Which ingredient best explains them?",
+    "Al catar un whiskey irlandés se notan aromas especiados, afrutados y algo oleosos. ¿Qué ingrediente los explica mejor?"
+   ],
+   "o": [
+    [
+     "L'orzo non maltato",
+     "L'orge non maltée",
+     "Unmalted barley",
+     "La cebada sin maltear"
+    ],
+    [
+     "L'orzo maltato e torbato",
+     "L'orge maltée et tourbée",
+     "Peated malted barley",
+     "La cebada malteada y turbada"
+    ],
+    [
+     "Un'alta percentuale di mais",
+     "Une forte proportion de maïs",
+     "A high share of corn",
+     "Un alto porcentaje de maíz"
+    ],
+    [
+     "Il whisky aromatizzante di segale, come quello canadese",
+     "Le whisky aromatique de seigle, comme au Canada",
+     "Rye flavouring whisky, as used in Canada",
+     "El whisky aromatizante de centeno, como en Canadá"
+    ]
+   ],
+   "e": [
+    "L'orzo non maltato, tratto tipico di molti whiskey irlandesi, dà aromi speziati, fruttati o oleosi.",
+    "L'orge non maltée, trait typique de nombreux whiskeys irlandais, donne des arômes épicés, fruités ou huileux.",
+    "Unmalted barley, a hallmark of many Irish whiskeys, gives spicy, fruity or oily aromas.",
+    "La cebada sin maltear, rasgo típico de muchos whiskeys irlandeses, aporta aromas especiados, afrutados u oleosos."
+   ],
+   "d": [
+    "La torba darebbe note affumicate ed è rara in Irlanda. Il mais dà un carattere morbido e dolce, tipico del Bourbon e della base canadese. La segale dà note speziate di pane di segale, ma è il cereale aromatizzante del Canada, non il segno distintivo irlandese.",
+    "La tourbe donnerait des notes fumées et elle est rare en Irlande. Le maïs donne un caractère doux et souple, typique du Bourbon et de la base canadienne. Le seigle donne des notes épicées de pain de seigle, mais c'est la céréale aromatique du Canada, pas la signature irlandaise.",
+    "Peat would give smoky notes and is rare in Ireland. Corn gives a soft, sweet character, typical of Bourbon and the Canadian base. Rye gives spicy rye-bread notes, but it is Canada's flavouring grain, not the Irish signature.",
+    "La turba daría notas ahumadas y es rara en Irlanda. El maíz da un carácter suave y dulce, típico del Bourbon y de la base canadiense. El centeno aporta notas especiadas de pan de centeno, pero es el cereal aromatizante de Canadá, no la seña irlandesa."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Un raro whiskey irlandese ha aromi affumicati. In quale fase è entrato con ogni probabilità il fumo?",
+    "Un whiskey irlandais rare présente des arômes fumés. À quelle étape la fumée est-elle très probablement entrée ?",
+    "A rare Irish whiskey shows smoky aromas. At which stage did the smoke most likely get in?",
+    "Un whiskey irlandés poco común tiene aromas ahumados. ¿En qué fase entró muy probablemente el humo?"
+   ],
+   "o": [
+    [
+     "Quando il malto verde è stato scaldato su fuoco di torba",
+     "Quand le malt vert a été chauffé sur un feu de tourbe",
+     "When the green malt was heated over a peat fire",
+     "Cuando la malta verde se calentó sobre fuego de turba"
+    ],
+    [
+     "Durante la fermentazione, grazie a un lievito speciale",
+     "Pendant la fermentation, grâce à une levure spéciale",
+     "During fermentation, thanks to a special yeast",
+     "Durante la fermentación, gracias a una levadura especial"
+    ],
+    [
+     "Alla terza distillazione, perché l'alambicco era scaldato a fuoco diretto",
+     "À la troisième distillation, parce que l'alambic était chauffé à feu nu",
+     "At the third distillation, because the pot still was heated by direct fire",
+     "En la tercera destilación, porque el alambique se calentaba a fuego directo"
+    ],
+    [
+     "Durante la diluizione con acqua prima dell'imbottigliamento",
+     "Lors de la réduction avec de l'eau avant la mise en bouteille",
+     "When it was diluted with water before bottling",
+     "Al rebajarlo con agua antes del embotellado"
+    ]
+   ],
+   "e": [
+    "Se la torba è il combustibile usato per scaldare il malto verde, il suo fumo passa nell'orzo maltato e poi nel whiskey.",
+    "Si la tourbe sert de combustible pour chauffer le malt vert, sa fumée passe dans l'orge maltée puis dans le whiskey.",
+    "If peat is the fuel used to heat the green malt, its smoke passes into the malted barley and then into the whiskey.",
+    "Si la turba es el combustible para calentar la malta verde, su humo pasa a la cebada malteada y luego al whiskey."
+   ],
+   "d": [
+    "Il lievito crea congeneri fruttati e floreali, non fumo. Il tipo di riscaldamento dell'alambicco non porta aromi di torba nel distillato. L'acqua di diluizione deve essere pulita e neutra. Poiché in Irlanda la torba si usa di rado, un whiskey affumicato è un'eccezione.",
+    "La levure crée des congénères fruités et floraux, pas de fumée. Le mode de chauffe de l'alambic n'apporte pas d'arômes de tourbe au distillat. L'eau de réduction doit être pure et neutre. La tourbe étant rarement utilisée en Irlande, un whiskey fumé fait figure d'exception.",
+    "Yeast creates fruity and floral congeners, not smoke. The way a still is heated does not put peat aromas into the spirit. Dilution water should be clean and neutral. Since peat is rarely used in Ireland, a smoky whiskey is an exception.",
+    "La levadura crea congéneres afrutados y florales, no humo. La forma de calentar el alambique no añade aromas de turba al destilado. El agua para rebajar debe ser pura y neutra. Como en Irlanda la turba se usa poco, un whiskey ahumado es una excepción."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Quale di queste caratteristiche NON è tipica del whiskey irlandese?",
+    "Laquelle de ces caractéristiques n'est PAS typique du whiskey irlandais ?",
+    "Which of these features is NOT typical of Irish whiskey?",
+    "¿Cuál de estas características NO es típica del whiskey irlandés?"
+   ],
+   "o": [
+    [
+     "Malti distillati due volte, come in Scozia",
+     "Des malts distillés deux fois, comme en Écosse",
+     "Malts distilled twice, as in Scotland",
+     "Maltas destiladas dos veces, como en Escocia"
+    ],
+    [
+     "Miscele di distillati da alambicco discontinuo e da colonna",
+     "Des assemblages d'eaux-de-vie d'alambic à repasse et de colonne",
+     "Blends of pot-still and column-still spirits",
+     "Mezclas de destilados de alambique discontinuo y de columna"
+    ],
+    [
+     "L'uso di orzo non maltato nella ricetta",
+     "L'emploi d'orge non maltée dans la recette",
+     "The use of unmalted barley in the recipe",
+     "El uso de cebada sin maltear en la receta"
+    ],
+    [
+     "Uno stile generalmente più leggero di quello dello Scotch",
+     "Un style en général plus léger que celui du Scotch",
+     "A style that is generally lighter than Scotch",
+     "Un estilo en general más ligero que el del Scotch"
+    ]
+   ],
+   "e": [
+    "Il malto irlandese è tradizionalmente distillato tre volte, non due.",
+    "Le malt irlandais est traditionnellement distillé trois fois, pas deux.",
+    "Irish malt is traditionally distilled three times, not twice.",
+    "La malta irlandesa se destila tradicionalmente tres veces, no dos."
+   ],
+   "d": [
+    "La doppia distillazione è la norma per la maggior parte dei single malt scozzesi. Le miscele di alambicco e colonna, l'orzo non maltato e lo stile più leggero sono invece tutti tratti tipici dell'Irlanda. La tripla distillazione contribuisce proprio a quella leggerezza.",
+    "La double distillation est la règle pour la plupart des single malts écossais. Les assemblages alambic-colonne, l'orge non maltée et le style plus léger sont en revanche des traits typiquement irlandais. La triple distillation contribue justement à cette légèreté.",
+    "Double distillation is the norm for most Scottish single malts. Pot-and-column blends, unmalted barley and a lighter style are all typical Irish traits. Triple distillation is part of what makes Irish malts lighter.",
+    "La doble destilación es la norma en la mayoría de los single malts escoceses. Las mezclas de alambique y columna, la cebada sin maltear y el estilo más ligero son, en cambio, rasgos típicamente irlandeses. La triple destilación contribuye precisamente a esa ligereza."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Quale di questi distillati appena prodotti è stato con ogni probabilità distillato alla gradazione più alta?",
+    "Lequel de ces distillats tout juste produits a très probablement été distillé au degré le plus élevé ?",
+    "Which of these freshly made spirits was most likely distilled to the highest strength?",
+    "¿Cuál de estos destilados recién hechos se destiló muy probablemente a mayor graduación?"
+   ],
+   "o": [
+    [
+     "Il whisky di mais di base per un blend canadese",
+     "Le whisky de maïs de base d'un blend canadien",
+     "The corn base whisky for a Canadian blend",
+     "El whisky de maíz de base para un blend canadiense"
+    ],
+    [
+     "Il distillato appena prodotto destinato a diventare Bourbon",
+     "Le distillat neuf destiné à devenir du Bourbon",
+     "A new-make spirit destined to become Bourbon",
+     "El destilado recién hecho destinado a ser Bourbon"
+    ],
+    [
+     "Un whiskey irlandese da alambicco discontinuo, distillato tre volte",
+     "Un whiskey irlandais d'alambic à repasse, distillé trois fois",
+     "An Irish pot-still whiskey, distilled three times",
+     "Un whiskey irlandés de alambique discontinuo, destilado tres veces"
+    ],
+    [
+     "Un malto giapponese prodotto in alambicchi discontinui",
+     "Un malt japonais produit en alambics à repasse",
+     "A Japanese malt made in pot stills",
+     "Una malta japonesa elaborada en alambiques discontinuos"
+    ]
+   ],
+   "e": [
+    "La base canadese viene distillata a gradazione alta in colonna per ottenere un whisky leggero.",
+    "La base canadienne est distillée à haut degré en colonne pour obtenir un whisky léger.",
+    "The Canadian base is distilled to a high strength in a column to give a light whisky.",
+    "La base canadiense se destila a alta graduación en columna para obtener un whisky ligero."
+   ],
+   "d": [
+    "Anche il Bourbon nasce spesso in colonna, ma la legge impone una gradazione di distillazione relativamente bassa per conservare il sapore. Gli alambicchi discontinui, anche con tre passaggi, restano sotto le gradazioni di una colonna. Per questo il mais canadese è molto più morbido del Bourbon.",
+    "Le Bourbon naît souvent lui aussi en colonne, mais la loi impose un degré de distillation assez bas pour garder du goût. Les alambics à repasse, même avec trois passages, restent en dessous des degrés d'une colonne. C'est pourquoi le maïs canadien est bien plus doux que le Bourbon.",
+    "Bourbon is often column-distilled too, but the law requires a fairly low distillation strength to keep flavour. Pot stills, even with three runs, stay below column strengths. That is why Canadian corn whisky is much softer than Bourbon.",
+    "El Bourbon también suele salir de una columna, pero la ley exige una graduación de destilación bastante baja para conservar sabor. Los alambiques discontinuos, incluso con tres pasadas, quedan por debajo de la columna. Por eso el maíz canadiense es mucho más suave que el Bourbon."
+   ]
+  },
+  {
+   "c": "s5",
+   "q": [
+    "Si confrontano un whiskey irlandese da alambicco discontinuo e un single malt giapponese. Quale differenza è più probabile?",
+    "On compare un whiskey irlandais d'alambic à repasse et un single malt japonais. Quelle différence est la plus probable ?",
+    "You compare an Irish pot-still whiskey with a Japanese single malt. Which difference is most likely?",
+    "Comparas un whiskey irlandés de alambique discontinuo con un single malt japonés. ¿Qué diferencia es la más probable?"
+   ],
+   "o": [
+    [
+     "Solo quello irlandese contiene probabilmente orzo non maltato",
+     "Seul l'irlandais contient probablement de l'orge non maltée",
+     "Only the Irish one is likely to contain unmalted barley",
+     "Solo el irlandés contiene probablemente cebada sin maltear"
+    ],
+    [
+     "Solo quello giapponese è distillato in colonna",
+     "Seul le japonais est distillé en colonne",
+     "Only the Japanese one is column-distilled",
+     "Solo el japonés se destila en columna"
+    ],
+    [
+     "Solo quello irlandese è fatto con cereali",
+     "Seul l'irlandais est fait à partir de céréales",
+     "Only the Irish one is made from grain",
+     "Solo el irlandés se elabora con cereales"
+    ],
+    [
+     "Solo quello giapponese deve contenere almeno il 51% di mais per legge",
+     "Seul le japonais doit contenir au moins 51 % de maïs selon la loi",
+     "Only the Japanese one must legally contain at least 51% corn",
+     "Solo el japonés debe contener por ley al menos un 51 % de maíz"
+    ]
+   ],
+   "e": [
+    "L'orzo non maltato è un tratto irlandese; il malto giapponese segue il modello scozzese, con orzo maltato in alambicco discontinuo.",
+    "L'orge non maltée est un trait irlandais ; le malt japonais suit le modèle écossais, orge maltée en alambic à repasse.",
+    "Unmalted barley is an Irish trait; Japanese malt follows the Scottish model, malted barley in pot stills.",
+    "La cebada sin maltear es un rasgo irlandés; la malta japonesa sigue el modelo escocés, cebada malteada en alambique discontinuo."
+   ],
+   "d": [
+    "In Giappone la colonna serve per il whisky di cereali, non per il malto. Tutti i whisky, ovunque, sono fatti con cereali. La regola del 51% di mais riguarda il Bourbon americano, non il Giappone.",
+    "Au Japon, la colonne sert au whisky de grain, pas au malt. Tous les whiskies, partout, sont faits à partir de céréales. La règle des 51 % de maïs concerne le Bourbon américain, pas le Japon.",
+    "In Japan the column is used for grain whisky, not for malt. Every whisky, everywhere, is made from grain. The 51% corn rule applies to American Bourbon, not to Japan.",
+    "En Japón la columna se usa para el whisky de grano, no para la malta. Todos los whiskies, en cualquier país, se hacen con cereales. La norma del 51 % de maíz es del Bourbon estadounidense, no de Japón."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Come si colloca di solito la vodka nelle vendite nel mondo?",
+    "Comment la vodka se classe-t-elle en général dans les ventes à travers le monde ?",
+    "Where does vodka usually rank in sales around the world?",
+    "¿Qué posición suele ocupar el vodka en ventas en todo el mundo?"
+   ],
+   "o": [
+    [
+     "È il distillato più venduto, o quasi, praticamente ovunque",
+     "C'est le spiritueux le plus vendu, ou presque, pratiquement partout",
+     "It is the best-selling spirit, or close to it, almost everywhere",
+     "Es el destilado más vendido, o casi, prácticamente en todas partes"
+    ],
+    [
+     "Vende bene solo nell'Europa dell'Est e in Scandinavia",
+     "Elle ne se vend bien qu'en Europe de l'Est et en Scandinavie",
+     "It sells well only in Eastern Europe and Scandinavia",
+     "Solo se vende bien en Europa del Este y Escandinavia"
+    ],
+    [
+     "È un distillato di nicchia riservato ai cocktail bar",
+     "C'est un spiritueux de niche réservé aux bars à cocktails",
+     "It is a niche spirit kept mainly for cocktail bars",
+     "Es un destilado de nicho reservado a las coctelerías"
+    ],
+    [
+     "Vende meno di qualsiasi altro distillato bianco non invecchiato",
+     "Elle se vend moins que tout autre spiritueux blanc non vieilli",
+     "It sells less than any other unaged white spirit",
+     "Se vende menos que cualquier otro destilado blanco sin envejecer"
+    ]
+   ],
+   "e": [
+    "Partita dall'Europa dell'Est, la vodka è oggi il distillato più venduto, o quasi, in gran parte del mondo.",
+    "Partie d'Europe de l'Est, la vodka est aujourd'hui le spiritueux le plus vendu, ou presque, dans une grande partie du monde.",
+    "From its Eastern European home, vodka has become the best-selling spirit, or close to it, in most of the world.",
+    "Desde su origen en Europa del Este, el vodka es hoy el destilado más vendido, o casi, en buena parte del mundo."
+   ],
+   "d": [
+    "Il suo successo si deve alla neutralità e alla versatilità: non contrasta con gli altri sapori. Per questo non è affatto un prodotto di nicchia né limitato ai paesi d'origine. Viene prodotta quasi ovunque e a tutti i livelli di qualità.",
+    "Son succès tient à sa neutralité et à sa polyvalence : elle ne heurte pas les autres saveurs. Elle n'a donc rien d'un produit de niche ni d'une spécialité limitée à ses pays d'origine. On en produit presque partout et à tous les niveaux de qualité.",
+    "Its success comes from neutrality and versatility: it does not clash with other flavours. So it is neither a niche product nor limited to its home countries. It is made almost everywhere, at every quality level.",
+    "Su éxito se debe a su neutralidad y versatilidad: no choca con otros sabores. Por eso no es un producto de nicho ni se limita a sus países de origen. Se elabora casi en todas partes y en todos los niveles de calidad."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Il marchio di vodka più grande del mondo è l'esempio più noto di quale stile?",
+    "La plus grande marque de vodka au monde est l'exemple le plus connu de quel style ?",
+    "The world's largest vodka brand is the best-known example of which style?",
+    "La mayor marca de vodka del mundo es el ejemplo más conocido de ¿qué estilo?"
+   ],
+   "o": [
+    [
+     "Lo stile neutro",
+     "Le style neutre",
+     "The neutral style",
+     "El estilo neutro"
+    ],
+    [
+     "Lo stile di carattere",
+     "Le style de caractère",
+     "The characterful style",
+     "El estilo con carácter"
+    ],
+    [
+     "La vodka aromatizzata tradizionale dell'Est",
+     "La vodka aromatisée traditionnelle de l'Est",
+     "Traditional Eastern European flavoured vodka",
+     "El vodka aromatizado tradicional del Este"
+    ],
+    [
+     "La vodka di patate affinata in botti di rovere",
+     "La vodka de pomme de terre affinée en fût de chêne",
+     "Potato vodka finished in oak barrels",
+     "El vodka de patata afinado en barricas de roble"
+    ]
+   ],
+   "e": [
+    "Lo stile neutro, con il sapore più leggero possibile, è quello del marchio più venduto al mondo.",
+    "Le style neutre, au goût le plus léger possible, est celui de la marque la plus vendue au monde.",
+    "The neutral style, with the lightest possible flavour, is the style of the world's biggest-selling brand.",
+    "El estilo neutro, con el sabor más ligero posible, es el de la marca más vendida del mundo."
+   ],
+   "d": [
+    "Lo stile di carattere punta su un po' più di sapore e una consistenza più piena, ed è tipico delle vodka premium. Le vodka aromatizzate sono una categoria a parte. La vodka si conserva in recipienti inerti, non in rovere.",
+    "Le style de caractère mise sur un peu plus de goût et une texture plus ample, et il est typique des vodkas premium. Les vodkas aromatisées forment une catégorie à part. La vodka est conservée en cuves inertes, pas en chêne.",
+    "The characterful style aims for a little more flavour and a fuller texture and is typical of premium vodkas. Flavoured vodkas are a separate category. Vodka is kept in inert vessels, not oak.",
+    "El estilo con carácter busca algo más de sabor y una textura más llena, y es típico de los vodkas premium. Los vodkas aromatizados son una categoría aparte. El vodka se guarda en recipientes inertes, no en roble."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Oltre a creare la consistenza voluta, che cosa possono fare alcuni additivi per vodka?",
+    "En plus de créer la texture voulue, que peuvent faire certains additifs pour vodka ?",
+    "Besides creating the desired texture, what can some vodka additives also do?",
+    "Además de crear la textura deseada, ¿qué pueden hacer algunos aditivos para vodka?"
+   ],
+   "o": [
+    [
+     "Aromatizzare la vodka in modo lievissimo",
+     "Aromatiser la vodka de façon très légère",
+     "Very lightly aromatise the spirit",
+     "Aromatizar el vodka de forma muy ligera"
+    ],
+    [
+     "Portarla sopra il 40% vol. senza nuova distillazione",
+     "La faire monter au-dessus de 40 % vol. sans nouvelle distillation",
+     "Raise it above 40% abv without more distillation",
+     "Subirlo por encima del 40 % vol. sin otra destilación"
+    ],
+    [
+     "Sostituire del tutto la necessità di una colonna con molti piatti",
+     "Remplacer entièrement le besoin d'une colonne à nombreux plateaux",
+     "Remove the need for a column still with many plates entirely",
+     "Sustituir por completo la necesidad de una columna con muchos platos"
+    ],
+    [
+     "Darle un colore dorato simile a quello del rovere",
+     "Lui donner une couleur dorée proche de celle du chêne",
+     "Give it a golden colour similar to oak",
+     "Darle un color dorado parecido al del roble"
+    ]
+   ],
+   "e": [
+    "Gli additivi, su misura per ogni marchio, servono alla consistenza e a volte aromatizzano appena la vodka.",
+    "Les additifs, faits sur mesure pour chaque marque, servent à la texture et parfois aromatisent à peine la vodka.",
+    "Additives, tailored to each brand, shape texture and sometimes very lightly aromatise the vodka.",
+    "Los aditivos, hechos a medida para cada marca, sirven para la textura y a veces aromatizan muy levemente el vodka."
+   ],
+   "d": [
+    "La gradazione dipende dalla distillazione e dalla diluizione, non dagli additivi. Nessun additivo può sostituire la colonna, unico alambicco capace di arrivare al 95–96% vol. Una vodka non aromatizzata resta incolore: un colore dorato non è un obiettivo di questi additivi.",
+    "Le degré dépend de la distillation et de la réduction, pas des additifs. Aucun additif ne remplace la colonne, seul alambic capable d'atteindre 95–96 % vol. Une vodka non aromatisée reste incolore : une couleur dorée n'est pas le but de ces additifs.",
+    "Strength depends on distillation and dilution, not on additives. No additive can replace the column, the only still able to reach 95–96% abv. An unflavoured vodka stays colourless, so a golden tint is not what these additives are for.",
+    "La graduación depende de la destilación y la dilución, no de los aditivos. Ningún aditivo sustituye a la columna, el único alambique capaz de llegar al 95–96 % vol. Un vodka sin aromatizar sigue incoloro: un tono dorado no es la finalidad de estos aditivos."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Serve un alambicco speciale per produrre lo spirito neutro della vodka?",
+    "Faut-il un alambic spécial pour produire l'alcool neutre de la vodka ?",
+    "Does a distiller need a special still to make the neutral spirit for vodka?",
+    "¿Hace falta un alambique especial para producir el alcohol neutro del vodka?"
+   ],
+   "o": [
+    [
+     "No, basta una colonna standard con abbastanza piatti",
+     "Non, une colonne standard avec assez de plateaux suffit",
+     "No, a standard column with enough plates will do",
+     "No, basta una columna estándar con suficientes platos"
+    ],
+    [
+     "Sì, solo un alambicco sotto vuoto arriva al 95–96%",
+     "Oui, seul un alambic sous vide atteint 95–96 %",
+     "Yes, only a vacuum still can reach 95–96%",
+     "Sí, solo un alambique al vacío llega al 95–96 %"
+    ],
+    [
+     "Sì, solo un alambicco ibrido può arrivare a quella gradazione",
+     "Oui, seul un alambic hybride peut atteindre ce degré",
+     "Yes, only a hybrid still can reach that strength",
+     "Sí, solo un alambique híbrido puede llegar a esa graduación"
+    ],
+    [
+     "No, bastano due passaggi in un alambicco discontinuo tradizionale",
+     "Non, deux passages dans un alambic à repasse traditionnel suffisent",
+     "No, two runs in a traditional pot still are enough",
+     "No, bastan dos pasadas por un alambique discontinuo tradicional"
+    ]
+   ],
+   "e": [
+    "Una colonna normale, se ha piatti a sufficienza, raggiunge il 95–96% vol. richiesto.",
+    "Une colonne ordinaire, si elle a assez de plateaux, atteint les 95–96 % vol. exigés.",
+    "An ordinary column, if it has enough plates, reaches the required 95–96% abv.",
+    "Una columna normal, si tiene suficientes platos, alcanza el 95–96 % vol. exigido."
+   ],
+   "d": [
+    "L'alambicco sotto vuoto serve a catturare aromi delicati di botaniche a bassa temperatura, non a raggiungere gradazioni alte. L'alambicco ibrido è una scelta di alcuni produttori per affinare la consistenza, non un obbligo. Un alambicco discontinuo da solo non arriva mai alle gradazioni necessarie.",
+    "L'alambic sous vide sert à capter à basse température des arômes délicats de botaniques, pas à atteindre de hauts degrés. L'alambic hybride est un choix de certains producteurs pour affiner la texture, pas une obligation. Un alambic à repasse seul n'atteint jamais les degrés nécessaires.",
+    "A vacuum still captures delicate botanical aromas at low temperature; it is not about high strength. A hybrid still is an option some producers use to refine texture, not a requirement. A pot still alone can never reach the strengths needed.",
+    "El alambique al vacío sirve para captar aromas delicados de botánicos a baja temperatura, no para alcanzar altas graduaciones. El híbrido es una opción de algunos productores para afinar la textura, no una obligación. Un alambique discontinuo por sí solo nunca llega a la graduación necesaria."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Che cos'è esattamente l'«alambicco ibrido» usato da alcuni produttori di vodka?",
+    "Qu'est-ce exactement que l'« alambic hybride » utilisé par certains producteurs de vodka ?",
+    "What exactly is the 'hybrid still' used by some vodka producers?",
+    "¿Qué es exactamente el «alambique híbrido» que usan algunos productores de vodka?"
+   ],
+   "o": [
+    [
+     "Un alambicco discontinuo collegabile a una colonna di rettifica",
+     "Un alambic à repasse qu'on peut relier à une colonne de rectification",
+     "A pot still that can be linked to a rectifying column",
+     "Un alambique discontinuo que puede conectarse a una columna rectificadora"
+    ],
+    [
+     "Una colonna senza piatti che lavora a lotti",
+     "Une colonne sans plateaux qui travaille par lots",
+     "A column with no plates that works in batches",
+     "Una columna sin platos que trabaja por lotes"
+    ],
+    [
+     "Due alambicchi discontinui uniti da un unico collo di cigno",
+     "Deux alambics à repasse reliés par un seul col de cygne",
+     "Two pot stills joined by a single swan neck",
+     "Dos alambiques discontinuos unidos por un único cuello de cisne"
+    ],
+    [
+     "Un alambicco discontinuo con filtro a carbone attivo incorporato nel condensatore",
+     "Un alambic à repasse avec un filtre à charbon actif intégré au condenseur",
+     "A pot still with an activated-charcoal filter built into its condenser",
+     "Un alambique discontinuo con un filtro de carbón activo integrado en el condensador"
+    ]
+   ],
+   "e": [
+    "L'ibrido unisce una caldaia discontinua a una colonna di rettifica: di fatto è un'altra distillazione in colonna.",
+    "L'hybride associe une chaudière à repasse et une colonne de rectification : c'est en fait une nouvelle distillation en colonne.",
+    "The hybrid combines a pot with a rectifying column: in effect, it is another column distillation.",
+    "El híbrido une una caldera discontinua y una columna rectificadora: en la práctica, es otra destilación en columna."
+   ],
+   "d": [
+    "Per questo, quando un produttore rettifica lo spirito neutro acquistato in un ibrido, lo purifica ulteriormente e ne rende la consistenza più setosa. Una colonna senza piatti non esiste come tale. La filtrazione a carbone è un passaggio separato dopo la distillazione.",
+    "C'est pourquoi, quand un producteur repasse dans un hybride l'alcool neutre acheté, il le purifie encore et rend sa texture plus soyeuse. Une colonne sans plateaux n'existe pas en tant que telle. La filtration au charbon est une étape distincte, après la distillation.",
+    "That is why rerunning bought-in neutral spirit through a hybrid purifies it further and makes the texture silkier. A column with no plates is not a real still type. Charcoal filtration is a separate step after distillation.",
+    "Por eso, cuando un productor repasa por un híbrido el alcohol neutro comprado, lo purifica aún más y logra una textura más sedosa. Una columna sin platos no existe como tal. El filtrado con carbón es un paso aparte, posterior a la destilación."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Come si può lanciare un marchio di vodka senza distillare nulla in proprio?",
+    "Comment lancer une marque de vodka sans rien distiller soi-même ?",
+    "How can a vodka brand be launched without distilling anything itself?",
+    "¿Cómo se puede lanzar una marca de vodka sin destilar nada por cuenta propia?"
+   ],
+   "o": [
+    [
+     "Comprando spirito neutro, una merce molto scambiata",
+     "En achetant de l'alcool neutre, une matière très échangée",
+     "By buying neutral spirit, a widely traded commodity",
+     "Comprando alcohol neutro, una mercancía muy comercializada"
+    ],
+    [
+     "Facendo invecchiare in acciaio il whisky di un altro produttore",
+     "En faisant vieillir en inox le whisky d'un autre producteur",
+     "By ageing another producer's whisky in steel tanks",
+     "Envejeciendo en acero el whisky de otro productor"
+    ],
+    [
+     "Imbottigliando direttamente il liquido fermentato di patate",
+     "En mettant directement en bouteille le liquide fermenté de pommes de terre",
+     "By bottling fermented potato liquid as it is",
+     "Embotellando directamente el líquido fermentado de patata"
+    ],
+    [
+     "Ridistillando un gin per togliergli le botaniche",
+     "En redistillant un gin pour lui ôter ses botaniques",
+     "By redistilling gin to strip its botanicals",
+     "Redestilando ginebra para quitarle los botánicos"
+    ]
+   ],
+   "e": [
+    "Lo spirito neutro si compra e si vende ampiamente; diluito, e spesso rettificato, diventa vodka.",
+    "L'alcool neutre s'achète et se vend largement ; réduit, et souvent repassé, il devient vodka.",
+    "Neutral spirit is bought and sold widely; diluted, and often refined further, it becomes vodka.",
+    "El alcohol neutro se compra y se vende ampliamente; rebajado, y a menudo refinado, se convierte en vodka."
+   ],
+   "d": [
+    "Diluito e basta può risultare un po' ruvido, perciò molti lo passano in un alambicco ibrido. Il whisky è un'altra categoria e il liquido fermentato non è ancora un distillato. Ripulire un gin dalle botaniche non ha senso quando si parte comunque da spirito neutro.",
+    "Simplement réduit, il peut paraître un peu rêche : beaucoup le repassent donc dans un alambic hybride. Le whisky est une autre catégorie, et un liquide fermenté n'est pas encore un spiritueux. Débarrasser un gin de ses botaniques n'a aucun sens quand le gin lui-même part d'alcool neutre.",
+    "Simply diluted, it can feel a little rough, so many rerun it through a hybrid still. Whisky is another category, and a fermented liquid is not yet a spirit. Stripping a gin of its botanicals makes no sense when gin itself starts from neutral spirit.",
+    "Simplemente rebajado puede resultar algo áspero, por eso muchos lo repasan por un alambique híbrido. El whisky es otra categoría y un líquido fermentado aún no es un destilado. Quitar los botánicos a una ginebra no tiene sentido cuando la propia ginebra parte de alcohol neutro."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Quale di questi NON è un passaggio abituale nella produzione di una vodka non aromatizzata?",
+    "Laquelle de ces étapes n'est PAS habituelle dans la production d'une vodka non aromatisée ?",
+    "Which of these is NOT a usual step in making an unflavoured vodka?",
+    "¿Cuál de estos NO es un paso habitual en la elaboración de un vodka sin aromatizar?"
+   ],
+   "o": [
+    [
+     "L'invecchiamento in botti di rovere",
+     "Le vieillissement en fûts de chêne",
+     "Maturing it in oak barrels",
+     "La crianza en barricas de roble"
+    ],
+    [
+     "La filtrazione su carbone attivo",
+     "La filtration sur charbon actif",
+     "Filtering it through activated charcoal",
+     "El filtrado con carbón activo"
+    ],
+    [
+     "La diluizione con acqua di ottima qualità fino al grado di vendita",
+     "La réduction avec une eau d'excellente qualité jusqu'au degré de vente",
+     "Diluting it with top-quality water to bottling strength",
+     "La dilución con agua de máxima calidad hasta el grado de venta"
+    ],
+    [
+     "La conservazione in recipienti inerti",
+     "La conservation en cuves inertes",
+     "Storing it in inert vessels",
+     "La conservación en recipientes inertes"
+    ]
+   ],
+   "e": [
+    "La vodka resta in recipienti inerti: il rovere aggiungerebbe colore e aromi che contrastano con la sua neutralità.",
+    "La vodka reste en cuves inertes : le chêne apporterait couleur et arômes contraires à sa neutralité.",
+    "Vodka is kept in inert vessels: oak would add colour and aromas that go against its neutrality.",
+    "El vodka se guarda en recipientes inertes: el roble aportaría color y aromas contrarios a su neutralidad."
+   ],
+   "d": [
+    "Il carbone attivo elimina gli ultimi congeneri indesiderati ed è molto diffuso. La diluizione con acqua purissima è indispensabile, visto che quasi il 60% della bottiglia è acqua. I recipienti inerti sono la regola proprio per non cambiare il distillato.",
+    "Le charbon actif élimine les derniers congénères indésirables et il est très répandu. La réduction avec une eau très pure est indispensable, puisque près de 60 % de la bouteille est de l'eau. Les cuves inertes sont la règle justement pour ne pas modifier le distillat.",
+    "Activated charcoal removes the last unwanted congeners and is widely used. Dilution with very pure water is essential, as nearly 60% of the bottle is water. Inert vessels are the rule precisely so the spirit does not change.",
+    "El carbón activo elimina los últimos congéneres no deseados y se usa mucho. Rebajar con agua purísima es imprescindible, ya que casi el 60 % de la botella es agua. Los recipientes inertes son la norma precisamente para no alterar el destilado."
+   ]
+  },
+  {
+   "c": "s8",
+   "q": [
+    "Una vodka premium «di carattere» ha una consistenza più piena. Come va comunque descritta l'intensità del suo aroma?",
+    "Une vodka premium « de caractère » a une texture plus ample. Comment faut-il malgré tout décrire l'intensité de son arôme ?",
+    "A premium 'characterful' vodka has a fuller texture. How should its aroma intensity still be described?",
+    "Un vodka premium «con carácter» tiene una textura más llena. ¿Cómo se debe describir, aun así, la intensidad de su aroma?"
+   ],
+   "o": [
+    [
+     "Neutra",
+     "Neutre",
+     "Neutral",
+     "Neutra"
+    ],
+    [
+     "Media",
+     "Moyenne",
+     "Medium",
+     "Media"
+    ],
+    [
+     "Pronunciata",
+     "Prononcée",
+     "Pronounced",
+     "Pronunciada"
+    ],
+    [
+     "Carica, come per il colore",
+     "Soutenue, comme pour la couleur",
+     "Deep, as for colour",
+     "Intensa, como para el color"
+    ]
+   ],
+   "e": [
+    "Anche le vodka di carattere hanno sapori lievissimi, che si descrivono correttamente come neutri.",
+    "Même les vodkas de caractère ont des saveurs très légères, que l'on décrit correctement comme neutres.",
+    "Even characterful vodkas have very light flavours, correctly described as neutral.",
+    "Incluso los vodkas con carácter tienen sabores muy ligeros, que se describen correctamente como neutros."
+   ],
+   "d": [
+    "La differenza con lo stile neutro sta soprattutto nella consistenza, più avvolgente, non nell'intensità aromatica. «Media» e «pronunciata» si usano per la maggior parte degli altri distillati. «Carica» è un termine dell'aspetto, non del naso. Se una vodka non aromatizzata ha aromi davvero non neutri, sono stati probabilmente aggiunti dopo la distillazione.",
+    "La différence avec le style neutre tient surtout à la texture, plus enveloppante, pas à l'intensité aromatique. « Moyenne » et « prononcée » servent pour la plupart des autres spiritueux. « Soutenue » est un terme de l'aspect, pas du nez. Si une vodka non aromatisée a des arômes vraiment non neutres, ils ont sans doute été ajoutés après la distillation.",
+    "The difference from the neutral style lies mainly in a rounder texture, not in aroma intensity. 'Medium' and 'pronounced' are used for most other spirits. 'Deep' is an appearance term, not a nose term. If an unflavoured vodka shows clearly non-neutral aromas, they were probably added after distillation.",
+    "La diferencia con el estilo neutro está sobre todo en una textura más envolvente, no en la intensidad aromática. «Media» y «pronunciada» se usan para la mayoría de los demás destilados. «Intensa» es un término de la vista, no de la nariz. Si un vodka sin aromatizar tiene aromas claramente no neutros, probablemente se añadieron tras la destilación."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "I vini aromatizzati non sono distillati. Perché chi lavora al bar deve comunque conoscerli?",
+    "Les vins aromatisés ne sont pas des spiritueux. Pourquoi faut-il quand même les connaître au bar ?",
+    "Aromatised wines are not spirits. Why do bar staff still need to know them?",
+    "Los vinos aromatizados no son destilados. ¿Por qué hay que conocerlos igualmente en la barra?"
+   ],
+   "o": [
+    [
+     "Sono ingredienti chiave di molti cocktail",
+     "Ce sont des ingrédients clés de nombreux cocktails",
+     "They are key ingredients in many cocktails",
+     "Son ingredientes clave de muchos cócteles"
+    ],
+    [
+     "Sono la base alcolica della maggior parte dei liquori",
+     "Ils sont la base alcoolique de la plupart des liqueurs",
+     "They are the alcoholic base of most liqueurs",
+     "Son la base alcohólica de la mayoría de los licores"
+    ],
+    [
+     "Per legge sono classificati come distillati aromatizzati",
+     "La loi les classe parmi les spiritueux aromatisés",
+     "The law classes them as flavoured spirits",
+     "La ley los clasifica como destilados aromatizados"
+    ],
+    [
+     "Sostituiscono i bitter da cocktail in quasi tutte le ricette classiche",
+     "Ils remplacent les bitters à cocktail dans presque toutes les recettes classiques",
+     "They replace cocktail bitters in almost every classic recipe",
+     "Sustituyen a los bitters de cóctel en casi todas las recetas clásicas"
+    ]
+   ],
+   "e": [
+    "Contano per il loro ruolo nella cultura del bar e dei cocktail, soprattutto il vermouth.",
+    "Ils comptent pour leur rôle dans la culture du bar et des cocktails, surtout le vermouth.",
+    "They matter because of their role in bar and cocktail culture, above all vermouth.",
+    "Importan por su papel en la cultura de la barra y de los cócteles, sobre todo el vermut."
+   ],
+   "d": [
+    "Il vermouth è essenziale, per esempio, in Martini, Manhattan e Negroni. I liquori partono di solito da spirito neutro, non da vino. Per legge i vini aromatizzati sono vini fortificati, non distillati. Nei cocktail spirit-forward il vermouth affianca i bitter, ma non li rimpiazza ovunque.",
+    "Le vermouth est essentiel, par exemple, dans le Martini, le Manhattan et le Negroni. Les liqueurs partent en général d'un alcool neutre, pas de vin. Légalement, les vins aromatisés sont des vins fortifiés, pas des spiritueux. Dans les cocktails spirit-forward, le vermouth accompagne les bitters sans les remplacer partout.",
+    "Vermouth is essential in, for example, the Martini, Manhattan and Negroni. Liqueurs usually start from neutral spirit, not wine. Legally, aromatised wines are fortified wines, not spirits. In spirit-forward drinks vermouth works alongside bitters but does not replace them everywhere.",
+    "El vermut es esencial, por ejemplo, en el Martini, el Manhattan y el Negroni. Los licores suelen partir de alcohol neutro, no de vino. Legalmente, los vinos aromatizados son vinos fortificados, no destilados. En los cócteles spirit-forward el vermut acompaña a los bitters, pero no los sustituye en todos los casos."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "Un produttore europeo aromatizza un vino fortificato e dolcificato con erbe e agrumi, ma senza piante della famiglia dell'assenzio. Può chiamarlo vermouth?",
+    "Un producteur européen aromatise un vin fortifié et sucré avec des herbes et des agrumes, mais sans plantes de la famille de l'absinthe. Peut-il l'appeler vermouth ?",
+    "A European producer flavours a fortified, sweetened wine with herbs and citrus but no wormwood-family plants. Can it be called vermouth?",
+    "Un productor europeo aromatiza un vino fortificado y endulzado con hierbas y cítricos, pero sin plantas de la familia del ajenjo. ¿Puede llamarlo vermut?"
+   ],
+   "o": [
+    [
+     "No: le piante della famiglia dell'assenzio sono obbligatorie",
+     "Non : les plantes de la famille de l'absinthe sont obligatoires",
+     "No: wormwood-family plants are compulsory",
+     "No: las plantas de la familia del ajenjo son obligatorias"
+    ],
+    [
+     "Sì, purché il vino sia fortificato ad almeno 14,5% vol.",
+     "Oui, à condition que le vin soit fortifié à au moins 14,5 % vol.",
+     "Yes, as long as it is fortified to at least 14.5% abv",
+     "Sí, siempre que se fortifique al menos al 14,5 % vol."
+    ],
+    [
+     "Sì, se è prodotto nella zona alpina tra Francia e Italia",
+     "Oui, s'il est produit dans la zone alpine entre France et Italie",
+     "Yes, if it is made in the Alpine area of France and Italy",
+     "Sí, si se elabora en la zona alpina entre Francia e Italia"
+    ],
+    [
+     "No: per essere vermouth dovrebbe anche partire da un vino rosso",
+     "Non : pour être un vermouth, il devrait aussi partir d'un vin rouge",
+     "No: to be vermouth it would also have to start from a red wine",
+     "No: para ser vermut también tendría que partir de un vino tinto"
+    ]
+   ],
+   "e": [
+    "Per la legge europea, ciò che definisce un vermouth è la presenza di piante della famiglia dell'assenzio.",
+    "Selon la loi européenne, ce qui définit un vermouth, c'est la présence de plantes de la famille de l'absinthe.",
+    "Under European law, what defines a vermouth is the use of wormwood-family plants.",
+    "Según la ley europea, lo que define un vermut es el uso de plantas de la familia del ajenjo."
+   ],
+   "d": [
+    "La gradazione tra 14,5 e 22% vol. vale per tutti i vini aromatizzati, quindi non basta a distinguere un vermouth. La zona alpina è dove se ne produce di più, ma non è un requisito. Il vino base può essere bianco o rosso, e la maggior parte dei vermouth rossi nasce da vino bianco colorato con caramello.",
+    "La plage de 14,5 à 22 % vol. vaut pour tous les vins aromatisés : elle ne suffit pas à distinguer un vermouth. La zone alpine est celle qui en produit le plus, mais ce n'est pas une condition. Le vin de base peut être blanc ou rouge, et la plupart des vermouths rouges viennent d'un vin blanc coloré au caramel.",
+    "The 14.5–22% abv range applies to all aromatised wines, so it does not single out vermouth. The Alpine area is where most is made, but it is not a requirement. The base wine can be white or red, and most red vermouths come from white wine coloured with caramel.",
+    "El rango de 14,5 a 22 % vol. se aplica a todos los vinos aromatizados, así que no distingue al vermut. La zona alpina es donde más se produce, pero no es un requisito. El vino base puede ser blanco o tinto, y la mayoría de los vermuts rojos nacen de vino blanco coloreado con caramelo."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "Come trattano di solito le botaniche i produttori di vermouth?",
+    "Comment les producteurs de vermouth traitent-ils en général leurs botaniques ?",
+    "How do vermouth producers usually handle their botanicals?",
+    "¿Cómo suelen tratar los botánicos los productores de vermut?"
+   ],
+   "o": [
+    [
+     "Le lavorano una per una, poi uniscono il tutto",
+     "Ils les travaillent une par une, puis assemblent le tout",
+     "They process each one separately, then blend",
+     "Los trabajan uno a uno y luego lo mezclan todo"
+    ],
+    [
+     "Le fanno bollire tutte insieme nel vino base",
+     "Ils les font bouillir toutes ensemble dans le vin de base",
+     "They boil them all together in the base wine",
+     "Los hierven todos juntos en el vino base"
+    ],
+    [
+     "Mettono le piante essiccate intere direttamente in bottiglia",
+     "Ils mettent les plantes séchées entières directement en bouteille",
+     "They put whole dried plants straight into the bottle",
+     "Ponen las plantas secas enteras directamente en la botella"
+    ],
+    [
+     "Le fanno fermentare insieme al mosto durante la vinificazione del vino base",
+     "Ils les font fermenter avec le moût pendant la vinification du vin de base",
+     "They ferment them with the grape juice while making the base wine",
+     "Los fermentan con el mosto durante la elaboración del vino base"
+    ]
+   ],
+   "e": [
+    "Ogni botanica viene di solito estratta a parte, per macerazione o ridistillazione, prima della miscela finale.",
+    "Chaque botanique est en général extrait à part, par macération ou redistillation, avant l'assemblage final.",
+    "Each botanical is usually extracted on its own, by maceration or redistillation, before the final blend.",
+    "Cada botánico suele extraerse por separado, por maceración o redestilación, antes de la mezcla final."
+   ],
+   "d": [
+    "Lavorarle separatamente dà al produttore il controllo di ogni aroma. Alcuni macerano le botaniche nel vino stesso, ma senza farle bollire. Il vino base viene fermentato subito e resta secco e neutro: le botaniche non entrano in fermentazione né finiscono intere in bottiglia.",
+    "Les travailler séparément donne au producteur le contrôle de chaque arôme. Certains font macérer les botaniques dans le vin lui-même, mais sans les faire bouillir. Le vin de base est fermenté tout de suite et reste sec et neutre : les botaniques ne fermentent pas avec lui et ne finissent pas entières en bouteille.",
+    "Working separately gives the producer control over each aroma. Some macerate botanicals in the wine itself, but without boiling. The base wine is fermented straight away and stays dry and neutral: botanicals are not fermented with it, nor left whole in the bottle.",
+    "Trabajarlos por separado da al productor control sobre cada aroma. Algunos maceran los botánicos en el propio vino, pero sin hervirlos. El vino base se fermenta enseguida y queda seco y neutro: los botánicos no fermentan con él ni acaban enteros en la botella."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "Che cosa ha spinto la recente ondata di vini aromatizzati nuovi e innovativi?",
+    "Qu'est-ce qui a déclenché la récente vague de vins aromatisés nouveaux et innovants ?",
+    "What has driven the recent wave of new, innovative aromatised wines?",
+    "¿Qué ha impulsado la reciente ola de vinos aromatizados nuevos e innovadores?"
+   ],
+   "o": [
+    [
+     "La crescente popolarità dei cocktail",
+     "La popularité croissante des cocktails",
+     "The growing popularity of cocktails",
+     "La creciente popularidad de los cócteles"
+    ],
+    [
+     "Una nuova legge europea che vieta l'assenzio",
+     "Une nouvelle loi européenne interdisant l'absinthe",
+     "A new European law banning wormwood",
+     "Una nueva ley europea que prohíbe el ajenjo"
+    ],
+    [
+     "Una carenza di uve bianche neutre e acide",
+     "Une pénurie de raisins blancs neutres et acides",
+     "A shortage of neutral, high-acid white grapes",
+     "Una escasez de uvas blancas neutras y ácidas"
+    ],
+    [
+     "Lo spostamento di quasi tutta la produzione fuori dalla zona alpina",
+     "Le déplacement de presque toute la production hors de la zone alpine",
+     "Almost all production moving away from the Alpine area",
+     "El traslado de casi toda la producción fuera de la zona alpina"
+    ]
+   ],
+   "e": [
+    "Con il boom dei cocktail è cresciuto l'interesse a creare nuove versioni di questi vini, ovunque nel mondo.",
+    "Avec l'essor des cocktails, l'intérêt pour de nouvelles versions de ces vins a grandi, partout dans le monde.",
+    "As cocktails boomed, interest in making new versions of these wines grew all over the world.",
+    "Con el auge de los cócteles ha crecido el interés por crear nuevas versiones de estos vinos en todo el mundo."
+   ],
+   "d": [
+    "Le piante della famiglia dell'assenzio sono anzi obbligatorie per il vermouth in Europa. Nessuna carenza di uve spiega il fenomeno. E la grande maggioranza di questi vini si produce ancora nella zona alpina tra Francia e Italia, anche se oggi se ne fanno ovunque.",
+    "Les plantes de la famille de l'absinthe sont au contraire obligatoires pour le vermouth en Europe. Aucune pénurie de raisin n'explique le phénomène. Et la grande majorité de ces vins se fait toujours dans la zone alpine entre France et Italie, même si on en produit désormais partout.",
+    "Wormwood-family plants are in fact compulsory for vermouth in Europe. No grape shortage explains the trend. And the vast majority of these wines is still made in the Alpine area of France and Italy, even though they are now made everywhere.",
+    "Las plantas de la familia del ajenjo son, de hecho, obligatorias para el vermut en Europa. Ninguna escasez de uva explica el fenómeno. Y la gran mayoría de estos vinos se sigue elaborando en la zona alpina entre Francia e Italia, aunque hoy se hagan en todas partes."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "Che cosa vale di solito per la ricetta esatta delle botaniche di un vermouth?",
+    "Qu'en est-il en général de la recette exacte des botaniques d'un vermouth ?",
+    "What is usually true of a vermouth's exact botanical recipe?",
+    "¿Qué suele ocurrir con la receta exacta de botánicos de un vermut?"
+   ],
+   "o": [
+    [
+     "È un segreto custodito con cura",
+     "C'est un secret jalousement gardé",
+     "It is a closely guarded secret",
+     "Es un secreto muy bien guardado"
+    ],
+    [
+     "È riportata per intero in etichetta",
+     "Elle figure en entier sur l'étiquette",
+     "It is printed in full on the label",
+     "Figura completa en la etiqueta"
+    ],
+    [
+     "È fissata nei dettagli dalla legge europea",
+     "Elle est fixée dans le détail par la loi européenne",
+     "It is laid down in detail by European law",
+     "Está fijada al detalle por la ley europea"
+    ],
+    [
+     "È la stessa per tutti i produttori di una stessa zona alpina",
+     "Elle est la même pour tous les producteurs d'une même zone alpine",
+     "It is the same for every producer in a given Alpine area",
+     "Es la misma para todos los productores de una misma zona alpina"
+    ]
+   ],
+   "e": [
+    "Non ci sono limiti ai sapori e quasi tutti i produttori tengono segreta la loro miscela.",
+    "Il n'y a pas de limite aux saveurs et presque tous les producteurs gardent leur mélange secret.",
+    "There is no limit on flavours, and most producers keep their exact blend secret.",
+    "No hay límites en los sabores y casi todos los productores guardan en secreto su mezcla."
+   ],
+   "d": [
+    "L'etichetta non elenca la ricetta botanica completa. La legge europea chiede solo piante della famiglia dell'assenzio, senza fissare il resto. Ogni casa ha la propria ricetta, anche all'interno della stessa zona: è proprio questo a rendere diversi i vermouth.",
+    "L'étiquette ne détaille pas la recette botanique complète. La loi européenne exige seulement des plantes de la famille de l'absinthe, sans fixer le reste. Chaque maison a sa propre recette, même au sein d'une même zone : c'est justement ce qui distingue les vermouths.",
+    "Labels do not list the full botanical recipe. European law requires only wormwood-family plants and leaves the rest open. Each house has its own recipe, even within one area, which is exactly what makes vermouths differ.",
+    "La etiqueta no detalla la receta botánica completa. La ley europea solo exige plantas de la familia del ajenjo y deja libre el resto. Cada casa tiene su propia receta, incluso dentro de una misma zona: precisamente eso diferencia a los vermuts."
+   ]
+  },
+  {
+   "c": "f4",
+   "q": [
+    "Quale ingrediente di un vermouth è facoltativo?",
+    "Quel ingrédient d'un vermouth est facultatif ?",
+    "Which vermouth ingredient is optional?",
+    "¿Qué ingrediente de un vermut es opcional?"
+   ],
+   "o": [
+    [
+     "Il caramello",
+     "Le caramel",
+     "Caramel",
+     "El caramelo"
+    ],
+    [
+     "Il vino base",
+     "Le vin de base",
+     "The base wine",
+     "El vino base"
+    ],
+    [
+     "L'alcol distillato aggiunto",
+     "L'alcool distillé ajouté",
+     "The added distilled alcohol",
+     "El alcohol destilado añadido"
+    ],
+    [
+     "Le piante della famiglia dell'assenzio, almeno in Europa",
+     "Les plantes de la famille de l'absinthe, du moins en Europe",
+     "Wormwood-family plants, at least in Europe",
+     "Las plantas de la familia del ajenjo, al menos en Europa"
+    ]
+   ],
+   "e": [
+    "Il caramello serve solo a colorare, per esempio i vermouth rossi, e si aggiunge se necessario.",
+    "Le caramel sert seulement à colorer, par exemple les vermouths rouges, et s'ajoute si besoin.",
+    "Caramel is only for colour, for example in red vermouths, and is added only when needed.",
+    "El caramelo solo sirve para dar color, por ejemplo a los vermuts rojos, y se añade si hace falta."
+   ],
+   "d": [
+    "Senza vino base non si tratta di un vino aromatizzato. L'alcol distillato deve essere aggiunto per portare la gradazione tra 14,5 e 22% vol. In Europa le piante della famiglia dell'assenzio sono il tratto che definisce il vermouth.",
+    "Sans vin de base, ce n'est pas un vin aromatisé. L'alcool distillé doit être ajouté pour porter le degré entre 14,5 et 22 % vol. En Europe, les plantes de la famille de l'absinthe sont ce qui définit le vermouth.",
+    "Without a base wine it would not be an aromatised wine. Distilled alcohol must be added to bring the strength to 14.5–22% abv. In Europe, wormwood-family plants are what defines vermouth.",
+    "Sin vino base no sería un vino aromatizado. El alcohol destilado debe añadirse para llevar la graduación al 14,5–22 % vol. En Europa, las plantas de la familia del ajenjo son lo que define al vermut."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Oltre a raffreddare e diluire in fretta, che cosa dà il ghiaccio tritato a un Mojito o a una Caipirinha?",
+    "En plus de refroidir et de diluer vite, qu'apporte la glace pilée à un Mojito ou à une Caipirinha ?",
+    "Besides chilling and diluting fast, what does crushed ice give a Mojito or Caipirinha?",
+    "Además de enfriar y diluir rápido, ¿qué aporta el hielo picado a un Mojito o una Caipiriña?"
+   ],
+   "o": [
+    [
+     "Un aspetto caratteristico",
+     "Un aspect caractéristique",
+     "A distinctive look",
+     "Un aspecto característico"
+    ],
+    [
+     "Una dolcezza in più",
+     "Un supplément de sucre",
+     "Extra sweetness",
+     "Un plus de dulzor"
+    ],
+    [
+     "Una gradazione alcolica più alta",
+     "Un degré d'alcool plus élevé",
+     "A higher alcohol level",
+     "Una graduación alcohólica más alta"
+    ],
+    [
+     "Una consistenza spumosa simile a quella dell'albume",
+     "Une texture mousseuse proche de celle du blanc d'œuf",
+     "A frothy texture like that of egg white",
+     "Una textura espumosa como la de la clara de huevo"
+    ]
+   ],
+   "e": [
+    "Il ghiaccio tritato, oltre a raffreddare e diluire, dà a questi cocktail il loro aspetto tipico.",
+    "La glace pilée, en plus de refroidir et diluer, donne à ces cocktails leur aspect typique.",
+    "Crushed ice, as well as chilling and diluting, gives these cocktails their typical look.",
+    "El hielo picado, además de enfriar y diluir, da a estos cócteles su aspecto típico."
+   ],
+   "d": [
+    "Il ghiaccio non aggiunge zucchero: fondendo porta acqua, cioè una parte «debole». Per lo stesso motivo abbassa, non alza, la gradazione. La consistenza spumosa viene dall'albume agitato, come nel Pisco Sour.",
+    "La glace n'ajoute pas de sucre : en fondant, elle apporte de l'eau, donc une part « faible ». Pour la même raison, elle baisse le degré au lieu de l'augmenter. La texture mousseuse vient du blanc d'œuf secoué, comme dans le Pisco Sour.",
+    "Ice adds no sugar: as it melts it adds water, a 'weak' component. For the same reason it lowers, not raises, the alcohol level. A frothy texture comes from shaken egg white, as in a Pisco Sour.",
+    "El hielo no aporta azúcar: al fundirse añade agua, es decir, una parte «débil». Por lo mismo baja, no sube, la graduación. La textura espumosa viene de la clara agitada, como en el Pisco Sour."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "L'orzata è uno sciroppo alla mandorla. Che cos'altro la aromatizza tradizionalmente?",
+    "L'orgeat est un sirop d'amande. Qu'est-ce qui l'aromatise d'autre traditionnellement ?",
+    "Orgeat is an almond syrup. What else traditionally flavours it?",
+    "El orgeat es un sirope de almendra. ¿Qué más lo aromatiza tradicionalmente?"
+   ],
+   "o": [
+    [
+     "Acqua di rose o di fiori d'arancio",
+     "L'eau de rose ou de fleur d'oranger",
+     "Rose water or orange flower water",
+     "Agua de rosas o de azahar"
+    ],
+    [
+     "Succo di mirtillo rosso",
+     "Le jus de canneberge",
+     "Cranberry juice",
+     "Zumo de arándano rojo"
+    ],
+    [
+     "Caffè e vaniglia in parti uguali",
+     "Café et vanille à parts égales",
+     "Coffee and vanilla in equal parts",
+     "Café y vainilla a partes iguales"
+    ],
+    [
+     "Qualche goccia di bitter e un po' di salamoia di olive",
+     "Quelques traits de bitter et un peu de saumure d'olive",
+     "A few dashes of bitters and a little olive brine",
+     "Unas gotas de bitter y un poco de salmuera de aceituna"
+    ]
+   ],
+   "e": [
+    "L'orzata unisce mandorla e acqua di rose o di fiori d'arancio.",
+    "L'orgeat associe l'amande à l'eau de rose ou de fleur d'oranger.",
+    "Orgeat combines almond with rose water or orange flower water.",
+    "El orgeat combina almendra con agua de rosas o de azahar."
+   ],
+   "d": [
+    "È un esempio di sciroppo aromatizzato, che addolcisce e aggiunge complessità. Il succo di mirtillo rosso è un succo comprato già pronto, tipico del Cosmopolitan. Bitter e salamoia di olive si usano nei drink, per esempio nel Martini «dirty», non negli sciroppi.",
+    "C'est un exemple de sirop aromatisé, qui sucre et ajoute de la complexité. Le jus de canneberge est un jus acheté tout prêt, typique du Cosmopolitan. Bitters et saumure d'olive s'utilisent dans les boissons, par exemple le Martini « dirty », pas dans les sirops.",
+    "It is an example of a flavoured syrup, which sweetens and adds complexity. Cranberry juice is a ready-made juice typical of the Cosmopolitan. Bitters and olive brine go into drinks, such as a dirty Martini, not into syrups.",
+    "Es un ejemplo de sirope aromatizado, que endulza y añade complejidad. El zumo de arándano rojo se compra ya preparado y es típico del Cosmopolitan. Los bitters y la salmuera de aceituna van en las bebidas, como el Martini «dirty», no en los siropes."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Secondo la regola di base, che cosa NON deve mai fare una guarnizione?",
+    "Selon la règle de base, que ne doit JAMAIS faire une garniture ?",
+    "According to the basic rule, what must a garnish NEVER do?",
+    "Según la regla básica, ¿qué NO debe hacer NUNCA una guarnición?"
+   ],
+   "o": [
+    [
+     "Peggiorare l'aspetto del drink",
+     "Nuire à l'aspect de la boisson",
+     "Spoil the look of the drink",
+     "Estropear el aspecto de la bebida"
+    ],
+    [
+     "Aggiungere un aroma al drink",
+     "Ajouter un arôme à la boisson",
+     "Add an aroma to the drink",
+     "Añadir un aroma a la bebida"
+    ],
+    [
+     "Richiamare un aroma già presente nel cocktail",
+     "Rappeler un arôme déjà présent dans le cocktail",
+     "Echo an aroma already present in the cocktail",
+     "Recordar un aroma ya presente en el cóctel"
+    ],
+    [
+     "Essere un ingrediente conservato, come un'oliva o una ciliegia al maraschino",
+     "Être un ingrédient conservé, comme une olive ou une cerise au marasquin",
+     "Be a preserved item, such as an olive or a maraschino cherry",
+     "Ser un ingrediente en conserva, como una aceituna o una cereza al marrasquino"
+    ]
+   ],
+   "e": [
+    "La guarnizione serve anzitutto a decorare: deve valorizzare l'aspetto del drink, mai rovinarlo.",
+    "La garniture sert d'abord à décorer : elle doit mettre en valeur l'aspect de la boisson, jamais la desservir.",
+    "A garnish is first of all decoration: it must add to the drink's appearance, never detract from it.",
+    "La guarnición sirve ante todo para decorar: debe realzar el aspecto de la bebida, nunca perjudicarlo."
+   ],
+   "d": [
+    "Spesso la guarnizione aggiunge un aroma leggero, che sottolinea o completa un aroma del drink: è un pregio, non un errore. Olive e ciliegie al maraschino sono tra le guarnizioni più comuni; vanno solo conservate correttamente.",
+    "Souvent la garniture ajoute un léger arôme, qui souligne ou complète un arôme de la boisson : c'est une qualité, pas une erreur. Olives et cerises au marasquin sont parmi les garnitures les plus courantes ; il faut seulement bien les conserver.",
+    "A garnish often adds a light aroma that highlights or complements one in the drink: that is a plus, not a mistake. Olives and maraschino cherries are among the most common garnishes; they just need proper storage.",
+    "A menudo la guarnición aporta un aroma ligero que realza o complementa uno de la bebida: es una virtud, no un error. Las aceitunas y las cerezas al marrasquino están entre las guarniciones más habituales; solo hay que conservarlas bien."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "In un Sidecar (Cognac, succo di limone, triple sec), quale ingrediente svolge il ruolo «dolce»?",
+    "Dans un Sidecar (Cognac, jus de citron, triple sec), quel ingrédient joue le rôle « sucré » ?",
+    "In a Sidecar (Cognac, lemon juice, triple sec), which ingredient plays the 'sweet' role?",
+    "En un Sidecar (coñac, zumo de limón, triple sec), ¿qué ingrediente cumple el papel «dulce»?"
+   ],
+   "o": [
+    [
+     "Il triple sec",
+     "Le triple sec",
+     "The triple sec",
+     "El triple sec"
+    ],
+    [
+     "Il Cognac",
+     "Le Cognac",
+     "The Cognac",
+     "El coñac"
+    ],
+    [
+     "Il succo di limone",
+     "Le jus de citron",
+     "The lemon juice",
+     "El zumo de limón"
+    ],
+    [
+     "L'acqua di fusione del ghiaccio dello shaker",
+     "L'eau de fonte de la glace du shaker",
+     "The meltwater from the shaker ice",
+     "El agua de deshielo del hielo de la coctelera"
+    ]
+   ],
+   "e": [
+    "Il triple sec è un liquore, quindi dolce: qui sostituisce lo sciroppo semplice di una sour classica.",
+    "Le triple sec est une liqueur, donc sucrée : il remplace ici le sirop simple d'un sour classique.",
+    "Triple sec is a liqueur, so it is sweet: here it takes the place of the simple syrup in a classic sour.",
+    "El triple sec es un licor y, por tanto, dulce: aquí sustituye al sirope simple de un sour clásico."
+   ],
+   "d": [
+    "Il Cognac è la parte «forte», l'elemento alcolico principale. Il succo di limone è la parte acida che bilancia la dolcezza. L'acqua di fusione contribuisce alla parte «debole», non alla dolcezza.",
+    "Le Cognac est la part « forte », l'élément alcoolique principal. Le jus de citron est la part acide qui équilibre le sucre. L'eau de fonte contribue à la part « faible », pas à la douceur.",
+    "Cognac is the 'strong' part, the main alcoholic element. Lemon juice is the sour part that balances the sweetness. Meltwater adds to the 'weak' side, not to sweetness.",
+    "El coñac es la parte «fuerte», el elemento alcohólico principal. El zumo de limón es la parte ácida que equilibra el dulzor. El agua de deshielo suma a la parte «débil», no al dulzor."
+   ]
+  },
+  {
+   "c": "t2",
+   "q": [
+    "Quali due «bilance» usa chi prepara cocktail per ottenere un drink equilibrato?",
+    "Quelles deux « balances » utilise-t-on au bar pour obtenir une boisson équilibrée ?",
+    "Which two 'scales' does a bartender use to make a balanced drink?",
+    "¿Qué dos «balanzas» usa quien prepara cócteles para lograr una bebida equilibrada?"
+   ],
+   "o": [
+    [
+     "Forte contro debole, e acido/amaro contro dolce",
+     "Fort contre faible, et acide/amer contre sucré",
+     "Strong vs weak, and sour/bitter vs sweet",
+     "Fuerte frente a débil, y ácido/amargo frente a dulce"
+    ],
+    [
+     "Caldo contro freddo, e dolce contro salato",
+     "Chaud contre froid, et sucré contre salé",
+     "Hot vs cold, and sweet vs salty",
+     "Caliente frente a frío, y dulce frente a salado"
+    ],
+    [
+     "Agitato contro mescolato, e lungo contro corto",
+     "Secoué contre remué, et long contre court",
+     "Shaken vs stirred, and long vs short",
+     "Agitado frente a removido, y largo frente a corto"
+    ],
+    [
+     "Chiaro contro scuro, e fresco contro conservato",
+     "Clair contre foncé, et frais contre conservé",
+     "Light vs dark, and fresh vs preserved",
+     "Claro frente a oscuro, y fresco frente a conservado"
+    ]
+   ],
+   "e": [
+    "La maggior parte dei cocktail combina una parte forte e una debole con una parte dolce e una acida o amara.",
+    "La plupart des cocktails associent une part forte et une part faible à une part sucrée et une part acide ou amère.",
+    "Most cocktails pair strong and weak elements with a sweet one and a sour or bitter one.",
+    "La mayoría de los cócteles combinan una parte fuerte y una débil con una dulce y otra ácida o amarga."
+   ],
+   "d": [
+    "Il «forte» è la componente alcolica; il «debole» comprende succhi, soda, acqua tonica e acqua di fusione. Agitare o mescolare, e lungo o corto, sono scelte di tecnica e di servizio, non di equilibrio. Temperatura, sale e tipo di guarnizione non sono le due scale di base.",
+    "Le « fort » est la composante alcoolique ; le « faible » regroupe jus, soda, tonic et eau de fonte. Secouer ou remuer, long ou court, ce sont des choix de technique et de service, pas d'équilibre. Température, sel et type de garniture ne sont pas les deux balances de base.",
+    "'Strong' is the alcoholic part; 'weak' covers juice, soda, tonic and meltwater. Shaking or stirring, long or short, are choices of technique and serve, not balance. Temperature, salt and garnish type are not the two basic scales.",
+    "Lo «fuerte» es la parte alcohólica; lo «débil» incluye zumos, soda, tónica y agua de deshielo. Agitar o remover, largo o corto, son decisiones de técnica y servicio, no de equilibrio. La temperatura, la sal y el tipo de guarnición no son las dos balanzas básicas."
+   ]
+  },
+  {
+   "c": "f3",
+   "q": [
+    "Un liquore è aromatizzato soprattutto con menta. A quale gruppo appartiene?",
+    "Une liqueur est aromatisée surtout à la menthe. À quel groupe appartient-elle ?",
+    "A liqueur is flavoured mainly with mint. Which group does it belong to?",
+    "Un licor está aromatizado sobre todo con menta. ¿A qué grupo pertenece?"
+   ],
+   "o": [
+    [
+     "Erbe",
+     "Plantes",
+     "Herb",
+     "Hierbas"
+    ],
+    [
+     "Frutta",
+     "Fruits",
+     "Fruit",
+     "Frutas"
+    ],
+    [
+     "Semi, frutta secca e noccioli",
+     "Graines, fruits à coque et noyaux",
+     "Seed, nut and kernel",
+     "Semillas, frutos secos y huesos"
+    ],
+    [
+     "Crema",
+     "Crème",
+     "Cream",
+     "Crema"
+    ]
+   ],
+   "e": [
+    "La menta è un'erba aromatica, quindi il liquore va nel gruppo delle erbe.",
+    "La menthe est une plante aromatique : la liqueur entre donc dans le groupe des plantes.",
+    "Mint is a herb, so the liqueur goes in the herb group.",
+    "La menta es una hierba aromática, así que el licor entra en el grupo de las hierbas."
+   ],
+   "d": [
+    "Il gruppo della frutta riguarda frutti e scorze, come l'arancia. Semi, frutta secca e noccioli comprende per esempio mandorle e noccioli di albicocca. Il gruppo crema si riconosce dall'aspetto opaco.",
+    "Le groupe des fruits concerne fruits et zestes, comme l'orange. Graines, fruits à coque et noyaux regroupe par exemple l'amande et les noyaux d'abricot. Le groupe crème se reconnaît à son aspect opaque.",
+    "The fruit group covers fruits and peels, such as orange. Seed, nut and kernel includes almonds and apricot kernels, for example. The cream group is easy to spot by its opaque look.",
+    "El grupo de las frutas abarca frutas y pieles, como la naranja. Semillas, frutos secos y huesos incluye, por ejemplo, la almendra y los huesos de albaricoque. El grupo crema se reconoce por su aspecto opaco."
+   ]
+  },
+  {
+   "c": "f3",
+   "q": [
+    "Un marchio di liquori non lavora direttamente nessuna botanica. Come ottiene i suoi aromi?",
+    "Une marque de liqueurs ne travaille elle-même aucun botanique. Comment obtient-elle ses arômes ?",
+    "A liqueur brand does not handle any botanicals itself. How does it get its flavours?",
+    "Una marca de licores no trabaja por sí misma ningún botánico. ¿Cómo obtiene sus aromas?"
+   ],
+   "o": [
+    [
+     "Compra aromi già pronti da produttori specializzati",
+     "Elle achète des arômes tout prêts à des fournisseurs spécialisés",
+     "It buys ready-made flavourings from specialist suppliers",
+     "Compra aromas ya preparados a proveedores especializados"
+    ],
+    [
+     "Lascia invecchiare a lungo lo spirito neutro in botti nuove",
+     "Elle fait vieillir longtemps l'alcool neutre en fûts neufs",
+     "It ages neutral spirit for a long time in new barrels",
+     "Envejece durante mucho tiempo el alcohol neutro en barricas nuevas"
+    ],
+    [
+     "Ottiene tutto il sapore dallo zucchero e dal colorante aggiunti",
+     "Elle tire tout le goût du sucre et du colorant ajoutés",
+     "It gets all the flavour from the added sugar and colouring",
+     "Obtiene todo el sabor del azúcar y el colorante añadidos"
+    ],
+    [
+     "Fa fermentare la frutta insieme allo spirito neutro direttamente in bottiglia",
+     "Elle fait fermenter les fruits avec l'alcool neutre directement en bouteille",
+     "It ferments fruit together with neutral spirit directly in the bottle",
+     "Fermenta la fruta junto con el alcohol neutro directamente en la botella"
+    ]
+   ],
+   "e": [
+    "Alcuni marchi comprano aromi naturali o artificiali già preparati e li miscelano con il proprio alcol.",
+    "Certaines marques achètent des arômes naturels ou artificiels tout prêts et les mélangent à leur alcool.",
+    "Some brands buy in pre-prepared natural or artificial flavourings and blend them with their alcohol.",
+    "Algunas marcas compran aromas naturales o artificiales ya preparados y los mezclan con su alcohol."
+   ],
+   "d": [
+    "Le alternative sono macerare o ridistillare le botaniche in proprio. L'invecchiamento in botte non fa parte della produzione tipica di un liquore. Lo zucchero dà dolcezza e il colorante colore, ma non i sapori di erbe o frutta. In una bottiglia di spirito non avviene alcuna fermentazione.",
+    "Les autres options sont de faire macérer ou de redistiller soi-même les botaniques. Le vieillissement en fût ne fait pas partie de la production type d'une liqueur. Le sucre apporte la douceur et le colorant la couleur, pas les saveurs de plantes ou de fruits. Aucune fermentation n'a lieu dans une bouteille de spiritueux.",
+    "The alternatives are macerating or redistilling the botanicals in-house. Barrel ageing is not part of typical liqueur production. Sugar brings sweetness and colouring brings colour, not herb or fruit flavours. No fermentation happens in a bottle of spirit.",
+    "Las alternativas son macerar o redestilar los botánicos por cuenta propia. El envejecimiento en barrica no forma parte de la elaboración típica de un licor. El azúcar aporta dulzor y el colorante color, no sabores de hierbas o frutas. En una botella de destilado no se produce ninguna fermentación."
+   ]
+  },
+  {
+   "c": "f3",
+   "q": [
+    "Un produttore crea un liquore al miele e alle erbe partendo da uno Scotch whisky. Che tipo di base ha scelto?",
+    "Un producteur crée une liqueur au miel et aux plantes à partir d'un Scotch whisky. Quel type de base a-t-il choisi ?",
+    "A producer makes a honey-and-herb liqueur on a Scotch whisky base. What kind of base is this?",
+    "Un productor elabora un licor de miel y hierbas a partir de un Scotch whisky. ¿Qué tipo de base ha elegido?"
+   ],
+   "o": [
+    [
+     "Una base di carattere",
+     "Une base de caractère",
+     "A characterful base",
+     "Una base con carácter"
+    ],
+    [
+     "Una base neutra",
+     "Une base neutre",
+     "A neutral base",
+     "Una base neutra"
+    ],
+    [
+     "Una base di vino fortificato, come per il vermouth",
+     "Une base de vin fortifié, comme pour le vermouth",
+     "A fortified-wine base, as for vermouth",
+     "Una base de vino fortificado, como en el vermut"
+    ],
+    [
+     "Una base vietata, perché i liquori devono partire da spirito neutro",
+     "Une base interdite, car les liqueurs doivent partir d'un alcool neutre",
+     "A banned base, because liqueurs must start from neutral spirit",
+     "Una base prohibida, porque los licores deben partir de alcohol neutro"
+    ]
+   ],
+   "e": [
+    "Uno Scotch whisky porta già aromi propri: è una base di carattere, come il Cognac per alcuni liquori all'arancia.",
+    "Un Scotch whisky apporte déjà ses propres arômes : c'est une base de caractère, comme le Cognac pour certaines liqueurs d'orange.",
+    "A Scotch whisky brings its own aromas: it is a characterful base, like Cognac for some orange liqueurs.",
+    "Un Scotch whisky ya aporta aromas propios: es una base con carácter, como el coñac en algunos licores de naranja."
+   ],
+   "d": [
+    "La maggior parte dei liquori parte da spirito neutro, così che gli aromi aggiunti risaltino, ma non è un obbligo. Il vino fortificato è la base dei vini aromatizzati, non dei liquori. Qui il sapore del whisky si unisce a quelli del miele e delle erbe.",
+    "La plupart des liqueurs partent d'un alcool neutre pour que les arômes ajoutés ressortent, mais ce n'est pas une obligation. Le vin fortifié est la base des vins aromatisés, pas des liqueurs. Ici, le goût du whisky s'ajoute à ceux du miel et des plantes.",
+    "Most liqueurs start from neutral spirit so the added flavours stand out, but that is not a rule. Fortified wine is the base of aromatised wines, not liqueurs. Here the whisky's flavour joins those of honey and herbs.",
+    "La mayoría de los licores parten de alcohol neutro para que destaquen los aromas añadidos, pero no es una obligación. El vino fortificado es la base de los vinos aromatizados, no de los licores. Aquí el sabor del whisky se suma a los de la miel y las hierbas."
+   ]
+  },
+  {
+   "c": "f3",
+   "q": [
+    "Quale di questi prodotti si può classificare come liquore?",
+    "Lequel de ces produits peut être classé comme liqueur ?",
+    "Which of these products can be classed as a liqueur?",
+    "¿Cuál de estos productos se puede clasificar como licor?"
+   ],
+   "o": [
+    [
+     "Uno spirito alla ciliegia dolcificato, a 20% vol.",
+     "Un spiritueux à la cerise sucré, à 20 % vol.",
+     "A sweetened cherry spirit at 20% abv",
+     "Un destilado de cereza endulzado, al 20 % vol."
+    ],
+    [
+     "Uno spirito alla ciliegia secco, non dolcificato, a 40% vol.",
+     "Un spiritueux à la cerise sec, non sucré, à 40 % vol.",
+     "A dry, unsweetened cherry spirit at 40% abv",
+     "Un destilado de cereza seco, sin endulzar, al 40 % vol."
+    ],
+    [
+     "Un vino bianco dolcificato con botaniche e assenzio, a 16% vol.",
+     "Un vin blanc sucré aux botaniques et à l'absinthe, à 16 % vol.",
+     "A sweetened white wine with botanicals and wormwood at 16% abv",
+     "Un vino blanco endulzado con botánicos y ajenjo, al 16 % vol."
+    ],
+    [
+     "Un distillato incolore ottenuto per ridistillazione di bacche di ginepro, senza zucchero",
+     "Un spiritueux incolore obtenu par redistillation de baies de genièvre, sans sucre",
+     "A colourless spirit redistilled with juniper berries and no added sugar",
+     "Un destilado incoloro redestilado con bayas de enebro y sin azúcar"
+    ]
+   ],
+   "e": [
+    "Un liquore è uno spirito aromatizzato e dolcificato, e può essere imbottigliato sotto la gradazione minima degli altri distillati.",
+    "Une liqueur est un spiritueux aromatisé et sucré, et elle peut être embouteillée sous le degré minimum des autres spiritueux.",
+    "A liqueur is a flavoured, sweetened spirit, and it may be bottled below the minimum strength of other spirits.",
+    "Un licor es un destilado aromatizado y endulzado, y puede embotellarse por debajo de la graduación mínima de otros destilados."
+   ],
+   "d": [
+    "Lo spirito alla ciliegia secco è un distillato aromatizzato, non un liquore, perché manca lo zucchero. Il vino con assenzio è un vino aromatizzato, cioè un vermouth: parte da vino, non da uno spirito. Il distillato al ginepro senza zucchero è un gin.",
+    "Le spiritueux à la cerise sec est un spiritueux aromatisé, pas une liqueur, faute de sucre. Le vin à l'absinthe est un vin aromatisé, autrement dit un vermouth : il part d'un vin, pas d'un spiritueux. Le distillat au genièvre sans sucre est un gin.",
+    "The dry cherry spirit is a flavoured spirit, not a liqueur, because it lacks sugar. The wine with wormwood is an aromatised wine, in fact a vermouth: it starts from wine, not spirit. The unsweetened juniper spirit is a gin.",
+    "El destilado de cereza seco es un destilado aromatizado, no un licor, porque le falta azúcar. El vino con ajenjo es un vino aromatizado, es decir, un vermut: parte de vino, no de un destilado. El destilado de enebro sin azúcar es una ginebra."
+   ]
+  },
+  {
+   "c": "f3",
+   "q": [
+    "Perché alcuni produttori di liquori preparano diversi spiriti aromatizzati separati, ognuno con una tecnica diversa?",
+    "Pourquoi certains producteurs de liqueurs préparent-ils plusieurs alcools aromatisés séparés, chacun avec une technique différente ?",
+    "Why do some liqueur producers make several separate flavoured spirits, each with a different technique?",
+    "¿Por qué algunos productores de licores preparan varios alcoholes aromatizados por separado, cada uno con una técnica distinta?"
+   ],
+   "o": [
+    [
+     "Per miscelarli in un prodotto finale più complesso",
+     "Pour les assembler en un produit final plus complexe",
+     "To blend them into a more complex final product",
+     "Para mezclarlos en un producto final más complejo"
+    ],
+    [
+     "Per poterli vendere come vodka aromatizzate diverse",
+     "Pour pouvoir les vendre comme vodkas aromatisées différentes",
+     "So they can sell them as different flavoured vodkas",
+     "Para poder venderlos como vodkas aromatizados distintos"
+    ],
+    [
+     "Perché la legge vieta di usare una sola tecnica",
+     "Parce que la loi interdit d'utiliser une seule technique",
+     "Because the law forbids using just one technique",
+     "Porque la ley prohíbe usar una sola técnica"
+    ],
+    [
+     "Per non dover aggiungere zucchero alla fine",
+     "Pour ne pas avoir à sucrer à la fin",
+     "To avoid adding sugar at the end",
+     "Para no tener que endulzar al final"
+    ]
+   ],
+   "e": [
+    "Spiriti aromatizzati con tecniche diverse vengono poi miscelati per costruire un sapore complesso.",
+    "Des alcools aromatisés par différentes techniques sont ensuite assemblés pour construire un goût complexe.",
+    "Spirits flavoured by different techniques are then blended to build a complex flavour.",
+    "Alcoholes aromatizados con técnicas distintas se mezclan después para construir un sabor complejo."
+   ],
+   "d": [
+    "La macerazione estrae colore e una gamma ampia di aromi; la ridistillazione permette di isolare aromi precisi: unendole si ottiene complessità. Chi usa una sola tecnica di solito non deve miscelare. Non esiste un obbligo di più tecniche, e un liquore resta sempre dolcificato.",
+    "La macération extrait la couleur et une large palette d'arômes ; la redistillation permet d'isoler des arômes précis : en les combinant, on gagne en complexité. Qui n'utilise qu'une technique n'a en général pas besoin d'assembler. Aucune loi n'impose plusieurs techniques, et une liqueur est toujours sucrée.",
+    "Maceration extracts colour and a broad range of aromas; redistillation can isolate particular aromas; combining them builds complexity. Producers using a single technique usually need no blending. No law requires several techniques, and a liqueur is always sweetened.",
+    "La maceración extrae color y una amplia gama de aromas; la redestilación permite aislar aromas concretos: al combinarlas se gana complejidad. Quien usa una sola técnica no suele necesitar mezclar. Ninguna ley exige varias técnicas, y un licor siempre se endulza."
+   ]
+  }
+ ],
+ "flash": []
+}
