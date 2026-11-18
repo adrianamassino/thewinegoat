@@ -71,15 +71,15 @@
      ],
      [
       "Classificações superiores",
-      "Nenhuma (aprovado ou reprovado)",
+      "Nenhuma (só aprovação ou reprovação)",
       "Mérito 70%, distinção 85%",
       "Mérito 65%, distinção 80% (média)"
      ],
      [
       "Perfil típico",
-      "Pessoal novo de bar, restaurante ou loja; curiosos",
+      "Pessoal novo de bar, restaurante ou loja; pessoas curiosas",
       "Bartenders, pessoal de garrafeira e distribuição, entusiastas dedicados",
-      "Compradores, gerentes de bar, formadores, profissionais de marca e do setor"
+      "Profissionais de compras, gestão de bar, formação, marca e do setor"
      ]
     ]
    ],
@@ -292,7 +292,7 @@
    ],
    [
     "p",
-    "O Level 1 Award in Spirits é uma qualificação de entrada que oferece uma introdução sólida mas simples às bebidas espirituosas. Destina-se a quem tem poucos ou nenhuns conhecimentos e precisa de falar delas com segurança: pessoal novo de bar, equipas de restaurante, pessoal de loja e curiosos. No final, deve ser possível nomear as principais categorias, dizer de que são feitas e como, e explicar as palavras-chave dos seus rótulos."
+    "O Level 1 Award in Spirits é uma qualificação de entrada que oferece uma introdução sólida mas simples às bebidas espirituosas. Destina-se a quem tem poucos ou nenhuns conhecimentos e precisa de falar delas com segurança: pessoal novo de bar, equipas de restaurante, pessoal de loja e pessoas curiosas. No final, deve ser possível nomear as principais categorias, dizer de que são feitas e como, e explicar as palavras-chave dos seus rótulos."
    ],
    [
     "p",
@@ -344,7 +344,7 @@
      ],
      [
       "Classificações",
-      "Apenas aprovado ou reprovado"
+      "Apenas aprovação ou reprovação"
      ],
      [
       "Penalização por erro",
@@ -613,7 +613,7 @@
    ],
    [
     "Devo fazer o Nível 1 ou ir diretamente para o Nível 2?",
-    "O Nível 1 é indicado para quem é novo no mundo das bebidas e quer um começo rápido e suave ou um certificado para um novo emprego. Para quem já trabalha com bebidas espirituosas ou tem uma qualificação em vinhos, o Nível 2 é normalmente a melhor escolha: está aberto a principiantes e aprofunda muito mais produção, categorias e cocktails."
+    "O Nível 1 é indicado para quem está a dar os primeiros passos no mundo das bebidas e quer um começo rápido e suave ou um certificado para um novo emprego. Para quem já trabalha com bebidas espirituosas ou tem uma qualificação em vinhos, o Nível 2 é normalmente a melhor escolha: está aberto a principiantes e aprofunda muito mais produção, categorias e cocktails."
    ],
    [
     "O que significa XO no rótulo de um Cognac?",
@@ -665,27 +665,27 @@
     ],
     [
      [
-      "Aprovado com distinção",
+      "Aprovação com distinção",
       "85% ou mais",
       "43 ou mais"
      ],
      [
-      "Aprovado com mérito",
+      "Aprovação com mérito",
       "70% a 84%",
       "35 a 42"
      ],
      [
-      "Aprovado",
+      "Aprovação",
       "55% a 69%",
       "28 a 34"
      ],
      [
-      "Reprovado",
+      "Reprovação",
       "45% a 54%",
       "23 a 27"
      ],
      [
-      "Reprovado sem classificação",
+      "Reprovação sem classificação",
       "44% ou menos",
       "22 ou menos"
      ]
@@ -973,7 +973,7 @@
   "desc": "Guia WSET Spirits Nível 3: 50 perguntas e 10 respostas curtas em 2 h 10, duas bebidas às cegas em 30 minutos, regras de classificação e perguntas 'explique'.",
   "kw": "wset spirits nível 3, exame wset spirits nível 3, prova cega wset spirits, wset spirits nível 3 prova às cegas, perguntas de resposta curta wset spirits nível 3, wset level 3 award in spirits",
   "h1": "WSET Level 3 Award in Spirits: o guia completo do Nível 3",
-  "tldr": "O WSET Level 3 Award in Spirits avalia a capacidade de explicar como as escolhas de produção moldam o estilo e a qualidade de uma bebida espirituosa. O exame teórico tem 50 perguntas de escolha múltipla e 10 respostas escritas curtas em 2 horas e 10 minutos; o exame de prova pede a avaliação de duas bebidas às cegas em 30 minutos, 25 pontos cada. É preciso pelo menos 55% em cada uma das três partes, e a classificação é a média: 55% aprovado, 65% mérito, 80% distinção sem nenhuma parte abaixo de 65%.",
+  "tldr": "O WSET Level 3 Award in Spirits avalia a capacidade de explicar como as escolhas de produção moldam o estilo e a qualidade de uma bebida espirituosa. O exame teórico tem 50 perguntas de escolha múltipla e 10 respostas escritas curtas em 2 horas e 10 minutos; o exame de prova pede a avaliação de duas bebidas às cegas em 30 minutos, 25 pontos cada. É preciso pelo menos 55% em cada uma das três partes, e a classificação é a média: 55% aprovação, 65% mérito, 80% distinção sem nenhuma parte abaixo de 65%.",
   "lead": [
    "O Nível 3 é a qualificação em bebidas espirituosas mais exigente antes dos estudos de nível diploma. Já não basta saber que o Bourbon envelhece em carvalho novo tostado: é preciso explicar o que esse carvalho faz à cor, ao aroma e à textura, reconhecer o resultado no copo e julgar se a bebida é boa, muito boa ou excecional.",
    "Este guia expõe com precisão a estrutura do exame, explica como funcionam a classificação e a regra da distinção, enumera o que pode surgir na prova cega e mostra como responder às perguntas 'explique', que decidem a maioria das notas."
@@ -989,7 +989,7 @@
    ],
    [
     "p",
-    "Destina-se a quem tem de escolher ou explicar bebidas espirituosas no trabalho: compradores, gerentes de bar, equipas comerciais e de marca, formadores e entusiastas exigentes. Recomenda-se ter passado no Nível 2 ou ter conhecimentos equivalentes antes da inscrição. A carga é considerável: cerca de 84 horas no total, das quais 32½ de formação orientada (incluindo 2 horas e 40 minutos de exames) e 51½ de estudo individual."
+    "Destina-se a quem tem de escolher ou explicar bebidas espirituosas no trabalho: profissionais de compras, gestão de bar, equipas comerciais e de marca, formação, e entusiastas exigentes. Recomenda-se ter passado no Nível 2 ou ter conhecimentos equivalentes antes da inscrição. A carga é considerável: cerca de 84 horas no total, das quais 32½ de formação orientada (incluindo 2 horas e 40 minutos de exames) e 51½ de estudo individual."
    ],
    [
     "h2",
@@ -1069,7 +1069,7 @@
       "60%",
       "62%",
       "64%",
-      "Aprovado"
+      "Aprovação"
      ],
      [
       "B",
@@ -1101,7 +1101,7 @@
       "52%",
       "80%",
       "74,7%",
-      "Reprovado: parte escrita abaixo de 55%"
+      "Reprovação: parte escrita abaixo de 55%"
      ]
     ]
    ],
