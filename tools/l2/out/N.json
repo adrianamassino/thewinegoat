@@ -152,10 +152,10 @@
    ],
    "o": [
     [
-     "Mela fresca",
-     "Pomme fraîche",
-     "Fresh apple",
-     "Manzana fresca"
+     "Mela fresca, senza note di legno",
+     "Pomme fraîche, sans notes boisées",
+     "Fresh apple, with no oak character",
+     "Manzana fresca, sin notas de roble"
     ],
     [
      "Litchi e petali di rosa",
@@ -1797,10 +1797,10 @@
    ],
    "o": [
     [
-     "Giovane e fresco",
-     "Jeune et frais",
-     "Young and fresh",
-     "Joven y fresco"
+     "Giovane e fresco, poco dopo l'uscita",
+     "Jeune et frais, peu après sa sortie",
+     "Young and fresh, soon after release",
+     "Joven y fresco, poco después de salir a la venta"
     ],
     [
      "Dopo dieci anni di cantina",
@@ -2737,10 +2737,10 @@
    ],
    "o": [
     [
-     "Leggeri sentori di mela e limone",
-     "De légères notes de pomme et citron",
-     "Light apple and lemon",
-     "Ligeras notas de manzana y limón"
+     "Leggeri sentori di mela e limone da uve raccolte presto",
+     "De légères notes de pomme et citron, de raisins cueillis tôt",
+     "Light apple and lemon from early-picked grapes",
+     "Ligeras notas de manzana y limón de uvas vendimiadas pronto"
     ],
     [
      "Rosa, litchi e albicocca",
@@ -4335,10 +4335,10 @@
    ],
    "o": [
     [
-     "Uno stile ruby",
-     "Un style ruby",
-     "A ruby style",
-     "Un estilo ruby"
+     "Uno stile ruby, come Ruby o Reserve Ruby",
+     "Un style ruby, comme un ruby ou un reserve ruby",
+     "A ruby style, such as Ruby or Reserve Ruby",
+     "Un estilo ruby, como Ruby o Reserve Ruby"
     ],
     [
      "Un Tawny di 40 anni",
@@ -4664,10 +4664,10 @@
    ],
    "o": [
     [
-     "Un po' di frutto rosso",
-     "Un peu de fruits rouges",
-     "Some red fruit",
-     "Algo de fruta roja"
+     "Un po' di frutto rosso e tannini più bassi",
+     "Un peu de fruits rouges et des tanins plus faibles",
+     "Some red fruit and lower tannin",
+     "Algo de fruta roja y taninos más bajos"
     ],
     [
      "Noce e caffè",
@@ -4736,16 +4736,16 @@
   {
    "c": "r4",
    "f": [
-    "Appassimento",
-    "Appassimento",
-    "Appassimento",
-    "Appassimento"
+    "Regione di Tokaj",
+    "Région de Tokaj",
+    "Tokaj region",
+    "Región de Tokaj"
    ],
    "b": [
-    "Uve raccolte e seccate al chiuso: concentra zuccheri, acidi e aromi.",
-    "Raisins récoltés puis séchés à l'abri : concentre sucres, acides et arômes.",
-    "Grapes picked then dried indoors: concentrates sugars, acids and flavours.",
-    "Uvas vendimiadas y secadas bajo techo: concentra azúcares, ácidos y aromas."
+    "Nord-est dell'Ungheria; Furmint l'uva più piantata; vini secchi, abboccati e il dolce Aszú.",
+    "Nord-est de la Hongrie ; furmint le plus planté ; vins secs, demi-secs et l'Aszú doux.",
+    "North-east Hungary; Furmint most planted; dry, medium and sweet Aszú wines.",
+    "Noreste de Hungría; Furmint la más plantada; vinos secos, semidulces y el dulce Aszú."
    ]
   },
   {
