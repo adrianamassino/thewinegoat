@@ -1,0 +1,2058 @@
+{
+ "en": {
+  "sections": [
+   {
+    "h2": "Study notes: WSET Level 2 explained topic by topic"
+   },
+   {
+    "p": "The WSET Level 2 Award in Wines looks like a long list of grapes, regions and terms, but it is built on a handful of ideas that repeat across the whole course. Once you see the structure, every new region becomes a variation on something you already know. These notes walk through the syllabus in the order that makes the most sense for revision, with tables you can copy into your own notebook and examples of how each topic turns into exam questions."
+   },
+   {
+    "h3": "How the exam is marked"
+   },
+   {
+    "p": "The exam is 50 multiple-choice questions in 60 minutes. Each question has four options and only one is correct, and there is no penalty for a wrong answer, so never leave a question blank. Your result is a percentage, and three grades are possible on top of a fail."
+   },
+   {
+    "table": {
+     "head": [
+      "Result",
+      "Percentage",
+      "Correct answers out of 50"
+     ],
+     "rows": [
+      [
+       "Pass",
+       "55% or more",
+       "28 or more"
+      ],
+      [
+       "Pass with Merit",
+       "70% or more",
+       "35 or more"
+      ],
+      [
+       "Pass with Distinction",
+       "85% or more",
+       "43 or more"
+      ],
+      [
+       "Fail",
+       "below 55%",
+       "27 or fewer"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Sixty minutes for fifty questions gives you a little over a minute per question. Most questions take twenty or thirty seconds if you know the topic, which leaves plenty of time to come back to the difficult ones. A good routine is to answer everything you are sure of in a first pass, mark the doubtful ones, and use the remaining time to think them through."
+   },
+   {
+    "h2": "The logic behind the syllabus: three factors that make a style"
+   },
+   {
+    "p": "Almost every wine in the course can be explained by three groups of factors: where the grapes grow, how they are grown and picked, and what happens in the winery. If you learn the effect of each factor, you can answer questions about regions you have barely revised, because the exam usually rewards reasoning rather than isolated facts."
+   },
+   {
+    "h3": "1. The environment: climate, weather and site"
+   },
+   {
+    "p": "Grapes need warmth and sunlight to ripen. As a grape ripens, sugar rises, acidity falls, and flavours move from green and tart to ripe and sweet. In a cool climate this process is slow, so wines keep high acidity, have lighter body and lower alcohol, and show fruit such as green apple, lemon, cranberry or red cherry. In a warm climate ripening is fast and complete, so wines have more alcohol and body, softer acidity and riper fruit such as peach, pineapple, blackberry or plum. Rivers, lakes and the sea moderate temperatures; slopes facing the sun collect more warmth; altitude cools a vineyard down."
+   },
+   {
+    "h3": "2. In the vineyard: ripeness and harvest timing"
+   },
+   {
+    "p": "The grower decides when to pick. Early picking keeps acidity and freshness and is used for sparkling wine bases or crisp whites. Late picking gives more sugar and riper flavours, and in some places grapes are left on the vine to concentrate even further for sweet wines. Yield also matters: vines that produce fewer grapes usually give more concentrated wines."
+   },
+   {
+    "h3": "3. In the winery: the choices that change the flavour"
+   },
+   {
+    "table": {
+     "head": [
+      "Winemaking choice",
+      "What it does",
+      "Typical example"
+     ],
+     "rows": [
+      [
+       "Fermenting at cool temperature in stainless steel",
+       "Keeps fresh, fruity aromas",
+       "Marlborough Sauvignon Blanc, Pinot Grigio"
+      ],
+      [
+       "Malolactic conversion",
+       "Turns sharp acid into softer acid and can add buttery notes",
+       "Many oaked Chardonnays, almost all red wines"
+      ],
+      [
+       "New oak barrels",
+       "Add vanilla, toast, smoke, clove and coconut",
+       "Rioja Reserva, many Napa Cabernets"
+      ],
+      [
+       "Old oak barrels",
+       "Allow slow oxygen contact without adding much oak flavour",
+       "Traditional Chianti, many Barolos"
+      ],
+      [
+       "Lees contact",
+       "Adds texture and bready, biscuit notes",
+       "Champagne, Muscadet sur lie"
+      ],
+      [
+       "Stopping fermentation early",
+       "Leaves natural sugar in the wine",
+       "Off-dry and sweet Riesling"
+      ],
+      [
+       "Longer skin contact for reds",
+       "Extracts more colour and tannin",
+       "Cabernet Sauvignon, Syrah"
+      ],
+      [
+       "Short skin contact for rosé",
+       "Gives a pale pink colour and little tannin",
+       "Provence rosé"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "When a question describes a wine and asks why it tastes that way, look for the option that names a cause. Climate, ripeness, oak and malolactic conversion explain most styles in the exam."
+   },
+   {
+    "h2": "The eight principal grapes, cool and warm"
+   },
+   {
+    "p": "The course gives special weight to eight international varieties. For each one you should be able to name the classic regions, describe the typical flavours and say how the wine changes in a cooler or a warmer place. The table below is a compact version of that grid."
+   },
+   {
+    "table": {
+     "head": [
+      "Grape",
+      "Cooler regions and style",
+      "Warmer regions and style"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Chablis: high acidity, green apple, lemon, usually little or no new oak",
+       "California, Australia: peach, pineapple, often oaked with vanilla and butter"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Sancerre, Pouilly-Fumé: high acidity, grass, green pepper, gooseberry",
+       "Marlborough: very aromatic, passion fruit plus green notes; Bordeaux blends it with Sémillon"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "North-east Italy: light, crisp, neutral, lemon and pear",
+       "Alsace: fuller, richer, often off-dry, with ripe stone fruit"
+      ],
+      [
+       "Riesling",
+       "Mosel: very high acidity, low alcohol, dry to sweet, floral and citrus",
+       "Clare and Eden Valley: dry, lime and citrus, develops toast notes with age"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Bordeaux Left Bank (Médoc): high tannin, high acidity, blackcurrant, often blended",
+       "Napa Valley, Coonawarra: riper black fruit, fuller body, often new oak"
+      ],
+      [
+       "Merlot",
+       "Bordeaux Right Bank (Saint-Émilion, Pomerol): plum, medium tannin, soft",
+       "Chile, California: ripe plum and blackberry, soft and fruity"
+      ],
+      [
+       "Pinot Noir",
+       "Burgundy: pale, red cherry, raspberry, earthy with age",
+       "California, Chile: riper red fruit, sometimes more body and oak"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Northern Rhône: black fruit, black pepper, firm tannin",
+       "Barossa Valley: full body, high alcohol, ripe blackberry, chocolate and sweet spice"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Notice that the grape name often changes with the style: Syrah tends to be used for the peppery, cooler style and Shiraz for the riper Australian style; Pinot Grigio usually signals the light Italian style and Pinot Gris the richer Alsace style. These naming habits are useful clues in questions."
+   },
+   {
+    "h2": "Sparkling, sweet and fortified wines"
+   },
+   {
+    "p": "These three families make up a smaller part of the course but they produce some of the most predictable questions, because each style depends on one clear technique."
+   },
+   {
+    "h3": "Sparkling wines"
+   },
+   {
+    "table": {
+     "head": [
+      "Method",
+      "Where the second fermentation happens",
+      "Style",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "Traditional method",
+       "In the bottle the wine is sold in",
+       "Fine bubbles, bread, biscuit and toast from time on the lees",
+       "Champagne, Cava, Crémant"
+      ],
+      [
+       "Tank method",
+       "In a sealed pressurised tank",
+       "Fresh, fruity and floral, best drunk young",
+       "Prosecco, Asti"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Champagne uses Chardonnay, Pinot Noir and Pinot Meunier. Cava comes mostly from Catalonia in Spain. Prosecco is made mainly from the Glera grape in north-east Italy, and Asti is a sweet, low-alcohol sparkling wine from Muscat in Piedmont. Sweetness labels such as Brut (dry) and Demi-Sec (medium-sweet) are often tested."
+   },
+   {
+    "h3": "Sweet wines"
+   },
+   {
+    "ul": [
+     "Late harvest: grapes are left on the vine longer so their sugar concentrates; common in Alsace and Germany.",
+     "Noble rot: a fungus called Botrytis cinerea shrivels ripe grapes in misty, then sunny autumn conditions, giving honey and dried apricot notes; Sauternes and Tokaji are the classic examples.",
+     "Icewine (Eiswein in Germany): grapes freeze on the vine and are pressed frozen, so only a small amount of very sweet juice runs out; Canada and Germany are known for it.",
+     "Stopping fermentation: some wines keep natural sugar because the fermentation is stopped before all the sugar is used, as in many German Rieslings."
+    ]
+   },
+   {
+    "h3": "Fortified wines"
+   },
+   {
+    "p": "Fortified wines have grape spirit added. Timing is the key difference. In Port, spirit is added during fermentation, which stops it and leaves natural sugar, so Port is sweet and full-bodied; Ruby styles are fruity and deep in colour, Tawny styles are aged longer in wood and show nutty, caramel notes. In Sherry, from the south of Spain, spirit is added after fermentation, so the base wine is dry. Fino ages under a layer of yeast called flor and is pale, dry and light; Oloroso ages without flor, in contact with oxygen, and becomes darker with nutty, toffee notes. Sweet Sherries are made by sweetening a dry Sherry."
+   },
+   {
+    "h2": "Reading a wine label"
+   },
+   {
+    "p": "European wines are usually labelled by place, New World wines often by grape. Questions test the meaning of quality categories and of a few traditional terms, so a compact glossary is worth learning by heart."
+   },
+   {
+    "table": {
+     "head": [
+      "Term",
+      "Country",
+      "What it tells you"
+     ],
+     "rows": [
+      [
+       "AOC / AOP",
+       "France",
+       "Protected designation of origin: rules on area, grapes and methods"
+      ],
+      [
+       "IGP / Vin de Pays",
+       "France",
+       "Protected geographical indication: wider area, more freedom on grapes"
+      ],
+      [
+       "DOCG / DOC",
+       "Italy",
+       "Protected designations; DOCG is the top category"
+      ],
+      [
+       "Classico",
+       "Italy",
+       "From the historic heart of a region, e.g. Chianti Classico"
+      ],
+      [
+       "Riserva",
+       "Italy",
+       "Longer ageing before release than the basic wine"
+      ],
+      [
+       "Crianza, Reserva, Gran Reserva",
+       "Spain",
+       "Increasing minimum ageing in barrel and bottle, e.g. in Rioja"
+      ],
+      [
+       "Kabinett, Spätlese, Auslese",
+       "Germany",
+       "Increasing levels of grape ripeness at harvest"
+      ],
+      [
+       "Trocken",
+       "Germany",
+       "Dry"
+      ],
+      [
+       "Brut",
+       "Sparkling wines",
+       "Dry"
+      ],
+      [
+       "Sur lie",
+       "France",
+       "Aged on the lees, e.g. Muscadet"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Food and wine pairing rules"
+   },
+   {
+    "p": "Pairing questions follow simple rules about how food changes the way a wine tastes. Learn the direction of each effect and you can answer any combination."
+   },
+   {
+    "table": {
+     "head": [
+      "Element in the food",
+      "Effect on the wine",
+      "What to choose"
+     ],
+     "rows": [
+      [
+       "Sweetness",
+       "Wine seems drier, more acidic and more bitter",
+       "A wine at least as sweet as the food"
+      ],
+      [
+       "Umami (mushrooms, cured meat, ripe cheese)",
+       "Wine seems drier, more bitter, more acidic",
+       "Fruity wines with lower tannin"
+      ],
+      [
+       "Acidity",
+       "Wine seems less acidic, softer and fruitier",
+       "A wine with high acidity"
+      ],
+      [
+       "Salt",
+       "Wine seems softer and fruitier",
+       "Many wines work; high-acid and sparkling wines are classic"
+      ],
+      [
+       "Chilli heat",
+       "Alcohol burn and bitterness increase",
+       "Low-alcohol, fruity, off-dry whites"
+      ],
+      [
+       "Fat and protein",
+       "Tannin seems softer",
+       "Tannic reds with red meat"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Storage and service"
+   },
+   {
+    "p": "Store bottles in a cool, dark place with a steady temperature; keep bottles sealed with a cork lying down so the cork stays moist. Serving temperature is a common question:"
+   },
+   {
+    "table": {
+     "head": [
+      "Style",
+      "Serving temperature"
+     ],
+     "rows": [
+      [
+       "Sweet wines",
+       "Well chilled, about 6–8 °C"
+      ],
+      [
+       "Sparkling wines",
+       "Well chilled, about 6–10 °C"
+      ],
+      [
+       "Light and medium-bodied whites",
+       "Chilled, about 7–10 °C"
+      ],
+      [
+       "Full-bodied, oaked whites",
+       "Lightly chilled, about 10–13 °C"
+      ],
+      [
+       "Light-bodied reds",
+       "Lightly chilled, about 13 °C"
+      ],
+      [
+       "Medium and full-bodied reds",
+       "Room temperature, about 15–18 °C"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Decanting separates a wine from its sediment, typical of old reds and some Ports. A wine smelling of wet cardboard is faulty because of cork taint. Open bottles keep longer in the fridge and with as little air as possible."
+   },
+   {
+    "h2": "Tasting with the Level 2 Systematic Approach"
+   },
+   {
+    "p": "There is no tasting exam at Level 2, but questions can ask about the structure of a tasting note and what each term means. The approach has three stages."
+   },
+   {
+    "ol": [
+     "Appearance: clarity, intensity of colour (pale, medium, deep) and colour, for example lemon or gold for whites, ruby or garnet for reds.",
+     "Nose: intensity of the aromas and their characteristics, such as fruit, floral, spice, oak or developed notes.",
+     "Palate: sweetness, acidity, tannin, alcohol, body, flavour intensity, flavour characteristics and finish, followed by a simple conclusion on quality."
+    ]
+   },
+   {
+    "tip": "Tannin is a drying, grippy feeling on the gums, not a flavour. Acidity makes your mouth water. Exam questions often check that you can tell these two apart."
+   },
+   {
+    "h2": "A four-week study plan"
+   },
+   {
+    "table": {
+     "head": [
+      "Week",
+      "Focus",
+      "Daily routine"
+     ],
+     "rows": [
+      [
+       "Week 1",
+       "Climate, vineyard, winemaking, the eight principal grapes",
+       "Learn one grape a day with its cool and warm style; 15 mixed questions"
+      ],
+      [
+       "Week 2",
+       "France, Italy, Spain, Germany and their labelling terms",
+       "One country a day on a map; flashcards for terms"
+      ],
+      [
+       "Week 3",
+       "New World regions, regional grapes, sparkling, sweet and fortified wines",
+       "Grape ↔ region drills in both directions; 20 questions a day"
+      ],
+      [
+       "Week 4",
+       "Pairing, storage, service, tasting terms and full mock exams",
+       "Two timed mock exams of 50 questions; review every mistake"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Practice questions answered and explained"
+   },
+   {
+    "p": "Question: A wine from a cool climate is most likely to have which combination? Answer: high acidity, lighter body and lower alcohol. Slow ripening keeps acid in the grape and limits sugar, so the wine has less alcohol and less body."
+   },
+   {
+    "p": "Question: Which technique gives bread and biscuit aromas in Champagne? Answer: ageing on the lees after the second fermentation in the bottle. The dead yeast cells slowly release flavours and texture into the wine."
+   },
+   {
+    "p": "Question: Why does a very sweet dessert make a dry wine taste sour? Answer: sweetness in food makes a wine seem drier and more acidic, so the wine should be at least as sweet as the dish."
+   },
+   {
+    "p": "Question: What is the main difference between Port and Sherry production? Answer: spirit is added to Port during fermentation, keeping natural sugar, while Sherry is fortified after fermentation, so its base wine is dry."
+   },
+   {
+    "p": "Question: A German label says Spätlese. What does it describe? Answer: a level of ripeness of the grapes at harvest, riper than Kabinett. It does not by itself tell you whether the wine is dry or sweet."
+   },
+   {
+    "h2": "Who WSET Level 2 suits best"
+   },
+   {
+    "ul": [
+     "Wine lovers who want to understand what they buy and order, without a trade background.",
+     "Restaurant, bar and shop staff who need to talk confidently about the main wines on a list or shelf.",
+     "Hospitality and tourism students looking for a widely recognised starting point.",
+     "Anyone planning to continue to Level 3, which builds directly on this knowledge."
+    ]
+   },
+   {
+    "p": "If you are not sure whether to start at Level 1 or Level 2, ask yourself whether you already drink a variety of wines and know a few grape names. If you do, Level 2 is usually the right first step; Level 1 is a shorter introduction for complete beginners."
+   },
+   {
+    "h2": "Last-week checklist"
+   },
+   {
+    "ul": [
+     "I can describe each of the eight principal grapes in a cool and a warm climate.",
+     "I can name the grape behind Chablis, Sancerre, Barolo, Chianti, Rioja, Barossa Shiraz and Marlborough Sauvignon Blanc.",
+     "I know the difference between the traditional and the tank method.",
+     "I can explain noble rot, icewine and late harvest.",
+     "I know when spirit is added in Port and in Sherry.",
+     "I can translate Riserva, Crianza, Reserva, Gran Reserva, Kabinett, Spätlese, Trocken and Brut.",
+     "I know the main pairing rules for sweetness, umami, acidity, salt and chilli.",
+     "I score 70% or more on two timed 50-question mock exams in a row."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "What score do I need for a Merit or Distinction at WSET Level 2?",
+    "The pass mark is 55%, which means 28 correct answers out of 50. A Merit requires 70%, or 35 correct answers, and a Distinction requires 85%, or 43 correct answers. Wrong answers do not cost points, so answer every question. Aiming for Merit in your mock exams is a good way to build a safety margin for the real exam day, when nerves can cost a few marks."
+   ],
+   [
+    "Are there questions on sparkling and fortified wines at Level 2?",
+    "Yes. Expect questions on the traditional and tank methods, on the grapes used in Champagne, on Prosecco and Cava, and on how Port and Sherry are made. These topics are small but predictable: one key technique explains each style, so they are among the easiest marks to secure if you revise them carefully."
+   ],
+   [
+    "Is WSET Level 2 mostly about memorising?",
+    "Less than many candidates expect. A large share of questions ask why a wine has a certain style, and these can be answered by reasoning from climate, ripeness and winemaking. You still need to learn grape–region pairs and labelling terms, but understanding cause and effect reduces the amount of pure memorisation and makes the facts easier to remember."
+   ],
+   [
+    "Can I prepare for WSET Level 2 on my own?",
+    "You can do a large part of the work on your own with structured notes, flashcards and timed practice questions, but the exam is taken through an approved course provider, and the course includes guided tastings that help fix styles in your memory. Many candidates combine classes with daily self-study, which is the most efficient approach."
+   ],
+   [
+    "How much tasting should I do while studying Level 2?",
+    "Tasting is not examined at Level 2, but tasting the classic styles side by side makes the theory stick: a Chablis next to an oaked Californian Chardonnay, or a Sancerre next to a Marlborough Sauvignon Blanc. Even a few comparisons during the course help you remember how climate and oak change a wine, which is exactly what many questions test."
+   ]
+  ]
+ },
+ "it": {
+  "sections": [
+   {
+    "h2": "Appunti di studio: il WSET Livello 2 spiegato argomento per argomento"
+   },
+   {
+    "p": "Il WSET Livello 2 Award in Wines sembra un lungo elenco di vitigni, regioni e termini, ma si basa su poche idee che ritornano in tutto il corso. Una volta capita la struttura, ogni nuova regione diventa una variazione di qualcosa che conosci già. Questi appunti seguono il programma nell'ordine più utile per la preparazione all'esame WSET, con tabelle da copiare nel tuo quaderno ed esempi di come ogni argomento si trasforma in domande d'esame."
+   },
+   {
+    "h3": "Come viene valutato l'esame"
+   },
+   {
+    "p": "L'esame è composto da 50 domande a scelta multipla in 60 minuti. Ogni domanda ha quattro opzioni e una sola è corretta; una risposta sbagliata non toglie punti, quindi non lasciare mai una domanda in bianco. Il risultato è una percentuale e, oltre alla bocciatura, sono previsti tre esiti."
+   },
+   {
+    "table": {
+     "head": [
+      "Esito",
+      "Percentuale",
+      "Risposte corrette su 50"
+     ],
+     "rows": [
+      [
+       "Promosso (Pass)",
+       "55% o più",
+       "28 o più"
+      ],
+      [
+       "Promosso con Merit",
+       "70% o più",
+       "35 o più"
+      ],
+      [
+       "Promosso con Distinction",
+       "85% o più",
+       "43 o più"
+      ],
+      [
+       "Non superato",
+       "meno del 55%",
+       "27 o meno"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Sessanta minuti per cinquanta domande significano poco più di un minuto a domanda. Se conosci l'argomento, la maggior parte delle domande richiede venti o trenta secondi, e resta tutto il tempo per tornare su quelle difficili. Una buona abitudine è rispondere subito a tutto ciò di cui sei sicuro, segnare i dubbi e usare il tempo rimanente per ragionarci con calma."
+   },
+   {
+    "h2": "La logica del programma: tre fattori che creano uno stile"
+   },
+   {
+    "p": "Quasi ogni vino del corso si spiega con tre gruppi di fattori: dove crescono le uve, come vengono coltivate e raccolte, e cosa succede in cantina. Se impari l'effetto di ciascun fattore, puoi rispondere anche su regioni che hai ripassato poco, perché l'esame premia di solito il ragionamento più che i dati isolati."
+   },
+   {
+    "h3": "1. L'ambiente: clima, annata e posizione"
+   },
+   {
+    "p": "L'uva ha bisogno di calore e di luce per maturare. Durante la maturazione lo zucchero aumenta, l'acidità diminuisce e gli aromi passano da verdi e aspri a maturi e dolci. In un clima fresco questo processo è lento: i vini conservano un'acidità alta, hanno corpo più leggero, alcol più basso e frutti come mela verde, limone, mirtillo rosso o ciliegia rossa. In un clima caldo la maturazione è rapida e completa: i vini hanno più alcol e corpo, acidità più morbida e frutta più matura come pesca, ananas, mora o prugna. Fiumi, laghi e mare moderano le temperature; i pendii esposti al sole raccolgono più calore; l'altitudine rinfresca il vigneto."
+   },
+   {
+    "h3": "2. In vigna: maturità e momento della vendemmia"
+   },
+   {
+    "p": "È il viticoltore a decidere quando raccogliere. Una vendemmia precoce conserva acidità e freschezza ed è usata per le basi spumante o per bianchi croccanti. Una vendemmia tardiva dà più zucchero e aromi più maturi, e in alcune zone le uve restano sulla pianta per concentrarsi ancora di più e dare vini dolci. Conta anche la resa: viti che producono meno uva danno in genere vini più concentrati."
+   },
+   {
+    "h3": "3. In cantina: le scelte che cambiano il sapore"
+   },
+   {
+    "table": {
+     "head": [
+      "Scelta di cantina",
+      "Che effetto ha",
+      "Esempio tipico"
+     ],
+     "rows": [
+      [
+       "Fermentazione a bassa temperatura in acciaio",
+       "Conserva aromi freschi e fruttati",
+       "Sauvignon Blanc di Marlborough, Pinot Grigio"
+      ],
+      [
+       "Fermentazione malolattica",
+       "Trasforma un acido pungente in uno più morbido e può dare note di burro",
+       "Molti Chardonnay affinati in legno, quasi tutti i rossi"
+      ],
+      [
+       "Botti di rovere nuove",
+       "Aggiungono vaniglia, tostatura, fumo, chiodi di garofano e cocco",
+       "Rioja Reserva, molti Cabernet della Napa Valley"
+      ],
+      [
+       "Botti di rovere vecchie",
+       "Permettono un lento contatto con l'ossigeno senza aggiungere molto sapore di legno",
+       "Chianti tradizionale, molti Barolo"
+      ],
+      [
+       "Contatto con le fecce (lieviti)",
+       "Aggiunge struttura e note di pane e biscotto",
+       "Champagne, Muscadet sur lie"
+      ],
+      [
+       "Interruzione anticipata della fermentazione",
+       "Lascia zucchero naturale nel vino",
+       "Riesling amabili e dolci"
+      ],
+      [
+       "Macerazione più lunga per i rossi",
+       "Estrae più colore e tannino",
+       "Cabernet Sauvignon, Syrah"
+      ],
+      [
+       "Macerazione breve per il rosato",
+       "Dà un rosa pallido e poco tannino",
+       "Rosato di Provenza"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Quando una domanda descrive un vino e chiede perché ha quel gusto, cerca l'opzione che indica una causa. Clima, maturità, legno e fermentazione malolattica spiegano la maggior parte degli stili all'esame."
+   },
+   {
+    "h2": "Gli otto vitigni principali, in clima fresco e caldo"
+   },
+   {
+    "p": "Il corso dà un peso particolare a otto varietà internazionali. Per ciascuna devi saper citare le regioni classiche, descrivere gli aromi tipici e dire come cambia il vino in un luogo più fresco o più caldo. La tabella qui sotto è una versione compatta di questa griglia."
+   },
+   {
+    "table": {
+     "head": [
+      "Vitigno",
+      "Regioni più fresche e stile",
+      "Regioni più calde e stile"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Chablis: acidità alta, mela verde, limone, in genere poco o niente legno nuovo",
+       "California, Australia: pesca, ananas, spesso affinato in legno con vaniglia e burro"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Sancerre, Pouilly-Fumé: acidità alta, erba, peperone verde, uva spina",
+       "Marlborough: molto aromatico, frutto della passione e note verdi; a Bordeaux è in uvaggio con il Sémillon"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "Nord-est d'Italia: leggero, fresco, neutro, limone e pera",
+       "Alsazia: più pieno e ricco, spesso abboccato, con frutta a polpa gialla matura"
+      ],
+      [
+       "Riesling",
+       "Mosella: acidità altissima, alcol basso, da secco a dolce, floreale e agrumato",
+       "Clare ed Eden Valley: secco, lime e agrumi, con note di tostato invecchiando"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Rive Gauche di Bordeaux (Médoc): tannino e acidità alti, ribes nero, spesso in uvaggio",
+       "Napa Valley, Coonawarra: frutta nera più matura, corpo più pieno, spesso legno nuovo"
+      ],
+      [
+       "Merlot",
+       "Rive Droite di Bordeaux (Saint-Émilion, Pomerol): prugna, tannino medio, morbido",
+       "Cile, California: prugna e mora mature, morbido e fruttato"
+      ],
+      [
+       "Pinot Noir",
+       "Borgogna: colore scarico, ciliegia rossa, lampone, note terrose con l'età",
+       "California, Cile: frutta rossa più matura, a volte più corpo e legno"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Rodano settentrionale: frutta nera, pepe nero, tannino deciso",
+       "Barossa Valley: corpo pieno, alcol alto, mora matura, cioccolato e spezie dolci"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Nota che il nome del vitigno cambia spesso con lo stile: Syrah indica di solito lo stile più fresco e pepato, Shiraz quello più maturo australiano; Pinot Grigio richiama lo stile leggero italiano e Pinot Gris quello più ricco alsaziano. Queste abitudini di etichetta sono indizi utili nelle domande."
+   },
+   {
+    "h2": "Spumanti, vini dolci e fortificati"
+   },
+   {
+    "p": "Queste tre famiglie occupano una parte più piccola del corso, ma producono alcune delle domande più prevedibili, perché ogni stile dipende da una tecnica precisa."
+   },
+   {
+    "h3": "Spumanti"
+   },
+   {
+    "table": {
+     "head": [
+      "Metodo",
+      "Dove avviene la seconda fermentazione",
+      "Stile",
+      "Esempi"
+     ],
+     "rows": [
+      [
+       "Metodo tradizionale (classico)",
+       "Nella bottiglia in cui il vino viene venduto",
+       "Bollicine fini, pane, biscotto e tostatura grazie all'affinamento sui lieviti",
+       "Champagne, Cava, Crémant"
+      ],
+      [
+       "Metodo in autoclave (Charmat)",
+       "In una vasca chiusa e pressurizzata",
+       "Fresco, fruttato e floreale, da bere giovane",
+       "Prosecco, Asti"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Lo Champagne usa Chardonnay, Pinot Noir e Pinot Meunier. Il Cava viene soprattutto dalla Catalogna, in Spagna. Il Prosecco si produce principalmente con l'uva Glera nel nord-est d'Italia, e l'Asti è uno spumante dolce e a basso tenore alcolico ottenuto dal Moscato in Piemonte. I termini di dolcezza come Brut (secco) e Demi-Sec (abboccato) sono chiesti spesso."
+   },
+   {
+    "h3": "Vini dolci"
+   },
+   {
+    "ul": [
+     "Vendemmia tardiva: le uve restano più a lungo sulla pianta e lo zucchero si concentra; diffusa in Alsazia e in Germania.",
+     "Muffa nobile: un fungo chiamato Botrytis cinerea fa appassire le uve mature con autunni nebbiosi al mattino e soleggiati di giorno, dando note di miele e albicocca secca; Sauternes e Tokaji sono gli esempi classici.",
+     "Vino di ghiaccio (Icewine, Eiswein in Germania): le uve gelano sulla pianta e vengono pressate congelate, così esce poco succo molto dolce; Canada e Germania sono noti per questo stile.",
+     "Arresto della fermentazione: alcuni vini conservano zucchero naturale perché la fermentazione viene fermata prima che tutto lo zucchero sia trasformato, come in molti Riesling tedeschi."
+    ]
+   },
+   {
+    "h3": "Vini fortificati"
+   },
+   {
+    "p": "Ai vini fortificati si aggiunge acquavite di vino. La differenza chiave è il momento. Nel Porto l'alcol viene aggiunto durante la fermentazione, che si ferma lasciando zucchero naturale: il Porto è quindi dolce e corposo; gli stili Ruby sono fruttati e di colore intenso, i Tawny invecchiano più a lungo in legno e mostrano note di frutta secca e caramello. Nello Sherry, del sud della Spagna, l'alcol si aggiunge dopo la fermentazione, quindi il vino base è secco. Il Fino matura sotto uno strato di lieviti chiamato flor ed è pallido, secco e leggero; l'Oloroso matura senza flor, a contatto con l'ossigeno, e diventa più scuro con note di noce e toffee. Gli Sherry dolci si ottengono dolcificando uno Sherry secco."
+   },
+   {
+    "h2": "Leggere un'etichetta"
+   },
+   {
+    "p": "I vini europei sono di solito etichettati con il luogo, quelli del Nuovo Mondo spesso con il vitigno. Le domande verificano il significato delle categorie di qualità e di alcuni termini tradizionali: vale la pena imparare a memoria questo piccolo glossario."
+   },
+   {
+    "table": {
+     "head": [
+      "Termine",
+      "Paese",
+      "Cosa indica"
+     ],
+     "rows": [
+      [
+       "AOC / AOP",
+       "Francia",
+       "Denominazione di origine protetta: regole su zona, vitigni e metodi"
+      ],
+      [
+       "IGP / Vin de Pays",
+       "Francia",
+       "Indicazione geografica protetta: zona più ampia, più libertà sui vitigni"
+      ],
+      [
+       "DOCG / DOC",
+       "Italia",
+       "Denominazioni protette; la DOCG è la categoria più alta"
+      ],
+      [
+       "Classico",
+       "Italia",
+       "Dal cuore storico di una zona, per esempio Chianti Classico"
+      ],
+      [
+       "Riserva",
+       "Italia",
+       "Affinamento più lungo prima della vendita rispetto al vino base"
+      ],
+      [
+       "Crianza, Reserva, Gran Reserva",
+       "Spagna",
+       "Invecchiamento minimo crescente in botte e in bottiglia, per esempio in Rioja"
+      ],
+      [
+       "Kabinett, Spätlese, Auslese",
+       "Germania",
+       "Livelli crescenti di maturità dell'uva alla vendemmia"
+      ],
+      [
+       "Trocken",
+       "Germania",
+       "Secco"
+      ],
+      [
+       "Brut",
+       "Spumanti",
+       "Secco"
+      ],
+      [
+       "Sur lie",
+       "Francia",
+       "Affinato sulle fecce, per esempio il Muscadet"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Le regole dell'abbinamento cibo-vino"
+   },
+   {
+    "p": "Le domande sugli abbinamenti seguono regole semplici su come il cibo cambia la percezione del vino. Impara la direzione di ogni effetto e potrai rispondere a qualsiasi combinazione."
+   },
+   {
+    "table": {
+     "head": [
+      "Elemento nel piatto",
+      "Effetto sul vino",
+      "Cosa scegliere"
+     ],
+     "rows": [
+      [
+       "Dolcezza",
+       "Il vino sembra più secco, più acido e più amaro",
+       "Un vino almeno dolce quanto il piatto"
+      ],
+      [
+       "Umami (funghi, salumi, formaggi stagionati)",
+       "Il vino sembra più secco, più amaro, più acido",
+       "Vini fruttati con poco tannino"
+      ],
+      [
+       "Acidità",
+       "Il vino sembra meno acido, più morbido e fruttato",
+       "Un vino di acidità alta"
+      ],
+      [
+       "Sale",
+       "Il vino sembra più morbido e fruttato",
+       "Molti vini funzionano; bianchi acidi e spumanti sono classici"
+      ],
+      [
+       "Piccante",
+       "Aumentano bruciore dell'alcol e amarezza",
+       "Bianchi fruttati, abboccati e poco alcolici"
+      ],
+      [
+       "Grassi e proteine",
+       "Il tannino sembra più morbido",
+       "Rossi tannici con carne rossa"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Conservazione e servizio"
+   },
+   {
+    "p": "Conserva le bottiglie in un luogo fresco e buio a temperatura costante; tieni coricate le bottiglie con tappo di sughero, così il tappo resta umido. La temperatura di servizio è una domanda frequente:"
+   },
+   {
+    "table": {
+     "head": [
+      "Stile",
+      "Temperatura di servizio"
+     ],
+     "rows": [
+      [
+       "Vini dolci",
+       "Ben freddi, circa 6–8 °C"
+      ],
+      [
+       "Spumanti",
+       "Ben freddi, circa 6–10 °C"
+      ],
+      [
+       "Bianchi leggeri e di medio corpo",
+       "Freddi, circa 7–10 °C"
+      ],
+      [
+       "Bianchi corposi affinati in legno",
+       "Leggermente freschi, circa 10–13 °C"
+      ],
+      [
+       "Rossi leggeri",
+       "Leggermente freschi, circa 13 °C"
+      ],
+      [
+       "Rossi di medio e pieno corpo",
+       "Temperatura ambiente, circa 15–18 °C"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "La decantazione separa il vino dal deposito, tipico dei rossi vecchi e di alcuni Porto. Un vino che sa di cartone bagnato è difettoso a causa del sentore di tappo. Le bottiglie aperte durano di più in frigorifero e con meno aria possibile."
+   },
+   {
+    "h2": "Degustare con l'approccio sistematico del Livello 2"
+   },
+   {
+    "p": "Al Livello 2 non c'è un esame di degustazione, ma le domande possono riguardare la struttura di una scheda e il significato di ogni termine. L'approccio ha tre fasi."
+   },
+   {
+    "ol": [
+     "Aspetto: limpidezza, intensità del colore (pallido, medio, intenso) e colore, per esempio giallo limone o dorato per i bianchi, rubino o granato per i rossi.",
+     "Naso: intensità degli aromi e loro caratteristiche, come frutta, fiori, spezie, legno o note evolute.",
+     "Palato: dolcezza, acidità, tannino, alcol, corpo, intensità e caratteristiche del gusto e persistenza, seguiti da una semplice conclusione sulla qualità."
+    ]
+   },
+   {
+    "tip": "Il tannino è una sensazione asciugante e ruvida sulle gengive, non un sapore. L'acidità fa salivare. Le domande d'esame verificano spesso che tu sappia distinguerli."
+   },
+   {
+    "h2": "Un piano di studio in quattro settimane"
+   },
+   {
+    "table": {
+     "head": [
+      "Settimana",
+      "Argomenti",
+      "Routine quotidiana"
+     ],
+     "rows": [
+      [
+       "Settimana 1",
+       "Clima, vigna, cantina, gli otto vitigni principali",
+       "Un vitigno al giorno con stile fresco e caldo; 15 domande miste"
+      ],
+      [
+       "Settimana 2",
+       "Francia, Italia, Spagna, Germania e i loro termini in etichetta",
+       "Un paese al giorno sulla mappa; flashcard per i termini"
+      ],
+      [
+       "Settimana 3",
+       "Nuovo Mondo, vitigni regionali, spumanti, dolci e fortificati",
+       "Esercizi vitigno ↔ regione nei due sensi; 20 domande al giorno"
+      ],
+      [
+       "Settimana 4",
+       "Abbinamenti, conservazione, servizio, termini di degustazione e simulazioni complete",
+       "Due simulazioni d'esame cronometrate da 50 domande; rivedi ogni errore"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Domande di prova con risposta spiegata"
+   },
+   {
+    "p": "Domanda: un vino di clima fresco ha più probabilmente quale combinazione? Risposta: acidità alta, corpo più leggero e alcol più basso. La maturazione lenta conserva l'acido nell'uva e limita lo zucchero, quindi il vino ha meno alcol e meno corpo."
+   },
+   {
+    "p": "Domanda: quale tecnica dà aromi di pane e biscotto allo Champagne? Risposta: l'affinamento sui lieviti dopo la seconda fermentazione in bottiglia. Le cellule di lievito morte rilasciano lentamente aromi e struttura nel vino."
+   },
+   {
+    "p": "Domanda: perché un dessert molto dolce fa sembrare aspro un vino secco? Risposta: la dolcezza nel cibo fa sembrare il vino più secco e più acido, quindi il vino deve essere almeno dolce quanto il piatto."
+   },
+   {
+    "p": "Domanda: qual è la differenza principale tra la produzione del Porto e quella dello Sherry? Risposta: nel Porto l'alcol si aggiunge durante la fermentazione e resta zucchero naturale, mentre lo Sherry viene fortificato dopo la fermentazione, quindi il vino base è secco."
+   },
+   {
+    "p": "Domanda: un'etichetta tedesca riporta Spätlese. Cosa descrive? Risposta: un livello di maturità dell'uva alla vendemmia, superiore al Kabinett. Da solo non dice se il vino è secco o dolce."
+   },
+   {
+    "h2": "A chi si adatta meglio il WSET Livello 2"
+   },
+   {
+    "ul": [
+     "Appassionati che vogliono capire cosa comprano e ordinano, senza un passato nel settore.",
+     "Personale di ristoranti, bar ed enoteche che deve parlare con sicurezza dei principali vini in carta o a scaffale.",
+     "Studenti di ospitalità e turismo che cercano un punto di partenza riconosciuto.",
+     "Chi pensa di proseguire con il Livello 3, che si basa direttamente su queste conoscenze."
+    ]
+   },
+   {
+    "p": "Se non sai se iniziare dal Livello 1 o dal Livello 2, chiediti se bevi già vini diversi e conosci qualche nome di vitigno. In quel caso il Livello 2 è di solito il primo passo giusto; il Livello 1 è un'introduzione più breve per chi parte da zero."
+   },
+   {
+    "h2": "Checklist dell'ultima settimana"
+   },
+   {
+    "ul": [
+     "So descrivere ciascuno degli otto vitigni principali in clima fresco e in clima caldo.",
+     "So indicare il vitigno di Chablis, Sancerre, Barolo, Chianti, Rioja, Shiraz della Barossa e Sauvignon Blanc di Marlborough.",
+     "Conosco la differenza tra metodo tradizionale e metodo in autoclave.",
+     "So spiegare muffa nobile, vino di ghiaccio e vendemmia tardiva.",
+     "So quando si aggiunge l'alcol nel Porto e nello Sherry.",
+     "So tradurre Riserva, Crianza, Reserva, Gran Reserva, Kabinett, Spätlese, Trocken e Brut.",
+     "Conosco le regole di abbinamento per dolcezza, umami, acidità, sale e piccante.",
+     "Ottengo almeno il 70% in due simulazioni cronometrate da 50 domande di fila."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Che punteggio serve per Merit o Distinction al WSET Livello 2?",
+    "La soglia di superamento è il 55%, cioè 28 risposte corrette su 50. Il Merit richiede il 70%, ovvero 35 risposte corrette, e la Distinction l'85%, ovvero 43. Le risposte sbagliate non tolgono punti, quindi rispondi a tutte le domande. Puntare al Merit nelle simulazioni è un buon modo per crearti un margine di sicurezza per il giorno dell'esame, quando l'emozione può costare qualche punto."
+   ],
+   [
+    "Ci sono domande su spumanti e vini fortificati al Livello 2?",
+    "Sì. Aspettati domande sul metodo tradizionale e sul metodo in autoclave, sui vitigni dello Champagne, su Prosecco e Cava e su come si producono Porto e Sherry. Sono argomenti piccoli ma prevedibili: una tecnica chiave spiega ogni stile, quindi sono tra i punti più facili da conquistare se li ripassi con cura."
+   ],
+   [
+    "Il WSET Livello 2 è soprattutto memoria?",
+    "Meno di quanto molti pensino. Una buona parte delle domande chiede perché un vino ha un certo stile, e si risponde ragionando su clima, maturità e cantina. Devi comunque imparare le coppie vitigno–regione e i termini in etichetta, ma capire causa ed effetto riduce la memorizzazione pura e rende i dati più facili da ricordare."
+   ],
+   [
+    "Posso prepararmi al WSET Livello 2 da solo?",
+    "Puoi fare gran parte del lavoro da solo con appunti strutturati, flashcard e domande cronometrate, ma l'esame si sostiene tramite un ente di formazione autorizzato, e il corso include degustazioni guidate che aiutano a fissare gli stili. Molti candidati combinano lezioni e studio quotidiano individuale, ed è l'approccio più efficace."
+   ],
+   [
+    "Quanto degustare durante la preparazione al Livello 2?",
+    "La degustazione non è oggetto d'esame al Livello 2, ma assaggiare gli stili classici fianco a fianco fissa la teoria: uno Chablis accanto a uno Chardonnay californiano affinato in legno, o un Sancerre accanto a un Sauvignon Blanc di Marlborough. Anche pochi confronti aiutano a ricordare come clima e legno cambiano un vino, esattamente ciò che molte domande verificano."
+   ]
+  ]
+ },
+ "fr": {
+  "sections": [
+   {
+    "h2": "Fiches de révision : le WSET Niveau 2 expliqué thème par thème"
+   },
+   {
+    "p": "Le WSET Niveau 2 Award in Wines ressemble à une longue liste de cépages, de régions et de termes, mais il repose sur quelques idées qui reviennent tout au long du cours. Une fois la structure comprise, chaque nouvelle région devient une variation de ce que vous connaissez déjà. Ces fiches suivent le programme dans l'ordre le plus utile pour la préparation à l'examen WSET, avec des tableaux à recopier dans votre carnet et des exemples de la façon dont chaque thème se transforme en question d'examen."
+   },
+   {
+    "h3": "Comment l'examen est noté"
+   },
+   {
+    "p": "L'examen comporte 50 questions à choix multiples en 60 minutes. Chaque question propose quatre réponses, dont une seule est correcte ; une mauvaise réponse ne retire aucun point, donc ne laissez jamais une question sans réponse. Le résultat est un pourcentage et, en plus de l'échec, trois mentions sont possibles."
+   },
+   {
+    "table": {
+     "head": [
+      "Résultat",
+      "Pourcentage",
+      "Bonnes réponses sur 50"
+     ],
+     "rows": [
+      [
+       "Réussite (Pass)",
+       "55 % ou plus",
+       "28 ou plus"
+      ],
+      [
+       "Réussite avec Merit",
+       "70 % ou plus",
+       "35 ou plus"
+      ],
+      [
+       "Réussite avec Distinction",
+       "85 % ou plus",
+       "43 ou plus"
+      ],
+      [
+       "Échec",
+       "moins de 55 %",
+       "27 ou moins"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Soixante minutes pour cinquante questions, c'est un peu plus d'une minute par question. Si vous maîtrisez le sujet, la plupart des questions prennent vingt à trente secondes, ce qui laisse largement le temps de revenir sur les plus difficiles. Une bonne méthode : répondre d'abord à tout ce dont vous êtes sûr, marquer les doutes, puis utiliser le temps restant pour y réfléchir."
+   },
+   {
+    "h2": "La logique du programme : trois facteurs qui créent un style"
+   },
+   {
+    "p": "Presque tous les vins du cours s'expliquent par trois groupes de facteurs : l'endroit où pousse le raisin, la façon dont il est cultivé et récolté, et ce qui se passe au chai. Si vous connaissez l'effet de chaque facteur, vous pouvez répondre même sur des régions peu révisées, car l'examen récompense en général le raisonnement plutôt que les faits isolés."
+   },
+   {
+    "h3": "1. L'environnement : climat, millésime et situation"
+   },
+   {
+    "p": "Le raisin a besoin de chaleur et de lumière pour mûrir. Pendant la maturation, le sucre augmente, l'acidité baisse et les arômes passent du vert et acidulé au mûr et sucré. En climat frais, ce processus est lent : les vins gardent une acidité élevée, ont moins de corps, moins d'alcool et des fruits comme la pomme verte, le citron, la canneberge ou la cerise rouge. En climat chaud, la maturation est rapide et complète : les vins ont plus d'alcool et de corps, une acidité plus souple et des fruits plus mûrs comme la pêche, l'ananas, la mûre ou la prune. Fleuves, lacs et mer modèrent les températures ; les coteaux exposés au soleil captent plus de chaleur ; l'altitude rafraîchit le vignoble."
+   },
+   {
+    "h3": "2. À la vigne : maturité et date des vendanges"
+   },
+   {
+    "p": "C'est le vigneron qui décide quand récolter. Des vendanges précoces préservent l'acidité et la fraîcheur, pour les vins de base des effervescents ou les blancs vifs. Des vendanges tardives donnent plus de sucre et des arômes plus mûrs, et dans certaines régions on laisse le raisin sur pied pour le concentrer encore et produire des vins doux. Le rendement compte aussi : des vignes qui produisent moins donnent en général des vins plus concentrés."
+   },
+   {
+    "h3": "3. Au chai : les choix qui changent le goût"
+   },
+   {
+    "table": {
+     "head": [
+      "Choix de vinification",
+      "Effet",
+      "Exemple typique"
+     ],
+     "rows": [
+      [
+       "Fermentation à basse température en cuve inox",
+       "Préserve les arômes frais et fruités",
+       "Sauvignon Blanc de Marlborough, Pinot Grigio"
+      ],
+      [
+       "Fermentation malolactique",
+       "Transforme un acide vif en un acide plus doux et peut apporter des notes beurrées",
+       "Beaucoup de Chardonnays boisés, presque tous les rouges"
+      ],
+      [
+       "Fûts de chêne neufs",
+       "Apportent vanille, toasté, fumé, clou de girofle et noix de coco",
+       "Rioja Reserva, de nombreux Cabernets de Napa"
+      ],
+      [
+       "Fûts de chêne anciens",
+       "Permettent un lent contact avec l'oxygène sans beaucoup de goût boisé",
+       "Chianti traditionnel, beaucoup de Barolos"
+      ],
+      [
+       "Élevage sur lies",
+       "Apporte texture et notes de pain et de biscuit",
+       "Champagne, Muscadet sur lie"
+      ],
+      [
+       "Arrêt précoce de la fermentation",
+       "Laisse du sucre naturel dans le vin",
+       "Rieslings demi-secs et doux"
+      ],
+      [
+       "Macération plus longue pour les rouges",
+       "Extrait plus de couleur et de tanins",
+       "Cabernet Sauvignon, Syrah"
+      ],
+      [
+       "Macération courte pour le rosé",
+       "Donne un rose pâle et peu de tanins",
+       "Rosé de Provence"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Quand une question décrit un vin et demande pourquoi il a ce goût, cherchez la réponse qui cite une cause. Climat, maturité, élevage en fût et fermentation malolactique expliquent la plupart des styles à l'examen."
+   },
+   {
+    "h2": "Les huit cépages principaux, en climat frais et chaud"
+   },
+   {
+    "p": "Le cours accorde un poids particulier à huit cépages internationaux. Pour chacun, vous devez pouvoir citer les régions classiques, décrire les arômes typiques et dire comment le vin change dans un lieu plus frais ou plus chaud. Le tableau ci-dessous en est une version compacte."
+   },
+   {
+    "table": {
+     "head": [
+      "Cépage",
+      "Régions plus fraîches et style",
+      "Régions plus chaudes et style"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Chablis : acidité élevée, pomme verte, citron, peu ou pas de bois neuf",
+       "Californie, Australie : pêche, ananas, souvent boisé avec vanille et beurre"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Sancerre, Pouilly-Fumé : acidité élevée, herbe, poivron vert, groseille à maquereau",
+       "Marlborough : très aromatique, fruit de la passion et notes vertes ; à Bordeaux, assemblé avec le Sémillon"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "Nord-est de l'Italie : léger, vif, neutre, citron et poire",
+       "Alsace : plus ample et riche, souvent demi-sec, avec des fruits à noyau mûrs"
+      ],
+      [
+       "Riesling",
+       "Moselle : acidité très élevée, alcool faible, de sec à doux, floral et agrumes",
+       "Clare et Eden Valley : sec, citron vert et agrumes, notes de pain grillé en vieillissant"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Rive gauche de Bordeaux (Médoc) : tanins et acidité élevés, cassis, souvent en assemblage",
+       "Napa Valley, Coonawarra : fruits noirs plus mûrs, plus de corps, souvent bois neuf"
+      ],
+      [
+       "Merlot",
+       "Rive droite de Bordeaux (Saint-Émilion, Pomerol) : prune, tanins moyens, souple",
+       "Chili, Californie : prune et mûre bien mûres, souple et fruité"
+      ],
+      [
+       "Pinot Noir",
+       "Bourgogne : robe claire, cerise rouge, framboise, notes terreuses avec l'âge",
+       "Californie, Chili : fruits rouges plus mûrs, parfois plus de corps et de bois"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Rhône septentrional : fruits noirs, poivre noir, tanins fermes",
+       "Barossa Valley : corsé, alcool élevé, mûre bien mûre, chocolat et épices douces"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Remarquez que le nom du cépage change souvent avec le style : Syrah désigne plutôt le style frais et poivré, Shiraz le style australien plus mûr ; Pinot Grigio évoque le style léger italien et Pinot Gris le style plus riche d'Alsace. Ces habitudes d'étiquetage sont des indices utiles dans les questions."
+   },
+   {
+    "h2": "Vins effervescents, doux et mutés"
+   },
+   {
+    "p": "Ces trois familles occupent une part plus réduite du cours, mais elles donnent certaines des questions les plus prévisibles, car chaque style dépend d'une technique précise."
+   },
+   {
+    "h3": "Vins effervescents"
+   },
+   {
+    "table": {
+     "head": [
+      "Méthode",
+      "Où a lieu la seconde fermentation",
+      "Style",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Méthode traditionnelle",
+       "Dans la bouteille dans laquelle le vin est vendu",
+       "Bulles fines, pain, biscuit et toasté grâce à l'élevage sur lies",
+       "Champagne, Cava, Crémant"
+      ],
+      [
+       "Méthode en cuve close",
+       "Dans une cuve fermée sous pression",
+       "Frais, fruité et floral, à boire jeune",
+       "Prosecco, Asti"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Le Champagne utilise le Chardonnay, le Pinot Noir et le Pinot Meunier. Le Cava vient surtout de Catalogne, en Espagne. Le Prosecco est produit principalement à partir du cépage Glera dans le nord-est de l'Italie, et l'Asti est un effervescent doux et peu alcoolisé issu du Muscat dans le Piémont. Les mentions de dosage comme Brut (sec) et Demi-Sec (moelleux) sont souvent demandées."
+   },
+   {
+    "h3": "Vins doux"
+   },
+   {
+    "ul": [
+     "Vendanges tardives : le raisin reste plus longtemps sur pied et son sucre se concentre ; courant en Alsace et en Allemagne.",
+     "Pourriture noble : un champignon, Botrytis cinerea, flétrit les raisins mûrs lors d'automnes brumeux le matin puis ensoleillés, et apporte des notes de miel et d'abricot sec ; Sauternes et Tokaji sont les exemples classiques.",
+     "Vin de glace (Icewine, Eiswein en Allemagne) : le raisin gèle sur pied et est pressé congelé, si bien qu'il ne s'écoule qu'un peu de jus très sucré ; le Canada et l'Allemagne en sont réputés.",
+     "Arrêt de la fermentation : certains vins gardent du sucre naturel parce que la fermentation est stoppée avant que tout le sucre soit transformé, comme dans de nombreux Rieslings allemands."
+    ]
+   },
+   {
+    "h3": "Vins mutés (fortifiés)"
+   },
+   {
+    "p": "On ajoute de l'eau-de-vie de raisin aux vins mutés. La différence clé est le moment. Dans le Porto, l'alcool est ajouté pendant la fermentation, ce qui l'arrête et laisse du sucre naturel : le Porto est donc doux et corsé ; les styles Ruby sont fruités et de couleur intense, les Tawny vieillissent plus longtemps en bois et montrent des notes de fruits secs et de caramel. Dans le Xérès (Sherry), du sud de l'Espagne, l'alcool est ajouté après la fermentation, donc le vin de base est sec. Le Fino vieillit sous un voile de levures appelé flor et reste pâle, sec et léger ; l'Oloroso vieillit sans flor, au contact de l'oxygène, et devient plus sombre avec des notes de noix et de caramel au beurre. Les Xérès doux s'obtiennent en adoucissant un Xérès sec."
+   },
+   {
+    "h2": "Lire une étiquette"
+   },
+   {
+    "p": "Les vins européens sont en général étiquetés selon le lieu, ceux du Nouveau Monde souvent selon le cépage. Les questions portent sur le sens des catégories de qualité et de quelques mentions traditionnelles : ce petit glossaire vaut la peine d'être appris par cœur."
+   },
+   {
+    "table": {
+     "head": [
+      "Mention",
+      "Pays",
+      "Ce qu'elle indique"
+     ],
+     "rows": [
+      [
+       "AOC / AOP",
+       "France",
+       "Appellation d'origine protégée : règles sur l'aire, les cépages et les méthodes"
+      ],
+      [
+       "IGP / Vin de Pays",
+       "France",
+       "Indication géographique protégée : aire plus large, plus de liberté sur les cépages"
+      ],
+      [
+       "DOCG / DOC",
+       "Italie",
+       "Appellations protégées ; la DOCG est la catégorie la plus élevée"
+      ],
+      [
+       "Classico",
+       "Italie",
+       "Issu du cœur historique d'une zone, par exemple Chianti Classico"
+      ],
+      [
+       "Riserva",
+       "Italie",
+       "Élevage plus long avant commercialisation que le vin de base"
+      ],
+      [
+       "Crianza, Reserva, Gran Reserva",
+       "Espagne",
+       "Durées minimales croissantes d'élevage en fût et en bouteille, par exemple en Rioja"
+      ],
+      [
+       "Kabinett, Spätlese, Auslese",
+       "Allemagne",
+       "Niveaux croissants de maturité du raisin à la récolte"
+      ],
+      [
+       "Trocken",
+       "Allemagne",
+       "Sec"
+      ],
+      [
+       "Brut",
+       "Effervescents",
+       "Sec"
+      ],
+      [
+       "Sur lie",
+       "France",
+       "Élevé sur lies, par exemple le Muscadet"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Les règles des accords mets et vins"
+   },
+   {
+    "p": "Les questions d'accords suivent des règles simples sur la façon dont un plat modifie la perception du vin. Retenez le sens de chaque effet et vous pourrez répondre à n'importe quelle combinaison."
+   },
+   {
+    "table": {
+     "head": [
+      "Élément du plat",
+      "Effet sur le vin",
+      "Que choisir"
+     ],
+     "rows": [
+      [
+       "Sucré",
+       "Le vin paraît plus sec, plus acide et plus amer",
+       "Un vin au moins aussi sucré que le plat"
+      ],
+      [
+       "Umami (champignons, charcuterie, fromages affinés)",
+       "Le vin paraît plus sec, plus amer, plus acide",
+       "Des vins fruités peu tanniques"
+      ],
+      [
+       "Acidité",
+       "Le vin paraît moins acide, plus souple et plus fruité",
+       "Un vin à l'acidité élevée"
+      ],
+      [
+       "Sel",
+       "Le vin paraît plus souple et plus fruité",
+       "Beaucoup de vins conviennent ; blancs vifs et effervescents sont classiques"
+      ],
+      [
+       "Piment",
+       "La brûlure de l'alcool et l'amertume augmentent",
+       "Blancs fruités, demi-secs et peu alcoolisés"
+      ],
+      [
+       "Gras et protéines",
+       "Les tanins paraissent plus souples",
+       "Rouges tanniques avec la viande rouge"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Conservation et service"
+   },
+   {
+    "p": "Conservez les bouteilles dans un endroit frais et sombre, à température stable ; couchez les bouteilles bouchées avec du liège pour que le bouchon reste humide. La température de service est une question fréquente :"
+   },
+   {
+    "table": {
+     "head": [
+      "Style",
+      "Température de service"
+     ],
+     "rows": [
+      [
+       "Vins doux",
+       "Bien frais, environ 6–8 °C"
+      ],
+      [
+       "Effervescents",
+       "Bien frais, environ 6–10 °C"
+      ],
+      [
+       "Blancs légers et de corps moyen",
+       "Frais, environ 7–10 °C"
+      ],
+      [
+       "Blancs corsés et boisés",
+       "Légèrement frais, environ 10–13 °C"
+      ],
+      [
+       "Rouges légers",
+       "Légèrement frais, environ 13 °C"
+      ],
+      [
+       "Rouges de corps moyen à corsés",
+       "Température ambiante, environ 15–18 °C"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "La décantation sépare le vin de son dépôt, typique des vieux rouges et de certains Portos. Un vin qui sent le carton mouillé est défectueux à cause du goût de bouchon. Les bouteilles ouvertes se gardent plus longtemps au réfrigérateur et avec le moins d'air possible."
+   },
+   {
+    "h2": "Déguster avec l'approche systématique du Niveau 2"
+   },
+   {
+    "p": "Il n'y a pas d'épreuve de dégustation au Niveau 2, mais des questions peuvent porter sur la structure d'une fiche et le sens de chaque terme. L'approche comporte trois étapes."
+   },
+   {
+    "ol": [
+     "Aspect : limpidité, intensité de la couleur (pâle, moyenne, profonde) et couleur, par exemple citron ou or pour les blancs, rubis ou grenat pour les rouges.",
+     "Nez : intensité des arômes et leurs caractéristiques, comme le fruit, les fleurs, les épices, le bois ou des notes d'évolution.",
+     "Bouche : sucre, acidité, tanins, alcool, corps, intensité et caractéristiques des saveurs et finale, suivis d'une conclusion simple sur la qualité."
+    ]
+   },
+   {
+    "tip": "Le tanin est une sensation asséchante et râpeuse sur les gencives, pas une saveur. L'acidité fait saliver. Les questions vérifient souvent que vous savez les distinguer."
+   },
+   {
+    "h2": "Un plan de révision en quatre semaines"
+   },
+   {
+    "table": {
+     "head": [
+      "Semaine",
+      "Thèmes",
+      "Routine quotidienne"
+     ],
+     "rows": [
+      [
+       "Semaine 1",
+       "Climat, vigne, vinification, les huit cépages principaux",
+       "Un cépage par jour avec son style frais et chaud ; 15 questions mélangées"
+      ],
+      [
+       "Semaine 2",
+       "France, Italie, Espagne, Allemagne et leurs mentions d'étiquette",
+       "Un pays par jour sur la carte ; flashcards pour les mentions"
+      ],
+      [
+       "Semaine 3",
+       "Nouveau Monde, cépages régionaux, effervescents, vins doux et mutés",
+       "Exercices cépage ↔ région dans les deux sens ; 20 questions par jour"
+      ],
+      [
+       "Semaine 4",
+       "Accords, conservation, service, termes de dégustation et examens blancs complets",
+       "Deux examens blancs chronométrés de 50 questions ; revoir chaque erreur"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Questions d'entraînement corrigées et expliquées"
+   },
+   {
+    "p": "Question : un vin de climat frais présente le plus probablement quelle combinaison ? Réponse : acidité élevée, corps plus léger et alcool plus faible. La maturation lente conserve l'acide dans le raisin et limite le sucre, donc le vin a moins d'alcool et moins de corps."
+   },
+   {
+    "p": "Question : quelle technique donne des arômes de pain et de biscuit au Champagne ? Réponse : l'élevage sur lies après la seconde fermentation en bouteille. Les levures mortes libèrent lentement arômes et texture dans le vin."
+   },
+   {
+    "p": "Question : pourquoi un dessert très sucré rend-il un vin sec aigre ? Réponse : le sucre du plat fait paraître le vin plus sec et plus acide, donc le vin doit être au moins aussi sucré que le dessert."
+   },
+   {
+    "p": "Question : quelle est la principale différence entre l'élaboration du Porto et celle du Xérès ? Réponse : l'alcool est ajouté au Porto pendant la fermentation, ce qui garde du sucre naturel, alors que le Xérès est muté après la fermentation, donc son vin de base est sec."
+   },
+   {
+    "p": "Question : une étiquette allemande indique Spätlese. Que décrit-elle ? Réponse : un niveau de maturité du raisin à la récolte, supérieur au Kabinett. À elle seule, la mention ne dit pas si le vin est sec ou doux."
+   },
+   {
+    "h2": "À qui le WSET Niveau 2 convient le mieux"
+   },
+   {
+    "ul": [
+     "Les amateurs qui veulent comprendre ce qu'ils achètent et commandent, sans expérience professionnelle.",
+     "Le personnel de restaurant, de bar et de caviste qui doit parler avec assurance des grands vins d'une carte ou d'un rayon.",
+     "Les étudiants en hôtellerie et tourisme qui cherchent un point de départ reconnu.",
+     "Toute personne qui envisage de poursuivre avec le Niveau 3, construit directement sur ces connaissances."
+    ]
+   },
+   {
+    "p": "Si vous hésitez entre le Niveau 1 et le Niveau 2, demandez-vous si vous buvez déjà des vins variés et connaissez quelques noms de cépages. Si c'est le cas, le Niveau 2 est en général la bonne première étape ; le Niveau 1 est une introduction plus courte pour les débutants complets."
+   },
+   {
+    "h2": "Check-list de la dernière semaine"
+   },
+   {
+    "ul": [
+     "Je sais décrire chacun des huit cépages principaux en climat frais et en climat chaud.",
+     "Je connais le cépage du Chablis, du Sancerre, du Barolo, du Chianti, du Rioja, du Shiraz de Barossa et du Sauvignon Blanc de Marlborough.",
+     "Je connais la différence entre méthode traditionnelle et cuve close.",
+     "Je sais expliquer la pourriture noble, le vin de glace et les vendanges tardives.",
+     "Je sais quand l'alcool est ajouté dans le Porto et dans le Xérès.",
+     "Je sais traduire Riserva, Crianza, Reserva, Gran Reserva, Kabinett, Spätlese, Trocken et Brut.",
+     "Je connais les règles d'accord pour le sucré, l'umami, l'acidité, le sel et le piment.",
+     "J'obtiens au moins 70 % à deux examens blancs chronométrés de 50 questions d'affilée."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Quel score faut-il pour un Merit ou une Distinction au WSET Niveau 2 ?",
+    "Le seuil de réussite est de 55 %, soit 28 bonnes réponses sur 50. Le Merit demande 70 %, soit 35 bonnes réponses, et la Distinction 85 %, soit 43. Les mauvaises réponses ne coûtent aucun point : répondez donc à toutes les questions. Viser le Merit lors de vos examens blancs est une bonne façon de vous garder une marge de sécurité pour le jour J, où le stress peut coûter quelques points."
+   ],
+   [
+    "Y a-t-il des questions sur les effervescents et les vins mutés au Niveau 2 ?",
+    "Oui. Attendez-vous à des questions sur la méthode traditionnelle et la cuve close, sur les cépages du Champagne, sur le Prosecco et le Cava, et sur l'élaboration du Porto et du Xérès. Ces thèmes sont courts mais prévisibles : une technique clé explique chaque style, ce qui en fait des points faciles à gagner si vous les révisez soigneusement."
+   ],
+   [
+    "Le WSET Niveau 2, c'est surtout du par cœur ?",
+    "Moins qu'on ne le pense. Une bonne part des questions demande pourquoi un vin a tel style, et on y répond en raisonnant sur le climat, la maturité et la vinification. Il faut tout de même apprendre les couples cépage–région et les mentions d'étiquette, mais comprendre les causes et les effets réduit le par cœur et rend les faits plus faciles à retenir."
+   ],
+   [
+    "Peut-on préparer le WSET Niveau 2 seul ?",
+    "Vous pouvez faire une grande partie du travail seul avec des fiches structurées, des flashcards et des questions chronométrées, mais l'examen se passe via un organisme de formation agréé, et le cours inclut des dégustations guidées qui aident à fixer les styles. Beaucoup de candidats combinent cours et révision quotidienne en autonomie, ce qui est l'approche la plus efficace."
+   ],
+   [
+    "Faut-il beaucoup déguster pendant la préparation du Niveau 2 ?",
+    "La dégustation n'est pas évaluée au Niveau 2, mais goûter les styles classiques côte à côte ancre la théorie : un Chablis à côté d'un Chardonnay californien boisé, ou un Sancerre à côté d'un Sauvignon Blanc de Marlborough. Même quelques comparaisons aident à retenir comment le climat et le bois changent un vin, exactement ce que testent de nombreuses questions."
+   ]
+  ]
+ },
+ "es": {
+  "sections": [
+   {
+    "h2": "Apuntes de estudio: el WSET Nivel 2 explicado tema por tema"
+   },
+   {
+    "p": "El WSET Nivel 2 Award in Wines parece una larga lista de uvas, regiones y términos, pero se basa en unas pocas ideas que se repiten en todo el curso. Cuando entiendes la estructura, cada región nueva se convierte en una variación de algo que ya conoces. Estos apuntes recorren el programa en el orden más útil para la preparación del examen WSET, con tablas que puedes copiar en tu cuaderno y ejemplos de cómo cada tema se convierte en preguntas de examen."
+   },
+   {
+    "h3": "Cómo se califica el examen"
+   },
+   {
+    "p": "El examen tiene 50 preguntas tipo test en 60 minutos. Cada pregunta ofrece cuatro opciones y solo una es correcta; una respuesta incorrecta no resta puntos, así que nunca dejes una pregunta en blanco. El resultado es un porcentaje y, además del suspenso, hay tres calificaciones posibles."
+   },
+   {
+    "table": {
+     "head": [
+      "Resultado",
+      "Porcentaje",
+      "Respuestas correctas de 50"
+     ],
+     "rows": [
+      [
+       "Aprobado (Pass)",
+       "55 % o más",
+       "28 o más"
+      ],
+      [
+       "Aprobado con Merit",
+       "70 % o más",
+       "35 o más"
+      ],
+      [
+       "Aprobado con Distinction",
+       "85 % o más",
+       "43 o más"
+      ],
+      [
+       "Suspenso",
+       "menos del 55 %",
+       "27 o menos"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Sesenta minutos para cincuenta preguntas son algo más de un minuto por pregunta. Si dominas el tema, la mayoría de las preguntas te llevarán veinte o treinta segundos, y te quedará tiempo de sobra para volver a las difíciles. Una buena rutina es contestar primero todo lo que tengas claro, marcar las dudas y usar el tiempo restante para pensarlas con calma."
+   },
+   {
+    "h2": "La lógica del programa: tres factores que crean un estilo"
+   },
+   {
+    "p": "Casi todos los vinos del curso se explican con tres grupos de factores: dónde crece la uva, cómo se cultiva y vendimia, y qué pasa en la bodega. Si aprendes el efecto de cada factor, podrás responder incluso sobre regiones que has repasado poco, porque el examen suele premiar el razonamiento más que los datos sueltos."
+   },
+   {
+    "h3": "1. El entorno: clima, añada y ubicación"
+   },
+   {
+    "p": "La uva necesita calor y luz para madurar. Durante la maduración el azúcar sube, la acidez baja y los aromas pasan de verdes y ácidos a maduros y dulces. En un clima fresco este proceso es lento: los vinos conservan una acidez alta, tienen menos cuerpo, menos alcohol y frutas como manzana verde, limón, arándano rojo o cereza roja. En un clima cálido la maduración es rápida y completa: los vinos tienen más alcohol y cuerpo, una acidez más suave y fruta más madura como melocotón, piña, mora o ciruela. Ríos, lagos y mar moderan las temperaturas; las laderas orientadas al sol captan más calor; la altitud refresca el viñedo."
+   },
+   {
+    "h3": "2. En el viñedo: madurez y momento de la vendimia"
+   },
+   {
+    "p": "El viticultor decide cuándo vendimiar. Una vendimia temprana conserva acidez y frescura, y se usa para vinos base de espumosos o blancos vivos. Una vendimia tardía da más azúcar y aromas más maduros, y en algunas zonas la uva se deja en la cepa para concentrarla aún más y elaborar vinos dulces. El rendimiento también cuenta: cepas que producen menos uva suelen dar vinos más concentrados."
+   },
+   {
+    "h3": "3. En la bodega: las decisiones que cambian el sabor"
+   },
+   {
+    "table": {
+     "head": [
+      "Decisión en bodega",
+      "Qué efecto tiene",
+      "Ejemplo típico"
+     ],
+     "rows": [
+      [
+       "Fermentación a baja temperatura en acero inoxidable",
+       "Conserva aromas frescos y afrutados",
+       "Sauvignon Blanc de Marlborough, Pinot Grigio"
+      ],
+      [
+       "Fermentación maloláctica",
+       "Convierte un ácido punzante en otro más suave y puede aportar notas de mantequilla",
+       "Muchos Chardonnay con barrica, casi todos los tintos"
+      ],
+      [
+       "Barricas de roble nuevas",
+       "Aportan vainilla, tostado, ahumado, clavo y coco",
+       "Rioja Reserva, muchos Cabernet de Napa"
+      ],
+      [
+       "Barricas de roble viejas",
+       "Permiten un contacto lento con el oxígeno sin añadir mucho sabor a madera",
+       "Chianti tradicional, muchos Barolo"
+      ],
+      [
+       "Crianza sobre lías",
+       "Aporta textura y notas de pan y galleta",
+       "Champagne, Muscadet sur lie"
+      ],
+      [
+       "Detener pronto la fermentación",
+       "Deja azúcar natural en el vino",
+       "Riesling semisecos y dulces"
+      ],
+      [
+       "Maceración más larga en tintos",
+       "Extrae más color y tanino",
+       "Cabernet Sauvignon, Syrah"
+      ],
+      [
+       "Maceración corta para el rosado",
+       "Da un rosa pálido y poco tanino",
+       "Rosado de Provenza"
+      ]
+     ]
+    }
+   },
+   {
+    "tip": "Cuando una pregunta describe un vino y pregunta por qué sabe así, busca la opción que nombra una causa. Clima, madurez, barrica y fermentación maloláctica explican la mayoría de los estilos del examen."
+   },
+   {
+    "h2": "Las ocho uvas principales, en clima fresco y cálido"
+   },
+   {
+    "p": "El curso da un peso especial a ocho variedades internacionales. Para cada una debes saber citar las regiones clásicas, describir los aromas típicos y explicar cómo cambia el vino en un lugar más fresco o más cálido. La tabla siguiente es una versión compacta de esa cuadrícula."
+   },
+   {
+    "table": {
+     "head": [
+      "Uva",
+      "Regiones más frescas y estilo",
+      "Regiones más cálidas y estilo"
+     ],
+     "rows": [
+      [
+       "Chardonnay",
+       "Chablis: acidez alta, manzana verde, limón, poca o ninguna barrica nueva",
+       "California, Australia: melocotón, piña, a menudo con barrica, vainilla y mantequilla"
+      ],
+      [
+       "Sauvignon Blanc",
+       "Sancerre, Pouilly-Fumé: acidez alta, hierba, pimiento verde, grosella espinosa",
+       "Marlborough: muy aromático, fruta de la pasión y notas verdes; en Burdeos se mezcla con Sémillon"
+      ],
+      [
+       "Pinot Grigio / Pinot Gris",
+       "Noreste de Italia: ligero, fresco, neutro, limón y pera",
+       "Alsacia: más amplio y rico, a menudo semiseco, con fruta de hueso madura"
+      ],
+      [
+       "Riesling",
+       "Mosela: acidez muy alta, alcohol bajo, de seco a dulce, floral y cítrico",
+       "Clare y Eden Valley: seco, lima y cítricos, notas tostadas con la edad"
+      ],
+      [
+       "Cabernet Sauvignon",
+       "Margen izquierda de Burdeos (Médoc): tanino y acidez altos, grosella negra, a menudo en coupage",
+       "Napa Valley, Coonawarra: fruta negra más madura, más cuerpo, a menudo barrica nueva"
+      ],
+      [
+       "Merlot",
+       "Margen derecha de Burdeos (Saint-Émilion, Pomerol): ciruela, tanino medio, suave",
+       "Chile, California: ciruela y mora maduras, suave y afrutado"
+      ],
+      [
+       "Pinot Noir",
+       "Borgoña: color pálido, cereza roja, frambuesa, notas terrosas con la edad",
+       "California, Chile: fruta roja más madura, a veces más cuerpo y barrica"
+      ],
+      [
+       "Syrah / Shiraz",
+       "Norte del Ródano: fruta negra, pimienta negra, tanino firme",
+       "Barossa Valley: mucho cuerpo, alcohol alto, mora madura, chocolate y especias dulces"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "Fíjate en que el nombre de la uva suele cambiar con el estilo: Syrah se usa más para el estilo fresco y especiado, Shiraz para el estilo australiano más maduro; Pinot Grigio sugiere el estilo ligero italiano y Pinot Gris el más rico de Alsacia. Estas costumbres de etiquetado son pistas útiles en las preguntas."
+   },
+   {
+    "h2": "Espumosos, vinos dulces y generosos"
+   },
+   {
+    "p": "Estas tres familias ocupan una parte menor del curso, pero generan algunas de las preguntas más previsibles, porque cada estilo depende de una técnica concreta."
+   },
+   {
+    "h3": "Espumosos"
+   },
+   {
+    "table": {
+     "head": [
+      "Método",
+      "Dónde se hace la segunda fermentación",
+      "Estilo",
+      "Ejemplos"
+     ],
+     "rows": [
+      [
+       "Método tradicional",
+       "En la misma botella en la que se vende el vino",
+       "Burbuja fina, pan, galleta y tostado por la crianza sobre lías",
+       "Champagne, Cava, Crémant"
+      ],
+      [
+       "Método de tanque (Charmat)",
+       "En un depósito cerrado y presurizado",
+       "Fresco, afrutado y floral, para beber joven",
+       "Prosecco, Asti"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "El Champagne usa Chardonnay, Pinot Noir y Pinot Meunier. El Cava procede sobre todo de Cataluña. El Prosecco se elabora principalmente con la uva Glera en el noreste de Italia, y el Asti es un espumoso dulce y de baja graduación elaborado con Moscato en el Piamonte. Las menciones de dulzor como Brut (seco) y Demi-Sec (semidulce) salen a menudo."
+   },
+   {
+    "h3": "Vinos dulces"
+   },
+   {
+    "ul": [
+     "Vendimia tardía: la uva se queda más tiempo en la cepa y su azúcar se concentra; habitual en Alsacia y Alemania.",
+     "Podredumbre noble: un hongo llamado Botrytis cinerea pasifica la uva madura con otoños de mañanas brumosas y tardes soleadas, y aporta notas de miel y orejón; Sauternes y Tokaji son los ejemplos clásicos.",
+     "Vino de hielo (Icewine, Eiswein en Alemania): la uva se congela en la cepa y se prensa congelada, así que solo sale un poco de mosto muy dulce; Canadá y Alemania son conocidos por este estilo.",
+     "Detener la fermentación: algunos vinos conservan azúcar natural porque la fermentación se para antes de que se consuma todo el azúcar, como en muchos Riesling alemanes."
+    ]
+   },
+   {
+    "h3": "Vinos generosos (fortificados)"
+   },
+   {
+    "p": "A los vinos generosos se les añade aguardiente de uva. La diferencia clave es el momento. En el Oporto el alcohol se añade durante la fermentación, que se detiene y deja azúcar natural: por eso el Oporto es dulce y con cuerpo; los estilos Ruby son afrutados y de color intenso, los Tawny envejecen más tiempo en madera y muestran notas de frutos secos y caramelo. En el Jerez, del sur de España, el alcohol se añade después de la fermentación, así que el vino base es seco. El Fino envejece bajo una capa de levaduras llamada velo de flor y es pálido, seco y ligero; el Oloroso envejece sin flor, en contacto con el oxígeno, y se vuelve más oscuro, con notas de nuez y toffee. Los Jerez dulces se obtienen endulzando un Jerez seco."
+   },
+   {
+    "h2": "Cómo leer una etiqueta"
+   },
+   {
+    "p": "Los vinos europeos suelen etiquetarse por el lugar y los del Nuevo Mundo a menudo por la uva. Las preguntas comprueban el significado de las categorías de calidad y de algunos términos tradicionales, así que merece la pena aprenderse este pequeño glosario."
+   },
+   {
+    "table": {
+     "head": [
+      "Término",
+      "País",
+      "Qué indica"
+     ],
+     "rows": [
+      [
+       "AOC / AOP",
+       "Francia",
+       "Denominación de origen protegida: normas sobre zona, uvas y métodos"
+      ],
+      [
+       "IGP / Vin de Pays",
+       "Francia",
+       "Indicación geográfica protegida: zona más amplia, más libertad en las uvas"
+      ],
+      [
+       "DOCG / DOC",
+       "Italia",
+       "Denominaciones protegidas; la DOCG es la categoría más alta"
+      ],
+      [
+       "Classico",
+       "Italia",
+       "Del corazón histórico de una zona, por ejemplo Chianti Classico"
+      ],
+      [
+       "Riserva",
+       "Italia",
+       "Crianza más larga antes de salir al mercado que el vino básico"
+      ],
+      [
+       "Crianza, Reserva, Gran Reserva",
+       "España",
+       "Envejecimiento mínimo creciente en barrica y botella, por ejemplo en Rioja"
+      ],
+      [
+       "Kabinett, Spätlese, Auslese",
+       "Alemania",
+       "Niveles crecientes de madurez de la uva en la vendimia"
+      ],
+      [
+       "Trocken",
+       "Alemania",
+       "Seco"
+      ],
+      [
+       "Brut",
+       "Espumosos",
+       "Seco"
+      ],
+      [
+       "Sur lie",
+       "Francia",
+       "Criado sobre lías, por ejemplo el Muscadet"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Las reglas del maridaje"
+   },
+   {
+    "p": "Las preguntas de maridaje siguen reglas sencillas sobre cómo la comida cambia la percepción del vino. Aprende la dirección de cada efecto y podrás responder a cualquier combinación."
+   },
+   {
+    "table": {
+     "head": [
+      "Elemento del plato",
+      "Efecto en el vino",
+      "Qué elegir"
+     ],
+     "rows": [
+      [
+       "Dulzor",
+       "El vino parece más seco, más ácido y más amargo",
+       "Un vino al menos tan dulce como el plato"
+      ],
+      [
+       "Umami (setas, embutidos, quesos curados)",
+       "El vino parece más seco, más amargo, más ácido",
+       "Vinos afrutados con poco tanino"
+      ],
+      [
+       "Acidez",
+       "El vino parece menos ácido, más suave y afrutado",
+       "Un vino de acidez alta"
+      ],
+      [
+       "Sal",
+       "El vino parece más suave y afrutado",
+       "Muchos vinos funcionan; blancos ácidos y espumosos son clásicos"
+      ],
+      [
+       "Picante",
+       "Aumentan el ardor del alcohol y el amargor",
+       "Blancos afrutados, semisecos y de baja graduación"
+      ],
+      [
+       "Grasa y proteína",
+       "El tanino parece más suave",
+       "Tintos tánicos con carne roja"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Conservación y servicio"
+   },
+   {
+    "p": "Guarda las botellas en un lugar fresco y oscuro, a temperatura estable; mantén tumbadas las botellas con tapón de corcho para que el corcho no se seque. La temperatura de servicio es una pregunta habitual:"
+   },
+   {
+    "table": {
+     "head": [
+      "Estilo",
+      "Temperatura de servicio"
+     ],
+     "rows": [
+      [
+       "Vinos dulces",
+       "Bien fríos, unos 6–8 °C"
+      ],
+      [
+       "Espumosos",
+       "Bien fríos, unos 6–10 °C"
+      ],
+      [
+       "Blancos ligeros y de cuerpo medio",
+       "Fríos, unos 7–10 °C"
+      ],
+      [
+       "Blancos con cuerpo y barrica",
+       "Ligeramente frescos, unos 10–13 °C"
+      ],
+      [
+       "Tintos ligeros",
+       "Ligeramente frescos, unos 13 °C"
+      ],
+      [
+       "Tintos de cuerpo medio y alto",
+       "Temperatura ambiente, unos 15–18 °C"
+      ]
+     ]
+    }
+   },
+   {
+    "p": "La decantación separa el vino de los posos, típicos de los tintos viejos y de algunos Oporto. Un vino que huele a cartón mojado tiene un defecto: el olor a corcho. Las botellas abiertas duran más en la nevera y con el menor aire posible."
+   },
+   {
+    "h2": "Catar con el enfoque sistemático del Nivel 2"
+   },
+   {
+    "p": "En el Nivel 2 no hay examen de cata, pero algunas preguntas pueden tratar sobre la estructura de una nota de cata y el significado de cada término. El enfoque tiene tres fases."
+   },
+   {
+    "ol": [
+     "Aspecto: limpidez, intensidad del color (pálido, medio, profundo) y color, por ejemplo limón o dorado en blancos, rubí o granate en tintos.",
+     "Nariz: intensidad de los aromas y sus características, como fruta, flores, especias, madera o notas de evolución.",
+     "Boca: dulzor, acidez, tanino, alcohol, cuerpo, intensidad y características del sabor y final, seguidos de una conclusión sencilla sobre la calidad."
+    ]
+   },
+   {
+    "tip": "El tanino es una sensación secante y áspera en las encías, no un sabor. La acidez te hace salivar. Las preguntas del examen comprueban a menudo que sabes distinguirlos."
+   },
+   {
+    "h2": "Un plan de estudio de cuatro semanas"
+   },
+   {
+    "table": {
+     "head": [
+      "Semana",
+      "Temas",
+      "Rutina diaria"
+     ],
+     "rows": [
+      [
+       "Semana 1",
+       "Clima, viñedo, bodega, las ocho uvas principales",
+       "Una uva al día con su estilo fresco y cálido; 15 preguntas mezcladas"
+      ],
+      [
+       "Semana 2",
+       "Francia, Italia, España, Alemania y sus términos de etiqueta",
+       "Un país al día en el mapa; flashcards para los términos"
+      ],
+      [
+       "Semana 3",
+       "Nuevo Mundo, uvas regionales, espumosos, dulces y generosos",
+       "Ejercicios uva ↔ región en ambos sentidos; 20 preguntas al día"
+      ],
+      [
+       "Semana 4",
+       "Maridaje, conservación, servicio, términos de cata y simulacros completos",
+       "Dos simulacros cronometrados de 50 preguntas; repasa cada error"
+      ]
+     ]
+    }
+   },
+   {
+    "h2": "Preguntas de práctica con la respuesta explicada"
+   },
+   {
+    "p": "Pregunta: ¿qué combinación es más probable en un vino de clima fresco? Respuesta: acidez alta, cuerpo más ligero y alcohol más bajo. La maduración lenta conserva el ácido en la uva y limita el azúcar, así que el vino tiene menos alcohol y menos cuerpo."
+   },
+   {
+    "p": "Pregunta: ¿qué técnica da aromas de pan y galleta al Champagne? Respuesta: la crianza sobre lías tras la segunda fermentación en botella. Las levaduras muertas liberan poco a poco aromas y textura en el vino."
+   },
+   {
+    "p": "Pregunta: ¿por qué un postre muy dulce hace que un vino seco sepa agrio? Respuesta: el dulzor de la comida hace que el vino parezca más seco y más ácido, así que el vino debe ser al menos tan dulce como el plato."
+   },
+   {
+    "p": "Pregunta: ¿cuál es la diferencia principal entre la elaboración del Oporto y la del Jerez? Respuesta: al Oporto se le añade alcohol durante la fermentación, lo que conserva azúcar natural, mientras que el Jerez se encabeza después de la fermentación, así que su vino base es seco."
+   },
+   {
+    "p": "Pregunta: una etiqueta alemana dice Spätlese. ¿Qué describe? Respuesta: un nivel de madurez de la uva en la vendimia, superior al Kabinett. Por sí solo no indica si el vino es seco o dulce."
+   },
+   {
+    "h2": "Para quién es ideal el WSET Nivel 2"
+   },
+   {
+    "ul": [
+     "Aficionados que quieren entender lo que compran y piden, sin experiencia profesional.",
+     "Personal de restaurantes, bares y tiendas de vino que necesita hablar con seguridad de los principales vinos de una carta o un lineal.",
+     "Estudiantes de hostelería y turismo que buscan un punto de partida reconocido.",
+     "Quien piensa continuar con el Nivel 3, que se apoya directamente en estos conocimientos."
+    ]
+   },
+   {
+    "p": "Si dudas entre empezar por el Nivel 1 o el Nivel 2, pregúntate si ya bebes vinos variados y conoces algunos nombres de uvas. Si es así, el Nivel 2 suele ser el primer paso adecuado; el Nivel 1 es una introducción más corta para quien empieza desde cero."
+   },
+   {
+    "h2": "Checklist de la última semana"
+   },
+   {
+    "ul": [
+     "Sé describir cada una de las ocho uvas principales en clima fresco y en clima cálido.",
+     "Sé qué uva hay detrás de Chablis, Sancerre, Barolo, Chianti, Rioja, el Shiraz de Barossa y el Sauvignon Blanc de Marlborough.",
+     "Conozco la diferencia entre el método tradicional y el método de tanque.",
+     "Sé explicar la podredumbre noble, el vino de hielo y la vendimia tardía.",
+     "Sé cuándo se añade el alcohol en el Oporto y en el Jerez.",
+     "Sé traducir Riserva, Crianza, Reserva, Gran Reserva, Kabinett, Spätlese, Trocken y Brut.",
+     "Conozco las reglas de maridaje para dulzor, umami, acidez, sal y picante.",
+     "Saco al menos un 70 % en dos simulacros cronometrados de 50 preguntas seguidos."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Qué nota necesito para un Merit o una Distinction en el WSET Nivel 2?",
+    "El aprobado está en el 55 %, es decir, 28 respuestas correctas de 50. El Merit exige un 70 %, o 35 respuestas correctas, y la Distinction un 85 %, o 43. Las respuestas incorrectas no restan, así que contesta todas las preguntas. Apuntar al Merit en tus simulacros es una buena forma de tener margen de seguridad para el día del examen, cuando los nervios pueden costarte algún punto."
+   ],
+   [
+    "¿Hay preguntas sobre espumosos y vinos generosos en el Nivel 2?",
+    "Sí. Espera preguntas sobre el método tradicional y el de tanque, sobre las uvas del Champagne, sobre el Prosecco y el Cava, y sobre cómo se elaboran el Oporto y el Jerez. Son temas pequeños pero previsibles: una técnica clave explica cada estilo, así que son de los puntos más fáciles de asegurar si los repasas bien."
+   ],
+   [
+    "¿El WSET Nivel 2 es sobre todo memorizar?",
+    "Menos de lo que mucha gente cree. Buena parte de las preguntas pide por qué un vino tiene cierto estilo, y se responden razonando sobre clima, madurez y elaboración. Aun así, tienes que aprender las parejas uva–región y los términos de etiqueta, pero entender causa y efecto reduce la memorización pura y hace que los datos se recuerden mejor."
+   ],
+   [
+    "¿Puedo preparar el WSET Nivel 2 por mi cuenta?",
+    "Puedes hacer gran parte del trabajo por tu cuenta con apuntes estructurados, flashcards y preguntas cronometradas, pero el examen se hace a través de un centro de formación autorizado, y el curso incluye catas guiadas que ayudan a fijar los estilos. Muchos candidatos combinan clases y estudio diario por su cuenta, que es el enfoque más eficaz."
+   ],
+   [
+    "¿Cuánto debo catar mientras preparo el Nivel 2?",
+    "La cata no se evalúa en el Nivel 2, pero probar los estilos clásicos uno al lado del otro afianza la teoría: un Chablis junto a un Chardonnay californiano con barrica, o un Sancerre junto a un Sauvignon Blanc de Marlborough. Incluso unas pocas comparaciones te ayudan a recordar cómo el clima y la madera cambian un vino, justo lo que evalúan muchas preguntas."
+   ]
+  ]
+ }
+}
