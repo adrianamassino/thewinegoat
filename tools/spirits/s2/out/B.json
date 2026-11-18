@@ -1,0 +1,2797 @@
+{
+ "lessons": [
+  {
+   "c": "s1",
+   "t": [
+    "Dalla frutta al distillato: uva, mele, pere e vinacce",
+    "Du fruit à l'eau-de-vie : raisins, pommes, poires et marc",
+    "From fruit to spirit: grapes, apples, pears and pomace",
+    "De la fruta al destilado: uvas, manzanas, peras y orujo"
+   ],
+   "p": [
+    [
+     "Quasi ogni zona in cui cresce frutta ha il suo distillato, e qualsiasi frutto può servire allo scopo. Il punto in comune è la fretta: appena raccolta, la frutta comincia a deteriorarsi e sviluppa presto aromi sgradevoli che finirebbero nel bicchiere. Per questo le distillerie lavorano frutta coltivata nelle vicinanze. Di solito la si pigia e la si pressa, si fa fermentare il succo dolce con i lieviti e poi lo si distilla. Mele e pere seguono la stessa strada dell'uva, come ciliegie, prugne e frutti di bosco.",
+     "Presque chaque région fruitière possède son eau-de-vie, et n'importe quel fruit peut faire l'affaire. Le point commun, c'est l'urgence : une fois cueilli, le fruit commence à se dégrader et développe vite des arômes indésirables qui se retrouveraient dans le verre. Les distilleries travaillent donc des fruits cultivés à proximité. En général, on les foule et on les presse, on fait fermenter le jus sucré avec des levures, puis on le distille. Pommes et poires suivent le même chemin que le raisin, tout comme cerises, prunes et petits fruits.",
+     "Almost every fruit-growing region has its own fruit spirit, and any fruit can be used. What they all share is urgency: once picked, fruit starts to deteriorate and soon develops off-aromas that would end up in the glass. That is why distilleries work with fruit grown nearby. Usually the fruit is crushed and pressed, the sweet juice is fermented with yeast, and the result is distilled. Apples and pears follow the same route as grapes, and so do cherries, plums and berries.",
+     "Casi todas las zonas frutícolas tienen su propio destilado, y cualquier fruta sirve. Lo que comparten es la prisa: una vez recogida, la fruta empieza a estropearse y pronto desarrolla aromas defectuosos que acabarían en la copa. Por eso las destilerías trabajan con fruta cultivada cerca. Normalmente se estruja y se prensa, el zumo dulce fermenta con levaduras y después se destila. Las manzanas y las peras siguen el mismo camino que la uva, igual que las cerezas, las ciruelas y los frutos rojos."
+    ],
+    [
+     "Sorprende un po', ma i distillatori preferiscono in genere uve bianche molto acide e poco aromatiche: danno vini piuttosto anonimi, ma la distillazione ne concentra le delicate note floreali e fruttate. Si pressa l'uva, si mettono da parte bucce e vinaccioli e il succo fermenta diventando vino. Poiché la vendemmia arriva una volta l'anno, quel vino deve aspettare il suo turno. Acidità e alcol lo proteggono per un po', ma non per sempre: va distillato entro pochi mesi.",
+     "Cela peut surprendre, mais les distillateurs préfèrent souvent des raisins blancs très acides et peu aromatiques : ils donnent des vins assez quelconques, mais la distillation en concentre les délicates notes florales et fruitées. On presse le raisin, on écarte peaux et pépins, et le jus fermente pour devenir du vin. Comme la vendange n'a lieu qu'une fois par an, ce vin doit attendre son tour. L'acidité et l'alcool le protègent un temps, mais pas indéfiniment : il faut le distiller en quelques mois.",
+     "It may sound odd, but distillers usually prefer white grapes with high acidity and little aroma: they make rather plain wine, but distillation concentrates their delicate floral and fruity notes. The grapes are pressed, skins and seeds are set aside, and the juice ferments into wine. Since the harvest comes only once a year, that wine has to wait its turn. Acidity and alcohol protect it for a while, but not for ever, so it must be distilled within a few months.",
+     "Puede sorprender, pero los destiladores suelen preferir uvas blancas muy ácidas y poco aromáticas: dan vinos bastante corrientes, pero la destilación concentra sus delicadas notas florales y afrutadas. Se prensa la uva, se apartan pieles y pepitas y el zumo fermenta hasta convertirse en vino. Como la vendimia llega una sola vez al año, ese vino tiene que esperar su turno. La acidez y el alcohol lo protegen un tiempo, pero no para siempre: hay que destilarlo en pocos meses."
+    ],
+    [
+     "C'è anche chi sceglie la strada opposta e usa uve molto aromatiche, ottenendo distillati che profumano intensamente dell'uva stessa: il pisco ne è l'esempio classico. Poi ci sono le vinacce, cioè le bucce lasciate dal vinificatore. Le bucce bianche vengono separate prima della fermentazione, ancora umide di succo: si mescolano con acqua e si fa fermentare il liquido. Le bucce nere fermentano invece con il mosto per colorare il vino rosso, quindi arrivano in distilleria già impregnate di alcol e si possono distillare subito.",
+     "Certains font le choix inverse et utilisent des raisins très aromatiques, pour des eaux-de-vie qui sentent intensément le raisin lui-même : le pisco en est l'exemple type. Vient ensuite le marc, c'est-à-dire les peaux laissées par le vinificateur. Les peaux de raisin blanc sont écartées avant la fermentation, encore humides de jus : on les mélange à de l'eau et on fait fermenter le liquide. Les peaux de raisin noir, elles, fermentent avec le jus pour colorer le vin rouge ; elles arrivent donc à la distillerie déjà imbibées d'alcool et peuvent être distillées aussitôt.",
+     "Some producers take the opposite path and choose very aromatic grapes, giving spirits that smell intensely of the grape itself; pisco is the classic case. Then there is pomace, the skins left behind by winemakers. White grape skins are removed before fermentation, still moist with juice, so they are mixed with water and the liquid is fermented. Black grape skins ferment with the juice to colour red wine, so they reach the distillery already soaked in alcohol and can be distilled straight away.",
+     "Hay quien elige el camino contrario y usa uvas muy aromáticas, con destilados que huelen intensamente a la propia uva: el pisco es el ejemplo clásico. Luego está el orujo, es decir, las pieles que deja el elaborador de vino. Las pieles de uva blanca se separan antes de la fermentación, todavía húmedas de zumo, así que se mezclan con agua y se fermenta el líquido. Las de uva tinta fermentan con el mosto para dar color al vino tinto, de modo que llegan a la destilería ya empapadas de alcohol y se pueden destilar enseguida."
+    ],
+    [
+     "Se dalla stessa uva si ricavassero due distillati, uno dal vino e uno dalle vinacce, avrebbero sapori diversissimi: le bucce portano note erbacee e speziate. Alcuni frutti, invece, non fermentano affatto: si lasciano macerare in alcol neutro e poi si ridistillano, perché danno poco succo o per evitare gli aromi della fermentazione. I migliori distillati di frutta nascono soprattutto in alambicchi discontinui; quasi tutte le acquaviti di uva e di mele maturano in rovere, mentre quelle di vinaccia e di altri frutti riposano di solito in recipienti inerti.",
+     "Si l'on tirait deux eaux-de-vie du même raisin, l'une du vin et l'autre du marc, elles n'auraient rien en commun : les peaux apportent des notes herbacées et épicées. Certains fruits ne fermentent pas du tout : on les fait macérer dans un alcool neutre avant de redistiller, soit parce qu'ils donnent peu de jus, soit pour éviter les arômes de fermentation. Les meilleures eaux-de-vie de fruits sortent surtout d'alambics à repasse ; la plupart des eaux-de-vie de raisin et de pomme vieillissent en chêne, tandis que celles de marc et des autres fruits reposent généralement en cuves inertes.",
+     "Make two spirits from the same grapes, one from the wine and one from the skins, and they will taste completely different: the skins bring herbaceous, spicy notes. A few fruits are not fermented at all but steeped in neutral spirit and redistilled, either because they give too little juice or to avoid fermentation aromas. Most top fruit spirits come from pot stills; most grape and apple brandies are aged in oak, while pomace and other fruit spirits usually rest in inert vessels.",
+     "Si de la misma uva se sacaran dos destilados, uno del vino y otro de las pieles, sabrían muy distinto: el orujo aporta notas herbáceas y especiadas. Algunas frutas ni siquiera fermentan: se maceran en alcohol neutro y se vuelven a destilar, porque dan poco zumo o para evitar los aromas de la fermentación. Los mejores destilados de fruta salen sobre todo de alambiques discontinuos; casi todos los de uva y manzana envejecen en roble, mientras que los de orujo y otras frutas suelen reposar en recipientes inertes."
+    ]
+   ],
+   "keys": [
+    [
+     "La frutta si deteriora in fretta: si coltiva vicino alla distilleria e si lavora subito.",
+     "Le fruit se dégrade vite : il est cultivé près de la distillerie et travaillé sans tarder.",
+     "Fruit spoils fast: it is grown near the distillery and processed quickly.",
+     "La fruta se estropea rápido: se cultiva cerca de la destilería y se procesa enseguida."
+    ],
+    [
+     "Di solito si scelgono uve bianche acide e neutre; le uve aromatiche danno distillati come il pisco.",
+     "On choisit surtout des raisins blancs acides et neutres ; les raisins aromatiques donnent des eaux-de-vie comme le pisco.",
+     "Acidic, neutral white grapes are the usual choice; aromatic grapes give spirits such as pisco.",
+     "Se suelen elegir uvas blancas ácidas y neutras; las aromáticas dan destilados como el pisco."
+    ],
+    [
+     "Il vino va distillato entro pochi mesi dalla fermentazione.",
+     "Le vin doit être distillé dans les quelques mois qui suivent la fermentation.",
+     "The wine must be distilled within a few months of fermentation.",
+     "El vino debe destilarse pocos meses después de la fermentación."
+    ],
+    [
+     "Vinacce bianche: con acqua, poi fermentazione. Vinacce nere: già alcoliche. Le bucce danno note erbacee e speziate.",
+     "Marc blanc : mélangé à de l'eau puis fermenté. Marc noir : déjà alcoolisé. Les peaux donnent des notes herbacées et épicées.",
+     "White pomace is mixed with water and fermented; black pomace already contains alcohol. Skins give herbaceous, spicy notes.",
+     "Orujo blanco: con agua y luego fermentación. Orujo tinto: ya tiene alcohol. Las pieles dan notas herbáceas y especiadas."
+    ],
+    [
+     "Acquaviti d'uva e di mele: di solito in rovere. Vinacce e altri frutti: di solito in recipienti inerti.",
+     "Eaux-de-vie de raisin et de pomme : souvent en chêne. Marc et autres fruits : souvent en cuves inertes.",
+     "Grape and apple brandies are usually oak aged; pomace and other fruit spirits usually rest in inert vessels.",
+     "Destilados de uva y manzana: suelen ir a roble. Orujo y otras frutas: suelen reposar en recipientes inertes."
+    ]
+   ]
+  },
+  {
+   "c": "s1",
+   "t": [
+    "Cognac: uva, alambicco e invecchiamento",
+    "Cognac : raisin, alambic et vieillissement",
+    "Cognac: grapes, stills and ageing",
+    "Coñac: uva, alambique y envejecimiento"
+   ],
+   "p": [
+    [
+     "Il Cognac nasce in una zona delimitata appena a nord di Bordeaux, nel sud-ovest della Francia. Sono ammessi vari vitigni, ma domina l'Ugni Blanc. Da solo dà un vino esile e poco interessante, ma distillato regala un profumo inconfondibile di uva passa e violetta. Il suo carattere cambia anche con il luogo, quindi ogni sottozona dà un distillato diverso. Le aree migliori circondano la città di Cognac: in testa la Grande Champagne, poi Petite Champagne e Borderies.",
+     "Le Cognac provient d'une zone délimitée juste au nord de Bordeaux, dans le sud-ouest de la France. Plusieurs cépages sont autorisés, mais l'Ugni Blanc domine. Seul, il donne un vin maigre et sans grand intérêt, mais distillé, il offre un arôme caractéristique de raisin sec et de violette. Son caractère varie aussi selon le terroir, si bien que chaque cru donne une eau-de-vie différente. Les meilleures zones entourent la ville de Cognac : la Grande Champagne en tête, puis la Petite Champagne et les Borderies.",
+     "Cognac comes from a delimited area just north of Bordeaux, in south-west France. Several grape varieties are allowed, yet Ugni Blanc dominates. On its own it makes thin, unremarkable wine, but once distilled it gives a signature aroma of raisins and violets. Its character also changes with where it grows, so each sub-region gives a different spirit. The finest areas surround the town of Cognac: Grande Champagne leads, followed by Petite Champagne and Borderies.",
+     "El coñac procede de una zona delimitada justo al norte de Burdeos, en el suroeste de Francia. Se permiten varias variedades, pero domina la Ugni Blanc. Por sí sola da un vino ligero y poco interesante, pero destilada ofrece un aroma inconfundible de pasas y violetas. Su carácter también cambia según dónde crece, así que cada subzona da un destilado distinto. Las mejores áreas rodean la ciudad de Cognac: primero la Grande Champagne, después la Petite Champagne y las Borderies."
+    ],
+    [
+     "La distillazione è regolata in modo severo. Dopo la vendemmia autunnale tutto deve essere distillato entro la fine di marzo. Il Cognac si distilla due volte in alambicchi discontinui di rame scaldati a fiamma diretta, oggi di solito a gas. Al posto di un condensatore moderno, i vapori passano in un tubo di rame a spirale immerso in una vasca d'acqua fredda grande quanto l'alambicco. Anche le parti hanno nomi locali: il chapiteau a forma di oliva (il capitello) e il col de cygne (il collo di cigno).",
+     "La distillation est strictement encadrée. Après la vendange d'automne, tout doit être distillé avant la fin mars. Le Cognac est distillé deux fois dans des alambics à repasse en cuivre chauffés à feu nu, aujourd'hui généralement au gaz. Au lieu d'un condenseur moderne, les vapeurs traversent un serpentin de cuivre plongé dans une cuve d'eau froide aussi grande que l'alambic. Les pièces portent des noms locaux : le chapiteau en forme d'olive et le col de cygne, qui mène au serpentin.",
+     "Distillation is tightly regulated. After the autumn harvest, everything must be distilled by the end of March. Cognac is distilled twice in copper pot stills heated by a direct flame, today usually gas. Instead of a modern condenser, the vapours pass through a coiled copper pipe sunk in a tank of cold water as big as the still: the worm tub. The parts have local names too: the olive-shaped chapiteau (still head) and the curving col de cygne (swan neck).",
+     "La destilación está muy regulada. Tras la vendimia de otoño, todo debe destilarse antes de finales de marzo. El coñac se destila dos veces en alambiques discontinuos de cobre calentados a fuego directo, hoy normalmente de gas. En lugar de un condensador moderno, los vapores recorren un serpentín de cobre sumergido en un depósito de agua fría tan grande como el alambique. Las piezas tienen nombres locales: el chapiteau con forma de aceituna (el capitel) y el col de cygne (el cuello de cisne)."
+    ],
+    [
+     "Ogni Cognac passa almeno due anni in rovere, spesso partendo da botti nuove per poi passare a botti più vecchie, così il legno accompagna il frutto senza coprirlo. Quasi tutti sono assemblaggi di vitigni, sottozone ed età diverse; le case usano perfino magazzini in luoghi diversi per creare varietà. I distillati più vecchi a volte vengono travasati in damigiane di vetro, quando legno e ossigeno non hanno più nulla da dare, e usati con parsimonia nei blend più prestigiosi. Quasi tutti i Cognac vengono leggermente addolciti.",
+     "Tout Cognac passe au moins deux ans en chêne, souvent d'abord en fûts neufs puis en fûts plus anciens, pour que le bois encadre le fruit sans le masquer. Presque tous sont des assemblages de cépages, de crus et d'âges différents ; les maisons jouent même sur des chais situés à divers endroits pour créer de la diversité. Les plus vieilles eaux-de-vie sont parfois transférées en dames-jeannes de verre quand le bois et l'oxygène n'apportent plus rien, puis utilisées avec parcimonie dans les assemblages prestigieux. La plupart des Cognacs sont légèrement sucrés.",
+     "Every Cognac spends at least two years in oak, often starting in new barrels and moving to older ones so the wood frames the fruit without masking it. Nearly all are blends of grape varieties, sub-regions and ages, and producers even use warehouses in different places to create variety. The oldest spirits are sometimes moved into glass demijohns once oak and oxygen have nothing more to give, then used sparingly in prestige blends. Most Cognacs are lightly sweetened before bottling.",
+     "Todo coñac pasa al menos dos años en roble, a menudo empezando en barricas nuevas y siguiendo en otras más viejas, para que la madera acompañe a la fruta sin taparla. Casi todos son mezclas de variedades, subzonas y edades; los productores incluso usan bodegas en lugares distintos para crear variedad. Los destilados más viejos a veces pasan a damajuanas de vidrio cuando el roble y el oxígeno ya no aportan nada, y se usan con mesura en las mezclas más prestigiosas. Casi todos los coñacs se endulzan ligeramente."
+    ],
+    [
+     "L'etichetta parla di età e di luogo. VS, VSOP, XO, Napoléon e Hors d'âge indicano l'età e si riferiscono sempre al distillato più giovane del blend. In degustazione, il VS mostra frutta e rovere e può risultare un po' pungente; il VSOP è più ricco, con le prime note evolute; un buon XO unisce uva passa, fiori, rovere e rancio a una consistenza vellutata. Il nome di una sottozona garantisce che tutta l'uva viene da lì; Fine Champagne unisce Grande Champagne (almeno metà) e Petite Champagne.",
+     "L'étiquette parle d'âge et d'origine. VS, VSOP, XO, Napoléon et Hors d'âge sont des mentions d'âge, qui se rapportent toujours à l'eau-de-vie la plus jeune de l'assemblage. À la dégustation, le VS montre fruit et chêne et peut sembler un peu vif ; le VSOP est plus riche, avec des premières notes d'évolution ; un bel XO marie raisin sec, fleurs, chêne et rancio avec une texture soyeuse. Un nom de cru garantit que tout le raisin en provient ; la Fine Champagne assemble Grande Champagne (au moins la moitié) et Petite Champagne.",
+     "Labels speak of age and place. VS, VSOP, XO, Napoléon and Hors d'âge are age indications, and they always refer to the youngest spirit in the blend. As a tasting guide, VS shows fruit and oak and can feel a little sharp; VSOP is richer, with first notes of maturity; a fine XO combines raisin, flowers, oak and rancio with a silky feel. A sub-region name means all the grapes came from there, while Fine Champagne blends Grande Champagne (at least half) with Petite Champagne.",
+     "La etiqueta habla de edad y de origen. VS, VSOP, XO, Napoléon y Hors d'âge indican edad y siempre se refieren al destilado más joven de la mezcla. En la cata, el VS muestra fruta y roble y puede resultar algo punzante; el VSOP es más rico, con las primeras notas de evolución; un buen XO une pasas, flores, roble y rancio con una textura sedosa. El nombre de una subzona garantiza que toda la uva viene de allí; Fine Champagne mezcla Grande Champagne (al menos la mitad) y Petite Champagne."
+    ]
+   ],
+   "keys": [
+    [
+     "Ugni Blanc, coltivato a nord di Bordeaux: profumi di uva passa e violetta.",
+     "Ugni Blanc, cultivé au nord de Bordeaux : arômes de raisin sec et de violette.",
+     "Ugni Blanc, grown north of Bordeaux, gives raisin and violet aromas.",
+     "Ugni Blanc, cultivada al norte de Burdeos: aromas de pasas y violeta."
+    ],
+    [
+     "Doppia distillazione in alambicchi di rame a fiamma diretta con serpentina, entro fine marzo.",
+     "Double distillation en alambics de cuivre à feu nu avec serpentin, avant fin mars.",
+     "Double distilled in direct-fired copper pot stills with a worm tub, by the end of March.",
+     "Doble destilación en alambiques de cobre a fuego directo con serpentín, antes de finales de marzo."
+    ],
+    [
+     "Almeno due anni in rovere; quasi sempre un blend; di solito leggermente addolcito.",
+     "Au moins deux ans en chêne ; presque toujours un assemblage ; en général légèrement sucré.",
+     "At least two years in oak; almost always a blend; usually lightly sweetened.",
+     "Al menos dos años en roble; casi siempre una mezcla; normalmente algo endulzado."
+    ],
+    [
+     "Le indicazioni di età si riferiscono al distillato più giovane del blend.",
+     "Les mentions d'âge concernent l'eau-de-vie la plus jeune de l'assemblage.",
+     "Age terms refer to the youngest spirit in the blend.",
+     "Las indicaciones de edad se refieren al destilado más joven de la mezcla."
+    ],
+    [
+     "Grande Champagne è la sottozona più pregiata; Fine Champagne = Grande (almeno 50%) + Petite.",
+     "La Grande Champagne est le cru le plus réputé ; Fine Champagne = Grande (au moins 50 %) + Petite.",
+     "Grande Champagne is the top sub-region; Fine Champagne = Grande (at least 50%) + Petite.",
+     "La Grande Champagne es la subzona más valorada; Fine Champagne = Grande (al menos 50 %) + Petite."
+    ]
+   ]
+  },
+  {
+   "c": "s1",
+   "t": [
+    "Armagnac: vitigni, colonna e stili",
+    "Armagnac : cépages, colonne et styles",
+    "Armagnac: grapes, column stills and styles",
+    "Armañac: variedades, columna y estilos"
+   ],
+   "p": [
+    [
+     "L'Armagnac è l'altra grande acquavite d'uva francese e si produce a sud di Bordeaux. Qui dominano i piccoli produttori più delle grandi case, e la parola Château in etichetta indica una singola piccola tenuta. L'Ugni Blanc è ancora il vitigno più piantato, ma i distillatori sfruttano molto di più le altre varietà ammesse. Il Baco dona spesso un tipico profumo di prugna secca, mentre la Folle Blanche porta note floreali e fruttate intense.",
+     "L'Armagnac est l'autre grande eau-de-vie de raisin française, produite au sud de Bordeaux. Ici, les petits producteurs sont la norme plutôt que les grandes maisons, et le mot Château sur l'étiquette désigne un petit domaine individuel. L'Ugni Blanc reste le cépage le plus planté, mais les distillateurs tirent bien plus parti des autres variétés autorisées. Le Baco apporte souvent un arôme typique de pruneau, tandis que la Folle Blanche offre des notes florales et fruitées marquées.",
+     "Armagnac is France's other great grape brandy, made south of Bordeaux. Small producers are the norm here rather than big companies, and the word Château on a label signals a single small estate. Ugni Blanc is again the most planted grape, but local distillers make far more use of the other permitted varieties. Baco often brings a characteristic aroma of prunes, while Folle Blanche gives pronounced floral and fruity notes.",
+     "El armañac es el otro gran destilado de uva francés y se elabora al sur de Burdeos. Aquí lo normal son los pequeños productores más que las grandes casas, y la palabra Château en la etiqueta indica una pequeña finca individual. La Ugni Blanc vuelve a ser la variedad más plantada, pero los destiladores aprovechan mucho más las otras variedades permitidas. La Baco suele aportar un aroma típico de ciruela pasa, y la Folle Blanche, notas florales y afrutadas intensas."
+    ],
+    [
+     "La grande differenza tecnica è l'alambicco. Quello discontinuo è ammesso ma si usa di rado. La maggior parte dell'Armagnac esce da una colonna continua tutta particolare, corta e con relativamente pochi piatti. Poiché il distillato lascia la colonna a una gradazione piuttosto bassa, conserva molti congeneri e risulta ricco di carattere. È un ottimo promemoria: una colonna non significa per forza un distillato leggero o neutro.",
+     "La grande différence technique, c'est l'alambic. L'alambic à repasse est autorisé mais rarement utilisé. La plupart des Armagnacs sortent d'une colonne continue bien à eux, courte et dotée de relativement peu de plateaux. Comme l'eau-de-vie quitte la colonne à un degré assez bas, elle garde beaucoup de congénères et se montre pleine de caractère. Bon rappel : une colonne ne signifie pas forcément un spiritueux léger ou neutre.",
+     "The big technical difference is the still. Pot stills are allowed but rarely used. Most Armagnac comes from a continuous column of its own kind, short and fitted with relatively few plates. Because the spirit leaves the column at a fairly low strength, it keeps plenty of congeners and comes out full of character. It is a useful reminder that a column still does not automatically mean a light or neutral spirit.",
+     "La gran diferencia técnica es el alambique. El discontinuo está permitido, pero apenas se usa. La mayor parte del armañac sale de una columna continua muy particular, corta y con relativamente pocos platos. Como el destilado sale de la columna con una graduación bastante baja, conserva muchos congéneres y resulta lleno de carácter. Es un buen recordatorio: una columna no significa por fuerza un destilado ligero o neutro."
+    ],
+    [
+     "Invecchiamento, assemblaggio e preparazione all'imbottigliamento somigliano a quelli del Cognac, e i termini d'età sono simili, anche se le età minime cambiano un po'. Due stili però distinguono l'Armagnac. Il millesimato nasce solo da uve di una stessa vendemmia, quindi non è un blend di età diverse: qui è comune, nel Cognac raro. La Blanche è un Armagnac che non vede mai il rovere, prodotto come gli altri ma imbottigliato incolore. La Folle Blanche, con il suo frutto espressivo, è perfetta per questo stile.",
+     "Vieillissement, assemblage et préparation à la mise en bouteille ressemblent à ceux du Cognac, et les mentions d'âge sont proches, même si les âges minimums diffèrent un peu. Deux styles distinguent pourtant l'Armagnac. Le millésimé provient uniquement de raisins d'une même vendange : ce n'est donc pas un assemblage d'âges, et il est courant ici, rare en Cognac. La Blanche est un Armagnac qui ne passe jamais en chêne, élaboré comme les autres mais mis en bouteille incolore. La Folle Blanche, au fruit expressif, lui convient parfaitement.",
+     "Maturation, blending and preparation for bottling look much like Cognac, and the age terms are similar, though the minimum ages differ slightly. Two styles set Armagnac apart. Vintage Armagnac is made only from grapes of a single harvest, so it is not a blend of different ages; it is common here and rare in Cognac. Blanche is Armagnac that never sees oak, made exactly like the others but bottled clear. Folle Blanche, with its expressive fruit, suits it perfectly.",
+     "La crianza, el ensamblaje y la preparación para el embotellado se parecen a los del coñac, y los términos de edad son similares, aunque las edades mínimas cambian un poco. Dos estilos distinguen al armañac. El de añada procede solo de uvas de una misma vendimia, así que no mezcla edades distintas: aquí es habitual y en el coñac, raro. La Blanche es un armañac que nunca pasa por roble, elaborado igual que los demás pero embotellado incoloro. La Folle Blanche, con su fruta expresiva, le va de maravilla."
+    ],
+    [
+     "In etichetta conviene cercare anche la sottozona: i due nomi importanti sono Bas Armagnac e Ténarèze. Immaginiamo una bottiglia con scritto Château, Bas Armagnac e un anno come 1995: una piccola tenuta, una sottozona di prestigio e uve raccolte tutte in quell'unico autunno. Tre parole bastano a raccontare l'intera bottiglia.",
+     "Sur l'étiquette, il vaut la peine de repérer aussi le cru : les deux noms importants sont le Bas Armagnac et la Ténarèze. Imaginons une bouteille portant Château, Bas Armagnac et une année comme 1995 : un petit domaine, un cru réputé et des raisins tous récoltés au cours de ce seul automne. Trois mentions suffisent à raconter toute la bouteille.",
+     "On a label, look for the sub-region too: the two important names are Bas Armagnac and Ténarèze. Picture a bottle reading Château, Bas Armagnac and a year such as 1995: a small single estate, a highly regarded sub-region, and grapes all picked during that one autumn. Three words on the label tell the whole story of the bottle.",
+     "En la etiqueta conviene buscar también la subzona: los dos nombres importantes son Bas Armagnac y Ténarèze. Imagina una botella que pone Château, Bas Armagnac y un año como 1995: una pequeña finca, una subzona prestigiosa y uvas recogidas todas en ese único otoño. Tres palabras bastan para contar toda la historia de la botella."
+    ]
+   ],
+   "keys": [
+    [
+     "Si produce a sud di Bordeaux, soprattutto da piccoli produttori.",
+     "Produit au sud de Bordeaux, surtout par de petits producteurs.",
+     "Made south of Bordeaux, mostly by small producers.",
+     "Se elabora al sur de Burdeos, sobre todo por pequeños productores."
+    ],
+    [
+     "Ugni Blanc, più Baco (prugna secca) e Folle Blanche (floreale).",
+     "Ugni Blanc, plus Baco (pruneau) et Folle Blanche (florale).",
+     "Ugni Blanc, plus Baco (prunes) and Folle Blanche (floral).",
+     "Ugni Blanc, más Baco (ciruela pasa) y Folle Blanche (floral)."
+    ],
+    [
+     "Di solito colonna continua corta con pochi piatti: distillato di carattere e a bassa gradazione.",
+     "Le plus souvent une colonne continue courte à peu de plateaux : eau-de-vie de caractère, peu titrée.",
+     "Usually a short continuous column with few plates: a characterful, low-strength spirit.",
+     "Normalmente columna continua corta con pocos platos: destilado con carácter y de baja graduación."
+    ],
+    [
+     "I millesimati sono comuni; la Blanche non passa in rovere.",
+     "Les millésimés sont courants ; la Blanche ne passe pas en chêne.",
+     "Vintage Armagnacs are common; Blanche is unaged.",
+     "Los de añada son habituales; la Blanche no pasa por roble."
+    ],
+    [
+     "Sottozone chiave: Bas Armagnac e Ténarèze.",
+     "Crus clés : Bas Armagnac et Ténarèze.",
+     "Key sub-regions: Bas Armagnac and Ténarèze.",
+     "Subzonas clave: Bas Armagnac y Ténarèze."
+    ]
+   ]
+  },
+  {
+   "c": "s2",
+   "t": [
+    "Calvados: l'acquavite di mele della Normandia",
+    "Calvados : l'eau-de-vie de pomme normande",
+    "Calvados: Normandy's apple brandy",
+    "Calvados: el aguardiente de manzana de Normandía"
+   ],
+   "p": [
+    [
+     "Il Calvados è la grande acquavite di mele francese e nasce in zone precise della Normandia, nell'estremo nord del Paese. Il clima è troppo fresco perché la vite cresca bene, così al posto dei vigneti ci sono i frutteti. Le mele sono di gran lunga il frutto principale, mentre le pere hanno un ruolo minore. Come per la Tequila, la materia prima deve essere coltivata nella zona delimitata, e questo lega ogni bottiglia al suo paesaggio.",
+     "Le Calvados est la grande eau-de-vie de pomme française ; il provient de zones précises de Normandie, tout au nord du pays. Le climat y est trop frais pour que la vigne pousse bien, alors les vergers prennent sa place. La pomme est de loin le fruit principal, la poire jouant un rôle secondaire. Comme pour la Tequila, la matière première doit être cultivée dans l'aire délimitée, ce qui attache chaque bouteille à son paysage.",
+     "Calvados is France's great apple brandy, and it comes from specific parts of Normandy, in the far north of the country. The climate there is too cool for grapes to grow well, so orchards take the place of vineyards. Apples are by far the main fruit, with pears playing a smaller role. As with Tequila, the raw material must be grown in the defined area, which ties every bottle to its landscape.",
+     "El calvados es el gran aguardiente de manzana francés y procede de zonas concretas de Normandía, en el extremo norte del país. Allí el clima es demasiado fresco para que la vid crezca bien, así que los huertos de frutales ocupan su lugar. La manzana es con diferencia la fruta principal, y la pera tiene un papel menor. Como en el tequila, la materia prima debe cultivarse en la zona delimitada, lo que une cada botella a su paisaje."
+    ],
+    [
+     "La frutta viene pressata, il succo fermenta e poi si distilla. I produttori usano diversi alambicchi discontinui e colonne corte, scelti per conservare molto carattere e non per ottenere un distillato leggero. Come quasi tutte le acquaviti d'uva e di mele, il Calvados matura poi in rovere. Ed ecco il suo tratto personale: i recipienti di legno sono di solito di grandi dimensioni.",
+     "Les fruits sont pressés, le jus fermente, puis on le distille. Les producteurs utilisent divers alambics à repasse et colonnes courtes, choisis pour garder beaucoup de caractère plutôt que pour obtenir un spiritueux léger. Comme la plupart des eaux-de-vie de raisin et de pomme, le Calvados vieillit ensuite en chêne. Et voici sa touche personnelle : les contenants en bois sont généralement de grande taille.",
+     "The fruit is pressed, the juice is fermented, and the result is distilled. Producers use a range of pot stills and short column stills, all chosen to keep plenty of character rather than to make a light spirit. Like most grape and apple brandies, Calvados is then matured in oak. And here comes its personal twist: the oak vessels are usually large.",
+     "La fruta se prensa, el zumo fermenta y después se destila. Los productores usan distintos alambiques discontinuos y columnas cortas, elegidos para conservar mucho carácter y no para lograr un destilado ligero. Como casi todos los destilados de uva y manzana, el calvados se cría después en roble. Y aquí está su toque personal: los recipientes de madera suelen ser grandes."
+    ],
+    [
+     "Un recipiente grande offre meno superficie di legno per ogni litro di distillato, quindi cede molto meno sapore di rovere rispetto a una botte normale. Per questo anche un Calvados molto vecchio profuma ancora chiaramente di mela, con il legno in un ruolo di sostegno. Immaginiamo di assaggiare alla cieca due acquaviti invecchiate: quella in cui la mela, fresca o cotta, continua a emergere dopo anni e anni è molto probabilmente un Calvados.",
+     "Un grand contenant offre moins de surface de bois par litre d'eau-de-vie : il cède donc bien moins de goût boisé qu'un fût classique. C'est pourquoi même un très vieux Calvados sent encore nettement la pomme, le bois restant au second plan. Imaginons une dégustation à l'aveugle de deux eaux-de-vie âgées : celle où la pomme, fraîche ou cuite, continue de briller après des années est très probablement un Calvados.",
+     "A large vessel has less wood surface for each litre of spirit, so it gives much less oak flavour than a standard barrel. That is why even a very old Calvados still smells clearly of apples, with the wood in a supporting role. Picture tasting two aged brandies blind: the one where fresh or baked apple keeps shining through after many years is very likely to be Calvados.",
+     "Un recipiente grande ofrece menos superficie de madera por cada litro de destilado, así que cede mucho menos sabor a roble que una barrica normal. Por eso incluso un calvados muy viejo sigue oliendo claramente a manzana, con la madera en un papel secundario. Imagina una cata a ciegas de dos destilados envejecidos: aquel en el que la manzana, fresca o asada, sigue brillando tras muchos años es muy probablemente un calvados."
+    ]
+   ],
+   "keys": [
+    [
+     "Normandia, nord della Francia: troppo fresca per la vite.",
+     "Normandie, nord de la France : trop fraîche pour la vigne.",
+     "Normandy, northern France: too cool for vines.",
+     "Normandía, norte de Francia: demasiado fresca para la vid."
+    ],
+    [
+     "Soprattutto mele, in parte pere, coltivate nella zona delimitata.",
+     "Surtout des pommes, un peu de poires, cultivées dans l'aire délimitée.",
+     "Mainly apples, some pears, grown in the defined area.",
+     "Sobre todo manzanas, algo de peras, cultivadas en la zona delimitada."
+    ],
+    [
+     "Alambicchi discontinui o colonne corte: distillati di carattere.",
+     "Alambics à repasse ou colonnes courtes : eaux-de-vie de caractère.",
+     "Pot stills or short columns: characterful spirits.",
+     "Alambiques discontinuos o columnas cortas: destilados con carácter."
+    ],
+    [
+     "Grandi recipienti di rovere: poco legno, mela evidente anche negli invecchiati.",
+     "Grands contenants de chêne : peu de bois, pomme bien nette même chez les vieux.",
+     "Large oak vessels: little oak flavour, clear apple aroma even when old.",
+     "Grandes recipientes de roble: poca madera y manzana clara incluso en los viejos."
+    ]
+   ]
+  },
+  {
+   "c": "s2",
+   "t": [
+    "Grappa: la vinaccia all'italiana",
+    "Grappa : le marc à l'italienne",
+    "Grappa: pomace the Italian way",
+    "Grappa: el orujo a la italiana"
+   ],
+   "p": [
+    [
+     "Le acquaviti di vinaccia si fanno in tutto il mondo, ma il modello di riferimento l'ha fissato l'Italia con la grappa. Il nome è riservato: solo un'acquavite di vinaccia prodotta in Italia può chiamarsi grappa. Un distillato fatto allo stesso modo in Francia o in Spagna deve usare un altro nome. In etichetta la parola grappa spicca sempre, a volte accanto al vitigno: molte grappe nascono da una sola varietà, altre da un insieme di uve.",
+     "On produit des eaux-de-vie de marc dans le monde entier, mais c'est l'Italie qui a fixé la référence avec la grappa. Le nom est réservé : seule une eau-de-vie de marc produite en Italie peut s'appeler grappa. Une eau-de-vie faite de la même façon en France ou en Espagne doit porter un autre nom. Sur l'étiquette, le mot grappa ressort toujours, parfois avec le cépage : beaucoup de grappas proviennent d'une seule variété, d'autres d'un mélange.",
+     "Pomace spirits are made all over the world, but Italy set the benchmark with grappa. The name is protected: only a pomace spirit made in Italy can be called grappa. A spirit made the same way in France or Spain has to use another name. On the label the word grappa always stands out, sometimes alongside the grape: many grappas come from a single variety, others from a mix.",
+     "Los destilados de orujo se elaboran en todo el mundo, pero el modelo lo ha marcado Italia con la grappa. El nombre está reservado: solo un destilado de orujo elaborado en Italia puede llamarse grappa. Uno hecho igual en Francia o en España tiene que usar otro nombre. En la etiqueta la palabra grappa siempre destaca, a veces junto a la variedad: muchas grappas proceden de una sola uva y otras de una mezcla."
+    ],
+    [
+     "La grappa classica non è invecchiata: riposa brevemente in recipienti inerti e viene imbottigliata incolore. Le bucce le danno note erbacee intense, e le versioni giovani possono risultare un po' pungenti al palato. Si può pensare a un gambo appena tagliato: verde, vivace e diretto, più che rotondo e morbido. È un distillato schietto, che non nasconde da dove viene.",
+     "La grappa classique n'est pas vieillie : elle repose brièvement en cuves inertes et se met en bouteille incolore. Les peaux lui donnent des notes herbacées marquées, et les versions jeunes peuvent sembler un peu vives en bouche. On peut l'imaginer comme une tige fraîchement coupée : verte, vive et directe, plutôt que ronde et moelleuse. C'est une eau-de-vie franche, qui ne cache pas d'où elle vient.",
+     "Classic grappa is unaged: it rests briefly in inert vessels and is bottled colourless. The skins give it pronounced herbaceous notes, and young examples can feel a little sharp on the palate. Think of a freshly cut stem: green, lively and direct rather than round and mellow. It is an honest spirit that makes no secret of where it comes from.",
+     "La grappa clásica no se envejece: reposa poco tiempo en recipientes inertes y se embotella incolora. Las pieles le dan notas herbáceas intensas, y las versiones jóvenes pueden resultar algo punzantes en boca. Piensa en un tallo recién cortado: verde, vivo y directo, más que redondo y suave. Es un destilado franco, que no esconde de dónde viene."
+    ],
+    [
+     "I migliori produttori vanno oltre questo modello in due modi. Primo, lasciano parlare il vitigno: una grappa di Moscato, uva aromatica, aggiunge intense note floreali e fruttate alla base erbacea. Secondo, fanno riposare il distillato un anno o più in recipienti inerti, come acciaio o vetro. Resta incolore, ma la consistenza diventa più piena e più morbida.",
+     "Les meilleurs producteurs dépassent ce modèle de deux façons. D'abord, ils laissent parler le cépage : une grappa de Muscat, raisin aromatique, ajoute des notes florales et fruitées marquées à la base herbacée. Ensuite, ils font reposer l'eau-de-vie un an ou plus en cuves inertes, en inox ou en verre. Elle reste incolore, mais sa texture devient plus ample et plus douce.",
+     "The best producers move beyond this template in two ways. First, they let the grape variety speak: a grappa from aromatic Moscato (Muscat) adds pronounced floral and fruity notes on top of the herbaceous base. Second, they rest the spirit for a year or more in inert vessels such as steel or glass. It stays colourless, but the texture becomes fuller and smoother.",
+     "Los mejores productores van más allá de este modelo de dos maneras. Primero, dejan hablar a la variedad: una grappa de moscatel, uva aromática, añade intensas notas florales y afrutadas a la base herbácea. Segundo, dejan reposar el destilado un año o más en recipientes inertes, como acero o vidrio. Sigue siendo incoloro, pero la textura se vuelve más llena y más suave."
+    ]
+   ],
+   "keys": [
+    [
+     "Solo l'acquavite di vinaccia prodotta in Italia può chiamarsi grappa.",
+     "Seule l'eau-de-vie de marc produite en Italie peut s'appeler grappa.",
+     "Only a pomace spirit made in Italy can be called grappa.",
+     "Solo el destilado de orujo elaborado en Italia puede llamarse grappa."
+    ],
+    [
+     "Di solito non invecchiata: incolore, erbacea, a volte pungente.",
+     "Généralement non vieillie : incolore, herbacée, parfois vive.",
+     "Usually unaged: colourless, herbaceous, sometimes sharp.",
+     "Normalmente sin envejecer: incolora, herbácea, a veces punzante."
+    ],
+    [
+     "Vitigni aromatici come il Moscato aggiungono note floreali e fruttate.",
+     "Les cépages aromatiques comme le Muscat ajoutent des notes florales et fruitées.",
+     "Aromatic grapes such as Moscato add floral and fruity notes.",
+     "Las uvas aromáticas como el moscatel añaden notas florales y afrutadas."
+    ],
+    [
+     "Un anno o più in recipienti inerti: più piena e morbida, sempre incolore.",
+     "Un an ou plus en cuves inertes : plus ample et douce, toujours incolore.",
+     "A year or more in inert vessels: fuller and smoother, still colourless.",
+     "Un año o más en recipientes inertes: más llena y suave, siempre incolora."
+    ]
+   ]
+  },
+  {
+   "c": "s2",
+   "t": [
+    "Pisco: l'uva aromatica del Cile e del Perù",
+    "Pisco : le raisin aromatique du Chili et du Pérou",
+    "Pisco: aromatic grapes from Chile and Peru",
+    "Pisco: la uva aromática de Chile y Perú"
+   ],
+   "p": [
+    [
+     "Il pisco è l'acquavite d'uva del Cile e del Perù. A differenza della maggior parte dei produttori di brandy, che scelgono uve neutre, chi fa pisco punta di proposito su varietà molto aromatiche, in particolare quelle della famiglia del Moscato. L'obiettivo è un distillato che profumi intensamente dell'uva stessa: un buon pisco fa pensare a fiori e frutta matura ancora prima di assaggiarlo.",
+     "Le pisco est l'eau-de-vie de raisin du Chili et du Pérou. Contrairement à la plupart des producteurs de brandy, qui choisissent des raisins neutres, ceux du pisco misent volontairement sur des variétés très aromatiques, notamment de la famille du Muscat. Le but : une eau-de-vie qui sent intensément le raisin lui-même. Un bon pisco évoque les fleurs et les fruits mûrs avant même la première gorgée.",
+     "Pisco is the grape brandy of Chile and Peru. Unlike most brandy makers, who pick neutral grapes, pisco producers deliberately choose highly aromatic varieties, especially members of the Muscat family. The aim is a spirit that smells vividly of the grape itself, so a good pisco brings flowers and ripe fruit to mind before you even take a sip.",
+     "El pisco es el destilado de uva de Chile y Perú. A diferencia de la mayoría de los productores de brandy, que eligen uvas neutras, los de pisco apuestan a propósito por variedades muy aromáticas, sobre todo de la familia del moscatel. El objetivo es un destilado que huela intensamente a la propia uva: un buen pisco recuerda a flores y fruta madura antes incluso del primer sorbo."
+    ],
+    [
+     "Il pisco si distilla in alambicchi discontinui, che preservano questi profumi. Quasi tutto il pisco non è invecchiato, e in Perù è un obbligo di legge: il pisco peruviano non vede mai il legno. Le versioni migliori sono apprezzate per aromi puri e intensi di frutta e fiori. In Cile esistono alcuni pisco passati nel legno, ma di solito per poco tempo, così da non perdere il frutto vivace.",
+     "Le pisco est distillé en alambics à repasse, qui préservent ces arômes. La plupart des piscos ne sont pas vieillis, et au Pérou c'est une obligation légale : le pisco péruvien ne voit jamais le bois. Les meilleurs sont appréciés pour leurs arômes purs et intenses de fruits et de fleurs. Au Chili, certains piscos passent par le bois, mais en général brièvement, pour garder un fruit éclatant.",
+     "Pisco is distilled in pot stills, which keep those aromas intact. Most pisco is unaged, and in Peru this is a legal requirement, so Peruvian pisco never sees wood. The best examples are prized for pure, pronounced fruity and floral aromas. Chile makes some wood-matured versions, but the time in wood is normally short so the spirit keeps its vibrant fruit.",
+     "El pisco se destila en alambiques discontinuos, que conservan esos aromas. Casi todo el pisco no se envejece, y en Perú es obligatorio por ley: el pisco peruano nunca pasa por madera. Los mejores se valoran por sus aromas puros e intensos a fruta y flores. En Chile hay algunos piscos con paso por madera, pero normalmente breve, para que no pierdan su fruta vibrante."
+    ],
+    [
+     "Il pisco ha anche un ruolo famoso al bancone: è la base del Pisco Sour, un classico della famiglia dei sour con succo di lime, sciroppo di zucchero e albume, che dà una consistenza liscia e setosa. Oltre al pisco, acquaviti d'uva e di vinaccia non invecchiate si producono in molti Paesi, come Spagna, Sudafrica e Messico, mentre l'Europa centrale è famosa per distillati puri ed espressivi di prugne, ciliegie e frutti di bosco.",
+     "Le pisco joue aussi un rôle célèbre au bar : c'est la base du Pisco Sour, un classique de la famille des sours avec jus de citron vert, sirop de sucre et blanc d'œuf, qui donne une texture lisse et soyeuse. Au-delà du pisco, des eaux-de-vie de raisin et de marc non vieillies sont produites dans de nombreux pays, comme l'Espagne, l'Afrique du Sud et le Mexique, tandis que l'Europe centrale est réputée pour ses eaux-de-vie pures et expressives de prune, de cerise et de petits fruits.",
+     "Pisco also has a famous role behind the bar: it is the base of the Pisco Sour, a classic of the sour family made with lime juice, sugar syrup and egg white for a smooth, silky texture. Beyond pisco, unaged grape and pomace brandies are made in many countries, notably Spain, South Africa and Mexico, while Central Europe is renowned for pure, expressive spirits made from plums, cherries and berries.",
+     "El pisco también tiene un papel famoso en la barra: es la base del Pisco Sour, un clásico de la familia de los sours con zumo de lima, almíbar y clara de huevo, que le da una textura lisa y sedosa. Más allá del pisco, se elaboran destilados de uva y de orujo sin envejecer en muchos países, como España, Sudáfrica y México, y Europa central es famosa por sus destilados puros y expresivos de ciruela, cereza y frutos rojos."
+    ]
+   ],
+   "keys": [
+    [
+     "Acquavite d'uva di Cile e Perù.",
+     "Eau-de-vie de raisin du Chili et du Pérou.",
+     "Grape brandy from Chile and Peru.",
+     "Destilado de uva de Chile y Perú."
+    ],
+    [
+     "Uve molto aromatiche, soprattutto della famiglia del Moscato.",
+     "Raisins très aromatiques, surtout de la famille du Muscat.",
+     "Highly aromatic grapes, especially the Muscat family.",
+     "Uvas muy aromáticas, sobre todo de la familia del moscatel."
+    ],
+    [
+     "Distillato in alambicchi discontinui.",
+     "Distillé en alambics à repasse.",
+     "Distilled in pot stills.",
+     "Destilado en alambiques discontinuos."
+    ],
+    [
+     "Quasi sempre non invecchiato; in Perù è obbligatorio. In Cile qualche breve passaggio in legno.",
+     "Presque toujours non vieilli ; obligatoire au Pérou. Au Chili, parfois un bref passage en bois.",
+     "Mostly unaged, and legally so in Peru; Chile has some briefly wood-aged versions.",
+     "Casi siempre sin envejecer; en Perú es obligatorio. En Chile, a veces un breve paso por madera."
+    ],
+    [
+     "I migliori: aromi puri e intensi di frutta e fiori.",
+     "Les meilleurs : arômes purs et intenses de fruits et de fleurs.",
+     "The best show pure, pronounced fruity and floral aromas.",
+     "Los mejores: aromas puros e intensos a fruta y flores."
+    ]
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "c": "s1",
+   "q": [
+    "Che tipo di uva preferiscono di solito i distillatori per un'acquavite d'uva?",
+    "Quel type de raisin les distillateurs préfèrent-ils généralement pour une eau-de-vie de raisin ?",
+    "What kind of grape do distillers usually prefer for grape brandy?",
+    "¿Qué tipo de uva suelen preferir los destiladores para un destilado de uva?"
+   ],
+   "o": [
+    [
+     "Uve bianche acide e poco aromatiche",
+     "Des raisins blancs acides et peu aromatiques",
+     "Acidic white grapes with little aroma",
+     "Uvas blancas ácidas y poco aromáticas"
+    ],
+    [
+     "Uve nere ricche di tannino e di colore intenso",
+     "Des raisins noirs riches en tanins et très colorés",
+     "Black grapes rich in tannin and deep colour",
+     "Uvas tintas ricas en taninos y de color intenso"
+    ],
+    [
+     "Uve bianche molto mature e poco acide",
+     "Des raisins blancs très mûrs et peu acides",
+     "Very ripe white grapes with low acidity",
+     "Uvas blancas muy maduras y poco ácidas"
+    ],
+    [
+     "Uve appassite con molto zucchero concentrato",
+     "Des raisins passerillés très concentrés en sucre",
+     "Dried grapes with highly concentrated sugar",
+     "Uvas pasificadas con mucho azúcar concentrado"
+    ]
+   ],
+   "e": [
+    "Uve bianche acide e neutre danno vini semplici, ma la distillazione ne concentra le note delicate.",
+    "Les raisins blancs acides et neutres donnent des vins simples, mais la distillation en concentre les notes délicates.",
+    "Acidic, neutral white grapes make plain wine, but distillation concentrates their delicate notes.",
+    "Las uvas blancas ácidas y neutras dan vinos sencillos, pero la destilación concentra sus notas delicadas."
+   ],
+   "d": [
+    "Il vino di base non deve essere buono da bere: conta che la distillazione esalti i suoi delicati aromi floreali e fruttati. L'acidità aiuta inoltre a conservare il vino fino alla distillazione. Le uve nere tanniche, quelle poco acide o quelle appassite non rispondono a questi bisogni.",
+    "Le vin de base n'a pas besoin d'être agréable à boire : l'important est que la distillation exalte ses délicats arômes floraux et fruités. L'acidité aide aussi à conserver le vin jusqu'à la distillation. Les raisins noirs tanniques, peu acides ou passerillés ne répondent pas à ces besoins.",
+    "The base wine does not need to be pleasant to drink: what matters is that distillation lifts its delicate floral and fruity aromas. Acidity also helps keep the wine fresh until it is distilled. Tannic black grapes, low-acid grapes or dried grapes do not meet these needs.",
+    "El vino base no tiene que ser agradable de beber: lo importante es que la destilación realce sus delicados aromas florales y afrutados. Además, la acidez ayuda a conservar el vino hasta la destilación. Las uvas tintas tánicas, las poco ácidas o las pasificadas no cumplen estas necesidades."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Perché le distillerie di frutta lavorano frutta coltivata nelle vicinanze?",
+    "Pourquoi les distilleries de fruits travaillent-elles des fruits cultivés à proximité ?",
+    "Why do fruit distilleries work with locally grown fruit?",
+    "¿Por qué las destilerías de fruta trabajan con fruta cultivada cerca?"
+   ],
+   "o": [
+    [
+     "La frutta si deteriora in fretta e sviluppa aromi sgradevoli",
+     "Le fruit se dégrade vite et développe des arômes indésirables",
+     "Fruit spoils quickly and develops off-aromas",
+     "La fruta se estropea rápido y desarrolla malos aromas"
+    ],
+    [
+     "La legge vieta ovunque di trasportare frutta fresca",
+     "La loi interdit partout de transporter des fruits frais",
+     "The law everywhere bans moving fresh fruit",
+     "La ley prohíbe en todas partes transportar fruta fresca"
+    ],
+    [
+     "La frutta lontana contiene troppo zucchero per i lieviti",
+     "Les fruits lointains contiennent trop de sucre pour les levures",
+     "Distant fruit holds too much sugar for the yeast to handle",
+     "La fruta lejana tiene demasiado azúcar para las levaduras"
+    ],
+    [
+     "La frutta va distillata ancora intera e non pressata",
+     "Les fruits doivent être distillés entiers, sans pressurage",
+     "Fruit has to be distilled whole, without pressing",
+     "La fruta debe destilarse entera, sin prensar"
+    ]
+   ],
+   "e": [
+    "Dopo la raccolta la frutta si guasta rapidamente, quindi va lavorata subito.",
+    "Après la cueillette, le fruit s'abîme vite : il faut donc le travailler aussitôt.",
+    "After picking, fruit deteriorates fast, so it must be processed straight away.",
+    "Tras la cosecha la fruta se estropea rápidamente, así que hay que procesarla enseguida."
+   ],
+   "d": [
+    "Gli aromi sgradevoli che si sviluppano nella frutta deteriorata passerebbero nel distillato. Non esiste un divieto generale di trasporto, e la frutta di solito viene pigiata e pressata prima della fermentazione, non distillata intera.",
+    "Les arômes indésirables d'un fruit abîmé passeraient dans l'eau-de-vie. Il n'existe aucune interdiction générale de transport, et le fruit est en général foulé et pressé avant la fermentation, pas distillé entier.",
+    "The off-aromas that develop in spoiling fruit would carry through into the spirit. There is no general ban on transport, and fruit is normally crushed and pressed before fermentation rather than distilled whole.",
+    "Los malos aromas de la fruta estropeada pasarían al destilado. No existe una prohibición general de transporte, y la fruta normalmente se estruja y se prensa antes de fermentar, no se destila entera."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Perché il vino destinato alla distillazione va distillato entro pochi mesi?",
+    "Pourquoi le vin destiné à la distillation doit-il être distillé en quelques mois ?",
+    "Why must wine made for distillation be distilled within a few months?",
+    "¿Por qué el vino destinado a destilación debe destilarse en pocos meses?"
+   ],
+   "o": [
+    [
+     "Acidità e alcol lo proteggono solo per un periodo limitato",
+     "L'acidité et l'alcool ne le protègent que pendant un temps limité",
+     "Acidity and alcohol protect it only for a limited time",
+     "La acidez y el alcohol lo protegen solo durante un tiempo"
+    ],
+    [
+     "Perché i lieviti ricominciano a produrre zucchero",
+     "Parce que les levures se remettent à produire du sucre",
+     "Because the yeast starts producing sugar again",
+     "Porque las levaduras vuelven a producir azúcar"
+    ],
+    [
+     "Perché il vino diventa troppo alcolico per gli alambicchi tradizionali",
+     "Parce que le vin devient trop alcoolisé pour les alambics traditionnels",
+     "Because the wine becomes too strong for traditional stills to handle",
+     "Porque el vino se vuelve demasiado alcohólico para los alambiques tradicionales"
+    ],
+    [
+     "Perché la legge impone di distillarlo prima della vendemmia",
+     "Parce que la loi impose de le distiller avant la vendange",
+     "Because the law requires distilling it before harvest",
+     "Porque la ley obliga a destilarlo antes de la vendimia"
+    ]
+   ],
+   "e": [
+    "La protezione data da acidità e alcol non è assoluta, quindi il vino non si conserva a lungo.",
+    "La protection apportée par l'acidité et l'alcool n'est pas absolue : le vin ne se garde pas longtemps.",
+    "The protection from acidity and alcohol is not absolute, so the wine does not keep for long.",
+    "La protección de la acidez y el alcohol no es absoluta, así que el vino no se conserva mucho."
+   ],
+   "d": [
+    "L'uva si raccoglie una volta l'anno, quindi il vino deve attendere prima di essere distillato. Acidità e alcol lo mantengono fresco, ma solo per qualche mese. I lieviti non producono zucchero: lo consumano. Il vino non diventa più alcolico stando fermo in vasca.",
+    "Le raisin n'est récolté qu'une fois par an, donc le vin doit attendre avant d'être distillé. L'acidité et l'alcool le gardent frais, mais seulement quelques mois. Les levures ne produisent pas de sucre, elles le consomment. Le vin ne devient pas plus alcoolisé en attendant en cuve.",
+    "Grapes are harvested once a year, so the wine has to wait before distillation. Acidity and alcohol keep it fresh, but only for a few months. Yeast does not produce sugar, it consumes it, and wine does not get stronger by sitting in a tank.",
+    "La uva se vendimia una vez al año, así que el vino tiene que esperar antes de destilarse. La acidez y el alcohol lo mantienen fresco, pero solo unos meses. Las levaduras no producen azúcar, lo consumen, y el vino no gana alcohol por esperar en el depósito."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Che cos'è la vinaccia?",
+    "Qu'est-ce que le marc ?",
+    "What is pomace?",
+    "¿Qué es el orujo?"
+   ],
+   "o": [
+    [
+     "Le bucce d'uva lasciate dopo la vinificazione",
+     "Les peaux de raisin laissées après la vinification",
+     "The grape skins left over from winemaking",
+     "Las pieles de uva que quedan tras elaborar el vino"
+    ],
+    [
+     "Il deposito di lieviti sul fondo delle vasche di vino",
+     "Le dépôt de levures au fond des cuves de vin",
+     "The yeast sediment at the bottom of wine tanks",
+     "El poso de levaduras en el fondo de los depósitos de vino"
+    ],
+    [
+     "Il succo che esce dall'uva prima della pressatura",
+     "Le jus qui s'écoule du raisin avant le pressurage",
+     "The juice that runs from grapes before pressing",
+     "El zumo que sale de la uva antes del prensado"
+    ],
+    [
+     "Le teste e le code scartate durante la distillazione dell'uva",
+     "Les têtes et queues écartées pendant la distillation du raisin",
+     "The heads and tails discarded while distilling grape wine",
+     "Las cabezas y colas que se descartan al destilar el vino"
+    ]
+   ],
+   "e": [
+    "La vinaccia è la massa di bucce che il vinificatore scarta e che può diventare acquavite.",
+    "Le marc est la masse de peaux que le vinificateur écarte et qui peut devenir eau-de-vie.",
+    "Pomace is the mass of skins winemakers discard, which can be turned into a spirit.",
+    "El orujo es la masa de pieles que descarta el elaborador de vino y que puede convertirse en destilado."
+   ],
+   "d": [
+    "Con la vinaccia si fanno acquaviti come la grappa. Il deposito di lieviti, il succo di sgrondo e le teste e code sono cose diverse: nessuno di questi è la massa di bucce rimasta dopo la pressatura.",
+    "Le marc sert à produire des eaux-de-vie comme la grappa. Le dépôt de levures, le jus de goutte et les têtes et queues sont autre chose : aucun n'est la masse de peaux restant après pressurage.",
+    "Pomace is used for spirits such as grappa. Yeast sediment, free-run juice and heads and tails are all different things: none of them is the mass of skins left after pressing.",
+    "Con el orujo se hacen destilados como la grappa. El poso de levaduras, el mosto yema y las cabezas y colas son cosas distintas: ninguno es la masa de pieles que queda tras el prensado."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Come si ottiene un liquido fermentabile dalle vinacce di uva bianca?",
+    "Comment obtient-on un liquide fermentescible à partir du marc de raisin blanc ?",
+    "How is a fermentable liquid obtained from white grape pomace?",
+    "¿Cómo se obtiene un líquido fermentable del orujo de uva blanca?"
+   ],
+   "o": [
+    [
+     "Si mescolano con acqua e si fa fermentare il liquido",
+     "On les mélange à de l'eau et on fait fermenter le liquide",
+     "They are mixed with water and the liquid is fermented",
+     "Se mezclan con agua y se fermenta el líquido"
+    ],
+    [
+     "Si distillano subito, perché sono già impregnate di alcol",
+     "On les distille aussitôt, car elles sont déjà imbibées d'alcool",
+     "They are distilled at once, as they are already soaked in alcohol",
+     "Se destilan enseguida, porque ya están empapadas de alcohol"
+    ],
+    [
+     "Si fanno macerare in alcol neutro e poi si ridistillano",
+     "On les fait macérer dans un alcool neutre puis on redistille",
+     "They are steeped in neutral spirit and then redistilled",
+     "Se maceran en alcohol neutro y luego se redestilan"
+    ],
+    [
+     "Si fanno seccare al sole e poi si aggiunge zucchero di canna",
+     "On les fait sécher au soleil puis on ajoute du sucre de canne",
+     "They are sun-dried and then cane sugar is added",
+     "Se secan al sol y luego se añade azúcar de caña"
+    ]
+   ],
+   "e": [
+    "Le bucce bianche, separate prima della fermentazione, trattengono succo: con l'acqua si ricava un liquido da fermentare.",
+    "Les peaux blanches, écartées avant fermentation, retiennent du jus : avec de l'eau, on obtient un liquide à fermenter.",
+    "White skins, removed before fermentation, still hold juice: adding water gives a liquid to ferment.",
+    "Las pieles blancas, separadas antes de fermentar, retienen zumo: con agua se obtiene un líquido para fermentar."
+   ],
+   "d": [
+    "Nel vino bianco le bucce si separano prima della fermentazione, quindi non contengono alcol ma ancora un po' di succo. Sono invece le vinacce nere ad arrivare già alcoliche, perché fermentano insieme al mosto. La macerazione in alcol neutro riguarda alcuni frutti che danno poco succo, non le vinacce.",
+    "Pour le vin blanc, les peaux sont écartées avant la fermentation : elles ne contiennent pas d'alcool, mais encore un peu de jus. Ce sont les marcs de raisin noir qui arrivent déjà alcoolisés, car ils fermentent avec le jus. La macération en alcool neutre concerne certains fruits peu juteux, pas le marc.",
+    "In white winemaking the skins are removed before fermentation, so they hold no alcohol, just some juice. It is black grape pomace that arrives already alcoholic, because it ferments with the juice. Steeping in neutral spirit is used for some low-juice fruits, not for pomace.",
+    "En el vino blanco las pieles se separan antes de fermentar, así que no tienen alcohol, solo algo de zumo. Es el orujo tinto el que llega ya con alcohol, porque fermenta junto al mosto. La maceración en alcohol neutro se usa para algunas frutas con poco zumo, no para el orujo."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Una distilleria riceve vinacce di uva nera da una cantina di vino rosso. Che cosa può fare?",
+    "Une distillerie reçoit du marc de raisin noir d'une cave de vin rouge. Que peut-elle faire ?",
+    "A distillery receives black grape pomace from a red wine cellar. What can it do?",
+    "Una destilería recibe orujo de uva tinta de una bodega de vino tinto. ¿Qué puede hacer?"
+   ],
+   "o": [
+    [
+     "Distillarle subito, perché contengono già alcol",
+     "Le distiller aussitôt, car il contient déjà de l'alcool",
+     "Distil it straight away, as it already contains alcohol",
+     "Destilarlo enseguida, porque ya contiene alcohol"
+    ],
+    [
+     "Aggiungere acqua e lieviti e aspettare alcune settimane",
+     "Ajouter de l'eau et des levures puis attendre quelques semaines",
+     "Add water and yeast, then wait several weeks before distilling",
+     "Añadir agua y levaduras y esperar unas semanas"
+    ],
+    [
+     "Pressarle per ottenere mosto dolce non fermentato",
+     "Le presser pour obtenir un moût sucré non fermenté",
+     "Press it to obtain sweet, unfermented juice",
+     "Prensarlo para obtener mosto dulce sin fermentar"
+    ],
+    [
+     "Conservarlo un anno in rovere prima di distillare",
+     "Le garder un an en chêne avant de le distiller",
+     "Store it in oak for a year before distilling",
+     "Guardarlo un año en roble antes de destilarlo"
+    ]
+   ],
+   "e": [
+    "Le bucce nere fermentano con il mosto, quindi arrivano impregnate di vino e si distillano subito.",
+    "Les peaux noires fermentent avec le jus : elles arrivent imbibées de vin et se distillent aussitôt.",
+    "Black skins ferment with the juice, so they arrive soaked in wine and can be distilled at once.",
+    "Las pieles tintas fermentan con el mosto, así que llegan empapadas de vino y se destilan enseguida."
+   ],
+   "d": [
+    "Nel vino rosso le bucce restano con il mosto per tutta la fermentazione per dare colore; dopo la svinatura e la pressatura resta comunque del vino nelle bucce. Aggiungere acqua e lieviti serve per le vinacce bianche, e il mosto dolce non esiste più perché lo zucchero è già fermentato.",
+    "Pour le vin rouge, les peaux restent avec le jus pendant toute la fermentation pour donner la couleur ; après écoulage et pressurage, il reste du vin dans les peaux. L'ajout d'eau et de levures concerne le marc blanc, et il n'y a plus de moût sucré puisque le sucre a déjà fermenté.",
+    "In red winemaking the skins stay with the juice throughout fermentation to give colour; after draining and pressing, some wine is still left in them. Adding water and yeast is the method for white pomace, and there is no sweet juice left because the sugar has already fermented.",
+    "En el vino tinto las pieles se quedan con el mosto durante toda la fermentación para dar color; tras el descube y el prensado sigue quedando vino en ellas. Añadir agua y levaduras es el método para el orujo blanco, y ya no queda mosto dulce porque el azúcar ha fermentado."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Da uno stesso lotto d'uva si ricavano due distillati: uno dal vino, uno dalle vinacce. Che cosa distingue quello di vinaccia?",
+    "Avec un même lot de raisin, on fait deux eaux-de-vie : l'une du vin, l'autre du marc. Qu'est-ce qui distingue celle de marc ?",
+    "Two spirits are made from one batch of grapes: one from the wine, one from the pomace. What sets the pomace spirit apart?",
+    "De un mismo lote de uva se sacan dos destilados: uno del vino y otro del orujo. ¿Qué distingue al de orujo?"
+   ],
+   "o": [
+    [
+     "Note erbacee e speziate",
+     "Des notes herbacées et épicées",
+     "Herbaceous and spicy notes",
+     "Notas herbáceas y especiadas"
+    ],
+    [
+     "Un sapore identico ma un colore più scuro dovuto alle bucce",
+     "Un goût identique mais une couleur plus foncée due aux peaux",
+     "An identical taste but a darker colour from the skins",
+     "Un sabor idéntico pero un color más oscuro por las pieles"
+    ],
+    [
+     "Profumi di vaniglia e cocco anche senza legno",
+     "Des arômes de vanille et de coco même sans bois",
+     "Vanilla and coconut aromas even without wood",
+     "Aromas de vainilla y coco incluso sin madera"
+    ],
+    [
+     "Una dolcezza naturale molto più alta",
+     "Une douceur naturelle bien plus élevée",
+     "A much higher natural sweetness",
+     "Un dulzor natural mucho mayor"
+    ]
+   ],
+   "e": [
+    "Le bucce conferiscono alle acquaviti di vinaccia il loro tipico carattere erbaceo e speziato.",
+    "Les peaux donnent aux eaux-de-vie de marc leur caractère herbacé et épicé typique.",
+    "The skins give pomace spirits their typical herbaceous, spicy character.",
+    "Las pieles dan a los destilados de orujo su típico carácter herbáceo y especiado."
+   ],
+   "d": [
+    "I due distillati avrebbero sapori molto diversi, non solo un colore diverso: anzi, i distillati appena fatti sono incolori. Vaniglia e cocco sono aromi tipici del rovere, e nessun distillato appena uscito dall'alambicco contiene zucchero.",
+    "Les deux eaux-de-vie auraient des goûts très différents, pas seulement une autre couleur : d'ailleurs, une eau-de-vie fraîchement distillée est incolore. Vanille et coco sont des arômes typiques du chêne, et aucune eau-de-vie sortant de l'alambic ne contient de sucre.",
+    "The two spirits would taste very different, not just look different; in fact, freshly distilled spirits are colourless. Vanilla and coconut are typical oak aromas, and no spirit contains sugar as it leaves the still.",
+    "Los dos destilados sabrían muy distinto, no solo tendrían otro color: de hecho, un destilado recién hecho es incoloro. La vainilla y el coco son aromas típicos del roble, y ningún destilado contiene azúcar al salir del alambique."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Perché alcuni frutti vengono macerati in alcol neutro e ridistillati invece di essere fermentati?",
+    "Pourquoi certains fruits sont-ils macérés dans un alcool neutre puis redistillés au lieu d'être fermentés ?",
+    "Why are some fruits steeped in neutral spirit and redistilled instead of being fermented?",
+    "¿Por qué algunas frutas se maceran en alcohol neutro y se redestilan en lugar de fermentarse?"
+   ],
+   "o": [
+    [
+     "Danno poco succo, oppure si vogliono evitare gli aromi della fermentazione",
+     "Ils donnent peu de jus, ou l'on veut éviter les arômes de fermentation",
+     "They give little juice, or fermentation aromas are to be avoided",
+     "Dan poco zumo, o se quieren evitar los aromas de la fermentación"
+    ],
+    [
+     "Contengono troppo acido perché i lieviti riescano a sopravvivere",
+     "Ils contiennent trop d'acide pour que les levures survivent",
+     "They contain too much acid for yeast to survive",
+     "Contienen demasiado ácido para que sobrevivan las levaduras"
+    ],
+    [
+     "Così il distillato può invecchiare in rovere più velocemente",
+     "Ainsi l'eau-de-vie peut vieillir plus vite en chêne",
+     "So the spirit can age faster in oak",
+     "Así el destilado puede envejecer más rápido en roble"
+    ],
+    [
+     "La legge europea vieta di fermentare la frutta diversa dall'uva",
+     "La loi européenne interdit de fermenter les fruits autres que le raisin",
+     "European law bans fermenting any fruit other than grapes",
+     "La ley europea prohíbe fermentar frutas que no sean uva"
+    ]
+   ],
+   "e": [
+    "La macerazione serve quando il succo è scarso o quando si vuole un profilo senza aromi di fermentazione.",
+    "La macération sert quand le jus est rare ou quand on veut un profil sans arômes de fermentation.",
+    "Maceration is used when juice is scarce or when a profile free of fermentation aromas is wanted.",
+    "La maceración se usa cuando hay poco zumo o cuando se busca un perfil sin aromas de fermentación."
+   ],
+   "d": [
+    "Da alcuni frutti è difficile estrarre abbastanza succo da fermentare; in altri casi il distillatore preferisce un profilo più puro. Questi distillati si possono considerare vodke aromatizzate di alta qualità. Mele, pere, prugne e ciliegie si fermentano normalmente, quindi non esiste un divieto del genere.",
+    "Certains fruits donnent trop peu de jus pour fermenter ; dans d'autres cas, le distillateur cherche un profil plus pur. On peut voir ces eaux-de-vie comme des vodkas aromatisées haut de gamme. Pommes, poires, prunes et cerises fermentent couramment : une telle interdiction n'existe pas.",
+    "Some fruits are hard to press for enough juice to ferment; in other cases the distiller wants a purer profile. These spirits can be thought of as high-quality flavoured vodkas. Apples, pears, plums and cherries are fermented all the time, so no such ban exists.",
+    "De algunas frutas cuesta sacar suficiente zumo para fermentar; en otros casos el destilador busca un perfil más puro. Estos destilados pueden verse como vodkas aromatizados de gran calidad. Manzanas, peras, ciruelas y cerezas se fermentan a diario, así que esa prohibición no existe."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Con quale tipo di alambicco si produce la maggior parte dei distillati di frutta di alta qualità?",
+    "Avec quel type d'alambic produit-on la plupart des eaux-de-vie de fruits haut de gamme ?",
+    "Which type of still makes most high-quality fruit spirits?",
+    "¿Con qué tipo de alambique se elabora la mayoría de los destilados de fruta de alta calidad?"
+   ],
+   "o": [
+    [
+     "Alambicco discontinuo",
+     "Alambic à repasse",
+     "Pot still",
+     "Alambique discontinuo"
+    ],
+    [
+     "Colonna a molti piatti",
+     "Colonne à nombreux plateaux",
+     "Multi-plate column still",
+     "Columna de muchos platos"
+    ],
+    [
+     "Nessun alambicco: si usa solo la macerazione",
+     "Aucun alambic : seulement la macération",
+     "No still at all: maceration only",
+     "Ningún alambique: solo maceración"
+    ],
+    [
+     "Alambicco sottovuoto in vetro",
+     "Alambic sous vide en verre",
+     "Glass vacuum still",
+     "Alambique de vidrio al vacío"
+    ]
+   ],
+   "e": [
+    "Nel mondo si usano molti tipi di alambicco, ma i migliori distillati di frutta nascono soprattutto in alambicchi discontinui.",
+    "On utilise de nombreux types d'alambics, mais les meilleures eaux-de-vie de fruits sortent surtout d'alambics à repasse.",
+    "Many still types are used worldwide, but most top fruit spirits come from pot stills.",
+    "En el mundo se usan muchos tipos de alambique, pero los mejores destilados de fruta salen sobre todo de alambiques discontinuos."
+   ],
+   "d": [
+    "L'alambicco discontinuo conserva molti aromi del frutto. Una colonna che arriva all'alcol neutro cancellerebbe proprio il carattere che si cerca. Esistono eccezioni importanti, come l'Armagnac in colonna corta, ma restano colonne pensate per dare carattere.",
+    "L'alambic à repasse conserve beaucoup d'arômes du fruit. Une colonne poussée jusqu'à l'alcool neutre effacerait justement le caractère recherché. Il existe des exceptions notables, comme l'Armagnac en colonne courte, mais ce sont des colonnes conçues pour garder du caractère.",
+    "A pot still keeps plenty of fruit aroma. A column taken up to neutral spirit would strip out exactly the character being sought. There are notable exceptions, such as Armagnac's short column, but those columns are designed to keep character.",
+    "El alambique discontinuo conserva muchos aromas de la fruta. Una columna que llega al alcohol neutro borraría justo el carácter que se busca. Hay excepciones notables, como la columna corta del armañac, pero son columnas pensadas para mantener carácter."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Molti grandi produttori fanno maturare l'acquavite giovane un anno o due in botti nuove e poi in botti vecchie. Perché?",
+    "Beaucoup de grands producteurs élèvent l'eau-de-vie jeune un an ou deux en fûts neufs, puis en fûts anciens. Pourquoi ?",
+    "Many top producers age young brandy for a year or two in new barrels, then in older ones. Why?",
+    "Muchos grandes productores crían el destilado joven uno o dos años en barricas nuevas y luego en viejas. ¿Por qué?"
+   ],
+   "o": [
+    [
+     "Per un carattere di rovere netto che non copra frutto e fiori",
+     "Pour un caractère boisé net qui ne masque pas le fruit et les fleurs",
+     "For clear oak character that does not swamp fruit and flowers",
+     "Para un carácter de roble claro que no tape la fruta y las flores"
+    ],
+    [
+     "Per eliminare del tutto il colore preso nelle botti nuove",
+     "Pour éliminer complètement la couleur prise dans les fûts neufs",
+     "To remove all the colour picked up in the new barrels entirely",
+     "Para eliminar del todo el color tomado en las barricas nuevas"
+    ],
+    [
+     "Perché le botti vecchie aggiungono zucchero al distillato",
+     "Parce que les vieux fûts ajoutent du sucre à l'eau-de-vie",
+     "Because old barrels add sugar to the spirit",
+     "Porque las barricas viejas añaden azúcar al destilado"
+    ],
+    [
+     "Per alzare la gradazione alcolica prima dell'imbottigliamento",
+     "Pour augmenter le degré avant la mise en bouteille",
+     "To raise the alcoholic strength before bottling",
+     "Para subir la graduación antes de embotellar"
+    ]
+   ],
+   "e": [
+    "Il rovere nuovo dà un'impronta decisa, poi le botti vecchie lasciano evolvere il distillato senza appesantirlo di legno.",
+    "Le chêne neuf donne une empreinte nette, puis les vieux fûts laissent l'eau-de-vie évoluer sans excès de bois.",
+    "New oak gives a clear imprint, then older barrels let the spirit develop without piling on more wood.",
+    "El roble nuevo deja una huella clara y luego las barricas viejas dejan evolucionar el destilado sin cargarlo de madera."
+   ],
+   "d": [
+    "L'obiettivo è l'equilibrio tra legno e frutto. Il colore non viene tolto dalle botti vecchie, che cedono semplicemente meno sapore. Le botti non aggiungono zucchero, e con l'evaporazione nel tempo la gradazione tende semmai a calare, non a salire.",
+    "Le but est l'équilibre entre bois et fruit. Les vieux fûts n'enlèvent pas la couleur, ils cèdent simplement moins de goût. Les fûts n'ajoutent pas de sucre, et avec l'évaporation le degré a plutôt tendance à baisser qu'à monter.",
+    "The goal is balance between wood and fruit. Older barrels do not remove colour; they simply give less flavour. Barrels do not add sugar, and with evaporation over time the strength tends to fall rather than rise.",
+    "El objetivo es el equilibrio entre madera y fruta. Las barricas viejas no quitan color, simplemente ceden menos sabor. Las barricas no añaden azúcar, y con la evaporación la graduación tiende más bien a bajar que a subir."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Dove si trova la zona di produzione del Cognac?",
+    "Où se trouve la zone de production du Cognac ?",
+    "Where is the Cognac production area?",
+    "¿Dónde está la zona de producción del coñac?"
+   ],
+   "o": [
+    [
+     "Appena a nord di Bordeaux",
+     "Juste au nord de Bordeaux",
+     "Just north of Bordeaux",
+     "Justo al norte de Burdeos"
+    ],
+    [
+     "A sud di Bordeaux",
+     "Au sud de Bordeaux",
+     "South of Bordeaux",
+     "Al sur de Burdeos"
+    ],
+    [
+     "In Normandia, nel nord della Francia",
+     "En Normandie, dans le nord de la France",
+     "In Normandy, in northern France",
+     "En Normandía, en el norte de Francia"
+    ],
+    [
+     "Nella valle del Rodano",
+     "Dans la vallée du Rhône",
+     "In the Rhône Valley",
+     "En el valle del Ródano"
+    ]
+   ],
+   "e": [
+    "Il Cognac nasce in una zona delimitata appena a nord di Bordeaux, nel sud-ovest della Francia.",
+    "Le Cognac provient d'une zone délimitée juste au nord de Bordeaux, dans le sud-ouest de la France.",
+    "Cognac comes from a delimited area just north of Bordeaux in south-west France.",
+    "El coñac procede de una zona delimitada justo al norte de Burdeos, en el suroeste de Francia."
+   ],
+   "d": [
+    "La zona a sud di Bordeaux è quella dell'Armagnac, mentre la Normandia è la patria del Calvados. Un trucco per ricordarlo: Cognac sopra Bordeaux, Armagnac sotto.",
+    "La zone au sud de Bordeaux est celle de l'Armagnac, et la Normandie est le pays du Calvados. Astuce : le Cognac au-dessus de Bordeaux, l'Armagnac en dessous.",
+    "South of Bordeaux is Armagnac country, and Normandy is the home of Calvados. A handy memory trick: Cognac above Bordeaux, Armagnac below.",
+    "La zona al sur de Burdeos es la del armañac, y Normandía es la cuna del calvados. Un truco: coñac por encima de Burdeos, armañac por debajo."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quale vitigno fornisce la grande maggioranza dell'uva per il Cognac?",
+    "Quel cépage fournit la grande majorité du raisin destiné au Cognac ?",
+    "Which grape variety supplies the vast majority of grapes for Cognac?",
+    "¿Qué variedad aporta la gran mayoría de la uva para el coñac?"
+   ],
+   "o": [
+    [
+     "Ugni Blanc",
+     "Ugni Blanc",
+     "Ugni Blanc",
+     "Ugni Blanc"
+    ],
+    [
+     "Moscato",
+     "Muscat",
+     "Muscat",
+     "Moscatel"
+    ],
+    [
+     "Baco",
+     "Baco",
+     "Baco",
+     "Baco"
+    ],
+    [
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay",
+     "Chardonnay"
+    ]
+   ],
+   "e": [
+    "L'Ugni Blanc domina il Cognac: vino neutro, ma acquavite dal profumo caratteristico.",
+    "L'Ugni Blanc domine en Cognac : vin neutre, mais eau-de-vie au parfum caractéristique.",
+    "Ugni Blanc dominates Cognac: neutral wine, but a spirit with a signature aroma.",
+    "La Ugni Blanc domina el coñac: vino neutro, pero destilado de aroma característico."
+   ],
+   "d": [
+    "Il Moscato è un'uva aromatica legata a pisco e ad alcune grappe. Il Baco è importante in Armagnac, dove dona note di prugna. Lo Chardonnay non ha alcun ruolo in questi distillati.",
+    "Le Muscat est un raisin aromatique lié au pisco et à certaines grappas. Le Baco compte en Armagnac, où il apporte des notes de pruneau. Le Chardonnay ne joue aucun rôle dans ces eaux-de-vie.",
+    "Muscat is an aromatic grape linked to pisco and some grappas. Baco matters in Armagnac, where it brings prune notes. Chardonnay plays no part in these spirits.",
+    "El moscatel es una uva aromática ligada al pisco y a algunas grappas. La Baco importa en el armañac, donde aporta notas de ciruela pasa. La Chardonnay no tiene papel en estos destilados."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quali aromi caratteristici dà l'Ugni Blanc una volta distillato?",
+    "Quels arômes caractéristiques l'Ugni Blanc donne-t-il une fois distillé ?",
+    "Which signature aromas does Ugni Blanc give once distilled?",
+    "¿Qué aromas característicos da la Ugni Blanc una vez destilada?"
+   ],
+   "o": [
+    [
+     "Uva passa e violetta",
+     "Raisin sec et violette",
+     "Raisin and violet",
+     "Pasas y violeta"
+    ],
+    [
+     "Prugna secca e tabacco",
+     "Pruneau et tabac",
+     "Prune and tobacco",
+     "Ciruela pasa y tabaco"
+    ],
+    [
+     "Mela cotta e caramello",
+     "Pomme cuite et caramel",
+     "Baked apple and caramel",
+     "Manzana asada y caramelo"
+    ],
+    [
+     "Note erbacee e speziate della buccia",
+     "Notes herbacées et épicées de la peau",
+     "Herbaceous, spicy notes from the skins",
+     "Notas herbáceas y especiadas de la piel"
+    ]
+   ],
+   "e": [
+    "Pur dando vini poco aromatici, l'Ugni Blanc regala distillati con note di uva passa e violetta.",
+    "Bien qu'il donne des vins peu aromatiques, l'Ugni Blanc offre des eaux-de-vie aux notes de raisin sec et de violette.",
+    "Although it makes low-aroma wine, Ugni Blanc gives spirits with raisin and violet notes.",
+    "Aunque da vinos poco aromáticos, la Ugni Blanc ofrece destilados con notas de pasas y violeta."
+   ],
+   "d": [
+    "La prugna secca è il segno tipico del Baco in Armagnac, la mela riporta al Calvados e le note erbacee e speziate sono il marchio delle acquaviti di vinaccia. Anche lo stesso Ugni Blanc cambia carattere a seconda della sottozona.",
+    "Le pruneau est la signature du Baco en Armagnac, la pomme évoque le Calvados, et les notes herbacées et épicées sont la marque des eaux-de-vie de marc. L'Ugni Blanc lui-même change aussi de caractère selon le cru.",
+    "Prune is the hallmark of Baco in Armagnac, apple points to Calvados, and herbaceous, spicy notes mark pomace spirits. Ugni Blanc itself also changes character from one sub-region to another.",
+    "La ciruela pasa es la seña de la Baco en el armañac, la manzana recuerda al calvados y las notas herbáceas y especiadas marcan los destilados de orujo. La propia Ugni Blanc también cambia de carácter según la subzona."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Entro quando deve concludersi la distillazione del Cognac di una vendemmia?",
+    "Avant quand la distillation du Cognac d'une vendange doit-elle être terminée ?",
+    "By when must the distillation of a Cognac harvest be finished?",
+    "¿Antes de cuándo debe terminar la destilación del coñac de una vendimia?"
+   ],
+   "o": [
+    [
+     "Entro la fine di marzo dell'anno successivo",
+     "Avant la fin mars de l'année suivante",
+     "By the end of March the following year",
+     "Antes de finales de marzo del año siguiente"
+    ],
+    [
+     "Entro la fine di dicembre dello stesso anno",
+     "Avant la fin décembre de la même année",
+     "By the end of December the same year",
+     "Antes de finales de diciembre del mismo año"
+    ],
+    [
+     "Entro la vendemmia successiva, cioè circa un anno dopo",
+     "Avant la vendange suivante, soit environ un an plus tard",
+     "Before the next harvest, roughly one year later",
+     "Antes de la siguiente vendimia, es decir, un año después"
+    ],
+    [
+     "Non c'è scadenza: si distilla quando serve",
+     "Il n'y a pas de délai : on distille selon les besoins",
+     "There is no deadline: it is distilled as needed",
+     "No hay plazo: se destila cuando hace falta"
+    ]
+   ],
+   "e": [
+    "Le regole impongono di finire la distillazione entro fine marzo dopo la vendemmia autunnale.",
+    "Les règles imposent de terminer la distillation avant fin mars après la vendange d'automne.",
+    "The rules require distillation to finish by the end of March after the autumn harvest.",
+    "Las normas obligan a terminar la destilación antes de finales de marzo tras la vendimia de otoño."
+   ],
+   "d": [
+    "La scadenza si lega anche al fatto che il vino si conserva fresco solo per pochi mesi. Dicembre sarebbe troppo presto per distillare tutto il raccolto, mentre aspettare un anno intero o non avere scadenze esporrebbe il vino al deterioramento.",
+    "Ce délai rejoint aussi le fait que le vin ne reste frais que quelques mois. Décembre serait trop tôt pour distiller toute la récolte, tandis qu'attendre un an ou n'avoir aucun délai exposerait le vin à l'altération.",
+    "The deadline also fits the fact that the wine only stays fresh for a few months. December would be too early to distil the whole crop, while waiting a full year or having no deadline would leave the wine open to spoilage.",
+    "El plazo encaja también con que el vino solo se mantiene fresco unos meses. Diciembre sería demasiado pronto para destilar toda la cosecha, y esperar un año o no tener plazo expondría el vino a estropearse."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quale affermazione sugli alambicchi del Cognac è corretta?",
+    "Quelle affirmation sur les alambics du Cognac est exacte ?",
+    "Which statement about Cognac stills is correct?",
+    "¿Qué afirmación sobre los alambiques del coñac es correcta?"
+   ],
+   "o": [
+    [
+     "Fiamma diretta e serpentina immersa in acqua fredda",
+     "Chauffe à feu nu et serpentin plongé dans l'eau froide",
+     "Direct flame heat and a worm tub condenser",
+     "Fuego directo y serpentín sumergido en agua fría"
+    ],
+    [
+     "Riscaldamento a vapore e condensatori moderni a fascio tubiero",
+     "Chauffe à la vapeur et condenseurs modernes multitubulaires",
+     "Steam heating and modern shell-and-tube condensers",
+     "Calentamiento a vapor y condensadores modernos de haz tubular"
+    ],
+    [
+     "Una sola distillazione in una colonna continua corta",
+     "Une seule distillation dans une colonne continue courte",
+     "A single distillation in a short continuous column",
+     "Una sola destilación en una columna continua corta"
+    ],
+    [
+     "Alambicchi in acciaio inox scaldati con resistenze elettriche",
+     "Alambics en inox chauffés par résistances électriques",
+     "Stainless steel stills heated by electric elements",
+     "Alambiques de acero inoxidable con resistencias eléctricas"
+    ]
+   ],
+   "e": [
+    "Gli alambicchi del Cognac devono essere scaldati a fiamma diretta e usare la serpentina tradizionale.",
+    "Les alambics du Cognac doivent être chauffés à feu nu et utiliser le serpentin traditionnel.",
+    "Cognac stills must be heated by direct flame and use the traditional worm tub.",
+    "Los alambiques del coñac deben calentarse a fuego directo y usar el serpentín tradicional."
+   ],
+   "d": [
+    "Sono due caratteristiche ormai rare altrove: la fiamma diretta (oggi a gas) e la serpentina, un tubo di rame a spirale in una vasca d'acqua grande quanto l'alambicco. Il Cognac richiede due distillazioni in alambicchi discontinui di rame: niente colonna, niente acciaio, niente condensatori moderni.",
+    "Ce sont deux traits devenus rares ailleurs : le feu nu (aujourd'hui au gaz) et le serpentin, un tuyau de cuivre en spirale dans une cuve d'eau aussi grande que l'alambic. Le Cognac exige deux distillations en alambics à repasse en cuivre : ni colonne, ni inox, ni condenseur moderne.",
+    "These are two features now rare elsewhere: direct flame heating (today gas) and the worm tub, a coiled copper pipe in a water tank as big as the still. Cognac requires two distillations in copper pot stills: no column, no stainless steel, no modern condenser.",
+    "Son dos rasgos ya raros en otros lugares: el fuego directo (hoy de gas) y el serpentín, un tubo de cobre en espiral dentro de un depósito de agua tan grande como el alambique. El coñac exige dos destilaciones en alambiques discontinuos de cobre: ni columna, ni acero, ni condensador moderno."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Un'etichetta di Armagnac riporta un anno, per esempio 1995. Che cosa significa?",
+    "Une étiquette d'Armagnac porte une année, par exemple 1995. Que signifie-t-elle ?",
+    "An Armagnac label shows a year, for example 1995. What does it mean?",
+    "Una etiqueta de armañac muestra un año, por ejemplo 1995. ¿Qué significa?"
+   ],
+   "o": [
+    [
+     "Tutta l'uva è stata raccolta in quell'anno",
+     "Tout le raisin a été récolté cette année-là",
+     "All the grapes were harvested that year",
+     "Toda la uva se vendimió ese año"
+    ],
+    [
+     "È l'anno di fondazione dell'azienda produttrice",
+     "C'est l'année de fondation du domaine producteur",
+     "It is the year the producing estate was founded",
+     "Es el año de fundación de la finca productora"
+    ],
+    [
+     "È l'anno in cui il blend è stato imbottigliato",
+     "C'est l'année de mise en bouteille de l'assemblage",
+     "It is the year the blend was bottled",
+     "Es el año en que se embotelló la mezcla"
+    ],
+    [
+     "È l'età del distillato più vecchio contenuto nel blend",
+     "C'est l'âge de l'eau-de-vie la plus vieille de l'assemblage",
+     "It shows the oldest spirit included in the blend of ages",
+     "Es la edad del destilado más viejo de la mezcla"
+    ]
+   ],
+   "e": [
+    "Un Armagnac millesimato nasce solo da uve di quella vendemmia, senza mescolare età diverse.",
+    "Un Armagnac millésimé provient uniquement des raisins de cette vendange, sans mélanger d'âges.",
+    "A vintage Armagnac comes only from grapes of that harvest, with no blending of ages.",
+    "Un armañac de añada procede solo de uvas de esa vendimia, sin mezclar edades."
+   ],
+   "d": [
+    "I millesimati sono comuni in Armagnac e rari nel Cognac. Non indicano l'anno di fondazione né quello di imbottigliamento. Per i blend, le indicazioni d'età si riferiscono al distillato più giovane, non al più vecchio.",
+    "Les millésimés sont courants en Armagnac et rares en Cognac. Ils n'indiquent ni l'année de fondation ni celle de mise en bouteille. Pour les assemblages, les mentions d'âge renvoient à l'eau-de-vie la plus jeune, pas à la plus vieille.",
+    "Vintage-dated spirits are common in Armagnac and rare in Cognac. The year is not a founding date or a bottling date. For blends, age terms refer to the youngest spirit, not the oldest.",
+    "Los de añada son habituales en el armañac y raros en el coñac. El año no es de fundación ni de embotellado. En las mezclas, las indicaciones de edad se refieren al destilado más joven, no al más viejo."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Per quanto tempo minimo deve maturare in rovere qualsiasi Cognac?",
+    "Combien de temps au minimum tout Cognac doit-il vieillir en chêne ?",
+    "What is the minimum time any Cognac must spend in oak?",
+    "¿Cuánto tiempo mínimo debe pasar cualquier coñac en roble?"
+   ],
+   "o": [
+    [
+     "Due anni",
+     "Deux ans",
+     "Two years",
+     "Dos años"
+    ],
+    [
+     "Sei mesi",
+     "Six mois",
+     "Six months",
+     "Seis meses"
+    ],
+    [
+     "Nessun minimo: esiste anche un Cognac incolore non invecchiato",
+     "Aucun minimum : il existe aussi un Cognac incolore non vieilli",
+     "No minimum: there is also a clear, unaged Cognac",
+     "Ningún mínimo: también existe un coñac incoloro sin envejecer"
+    ],
+    [
+     "Dieci anni",
+     "Dix ans",
+     "Ten years",
+     "Diez años"
+    ]
+   ],
+   "e": [
+    "Ogni Cognac deve passare almeno due anni in botti di rovere.",
+    "Tout Cognac doit passer au moins deux ans en fûts de chêne.",
+    "Every Cognac must spend at least two years in oak barrels.",
+    "Todo coñac debe pasar al menos dos años en barricas de roble."
+   ],
+   "d": [
+    "Due anni è il minimo per il livello più giovane, il VS. Non esiste un Cognac non invecchiato: è l'Armagnac ad avere la Blanche, che non ha equivalenti nel Cognac. Molti produttori superano comunque i minimi.",
+    "Deux ans, c'est le minimum pour le niveau le plus jeune, le VS. Il n'existe pas de Cognac non vieilli : c'est l'Armagnac qui a la Blanche, sans équivalent en Cognac. Beaucoup de producteurs dépassent d'ailleurs les minimums.",
+    "Two years is the minimum for the youngest level, VS. There is no unaged Cognac: it is Armagnac that has Blanche, which has no Cognac equivalent. Many producers go well beyond the minimums anyway.",
+    "Dos años es el mínimo para el nivel más joven, el VS. No existe coñac sin envejecer: es el armañac el que tiene la Blanche, sin equivalente en el coñac. Muchos productores superan de todos modos los mínimos."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Su un Cognac, a che cosa si riferiscono le indicazioni VS, VSOP o XO?",
+    "Sur un Cognac, à quoi se rapportent les mentions VS, VSOP ou XO ?",
+    "On a Cognac, what do the terms VS, VSOP or XO refer to?",
+    "En un coñac, ¿a qué se refieren las indicaciones VS, VSOP o XO?"
+   ],
+   "o": [
+    [
+     "All'età del distillato più giovane del blend",
+     "À l'âge de l'eau-de-vie la plus jeune de l'assemblage",
+     "The age of the youngest spirit in the blend",
+     "A la edad del destilado más joven de la mezcla"
+    ],
+    [
+     "All'età media di tutti i distillati che compongono il blend",
+     "À l'âge moyen de toutes les eaux-de-vie de l'assemblage",
+     "The average age of all the spirits making up the blend",
+     "A la edad media de todos los destilados de la mezcla"
+    ],
+    [
+     "All'età del distillato più vecchio del blend",
+     "À l'âge de l'eau-de-vie la plus vieille de l'assemblage",
+     "The age of the oldest spirit in the blend",
+     "A la edad del destilado más viejo de la mezcla"
+    ],
+    [
+     "Alla sottozona da cui proviene l'uva",
+     "Au cru d'où vient le raisin",
+     "The sub-region the grapes came from",
+     "A la subzona de donde viene la uva"
+    ]
+   ],
+   "e": [
+    "Le indicazioni d'età garantiscono l'età minima del componente più giovane.",
+    "Les mentions d'âge garantissent l'âge minimum du composant le plus jeune.",
+    "Age indications guarantee the minimum age of the youngest component.",
+    "Las indicaciones de edad garantizan la edad mínima del componente más joven."
+   ],
+   "d": [
+    "Un blend può contenere distillati molto più vecchi, ma conta il più giovane. Non si tratta di una media né dell'età massima. La provenienza è indicata da nomi come Grande Champagne, non da VS o XO. Fuori dalle zone francesi tutelate questi termini non hanno valore legale.",
+    "Un assemblage peut contenir des eaux-de-vie bien plus vieilles, mais c'est la plus jeune qui compte. Il ne s'agit ni d'une moyenne ni de l'âge maximum. L'origine se lit dans des noms comme Grande Champagne, pas dans VS ou XO. Hors des régions françaises protégées, ces termes n'ont aucune valeur légale.",
+    "A blend may contain much older spirits, but the youngest one is what counts. It is not an average or a maximum. Origin is shown by names such as Grande Champagne, not by VS or XO. Outside the protected French regions these terms have no legal definition.",
+    "Una mezcla puede contener destilados mucho más viejos, pero cuenta el más joven. No es una media ni una edad máxima. El origen lo indican nombres como Grande Champagne, no VS o XO. Fuera de las zonas francesas protegidas estos términos no tienen definición legal."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quale sottozona del Cognac è considerata la migliore per coltivare l'uva?",
+    "Quel cru du Cognac est considéré comme le meilleur pour la vigne ?",
+    "Which Cognac sub-region is considered the best for growing grapes?",
+    "¿Qué subzona del coñac se considera la mejor para cultivar la uva?"
+   ],
+   "o": [
+    [
+     "Grande Champagne",
+     "Grande Champagne",
+     "Grande Champagne",
+     "Grande Champagne"
+    ],
+    [
+     "Bas Armagnac",
+     "Bas-Armagnac",
+     "Bas Armagnac",
+     "Bas Armagnac"
+    ],
+    [
+     "Ténarèze",
+     "Ténarèze",
+     "Ténarèze",
+     "Ténarèze"
+    ],
+    [
+     "Fine Champagne",
+     "Fine Champagne",
+     "Fine Champagne",
+     "Fine Champagne"
+    ]
+   ],
+   "e": [
+    "La Grande Champagne, vicino alla città di Cognac, è la sottozona più apprezzata.",
+    "La Grande Champagne, près de la ville de Cognac, est le cru le plus réputé.",
+    "Grande Champagne, near the town of Cognac, is the most highly regarded sub-region.",
+    "La Grande Champagne, cerca de la ciudad de Cognac, es la subzona más valorada."
+   ],
+   "d": [
+    "Bas Armagnac e Ténarèze sono sottozone dell'Armagnac, non del Cognac. Fine Champagne non è una sottozona ma un blend di Grande e Petite Champagne. Dopo la Grande Champagne, le zone più stimate sono Petite Champagne e Borderies.",
+    "Bas-Armagnac et Ténarèze sont des crus de l'Armagnac, pas du Cognac. Fine Champagne n'est pas un cru mais un assemblage de Grande et Petite Champagne. Après la Grande Champagne, les zones les plus estimées sont la Petite Champagne et les Borderies.",
+    "Bas Armagnac and Ténarèze are Armagnac sub-regions, not Cognac ones. Fine Champagne is not a sub-region but a blend of Grande and Petite Champagne. After Grande Champagne, the most respected areas are Petite Champagne and Borderies.",
+    "Bas Armagnac y Ténarèze son subzonas del armañac, no del coñac. Fine Champagne no es una subzona, sino una mezcla de Grande y Petite Champagne. Tras la Grande Champagne, las zonas más valoradas son la Petite Champagne y las Borderies."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Che cosa indica la dicitura Fine Champagne su un Cognac?",
+    "Que signifie la mention Fine Champagne sur un Cognac ?",
+    "What does Fine Champagne on a Cognac label mean?",
+    "¿Qué indica la mención Fine Champagne en un coñac?"
+   ],
+   "o": [
+    [
+     "Blend di Grande (almeno 50%) e Petite Champagne",
+     "Assemblage de Grande (au moins 50 %) et Petite Champagne",
+     "A blend of Grande (min. 50%) and Petite Champagne",
+     "Mezcla de Grande (mínimo 50 %) y Petite Champagne"
+    ],
+    [
+     "Un Cognac affinato in botti che contenevano vino spumante",
+     "Un Cognac affiné en fûts ayant contenu du vin effervescent",
+     "A Cognac finished in casks that once held sparkling wine",
+     "Un coñac afinado en barricas que contuvieron vino espumoso"
+    ],
+    [
+     "Un Cognac con uve al 100% della sola Petite Champagne",
+     "Un Cognac issu à 100 % de la seule Petite Champagne",
+     "A Cognac made 100% from Petite Champagne grapes only",
+     "Un coñac con uva 100 % solo de Petite Champagne"
+    ],
+    [
+     "Un'indicazione d'età superiore all'XO",
+     "Une mention d'âge supérieure à l'XO",
+     "An age indication above XO",
+     "Una indicación de edad superior al XO"
+    ]
+   ],
+   "e": [
+    "Fine Champagne unisce distillati di Grande Champagne, almeno la metà, e di Petite Champagne.",
+    "La Fine Champagne réunit des eaux-de-vie de Grande Champagne, au moins la moitié, et de Petite Champagne.",
+    "Fine Champagne combines spirits from Grande Champagne, at least half, and Petite Champagne.",
+    "Fine Champagne une destilados de Grande Champagne, al menos la mitad, y de Petite Champagne."
+   ],
+   "d": [
+    "Champagne qui indica le sottozone del Cognac, non il vino spumante. Un Cognac fatto solo con uve di Petite Champagne riporterebbe il nome di quella sottozona. Fine Champagne parla di provenienza, non di età.",
+    "Ici, Champagne désigne des crus du Cognac, pas le vin effervescent. Un Cognac issu uniquement de Petite Champagne porterait le nom de ce cru. Fine Champagne parle d'origine, pas d'âge.",
+    "Here Champagne names Cognac sub-regions, not sparkling wine. A Cognac made only from Petite Champagne grapes would carry that sub-region's name. Fine Champagne is about origin, not age.",
+    "Aquí Champagne designa subzonas del coñac, no el vino espumoso. Un coñac hecho solo con uva de Petite Champagne llevaría el nombre de esa subzona. Fine Champagne habla de origen, no de edad."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quali sono le due sottozone importanti dell'Armagnac?",
+    "Quels sont les deux crus importants de l'Armagnac ?",
+    "Which are the two important Armagnac sub-regions?",
+    "¿Cuáles son las dos subzonas importantes del armañac?"
+   ],
+   "o": [
+    [
+     "Bas Armagnac e Ténarèze",
+     "Bas-Armagnac et Ténarèze",
+     "Bas Armagnac and Ténarèze",
+     "Bas Armagnac y Ténarèze"
+    ],
+    [
+     "Grande Champagne e Petite Champagne",
+     "Grande Champagne et Petite Champagne",
+     "Grande Champagne and Petite Champagne",
+     "Grande Champagne y Petite Champagne"
+    ],
+    [
+     "Borderies e Fine Champagne",
+     "Borderies et Fine Champagne",
+     "Borderies and Fine Champagne",
+     "Borderies y Fine Champagne"
+    ],
+    [
+     "Normandia e Bassa Normandia",
+     "Normandie et Basse-Normandie",
+     "Normandy and Lower Normandy",
+     "Normandía y Baja Normandía"
+    ]
+   ],
+   "e": [
+    "Bas Armagnac e Ténarèze sono i due nomi di sottozona da conoscere in Armagnac.",
+    "Bas-Armagnac et Ténarèze sont les deux noms de crus à connaître en Armagnac.",
+    "Bas Armagnac and Ténarèze are the two sub-region names to know in Armagnac.",
+    "Bas Armagnac y Ténarèze son los dos nombres de subzona que hay que conocer en el armañac."
+   ],
+   "d": [
+    "Grande Champagne, Petite Champagne e Borderies appartengono al Cognac, e Fine Champagne è un blend, non una sottozona. La Normandia è la terra del Calvados.",
+    "Grande Champagne, Petite Champagne et Borderies appartiennent au Cognac, et Fine Champagne est un assemblage, pas un cru. La Normandie est la terre du Calvados.",
+    "Grande Champagne, Petite Champagne and Borderies belong to Cognac, and Fine Champagne is a blend, not a sub-region. Normandy is Calvados country.",
+    "Grande Champagne, Petite Champagne y Borderies pertenecen al coñac, y Fine Champagne es una mezcla, no una subzona. Normandía es tierra de calvados."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Perché alcuni Cognac molto vecchi vengono travasati in damigiane di vetro?",
+    "Pourquoi certains très vieux Cognacs sont-ils transférés en dames-jeannes de verre ?",
+    "Why are some very old Cognacs transferred into glass demijohns?",
+    "¿Por qué algunos coñacs muy viejos se trasvasan a damajuanas de vidrio?"
+   ],
+   "o": [
+    [
+     "Per fermarne l'evoluzione e usarli poco a poco nei blend migliori",
+     "Pour figer leur évolution et les utiliser peu à peu dans les meilleurs assemblages",
+     "To halt their evolution and use them sparingly in top blends",
+     "Para detener su evolución y usarlos poco a poco en las mejores mezclas"
+    ],
+    [
+     "Per scurirne il colore prima della vendita come Cognac singoli",
+     "Pour foncer leur couleur avant de les vendre seuls",
+     "To darken their colour before selling them on their own",
+     "Para oscurecer su color antes de venderlos solos"
+    ],
+    [
+     "Per aumentarne la gradazione grazie all'evaporazione dell'acqua",
+     "Pour augmenter leur degré grâce à l'évaporation de l'eau",
+     "To raise their strength through water evaporation",
+     "Para subir su graduación gracias a la evaporación del agua"
+    ],
+    [
+     "Per accelerare l'ossidazione e sviluppare più rancio in pochi mesi",
+     "Pour accélérer l'oxydation et développer plus de rancio en quelques mois",
+     "To speed up oxidation and build more rancio within a few months",
+     "Para acelerar la oxidación y crear más rancio en pocos meses"
+    ]
+   ],
+   "e": [
+    "Il vetro blocca l'azione di legno e ossigeno e conserva il distillato nel suo stato ideale.",
+    "Le verre stoppe l'action du bois et de l'oxygène et préserve l'eau-de-vie dans son état idéal.",
+    "Glass stops the effect of oak and oxygen, keeping the spirit in its ideal state.",
+    "El vidrio frena la acción de la madera y el oxígeno y conserva el destilado en su estado ideal."
+   ],
+   "d": [
+    "Quando il cantiniere giudica che botte e ossigeno non possono più migliorarlo, il distillato passa nel vetro, che è inerte. Questi distillati preziosi raramente si vendono da soli: aggiungono profondità e complessità ai blend più prestigiosi. Il vetro non scurisce, non concentra e non accelera l'ossidazione.",
+    "Quand le maître de chai estime que le fût et l'oxygène ne peuvent plus l'améliorer, l'eau-de-vie passe dans le verre, qui est inerte. Ces eaux-de-vie précieuses sont rarement vendues seules : elles apportent profondeur et complexité aux assemblages prestigieux. Le verre ne fonce pas la couleur, ne concentre pas et n'accélère pas l'oxydation.",
+    "When the cellar master judges that cask and oxygen can no longer improve the spirit, it moves into glass, which is inert. These precious spirits are rarely sold alone: they add depth and complexity to prestige blends. Glass does not darken, concentrate or speed up oxidation.",
+    "Cuando el bodeguero considera que la barrica y el oxígeno ya no pueden mejorarlo, el destilado pasa al vidrio, que es inerte. Estos destilados valiosos casi nunca se venden solos: aportan profundidad y complejidad a las mezclas más prestigiosas. El vidrio no oscurece, no concentra ni acelera la oxidación."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Un cliente nota che un Cognac ha una consistenza appena morbida e vellutata, pur non sembrando dolce. Qual è una spiegazione probabile?",
+    "Un client remarque qu'un Cognac a une texture légèrement onctueuse, sans paraître sucré. Quelle explication est probable ?",
+    "A customer notices that a Cognac has a slightly rich, smooth texture without tasting sweet. What is a likely explanation?",
+    "Un cliente nota que un coñac tiene una textura ligeramente untuosa sin parecer dulce. ¿Qué explicación es probable?"
+   ],
+   "o": [
+    [
+     "Una piccola aggiunta di zucchero, pratica tradizionale",
+     "Un léger ajout de sucre, pratique traditionnelle",
+     "A small sugar addition, a traditional practice",
+     "Un pequeño añadido de azúcar, práctica tradicional"
+    ],
+    [
+     "Il rame dell'alambicco lascia zucchero nel distillato",
+     "Le cuivre de l'alambic laisse du sucre dans l'eau-de-vie",
+     "The copper still leaves sugar in the spirit",
+     "El cobre del alambique deja azúcar en el destilado"
+    ],
+    [
+     "La serpentina trattiene l'alcol e lascia passare lo zucchero dell'uva",
+     "Le serpentin retient l'alcool et laisse passer le sucre du raisin",
+     "The worm tub holds back alcohol and lets grape sugar through",
+     "El serpentín retiene el alcohol y deja pasar el azúcar de la uva"
+    ],
+    [
+     "È stato distillato da uve appassite",
+     "Il a été distillé à partir de raisins passerillés",
+     "It was distilled from dried grapes",
+     "Se destiló a partir de uvas pasificadas"
+    ]
+   ],
+   "e": [
+    "La maggior parte dei Cognac viene leggermente addolcita prima dell'imbottigliamento: è off-dry.",
+    "La plupart des Cognacs sont légèrement sucrés avant la mise en bouteille : ils sont demi-secs.",
+    "Most Cognacs are lightly sweetened before bottling, making them off-dry.",
+    "La mayoría de los coñacs se endulzan ligeramente antes de embotellar: son semisecos."
+   ],
+   "d": [
+    "Un distillato appena uscito dall'alambicco non contiene zucchero, qualunque sia l'uva o l'alambicco: lo zucchero non distilla. Una piccola dose aggiunta dopo dà un accenno della consistenza dello sciroppo senza rendere il distillato dolce. Nel Cognac è una prassi antica e parte integrante della produzione.",
+    "Une eau-de-vie qui sort de l'alambic ne contient pas de sucre, quels que soient le raisin ou l'alambic : le sucre ne se distille pas. Une petite dose ajoutée ensuite donne un soupçon de texture sirupeuse sans rendre l'eau-de-vie sucrée. En Cognac, c'est une pratique ancienne qui fait partie intégrante de la production.",
+    "A spirit leaving the still contains no sugar, whatever the grape or still: sugar does not distil. A small dose added afterwards gives a hint of syrupy texture without making the spirit taste sweet. In Cognac this is a long-standing practice and an integral part of production.",
+    "Un destilado recién salido del alambique no contiene azúcar, sea cual sea la uva o el alambique: el azúcar no se destila. Una pequeña dosis añadida después da un toque de textura de almíbar sin que el destilado sepa dulce. En el coñac es una práctica antigua y parte integral de la elaboración."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "In una degustazione, un Cognac mostra frutta e rovere ben distinti e una consistenza un po' pungente. Che livello è più probabile?",
+    "En dégustation, un Cognac montre un fruit et un boisé bien distincts et une texture un peu vive. Quel niveau est le plus probable ?",
+    "At a tasting, a Cognac shows distinct fruit and oak and a slightly sharp texture. Which level is most likely?",
+    "En una cata, un coñac muestra fruta y roble bien diferenciados y una textura algo punzante. ¿Qué nivel es más probable?"
+   ],
+   "o": [
+    [
+     "VS",
+     "VS",
+     "VS",
+     "VS"
+    ],
+    [
+     "XO",
+     "XO",
+     "XO",
+     "XO"
+    ],
+    [
+     "Hors d'âge",
+     "Hors d'âge",
+     "Hors d'âge",
+     "Hors d'âge"
+    ],
+    [
+     "Un blend arricchito di distillati da damigiana",
+     "Un assemblage enrichi d'eaux-de-vie de dame-jeanne",
+     "A blend enriched with demijohn-aged spirits",
+     "Una mezcla enriquecida con destilados de damajuana"
+    ]
+   ],
+   "e": [
+    "I VS, relativamente giovani, mostrano frutta e rovere netti e possono risultare un po' pungenti.",
+    "Les VS, relativement jeunes, montrent fruit et boisé nets et peuvent sembler un peu vifs.",
+    "Relatively young VS Cognacs show clear fruit and oak and can feel a little sharp.",
+    "Los VS, relativamente jóvenes, muestran fruta y roble claros y pueden resultar algo punzantes."
+   ],
+   "d": [
+    "Con l'invecchiamento il Cognac si fa più ricco e integrato. Gli XO e gli Hors d'âge migliori uniscono uva passa, fiori, rovere e rancio a una consistenza vellutata. I distillati da damigiana finiscono nei blend più prestigiosi, quindi darebbero un profilo ancora più evoluto.",
+    "Avec l'âge, le Cognac devient plus riche et plus fondu. Les meilleurs XO et Hors d'âge marient raisin sec, fleurs, chêne et rancio avec une texture soyeuse. Les eaux-de-vie de dame-jeanne vont dans les assemblages les plus prestigieux et donneraient un profil encore plus évolué.",
+    "With age, Cognac becomes richer and more integrated. The best XO and Hors d'âge Cognacs combine raisin, flowers, oak and rancio with a silky texture. Demijohn spirits go into prestige blends, so they would give an even more mature profile.",
+    "Con la edad, el coñac se vuelve más rico e integrado. Los mejores XO y Hors d'âge unen pasas, flores, roble y rancio con una textura sedosa. Los destilados de damajuana van a las mezclas más prestigiosas, así que darían un perfil aún más evolucionado."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Dove si produce l'Armagnac?",
+    "Où produit-on l'Armagnac ?",
+    "Where is Armagnac made?",
+    "¿Dónde se elabora el armañac?"
+   ],
+   "o": [
+    [
+     "A sud di Bordeaux",
+     "Au sud de Bordeaux",
+     "South of Bordeaux",
+     "Al sur de Burdeos"
+    ],
+    [
+     "Appena a nord di Bordeaux",
+     "Juste au nord de Bordeaux",
+     "Just north of Bordeaux",
+     "Justo al norte de Burdeos"
+    ],
+    [
+     "In Normandia",
+     "En Normandie",
+     "In Normandy",
+     "En Normandía"
+    ],
+    [
+     "In Borgogna",
+     "En Bourgogne",
+     "In Burgundy",
+     "En Borgoña"
+    ]
+   ],
+   "e": [
+    "L'uva per l'Armagnac deve provenire da una zona a sud di Bordeaux.",
+    "Le raisin de l'Armagnac doit provenir d'une zone au sud de Bordeaux.",
+    "Grapes for Armagnac must come from an area south of Bordeaux.",
+    "La uva para el armañac debe proceder de una zona al sur de Burdeos."
+   ],
+   "d": [
+    "La zona a nord di Bordeaux è quella del Cognac, e la Normandia, troppo fresca per la vite, produce il Calvados con mele e pere. La Borgogna non è una zona di riferimento per queste acquaviti.",
+    "La zone au nord de Bordeaux est celle du Cognac, et la Normandie, trop fraîche pour la vigne, produit le Calvados à partir de pommes et de poires. La Bourgogne n'est pas une référence pour ces eaux-de-vie.",
+    "North of Bordeaux is Cognac, and Normandy, too cool for vines, makes Calvados from apples and pears. Burgundy is not a benchmark area for these spirits.",
+    "Al norte de Burdeos está el coñac, y Normandía, demasiado fresca para la vid, hace calvados con manzanas y peras. Borgoña no es una zona de referencia para estos destilados."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Quale vitigno dà spesso all'Armagnac un tipico profumo di prugna secca?",
+    "Quel cépage donne souvent à l'Armagnac un arôme typique de pruneau ?",
+    "Which grape often gives Armagnac a characteristic prune aroma?",
+    "¿Qué variedad suele dar al armañac un aroma típico de ciruela pasa?"
+   ],
+   "o": [
+    [
+     "Baco",
+     "Baco",
+     "Baco",
+     "Baco"
+    ],
+    [
+     "Folle Blanche",
+     "Folle Blanche",
+     "Folle Blanche",
+     "Folle Blanche"
+    ],
+    [
+     "Ugni Blanc",
+     "Ugni Blanc",
+     "Ugni Blanc",
+     "Ugni Blanc"
+    ],
+    [
+     "Moscato",
+     "Muscat",
+     "Muscat",
+     "Moscatel"
+    ]
+   ],
+   "e": [
+    "Il Baco è responsabile del caratteristico profumo di prugna di molti Armagnac.",
+    "Le Baco est à l'origine de l'arôme caractéristique de pruneau de nombreux Armagnacs.",
+    "Baco is responsible for the characteristic prune aroma of many Armagnacs.",
+    "La Baco es la responsable del aroma típico de ciruela pasa de muchos armañacs."
+   ],
+   "d": [
+    "La Folle Blanche porta invece note floreali e fruttate intense, l'Ugni Blanc uva passa e violetta. Il Moscato non è un vitigno chiave dell'Armagnac: è tipico del pisco e di certe grappe aromatiche.",
+    "La Folle Blanche apporte plutôt des notes florales et fruitées marquées, l'Ugni Blanc du raisin sec et de la violette. Le Muscat n'est pas un cépage clé de l'Armagnac : il est typique du pisco et de certaines grappas aromatiques.",
+    "Folle Blanche brings pronounced floral and fruity notes instead, and Ugni Blanc raisin and violet. Muscat is not a key Armagnac grape: it is typical of pisco and some aromatic grappas.",
+    "La Folle Blanche aporta en cambio notas florales y afrutadas intensas, y la Ugni Blanc pasas y violeta. El moscatel no es una variedad clave del armañac: es típico del pisco y de algunas grappas aromáticas."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Perché l'Armagnac prodotto in colonna resta un distillato ricco di carattere?",
+    "Pourquoi l'Armagnac distillé en colonne reste-t-il une eau-de-vie pleine de caractère ?",
+    "Why does column-distilled Armagnac stay full of character?",
+    "¿Por qué el armañac destilado en columna sigue siendo un destilado con mucho carácter?"
+   ],
+   "o": [
+    [
+     "La colonna è corta, con pochi piatti, e distilla a bassa gradazione",
+     "La colonne est courte, à peu de plateaux, et distille à faible degré",
+     "The column is short, with few plates, and distils to low strength",
+     "La columna es corta, con pocos platos, y destila a baja graduación"
+    ],
+    [
+     "La colonna ha moltissimi piatti e si arriva all'alcol neutro",
+     "La colonne a de très nombreux plateaux et atteint l'alcool neutre",
+     "The column has a great many plates and reaches neutral spirit",
+     "La columna tiene muchísimos platos y llega al alcohol neutro"
+    ],
+    [
+     "Il carattere arriva tutto dalla macerazione di frutta dopo la distillazione",
+     "Tout le caractère vient d'une macération de fruits après distillation",
+     "All the character comes from steeping fruit after distillation",
+     "Todo el carácter viene de macerar fruta después de destilar"
+    ],
+    [
+     "Si distilla tre volte in colonna per concentrare gli aromi",
+     "On distille trois fois en colonne pour concentrer les arômes",
+     "It is distilled three times in a column to concentrate aroma",
+     "Se destila tres veces en columna para concentrar aromas"
+    ]
+   ],
+   "e": [
+    "Una colonna corta con pochi piatti dà un distillato a bassa gradazione che conserva molti congeneri.",
+    "Une colonne courte à peu de plateaux donne une eau-de-vie peu titrée qui garde beaucoup de congénères.",
+    "A short column with few plates gives a low-strength spirit that keeps many congeners.",
+    "Una columna corta con pocos platos da un destilado de baja graduación que conserva muchos congéneres."
+   ],
+   "d": [
+    "Più alta è la gradazione di distillazione, meno aromi restano; per questo una colonna che arriva all'alcol neutro darebbe un prodotto quasi senza carattere. Il carattere dell'Armagnac nasce dalla frutta fermentata e dalla distillazione, non da macerazioni successive. Più distillazioni farebbero salire la gradazione, non il carattere.",
+    "Plus le degré de distillation est élevé, moins il reste d'arômes : une colonne poussée jusqu'à l'alcool neutre donnerait un produit presque sans caractère. Le caractère de l'Armagnac vient du fruit fermenté et de la distillation, pas d'une macération ultérieure. Multiplier les distillations ferait monter le degré, pas le caractère.",
+    "The higher the distillation strength, the less aroma remains, so a column taken to neutral spirit would give an almost characterless product. Armagnac's character comes from fermented fruit and distillation, not from later maceration. Extra distillations would raise strength, not character.",
+    "Cuanto mayor es la graduación de destilación, menos aromas quedan, así que una columna que llega al alcohol neutro daría un producto casi sin carácter. El carácter del armañac viene de la fruta fermentada y de la destilación, no de una maceración posterior. Más destilaciones subirían la graduación, no el carácter."
+   ]
+  },
+  {
+   "c": "s1",
+   "q": [
+    "Un barman cerca un Armagnac incolore, dal frutto vivace, per un cocktail. Che cosa può scegliere?",
+    "Un barman cherche un Armagnac incolore, au fruit éclatant, pour un cocktail. Que peut-il choisir ?",
+    "A bartender wants a colourless Armagnac with lively fruit for a cocktail. What fits?",
+    "Un barman busca un armañac incoloro y de fruta viva para un cóctel. ¿Qué puede elegir?"
+   ],
+   "o": [
+    [
+     "Una Blanche, magari da Folle Blanche",
+     "Une Blanche, par exemple de Folle Blanche",
+     "A Blanche, perhaps from Folle Blanche",
+     "Una Blanche, por ejemplo de Folle Blanche"
+    ],
+    [
+     "Un Armagnac millesimato di un'annata molto vecchia",
+     "Un Armagnac millésimé d'une très vieille année",
+     "A vintage Armagnac from a very old year",
+     "Un armañac de añada muy antigua"
+    ],
+    [
+     "Un Armagnac XO filtrato su carbone per togliere il colore",
+     "Un Armagnac XO filtré au charbon pour retirer la couleur",
+     "An XO Armagnac charcoal-filtered to strip out its colour",
+     "Un armañac XO filtrado con carbón para quitarle el color"
+    ],
+    [
+     "Un Armagnac della Ténarèze invecchiato in botti nuove",
+     "Un Armagnac de Ténarèze vieilli en fûts neufs",
+     "A Ténarèze Armagnac aged in new barrels",
+     "Un armañac de Ténarèze envejecido en barricas nuevas"
+    ]
+   ],
+   "e": [
+    "La Blanche non passa in rovere, quindi è incolore, e la Folle Blanche le dà un frutto espressivo.",
+    "La Blanche ne passe pas en chêne, elle est donc incolore, et la Folle Blanche lui donne un fruit expressif.",
+    "Blanche never sees oak, so it is colourless, and Folle Blanche gives it expressive fruit.",
+    "La Blanche no pasa por roble, así que es incolora, y la Folle Blanche le da una fruta expresiva."
+   ],
+   "d": [
+    "La Blanche si produce come gli altri Armagnac ma senza invecchiamento in rovere. Un millesimato antico o un Armagnac in botti nuove avranno colore e note di legno. Filtrare un XO per decolorarlo non lo renderebbe uno stile riconosciuto e ne cancellerebbe molti aromi.",
+    "La Blanche est élaborée comme les autres Armagnacs, mais sans vieillissement en chêne. Un vieux millésimé ou un Armagnac en fûts neufs auront de la couleur et des notes boisées. Filtrer un XO pour le décolorer n'en ferait pas un style reconnu et effacerait beaucoup de ses arômes.",
+    "Blanche is made like other Armagnacs but without oak ageing. An old vintage or an Armagnac aged in new barrels will have colour and woody notes. Filtering an XO to remove its colour would not make it a recognised style and would strip out much of its aroma.",
+    "La Blanche se elabora como los demás armañacs, pero sin crianza en roble. Un armañac de añada antigua o uno en barricas nuevas tendrán color y notas de madera. Filtrar un XO para decolorarlo no lo convertiría en un estilo reconocido y le quitaría muchos aromas."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "In quale regione francese si produce il Calvados?",
+    "Dans quelle région française produit-on le Calvados ?",
+    "In which French region is Calvados made?",
+    "¿En qué región francesa se elabora el calvados?"
+   ],
+   "o": [
+    [
+     "Normandia",
+     "Normandie",
+     "Normandy",
+     "Normandía"
+    ],
+    [
+     "La zona appena a sud di Bordeaux",
+     "La zone juste au sud de Bordeaux",
+     "The area just south of Bordeaux",
+     "La zona justo al sur de Burdeos"
+    ],
+    [
+     "Borgogna",
+     "Bourgogne",
+     "Burgundy",
+     "Borgoña"
+    ],
+    [
+     "Provenza",
+     "Provence",
+     "Provence",
+     "Provenza"
+    ]
+   ],
+   "e": [
+    "Il Calvados deve essere prodotto in zone precise della Normandia, nel nord della Francia.",
+    "Le Calvados doit être produit dans des zones précises de Normandie, dans le nord de la France.",
+    "Calvados must be made in specific parts of Normandy, in northern France.",
+    "El calvados debe elaborarse en zonas concretas de Normandía, en el norte de Francia."
+   ],
+   "d": [
+    "La zona a sud di Bordeaux è quella dell'Armagnac. Borgogna e Provenza non sono zone di riferimento per l'acquavite di mele. La Normandia è nell'estremo nord, dove la vite fatica e crescono invece i meli.",
+    "La zone au sud de Bordeaux est celle de l'Armagnac. La Bourgogne et la Provence ne sont pas des références pour l'eau-de-vie de pomme. La Normandie se trouve tout au nord, où la vigne peine et où poussent les pommiers.",
+    "The area south of Bordeaux is Armagnac. Burgundy and Provence are not benchmark areas for apple brandy. Normandy lies in the far north, where vines struggle and apple trees thrive instead.",
+    "La zona al sur de Burdeos es la del armañac. Borgoña y Provenza no son zonas de referencia para el aguardiente de manzana. Normandía está en el extremo norte, donde la vid sufre y en cambio crecen los manzanos."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Con quale frutta si produce il Calvados?",
+    "Avec quels fruits produit-on le Calvados ?",
+    "Which fruit is Calvados made from?",
+    "¿Con qué fruta se elabora el calvados?"
+   ],
+   "o": [
+    [
+     "Mele e pere, soprattutto mele",
+     "Pommes et poires, surtout des pommes",
+     "Apples and pears, mostly apples",
+     "Manzanas y peras, sobre todo manzanas"
+    ],
+    [
+     "Uva bianca e mele in parti uguali",
+     "Raisin blanc et pommes à parts égales",
+     "White grapes and apples in equal parts",
+     "Uva blanca y manzanas a partes iguales"
+    ],
+    [
+     "Solo pere, coltivate in tutta la Francia",
+     "Uniquement des poires, cultivées dans toute la France",
+     "Only pears, grown anywhere in France",
+     "Solo peras, cultivadas en toda Francia"
+    ],
+    [
+     "Prugne e ciliegie macerate in alcol neutro",
+     "Prunes et cerises macérées dans un alcool neutre",
+     "Plums and cherries steeped in neutral spirit",
+     "Ciruelas y cerezas maceradas en alcohol neutro"
+    ]
+   ],
+   "e": [
+    "Il Calvados nasce da mele e pere; le mele sono molto più coltivate delle pere.",
+    "Le Calvados est fait de pommes et de poires ; les pommes sont bien plus cultivées que les poires.",
+    "Calvados is made from apples and pears, with apples far more widely grown.",
+    "El calvados se hace con manzanas y peras; las manzanas se cultivan mucho más que las peras."
+   ],
+   "d": [
+    "In Normandia l'uva non cresce bene, quindi non entra nel Calvados. Le pere sono presenti ma in quantità minore, e la frutta deve arrivare dalla zona delimitata, non da tutta la Francia. La macerazione in alcol neutro riguarda altri frutti e altri stili.",
+    "En Normandie, le raisin pousse mal : il n'entre donc pas dans le Calvados. Les poires sont présentes mais en moindre quantité, et les fruits doivent venir de l'aire délimitée, pas de toute la France. La macération en alcool neutre concerne d'autres fruits et d'autres styles.",
+    "Grapes do not grow well in Normandy, so they play no part in Calvados. Pears are used but in smaller amounts, and the fruit must come from the defined area, not anywhere in France. Steeping in neutral spirit belongs to other fruits and styles.",
+    "En Normandía la uva no crece bien, así que no forma parte del calvados. Las peras se usan, pero en menor cantidad, y la fruta debe venir de la zona delimitada, no de toda Francia. La maceración en alcohol neutro corresponde a otras frutas y estilos."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Perché il Calvados si fa con le mele e non con l'uva?",
+    "Pourquoi le Calvados est-il fait de pommes et non de raisin ?",
+    "Why is Calvados made from apples rather than grapes?",
+    "¿Por qué el calvados se hace con manzanas y no con uva?"
+   ],
+   "o": [
+    [
+     "In Normandia la vite non cresce bene",
+     "En Normandie, la vigne pousse mal",
+     "Grapes do not grow well in Normandy",
+     "En Normandía la vid no crece bien"
+    ],
+    [
+     "L'uva normanna è riservata per legge alla produzione di spumante",
+     "Le raisin normand est réservé par la loi aux vins effervescents",
+     "Normandy's grapes are legally reserved for making sparkling wine",
+     "La uva normanda está reservada por ley a los espumosos"
+    ],
+    [
+     "Le mele danno più alcol e permettono di saltare la fermentazione",
+     "Les pommes donnent plus d'alcool et évitent la fermentation",
+     "Apples give more alcohol and let producers skip fermentation",
+     "Las manzanas dan más alcohol y permiten saltarse la fermentación"
+    ],
+    [
+     "L'uva non si può distillare in alambicco discontinuo",
+     "Le raisin ne peut pas être distillé en alambic à repasse",
+     "Grapes cannot be distilled in pot stills",
+     "La uva no se puede destilar en alambique discontinuo"
+    ]
+   ],
+   "e": [
+    "Nel nord della Francia il clima è poco adatto alla vite, mentre i meli prosperano.",
+    "Dans le nord de la France, le climat convient mal à la vigne, alors que les pommiers prospèrent.",
+    "Northern France is poorly suited to vines, while apple trees thrive there.",
+    "En el norte de Francia el clima no es adecuado para la vid, mientras que los manzanos prosperan."
+   ],
+   "d": [
+    "Ogni distillato di frutta nasce dalla frutta coltivata localmente. Le mele, come l'uva, vanno pressate e il succo deve fermentare: nessun frutto permette di saltare la fermentazione. L'uva si distilla benissimo in alambicco discontinuo, come dimostra il Cognac.",
+    "Chaque eau-de-vie de fruits naît des fruits cultivés sur place. Les pommes, comme le raisin, doivent être pressées et leur jus doit fermenter : aucun fruit ne permet de sauter la fermentation. Le raisin se distille très bien en alambic à repasse, comme le prouve le Cognac.",
+    "Every fruit spirit is built on locally grown fruit. Apples, like grapes, must be pressed and their juice fermented: no fruit lets you skip fermentation. Grapes distil perfectly well in pot stills, as Cognac shows.",
+    "Todo destilado de fruta nace de la fruta cultivada en la zona. Las manzanas, como la uva, se prensan y su zumo tiene que fermentar: ninguna fruta permite saltarse la fermentación. La uva se destila perfectamente en alambique discontinuo, como demuestra el coñac."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Quali alambicchi si usano per il Calvados?",
+    "Quels alambics utilise-t-on pour le Calvados ?",
+    "Which stills are used for Calvados?",
+    "¿Qué alambiques se usan para el calvados?"
+   ],
+   "o": [
+    [
+     "Diversi alambicchi discontinui e colonne corte",
+     "Divers alambics à repasse et colonnes courtes",
+     "A variety of pot stills and short columns",
+     "Diversos alambiques discontinuos y columnas cortas"
+    ],
+    [
+     "Solo colonne altissime che producono alcol neutro",
+     "Uniquement de très hautes colonnes produisant de l'alcool neutre",
+     "Only very tall columns that produce neutral spirit",
+     "Solo columnas altísimas que producen alcohol neutro"
+    ],
+    [
+     "Nessun alambicco: la frutta macera direttamente nel distillato",
+     "Aucun alambic : le fruit macère directement dans l'alcool",
+     "No still: the fruit is steeped straight in spirit",
+     "Ningún alambique: la fruta se macera directamente en alcohol"
+    ],
+    [
+     "Solo alambicchi sottovuoto a bassa temperatura",
+     "Uniquement des alambics sous vide à basse température",
+     "Only low-temperature vacuum stills",
+     "Solo alambiques al vacío a baja temperatura"
+    ]
+   ],
+   "e": [
+    "I produttori di Calvados usano alambicchi discontinui e colonne corte per ottenere distillati di carattere.",
+    "Les producteurs de Calvados utilisent alambics à repasse et colonnes courtes pour obtenir des eaux-de-vie de caractère.",
+    "Calvados producers use pot stills and short columns to make characterful spirits.",
+    "Los productores de calvados usan alambiques discontinuos y columnas cortas para obtener destilados con carácter."
+   ],
+   "d": [
+    "L'obiettivo è conservare il profumo della frutta. Una colonna che arriva all'alcol neutro lo cancellerebbe quasi del tutto. Il Calvados nasce da succo fermentato e poi distillato, non da macerazione, e gli alambicchi sottovuoto non fanno parte della sua tradizione.",
+    "Le but est de préserver l'arôme du fruit. Une colonne poussée jusqu'à l'alcool neutre l'effacerait presque entièrement. Le Calvados naît d'un jus fermenté puis distillé, pas d'une macération, et les alambics sous vide ne font pas partie de sa tradition.",
+    "The goal is to keep the aroma of the fruit. A column taken to neutral spirit would wipe most of it out. Calvados comes from fermented, distilled juice, not maceration, and vacuum stills are not part of its tradition.",
+    "El objetivo es conservar el aroma de la fruta. Una columna que llega al alcohol neutro lo borraría casi por completo. El calvados nace de zumo fermentado y destilado, no de maceración, y los alambiques al vacío no forman parte de su tradición."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Perché anche un Calvados molto vecchio conserva un profumo di mela evidente?",
+    "Pourquoi même un très vieux Calvados garde-t-il un arôme de pomme bien net ?",
+    "Why does even a very old Calvados keep a clear apple aroma?",
+    "¿Por qué incluso un calvados muy viejo conserva un aroma claro a manzana?"
+   ],
+   "o": [
+    [
+     "Matura in grandi recipienti di rovere che cedono poco legno",
+     "Il vieillit en grands contenants de chêne qui cèdent peu de bois",
+     "It ages in large oak vessels that give little oak flavour",
+     "Envejece en grandes recipientes de roble que ceden poca madera"
+    ],
+    [
+     "Prima dell'imbottigliamento si aggiunge sempre succo di mela fresco",
+     "On ajoute toujours du jus de pomme frais avant la mise en bouteille",
+     "Fresh apple juice is always added just before bottling",
+     "Siempre se añade zumo de manzana fresco antes de embotellar"
+    ],
+    [
+     "Matura in vetro, senza alcun contatto con il legno",
+     "Il vieillit en verre, sans aucun contact avec le bois",
+     "It ages in glass with no contact with wood",
+     "Envejece en vidrio, sin ningún contacto con la madera"
+    ],
+    [
+     "Si distilla a una gradazione così alta da fissare gli aromi",
+     "On le distille à un degré si élevé qu'il fixe les arômes",
+     "It is distilled so strong that the aromas become fixed",
+     "Se destila tan alto que los aromas quedan fijados"
+    ]
+   ],
+   "e": [
+    "I grandi recipienti danno meno sapore di rovere delle botti, quindi la mela resta in primo piano.",
+    "Les grands contenants donnent moins de goût boisé que les fûts : la pomme reste au premier plan.",
+    "Large vessels give less oak flavour than barrels, so the apple stays in front.",
+    "Los grandes recipientes dan menos sabor a roble que las barricas, así que la manzana sigue en primer plano."
+   ],
+   "d": [
+    "Il Calvados matura in rovere, non in vetro, ma la grande dimensione dei recipienti riduce l'impronta del legno. Aggiungere succo non fa parte della produzione. Una gradazione di distillazione più alta, anzi, ridurrebbe gli aromi invece di fissarli.",
+    "Le Calvados vieillit en chêne, pas en verre, mais la grande taille des contenants limite l'empreinte du bois. Ajouter du jus ne fait pas partie de la production. Un degré de distillation plus élevé réduirait même les arômes au lieu de les fixer.",
+    "Calvados ages in oak, not glass, but the large size of the vessels limits the wood's imprint. Adding juice is not part of production. A higher distillation strength would actually reduce aroma rather than fix it.",
+    "El calvados envejece en roble, no en vidrio, pero el gran tamaño de los recipientes limita la huella de la madera. Añadir zumo no forma parte de la elaboración. Una graduación de destilación más alta, de hecho, reduciría los aromas en lugar de fijarlos."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "In una degustazione alla cieca, un'acquavite molto invecchiata, ambrata, mostra ancora un intenso profumo di mela. Che cosa è più probabile?",
+    "Lors d'une dégustation à l'aveugle, une eau-de-vie très âgée, ambrée, montre encore un arôme intense de pomme. Qu'est-ce le plus probablement ?",
+    "In a blind tasting, a very old amber brandy still shows an intense apple aroma. What is it most likely to be?",
+    "En una cata a ciegas, un destilado muy envejecido y ambarino aún muestra un intenso aroma a manzana. ¿Qué es lo más probable?"
+   ],
+   "o": [
+    [
+     "Un Calvados invecchiato",
+     "Un Calvados âgé",
+     "An aged Calvados",
+     "Un calvados envejecido"
+    ],
+    [
+     "Un Cognac XO di Grande Champagne",
+     "Un Cognac XO de Grande Champagne",
+     "A Grande Champagne XO Cognac",
+     "Un coñac XO de Grande Champagne"
+    ],
+    [
+     "Un Armagnac millesimato ricco di Baco",
+     "Un Armagnac millésimé riche en Baco",
+     "A vintage Armagnac with plenty of Baco",
+     "Un armañac de añada con mucha Baco"
+    ],
+    [
+     "Una grappa riposata due anni in acciaio",
+     "Une grappa reposée deux ans en inox",
+     "A grappa rested two years in steel tanks",
+     "Una grappa reposada dos años en acero"
+    ]
+   ],
+   "e": [
+    "Il Calvados, anche molto vecchio, conserva un profumo di mela pronunciato e riconoscibile.",
+    "Le Calvados, même très vieux, garde un arôme de pomme marqué et reconnaissable.",
+    "Calvados, even when very old, keeps a pronounced, recognisable apple aroma.",
+    "El calvados, incluso muy viejo, conserva un aroma a manzana marcado y reconocible."
+   ],
+   "d": [
+    "Un Cognac XO punterebbe su uva passa, fiori, rovere e rancio; un Armagnac con Baco su note di prugna secca. Una grappa riposata in acciaio sarebbe incolore, non ambrata, e avrebbe note erbacee.",
+    "Un Cognac XO tendrait vers le raisin sec, les fleurs, le chêne et le rancio ; un Armagnac au Baco vers le pruneau. Une grappa reposée en inox serait incolore, pas ambrée, avec des notes herbacées.",
+    "An XO Cognac would lean towards raisin, flowers, oak and rancio, and an Armagnac with Baco towards prunes. A grappa rested in steel would be colourless, not amber, with herbaceous notes.",
+    "Un coñac XO tendería a pasas, flores, roble y rancio, y un armañac con Baco a ciruela pasa. Una grappa reposada en acero sería incolora, no ambarina, y tendría notas herbáceas."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Da che cosa si ottiene la grappa?",
+    "À partir de quoi obtient-on la grappa ?",
+    "What is grappa made from?",
+    "¿De qué se obtiene la grappa?"
+   ],
+   "o": [
+    [
+     "Dalle vinacce",
+     "Du marc de raisin",
+     "Grape pomace",
+     "Del orujo de uva"
+    ],
+    [
+     "Dal vino bianco appena fermentato",
+     "Du vin blanc tout juste fermenté",
+     "Freshly fermented white wine",
+     "Del vino blanco recién fermentado"
+    ],
+    [
+     "Da mele e pere",
+     "De pommes et de poires",
+     "Apples and pears",
+     "De manzanas y peras"
+    ],
+    [
+     "Da uva passa macerata in alcol",
+     "De raisins secs macérés dans l'alcool",
+     "Raisins steeped in spirit",
+     "De pasas maceradas en alcohol"
+    ]
+   ],
+   "e": [
+    "La grappa è l'acquavite di vinaccia italiana, fatta con le bucce lasciate dalla vinificazione.",
+    "La grappa est l'eau-de-vie de marc italienne, faite avec les peaux laissées par la vinification.",
+    "Grappa is Italy's pomace spirit, made from the skins left over from winemaking.",
+    "La grappa es el destilado de orujo italiano, hecho con las pieles que quedan tras elaborar el vino."
+   ],
+   "d": [
+    "Il vino bianco distillato darebbe un'acquavite d'uva, come Cognac o Armagnac, non una grappa. Mele e pere sono la base del Calvados. La grappa nasce da fermentazione e distillazione delle vinacce, non da macerazione.",
+    "Le vin blanc distillé donnerait une eau-de-vie de vin, comme le Cognac ou l'Armagnac, pas une grappa. Pommes et poires sont la base du Calvados. La grappa naît de la fermentation et de la distillation du marc, pas d'une macération.",
+    "Distilled white wine would give a grape brandy like Cognac or Armagnac, not grappa. Apples and pears are the base of Calvados. Grappa comes from fermenting and distilling pomace, not from maceration.",
+    "El vino blanco destilado daría un brandy de vino, como el coñac o el armañac, no una grappa. Las manzanas y las peras son la base del calvados. La grappa nace de fermentar y destilar el orujo, no de una maceración."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Un produttore spagnolo distilla vinacce esattamente come in Italia. Può chiamare il suo distillato grappa?",
+    "Un producteur espagnol distille du marc exactement comme en Italie. Peut-il appeler son eau-de-vie grappa ?",
+    "A Spanish producer distils pomace exactly as in Italy. Can the spirit be called grappa?",
+    "Un productor español destila orujo exactamente como en Italia. ¿Puede llamar grappa a su destilado?"
+   ],
+   "o": [
+    [
+     "No, il nome è riservato all'Italia",
+     "Non, le nom est réservé à l'Italie",
+     "No, the name is reserved for Italy",
+     "No, el nombre está reservado a Italia"
+    ],
+    [
+     "Sì, se usa solo uve di varietà italiane",
+     "Oui, s'il n'utilise que des cépages italiens",
+     "Yes, if only Italian grape varieties are used",
+     "Sí, si usa solo variedades italianas"
+    ],
+    [
+     "Sì, purché il distillato non passi in rovere",
+     "Oui, à condition que l'eau-de-vie ne passe pas en chêne",
+     "Yes, as long as the spirit is never aged in oak",
+     "Sí, siempre que el destilado no pase por roble"
+    ],
+    [
+     "Sì, perché grappa è un termine generico per ogni acquavite di vinaccia",
+     "Oui, car grappa est un terme générique pour tout marc",
+     "Yes, because grappa is a generic word for any pomace spirit",
+     "Sí, porque grappa es un término genérico para cualquier orujo"
+    ]
+   ],
+   "e": [
+    "Solo le acquaviti di vinaccia prodotte in Italia possono chiamarsi grappa.",
+    "Seules les eaux-de-vie de marc produites en Italie peuvent s'appeler grappa.",
+    "Only pomace spirits made in Italy can be called grappa.",
+    "Solo los destilados de orujo elaborados en Italia pueden llamarse grappa."
+   ],
+   "d": [
+    "Il nome dipende dal luogo di produzione, non dal vitigno né dal tipo di affinamento. Le acquaviti di vinaccia si fanno in molti Paesi, Spagna compresa, ma con nomi propri. Grappa non è quindi un termine generico.",
+    "Le nom dépend du lieu de production, pas du cépage ni de l'élevage. Des eaux-de-vie de marc se font dans de nombreux pays, Espagne comprise, mais sous leurs propres noms. Grappa n'est donc pas un terme générique.",
+    "The name depends on where the spirit is made, not on the grape or how it is matured. Pomace spirits are made in many countries, Spain included, but under their own names. Grappa is therefore not a generic term.",
+    "El nombre depende del lugar de elaboración, no de la variedad ni de la crianza. Se elaboran destilados de orujo en muchos países, España incluida, pero con nombres propios. Grappa no es, por tanto, un término genérico."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Come si presenta di solito una grappa classica, non invecchiata?",
+    "Comment se présente généralement une grappa classique, non vieillie ?",
+    "What is a classic unaged grappa usually like?",
+    "¿Cómo suele ser una grappa clásica sin envejecer?"
+   ],
+   "o": [
+    [
+     "Incolore, erbacea, a volte un po' pungente",
+     "Incolore, herbacée, parfois un peu vive",
+     "Colourless, herbaceous, sometimes a little sharp",
+     "Incolora, herbácea, a veces algo punzante"
+    ],
+    [
+     "Ambrata, con note di vaniglia e cocco del legno",
+     "Ambrée, avec des notes de vanille et de coco du bois",
+     "Amber, with vanilla and coconut notes from oak",
+     "Ambarina, con notas de vainilla y coco de la madera"
+    ],
+    [
+     "Dorata, con un intenso profumo di mela cotta",
+     "Dorée, avec un intense arôme de pomme cuite",
+     "Golden, with an intense baked-apple aroma",
+     "Dorada, con un intenso aroma a manzana asada"
+    ],
+    [
+     "Marrone, dolce e cremosa come un liquore",
+     "Brune, sucrée et crémeuse comme une liqueur",
+     "Brown, sweet and creamy like a liqueur",
+     "Marrón, dulce y cremosa como un licor"
+    ]
+   ],
+   "e": [
+    "Senza legno la grappa resta incolore; le bucce le danno note erbacee e una consistenza a volte pungente.",
+    "Sans bois, la grappa reste incolore ; les peaux lui donnent des notes herbacées et une texture parfois vive.",
+    "Without oak grappa stays colourless; the skins give herbaceous notes and a sometimes sharp texture.",
+    "Sin madera la grappa queda incolora; las pieles le dan notas herbáceas y una textura a veces punzante."
+   ],
+   "d": [
+    "Colore ambrato e note di vaniglia e cocco arrivano dal rovere, che per la grappa non è la norma. La mela cotta è tipica del Calvados. La grappa non è un liquore: non è addolcita né cremosa.",
+    "La couleur ambrée et les notes de vanille et de coco viennent du chêne, qui n'est pas la norme pour la grappa. La pomme cuite est typique du Calvados. La grappa n'est pas une liqueur : elle n'est ni sucrée ni crémeuse.",
+    "Amber colour and vanilla and coconut notes come from oak, which is not the norm for grappa. Baked apple is typical of Calvados. Grappa is not a liqueur: it is neither sweetened nor creamy.",
+    "El color ambarino y las notas de vainilla y coco vienen del roble, que no es lo habitual en la grappa. La manzana asada es típica del calvados. La grappa no es un licor: ni está endulzada ni es cremosa."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Che cosa aggiunge una grappa di Moscato rispetto a una grappa da uve neutre?",
+    "Qu'apporte une grappa de Muscat par rapport à une grappa de raisins neutres ?",
+    "What does a Moscato grappa add compared with one from neutral grapes?",
+    "¿Qué aporta una grappa de moscatel frente a una de uvas neutras?"
+   ],
+   "o": [
+    [
+     "Note floreali e fruttate sopra la base erbacea",
+     "Des notes florales et fruitées sur la base herbacée",
+     "Floral and fruity notes over the herbaceous base",
+     "Notas florales y afrutadas sobre la base herbácea"
+    ],
+    [
+     "Un colore dorato dovuto alle bucce aromatiche",
+     "Une couleur dorée due aux peaux aromatiques",
+     "A golden colour from the aromatic skins",
+     "Un color dorado debido a las pieles aromáticas"
+    ],
+    [
+     "Una dolcezza naturale che resta dopo la distillazione",
+     "Une douceur naturelle qui subsiste après distillation",
+     "Natural sweetness that survives distillation",
+     "Un dulzor natural que sobrevive a la destilación"
+    ],
+    [
+     "Note di prugna secca e di rancio tipiche dell'invecchiamento",
+     "Des notes de pruneau et de rancio typiques du vieillissement",
+     "Prune and rancio notes that are typical of long ageing",
+     "Notas de ciruela pasa y rancio típicas del envejecimiento"
+    ]
+   ],
+   "e": [
+    "Il Moscato è un'uva aromatica: i suoi profumi floreali e fruttati si sommano a quelli erbacei della vinaccia.",
+    "Le Muscat est un raisin aromatique : ses arômes floraux et fruités s'ajoutent aux notes herbacées du marc.",
+    "Moscato is an aromatic grape: its floral and fruity aromas sit on top of the pomace's herbaceous notes.",
+    "El moscatel es una uva aromática: sus aromas florales y afrutados se suman a los herbáceos del orujo."
+   ],
+   "d": [
+    "Esprimere il vitigno è uno dei modi in cui le grappe migliori si distinguono. I distillati appena fatti sono incolori e senza zucchero, qualunque sia l'uva. Prugna secca e rancio richiederebbero vitigni come il Baco o un lungo invecchiamento in rovere.",
+    "Exprimer le cépage est l'une des façons dont les meilleures grappas se distinguent. Une eau-de-vie fraîchement distillée est incolore et sans sucre, quel que soit le raisin. Pruneau et rancio supposeraient un cépage comme le Baco ou un long vieillissement en chêne.",
+    "Expressing the grape variety is one of the ways the best grappas stand out. Freshly distilled spirits are colourless and sugar-free whatever the grape. Prune and rancio would point to a grape like Baco or long oak ageing.",
+    "Expresar la variedad es una de las formas en que destacan las mejores grappas. Un destilado recién hecho es incoloro y sin azúcar, sea cual sea la uva. La ciruela pasa y el rancio apuntarían a una variedad como la Baco o a una larga crianza en roble."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Una grappa riposa diciotto mesi in acciaio prima dell'imbottigliamento. Che cosa ci si può aspettare?",
+    "Une grappa repose dix-huit mois en inox avant la mise en bouteille. À quoi peut-on s'attendre ?",
+    "A grappa rests for eighteen months in steel before bottling. What can be expected?",
+    "Una grappa reposa dieciocho meses en acero antes de embotellarse. ¿Qué cabe esperar?"
+   ],
+   "o": [
+    [
+     "Ancora incolore, ma più piena e morbida",
+     "Toujours incolore, mais plus ample et plus douce",
+     "Still colourless, but fuller and smoother",
+     "Sigue incolora, pero más llena y suave"
+    ],
+    [
+     "Un colore dorato e profumi di vaniglia",
+     "Une couleur dorée et des arômes de vanille",
+     "A golden colour and vanilla aromas",
+     "Un color dorado y aromas de vainilla"
+    ],
+    [
+     "Nessun cambiamento: i recipienti inerti non hanno alcun effetto, nemmeno dopo anni",
+     "Aucun changement : les cuves inertes n'ont aucun effet, même après des années",
+     "No change at all: inert vessels have no effect, even after years",
+     "Ningún cambio: los recipientes inertes no tienen efecto, ni siquiera tras años"
+    ],
+    [
+     "Note di rancio come cuoio e funghi",
+     "Des notes de rancio comme le cuir et le champignon",
+     "Rancio notes such as leather and mushroom",
+     "Notas de rancio como cuero y setas"
+    ]
+   ],
+   "e": [
+    "Un riposo di un anno o più in recipienti inerti rende la grappa più piena e morbida, senza darle colore.",
+    "Un repos d'un an ou plus en cuves inertes rend la grappa plus ample et plus douce, sans lui donner de couleur.",
+    "Resting a year or more in inert vessels makes grappa fuller and smoother without adding colour.",
+    "Un reposo de un año o más en recipientes inertes vuelve la grappa más llena y suave, sin darle color."
+   ],
+   "d": [
+    "Dopo qualche mese anche in un recipiente inerte il distillato diventa più morbido e rotondo, quindi è falso dire che non cambia nulla. Colore e vaniglia arrivano solo dal rovere, mentre il rancio nasce da lunghe interazioni tra distillato, legno e ossigeno in botte.",
+    "Au bout de quelques mois, même en cuve inerte, l'eau-de-vie devient plus douce et plus ronde : il est donc faux de dire que rien ne change. La couleur et la vanille ne viennent que du chêne, et le rancio naît de longues interactions entre eau-de-vie, bois et oxygène en fût.",
+    "After some months, even in an inert vessel, a spirit becomes smoother and rounder, so it is wrong to say nothing changes. Colour and vanilla come only from oak, while rancio develops from long interaction between spirit, wood and oxygen in a barrel.",
+    "Tras unos meses, incluso en un recipiente inerte, el destilado se vuelve más suave y redondo, así que es falso que no cambie nada. El color y la vainilla solo vienen del roble, y el rancio nace de una larga interacción entre destilado, madera y oxígeno en barrica."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Quale di questi distillati di frutta matura di norma in rovere?",
+    "Laquelle de ces eaux-de-vie de fruits vieillit normalement en chêne ?",
+    "Which of these fruit spirits is normally matured in oak?",
+    "¿Cuál de estos destilados de fruta se cría normalmente en roble?"
+   ],
+   "o": [
+    [
+     "Calvados",
+     "Calvados",
+     "Calvados",
+     "Calvados"
+    ],
+    [
+     "Grappa classica",
+     "Grappa classique",
+     "Classic grappa",
+     "Grappa clásica"
+    ],
+    [
+     "Pisco peruviano",
+     "Pisco péruvien",
+     "Peruvian pisco",
+     "Pisco peruano"
+    ],
+    [
+     "Armagnac Blanche",
+     "Armagnac Blanche",
+     "Blanche Armagnac",
+     "Armañac Blanche"
+    ]
+   ],
+   "e": [
+    "Come quasi tutte le acquaviti di mele e d'uva, il Calvados matura in rovere, in grandi recipienti.",
+    "Comme la plupart des eaux-de-vie de pomme et de raisin, le Calvados vieillit en chêne, dans de grands contenants.",
+    "Like most apple and grape brandies, Calvados is matured in oak, in large vessels.",
+    "Como casi todos los destilados de manzana y uva, el calvados se cría en roble, en grandes recipientes."
+   ],
+   "d": [
+    "Le acquaviti di vinaccia come la grappa riposano di solito in recipienti inerti. In Perù la legge vieta l'invecchiamento del pisco, e la Blanche è per definizione un Armagnac che non passa in rovere.",
+    "Les eaux-de-vie de marc comme la grappa reposent généralement en cuves inertes. Au Pérou, la loi interdit de vieillir le pisco, et la Blanche est par définition un Armagnac qui ne passe pas en chêne.",
+    "Pomace spirits such as grappa usually rest in inert vessels. In Peru the law requires pisco to be unaged, and Blanche is by definition an Armagnac that never sees oak.",
+    "Los destilados de orujo como la grappa suelen reposar en recipientes inertes. En Perú la ley exige que el pisco no se envejezca, y la Blanche es por definición un armañac que no pasa por roble."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Quali Paesi sono la patria del pisco?",
+    "Quels pays sont la patrie du pisco ?",
+    "Which countries are the home of pisco?",
+    "¿Qué países son la cuna del pisco?"
+   ],
+   "o": [
+    [
+     "Cile e Perù",
+     "Le Chili et le Pérou",
+     "Chile and Peru",
+     "Chile y Perú"
+    ],
+    [
+     "Messico e Spagna",
+     "Le Mexique et l'Espagne",
+     "Mexico and Spain",
+     "México y España"
+    ],
+    [
+     "Argentina e Uruguay",
+     "L'Argentine et l'Uruguay",
+     "Argentina and Uruguay",
+     "Argentina y Uruguay"
+    ],
+    [
+     "Brasile e Colombia",
+     "Le Brésil et la Colombie",
+     "Brazil and Colombia",
+     "Brasil y Colombia"
+    ]
+   ],
+   "e": [
+    "Il pisco è l'acquavite d'uva di Cile e Perù.",
+    "Le pisco est l'eau-de-vie de raisin du Chili et du Pérou.",
+    "Pisco is the grape brandy of Chile and Peru.",
+    "El pisco es el destilado de uva de Chile y Perú."
+   ],
+   "d": [
+    "Messico e Spagna producono acquaviti d'uva e di vinaccia, ma non pisco. Il Brasile è legato alla cachaça, un distillato di canna. Il pisco appartiene ai due Paesi andini sulla costa del Pacifico.",
+    "Le Mexique et l'Espagne produisent des eaux-de-vie de raisin et de marc, mais pas de pisco. Le Brésil est associé à la cachaça, un spiritueux de canne. Le pisco appartient aux deux pays andins de la côte pacifique.",
+    "Mexico and Spain make grape and pomace brandies, but not pisco. Brazil is linked to cachaça, a cane spirit. Pisco belongs to the two Andean countries on the Pacific coast.",
+    "México y España elaboran destilados de uva y de orujo, pero no pisco. Brasil se asocia a la cachaça, un destilado de caña. El pisco pertenece a los dos países andinos de la costa del Pacífico."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Che tipo di uva si usa per il pisco?",
+    "Quel type de raisin utilise-t-on pour le pisco ?",
+    "What kind of grape is used for pisco?",
+    "¿Qué tipo de uva se usa para el pisco?"
+   ],
+   "o": [
+    [
+     "Uve molto aromatiche, come i Moscati",
+     "Des raisins très aromatiques, comme les Muscats",
+     "Highly aromatic grapes such as Muscats",
+     "Uvas muy aromáticas, como los moscateles"
+    ],
+    [
+     "Uve bianche neutre e molto acide, come l'Ugni Blanc",
+     "Des raisins blancs neutres et très acides, comme l'Ugni Blanc",
+     "Neutral, very acidic white grapes like Ugni Blanc",
+     "Uvas blancas neutras y muy ácidas, como la Ugni Blanc"
+    ],
+    [
+     "Solo vinacce di uve nere dopo la vinificazione in rosso",
+     "Uniquement du marc de raisin noir après vinification en rouge",
+     "Only black grape pomace left from red winemaking",
+     "Solo orujo de uva tinta tras la vinificación en tinto"
+    ],
+    [
+     "Uve appassite al sole per concentrare lo zucchero",
+     "Des raisins séchés au soleil pour concentrer le sucre",
+     "Sun-dried grapes to concentrate the sugar",
+     "Uvas secadas al sol para concentrar el azúcar"
+    ]
+   ],
+   "e": [
+    "Il pisco nasce da uve molto aromatiche, in particolare della famiglia del Moscato.",
+    "Le pisco provient de raisins très aromatiques, notamment de la famille du Muscat.",
+    "Pisco is made from highly aromatic grapes, especially the Muscat family.",
+    "El pisco se hace con uvas muy aromáticas, sobre todo de la familia del moscatel."
+   ],
+   "d": [
+    "È il caso classico di distillatori che scelgono uve aromatiche per ottenere profumi d'uva intensi. Le uve neutre e acide come l'Ugni Blanc sono la scelta del Cognac. Il pisco è un'acquavite d'uva, non di vinaccia, e non nasce da uve appassite.",
+    "C'est l'exemple type de distillateurs qui choisissent des raisins aromatiques pour obtenir des arômes de raisin intenses. Les raisins neutres et acides comme l'Ugni Blanc sont le choix du Cognac. Le pisco est une eau-de-vie de raisin, pas de marc, et ne vient pas de raisins séchés.",
+    "It is the classic case of distillers choosing aromatic grapes for intense grape aromas. Neutral, acidic grapes like Ugni Blanc are Cognac's choice. Pisco is a grape brandy, not a pomace spirit, and is not made from dried grapes.",
+    "Es el caso clásico de destiladores que eligen uvas aromáticas para lograr aromas de uva intensos. Las uvas neutras y ácidas como la Ugni Blanc son la elección del coñac. El pisco es un destilado de uva, no de orujo, y no procede de uvas pasificadas."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Con quale tipo di alambicco si produce il pisco?",
+    "Avec quel type d'alambic produit-on le pisco ?",
+    "Which type of still is pisco made in?",
+    "¿En qué tipo de alambique se elabora el pisco?"
+   ],
+   "o": [
+    [
+     "Alambicco discontinuo",
+     "Alambic à repasse",
+     "Pot still",
+     "Alambique discontinuo"
+    ],
+    [
+     "Colonna continua che produce alcol neutro",
+     "Colonne continue produisant de l'alcool neutre",
+     "Continuous column making neutral spirit",
+     "Columna continua que produce alcohol neutro"
+    ],
+    [
+     "Colonna corta tipica dell'Armagnac",
+     "Colonne courte typique de l'Armagnac",
+     "The short column typical of Armagnac",
+     "Columna corta típica del armañac"
+    ],
+    [
+     "Non si distilla: si fa macerare l'uva in alcol",
+     "On ne distille pas : on fait macérer le raisin dans l'alcool",
+     "It is not distilled: grapes are steeped in spirit",
+     "No se destila: se macera la uva en alcohol"
+    ]
+   ],
+   "e": [
+    "Il pisco è un'acquavite distillata in alambicchi discontinui, che ne preservano i profumi.",
+    "Le pisco est distillé en alambics à repasse, qui préservent ses arômes.",
+    "Pisco is distilled in pot stills, which preserve its aromas.",
+    "El pisco se destila en alambiques discontinuos, que conservan sus aromas."
+   ],
+   "d": [
+    "Una colonna che arriva all'alcol neutro cancellerebbe proprio i profumi d'uva per cui il pisco è apprezzato. La colonna corta è una particolarità dell'Armagnac. Il pisco nasce da vino d'uva fermentato e poi distillato, non da macerazione.",
+    "Une colonne poussée jusqu'à l'alcool neutre effacerait justement les arômes de raisin qui font la valeur du pisco. La colonne courte est une spécificité de l'Armagnac. Le pisco naît d'un vin fermenté puis distillé, pas d'une macération.",
+    "A column taken to neutral spirit would remove exactly the grape aromas pisco is valued for. The short column is an Armagnac speciality. Pisco is made by distilling fermented grape wine, not by maceration.",
+    "Una columna que llega al alcohol neutro eliminaría justo los aromas de uva por los que se valora el pisco. La columna corta es una particularidad del armañac. El pisco nace de vino de uva fermentado y destilado, no de una maceración."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Quale affermazione sul pisco peruviano è corretta?",
+    "Quelle affirmation sur le pisco péruvien est exacte ?",
+    "Which statement about Peruvian pisco is correct?",
+    "¿Qué afirmación sobre el pisco peruano es correcta?"
+   ],
+   "o": [
+    [
+     "Per legge non può essere invecchiato",
+     "La loi interdit qu'il soit vieilli",
+     "By law it must be unaged",
+     "Por ley no puede envejecerse"
+    ],
+    [
+     "Deve passare almeno due anni in botti di rovere francese",
+     "Il doit passer au moins deux ans en fûts de chêne français",
+     "It must spend at least two years in French oak barrels",
+     "Debe pasar al menos dos años en barricas de roble francés"
+    ],
+    [
+     "Si fa solo con vinacce di uve nere",
+     "Il est fait uniquement de marc de raisin noir",
+     "It is made only from black grape pomace",
+     "Se hace solo con orujo de uva tinta"
+    ],
+    [
+     "Si distilla sempre in colonne continue",
+     "Il est toujours distillé en colonne continue",
+     "It is always distilled in continuous columns",
+     "Siempre se destila en columnas continuas"
+    ]
+   ],
+   "e": [
+    "In Perù la legge impone che il pisco non sia invecchiato.",
+    "Au Pérou, la loi impose que le pisco ne soit pas vieilli.",
+    "In Peru the law requires pisco to be unaged.",
+    "En Perú la ley exige que el pisco no se envejezca."
+   ],
+   "d": [
+    "Per questo il pisco peruviano punta tutto su profumi puri di frutta e fiori. I due anni in rovere sono il minimo del Cognac, non del pisco. Il pisco è un'acquavite d'uva aromatica distillata in alambicchi discontinui, non un distillato di vinaccia in colonna.",
+    "C'est pourquoi le pisco péruvien mise tout sur des arômes purs de fruits et de fleurs. Les deux ans en chêne sont le minimum du Cognac, pas du pisco. Le pisco est une eau-de-vie de raisin aromatique distillée en alambic à repasse, pas une eau-de-vie de marc en colonne.",
+    "That is why Peruvian pisco relies entirely on pure fruity and floral aromas. Two years in oak is Cognac's minimum, not pisco's. Pisco is an aromatic grape brandy distilled in pot stills, not a column-distilled pomace spirit.",
+    "Por eso el pisco peruano lo apuesta todo a aromas puros de fruta y flores. Los dos años en roble son el mínimo del coñac, no del pisco. El pisco es un destilado de uva aromática hecho en alambique discontinuo, no un orujo destilado en columna."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Un cliente chiede un pisco con un leggero passaggio in legno. Che cosa si può proporre?",
+    "Un client demande un pisco avec un léger passage en bois. Que peut-on lui proposer ?",
+    "A customer asks for a pisco with a light touch of wood. What can be suggested?",
+    "Un cliente pide un pisco con un ligero paso por madera. ¿Qué se le puede proponer?"
+   ],
+   "o": [
+    [
+     "Un pisco cileno brevemente maturato in legno",
+     "Un pisco chilien brièvement élevé en bois",
+     "A Chilean pisco briefly matured in wood",
+     "Un pisco chileno con una breve crianza en madera"
+    ],
+    [
+     "Un pisco peruviano invecchiato per diversi anni in botti nuove",
+     "Un pisco péruvien vieilli plusieurs années en fûts neufs",
+     "A Peruvian pisco aged for several years in new barrels",
+     "Un pisco peruano envejecido varios años en barricas nuevas"
+    ],
+    [
+     "Un pisco XO, perché l'indicazione garantisce sei anni di rovere",
+     "Un pisco XO, car la mention garantit six ans de chêne",
+     "An XO pisco, since the term guarantees six years in oak",
+     "Un pisco XO, porque la mención garantiza seis años de roble"
+    ],
+    [
+     "Nessuno: nessun pisco al mondo può passare in legno",
+     "Aucun : aucun pisco au monde ne peut passer en bois",
+     "None: no pisco anywhere may touch wood",
+     "Ninguno: ningún pisco del mundo puede pasar por madera"
+    ]
+   ],
+   "e": [
+    "In Cile esistono pisco maturati in legno, di solito per poco tempo per conservare il frutto.",
+    "Au Chili, il existe des piscos élevés en bois, en général brièvement pour garder le fruit.",
+    "Chile makes some wood-matured piscos, usually for a short time to keep the fruit.",
+    "En Chile hay piscos criados en madera, normalmente poco tiempo para conservar la fruta."
+   ],
+   "d": [
+    "Il divieto di invecchiamento vale per il Perù, non per il Cile, quindi è falso che nessun pisco possa passare in legno. Le indicazioni d'età come XO sono definite per legge solo nelle zone francesi tutelate: fuori da lì non garantiscono nulla.",
+    "L'interdiction de vieillissement vaut pour le Pérou, pas pour le Chili : il est donc faux qu'aucun pisco ne puisse passer en bois. Les mentions d'âge comme XO ne sont définies par la loi que dans les régions françaises protégées ; ailleurs, elles ne garantissent rien.",
+    "The ban on ageing applies in Peru, not Chile, so it is wrong that no pisco may touch wood. Age terms such as XO are only legally defined in the protected French regions; elsewhere they guarantee nothing.",
+    "La prohibición de envejecer rige en Perú, no en Chile, así que es falso que ningún pisco pueda pasar por madera. Las indicaciones de edad como XO solo están definidas por ley en las zonas francesas protegidas; fuera de ellas no garantizan nada."
+   ]
+  },
+  {
+   "c": "s2",
+   "q": [
+    "Per che cosa si distinguono i migliori pisco?",
+    "Par quoi se distinguent les meilleurs piscos ?",
+    "What are the best piscos noted for?",
+    "¿Por qué destacan los mejores piscos?"
+   ],
+   "o": [
+    [
+     "Aromi puri e intensi di frutta e fiori",
+     "Des arômes purs et intenses de fruits et de fleurs",
+     "Pure, pronounced fruity and floral aromas",
+     "Aromas puros e intensos a fruta y flores"
+    ],
+    [
+     "Note di rancio e rovere dopo decenni di botte",
+     "Des notes de rancio et de chêne après des décennies en fût",
+     "Rancio and oak notes after decades in cask",
+     "Notas de rancio y roble tras décadas en barrica"
+    ],
+    [
+     "Note erbacee e speziate tipiche della vinaccia",
+     "Des notes herbacées et épicées typiques du marc",
+     "The herbaceous, spicy notes typical of pomace",
+     "Notas herbáceas y especiadas típicas del orujo"
+    ],
+    [
+     "Un profilo quasi neutro, ideale da usare come la vodka",
+     "Un profil presque neutre, à utiliser comme une vodka",
+     "An almost neutral profile, to be used just like vodka",
+     "Un perfil casi neutro, para usar como el vodka"
+    ]
+   ],
+   "e": [
+    "Uve aromatiche, alambicco discontinuo e niente o poco legno danno profumi puri di frutta e fiori.",
+    "Raisins aromatiques, alambic à repasse et peu ou pas de bois donnent des arômes purs de fruits et de fleurs.",
+    "Aromatic grapes, pot stills and little or no wood give pure fruity and floral aromas.",
+    "Uvas aromáticas, alambique discontinuo y poca o ninguna madera dan aromas puros a fruta y flores."
+   ],
+   "d": [
+    "Rancio e rovere richiedono un lungo invecchiamento in botte, estraneo alla maggior parte dei pisco. Le note erbacee sono il segno delle acquaviti di vinaccia come la grappa. Un profilo neutro sarebbe l'opposto di ciò che le uve aromatiche vogliono dare.",
+    "Le rancio et le boisé demandent un long vieillissement en fût, étranger à la plupart des piscos. Les notes herbacées signent les eaux-de-vie de marc comme la grappa. Un profil neutre serait à l'opposé de ce que les raisins aromatiques doivent apporter.",
+    "Rancio and oak need long cask ageing, which most piscos never get. Herbaceous notes are the mark of pomace spirits like grappa. A neutral profile would be the opposite of what aromatic grapes are chosen for.",
+    "El rancio y el roble requieren una larga crianza en barrica, ajena a la mayoría de los piscos. Las notas herbáceas son la seña de los destilados de orujo como la grappa. Un perfil neutro sería lo contrario de lo que buscan las uvas aromáticas."
+   ]
+  }
+ ],
+ "flash": [
+  {
+   "c": "s1",
+   "f": [
+    "Vinaccia",
+    "Marc",
+    "Pomace",
+    "Orujo"
+   ],
+   "b": [
+    "Bucce (con vinaccioli e raspi) lasciate dopo la vinificazione; dà note erbacee e speziate.",
+    "Peaux (avec pépins et rafles) restant après la vinification ; notes herbacées et épicées.",
+    "Skins (with seeds and stalks) left after winemaking; gives herbaceous, spicy notes.",
+    "Pieles (con pepitas y raspones) que quedan tras elaborar el vino; notas herbáceas y especiadas."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Ugni Blanc",
+    "Ugni Blanc",
+    "Ugni Blanc",
+    "Ugni Blanc"
+   ],
+   "b": [
+    "Uva bianca principale di Cognac e Armagnac: vino neutro, distillato con uva passa e violetta.",
+    "Cépage blanc majeur du Cognac et de l'Armagnac : vin neutre, eau-de-vie au raisin sec et à la violette.",
+    "Main white grape of Cognac and Armagnac: neutral wine, spirit with raisin and violet.",
+    "Uva blanca principal del coñac y el armañac: vino neutro, destilado con pasas y violeta."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Serpentina a bagno (Cognac)",
+    "Serpentin dans sa cuve (Cognac)",
+    "Worm tub (Cognac)",
+    "Serpentín en depósito (coñac)"
+   ],
+   "b": [
+    "Condensatore antico obbligatorio: tubo di rame a spirale immerso in una vasca d'acqua fredda.",
+    "Condenseur ancien obligatoire : tuyau de cuivre en spirale plongé dans une cuve d'eau froide.",
+    "Required old-style condenser: a coiled copper pipe sitting in a tank of cold water.",
+    "Condensador antiguo obligatorio: tubo de cobre en espiral sumergido en un depósito de agua fría."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Grande Champagne",
+    "Grande Champagne",
+    "Grande Champagne",
+    "Grande Champagne"
+   ],
+   "b": [
+    "Sottozona di Cognac considerata la migliore; in etichetta significa 100% uve da lì.",
+    "Cru de Cognac jugé le meilleur ; sur l'étiquette, 100 % des raisins en proviennent.",
+    "Cognac sub-region seen as the best; on a label, 100% of the grapes come from there.",
+    "Subzona del coñac considerada la mejor; en la etiqueta, el 100 % de la uva viene de allí."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Fine Champagne",
+    "Fine Champagne",
+    "Fine Champagne",
+    "Fine Champagne"
+   ],
+   "b": [
+    "Cognac da Grande Champagne (almeno 50%) e Petite Champagne.",
+    "Cognac de Grande Champagne (au moins 50 %) et de Petite Champagne.",
+    "Cognac blended from Grande Champagne (at least 50%) and Petite Champagne.",
+    "Coñac de Grande Champagne (al menos 50 %) y Petite Champagne."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "VS, VSOP, XO: che cosa garantiscono?",
+    "VS, VSOP, XO : que garantissent-ils ?",
+    "VS, VSOP, XO: what do they guarantee?",
+    "VS, VSOP, XO: ¿qué garantizan?"
+   ],
+   "b": [
+    "L'età minima del distillato più giovane del blend.",
+    "L'âge minimum de l'eau-de-vie la plus jeune de l'assemblage.",
+    "The minimum age of the youngest spirit in the blend.",
+    "La edad mínima del destilado más joven de la mezcla."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Baco",
+    "Baco",
+    "Baco",
+    "Baco"
+   ],
+   "b": [
+    "Vitigno dell'Armagnac che dona spesso un tipico profumo di prugna secca.",
+    "Cépage de l'Armagnac qui apporte souvent un arôme typique de pruneau.",
+    "Armagnac grape that often gives a characteristic prune aroma.",
+    "Variedad del armañac que suele aportar un aroma típico de ciruela pasa."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Folle Blanche",
+    "Folle Blanche",
+    "Folle Blanche",
+    "Folle Blanche"
+   ],
+   "b": [
+    "Vitigno dell'Armagnac dai profumi floreali e fruttati intensi; ideale per la Blanche.",
+    "Cépage de l'Armagnac aux arômes floraux et fruités marqués ; idéal pour la Blanche.",
+    "Armagnac grape with pronounced floral and fruity aromas; ideal for Blanche.",
+    "Variedad del armañac con aromas florales y afrutados intensos; ideal para la Blanche."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Blanche (Armagnac)",
+    "Blanche (Armagnac)",
+    "Blanche (Armagnac)",
+    "Blanche (armañac)"
+   ],
+   "b": [
+    "Armagnac mai passato in rovere, quindi incolore. Nel Cognac non esiste un equivalente.",
+    "Armagnac jamais passé en chêne, donc incolore. Aucun équivalent en Cognac.",
+    "Armagnac never matured in oak, so colourless. Cognac has no equivalent.",
+    "Armañac que nunca pasa por roble, por eso incoloro. El coñac no tiene equivalente."
+   ]
+  },
+  {
+   "c": "s1",
+   "f": [
+    "Château (etichetta di Armagnac)",
+    "Château (étiquette d'Armagnac)",
+    "Château (on an Armagnac label)",
+    "Château (etiqueta de armañac)"
+   ],
+   "b": [
+    "Indica un piccolo produttore individuale, la norma in Armagnac.",
+    "Désigne un petit producteur individuel, la norme en Armagnac.",
+    "Signals a small individual producer, the norm in Armagnac.",
+    "Indica un pequeño productor individual, lo habitual en el armañac."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Calvados",
+    "Calvados",
+    "Calvados",
+    "Calvados"
+   ],
+   "b": [
+    "Acquavite di mele (e pere) della Normandia, nel nord della Francia.",
+    "Eau-de-vie de pomme (et de poire) de Normandie, dans le nord de la France.",
+    "Apple (and pear) brandy from Normandy, northern France.",
+    "Aguardiente de manzana (y pera) de Normandía, en el norte de Francia."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Perché il Calvados vecchio sa ancora di mela?",
+    "Pourquoi un vieux Calvados sent-il encore la pomme ?",
+    "Why does old Calvados still smell of apple?",
+    "¿Por qué el calvados viejo sigue oliendo a manzana?"
+   ],
+   "b": [
+    "Matura in grandi recipienti di rovere, che cedono poco sapore di legno.",
+    "Il vieillit en grands contenants de chêne, qui cèdent peu de goût boisé.",
+    "It ages in large oak vessels, which give little oak flavour.",
+    "Envejece en grandes recipientes de roble, que ceden poco sabor a madera."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Grappa",
+    "Grappa",
+    "Grappa",
+    "Grappa"
+   ],
+   "b": [
+    "Acquavite di vinaccia prodotta solo in Italia; di solito incolore ed erbacea.",
+    "Eau-de-vie de marc produite uniquement en Italie ; en général incolore et herbacée.",
+    "Pomace spirit made only in Italy; usually colourless and herbaceous.",
+    "Destilado de orujo elaborado solo en Italia; normalmente incoloro y herbáceo."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Grappa di Moscato",
+    "Grappa de Muscat",
+    "Moscato grappa",
+    "Grappa de moscatel"
+   ],
+   "b": [
+    "Uva aromatica: note floreali e fruttate sopra la base erbacea.",
+    "Raisin aromatique : notes florales et fruitées sur la base herbacée.",
+    "Aromatic grape: floral and fruity notes over the herbaceous base.",
+    "Uva aromática: notas florales y afrutadas sobre la base herbácea."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Riposo in recipienti inerti",
+    "Repos en cuves inertes",
+    "Resting in inert vessels",
+    "Reposo en recipientes inertes"
+   ],
+   "b": [
+    "Un anno o più: consistenza più piena e morbida, nessun colore aggiunto.",
+    "Un an ou plus : texture plus ample et douce, aucune couleur ajoutée.",
+    "A year or more: fuller, smoother texture with no added colour.",
+    "Un año o más: textura más llena y suave, sin color añadido."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Pisco",
+    "Pisco",
+    "Pisco",
+    "Pisco"
+   ],
+   "b": [
+    "Acquavite d'uva di Cile e Perù, da uve aromatiche (Moscati), in alambicco discontinuo.",
+    "Eau-de-vie de raisin du Chili et du Pérou, de raisins aromatiques (Muscats), en alambic à repasse.",
+    "Grape brandy from Chile and Peru, from aromatic Muscat grapes, pot-distilled.",
+    "Destilado de uva de Chile y Perú, de uvas aromáticas (moscateles), en alambique discontinuo."
+   ]
+  },
+  {
+   "c": "s2",
+   "f": [
+    "Pisco: Perù o Cile?",
+    "Pisco : Pérou ou Chili ?",
+    "Pisco: Peru or Chile?",
+    "Pisco: ¿Perú o Chile?"
+   ],
+   "b": [
+    "Perù: sempre non invecchiato per legge. Cile: alcuni con breve passaggio in legno.",
+    "Pérou : toujours non vieilli, selon la loi. Chili : certains brièvement passés en bois.",
+    "Peru: always unaged by law. Chile: some briefly matured in wood.",
+    "Perú: siempre sin envejecer por ley. Chile: algunos con un breve paso por madera."
+   ]
+  }
+ ]
+}
