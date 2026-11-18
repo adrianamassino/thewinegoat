@@ -1,47 +1,125 @@
 {
 "en": {
 "sections": [
-{"h2": "Study notes: a complete study system for the WSET Diploma"},
-{"p": "The WSET Diploma study tips that matter most are not tricks but systems: a calendar you can keep for eighteen months or more, notes that grow instead of being rewritten, a reliable method for written answers and a tasting routine that calibrates your palate. These notes build on the advice above with concrete methods, templates and checklists you can start using today, even while you are still finishing WSET Level 3."},
-{"h2": "Plan the Diploma backwards from each exam"},
-{"p": "A Diploma study plan works best when it is built backwards from fixed exam dates. Around 500 hours in total sounds abstract; divided across units and weeks it becomes a weekly target you can protect in your diary."},
-{"ol": [
+{
+"h2": "Study notes: a complete study system for the WSET Diploma"
+},
+{
+"p": "The WSET Diploma study tips that matter most are not tricks but systems: a calendar you can keep for eighteen months or more, notes that grow instead of being rewritten, a reliable method for written answers and a tasting routine that calibrates your palate. These notes build on the advice above with concrete methods, templates and checklists you can start using today, even while you are still finishing WSET Level 3."
+},
+{
+"h2": "Plan the Diploma backwards from each exam"
+},
+{
+"p": "A Diploma study plan works best when it is built backwards from fixed exam dates. Around 500 hours in total sounds abstract; divided across units and weeks it becomes a weekly target you can protect in your diary."
+},
+{
+"ol": [
 "Write down every exam date and coursework deadline you know, unit by unit.",
 "Give each unit a share of time that reflects its size: D3 needs far more weeks than D4 or D5.",
 "Reserve the final four to six weeks before each exam for revision, timed answers and mock tastings only.",
 "Split the remaining weeks into topics, for example one region or one production theme per week.",
 "Block fixed weekly slots in your diary for theory, writing and tasting, and treat them like appointments.",
 "Review the plan once a month and move topics, not exam dates, when life gets in the way."
-]},
-{"tip": "Plan for disruption. Work peaks, travel and illness will happen during a long qualification. A plan with one empty catch-up week every month survives; a plan with no slack collapses at the first busy period."},
-{"h2": "Notes that grow: one template for every region"},
-{"p": "The most effective Diploma notes use the same template for every region, so that you can compare places quickly and spot gaps. Instead of copying a textbook, write short answers to fixed questions and add examples as you find them."},
-{"table": {"head": ["Heading", "What to write", "Why it matters in the exam"], "rows": [
-["Climate and weather", "Climate type, main risks (frost, rain, heat, drought), vintage variation", "Explains ripeness, acidity, yield and price differences"],
-["Site and soil", "Altitude, aspect, slopes, soils and water availability", "Supports quality arguments and appellation hierarchies"],
-["Grapes", "Main varieties, the style each gives here, blending partners", "Basis of most questions and tasting conclusions"],
-["Vineyard", "Training, density, irrigation, harvest method, yields, sustainability", "Links cost, quality and style"],
-["Winery", "Fermentation, extraction, oak, lees, blending, sweetness", "Explains style choices and quality levels"],
-["Law and labels", "Appellations, categories, ageing terms, recent changes", "Frequent in short questions; precision earns marks"],
-["Business", "Main producers, markets, price bands, trends", "Lets you discuss commercial reality, as D2 and D3 expect"],
-["Examples", "Two or three named wines or producers with a reason", "Concrete examples lift answers to higher grades"]
-]}},
-{"p": "Keep the notes digital or in a ring binder so you can insert new facts. Every time you read an article, taste a wine or finish a class, add one line to the right region. After a year, the file becomes your personal revision book, built by you and therefore much easier to remember."},
-{"h2": "A method for Diploma written answers"},
-{"p": "Strong WSET Diploma written answers share the same structure: they answer the question asked, make a clear point, explain the cause, support it with an example and link back to the question. Practising this pattern until it is automatic is the best way to gain marks under time pressure."},
-{"h3": "Point, explain, example, link"},
-{"ul": [
+]
+},
+{
+"tip": "Plan for disruption. Work peaks, travel and illness will happen during a long qualification. A plan with one empty catch-up week every month survives; a plan with no slack collapses at the first busy period."
+},
+{
+"h2": "Notes that grow: one template for every region"
+},
+{
+"p": "The most effective Diploma notes use the same template for every region, so that you can compare places quickly and spot gaps. Instead of copying a textbook, write short answers to fixed questions and add examples as you find them."
+},
+{
+"table": {
+"head": [
+"Heading",
+"What to write",
+"Why it matters in the exam"
+],
+"rows": [
+[
+"Climate and weather",
+"Climate type, main risks (frost, rain, heat, drought), vintage variation",
+"Explains ripeness, acidity, yield and price differences"
+],
+[
+"Site and soil",
+"Altitude, aspect, slopes, soils and water availability",
+"Supports quality arguments and appellation hierarchies"
+],
+[
+"Grapes",
+"Main varieties, the style each gives here, blending partners",
+"Basis of most questions and tasting conclusions"
+],
+[
+"Vineyard",
+"Training, density, irrigation, harvest method, yields, sustainability",
+"Links cost, quality and style"
+],
+[
+"Winery",
+"Fermentation, extraction, oak, lees, blending, sweetness",
+"Explains style choices and quality levels"
+],
+[
+"Law and labels",
+"Appellations, categories, ageing terms, recent changes",
+"Frequent in short questions; precision earns marks"
+],
+[
+"Business",
+"Main producers, markets, price bands, trends",
+"Lets you discuss commercial reality, as D2 and D3 expect"
+],
+[
+"Examples",
+"Two or three named wines or producers with a reason",
+"Concrete examples lift answers to higher grades"
+]
+]
+}
+},
+{
+"p": "Keep the notes digital or in a ring binder so you can insert new facts. Every time you read an article, taste a wine or finish a class, add one line to the right region. After a year, the file becomes your personal revision book, built by you and therefore much easier to remember."
+},
+{
+"h2": "A method for Diploma written answers"
+},
+{
+"p": "Strong WSET Diploma written answers share the same structure: they answer the question asked, make a clear point, explain the cause, support it with an example and link back to the question. Practising this pattern until it is automatic is the best way to gain marks under time pressure."
+},
+{
+"h3": "Point, explain, example, link"
+},
+{
+"ul": [
 "Point: state one factor that answers the question, for example the cool climate.",
 "Explain: give the cause and effect, for example slow ripening that preserves acidity and aromatic compounds.",
 "Example: name a precise region, producer or technique that illustrates it.",
 "Link: say how this affects style, quality or price, and therefore answers the question."
-]},
-{"h3": "Before you start writing"},
-{"p": "Spend the first minutes of each question underlining the command words and the scope. Explain asks for causes, discuss asks for several viewpoints and a conclusion, compare asks for similarities and differences. Then jot down a short plan of the points you will make. Answers that follow a plan are clearer, more balanced and less likely to drift off topic."},
-{"tip": "Mark your practice answers against the question, not against your notes. A common mistake is to write everything you know about a region; examiners only reward what answers the question. If a paragraph would fit any question about that region, it probably does not answer this one."},
-{"h2": "Tasting: calibrate with classic examples"},
-{"p": "Calibrating your tasting scales is the fastest way to improve Diploma tasting marks. Taste classic examples side by side so that high, medium and low mean the same thing to you every time."},
-{"ul": [
+]
+},
+{
+"h3": "Before you start writing"
+},
+{
+"p": "Spend the first minutes of each question underlining the command words and the scope. Explain asks for causes, discuss asks for several viewpoints and a conclusion, compare asks for similarities and differences. Then jot down a short plan of the points you will make. Answers that follow a plan are clearer, more balanced and less likely to drift off topic."
+},
+{
+"tip": "Mark your practice answers against the question, not against your notes. A common mistake is to write everything you know about a region; examiners only reward what answers the question. If a paragraph would fit any question about that region, it probably does not answer this one."
+},
+{
+"h2": "Tasting: calibrate with classic examples"
+},
+{
+"p": "Calibrating your tasting scales is the fastest way to improve Diploma tasting marks. Taste classic examples side by side so that high, medium and low mean the same thing to you every time."
+},
+{
+"ul": [
 "High acidity: Mosel Riesling, Chablis, Loire Sauvignon Blanc.",
 "High tannin: Barolo or Barbaresco, Madiran, young Bordeaux from a good vintage.",
 "Low tannin and light body: Beaujolais, many simple Pinot Noirs.",
@@ -49,70 +127,350 @@
 "Low alcohol: German Kabinett Riesling, Moscato d'Asti.",
 "Pronounced aromatics: Gewurztraminer, Marlborough Sauvignon Blanc, Muscat.",
 "Obvious oak: Rioja Gran Reserva with American oak, oaked white Burgundy or Californian Chardonnay."
-]},
-{"p": "Organise a tasting group that meets weekly or fortnightly. Each member brings wines wrapped in bags, everyone writes full notes in silence, then you compare. Discuss the conclusions last: the goal is to agree on structure and quality first. Rotate who chooses the theme so that every region comes up during the year."},
-{"h2": "Common traps for Diploma candidates"},
-{"ul": [
+]
+},
+{
+"p": "Organise a tasting group that meets weekly or fortnightly. Each member brings wines wrapped in bags, everyone writes full notes in silence, then you compare. Discuss the conclusions last: the goal is to agree on structure and quality first. Rotate who chooses the theme so that every region comes up during the year."
+},
+{
+"h2": "Common traps for Diploma candidates"
+},
+{
+"ul": [
 "Reading passively for hours and confusing familiarity with memory: test yourself instead.",
 "Leaving D3 regions you dislike until the end, where they become the weak spot in the exam.",
 "Writing tasting notes without a quality justification, or with reasons that do not match the description.",
 "Ignoring the business side: prices, markets and producers are part of good answers in several units.",
 "Studying alone for months: a study partner exposes gaps and keeps motivation high."
-]},
-{"h2": "Revise in 15 minutes a day"},
-{"p": "Even on the busiest days, fifteen minutes keeps the Diploma moving. Use five minutes for spaced-repetition questions on one region, five minutes to update the template for that region and five minutes to write one paragraph using point, explain, example, link. On lighter days, extend to a full timed question or a tasting. Many candidates keep their Level 3 foundations sharp by practising in the app during commutes."}
+]
+},
+{
+"h2": "Revise in 15 minutes a day"
+},
+{
+"p": "Even on the busiest days, fifteen minutes keeps the Diploma moving. Use five minutes for spaced-repetition questions on one region, five minutes to update the template for that region and five minutes to write one paragraph using point, explain, example, link. On lighter days, extend to a full timed question or a tasting. Many candidates keep their Level 3 foundations sharp by practising in the app during commutes."
+},
+{
+"h2": "A sample Diploma study calendar over about 18 months"
+},
+{
+"p": "A Diploma calendar is easier to keep when every phase has a clear output, not just a list of chapters. The outline below is an example to adapt, not a fixed rule: schools order the units differently, and some candidates sit several units close together while others spread them over two or three years. What matters is that each phase ends with something you can check, such as a set of notes, a number of timed answers or a series of blind tastings."
+},
+{
+"table": {
+"head": [
+"Phase",
+"Approximate timing",
+"Main focus",
+"Output to check"
+],
+"rows": [
+[
+"Foundation",
+"Months 1–2",
+"Review Level 3 regions and production; set up your note template and tasting group",
+"One template page per major region and a weekly tasting slot that actually happens"
+],
+[
+"First units",
+"Months 3–6",
+"The units your school schedules first, often the compact ones",
+"Timed answers on every topic of the unit and a full mock before the exam"
+],
+[
+"D3 cycle one",
+"Months 6–11",
+"Every region of the world once, at a steady pace",
+"A complete set of regional notes and one written answer per region"
+],
+[
+"D3 cycle two",
+"Months 11–15",
+"All regions again, faster, with comparisons between them",
+"Comparison tables, timed answers on random regions, blind flights by theme"
+],
+[
+"Final revision",
+"Last 4–6 weeks before each exam",
+"Mock papers, timed tastings, weak topics only",
+"At least two full mock papers in exam conditions"
+],
+[
+"Research and business",
+"Alongside the other phases",
+"Reading for D2 and planning D6",
+"A trade-news log and a research plan with sources noted as you go"
+]
+]
+}
+},
+{
+"p": "Notice that the business reading and the research assignment run in the background for the whole period. Candidates who leave them for a single block at the end often find that they lack examples and sources, while ten minutes of trade reading a few times a week builds both without much effort."
+},
+{
+"h2": "Active recall for D3: build your own question bank"
+},
+{
+"p": "Reading notes again feels productive but is a weak way to remember them. Active recall, that is answering questions from memory, is far more effective, and for the Diploma the best questions are often the ones you write yourself, because writing them forces you to decide what really matters in each region."
+},
+{
+"ol": [
+"After studying a region, write ten short questions on it: three on climate and site, three on grapes and winemaking, two on law and labels, two on business and price.",
+"Add two open questions that start with why or how, for example why a region's best sites are on slopes.",
+"Answer the short questions from memory two days later, then a week later, then a month later, and mark the ones you miss.",
+"Answer one open question each week in writing, under time pressure, using the point, explain, example, link structure.",
+"Swap question sets with your study partner: questions written by someone else reveal gaps your own questions hide."
+]
+},
+{
+"p": "Over a full D3 cycle this produces several hundred questions that are perfectly adapted to the syllabus you are studying. Keep them in one place, tagged by region, so that in the final weeks you can draw random sets that mix the whole world."
+},
+{
+"h2": "Worked example: from a weak paragraph to a strong one"
+},
+{
+"p": "Imagine a practice question of our own: explain why the best vineyards of the Mosel are found on steep slopes close to the river. A weak paragraph might read: the Mosel is cool and the slopes are steep and made of slate, so the wines are high in acidity and low in alcohol, and Riesling is the main grape. Every statement is true, but the paragraph lists facts without explaining them, and it does not answer the question asked, which is about why the slopes matter."
+},
+{
+"p": "A stronger paragraph makes one point at a time. The Mosel is at the northern limit for quality grape growing, so ripening is the main challenge. Steep slopes facing south or south-west receive sunlight at a more direct angle, which increases the heat reaching the vines and helps grapes ripen. The river reflects light and moderates temperatures, reducing the risk of frost on the lower slopes. Slate soils absorb heat during the day and release it at night, adding warmth around the vines. As a result, sites with these conditions can ripen Riesling fully in most years while keeping its high acidity, which is why the most famous vineyards are on these slopes even though working them is slow and costly."
+},
+{
+"p": "The second version uses the same knowledge but organises it as causes and effects and ends by linking back to the question, including the commercial consequence of the cost of working steep vineyards. Rewriting your own weak paragraphs in this way, once a week, is one of the fastest ways to raise your written marks."
+},
+{
+"h2": "Tasting drills that build Diploma skills"
+},
+{
+"h3": "Flights organised by structure"
+},
+{
+"p": "Instead of tasting wines by region, line up three or four wines that differ mainly in one structural element, for example acidity or tannin, and place them in order before writing anything else. This trains the scales that every conclusion depends on. Repeat the exercise with alcohol, body and sweetness, and come back to it whenever your group disagrees on levels."
+},
+{
+"h3": "Paired comparisons"
+},
+{
+"p": "Pairs of wines that are easy to confuse teach more than random flights, because they force you to look for the decisive difference. Write a full note for both, then list the two or three features that separate them."
+},
+{
+"ul": [
+"Chablis and an unoaked cool-climate Chardonnay from another country: intensity, acidity, fruit ripeness.",
+"Northern Rhône Syrah and Barossa Shiraz: fruit character, alcohol, pepper versus sweet spice.",
+"Barolo and a structured Sangiovese: colour, tannin texture, aromatic profile.",
+"Sancerre and Marlborough Sauvignon Blanc: aromatic intensity, herbaceous versus tropical notes.",
+"Fino and Manzanilla, or a tawny and a colheita-style port, when you prepare the fortified wines."
+]
+},
+{
+"h3": "Timed notes"
+},
+{
+"p": "Once your notes are accurate, start timing them. Give yourself a fixed number of minutes per wine and stop writing when time is up, even if the note feels unfinished. Accuracy under time pressure is a different skill from accuracy at home, and it improves only with practice. Check every note for consistency: the quality conclusion must follow from the balance, intensity, complexity and length you described."
+},
+{
+"h2": "Studying D1 and D2 without working in the trade"
+},
+{
+"p": "Many Diploma candidates come from other careers. They can do very well, but they need to replace the daily exposure that colleagues in wineries, shops and import companies take for granted."
+},
+{
+"ul": [
+"Visit wineries with a list of questions on vineyard decisions, fermentation choices and costs, and note the answers in your templates.",
+"Follow trade news every week and record one example of a price change, a new market or a production trend.",
+"Look at the shelves of a large wine shop and ask yourself why each category sits at its price point.",
+"Read technical sheets on producer websites: they give yields, fermentation vessels, ageing times and volumes you can quote.",
+"Ask people who work in the trade to read one of your business answers and say whether it reflects reality."
+]
+},
+{
+"h2": "The week before each Diploma exam"
+},
+{
+"ol": [
+"Stop learning new material: revise your notes and your own question bank only.",
+"Write two or three timed answers on random topics of the unit, then compare them with your best earlier answers.",
+"If the unit includes tasting, run one or two short timed tastings and keep your palate in good condition: sleep, water, no strong flavours before sessions.",
+"Check the practical details with your provider: location, timetable, identification, what you may bring.",
+"Plan the day before the exam as a light day, with a short review and an early night."
+]
+},
+{
+"h2": "Where The Wine Goat fits in your Diploma plan today"
+},
+{
+"p": "To be clear about what exists today: Diploma (Level 4) content is in preparation in The Wine Goat and is not available yet. What the app offers now is complete Level 3 preparation, which is the foundation the Diploma builds on: multiple-choice questions across the whole syllabus, short written answers marked against key points, SAT tasting notes and timed mock exams."
+},
+{
+"p": "That foundation matters because the Level 3 exam already has the same logic of separate assessment. Level 3 has two separate units, theory and tasting, and you need at least 55% in each; a strong result in one unit does not compensate for the other, and a failed unit is retaken on its own. Candidates who learn to prepare both units with equal care at Level 3 carry that discipline into the Diploma, where tasting and theory are again assessed in their own right."
+},
+{
+"tip": "If you are between Level 3 and the Diploma, keep your Level 3 knowledge active with a few minutes of questions each day, and start your regional templates now: everything you write will be reused in D3."
+}
 ],
 "faq": [
-["How should I take notes for the WSET Diploma?", "Use one template for every region with fixed headings: climate, site and soil, grapes, vineyard, winery, law and labels, business and examples. Write short answers instead of copying texts, and add a line every time you read or taste something new. Notes that grow over time are easier to revise and to compare across regions."],
-["How do I write better answers for the WSET Diploma?", "Plan briefly before writing, then build each paragraph around one point, its cause and effect, a precise example and a link back to the question. Respect command words such as explain, discuss and compare. Practise under timed conditions and mark your answers against the question, not against your notes."],
-["How many wines should I taste per week for the WSET Diploma?", "There is no official number, but regular blind tasting matters more than volume. Many candidates aim for at least one structured session a week with several wines and full written notes. A tasting group makes this affordable, because the cost of bottles is shared and you can compare your scales."],
-["Is a study group useful for the WSET Diploma?", "Yes, for most candidates. A group shares the cost of wines, gives feedback on tasting notes and written answers, and keeps everyone on schedule over a long qualification. Keep it focused: agree a theme for each meeting, taste blind, write notes before discussing, and finish with one or two practice questions."],
-["What is the best way to revise for the D3 exam?", "Cycle through all regions several times rather than studying each one once in depth. Use a fixed template, test yourself with questions, write timed answers on random regions and taste across the whole syllabus. Reserve the final weeks before the exam for mixed revision and mock papers."]
+[
+"How should I take notes for the WSET Diploma?",
+"Use one template for every region with fixed headings: climate, site and soil, grapes, vineyard, winery, law and labels, business and examples. Write short answers instead of copying texts, and add a line every time you read or taste something new. Notes that grow over time are easier to revise and to compare across regions."
+],
+[
+"How do I write better answers for the WSET Diploma?",
+"Plan briefly before writing, then build each paragraph around one point, its cause and effect, a precise example and a link back to the question. Respect command words such as explain, discuss and compare. Practise under timed conditions and mark your answers against the question, not against your notes."
+],
+[
+"How many wines should I taste per week for the WSET Diploma?",
+"There is no official number, but regular blind tasting matters more than volume. Many candidates aim for at least one structured session a week with several wines and full written notes. A tasting group makes this affordable, because the cost of bottles is shared and you can compare your scales."
+],
+[
+"Is a study group useful for the WSET Diploma?",
+"Yes, for most candidates. A group shares the cost of wines, gives feedback on tasting notes and written answers, and keeps everyone on schedule over a long qualification. Keep it focused: agree a theme for each meeting, taste blind, write notes before discussing, and finish with one or two practice questions."
+],
+[
+"What is the best way to revise for the D3 exam?",
+"Cycle through all regions several times rather than studying each one once in depth. Use a fixed template, test yourself with questions, write timed answers on random regions and taste across the whole syllabus. Reserve the final weeks before the exam for mixed revision and mock papers."
+],
+[
+"Should I sit several Diploma units close together or one at a time?",
+"It depends on your time and on how your school schedules the units. Sitting units one at a time gives each one full attention and is easier to combine with work. Sitting units close together shortens the whole qualification but increases pressure. Whichever you choose, protect the final four to six weeks before each exam for revision and mock papers only."
+],
+[
+"How do I keep motivation over a long Diploma?",
+"Break the qualification into phases with visible outputs, such as finished regional notes or a set number of timed answers, and celebrate each one. A study partner or tasting group adds accountability. Short daily sessions also help, because progress continues even in busy weeks. Many candidates keep a log of answers written and wines tasted to see how far they have come."
+],
+[
+"Is it useful to write my own Diploma questions?",
+"Yes. Writing questions forces you to decide what matters in a region or topic, and answering them from memory at increasing intervals is one of the most effective revision methods. Mix short factual questions with open why and how questions, and swap sets with a study partner to find gaps you would not notice yourself."
+],
+[
+"Can The Wine Goat help me prepare for the WSET Diploma?",
+"Today it helps with the foundations: the app covers Level 3 in full, with questions, short written answers marked against key points, SAT tasting notes and mock exams. Diploma content is in preparation and not available yet. Strong, automatic Level 3 knowledge saves a lot of time once you start the Diploma."
+],
+[
+"What should I do if I fail a Diploma unit?",
+"Ask your provider for the resit arrangements, then look at what went wrong: knowledge gaps, answers that did not address the question, timing or tasting calibration. Rebuild the plan around those weaknesses rather than rereading everything. Many candidates pass on the resit with a more targeted approach, timed practice and feedback from a teacher or study partner."
+]
 ]
 },
 "it": {
 "sections": [
-{"h2": "Appunti di studio: un sistema completo per il WSET Diploma"},
-{"p": "I consigli di studio per il WSET Diploma che contano davvero non sono trucchi ma sistemi: un calendario sostenibile per diciotto mesi o più, appunti che crescono invece di essere riscritti, un metodo affidabile per le risposte scritte e una routine di degustazione che tara il palato. Questi appunti completano i consigli qui sopra con metodi concreti, modelli e checklist che puoi usare da subito, anche mentre stai ancora finendo il WSET Livello 3."},
-{"h2": "Pianifica il Diploma a ritroso da ogni esame"},
-{"p": "Un piano di studio per il Diploma funziona meglio se costruito a ritroso a partire da date d'esame fisse. Circa 500 ore in totale sembrano un numero astratto; divise per unità e settimane diventano un obiettivo settimanale da difendere in agenda."},
-{"ol": [
+{
+"h2": "Appunti di studio: un sistema completo per il WSET Diploma"
+},
+{
+"p": "I consigli di studio per il WSET Diploma che contano davvero non sono trucchi ma sistemi: un calendario sostenibile per diciotto mesi o più, appunti che crescono invece di essere riscritti, un metodo affidabile per le risposte scritte e una routine di degustazione che tara il palato. Questi appunti completano i consigli qui sopra con metodi concreti, modelli e checklist che puoi usare da subito, anche mentre stai ancora finendo il WSET Livello 3."
+},
+{
+"h2": "Pianifica il Diploma a ritroso da ogni esame"
+},
+{
+"p": "Un piano di studio per il Diploma funziona meglio se costruito a ritroso a partire da date d'esame fisse. Circa 500 ore in totale sembrano un numero astratto; divise per unità e settimane diventano un obiettivo settimanale da difendere in agenda."
+},
+{
+"ol": [
 "Annota ogni data d'esame e ogni scadenza di elaborato che conosci, unità per unità.",
 "Assegna a ogni unità una quota di tempo proporzionata: la D3 richiede molte più settimane della D4 o della D5.",
 "Riserva le ultime quattro-sei settimane prima di ogni esame solo a ripasso, risposte a tempo e degustazioni di prova.",
 "Dividi le settimane restanti in argomenti, per esempio una regione o un tema di produzione a settimana.",
 "Blocca in agenda spazi fissi settimanali per teoria, scrittura e degustazione, e trattali come appuntamenti.",
 "Rivedi il piano una volta al mese e sposta gli argomenti, non le date d'esame, quando la vita si mette di mezzo."
-]},
-{"tip": "Metti in conto gli imprevisti. Picchi di lavoro, viaggi e malattie capiteranno durante una qualifica lunga. Un piano con una settimana vuota di recupero ogni mese regge; un piano senza margini crolla al primo periodo pieno."},
-{"h2": "Appunti che crescono: un modello per ogni regione"},
-{"p": "Gli appunti più efficaci per il Diploma usano lo stesso modello per ogni regione, così puoi confrontare i luoghi rapidamente e individuare le lacune. Invece di copiare un manuale, scrivi risposte brevi a domande fisse e aggiungi esempi man mano che li trovi."},
-{"table": {"head": ["Voce", "Cosa scrivere", "Perché conta all'esame"], "rows": [
-["Clima e meteo", "Tipo di clima, rischi principali (gelate, pioggia, caldo, siccità), variabilità delle annate", "Spiega differenze di maturazione, acidità, resa e prezzo"],
-["Sito e suolo", "Altitudine, esposizione, pendenze, suoli e disponibilità d'acqua", "Sostiene gli argomenti sulla qualità e le gerarchie delle denominazioni"],
-["Vitigni", "Varietà principali, lo stile che danno qui, partner di assemblaggio", "Base della maggior parte delle domande e delle conclusioni di degustazione"],
-["Vigneto", "Sistemi di allevamento, densità, irrigazione, vendemmia, rese, sostenibilità", "Collega costi, qualità e stile"],
-["Cantina", "Fermentazione, estrazione, legno, fecce, assemblaggio, dolcezza", "Spiega scelte di stile e livelli di qualità"],
-["Legge ed etichette", "Denominazioni, categorie, termini di invecchiamento, modifiche recenti", "Frequente nelle domande brevi; la precisione porta punti"],
-["Mercato", "Produttori principali, mercati, fasce di prezzo, tendenze", "Permette di parlare di realtà commerciale, come chiedono D2 e D3"],
-["Esempi", "Due o tre vini o produttori citati con una motivazione", "Gli esempi concreti alzano il voto delle risposte"]
-]}},
-{"p": "Tieni gli appunti in digitale o in un raccoglitore ad anelli, così puoi inserire nuove informazioni. Ogni volta che leggi un articolo, assaggi un vino o finisci una lezione, aggiungi una riga alla regione giusta. Dopo un anno, il file diventa il tuo libro di ripasso personale, costruito da te e quindi molto più facile da ricordare."},
-{"h2": "Un metodo per le risposte scritte del Diploma"},
-{"p": "Le risposte scritte migliori del WSET Diploma hanno la stessa struttura: rispondono alla domanda posta, fanno un'affermazione chiara, ne spiegano la causa, la sostengono con un esempio e tornano alla domanda. Allenare questo schema fino a renderlo automatico è il modo migliore per guadagnare punti con poco tempo."},
-{"h3": "Affermazione, spiegazione, esempio, collegamento"},
-{"ul": [
+]
+},
+{
+"tip": "Metti in conto gli imprevisti. Picchi di lavoro, viaggi e malattie capiteranno durante una qualifica lunga. Un piano con una settimana vuota di recupero ogni mese regge; un piano senza margini crolla al primo periodo pieno."
+},
+{
+"h2": "Appunti che crescono: un modello per ogni regione"
+},
+{
+"p": "Gli appunti più efficaci per il Diploma usano lo stesso modello per ogni regione, così puoi confrontare i luoghi rapidamente e individuare le lacune. Invece di copiare un manuale, scrivi risposte brevi a domande fisse e aggiungi esempi man mano che li trovi."
+},
+{
+"table": {
+"head": [
+"Voce",
+"Cosa scrivere",
+"Perché conta all'esame"
+],
+"rows": [
+[
+"Clima e meteo",
+"Tipo di clima, rischi principali (gelate, pioggia, caldo, siccità), variabilità delle annate",
+"Spiega differenze di maturazione, acidità, resa e prezzo"
+],
+[
+"Sito e suolo",
+"Altitudine, esposizione, pendenze, suoli e disponibilità d'acqua",
+"Sostiene gli argomenti sulla qualità e le gerarchie delle denominazioni"
+],
+[
+"Vitigni",
+"Varietà principali, lo stile che danno qui, partner di assemblaggio",
+"Base della maggior parte delle domande e delle conclusioni di degustazione"
+],
+[
+"Vigneto",
+"Sistemi di allevamento, densità, irrigazione, vendemmia, rese, sostenibilità",
+"Collega costi, qualità e stile"
+],
+[
+"Cantina",
+"Fermentazione, estrazione, legno, fecce, assemblaggio, dolcezza",
+"Spiega scelte di stile e livelli di qualità"
+],
+[
+"Legge ed etichette",
+"Denominazioni, categorie, termini di invecchiamento, modifiche recenti",
+"Frequente nelle domande brevi; la precisione porta punti"
+],
+[
+"Mercato",
+"Produttori principali, mercati, fasce di prezzo, tendenze",
+"Permette di parlare di realtà commerciale, come chiedono D2 e D3"
+],
+[
+"Esempi",
+"Due o tre vini o produttori citati con una motivazione",
+"Gli esempi concreti alzano il voto delle risposte"
+]
+]
+}
+},
+{
+"p": "Tieni gli appunti in digitale o in un raccoglitore ad anelli, così puoi inserire nuove informazioni. Ogni volta che leggi un articolo, assaggi un vino o finisci una lezione, aggiungi una riga alla regione giusta. Dopo un anno, il file diventa il tuo libro di ripasso personale, costruito da te e quindi molto più facile da ricordare."
+},
+{
+"h2": "Un metodo per le risposte scritte del Diploma"
+},
+{
+"p": "Le risposte scritte migliori del WSET Diploma hanno la stessa struttura: rispondono alla domanda posta, fanno un'affermazione chiara, ne spiegano la causa, la sostengono con un esempio e tornano alla domanda. Allenare questo schema fino a renderlo automatico è il modo migliore per guadagnare punti con poco tempo."
+},
+{
+"h3": "Affermazione, spiegazione, esempio, collegamento"
+},
+{
+"ul": [
 "Affermazione: indica un fattore che risponde alla domanda, per esempio il clima fresco.",
 "Spiegazione: dai causa ed effetto, per esempio una maturazione lenta che conserva acidità e composti aromatici.",
 "Esempio: cita una regione, un produttore o una tecnica precisi che lo illustrano.",
 "Collegamento: di' come questo influisce su stile, qualità o prezzo, e quindi risponde alla domanda."
-]},
-{"h3": "Prima di iniziare a scrivere"},
-{"p": "Dedica i primi minuti di ogni domanda a sottolineare le parole chiave della consegna e il suo perimetro. Spiega chiede le cause, discuti chiede più punti di vista e una conclusione, confronta chiede somiglianze e differenze. Poi annota una breve scaletta dei punti che farai. Le risposte che seguono una scaletta sono più chiare, più equilibrate e meno a rischio di andare fuori tema."},
-{"tip": "Correggi le risposte di prova rispetto alla domanda, non rispetto agli appunti. Un errore frequente è scrivere tutto ciò che si sa su una regione; gli esaminatori premiano solo ciò che risponde alla domanda. Se un paragrafo andrebbe bene per qualsiasi domanda su quella regione, probabilmente non risponde a questa."},
-{"h2": "Degustazione: tarare il palato con esempi classici"},
-{"p": "Tarare le scale di degustazione è il modo più rapido per migliorare i voti nella degustazione del Diploma. Assaggia esempi classici uno accanto all'altro, così che alto, medio e basso abbiano per te sempre lo stesso significato."},
-{"ul": [
+]
+},
+{
+"h3": "Prima di iniziare a scrivere"
+},
+{
+"p": "Dedica i primi minuti di ogni domanda a sottolineare le parole chiave della consegna e il suo perimetro. Spiega chiede le cause, discuti chiede più punti di vista e una conclusione, confronta chiede somiglianze e differenze. Poi annota una breve scaletta dei punti che farai. Le risposte che seguono una scaletta sono più chiare, più equilibrate e meno a rischio di andare fuori tema."
+},
+{
+"tip": "Correggi le risposte di prova rispetto alla domanda, non rispetto agli appunti. Un errore frequente è scrivere tutto ciò che si sa su una regione; gli esaminatori premiano solo ciò che risponde alla domanda. Se un paragrafo andrebbe bene per qualsiasi domanda su quella regione, probabilmente non risponde a questa."
+},
+{
+"h2": "Degustazione: tarare il palato con esempi classici"
+},
+{
+"p": "Tarare le scale di degustazione è il modo più rapido per migliorare i voti nella degustazione del Diploma. Assaggia esempi classici uno accanto all'altro, così che alto, medio e basso abbiano per te sempre lo stesso significato."
+},
+{
+"ul": [
 "Acidità alta: Riesling della Mosella, Chablis, Sauvignon Blanc della Loira.",
 "Tannino alto: Barolo o Barbaresco, Madiran, Bordeaux giovane di una buona annata.",
 "Tannino basso e corpo leggero: Beaujolais, molti Pinot Noir semplici.",
@@ -120,70 +478,350 @@
 "Alcol basso: Riesling Kabinett tedesco, Moscato d'Asti.",
 "Aromi pronunciati: Gewürztraminer, Sauvignon Blanc di Marlborough, Moscato.",
 "Legno evidente: Rioja Gran Reserva in rovere americano, Borgogna bianco o Chardonnay californiano affinati in legno."
-]},
-{"p": "Organizza un gruppo di degustazione settimanale o quindicinale. Ognuno porta vini coperti, tutti scrivono note complete in silenzio, poi si confronta. Discuti le conclusioni per ultime: l'obiettivo è mettersi d'accordo prima su struttura e qualità. Fate a turno nello scegliere il tema, così ogni regione compare nel corso dell'anno."},
-{"h2": "Trappole frequenti per chi prepara il Diploma"},
-{"ul": [
+]
+},
+{
+"p": "Organizza un gruppo di degustazione settimanale o quindicinale. Ognuno porta vini coperti, tutti scrivono note complete in silenzio, poi si confronta. Discuti le conclusioni per ultime: l'obiettivo è mettersi d'accordo prima su struttura e qualità. Fate a turno nello scegliere il tema, così ogni regione compare nel corso dell'anno."
+},
+{
+"h2": "Trappole frequenti per chi prepara il Diploma"
+},
+{
+"ul": [
 "Leggere passivamente per ore e scambiare la familiarità per memoria: meglio interrogarsi.",
 "Lasciare alla fine le regioni della D3 che piacciono meno, che diventano il punto debole all'esame.",
 "Scrivere note di degustazione senza giustificare la qualità, o con motivazioni che non corrispondono alla descrizione.",
 "Ignorare il lato commerciale: prezzi, mercati e produttori fanno parte di una buona risposta in diverse unità.",
 "Studiare da soli per mesi: un compagno di studio fa emergere le lacune e tiene alta la motivazione."
-]},
-{"h2": "Ripassare in 15 minuti al giorno"},
-{"p": "Anche nei giorni più pieni, quindici minuti mandano avanti il Diploma. Usa cinque minuti per domande con ripetizione dilazionata su una regione, cinque per aggiornare il modello di quella regione e cinque per scrivere un paragrafo con lo schema affermazione, spiegazione, esempio, collegamento. Nei giorni più liberi passa a una domanda completa a tempo o a una degustazione. Molte persone mantengono solide le basi del Livello 3 allenandosi nell'app durante gli spostamenti."}
+]
+},
+{
+"h2": "Ripassare in 15 minuti al giorno"
+},
+{
+"p": "Anche nei giorni più pieni, quindici minuti mandano avanti il Diploma. Usa cinque minuti per domande con ripetizione dilazionata su una regione, cinque per aggiornare il modello di quella regione e cinque per scrivere un paragrafo con lo schema affermazione, spiegazione, esempio, collegamento. Nei giorni più liberi passa a una domanda completa a tempo o a una degustazione. Molte persone mantengono solide le basi del Livello 3 allenandosi nell'app durante gli spostamenti."
+},
+{
+"h2": "Un esempio di calendario di studio per il Diploma in circa 18 mesi"
+},
+{
+"p": "Un calendario per il Diploma si rispetta più facilmente quando ogni fase ha un risultato chiaro, non solo un elenco di capitoli. Lo schema che segue è un esempio da adattare, non una regola fissa: le scuole ordinano le unità in modo diverso e alcuni candidati sostengono più unità a breve distanza, mentre altri le distribuiscono su due o tre anni. Ciò che conta è che ogni fase si chiuda con qualcosa di verificabile, come un set di appunti, un certo numero di risposte a tempo o una serie di degustazioni alla cieca."
+},
+{
+"table": {
+"head": [
+"Fase",
+"Tempi indicativi",
+"Obiettivo principale",
+"Risultato da verificare"
+],
+"rows": [
+[
+"Basi",
+"Mesi 1–2",
+"Ripassare regioni e produzione del Livello 3; impostare il modello di appunti e il gruppo di degustazione",
+"Una pagina modello per ogni grande regione e un appuntamento settimanale di degustazione che si tiene davvero"
+],
+[
+"Prime unità",
+"Mesi 3–6",
+"Le unità che la scuola programma per prime, spesso quelle più compatte",
+"Risposte a tempo su ogni argomento dell'unità e una simulazione completa prima dell'esame"
+],
+[
+"D3, primo giro",
+"Mesi 6–11",
+"Tutte le regioni del mondo una volta, a ritmo costante",
+"Un set completo di appunti regionali e una risposta scritta per regione"
+],
+[
+"D3, secondo giro",
+"Mesi 11–15",
+"Di nuovo tutte le regioni, più rapidamente, con confronti tra loro",
+"Tabelle di confronto, risposte a tempo su regioni estratte a caso, batterie alla cieca per tema"
+],
+[
+"Ripasso finale",
+"Ultime 4–6 settimane prima di ogni esame",
+"Simulazioni, degustazioni a tempo, solo punti deboli",
+"Almeno due simulazioni complete in condizioni d'esame"
+],
+[
+"Ricerca e business",
+"In parallelo alle altre fasi",
+"Letture per la D2 e pianificazione della D6",
+"Un diario delle notizie di settore e un piano di ricerca con le fonti annotate strada facendo"
+]
+]
+}
+},
+{
+"p": "Nota che le letture sul business e l'elaborato di ricerca procedono in sottofondo per tutto il periodo. Chi li lascia a un unico blocco finale spesso si ritrova senza esempi e senza fonti, mentre dieci minuti di notizie di settore qualche volta a settimana costruiscono entrambi senza grande fatica."
+},
+{
+"h2": "Richiamo attivo per la D3: costruisci la tua banca di domande"
+},
+{
+"p": "Rileggere gli appunti dà l'impressione di essere produttivi, ma è un modo debole di ricordare. Il richiamo attivo, cioè rispondere a domande a memoria, è molto più efficace, e per il Diploma le domande migliori sono spesso quelle che scrivi tu, perché scriverle ti obbliga a decidere che cosa conta davvero in ogni regione."
+},
+{
+"ol": [
+"Dopo aver studiato una regione, scrivi dieci domande brevi: tre su clima e sito, tre su vitigni e vinificazione, due su legislazione ed etichette, due su mercato e prezzo.",
+"Aggiungi due domande aperte che inizino con perché o come, per esempio perché i siti migliori di una regione sono in collina.",
+"Rispondi alle domande brevi a memoria dopo due giorni, poi dopo una settimana, poi dopo un mese, e segna quelle che sbagli.",
+"Ogni settimana rispondi per iscritto a una domanda aperta, a tempo, con la struttura punto, spiegazione, esempio, collegamento.",
+"Scambia le domande con il tuo compagno di studio: quelle scritte da un altro rivelano lacune che le tue nascondono."
+]
+},
+{
+"p": "In un giro completo della D3 questo metodo produce diverse centinaia di domande perfettamente adattate al programma che stai studiando. Tienile in un unico posto, etichettate per regione, così nelle ultime settimane potrai estrarre serie casuali che mescolano il mondo intero."
+},
+{
+"h2": "Esempio commentato: da un paragrafo debole a uno solido"
+},
+{
+"p": "Immagina una nostra domanda di esercitazione: spiega perché i migliori vigneti della Mosella si trovano su pendii ripidi vicino al fiume. Un paragrafo debole potrebbe dire: la Mosella è fresca, i pendii sono ripidi e di ardesia, quindi i vini hanno acidità alta e alcol basso, e il Riesling è il vitigno principale. Ogni affermazione è vera, ma il paragrafo elenca fatti senza spiegarli e non risponde alla domanda posta, che riguarda il perché dei pendii."
+},
+{
+"p": "Un paragrafo più solido sviluppa un punto alla volta. La Mosella è al limite settentrionale della viticoltura di qualità, quindi la maturazione è la sfida principale. I pendii ripidi esposti a sud o a sud-ovest ricevono la luce con un angolo più diretto, il che aumenta il calore che arriva alle viti e aiuta la maturazione. Il fiume riflette la luce e modera le temperature, riducendo il rischio di gelate sui pendii bassi. I suoli di ardesia assorbono calore di giorno e lo restituiscono di notte, scaldando l'ambiente intorno alle viti. Di conseguenza, i siti con queste condizioni portano il Riesling a piena maturazione nella maggior parte delle annate conservandone l'alta acidità: ecco perché i vigneti più celebri si trovano su questi pendii, anche se lavorarli è lento e costoso."
+},
+{
+"p": "La seconda versione usa le stesse conoscenze, ma le organizza come cause ed effetti e si chiude ricollegandosi alla domanda, compresa la conseguenza economica del costo di lavorare vigneti ripidi. Riscrivere così i tuoi paragrafi deboli, una volta a settimana, è uno dei modi più rapidi per alzare i voti nelle risposte scritte."
+},
+{
+"h2": "Esercizi di degustazione che costruiscono le competenze del Diploma"
+},
+{
+"h3": "Batterie organizzate per struttura"
+},
+{
+"p": "Invece di degustare per regione, metti in fila tre o quattro vini che differiscono soprattutto per un elemento strutturale, per esempio acidità o tannino, e ordinali prima di scrivere qualsiasi altra cosa. Così alleni le scale da cui dipende ogni conclusione. Ripeti l'esercizio con alcol, corpo e dolcezza, e tornaci ogni volta che il gruppo non è d'accordo sui livelli."
+},
+{
+"h3": "Confronti a coppie"
+},
+{
+"p": "Le coppie di vini facili da confondere insegnano più delle batterie casuali, perché ti obbligano a cercare la differenza decisiva. Scrivi una nota completa per entrambi, poi elenca i due o tre elementi che li distinguono."
+},
+{
+"ul": [
+"Chablis e uno Chardonnay non affinato in legno di clima fresco di un altro paese: intensità, acidità, maturità del frutto.",
+"Syrah del Rodano settentrionale e Shiraz della Barossa: carattere del frutto, alcol, pepe contro spezie dolci.",
+"Barolo e un Sangiovese strutturato: colore, trama del tannino, profilo aromatico.",
+"Sancerre e Sauvignon Blanc di Marlborough: intensità aromatica, note erbacee contro note tropicali.",
+"Fino e Manzanilla, oppure un tawny e un porto in stile colheita, quando prepari i vini fortificati."
+]
+},
+{
+"h3": "Note a tempo"
+},
+{
+"p": "Quando le tue note sono accurate, inizia a cronometrarle. Datti un numero fisso di minuti per vino e smetti di scrivere allo scadere del tempo, anche se la nota sembra incompleta. La precisione sotto pressione è un'abilità diversa dalla precisione a casa e migliora solo con la pratica. Controlla la coerenza di ogni nota: la conclusione sulla qualità deve derivare da equilibrio, intensità, complessità e persistenza che hai descritto."
+},
+{
+"h2": "Studiare D1 e D2 senza lavorare nel settore"
+},
+{
+"p": "Molti candidati al Diploma arrivano da altre professioni. Possono ottenere ottimi risultati, ma devono sostituire l'esposizione quotidiana che i colleghi di cantine, enoteche e importatori danno per scontata."
+},
+{
+"ul": [
+"Visita cantine con un elenco di domande su scelte in vigna, fermentazione e costi, e annota le risposte nei tuoi modelli.",
+"Segui ogni settimana le notizie di settore e registra un esempio di variazione di prezzo, nuovo mercato o tendenza produttiva.",
+"Osserva gli scaffali di una grande enoteca e chiediti perché ogni categoria si colloca in quella fascia di prezzo.",
+"Leggi le schede tecniche sui siti dei produttori: riportano rese, contenitori di fermentazione, tempi di affinamento e volumi che puoi citare.",
+"Chiedi a chi lavora nel settore di leggere una tua risposta sul business e dirti se rispecchia la realtà."
+]
+},
+{
+"h2": "La settimana prima di ogni esame del Diploma"
+},
+{
+"ol": [
+"Smetti di studiare argomenti nuovi: ripassa solo i tuoi appunti e la tua banca di domande.",
+"Scrivi due o tre risposte a tempo su argomenti estratti a caso dell'unità, poi confrontale con le tue migliori risposte precedenti.",
+"Se l'unità prevede la degustazione, fai una o due brevi degustazioni a tempo e tieni il palato in forma: sonno, acqua, niente sapori forti prima delle sessioni.",
+"Verifica i dettagli pratici con il tuo ente formativo: sede, orari, documento d'identità, che cosa puoi portare.",
+"Prevedi il giorno prima dell'esame come giornata leggera, con un breve ripasso e a letto presto."
+]
+},
+{
+"h2": "Che ruolo ha oggi The Wine Goat nel tuo piano per il Diploma"
+},
+{
+"p": "Per essere chiari su ciò che esiste oggi: i contenuti per il Diploma (Livello 4) sono in preparazione in The Wine Goat e non sono ancora disponibili. Quello che l'app offre adesso è una preparazione completa al Livello 3, la base su cui si costruisce il Diploma: domande a scelta multipla su tutto il programma, risposte brevi scritte corrette sui punti chiave, note di degustazione SAT e simulazioni d'esame a tempo."
+},
+{
+"p": "Questa base conta perché l'esame del Livello 3 segue già la stessa logica di valutazione separata. Il Livello 3 ha due unità distinte, teoria e degustazione, e serve almeno il 55% in ciascuna; un ottimo risultato in un'unità non compensa l'altra, e un'unità non superata si ripete da sola. Chi impara a preparare entrambe le unità con la stessa cura al Livello 3 porta questa disciplina nel Diploma, dove teoria e degustazione vengono di nuovo valutate ciascuna per conto proprio."
+},
+{
+"tip": "Se sei tra il Livello 3 e il Diploma, tieni attive le conoscenze del Livello 3 con qualche minuto di domande ogni giorno e inizia subito i tuoi modelli regionali: tutto ciò che scrivi verrà riutilizzato nella D3."
+}
 ],
 "faq": [
-["Come prendere appunti per il WSET Diploma?", "Usa un modello unico per ogni regione con voci fisse: clima, sito e suolo, vitigni, vigneto, cantina, legge ed etichette, mercato ed esempi. Scrivi risposte brevi invece di copiare testi e aggiungi una riga ogni volta che leggi o assaggi qualcosa di nuovo. Gli appunti che crescono nel tempo sono più facili da ripassare e da confrontare."],
-["Come scrivere risposte migliori per il WSET Diploma?", "Fai una breve scaletta prima di scrivere, poi costruisci ogni paragrafo attorno a un'affermazione, alla sua causa ed effetto, a un esempio preciso e a un collegamento con la domanda. Rispetta le consegne come spiega, discuti e confronta. Allenati a tempo e correggi le risposte rispetto alla domanda, non agli appunti."],
-["Quanti vini degustare a settimana per il WSET Diploma?", "Non esiste un numero ufficiale, ma la regolarità della degustazione alla cieca conta più della quantità. Molte persone puntano ad almeno una sessione strutturata a settimana con diversi vini e note scritte complete. Un gruppo di degustazione la rende sostenibile, perché divide il costo delle bottiglie e permette di confrontare le scale."],
-["Un gruppo di studio è utile per il WSET Diploma?", "Sì, per la maggior parte delle persone. Un gruppo divide il costo dei vini, dà riscontri su note di degustazione e risposte scritte e mantiene tutti nei tempi durante una qualifica lunga. Tienilo concentrato: un tema per incontro, degustazione alla cieca, note scritte prima della discussione e una o due domande di prova per chiudere."],
-["Qual è il modo migliore per ripassare per l'esame D3?", "Fai più giri su tutte le regioni invece di studiarle una sola volta a fondo. Usa un modello fisso, interrogati con domande, scrivi risposte a tempo su regioni a caso e degusta su tutto il programma. Riserva le ultime settimane prima dell'esame al ripasso misto e alle simulazioni complete."]
+[
+"Come prendere appunti per il WSET Diploma?",
+"Usa un modello unico per ogni regione con voci fisse: clima, sito e suolo, vitigni, vigneto, cantina, legge ed etichette, mercato ed esempi. Scrivi risposte brevi invece di copiare testi e aggiungi una riga ogni volta che leggi o assaggi qualcosa di nuovo. Gli appunti che crescono nel tempo sono più facili da ripassare e da confrontare."
+],
+[
+"Come scrivere risposte migliori per il WSET Diploma?",
+"Fai una breve scaletta prima di scrivere, poi costruisci ogni paragrafo attorno a un'affermazione, alla sua causa ed effetto, a un esempio preciso e a un collegamento con la domanda. Rispetta le consegne come spiega, discuti e confronta. Allenati a tempo e correggi le risposte rispetto alla domanda, non agli appunti."
+],
+[
+"Quanti vini degustare a settimana per il WSET Diploma?",
+"Non esiste un numero ufficiale, ma la regolarità della degustazione alla cieca conta più della quantità. Molte persone puntano ad almeno una sessione strutturata a settimana con diversi vini e note scritte complete. Un gruppo di degustazione la rende sostenibile, perché divide il costo delle bottiglie e permette di confrontare le scale."
+],
+[
+"Un gruppo di studio è utile per il WSET Diploma?",
+"Sì, per la maggior parte delle persone. Un gruppo divide il costo dei vini, dà riscontri su note di degustazione e risposte scritte e mantiene tutti nei tempi durante una qualifica lunga. Tienilo concentrato: un tema per incontro, degustazione alla cieca, note scritte prima della discussione e una o due domande di prova per chiudere."
+],
+[
+"Qual è il modo migliore per ripassare per l'esame D3?",
+"Fai più giri su tutte le regioni invece di studiarle una sola volta a fondo. Usa un modello fisso, interrogati con domande, scrivi risposte a tempo su regioni a caso e degusta su tutto il programma. Riserva le ultime settimane prima dell'esame al ripasso misto e alle simulazioni complete."
+],
+[
+"Conviene sostenere più unità del Diploma ravvicinate o una alla volta?",
+"Dipende dal tuo tempo e da come la scuola programma le unità. Sostenerle una alla volta permette di dedicare a ciascuna piena attenzione ed è più facile da conciliare con il lavoro. Sostenerle ravvicinate accorcia il percorso ma aumenta la pressione. Qualunque sia la scelta, riserva le ultime quattro-sei settimane prima di ogni esame solo al ripasso e alle simulazioni."
+],
+[
+"Come mantenere la motivazione durante un Diploma così lungo?",
+"Dividi il percorso in fasi con risultati visibili, come appunti regionali completati o un numero preciso di risposte a tempo, e festeggia ogni traguardo. Un compagno di studio o un gruppo di degustazione aggiunge responsabilità. Anche le sessioni brevi quotidiane aiutano, perché i progressi continuano nelle settimane piene. Molti tengono un registro delle risposte scritte e dei vini degustati per vedere la strada fatta."
+],
+[
+"È utile scrivere da sé le domande per il Diploma?",
+"Sì. Scrivere domande obbliga a decidere che cosa conta in una regione o in un argomento, e rispondere a memoria a intervalli crescenti è uno dei metodi di ripasso più efficaci. Alterna domande brevi sui fatti a domande aperte con perché e come, e scambia le serie con un compagno di studio per scoprire lacune che da solo non noteresti."
+],
+[
+"The Wine Goat può aiutarmi a preparare il WSET Diploma?",
+"Oggi aiuta con le basi: l'app copre interamente il Livello 3, con domande, risposte brevi scritte corrette sui punti chiave, note di degustazione SAT e simulazioni d'esame. I contenuti per il Diploma sono in preparazione e non ancora disponibili. Conoscenze del Livello 3 solide e automatiche fanno risparmiare molto tempo quando inizi il Diploma."
+],
+[
+"Cosa fare se non supero un'unità del Diploma?",
+"Chiedi al tuo ente formativo come funziona la ripetizione, poi analizza che cosa non ha funzionato: lacune, risposte che non rispondevano alla domanda, gestione del tempo o taratura in degustazione. Ricostruisci il piano attorno a quei punti deboli invece di rileggere tutto. Molti candidati superano l'unità alla seconda prova con un approccio più mirato, esercizi a tempo e il riscontro di un docente o di un compagno."
+]
 ]
 },
 "fr": {
 "sections": [
-{"h2": "Fiches de révision : une méthode complète pour le WSET Diploma"},
-{"p": "Les conseils pour le WSET Diploma qui comptent vraiment ne sont pas des astuces mais des systèmes : un calendrier tenable pendant dix-huit mois ou plus, des fiches qui s'enrichissent au lieu d'être réécrites, une méthode fiable pour les réponses rédigées et une routine de dégustation qui étalonne le palais. Ces fiches complètent les conseils ci-dessus avec des méthodes concrètes, des modèles et des check-lists à utiliser dès aujourd'hui, même si vous terminez encore le WSET niveau 3."},
-{"h2": "Planifier le Diploma à rebours de chaque examen"},
-{"p": "Un planning de révision pour le Diploma fonctionne mieux lorsqu'il est construit à rebours à partir de dates d'examen fixes. Environ 500 heures au total, cela paraît abstrait ; réparties par unité et par semaine, elles deviennent un objectif hebdomadaire à protéger dans l'agenda."},
-{"ol": [
+{
+"h2": "Fiches de révision : une méthode complète pour le WSET Diploma"
+},
+{
+"p": "Les conseils pour le WSET Diploma qui comptent vraiment ne sont pas des astuces mais des systèmes : un calendrier tenable pendant dix-huit mois ou plus, des fiches qui s'enrichissent au lieu d'être réécrites, une méthode fiable pour les réponses rédigées et une routine de dégustation qui étalonne le palais. Ces fiches complètent les conseils ci-dessus avec des méthodes concrètes, des modèles et des check-lists à utiliser dès aujourd'hui, même si vous terminez encore le WSET niveau 3."
+},
+{
+"h2": "Planifier le Diploma à rebours de chaque examen"
+},
+{
+"p": "Un planning de révision pour le Diploma fonctionne mieux lorsqu'il est construit à rebours à partir de dates d'examen fixes. Environ 500 heures au total, cela paraît abstrait ; réparties par unité et par semaine, elles deviennent un objectif hebdomadaire à protéger dans l'agenda."
+},
+{
+"ol": [
 "Notez chaque date d'examen et chaque échéance de devoir connue, unité par unité.",
 "Attribuez à chaque unité une part de temps proportionnée : la D3 demande beaucoup plus de semaines que la D4 ou la D5.",
 "Réservez les quatre à six dernières semaines avant chaque examen aux révisions, aux réponses chronométrées et aux dégustations blanches.",
 "Découpez les semaines restantes en thèmes, par exemple une région ou un thème de production par semaine.",
 "Bloquez des créneaux hebdomadaires fixes pour la théorie, la rédaction et la dégustation, comme des rendez-vous.",
 "Révisez le planning une fois par mois et déplacez les thèmes, pas les dates d'examen, quand la vie s'en mêle."
-]},
-{"tip": "Prévoyez les imprévus. Pics de travail, voyages et maladies arriveront au cours d'une formation longue. Un planning avec une semaine de rattrapage vide chaque mois tient ; un planning sans marge s'effondre à la première période chargée."},
-{"h2": "Des fiches qui grandissent : un modèle pour chaque région"},
-{"p": "Les fiches les plus efficaces pour le Diploma suivent le même modèle pour chaque région, ce qui permet de comparer rapidement et de repérer les lacunes. Plutôt que de recopier un manuel, répondez brièvement à des questions fixes et ajoutez des exemples au fil de l'eau."},
-{"table": {"head": ["Rubrique", "Quoi écrire", "Pourquoi c'est utile à l'examen"], "rows": [
-["Climat et météo", "Type de climat, risques principaux (gel, pluie, chaleur, sécheresse), effet millésime", "Explique les écarts de maturité, d'acidité, de rendement et de prix"],
-["Site et sol", "Altitude, exposition, pentes, sols et disponibilité en eau", "Étaye les arguments de qualité et les hiérarchies d'appellations"],
-["Cépages", "Variétés principales, style obtenu ici, partenaires d'assemblage", "Base de la plupart des questions et des conclusions de dégustation"],
-["Vignoble", "Conduite, densité, irrigation, mode de vendange, rendements, durabilité", "Relie coûts, qualité et style"],
-["Chai", "Fermentation, extraction, bois, lies, assemblage, sucrosité", "Explique les choix de style et les niveaux de qualité"],
-["Règles et étiquettes", "Appellations, catégories, mentions de vieillissement, évolutions récentes", "Fréquent dans les questions courtes ; la précision rapporte des points"],
-["Commerce", "Principaux producteurs, marchés, gammes de prix, tendances", "Permet de parler de réalité commerciale, comme l'attendent la D2 et la D3"],
-["Exemples", "Deux ou trois vins ou producteurs cités avec une raison", "Les exemples concrets font monter la note"]
-]}},
-{"p": "Gardez vos fiches en numérique ou dans un classeur à anneaux pour pouvoir insérer de nouveaux éléments. Chaque fois que vous lisez un article, dégustez un vin ou terminez un cours, ajoutez une ligne à la bonne région. Au bout d'un an, ce dossier devient votre livre de révision personnel, construit par vous et donc bien plus facile à retenir."},
-{"h2": "Une méthode pour les réponses rédigées du Diploma"},
-{"p": "Les meilleures réponses rédigées du WSET Diploma partagent la même structure : elles répondent à la question posée, avancent une idée claire, en expliquent la cause, l'appuient par un exemple et reviennent à la question. S'entraîner à ce schéma jusqu'à l'automatisme est le meilleur moyen de gagner des points sous la pression du temps."},
-{"h3": "Idée, explication, exemple, lien"},
-{"ul": [
+]
+},
+{
+"tip": "Prévoyez les imprévus. Pics de travail, voyages et maladies arriveront au cours d'une formation longue. Un planning avec une semaine de rattrapage vide chaque mois tient ; un planning sans marge s'effondre à la première période chargée."
+},
+{
+"h2": "Des fiches qui grandissent : un modèle pour chaque région"
+},
+{
+"p": "Les fiches les plus efficaces pour le Diploma suivent le même modèle pour chaque région, ce qui permet de comparer rapidement et de repérer les lacunes. Plutôt que de recopier un manuel, répondez brièvement à des questions fixes et ajoutez des exemples au fil de l'eau."
+},
+{
+"table": {
+"head": [
+"Rubrique",
+"Quoi écrire",
+"Pourquoi c'est utile à l'examen"
+],
+"rows": [
+[
+"Climat et météo",
+"Type de climat, risques principaux (gel, pluie, chaleur, sécheresse), effet millésime",
+"Explique les écarts de maturité, d'acidité, de rendement et de prix"
+],
+[
+"Site et sol",
+"Altitude, exposition, pentes, sols et disponibilité en eau",
+"Étaye les arguments de qualité et les hiérarchies d'appellations"
+],
+[
+"Cépages",
+"Variétés principales, style obtenu ici, partenaires d'assemblage",
+"Base de la plupart des questions et des conclusions de dégustation"
+],
+[
+"Vignoble",
+"Conduite, densité, irrigation, mode de vendange, rendements, durabilité",
+"Relie coûts, qualité et style"
+],
+[
+"Chai",
+"Fermentation, extraction, bois, lies, assemblage, sucrosité",
+"Explique les choix de style et les niveaux de qualité"
+],
+[
+"Règles et étiquettes",
+"Appellations, catégories, mentions de vieillissement, évolutions récentes",
+"Fréquent dans les questions courtes ; la précision rapporte des points"
+],
+[
+"Commerce",
+"Principaux producteurs, marchés, gammes de prix, tendances",
+"Permet de parler de réalité commerciale, comme l'attendent la D2 et la D3"
+],
+[
+"Exemples",
+"Deux ou trois vins ou producteurs cités avec une raison",
+"Les exemples concrets font monter la note"
+]
+]
+}
+},
+{
+"p": "Gardez vos fiches en numérique ou dans un classeur à anneaux pour pouvoir insérer de nouveaux éléments. Chaque fois que vous lisez un article, dégustez un vin ou terminez un cours, ajoutez une ligne à la bonne région. Au bout d'un an, ce dossier devient votre livre de révision personnel, construit par vous et donc bien plus facile à retenir."
+},
+{
+"h2": "Une méthode pour les réponses rédigées du Diploma"
+},
+{
+"p": "Les meilleures réponses rédigées du WSET Diploma partagent la même structure : elles répondent à la question posée, avancent une idée claire, en expliquent la cause, l'appuient par un exemple et reviennent à la question. S'entraîner à ce schéma jusqu'à l'automatisme est le meilleur moyen de gagner des points sous la pression du temps."
+},
+{
+"h3": "Idée, explication, exemple, lien"
+},
+{
+"ul": [
 "Idée : énoncez un facteur qui répond à la question, par exemple le climat frais.",
 "Explication : donnez la cause et l'effet, par exemple une maturation lente qui préserve l'acidité et les composés aromatiques.",
 "Exemple : citez une région, un producteur ou une technique précis qui l'illustre.",
 "Lien : dites comment cela influe sur le style, la qualité ou le prix, et donc répond à la question."
-]},
-{"h3": "Avant de commencer à rédiger"},
-{"p": "Consacrez les premières minutes de chaque question à souligner les verbes de consigne et le périmètre. Expliquer demande des causes, discuter demande plusieurs points de vue et une conclusion, comparer demande des ressemblances et des différences. Notez ensuite un court plan des idées à développer. Une réponse qui suit un plan est plus claire, plus équilibrée et risque moins le hors-sujet."},
-{"tip": "Corrigez vos réponses d'entraînement par rapport à la question, pas par rapport à vos fiches. Une erreur fréquente consiste à écrire tout ce que l'on sait sur une région ; les correcteurs ne récompensent que ce qui répond à la question. Si un paragraphe conviendrait à n'importe quelle question sur cette région, il ne répond sans doute pas à celle-ci."},
-{"h2": "Dégustation : s'étalonner avec des classiques"},
-{"p": "Étalonner ses échelles de dégustation est le moyen le plus rapide d'améliorer ses notes à la dégustation du Diploma. Goûtez des exemples classiques côte à côte pour que élevé, moyen et faible aient toujours le même sens pour vous."},
-{"ul": [
+]
+},
+{
+"h3": "Avant de commencer à rédiger"
+},
+{
+"p": "Consacrez les premières minutes de chaque question à souligner les verbes de consigne et le périmètre. Expliquer demande des causes, discuter demande plusieurs points de vue et une conclusion, comparer demande des ressemblances et des différences. Notez ensuite un court plan des idées à développer. Une réponse qui suit un plan est plus claire, plus équilibrée et risque moins le hors-sujet."
+},
+{
+"tip": "Corrigez vos réponses d'entraînement par rapport à la question, pas par rapport à vos fiches. Une erreur fréquente consiste à écrire tout ce que l'on sait sur une région ; les correcteurs ne récompensent que ce qui répond à la question. Si un paragraphe conviendrait à n'importe quelle question sur cette région, il ne répond sans doute pas à celle-ci."
+},
+{
+"h2": "Dégustation : s'étalonner avec des classiques"
+},
+{
+"p": "Étalonner ses échelles de dégustation est le moyen le plus rapide d'améliorer ses notes à la dégustation du Diploma. Goûtez des exemples classiques côte à côte pour que élevé, moyen et faible aient toujours le même sens pour vous."
+},
+{
+"ul": [
 "Acidité élevée : riesling de Moselle, chablis, sauvignon de Loire.",
 "Tanins élevés : Barolo ou Barbaresco, madiran, jeune bordeaux d'un bon millésime.",
 "Tanins faibles et corps léger : beaujolais, beaucoup de pinots noirs simples.",
@@ -191,70 +829,350 @@
 "Alcool faible : riesling Kabinett allemand, Moscato d'Asti.",
 "Arômes prononcés : gewurztraminer, sauvignon de Marlborough, muscat.",
 "Bois marqué : Rioja Gran Reserva élevé en chêne américain, bourgogne blanc ou chardonnay californien boisés."
-]},
-{"p": "Organisez un groupe de dégustation hebdomadaire ou bimensuel. Chacun apporte des vins masqués, tout le monde rédige des notes complètes en silence, puis on compare. Discutez des conclusions en dernier : l'objectif est d'abord de s'accorder sur la structure et la qualité. Choisissez le thème à tour de rôle pour que chaque région revienne dans l'année."},
-{"h2": "Pièges fréquents pour les candidats au Diploma"},
-{"ul": [
+]
+},
+{
+"p": "Organisez un groupe de dégustation hebdomadaire ou bimensuel. Chacun apporte des vins masqués, tout le monde rédige des notes complètes en silence, puis on compare. Discutez des conclusions en dernier : l'objectif est d'abord de s'accorder sur la structure et la qualité. Choisissez le thème à tour de rôle pour que chaque région revienne dans l'année."
+},
+{
+"h2": "Pièges fréquents pour les candidats au Diploma"
+},
+{
+"ul": [
 "Lire passivement pendant des heures et confondre familiarité et mémorisation : interrogez-vous plutôt.",
 "Garder pour la fin les régions de la D3 que l'on aime moins, qui deviennent le point faible le jour de l'examen.",
 "Rédiger des notes de dégustation sans justification de qualité, ou avec des raisons qui ne collent pas à la description.",
 "Négliger le volet commercial : prix, marchés et producteurs font partie d'une bonne réponse dans plusieurs unités.",
 "Travailler seul pendant des mois : un partenaire d'étude révèle les lacunes et entretient la motivation."
-]},
-{"h2": "Réviser en 15 minutes par jour"},
-{"p": "Même les jours les plus chargés, quinze minutes font avancer le Diploma. Prenez cinq minutes de questions en répétition espacée sur une région, cinq minutes pour mettre à jour la fiche de cette région et cinq minutes pour rédiger un paragraphe selon le schéma idée, explication, exemple, lien. Les jours plus calmes, passez à une question complète chronométrée ou à une dégustation. Beaucoup de candidats entretiennent leurs bases du niveau 3 en s'entraînant dans l'appli pendant les trajets."}
+]
+},
+{
+"h2": "Réviser en 15 minutes par jour"
+},
+{
+"p": "Même les jours les plus chargés, quinze minutes font avancer le Diploma. Prenez cinq minutes de questions en répétition espacée sur une région, cinq minutes pour mettre à jour la fiche de cette région et cinq minutes pour rédiger un paragraphe selon le schéma idée, explication, exemple, lien. Les jours plus calmes, passez à une question complète chronométrée ou à une dégustation. Beaucoup de candidats entretiennent leurs bases du niveau 3 en s'entraînant dans l'appli pendant les trajets."
+},
+{
+"h2": "Exemple de calendrier de préparation du Diploma sur environ 18 mois"
+},
+{
+"p": "Un calendrier de Diploma se tient plus facilement quand chaque phase a un résultat clair, et pas seulement une liste de chapitres. Le schéma ci-dessous est un exemple à adapter, pas une règle : les écoles ordonnent les unités différemment, et certains candidats passent plusieurs unités à peu d'intervalle tandis que d'autres les étalent sur deux ou trois ans. L'essentiel est que chaque phase se termine par quelque chose de vérifiable : un ensemble de fiches, un nombre de réponses chronométrées ou une série de dégustations à l'aveugle."
+},
+{
+"table": {
+"head": [
+"Phase",
+"Calendrier indicatif",
+"Objectif principal",
+"Résultat à vérifier"
+],
+"rows": [
+[
+"Fondations",
+"Mois 1–2",
+"Revoir les régions et la production du niveau 3 ; mettre en place le modèle de fiches et le groupe de dégustation",
+"Une fiche modèle par grande région et un créneau de dégustation hebdomadaire qui a vraiment lieu"
+],
+[
+"Premières unités",
+"Mois 3–6",
+"Les unités que l'école programme en premier, souvent les plus compactes",
+"Des réponses chronométrées sur chaque thème de l'unité et un examen blanc complet avant l'épreuve"
+],
+[
+"D3, premier tour",
+"Mois 6–11",
+"Toutes les régions du monde une fois, à rythme régulier",
+"Un jeu complet de fiches régionales et une réponse écrite par région"
+],
+[
+"D3, second tour",
+"Mois 11–15",
+"Toutes les régions à nouveau, plus vite, en les comparant",
+"Tableaux comparatifs, réponses chronométrées sur des régions tirées au sort, séries à l'aveugle par thème"
+],
+[
+"Révision finale",
+"4 à 6 dernières semaines avant chaque examen",
+"Examens blancs, dégustations chronométrées, points faibles uniquement",
+"Au moins deux examens blancs complets en conditions réelles"
+],
+[
+"Recherche et commerce",
+"En parallèle des autres phases",
+"Lectures pour la D2 et préparation de la D6",
+"Un journal de l'actualité du secteur et un plan de recherche avec les sources notées au fil de l'eau"
+]
+]
+}
+},
+{
+"p": "Remarquez que les lectures sur le commerce et le travail de recherche avancent en arrière-plan pendant toute la période. Les candidats qui les gardent pour un seul bloc à la fin manquent souvent d'exemples et de sources, alors que dix minutes d'actualité du secteur quelques fois par semaine construisent les deux sans grand effort."
+},
+{
+"h2": "Rappel actif pour la D3 : construisez votre propre banque de questions"
+},
+{
+"p": "Relire ses fiches donne une impression de productivité, mais c'est une façon peu efficace de mémoriser. Le rappel actif, c'est-à-dire répondre de mémoire à des questions, est bien plus efficace, et pour le Diploma les meilleures questions sont souvent celles que vous écrivez vous-même, car les rédiger vous oblige à décider ce qui compte vraiment dans chaque région."
+},
+{
+"ol": [
+"Après avoir étudié une région, écrivez dix questions courtes : trois sur le climat et le site, trois sur les cépages et la vinification, deux sur la réglementation et l'étiquetage, deux sur le marché et le prix.",
+"Ajoutez deux questions ouvertes qui commencent par pourquoi ou comment, par exemple pourquoi les meilleurs sites d'une région sont en coteaux.",
+"Répondez de mémoire aux questions courtes deux jours plus tard, puis une semaine plus tard, puis un mois plus tard, et notez celles que vous ratez.",
+"Chaque semaine, répondez par écrit à une question ouverte, en temps limité, avec la structure idée, explication, exemple, lien.",
+"Échangez vos questions avec votre partenaire d'étude : celles écrites par quelqu'un d'autre révèlent des lacunes que les vôtres cachent."
+]
+},
+{
+"p": "Sur un tour complet de la D3, cette méthode produit plusieurs centaines de questions parfaitement adaptées au programme que vous étudiez. Rangez-les au même endroit, classées par région, pour pouvoir tirer au sort dans les dernières semaines des séries qui mélangent le monde entier."
+},
+{
+"h2": "Exemple commenté : d'un paragraphe faible à un paragraphe solide"
+},
+{
+"p": "Imaginons une question d'entraînement de notre cru : expliquez pourquoi les meilleurs vignobles de la Moselle se trouvent sur des pentes raides proches de la rivière. Un paragraphe faible pourrait dire : la Moselle est fraîche, les pentes sont raides et en ardoise, donc les vins ont une acidité élevée et peu d'alcool, et le riesling est le cépage principal. Chaque affirmation est juste, mais le paragraphe aligne des faits sans les expliquer et ne répond pas à la question posée, qui porte sur le rôle des pentes."
+},
+{
+"p": "Un paragraphe plus solide avance une idée à la fois. La Moselle est à la limite nord de la viticulture de qualité, donc la maturité est le principal défi. Les pentes raides orientées au sud ou au sud-ouest reçoivent la lumière sous un angle plus direct, ce qui augmente la chaleur reçue par les vignes et favorise la maturation. La rivière réfléchit la lumière et modère les températures, ce qui réduit le risque de gel sur le bas des pentes. Les sols d'ardoise absorbent la chaleur le jour et la restituent la nuit, réchauffant l'environnement des vignes. Résultat : ces sites amènent le riesling à pleine maturité la plupart des années tout en préservant son acidité élevée, et c'est pourquoi les vignobles les plus réputés se trouvent sur ces pentes, même si leur travail est lent et coûteux."
+},
+{
+"p": "La seconde version utilise les mêmes connaissances, mais les organise en causes et effets et se termine en revenant à la question, y compris la conséquence économique du coût du travail en forte pente. Réécrire ainsi vos paragraphes faibles, une fois par semaine, est l'un des moyens les plus rapides d'améliorer vos notes à l'écrit."
+},
+{
+"h2": "Des exercices de dégustation qui construisent les compétences du Diploma"
+},
+{
+"h3": "Séries organisées par structure"
+},
+{
+"p": "Au lieu de déguster par région, alignez trois ou quatre vins qui diffèrent surtout par un élément de structure, par exemple l'acidité ou les tanins, et classez-les avant d'écrire quoi que ce soit d'autre. Vous entraînez ainsi les échelles dont dépend chaque conclusion. Refaites l'exercice avec l'alcool, le corps et le sucre, et revenez-y chaque fois que votre groupe n'est pas d'accord sur les niveaux."
+},
+{
+"h3": "Comparaisons par paires"
+},
+{
+"p": "Les paires de vins faciles à confondre apprennent plus que des séries au hasard, car elles obligent à chercher la différence décisive. Rédigez une note complète pour les deux, puis listez les deux ou trois éléments qui les distinguent."
+},
+{
+"ul": [
+"Un chablis et un chardonnay non boisé de climat frais d'un autre pays : intensité, acidité, maturité du fruit.",
+"Une syrah du Rhône septentrional et un shiraz de la Barossa : caractère du fruit, alcool, poivre contre épices douces.",
+"Un barolo et un sangiovese structuré : couleur, texture des tanins, profil aromatique.",
+"Un sancerre et un sauvignon blanc de Marlborough : intensité aromatique, notes herbacées contre notes tropicales.",
+"Un fino et une manzanilla, ou un tawny et un porto de style colheita, quand vous préparez les vins mutés."
+]
+},
+{
+"h3": "Notes chronométrées"
+},
+{
+"p": "Une fois vos notes précises, commencez à les chronométrer. Fixez-vous un nombre de minutes par vin et arrêtez d'écrire quand le temps est écoulé, même si la note vous semble inachevée. La précision sous pression est une compétence différente de la précision à la maison, et elle ne progresse qu'avec l'entraînement. Vérifiez la cohérence de chaque note : la conclusion sur la qualité doit découler de l'équilibre, de l'intensité, de la complexité et de la longueur que vous avez décrits."
+},
+{
+"h2": "Préparer la D1 et la D2 sans travailler dans le secteur"
+},
+{
+"p": "Beaucoup de candidats au Diploma viennent d'autres métiers. Ils peuvent très bien réussir, mais ils doivent remplacer l'exposition quotidienne dont bénéficient sans y penser les collègues des domaines, des cavistes et des importateurs."
+},
+{
+"ul": [
+"Visitez des domaines avec une liste de questions sur les choix à la vigne, la fermentation et les coûts, et reportez les réponses dans vos fiches.",
+"Suivez chaque semaine l'actualité du secteur et notez un exemple de variation de prix, de nouveau marché ou de tendance de production.",
+"Observez les rayons d'un grand caviste et demandez-vous pourquoi chaque catégorie se situe à son niveau de prix.",
+"Lisez les fiches techniques sur les sites des producteurs : rendements, contenants de fermentation, durées d'élevage et volumes que vous pourrez citer.",
+"Demandez à des professionnels du secteur de lire une de vos réponses sur le commerce et de vous dire si elle reflète la réalité."
+]
+},
+{
+"h2": "La semaine avant chaque examen du Diploma"
+},
+{
+"ol": [
+"Arrêtez d'apprendre du nouveau : révisez uniquement vos fiches et votre banque de questions.",
+"Rédigez deux ou trois réponses chronométrées sur des thèmes de l'unité tirés au sort, puis comparez-les à vos meilleures réponses précédentes.",
+"Si l'unité comporte une dégustation, faites une ou deux courtes dégustations chronométrées et ménagez votre palais : sommeil, eau, pas de saveurs fortes avant les séances.",
+"Vérifiez les détails pratiques avec votre organisme de formation : lieu, horaires, pièce d'identité, ce que vous pouvez apporter.",
+"Prévoyez une veille d'examen légère, avec une courte révision et un coucher tôt."
+]
+},
+{
+"h2": "La place de The Wine Goat dans votre préparation au Diploma aujourd'hui"
+},
+{
+"p": "Pour être clair sur ce qui existe aujourd'hui : les contenus Diploma (niveau 4) sont en préparation dans The Wine Goat et ne sont pas encore disponibles. Ce que l'application propose maintenant, c'est une préparation complète au niveau 3, la base sur laquelle le Diploma se construit : QCM sur tout le programme, réponses courtes rédigées corrigées point par point, notes de dégustation SAT et examens blancs chronométrés."
+},
+{
+"p": "Cette base compte, car l'examen du niveau 3 suit déjà la même logique d'évaluation séparée. Le niveau 3 comporte deux unités distinctes, théorie et dégustation, et il faut au moins 55 % dans chacune ; un excellent résultat dans une unité ne compense pas l'autre, et une unité échouée se repasse seule. Les candidats qui apprennent à préparer les deux unités avec le même soin au niveau 3 emportent cette discipline au Diploma, où théorie et dégustation sont à nouveau évaluées chacune pour elle-même."
+},
+{
+"tip": "Si vous êtes entre le niveau 3 et le Diploma, entretenez vos acquis du niveau 3 avec quelques minutes de questions chaque jour et commencez dès maintenant vos fiches régionales : tout ce que vous écrivez sera réutilisé en D3."
+}
 ],
 "faq": [
-["Comment faire ses fiches pour le WSET Diploma ?", "Utilisez un modèle unique par région avec des rubriques fixes : climat, site et sol, cépages, vignoble, chai, règles et étiquettes, commerce et exemples. Rédigez des réponses courtes plutôt que de recopier, et ajoutez une ligne chaque fois que vous lisez ou dégustez quelque chose de nouveau. Des fiches qui s'enrichissent sont plus faciles à réviser et à comparer."],
-["Comment mieux rédiger ses réponses au WSET Diploma ?", "Faites un court plan avant d'écrire, puis construisez chaque paragraphe autour d'une idée, de sa cause et de son effet, d'un exemple précis et d'un lien avec la question. Respectez les verbes de consigne comme expliquer, discuter et comparer. Entraînez-vous en temps limité et corrigez-vous par rapport à la question, pas à vos fiches."],
-["Combien de vins déguster par semaine pour le WSET Diploma ?", "Il n'existe pas de chiffre officiel, mais la régularité de la dégustation à l'aveugle compte plus que le volume. Beaucoup de candidats visent au moins une séance structurée par semaine avec plusieurs vins et des notes complètes. Un groupe de dégustation la rend abordable, car le coût des bouteilles est partagé et les échelles se comparent."],
-["Un groupe de travail est-il utile pour le WSET Diploma ?", "Oui, pour la plupart des candidats. Un groupe partage le coût des vins, commente les notes de dégustation et les réponses rédigées et aide chacun à tenir le rythme sur une formation longue. Gardez-le efficace : un thème par séance, dégustation à l'aveugle, notes écrites avant la discussion et une ou deux questions d'entraînement pour finir."],
-["Quelle est la meilleure façon de réviser l'examen D3 ?", "Faites plusieurs tours de toutes les régions plutôt qu'un seul passage approfondi sur chacune. Utilisez un modèle fixe, interrogez-vous avec des questions, rédigez des réponses chronométrées sur des régions tirées au sort et dégustez sur tout le programme. Gardez les dernières semaines avant l'examen pour les révisions mélangées et les examens blancs."]
+[
+"Comment faire ses fiches pour le WSET Diploma ?",
+"Utilisez un modèle unique par région avec des rubriques fixes : climat, site et sol, cépages, vignoble, chai, règles et étiquettes, commerce et exemples. Rédigez des réponses courtes plutôt que de recopier, et ajoutez une ligne chaque fois que vous lisez ou dégustez quelque chose de nouveau. Des fiches qui s'enrichissent sont plus faciles à réviser et à comparer."
+],
+[
+"Comment mieux rédiger ses réponses au WSET Diploma ?",
+"Faites un court plan avant d'écrire, puis construisez chaque paragraphe autour d'une idée, de sa cause et de son effet, d'un exemple précis et d'un lien avec la question. Respectez les verbes de consigne comme expliquer, discuter et comparer. Entraînez-vous en temps limité et corrigez-vous par rapport à la question, pas à vos fiches."
+],
+[
+"Combien de vins déguster par semaine pour le WSET Diploma ?",
+"Il n'existe pas de chiffre officiel, mais la régularité de la dégustation à l'aveugle compte plus que le volume. Beaucoup de candidats visent au moins une séance structurée par semaine avec plusieurs vins et des notes complètes. Un groupe de dégustation la rend abordable, car le coût des bouteilles est partagé et les échelles se comparent."
+],
+[
+"Un groupe de travail est-il utile pour le WSET Diploma ?",
+"Oui, pour la plupart des candidats. Un groupe partage le coût des vins, commente les notes de dégustation et les réponses rédigées et aide chacun à tenir le rythme sur une formation longue. Gardez-le efficace : un thème par séance, dégustation à l'aveugle, notes écrites avant la discussion et une ou deux questions d'entraînement pour finir."
+],
+[
+"Quelle est la meilleure façon de réviser l'examen D3 ?",
+"Faites plusieurs tours de toutes les régions plutôt qu'un seul passage approfondi sur chacune. Utilisez un modèle fixe, interrogez-vous avec des questions, rédigez des réponses chronométrées sur des régions tirées au sort et dégustez sur tout le programme. Gardez les dernières semaines avant l'examen pour les révisions mélangées et les examens blancs."
+],
+[
+"Vaut-il mieux passer plusieurs unités du Diploma rapprochées ou une à la fois ?",
+"Cela dépend de votre temps et de la façon dont votre école programme les unités. Les passer une à la fois permet de consacrer à chacune toute votre attention et se concilie plus facilement avec un emploi. Les rapprocher raccourcit le parcours mais augmente la pression. Dans les deux cas, réservez les quatre à six dernières semaines avant chaque examen à la révision et aux examens blancs."
+],
+[
+"Comment rester motivé pendant un Diploma aussi long ?",
+"Découpez le parcours en phases avec des résultats visibles, comme des fiches régionales terminées ou un nombre précis de réponses chronométrées, et marquez chaque étape. Un partenaire d'étude ou un groupe de dégustation crée un engagement mutuel. Les courtes séances quotidiennes aident aussi, car la progression continue pendant les semaines chargées. Beaucoup tiennent un journal des réponses rédigées et des vins dégustés."
+],
+[
+"Est-il utile d'écrire soi-même ses questions de Diploma ?",
+"Oui. Écrire des questions oblige à décider ce qui compte dans une région ou un thème, et y répondre de mémoire à intervalles croissants est l'une des méthodes de révision les plus efficaces. Mélangez des questions factuelles courtes et des questions ouvertes en pourquoi et comment, et échangez vos séries avec un partenaire d'étude pour repérer des lacunes que vous ne verriez pas seul."
+],
+[
+"The Wine Goat peut-il m'aider à préparer le WSET Diploma ?",
+"Aujourd'hui, il aide sur les fondations : l'application couvre entièrement le niveau 3, avec des questions, des réponses courtes rédigées corrigées point par point, des notes de dégustation SAT et des examens blancs. Les contenus Diploma sont en préparation et pas encore disponibles. Des acquis du niveau 3 solides et automatiques font gagner beaucoup de temps une fois le Diploma commencé."
+],
+[
+"Que faire si j'échoue à une unité du Diploma ?",
+"Demandez à votre organisme de formation comment se déroule le rattrapage, puis analysez ce qui n'a pas fonctionné : lacunes, réponses à côté de la question, gestion du temps ou étalonnage en dégustation. Reconstruisez le plan autour de ces faiblesses au lieu de tout relire. Beaucoup de candidats réussissent au second passage grâce à une approche plus ciblée, à l'entraînement chronométré et aux retours d'un formateur ou d'un partenaire."
+]
 ]
 },
 "es": {
 "sections": [
-{"h2": "Apuntes de estudio: un sistema completo para el WSET Diploma"},
-{"p": "Los consejos de estudio para el WSET Diploma que de verdad importan no son trucos sino sistemas: un calendario que puedas mantener dieciocho meses o más, unos apuntes que crecen en lugar de reescribirse, un método fiable para las respuestas escritas y una rutina de cata que calibra el paladar. Estos apuntes completan los consejos de arriba con métodos concretos, plantillas y listas de control que puedes empezar a usar hoy, aunque todavía estés terminando el WSET nivel 3."},
-{"h2": "Planifica el Diploma hacia atrás desde cada examen"},
-{"p": "Un plan de estudio para el Diploma funciona mejor si se construye hacia atrás a partir de fechas de examen fijas. Unas 500 horas en total suenan abstractas; repartidas por unidades y semanas se convierten en un objetivo semanal que puedes proteger en la agenda."},
-{"ol": [
+{
+"h2": "Apuntes de estudio: un sistema completo para el WSET Diploma"
+},
+{
+"p": "Los consejos de estudio para el WSET Diploma que de verdad importan no son trucos sino sistemas: un calendario que puedas mantener dieciocho meses o más, unos apuntes que crecen en lugar de reescribirse, un método fiable para las respuestas escritas y una rutina de cata que calibra el paladar. Estos apuntes completan los consejos de arriba con métodos concretos, plantillas y listas de control que puedes empezar a usar hoy, aunque todavía estés terminando el WSET nivel 3."
+},
+{
+"h2": "Planifica el Diploma hacia atrás desde cada examen"
+},
+{
+"p": "Un plan de estudio para el Diploma funciona mejor si se construye hacia atrás a partir de fechas de examen fijas. Unas 500 horas en total suenan abstractas; repartidas por unidades y semanas se convierten en un objetivo semanal que puedes proteger en la agenda."
+},
+{
+"ol": [
 "Apunta cada fecha de examen y cada plazo de entrega que conozcas, unidad por unidad.",
 "Da a cada unidad una parte del tiempo acorde con su tamaño: la D3 necesita muchas más semanas que la D4 o la D5.",
 "Reserva las últimas cuatro a seis semanas antes de cada examen solo para repaso, respuestas con tiempo y catas de simulacro.",
 "Divide las semanas restantes por temas, por ejemplo una región o un tema de elaboración por semana.",
 "Bloquea en la agenda huecos semanales fijos para teoría, escritura y cata, y trátalos como citas.",
 "Revisa el plan una vez al mes y mueve los temas, no las fechas de examen, cuando surjan imprevistos."
-]},
-{"tip": "Cuenta con los imprevistos. Picos de trabajo, viajes y enfermedades van a aparecer a lo largo de una titulación larga. Un plan con una semana de recuperación libre cada mes aguanta; un plan sin margen se hunde en la primera temporada complicada."},
-{"h2": "Apuntes que crecen: una plantilla para cada región"},
-{"p": "Los apuntes más eficaces para el Diploma usan la misma plantilla en cada región, de modo que puedes comparar lugares rápidamente y detectar lagunas. En lugar de copiar un manual, escribe respuestas breves a preguntas fijas y añade ejemplos a medida que los encuentres."},
-{"table": {"head": ["Apartado", "Qué escribir", "Por qué importa en el examen"], "rows": [
-["Clima y meteorología", "Tipo de clima, riesgos principales (heladas, lluvia, calor, sequía), variación entre añadas", "Explica diferencias de madurez, acidez, rendimiento y precio"],
-["Emplazamiento y suelo", "Altitud, orientación, pendientes, suelos y disponibilidad de agua", "Apoya los argumentos de calidad y las jerarquías de denominaciones"],
-["Variedades", "Variedades principales, el estilo que dan aquí, compañeras de ensamblaje", "Base de la mayoría de las preguntas y de las conclusiones de cata"],
-["Viñedo", "Conducción, densidad, riego, tipo de vendimia, rendimientos, sostenibilidad", "Relaciona costes, calidad y estilo"],
-["Bodega", "Fermentación, extracción, madera, lías, ensamblaje, dulzor", "Explica las decisiones de estilo y los niveles de calidad"],
-["Normativa y etiquetas", "Denominaciones, categorías, términos de envejecimiento, cambios recientes", "Frecuente en preguntas cortas; la precisión da puntos"],
-["Negocio", "Principales productores, mercados, franjas de precio, tendencias", "Permite hablar de la realidad comercial, como esperan la D2 y la D3"],
-["Ejemplos", "Dos o tres vinos o bodegas citados con un motivo", "Los ejemplos concretos suben la nota de las respuestas"]
-]}},
-{"p": "Guarda los apuntes en digital o en una carpeta de anillas para poder insertar datos nuevos. Cada vez que leas un artículo, cates un vino o termines una clase, añade una línea a la región que corresponda. Al cabo de un año, ese archivo se convierte en tu libro de repaso personal, hecho por ti y, por tanto, mucho más fácil de recordar."},
-{"h2": "Un método para las respuestas escritas del Diploma"},
-{"p": "Las mejores respuestas escritas del WSET Diploma comparten la misma estructura: responden a la pregunta planteada, hacen una afirmación clara, explican la causa, la apoyan con un ejemplo y vuelven a la pregunta. Practicar este esquema hasta automatizarlo es la mejor manera de sumar puntos con el tiempo justo."},
-{"h3": "Idea, explicación, ejemplo, conexión"},
-{"ul": [
+]
+},
+{
+"tip": "Cuenta con los imprevistos. Picos de trabajo, viajes y enfermedades van a aparecer a lo largo de una titulación larga. Un plan con una semana de recuperación libre cada mes aguanta; un plan sin margen se hunde en la primera temporada complicada."
+},
+{
+"h2": "Apuntes que crecen: una plantilla para cada región"
+},
+{
+"p": "Los apuntes más eficaces para el Diploma usan la misma plantilla en cada región, de modo que puedes comparar lugares rápidamente y detectar lagunas. En lugar de copiar un manual, escribe respuestas breves a preguntas fijas y añade ejemplos a medida que los encuentres."
+},
+{
+"table": {
+"head": [
+"Apartado",
+"Qué escribir",
+"Por qué importa en el examen"
+],
+"rows": [
+[
+"Clima y meteorología",
+"Tipo de clima, riesgos principales (heladas, lluvia, calor, sequía), variación entre añadas",
+"Explica diferencias de madurez, acidez, rendimiento y precio"
+],
+[
+"Emplazamiento y suelo",
+"Altitud, orientación, pendientes, suelos y disponibilidad de agua",
+"Apoya los argumentos de calidad y las jerarquías de denominaciones"
+],
+[
+"Variedades",
+"Variedades principales, el estilo que dan aquí, compañeras de ensamblaje",
+"Base de la mayoría de las preguntas y de las conclusiones de cata"
+],
+[
+"Viñedo",
+"Conducción, densidad, riego, tipo de vendimia, rendimientos, sostenibilidad",
+"Relaciona costes, calidad y estilo"
+],
+[
+"Bodega",
+"Fermentación, extracción, madera, lías, ensamblaje, dulzor",
+"Explica las decisiones de estilo y los niveles de calidad"
+],
+[
+"Normativa y etiquetas",
+"Denominaciones, categorías, términos de envejecimiento, cambios recientes",
+"Frecuente en preguntas cortas; la precisión da puntos"
+],
+[
+"Negocio",
+"Principales productores, mercados, franjas de precio, tendencias",
+"Permite hablar de la realidad comercial, como esperan la D2 y la D3"
+],
+[
+"Ejemplos",
+"Dos o tres vinos o bodegas citados con un motivo",
+"Los ejemplos concretos suben la nota de las respuestas"
+]
+]
+}
+},
+{
+"p": "Guarda los apuntes en digital o en una carpeta de anillas para poder insertar datos nuevos. Cada vez que leas un artículo, cates un vino o termines una clase, añade una línea a la región que corresponda. Al cabo de un año, ese archivo se convierte en tu libro de repaso personal, hecho por ti y, por tanto, mucho más fácil de recordar."
+},
+{
+"h2": "Un método para las respuestas escritas del Diploma"
+},
+{
+"p": "Las mejores respuestas escritas del WSET Diploma comparten la misma estructura: responden a la pregunta planteada, hacen una afirmación clara, explican la causa, la apoyan con un ejemplo y vuelven a la pregunta. Practicar este esquema hasta automatizarlo es la mejor manera de sumar puntos con el tiempo justo."
+},
+{
+"h3": "Idea, explicación, ejemplo, conexión"
+},
+{
+"ul": [
 "Idea: plantea un factor que responda a la pregunta, por ejemplo el clima fresco.",
 "Explicación: da la causa y el efecto, por ejemplo una maduración lenta que conserva la acidez y los compuestos aromáticos.",
 "Ejemplo: cita una región, una bodega o una técnica concretas que lo ilustren.",
 "Conexión: di cómo afecta al estilo, la calidad o el precio y, por tanto, cómo responde a la pregunta."
-]},
-{"h3": "Antes de empezar a escribir"},
-{"p": "Dedica los primeros minutos de cada pregunta a subrayar los verbos del enunciado y su alcance. Explicar pide causas, discutir pide varios puntos de vista y una conclusión, comparar pide semejanzas y diferencias. Después anota un pequeño esquema de las ideas que vas a desarrollar. Las respuestas que siguen un esquema son más claras, más equilibradas y se salen menos del tema."},
-{"tip": "Corrige tus respuestas de práctica frente a la pregunta, no frente a tus apuntes. Un error habitual es escribir todo lo que sabes sobre una región; los examinadores solo premian lo que responde a la pregunta. Si un párrafo valdría para cualquier pregunta sobre esa región, probablemente no responde a esta."},
-{"h2": "Cata: calibra con ejemplos clásicos"},
-{"p": "Calibrar las escalas de cata es la forma más rápida de mejorar la nota en la cata del Diploma. Cata ejemplos clásicos uno al lado del otro para que alto, medio y bajo signifiquen siempre lo mismo para ti."},
-{"ul": [
+]
+},
+{
+"h3": "Antes de empezar a escribir"
+},
+{
+"p": "Dedica los primeros minutos de cada pregunta a subrayar los verbos del enunciado y su alcance. Explicar pide causas, discutir pide varios puntos de vista y una conclusión, comparar pide semejanzas y diferencias. Después anota un pequeño esquema de las ideas que vas a desarrollar. Las respuestas que siguen un esquema son más claras, más equilibradas y se salen menos del tema."
+},
+{
+"tip": "Corrige tus respuestas de práctica frente a la pregunta, no frente a tus apuntes. Un error habitual es escribir todo lo que sabes sobre una región; los examinadores solo premian lo que responde a la pregunta. Si un párrafo valdría para cualquier pregunta sobre esa región, probablemente no responde a esta."
+},
+{
+"h2": "Cata: calibra con ejemplos clásicos"
+},
+{
+"p": "Calibrar las escalas de cata es la forma más rápida de mejorar la nota en la cata del Diploma. Cata ejemplos clásicos uno al lado del otro para que alto, medio y bajo signifiquen siempre lo mismo para ti."
+},
+{
+"ul": [
 "Acidez alta: Riesling del Mosela, Chablis, Sauvignon Blanc del Loira.",
 "Tanino alto: Barolo o Barbaresco, Madiran, un Burdeos joven de buena añada.",
 "Tanino bajo y cuerpo ligero: Beaujolais, muchos Pinot Noir sencillos.",
@@ -262,25 +1180,227 @@
 "Alcohol bajo: Riesling Kabinett alemán, Moscato d'Asti.",
 "Aromas pronunciados: Gewürztraminer, Sauvignon Blanc de Marlborough, Moscatel.",
 "Madera evidente: Rioja Gran Reserva con roble americano, Borgoña blanco o Chardonnay californiano con barrica."
-]},
-{"p": "Organiza un grupo de cata semanal o quincenal. Cada persona trae vinos tapados, todo el mundo escribe notas completas en silencio y después se comparan. Deja las conclusiones para el final: el objetivo es ponerse de acuerdo primero en estructura y calidad. Turnaos para elegir el tema, así todas las regiones salen a lo largo del año."},
-{"h2": "Trampas frecuentes para quien prepara el Diploma"},
-{"ul": [
+]
+},
+{
+"p": "Organiza un grupo de cata semanal o quincenal. Cada persona trae vinos tapados, todo el mundo escribe notas completas en silencio y después se comparan. Deja las conclusiones para el final: el objetivo es ponerse de acuerdo primero en estructura y calidad. Turnaos para elegir el tema, así todas las regiones salen a lo largo del año."
+},
+{
+"h2": "Trampas frecuentes para quien prepara el Diploma"
+},
+{
+"ul": [
 "Leer de forma pasiva durante horas y confundir familiaridad con memoria: mejor ponerse a prueba.",
 "Dejar para el final las regiones de la D3 que menos gustan, que acaban siendo el punto débil en el examen.",
 "Escribir notas de cata sin justificar la calidad, o con motivos que no encajan con la descripción.",
 "Olvidar la parte comercial: precios, mercados y productores forman parte de una buena respuesta en varias unidades.",
 "Estudiar a solas durante meses: un compañero de estudio saca a la luz las lagunas y mantiene la motivación."
-]},
-{"h2": "Repasar en 15 minutos al día"},
-{"p": "Incluso los días más complicados, quince minutos hacen avanzar el Diploma. Dedica cinco minutos a preguntas con repetición espaciada sobre una región, cinco a actualizar la plantilla de esa región y cinco a escribir un párrafo con el esquema idea, explicación, ejemplo, conexión. Los días más tranquilos, pasa a una pregunta completa con tiempo o a una cata. Mucha gente mantiene firmes las bases del nivel 3 practicando en la app en el transporte."}
+]
+},
+{
+"h2": "Repasar en 15 minutos al día"
+},
+{
+"p": "Incluso los días más complicados, quince minutos hacen avanzar el Diploma. Dedica cinco minutos a preguntas con repetición espaciada sobre una región, cinco a actualizar la plantilla de esa región y cinco a escribir un párrafo con el esquema idea, explicación, ejemplo, conexión. Los días más tranquilos, pasa a una pregunta completa con tiempo o a una cata. Mucha gente mantiene firmes las bases del nivel 3 practicando en la app en el transporte."
+},
+{
+"h2": "Un ejemplo de calendario de estudio del Diploma en unos 18 meses"
+},
+{
+"p": "Un calendario del Diploma se cumple con más facilidad cuando cada fase tiene un resultado claro, no solo una lista de capítulos. El esquema siguiente es un ejemplo para adaptar, no una norma fija: las escuelas ordenan las unidades de forma distinta, y algunos candidatos se presentan a varias unidades seguidas mientras que otros las reparten en dos o tres años. Lo importante es que cada fase termine con algo comprobable, como un conjunto de apuntes, un número de respuestas cronometradas o una serie de catas a ciegas."
+},
+{
+"table": {
+"head": [
+"Fase",
+"Plazo orientativo",
+"Objetivo principal",
+"Resultado a comprobar"
+],
+"rows": [
+[
+"Bases",
+"Meses 1–2",
+"Repasar regiones y elaboración del nivel 3; preparar la plantilla de apuntes y el grupo de cata",
+"Una página de plantilla por gran región y una cata semanal que se celebra de verdad"
+],
+[
+"Primeras unidades",
+"Meses 3–6",
+"Las unidades que la escuela programa primero, a menudo las más compactas",
+"Respuestas cronometradas sobre cada tema de la unidad y un simulacro completo antes del examen"
+],
+[
+"D3, primera vuelta",
+"Meses 6–11",
+"Todas las regiones del mundo una vez, a ritmo constante",
+"Un juego completo de apuntes regionales y una respuesta escrita por región"
+],
+[
+"D3, segunda vuelta",
+"Meses 11–15",
+"Todas las regiones otra vez, más rápido, comparándolas entre sí",
+"Tablas comparativas, respuestas cronometradas sobre regiones al azar, series a ciegas por tema"
+],
+[
+"Repaso final",
+"Últimas 4–6 semanas antes de cada examen",
+"Simulacros, catas cronometradas, solo puntos débiles",
+"Al menos dos simulacros completos en condiciones de examen"
+],
+[
+"Investigación y negocio",
+"En paralelo a las demás fases",
+"Lecturas para la D2 y planificación de la D6",
+"Un registro de noticias del sector y un plan de investigación con las fuentes anotadas sobre la marcha"
+]
+]
+}
+},
+{
+"p": "Fíjate en que las lecturas sobre el negocio y el trabajo de investigación avanzan en segundo plano durante todo el periodo. Quien los deja para un único bloque al final suele quedarse sin ejemplos ni fuentes, mientras que diez minutos de noticias del sector unas cuantas veces por semana construyen ambas cosas sin gran esfuerzo."
+},
+{
+"h2": "Recuerdo activo para la D3: crea tu propio banco de preguntas"
+},
+{
+"p": "Releer los apuntes da sensación de productividad, pero es una forma débil de memorizar. El recuerdo activo, es decir, responder preguntas de memoria, es mucho más eficaz, y para el Diploma las mejores preguntas suelen ser las que escribes tú, porque escribirlas te obliga a decidir qué importa de verdad en cada región."
+},
+{
+"ol": [
+"Después de estudiar una región, escribe diez preguntas breves: tres sobre clima y emplazamiento, tres sobre variedades y elaboración, dos sobre legislación y etiquetas, dos sobre mercado y precio.",
+"Añade dos preguntas abiertas que empiecen por por qué o cómo, por ejemplo por qué los mejores viñedos de una región están en ladera.",
+"Responde de memoria a las preguntas breves dos días después, luego una semana después y luego un mes después, y marca las que falles.",
+"Cada semana responde por escrito a una pregunta abierta, con tiempo limitado, usando la estructura idea, explicación, ejemplo, conexión.",
+"Intercambia preguntas con tu compañero de estudio: las que escribe otra persona revelan lagunas que las tuyas esconden."
+]
+},
+{
+"p": "En una vuelta completa de la D3 este método produce varios cientos de preguntas perfectamente adaptadas al programa que estudias. Guárdalas en un solo lugar, etiquetadas por región, para poder sacar en las últimas semanas series al azar que mezclen todo el mundo."
+},
+{
+"h2": "Ejemplo comentado: de un párrafo flojo a uno sólido"
+},
+{
+"p": "Imagina una pregunta de práctica nuestra: explica por qué los mejores viñedos del Mosela están en laderas empinadas cerca del río. Un párrafo flojo podría decir: el Mosela es fresco, las laderas son empinadas y de pizarra, así que los vinos tienen acidez alta y poco alcohol, y la riesling es la variedad principal. Todas las afirmaciones son ciertas, pero el párrafo enumera hechos sin explicarlos y no responde a la pregunta, que trata de por qué importan las laderas."
+},
+{
+"p": "Un párrafo más sólido desarrolla una idea cada vez. El Mosela está en el límite norte de la viticultura de calidad, así que la maduración es el principal reto. Las laderas empinadas orientadas al sur o al suroeste reciben la luz con un ángulo más directo, lo que aumenta el calor que llega a las cepas y favorece la maduración. El río refleja la luz y modera las temperaturas, lo que reduce el riesgo de heladas en la parte baja de las laderas. Los suelos de pizarra absorben calor durante el día y lo liberan por la noche, calentando el entorno de las cepas. Como resultado, estos emplazamientos maduran por completo la riesling la mayoría de los años manteniendo su acidez alta, y por eso los viñedos más famosos están en estas laderas, aunque trabajarlos sea lento y costoso."
+},
+{
+"p": "La segunda versión usa los mismos conocimientos, pero los organiza como causas y efectos y termina volviendo a la pregunta, incluida la consecuencia económica del coste de trabajar viñedos empinados. Reescribir así tus párrafos flojos, una vez por semana, es una de las formas más rápidas de subir la nota en las respuestas escritas."
+},
+{
+"h2": "Ejercicios de cata que construyen las competencias del Diploma"
+},
+{
+"h3": "Series organizadas por estructura"
+},
+{
+"p": "En lugar de catar por regiones, pon en fila tres o cuatro vinos que se diferencien sobre todo en un elemento estructural, por ejemplo la acidez o el tanino, y ordénalos antes de escribir nada más. Así entrenas las escalas de las que depende cada conclusión. Repite el ejercicio con el alcohol, el cuerpo y el dulzor, y vuelve a él cada vez que tu grupo no se ponga de acuerdo sobre los niveles."
+},
+{
+"h3": "Comparaciones por parejas"
+},
+{
+"p": "Las parejas de vinos fáciles de confundir enseñan más que las series al azar, porque te obligan a buscar la diferencia decisiva. Escribe una nota completa de los dos y luego enumera los dos o tres rasgos que los separan."
+},
+{
+"ul": [
+"Un chablis y un chardonnay sin madera de clima fresco de otro país: intensidad, acidez, madurez de la fruta.",
+"Una syrah del Ródano septentrional y un shiraz de Barossa: carácter de la fruta, alcohol, pimienta frente a especias dulces.",
+"Un barolo y un sangiovese estructurado: color, textura del tanino, perfil aromático.",
+"Un sancerre y un sauvignon blanc de Marlborough: intensidad aromática, notas herbáceas frente a tropicales.",
+"Un fino y una manzanilla, o un tawny y un oporto de estilo colheita, cuando prepares los vinos generosos."
+]
+},
+{
+"h3": "Notas cronometradas"
+},
+{
+"p": "Cuando tus notas sean precisas, empieza a cronometrarlas. Ponte un número fijo de minutos por vino y deja de escribir cuando se acabe el tiempo, aunque la nota te parezca incompleta. La precisión bajo presión es una habilidad distinta de la precisión en casa y solo mejora con práctica. Comprueba la coherencia de cada nota: la conclusión sobre la calidad debe derivarse del equilibrio, la intensidad, la complejidad y la persistencia que has descrito."
+},
+{
+"h2": "Preparar la D1 y la D2 sin trabajar en el sector"
+},
+{
+"p": "Muchos candidatos al Diploma vienen de otras profesiones. Pueden obtener muy buenos resultados, pero necesitan sustituir la exposición diaria que los compañeros de bodegas, tiendas e importadoras dan por hecha."
+},
+{
+"ul": [
+"Visita bodegas con una lista de preguntas sobre decisiones en el viñedo, fermentación y costes, y anota las respuestas en tus plantillas.",
+"Sigue cada semana las noticias del sector y anota un ejemplo de cambio de precio, mercado nuevo o tendencia de producción.",
+"Observa los estantes de una gran tienda de vinos y pregúntate por qué cada categoría se sitúa en su franja de precio.",
+"Lee las fichas técnicas de las webs de los productores: dan rendimientos, depósitos de fermentación, tiempos de crianza y volúmenes que puedes citar.",
+"Pide a profesionales del sector que lean una de tus respuestas sobre el negocio y te digan si refleja la realidad."
+]
+},
+{
+"h2": "La semana antes de cada examen del Diploma"
+},
+{
+"ol": [
+"Deja de estudiar contenidos nuevos: repasa solo tus apuntes y tu banco de preguntas.",
+"Escribe dos o tres respuestas cronometradas sobre temas de la unidad elegidos al azar y compáralas con tus mejores respuestas anteriores.",
+"Si la unidad incluye cata, haz una o dos catas cortas cronometradas y cuida el paladar: sueño, agua y nada de sabores fuertes antes de las sesiones.",
+"Comprueba los detalles prácticos con tu centro de formación: lugar, horario, documento de identidad y qué puedes llevar.",
+"Planifica el día anterior al examen como un día tranquilo, con un repaso breve y a la cama temprano."
+]
+},
+{
+"h2": "Qué papel tiene hoy The Wine Goat en tu plan para el Diploma"
+},
+{
+"p": "Para ser claros sobre lo que existe hoy: los contenidos del Diploma (nivel 4) están en preparación en The Wine Goat y todavía no están disponibles. Lo que la app ofrece ahora es una preparación completa del nivel 3, la base sobre la que se construye el Diploma: preguntas tipo test de todo el programa, respuestas cortas escritas corregidas por puntos clave, notas de cata SAT y simulacros de examen cronometrados."
+},
+{
+"p": "Esa base importa porque el examen del nivel 3 ya sigue la misma lógica de evaluación por separado. El nivel 3 tiene dos unidades distintas, teoría y cata, y necesitas al menos un 55 % en cada una; un gran resultado en una unidad no compensa la otra, y una unidad suspendida se repite sola. Quien aprende a preparar las dos unidades con el mismo cuidado en el nivel 3 lleva esa disciplina al Diploma, donde teoría y cata vuelven a evaluarse cada una por su cuenta."
+},
+{
+"tip": "Si estás entre el nivel 3 y el Diploma, mantén vivos tus conocimientos del nivel 3 con unos minutos de preguntas cada día y empieza ya tus plantillas regionales: todo lo que escribas se reutilizará en la D3."
+}
 ],
 "faq": [
-["¿Cómo tomar apuntes para el WSET Diploma?", "Usa una plantilla única para cada región con apartados fijos: clima, emplazamiento y suelo, variedades, viñedo, bodega, normativa y etiquetas, negocio y ejemplos. Escribe respuestas breves en lugar de copiar textos y añade una línea cada vez que leas o cates algo nuevo. Unos apuntes que crecen con el tiempo son más fáciles de repasar y comparar."],
-["¿Cómo escribir mejores respuestas en el WSET Diploma?", "Haz un esquema breve antes de escribir y construye cada párrafo con una idea, su causa y efecto, un ejemplo concreto y una conexión con la pregunta. Respeta los verbos del enunciado, como explicar, discutir y comparar. Practica con tiempo y corrige tus respuestas frente a la pregunta, no frente a tus apuntes."],
-["¿Cuántos vinos catar a la semana para el WSET Diploma?", "No hay una cifra oficial, pero la regularidad en la cata a ciegas importa más que el volumen. Muchas personas aspiran a al menos una sesión estructurada a la semana con varios vinos y notas completas por escrito. Un grupo de cata lo hace asumible, porque se reparte el coste de las botellas y se comparan las escalas."],
-["¿Sirve de algo un grupo de estudio para el WSET Diploma?", "Sí, para la mayoría. Un grupo reparte el coste de los vinos, comenta las notas de cata y las respuestas escritas y ayuda a mantener el ritmo durante una titulación larga. Mantenlo centrado: un tema por sesión, cata a ciegas, notas escritas antes de debatir y una o dos preguntas de práctica para terminar."],
-["¿Cuál es la mejor manera de repasar para el examen D3?", "Da varias vueltas a todas las regiones en lugar de estudiar cada una una sola vez a fondo. Usa una plantilla fija, ponte a prueba con preguntas, escribe respuestas con tiempo sobre regiones al azar y cata de todo el temario. Reserva las últimas semanas antes del examen para el repaso mezclado y los simulacros."]
+[
+"¿Cómo tomar apuntes para el WSET Diploma?",
+"Usa una plantilla única para cada región con apartados fijos: clima, emplazamiento y suelo, variedades, viñedo, bodega, normativa y etiquetas, negocio y ejemplos. Escribe respuestas breves en lugar de copiar textos y añade una línea cada vez que leas o cates algo nuevo. Unos apuntes que crecen con el tiempo son más fáciles de repasar y comparar."
+],
+[
+"¿Cómo escribir mejores respuestas en el WSET Diploma?",
+"Haz un esquema breve antes de escribir y construye cada párrafo con una idea, su causa y efecto, un ejemplo concreto y una conexión con la pregunta. Respeta los verbos del enunciado, como explicar, discutir y comparar. Practica con tiempo y corrige tus respuestas frente a la pregunta, no frente a tus apuntes."
+],
+[
+"¿Cuántos vinos catar a la semana para el WSET Diploma?",
+"No hay una cifra oficial, pero la regularidad en la cata a ciegas importa más que el volumen. Muchas personas aspiran a al menos una sesión estructurada a la semana con varios vinos y notas completas por escrito. Un grupo de cata lo hace asumible, porque se reparte el coste de las botellas y se comparan las escalas."
+],
+[
+"¿Sirve de algo un grupo de estudio para el WSET Diploma?",
+"Sí, para la mayoría. Un grupo reparte el coste de los vinos, comenta las notas de cata y las respuestas escritas y ayuda a mantener el ritmo durante una titulación larga. Mantenlo centrado: un tema por sesión, cata a ciegas, notas escritas antes de debatir y una o dos preguntas de práctica para terminar."
+],
+[
+"¿Cuál es la mejor manera de repasar para el examen D3?",
+"Da varias vueltas a todas las regiones en lugar de estudiar cada una una sola vez a fondo. Usa una plantilla fija, ponte a prueba con preguntas, escribe respuestas con tiempo sobre regiones al azar y cata de todo el temario. Reserva las últimas semanas antes del examen para el repaso mezclado y los simulacros."
+],
+[
+"¿Es mejor presentarse a varias unidades del Diploma seguidas o a una cada vez?",
+"Depende de tu tiempo y de cómo programe las unidades tu escuela. Presentarte a una cada vez te permite dedicar toda tu atención a cada unidad y es más fácil de compaginar con el trabajo. Presentarte a varias seguidas acorta el recorrido pero aumenta la presión. Elijas lo que elijas, reserva las últimas cuatro a seis semanas antes de cada examen solo para el repaso y los simulacros."
+],
+[
+"¿Cómo mantener la motivación durante un Diploma tan largo?",
+"Divide el recorrido en fases con resultados visibles, como apuntes regionales terminados o un número concreto de respuestas cronometradas, y celebra cada logro. Un compañero de estudio o un grupo de cata añade compromiso. Las sesiones cortas diarias también ayudan, porque el progreso continúa en las semanas complicadas. Muchos llevan un registro de respuestas escritas y vinos catados para ver cuánto han avanzado."
+],
+[
+"¿Sirve de algo escribir mis propias preguntas del Diploma?",
+"Sí. Escribir preguntas te obliga a decidir qué importa en una región o un tema, y responderlas de memoria a intervalos crecientes es uno de los métodos de repaso más eficaces. Combina preguntas breves sobre datos con preguntas abiertas de por qué y cómo, e intercambia series con un compañero de estudio para descubrir lagunas que tú solo no verías."
+],
+[
+"¿Puede The Wine Goat ayudarme a preparar el WSET Diploma?",
+"Hoy ayuda con las bases: la app cubre por completo el nivel 3, con preguntas, respuestas cortas escritas corregidas por puntos clave, notas de cata SAT y simulacros de examen. Los contenidos del Diploma están en preparación y todavía no están disponibles. Unos conocimientos del nivel 3 sólidos y automáticos ahorran mucho tiempo cuando empiezas el Diploma."
+],
+[
+"¿Qué hago si suspendo una unidad del Diploma?",
+"Pregunta a tu centro de formación cómo funciona la repetición y analiza qué falló: lagunas, respuestas que no contestaban a la pregunta, gestión del tiempo o calibración en la cata. Reconstruye el plan en torno a esos puntos débiles en vez de releerlo todo. Muchos candidatos aprueban en el segundo intento con un enfoque más dirigido, práctica cronometrada y la opinión de un profesor o compañero."
+]
 ]
 }
 }
