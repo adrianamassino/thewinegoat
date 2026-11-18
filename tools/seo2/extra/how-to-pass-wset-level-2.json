@@ -8,13 +8,7 @@
 {"h2": "The cause-and-effect core of WSET Level 2"},
 {"p": "Climate is the single most useful idea in WSET Level 2 because it explains most differences in style. A cool climate slows ripening, so grapes keep more acidity and develop less sugar; the wine is lighter in body, lower in alcohol and shows green or citrus fruit. A warm climate does the opposite: riper, sweeter grapes give wines with more alcohol, fuller body, lower acidity and riper fruit such as tropical fruit in whites or jammy black fruit in reds."},
 {"h3": "Climate and ripeness at a glance"},
-{"table": {"head": ["Factor", "What it does to the grape", "What you taste in the wine"], "rows": [
-["Cool climate or cool site", "Slower ripening, acidity retained, less sugar", "High acidity, lighter body, lower alcohol, green apple, citrus, red fruit"],
-["Warm or hot climate", "Fast ripening, more sugar, acidity falls", "Fuller body, higher alcohol, softer acidity, tropical or black fruit"],
-["Sunny slopes, especially facing the sun", "More warmth and light reach the vines", "Riper fruit in regions that would otherwise be marginal"],
-["Large rivers, lakes, the sea", "Moderate temperature extremes", "More even ripening and fresher styles"],
-["Altitude", "Cooler temperatures, especially at night", "Fresher acidity in warm countries such as Argentina"]
-]}},
+{"table": {"head": ["Factor", "What it does to the grape", "What you taste in the wine"], "rows": [["Cool climate or cool site", "Slower ripening, acidity retained, less sugar", "High acidity, lighter body, lower alcohol, green apple, citrus, red fruit"], ["Warm or hot climate", "Fast ripening, more sugar, acidity falls", "Fuller body, higher alcohol, softer acidity, tropical or black fruit"], ["Sunny slopes, especially facing the sun", "More warmth and light reach the vines", "Riper fruit in regions that would otherwise be marginal"], ["Large rivers, lakes, the sea", "Moderate temperature extremes", "More even ripening and fresher styles"], ["Altitude", "Cooler temperatures, especially at night", "Fresher acidity in warm countries such as Argentina"]]}},
 {"h3": "Winemaking choices that change the style"},
 {"ul": [
 "Oak: new oak adds vanilla, toast, smoke and sweet spice; old oak adds little flavour but lets a small amount of oxygen soften the wine.",
@@ -26,16 +20,7 @@
 {"p": "A good habit is to say every rule as a sentence with because: this Chablis tastes of green apple and has high acidity because Chablis is a cool region. If you can produce that sentence, you can answer almost any question that combines climate, grape and style."},
 {"h2": "Principal grapes and regions for WSET Level 2"},
 {"p": "The WSET Level 2 grapes are best learned as triangles: grape, region, style. Start with the eight best-known international varieties, because they appear in many regions and generate the most questions. For each one, learn one cool-climate example, one warm-climate example and the key structural features."},
-{"table": {"head": ["Grape", "Cooler examples", "Warmer examples", "Key style points"], "rows": [
-["Chardonnay", "Chablis, much of Burgundy", "Parts of California and Australia", "Neutral grape shaped by climate and winemaking; often oaked and through malolactic in warm regions"],
-["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Warmer New World sites", "Aromatic, high acidity, grassy and green notes; usually unoaked"],
-["Riesling", "Mosel, Alsace", "Clare and Eden Valley (Australia)", "High acidity, no oak, from dry to very sweet; can age into honey and petrol notes"],
-["Pinot Noir", "Burgundy, New Zealand, Oregon", "Warmer New World sites", "Pale colour, low to medium tannin, red fruit; needs a cool to moderate climate"],
-["Cabernet Sauvignon", "Bordeaux Left Bank (Médoc)", "Napa Valley, Coonawarra", "Thick skins, high tannin and acidity, blackcurrant; often blended and oaked"],
-["Merlot", "Bordeaux Right Bank (Saint-Émilion, Pomerol)", "Chile, California", "Softer tannin than Cabernet, plum and black fruit"],
-["Syrah / Shiraz", "Northern Rhône (Hermitage, Côte-Rôtie)", "Barossa Valley", "Deep colour, black fruit; black pepper in cooler areas, sweet spice and chocolate in warm ones"],
-["Grenache / Garnacha", "Rarely grown in cool places", "Southern Rhône, Spain", "Red fruit, high alcohol, paler colour; often blended, as in Châteauneuf-du-Pape"]
-]}},
+{"table": {"head": ["Grape", "Cooler examples", "Warmer examples", "Key style points"], "rows": [["Chardonnay", "Chablis, much of Burgundy", "Parts of California and Australia", "Neutral grape shaped by climate and winemaking; often oaked and through malolactic in warm regions"], ["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Warmer New World sites", "Aromatic, high acidity, grassy and green notes; usually unoaked"], ["Riesling", "Mosel, Alsace", "Clare and Eden Valley (Australia)", "High acidity, no oak, from dry to very sweet; can age into honey and petrol notes"], ["Pinot Noir", "Burgundy, New Zealand, Oregon", "Warmer New World sites", "Pale colour, low to medium tannin, red fruit; needs a cool to moderate climate"], ["Cabernet Sauvignon", "Bordeaux Left Bank (Médoc)", "Napa Valley, Coonawarra", "Thick skins, high tannin and acidity, blackcurrant; often blended and oaked"], ["Merlot", "Bordeaux Right Bank (Saint-Émilion, Pomerol)", "Chile, California", "Softer tannin than Cabernet, plum and black fruit"], ["Syrah / Shiraz", "Northern Rhône (Hermitage, Côte-Rôtie)", "Barossa Valley", "Deep colour, black fruit; black pepper in cooler areas, sweet spice and chocolate in warm ones"], ["Grenache / Garnacha", "Rarely grown in cool places", "Southern Rhône, Spain", "Red fruit, high alcohol, paler colour; often blended, as in Châteauneuf-du-Pape"]]}},
 {"h3": "Regional grapes that often appear in options"},
 {"p": "Beyond the big eight, keep a short list of grapes that are strongly linked to one place: Tempranillo for Rioja and Ribera del Duero, Sangiovese for Chianti, Nebbiolo for Barolo and Barbaresco, Chenin Blanc for Vouvray and South Africa, Malbec for Argentina, Gamay for Beaujolais, Albariño for Rías Baixas and Glera for Prosecco. Distractors often swap these pairings, so the best defence is to know each pair cold."},
 {"h3": "Label terms by country"},
@@ -77,14 +62,49 @@
 "Know how noble rot, frozen grapes and fortification each produce a sweet wine.",
 "Revise the label terms of France, Italy, Spain and Germany side by side.",
 "Remember the food rules: sweetness and umami in food make wine taste harder; salt and acidity in food make it taste softer."
-]}
+]},
+{"h2": "What the pass, merit and distinction marks mean in practice"},
+{"p": "With 50 questions, each question is worth 2% of the exam. Turning the percentages into a number of correct answers makes your target concrete and helps you read your practice scores."},
+{"table": {"head": ["Result", "Percentage", "Correct answers out of 50", "Margin for errors"], "rows": [["Pass", "55%", "About 28", "Up to about 22 wrong answers"], ["Merit", "70%", "35", "Up to 15 wrong answers"], ["Distinction", "85%", "About 43", "Up to about 7 wrong answers"]]}},
+{"p": "The table shows why Level 2 is very passable: you can miss almost half the paper and still pass. It also shows why a distinction needs a different kind of preparation, because seven slips are easy to make through misreading rather than ignorance. If you are aiming for a distinction, put as much effort into reading technique as into new facts."},
+{"h2": "Three study plans for three kinds of candidate"},
+{"table": {"head": ["Profile", "Main risk", "How to adapt the plan"], "rows": [["Complete beginner", "Too many new names at once", "Spend the first week only on climate, ripening and winemaking; add grapes in small groups of three or four"], ["Works in wine or hospitality", "Overconfidence; knows wines but not exam wording", "Start with a full timed test to find gaps, then focus on label terms and methods you rarely use"], ["Short on time (10 days)", "Cramming without retrieval", "Two 15-minute sessions a day, one on new material and one on mixed questions; full mock every second day"]]}},
+{"h2": "Two short case studies"},
+{"p": "Case 1: a candidate reread the course book three times and scored 52% in her first mock. She recognised every term but could not choose between two plausible options. She switched to daily mixed questions and wrote a because sentence for every mistake; two weeks later she was scoring around 75%. The lesson: rereading feels productive, but answering questions builds the recall the exam measures."},
+{"p": "Case 2: a sommelier with years of service experience scored 64% on his first timed test, losing marks on sparkling methods, German label terms and why questions. He knew the wines but not the mechanisms. A week of focused work on cause and effect and on the labelling table moved him into merit territory. The lesson: experience helps, but the exam rewards explanations, not just familiarity."},
+{"h2": "Practice questions with the reasoning explained"},
+{"p": "Question 1: a wine is described as pale lemon, light-bodied, high in acidity, with green apple and citrus aromas and no oak. Is it more likely from a cool or a warm climate? Answer: cool. Each clue points the same way: high acidity and light body come from slow ripening with modest sugar, and green apple and citrus are cool-climate fruit."},
+{"p": "Question 2: which technique makes a wine taste of toast and brioche: tank method or traditional method? Answer: the traditional method, because the second fermentation happens in the bottle and the wine then ages on the dead yeast, which gives these autolytic aromas. The tank method keeps fresh fruit instead."},
+{"p": "Question 3: why does a sweet wine taste less sweet with a dessert that is sweeter than the wine? Answer: sweetness in food makes the wine taste drier, more acidic and more bitter. That is why the wine should be at least as sweet as the dessert."},
+{"h2": "Mistakes candidates make while preparing"},
+{"ul": [
+"Studying only the topics they enjoy, often red wines, and neglecting sparkling, sweet and fortified wines.",
+"Learning lists of grapes without the region and style that make each one recognisable in an option.",
+"Never practising under time pressure, then rushing the last ten questions on the day.",
+"Checking only whether an answer was right, without reading the explanation.",
+"Stopping revision once practice scores reach 55%, which leaves no margin for nerves."
+]},
+{"h2": "The last 48 hours before the exam"},
+{"ol": [
+"Two days before: one last full 50-question test in 60 minutes, then review every wrong answer.",
+"Make one page of your weakest facts: label terms, sparkling methods, the grapes you mix up.",
+"The day before: only light revision of that page and a few mixed questions; no new topics.",
+"Prepare the documents and directions your school asked for, and sleep well.",
+"On the day: read each stem twice, answer every question and use spare time to check the ones you flagged."
+]},
+{"p": "If you continue to WSET Level 3 afterwards, the structure changes: there are two separate units, a theory unit with multiple-choice questions and short written answers, and a tasting unit with two wines tasted blind, each needing 55% and each retaken on its own if failed. Level 2 is the right place to build the cause-and-effect habit that Level 3 written answers rely on."}
 ],
 "faq": [
 ["What score do I need to pass WSET Level 2?", "You need 55% in the 50-question multiple-choice exam, which means at least 28 correct answers. Higher scores lead to a Merit or a Distinction. There is no penalty for wrong answers, so you should answer every question. In practice tests, aiming for around 70% gives you a comfortable safety margin for exam-day nerves."],
 ["Is there a tasting exam at WSET Level 2?", "No. WSET Level 2 has no tasting exam and no written answers: the assessment is only the multiple-choice paper. You still taste wines during the course, and it is worth doing so carefully, because describing acidity, tannin, body and fruit helps you remember why each grape and region tastes as it does, which is exactly what the questions test."],
 ["Which topics carry the most questions in WSET Level 2?", "Most questions link the principal grapes to their regions and styles, so grape-region-style knowledge is where most marks are. Climate and winemaking effects come next, followed by sparkling, sweet and fortified wines, label terms and food pairing. Revise the principal grapes first, then the quick-win topics such as sparkling methods and sweet wine production."],
 ["How many grapes do I need to know for WSET Level 2?", "Focus first on the eight principal international varieties, such as Chardonnay, Sauvignon Blanc, Riesling, Pinot Noir, Cabernet Sauvignon, Merlot, Syrah and Grenache. Then add the regional grapes strongly tied to one place, like Tempranillo, Sangiovese, Nebbiolo, Chenin Blanc, Malbec and Glera. Learn each one with its regions and typical style rather than as a bare name."],
-["Can I pass WSET Level 2 with online study only?", "Yes, many candidates pass after an online course, provided they practise regularly. The keys are the same as in a classroom: a daily routine, many practice questions with explanations, and timed mock tests in the final week. Tasting a few classic wines at home, even with friends, makes the grape and region links much easier to remember."]
+["Can I pass WSET Level 2 with online study only?", "Yes, many candidates pass after an online course, provided they practise regularly. The keys are the same as in a classroom: a daily routine, many practice questions with explanations, and timed mock tests in the final week. Tasting a few classic wines at home, even with friends, makes the grape and region links much easier to remember."],
+["How many questions must I answer correctly to pass WSET Level 2?", "The pass mark is 55%, which corresponds to roughly 28 correct answers out of 50. A merit needs 70%, or 35 correct answers, and a distinction needs 85%, about 43 correct answers. Aim for at least 70% in timed practice so that you have a margin on the day."],
+["How do I get a distinction in WSET Level 2?", "A distinction leaves room for only about seven mistakes, so accuracy matters as much as knowledge. Learn the full syllabus evenly, including sparkling, sweet and fortified wines and label terms, and take several timed mocks. Most lost marks at this level come from misreading the stem, so underline key words and check flagged questions before the end."],
+["Is it better to reread the course book or do practice questions?", "Practice questions. Rereading creates a feeling of familiarity, but the exam asks you to retrieve facts and choose between similar options. Answering questions, reading the explanations and correcting your mistakes builds exactly that skill. Use the book to understand a topic the first time, then switch to active recall."],
+["What happens if I fail WSET Level 2?", "You can sit the exam again. Ask your course provider about the arrangements and dates. Before retaking it, analyse your practice results by topic, since most candidates who fail lose marks in a few specific areas, such as label terms or sparkling and fortified methods, rather than across the whole syllabus."],
+["Does WSET Level 2 prepare me for Level 3?", "Yes. Level 2 introduces the cause-and-effect logic of climate, grape and winemaking that Level 3 develops in more depth. Level 3 adds short written answers and a separate tasting unit, each unit needing 55%. Building good habits at Level 2, such as explaining why a wine has its style, makes the step to Level 3 much easier."]
 ]
 },
 "it": {
@@ -96,13 +116,7 @@
 {"h2": "Il cuore del WSET Livello 2: causa ed effetto"},
 {"p": "Il clima è il concetto più utile di tutto il WSET 2, perché spiega la maggior parte delle differenze di stile. Un clima fresco rallenta la maturazione: l'uva conserva più acidità e accumula meno zucchero, quindi il vino ha meno corpo, meno alcol e note di frutta verde o agrumi. Un clima caldo fa l'opposto: uve più mature e zuccherine danno vini più alcolici, di corpo pieno, con acidità più bassa e frutta più matura, tropicale nei bianchi o in confettura nei rossi."},
 {"h3": "Clima e maturazione in sintesi"},
-{"table": {"head": ["Fattore", "Effetto sull'uva", "Che cosa si sente nel vino"], "rows": [
-["Clima o sito fresco", "Maturazione lenta, acidità conservata, meno zucchero", "Acidità alta, corpo leggero, alcol moderato, mela verde, agrumi, frutti rossi"],
-["Clima caldo", "Maturazione rapida, più zucchero, acidità in calo", "Corpo pieno, alcol elevato, acidità morbida, frutta tropicale o nera"],
-["Pendii ben esposti al sole", "Più calore e luce per le viti", "Frutta più matura in zone altrimenti marginali"],
-["Grandi fiumi, laghi, mare", "Attenuano gli sbalzi di temperatura", "Maturazione più regolare e stili più freschi"],
-["Altitudine", "Temperature più basse, soprattutto di notte", "Acidità fresca anche in paesi caldi come l'Argentina"]
-]}},
+{"table": {"head": ["Fattore", "Effetto sull'uva", "Che cosa si sente nel vino"], "rows": [["Clima o sito fresco", "Maturazione lenta, acidità conservata, meno zucchero", "Acidità alta, corpo leggero, alcol moderato, mela verde, agrumi, frutti rossi"], ["Clima caldo", "Maturazione rapida, più zucchero, acidità in calo", "Corpo pieno, alcol elevato, acidità morbida, frutta tropicale o nera"], ["Pendii ben esposti al sole", "Più calore e luce per le viti", "Frutta più matura in zone altrimenti marginali"], ["Grandi fiumi, laghi, mare", "Attenuano gli sbalzi di temperatura", "Maturazione più regolare e stili più freschi"], ["Altitudine", "Temperature più basse, soprattutto di notte", "Acidità fresca anche in paesi caldi come l'Argentina"]]}},
 {"h3": "Le scelte di cantina che cambiano lo stile"},
 {"ul": [
 "Legno: il rovere nuovo aggiunge vaniglia, tostatura, affumicato e spezie dolci; il legno usato dà poco aroma ma lascia passare un po' di ossigeno che ammorbidisce il vino.",
@@ -114,16 +128,7 @@
 {"p": "Un'ottima abitudine è formulare ogni regola come frase con «perché»: questo Chablis sa di mela verde e ha acidità alta perché Chablis è una zona fresca. Se sai costruire questa frase, sai rispondere a quasi tutte le domande che combinano clima, vitigno e stile."},
 {"h2": "Vitigni e regioni principali per il WSET Livello 2"},
 {"p": "I vitigni del WSET 2 si imparano meglio come triangoli: vitigno, regione, stile. Parti dalle otto varietà internazionali più note, perché compaiono in molte regioni e generano più domande. Per ognuna impara un esempio di clima fresco, uno di clima caldo e le caratteristiche strutturali chiave."},
-{"table": {"head": ["Vitigno", "Esempi più freschi", "Esempi più caldi", "Punti di stile"], "rows": [
-["Chardonnay", "Chablis, gran parte della Borgogna", "Zone della California e dell'Australia", "Vitigno neutro plasmato da clima e cantina; spesso legno e malolattica nelle zone calde"],
-["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Siti più caldi del Nuovo Mondo", "Aromatico, acidità alta, note erbacee e verdi; di solito senza legno"],
-["Riesling", "Mosella, Alsazia", "Clare ed Eden Valley (Australia)", "Acidità alta, niente legno, da secco a molto dolce; con l'età note di miele e idrocarburi"],
-["Pinot Nero", "Borgogna, Nuova Zelanda, Oregon", "Siti più caldi del Nuovo Mondo", "Colore chiaro, tannino da basso a medio, frutti rossi; vuole un clima da fresco a moderato"],
-["Cabernet Sauvignon", "Rive gauche di Bordeaux (Médoc)", "Napa Valley, Coonawarra", "Buccia spessa, tannino e acidità alti, ribes nero; spesso in uvaggio e in legno"],
-["Merlot", "Rive droite di Bordeaux (Saint-Émilion, Pomerol)", "Cile, California", "Tannino più morbido del Cabernet, prugna e frutta nera"],
-["Syrah / Shiraz", "Rodano settentrionale (Hermitage, Côte-Rôtie)", "Barossa Valley", "Colore intenso, frutta nera; pepe nero nelle zone fresche, spezie dolci e cioccolato in quelle calde"],
-["Grenache / Garnacha", "Raramente in zone fresche", "Rodano meridionale, Spagna", "Frutti rossi, alcol elevato, colore più chiaro; spesso in uvaggio, come a Châteauneuf-du-Pape"]
-]}},
+{"table": {"head": ["Vitigno", "Esempi più freschi", "Esempi più caldi", "Punti di stile"], "rows": [["Chardonnay", "Chablis, gran parte della Borgogna", "Zone della California e dell'Australia", "Vitigno neutro plasmato da clima e cantina; spesso legno e malolattica nelle zone calde"], ["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Siti più caldi del Nuovo Mondo", "Aromatico, acidità alta, note erbacee e verdi; di solito senza legno"], ["Riesling", "Mosella, Alsazia", "Clare ed Eden Valley (Australia)", "Acidità alta, niente legno, da secco a molto dolce; con l'età note di miele e idrocarburi"], ["Pinot Nero", "Borgogna, Nuova Zelanda, Oregon", "Siti più caldi del Nuovo Mondo", "Colore chiaro, tannino da basso a medio, frutti rossi; vuole un clima da fresco a moderato"], ["Cabernet Sauvignon", "Rive gauche di Bordeaux (Médoc)", "Napa Valley, Coonawarra", "Buccia spessa, tannino e acidità alti, ribes nero; spesso in uvaggio e in legno"], ["Merlot", "Rive droite di Bordeaux (Saint-Émilion, Pomerol)", "Cile, California", "Tannino più morbido del Cabernet, prugna e frutta nera"], ["Syrah / Shiraz", "Rodano settentrionale (Hermitage, Côte-Rôtie)", "Barossa Valley", "Colore intenso, frutta nera; pepe nero nelle zone fresche, spezie dolci e cioccolato in quelle calde"], ["Grenache / Garnacha", "Raramente in zone fresche", "Rodano meridionale, Spagna", "Frutti rossi, alcol elevato, colore più chiaro; spesso in uvaggio, come a Châteauneuf-du-Pape"]]}},
 {"h3": "Vitigni regionali che compaiono spesso tra le opzioni"},
 {"p": "Oltre ai grandi otto, tieni una lista breve di vitigni legati a un solo luogo: Tempranillo per Rioja e Ribera del Duero, Sangiovese per il Chianti, Nebbiolo per Barolo e Barbaresco, Chenin Blanc per Vouvray e il Sudafrica, Malbec per l'Argentina, Gamay per il Beaujolais, Albariño per le Rías Baixas e Glera per il Prosecco. I distrattori scambiano spesso queste coppie: la difesa migliore è conoscerle a memoria."},
 {"h3": "Le menzioni in etichetta per paese"},
@@ -165,14 +170,49 @@
 "Sai come muffa nobile, uva congelata e fortificazione producono un vino dolce.",
 "Ripassa fianco a fianco le menzioni di Francia, Italia, Spagna e Germania.",
 "Ricorda le regole del cibo: dolcezza e umami nel piatto rendono il vino più «duro»; sale e acidità lo rendono più morbido."
-]}
+]},
+{"h2": "Cosa significano in pratica sufficienza, merit e distinction"},
+{"p": "Con 50 domande, ogni domanda vale il 2% dell'esame. Trasformare le percentuali in numero di risposte corrette rende concreto l'obiettivo e aiuta a leggere i risultati delle simulazioni."},
+{"table": {"head": ["Risultato", "Percentuale", "Risposte corrette su 50", "Margine di errore"], "rows": [["Promosso (Pass)", "55%", "Circa 28", "Fino a circa 22 risposte sbagliate"], ["Merit", "70%", "35", "Fino a 15 risposte sbagliate"], ["Distinction", "85%", "Circa 43", "Fino a circa 7 risposte sbagliate"]]}},
+{"p": "La tabella mostra perché il Livello 2 è molto alla portata: puoi sbagliare quasi metà del compito e superarlo comunque. Mostra anche perché la distinction richiede una preparazione diversa: sette errori si fanno facilmente leggendo male, non per ignoranza. Se punti alla distinction, investi nella tecnica di lettura tanto quanto nei nuovi contenuti."},
+{"h2": "Tre piani di studio per tre tipi di candidato"},
+{"table": {"head": ["Profilo", "Rischio principale", "Come adattare il piano"], "rows": [["Principiante assoluto", "Troppi nomi nuovi tutti insieme", "Dedica la prima settimana solo a clima, maturazione e vinificazione; aggiungi i vitigni a piccoli gruppi di tre o quattro"], ["Lavora nel vino o nella ristorazione", "Eccesso di fiducia; conosce i vini ma non il linguaggio d'esame", "Parti da una simulazione cronometrata completa per trovare le lacune, poi concentrati su termini di etichetta e metodi che usi poco"], ["Poco tempo (10 giorni)", "Studio intensivo senza richiamo attivo", "Due sessioni da 15 minuti al giorno, una su contenuti nuovi e una su domande miste; simulazione completa a giorni alterni"]]}},
+{"h2": "Due brevi casi di studio"},
+{"p": "Caso 1: una candidata ha riletto il manuale tre volte e ha ottenuto il 52% alla prima simulazione. Riconosceva ogni termine ma non riusciva a scegliere tra due opzioni plausibili. È passata a domande miste ogni giorno, scrivendo una frase con perché per ogni errore; due settimane dopo era intorno al 75%. La lezione: rileggere sembra produttivo, ma rispondere alle domande costruisce il richiamo che l'esame misura."},
+{"p": "Caso 2: un sommelier con anni di servizio ha ottenuto il 64% al primo test cronometrato, perdendo punti su metodi spumante, termini delle etichette tedesche e domande sul perché. Conosceva i vini ma non i meccanismi. Una settimana di lavoro mirato su causa-effetto e sulla tabella delle etichette lo ha portato in zona merit. La lezione: l'esperienza aiuta, ma l'esame premia le spiegazioni, non solo la familiarità."},
+{"h2": "Domande di esercitazione con il ragionamento spiegato"},
+{"p": "Domanda 1: un vino è descritto come giallo paglierino tenue, di corpo leggero, molto acido, con aromi di mela verde e agrumi e senza legno. È più probabile che venga da un clima fresco o caldo? Risposta: fresco. Tutti gli indizi vanno nella stessa direzione: acidità alta e corpo leggero derivano da una maturazione lenta con poco zucchero, e mela verde e agrumi sono frutti da clima fresco."},
+{"p": "Domanda 2: quale tecnica dà al vino note di pane tostato e brioche, metodo in autoclave o metodo tradizionale? Risposta: il metodo tradizionale, perché la seconda fermentazione avviene in bottiglia e il vino poi affina sui lieviti esausti, che danno questi aromi di autolisi. Il metodo in autoclave conserva invece il frutto fresco."},
+{"p": "Domanda 3: perché un vino dolce sembra meno dolce con un dessert più dolce del vino? Risposta: la dolcezza del cibo fa sembrare il vino più secco, più acido e più amaro. Per questo il vino dovrebbe essere dolce almeno quanto il dessert."},
+{"h2": "Gli errori dei candidati durante la preparazione"},
+{"ul": [
+"Studiare solo gli argomenti preferiti, spesso i rossi, trascurando spumanti, vini dolci e fortificati.",
+"Imparare elenchi di vitigni senza la regione e lo stile che li rendono riconoscibili in un'opzione.",
+"Non esercitarsi mai a tempo, e poi correre sulle ultime dieci domande il giorno dell'esame.",
+"Controllare solo se la risposta era giusta, senza leggere la spiegazione.",
+"Smettere di ripassare quando le simulazioni arrivano al 55%, senza margine per l'emozione."
+]},
+{"h2": "Le ultime 48 ore prima dell'esame"},
+{"ol": [
+"Due giorni prima: un'ultima simulazione completa da 50 domande in 60 minuti, poi rivedi ogni errore.",
+"Prepara una pagina con i tuoi punti deboli: termini di etichetta, metodi spumante, i vitigni che confondi.",
+"Il giorno prima: solo un ripasso leggero di quella pagina e qualche domanda mista; nessun argomento nuovo.",
+"Prepara i documenti e le indicazioni richiesti dalla scuola, e dormi bene.",
+"Il giorno dell'esame: leggi ogni domanda due volte, rispondi a tutto e usa il tempo restante per ricontrollare le domande segnate."
+]},
+{"p": "Se poi prosegui con il WSET Livello 3, la struttura cambia: ci sono due unità separate, un'unità di teoria con domande a scelta multipla e risposte brevi scritte e un'unità di degustazione con due vini alla cieca, ciascuna con soglia del 55% e, se non superata, da ripetere da sola. Il Livello 2 è il momento giusto per costruire l'abitudine causa-effetto su cui si basano le risposte scritte del Livello 3."}
 ],
 "faq": [
 ["Quanto bisogna prendere per superare il WSET Livello 2?", "Serve il 55% nell'esame da 50 domande a risposta multipla, cioè almeno 28 risposte corrette. Punteggi più alti portano a Merit o Distinction. Le risposte sbagliate non tolgono punti, quindi conviene rispondere a tutte le domande. Nelle simulazioni, puntare a circa il 70% dà un margine di sicurezza comodo contro l'emozione del giorno dell'esame."],
 ["Il WSET 2 prevede una prova di degustazione?", "No. Il WSET Livello 2 non ha né prova di degustazione né domande aperte: la valutazione è solo il test a risposta multipla. Durante il corso si degusta comunque, e vale la pena farlo con attenzione, perché descrivere acidità, tannino, corpo e frutta aiuta a ricordare perché ogni vitigno e ogni regione hanno quel sapore, ed è proprio ciò che le domande verificano."],
 ["Quali argomenti hanno più domande nel WSET 2?", "La maggior parte delle domande collega i vitigni principali alle loro regioni e ai loro stili, quindi è lì che si concentrano i punti. Seguono gli effetti di clima e vinificazione, poi spumanti, vini dolci e fortificati, menzioni in etichetta e abbinamento cibo-vino. Ripassa prima i vitigni principali, poi gli argomenti facili come i metodi spumante e i vini dolci."],
 ["Quanti vitigni bisogna conoscere per il WSET 2?", "Concentrati prima sulle otto varietà internazionali principali, come Chardonnay, Sauvignon Blanc, Riesling, Pinot Nero, Cabernet Sauvignon, Merlot, Syrah e Grenache. Poi aggiungi i vitigni legati a un solo luogo, come Tempranillo, Sangiovese, Nebbiolo, Chenin Blanc, Malbec e Glera. Impara ciascuno con le sue regioni e il suo stile tipico, non come semplice nome."],
-["Si può superare il WSET 2 studiando solo online?", "Sì, molte persone lo superano dopo un corso online, purché si esercitino con regolarità. Le chiavi sono le stesse dell'aula: una routine quotidiana, tante domande con spiegazione e simulazioni a tempo nell'ultima settimana. Degustare a casa qualche vino classico, anche con amici, rende molto più facile ricordare i legami tra vitigno e regione."]
+["Si può superare il WSET 2 studiando solo online?", "Sì, molte persone lo superano dopo un corso online, purché si esercitino con regolarità. Le chiavi sono le stesse dell'aula: una routine quotidiana, tante domande con spiegazione e simulazioni a tempo nell'ultima settimana. Degustare a casa qualche vino classico, anche con amici, rende molto più facile ricordare i legami tra vitigno e regione."],
+["Quante risposte corrette servono per superare il WSET Livello 2?", "La soglia è il 55%, cioè circa 28 risposte corrette su 50. Il merit richiede il 70%, cioè 35 risposte corrette, e la distinction l'85%, circa 43 risposte corrette. Nella preparazione esame WSET punta almeno al 70% nelle simulazioni a tempo, così avrai margine il giorno dell'esame."],
+["Come ottenere la distinction al WSET Livello 2?", "La distinction lascia spazio a circa sette errori, quindi la precisione conta quanto la conoscenza. Studia tutto il programma in modo equilibrato, compresi spumanti, vini dolci e fortificati e termini di etichetta, e fai diverse simulazioni a tempo. A questo livello la maggior parte dei punti si perde leggendo male la domanda: sottolinea le parole chiave e ricontrolla le domande segnate prima della fine."],
+["Meglio rileggere il manuale o fare domande di esercitazione?", "Le domande. Rileggere crea una sensazione di familiarità, ma l'esame chiede di richiamare i fatti e scegliere tra opzioni simili. Rispondere, leggere le spiegazioni e correggere gli errori allena proprio questa abilità. Usa il manuale per capire un argomento la prima volta, poi passa al richiamo attivo."],
+["Cosa succede se non supero il WSET Livello 2?", "Puoi ripetere l'esame. Chiedi alla tua scuola modalità e date. Prima di ripeterlo analizza i risultati delle simulazioni per argomento: la maggior parte di chi non supera l'esame perde punti in poche aree precise, come i termini di etichetta o i metodi per spumanti e fortificati, non su tutto il programma."],
+["Il WSET Livello 2 prepara al Livello 3?", "Sì. Il Livello 2 introduce la logica causa-effetto di clima, vitigno e vinificazione che il Livello 3 approfondisce. Il Livello 3 aggiunge risposte brevi scritte e un'unità di degustazione separata, ognuna con soglia del 55%. Costruire buone abitudini al Livello 2, come spiegare perché un vino ha il suo stile, rende molto più facile il passaggio al Livello 3."]
 ]
 },
 "fr": {
@@ -184,13 +224,7 @@
 {"h2": "Le cœur du WSET niveau 2 : la logique de cause à effet"},
 {"p": "Le climat est la notion la plus rentable du WSET 2, car il explique la plupart des différences de style. Un climat frais ralentit la maturation : le raisin garde plus d'acidité et accumule moins de sucre, d'où un vin plus léger, moins alcooleux, aux arômes de fruits verts ou d'agrumes. Un climat chaud fait l'inverse : des raisins plus mûrs et plus sucrés donnent des vins plus alcooleux, plus amples, moins acides, aux fruits plus mûrs, exotiques dans les blancs ou confiturés dans les rouges."},
 {"h3": "Climat et maturité en un coup d'œil"},
-{"table": {"head": ["Facteur", "Effet sur le raisin", "Ce que l'on perçoit dans le vin"], "rows": [
-["Climat ou site frais", "Maturation lente, acidité préservée, moins de sucre", "Acidité élevée, corps léger, alcool modéré, pomme verte, agrumes, fruits rouges"],
-["Climat chaud", "Maturation rapide, plus de sucre, acidité en baisse", "Corps ample, alcool élevé, acidité souple, fruits exotiques ou noirs"],
-["Coteaux bien exposés au soleil", "Plus de chaleur et de lumière pour la vigne", "Fruits plus mûrs dans des zones sinon limites"],
-["Grands fleuves, lacs, mer", "Atténuent les écarts de température", "Maturation plus régulière et styles plus frais"],
-["Altitude", "Températures plus basses, surtout la nuit", "Acidité fraîche même dans des pays chauds comme l'Argentine"]
-]}},
+{"table": {"head": ["Facteur", "Effet sur le raisin", "Ce que l'on perçoit dans le vin"], "rows": [["Climat ou site frais", "Maturation lente, acidité préservée, moins de sucre", "Acidité élevée, corps léger, alcool modéré, pomme verte, agrumes, fruits rouges"], ["Climat chaud", "Maturation rapide, plus de sucre, acidité en baisse", "Corps ample, alcool élevé, acidité souple, fruits exotiques ou noirs"], ["Coteaux bien exposés au soleil", "Plus de chaleur et de lumière pour la vigne", "Fruits plus mûrs dans des zones sinon limites"], ["Grands fleuves, lacs, mer", "Atténuent les écarts de température", "Maturation plus régulière et styles plus frais"], ["Altitude", "Températures plus basses, surtout la nuit", "Acidité fraîche même dans des pays chauds comme l'Argentine"]]}},
 {"h3": "Les choix de vinification qui changent le style"},
 {"ul": [
 "Bois : le chêne neuf apporte vanille, toasté, fumé et épices douces ; le bois usagé donne peu d'arômes mais laisse passer un peu d'oxygène qui assouplit le vin.",
@@ -202,16 +236,7 @@
 {"p": "Prenez l'habitude de formuler chaque règle avec « parce que » : ce Chablis évoque la pomme verte et possède une acidité élevée parce que Chablis est une région fraîche. Si vous savez construire cette phrase, vous pouvez répondre à presque toutes les questions qui combinent climat, cépage et style."},
 {"h2": "Principaux cépages et régions du WSET niveau 2"},
 {"p": "Les cépages du WSET 2 s'apprennent mieux sous forme de triangles : cépage, région, style. Commencez par les huit variétés internationales les plus connues, car elles apparaissent dans de nombreuses régions et génèrent le plus de questions. Pour chacune, retenez un exemple de climat frais, un exemple de climat chaud et les traits de structure essentiels."},
-{"table": {"head": ["Cépage", "Exemples plus frais", "Exemples plus chauds", "Points de style"], "rows": [
-["Chardonnay", "Chablis, une grande partie de la Bourgogne", "Certaines zones de Californie et d'Australie", "Cépage neutre façonné par le climat et le chai ; souvent boisé et malolactique en climat chaud"],
-["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Sites plus chauds du Nouveau Monde", "Aromatique, acidité élevée, notes herbacées et végétales ; en général non boisé"],
-["Riesling", "Moselle, Alsace", "Clare et Eden Valley (Australie)", "Acidité élevée, pas de bois, du sec au très doux ; évolue vers le miel et les notes pétrolées"],
-["Pinot Noir", "Bourgogne, Nouvelle-Zélande, Oregon", "Sites plus chauds du Nouveau Monde", "Robe claire, tanins faibles à moyens, fruits rouges ; exige un climat frais à modéré"],
-["Cabernet Sauvignon", "Rive gauche de Bordeaux (Médoc)", "Napa Valley, Coonawarra", "Peau épaisse, tanins et acidité élevés, cassis ; souvent assemblé et boisé"],
-["Merlot", "Rive droite de Bordeaux (Saint-Émilion, Pomerol)", "Chili, Californie", "Tanins plus souples que le Cabernet, prune et fruits noirs"],
-["Syrah / Shiraz", "Rhône septentrional (Hermitage, Côte-Rôtie)", "Barossa Valley", "Robe profonde, fruits noirs ; poivre noir en zone fraîche, épices douces et chocolat en zone chaude"],
-["Grenache / Garnacha", "Rarement en zone fraîche", "Rhône méridional, Espagne", "Fruits rouges, alcool élevé, robe plus claire ; souvent en assemblage, comme à Châteauneuf-du-Pape"]
-]}},
+{"table": {"head": ["Cépage", "Exemples plus frais", "Exemples plus chauds", "Points de style"], "rows": [["Chardonnay", "Chablis, une grande partie de la Bourgogne", "Certaines zones de Californie et d'Australie", "Cépage neutre façonné par le climat et le chai ; souvent boisé et malolactique en climat chaud"], ["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Sites plus chauds du Nouveau Monde", "Aromatique, acidité élevée, notes herbacées et végétales ; en général non boisé"], ["Riesling", "Moselle, Alsace", "Clare et Eden Valley (Australie)", "Acidité élevée, pas de bois, du sec au très doux ; évolue vers le miel et les notes pétrolées"], ["Pinot Noir", "Bourgogne, Nouvelle-Zélande, Oregon", "Sites plus chauds du Nouveau Monde", "Robe claire, tanins faibles à moyens, fruits rouges ; exige un climat frais à modéré"], ["Cabernet Sauvignon", "Rive gauche de Bordeaux (Médoc)", "Napa Valley, Coonawarra", "Peau épaisse, tanins et acidité élevés, cassis ; souvent assemblé et boisé"], ["Merlot", "Rive droite de Bordeaux (Saint-Émilion, Pomerol)", "Chili, Californie", "Tanins plus souples que le Cabernet, prune et fruits noirs"], ["Syrah / Shiraz", "Rhône septentrional (Hermitage, Côte-Rôtie)", "Barossa Valley", "Robe profonde, fruits noirs ; poivre noir en zone fraîche, épices douces et chocolat en zone chaude"], ["Grenache / Garnacha", "Rarement en zone fraîche", "Rhône méridional, Espagne", "Fruits rouges, alcool élevé, robe plus claire ; souvent en assemblage, comme à Châteauneuf-du-Pape"]]}},
 {"h3": "Les cépages régionaux qui reviennent dans les propositions"},
 {"p": "Au-delà des huit grands, gardez une courte liste de cépages liés à un seul lieu : Tempranillo pour la Rioja et la Ribera del Duero, Sangiovese pour le Chianti, Nebbiolo pour Barolo et Barbaresco, Chenin Blanc pour Vouvray et l'Afrique du Sud, Malbec pour l'Argentine, Gamay pour le Beaujolais, Albariño pour les Rías Baixas et Glera pour le Prosecco. Les distracteurs inversent souvent ces paires : la meilleure parade est de les connaître par cœur."},
 {"h3": "Les mentions d'étiquette par pays"},
@@ -253,14 +278,49 @@
 "Savoir comment pourriture noble, raisins gelés et mutage produisent un vin doux.",
 "Réviser côte à côte les mentions de la France, de l'Italie, de l'Espagne et de l'Allemagne.",
 "Retenir les règles des accords : sucre et umami dans le plat durcissent le vin ; sel et acidité l'assouplissent."
-]}
+]},
+{"h2": "Ce que signifient concrètement réussite, mention merit et distinction"},
+{"p": "Avec 50 questions, chaque question vaut 2 % de l'examen. Convertir les pourcentages en nombre de bonnes réponses rend votre objectif concret et aide à lire vos scores d'entraînement."},
+{"table": {"head": ["Résultat", "Pourcentage", "Bonnes réponses sur 50", "Marge d'erreur"], "rows": [["Réussite (Pass)", "55 %", "Environ 28", "Jusqu'à environ 22 mauvaises réponses"], ["Merit", "70 %", "35", "Jusqu'à 15 mauvaises réponses"], ["Distinction", "85 %", "Environ 43", "Jusqu'à environ 7 mauvaises réponses"]]}},
+{"p": "Le tableau montre pourquoi le niveau 2 est très accessible : vous pouvez manquer presque la moitié de l'épreuve et réussir quand même. Il montre aussi pourquoi la distinction demande une autre préparation : sept erreurs arrivent vite par simple lecture trop rapide, et non par ignorance. Si vous visez la distinction, travaillez la technique de lecture autant que les connaissances."},
+{"h2": "Trois plans de révision pour trois profils de candidats"},
+{"table": {"head": ["Profil", "Risque principal", "Comment adapter le plan"], "rows": [["Grand débutant", "Trop de noms nouveaux d'un coup", "Consacrez la première semaine au climat, à la maturité et à la vinification ; ajoutez les cépages par petits groupes de trois ou quatre"], ["Professionnel du vin ou de la restauration", "Excès de confiance ; connaît les vins mais pas le vocabulaire de l'examen", "Commencez par un examen blanc chronométré pour trouver les lacunes, puis ciblez les mentions d'étiquette et les méthodes peu pratiquées"], ["Peu de temps (10 jours)", "Bachotage sans rappel actif", "Deux séances de 15 minutes par jour, l'une sur du nouveau, l'autre sur des QCM mélangés ; examen blanc complet un jour sur deux"]]}},
+{"h2": "Deux courtes études de cas"},
+{"p": "Cas 1 : une candidate a relu trois fois le manuel et obtenu 52 % à son premier examen blanc. Elle reconnaissait chaque terme mais n'arrivait pas à choisir entre deux options plausibles. Elle est passée à des QCM mélangés chaque jour en écrivant une phrase avec parce que pour chaque erreur ; deux semaines plus tard, elle tournait autour de 75 %. La leçon : relire donne une impression de progrès, mais répondre à des questions construit le rappel que mesure l'examen."},
+{"p": "Cas 2 : un sommelier fort de plusieurs années de service a obtenu 64 % à son premier test chronométré, en perdant des points sur les méthodes d'effervescence, les mentions allemandes et les questions en pourquoi. Il connaissait les vins mais pas les mécanismes. Une semaine de travail ciblé sur les causes et effets et sur le tableau des étiquettes l'a amené au niveau merit. La leçon : l'expérience aide, mais l'examen récompense les explications, pas seulement la familiarité."},
+{"h2": "Questions d'entraînement avec le raisonnement expliqué"},
+{"p": "Question 1 : un vin est décrit comme citron pâle, léger, très acide, avec des arômes de pomme verte et d'agrumes et sans bois. Vient-il plutôt d'un climat frais ou chaud ? Réponse : frais. Tous les indices vont dans le même sens : acidité élevée et corps léger viennent d'une maturation lente avec peu de sucre, et la pomme verte et les agrumes sont des fruits de climat frais."},
+{"p": "Question 2 : quelle technique donne au vin des notes de pain grillé et de brioche, la méthode en cuve close ou la méthode traditionnelle ? Réponse : la méthode traditionnelle, car la seconde fermentation a lieu en bouteille et le vin vieillit ensuite sur les levures mortes, qui donnent ces arômes d'autolyse. La cuve close préserve plutôt le fruit frais."},
+{"p": "Question 3 : pourquoi un vin doux paraît-il moins sucré avec un dessert plus sucré que lui ? Réponse : le sucre du plat rend le vin plus sec, plus acide et plus amer. C'est pourquoi le vin doit être au moins aussi sucré que le dessert."},
+{"h2": "Les erreurs des candidats pendant la préparation"},
+{"ul": [
+"Réviser seulement les sujets qu'ils aiment, souvent les rouges, en négligeant effervescents, vins doux et mutés.",
+"Apprendre des listes de cépages sans la région et le style qui les rendent reconnaissables dans une option.",
+"Ne jamais s'entraîner en temps limité, puis bâcler les dix dernières questions le jour J.",
+"Vérifier seulement si la réponse était juste, sans lire l'explication.",
+"Arrêter de réviser dès que les examens blancs atteignent 55 %, sans marge pour le stress."
+]},
+{"h2": "Les 48 dernières heures avant l'examen"},
+{"ol": [
+"Deux jours avant : un dernier examen blanc complet de 50 questions en 60 minutes, puis reprenez chaque erreur.",
+"Faites une page de vos points faibles : mentions d'étiquette, méthodes d'effervescence, cépages que vous confondez.",
+"La veille : seulement une révision légère de cette page et quelques QCM mélangés ; aucun sujet nouveau.",
+"Préparez les documents et l'itinéraire demandés par votre école, et dormez bien.",
+"Le jour J : lisez chaque question deux fois, répondez à tout et utilisez le temps restant pour revoir les questions marquées."
+]},
+{"p": "Si vous continuez ensuite vers le WSET niveau 3, la structure change : il y a deux unités distinctes, une unité théorique avec QCM et réponses courtes rédigées et une unité de dégustation de deux vins à l'aveugle, chacune exigeant 55 % et chacune se repassant seule en cas d'échec. Le niveau 2 est le bon moment pour prendre l'habitude des causes et effets sur laquelle reposent les réponses rédigées du niveau 3."}
 ],
 "faq": [
 ["Quelle note faut-il pour réussir le WSET niveau 2 ?", "Il faut 55 % à l'examen de 50 questions à choix multiple, soit au moins 28 bonnes réponses. Des notes plus élevées donnent une mention Merit ou Distinction. Les mauvaises réponses ne sont pas pénalisées : répondez donc à toutes les questions. À l'entraînement, viser environ 70 % offre une marge confortable face au stress du jour de l'examen."],
 ["Y a-t-il une dégustation à l'examen du WSET 2 ?", "Non. Le WSET niveau 2 ne comporte ni épreuve de dégustation ni questions rédigées : l'évaluation se limite au QCM. On déguste malgré tout pendant la formation, et cela vaut la peine de le faire avec soin, car décrire acidité, tanins, corps et fruit aide à retenir pourquoi chaque cépage et chaque région ont ce goût, ce que les questions vérifient justement."],
 ["Quels thèmes comptent le plus de questions au WSET 2 ?", "La plupart des questions relient les principaux cépages à leurs régions et à leurs styles : c'est là que se trouvent le plus de points. Viennent ensuite les effets du climat et de la vinification, puis les effervescents, les vins doux et mutés, les mentions d'étiquette et les accords mets-vins. Révisez d'abord les cépages principaux, puis les thèmes faciles comme les méthodes d'effervescence."],
 ["Combien de cépages connaître pour le WSET niveau 2 ?", "Concentrez-vous d'abord sur les huit grandes variétés internationales, comme le Chardonnay, le Sauvignon Blanc, le Riesling, le Pinot Noir, le Cabernet Sauvignon, le Merlot, la Syrah et le Grenache. Ajoutez ensuite les cépages liés à un lieu, comme le Tempranillo, le Sangiovese, le Nebbiolo, le Chenin Blanc, le Malbec et le Glera, toujours avec leurs régions et leur style."],
-["Peut-on réussir le WSET 2 en se formant uniquement en ligne ?", "Oui, de nombreux candidats réussissent après une formation en ligne, à condition de pratiquer régulièrement. Les clés sont les mêmes qu'en salle : une routine quotidienne, beaucoup de questions commentées et des examens blancs chronométrés la dernière semaine. Déguster chez soi quelques vins classiques, même entre amis, aide beaucoup à mémoriser les liens entre cépage et région."]
+["Peut-on réussir le WSET 2 en se formant uniquement en ligne ?", "Oui, de nombreux candidats réussissent après une formation en ligne, à condition de pratiquer régulièrement. Les clés sont les mêmes qu'en salle : une routine quotidienne, beaucoup de questions commentées et des examens blancs chronométrés la dernière semaine. Déguster chez soi quelques vins classiques, même entre amis, aide beaucoup à mémoriser les liens entre cépage et région."],
+["Combien de bonnes réponses faut-il pour réussir le WSET niveau 2 ?", "Le seuil est de 55 %, soit environ 28 bonnes réponses sur 50. La mention merit demande 70 %, soit 35 bonnes réponses, et la distinction 85 %, environ 43 bonnes réponses. Dans votre préparation examen WSET, visez au moins 70 % aux examens blancs chronométrés pour garder une marge le jour J."],
+["Comment obtenir la distinction au WSET niveau 2 ?", "La distinction ne laisse place qu'à environ sept erreurs : la précision compte autant que les connaissances. Révisez tout le programme de façon équilibrée, y compris effervescents, vins doux et mutés et mentions d'étiquette, et faites plusieurs examens blancs chronométrés. À ce niveau, la plupart des points perdus viennent d'une mauvaise lecture : soulignez les mots clés et revoyez les questions marquées avant la fin."],
+["Vaut-il mieux relire le manuel ou faire des QCM ?", "Faire des QCM. Relire crée un sentiment de familiarité, mais l'examen demande de retrouver des faits et de choisir entre des options proches. Répondre, lire les explications et corriger ses erreurs entraîne exactement cette compétence. Utilisez le manuel pour comprendre un sujet la première fois, puis passez au rappel actif."],
+["Que se passe-t-il si j'échoue au WSET niveau 2 ?", "Vous pouvez repasser l'examen. Renseignez-vous auprès de votre école sur les modalités et les dates. Avant de le repasser, analysez vos résultats d'entraînement par thème : la plupart des candidats qui échouent perdent des points dans quelques domaines précis, comme les mentions d'étiquette ou les méthodes des effervescents et des vins mutés, et non sur tout le programme."],
+["Le WSET niveau 2 prépare-t-il au niveau 3 ?", "Oui. Le niveau 2 introduit la logique de cause à effet entre climat, cépage et vinification que le niveau 3 approfondit. Le niveau 3 ajoute des réponses courtes rédigées et une unité de dégustation distincte, chaque unité exigeant 55 %. Prendre de bonnes habitudes au niveau 2, comme expliquer pourquoi un vin a son style, facilite beaucoup le passage au niveau 3."]
 ]
 },
 "es": {
@@ -272,13 +332,7 @@
 {"h2": "El núcleo del WSET nivel 2: causa y efecto"},
 {"p": "El clima es la idea más rentable del WSET 2, porque explica la mayoría de las diferencias de estilo. Un clima fresco ralentiza la maduración: la uva conserva más acidez y acumula menos azúcar, así que el vino tiene menos cuerpo, menos alcohol y notas de fruta verde o cítricos. Un clima cálido hace lo contrario: uvas más maduras y dulces dan vinos con más alcohol, más cuerpo, menos acidez y fruta más madura, tropical en los blancos o en compota en los tintos."},
 {"h3": "Clima y maduración de un vistazo"},
-{"table": {"head": ["Factor", "Efecto en la uva", "Qué se nota en el vino"], "rows": [
-["Clima o parcela fresca", "Maduración lenta, acidez conservada, menos azúcar", "Acidez alta, cuerpo ligero, alcohol moderado, manzana verde, cítricos, fruta roja"],
-["Clima cálido", "Maduración rápida, más azúcar, la acidez baja", "Cuerpo pleno, alcohol alto, acidez suave, fruta tropical o negra"],
-["Laderas bien orientadas al sol", "Más calor y luz para la viña", "Fruta más madura en zonas que serían marginales"],
-["Grandes ríos, lagos, mar", "Suavizan los extremos de temperatura", "Maduración más regular y estilos más frescos"],
-["Altitud", "Temperaturas más bajas, sobre todo de noche", "Acidez fresca incluso en países cálidos como Argentina"]
-]}},
+{"table": {"head": ["Factor", "Efecto en la uva", "Qué se nota en el vino"], "rows": [["Clima o parcela fresca", "Maduración lenta, acidez conservada, menos azúcar", "Acidez alta, cuerpo ligero, alcohol moderado, manzana verde, cítricos, fruta roja"], ["Clima cálido", "Maduración rápida, más azúcar, la acidez baja", "Cuerpo pleno, alcohol alto, acidez suave, fruta tropical o negra"], ["Laderas bien orientadas al sol", "Más calor y luz para la viña", "Fruta más madura en zonas que serían marginales"], ["Grandes ríos, lagos, mar", "Suavizan los extremos de temperatura", "Maduración más regular y estilos más frescos"], ["Altitud", "Temperaturas más bajas, sobre todo de noche", "Acidez fresca incluso en países cálidos como Argentina"]]}},
 {"h3": "Las decisiones de bodega que cambian el estilo"},
 {"ul": [
 "Roble: el roble nuevo aporta vainilla, tostado, ahumado y especias dulces; el roble usado aporta poco aroma pero deja pasar algo de oxígeno que suaviza el vino.",
@@ -290,16 +344,7 @@
 {"p": "Acostúmbrate a formular cada regla con un «porque»: este Chablis sabe a manzana verde y tiene acidez alta porque Chablis es una zona fresca. Si sabes construir esa frase, puedes responder a casi cualquier pregunta que combine clima, uva y estilo."},
 {"h2": "Uvas y regiones principales del WSET nivel 2"},
 {"p": "Las uvas del WSET 2 se aprenden mejor como triángulos: uva, región, estilo. Empieza por las ocho variedades internacionales más conocidas, porque aparecen en muchas regiones y generan más preguntas. Para cada una, aprende un ejemplo de clima fresco, otro de clima cálido y los rasgos de estructura clave."},
-{"table": {"head": ["Uva", "Ejemplos más frescos", "Ejemplos más cálidos", "Claves de estilo"], "rows": [
-["Chardonnay", "Chablis, gran parte de Borgoña", "Zonas de California y Australia", "Uva neutra moldeada por el clima y la bodega; a menudo con barrica y maloláctica en zonas cálidas"],
-["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Zonas más cálidas del Nuevo Mundo", "Aromática, acidez alta, notas herbáceas y vegetales; normalmente sin barrica"],
-["Riesling", "Mosela, Alsacia", "Clare y Eden Valley (Australia)", "Acidez alta, sin roble, de seco a muy dulce; con la edad, notas de miel y de hidrocarburo"],
-["Pinot Noir", "Borgoña, Nueva Zelanda, Oregón", "Zonas más cálidas del Nuevo Mundo", "Color pálido, tanino de bajo a medio, fruta roja; necesita clima de fresco a moderado"],
-["Cabernet Sauvignon", "Margen izquierda de Burdeos (Médoc)", "Napa Valley, Coonawarra", "Piel gruesa, tanino y acidez altos, grosella negra; a menudo en coupage y con barrica"],
-["Merlot", "Margen derecha de Burdeos (Saint-Émilion, Pomerol)", "Chile, California", "Tanino más suave que la Cabernet, ciruela y fruta negra"],
-["Syrah / Shiraz", "Norte del Ródano (Hermitage, Côte-Rôtie)", "Barossa Valley", "Color intenso, fruta negra; pimienta negra en zonas frescas, especias dulces y chocolate en las cálidas"],
-["Garnacha / Grenache", "Rara vez en zonas frescas", "Sur del Ródano, España", "Fruta roja, alcohol alto, color más claro; a menudo en coupage, como en Châteauneuf-du-Pape"]
-]}},
+{"table": {"head": ["Uva", "Ejemplos más frescos", "Ejemplos más cálidos", "Claves de estilo"], "rows": [["Chardonnay", "Chablis, gran parte de Borgoña", "Zonas de California y Australia", "Uva neutra moldeada por el clima y la bodega; a menudo con barrica y maloláctica en zonas cálidas"], ["Sauvignon Blanc", "Sancerre, Pouilly-Fumé, Marlborough", "Zonas más cálidas del Nuevo Mundo", "Aromática, acidez alta, notas herbáceas y vegetales; normalmente sin barrica"], ["Riesling", "Mosela, Alsacia", "Clare y Eden Valley (Australia)", "Acidez alta, sin roble, de seco a muy dulce; con la edad, notas de miel y de hidrocarburo"], ["Pinot Noir", "Borgoña, Nueva Zelanda, Oregón", "Zonas más cálidas del Nuevo Mundo", "Color pálido, tanino de bajo a medio, fruta roja; necesita clima de fresco a moderado"], ["Cabernet Sauvignon", "Margen izquierda de Burdeos (Médoc)", "Napa Valley, Coonawarra", "Piel gruesa, tanino y acidez altos, grosella negra; a menudo en coupage y con barrica"], ["Merlot", "Margen derecha de Burdeos (Saint-Émilion, Pomerol)", "Chile, California", "Tanino más suave que la Cabernet, ciruela y fruta negra"], ["Syrah / Shiraz", "Norte del Ródano (Hermitage, Côte-Rôtie)", "Barossa Valley", "Color intenso, fruta negra; pimienta negra en zonas frescas, especias dulces y chocolate en las cálidas"], ["Garnacha / Grenache", "Rara vez en zonas frescas", "Sur del Ródano, España", "Fruta roja, alcohol alto, color más claro; a menudo en coupage, como en Châteauneuf-du-Pape"]]}},
 {"h3": "Uvas regionales que aparecen a menudo entre las opciones"},
 {"p": "Además de las ocho grandes, ten una lista corta de uvas ligadas a un solo lugar: Tempranillo para Rioja y Ribera del Duero, Sangiovese para el Chianti, Nebbiolo para Barolo y Barbaresco, Chenin Blanc para Vouvray y Sudáfrica, Malbec para Argentina, Gamay para el Beaujolais, Albariño para Rías Baixas y Glera para el Prosecco. Los distractores suelen intercambiar estas parejas: la mejor defensa es sabérselas de memoria."},
 {"h3": "Menciones de etiqueta por país"},
@@ -341,14 +386,49 @@
 "Sabes cómo la podredumbre noble, la uva congelada y el encabezado producen un vino dulce.",
 "Repasa juntas las menciones de Francia, Italia, España y Alemania.",
 "Recuerda las reglas del maridaje: el dulzor y el umami del plato endurecen el vino; la sal y la acidez lo suavizan."
-]}
+]},
+{"h2": "Qué significan en la práctica aprobado, merit y distinction"},
+{"p": "Con 50 preguntas, cada pregunta vale un 2 % del examen. Convertir los porcentajes en número de aciertos hace que tu objetivo sea concreto y te ayuda a interpretar tus resultados de práctica."},
+{"table": {"head": ["Resultado", "Porcentaje", "Aciertos sobre 50", "Margen de error"], "rows": [["Aprobado (Pass)", "55 %", "Unos 28", "Hasta unas 22 respuestas incorrectas"], ["Merit", "70 %", "35", "Hasta 15 respuestas incorrectas"], ["Distinction", "85 %", "Unos 43", "Hasta unas 7 respuestas incorrectas"]]}},
+{"p": "La tabla muestra por qué el Nivel 2 es muy asequible: puedes fallar casi la mitad del examen y aprobar igualmente. También muestra por qué la distinction requiere otra preparación: siete fallos se cometen con facilidad por leer mal, no por no saber. Si aspiras a la distinction, dedica tanto esfuerzo a la técnica de lectura como a los contenidos nuevos."},
+{"h2": "Tres planes de estudio para tres tipos de candidato"},
+{"table": {"head": ["Perfil", "Riesgo principal", "Cómo adaptar el plan"], "rows": [["Principiante total", "Demasiados nombres nuevos a la vez", "Dedica la primera semana solo al clima, la maduración y la elaboración; añade las variedades en grupos pequeños de tres o cuatro"], ["Trabaja en el vino o la hostelería", "Exceso de confianza; conoce los vinos pero no el lenguaje del examen", "Empieza con un simulacro cronometrado completo para detectar lagunas y céntrate después en términos de etiqueta y métodos que usas poco"], ["Poco tiempo (10 días)", "Atracón de estudio sin recuperación activa", "Dos sesiones de 15 minutos al día, una de contenido nuevo y otra de preguntas mezcladas; simulacro completo cada dos días"]]}},
+{"h2": "Dos casos prácticos breves"},
+{"p": "Caso 1: una candidata releyó el manual tres veces y sacó un 52 % en su primer simulacro. Reconocía todos los términos, pero no sabía elegir entre dos opciones plausibles. Pasó a hacer preguntas mezcladas a diario y a escribir una frase con porque para cada fallo; dos semanas después rondaba el 75 %. La lección: releer da sensación de avance, pero responder preguntas construye la memoria que mide el examen."},
+{"p": "Caso 2: un sumiller con años de servicio sacó un 64 % en su primer test cronometrado y perdió puntos en métodos de espumoso, términos de etiqueta alemanes y preguntas de por qué. Conocía los vinos, pero no los mecanismos. Una semana de trabajo centrado en causa y efecto y en la tabla de etiquetas lo llevó a la zona de merit. La lección: la experiencia ayuda, pero el examen premia las explicaciones, no solo la familiaridad."},
+{"h2": "Preguntas de práctica con el razonamiento explicado"},
+{"p": "Pregunta 1: un vino se describe como amarillo limón pálido, ligero, con acidez alta, aromas de manzana verde y cítricos y sin madera. ¿Es más probable que proceda de un clima fresco o cálido? Respuesta: fresco. Todas las pistas apuntan en la misma dirección: la acidez alta y el cuerpo ligero vienen de una maduración lenta con poco azúcar, y la manzana verde y los cítricos son frutas de clima fresco."},
+{"p": "Pregunta 2: ¿qué técnica da al vino notas de tostado y brioche, el método de depósito o el método tradicional? Respuesta: el método tradicional, porque la segunda fermentación se hace en la botella y el vino envejece después sobre las levaduras muertas, que aportan estos aromas de autólisis. El método de depósito conserva en cambio la fruta fresca."},
+{"p": "Pregunta 3: ¿por qué un vino dulce parece menos dulce con un postre más dulce que él? Respuesta: el dulzor de la comida hace que el vino parezca más seco, más ácido y más amargo. Por eso el vino debe ser al menos tan dulce como el postre."},
+{"h2": "Errores de los candidatos durante la preparación"},
+{"ul": [
+"Estudiar solo los temas que les gustan, a menudo los tintos, y descuidar espumosos, vinos dulces y generosos.",
+"Aprender listas de variedades sin la región y el estilo que las hacen reconocibles en una opción.",
+"No practicar nunca con el reloj en marcha y luego correr con las últimas diez preguntas el día del examen.",
+"Comprobar solo si la respuesta era correcta, sin leer la explicación.",
+"Dejar de repasar cuando los simulacros llegan al 55 %, sin margen para los nervios."
+]},
+{"h2": "Las últimas 48 horas antes del examen"},
+{"ol": [
+"Dos días antes: un último simulacro completo de 50 preguntas en 60 minutos y repaso de cada fallo.",
+"Haz una hoja con tus puntos débiles: términos de etiqueta, métodos de espumoso, las variedades que confundes.",
+"El día antes: solo un repaso ligero de esa hoja y unas pocas preguntas mezcladas; nada de temas nuevos.",
+"Prepara los documentos y la ruta que te haya indicado tu escuela, y duerme bien.",
+"El día del examen: lee cada pregunta dos veces, responde a todas y usa el tiempo que sobre para revisar las que marcaste."
+]},
+{"p": "Si después sigues con el WSET Nivel 3, la estructura cambia: hay dos unidades separadas, una unidad teórica con preguntas tipo test y respuestas cortas escritas y una unidad de cata con dos vinos a ciegas, cada una con un mínimo del 55 % y, si se suspende, se repite sola. El Nivel 2 es el momento ideal para crear el hábito de causa y efecto en el que se apoyan las respuestas escritas del Nivel 3."}
 ],
 "faq": [
 ["¿Qué nota hace falta para aprobar el WSET nivel 2?", "Necesitas un 55 % en el examen de 50 preguntas tipo test, es decir, al menos 28 respuestas correctas. Las notas más altas dan Merit o Distinction. Las respuestas erróneas no restan, así que conviene contestar todas las preguntas. En los simulacros, apuntar a un 70 % aproximadamente da un margen de seguridad cómodo frente a los nervios del día del examen."],
 ["¿El WSET 2 tiene examen de cata?", "No. El WSET nivel 2 no tiene ni examen de cata ni preguntas de desarrollo: la evaluación es solo el test. Aun así, durante el curso se cata, y merece la pena hacerlo con atención, porque describir acidez, tanino, cuerpo y fruta ayuda a recordar por qué cada uva y cada región saben como saben, que es justo lo que miden las preguntas."],
 ["¿Qué temas tienen más preguntas en el WSET 2?", "La mayoría de las preguntas relacionan las uvas principales con sus regiones y estilos, así que ahí están la mayor parte de los puntos. Después vienen los efectos del clima y de la elaboración, seguidos de espumosos, dulces y generosos, menciones de etiqueta y maridaje. Repasa primero las uvas principales y luego los temas fáciles, como los métodos de espumoso."],
 ["¿Cuántas uvas hay que saber para el WSET nivel 2?", "Céntrate primero en las ocho grandes variedades internacionales, como Chardonnay, Sauvignon Blanc, Riesling, Pinot Noir, Cabernet Sauvignon, Merlot, Syrah y Garnacha. Después añade las uvas ligadas a un lugar, como Tempranillo, Sangiovese, Nebbiolo, Chenin Blanc, Malbec y Glera. Apréndelas siempre con sus regiones y su estilo típico, no como simples nombres."],
-["¿Se puede aprobar el WSET 2 estudiando solo online?", "Sí, mucha gente aprueba tras un curso online, siempre que practique con regularidad. Las claves son las mismas que en el aula: una rutina diaria, muchas preguntas con explicación y simulacros cronometrados en la última semana. Catar en casa algunos vinos clásicos, aunque sea con amigos, hace mucho más fácil recordar la relación entre uva y región."]
+["¿Se puede aprobar el WSET 2 estudiando solo online?", "Sí, mucha gente aprueba tras un curso online, siempre que practique con regularidad. Las claves son las mismas que en el aula: una rutina diaria, muchas preguntas con explicación y simulacros cronometrados en la última semana. Catar en casa algunos vinos clásicos, aunque sea con amigos, hace mucho más fácil recordar la relación entre uva y región."],
+["¿Cuántas respuestas correctas necesito para aprobar el WSET Nivel 2?", "El aprobado es un 55 %, es decir, unas 28 respuestas correctas de 50. El merit exige un 70 %, 35 aciertos, y la distinction un 85 %, unos 43 aciertos. En tu preparación del examen WSET, apunta al menos a un 70 % en los simulacros cronometrados para tener margen el día del examen."],
+["¿Cómo conseguir la distinction en el WSET Nivel 2?", "La distinction solo deja margen para unos siete fallos, así que la precisión cuenta tanto como el conocimiento. Estudia todo el temario de forma equilibrada, incluidos espumosos, vinos dulces y generosos y términos de etiqueta, y haz varios simulacros cronometrados. A este nivel, la mayoría de los puntos se pierden por leer mal la pregunta: subraya las palabras clave y revisa las preguntas marcadas antes del final."],
+["¿Es mejor releer el manual o hacer preguntas de práctica?", "Hacer preguntas. Releer crea sensación de familiaridad, pero el examen te pide recuperar datos y elegir entre opciones parecidas. Responder, leer las explicaciones y corregir tus fallos entrena justo esa habilidad. Usa el manual para entender un tema la primera vez y pasa después a la recuperación activa."],
+["¿Qué pasa si suspendo el WSET Nivel 2?", "Puedes volver a presentarte. Consulta con tu escuela las condiciones y las fechas. Antes de repetirlo, analiza tus resultados de práctica por temas: la mayoría de quienes suspenden pierden puntos en unas pocas áreas concretas, como los términos de etiqueta o los métodos de espumosos y generosos, y no en todo el temario."],
+["¿El WSET Nivel 2 prepara para el Nivel 3?", "Sí. El Nivel 2 introduce la lógica de causa y efecto entre clima, variedad y elaboración que el Nivel 3 desarrolla en profundidad. El Nivel 3 añade respuestas cortas escritas y una unidad de cata separada, cada unidad con un mínimo del 55 %. Crear buenos hábitos en el Nivel 2, como explicar por qué un vino tiene su estilo, facilita mucho el salto al Nivel 3."]
 ]
 }
 }
