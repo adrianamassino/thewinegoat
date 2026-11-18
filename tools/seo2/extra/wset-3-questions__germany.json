@@ -15,16 +15,7 @@
 {"tip": "In a short written answer, never just write cool climate. Write the chain: cool continental climate, so steep south-facing slopes near rivers are needed to ripen the grapes, so the wines keep high acidity and pronounced fruit with often low to medium alcohol."},
 {"h2": "German regions for WSET Level 3: Mosel, Rheingau, Pfalz and more"},
 {"p": "Germany has 13 wine regions (Anbaugebiete) for quality wine. At WSET Level 3 you need the character of the main ones rather than a map of every village. The key is to link each region to its climate, soils and typical style."},
-{"table": {"head": ["Region", "Key features", "Typical style"], "rows": [
-["Mosel (with Saar and Ruwer)", "Very steep slate slopes along a winding river; one of the coolest regions", "Light-bodied Riesling, high acidity, low alcohol, often off-dry or sweet Kabinett and Spätlese; also dry wines"],
-["Rheingau", "Rhine flows east to west, giving long south-facing slopes; Taunus hills shelter from the north", "Riesling with more body than the Mosel, dry and sweet styles; some Spätburgunder"],
-["Pfalz", "Warmer and drier, in the rain shadow of the Haardt mountains", "Fuller, riper dry Riesling, plus Spätburgunder and Pinot whites"],
-["Rheinhessen", "Largest region, varied land, much on flatter ground", "Large volumes of Müller-Thurgau and Silvaner, plus high-quality dry Riesling from top sites"],
-["Nahe", "Very varied soils within a small area", "Riesling ranging from mineral to riper fruit styles"],
-["Baden", "Southernmost and warmest region", "Spätburgunder, Grauburgunder and Weissburgunder, often dry and fuller-bodied"],
-["Franken", "More continental, on the river Main", "Dry, earthy Silvaner, traditionally in the flat Bocksbeutel bottle"],
-["Ahr", "Small, northerly, steep valley", "Surprisingly a red-wine area, known for Spätburgunder"]
-]}},
+{"table": {"head": ["Region", "Key features", "Typical style"], "rows": [["Mosel (with Saar and Ruwer)", "Very steep slate slopes along a winding river; one of the coolest regions", "Light-bodied Riesling, high acidity, low alcohol, often off-dry or sweet Kabinett and Spätlese; also dry wines"], ["Rheingau", "Rhine flows east to west, giving long south-facing slopes; Taunus hills shelter from the north", "Riesling with more body than the Mosel, dry and sweet styles; some Spätburgunder"], ["Pfalz", "Warmer and drier, in the rain shadow of the Haardt mountains", "Fuller, riper dry Riesling, plus Spätburgunder and Pinot whites"], ["Rheinhessen", "Largest region, varied land, much on flatter ground", "Large volumes of Müller-Thurgau and Silvaner, plus high-quality dry Riesling from top sites"], ["Nahe", "Very varied soils within a small area", "Riesling ranging from mineral to riper fruit styles"], ["Baden", "Southernmost and warmest region", "Spätburgunder, Grauburgunder and Weissburgunder, often dry and fuller-bodied"], ["Franken", "More continental, on the river Main", "Dry, earthy Silvaner, traditionally in the flat Bocksbeutel bottle"], ["Ahr", "Small, northerly, steep valley", "Surprisingly a red-wine area, known for Spätburgunder"]]}},
 {"p": "A classic exam contrast is Mosel versus Pfalz. Mosel Riesling is light, delicate and often sweet with low alcohol because the region is so cool and the wines are frequently made with residual sugar. Pfalz Riesling is riper, fuller-bodied and more often dry because the rain shadow of the Haardt mountains gives a warmer, drier climate."},
 {"h2": "Grape varieties: Riesling, Müller-Thurgau, Spätburgunder"},
 {"h3": "Riesling"},
@@ -44,14 +35,7 @@
 ]},
 {"h2": "German wine labels: Qualitätswein, Prädikatswein and VDP"},
 {"p": "German wine law classifies wine by origin and by the ripeness of the grapes at harvest (must weight). Deutscher Wein has no geographical indication, Landwein is a PGI, and Qualitätswein and Prädikatswein are PDO wines. Qualitätswein must come from one of the 13 regions. Prädikatswein must also reach minimum must weights and cannot be chaptalised."},
-{"table": {"head": ["Prädikat", "Grapes", "Typical style"], "rows": [
-["Kabinett", "Lightest, least ripe Prädikat", "Light, delicate, high acidity; dry, off-dry or sweet"],
-["Spätlese", "Late-harvested, riper", "More body and concentration; dry or sweet"],
-["Auslese", "Selected very ripe bunches, sometimes botrytis", "Rich, often sweet but can be dry"],
-["Beerenauslese (BA)", "Individually selected overripe berries, usually botrytised", "Lusciously sweet, honeyed"],
-["Trockenbeerenauslese (TBA)", "Shrivelled botrytised berries", "Extremely sweet, concentrated, very long-lived, low alcohol"],
-["Eiswein", "Grapes frozen on the vine and pressed frozen", "Very sweet with piercing acidity, usually no botrytis"]
-]}},
+{"table": {"head": ["Prädikat", "Grapes", "Typical style"], "rows": [["Kabinett", "Lightest, least ripe Prädikat", "Light, delicate, high acidity; dry, off-dry or sweet"], ["Spätlese", "Late-harvested, riper", "More body and concentration; dry or sweet"], ["Auslese", "Selected very ripe bunches, sometimes botrytis", "Rich, often sweet but can be dry"], ["Beerenauslese (BA)", "Individually selected overripe berries, usually botrytised", "Lusciously sweet, honeyed"], ["Trockenbeerenauslese (TBA)", "Shrivelled botrytised berries", "Extremely sweet, concentrated, very long-lived, low alcohol"], ["Eiswein", "Grapes frozen on the vine and pressed frozen", "Very sweet with piercing acidity, usually no botrytis"]]}},
 {"p": "The VDP, an association of top estates, uses its own vineyard classification: Gutswein, Ortswein, Erste Lage and Grosse Lage. A Grosses Gewächs is a dry wine from a Grosse Lage site. Labels may also show trocken (dry), halbtrocken or feinherb (off-dry)."},
 {"tip": "Common mistake: assuming every Prädikat wine is sweet. Prädikat measures ripeness at harvest, not sweetness in the bottle. A Spätlese trocken is dry. Only BA, TBA and Eiswein are always sweet."},
 {"h2": "Sample short written answer: Mosel Riesling"},
@@ -66,14 +50,49 @@
 "Day 6: write one short written answer against the clock (about 10 minutes).",
 "Day 7: blind-taste a dry and an off-dry Riesling and write SAT notes on acidity, sweetness and alcohol."
 ]},
-{"p": "Spaced repetition works especially well for German terms and Prädikat order, which is exactly what the app does by bringing your weak questions back until you get them right."}
+{"p": "Spaced repetition works especially well for German terms and Prädikat order, which is exactly what the app does by bringing your weak questions back until you get them right."},
+{"h2": "Germany in the two WSET Level 3 units"},
+{"p": "WSET Level 3 has two separate units. The theory unit combines 50 multiple-choice questions with 4 short written answers; the tasting unit asks you to assess two wines blind with the Systematic Approach to Tasting. Each unit needs at least 55%, each is marked on its own, and a failed unit is retaken alone. Germany is a frequent theory topic because it combines site-driven viticulture, a precise labelling system and a clear link between ripeness and style."},
+{"p": "German Riesling is also one of the most useful practice wines for the tasting unit, even though you will never be asked to name it. It trains two judgements that candidates often get wrong: separating sweetness from fruitiness, and assessing high acidity when residual sugar softens its impression. A Kabinett with noticeable sugar can still have high acidity, light body and low alcohol, and your note should say exactly that."},
+{"h2": "How to decode a German label, step by step"},
+{"p": "Take a fictional label of our own: Mosel, Riesling, Spätlese, trocken. Read it in four steps and you can describe the wine before tasting it."},
+{"ol": [
+"Region: Mosel, one of the coolest regions, with steep slate slopes; expect high acidity and a light to medium body.",
+"Grape: Riesling, aromatic, late-ripening, high in acidity, with citrus, green apple and stone fruit.",
+"Prädikat: Spätlese, so the grapes were picked riper than Kabinett; expect more concentration and body.",
+"Sweetness term: trocken, so the wine was fermented to dryness; expect a dry palate and more alcohol than a sweet Spätlese."
+]},
+{"tip": "The Prädikat tells you how ripe the grapes were; the words trocken, halbtrocken or feinherb tell you how sweet the wine is. Read both before you decide on the style."},
+{"h2": "Dry, off-dry and sweet German wines compared"},
+{"table": {"head": ["Label indication", "Sweetness", "Typical alcohol", "Example of use"], "rows": [["Trocken", "Dry", "Medium to high for Germany", "Dry Riesling from Pfalz or Rheingau; Grosses Gewächs"], ["Halbtrocken or feinherb", "Off-dry", "Medium", "Riesling balancing slight sweetness with high acidity"], ["Kabinett or Spätlese without a dry term", "Often off-dry to medium-sweet", "Low", "Classic Mosel style with stopped fermentation"], ["BA, TBA, Eiswein", "Always sweet to lusciously sweet", "Low", "Rare dessert wines from botrytised or frozen grapes"]]}},
+{"h2": "Practice questions with answers explained"},
+{"p": "Question 1: why is Prädikatswein not allowed to be chaptalised? Answer: the Prädikat system classifies wine by the natural ripeness of the grapes at harvest. Adding sugar would raise the alcohol and hide the real must weight, so it would contradict the meaning of the category."},
+{"p": "Question 2: why is Rheingau Riesling usually fuller than Mosel Riesling? Answer: the Rhine flows from east to west there, giving long south-facing slopes, and the Taunus hills shelter the vineyards from cold northern winds. The extra warmth gives riper grapes and more body, while acidity remains high."},
+{"p": "Question 3: how is Eiswein made, and why is its acidity so high? Answer: healthy grapes are left on the vine until a hard frost, then picked and pressed while frozen. Much of the water stays behind as ice, so the juice is concentrated in both sugar and acid, giving a very sweet wine with piercing acidity."},
+{"p": "Question 4: why has German Spätburgunder improved so much? Answer: warmer growing seasons help the grape ripen fully, better clones have been planted, and many producers use more careful winemaking, including oak maturation for the best wines from Baden, Pfalz and the Ahr."},
+{"h2": "Common mistakes on Germany"},
+{"table": {"head": ["Mistake", "Correct version"], "rows": [["Every Prädikat wine is sweet", "Prädikat measures ripeness at harvest; Spätlese trocken is dry"], ["Süssreserve is the same as stopped fermentation", "Süssreserve adds unfermented juice to a dry wine; stopping fermentation keeps natural sugar"], ["Mosel is warm because of its river", "The Mosel is very cool; the river and slate only make ripening possible"], ["Germany makes only white wine", "Spätburgunder is widely planted, and the Ahr is mainly a red-wine area"], ["Grosses Gewächs is a sweet wine", "Grosses Gewächs is a dry wine from a VDP Grosse Lage site"]]}},
+{"h2": "Glossary of German wine terms"},
+{"ul": [
+"Anbaugebiet: one of the 13 German wine regions for quality wine.",
+"Must weight: the sugar content of the grape juice at harvest, the basis of the Prädikat levels.",
+"Trocken: dry. Halbtrocken and feinherb: off-dry.",
+"Lage: a single vineyard site; in the VDP system Erste Lage and Grosse Lage are the top tiers.",
+"Süssreserve: unfermented grape juice added before bottling to adjust sweetness.",
+"Bocksbeutel: the flat, round bottle traditionally used in Franken."
+]}
 ],
 "faq": [
 ["Which German wine regions are most important for WSET 3?", "Focus on the Mosel, Rheingau, Pfalz, Rheinhessen, Nahe, Baden and Franken. You should be able to link each one to its climate and typical style, for example Mosel with light, low-alcohol, often sweet Riesling, Pfalz with fuller dry Riesling, Baden with Spätburgunder and Franken with Silvaner in the Bocksbeutel bottle."],
 ["What is the order of the German Prädikat levels for WSET Level 3?", "From least to most ripe at harvest: Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese. Eiswein sits apart, made from naturally frozen grapes with a minimum must weight comparable to Beerenauslese. Remember that the levels describe ripeness of the grapes, not sweetness in the bottle."],
 ["What is Süssreserve in German wine?", "Süssreserve is unfermented grape juice added to a fermented dry wine before bottling to give it sweetness. It is mainly used for inexpensive German wines. Quality producers more often stop the fermentation by chilling and filtering, which keeps natural residual sugar and lower alcohol."],
 ["What does Grosses Gewächs mean on a German wine label?", "Grosses Gewächs is the term used by VDP member estates for a dry wine from a Grosse Lage, their highest-ranked vineyard category. It is a quality and style indicator for top dry wines, most commonly Riesling, though Spätburgunder and other varieties can also be labelled this way."],
-["Why does German Riesling taste fresh even when it is sweet?", "German Riesling grows in a cool climate, so it keeps very high acidity. That acidity balances the residual sugar, so a sweet Kabinett or Spätlese tastes lively rather than heavy. This balance between sugar and acidity is a classic point in WSET 3 tasting and theory answers."]
+["Why does German Riesling taste fresh even when it is sweet?", "German Riesling grows in a cool climate, so it keeps very high acidity. That acidity balances the residual sugar, so a sweet Kabinett or Spätlese tastes lively rather than heavy. This balance between sugar and acidity is a classic point in WSET 3 tasting and theory answers."],
+["Can a German Riesling appear in the WSET Level 3 tasting unit?", "Any wine within the syllabus can be used, but the tasting unit never asks you to identify it. You are marked on a precise SAT description and justified conclusions, in a unit marked separately from theory with its own 55% pass mark. German Riesling is ideal practice because it tests your ability to judge acidity and sweetness independently."],
+["What is the difference between trocken and feinherb?", "Trocken means the wine is dry: fermentation has used up almost all the sugar. Feinherb, like halbtrocken, indicates an off-dry wine with a little residual sugar. In German Riesling the high acidity often makes an off-dry wine taste fresher and drier than its sugar level would suggest, which is why these terms help you predict the balance."],
+["How do I decode a German wine label quickly?", "Read it in four steps: the region tells you the climate, the grape tells you the aromas and structure, the Prädikat tells you how ripe the grapes were, and words such as trocken or feinherb tell you the sweetness. A label without a dry term on a Kabinett or Spätlese often indicates a wine with some residual sugar."],
+["Why is Eiswein so acidic?", "Eiswein is made from grapes frozen on the vine and pressed while still frozen. Water stays behind as ice, so the juice that flows is concentrated in sugar and in acid together. Because the grapes are usually healthy and not botrytised, the wine shows pure fruit with very high sweetness balanced by piercing acidity."],
+["How should I split my revision of Germany between the two units?", "Treat Germany mainly as a theory topic: regions, the Prädikat order, winemaking for sweetness and label terms for multiple-choice and written answers. In parallel, use dry and off-dry Riesling in your tasting practice. Because the two units are passed separately, keep a balanced plan so neither unit is left behind."]
 ]
 },
 "it": {
@@ -92,16 +111,7 @@
 {"tip": "Nella risposta breve scritta non scrivere solo clima fresco. Scrivi la catena completa: clima continentale fresco, quindi servono pendii ripidi esposti a sud vicino ai fiumi per maturare l'uva, quindi i vini mantengono acidità elevata e frutto intenso con alcol spesso basso o medio."},
 {"h2": "Le regioni tedesche per il WSET 3: Mosella, Rheingau, Pfalz e altre"},
 {"p": "La Germania conta 13 regioni (Anbaugebiete) per i vini di qualità. Al WSET 3 serve conoscere il carattere delle principali, non la mappa di ogni villaggio: collega ogni regione al suo clima, ai suoli e allo stile tipico."},
-{"table": {"head": ["Regione", "Caratteristiche", "Stile tipico"], "rows": [
-["Mosella (con Saar e Ruwer)", "Pendii di scisto ripidissimi lungo un fiume sinuoso; tra le zone più fresche", "Riesling leggero, acidità alta, alcol basso, spesso abboccato o dolce (Kabinett, Spätlese); anche secco"],
-["Rheingau", "Il Reno scorre da est a ovest, con lunghi pendii esposti a sud; il Taunus ripara da nord", "Riesling più strutturato che in Mosella, secco e dolce; un po' di Spätburgunder"],
-["Pfalz", "Più caldo e asciutto, all'ombra pluviometrica dei monti Haardt", "Riesling secco più maturo e pieno, Spätburgunder e Pinot bianchi"],
-["Rheinhessen", "La regione più estesa, molti terreni pianeggianti", "Grandi volumi di Müller-Thurgau e Silvaner, ma anche Riesling secco di alto livello"],
-["Nahe", "Suoli molto vari in poco spazio", "Riesling da minerale a più fruttato"],
-["Baden", "La regione più meridionale e calda", "Spätburgunder, Grauburgunder e Weissburgunder, spesso secchi e di buon corpo"],
-["Franken", "Clima più continentale, sul Meno", "Silvaner secco e terroso, tradizionalmente nella bottiglia piatta Bocksbeutel"],
-["Ahr", "Piccola valle ripida e settentrionale", "Sorprendentemente una zona di rossi, nota per lo Spätburgunder"]
-]}},
+{"table": {"head": ["Regione", "Caratteristiche", "Stile tipico"], "rows": [["Mosella (con Saar e Ruwer)", "Pendii di scisto ripidissimi lungo un fiume sinuoso; tra le zone più fresche", "Riesling leggero, acidità alta, alcol basso, spesso abboccato o dolce (Kabinett, Spätlese); anche secco"], ["Rheingau", "Il Reno scorre da est a ovest, con lunghi pendii esposti a sud; il Taunus ripara da nord", "Riesling più strutturato che in Mosella, secco e dolce; un po' di Spätburgunder"], ["Pfalz", "Più caldo e asciutto, all'ombra pluviometrica dei monti Haardt", "Riesling secco più maturo e pieno, Spätburgunder e Pinot bianchi"], ["Rheinhessen", "La regione più estesa, molti terreni pianeggianti", "Grandi volumi di Müller-Thurgau e Silvaner, ma anche Riesling secco di alto livello"], ["Nahe", "Suoli molto vari in poco spazio", "Riesling da minerale a più fruttato"], ["Baden", "La regione più meridionale e calda", "Spätburgunder, Grauburgunder e Weissburgunder, spesso secchi e di buon corpo"], ["Franken", "Clima più continentale, sul Meno", "Silvaner secco e terroso, tradizionalmente nella bottiglia piatta Bocksbeutel"], ["Ahr", "Piccola valle ripida e settentrionale", "Sorprendentemente una zona di rossi, nota per lo Spätburgunder"]]}},
 {"p": "Un confronto classico all'esame è Mosella contro Pfalz. Il Riesling della Mosella è leggero, delicato e spesso dolce con poco alcol, perché la zona è molto fresca e i vini vengono spesso lasciati con zucchero residuo. Il Riesling del Pfalz è più maturo, più pieno e più spesso secco, perché l'ombra pluviometrica dei monti Haardt dà un clima più caldo e asciutto."},
 {"h2": "Vitigni: Riesling, Müller-Thurgau, Spätburgunder"},
 {"h3": "Riesling"},
@@ -121,14 +131,7 @@
 ]},
 {"h2": "Etichette tedesche: Qualitätswein, Prädikatswein e VDP"},
 {"p": "La legge tedesca classifica il vino per origine e per maturità dell'uva alla vendemmia (peso del mosto). Il Deutscher Wein non ha indicazione geografica, il Landwein è un'IGP, Qualitätswein e Prädikatswein sono DOP. Il Qualitätswein deve provenire da una delle 13 regioni; il Prädikatswein deve inoltre raggiungere pesi minimi del mosto e non può essere arricchito."},
-{"table": {"head": ["Prädikat", "Uve", "Stile tipico"], "rows": [
-["Kabinett", "Il livello meno maturo", "Leggero, delicato, molto acido; secco, abboccato o dolce"],
-["Spätlese", "Vendemmia tardiva, uva più matura", "Più corpo e concentrazione; secco o dolce"],
-["Auslese", "Grappoli selezionati molto maturi, a volte con botrytis", "Ricco, spesso dolce ma può essere secco"],
-["Beerenauslese (BA)", "Acini stramaturi scelti uno a uno, di solito botritizzati", "Molto dolce, mielato"],
-["Trockenbeerenauslese (TBA)", "Acini botritizzati e appassiti", "Dolcissimo, concentrato, longevissimo, alcol basso"],
-["Eiswein", "Uva gelata sulla pianta e pressata ancora congelata", "Molto dolce con acidità tagliente, di solito senza botrytis"]
-]}},
+{"table": {"head": ["Prädikat", "Uve", "Stile tipico"], "rows": [["Kabinett", "Il livello meno maturo", "Leggero, delicato, molto acido; secco, abboccato o dolce"], ["Spätlese", "Vendemmia tardiva, uva più matura", "Più corpo e concentrazione; secco o dolce"], ["Auslese", "Grappoli selezionati molto maturi, a volte con botrytis", "Ricco, spesso dolce ma può essere secco"], ["Beerenauslese (BA)", "Acini stramaturi scelti uno a uno, di solito botritizzati", "Molto dolce, mielato"], ["Trockenbeerenauslese (TBA)", "Acini botritizzati e appassiti", "Dolcissimo, concentrato, longevissimo, alcol basso"], ["Eiswein", "Uva gelata sulla pianta e pressata ancora congelata", "Molto dolce con acidità tagliente, di solito senza botrytis"]]}},
 {"p": "Il VDP, associazione delle migliori tenute, usa una propria classificazione dei vigneti: Gutswein, Ortswein, Erste Lage e Grosse Lage. Un Grosses Gewächs è un vino secco da un vigneto Grosse Lage. In etichetta si trovano anche trocken (secco) e halbtrocken o feinherb (abboccato)."},
 {"tip": "Errore frequente: pensare che ogni Prädikat sia dolce. Il Prädikat misura la maturità alla vendemmia, non la dolcezza nel bicchiere. Uno Spätlese trocken è secco. Solo BA, TBA ed Eiswein sono sempre dolci."},
 {"h2": "Esempio di risposta breve scritta: Riesling della Mosella"},
@@ -143,14 +146,49 @@
 "Giorno 6: scrivi una risposta breve contro il tempo (circa 10 minuti).",
 "Giorno 7: degusta alla cieca un Riesling secco e uno abboccato e scrivi le note SAT su acidità, dolcezza e alcol."
 ]},
-{"p": "La ripetizione dilazionata funziona benissimo per i termini tedeschi e l'ordine dei Prädikat: è proprio ciò che fa l'app, riproponendo le domande sbagliate finché non le sai."}
+{"p": "La ripetizione dilazionata funziona benissimo per i termini tedeschi e l'ordine dei Prädikat: è proprio ciò che fa l'app, riproponendo le domande sbagliate finché non le sai."},
+{"h2": "La Germania nelle due unità del WSET Livello 3"},
+{"p": "Il WSET Livello 3 ha due unità separate. L'unità di teoria combina 50 domande a scelta multipla e 4 risposte brevi scritte; l'unità di degustazione chiede di valutare due vini alla cieca con il Systematic Approach to Tasting. Ogni unità richiede almeno il 55%, è corretta in modo indipendente e un'unità non superata si ripete da sola. La Germania è un tema di teoria frequente perché unisce una viticoltura guidata dal sito, un sistema di etichettatura preciso e un legame chiaro tra maturità e stile."},
+{"p": "Il Riesling tedesco è anche uno dei vini più utili per allenarsi all'unità di degustazione, anche se non ti verrà mai chiesto di riconoscerlo. Allena due giudizi su cui i candidati sbagliano spesso: separare la dolcezza dalla fruttuosità e valutare un'acidità alta quando lo zucchero residuo ne attenua la percezione. Un Kabinett con zucchero percepibile può avere comunque acidità alta, corpo leggero e alcol basso, e la tua nota deve dirlo esattamente."},
+{"h2": "Come decifrare un'etichetta tedesca, passo per passo"},
+{"p": "Prendi un'etichetta inventata da noi: Mosel, Riesling, Spätlese, trocken. Leggila in quattro passaggi e potrai descrivere il vino prima di assaggiarlo."},
+{"ol": [
+"Regione: Mosel, una delle regioni più fresche, con pendii ripidi di ardesia; aspettati acidità alta e corpo da leggero a medio.",
+"Vitigno: Riesling, aromatico, a maturazione tardiva, molto acido, con agrumi, mela verde e frutta a nocciolo.",
+"Prädikat: Spätlese, quindi l'uva è stata raccolta più matura del Kabinett; aspettati più concentrazione e corpo.",
+"Termine di dolcezza: trocken, quindi il vino è fermentato fino al secco; aspettati un palato secco e più alcol di uno Spätlese dolce."
+]},
+{"tip": "Il Prädikat indica quanto era matura l'uva; le parole trocken, halbtrocken o feinherb indicano quanto è dolce il vino. Leggi entrambi prima di decidere lo stile."},
+{"h2": "Vini tedeschi secchi, abboccati e dolci a confronto"},
+{"table": {"head": ["Indicazione in etichetta", "Dolcezza", "Alcol tipico", "Esempio d'uso"], "rows": [["Trocken", "Secco", "Da medio ad alto per la Germania", "Riesling secco del Pfalz o del Rheingau; Grosses Gewächs"], ["Halbtrocken o feinherb", "Abboccato", "Medio", "Riesling che bilancia una leggera dolcezza con acidità alta"], ["Kabinett o Spätlese senza termine di secchezza", "Spesso da abboccato ad amabile", "Basso", "Stile classico della Mosel con fermentazione interrotta"], ["BA, TBA, Eiswein", "Sempre da dolce a molto dolce", "Basso", "Rari vini da dessert da uve botritizzate o congelate"]]}},
+{"h2": "Domande di esercitazione con risposte spiegate"},
+{"p": "Domanda 1: perché il Prädikatswein non può essere zuccherato (arricchito)? Risposta: il sistema Prädikat classifica il vino in base alla maturità naturale dell'uva alla vendemmia. Aggiungere zucchero alzerebbe l'alcol e nasconderebbe il vero grado zuccherino del mosto, contraddicendo il senso della categoria."},
+{"p": "Domanda 2: perché il Riesling del Rheingau è di solito più pieno di quello della Mosel? Risposta: lì il Reno scorre da est a ovest e crea lunghi pendii esposti a sud, e le colline del Taunus riparano i vigneti dai venti freddi del nord. Il calore in più dà uve più mature e più corpo, mentre l'acidità resta alta."},
+{"p": "Domanda 3: come si produce l'Eiswein e perché la sua acidità è così alta? Risposta: uve sane restano sulla pianta fino a una gelata intensa, poi si raccolgono e si pressano ancora congelate. Gran parte dell'acqua resta come ghiaccio, quindi il mosto è concentrato sia in zucchero sia in acidità: ne nasce un vino molto dolce con acidità tagliente."},
+{"p": "Domanda 4: perché lo Spätburgunder tedesco è migliorato così tanto? Risposta: stagioni più calde aiutano il vitigno a maturare pienamente, sono stati piantati cloni migliori e molti produttori vinificano con più cura, compreso l'affinamento in rovere per i migliori vini di Baden, Pfalz e Ahr."},
+{"h2": "Errori frequenti sulla Germania"},
+{"table": {"head": ["Errore", "Versione corretta"], "rows": [["Ogni vino Prädikat è dolce", "Il Prädikat misura la maturità alla vendemmia; uno Spätlese trocken è secco"], ["Süssreserve e fermentazione interrotta sono la stessa cosa", "La Süssreserve aggiunge mosto non fermentato a un vino secco; fermare la fermentazione conserva lo zucchero naturale"], ["La Mosel è calda grazie al fiume", "La Mosel è molto fresca; fiume e ardesia rendono solo possibile la maturazione"], ["La Germania produce solo vini bianchi", "Lo Spätburgunder è molto diffuso e l'Ahr è soprattutto una zona di rossi"], ["Il Grosses Gewächs è un vino dolce", "Il Grosses Gewächs è un vino secco da un sito Grosse Lage del VDP"]]}},
+{"h2": "Glossario dei termini tedeschi"},
+{"ul": [
+"Anbaugebiet: una delle 13 regioni tedesche per i vini di qualità.",
+"Grado zuccherino del mosto (must weight): il contenuto di zucchero del mosto alla vendemmia, base dei livelli Prädikat.",
+"Trocken: secco. Halbtrocken e feinherb: abboccato.",
+"Lage: un singolo vigneto; nel sistema VDP Erste Lage e Grosse Lage sono i livelli più alti.",
+"Süssreserve: mosto non fermentato aggiunto prima dell'imbottigliamento per regolare la dolcezza.",
+"Bocksbeutel: la bottiglia piatta e tondeggiante usata tradizionalmente in Franken."
+]}
 ],
 "faq": [
 ["Quali regioni tedesche sono più importanti per il WSET 3?", "Concentrati su Mosella, Rheingau, Pfalz, Rheinhessen, Nahe, Baden e Franken. Devi saper collegare ognuna al clima e allo stile tipico: Mosella con Riesling leggero, poco alcolico e spesso dolce; Pfalz con Riesling secco più pieno; Baden con Spätburgunder; Franken con Silvaner nella bottiglia Bocksbeutel."],
 ["Qual è l'ordine dei Prädikat tedeschi per il WSET Livello 3?", "Dal meno al più maturo alla vendemmia: Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese. L'Eiswein è a parte: nasce da uva gelata naturalmente sulla pianta, con un peso minimo del mosto paragonabile al Beerenauslese. Ricorda che i livelli indicano la maturità dell'uva, non la dolcezza del vino."],
 ["Che cos'è la Süssreserve nel vino tedesco?", "La Süssreserve è mosto d'uva non fermentato aggiunto a un vino secco prima dell'imbottigliamento per renderlo dolce. Si usa soprattutto per i vini tedeschi economici. I produttori di qualità preferiscono spesso fermare la fermentazione con il freddo e la filtrazione, mantenendo zucchero residuo naturale e alcol più basso."],
 ["Cosa significa Grosses Gewächs in etichetta?", "Grosses Gewächs è il termine usato dalle tenute del VDP per un vino secco proveniente da una Grosse Lage, la loro categoria di vigneto più alta. Indica quindi i grandi vini secchi, quasi sempre Riesling, ma può riguardare anche Spätburgunder e altre varietà."],
-["Perché il Riesling tedesco sembra fresco anche quando è dolce?", "Il Riesling tedesco cresce in clima fresco e mantiene un'acidità molto alta. Questa acidità bilancia lo zucchero residuo, per cui un Kabinett o uno Spätlese dolce risulta vivace e non pesante. L'equilibrio tra zucchero e acidità è un punto classico sia nella degustazione sia nella teoria del WSET 3."]
+["Perché il Riesling tedesco sembra fresco anche quando è dolce?", "Il Riesling tedesco cresce in clima fresco e mantiene un'acidità molto alta. Questa acidità bilancia lo zucchero residuo, per cui un Kabinett o uno Spätlese dolce risulta vivace e non pesante. L'equilibrio tra zucchero e acidità è un punto classico sia nella degustazione sia nella teoria del WSET 3."],
+["Un Riesling tedesco può uscire nell'unità di degustazione del WSET Livello 3?", "Può essere usato qualsiasi vino del programma, ma l'unità di degustazione non chiede mai di identificarlo. Sei valutato su una descrizione SAT precisa e su conclusioni motivate, in un'unità corretta separatamente dalla teoria con la sua soglia del 55%. Il Riesling tedesco è un allenamento ideale perché mette alla prova la capacità di giudicare acidità e dolcezza in modo indipendente."],
+["Che differenza c'è tra trocken e feinherb?", "Trocken significa che il vino è secco: la fermentazione ha consumato quasi tutto lo zucchero. Feinherb, come halbtrocken, indica un vino abboccato con un po' di zucchero residuo. Nel Riesling tedesco l'acidità alta fa spesso sembrare un vino abboccato più fresco e secco di quanto suggerisca lo zucchero, ed è per questo che questi termini aiutano a prevederne l'equilibrio."],
+["Come decifrare velocemente un'etichetta tedesca?", "Leggila in quattro passaggi: la regione indica il clima, il vitigno indica aromi e struttura, il Prädikat indica quanto era matura l'uva e parole come trocken o feinherb indicano la dolcezza. Un Kabinett o uno Spätlese senza termine di secchezza indica spesso un vino con un po' di zucchero residuo."],
+["Perché l'Eiswein è così acido?", "L'Eiswein si produce da uve congelate sulla pianta e pressate ancora congelate. L'acqua resta come ghiaccio, quindi il mosto che esce è concentrato insieme in zucchero e acidità. Poiché le uve sono di solito sane e non botritizzate, il vino mostra un frutto puro con dolcezza molto alta bilanciata da un'acidità tagliente."],
+["Come dividere il ripasso della Germania tra le due unità?", "Tratta la Germania soprattutto come tema di teoria: regioni, ordine dei Prädikat, vinificazione per la dolcezza e termini di etichetta per domande a scelta multipla e risposte scritte. In parallelo usa Riesling secchi e abboccati nella pratica di degustazione. Poiché le due unità si superano separatamente, mantieni un piano equilibrato perché nessuna resti indietro."]
 ]
 },
 "fr": {
@@ -169,16 +207,7 @@
 {"tip": "Dans une réponse courte, n'écrivez jamais seulement climat frais. Écrivez toute la chaîne : climat continental frais, donc il faut des coteaux escarpés exposés au sud près des fleuves pour mûrir le raisin, donc les vins gardent une acidité élevée et un fruit intense, avec un alcool souvent faible à moyen."},
 {"h2": "Les régions allemandes au WSET 3 : Moselle, Rheingau, Palatinat et autres"},
 {"p": "L'Allemagne compte 13 régions (Anbaugebiete) pour les vins de qualité. Au WSET 3, on vous demande le caractère des principales, pas la carte de chaque village : reliez chaque région à son climat, à ses sols et à son style typique."},
-{"table": {"head": ["Région", "Caractéristiques", "Style typique"], "rows": [
-["Moselle (avec Sarre et Ruwer)", "Coteaux de schiste très pentus le long d'une rivière sinueuse ; parmi les zones les plus fraîches", "Riesling léger, acidité haute, alcool faible, souvent demi-sec ou doux (Kabinett, Spätlese) ; aussi des secs"],
-["Rheingau", "Le Rhin coule d'est en ouest, d'où de longs coteaux plein sud ; le Taunus protège du nord", "Riesling plus étoffé qu'en Moselle, secs et doux ; un peu de Spätburgunder"],
-["Palatinat (Pfalz)", "Plus chaud et plus sec, à l'abri des pluies grâce à la Haardt", "Riesling sec plus mûr et plus ample, Spätburgunder et Pinot blancs"],
-["Hesse rhénane (Rheinhessen)", "La plus grande région, beaucoup de terrains plats", "Gros volumes de Müller-Thurgau et Silvaner, mais aussi de grands Riesling secs"],
-["Nahe", "Sols très variés sur une petite surface", "Riesling du minéral au plus fruité"],
-["Bade (Baden)", "La région la plus méridionale et la plus chaude", "Spätburgunder, Grauburgunder et Weissburgunder, souvent secs et amples"],
-["Franconie (Franken)", "Plus continentale, sur le Main", "Silvaner sec et terrien, traditionnellement en bouteille plate Bocksbeutel"],
-["Ahr", "Petite vallée escarpée et septentrionale", "Étonnamment une zone de rouges, réputée pour le Spätburgunder"]
-]}},
+{"table": {"head": ["Région", "Caractéristiques", "Style typique"], "rows": [["Moselle (avec Sarre et Ruwer)", "Coteaux de schiste très pentus le long d'une rivière sinueuse ; parmi les zones les plus fraîches", "Riesling léger, acidité haute, alcool faible, souvent demi-sec ou doux (Kabinett, Spätlese) ; aussi des secs"], ["Rheingau", "Le Rhin coule d'est en ouest, d'où de longs coteaux plein sud ; le Taunus protège du nord", "Riesling plus étoffé qu'en Moselle, secs et doux ; un peu de Spätburgunder"], ["Palatinat (Pfalz)", "Plus chaud et plus sec, à l'abri des pluies grâce à la Haardt", "Riesling sec plus mûr et plus ample, Spätburgunder et Pinot blancs"], ["Hesse rhénane (Rheinhessen)", "La plus grande région, beaucoup de terrains plats", "Gros volumes de Müller-Thurgau et Silvaner, mais aussi de grands Riesling secs"], ["Nahe", "Sols très variés sur une petite surface", "Riesling du minéral au plus fruité"], ["Bade (Baden)", "La région la plus méridionale et la plus chaude", "Spätburgunder, Grauburgunder et Weissburgunder, souvent secs et amples"], ["Franconie (Franken)", "Plus continentale, sur le Main", "Silvaner sec et terrien, traditionnellement en bouteille plate Bocksbeutel"], ["Ahr", "Petite vallée escarpée et septentrionale", "Étonnamment une zone de rouges, réputée pour le Spätburgunder"]]}},
 {"p": "Une comparaison classique à l'examen : Moselle contre Palatinat. Le Riesling de Moselle est léger, délicat et souvent doux, peu alcoolisé, car la région est très fraîche et les vins gardent souvent du sucre résiduel. Le Riesling du Palatinat est plus mûr, plus ample et plus souvent sec, car l'effet d'abri de la Haardt donne un climat plus chaud et plus sec."},
 {"h2": "Cépages : Riesling, Müller-Thurgau, Spätburgunder"},
 {"h3": "Riesling"},
@@ -198,14 +227,7 @@
 ]},
 {"h2": "Étiquettes allemandes : Qualitätswein, Prädikatswein et VDP"},
 {"p": "La loi allemande classe le vin selon l'origine et la maturité du raisin à la récolte (densité du moût). Le Deutscher Wein n'a pas d'indication géographique, le Landwein est une IGP, le Qualitätswein et le Prädikatswein sont des AOP. Le Qualitätswein doit provenir de l'une des 13 régions ; le Prädikatswein doit en plus atteindre des densités minimales et ne peut pas être chaptalisé."},
-{"table": {"head": ["Prädikat", "Raisins", "Style typique"], "rows": [
-["Kabinett", "Le niveau le moins mûr", "Léger, délicat, très vif ; sec, demi-sec ou doux"],
-["Spätlese", "Vendange tardive, raisins plus mûrs", "Plus de corps et de concentration ; sec ou doux"],
-["Auslese", "Grappes très mûres triées, parfois botrytisées", "Riche, souvent doux mais peut être sec"],
-["Beerenauslese (BA)", "Baies surmûries triées une à une, en général botrytisées", "Liquoreux, miellé"],
-["Trockenbeerenauslese (TBA)", "Baies botrytisées et flétries", "Extrêmement doux, concentré, très grande garde, alcool faible"],
-["Eiswein", "Raisins gelés sur pied et pressés gelés", "Très doux avec une acidité tranchante, en général sans botrytis"]
-]}},
+{"table": {"head": ["Prädikat", "Raisins", "Style typique"], "rows": [["Kabinett", "Le niveau le moins mûr", "Léger, délicat, très vif ; sec, demi-sec ou doux"], ["Spätlese", "Vendange tardive, raisins plus mûrs", "Plus de corps et de concentration ; sec ou doux"], ["Auslese", "Grappes très mûres triées, parfois botrytisées", "Riche, souvent doux mais peut être sec"], ["Beerenauslese (BA)", "Baies surmûries triées une à une, en général botrytisées", "Liquoreux, miellé"], ["Trockenbeerenauslese (TBA)", "Baies botrytisées et flétries", "Extrêmement doux, concentré, très grande garde, alcool faible"], ["Eiswein", "Raisins gelés sur pied et pressés gelés", "Très doux avec une acidité tranchante, en général sans botrytis"]]}},
 {"p": "Le VDP, association de grands domaines, applique sa propre classification des vignobles : Gutswein, Ortswein, Erste Lage et Grosse Lage. Un Grosses Gewächs est un vin sec issu d'une Grosse Lage. Les étiquettes peuvent aussi indiquer trocken (sec), halbtrocken ou feinherb (demi-sec)."},
 {"tip": "Erreur fréquente : croire que tout Prädikat est doux. Le Prädikat mesure la maturité à la récolte, pas la douceur dans le verre. Un Spätlese trocken est sec. Seuls BA, TBA et Eiswein sont toujours doux."},
 {"h2": "Exemple de réponse courte : le Riesling de Moselle"},
@@ -220,14 +242,49 @@
 "Jour 6 : rédigez une réponse courte en temps limité (environ 10 minutes).",
 "Jour 7 : dégustez à l'aveugle un Riesling sec et un demi-sec et rédigez vos notes SAT sur l'acidité, le sucre et l'alcool."
 ]},
-{"p": "La répétition espacée fonctionne particulièrement bien pour le vocabulaire allemand et l'ordre des Prädikate : c'est exactement ce que fait l'appli en vous reproposant vos questions ratées jusqu'à ce qu'elles soient acquises."}
+{"p": "La répétition espacée fonctionne particulièrement bien pour le vocabulaire allemand et l'ordre des Prädikate : c'est exactement ce que fait l'appli en vous reproposant vos questions ratées jusqu'à ce qu'elles soient acquises."},
+{"h2": "L'Allemagne dans les deux unités du WSET niveau 3"},
+{"p": "Le WSET niveau 3 comporte deux unités distinctes. L'unité théorique associe 50 QCM et 4 questions à réponse courte rédigée ; l'unité de dégustation vous demande d'évaluer deux vins à l'aveugle avec le Systematic Approach to Tasting. Chaque unité exige au moins 55 %, chacune est corrigée séparément, et une unité échouée se repasse seule. L'Allemagne est un sujet de théorie fréquent, car elle associe une viticulture dictée par le site, un système d'étiquetage précis et un lien clair entre maturité et style."},
+{"p": "Le Riesling allemand est aussi l'un des vins les plus utiles pour s'entraîner à l'unité de dégustation, même si l'on ne vous demandera jamais de le nommer. Il entraîne deux jugements sur lesquels les candidats se trompent souvent : distinguer le sucre du fruité, et évaluer une acidité élevée quand le sucre résiduel en atténue la perception. Un Kabinett au sucre perceptible peut tout de même avoir une acidité élevée, un corps léger et un alcool faible, et votre note doit le dire exactement."},
+{"h2": "Décoder une étiquette allemande, étape par étape"},
+{"p": "Prenons une étiquette inventée par nos soins : Mosel, Riesling, Spätlese, trocken. Lisez-la en quatre étapes et vous pourrez décrire le vin avant de le goûter."},
+{"ol": [
+"Région : Moselle, l'une des régions les plus fraîches, aux coteaux de schiste très pentus ; attendez-vous à une acidité élevée et à un corps léger à moyen.",
+"Cépage : Riesling, aromatique, tardif, très acide, avec agrumes, pomme verte et fruits à noyau.",
+"Prädikat : Spätlese, donc le raisin a été cueilli plus mûr qu'un Kabinett ; attendez-vous à plus de concentration et de corps.",
+"Mention de sucre : trocken, donc le vin a fermenté jusqu'au sec ; attendez-vous à une bouche sèche et à plus d'alcool qu'un Spätlese doux."
+]},
+{"tip": "Le Prädikat indique la maturité du raisin ; les mots trocken, halbtrocken ou feinherb indiquent le niveau de sucre du vin. Lisez les deux avant de conclure sur le style."},
+{"h2": "Vins allemands secs, demi-secs et doux comparés"},
+{"table": {"head": ["Mention d'étiquette", "Sucre", "Alcool typique", "Exemple"], "rows": [["Trocken", "Sec", "Moyen à élevé pour l'Allemagne", "Riesling sec du Pfalz ou du Rheingau ; Grosses Gewächs"], ["Halbtrocken ou feinherb", "Demi-sec", "Moyen", "Riesling équilibrant une légère douceur et une acidité élevée"], ["Kabinett ou Spätlese sans mention de sec", "Souvent demi-sec à moelleux", "Faible", "Style classique de Moselle avec fermentation arrêtée"], ["BA, TBA, Eiswein", "Toujours doux à liquoreux", "Faible", "Rares vins de dessert issus de raisins botrytisés ou gelés"]]}},
+{"h2": "Questions d'entraînement avec réponses expliquées"},
+{"p": "Question 1 : pourquoi la chaptalisation est-elle interdite pour le Prädikatswein ? Réponse : le système Prädikat classe le vin selon la maturité naturelle du raisin à la vendange. Ajouter du sucre augmenterait l'alcool et masquerait la vraie richesse du moût, ce qui contredirait le sens de la catégorie."},
+{"p": "Question 2 : pourquoi le Riesling du Rheingau est-il généralement plus ample que celui de Moselle ? Réponse : le Rhin y coule d'est en ouest, ce qui crée de longs coteaux exposés au sud, et les collines du Taunus abritent les vignes des vents froids du nord. Ce surcroît de chaleur donne des raisins plus mûrs et plus de corps, tandis que l'acidité reste élevée."},
+{"p": "Question 3 : comment élabore-t-on l'Eiswein, et pourquoi son acidité est-elle si élevée ? Réponse : des raisins sains restent sur la souche jusqu'à une forte gelée, puis sont vendangés et pressés encore gelés. Une grande partie de l'eau reste sous forme de glace, donc le jus est concentré à la fois en sucre et en acidité : on obtient un vin très doux à l'acidité tranchante."},
+{"p": "Question 4 : pourquoi le Spätburgunder allemand a-t-il autant progressé ? Réponse : des saisons plus chaudes aident le cépage à mûrir pleinement, de meilleurs clones ont été plantés et beaucoup de producteurs vinifient avec plus de soin, y compris un élevage en fût pour les meilleurs vins de Bade, du Pfalz et de l'Ahr."},
+{"h2": "Erreurs fréquentes sur l'Allemagne"},
+{"table": {"head": ["Erreur", "Version correcte"], "rows": [["Tout vin Prädikat est doux", "Le Prädikat mesure la maturité à la vendange ; un Spätlese trocken est sec"], ["Süssreserve et fermentation arrêtée, c'est pareil", "La Süssreserve ajoute du jus non fermenté à un vin sec ; arrêter la fermentation garde le sucre naturel"], ["La Moselle est chaude grâce à sa rivière", "La Moselle est très fraîche ; la rivière et le schiste rendent seulement la maturité possible"], ["L'Allemagne ne produit que des blancs", "Le Spätburgunder est très planté, et l'Ahr est surtout une zone de rouges"], ["Le Grosses Gewächs est un vin doux", "Le Grosses Gewächs est un vin sec issu d'un site Grosse Lage du VDP"]]}},
+{"h2": "Glossaire du vin allemand"},
+{"ul": [
+"Anbaugebiet : l'une des 13 régions allemandes de vins de qualité.",
+"Richesse du moût (must weight) : la teneur en sucre du jus à la vendange, base des niveaux Prädikat.",
+"Trocken : sec. Halbtrocken et feinherb : demi-sec.",
+"Lage : un lieu-dit ; dans le système VDP, Erste Lage et Grosse Lage sont les niveaux supérieurs.",
+"Süssreserve : jus de raisin non fermenté ajouté avant la mise en bouteille pour ajuster le sucre.",
+"Bocksbeutel : la bouteille plate et arrondie utilisée traditionnellement en Franconie."
+]}
 ],
 "faq": [
 ["Quelles régions allemandes réviser en priorité pour le WSET 3 ?", "Concentrez-vous sur la Moselle, le Rheingau, le Palatinat, la Hesse rhénane, la Nahe, le Bade et la Franconie. Il faut savoir relier chacune à son climat et à son style : Moselle et Riesling léger, peu alcoolisé, souvent doux ; Palatinat et Riesling sec plus ample ; Bade et Spätburgunder ; Franconie et Silvaner en Bocksbeutel."],
 ["Dans quel ordre sont les Prädikate allemands au WSET niveau 3 ?", "Du moins mûr au plus mûr à la récolte : Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese. L'Eiswein est à part : il provient de raisins gelés naturellement sur pied, avec une densité minimale comparable au Beerenauslese. Les niveaux décrivent la maturité du raisin, pas la douceur du vin."],
 ["Qu'est-ce que la Süssreserve dans les vins allemands ?", "La Süssreserve est du jus de raisin non fermenté ajouté à un vin sec avant la mise en bouteille pour lui donner de la douceur. Elle sert surtout pour les vins allemands bon marché. Les producteurs de qualité préfèrent souvent arrêter la fermentation par le froid et la filtration, ce qui conserve un sucre résiduel naturel et un alcool plus bas."],
 ["Que signifie Grosses Gewächs sur une étiquette allemande ?", "Grosses Gewächs est la mention utilisée par les domaines membres du VDP pour un vin sec issu d'une Grosse Lage, leur catégorie de vignoble la plus élevée. Elle signale donc les grands vins secs, le plus souvent des Riesling, mais aussi parfois des Spätburgunder ou d'autres cépages."],
-["Pourquoi un Riesling allemand doux paraît-il frais ?", "Le Riesling allemand pousse sous un climat frais et garde une acidité très élevée. Cette acidité équilibre le sucre résiduel : un Kabinett ou un Spätlese doux paraît donc vif plutôt que lourd. Cet équilibre sucre-acidité est un point classique en dégustation comme en théorie au WSET 3."]
+["Pourquoi un Riesling allemand doux paraît-il frais ?", "Le Riesling allemand pousse sous un climat frais et garde une acidité très élevée. Cette acidité équilibre le sucre résiduel : un Kabinett ou un Spätlese doux paraît donc vif plutôt que lourd. Cet équilibre sucre-acidité est un point classique en dégustation comme en théorie au WSET 3."],
+["Un Riesling allemand peut-il tomber à l'unité de dégustation du WSET niveau 3 ?", "Tout vin du programme peut être utilisé, mais l'unité de dégustation ne demande jamais de l'identifier. Vous êtes noté sur une description SAT précise et des conclusions justifiées, dans une unité corrigée séparément de la théorie avec son propre seuil de 55 %. Le Riesling allemand est un entraînement idéal, car il teste votre capacité à juger l'acidité et le sucre indépendamment."],
+["Quelle est la différence entre trocken et feinherb ?", "Trocken signifie que le vin est sec : la fermentation a consommé presque tout le sucre. Feinherb, comme halbtrocken, indique un vin demi-sec avec un peu de sucre résiduel. Dans le Riesling allemand, l'acidité élevée fait souvent paraître un demi-sec plus frais et plus sec que son taux de sucre ne le laisserait penser : ces mentions aident donc à prévoir l'équilibre."],
+["Comment décoder rapidement une étiquette allemande ?", "Lisez-la en quatre étapes : la région indique le climat, le cépage les arômes et la structure, le Prädikat la maturité du raisin, et des mots comme trocken ou feinherb le niveau de sucre. Un Kabinett ou un Spätlese sans mention de sec indique souvent un vin avec un peu de sucre résiduel."],
+["Pourquoi l'Eiswein est-il si acide ?", "L'Eiswein est élaboré à partir de raisins gelés sur la souche et pressés encore gelés. L'eau reste sous forme de glace, donc le jus qui s'écoule est concentré à la fois en sucre et en acidité. Comme les raisins sont en général sains et non botrytisés, le vin montre un fruit pur, avec une douceur très élevée équilibrée par une acidité tranchante."],
+["Comment répartir la révision de l'Allemagne entre les deux unités ?", "Traitez l'Allemagne surtout comme un sujet de théorie : régions, ordre des Prädikat, vinification des vins doux et mentions d'étiquette pour les QCM et les réponses rédigées. En parallèle, utilisez des Riesling secs et demi-secs dans votre entraînement à la dégustation. Comme les deux unités se valident séparément, gardez un plan équilibré pour qu'aucune ne soit négligée."]
 ]
 },
 "es": {
@@ -246,16 +303,7 @@
 {"tip": "En una respuesta corta nunca escribas solo clima fresco. Escribe la cadena completa: clima continental fresco, por eso hacen falta laderas empinadas orientadas al sur junto a ríos para madurar la uva, por eso los vinos conservan acidez alta y fruta intensa con alcohol a menudo bajo o medio."},
 {"h2": "Regiones alemanas para el WSET 3: Mosela, Rheingau, Pfalz y más"},
 {"p": "Alemania tiene 13 regiones (Anbaugebiete) para vinos de calidad. En el WSET 3 necesitas el carácter de las principales, no el mapa de cada pueblo: relaciona cada región con su clima, sus suelos y su estilo típico."},
-{"table": {"head": ["Región", "Rasgos clave", "Estilo típico"], "rows": [
-["Mosela (con Saar y Ruwer)", "Laderas de pizarra muy empinadas junto a un río sinuoso; de las zonas más frescas", "Riesling ligera, acidez alta, alcohol bajo, a menudo semiseca o dulce (Kabinett, Spätlese); también secos"],
-["Rheingau", "El Rin corre de este a oeste y deja largas laderas al sur; el Taunus protege del norte", "Riesling con más cuerpo que en el Mosela, secos y dulces; algo de Spätburgunder"],
-["Pfalz (Palatinado)", "Más cálido y seco, a la sombra pluviométrica de los montes Haardt", "Riesling seca más madura y amplia, Spätburgunder y Pinot blancas"],
-["Rheinhessen", "La región más grande, mucho terreno llano", "Grandes volúmenes de Müller-Thurgau y Silvaner, pero también Riesling seca de alto nivel"],
-["Nahe", "Suelos muy variados en poca superficie", "Riesling de mineral a más frutal"],
-["Baden", "La región más meridional y cálida", "Spätburgunder, Grauburgunder y Weissburgunder, a menudo secos y con cuerpo"],
-["Franken (Franconia)", "Más continental, junto al Meno", "Silvaner seca y terrosa, tradicionalmente en la botella plana Bocksbeutel"],
-["Ahr", "Valle pequeño, empinado y septentrional", "Sorprendentemente una zona de tintos, famosa por la Spätburgunder"]
-]}},
+{"table": {"head": ["Región", "Rasgos clave", "Estilo típico"], "rows": [["Mosela (con Saar y Ruwer)", "Laderas de pizarra muy empinadas junto a un río sinuoso; de las zonas más frescas", "Riesling ligera, acidez alta, alcohol bajo, a menudo semiseca o dulce (Kabinett, Spätlese); también secos"], ["Rheingau", "El Rin corre de este a oeste y deja largas laderas al sur; el Taunus protege del norte", "Riesling con más cuerpo que en el Mosela, secos y dulces; algo de Spätburgunder"], ["Pfalz (Palatinado)", "Más cálido y seco, a la sombra pluviométrica de los montes Haardt", "Riesling seca más madura y amplia, Spätburgunder y Pinot blancas"], ["Rheinhessen", "La región más grande, mucho terreno llano", "Grandes volúmenes de Müller-Thurgau y Silvaner, pero también Riesling seca de alto nivel"], ["Nahe", "Suelos muy variados en poca superficie", "Riesling de mineral a más frutal"], ["Baden", "La región más meridional y cálida", "Spätburgunder, Grauburgunder y Weissburgunder, a menudo secos y con cuerpo"], ["Franken (Franconia)", "Más continental, junto al Meno", "Silvaner seca y terrosa, tradicionalmente en la botella plana Bocksbeutel"], ["Ahr", "Valle pequeño, empinado y septentrional", "Sorprendentemente una zona de tintos, famosa por la Spätburgunder"]]}},
 {"p": "Una comparación clásica de examen es Mosela frente a Pfalz. La Riesling del Mosela es ligera, delicada y a menudo dulce con poco alcohol, porque la zona es muy fresca y los vinos se elaboran con frecuencia con azúcar residual. La Riesling del Pfalz es más madura, con más cuerpo y más a menudo seca, porque la sombra pluviométrica de los montes Haardt da un clima más cálido y seco."},
 {"h2": "Variedades: Riesling, Müller-Thurgau, Spätburgunder"},
 {"h3": "Riesling"},
@@ -275,14 +323,7 @@
 ]},
 {"h2": "Etiquetas alemanas: Qualitätswein, Prädikatswein y VDP"},
 {"p": "La ley alemana clasifica el vino por origen y por madurez de la uva en vendimia (peso del mosto). El Deutscher Wein no tiene indicación geográfica, el Landwein es una IGP, y el Qualitätswein y el Prädikatswein son DOP. El Qualitätswein debe proceder de una de las 13 regiones; el Prädikatswein, además, debe alcanzar pesos mínimos de mosto y no puede chaptalizarse."},
-{"table": {"head": ["Prädikat", "Uvas", "Estilo típico"], "rows": [
-["Kabinett", "El nivel menos maduro", "Ligero, delicado, muy ácido; seco, semiseco o dulce"],
-["Spätlese", "Vendimia tardía, uva más madura", "Más cuerpo y concentración; seco o dulce"],
-["Auslese", "Racimos muy maduros seleccionados, a veces con botrytis", "Rico, a menudo dulce pero puede ser seco"],
-["Beerenauslese (BA)", "Bayas sobremaduras seleccionadas una a una, normalmente botritizadas", "Muy dulce, meloso"],
-["Trockenbeerenauslese (TBA)", "Bayas botritizadas y pasificadas", "Extremadamente dulce, concentrado, muy longevo, alcohol bajo"],
-["Eiswein", "Uva helada en la cepa y prensada congelada", "Muy dulce con acidez cortante, normalmente sin botrytis"]
-]}},
+{"table": {"head": ["Prädikat", "Uvas", "Estilo típico"], "rows": [["Kabinett", "El nivel menos maduro", "Ligero, delicado, muy ácido; seco, semiseco o dulce"], ["Spätlese", "Vendimia tardía, uva más madura", "Más cuerpo y concentración; seco o dulce"], ["Auslese", "Racimos muy maduros seleccionados, a veces con botrytis", "Rico, a menudo dulce pero puede ser seco"], ["Beerenauslese (BA)", "Bayas sobremaduras seleccionadas una a una, normalmente botritizadas", "Muy dulce, meloso"], ["Trockenbeerenauslese (TBA)", "Bayas botritizadas y pasificadas", "Extremadamente dulce, concentrado, muy longevo, alcohol bajo"], ["Eiswein", "Uva helada en la cepa y prensada congelada", "Muy dulce con acidez cortante, normalmente sin botrytis"]]}},
 {"p": "El VDP, asociación de grandes bodegas, usa su propia clasificación de viñedos: Gutswein, Ortswein, Erste Lage y Grosse Lage. Un Grosses Gewächs es un vino seco de un viñedo Grosse Lage. En la etiqueta también pueden aparecer trocken (seco) y halbtrocken o feinherb (semiseco)."},
 {"tip": "Error habitual: pensar que todo Prädikat es dulce. El Prädikat mide la madurez en vendimia, no el dulzor en la copa. Un Spätlese trocken es seco. Solo BA, TBA y Eiswein son siempre dulces."},
 {"h2": "Ejemplo de respuesta corta: la Riesling del Mosela"},
@@ -297,14 +338,49 @@
 "Día 6: redacta una respuesta corta contra reloj (unos 10 minutos).",
 "Día 7: cata a ciegas una Riesling seca y una semiseca y escribe notas SAT sobre acidez, dulzor y alcohol."
 ]},
-{"p": "La repetición espaciada funciona muy bien para los términos alemanes y el orden de los Prädikate: es justo lo que hace la app, que te vuelve a plantear las preguntas falladas hasta que las dominas."}
+{"p": "La repetición espaciada funciona muy bien para los términos alemanes y el orden de los Prädikate: es justo lo que hace la app, que te vuelve a plantear las preguntas falladas hasta que las dominas."},
+{"h2": "Alemania en las dos unidades del WSET Nivel 3"},
+{"p": "El WSET Nivel 3 tiene dos unidades separadas. La unidad teórica combina 50 preguntas tipo test y 4 preguntas de respuesta corta escrita; la unidad de cata te pide evaluar dos vinos a ciegas con el Systematic Approach to Tasting. Cada unidad exige al menos un 55 %, se corrige por separado y, si suspendes una, la repites sola. Alemania es un tema de teoría frecuente porque une una viticultura marcada por el emplazamiento, un sistema de etiquetado preciso y una relación clara entre madurez y estilo."},
+{"p": "El Riesling alemán es además uno de los vinos más útiles para entrenar la unidad de cata, aunque nunca te pedirán nombrarlo. Entrena dos juicios en los que los candidatos fallan a menudo: separar el dulzor de lo afrutado y valorar una acidez alta cuando el azúcar residual suaviza su percepción. Un Kabinett con azúcar perceptible puede tener aun así acidez alta, cuerpo ligero y alcohol bajo, y tu nota debe decirlo exactamente."},
+{"h2": "Cómo descifrar una etiqueta alemana, paso a paso"},
+{"p": "Toma una etiqueta inventada por nosotros: Mosel, Riesling, Spätlese, trocken. Léela en cuatro pasos y podrás describir el vino antes de probarlo."},
+{"ol": [
+"Región: Mosela, una de las regiones más frescas, con laderas de pizarra muy empinadas; espera acidez alta y cuerpo ligero a medio.",
+"Variedad: Riesling, aromática, de maduración tardía, muy ácida, con cítricos, manzana verde y fruta de hueso.",
+"Prädikat: Spätlese, así que la uva se vendimió más madura que un Kabinett; espera más concentración y cuerpo.",
+"Término de dulzor: trocken, así que el vino fermentó hasta seco; espera una boca seca y más alcohol que un Spätlese dulce."
+]},
+{"tip": "El Prädikat indica lo madura que estaba la uva; las palabras trocken, halbtrocken o feinherb indican lo dulce que es el vino. Lee ambas cosas antes de decidir el estilo."},
+{"h2": "Vinos alemanes secos, semisecos y dulces comparados"},
+{"table": {"head": ["Indicación en etiqueta", "Dulzor", "Alcohol típico", "Ejemplo"], "rows": [["Trocken", "Seco", "Medio a alto para Alemania", "Riesling seco del Pfalz o del Rheingau; Grosses Gewächs"], ["Halbtrocken o feinherb", "Semiseco", "Medio", "Riesling que equilibra un ligero dulzor con acidez alta"], ["Kabinett o Spätlese sin término de seco", "A menudo semiseco a semidulce", "Bajo", "Estilo clásico del Mosela con fermentación detenida"], ["BA, TBA, Eiswein", "Siempre dulce a muy dulce", "Bajo", "Raros vinos de postre de uvas botritizadas o congeladas"]]}},
+{"h2": "Preguntas de práctica con respuestas explicadas"},
+{"p": "Pregunta 1: ¿por qué no se permite chaptalizar el Prädikatswein? Respuesta: el sistema Prädikat clasifica el vino según la madurez natural de la uva en la vendimia. Añadir azúcar subiría el alcohol y ocultaría el verdadero peso del mosto, lo que contradiría el sentido de la categoría."},
+{"p": "Pregunta 2: ¿por qué el Riesling del Rheingau suele tener más cuerpo que el del Mosela? Respuesta: allí el Rin fluye de este a oeste, lo que crea largas laderas orientadas al sur, y las colinas del Taunus protegen los viñedos de los vientos fríos del norte. El calor extra da uvas más maduras y más cuerpo, mientras la acidez sigue siendo alta."},
+{"p": "Pregunta 3: ¿cómo se elabora el Eiswein y por qué su acidez es tan alta? Respuesta: las uvas sanas se dejan en la cepa hasta una helada fuerte y después se vendimian y se prensan aún congeladas. Gran parte del agua se queda en forma de hielo, así que el mosto se concentra a la vez en azúcar y en acidez: el resultado es un vino muy dulce con una acidez cortante."},
+{"p": "Pregunta 4: ¿por qué ha mejorado tanto el Spätburgunder alemán? Respuesta: las temporadas más cálidas ayudan a la variedad a madurar por completo, se han plantado clones mejores y muchos productores elaboran con más cuidado, incluida la crianza en roble para los mejores vinos de Baden, Pfalz y Ahr."},
+{"h2": "Errores frecuentes sobre Alemania"},
+{"table": {"head": ["Error", "Versión correcta"], "rows": [["Todo vino Prädikat es dulce", "El Prädikat mide la madurez en la vendimia; un Spätlese trocken es seco"], ["Süssreserve y fermentación detenida son lo mismo", "La Süssreserve añade mosto sin fermentar a un vino seco; detener la fermentación conserva el azúcar natural"], ["El Mosela es cálido gracias a su río", "El Mosela es muy fresco; el río y la pizarra solo hacen posible la maduración"], ["Alemania solo elabora blancos", "La Spätburgunder está muy plantada y el Ahr es sobre todo una zona de tintos"], ["El Grosses Gewächs es un vino dulce", "El Grosses Gewächs es un vino seco de un viñedo Grosse Lage del VDP"]]}},
+{"h2": "Glosario del vino alemán"},
+{"ul": [
+"Anbaugebiet: una de las 13 regiones alemanas de vinos de calidad.",
+"Peso del mosto (must weight): el contenido de azúcar del mosto en la vendimia, base de los niveles Prädikat.",
+"Trocken: seco. Halbtrocken y feinherb: semiseco.",
+"Lage: un viñedo concreto; en el sistema VDP, Erste Lage y Grosse Lage son los niveles superiores.",
+"Süssreserve: mosto sin fermentar que se añade antes del embotellado para ajustar el dulzor.",
+"Bocksbeutel: la botella plana y redondeada que se usa tradicionalmente en Franken."
+]}
 ],
 "faq": [
 ["¿Qué regiones alemanas son más importantes para el WSET 3?", "Céntrate en Mosela, Rheingau, Pfalz, Rheinhessen, Nahe, Baden y Franken. Debes saber relacionar cada una con su clima y su estilo: Mosela con Riesling ligera, de poco alcohol y a menudo dulce; Pfalz con Riesling seca más amplia; Baden con Spätburgunder; y Franken con Silvaner en botella Bocksbeutel."],
 ["¿Cuál es el orden de los Prädikate alemanes en el WSET nivel 3?", "De menos a más madurez en vendimia: Kabinett, Spätlese, Auslese, Beerenauslese y Trockenbeerenauslese. El Eiswein va aparte: se elabora con uva helada de forma natural en la cepa y exige un peso de mosto mínimo comparable al Beerenauslese. Recuerda que los niveles indican la madurez de la uva, no el dulzor del vino."],
 ["¿Qué es la Süssreserve en el vino alemán?", "La Süssreserve es mosto de uva sin fermentar que se añade a un vino seco antes del embotellado para darle dulzor. Se usa sobre todo en vinos alemanes económicos. Los productores de calidad suelen preferir parar la fermentación con frío y filtración, lo que conserva azúcar residual natural y un alcohol más bajo."],
 ["¿Qué significa Grosses Gewächs en una etiqueta alemana?", "Grosses Gewächs es el término que usan las bodegas del VDP para un vino seco de una Grosse Lage, su categoría de viñedo más alta. Señala, por tanto, los grandes vinos secos, casi siempre Riesling, aunque también puede aplicarse a Spätburgunder y a otras variedades."],
-["¿Por qué una Riesling alemana dulce parece fresca?", "La Riesling alemana crece en clima fresco y conserva una acidez muy alta. Esa acidez equilibra el azúcar residual, de modo que un Kabinett o un Spätlese dulce resulta vivo y no pesado. El equilibrio entre azúcar y acidez es un punto clásico tanto en la cata como en la teoría del WSET 3."]
+["¿Por qué una Riesling alemana dulce parece fresca?", "La Riesling alemana crece en clima fresco y conserva una acidez muy alta. Esa acidez equilibra el azúcar residual, de modo que un Kabinett o un Spätlese dulce resulta vivo y no pesado. El equilibrio entre azúcar y acidez es un punto clásico tanto en la cata como en la teoría del WSET 3."],
+["¿Puede salir un Riesling alemán en la unidad de cata del WSET Nivel 3?", "Puede usarse cualquier vino del temario, pero la unidad de cata nunca te pide identificarlo. Te puntúan por una descripción SAT precisa y unas conclusiones justificadas, en una unidad que se corrige aparte de la teoría con su propio mínimo del 55 %. El Riesling alemán es una práctica ideal porque pone a prueba tu capacidad de juzgar la acidez y el dulzor por separado."],
+["¿Qué diferencia hay entre trocken y feinherb?", "Trocken significa que el vino es seco: la fermentación ha consumido casi todo el azúcar. Feinherb, como halbtrocken, indica un vino semiseco con algo de azúcar residual. En el Riesling alemán la acidez alta suele hacer que un semiseco parezca más fresco y seco de lo que indicaría su azúcar, por eso estos términos te ayudan a prever el equilibrio."],
+["¿Cómo descifrar rápido una etiqueta alemana?", "Léela en cuatro pasos: la región te dice el clima, la variedad los aromas y la estructura, el Prädikat lo madura que estaba la uva, y palabras como trocken o feinherb el dulzor. Un Kabinett o un Spätlese sin término de seco suele indicar un vino con algo de azúcar residual."],
+["¿Por qué el Eiswein es tan ácido?", "El Eiswein se elabora con uvas congeladas en la cepa y prensadas aún congeladas. El agua se queda en forma de hielo, así que el mosto que sale está concentrado a la vez en azúcar y en acidez. Como las uvas suelen estar sanas y sin botrytis, el vino muestra una fruta pura con un dulzor muy alto equilibrado por una acidez cortante."],
+["¿Cómo repartir el repaso de Alemania entre las dos unidades?", "Trata Alemania sobre todo como tema de teoría: regiones, orden de los Prädikat, elaboración de vinos dulces y términos de etiqueta para las preguntas tipo test y las respuestas escritas. Al mismo tiempo, usa Riesling secos y semisecos en tu práctica de cata. Como las dos unidades se aprueban por separado, mantén un plan equilibrado para que ninguna se quede atrás."]
 ]
 }
 }
