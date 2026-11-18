@@ -687,7 +687,7 @@ TWG_MEDIA.films = (TWG_MEDIA.films || []).concat([
    "Ice has two jobs: first and foremost to chill the drink, and second to help with dilution. To do this well it must be very cold and dry. If it is close to 0 °C it chills poorly and melts too fast, watering the drink down. Some bars invest heavily in their ice, but the two basic formats are cubed and crushed."),
   v:()=>spF(spIce(60,70,2.6,10)+spIce(100,90,2.2,-8)+fThermo(150,40,"-18 °C",.15,"#3f7fa8")+fChip(90,130,w3("freddo e asciutto","froid et sec","cold and dry"),"#3f7fa8")
    +fD(1.4,`<g opacity=".7">${spIce(240,80,2.2,4)}</g>`+fDrops(240,96,130,"#9fd3f0",3)+fChip(240,40,"≈ 0 °C","#8c1d40")+fChip(240,150,w3("si scioglie troppo","fond trop vite","melts too fast"),"#8c1d40"))
-   +fD(2.4,fChip(160,184,w3("1 raffredda, 2 diluisce","1 refroidir, 2 diluer","1 chill, 2 dilute"),"#5e8c31")))},
+   +fD(2.4,fChip(160,184,w3("1 freddo, 2 diluizione","1 refroidir, 2 diluer","1 chill, 2 dilute"),"#5e8c31")))},
  {h:I3_("Shakerare o mescolare","Secouer ou remuer","Shaking or stirring"),
   c:I3_("I cubetti servono a preparare sia i drink shakerati sia quelli mescolati. Shakerare con i cubetti raffredda in fretta e diluisce poco. Mescolare raffredda più lentamente e, rispetto allo shaker, la diluizione può essere maggiore. Il ghiaccio usato per preparare si butta sempre: nel bicchiere va ghiaccio nuovo.",
    "Les glaçons servent à préparer aussi bien les boissons secouées que remuées. Secouer avec des glaçons refroidit vite et dilue un peu. Remuer refroidit plus lentement et, par rapport au shaker, la dilution peut être plus grande. La glace de préparation est toujours jetée : dans le verre, on met de la glace neuve.",
