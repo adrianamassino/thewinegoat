@@ -166,7 +166,7 @@ def page(key, l):
 <a class="brand" href="{HOME[l]}"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
 <nav class="seolangs" aria-label="Language">{langs}</nav>
 <a class="btn btn-primary btn-sm" href="{app}">{e(U[5])}</a></div></header>
-<main><nav class="crumbs" aria-label="Breadcrumb"><ol>{crumbs}</ol></nav><article class="wrap seo-a"><h1>{e(C['h1'])}</h1>{body}</article></main><footer class="foot"><div class="wrap"><p class="fdisc">{DISC[l]}</p><p>© 2026 The Wine Goat · <a href="{HOME[l]}">thewinegoat.com</a> · {e(U[6])} {DATE}</p></div></footer><script src="/assets/seo.js" defer></script><script src="/assets/deco.js?v=7" defer></script></body></html>
+<main><nav class="crumbs" aria-label="Breadcrumb"><ol>{crumbs}</ol></nav><article class="wrap seo-a"><h1>{e(C['h1'])}</h1>{body}</article></main><footer class="foot"><div class="wrap"><p class="fdisc">{DISC[l]}</p><p>© 2026 The Wine Goat · <a href="{HOME[l]}">thewinegoat.com</a> · {e(U[6])} {DATE}</p></div></footer><script src="/assets/seo.js" defer></script><script src="/assets/deco.js?v=8" defer></script></body></html>
 '''
     out = ROOT + slug + 'index.html'
     os.makedirs(os.path.dirname(out), exist_ok=True)

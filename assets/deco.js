@@ -246,13 +246,15 @@ ${[[13, 20], [26, 26], [17, 33], [24, 40], [14, 43], [27, 15]].map(([x, y]) => `
     h.classList.add("dk-host"); h.insertBefore(box, h.firstChild);
   });
 
-  const gaps = blocks.map((_, i) => i).filter(i => i >= 2 && i % 2 === 0), WALK_AT = isHome || blocks.length >= 6 ? gaps[Math.floor(gaps.length / 2)] : -1;
+  /* never right under (or right above) a walking-goat lane of the page itself: two walking goats glued together look odd */
+  const nearLane = el => { const b = el.getBoundingClientRect(), L = [...document.querySelectorAll(".glane")].map(g => g.getBoundingClientRect()); return L.some(g => Math.abs(g.bottom - b.top) < 420 || Math.abs(b.top - g.top) < 420); };
+  const gaps = blocks.map((_, i) => i).filter(i => i >= 2 && i % 2 === 0 && !nearLane(blocks[i])), WALK_AT = isHome || blocks.length >= 6 ? gaps[Math.floor(gaps.length / 2)] : -1;
   /* between sections: a goat walking past (sometimes past a prop), or a small vignette on phones */
   blocks.forEach((el, i) => {
     if (i === 0) return;
     const r = rnd();
     if (i < 2 || i % 2) return; // at most every other gap, never right under the first sections
-    if (i === WALK_AT) {
+    if (i === WALK_AT && !nearLane(el)) {
       const w = document.createElement("div"); w.className = "dkWalk"; w.setAttribute("aria-hidden", "true");
       const rv = rnd() < .5, t = 26 + Math.round(rnd() * 14), prop = rnd() < .6 ? pick(["barrel", "bottleR", "grapesR", "glassR", "flute", "bottleS"]) : null;
       w.innerHTML = (prop ? `<div class="dkP" style="left:${18 + Math.round(rnd() * 64)}%;width:${Math.round(PSIZE[prop] * .62)}px">${PROPS[prop]()}</div>` : "") +

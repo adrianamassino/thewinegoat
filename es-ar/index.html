@@ -1001,5 +1001,5 @@ function show(href){var bg=document.createElement('div');bg.className='lnm-bg';b
  bg.querySelector('h2').textContent=N.t;bg.querySelector('p').textContent=N.p;var b=bg.querySelector('button');b.textContent=N.b+' →';
  function go(){try{localStorage.setItem('twg-lnote','1');}catch(e){}location.href=href;}
  b.addEventListener('click',go);bg.addEventListener('click',function(e){if(e.target===bg)bg.remove();});document.body.appendChild(bg);b.focus();}
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="/app/"]');if(!a)return;setL();if(!N.p||seen())return;e.preventDefault();show(a.getAttribute('href'));},true);})();</script><script src="/assets/deco.js?v=7" defer></script></body>
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="/app/"]');if(!a)return;setL();if(!N.p||seen())return;e.preventDefault();show(a.getAttribute('href'));},true);})();</script><script src="/assets/deco.js?v=8" defer></script></body>
 </html>
