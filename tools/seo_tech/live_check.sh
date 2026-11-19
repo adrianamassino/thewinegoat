@@ -36,10 +36,10 @@ done
 echo
 echo "## robots.txt, sitemap, favicon"
 echo '```'
-for u in /robots.txt /sitemap.xml /favicon.ico /favicon-48.png /favicon-96.png /favicon-192.png /apple-touch-icon.png /site.webmanifest; do
+for u in /robots.txt /sitemap.xml /favicon.ico /img/favicon-48.png /img/favicon-96.png /img/favicon-192.png /img/apple-touch-icon.png /img/logo.png /tr/ /th/ /nl/wset-level-2/ /de/wset-level-2/; do
   echo "$u: $(curl -s -o /dev/null -w '%{http_code} %{content_type} %{size_download}B' -m 20 "https://$D$u")"
 done
-echo "Googlebot-Image UA /favicon-96.png: $(curl -s -o /dev/null -w '%{http_code}' -A 'Googlebot-Image/1.0' -m 20 "https://$D/favicon-96.png")"
+echo "Googlebot-Image UA /img/favicon-48.png: $(curl -s -o /dev/null -w '%{http_code}' -A 'Googlebot-Image/1.0' -m 20 "https://$D/img/favicon-48.png")"
 n=$(curl -s -m 30 "https://$D/sitemap.xml" | grep -o '<loc>[^<]*</loc>' | wc -l); nh=$(curl -s -m 30 "https://$D/sitemap.xml" | grep -o '<loc>http://[^<]*' | wc -l); nw=$(curl -s -m 30 "https://$D/sitemap.xml" | grep -o '<loc>https://www\.[^<]*' | wc -l)
 echo "sitemap: $n URLs, $nh http, $nw www"
 echo '```'

@@ -35,6 +35,7 @@ jobs:
           cat /tmp/enforce.txt
           gh api "repos/${{ github.repository }}/pages" > /tmp/pages_after.json || true
           gh api "repos/${{ github.repository }}/pages/health" > /tmp/pages_health.json 2>&1 || true
+          gh api "repos/${{ github.repository }}/pages/builds?per_page=5" --jq '[.[] | {status, created_at, commit: .commit[0:7], error: .error.message, duration}]' > /tmp/pages_builds.json 2>&1 || true
       - name: Live checks
         run: |
           sleep 20
@@ -46,6 +47,7 @@ jobs:
             echo "## GitHub Pages configuration (before)"; echo '```json'; cat /tmp/pages_before.json; echo; echo '```'
             echo "## Enforce HTTPS"; echo '```'; cat /tmp/enforce.txt; echo '```'
             echo "## GitHub Pages configuration (after)"; echo '```json'; cat /tmp/pages_after.json 2>/dev/null; echo; echo '```'
+            echo "## Latest GitHub Pages builds"; echo '```json'; cat /tmp/pages_builds.json 2>/dev/null; echo; echo '```'
             echo "## GitHub Pages DNS health check"; echo '```json'; cat /tmp/pages_health.json 2>/dev/null; echo; echo '```'
             cat /tmp/live.md
           } > tools/seo_tech/live_report.md
