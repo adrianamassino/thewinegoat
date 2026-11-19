@@ -3,9 +3,9 @@
 "source": "wset-level-2/index.html",
 "url": "/wset-level-2/",
 "region": "main",
-"sha": "a6bc4105c8e7",
-"words": 3571,
-"segment_words": 3665,
+"sha": "ef4f54c7bf11",
+"words": 3572,
+"segment_words": 3660,
 "segments": [
 {
 "t": "WSET Level 2 Award in Wines: exam format, syllabus, grapes",
@@ -57,7 +57,7 @@
 "k": "text"
 },
 {
-"t": "{1}Notify me{/1}{2}Try Level 3 free{/2}",
+"t": "{1}Start Level 2{/1}{2}Try Level 3 free{/2}",
 "k": "text"
 },
 {
@@ -395,10 +395,6 @@
 },
 {
 "t": "Lessons, practice questions with explanations, flashcards, games and a 50-question mock exam for WSET Level 2, in the same app as the other levels.",
-"k": "text"
-},
-{
-"t": "{1}Start Level 2{/1}{2}Try Level 3 free{/2}",
 "k": "text"
 },
 {

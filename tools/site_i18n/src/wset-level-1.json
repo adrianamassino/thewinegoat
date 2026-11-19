@@ -3,9 +3,9 @@
 "source": "wset-level-1/index.html",
 "url": "/wset-level-1/",
 "region": "main",
-"sha": "47557cf8a30f",
-"words": 3425,
-"segment_words": 3512,
+"sha": "582f9605c50e",
+"words": 3426,
+"segment_words": 3507,
 "segments": [
 {
 "t": "WSET Level 1 Award in Wines: exam format, syllabus",
@@ -57,7 +57,7 @@
 "k": "text"
 },
 {
-"t": "{1}Notify me{/1}{2}Try Level 3 free{/2}",
+"t": "{1}Start Level 1{/1}{2}Try Level 3 free{/2}",
 "k": "text"
 },
 {
@@ -387,10 +387,6 @@
 },
 {
 "t": "Lessons, practice questions with explanations, flashcards, games and a 30-question mock exam for WSET Level 1, in the same app as the other levels. Level 1 is completely free.",
-"k": "text"
-},
-{
-"t": "{1}Start Level 1{/1}{2}Try Level 3 free{/2}",
 "k": "text"
 },
 {
