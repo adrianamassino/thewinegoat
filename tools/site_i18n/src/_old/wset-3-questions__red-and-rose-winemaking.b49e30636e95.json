@@ -1,0 +1,1035 @@
+{
+"group": "wset-3-questions__red-and-rose-winemaking",
+"source": "wset-3-questions/red-and-rose-winemaking/index.html",
+"url": "/wset-3-questions/red-and-rose-winemaking/",
+"region": "main",
+"sha": "b49e30636e95",
+"words": 3520,
+"segment_words": 3800,
+"segments": [
+{
+"t": "WSET 3 Red and rosé wines – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Red and rosé wines practice questions with answers and explanations, plus 102 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Red and rosé wines, WSET Level 3 Red and rosé wines, Red and rosé wines WSET questions, Red and rosé wines wine quiz, Red and rosé wines wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Red and rosé wines: practice questions with answers – WSET 3 Red and rosé wines, WSET Level 3 Red and rosé wines (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Red and rosé wines",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Red and rosé wines: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Red and rosé wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 102 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Red and rosé wines: practice questions with answers | WSET 3 Red and rosé wines",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Red and rosé wines practice questions with answers and explanations, plus 102 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} In red winemaking, when does pressing normally happen?",
+"k": "text"
+},
+{
+"t": "At bottling",
+"k": "text"
+},
+{
+"t": "During harvest",
+"k": "text"
+},
+{
+"t": "Before fermentation",
+"k": "text"
+},
+{
+"t": "After fermentation",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} After fermentation",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Skins stay in the vat to extract colour and tannin. In reds MLF is standard practice.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What is the purpose of cold maceration before fermentation?",
+"k": "text"
+},
+{
+"t": "To raise final alcohol by concentrating sugar",
+"k": "text"
+},
+{
+"t": "To extract seed tannins before fermentation",
+"k": "text"
+},
+{
+"t": "To start MLF before alcoholic fermentation",
+"k": "text"
+},
+{
+"t": "To extract colour and aroma compounds from the skins",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} To extract colour and aroma compounds from the skins",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Tannins are more soluble in alcohol, so little is extracted before fermentation.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is the usual fermentation temperature range for reds?",
+"k": "text"
+},
+{
+"t": "12-22 °C",
+"k": "text"
+},
+{
+"t": "5-10 °C",
+"k": "text"
+},
+{
+"t": "20-32 °C",
+"k": "text"
+},
+{
+"t": "35-40 °C",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 20-32 °C",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Warmer than whites to aid extraction; above 35 °C yeast may die. Cooling near the end reduces tannin extraction.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is the cap?",
+"k": "text"
+},
+{
+"t": "The cork stopper that closes a bottle of red wine",
+"k": "text"
+},
+{
+"t": "The mass of skins and pulp that rises to the top during fermentation",
+"k": "text"
+},
+{
+"t": "The deposit of dead yeast that forms at the bottom of the tank",
+"k": "text"
+},
+{
+"t": "The foam that forms on white juice during pressing",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The mass of skins and pulp that rises to the top during fermentation",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} A floating cap gives little extraction, hence cap management techniques.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is the risk of over-vigorous punching down late in fermentation?",
+"k": "text"
+},
+{
+"t": "A stuck fermentation from excess heat",
+"k": "text"
+},
+{
+"t": "Too much volatile acidity from the oxygen introduced",
+"k": "text"
+},
+{
+"t": "Too little colour, as pigments oxidise in the air",
+"k": "text"
+},
+{
+"t": "Too much tannin: a bitter, astringent wine",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Too much tannin: a bitter, astringent wine",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Tannins extract more easily late on; punching down is very effective for colour and tannin.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} In red winemaking, malolactic fermentation is:",
+"k": "text"
+},
+{
+"t": "Standard practice (virtually all reds undergo it)",
+"k": "text"
+},
+{
+"t": "Banned in the EU for appellation reds",
+"k": "text"
+},
+{
+"t": "Used only for light reds for early drinking",
+"k": "text"
+},
+{
+"t": "A rare choice, kept for reds meant for ageing",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Standard practice (virtually all reds undergo it)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Reds: MLF standard; whites: a stylistic choice.",
+"k": "text"
+},
+{
+"t": "Study notes: red and rosé winemaking for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 red winemaking questions are about one central idea: colour, tannin and flavour are in the skins, so every decision is about how much, how fast and at what temperature they are extracted. Rosé winemaking is the same idea in reverse: the winemaker limits skin contact to obtain only a little colour. These notes follow the process step by step, then cover carbonic maceration, whole bunch fermentation and the three ways to make rosé, so you can explain each choice and its effect on the final style.",
+"k": "text"
+},
+{
+"t": "Before fermentation: sorting, destemming and maceration",
+"k": "text"
+},
+{
+"t": "Destemming and crushing",
+"k": "text"
+},
+{
+"t": "Most black grapes are destemmed, because stems can add green, bitter flavours and harsh tannin if they are not fully ripe. After destemming, berries are usually lightly crushed to release juice so fermentation can start quickly. Some winemakers keep berries whole, or keep a proportion of whole bunches, to create a fresher, more fragrant style. Careful sorting, by hand or on optical sorting tables, removes rotten or unripe fruit and leaves, which matters most for premium wines.",
+"k": "text"
+},
+{
+"t": "Cold maceration (cold soak)",
+"k": "text"
+},
+{
+"t": "Cold maceration means keeping the crushed grapes at a low temperature for a few days before fermentation starts. Its purpose is to extract colour and aroma compounds from the skins in a water-based environment. Because tannins are more soluble in alcohol, little tannin is extracted at this stage. It is widely used for thin-skinned varieties such as Pinot Noir, where deep colour and fragrant fruit are desirable without excessive tannin.",
+"k": "text"
+},
+{
+"t": "Must adjustments",
+"k": "text"
+},
+{
+"t": "Where the law allows, the winemaker can correct the must before or during fermentation. In cool climates or poor vintages, enrichment (adding sugar, or concentrated grape must) increases the final alcohol and body. In warm climates acidification, usually with tartaric acid, raises acidity that has fallen during ripening. Sulfur dioxide is added at crushing to protect the must from oxidation and unwanted microbes.",
+"k": "text"
+},
+{
+"t": "Alcoholic fermentation and cap management",
+"k": "text"
+},
+{
+"t": "Red wines ferment warmer than whites, usually between 20 and 32 °C, because warmth helps extract colour and tannin from the skins. Above about 35 °C yeast may be stressed or killed, stopping fermentation, so temperature control is essential. Towards the end of fermentation, cooling reduces further tannin extraction. As carbon dioxide is released, skins rise and form a cap on top of the juice. A floating cap gives little extraction and can dry out, encouraging bacteria, so it must be managed.",
+"k": "text"
+},
+{
+"t": "Technique",
+"k": "text"
+},
+{
+"t": "How it works",
+"k": "text"
+},
+{
+"t": "Effect on the wine",
+"k": "text"
+},
+{
+"t": "Punching down",
+"k": "text"
+},
+{
+"t": "The cap is pushed down into the juice by hand, with a plunger or mechanically",
+"k": "text"
+},
+{
+"t": "Very effective extraction of colour and tannin; risk of over-extraction late in fermentation",
+"k": "text"
+},
+{
+"t": "Pumping over",
+"k": "text"
+},
+{
+"t": "Juice is drawn from the bottom of the vat and sprayed over the cap",
+"k": "text"
+},
+{
+"t": "Gentler, even extraction; also aerates and cools; can be automated in large wineries",
+"k": "text"
+},
+{
+"t": "Rack and return",
+"k": "text"
+},
+{
+"t": "All the juice is drained to another vessel, then poured back over the cap",
+"k": "text"
+},
+{
+"t": "Thorough, fairly gentle extraction; aerates the must; seeds can be removed",
+"k": "text"
+},
+{
+"t": "Rotary fermenters",
+"k": "text"
+},
+{
+"t": "Horizontal tanks rotate to mix skins and juice",
+"k": "text"
+},
+{
+"t": "Fast colour extraction with little tannin; suits fruity, early-drinking reds",
+"k": "text"
+},
+{
+"t": "Exam technique: when asked how a winemaker makes a light, fruity red, link the answer to less extraction (short maceration, gentle cap management, cooler temperature, no new oak). For a full-bodied, age-worthy red, say the opposite and add post-fermentation maceration and oak maturation.",
+"k": "text"
+},
+{
+"t": "After fermentation: maceration, pressing, MLF and maturation",
+"k": "text"
+},
+{
+"t": "Post-fermentation maceration",
+"k": "text"
+},
+{
+"t": "Some premium reds stay on their skins for days or weeks after fermentation. This extended maceration can extract more tannin and, over time, help tannins to feel smoother and more integrated in the mouth. It is a choice for wines intended for ageing, and it ties up vats, so it adds cost.",
+"k": "text"
+},
+{
+"t": "Free-run and press wine",
+"k": "text"
+},
+{
+"t": "When the vat is drained, the liquid that runs out on its own is the free-run wine. The remaining skins are then pressed, giving press wine, which is darker and more tannic. Press wine is often kept separately and can be blended back in a measured amount to add colour and structure, or sold in a cheaper wine. Pressing in red winemaking happens after fermentation, unlike white winemaking where it happens before.",
+"k": "text"
+},
+{
+"t": "Malolactic fermentation and maturation",
+"k": "text"
+},
+{
+"t": "Malolactic fermentation (MLF) is standard practice for virtually all red wines: bacteria convert sharp malic acid into softer lactic acid, which softens acidity and makes the wine more stable. Afterwards, the wine is matured. Inert vessels such as stainless steel or concrete preserve primary fruit. Oak allows slow oxygen ingress that softens tannins and stabilises colour; new oak also gives vanilla, toast or spice flavours, while large, old casks give oxygen without obvious oak flavour. Smaller barrels and higher proportions of new oak have a stronger effect. Finally, the wine is blended, clarified and bottled.",
+"k": "text"
+},
+{
+"t": "Carbonic maceration and whole bunch fermentation",
+"k": "text"
+},
+{
+"t": "Carbonic maceration is a technique for fruity, low-tannin reds such as Beaujolais Nouveau. Whole, uncrushed bunches are placed in a vat filled with carbon dioxide. Without oxygen, fermentation starts inside each intact berry (intracellular fermentation), producing a little alcohol and distinctive aromas. When the berries split, they are pressed and the juice finishes fermenting like a normal wine. The result is a wine with deep colour, low tannin and aromas of kirsch, banana and bubblegum.",
+"k": "text"
+},
+{
+"t": "Semi-carbonic maceration is the more common variation: whole bunches are put in the vat, the weight of the bunches on top crushes the ones at the bottom, and the released juice ferments with yeast, filling the vat with carbon dioxide while the intact berries above undergo intracellular fermentation. Whole bunch fermentation, used for some Pinot Noir and Syrah, keeps the stems: when they are ripe they add tannin, structure and fresh, herbal or spicy notes, and the whole berries release their sugar slowly, giving a fresher, more fragrant style.",
+"k": "text"
+},
+{
+"t": "WSET 3 rosé winemaking: three methods",
+"k": "text"
+},
+{
+"t": "Rosé wine is made by limiting contact between juice and black grape skins, then fermenting the juice like a white wine, at cool temperatures in stainless steel to preserve fresh red fruit aromas. MLF is usually avoided to keep acidity, and most rosés are bottled young.",
+"k": "text"
+},
+{
+"t": "Direct pressing: black grapes are pressed immediately, as for a white wine. The juice picks up only a little colour during pressing, giving the palest rosés, the style associated with Provence.",
+"k": "text"
+},
+{
+"t": "Short maceration: crushed black grapes are left in contact with the juice for a few hours up to a few days, then the juice is drained and fermented without the skins. Longer contact gives deeper colour, more flavour and a little tannin. Juice drawn off a red wine vat in this way (saignée) also concentrates the remaining red wine.",
+"k": "text"
+},
+{
+"t": "Blending: a small amount of red wine is blended with white wine. In the EU this is not permitted for still rosé, but it is widely used for rosé sparkling wines, including rosé Champagne.",
+"k": "text"
+},
+{
+"t": "Common mistake: writing that rosé is made by blending red and white wine as a general method. For still rosé in the EU the answer is direct pressing or short maceration; blending is the exception kept for sparkling rosé and for some wines outside the EU.",
+"k": "text"
+},
+{
+"t": "How to revise red and rosé winemaking in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: write the red winemaking sequence from memory, from destemming to bottling, and mark where pressing happens.",
+"k": "text"
+},
+{
+"t": "Day 2: for each cap management technique, write one line on how it works and one on its effect.",
+"k": "text"
+},
+{
+"t": "Day 3: explain cold maceration, post-fermentation maceration and press wine in one sentence each.",
+"k": "text"
+},
+{
+"t": "Day 4: compare carbonic maceration, semi-carbonic and whole bunch fermentation in a three-column table.",
+"k": "text"
+},
+{
+"t": "Day 5: describe the three rosé methods and the style each gives, then answer 20 multiple-choice questions in the app and review every mistake.",
+"k": "text"
+},
+{
+"t": "Red and rosé winemaking in the two WSET Level 3 units",
+"k": "text"
+},
+{
+"t": "WSET Level 3 is assessed in two separate units, and red winemaking matters in both. The theory unit (50 multiple-choice questions and 4 short written answers) asks you to explain how winemaking choices create a style. The tasting unit (two wines assessed blind) rewards you for describing what those choices leave in the glass: depth of colour, level and texture of tannin, oak aromas, fruit character. Each unit needs at least 55%, each is marked on its own, and a failed unit is retaken alone, so neither can carry the other.",
+"k": "text"
+},
+{
+"t": "Linking the two units is an efficient way to study. When you taste a red in practice, ask which winemaking decisions explain what you see: a pale, fragrant wine with soft tannin suggests gentle extraction; a deep, tannic wine with vanilla and toast suggests long maceration and new oak. You will not be asked to name the method in the tasting unit, but this habit makes your structural judgements more consistent.",
+"k": "text"
+},
+{
+"t": "Style recipes: from target style to winemaking choices",
+"k": "text"
+},
+{
+"t": "Written answers often start from a style and ask how the winemaker achieves it. This table summarises the main choices for each target.",
+"k": "text"
+},
+{
+"t": "Target style",
+"k": "text"
+},
+{
+"t": "Extraction",
+"k": "text"
+},
+{
+"t": "Temperature and vessel",
+"k": "text"
+},
+{
+"t": "Maturation",
+"k": "text"
+},
+{
+"t": "Light, fruity red for early drinking",
+"k": "text"
+},
+{
+"t": "Short maceration, gentle cap management or rotary fermenter",
+"k": "text"
+},
+{
+"t": "Cooler end of the red range, stainless steel",
+"k": "text"
+},
+{
+"t": "Short, in inert vessels; early bottling",
+"k": "text"
+},
+{
+"t": "Carbonic style (Beaujolais Nouveau type)",
+"k": "text"
+},
+{
+"t": "Whole bunches, carbonic or semi-carbonic maceration",
+"k": "text"
+},
+{
+"t": "Vat filled with carbon dioxide",
+"k": "text"
+},
+{
+"t": "Very short; bottled within weeks",
+"k": "text"
+},
+{
+"t": "Premium, age-worthy red",
+"k": "text"
+},
+{
+"t": "Long maceration, punching down or pumping over, possible post-fermentation maceration",
+"k": "text"
+},
+{
+"t": "Warm fermentation, cooled towards the end",
+"k": "text"
+},
+{
+"t": "Months in oak, often a share of new oak; press wine blended for structure",
+"k": "text"
+},
+{
+"t": "Pale rosé",
+"k": "text"
+},
+{
+"t": "Direct pressing",
+"k": "text"
+},
+{
+"t": "Cool fermentation, stainless steel",
+"k": "text"
+},
+{
+"t": "No oak, MLF usually avoided, early bottling",
+"k": "text"
+},
+{
+"t": "Deeper rosé",
+"k": "text"
+},
+{
+"t": "Short maceration of hours to a few days, or saignée",
+"k": "text"
+},
+{
+"t": "Usually no oak, bottled young",
+"k": "text"
+},
+{
+"t": "Worked short written answer: a premium Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Exam-style question of our own: describe the winemaking choices a producer might make to create a full-bodied, age-worthy Cabernet Sauvignon. Points to include:",
+"k": "text"
+},
+{
+"t": "Careful sorting removes unripe or damaged berries, so the wine has no green or rotten character.",
+"k": "text"
+},
+{
+"t": "Destemming avoids harsh, green stem tannins.",
+"k": "text"
+},
+{
+"t": "Fermentation at a warm temperature extracts colour and tannin efficiently from the thick skins.",
+"k": "text"
+},
+{
+"t": "Regular punching down or pumping over during fermentation increases extraction.",
+"k": "text"
+},
+{
+"t": "Post-fermentation maceration extracts more tannin and helps it feel smoother and more integrated.",
+"k": "text"
+},
+{
+"t": "A measured amount of press wine can be blended back to add colour and structure.",
+"k": "text"
+},
+{
+"t": "Malolactic fermentation softens acidity and stabilises the wine.",
+"k": "text"
+},
+{
+"t": "Maturation in oak, with a share of new barrels, softens tannins through slow oxygen exposure and adds vanilla, toast and cedar.",
+"k": "text"
+},
+{
+"t": "Each line combines an action and its effect. Writing only \"oak ageing\" earns less than \"maturation in new oak softens tannins and adds vanilla and toast\".",
+"k": "text"
+},
+{
+"t": "Practice questions with answers explained",
+"k": "text"
+},
+{
+"t": "Question 1: why might a winemaker cool the must towards the end of fermentation? Answer: tannins are more soluble in alcohol, so extraction speeds up as alcohol rises. Cooling at the end limits further extraction of harsh tannins and helps keep fresh fruit.",
+"k": "text"
+},
+{
+"t": "Question 2: why are rotary fermenters suited to fruity reds? Answer: the rotation mixes skins and juice quickly, giving fast colour extraction early in fermentation, when little alcohol is present, so little tannin is extracted. The result is a deeply coloured, soft, fruity wine.",
+"k": "text"
+},
+{
+"t": "Question 3: why is saignée described as a way to make two wines at once? Answer: drawing off pink juice early gives a rosé, and it also increases the ratio of skins to juice in the remaining vat, so the red wine becomes more concentrated in colour and tannin.",
+"k": "text"
+},
+{
+"t": "Common mistakes on red and rosé winemaking",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Correct version",
+"k": "text"
+},
+{
+"t": "Red grapes are pressed before fermentation",
+"k": "text"
+},
+{
+"t": "Reds are pressed after fermentation; whites are pressed before",
+"k": "text"
+},
+{
+"t": "Cold maceration extracts lots of tannin",
+"k": "text"
+},
+{
+"t": "It extracts mainly colour and aroma; tannin needs alcohol",
+"k": "text"
+},
+{
+"t": "Press wine is always discarded",
+"k": "text"
+},
+{
+"t": "It is often blended back in measured amounts or used in a cheaper wine",
+"k": "text"
+},
+{
+"t": "Rosé is usually aged in oak",
+"k": "text"
+},
+{
+"t": "Most rosé is fermented cool in stainless steel and bottled young",
+"k": "text"
+},
+{
+"t": "Carbonic maceration gives high tannin",
+"k": "text"
+},
+{
+"t": "It gives low tannin, vivid colour and fruity aromas such as banana and kirsch",
+"k": "text"
+},
+{
+"t": "Glossary of red and rosé winemaking",
+"k": "text"
+},
+{
+"t": "Cap: the layer of skins pushed to the top of the vat by carbon dioxide during fermentation.",
+"k": "text"
+},
+{
+"t": "Free-run wine: wine that drains from the vat without pressing; paler and softer than press wine.",
+"k": "text"
+},
+{
+"t": "Press wine: wine obtained by pressing the skins after draining; darker and more tannic.",
+"k": "text"
+},
+{
+"t": "Saignée: drawing off juice from a red vat early to make rosé and concentrate the red.",
+"k": "text"
+},
+{
+"t": "Intracellular fermentation: fermentation inside intact berries in a carbon dioxide atmosphere.",
+"k": "text"
+},
+{
+"t": "Extraction: the transfer of colour, tannin and flavour from the skins into the wine.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "102 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Red and rosé wines are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 102 multiple-choice questions on Red and rosé wines, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Red and rosé wines important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Red and rosé wines, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between free-run and press wine for WSET 3?",
+"k": "text"
+},
+{
+"t": "Free-run wine is the liquid that drains from the vat by gravity once fermentation is finished. Press wine comes from pressing the remaining skins and is deeper in colour and higher in tannin. Winemakers often keep them separate and decide later how much press wine to blend back for colour and structure, which is a common WSET 3 written-answer point.",
+"k": "text"
+},
+{
+"t": "Why do red wines ferment at higher temperatures than whites?",
+"k": "text"
+},
+{
+"t": "Higher temperatures, usually 20 to 32 °C, help extract colour, tannin and flavour from the skins, which is the whole point of red winemaking. Whites ferment cooler, around 12 to 22 °C, to preserve delicate aromas. Above roughly 35 °C yeast can die and fermentation may stop, so red winemakers must control temperature even though they want warmth.",
+"k": "text"
+},
+{
+"t": "What does carbonic maceration taste like in a WSET 3 tasting?",
+"k": "text"
+},
+{
+"t": "Wines made by carbonic maceration are typically purple-ruby, light to medium bodied, with low tannin and bright red fruit. The giveaway aromas are kirsch, banana and bubblegum, sometimes with a hint of cinnamon. Beaujolais Nouveau is the classic example. In a tasting note, mention the fruity, low-tannin profile and link it to the technique.",
+"k": "text"
+},
+{
+"t": "How is Provence-style pale rosé made?",
+"k": "text"
+},
+{
+"t": "Very pale rosé is usually made by direct pressing: black grapes go straight into the press and the juice picks up only a little colour from the skins during pressing. The juice is then fermented cool in stainless steel, normally without MLF, and bottled young, giving a pale salmon colour, high acidity and delicate red fruit aromas.",
+"k": "text"
+},
+{
+"t": "Does extended maceration make a red wine more or less tannic?",
+"k": "text"
+},
+{
+"t": "Post-fermentation maceration extracts more tannin, so it increases the tannin level, but over a longer period the tannins can feel softer and more integrated. It is used for premium reds meant for ageing. For WSET 3, say that it increases structure and ageing potential, rather than claiming it simply reduces tannin.",
+"k": "text"
+},
+{
+"t": "Do I need to recognise carbonic maceration in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "You are not asked to name techniques or wines in the tasting unit. You are marked on an accurate description and justified conclusions, in a unit that is passed separately from theory with its own 55% mark. Knowing that carbonic maceration gives low tannin and pronounced fruity aromas simply helps you describe such a wine consistently.",
+"k": "text"
+},
+{
+"t": "Why is red wine pressed after fermentation and white wine before?",
+"k": "text"
+},
+{
+"t": "Red wine needs the skins during fermentation because colour and tannin are extracted from them, and alcohol helps that extraction. White wine is usually made from juice alone to avoid tannin and colour, so the grapes are pressed first. Rosé follows the white wine logic after a short or very short contact with the skins.",
+"k": "text"
+},
+{
+"t": "What is the difference between punching down and pumping over?",
+"k": "text"
+},
+{
+"t": "Punching down pushes the cap into the juice, giving very effective extraction but with a risk of over-extraction late in fermentation. Pumping over draws juice from the bottom of the vat and sprays it over the cap, giving gentler, more even extraction while also aerating and cooling the must. Many wineries use both at different stages.",
+"k": "text"
+},
+{
+"t": "How does new oak change a red wine?",
+"k": "text"
+},
+{
+"t": "New oak barrels allow slow oxygen exposure that softens tannins and stabilises colour, and they add flavours such as vanilla, toast, smoke, clove and cedar. Older barrels give the oxygen effect with little flavour. The proportion of new oak and the time in barrel are key choices for premium reds intended for ageing.",
+"k": "text"
+},
+{
+"t": "Why is malolactic fermentation standard for red wines?",
+"k": "text"
+},
+{
+"t": "It converts sharp malic acid into softer lactic acid, which makes the acidity feel rounder and makes the wine more stable, since bacteria cannot cause the conversion later in bottle. In red wines the buttery aromas it can produce are usually masked by fruit and oak, so the softening effect is the main reason it is used.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Red and rosé wines – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Red and rosé wines practice questions with answers and explanations, plus 102 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In red winemaking, when does pressing normally happen?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Skins stay in the vat to extract colour and tannin. In reds MLF is standard practice.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the purpose of cold maceration before fermentation?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Tannins are more soluble in alcohol, so little is extracted before fermentation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the usual fermentation temperature range for reds?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Warmer than whites to aid extraction; above 35 °C yeast may die. Cooling near the end reduces tannin extraction.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the cap?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "A floating cap gives little extraction, hence cap management techniques.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the risk of over-vigorous punching down late in fermentation?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Tannins extract more easily late on; punching down is very effective for colour and tannin.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In red winemaking, malolactic fermentation is:",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Reds: MLF standard; whites: a stylistic choice.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

@@ -1,0 +1,989 @@
+{
+"group": "wset-3-questions__sherry",
+"source": "wset-3-questions/sherry/index.html",
+"url": "/wset-3-questions/sherry/",
+"region": "main",
+"sha": "2b915d16a1a1",
+"words": 3409,
+"segment_words": 3611,
+"segments": [
+{
+"t": "WSET 3 Sherry – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Sherry practice questions with answers and explanations, plus 54 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Sherry, WSET Level 3 Sherry, Sherry WSET questions, Sherry wine quiz, Sherry wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Sherry: practice questions with answers – WSET 3 Sherry, WSET Level 3 Sherry, Sherry WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Sherry",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Sherry: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Sherry, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 54 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Sherry: practice questions with answers | WSET 3 Sherry",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} In which towns must Sherry be matured?",
+"k": "text"
+},
+{
+"t": "Anywhere in Cádiz province, if the grapes come from albariza",
+"k": "text"
+},
+{
+"t": "Jerez, Sanlúcar or El Puerto",
+"k": "text"
+},
+{
+"t": "Seville, Cádiz and Málaga, the three historic export ports",
+"k": "text"
+},
+{
+"t": "Montilla and Córdoba, in the PX-producing area",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Jerez, Sanlúcar or El Puerto",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Current rule: Jerez, Sanlúcar or El Puerto. A reform awaiting EU approval would allow ageing anywhere in the DO, except Fino in Sanlúcar (that is Manzanilla).",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Where does most PX used for Sherry come from?",
+"k": "text"
+},
+{
+"t": "From the sandy vineyards of Chipiona, near Sanlúcar",
+"k": "text"
+},
+{
+"t": "From the Douro Valley, in northern Portugal",
+"k": "text"
+},
+{
+"t": "From Rioja Alta, where it is called Viura",
+"k": "text"
+},
+{
+"t": "The neighbouring Montilla-Moriles region",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The neighbouring Montilla-Moriles region",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Its thin skin suits sun-drying; used for sweet Sherry. Little is planted in Jerez.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} To what strength are wines for biological ageing fortified?",
+"k": "text"
+},
+{
+"t": "12%, unfortified",
+"k": "text"
+},
+{
+"t": "15–15.5%, ideal for flor",
+"k": "text"
+},
+{
+"t": "17%, to avoid acetic bacteria",
+"k": "text"
+},
+{
+"t": "20%, like Port, for stability",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 15–15.5%, ideal for flor",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} 95% neutral spirit is used. Oxidative wines go to 17%, where flor dies.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Why are Sherry butts only five-sixths full?",
+"k": "text"
+},
+{
+"t": "To lower alcohol by evaporation during ageing",
+"k": "text"
+},
+{
+"t": "To save wine and cut the cost of each full cask",
+"k": "text"
+},
+{
+"t": "To prevent leaks as the wine expands in summer heat",
+"k": "text"
+},
+{
+"t": "To encourage contact with oxygen and leave room for flor",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} To encourage contact with oxygen and leave room for flor",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} 600 L oak butts, often seasoned to remove oak flavour. Bodegas have thick walls, high ceilings and damp floors.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which of these grapes are generally used for Sherry? 1. Muscat 2. Palomino 3. Pedro Ximénez (PX)",
+"k": "text"
+},
+{
+"t": "1, 2 and 3",
+"k": "text"
+},
+{
+"t": "1 and 3 only",
+"k": "text"
+},
+{
+"t": "2 and 3 only",
+"k": "text"
+},
+{
+"t": "2 only",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 1, 2 and 3",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Sherry: Palomino (base), PX and Moscatel (sweet styles).",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which of these statements is true?",
+"k": "text"
+},
+{
+"t": "Flor cannot develop if a wine is fortified to 17% abv",
+"k": "text"
+},
+{
+"t": "Humidity and temperature have no effect on flor",
+"k": "text"
+},
+{
+"t": "Flor gives Sherry intense exotic fruit aromas",
+"k": "text"
+},
+{
+"t": "Oloroso Sherry undergoes biological ageing",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Flor cannot develop if a wine is fortified to 17% abv",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Flor: 15–15.5% abv yes, 17% no. Oloroso = oxidative.",
+"k": "text"
+},
+{
+"t": "Study notes: Sherry for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Sherry questions follow the life of the wine: a hot, sunny vineyard on chalky albariza soil, a neutral base wine from Palomino, a decision on fortification strength, ageing under flor or in contact with oxygen, and fractional blending in the solera system. Every style of Sherry, from a pale, tangy Manzanilla to a dark, sticky Pedro Ximénez, is the result of those choices. These notes explain each step, then give a style table and a method for answering short written questions.",
+"k": "text"
+},
+{
+"t": "Sherry vineyards: climate, soils and grapes",
+"k": "text"
+},
+{
+"t": "Climate and winds",
+"k": "text"
+},
+{
+"t": "The Jerez region in Andalucía has a hot climate with long, sunny summers and very little summer rain. Two winds matter. The poniente blows from the Atlantic and brings humidity, which is especially helpful near the coast. The levante blows from the east and is hot and dry, which can stress vines and speed up ripening. The influence of the ocean is strongest in coastal towns such as Sanlúcar de Barrameda, which explains why flor grows most strongly there.",
+"k": "text"
+},
+{
+"t": "Albariza and other soils",
+"k": "text"
+},
+{
+"t": "Albariza is a white, chalky soil that is the most prized soil for Sherry. It absorbs and stores the winter rain, releasing water to the vines during the dry summer, and it forms a hard crust on the surface that reduces evaporation. Its brilliant white colour also reflects sunlight. Other soils, barro (clay) and arena (sand), are more fertile and give higher yields of less refined wine.",
+"k": "text"
+},
+{
+"t": "Grapes",
+"k": "text"
+},
+{
+"t": "Palomino: the main variety, used for all dry Sherries. Its low acidity, neutral flavour and high yields make it ideal, because the character of Sherry comes from ageing rather than from the grape.",
+"k": "text"
+},
+{
+"t": "Pedro Ximénez (PX): thin-skinned, well suited to sun-drying; used for intensely sweet wines. Most PX used for Sherry comes from the neighbouring Montilla-Moriles region.",
+"k": "text"
+},
+{
+"t": "Moscatel: used for sweet, aromatic Sherries, also often sun-dried.",
+"k": "text"
+},
+{
+"t": "Sherry winemaking: base wine, classification and fortification",
+"k": "text"
+},
+{
+"t": "Palomino grapes are pressed gently and the juice is fermented, usually in stainless steel, to dryness. The result is a neutral, dry base wine with low acidity. The base wines are then tasted and classified. The lightest, most delicate wines, often from albariza and free-run juice, are destined for biological ageing as Fino or Manzanilla. Heavier, fuller-bodied wines, often from press fractions, are destined for oxidative ageing as Oloroso.",
+"k": "text"
+},
+{
+"t": "Fortification decides the path. Wines for biological ageing are fortified to 15 to 15.5% abv, a strength at which flor can grow. Wines for oxidative ageing are fortified to around 17% abv, a strength at which flor cannot survive, so the wine is exposed to oxygen. Fortification uses high-strength, neutral grape spirit.",
+"k": "text"
+},
+{
+"t": "Flor and biological ageing explained",
+"k": "text"
+},
+{
+"t": "Flor is a layer of yeast that forms on the surface of the wine in the butt, which is only about five-sixths full. It protects the wine from oxygen, so the wine stays pale. It also changes the wine: it consumes glycerol, which makes the wine feel lighter and drier, and it produces acetaldehyde, which gives the characteristic tangy, bruised-apple and nutty aromas, along with bready, yeasty notes. Flor needs a mild temperature and high humidity, which is why bodegas have thick walls, high ceilings and damp floors, and why it grows thickest in the cooler, more humid coastal towns.",
+"k": "text"
+},
+{
+"t": "Fino comes from Jerez or El Puerto de Santa María; Manzanilla is the same style aged in Sanlúcar de Barrameda, where the thicker flor gives an even lighter, more delicate wine, often described as having a salty tang. Both should be drunk fresh, served chilled, and consumed soon after opening because they lose their freshness quickly.",
+"k": "text"
+},
+{
+"t": "Exam technique: in any question on Fino or Manzanilla, mention the three effects of flor: protection from oxygen (pale colour), consumption of glycerol (lighter body), production of acetaldehyde (characteristic aromas). Candidates who list all three usually pick up the full marks for that point.",
+"k": "text"
+},
+{
+"t": "The solera system",
+"k": "text"
+},
+{
+"t": "The solera system is a method of fractional blending. Butts are arranged in groups called criaderas, with the oldest wine in the final group, the solera. When wine is drawn off for bottling (the saca), only part of each butt in the solera is removed. The solera is then topped up from the oldest criadera, that criadera from the next, and so on, with the youngest criadera refilled with new wine. This topping up is often called rocío.",
+"k": "text"
+},
+{
+"t": "Consistency: each bottling is a blend of many ages, so the house style varies little from year to year.",
+"k": "text"
+},
+{
+"t": "Age: the average age of the wine grows over time, because a small proportion of very old wine is always kept.",
+"k": "text"
+},
+{
+"t": "Flor nutrition: for biological wines, regular additions of younger wine bring nutrients that keep the flor alive.",
+"k": "text"
+},
+{
+"t": "No vintage: because wines of many years are blended, standard Sherry is not vintage-dated.",
+"k": "text"
+},
+{
+"t": "Sherry styles for WSET 3",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Ageing",
+"k": "text"
+},
+{
+"t": "Typical character",
+"k": "text"
+},
+{
+"t": "Fino / Manzanilla",
+"k": "text"
+},
+{
+"t": "Biological, under flor, 15 to 15.5% abv",
+"k": "text"
+},
+{
+"t": "Pale lemon, dry, light body, almond, bread, bruised apple; Manzanilla is extra delicate and salty",
+"k": "text"
+},
+{
+"t": "Amontillado",
+"k": "text"
+},
+{
+"t": "Biological, then oxidative after flor dies or the wine is refortified",
+"k": "text"
+},
+{
+"t": "Amber, dry, hazelnut, toffee, with some flor tang",
+"k": "text"
+},
+{
+"t": "Palo Cortado",
+"k": "text"
+},
+{
+"t": "Starts under flor, then flor fails and ageing continues oxidatively",
+"k": "text"
+},
+{
+"t": "Amber to brown, dry, the finesse of Amontillado with the richness of Oloroso",
+"k": "text"
+},
+{
+"t": "Oloroso",
+"k": "text"
+},
+{
+"t": "Oxidative only, fortified to around 17% abv",
+"k": "text"
+},
+{
+"t": "Brown, dry, full body, walnut, leather, dried fruit; alcohol rises with evaporation",
+"k": "text"
+},
+{
+"t": "Pedro Ximénez",
+"k": "text"
+},
+{
+"t": "From sun-dried PX, fortified and aged oxidatively",
+"k": "text"
+},
+{
+"t": "Very dark, intensely sweet, raisin, fig, coffee",
+"k": "text"
+},
+{
+"t": "Pale Cream",
+"k": "text"
+},
+{
+"t": "Fino or similar sweetened, usually with rectified concentrated grape must",
+"k": "text"
+},
+{
+"t": "Pale, sweet, light",
+"k": "text"
+},
+{
+"t": "Medium / Cream",
+"k": "text"
+},
+{
+"t": "Sweetened blends: Medium often Amontillado-based, Cream usually Oloroso sweetened with PX",
+"k": "text"
+},
+{
+"t": "Off-dry to sweet, nutty, dried fruit",
+"k": "text"
+},
+{
+"t": "Some Sherries carry age statements. VOS (Very Old Sherry) has an average age of at least 20 years and VORS (Very Old Rare Sherry) at least 30 years; there are also 12- and 15-year-old categories. En rama means the wine is bottled with minimal clarification and filtration, keeping more intensity.",
+"k": "text"
+},
+{
+"t": "Common mistake: describing Oloroso as sweet. Oloroso is naturally dry; sweet versions are labelled Cream or similar, made by blending in PX or concentrated must. The same applies to Amontillado: dry unless labelled Medium.",
+"k": "text"
+},
+{
+"t": "How to revise Sherry in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw the Sherry triangle (Jerez, Sanlúcar, El Puerto) and write the role of albariza, poniente and levante.",
+"k": "text"
+},
+{
+"t": "Day 2: write the fortification levels and explain why 15 to 15.5% allows flor and 17% does not.",
+"k": "text"
+},
+{
+"t": "Day 3: list the three effects of flor and the conditions it needs.",
+"k": "text"
+},
+{
+"t": "Day 4: draw a solera with three criaderas and label the saca and the topping up.",
+"k": "text"
+},
+{
+"t": "Day 5: rebuild the style table from memory, then do 20 Sherry questions in the app and revise every mistake.",
+"k": "text"
+},
+{
+"t": "Worked example: a short written answer comparing Fino and Oloroso",
+"k": "text"
+},
+{
+"t": "A favourite written question asks you to compare two Sherry styles made from the same grape. The marks go to the decisions that separate them, explained in the order they happen.",
+"k": "text"
+},
+{
+"t": "Question: Fino and Oloroso are both dry Sherries made from Palomino. Explain how differences in production give them different styles.",
+"k": "text"
+},
+{
+"t": "Model answer: After fermentation to dryness, the base wines are classified. The lightest, most delicate wines are selected for Fino, while fuller wines are selected for Oloroso. Fino is fortified to 15 to 15.5% abv, a level at which flor can grow; Oloroso is fortified to around 17% abv, which prevents flor. Fino then ages biologically under a layer of flor in butts that are not completely full. The flor protects it from oxygen, so it stays pale lemon; it consumes glycerol, so the body is light; and it produces acetaldehyde, which gives tangy, bready and almond aromas. Oloroso ages oxidatively: without flor, oxygen slowly turns it brown and develops walnut, toffee, leather and dried fruit aromas. Water evaporates through the wood over many years, so Oloroso becomes more concentrated and higher in alcohol, with a fuller body. Both are aged in a solera, which gives a consistent style. Fino is best drunk young and chilled, while Oloroso is more robust and keeps better once opened.",
+"k": "text"
+},
+{
+"t": "Why it works: the answer follows the production order (classification, fortification, ageing) and links each step to colour, body and aroma. It uses the correct strengths and explains why they matter, rather than simply quoting numbers.",
+"k": "text"
+},
+{
+"t": "Sherry, Port and Madeira: how fortification shapes the style",
+"k": "text"
+},
+{
+"t": "Multiple-choice questions often test the difference between fortified wines. The key is when the spirit is added and how the wine is then aged.",
+"k": "text"
+},
+{
+"t": "Wine",
+"k": "text"
+},
+{
+"t": "When spirit is added",
+"k": "text"
+},
+{
+"t": "Resulting sweetness",
+"k": "text"
+},
+{
+"t": "After fermentation has finished",
+"k": "text"
+},
+{
+"t": "Dry, unless sweetened later",
+"k": "text"
+},
+{
+"t": "Biological under flor or oxidative, in a solera",
+"k": "text"
+},
+{
+"t": "Port",
+"k": "text"
+},
+{
+"t": "During fermentation, to stop it",
+"k": "text"
+},
+{
+"t": "Sweet, with natural grape sugar",
+"k": "text"
+},
+{
+"t": "Reductive in bottle or large vats (Ruby styles) or oxidative in small casks (Tawny styles)",
+"k": "text"
+},
+{
+"t": "Madeira",
+"k": "text"
+},
+{
+"t": "During or after fermentation, depending on sweetness",
+"k": "text"
+},
+{
+"t": "From dry to sweet",
+"k": "text"
+},
+{
+"t": "Heated, either in tanks (estufagem) or slowly in warm lofts (canteiro)",
+"k": "text"
+},
+{
+"t": "Sherry in the tasting unit",
+"k": "text"
+},
+{
+"t": "WSET Level 3 is assessed in two separate units: theory (multiple-choice questions and short written answers) and tasting (two wines assessed blind using the SAT). You need at least 55% in each, and if you fail one unit you retake only that one. If a fortified wine appears in the tasting, describe it with the same discipline as a table wine. A Fino would be pale lemon, with pronounced almond, bread dough and bruised apple notes, dry, low acidity, high alcohol and light body. An Oloroso would be brown, with walnut, caramel, leather and dried fruit, dry, high alcohol and full body.",
+"k": "text"
+},
+{
+"t": "Exam technique: when you describe a biologically aged Sherry, name the flor aromas (bread, dough, almond) under secondary characteristics and the nutty, oxidative notes under tertiary ones. Placing them in the right category shows you understand where they come from.",
+"k": "text"
+},
+{
+"t": "Serving and food: quick reference",
+"k": "text"
+},
+{
+"t": "Serving",
+"k": "text"
+},
+{
+"t": "Good food matches",
+"k": "text"
+},
+{
+"t": "Fino and Manzanilla",
+"k": "text"
+},
+{
+"t": "Well chilled, opened bottles used within a few days",
+"k": "text"
+},
+{
+"t": "Olives, almonds, ham, fried fish, seafood",
+"k": "text"
+},
+{
+"t": "Lightly chilled",
+"k": "text"
+},
+{
+"t": "Clear soups, mushrooms, white meat",
+"k": "text"
+},
+{
+"t": "Cool room temperature",
+"k": "text"
+},
+{
+"t": "Game, stews, hard cheese",
+"k": "text"
+},
+{
+"t": "Poured over ice cream, chocolate desserts, blue cheese",
+"k": "text"
+},
+{
+"t": "Sample questions answered in text",
+"k": "text"
+},
+{
+"t": "Question: Why are Sherry butts not filled to the top? Answer: The space above the wine gives flor the air it needs to grow on the surface in biological ageing, and allows controlled oxidation in oxidative ageing.",
+"k": "text"
+},
+{
+"t": "Question: Why are Pedro Ximénez grapes dried in the sun before pressing? Answer: Drying removes water and concentrates sugar, so the must is extremely sweet. Fermentation stops early, and the wine is fortified, keeping a very high level of residual sugar.",
+"k": "text"
+},
+{
+"t": "Question: A Sherry is amber, dry and shows hazelnut aromas with a light tang. Which style is it most likely to be, and how was it made? Answer: Amontillado. It began ageing under flor, then the flor died or was killed by refortification, and the wine continued to age oxidatively.",
+"k": "text"
+},
+{
+"t": "Question: Why does Manzanilla have to be aged in Sanlúcar de Barrameda? Answer: The style depends on the cooler, more humid coastal conditions there, which give a thicker flor and an especially light, delicate wine; the name is protected for wines aged in that town.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Sherry",
+"k": "text"
+},
+{
+"t": "Writing that Sherry is fortified during fermentation: that is Port. Sherry base wines are fermented to dryness first.",
+"k": "text"
+},
+{
+"t": "Describing Fino as oxidative: it is protected from oxygen by flor and stays pale.",
+"k": "text"
+},
+{
+"t": "Forgetting that Oloroso gains alcohol over time because water evaporates through the cask.",
+"k": "text"
+},
+{
+"t": "Using Pedro Ximénez for dry Sherries: dry styles are made from Palomino.",
+"k": "text"
+},
+{
+"t": "Thinking a solera Sherry has a vintage: fractional blending mixes many years.",
+"k": "text"
+},
+{
+"t": "Treating Fino like a wine for long cellaring: it loses freshness quickly and should be drunk young.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "54 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Sherry are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 54 multiple-choice questions on Sherry, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Sherry important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Sherry, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between Fino and Manzanilla for WSET 3?",
+"k": "text"
+},
+{
+"t": "Both are dry, biologically aged Sherries made from Palomino under flor. The difference is the town: Manzanilla can only be aged in Sanlúcar de Barrameda, where the cooler, more humid coastal conditions give a thicker flor. As a result Manzanilla is usually even lighter and more delicate than Fino, with a characteristic salty tang.",
+"k": "text"
+},
+{
+"t": "How is Amontillado made?",
+"k": "text"
+},
+{
+"t": "Amontillado starts life as a Fino or Manzanilla, ageing under flor. When the flor dies naturally or the wine is refortified to around 17% abv, the wine continues ageing in contact with oxygen. It therefore combines the tangy, yeasty notes of biological ageing with the amber colour and hazelnut aromas of oxidative ageing, and it is naturally dry.",
+"k": "text"
+},
+{
+"t": "Why is albariza important for Sherry?",
+"k": "text"
+},
+{
+"t": "Albariza is a white, chalky soil that soaks up winter rain and releases it slowly during the hot, dry summer, while its surface crust limits evaporation. Its white colour reflects sunlight. Vines on albariza give the finest, most delicate base wines, which are usually chosen for biological ageing, so it is the most prized soil in the region.",
+"k": "text"
+},
+{
+"t": "What do VOS and VORS mean on a Sherry label?",
+"k": "text"
+},
+{
+"t": "They are certified age categories. VOS means Very Old Sherry, with an average age of at least 20 years; VORS means Very Old Rare Sherry, with an average age of at least 30 years. The wines are assessed by the regulatory body before they can use the term. They apply to oxidative and partly oxidative styles such as Amontillado, Oloroso and Palo Cortado.",
+"k": "text"
+},
+{
+"t": "Why does Oloroso get stronger as it ages?",
+"k": "text"
+},
+{
+"t": "Oloroso is aged oxidatively in butts without a protective flor layer. Over many years in the warm bodega, water evaporates through the wood more than alcohol does, so the wine becomes more concentrated and its alcohol level rises above the original fortification strength. This concentration also intensifies its walnut, dried fruit and leather aromas.",
+"k": "text"
+},
+{
+"t": "What is Palo Cortado Sherry?",
+"k": "text"
+},
+{
+"t": "Palo Cortado begins life like a Fino or Amontillado, ageing under flor, but the flor fails early and the wine continues to age oxidatively, like an Oloroso. The result is a dry, amber to brown Sherry that combines the finesse and aromatic lift of Amontillado with the richness and body of Oloroso. It is a rare style, and in exam answers it is enough to explain this shift from biological to oxidative ageing.",
+"k": "text"
+},
+{
+"t": "What does en rama mean on a Sherry label?",
+"k": "text"
+},
+{
+"t": "En rama means the Sherry is bottled with minimal clarification, fining and filtration, close to how it tastes straight from the butt. It is most often seen on Fino and Manzanilla and gives more intense flor aromas and a fuller texture. Because it is less stable, it is best drunk soon after bottling. For WSET 3 you only need to know the meaning and its effect on style.",
+"k": "text"
+},
+{
+"t": "Why is Sherry fortified after fermentation and Port during it?",
+"k": "text"
+},
+{
+"t": "Sherry needs a dry, neutral base wine, so fermentation is allowed to finish before spirit is added; any sweetness is added later by blending. Port is meant to be sweet and fruity, so spirit is added part-way through fermentation, which kills the yeast and keeps natural grape sugar in the wine. Remembering this single difference helps you answer many fortified-wine questions.",
+"k": "text"
+},
+{
+"t": "Can a Sherry come up in the WSET Level 3 blind tasting?",
+"k": "text"
+},
+{
+"t": "Yes, fortified wines can appear in the tasting unit. Describe the wine fully with the SAT: appearance, nose with primary, secondary and tertiary aromas, sweetness, acidity, alcohol, body, finish and quality. The tasting is a separate unit requiring at least 55%, so it is worth practising one or two fortified styles alongside your table wines.",
+"k": "text"
+},
+{
+"t": "How long does an open bottle of Fino or Manzanilla stay fresh?",
+"k": "text"
+},
+{
+"t": "Not long. Once flor no longer protects them, Fino and Manzanilla oxidise and lose their freshness within a few days, so they should be kept cold and finished quickly. Oxidative styles such as Amontillado, Oloroso and Pedro Ximénez are much more robust and keep for weeks after opening, because they have already been aged in contact with oxygen.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In which towns must Sherry be matured?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Current rule: Jerez, Sanlúcar or El Puerto. A reform awaiting EU approval would allow ageing anywhere in the DO, except Fino in Sanlúcar (that is Manzanilla).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where does most PX used for Sherry come from?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Its thin skin suits sun-drying; used for sweet Sherry. Little is planted in Jerez.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "To what strength are wines for biological ageing fortified?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "95% neutral spirit is used. Oxidative wines go to 17%, where flor dies.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why are Sherry butts only five-sixths full?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "600 L oak butts, often seasoned to remove oak flavour. Bodegas have thick walls, high ceilings and damp floors.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which of these grapes are generally used for Sherry? 1. Muscat 2. Palomino 3. Pedro Ximénez (PX)",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sherry: Palomino (base), PX and Moscatel (sweet styles).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which of these statements is true?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Flor: 15–15.5% abv yes, 17% no. Oloroso = oxidative.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

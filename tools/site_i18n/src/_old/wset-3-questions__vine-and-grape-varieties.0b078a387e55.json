@@ -1,0 +1,1071 @@
+{
+"group": "wset-3-questions__vine-and-grape-varieties",
+"source": "wset-3-questions/vine-and-grape-varieties/index.html",
+"url": "/wset-3-questions/vine-and-grape-varieties/",
+"region": "main",
+"sha": "0b078a387e55",
+"words": 3535,
+"segment_words": 3830,
+"segments": [
+{
+"t": "WSET 3 The vine and grape varieties – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 The vine and grape varieties practice questions with answers and explanations, plus 54 more in the app: MCQs, short written answers…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 The vine and grape varieties, WSET Level 3 The vine and grape varieties, The vine and grape varieties WSET questions, The vine and grape varieties wine quiz, The vine and grape varieties wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 The vine and grape varieties: practice questions with answers – WSET 3 The vine and grape varieties, WSET Level 3 The vine and grape varieties…",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "The vine and grape varieties",
+"k": "text"
+},
+{
+"t": "WSET Level 3 The vine and grape varieties: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on The vine and grape varieties, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 54 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 The vine and grape varieties: practice questions with answers | WSET 3 The vine and grape varieties",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 The vine and grape varieties practice questions with answers and explanations, plus 54 more in the app: MCQs, short written answers….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which vine species produces nearly all wine grapes?",
+"k": "text"
+},
+{
+"t": "Vitis riparia",
+"k": "text"
+},
+{
+"t": "Vitis vinifera",
+"k": "text"
+},
+{
+"t": "Vitis labrusca",
+"k": "text"
+},
+{
+"t": "Vitis berlandieri",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Vitis vinifera",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} V. vinifera is the main Eurasian species, used to make wine for several thousand years.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Why are American vines important even though their wines are not liked?",
+"k": "text"
+},
+{
+"t": "They resist phylloxera and are used as rootstocks",
+"k": "text"
+},
+{
+"t": "They ripen earlier and allow early harvests in cool climates",
+"k": "text"
+},
+{
+"t": "They need no water at all and survive any drought",
+"k": "text"
+},
+{
+"t": "They give more sugar and are used to raise European wines' alcohol",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} They resist phylloxera and are used as rootstocks",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} There are three important American species; vinifera is grafted onto their roots.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Why is a grape variety not propagated from seed?",
+"k": "text"
+},
+{
+"t": "Because EU law forbids it for every vinifera vine",
+"k": "text"
+},
+{
+"t": "Grape seeds never germinate because their coat is too thick",
+"k": "text"
+},
+{
+"t": "A seedling is a new variety, different from its parents",
+"k": "text"
+},
+{
+"t": "Because the plant would grow too fast and bear no fruit",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A seedling is a new variety, different from its parents",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} To keep a variety's qualities, cuttings or layering are used: the new plant is identical.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Why do most growers now use cuttings rather than layering?",
+"k": "text"
+},
+{
+"t": "Because layering is banned",
+"k": "text"
+},
+{
+"t": "Because of the risk of phylloxera",
+"k": "text"
+},
+{
+"t": "Because cuttings yield more",
+"k": "text"
+},
+{
+"t": "Because cuttings change the variety",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Because of the risk of phylloxera",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Layering puts vinifera roots straight into the soil, exposed to phylloxera.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is a clone?",
+"k": "text"
+},
+{
+"t": "A seed-grown hybrid of a European and an American parent",
+"k": "text"
+},
+{
+"t": "A new variety grown from seed of two vinifera parents",
+"k": "text"
+},
+{
+"t": "One or more vines of a variety with unique traits from a mutation",
+"k": "text"
+},
+{
+"t": "An American rootstock selected to resist phylloxera attack",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} One or more vines of a variety with unique traits from a mutation",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Clonal selection propagates vines with positive mutations; clones remain the same variety.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} How is a genuinely new grape variety created?",
+"k": "text"
+},
+{
+"t": "By head grafting new buds onto mature vines",
+"k": "text"
+},
+{
+"t": "With cuttings from a vine showing a useful mutation",
+"k": "text"
+},
+{
+"t": "By cross-fertilisation and planting the resulting seed",
+"k": "text"
+},
+{
+"t": "By layering a cane buried next to the plant",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} By cross-fertilisation and planting the resulting seed",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Even with parents of the same variety, the seedling is a new, unpredictable variety.",
+"k": "text"
+},
+{
+"t": "Study notes: the vine and grape varieties for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 questions on the vine and grape varieties test the biology behind every wine: which species make wine, how varieties, clones, crossings and hybrids differ, why vines are grafted onto rootstocks, how the vine is built and what each part of the grape gives to the finished wine. This topic underpins climate, vineyard management and winemaking, so understanding it makes the regional chapters far easier.",
+"k": "text"
+},
+{
+"t": "Species, varieties and clones: the key definitions",
+"k": "text"
+},
+{
+"t": "Almost all wine is made from Vitis vinifera, a European and Asian species. Within that species there are thousands of varieties, such as Chardonnay or Syrah. A clone is a vine, or group of vines, of one variety that shows particular traits, such as smaller berries, higher yield or better disease resistance, as a result of a natural mutation. Clones are still the same variety: a Pinot Noir clone is Pinot Noir. Some mutations go further and change berry colour: Pinot Gris and Pinot Blanc are colour mutations of Pinot Noir.",
+"k": "text"
+},
+{
+"t": "Term",
+"k": "text"
+},
+{
+"t": "How it is created",
+"k": "text"
+},
+{
+"t": "Example",
+"k": "text"
+},
+{
+"t": "Variety",
+"k": "text"
+},
+{
+"t": "A distinct, stable type within a species, propagated vegetatively",
+"k": "text"
+},
+{
+"t": "Chardonnay, Syrah, Riesling",
+"k": "text"
+},
+{
+"t": "Clone",
+"k": "text"
+},
+{
+"t": "Selected cuttings from a vine with a useful natural mutation",
+"k": "text"
+},
+{
+"t": "Pinot Noir clones chosen for small berries",
+"k": "text"
+},
+{
+"t": "Crossing",
+"k": "text"
+},
+{
+"t": "Seedling from two parents of the same species (both vinifera)",
+"k": "text"
+},
+{
+"t": "Müller-Thurgau, Pinotage; Cabernet Sauvignon is a natural crossing of Cabernet Franc and Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Hybrid",
+"k": "text"
+},
+{
+"t": "Seedling from parents of different species, e.g. vinifera and an American species",
+"k": "text"
+},
+{
+"t": "Vidal, Seyval Blanc",
+"k": "text"
+},
+{
+"t": "Rootstock",
+"k": "text"
+},
+{
+"t": "Often an American species or a cross between American species, used for its roots",
+"k": "text"
+},
+{
+"t": "Rootstocks bred from Vitis riparia, rupestris and berlandieri",
+"k": "text"
+},
+{
+"t": "Common mistake: confusing a crossing with a hybrid. A crossing has two Vitis vinifera parents; a hybrid has parents from two different species. Hybrids are valued for cold hardiness and disease resistance and matter in places such as Canada and New York, where Vidal is used for icewine.",
+"k": "text"
+},
+{
+"t": "Propagation, grafting and rootstocks",
+"k": "text"
+},
+{
+"t": "Why vines are not grown from seed",
+"k": "text"
+},
+{
+"t": "A grape seed is the product of sexual reproduction, so the seedling is genetically new and different from its parent, even if both parents are the same variety. To reproduce a variety exactly, growers use vegetative propagation. Cuttings are pieces of one-year-old cane planted to root, or more often grafted; layering bends a cane from an existing vine into the soil so it roots next to the parent. Layering puts vinifera roots straight into the ground, exposing them to phylloxera, so cuttings grafted onto rootstocks are now the norm.",
+"k": "text"
+},
+{
+"t": "Phylloxera and the role of American rootstocks",
+"k": "text"
+},
+{
+"t": "Phylloxera is a tiny aphid-like insect native to North America that feeds on vine roots. Vitis vinifera has no resistance: the wounds become infected and the vine slowly dies. When phylloxera reached Europe in the second half of the nineteenth century, it destroyed most vineyards. The solution was to graft vinifera onto rootstocks from American species, which evolved alongside the pest and resist it. American species themselves make wines with unappealing flavours, so they are used only below ground. A few areas remain largely free of phylloxera, notably Chile and parts of Australia, and sandy soils are hostile to the insect, so some vines there grow on their own roots.",
+"k": "text"
+},
+{
+"t": "How growers choose a rootstock",
+"k": "text"
+},
+{
+"t": "Rootstocks are chosen for much more than phylloxera resistance. The right choice depends on the site and the style the grower wants.",
+"k": "text"
+},
+{
+"t": "Resistance to pests in the soil, such as phylloxera and nematodes.",
+"k": "text"
+},
+{
+"t": "Vigour: low-vigour rootstocks suit fertile soils and help control canopy growth; high-vigour rootstocks suit poor soils.",
+"k": "text"
+},
+{
+"t": "Drought tolerance for dry sites without irrigation.",
+"k": "text"
+},
+{
+"t": "Tolerance of lime-rich soils, such as chalk and limestone, which can cause nutrient problems.",
+"k": "text"
+},
+{
+"t": "Tolerance of salinity or wet, poorly drained soils.",
+"k": "text"
+},
+{
+"t": "Influence on how early or late the vine develops and ripens.",
+"k": "text"
+},
+{
+"t": "Grafting can be done in a nursery before planting (bench grafting) or in the vineyard. Top grafting, also called head grafting, places buds of a new variety onto an established vine's trunk, letting growers change variety quickly without replanting and losing years of production.",
+"k": "text"
+},
+{
+"t": "Structure of the vine and the grape berry",
+"k": "text"
+},
+{
+"t": "Parts of the vine and their functions",
+"k": "text"
+},
+{
+"t": "Roots: anchor the vine, absorb water and nutrients and store carbohydrates over winter.",
+"k": "text"
+},
+{
+"t": "Trunk and arms or cordons: the permanent wood that carries water and sugars and supports the canopy; it also stores carbohydrates.",
+"k": "text"
+},
+{
+"t": "Shoots: the green growth of the season, carrying leaves, buds, tendrils and flower clusters; when they turn woody in autumn they become canes.",
+"k": "text"
+},
+{
+"t": "Buds: contain next season's shoots; pruning decides how many are kept, which controls yield.",
+"k": "text"
+},
+{
+"t": "Leaves: carry out photosynthesis, producing the sugars that ripen the grapes.",
+"k": "text"
+},
+{
+"t": "Tendrils: help the vine climb by gripping supports.",
+"k": "text"
+},
+{
+"t": "What each part of the grape gives to the wine",
+"k": "text"
+},
+{
+"t": "The grape berry is the raw material of the wine, and each part contributes different components. Understanding this explains many winemaking choices: white wines are separated from their skins early, red wines are fermented with them to extract colour and tannin.",
+"k": "text"
+},
+{
+"t": "Part of the berry",
+"k": "text"
+},
+{
+"t": "Main components",
+"k": "text"
+},
+{
+"t": "Effect in the wine",
+"k": "text"
+},
+{
+"t": "Pulp",
+"k": "text"
+},
+{
+"t": "Water, sugars (glucose and fructose), acids (mainly tartaric and malic), some aroma precursors",
+"k": "text"
+},
+{
+"t": "Sugar becomes alcohol; acids give freshness",
+"k": "text"
+},
+{
+"t": "Skin",
+"k": "text"
+},
+{
+"t": "Colour pigments in black grapes, tannins, aroma and flavour compounds, yeasts on the surface",
+"k": "text"
+},
+{
+"t": "Colour, structure and much of the varietal aroma",
+"k": "text"
+},
+{
+"t": "Seeds",
+"k": "text"
+},
+{
+"t": "Harsh, bitter tannins and oils",
+"k": "text"
+},
+{
+"t": "Must not be crushed, or the wine becomes bitter and astringent",
+"k": "text"
+},
+{
+"t": "Stems",
+"k": "text"
+},
+{
+"t": "Tannins",
+"k": "text"
+},
+{
+"t": "Add structure and fresh, herbal notes when whole bunches are used; harsh if unripe",
+"k": "text"
+},
+{
+"t": "Grape ripening: from veraison to harvest",
+"k": "text"
+},
+{
+"t": "Grape ripening begins at veraison, when berries soften and black grapes change colour. From then on sugars accumulate, acidity falls, colour deepens, tannins ripen and aromas change from green and herbaceous to riper fruit. Malic acid is broken down faster in warm conditions, which is why grapes from hot climates have lower acidity, while tartaric acid stays more stable. A grower picks when the balance of sugar, acidity, tannin ripeness and flavour suits the style of wine being made.",
+"k": "text"
+},
+{
+"t": "Budburst: buds open in spring; young shoots are vulnerable to frost.",
+"k": "text"
+},
+{
+"t": "Flowering and fruit set: flowers are pollinated and become berries; cool, wet or windy weather can cause poor fruit set (coulure) or uneven berry size (millerandage).",
+"k": "text"
+},
+{
+"t": "Veraison: berries soften and change colour.",
+"k": "text"
+},
+{
+"t": "Ripening: sugar rises, acid falls, tannins and aromas mature.",
+"k": "text"
+},
+{
+"t": "Harvest: timing is chosen for the target style, from early picking for sparkling base wine to late picking for sweet wines.",
+"k": "text"
+},
+{
+"t": "Dormancy: after leaf fall the vine rests over winter and is pruned.",
+"k": "text"
+},
+{
+"t": "Exam technique: in written answers, link grape biology to wine style. 'Thick-skinned varieties such as Cabernet Sauvignon give deeply coloured, high-tannin wines because colour and tannin come from the skins' is the kind of cause-and-effect sentence that earns marks.",
+"k": "text"
+},
+{
+"t": "How to revise the vine and grape varieties in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: write the definitions of species, variety, clone, crossing and hybrid from memory, with one example each.",
+"k": "text"
+},
+{
+"t": "Day 2: explain phylloxera in five lines: what it is, where it came from, what it does, the solution, where it is absent.",
+"k": "text"
+},
+{
+"t": "Day 3: list six reasons for choosing a rootstock.",
+"k": "text"
+},
+{
+"t": "Day 4: draw a vine and label roots, trunk, cordon, shoot, bud, leaf and tendril with their functions.",
+"k": "text"
+},
+{
+"t": "Day 5: redraw the grape berry table and add how ripening changes each component.",
+"k": "text"
+},
+{
+"t": "Day 6–7: test yourself with the app and revisit only the definitions you mixed up.",
+"k": "text"
+},
+{
+"t": "How the variety shapes the wine: key grapes compared",
+"k": "text"
+},
+{
+"t": "Many WSET Level 3 questions start from a grape variety and ask you to explain the wine. The answer usually lies in a few biological traits: skin thickness, berry size, the timing of budburst and ripening, and the natural level of acidity and aroma. Learn the traits first and the style follows logically.",
+"k": "text"
+},
+{
+"t": "Berry and growth traits",
+"k": "text"
+},
+{
+"t": "Typical result in the glass",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "Early budding, so exposed to spring frost; fairly neutral flavour",
+"k": "text"
+},
+{
+"t": "Adapts to many climates; takes oak, malolactic conversion and lees well",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Vigorous, early ripening, strongly aromatic",
+"k": "text"
+},
+{
+"t": "High acidity, herbaceous and tropical notes, usually unoaked",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Late ripening, hard wood that resists winter cold",
+"k": "text"
+},
+{
+"t": "High acidity, pronounced aromas, dry to sweet styles, long ageing potential",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Thin skins, tight bunches, early ripening, prone to rot",
+"k": "text"
+},
+{
+"t": "Pale colour, low to medium tannin, red fruit",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Late ripening, small thick-skinned berries",
+"k": "text"
+},
+{
+"t": "Deep colour, high tannin and acidity, black fruit",
+"k": "text"
+},
+{
+"t": "Merlot",
+"k": "text"
+},
+{
+"t": "Ripens earlier than Cabernet Sauvignon, larger berries",
+"k": "text"
+},
+{
+"t": "Softer tannin, plum and red fruit, often blended",
+"k": "text"
+},
+{
+"t": "Syrah",
+"k": "text"
+},
+{
+"t": "Thick skins, mid ripening",
+"k": "text"
+},
+{
+"t": "Deep colour, black fruit and black pepper, firm tannin",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Late ripening, drought tolerant, thin skins, high sugar",
+"k": "text"
+},
+{
+"t": "High alcohol, pale colour for a red, soft tannin, red fruit",
+"k": "text"
+},
+{
+"t": "Read the table as a chain of causes. Thin skins give little colour and tannin; small, thick-skinned berries give a high ratio of skin to juice and therefore deep colour and firm tannin; late ripening needs a long, warm season; early budding raises the risk of spring frost.",
+"k": "text"
+},
+{
+"t": "Matching varieties to climate and site",
+"k": "text"
+},
+{
+"t": "Growers choose varieties that can ripen fully in the time their climate allows. In cool regions, early-ripening varieties such as Pinot Noir, Chardonnay or Müller-Thurgau can be harvested before autumn rains and falling temperatures. Late-ripening varieties such as Cabernet Sauvignon, Grenache or Mourvèdre need warm conditions, or particularly warm sites, to ripen their sugars and tannins. Riesling is a notable exception: it ripens late but tolerates cold winters, which is why the best sites in cool regions, such as steep south-facing slopes in the Mosel, are reserved for it.",
+"k": "text"
+},
+{
+"t": "The same logic explains blends and local choices. In Bordeaux, Merlot ripens reliably on the cooler clay soils of the Right Bank, while Cabernet Sauvignon is planted on the warmer, free-draining gravels of the Médoc. Planting several varieties also spreads risk: if poor flowering or autumn rain hits one variety, another may escape.",
+"k": "text"
+},
+{
+"t": "Threats to the vine beyond phylloxera",
+"k": "text"
+},
+{
+"t": "Powdery mildew (oidium): a fungus that thrives in warm, shaded canopies; it covers leaves and berries with a grey powder and spoils flavour. It is controlled with sulfur sprays and an open canopy.",
+"k": "text"
+},
+{
+"t": "Downy mildew: a fungus-like organism favoured by warm, wet weather that attacks leaves and shoots and weakens the vine. Copper-based sprays are the traditional treatment.",
+"k": "text"
+},
+{
+"t": "Grey rot (Botrytis cinerea): spreads in humid conditions, especially on thin-skinned varieties with tight bunches, and damages flavour and colour. The same fungus can become noble rot when misty mornings are followed by dry, sunny afternoons on healthy, ripe white grapes.",
+"k": "text"
+},
+{
+"t": "Nematodes: microscopic worms in the soil that feed on roots and can spread viruses; resistant rootstocks are the main defence.",
+"k": "text"
+},
+{
+"t": "Viruses such as leafroll and fanleaf: spread by infected planting material or by soil and insect vectors; they cannot be cured, so growers plant certified virus-free material.",
+"k": "text"
+},
+{
+"t": "Trunk diseases: fungi that enter through pruning wounds and slowly kill the permanent wood; careful pruning and protection of large cuts help.",
+"k": "text"
+},
+{
+"t": "Question: why would a grower in a cool, marginal region select an early-ripening clone of Pinot Noir? Answer: the growing season is short, so a clone that ripens a little earlier is more likely to reach full sugar and flavour ripeness before autumn rain and cold arrive. The variety stays the same; only the useful trait of the clone changes.",
+"k": "text"
+},
+{
+"t": "Question: explain why wines made mainly from Grenache are often high in alcohol but relatively pale. Answer: Grenache ripens late and accumulates a lot of sugar in warm, dry climates, and that sugar becomes alcohol during fermentation. Its skins are thin, so there is limited colour and tannin to extract.",
+"k": "text"
+},
+{
+"t": "Question: a grower plants seeds collected from a Chardonnay vineyard. Will the new vines be Chardonnay? Answer: no. Each seed is the product of sexual reproduction and grows into a genetically new vine. To reproduce Chardonnay exactly, the grower must use vegetative propagation, such as cuttings grafted onto a rootstock.",
+"k": "text"
+},
+{
+"t": "Common mistakes on this topic: calling a clone a new variety, treating grey rot and noble rot as two different fungi, forgetting that early budding is a frost risk rather than a ripening advantage, and describing a variety without saying how its traits affect the wine.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "54 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on The vine and grape varieties are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 54 multiple-choice questions on The vine and grape varieties, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is The vine and grape varieties important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including The vine and grape varieties, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between a crossing and a hybrid for WSET 3?",
+"k": "text"
+},
+{
+"t": "A crossing is a new variety grown from seed with two parents of the same species, usually both Vitis vinifera, such as Müller-Thurgau or Pinotage. A hybrid comes from parents of different species, typically vinifera and an American species, such as Vidal or Seyval Blanc. Hybrids are bred for cold hardiness and disease resistance and are important in cold regions like Canada and New York.",
+"k": "text"
+},
+{
+"t": "Why are European vines grafted onto American rootstocks?",
+"k": "text"
+},
+{
+"t": "Vitis vinifera roots have no resistance to phylloxera, a root-feeding insect from North America that kills the vine. American vine species evolved with the pest and resist it, so vinifera is grafted onto American rootstocks: the roots resist phylloxera, while the part above ground keeps the variety's fruit quality. Rootstocks are also chosen for vigour, drought tolerance, lime tolerance and resistance to nematodes.",
+"k": "text"
+},
+{
+"t": "What does each part of the grape contribute to wine?",
+"k": "text"
+},
+{
+"t": "The pulp provides water, sugars that become alcohol, and acids, mainly tartaric and malic, that give freshness. The skins provide colour in black grapes, tannins and most aroma and flavour compounds. The seeds contain bitter tannins and oils, so they must not be crushed. Stems add tannin and herbal notes when whole bunches are fermented.",
+"k": "text"
+},
+{
+"t": "What is a clone in viticulture?",
+"k": "text"
+},
+{
+"t": "A clone is a vine, or group of vines, of a single variety selected because a natural mutation gave it particular traits, such as small berries, higher yield, earlier ripening or disease resistance. It is propagated by cuttings so the traits are kept. A clone remains the same variety, so different Chardonnay clones are all Chardonnay; the choice of clone is one of many quality decisions a grower makes.",
+"k": "text"
+},
+{
+"t": "What happens to grapes during ripening?",
+"k": "text"
+},
+{
+"t": "From veraison, grapes soften and black varieties gain colour. Sugar levels rise, acidity falls as malic acid is broken down, especially in warm climates, tannins become riper and less astringent, and aromas move from green and herbaceous to riper fruit. Growers choose the harvest date by balancing sugar, acidity, tannin ripeness and flavour according to the wine style they want.",
+"k": "text"
+},
+{
+"t": "Which grape varieties ripen early and which ripen late for WSET 3?",
+"k": "text"
+},
+{
+"t": "Among the varieties most often studied at Level 3, Pinot Noir, Chardonnay, Sauvignon Blanc and Merlot are relatively early ripening, while Cabernet Sauvignon, Grenache, Mourvèdre and Riesling ripen late. Early ripeners suit cooler climates with shorter seasons; late ripeners need warm climates or warm sites. Riesling is the classic exception, a late ripener grown in cool regions on the best, sunniest slopes.",
+"k": "text"
+},
+{
+"t": "Why do thin-skinned grapes make paler red wines?",
+"k": "text"
+},
+{
+"t": "In black grapes the colour pigments and most of the tannins are in the skins, while the pulp is usually colourless. A variety with thin skins, such as Pinot Noir or Grenache, simply has less material to extract during maceration. That is why these grapes tend to give paler wines with softer tannins than thick-skinned varieties such as Cabernet Sauvignon or Syrah.",
+"k": "text"
+},
+{
+"t": "What is the difference between grey rot and noble rot?",
+"k": "text"
+},
+{
+"t": "Both are caused by the same fungus, Botrytis cinerea. Grey rot develops in persistently humid conditions, damages the berries and spoils flavour and colour, especially in black grapes. Noble rot develops on healthy, ripe grapes when misty mornings are followed by dry, sunny afternoons: the fungus concentrates sugar and acidity and adds honeyed, dried-fruit aromas, giving great sweet wines.",
+"k": "text"
+},
+{
+"t": "What are the main fungal diseases of the vine for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "The three you must know are powdery mildew, downy mildew and grey rot. Powdery mildew prefers warm, shaded canopies and is controlled with sulfur; downy mildew prefers warm, wet weather and is traditionally treated with copper; grey rot spreads in humidity on tight bunches. Open canopies, good air flow and well-timed sprays reduce all three.",
+"k": "text"
+},
+{
+"t": "How can I learn grape varieties quickly for WSET 3?",
+"k": "text"
+},
+{
+"t": "Learn each variety through four traits: skin thickness, ripening time, natural acidity and aroma intensity. Then link each trait to an effect in the glass and to the climates where the variety is grown. Writing one short chain per grape, such as thin skins, early ripening, cool climate, pale and red-fruited wine, is far more effective than memorising lists of descriptors.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 The vine and grape varieties – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 The vine and grape varieties practice questions with answers and explanations, plus 54 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which vine species produces nearly all wine grapes?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "V. vinifera is the main Eurasian species, used to make wine for several thousand years.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why are American vines important even though their wines are not liked?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "There are three important American species; vinifera is grafted onto their roots.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why is a grape variety not propagated from seed?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "To keep a variety's qualities, cuttings or layering are used: the new plant is identical.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why do most growers now use cuttings rather than layering?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Layering puts vinifera roots straight into the soil, exposed to phylloxera.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is a clone?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Clonal selection propagates vines with positive mutations; clones remain the same variety.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How is a genuinely new grape variety created?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Even with parents of the same variety, the seedling is a new, unpredictable variety.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

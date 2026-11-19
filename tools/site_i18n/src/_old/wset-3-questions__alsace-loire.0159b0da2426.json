@@ -1,0 +1,1075 @@
+{
+"group": "wset-3-questions__alsace-loire",
+"source": "wset-3-questions/alsace-loire/index.html",
+"url": "/wset-3-questions/alsace-loire/",
+"region": "main",
+"sha": "0159b0da2426",
+"words": 3299,
+"segment_words": 3595,
+"segments": [
+{
+"t": "WSET 3 Alsace and the Loire – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Alsace and the Loire practice questions with answers and explanations, plus 79 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Alsace and the Loire, WSET Level 3 Alsace and the Loire, Alsace and the Loire WSET questions, Alsace and the Loire wine quiz, Alsace and the Loire wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Alsace and the Loire: practice questions with answers – WSET 3 Alsace and the Loire, WSET Level 3 Alsace and the Loire (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Alsace and the Loire",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Alsace and the Loire: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Alsace and the Loire, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 79 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Alsace and the Loire: practice questions with answers | WSET 3 Alsace and the Loire",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Alsace and the Loire practice questions with answers and explanations, plus 79 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What makes Alsace unusual among French regions?",
+"k": "text"
+},
+{
+"t": "It has no village or grand cru appellations, only one regional AOC",
+"k": "text"
+},
+{
+"t": "Almost all its wines are blends sold under a village name",
+"k": "text"
+},
+{
+"t": "Most of its wines are varietally labelled",
+"k": "text"
+},
+{
+"t": "It makes almost only late-harvest sweet wines",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Most of its wines are varietally labelled",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It focuses on aromatic whites, dry, off-dry and sweet; some red is made.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Where are the best Alsace vineyards?",
+"k": "text"
+},
+{
+"t": "On the Vosges summits, above 700 m, facing west",
+"k": "text"
+},
+{
+"t": "On the Rhine plain, on deep alluvial soils",
+"k": "text"
+},
+{
+"t": "In the far north, near the German border",
+"k": "text"
+},
+{
+"t": "On the steepest slopes facing east and south-east",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} On the steepest slopes facing east and south-east",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Plain vineyards often supply Crémant d'Alsace; the north is cooler and less sheltered.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What are the two main appellations for still Alsace wines?",
+"k": "text"
+},
+{
+"t": "Alsace and Crémant d'Alsace",
+"k": "text"
+},
+{
+"t": "Edelzwicker and Gentil",
+"k": "text"
+},
+{
+"t": "Alsace and Alsace Grand Cru",
+"k": "text"
+},
+{
+"t": "VT and SGN (sweet)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Alsace and Alsace Grand Cru",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} VT and SGN are ripeness-based terms for both. 'Réserve personnelle' and 'Cuvée spéciale' have no legal status.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} If an Alsace wine names a grape on the label, what percentage must it contain?",
+"k": "text"
+},
+{
+"t": "51%",
+"k": "text"
+},
+{
+"t": "75%",
+"k": "text"
+},
+{
+"t": "100%",
+"k": "text"
+},
+{
+"t": "85%",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 100%",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} A few blends are made, which are not varietally labelled.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} How many vineyards have their own Alsace Grand Cru appellation?",
+"k": "text"
+},
+{
+"t": "7",
+"k": "text"
+},
+{
+"t": "17",
+"k": "text"
+},
+{
+"t": "Over 50",
+"k": "text"
+},
+{
+"t": "33",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Over 50",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Labels show vineyard, vintage and variety. Controversy concerns boundaries seen as too large; some producers don't use the term.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} How is the ripeness for SGN usually achieved?",
+"k": "text"
+},
+{
+"t": "By freezing on the vine",
+"k": "text"
+},
+{
+"t": "By adding sugar",
+"k": "text"
+},
+{
+"t": "By fortification",
+"k": "text"
+},
+{
+"t": "With noble rot",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} With noble rot",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Thresholds exceed VT; SGN wines are always sweet and not made every year.",
+"k": "text"
+},
+{
+"t": "Study notes: Alsace and the Loire for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Alsace and Loire questions focus on cool-climate white wines and the reasons behind their styles. Alsace is a dry, sunny region protected by mountains, making aromatic, mostly varietal whites from dry to lusciously sweet. The Loire is a long river valley, maritime at its mouth and more continental inland, famous for Melon, Chenin Blanc, Sauvignon Blanc and Cabernet Franc. These notes go beyond the sample questions above and follow the cause, effect and style logic that exam answers are marked on.",
+"k": "text"
+},
+{
+"t": "Alsace for WSET 3: climate, grapes and labels",
+"k": "text"
+},
+{
+"t": "Why Alsace is dry and sunny",
+"k": "text"
+},
+{
+"t": "Alsace lies in north-east France, between the Vosges mountains to the west and the Rhine to the east. Its climate is continental, but the Vosges create a rain shadow, so Alsace is one of the driest and sunniest parts of France. Long, dry, sunny autumns allow grapes to hang late on the vine, which explains why late-harvest and botrytised sweet wines are possible and why even dry wines can be full-bodied with ripe fruit. The best vineyards are on the lower slopes of the Vosges facing east and south-east, where they catch the morning sun; the flatter plain gives higher yields and is often used for Crémant d'Alsace.",
+"k": "text"
+},
+{
+"t": "The key Alsace grapes and their styles",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Typical Alsace style",
+"k": "text"
+},
+{
+"t": "Exam keywords",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Dry, high acidity, citrus and stone fruit, steely; ages to honey and petrol notes",
+"k": "text"
+},
+{
+"t": "Most planted quality grape, grand cru variety",
+"k": "text"
+},
+{
+"t": "Gewurztraminer",
+"k": "text"
+},
+{
+"t": "Deep lemon colour, low to medium acidity, high alcohol, oily texture, lychee, rose, sweet spice",
+"k": "text"
+},
+{
+"t": "Often off-dry; balance depends on picking date",
+"k": "text"
+},
+{
+"t": "Pinot Gris",
+"k": "text"
+},
+{
+"t": "Full body, medium acidity, ripe peach, smoky or honeyed notes, dry to sweet",
+"k": "text"
+},
+{
+"t": "Much richer than Italian Pinot Grigio",
+"k": "text"
+},
+{
+"t": "Muscat",
+"k": "text"
+},
+{
+"t": "Usually dry, light to medium body, intensely grapey and floral",
+"k": "text"
+},
+{
+"t": "Blend of Muscat Blanc à Petits Grains and Muscat Ottonel",
+"k": "text"
+},
+{
+"t": "Pinot Blanc",
+"k": "text"
+},
+{
+"t": "Medium body, medium acidity, apple and soft fruit",
+"k": "text"
+},
+{
+"t": "Main base for Crémant d'Alsace, often with Auxerrois",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Light to medium body, red fruit; the only black grape of note",
+"k": "text"
+},
+{
+"t": "Used for reds, rosés and some Crémant",
+"k": "text"
+},
+{
+"t": "Alsace winemaking",
+"k": "text"
+},
+{
+"t": "Alsace winemaking aims to preserve the pure fruit of aromatic grapes. Malolactic conversion is usually avoided to keep freshness, and wines are fermented and stored in stainless steel or large old oak casks (foudres) that add texture but little oak flavour. Producers may ferment to dryness or stop with some residual sugar, so the same grape can be dry, off-dry or medium. Because sweetness is not always obvious from the label, many producers now show a sweetness indication on the bottle.",
+"k": "text"
+},
+{
+"t": "Appellations and ripeness terms",
+"k": "text"
+},
+{
+"t": "Alsace AOC: the regional appellation for still wines, usually varietally labelled (100% of the named grape).",
+"k": "text"
+},
+{
+"t": "Alsace Grand Cru AOC: just over fifty named vineyards, mainly for Riesling, Gewurztraminer, Pinot Gris and Muscat, with lower maximum yields.",
+"k": "text"
+},
+{
+"t": "Crémant d'Alsace: traditional-method sparkling wine, mostly Pinot Blanc, also Riesling, Pinot Gris, Chardonnay and Pinot Noir.",
+"k": "text"
+},
+{
+"t": "Vendanges Tardives (VT): late-harvested grapes with higher ripeness; the wine can be off-dry to sweet, with or without botrytis.",
+"k": "text"
+},
+{
+"t": "Sélection de Grains Nobles (SGN): grapes affected by noble rot, higher sugar thresholds than VT, always sweet and not made every year.",
+"k": "text"
+},
+{
+"t": "Edelzwicker or Gentil: blends of several grapes, not varietally labelled.",
+"k": "text"
+},
+{
+"t": "Common mistake: assuming every Alsace Gewurztraminer or Pinot Gris is sweet. Write that style depends on the producer's choice to ferment to dryness or leave residual sugar, and on ripeness at harvest; only SGN is always sweet.",
+"k": "text"
+},
+{
+"t": "The Loire Valley for WSET 3: four areas, four styles",
+"k": "text"
+},
+{
+"t": "The Loire Valley for WSET 3 is easiest to learn from west to east. Near the Atlantic the climate is cool and maritime; travelling inland it becomes more continental, with colder winters, warmer summers and greater frost risk. Throughout the valley grapes struggle to ripen in cool years, so high acidity is the common thread of almost every Loire wine.",
+"k": "text"
+},
+{
+"t": "Pays Nantais: Muscadet",
+"k": "text"
+},
+{
+"t": "Muscadet is made from Melon (Melon Blanc). The maritime climate and the grape's neutral flavour give light-bodied, dry, high-acid wines with low to medium alcohol. Many are aged sur lie, on the dead yeast through the winter, which adds texture and a slightly bready character. Muscadet Sèvre et Maine is the largest and best-known sub-area, and a few named village areas (crus communaux) make wines with longer lees ageing.",
+"k": "text"
+},
+{
+"t": "Anjou-Saumur: Chenin Blanc and Cabernet Franc",
+"k": "text"
+},
+{
+"t": "Chenin Blanc is the key white grape here: it has high acidity, ripens unevenly and is susceptible to noble rot, so it can make every style. Savennières makes dry, intense Chenin with high acidity that ages well. Coteaux du Layon, with Bonnezeaux and Quarts de Chaume, makes sweet wines from late-harvested or botrytised Chenin, helped by autumn mists from the Layon. Saumur makes traditional-method sparkling and Saumur-Champigny makes fresh, medium-bodied Cabernet Franc. Rosé d'Anjou and Cabernet d'Anjou are medium-dry to medium rosés.",
+"k": "text"
+},
+{
+"t": "Touraine: Vouvray, Chinon and Bourgueil",
+"k": "text"
+},
+{
+"t": "Vouvray and Montlouis-sur-Loire make Chenin Blanc from dry to sweet, plus sparkling wine; the style depends on the vintage. Chinon, Bourgueil and Saint-Nicolas-de-Bourgueil are the main Cabernet Franc appellations: light to medium body, high acidity, raspberry and red cherry fruit, and leafy or green pepper notes in cooler years. Generic Touraine is a source of good-value Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "Central Vineyards: Sancerre and Pouilly-Fumé",
+"k": "text"
+},
+{
+"t": "Sancerre and Pouilly-Fumé, almost in the centre of France, have a continental climate. Sauvignon Blanc here is dry, high in acidity, light to medium bodied, with gooseberry, green apple and grassy notes, usually unoaked; some producers use oak for richer cuvées. Soils include limestone, marl and flint (silex). Pouilly-Fumé is white only; Sancerre also makes light Pinot Noir reds and rosés. Menetou-Salon, Quincy and Reuilly are nearby, cheaper alternatives.",
+"k": "text"
+},
+{
+"t": "Exam technique: if asked why Loire Cabernet Franc can taste green, link cause and effect: cool continental climate, short season, late-ripening grape, so in cool years it reaches lower sugar levels and keeps herbaceous green pepper flavours and high acidity. Warmer vintages and the best slopes give riper fruit.",
+"k": "text"
+},
+{
+"t": "Alsace vs Loire: quick comparison for WSET 3 answers",
+"k": "text"
+},
+{
+"t": "Alsace",
+"k": "text"
+},
+{
+"t": "Loire",
+"k": "text"
+},
+{
+"t": "Climate",
+"k": "text"
+},
+{
+"t": "Continental, dry and sunny thanks to the Vosges rain shadow",
+"k": "text"
+},
+{
+"t": "Cool; maritime in the west, continental inland",
+"k": "text"
+},
+{
+"t": "Main white grapes",
+"k": "text"
+},
+{
+"t": "Riesling, Gewurztraminer, Pinot Gris, Muscat, Pinot Blanc",
+"k": "text"
+},
+{
+"t": "Melon, Chenin Blanc, Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Main black grape",
+"k": "text"
+},
+{
+"t": "Cabernet Franc (Pinot Noir in Sancerre)",
+"k": "text"
+},
+{
+"t": "Sweet wines",
+"k": "text"
+},
+{
+"t": "VT and SGN",
+"k": "text"
+},
+{
+"t": "Coteaux du Layon, Bonnezeaux, Quarts de Chaume, sweet Vouvray",
+"k": "text"
+},
+{
+"t": "Sparkling",
+"k": "text"
+},
+{
+"t": "Crémant d'Alsace",
+"k": "text"
+},
+{
+"t": "Saumur, Vouvray, Crémant de Loire",
+"k": "text"
+},
+{
+"t": "How to revise Alsace and the Loire in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw Alsace: Vosges, Rhine, slopes facing east; write in one sentence why it is dry.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the six Alsace grapes with one style keyword each from the table.",
+"k": "text"
+},
+{
+"t": "Day 3: list Alsace appellations and the difference between VT and SGN.",
+"k": "text"
+},
+{
+"t": "Day 4: draw the Loire from west to east and place Muscadet, Anjou-Saumur, Touraine, Sancerre and Pouilly-Fumé.",
+"k": "text"
+},
+{
+"t": "Day 5: link each Loire grape to its appellations: Melon, Chenin Blanc, Cabernet Franc, Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "Day 6: write a timed short answer explaining how Chenin Blanc makes dry, sweet and sparkling wines.",
+"k": "text"
+},
+{
+"t": "Day 7: run Alsace and Loire questions in the app and revise only your mistakes.",
+"k": "text"
+},
+{
+"t": "Fifteen minutes a day is enough, because both regions come back to one idea: cool or dry conditions, careful site selection and the producer's choices about ripeness and residual sugar decide the style.",
+"k": "text"
+},
+{
+"t": "Alsace and the Loire in the two WSET Level 3 units",
+"k": "text"
+},
+{
+"t": "WSET Level 3 is assessed in two separate units: a theory unit (50 multiple-choice questions and 4 short written answers) and a tasting unit (two wines assessed blind with the Systematic Approach to Tasting). Each unit needs at least 55% and is marked on its own; if you fail one, you retake only that unit. Alsace and the Loire are classic theory topics, especially for written answers on how one grape, such as Chenin Blanc, can give several styles.",
+"k": "text"
+},
+{
+"t": "They are also ideal practice wines for the tasting unit, even though you are never asked to name the wine. Aromatic whites train you to describe pronounced primary aromas precisely; Gewurztraminer teaches you to recognise low acidity with high alcohol; Muscadet teaches you what light body and lees character feel like; sweet Chenin teaches you to judge sweetness and acidity together.",
+"k": "text"
+},
+{
+"t": "Chenin Blanc: one grape, five styles",
+"k": "text"
+},
+{
+"t": "A favourite written-answer theme is how the same grape gives very different wines. Chenin Blanc in the Loire is the textbook case because high acidity, uneven ripening and susceptibility to noble rot give the producer many options.",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Example appellations",
+"k": "text"
+},
+{
+"t": "How it is achieved",
+"k": "text"
+},
+{
+"t": "Dry, intense",
+"k": "text"
+},
+{
+"t": "Savennières, dry Vouvray",
+"k": "text"
+},
+{
+"t": "Ripe grapes fermented to dryness; high acidity supports long ageing",
+"k": "text"
+},
+{
+"t": "Off-dry to medium",
+"k": "text"
+},
+{
+"t": "Vouvray, Montlouis-sur-Loire",
+"k": "text"
+},
+{
+"t": "Fermentation stopped with some residual sugar, depending on the vintage",
+"k": "text"
+},
+{
+"t": "Sweet, botrytised",
+"k": "text"
+},
+{
+"t": "Coteaux du Layon, Bonnezeaux, Quarts de Chaume",
+"k": "text"
+},
+{
+"t": "Several pickings (tries) of shrivelled or noble-rot grapes; autumn mists help botrytis",
+"k": "text"
+},
+{
+"t": "Vouvray, Montlouis, Saumur, Crémant de Loire",
+"k": "text"
+},
+{
+"t": "Less ripe, high-acid grapes; traditional method",
+"k": "text"
+},
+{
+"t": "Simple, fruity",
+"k": "text"
+},
+{
+"t": "Generic Anjou or Touraine wines",
+"k": "text"
+},
+{
+"t": "Higher yields, cool fermentation, early bottling",
+"k": "text"
+},
+{
+"t": "In a written answer, always link the style to a cause: the vintage (warm years give riper, sweeter wines), the site (mists near rivers favour noble rot) and the producer's choice (stop fermentation or ferment to dryness).",
+"k": "text"
+},
+{
+"t": "Practice questions with answers explained",
+"k": "text"
+},
+{
+"t": "Question 1: why can Alsace make full-bodied dry whites although it lies in northern France? Answer: the Vosges mountains create a rain shadow, so Alsace is dry and sunny with a long autumn. Grapes on the east-facing lower slopes ripen fully, reaching high sugar levels; fermented to dryness, this gives high alcohol and full body.",
+"k": "text"
+},
+{
+"t": "Question 2: explain why Muscadet is usually light-bodied and neutral. Answer: the Pays Nantais has a cool maritime climate, so grapes ripen moderately and keep high acidity with low to medium alcohol. Melon is a neutral grape, and producers avoid oak and malolactic conversion. Ageing sur lie adds texture and a bready note without making the wine heavy.",
+"k": "text"
+},
+{
+"t": "Question 3: what is the difference in style between Sancerre and Muscadet? Answer: both are dry, high-acid, mostly unoaked whites, but Sancerre is made from aromatic Sauvignon Blanc in a continental climate, with pronounced gooseberry and grassy notes, while Muscadet is made from neutral Melon near the Atlantic, with delicate citrus and lees character.",
+"k": "text"
+},
+{
+"t": "Question 4: why is Gewurztraminer from Alsace often off-dry? Answer: the grape accumulates high sugar levels while its acidity falls; some producers keep a little residual sugar to balance the high alcohol and the bitter phenolic grip, and to emphasise the lychee and rose aromas.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Alsace and the Loire",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Correct version",
+"k": "text"
+},
+{
+"t": "Alsace is wet because it is in the north",
+"k": "text"
+},
+{
+"t": "The Vosges rain shadow makes it one of the driest areas of France",
+"k": "text"
+},
+{
+"t": "Muscadet is made from Muscat",
+"k": "text"
+},
+{
+"t": "Muscadet is made from Melon; the names are unrelated",
+"k": "text"
+},
+{
+"t": "Pouilly-Fumé is the same as Pouilly-Fuissé",
+"k": "text"
+},
+{
+"t": "Pouilly-Fumé is Loire Sauvignon Blanc; Pouilly-Fuissé is Burgundy Chardonnay",
+"k": "text"
+},
+{
+"t": "Sancerre is always white",
+"k": "text"
+},
+{
+"t": "Sancerre also makes light Pinot Noir reds and rosés",
+"k": "text"
+},
+{
+"t": "Loire reds are full-bodied",
+"k": "text"
+},
+{
+"t": "Cabernet Franc in the Loire is light to medium-bodied with high acidity",
+"k": "text"
+},
+{
+"t": "Glossary for Alsace and the Loire",
+"k": "text"
+},
+{
+"t": "Foudre: large old oak cask used in Alsace; adds texture with little oak flavour.",
+"k": "text"
+},
+{
+"t": "Sur lie: ageing on the dead yeast through the winter before bottling, typical of Muscadet.",
+"k": "text"
+},
+{
+"t": "Tries: successive pickings through the vineyard to select only botrytised or shrivelled grapes.",
+"k": "text"
+},
+{
+"t": "Silex: flint soil found in parts of Sancerre and Pouilly-Fumé.",
+"k": "text"
+},
+{
+"t": "Tuffeau: soft limestone of Saumur and Touraine, also used to dig cool cellars.",
+"k": "text"
+},
+{
+"t": "Crémant: French traditional-method sparkling wine made outside Champagne, such as Crémant d'Alsace and Crémant de Loire.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "79 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Alsace and the Loire are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 79 multiple-choice questions on Alsace and the Loire, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Alsace and the Loire important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Alsace and the Loire, can come up.",
+"k": "text"
+},
+{
+"t": "Which grapes are allowed in Alsace Grand Cru for WSET 3?",
+"k": "text"
+},
+{
+"t": "For WSET Level 3, remember that Alsace Grand Cru is mainly reserved for the four noble grapes: Riesling, Gewurztraminer, Pinot Gris and Muscat. A few individual grands crus allow exceptions, such as Sylvaner or blends, but the exam expects the four main varieties. Labels usually show the vineyard name, grape variety and vintage.",
+"k": "text"
+},
+{
+"t": "What is the difference between VT and SGN in Alsace?",
+"k": "text"
+},
+{
+"t": "Vendanges Tardives (VT) is made from late-harvested, very ripe grapes and can range from off-dry to sweet, with or without noble rot. Sélection de Grains Nobles (SGN) requires higher ripeness, usually achieved through noble rot, so it is always sweet, more concentrated and only made in suitable years. Both terms can be used with Alsace and Alsace Grand Cru.",
+"k": "text"
+},
+{
+"t": "What does sur lie mean for Muscadet?",
+"k": "text"
+},
+{
+"t": "Sur lie means the wine stays on its dead yeast cells (lees) over the winter after fermentation and is bottled from the lees, without racking. This adds texture, body and a subtle bready or yeasty note to the naturally neutral Melon grape, and can keep a slight prickle of carbon dioxide. It is the classic technique for quality Muscadet Sèvre et Maine.",
+"k": "text"
+},
+{
+"t": "Why can Chenin Blanc make so many styles in the Loire?",
+"k": "text"
+},
+{
+"t": "Chenin Blanc has high acidity, so it balances sweetness and suits sparkling wine. It ripens unevenly, so growers can pick in several passes for different styles, and its thin skin makes it susceptible to noble rot in sites with autumn mists. That is why the Loire makes dry Savennières, sweet Coteaux du Layon and sparkling Vouvray from the same grape.",
+"k": "text"
+},
+{
+"t": "Is Sancerre always Sauvignon Blanc?",
+"k": "text"
+},
+{
+"t": "White Sancerre is always Sauvignon Blanc, but the appellation also allows red and rosé wines made from Pinot Noir, which are light-bodied with red fruit and high acidity. Pouilly-Fumé, across the river, is white only, from Sauvignon Blanc. For WSET 3 answers, describe white Sancerre as dry, high acid, gooseberry and grassy, usually unoaked.",
+"k": "text"
+},
+{
+"t": "Can an Alsace or Loire wine come up in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "Any wine within the syllabus can be poured, but you are never asked to identify it. The tasting unit, which is marked separately from theory with its own 55% pass mark, rewards an accurate, complete SAT note and justified conclusions. Aromatic Alsace whites and Loire Chenin are excellent practice because they test aroma intensity, sweetness and acidity judgements.",
+"k": "text"
+},
+{
+"t": "How is sweet Coteaux du Layon made?",
+"k": "text"
+},
+{
+"t": "Chenin Blanc is left on the vine late into autumn. Mists from the Layon river favour noble rot, which concentrates sugar and acidity, and pickers go through the vineyard several times to select only the best shrivelled or botrytised grapes. The result is a sweet wine with high acidity, honey and dried fruit notes, and good ageing potential.",
+"k": "text"
+},
+{
+"t": "What is the difference between Muscadet and Muscat?",
+"k": "text"
+},
+{
+"t": "They are unrelated. Muscadet is a dry white wine from the western Loire made from the neutral Melon grape, often aged sur lie. Muscat is a family of very aromatic grapes with a grapey, floral character; in Alsace it usually makes dry, light to medium-bodied wines. Confusing the two is a classic multiple-choice trap.",
+"k": "text"
+},
+{
+"t": "Why is Loire Cabernet Franc lighter than Bordeaux reds?",
+"k": "text"
+},
+{
+"t": "The Loire is cooler, especially in Touraine, so Cabernet Franc ripens less fully than Cabernet Sauvignon and Merlot do in Bordeaux. The result is lighter body, higher acidity, red fruit and sometimes leafy notes. Many producers also use limited extraction and older oak or stainless steel to keep the fresh fruit character.",
+"k": "text"
+},
+{
+"t": "Is Crémant d'Alsace made like Champagne?",
+"k": "text"
+},
+{
+"t": "Yes, it uses the traditional method: a second fermentation in the bottle followed by ageing on the lees. The main grape is Pinot Blanc, with Riesling, Pinot Gris, Chardonnay and Pinot Noir also allowed. It is often made from grapes grown on the flatter plain, where yields are higher, and is usually fresher and fruitier than Champagne.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Alsace and the Loire – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Alsace and the Loire practice questions with answers and explanations, plus 79 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What makes Alsace unusual among French regions?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It focuses on aromatic whites, dry, off-dry and sweet; some red is made.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where are the best Alsace vineyards?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Plain vineyards often supply Crémant d'Alsace; the north is cooler and less sheltered.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the two main appellations for still Alsace wines?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "VT and SGN are ripeness-based terms for both. 'Réserve personnelle' and 'Cuvée spéciale' have no legal status.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "If an Alsace wine names a grape on the label, what percentage must it contain?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "A few blends are made, which are not varietally labelled.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How many vineyards have their own Alsace Grand Cru appellation?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Labels show vineyard, vintage and variety. Controversy concerns boundaries seen as too large; some producers don't use the term.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How is the ripeness for SGN usually achieved?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Thresholds exceed VT; SGN wines are always sweet and not made every year.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

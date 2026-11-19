@@ -1,0 +1,1007 @@
+{
+"group": "wset-3-questions__usa-canada",
+"source": "wset-3-questions/usa-canada/index.html",
+"url": "/wset-3-questions/usa-canada/",
+"region": "main",
+"sha": "128ccfe1ff39",
+"words": 3542,
+"segment_words": 3827,
+"segments": [
+{
+"t": "WSET 3 USA and Canada – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 USA and Canada practice questions with answers and explanations, plus 75 more in the app: MCQs, short written answers, flashcards and…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 USA and Canada, WSET Level 3 USA and Canada, USA and Canada WSET questions, USA and Canada wine quiz, USA and Canada wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 USA and Canada: practice questions with answers – WSET 3 USA and Canada, WSET Level 3 USA and Canada (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "USA and Canada",
+"k": "text"
+},
+{
+"t": "WSET Level 3 USA and Canada: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on USA and Canada, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 75 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 USA and Canada: practice questions with answers | WSET 3 USA and Canada",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 USA and Canada practice questions with answers and explanations, plus 75 more in the app: MCQs, short written answers, flashcards and….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What may appear on the label of a US wine outside any AVA?",
+"k": "text"
+},
+{
+"t": "A state (e.g. California) or county (e.g. Napa County) name",
+"k": "text"
+},
+{
+"t": "A registered cru or single-vineyard name only",
+"k": "text"
+},
+{
+"t": "Nothing: without an AVA it can't be sold",
+"k": "text"
+},
+{
+"t": "Only 'table wine': outside AVAs any origin is banned",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A state (e.g. California) or county (e.g. Napa County) name",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Federal laws set minimum percentages for variety, vintage and AVA; many states have their own laws. Non-AVA rules are often more lenient.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Why does cooling reach far inland in valleys like Monterey and Santa Barbara?",
+"k": "text"
+},
+{
+"t": "They have large, deep glacial lakes that cool the air",
+"k": "text"
+},
+{
+"t": "They run parallel to the coast and get fog all along them",
+"k": "text"
+},
+{
+"t": "They lie at right angles to the ocean and funnel cold air",
+"k": "text"
+},
+{
+"t": "They are very high, above 1,200 m, and altitude offsets the heat",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} They lie at right angles to the ocean and funnel cold air",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Without ocean exposure, as in the Central Valley, it is hot.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is California's most planted black grape?",
+"k": "text"
+},
+{
+"t": "Zinfandel",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Petite Sirah",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Many are full with concentrated ripe cassis and new-oak spice; some are fresher.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is White Zinfandel?",
+"k": "text"
+},
+{
+"t": "A dried-grape wine, sweet, dark and very alcoholic",
+"k": "text"
+},
+{
+"t": "A dry white made from a white-berried Zinfandel mutation",
+"k": "text"
+},
+{
+"t": "A rosé from early-picked grapes: pale, fruity, medium-sweet",
+"k": "text"
+},
+{
+"t": "A white, brut traditional-method sparkling wine",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A rosé from early-picked grapes: pale, fruity, medium-sweet",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is made in large volumes.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Where do better-quality Californian Merlots come from?",
+"k": "text"
+},
+{
+"t": "From Lodi and the Central Valley, thanks to old vines",
+"k": "text"
+},
+{
+"t": "From eastern Paso Robles, the hottest, most fertile coastal zone",
+"k": "text"
+},
+{
+"t": "From the San Joaquin Valley, where heat and high yields concentrate it",
+"k": "text"
+},
+{
+"t": "Cooler sites: Monterey, Napa, Sonoma",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cooler sites: Monterey, Napa, Sonoma",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} San Joaquin has most plantings for simple wines. The best: deep, velvety tannin, high alcohol, blackberry and plum.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which moderate Californian areas produce premium Pinot Noir?",
+"k": "text"
+},
+{
+"t": "Calistoga, Howell Mountain, eastern Paso Robles",
+"k": "text"
+},
+{
+"t": "San Joaquin, Lodi and the Central Valley",
+"k": "text"
+},
+{
+"t": "Russian River, Los Carneros, Santa Maria",
+"k": "text"
+},
+{
+"t": "Rutherford, Oakville, Stags Leap District",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Russian River, Los Carneros, Santa Maria",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Most show layers of ripe red fruit and sweet oak spice; some are light with gamey, vegetal notes.",
+"k": "text"
+},
+{
+"t": "Study notes: USA and Canada for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 USA questions focus on how ocean influence, altitude and latitude shape very different wines across California, Oregon, Washington and New York, while Canada questions centre on Ontario, British Columbia and icewine. The key to scoring is the same as everywhere in the syllabus: explain the climate cause, then the effect on the grapes, then the resulting style.",
+"k": "text"
+},
+{
+"t": "US wine law in one paragraph",
+"k": "text"
+},
+{
+"t": "An American Viticultural Area (AVA) is a defined geographical area only: unlike a European appellation, it sets no rules on grape varieties, yields or winemaking. Federal law sets minimum percentages for what the label claims, and individual states can be stricter. Wines outside any AVA can still name a state or a county.",
+"k": "text"
+},
+{
+"t": "Label claim",
+"k": "text"
+},
+{
+"t": "Federal minimum",
+"k": "text"
+},
+{
+"t": "Notes",
+"k": "text"
+},
+{
+"t": "Grape variety",
+"k": "text"
+},
+{
+"t": "75% of that variety",
+"k": "text"
+},
+{
+"t": "Oregon is stricter: 90% for most varieties",
+"k": "text"
+},
+{
+"t": "AVA",
+"k": "text"
+},
+{
+"t": "85% from the AVA",
+"k": "text"
+},
+{
+"t": "The AVA itself has no rules on grapes or yields",
+"k": "text"
+},
+{
+"t": "State",
+"k": "text"
+},
+{
+"t": "75% from the state",
+"k": "text"
+},
+{
+"t": "California requires 100% Californian grapes",
+"k": "text"
+},
+{
+"t": "County",
+"k": "text"
+},
+{
+"t": "75% from the county",
+"k": "text"
+},
+{
+"t": "Used when grapes come from several AVAs, e.g. Napa County",
+"k": "text"
+},
+{
+"t": "Vintage",
+"k": "text"
+},
+{
+"t": "85% from that year, 95% if an AVA is named",
+"k": "text"
+},
+{
+"t": "Allows small top-ups from other vintages",
+"k": "text"
+},
+{
+"t": "California: climate, regions and grapes",
+"k": "text"
+},
+{
+"t": "California has a Mediterranean climate with warm, dry, sunny summers, so ripeness is rarely a problem; the challenge is keeping freshness. The main cooling influence is the cold Pacific Ocean: cold currents create morning fog and breezes that are drawn inland through gaps in the coastal hills and valleys running at right angles to the coast. The further a site is from these influences, the hotter it is. Altitude also cools, and mountain vineyards above the fog line get intense sunshine but cooler nights.",
+"k": "text"
+},
+{
+"t": "North Coast: Napa, Sonoma and Carneros",
+"k": "text"
+},
+{
+"t": "Napa Valley: gets warmer from south to north. Los Carneros, at the southern end near San Pablo Bay, is cool and suits Chardonnay, Pinot Noir and sparkling wine base. The valley floor AVAs such as Oakville, Rutherford and Stags Leap District are famous for ripe, full-bodied Cabernet Sauvignon blends; Calistoga in the north is warm. Mountain AVAs such as Howell Mountain and Mount Veeder give more structured, tannic Cabernet.",
+"k": "text"
+},
+{
+"t": "Sonoma County: Russian River Valley is cooled by fog and makes elegant Chardonnay and Pinot Noir; the Sonoma Coast is cooler still. Alexander Valley is warmer and known for Cabernet Sauvignon, and Dry Creek Valley for Zinfandel.",
+"k": "text"
+},
+{
+"t": "Mendocino and Lake County, further north, offer good-value wines, and the cool Anderson Valley is known for Pinot Noir and sparkling wine.",
+"k": "text"
+},
+{
+"t": "Central Coast and Central Valley",
+"k": "text"
+},
+{
+"t": "The Central Coast stretches south of San Francisco. Monterey is cooled by the ocean funnelled up the Salinas Valley. Paso Robles is warm, particularly on its eastern side, and produces ripe Cabernet Sauvignon, Zinfandel and Rhône varieties; the western hills are cooler. In Santa Barbara County the valleys run east to west, so cold air and fog flow far inland: Santa Maria Valley and Sta. Rita Hills are known for Pinot Noir and Chardonnay with bright acidity. The Central Valley, sheltered from the ocean, is hot and fertile, relies on irrigation and produces large volumes of inexpensive wine; Lodi, cooled slightly by the delta breezes, is known for old-vine Zinfandel.",
+"k": "text"
+},
+{
+"t": "Key Californian grapes and styles",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon: the most planted black grape; premium examples are full-bodied with ripe black fruit, high alcohol, ripe tannins and new oak.",
+"k": "text"
+},
+{
+"t": "Chardonnay: the most planted white; styles range from ripe, tropical, buttery and oaky to leaner, fresher wines from cool coastal sites.",
+"k": "text"
+},
+{
+"t": "Zinfandel: ripens unevenly, so bunches can contain raisined and unripe berries together; it makes rich, high-alcohol reds with jammy red and black fruit, and the pale, medium-sweet rosé known as White Zinfandel.",
+"k": "text"
+},
+{
+"t": "Pinot Noir: from cool to moderate areas such as Russian River, Carneros, Sonoma Coast and Santa Barbara.",
+"k": "text"
+},
+{
+"t": "Merlot, Sauvignon Blanc (sometimes oaked and labelled Fumé Blanc), Syrah and Petite Sirah complete the picture.",
+"k": "text"
+},
+{
+"t": "Oregon, Washington and New York",
+"k": "text"
+},
+{
+"t": "Oregon: Willamette Valley Pinot Noir",
+"k": "text"
+},
+{
+"t": "Oregon's most important region, the Willamette Valley, lies between the Coast Range and the Cascades. The Coast Range gives some shelter, but the climate is cool and relatively wet, with a risk of rain at harvest, so vintage variation is significant. Pinot Noir is the flagship, typically light to medium-bodied with red cherry and raspberry fruit and high acidity, followed by Pinot Gris and Chardonnay. Southern Oregon is warmer and drier and grows a wider range of varieties.",
+"k": "text"
+},
+{
+"t": "Washington: Columbia Valley",
+"k": "text"
+},
+{
+"t": "Most Washington vineyards lie east of the Cascade Mountains, in the rain shadow, where the climate is semi-desert and continental: hot days, cool nights, cold winters and very low rainfall. Irrigation, mostly from the Columbia River and its tributaries, is essential. Northerly latitude gives long summer days, so grapes ripen fully while cool nights preserve acidity. Winter freeze is the main hazard. The sandy soils are hostile to phylloxera, so many vines are planted on their own roots. Merlot, Cabernet Sauvignon, Syrah, Chardonnay and Riesling are the key grapes; sub-regions include Yakima Valley, Walla Walla Valley (shared with Oregon), Red Mountain and Horse Heaven Hills.",
+"k": "text"
+},
+{
+"t": "New York: Finger Lakes",
+"k": "text"
+},
+{
+"t": "In New York State the Finger Lakes region is the one to know. The deep glacial lakes store heat, which moderates the cold continental climate, delays budburst until frost risk has passed and extends the autumn. Riesling is the leading quality grape, made in styles from dry to sweet with high acidity. Hybrid and native American varieties are also widely grown.",
+"k": "text"
+},
+{
+"t": "Canada: Ontario, British Columbia and icewine",
+"k": "text"
+},
+{
+"t": "Canadian quality wine is regulated by the VQA (Vintners Quality Alliance) in Ontario and British Columbia. Both provinces have cool climates with cold winters, so site selection near large bodies of water is crucial.",
+"k": "text"
+},
+{
+"t": "Ontario: the Niagara Peninsula is the main region. Lake Ontario moderates temperatures and the Niagara Escarpment helps circulate air, reducing frost risk. Riesling, Chardonnay, Cabernet Franc and Pinot Noir are important, along with the hybrid Vidal for icewine. Prince Edward County and Lake Erie North Shore are other regions.",
+"k": "text"
+},
+{
+"t": "British Columbia: the Okanagan Valley is the main region. Its southern end is very dry and warm in summer, almost desert-like, and suits Merlot and other Bordeaux varieties; the cooler north suits aromatic whites and Pinot Noir. Okanagan Lake moderates temperatures. The Similkameen Valley lies nearby.",
+"k": "text"
+},
+{
+"t": "Icewine is made from grapes left on the vine into winter and harvested and pressed while frozen, at -8 °C or colder under Canadian rules. Much of the water stays behind as ice, so only a small amount of very sweet, concentrated juice is extracted. The result is a luscious wine with intense fruit balanced by high acidity, typically made from Vidal, Riesling or Cabernet Franc.",
+"k": "text"
+},
+{
+"t": "Common mistake: describing Washington as cool and rainy because it is in the Pacific Northwest. The vineyards are east of the Cascades, in a dry, continental rain shadow; it is Oregon's Willamette Valley that is cool and wet. Always name the mountain range and which side the vineyards are on.",
+"k": "text"
+},
+{
+"t": "How to revise USA and Canada for WSET 3 in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: redraw the label rules table from memory and highlight the California and Oregon exceptions.",
+"k": "text"
+},
+{
+"t": "Day 2: sketch a map of California, marking the ocean, fog gaps, Napa, Sonoma, Carneros, Paso Robles, Santa Barbara and the Central Valley.",
+"k": "text"
+},
+{
+"t": "Day 3: for Napa, Sonoma and Santa Barbara, write one cause-effect-style sentence each.",
+"k": "text"
+},
+{
+"t": "Day 4: compare Oregon and Washington in a two-column table: climate, rainfall, hazards, main grapes.",
+"k": "text"
+},
+{
+"t": "Day 5: explain how icewine is made and why it keeps high acidity; add Finger Lakes Riesling.",
+"k": "text"
+},
+{
+"t": "Day 6–7: answer mixed questions in the app and rewrite the topics you got wrong.",
+"k": "text"
+},
+{
+"t": "Exam technique for short written answers: a question such as 'explain how the climate of Santa Barbara County affects Pinot Noir' wants the chain: east-west valleys channel cold Pacific air and fog inland, so temperatures stay moderate, the grapes ripen slowly and keep acidity, giving Pinot Noir with ripe red fruit and fresh acidity. Each link in the chain is usually a mark.",
+"k": "text"
+},
+{
+"t": "Worked examples: USA and Canada short written answers",
+"k": "text"
+},
+{
+"t": "The two questions below are written in the style of a Level 3 short written answer. Read each question, plan your own answer for two minutes, then compare it with the model answer, which shows the cause, effect and style chain that earns marks.",
+"k": "text"
+},
+{
+"t": "Question 1: Explain why Cabernet Sauvignon from the Napa Valley floor is usually fuller-bodied than Pinot Noir from Los Carneros. Model answer: Los Carneros sits at the southern end of the valley next to San Pablo Bay, so cool breezes and fog keep temperatures moderate. This suits early-ripening Pinot Noir, which keeps high acidity and fresh red fruit and gives a light to medium-bodied wine. Further north, valley floor AVAs such as Oakville and Rutherford are warmer, so late-ripening Cabernet Sauvignon reaches full ripeness: high sugar gives high alcohol, and the thick skins give deep colour and ripe, firm tannins. Premium producers add maturation in new French oak, which adds body, vanilla and toast. The contrast comes from both grape and site: a thin-skinned early ripener in a cool spot, a thick-skinned late ripener in a warm one.",
+"k": "text"
+},
+{
+"t": "Question 2: Explain how the Okanagan Valley can produce both Merlot and aromatic white wines. Model answer: the valley runs north to south over a long distance. The southern end is hot and very dry in summer, with long sunny days, so late-ripening black grapes such as Merlot ripen fully and give ripe fruit and soft tannins. The northern end is cooler, so aromatic varieties ripen slowly and keep high acidity and fresh, intense fruit. Okanagan Lake moderates temperatures near the water, reducing frost and winter damage, and irrigation makes up for the low summer rainfall in the south.",
+"k": "text"
+},
+{
+"t": "USA and Canada at a glance: comparison table",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Main climate influence",
+"k": "text"
+},
+{
+"t": "Leading grapes",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Napa Valley floor",
+"k": "text"
+},
+{
+"t": "Warm; bay fog and breezes mainly in the south",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon, Merlot",
+"k": "text"
+},
+{
+"t": "Full body, ripe black fruit, ripe firm tannins, new oak",
+"k": "text"
+},
+{
+"t": "Russian River Valley and Sonoma Coast",
+"k": "text"
+},
+{
+"t": "Pacific fog and breezes",
+"k": "text"
+},
+{
+"t": "Chardonnay, Pinot Noir",
+"k": "text"
+},
+{
+"t": "Fresh acidity, red fruit, elegant",
+"k": "text"
+},
+{
+"t": "Sta. Rita Hills and Santa Maria Valley",
+"k": "text"
+},
+{
+"t": "East-west valleys channel cold air",
+"k": "text"
+},
+{
+"t": "Pinot Noir, Chardonnay",
+"k": "text"
+},
+{
+"t": "Ripe fruit with bright acidity",
+"k": "text"
+},
+{
+"t": "Lodi",
+"k": "text"
+},
+{
+"t": "Hot, cooled a little by delta breezes",
+"k": "text"
+},
+{
+"t": "Old-vine Zinfandel",
+"k": "text"
+},
+{
+"t": "High alcohol, jammy fruit",
+"k": "text"
+},
+{
+"t": "Willamette Valley",
+"k": "text"
+},
+{
+"t": "Cool, wet, risk of harvest rain",
+"k": "text"
+},
+{
+"t": "Pinot Noir, Pinot Gris",
+"k": "text"
+},
+{
+"t": "Light to medium body, red fruit, high acidity",
+"k": "text"
+},
+{
+"t": "Columbia Valley",
+"k": "text"
+},
+{
+"t": "Rain shadow, semi-desert, continental",
+"k": "text"
+},
+{
+"t": "Merlot, Cabernet Sauvignon, Riesling",
+"k": "text"
+},
+{
+"t": "Ripe fruit with fresh acidity",
+"k": "text"
+},
+{
+"t": "Finger Lakes",
+"k": "text"
+},
+{
+"t": "Deep lakes moderate a cold climate",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "High acidity, dry to sweet",
+"k": "text"
+},
+{
+"t": "Niagara Peninsula",
+"k": "text"
+},
+{
+"t": "Lake Ontario and the escarpment",
+"k": "text"
+},
+{
+"t": "Riesling, Chardonnay, Cabernet Franc, Vidal",
+"k": "text"
+},
+{
+"t": "Fresh still wines and icewine",
+"k": "text"
+},
+{
+"t": "Where USA and Canada fit in the WSET Level 3 exam",
+"k": "text"
+},
+{
+"t": "Level 3 is made of two separate units. The theory unit combines 50 multiple-choice questions with 4 short written-answer questions, and the tasting unit asks you to assess two wines blind. You need at least 55% in each unit, and they are marked independently: if you pass one and fail the other, you retake only the failed unit. USA and Canada can matter in both. In theory, expect label rules, climate explanations and region-grape pairings. In tasting, a warm-climate Cabernet Sauvignon or an oaked Chardonnay is a useful benchmark to practise on: describe exactly what you find, such as high alcohol, pronounced ripe fruit and toasty oak, and use those observations to justify your conclusion on quality.",
+"k": "text"
+},
+{
+"t": "Common mistakes in USA and Canada answers",
+"k": "text"
+},
+{
+"t": "Treating an AVA like a European appellation: it defines a place only, with no rules on grapes, yields or winemaking.",
+"k": "text"
+},
+{
+"t": "Saying Napa is cool everywhere: only the southern end near San Pablo Bay is cool; the valley warms towards Calistoga.",
+"k": "text"
+},
+{
+"t": "Forgetting that Zinfandel ripens unevenly, which is why harvest timing and sorting matter so much.",
+"k": "text"
+},
+{
+"t": "Writing that icewine grapes are affected by noble rot: the concentration comes from freezing, not from botrytis, so the fruit stays pure and the acidity high.",
+"k": "text"
+},
+{
+"t": "Placing the Finger Lakes in a mild climate: the region is cold and continental, and the lakes are what make viticulture possible.",
+"k": "text"
+},
+{
+"t": "Exam technique: in multiple-choice questions on unfamiliar AVA names, reason from geography. A site close to the ocean, the bay or a fog gap is cooler; a site further inland or sheltered by hills is warmer. That logic often eliminates two distractors at once.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "75 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on USA and Canada are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 75 multiple-choice questions on USA and Canada, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is USA and Canada important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including USA and Canada, can come up.",
+"k": "text"
+},
+{
+"t": "What are the US wine labelling rules for WSET 3?",
+"k": "text"
+},
+{
+"t": "Under federal law a varietal label needs 75% of the named grape, an AVA needs 85% of grapes from that area, a state or county name needs 75%, and a vintage needs 85%, or 95% when an AVA is stated. States can be stricter: California requires 100% Californian grapes for a California label, and Oregon requires 90% of the named variety for most grapes.",
+"k": "text"
+},
+{
+"t": "Why is Washington State dry if it is in the Pacific Northwest?",
+"k": "text"
+},
+{
+"t": "Most Washington vineyards lie east of the Cascade Mountains, which block rain-bearing weather from the Pacific. The Columbia Valley is therefore in a rain shadow with a semi-desert, continental climate, hot summer days, cool nights and cold winters. Irrigation from the Columbia River is essential, and the long summer days at this latitude help grapes ripen fully.",
+"k": "text"
+},
+{
+"t": "How is Canadian icewine made?",
+"k": "text"
+},
+{
+"t": "Grapes are left on the vine into winter and picked and pressed while naturally frozen, at -8 °C or colder under Canadian rules. The water stays in the press as ice, so only a little highly concentrated, sugar-rich juice runs out. Fermentation is slow and stops with plenty of residual sugar, giving a luscious wine with intense fruit and high acidity, often from Vidal, Riesling or Cabernet Franc.",
+"k": "text"
+},
+{
+"t": "What does AVA mean on a US wine label?",
+"k": "text"
+},
+{
+"t": "AVA stands for American Viticultural Area, a legally defined grape-growing area based on geography such as climate, soil and topography. Unlike a European appellation, an AVA does not regulate grape varieties, yields or winemaking methods. If an AVA appears on the label, at least 85% of the grapes must come from it. AVAs can be very large, like Columbia Valley, or small and nested inside others, like Oakville within Napa Valley.",
+"k": "text"
+},
+{
+"t": "Which Californian regions are best for Chardonnay and Pinot Noir for WSET 3?",
+"k": "text"
+},
+{
+"t": "Look for cool, ocean-influenced areas: Los Carneros, Russian River Valley and the Sonoma Coast in the north, and Santa Maria Valley and Sta. Rita Hills in Santa Barbara County, where east-west valleys draw fog and cold air inland. Anderson Valley in Mendocino and parts of Monterey are also cool. These sites slow ripening and keep acidity, giving fresher, more elegant wines.",
+"k": "text"
+},
+{
+"t": "Do I need to know every Napa AVA for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "No. Learn a handful that each illustrate a principle: Los Carneros for a cool, bay-influenced site, Oakville and Rutherford for the warm valley floor, Calistoga for the warm north and a mountain AVA such as Howell Mountain for altitude and firmer tannins. If you can explain why each one differs, you can handle unfamiliar names in a multiple-choice question by reasoning from their position in the valley.",
+"k": "text"
+},
+{
+"t": "Why are many Washington vines planted on their own roots?",
+"k": "text"
+},
+{
+"t": "The sandy soils of eastern Washington are hostile to phylloxera, so the pest has not spread widely and growers have been able to plant ungrafted vinifera vines. This avoids the cost of grafting but remains a risk if phylloxera spreads. A bigger practical threat in Washington is winter freeze, which can kill vines down to the ground; own-rooted vines can at least regrow from below the soil.",
+"k": "text"
+},
+{
+"t": "Can a wine from the USA or Canada appear in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "The tasting unit assesses how well you apply the tasting method, not your knowledge of one region, so any style covered by the course could be useful practice. You do not have to name the origin: you describe the wine accurately and reach a justified conclusion on quality and readiness for drinking. Practising on a Californian Cabernet or a Willamette Pinot Noir helps you calibrate body, alcohol and tannin.",
+"k": "text"
+},
+{
+"t": "What is the difference between icewine and late harvest wine?",
+"k": "text"
+},
+{
+"t": "Late harvest wines come from grapes left on the vine to ripen further and lose water, sometimes with noble rot. Icewine goes further: the grapes must freeze naturally on the vine, at -8 °C or colder under Canadian rules, and are pressed while frozen, so only concentrated juice runs off. Icewine is therefore sweeter and rarer, with intense fruit, high acidity and no botrytis character.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 USA and Canada – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 USA and Canada practice questions with answers and explanations, plus 75 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What may appear on the label of a US wine outside any AVA?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Federal laws set minimum percentages for variety, vintage and AVA; many states have their own laws. Non-AVA rules are often more lenient.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why does cooling reach far inland in valleys like Monterey and Santa Barbara?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Without ocean exposure, as in the Central Valley, it is hot.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is California's most planted black grape?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Many are full with concentrated ripe cassis and new-oak spice; some are fresher.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is White Zinfandel?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is made in large volumes.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where do better-quality Californian Merlots come from?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "San Joaquin has most plantings for simple wines. The best: deep, velvety tannin, high alcohol, blackberry and plum.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which moderate Californian areas produce premium Pinot Noir?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Most show layers of ripe red fruit and sweet oak spice; some are light with gamey, vegetal notes.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}
