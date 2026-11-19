@@ -61,7 +61,7 @@ const posts = [
         html: B.clues(['Dry red', 'High tannin', 'High acidity', 'Black cherry', 'Green bell pepper', 'Oak: cedar, vanilla'])
           + B.options(['Pinot Noir', 'Cabernet Sauvignon', 'Merlot'])
           + '<div class="hint">Answer on the next slide</div>',
-        goat: { src: G('explore'), style: { right: 40, bottom: 105, height: 330 } } },
+        goat: { src: G('explore'), style: { right: 50, bottom: 100, height: 190 } } },
       { layout: 'content', theme: 'light', kicker: 'Answer 1',
         title: 'B · Cabernet <em>Sauvignon</em>',
         html: B.options(['Pinot Noir', 'Cabernet Sauvignon', 'Merlot'], 'B') + '<div style="height:30px"></div>'
@@ -81,7 +81,7 @@ const posts = [
         html: B.clues(['Dry red', 'Medium to full body', 'Medium to high tannin', 'Blackberry', 'Liquorice', 'It has two names'])
           + B.options(['Merlot', 'Pinot Noir', 'Syrah / Shiraz'])
           + '<div class="hint">Answer on the next slide</div>',
-        goat: { src: G('ig-n12'), style: { right: 40, bottom: 105, height: 320 } } },
+        goat: { src: G('ig-n12'), style: { right: 50, bottom: 100, height: 230 } } },
       { layout: 'content', theme: 'light', kicker: 'Answer 3',
         title: 'C · Syrah <em>/ Shiraz</em>',
         html: B.bullets(['Same grape: <b>Syrah</b> in France, <b>Shiraz</b> in Australia.', '<b>Northern Rhône:</b> medium body, fresh blackberry, black pepper.', '<b>Warm Barossa Valley:</b> full body, jammy black cherry, liquorice.'])

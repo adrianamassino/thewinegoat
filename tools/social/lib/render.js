@@ -31,7 +31,7 @@ const B = {
   card: (c) => `<div class="card">${c.tag ? `<span class="tag ${c.tone || 'wine'}">${c.tag}</span>` : ''}${c.title ? `<h3>${c.title}</h3>` : ''}<ul>${c.items.map((i) => `<li>${i}</li>`).join('')}</ul>${c.eg ? `<div class="eg">${c.eg}</div>` : ''}</div>`,
   note: (t) => `<div class="note">${t}</div>`,
   rows: (rows) => `<div class="rows">${rows.map((r) => `<div class="row"><div class="l"><b>${r.name}</b><span>${r.desc}</span></div><div class="v"><b>${r.c}</b><span>${r.f}</span></div></div>`).join('')}</div>`,
-  ladder: (steps) => `<div class="ladder">${steps.map((s, i) => `<div class="step${s.hi ? ' hi' : ''}"><div class="n">${s.n || i + 1}</div><div><b>${s.title}</b>${s.text ? `<span>${s.text}</span>` : ''}</div></div>`).join('')}</div>`,
+  ladder: (steps) => `<div class="ladder">${steps.map((s, i) => `<div class="step${s.hi ? ' hi' : ''}"><div class="n"${String(s.n || '').length > 2 ? ' style="font-size:25px"' : ''}>${s.n || i + 1}</div><div><b>${s.title}</b>${s.text ? `<span>${s.text}</span>` : ''}</div></div>`).join('')}</div>`,
   mistakes: (ms) => `<div class="mist">${ms.map((m) => `<div class="mi"><div class="num">Mistake ${m.n}</div><div class="bad">${m.bad}</div><div class="fix">${m.fix}</div></div>`).join('')}</div>`,
   clues: (cl) => `<div class="clues">${cl.map((c) => `<span class="clue">${c}</span>`).join('')}</div>`,
   options: (opts, right) => `<div class="opts">${opts.map((o, i) => {
