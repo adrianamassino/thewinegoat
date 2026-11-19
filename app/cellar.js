@@ -74,7 +74,9 @@ if(SPM){
   tapWine:"Tocá el destilado en la foto para medir el color",empty:"Todavía no hay destilados. ¡Sacale una foto a la próxima etiqueta que pruebes!",search:"Buscá por nombre, categoría, región…",need:"Escribí al menos el nombre del destilado.",t_sweet:"Vodka / Gin"});
 }
 const lg=()=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||(typeof lang!=="undefined"?lang:"en"); }catch(e){} return TX[l]?l:"en"; };
-const x=k=>(TX[lg()][k]!=null?TX[lg()][k]:TX.en[k]);
+const XT=s=>{ try{ return (typeof TES!=="undefined"&&TES.on&&typeof s==="string"&&s)?TES.tr(s):s; }catch(e){ return s; } };  /* languages without their own texts here (de, nl, ja…): the English text through the app map */
+const XE=v=>lg()!=="en"?v:Array.isArray(v)?v.map(XT):XT(v);
+const x=k=>XE(TX[lg()][k]!=null?TX[lg()][k]:TX.en[k]);
 const es=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 const TX2={
@@ -97,17 +99,17 @@ Object.assign(TX2.es,{bw:["ligero","medio(-)","medio","medio(+)","pleno"],aw:["b
 const RGW={it:{"Right Bank":"riva destra","Left Bank":"riva sinistra","Burgundy":"Borgogna","Loire":"Loira","Northern Rhône":"Rodano settentrionale","Southern Rhône":"Rodano meridionale","Alsace":"Alsazia","Provence":"Provenza","South-West France":"Sud-Ovest della Francia","France":"Francia","Piedmont":"Piemonte","Tuscany":"Toscana","Sicily":"Sicilia","Sardinia":"Sardegna","Lombardy":"Lombardia","North-East Italy":"Nord-Est Italia","Catalonia":"Catalogna","Spain":"Spagna","Jerez":"Jerez","Germany":"Germania","Austria":"Austria","Macedonia (Greece)":"Macedonia (Grecia)","South Australia":"Australia Meridionale","Cool-climate Australia":"Australia a clima fresco","New South Wales":"Nuovo Galles del Sud","New Zealand":"Nuova Zelanda","Coastal Chile":"Cile costiero","Central Valley":"Valle Centrale","Western Cape":"Capo Occidentale","Portugal":"Portogallo"},
  fr:{"Right Bank":"rive droite","Left Bank":"rive gauche","Burgundy":"Bourgogne","Northern Rhône":"Rhône septentrional","Southern Rhône":"Rhône méridional","South-West France":"Sud-Ouest","Piedmont":"Piémont","Tuscany":"Toscane","Sicily":"Sicile","Sardinia":"Sardaigne","Lombardy":"Lombardie","North-East Italy":"Nord-Est de l'Italie","Catalonia":"Catalogne","Spain":"Espagne","Germany":"Allemagne","Austria":"Autriche","Macedonia (Greece)":"Macédoine (Grèce)","South Australia":"Australie-Méridionale","Cool-climate Australia":"Australie fraîche","New South Wales":"Nouvelle-Galles du Sud","New Zealand":"Nouvelle-Zélande","Coastal Chile":"Chili côtier","Central Valley":"Vallée centrale","Western Cape":"Cap-Occidental"},
  es:{"Right Bank":"margen derecha","Left Bank":"margen izquierda","Bordeaux":"Burdeos","Burgundy":"Borgoña","Loire":"Loira","Northern Rhône":"Ródano norte","Southern Rhône":"Ródano sur","Alsace":"Alsacia","Provence":"Provenza","South-West France":"Suroeste de Francia","France":"Francia","Piedmont":"Piamonte","Tuscany":"Toscana","Sicily":"Sicilia","Sardinia":"Cerdeña","Lombardy":"Lombardía","North-East Italy":"Noreste de Italia","Catalonia":"Cataluña","Spain":"España","Germany":"Alemania","Macedonia (Greece)":"Macedonia (Grecia)","South Australia":"Australia Meridional","Cool-climate Australia":"Australia de clima fresco","New South Wales":"Nueva Gales del Sur","New Zealand":"Nueva Zelanda","Coastal Chile":"Chile costero","Central Valley":"Valle Central","Western Cape":"Cabo Occidental","Mosel":"Mosela","Douro":"Duero"}};
-const regL=r=>{ const m=RGW[LL()]; if(!m||!r) return r||""; return String(r).split(/( · | \/ )/).map(p=>m[p]||p).join(""); };
+const regL=r=>{ const m=RGW[LL()]; if(!m||!r) return XE(r||""); return String(r).split(/( · | \/ )/).map(p=>m[p]||p).join(""); };
 TX2["es-ar"]=Object.assign({},TX2.es,{srch:"🔎 Buscá un vino, denominación o uva"});
 if(SPM){ TX2.it.srch="🔎 Cerca distillato o categoria"; TX2.it.srchH="Es. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.fr.srch="🔎 Rechercher un spiritueux ou une catégorie"; TX2.fr.srchH="Ex. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.en.srch="🔎 Search a spirit or category"; TX2.en.srchH="E.g. Cognac VSOP, Bourbon, Tequila reposado…"; TX2.es.srch="🔎 Busca un destilado o categoría"; TX2.es.srchH="Ej. Cognac VSOP, Bourbon, Tequila reposado…"; TX2["es-ar"].srch="🔎 Buscá un destilado o categoría"; TX2["es-ar"].srchH=TX2.es.srchH; }
-const y=k=>{ const l=lg(); return (TX2[l]||TX2.en)[k]; };
+const y=k=>{ const l=lg(); const v=(TX2[l]||TX2.en)[k]; return v&&typeof v==="object"&&!Array.isArray(v)?(lg()!=="en"?v:Object.fromEntries(Object.entries(v).map(([a,b])=>[a,XT(b)]))):XE(v); };
 const LGI=()=>({it:1,fr:2,en:3,es:4,"es-ar":4})[lg()]||3;
 const LL=()=>({it:"it",fr:"fr",en:"en",es:"es","es-ar":"es"})[lg()]||"en";
 const DBX=()=>W.TWG_WINEDB;
 const COL2TYPE={r:"red",w:"white",p:"rose",s:"spark",d:"sweet",f:"fort"};
-const aroL=c=>{ const D=DBX(); return D?(D.L.aroma[LL()][c]||c):c; };
-const foodL=c=>{ const D=DBX(); return D?(D.L.food[LL()][c]||c):c; };
-const ctry=c=>{ const D=DBX(); const r=D&&D.L.country[c]; return r?[r[0],r[LGI()]]:["",""]; };
+const aroL=c=>{ const D=DBX(); return XE(D?(D.L.aroma[LL()][c]||c):c); };
+const foodL=c=>{ const D=DBX(); return XE(D?(D.L.food[LL()][c]||c):c); };
+const ctry=c=>{ const D=DBX(); const r=D&&D.L.country[c]; return r?[r[0],XE(r[LGI()])]:["",""]; };
 function applyDB(e,raw){ if(!e||!CUR) return; const D=DBX();
   CUR.db={name:e.name,c:e.c,region:e.region,col:e.col,grapes:(e.foundGrapes&&e.foundGrapes.length?e.foundGrapes:e.grapes),prof:e.prof,aro:e.aro,food:e.food,t:e.t,y:e.y,k:e.k};
   if(!CUR.region&&e.k==="a") CUR.region=[regL(e.region),ctry(e.c)[1]].filter(Boolean).join(", ");
@@ -342,7 +344,7 @@ const LB={it:["Scanner","Fotografa un'etichetta: riconosco "+(SPM2?"il distillat
  en:["Scan","Snap a label: I recognise the "+(SPM2?"spirit":"wine")+" and save it to your diary",SPM2?"Spirits scanner":"Wine scanner"],
  es:["Escáner","Fotografía una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"],
  "es-ar":["Escáner","Sacale foto a una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"]};
-const lb=i=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||"en"; }catch(e){} return (LB[l]||LB.en)[i]; };
+const lb=i=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||"en"; }catch(e){} if(LB[l]) return LB[l][i]; const v=LB.en[i]; try{ return (typeof TES!=="undefined"&&TES.on)?TES.tr(v):v; }catch(e){ return v; } };
 const HIDE=new Set(["cellar","quiz","exam","film","pod","onb","welcome","login"]);
 const CAM='<svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/><circle cx="12" cy="13" r="3.6"/></svg>';
 function openScan(){ try{ go("cellar"); }catch(e){ try{ window.go&&window.go("cellar"); }catch(_){} } setTimeout(()=>{ const b=document.querySelector('[data-cel="new"]'); if(b) b.click(); },120); }

@@ -1,0 +1,786 @@
+[
+{
+"en": "Yield is the amount of grapes produced: tonnes of grapes or hectolitres of wine per hectare. Predicting it matters for legal limits, as in the EU, for contracts, or simply to know how much tank space is needed. It is estimated from the number of buds left after pruning, but frost, poor fruit set and disease can cut it sharply. If it looks too high, green harvesting shortly after véraison can reduce it: this is risky, because if done at the wrong time the vine compensates by enlarging the remaining berries and diluting their flavour. The link between low yields and quality is far from automatic.",
+"it": "La resa è la quantità d'uva prodotta: in tonnellate d'uva o in ettolitri di vino per ettaro. Prevederla serve per rispettare le leggi, come nell'UE, i contratti, o semplicemente per sapere quante vasche servono. Si stima dal numero di gemme lasciate con la potatura, ma gelo, cattiva allegagione e malattie possono ridurla molto. Se è troppo alta si può fare il diradamento dei grappoli poco dopo l'invaiatura: è rischioso, perché se fatto al momento sbagliato la vite compensa ingrossando gli acini rimasti e diluendone i sapori. Il legame tra resa bassa e qualità non è affatto automatico."
+},
+{
+"en": "green harvest",
+"it": "diradamento"
+},
+{
+"en": "Pests, diseases and ways of farming",
+"it": "Parassiti, malattie e modi di coltivare"
+},
+{
+"en": "Phylloxera and nematodes",
+"it": "Fillossera e nematodi"
+},
+{
+"en": "Vines suffer from many pests and diseases that reduce yield or quality; damaging the leaves also limits photosynthesis. Besides phylloxera there are nematodes, microscopic worms that attack the roots, interfere with water and nutrient uptake and can transmit viruses. Prevention is better than cure: soil is sanitised before replanting and resistant rootstocks are used.",
+"it": "Le viti soffrono molti parassiti e malattie, che riducono la resa o la qualità; danneggiando le foglie limitano anche la fotosintesi. Oltre alla fillossera ci sono i nematodi, vermi microscopici che attaccano le radici, ostacolano l'assorbimento di acqua e nutrienti e possono trasmettere virus. Meglio prevenire: si sanifica il suolo prima del reimpianto e si usano portinnesti resistenti."
+},
+{
+"en": "nematodes",
+"it": "nematodi"
+},
+{
+"en": "Birds, mammals and insects",
+"it": "Uccelli, mammiferi e insetti"
+},
+{
+"en": "Birds and mammals can eat large quantities of grapes, and half-eaten berries invite fungal disease. Netting is often the best option against birds, while fencing may be needed against rabbits, deer or wild boar. Insects feed on grapes and leaves: they are controlled with insecticides or more environmentally friendly methods such as integrated pest management.",
+"it": "Uccelli e mammiferi possono mangiare grandi quantità d'uva, e gli acini mezzi mangiati favoriscono le muffe. Contro gli uccelli la soluzione migliore sono spesso le reti; contro conigli, cervi o cinghiali servono recinzioni. Gli insetti mangiano uva e foglie: si combattono con insetticidi o con metodi più rispettosi dell'ambiente come la lotta integrata."
+},
+{
+"en": "These fungi thrive in warm, humid conditions and attack all the green parts of the vine, leaves and grapes alike. Affected grapes lose their fruity flavours and can give the wine a mouldy, bitter taint.",
+"it": "Questi funghi amano gli ambienti caldi e umidi e attaccano tutte le parti verdi della vite, foglie e acini. L'uva colpita perde i sapori fruttati e può dare al vino un gusto ammuffito e amaro."
+},
+{
+"en": "downy mildew",
+"it": "peronospora"
+},
+{
+"en": "powdery mildew",
+"it": "oidio"
+},
+{
+"en": "It is caused by the fungus Botrytis cinerea, which thrives in damp conditions and mainly attacks the grapes: it taints flavours and causes colour loss in black grapes. Under specific conditions, and on certain white grapes, the same infection becomes beneficial: noble rot, which produces some of the world's finest sweet wines.",
+"it": "È causata dal fungo Botrytis cinerea, che ama l'umidità e attacca soprattutto gli acini: altera i sapori e nelle uve nere fa perdere colore. In condizioni particolari, e su certe uve bianche, la stessa infezione diventa positiva: è la muffa nobile, che dà alcuni dei migliori vini dolci del mondo."
+},
+{
+"en": "grey rot",
+"it": "muffa grigia"
+},
+{
+"en": "noble rot",
+"it": "muffa nobile"
+},
+{
+"en": "Sprays and canopy management",
+"it": "Trattamenti e gestione della chioma"
+},
+{
+"en": "Fungal diseases are controlled with fungicides: traditionally sulfur against powdery mildew and Bordeaux mixture, a copper-based spray, against downy mildew; many newer chemicals now exist. Spraying is usually done by tractor, and maritime climates with growing-season rain need more applications. All spraying must stop well before harvest so no residues remain in the wine. An open, airy, dry canopy reduces disease risk and the number of sprays, which also reach every part of the vine more easily.",
+"it": "Le malattie fungine si combattono con i fungicidi: tradizionalmente lo zolfo contro l'oidio e la poltiglia bordolese, a base di rame, contro la peronospora; oggi esistono molti nuovi prodotti. Si spruzza di solito con il trattore, e nei climi marittimi piovosi servono più trattamenti. Tutti i trattamenti devono finire per tempo prima della vendemmia, per non lasciare residui nel vino. Una chioma aperta, ben ventilata e asciutta riduce il rischio di malattie e il numero di trattamenti, che raggiungono meglio tutte le parti della pianta."
+},
+{
+"en": "sulfur → powdery",
+"it": "zolfo → oidio"
+},
+{
+"en": "copper → downy",
+"it": "rame → peronospora"
+},
+{
+"en": "Viruses and bacterial diseases",
+"it": "Virus e malattie batteriche"
+},
+{
+"en": "Many viruses can infect vines: most do not kill the vine but sharply reduce yield and quality. They are contagious and persistent, spread by cuttings or nematodes; there is no cure, and the only remedy is to dig up the vines and sanitise the land. Many bacteria also infect vines, some fatally; they are spread by small insects called sharpshooters. Prevention relies on strict quarantine and breaking the insects' life cycle; again, once infected, vines must be removed.",
+"it": "Molti virus possono infettare la vite: di solito non la uccidono ma ne riducono molto resa e qualità. Sono contagiosi e persistenti e si diffondono con le talee o i nematodi; non esistono cure, e l'unico rimedio è estirpare le viti e sanificare il terreno. Anche molti batteri attaccano la vite, alcuni fino a ucciderla; sono diffusi da piccoli insetti, le cicaline. Si prevengono con quarantene severe e interrompendo il ciclo degli insetti; anche qui, una volta infette, le viti vanno estirpate."
+},
+{
+"en": "no cure: dig up",
+"it": "nessuna cura: estirpare"
+},
+{
+"en": "Sustainable agriculture",
+"it": "Agricoltura sostenibile"
+},
+{
+"en": "In the second half of the twentieth century the use of man-made chemicals and fertilisers rose sharply, and the environmental damage worries growers, consumers and legislators. In sustainable agriculture chemicals are not banned but restricted: by understanding pest life cycles and following weather forecasts, growers spray only when needed, so fewer applications are required. Integrated pest management encourages pests' natural predators: biodiversity is therefore essential, with other plants between the rows that, when mowed and ploughed in, also feed the soil.",
+"it": "Nella seconda metà del Novecento l'uso di prodotti chimici e concimi è cresciuto molto, con danni ambientali che preoccupano viticoltori, consumatori e legislatori. Nell'agricoltura sostenibile i prodotti chimici non sono vietati ma limitati: conoscendo il ciclo dei parassiti e seguendo le previsioni meteo, si interviene solo quando serve, con meno trattamenti. La lotta integrata favorisce i predatori naturali dei parassiti: per questo è essenziale la biodiversità, con altre piante tra i filari che poi, falciate e interrate, nutrono il suolo."
+},
+{
+"en": "IPM · biodiversity",
+"it": "lotta integrata · biodiversità"
+},
+{
+"en": "Organic agriculture",
+"it": "Agricoltura biologica"
+},
+{
+"en": "It shares many ideas with sustainable agriculture, but allows only a very limited number of traditional treatments, in small quantities. To state it on the label, certification from an approved body is needed, and each body's standards differ slightly. Everywhere, the vineyard must go through a conversion period farmed to organic standards before it can be certified.",
+"it": "Riprende molti principi di quella sostenibile, ma ammette solo pochi trattamenti tradizionali e in quantità ridotte. Per scriverlo in etichetta serve la certificazione di un ente, e ogni ente ha regole leggermente diverse. Ovunque è richiesto un periodo di conversione, lavorando già con metodo biologico, prima di ottenere la certificazione."
+},
+{
+"en": "conversion",
+"it": "conversione"
+},
+{
+"en": "Biodynamic agriculture",
+"it": "Agricoltura biodinamica"
+},
+{
+"en": "It is based on the work of Rudolf Steiner and Maria Thun: it adopts organic practices but adds philosophy and cosmology. The soil is seen as part of a system linking the Earth, the air and the planets, and vineyard work follows the cycles of the moon, planets and stars. Homeopathic remedies called 'preparations' are used to fertilise the soil and fight disease and pests. Biodynamic certification bodies also exist.",
+"it": "Si basa sul lavoro di Rudolf Steiner e Maria Thun: adotta le pratiche biologiche ma aggiunge filosofia e cosmologia. Il suolo è visto come parte di un sistema che collega Terra, aria e pianeti, e i lavori seguono i cicli della luna, dei pianeti e delle stelle. Si usano rimedi omeopatici, i «preparati», per nutrire il suolo e contrastare malattie e parassiti. Esistono enti di certificazione anche per la biodinamica."
+},
+{
+"en": "When to pick",
+"it": "Quando vendemmiare"
+},
+{
+"en": "From véraison the grapes ripen: sugar rises, acidity falls, signature flavours develop and the skin tannins become less bitter and astringent. Monitoring sugar is the most common way to track ripening. There is no hard and fast rule: the ideal balance of sugar, acid, flavour and tannin depends on the variety, the climate and above all the style and quality of wine being made.",
+"it": "Dall'invaiatura l'uva matura: lo zucchero sale, l'acidità scende, si sviluppano gli aromi tipici e i tannini delle bucce diventano meno amari e astringenti. Misurare lo zucchero è il modo più comune per seguire la maturazione. Non esiste una regola fissa: l'equilibrio ideale tra zucchero, acidità, aromi e tannini dipende dalla varietà, dal clima e soprattutto dallo stile e dalla qualità del vino che si vuole fare."
+},
+{
+"en": "sugar · acid · flavour · tannin",
+"it": "zucchero · acidità · aromi · tannini"
+},
+{
+"en": "Weather and winery logistics",
+"it": "Il meteo e la cantina"
+},
+{
+"en": "Ideally harvest begins when the grapes have exactly the qualities needed. Sometimes, though, bad weather forces an earlier pick to save the crop: hail can destroy grapes and rain can swell them and dilute the juice. Deliveries to the winery must also be coordinated so it is not overwhelmed with more fruit than it can process.",
+"it": "Idealmente si raccoglie quando l'uva ha esattamente le qualità volute. A volte però il cattivo tempo costringe ad anticipare per salvare il raccolto: la grandine può distruggere l'uva e la pioggia può gonfiarla e diluirne il succo. Bisogna anche coordinare gli arrivi in cantina, perché non venga sommersa da più uva di quanta possa lavorarne."
+},
+{
+"en": "Machine harvesting",
+"it": "La vendemmia a macchina"
+},
+{
+"en": "The harvester straddles the row and shakes the vine trunks: ripe berries fall off and are collected, leaving the stalks behind. It is not selective: it also collects unhealthy, unripe and damaged grapes and shakes off bits of leaf, insects and other contaminants, called MOG, 'matter other than grapes'. These can be removed by sorting at the winery, but at large scale this is not always possible.",
+"it": "La vendemmiatrice scavalca il filare e scuote i tronchi: gli acini maturi cadono e vengono raccolti, mentre i raspi restano sulla pianta. Non è selettiva: raccoglie anche acini malati, acerbi o danneggiati, e fa cadere pezzi di foglie, insetti e altro materiale, il MOG, cioè «materia diversa dall'uva». Questi elementi si possono togliere con la cernita in cantina, ma nelle grandi produzioni non sempre è possibile."
+},
+{
+"en": "Machine pros and cons",
+"it": "Pro e contro della macchina"
+},
+{
+"en": "The big advantage is speed: vital when bad weather threatens or with varieties such as Sauvignon Blanc that become over-ripe quickly. Machines can also work at night, bringing cool grapes to the winery: this saves the energy needed to chill them and slows oxidation. But they only work on flat or gently sloping land, with varieties whose berries come away easily, and cannot be used for styles needing whole bunches, such as Beaujolais or Champagne.",
+"it": "Il grande vantaggio è la velocità: decisiva se il maltempo minaccia o con varietà come il Sauvignon Blanc, che diventano troppo mature in fretta. Le macchine lavorano anche di notte, portando in cantina uva fresca: si risparmia energia per raffreddarla e si rallenta l'ossidazione. Però funzionano solo su terreni piani o in leggera pendenza, con varietà che si staccano facilmente, e non servono per gli stili che richiedono grappoli interi, come Beaujolais o Champagne."
+},
+{
+"en": "at night, cool fruit",
+"it": "di notte, uva fresca"
+},
+{
+"en": "no whole bunches",
+"it": "no grappoli interi"
+},
+{
+"en": "Hand harvesting",
+"it": "La vendemmia a mano"
+},
+{
+"en": "Pickers cut off individual bunches with secateurs. It is slower and labour-intensive, so it can cost more. But it allows selection in the vineyard, leaving rotten or unripe grapes on the vine. For grapes with noble rot it is essential, because the rot develops differently from bunch to bunch and even within a single bunch.",
+"it": "I vendemmiatori tagliano i grappoli uno per uno con le forbici. È più lenta e richiede molta manodopera, quindi può costare di più. Però permette di scegliere già in vigna, lasciando sulla pianta l'uva marcia o acerba. Per l'uva con muffa nobile è indispensabile, perché la muffa si sviluppa in modo diverso da grappolo a grappolo e persino all'interno dello stesso grappolo."
+},
+{
+"en": "Whole bunches and steep slopes",
+"it": "Grappoli interi e pendii ripidi"
+},
+{
+"en": "Hand-picked grapes suffer less damage, especially if carried in shallow, stackable trays. Stems are retained: the result is whole, intact bunches that give clean, pure juice when pressed for white wine and are essential for whole-bunch fermentation of reds. On steep slopes, such as in the Douro, the Mosel and the Northern Rhône, hand picking is often the only option.",
+"it": "A mano l'uva si rovina meno, soprattutto se trasportata in cassette basse e impilabili. I raspi restano attaccati: si ottengono grappoli interi e intatti, che danno un succo pulito e puro nella pressatura dei bianchi e sono indispensabili per la fermentazione a grappolo intero dei rossi. Sui pendii ripidi, come nel Douro, nella Mosella e nel Rodano settentrionale, la vendemmia a mano è spesso l'unica possibile."
+},
+{
+"en": "In the winery: grapes, oxygen and sulfur dioxide",
+"it": "In cantina: l'uva, l'ossigeno e la solforosa"
+},
+{
+"en": "Two approaches to winemaking",
+"it": "Due approcci alla vinificazione"
+},
+{
+"en": "Winemaking starts with grapes and ends with wine: the grapes are processed, yeast converts the sugars into alcohol, and the wine is stored until packaging and sale. None of this happens without hundreds of human choices. Some winemakers control every step to achieve a precise style; others intervene as little as possible, and their wines, sometimes called natural wines, often taste very different. Most sit somewhere in between.",
+"it": "La vinificazione parte dall'uva e arriva al vino: l'uva viene lavorata, i lieviti trasformano gli zuccheri in alcol, poi il vino si conserva fino al confezionamento e alla vendita. Niente di tutto questo avviene senza centinaia di scelte umane. Alcuni produttori controllano ogni fase per ottenere uno stile preciso; altri intervengono il meno possibile, e i loro vini, a volte chiamati naturali, hanno spesso un gusto molto diverso. La maggior parte si colloca a metà strada."
+},
+{
+"en": "processing",
+"it": "lavorazione"
+},
+{
+"en": "fermentation",
+"it": "fermentazione"
+},
+{
+"en": "storage",
+"it": "conservazione"
+},
+{
+"en": "packaging",
+"it": "confezionamento"
+},
+{
+"en": "control",
+"it": "controllo"
+},
+{
+"en": "minimal intervention",
+"it": "intervento minimo"
+},
+{
+"en": "The parts of the grape",
+"it": "Le parti dell'acino"
+},
+{
+"en": "The bloom, the waxy coating on the skin, carries yeasts that can ferment the wine. The skin and the layer just beneath hold the variety's signature flavours, the colour and the tannins, much higher in black grapes. The pulp is mostly water, then sugar, which the yeast needs to make alcohol, and acids: mainly tartaric, then malic, which remain in the wine. Seeds and stems contain tannins; seeds also bitter oils. Stems are only available if grapes are hand-picked.",
+"it": "La pruina, lo strato ceroso sulla buccia, contiene lieviti che possono fermentare il vino. La buccia e lo strato subito sotto concentrano gli aromi tipici della varietà, il colore e i tannini, molto più abbondanti nelle uve nere. La polpa è soprattutto acqua, poi zucchero, indispensabile ai lieviti per fare alcol, e acidi: soprattutto tartarico e poi malico, che restano nel vino. Semi e raspi contengono tannini; i semi anche oli amari. I raspi sono disponibili solo con la vendemmia a mano."
+},
+{
+"en": "bloom: yeasts",
+"it": "pruina: lieviti"
+},
+{
+"en": "skin: flavour, colour, tannin",
+"it": "buccia: aromi, colore, tannini"
+},
+{
+"en": "pulp: water, sugar, acids",
+"it": "polpa: acqua, zucchero, acidi"
+},
+{
+"en": "seeds: tannin, bitter oils",
+"it": "semi: tannini, oli amari"
+},
+{
+"en": "stem: tannin",
+"it": "raspo: tannini"
+},
+{
+"en": "Many chemical compounds are classed as tannins. At véraison they taste very bitter and astringent; as the grapes ripen, the bitterness and astringency fall. Oak can also contribute some tannins, to both red and white wines.",
+"it": "Molti composti chimici sono classificati come tannini. All'invaiatura hanno un gusto molto amaro e astringente; con la maturazione dell'uva amarezza e astringenza diminuiscono. Anche il rovere può apportare tannini, sia ai rossi sia ai bianchi."
+},
+{
+"en": "bitter, astringent",
+"it": "amaro, astringente"
+},
+{
+"en": "ripe",
+"it": "maturo"
+},
+{
+"en": "also from oak",
+"it": "anche dal rovere"
+},
+{
+"en": "Oxygen during winemaking",
+"it": "L'ossigeno durante la vinificazione"
+},
+{
+"en": "Oxygen reacts with grape juice and wine: this is oxidation, sometimes positive, sometimes negative. Winemakers wanting a wine dominated by primary fruit fight it: they use antioxidants such as sulfur dioxide, pick at night when it is cool and reactions are slower, keep the grapes chilled until they reach the winery, and fill equipment with carbon dioxide or nitrogen. This is protective, or anaerobic, winemaking. Others argue that more oxygen contact builds complexity: it is a question of style.",
+"it": "L'ossigeno reagisce con il mosto e con il vino: è l'ossidazione, a volte positiva, a volte negativa. Chi vuole un vino dominato dal frutto primario lo combatte: usa antiossidanti come l'anidride solforosa, vendemmia di notte quando fa fresco e le reazioni sono più lente, mantiene l'uva fredda fino in cantina e riempie le attrezzature di anidride carbonica o azoto. È la vinificazione protettiva, o anaerobica. Altri pensano che un po' più di ossigeno dia complessità: è una scelta di stile."
+},
+{
+"en": "chilled grapes",
+"it": "uva fredda"
+},
+{
+"en": "Oxygen during maturation",
+"it": "L'ossigeno durante l'affinamento"
+},
+{
+"en": "Wines made protectively rarely benefit from oxygen during maturation: they are kept in inert, airtight vessels that are kept completely full, made of stainless steel or epoxy-lined concrete. Wines matured oxidatively are stored in wooden vessels, usually oak: wood is watertight but not airtight, letting small amounts of oxygen through. This softens red-wine tannins and adds complexity: primary fruit fades and tertiary characters such as leather and earth develop. Reds become paler with a hint of brown; whites deepen with a hint of orange.",
+"it": "I vini fatti in modo protettivo raramente traggono vantaggio dall'ossigeno durante l'affinamento: si conservano in vasche inerti e stagne, tenute piene, di acciaio inox o di cemento rivestito di resina epossidica. I vini affinati in modo ossidativo stanno invece in recipienti di legno, di solito rovere: il legno non perde vino ma lascia passare piccole quantità di ossigeno. Questo ammorbidisce i tannini dei rossi e aggiunge complessità: il frutto primario sfuma e compaiono aromi terziari come cuoio e terra. I rossi schiariscono e virano al bruno, i bianchi si scuriscono verso l'arancio."
+},
+{
+"en": "inert, full",
+"it": "inerte, pieno"
+},
+{
+"en": "Vessel size and oxidative wines",
+"it": "Dimensioni del recipiente e vini ossidativi"
+},
+{
+"en": "How much a wine oxidises depends on vessel size and time. 225-litre barriques have more effect than large vessels because they offer more wood surface relative to the wine: wines rarely stay in them more than two years. Larger vessels allow longer maturation. The effect grows if the vessel is not completely full, a technique used for deliberately oxidative wines such as Oloroso, Tawny Port and Rutherglen Muscat, with caramel, toffee and nutty notes. For most wines, though, too much oxygen is a fault: the wine is oxidised and, in extreme cases, bacteria turn it into vinegar.",
+"it": "Quanto il vino si ossida dipende dalla grandezza del recipiente e dal tempo. Le barrique da 225 litri hanno più effetto dei recipienti grandi perché offrono più superficie di legno in proporzione al vino: raramente si superano i due anni. Nei recipienti grandi si può affinare più a lungo. L'effetto aumenta se il recipiente non è pieno, tecnica usata per vini volutamente ossidativi come Oloroso, Tawny Port e Rutherglen Muscat, con note di caramello, mou e frutta secca. Per la maggior parte dei vini però troppo ossigeno è un difetto: il vino è ossidato e, nei casi estremi, i batteri lo trasformano in aceto."
+},
+{
+"en": "part-filled",
+"it": "scolmo"
+},
+{
+"en": "Sulfur dioxide",
+"it": "L'anidride solforosa"
+},
+{
+"en": "Sulfur dioxide, SO₂, is almost indispensable: it is an antioxidant and an antiseptic, protects freshly picked grapes and is adjusted throughout winemaking. Maximum levels are set by law because it is toxic at high doses and can cause allergic reactions even at low levels; some is produced naturally during fermentation. As an antioxidant it becomes 'bound' when it reacts and no longer protects, so levels must be monitored and topped up. As an antiseptic it kills unwanted yeasts and bacteria, while the main fermentation yeast tolerates it. Too much makes a wine harsh and lacking fruit; a few producers use none at all.",
+"it": "L'anidride solforosa, SO₂, è quasi indispensabile: è antiossidante e antisettica, protegge l'uva appena raccolta e si dosa lungo tutta la vinificazione. I livelli massimi sono fissati per legge, perché è tossica in dosi alte e può dare allergie anche a dosi basse; un po' si forma naturalmente in fermentazione. Come antiossidante, reagendo diventa «combinata» e non protegge più: va controllata e reintegrata. Come antisettico uccide i lieviti e i batteri indesiderati, mentre il lievito principale della fermentazione la tollera. Troppa rende il vino duro e povero di frutto; pochi produttori non la usano affatto."
+},
+{
+"en": "antioxidant: free SO₂ → bound",
+"it": "antiossidante: SO₂ libera → combinata"
+},
+{
+"en": "antiseptic: stops unwanted yeasts and bacteria",
+"it": "antisettica: ferma lieviti e batteri indesiderati"
+},
+{
+"en": "legal limits",
+"it": "limiti di legge"
+},
+{
+"en": "What wine is made of",
+"it": "Di che cosa è fatto il vino"
+},
+{
+"en": "As a guide, these are the components of a typical still dry wine by percentage of volume. Water 70 to 90 per cent; ethanol 8 to 22, including fortified wines; sugars from traces to about 20, varying with style; acids 0.3 to 1 per cent, mainly tartaric, malic and lactic; tannins and colour up to 0.4; hundreds of aroma compounds in tiny amounts, up to 0.2. These figures are for reference only and are not required for the exam.",
+"it": "Ecco, a titolo indicativo, i componenti di un vino fermo secco in percentuale di volume. Acqua dal 70 al 90 per cento; etanolo dall'8 al 22, compresi i fortificati; zuccheri da tracce a circa il 20, molto variabili con lo stile; acidi dallo 0,3 all'1 per cento, soprattutto tartarico, malico e lattico; tannini e colore fino allo 0,4; centinaia di composti aromatici in quantità minime, fino allo 0,2. Queste cifre servono solo come riferimento e non sono richieste all'esame."
+},
+{
+"en": "water",
+"it": "acqua"
+},
+{
+"en": "ethanol",
+"it": "etanolo"
+},
+{
+"en": "sugars",
+"it": "zuccheri"
+},
+{
+"en": "acids",
+"it": "acidi"
+},
+{
+"en": "tannin & colour",
+"it": "tannini e colore"
+},
+{
+"en": "aromas",
+"it": "aromi"
+},
+{
+"en": "Vessels, oak and grape processing",
+"it": "Recipienti, rovere e lavorazione delle uve"
+},
+{
+"en": "Oak",
+"it": "Il rovere"
+},
+{
+"en": "Almost all wooden winery vessels are oak. Besides gentle oxidation, the wine extracts tannins and flavours from the wood: oak tannins add structure to reds and whites, and the aromas recall toast, vanilla, smoke and cloves. Hygiene is a challenge: it is hard to keep wood completely free of yeasts, bacteria and moulds, and tainted wood can ruin a wine.",
+"it": "Quasi tutti i recipienti in legno sono di rovere. Oltre a una leggera ossidazione, il vino estrae dal legno tannini e aromi: i tannini del rovere danno struttura a rossi e bianchi, mentre gli aromi ricordano tostato, vaniglia, fumo e chiodi di garofano. L'igiene è una sfida: è difficile tenere il legno del tutto libero da lieviti, batteri e muffe, e un legno contaminato può rovinare il vino."
+},
+{
+"en": "cloves",
+"it": "chiodi di garofano"
+},
+{
+"en": "Oak species and origin",
+"it": "Specie e origine del rovere"
+},
+{
+"en": "Different oak species have different characteristics, and the same species can vary with where it grows. Most winery vessels are made from European or American oak. European oak is broadly similar whether from France, Hungary or Russia, but some forests, especially in France, are considered the finest.",
+"it": "Specie diverse di rovere hanno caratteristiche diverse, e anche la stessa specie cambia secondo dove cresce. La maggior parte dei recipienti è di rovere europeo o americano. Il rovere europeo ha caratteri simili che venga dalla Francia, dall'Ungheria o dalla Russia, ma alcune foreste, soprattutto francesi, sono considerate le migliori."
+},
+{
+"en": "Hungary · Russia",
+"it": "Ungheria · Russia"
+},
+{
+"en": "Size",
+"it": "Le dimensioni"
+},
+{
+"en": "Small vessels such as the 225-litre barrique and the 228-litre pièce have much more effect than large vessels, which can exceed 2,000 litres: in a small vessel more of the wine is in contact with the wood.",
+"it": "I recipienti piccoli, come la barrique bordolese da 225 litri e la pièce borgognona da 228, influiscono molto più di quelli grandi, che possono superare i 2000 litri: in un recipiente piccolo una parte maggiore del vino è a contatto con il legno."
+},
+{
+"en": "Toasting",
+"it": "La tostatura"
+},
+{
+"en": "To build a barrel the staves are heated over a fire so they can be bent into shape. The heat also transforms the wood's tannins and flavour compounds, giving notes of sweet spice and toast. The temperature and length of heating, the level of toast, decide which flavours the barrel will give the wine.",
+"it": "Per costruire la botte le doghe vengono scaldate sul fuoco, così si possono piegare. Il calore trasforma anche i tannini e gli aromi del legno, che acquista note di spezie dolci e di tostato. Temperatura e durata del riscaldamento, cioè il grado di tostatura, decidono quali aromi la botte darà al vino."
+},
+{
+"en": "light · medium · heavy toast",
+"it": "tostatura leggera · media · forte"
+},
+{
+"en": "Barrel age",
+"it": "L'età della botte"
+},
+{
+"en": "The effect of toasting diminishes with each use: a once-used barrel gives less flavour than a new one and, by its fourth use, it imparts little flavour or tannin. New-oak flavours do not suit every wine, and some producers avoid new barrels for subtler oak.",
+"it": "L'effetto della tostatura diminuisce a ogni utilizzo: una botte già usata una volta dà meno aromi di una nuova e, al quarto passaggio, ne cede pochissimi, come pochi tannini. Gli aromi del legno nuovo non vanno bene per tutti i vini, e alcuni produttori evitano le botti nuove per un rovere più discreto."
+},
+{
+"en": "flavour given by the wood",
+"it": "aromi ceduti dal legno"
+},
+{
+"en": "Oak alternatives",
+"it": "Le alternative alla botte"
+},
+{
+"en": "Oak flavours and tannins can be obtained without barrels: oak staves or chips are put into the wine in an inert vessel, during fermentation or maturation, at a far lower cost. The oxidative effect of barrel ageing can be mimicked by adding small, controlled doses of oxygen. These techniques are still widely researched and are not normally used for premium wines.",
+"it": "Gli aromi e i tannini del rovere si possono ottenere anche senza botti: si immergono nel vino, in un recipiente inerte, doghe o trucioli di rovere, durante la fermentazione o l'affinamento, a un costo molto più basso. L'effetto ossidativo della botte si può imitare aggiungendo ossigeno in piccole dosi controllate. Sono tecniche ancora molto studiate e di solito non si usano per i vini di alta gamma."
+},
+{
+"en": "chips · staves",
+"it": "trucioli · doghe"
+},
+{
+"en": "Inert vessels: steel and concrete",
+"it": "Recipienti inerti: acciaio e cemento"
+},
+{
+"en": "Inert vessels add no flavour and let in no oxygen. Most are stainless steel: easy to clean, any shape or size, with temperature control built in, external jackets or internal coils carrying cold or hot liquid. Epoxy-lined concrete was common before stainless steel: it is harder to clean, but its thick walls regulate temperature without costly equipment. Egg-shaped concrete vats have become fashionable and are thought to aid the wine's natural flow. Glass bottles are inert vessels too.",
+"it": "I recipienti inerti non danno aromi e non lasciano entrare ossigeno. La maggior parte è di acciaio inox: facile da pulire, di ogni forma e misura, con sistemi di controllo della temperatura, camicie esterne o serpentine interne dove circola liquido freddo o caldo. Il cemento, rivestito di resina epossidica, era comune prima dell'acciaio: è meno facile da pulire, ma le pareti spesse regolano la temperatura senza impianti costosi. Di recente vanno di moda le vasche a uovo, che favorirebbero il movimento naturale del vino. Anche la bottiglia di vetro è un recipiente inerte."
+},
+{
+"en": "steel",
+"it": "acciaio"
+},
+{
+"en": "concrete",
+"it": "cemento"
+},
+{
+"en": "egg",
+"it": "uovo"
+},
+{
+"en": "Grape reception and sorting",
+"it": "Ricevimento e cernita"
+},
+{
+"en": "Grapes usually get their first dose of sulfur dioxide as they arrive at the winery. For premium wines they pass over a sorting table where unripe or rotten berries are removed by hand. Such careful selection is rarely possible in high-volume production.",
+"it": "Di solito l'uva riceve la prima dose di anidride solforosa appena arriva in cantina. Per i vini di alta gamma passa su un tavolo di cernita, dove si scartano a mano gli acini acerbi o marci. Una selezione così accurata è raramente possibile nelle grandi produzioni."
+},
+{
+"en": "rejects: unripe, rotten",
+"it": "scarti: acerbi, marci"
+},
+{
+"en": "Both are optional. Machine-harvested grapes arrive without stems, and even with hand-picked fruit most winemakers remove them, in a machine that can then crush the berries. Crushing breaks the skins and releases some juice, the free-run juice, but must not damage the seeds: they would release bitter oils and tannin, making the wine bitter and astringent.",
+"it": "Sono due operazioni facoltative. L'uva vendemmiata a macchina arriva già senza raspi, e anche con quella raccolta a mano la maggior parte dei produttori li toglie, con una macchina che poi può anche pigiare. La pigiatura rompe le bucce e libera parte del succo, il mosto fiore, ma non deve rompere i semi: rilascerebbero oli amari e tannini, rendendo il vino amaro e astringente."
+},
+{
+"en": "free-run juice",
+"it": "mosto fiore"
+},
+{
+"en": "stems",
+"it": "raspi"
+},
+{
+"en": "seeds intact!",
+"it": "semi intatti!"
+},
+{
+"en": "Pressing separates the liquid from the solids. For whites it happens before fermentation, for reds usually after; again the seeds must not be crushed, and modern techniques press gently. Traditional vertical basket presses squeeze from above with a plate and are still widely used, for instance in Champagne. Pneumatic presses have an inflatable rubber bladder inside a perforated horizontal cylinder, and some work enclosed, without oxygen. Juice from the start and end of pressing differs: winemakers can separate the press fractions and blend them as they wish.",
+"it": "La pressatura separa la parte liquida da quella solida. Per i bianchi avviene prima della fermentazione, per i rossi di solito dopo; anche qui i semi non vanno rotti, e le tecniche moderne premono dolcemente. Le presse verticali tradizionali, o a cesto, schiacciano dall'alto con un piatto, e si usano ancora, per esempio in Champagne. Le presse pneumatiche hanno una membrana di gomma che si gonfia dentro un cilindro orizzontale forato, e alcune lavorano chiuse, senza ossigeno. Il succo di inizio e di fine pressatura è diverso: il produttore può separarne le frazioni e assemblarle a piacere."
+},
+{
+"en": "basket",
+"it": "a cesto"
+},
+{
+"en": "pneumatic",
+"it": "pneumatica"
+},
+{
+"en": "press fractions",
+"it": "frazioni di pressatura"
+},
+{
+"en": "Enrichment and concentration",
+"it": "Arricchimento e concentrazione"
+},
+{
+"en": "In cool climates grapes may have too little sugar for a satisfactory alcohol level. The juice, or must, can then be enriched with rectified concentrated grape must (RCGM), a colourless, odourless syrup, before or during fermentation: more sugar means more alcohol. It is banned in many places and tightly controlled elsewhere; if abused it gives hard, thin wines. When the sugar comes from other sources, such as sugar beet, it is called chaptalisation. Alternatively water can be removed from the juice, but this also concentrates tannins, acids and faults and reduces volume. Sugar is hard to remove, but alcohol can be reduced after fermentation.",
+"it": "Nei climi freschi l'uva può avere troppo poco zucchero per un grado alcolico soddisfacente. Il mosto si può allora arricchire con mosto concentrato rettificato, un liquido sciropposo incolore e inodore, prima o durante la fermentazione: più zucchero significa più alcol. È vietato in molte zone e altrove molto regolato; usato male dà vini duri e magri. Se lo zucchero viene da altre fonti, come la barbabietola, si parla di zuccheraggio, o chaptalisation. In alternativa si può togliere acqua dal mosto, ma si concentrano anche tannini, acidi e difetti e si riduce il volume. Lo zucchero è difficile da togliere, mentre l'alcol si può ridurre dopo la fermentazione."
+},
+{
+"en": "concentration: everything rises",
+"it": "concentrazione: tutto aumenta"
+},
+{
+"en": "Adjusting acidity",
+"it": "Correggere l'acidità"
+},
+{
+"en": "If acidity has fallen too far during ripening it can be raised by adding tartaric acid powder: in the EU this is allowed only in warmer regions, and it is common in many warm and hot regions worldwide. Deacidification, reducing acidity, is more common in cooler climates when grape acid has not fallen enough: the excess is neutralised with an alkali.",
+"it": "Se durante la maturazione l'acidità è scesa troppo, la si alza aggiungendo acido tartarico in polvere: nell'UE è permesso solo nelle regioni calde, ed è comune in molte zone calde del mondo. La disacidificazione, cioè ridurre l'acidità, è più frequente nei climi freschi, quando l'acidità non è calata abbastanza: l'eccesso si neutralizza con una sostanza alcalina."
+},
+{
+"en": "warm: + tartaric acid",
+"it": "clima caldo: + acido tartarico"
+},
+{
+"en": "cool: − acid (alkali)",
+"it": "clima fresco: − acidità (alcali)"
+},
+{
+"en": "Fermentations, maturation and bottling",
+"it": "Fermentazioni, affinamento e imbottigliamento"
+},
+{
+"en": "Alcoholic fermentation",
+"it": "La fermentazione alcolica"
+},
+{
+"en": "It is the conversion of sugar into alcohol and carbon dioxide by yeast; heat and flavour compounds are also produced. The main yeast is Saccharomyces cerevisiae, because it tolerates high levels of alcohol and sulfur dioxide. Fermentation will not start below 5 °C and normally continues until all the sugar has been consumed.",
+"it": "È la trasformazione dello zucchero in alcol e anidride carbonica da parte dei lieviti; si producono anche calore e composti aromatici. Il lievito principale è Saccharomyces cerevisiae, perché tollera livelli alti di alcol e di anidride solforosa. La fermentazione non parte sotto i 5 °C e di solito prosegue finché tutto lo zucchero è consumato."
+},
+{
+"en": "alcohol",
+"it": "alcol"
+},
+{
+"en": "heat",
+"it": "calore"
+},
+{
+"en": "When fermentation stops",
+"it": "Quando la fermentazione si ferma"
+},
+{
+"en": "Fermentation can stop early: if the yeast run out of nutrients, if the temperature goes above 35 °C, or if sugar is so high that, together with the alcohol, it stops the yeast; in extreme cases they struggle even to start. Sometimes the winemaker wants to stop it to leave sugar: the yeast are killed with sulfur dioxide or grape spirit, or removed by filtration, usually after the ferment has been halted by chilling below 5 °C.",
+"it": "La fermentazione può fermarsi prima della fine: se i lieviti esauriscono i nutrienti, se la temperatura supera i 35 °C, o se lo zucchero è così alto che, insieme all'alcol, blocca i lieviti; nei casi estremi non riescono nemmeno a partire. A volte è il produttore a volerla fermare per lasciare zucchero: uccide i lieviti con anidride solforosa o con acquavite, oppure li toglie con la filtrazione, di solito dopo averla bloccata raffreddando il vino sotto i 5 °C."
+},
+{
+"en": "no nutrients",
+"it": "niente nutrienti"
+},
+{
+"en": "too much sugar",
+"it": "troppo zucchero"
+},
+{
+"en": "or the winemaker stops it:",
+"it": "oppure il produttore la ferma:"
+},
+{
+"en": "grape spirit",
+"it": "acquavite"
+},
+{
+"en": "chill < 5 °C + filter",
+"it": "freddo < 5 °C + filtro"
+},
+{
+"en": "Ambient or cultured yeast",
+"it": "Lieviti indigeni o selezionati"
+},
+{
+"en": "Winemakers can rely on ambient yeasts found on the grape bloom and in the winery, or add a cultured strain. Ambient yeasts can give more complex flavours, but nobody controls exactly which yeasts are at work and batches vary, which suits high-volume production poorly. Cultured yeasts are selected strains of S. cerevisiae chosen for reliable performance and attractive flavours; some argue, though, that they limit complexity.",
+"it": "Il produttore può affidarsi ai lieviti indigeni presenti sulla pruina e in cantina, oppure aggiungere un ceppo selezionato. I lieviti indigeni possono dare aromi più complessi, ma non si controlla quali lieviti agiscano e i risultati cambiano da una partita all'altra, poco adatto ai grandi volumi. I lieviti selezionati sono ceppi di S. cerevisiae scelti perché affidabili e capaci di dare aromi gradevoli; alcuni sostengono però che limitino la complessità."
+},
+{
+"en": "ambient: complexity",
+"it": "indigeni: complessità"
+},
+{
+"en": "cultured: reliable",
+"it": "selezionati: affidabili"
+},
+{
+"en": "Fermentation temperature",
+"it": "La temperatura di fermentazione"
+},
+{
+"en": "If fermenting wine gets too hot, the yeast die. Controlling temperature also shapes flavour: cool temperatures avoid losing the most volatile aromas, often floral, and encourage fruity notes in whites; higher temperatures are needed to extract colour and tannin from black grape skins. Many vats have their own heating and cooling systems, and excess heat can also be released by pumping over. Precise temperature control has made a huge contribution to the quality and consistency of modern wine.",
+"it": "Se il mosto in fermentazione si scalda troppo, i lieviti muoiono. Controllando la temperatura si influisce anche sugli aromi: a bassa temperatura non si perdono gli aromi più volatili, spesso floreali, e nei bianchi si favoriscono note fruttate; temperature più alte servono per estrarre colore e tannini dalle bucce nere. Molte vasche hanno un proprio sistema di raffreddamento e riscaldamento, e il calore in eccesso si disperde anche con i rimontaggi. Il controllo preciso della temperatura ha migliorato enormemente qualità e costanza dei vini moderni."
+},
+{
+"en": "cool: aromas",
+"it": "fresco: aromi"
+},
+{
+"en": "warm: colour, tannin",
+"it": "caldo: colore, tannini"
+},
+{
+"en": "It usually follows alcoholic fermentation and is carried out by lactic acid bacteria: they turn tart malic acid, also found in apples, into softer lactic acid, also found in milk. Acidity falls and softens, and buttery flavours and some carbon dioxide are produced. It is encouraged by warming the wine and not adding sulfur dioxide after fermentation; it is avoided by cool storage, SO₂ or filtering out the bacteria.",
+"it": "Di solito avviene dopo la fermentazione alcolica, ad opera dei batteri lattici: trasformano l'acido malico, aspro, lo stesso delle mele, in acido lattico, più morbido, lo stesso del latte. L'acidità si riduce e si ammorbidisce, si formano aromi burrosi e un po' di anidride carbonica. La si favorisce scaldando il vino e non aggiungendo solforosa dopo la fermentazione; la si evita tenendo il vino fresco, con la solforosa o filtrando i batteri."
+},
+{
+"en": "malic",
+"it": "malico"
+},
+{
+"en": "lactic",
+"it": "lattico"
+},
+{
+"en": "+ buttery, − acidity",
+"it": "+ burroso, − acidità"
+},
+{
+"en": "Lees",
+"it": "Le fecce"
+},
+{
+"en": "Straight after fermentation the wine is cloudy with dead yeast cells and grape fragments. The heaviest particles fall to the bottom within hours: these are the gross lees, which can cause unpleasant aromas if not removed. Smaller particles settle slowly: these are the fine lees, usually removed gradually during maturation. For some white wines, though, they are kept in contact with the wine to add flavour and a richer texture.",
+"it": "Subito dopo la fermentazione il vino è torbido per i lieviti morti e i frammenti d'uva. Le particelle più pesanti cadono sul fondo in poche ore: sono le fecce grossolane, che se non tolte possono dare odori sgradevoli. Le particelle più piccole si depositano lentamente: sono le fecce fini, che di solito si eliminano poco a poco durante l'affinamento. Per alcuni bianchi però si lasciano a contatto con il vino, per dare aromi e una consistenza più ricca."
+},
+{
+"en": "gross lees: hours",
+"it": "fecce grossolane: ore"
+},
+{
+"en": "fine lees: kept on purpose",
+"it": "fecce fini: contatto voluto"
+},
+{
+"en": "Pre-bottling maturation",
+"it": "Affinamento prima dell'imbottigliamento"
+},
+{
+"en": "Not every wine benefits from long maturation before bottling. To retain primary fruit, the wine is bottled after a few months in an inert vessel: true of many inexpensive wines and some premium ones too, such as a fine Australian Riesling, stored much like an inexpensive Californian White Zinfandel. To age, a wine needs enough tannin, acidity and/or alcohol, plus flavours that will develop interestingly. During maturation the vessel may add oak flavour or oxygen, components react with each other, and sediment can form and is periodically removed.",
+"it": "Non tutti i vini migliorano con un lungo affinamento. Se si vogliono conservare gli aromi primari, il vino si imbottiglia dopo pochi mesi in un recipiente inerte: vale per molti vini economici e anche per alcuni di alta gamma, come un grande Riesling australiano, conservato come un semplice White Zinfandel californiano. Per invecchiare, un vino ha bisogno di tannino, acidità e alcol sufficienti e di aromi capaci di evolvere in modo interessante. Durante l'affinamento il recipiente può dare aromi di legno o ossigeno, i componenti reagiscono tra loro e possono formare sedimenti che si tolgono periodicamente."
+},
+{
+"en": "a few months",
+"it": "pochi mesi"
+},
+{
+"en": "to age: tannin, acid, alcohol + flavour",
+"it": "per invecchiare: tannino, acidità, alcol + aromi"
+},
+{
+"en": "Almost every wine is a blend, even single-variety wines. Blending can happen at any stage, but mainly after fermentation or during maturation, for three reasons. Balance: for example free-run wine with some press wine to boost tannin. Consistency: barrels develop slightly differently and must be combined, as must vats from different plots or picking dates. Style: many houses keep a recognisable style despite vintage variation, and create options by separating press fractions, vessels, partial MLF, varieties, plots and vintages, within local regulations.",
+"it": "Quasi tutti i vini sono assemblaggi, anche quelli di una sola varietà. Si può assemblare in ogni momento, ma soprattutto dopo la fermentazione o durante l'affinamento, per tre scopi. Equilibrio: per esempio il vino fiore con un po' di vino di pressa per aumentare i tannini. Costanza: le barrique evolvono in modo un po' diverso e vanno riunite, come vasche di vigneti o vendemmie diverse. Stile: molte case mantengono uno stile riconoscibile nonostante le annate, e moltiplicano le opzioni separando frazioni, recipienti, malolattica, varietà, parcelle e annate, nei limiti delle leggi locali."
+},
+{
+"en": "balance · consistency · style",
+"it": "equilibrio · costanza · stile"
+},
+{
+"en": "Sedimentation and racking",
+"it": "Sedimentazione e travaso"
+},
+{
+"en": "Consumers expect clear wine: there are three techniques, sedimentation, fining and filtration, though some premium wines skip some of them. After fermentation the gross lees settle and the wine is slowly pumped into another vessel, leaving them behind: this is racking. Repeated rackings during maturation make the wine ever clearer, and for some fine wines this is the only clarification. Gravity acts slowly; a centrifuge speeds things up but is very expensive.",
+"it": "I consumatori si aspettano vini limpidi: le tecniche sono tre, sedimentazione, collaggio e filtrazione, anche se alcuni vini di alta gamma ne saltano qualcuna. Dopo la fermentazione le fecce grossolane si depositano e il vino si pompa piano in un altro recipiente lasciandole indietro: è il travaso. Ripetendolo durante l'affinamento il vino diventa sempre più limpido, e per alcuni grandi vini è l'unica chiarifica. La gravità agisce lentamente; si può accelerare con la centrifuga, che però è molto costosa."
+},
+{
+"en": "centrifuge",
+"it": "centrifuga"
+},
+{
+"en": "Hazes or deposits sometimes appear only after time in bottle, because some components slowly clump together until visible. Fining speeds this up: a fining agent is added that bonds with certain wine components to form visible clumps, which are then removed by filtering. It is widely practised for stability, but some winemakers avoid it, believing it can harm flavour and texture.",
+"it": "A volte velature o depositi compaiono solo dopo un po' di tempo in bottiglia, perché alcuni componenti si aggregano lentamente fino a diventare visibili. Il collaggio accelera questo processo: si aggiunge un chiarificante, una sostanza che si lega a certi componenti e forma grumi visibili, poi eliminati con la filtrazione. È molto diffuso per la stabilità, ma alcuni produttori lo evitano perché temono che peggiori aroma e consistenza."
+},
+{
+"en": "fining agent",
+"it": "chiarificante"
+},
+{
+"en": "Filtration",
+"it": "La filtrazione"
+},
+{
+"en": "Filtration physically removes particles by passing the wine through a filter, after fermentation, during maturation and usually before bottling. Depth filters are a thick layer of material that traps particles inside it: they cope with very cloudy wine and can remove the gross lees. Surface filters are like very fine sieves that trap particles on their surface: expensive and easily clogged, they are used after a depth filter. When the pores are small enough to remove yeast and bacteria, this is sterile filtration, a final step before bottling. Some wines, though, are bottled unfiltered.",
+"it": "La filtrazione toglie fisicamente le particelle facendo passare il vino attraverso un filtro, dopo la fermentazione, durante l'affinamento e di solito prima dell'imbottigliamento. I filtri di profondità sono uno strato spesso di materiale che trattiene le particelle al suo interno: reggono vini molto torbidi e servono a togliere le fecce grossolane. I filtri di superficie sono come setacci finissimi che trattengono le particelle in superficie: costosi e facili da intasare, si usano dopo un filtro di profondità. Se i pori fermano anche lieviti e batteri si parla di filtrazione sterile, l'ultimo passaggio prima della bottiglia. Alcuni vini però si imbottigliano non filtrati."
+},
+{
+"en": "depth",
+"it": "di profondità"
+},
+{
+"en": "surface · sterile",
+"it": "di superficie · sterile"
+},
+{
+"en": "Tartrate stabilisation",
+"it": "La stabilizzazione tartarica"
+},
+{
+"en": "A wine is stable if, over its expected life, it changes slowly and predictably: an inexpensive red to drink within a year should not throw a deposit, while a Vintage Port aged for decades will throw a thick one. Tartaric acid is less soluble in wine than in juice and over time forms crystals called tartrates: clear in white wine, purple in red. They are harmless and flavourless but put consumers off. Cold makes them form, so a long maturation in a cool cellar removes some; otherwise the wine is chilled below 0 °C for a short time and the crystals are filtered out.",
+"it": "Un vino è stabile quando, nel tempo previsto, cambia in modo lento e prevedibile: un rosso economico da bere entro un anno non deve fare depositi, mentre un Vintage Port invecchiato decenni ne avrà parecchi. L'acido tartarico è meno solubile nel vino che nel mosto e col tempo forma cristalli: trasparenti nei bianchi, viola nei rossi. Sono innocui e insapori, ma ai consumatori non piacciono. Il freddo li fa formare, quindi un lungo affinamento in cantina fresca ne elimina una parte; altrimenti si raffredda il vino sotto 0 °C per poco tempo e si filtrano i cristalli."
+},
+{
+"en": "Microbiological and oxygen stability",
+"it": "Stabilità microbiologica e ossigeno"
+},
+{
+"en": "Many yeasts and bacteria can spoil wine and thrive in residues, so equipment must be kept spotless. Only fortified wines are safe, because their alcohol is toxic to all microorganisms. A dry, high-acid wine that has gone through MLF is quite resistant, and some winemakers choose not to sterile filter it. At risk are wines without MLF, with low to medium alcohol, low acidity and some residual sugar: they need SO₂ and sterile filtration. Against oxygen, SO₂ is kept topped up and bottles are flushed with carbon dioxide or nitrogen before filling.",
+"it": "Molti lieviti e batteri possono rovinare un vino e prosperano nei residui: le attrezzature vanno tenute pulitissime. Solo i fortificati sono al sicuro, perché il loro alcol è tossico per tutti i microrganismi. Un vino secco, molto acido e che ha fatto la malolattica resiste bene, e alcuni preferiscono non filtrarlo sterile. Sono invece a rischio i vini senza malolattica, con alcol medio-basso, poca acidità e un po' di zucchero: servono solforosa e filtrazione sterile. Contro l'ossigeno si tiene la solforosa al giusto livello e si lavano le bottiglie con anidride carbonica o azoto prima del riempimento."
+},
+{
+"en": "at risk: no MLF, low alcohol, low acid, sugar",
+"it": "a rischio: niente MLF, poco alcol, poca acidità, zucchero"
+},
+{
+"en": "safe: fortified wines",
+"it": "al sicuro: fortificati"
+},
+{
+"en": "bottle flushed with CO₂/N₂",
+"it": "bottiglia lavata con CO₂/N₂"
+},
+{
+"en": "Packaging",
+"it": "Il confezionamento"
+},
+{
+"en": "Most wine is sold in glass bottles: portable, cheap, strong, airtight and taint-free. But they are heavy and rigid: weight adds transport costs and, once opened, a part-full bottle holds air. Hence lighter glass, or shipping wine in bulk to be bottled nearer the market. Plastic bottles are much lighter but let small amounts of air through, so wine loses freshness within months. Bag-in-box collapses as the wine is drunk, but some air passes through the bag: it should be used within about 18 months. For long ageing, glass remains the best option.",
+"it": "Quasi tutto il vino si vende in bottiglie di vetro: portatili, economiche, robuste, non lasciano entrare aria e non alterano il gusto. Sono però pesanti e rigide: pesano sul trasporto e, una volta aperte, lasciano aria nella bottiglia. Per questo si usa vetro più leggero o si spedisce il vino sfuso per imbottigliarlo vicino al mercato. Le bottiglie di plastica sono più leggere ma lasciano passare un po' d'aria, e il vino perde freschezza in pochi mesi. Il bag-in-box si affloscia mentre si beve, ma un po' d'aria passa dal sacchetto: va consumato entro circa 18 mesi. Per invecchiare, il vetro resta la scelta migliore."
+},
+{
+"en": "glass",
+"it": "vetro"
+},
+{
+"en": "plastic: months",
+"it": "plastica: mesi"
+},
+{
+"en": "Closures",
+"it": "I tappi"
+},
+{
+"en": "Cork is the original closure and still the most widely used; for wines meant to age it lets in a very small amount of oxygen, an ideal balance of primary and tertiary characters for many winemakers. A small percentage of bottles suffer cork taint from TCA, smelling mouldy and of cardboard, and others let in too much oxygen. Synthetic corks, plastic, once only for wines drunk within a year, now come in premium versions for longer storage. Screw caps do not taint, give an airtight seal and preserve fruit longer; their suitability for long ageing is still debated and some now allow a little oxygen through. Each market has its own preferences.",
+"it": "Il sughero è la chiusura originaria e ancora la più diffusa; per i vini da invecchiare lascia entrare pochissimo ossigeno, un equilibrio ideale tra aromi primari e terziari per molti produttori. Una piccola percentuale di bottiglie però sa di tappo, per il TCA, che dà odore di muffa e cartone, e altre lasciano entrare troppo ossigeno. I tappi sintetici, di plastica, un tempo solo per vini da bere entro un anno, oggi hanno versioni di qualità per conservazioni più lunghe. Il tappo a vite non altera il vino, chiude ermeticamente e conserva più a lungo il frutto; si discute ancora sull'invecchiamento e alcuni oggi lasciano passare un po' d'ossigeno. Ogni mercato ha le sue preferenze."
+},
+{
+"en": "cork",
+"it": "sughero"
+},
+{
+"en": "sparkling",
+"it": "spumante"
+},
+{
+"en": "stopper",
+"it": "a fungo"
+},
+{
+"en": "synthetic",
+"it": "sintetico"
+},
+{
+"en": "screw cap",
+"it": "a vite"
+},
+{
+"en": "Post-bottling maturation",
+"it": "L'affinamento in bottiglia"
+},
+{
+"en": "Most wines are best drunk within a year of bottling: ageing would lose their fresh fruit. Some, however, mature in bottle for years and are not at their best at first: for example Vintage Port, the finest German Rieslings and Bordeaux crus classés. The chemistry is still poorly understood, but storage is clear: undisturbed in a cool, dark place at a constant temperature, ideally 10–15 °C, with constant humidity and, if sealed with cork, lying down so the cork stays moist and seals well.",
+"it": "La maggior parte dei vini va bevuta entro un anno dall'imbottigliamento: invecchiando perderebbe il frutto fresco. Alcuni invece migliorano in bottiglia per anni e non danno il meglio subito: per esempio il Vintage Port, i grandi Riesling tedeschi e i crus classés di Bordeaux. La chimica di questo processo è ancora poco conosciuta, ma si sa come conservarli: al buio, al fresco, a temperatura costante, idealmente tra 10 e 15 °C, con umidità costante e, se chiusi con il sughero, coricati, perché il tappo resti umido e sigilli bene."
+},
+{
+"en": "sorting",
+"it": "cernita"
+},
+{
+"en": "destem",
+"it": "diraspatura"
+},
+{
+"en": "crush",
+"it": "pigiatura"
+},
+{
+"en": "skin contact",
+"it": "contatto bucce"
+},
+{
+"en": "press",
+"it": "pressatura"
+},
+{
+"en": "juice",
+"it": "mosto"
+}
+]

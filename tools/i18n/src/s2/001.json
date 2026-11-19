@@ -1,0 +1,1462 @@
+[
+{
+"en": "Raw materials and fermentation",
+"it": "Materie prime e fermentazione"
+},
+{
+"en": "How distillation works",
+"it": "Principi della distillazione"
+},
+{
+"en": "After distillation",
+"it": "Dopo la distillazione"
+},
+{
+"en": "Fruit spirits: Cognac and Armagnac",
+"it": "Distillati di frutta: Cognac e Armagnac"
+},
+{
+"en": "Calvados, Grappa and Pisco",
+"it": "Calvados, Grappa e Pisco"
+},
+{
+"en": "Irish, Canadian and Japanese whisky",
+"it": "Whisky di Irlanda, Canada e Giappone"
+},
+{
+"en": "Tequila and Mezcal",
+"it": "Tequila e Mezcal"
+},
+{
+"en": "Other flavoured spirits",
+"it": "Altri aromatizzati: anice, amari, rum speziato, vodka aromatizzata"
+},
+{
+"en": "Liqueurs",
+"it": "Liquori"
+},
+{
+"en": "Aromatised wines: vermouth",
+"it": "Vini aromatizzati: il vermouth"
+},
+{
+"en": "Workstation, tools and glassware",
+"it": "Postazione, attrezzi e bicchieri"
+},
+{
+"en": "Ingredients and balance",
+"it": "Ingredienti ed equilibrio"
+},
+{
+"en": "Tasting and judging spirits",
+"it": "Degustare e valutare i distillati"
+},
+{
+"en": "Spirits production",
+"it": "Produzione dei distillati"
+},
+{
+"en": "The principal spirits",
+"it": "I principali distillati del mondo"
+},
+{
+"en": "Flavoured spirits, liqueurs, aromatised wines",
+"it": "Aromatizzati, liquori e vini aromatizzati"
+},
+{
+"en": "f3",
+"it": "f1"
+},
+{
+"en": "The bar and cocktails",
+"it": "Il bar e i cocktail"
+},
+{
+"en": "What is the correct order of the four stages of spirit production?",
+"it": "Qual è l'ordine corretto delle quattro tappe di produzione di un distillato?"
+},
+{
+"en": "Fermentation, raw material, distillation, compulsory ageing",
+"it": "Fermentazione, materia prima, distillazione, invecchiamento obbligatorio"
+},
+{
+"en": "Raw material, fermentation, post-distillation, distillation",
+"it": "Materia prima, fermentazione, operazioni finali, distillazione"
+},
+{
+"en": "A sugary liquid is made first, then fermented, distilled and finally prepared for sale.",
+"it": "Prima si crea un liquido zuccherino, poi lo si fa fermentare, lo si distilla e infine lo si prepara per la vendita."
+},
+{
+"en": "You cannot distil a liquid that does not yet contain alcohol, so fermentation must come before distillation. Post-distillation steps such as dilution or filtration come last. Ageing is not a compulsory stage for every spirit: many are never aged.",
+"it": "Non si può distillare un liquido che non contiene ancora alcol: la fermentazione deve precedere la distillazione. Le operazioni finali, come diluizione o filtrazione, arrivano per ultime. L'invecchiamento non è una tappa obbligatoria per tutti i distillati: molti non lo fanno."
+},
+{
+"en": "Which two things does a raw material provide to a distiller?",
+"it": "Quali sono le due cose che una materia prima fornisce a chi distilla?"
+},
+{
+"en": "Carbohydrates and congeners",
+"it": "Carboidrati e congeneri"
+},
+{
+"en": "Yeast and carbon dioxide",
+"it": "Lieviti e anidride carbonica"
+},
+{
+"en": "Colour and sweetness ready for the bottle",
+"it": "Colore e dolcezza già pronti per la bottiglia"
+},
+{
+"en": "Alcohol and enzymes",
+"it": "Alcol ed enzimi"
+},
+{
+"en": "The raw material offers a carbohydrate store for yeast and a set of flavours, the congeners.",
+"it": "La materia prima offre una riserva di carboidrati per i lieviti e un insieme di aromi, i congeneri."
+},
+{
+"en": "Carbohydrates are yeast food; congeners are the flavour compounds. Yeast is added by the producer and carbon dioxide is created during fermentation. Alcohol is not in the raw material: the yeast makes it.",
+"it": "I carboidrati sono il cibo dei lieviti; i congeneri sono le sostanze aromatiche. I lieviti vengono aggiunti dal produttore e l'anidride carbonica nasce in fermentazione. L'alcol non è nella materia prima: lo producono i lieviti."
+},
+{
+"en": "What are the compounds responsible for a spirit's aromas and flavours called?",
+"it": "Come si chiamano le sostanze responsabili di aromi e sapori in un distillato?"
+},
+{
+"en": "Congeners",
+"it": "Congeneri"
+},
+{
+"en": "Starches",
+"it": "Amidi"
+},
+{
+"en": "Congeners are the compounds that give aroma and taste.",
+"it": "I congeneri sono i composti che danno profumo e gusto."
+},
+{
+"en": "Some congeners come from the raw material, others form during fermentation or maturation. Enzymes convert starch into sugar; they do not provide aroma. Starch is a carbohydrate yeast cannot use directly.",
+"it": "Alcuni congeneri vengono dalla materia prima, altri nascono durante la fermentazione o la maturazione. Gli enzimi servono a trasformare l'amido in zucchero, non a profumare. L'amido è un carboidrato che i lieviti non possono usare direttamente."
+},
+{
+"en": "Which of these raw materials already contains sugars that yeast can use straight away?",
+"it": "Quale di queste materie prime contiene già zuccheri che i lieviti possono usare subito?"
+},
+{
+"en": "Freshly harvested raw agave",
+"it": "Agave cruda appena raccolta"
+},
+{
+"en": "Sugar cane, like grapes, stores simple sugars.",
+"it": "La canna da zucchero, come l'uva, immagazzina zuccheri semplici."
+},
+{
+"en": "Barley and potatoes store starch, which has to be converted with enzymes. Agave stores inulin, which only becomes sugar when cooked: raw, it is not ready for yeast.",
+"it": "Orzo e patate conservano amido, che deve essere convertito con enzimi. L'agave immagazzina inulina, che si trasforma in zucchero solo con la cottura: cruda non è pronta per i lieviti."
+},
+{
+"en": "In what form does agave store its carbohydrates?",
+"it": "In quale forma l'agave immagazzina i suoi carboidrati?"
+},
+{
+"en": "Inulin",
+"it": "Inulina"
+},
+{
+"en": "Starch",
+"it": "Amido"
+},
+{
+"en": "Sucrose ready to ferment",
+"it": "Saccarosio pronto da fermentare"
+},
+{
+"en": "Esters",
+"it": "Esteri"
+},
+{
+"en": "The heart of the agave keeps its reserves as inulin.",
+"it": "Il cuore dell'agave conserva le riserve sotto forma di inulina."
+},
+{
+"en": "Inulin is a complex carbohydrate, like starch, but it is typical of agave; cooking turns it into sugars. Starch is found in grains and potatoes. Esters are not carbohydrates at all: they are fruity congeners formed in fermentation.",
+"it": "L'inulina è un carboidrato complesso, come l'amido, ma è tipico dell'agave; la cottura la trasforma in zuccheri. L'amido si trova nei cereali e nelle patate. Gli esteri non sono carboidrati: sono congeneri fruttati nati in fermentazione."
+},
+{
+"en": "During malting, what does the sprouting barley produce?",
+"it": "Durante la maltazione, che cosa produce l'orzo che germoglia?"
+},
+{
+"en": "Enzymes that can turn starch into sugar",
+"it": "Enzimi capaci di trasformare l'amido in zucchero"
+},
+{
+"en": "Alcohol, which is later concentrated in the still",
+"it": "Alcol, che poi viene concentrato nell'alambicco"
+},
+{
+"en": "Inulin, which makes the grains sweeter",
+"it": "Inulina, che rende i chicchi più dolci"
+},
+{
+"en": "Natural yeast ready for fermentation",
+"it": "Lieviti naturali pronti per la fermentazione"
+},
+{
+"en": "The young plant releases enzymes that are later used to convert starch.",
+"it": "La piantina che cresce libera enzimi che servono poi a convertire l'amido."
+},
+{
+"en": "Dampened, warm grains sprout and produce enzymes; heat then stops the growth. When the malted barley is ground and mixed with warm water, the enzymes turn starch into sugar. No alcohol forms at this stage, and yeast is added later.",
+"it": "I chicchi bagnati e tenuti al caldo germogliano e producono enzimi; poi il calore ferma la crescita. Quando l'orzo maltato viene macinato e mescolato ad acqua calda, gli enzimi trasformano l'amido in zucchero. Non si forma alcol in questa fase, e i lieviti vengono aggiunti più tardi."
+},
+{
+"en": "A producer uses corn and wheat. What is usually done to convert their starch?",
+"it": "Un produttore usa mais e frumento. Che cosa fa di solito per convertirne l'amido?"
+},
+{
+"en": "Cooks them in water, then adds malted barley or enzymes",
+"it": "Li cuoce in acqua, poi aggiunge orzo maltato o enzimi"
+},
+{
+"en": "Ferments them whole with no preparation at all",
+"it": "Li fa fermentare interi senza alcuna preparazione"
+},
+{
+"en": "Distils them straight away to extract the sugar",
+"it": "Li distilla direttamente per estrarne lo zucchero"
+},
+{
+"en": "Smokes them over peat to dissolve the starch",
+"it": "Li affumica con la torba per sciogliere l'amido"
+},
+{
+"en": "Cooking makes the starch soluble, then enzymes turn it into sugar.",
+"it": "La cottura rende solubile l'amido, poi gli enzimi lo trasformano in zucchero."
+},
+{
+"en": "Grains other than barley are usually cooked rather than malted; the enzymes come from a little malted barley or bought-in preparations. Yeast cannot eat starch, so there is no fermentation without conversion. Distillation does not extract sugar, and peat only adds smoky aroma.",
+"it": "I cereali diversi dall'orzo di solito non vengono maltati ma cotti; gli enzimi arrivano da un po' di orzo maltato o da preparati acquistati. I lieviti non possono mangiare l'amido, quindi non si può fermentare senza conversione. La distillazione non estrae zucchero e la torba dà solo aroma affumicato."
+},
+{
+"en": "How is the inulin in agave turned into sugar?",
+"it": "Come si trasforma l'inulina dell'agave in zucchero?"
+},
+{
+"en": "By cooking the piña",
+"it": "Cuocendo la piña"
+},
+{
+"en": "By malting the leaves",
+"it": "Maltando le foglie"
+},
+{
+"en": "By adding malted barley to the raw juice",
+"it": "Aggiungendo orzo maltato al succo crudo"
+},
+{
+"en": "By distilling the raw heart",
+"it": "Distillando il cuore crudo"
+},
+{
+"en": "The heat of cooking converts inulin into sugars.",
+"it": "Il calore della cottura converte l'inulina in zuccheri."
+},
+{
+"en": "The spiky leaves are cut off and discarded: only the heart, the piña, is used; it is cooked and then crushed to release the sweet juice. Malted barley is for grain starch, not agave. Distilling before fermentation would not produce a spirit.",
+"it": "Le foglie spinose vengono tagliate e scartate: si usa solo il cuore, la piña, che viene cotto e poi schiacciato per estrarne il succo dolce. L'orzo maltato serve per l'amido dei cereali, non per l'agave. Distillare prima della fermentazione non produrrebbe un distillato."
+},
+{
+"en": "What is the heart of the agave used for spirits called?",
+"it": "Come si chiama il cuore dell'agave usato per produrre i distillati?"
+},
+{
+"en": "Green malt",
+"it": "Malto verde"
+},
+{
+"en": "Wort",
+"it": "Mosto"
+},
+{
+"en": "Pomace",
+"it": "Vinaccia"
+},
+{
+"en": "The piña is the hard core left once the leaves are removed.",
+"it": "La piña è il cuore duro dell'agave che resta dopo aver tolto le foglie."
+},
+{
+"en": "The piña is where the plant stores its inulin, which is why it is the valuable part. Green malt is sprouted barley before it is heated. Wort is the sweet liquid made from grains, and pomace is what is left of grapes after pressing.",
+"it": "Nella piña la pianta accumula l'inulina, per questo è la parte preziosa. Il malto verde è l'orzo germogliato prima del riscaldamento. Il mosto (wort) è il liquido dolce ottenuto dai cereali e la vinaccia è ciò che resta dell'uva dopo la pressatura."
+},
+{
+"en": "What does yeast produce during alcoholic fermentation?",
+"it": "Che cosa producono i lieviti durante la fermentazione alcolica?"
+},
+{
+"en": "Alcohol, carbon dioxide and congeners",
+"it": "Alcol, anidride carbonica e congeneri"
+},
+{
+"en": "Sugar, oxygen and colour",
+"it": "Zucchero, ossigeno e colore"
+},
+{
+"en": "Starch, water and large amounts of enzymes",
+"it": "Amido, acqua ed enzimi in grande quantità"
+},
+{
+"en": "Pure ethanol only, with nothing else",
+"it": "Solo etanolo puro, senza altre sostanze"
+},
+{
+"en": "Yeast consumes sugar and creates alcohol, carbon dioxide and flavours.",
+"it": "I lieviti consumano lo zucchero e creano alcol, anidride carbonica e aromi."
+},
+{
+"en": "Sugar is the yeast's food, so it is used up, not produced. Besides ethanol, other alcohols and many congeners such as fruity esters are formed: you never get pure ethanol. Carbon dioxide is a waste product that escapes into the air.",
+"it": "Lo zucchero è il cibo dei lieviti, quindi viene consumato, non prodotto. Oltre all'etanolo nascono altri alcoli e molti congeneri, come gli esteri fruttati: non si ottiene mai etanolo puro. L'anidride carbonica è uno scarto che si disperde nell'aria."
+},
+{
+"en": "In a fermentation vat the liquid bubbles as if boiling. What causes this?",
+"it": "In una vasca di fermentazione il liquido fa le bolle come se bollisse. Qual è la causa?"
+},
+{
+"en": "Carbon dioxide released by the yeast",
+"it": "L'anidride carbonica liberata dai lieviti"
+},
+{
+"en": "Ethanol vapour evaporating from the surface",
+"it": "Il vapore di etanolo che evapora dalla superficie"
+},
+{
+"en": "Heat added to speed up the fermentation",
+"it": "Il calore aggiunto per accelerare la fermentazione"
+},
+{
+"en": "Oxygen produced by the malt enzymes",
+"it": "L'ossigeno prodotto dagli enzimi del malto"
+},
+{
+"en": "The bubbles are carbon dioxide, a waste product of fermentation.",
+"it": "Le bolle sono anidride carbonica, uno scarto della fermentazione."
+},
+{
+"en": "An active fermentation looks as if it is boiling, but the liquid is not actually boiling: it is gas rising to the surface. The ethanol stays in the liquid until it is heated in a still. Enzymes do not produce oxygen.",
+"it": "Una fermentazione attiva sembra in ebollizione, ma il liquido non bolle davvero: è il gas che sale in superficie. L'etanolo resta nel liquido finché non lo si scalda in un alambicco. Gli enzimi non producono ossigeno."
+},
+{
+"en": "What is the typical alcoholic strength of the liquid at the end of fermentation?",
+"it": "Qual è la gradazione alcolica tipica del liquido alla fine della fermentazione?"
+},
+{
+"en": "Around 8–10% abv",
+"it": "Circa 8–10% abv"
+},
+{
+"en": "Around 25–30% abv",
+"it": "Circa 25–30% abv"
+},
+{
+"en": "Around 40% abv, ready to bottle",
+"it": "Circa 40% abv, già pronto da imbottigliare"
+},
+{
+"en": "Around 1–2% abv",
+"it": "Circa 1–2% abv"
+},
+{
+"en": "Distillers usually aim for a fermented liquid of about 8–10% abv.",
+"it": "Chi distilla punta di solito a un liquido fermentato tra l'8 e il 10% abv."
+},
+{
+"en": "25–30% abv is the strength of low wines after a first pot-still distillation. 40% is a typical bottling strength, reached only after distillation and dilution. Fermentation alone cannot reach these levels.",
+"it": "Il 25–30% abv è la gradazione dei «low wines» dopo una prima distillazione in alambicco discontinuo. Il 40% è una gradazione tipica da bottiglia, raggiunta solo dopo distillazione e diluizione. La fermentazione da sola non può arrivare a questi livelli."
+},
+{
+"en": "When does alcoholic fermentation end?",
+"it": "Quando finisce la fermentazione alcolica?"
+},
+{
+"en": "When all the sugar has been converted",
+"it": "Quando tutto lo zucchero è stato trasformato"
+},
+{
+"en": "When the liquid reaches 40% abv",
+"it": "Quando il liquido raggiunge il 40% abv"
+},
+{
+"en": "After exactly twenty-four hours in every distillery",
+"it": "Dopo esattamente ventiquattro ore in ogni distilleria"
+},
+{
+"en": "When starch begins to form",
+"it": "Quando l'amido comincia a formarsi"
+},
+{
+"en": "Once the sugar is gone, the yeast has nothing left to convert.",
+"it": "Senza più zucchero, i lieviti non hanno più nulla da trasformare."
+},
+{
+"en": "Fermentation stops when the yeast's food runs out, usually at around 8–10% abv. 40% abv cannot be reached by fermentation. There is no fixed duration shared by everyone, and starch does not form during fermentation.",
+"it": "La fermentazione si ferma quando il cibo dei lieviti è esaurito, di solito intorno all'8–10% abv. Il 40% abv non si raggiunge per fermentazione. Non esiste una durata fissa uguale per tutti, e l'amido non si forma durante la fermentazione."
+},
+{
+"en": "Which alcohol makes up by far the largest part of the fermented liquid?",
+"it": "Quale alcol rappresenta di gran lunga la parte più importante del liquido fermentato?"
+},
+{
+"en": "Ethanol",
+"it": "Etanolo"
+},
+{
+"en": "Methanol",
+"it": "Metanolo"
+},
+{
+"en": "Fusel alcohols",
+"it": "Alcoli fusel"
+},
+{
+"en": "Ethanol accounts for the vast majority of the alcohol volume.",
+"it": "L'etanolo occupa la grande maggioranza del volume degli alcoli."
+},
+{
+"en": "Methanol and fusel alcohols are present, but in much smaller amounts. Ethanol is the alcohol that distillation concentrates most and that gives a spirit its strength. Glycerol is not one of the key alcohols discussed here.",
+"it": "Metanolo e alcoli fusel sono presenti, ma in quantità molto minori. L'etanolo è l'alcol che la distillazione concentra di più e che dà la forza al distillato. La glicerina non è uno degli alcoli chiave considerati qui."
+},
+{
+"en": "Which group of congeners, formed in fermentation, has a fruity smell?",
+"it": "Quale gruppo di congeneri, formato in fermentazione, ha un profumo fruttato?"
+},
+{
+"en": "Inulins",
+"it": "Inuline"
+},
+{
+"en": "Caramels",
+"it": "Caramelli"
+},
+{
+"en": "Esters are fruity-smelling congeners created in fermentation.",
+"it": "Gli esteri sono congeneri dal profumo fruttato che nascono in fermentazione."
+},
+{
+"en": "Enzymes turn starch into sugar and inulin is agave's carbohydrate: neither is an aroma. Caramel is a colouring added after distillation, not a product of fermentation.",
+"it": "Gli enzimi trasformano l'amido in zucchero e l'inulina è il carboidrato dell'agave: nessuno dei due è un aroma. Il caramello è un colorante aggiunto dopo la distillazione, non un prodotto della fermentazione."
+},
+{
+"en": "Why do nearly all distillers use selected yeast?",
+"it": "Perché quasi tutti i distillatori usano lieviti selezionati?"
+},
+{
+"en": "To get the same congeners every time",
+"it": "Per ottenere ogni volta gli stessi congeneri"
+},
+{
+"en": "To reach over 20% abv during fermentation",
+"it": "Per raggiungere più del 20% abv già in fermentazione"
+},
+{
+"en": "To avoid having to distil the liquid twice",
+"it": "Per evitare di dover distillare due volte il liquido"
+},
+{
+"en": "To convert starch without needing enzymes",
+"it": "Per trasformare l'amido senza bisogno di enzimi"
+},
+{
+"en": "Selected yeast gives a reliable, consistent result batch after batch.",
+"it": "I lieviti selezionati danno un risultato affidabile e costante, lotto dopo lotto."
+},
+{
+"en": "Many congeners are formed in fermentation, and an aroma missing after fermentation cannot appear in the spirit. That is why consistent yeast is essential. Yeast does not convert starch and does not change how many distillations are needed.",
+"it": "Molti congeneri nascono in fermentazione, e un aroma assente dopo la fermentazione non può comparire nel distillato. Per questo la costanza dei lieviti è fondamentale. I lieviti non trasformano l'amido e non cambiano il numero di distillazioni necessarie."
+},
+{
+"en": "A desired aroma is missing from the fermented liquid. What will happen after distillation?",
+"it": "Un aroma desiderato manca nel liquido fermentato. Che cosa succederà dopo la distillazione?"
+},
+{
+"en": "It will also be missing from the new spirit",
+"it": "Mancherà anche nel distillato appena prodotto"
+},
+{
+"en": "It will appear thanks to the heat of the still",
+"it": "Comparirà grazie al calore dell'alambicco"
+},
+{
+"en": "It will form in the heads, during the first cut of the second distillation",
+"it": "Si formerà nella testa, durante il primo taglio della seconda distillazione"
+},
+{
+"en": "It will develop if distilled to a higher strength",
+"it": "Si svilupperà se si distilla a gradazione più alta"
+},
+{
+"en": "Distillation can only select and concentrate what is already present.",
+"it": "La distillazione può solo selezionare e concentrare ciò che è già presente."
+},
+{
+"en": "The still does not create new aromas: it separates and concentrates existing ones. Distilling to a higher strength actually reduces the number of congeners. The heads contain volatile, solvent-smelling compounds, not new aromas appearing from nowhere.",
+"it": "L'alambicco non crea nuovi aromi: separa e concentra quelli esistenti. Distillare a gradazione più alta, anzi, riduce il numero di congeneri. Le teste contengono composti volatili dall'odore di solvente, non aromi nuovi nati dal nulla."
+},
+{
+"en": "A US label says 90 proof. What strength is that?",
+"it": "Un'etichetta americana indica 90 proof. A quale gradazione corrisponde?"
+},
+{
+"en": "45% abv",
+"it": "45% abv"
+},
+{
+"en": "90% abv",
+"it": "90% abv"
+},
+{
+"en": "30% abv",
+"it": "30% abv"
+},
+{
+"en": "60% abv",
+"it": "60% abv"
+},
+{
+"en": "Two degrees proof equal 1% abv, so 90 proof = 45% abv.",
+"it": "Due gradi proof equivalgono all'1% abv, quindi 90 proof = 45% abv."
+},
+{
+"en": "Simply halve the proof figure. Mixing up proof and abv would suggest 90%, the strength of a near-neutral spirit. The word 'overproof' seen on some rum labels belongs to a different, historic system that is no longer used.",
+"it": "Basta dividere per due il valore in proof. Confondere proof e abv porterebbe a pensare a un 90%, gradazione da spirito neutro. Il termine «overproof» visto su alcune etichette di rum appartiene a un vecchio sistema diverso, oggi non più usato."
+},
+{
+"en": "Which spirit is the exception because nearly all congeners are removed?",
+"it": "Quale distillato è l'eccezione perché quasi tutti i congeneri vengono eliminati?"
+},
+{
+"en": "Rhum agricole",
+"it": "Rum agricolo"
+},
+{
+"en": "In vodka, the producer removes almost all congeners, so the raw material shows little.",
+"it": "Nella vodka il produttore elimina quasi tutti i congeneri, quindi la materia prima si sente poco."
+},
+{
+"en": "Tequila, Cognac and rhum agricole aim instead to keep raw-material character: Tequila, for instance, always shows earthy, peppery blue-agave notes. Vodka is designed to be almost neutral.",
+"it": "Tequila, Cognac e rum agricolo puntano invece a conservare il carattere della materia prima: la Tequila, per esempio, ha sempre note terrose e pepate dell'agave blu. La vodka è pensata per essere quasi neutra."
+},
+{
+"en": "Why can a small flaw in the raw material spoil a spirit?",
+"it": "Perché un piccolo difetto della materia prima può rovinare un distillato?"
+},
+{
+"en": "Because distillation concentrates it",
+"it": "Perché la distillazione lo concentra"
+},
+{
+"en": "Because yeast always turns it into pure methanol",
+"it": "Perché i lieviti lo trasformano sempre in metanolo puro"
+},
+{
+"en": "Because it blocks starch conversion",
+"it": "Perché blocca la conversione dell'amido"
+},
+{
+"en": "Because it darkens the spirit during final bottling",
+"it": "Perché scurisce il distillato durante l'imbottigliamento finale"
+},
+{
+"en": "Distillation concentrates aromas, faulty ones included.",
+"it": "La distillazione concentra gli aromi, compresi quelli difettosi."
+},
+{
+"en": "As in a reduced sauce, something barely noticeable becomes obvious. That is why a quality spirit needs quality raw materials. The other answers describe effects that have nothing to do with concentration.",
+"it": "Come in una salsa ridotta, ciò che era appena percettibile diventa evidente. Per questo per un distillato di qualità servono materie prime di qualità. Le altre risposte descrivono effetti che non hanno nulla a che vedere con la concentrazione."
+},
+{
+"en": "For a potato vodka, how is the starch converted into sugar?",
+"it": "Per una vodka di patate, come si converte l'amido in zucchero?"
+},
+{
+"en": "Cooking in water, then bought-in enzymes",
+"it": "Cottura in acqua, poi enzimi acquistati"
+},
+{
+"en": "Malting the potatoes in a warm room",
+"it": "Maltazione delle patate in una stanza calda"
+},
+{
+"en": "Direct fermentation of raw, chopped potatoes",
+"it": "Fermentazione diretta delle patate crude tagliate a pezzi"
+},
+{
+"en": "Slow cooking in brick ovens, as for agave",
+"it": "Cottura lenta in forni di mattoni, come per l'agave"
+},
+{
+"en": "Cooked potatoes become a liquid full of dissolved starch, then enzymes turn it into sugar.",
+"it": "Le patate cotte diventano un liquido pieno di amido sciolto, poi gli enzimi lo trasformano in zucchero."
+},
+{
+"en": "It is a two-step process: cooking makes the starch soluble and enzymes convert it. Potatoes are not malted, and raw they cannot ferment because yeast does not eat starch. With agave, heat alone works because inulin behaves differently from starch.",
+"it": "È un processo in due fasi: la cottura rende solubile l'amido e gli enzimi lo convertono. Le patate non si maltano, e crude non possono fermentare perché i lieviti non mangiano l'amido. Nell'agave basta il calore perché l'inulina reagisce diversamente dall'amido."
+},
+{
+"en": "Which statement about the sugary liquid a spirit starts from is true?",
+"it": "Quale affermazione sul liquido zuccherino da cui parte un distillato è vera?"
+},
+{
+"en": "It can come from any farm product with carbohydrates",
+"it": "Si può ottenere da qualsiasi prodotto agricolo con carboidrati"
+},
+{
+"en": "It can only come from grapes or other fruit",
+"it": "Si ottiene soltanto da uva o da altra frutta"
+},
+{
+"en": "It must always contain at least 10% alcohol before fermentation",
+"it": "Deve sempre contenere almeno il 10% di alcol prima della fermentazione"
+},
+{
+"en": "It is made only from malted grains",
+"it": "Si ricava solo da cereali maltati"
+},
+{
+"en": "Grapes, grains, cane, potatoes, agave: all that is needed is carbohydrate.",
+"it": "Uva, cereali, canna, patate, agave: basta che ci siano carboidrati."
+},
+{
+"en": "The whole aim of the first stage is to turn carbohydrates into a sugary liquid. There is no alcohol before fermentation, so the third option is impossible. Fruit and malted grains are only some of the many possible raw materials.",
+"it": "Lo scopo della prima tappa è proprio trasformare i carboidrati in un liquido zuccherino. Prima della fermentazione non c'è alcol, quindi la terza opzione è impossibile. Frutta e cereali maltati sono solo alcune delle molte materie prime possibili."
+},
+{
+"en": "In what form do grains store their carbohydrates?",
+"it": "In quale forma i cereali conservano i loro carboidrati?"
+},
+{
+"en": "Simple sugars ready for the yeast",
+"it": "Zuccheri semplici pronti per i lieviti"
+},
+{
+"en": "Inulin, like agave",
+"it": "Inulina, come l'agave"
+},
+{
+"en": "Grains store starch, which must be turned into sugar before fermentation.",
+"it": "I cereali accumulano amido, che va trasformato in zucchero prima della fermentazione."
+},
+{
+"en": "Barley, corn, wheat and rye hold starch, which yeast cannot feed on directly. Inulin is agave's store, not that of grains. Esters are fruity congeners made during fermentation, not a plant's reserve.",
+"it": "Orzo, mais, frumento e segale contengono amido: i lieviti non possono nutrirsene direttamente. L'inulina è la riserva dell'agave, non dei cereali. Gli esteri sono congeneri fruttati prodotti dalla fermentazione, non una riserva della pianta."
+},
+{
+"en": "Which pair of raw materials needs its carbohydrates converted before fermentation?",
+"it": "Quale coppia di materie prime richiede una trasformazione dei carboidrati prima della fermentazione?"
+},
+{
+"en": "Grains and agave",
+"it": "Cereali e agave"
+},
+{
+"en": "Grapes and sugar cane",
+"it": "Uva e canna da zucchero"
+},
+{
+"en": "Freshly picked and pressed apples and pears",
+"it": "Mele e pere appena raccolte e pressate"
+},
+{
+"en": "Grapes and molasses",
+"it": "Uva e melassa"
+},
+{
+"en": "Grains (starch) and agave (inulin) hold complex carbohydrates that must become sugars.",
+"it": "Cereali (amido) e agave (inulina) hanno carboidrati complessi da convertire in zuccheri."
+},
+{
+"en": "Grapes, fruit, cane juice and molasses already hold sugars the yeast can use. Grains need enzymes, and agave needs its piña cooked. That is why raw-material processing differs so much between spirits.",
+"it": "Uva, frutta, succo di canna e melassa contengono già zuccheri che i lieviti possono consumare. Per i cereali servono enzimi, per l'agave la cottura della piña. Per questo la lavorazione della materia prima cambia tanto da un distillato all'altro."
+},
+{
+"en": "What is the aim of the stage of selecting and processing the raw material?",
+"it": "Qual è l'obiettivo della fase di scelta e lavorazione della materia prima?"
+},
+{
+"en": "To obtain a sugary liquid",
+"it": "Ottenere un liquido zuccherino"
+},
+{
+"en": "To obtain an already alcoholic liquid of about 10% abv",
+"it": "Ottenere un liquido già alcolico intorno al 10% abv"
+},
+{
+"en": "To remove all the congeners",
+"it": "Eliminare tutti i congeneri"
+},
+{
+"en": "The aim is to use the raw material's carbohydrates to create a sugary liquid.",
+"it": "Lo scopo è usare i carboidrati della materia prima per creare un liquido ricco di zuccheri."
+},
+{
+"en": "The roughly 10% alcoholic liquid only appears later, with fermentation. The raw material's congeners are often valuable, so they are not removed at this stage. Colour comes after distillation.",
+"it": "Il liquido alcolico al 10% circa nasce solo dopo, con la fermentazione. I congeneri della materia prima sono spesso preziosi, quindi non si eliminano a questo stadio. Il colore arriva dopo la distillazione."
+},
+{
+"en": "What does 'abv' mean?",
+"it": "Che cosa significa la sigla abv?"
+},
+{
+"en": "The percentage of the liquid's volume that is alcohol",
+"it": "La percentuale del volume del liquido che è alcol"
+},
+{
+"en": "The weight of alcohol in grams per litre",
+"it": "Il peso dell'alcol in grammi per litro"
+},
+{
+"en": "The proof system used in the USA",
+"it": "Il sistema proof usato negli Stati Uniti"
+},
+{
+"en": "The amount of sugar left after fermentation",
+"it": "La quantità di zucchero rimasta dopo la fermentazione"
+},
+{
+"en": "abv stands for alcohol by volume: 10% abv means a tenth of the liquid is alcohol.",
+"it": "abv sta per alcol in volume: 10% abv vuol dire che un decimo del liquido è alcol."
+},
+{
+"en": "It is a volume measure, not a weight. Proof is a different US scale: two degrees proof equal 1% abv. Residual sugar is irrelevant: by the end of fermentation it has all been used up.",
+"it": "È una misura di volume, non di peso. Il sistema proof è un'altra scala americana: due gradi proof valgono 1% abv. Lo zucchero residuo non c'entra: a fine fermentazione è stato consumato tutto."
+},
+{
+"en": "Which product of fermentation is treated as waste?",
+"it": "Quale prodotto della fermentazione è considerato uno scarto?"
+},
+{
+"en": "The fruity-smelling esters",
+"it": "Gli esteri dal profumo fruttato"
+},
+{
+"en": "The congeners the distiller will later select in the still",
+"it": "I congeneri che il distillatore selezionerà poi nell'alambicco"
+},
+{
+"en": "The CO₂ escapes: the distiller is interested in the alcohol and congeners.",
+"it": "La CO₂ si disperde: al distillatore interessano alcol e congeneri."
+},
+{
+"en": "Ethanol, esters and other congeners are exactly what distillation will select and concentrate. Carbon dioxide, by contrast, leaves the liquid as bubbles and plays no part in the spirit.",
+"it": "Etanolo, esteri e altri congeneri sono proprio ciò che la distillazione selezionerà e concentrerà. L'anidride carbonica invece esce dal liquido sotto forma di bolle e non ha alcun ruolo nel distillato."
+},
+{
+"en": "Besides ethanol, which important alcohols are found in the fermented liquid?",
+"it": "Oltre all'etanolo, quali alcoli importanti si trovano nel liquido fermentato?"
+},
+{
+"en": "Methanol and fusel alcohols",
+"it": "Metanolo e alcoli superiori (fusel)"
+},
+{
+"en": "Esters and inulin",
+"it": "Esteri e inulina"
+},
+{
+"en": "None: ethanol is the only alcohol yeast produce",
+"it": "Nessuno: l'etanolo è l'unico alcol prodotto dai lieviti"
+},
+{
+"en": "Sugar and starch",
+"it": "Zucchero e amido"
+},
+{
+"en": "Alongside ethanol, by far the main one, there are methanol and fusel alcohols.",
+"it": "Accanto all'etanolo, di gran lunga il principale, ci sono metanolo e alcoli superiori."
+},
+{
+"en": "Yeast make many different alcohols, even though ethanol takes up almost all the alcohol volume. Esters are congeners and inulin is an agave carbohydrate. Sugar and starch are not alcohols.",
+"it": "I lieviti producono molti alcoli diversi, anche se l'etanolo occupa la quasi totalità del volume alcolico. Gli esteri sono congeneri, l'inulina è un carboidrato dell'agave. Zucchero e amido non sono alcoli."
+},
+{
+"en": "Where do the congeners in a fermented liquid come from?",
+"it": "Da dove vengono i congeneri presenti nel liquido fermentato?"
+},
+{
+"en": "Partly from the raw material, partly from fermentation",
+"it": "In parte dalla materia prima, in parte dalla fermentazione"
+},
+{
+"en": "Only from the raw material",
+"it": "Solo dalla materia prima"
+},
+{
+"en": "Only from the still, which creates them by heating the liquid",
+"it": "Solo dall'alambicco, che li crea scaldando il liquido"
+},
+{
+"en": "Only from the oak barrel",
+"it": "Solo dalla botte di quercia"
+},
+{
+"en": "Some congeners come straight from the raw material, others are created during fermentation.",
+"it": "Alcuni congeneri arrivano direttamente dalla materia prima, altri nascono durante la fermentazione."
+},
+{
+"en": "Fruity esters, for instance, are made by yeast. The still invents no aromas: it selects and concentrates those already there. Oak adds further congeners, but only after distillation.",
+"it": "Gli esteri fruttati, per esempio, sono creati dai lieviti. L'alambicco non inventa aromi: seleziona e concentra quelli che ci sono già. La quercia aggiunge altri congeneri, ma solo dopo la distillazione."
+},
+{
+"en": "All Tequilas share earthy, peppery notes. Where do they come from?",
+"it": "Tutte le Tequila condividono note terrose e pepate. Da dove vengono?"
+},
+{
+"en": "From the raw material, blue agave",
+"it": "Dalla materia prima, l'agave blu"
+},
+{
+"en": "From the barrels Tequila must legally age in",
+"it": "Dalle botti in cui la Tequila deve invecchiare per legge"
+},
+{
+"en": "From peat smoke used in cooking",
+"it": "Dal fumo di torba usato nella cottura"
+},
+{
+"en": "From flavourings added after distillation",
+"it": "Da aromi aggiunti dopo la distillazione"
+},
+{
+"en": "These aromas come with the raw material: an example of how much the ingredient matters.",
+"it": "Sono aromi che la materia prima porta con sé: un esempio di come conta la scelta dell'ingrediente."
+},
+{
+"en": "A raw material gives two things: carbohydrates and its own set of flavours. Tequila need not be aged, peat concerns malted barley, and no added flavourings are needed for these notes.",
+"it": "Una materia prima dà al distillatore due cose: carboidrati e un proprio insieme di aromi. La Tequila non deve per forza invecchiare, la torba riguarda il malto d'orzo e non c'è bisogno di aromi aggiunti per avere queste note."
+},
+{
+"en": "Why are some distillers not free to choose their raw material?",
+"it": "Perché alcuni distillatori non possono scegliere liberamente la materia prima?"
+},
+{
+"en": "Local laws set it for certain styles",
+"it": "Le leggi locali la impongono per certi stili"
+},
+{
+"en": "Because selected yeasts work with only one sugar",
+"it": "Perché i lieviti selezionati funzionano con un solo zucchero"
+},
+{
+"en": "Because column stills only accept grains",
+"it": "Perché le colonne accettano solo cereali"
+},
+{
+"en": "Because each country grows only one farm raw material",
+"it": "Perché ogni Paese produce una sola materia prima agricola"
+},
+{
+"en": "Anyone making a protected style, such as Tequila, must follow its raw-material rules.",
+"it": "Chi vuole produrre uno stile protetto, come la Tequila, deve rispettare le regole sulla materia prima."
+},
+{
+"en": "In principle a spirit can be made from any farm product with carbohydrates. The limits come from the law for that type of spirit. Neither yeast nor stills restrict the choice to one raw material.",
+"it": "In linea di principio un distillato si può fare con qualsiasi prodotto agricolo con carboidrati. I limiti vengono dalla legge del tipo di distillato. Né i lieviti né gli alambicchi impongono una sola materia prima."
+},
+{
+"en": "Which of these is NOT produced by yeast during fermentation?",
+"it": "Quale di queste sostanze NON è prodotta dai lieviti durante la fermentazione?"
+},
+{
+"en": "Fruity-smelling esters",
+"it": "Esteri dal profumo fruttato"
+},
+{
+"en": "Carbon dioxide rising to the surface",
+"it": "Anidride carbonica che sale in superficie"
+},
+{
+"en": "Starch is a starting carbohydrate in some raw materials, not something yeast make.",
+"it": "L'amido è un carboidrato di partenza di alcune materie prime, non un prodotto dei lieviti."
+},
+{
+"en": "Yeast consume sugars and produce alcohols, congeners such as esters, and carbon dioxide. Starch, by contrast, must be turned into sugar before fermentation can even start.",
+"it": "I lieviti consumano zuccheri e producono alcoli, congeneri come gli esteri e anidride carbonica. L'amido, al contrario, deve essere trasformato in zucchero prima che la fermentazione possa cominciare."
+},
+{
+"en": "Why is the green malt heated during malting?",
+"it": "Perché, durante la maltazione, il malto verde viene riscaldato?"
+},
+{
+"en": "To stop growth once the enzymes have been made",
+"it": "Per fermare la crescita una volta prodotti gli enzimi"
+},
+{
+"en": "To ferment the grains directly",
+"it": "Per far fermentare direttamente i chicchi"
+},
+{
+"en": "To destroy the enzymes, which would spoil the sugar",
+"it": "Per distruggere gli enzimi, che rovinerebbero lo zucchero"
+},
+{
+"en": "To caramelise the starch and colour the future whisky",
+"it": "Per caramellare l'amido e dare colore al futuro whisky"
+},
+{
+"en": "After a few days the young plant has done its job: heat kills it and ends malting.",
+"it": "Dopo pochi giorni la piantina ha fatto il suo lavoro: il calore la uccide e chiude la maltazione."
+},
+{
+"en": "The enzymes are needed afterwards, when the ground malted barley is mixed with warm water to turn starch into sugar. Fermentation needs a sugary liquid and yeast, not whole grains. Whisky's colour does not come from this step.",
+"it": "Gli enzimi servono proprio dopo, quando l'orzo maltato macinato viene mescolato con acqua calda per trasformare l'amido in zucchero. La fermentazione richiede un liquido zuccherino e lieviti, non chicchi interi. Il colore del whisky non nasce qui."
+},
+{
+"en": "A distillery switches to a different yeast strain. What is most likely?",
+"it": "Una distilleria cambia ceppo di lievito. Che cosa è più probabile?"
+},
+{
+"en": "The new spirit's aromas will change",
+"it": "Cambieranno gli aromi del nuovo distillato"
+},
+{
+"en": "Nothing, because distillation erases any difference",
+"it": "Nulla, perché la distillazione elimina ogni differenza"
+},
+{
+"en": "Only the spirit's colour will change",
+"it": "Cambierà solo il colore del distillato"
+},
+{
+"en": "Fermentation will no longer exceed 2% abv",
+"it": "La fermentazione non potrà più superare il 2% abv"
+},
+{
+"en": "Yeast create many congeners: a different strain changes the liquid's aroma profile and so the spirit's.",
+"it": "I lieviti creano molti congeneri: un ceppo diverso cambia il profilo aromatico del liquido e quindi del distillato."
+},
+{
+"en": "That is exactly why most distillers use reliable, selected yeast. Distillation concentrates what is there; it does not erase differences. The distillate is colourless anyway, and a new yeast does not stop fermentation at such a low level.",
+"it": "È proprio per questo che la grande maggioranza dei distillatori usa lieviti selezionati e affidabili. La distillazione concentra ciò che c'è, non cancella le differenze. Il distillato esce comunque incolore, e un cambio di lievito non blocca la fermentazione a valori così bassi."
+},
+{
+"en": "Which statement about raw materials is FALSE?",
+"it": "Quale affermazione sulle materie prime è FALSA?"
+},
+{
+"en": "Only grains and grapes may be used",
+"it": "Si possono usare solo cereali e uva"
+},
+{
+"en": "They provide food for the yeast",
+"it": "Forniscono il cibo per i lieviti"
+},
+{
+"en": "They can give the spirit its own flavours",
+"it": "Possono dare al distillato aromi propri"
+},
+{
+"en": "They must be top quality, as flaws get concentrated",
+"it": "Devono essere di ottima qualità, perché i difetti vengono concentrati"
+},
+{
+"en": "A spirit can be made from any farm product that contains carbohydrates.",
+"it": "Un distillato si può fare con qualsiasi prodotto agricolo che contenga carboidrati."
+},
+{
+"en": "The other three statements are true: the raw material feeds the yeast, brings its own aromatic character and must be sound, since distillation amplifies flaws too. Cane, agave, potatoes and fruit are examples beyond grains and grapes.",
+"it": "Le altre tre frasi sono vere: la materia prima nutre i lieviti, porta un suo carattere aromatico e deve essere sana, perché la distillazione amplifica anche i difetti. Canna, agave, patate e frutta sono esempi oltre a cereali e uva."
+},
+{
+"en": "What is the correct order of steps to make wort from barley?",
+"it": "Qual è l'ordine corretto delle operazioni per ottenere il wort da orzo?"
+},
+{
+"en": "Sprouting, heating, grinding, warm water",
+"it": "Germinazione, riscaldamento, macinatura, acqua calda"
+},
+{
+"en": "Grinding, warm water, sprouting, heating",
+"it": "Macinatura, acqua calda, germinazione, riscaldamento"
+},
+{
+"en": "Heating, sprouting, yeast, grinding",
+"it": "Riscaldamento, germinazione, lieviti, macinatura"
+},
+{
+"en": "Sprouting, yeast, heating, warm water",
+"it": "Germinazione, lieviti, riscaldamento, acqua calda"
+},
+{
+"en": "First the barley sprouts and makes enzymes, then heat stops it; next it is ground and mixed with warm water.",
+"it": "Prima l'orzo germoglia e produce enzimi, poi il calore lo ferma; quindi lo si macina e si mescola con acqua calda."
+},
+{
+"en": "In the warm water the enzymes turn starch into sugar and wort is formed. Yeast only come in afterwards, once the sweet liquid is ready. Heating before sprouting would prevent the enzymes from forming.",
+"it": "Nell'acqua calda gli enzimi trasformano l'amido in zucchero e nasce il wort. I lieviti entrano solo dopo, quando il liquido dolce è pronto. Riscaldare prima di germinare impedirebbe la produzione degli enzimi."
+},
+{
+"en": "Which of these is a congener?",
+"it": "Quale di questi è un congenere?"
+},
+{
+"en": "A fruity-smelling ester",
+"it": "Un estere dal profumo fruttato"
+},
+{
+"en": "The starch stored in cereal grains",
+"it": "L'amido contenuto nei chicchi di cereale"
+},
+{
+"en": "Congeners are the compounds responsible for aromas and flavours, such as fruity esters.",
+"it": "I congeneri sono i composti responsabili di aromi e sapori, come gli esteri fruttati."
+},
+{
+"en": "Water is the main component of the fermented liquid but gives no aroma. Carbon dioxide is a waste product that escapes. Starch is a carbohydrate to be converted, not an aroma compound.",
+"it": "L'acqua è il componente principale del liquido fermentato, ma non dà aroma. L'anidride carbonica è uno scarto che si disperde. L'amido è un carboidrato da trasformare, non un composto aromatico."
+},
+{
+"en": "Which statement about esters is correct?",
+"it": "Quale affermazione sugli esteri è corretta?"
+},
+{
+"en": "They are fruity congeners made in fermentation",
+"it": "Sono congeneri fruttati creati in fermentazione"
+},
+{
+"en": "They are agave's stored carbohydrates",
+"it": "Sono carboidrati di riserva dell'agave"
+},
+{
+"en": "They come only from the oak barrel",
+"it": "Vengono soltanto dalla botte di quercia"
+},
+{
+"en": "They are the cheesy, plastic-smelling compounds typical of the tails",
+"it": "Sono i composti dal profumo di formaggio e plastica tipici delle code"
+},
+{
+"en": "Esters are an important group of fruity-smelling congeners formed during fermentation.",
+"it": "Gli esteri sono un gruppo importante di congeneri dal profumo fruttato, formati durante la fermentazione."
+},
+{
+"en": "Agave's carbohydrate is inulin. Oak brings other aromas such as vanilla and spice. Cheesy, plastic notes belong to the less volatile congeners of the tails.",
+"it": "Il carboidrato dell'agave è l'inulina. La quercia porta altri aromi, come vaniglia e spezie. Le note di formaggio e plastica appartengono ai congeneri meno volatili delle code."
+},
+{
+"en": "What do grain starch and agave inulin have in common?",
+"it": "Che cosa hanno in comune l'amido dei cereali e l'inulina dell'agave?"
+},
+{
+"en": "They are complex carbohydrates yeast cannot use directly",
+"it": "Sono carboidrati complessi che i lieviti non usano direttamente"
+},
+{
+"en": "They are simple sugars ready to ferment",
+"it": "Sono zuccheri semplici pronti per la fermentazione"
+},
+{
+"en": "They are fruity congeners",
+"it": "Sono congeneri fruttati"
+},
+{
+"en": "They are alcohols formed while raw materials are cooked",
+"it": "Sono alcoli che si formano durante la cottura delle materie prime"
+},
+{
+"en": "Both are stores of complex carbohydrate that must be turned into sugars before fermentation.",
+"it": "Entrambi sono riserve di carboidrati complessi: vanno trasformati in zuccheri prima della fermentazione."
+},
+{
+"en": "Starch needs enzymes (malted barley or bought-in enzymes), inulin needs the piña cooked. They are neither ready sugars, congeners nor alcohols: alcohol only appears with yeast.",
+"it": "Per l'amido servono enzimi (orzo maltato o enzimi acquistati), per l'inulina la cottura della piña. Non sono né zuccheri pronti, né congeneri, né alcoli: l'alcol nasce solo con i lieviti."
+},
+{
+"en": "What do yeast feed on during alcoholic fermentation?",
+"it": "Di che cosa si nutrono i lieviti durante la fermentazione alcolica?"
+},
+{
+"en": "Unconverted starch, with no processing needed",
+"it": "Dell'amido intatto, senza bisogno di alcuna trasformazione"
+},
+{
+"en": "Yeast consume the sugars in the liquid and produce alcohols, congeners and carbon dioxide.",
+"it": "I lieviti consumano gli zuccheri del liquido e producono alcoli, congeneri e anidride carbonica."
+},
+{
+"en": "Ethanol and carbon dioxide are what yeast produce, not what they eat. Starch must first become sugar, which is why grains and potatoes need enzymes.",
+"it": "Etanolo e anidride carbonica sono prodotti dei lieviti, non il loro cibo. L'amido deve prima diventare zucchero: per questo cereali e patate hanno bisogno di enzimi."
+},
+{
+"en": "Why does a spirit need distillation if fermentation already makes alcohol?",
+"it": "Perché un distillato ha bisogno della distillazione, se la fermentazione produce già alcol?"
+},
+{
+"en": "Fermentation only reaches about 8–10% abv",
+"it": "La fermentazione arriva solo all'8–10% abv"
+},
+{
+"en": "Fermentation only makes methanol",
+"it": "La fermentazione produce solo metanolo"
+},
+{
+"en": "Distillation is mainly there to add colour",
+"it": "La distillazione serve soprattutto a dare colore"
+},
+{
+"en": "Fermentation already gives 75% abv, but the liquid is cloudy and only needs clearing",
+"it": "La fermentazione dà già il 75% abv, ma il liquido è torbido e va solo chiarificato"
+},
+{
+"en": "The fermented liquid is around 8–10% abv; distillation concentrates the ethanol and selects the congeners.",
+"it": "Il liquido fermentato è intorno all'8–10% abv: la distillazione concentra l'etanolo e sceglie i congeneri."
+},
+{
+"en": "Ethanol, not methanol, is by far the main alcohol of fermentation. Newly made spirit is colourless. A level like 75% is only reached by distillation.",
+"it": "L'etanolo è di gran lunga l'alcol principale della fermentazione, non il metanolo. Il distillato appena prodotto è incolore. Un livello come il 75% si ottiene solo con la distillazione."
+},
+{
+"en": "Do most distillers grow their own raw material?",
+"it": "La maggior parte dei distillatori coltiva da sé la propria materia prima?"
+},
+{
+"en": "No: most buy it in",
+"it": "No: la maggior parte la compra"
+},
+{
+"en": "Yes, the law requires it everywhere",
+"it": "Sì, è obbligatorio per legge ovunque"
+},
+{
+"en": "Yes, all except vodka producers",
+"it": "Sì, tutti tranne i produttori di vodka"
+},
+{
+"en": "No: they only ever buy finished spirit from others",
+"it": "No: comprano sempre e solo distillato già pronto da altre aziende"
+},
+{
+"en": "Only a very few grow their raw material, such as some small Cognac distillers; most buy it in.",
+"it": "Solo pochissimi coltivano la materia prima, come alcuni piccoli distillatori di Cognac; la maggioranza la acquista."
+},
+{
+"en": "There is no general obligation to grow your own. Those who start from a raw material ferment and distil it; others buy in spirit, but that is not the rule for everyone.",
+"it": "Non c'è alcun obbligo generale di coltivare in proprio. Chi parte dalla materia prima la fermenta e la distilla; altri, invece, acquistano distillato, ma non è la regola per tutti."
+},
+{
+"en": "A brandy distiller uses grape juice. Must any carbohydrates be converted before fermenting?",
+"it": "Un distillatore di brandy usa succo d'uva. Deve trasformare dei carboidrati prima di fermentare?"
+},
+{
+"en": "No: grape juice already holds fermentable sugars",
+"it": "No: il succo d'uva contiene già zuccheri fermentabili"
+},
+{
+"en": "Yes, it must be malted like barley",
+"it": "Sì, va maltato come l'orzo"
+},
+{
+"en": "Yes, it must be cooked like an agave piña",
+"it": "Sì, va cotto come la piña dell'agave"
+},
+{
+"en": "Yes, bought-in enzymes are needed as grapes are mostly starch",
+"it": "Sì, servono enzimi acquistati perché l'uva contiene soprattutto amido"
+},
+{
+"en": "Grapes store their carbohydrate as sugars, so fermentation can begin straight away.",
+"it": "L'uva conserva i carboidrati sotto forma di zuccheri: la fermentazione può partire subito."
+},
+{
+"en": "Malting, cooking and enzymes are for starch and inulin, meaning grains, potatoes and agave. Grapes contain no starch to convert.",
+"it": "Maltazione, cottura ed enzimi servono per amido e inulina, cioè per cereali, patate e agave. L'uva non contiene amido da convertire."
+},
+{
+"en": "Which of these is NOT one of the four key production stages?",
+"it": "Quale di queste NON è una delle quattro fasi chiave della produzione?"
+},
+{
+"en": "Ageing in the bottle",
+"it": "L'affinamento in bottiglia"
+},
+{
+"en": "Selecting and processing the raw material",
+"it": "La scelta e la lavorazione della materia prima"
+},
+{
+"en": "The four stages are raw material, fermentation, distillation and post-distillation operations.",
+"it": "Le quattro fasi sono materia prima, fermentazione, distillazione e operazioni dopo la distillazione."
+},
+{
+"en": "Bottle ageing is not part of this framework: maturation, when there is any, takes place in barrels or inert vessels, among the post-distillation operations.",
+"it": "L'affinamento in bottiglia non fa parte di questo schema: la maturazione, quando c'è, avviene in botte o in recipienti inerti, tra le operazioni dopo la distillazione."
+},
+{
+"en": "At which of the four stages does the distiller make choices that shape style and quality?",
+"it": "In quali delle quattro fasi il distillatore fa scelte che influenzano stile e qualità?"
+},
+{
+"en": "At all four",
+"it": "In tutte e quattro"
+},
+{
+"en": "Only at distillation",
+"it": "Solo nella distillazione"
+},
+{
+"en": "Only after distillation",
+"it": "Solo dopo la distillazione"
+},
+{
+"en": "Only in choosing the raw material, since the rest is set by law",
+"it": "Solo nella scelta della materia prima, perché il resto è fissato dalla legge"
+},
+{
+"en": "At every stage, from raw material to finishing, the distiller has choices to make.",
+"it": "In ogni fase, dalla materia prima alla finitura, il distillatore ha delle scelte da fare."
+},
+{
+"en": "The laws for some spirits can limit these choices but do not remove them. Yeast, cuts, barrels and blending are all examples of decisions that change the result.",
+"it": "Le leggi di alcuni distillati possono limitare queste scelte, ma non le eliminano. Lievito, tagli, botti e assemblaggio sono tutti esempi di decisioni che cambiano il risultato."
+},
+{
+"en": "What is the liquid mostly made of at the end of fermentation?",
+"it": "Di che cosa è composto soprattutto il liquido a fine fermentazione?"
+},
+{
+"en": "Water and alcohols",
+"it": "Acqua e alcoli"
+},
+{
+"en": "Almost pure ethanol",
+"it": "Etanolo quasi puro"
+},
+{
+"en": "Esters and other congeners, with very little water",
+"it": "Esteri e altri congeneri, con pochissima acqua"
+},
+{
+"en": "The fermented liquid is mostly water and alcohols, chiefly ethanol.",
+"it": "Il liquido fermentato è fatto in gran parte di acqua e alcoli, soprattutto etanolo."
+},
+{
+"en": "By the end of fermentation the sugar is used up. At 8–10% abv the ethanol is far from pure. Congeners matter hugely for aroma but are a small part of the volume.",
+"it": "A fine fermentazione lo zucchero è stato consumato. Con l'8–10% abv, l'etanolo è ben lontano dall'essere puro. I congeneri contano moltissimo per l'aroma, ma sono una piccola parte del volume."
+},
+{
+"en": "Which of these could NOT be the raw material for a spirit?",
+"it": "Quale di questi NON potrebbe essere la materia prima di un distillato?"
+},
+{
+"en": "Sea salt",
+"it": "Il sale marino"
+},
+{
+"en": "Rice",
+"it": "Il riso"
+},
+{
+"en": "Dates, rich in natural sugars",
+"it": "I datteri, ricchi di zuccheri naturali"
+},
+{
+"en": "A spirit needs a farm product containing carbohydrates; salt is neither agricultural nor a source of sugar.",
+"it": "Serve un prodotto agricolo con carboidrati: il sale non è né agricolo né fonte di zuccheri."
+},
+{
+"en": "Potatoes and rice hold starch to convert, dates ready sugars: all could in principle become a spirit. Without carbohydrates, yeast would have nothing to turn into alcohol.",
+"it": "Patate e riso contengono amido da convertire, i datteri zuccheri già pronti: tutti possono, in principio, diventare un distillato. Senza carboidrati i lieviti non avrebbero nulla da trasformare in alcol."
+},
+{
+"en": "Malting barley, cooking agave and pressing fruit: which stage do these belong to?",
+"it": "Maltare l'orzo, cuocere l'agave e pressare la frutta: a quale fase appartengono?"
+},
+{
+"en": "Post-distillation operations, before bottling",
+"it": "Operazioni dopo la distillazione, prima dell'imbottigliamento"
+},
+{
+"en": "These are all ways of getting a sugary liquid to ferment from the raw material.",
+"it": "Sono tutte tecniche per ricavare dalla materia prima un liquido zuccherino da fermentare."
+},
+{
+"en": "Fermentation only starts afterwards, when yeast is added to the sugary liquid. Distillation and later steps work on an already alcoholic liquid.",
+"it": "La fermentazione comincia solo dopo, quando si aggiungono i lieviti al liquido zuccherino. Distillazione e operazioni successive lavorano su un liquido già alcolico."
+},
+{
+"en": "One litre of fermented liquid at 10% abv: how much alcohol does it contain?",
+"it": "Un litro di liquido fermentato al 10% abv: quanto alcol contiene?"
+},
+{
+"en": "About 100 ml",
+"it": "Circa 100 ml"
+},
+{
+"en": "About 10 ml",
+"it": "Circa 10 ml"
+},
+{
+"en": "About 200 ml, since it is counted in proof",
+"it": "Circa 200 ml, perché si conta in proof"
+},
+{
+"en": "About 10 grams of unconverted sugar",
+"it": "Circa 10 grammi di zucchero non ancora trasformato"
+},
+{
+"en": "10% of the volume is alcohol: in 1,000 ml that is about 100 ml.",
+"it": "Il 10% del volume è alcol: in 1000 ml sono circa 100 ml."
+},
+{
+"en": "abv is a percentage of volume, not a weight or a sugar measure. Proof is another way of writing it (10% abv = 20 proof), but it does not change the real amount of alcohol.",
+"it": "abv è una percentuale di volume, non un peso né una misura di zucchero. Il proof è un altro sistema di scrittura (10% abv = 20 proof), ma non cambia la quantità reale di alcol."
+},
+{
+"en": "From about 10% after fermentation to about 75% after distillation: roughly how much is the ethanol concentrated?",
+"it": "Da circa il 10% dopo la fermentazione a circa il 75% dopo la distillazione: di quanto si concentra più o meno l'etanolo?"
+},
+{
+"en": "About seven and a half times",
+"it": "Circa sette volte e mezzo"
+},
+{
+"en": "About twice",
+"it": "Circa due volte"
+},
+{
+"en": "About a hundred times",
+"it": "Circa cento volte"
+},
+{
+"en": "It is not concentrated: only the liquid's colour changes",
+"it": "Non si concentra: cambia solo il colore del liquido"
+},
+{
+"en": "Going from 10% to 75% means concentrating the ethanol about 7.5 times.",
+"it": "Passare da 10% a 75% significa concentrare l'etanolo di circa 7,5 volte."
+},
+{
+"en": "This concentrating effect also applies to the congeners kept, and to any flaws in the raw material, which is why sound ingredients matter. Newly made spirit stays colourless.",
+"it": "Questo effetto di concentrazione vale anche per i congeneri scelti, e per i difetti della materia prima: per questo serve un ingrediente sano. Il distillato appena prodotto resta incolore."
+},
+{
+"en": "To select and concentrate parts of the liquid",
+"it": "Selezionare e concentrare alcune parti del liquido"
+},
+{
+"en": "To turn sugar into alcohol using heat",
+"it": "Trasformare lo zucchero in alcol grazie al calore"
+},
+{
+"en": "To give colour and sweetness to the fermented liquid before sale",
+"it": "Dare colore e dolcezza al liquido fermentato prima della vendita"
+},
+{
+"en": "To remove all the alcohol except water",
+"it": "Eliminare tutto l'alcol tranne l'acqua"
+},
+{
+"en": "Distillation picks out certain parts, mainly ethanol and wanted congeners, and leaves others behind.",
+"it": "La distillazione sceglie alcune parti, soprattutto etanolo e congeneri desiderati, e ne lascia indietro altre."
+},
+{
+"en": "Sugar becomes alcohol during fermentation, not in the still. A newly made spirit is colourless and dry: colour and sweetness only come later. Water is precisely the part that is largely discarded.",
+"it": "Lo zucchero diventa alcol durante la fermentazione, non nell'alambicco. Il distillato appena fatto è incolore e secco: colore e dolcezza arrivano solo dopo. L'acqua è proprio la parte che in gran parte si scarta."
+},
+{
+"en": "Why is the vapour from a boiling fermented liquid more alcoholic than the liquid?",
+"it": "Perché scaldando un liquido fermentato il vapore è più alcolico del liquido?"
+},
+{
+"en": "Ethanol boils at a lower temperature than water",
+"it": "L'etanolo bolle a temperatura più bassa dell'acqua"
+},
+{
+"en": "Water boils at a lower temperature than ethanol",
+"it": "L'acqua bolle a temperatura più bassa dell'etanolo"
+},
+{
+"en": "The copper in the still turns water into alcohol",
+"it": "Il rame dell'alambicco trasforma l'acqua in alcol"
+},
+{
+"en": "The yeast keeps fermenting inside the hot still",
+"it": "I lieviti continuano a fermentare dentro l'alambicco caldo"
+},
+{
+"en": "Ethanol is more volatile, so a larger share of it goes into the vapour.",
+"it": "L'etanolo è più volatile, quindi passa in proporzione maggiore nel vapore."
+},
+{
+"en": "Pure ethanol boils at about 78 °C and water at 100 °C: that difference is what makes separation possible. Copper does not create alcohol, and yeast does not survive boiling.",
+"it": "L'etanolo puro bolle intorno a 78 °C, l'acqua a 100 °C: è questa differenza a permettere la separazione. Il rame non crea alcol e i lieviti non sopravvivono all'ebollizione."
+},
+{
+"en": "What are the individual parts of a liquid to be distilled called?",
+"it": "Come si chiamano le singole componenti di un liquido destinato alla distillazione?"
+},
+{
+"en": "Fractions",
+"it": "Frazioni"
+},
+{
+"en": "Cuts",
+"it": "Tagli"
+},
+{
+"en": "Plates",
+"it": "Piatti"
+},
+{
+"en": "Low wines",
+"it": "Low wines"
+},
+{
+"en": "Each component with its own boiling point is called a fraction.",
+"it": "Ogni componente con il proprio punto di ebollizione si chiama frazione."
+},
+{
+"en": "A cut is the moment the flow is redirected. Plates are parts of a column still. Low wines are the liquid from the first pot-still distillation.",
+"it": "Un taglio è il momento in cui si cambia la destinazione del flusso. I piatti sono parti della colonna. I low wines sono il liquido ottenuto dalla prima distillazione in alambicco discontinuo."
+},
+{
+"en": "At roughly what temperature does pure ethanol boil?",
+"it": "A quale temperatura circa bolle l'etanolo puro?"
+},
+{
+"en": "Pure ethanol boils at about 78 °C, below water.",
+"it": "L'etanolo puro bolle a circa 78 °C, più in basso dell'acqua."
+},
+{
+"en": "100 °C is the boiling point of water. It is precisely because ethanol boils lower that the vapour becomes richer in alcohol. The other temperatures match neither substance.",
+"it": "100 °C è il punto di ebollizione dell'acqua. Proprio perché l'etanolo bolle più in basso, il vapore si arricchisce di alcol. Le altre temperature non corrispondono a nessuna delle due sostanze."
+},
+{
+"en": "Which statement about newly made spirits is true?",
+"it": "Quale affermazione sui distillati appena prodotti è vera?"
+},
+{
+"en": "They are colourless and dry",
+"it": "Sono incolori e secchi"
+},
+{
+"en": "They are golden and slightly sweet",
+"it": "Sono dorati e leggermente dolci"
+},
+{
+"en": "They already have their bottled colour, but are dry",
+"it": "Hanno già il colore che avranno in bottiglia, ma sono secchi"
+},
+{
+"en": "They are colourless but hold residual sugar from the fruit",
+"it": "Sono incolori ma contengono lo zucchero residuo della frutta"
+},
+{
+"en": "Every spirit leaves the still clear as water and without sugar.",
+"it": "Ogni distillato esce dall'alambicco trasparente come l'acqua e senza zucchero."
+},
+{
+"en": "Sugar is not volatile and does not pass into the vapour, so it stays in the still. Colour comes from oak or from colouring added after distillation. Even fruit spirits therefore come off dry.",
+"it": "Lo zucchero non è volatile e non passa nel vapore, quindi resta nell'alambicco. Il colore arriva dal legno o da coloranti aggiunti dopo la distillazione. Anche i distillati di frutta escono quindi secchi."
+}
+]

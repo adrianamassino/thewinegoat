@@ -1,0 +1,45 @@
+{
+ "chunk_chars": 25000,
+ "scopes": {
+  "core": {
+   "strings": 20942,
+   "en_chars": 2291247,
+   "ui_strings": 1512,
+   "ui_en_chars": 42130,
+   "chunks": 93,
+   "ui_chunks": 2
+  },
+  "l1": {
+   "strings": 1826,
+   "en_chars": 211620,
+   "ui_strings": 7,
+   "ui_en_chars": 296,
+   "chunks": 10,
+   "ui_chunks": 1
+  },
+  "l2": {
+   "strings": 8560,
+   "en_chars": 914718,
+   "ui_strings": 1,
+   "ui_en_chars": 88,
+   "chunks": 38,
+   "ui_chunks": 1
+  },
+  "s1": {
+   "strings": 2527,
+   "en_chars": 267974,
+   "ui_strings": 7,
+   "ui_en_chars": 276,
+   "chunks": 12,
+   "ui_chunks": 1
+  },
+  "s2": {
+   "strings": 8589,
+   "en_chars": 800262,
+   "ui_strings": 7,
+   "ui_en_chars": 276,
+   "chunks": 34,
+   "ui_chunks": 1
+  }
+ }
+}
