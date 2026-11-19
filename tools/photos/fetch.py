@@ -18,6 +18,7 @@ from PIL import Image
 
 API = 'https://commons.wikimedia.org/w/api.php'
 OUT = 'img/photos'
+PER_Q = 3  # up to 3 rated photos per search
 S = requests.Session()
 S.headers['User-Agent'] = 'TheWineGoatPhotoFetcher/1.0 (https://thewinegoat.com; hello@thewinegoat.com)'
 OK_LIC = re.compile(r'^(cc0|public domain|pd\b|pd-|cc by(-sa)? \d)', re.I)
@@ -35,10 +36,16 @@ def strip(v): return html.unescape(re.sub(r'<[^>]+>', '', v or '')).strip()
 
 QUALITY = ['incategory:"Featured pictures on Wikimedia Commons"', 'incategory:"Quality images"']
 
+GENERIC = set('photography photograph photo close up closeup detail details view landscape aerial shot image images picture high quality beautiful scenic'.split())
+
+def core(q):
+    w = [x for x in q.split() if x.lower() not in GENERIC]
+    return ' '.join(w[:3]) or q
+
 def search(q, cat):
     """Only photos the Commons community rated Featured or Quality images (sharp, well exposed, good composition)."""
-    p = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{q} filetype:bitmap {cat}', 'gsrnamespace': 6,
-         'gsrlimit': 12, 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': 1600, 'iiextmetadatalanguage': 'en'}
+    p = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{core(q)} filetype:bitmap {cat}', 'gsrnamespace': 6,
+         'gsrlimit': 30, 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': 1600, 'iiextmetadatalanguage': 'en'}
     for attempt in range(4):
         try:
             r = S.get(API, params=p, timeout=40)
@@ -76,6 +83,7 @@ def main():
         if len(man) >= limit: break
         q = row['Ricerca immagine'].strip()
         if q in done_q: continue
+        got = 0
         cands = [(c, pg) for c in QUALITY for pg in search(q, c)]
         for qcat, page in cands:
             t = page.get('title', ''); ii = (page.get('imageinfo') or [{}])[0]; md = ii.get('extmetadata', {})
@@ -100,11 +108,10 @@ def main():
                         'description': desc[:400], 'author': strip(md.get('Artist', {}).get('value'))[:160] or 'Unknown author',
                         'licence': lic, 'licence_url': strip(md.get('LicenseUrl', {}).get('value')),
                         'source': ii.get('descriptionurl', ''), 'quality': 'featured' if 'Featured' in qcat else 'quality'})
-            seen_titles.add(t); done_q.add(q)
+            seen_titles.add(t); done_q.add(q); got += 1
             print(f'{n} {q} -> {t} [{lic}]', flush=True)
-            break
-        else:
-            skipped += 1
+            if got >= PER_Q: break
+        if not got: skipped += 1
         time.sleep(0.3)
         if len(man) % 50 == 0: json.dump(man, open(man_p, 'w'), ensure_ascii=False, indent=0)
     json.dump(man, open(man_p, 'w'), ensure_ascii=False, indent=0)
