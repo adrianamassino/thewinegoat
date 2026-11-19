@@ -1,0 +1,5 @@
+{
+ "about": {"en": "/about/", "it": "/it/chi-siamo/", "fr": "/fr/a-propos/", "es": "/es/sobre-nosotros/", "es-ar": "/es-ar/sobre-nosotros/"},
+ "maps": {"en": "/wine-maps/", "it": "/it/mappe-del-vino/", "fr": "/fr/cartes-des-vins/", "es": "/es/mapas-del-vino/", "es-ar": "/es-ar/mapas-del-vino/"},
+ "test": {"en": "/wine-level-test/", "it": "/it/test-livello-vino/", "fr": "/fr/test-niveau-vin/", "es": "/es/test-nivel-vino/", "es-ar": "/es-ar/test-nivel-vino/"}
+}
