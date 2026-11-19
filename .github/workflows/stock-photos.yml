@@ -9,7 +9,7 @@ on:
     paths: ["tools/photos/stock.py"]
 permissions:
   contents: write
-concurrency: { group: photos, cancel-in-progress: false }
+concurrency: { group: stock-photos, cancel-in-progress: false }
 jobs:
   fetch:
     runs-on: ubuntu-latest

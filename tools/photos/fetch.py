@@ -1,10 +1,11 @@
-"""Fetches up to 1,000 free photos from Wikimedia Commons for The Wine Goat (runs in GitHub Actions: the runner
+"""Fetches up to 1,300 free, HIGH-QUALITY photos from Wikimedia Commons for The Wine Goat (runs in GitHub Actions: the runner
 has network access). One photo per search query of tools/photos/queries.csv (the owner's catalogue).
 
 Rules
 - Only licences that allow commercial use with attribution: CC0, Public domain, CC BY x.x, CC BY-SA x.x
   (anything else — NC, ND, GFDL-only, "fair use", unknown — is skipped).
-- Photos only (jpg/png/webp), at least 900 px wide, landscape or square, no SVG/maps/scans of documents.
+- Only photos rated by the Commons community as Featured pictures or Quality images (sharp, well exposed,
+  well composed); at least 2000 px wide, landscape or square, no SVG/maps/scans of documents.
 - Each photo is saved twice as optimised WebP: 1200 px and 600 px wide, quality 72, metadata stripped,
   with an SEO file name built from the query + Commons title (lowercase ascii-hyphen).
 - Everything we need for alt text and credits goes to img/photos/photos.json:
@@ -32,8 +33,11 @@ def slug(s, n=70):
 
 def strip(v): return html.unescape(re.sub(r'<[^>]+>', '', v or '')).strip()
 
-def search(q):
-    p = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{q} filetype:bitmap', 'gsrnamespace': 6,
+QUALITY = ['incategory:"Featured pictures on Wikimedia Commons"', 'incategory:"Quality images"']
+
+def search(q, cat):
+    """Only photos the Commons community rated Featured or Quality images (sharp, well exposed, good composition)."""
+    p = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{q} filetype:bitmap {cat}', 'gsrnamespace': 6,
          'gsrlimit': 12, 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': 1600, 'iiextmetadatalanguage': 'en'}
     for attempt in range(4):
         try:
@@ -49,6 +53,14 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     man_p = f'{OUT}/photos.json'
     man = json.load(open(man_p)) if os.path.exists(man_p) else []
+    keep = [m for m in man if m.get('quality')]
+    for m in man:
+        if not m.get('quality'):
+            for k in ('file', 'file_sm'):
+                try: os.remove(f"{OUT}/{m[k]}")
+                except OSError: pass
+    if len(keep) != len(man): print(f'purged {len(man) - len(keep)} photos without a Commons quality rating')
+    man = keep
     seen_titles = {m['title'] for m in man}; done_q = {m['query'] for m in man}
     rows = list(csv.DictReader(open('tools/photos/queries.csv', encoding='utf-8-sig')))
     if os.path.exists('tools/photos/queries_extra.csv'):  # spirits, beer, glasses, producers
@@ -64,11 +76,12 @@ def main():
         if len(man) >= limit: break
         q = row['Ricerca immagine'].strip()
         if q in done_q: continue
-        for page in search(q):
+        cands = [(c, pg) for c in QUALITY for pg in search(q, c)]
+        for qcat, page in cands:
             t = page.get('title', ''); ii = (page.get('imageinfo') or [{}])[0]; md = ii.get('extmetadata', {})
             if t in seen_titles or ii.get('mime') not in ('image/jpeg', 'image/png', 'image/webp'): continue
             w, h = ii.get('width', 0), ii.get('height', 0)
-            if w < 900 or h > w * 1.05: continue
+            if w < 2000 or h > w * 1.05 or w > h * 2.6: continue
             lic = strip(md.get('LicenseShortName', {}).get('value'))
             if not OK_LIC.match(lic) or re.search(r'\bnc\b|\bnd\b|non-?commercial|no deriv', lic, re.I): continue
             desc = strip(md.get('ImageDescription', {}).get('value'))
@@ -86,7 +99,7 @@ def main():
                         'category': CAT_EN.get(row['Categoria'], 'wine'), 'query': q, 'title': t,
                         'description': desc[:400], 'author': strip(md.get('Artist', {}).get('value'))[:160] or 'Unknown author',
                         'licence': lic, 'licence_url': strip(md.get('LicenseUrl', {}).get('value')),
-                        'source': ii.get('descriptionurl', '')})
+                        'source': ii.get('descriptionurl', ''), 'quality': 'featured' if 'Featured' in qcat else 'quality'})
             seen_titles.add(t); done_q.add(q)
             print(f'{n} {q} -> {t} [{lic}]', flush=True)
             break
