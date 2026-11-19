@@ -35,10 +35,10 @@ jobs:
           cat /tmp/enforce.txt
           gh api "repos/${{ github.repository }}/pages" > /tmp/pages_after.json || true
           gh api "repos/${{ github.repository }}/pages/health" > /tmp/pages_health.json 2>&1 || true
-          gh api "repos/${{ github.repository }}/pages/builds?per_page=5" --jq '[.[] | {status, created_at, commit: .commit[0:7], error: .error.message, duration}]' > /tmp/pages_builds.json 2>&1 || true
+          gh api "repos/${{ github.repository }}/pages/builds?per_page=10" --jq '[.[] | {status, created_at, commit: .commit[0:7], error: .error.message, duration}]' > /tmp/pages_builds.json 2>&1 || true
       - name: Live checks
         run: |
-          sleep 150
+          sleep 60
           bash tools/seo_tech/live_check.sh > /tmp/live.md 2>&1 || true
       - name: Commit report
         run: |
@@ -51,7 +51,21 @@ jobs:
             echo "## GitHub Pages DNS health check"; echo '```json'; cat /tmp/pages_health.json 2>/dev/null; echo; echo '```'
             cat /tmp/live.md
           } > tools/seo_tech/live_report.md
+          python3 - <<'PY'
+          import json, re
+          a = json.load(open('/tmp/pages_after.json')) if open('/tmp/pages_after.json').read().strip().startswith('{') else {}
+          r = open('tools/seo_tech/live_report.md').read()
+          m = re.search(r'REDIRECT MATRIX: (\d+) PASS, (\d+) FAIL', r)
+          c = a.get('https_certificate') or {}
+          head = ["## Summary (all values below were obtained live during this run)", "",
+                  f"- API https_enforced: **{a.get('https_enforced')}**",
+                  f"- API certificate state: **{c.get('state')}**, domains: {c.get('domains')}, expires {c.get('expires_at')}",
+                  f"- Redirect matrix: **{m.group(1)} PASS, {m.group(2)} FAIL**" if m else "- Redirect matrix: not run", ""]
+          r = r.replace('## GitHub Pages configuration (before)', '\n'.join(head) + '\n## GitHub Pages configuration (before)', 1)
+          open('tools/seo_tech/live_report.md', 'w').write(r)
+          PY
+          mkdir -p tools/seo_tech/reports && cp tools/seo_tech/live_report.md "tools/seo_tech/reports/$(date -u +%Y-%m-%d_%H%M).md"
           git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tools/seo_tech/live_report.md
+          git add tools/seo_tech/live_report.md tools/seo_tech/reports
           git commit -m "Live SEO report [skip ci]" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
