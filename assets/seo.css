@@ -92,3 +92,8 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .seosec.more p{line-height:1.7}
 .seosec.more ol.tips{padding-left:22px}
 .tipbox{margin:18px 0;padding:14px 16px;border-radius:14px;background:#fbf4e6;border-left:5px solid #c9a24a;line-height:1.6}
+/* screenshots of the app on GEO / feature pages (tools/geo/pages.py) */
+.seo-a .shots{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin:18px 0 28px}
+.seo-a figure.shot{margin:0;flex:1 1 240px;max-width:300px;text-align:center}
+.seo-a figure.shot img{display:block;width:100%;height:auto;border-radius:18px;border:1px solid rgba(110,30,60,.14);box-shadow:0 8px 24px rgba(60,20,30,.12);background:#fffdf9}
+.seo-a figure.shot figcaption{font-size:.88rem;line-height:1.4;color:#6b5a52;margin-top:8px}

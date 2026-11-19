@@ -205,3 +205,4 @@ print(len(LANGS) * len(KEYS), 'pages')
 
 # image SEO post-processing (alt in the page language, descriptive goat file names, width/height, lazy/LCP, sitemap-images.xml)
 if os.path.exists('tools/seo_tech/images.py'): os.system('python3 tools/seo_tech/images.py --pages >/dev/null')
+if os.path.exists('tools/geo/sitewide.py'): os.system('python3 tools/geo/sitewide.py --quiet')  # GEO: footer About link + consistent JSON-LD

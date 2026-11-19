@@ -4,7 +4,7 @@ en, it, fr, es, es-ar (es-ar = voseo of the es text, via tools/site_i18n/es_ar_e
 Same look as the core pages (tools/seo_core): /assets/site.css + /assets/seo.css, header, breadcrumb, footer.
 Content: tools/geo/content/<page>.<lang>.txt (simple line format, see parse()). Slugs: tools/geo/slugs.json.
 Writes the pages, then the <!--geo--> block of sitemap.xml and the "About and features" section of llms.txt.
-Run from the repo root:  python3 tools/geo/pages.py   then   python3 tools/geo/sitewide.py"""
+Run from the repo root:  python3 tools/geo/pages.py  (then runs tools/seo_tech/images.py --pages and tools/geo/sitewide.py; --no-post skips them)"""
 import json, os, re, html, sys
 from PIL import Image
 e = html.escape
@@ -251,3 +251,26 @@ if __name__ == '__main__':
     sm = sm.replace('</urlset>', '<!--geo-->\n' + add + '<!--/geo-->\n</urlset>')
     open('sitemap.xml', 'w', encoding='utf8').write(sm)
     print('sitemap: geo block', add.count('<url>'), 'URLs')
+    # llms.txt / llms-full.txt: "About The Wine Goat and feature pages" (English text, other languages listed)
+    E_ = {k: ALL[k]['en'] for k in SL}
+    lt = re.sub(r'\n## About The Wine Goat and feature pages.*?(?=\n## |\Z)', '', open('llms.txt', encoding='utf8').read(), flags=re.S).rstrip() + '\n'
+    lt += '\n## About The Wine Goat and feature pages\n' + ''.join(
+        f'- [{E_[k]["h1"]}]({SITE}{SL[k]["en"]}): {E_[k]["desc"]} Also in: ' + ', '.join(f'[{LNAME[l]}]({SITE}{SL[k][l]})' for l in LANGS if l != 'en') + '\n' for k in SL)
+    open('llms.txt', 'w', encoding='utf8').write(lt)
+    def txt(C):
+        o = [C['tldr']] + C['lead']
+        for b in C['body']:
+            if b[0] == 'h2': o.append('\n### ' + b[1])
+            elif b[0] in ('p', 'tip', 'h3'): o.append(b[1])
+            elif b[0] in ('ul', 'ol'): o += ['- ' + x for x in b[1]]
+            elif b[0] == 'table': o += [' | '.join(b[1])] + [' | '.join(r) for r in b[2]]
+            elif b[0] == 'qs': o += [f'Q: {q} A: {op[ok]} ({w})' for q, op, ok, w in b[1]]
+            elif b[0] == 'shots': o += [f'[Screenshot: {s[2]}]' for s in b[1]]
+        return '\n'.join(o) + ''.join(f'\nQ: {q}\nA: {a}' for q, a in C['faq'])
+    lf = re.sub(r'\n# About The Wine Goat and feature pages.*?(?=\n# |\Z)', '', open('llms-full.txt', encoding='utf8').read(), flags=re.S).rstrip() + '\n'
+    lf += '\n# About The Wine Goat and feature pages\n\n' + '\n\n'.join(f'## {E_[k]["h1"]}\nURL: {SITE}{SL[k]["en"]}\n{txt(E_[k])}' for k in SL) + '\n'
+    open('llms-full.txt', 'w', encoding='utf8').write(lf)
+    # same post-processing as the other builders: image SEO (if present), then the GEO site-wide pass
+    if '--no-post' not in sys.argv:
+        if os.path.exists('tools/seo_tech/images.py'): os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
+        if os.path.exists('tools/geo/sitewide.py'): os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')

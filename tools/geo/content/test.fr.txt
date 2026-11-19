@@ -1,7 +1,7 @@
 @title Test de niveau en vin : évaluez votre niveau WSET
 @desc Faites un test de 20 questions sur le vin, une session de 50 questions ou 3 questions ouvertes. Découvrez votre niveau, vos thèmes faibles et vos jours de révision.
 @kw test niveau vin, quiz vin testez votre niveau, test de niveau WSET, test préparation examen vin, test entraînement WSET
-@h1 Test de niveau en vin : êtes-vous prêt pour l'examen WSET ?
+@h1 Test de niveau en vin : où en êtes-vous avant l'examen WSET ?
 @tldr Le test de niveau de The Wine Goat est une série de questions de type examen réparties sur tout le programme de votre niveau : un défi express de 20 questions (environ 10 minutes), une session de niveau de 50 questions (environ 30 minutes) ou 3 questions ouvertes. Avec un compte gratuit, vous voyez votre score, votre niveau, vos thèmes les plus faibles et une estimation du nombre de jours de révision nécessaires pour un Pass, un Merit ou une Distinction.
 @lead La plupart des candidats ne savent pas où ils en sont avant l'examen blanc, et à ce moment-là il reste peu de temps pour changer de cap. Un test court et honnête au départ vous dit où vous en êtes, quels thèmes corriger en premier et si votre date d'examen est réaliste au rythme que vous pouvez tenir.
 @lead Cette page explique comment fonctionne le test dans l'appli The Wine Goat, ce que montre le résultat, comment est calculée l'estimation du temps de révision, à qui il sert et comment utiliser le résultat. Elle propose aussi six vraies questions de l'appli et une question ouverte avec ses points de notation, pour essayer le format dès maintenant.
@@ -33,8 +33,8 @@ Le résultat est plus qu'un score. Il transforme vos réponses en un niveau, une
 Vous voyez le pourcentage de bonnes réponses (ou de points, pour les questions ouvertes) et un niveau calculé à partir de lui.
 | Score | Niveau affiché dans l'appli | Ce que cela signifie pour le planning |
 | Moins de 40 % | Niveau débutant | On part des bases : le planning suit le programme chapitre par chapitre, avec beaucoup de pratique |
-| De 40 % à 69 % | Niveau intermédiaire | De bonnes bases : le planning insiste sur les thèmes où vous vous êtes trompé |
-| 70 % et plus | Niveau avancé | Vous êtes bien avancé : plus d'examens blancs et de questions ouvertes, avec une révision ciblée |
+| De 40 % à 69 % | Niveau intermédiaire | De bonnes bases : le planning insiste sur les thèmes où vous avez fait des erreurs |
+| 70 % et plus | Niveau avancé | Vous avez déjà bien progressé : plus d'examens blancs et de questions ouvertes, avec une révision ciblée |
 ### Vos thèmes, du plus faible au plus fort
 Chaque thème du programme couvert par vos réponses a sa barre avec un pourcentage. Ils sont classés du plus faible au plus fort : la première ligne est la première chose à étudier.
 ### Votre prévision
@@ -112,7 +112,7 @@ Refaites la session de niveau à chaque changement de phase. Si votre thème le 
 - Prendre l'estimation pour une promesse. C'est un outil de planification qui gagne en précision à mesure que vous répondez à plus de questions.
 
 ## Comment le test se relie au reste de l'appli
-Le test est la porte d'entrée de votre planning. À partir du résultat, un geste suffit pour construire un planning à partir de vos points faibles ; les questions ratées rejoignent la révision des erreurs ; les flashcards et les leçons de vos thèmes les plus faibles sont proposées en premier ; et les examens blancs prennent le relais quand vous êtes prêt pour le format réel. Vous pouvez refaire la session de niveau dès que vous voulez une nouvelle mesure.
+Le test est la porte d'entrée de votre planning. À partir du résultat, un geste suffit pour construire un planning à partir de vos points faibles ; les questions ratées rejoignent la révision des erreurs ; les flashcards et les leçons de vos thèmes les plus faibles sont proposées en premier ; et les examens blancs prennent le relais quand vient le moment du format réel. Vous pouvez refaire la session de niveau dès que vous voulez une nouvelle mesure.
 
 @cta Découvrez où vous en êtes en 10 minutes || Relevez le défi de 20 questions, puis laissez l'appli transformer votre résultat en un planning construit autour de votre date d'examen.
 @faq Combien de temps dure le test de niveau en vin ? || Le défi express compte 20 QCM et dure environ 10 minutes. La session de niveau compte 50 questions mélangées, comme l'épreuve théorique, et dure environ 30 minutes. La session à questions ouvertes compte 3 questions à réponse courte rédigée et prend en général 15 à 20 minutes. Vous pouvez commencer par la version express et faire les autres ensuite.

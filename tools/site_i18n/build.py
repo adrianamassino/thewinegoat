@@ -347,6 +347,8 @@ def main():
         os.system(f'{sys.executable} tools/seo_tech/variant_titles.py >/dev/null')
     if os.path.exists('tools/seo_tech/images.py'):  # image SEO: descriptive file names, localized alt, width/height, lazy/LCP, ImageObject, sitemap-images.xml
         os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
+    if os.path.exists('tools/geo/sitewide.py'):  # GEO: About link in every footer, one Organization/WebSite JSON-LD, git dates
+        os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); sitemap: {gs} guide + {hs} home URLs in the i18n blocks; llms.txt: {nl} links')
 
 
