@@ -31,7 +31,7 @@ SKIP = ('app/', 'mobile/', 'tools/', 'node_modules/', '.git/', 'img/', 'assets/'
 GOAT_SM_W, INFO_SM_W = 180, 720
 ORN_SIZES = '84px'
 INFO_SIZES = '(max-width: 940px) calc(100vw - 40px), 860px'
-OWN = {'@type': 'Organization', 'name': 'The Wine Goat', 'url': SITE + '/'}
+OWN = {'@id': SITE + '/#organization'}   # the site-wide Organization node (tools/geo/sitewide.py)
 INFO_SRC_P = f'{HERE}/infographic_alt_src.json'   # original English infographic alts (to restore translations, see restore_alt)
 e = lambda s: s.replace('&', '&amp;').replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
 
@@ -219,8 +219,9 @@ def page_url(page, s):
     return SITE + '/' + (d + '/' if d else '')
 
 
-def process_page(page):
-    s0 = open(page, encoding='utf8').read()
+def process_page(page, text=None):
+    """rewrites the page on disk; with text= it processes that HTML instead and returns the result (nothing written)"""
+    s0 = text if text is not None else open(page, encoding='utf8').read()
     lang = page_lang(s0)
     noindex = bool(re.search(r'<meta[^>]+name=["\']robots["\'][^>]+content=["\'][^"\']*noindex', s0[:s0.find('</head>')], re.I))
     hdr_end = s0.find('</header>')
@@ -337,6 +338,7 @@ def process_page(page):
         url = page_url(page, s)
         keep = [(q, t, c, k) for q, t, c, k, r, a in imgs if (hero and q == hero[0]) or (is_home and k == 'goat' and r == 'content')]
         seen = set(); PAGEIMG[url] = [x for x in keep if not (x[0] in seen or seen.add(x[0]))]
+    if text is not None: return s
     if s != s0:
         open(page, 'w', encoding='utf8').write(s)
         return 1
