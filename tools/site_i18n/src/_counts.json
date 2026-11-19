@@ -18,10 +18,10 @@
 "chars": 20366
 },
 "schools": {
-"segments": 238,
-"segment_words": 3482,
-"page_words": 3369,
-"chars": 20575
+"segments": 236,
+"segment_words": 3468,
+"page_words": 3355,
+"chars": 20532
 },
 "wset-3-questions-by-region": {
 "segments": 278,
@@ -151,9 +151,9 @@
 },
 "wset-3-questions__storage-and-service": {
 "segments": 233,
-"segment_words": 3672,
+"segment_words": 3671,
 "page_words": 3408,
-"chars": 21464
+"chars": 21463
 },
 "wset-3-questions__tasting-sat": {
 "segments": 238,
@@ -213,7 +213,7 @@
 "segments": 245,
 "segment_words": 3512,
 "page_words": 3425,
-"chars": 19944
+"chars": 19947
 },
 "wset-level-1-practice-questions": {
 "segments": 241,
@@ -308,7 +308,7 @@
 "_home": {
 "segments": 256,
 "segment_words": 1753,
-"page_words": 1360,
+"page_words": 1378,
 "chars": 11161
 }
 }
