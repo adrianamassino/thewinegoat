@@ -345,6 +345,8 @@ def main():
     nl = llms_sync(lm)
     if os.path.exists('tools/seo_tech/variant_titles.py'):  # es-ar / pt-br pages get their own <title> (not identical to es / pt)
         os.system(f'{sys.executable} tools/seo_tech/variant_titles.py >/dev/null')
+    if os.path.exists('tools/seo_tech/images.py'):  # image SEO: descriptive file names, localized alt, width/height, lazy/LCP, ImageObject, sitemap-images.xml
+        os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); sitemap: {gs} guide + {hs} home URLs in the i18n blocks; llms.txt: {nl} links')
 
 

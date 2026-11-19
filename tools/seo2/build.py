@@ -83,7 +83,7 @@ def page(key, lang):
         body += f'<figure class="seofig"><img src="{I["file"]}" alt="{e(I["alt"])}" title="{e(C["h1"])}" width="1200" height="630" fetchpriority="high" decoding="async"><figcaption>{e(I["cap"])}</figcaption></figure>'
     body += ''.join(f'<p class="lead">{e(x)}</p>' for x in C['lead'])
     body += '<section class="seosec">' + ''.join(block(b) for b in C['body']) + '</section>'
-    body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="{e(GALT[lang])}" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
+    body += (f'<section class="seocta"><img src="/img/goats/goat-laughing-in-wine-barrel-with-two-glasses.webp" alt="{e(GALT[lang])}" width="200" height="231" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
              f'<div class="ctas"><a class="btn btn-gold" href="{U["app"]}#go=start">{e(U["start"])}</a><a class="btn btn-light" href="{U["app"]}#go=lvquick">{e(U["test"])}</a></div></div></section>')
     body += f'<section class="seosec"><h2>{e(U["faq"])}</h2>' + ''.join(f'<details class="faqi"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in C['faq']) + '</section>'
     rel = [(P2['slug'][lang], P2[lang]['h1']) for k2, P2 in ALLP.items() if k2 != key] + REL[lang]
@@ -103,7 +103,7 @@ def page(key, lang):
 <link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seo.css">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head><body class="seo"><header class="top"><div class="wrap nav">
-<a class="brand" href="{HOME[lang]}"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
+<a class="brand" href="{HOME[lang]}"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="410"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
 <nav class="seolangs" aria-label="Language">{langs}</nav>
 <a class="btn btn-primary btn-sm" href="{U['app']}#go=start">{e(U['btn'])}</a></div></header>
 <main><nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="{HOME[lang]}">{e(U['home'])}</a></li><li aria-current="page">{e(C['h1'])}</li></ol></nav><article class="wrap seo-a"><h1>{e(C['h1'])}</h1>{body}</article></main>{footer(lang)}<script src="/assets/seo.js" defer></script></body></html>

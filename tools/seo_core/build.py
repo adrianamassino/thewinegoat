@@ -141,7 +141,7 @@ def page(key, l):
     body = f'<div class="tldr" role="note"><b>{e(U[7])}</b><p>{e(C.get("tldr") or desc)}</p><small>{e(U[6])} {DATE} · The Wine Goat</small></div>'
     body += ''.join(f'<p class="lead">{e(x)}</p>' for x in C['lead'])
     body += '<section class="seosec">' + ''.join(block(b, U) for b in C['body']) + '</section>'
-    body += (f'<section class="seocta"><img src="/img/goats/final.webp" alt="The Wine Goat" width="200" height="200" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
+    body += (f'<section class="seocta"><img src="/img/goats/goat-laughing-in-wine-barrel-with-two-glasses.webp" alt="The Wine Goat" width="200" height="231" loading="lazy"><div><h2>{e(C["cta"][0])}</h2><p>{e(C["cta"][1])}</p>'
              f'<div class="ctas"><a class="btn btn-gold" href="{app}">{e(U[5])}</a><a class="btn btn-light" href="{app}">{e(U[4])}</a></div></div></section>')
     body += f'<section class="seosec"><h2>{e(U[1])}</h2>' + ''.join(f'<details class="faqi"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in C['faq']) + '</section>'
     rel = [(SL[k2][l], CONTENT[l][k2]['h1']) for k2 in KEYS if k2 != key]
@@ -163,7 +163,7 @@ def page(key, l):
 <link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seo.css">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head><body class="seo"><header class="top"><div class="wrap nav">
-<a class="brand" href="{HOME[l]}"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="384"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
+<a class="brand" href="{HOME[l]}"><img class="emb" src="/img/logo-emblem.webp" alt="" width="360" height="410"><img class="wm" src="/img/wordmark.webp" alt="The Wine Goat" width="752" height="294"></a>
 <nav class="seolangs" aria-label="Language">{langs}</nav>
 <a class="btn btn-primary btn-sm" href="{app}">{e(U[5])}</a></div></header>
 <main><nav class="crumbs" aria-label="Breadcrumb"><ol>{crumbs}</ol></nav><article class="wrap seo-a"><h1>{e(C['h1'])}</h1>{body}</article></main><footer class="foot"><div class="wrap"><p class="fdisc">{DISC[l]}</p><p>© 2026 The Wine Goat · <a href="{HOME[l]}">thewinegoat.com</a> · {e(U[6])} {DATE}</p></div></footer><script src="/assets/seo.js" defer></script><script src="/assets/deco.js?v=8" defer></script></body></html>
@@ -208,3 +208,6 @@ if 'en' in CONTENT:
     open('llms-full.txt', 'w', encoding='utf8').write(lf)
 for l in LANGS: print(l, words[l])
 print(len(LANGS) * len(KEYS), 'pages')
+
+# image SEO post-processing (alt in the page language, descriptive goat file names, width/height, lazy/LCP, sitemap-images.xml)
+if os.path.exists('tools/seo_tech/images.py'): os.system('python3 tools/seo_tech/images.py --pages >/dev/null')

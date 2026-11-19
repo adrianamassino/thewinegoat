@@ -87,9 +87,25 @@ def parse(path):
     return C
 
 
+AR_FIX = [(r'\bel computadora', 'la computadora'), (r'\bdel computadora', 'de la computadora'), (r'\bal computadora', 'a la computadora'),
+          (r'\bu computadora', 'o computadora'), (r'\bun computadora', 'una computadora'), (r'Anotá con el celular', 'Apuntá con el celular'),
+          (r'\b([Ee])scribe a hello', r'\1scribí a hello'), (r'\bhaz\b', 'hacé'), (r'\bHaz\b', 'Hacé'), (r'\blee el resultado', 'leé el resultado'),
+          (r'\bluego responde\b', 'luego respondé'), (r'\bavisas\b', 'avisás'), (r'lo que bebes', 'lo que tomás'), (r'\bsolo buscas\b', 'solo buscás'),
+          (r'reservas y realizas', 'reservás y realizás'), (r', indica la página', ', indicá la página'), (r'Acepta el reto', 'Aceptá el desafío'), (r'\b([Rr])eto rápido', lambda m: ('D' if m.group(1)=='R' else 'd')+'esafío rápido'),
+          (r'Reta a un amigo', 'Desafiá a un amigo'), (r'un reto con', 'un desafío con'), (r'el reto de 20', 'el desafío de 20'), (r'El reto de 20', 'El desafío de 20'), (r'Encuéntralo', 'Encontralo'), (r'Escribe el nombre', 'Escribí el nombre'),
+          (r'luego busca cada', 'luego buscá cada'), (r', di en voz alta', ', decí en voz alta'), (r'\bfíate de', 'fiate de'), (r'abre la región', 'abrí la región'),
+          (r'luego abre la explicación', 'luego abrí la explicación'), (r'Cuenta tus aciertos', 'Contá tus aciertos'), (r'\bjuega (un|en)\b', r'jugá \1'),
+          (r'\bpasa a «', 'pasá a «'), (r'Avanzado: pasa a', 'Avanzado: pasá a'), (r'y toca cada zona', 'y tocá cada zona'), (r'\baspiras\b', 'aspirás'),
+          (r'\bcambias de nivel', 'cambiás de nivel'), (r'\bSi dudas\b', 'Si dudás'), (r'\bsi llegas\b', 'si llegás'), (r'\bSi creas\b', 'Si creás'), (r'tómala como', 'tomala como')]
+
+
 def to_ar(C):
+    def ar(s):
+        s = es_ar(s)
+        for a, b in AR_FIX: s = re.sub(a, b, s)
+        return s
     def f(x):
-        if isinstance(x, str): return es_ar(x)
+        if isinstance(x, str): return ar(x)
         if isinstance(x, list): return [f(y) for y in x]
         if isinstance(x, dict): return {k: (v if k in ('kw',) else f(v)) for k, v in x.items()}
         return x
