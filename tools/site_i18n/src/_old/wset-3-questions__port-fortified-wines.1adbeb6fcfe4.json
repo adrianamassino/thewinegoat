@@ -1,0 +1,1015 @@
+{
+"group": "wset-3-questions__port-fortified-wines",
+"source": "wset-3-questions/port-fortified-wines/index.html",
+"url": "/wset-3-questions/port-fortified-wines/",
+"region": "main",
+"sha": "1adbeb6fcfe4",
+"words": 3419,
+"segment_words": 3701,
+"segments": [
+{
+"t": "WSET 3 Port and fortified wines – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Port and fortified wines practice questions with answers and explanations, plus 52 more in the app: MCQs, short written answers…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Port and fortified wines, WSET Level 3 Port and fortified wines, Port and fortified wines WSET questions, Port and fortified wines wine quiz, Port and fortified wines wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Port and fortified wines: practice questions with answers – WSET 3 Port and fortified wines, WSET Level 3 Port and fortified wines (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Port and fortified wines",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Port and fortified wines: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Port and fortified wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 52 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Port and fortified wines: practice questions with answers | WSET 3 Port and fortified wines",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Port and fortified wines practice questions with answers and explanations, plus 52 more in the app: MCQs, short written answers….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What are the Douro's three Port sub-regions?",
+"k": "text"
+},
+{
+"t": "Baixo Corgo, Cima Corgo, Douro Superior",
+"k": "text"
+},
+{
+"t": "Vila Nova de Gaia, Régua and Pinhão",
+"k": "text"
+},
+{
+"t": "Upper Douro, Middle Douro and Lower Douro",
+"k": "text"
+},
+{
+"t": "Minho, Trás-os-Montes and Beira Alta",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Baixo Corgo, Cima Corgo, Douro Superior",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Baixo Corgo is coolest and wettest with the lightest wines; Cima Corgo has most top vineyards; Douro Superior is renowned. Hotter and drier eastward.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What shields the Douro from rain-bearing Atlantic winds?",
+"k": "text"
+},
+{
+"t": "The Serra do Marão",
+"k": "text"
+},
+{
+"t": "The Sierra Nevada",
+"k": "text"
+},
+{
+"t": "The Cantabrian Mountains",
+"k": "text"
+},
+{
+"t": "The Pyrenees",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The Serra do Marão",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The climate is warm continental; vineyards start 70 km upstream of Porto and Gaia.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} At what alcohol level is Port fermentation stopped?",
+"k": "text"
+},
+{
+"t": "12-13%, after about a week",
+"k": "text"
+},
+{
+"t": "2%, after a few hours' contact",
+"k": "text"
+},
+{
+"t": "15%, after about three days",
+"k": "text"
+},
+{
+"t": "5–9% abv, after about 24–36 hours",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 5–9% abv, after about 24–36 hours",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The time is so short that normal extraction is too weak: foot treading, autovinifiers, pistons and robotic lagares are used.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is a lagar?",
+"k": "text"
+},
+{
+"t": "A shallow granite trough for treading grapes by foot",
+"k": "text"
+},
+{
+"t": "A narrow terrace held up by a dry-stone wall",
+"k": "text"
+},
+{
+"t": "A 550-litre cask used for ageing Tawny in Gaia",
+"k": "text"
+},
+{
+"t": "The still used to distil aguardente for Port",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A shallow granite trough for treading grapes by foot",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The benchmark for other methods; labour-intensive, still used for some premium wines.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which is the most widely planted grape in the Douro?",
+"k": "text"
+},
+{
+"t": "Touriga Franca",
+"k": "text"
+},
+{
+"t": "Tinto Cão",
+"k": "text"
+},
+{
+"t": "Tinta Roriz",
+"k": "text"
+},
+{
+"t": "Touriga Nacional",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Touriga Franca",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Most planted: Touriga Franca. Most prized: Touriga Nacional (low yields).",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What strength is Port after fortification?",
+"k": "text"
+},
+{
+"t": "17% abv",
+"k": "text"
+},
+{
+"t": "12-14%",
+"k": "text"
+},
+{
+"t": "19-22% abv",
+"k": "text"
+},
+{
+"t": "15-15.5%",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 19-22% abv",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Fortification kills yeast; timing depends on must weight and desired sweetness.",
+"k": "text"
+},
+{
+"t": "Study notes: Port and fortified wines for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Port questions follow a clear pattern: the Douro climate and vineyard, how fortification works, and above all the difference between the Port styles. Questions on other fortified wines, such as Vins Doux Naturels, Madeira and Rutherglen Muscat, test how the timing of fortification and the type of ageing shape the style. Sherry has its own page; these notes cover Port and the other fortified wines behind the sample questions above.",
+"k": "text"
+},
+{
+"t": "What makes a wine fortified",
+"k": "text"
+},
+{
+"t": "A fortified wine is a wine to which grape spirit has been added. If the spirit is added during fermentation, it kills the yeast and leaves natural grape sugar, so the wine is sweet: this is how Port, Vins Doux Naturels and Rutherglen Muscat are made. If the spirit is added after fermentation, the wine is dry unless it is sweetened later, which is the case for most Sherry. This single idea explains a large share of exam answers on fortified wines.",
+"k": "text"
+},
+{
+"t": "The Douro: climate, soils and vineyards for Port",
+"k": "text"
+},
+{
+"t": "Port comes from the Douro Valley in northern Portugal. The Serra do Marão mountains shelter the valley from Atlantic rain, so the climate is warm continental, becoming hotter and drier the further east you go. Summers are very hot and rain is low, so vines can suffer water stress.",
+"k": "text"
+},
+{
+"t": "Schist soils dominate: the rock fractures vertically, so vine roots can go deep to find water during the dry summer.",
+"k": "text"
+},
+{
+"t": "The valley sides are very steep, so vineyards are planted on terraces.",
+"k": "text"
+},
+{
+"t": "Socalcos are traditional narrow terraces supported by dry-stone walls; they are labour-intensive.",
+"k": "text"
+},
+{
+"t": "Patamares are wider bulldozed terraces without walls, allowing some mechanisation.",
+"k": "text"
+},
+{
+"t": "Vinha ao alto is vertical planting up the slope, used where the gradient allows.",
+"k": "text"
+},
+{
+"t": "The Douro is split into three sub-regions. Baixo Corgo is the westernmost, coolest and wettest, giving lighter wines for basic Ruby and Tawny. Cima Corgo, centred on Pinhão, has most of the top vineyards (quintas). Douro Superior, to the east, is the hottest and driest and increasingly important for quality wine.",
+"k": "text"
+},
+{
+"t": "Port grape varieties",
+"k": "text"
+},
+{
+"t": "Port is usually a blend. Touriga Nacional is the most prized grape, with deep colour, high tannin, full body and intense black fruit and floral aromas, but low yields. Touriga Franca is the most widely planted, adding perfume and finesse. Tinta Roriz (Tempranillo), Tinta Barroca and Tinto Cão complete the main list. Field blends of many varieties are still common in old vineyards.",
+"k": "text"
+},
+{
+"t": "How Port is made: extraction and fortification",
+"k": "text"
+},
+{
+"t": "Grapes are crushed and fermentation starts, but it will last only about 24 to 36 hours.",
+"k": "text"
+},
+{
+"t": "Because fermentation is so short, extraction must be fast and intense: foot treading in lagares, robotic lagares, autovinifiers and pump-over or piston systems are used.",
+"k": "text"
+},
+{
+"t": "When the must reaches about 5 to 9% abv, the wine is run off and mixed with grape spirit (aguardente) at about 77% abv.",
+"k": "text"
+},
+{
+"t": "The spirit kills the yeast, leaving residual sugar; the final Port is around 19 to 22% abv.",
+"k": "text"
+},
+{
+"t": "The wine is then aged, either in large vessels that limit oxygen (ruby styles) or in smaller casks that allow oxidation (tawny styles).",
+"k": "text"
+},
+{
+"t": "Ageing location matters. Traditionally Port was aged in the lodges of Vila Nova de Gaia, near the coast, where it is cooler and more humid. Wine aged in the hotter Douro can develop a cooked, toasty character often called Douro bake.",
+"k": "text"
+},
+{
+"t": "Port styles for WSET Level 3: ruby and tawny families",
+"k": "text"
+},
+{
+"t": "Every Port style belongs to one of two families. Ruby styles are aged in large vessels with little oxygen to keep deep colour and fresh red and black fruit; the best ones mature further in bottle. Tawny styles are aged in small wooden casks (pipes of about 550 litres) for years, so oxidation turns the colour tawny and the flavours to nuts, caramel, coffee and dried fruit.",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Family",
+"k": "text"
+},
+{
+"t": "Key facts",
+"k": "text"
+},
+{
+"t": "Taste",
+"k": "text"
+},
+{
+"t": "Ruby",
+"k": "text"
+},
+{
+"t": "Blend of years, short ageing in large vessels, filtered",
+"k": "text"
+},
+{
+"t": "Simple, fruity, red and black fruit",
+"k": "text"
+},
+{
+"t": "Reserve Ruby",
+"k": "text"
+},
+{
+"t": "Higher quality selection, longer ageing",
+"k": "text"
+},
+{
+"t": "More concentration and structure",
+"k": "text"
+},
+{
+"t": "Late Bottled Vintage (LBV)",
+"k": "text"
+},
+{
+"t": "Single vintage, bottled 4 to 6 years after harvest; usually filtered, unfiltered versions throw sediment",
+"k": "text"
+},
+{
+"t": "Ripe black fruit, ready to drink on release",
+"k": "text"
+},
+{
+"t": "Vintage Port",
+"k": "text"
+},
+{
+"t": "Declared in the best years only, bottled after 2 to 3 years, unfiltered; needs long bottle ageing and decanting",
+"k": "text"
+},
+{
+"t": "Intense black fruit and tannin young; dried fruit and spice with decades of age",
+"k": "text"
+},
+{
+"t": "Single Quinta Vintage",
+"k": "text"
+},
+{
+"t": "Vintage Port from one estate, often made in non-declared years",
+"k": "text"
+},
+{
+"t": "Similar to Vintage Port, from a single site",
+"k": "text"
+},
+{
+"t": "Tawny",
+"k": "text"
+},
+{
+"t": "Basic blend, often lighter wines",
+"k": "text"
+},
+{
+"t": "Light, nutty, red fruit fading",
+"k": "text"
+},
+{
+"t": "Tawny with indication of age (10, 20, 30, 40 years)",
+"k": "text"
+},
+{
+"t": "Blend whose character matches the age stated, aged in small casks",
+"k": "text"
+},
+{
+"t": "Nuts, caramel, dried fruit, increasing with age",
+"k": "text"
+},
+{
+"t": "Colheita",
+"k": "text"
+},
+{
+"t": "Single-vintage tawny, at least 7 years in wood",
+"k": "text"
+},
+{
+"t": "Tawny character of one year",
+"k": "text"
+},
+{
+"t": "Common mistake: thinking a 20 Year Old Tawny contains only 20-year-old wine. The age is an indication of the average style of the blend, approved by tasting, not a minimum or exact age of every component. Another trap: LBV and Vintage Port are both single-vintage ruby styles, but LBV spends much longer in wood and is ready to drink on release.",
+"k": "text"
+},
+{
+"t": "Other fortified wines: VDN, Madeira and Rutherglen Muscat",
+"k": "text"
+},
+{
+"t": "Vins Doux Naturels (France)",
+"k": "text"
+},
+{
+"t": "Vins Doux Naturels are sweet wines fortified during fermentation (mutage). Muscat VDNs, such as Muscat de Beaumes-de-Venise in the Southern Rhône and Muscat de Rivesaltes in Roussillon, are usually made from Muscat Blanc à Petits Grains and bottled young, protected from oxygen, to keep pronounced grapey, floral and orange blossom aromas. Grenache VDNs from Roussillon, such as Banyuls and Maury, can be made in a reductive style, fruity and deeply coloured, or in an oxidative style, aged with oxygen exposure for nutty, rancio flavours.",
+"k": "text"
+},
+{
+"t": "Madeira (Portugal)",
+"k": "text"
+},
+{
+"t": "Madeira is unique because it is deliberately heated. In the estufagem method the wine is heated in tanks for at least three months, which is quicker and used for inexpensive wines. In the canteiro method the wine ages slowly in casks in warm lofts for years, used for the best wines. Heat and oxidation give flavours of caramel, toffee, nuts and dried fruit with very high acidity, and make Madeira extremely long-lived and stable once opened. Sweetness depends on when fortification happens: earlier for sweet styles, later for dry ones. The noble varieties go from driest to sweetest: Sercial, Verdelho, Boal (Bual) and Malmsey (Malvasia). Tinta Negra is the most planted grape and is used for most Madeira.",
+"k": "text"
+},
+{
+"t": "Rutherglen Muscat (Australia)",
+"k": "text"
+},
+{
+"t": "Rutherglen in Victoria has a hot continental climate. A dark-skinned form of Muscat Blanc à Petits Grains is left to ripen late and partly shrivel on the vine, which concentrates sugar. Fermentation is stopped very early with spirit, keeping a very high sugar level. The wines age in old casks, often in hot sheds, and are blended across years in a fractional system. The result is very sweet and very concentrated, with dried fruit, toffee, coffee and spice. Four quality levels show increasing age and richness: Rutherglen, Classic, Grand and Rare.",
+"k": "text"
+},
+{
+"t": "Sample short written answer: Tawny versus Vintage Port",
+"k": "text"
+},
+{
+"t": "Exam-style question: explain why a 20 Year Old Tawny and a young Vintage Port taste so different. A strong answer: both are made the same way up to fortification, with short fermentation, intense extraction and fortification with aguardente leaving residual sugar. The Tawny is aged for many years in small pipes, so oxygen slowly enters, the colour fades to tawny, primary fruit turns to dried fruit, and nutty, caramel and coffee notes develop; it is filtered and ready to drink. The Vintage Port is from a single declared year, aged only 2 to 3 years in large vessels and bottled unfiltered, so it keeps deep colour, intense black fruit and firm tannin, and needs decades of bottle ageing to soften, throwing sediment that requires decanting.",
+"k": "text"
+},
+{
+"t": "How to revise WSET 3 Port and fortified wines in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: write the Port production steps from crushing to fortification, with the two numbers: 5 to 9% abv and 19 to 22% abv.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the three Douro sub-regions from west to east with one style word each.",
+"k": "text"
+},
+{
+"t": "Day 3: sort the Port styles into ruby and tawny families from memory.",
+"k": "text"
+},
+{
+"t": "Day 4: LBV versus Vintage Port: vintage, time in wood, filtration, decanting.",
+"k": "text"
+},
+{
+"t": "Day 5: Madeira grapes from dry to sweet, plus estufagem versus canteiro.",
+"k": "text"
+},
+{
+"t": "Day 6: VDN and Rutherglen Muscat: grape, fortification timing, oxygen and style.",
+"k": "text"
+},
+{
+"t": "Day 7: answer 20 fortified wine multiple-choice questions and write one short answer.",
+"k": "text"
+},
+{
+"t": "Port styles are a classic area for confusion between near-identical options, so practising the full question set in the app is one of the quickest ways to secure these marks.",
+"k": "text"
+},
+{
+"t": "Sample short written answer: how ruby Port keeps its fruit",
+"k": "text"
+},
+{
+"t": "Question: Explain how the production of a Reserve ruby Port gives a wine with intense fruit, deep colour and sweetness. (Model answer.)",
+"k": "text"
+},
+{
+"t": "Fermentation for Port is short, because it is stopped after only 24 to 36 hours, so colour and tannin must be extracted very quickly. Producers use vigorous methods such as foot treading in lagares, mechanical lagares with pistons, or autovinifiers and pumping over. This rapid, intense extraction gives the deep colour and the tannin needed to balance the sweetness and the alcohol.",
+"k": "text"
+},
+{
+"t": "When the fermenting must has reached around 6 to 9% alcohol, it is fortified with grape spirit of about 77% abv. The yeast is killed, so a large amount of natural grape sugar remains, and the final wine has around 19 to 22% alcohol. A ruby Port is then aged for a short time in large, old vessels such as big oak vats or stainless steel, which limit contact with oxygen and preserve the fresh black fruit. Before bottling it is fined and filtered so that it is ready to drink and throws no sediment. A Reserve ruby is made from higher quality wines and has more intensity and complexity than a basic ruby.",
+"k": "text"
+},
+{
+"t": "Two links earn most of the points here: short fermentation leads to vigorous extraction, and large old vessels with little oxygen keep the fruit. Write both as cause and effect.",
+"k": "text"
+},
+{
+"t": "Serving and storing fortified wines: a quick reference",
+"k": "text"
+},
+{
+"t": "Decant?",
+"k": "text"
+},
+{
+"t": "After opening",
+"k": "text"
+},
+{
+"t": "Typical service",
+"k": "text"
+},
+{
+"t": "Ruby and Reserve ruby Port",
+"k": "text"
+},
+{
+"t": "No, filtered before bottling",
+"k": "text"
+},
+{
+"t": "Keeps for a few weeks",
+"k": "text"
+},
+{
+"t": "Room temperature or slightly cool; with chocolate or hard cheese",
+"k": "text"
+},
+{
+"t": "Tawny with an indication of age",
+"k": "text"
+},
+{
+"t": "No, aged in cask and filtered",
+"k": "text"
+},
+{
+"t": "Keeps for several weeks",
+"k": "text"
+},
+{
+"t": "Slightly chilled; with nutty desserts or caramel",
+"k": "text"
+},
+{
+"t": "Unfiltered LBV and Vintage Port",
+"k": "text"
+},
+{
+"t": "Yes, they throw a sediment",
+"k": "text"
+},
+{
+"t": "Best within a day or two",
+"k": "text"
+},
+{
+"t": "Room temperature; with blue cheese",
+"k": "text"
+},
+{
+"t": "Muscat VDN (e.g. Muscat de Beaumes-de-Venise)",
+"k": "text"
+},
+{
+"t": "No",
+"k": "text"
+},
+{
+"t": "A few days in the fridge",
+"k": "text"
+},
+{
+"t": "Well chilled; with fruit desserts",
+"k": "text"
+},
+{
+"t": "Madeira",
+"k": "text"
+},
+{
+"t": "Usually no",
+"k": "text"
+},
+{
+"t": "Very long, already oxidised and heated",
+"k": "text"
+},
+{
+"t": "Dry styles as an aperitif, sweet styles with desserts",
+"k": "text"
+},
+{
+"t": "Common mistakes on Port and fortified wines",
+"k": "text"
+},
+{
+"t": "Saying that fortification happens after fermentation for Port: it interrupts fermentation, which is why the wine is sweet.",
+"k": "text"
+},
+{
+"t": "Describing tawny Port as made from white grapes: tawny comes from black grapes, and its colour comes from long oxidative ageing in small casks.",
+"k": "text"
+},
+{
+"t": "Confusing LBV and Vintage Port: LBV is from a single year but aged four to six years in wood; Vintage spends only about two years in wood and ages mainly in bottle.",
+"k": "text"
+},
+{
+"t": "Forgetting that Vin Doux Naturel uses neutral grape spirit added during fermentation, like Port, but at a higher strength and in smaller quantity.",
+"k": "text"
+},
+{
+"t": "Ignoring the heating process in Madeira (estufagem or canteiro), which explains its stability after opening.",
+"k": "text"
+},
+{
+"t": "Fortified wines in the tasting unit",
+"k": "text"
+},
+{
+"t": "Theory and tasting are separate units at Level 3, each with a minimum of 55%, and a failed unit is retaken on its own. A fortified wine can appear in the tasting, so practise describing one fully. Note the high alcohol, which you feel as warmth, and judge the sweetness carefully, because high acidity or tannin can make a sweet wine seem less sweet. A ruby Port is deep ruby or purple with black fruit and firm tannin; a tawny is tawny or garnet with dried fruit, nuts, caramel and softer tannin. In the conclusion, decide whether the wine is ready to drink now or has the structure to develop further.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "52 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Port and fortified wines are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 52 multiple-choice questions on Port and fortified wines, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Port and fortified wines important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Port and fortified wines, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between ruby and tawny Port for WSET 3?",
+"k": "text"
+},
+{
+"t": "Ruby Ports are aged in large vessels with little oxygen, so they keep deep colour and fresh red and black fruit. Tawny Ports are aged for years in small wooden casks where slow oxidation turns the colour tawny and develops nutty, caramel and dried fruit flavours. Vintage, LBV and Reserve belong to the ruby family; age-indicated Tawny and Colheita to the tawny family.",
+"k": "text"
+},
+{
+"t": "How is LBV different from Vintage Port?",
+"k": "text"
+},
+{
+"t": "Both come from a single year. Vintage Port is made only in declared years, bottled after 2 to 3 years without filtration and needs long bottle ageing and decanting. LBV is bottled 4 to 6 years after harvest, usually filtered, so it is softer and ready to drink on release, though unfiltered LBVs may throw a deposit.",
+"k": "text"
+},
+{
+"t": "Why is Madeira heated?",
+"k": "text"
+},
+{
+"t": "Heating recreates the effect of long sea voyages in tropical heat, which historically improved the wine. In estufagem the wine is heated in tanks for at least three months; in canteiro it ages slowly in warm lofts. Heat and oxidation create caramel, nut and dried fruit flavours and make Madeira extremely stable and long-lived.",
+"k": "text"
+},
+{
+"t": "What is mutage in Vins Doux Naturels?",
+"k": "text"
+},
+{
+"t": "Mutage is the addition of grape spirit to fermenting must to stop fermentation, keeping natural grape sugar. It is used for French Vins Doux Naturels such as Muscat de Beaumes-de-Venise, Banyuls and Maury. Muscat VDNs are usually bottled young to keep grapey, floral aromas, while some Grenache VDNs are aged oxidatively for nutty flavours.",
+"k": "text"
+},
+{
+"t": "Which grapes are used for Port?",
+"k": "text"
+},
+{
+"t": "The main Port grapes are Touriga Nacional, the most prized, with deep colour and intense fruit but low yields; Touriga Franca, the most widely planted; plus Tinta Roriz (Tempranillo), Tinta Barroca and Tinto Cão. Most Ports are blends, and old vineyards often contain field blends of many varieties.",
+"k": "text"
+},
+{
+"t": "Why is Port fermentation so short?",
+"k": "text"
+},
+{
+"t": "Port is fortified when the must reaches about 5 to 9% alcohol, usually after only 24 to 36 hours, to keep the natural grape sugar. In that short time the winemaker must extract enough colour and tannin to balance the sweetness and the high alcohol, which is why vigorous methods such as foot treading, mechanical lagares and autovinifiers are used.",
+"k": "text"
+},
+{
+"t": "How long does an open bottle of Port last?",
+"k": "text"
+},
+{
+"t": "It depends on the style. Ruby and tawny Ports are filtered and fairly stable, so they keep for a few weeks once opened, and tawnies, already exposed to oxygen in cask, often last longest. Vintage Port and unfiltered LBV are best within a day or two. Madeira is the most robust of all because it is already oxidised and heated during production.",
+"k": "text"
+},
+{
+"t": "Is Port in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "It can be. Theory and tasting are separate units, each requiring at least 55%. If you taste a fortified wine, describe the high alcohol, the level of sweetness, the tannin and the fruit or tertiary character, then judge the quality and readiness to drink. You are not asked to name the style, but your description should be precise enough to support logical conclusions.",
+"k": "text"
+},
+{
+"t": "What is the difference between a Single Quinta Vintage Port and a classic Vintage Port?",
+"k": "text"
+},
+{
+"t": "A classic Vintage Port is usually a blend of the best wines from several of a producer's vineyards, declared only in the best years. A Single Quinta Vintage Port comes from one estate and is often made in good years that are not declared as classic vintages. Both are bottled young, unfiltered, and need long bottle ageing.",
+"k": "text"
+},
+{
+"t": "What foods go with tawny Port?",
+"k": "text"
+},
+{
+"t": "Tawny Port, with its dried fruit, nut and caramel flavours, pairs well with desserts based on nuts, caramel or dried fruit, such as almond tarts or crème caramel, and with hard, mature cheeses. It is usually served slightly chilled. Its sweetness should be at least as high as the sweetness of the dessert, or the wine will taste thin and sharp.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Port and fortified wines – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Port and fortified wines practice questions with answers and explanations, plus 52 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the Douro's three Port sub-regions?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Baixo Corgo is coolest and wettest with the lightest wines; Cima Corgo has most top vineyards; Douro Superior is renowned. Hotter and drier eastward.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What shields the Douro from rain-bearing Atlantic winds?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The climate is warm continental; vineyards start 70 km upstream of Porto and Gaia.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At what alcohol level is Port fermentation stopped?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The time is so short that normal extraction is too weak: foot treading, autovinifiers, pistons and robotic lagares are used.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is a lagar?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The benchmark for other methods; labour-intensive, still used for some premium wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which is the most widely planted grape in the Douro?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Most planted: Touriga Franca. Most prized: Touriga Nacional (low yields).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What strength is Port after fortification?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Fortification kills yeast; timing depends on must weight and desired sweetness.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

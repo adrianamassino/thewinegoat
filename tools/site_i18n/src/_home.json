@@ -3,9 +3,9 @@
 "source": "index.html",
 "url": "/",
 "region": "body",
-"sha": "c5223caf9802",
+"sha": "5f969432be90",
 "words": 1378,
-"segment_words": 1753,
+"segment_words": 1736,
 "segments": [
 {
 "t": "WSET Exam Prep: Level 1, 2 & 3 Practice App | The Wine Goat",
@@ -804,11 +804,6 @@
 "t": "Close",
 "k": "attr",
 "n": "alt/title/aria text"
-},
-{
-"t": "WSET Level 3 Exam Prep | Practice Questions, Short Answers & Mock Exams – The Wine Goat",
-"k": "ld",
-"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
 },
 {
 "t": "Prepare for the WSET Level 3 Award in Wines: 2,000+ multiple-choice practice questions, 101 short written answer questions with marking, SAT tasting practice, mock exams and exam traps. Try it free. Personalised app with a study plan and weak-point revision.",

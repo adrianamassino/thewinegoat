@@ -97,9 +97,9 @@
 },
 "wset-3-questions__port-fortified-wines": {
 "segments": 245,
-"segment_words": 3700,
-"page_words": 3418,
-"chars": 22168
+"segment_words": 3701,
+"page_words": 3419,
+"chars": 22167
 },
 "wset-3-questions__portugal": {
 "segments": 239,
@@ -306,9 +306,9 @@
 "chars": 20342
 },
 "_home": {
-"segments": 256,
-"segment_words": 1753,
+"segments": 255,
+"segment_words": 1736,
 "page_words": 1378,
-"chars": 11161
+"chars": 11074
 }
 }

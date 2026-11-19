@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<!-- base href + window.REEL are injected by tools/social/build.js -->
+<!--BASE-->
+<link rel="stylesheet" href="tools/social/templates/base.css">
+<style>
+html,body{width:1080px;height:1920px;overflow:hidden;background:#3e0f22}
+#cv{width:1080px;height:1920px;position:relative;overflow:hidden;color:var(--cream)}
+#bg{position:absolute;inset:-200px;background:radial-gradient(60% 40% at 50% 50%,rgba(160,52,92,.55) 0%,rgba(107,31,58,0) 70%),linear-gradient(180deg,#4a1229 0%,#3e0f22 45%,#2c0917 100%)}
+#glow{position:absolute;width:900px;height:900px;border-radius:50%;background:radial-gradient(circle,rgba(212,162,58,.20) 0%,rgba(212,162,58,0) 65%)}
+.rbrand{position:absolute;top:262px;left:0;right:0;display:flex;justify-content:center;align-items:center;gap:16px;z-index:5}
+.rbrand img.em{width:60px;height:60px;border-radius:50%;background:var(--cream);box-shadow:0 0 0 2px rgba(212,162,58,.6)}
+.rbrand img.wm{height:48px}
+#prog{position:absolute;top:350px;left:120px;right:120px;height:6px;border-radius:3px;background:rgba(251,247,241,.15);z-index:5}
+#prog i{display:block;height:100%;width:0;border-radius:3px;background:var(--gold)}
+.scene{position:absolute;left:90px;right:90px;top:410px;height:1000px;display:flex;flex-direction:column;align-items:center;text-align:center;opacity:0}
+.scene .kicker{font-size:30px;margin-bottom:22px;color:var(--gold)}
+.scene .rt{font:800 104px/1.02 var(--serif);color:var(--cream);letter-spacing:-.01em}
+.scene .rt em{font-style:italic;font-weight:600;color:var(--gold)}
+.scene .rtag{display:inline-block;margin-top:22px;font:800 24px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:12px 18px;border-radius:999px;background:rgba(212,162,58,.2);color:var(--gold-soft)}
+.scene .lines{margin-top:40px;display:flex;flex-direction:column;gap:20px;width:100%}
+.scene .ln{font:600 40px/1.25 var(--sans);background:rgba(251,247,241,.08);border:1.5px solid rgba(212,162,58,.35);border-radius:24px;padding:22px 28px;opacity:0}
+.scene .ln b{color:var(--gold-soft)}
+.rgoat{position:absolute;left:50%;z-index:2;filter:drop-shadow(0 22px 34px rgba(0,0,0,.35));opacity:0}
+#cap{position:absolute;left:80px;right:80px;top:1440px;min-height:120px;display:flex;align-items:center;justify-content:center;z-index:6}
+#cap span{display:inline-block;background:rgba(20,4,11,.78);color:#fff;font:700 38px/1.3 var(--sans);padding:16px 26px;border-radius:18px;text-align:center;max-width:920px}
+.cover-badge{display:none}
+</style>
+</head><body>
+<div id="cv">
+  <div id="bg"></div><div id="glow"></div>
+  <div class="rbrand"><img class="em" src="img/logo-emblem.webp" alt=""><img class="wm" src="img/wordmark-light.webp" alt=""></div>
+  <div id="prog"><i></i></div>
+  <div id="scenes"></div>
+  <div id="cap"><span></span></div>
+</div>
+<script>
+// Deterministic animation: window.render(t) draws the frame at time t (seconds).
+const R = window.REEL;
+const ease = (x) => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
+const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+const host = document.getElementById('scenes');
+const sceneEls = R.scenes.map((s, i) => {
+  const d = document.createElement('div');
+  d.className = 'scene';
+  d.innerHTML = `${s.kicker ? `<div class="kicker">${s.kicker}</div>` : ''}<div class="rt" style="${s.titleSize ? `font-size:${s.titleSize}px` : ''}">${s.title}</div>${s.tag ? `<div><span class="rtag">${s.tag}</span></div>` : ''}<div class="lines">${(s.lines || []).map((l) => `<div class="ln">${l}</div>`).join('')}</div>`;
+  host.appendChild(d);
+  let g = null;
+  if (s.goat) {
+    g = document.createElement('img');
+    g.className = 'rgoat'; g.src = s.goat.src;
+    g.style.height = (s.goat.h || 420) + 'px';
+    g.style.top = (s.goat.top || 980) + 'px';
+    document.getElementById('cv').appendChild(g);
+  }
+  return { d, g, lines: [...d.querySelectorAll('.ln')] };
+});
+const total = R.scenes[R.scenes.length - 1].end;
+const cap = document.querySelector('#cap span');
+
+window.render = (t) => {
+  // background drift
+  const gl = document.getElementById('glow');
+  gl.style.left = (90 + Math.sin(t * 0.35) * 120) + 'px';
+  gl.style.top = (520 + Math.cos(t * 0.28) * 160) + 'px';
+  document.querySelector('#prog i').style.width = (clamp(t / total, 0, 1) * 100) + '%';
+  let capText = '';
+  R.scenes.forEach((s, i) => {
+    const { d, g, lines } = sceneEls[i];
+    const fin = 0.45, fout = 0.35;
+    const local = t - s.start, dur = s.end - s.start;
+    let a = 0;
+    if (local >= 0 && local <= dur) {
+      a = Math.min(ease(local / fin), i === R.scenes.length - 1 ? 1 : ease((dur - local) / fout));
+      if (s.holdLast && local > dur - fout) a = 1;
+    }
+    d.style.opacity = a;
+    d.style.transform = `translateY(${(1 - a) * 40}px)`;
+    lines.forEach((ln, j) => {
+      const st = 0.5 + j * (s.lineGap || 0.55);
+      const la = ease((local - st) / 0.4);
+      ln.style.opacity = Math.min(la, a);
+      ln.style.transform = `translateY(${(1 - la) * 24}px)`;
+    });
+    if (g) {
+      const ga = Math.min(a, ease((local - 0.15) / 0.6));
+      const bob = Math.sin((t + i) * 2.0) * 10;
+      const rot = Math.sin((t + i) * 1.3) * 1.6;
+      const sc = 0.94 + 0.06 * ga + Math.sin(t * 0.9) * 0.008;
+      g.style.opacity = ga;
+      g.style.transform = `translateX(-50%) translateY(${bob + (1 - ga) * 60}px) rotate(${rot}deg) scale(${sc})`;
+    }
+    if (local >= 0 && local < dur) capText = s.caption || '';
+  });
+  cap.textContent = capText;
+  cap.style.display = capText ? 'inline-block' : 'none';
+};
+window.reelReady = Promise.all([document.fonts.ready, ...[...document.images].map((im) => im.decode().catch(() => {}))]);
+</script>
+</body></html>
