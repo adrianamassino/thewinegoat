@@ -9,11 +9,12 @@ e = html.escape
 SITE = 'https://thewinegoat.com'; DATE = '2026-11-18'; ROOT = os.getcwd(); D = 'tools/seo_core'
 SL = json.load(open(f'{D}/slugs.json', encoding='utf8'))
 KEYS = list(SL)
-ALL = ['en', 'it', 'fr', 'es', 'es-ar', 'de', 'nl', 'pl', 'pt', 'pt-br', 'ru', 'el', 'ja', 'ko', 'zh-hans', 'zh-hant', 'ar']
+ALL = ['en', 'it', 'fr', 'es', 'es-ar', 'de', 'nl', 'pl', 'pt', 'pt-br', 'ru', 'el', 'ja', 'ko', 'zh-hans', 'zh-hant', 'ar', 'th', 'tr']
 HOME = {l: '/' if l == 'en' else f'/{l}/' for l in ALL}
 APPL = {'it': 'it', 'fr': 'fr', 'en': 'en', 'es': 'es', 'es-ar': 'es'}
+APPL.update({l: l for l in ALL if l not in APPL and os.path.exists(f'app/i18n/{l}.js')})  # app language added later (app/i18n/<lang>.js)
 LNAME = {'en': 'English', 'it': 'Italiano', 'fr': 'Français', 'es': 'Español', 'es-ar': 'Español (AR)', 'de': 'Deutsch', 'nl': 'Nederlands', 'pl': 'Polski', 'pt': 'Português',
-         'pt-br': 'Português (BR)', 'ru': 'Русский', 'el': 'Ελληνικά', 'ja': '日本語', 'ko': '한국어', 'zh-hans': '简体中文', 'zh-hant': '繁體中文', 'ar': 'العربية'}
+         'pt-br': 'Português (BR)', 'ru': 'Русский', 'el': 'Ελληνικά', 'ja': '日本語', 'ko': '한국어', 'zh-hans': '简体中文', 'zh-hant': '繁體中文', 'ar': 'العربية', 'th': 'ไทย', 'tr': 'Türkçe'}
 HREF = {'zh-hans': 'zh-Hans', 'zh-hant': 'zh-Hant', 'es-ar': 'es-AR', 'pt-br': 'pt-BR'}
 # UI: home, faq, more, start (app on Spirits 1), all (app), btn, updated, short, show answer, answer, why, spirits hub label
 UI = {
@@ -34,11 +35,14 @@ UI = {
  'zh-hans': ('首页', '常见问题', '更多烈酒指南', '免费开始 Spirits 1', '打开应用', '免费开始', '更新于', '要点', '查看答案', '答案：', '原因：'),
  'zh-hant': ('首頁', '常見問題', '更多烈酒指南', '免費開始 Spirits 1', '開啟應用程式', '免費開始', '更新於', '重點', '查看答案', '答案：', '原因：'),
  'ar': ('الرئيسية', 'الأسئلة الشائعة', 'المزيد من أدلة المشروبات الروحية', 'ابدأ Spirits 1 مجانًا', 'افتح التطبيق', 'ابدأ مجانًا', 'آخر تحديث', 'باختصار', 'اعرض الإجابة', 'الإجابة:', 'السبب:'),
+ 'th': ('หน้าแรก', 'คำถามที่พบบ่อย', 'คู่มือสุราเพิ่มเติม', 'เริ่ม Spirits 1 ฟรี', 'เปิดแอป', 'เริ่มใช้ฟรี', 'อัปเดตเมื่อ', 'สรุปสั้น ๆ', 'ดูคำตอบ', 'คำตอบ:', 'เหตุผล:'),
+ 'tr': ('Ana sayfa', 'Sık sorulan sorular', 'Diğer distile içki rehberleri', 'Spirits 1’e ücretsiz başla', 'Uygulamayı aç', 'Ücretsiz başla', 'Güncellendi', 'Kısaca', 'Cevabı göster', 'Cevap:', 'Neden:'),
 }
 MORE = {'en': 'More WSET preparation tools', 'it': 'Altri strumenti per preparare il WSET', 'fr': 'Autres outils pour préparer le WSET', 'es': 'Más herramientas para preparar el WSET',
  'es-ar': 'Más herramientas para preparar el WSET', 'de': 'Weitere Hilfen zur WSET-Vorbereitung', 'nl': 'Meer hulpmiddelen voor je WSET-voorbereiding', 'pl': 'Więcej narzędzi do przygotowań do WSET',
  'pt': 'Mais ferramentas para preparar o WSET', 'pt-br': 'Mais ferramentas para se preparar para o WSET', 'ru': 'Другие инструменты подготовки к WSET', 'el': 'Περισσότερα εργαλεία προετοιμασίας για το WSET',
- 'ja': 'WSET対策ツールをもっと見る', 'ko': 'WSET 준비 도구 더 보기', 'zh-hans': '更多 WSET 备考工具', 'zh-hant': '更多 WSET 備考工具', 'ar': 'المزيد من أدوات التحضير لامتحانات WSET'}
+ 'ja': 'WSET対策ツールをもっと見る', 'ko': 'WSET 준비 도구 더 보기', 'zh-hans': '更多 WSET 备考工具', 'zh-hant': '更多 WSET 備考工具', 'ar': 'المزيد من أدوات التحضير لامتحانات WSET',
+ 'th': 'เครื่องมือเตรียมสอบ WSET เพิ่มเติม', 'tr': 'WSET hazırlığı için diğer araçlar'}
 UI = {k: v + (MORE[k],) for k, v in UI.items()}
 DISC = {
  'en': 'The Wine Goat is an independent exam preparation platform, not affiliated with, endorsed or sponsored by the Wine &amp; Spirit Education Trust. WSET® is a registered trademark of the Wine &amp; Spirit Education Trust, mentioned only to identify the exam being prepared for.',
@@ -46,7 +50,8 @@ DISC = {
  'fr': "The Wine Goat est une plateforme indépendante de préparation aux examens, non affiliée au Wine &amp; Spirit Education Trust, ni approuvée ni sponsorisée par lui. WSET® est une marque déposée du Wine &amp; Spirit Education Trust, citée uniquement pour désigner l'examen.",
  'es': 'The Wine Goat es una plataforma independiente de preparación de exámenes, no afiliada, avalada ni patrocinada por el Wine &amp; Spirit Education Trust. WSET® es una marca registrada del Wine &amp; Spirit Education Trust, citada solo para indicar el examen.'}
 for l in ALL:
-    if l not in DISC:
+    if l not in DISC and not os.path.exists(f'{l}/index.html'): DISC[l] = DISC['en']  # no home yet: the language is skipped below
+    elif l not in DISC:
         m = re.search(r'<p class="fd3">(.*?)</p>', open(f'{l}/index.html', encoding='utf8').read(), re.S); DISC[l] = m.group(1).strip()
 OG = {'it': 'og-it', 'fr': 'og-fr', 'es': 'og-es', 'es-ar': 'og-es'}
 
@@ -72,7 +77,7 @@ def extend(l, C):
             C[k]['body'] = C[k]['body'] + v.get('body', [])
             C[k]['faq'] = C[k]['faq'] + [q for q in v.get('faq', []) if q[0] not in {a for a, _ in C[k]['faq']}]
     return C
-CONTENT = {l: c for l in ALL if (c := extend(l, load(l)))}
+CONTENT = {l: c for l in ALL if (l == 'en' or os.path.exists(f'{l}/index.html')) and (c := extend(l, load(l)))}  # a language needs its home page
 LANGS = [l for l in ALL if l in CONTENT]
 
 def short(t, n):

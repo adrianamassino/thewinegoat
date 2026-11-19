@@ -1,0 +1,1368 @@
+{
+"group": "wset-level-3-flashcards",
+"source": "wset-level-3-flashcards/index.html",
+"url": "/wset-level-3-flashcards/",
+"region": "main",
+"sha": "390ac624a81d",
+"words": 3622,
+"segment_words": 3709,
+"segments": [
+{
+"t": "WSET Level 3 flashcards – grapes, regions & key terms",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 flashcards: grape varieties, regions, appellations, winemaking terms and the numbers to know. 2,500+ cards with spaced repetition in the app.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 3 flashcards, WSET 3 flashcards, wine flashcards, grape varieties flashcards, WSET 3 revision cards, wine regions flashcards, wine terms glossary, Anki WSET 3",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 flashcards: grapes, regions, numbers and key terms – WSET Level 3 flashcards, WSET 3 flashcards (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 flashcards: grapes, regions, numbers and key terms",
+"k": "text"
+},
+{
+"t": "Flashcards are the quickest way to fix the hundreds of names, numbers and terms of the WSET Level 3 syllabus in your memory: grape varieties and their synonyms, appellations and their rules, ageing requirements, winemaking terms.",
+"k": "text"
+},
+{
+"t": "Free WSET Level 3 flashcards: grape varieties, regions, appellations, winemaking terms and the numbers to know.",
+"k": "text"
+},
+{
+"t": "The Wine Goat has more than 2,500 flashcards in the app – questions, terms, figures and grapes – with spaced repetition that shows you each card just before you would forget it. Flip a few below.",
+"k": "text"
+},
+{
+"t": "Little and often: 10 minutes of flashcards a day beats a long session once a week.",
+"k": "text"
+},
+{
+"t": "Say the answer out loud before flipping the card.",
+"k": "text"
+},
+{
+"t": "Keep the cards you miss in a separate pile and review them first.",
+"k": "text"
+},
+{
+"t": "Mix topics: it makes recall harder now and easier on exam day.",
+"k": "text"
+},
+{
+"t": "Use flashcards for facts and practice questions for reasoning.",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "Tap to flip",
+"k": "text"
+},
+{
+"t": "{1}Which vine species produces nearly all wine grapes?{/1}{2}Vitis vinifera{/2}",
+"k": "text"
+},
+{
+"t": "{1}Why are American vines important even though their wines are not liked?{/1}{2}They resist phylloxera and are used as rootstocks{/2}",
+"k": "text"
+},
+{
+"t": "{1}Which three Greek grapes are most recognised abroad, and from where?{/1}{2}Xinomavro (Naoussa), Agiorgitiko (Nemea), Assyrtiko (Santorini){/2}",
+"k": "text"
+},
+{
+"t": "{1}Which grape makes Naoussa PDO?{/1}{2}Exclusively Xinomavro{/2}",
+"k": "text"
+},
+{
+"t": "{1}What is Austria best known for?{/1}{2}Quality dry whites from Grüner Veltliner and Riesling{/2}",
+"k": "text"
+},
+{
+"t": "{1}What climate do Austria's wine regions have?{/1}{2}Cool continental, with short summers and harsh winters{/2}",
+"k": "text"
+},
+{
+"t": "Study notes: how to use WSET Level 3 flashcards properly",
+"k": "text"
+},
+{
+"t": "WSET Level 3 flashcards are only as useful as the way you build and review them. The syllabus contains hundreds of facts that must be instantly available on exam day: grape varieties and their synonyms, the main grape of each appellation, ageing rules, labelling terms, production methods and the cause-and-effect links between climate, vineyard, winery and style. Flashcards are the most efficient tool for that layer of knowledge, because they force you to retrieve a fact from memory instead of simply recognising it on a page. These notes explain how to write good cards, how often to review them, which numbers and terms deserve a card, and how to turn flashcard knowledge into the explanations the written paper rewards.",
+"k": "text"
+},
+{
+"t": "Why flashcards work: active recall and spacing",
+"k": "text"
+},
+{
+"t": "Two learning principles explain why flashcards beat rereading. The first is active recall: every time you try to pull an answer out of memory, the memory becomes stronger and easier to find next time. Rereading your notes feels productive because the information looks familiar, but familiarity is not the same as recall, and the exam asks for recall. The second principle is spacing: a fact reviewed several times with growing gaps between reviews is retained far longer than a fact reviewed many times in one sitting. Spaced-repetition software automates this by showing each card again just before you are likely to forget it.",
+"k": "text"
+},
+{
+"t": "The practical consequence is simple. Short daily sessions, in which you genuinely try to answer before flipping, are more effective than long weekend sessions in which you leaf through cards you already half know. Ten to fifteen minutes a day, every day, is a realistic target that fits around work and the course itself.",
+"k": "text"
+},
+{
+"t": "What deserves a flashcard, and what does not",
+"k": "text"
+},
+{
+"t": "Not every part of the syllabus suits the flashcard format. Cards are perfect for discrete facts that have one correct answer. They are less useful for long explanations, which are better practised as short written answers. The table shows the categories that work best, with an example of each.",
+"k": "text"
+},
+{
+"t": "Category",
+"k": "text"
+},
+{
+"t": "Example front",
+"k": "text"
+},
+{
+"t": "Example back",
+"k": "text"
+},
+{
+"t": "Grape synonyms",
+"k": "text"
+},
+{
+"t": "What is Grenache called in Spain?",
+"k": "text"
+},
+{
+"t": "Garnacha",
+"k": "text"
+},
+{
+"t": "Appellation to grape",
+"k": "text"
+},
+{
+"t": "Which grape makes red Sancerre?",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Grape to appellation",
+"k": "text"
+},
+{
+"t": "Name a Loire appellation known for dry Chenin Blanc",
+"k": "text"
+},
+{
+"t": "Savennières (also Vouvray, which ranges from dry to sweet)",
+"k": "text"
+},
+{
+"t": "Ageing rules",
+"k": "text"
+},
+{
+"t": "Minimum time on lees for non-vintage Champagne?",
+"k": "text"
+},
+{
+"t": "12 months on the lees, within at least 15 months before release",
+"k": "text"
+},
+{
+"t": "Labelling terms",
+"k": "text"
+},
+{
+"t": "What does sur lie indicate on a Muscadet label?",
+"k": "text"
+},
+{
+"t": "The wine stayed on its fine lees over winter before bottling, adding texture and a slight spritz",
+"k": "text"
+},
+{
+"t": "Winemaking terms",
+"k": "text"
+},
+{
+"t": "What is carbonic maceration?",
+"k": "text"
+},
+{
+"t": "Whole bunches ferment in a carbon dioxide-rich tank, giving soft tannin and red fruit, banana and bubblegum notes",
+"k": "text"
+},
+{
+"t": "Cause and effect",
+"k": "text"
+},
+{
+"t": "Why does a large diurnal range help aromatic whites?",
+"k": "text"
+},
+{
+"t": "Cool nights slow the loss of acidity and preserve aroma compounds while the warm days ripen the grapes",
+"k": "text"
+},
+{
+"t": "Two categories need special care. Cause-and-effect cards should be short enough to recall in one breath; if the back of the card needs a paragraph, split it into several cards. And grape-to-appellation cards should be written in both directions, because the multiple-choice paper asks the question both ways round.",
+"k": "text"
+},
+{
+"t": "How to write a good flashcard",
+"k": "text"
+},
+{
+"t": "One fact per card. A card asking for the five grapes of a blend is hard to grade honestly; five cards, or one card asking for the main grape, work better.",
+"k": "text"
+},
+{
+"t": "Write the question precisely. Which grape is the main variety of Rioja? has one answer; Tell me about Rioja does not.",
+"k": "text"
+},
+{
+"t": "Add the reason when it is short. Mosel: steep slate slopes facing south, because the slope and the river increase sunlight and warmth in a cool climate. The reason is what you will need in a written answer.",
+"k": "text"
+},
+{
+"t": "Use exam vocabulary on the back: medium-plus acidity, pronounced intensity, full body. Your card vocabulary becomes your writing vocabulary.",
+"k": "text"
+},
+{
+"t": "Create reverse cards for names that are easy to mix up: Xinomavro and Agiorgitiko, Garganega and Grechetto, Tinta Roriz and Touriga Nacional.",
+"k": "text"
+},
+{
+"t": "Delete or rewrite cards you always get wrong. A card that fails repeatedly is usually badly written, too long or ambiguous.",
+"k": "text"
+},
+{
+"t": "Weak card or strong card?",
+"k": "text"
+},
+{
+"t": "Weak card",
+"k": "text"
+},
+{
+"t": "Why it is weak",
+"k": "text"
+},
+{
+"t": "Stronger version",
+"k": "text"
+},
+{
+"t": "Bordeaux?",
+"k": "text"
+},
+{
+"t": "No clear question, no single answer",
+"k": "text"
+},
+{
+"t": "Which grape dominates most Left Bank blends? Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "List all Champagne grapes",
+"k": "text"
+},
+{
+"t": "A list is hard to grade and easy to half know",
+"k": "text"
+},
+{
+"t": "Which black grape gives Champagne body and red fruit? Pinot Noir",
+"k": "text"
+},
+{
+"t": "Port styles",
+"k": "text"
+},
+{
+"t": "Too broad for one card",
+"k": "text"
+},
+{
+"t": "How long is LBV aged before bottling? Four to six years",
+"k": "text"
+},
+{
+"t": "Explain why Alsace is dry",
+"k": "text"
+},
+{
+"t": "A full explanation, not a fact",
+"k": "text"
+},
+{
+"t": "Which mountain range shelters Alsace from rain? The Vosges",
+"k": "text"
+},
+{
+"t": "A simple spaced-repetition schedule",
+"k": "text"
+},
+{
+"t": "If you use paper cards rather than an app, you can still apply spacing with a box system. Every card starts in box 1. When you answer a card correctly, move it one box forward; when you get it wrong, send it back to box 1. Each box is reviewed at a different interval, so easy cards come back rarely and difficult cards come back often.",
+"k": "text"
+},
+{
+"t": "Box",
+"k": "text"
+},
+{
+"t": "Review interval",
+"k": "text"
+},
+{
+"t": "Typical content",
+"k": "text"
+},
+{
+"t": "Box 1",
+"k": "text"
+},
+{
+"t": "Every day",
+"k": "text"
+},
+{
+"t": "New cards and cards you just got wrong",
+"k": "text"
+},
+{
+"t": "Box 2",
+"k": "text"
+},
+{
+"t": "Every 3 days",
+"k": "text"
+},
+{
+"t": "Cards answered correctly once",
+"k": "text"
+},
+{
+"t": "Box 3",
+"k": "text"
+},
+{
+"t": "Every week",
+"k": "text"
+},
+{
+"t": "Cards answered correctly twice in a row",
+"k": "text"
+},
+{
+"t": "Box 4",
+"k": "text"
+},
+{
+"t": "Every 2 weeks",
+"k": "text"
+},
+{
+"t": "Facts that are becoming stable",
+"k": "text"
+},
+{
+"t": "Box 5",
+"k": "text"
+},
+{
+"t": "Once a month",
+"k": "text"
+},
+{
+"t": "Facts you know well; review mainly before mocks",
+"k": "text"
+},
+{
+"t": "An app does the same calculation automatically for every card, which matters once you have more than a few hundred. The Wine Goat app schedules its 2,500-plus flashcards this way and also brings back the topics in which your practice questions show weak results.",
+"k": "text"
+},
+{
+"t": "Sample flashcards by topic, with answers",
+"k": "text"
+},
+{
+"t": "The cards below are our own examples, written to show the right size and precision for Level 3. Read the question, answer out loud, then check the answer.",
+"k": "text"
+},
+{
+"t": "The vine and its environment",
+"k": "text"
+},
+{
+"t": "Q: Roughly what average temperature does the vine need before budburst starts? A: Around 10°C.",
+"k": "text"
+},
+{
+"t": "Q: What is coulure? A: Poor fruit set in which many flowers fail to become berries, often after cold, wet or windy weather at flowering.",
+"k": "text"
+},
+{
+"t": "Q: What is the main risk of a vineyard in a frost pocket? A: Spring frost damaging young shoots after budburst.",
+"k": "text"
+},
+{
+"t": "Q: Name two ways to protect vines against spring frost. A: Wind machines and sprinklers (also heaters, or a site on a slope).",
+"k": "text"
+},
+{
+"t": "Q: Why does a continental climate raise the risk of spring frost? A: It has cold winters and a large difference between seasons, so cold snaps can still occur after budburst.",
+"k": "text"
+},
+{
+"t": "Q: What does canopy management mainly control? A: The exposure of leaves and grapes to sunlight and air, which affects ripening and disease pressure.",
+"k": "text"
+},
+{
+"t": "Winemaking and maturation",
+"k": "text"
+},
+{
+"t": "Q: What does malolactic conversion do to acidity? A: It converts sharper malic acid into softer lactic acid, lowering perceived acidity, and can add buttery notes.",
+"k": "text"
+},
+{
+"t": "Q: Why ferment white wine at low temperature? A: To preserve fresh, fruity primary aromas.",
+"k": "text"
+},
+{
+"t": "Q: What is the difference between punching down and pumping over? A: Both extract colour and tannin from the cap; punching down pushes the cap into the juice, pumping over sprays juice from below over the cap.",
+"k": "text"
+},
+{
+"t": "Q: Which effect does new oak have compared with old oak? A: New oak gives more flavour (vanilla, toast, spice) and more oak tannin; old oak mainly allows slow oxygen contact.",
+"k": "text"
+},
+{
+"t": "Q: What is batonnage? A: Stirring the lees in barrel or tank to add body, texture and savoury notes.",
+"k": "text"
+},
+{
+"t": "Q: Why might a red wine be fermented with whole bunches? A: To add fresh red fruit aromas, a lighter structure and sometimes herbal notes from the stems.",
+"k": "text"
+},
+{
+"t": "France",
+"k": "text"
+},
+{
+"t": "Q: Which grape makes white Chablis? A: Chardonnay.",
+"k": "text"
+},
+{
+"t": "Q: Which village in the northern Rhône makes white wine only, from Viognier? A: Condrieu.",
+"k": "text"
+},
+{
+"t": "Q: Which grape dominates most Right Bank Bordeaux, such as Pomerol? A: Merlot.",
+"k": "text"
+},
+{
+"t": "Q: Which grape makes Beaujolais? A: Gamay.",
+"k": "text"
+},
+{
+"t": "Q: Which grape is used for Sancerre blanc and Pouilly-Fumé? A: Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "Q: What is Sauternes made from, and how? A: Mainly Sémillon with Sauvignon Blanc, from grapes affected by noble rot.",
+"k": "text"
+},
+{
+"t": "Italy, Spain and Portugal",
+"k": "text"
+},
+{
+"t": "Q: Which grape makes Barolo and Barbaresco? A: Nebbiolo.",
+"k": "text"
+},
+{
+"t": "Q: Which grape is the base of Chianti Classico? A: Sangiovese.",
+"k": "text"
+},
+{
+"t": "Q: What is the main grape of Soave? A: Garganega.",
+"k": "text"
+},
+{
+"t": "Q: How are the grapes for Amarone della Valpolicella prepared? A: They are dried after harvest to concentrate sugar and flavour before fermentation.",
+"k": "text"
+},
+{
+"t": "Q: Which white grape is the main variety of Rías Baixas? A: Albariño.",
+"k": "text"
+},
+{
+"t": "Q: Which grape is called Tinta Roriz in the Douro? A: Tempranillo.",
+"k": "text"
+},
+{
+"t": "Germany, Austria and the wider world",
+"k": "text"
+},
+{
+"t": "Q: Which Prädikat level is made from individually selected, shrivelled, nobly rotten berries? A: Trockenbeerenauslese.",
+"k": "text"
+},
+{
+"t": "Q: What is Austria's most planted white grape? A: Grüner Veltliner.",
+"k": "text"
+},
+{
+"t": "Q: Which Australian region is famous for long-lived, unoaked Semillon? A: Hunter Valley.",
+"k": "text"
+},
+{
+"t": "Q: What is South Africa's name for Chenin Blanc? A: Steen.",
+"k": "text"
+},
+{
+"t": "Q: Which grape is Argentina's signature red? A: Malbec.",
+"k": "text"
+},
+{
+"t": "Q: Which cold ocean current cools the coastal vineyards of Chile? A: The Humboldt Current.",
+"k": "text"
+},
+{
+"t": "Sparkling and fortified wines",
+"k": "text"
+},
+{
+"t": "Q: What is the second fermentation vessel in the tank method? A: A sealed pressure tank.",
+"k": "text"
+},
+{
+"t": "Q: Which method is used for Prosecco, and from which grape? A: Usually the tank method, from Glera.",
+"k": "text"
+},
+{
+"t": "Q: What is a solera? A: A system of barrels in which younger wine regularly refreshes older wine, giving a consistent blended style.",
+"k": "text"
+},
+{
+"t": "Q: What does flor do to fino sherry? A: It protects the wine from oxygen and gives bready, yeasty aromas.",
+"k": "text"
+},
+{
+"t": "Q: When is port fortified? A: During fermentation, leaving natural grape sugar in the wine.",
+"k": "text"
+},
+{
+"t": "Q: How does tawny port gain its colour and nutty character? A: From long ageing in wooden casks, with gradual oxidation.",
+"k": "text"
+},
+{
+"t": "The numbers worth a card",
+"k": "text"
+},
+{
+"t": "Figures are a classic source of multiple-choice questions, because they are easy to test and easy to confuse. Keep them on separate cards and review them often in the final month.",
+"k": "text"
+},
+{
+"t": "Figure",
+"k": "text"
+},
+{
+"t": "What it refers to",
+"k": "text"
+},
+{
+"t": "12 / 15 months",
+"k": "text"
+},
+{
+"t": "Non-vintage Champagne: at least 12 months on the lees and 15 months in total before release",
+"k": "text"
+},
+{
+"t": "3 years",
+"k": "text"
+},
+{
+"t": "Minimum ageing of vintage Champagne before release",
+"k": "text"
+},
+{
+"t": "9 months",
+"k": "text"
+},
+{
+"t": "Minimum time on the lees for Cava",
+"k": "text"
+},
+{
+"t": "2 / 3 / 5 years",
+"k": "text"
+},
+{
+"t": "Rioja red Crianza, Reserva and Gran Reserva: minimum total ageing, with a part of it in oak",
+"k": "text"
+},
+{
+"t": "38 months",
+"k": "text"
+},
+{
+"t": "Minimum ageing for Barolo, of which 18 months in wood",
+"k": "text"
+},
+{
+"t": "26 months",
+"k": "text"
+},
+{
+"t": "Minimum ageing for Barbaresco, of which 9 months in wood",
+"k": "text"
+},
+{
+"t": "About 5 years",
+"k": "text"
+},
+{
+"t": "Brunello di Montalcino is released in the fifth year after harvest, with at least 2 years in wood",
+"k": "text"
+},
+{
+"t": "4 to 6 years",
+"k": "text"
+},
+{
+"t": "Late Bottled Vintage port: years in wood before bottling",
+"k": "text"
+},
+{
+"t": "About 15%",
+"k": "text"
+},
+{
+"t": "Strength of fino and manzanilla, which allows flor to grow",
+"k": "text"
+},
+{
+"t": "About 17%",
+"k": "text"
+},
+{
+"t": "Strength of oloroso after fortification, which prevents flor",
+"k": "text"
+},
+{
+"t": "Less than 12 g/l",
+"k": "text"
+},
+{
+"t": "Residual sugar of a Brut sparkling wine",
+"k": "text"
+},
+{
+"t": "About 10°C",
+"k": "text"
+},
+{
+"t": "Average temperature the vine needs to start budburst",
+"k": "text"
+},
+{
+"t": "When you learn a figure, attach it to its reason: Barolo ages longer than Barbaresco because Nebbiolo from Barolo is usually more structured and tannic and needs time to soften. A number with a reason is harder to forget.",
+"k": "text"
+},
+{
+"t": "Grape synonyms on one page",
+"k": "text"
+},
+{
+"t": "Synonyms are among the most frequently confused facts at Level 3. Learn each pair as a two-way card.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Synonym",
+"k": "text"
+},
+{
+"t": "Where you meet the synonym",
+"k": "text"
+},
+{
+"t": "Syrah",
+"k": "text"
+},
+{
+"t": "Shiraz",
+"k": "text"
+},
+{
+"t": "Australia, South Africa",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Garnacha / Cannonau",
+"k": "text"
+},
+{
+"t": "Spain / Sardinia",
+"k": "text"
+},
+{
+"t": "Mourvèdre",
+"k": "text"
+},
+{
+"t": "Monastrell / Mataro",
+"k": "text"
+},
+{
+"t": "Spain / Australia",
+"k": "text"
+},
+{
+"t": "Tempranillo",
+"k": "text"
+},
+{
+"t": "Tinto Fino / Tinta Roriz / Aragonez",
+"k": "text"
+},
+{
+"t": "Ribera del Duero / Douro / Alentejo",
+"k": "text"
+},
+{
+"t": "Spätburgunder",
+"k": "text"
+},
+{
+"t": "Germany",
+"k": "text"
+},
+{
+"t": "Pinot Gris",
+"k": "text"
+},
+{
+"t": "Pinot Grigio",
+"k": "text"
+},
+{
+"t": "Italy",
+"k": "text"
+},
+{
+"t": "Chenin Blanc",
+"k": "text"
+},
+{
+"t": "Steen",
+"k": "text"
+},
+{
+"t": "South Africa",
+"k": "text"
+},
+{
+"t": "Malbec",
+"k": "text"
+},
+{
+"t": "Côt",
+"k": "text"
+},
+{
+"t": "Cahors, Loire",
+"k": "text"
+},
+{
+"t": "Zinfandel",
+"k": "text"
+},
+{
+"t": "Primitivo",
+"k": "text"
+},
+{
+"t": "Puglia",
+"k": "text"
+},
+{
+"t": "Carignan",
+"k": "text"
+},
+{
+"t": "Cariñena / Mazuelo",
+"k": "text"
+},
+{
+"t": "Priorat / Rioja",
+"k": "text"
+},
+{
+"t": "Macabeo",
+"k": "text"
+},
+{
+"t": "Viura",
+"k": "text"
+},
+{
+"t": "Rioja",
+"k": "text"
+},
+{
+"t": "Trebbiano",
+"k": "text"
+},
+{
+"t": "Ugni Blanc",
+"k": "text"
+},
+{
+"t": "France (mainly for distillation)",
+"k": "text"
+},
+{
+"t": "Label terms to learn as flashcards",
+"k": "text"
+},
+{
+"t": "Term",
+"k": "text"
+},
+{
+"t": "Where",
+"k": "text"
+},
+{
+"t": "Meaning",
+"k": "text"
+},
+{
+"t": "Sur lie",
+"k": "text"
+},
+{
+"t": "Muscadet",
+"k": "text"
+},
+{
+"t": "Aged on fine lees until bottling",
+"k": "text"
+},
+{
+"t": "Vendanges tardives",
+"k": "text"
+},
+{
+"t": "Alsace",
+"k": "text"
+},
+{
+"t": "Late-harvest wine, usually sweet",
+"k": "text"
+},
+{
+"t": "Sélection de grains nobles",
+"k": "text"
+},
+{
+"t": "Sweet wine from nobly rotten grapes",
+"k": "text"
+},
+{
+"t": "Classico",
+"k": "text"
+},
+{
+"t": "The historic heart of a denomination, such as Chianti Classico",
+"k": "text"
+},
+{
+"t": "Riserva",
+"k": "text"
+},
+{
+"t": "Longer minimum ageing than the standard wine",
+"k": "text"
+},
+{
+"t": "Crianza / Reserva / Gran Reserva",
+"k": "text"
+},
+{
+"t": "Spain",
+"k": "text"
+},
+{
+"t": "Increasing minimum ageing periods",
+"k": "text"
+},
+{
+"t": "Trocken",
+"k": "text"
+},
+{
+"t": "Dry",
+"k": "text"
+},
+{
+"t": "Spätlese / Auslese",
+"k": "text"
+},
+{
+"t": "Prädikat levels based on the ripeness of the grapes at harvest",
+"k": "text"
+},
+{
+"t": "Smaragd",
+"k": "text"
+},
+{
+"t": "Wachau, Austria",
+"k": "text"
+},
+{
+"t": "The richest, ripest dry style in the Wachau classification",
+"k": "text"
+},
+{
+"t": "Blanc de blancs / Blanc de noirs",
+"k": "text"
+},
+{
+"t": "Sparkling wine",
+"k": "text"
+},
+{
+"t": "White wine from white grapes only / from black grapes only",
+"k": "text"
+},
+{
+"t": "Mini case study: one 15-minute session",
+"k": "text"
+},
+{
+"t": "Imagine a candidate five weeks before the exam. She opens her flashcards at breakfast and sees 40 cards due. The first 25 are reviews: she answers each one out loud before flipping and marks it as known or not known with complete honesty. Six cards fail, mostly Italian grapes. The next 10 are new cards on fortified wines. The last five minutes go to a quick mixed set across all topics. That evening she writes a short written answer on Valpolicella styles, because three of the failed cards were about it. The flashcards told her where her gaps were; the written answer turned the facts into an explanation.",
+"k": "text"
+},
+{
+"t": "This is the rhythm to aim for: the cards highlight weak topics, and you then spend a few minutes of deeper work on exactly those topics. Over five weeks, this loop of recall, diagnosis and explanation covers the whole syllabus several times.",
+"k": "text"
+},
+{
+"t": "Common mistakes with flashcards",
+"k": "text"
+},
+{
+"t": "Flipping too fast. If you do not commit to an answer before flipping, you only practise recognition.",
+"k": "text"
+},
+{
+"t": "Grading generously. Almost right is wrong in a multiple-choice paper where the distractors are close.",
+"k": "text"
+},
+{
+"t": "Making cards and never reviewing them. Writing cards helps, but the benefit comes from spaced retrieval.",
+"k": "text"
+},
+{
+"t": "Studying one topic at a time for weeks. Mix topics in each session so that recall works in any order, as in the exam.",
+"k": "text"
+},
+{
+"t": "Relying only on cards. The written paper needs linked explanations, and the tasting unit needs practice with real wines.",
+"k": "text"
+},
+{
+"t": "Ignoring the cards that fail repeatedly. Rewrite them, split them, or add a memory hook.",
+"k": "text"
+},
+{
+"t": "From flashcard to written answer",
+"k": "text"
+},
+{
+"t": "Flashcards build the bricks; the written answers ask you to build a wall. A good way to connect them is to group related cards into a chain. Take five cards about the Mosel: steep slopes, slate soils, the river, a cool continental climate, Riesling. Alone, each is a fact. Linked, they become an explanation: the Mosel is cool and northerly, so vineyards are planted on steep south-facing slopes above the river to catch more sunlight; the river reflects light and moderates temperature; slate soils retain heat; Riesling ripens slowly in these conditions and keeps high acidity, giving light, aromatic wines that can be balanced at low alcohol, often with some residual sugar.",
+"k": "text"
+},
+{
+"t": "Once a week, pick one region or one technique, pull out its cards and write a paragraph that links them with because and so. This habit turns isolated facts into exactly the kind of answer the short written questions reward.",
+"k": "text"
+},
+{
+"t": "A four-week flashcard plan before the exam",
+"k": "text"
+},
+{
+"t": "Week",
+"k": "text"
+},
+{
+"t": "Focus",
+"k": "text"
+},
+{
+"t": "Daily routine",
+"k": "text"
+},
+{
+"t": "Week 1",
+"k": "text"
+},
+{
+"t": "Vine, environment, vineyard, winemaking",
+"k": "text"
+},
+{
+"t": "15 minutes of reviews, 10 new cards a day on principles",
+"k": "text"
+},
+{
+"t": "Week 2",
+"k": "text"
+},
+{
+"t": "France, Germany, Austria and other European regions",
+"k": "text"
+},
+{
+"t": "Reviews first, then 15 new regional cards",
+"k": "text"
+},
+{
+"t": "Week 3",
+"k": "text"
+},
+{
+"t": "Rest of the world, sparkling and fortified wines",
+"k": "text"
+},
+{
+"t": "Reviews, new cards, one weekly written chain",
+"k": "text"
+},
+{
+"t": "Week 4",
+"k": "text"
+},
+{
+"t": "Weak cards and figures only",
+"k": "text"
+},
+{
+"t": "No new cards: mixed reviews and failed cards every day",
+"k": "text"
+},
+{
+"t": "Stop adding new cards about a week before the exam. The final days are for consolidating what you already know, not for learning facts that will not have time to settle.",
+"k": "text"
+},
+{
+"t": "Checklist: is your flashcard routine working?",
+"k": "text"
+},
+{
+"t": "You review cards on most days, not just at the weekend.",
+"k": "text"
+},
+{
+"t": "You answer out loud or in writing before flipping each card.",
+"k": "text"
+},
+{
+"t": "Your success rate on review cards is high, while new cards still challenge you.",
+"k": "text"
+},
+{
+"t": "Your cards cover synonyms, appellations, label terms, figures and cause-and-effect links.",
+"k": "text"
+},
+{
+"t": "You regularly turn groups of cards into short written explanations.",
+"k": "text"
+},
+{
+"t": "You combine flashcards with timed practice questions and real tasting practice.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "Are there free WSET Level 3 flashcards?",
+"k": "text"
+},
+{
+"t": "Yes, The Wine Goat flashcards on grapes, regions, terms and figures are free in the app, with spaced repetition.",
+"k": "text"
+},
+{
+"t": "How many flashcards do I need for WSET 3?",
+"k": "text"
+},
+{
+"t": "Enough to cover grapes, regions, labelling terms and key figures: The Wine Goat has more than 2,500, organised by topic.",
+"k": "text"
+},
+{
+"t": "Are flashcards enough to pass WSET Level 3?",
+"k": "text"
+},
+{
+"t": "No: they fix the facts, but the exam also tests reasoning and written answers, so combine them with practice questions and short answer questions.",
+"k": "text"
+},
+{
+"t": "How many flashcards should I review each day for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "A realistic target is 30 to 60 reviews plus 10 to 15 new cards a day, which takes around 15 minutes. The exact number matters less than consistency: reviewing every day keeps the spacing intervals working. In the last week before the exam, stop adding new cards and focus on reviews and on the cards you most often get wrong.",
+"k": "text"
+},
+{
+"t": "Paper flashcards or an app: which is better for WSET 3?",
+"k": "text"
+},
+{
+"t": "Both work if you use active recall and spacing. Writing paper cards helps memory, but scheduling hundreds of them by hand becomes difficult. An app calculates the review interval for each card, mixes topics automatically and shows you your weakest areas. Many candidates write a few paper cards for their personal problem areas and use an app for the bulk of the syllabus.",
+"k": "text"
+},
+{
+"t": "When should I start using flashcards for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Start in the first week of the course, as soon as you meet the first grapes and principles. Adding cards topic by topic as the course progresses spreads the effort and gives every fact several spaced reviews before the exam. Starting only in the last month usually means too many new cards at once and not enough time for them to settle.",
+"k": "text"
+},
+{
+"t": "Do flashcards help with the WSET 3 tasting exam?",
+"k": "text"
+},
+{
+"t": "Indirectly. Cards on SAT vocabulary, structural scales and typical grape profiles help you describe wines accurately and consistently. However, they cannot replace tasting real wines: you need regular blind tastings with a full written note to calibrate acidity, tannin, alcohol and body. Use cards for the vocabulary and the glass for the judgement.",
+"k": "text"
+},
+{
+"t": "What should I do with flashcards I keep getting wrong?",
+"k": "text"
+},
+{
+"t": "Check whether the card is the problem. It may contain several facts, be ambiguous or lack context. Split it into smaller cards, add a short reason on the back, or create a memory hook, such as linking a grape to a place you know. If you still miss it after rewriting, review it separately at the start of each session until it sticks.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 flashcards – grapes, regions & key terms | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

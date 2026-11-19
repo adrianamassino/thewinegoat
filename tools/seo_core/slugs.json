@@ -16,7 +16,9 @@
   "ko": "/ko/wset-exam-preparation/",
   "zh-hans": "/zh-hans/wset-exam-preparation/",
   "zh-hant": "/zh-hant/wset-exam-preparation/",
-  "ar": "/ar/wset-exam-preparation/"
+  "ar": "/ar/wset-exam-preparation/",
+  "th": "/th/wset-exam-preparation/",
+  "tr": "/tr/wset-sinavina-hazirlik/"
  },
  "wine": {
   "en": "/wset-wine/",
@@ -35,7 +37,9 @@
   "ko": "/ko/wset-wine/",
   "zh-hans": "/zh-hans/wset-wine/",
   "zh-hant": "/zh-hant/wset-wine/",
-  "ar": "/ar/wset-wine/"
+  "ar": "/ar/wset-wine/",
+  "th": "/th/wset-wine/",
+  "tr": "/tr/wset-sarap/"
  },
  "mock": {
   "en": "/wset-mock-exams/",
@@ -54,7 +58,9 @@
   "ko": "/ko/wset-mock-exams/",
   "zh-hans": "/zh-hans/wset-mock-exams/",
   "zh-hant": "/zh-hant/wset-mock-exams/",
-  "ar": "/ar/wset-mock-exams/"
+  "ar": "/ar/wset-mock-exams/",
+  "th": "/th/wset-mock-exams/",
+  "tr": "/tr/wset-deneme-sinavi/"
  },
  "practice": {
   "en": "/wset-practice-questions/",
@@ -73,7 +79,9 @@
   "ko": "/ko/wset-practice-questions/",
   "zh-hans": "/zh-hans/wset-practice-questions/",
   "zh-hant": "/zh-hant/wset-practice-questions/",
-  "ar": "/ar/wset-practice-questions/"
+  "ar": "/ar/wset-practice-questions/",
+  "th": "/th/wset-practice-questions/",
+  "tr": "/tr/wset-deneme-sorulari/"
  },
  "flashcards": {
   "en": "/wset-flashcards/",
@@ -92,7 +100,9 @@
   "ko": "/ko/wset-flashcards/",
   "zh-hans": "/zh-hans/wset-flashcards/",
   "zh-hant": "/zh-hant/wset-flashcards/",
-  "ar": "/ar/wset-flashcards/"
+  "ar": "/ar/wset-flashcards/",
+  "th": "/th/wset-flashcards/",
+  "tr": "/tr/wset-bilgi-kartlari/"
  },
  "planner": {
   "en": "/wset-study-planner/",
@@ -111,7 +121,9 @@
   "ko": "/ko/wset-study-planner/",
   "zh-hans": "/zh-hans/wset-study-planner/",
   "zh-hant": "/zh-hant/wset-study-planner/",
-  "ar": "/ar/wset-study-planner/"
+  "ar": "/ar/wset-study-planner/",
+  "th": "/th/wset-study-planner/",
+  "tr": "/tr/wset-calisma-plani/"
  },
  "how": {
   "en": "/how-it-works/",
@@ -130,7 +142,9 @@
   "ko": "/ko/how-it-works/",
   "zh-hans": "/zh-hans/how-it-works/",
   "zh-hant": "/zh-hant/how-it-works/",
-  "ar": "/ar/how-it-works/"
+  "ar": "/ar/how-it-works/",
+  "th": "/th/how-it-works/",
+  "tr": "/tr/nasil-calisir/"
  },
  "faq": {
   "en": "/faq/",
@@ -149,6 +163,8 @@
   "ko": "/ko/faq/",
   "zh-hans": "/zh-hans/faq/",
   "zh-hant": "/zh-hant/faq/",
-  "ar": "/ar/faq/"
+  "ar": "/ar/faq/",
+  "th": "/th/faq/",
+  "tr": "/tr/sik-sorulan-sorular/"
  }
 }

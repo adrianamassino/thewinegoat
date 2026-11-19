@@ -1,0 +1,949 @@
+{
+"group": "wset-3-questions__bordeaux",
+"source": "wset-3-questions/bordeaux/index.html",
+"url": "/wset-3-questions/bordeaux/",
+"region": "main",
+"sha": "efc12fe7ed9d",
+"words": 3394,
+"segment_words": 3606,
+"segments": [
+{
+"t": "WSET 3 Bordeaux – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Bordeaux practice questions with answers and explanations, plus 78 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Bordeaux, WSET Level 3 Bordeaux, Bordeaux WSET questions, Bordeaux wine quiz, Bordeaux wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Bordeaux: practice questions with answers – WSET 3 Bordeaux, WSET Level 3 Bordeaux, Bordeaux WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Bordeaux",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Bordeaux: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Bordeaux, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 78 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Bordeaux: practice questions with answers | WSET 3 Bordeaux",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which traditional French term is more often seen on labels instead of AOP?",
+"k": "text"
+},
+{
+"t": "Appellation d'origine contrôlée (AC/AOC)",
+"k": "text"
+},
+{
+"t": "Vin Délimité de Qualité Supérieure (VDQS)",
+"k": "text"
+},
+{
+"t": "Indication Géographique Protégée (IGP)",
+"k": "text"
+},
+{
+"t": "Vin de Pays (with the region's name)",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Appellation d'origine contrôlée (AC/AOC)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} One plot may be covered by a generic and a more prestigious appellation; the producer chooses yearly.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What are French wines without a GI called?",
+"k": "text"
+},
+{
+"t": "Vin de France",
+"k": "text"
+},
+{
+"t": "IGP",
+"k": "text"
+},
+{
+"t": "Vin de Pays",
+"k": "text"
+},
+{
+"t": "AOC",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Vin de France",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} IGP is the French PGI; the old term Vin de Pays is still seen.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What climate does Bordeaux have?",
+"k": "text"
+},
+{
+"t": "Cool continental, with harsh winters and short summers",
+"k": "text"
+},
+{
+"t": "Cool maritime, chilled by the Humboldt Current",
+"k": "text"
+},
+{
+"t": "Hot, dry Mediterranean, with long summers and rain only in winter",
+"k": "text"
+},
+{
+"t": "Moderate maritime, benefiting from the Gulf Stream",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Moderate maritime, benefiting from the Gulf Stream",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It extends the season: spring frost is rare and ripening continues into October.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What protects Bordeaux vineyards from the worst Atlantic storms?",
+"k": "text"
+},
+{
+"t": "The Gironde estuary, which absorbs the storm waves",
+"k": "text"
+},
+{
+"t": "The Landes forest and coastal dunes",
+"k": "text"
+},
+{
+"t": "The Massif Central, east of the region",
+"k": "text"
+},
+{
+"t": "The Pyrenees, which block south-westerly ocean winds",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The Landes forest and coastal dunes",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The Atlantic still brings rain and humidity that can disrupt flowering, promote rot and dilute grapes.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is the most widely planted variety in Bordeaux?",
+"k": "text"
+},
+{
+"t": "Merlot (black)",
+"k": "text"
+},
+{
+"t": "Semillon (white)",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Cabernet Franc",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Merlot (black)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It succeeds on the cool clays of Saint-Émilion and Pomerol; its softness makes it dominant in inexpensive wines.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} How many grape varieties are permitted in Bordeaux, and how many really predominate?",
+"k": "text"
+},
+{
+"t": "Six permitted (four black, two white), used in similar shares",
+"k": "text"
+},
+{
+"t": "Two permitted, Cabernet Sauvignon and Merlot; the rest are banned",
+"k": "text"
+},
+{
+"t": "Any variety without limit, provided it is declared on the label",
+"k": "text"
+},
+{
+"t": "Thirteen permitted; in practice three black and two white predominate",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Thirteen permitted; in practice three black and two white predominate",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Black: Cabernet Sauvignon, Cabernet Franc, Merlot (+ minor Petit Verdot); white: Semillon, Sauvignon Blanc (+ Muscadelle).",
+"k": "text"
+},
+{
+"t": "Study notes: Bordeaux for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Bordeaux questions test one idea above all: how a moderate maritime climate, two contrasting soil types and a blending culture produce wines that change from bank to bank and from vintage to vintage. If you can explain why Cabernet Sauvignon leads on the left bank and Merlot on the right bank, why Sauternes exists, and why prices vary so much, you can answer most multiple-choice items and write a strong short written answer. These notes go beyond the sample questions above and are organised the way exam answers are marked: cause, then effect, then style.",
+"k": "text"
+},
+{
+"t": "Climate in one paragraph",
+"k": "text"
+},
+{
+"t": "Bordeaux has a moderate maritime climate warmed by the Gulf Stream, which lengthens the growing season so that grapes can keep ripening into October. The Landes pine forest and coastal dunes shelter the vineyards from the strongest Atlantic winds, but the ocean still brings rain and humidity. Rain at flowering causes coulure and millerandage (poor fruit set), rain at harvest dilutes the grapes and encourages grey rot, and a cool year can leave Cabernet Sauvignon under-ripe. This is why vintage variation is so marked in Bordeaux and why blending several varieties is a form of insurance.",
+"k": "text"
+},
+{
+"t": "Bordeaux left bank vs right bank for WSET 3",
+"k": "text"
+},
+{
+"t": "The Bordeaux left bank vs right bank distinction is the single most examined idea for this region. The Gironde estuary is formed where the Garonne and the Dordogne meet. The left bank (Médoc and Graves) lies west of the Garonne and the Gironde; the right bank (Libournais, with Saint-Émilion and Pomerol) lies east of the Dordogne. Between the two rivers is Entre-Deux-Mers.",
+"k": "text"
+},
+{
+"t": "Left bank: gravel and Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Deep, free-draining gravel soils warm up quickly and reflect heat back to the vines. Late-ripening Cabernet Sauvignon needs exactly that extra warmth, so it dominates the best left bank blends of the Haut-Médoc and Pessac-Léognan. The resulting wines have deep colour, high acidity, high tannin, blackcurrant and cedar notes, and great ageing potential. Merlot and Cabernet Franc fill out the mid-palate and add perfume; Petit Verdot, a very late ripener, is used in small amounts for colour, tannin and spice.",
+"k": "text"
+},
+{
+"t": "Right bank: clay, limestone and Merlot",
+"k": "text"
+},
+{
+"t": "On the right bank, cooler clay and limestone soils hold water and delay ripening, which suits early-ripening Merlot. In Saint-Émilion and Pomerol, Merlot leads the blend, usually with Cabernet Franc (and some Cabernet Sauvignon on warmer sites). The wines are typically plummier and rounder, with softer tannins than the left bank, but the best still age for decades. Pomerol has a small area of iron-rich clay that gives powerful, plush Merlot.",
+"k": "text"
+},
+{
+"t": "Left bank (Médoc, Graves)",
+"k": "text"
+},
+{
+"t": "Right bank (Saint-Émilion, Pomerol)",
+"k": "text"
+},
+{
+"t": "Main soils",
+"k": "text"
+},
+{
+"t": "Gravel, free-draining and warm",
+"k": "text"
+},
+{
+"t": "Clay and limestone, cool and water-retentive",
+"k": "text"
+},
+{
+"t": "Lead grape",
+"k": "text"
+},
+{
+"t": "Merlot, with Cabernet Franc",
+"k": "text"
+},
+{
+"t": "Typical structure",
+"k": "text"
+},
+{
+"t": "High tannin, high acidity, firm",
+"k": "text"
+},
+{
+"t": "Softer, rounder tannins, plush fruit",
+"k": "text"
+},
+{
+"t": "Typical fruit",
+"k": "text"
+},
+{
+"t": "Blackcurrant, black cherry, cedar with oak",
+"k": "text"
+},
+{
+"t": "Plum, black cherry, fruitcake with age",
+"k": "text"
+},
+{
+"t": "Classification",
+"k": "text"
+},
+{
+"t": "1855 (Médoc); Graves classification",
+"k": "text"
+},
+{
+"t": "Saint-Émilion classification; none in Pomerol",
+"k": "text"
+},
+{
+"t": "Exam technique: when a short written answer asks why Cabernet Sauvignon is planted on gravel, do not just write that gravel is warm. Write the full chain: gravel drains well and retains heat, Cabernet Sauvignon ripens late, so the extra warmth lets it reach full ripeness, giving ripe blackcurrant fruit and riper tannins instead of green, herbaceous flavours.",
+"k": "text"
+},
+{
+"t": "Key Bordeaux appellations to know for WSET Level 3",
+"k": "text"
+},
+{
+"t": "Bordeaux appellations follow a pyramid: generic Bordeaux and Bordeaux Supérieur at the base, then district appellations such as Médoc, Haut-Médoc, Graves and Entre-Deux-Mers, then commune appellations. A vineyard can often qualify for more than one, and producers choose the most prestigious one allowed.",
+"k": "text"
+},
+{
+"t": "Haut-Médoc communes: Saint-Estèphe (more clay, firm and robust), Pauillac (deep gravel, powerful Cabernet Sauvignon), Saint-Julien (balanced, elegant), Margaux (thinner gravel, perfumed and fragrant).",
+"k": "text"
+},
+{
+"t": "Pessac-Léognan: the northern, best part of Graves, famous for both reds and dry whites (Sauvignon Blanc and Semillon, often fermented and aged in oak).",
+"k": "text"
+},
+{
+"t": "Graves: reds plus dry whites; its southern enclave includes Sauternes and Barsac.",
+"k": "text"
+},
+{
+"t": "Saint-Émilion and Saint-Émilion Grand Cru; Pomerol; and satellite appellations around them for good-value Merlot.",
+"k": "text"
+},
+{
+"t": "Entre-Deux-Mers: dry white wines, mainly Sauvignon Blanc and Semillon, usually fresh and unoaked.",
+"k": "text"
+},
+{
+"t": "Côtes de Bordeaux: hillside areas on the right bank of the Garonne and Dordogne, for good-value, mostly Merlot-based reds.",
+"k": "text"
+},
+{
+"t": "Sauternes and Barsac: why noble rot happens here",
+"k": "text"
+},
+{
+"t": "Sauternes and Barsac sit where the cool Ciron river meets the warmer Garonne. In autumn this creates morning mists that encourage Botrytis cinerea, followed by warm, dry afternoons that stop it turning into grey rot. Noble rot concentrates sugar, acidity and flavour, and adds notes of honey, apricot and marmalade. Semillon is the main grape because its thin skin makes it susceptible to botrytis; Sauvignon Blanc adds acidity and aroma. Pickers go through the vineyard several times (tries) to harvest only affected berries, so yields are tiny and production is costly and risky. Barsac wines may be labelled Sauternes or Barsac. Nearby Loupiac, Cadillac and Sainte-Croix-du-Mont make lighter, cheaper sweet wines.",
+"k": "text"
+},
+{
+"t": "Winemaking, classifications and the Bordeaux trade",
+"k": "text"
+},
+{
+"t": "Red winemaking",
+"k": "text"
+},
+{
+"t": "Each variety and plot is usually fermented separately, then the final blend is assembled after fermentation. This lets the winemaker adjust the proportions every year to the vintage. Premium reds are aged in French oak barriques (225 litres), with a high share of new oak for the top estates, typically for well over a year. Inexpensive Bordeaux is Merlot-led, aged briefly or not at all in oak, and made for early drinking. Many estates also produce a second wine from younger vines or lots not selected for the grand vin, which keeps the quality of the main wine high.",
+"k": "text"
+},
+{
+"t": "The classifications",
+"k": "text"
+},
+{
+"t": "1855 classification: ranks red wines of the Médoc (plus one Graves estate) into five growths, and the sweet wines of Sauternes and Barsac. It has changed very little since.",
+"k": "text"
+},
+{
+"t": "Graves classification: covers red and white wines; all classified estates are in Pessac-Léognan.",
+"k": "text"
+},
+{
+"t": "Saint-Émilion classification: Premier Grand Cru Classé and Grand Cru Classé, revised roughly every ten years, so estates can be promoted or demoted.",
+"k": "text"
+},
+{
+"t": "Cru Bourgeois: a separate quality ranking for Médoc estates outside the 1855 list.",
+"k": "text"
+},
+{
+"t": "Pomerol: no official classification, despite some of the most expensive wines in the world.",
+"k": "text"
+},
+{
+"t": "En primeur and the négociants",
+"k": "text"
+},
+{
+"t": "Most top Bordeaux is sold en primeur: the wine is offered as futures in the spring after the harvest, while it is still in barrel, and delivered after bottling. The estates sell through courtiers (brokers) to négociants, who distribute worldwide. This system gives producers early cash flow and lets buyers secure scarce wines, but prices depend heavily on vintage reputation and critics' scores.",
+"k": "text"
+},
+{
+"t": "Common mistake: candidates confuse Graves (gravel, left bank, red and dry white) with the right bank. Remember that the word Graves itself means gravel, and Sauternes is inside the Graves district.",
+"k": "text"
+},
+{
+"t": "How to answer WSET 3 Bordeaux questions",
+"k": "text"
+},
+{
+"t": "Bordeaux short written answers often ask you to compare two wines or explain a price difference. A good structure is: name the location and climate influence, explain the soil and its effect on ripening, state the grape and the resulting structure and flavours, then link to winemaking and price. Examiners reward specific vocabulary, so use terms such as gravel, clay, Gulf Stream, botrytis, tries, barrique, en primeur and second wine where they fit.",
+"k": "text"
+},
+{
+"t": "Inexpensive Bordeaux: high yields on the plains, Merlot for soft fruit, little or no oak, sold under the generic Bordeaux AOC.",
+"k": "text"
+},
+{
+"t": "Premium Bordeaux: lower yields, best gravel or limestone sites, careful selection, new French oak, sold en primeur at high prices.",
+"k": "text"
+},
+{
+"t": "Dry white Bordeaux: Sauvignon Blanc for aroma and acidity, Semillon for body and ageing; oak ageing and lees contact in Pessac-Léognan.",
+"k": "text"
+},
+{
+"t": "Sweet Bordeaux: noble rot from autumn mists, multiple tries, Semillon-led, long-lived.",
+"k": "text"
+},
+{
+"t": "How to revise Bordeaux in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw the map from memory: Gironde, Garonne, Dordogne, Ciron, then place Médoc, Graves, Entre-Deux-Mers, Saint-Émilion, Pomerol and Sauternes.",
+"k": "text"
+},
+{
+"t": "Day 2: write the left bank vs right bank table without looking, then check it.",
+"k": "text"
+},
+{
+"t": "Day 3: learn the four Haut-Médoc communes in order from north to south: Saint-Estèphe, Pauillac, Saint-Julien, Margaux.",
+"k": "text"
+},
+{
+"t": "Day 4: explain Sauternes noble rot aloud in five steps: mist, botrytis, dry afternoons, tries, concentration.",
+"k": "text"
+},
+{
+"t": "Day 5: list the five classification systems and one fact about each.",
+"k": "text"
+},
+{
+"t": "Day 6: write one timed short answer comparing a Pauillac and a Saint-Émilion.",
+"k": "text"
+},
+{
+"t": "Day 7: run a set of Bordeaux questions in the app and review only the ones you got wrong.",
+"k": "text"
+},
+{
+"t": "Fifteen focused minutes a day for a week is enough to make Bordeaux one of your strongest regions, because almost every fact connects back to the same three causes: the Atlantic climate, the soil and the grape.",
+"k": "text"
+},
+{
+"t": "Bordeaux grape varieties and what each brings to the blend",
+"k": "text"
+},
+{
+"t": "Blending is at the heart of Bordeaux, and many questions ask what a particular variety adds. Learn each grape as a short profile: ripening time, main risk and contribution to the wine.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Ripening and risks",
+"k": "text"
+},
+{
+"t": "Contribution to the blend",
+"k": "text"
+},
+{
+"t": "Late ripening; needs warm gravel sites; can taste green in cool years",
+"k": "text"
+},
+{
+"t": "Deep colour, high tannin and acidity, blackcurrant, ageing potential",
+"k": "text"
+},
+{
+"t": "Merlot",
+"k": "text"
+},
+{
+"t": "Early ripening; prone to coulure in poor flowering weather",
+"k": "text"
+},
+{
+"t": "Plum and black cherry, softer tannins, higher alcohol, flesh in the mid-palate",
+"k": "text"
+},
+{
+"t": "Ripens between Merlot and Cabernet Sauvignon; suits cooler clay and limestone",
+"k": "text"
+},
+{
+"t": "Red fruit, leafy and floral perfume, freshness",
+"k": "text"
+},
+{
+"t": "Petit Verdot",
+"k": "text"
+},
+{
+"t": "Very late ripening; used only in small amounts",
+"k": "text"
+},
+{
+"t": "Colour, tannin and spice",
+"k": "text"
+},
+{
+"t": "Semillon",
+"k": "text"
+},
+{
+"t": "Thin skins, susceptible to botrytis",
+"k": "text"
+},
+{
+"t": "Body, waxy texture, ageing potential, the base of Sauternes",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Keeps acidity; can be herbaceous if under-ripe",
+"k": "text"
+},
+{
+"t": "Aroma, citrus and grassy notes, freshness",
+"k": "text"
+},
+{
+"t": "Worked examples: Bordeaux short written answers",
+"k": "text"
+},
+{
+"t": "Question 1: Explain how a cool, wet vintage affects a left bank red and how producers can respond. Model answer: in a cool year late-ripening Cabernet Sauvignon may not reach full ripeness, giving green, herbaceous flavours, high acidity and harsh tannins, while rain encourages grey rot and dilutes the grapes. Producers respond in the vineyard with leaf removal to open the canopy and green harvesting to concentrate the crop, then sort strictly at the winery. They can increase the share of Merlot in the blend and move weaker lots into the second wine or a generic appellation, which protects the quality of the grand vin.",
+"k": "text"
+},
+{
+"t": "Question 2: Describe a premium dry white from Pessac-Léognan and explain how it is made. Model answer: a blend of Sauvignon Blanc for citrus aroma and acidity with Semillon for body and texture. Fermentation and maturation in oak barrels, often with lees stirring, add creaminess, toast and vanilla and help the wine integrate. The result is a medium to full-bodied dry white with high acidity, citrus and stone fruit with oak, which can develop honey, nut and toast notes over several years in bottle.",
+"k": "text"
+},
+{
+"t": "Where Bordeaux fits in the WSET Level 3 exam",
+"k": "text"
+},
+{
+"t": "Level 3 has two separate units: the theory unit, with 50 multiple-choice questions and 4 short written-answer questions, and the tasting unit, where you assess two wines blind. Each unit needs at least 55% and is marked on its own, so if you fail one unit you retake only that unit. Bordeaux is a favourite of the theory paper because it links climate, soil, grape, winemaking and the wine trade in one region. For tasting practice, a classed left bank red is a useful reference for high tannin and high acidity, while a simple Merlot-led Bordeaux AOC shows what lower intensity and shorter length feel like when you judge quality.",
+"k": "text"
+},
+{
+"t": "Common mistakes in Bordeaux answers",
+"k": "text"
+},
+{
+"t": "Writing that Merlot dominates the Médoc: on the best gravel sites of the left bank, Cabernet Sauvignon usually leads.",
+"k": "text"
+},
+{
+"t": "Saying all Bordeaux reds are aged in new oak: inexpensive Bordeaux sees little or no oak.",
+"k": "text"
+},
+{
+"t": "Forgetting the role of the afternoon sun in Sauternes: mist alone causes grey rot; dry afternoons are what keep the rot noble.",
+"k": "text"
+},
+{
+"t": "Mixing up the classifications: the 1855 list covers the Médoc (plus one Graves estate) and Sauternes, while Saint-Émilion has its own regularly revised ranking.",
+"k": "text"
+},
+{
+"t": "Exam technique: a question about price is a question about cost and demand. Name the factors that raise cost (low yields, hand harvesting, selection, new oak, long ageing) and those that raise demand (reputation, classification, vintage reports, limited volumes).",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "78 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Bordeaux are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 78 multiple-choice questions on Bordeaux, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Bordeaux important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Bordeaux, can come up.",
+"k": "text"
+},
+{
+"t": "Which grapes are allowed in Bordeaux for WSET 3?",
+"k": "text"
+},
+{
+"t": "For WSET Level 3 you need the main ones: Cabernet Sauvignon, Merlot and Cabernet Franc for reds, with minor Petit Verdot (and Malbec and Carmenère in small amounts), and Semillon, Sauvignon Blanc and Muscadelle for whites. A few newer varieties are now permitted in small proportions in generic appellations to adapt to climate change, but the classic grapes are what the exam focuses on.",
+"k": "text"
+},
+{
+"t": "What is the difference between the left bank and right bank of Bordeaux?",
+"k": "text"
+},
+{
+"t": "The left bank (Médoc and Graves) has warm, free-draining gravel soils where late-ripening Cabernet Sauvignon leads, giving firm, high-tannin, blackcurrant wines. The right bank (Saint-Émilion and Pomerol) has cooler clay and limestone soils that suit early-ripening Merlot, giving rounder, plummy wines with softer tannins. Both blend several varieties.",
+"k": "text"
+},
+{
+"t": "Why is Sauternes sweet?",
+"k": "text"
+},
+{
+"t": "Sauternes is sweet because morning mists from the cool Ciron river meeting the warmer Garonne encourage noble rot (Botrytis cinerea), while dry, sunny afternoons keep it from becoming grey rot. Botrytis dehydrates the berries and concentrates sugar, acid and flavour. Pickers harvest affected grapes in several passes, so the wine is rich, sweet and still fresh.",
+"k": "text"
+},
+{
+"t": "What does en primeur mean in Bordeaux?",
+"k": "text"
+},
+{
+"t": "En primeur is the system of selling wine as futures, usually in the spring after the harvest, while the wine is still ageing in barrel. Buyers pay in advance and receive the bottles one to two years later. Estates sell through brokers to négociants, gaining early cash flow, while buyers secure limited wines, often at a price that depends on the vintage reputation.",
+"k": "text"
+},
+{
+"t": "Is the 1855 classification on the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes, at a basic level. You should know that it ranks red wines of the Médoc (plus Haut-Brion in Graves) in five growths and the sweet wines of Sauternes and Barsac, and that it has barely changed since 1855. Contrast it with the Saint-Émilion classification, which is revised periodically, and with Pomerol, which has no official classification.",
+"k": "text"
+},
+{
+"t": "What is the difference between Bordeaux and Bordeaux Supérieur?",
+"k": "text"
+},
+{
+"t": "Both are generic appellations that can come from anywhere in the Bordeaux vineyard area. Bordeaux Supérieur has stricter production rules, such as lower maximum yields and a higher minimum ripeness, so the wines are usually a little more concentrated. Neither name tells you the district or commune, which is why these wines are generally Merlot-led, made for earlier drinking and sold at lower prices than district or commune wines.",
+"k": "text"
+},
+{
+"t": "What is Entre-Deux-Mers known for?",
+"k": "text"
+},
+{
+"t": "Entre-Deux-Mers lies between the Garonne and the Dordogne. Its own appellation is for dry white wines, mainly Sauvignon Blanc and Semillon, usually fresh, unoaked and made for early drinking. The area also produces large volumes of red wine, but these are sold under the generic Bordeaux or Bordeaux Supérieur appellations. In an exam answer, link Entre-Deux-Mers with crisp, good-value dry whites.",
+"k": "text"
+},
+{
+"t": "Why do Bordeaux producers blend different grape varieties?",
+"k": "text"
+},
+{
+"t": "Blending is insurance against a variable maritime climate. The varieties flower and ripen at different times, so poor weather rarely damages all of them equally. Blending also builds a more complete wine: Cabernet Sauvignon gives structure and ageing potential, Merlot adds flesh and softness, and Cabernet Franc adds perfume. Because each lot is fermented separately, the proportions can be adjusted every vintage.",
+"k": "text"
+},
+{
+"t": "How does a right bank red feel different in the tasting unit?",
+"k": "text"
+},
+{
+"t": "A Merlot-led right bank red usually shows plum and black cherry, a rounder texture and softer tannins than a Cabernet Sauvignon-led left bank wine, sometimes with slightly higher alcohol. You do not need to name the origin in the tasting unit, but noticing these structural differences helps you write accurate notes on tannin, body and acidity and justify your quality assessment.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which traditional French term is more often seen on labels instead of AOP?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "One plot may be covered by a generic and a more prestigious appellation; the producer chooses yearly.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are French wines without a GI called?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "IGP is the French PGI; the old term Vin de Pays is still seen.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What climate does Bordeaux have?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It extends the season: spring frost is rare and ripening continues into October.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What protects Bordeaux vineyards from the worst Atlantic storms?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The Atlantic still brings rain and humidity that can disrupt flowering, promote rot and dilute grapes.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the most widely planted variety in Bordeaux?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It succeeds on the cool clays of Saint-Émilion and Pomerol; its softness makes it dominant in inexpensive wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How many grape varieties are permitted in Bordeaux, and how many really predominate?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Black: Cabernet Sauvignon, Cabernet Franc, Merlot (+ minor Petit Verdot); white: Semillon, Sauvignon Blanc (+ Muscadelle).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

@@ -1,0 +1,1065 @@
+{
+"group": "wset-level-3-practice-questions",
+"source": "wset-level-3-practice-questions/index.html",
+"url": "/wset-level-3-practice-questions/",
+"region": "main",
+"sha": "72af6da9cb34",
+"words": 3268,
+"segment_words": 3555,
+"segments": [
+{
+"t": "WSET Level 3 practice questions & answers (free MCQs)",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 practice questions with answers and explanations: multiple-choice questions on every region, grape, winemaking and the SAT.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 3 practice questions, WSET 3 multiple choice questions, WSET 3 MCQ, WSET Level 3 exam questions and answers, WSET 3 quiz, WSET Level 3 question bank, wine quiz questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 practice questions with answers – WSET Level 3 practice questions, WSET 3 multiple choice questions (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 practice questions with answers",
+"k": "text"
+},
+{
+"t": "The theory part of the WSET Level 3 Award in Wines starts with 50 multiple-choice questions covering the whole syllabus: vineyard and winery, the wines of every major region, sparkling and fortified wines. The fastest way to get them right is to practise exam-style questions until the answers come without hesitation.",
+"k": "text"
+},
+{
+"t": "Below are sample WSET Level 3 practice questions from The Wine Goat bank, with the correct answer and the reason behind it. The app has more than 2,000 of them, organised by region and topic, and brings back every question you get wrong until you master it.",
+"k": "text"
+},
+{
+"t": "Read the question to the end: many distractors are true statements that answer a different question.",
+"k": "text"
+},
+{
+"t": "Learn the cause-and-effect chains (climate → grape → style), not isolated facts.",
+"k": "text"
+},
+{
+"t": "Practise in short daily sessions: 20 questions a day beat 200 the night before.",
+"k": "text"
+},
+{
+"t": "Revise your mistakes first; they are the fastest marks you can win back.",
+"k": "text"
+},
+{
+"t": "Time yourself: 50 questions must leave time for the written answers.",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which traditional French term is more often seen on labels instead of AOP?",
+"k": "text"
+},
+{
+"t": "Appellation d'origine contrôlée (AC/AOC)",
+"k": "text"
+},
+{
+"t": "Vin Délimité de Qualité Supérieure (VDQS)",
+"k": "text"
+},
+{
+"t": "Indication Géographique Protégée (IGP)",
+"k": "text"
+},
+{
+"t": "Vin de Pays (with the region's name)",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Appellation d'origine contrôlée (AC/AOC)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} One plot may be covered by a generic and a more prestigious appellation; the producer chooses yearly.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} How late can spring frosts occur in Chablis?",
+"k": "text"
+},
+{
+"t": "Only in February",
+"k": "text"
+},
+{
+"t": "As late as July",
+"k": "text"
+},
+{
+"t": "As late as May",
+"k": "text"
+},
+{
+"t": "Never in spring",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} As late as May",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Another hazard is localised summer hail, which can destroy much of a crop.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Which yeast carries the alcoholic fermentation of wine through to the end?",
+"k": "text"
+},
+{
+"t": "Saccharomyces cerevisiae",
+"k": "text"
+},
+{
+"t": "Brettanomyces bruxellensis",
+"k": "text"
+},
+{
+"t": "Oenococcus oeni",
+"k": "text"
+},
+{
+"t": "Hanseniaspora uvarum",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Saccharomyces cerevisiae",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Saccharomyces cerevisiae tolerates alcohol and finishes the fermentation.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What five things does the vine need?",
+"k": "text"
+},
+{
+"t": "Heat, constant wind, water, nitrogen and soil oxygen",
+"k": "text"
+},
+{
+"t": "Heat, light, water, nutrients, CO2",
+"k": "text"
+},
+{
+"t": "Sunlight, clay, limestone, water and sulfur",
+"k": "text"
+},
+{
+"t": "Rain, fog, sun, potassium and copper in the soil",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Heat, light, water, nutrients, CO2",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} CO2 is always plentiful; heat, light, water and nutrients vary and affect yield and quality.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which traditional Italian term corresponds to PGI?",
+"k": "text"
+},
+{
+"t": "DOC (Denominazione di Origine Controllata)",
+"k": "text"
+},
+{
+"t": "IGT (Tipica)",
+"k": "text"
+},
+{
+"t": "VdT (Vino da Tavola with a regional name)",
+"k": "text"
+},
+{
+"t": "DOCG (Denominazione Garantita)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} IGT (Tipica)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The PDO term is DOP, but DOC and DOCG are more widely seen.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} By how much does the second fermentation raise a sparkling wine's alcohol?",
+"k": "text"
+},
+{
+"t": "About 5%",
+"k": "text"
+},
+{
+"t": "0.1%",
+"k": "text"
+},
+{
+"t": "About 1.2-1.3%",
+"k": "text"
+},
+{
+"t": "It never raises it",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} About 1.2-1.3%",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} So the aim is a dry 10-11% base wine from low-sugar, high-acid grapes with ripe, non-green flavours.",
+"k": "text"
+},
+{
+"t": "{1}7{/1} What is Australia's principal grape of either colour?",
+"k": "text"
+},
+{
+"t": "Shiraz",
+"k": "text"
+},
+{
+"t": "Cabernet",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Shiraz",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Hunter and Barossa give full fruity Shiraz; Geelong and Heathcote leaner, peppery. With Cabernet it plays Merlot's Bordeaux role.",
+"k": "text"
+},
+{
+"t": "{1}8{/1} What are the Douro's three Port sub-regions?",
+"k": "text"
+},
+{
+"t": "Baixo Corgo, Cima Corgo, Douro Superior",
+"k": "text"
+},
+{
+"t": "Vila Nova de Gaia, Régua and Pinhão",
+"k": "text"
+},
+{
+"t": "Upper Douro, Middle Douro and Lower Douro",
+"k": "text"
+},
+{
+"t": "Minho, Trás-os-Montes and Beira Alta",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Baixo Corgo, Cima Corgo, Douro Superior",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Baixo Corgo is coolest and wettest with the lightest wines; Cima Corgo has most top vineyards; Douro Superior is renowned. Hotter and drier eastward.",
+"k": "text"
+},
+{
+"t": "Anatomy of a WSET Level 3 multiple-choice question",
+"k": "text"
+},
+{
+"t": "Every multiple-choice question has the same three ingredients: a stem, which is the question itself; a key, the single correct option; and three distractors, the wrong options. At Level 3 the distractors are written to be tempting. They are usually real wine facts that belong to a different region, a different grape or a different technique, so the question tests whether you know exactly where each fact belongs.",
+"k": "text"
+},
+{
+"t": "This is why practice questions are such an effective way to study. Each time you reject a distractor, you also review the fact it was built from. A question about the main grape of a Northern Rhône appellation, for example, makes you think about the Southern Rhône blends offered as distractors, and in doing so you revise both halves of the region at once.",
+"k": "text"
+},
+{
+"t": "When you review a question, do not stop at the correct answer. Ask yourself why each distractor is wrong and where it would be right. That turns one question into four small revision points.",
+"k": "text"
+},
+{
+"t": "Twelve more practice questions with full explanations",
+"k": "text"
+},
+{
+"t": "These questions are written by us for practice, in the style of the theory paper. Read the stem and the four options, choose, then read the answer and the explanation.",
+"k": "text"
+},
+{
+"t": "Question 1: Which soil is associated with the best vineyards for Sherry? (a) Granite (b) Albariza (c) Slate (d) Volcanic basalt. Answer: (b) Albariza. This white, chalk-rich soil holds moisture from winter rain and releases it slowly to the vines during the hot, dry summer, which is essential for growing Palomino in the Jerez area.",
+"k": "text"
+},
+{
+"t": "Question 2: Which grape is used for Vouvray? (a) Sauvignon Blanc (b) Melon Blanc (c) Chenin Blanc (d) Chardonnay. Answer: (c) Chenin Blanc. Vouvray in the Middle Loire produces Chenin Blanc in every style from dry to sweet, as well as sparkling wines, all marked by its naturally high acidity.",
+"k": "text"
+},
+{
+"t": "Question 3: What are the typical results of carbonic maceration? (a) Deep colour and high tannin (b) Low tannin and fruity aromas such as kirsch and banana (c) Oxidative nutty aromas (d) High alcohol and full body. Answer: (b). Whole bunches ferment inside the berries in a carbon dioxide-rich environment, extracting colour but little tannin and creating distinctive fruity aromas. The technique is closely associated with Beaujolais.",
+"k": "text"
+},
+{
+"t": "Question 4: Which grape dominates red Hermitage? (a) Grenache (b) Mourvèdre (c) Syrah (d) Carignan. Answer: (c) Syrah. Grenache, Mourvèdre and Carignan are typical of the warmer Southern Rhône and southern France, which is why they make convincing distractors.",
+"k": "text"
+},
+{
+"t": "Question 5: How are the grapes for Amarone della Valpolicella treated before fermentation? (a) They are frozen on the vine (b) They are dried for several months to concentrate sugar and flavour (c) They are affected by noble rot in the vineyard (d) They are fermented as whole bunches under carbon dioxide. Answer: (b). The drying process, called appassimento, concentrates the Corvina-based grapes. Amarone is then fermented dry or almost dry, giving a full-bodied, high-alcohol red with dried-fruit flavours.",
+"k": "text"
+},
+{
+"t": "Question 6: Why is Hunter Valley Semillon often low in alcohol? (a) The grapes are picked early to keep high acidity (b) Fermentation is always stopped by fortification (c) Water is added to the must (d) The region is too cold to ripen grapes. Answer: (a). The warm, humid climate and harvest-time rain encourage early picking. The wines are light, high in acid and unoaked when young, and with bottle age develop toast, honey and nutty notes.",
+"k": "text"
+},
+{
+"t": "Question 7: Pinotage is a crossing of which two grapes? (a) Pinot Noir and Cinsault (b) Pinot Noir and Syrah (c) Pinot Gris and Grenache (d) Pinotage is not a crossing. Answer: (a) Pinot Noir and Cinsault. It was created in South Africa, where it remains a signature variety made in styles ranging from light and fruity to rich and oaked.",
+"k": "text"
+},
+{
+"t": "Question 8: How does Assyrtiko from Santorini keep its high acidity in a hot climate? (a) Through added acid only (b) It is a variety that retains acidity naturally even in hot conditions (c) The grapes are picked unripe in early summer (d) Malolactic conversion raises the acidity. Answer: (b). Assyrtiko naturally retains acidity, and on Santorini the vines are often trained low in basket shapes to protect the grapes from strong winds.",
+"k": "text"
+},
+{
+"t": "Question 9: What is the principal grape of Chianti Classico? (a) Montepulciano (b) Nebbiolo (c) Sangiovese (d) Barbera. Answer: (c) Sangiovese, which gives high acidity, medium to high tannin and red cherry and herbal flavours. Montepulciano, Nebbiolo and Barbera are all Italian grapes, which makes them plausible distractors.",
+"k": "text"
+},
+{
+"t": "Question 10: Which of these Champagne labelling terms indicates the driest style? (a) Demi-sec (b) Brut (c) Extra dry (d) Brut nature. Answer: (d) Brut nature, which has the lowest level of sugar. Extra dry is a classic trap: despite its name, it is sweeter than Brut.",
+"k": "text"
+},
+{
+"t": "Question 11: What happens if harvest is delayed in a warm climate? (a) Acidity rises and sugar falls (b) Sugar keeps rising while acidity falls, giving higher potential alcohol and riper, possibly cooked fruit flavours (c) Nothing changes once the grapes are ripe (d) Tannins become greener. Answer: (b). Choosing the harvest date is a balance between sugar, acidity, flavour and tannin ripeness, and in warm regions waiting too long risks flabby, high-alcohol wines.",
+"k": "text"
+},
+{
+"t": "Question 12: In which country is Grüner Veltliner the most widely planted grape? (a) Germany (b) Hungary (c) Austria (d) Greece. Answer: (c) Austria. Styles range from light and fresh to concentrated and age-worthy, often with a characteristic white pepper note.",
+"k": "text"
+},
+{
+"t": "Distractor patterns and how to spot them",
+"k": "text"
+},
+{
+"t": "Pattern",
+"k": "text"
+},
+{
+"t": "Example of the trap",
+"k": "text"
+},
+{
+"t": "How to defend yourself",
+"k": "text"
+},
+{
+"t": "Right country, wrong region",
+"k": "text"
+},
+{
+"t": "A Southern Rhône grape offered for a Northern Rhône wine",
+"k": "text"
+},
+{
+"t": "Learn regions as maps, not lists: north versus south, coast versus inland",
+"k": "text"
+},
+{
+"t": "Right technique, wrong effect",
+"k": "text"
+},
+{
+"t": "Malolactic conversion described as raising acidity",
+"k": "text"
+},
+{
+"t": "For each technique, learn the direction of its effect",
+"k": "text"
+},
+{
+"t": "Name that sounds right",
+"k": "text"
+},
+{
+"t": "Extra dry assumed to be drier than Brut",
+"k": "text"
+},
+{
+"t": "Make a short list of counter-intuitive terms and revise it often",
+"k": "text"
+},
+{
+"t": "True but irrelevant",
+"k": "text"
+},
+{
+"t": "A correct fact about a region that does not answer the stem",
+"k": "text"
+},
+{
+"t": "Reread the stem and ask whether the option answers it exactly",
+"k": "text"
+},
+{
+"t": "Absolute words",
+"k": "text"
+},
+{
+"t": "Always, never, only in an option",
+"k": "text"
+},
+{
+"t": "Wine has few absolutes; treat these options with suspicion",
+"k": "text"
+},
+{
+"t": "Numbers close together",
+"k": "text"
+},
+{
+"t": "Four similar ageing periods or alcohol levels",
+"k": "text"
+},
+{
+"t": "Learn a few key figures precisely rather than many roughly",
+"k": "text"
+},
+{
+"t": "What the questions tend to focus on, chapter by chapter",
+"k": "text"
+},
+{
+"t": "Chapter",
+"k": "text"
+},
+{
+"t": "Typical focus of questions",
+"k": "text"
+},
+{
+"t": "Study tip",
+"k": "text"
+},
+{
+"t": "The vine and the environment",
+"k": "text"
+},
+{
+"t": "Climate types, temperature, sunlight, water, soils and their effect on ripening",
+"k": "text"
+},
+{
+"t": "Always connect the factor to its effect on sugar, acidity and flavour",
+"k": "text"
+},
+{
+"t": "Vineyard management",
+"k": "text"
+},
+{
+"t": "Training, pruning, yields, vineyard hazards, harvest decisions",
+"k": "text"
+},
+{
+"t": "Link each practice to the problem it solves",
+"k": "text"
+},
+{
+"t": "Winemaking",
+"k": "text"
+},
+{
+"t": "Fermentation temperature, oak, malolactic conversion, lees, extraction",
+"k": "text"
+},
+{
+"t": "Learn technique, then effect, then typical style",
+"k": "text"
+},
+{
+"t": "Regions",
+"k": "text"
+},
+{
+"t": "Main grapes, climate, key appellations, labelling terms, styles",
+"k": "text"
+},
+{
+"t": "Use one-page summaries with a chain for each region",
+"k": "text"
+},
+{
+"t": "Sparkling wines",
+"k": "text"
+},
+{
+"t": "Methods of production, ageing on lees, sweetness terms",
+"k": "text"
+},
+{
+"t": "Compare traditional and tank methods side by side",
+"k": "text"
+},
+{
+"t": "Fortified wines",
+"k": "text"
+},
+{
+"t": "Fortification timing, biological and oxidative ageing, styles of Port and Sherry",
+"k": "text"
+},
+{
+"t": "Draw a simple diagram of each production process",
+"k": "text"
+},
+{
+"t": "A five-step method for any question",
+"k": "text"
+},
+{
+"t": "Read the stem to the end and underline the qualifiers: main, most, typically, NOT.",
+"k": "text"
+},
+{
+"t": "Cover the options and answer in your own words first.",
+"k": "text"
+},
+{
+"t": "Read all four options, even if the first one matches your answer.",
+"k": "text"
+},
+{
+"t": "Eliminate options that are false or that answer a different question.",
+"k": "text"
+},
+{
+"t": "Choose, and if in doubt flag the question to come back to it rather than spending more than a minute on it.",
+"k": "text"
+},
+{
+"t": "This method feels slow at first, but after a few weeks of practice it becomes automatic, and it removes most of the careless errors that cost candidates marks on topics they actually know.",
+"k": "text"
+},
+{
+"t": "How to practise so that the answers stay",
+"k": "text"
+},
+{
+"t": "Three techniques make practice questions far more effective than rereading notes. The first is active recall: trying to retrieve an answer from memory strengthens it more than reading it again. The second is spacing: returning to a topic after a day, then after a few days, then after a week, fixes it much better than one long session. The third is targeted repetition: the questions you get wrong should come back more often than the ones you get right.",
+"k": "text"
+},
+{
+"t": "An error log brings these together. Each time you get a question wrong, write the topic, the correct answer and the reason you missed it in one line. Before each session, reread the last few entries. Over the weeks, the log becomes a personal revision guide made only of the points you actually need.",
+"k": "text"
+},
+{
+"t": "A four-week practice plan",
+"k": "text"
+},
+{
+"t": "Week",
+"k": "text"
+},
+{
+"t": "Daily practice",
+"k": "text"
+},
+{
+"t": "Weekly check",
+"k": "text"
+},
+{
+"t": "1",
+"k": "text"
+},
+{
+"t": "20 questions on the current topic, every explanation read",
+"k": "text"
+},
+{
+"t": "One mixed set of 25 questions on all topics studied so far",
+"k": "text"
+},
+{
+"t": "2",
+"k": "text"
+},
+{
+"t": "20 questions, half current topic, half errors from the log",
+"k": "text"
+},
+{
+"t": "Mixed set of 25 questions, timed",
+"k": "text"
+},
+{
+"t": "3",
+"k": "text"
+},
+{
+"t": "25 questions on mixed topics",
+"k": "text"
+},
+{
+"t": "One short written answer per topic studied, checked against key points",
+"k": "text"
+},
+{
+"t": "4",
+"k": "text"
+},
+{
+"t": "25 mixed questions, focus on the weakest chapters",
+"k": "text"
+},
+{
+"t": "Full timed set of 50 questions as part of a mock exam",
+"k": "text"
+},
+{
+"t": "From a multiple-choice question to a written answer",
+"k": "text"
+},
+{
+"t": "Practice questions also feed your written answers. Take question 6 above about Hunter Valley Semillon. In a multiple-choice paper you only need to recognise that early picking explains the low alcohol. In a written answer, the same topic becomes several marks: the warm, humid climate with harvest-time rain encourages early picking; early picking gives low sugar and therefore low alcohol, together with high acidity; the wines are usually fermented cool in stainless steel and not oaked, to preserve their delicate citrus character; and with several years in bottle they develop toast, honey and nut aromas even without oak. Training yourself to expand a question into its chain of causes is one of the best preparations for the written section.",
+"k": "text"
+},
+{
+"t": "Common mistakes when using practice questions",
+"k": "text"
+},
+{
+"t": "Repeating the same set until the answers are memorised by position rather than understood.",
+"k": "text"
+},
+{
+"t": "Reading only the correct answer and skipping the explanation.",
+"k": "text"
+},
+{
+"t": "Practising only favourite regions and avoiding the difficult ones.",
+"k": "text"
+},
+{
+"t": "Never timing yourself, then running short of time on exam day.",
+"k": "text"
+},
+{
+"t": "Doing only multiple choice and leaving the written answers until the last week.",
+"k": "text"
+},
+{
+"t": "Treating a high score on a familiar set as proof of readiness for the whole syllabus.",
+"k": "text"
+},
+{
+"t": "Quick self-check: true or false?",
+"k": "text"
+},
+{
+"t": "Turning statements into true-or-false checks is a fast way to test the distractor habit. Decide for each statement, then read the correction.",
+"k": "text"
+},
+{
+"t": "Statement 1: Malolactic conversion increases the acidity of a wine. False: it converts sharper malic acid into softer lactic acid, so perceived acidity falls and the texture becomes rounder.",
+"k": "text"
+},
+{
+"t": "Statement 2: Tank-method sparkling wines usually show strong autolytic notes of toast and brioche. False: these notes come from long ageing on the lees, typical of the traditional method; the tank method usually aims to preserve fresh primary fruit.",
+"k": "text"
+},
+{
+"t": "Statement 3: A cool climate tends to give wines with higher acidity and lower alcohol than a hot climate with the same grape. True: slower ripening retains acidity and limits the build-up of sugar.",
+"k": "text"
+},
+{
+"t": "Statement 4: Fino Sherry is aged under a layer of flor yeast that protects it from oxygen. True: this biological ageing gives a pale colour and tangy, bready, almond notes.",
+"k": "text"
+},
+{
+"t": "Statement 5: Higher yields always improve wine quality. False: very high yields can dilute flavour concentration, which is why many quality-focused regions limit yields.",
+"k": "text"
+},
+{
+"t": "Statement 6: Port is fortified during fermentation, which leaves natural grape sugar in the wine. True: adding grape spirit stops the yeasts before all the sugar is converted into alcohol.",
+"k": "text"
+},
+{
+"t": "The Wine Goat app is built around these principles: more than 2,000 questions organised by chapter and region, explanations for every answer, automatic repetition of the questions you miss and timed mixed sets that prepare you for the full theory paper.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many multiple-choice questions are in the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "The theory exam has 50 multiple-choice questions and 4 short written answer questions. The tasting part is a blind tasting of two wines.",
+"k": "text"
+},
+{
+"t": "Where can I find WSET Level 3 practice questions with answers?",
+"k": "text"
+},
+{
+"t": "The Wine Goat has more than 2,000 practice questions with explanations, organised by region and topic, in English, Italian, French and Spanish.",
+"k": "text"
+},
+{
+"t": "What is the pass mark for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "The exam has two separate units, theory and tasting, and you need at least 55% in each. If you fail one, you only retake that unit. Results are Pass, Merit or Distinction.",
+"k": "text"
+},
+{
+"t": "Are these the real WSET Level 3 exam questions?",
+"k": "text"
+},
+{
+"t": "No. The questions on this page and in the app are written by The Wine Goat for practice, in the style of the theory paper. They are not official exam questions and they do not reproduce any real exam. Their purpose is to train the knowledge and the reading habits the exam requires, with an explanation for every answer so that each question also works as a revision note.",
+"k": "text"
+},
+{
+"t": "How many practice questions should I do per day for WSET 3?",
+"k": "text"
+},
+{
+"t": "For most candidates, 20 to 30 questions a day is enough, provided you read every explanation and review your mistakes. Short daily sessions work better than long occasional ones because the syllabus is wide and needs regular repetition. In the last weeks, add timed sets of 50 questions to train your pace for the full paper.",
+"k": "text"
+},
+{
+"t": "What should I do when I keep getting the same question wrong?",
+"k": "text"
+},
+{
+"t": "A question you miss repeatedly usually hides a confusion between two similar facts. Write both facts side by side in a short comparison table, for example two neighbouring regions or two similar techniques, and note the one detail that separates them. Then answer a few questions on each over the next days until the difference becomes automatic.",
+"k": "text"
+},
+{
+"t": "Should I guess on multiple-choice questions I am unsure about?",
+"k": "text"
+},
+{
+"t": "Yes. A blank answer cannot score, while a reasoned guess has a real chance. First eliminate the options you know are wrong, then choose among those left. In practice, flag your guesses so that you can check later whether your elimination reasoning was sound: it is a useful indicator of how well you really know a topic.",
+"k": "text"
+},
+{
+"t": "Do practice questions help with the tasting unit?",
+"k": "text"
+},
+{
+"t": "Indirectly. Questions on winemaking, climate and grape varieties explain why wines show certain structures and aromas, which helps you reach consistent conclusions in your tasting notes. They do not replace tasting practice, though: the tasting unit is marked separately and needs regular blind tasting with complete SAT notes.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 practice questions & answers (free MCQs) | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 practice questions with answers and explanations: multiple-choice questions on every region, grape, winemaking and the SAT. 2,000+ more in the app.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which traditional French term is more often seen on labels instead of AOP?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "One plot may be covered by a generic and a more prestigious appellation; the producer chooses yearly.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How late can spring frosts occur in Chablis?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Another hazard is localised summer hail, which can destroy much of a crop.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which yeast carries the alcoholic fermentation of wine through to the end?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Saccharomyces cerevisiae tolerates alcohol and finishes the fermentation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What five things does the vine need?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "CO2 is always plentiful; heat, light, water and nutrients vary and affect yield and quality.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which traditional Italian term corresponds to PGI?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The PDO term is DOP, but DOC and DOCG are more widely seen.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "By how much does the second fermentation raise a sparkling wine's alcohol?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "So the aim is a dry 10-11% base wine from low-sugar, high-acid grapes with ripe, non-green flavours.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Australia's principal grape of either colour?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Hunter and Barossa give full fruity Shiraz; Geelong and Heathcote leaner, peppery. With Cabernet it plays Merlot's Bordeaux role.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the Douro's three Port sub-regions?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Baixo Corgo is coolest and wettest with the lightest wines; Cima Corgo has most top vineyards; Douro Superior is renowned. Hotter and drier eastward.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

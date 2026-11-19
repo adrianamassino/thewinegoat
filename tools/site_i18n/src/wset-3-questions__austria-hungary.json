@@ -1,0 +1,1087 @@
+{
+"group": "wset-3-questions__austria-hungary",
+"source": "wset-3-questions/austria-hungary/index.html",
+"url": "/wset-3-questions/austria-hungary/",
+"region": "main",
+"sha": "dc73c0d323d0",
+"words": 3430,
+"segment_words": 3709,
+"segments": [
+{
+"t": "WSET 3 Austria and Hungary – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Austria and Hungary practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Austria and Hungary, WSET Level 3 Austria and Hungary, Austria and Hungary WSET questions, Austria and Hungary wine quiz, Austria and Hungary wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Austria and Hungary: practice questions with answers – WSET 3 Austria and Hungary, WSET Level 3 Austria and Hungary (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Austria and Hungary",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Austria and Hungary: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Austria and Hungary, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 57 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Austria and Hungary: practice questions with answers | WSET 3 Austria and Hungary",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Austria and Hungary practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What is Austria best known for?",
+"k": "text"
+},
+{
+"t": "Sweet Port-style fortified wines from Burgenland",
+"k": "text"
+},
+{
+"t": "Traditional-method sparkling wines from Welschriesling",
+"k": "text"
+},
+{
+"t": "Quality dry whites from Grüner Veltliner and Riesling",
+"k": "text"
+},
+{
+"t": "Structured Blaufränkisch reds aged in new barriques",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Quality dry whites from Grüner Veltliner and Riesling",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It also makes fine reds (Zweigelt, Blaufränkisch) and botrytised Welschriesling sweet wines.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What climate do Austria's wine regions have?",
+"k": "text"
+},
+{
+"t": "Cool continental, with short summers and harsh winters",
+"k": "text"
+},
+{
+"t": "Moderate maritime, with rain all year and mild winters",
+"k": "text"
+},
+{
+"t": "Humid tropical, with summer monsoon rain",
+"k": "text"
+},
+{
+"t": "Warm Mediterranean, with long, dry summers",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cool continental, with short summers and harsh winters",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The Alps cover the west, so vineyards are in the east. The north has cool winds, the Hungarian border warm easterlies.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is Austria's most widely planted grape?",
+"k": "text"
+},
+{
+"t": "Zweigelt",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Welschriesling",
+"k": "text"
+},
+{
+"t": "Grüner Veltliner",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Grüner Veltliner",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} At high yields it is unexciting; carefully grown it is full, concentrated, high-acid, citrus or stone fruit, sometimes white pepper, then honey and toast.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Is Welschriesling the same grape as Riesling?",
+"k": "text"
+},
+{
+"t": "It is an American hybrid",
+"k": "text"
+},
+{
+"t": "Yes, it is a synonym",
+"k": "text"
+},
+{
+"t": "No, it is a different variety",
+"k": "text"
+},
+{
+"t": "It is a Riesling clone",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} No, it is a different variety",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is Austria's second white: dry it is simple and acidic, but its botrytis susceptibility gives fine sweet wines.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Where do the best Austrian Rieslings come from?",
+"k": "text"
+},
+{
+"t": "Neusiedlersee and Vienna",
+"k": "text"
+},
+{
+"t": "Vienna and Weinviertel",
+"k": "text"
+},
+{
+"t": "Burgenland and Steiermark",
+"k": "text"
+},
+{
+"t": "Wachau, Kamptal, Kremstal",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Wachau, Kamptal, Kremstal",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Usually dry, medium to full, ripe peach; the best age in bottle.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} In which Austrian region does Sauvignon Blanc have a growing reputation?",
+"k": "text"
+},
+{
+"t": "Weinviertel",
+"k": "text"
+},
+{
+"t": "Neusiedlersee",
+"k": "text"
+},
+{
+"t": "Styria",
+"k": "text"
+},
+{
+"t": "Wachau",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Styria",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is a southern region; Chardonnay and Müller-Thurgau are also widely planted.",
+"k": "text"
+},
+{
+"t": "Study notes: Austria and Hungary for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Austria and Hungary questions focus on two ideas: Austria's high-quality dry whites from Grüner Veltliner and Riesling, with the sweet wines of Burgenland, and Hungary's Tokaj, one of the world's great botrytised sweet wines. Both countries have cool continental climates where water bodies, warm winds and autumn mists make a big difference. These notes go beyond the sample questions above and follow the cause, effect and style logic used to mark exam answers.",
+"k": "text"
+},
+{
+"t": "Austria for WSET 3: regions and climate",
+"k": "text"
+},
+{
+"t": "Austria's vineyards are in the east of the country, because the Alps cover the west. The climate is cool continental, with cold winters and warm summers. In Niederösterreich (Lower Austria) cool air from the north and the forests helps keep acidity; towards the Hungarian border in Burgenland, warmer air from the Pannonian plain allows fuller reds and sweet wines. Rivers and lakes moderate temperatures and, around Lake Neusiedl, create the humidity needed for noble rot.",
+"k": "text"
+},
+{
+"t": "Niederösterreich: Wachau, Kamptal, Kremstal, Weinviertel",
+"k": "text"
+},
+{
+"t": "The Wachau is a narrow stretch of the Danube with steep terraced vineyards on primary rock. Warm days and cool nights, helped by cold air from the forested hills to the north, give whites with ripe fruit and high acidity. Kamptal and Kremstal, just to the east, make similar Grüner Veltliner and Riesling, often from loess and rock soils. The Weinviertel is Austria's largest region and its classic wine is fresh, peppery Grüner Veltliner; it was the first region to adopt a DAC.",
+"k": "text"
+},
+{
+"t": "Wachau quality categories",
+"k": "text"
+},
+{
+"t": "Category",
+"k": "text"
+},
+{
+"t": "Alcohol",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Steinfeder",
+"k": "text"
+},
+{
+"t": "Up to 11.5% abv",
+"k": "text"
+},
+{
+"t": "Light, fresh, dry, for early drinking",
+"k": "text"
+},
+{
+"t": "Federspiel",
+"k": "text"
+},
+{
+"t": "11.5% to 12.5% abv",
+"k": "text"
+},
+{
+"t": "Medium-bodied, dry, elegant",
+"k": "text"
+},
+{
+"t": "Smaragd",
+"k": "text"
+},
+{
+"t": "At least 12.5% abv",
+"k": "text"
+},
+{
+"t": "Ripest grapes, full-bodied, dry, age-worthy",
+"k": "text"
+},
+{
+"t": "These categories are used by a Wachau producers' association and describe dry wines by ripeness and body. They are a common multiple-choice topic because they are unique to the Wachau.",
+"k": "text"
+},
+{
+"t": "Burgenland is the warmest region. The shallow Lake Neusiedl (Neusiedlersee) creates morning mists in autumn, and warm, dry afternoons then concentrate the grapes, so noble rot develops reliably. Botrytised sweet wines are made from Welschriesling and other grapes, and the town of Rust is famous for Ruster Ausbruch. Burgenland is also Austria's main red wine area: Blaufränkisch gives deep colour, high acidity, firm tannin and black cherry and spice, especially in Mittelburgenland; Zweigelt, Austria's most planted black grape (a crossing of Blaufränkisch and St. Laurent), is softer, fruity and easy-drinking. Steiermark (Styria), in the south, has hilly vineyards and is known for crisp, aromatic Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "Austrian wine law: DAC and Prädikat",
+"k": "text"
+},
+{
+"t": "Austrian wine law combines a German-style ripeness system with a newer regional system. The DAC (Districtus Austriae Controllatus) system links each region to its typical grapes and style, so the label shows the origin rather than the variety first; for example, Weinviertel DAC means Grüner Veltliner. Many DACs now use a pyramid of regional, village and single-vineyard wines.",
+"k": "text"
+},
+{
+"t": "Qualitätswein: quality wine from a single named region, the main category for dry wines.",
+"k": "text"
+},
+{
+"t": "Prädikatswein: categories based on the sugar level of the grapes at harvest, as in Germany: Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese and Eiswein.",
+"k": "text"
+},
+{
+"t": "Ausbruch: a traditional category between Beerenauslese and Trockenbeerenauslese, associated with Rust.",
+"k": "text"
+},
+{
+"t": "Strohwein or Schilfwein: sweet wine from grapes dried on straw or reeds after harvest.",
+"k": "text"
+},
+{
+"t": "Unlike Germany, Austrian Prädikat wines are almost always sweet; Spätlese and above cannot be chaptalised.",
+"k": "text"
+},
+{
+"t": "Exam technique: if asked to describe Grüner Veltliner, include structure as well as flavour. A strong answer: medium to full body, high acidity, citrus, green apple and stone fruit with a typical white pepper note; the best examples from the Wachau and Kamptal age to honey and toast. Mention that at high yields it gives simple, light wines.",
+"k": "text"
+},
+{
+"t": "Hungary for WSET 3: Tokaj",
+"k": "text"
+},
+{
+"t": "Tokaj is in north-east Hungary, where vineyards on volcanic hills meet the Bodrog and Tisza rivers. In autumn the rivers create morning mists that encourage noble rot, while warm, dry afternoons concentrate the shrivelled berries. The climate is continental, with long, dry autumns that allow late picking.",
+"k": "text"
+},
+{
+"t": "The Tokaj grapes",
+"k": "text"
+},
+{
+"t": "Furmint: the main grape, with high acidity, susceptibility to botrytis and the ability to make fine dry and sweet wines.",
+"k": "text"
+},
+{
+"t": "Hárslevelű: aromatic and floral, often blended with Furmint.",
+"k": "text"
+},
+{
+"t": "Sárgamuskotály (Muscat Blanc à Petits Grains): adds grapey aromatics in small proportions.",
+"k": "text"
+},
+{
+"t": "How Tokaji Aszú is made",
+"k": "text"
+},
+{
+"t": "Botrytised (aszú) berries are picked individually, often in several passes through the vineyard.",
+"k": "text"
+},
+{
+"t": "A base wine or fermenting must is made from healthy grapes.",
+"k": "text"
+},
+{
+"t": "The aszú berries are crushed to a paste and macerated in the base wine or must, which extracts sugar, acidity and flavour.",
+"k": "text"
+},
+{
+"t": "The wine is pressed, fermentation finishes slowly, and the wine is aged in small oak casks in cool, humid underground cellars.",
+"k": "text"
+},
+{
+"t": "The result is sweet, high in acidity, with apricot, marmalade, honey and, with age, nutty and caramel notes.",
+"k": "text"
+},
+{
+"t": "Sweetness was traditionally expressed in puttonyos, the number of baskets of aszú berries added to a cask of base wine. Today Tokaji Aszú must reach a high minimum level of residual sugar, so the old lower categories of 3 and 4 puttonyos are no longer used; 5 and 6 puttonyos may still appear on labels.",
+"k": "text"
+},
+{
+"t": "Other Tokaj styles",
+"k": "text"
+},
+{
+"t": "How it is made",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "Dry Furmint",
+"k": "text"
+},
+{
+"t": "Healthy grapes, fermented dry, sometimes in oak",
+"k": "text"
+},
+{
+"t": "Dry",
+"k": "text"
+},
+{
+"t": "Szamorodni",
+"k": "text"
+},
+{
+"t": "Whole bunches with a share of botrytised berries",
+"k": "text"
+},
+{
+"t": "Dry (száraz) or sweet (édes)",
+"k": "text"
+},
+{
+"t": "Late harvest",
+"k": "text"
+},
+{
+"t": "Late-picked grapes, some botrytis, shorter ageing",
+"k": "text"
+},
+{
+"t": "Sweet, lighter than Aszú",
+"k": "text"
+},
+{
+"t": "Tokaji Aszú",
+"k": "text"
+},
+{
+"t": "Aszú paste macerated in base wine or must",
+"k": "text"
+},
+{
+"t": "Very sweet, high acidity",
+"k": "text"
+},
+{
+"t": "Eszencia",
+"k": "text"
+},
+{
+"t": "Free-run juice from aszú berries, ferments very slowly",
+"k": "text"
+},
+{
+"t": "Extremely sweet, very low alcohol",
+"k": "text"
+},
+{
+"t": "Outside Tokaj, Hungary makes red wines from Kékfrankos (Blaufränkisch), Cabernet Franc and blends, notably in Eger and Villány, but at WSET Level 3 most questions focus on Tokaj.",
+"k": "text"
+},
+{
+"t": "Common mistake: describing Eszencia as the same thing as Aszú. Eszencia is only the syrup-like juice that runs naturally from the aszú berries under their own weight; it is so sweet that it ferments for years and stays very low in alcohol.",
+"k": "text"
+},
+{
+"t": "How to revise Austria and Hungary in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw eastern Austria and place the Wachau, Kamptal, Kremstal, Weinviertel, Burgenland with Lake Neusiedl, and Steiermark.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the three Wachau categories with their alcohol levels.",
+"k": "text"
+},
+{
+"t": "Day 3: write Grüner Veltliner, Riesling, Welschriesling, Zweigelt and Blaufränkisch with three style words each.",
+"k": "text"
+},
+{
+"t": "Day 4: explain why noble rot forms around Lake Neusiedl and in Tokaj using the same chain: water, mist, dry afternoons, concentration.",
+"k": "text"
+},
+{
+"t": "Day 5: learn the five steps of Tokaji Aszú and the five Tokaj styles.",
+"k": "text"
+},
+{
+"t": "Day 6: write a timed short answer comparing a Wachau Smaragd Riesling with a Tokaji Aszú.",
+"k": "text"
+},
+{
+"t": "Day 7: run Austria and Hungary questions in the app and review only your mistakes.",
+"k": "text"
+},
+{
+"t": "Fifteen minutes a day is enough to master both countries, because the key facts repeat: cool continental climates, water bodies that create mists and botrytis, and high-acid white grapes that make both dry and sweet wines.",
+"k": "text"
+},
+{
+"t": "Worked example: a short written answer on Austria and Tokaj",
+"k": "text"
+},
+{
+"t": "Short written answers reward a clear chain of cause and effect. Here is a typical question and a model answer, followed by a note on why it would score well.",
+"k": "text"
+},
+{
+"t": "Question: Explain how the natural conditions around Lake Neusiedl and in Tokaj favour the production of high-quality sweet wines, and describe how Tokaji Aszú is made.",
+"k": "text"
+},
+{
+"t": "Model answer: Both areas have a body of water close to the vineyards. In autumn the water creates morning mists, and the humidity allows Botrytis cinerea to develop in its noble form. Warm, dry afternoons then stop the fungus from turning into grey rot and let the berries lose water, so sugar, acidity and flavour become concentrated. Long, dry autumns in a continental climate allow late picking in several passes. In Tokaj, Furmint is ideal because it is very susceptible to noble rot and keeps high acidity, which balances the sweetness. To make Aszú, the shrivelled berries are picked one by one, crushed to a paste and macerated in a base wine or fermenting must; the wine is then pressed, finishes fermenting slowly and is aged in small casks in cool, humid cellars. The result is a sweet wine with high acidity and apricot, marmalade and honey aromas that can age for decades.",
+"k": "text"
+},
+{
+"t": "Why it works: each point is linked to its effect (mist leads to noble rot, dry afternoons lead to concentration, acidity balances sugar). Listing facts without the links would earn fewer marks. The answer also names the grape and the key steps in the right order, which examiners look for.",
+"k": "text"
+},
+{
+"t": "Grape identity card for Austria and Hungary",
+"k": "text"
+},
+{
+"t": "Questions often describe a wine and ask for the grape, or name the grape and ask for its style. Use this table to compare the varieties side by side.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Colour and acidity",
+"k": "text"
+},
+{
+"t": "Typical aromas",
+"k": "text"
+},
+{
+"t": "Where to place it",
+"k": "text"
+},
+{
+"t": "White, high acidity, medium to full body",
+"k": "text"
+},
+{
+"t": "Citrus, green apple, peach, white pepper; honey and toast with age",
+"k": "text"
+},
+{
+"t": "Wachau, Kamptal, Kremstal, Weinviertel",
+"k": "text"
+},
+{
+"t": "Riesling (Austria)",
+"k": "text"
+},
+{
+"t": "White, high acidity, usually dry",
+"k": "text"
+},
+{
+"t": "Ripe peach, citrus, stony notes",
+"k": "text"
+},
+{
+"t": "White, high acidity, light when dry",
+"k": "text"
+},
+{
+"t": "Neutral when dry; apricot and honey when botrytised",
+"k": "text"
+},
+{
+"t": "Burgenland around Lake Neusiedl",
+"k": "text"
+},
+{
+"t": "Furmint",
+"k": "text"
+},
+{
+"t": "White, very high acidity",
+"k": "text"
+},
+{
+"t": "Lemon, apple, smoky notes dry; apricot and marmalade sweet",
+"k": "text"
+},
+{
+"t": "Tokaj",
+"k": "text"
+},
+{
+"t": "Blaufränkisch",
+"k": "text"
+},
+{
+"t": "Black, deep colour, high acidity, firm tannin",
+"k": "text"
+},
+{
+"t": "Black cherry, spice",
+"k": "text"
+},
+{
+"t": "Mittelburgenland",
+"k": "text"
+},
+{
+"t": "Black, medium tannin",
+"k": "text"
+},
+{
+"t": "Red cherry, soft and fruity",
+"k": "text"
+},
+{
+"t": "Throughout Austria, mostly Burgenland and Niederösterreich",
+"k": "text"
+},
+{
+"t": "Sample questions answered in text",
+"k": "text"
+},
+{
+"t": "Question: A label reads Wachau Federspiel. What does it tell you? Answer: The wine comes from the Wachau and belongs to the middle of the three local categories, a dry wine of moderate alcohol, fuller than Steinfeder but lighter than Smaragd. It is most likely Grüner Veltliner or Riesling.",
+"k": "text"
+},
+{
+"t": "Question: Why can Austria make dry whites of high quality in a cool continental climate? Answer: Steep, terraced slopes facing south along the Danube catch more sunlight, while cool night air coming down from the hills keeps acidity high. The river also moderates temperatures. Ripe flavours plus high acidity give the typical structure.",
+"k": "text"
+},
+{
+"t": "Question: What is Szamorodni? Answer: A Tokaj wine made from whole bunches that include some botrytised berries, rather than from selected aszú berries. It can be dry (száraz) or sweet (édes); the dry version is often aged in cask and can show nutty, slightly oxidative notes.",
+"k": "text"
+},
+{
+"t": "Question: Which Austrian red would you expect to have the firmest tannins and highest acidity? Answer: Blaufränkisch, especially from Mittelburgenland. Zweigelt is softer and fruitier.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Austria and Hungary",
+"k": "text"
+},
+{
+"t": "Confusing Welschriesling with Riesling: they are different varieties, and Welschriesling is mainly important for sweet wines.",
+"k": "text"
+},
+{
+"t": "Thinking Austrian Spätlese can be dry, as in Germany: in Austria the Prädikat categories are essentially sweet wines.",
+"k": "text"
+},
+{
+"t": "Placing the Wachau in Burgenland: the Wachau is on the Danube in Niederösterreich, west of Vienna.",
+"k": "text"
+},
+{
+"t": "Forgetting that Smaragd is the ripest and fullest category, not the lightest.",
+"k": "text"
+},
+{
+"t": "Writing that Tokaji Aszú is low in acidity: Furmint gives high acidity, and this is why the wines age so well.",
+"k": "text"
+},
+{
+"t": "Mixing up Eszencia and Aszú: Eszencia is the free-run juice of aszú berries and has very low alcohol.",
+"k": "text"
+},
+{
+"t": "Austria and Hungary in the tasting unit",
+"k": "text"
+},
+{
+"t": "WSET Level 3 has two separate units: theory (multiple-choice questions plus short written answers) and tasting (two wines assessed blind with the SAT). You need at least 55% in each unit, and if you fail one unit you only retake that unit. Grüner Veltliner and Riesling are typical examples of high-acid, unoaked whites, so practise describing them precisely: pale lemon, medium(+) intensity, citrus and stone fruit, high acidity, dry. A sweet botrytised wine would show higher sugar, apricot, honey and marmalade, balanced by acidity.",
+"k": "text"
+},
+{
+"t": "Exam technique: in the tasting unit, link structure to quality. For a good Grüner Veltliner, mention that the high acidity is balanced by ripe fruit and medium to full body, and that the long finish and intensity justify a conclusion of very good quality.",
+"k": "text"
+},
+{
+"t": "Mini glossary of label terms",
+"k": "text"
+},
+{
+"t": "Ried: a single named vineyard site on Austrian labels.",
+"k": "text"
+},
+{
+"t": "Gebietswein, Ortswein, Riedenwein: regional, village and single-vineyard levels of the Austrian origin pyramid.",
+"k": "text"
+},
+{
+"t": "Steinfeder, Federspiel, Smaragd: the three Wachau categories, from lightest to fullest.",
+"k": "text"
+},
+{
+"t": "Ausbruch: a traditional sweet category associated with Rust.",
+"k": "text"
+},
+{
+"t": "Aszú: botrytised, shrivelled berries and the sweet wine made from them in Tokaj.",
+"k": "text"
+},
+{
+"t": "Száraz and édes: dry and sweet, used for Szamorodni.",
+"k": "text"
+},
+{
+"t": "Eszencia: the free-run juice of aszú berries, extremely sweet.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "57 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Austria and Hungary are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 57 multiple-choice questions on Austria and Hungary, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Austria and Hungary important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Austria and Hungary, can come up.",
+"k": "text"
+},
+{
+"t": "What are Steinfeder, Federspiel and Smaragd for WSET 3?",
+"k": "text"
+},
+{
+"t": "They are the three Wachau categories for dry white wines, defined by ripeness and alcohol. Steinfeder is light, up to 11.5% abv; Federspiel is medium-bodied, between 11.5% and 12.5%; Smaragd comes from the ripest grapes and is full-bodied, with at least 12.5%. They apply mainly to Grüner Veltliner and Riesling.",
+"k": "text"
+},
+{
+"t": "What does DAC mean on an Austrian wine label?",
+"k": "text"
+},
+{
+"t": "DAC stands for Districtus Austriae Controllatus. It is an Austrian appellation that links a region to its typical grape varieties and style, so the region name signals the wine. For example, Weinviertel DAC is peppery Grüner Veltliner, while other DACs cover Riesling, Blaufränkisch or Sauvignon Blanc. Many DACs now distinguish regional, village and single-vineyard wines.",
+"k": "text"
+},
+{
+"t": "Why is Furmint so important in Tokaj?",
+"k": "text"
+},
+{
+"t": "Furmint is the main Tokaj grape because it combines very high acidity with thin skins that are susceptible to noble rot. High acidity balances the extreme sweetness of Aszú and Eszencia and helps them age for decades. Furmint also makes high-quality dry wines, so it shows the full range of Tokaj styles.",
+"k": "text"
+},
+{
+"t": "What does puttonyos mean in Tokaji?",
+"k": "text"
+},
+{
+"t": "Puttonyos refers to the traditional baskets used to collect aszú (botrytised) berries; the number added to a cask of base wine indicated sweetness. Today Tokaji Aszú must reach a high minimum residual sugar, so the old 3 and 4 puttonyos levels have disappeared, while 5 and 6 puttonyos can still be shown on labels.",
+"k": "text"
+},
+{
+"t": "Which red grapes should I know for Austria at WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Learn Zweigelt and Blaufränkisch. Zweigelt is Austria's most planted black grape, a crossing of Blaufränkisch and St. Laurent, giving soft, fruity, red cherry wines for early drinking. Blaufränkisch, especially in Burgenland, gives deeper colour, high acidity, firm tannins and black fruit with spice, and can age. St. Laurent and Pinot Noir are also grown.",
+"k": "text"
+},
+{
+"t": "How do I answer a WSET 3 short written question on Tokaji Aszú?",
+"k": "text"
+},
+{
+"t": "Start with the conditions: rivers that create autumn mists, dry afternoons and a long autumn. Then explain why Furmint suits noble rot and keeps acidity. Describe the steps in order: picking aszú berries by hand, making a paste, maceration in base wine or must, slow fermentation and cask ageing in humid cellars. Finish with the style: sweet, high acidity, apricot, marmalade, honey, long ageing potential.",
+"k": "text"
+},
+{
+"t": "Can Grüner Veltliner come up in the WSET Level 3 tasting?",
+"k": "text"
+},
+{
+"t": "It can, because it is a classic example of a high-acid, unoaked white wine. Practise describing it with precise SAT terms: pale lemon, medium(+) intensity, citrus, green apple and stone fruit, sometimes white pepper, dry, high acidity and medium to full body. The tasting unit is assessed separately from theory, so regular practice with real wines is the best preparation.",
+"k": "text"
+},
+{
+"t": "What happens if I pass the WSET 3 theory but fail the tasting?",
+"k": "text"
+},
+{
+"t": "The theory and the tasting are two separate units, and each needs at least 55%. If you fail one of them, you only retake that unit; the unit you passed is kept. This is why it is worth preparing the blind tasting with the same care as the theory, rather than relying on a strong theory result.",
+"k": "text"
+},
+{
+"t": "What is the difference between Ausbruch and Trockenbeerenauslese?",
+"k": "text"
+},
+{
+"t": "Both are sweet wines from botrytised grapes. Ausbruch is a traditional Austrian category linked to the town of Rust on Lake Neusiedl, with a must weight between Beerenauslese and Trockenbeerenauslese. Trockenbeerenauslese is the highest Prädikat category, made from individually selected shrivelled berries with very high sugar levels. For the exam, remember that Ausbruch sits just below TBA.",
+"k": "text"
+},
+{
+"t": "Which Austrian region should I link with red wine in WSET 3 questions?",
+"k": "text"
+},
+{
+"t": "Burgenland is the key red wine region, as it is the warmest part of Austria. Mittelburgenland is known for Blaufränkisch with deep colour, high acidity, firm tannin and black cherry and spice. Zweigelt, Austria's most planted black grape, is found widely and gives softer, fruitier wines. Steiermark is better known for Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Austria and Hungary – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Austria and Hungary practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Austria best known for?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It also makes fine reds (Zweigelt, Blaufränkisch) and botrytised Welschriesling sweet wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What climate do Austria's wine regions have?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The Alps cover the west, so vineyards are in the east. The north has cool winds, the Hungarian border warm easterlies.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Austria's most widely planted grape?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At high yields it is unexciting; carefully grown it is full, concentrated, high-acid, citrus or stone fruit, sometimes white pepper, then honey and toast.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Is Welschriesling the same grape as Riesling?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is Austria's second white: dry it is simple and acidic, but its botrytis susceptibility gives fine sweet wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where do the best Austrian Rieslings come from?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Usually dry, medium to full, ripe peach; the best age in bottle.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In which Austrian region does Sauvignon Blanc have a growing reputation?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is a southern region; Chardonnay and Müller-Thurgau are also widely planted.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

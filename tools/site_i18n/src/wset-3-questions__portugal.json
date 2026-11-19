@@ -1,0 +1,989 @@
+{
+"group": "wset-3-questions__portugal",
+"source": "wset-3-questions/portugal/index.html",
+"url": "/wset-3-questions/portugal/",
+"region": "main",
+"sha": "4af0119e16d2",
+"words": 3313,
+"segment_words": 3526,
+"segments": [
+{
+"t": "WSET 3 Portugal – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Portugal practice questions with answers and explanations, plus 40 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Portugal, WSET Level 3 Portugal, Portugal WSET questions, Portugal wine quiz, Portugal wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Portugal: practice questions with answers – WSET 3 Portugal, WSET Level 3 Portugal, Portugal WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Portugal",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Portugal: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These are real questions from The Wine Goat bank on Portugal, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 40 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Portugal: practice questions with answers | WSET 3 Portugal",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What is the single most important climatic influence in Portugal?",
+"k": "text"
+},
+{
+"t": "The Alpine ranges",
+"k": "text"
+},
+{
+"t": "The Sahara",
+"k": "text"
+},
+{
+"t": "The Atlantic Ocean",
+"k": "text"
+},
+{
+"t": "The Mediterranean",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The Atlantic Ocean",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Much is maritime, but many inland vineyards are hot, dry and continental; altitude mitigates heat in places.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What is the traditional Portuguese PGI term still seen on labels?",
+"k": "text"
+},
+{
+"t": "Garrafeira",
+"k": "text"
+},
+{
+"t": "DOC Regional",
+"k": "text"
+},
+{
+"t": "Vino de la Tierra",
+"k": "text"
+},
+{
+"t": "Vinho Regional",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Vinho Regional",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} PDO = DOP (traditionally DOC); PGI = IGP. Wines without GI are 'Vinho', including successful simple off-dry rosés.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is Vinho Verde's most significant climatic feature?",
+"k": "text"
+},
+{
+"t": "Hot winds",
+"k": "text"
+},
+{
+"t": "Extreme drought",
+"k": "text"
+},
+{
+"t": "Spring frost",
+"k": "text"
+},
+{
+"t": "Abundant rainfall",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Abundant rainfall",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Without canopy management rain brings excess growth and disease; pergolas have given way to spur-pruned VSP for airflow and mechanisation.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is classic white Vinho Verde like?",
+"k": "text"
+},
+{
+"t": "Pale lemon, high acidity, low alcohol, often slightly spritzy",
+"k": "text"
+},
+{
+"t": "A deeply coloured tannic red, aged in large casks",
+"k": "text"
+},
+{
+"t": "Golden and full, aged in new barriques, with tropical fruit",
+"k": "text"
+},
+{
+"t": "Sweet and fortified with spirit, similar to a white Port",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Pale lemon, high acidity, low alcohol, often slightly spritzy",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Lower-alcohol ones are usually off-dry. Loureiro and Arinto. With a variety or sub-region named, up to 14%.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Where does Vinho Verde Alvarinho come from and what is it like?",
+"k": "text"
+},
+{
+"t": "From Monção e Melgaço; 11.5–14% with riper, tropical aromas",
+"k": "text"
+},
+{
+"t": "From the Alentejo; full and aged in new French oak",
+"k": "text"
+},
+{
+"t": "From the coast near Porto; 8-10%, very acidic and spritzy",
+"k": "text"
+},
+{
+"t": "From the Douro; a sweet wine from grapes dried on racks",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} From Monção e Melgaço; 11.5–14% with riper, tropical aromas",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} 100% Alvarinho (Albariño in Spain). Vinho Verde reds are deep and tannic, rosés fresh and fruity.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which local grapes are used for white Vinho Verde?",
+"k": "text"
+},
+{
+"t": "Loureiro and Arinto",
+"k": "text"
+},
+{
+"t": "Encruzado and Bical",
+"k": "text"
+},
+{
+"t": "Antão Vaz and Roupeiro",
+"k": "text"
+},
+{
+"t": "Assyrtiko and Picpoul",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Loureiro and Arinto",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Vinho Verde: Loureiro, Arinto; Alvarinho for Monção e Melgaço.",
+"k": "text"
+},
+{
+"t": "Study notes: Portugal for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Portugal questions test three things: how the Atlantic and the mountains shape each region's climate, which indigenous grapes are grown where, and how to read a Portuguese label. The notes below go region by region, from the wet north-west to the hot south, using the cause, effect and style reasoning that the short written answers reward. Port has its own topic, so here the focus is on light (unfortified) wines, with only a brief mention of Moscatel de Setúbal.",
+"k": "text"
+},
+{
+"t": "Why the Atlantic is the key to Portugal",
+"k": "text"
+},
+{
+"t": "The Atlantic Ocean is the single most important climatic influence in Portugal because the prevailing westerly winds bring cool air and rain onto the coast. Moving inland, mountain ranges block that maritime influence, so rainfall drops sharply and summers become hotter and drier. That is why Vinho Verde, close to the coast in the north-west, is one of the wettest wine regions in Europe, while the Douro, a short distance inland behind the Serra do Marão, is hot and dry. When a question asks you to explain the difference between two Portuguese regions, start with distance from the ocean and shelter from mountains, then add altitude and soil.",
+"k": "text"
+},
+{
+"t": "The second big idea is the grape portfolio. Portugal has a large number of indigenous varieties, and the exam expects you to link a handful of them to their regions: Loureiro, Arinto and Alvarinho in the north-west; Touriga Nacional, Touriga Franca and Tinta Roriz in the Douro and Dão; Baga in Bairrada; Alicante Bouschet, Trincadeira and Antão Vaz in the Alentejo; Castelão in the south.",
+"k": "text"
+},
+{
+"t": "WSET 3 Portugal labelling terms",
+"k": "text"
+},
+{
+"t": "Portuguese labels use the EU categories with traditional names. DOP is the protected designation of origin, still widely written as DOC. IGP is the protected geographical indication, usually shown as Vinho Regional. Wines without a geographical indication are simply labelled Vinho. Two ageing terms come up regularly in WSET 3 Portugal questions.",
+"k": "text"
+},
+{
+"t": "Term",
+"k": "text"
+},
+{
+"t": "Meaning",
+"k": "text"
+},
+{
+"t": "Exam note",
+"k": "text"
+},
+{
+"t": "DOP / DOC",
+"k": "text"
+},
+{
+"t": "PDO: defined area, permitted grapes, yields and production rules",
+"k": "text"
+},
+{
+"t": "Douro, Dão, Bairrada, Vinho Verde, Alentejo",
+"k": "text"
+},
+{
+"t": "IGP / Vinho Regional",
+"k": "text"
+},
+{
+"t": "PGI: larger area, more freedom with grape varieties",
+"k": "text"
+},
+{
+"t": "Vinho Regional Alentejano, Lisboa and Tejo sell large volumes",
+"k": "text"
+},
+{
+"t": "Vinho",
+"k": "text"
+},
+{
+"t": "Wine without a geographical indication",
+"k": "text"
+},
+{
+"t": "Includes commercially successful off-dry rosés",
+"k": "text"
+},
+{
+"t": "Reserva",
+"k": "text"
+},
+{
+"t": "Single vintage, at least 0.5% abv above the legal minimum for the area",
+"k": "text"
+},
+{
+"t": "Does not by itself guarantee oak ageing",
+"k": "text"
+},
+{
+"t": "Single vintage; reds aged at least 30 months including at least 12 in bottle; whites at least 12 months including 6 in bottle",
+"k": "text"
+},
+{
+"t": "A producer's selection of its best wine, aged before release",
+"k": "text"
+},
+{
+"t": "Common mistake: writing that Reserva means the wine has been aged in new oak. In Portugal the legal definition is about vintage and alcohol; oak is a producer choice. Garrafeira is the term with a defined minimum ageing period, part of it in bottle.",
+"k": "text"
+},
+{
+"t": "Vinho Verde WSET 3: climate, viticulture and styles",
+"k": "text"
+},
+{
+"t": "Vinho Verde DOC lies in the Minho, in the far north-west. High rainfall and fertile granite-based soils give very vigorous vines and a high risk of fungal disease. Traditionally vines were trained high on pergolas or up trees so that the ground could be used for other crops. Today most vineyards are cordon-trained and spur-pruned on vertical shoot positioning, because an open, well-ventilated canopy reduces disease pressure and allows mechanisation. Grapes are picked early, so the wines keep high acidity and moderate to low alcohol.",
+"k": "text"
+},
+{
+"t": "Vinho Verde styles to know",
+"k": "text"
+},
+{
+"t": "Classic white blend: pale lemon, high acidity, light body, low alcohol, citrus and green fruit, often with a slight spritz and a touch of sweetness; fermented cool in stainless steel and bottled young.",
+"k": "text"
+},
+{
+"t": "Loureiro: floral and citrus aromas; Arinto: very high acidity and lemon fruit, so it adds freshness to blends.",
+"k": "text"
+},
+{
+"t": "Alvarinho from Monção e Melgaço: this sub-region is sheltered by hills and is warmer and drier, so the grapes ripen more fully, giving more body, higher alcohol and riper stone and tropical fruit.",
+"k": "text"
+},
+{
+"t": "Premium whites: some producers use lees contact or a portion of oak to add texture.",
+"k": "text"
+},
+{
+"t": "Reds and rosés: reds are deeply coloured with high acidity and noticeable tannin; rosés are fresh and fruity.",
+"k": "text"
+},
+{
+"t": "Douro DOC: the unfortified wines of the Douro Valley",
+"k": "text"
+},
+{
+"t": "The Douro is famous for Port, but WSET Level 3 also expects you to know the dry Douro DOC reds and whites, whose quality and reputation have grown fast. The valley is sheltered from Atlantic rain by the Serra do Marão, so it has a hot, dry continental climate. The soils are mainly schist, which fractures vertically and lets roots penetrate deep to find water, essential in a region with drought stress. Slopes are very steep: old stone-walled terraces, wider bulldozed terraces called patamares that allow small tractors, and vertical planting up the slope (vinha ao alto) are all used.",
+"k": "text"
+},
+{
+"t": "The region has three sub-regions that become hotter, drier and less populated as you move east: Baixo Corgo (the wettest and coolest), Cima Corgo (the heart of the region, home to many top quintas) and Douro Superior (the hottest and driest). The main black grapes are Touriga Nacional (deep colour, high tannin, floral and black fruit aromas), Touriga Franca, Tinta Roriz (Tempranillo), Tinta Barroca and Tinto Cão. Typical premium Douro reds are deep in colour, full-bodied, high in tannin and ripe black fruit, often matured in oak and capable of ageing. Whites come mainly from higher, cooler sites where acidity is preserved.",
+"k": "text"
+},
+{
+"t": "Dão and Bairrada for WSET 3",
+"k": "text"
+},
+{
+"t": "Dão",
+"k": "text"
+},
+{
+"t": "Dão sits on a granite plateau surrounded by mountains. The mountains protect it from the wettest Atlantic weather to the west and from the harshest continental conditions to the east, and the altitude gives cool nights. As a result Dão reds keep high acidity and an elegant structure. Key black grapes are Touriga Nacional, Tinta Roriz, Alfrocheiro and Jaen (the same variety as Mencía). The reds are typically medium to full-bodied with medium to high tannin, red and black fruit and good ageing potential. The flagship white grape is Encruzado, which can be barrel-fermented and lees-aged to give full-bodied, complex whites that age well.",
+"k": "text"
+},
+{
+"t": "Bairrada",
+"k": "text"
+},
+{
+"t": "Bairrada is close to the coast, so its climate is maritime, with significant rainfall, and many vineyards are on clay soils. Its signature grape is Baga, a thick-skinned, late-ripening variety with high acidity and high tannin. Because it ripens late, wet autumns bring a risk of rot and unripe, harsh tannins. Traditional Bairrada reds were very tannic and needed years in bottle; many modern producers destem fully, extract more gently and choose the best sites, giving softer, fruitier wines. Bairrada is also an important source of traditional method sparkling wine, and Bical is a local white grape.",
+"k": "text"
+},
+{
+"t": "Southern Portugal: Lisboa, Tejo, Alentejo and Setúbal",
+"k": "text"
+},
+{
+"t": "The south is warmer and more open, and much of its wine is sold as Vinho Regional, which allows blends of local and international grapes. Lisboa runs along the coast and produces large volumes of fruity, good-value wines. Tejo follows the Tagus river: fertile plains near the river give high yields, while poorer soils further away give more concentrated wines. The Alentejo is a large, hot, dry region where irrigation is often needed; big estates and cooperatives produce full-bodied reds from Aragonez (Tempranillo), Trincadeira and the deeply coloured teinturier Alicante Bouschet, often blended with Syrah or Cabernet Sauvignon, and whites from Antão Vaz, Roupeiro and Arinto, which adds acidity. In the Península de Setúbal, Castelão thrives on sandy soils, and Moscatel de Setúbal is a sweet fortified wine.",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Climate",
+"k": "text"
+},
+{
+"t": "Key grapes",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Vinho Verde",
+"k": "text"
+},
+{
+"t": "Cool, very wet, maritime",
+"k": "text"
+},
+{
+"t": "Loureiro, Arinto, Alvarinho",
+"k": "text"
+},
+{
+"t": "Light, high-acid whites; deep, tannic reds",
+"k": "text"
+},
+{
+"t": "Douro",
+"k": "text"
+},
+{
+"t": "Hot, dry, continental",
+"k": "text"
+},
+{
+"t": "Touriga Nacional, Touriga Franca, Tinta Roriz",
+"k": "text"
+},
+{
+"t": "Full-bodied, tannic reds; also Port",
+"k": "text"
+},
+{
+"t": "Sheltered, cool nights from altitude",
+"k": "text"
+},
+{
+"t": "Touriga Nacional, Alfrocheiro, Jaen, Encruzado",
+"k": "text"
+},
+{
+"t": "Elegant reds with high acidity; age-worthy whites",
+"k": "text"
+},
+{
+"t": "Maritime, rainy",
+"k": "text"
+},
+{
+"t": "Baga, Bical",
+"k": "text"
+},
+{
+"t": "High-acid, high-tannin reds; sparkling",
+"k": "text"
+},
+{
+"t": "Alentejo",
+"k": "text"
+},
+{
+"t": "Hot, dry, often irrigated",
+"k": "text"
+},
+{
+"t": "Alicante Bouschet, Trincadeira, Aragonez, Antão Vaz",
+"k": "text"
+},
+{
+"t": "Ripe, full-bodied reds; soft, fruity whites",
+"k": "text"
+},
+{
+"t": "How to answer WSET 3 Portugal written questions",
+"k": "text"
+},
+{
+"t": "Short written answers on Portugal are marked point by point, so structure matters more than eloquence. For a question such as explain why Douro reds are full-bodied and tannic, follow this order:",
+"k": "text"
+},
+{
+"t": "Name the climate and its cause: hot, dry continental summers because the Serra do Marão blocks Atlantic rain.",
+"k": "text"
+},
+{
+"t": "Add soil and site: schist lets roots go deep for water; steep slopes face the sun.",
+"k": "text"
+},
+{
+"t": "Link to the grape: Touriga Nacional and Touriga Franca are thick-skinned and give deep colour and high tannin.",
+"k": "text"
+},
+{
+"t": "Mention winemaking: extraction and oak maturation for premium wines.",
+"k": "text"
+},
+{
+"t": "Finish with the style: deep ruby, full body, high tannin, ripe black fruit, ageing potential.",
+"k": "text"
+},
+{
+"t": "Exam technique: in Portugal questions, always name the grape and the region together (Baga in Bairrada, Encruzado in Dão, Alvarinho in Monção e Melgaço). Many multiple-choice distractors pair a real grape with the wrong region.",
+"k": "text"
+},
+{
+"t": "How to revise Portugal in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw the map from memory, with the Atlantic, the mountains and the five main regions; write one climate word for each.",
+"k": "text"
+},
+{
+"t": "Day 2: grape pairs: write each region and its two or three key grapes, then check.",
+"k": "text"
+},
+{
+"t": "Day 3: labelling: DOP, IGP, Vinho Regional, Reserva and Garrafeira from memory.",
+"k": "text"
+},
+{
+"t": "Day 4: write one 5-point answer on Vinho Verde viticulture and one on Douro reds.",
+"k": "text"
+},
+{
+"t": "Day 5: do 20 multiple-choice questions on Portugal and note every error; practising in the app brings those mistakes back until they stick.",
+"k": "text"
+},
+{
+"t": "Portuguese white grapes at a glance",
+"k": "text"
+},
+{
+"t": "Black grapes such as Touriga Nacional get most of the attention, but white varieties are a frequent source of multiple-choice distractors. Learn each one with its region and its main contribution.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Main region",
+"k": "text"
+},
+{
+"t": "What it brings",
+"k": "text"
+},
+{
+"t": "Alvarinho",
+"k": "text"
+},
+{
+"t": "Vinho Verde (Monção e Melgaço)",
+"k": "text"
+},
+{
+"t": "More body and alcohol, ripe stone and tropical fruit",
+"k": "text"
+},
+{
+"t": "Loureiro",
+"k": "text"
+},
+{
+"t": "Floral and citrus aromas, light body",
+"k": "text"
+},
+{
+"t": "Arinto",
+"k": "text"
+},
+{
+"t": "Vinho Verde, Lisboa, Alentejo",
+"k": "text"
+},
+{
+"t": "Very high acidity and lemon fruit, freshness in blends",
+"k": "text"
+},
+{
+"t": "Encruzado",
+"k": "text"
+},
+{
+"t": "Full body, complexity, suits barrel fermentation and lees ageing",
+"k": "text"
+},
+{
+"t": "Bical",
+"k": "text"
+},
+{
+"t": "Fresh base for still and sparkling wines",
+"k": "text"
+},
+{
+"t": "Antão Vaz",
+"k": "text"
+},
+{
+"t": "Ripe tropical fruit and body in a hot climate",
+"k": "text"
+},
+{
+"t": "Worked examples: Portugal short written answers",
+"k": "text"
+},
+{
+"t": "Question 1: Explain why a classic Vinho Verde white is light in body and high in acidity. Model answer: the region is close to the Atlantic in the north-west, so it is cool and very wet. Grapes are picked early, before full ripeness, which keeps acidity high and sugar low, giving low to moderate alcohol and a light body. Varieties such as Loureiro and Arinto add citrus, floral aromas and fresh acidity, and cool fermentation in stainless steel with early bottling preserves primary fruit and sometimes a slight spritz.",
+"k": "text"
+},
+{
+"t": "Question 2: Explain how Alentejo producers make full-bodied red wines in a hot, dry climate. Model answer: hot, sunny summers ripen black grapes fully, giving high sugar and therefore high alcohol and ripe black fruit. Irrigation is often needed to keep the vines functioning in drought. Producers choose varieties that suit the heat, such as Trincadeira, Aragonez and Alicante Bouschet, whose red flesh gives very deep colour. Blends sold as Vinho Regional Alentejano can include Syrah or Cabernet Sauvignon, and premium wines are matured in oak for extra structure.",
+"k": "text"
+},
+{
+"t": "Where Portugal fits in the WSET Level 3 exam",
+"k": "text"
+},
+{
+"t": "Level 3 has two separate units, each needing at least 55%: the theory unit, with 50 multiple-choice questions and 4 short written-answer questions, and the tasting unit, with two wines assessed blind. They are marked independently, so if you fail one unit you retake only that unit. Portugal often appears in theory as region-grape pairings, labelling terms and climate explanations. For tasting practice, a Vinho Verde and a Douro red make a useful pair: one shows high acidity and light body, the other deep colour, high tannin and full body.",
+"k": "text"
+},
+{
+"t": "Common mistakes in Portugal answers",
+"k": "text"
+},
+{
+"t": "Describing the Douro as maritime: the Serra do Marão blocks Atlantic rain, so it is hot and dry.",
+"k": "text"
+},
+{
+"t": "Pairing Baga with the Douro: Baga belongs to Bairrada.",
+"k": "text"
+},
+{
+"t": "Assuming Alvarinho tastes like a classic Vinho Verde blend: in Monção e Melgaço it is fuller and riper.",
+"k": "text"
+},
+{
+"t": "Calling Alicante Bouschet a local Portuguese crossing: it is a teinturier, prized for its colour.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "40 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Portugal are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 40 multiple-choice questions on Portugal, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Portugal important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Portugal, can come up.",
+"k": "text"
+},
+{
+"t": "Which grapes do I need to know for Portugal at WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Focus on the grapes linked to specific regions: Loureiro, Arinto and Alvarinho for Vinho Verde; Touriga Nacional, Touriga Franca and Tinta Roriz for the Douro; Touriga Nacional, Alfrocheiro, Jaen and the white Encruzado for Dão; Baga for Bairrada; Alicante Bouschet, Trincadeira, Aragonez and Antão Vaz for the Alentejo; Castelão for Setúbal. Knowing each grape's main structural trait helps in written answers.",
+"k": "text"
+},
+{
+"t": "What is the difference between Reserva and Garrafeira in Portugal?",
+"k": "text"
+},
+{
+"t": "Both must come from a single vintage. Reserva means the wine is at least 0.5% abv above the legal minimum for its area; it says nothing specific about oak. Garrafeira adds a minimum ageing period: for reds at least 30 months, including at least 12 months in bottle, and for whites at least 12 months, including 6 in bottle, before release.",
+"k": "text"
+},
+{
+"t": "Why do Dão reds have high acidity if the region is inland?",
+"k": "text"
+},
+{
+"t": "Dão sits on a granite plateau ringed by mountains. Altitude brings cool nights, which slow the loss of acidity during ripening, while the mountains shelter vineyards from both heavy Atlantic rain and continental extremes. The result is reds with high acidity, medium to high tannin and an elegant, age-worthy structure, which is a common WSET 3 explanation question.",
+"k": "text"
+},
+{
+"t": "Is Douro DOC the same as Port for WSET 3?",
+"k": "text"
+},
+{
+"t": "No. Port is a fortified wine with its own appellation, while Douro DOC covers the unfortified red and white wines from the same valley. They share the climate, schist soils and grapes such as Touriga Nacional and Touriga Franca, but Douro DOC reds are fermented to dryness without spirit, giving full-bodied, tannic dry wines.",
+"k": "text"
+},
+{
+"t": "Why is Baga difficult to grow in Bairrada?",
+"k": "text"
+},
+{
+"t": "Baga is thick-skinned and late-ripening, and Bairrada has a rainy maritime climate. If autumn is wet, growers risk rot or must pick before the tannins are fully ripe, giving harsh, astringent wines. Modern producers manage this with careful site selection, full destemming and gentler extraction, producing softer reds that keep Baga's high acidity.",
+"k": "text"
+},
+{
+"t": "What is a teinturier grape such as Alicante Bouschet?",
+"k": "text"
+},
+{
+"t": "A teinturier is a black grape whose flesh, not just its skin, is red. Its juice is already coloured, so it gives very deep colour even with short maceration. In the Alentejo, Alicante Bouschet is valued for colour, ripe black fruit and structure, and it is often blended with Trincadeira, Aragonez or international varieties. In an exam answer, name it as a source of deep colour.",
+"k": "text"
+},
+{
+"t": "Why are the best Douro whites grown at altitude?",
+"k": "text"
+},
+{
+"t": "The Douro is hot and dry, so white grapes on low, sun-exposed sites ripen quickly and lose acidity. Higher vineyards have cooler temperatures, especially at night, so ripening is slower and the grapes keep fresher acidity and more aromatic fruit. That is why many producers source their whites from the higher parts of the region, where the wines are more balanced and refreshing.",
+"k": "text"
+},
+{
+"t": "How can I practise Portugal for the WSET 3 theory paper?",
+"k": "text"
+},
+{
+"t": "Start with a blank map and the five main regions, then add one climate word and two grapes to each. Next, write five-point answers on Vinho Verde viticulture and Douro reds against the clock. Finally, do mixed multiple-choice questions and look carefully at distractors that pair a real grape with the wrong region; reviewing those errors in the app until they disappear is the fastest progress.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the single most important climatic influence in Portugal?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Much is maritime, but many inland vineyards are hot, dry and continental; altitude mitigates heat in places.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the traditional Portuguese PGI term still seen on labels?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "PDO = DOP (traditionally DOC); PGI = IGP. Wines without GI are 'Vinho', including successful simple off-dry rosés.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Vinho Verde's most significant climatic feature?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Without canopy management rain brings excess growth and disease; pergolas have given way to spur-pruned VSP for airflow and mechanisation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is classic white Vinho Verde like?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Lower-alcohol ones are usually off-dry. Loureiro and Arinto. With a variety or sub-region named, up to 14%.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where does Vinho Verde Alvarinho come from and what is it like?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "100% Alvarinho (Albariño in Spain). Vinho Verde reds are deep and tannic, rosés fresh and fruity.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which local grapes are used for white Vinho Verde?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Vinho Verde: Loureiro, Arinto; Alvarinho for Monção e Melgaço.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

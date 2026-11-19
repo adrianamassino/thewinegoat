@@ -5,7 +5,7 @@ Run from the repo root after tools/seo_sp/build.py:  python3 tools/seo_sp/home_s
 import json, re, html
 e = html.escape
 SL = json.load(open('tools/seo_sp/slugs.json', encoding='utf8'))
-DIRS = {'en': '.', 'it': 'it', 'fr': 'fr', 'es': 'es', 'es-ar': 'es-ar', 'de': 'de', 'nl': 'nl', 'pl': 'pl', 'pt': 'pt', 'pt-br': 'pt-br', 'ru': 'ru', 'el': 'el', 'ja': 'ja', 'ko': 'ko', 'zh-hans': 'zh-hans', 'zh-hant': 'zh-hant', 'ar': 'ar'}
+DIRS = {'en': '.', 'it': 'it', 'fr': 'fr', 'es': 'es', 'es-ar': 'es-ar', 'de': 'de', 'nl': 'nl', 'pl': 'pl', 'pt': 'pt', 'pt-br': 'pt-br', 'ru': 'ru', 'el': 'el', 'ja': 'ja', 'ko': 'ko', 'zh-hans': 'zh-hans', 'zh-hant': 'zh-hant', 'ar': 'ar', 'th': 'th', 'tr': 'tr'}
 # kick, h2, lead, [d1, d2, d3], live, soon, prep, start, guide, nav, faq q, faq a, hero add
 T = {
  'en': ("New: spirits", "WSET Spirits courses, Levels 1, 2 and 3", "Whisky, brandy, rum, agave spirits, gin, liqueurs and cocktails: the same goat-powered method, now for spirits.",
@@ -93,6 +93,16 @@ T = {
         "متاح الآن", "قريبًا جدًا", "قيد الإعداد", "ابدأ Spirits 1", "اقرأ الدليل ←", "Spirits",
         "هل يحضّر The Wine Goat أيضًا لدورات WSET للمشروبات الروحية؟", "نعم. المستوى 1 من Spirits متاح الآن في التطبيق مع دروس وأسئلة مشروحة وبطاقات وامتحان تجريبي؛ والمستوى 2 قريبًا جدًا والمستوى 3 قيد الإعداد. يمكنك البدء مجانًا.",
         "جديد: دورات Spirits، والمستوى 1 متاح في التطبيق."),
+ 'th': ("ใหม่: สุรา", "คอร์ส WSET Spirits ระดับ 1, 2 และ 3", "วิสกี้ บรั่นดี รัม สุราจากอากาเว่ จิน ลิเคียวร์ และค็อกเทล: วิธีเรียนแบบเดียวกันกับแพะของเรา ตอนนี้มีสำหรับสุราด้วย",
+        ["ตระกูลของสุรา วิธีผลิต ฉลาก และค็อกเทลคลาสสิก", "การผลิตเชิงลึก สุราหลักของโลก ลิเคียวร์ และตระกูลค็อกเทล", "ทฤษฎี คำตอบเขียนแบบ “อธิบายเหตุผล” และการชิมสุราแบบปิดฉลาก"],
+        "พร้อมใช้งานแล้ว", "เร็ว ๆ นี้", "กำลังจัดทำ", "เริ่ม Spirits 1", "อ่านคู่มือ →", "Spirits",
+        "The Wine Goat ช่วยเตรียมสอบคอร์ส WSET Spirits ด้วยไหม", "ได้ Spirits ระดับ 1 และ 2 มีในแอปแล้ว พร้อมบทเรียน คำถามฝึกหัดพร้อมคำอธิบาย แฟลชการ์ด และข้อสอบจำลอง ส่วนระดับ 3 กำลังจัดทำ เริ่มใช้ได้ฟรี",
+        "ใหม่: คอร์ส Spirits ระดับ 1 และ 2 มีในแอปแล้ว"),
+ 'tr': ("Yeni: distile içkiler", "WSET Spirits kursları, Seviye 1, 2 ve 3", "Viski, brendi, rom, agave içkileri, cin, likörler ve kokteyller: keçilerle aynı yöntem, artık distile içkiler için de.",
+        ["Distile içki aileleri, nasıl yapıldıkları, etiketler ve klasik kokteyller.", "Ayrıntılı üretim, dünyanın başlıca distile içkileri, likörler ve kokteyl aileleri.", "Teori, “nedenini açıkla” yazılı cevaplar ve distile içkilerin kör tadımı."],
+        "Şimdi kullanılabilir", "Çok yakında", "Hazırlanıyor", "Spirits 1’e başla", "Rehberi oku →", "Spirits",
+        "The Wine Goat WSET Spirits kurslarına da hazırlıyor mu?", "Evet. Spirits Seviye 1 ve Seviye 2 uygulamada hazır: dersler, açıklamalı deneme soruları, bilgi kartları ve deneme sınavları; Seviye 3 hazırlanıyor. Ücretsiz başlayabilirsin.",
+        "Yeni: Spirits kursları, Seviye 1 ve 2 uygulamada."),
 }
 LIVE = (1, 2)
 GOATS = ['ig-n21.webp', 'ig-n05.webp', 'ig-n26.webp']
@@ -102,7 +112,7 @@ for _l, (_a, _h) in NEW.items():
 A, Z = '<!--spirits-->', '<!--/spirits-->'
 import os
 for l, d in DIRS.items():
-    if not os.path.exists('.' + SL['hub'][l] + 'index.html'): continue  # pages not built yet in this language
+    if not os.path.exists('.' + SL['hub'][l] + 'index.html') or not os.path.exists(f'{d}/index.html'): continue  # pages not built yet in this language
     p = f'{d}/index.html'; s = open(p, encoding='utf8').read(); t = T[l]
     s = re.sub(re.escape(A) + '.*?' + re.escape(Z), '', s, flags=re.S)
     cards = ''

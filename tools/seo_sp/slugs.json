@@ -16,7 +16,9 @@
   "ko": "/ko/wset-spirits/",
   "zh-hans": "/zh-hans/wset-spirits/",
   "zh-hant": "/zh-hant/wset-spirits/",
-  "ar": "/ar/wset-spirits/"
+  "ar": "/ar/wset-spirits/",
+  "th": "/th/wset-spirits/",
+  "tr": "/tr/wset-spirits/"
  },
  "l1": {
   "en": "/wset-spirits-level-1/",
@@ -35,7 +37,9 @@
   "ko": "/ko/wset-spirits-level-1/",
   "zh-hans": "/zh-hans/wset-spirits-level-1/",
   "zh-hant": "/zh-hant/wset-spirits-level-1/",
-  "ar": "/ar/wset-spirits-level-1/"
+  "ar": "/ar/wset-spirits-level-1/",
+  "th": "/th/wset-spirits-level-1/",
+  "tr": "/tr/wset-spirits-seviye-1/"
  },
  "l2": {
   "en": "/wset-spirits-level-2/",
@@ -54,7 +58,9 @@
   "ko": "/ko/wset-spirits-level-2/",
   "zh-hans": "/zh-hans/wset-spirits-level-2/",
   "zh-hant": "/zh-hant/wset-spirits-level-2/",
-  "ar": "/ar/wset-spirits-level-2/"
+  "ar": "/ar/wset-spirits-level-2/",
+  "th": "/th/wset-spirits-level-2/",
+  "tr": "/tr/wset-spirits-seviye-2/"
  },
  "l3": {
   "en": "/wset-spirits-level-3/",
@@ -73,7 +79,9 @@
   "ko": "/ko/wset-spirits-level-3/",
   "zh-hans": "/zh-hans/wset-spirits-level-3/",
   "zh-hant": "/zh-hant/wset-spirits-level-3/",
-  "ar": "/ar/wset-spirits-level-3/"
+  "ar": "/ar/wset-spirits-level-3/",
+  "th": "/th/wset-spirits-level-3/",
+  "tr": "/tr/wset-spirits-seviye-3/"
  },
  "qs": {
   "en": "/wset-spirits-practice-questions/",
@@ -92,7 +100,9 @@
   "ko": "/ko/wset-spirits-practice-questions/",
   "zh-hans": "/zh-hans/wset-spirits-practice-questions/",
   "zh-hant": "/zh-hant/wset-spirits-practice-questions/",
-  "ar": "/ar/wset-spirits-practice-questions/"
+  "ar": "/ar/wset-spirits-practice-questions/",
+  "th": "/th/wset-spirits-practice-questions/",
+  "tr": "/tr/wset-spirits-deneme-sorulari/"
  },
  "stills": {
   "en": "/how-spirits-are-made-pot-still-column-still/",
@@ -111,7 +121,9 @@
   "ko": "/ko/how-spirits-are-made-pot-still-column-still/",
   "zh-hans": "/zh-hans/how-spirits-are-made-pot-still-column-still/",
   "zh-hant": "/zh-hant/how-spirits-are-made-pot-still-column-still/",
-  "ar": "/ar/how-spirits-are-made-pot-still-column-still/"
+  "ar": "/ar/how-spirits-are-made-pot-still-column-still/",
+  "th": "/th/how-spirits-are-made-pot-still-column-still/",
+  "tr": "/tr/damitik-icecekler-nasil-yapilir/"
  },
  "cats": {
   "en": "/spirits-categories-cheat-sheet/",
@@ -130,7 +142,9 @@
   "ko": "/ko/spirits-categories-cheat-sheet/",
   "zh-hans": "/zh-hans/spirits-categories-cheat-sheet/",
   "zh-hant": "/zh-hant/spirits-categories-cheat-sheet/",
-  "ar": "/ar/spirits-categories-cheat-sheet/"
+  "ar": "/ar/spirits-categories-cheat-sheet/",
+  "th": "/th/spirits-categories-cheat-sheet/",
+  "tr": "/tr/damitik-icki-kategorileri/"
  },
  "cocktails": {
   "en": "/classic-cocktail-families/",
@@ -149,6 +163,8 @@
   "ko": "/ko/classic-cocktail-families/",
   "zh-hans": "/zh-hans/classic-cocktail-families/",
   "zh-hant": "/zh-hant/classic-cocktail-families/",
-  "ar": "/ar/classic-cocktail-families/"
+  "ar": "/ar/classic-cocktail-families/",
+  "th": "/th/classic-cocktail-families/",
+  "tr": "/tr/klasik-kokteyl-aileleri/"
  }
 }

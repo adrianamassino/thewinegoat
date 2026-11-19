@@ -1,0 +1,838 @@
+{
+"group": "is-wset-worth-it",
+"source": "is-wset-worth-it/index.html",
+"url": "/is-wset-worth-it/",
+"region": "main",
+"sha": "8fffb885d846",
+"words": 3442,
+"segment_words": 3529,
+"segments": [
+{
+"t": "Is WSET worth it? Levels 1 to 4 for careers and enthusiasts",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Is a WSET qualification worth it? What each level gives you for a wine career or for personal passion, who recognises it, and how to get the most from the…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "is WSET worth it, WSET worth it, is WSET Level 3 worth it, WSET for career, WSET recognition, benefits of WSET, WSET for wine lovers",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Is WSET worth it? – is WSET worth it, WSET worth it, is WSET Level 3 worth it (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "Is WSET worth it?",
+"k": "text"
+},
+{
+"t": "{1}In short{/1}",
+"k": "text"
+},
+{
+"t": "WSET is worth it if you want a structured, internationally recognised understanding of wine. Level 2 is enough for most enthusiasts and front-line jobs, Level 3 is the professional standard, and the Diploma suits people building a senior career in wine.",
+"k": "text"
+},
+{
+"t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
+"k": "text"
+},
+{
+"t": "WSET is worth it if you want a structured, internationally recognised understanding of wine.",
+"k": "text"
+},
+{
+"t": "WSET qualifications are offered in many countries and widely recognised by the wine trade. Whether they are worth it depends on what you want from them.",
+"k": "text"
+},
+{
+"t": "What each level gives you",
+"k": "text"
+},
+{
+"t": "Level",
+"k": "text"
+},
+{
+"t": "What you get",
+"k": "text"
+},
+{
+"t": "Worth it if…",
+"k": "text"
+},
+{
+"t": "Level 1",
+"k": "text"
+},
+{
+"t": "Vocabulary and basics in one day",
+"k": "text"
+},
+{
+"t": "You are new to wine or start in hospitality",
+"k": "text"
+},
+{
+"t": "Level 2",
+"k": "text"
+},
+{
+"t": "Why the main wines taste as they do",
+"k": "text"
+},
+{
+"t": "You love wine or serve and sell it",
+"k": "text"
+},
+{
+"t": "Level 3",
+"k": "text"
+},
+{
+"t": "Deep, explainable knowledge + structured tasting",
+"k": "text"
+},
+{
+"t": "You work in wine or want serious expertise",
+"k": "text"
+},
+{
+"t": "Level 4 Diploma",
+"k": "text"
+},
+{
+"t": "Expert knowledge across production and business",
+"k": "text"
+},
+{
+"t": "You build a senior career in wine",
+"k": "text"
+},
+{
+"t": "Getting the most from it",
+"k": "text"
+},
+{
+"t": "Practise every day, not only before the exam.",
+"k": "text"
+},
+{
+"t": "Taste with a structured note, even at home.",
+"k": "text"
+},
+{
+"t": "Use what you learn: wine lists, buying, events, teaching.",
+"k": "text"
+},
+{
+"t": "Is WSET worth it? A level-by-level decision guide",
+"k": "text"
+},
+{
+"t": "WSET is worth it when the level you choose matches what you want to do with wine: Level 2 pays off for most enthusiasts and front-line staff, Level 3 is the level the trade most often asks for, and the Diploma is an investment for people building a senior career. The qualifications are knowledge and tasting credentials, so their value depends on how much you practise and use what you learn.",
+"k": "text"
+},
+{
+"t": "What a WSET qualification is, and what it is not",
+"k": "text"
+},
+{
+"t": "WSET qualifications are taught by approved course providers in many countries and assessed with standard exams, which is why an employer in London, Milan, Paris or Madrid understands what a WSET Level 3 means. They certify understanding of wine production, the main regions, styles and a structured way of tasting. They are not a service certification: they do not train you to run a restaurant floor or decant at the table, and they are not a winemaking degree. Knowing this avoids the most common disappointment.",
+"k": "text"
+},
+{
+"t": "Is WSET worth it for your career? Level by job",
+"k": "text"
+},
+{
+"t": "For a wine career, WSET Level 3 is usually the most cost-effective level because it is often listed in job adverts as desirable and gives you vocabulary and structured tasting that colleagues and clients recognise. Level 2 is a good first credential for hospitality and retail; the Diploma is valued for buying, education, senior sales and as a step towards the Master of Wine route.",
+"k": "text"
+},
+{
+"t": "Role",
+"k": "text"
+},
+{
+"t": "Useful level",
+"k": "text"
+},
+{
+"t": "Why it helps",
+"k": "text"
+},
+{
+"t": "Waiting staff, bar staff",
+"k": "text"
+},
+{
+"t": "Level 1 to Level 2",
+"k": "text"
+},
+{
+"t": "Confidence describing wines and suggesting pairings to guests",
+"k": "text"
+},
+{
+"t": "Sommelier",
+"k": "text"
+},
+{
+"t": "Level 3, plus service training",
+"k": "text"
+},
+{
+"t": "Deep knowledge of regions and styles; service skills come from experience or a service-focused path",
+"k": "text"
+},
+{
+"t": "Wine shop or online retail",
+"k": "text"
+},
+{
+"t": "Level 2 to Level 3",
+"k": "text"
+},
+{
+"t": "Explain styles, compare bottles and justify prices to customers",
+"k": "text"
+},
+{
+"t": "Importer, distributor, export sales",
+"k": "text"
+},
+{
+"t": "Level 3, Diploma for senior roles",
+"k": "text"
+},
+{
+"t": "Credibility with buyers, ability to assess quality and talk about markets",
+"k": "text"
+},
+{
+"t": "Marketing, communication, wine tourism",
+"k": "text"
+},
+{
+"t": "Accurate content, tasting notes and storytelling grounded in facts",
+"k": "text"
+},
+{
+"t": "Wine educator",
+"k": "text"
+},
+{
+"t": "Level 3 then Diploma",
+"k": "text"
+},
+{
+"t": "Providers generally expect educators to hold a qualification above the level they teach",
+"k": "text"
+},
+{
+"t": "Winery staff, cellar door",
+"k": "text"
+},
+{
+"t": "A wider view of other regions and styles beyond the estate's own wines",
+"k": "text"
+},
+{
+"t": "A WSET certificate rarely gets you a job on its own; combined with experience, it helps you get the interview and progress faster once inside. In many countries it also signals commitment when you are changing career into wine.",
+"k": "text"
+},
+{
+"t": "The real cost of WSET: money, time and effort",
+"k": "text"
+},
+{
+"t": "Course fees vary a lot by country, provider and format, so compare several approved providers before booking and check what is included: tasting samples, materials, exam fee and resit conditions. Time is the larger cost at higher levels. Level 1 is usually a one-day course; Level 2 combines a short course with a few weeks of revision; Level 3 adds many hours of personal study on top of the course; the Diploma is a multi-unit programme commonly estimated at around 500 hours of study.",
+"k": "text"
+},
+{
+"t": "Hidden costs to plan for",
+"k": "text"
+},
+{
+"t": "Wines for tasting practice at home, especially for Level 3 and the Diploma.",
+"k": "text"
+},
+{
+"t": "Resit fees if one unit needs to be taken again.",
+"k": "text"
+},
+{
+"t": "Travel to the exam centre and, for some formats, time off work for course days.",
+"k": "text"
+},
+{
+"t": "Practice material and mock exams beyond the course itself.",
+"k": "text"
+},
+{
+"t": "Time for regular revision: the cost people underestimate most.",
+"k": "text"
+},
+{
+"t": "Before paying for Level 3, check your Level 2 knowledge honestly. Candidates who start Level 3 with weak foundations spend more on resits than they save by skipping a step, while a well-prepared candidate usually passes both units first time.",
+"k": "text"
+},
+{
+"t": "Is WSET worth it just for passion?",
+"k": "text"
+},
+{
+"t": "For enthusiasts, WSET is worth it because it changes how you buy, order and taste wine, not because of the certificate. After Level 2 you can read most labels, predict the style of a bottle from its grape and region, and choose wine with food more confidently. Level 3 adds the ability to judge quality and explain it, which makes visits to wine regions, tastings with friends and restaurant wine lists far more rewarding.",
+"k": "text"
+},
+{
+"t": "Better buying: you understand why two bottles at different prices taste different.",
+"k": "text"
+},
+{
+"t": "Better travel: you know what to look for in a region before you visit.",
+"k": "text"
+},
+{
+"t": "Better tasting: a structured note replaces vague impressions.",
+"k": "text"
+},
+{
+"t": "A community: classmates often become tasting partners long after the course.",
+"k": "text"
+},
+{
+"t": "When WSET is not worth it, or not yet",
+"k": "text"
+},
+{
+"t": "If you only want table service skills, a service-focused programme or on-the-job training will be more direct.",
+"k": "text"
+},
+{
+"t": "If you want to make wine, an oenology or viticulture degree is the right qualification.",
+"k": "text"
+},
+{
+"t": "If you cannot set aside regular study time, wait: paying for Level 3 without time to revise often ends in a resit.",
+"k": "text"
+},
+{
+"t": "If you are unsure about wine as a career, start with Level 2 and decide afterwards.",
+"k": "text"
+},
+{
+"t": "WSET Diploma: is Level 4 worth it?",
+"k": "text"
+},
+{
+"t": "The WSET Level 4 Diploma in Wines is worth it for people who want a senior or expert role, because it covers wine production, the business of wine, the wines of the world, sparkling and fortified wines and an independent research assignment. Graduates can use the post-nominal DipWSET, and many people who go on to study for the Master of Wine qualification hold the Diploma first. The commitment is significant, so it makes sense only when your work or ambitions will use that depth.",
+"k": "text"
+},
+{
+"t": "How to make your WSET course worth it: 15 minutes a day",
+"k": "text"
+},
+{
+"t": "The value of a WSET course is decided mostly outside the classroom. A short daily routine turns lessons into knowledge you can use at work and in the exam, and it costs less than a resit.",
+"k": "text"
+},
+{
+"t": "Every day, answer 10 to 15 practice questions on the topic of your last lesson and read the explanations.",
+"k": "text"
+},
+{
+"t": "Twice a week, taste one wine with a full structured note, even a simple supermarket bottle.",
+"k": "text"
+},
+{
+"t": "Once a week, explain one region aloud as a chain: climate, grape, winemaking, style.",
+"k": "text"
+},
+{
+"t": "Every month, use what you learn: rewrite a wine list, guide a tasting, advise a customer or a friend.",
+"k": "text"
+},
+{
+"t": "In the last two weeks before the exam, switch to timed mock exams and your weak topics.",
+"k": "text"
+},
+{
+"t": "The free The Wine Goat app can build that routine around your exam date and track which topics you have really mastered.",
+"k": "text"
+},
+{
+"t": "The best predictor of value is use. People who apply what they learn within weeks, at work or at home, remember far more than those who study only for the exam day.",
+"k": "text"
+},
+{
+"t": "Three profiles: is WSET worth it for them?",
+"k": "text"
+},
+{
+"t": "The question is easier to answer with real situations than in general. The three profiles below are typical examples, not real people, and show how the same qualification can be worth a lot to one person and much less to another.",
+"k": "text"
+},
+{
+"t": "The career changer",
+"k": "text"
+},
+{
+"t": "An office worker in her thirties wants to move into wine retail or import. She has no contacts in the trade and no experience. For her, WSET is worth it as a structured route: Level 2 gives her the vocabulary to apply for shop jobs, and Level 3 shows employers that her interest is serious and that she can assess and describe wines. The value multiplies if she uses the course to build a network, volunteers at tastings and takes a part-time job while studying, because the certificate and the experience reinforce each other.",
+"k": "text"
+},
+{
+"t": "The junior sommelier",
+"k": "text"
+},
+{
+"t": "A waiter has started working the wine list in a restaurant. He already serves wine every evening but cannot explain why one Chardonnay costs three times as much as another. For him, Level 3 is the most useful step: it fills the gaps in regions and production, and the structured tasting method helps him describe wines to guests with confidence. He should combine it with service practice on the floor, because WSET does not train decanting, table service or wine list management.",
+"k": "text"
+},
+{
+"t": "The curious enthusiast",
+"k": "text"
+},
+{
+"t": "A retired engineer loves visiting wine regions and wants to understand what he drinks. He has no career goal. For him, Level 2 is probably the sweet spot, and Level 3 is worth it only if he enjoys studying and is happy to taste regularly and write notes. The real value lies in the pleasure: better choices in shops, more rewarding visits to producers and a new circle of friends from class.",
+"k": "text"
+},
+{
+"t": "What you can actually do after each level",
+"k": "text"
+},
+{
+"t": "A useful way to judge value is to look at the practical skills each level gives you, rather than at the title on the certificate.",
+"k": "text"
+},
+{
+"t": "Skill",
+"k": "text"
+},
+{
+"t": "After Level 1",
+"k": "text"
+},
+{
+"t": "After Level 2",
+"k": "text"
+},
+{
+"t": "After Level 3",
+"k": "text"
+},
+{
+"t": "Reading a label",
+"k": "text"
+},
+{
+"t": "Recognise main grapes and a few regions",
+"k": "text"
+},
+{
+"t": "Understand most labels from the main wine countries",
+"k": "text"
+},
+{
+"t": "Interpret labelling terms, quality categories and their implications",
+"k": "text"
+},
+{
+"t": "Predicting style",
+"k": "text"
+},
+{
+"t": "Light, medium or full; dry or sweet",
+"k": "text"
+},
+{
+"t": "Expected style of the main grapes and regions",
+"k": "text"
+},
+{
+"t": "Explain why a wine has its style, from vineyard to winery",
+"k": "text"
+},
+{
+"t": "Tasting",
+"k": "text"
+},
+{
+"t": "Simple description",
+"k": "text"
+},
+{
+"t": "Structured description of the main elements",
+"k": "text"
+},
+{
+"t": "Full systematic note with quality and readiness conclusions",
+"k": "text"
+},
+{
+"t": "Food and wine",
+"k": "text"
+},
+{
+"t": "Basic principles",
+"k": "text"
+},
+{
+"t": "Confident pairing suggestions",
+"k": "text"
+},
+{
+"t": "Pairings justified by structure and flavour intensity",
+"k": "text"
+},
+{
+"t": "Professional use",
+"k": "text"
+},
+{
+"t": "Entry-level hospitality",
+"k": "text"
+},
+{
+"t": "Front-line sales and service",
+"k": "text"
+},
+{
+"t": "Buying, training colleagues, advising clients in depth",
+"k": "text"
+},
+{
+"t": "How to choose a course provider without regrets",
+"k": "text"
+},
+{
+"t": "Much of the value of a WSET course depends on the provider and the format you choose. Before booking, compare a few approved providers on the points below and ask questions directly if the information is not on their website.",
+"k": "text"
+},
+{
+"t": "Format: weekly evenings, weekends or an intensive block. Choose the one that leaves you time to revise between sessions.",
+"k": "text"
+},
+{
+"t": "Tasting: how many wines are tasted in class, and whether samples are provided for home practice.",
+"k": "text"
+},
+{
+"t": "Teachers: their experience in the trade and in teaching the level you are taking.",
+"k": "text"
+},
+{
+"t": "Class size: smaller groups usually allow more questions and more feedback on tasting notes.",
+"k": "text"
+},
+{
+"t": "Exam dates: when and where the exam takes place, and how far it is from the end of the course.",
+"k": "text"
+},
+{
+"t": "Resits: how resits are organised if one unit needs to be taken again.",
+"k": "text"
+},
+{
+"t": "Language: whether the course and exam are available in the language you are most comfortable with.",
+"k": "text"
+},
+{
+"t": "Ask former students what they did between lessons. Their answer tells you more about the real workload than any course description.",
+"k": "text"
+},
+{
+"t": "Why Level 3 pays off only when you prepare both units",
+"k": "text"
+},
+{
+"t": "Level 3 is where many people feel the qualification becomes truly valuable, and also where poor preparation costs most. The exam has two separate units, theory and tasting, and you need at least 55% in each. A brilliant theory paper does not compensate for a weak tasting, and the reverse is also true. If you fail one unit, you retake only that unit, and the one you passed remains valid, but a resit still means extra time, extra stress and a later certificate.",
+"k": "text"
+},
+{
+"t": "The practical consequence is simple: plan your study so that both units get regular attention. Theory needs daily question practice and weekly short written answers; tasting needs full structured notes on real wines, ideally compared with a teacher or a study partner. Candidates who balance the two usually pass both units first time, and that is when the qualification feels most worth it.",
+"k": "text"
+},
+{
+"t": "Self-study or a course: what the classroom adds",
+"k": "text"
+},
+{
+"t": "Books and apps can teach a great deal of wine theory, and many people read widely before enrolling. What a course adds is harder to replicate alone: guided tasting with immediate feedback, a teacher who can calibrate your levels of acidity or tannin, classmates to taste and revise with, and a fixed exam date that turns good intentions into a plan. The qualification itself is awarded through an exam organised by an approved provider, so the course is also the practical route to the certificate.",
+"k": "text"
+},
+{
+"t": "The most effective combination is a course for structure and tasting, plus regular independent practice for memory and written answers. Students who only attend lessons tend to forget early topics by exam day; students who only self-study often struggle to judge their own tasting notes.",
+"k": "text"
+},
+{
+"t": "Signs that your WSET course is paying off",
+"k": "text"
+},
+{
+"t": "You can explain to a friend or a customer why a wine tastes the way it does, using cause and effect.",
+"k": "text"
+},
+{
+"t": "Your tasting notes are consistent: the same wine tasted twice gets similar levels and conclusions.",
+"k": "text"
+},
+{
+"t": "You choose wines in shops and restaurants faster and with fewer disappointments.",
+"k": "text"
+},
+{
+"t": "Colleagues start asking for your opinion on wine lists, purchases or pairings.",
+"k": "text"
+},
+{
+"t": "Practice scores improve week after week, in both multiple choice and short written answers.",
+"k": "text"
+},
+{
+"t": "You read wine news and producer information with understanding instead of skimming it.",
+"k": "text"
+},
+{
+"t": "If none of these signs appear after several weeks, the problem is usually the amount of active practice, not the course. Short daily sessions of questions, one written answer a week and regular tasting with notes change the picture quickly.",
+"k": "text"
+},
+{
+"t": "What The Wine Goat covers today",
+"k": "text"
+},
+{
+"t": "The Wine Goat helps you get more from Levels 1, 2 and 3 with daily questions, short written answers marked against key points, SAT tasting notes and mock exams for both the theory and the tasting unit. Diploma (Level 4) content is in preparation and is not available yet; if you are weighing whether the Diploma is worth it, a strong Level 3 is the foundation you will need either way.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Make your WSET course pay off",
+"k": "text"
+},
+{
+"t": "Daily practice, a plan to your exam date and a tasting diary in The Wine Goat.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "Is WSET recognised internationally?",
+"k": "text"
+},
+{
+"t": "Yes: WSET courses are taught by approved providers in many countries and the qualifications are widely known in the wine trade.",
+"k": "text"
+},
+{
+"t": "Is WSET Level 3 worth it for a career?",
+"k": "text"
+},
+{
+"t": "Yes for most wine jobs: it is widely seen as the professional standard for knowledge and tasting.",
+"k": "text"
+},
+{
+"t": "Is WSET worth it just for fun?",
+"k": "text"
+},
+{
+"t": "Many enthusiasts take Level 2 or 3 purely for passion: it changes how you choose, taste and talk about wine.",
+"k": "text"
+},
+{
+"t": "Which WSET level is worth it for a sommelier job?",
+"k": "text"
+},
+{
+"t": "WSET Level 3 is the level most useful for a sommelier role, because it gives deep knowledge of regions, styles and structured tasting. It does not train table service, so combine it with practical experience or a service-focused programme. Level 2 is a good start for junior positions, and the Diploma helps later for head sommelier or buying roles.",
+"k": "text"
+},
+{
+"t": "Is WSET Level 2 worth it or should I go straight to Level 3?",
+"k": "text"
+},
+{
+"t": "Level 2 is worth it if you are new to wine or have never studied it in a structured way, because Level 3 assumes that foundation. If you already work with wine and know the principal grapes, regions and winemaking basics, you may be ready for Level 3. Try a Level 2 practice test: a comfortable score suggests you can move up.",
+"k": "text"
+},
+{
+"t": "Does a WSET certificate help you get a job in wine?",
+"k": "text"
+},
+{
+"t": "It helps, especially in retail, distribution, hospitality and wine tourism, where WSET Level 2 or 3 is often listed as desirable. On its own it rarely replaces experience, but it helps you get interviews, speak the same language as the trade and progress faster. It is also a clear signal of commitment when you move into wine from another career.",
+"k": "text"
+},
+{
+"t": "How long does it take to get WSET Level 3?",
+"k": "text"
+},
+{
+"t": "The course itself can be taken over a few intensive days or spread across several weeks, depending on the provider. Most candidates then need many hours of personal study and tasting practice before the exam. A realistic plan is a few months of steady daily revision, starting in the first week of the course and finishing with mock exams.",
+"k": "text"
+},
+{
+"t": "Is the WSET Diploma worth it compared with Level 3?",
+"k": "text"
+},
+{
+"t": "The Diploma is worth it if your career needs expert depth: buying, education, senior sales or the path to the Master of Wine. It is a multi-unit programme commonly estimated at around 500 hours of study, so it is a major commitment. For most other roles, a strong Level 3 combined with experience gives most of the professional benefit.",
+"k": "text"
+},
+{
+"t": "Is WSET recognised in Italy, France and Spain?",
+"k": "text"
+},
+{
+"t": "Yes. WSET courses are offered by approved providers in Italy, France and Spain, often in the local language, and the qualifications are known by importers, retailers and restaurants that work internationally. Local qualifications, such as national sommelier associations, are also respected, and many professionals hold both.",
+"k": "text"
+},
+{
+"t": "Is WSET worth it if I already work in a restaurant?",
+"k": "text"
+},
+{
+"t": "Usually yes, especially Level 2 or Level 3. Daily service gives you experience, but a structured course explains why wines taste as they do, fills gaps in regions and production and gives you a tasting method guests and colleagues recognise. Combine it with service practice, because WSET focuses on knowledge and tasting rather than table service skills.",
+"k": "text"
+},
+{
+"t": "What happens if I fail one unit of WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Level 3 has two separate units, theory and tasting, and each needs at least 55%. If you pass one and fail the other, you normally retake only the unit you failed, and the unit you passed remains valid. Your provider explains the practical arrangements. Preparing both units evenly is the best way to avoid a resit.",
+"k": "text"
+},
+{
+"t": "Can I study for WSET on my own?",
+"k": "text"
+},
+{
+"t": "You can learn much of the theory independently, but the qualification is awarded through an exam organised by an approved course provider. A course adds guided tasting, feedback on your notes and a fixed exam date. Many candidates combine a course with independent practice: questions, written answers and tasting at home between lessons.",
+"k": "text"
+},
+{
+"t": "How do I know which provider gives the best value?",
+"k": "text"
+},
+{
+"t": "Compare several approved providers on format, number of wines tasted in class, teachers' experience, class size, exam dates, resit arrangements and language. Ask former students how much they studied between lessons and how well the course prepared them for both units. The right format is the one that leaves you time to revise.",
+"k": "text"
+},
+{
+"t": "Is the WSET Diploma available in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "Not yet. Diploma (Level 4) content is in preparation and not available today. The app currently covers Levels 1, 2 and 3, with questions, short written answers marked against key points, SAT tasting notes and mock exams. A solid Level 3 is the best preparation for the Diploma, so it is the right place to start.",
+"k": "text"
+},
+{
+"t": "More WSET 3 resources",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained: from Level 1 to the Diploma{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Diploma (Level 4), explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips: theory, D3 and tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}Free WSET Level 3 mock exam{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short answer questions{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Systematic Approach to Tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}
