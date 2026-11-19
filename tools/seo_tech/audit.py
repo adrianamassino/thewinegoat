@@ -42,6 +42,9 @@ for p in pages:
     for blk in re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, re.S):
         try: json.loads(blk)
         except Exception as e: P['invalid JSON-LD'].append(f'{p}: {e}')
+    if '"@id": "https://thewinegoat.com/#organization", "name": "The Wine Goat"' not in s: P['no canonical Organization JSON-LD, run tools/geo/sitewide.py (check)'].append(p)
+    if re.search(r'"@id": "https://thewinegoat\.com(/[a-z-]+)?/#(org|site)"', s): P['old #org/#site JSON-LD id, run tools/geo/sitewide.py (check)'].append(p)
+    if 'class="fabout"' not in body: P['footer without About link, run tools/geo/sitewide.py (check)'].append(p)
     if not re.search(r'<meta[^>]+name=["\']viewport', head): P['no viewport'].append(p)
     if not re.search(r'<html[^>]+lang=', s[:400]): P['no html lang'].append(p)
 for t, ps in titles.items():
