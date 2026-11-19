@@ -38,7 +38,7 @@ jobs:
           gh api "repos/${{ github.repository }}/pages/builds?per_page=5" --jq '[.[] | {status, created_at, commit: .commit[0:7], error: .error.message, duration}]' > /tmp/pages_builds.json 2>&1 || true
       - name: Live checks
         run: |
-          sleep 20
+          sleep 150
           bash tools/seo_tech/live_check.sh > /tmp/live.md 2>&1 || true
       - name: Commit report
         run: |

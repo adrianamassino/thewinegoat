@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Live checks of thewinegoat.com from outside (run by .github/workflows/pages-https.yml). Prints Markdown.
+# (re-run marker 2)
 D=thewinegoat.com
 hop() { # url -> every hop: status + location
   curl -s -o /dev/null -D - -m 20 --max-redirs 0 "$1" | awk 'NR==1{printf "%s", $2} tolower($1)=="location:"{printf " → %s", $2}' | tr -d '\r'
