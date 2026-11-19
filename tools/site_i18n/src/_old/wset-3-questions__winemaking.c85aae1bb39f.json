@@ -1,0 +1,1007 @@
+{
+"group": "wset-3-questions__winemaking",
+"source": "wset-3-questions/winemaking/index.html",
+"url": "/wset-3-questions/winemaking/",
+"region": "main",
+"sha": "c85aae1bb39f",
+"words": 3153,
+"segment_words": 3422,
+"segments": [
+{
+"t": "WSET 3 Winemaking and maturation – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Winemaking and maturation practice questions with answers and explanations, plus 158 more in the app: MCQs, short written answers…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Winemaking and maturation, WSET Level 3 Winemaking and maturation, Winemaking and maturation WSET questions, Winemaking and maturation wine quiz, Winemaking and maturation wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Winemaking and maturation: practice questions with answers – WSET 3 Winemaking and maturation, WSET Level 3 Winemaking and maturation (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Winemaking and maturation",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Winemaking and maturation: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Winemaking and maturation, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 158 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Winemaking and maturation: practice questions with answers | WSET 3 Winemaking and maturation",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Winemaking and maturation practice questions with answers and explanations, plus 158 more in the app: MCQs, short written answers….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which yeast carries the alcoholic fermentation of wine through to the end?",
+"k": "text"
+},
+{
+"t": "Saccharomyces cerevisiae",
+"k": "text"
+},
+{
+"t": "Brettanomyces bruxellensis",
+"k": "text"
+},
+{
+"t": "Oenococcus oeni",
+"k": "text"
+},
+{
+"t": "Hanseniaspora uvarum",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Saccharomyces cerevisiae",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Saccharomyces cerevisiae tolerates alcohol and finishes the fermentation.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Which microorganism is mainly responsible for malolactic conversion?",
+"k": "text"
+},
+{
+"t": "The lactic bacterium Oenococcus oeni",
+"k": "text"
+},
+{
+"t": "The acetic bacterium Acetobacter",
+"k": "text"
+},
+{
+"t": "The yeast Saccharomyces cerevisiae",
+"k": "text"
+},
+{
+"t": "The yeast Metschnikowia pulcherrima",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The lactic bacterium Oenococcus oeni",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Oenococcus oeni (sometimes Lactobacillus, Pediococcus): malic acid → lactic acid + CO₂.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What does a pre-fermentation cold soak (4-10°C) mainly extract?",
+"k": "text"
+},
+{
+"t": "Lots of harsh tannins from the seeds",
+"k": "text"
+},
+{
+"t": "Bread and brioche notes from autolysis",
+"k": "text"
+},
+{
+"t": "Alcohol, thanks to yeasts working in the cold",
+"k": "text"
+},
+{
+"t": "Colour and fruity aromas, with few tannins",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Colour and fruity aromas, with few tannins",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Without alcohol, anthocyanins and aromas dissolve, not tannins; protected with SO₂ and dry ice.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} In carbonic maceration, what produces the first 2 degrees of alcohol inside the whole berries?",
+"k": "text"
+},
+{
+"t": "Sulfur dioxide reacting with the sugar",
+"k": "text"
+},
+{
+"t": "The lactic bacteria Oenococcus oeni",
+"k": "text"
+},
+{
+"t": "The grape's own enzymes (intracellular fermentation)",
+"k": "text"
+},
+{
+"t": "Saccharomyces yeasts carried in the added CO₂",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The grape's own enzymes (intracellular fermentation)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Without oxygen, the berry's enzymes make ~2% abv; yeasts finish after pressing.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Where does the CO₂ in wine mainly come from?",
+"k": "text"
+},
+{
+"t": "From burning sulfur in barrels",
+"k": "text"
+},
+{
+"t": "From adding potassium metabisulfite",
+"k": "text"
+},
+{
+"t": "From the oxidation of acetaldehyde",
+"k": "text"
+},
+{
+"t": "From the yeasts' alcoholic fermentation",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} From the yeasts' alcoholic fermentation",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Sugars → alcohol + CO₂ + heat; a little from malolactic too.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What are the two main roles of SO₂ in wine?",
+"k": "text"
+},
+{
+"t": "Creating bubbles and raising alcohol",
+"k": "text"
+},
+{
+"t": "Extracting colour and softening tannins",
+"k": "text"
+},
+{
+"t": "Antimicrobial and antioxidant",
+"k": "text"
+},
+{
+"t": "Raising acidity and starting malolactic",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Antimicrobial and antioxidant",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} SO₂ holds back unwanted microbes and protects against oxidation.",
+"k": "text"
+},
+{
+"t": "Study notes: winemaking and maturation for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 winemaking questions cover the techniques shared by every wine style: controlling oxygen and temperature, running the alcoholic fermentation, adjusting the must, maturing the wine, then clarifying, stabilising and packaging it. These study notes give you the general principles that sit behind the white, red, rosé, sparkling and fortified processes, explained as cause, effect and style so you can apply them to any wine in the exam.",
+"k": "text"
+},
+{
+"t": "The winemaker's toolkit: oxygen, temperature and hygiene",
+"k": "text"
+},
+{
+"t": "Oxygen is the winemaker's most important variable. Protective (reductive) winemaking keeps oxygen away with stainless steel, inert gases, full containers and sulfur dioxide, preserving fresh primary fruit. Oxidative winemaking deliberately allows some oxygen contact, for example in barrels, which softens tannins, changes colour and builds tertiary notes such as nut, toffee or leather. Too much oxygen, or oxygen at the wrong time, causes faults: loss of fruit, browning and acetaldehyde aromas.",
+"k": "text"
+},
+{
+"t": "Temperature control lets the winemaker steer fermentation speed and aroma. Hygiene matters because spoilage microbes such as acetic acid bacteria and Brettanomyces yeast thrive in dirty equipment and in wines with low sulfur dioxide or exposed to air. Sulfur dioxide is used throughout the process as an antioxidant and antimicrobial, but too much can mute aromas and is regulated by law.",
+"k": "text"
+},
+{
+"t": "Fermentation and storage vessels",
+"k": "text"
+},
+{
+"t": "Vessel",
+"k": "text"
+},
+{
+"t": "Main features",
+"k": "text"
+},
+{
+"t": "Effect on style",
+"k": "text"
+},
+{
+"t": "Stainless steel",
+"k": "text"
+},
+{
+"t": "Inert, airtight, easy to clean and temperature-control",
+"k": "text"
+},
+{
+"t": "Pure primary fruit; no added flavour",
+"k": "text"
+},
+{
+"t": "Concrete",
+"k": "text"
+},
+{
+"t": "Thermally stable, lined or unlined, available in many shapes",
+"k": "text"
+},
+{
+"t": "Neutral flavour, some texture; slight oxygen exchange if unlined",
+"k": "text"
+},
+{
+"t": "Oak (barrels, large vats)",
+"k": "text"
+},
+{
+"t": "Allows slow oxygen ingress; new oak adds flavour compounds",
+"k": "text"
+},
+{
+"t": "Softer tannins, oak aromas, more complex, developed style",
+"k": "text"
+},
+{
+"t": "Clay amphora",
+"k": "text"
+},
+{
+"t": "Traditional porous vessel, often unlined",
+"k": "text"
+},
+{
+"t": "Neutral flavour with gentle oxygen exchange and texture",
+"k": "text"
+},
+{
+"t": "Alcoholic fermentation in detail",
+"k": "text"
+},
+{
+"t": "Alcoholic fermentation is carried out by yeast, which converts sugar into ethanol and carbon dioxide, releasing heat and producing many flavour compounds such as esters. Saccharomyces cerevisiae is the yeast that completes fermentation because it tolerates high alcohol. Fermentation usually stops when all the sugar has been used, when the yeast is killed by rising alcohol, or when the winemaker intervenes.",
+"k": "text"
+},
+{
+"t": "Ambient yeast or cultured yeast?",
+"k": "text"
+},
+{
+"t": "Ambient (natural or indigenous) yeasts come from the vineyard and winery. A mix of species starts the fermentation before Saccharomyces takes over, which can add complexity, but results are less predictable and the risk of off-flavours or a slow fermentation is higher. Cultured yeasts are selected strains added by the winemaker; they start quickly, ferment reliably to dryness and can be chosen for particular aromas or alcohol tolerance, at the cost of some individuality.",
+"k": "text"
+},
+{
+"t": "Stuck fermentations",
+"k": "text"
+},
+{
+"t": "A stuck fermentation stops before the wine is dry, leaving it exposed to spoilage. Common causes are temperatures that are too high (yeast dies) or too low (yeast becomes inactive), very high sugar levels, lack of yeast nutrients such as nitrogen, and high alcohol. Winemakers prevent it by controlling temperature and adding nutrients; restarting a stuck fermentation is difficult.",
+"k": "text"
+},
+{
+"t": "Must adjustments",
+"k": "text"
+},
+{
+"t": "Where grapes are not perfectly balanced, winemakers may adjust the must, within limits set by local law. In cool climates, enrichment raises potential alcohol, by adding sugar (chaptalisation), rectified concentrated grape must, or by concentrating the must. In warm climates, acidification with tartaric acid corrects low acidity; deacidification is used in cool years with very high acidity. Many regions restrict how much can be added and do not allow enrichment and acidification of the same wine.",
+"k": "text"
+},
+{
+"t": "Exam technique: when a question mentions a cool region in a poor vintage, think enrichment and possibly deacidification; when it mentions a hot region, think acidification and harvesting earlier. Always say why: ripeness of the grapes drives the adjustment.",
+"k": "text"
+},
+{
+"t": "Malolactic conversion and maturation",
+"k": "text"
+},
+{
+"t": "Malolactic conversion is carried out by lactic acid bacteria, mainly Oenococcus oeni, which convert malic acid into lactic acid and carbon dioxide. Acidity becomes softer, the wine is more microbiologically stable, and buttery diacetyl may appear. Almost all red wines go through it; for whites it is a style choice. It can be encouraged by warmth and adding bacteria, or prevented with cool temperatures, sulfur dioxide or filtration.",
+"k": "text"
+},
+{
+"t": "Inert vessels versus oak",
+"k": "text"
+},
+{
+"t": "Maturation in inert vessels such as stainless steel or lined concrete keeps the wine fresh and fruity and is usually short. Maturation in oak does two things: it adds flavour if the oak is new or fairly new, and it allows slow oxygen exchange, which softens tannins, stabilises colour in reds and builds tertiary aromas. The smaller and newer the barrel, the stronger both effects.",
+"k": "text"
+},
+{
+"t": "Factor",
+"k": "text"
+},
+{
+"t": "French oak",
+"k": "text"
+},
+{
+"t": "American oak",
+"k": "text"
+},
+{
+"t": "Species",
+"k": "text"
+},
+{
+"t": "Quercus petraea and Quercus robur",
+"k": "text"
+},
+{
+"t": "Quercus alba",
+"k": "text"
+},
+{
+"t": "Typical aromas",
+"k": "text"
+},
+{
+"t": "Subtle spice, toast, cedar, finer tannin",
+"k": "text"
+},
+{
+"t": "Stronger vanilla, coconut, sweet spice",
+"k": "text"
+},
+{
+"t": "Traditional use",
+"k": "text"
+},
+{
+"t": "Bordeaux, Burgundy, many premium wines worldwide",
+"k": "text"
+},
+{
+"t": "Traditional Rioja, many New World reds",
+"k": "text"
+},
+{
+"t": "Toasting the inside of the barrel during coopering changes its flavour: light toast keeps more fresh wood character, heavier toast gives smoky, roasted and spicy notes. The standard Bordeaux barrique holds 225 litres; large casks and vats give very little oak flavour and slow oxidation. Oak alternatives such as staves or chips placed in a tank give oak flavour cheaply and quickly but without the gradual oxygen exchange of a barrel.",
+"k": "text"
+},
+{
+"t": "Bottle ageing",
+"k": "text"
+},
+{
+"t": "In bottle, the wine is in an almost oxygen-free environment. Over time primary fruit fades and tertiary aromas develop: dried fruit, mushroom, forest floor, honey or petrol depending on the wine. Only a small proportion of wines improve with long bottle ageing; most are made to be drunk young.",
+"k": "text"
+},
+{
+"t": "Blending, clarification, stabilisation and packaging",
+"k": "text"
+},
+{
+"t": "Blending combines batches of different grapes, vineyards, vessels or ages to achieve a consistent house style or a more complex, balanced wine. Before bottling, the wine is clarified and stabilised so that it stays clear and sound once it reaches the consumer.",
+"k": "text"
+},
+{
+"t": "Sedimentation and racking: solids settle naturally and the clear wine is moved off them.",
+"k": "text"
+},
+{
+"t": "Fining: an agent such as bentonite, egg white or gelatine binds with haze-forming particles or harsh tannins and drops out; animal-based agents matter for vegan labelling.",
+"k": "text"
+},
+{
+"t": "Filtration: depth filtration removes larger particles; fine membrane filtration can remove yeast and bacteria for microbial stability.",
+"k": "text"
+},
+{
+"t": "Tartrate stabilisation: chilling the wine to remove tartrate crystals before bottling.",
+"k": "text"
+},
+{
+"t": "Protein stabilisation: bentonite fining to prevent haze, important for whites and rosés.",
+"k": "text"
+},
+{
+"t": "Final sulfur dioxide adjustment and bottling with minimal oxygen pick-up.",
+"k": "text"
+},
+{
+"t": "Some premium producers choose minimal fining and filtration, believing it preserves texture and flavour, and accept a risk of deposits or instability.",
+"k": "text"
+},
+{
+"t": "Closures and common faults",
+"k": "text"
+},
+{
+"t": "Closure",
+"k": "text"
+},
+{
+"t": "Advantages",
+"k": "text"
+},
+{
+"t": "Limitations",
+"k": "text"
+},
+{
+"t": "Natural cork",
+"k": "text"
+},
+{
+"t": "Traditional, allows tiny oxygen transfer, accepted for long ageing",
+"k": "text"
+},
+{
+"t": "Risk of cork taint (TCA), variable between corks",
+"k": "text"
+},
+{
+"t": "Synthetic cork",
+"k": "text"
+},
+{
+"t": "Cheap, no TCA",
+"k": "text"
+},
+{
+"t": "Less suited to long ageing; can be hard to remove",
+"k": "text"
+},
+{
+"t": "Screwcap",
+"k": "text"
+},
+{
+"t": "No TCA, consistent, keeps primary fruit fresh",
+"k": "text"
+},
+{
+"t": "Very low oxygen can favour reductive aromas",
+"k": "text"
+},
+{
+"t": "Bag-in-box",
+"k": "text"
+},
+{
+"t": "Cheap, light, wine keeps for weeks once opened",
+"k": "text"
+},
+{
+"t": "Short shelf life before opening; for early drinking",
+"k": "text"
+},
+{
+"t": "Key faults to recognise are cork taint (TCA: musty, damp cardboard, muted fruit), oxidation (loss of fruit, browning, bruised apple), reduction (rotten egg or struck match, caused by lack of oxygen), Brettanomyces (leather, farmyard, plaster) and volatile acidity (vinegar or nail varnish, from acetic acid bacteria).",
+"k": "text"
+},
+{
+"t": "How to revise winemaking in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Draw one master flow chart from must to bottle and add the purpose of each step in five words or fewer.",
+"k": "text"
+},
+{
+"t": "Learn the oak table and practise one sentence each on species, size, age and toast.",
+"k": "text"
+},
+{
+"t": "Write the six clarification and stabilisation steps from memory, then check.",
+"k": "text"
+},
+{
+"t": "Make flashcards of the five faults with cause and smell on each.",
+"k": "text"
+},
+{
+"t": "Do a timed set of winemaking questions in the app and turn every mistake into a cause and effect sentence.",
+"k": "text"
+},
+{
+"t": "Common mistake: confusing fining and filtration. Fining adds an agent that binds particles and settles out; filtration passes the wine through a medium that physically traps them. Both clarify, but only fine membrane filtration reliably removes microbes.",
+"k": "text"
+},
+{
+"t": "Sulfur dioxide: why almost every wine contains some",
+"k": "text"
+},
+{
+"t": "Sulfur dioxide (SO2) is the winemaker's main safety net. It acts as an antioxidant, protecting juice and wine from browning and loss of fresh aromas, and as an antimicrobial, slowing the growth of spoilage yeasts and bacteria. It can be added at several points: on the grapes at reception, to the juice before fermentation, after fermentation and before bottling. Fermentation itself also produces a small amount. Too much SO2 can mute aromas and give a burnt-match smell, and legal limits apply, so winemakers aim for the lowest effective dose. Wines with residual sugar generally need more protection than dry wines, because sugar is food for microbes. Producers who use little or no added SO2 must work with very healthy fruit and strict hygiene, and accept a higher risk of faults.",
+"k": "text"
+},
+{
+"t": "Volume or premium: the same steps, different goals",
+"k": "text"
+},
+{
+"t": "Step",
+"k": "text"
+},
+{
+"t": "Inexpensive, high-volume wine",
+"k": "text"
+},
+{
+"t": "Premium, age-worthy wine",
+"k": "text"
+},
+{
+"t": "Harvest",
+"k": "text"
+},
+{
+"t": "Machine harvesting at high yields, timed for efficiency",
+"k": "text"
+},
+{
+"t": "Hand harvesting, sorting tables, low yields, timed for full ripeness",
+"k": "text"
+},
+{
+"t": "Fermentation",
+"k": "text"
+},
+{
+"t": "Cultured yeast, temperature control for a clean, predictable result",
+"k": "text"
+},
+{
+"t": "Sometimes ambient yeast, small batches handled separately",
+"k": "text"
+},
+{
+"t": "Maturation",
+"k": "text"
+},
+{
+"t": "Short, in inert vessels; oak alternatives such as chips or staves for oak flavour",
+"k": "text"
+},
+{
+"t": "Months or years in barrel, a share of new oak, then bottle ageing before release",
+"k": "text"
+},
+{
+"t": "Blending",
+"k": "text"
+},
+{
+"t": "To keep the same style every year from many sources",
+"k": "text"
+},
+{
+"t": "To build complexity and balance from separate plots and barrels",
+"k": "text"
+},
+{
+"t": "Clarification and stabilisation",
+"k": "text"
+},
+{
+"t": "Thorough fining and filtration so the wine is bright and stable on shelves",
+"k": "text"
+},
+{
+"t": "Sometimes minimal, accepting a deposit in exchange for texture",
+"k": "text"
+},
+{
+"t": "Neither column is good or bad: each is the right answer to a different question. Exam questions often ask why a technique suits one wine and not another, so always connect the technique to the target style and to the cost of producing it.",
+"k": "text"
+},
+{
+"t": "Question: why might a winemaker choose cultured yeast for a large-volume wine? Answer: cultured yeast gives a quick, reliable fermentation with predictable flavours and a low risk of stuck fermentation or off-flavours. For a wine that must taste the same every year and be produced at low cost, that reliability matters more than the extra complexity ambient yeast might add.",
+"k": "text"
+},
+{
+"t": "Question: a premium red is bottled without filtration. What are the benefit and the risk? Answer: the producer believes that avoiding filtration preserves texture and flavour. The risk is a deposit in the bottle and, if the wine is not microbiologically stable, possible spoilage, so the winery must be confident in its hygiene and in the stability of the wine.",
+"k": "text"
+},
+{
+"t": "Common mistakes: saying that oak alternatives give the same result as barrels (they give flavour but not the slow oxygen exchange of a barrel), forgetting that SO2 has two roles, and describing a technique without saying which style or price level it suits.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "158 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Winemaking and maturation are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 158 multiple-choice questions on Winemaking and maturation, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Winemaking and maturation important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Winemaking and maturation, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between ambient and cultured yeast for WSET 3?",
+"k": "text"
+},
+{
+"t": "Ambient yeasts are naturally present in the vineyard and winery; a mix of species can give extra complexity but the fermentation is less predictable and riskier. Cultured yeasts are selected strains added by the winemaker; they start quickly, finish reliably and can be chosen for aroma or alcohol tolerance. Both rely on Saccharomyces cerevisiae to complete fermentation because it tolerates high alcohol.",
+"k": "text"
+},
+{
+"t": "What is the difference between French and American oak for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "French oak comes mainly from Quercus petraea and Quercus robur and gives subtle spice, toast and cedar with fine tannins. American oak, Quercus alba, gives stronger vanilla and coconut aromas. Both are toasted during barrel making, and the level of toast, barrel size and age change their effect. Traditional Rioja is a classic example of American oak; many premium Bordeaux and Burgundy wines use French oak.",
+"k": "text"
+},
+{
+"t": "What is the difference between fining and filtration for WSET 3?",
+"k": "text"
+},
+{
+"t": "Fining adds an agent such as bentonite, egg white or gelatine that binds with haze-forming particles or harsh tannins and settles out, so the clear wine can be racked off. Filtration passes wine through a medium that physically traps particles; fine membrane filtration can remove yeast and bacteria. Both clarify the wine, but they work differently and are often used together.",
+"k": "text"
+},
+{
+"t": "Why do some wines use screwcaps instead of corks for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Screwcaps eliminate the risk of cork taint and give consistent results from bottle to bottle. They let very little oxygen in, which keeps primary fruit fresh, so they are popular for aromatic whites such as Riesling and Sauvignon Blanc. Their limitation is that very low oxygen can encourage reductive aromas. Natural cork remains traditional for many wines intended for long ageing.",
+"k": "text"
+},
+{
+"t": "What causes a stuck fermentation for WSET 3?",
+"k": "text"
+},
+{
+"t": "A stuck fermentation stops before all the sugar is converted. Common causes are temperatures too high, which kill yeast, or too low, which make it inactive; very high sugar levels; high alcohol; and a lack of nutrients such as nitrogen. The wine is then exposed to spoilage by bacteria and other yeasts. Winemakers prevent it with temperature control and nutrient additions, because restarting fermentation is difficult.",
+"k": "text"
+},
+{
+"t": "Why is sulfur dioxide added to wine for WSET 3?",
+"k": "text"
+},
+{
+"t": "Sulfur dioxide has two roles. As an antioxidant it protects the juice and wine from browning and loss of fresh aromas; as an antimicrobial it inhibits spoilage yeasts and bacteria. It can be added at harvest, before and after fermentation and at bottling. Too much can mute aromas, and legal limits apply, so winemakers use the lowest dose that keeps the wine stable.",
+"k": "text"
+},
+{
+"t": "What are oak alternatives and why are they used?",
+"k": "text"
+},
+{
+"t": "Oak alternatives are chips, staves or powder added to wine in tanks to give oak flavours such as vanilla and toast. They are far cheaper and quicker than barrels, which suits inexpensive wines. However, they do not reproduce the slow oxygen exchange that takes place through the wood of a barrel, so they add flavour without the same softening and complexity.",
+"k": "text"
+},
+{
+"t": "What is the difference between winemaking for volume and for premium wine?",
+"k": "text"
+},
+{
+"t": "Volume wines aim for a consistent, clean style at low cost: machine harvesting, cultured yeast, short maturation in inert vessels, oak alternatives and thorough filtration. Premium wines aim for concentration, complexity and ageing potential: low yields, hand harvesting, separate handling of small batches, longer maturation in barrel and often minimal fining and filtration. Each set of choices fits its own style and price.",
+"k": "text"
+},
+{
+"t": "Why do some wines need bottle ageing before release?",
+"k": "text"
+},
+{
+"t": "Some wines, especially those with high tannin, high acidity and concentrated fruit, are harsh when young. Time in bottle lets the tannins soften, the components integrate and tertiary aromas develop. Some regions and quality levels require minimum ageing before release, and some producers hold wines back so that customers receive them closer to their best drinking window.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Winemaking and maturation – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Winemaking and maturation practice questions with answers and explanations, plus 158 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which yeast carries the alcoholic fermentation of wine through to the end?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Saccharomyces cerevisiae tolerates alcohol and finishes the fermentation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which microorganism is mainly responsible for malolactic conversion?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Oenococcus oeni (sometimes Lactobacillus, Pediococcus): malic acid → lactic acid + CO₂.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What does a pre-fermentation cold soak (4-10°C) mainly extract?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Without alcohol, anthocyanins and aromas dissolve, not tannins; protected with SO₂ and dry ice.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In carbonic maceration, what produces the first 2 degrees of alcohol inside the whole berries?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Without oxygen, the berry's enzymes make ~2% abv; yeasts finish after pressing.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where does the CO₂ in wine mainly come from?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sugars → alcohol + CO₂ + heat; a little from malolactic too.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the two main roles of SO₂ in wine?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "SO₂ holds back unwanted microbes and protects against oxidation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

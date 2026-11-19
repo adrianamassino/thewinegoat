@@ -1,0 +1,1046 @@
+{
+"group": "wset-systematic-approach-to-tasting",
+"source": "wset-systematic-approach-to-tasting/index.html",
+"url": "/wset-systematic-approach-to-tasting/",
+"region": "main",
+"sha": "b25bb63a94a9",
+"words": 4569,
+"segment_words": 4911,
+"segments": [
+{
+"t": "WSET Systematic Approach to Tasting (SAT) Level 3",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "How to use the WSET Level 3 SAT for the blind tasting exam: appearance, nose, palate and conclusions, quality and readiness for drinking, with practice…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET SAT, WSET Level 3 SAT, systematic approach to tasting, WSET tasting note, WSET 3 blind tasting, WSET tasting exam, how to describe wine, wine tasting note template",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note – WSET SAT, WSET Level 3 SAT (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note",
+"k": "text"
+},
+{
+"t": "The tasting part of the WSET Level 3 exam is a blind tasting of two wines written up with the Systematic Approach to Tasting (SAT). The SAT trains two skills: describing a wine accurately and drawing reasoned conclusions about its quality and readiness for drinking.",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note | WSET SAT",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "How to use the WSET Level 3 SAT for the blind tasting exam: appearance, nose, palate and conclusions, quality and readiness for drinking, with practice….",
+"k": "text"
+},
+{
+"t": "A good tasting note follows the same order every time – appearance, nose, palate, conclusions – and uses the exact SAT vocabulary. The Wine Goat app lets you write tasting notes with the full SAT and checks their structure; the questions below test the theory behind it.",
+"k": "text"
+},
+{
+"t": "Always follow the order: appearance, nose, palate, conclusions.",
+"k": "text"
+},
+{
+"t": "Use the SAT terms exactly; vague words don't score.",
+"k": "text"
+},
+{
+"t": "Give several precise aroma descriptors from different clusters.",
+"k": "text"
+},
+{
+"t": "Justify quality with balance, length, intensity and complexity.",
+"k": "text"
+},
+{
+"t": "Practise with wines of known styles so the structure becomes automatic.",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What two fundamental skills is the SAT designed to develop?",
+"k": "text"
+},
+{
+"t": "Judging the market price and the region of origin",
+"k": "text"
+},
+{
+"t": "Pairing wine with food and choosing serving temperature",
+"k": "text"
+},
+{
+"t": "Recognising the grape and estimating the vintage precisely",
+"k": "text"
+},
+{
+"t": "Describing a wine accurately and drawing reasoned conclusions",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Describing a wine accurately and drawing reasoned conclusions",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The SAT is a teaching and assessment tool: it describes (appearance, nose, palate) and then concludes (quality and readiness).",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What are the two headings in the 'Conclusions' section of the SAT?",
+"k": "text"
+},
+{
+"t": "Quality level and probable grape/region of origin",
+"k": "text"
+},
+{
+"t": "Balance and complexity, plus the wine's ageing potential",
+"k": "text"
+},
+{
+"t": "Readiness for drinking and price band/estimated vintage",
+"k": "text"
+},
+{
+"t": "Quality level and readiness for drinking/ageing potential",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Quality level and readiness for drinking/ageing potential",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} In the Conclusions you must use the listed terms: quality level and readiness for drinking.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Where is the Wine-Lexicon found?",
+"k": "text"
+},
+{
+"t": "On the reverse of the laminated SAT card",
+"k": "text"
+},
+{
+"t": "In the downloadable exam specification",
+"k": "text"
+},
+{
+"t": "On the exam paper, next to each wine",
+"k": "text"
+},
+{
+"t": "In the appendix, after the glossary",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} On the reverse of the laminated SAT card",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The Lexicon lists aroma and flavour descriptors to help describe a wine; it is on the back of the SAT card.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} A wine sits between ruby and garnet. How should you describe it in the exam?",
+"k": "text"
+},
+{
+"t": "Write 'ruby-garnet' as one single term",
+"k": "text"
+},
+{
+"t": "Write 'garnet' only if the rim is orange",
+"k": "text"
+},
+{
+"t": "Write 'ruby to garnet' as a transition",
+"k": "text"
+},
+{
+"t": "Choose just one term, the closer one",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Choose just one term, the closer one",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} On hyphenated lines you pick one term only; a range such as 'ruby to garnet' scores no mark.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} In the SAT 'Conclusions' section, may you use your own words?",
+"k": "text"
+},
+{
+"t": "Yes, but only to justify the quality level",
+"k": "text"
+},
+{
+"t": "Yes, provided they appear in the Wine-Lexicon",
+"k": "text"
+},
+{
+"t": "No: only the terms listed in the SAT",
+"k": "text"
+},
+{
+"t": "No for quality, yes for ageing potential",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} No: only the terms listed in the SAT",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The Conclusions are the evaluative part of the SAT, with two headings: quality level and readiness for drinking/potential for ageing. You are restricted to the specific listed terms here (e.g. 'good', 'can drink now, but has potential for ageing'). Freedom to use other words applies only to the 'e.g.' lines (aroma and flavour characteristics).",
+"k": "text"
+},
+{
+"t": "{1}6{/1} At Level 3, how have many three-point scales been refined?",
+"k": "text"
+},
+{
+"t": "By replacing the words with a numeric scale from 1 to 5",
+"k": "text"
+},
+{
+"t": "By splitting 'low' and 'high' into three levels each",
+"k": "text"
+},
+{
+"t": "By adding 'very low' and 'very high' at the two extremes",
+"k": "text"
+},
+{
+"t": "By splitting 'medium' into medium(-), medium and medium(+)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} By splitting 'medium' into medium(-), medium and medium(+)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Only the 'medium' band is split, because most wines fall there: it is not five equal parts.",
+"k": "text"
+},
+{
+"t": "The SAT explained: a method, not a form to fill in",
+"k": "text"
+},
+{
+"t": "Many candidates first meet the Systematic Approach to Tasting as a printed card and assume the job is to fill in boxes. That is the wrong picture. The SAT is a way of thinking about a wine in a fixed order, so that every observation is made before any judgement, and every judgement rests on something you have actually written. The card simply reminds you of that order and gives you a shared vocabulary, so that two tasters in different countries describe the same wine with the same words.",
+"k": "text"
+},
+{
+"t": "At Level 3 the tasting is its own unit of the qualification. It is marked separately from the theory unit, it needs at least 55% to pass, and if you fail it while passing theory you retake only the tasting. That makes the SAT worth training as a distinct skill, with its own practice time, rather than something you hope will come together on the day because you know your regions.",
+"k": "text"
+},
+{
+"t": "The method has two halves. The first half is description: what the wine looks like, what you smell, and what you find in the mouth, both in structure and in flavour. The second half is evaluation: how good the wine is and whether it should be drunk now or kept. The description is where most marks sit, but the evaluation is where the examiner checks whether you understand what you described.",
+"k": "text"
+},
+{
+"t": "Before the glass: the conditions that make a note reliable",
+"k": "text"
+},
+{
+"t": "A good note starts before you taste. The same wine can seem thin and sharp in one setting and generous in another, and in an exam you want your perception to be as neutral as possible. Build these habits into every practice session, so that they are automatic on exam day.",
+"k": "text"
+},
+{
+"t": "Use a clean, odourless tulip-shaped glass of the same model every time, so that your sense of intensity is calibrated to one shape.",
+"k": "text"
+},
+{
+"t": "Pour a small measure, roughly a quarter of the glass, to leave room for swirling and to concentrate aromas.",
+"k": "text"
+},
+{
+"t": "Taste in good natural light or under a neutral white light, with a white surface such as a sheet of paper to judge colour.",
+"k": "text"
+},
+{
+"t": "Avoid strong smells around you: perfume, hand cream, coffee, toothpaste and chewing gum all distort the nose and the palate.",
+"k": "text"
+},
+{
+"t": "Keep water and plain crackers or bread nearby, and spit consistently so that alcohol does not dull your judgement over several wines.",
+"k": "text"
+},
+{
+"t": "Note the serving temperature if you can: a red served too warm seems more alcoholic, a white served too cold seems less aromatic and more acidic.",
+"k": "text"
+},
+{
+"t": "Practise in the same posture and with the same routine every time: same glass, same pour, same order of actions. A stable routine removes variables, so differences you notice really come from the wine.",
+"k": "text"
+},
+{
+"t": "Appearance: quick marks that set up the rest of the note",
+"k": "text"
+},
+{
+"t": "The visual examination takes little time, but it is worth doing carefully because it gives the first clues about age, style and sometimes winemaking. Tilt the glass over a white background and look at the wine from the core to the rim. You assess three things: whether the wine is clear or hazy, how intense the colour is, and what the colour itself is. Each of these is answered with a single term from the vocabulary you have learned.",
+"k": "text"
+},
+{
+"t": "Intensity is judged by how far you can see through the wine from the core towards the rim. A pale white is almost watery; a deep red can be nearly opaque. The colour then places the wine on its family's spectrum. For whites that spectrum runs from lemon-green through lemon and gold to amber and brown; for reds from purple through ruby and garnet to tawny and brown; rosés sit somewhere between pink, salmon and orange.",
+"k": "text"
+},
+{
+"t": "What matters in the method is what you do with this information. A deep colour in a white may point to age, oak, sweetness or a warm climate; an orange-tinged rim in a red often signals development in bottle. You do not write those interpretations in the appearance section, but you keep them in mind, and later you check that the nose and palate confirm them. If the colour says youth and the nose says advanced tertiary notes, look again.",
+"k": "text"
+},
+{
+"t": "One rule applies throughout the note: when you hesitate between two neighbouring terms, choose one. Writing a range or combining two terms does not earn the mark, even if the true answer is inside the range. Decide based on your best judgement and move on.",
+"k": "text"
+},
+{
+"t": "Nose: condition, intensity, characteristics, development",
+"k": "text"
+},
+{
+"t": "Swirl the glass to release aromas, then take a short first sniff to check condition. A clean wine is free of faults; an unclean wine shows something wrong, such as the damp cardboard of cork taint, the bruised apple and nutty notes of unwanted oxidation, or the vinegar and nail-varnish notes of volatile acidity. In the exam most wines will be clean, but you should still state it.",
+"k": "text"
+},
+{
+"t": "Then judge intensity: how easily the aromas reach you. If you notice them as soon as you lift the glass, the intensity is high; if you need to swirl and search, it is lower. Intensity on the nose and flavour intensity on the palate are usually similar, which is a useful cross-check.",
+"k": "text"
+},
+{
+"t": "The heart of the nose is the aroma characteristics, and this is where your descriptive range earns marks. Rather than writing the first word that comes to mind, work through families in a fixed sequence. Think about primary aromas first, those from the grape and fermentation: floral, green fruit, citrus, stone fruit, tropical fruit, red fruit, black fruit, dried fruit, herbaceous, herbal, spice, and so on. Then secondary aromas, from post-fermentation winemaking: yeast and autolysis notes such as bread and biscuit, malolactic notes such as butter and cream, and oak notes such as vanilla, toast, cedar and smoke. Finally tertiary aromas, from ageing: in fruit-forward whites, notes such as honey, nuts and petrol; in reds, leather, earth, forest floor, mushroom; in deliberately oxidised wines, toffee, coffee and walnut.",
+"k": "text"
+},
+{
+"t": "Moving through the families in this order has two benefits. It stops you from writing five descriptors from one family, which looks repetitive and suggests you only noticed one dimension of the wine. And it prepares your answer on development, because if you found tertiary notes you already know the wine is developing or fully developed, and if you found none it is probably youthful.",
+"k": "text"
+},
+{
+"t": "How many descriptors are enough?",
+"k": "text"
+},
+{
+"t": "There is no magic number, but a strong note for a quality wine usually names several specific descriptors across at least two or three families, while a simple wine may genuinely show fewer. Specific beats generic: blackcurrant earns more than black fruit, lemon zest more than citrus, and toast more than oak. The Wine-Lexicon printed on the back of the SAT card lists the clusters and examples; use it as a vocabulary bank in practice, but aim to name what you really perceive, not to copy a list.",
+"k": "text"
+},
+{
+"t": "Palate: structure first, flavour second",
+"k": "text"
+},
+{
+"t": "In the mouth you are measuring things, not only enjoying them. Take a medium sip, move it all around the mouth, draw in a little air and then spit. Assess the structural components one at a time, always in the same order, because the sensations overlap and the order prevents you from confusing them.",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "Sweetness is perceived at the tip of the tongue as soon as the wine enters the mouth. Most still wines in the exam will be dry or close to it, but be careful with wines that have high fruit intensity or high alcohol: ripe fruit and alcohol can give an impression of sweetness even in a dry wine. Ask yourself whether there is actual sugar weight on the tongue or simply generous fruit.",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Acidity makes your mouth water. A practical way to judge it is to tilt your head slightly forward after spitting and notice how much saliva gathers and for how long. High acidity makes the sides of the tongue tingle and keeps the mouth watering after the wine has gone. Remember that sugar masks acidity, so a sweet wine can have high acidity that feels only moderate.",
+"k": "text"
+},
+{
+"t": "Tannin",
+"k": "text"
+},
+{
+"t": "Tannin is a texture, not a taste. It dries and grips the gums and the inside of the cheeks, and it can be judged both for level and for nature: ripe and soft, or green and coarse, or fine-grained and silky. Run your tongue over your gums after spitting: the amount of drying friction gives you the level. High acidity can make tannins feel harsher, while sweetness and alcohol soften them.",
+"k": "text"
+},
+{
+"t": "Alcohol and body",
+"k": "text"
+},
+{
+"t": "Alcohol is felt as warmth at the back of the throat and in the chest after spitting, and it also adds weight. Body is the overall sense of weight and richness in the mouth, the result of alcohol, sugar, extract and tannin together. A light-bodied wine feels close to water; a full-bodied wine coats the mouth. Avoid the common error of rating body from flavour intensity: a very aromatic wine can still be light in body.",
+"k": "text"
+},
+{
+"t": "Flavour intensity, flavour characteristics and finish",
+"k": "text"
+},
+{
+"t": "Now return to flavour. Flavour intensity is judged the same way as on the nose, and the flavour characteristics usually echo the aromas, sometimes with additions, as some notes such as spice or bitterness only appear in the mouth. Do not simply repeat the nose word for word if you perceive differences; note any new families. The finish is the length of time the pleasant flavours persist after spitting, not the burn of alcohol or the dryness of tannin. Count slowly in your head: a short finish fades almost at once, a long finish keeps the fruit and complexity present well after the wine has gone.",
+"k": "text"
+},
+{
+"t": "Calibrate your structure with simple kitchen exercises: taste water with a little lemon juice at increasing strengths to feel acidity levels, strong black tea brewed for different times to feel tannin, and water with dissolved sugar to set your sweetness thresholds. Ten minutes of this resets your scale better than any reading.",
+"k": "text"
+},
+{
+"t": "From description to conclusions",
+"k": "text"
+},
+{
+"t": "The evaluation section is short on the page but heavy in meaning. You must assess the quality level and then the readiness for drinking or potential for ageing, using only the listed terms. The words you choose here are not free: they must follow logically from what you wrote above. An examiner reading your note should be able to predict your conclusion from your description.",
+"k": "text"
+},
+{
+"t": "Assessing quality with evidence",
+"k": "text"
+},
+{
+"t": "The standard approach weighs four features. Balance: do fruit, acidity, tannin, alcohol and sweetness sit in harmony, or does one stick out? Length: is the finish long? Intensity: are the aromas and flavours pronounced or diluted? Complexity: are there several layers, different families of aromas, perhaps development? A wine with all four features clearly present is likely to be very good or outstanding; a wine with balance but limited intensity and a short finish is more likely acceptable or good.",
+"k": "text"
+},
+{
+"t": "In your written justification, name each feature and connect it to an observation from your note. For example: the wine is balanced because its high acidity is matched by pronounced ripe fruit; it has a long finish; the intensity is pronounced; and there is complexity from citrus, stone fruit, toast and nutty notes. Each of those clauses refers back to something already described, which is exactly what makes the conclusion convincing.",
+"k": "text"
+},
+{
+"t": "Judging readiness for drinking",
+"k": "text"
+},
+{
+"t": "Readiness for drinking asks whether the wine will improve. Look for the components that carry a wine through time: concentration of fruit, structure such as acidity and tannin, and, for some styles, sugar. Then look at its current stage: if it is still showing mainly primary fruit with firm structure and long length, it can usually drink now but has potential for ageing, or is even too young. If it already shows tertiary notes and the fruit is starting to fade, it should be drunk now and is not suitable for further ageing. A simple, light, fruity wine with a short finish was made to be drunk young, whatever its current age.",
+"k": "text"
+},
+{
+"t": "Consistency is the key word. A note that describes light body, low intensity and short finish but then declares outstanding quality and decades of potential contradicts itself, and the examiner will notice it immediately.",
+"k": "text"
+},
+{
+"t": "Two worked examples written in prose",
+"k": "text"
+},
+{
+"t": "The following notes describe imaginary wines of our own invention. They show the reasoning a strong candidate applies, not an answer you should memorise.",
+"k": "text"
+},
+{
+"t": "A young, cool-climate white",
+"k": "text"
+},
+{
+"t": "The wine is clear, pale lemon-green. On the nose it is clean, with medium(+) intensity, showing lime, green apple and white flowers with a light stony note; there are no oak or tertiary notes, so it is youthful. On the palate it is dry, with high acidity that makes the mouth water for a long time, low alcohol, light body and medium(+) flavour intensity echoing the citrus and green fruit, with a medium(+) finish. In the conclusions, the wine is very good: the acidity and fruit are in balance, the finish is long for its body, the intensity is clear and there is some complexity from the floral and mineral notes. It can drink now but has potential for ageing, because high acidity and concentrated fruit will allow it to develop in bottle, gaining toast and honey notes over time.",
+"k": "text"
+},
+{
+"t": "A mature, warm-climate red",
+"k": "text"
+},
+{
+"t": "The wine is clear, medium garnet with a broad paler rim. The nose is clean and pronounced, with dried black cherry, plum, leather, tobacco, cedar and a hint of forest floor; the mix of fruit with tertiary notes shows a developing wine. On the palate it is dry, with medium acidity, medium(+) tannins that are ripe and soft, high alcohol, full body and pronounced flavour intensity repeating the dried fruit and savoury notes, with a long finish. In conclusion, the quality is very good to outstanding, but you must choose one term: let us say outstanding, because the wine is balanced despite its high alcohol, the finish is long, the flavours are pronounced and the layers of fruit, oak and tertiary character give real complexity. It is drinking now and not suitable for ageing further, since the fruit is already drying and the tannins are fully resolved, so additional time would cost more fruit than it would add complexity.",
+"k": "text"
+},
+{
+"t": "Notice how each conclusion quotes the description. That is the model to follow for both wines in the exam.",
+"k": "text"
+},
+{
+"t": "Pacing the tasting unit",
+"k": "text"
+},
+{
+"t": "You have two wines and a limited time, so work to a plan rather than spending most of it on the first glass. A practical sequence is: look at both wines briefly to see what you are dealing with, then complete the first note fully, then the second, and keep a few minutes at the end to reread both notes for consistency.",
+"k": "text"
+},
+{
+"t": "Appearance of both wines first: it takes very little time and gives early clues.",
+"k": "text"
+},
+{
+"t": "Nose of wine one: condition, intensity, then work through the aroma families, writing as you go.",
+"k": "text"
+},
+{
+"t": "Palate of wine one: structure in the fixed order, then flavour intensity, characteristics and finish.",
+"k": "text"
+},
+{
+"t": "Conclusions of wine one: quality with its justification, then readiness for drinking with its reason.",
+"k": "text"
+},
+{
+"t": "Repeat for wine two, returning briefly to the nose as the wine opens up in the glass.",
+"k": "text"
+},
+{
+"t": "Final check: every line answered with one term, no ranges, and conclusions that match the description.",
+"k": "text"
+},
+{
+"t": "Wines change in the glass. Returning to a wine after a few minutes often reveals extra aromas, so do not be afraid to add a descriptor later, but do not rewrite structure judgements without a good reason: your first measured impression is usually the more accurate one.",
+"k": "text"
+},
+{
+"t": "Common mistakes and how to fix them",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Why it costs marks",
+"k": "text"
+},
+{
+"t": "Better habit",
+"k": "text"
+},
+{
+"t": "Writing a range between two terms",
+"k": "text"
+},
+{
+"t": "Only one term can match the agreed answer, so a range scores nothing",
+"k": "text"
+},
+{
+"t": "Commit to the nearer term even when unsure",
+"k": "text"
+},
+{
+"t": "Five descriptors from one family",
+"k": "text"
+},
+{
+"t": "Shows only one dimension of the wine",
+"k": "text"
+},
+{
+"t": "Move through primary, secondary and tertiary families in order",
+"k": "text"
+},
+{
+"t": "Generic words such as fruity or oaky",
+"k": "text"
+},
+{
+"t": "Too vague to match a specific descriptor",
+"k": "text"
+},
+{
+"t": "Name the fruit or the oak note: blackberry, vanilla, toast",
+"k": "text"
+},
+{
+"t": "Confusing body with flavour intensity",
+"k": "text"
+},
+{
+"t": "They are separate lines measuring different things",
+"k": "text"
+},
+{
+"t": "Judge weight separately, after alcohol",
+"k": "text"
+},
+{
+"t": "Mistaking alcohol warmth for a long finish",
+"k": "text"
+},
+{
+"t": "Length is about pleasant flavours, not heat",
+"k": "text"
+},
+{
+"t": "Count only fruit and complexity after spitting",
+"k": "text"
+},
+{
+"t": "Quality stated without reasons",
+"k": "text"
+},
+{
+"t": "Conclusions must be justified",
+"k": "text"
+},
+{
+"t": "Use balance, length, intensity and complexity, each tied to the note",
+"k": "text"
+},
+{
+"t": "Ageing verdict that ignores structure",
+"k": "text"
+},
+{
+"t": "Readiness depends on fruit, acidity, tannin and sugar",
+"k": "text"
+},
+{
+"t": "Check what will carry the wine through time",
+"k": "text"
+},
+{
+"t": "Running out of time on wine two",
+"k": "text"
+},
+{
+"t": "An incomplete note loses many marks",
+"k": "text"
+},
+{
+"t": "Fixed time per wine, practised in mocks",
+"k": "text"
+},
+{
+"t": "A four-week plan to make the method automatic",
+"k": "text"
+},
+{
+"t": "You do not need rare or prestigious wines to train. You need regular, deliberate practice and honest self-review. The plan below assumes four or five short sessions per week.",
+"k": "text"
+},
+{
+"t": "Week",
+"k": "text"
+},
+{
+"t": "Focus",
+"k": "text"
+},
+{
+"t": "What to do",
+"k": "text"
+},
+{
+"t": "1",
+"k": "text"
+},
+{
+"t": "Routine and appearance",
+"k": "text"
+},
+{
+"t": "Same glass, same pour, same order every time; write the appearance and nose lines for every wine you open, even at dinner",
+"k": "text"
+},
+{
+"t": "2",
+"k": "text"
+},
+{
+"t": "Structure calibration",
+"k": "text"
+},
+{
+"t": "Kitchen exercises for acidity, tannin and sweetness; taste two contrasting wines side by side and rate each component",
+"k": "text"
+},
+{
+"t": "3",
+"k": "text"
+},
+{
+"t": "Descriptors and families",
+"k": "text"
+},
+{
+"t": "Work through the aroma families for every wine; aim for specific words; compare notes with a study partner",
+"k": "text"
+},
+{
+"t": "4",
+"k": "text"
+},
+{
+"t": "Full notes under time",
+"k": "text"
+},
+{
+"t": "Two wines blind, full notes with conclusions in the time you will have on the day, then review for consistency",
+"k": "text"
+},
+{
+"t": "After each practice note, reread it with a red pen. Ask three questions: did I answer every line with one term, are my descriptors specific and from several families, and do my conclusions follow from my description? That review is where most improvement happens.",
+"k": "text"
+},
+{
+"t": "Working with a study partner",
+"k": "text"
+},
+{
+"t": "Tasting with someone else is one of the fastest ways to calibrate. Pour the same wines, write notes in silence, then compare line by line. Where you disagree, discuss why: perhaps one of you judges acidity by the sour taste and the other by salivation. Over a few sessions you will converge, and your judgement will become more stable. If you can occasionally compare notes with an experienced taster or an educator, even better.",
+"k": "text"
+},
+{
+"t": "Glossary of tasting terms used in this guide",
+"k": "text"
+},
+{
+"t": "Condition: whether the wine is clean or shows a fault.",
+"k": "text"
+},
+{
+"t": "Development: how far the wine has evolved, from youthful to fully developed or tired.",
+"k": "text"
+},
+{
+"t": "Primary aromas: aromas from the grape and alcoholic fermentation, such as fruit and flowers.",
+"k": "text"
+},
+{
+"t": "Secondary aromas: aromas from post-fermentation winemaking, such as yeast, malolactic conversion and oak.",
+"k": "text"
+},
+{
+"t": "Tertiary aromas: aromas from ageing, whether oxidative or in bottle, such as leather, honey or nuts.",
+"k": "text"
+},
+{
+"t": "Finish: the length of time pleasant flavours persist after the wine has been spat or swallowed.",
+"k": "text"
+},
+{
+"t": "Balance: the harmony between fruit, acidity, tannin, alcohol and sweetness.",
+"k": "text"
+},
+{
+"t": "Complexity: the presence of several distinct aromas and flavours, often from different families.",
+"k": "text"
+},
+{
+"t": "Readiness for drinking: whether a wine is too young, can drink now with potential, or should be drunk now.",
+"k": "text"
+},
+{
+"t": "The Wine Goat app lets you write tasting notes with the full SAT structure and checks that every element is present, while its questions train the theory behind each line, so that the method becomes second nature before your exam.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "What is the SAT in WSET Level 3?",
+"k": "text"
+},
+{
+"t": "The Systematic Approach to Tasting is the method used in WSET exams to describe a wine (appearance, nose, palate) and reach conclusions on quality and readiness for drinking.",
+"k": "text"
+},
+{
+"t": "How many wines are in the WSET Level 3 tasting exam?",
+"k": "text"
+},
+{
+"t": "Two wines, tasted blind, each written up as a full SAT tasting note.",
+"k": "text"
+},
+{
+"t": "How can I practise SAT tasting notes?",
+"k": "text"
+},
+{
+"t": "Taste regularly with the SAT grid and write full notes; The Wine Goat app lets you write and check SAT notes and drills the tasting theory.",
+"k": "text"
+},
+{
+"t": "Is the tasting a separate exam from the theory in WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Yes. The Level 3 qualification has two units marked independently: the theory unit and the tasting unit. You need at least 55% in each to pass the qualification. If you pass one and fail the other, you retake only the unit you failed, and the unit you passed remains valid, so it pays to train tasting as its own skill rather than relying on your theory results.",
+"k": "text"
+},
+{
+"t": "How long should a full SAT note take in practice?",
+"k": "text"
+},
+{
+"t": "In the beginning a complete note can easily take twenty minutes, and that is normal. With regular practice the routine becomes automatic and the time drops sharply. Aim to complete both wines, including conclusions and a final consistency check, within the time your school confirms for the tasting unit, and rehearse that timing in your mock tastings so that it feels familiar on the day.",
+"k": "text"
+},
+{
+"t": "Can I describe a wine as between two levels, for example medium to medium(+)?",
+"k": "text"
+},
+{
+"t": "No. Each line requires one term, and a range or a combination of two terms does not score, even if the correct answer lies within it. If you hesitate, decide which term is closer to your perception and commit to it. Regular calibration with wines of known structure is the best way to make those decisions confident and accurate.",
+"k": "text"
+},
+{
+"t": "Do I need to guess the grape or the region in the Level 3 tasting?",
+"k": "text"
+},
+{
+"t": "No. The Level 3 tasting asks you to describe the wine and reach conclusions on quality and readiness for drinking. You are not marked on naming the grape, the region or the vintage. Knowing typical grape and regional profiles still helps, because it makes your structural judgements more confident and your conclusions more realistic, but your marks come from the note itself.",
+"k": "text"
+},
+{
+"t": "How can I practise the SAT without opening many bottles?",
+"k": "text"
+},
+{
+"t": "Share bottles with a study group, use wines you already drink at home, and taste small measures. Even a single wine can be a full exercise if you write a complete note and review it critically. Kitchen exercises with lemon water, black tea and sugar solutions calibrate structure easily, and writing notes from memory about familiar wines also trains the vocabulary.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET Systematic Approach to Tasting (SAT) Level 3 – how to write a tasting note | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How to use the WSET Level 3 SAT for the blind tasting exam: appearance, nose, palate and conclusions, quality and readiness for drinking, with practice questions.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What two fundamental skills is the SAT designed to develop?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The SAT is a teaching and assessment tool: it describes (appearance, nose, palate) and then concludes (quality and readiness).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the two headings in the 'Conclusions' section of the SAT?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In the Conclusions you must use the listed terms: quality level and readiness for drinking.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where is the Wine-Lexicon found?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The Lexicon lists aroma and flavour descriptors to help describe a wine; it is on the back of the SAT card.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "A wine sits between ruby and garnet. How should you describe it in the exam?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "On hyphenated lines you pick one term only; a range such as 'ruby to garnet' scores no mark.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In the SAT 'Conclusions' section, may you use your own words?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The Conclusions are the evaluative part of the SAT, with two headings: quality level and readiness for drinking/potential for ageing. You are restricted to the specific listed terms here (e.g. 'good', 'can drink now, but has potential for ageing'). Freedom to use other words applies only to the 'e.g.' lines (aroma and flavour characteristics).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At Level 3, how have many three-point scales been refined?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Only the 'medium' band is split, because most wines fall there: it is not five equal parts.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

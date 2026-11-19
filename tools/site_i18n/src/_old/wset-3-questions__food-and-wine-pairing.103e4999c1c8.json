@@ -1,0 +1,1011 @@
+{
+"group": "wset-3-questions__food-and-wine-pairing",
+"source": "wset-3-questions/food-and-wine-pairing/index.html",
+"url": "/wset-3-questions/food-and-wine-pairing/",
+"region": "main",
+"sha": "103e4999c1c8",
+"words": 3402,
+"segment_words": 3693,
+"segments": [
+{
+"t": "WSET 3 Food and wine pairing – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Food and wine pairing practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Food and wine pairing, WSET Level 3 Food and wine pairing, Food and wine pairing WSET questions, Food and wine pairing wine quiz, Food and wine pairing wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Food and wine pairing: practice questions with answers – WSET 3 Food and wine pairing, WSET Level 3 Food and wine pairing (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Food and wine pairing",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Food and wine pairing: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Food and wine pairing, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 57 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Food and wine pairing: practice questions with answers | WSET 3 Food and wine pairing",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Food and wine pairing practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which two food components make wine taste 'harder'?",
+"k": "text"
+},
+{
+"t": "Acidity and umami",
+"k": "text"
+},
+{
+"t": "Salt and acidity",
+"k": "text"
+},
+{
+"t": "Fat and salt",
+"k": "text"
+},
+{
+"t": "Sweetness and umami",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Sweetness and umami",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Sweetness and umami make wine more astringent, bitter and acidic, less sweet and fruity.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Which two food components make wine taste 'softer'?",
+"k": "text"
+},
+{
+"t": "Umami and bitterness",
+"k": "text"
+},
+{
+"t": "Bitterness and chilli",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Salt and acidity",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Salt and acid make wine less astringent, bitter and acidic, sweeter and fruitier.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Generally, which has more impact on the other?",
+"k": "text"
+},
+{
+"t": "Wine on food, as alcohol and acidity change the flavours",
+"k": "text"
+},
+{
+"t": "Neither has any significant effect on the other",
+"k": "text"
+},
+{
+"t": "Food on wine, and more often in a negative way",
+"k": "text"
+},
+{
+"t": "They affect each other equally, positively and negatively",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Food on wine, and more often in a negative way",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Food changes wine more than vice versa, mostly for the worse.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What simple experiment lets you taste umami?",
+"k": "text"
+},
+{
+"t": "Eat a wedge of lemon and then a piece of bread",
+"k": "text"
+},
+{
+"t": "Drink orange juice just after brushing your teeth",
+"k": "text"
+},
+{
+"t": "Taste glutamate in water and then a piece of Parmesan",
+"k": "text"
+},
+{
+"t": "Compare a raw mushroom with one microwaved for 30 seconds",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Compare a raw mushroom with one microwaved for 30 seconds",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Cooking greatly increases umami. Umami usually appears with other tastes, e.g. with salt in MSG.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which foods are high in umami but lack salt, so are hard to pair?",
+"k": "text"
+},
+{
+"t": "Salted crisps, crackers and popcorn",
+"k": "text"
+},
+{
+"t": "Parmesan, cured meats, smoked fish and soy",
+"k": "text"
+},
+{
+"t": "Asparagus, eggs, mushrooms, ripe soft cheeses",
+"k": "text"
+},
+{
+"t": "Olives, anchovies and salted capers",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Asparagus, eggs, mushrooms, ripe soft cheeses",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Cured or smoked foods and hard cheeses like Parmesan are also salty, so harm wine less.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which wines can become surprisingly bitter with umami-rich foods?",
+"k": "text"
+},
+{
+"t": "Sweet sparkling wines, through interaction with sugar",
+"k": "text"
+},
+{
+"t": "Sweet fortified and dried-grape wines in general",
+"k": "text"
+},
+{
+"t": "Low-tannin reds and whites with oak or skin contact",
+"k": "text"
+},
+{
+"t": "Only tannic reds, as umami amplifies tannin",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Low-tannin reds and whites with oak or skin contact",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} In a balanced high-tannin red the extra bitterness does not unbalance it; in low-tannin wines it stands out.",
+"k": "text"
+},
+{
+"t": "Study notes: food and wine pairing for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 food and wine pairing questions test whether you can predict how a dish will change a wine, not whether you know a list of classic matches. The key principle is that food usually affects wine more than wine affects food, and more often for the worse. If you learn which food components make a wine taste harder and which make it softer, you can reason your way to a good answer for almost any dish. These study notes turn the topic into a step-by-step revision guide.",
+"k": "text"
+},
+{
+"t": "The core rule: harder and softer",
+"k": "text"
+},
+{
+"t": "A wine tastes 'harder' when it seems more bitter, more astringent, more acidic and more alcoholic, and less sweet, less fruity and lighter in body. It tastes 'softer' when the opposite happens. Sweetness and umami in food make wine harder. Salt and acidity in food make wine softer. Bitterness in food adds to bitterness in the wine, and chilli heat makes alcohol burn more and tannins taste rougher. Every pairing question is really an application of these effects.",
+"k": "text"
+},
+{
+"t": "Food component",
+"k": "text"
+},
+{
+"t": "Effect on the wine",
+"k": "text"
+},
+{
+"t": "What to choose",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "More bitter, astringent, acidic and alcoholic; less sweet, fruity and full",
+"k": "text"
+},
+{
+"t": "A wine at least as sweet as the food",
+"k": "text"
+},
+{
+"t": "Umami",
+"k": "text"
+},
+{
+"t": "Same as sweetness: harder, more bitter and astringent",
+"k": "text"
+},
+{
+"t": "Fruity wines with low tannin and little oak; add salt or acid to the dish",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Less acidic; seems fuller, sweeter and fruitier",
+"k": "text"
+},
+{
+"t": "A wine with at least as much acidity, or it will taste flat",
+"k": "text"
+},
+{
+"t": "Salt",
+"k": "text"
+},
+{
+"t": "Less bitter, astringent and acidic; seems fuller",
+"k": "text"
+},
+{
+"t": "Wide choice; salt also matches high-acid and sweet wines well",
+"k": "text"
+},
+{
+"t": "Bitterness",
+"k": "text"
+},
+{
+"t": "Increases bitterness in the wine",
+"k": "text"
+},
+{
+"t": "Wines low in tannin and bitterness",
+"k": "text"
+},
+{
+"t": "Chilli heat",
+"k": "text"
+},
+{
+"t": "Alcohol burns more; more bitter, astringent and acidic; less fruity",
+"k": "text"
+},
+{
+"t": "Low alcohol, low tannin, fruity wines; a touch of sweetness helps",
+"k": "text"
+},
+{
+"t": "Fat and oil",
+"k": "text"
+},
+{
+"t": "Coat the mouth and soften the feel of tannin and acidity",
+"k": "text"
+},
+{
+"t": "High-acid wines to refresh, or tannic reds with rich meat",
+"k": "text"
+},
+{
+"t": "WSET 3 pairing in detail: the food components",
+"k": "text"
+},
+{
+"t": "Sweetness in food makes dry wines taste thin, sour and bitter, because it reduces the perception of sweetness and fruit in the wine and emphasises acidity and tannin. The safe rule is that the wine should be at least as sweet as the food. This is why dessert with a dry sparkling wine often disappoints, while a sweet wine such as Sauternes, Tokaji Aszú or a sweet Muscat works well.",
+"k": "text"
+},
+{
+"t": "Umami, the savoury taste, has the same hardening effect as sweetness. Foods high in umami but low in salt, such as asparagus, mushrooms, eggs and ripe soft cheeses, are the hardest to match. Cured meats, hard cheeses such as Parmesan, soy sauce and smoked fish contain umami too, but their salt counteracts much of the effect. A practical solution is to season the dish: a little salt or a squeeze of lemon makes umami-rich food far more wine-friendly.",
+"k": "text"
+},
+{
+"t": "Acidity and salt",
+"k": "text"
+},
+{
+"t": "Acidity in food makes wine taste less acidic and fuller, sweeter and fruitier, so high-acid wines often improve with acidic dishes. The danger is a low-acid wine with a high-acid dish: the wine tastes flat and flabby. Classic examples are goat's cheese with Sauvignon Blanc from the Loire and tomato-based dishes with Italian reds such as Sangiovese or Barbera. Salt also softens wine, reducing bitterness, astringency and acidity, which explains pairings such as oysters with Chablis or Muscadet, salted almonds with Fino sherry and salty blue cheese with a sweet wine.",
+"k": "text"
+},
+{
+"t": "Bitterness and chilli heat",
+"k": "text"
+},
+{
+"t": "Bitter foods such as radicchio or very charred meat add to any bitterness in the wine, so they work better with low-tannin wines. Some people enjoy bitterness, so personal preference matters. Chilli heat raises the burning sensation of alcohol and makes tannin and acidity harsher, while making the wine seem less fruity. Choose low alcohol, low tannin, fruity wines; an off-dry wine such as a German Riesling Kabinett can soften the heat. High-alcohol, oaky or very tannic reds are the riskiest choice.",
+"k": "text"
+},
+{
+"t": "Exam tip: in short written answers, name the component in the food, state its effect on the wine, then recommend a wine style and justify it. For example: 'The dish is sweet, which will make a dry wine taste more acidic and bitter, so choose a sweet wine of at least equal sweetness.' Each step can earn a mark.",
+"k": "text"
+},
+{
+"t": "Weight, intensity and wine-side considerations",
+"k": "text"
+},
+{
+"t": "Beyond the tastes in the food, match the intensity of flavour and the weight of food and wine. Delicate dishes such as steamed white fish suit light, delicate wines; intense, rich dishes such as braised beef or game need wines with more body and flavour intensity, otherwise the wine disappears. Flavour links also help: an oaky Chardonnay with grilled or smoked dishes, or a wine with herbal notes with herb-led sauces.",
+"k": "text"
+},
+{
+"t": "Low-risk and high-risk wines",
+"k": "text"
+},
+{
+"t": "Some wines are more forgiving than others. Fruity wines with low tannin, little or no oak and moderate alcohol, possibly with a hint of sweetness, adapt to many foods. High-risk wines include very tannic reds, heavily oaked wines, high-alcohol wines and delicate, complex mature wines, whose subtle aromas can easily be masked by strong food. When a menu contains several high-risk foods, choose a low-risk wine.",
+"k": "text"
+},
+{
+"t": "A five-step method for any pairing question",
+"k": "text"
+},
+{
+"t": "Identify the dominant components of the dish: sweetness, umami, acidity, salt, bitterness, chilli heat, fat.",
+"k": "text"
+},
+{
+"t": "Note the intensity of flavour and the weight of the dish.",
+"k": "text"
+},
+{
+"t": "Predict the effect of each component on the wine (harder or softer).",
+"k": "text"
+},
+{
+"t": "Choose the wine style that survives or benefits: sweetness level, acidity, tannin, alcohol, oak, body.",
+"k": "text"
+},
+{
+"t": "Check flavour links and the occasion, and remember that personal preference and individual sensitivity to bitterness or heat vary.",
+"k": "text"
+},
+{
+"t": "How to revise food and wine pairing in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: memorise the harder and softer rule and write it on one card.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the table of food components, effects and solutions.",
+"k": "text"
+},
+{
+"t": "Day 3: taste a dry red with a squeeze of lemon and a pinch of salt, then with something sweet, and note the changes.",
+"k": "text"
+},
+{
+"t": "Day 4: write three short answers using the five-step method for dishes you eat this week.",
+"k": "text"
+},
+{
+"t": "Day 5: list five low-risk and five high-risk wines with a reason for each.",
+"k": "text"
+},
+{
+"t": "Day 6: practise a timed set of pairing questions in the app and turn every mistake into a rule.",
+"k": "text"
+},
+{
+"t": "Day 7: plan a three-course menu and justify the wine for each course in cause-effect form.",
+"k": "text"
+},
+{
+"t": "Common mistake: assuming red wine always goes with meat. A tannic red with a sweet glaze or a chilli sauce can taste harsh; the components of the dish matter more than its colour or main ingredient.",
+"k": "text"
+},
+{
+"t": "Worked example: a short written answer on pairing",
+"k": "text"
+},
+{
+"t": "Pairing questions in the written section usually give you a dish and two or three wines, and ask which works best and why. The marks come from naming the food components, predicting their effect and justifying the choice.",
+"k": "text"
+},
+{
+"t": "Question: A restaurant serves a Thai green curry with chicken, coconut milk and fresh chilli. Which of these wines would you recommend: an oaked Australian Shiraz at 15% abv, a dry Sancerre, or an off-dry Mosel Riesling Kabinett? Explain your choice.",
+"k": "text"
+},
+{
+"t": "Model answer: The dominant components are chilli heat, some sweetness from the coconut milk, and a rich, creamy texture. Chilli heat increases the burning sensation of alcohol and makes tannin and oak bitterness harsher, so the oaked Shiraz, with high alcohol and firm tannins, would taste hot, bitter and less fruity. The Sancerre is dry and high in acidity: the sweetness in the dish would make it taste even sharper and thinner, and the chilli would emphasise its acidity. The Riesling Kabinett is the best choice. Its low alcohol will not be amplified much by the chilli, its residual sugar softens the heat and matches the sweetness of the coconut, its high acidity cuts through the creaminess, and its intense fruit stands up to the aromatic spices.",
+"k": "text"
+},
+{
+"t": "Why it works: the answer identifies three components, explains why the two weaker wines fail, and gives four reasons for the recommended wine. Explaining the rejected options shows full understanding, which earns marks.",
+"k": "text"
+},
+{
+"t": "Dish-by-dish reference table",
+"k": "text"
+},
+{
+"t": "Practising with real dishes fixes the rules in memory. For each dish, find the components first, then the wine.",
+"k": "text"
+},
+{
+"t": "Dish",
+"k": "text"
+},
+{
+"t": "Key components",
+"k": "text"
+},
+{
+"t": "Suitable wine style",
+"k": "text"
+},
+{
+"t": "Why",
+"k": "text"
+},
+{
+"t": "Grilled steak",
+"k": "text"
+},
+{
+"t": "Fat, protein, salt, high intensity",
+"k": "text"
+},
+{
+"t": "Full-bodied red with ripe tannins",
+"k": "text"
+},
+{
+"t": "Protein and fat soften tannin; salt reduces bitterness",
+"k": "text"
+},
+{
+"t": "Smoked salmon",
+"k": "text"
+},
+{
+"t": "Salt, umami, oily texture",
+"k": "text"
+},
+{
+"t": "High-acid white or traditional-method sparkling",
+"k": "text"
+},
+{
+"t": "Acidity cuts the oil; salt softens the wine; low tannin avoids a metallic taste",
+"k": "text"
+},
+{
+"t": "Goat's cheese salad with vinaigrette",
+"k": "text"
+},
+{
+"t": "Acidity, salt",
+"k": "text"
+},
+{
+"t": "High-acid, unoaked white such as Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "A low-acid wine would taste flat against the dressing",
+"k": "text"
+},
+{
+"t": "Mushroom risotto",
+"k": "text"
+},
+{
+"t": "Umami, cream, medium intensity",
+"k": "text"
+},
+{
+"t": "Low-tannin red such as Pinot Noir, or a rounded white",
+"k": "text"
+},
+{
+"t": "Umami makes tannic wines harder; a seasoning of salt helps",
+"k": "text"
+},
+{
+"t": "Blue cheese",
+"k": "text"
+},
+{
+"t": "Salt, intense flavour, fat",
+"k": "text"
+},
+{
+"t": "Sweet wine such as Sauternes or a sweet fortified wine",
+"k": "text"
+},
+{
+"t": "Salt and sweetness contrast; the wine's intensity matches the cheese",
+"k": "text"
+},
+{
+"t": "Chocolate dessert",
+"k": "text"
+},
+{
+"t": "Sweetness, bitterness, intensity",
+"k": "text"
+},
+{
+"t": "Sweet, intense wine, for example a sweet fortified red",
+"k": "text"
+},
+{
+"t": "The wine must be at least as sweet and as intense as the dessert",
+"k": "text"
+},
+{
+"t": "Mini case study: one wine through a whole menu",
+"k": "text"
+},
+{
+"t": "Imagine a host who wants to serve a single bottle of young, tannic, dry red, such as a Barolo, with every course. Following it through the menu shows how food changes a wine.",
+"k": "text"
+},
+{
+"t": "Asparagus starter: high umami and low salt make the tannins taste harder and more bitter. A poor match.",
+"k": "text"
+},
+{
+"t": "Tomato pasta: the acidity of the sauce makes the wine taste less acidic and fruitier. A good match, as the Italian combination suggests.",
+"k": "text"
+},
+{
+"t": "Braised beef: protein, fat and rich flavour soften the tannins and match the wine's intensity. The best match of the evening.",
+"k": "text"
+},
+{
+"t": "Fruit tart: sweetness makes the dry wine taste thin, sour and bitter. A clear mismatch; a sweet wine would be needed.",
+"k": "text"
+},
+{
+"t": "The lesson is that the wine itself did not change: each dish changed how it tasted. This is exactly the reasoning examiners want to see.",
+"k": "text"
+},
+{
+"t": "Sample questions answered in text",
+"k": "text"
+},
+{
+"t": "Question: Why does a squeeze of lemon or a pinch of salt often rescue a difficult pairing? Answer: Acidity and salt make wine taste softer: less acidic, less bitter and astringent, and fuller and fruitier. Adding them to a dish balances components such as umami that would otherwise harden the wine.",
+"k": "text"
+},
+{
+"t": "Question: Why can a heavily oaked white overpower a delicate dish of steamed fish? Answer: The intense toasty and vanilla flavours and the fuller body dominate a light, subtle dish, so the flavour of the fish disappears. A light, unoaked white matches its weight and intensity.",
+"k": "text"
+},
+{
+"t": "Question: Which wine is low risk for a mixed buffet? Answer: A fruity, unoaked wine with moderate alcohol, low tannin and good acidity, possibly with a touch of sweetness, because it adapts to many components without becoming harsh.",
+"k": "text"
+},
+{
+"t": "Common mistakes in pairing answers",
+"k": "text"
+},
+{
+"t": "Choosing a wine by the colour of the main ingredient instead of by the components of the dish.",
+"k": "text"
+},
+{
+"t": "Forgetting the sauce, which often decides the match more than the meat or fish.",
+"k": "text"
+},
+{
+"t": "Pairing a dry wine with a sweet dessert because both are 'elegant'.",
+"k": "text"
+},
+{
+"t": "Ignoring chilli heat when the wine is high in alcohol or tannin.",
+"k": "text"
+},
+{
+"t": "Stating a match without explaining the effect on the wine, which loses marks in written answers.",
+"k": "text"
+},
+{
+"t": "Exam fact: pairing is assessed in the theory unit, while the tasting unit asks you to assess two wines blind with the SAT. WSET Level 3 treats theory and tasting as separate units, each needing at least 55%, and a failed unit is retaken on its own.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "57 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Food and wine pairing are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 57 multiple-choice questions on Food and wine pairing, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Food and wine pairing important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Food and wine pairing, can come up.",
+"k": "text"
+},
+{
+"t": "Which wine should I choose for a spicy dish in the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Choose a wine with low alcohol, low tannin and plenty of fruit, ideally with a little sweetness, such as an off-dry Riesling. Chilli heat makes alcohol burn more and makes tannin and acidity taste harsher, so high-alcohol, oaky or very tannic reds are the riskiest options. Justify your choice by naming these effects.",
+"k": "text"
+},
+{
+"t": "Why do salty foods pair well with sweet wines?",
+"k": "text"
+},
+{
+"t": "Salt makes wine taste less bitter, astringent and acidic and seems to increase its body, while the sweetness of the wine contrasts with the salty food. This combination of contrast and softening explains classic matches such as salty blue cheese with Sauternes or Port. The same softening effect helps high-acid wines with salty dishes.",
+"k": "text"
+},
+{
+"t": "What are low-risk wines for food pairing in WSET 3?",
+"k": "text"
+},
+{
+"t": "Low-risk wines are fruity, low in tannin, unoaked or lightly oaked and moderate in alcohol, sometimes with a touch of sweetness. They adapt to many foods because there is little bitterness or astringency for the food to increase. They are a safe choice when a dish has several difficult components, such as umami and chilli together.",
+"k": "text"
+},
+{
+"t": "Does fat in food change how a wine tastes?",
+"k": "text"
+},
+{
+"t": "Yes. Fat and oil coat the mouth, which makes tannin and acidity feel softer. High-acid wines refresh the palate after rich, fatty food, and tannic reds can taste smoother with fatty red meat. A low-acid wine with a very fatty dish can feel heavy and cloying, so acidity is the key factor to consider.",
+"k": "text"
+},
+{
+"t": "Is food and wine pairing assessed in the WSET Level 3 tasting exam?",
+"k": "text"
+},
+{
+"t": "The tasting paper asks you to describe and assess two wines blind using the systematic approach, so pairing is not tested there. Pairing belongs to the theory paper, where it can appear in the multiple-choice questions or in a short written answer asking you to recommend and justify a wine for a dish.",
+"k": "text"
+},
+{
+"t": "Which wines suit cheese in WSET Level 3 answers?",
+"k": "text"
+},
+{
+"t": "It depends on the cheese. Fresh, acidic cheeses such as goat's cheese suit high-acid whites. Hard, salty cheeses with umami, such as aged Parmesan, can handle fuller reds because salt softens tannin. Strong blue cheeses pair well with sweet wines, since salt and sweetness contrast. Soft, creamy cheeses with high umami are harder and favour fruity wines with low tannin.",
+"k": "text"
+},
+{
+"t": "Does fat in food soften tannin?",
+"k": "text"
+},
+{
+"t": "Fat and protein in dishes such as steak or lamb coat the mouth and reduce the drying sensation of tannin, so a full-bodied tannic red feels smoother. Fat also adds richness, which high acidity can cut through, making a high-acid wine feel refreshing. In WSET 3 answers, link fat to either tannin or acidity and explain the effect on the wine.",
+"k": "text"
+},
+{
+"t": "Why do oily fish and tannic red wines often clash?",
+"k": "text"
+},
+{
+"t": "With oily fish such as mackerel or sardines, the combination of fish oils and high tannin can create an unpleasant metallic taste. A low-tannin red, a rosé or a high-acid white is safer, because acidity cuts through the oil without the tannin clash. This is a good example of why the components of the dish matter more than the colour of the wine.",
+"k": "text"
+},
+{
+"t": "When should I recommend an off-dry wine in a pairing question?",
+"k": "text"
+},
+{
+"t": "An off-dry wine is a useful recommendation when a dish has chilli heat, some sweetness or many different flavours. Residual sugar softens the burning sensation of chilli and matches mild sweetness, while good acidity keeps the wine fresh. Off-dry Riesling with low alcohol is the classic choice for spicy Asian dishes.",
+"k": "text"
+},
+{
+"t": "Why is a sweet wine such as Sauternes a classic match for blue cheese?",
+"k": "text"
+},
+{
+"t": "Blue cheese is salty and intensely flavoured. Salt makes a wine taste softer and brings out its sweetness and fruit, so a sweet wine tastes rich and balanced next to it. The high flavour intensity and full body of Sauternes also match the strength of the cheese, while its acidity cuts through the fat. It is a good example of contrast (salt and sugar) combined with matching intensity.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Food and wine pairing – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Food and wine pairing practice questions with answers and explanations, plus 57 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which two food components make wine taste 'harder'?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sweetness and umami make wine more astringent, bitter and acidic, less sweet and fruity.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which two food components make wine taste 'softer'?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Salt and acid make wine less astringent, bitter and acidic, sweeter and fruitier.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Generally, which has more impact on the other?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Food changes wine more than vice versa, mostly for the worse.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What simple experiment lets you taste umami?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Cooking greatly increases umami. Umami usually appears with other tastes, e.g. with salt in MSG.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which foods are high in umami but lack salt, so are hard to pair?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Cured or smoked foods and hard cheeses like Parmesan are also salty, so harm wine less.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which wines can become surprisingly bitter with umami-rich foods?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In a balanced high-tannin red the extra bitterness does not unbalance it; in low-tannin wines it stands out.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

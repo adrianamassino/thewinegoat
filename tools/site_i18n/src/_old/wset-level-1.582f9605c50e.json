@@ -1,0 +1,996 @@
+{
+"group": "wset-level-1",
+"source": "wset-level-1/index.html",
+"url": "/wset-level-1/",
+"region": "main",
+"sha": "582f9605c50e",
+"words": 3426,
+"segment_words": 3507,
+"segments": [
+{
+"t": "WSET Level 1 Award in Wines: exam format, syllabus",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Everything about the WSET Level 1 Award in Wines: 30 multiple-choice questions in 45 minutes, 70% pass mark, what the syllabus covers, how to study…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 1, WSET Level 1 Award in Wines, WSET 1 exam, WSET Level 1 questions, WSET Level 1 practice test, WSET level 1 pass mark, wine course beginners",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 1 Award in Wines: the complete guide – WSET Level 1, WSET Level 1 Award in Wines, WSET 1 exam (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 1",
+"k": "text"
+},
+{
+"t": "Available now in the app",
+"k": "text"
+},
+{
+"t": "WSET Level 1 Award in Wines: the complete guide",
+"k": "text"
+},
+{
+"t": "The perfect first step into wine. A short, friendly course that teaches you the main styles of wine, the key grapes, how to store and serve wine and how to pair it with food — and an exam you can pass with a few hours of focused practice.",
+"k": "text"
+},
+{
+"t": "Everything about the WSET Level 1 Award in Wines: 30 multiple-choice questions in 45 minutes, 70% pass mark, what the syllabus covers, how to study….",
+"k": "text"
+},
+{
+"t": "{1}Start Level 1{/1}{2}Try Level 3 free{/2}",
+"k": "text"
+},
+{
+"t": "The exam at a glance",
+"k": "text"
+},
+{
+"t": "Questions",
+"k": "text"
+},
+{
+"t": "30 multiple-choice questions",
+"k": "text"
+},
+{
+"t": "Duration",
+"k": "text"
+},
+{
+"t": "45 minutes",
+"k": "text"
+},
+{
+"t": "Pass mark",
+"k": "text"
+},
+{
+"t": "70% (21 correct answers out of 30)",
+"k": "text"
+},
+{
+"t": "Study time",
+"k": "text"
+},
+{
+"t": "About 6 hours of guided learning",
+"k": "text"
+},
+{
+"t": "Prerequisites",
+"k": "text"
+},
+{
+"t": "None — ideal for beginners",
+"k": "text"
+},
+{
+"t": "What the syllabus covers",
+"k": "text"
+},
+{
+"t": "The main types and styles of wine: still, sparkling and fortified; white, rosé and red",
+"k": "text"
+},
+{
+"t": "How wine is made, in simple terms, and how grape variety and climate shape its style",
+"k": "text"
+},
+{
+"t": "The principal grape varieties and the styles of wine they make",
+"k": "text"
+},
+{
+"t": "How to describe a wine using the WSET Level 1 Systematic Approach to Tasting",
+"k": "text"
+},
+{
+"t": "Storing and serving wine: temperatures, glasses, opening a bottle of still and sparkling wine",
+"k": "text"
+},
+{
+"t": "Food and wine pairing: how sweetness, acidity, salt and umami change the taste of a wine",
+"k": "text"
+},
+{
+"t": "Grape varieties to know",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Pinot Grigio / Pinot Gris",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Merlot",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Syrah / Shiraz",
+"k": "text"
+},
+{
+"t": "How to study, step by step",
+"k": "text"
+},
+{
+"t": "Learn the eight principal grapes first",
+"k": "text"
+},
+{
+"t": "Most questions come back to them. For each one, know whether it is white or red, its typical aromas and the style it gives in a cool or warm climate.",
+"k": "text"
+},
+{
+"t": "Master service temperatures",
+"k": "text"
+},
+{
+"t": "Sparkling and sweet wines well chilled, light whites chilled, light reds lightly chilled, full-bodied reds at room temperature: these are easy points.",
+"k": "text"
+},
+{
+"t": "Learn the food and wine rules",
+"k": "text"
+},
+{
+"t": "Sweetness and umami in food make wine taste more bitter and acidic; salt and acidity in food make it taste softer. Memorise the direction of each effect.",
+"k": "text"
+},
+{
+"t": "Practise with timed questions",
+"k": "text"
+},
+{
+"t": "30 questions in 45 minutes leaves 90 seconds each: train with short daily quizzes and review every mistake.",
+"k": "text"
+},
+{
+"t": "Common mistakes",
+"k": "text"
+},
+{
+"t": "Confusing grape varieties with regions (Chablis is a place, Chardonnay is the grape)",
+"k": "text"
+},
+{
+"t": "Mixing up the effect of food on wine — learn it as a table",
+"k": "text"
+},
+{
+"t": "Rushing: with a 70% pass mark, every careless mistake counts",
+"k": "text"
+},
+{
+"t": "Try 3 sample questions",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which grape variety is used for red Burgundy?",
+"k": "text"
+},
+{
+"t": "Syrah",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Pinot Noir{/1} — Red Burgundy is made from Pinot Noir.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} At what temperature should a light-bodied red wine be served?",
+"k": "text"
+},
+{
+"t": "Well chilled, 6–8 °C",
+"k": "text"
+},
+{
+"t": "Lightly chilled, around 13 °C",
+"k": "text"
+},
+{
+"t": "Just above freezing",
+"k": "text"
+},
+{
+"t": "At 20–25 °C",
+"k": "text"
+},
+{
+"t": "{1}Lightly chilled, around 13 °C{/1} — Light-bodied reds show best lightly chilled, around 13 °C.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} How does sweetness in food affect a wine?",
+"k": "text"
+},
+{
+"t": "It has no effect",
+"k": "text"
+},
+{
+"t": "It makes the wine taste less acidic",
+"k": "text"
+},
+{
+"t": "It makes the wine taste more bitter and acidic, and less fruity",
+"k": "text"
+},
+{
+"t": "It makes the wine taste sweeter",
+"k": "text"
+},
+{
+"t": "{1}It makes the wine taste more bitter and acidic, and less fruity{/1} — Sweet food makes a wine taste drier, more bitter and more acidic.",
+"k": "text"
+},
+{
+"t": "Level 1, 2 or 3: which one is for you?",
+"k": "text"
+},
+{
+"t": "Level 1",
+"k": "text"
+},
+{
+"t": "Level 2",
+"k": "text"
+},
+{
+"t": "Level 3",
+"k": "text"
+},
+{
+"t": "Format",
+"k": "text"
+},
+{
+"t": "30 multiple choice",
+"k": "text"
+},
+{
+"t": "50 multiple choice",
+"k": "text"
+},
+{
+"t": "50 multiple choice + 4 written questions",
+"k": "text"
+},
+{
+"t": "45 min",
+"k": "text"
+},
+{
+"t": "60 min",
+"k": "text"
+},
+{
+"t": "2 h + 30 min tasting",
+"k": "text"
+},
+{
+"t": "70%",
+"k": "text"
+},
+{
+"t": "55%",
+"k": "text"
+},
+{
+"t": "≈ 6 h",
+"k": "text"
+},
+{
+"t": "≈ 28 h",
+"k": "text"
+},
+{
+"t": "≈ 84 h",
+"k": "text"
+},
+{
+"t": "Written answers",
+"k": "text"
+},
+{
+"t": "no",
+"k": "text"
+},
+{
+"t": "yes",
+"k": "text"
+},
+{
+"t": "Tasting exam",
+"k": "text"
+},
+{
+"t": "yes (2 wines)",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 →{/1} · {2}WSET Level 3 →{/2}",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "The Wine Goat for WSET Level 1 is here",
+"k": "text"
+},
+{
+"t": "Lessons, practice questions with explanations, flashcards, games and a 30-question mock exam for WSET Level 1, in the same app as the other levels. Level 1 is completely free.",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How hard is the WSET Level 1 exam?",
+"k": "text"
+},
+{
+"t": "It is the most accessible WSET wine qualification: 30 multiple-choice questions on the basics, with a pass mark of 70%. With the course and some practice questions most candidates pass.",
+"k": "text"
+},
+{
+"t": "How long does it take to prepare?",
+"k": "text"
+},
+{
+"t": "The course is about 6 hours of guided learning, often in one day. A few short practice sessions before the exam are usually enough.",
+"k": "text"
+},
+{
+"t": "Do I need any experience?",
+"k": "text"
+},
+{
+"t": "No. Level 1 has no prerequisites and is designed for complete beginners and people starting to work in hospitality.",
+"k": "text"
+},
+{
+"t": "Is there a tasting exam?",
+"k": "text"
+},
+{
+"t": "No. You taste wines during the course to learn the tasting method, but the exam is only multiple choice.",
+"k": "text"
+},
+{
+"t": "Should I take Level 1 or go straight to Level 2?",
+"k": "text"
+},
+{
+"t": "If you already enjoy wine and want a recognised qualification, many people start directly at Level 2. Level 1 is ideal if you are new to wine or work in service.",
+"k": "text"
+},
+{
+"t": "Will The Wine Goat have Level 1?",
+"k": "text"
+},
+{
+"t": "Yes. Lessons, practice questions, flashcards and mock exams for Level 1 are already in the app. Level 1 is completely free.",
+"k": "text"
+},
+{
+"t": "What grapes do I need to know for WSET Level 1?",
+"k": "text"
+},
+{
+"t": "You need the eight principal grapes: Chardonnay, Sauvignon Blanc, Pinot Grigio or Pinot Gris and Riesling for white wines, and Cabernet Sauvignon, Merlot, Pinot Noir and Syrah or Shiraz for red wines. For each one, learn its colour, typical aromas, the style it gives in cool and warm climates and one or two famous regions.",
+"k": "text"
+},
+{
+"t": "What are the food and wine pairing rules for WSET Level 1?",
+"k": "text"
+},
+{
+"t": "Sweetness and umami in food make wine taste drier, more acidic and more bitter. Acidity and salt in food make wine taste softer and fruitier. Chilli heat increases the burning sensation of alcohol. The safest rule is that a wine should be at least as sweet as the food it is served with.",
+"k": "text"
+},
+{
+"t": "What serving temperatures should I learn for WSET Level 1?",
+"k": "text"
+},
+{
+"t": "Sweet and sparkling wines are served well chilled, light and medium-bodied whites chilled, full-bodied oaked whites lightly chilled, light-bodied reds lightly chilled at around 13 °C, and medium or full-bodied reds at room temperature, roughly 15 to 18 °C. Serving reds too warm makes the alcohol stand out.",
+"k": "text"
+},
+{
+"t": "How do climate and grape ripeness come up in WSET Level 1 questions?",
+"k": "text"
+},
+{
+"t": "Questions often ask why the same grape tastes different in two places. The answer is climate: cool climates give higher acidity, lighter body and green or citrus fruit, while warm climates give riper fruit, fuller body, lower acidity and more alcohol, because riper grapes contain more sugar to ferment.",
+"k": "text"
+},
+{
+"t": "Is WSET Level 1 useful if I work in a restaurant or wine shop?",
+"k": "text"
+},
+{
+"t": "Yes. It gives a shared vocabulary to describe wines, the confidence to recommend wine with food, and the basics of storage and service, such as temperatures and opening sparkling wine safely. Many employers in hospitality and retail use it as an introduction for new staff before Level 2.",
+"k": "text"
+},
+{
+"t": "What can I do after passing WSET Level 1?",
+"k": "text"
+},
+{
+"t": "The natural next step is Level 2, which goes deeper into grape varieties, the main wine regions of the world and the factors that shape style, and also covers sparkling, sweet and fortified wines in more detail. Some people stop at Level 1 because it already gives them the confidence to choose, serve and describe wine at work or at home.",
+"k": "text"
+},
+{
+"t": "Can I retake WSET Level 1 if I do not pass?",
+"k": "text"
+},
+{
+"t": "Yes, you can usually book a new attempt through your course provider, who will explain the practical arrangements. Before retaking, check which topics caused the most mistakes, usually food pairing or the effect of climate, and practise them with timed sets of questions until you score comfortably above the 70% pass mark.",
+"k": "text"
+},
+{
+"t": "How can I practise tasting at home for WSET Level 1?",
+"k": "text"
+},
+{
+"t": "Open two contrasting wines, for example an unoaked Sauvignon Blanc and an oaked Chardonnay, or a Pinot Noir and a Cabernet Sauvignon. Look at the colour, smell the main aromas, then describe sweetness, acidity, tannin, body and finish. Comparing two wines side by side makes the differences much clearer than tasting one wine alone.",
+"k": "text"
+},
+{
+"t": "What is the difference between dry, off-dry and sweet?",
+"k": "text"
+},
+{
+"t": "A dry wine has almost no sugar left, because the yeast has converted it into alcohol. An off-dry wine has a small but noticeable amount of sweetness. A sweet wine has a lot of sugar remaining, either because fermentation was stopped early or because the grapes had very concentrated sugar. Level 1 questions often link sweetness to food pairing.",
+"k": "text"
+},
+{
+"t": "How many hours a day should I study for WSET Level 1?",
+"k": "text"
+},
+{
+"t": "Short sessions work best: 15 to 30 minutes a day over one or two weeks is enough for most beginners. Use each session for one topic, then finish with a few practice questions. Regular repetition helps you remember the grape styles, serving temperatures and food effects far better than one long session the night before the exam.",
+"k": "text"
+},
+{
+"t": "Study notes: WSET Level 1 explained topic by topic",
+"k": "text"
+},
+{
+"t": "WSET Level 1 study notes only need to cover a few big ideas, but you need to know them precisely, because the pass mark is 70%: 21 correct answers out of 30. This section goes through each part of the syllabus in more depth than the overview above: how wine is made, what each principal grape tastes like, how climate changes a wine, how to describe a wine, and the practical rules for storage, service and food pairing. Read it once, then use it as a checklist in the days before the exam.",
+"k": "text"
+},
+{
+"t": "How wine is made, in simple terms",
+"k": "text"
+},
+{
+"t": "Wine is made by fermentation: yeast converts the sugar in grape juice into alcohol and carbon dioxide, and releases heat and flavour. Everything else in WSET Level 1 winemaking is about what happens before and after that step, and whether the grape skins are used.",
+"k": "text"
+},
+{
+"t": "White, red and rosé",
+"k": "text"
+},
+{
+"t": "White wine: grapes are crushed and pressed straight away, and only the juice is fermented, usually at a cool temperature to keep fresh fruit aromas. White wine can be made from white grapes and, less often, from black grapes, because the juice of most black grapes is colourless.",
+"k": "text"
+},
+{
+"t": "Red wine: black grapes are crushed and fermented together with their skins, which give colour and tannin. After fermentation the wine is pressed to separate it from the skins.",
+"k": "text"
+},
+{
+"t": "Rosé wine: black grapes are used, but the juice stays in contact with the skins for only a short time, so the wine takes a little colour and very little tannin.",
+"k": "text"
+},
+{
+"t": "Sparkling, sweet and fortified wines",
+"k": "text"
+},
+{
+"t": "Sparkling wine has bubbles because the carbon dioxide from a fermentation is trapped in the wine, usually in a sealed tank or in the bottle. Sweet wines keep some natural grape sugar, for example because fermentation is stopped before all the sugar has turned into alcohol. Fortified wines, such as port and sherry, have grape spirit added, which raises the alcohol level.",
+"k": "text"
+},
+{
+"t": "Tannin is a Level 1 favourite. Remember the chain: tannin comes from the skins, red wine is fermented with the skins, so tannin is found mainly in red wines. A question that mentions a drying, mouth-coating feeling in a white wine is almost always a trap.",
+"k": "text"
+},
+{
+"t": "The eight principal grapes: profiles to learn",
+"k": "text"
+},
+{
+"t": "The WSET Level 1 grape varieties are the eight principal grapes listed above. For each one, learn its colour, its typical aromas and a well-known place where it grows. The table below gives the essentials in one place.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Colour",
+"k": "text"
+},
+{
+"t": "Typical style and aromas",
+"k": "text"
+},
+{
+"t": "Well-known examples",
+"k": "text"
+},
+{
+"t": "White",
+"k": "text"
+},
+{
+"t": "Cool climate: green apple, citrus, high acidity. Warm climate: peach and tropical fruit; often oaked, with vanilla and toast",
+"k": "text"
+},
+{
+"t": "Chablis, white Burgundy, California, Australia",
+"k": "text"
+},
+{
+"t": "Aromatic, high acidity, green aromas such as grass and green pepper, plus citrus and passion fruit; usually unoaked",
+"k": "text"
+},
+{
+"t": "Sancerre, Marlborough (New Zealand)",
+"k": "text"
+},
+{
+"t": "Pinot Grigio: light, crisp, delicate. Pinot Gris: fuller and richer, sometimes off-dry",
+"k": "text"
+},
+{
+"t": "North-east Italy, Alsace",
+"k": "text"
+},
+{
+"t": "Aromatic, high acidity, citrus, stone fruit and flowers; made from dry to sweet",
+"k": "text"
+},
+{
+"t": "Germany, Alsace, Australia",
+"k": "text"
+},
+{
+"t": "Black",
+"k": "text"
+},
+{
+"t": "Thick skins: deep colour, high tannin, blackcurrant; often aged in oak",
+"k": "text"
+},
+{
+"t": "Bordeaux, Napa Valley, Chile",
+"k": "text"
+},
+{
+"t": "Softer than Cabernet, medium tannin, plum and red or black fruit",
+"k": "text"
+},
+{
+"t": "Bordeaux, Chile, California",
+"k": "text"
+},
+{
+"t": "Thin skins: pale colour, light body, low tannin, red fruit such as strawberry and cherry",
+"k": "text"
+},
+{
+"t": "Burgundy, New Zealand, California",
+"k": "text"
+},
+{
+"t": "Deep colour, black fruit, black pepper; full-bodied when ripe",
+"k": "text"
+},
+{
+"t": "Rhône Valley (Syrah), Australia (Shiraz)",
+"k": "text"
+},
+{
+"t": "How climate shapes the style of a wine",
+"k": "text"
+},
+{
+"t": "At WSET Level 1, climate explains most differences between wines made from the same grape. Grapes in a cool climate ripen slowly and keep more acidity; grapes in a warm climate ripen fully, gain more sugar and lose some acidity. Because sugar becomes alcohol during fermentation, riper grapes also give wines with more alcohol and body.",
+"k": "text"
+},
+{
+"t": "Cool climate: higher acidity, lighter body, lower alcohol, green and citrus fruit in whites, red fruit in reds.",
+"k": "text"
+},
+{
+"t": "Warm climate: lower acidity, fuller body, higher alcohol, tropical fruit in whites, riper black fruit in reds.",
+"k": "text"
+},
+{
+"t": "Describing a wine: the Level 1 tasting method",
+"k": "text"
+},
+{
+"t": "The WSET Level 1 tasting method describes a wine in three steps: look, smell, taste. You will not be examined on tasting, but multiple-choice questions use its vocabulary, so learn the words and what they mean.",
+"k": "text"
+},
+{
+"t": "Look: note the colour and how deep it is. White wines range from lemon to gold, rosés from pink to salmon, reds from purple to garnet; older wines tend to be deeper in colour for whites and paler for reds.",
+"k": "text"
+},
+{
+"t": "Smell: note the main aromas, for example fruit (citrus, tropical, red or black fruit), flowers, spice or oak.",
+"k": "text"
+},
+{
+"t": "Taste: describe sweetness (dry to sweet), acidity, tannin in reds, body (light to full), the flavours and how long they last.",
+"k": "text"
+},
+{
+"t": "Storage, service and food: the rules that score easy points",
+"k": "text"
+},
+{
+"t": "Storing and serving wine",
+"k": "text"
+},
+{
+"t": "Store wine in a cool place with a constant temperature, away from light, vibration and strong smells. Bottles with a cork should lie on their side so the cork stays moist and does not let air in. Serve sparkling wine in a flute to keep the bubbles, white and rosé in a medium glass, and red in a larger glass that gives room for the aromas. Leftover wine should be resealed and kept in the fridge, then drunk within a few days.",
+"k": "text"
+},
+{
+"t": "Opening a bottle of sparkling wine safely",
+"k": "text"
+},
+{
+"t": "Make sure the bottle is well chilled, because warm sparkling wine has more pressure.",
+"k": "text"
+},
+{
+"t": "Remove the foil and loosen the wire cage, keeping a thumb on the cork at all times.",
+"k": "text"
+},
+{
+"t": "Hold the cork and cage together, tilt the bottle at about 45 degrees and point it away from people.",
+"k": "text"
+},
+{
+"t": "Turn the bottle, not the cork, and ease the cork out gently so it releases with a quiet sigh, not a pop.",
+"k": "text"
+},
+{
+"t": "Food and wine pairing in one table",
+"k": "text"
+},
+{
+"t": "In the food",
+"k": "text"
+},
+{
+"t": "Effect on the wine",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "Wine tastes drier, more acidic and more bitter, and less fruity",
+"k": "text"
+},
+{
+"t": "Umami (mushrooms, ripe cheese, soy)",
+"k": "text"
+},
+{
+"t": "Same direction as sweetness: wine tastes more bitter and acidic",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Wine tastes less acidic, and richer and fruitier",
+"k": "text"
+},
+{
+"t": "Salt",
+"k": "text"
+},
+{
+"t": "Wine tastes softer: less acidic and less bitter",
+"k": "text"
+},
+{
+"t": "Chilli heat",
+"k": "text"
+},
+{
+"t": "Alcohol burn and bitterness are increased",
+"k": "text"
+},
+{
+"t": "A simple rule answers many pairing questions: a wine should be at least as sweet as the food. If the dessert is sweeter than the wine, the wine will taste thin and sour.",
+"k": "text"
+},
+{
+"t": "How to revise WSET Level 1 in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Level 1 rewards short, regular practice. For one week before the exam, spend five minutes on the grape table (cover one column and recall it), five minutes on service temperatures and the food table, and five minutes on a timed set of ten questions, reviewing every mistake. With 90 seconds per question in the real exam, the timing is comfortable if your knowledge is automatic. Level 1 practice questions are already in the app, free.",
+"k": "text"
+},
+{
+"t": "A two-week study plan for WSET Level 1",
+"k": "text"
+},
+{
+"t": "Level 1 needs only a few hours of guided learning, so two weeks of short, regular sessions are usually enough to feel confident. Adapt the plan to your course dates; the order matters more than the exact days.",
+"k": "text"
+},
+{
+"t": "Days 1 to 2: read how wine is made and learn the difference between white, rosé, red, sparkling and fortified wines.",
+"k": "text"
+},
+{
+"t": "Days 3 to 4: learn the four white grapes (Chardonnay, Sauvignon Blanc, Pinot Grigio, Riesling) with one typical style and one example each.",
+"k": "text"
+},
+{
+"t": "Days 5 to 6: learn the four black grapes (Cabernet Sauvignon, Merlot, Pinot Noir, Syrah/Shiraz) in the same way.",
+"k": "text"
+},
+{
+"t": "Day 7: learn how cool and warm climates change acidity, body, alcohol and fruit, and test yourself with ten questions.",
+"k": "text"
+},
+{
+"t": "Days 8 to 9: study storage and service: temperatures, glasses, opening still and sparkling wine, keeping an open bottle.",
+"k": "text"
+},
+{
+"t": "Days 10 to 11: learn the food and wine effects of sweetness, umami, acidity, salt and chilli heat, with one example dish for each.",
+"k": "text"
+},
+{
+"t": "Days 12 to 13: answer mixed practice questions and write down the rule behind every mistake.",
+"k": "text"
+},
+{
+"t": "Day 14: one full timed set of 30 questions in 45 minutes, then a light review of your weakest topic.",
+"k": "text"
+},
+{
+"t": "Level 1 glossary: words that appear in the questions",
+"k": "text"
+},
+{
+"t": "Acidity: the fresh, mouth-watering quality of a wine; high in cool-climate wines.",
+"k": "text"
+},
+{
+"t": "Body: how heavy or light a wine feels in the mouth; alcohol adds body.",
+"k": "text"
+},
+{
+"t": "Tannin: the drying, slightly bitter feel in red wine, which comes from grape skins.",
+"k": "text"
+},
+{
+"t": "Dry: a wine with no noticeable sweetness, because the yeast has converted almost all the sugar.",
+"k": "text"
+},
+{
+"t": "Fermentation: yeast turns the sugar in grape juice into alcohol and carbon dioxide.",
+"k": "text"
+},
+{
+"t": "Oak: wood used for barrels; it can add flavours such as vanilla, toast and smoke.",
+"k": "text"
+},
+{
+"t": "Off-dry: a wine with a small amount of noticeable sweetness.",
+"k": "text"
+},
+{
+"t": "Sparkling wine: a wine with bubbles of carbon dioxide, trapped during a second fermentation or added.",
+"k": "text"
+},
+{
+"t": "Fortified wine: a wine with extra alcohol added, such as Port or Sherry.",
+"k": "text"
+},
+{
+"t": "Umami: a savoury taste found in mushrooms, ripe cheese and soy sauce.",
+"k": "text"
+},
+{
+"t": "Cool climate and warm climate: describe how much heat and sun the grapes receive while ripening.",
+"k": "text"
+},
+{
+"t": "Finish: how long the flavours remain after you swallow or spit.",
+"k": "text"
+},
+{
+"t": "Worked example: choosing wines for three dishes",
+"k": "text"
+},
+{
+"t": "Food and wine questions are easier if you think about the main component of the dish first, then about its effect on the wine. Here is the reasoning for three common cases.",
+"k": "text"
+},
+{
+"t": "Grilled fish with a squeeze of lemon: the acidity in the lemon makes a wine taste less acidic and fruitier, so a high-acid white such as an unoaked Sauvignon Blanc keeps its freshness; a low-acid wine would taste flat. Salty fries alongside also soften the wine.",
+"k": "text"
+},
+{
+"t": "A chocolate dessert: sweetness in food makes a dry wine taste more acidic and bitter and less fruity. The rule is that the wine must be at least as sweet as the food, so a sweet wine is the safe answer, while a dry red would taste sharp and thin.",
+"k": "text"
+},
+{
+"t": "A spicy chicken curry: chilli heat increases the burning sensation of alcohol and the bitterness of tannin. A fruity, low-alcohol, off-dry white, such as a Riesling, is the better choice; a high-alcohol, tannic red would make the dish feel hotter.",
+"k": "text"
+},
+{
+"t": "In the exam, identify the strongest element in the dish, recall its effect from the table, and choose the option that is not harmed by it.",
+"k": "text"
+},
+{
+"t": "Exam day checklist",
+"k": "text"
+},
+{
+"t": "Bring the identification and documents your course provider asked for, and arrive early.",
+"k": "text"
+},
+{
+"t": "Read each question to the end and look for words such as not, best or most.",
+"k": "text"
+},
+{
+"t": "Answer every question; there are four options and only one is correct.",
+"k": "text"
+},
+{
+"t": "Keep an eye on time: 45 minutes for 30 questions is about a minute and a half per question.",
+"k": "text"
+},
+{
+"t": "Use the last minutes to check flagged questions only.",
+"k": "text"
+},
+{
+"t": "More WSET resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained: from Level 1 to the Diploma{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Diploma (Level 4), explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips: theory, D3 and tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}Is WSET worth it?{/1}",
+"k": "text"
+},
+{
+"t": "Everything about the WSET Level 1 Award in Wines: 30 multiple-choice questions in 45 minutes, 70% pass mark, what the syllabus covers, how to study, sample questions and FAQ.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 1 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

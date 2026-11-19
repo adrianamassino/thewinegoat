@@ -1,0 +1,1155 @@
+{
+"group": "wset-3-questions-by-region",
+"source": "wset-3-questions-by-region/index.html",
+"url": "/wset-3-questions-by-region/",
+"region": "main",
+"sha": "acf0d781ae1d",
+"words": 3326,
+"segment_words": 3487,
+"segments": [
+{
+"t": "WSET 3 questions by region & topic (with answers) | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Every WSET Level 3 topic in one place: Bordeaux, Burgundy, Champagne, Rhône, Italy, Spain, Germany, the New World, sherry, port, winemaking, viticulture…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 questions by region, WSET Level 3 topics, WSET 3 syllabus",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 practice questions by region and topic – WSET 3 questions by region, WSET Level 3 topics, WSET 3 syllabus (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "text"
+},
+{
+"t": "WSET Level 3 practice questions by region and topic",
+"k": "text"
+},
+{
+"t": "Pick a region or topic of the WSET Level 3 Award in Wines syllabus to see sample questions with answers and explanations. Every page links to the full set in the app.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 practice questions by region and topic | WSET 3 questions by region",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Every WSET Level 3 topic in one place: Bordeaux, Burgundy, Champagne, Rhône, Italy, Spain, Germany, the New World, sherry, port, winemaking, viticulture….",
+"k": "text"
+},
+{
+"t": "Foundations",
+"k": "text"
+},
+{
+"t": "{1}{2}Tasting and the SAT{/2}{3}146 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Food and wine pairing{/2}{3}57 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Storage and service{/2}{3}49 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Wine pricing and the trade{/2}{3}41 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "Vineyard",
+"k": "text"
+},
+{
+"t": "{1}{2}The vine and grape varieties{/2}{3}54 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Climate and environment{/2}{3}94 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Vineyard management and pruning{/2}{3}97 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "Winery",
+"k": "text"
+},
+{
+"t": "{1}{2}Winemaking and maturation{/2}{3}158 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}White wines{/2}{3}104 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Red and rosé wines{/2}{3}102 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "France",
+"k": "text"
+},
+{
+"t": "{1}{2}Bordeaux{/2}{3}78 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Burgundy and Beaujolais{/2}{3}79 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Alsace and the Loire{/2}{3}79 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Rhône Valley{/2}{3}59 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Southern France{/2}{3}48 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "Europe",
+"k": "text"
+},
+{
+"t": "{1}{2}Italy{/2}{3}102 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Spain{/2}{3}76 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Portugal{/2}{3}40 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Germany{/2}{3}67 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Austria and Hungary{/2}{3}57 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Greece{/2}{3}25 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "New World",
+"k": "text"
+},
+{
+"t": "{1}{2}USA and Canada{/2}{3}75 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Chile and Argentina{/2}{3}68 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}South Africa{/2}{3}47 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Australia and New Zealand{/2}{3}83 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "Special wines",
+"k": "text"
+},
+{
+"t": "{1}{2}Sparkling: Champagne, Prosecco, Cava{/2}{3}87 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Sherry{/2}{3}54 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "{1}{2}Port and fortified wines{/2}{3}52 questions{/3}{/1}",
+"k": "text"
+},
+{
+"t": "Study notes: how to revise WSET Level 3 region by region",
+"k": "text"
+},
+{
+"t": "WSET Level 3 questions by region follow a predictable pattern: almost every question, multiple-choice or written, asks you to connect a place to its climate, its grapes, its winemaking and the style and quality of the wine it makes. This revision guide turns the list of topics above into a working method. It explains which topics carry the most weight, what you must know for every region, how the regions link to each other, and how to build a weekly rotation so that nothing is forgotten by exam day.",
+"k": "text"
+},
+{
+"t": "Remember the shape of the exam you are preparing for. The WSET Level 3 theory paper has 50 multiple-choice questions and 4 short written-answer questions, and the tasting paper asks you to assess 2 wines blind using the Systematic Approach to Tasting. You need 55% in each unit. Regions appear in both parts of the theory paper, and a written question will often take one region and ask you to explain several factors in depth.",
+"k": "text"
+},
+{
+"t": "Why studying by region works",
+"k": "text"
+},
+{
+"t": "The syllabus is built from two halves that support each other. The first half covers the principles: the vine, climate, vineyard management, winemaking and maturation, tasting, food pairing and service. The second half applies those principles to the regions of the world. A question on Mosel Riesling is really a question on cool climates, steep slopes, sunlight interception and residual sugar. Studying a region therefore revises the principles too, and the principles make each new region faster to learn.",
+"k": "text"
+},
+{
+"t": "Which WSET 3 topics carry the most questions?",
+"k": "text"
+},
+{
+"t": "The largest WSET 3 topics are the principles, not a single country. On this page, winemaking and maturation, tasting and the SAT, white wine production, red and rosé production, climate and vineyard management each hold close to a hundred questions or more, and Italy is the biggest single country. Use these numbers as a guide to effort: a topic with many questions has many examinable details, so it deserves more review cycles.",
+"k": "text"
+},
+{
+"t": "Topic group",
+"k": "text"
+},
+{
+"t": "What examiners look for",
+"k": "text"
+},
+{
+"t": "Priority",
+"k": "text"
+},
+{
+"t": "Winemaking and maturation",
+"k": "text"
+},
+{
+"t": "Fermentation choices, oak, lees, malolactic conversion and their effect on style",
+"k": "text"
+},
+{
+"t": "Very high",
+"k": "text"
+},
+{
+"t": "Climate and vineyard",
+"k": "text"
+},
+{
+"t": "Temperature, sunlight, water, frost, pruning and training, yields and their impact on ripeness",
+"k": "text"
+},
+{
+"t": "Tasting and the SAT",
+"k": "text"
+},
+{
+"t": "Precise descriptors, structure levels and a justified quality conclusion",
+"k": "text"
+},
+{
+"t": "Bordeaux, Burgundy, Alsace, Loire, Rhône and the south: grapes, laws and styles",
+"k": "text"
+},
+{
+"t": "High",
+"k": "text"
+},
+{
+"t": "Italy and Spain",
+"k": "text"
+},
+{
+"t": "Native grapes, DOCG and DOCa wines, ageing categories, appassimento",
+"k": "text"
+},
+{
+"t": "Ocean currents, altitude, irrigation, key regions and signature grapes",
+"k": "text"
+},
+{
+"t": "Sparkling and fortified",
+"k": "text"
+},
+{
+"t": "Traditional and tank methods, sherry ageing, port styles",
+"k": "text"
+},
+{
+"t": "Medium to high",
+"k": "text"
+},
+{
+"t": "Smaller countries",
+"k": "text"
+},
+{
+"t": "Greece, Austria, Hungary, Portugal: two or three key wines each",
+"k": "text"
+},
+{
+"t": "Medium",
+"k": "text"
+},
+{
+"t": "The checklist to learn for every region",
+"k": "text"
+},
+{
+"t": "For WSET 3 regions, examiners reward the same chain of reasoning every time: natural factor, then human choice, then resulting style, then price or quality. Learning each region against a fixed checklist makes your notes comparable and your written answers complete.",
+"k": "text"
+},
+{
+"t": "Location and climate type: cool, moderate or warm; continental, maritime or Mediterranean.",
+"k": "text"
+},
+{
+"t": "Moderating or limiting factors: ocean currents, rivers, altitude, mountains, fog, frost, rain at harvest.",
+"k": "text"
+},
+{
+"t": "Soils and slopes where they matter, for example gravel in the Médoc, slate in the Mosel, limestone in Burgundy and Champagne.",
+"k": "text"
+},
+{
+"t": "Principal grapes and the style each one gives in that place.",
+"k": "text"
+},
+{
+"t": "Key vineyard practices: canopy management, irrigation, hand or machine harvesting, yields.",
+"k": "text"
+},
+{
+"t": "Key winemaking choices: temperature, skin contact, oak type and age, lees, blending, residual sugar.",
+"k": "text"
+},
+{
+"t": "Labelling and law: appellations, quality levels, ageing categories and terms you may meet on a label.",
+"k": "text"
+},
+{
+"t": "Style, quality and price: why some wines are inexpensive and others command high prices.",
+"k": "text"
+},
+{
+"t": "When a written question asks you to explain a style, every point should contain a because. High acidity because the region is cool and the grapes ripen slowly is worth more than high acidity on its own. Examiners award marks for the link, not for the list.",
+"k": "text"
+},
+{
+"t": "WSET 3 regions at a glance: the facts that come up most",
+"k": "text"
+},
+{
+"t": "The quick reference below summarises the WSET Level 3 regions with the facts that appear most often in questions. It is a starting point for flashcards, not a replacement for full notes.",
+"k": "text"
+},
+{
+"t": "Bordeaux: moderate maritime climate; Cabernet Sauvignon on the gravel of the left bank, Merlot on the clay and limestone of the right bank; Sauternes made from noble rot encouraged by autumn mists from the Ciron.",
+"k": "text"
+},
+{
+"t": "Burgundy: cool continental climate, Pinot Noir and Chardonnay, a hierarchy from regional to village, premier cru and grand cru; Beaujolais is Gamay, often made with whole bunches and carbonic or semi-carbonic maceration.",
+"k": "text"
+},
+{
+"t": "Alsace and Loire: Alsace is dry and sunny in the rain shadow of the Vosges; the Loire gives Muscadet sur lie, Chenin Blanc from dry to sweet, Sancerre Sauvignon Blanc and Cabernet Franc reds.",
+"k": "text"
+},
+{
+"t": "Rhône: Syrah in the northern Rhône (Côte-Rôtie, Hermitage) and Viognier in Condrieu; Grenache-led blends in the warmer south, including Châteauneuf-du-Pape; the mistral wind dries and cools.",
+"k": "text"
+},
+{
+"t": "Germany: Riesling first; the Prädikat levels are based on the ripeness of the grapes at harvest; steep slate slopes in the Mosel improve sunlight interception and warmth.",
+"k": "text"
+},
+{
+"t": "Italy: Nebbiolo in Barolo and Barbaresco, Sangiovese in Chianti Classico and Brunello di Montalcino, Corvina and dried grapes for Amarone, Glera for Prosecco.",
+"k": "text"
+},
+{
+"t": "Spain: Tempranillo in Rioja and Ribera del Duero with ageing categories such as crianza, reserva and gran reserva; Albariño in Rías Baixas; Garnacha and Cariñena in Priorat.",
+"k": "text"
+},
+{
+"t": "New World: cooling influences such as the Humboldt, Benguela and California currents, fog and altitude explain why warm countries can make fresh wines.",
+"k": "text"
+},
+{
+"t": "Fortified and sparkling: sherry relies on Palomino, flor and the solera system; port fermentation is stopped with grape spirit; Champagne and Cava use the traditional method, Prosecco usually the tank method.",
+"k": "text"
+},
+{
+"t": "Linking regions: the comparisons examiners love",
+"k": "text"
+},
+{
+"t": "Many WSET 3 questions compare two places that share a grape. Comparing them is the fastest way to show that you understand cause and effect, because the grape stays the same and only the environment and the winemaking change.",
+"k": "text"
+},
+{
+"t": "Same grape, different place",
+"k": "text"
+},
+{
+"t": "Chardonnay: Chablis (cool, high acidity, often unoaked) versus warm parts of California or Australia (riper tropical fruit, fuller body, often oak and malolactic conversion).",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc: Sancerre (restrained, citrus and mineral) versus Marlborough (pungent passion fruit and green pepper, intense aromatics from long sunny days and cool nights).",
+"k": "text"
+},
+{
+"t": "Pinot Noir: Burgundy versus Central Otago or the Willamette Valley: compare ripeness, alcohol and the role of oak.",
+"k": "text"
+},
+{
+"t": "Syrah or Shiraz: northern Rhône (pepper, black fruit, firm structure) versus Barossa (very ripe black fruit, full body, high alcohol, often American oak).",
+"k": "text"
+},
+{
+"t": "Riesling: Mosel (low alcohol, often off-dry, very high acidity) versus Clare and Eden Valley (dry, lime, toasty with age).",
+"k": "text"
+},
+{
+"t": "Same technique, different region",
+"k": "text"
+},
+{
+"t": "Techniques also travel. Noble rot links Sauternes, Tokaji and German Beerenauslese and Trockenbeerenauslese. Grape drying links Amarone, Recioto and some sweet wines from Greece. Biological ageing under flor links fino and manzanilla. When you meet a technique, list every region where it is important: this gives you material for written answers and helps you eliminate distractors in multiple-choice questions.",
+"k": "text"
+},
+{
+"t": "Common mistakes in WSET 3 region questions",
+"k": "text"
+},
+{
+"t": "Naming a region when the question asks about a grape, or the reverse: Chianti is a place, Sangiovese is the grape.",
+"k": "text"
+},
+{
+"t": "Describing climate without explaining its effect on ripeness, acidity, sugar and tannin.",
+"k": "text"
+},
+{
+"t": "Mixing up the northern and southern Rhône, or the left and right bank of Bordeaux.",
+"k": "text"
+},
+{
+"t": "Forgetting the human factors: yields, oak, blending and price are part of the answer, not extras.",
+"k": "text"
+},
+{
+"t": "Learning ageing rules approximately: if you are not sure of an exact minimum, describe the category accurately instead of guessing a number.",
+"k": "text"
+},
+{
+"t": "In multiple-choice questions, eliminate the options that break a basic principle first. A warm, low-altitude region will not produce the highest acidity; a wine fermented in stainless steel at low temperature will not show toasty new oak. Two options usually disappear before you need the detail.",
+"k": "text"
+},
+{
+"t": "How to revise all the regions in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "The most reliable WSET 3 study plan rotates through regions in short, frequent sessions. Spaced repetition beats long weekend sessions because each topic comes back just before you would forget it.",
+"k": "text"
+},
+{
+"t": "Minutes 1 to 5: answer ten mixed questions from yesterday's region and today's region.",
+"k": "text"
+},
+{
+"t": "Minutes 6 to 10: rewrite the eight-point checklist for today's region from memory, then check your notes.",
+"k": "text"
+},
+{
+"t": "Minutes 11 to 15: write one short paragraph answering a why question, for example why Barolo has high tannin and high acidity.",
+"k": "text"
+},
+{
+"t": "Cover the principles first for two or three weeks, then add one region every two or three days, always revisiting the previous ones. In the last month, mix everything and practise full mock papers under time pressure. The app follows this logic automatically, bringing back the regions where you make the most mistakes.",
+"k": "text"
+},
+{
+"t": "Worked example: applying the checklist to one region",
+"k": "text"
+},
+{
+"t": "The fastest way to see how the region checklist turns into marks is to apply it to a short written question. Here it is used for the Mosel.",
+"k": "text"
+},
+{
+"t": "Question: Explain why the best Rieslings from the Mosel are light in body yet capable of long ageing.",
+"k": "text"
+},
+{
+"t": "Model answer: The Mosel is one of the most northerly vineyard regions, with a cool continental climate, so ripening is slow and marginal. The best sites are steep, south-facing slopes above the river, which receive sunlight at a steep angle; the river reflects light and moderates temperature, and dark slate soils hold heat. Riesling is late ripening and keeps high acidity in these conditions while developing intense citrus, green apple and floral aromas. Because sugar levels at harvest are modest, many wines are low in alcohol, which makes them light in body; some are made with residual sugar balanced by the acidity. High acidity and concentrated fruit allow the best wines to age for many years, developing petrol, honey and toast notes.",
+"k": "text"
+},
+{
+"t": "Why it works: the answer moves through the checklist in order (climate, site, grape, ripening, winemaking, style, ageing) and gives a reason for each feature of the wine. The same structure works for any region on the syllabus.",
+"k": "text"
+},
+{
+"t": "Label terms to know, region by region",
+"k": "text"
+},
+{
+"t": "Questions often test the meaning of a term on a label. Group the terms by region so you can recall them quickly.",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Key label terms",
+"k": "text"
+},
+{
+"t": "What they tell you",
+"k": "text"
+},
+{
+"t": "Bordeaux",
+"k": "text"
+},
+{
+"t": "Cru classé, Grand Cru Classé (Saint-Émilion)",
+"k": "text"
+},
+{
+"t": "Classified estates, a sign of reputation and usually price",
+"k": "text"
+},
+{
+"t": "Burgundy",
+"k": "text"
+},
+{
+"t": "Grand Cru, Premier Cru, village name",
+"k": "text"
+},
+{
+"t": "A hierarchy of vineyard sites, from the best individual vineyards to village level",
+"k": "text"
+},
+{
+"t": "Germany",
+"k": "text"
+},
+{
+"t": "Kabinett, Spätlese, Auslese, BA, TBA, Eiswein",
+"k": "text"
+},
+{
+"t": "Ripeness of the grapes at harvest, not necessarily sweetness",
+"k": "text"
+},
+{
+"t": "Rioja",
+"k": "text"
+},
+{
+"t": "Crianza, Reserva, Gran Reserva",
+"k": "text"
+},
+{
+"t": "Minimum ageing periods in barrel and bottle",
+"k": "text"
+},
+{
+"t": "Champagne",
+"k": "text"
+},
+{
+"t": "Non-vintage, vintage, Blanc de Blancs, Blanc de Noirs",
+"k": "text"
+},
+{
+"t": "Blending across years or a single year, and which grapes were used",
+"k": "text"
+},
+{
+"t": "Port",
+"k": "text"
+},
+{
+"t": "Ruby, Reserve, LBV, Vintage, Tawny with indication of age",
+"k": "text"
+},
+{
+"t": "Ageing method and length, reductive or oxidative",
+"k": "text"
+},
+{
+"t": "Sherry",
+"k": "text"
+},
+{
+"t": "Fino, Manzanilla, Amontillado, Oloroso, VOS, VORS",
+"k": "text"
+},
+{
+"t": "Ageing method and average age",
+"k": "text"
+},
+{
+"t": "A ten-week region plan",
+"k": "text"
+},
+{
+"t": "This plan assumes the principles are already in place and adds regions in blocks that share ideas, so each week reinforces the last.",
+"k": "text"
+},
+{
+"t": "Week",
+"k": "text"
+},
+{
+"t": "Regions",
+"k": "text"
+},
+{
+"t": "Link to revise",
+"k": "text"
+},
+{
+"t": "1",
+"k": "text"
+},
+{
+"t": "Bordeaux, South-West France",
+"k": "text"
+},
+{
+"t": "Maritime climate, blending, noble rot",
+"k": "text"
+},
+{
+"t": "2",
+"k": "text"
+},
+{
+"t": "Burgundy, Beaujolais",
+"k": "text"
+},
+{
+"t": "Site hierarchy, carbonic maceration",
+"k": "text"
+},
+{
+"t": "3",
+"k": "text"
+},
+{
+"t": "Alsace, Loire, Rhône",
+"k": "text"
+},
+{
+"t": "Rain shadow, river influence, Syrah and Grenache",
+"k": "text"
+},
+{
+"t": "4",
+"k": "text"
+},
+{
+"t": "Southern France, Italy (north)",
+"k": "text"
+},
+{
+"t": "Mediterranean climate, Nebbiolo, grape drying",
+"k": "text"
+},
+{
+"t": "5",
+"k": "text"
+},
+{
+"t": "Italy (centre and south), Spain",
+"k": "text"
+},
+{
+"t": "Sangiovese, Tempranillo, oak ageing rules",
+"k": "text"
+},
+{
+"t": "6",
+"k": "text"
+},
+{
+"t": "Portugal, Germany, Austria and Hungary",
+"k": "text"
+},
+{
+"t": "Fortification, ripeness categories, botrytis",
+"k": "text"
+},
+{
+"t": "7",
+"k": "text"
+},
+{
+"t": "Greece, USA and Canada",
+"k": "text"
+},
+{
+"t": "Altitude, fog, ice wine",
+"k": "text"
+},
+{
+"t": "8",
+"k": "text"
+},
+{
+"t": "Chile, Argentina, South Africa",
+"k": "text"
+},
+{
+"t": "Cold currents, altitude, irrigation",
+"k": "text"
+},
+{
+"t": "9",
+"k": "text"
+},
+{
+"t": "Australia, New Zealand",
+"k": "text"
+},
+{
+"t": "Cooling influences, styles by region",
+"k": "text"
+},
+{
+"t": "10",
+"k": "text"
+},
+{
+"t": "Sparkling wines, Sherry, Port and mixed review",
+"k": "text"
+},
+{
+"t": "Methods of production and full mock papers",
+"k": "text"
+},
+{
+"t": "Sample questions answered in text",
+"k": "text"
+},
+{
+"t": "Question: Which region would you expect to give a red wine with high tannin, high acidity and pale colour? Answer: Barolo or Barbaresco in Piemonte, from Nebbiolo, which combines a pale, quickly ageing colour with very high tannin and acidity.",
+"k": "text"
+},
+{
+"t": "Question: Which two regions use carbonic maceration and grape drying respectively for red wines? Answer: Beaujolais is known for carbonic and semi-carbonic maceration, which give fruity, low-tannin Gamay; Valpolicella uses dried grapes for Amarone and Recioto.",
+"k": "text"
+},
+{
+"t": "Question: Why can the Douro and the Barossa Valley both make powerful reds? Answer: Both are warm to hot, dry regions where grapes ripen fully, giving high sugar, deep colour and ripe tannins; in the Douro the wine is often fortified to make Port.",
+"k": "text"
+},
+{
+"t": "Mini case study: passing theory, retaking tasting",
+"k": "text"
+},
+{
+"t": "A candidate revised the regions thoroughly and scored well in the theory unit, but spent little time tasting and fell below 55% in the tasting unit. Because WSET Level 3 assesses theory and tasting as two separate units, the theory result was kept and only the tasting had to be retaken. The new plan was simple: two blind wines a week, poured by a friend, a full SAT note for each in a fixed time, and a comparison with a reference description. Region knowledge still helped, because it explained why a wine had high acidity or ripe tannins, but the marks came from accurate, complete descriptions and well-justified quality conclusions.",
+"k": "text"
+},
+{
+"t": "Lesson: balance your preparation. Region study feeds the theory unit, but the tasting unit needs its own regular practice, as each unit needs at least 55% and a strong theory score cannot cover a weak tasting.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "Which regions are most important for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "France, Italy and Spain carry many questions, but the largest topics are actually the principles: winemaking, climate, vineyard management and tasting. Learn Bordeaux, Burgundy, the Rhône, Champagne and the main Italian and Spanish regions in depth, then make sure you can explain the key New World regions through their cooling influences and signature grapes.",
+"k": "text"
+},
+{
+"t": "How many WSET 3 questions should I practise per region?",
+"k": "text"
+},
+{
+"t": "Aim to answer every available question at least twice, with a gap of several days between attempts. For the bigger regions this means well over a hundred answers. More important than the number is reviewing each mistake and writing down the cause and effect you missed, so that the same error does not return.",
+"k": "text"
+},
+{
+"t": "Do WSET 3 written questions focus on one region?",
+"k": "text"
+},
+{
+"t": "Often, yes. A short written-answer question may take a single region or wine and ask you to explain climate, grape, winemaking, style and price. Others compare two regions or focus on a technique such as sparkling or fortified production. Prepare every region with a full cause and effect chain so you can write in depth.",
+"k": "text"
+},
+{
+"t": "Should I study WSET 3 by region or by grape variety?",
+"k": "text"
+},
+{
+"t": "Do both, in that order. Learn each region with a fixed checklist, then build grape cards that compare how one variety behaves in different places. The region view gives you laws and labels; the grape view gives you the comparisons that appear in written questions and in tasting conclusions.",
+"k": "text"
+},
+{
+"t": "How long does it take to revise all WSET 3 regions?",
+"k": "text"
+},
+{
+"t": "With a steady routine, most candidates cover the principles and all regions in eight to twelve weeks, then spend the final weeks on mixed revision and mock exams. Fifteen to thirty minutes a day, combined with longer weekly sessions for writing and tasting, is enough if you keep returning to earlier regions.",
+"k": "text"
+},
+{
+"t": "If I fail the WSET 3 tasting but pass the theory, what happens?",
+"k": "text"
+},
+{
+"t": "WSET Level 3 has two separate units, theory and tasting, and you need at least 55% in each. If you fail one of them, you only retake that unit; the unit you passed is kept. Use the time before the retake to taste blind regularly, write full SAT notes in a fixed time and compare them with reference descriptions.",
+"k": "text"
+},
+{
+"t": "How can I remember the label terms for each region?",
+"k": "text"
+},
+{
+"t": "Group them by region and by meaning: ageing terms (Crianza, Reserva, Gran Reserva, LBV), site hierarchies (Grand Cru, Premier Cru) and ripeness levels (Kabinett to TBA). Make one flashcard per region with its terms on the back, and test yourself on the meaning, not just the word. Questions often ask what a term tells you about style or ageing.",
+"k": "text"
+},
+{
+"t": "Do I need to know vintages for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "You do not need to memorise vintage charts. What matters is understanding why vintages vary: cool, marginal regions such as Champagne, Burgundy or the Mosel are more affected by weather than warm, stable regions. Being able to explain how frost, rain at harvest or a hot summer changes the wine is far more useful in the exam than remembering specific years.",
+"k": "text"
+},
+{
+"t": "Are smaller regions tested in WSET 3, or only the famous ones?",
+"k": "text"
+},
+{
+"t": "The famous regions carry most questions, but the syllabus covers many smaller areas too, and multiple-choice questions can pick any of them. The checklist approach helps: if you know the climate, grapes and main styles of each listed region, you can reason your way through unfamiliar questions. Do not skip a region because it seems minor.",
+"k": "text"
+},
+{
+"t": "Do I have to identify the region in the WSET 3 tasting?",
+"k": "text"
+},
+{
+"t": "No. The tasting unit asks you to describe two wines with the SAT and to reach conclusions on quality and readiness for drinking, not to name the region or grape. Regional knowledge still helps you explain structure and quality, but the marks come from accurate, complete descriptions and well-justified conclusions.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Every WSET Level 3 topic in one place: Bordeaux, Burgundy, Champagne, Rhône, Italy, Spain, Germany, the New World, sherry, port, winemaking, viticulture and the SAT. Free practice questions with answers.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Food and wine pairing",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Storage and service",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Wine pricing and the trade",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The vine and grape varieties",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Climate and environment",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Vineyard management and pruning",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "White wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Red and rosé wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Burgundy and Beaujolais",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Alsace and the Loire",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Rhône Valley",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Southern France",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Italy",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Spain",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Portugal",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Austria and Hungary",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Greece",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "USA and Canada",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Chile and Argentina",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "South Africa",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Australia and New Zealand",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sparkling: Champagne, Prosecco, Cava",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Port and fortified wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

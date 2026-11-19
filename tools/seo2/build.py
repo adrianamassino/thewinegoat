@@ -15,6 +15,10 @@ try:
     IMG = json.load(open(os.path.join(os.path.dirname(__file__), 'images.json'), encoding='utf8'))
 except Exception:
     IMG = {}
+try:  # hand-written meta descriptions (140-158 chars) that replace the automatic cut of over-long descs
+    DESC_FIX = json.load(open(os.path.join(os.path.dirname(__file__), 'desc_fix.json'), encoding='utf8'))
+except Exception:
+    DESC_FIX = {}
 
 ROOT = os.getcwd()
 SITE = 'https://thewinegoat.com'
@@ -62,7 +66,7 @@ def short_desc(d):
     cut = d.rfind(' ', 0, 155); return d[:cut].rstrip(',;:–- ') + '…'
 def page(key, lang):
     global CUR_L; CUR_L = lang
-    P = PAGES[key]; C = dict(P[lang]); C['title'] = short_title(C['title']); C['desc'] = short_desc(C['desc']); U = UI[lang]; slug = P['slug'][lang]; url = SITE + slug
+    P = PAGES[key]; C = dict(P[lang]); C['title'] = short_title(C['title']); U = UI[lang]; slug = P['slug'][lang]; C['desc'] = DESC_FIX.get(slug) or short_desc(C['desc']); url = SITE + slug
     alts = ''.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{P["slug"][l]}">' for l in LANGS) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{P["slug"]["en"]}">'
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "@id": url + "#article", "headline": C['h1'], "description": C['desc'], "inLanguage": lang, "datePublished": DATE, "dateModified": DATE,

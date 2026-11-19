@@ -1,0 +1,1000 @@
+{
+"group": "wset-3-questions__sparkling-wines-champagne",
+"source": "wset-3-questions/sparkling-wines-champagne/index.html",
+"url": "/wset-3-questions/sparkling-wines-champagne/",
+"region": "main",
+"sha": "6992be724a58",
+"words": 3443,
+"segment_words": 3743,
+"segments": [
+{
+"t": "WSET 3 Sparkling: Champagne, Prosecco, Cava",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Sparkling: Champagne, Prosecco, Cava practice questions with answers and explanations, plus 87 more in the app: MCQs, short written…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Sparkling: Champagne, Prosecco, Cava, WSET Level 3 Sparkling: Champagne, Prosecco, Cava, Sparkling: Champagne, Prosecco, Cava WSET questions, Sparkling: Champagne, Prosecco, Cava wine quiz, Sparkling: Champagne, Prosecco, Cava wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Sparkling: Champagne, Prosecco, Cava: practice questions with answers – WSET 3 Sparkling: Champagne, Prosecco (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Sparkling: Champagne, Prosecco, Cava",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Sparkling: Champagne, Prosecco, Cava: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Sparkling: Champagne, Prosecco, Cava, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 87 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Sparkling: Champagne, Prosecco, Cava: practice questions with answers | WSET 3 Sparkling: Champagne",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Sparkling: Champagne, Prosecco, Cava practice questions with answers and explanations, plus 87 more in the app: MCQs, short written….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} By how much does the second fermentation raise a sparkling wine's alcohol?",
+"k": "text"
+},
+{
+"t": "About 5%",
+"k": "text"
+},
+{
+"t": "0.1%",
+"k": "text"
+},
+{
+"t": "About 1.2-1.3%",
+"k": "text"
+},
+{
+"t": "It never raises it",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} About 1.2-1.3%",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} So the aim is a dry 10-11% base wine from low-sugar, high-acid grapes with ripe, non-green flavours.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What does liqueur de tirage contain?",
+"k": "text"
+},
+{
+"t": "Reserve wine, sugar and carbon dioxide",
+"k": "text"
+},
+{
+"t": "Wine, sugar and brandy, to halt fermentation",
+"k": "text"
+},
+{
+"t": "Wine, sugar, yeast, yeast nutrients and a clarifying agent",
+"k": "text"
+},
+{
+"t": "Concentrated must, SO2, tartaric acid and selected yeast",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Wine, sugar, yeast, yeast nutrients and a clarifying agent",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Sealed with a crown cap and plastic insert; slow cool fermentation creates 5-6 atmospheres.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What does yeast autolysis give and how long does it usually last?",
+"k": "text"
+},
+{
+"t": "Tropical fruit and flowers; usually a few weeks after tirage",
+"k": "text"
+},
+{
+"t": "Bread, biscuit and toast; usually 4–5 years (up to 10)",
+"k": "text"
+},
+{
+"t": "Honey and dried fruit; usually 15–20 years, up to 30",
+"k": "text"
+},
+{
+"t": "Vanilla and coconut; usually about a year, up to 18 months",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Bread, biscuit and toast; usually 4–5 years (up to 10)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} After autolysis, keeping lees contact maintains freshness for years.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Grapes for premium sparkling wine often show: sugar / acidity",
+"k": "text"
+},
+{
+"t": "Low / low",
+"k": "text"
+},
+{
+"t": "Low / high",
+"k": "text"
+},
+{
+"t": "High / high",
+"k": "text"
+},
+{
+"t": "High / low",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Low / high",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Base wine: just-ripe grapes, low sugar (10–11% abv) and high acidity.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Champagne: grape / contribution",
+"k": "text"
+},
+{
+"t": "Chardonnay / body and red fruit",
+"k": "text"
+},
+{
+"t": "Meunier / longevity and finesse, Montagne de Reims",
+"k": "text"
+},
+{
+"t": "Meunier / early fruitiness, more frost-resistant",
+"k": "text"
+},
+{
+"t": "Pinot Noir / acidity and citrus, Côte des Blancs",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Meunier / early fruitiness, more frost-resistant",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Chardonnay: citrus, finesse (Côte des Blancs); Pinot Noir: body, red fruit (Montagne); Meunier: fruit, frost (Marne).",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which grapes are used for a 'Blanc de Noirs' Champagne?",
+"k": "text"
+},
+{
+"t": "Chardonnay only, aged long on the lees",
+"k": "text"
+},
+{
+"t": "White and black grapes, with red wine added",
+"k": "text"
+},
+{
+"t": "Black grapes macerated on their skins for colour",
+"k": "text"
+},
+{
+"t": "Black grapes only: Pinot Noir and/or Meunier",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Black grapes only: Pinot Noir and/or Meunier",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Blanc de Noirs = white wine from black grapes; Blanc de Blancs = Chardonnay only.",
+"k": "text"
+},
+{
+"t": "Study notes: sparkling wines for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 sparkling wine questions test two things: whether you can explain each production method step by step, and whether you can link a method to a region and a style, from Champagne and Cava to Prosecco and Asti. These revision notes cover the traditional, transfer, tank and Asti methods, the regions and minimum lees-ageing rules you are expected to know, and the sweetness terms, using the cause, effect and style reasoning that earns marks in the short written answers.",
+"k": "text"
+},
+{
+"t": "Why the method decides the style",
+"k": "text"
+},
+{
+"t": "Every sparkling wine needs carbon dioxide trapped in the wine, and the way that gas is created explains most of the style. If the second fermentation happens in the bottle and the wine then stays on the dead yeast (lees) for a long time, yeast autolysis adds bread, biscuit and toast notes and a finer texture. If the second fermentation happens in a pressurised tank and the wine is bottled quickly, primary fruit and floral aromas stay at the front, and costs are lower. A quotable exam sentence: the traditional method gives complexity from autolysis, while the tank method preserves fresh primary fruit.",
+"k": "text"
+},
+{
+"t": "Traditional method step by step (WSET 3 Champagne)",
+"k": "text"
+},
+{
+"t": "Harvest and pressing: grapes are usually hand-picked as whole bunches and pressed gently to obtain clear juice with little colour or bitter phenolics from the skins; in Champagne, the first, finest juice is the cuvée and the later fraction is the taille.",
+"k": "text"
+},
+{
+"t": "First fermentation: produces dry, high-acid base wines; malolactic conversion may be encouraged or blocked depending on the house style.",
+"k": "text"
+},
+{
+"t": "Blending (assemblage): base wines from different grapes, villages and years are blended; reserve wines from earlier vintages add consistency and complexity to non-vintage wines.",
+"k": "text"
+},
+{
+"t": "Tirage: the blend is bottled with liqueur de tirage and sealed with a crown cap.",
+"k": "text"
+},
+{
+"t": "Second fermentation in bottle: creates alcohol and carbon dioxide, which dissolves under pressure; dead yeast cells form the lees.",
+"k": "text"
+},
+{
+"t": "Lees ageing: autolysis slowly releases compounds that add bready, biscuity flavours and a creamier mousse.",
+"k": "text"
+},
+{
+"t": "Riddling (remuage): bottles are gradually turned and tilted neck-down, by hand or in a gyropalette, so the lees collect in the neck.",
+"k": "text"
+},
+{
+"t": "Disgorgement: the neck is frozen and the cap removed; pressure expels the plug of frozen lees.",
+"k": "text"
+},
+{
+"t": "Dosage: liqueur d'expédition (wine and sugar) is added to adjust sweetness, then the bottle is closed with a cork and wire cage.",
+"k": "text"
+},
+{
+"t": "After disgorgement, a sparkling wine kept in bottle develops further, with notes of toast, honey and nuts. Disgorgement is therefore a key moment: wine aged on the lees stays fresh, while wine aged after disgorgement develops more quickly.",
+"k": "text"
+},
+{
+"t": "Champagne for WSET Level 3: climate, regions and rules",
+"k": "text"
+},
+{
+"t": "Champagne, in northern France, is one of the most northerly vineyard areas in Europe, with a cool continental climate and some maritime influence. Grapes ripen with difficulty, giving the low-sugar, high-acid base wines that sparkling wine needs. Spring frost is the major hazard, and vintages vary, which is why blending across years and keeping reserve wines are so important. Chalk subsoils drain well while retaining enough water for the vines, and their colour reflects heat. The main areas are the Montagne de Reims, the Vallée de la Marne, the Côte des Blancs and the Côte des Bar in the Aube, further south.",
+"k": "text"
+},
+{
+"t": "Champagne term",
+"k": "text"
+},
+{
+"t": "Meaning",
+"k": "text"
+},
+{
+"t": "Exam point",
+"k": "text"
+},
+{
+"t": "Non-vintage (NV)",
+"k": "text"
+},
+{
+"t": "Blend of several years",
+"k": "text"
+},
+{
+"t": "At least 15 months before release, including at least 12 on the lees",
+"k": "text"
+},
+{
+"t": "Vintage",
+"k": "text"
+},
+{
+"t": "Single declared year",
+"k": "text"
+},
+{
+"t": "At least 3 years before release; made only in good years",
+"k": "text"
+},
+{
+"t": "Grand Cru / Premier Cru",
+"k": "text"
+},
+{
+"t": "Village-level classification",
+"k": "text"
+},
+{
+"t": "17 villages are Grand Cru",
+"k": "text"
+},
+{
+"t": "Blanc de Blancs",
+"k": "text"
+},
+{
+"t": "Chardonnay only",
+"k": "text"
+},
+{
+"t": "Citrus, finesse; Côte des Blancs",
+"k": "text"
+},
+{
+"t": "Rosé",
+"k": "text"
+},
+{
+"t": "Pink Champagne",
+"k": "text"
+},
+{
+"t": "Usually made by blending red and white wine, or by short maceration",
+"k": "text"
+},
+{
+"t": "Prestige cuvée",
+"k": "text"
+},
+{
+"t": "A house's top wine",
+"k": "text"
+},
+{
+"t": "Best sites, long lees ageing",
+"k": "text"
+},
+{
+"t": "Remember that rosé Champagne is unusual in the EU because it can be made by blending a little still red wine into white base wine before the second fermentation. Many houses age their non-vintage wines on the lees well beyond the legal minimum to build their house style.",
+"k": "text"
+},
+{
+"t": "Exam technique: if asked why non-vintage Champagne tastes consistent from year to year, give the chain: the cool climate makes vintages variable, so houses blend wines from several villages, grapes and years, including stored reserve wines, which smooths out vintage variation and maintains the house style.",
+"k": "text"
+},
+{
+"t": "Other traditional-method sparkling wines",
+"k": "text"
+},
+{
+"t": "Cava (Spain)",
+"k": "text"
+},
+{
+"t": "Cava is a traditional-method sparkling wine made mostly in Penedès, Catalonia, in a much warmer climate than Champagne. The main grapes are the local Macabeo, Xarel·lo and Parellada; Chardonnay and Pinot Noir are also permitted, and Garnacha and other black grapes are used for rosado. Minimum lees ageing is 9 months, 18 months for Reserva and 30 months for Gran Reserva, with a longer minimum for single-site Cava de Paraje Calificado. Because the climate is warmer, the wines show riper fruit and, in most cases, less pronounced autolytic character than Champagne, with good value at the entry level.",
+"k": "text"
+},
+{
+"t": "Crémant, Franciacorta and the New World",
+"k": "text"
+},
+{
+"t": "French crémants, such as Crémant d'Alsace, Crémant de Bourgogne, Crémant de Loire and Crémant de Limoux, follow the traditional method with a minimum of 9 months on the lees and use local grapes. Saumur and Vouvray make traditional-method sparkling wines from Chenin Blanc. In Italy, Franciacorta DOCG in Lombardy uses Chardonnay, Pinot Nero and Pinot Bianco with at least 18 months on the lees for non-vintage wines; Satèn is its softer, lower-pressure style, made from white grapes only. Trento DOC is another Italian traditional-method area. Cool New World areas such as Tasmania, Carneros, Marlborough and southern England make traditional-method wines from the Champagne grapes.",
+"k": "text"
+},
+{
+"t": "Transfer, tank and Asti methods for WSET 3",
+"k": "text"
+},
+{
+"t": "The transfer method starts like the traditional method, with a second fermentation and lees ageing in bottle. The bottles are then emptied into a pressurised tank, where the wine is filtered to remove the lees, dosage is added, and the wine is rebottled. It saves the cost of riddling and disgorgement and is useful for very small and very large bottle sizes.",
+"k": "text"
+},
+{
+"t": "In the tank method, sometimes called the Charmat method, the base wine undergoes its second fermentation in a sealed, pressurised tank; the wine is then filtered, dosage is added and it is bottled under pressure. The process is quicker and cheaper, and it preserves the aromatic, primary fruit of grapes such as Glera. Prosecco is the key example: produced in Veneto and Friuli Venezia Giulia, it shows pear, apple, melon and blossom aromas and is made in fully sparkling (spumante) and lightly sparkling (frizzante) versions. The top areas are the hills of Conegliano Valdobbiadene Prosecco Superiore DOCG and Asolo Prosecco DOCG; Cartizze is a celebrated hillside within Valdobbiadene. Prosecco DOC also allows a rosé style that includes Pinot Nero.",
+"k": "text"
+},
+{
+"t": "The Asti method uses a single fermentation. Moscato Bianco juice is chilled and stored until needed, then fermented in a sealed tank; carbon dioxide is retained and fermentation is stopped by chilling and filtration while plenty of sugar remains. Asti DOCG is fully sparkling, sweet and low in alcohol, while Moscato d'Asti DOCG is only lightly sparkling, sweeter and even lower in alcohol. Both should be drunk young for their fresh grape, peach and orange blossom aromas.",
+"k": "text"
+},
+{
+"t": "Sweetness terms and serving for WSET 3 sparkling wines",
+"k": "text"
+},
+{
+"t": "Brut Nature: no added sugar; very dry.",
+"k": "text"
+},
+{
+"t": "Extra Brut: very dry, with only a small dosage.",
+"k": "text"
+},
+{
+"t": "Brut: dry; the most common style for Champagne and Cava.",
+"k": "text"
+},
+{
+"t": "Extra Dry and Sec (Dry): confusingly, these are off-dry, sweeter than Brut; Prosecco is often Extra Dry.",
+"k": "text"
+},
+{
+"t": "Demi-Sec: medium-sweet, a match for fruit desserts.",
+"k": "text"
+},
+{
+"t": "Doux: sweet; rare today.",
+"k": "text"
+},
+{
+"t": "Serve sparkling wines well chilled, around 6 to 10 °C, to keep the bubbles fine and the wine refreshing. Open the bottle by holding the cork and turning the bottle slowly, letting the gas escape with a quiet sigh rather than a pop, because the pressure inside is high.",
+"k": "text"
+},
+{
+"t": "How to revise sparkling wines for WSET 3 in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: write the nine traditional-method steps from memory, then check them.",
+"k": "text"
+},
+{
+"t": "Day 2: compare traditional, transfer, tank and Asti methods in a four-column table.",
+"k": "text"
+},
+{
+"t": "Day 3: learn the minimum lees ageing for NV and vintage Champagne, Cava, crémant and Franciacorta.",
+"k": "text"
+},
+{
+"t": "Day 4: link each Champagne grape to its area and contribution.",
+"k": "text"
+},
+{
+"t": "Day 5: write a five-minute answer on 'Why does Prosecco taste different from Champagne?'.",
+"k": "text"
+},
+{
+"t": "Day 6: run the sparkling question set in the app and record every wrong answer.",
+"k": "text"
+},
+{
+"t": "Day 7: memorise the sweetness scale, paying attention to Extra Dry and Sec.",
+"k": "text"
+},
+{
+"t": "Common mistake: writing that Extra Dry is drier than Brut. It is the opposite: Extra Dry and Sec are sweeter than Brut. Another frequent slip is saying Asti undergoes two fermentations; it has only one, stopped while sugar remains.",
+"k": "text"
+},
+{
+"t": "The four sparkling methods compared",
+"k": "text"
+},
+{
+"t": "Many multiple-choice distractors swap one detail between methods, so it pays to see them side by side. Read across each row and check that you can explain why each difference changes the style.",
+"k": "text"
+},
+{
+"t": "Method",
+"k": "text"
+},
+{
+"t": "Where the bubbles form",
+"k": "text"
+},
+{
+"t": "Lees contact",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Examples",
+"k": "text"
+},
+{
+"t": "Traditional",
+"k": "text"
+},
+{
+"t": "Second fermentation in the bottle sold",
+"k": "text"
+},
+{
+"t": "Can be long, in bottle",
+"k": "text"
+},
+{
+"t": "Autolytic bread and toast notes, fine mousse",
+"k": "text"
+},
+{
+"t": "Champagne, Cava, Franciacorta, crémant",
+"k": "text"
+},
+{
+"t": "Transfer",
+"k": "text"
+},
+{
+"t": "Second fermentation in bottle, then emptied into a tank",
+"k": "text"
+},
+{
+"t": "In bottle before transfer",
+"k": "text"
+},
+{
+"t": "Similar to traditional, at lower cost",
+"k": "text"
+},
+{
+"t": "Small and very large bottle sizes, some New World wines",
+"k": "text"
+},
+{
+"t": "Tank",
+"k": "text"
+},
+{
+"t": "Second fermentation in a pressurised tank",
+"k": "text"
+},
+{
+"t": "Usually short",
+"k": "text"
+},
+{
+"t": "Fresh primary fruit and floral aromas",
+"k": "text"
+},
+{
+"t": "Prosecco, many inexpensive sparkling wines",
+"k": "text"
+},
+{
+"t": "Asti",
+"k": "text"
+},
+{
+"t": "Single fermentation in a sealed tank, stopped early",
+"k": "text"
+},
+{
+"t": "None to speak of",
+"k": "text"
+},
+{
+"t": "Sweet, low alcohol, grapey and floral",
+"k": "text"
+},
+{
+"t": "Asti DOCG, Moscato d'Asti DOCG",
+"k": "text"
+},
+{
+"t": "Worked examples: sparkling wine short written answers",
+"k": "text"
+},
+{
+"t": "Question 1: Explain why Meunier is widely planted in the Vallée de la Marne. Model answer: the valley floor is prone to spring frost. Meunier buds later than Chardonnay and Pinot Noir, so its young shoots are less likely to be damaged, and it ripens reliably, which matters in a cool, marginal climate. It gives fruity base wines that add roundness to a blend and are approachable relatively young, which is why it is valued in many non-vintage blends.",
+"k": "text"
+},
+{
+"t": "Question 2: Explain why a vintage Champagne and a Prosecco taste different and sell at different prices. Model answer: Prosecco is made from aromatic Glera by the tank method and bottled soon after the second fermentation, so it shows fresh pear, apple and blossom, with little lees character; the process is quick and cheap, and large volumes are produced. A vintage Champagne comes from Chardonnay and Pinot grapes in a cool climate, with a second fermentation in bottle and at least three years before release, so autolysis gives biscuit and toast notes and a finer mousse. Hand harvesting, gentle pressing, long ageing, riddling and disgorgement, made only in good years, all raise the cost, and the region's reputation raises demand.",
+"k": "text"
+},
+{
+"t": "Where sparkling wines fit in the WSET Level 3 exam",
+"k": "text"
+},
+{
+"t": "Level 3 is assessed in two separate units, each needing at least 55%: the theory unit, with 50 multiple-choice questions and 4 short written-answer questions, and the tasting unit, with two wines assessed blind. The units are marked independently, so a failed unit is retaken on its own while the unit you passed stays valid. In theory, sparkling wine questions usually test production steps, minimum lees ageing and the link between method and style. For tasting practice, compare a non-vintage Champagne with a Prosecco: the difference in mousse, autolytic aromas, sweetness and length trains you to describe texture and complexity precisely.",
+"k": "text"
+},
+{
+"t": "Common mistakes in sparkling wine answers",
+"k": "text"
+},
+{
+"t": "Saying that riddling removes the yeast: it only moves the lees into the neck; disgorgement removes them.",
+"k": "text"
+},
+{
+"t": "Describing the liqueur de tirage and the liqueur d'expédition as the same thing: the first starts the second fermentation, the second is the dosage that sets the final sweetness.",
+"k": "text"
+},
+{
+"t": "Forgetting that rosé Champagne can be made by blending red and white wine, an exception in the EU.",
+"k": "text"
+},
+{
+"t": "Writing that Prosecco is made from Prosecco grapes: the main variety is Glera.",
+"k": "text"
+},
+{
+"t": "Exam technique: if a question names a style, such as Blanc de Blancs or Moscato d'Asti, start your answer by naming the grape and the method. That one line often secures two marks before you explain anything else.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "87 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Sparkling: Champagne, Prosecco, Cava are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 87 multiple-choice questions on Sparkling: Champagne, Prosecco, Cava, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Sparkling: Champagne, Prosecco, Cava important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Sparkling: Champagne, Prosecco, Cava, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between the traditional method and the tank method at WSET 3?",
+"k": "text"
+},
+{
+"t": "In the traditional method, the second fermentation takes place in the bottle, and the wine ages on its lees, gaining bread, biscuit and toast notes from autolysis before riddling and disgorgement. In the tank method, the second fermentation happens in a pressurised tank and the wine is bottled soon after, so it keeps fresh primary fruit and floral aromas and is cheaper to make.",
+"k": "text"
+},
+{
+"t": "What are the minimum lees-ageing rules for Champagne, Cava and Franciacorta?",
+"k": "text"
+},
+{
+"t": "Non-vintage Champagne must age at least 15 months before release, including at least 12 months on the lees; vintage Champagne at least 3 years. Cava needs at least 9 months on the lees, 18 months for Reserva and 30 for Gran Reserva. Franciacorta non-vintage needs at least 18 months on the lees, and French crémants at least 9 months.",
+"k": "text"
+},
+{
+"t": "How is the Asti method different from other sparkling methods?",
+"k": "text"
+},
+{
+"t": "The Asti method uses a single fermentation in a sealed tank. Moscato juice ferments, carbon dioxide is retained, and fermentation is stopped by chilling and filtering while a lot of sugar remains. The result is a sweet, aromatic, low-alcohol sparkling wine. Asti DOCG is fully sparkling; Moscato d'Asti DOCG is only lightly sparkling and lower in alcohol.",
+"k": "text"
+},
+{
+"t": "Is Extra Dry Prosecco drier than Brut?",
+"k": "text"
+},
+{
+"t": "No. In sparkling wine sweetness terms, Extra Dry is sweeter than Brut and is classed as off-dry. The order from driest to sweetest is Brut Nature, Extra Brut, Brut, Extra Dry, Sec (Dry), Demi-Sec and Doux. Many Prosecco wines are labelled Extra Dry, which gives a hint of sweetness that balances their high acidity and fruity aromas.",
+"k": "text"
+},
+{
+"t": "Why are reserve wines important in non-vintage Champagne?",
+"k": "text"
+},
+{
+"t": "Champagne's cool, marginal climate means quantity and quality vary greatly from year to year. Reserve wines, kept from earlier vintages, are blended into the non-vintage cuvée to smooth out these differences and maintain a consistent house style. Older reserve wines can also add complexity and roundness, which is why some houses keep large stocks of them.",
+"k": "text"
+},
+{
+"t": "What is Blanc de Noirs Champagne?",
+"k": "text"
+},
+{
+"t": "Blanc de Noirs is a white Champagne made only from black grapes, Pinot Noir and Meunier, or one of the two. Gentle whole-bunch pressing keeps colour from the skins out of the juice. Compared with Blanc de Blancs, the wines usually have more body and red fruit character. The Montagne de Reims and the Côte des Bar, both rich in Pinot Noir, are typical sources.",
+"k": "text"
+},
+{
+"t": "What does Meunier bring to a Champagne blend?",
+"k": "text"
+},
+{
+"t": "Meunier gives fruity, supple base wines that add roundness and make a blend approachable at a younger age. Because it buds late and ripens reliably, it suits frost-prone sites such as the Vallée de la Marne. It is often described as less long-lived than Chardonnay or Pinot Noir, but several producers make complex wines from it, so treat it as a full partner of the Champagne blend.",
+"k": "text"
+},
+{
+"t": "Why should Prosecco usually be drunk young?",
+"k": "text"
+},
+{
+"t": "Prosecco's appeal lies in the fresh primary aromas of Glera: pear, apple, melon and white flowers. The tank method preserves those aromas, but the wine has spent little time on the lees, so it gains no autolytic complexity to replace them as they fade. After a year or two in bottle the fruit loses freshness, so most Prosecco is best enjoyed soon after release.",
+"k": "text"
+},
+{
+"t": "How should I describe a sparkling wine in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "Use the same systematic approach as for still wines, adding the mousse: how fine, persistent and creamy the bubbles feel on the palate. Note autolytic aromas such as bread, biscuit or brioche, the level of sweetness and the acidity, then judge balance, length, intensity and complexity. A well-justified conclusion on quality matters more than guessing whether the wine is Champagne, Cava or another style.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Sparkling: Champagne, Prosecco, Cava – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Sparkling: Champagne, Prosecco, Cava practice questions with answers and explanations, plus 87 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 Sparkling: Champagne, Prosecco, Cava, WSET Level 3 Sparkling: Champagne, Sparkling: Champagne, Cava WSET questions, Cava wine quiz, Cava wine exam questions",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "By how much does the second fermentation raise a sparkling wine's alcohol?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "So the aim is a dry 10-11% base wine from low-sugar, high-acid grapes with ripe, non-green flavours.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What does liqueur de tirage contain?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sealed with a crown cap and plastic insert; slow cool fermentation creates 5-6 atmospheres.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What does yeast autolysis give and how long does it usually last?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "After autolysis, keeping lees contact maintains freshness for years.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Grapes for premium sparkling wine often show: sugar / acidity",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Base wine: just-ripe grapes, low sugar (10–11% abv) and high acidity.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Champagne: grape / contribution",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Chardonnay: citrus, finesse (Côte des Blancs); Pinot Noir: body, red fruit (Montagne); Meunier: fruit, frost (Marne).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which grapes are used for a 'Blanc de Noirs' Champagne?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Blanc de Noirs = white wine from black grapes; Blanc de Blancs = Chardonnay only.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}
