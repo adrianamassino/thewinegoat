@@ -11,7 +11,7 @@ trace() {  # hop by hop (max 6); sets FINAL and HOPS
     out="$out$c ${l:-–}"
     if [ "${c:0:1}" = "3" ] && [ -n "$l" ] && [ $n -lt 6 ]; then out="$out ; "; u="$l"; n=$((n+1)); else FINAL="$u ($c)"; HOPS=$n; break; fi
   done
-  echo "$out"
+  TRACE="$out"
 }
 echo "## A. HTTPS certificate presented by the server (openssl s_client, live)"
 echo '```'
@@ -34,7 +34,7 @@ echo "|---|---|---|---|---|"
 PASS=0; FAIL=0
 for p in "/" "/wset-level-1/" "/wset-level-2/" "/wset-level-3-practice-questions/" "/wset-level-3-mock-exam/" "/wset-systematic-approach-to-tasting/" "/it/" "/de/wset-level-2/" "/wset-level-2/?utm_source=test&x=1"; do
   for base in "http://$D" "https://$D" "http://www.$D" "https://www.$D"; do
-    u="$base$p"; h=$(trace "$u"); want="https://$D$p"
+    u="$base$p"; trace "$u"; h="$TRACE"; want="https://$D$p"
     if [ "$base" = "https://$D" ]; then [ "$FINAL" = "$want (200)" ] && [ $HOPS -eq 0 ] && ok=PASS || ok=FAIL
     else [ "$FINAL" = "$want (200)" ] && [ $HOPS -eq 1 ] && ok=PASS || ok=FAIL; fi
     [ $ok = PASS ] && PASS=$((PASS+1)) || FAIL=$((FAIL+1))
@@ -44,7 +44,7 @@ done
 echo
 echo "**REDIRECT MATRIX: $PASS PASS, $FAIL FAIL**"
 echo
-echo "Extra: \`https://$D/wset-level-2\` (no trailing slash) → $(trace "https://$D/wset-level-2") → final $FINAL"
+trace "https://$D/wset-level-2"; echo "Extra: \`https://$D/wset-level-2\` (no trailing slash) → $TRACE → final $FINAL"
 echo
 echo "## D. Sitemap vs published canonical pages (live, every URL fetched)"
 curl -s -m 60 "https://$D/sitemap.xml" -o /tmp/sm.xml -w "GET /sitemap.xml → %{http_code} %{content_type} %{size_download} bytes\n\n"
