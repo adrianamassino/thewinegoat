@@ -343,6 +343,8 @@ def main():
     n = guides_sync(lm)
     gs, hs = sitemap_sync(lm, homes, home_alts)
     nl = llms_sync(lm)
+    if os.path.exists('tools/seo_tech/variant_titles.py'):  # es-ar / pt-br pages get their own <title> (not identical to es / pt)
+        os.system(f'{sys.executable} tools/seo_tech/variant_titles.py >/dev/null')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); sitemap: {gs} guide + {hs} home URLs in the i18n blocks; llms.txt: {nl} links')
 
 
