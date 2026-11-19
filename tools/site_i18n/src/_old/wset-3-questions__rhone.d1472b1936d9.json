@@ -1,0 +1,1107 @@
+{
+"group": "wset-3-questions__rhone",
+"source": "wset-3-questions/rhone/index.html",
+"url": "/wset-3-questions/rhone/",
+"region": "main",
+"sha": "d1472b1936d9",
+"words": 3440,
+"segment_words": 3702,
+"segments": [
+{
+"t": "WSET 3 Rhône Valley – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Rhône Valley practice questions with answers and explanations, plus 59 more in the app: MCQs, short written answers, flashcards and mock…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Rhône Valley, WSET Level 3 Rhône Valley, Rhône Valley WSET questions, Rhône Valley wine quiz, Rhône Valley wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Rhône Valley: practice questions with answers – WSET 3 Rhône Valley, WSET Level 3 Rhône Valley (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Rhône Valley",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Rhône Valley: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Rhône Valley, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 59 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Rhône Valley: practice questions with answers | WSET 3 Rhône Valley",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Rhône Valley practice questions with answers and explanations, plus 59 more in the app: MCQs, short written answers, flashcards and mock….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Between which towns are the Northern Rhône vineyards?",
+"k": "text"
+},
+{
+"t": "Between Mâcon in the north and Lyon in the south",
+"k": "text"
+},
+{
+"t": "Between Valence in the north and Orange in the south",
+"k": "text"
+},
+{
+"t": "Between Lyon in the north and Avignon in the south",
+"k": "text"
+},
+{
+"t": "Between Vienne in the north and Valence in the south",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Between Vienne in the north and Valence in the south",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} They are a small share of Rhône production but home to many premium wines.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What do the Northern Rhône's lateral valleys protect against?",
+"k": "text"
+},
+{
+"t": "The mistral, a cold north wind that can damage vines",
+"k": "text"
+},
+{
+"t": "Spring frosts that settle in low-lying spots",
+"k": "text"
+},
+{
+"t": "Summer hail brought by Alpine thunderstorms",
+"k": "text"
+},
+{
+"t": "River fogs, which encourage grey rot on Syrah",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The mistral, a cold north wind that can damage vines",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The best sites are steep south-facing slopes; vines are on single stakes or tepee arrangements.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What climate does the Northern Rhône have?",
+"k": "text"
+},
+{
+"t": "Maritime, with strong Atlantic influence",
+"k": "text"
+},
+{
+"t": "Cool continental, like Champagne",
+"k": "text"
+},
+{
+"t": "Moderate continental, similar to Beaujolais",
+"k": "text"
+},
+{
+"t": "Warm Mediterranean, like Châteauneuf's",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Moderate continental, similar to Beaujolais",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is noticeably cooler than the Southern Rhône.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is the only black grape permitted in the Northern Rhône?",
+"k": "text"
+},
+{
+"t": "Cinsault",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Mourvèdre",
+"k": "text"
+},
+{
+"t": "Syrah",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Syrah",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is at its northern ripening limit; prized sites are very steep and south-facing. Deep wines, medium-high tannin, black fruit, sometimes pepper or floral.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} How are vines supported on the steep Northern Rhône slopes?",
+"k": "text"
+},
+{
+"t": "As free-standing bush vines with no support",
+"k": "text"
+},
+{
+"t": "With high horizontal pergolas that shade the bunches",
+"k": "text"
+},
+{
+"t": "With an individual stake or a tepee of stakes",
+"k": "text"
+},
+{
+"t": "On modern four-cordon wire trellises",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} With an individual stake or a tepee of stakes",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Northern Rhône: steep south-facing slopes by the river, lateral valleys sheltered from the mistral; individual stakes.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What do Marsanne and Roussanne contribute in a blend?",
+"k": "text"
+},
+{
+"t": "Marsanne acidity and flowers, Roussanne colour and light tannin",
+"k": "text"
+},
+{
+"t": "Marsanne richness and weight, Roussanne acidity and perfumed fruit",
+"k": "text"
+},
+{
+"t": "Both residual sweetness and musky, Muscat-like notes",
+"k": "text"
+},
+{
+"t": "Both mainly tannin and colour from the skins",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Marsanne richness and weight, Roussanne acidity and perfumed fruit",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Less aromatic than Viognier, they age well, developing hazelnut aromas.",
+"k": "text"
+},
+{
+"t": "Study notes: the Rhône Valley for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Rhône questions almost always start from the split between two very different areas. The Northern Rhône is a narrow strip of steep slopes with a moderate continental climate, where Syrah is the only black grape. The Southern Rhône is a wide, open area with a warm Mediterranean climate, where Grenache-based blends dominate and volumes are much larger. If you can explain why the two halves differ and name the key appellations and grapes of each, you can answer most Rhône Valley questions.",
+"k": "text"
+},
+{
+"t": "Northern Rhône vs Southern Rhône: the big picture",
+"k": "text"
+},
+{
+"t": "Northern Rhône",
+"k": "text"
+},
+{
+"t": "Southern Rhône",
+"k": "text"
+},
+{
+"t": "Climate",
+"k": "text"
+},
+{
+"t": "Moderate continental",
+"k": "text"
+},
+{
+"t": "Warm Mediterranean",
+"k": "text"
+},
+{
+"t": "Landscape",
+"k": "text"
+},
+{
+"t": "Steep, terraced slopes along the river",
+"k": "text"
+},
+{
+"t": "Wide, flatter area with varied soils, including large pebbles in places",
+"k": "text"
+},
+{
+"t": "Black grapes",
+"k": "text"
+},
+{
+"t": "Syrah only",
+"k": "text"
+},
+{
+"t": "Grenache, with Syrah, Mourvèdre, Cinsault, Carignan",
+"k": "text"
+},
+{
+"t": "White grapes",
+"k": "text"
+},
+{
+"t": "Viognier, Marsanne, Roussanne",
+"k": "text"
+},
+{
+"t": "Grenache Blanc, Clairette, Bourboulenc, Roussanne, Viognier",
+"k": "text"
+},
+{
+"t": "Vine training",
+"k": "text"
+},
+{
+"t": "Single stakes or tepees of stakes",
+"k": "text"
+},
+{
+"t": "Mostly low bush vines",
+"k": "text"
+},
+{
+"t": "Share of production",
+"k": "text"
+},
+{
+"t": "Small, many premium wines",
+"k": "text"
+},
+{
+"t": "The great majority of Rhône wine",
+"k": "text"
+},
+{
+"t": "The mistral, a cold, dry north wind, affects both halves. In the north the best vineyards are on south-facing slopes in lateral valleys that shelter them from it. In the south it is a mixed blessing: it can damage shoots and reduce yields, but it dries the vines after rain and so reduces the risk of fungal disease. Low bush vines resist the wind well, which is one reason they are traditional in the south.",
+"k": "text"
+},
+{
+"t": "Northern Rhône appellations for WSET 3",
+"k": "text"
+},
+{
+"t": "In the Northern Rhône, Syrah is at its northern ripening limit, so site selection decides quality: steep, south-facing slopes capture more sunlight and give the ripest grapes. Wines are deep in colour with medium to high tannin, black fruit and often notes of black pepper, violets and, with age, meaty and leathery aromas.",
+"k": "text"
+},
+{
+"t": "Red appellations",
+"k": "text"
+},
+{
+"t": "Côte-Rôtie: very steep slopes in the far north; Syrah may be co-fermented with up to 20% Viognier, which stabilises colour and adds floral perfume. Elegant, fragrant, age-worthy wines.",
+"k": "text"
+},
+{
+"t": "Hermitage: a famous south-facing granite hill above the town of Tain; Syrah with up to 15% Marsanne and Roussanne permitted. Full-bodied, high in tannin, long-lived. A small amount of white Hermitage is also made.",
+"k": "text"
+},
+{
+"t": "Cornas: 100% Syrah; powerful, deeply coloured, tannic wines from a warm, sheltered amphitheatre of slopes.",
+"k": "text"
+},
+{
+"t": "Saint-Joseph: a long appellation on the west bank; quality and style vary with site, from lighter to concentrated wines; red and white.",
+"k": "text"
+},
+{
+"t": "Crozes-Hermitage: the largest Northern Rhône appellation, much of it on flatter land; many fruity, medium-bodied reds for earlier drinking, as well as more premium examples.",
+"k": "text"
+},
+{
+"t": "White appellations",
+"k": "text"
+},
+{
+"t": "Condrieu is made entirely from Viognier: full-bodied, low to medium acidity, intense apricot, peach and blossom aromas, usually best drunk young. Château-Grillet is a tiny Viognier appellation within the Condrieu area. Saint-Péray makes whites, including sparkling wines, from Marsanne and Roussanne. Marsanne gives body and richness, Roussanne acidity and perfume; both develop nutty aromas with age.",
+"k": "text"
+},
+{
+"t": "Common mistake: writing that Côte-Rôtie is a blend of Syrah and Grenache. Grenache plays no role in the Northern Rhône. The two permitted white additions to know are Viognier in Côte-Rôtie (up to 20%) and Marsanne or Roussanne in Hermitage (up to 15%).",
+"k": "text"
+},
+{
+"t": "Southern Rhône appellations and grapes",
+"k": "text"
+},
+{
+"t": "The Southern Rhône has a warm Mediterranean climate with hot, dry summers, so drought can be a problem and grapes ripen easily. Grenache is the leading black grape because it thrives in heat and drought and resists wind on its bush vines. It gives high alcohol, red fruit and spice, medium tannin and relatively light colour, and it oxidises easily, so it is often matured in large old oak or concrete rather than new barriques. Syrah adds colour, tannin and black fruit; Mourvèdre, which needs a lot of heat to ripen, adds tannin, colour and gamey, meaty notes; Cinsault adds fresh red fruit, especially in rosé.",
+"k": "text"
+},
+{
+"t": "The Côtes du Rhône hierarchy",
+"k": "text"
+},
+{
+"t": "Côtes du Rhône: the regional appellation, covering a large area mostly in the south; fruity, easy reds, as well as rosés and whites.",
+"k": "text"
+},
+{
+"t": "Côtes du Rhône Villages: a smaller area of better sites with stricter rules, including lower yields, giving more concentrated wines.",
+"k": "text"
+},
+{
+"t": "Côtes du Rhône Villages with a village name: specific villages that may add their name to the label.",
+"k": "text"
+},
+{
+"t": "Crus: the top villages with their own appellation, such as Châteauneuf-du-Pape, Gigondas, Vacqueyras, Rasteau, Vinsobres, Cairanne, Lirac and Tavel.",
+"k": "text"
+},
+{
+"t": "Key crus to know",
+"k": "text"
+},
+{
+"t": "Châteauneuf-du-Pape: more than a dozen permitted varieties, with Grenache usually dominant; some vineyards are covered with large rounded pebbles (galets roulés) that store heat. Full-bodied, high-alcohol reds with ripe red fruit and spice; a smaller amount of white is made.",
+"k": "text"
+},
+{
+"t": "Gigondas and Vacqueyras: Grenache-based reds, full-bodied and structured, close in style to Châteauneuf-du-Pape but usually less expensive.",
+"k": "text"
+},
+{
+"t": "Tavel: rosé only; deeper and fuller than most rosés, from Grenache and Cinsault.",
+"k": "text"
+},
+{
+"t": "Lirac: red, white and rosé, on the west bank near Tavel.",
+"k": "text"
+},
+{
+"t": "Beaumes-de-Venise and Rasteau: known for vins doux naturels, sweet fortified wines; Muscat de Beaumes-de-Venise is made from Muscat Blanc à Petits Grains.",
+"k": "text"
+},
+{
+"t": "Rhône winemaking choices",
+"k": "text"
+},
+{
+"t": "In the north, traditional producers may use whole bunches and large, old oak, while modern producers destem and use a proportion of new barriques, giving more obvious oak and a more polished texture. Co-fermenting Viognier with Syrah in Côte-Rôtie happens during fermentation, not as a later blend. Condrieu needs careful harvest timing: picked too early, Viognier lacks aroma; too late, it becomes flabby and alcoholic. In the south, blends are the norm because each grape contributes something: Grenache alcohol and body, Syrah colour, Mourvèdre structure. Vins doux naturels are made by adding grape spirit during fermentation to keep natural sweetness.",
+"k": "text"
+},
+{
+"t": "Exam technique: for a Southern Rhône red, explain why Grenache is high in alcohol (warm climate, easy ripening, high sugar) but light in colour (thinner skins), and why Syrah or Mourvèdre are blended in (colour and tannin). That cause-and-effect chain earns most of the marks.",
+"k": "text"
+},
+{
+"t": "How to revise the Rhône in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw the river from Vienne to Avignon and place the Northern appellations from north to south: Côte-Rôtie, Condrieu, Saint-Joseph, Hermitage, Crozes-Hermitage, Cornas, Saint-Péray.",
+"k": "text"
+},
+{
+"t": "Day 2: write the Northern vs Southern comparison table from memory.",
+"k": "text"
+},
+{
+"t": "Day 3: list the Côtes du Rhône hierarchy and four crus with their colours.",
+"k": "text"
+},
+{
+"t": "Day 4: write a 5-point answer on why Grenache dominates the Southern Rhône.",
+"k": "text"
+},
+{
+"t": "Day 5: answer 20 multiple-choice questions on the Rhône in the app and revise the ones you miss.",
+"k": "text"
+},
+{
+"t": "More Rhône practice questions, answered in full",
+"k": "text"
+},
+{
+"t": "These extra questions are our own, written in the style of the WSET Level 3 theory paper. Answer each one in your head first, then compare your reasoning with the answer: the marks usually go to the explanation, not just the name.",
+"k": "text"
+},
+{
+"t": "Question: why are most Crozes-Hermitage wines fruitier, earlier-drinking and less expensive than Hermitage? Answer: much of Crozes-Hermitage lies on flatter land rather than steep slopes, so vineyards are easier and cheaper to work, can be partly mechanised and can give higher yields. The grapes ripen in less extreme conditions than on the south-facing granite hill of Hermitage, so many wines are fruity and medium-bodied, made to be enjoyed young. The best sites and producers in Crozes-Hermitage do, however, make more concentrated, age-worthy wines.",
+"k": "text"
+},
+{
+"t": "Question: which Northern Rhône appellations produce white wine only? Answer: Condrieu and Château-Grillet, both from Viognier, and Saint-Péray, which uses Marsanne and Roussanne for still and sparkling whites. Hermitage, Crozes-Hermitage and Saint-Joseph also make white wines, but they are better known for their reds.",
+"k": "text"
+},
+{
+"t": "Question: how is Muscat de Beaumes-de-Venise made, and what is its style? Answer: it is a vin doux naturel. Grape spirit is added during fermentation, which stops the yeast and leaves natural grape sugar in the wine. Made from Muscat Blanc à Petits Grains, it is sweet, with intense grapey, floral and orange blossom aromas, and is usually drunk young to enjoy its fresh fruit. Rasteau makes vins doux naturels mainly from Grenache.",
+"k": "text"
+},
+{
+"t": "Question: why is Mourvèdre usually a minor part of Southern Rhône blends? Answer: Mourvèdre buds and ripens late and needs a lot of heat, so it only ripens fully in the warmest sites and years. When ripe, it adds deep colour, firm tannin and gamey, meaty notes that give structure to a Grenache-based blend, which is why it is valued even in small proportions.",
+"k": "text"
+},
+{
+"t": "Question: why does Grenache often show a lighter colour than its alcohol and body would suggest? Answer: Grenache has relatively thin skins with fewer colour compounds, while it accumulates a lot of sugar in the warm Southern Rhône climate. The result is a wine high in alcohol and full in body but only medium in colour, which tends to develop a garnet or tawny rim early. Blending with Syrah or Mourvèdre deepens the colour.",
+"k": "text"
+},
+{
+"t": "Southern Rhône grapes and what each brings to the blend",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Colour",
+"k": "text"
+},
+{
+"t": "Main contribution",
+"k": "text"
+},
+{
+"t": "Watch out for",
+"k": "text"
+},
+{
+"t": "Black",
+"k": "text"
+},
+{
+"t": "Alcohol, body, red fruit and spice",
+"k": "text"
+},
+{
+"t": "Oxidises easily; colour relatively light",
+"k": "text"
+},
+{
+"t": "Colour, tannin, black fruit, pepper",
+"k": "text"
+},
+{
+"t": "Needs good sites in the hottest areas to keep freshness",
+"k": "text"
+},
+{
+"t": "Tannin, colour, gamey and meaty notes",
+"k": "text"
+},
+{
+"t": "Needs a lot of heat; ripens late",
+"k": "text"
+},
+{
+"t": "Fresh red fruit, lightness, especially in rosé",
+"k": "text"
+},
+{
+"t": "Lighter structure; rarely a dominant red grape",
+"k": "text"
+},
+{
+"t": "Carignan",
+"k": "text"
+},
+{
+"t": "Colour, acidity and tannin",
+"k": "text"
+},
+{
+"t": "Can be rustic if yields are high",
+"k": "text"
+},
+{
+"t": "Grenache Blanc",
+"k": "text"
+},
+{
+"t": "White",
+"k": "text"
+},
+{
+"t": "Body and alcohol",
+"k": "text"
+},
+{
+"t": "Can lack acidity",
+"k": "text"
+},
+{
+"t": "Roussanne and Marsanne",
+"k": "text"
+},
+{
+"t": "Roussanne acidity and perfume; Marsanne richness",
+"k": "text"
+},
+{
+"t": "Marsanne can be heavy if picked late",
+"k": "text"
+},
+{
+"t": "Clairette and Bourboulenc",
+"k": "text"
+},
+{
+"t": "Freshness and floral or citrus notes in blends",
+"k": "text"
+},
+{
+"t": "Mostly used as blending partners",
+"k": "text"
+},
+{
+"t": "Sample written answer: comparing Hermitage and Châteauneuf-du-Pape",
+"k": "text"
+},
+{
+"t": "Exam-style question: compare the red wines of Hermitage and Châteauneuf-du-Pape. Remember that compare asks you to cover both wines on the same criteria each time, not to describe one and then the other.",
+"k": "text"
+},
+{
+"t": "Climate: Hermitage has a moderate continental climate; Châteauneuf-du-Pape a warm Mediterranean one, so its grapes ripen more easily and reach higher sugar levels.",
+"k": "text"
+},
+{
+"t": "Grapes: Hermitage red is Syrah, with a small permitted addition of Marsanne and Roussanne; Châteauneuf-du-Pape is a blend in which Grenache usually dominates, with Syrah, Mourvèdre and others.",
+"k": "text"
+},
+{
+"t": "Site: Hermitage is a steep, south-facing granite hill; Châteauneuf-du-Pape is flatter, with some vineyards covered in large pebbles that store heat.",
+"k": "text"
+},
+{
+"t": "Vine training: single stakes on the Hermitage slopes; low bush vines in Châteauneuf-du-Pape that resist the mistral.",
+"k": "text"
+},
+{
+"t": "Style: both are full-bodied and age-worthy, but Hermitage shows deeper colour, firmer tannin, black fruit and pepper, while Châteauneuf-du-Pape shows higher alcohol, ripe red fruit, spice and softer tannin.",
+"k": "text"
+},
+{
+"t": "Each bullet makes one comparison with a reason. Writing it as two separate descriptions would contain the same facts but score fewer marks, because the examiner is looking for explicit links between the two wines.",
+"k": "text"
+},
+{
+"t": "Tasting the Rhône with the SAT",
+"k": "text"
+},
+{
+"t": "Rhône reds are excellent practice for the tasting unit, which is assessed separately from theory: you need at least 55% in each unit, and a failed unit is retaken on its own. Comparing a Northern Syrah with a Southern Grenache blend trains exactly the structural judgements the SAT rewards.",
+"k": "text"
+},
+{
+"t": "Element",
+"k": "text"
+},
+{
+"t": "Northern Rhône Syrah",
+"k": "text"
+},
+{
+"t": "Southern Rhône Grenache blend",
+"k": "text"
+},
+{
+"t": "Deep ruby or purple",
+"k": "text"
+},
+{
+"t": "Medium to deep ruby, may show garnet early",
+"k": "text"
+},
+{
+"t": "Nose",
+"k": "text"
+},
+{
+"t": "Blackberry, black plum, black pepper, violet; smoked meat with age",
+"k": "text"
+},
+{
+"t": "Strawberry, red cherry, dried herbs, sweet spice",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Medium to medium-plus",
+"k": "text"
+},
+{
+"t": "Medium",
+"k": "text"
+},
+{
+"t": "Tannin",
+"k": "text"
+},
+{
+"t": "Medium-plus to high, often firm",
+"k": "text"
+},
+{
+"t": "Medium to medium-plus, often softer",
+"k": "text"
+},
+{
+"t": "Alcohol",
+"k": "text"
+},
+{
+"t": "Medium-plus",
+"k": "text"
+},
+{
+"t": "High",
+"k": "text"
+},
+{
+"t": "Body",
+"k": "text"
+},
+{
+"t": "Medium-plus to full",
+"k": "text"
+},
+{
+"t": "Full",
+"k": "text"
+},
+{
+"t": "In both cases, justify quality with balance, intensity, complexity and length. A warm-climate Grenache blend with high alcohol can still be balanced if the fruit is concentrated enough; say so in your conclusion rather than penalising the alcohol on its own.",
+"k": "text"
+},
+{
+"t": "Classic Rhône traps in multiple choice",
+"k": "text"
+},
+{
+"t": "Grenache in the Northern Rhône: it plays no role there; Syrah is the only black grape.",
+"k": "text"
+},
+{
+"t": "Cornas with Viognier: Cornas must be 100% Syrah; it is Côte-Rôtie that may include Viognier.",
+"k": "text"
+},
+{
+"t": "Tavel in red: Tavel is rosé only, while nearby Lirac makes red, white and rosé.",
+"k": "text"
+},
+{
+"t": "Condrieu for long ageing: most Condrieu is best drunk young, while its aromas are most intense.",
+"k": "text"
+},
+{
+"t": "The mistral as only harmful: in the south it also dries vines after rain and reduces fungal disease.",
+"k": "text"
+},
+{
+"t": "Crozes-Hermitage as the smallest appellation: it is the largest in the Northern Rhône.",
+"k": "text"
+},
+{
+"t": "Draw the river once a week from memory, with each appellation on the correct bank and in the right order. Map questions become easy, and the drawing anchors every other fact.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "59 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Rhône Valley are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 59 multiple-choice questions on Rhône Valley, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Rhône Valley important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Rhône Valley, can come up.",
+"k": "text"
+},
+{
+"t": "Which Rhône appellations can include white grapes in red wine for WSET 3?",
+"k": "text"
+},
+{
+"t": "Two are essential. Côte-Rôtie allows up to 20% Viognier, traditionally co-fermented with Syrah to stabilise colour and add floral aromas. Hermitage allows up to 15% Marsanne and Roussanne. In practice many producers use less or none. Cornas, by contrast, must be 100% Syrah, which is a popular multiple-choice distractor.",
+"k": "text"
+},
+{
+"t": "Why is Grenache the main grape of the Southern Rhône?",
+"k": "text"
+},
+{
+"t": "Grenache thrives in heat and drought, ripens fully in the warm Mediterranean climate and resists the mistral well when trained as a low bush vine. It gives high alcohol, red fruit, spice and medium tannin, but its colour is relatively light and it oxidises easily, so it is usually blended with Syrah or Mourvèdre and often matured in large, old vessels.",
+"k": "text"
+},
+{
+"t": "What is the difference between Côtes du Rhône and Côtes du Rhône Villages?",
+"k": "text"
+},
+{
+"t": "Côtes du Rhône is the broad regional appellation. Côtes du Rhône Villages covers a smaller area of better sites with stricter rules, including lower maximum yields, so the wines are generally more concentrated. Some villages may add their name to the label, and the best villages have become crus with their own appellation, such as Gigondas or Vacqueyras.",
+"k": "text"
+},
+{
+"t": "Is Tavel red or rosé?",
+"k": "text"
+},
+{
+"t": "Tavel is a rosé-only appellation in the Southern Rhône. It is usually deeper in colour and fuller-bodied than most rosés, made mainly from Grenache and Cinsault with a longer maceration. Nearby Lirac, by contrast, can make red, white and rosé wines, so do not confuse the two in a WSET 3 question.",
+"k": "text"
+},
+{
+"t": "What does Condrieu taste like?",
+"k": "text"
+},
+{
+"t": "Condrieu is 100% Viognier from the Northern Rhône. It is typically medium to deep lemon, full-bodied, with low to medium acidity and intense aromas of apricot, peach and blossom, sometimes with a creamy texture from lees or oak. Most examples are best drunk young, while their aromatic intensity is at its peak.",
+"k": "text"
+},
+{
+"t": "Which Northern Rhône appellations make only white wine?",
+"k": "text"
+},
+{
+"t": "Condrieu and Château-Grillet, both made from Viognier, and Saint-Péray, which uses Marsanne and Roussanne for still and sparkling whites. Hermitage, Crozes-Hermitage and Saint-Joseph also produce white wines from Marsanne and Roussanne, but they are better known for their Syrah-based reds.",
+"k": "text"
+},
+{
+"t": "Why is Crozes-Hermitage different from Hermitage?",
+"k": "text"
+},
+{
+"t": "Much of Crozes-Hermitage lies on flatter land, where vineyards are easier to work, can be partly mechanised and can give higher yields. Many wines are fruity and medium-bodied for early drinking. Hermitage is a steep, south-facing granite hill giving full-bodied, tannic, long-lived Syrah. The best Crozes-Hermitage sites can still produce serious wines.",
+"k": "text"
+},
+{
+"t": "What is a vin doux naturel in the Rhône?",
+"k": "text"
+},
+{
+"t": "A sweet wine made by adding grape spirit during fermentation, which stops the yeast and keeps natural grape sugar. Muscat de Beaumes-de-Venise, from Muscat Blanc à Petits Grains, is intensely grapey and floral and usually drunk young. Rasteau makes vins doux naturels mainly from Grenache.",
+"k": "text"
+},
+{
+"t": "What does Mourvèdre add to Southern Rhône blends?",
+"k": "text"
+},
+{
+"t": "Mourvèdre adds deep colour, firm tannin and gamey, meaty notes that give structure to Grenache-based blends. It buds and ripens late and needs a lot of heat, so it only ripens fully in warm sites and years, which is why it is usually a smaller part of the blend.",
+"k": "text"
+},
+{
+"t": "How do Northern Rhône Syrah and Southern Rhône Grenache blends differ when tasted?",
+"k": "text"
+},
+{
+"t": "Northern Syrah is usually deeper in colour, with black fruit, black pepper and violet, medium-plus to high, firm tannin and medium-plus alcohol. A Southern Grenache blend is often lighter in colour, with red fruit and spice, higher alcohol, full body and softer tannin. Both can be very good quality if they are balanced and concentrated.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Rhône Valley – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Rhône Valley practice questions with answers and explanations, plus 59 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Between which towns are the Northern Rhône vineyards?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "They are a small share of Rhône production but home to many premium wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What do the Northern Rhône's lateral valleys protect against?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The best sites are steep south-facing slopes; vines are on single stakes or tepee arrangements.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What climate does the Northern Rhône have?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is noticeably cooler than the Southern Rhône.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the only black grape permitted in the Northern Rhône?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is at its northern ripening limit; prized sites are very steep and south-facing. Deep wines, medium-high tannin, black fruit, sometimes pepper or floral.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How are vines supported on the steep Northern Rhône slopes?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Northern Rhône: steep south-facing slopes by the river, lateral valleys sheltered from the mistral; individual stakes.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What do Marsanne and Roussanne contribute in a blend?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Less aromatic than Viognier, they age well, developing hazelnut aromas.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

@@ -44,7 +44,9 @@ const B = {
     const pct = (v) => ((v - min) / (max - min)) * 100;
     const axis = ticks.map((t) => `<span style="left:${pct(t)}%">${t}°</span>`).join('');
     const rows = items.map((it) => {
-      const l = pct(it.from), wd = Math.max(pct(it.to) - l, 6);
+      // single values get a pill centred on the value, wide enough for its label
+      let l = pct(it.from), wd = pct(it.to) - l;
+      if (wd < 18) { const c = l + wd / 2; wd = 18; l = Math.min(100 - wd, Math.max(0, c - wd / 2)); }
       const label = it.from === it.to ? `${it.from}°C` : `${it.from}–${it.to}°C`;
       return `<div class="tr"><div class="nm">${it.name}<small>${it.eg}</small></div><div class="track"><div class="bar" style="left:${l}%;width:${wd}%;background:${it.color}">${label}</div></div></div>`;
     }).join('');

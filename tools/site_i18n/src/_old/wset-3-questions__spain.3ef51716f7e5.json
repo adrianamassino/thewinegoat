@@ -1,0 +1,925 @@
+{
+"group": "wset-3-questions__spain",
+"source": "wset-3-questions/spain/index.html",
+"url": "/wset-3-questions/spain/",
+"region": "main",
+"sha": "3ef51716f7e5",
+"words": 3464,
+"segment_words": 3673,
+"segments": [
+{
+"t": "WSET 3 Spain – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Spain practice questions with answers and explanations, plus 76 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Spain, WSET Level 3 Spain, Spain WSET questions, Spain wine quiz, Spain wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Spain: practice questions with answers – WSET 3 Spain, WSET Level 3 Spain, Spain WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Spain",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Spain: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Spain, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 76 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Spain: practice questions with answers | WSET 3 Spain",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} How are inexpensive Spanish reds often made to enhance fruit?",
+"k": "text"
+},
+{
+"t": "Unoaked, with semi-carbonic maceration",
+"k": "text"
+},
+{
+"t": "By the passito method, drying part of the grapes",
+"k": "text"
+},
+{
+"t": "With long ageing in new American oak",
+"k": "text"
+},
+{
+"t": "With light fortification at the end of fermentation",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Unoaked, with semi-carbonic maceration",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The best almost always see oak, partly new; traditionally American, now French too.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Where does Garnacha give intense, full reds from low-yielding old vines?",
+"k": "text"
+},
+{
+"t": "Priorat",
+"k": "text"
+},
+{
+"t": "Rías Baixas",
+"k": "text"
+},
+{
+"t": "La Mancha",
+"k": "text"
+},
+{
+"t": "Rueda",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Priorat",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Garnacha generally gives high-alcohol, early-maturing wines and is widely used for rosados.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What wine does Monastrell make in Jumilla and Yecla?",
+"k": "text"
+},
+{
+"t": "Sweet, spritzy rosés for drinking very young, with strawberry",
+"k": "text"
+},
+{
+"t": "Aromatic whites with peach, orange blossom and a little sugar",
+"k": "text"
+},
+{
+"t": "Light and acidic, with fresh red fruit, low tannin and violets",
+"k": "text"
+},
+{
+"t": "Very dark and full, high tannin and alcohol, low acid",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Very dark and full, high tannin and alcohol, low acid",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Monastrell (Mourvèdre) is thick-skinned and drought-tolerant but needs heat and sun.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is Cariñena (Carignan) called in Rioja?",
+"k": "text"
+},
+{
+"t": "Viura",
+"k": "text"
+},
+{
+"t": "Cencibel",
+"k": "text"
+},
+{
+"t": "Mazuelo",
+"k": "text"
+},
+{
+"t": "Ull de Llebre",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Mazuelo",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It gives high acid, tannin and colour; a little suits Tempranillo, and in Priorat it adds structure to Garnacha.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which Spanish black grape, suited to moderate climates, is rising in prominence?",
+"k": "text"
+},
+{
+"t": "Mencía",
+"k": "text"
+},
+{
+"t": "Monastrell",
+"k": "text"
+},
+{
+"t": "Merseguera",
+"k": "text"
+},
+{
+"t": "Airén",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Mencía",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It gives fresh fruit, medium-high acidity, sometimes herbaceousness; its home is Bierzo.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} How many Spanish DOCas are there, and which?",
+"k": "text"
+},
+{
+"t": "Two: Rioja and Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Three: Rioja, Priorat and Jerez",
+"k": "text"
+},
+{
+"t": "Two: Rioja and Priorat (DOQ in Catalan)",
+"k": "text"
+},
+{
+"t": "Just one: Rioja (DOCa since 1991)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Two: Rioja and Priorat (DOQ in Catalan)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} A DO of at least ten years' standing may apply. PGI is Vino de la Tierra; others are simply 'Vino'.",
+"k": "text"
+},
+{
+"t": "Study notes: Spain for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Spain questions cover a lot of ground: the climate zones from wet Galicia to the hot Meseta, the main indigenous grapes, the Spanish ageing categories (Joven, Crianza, Reserva, Gran Reserva), and the key regions such as Rioja, Ribera del Duero, Priorat, Rías Baixas and Rueda. These revision notes are organised by climate zone so you can build the cause, effect and style chains that the short written answers reward. Sherry and Cava have their own topics, so they are only mentioned here.",
+"k": "text"
+},
+{
+"t": "Spain's climate zones: the key to every answer",
+"k": "text"
+},
+{
+"t": "Spain can be divided into three broad climatic areas. The north-west (Galicia) is maritime: the Atlantic brings high rainfall, mild temperatures and a high risk of fungal disease, so fresh, high-acid whites dominate. The centre is the Meseta Central, a high plateau where altitude moderates the heat: summers are hot and very dry, winters cold, and night-time temperatures drop sharply, which helps grapes keep acidity and aroma. The east and south are Mediterranean, hot and dry, suited to ripe, full-bodied reds and to drought-tolerant grapes such as Monastrell.",
+"k": "text"
+},
+{
+"t": "Two viticultural consequences follow. First, drought is the main limiting factor in much of the country, so traditional vineyards are planted at low density with bush vines, giving each vine more water; irrigation has been permitted since the 1990s and has allowed higher yields and trellised vineyards. Second, altitude is a key quality factor: in regions such as Ribera del Duero the diurnal range is wide, so grapes ripen fully while keeping freshness, but spring and autumn frosts are a real risk.",
+"k": "text"
+},
+{
+"t": "Spanish wine labels: DO, DOCa and ageing terms for WSET 3",
+"k": "text"
+},
+{
+"t": "Spain's quality wines are labelled DO (Denominación de Origen), and the two highest-ranked are the DOCa, Rioja and Priorat (DOQ in Catalan). Vino de Pago is a category for single estates with a distinctive character. Vino de la Tierra is the Spanish term for PGI wines. Ageing terms are a favourite WSET 3 Spain topic because they appear on most labels and have legal minimums.",
+"k": "text"
+},
+{
+"t": "Term (red wines)",
+"k": "text"
+},
+{
+"t": "National minimum",
+"k": "text"
+},
+{
+"t": "Note for Rioja and Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Joven",
+"k": "text"
+},
+{
+"t": "No minimum ageing; released young",
+"k": "text"
+},
+{
+"t": "Often unoaked, fruity",
+"k": "text"
+},
+{
+"t": "Crianza",
+"k": "text"
+},
+{
+"t": "At least 2 years ageing, including at least 6 months in oak",
+"k": "text"
+},
+{
+"t": "At least 12 months in oak required",
+"k": "text"
+},
+{
+"t": "Reserva",
+"k": "text"
+},
+{
+"t": "At least 3 years ageing, including at least 1 year in oak",
+"k": "text"
+},
+{
+"t": "Same principle; balance in bottle",
+"k": "text"
+},
+{
+"t": "Gran Reserva",
+"k": "text"
+},
+{
+"t": "At least 5 years ageing, including at least 18 months in oak",
+"k": "text"
+},
+{
+"t": "Rioja requires at least 2 years in oak",
+"k": "text"
+},
+{
+"t": "White and rosé wines can also be labelled Crianza, Reserva and Gran Reserva, with shorter minimum periods. Remember that these terms are about minimum ageing, not quality as such: a modern producer may release a premium wine with no ageing term, preferring to label it by site.",
+"k": "text"
+},
+{
+"t": "Exam technique: in a written answer on a Rioja Gran Reserva, connect the ageing to the style. 'Long ageing in oak and in bottle means primary fruit fades into dried fruit, and tertiary notes of leather, mushroom and tobacco appear; American oak adds vanilla and coconut; tannins soften, so the wine is ready to drink on release.'",
+"k": "text"
+},
+{
+"t": "WSET 3 Spain grapes: the indigenous varieties you need",
+"k": "text"
+},
+{
+"t": "Tempranillo: Spain's flagship black grape; medium acidity and tannin, red fruit, takes well to oak. Called Tinto Fino or Tinta del País in Ribera del Duero, Tinta de Toro in Toro and Cencibel in La Mancha and Valdepeñas.",
+"k": "text"
+},
+{
+"t": "Garnacha: high sugar and alcohol, red fruit, low colour and tannin; early-maturing wines, rosados, and intense reds from old vines in Priorat, Calatayud, Campo de Borja and Cariñena.",
+"k": "text"
+},
+{
+"t": "Monastrell: thick-skinned, drought-tolerant, needs heat; dark, full, tannic reds in Jumilla, Yecla and Alicante.",
+"k": "text"
+},
+{
+"t": "Mazuelo (Cariñena): high acid, tannin and colour; used in Rioja and Priorat blends.",
+"k": "text"
+},
+{
+"t": "Graciano: low-yielding, adds colour, acidity and aromatic intensity to Rioja blends.",
+"k": "text"
+},
+{
+"t": "Mencía: moderate climates; fresh fruit and medium-high acidity; Bierzo and Ribeira Sacra.",
+"k": "text"
+},
+{
+"t": "Bobal: deep colour and acidity; Utiel-Requena.",
+"k": "text"
+},
+{
+"t": "Viura (Macabeo): main white grape of Rioja; neutral when young, takes oak and oxidative ageing well.",
+"k": "text"
+},
+{
+"t": "Verdejo: aromatic, herbaceous and citrus whites in Rueda.",
+"k": "text"
+},
+{
+"t": "Albariño: high acidity, peach and citrus; Rías Baixas.",
+"k": "text"
+},
+{
+"t": "Godello: fuller white with good acidity; Valdeorras.",
+"k": "text"
+},
+{
+"t": "Airén: very widely planted in La Mancha; neutral whites and brandy base.",
+"k": "text"
+},
+{
+"t": "Northern Spain: Rioja, Navarra and Catalonia",
+"k": "text"
+},
+{
+"t": "Rioja",
+"k": "text"
+},
+{
+"t": "Rioja lies along the Ebro valley, sheltered from the Atlantic by the Sierra de Cantabria, giving a moderate continental climate. It has three sub-zones: Rioja Alta and Rioja Alavesa, higher and cooler with Atlantic influence, give wines with more acidity and structure; Rioja Oriental, warmer and drier with Mediterranean influence, is well suited to Garnacha. Most red Rioja is a blend led by Tempranillo, with Garnacha for body and alcohol, and Graciano and Mazuelo for colour, acidity and tannin. Traditional producers blend grapes from several sub-zones and age the wines for a long time in American oak, often with oxidative notes; modern producers pick riper fruit, use more French oak and shorter ageing, giving deeper colour and more intense fruit. Rioja has also introduced terms to label wines by zone, village (municipio) and single vineyard (viñedo singular).",
+"k": "text"
+},
+{
+"t": "Navarra and the Ebro valley",
+"k": "text"
+},
+{
+"t": "Navarra, next to Rioja, was historically known for Garnacha rosado. Today it makes red wines from Tempranillo, Garnacha and international varieties such as Cabernet Sauvignon and Merlot. Further down the Ebro, in Aragón, Calatayud, Campo de Borja and Cariñena make good-value, ripe Garnacha, often from old vines.",
+"k": "text"
+},
+{
+"t": "Catalonia and Priorat",
+"k": "text"
+},
+{
+"t": "Priorat is a DOCa in the mountains of Catalonia. Its steep slopes and poor llicorella soils (a type of slate) force very low yields from old Garnacha and Cariñena vines, often complemented by Syrah and Cabernet Sauvignon. The result is deeply coloured, full-bodied, high-alcohol reds with intense black fruit and high tannins, usually aged in French oak; they are expensive because yields are low and the work is manual. Penedès is the heart of Cava production and also makes still wines; the wide DO Catalunya allows blending across the region.",
+"k": "text"
+},
+{
+"t": "Duero valley and the north-west",
+"k": "text"
+},
+{
+"t": "Ribera del Duero sits high on the northern Meseta. Its extreme continental climate gives hot days and cold nights, so Tinto Fino keeps acidity and develops deep colour and concentrated black fruit; frost is the main risk. Wines are almost all red, often aged in French or American oak, and small amounts of Cabernet Sauvignon, Merlot and Malbec are permitted. Toro, further west and lower, is hotter, giving powerful, high-alcohol, tannic reds from Tinta de Toro. Rueda is known for white wines from Verdejo, often blended with Sauvignon Blanc: night harvesting and protection from oxygen keep the fresh, herbaceous and citrus aromas, and the high altitude preserves acidity.",
+"k": "text"
+},
+{
+"t": "In Galicia, Rías Baixas is the classic WSET 3 example of a maritime region. Rain is frequent and humidity is high, so vines are often trained on high pergolas that let air circulate and lift grapes away from the damp ground. Albariño gives high-acid, light to medium-bodied whites with citrus, peach and sometimes a saline note, usually made in stainless steel, sometimes with lees contact for texture. Inland, Valdeorras makes Godello, and Bierzo and Ribeira Sacra make fresh, aromatic Mencía from steep slate slopes.",
+"k": "text"
+},
+{
+"t": "Central and Mediterranean Spain",
+"k": "text"
+},
+{
+"t": "La Mancha, on the southern Meseta, is the largest wine region in Spain: flat, hot and dry, with low rainfall. It was historically planted with Airén for neutral whites and brandy, but Tempranillo (Cencibel) and international varieties have increased, producing inexpensive, fruity reds. Valdepeñas is known for good-value, oak-aged Tempranillo. In the Levante, Jumilla, Yecla and Alicante are hot and dry, ideal for Monastrell, which gives very dark, full-bodied reds with high tannin and alcohol; many are now made in a fruit-forward style for early drinking. Utiel-Requena, inland from Valencia, is the home of Bobal.",
+"k": "text"
+},
+{
+"t": "How to revise Spain for WSET 3 in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw Spain and colour the three climate zones; place twelve regions on the map.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the Tempranillo synonyms and the regions linked to Garnacha and Monastrell.",
+"k": "text"
+},
+{
+"t": "Day 3: memorise the ageing table and test yourself by writing it from memory.",
+"k": "text"
+},
+{
+"t": "Day 4: write a five-minute answer comparing traditional and modern Rioja.",
+"k": "text"
+},
+{
+"t": "Day 5: explain why Rías Baixas uses pergolas and why Rueda harvests at night.",
+"k": "text"
+},
+{
+"t": "Day 6: complete the Spain question set in the app and log every wrong answer.",
+"k": "text"
+},
+{
+"t": "Day 7: compare Ribera del Duero, Toro and Priorat in a three-column table.",
+"k": "text"
+},
+{
+"t": "Common mistake: assuming Gran Reserva simply means 'better'. The terms guarantee minimum ageing, and the exam often asks how that ageing changes the wine. Another slip is placing Bierzo in Galicia: it is in Castilla y León, close to the Galician border.",
+"k": "text"
+},
+{
+"t": "Rioja, Ribera del Duero and Priorat side by side",
+"k": "text"
+},
+{
+"t": "These three regions produce Spain's most famous reds and are frequently compared in WSET 3 questions. Learn the chain for each: conditions, grapes, choices, style.",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Climate and site",
+"k": "text"
+},
+{
+"t": "Main grapes",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Continental, moderated by Atlantic influence in the west and warmer, Mediterranean-influenced in the east; Ebro valley; sub-zones Rioja Alta, Rioja Alavesa and Rioja Oriental",
+"k": "text"
+},
+{
+"t": "Tempranillo, with Garnacha, Graciano and Mazuelo",
+"k": "text"
+},
+{
+"t": "Medium to full body, red fruit; traditional styles with long American oak ageing and tertiary notes; modern styles riper, darker, often French oak",
+"k": "text"
+},
+{
+"t": "Ribera del Duero",
+"k": "text"
+},
+{
+"t": "High-altitude plateau, continental; hot days and cold nights; frost risk in spring and autumn",
+"k": "text"
+},
+{
+"t": "Tinto Fino (Tempranillo), sometimes with Bordeaux varieties",
+"k": "text"
+},
+{
+"t": "Deep colour, full body, ripe black fruit, high tannin, fresh acidity from the cool nights",
+"k": "text"
+},
+{
+"t": "Hot, dry Mediterranean climate; steep terraces; llicorella slate soils that retain heat and limit yields",
+"k": "text"
+},
+{
+"t": "Old-vine Garnacha and Cariñena, plus international varieties",
+"k": "text"
+},
+{
+"t": "Very concentrated, high alcohol, full body, ripe black fruit, firm tannins",
+"k": "text"
+},
+{
+"t": "Sample short written answer: Verdejo from Rueda",
+"k": "text"
+},
+{
+"t": "Question: Explain how the conditions in Rueda and the winemaking choices produce the typical style of Verdejo. (Model answer.)",
+"k": "text"
+},
+{
+"t": "Rueda lies on the high plateau of Castilla y León, at around 700 to 800 metres. The climate is continental with hot, dry summers, but the altitude gives a large difference between day and night temperatures. The cool nights help the grapes keep their acidity and aromatic compounds, so Verdejo can ripen fully while staying fresh. Many vineyards are harvested at night or early in the morning, when the grapes are cool, which preserves fresh aromas and avoids oxidation before the grapes reach the winery.",
+"k": "text"
+},
+{
+"t": "In the winery, most Verdejo is made in a protective, reductive way: the juice is kept away from oxygen and fermented cool in stainless steel to retain the herbaceous, citrus and stone-fruit aromas. Some producers add lees ageing for texture, and a few use oak for richer styles. The typical result is a dry, medium-bodied white with high acidity, citrus, green herbs and a slightly bitter almond finish, best drunk young. Sauvignon Blanc is also grown and may be blended with Verdejo.",
+"k": "text"
+},
+{
+"t": "Common mistakes in WSET 3 answers on Spain",
+"k": "text"
+},
+{
+"t": "Writing that Crianza, Reserva and Gran Reserva describe quality only: they are mainly minimum ageing requirements in barrel and bottle.",
+"k": "text"
+},
+{
+"t": "Forgetting the role of altitude on the Meseta: cool nights explain the freshness of Ribera del Duero and Rueda.",
+"k": "text"
+},
+{
+"t": "Confusing the synonyms of Tempranillo (Tinto Fino, Tinta del País, Cencibel, Ull de Llebre) with different grapes.",
+"k": "text"
+},
+{
+"t": "Describing all Rioja as heavily oaked: modern producers often choose shorter ageing in French oak.",
+"k": "text"
+},
+{
+"t": "Putting Albariño in a continental climate: Rías Baixas is maritime, wet and mild, hence pergolas and disease risk.",
+"k": "text"
+},
+{
+"t": "Treating La Mancha only as bulk wine: irrigation and modern winemaking produce clean, fruity, good-value wines.",
+"k": "text"
+},
+{
+"t": "Spanish wines in the tasting unit",
+"k": "text"
+},
+{
+"t": "At Level 3 the theory paper and the tasting are separate units: you need at least 55% in each, and if one is failed it is retaken on its own. Spanish wines are good practice for describing oak and age. A Reserva or Gran Reserva Rioja may show a ruby to garnet colour, dried red fruit, vanilla, coconut and dill from American oak, and tertiary notes such as leather and tobacco. A young Ribera del Duero is deep ruby with intense black fruit and high tannin. An Albariño is pale lemon, with high acidity and peach and citrus aromas.",
+"k": "text"
+},
+{
+"t": "In your conclusions, link the development of the wine to its readiness for drinking: a wine with clear tertiary notes and softened tannins is likely ready to drink now, while a deeply coloured, tannic, primary wine may improve with ageing. As always, the assessment rewards a precise description and logical conclusions, not naming the region.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "76 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Spain are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 76 multiple-choice questions on Spain, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Spain important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Spain, can come up.",
+"k": "text"
+},
+{
+"t": "What are the Spanish ageing rules for Crianza, Reserva and Gran Reserva at WSET 3?",
+"k": "text"
+},
+{
+"t": "For red wines, Crianza needs at least 2 years of ageing with at least 6 months in oak, Reserva at least 3 years with at least 1 year in oak, and Gran Reserva at least 5 years with at least 18 months in oak. Rioja and Ribera del Duero are stricter for oak: Crianza needs 12 months in barrel, and Rioja Gran Reserva needs 2 years in oak.",
+"k": "text"
+},
+{
+"t": "What is the difference between traditional and modern Rioja?",
+"k": "text"
+},
+{
+"t": "Traditional Rioja is a blend from several sub-zones, aged for a long time in American oak, giving a paler colour, soft tannins, dried fruit, vanilla and tertiary notes. Modern Rioja uses riper grapes, often from a single area or vineyard, more French oak and shorter ageing, so the wine is deeper in colour, with fresher, more intense fruit and firmer tannins.",
+"k": "text"
+},
+{
+"t": "What are the Tempranillo synonyms for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Tempranillo is called Tinto Fino or Tinta del País in Ribera del Duero, Tinta de Toro in Toro and Cencibel in La Mancha and Valdepeñas. In Catalonia it is known as Ull de Llebre, and in Portugal as Tinta Roriz or Aragonez. Exam questions often use the local name, so learning these synonyms is a quick way to secure marks.",
+"k": "text"
+},
+{
+"t": "Why are Rías Baixas vines trained on pergolas?",
+"k": "text"
+},
+{
+"t": "Rías Baixas has a wet, humid maritime climate with a high risk of fungal disease. Training vines high on pergolas lets air circulate around the bunches and lifts them away from the damp ground, so the grapes dry more quickly after rain and stay healthy. It also allows other crops to be grown underneath on small plots, which was important historically.",
+"k": "text"
+},
+{
+"t": "Why is Priorat wine so expensive and full-bodied?",
+"k": "text"
+},
+{
+"t": "Priorat vineyards are on steep slopes with poor llicorella slate soils, and many are old Garnacha and Cariñena vines. These conditions give very low yields of small, concentrated grapes, and the slopes must be worked by hand, so costs are high. The warm, dry climate brings full ripeness, giving deeply coloured, high-alcohol, tannic reds with intense black fruit.",
+"k": "text"
+},
+{
+"t": "How should I compare Rioja and Ribera del Duero for WSET 3?",
+"k": "text"
+},
+{
+"t": "Both are based on Tempranillo, but the conditions differ. Ribera del Duero is higher and more extreme, with hot days and very cold nights, giving deep colour, full body, black fruit and high tannin with fresh acidity. Rioja is more moderate and often blends Tempranillo with Garnacha, Graciano and Mazuelo. Its traditional style is shaped by long ageing in American oak, giving red fruit, vanilla and tertiary notes.",
+"k": "text"
+},
+{
+"t": "Why is Verdejo from Rueda harvested at night?",
+"k": "text"
+},
+{
+"t": "Rueda summers are hot, and warm grapes lose fresh aromas and oxidise more quickly once picked. Harvesting at night or early in the morning brings cool grapes to the winery, which protects aromatic compounds and acidity and reduces the need for cooling. This fits the protective winemaking used for Verdejo, aimed at a fresh, aromatic, unoaked style.",
+"k": "text"
+},
+{
+"t": "Does Spanish wine appear in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "It can. Theory and tasting are separate units, each needing at least 55%, and in the tasting you might be given a Tempranillo or an Albariño. You are not asked to name the wine: you describe it with the systematic approach and give conclusions on quality and readiness to drink. Spanish reds are useful practice for identifying oak and tertiary development.",
+"k": "text"
+},
+{
+"t": "What are the main grapes of Navarra?",
+"k": "text"
+},
+{
+"t": "Navarra was traditionally known for Garnacha rosados, but today it produces mainly reds from Tempranillo, Garnacha and international varieties such as Cabernet Sauvignon and Merlot, often as blends. Its position between Rioja and the Pyrenees gives a range of climates, cooler and wetter in the north, warmer and drier in the south.",
+"k": "text"
+},
+{
+"t": "What are the key regions of north-west Spain for WSET 3?",
+"k": "text"
+},
+{
+"t": "Learn Rías Baixas for Albariño, a fresh, high-acid white from a wet, maritime climate; Bierzo for Mencía, which gives fresh, medium-bodied reds with red fruit; and Valdeorras for Godello, a white with more body and texture than Albariño. Toro, further east on the Duero, gives powerful, full-bodied reds from Tinta de Toro.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How are inexpensive Spanish reds often made to enhance fruit?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The best almost always see oak, partly new; traditionally American, now French too.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where does Garnacha give intense, full reds from low-yielding old vines?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Garnacha generally gives high-alcohol, early-maturing wines and is widely used for rosados.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What wine does Monastrell make in Jumilla and Yecla?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Monastrell (Mourvèdre) is thick-skinned and drought-tolerant but needs heat and sun.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Cariñena (Carignan) called in Rioja?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It gives high acid, tannin and colour; a little suits Tempranillo, and in Priorat it adds structure to Garnacha.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which Spanish black grape, suited to moderate climates, is rising in prominence?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It gives fresh fruit, medium-high acidity, sometimes herbaceousness; its home is Bierzo.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How many Spanish DOCas are there, and which?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "A DO of at least ten years' standing may apply. PGI is Vino de la Tierra; others are simply 'Vino'.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

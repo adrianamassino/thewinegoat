@@ -1,0 +1,979 @@
+{
+"group": "wset-3-questions__vineyard-management",
+"source": "wset-3-questions/vineyard-management/index.html",
+"url": "/wset-3-questions/vineyard-management/",
+"region": "main",
+"sha": "bd636acda9b2",
+"words": 3375,
+"segment_words": 3673,
+"segments": [
+{
+"t": "WSET 3 Vineyard management and pruning – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Vineyard management and pruning practice questions with answers and explanations, plus 97 more in the app: MCQs, short written answers…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Vineyard management and pruning, WSET Level 3 Vineyard management and pruning, Vineyard management and pruning WSET questions, Vineyard management and pruning wine quiz, Vineyard management and pruning wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Vineyard management and pruning: practice questions with answers – WSET 3 Vineyard management and pruning, WSET Level 3 Vineyard management and…",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Vineyard management and pruning",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Vineyard management and pruning: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Vineyard management and pruning, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 97 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Vineyard management and pruning: practice questions with answers | WSET 3 Vineyard management and pruning",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Vineyard management and pruning practice questions with answers and explanations, plus 97 more in the app: MCQs, short written answers….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} In which year after planting does the first crop usually come?",
+"k": "text"
+},
+{
+"t": "The first year",
+"k": "text"
+},
+{
+"t": "The tenth year",
+"k": "text"
+},
+{
+"t": "The fifth year",
+"k": "text"
+},
+{
+"t": "The third year",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The third year",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Young pre-grafted vines are often protected by plastic sleeves; irrigation is sometimes allowed for establishment.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} At what age are most vines replaced?",
+"k": "text"
+},
+{
+"t": "Between 30 and 50 years",
+"k": "text"
+},
+{
+"t": "Between 10 and 15 years",
+"k": "text"
+},
+{
+"t": "After 100 years",
+"k": "text"
+},
+{
+"t": "Every 5 years",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Between 30 and 50 years",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} With age yields fall and disease susceptibility rises: quality must be balanced against profit.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} How long is land usually left fallow after vines are dug up?",
+"k": "text"
+},
+{
+"t": "Just one year",
+"k": "text"
+},
+{
+"t": "No rest at all",
+"k": "text"
+},
+{
+"t": "Three years or more",
+"k": "text"
+},
+{
+"t": "About six months",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Three years or more",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Growers plan replanting cycles to keep as little land out of production as possible.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What does vine training refer to?",
+"k": "text"
+},
+{
+"t": "The shape of the vine's permanent wood",
+"k": "text"
+},
+{
+"t": "How green shoots are arranged in summer",
+"k": "text"
+},
+{
+"t": "The number of buds left at winter pruning",
+"k": "text"
+},
+{
+"t": "The spacing between rows and between vines",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The shape of the vine's permanent wood",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is split into head and cordon training; either can be low (soil heat) or high (avoiding frost).",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is replacement cane pruning with one or two canes also called?",
+"k": "text"
+},
+{
+"t": "Sylvoz (inverted)",
+"k": "text"
+},
+{
+"t": "Spur-pruned cordon (Royat)",
+"k": "text"
+},
+{
+"t": "Guyot (single or double)",
+"k": "text"
+},
+{
+"t": "Low bush vine (gobelet)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Guyot (single or double)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} One cane in Single Guyot, two in Double. It is more complex than spur pruning and needs skilled labour.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Where are untrellised bush vines best suited?",
+"k": "text"
+},
+{
+"t": "In warm, dry and very sunny regions, often unirrigated",
+"k": "text"
+},
+{
+"t": "On flat land, to make machine harvesting easier",
+"k": "text"
+},
+{
+"t": "In foggy areas, where they protect against grey rot",
+"k": "text"
+},
+{
+"t": "In cool, wet regions, where the canopy keeps rain off",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} In warm, dry and very sunny regions, often unirrigated",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The shade protects grapes; e.g. Southern Rhône, Barossa. They cannot be machine-harvested.",
+"k": "text"
+},
+{
+"t": "Study notes: vineyard management and pruning for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 vineyard management questions test whether you can link a grower's decision to its effect on the grapes and then on the wine. Every choice in the vineyard, from rootstock to harvest date, changes yield, ripeness, health or cost, and the examiner wants that chain of cause and effect, not a list of terms. These study notes cover the full vineyard year as it is examined at Level 3: establishing a vineyard, training and pruning, canopy and yield control, water and soil management, pests and diseases, hazards such as frost, and harvesting.",
+"k": "text"
+},
+{
+"t": "Planting a vineyard: rootstocks, propagation and density",
+"k": "text"
+},
+{
+"t": "Why grafting onto rootstocks matters",
+"k": "text"
+},
+{
+"t": "Most of the world's vines are Vitis vinifera grafted onto rootstocks from American vine species or their hybrids. The main reason is phylloxera, a root-feeding aphid that kills ungrafted vinifera vines but does little harm to American species. Rootstocks are also chosen for resistance to nematodes, tolerance of drought, lime-rich or salty soils, and for the vigour they give the vine. A high-vigour rootstock suits poor soils; a low-vigour one helps control growth on fertile soils. A few areas, such as parts of Chile and South Australia, still have many ungrafted vines because phylloxera has not become established there.",
+"k": "text"
+},
+{
+"t": "Propagation: cuttings, layering and grafting",
+"k": "text"
+},
+{
+"t": "New vines are propagated from cuttings, so each vine is genetically identical to its parent. Layering, where a cane is bent into the soil until it roots, fills gaps in an existing vineyard but only works on ungrafted vines. Grafting can be done in a nursery (bench grafting) or in the field; top grafting a new variety onto an established trunk lets a grower change variety quickly, with a crop within a year or two.",
+"k": "text"
+},
+{
+"t": "Clonal selection and mass selection",
+"k": "text"
+},
+{
+"t": "Clonal selection plants cuttings from one chosen mother vine, giving uniform vines with known traits such as yield, ripening time or disease resistance. Mass selection takes cuttings from many good vines in a vineyard, keeping more genetic diversity, which some growers believe adds complexity to the wine.",
+"k": "text"
+},
+{
+"t": "Vine density",
+"k": "text"
+},
+{
+"t": "Vine density is the number of vines per hectare. In dry, low-fertility regions vines are planted far apart so each one has enough water and nutrients. In fertile, well-watered sites high density makes vines compete, which limits vigour and yield per vine. Classic regions such as Bordeaux and Burgundy can reach around 10,000 vines per hectare, while wide rows are also needed where tractors and machine harvesters must pass.",
+"k": "text"
+},
+{
+"t": "Training, pruning and trellising: the WSET 3 vocabulary",
+"k": "text"
+},
+{
+"t": "Training, pruning and trellising are three different things, and mixing them up is one of the most common errors in WSET 3 vineyard management answers. Training is the shape of the permanent wood, pruning is the removal of unwanted parts of the vine, and trellising is the support system of posts and wires.",
+"k": "text"
+},
+{
+"t": "System",
+"k": "text"
+},
+{
+"t": "How it works",
+"k": "text"
+},
+{
+"t": "Typical use and effect",
+"k": "text"
+},
+{
+"t": "Spur-pruned bush vine (gobelet)",
+"k": "text"
+},
+{
+"t": "Head-trained, short spurs, no trellis",
+"k": "text"
+},
+{
+"t": "Hot, dry, sunny sites; leaves shade the fruit; hand harvesting only",
+"k": "text"
+},
+{
+"t": "Head-trained, one or two replacement canes laid on a wire",
+"k": "text"
+},
+{
+"t": "Cool and moderate regions such as Burgundy and Bordeaux; needs skilled pruners",
+"k": "text"
+},
+{
+"t": "Spur-pruned cordon (e.g. Cordon de Royat)",
+"k": "text"
+},
+{
+"t": "Permanent horizontal arm with short spurs",
+"k": "text"
+},
+{
+"t": "Simple to prune and partly mechanise; even spacing of shoots",
+"k": "text"
+},
+{
+"t": "Vertical shoot positioning (VSP)",
+"k": "text"
+},
+{
+"t": "Shoots trained upwards between pairs of foliage wires",
+"k": "text"
+},
+{
+"t": "Fruit in one zone, easy spraying, leaf removal and machine harvesting",
+"k": "text"
+},
+{
+"t": "Pergola (tendone, parral)",
+"k": "text"
+},
+{
+"t": "High overhead canopy",
+"k": "text"
+},
+{
+"t": "Shades fruit in hot sites, keeps grapes away from humid ground; used historically for high yields",
+"k": "text"
+},
+{
+"t": "Winter pruning and summer pruning",
+"k": "text"
+},
+{
+"t": "Winter pruning, carried out while the vine is dormant, decides how many buds are left and therefore the potential number of shoots and bunches. Leaving more buds raises yield; leaving fewer concentrates the vine's resources. Summer pruning covers trimming shoots, removing leaves and green harvesting to keep the canopy in balance during the growing season.",
+"k": "text"
+},
+{
+"t": "Exam technique: when a short written answer asks how a grower can control yield, give at least three separate tools with an effect for each: fewer buds at winter pruning, choice of rootstock and density, green harvesting, controlled irrigation and fertiliser. One tool explained well beats five named without explanation.",
+"k": "text"
+},
+{
+"t": "Canopy management and yield",
+"k": "text"
+},
+{
+"t": "Canopy management means organising the leaves and shoots so that the grapes receive the right amount of sunlight and air. A dense, shaded canopy leads to under-ripe flavours, high acidity, herbaceous notes and higher disease risk because the fruit zone stays damp. An open canopy improves ripening, colour and flavour, and lets sprays reach the bunches. In hot climates, however, too much exposure can sunburn the grapes, so growers keep some leaf cover on the side facing the afternoon sun.",
+"k": "text"
+},
+{
+"t": "Shoot positioning: tying shoots to wires so leaves and bunches are evenly spread.",
+"k": "text"
+},
+{
+"t": "Leaf removal around the bunches: more sunlight and airflow, less rot, better colour in black grapes.",
+"k": "text"
+},
+{
+"t": "Shoot thinning: removing surplus shoots in spring to avoid crowding.",
+"k": "text"
+},
+{
+"t": "Green harvesting: cutting off some bunches before or around veraison so the remaining grapes ripen more fully; it is costly and not always effective if the vine is out of balance.",
+"k": "text"
+},
+{
+"t": "Trimming: cutting back long shoots so the canopy does not shade the next row.",
+"k": "text"
+},
+{
+"t": "A balanced vine has the right ratio of leaf area to fruit: enough leaves to ripen the crop, but not so much vigour that energy goes into shoots instead of grapes. High yields usually dilute flavour and slow ripening, which is why many quality appellations set maximum yields in hectolitres per hectare.",
+"k": "text"
+},
+{
+"t": "Water, soil and nutrients",
+"k": "text"
+},
+{
+"t": "The vine needs water for photosynthesis and to keep growing, but a moderate water deficit during ripening slows shoot growth and pushes energy into the grapes, giving smaller berries with more concentrated flavour and tannin. Severe water stress, on the other hand, stops photosynthesis and ripening altogether. Where rainfall is low, irrigation is essential: drip irrigation gives precise, efficient control, flood irrigation is cheap where water is plentiful, and sprinklers can also protect against frost. Some regions restrict irrigation for quality wines, and water availability is a growing issue with climate change.",
+"k": "text"
+},
+{
+"t": "Soil management controls weeds and vine competition. Growers can cultivate (plough) between rows, use herbicides, lay mulch, or grow cover crops. Cover crops compete with the vine for water and nitrogen, reducing vigour in fertile sites, and they also improve soil structure and limit erosion on slopes. Fertilisers replace nutrients removed by the harvest, but too much nitrogen gives excessive vigour, shaded canopies and more disease.",
+"k": "text"
+},
+{
+"t": "Pests, diseases and natural hazards",
+"k": "text"
+},
+{
+"t": "Fungal, viral and bacterial problems",
+"k": "text"
+},
+{
+"t": "Problem",
+"k": "text"
+},
+{
+"t": "Cause and conditions",
+"k": "text"
+},
+{
+"t": "Main remedy",
+"k": "text"
+},
+{
+"t": "Powdery mildew (oidium)",
+"k": "text"
+},
+{
+"t": "Fungus; warm, shaded canopies, does not need rain",
+"k": "text"
+},
+{
+"t": "Sulfur sprays, open canopy",
+"k": "text"
+},
+{
+"t": "Downy mildew (peronospora)",
+"k": "text"
+},
+{
+"t": "Fungus-like organism; warm, wet weather",
+"k": "text"
+},
+{
+"t": "Copper sprays such as Bordeaux mixture",
+"k": "text"
+},
+{
+"t": "Grey rot (Botrytis bunch rot)",
+"k": "text"
+},
+{
+"t": "Botrytis cinerea in humid conditions, especially on damaged or tight bunches",
+"k": "text"
+},
+{
+"t": "Open canopy, fungicides, careful handling",
+"k": "text"
+},
+{
+"t": "Trunk diseases (e.g. esca, eutypa dieback)",
+"k": "text"
+},
+{
+"t": "Fungi entering through pruning wounds",
+"k": "text"
+},
+{
+"t": "Careful pruning, protecting wounds; few cures",
+"k": "text"
+},
+{
+"t": "Viruses (leafroll, fanleaf)",
+"k": "text"
+},
+{
+"t": "Spread by grafting or by insects and nematodes",
+"k": "text"
+},
+{
+"t": "No cure: virus-free planting material, replanting",
+"k": "text"
+},
+{
+"t": "Pierce's disease",
+"k": "text"
+},
+{
+"t": "Bacterium spread by sharpshooter insects",
+"k": "text"
+},
+{
+"t": "Control the insect; no cure for infected vines",
+"k": "text"
+},
+{
+"t": "Approaches to vineyard management",
+"k": "text"
+},
+{
+"t": "Conventional viticulture uses synthetic sprays to prevent problems. Integrated pest management (IPM) monitors pest levels and acts only when needed, combining natural predators, cultural methods and targeted sprays. Organic viticulture bans synthetic pesticides and fertilisers but allows copper and sulfur, so more frequent spraying can be needed in wet years. Biodynamic viticulture follows organic rules and adds specific preparations and a calendar based on lunar and cosmic rhythms.",
+"k": "text"
+},
+{
+"t": "Frost, winter cold and hail",
+"k": "text"
+},
+{
+"t": "Spring frost after budburst can destroy young shoots and the crop. Growers protect vines with heaters or candles, wind machines that mix warmer air from above with cold air near the ground, and sprinklers that coat buds in ice, which releases latent heat as it freezes. Late pruning delays budburst. Extreme winter cold can kill the vine itself, so in very cold regions soil is piled up over the graft union (hilling up). Hail damages leaves, shoots and grapes and opens the way to rot; nets are the main protection.",
+"k": "text"
+},
+{
+"t": "Harvesting: when and how",
+"k": "text"
+},
+{
+"t": "The harvest date balances sugar, acidity, flavour and tannin ripeness against the weather forecast, disease risk and the availability of pickers or machines. Grapes for sparkling base wine are picked early for high acidity, while grapes for sweet wines may be picked very late.",
+"k": "text"
+},
+{
+"t": "Hand harvesting",
+"k": "text"
+},
+{
+"t": "Machine harvesting",
+"k": "text"
+},
+{
+"t": "Selective: unhealthy or unripe bunches can be left",
+"k": "text"
+},
+{
+"t": "Fast and cheaper per hectare once the machine is paid for",
+"k": "text"
+},
+{
+"t": "Whole bunches intact, needed for whole-bunch pressing and carbonic maceration",
+"k": "text"
+},
+{
+"t": "Can pick at night, when grapes are cool, and quickly before bad weather",
+"k": "text"
+},
+{
+"t": "Possible on steep slopes and untrellised bush vines",
+"k": "text"
+},
+{
+"t": "Needs suitable trellising and gentle slopes; berries can be split, risking oxidation",
+"k": "text"
+},
+{
+"t": "Slow, expensive, depends on available labour",
+"k": "text"
+},
+{
+"t": "Cannot select; material other than grapes may need sorting out",
+"k": "text"
+},
+{
+"t": "How to revise vineyard management in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: write out the vine's annual cycle and add one vineyard task to each stage.",
+"k": "text"
+},
+{
+"t": "Day 2: draw the four training and pruning combinations (head/cordon, spur/cane) from memory.",
+"k": "text"
+},
+{
+"t": "Day 3: learn the disease table and practise one sentence per disease: cause, conditions, remedy.",
+"k": "text"
+},
+{
+"t": "Day 4: explain three frost protection methods and why each works.",
+"k": "text"
+},
+{
+"t": "Day 5: list hand versus machine harvesting and link each point to a wine style.",
+"k": "text"
+},
+{
+"t": "Day 6: answer ten timed multiple-choice questions on this topic in the app, then review every mistake.",
+"k": "text"
+},
+{
+"t": "Day 7: write one short written answer on yield control and mark it against the cause, effect, style structure.",
+"k": "text"
+},
+{
+"t": "Common mistake: writing that low yields always make better wine. A vine can be out of balance at low yields too. At WSET Level 3, explain that the aim is a balanced vine that ripens its crop fully, and that maximum yields are a legal or quality tool rather than a guarantee.",
+"k": "text"
+},
+{
+"t": "Worked examples: vineyard management short written answers",
+"k": "text"
+},
+{
+"t": "Question 1: Explain how a grower in a hot, dry region can manage the vineyard to produce balanced, good-quality grapes. Model answer: drip irrigation supplies controlled amounts of water, so the vine keeps photosynthesising without excessive vigour, and a mild deficit during ripening concentrates flavour. Low vine density gives each vine more water and nutrients. Bush vines or canopies that keep some leaves over the fruit shade the bunches and prevent sunburn. Choosing drought-tolerant rootstocks and late-ripening varieties that keep acidity, and harvesting at night when grapes are cool, also help preserve freshness.",
+"k": "text"
+},
+{
+"t": "Question 2: Compare sprinklers and wind machines as protection against spring frost. Model answer: wind machines work during radiation frosts on still, clear nights, when a layer of warmer air sits above the cold air near the ground; the fans mix the two and raise the temperature around the buds. Sprinklers coat the buds with water that freezes, releasing latent heat that keeps the bud at about 0 °C; they need a reliable water supply and must run until the ice melts. Neither method helps much against strong, cold winds, when the whole air mass is freezing.",
+"k": "text"
+},
+{
+"t": "Where vineyard management fits in the WSET Level 3 exam",
+"k": "text"
+},
+{
+"t": "Level 3 has two separate units, each needing at least 55%: the theory unit, with 50 multiple-choice questions and 4 short written-answer questions, and the tasting unit, with two wines assessed blind. They are marked independently, so a failed unit is retaken on its own. Vineyard management is mainly a theory topic, but it is the foundation of almost every regional answer: whenever you explain a style, a vineyard decision such as yield, canopy or harvest date is often one link in the chain. It also helps in tasting, where under-ripe green notes or very ripe, jammy fruit can point to how the grapes were grown.",
+"k": "text"
+},
+{
+"t": "Common mistakes in vineyard management answers",
+"k": "text"
+},
+{
+"t": "Saying grafting protects against all pests and diseases: rootstocks mainly address phylloxera and nematodes, plus soil and vigour issues.",
+"k": "text"
+},
+{
+"t": "Writing that green harvesting always improves quality: it helps only if the vine is otherwise in balance.",
+"k": "text"
+},
+{
+"t": "Describing powdery mildew as a disease of wet weather: it thrives in warm, shaded canopies and does not need rain.",
+"k": "text"
+},
+{
+"t": "Confusing organic and biodynamic viticulture: biodynamics follows organic rules and adds its own preparations and calendar.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "97 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Vineyard management and pruning are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 97 multiple-choice questions on Vineyard management and pruning, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Vineyard management and pruning important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Vineyard management and pruning, can come up.",
+"k": "text"
+},
+{
+"t": "What is the difference between training and pruning for WSET 3?",
+"k": "text"
+},
+{
+"t": "Training describes the permanent shape of the vine's wood, either head-trained or cordon-trained, and either low or high. Pruning is the removal of unwanted wood and shoots. Winter pruning sets the number of buds, either on short spurs or on longer replacement canes, while summer pruning manages the canopy during the growing season. Many candidates confuse the two in written answers.",
+"k": "text"
+},
+{
+"t": "Which frost protection methods do I need to know for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Know heaters or candles, wind machines, sprinklers and late pruning for spring frost, plus site selection away from frost pockets. Sprinklers work because freezing water releases heat that keeps the bud near 0 °C. Wind machines only work during radiation frosts with a warmer layer of air above. For winter cold, know that soil is heaped over the graft union to protect it.",
+"k": "text"
+},
+{
+"t": "Why are vines grafted onto rootstocks in WSET 3?",
+"k": "text"
+},
+{
+"t": "Vines are grafted mainly to resist phylloxera, an aphid that attacks the roots of Vitis vinifera but not of American vine species. Rootstocks also bring resistance to nematodes, tolerance of drought, salt or lime-rich soils, and they influence vine vigour. Choosing the right rootstock for a site is one of the first and longest-lasting decisions a grower makes.",
+"k": "text"
+},
+{
+"t": "What is the difference between powdery and downy mildew for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Powdery mildew (oidium) thrives in warm, shaded canopies and does not need rain; it is controlled with sulfur. Downy mildew (peronospora) needs warm, wet weather and is controlled with copper sprays such as Bordeaux mixture. Both attack the green parts of the vine and the grapes, reduce yield and can give off-flavours, so open canopies help prevent them.",
+"k": "text"
+},
+{
+"t": "Is organic viticulture the same as biodynamic for WSET 3?",
+"k": "text"
+},
+{
+"t": "No. Organic viticulture bans synthetic fertilisers, herbicides and pesticides but allows copper and sulfur sprays. Biodynamic viticulture follows the same restrictions and adds special preparations applied to soil and vines, plus a calendar linked to lunar and cosmic cycles. Both are certified by independent bodies, and both can cost more because of extra labour and lower yields in difficult years.",
+"k": "text"
+},
+{
+"t": "What is the difference between a radiation frost and an advection frost?",
+"k": "text"
+},
+{
+"t": "A radiation frost happens on clear, still nights when heat escapes from the ground and cold air settles in low-lying sites, with warmer air above; wind machines and heaters work well here. An advection frost arrives when a mass of freezing air is blown in by wind, so there is no warm layer to mix in. It is much harder to fight, and site selection becomes the main protection.",
+"k": "text"
+},
+{
+"t": "Why do some growers plant cover crops between the rows?",
+"k": "text"
+},
+{
+"t": "Cover crops compete with the vine for water and nitrogen, which reduces vigour on fertile sites and helps balance the canopy. They also improve soil structure, add organic matter, encourage beneficial insects and limit erosion on slopes. In dry regions they can take too much water, so growers may mow them or plant them only in alternate rows during the growing season.",
+"k": "text"
+},
+{
+"t": "How does canopy management change the taste of the wine?",
+"k": "text"
+},
+{
+"t": "A shaded, dense canopy keeps grapes cool and damp, so they ripen less, keep more acidity and can taste green or herbaceous, with more risk of rot. An open canopy gives more sunlight and airflow, improving ripeness, colour and flavour intensity. Too much exposure in hot climates can cause sunburn and cooked fruit flavours, so the right canopy depends on the climate and the grape.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Vineyard management and pruning – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Vineyard management and pruning practice questions with answers and explanations, plus 97 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "In which year after planting does the first crop usually come?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Young pre-grafted vines are often protected by plastic sleeves; irrigation is sometimes allowed for establishment.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At what age are most vines replaced?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "With age yields fall and disease susceptibility rises: quality must be balanced against profit.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How long is land usually left fallow after vines are dug up?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Growers plan replanting cycles to keep as little land out of production as possible.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What does vine training refer to?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is split into head and cordon training; either can be low (soil heat) or high (avoiding frost).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is replacement cane pruning with one or two canes also called?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "One cane in Single Guyot, two in Double. It is more complex than spur pruning and needs skilled labour.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where are untrellised bush vines best suited?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The shade protects grapes; e.g. Southern Rhône, Barossa. They cannot be machine-harvested.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

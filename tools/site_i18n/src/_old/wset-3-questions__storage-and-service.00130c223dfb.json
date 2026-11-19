@@ -1,0 +1,967 @@
+{
+"group": "wset-3-questions__storage-and-service",
+"source": "wset-3-questions/storage-and-service/index.html",
+"url": "/wset-3-questions/storage-and-service/",
+"region": "main",
+"sha": "00130c223dfb",
+"words": 3408,
+"segment_words": 3671,
+"segments": [
+{
+"t": "WSET 3 Storage and service – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Storage and service practice questions with answers and explanations, plus 49 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Storage and service, WSET Level 3 Storage and service, Storage and service WSET questions, Storage and service wine quiz, Storage and service wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Storage and service: practice questions with answers – WSET 3 Storage and service, WSET Level 3 Storage and service (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Storage and service",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Storage and service: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Storage and service, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 49 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Storage and service: practice questions with answers | WSET 3 Storage and service",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Storage and service practice questions with answers and explanations, plus 49 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} At what temperature should wine be stored long term?",
+"k": "text"
+},
+{
+"t": "Between 18 and 22 °C, ready to serve",
+"k": "text"
+},
+{
+"t": "Between 0 and 5 °C, as in a fridge",
+"k": "text"
+},
+{
+"t": "Any temperature, as long as it is dark",
+"k": "text"
+},
+{
+"t": "Cool and constant, 10–15 °C, in the dark",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cool and constant, 10–15 °C, in the dark",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Extremes of heat and cold damage wine; constancy matters most.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Why is a kitchen one of the worst places to store wine?",
+"k": "text"
+},
+{
+"t": "Because food odours get into the bottle",
+"k": "text"
+},
+{
+"t": "Because of too much daylight from the windows",
+"k": "text"
+},
+{
+"t": "Because of wide temperature fluctuations",
+"k": "text"
+},
+{
+"t": "Because damp makes labels and corks go mouldy",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Because of wide temperature fluctuations",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Experts name temperature swings as the kitchen's main problem.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What can extended refrigeration cause?",
+"k": "text"
+},
+{
+"t": "Corks harden, lose their elasticity and start to let air in",
+"k": "text"
+},
+{
+"t": "The wine becomes sweeter as tartaric acid precipitates",
+"k": "text"
+},
+{
+"t": "The wine concentrates in the cold and gains alcohol",
+"k": "text"
+},
+{
+"t": "Cold halts development and the wine stays young for decades",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Corks harden, lose their elasticity and start to let air in",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The seal fails, air makes the wine stale and sparkling wines lose their fizz.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Why are cork-sealed bottles stored on their side?",
+"k": "text"
+},
+{
+"t": "To save space on the racks in the cellar or shop",
+"k": "text"
+},
+{
+"t": "So the deposit spreads out evenly along the bottle",
+"k": "text"
+},
+{
+"t": "To make the wine age faster and more evenly overall",
+"k": "text"
+},
+{
+"t": "So the cork stays in contact with the wine and doesn't dry",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} So the cork stays in contact with the wine and doesn't dry",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} A dry cork lets in air that oxidises the wine. Screwcapped bottles can stand upright.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is the service temperature for medium/full-bodied oaked whites (e.g. white Burgundy)?",
+"k": "text"
+},
+{
+"t": "15–18 °C, room temperature",
+"k": "text"
+},
+{
+"t": "6–8 °C, well chilled, in a bucket",
+"k": "text"
+},
+{
+"t": "10–13 °C, lightly chilled",
+"k": "text"
+},
+{
+"t": "4–6 °C, almost ice cold",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 10–13 °C, lightly chilled",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Fumé Blanc is 's other example of this style.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What service temperature for light whites like Muscadet, Pinot Grigio, NZ Sauvignon Blanc?",
+"k": "text"
+},
+{
+"t": "About 13 °C, cellar",
+"k": "text"
+},
+{
+"t": "7–10 °C, chilled",
+"k": "text"
+},
+{
+"t": "15–18 °C, room temp",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 7–10 °C, chilled",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Experts also put Fino Sherry in this group.",
+"k": "text"
+},
+{
+"t": "Study notes: wine storage and service for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 storage and service questions test whether you understand why each rule exists, not just the numbers. Every recommendation on storing, serving, opening, decanting and preserving wine comes back to the same few enemies: heat, temperature swings, light, dry air, oxygen and taint. If you can explain how each one damages a wine, you can answer almost any multiple-choice or short written question on this topic.",
+"k": "text"
+},
+{
+"t": "The six conditions for long-term wine storage",
+"k": "text"
+},
+{
+"t": "Good long-term storage means a cool, constant temperature (roughly 10–15 °C), darkness, moderate humidity, no vibration, no strong smells and, for bottles sealed with cork, a horizontal position. Constancy matters more than the exact figure: a cellar that sits steadily at 16 °C is safer than a room that swings between 8 and 20 °C, because every swing makes the wine expand and contract and can push air past the cork.",
+"k": "text"
+},
+{
+"t": "Heat speeds up chemical reactions, so the wine develops too fast and loses fresh fruit; extreme heat gives cooked, jammy flavours and can push the cork up.",
+"k": "text"
+},
+{
+"t": "Temperature fluctuation pumps air in and out of the bottle, leading to oxidation and seepage around the cork.",
+"k": "text"
+},
+{
+"t": "Light, especially strong sunlight and some artificial light, can cause light strike: unpleasant cabbage or wet-wool aromas. Clear and pale bottles, light whites and sparkling wines are most at risk.",
+"k": "text"
+},
+{
+"t": "Very dry air dries out corks from the outside; very damp air does not harm the wine but rots labels.",
+"k": "text"
+},
+{
+"t": "Vibration is widely believed to disturb sediment and ageing, so racks are kept away from machinery.",
+"k": "text"
+},
+{
+"t": "Strong odours (paint, cleaning products, food) are best avoided around stored wine, as cork is not a perfect barrier.",
+"k": "text"
+},
+{
+"t": "Exam technique: when a question asks why a place is unsuitable for storing wine (kitchen, garage, shop window, top of the fridge), name the specific enemy and its effect. 'The kitchen is too warm and its temperature fluctuates, which ages the wine prematurely and lets oxygen in' scores; 'it is a bad environment' does not.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 service temperatures: the table to learn",
+"k": "text"
+},
+{
+"t": "Service temperature changes how a wine tastes: cold suppresses aroma and sweetness and makes tannin and bitterness more noticeable, while warmth releases aroma but makes alcohol stand out and can make a wine taste flabby. This is why tannic reds are served warmer and sweet or sparkling wines colder. Learn the bands below as a set, with one example per style.",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Service temperature",
+"k": "text"
+},
+{
+"t": "Typical examples",
+"k": "text"
+},
+{
+"t": "Sweet wines",
+"k": "text"
+},
+{
+"t": "Well chilled, 6–8 °C",
+"k": "text"
+},
+{
+"t": "Sauternes, sweet Loire Chenin, Tokaji",
+"k": "text"
+},
+{
+"t": "Sparkling wines",
+"k": "text"
+},
+{
+"t": "Well chilled, 6–10 °C",
+"k": "text"
+},
+{
+"t": "Champagne, Cava, Prosecco",
+"k": "text"
+},
+{
+"t": "Light- and medium-bodied whites",
+"k": "text"
+},
+{
+"t": "Chilled, 7–10 °C",
+"k": "text"
+},
+{
+"t": "Muscadet, Pinot Grigio, unoaked Sauvignon Blanc, Fino Sherry",
+"k": "text"
+},
+{
+"t": "Medium- and full-bodied oaked whites",
+"k": "text"
+},
+{
+"t": "Lightly chilled, 10–13 °C",
+"k": "text"
+},
+{
+"t": "White Burgundy, oaked Chardonnay, Fumé Blanc",
+"k": "text"
+},
+{
+"t": "Light-bodied reds",
+"k": "text"
+},
+{
+"t": "Lightly chilled, around 13 °C",
+"k": "text"
+},
+{
+"t": "Beaujolais, light Pinot Noir, Valpolicella",
+"k": "text"
+},
+{
+"t": "Medium- and full-bodied reds",
+"k": "text"
+},
+{
+"t": "Room temperature, 15–18 °C",
+"k": "text"
+},
+{
+"t": "Bordeaux, Rioja, Barolo, Shiraz",
+"k": "text"
+},
+{
+"t": "Note that 'room temperature' means 15–18 °C, not the 22–24 °C of a modern heated room. A full-bodied red served too warm tastes hot and soupy; a quick 15 minutes in an ice bucket or fridge is the correct fix. Sparkling wine served too warm also loses its fizz faster and is harder to open safely.",
+"k": "text"
+},
+{
+"t": "Opening sparkling wine and decanting: step by step",
+"k": "text"
+},
+{
+"t": "How to open a bottle of sparkling wine safely",
+"k": "text"
+},
+{
+"t": "A sparkling wine bottle is under several atmospheres of pressure, so the cork can cause injury. The aim is a quiet release of gas with no spilled wine, not a loud pop.",
+"k": "text"
+},
+{
+"t": "Make sure the wine is well chilled: cold wine holds its carbon dioxide better.",
+"k": "text"
+},
+{
+"t": "Remove the foil and keep a thumb on the cork from the moment you loosen the wire cage.",
+"k": "text"
+},
+{
+"t": "Tilt the bottle at about 45° and point it away from people and fragile objects.",
+"k": "text"
+},
+{
+"t": "Hold the cork and cage firmly and turn the bottle, not the cork.",
+"k": "text"
+},
+{
+"t": "Let the cork ease out slowly so the gas escapes with a gentle sigh.",
+"k": "text"
+},
+{
+"t": "Pour in two stages into a clean glass, letting the foam settle before topping up.",
+"k": "text"
+},
+{
+"t": "Decanting: separating sediment and aerating",
+"k": "text"
+},
+{
+"t": "Decanting has two purposes. The first is to separate a wine from its sediment, typical of vintage Port, unfiltered wines and mature full-bodied reds. The second is to aerate a young wine so its aromas open up. For sediment, stand the bottle upright for a day or more so the deposit settles, open it without shaking, then pour slowly and steadily into the decanter with a light (a torch or candle) under the neck of the bottle. Stop as soon as the sediment reaches the neck. Very old, fragile wines should be decanted just before serving, because extended air contact can make them fade quickly.",
+"k": "text"
+},
+{
+"t": "Glassware, preservation and common faults at service",
+"k": "text"
+},
+{
+"t": "Choosing and preparing glasses",
+"k": "text"
+},
+{
+"t": "The ideal glass is clear, has a stem and a bowl that tapers towards the rim to concentrate aromas. Reds generally get larger bowls, whites medium ones, and sparkling wines tall flutes or tulips that show off the bubbles and slow their loss. Glasses must be perfectly clean: traces of detergent flatten the mousse of sparkling wine and add off-aromas, and glasses stored in cardboard boxes or cupboards can pick up musty smells. Rinsing in hot water and polishing with a clean, dry cloth is the standard routine.",
+"k": "text"
+},
+{
+"t": "Keeping wine once it is open",
+"k": "text"
+},
+{
+"t": "Once a bottle is open, oxygen starts to change it, so preservation methods all work by limiting contact with air. Vacuum pumps remove air from the bottle; inert gas systems lay a protective blanket of gas over the surface of the wine; special stoppers keep the pressure in sparkling wine. Refrigerating the open bottle, red or white, slows down oxidation. Systems that pour through the cork with a needle and replace the wine with inert gas allow wines to be served by the glass for weeks.",
+"k": "text"
+},
+{
+"t": "Faults to recognise before serving",
+"k": "text"
+},
+{
+"t": "Checking each bottle before it reaches the guest is part of professional service. The main faults are listed below; at Level 3 you should be able to name each one and describe its typical smell.",
+"k": "text"
+},
+{
+"t": "Cork taint (TCA): musty, damp cardboard aromas, with fruit muted even at low levels.",
+"k": "text"
+},
+{
+"t": "Oxidation: loss of fresh fruit, browning, flat or nutty and toffee notes in a wine not made in that style.",
+"k": "text"
+},
+{
+"t": "Heat damage: cooked or jammy fruit, sometimes a raised cork or leaking bottle.",
+"k": "text"
+},
+{
+"t": "Light strike: cabbage or wet-wool notes, mostly in clear-bottled whites and sparkling wines.",
+"k": "text"
+},
+{
+"t": "Reduction: rotten egg, struck match or cabbage-like aromas from sulfur compounds.",
+"k": "text"
+},
+{
+"t": "Excess volatile acidity: vinegar or nail-varnish remover aromas.",
+"k": "text"
+},
+{
+"t": "Common mistake: tartrate crystals and the deposit in an old red are not faults. They are harmless and natural; the correct answer to a guest is to explain this and, if needed, decant the wine.",
+"k": "text"
+},
+{
+"t": "How to revise WSET 3 storage and service in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "This topic is small and very scoreable, so it is a perfect quick-win for the multiple-choice paper. Spread it over a week rather than cramming.",
+"k": "text"
+},
+{
+"t": "Day 1: write the six storage conditions from memory and, next to each, the damage it prevents.",
+"k": "text"
+},
+{
+"t": "Day 2: rewrite the service temperature table from memory with one example per style; check it against the notes.",
+"k": "text"
+},
+{
+"t": "Day 3: practise explaining, in two sentences, why temperature affects the perception of tannin, alcohol and aroma.",
+"k": "text"
+},
+{
+"t": "Day 4: list the steps for opening sparkling wine and for decanting, in the right order.",
+"k": "text"
+},
+{
+"t": "Day 5: describe each fault in one line (cause plus smell) and add the non-faults: tartrates and sediment.",
+"k": "text"
+},
+{
+"t": "Day 6–7: answer mixed questions in the app and re-read only the items you missed.",
+"k": "text"
+},
+{
+"t": "Linking each rule to its cause also helps the 4 short written-answer questions: a question on serving a dinner menu, for example, may ask you to justify temperatures and glassware for several wines at once.",
+"k": "text"
+},
+{
+"t": "Sample short written answer: serving a mature red with sediment",
+"k": "text"
+},
+{
+"t": "Question: A guest orders a 20-year-old red Bordeaux. Describe how it should be prepared and served, and explain the reason for each step. (Model answer.)",
+"k": "text"
+},
+{
+"t": "The bottle should be stood upright for some time before service, ideally a day or more, so that the sediment slides to the bottom of the bottle. It is presented to the guest with the label visible so that the producer and vintage can be confirmed. The foil is cut below the lip of the bottle so that the wine does not touch it when poured, and the neck is wiped clean. The cork is removed gently, because an old cork can be fragile and may crumble.",
+"k": "text"
+},
+{
+"t": "The wine is then smelled or tasted by the server to check for faults such as cork taint, since an old wine is more likely to be affected by a poor cork or oxidation. It is decanted slowly and steadily over a light source, such as a candle or a torch, so that the server can see the sediment reach the neck and stop pouring at that point. Decanting should be done shortly before serving, because the delicate tertiary aromas of an old wine can fade quickly once exposed to air. The wine is served at room temperature, around 15 to 18 °C, in a large glass, filled only to about a third so that the aromas can gather.",
+"k": "text"
+},
+{
+"t": "Notice that every action is followed by a reason. A list of steps alone earns only part of the marks; the explanation is what the examiner is looking for.",
+"k": "text"
+},
+{
+"t": "Service scenarios: what would you do?",
+"k": "text"
+},
+{
+"t": "Short practical cases like these appear in the written answers. Practise giving a decision and a reason.",
+"k": "text"
+},
+{
+"t": "A bottle of white smells musty, like damp cardboard: it is probably affected by cork taint. Apologise, remove it and open a new bottle; the problem is in the bottle, not in the wine style.",
+"k": "text"
+},
+{
+"t": "A light-bodied red arrives too warm: chill it briefly in an ice bucket with water, because at high temperature the alcohol stands out and the fruit seems flabby.",
+"k": "text"
+},
+{
+"t": "A sparkling wine foams heavily when opened: it was probably too warm or shaken. Chill bottles thoroughly and pour in two stages.",
+"k": "text"
+},
+{
+"t": "A young, very tannic red seems closed: decanting it adds air, which can help the aromas open and make the wine seem softer to some tasters.",
+"k": "text"
+},
+{
+"t": "Small crystals appear in a white wine: these are harmless tartrates, not a fault. Explain this to the guest and, if needed, decant or pour carefully.",
+"k": "text"
+},
+{
+"t": "Common mistakes on storage and service",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Correct idea",
+"k": "text"
+},
+{
+"t": "Serving full-bodied reds \"at room temperature\" in a warm room",
+"k": "text"
+},
+{
+"t": "Room temperature means about 15 to 18 °C, not the temperature of a heated restaurant",
+"k": "text"
+},
+{
+"t": "Serving sweet wines only lightly chilled",
+"k": "text"
+},
+{
+"t": "Sweet wines are served well chilled, about 6 to 8 °C, to balance the sweetness",
+"k": "text"
+},
+{
+"t": "Storing bottles with natural cork upright for a long time",
+"k": "text"
+},
+{
+"t": "Store them on their side so that the cork stays moist and does not let in air",
+"k": "text"
+},
+{
+"t": "Calling tartrate crystals a fault",
+"k": "text"
+},
+{
+"t": "They are harmless deposits caused by cold",
+"k": "text"
+},
+{
+"t": "Decanting an old wine hours before service",
+"k": "text"
+},
+{
+"t": "Decant just before serving to protect fragile tertiary aromas",
+"k": "text"
+},
+{
+"t": "Where storage and service fit in the exam",
+"k": "text"
+},
+{
+"t": "Storage and service questions belong to the theory unit, so they can appear among the 50 multiple-choice questions or within a short written answer. Remember that at Level 3 theory and tasting are two separate units, with at least 55% needed in each; if you fail one, you retake only that unit. Service knowledge still helps in the tasting, because recognising faults such as cork taint or oxidation is part of describing a wine accurately.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "49 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Storage and service are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 49 multiple-choice questions on Storage and service, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Storage and service important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Storage and service, can come up.",
+"k": "text"
+},
+{
+"t": "Which service temperatures do I need to know for WSET 3?",
+"k": "text"
+},
+{
+"t": "You need six bands: sweet wines well chilled (6–8 °C), sparkling well chilled (6–10 °C), light- and medium-bodied whites chilled (7–10 °C), medium- and full-bodied oaked whites lightly chilled (10–13 °C), light-bodied reds lightly chilled (around 13 °C) and medium- and full-bodied reds at room temperature (15–18 °C). Learn one example wine for each band, because questions are often phrased with a named wine.",
+"k": "text"
+},
+{
+"t": "Why do tannic red wines need to be served warmer?",
+"k": "text"
+},
+{
+"t": "Cold makes tannins feel harsher and more bitter and suppresses the wine's aromas, so a full-bodied tannic red served too cold tastes hard and closed. At 15–18 °C the tannins feel smoother and the fruit is expressive. Too warm, however, and the alcohol becomes dominant and the wine seems flabby, so room temperature in a wine sense means cooler than a heated modern room.",
+"k": "text"
+},
+{
+"t": "How do you decant a wine with sediment for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Stand the bottle upright for at least a day so the sediment settles. Open it carefully without disturbing the deposit, then pour slowly and continuously into the decanter with a light source under the neck of the bottle. Stop pouring as soon as sediment reaches the neck. Old, fragile wines should be decanted just before serving to avoid fading.",
+"k": "text"
+},
+{
+"t": "What is the difference between a wine fault and a harmless deposit?",
+"k": "text"
+},
+{
+"t": "A fault, such as cork taint, oxidation, heat damage or light strike, changes aroma and flavour in an unpleasant way and is a reason to replace the bottle. Tartrate crystals in whites and sediment in mature reds or vintage Port are natural and do not affect quality. In service, a deposit is handled by decanting or careful pouring, not by sending the bottle back.",
+"k": "text"
+},
+{
+"t": "How do you keep an open bottle of wine fresh?",
+"k": "text"
+},
+{
+"t": "Limit oxygen and keep it cold. Vacuum pumps remove air from the bottle, inert gas systems cover the wine's surface with a protective layer, and pressure stoppers keep the bubbles in sparkling wine. Putting any open bottle, red or white, in the fridge slows oxidation. Needle-through-cork systems let you pour without removing the cork, so the wine is barely exposed to air.",
+"k": "text"
+},
+{
+"t": "Should young red wines be decanted?",
+"k": "text"
+},
+{
+"t": "They can be. A young red usually has no sediment, but decanting exposes it to air, which can help a closed, tannic wine show more aroma and seem softer. The benefit is debated and depends on the wine, but for WSET answers the key reasons to decant are separating sediment in older wines and aerating young, full-bodied reds.",
+"k": "text"
+},
+{
+"t": "Why should bottles with natural corks be stored on their side?",
+"k": "text"
+},
+{
+"t": "Lying the bottle down keeps the wine in contact with the cork, so the cork stays moist and keeps its seal. A cork that dries out can shrink and let air into the bottle, causing oxidation. Bottles with screw caps or synthetic closures do not need to be stored on their side, although it does them no harm.",
+"k": "text"
+},
+{
+"t": "What is the quickest way to chill a bottle of wine?",
+"k": "text"
+},
+{
+"t": "An ice bucket filled with a mix of ice and water is the most effective, because water surrounds the whole bottle and transfers cold faster than ice alone or the air of a fridge. Adding a little salt lowers the temperature further. Avoid leaving wine in a freezer, where it can be forgotten and the bottle may crack.",
+"k": "text"
+},
+{
+"t": "Do storage and service come up in the WSET 3 theory or the tasting?",
+"k": "text"
+},
+{
+"t": "They are part of the theory unit, in the multiple-choice questions or the short written answers. Theory and tasting are separate units, each needing at least 55%, and a failed unit is retaken on its own. In the tasting, however, recognising faults linked to poor storage, such as oxidation or heat damage, helps you write an accurate note.",
+"k": "text"
+},
+{
+"t": "How full should a wine glass be?",
+"k": "text"
+},
+{
+"t": "For still wines, about a third of the glass leaves space to swirl and lets the aromas collect, so the wine can be assessed and enjoyed. Sparkling wines are often poured higher in a flute or tulip glass, in two stages to control the foam. Overfilling makes swirling difficult and warms the wine faster in the hand.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Storage and service – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Storage and service practice questions with answers and explanations, plus 49 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At what temperature should wine be stored long term?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Extremes of heat and cold damage wine; constancy matters most.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why is a kitchen one of the worst places to store wine?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Experts name temperature swings as the kitchen's main problem.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What can extended refrigeration cause?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The seal fails, air makes the wine stale and sparkling wines lose their fizz.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why are cork-sealed bottles stored on their side?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "A dry cork lets in air that oxidises the wine. Screwcapped bottles can stand upright.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the service temperature for medium/full-bodied oaked whites (e.g. white Burgundy)?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Fumé Blanc is another example of this style.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What service temperature for light whites like Muscadet, Pinot Grigio, NZ Sauvignon Blanc?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Experts also put Fino Sherry in this group.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

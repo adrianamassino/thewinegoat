@@ -1,0 +1,950 @@
+{
+"group": "wset-3-questions__white-winemaking",
+"source": "wset-3-questions/white-winemaking/index.html",
+"url": "/wset-3-questions/white-winemaking/",
+"region": "main",
+"sha": "d2d126733ad3",
+"words": 3209,
+"segment_words": 3491,
+"segments": [
+{
+"t": "WSET 3 White wines – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 White wines practice questions with answers and explanations, plus 104 more in the app: MCQs, short written answers, flashcards and mock…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 White wines, WSET Level 3 White wines, White wines WSET questions, White wines wine quiz, White wines wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 White wines: practice questions with answers – WSET 3 White wines, WSET Level 3 White wines (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "White wines",
+"k": "text"
+},
+{
+"t": "WSET Level 3 White wines: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on White wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 104 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 White wines: practice questions with answers | WSET 3 White wines",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 White wines practice questions with answers and explanations, plus 104 more in the app: MCQs, short written answers, flashcards and mock….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Why does white juice usually spend little time on the skins?",
+"k": "text"
+},
+{
+"t": "To keep the tannin from white skins",
+"k": "text"
+},
+{
+"t": "To reduce the risk of oxidation",
+"k": "text"
+},
+{
+"t": "To get malolactic conversion going at once",
+"k": "text"
+},
+{
+"t": "To avoid excessive varietal aromas in the wine",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} To reduce the risk of oxidation",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Whole-bunch pressing limits contact further, gently, potentially giving purer, more delicate wines.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Why is short skin contact sometimes used for aromatic varieties?",
+"k": "text"
+},
+{
+"t": "To extract colour and tannin as for a light red wine",
+"k": "text"
+},
+{
+"t": "To reduce the risk of the juice oxidising",
+"k": "text"
+},
+{
+"t": "To increase flavour intensity and texture",
+"k": "text"
+},
+{
+"t": "To lower acidity and prepare for malolactic",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} To increase flavour intensity and texture",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It usually lasts a few hours, cool enough to prevent fermentation.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is the optimum fermentation temperature for whites?",
+"k": "text"
+},
+{
+"t": "25-32 °C",
+"k": "text"
+},
+{
+"t": "12-22 °C",
+"k": "text"
+},
+{
+"t": "5-10 °C",
+"k": "text"
+},
+{
+"t": "35-40 °C",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 12-22 °C",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Too cold gives pear drop and loses varietal fruit; warmer gives complex non-fruit aromas but loses fruit.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What aroma forms if a white is fermented too cold?",
+"k": "text"
+},
+{
+"t": "Vanilla and coconut (oak)",
+"k": "text"
+},
+{
+"t": "Leather and earth (Brett)",
+"k": "text"
+},
+{
+"t": "Pear drop (estery)",
+"k": "text"
+},
+{
+"t": "Butter and cream (diacetyl)",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Pear drop (estery)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Too cold a fermentation can also fail to capture varietal fruit.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} At what temperature do barrel fermentations usually run?",
+"k": "text"
+},
+{
+"t": "Below 10 °C throughout fermentation",
+"k": "text"
+},
+{
+"t": "At the higher end of the 12–22 °C range",
+"k": "text"
+},
+{
+"t": "At the lower end of the 12–22 °C range",
+"k": "text"
+},
+{
+"t": "Between 26 and 32 °C, as for many reds",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} At the higher end of the 12–22 °C range",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Barrels are hard to cool but, small and in cool cellars, dissipate heat well.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What is the main role of blending in aromatic, primary-fruit whites?",
+"k": "text"
+},
+{
+"t": "Lowering acidity with wines that have been through MLF",
+"k": "text"
+},
+{
+"t": "Adding structure with wines fermented in new barrels",
+"k": "text"
+},
+{
+"t": "Ensuring consistency rather than adding complexity",
+"k": "text"
+},
+{
+"t": "Adding tertiary notes from older reserve wines",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Ensuring consistency rather than adding complexity",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Many whites rely on pure primary fruit, so blending focuses on consistency. For non-aromatic varieties like Chardonnay the reverse may apply: batches given different lees, MLF and oak treatment are blended for a more complex style.",
+"k": "text"
+},
+{
+"t": "Study notes: white winemaking for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 white winemaking questions revolve around one decision: does the winemaker want to protect fresh, primary fruit, or build texture and complexity? Almost every step, from how the grapes are pressed to whether malolactic conversion is allowed, follows from that choice. These notes walk through the process in order, then cover sweet white wines and the four main style families, so you can explain each technique, its effect and the style it produces.",
+"k": "text"
+},
+{
+"t": "From vineyard to press: protecting the juice",
+"k": "text"
+},
+{
+"t": "Harvest and reception",
+"k": "text"
+},
+{
+"t": "White grapes are vulnerable to oxidation and loss of aroma once the skins break, so many producers pick at night or early in the morning and bring the fruit to the winery quickly and cool. For aromatic varieties the winemaker may use sulfur dioxide and inert gases such as carbon dioxide or nitrogen to keep oxygen away from the juice. This protective, or reductive, handling keeps fresh citrus, green fruit and floral notes.",
+"k": "text"
+},
+{
+"t": "Crushing, skin contact and pressing",
+"k": "text"
+},
+{
+"t": "Most white grapes are crushed and pressed soon after arrival because the skins contribute little that is wanted and extended contact can extract bitter phenolics. Whole-bunch pressing skips crushing: the stems create channels for the juice, the pressing is gentle and the result is a purer, lower-phenolic juice, widely used for premium whites and sparkling base wines. Pneumatic presses inflate a membrane slowly and are favoured because they are gentle and can work in an inert atmosphere. The first juice to run, the free-run juice, is the finest; later press fractions are richer in phenolics and may be kept apart.",
+"k": "text"
+},
+{
+"t": "Exam technique: if a question asks why a winemaker uses short skin contact for a white wine, the answer is to increase flavour intensity and texture in aromatic varieties, usually for a few hours at a cool temperature so that fermentation does not start. Do not say it is for colour or tannin.",
+"k": "text"
+},
+{
+"t": "Juice clarification",
+"k": "text"
+},
+{
+"t": "Before fermentation the juice is usually clarified to remove solids. The simplest method is settling: the juice is chilled and left for the solids to fall to the bottom, then the clear juice is racked off. Centrifugation and flotation are faster options used by large wineries. Very clear juice gives clean, fruity wines; leaving some solids can add complexity and help a natural fermentation, at a higher risk of off-flavours.",
+"k": "text"
+},
+{
+"t": "Fermentation choices for white wines",
+"k": "text"
+},
+{
+"t": "White wine fermentations usually run between 12 and 22 °C. Cool temperatures preserve delicate primary aromas, while the warmer end of the range gives fuller, more complex wines with less overt fruit. The fermentation vessel is the other big decision.",
+"k": "text"
+},
+{
+"t": "Vessel",
+"k": "text"
+},
+{
+"t": "Effect on the wine",
+"k": "text"
+},
+{
+"t": "Typical examples",
+"k": "text"
+},
+{
+"t": "Stainless steel",
+"k": "text"
+},
+{
+"t": "Inert, easy to cool precisely; keeps primary fruit pure",
+"k": "text"
+},
+{
+"t": "Riesling, Sauvignon Blanc, Pinot Grigio, many inexpensive whites",
+"k": "text"
+},
+{
+"t": "Oak barrel",
+"k": "text"
+},
+{
+"t": "Some oxygen, integrates oak flavours, adds texture; harder to cool",
+"k": "text"
+},
+{
+"t": "Premium Chardonnay, white Bordeaux",
+"k": "text"
+},
+{
+"t": "Concrete or clay",
+"k": "text"
+},
+{
+"t": "Mostly neutral flavour; stable temperature, some oxygen exchange if unlined",
+"k": "text"
+},
+{
+"t": "Producers seeking texture without oak flavour",
+"k": "text"
+},
+{
+"t": "Barrel fermentation is often preferred to only maturing a wine in oak, because oak flavours integrate better when the wine is fermented in the barrel. Small barrels in a cool cellar lose heat easily, which is why barrel fermentations can run warmer without overheating. Winemakers may use selected cultured yeasts for reliability and aroma, or ambient yeasts for complexity, accepting slower and less predictable fermentations.",
+"k": "text"
+},
+{
+"t": "After fermentation: malolactic, lees and oak",
+"k": "text"
+},
+{
+"t": "Malolactic conversion: yes or no?",
+"k": "text"
+},
+{
+"t": "Malolactic conversion (MLF) turns sharp malic acid into softer lactic acid, raising pH slightly and producing diacetyl, which smells of butter. For crisp aromatic whites such as Riesling or Sauvignon Blanc, winemakers usually block MLF by keeping the wine cool, adding sulfur dioxide or removing bacteria by filtration, so the wine keeps its tangy acidity and pure fruit. For Chardonnay, full or partial MLF is common, giving a rounder texture and buttery notes. Winemakers can blend batches with and without MLF to fine-tune the style.",
+"k": "text"
+},
+{
+"t": "Lees contact and lees stirring",
+"k": "text"
+},
+{
+"t": "Lees are dead yeast cells that settle after fermentation. Leaving the wine on the fine lees adds a creamy texture and savoury, bready or biscuit notes, and lees also absorb oxygen, giving some protection. Stirring the lees (bâtonnage) increases these effects and spreads them through the wine. Muscadet sur lie is a classic example of lees contact in a neutral, unoaked style; barrel-matured Chardonnay often combines lees stirring with oak.",
+"k": "text"
+},
+{
+"t": "Oak maturation",
+"k": "text"
+},
+{
+"t": "New oak gives vanilla, toast, smoke and spice; older barrels give little flavour but allow slow oxygen exchange that softens and adds complexity. Barrel size, toast level and the proportion of new oak are all style levers. A high proportion of new oak suits concentrated wines; it would overwhelm a delicate one.",
+"k": "text"
+},
+{
+"t": "Blending, clarification and stabilisation",
+"k": "text"
+},
+{
+"t": "For aromatic, primary-fruit whites, blending mainly keeps the wine consistent. For Chardonnay the reverse can apply: batches with different lees, MLF and oak treatments are blended for complexity. Before bottling, whites are fined and filtered for clarity, cold stabilised to prevent tartrate crystals forming in the bottle, and treated with bentonite to remove proteins that could make the wine hazy.",
+"k": "text"
+},
+{
+"t": "Sweet white wines: how residual sugar is achieved",
+"k": "text"
+},
+{
+"t": "Sweet white wines are a frequent WSET 3 short written answer topic. There are three routes to sweetness, and examiners expect you to name the method and its effect on style.",
+"k": "text"
+},
+{
+"t": "Stopping fermentation before all the sugar is used: by chilling and removing the yeast with filtration or centrifugation, by adding sulfur dioxide, or by adding spirit (fortification, covered with fortified wines). German Riesling with low alcohol and some sweetness is often made by stopping fermentation.",
+"k": "text"
+},
+{
+"t": "Adding a sweetening component after fermentation, such as unfermented grape juice (Süssreserve) or rectified concentrated grape must; common for inexpensive medium-sweet wines.",
+"k": "text"
+},
+{
+"t": "Concentrating sugar in the grapes before fermentation: noble rot (Botrytis cinerea in humid mornings followed by dry afternoons, as in Sauternes, Tokaji and Beerenauslese), drying on the vine (late harvest), drying after picking (passito wines such as Recioto di Soave or Vin Santo) or freezing on the vine (Eiswein and icewine).",
+"k": "text"
+},
+{
+"t": "Grapes concentrated by noble rot give flavours of honey, marmalade and dried fruit with high acidity; ice wine keeps intense primary fruit and very high acidity because the grapes are not affected by rot. Fermentations of very sweet musts are slow and often stop naturally at moderate alcohol.",
+"k": "text"
+},
+{
+"t": "The four WSET 3 white wine style families",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Key winemaking",
+"k": "text"
+},
+{
+"t": "Examples",
+"k": "text"
+},
+{
+"t": "Aromatic, unoaked",
+"k": "text"
+},
+{
+"t": "Protective handling, cool steel fermentation, MLF blocked",
+"k": "text"
+},
+{
+"t": "Riesling, Sauvignon Blanc, Gewurztraminer, Albariño",
+"k": "text"
+},
+{
+"t": "Neutral, unoaked",
+"k": "text"
+},
+{
+"t": "Clean fermentation, sometimes lees contact for texture",
+"k": "text"
+},
+{
+"t": "Muscadet, Pinot Grigio, many inexpensive blends",
+"k": "text"
+},
+{
+"t": "Oaked and textured",
+"k": "text"
+},
+{
+"t": "Barrel fermentation, MLF, lees stirring, new or old oak",
+"k": "text"
+},
+{
+"t": "Premium Chardonnay, white Rioja, white Bordeaux",
+"k": "text"
+},
+{
+"t": "Sweet",
+"k": "text"
+},
+{
+"t": "Stopped fermentation, sweetening component or concentrated grapes",
+"k": "text"
+},
+{
+"t": "Sauternes, Tokaji Aszú, Eiswein, late harvest wines",
+"k": "text"
+},
+{
+"t": "How to revise white winemaking in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Write the process flow from harvest to bottling on one card, with one sentence of effect for each step.",
+"k": "text"
+},
+{
+"t": "Make a two-column table: techniques that protect fruit versus techniques that add complexity.",
+"k": "text"
+},
+{
+"t": "Learn the three routes to sweetness with one wine example each.",
+"k": "text"
+},
+{
+"t": "Taste or picture an unoaked Sauvignon Blanc and an oaked Chardonnay and list which winemaking choices explain the differences.",
+"k": "text"
+},
+{
+"t": "Do a short timed set of questions on white winemaking in the app and rewrite any wrong answer as a cause and effect sentence.",
+"k": "text"
+},
+{
+"t": "Common mistake: saying that oak barrels make a wine taste of oak in every case. Old barrels add little oak flavour; their main effect is slow oxygen exchange. Always state whether the barrels are new or old when you explain an oaked white.",
+"k": "text"
+},
+{
+"t": "Protective or oxidative: two philosophies for white wine",
+"k": "text"
+},
+{
+"t": "Behind every white winemaking decision sits one question: how much oxygen should the juice and wine see? Protective handling keeps oxygen away at every step, with cool fruit, sulfur dioxide, inert gas, stainless steel and full tanks. It preserves delicate primary aromas such as citrus, green fruit and flowers, and suits varieties whose appeal lies in their aroma. Oxidative handling lets controlled amounts of oxygen in, for example through barrel fermentation, lees stirring in barrel or deliberate exposure of the juice before fermentation. Fresh fruit becomes less obvious, but texture, nutty notes and complexity increase, and the wine can become more resistant to later oxidation in bottle. Most premium whites sit somewhere between the two extremes.",
+"k": "text"
+},
+{
+"t": "Four white wines, four sets of choices",
+"k": "text"
+},
+{
+"t": "Wine",
+"k": "text"
+},
+{
+"t": "Key winemaking choices",
+"k": "text"
+},
+{
+"t": "Resulting style",
+"k": "text"
+},
+{
+"t": "Cool-climate Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Night harvest, protective handling, cool fermentation in stainless steel, malolactic conversion blocked, early bottling",
+"k": "text"
+},
+{
+"t": "Pronounced herbaceous and citrus aromas, high acidity, light to medium body",
+"k": "text"
+},
+{
+"t": "Premium Chardonnay",
+"k": "text"
+},
+{
+"t": "Whole-bunch pressing, barrel fermentation, malolactic conversion, lees stirring, a proportion of new oak",
+"k": "text"
+},
+{
+"t": "Creamy texture, citrus and stone fruit with butter, toast and nutty notes, full body, ageing potential",
+"k": "text"
+},
+{
+"t": "Off-dry Riesling",
+"k": "text"
+},
+{
+"t": "Cool fermentation in inert vessels, stopped by chilling and removing the yeast, no oak",
+"k": "text"
+},
+{
+"t": "Low alcohol, high acidity balanced by residual sugar, pure fruit and floral notes",
+"k": "text"
+},
+{
+"t": "Inexpensive neutral white",
+"k": "text"
+},
+{
+"t": "Mechanical harvest, cultured yeast, temperature-controlled steel, short maturation, careful fining and filtration",
+"k": "text"
+},
+{
+"t": "Clean, fresh, simple fruit, designed to be drunk young",
+"k": "text"
+},
+{
+"t": "Use this table as a model for written answers: name the choice, then state its effect on aroma, structure or texture. The marks come from the link, not from the list of techniques.",
+"k": "text"
+},
+{
+"t": "A sample written answer",
+"k": "text"
+},
+{
+"t": "Question: explain how winemaking choices can give a Chardonnay a full body and a complex flavour profile. Answer: fermenting in barrel at a slightly warmer temperature integrates oak flavour and encourages a rounder texture. Allowing malolactic conversion softens the acidity and adds buttery, creamy notes. Leaving the wine on its lees and stirring them adds body and bready, savoury flavours. Using a proportion of new oak adds vanilla, toast and spice, while slow oxygen exchange through the wood softens the wine and adds nutty complexity. Each sentence names one technique and one effect, which is exactly how a WSET 3 written answer collects marks.",
+"k": "text"
+},
+{
+"t": "Common mistakes: saying that all white wines avoid oxygen, forgetting that malolactic conversion lowers acidity as well as adding butter, and describing sweet wine methods without saying whether the sugar comes from concentrated grapes or from a stopped fermentation.",
+"k": "text"
+},
+{
+"t": "Checklist: can you explain each of these in one sentence?",
+"k": "text"
+},
+{
+"t": "Why white grapes are often picked at night or early in the morning.",
+"k": "text"
+},
+{
+"t": "What whole-bunch pressing gives compared with crushing before pressing.",
+"k": "text"
+},
+{
+"t": "Why juice is clarified before fermentation, and what happens if it is not.",
+"k": "text"
+},
+{
+"t": "How fermentation temperature changes the aroma profile of a white wine.",
+"k": "text"
+},
+{
+"t": "Why malolactic conversion is blocked for some whites and encouraged for others.",
+"k": "text"
+},
+{
+"t": "What lees stirring adds, and why it also protects against oxidation.",
+"k": "text"
+},
+{
+"t": "The three routes to sweetness and one example wine for each.",
+"k": "text"
+},
+{
+"t": "Why white wines are cold stabilised before bottling.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "104 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on White wines are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 104 multiple-choice questions on White wines, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is White wines important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including White wines, can come up.",
+"k": "text"
+},
+{
+"t": "Why is malolactic conversion blocked in some white wines for WSET 3?",
+"k": "text"
+},
+{
+"t": "Winemakers block malolactic conversion in aromatic whites such as Riesling and Sauvignon Blanc to keep their sharp malic acidity and pure primary fruit. MLF would soften the acidity and add buttery notes that mask varietal aromas. It is prevented by keeping the wine cool, adding sulfur dioxide or removing lactic bacteria by filtration. Chardonnay, by contrast, often goes through full or partial MLF.",
+"k": "text"
+},
+{
+"t": "What does lees stirring do to a white wine for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Lees stirring, or bâtonnage, puts the dead yeast cells back into suspension. This increases the creamy, rounder texture and the savoury, bready or biscuit notes that lees contact gives, and the lees also absorb some oxygen. It is common for barrel-matured Chardonnay. Lees contact without stirring is used for neutral wines such as Muscadet sur lie.",
+"k": "text"
+},
+{
+"t": "How is noble rot sweet wine made for WSET 3?",
+"k": "text"
+},
+{
+"t": "Noble rot is Botrytis cinerea developing on ripe, healthy grapes in a climate with humid, misty mornings followed by dry, sunny afternoons. The fungus pierces the skins, water evaporates and sugar, acidity and flavour concentrate. Grapes are often picked by hand in several passes. The wines, such as Sauternes and Tokaji Aszú, show honey, marmalade and dried fruit with high acidity.",
+"k": "text"
+},
+{
+"t": "What is the difference between whole-bunch pressing and crushing white grapes for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Crushing breaks the berries before pressing, releasing juice quickly but also more phenolics. Whole-bunch pressing puts intact bunches straight into the press; the stems form drainage channels, the pressing is gentle and the juice is purer and lower in phenolics. It is slower and the press holds less fruit, so it is mostly used for premium whites and sparkling base wines.",
+"k": "text"
+},
+{
+"t": "Why are white wines cold stabilised before bottling?",
+"k": "text"
+},
+{
+"t": "Cold stabilisation chills the wine to make tartaric acid crystals form in the tank, where they can be removed, instead of later in a cold bottle. The crystals are harmless but look like glass to many consumers. It is part of the stabilisation stage, alongside bentonite fining to remove proteins that could cause haze. Some premium producers skip it and accept the occasional tartrate deposit.",
+"k": "text"
+},
+{
+"t": "What is the difference between protective and oxidative white winemaking?",
+"k": "text"
+},
+{
+"t": "Protective winemaking keeps oxygen away from the juice and wine with cool temperatures, sulfur dioxide, inert gas and stainless steel, which preserves fresh primary aromas. Oxidative winemaking lets controlled oxygen in, for example through barrel fermentation and lees stirring in barrel. It reduces obvious fresh fruit but adds texture, nutty notes and complexity. Many premium white wines combine elements of both approaches.",
+"k": "text"
+},
+{
+"t": "Why is Sauvignon Blanc usually fermented in stainless steel?",
+"k": "text"
+},
+{
+"t": "Its appeal lies in pronounced primary aromas such as citrus, gooseberry and herbaceous notes, which are easily lost through oxidation or masked by oak. Stainless steel is inert, airtight and easy to keep cool, so fermentation is slow and clean and the aromas are retained. Malolactic conversion is usually blocked for the same reason, to keep the crisp acidity that defines the style.",
+"k": "text"
+},
+{
+"t": "How do winemakers make an off-dry white wine?",
+"k": "text"
+},
+{
+"t": "The usual method is to stop fermentation before all the sugar has been converted, by chilling the wine and removing the yeast with filtration or centrifugation, sometimes helped by sulfur dioxide. The result keeps some natural grape sugar and has lower alcohol. Another method is to ferment to dryness and add sweet reserve, unfermented grape juice, before bottling, where local rules allow it.",
+"k": "text"
+},
+{
+"t": "Do all oaked white wines taste of vanilla and toast?",
+"k": "text"
+},
+{
+"t": "No. Vanilla, toast and spice come mainly from new or fairly new oak. Older barrels add little flavour; their main role is slow oxygen exchange, which softens the wine and adds complexity. The size of the barrel and the toast level also matter. When you describe an oaked white in a written answer, always say whether the oak is new or old and what effect it has.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Free WSET Level 3 White wines practice questions with answers and explanations, plus 104 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why does white juice usually spend little time on the skins?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Whole-bunch pressing limits contact further, gently, potentially giving purer, more delicate wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why is short skin contact sometimes used for aromatic varieties?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It usually lasts a few hours, cool enough to prevent fermentation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the optimum fermentation temperature for whites?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Too cold gives pear drop and loses varietal fruit; warmer gives complex non-fruit aromas but loses fruit.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What aroma forms if a white is fermented too cold?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Too cold a fermentation can also fail to capture varietal fruit.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "At what temperature do barrel fermentations usually run?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Barrels are hard to cool but, small and in cool cellars, dissipate heat well.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the main role of blending in aromatic, primary-fruit whites?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Many whites rely on pure primary fruit, so blending focuses on consistency. For non-aromatic varieties like Chardonnay the reverse may apply: batches given different lees, MLF and oak treatment are blended for a more complex style.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

@@ -1,0 +1,1139 @@
+{
+"group": "wset-3-questions__chile-argentina",
+"source": "wset-3-questions/chile-argentina/index.html",
+"url": "/wset-3-questions/chile-argentina/",
+"region": "main",
+"sha": "6d7cd99b6ed1",
+"words": 3376,
+"segment_words": 3664,
+"segments": [
+{
+"t": "WSET 3 Chile and Argentina – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Chile and Argentina practice questions with answers and explanations, plus 68 more in the app: MCQs, short written answers, flashcards…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Chile and Argentina, WSET Level 3 Chile and Argentina, Chile and Argentina WSET questions, Chile and Argentina wine quiz, Chile and Argentina wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Chile and Argentina: practice questions with answers – WSET 3 Chile and Argentina, WSET Level 3 Chile and Argentina (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Chile and Argentina",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Chile and Argentina: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Chile and Argentina, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 68 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Chile and Argentina: practice questions with answers | WSET 3 Chile and Argentina",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Chile and Argentina practice questions with answers and explanations, plus 68 more in the app: MCQs, short written answers, flashcards….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What are the four key geographical features of Chile's vineyards, west to east?",
+"k": "text"
+},
+{
+"t": "Pacific Ocean, Andes, Central Valley, Argentine pampa",
+"k": "text"
+},
+{
+"t": "Andes, Central Valley, Coastal Range, Pacific Ocean",
+"k": "text"
+},
+{
+"t": "Pacific Ocean, Coastal Range, Central Valley, Andes",
+"k": "text"
+},
+{
+"t": "Pacific Ocean, Central Valley, Coastal Range, Andes",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Pacific Ocean, Coastal Range, Central Valley, Andes",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Vineyards span over 900 km north-south but rarely 100 km east-west.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What effects do El Niño and La Niña have in Chile?",
+"k": "text"
+},
+{
+"t": "No effect: they only affect the coasts of Peru and Ecuador",
+"k": "text"
+},
+{
+"t": "El Niño can sharply increase rain; La Niña may bring drought",
+"k": "text"
+},
+{
+"t": "El Niño brings drought and heat; La Niña rain and Andean frost",
+"k": "text"
+},
+{
+"t": "El Niño brings frost; La Niña summer hail in the Central Valley",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} El Niño can sharply increase rain; La Niña may bring drought",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Chile is broadly warm Mediterranean, dry and sunny with little disease; irrigation water is increasingly scarce.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is Chile's most planted grape of either colour?",
+"k": "text"
+},
+{
+"t": "Carmenère",
+"k": "text"
+},
+{
+"t": "Cabernet",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "País",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cabernet",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} From simple to premium; very ripe black fruit, often herbaceous; blended with Merlot, Carmenère or Syrah.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Why does Carmenère do best in the warmest, sunniest sites?",
+"k": "text"
+},
+{
+"t": "It is an aromatic white grape that needs lots of sun",
+"k": "text"
+},
+{
+"t": "It ripens late; picked unripe, it is markedly herbaceous",
+"k": "text"
+},
+{
+"t": "It ripens early and loses too much acidity in cool sites",
+"k": "text"
+},
+{
+"t": "It fears drought and needs more water than other grapes",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} It ripens late; picked unripe, it is markedly herbaceous",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Full, often tannic; good ones balance black fruit and herbs. Seen as Chile's signature grape.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which Chilean valley produces particularly structured, elegant, restrained Chardonnay?",
+"k": "text"
+},
+{
+"t": "Itata",
+"k": "text"
+},
+{
+"t": "Maule",
+"k": "text"
+},
+{
+"t": "Curicó",
+"k": "text"
+},
+{
+"t": "Limarí",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Limarí",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Most are modern international style; Aconcagua and Casablanca also make fine wines.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What is Muscat of Alexandria mainly used for in Chile?",
+"k": "text"
+},
+{
+"t": "Table grapes",
+"k": "text"
+},
+{
+"t": "Fortified sweet wines",
+"k": "text"
+},
+{
+"t": "The grape brandy Pisco",
+"k": "text"
+},
+{
+"t": "Sweet sparkling wines",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The grape brandy Pisco",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is the third most planted white. Aromatic grapes do well in cool Bío Bío and Itata.",
+"k": "text"
+},
+{
+"t": "Study notes: Chile and Argentina for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Chile and Argentina questions are mostly about how geography creates climate: the Pacific Ocean and the Humboldt Current in Chile, altitude and the Andes rain shadow in Argentina. If you can explain why a valley is cool or warm, you can usually predict its grapes and wine styles. These study notes turn the topic into a revision guide built on cause, effect and style, the way exam answers are marked.",
+"k": "text"
+},
+{
+"t": "WSET 3 Chile: climate and geography",
+"k": "text"
+},
+{
+"t": "Why Chile is cooler than its latitude suggests",
+"k": "text"
+},
+{
+"t": "Chile has a warm Mediterranean climate in most of its wine regions, with dry, sunny summers and little disease pressure. Two features cool it down. The cold Humboldt Current runs north along the coast and creates morning fog and cool sea breezes that move inland through gaps in the Coastal Range. The Andes send cold air down the slopes at night, giving a wide diurnal range that preserves acidity and fresh fruit aromas. As a result, regions near the coast or high in the Andes foothills are cooler than the Central Valley floor, which is the warmest and most fertile part of the country.",
+"k": "text"
+},
+{
+"t": "Water and vineyard health",
+"k": "text"
+},
+{
+"t": "Rainfall is low in the growing season, so most vineyards are irrigated with snowmelt water from the Andes; water is becoming scarcer, which is pushing growers towards drip irrigation. Dry conditions keep fungal disease low, which makes organic viticulture comparatively easy. Chile has never had phylloxera, so many vines are planted on their own roots, although grafted vines are used where nematodes or vigour are a concern. To show the east-west contrast, Chile's regions are subdivided into Costa (coastal), Entre Cordilleras (between the mountain ranges) and Andes zones.",
+"k": "text"
+},
+{
+"t": "WSET 3 Chile: key regions and grapes",
+"k": "text"
+},
+{
+"t": "Learn Chile from north to south. In general, further south means cooler and wetter, while closer to the ocean means cooler and closer to the Central Valley floor means warmer.",
+"k": "text"
+},
+{
+"t": "Region / valley",
+"k": "text"
+},
+{
+"t": "Climate influence",
+"k": "text"
+},
+{
+"t": "Main grapes and styles",
+"k": "text"
+},
+{
+"t": "Limarí and Elqui (Coquimbo)",
+"k": "text"
+},
+{
+"t": "Far north but cooled by ocean fog; limestone in parts of Limarí",
+"k": "text"
+},
+{
+"t": "Structured, restrained Chardonnay; Sauvignon Blanc; Syrah",
+"k": "text"
+},
+{
+"t": "Casablanca and San Antonio (incl. Leyda)",
+"k": "text"
+},
+{
+"t": "Coastal, cooled by the Humboldt Current and fog",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc, Chardonnay, Pinot Noir, some cool-climate Syrah",
+"k": "text"
+},
+{
+"t": "Aconcagua Valley",
+"k": "text"
+},
+{
+"t": "Warm inland, cooler towards the coast",
+"k": "text"
+},
+{
+"t": "Full-bodied Cabernet Sauvignon and Syrah",
+"k": "text"
+},
+{
+"t": "Maipo",
+"k": "text"
+},
+{
+"t": "Warm, near Santiago; Alto Maipo in the Andes foothills is cooler",
+"k": "text"
+},
+{
+"t": "Premium Cabernet Sauvignon with blackcurrant and mint notes",
+"k": "text"
+},
+{
+"t": "Rapel (Cachapoal, Colchagua)",
+"k": "text"
+},
+{
+"t": "Warm; Apalta in Colchagua is a sheltered, sunny site",
+"k": "text"
+},
+{
+"t": "Ripe, full reds: Cabernet Sauvignon, Carmenère, Syrah",
+"k": "text"
+},
+{
+"t": "Curicó and Maule",
+"k": "text"
+},
+{
+"t": "Warm Central Valley; Maule has old dry-farmed vineyards",
+"k": "text"
+},
+{
+"t": "Volume wines; old-vine Carignan and País in Maule",
+"k": "text"
+},
+{
+"t": "Itata and Bío Bío",
+"k": "text"
+},
+{
+"t": "South: cooler and wetter",
+"k": "text"
+},
+{
+"t": "País and Muscat; aromatic whites such as Riesling and Gewurztraminer; Pinot Noir",
+"k": "text"
+},
+{
+"t": "Chile's signature grapes",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon is Chile's most planted grape, from simple fruity wines to premium Maipo reds; it often shows very ripe black fruit with a herbaceous or mint note. Carmenère ripens very late, so it needs warm, sunny sites; picked too early it is aggressively herbaceous, picked ripe it combines black fruit with spice and a green pepper note. It was long confused with Merlot in Chilean vineyards. Sauvignon Blanc from coastal valleys is high in acidity with citrus, passion fruit and herbaceous notes, typically fermented cool in stainless steel. País, an old variety brought by Spanish settlers, is being revived in old dry-farmed bush vines in Maule, Itata and Bío Bío, often in light, fresh, fruity styles.",
+"k": "text"
+},
+{
+"t": "WSET 3 Argentina: altitude, sun and the Andes",
+"k": "text"
+},
+{
+"t": "Argentina's wine regions sit in the rain shadow of the Andes, so the climate is continental, dry and very sunny. Most regions are warm to hot at low altitude, so altitude is the key quality factor: temperature falls as you climb, cool nights preserve acidity, and intense sunlight at height thickens grape skins, which means deeper colour and riper tannins. Irrigation is essential, traditionally by flooding through channels fed by Andean snowmelt and now increasingly by drip.",
+"k": "text"
+},
+{
+"t": "Climate hazards in Argentina",
+"k": "text"
+},
+{
+"t": "Hail: the biggest risk in Mendoza; many growers protect vines with hail nets, which also give some shade.",
+"k": "text"
+},
+{
+"t": "Zonda: a hot, dry wind from the Andes that can blow around flowering and disrupt fruit set, lowering yield.",
+"k": "text"
+},
+{
+"t": "Spring frost: a risk in high-altitude sites such as parts of the Uco Valley.",
+"k": "text"
+},
+{
+"t": "Drought and water rights: without irrigation, vines in most regions could not survive.",
+"k": "text"
+},
+{
+"t": "Key regions from north to south",
+"k": "text"
+},
+{
+"t": "Salta, in the far north, contains the Calchaquí Valleys and Cafayate, with some of the highest vineyards in the world; altitude offsets the low latitude, giving intense sunlight, big day-night swings and powerful, deeply coloured Malbec and aromatic Torrontés. Mendoza is by far the largest region. Luján de Cuyo and Maipú, close to the city, are the historic heart of premium Malbec. The Uco Valley, higher and cooler to the south-west, gives fresher, more aromatic Malbec, Chardonnay and Pinot Noir. East Mendoza, flatter and hotter, mostly produces volume wines. San Juan, to the north, is hot and dry and known for Syrah and bulk wine. Patagonia, further south (Neuquén and Río Negro), is cooler because of latitude and very windy, giving elegant Malbec and Pinot Noir with fresh acidity.",
+"k": "text"
+},
+{
+"t": "Argentina's grapes",
+"k": "text"
+},
+{
+"t": "Malbec is the flagship: deep colour, black plum and blackberry, floral violet notes, medium to high tannins that are usually ripe and soft, and full body. Simple versions are fruity and unoaked; premium ones from high sites gain structure and are matured in oak. Cabernet Sauvignon and Bonarda are also important reds. Torrontés is the signature white: highly aromatic with rose, peach and citrus, medium to full body and medium to low acidity; it is best from cool, high sites such as Cafayate. Pink-skinned Criolla Grande and Cereza are widely planted for inexpensive wine and grape concentrate.",
+"k": "text"
+},
+{
+"t": "Exam tip: in a short written answer on high-altitude Malbec, give the full chain: higher altitude means cooler temperatures and cool nights, so acidity and fresh fruit are kept; stronger sunlight means thicker skins, so colour and tannin are deeper. Each link usually earns a mark.",
+"k": "text"
+},
+{
+"t": "Chile vs Argentina: how to compare them in the exam",
+"k": "text"
+},
+{
+"t": "Factor",
+"k": "text"
+},
+{
+"t": "Chile",
+"k": "text"
+},
+{
+"t": "Argentina",
+"k": "text"
+},
+{
+"t": "Main cooling influence",
+"k": "text"
+},
+{
+"t": "Pacific Ocean, Humboldt Current, fog, Andes night air",
+"k": "text"
+},
+{
+"t": "Altitude; latitude in Patagonia",
+"k": "text"
+},
+{
+"t": "Climate type",
+"k": "text"
+},
+{
+"t": "Warm Mediterranean",
+"k": "text"
+},
+{
+"t": "Continental, dry, very sunny",
+"k": "text"
+},
+{
+"t": "Signature red",
+"k": "text"
+},
+{
+"t": "Carmenère (most planted: Cabernet Sauvignon)",
+"k": "text"
+},
+{
+"t": "Malbec",
+"k": "text"
+},
+{
+"t": "Signature white",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc from coastal valleys",
+"k": "text"
+},
+{
+"t": "Torrontés",
+"k": "text"
+},
+{
+"t": "Main hazards",
+"k": "text"
+},
+{
+"t": "Drought, water scarcity, El Niño rains",
+"k": "text"
+},
+{
+"t": "Hail, Zonda wind, frost",
+"k": "text"
+},
+{
+"t": "How to revise Chile and Argentina in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: sketch Chile's four east-west features and mark Casablanca, Maipo, Colchagua and Maule.",
+"k": "text"
+},
+{
+"t": "Day 2: write the cause-effect chain for the Humboldt Current and morning fog.",
+"k": "text"
+},
+{
+"t": "Day 3: learn Carmenère and País in two lines each: style, sites, why.",
+"k": "text"
+},
+{
+"t": "Day 4: draw Argentina's regions from Salta to Patagonia and add the altitude logic.",
+"k": "text"
+},
+{
+"t": "Day 5: list the three Argentine hazards and one response to each.",
+"k": "text"
+},
+{
+"t": "Day 6: practise a timed set of questions in the app and turn each mistake into a one-line rule.",
+"k": "text"
+},
+{
+"t": "Day 7: taste a Chilean Carmenère next to a Mendoza Malbec and compare herbaceousness, colour and tannin.",
+"k": "text"
+},
+{
+"t": "Common mistake: describing Argentina as cool because of the Andes. The Andes mainly block rain; it is altitude, not the mountains themselves, that cools the vineyards.",
+"k": "text"
+},
+{
+"t": "Chile and Argentina in the two WSET Level 3 units",
+"k": "text"
+},
+{
+"t": "WSET Level 3 has two separate units. The theory unit combines 50 multiple-choice questions with 4 short written answers; the tasting unit asks you to assess two wines blind with the Systematic Approach to Tasting. Each unit needs at least 55%, is marked independently, and a failed unit is retaken on its own. Chile and Argentina are rich theory topics because the geography produces clear cause-and-effect chains: ocean, fog and altitude are exactly what written answers reward.",
+"k": "text"
+},
+{
+"t": "In the tasting unit you are never asked to name the wine, but South American reds are excellent practice. A warm-climate Malbec trains you to judge deep colour, full body and high alcohol; a Carmenère trains you to recognise herbaceous notes alongside ripe black fruit; a coastal Sauvignon Blanc trains you to rate high acidity and pronounced aromas.",
+"k": "text"
+},
+{
+"t": "Malbec, Carmenère and Cabernet Sauvignon compared",
+"k": "text"
+},
+{
+"t": "Feature",
+"k": "text"
+},
+{
+"t": "Argentine Malbec",
+"k": "text"
+},
+{
+"t": "Chilean Carmenère",
+"k": "text"
+},
+{
+"t": "Chilean Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Colour",
+"k": "text"
+},
+{
+"t": "Deep ruby to purple",
+"k": "text"
+},
+{
+"t": "Deep ruby",
+"k": "text"
+},
+{
+"t": "Key aromas",
+"k": "text"
+},
+{
+"t": "Black plum, blackberry, violet",
+"k": "text"
+},
+{
+"t": "Black fruit, green pepper, spice",
+"k": "text"
+},
+{
+"t": "Blackcurrant, mint or eucalyptus, herbaceous note",
+"k": "text"
+},
+{
+"t": "Tannin",
+"k": "text"
+},
+{
+"t": "Medium to high, usually ripe and soft",
+"k": "text"
+},
+{
+"t": "Medium to high",
+"k": "text"
+},
+{
+"t": "High",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Medium to high at altitude",
+"k": "text"
+},
+{
+"t": "Medium",
+"k": "text"
+},
+{
+"t": "Ripening",
+"k": "text"
+},
+{
+"t": "Mid-season",
+"k": "text"
+},
+{
+"t": "Very late; needs warm sites",
+"k": "text"
+},
+{
+"t": "Late",
+"k": "text"
+},
+{
+"t": "Best-known areas",
+"k": "text"
+},
+{
+"t": "Luján de Cuyo, Uco Valley, Salta",
+"k": "text"
+},
+{
+"t": "Colchagua, Cachapoal",
+"k": "text"
+},
+{
+"t": "Maipo, Alto Maipo, Aconcagua",
+"k": "text"
+},
+{
+"t": "Worked short written answer: coastal Chilean Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Exam-style question of our own: explain how the climate of Casablanca and San Antonio influences the style of their Sauvignon Blanc. Points to include:",
+"k": "text"
+},
+{
+"t": "The cold Humboldt Current cools the coast and creates morning fog and sea breezes, so temperatures are low for Chile.",
+"k": "text"
+},
+{
+"t": "Grapes ripen slowly over a long season, so they keep high acidity.",
+"k": "text"
+},
+{
+"t": "Cool conditions preserve aromatic compounds, so the wine shows pronounced citrus, passion fruit and herbaceous notes.",
+"k": "text"
+},
+{
+"t": "Moderate sugar levels give medium alcohol and light to medium body.",
+"k": "text"
+},
+{
+"t": "Cool fermentation in stainless steel and no oak keep the primary fruit, so the wine is fresh and best drunk young.",
+"k": "text"
+},
+{
+"t": "Contrast earns marks: if a sub-part asks about the Central Valley, reverse the chain. Warmer valley floor, faster ripening, riper tropical fruit, lower acidity, fuller body, more alcohol.",
+"k": "text"
+},
+{
+"t": "Practice questions with answers explained",
+"k": "text"
+},
+{
+"t": "Question 1: why do Argentine growers use hail nets? Answer: hail is the biggest hazard in Mendoza and can destroy a crop in minutes or damage the vines for the following year. Nets physically protect the bunches and leaves, and they also give some shade in an intensely sunny climate.",
+"k": "text"
+},
+{
+"t": "Question 2: why is the Uco Valley a favourite source of fresh Malbec and Chardonnay? Answer: its vineyards are at high altitude, so temperatures are lower and nights are cold. Grapes keep acidity and aromatic freshness, while strong sunlight at height still gives good colour and ripe tannins in black grapes.",
+"k": "text"
+},
+{
+"t": "Question 3: why is old-vine País from Maule attracting attention? Answer: the vines are old, dry-farmed bush vines, so yields are low and the fruit is concentrated. Producers make light, fresh, fruity reds, sometimes with carbonic maceration, which shows a different, more traditional side of Chile.",
+"k": "text"
+},
+{
+"t": "Question 4: what does Entre Cordilleras mean on a Chilean label? Answer: it indicates vineyards between the Coastal Range and the Andes, the warmer central zone. Costa means a cooler coastal area and Andes means foothill sites with cold night air, so the term gives a clue to the climate and style.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Chile and Argentina",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Correct version",
+"k": "text"
+},
+{
+"t": "Chile is cool because it is far south",
+"k": "text"
+},
+{
+"t": "Most regions are warm; the ocean, fog and Andes night air cool specific areas",
+"k": "text"
+},
+{
+"t": "Carmenère is a type of Merlot",
+"k": "text"
+},
+{
+"t": "It is a separate variety, long confused with Merlot in Chilean vineyards",
+"k": "text"
+},
+{
+"t": "Torrontés has high acidity",
+"k": "text"
+},
+{
+"t": "Torrontés has medium to low acidity and very aromatic floral, peachy notes",
+"k": "text"
+},
+{
+"t": "Patagonia is high-altitude",
+"k": "text"
+},
+{
+"t": "Patagonia is cooler mainly because of latitude, and it is very windy",
+"k": "text"
+},
+{
+"t": "Argentina relies on rain",
+"k": "text"
+},
+{
+"t": "Irrigation from Andean snowmelt is essential almost everywhere",
+"k": "text"
+},
+{
+"t": "Glossary for Chile and Argentina",
+"k": "text"
+},
+{
+"t": "Humboldt Current: cold ocean current along the Chilean coast that brings fog and cool breezes.",
+"k": "text"
+},
+{
+"t": "Costa, Entre Cordilleras, Andes: Chile's east-west zones, from cool coast to warm centre to cool foothills.",
+"k": "text"
+},
+{
+"t": "Zonda: hot, dry wind from the Andes that can disrupt flowering in Argentina.",
+"k": "text"
+},
+{
+"t": "Flood irrigation: traditional system of channels fed by snowmelt, now often replaced by drip.",
+"k": "text"
+},
+{
+"t": "Criolla Grande and Cereza: pink-skinned grapes for inexpensive Argentine wine and grape concentrate.",
+"k": "text"
+},
+{
+"t": "Cafayate: high-altitude area in Salta known for Torrontés and powerful Malbec.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "68 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Chile and Argentina are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 68 multiple-choice questions on Chile and Argentina, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Chile and Argentina important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Chile and Argentina, can come up.",
+"k": "text"
+},
+{
+"t": "Which Chilean valleys are cool climate for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "The main cool areas are the coastal valleys cooled by the Humboldt Current and morning fog: Casablanca and San Antonio, including Leyda, plus Limarí in the north. The southern regions of Itata and Bío Bío are also cooler and wetter. These areas are known for Sauvignon Blanc, Chardonnay and Pinot Noir, while the warm Central Valley floor suits Cabernet Sauvignon and Carmenère.",
+"k": "text"
+},
+{
+"t": "Why is Malbec from the Uco Valley fresher than Malbec from eastern Mendoza?",
+"k": "text"
+},
+{
+"t": "The Uco Valley vineyards are much higher in the Andes foothills, so temperatures are lower, especially at night. This slows ripening and keeps acidity and fresh, floral fruit. East Mendoza is lower, flatter and hotter, giving riper, softer Malbec with less acidity, mostly made in large volumes at lower prices.",
+"k": "text"
+},
+{
+"t": "What is the Zonda wind and why does it matter for WSET 3?",
+"k": "text"
+},
+{
+"t": "The Zonda is a hot, dry wind that blows down from the Andes into Argentine regions such as Mendoza and San Juan. If it arrives around flowering it can disrupt fruit set and reduce yields. It is one of the climate hazards, with hail and frost, that you should be able to name and explain for Argentina.",
+"k": "text"
+},
+{
+"t": "Why are many Chilean vines planted on their own roots?",
+"k": "text"
+},
+{
+"t": "Chile has never been affected by phylloxera, helped by its natural barriers: the Pacific, the Andes, the Atacama Desert and the cold south. Growers can therefore plant ungrafted vines. Some still use rootstocks for protection against nematodes or to control vigour, and strict quarantine rules aim to keep the pest out.",
+"k": "text"
+},
+{
+"t": "What does Torrontés taste like in the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Torrontés is Argentina's signature white grape. It is highly aromatic, with floral notes of rose and blossom, peach and citrus, typically medium to full body and medium to low acidity. The best come from high, cool sites such as Cafayate in Salta, where cool nights help preserve freshness. In a blind tasting it can resemble Muscat.",
+"k": "text"
+},
+{
+"t": "Will I have to recognise a Malbec in the WSET 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "No. The tasting unit never asks you to name the grape or region; it rewards an accurate, complete SAT note and justified conclusions on quality and readiness for drinking. It is marked separately from the theory unit, with its own 55% pass mark. Malbec is simply a useful practice wine for judging deep colour, body and alcohol.",
+"k": "text"
+},
+{
+"t": "Why is Carmenère often herbaceous?",
+"k": "text"
+},
+{
+"t": "Carmenère ripens very late, so in cooler sites or when picked early it keeps high levels of green, herbaceous compounds that give a green pepper character. On warm, sunny sites such as Colchagua and with careful canopy management it reaches full ripeness, and the green note becomes a light accent beside black fruit and spice.",
+"k": "text"
+},
+{
+"t": "What is the difference between Costa and Andes wines in Chile?",
+"k": "text"
+},
+{
+"t": "Costa wines come from areas near the Pacific, cooled by the Humboldt Current, fog and sea breezes, which suit Sauvignon Blanc, Chardonnay and Pinot Noir. Andes wines come from foothill sites cooled by cold night air descending from the mountains, which preserves acidity in reds such as Cabernet Sauvignon. Entre Cordilleras, between the two, is warmer.",
+"k": "text"
+},
+{
+"t": "Why is Patagonian Pinot Noir fresher than Mendoza Malbec?",
+"k": "text"
+},
+{
+"t": "Patagonia lies much further south, so it is cooler because of latitude, and strong winds also lower temperatures and thicken skins. Grapes ripen slowly and keep fresh acidity, which suits Pinot Noir and elegant Malbec. Most of Mendoza is warmer at its altitude, giving riper, fuller wines.",
+"k": "text"
+},
+{
+"t": "How should I revise Chile and Argentina for the theory unit?",
+"k": "text"
+},
+{
+"t": "Learn each country as a set of cause-and-effect chains: ocean, fog and Andes for Chile, altitude, sunlight and hazards for Argentina. Practise multiple-choice questions on regions and grapes, then write one timed short answer on each country. Because theory and tasting are passed separately, keep this topic in your theory plan and practise tasting on its own schedule.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Chile and Argentina – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Chile and Argentina practice questions with answers and explanations, plus 68 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What are the four key geographical features of Chile's vineyards, west to east?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Vineyards span over 900 km north-south but rarely 100 km east-west.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What effects do El Niño and La Niña have in Chile?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Chile is broadly warm Mediterranean, dry and sunny with little disease; irrigation water is increasingly scarce.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Chile's most planted grape of either colour?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "From simple to premium; very ripe black fruit, often herbaceous; blended with Merlot, Carmenère or Syrah.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why does Carmenère do best in the warmest, sunniest sites?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Full, often tannic; good ones balance black fruit and herbs. Seen as Chile's signature grape.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which Chilean valley produces particularly structured, elegant, restrained Chardonnay?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Most are modern international style; Aconcagua and Casablanca also make fine wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Muscat of Alexandria mainly used for in Chile?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is the third most planted white. Aromatic grapes do well in cool Bío Bío and Itata.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

@@ -1,0 +1,931 @@
+{
+"group": "wset-3-questions__wine-business-and-pricing",
+"source": "wset-3-questions/wine-business-and-pricing/index.html",
+"url": "/wset-3-questions/wine-business-and-pricing/",
+"region": "main",
+"sha": "4ef5c02ddc49",
+"words": 3269,
+"segment_words": 3568,
+"segments": [
+{
+"t": "WSET 3 Wine pricing and the trade – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Wine pricing and the trade practice questions with answers and explanations, plus 41 more in the app: MCQs, short written answers…",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Wine pricing and the trade, WSET Level 3 Wine pricing and the trade, Wine pricing and the trade WSET questions, Wine pricing and the trade wine quiz, Wine pricing and the trade wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Wine pricing and the trade: practice questions with answers – WSET 3 Wine pricing and the trade, WSET Level 3 Wine pricing and the trade…",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Wine pricing and the trade",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Wine pricing and the trade: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Wine pricing and the trade, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 41 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Wine pricing and the trade: practice questions with answers | WSET 3 Wine pricing and the trade",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 Wine pricing and the trade practice questions with answers and explanations, plus 41 more in the app: MCQs, short written answers….",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What is usually the largest production cost in an established vineyard?",
+"k": "text"
+},
+{
+"t": "Labour",
+"k": "text"
+},
+{
+"t": "Fertilisers",
+"k": "text"
+},
+{
+"t": "Bottles",
+"k": "text"
+},
+{
+"t": "Water",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Labour",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is cut with seasonal workers or mechanisation; not possible on isolated or very steep sites.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What is one way to reduce packaging and transport costs?",
+"k": "text"
+},
+{
+"t": "Shipping by air instead of sea, to cut transit time",
+"k": "text"
+},
+{
+"t": "Using heavier bottles, which break less in transit",
+"k": "text"
+},
+{
+"t": "Shipping in bulk and bottling in the destination market",
+"k": "text"
+},
+{
+"t": "Selling only through specialist shops near the winery",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Shipping in bulk and bottling in the destination market",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Only large producers can do this, and local laws do not always permit it.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Why does wine cost more in restaurants than in shops?",
+"k": "text"
+},
+{
+"t": "Because restaurants pay more tax on the wine they sell",
+"k": "text"
+},
+{
+"t": "Higher margins, covering occasion, setting and service",
+"k": "text"
+},
+{
+"t": "Because it is served at the correct temperature",
+"k": "text"
+},
+{
+"t": "Restaurant wine always comes from higher-quality lots",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Higher margins, covering occasion, setting and service",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Ultimately price depends on what the market will pay.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Why are co-operatives very common in Europe?",
+"k": "text"
+},
+{
+"t": "Average holdings are too small to make and sell wine alone",
+"k": "text"
+},
+{
+"t": "Because Europe has no merchants who buy grapes from growers",
+"k": "text"
+},
+{
+"t": "EU law forces growers with under ten hectares to deliver their grapes",
+"k": "text"
+},
+{
+"t": "Because Europe's cooler climate is riskier for small growers",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Average holdings are too small to make and sell wine alone",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Outside Europe they exist but are less common.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What does a merchant (négociant) do?",
+"k": "text"
+},
+{
+"t": "Buys grapes, juice or wine from growers or co-operatives",
+"k": "text"
+},
+{
+"t": "It only produces bulk wine for distillation",
+"k": "text"
+},
+{
+"t": "Makes wine only from its own vineyards, through to bottling",
+"k": "text"
+},
+{
+"t": "It is a business owned by its grower members",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Buys grapes, juice or wine from growers or co-operatives",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Common especially outside Europe, where holdings are larger; many big brands are made this way.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What is the main disadvantage of an estate (domaine)?",
+"k": "text"
+},
+{
+"t": "Little control over quality, as grapes come from many growers",
+"k": "text"
+},
+{
+"t": "It must legally deliver part of its grapes to the local co-op",
+"k": "text"
+},
+{
+"t": "It always makes wine inferior to the merchants'",
+"k": "text"
+},
+{
+"t": "Fewer blending options in difficult years",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Fewer blending options in difficult years",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} An estate uses only its own grapes: maximum control and usually the best wines.",
+"k": "text"
+},
+{
+"t": "Study notes: wine pricing and the trade for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 wine pricing questions ask why one bottle costs five times more than another. The answer always combines two sides: what it costs to produce and deliver the wine, and what the market is prepared to pay for it. These study notes explain the costs in the vineyard and winery, the businesses that make and sell wine, the route from producer to consumer, and the factors that push prices up or down, so you can answer both multiple-choice and short written questions on the wine trade.",
+"k": "text"
+},
+{
+"t": "Production costs: from vineyard to bottle",
+"k": "text"
+},
+{
+"t": "Vineyard costs",
+"k": "text"
+},
+{
+"t": "Land is the first cost, and it varies enormously: a hectare in a famous appellation can cost many times more than land in a lesser-known region. Planting a vineyard is expensive and gives no return for the first few years, because a commercial crop usually arrives only from the third year. Once a vineyard is established, labour is generally the largest cost. Flat, accessible vineyards can be mechanised for pruning, spraying and harvesting, which cuts costs; steep slopes, terraces and bush vines need hand work and cost much more per hectare. Low yields also raise the cost of each bottle, because the fixed costs of the vineyard are spread over less wine.",
+"k": "text"
+},
+{
+"t": "Winery costs",
+"k": "text"
+},
+{
+"t": "Equipment such as presses, temperature-controlled tanks and bottling lines is a major investment. New oak barrels are one of the most expensive choices a winemaker can make, and they can only give strong oak flavour for a limited number of uses; oak alternatives such as staves and chips give oak flavour much more cheaply. Time is a cost too: wine kept for months or years in barrel or bottle ties up money, storage space and stock that cannot yet be sold.",
+"k": "text"
+},
+{
+"t": "Packaging and transport",
+"k": "text"
+},
+{
+"t": "Glass, closures, labels and cartons add a fixed cost to every bottle, which weighs heavily on inexpensive wine. Heavy premium bottles cost more to buy and to ship. Large producers can cut costs by shipping wine in bulk containers and bottling it in the destination market, although local rules do not always permit this. Sea freight is cheap per bottle; air freight is rarely used for wine.",
+"k": "text"
+},
+{
+"t": "Cost driver",
+"k": "text"
+},
+{
+"t": "Effect on price",
+"k": "text"
+},
+{
+"t": "Typical example",
+"k": "text"
+},
+{
+"t": "Expensive land in a famous region",
+"k": "text"
+},
+{
+"t": "High fixed cost per bottle",
+"k": "text"
+},
+{
+"t": "Top Burgundy or Napa vineyards",
+"k": "text"
+},
+{
+"t": "Steep slopes and hand work",
+"k": "text"
+},
+{
+"t": "High labour cost per hectare",
+"k": "text"
+},
+{
+"t": "Mosel, Douro terraces, Côte-Rôtie",
+"k": "text"
+},
+{
+"t": "Low yields",
+"k": "text"
+},
+{
+"t": "Fixed costs spread over fewer bottles",
+"k": "text"
+},
+{
+"t": "Old vines, quality-driven estates",
+"k": "text"
+},
+{
+"t": "New oak and long maturation",
+"k": "text"
+},
+{
+"t": "Barrel cost plus capital tied up",
+"k": "text"
+},
+{
+"t": "Premium red Bordeaux, Rioja Gran Reserva",
+"k": "text"
+},
+{
+"t": "Mechanisation and high yields",
+"k": "text"
+},
+{
+"t": "Lower cost per bottle",
+"k": "text"
+},
+{
+"t": "Large flat vineyards producing inexpensive brands",
+"k": "text"
+},
+{
+"t": "Who makes and sells the wine",
+"k": "text"
+},
+{
+"t": "Wine businesses fall into three broad models. Estates (domaines) grow their own grapes and make and bottle their own wine, giving maximum control. Co-operatives are owned by their grower members, who pool grapes so they can share equipment, winemaking and marketing; they are very common in Europe where holdings are small, and many have improved quality by paying growers according to grape quality rather than weight alone. Merchants, or négociants, buy grapes, juice or finished wine from growers and co-operatives, often under long-term contracts, and can blend across many sources. Many large brands are made this way because blending from different vineyards gives a consistent product every year.",
+"k": "text"
+},
+{
+"t": "Exam technique: when asked for an advantage of each business model, link it to quality or price. Estate: control of every step but limited blending options in a poor vintage. Co-operative: shared costs for small growers but quality depends on member grapes. Merchant: scale and blending flexibility but less control in the vineyard.",
+"k": "text"
+},
+{
+"t": "Routes to market: from producer to consumer",
+"k": "text"
+},
+{
+"t": "A bottle of wine often passes through several businesses before it reaches the consumer, and each one adds its own costs and margin. In an export market a typical route looks like this:",
+"k": "text"
+},
+{
+"t": "The producer sells the wine at the cellar-door or ex-cellar price.",
+"k": "text"
+},
+{
+"t": "Transport and insurance are added to move the wine to the destination country.",
+"k": "text"
+},
+{
+"t": "An importer brings the wine in, deals with paperwork and pays the duty when the wine is released for sale.",
+"k": "text"
+},
+{
+"t": "A distributor or wholesaler may sell it on to shops, restaurants and bars, often handling local storage and delivery.",
+"k": "text"
+},
+{
+"t": "The retailer (off-trade) or restaurant (on-trade) adds its margin and sales tax before the consumer pays.",
+"k": "text"
+},
+{
+"t": "Direct-to-consumer sales, such as cellar-door sales, wine clubs, mail order and online shops, cut out intermediaries, so the producer keeps more of the final price, but they need marketing effort and usually reach fewer customers. Supermarkets buy large volumes and use their buying power to negotiate low prices, which suits big brands. Specialist wine shops offer advice and wider ranges at higher prices. Restaurants charge more than shops for the same wine because their price must also cover the setting, service, glassware, storage and the occasion.",
+"k": "text"
+},
+{
+"t": "Taxes and the price of cheap wine",
+"k": "text"
+},
+{
+"t": "Excise duty and sales tax (such as VAT) can make up a large part of the shelf price. In markets where duty is a fixed amount per bottle or per litre, it takes the same sum from an inexpensive bottle as from an expensive one. As a result, the share of the price that actually pays for the wine itself rises quickly as the bottle price goes up: spending a little more often buys much more wine value. This is a classic point in WSET 3 written answers on pricing.",
+"k": "text"
+},
+{
+"t": "What the market will pay",
+"k": "text"
+},
+{
+"t": "Production costs set a minimum price, but the selling price of premium wine is driven mainly by demand. Key factors include:",
+"k": "text"
+},
+{
+"t": "Reputation of the region, appellation and producer: famous names command higher prices.",
+"k": "text"
+},
+{
+"t": "Scarcity: small production from a limited, renowned vineyard cannot be increased to meet demand.",
+"k": "text"
+},
+{
+"t": "Vintage quality and critics' scores, which can move prices sharply for fine wine.",
+"k": "text"
+},
+{
+"t": "Brand strength: a well-known brand can charge more than a similar unbranded wine.",
+"k": "text"
+},
+{
+"t": "Fashion and changing consumer tastes, for example demand for particular grapes or styles.",
+"k": "text"
+},
+{
+"t": "Exchange rates and trade tariffs, which change the price of imported wine.",
+"k": "text"
+},
+{
+"t": "Fine wine, en primeur and the secondary market",
+"k": "text"
+},
+{
+"t": "Some fine wines, especially top Bordeaux, are sold en primeur: buyers pay for the wine in the spring after the harvest while it is still maturing in barrel, and receive the bottles later. Châteaux sell through brokers and négociants, which spreads risk and brings in cash early. Once released, fine wines can be resold on the secondary market and at auction, where prices depend on provenance, storage conditions and demand. Prices for the most sought-after wines can rise far beyond their production cost.",
+"k": "text"
+},
+{
+"t": "How to revise wine pricing in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Draw the route to market as a flow chart and add which costs and margins are added at each stage.",
+"k": "text"
+},
+{
+"t": "Write one sentence each for estate, co-operative and merchant: definition, advantage, disadvantage.",
+"k": "text"
+},
+{
+"t": "Explain in two sentences why fixed duty makes cheap wine poor value.",
+"k": "text"
+},
+{
+"t": "Pick two wines at very different prices and list the cost and market reasons for the gap.",
+"k": "text"
+},
+{
+"t": "Answer a set of pricing and trade questions in the app and rewrite each wrong answer in your own words.",
+"k": "text"
+},
+{
+"t": "Common mistake: explaining price with production costs only. For premium and fine wine, the market factors usually matter more. A full WSET 3 answer gives at least one cost reason and one demand reason.",
+"k": "text"
+},
+{
+"t": "Where the money goes: an inexpensive bottle versus a premium one",
+"k": "text"
+},
+{
+"t": "A useful way to answer pricing questions is to split the shelf price into its components and ask how each one changes as the price rises. Several costs are roughly fixed per bottle, so their weight changes dramatically between price levels.",
+"k": "text"
+},
+{
+"t": "Component",
+"k": "text"
+},
+{
+"t": "Inexpensive bottle",
+"k": "text"
+},
+{
+"t": "Premium bottle",
+"k": "text"
+},
+{
+"t": "The wine itself",
+"k": "text"
+},
+{
+"t": "A small share of the shelf price",
+"k": "text"
+},
+{
+"t": "The largest share of the shelf price",
+"k": "text"
+},
+{
+"t": "Glass, closure, label, carton",
+"k": "text"
+},
+{
+"t": "A significant share",
+"k": "text"
+},
+{
+"t": "A small share, even with a heavier bottle",
+"k": "text"
+},
+{
+"t": "Duty charged per bottle or per litre",
+"k": "text"
+},
+{
+"t": "A large share",
+"k": "text"
+},
+{
+"t": "A small share, because the amount is the same",
+"k": "text"
+},
+{
+"t": "Transport and logistics",
+"k": "text"
+},
+{
+"t": "Noticeable, partly reduced by bulk shipping",
+"k": "text"
+},
+{
+"t": "Minor",
+"k": "text"
+},
+{
+"t": "Margins of importer, distributor and retailer",
+"k": "text"
+},
+{
+"t": "Thin per bottle, earned on high volumes",
+"k": "text"
+},
+{
+"t": "Higher per bottle, on smaller volumes",
+"k": "text"
+},
+{
+"t": "Marketing and brand building",
+"k": "text"
+},
+{
+"t": "Spread over very large volumes for big brands",
+"k": "text"
+},
+{
+"t": "Often reputation-led rather than advertising-led",
+"k": "text"
+},
+{
+"t": "This is why a written answer on value for money should explain the mechanism, not just state that dearer wine is better: as the shelf price rises, the fixed elements shrink as a proportion, so a much larger part of what the consumer pays goes into the wine.",
+"k": "text"
+},
+{
+"t": "Supply shocks and vintage variation",
+"k": "text"
+},
+{
+"t": "Supply changes from year to year, and price follows. Spring frost, hail, drought or poor flowering can cut yields sharply, and for a region with strong demand a small harvest pushes prices up. A very large harvest has the opposite effect, especially on wine sold in bulk, where surpluses quickly lower prices. Supply also responds slowly: a newly planted vineyard gives no commercial crop for about three years, and premium wines may need further years of maturation, so a sudden rise in demand cannot be met quickly. Scarcity is permanent for wines from small, famous vineyards whose boundaries cannot grow.",
+"k": "text"
+},
+{
+"t": "Brands, retailer own labels and marketing",
+"k": "text"
+},
+{
+"t": "Building a brand costs money, through advertising, promotions, sponsorship and listing in shops, and that cost is recovered in the price. In return, a strong brand gives consumers confidence and lets the owner charge more than for a similar unbranded wine. Large retailers also sell wines under their own labels: they source the wine from producers or merchants, often to a precise specification, and control both the price and the margin. For producers this can mean large, secure volumes but less control over how their wine is presented and priced.",
+"k": "text"
+},
+{
+"t": "A sample written answer",
+"k": "text"
+},
+{
+"t": "Question: explain why a Cabernet Sauvignon from a small hillside estate in a famous region costs much more than one from a large, flat, irrigated vineyard. Answer: on the cost side, land in a famous region is expensive; slopes prevent mechanisation, so pruning and harvesting are done by hand; yields are lower, so fixed costs are spread over fewer bottles; and the premium wine is usually matured in new oak and aged before release, tying up capital. The flat vineyard can be machine harvested, gives high yields and may use oak alternatives. On the market side, the famous region and the estate's reputation create demand, production is limited, and critics' scores can raise prices further, while the volume wine competes on price in supermarkets.",
+"k": "text"
+},
+{
+"t": "Common mistakes: giving only cost reasons for an expensive wine, forgetting that fixed duty affects cheap wine most, and describing the route to market without saying that each stage adds its own costs and margin.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "41 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Wine pricing and the trade are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 41 multiple-choice questions on Wine pricing and the trade, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Wine pricing and the trade important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Wine pricing and the trade, can come up.",
+"k": "text"
+},
+{
+"t": "Why does spending more on a bottle often give better value for WSET 3?",
+"k": "text"
+},
+{
+"t": "Many costs are fixed per bottle, including excise duty in markets that tax by volume, glass, closure, transport and handling. These take the same amount from a cheap bottle as from a dearer one, so in the cheapest bottles only a small share of the price pays for the wine itself. As the price rises, that share grows quickly, which is why a moderate increase can buy much better wine.",
+"k": "text"
+},
+{
+"t": "What does en primeur mean for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "En primeur is a way of selling fine wine, especially top Bordeaux, before it is bottled. Buyers pay in the spring after the vintage while the wine is still in barrel, and the bottles are delivered later. The château receives cash early and shares the risk with the trade, while buyers hope to secure scarce wines at a lower price than after release.",
+"k": "text"
+},
+{
+"t": "What is the role of an importer in the wine trade for WSET 3?",
+"k": "text"
+},
+{
+"t": "An importer buys wine from producers abroad, arranges shipping, handles customs paperwork and pays duty when the wine is released for sale. Importers often also market the wine and sell it to distributors, retailers and restaurants. Each step adds costs and margin, which is one reason why the shelf price of an imported wine is far higher than its ex-cellar price.",
+"k": "text"
+},
+{
+"t": "Why are big wine brands usually made by merchants for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Brands need a consistent style and large volumes every year. Merchants can buy grapes, juice or wine from many growers and regions and blend them, smoothing out differences between vineyards and vintages. An estate is limited to its own grapes, so in a difficult year it has fewer blending options. Large brands also benefit from economies of scale in winemaking, packaging and marketing.",
+"k": "text"
+},
+{
+"t": "How do supermarkets affect wine prices for WSET 3?",
+"k": "text"
+},
+{
+"t": "Supermarkets sell large volumes and have strong buying power, so they can negotiate low prices from producers and use frequent promotions. This favours large producers and brands that can supply consistent wine in big quantities at a low cost per bottle. Smaller producers often prefer specialist shops, restaurants or direct sales, where advice and storytelling support higher prices.",
+"k": "text"
+},
+{
+"t": "Why does fixed duty make inexpensive wine poor value for WSET 3?",
+"k": "text"
+},
+{
+"t": "When duty is charged as a fixed amount per bottle or per litre, it takes the same sum from an inexpensive bottle as from an expensive one. Together with packaging, transport and margins, it can account for most of the price of a cheap bottle, leaving little for the wine itself. As the price rises, these fixed elements become a smaller proportion, so more of the money pays for the wine.",
+"k": "text"
+},
+{
+"t": "How do frost and hail affect wine prices?",
+"k": "text"
+},
+{
+"t": "Frost, hail, drought or poor flowering reduce the quantity of grapes harvested. For regions where demand is strong, a smaller supply usually pushes prices up, sometimes for several vintages. Because new vineyards take about three years to produce a commercial crop, supply cannot be increased quickly. A very large harvest has the opposite effect, particularly for wine sold in bulk.",
+"k": "text"
+},
+{
+"t": "What is a retailer own-label wine?",
+"k": "text"
+},
+{
+"t": "It is a wine sold under a brand that belongs to the retailer, such as a supermarket, rather than to the producer. The retailer sources the wine from producers or merchants, often to a detailed specification, and controls the price and the margin. Producers gain large, secure orders but give up control over branding and pricing. These wines compete mainly on value at accessible price levels.",
+"k": "text"
+},
+{
+"t": "Why are some wines expensive even when production costs are moderate?",
+"k": "text"
+},
+{
+"t": "For premium and fine wine, demand rather than cost sets the price. Reputation of the region and producer, limited production from famous vineyards, critics' scores, vintage quality and strong brands can push prices far above the cost of making the wine. On the secondary market, provenance and storage conditions also matter. A complete exam answer combines cost reasons with these market reasons.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Wine pricing and the trade – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Wine pricing and the trade practice questions with answers and explanations, plus 41 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is usually the largest production cost in an established vineyard?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is cut with seasonal workers or mechanisation; not possible on isolated or very steep sites.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is one way to reduce packaging and transport costs?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Only large producers can do this, and local laws do not always permit it.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why does wine cost more in restaurants than in shops?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Ultimately price depends on what the market will pay.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why are co-operatives very common in Europe?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Outside Europe they exist but are less common.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What does a merchant (négociant) do?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Common especially outside Europe, where holdings are larger; many big brands are made this way.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the main disadvantage of an estate (domaine)?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "An estate uses only its own grapes: maximum control and usually the best wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

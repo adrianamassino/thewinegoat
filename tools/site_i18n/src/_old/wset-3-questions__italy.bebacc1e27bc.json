@@ -1,0 +1,1197 @@
+{
+"group": "wset-3-questions__italy",
+"source": "wset-3-questions/italy/index.html",
+"url": "/wset-3-questions/italy/",
+"region": "main",
+"sha": "bebacc1e27bc",
+"words": 3421,
+"segment_words": 3596,
+"segments": [
+{
+"t": "WSET 3 Italy – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Italy practice questions with answers and explanations, plus 102 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Italy, WSET Level 3 Italy, Italy WSET questions, Italy wine quiz, Italy wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Italy: practice questions with answers – WSET 3 Italy, WSET Level 3 Italy, Italy WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Italy",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Italy: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Italy, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 102 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Italy: practice questions with answers | WSET 3 Italy",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Which traditional Italian term corresponds to PGI?",
+"k": "text"
+},
+{
+"t": "DOC (Denominazione di Origine Controllata)",
+"k": "text"
+},
+{
+"t": "IGT (Tipica)",
+"k": "text"
+},
+{
+"t": "VdT (Vino da Tavola with a regional name)",
+"k": "text"
+},
+{
+"t": "DOCG (Denominazione Garantita)",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} IGT (Tipica)",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The PDO term is DOP, but DOC and DOCG are more widely seen.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} Why does Northern Italy have dry, short summers?",
+"k": "text"
+},
+{
+"t": "The Alps form a barrier, sheltering vineyards from rain",
+"k": "text"
+},
+{
+"t": "The Adriatic's influence reduces summer rain across the whole North",
+"k": "text"
+},
+{
+"t": "Cool currents from the great lakes block storms",
+"k": "text"
+},
+{
+"t": "Hot North African winds sweep across the Po plain",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} The Alps form a barrier, sheltering vineyards from rain",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Rivers like the Po and lakes like Garda moderate inland areas; near the sea more rain brings fungal disease.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is Italy's most northerly wine region?",
+"k": "text"
+},
+{
+"t": "Alto Adige",
+"k": "text"
+},
+{
+"t": "Piedmont",
+"k": "text"
+},
+{
+"t": "Trentino",
+"k": "text"
+},
+{
+"t": "Friuli",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Alto Adige",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Around Bolzano, on terraces along the Adige; the wide diurnal range suits aromatic whites and elegant light reds.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Which grape dominates Alto Adige reds?",
+"k": "text"
+},
+{
+"t": "Schiava",
+"k": "text"
+},
+{
+"t": "Corvina",
+"k": "text"
+},
+{
+"t": "Nebbiolo",
+"k": "text"
+},
+{
+"t": "Teroldego",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Schiava",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It gives light, fruity wines with raspberry and plum. The key white is dry, high-acid Pinot Grigio.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which of these Italian varieties is a black grape?",
+"k": "text"
+},
+{
+"t": "Grechetto",
+"k": "text"
+},
+{
+"t": "Verdicchio",
+"k": "text"
+},
+{
+"t": "Dolcetto",
+"k": "text"
+},
+{
+"t": "Cortese",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Dolcetto",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Dolcetto: black, Piedmont. Cortese (Gavi), Grechetto (Orvieto), Verdicchio (Marche): white.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Which of these wines is NOT made from Nebbiolo?",
+"k": "text"
+},
+{
+"t": "Barolo",
+"k": "text"
+},
+{
+"t": "Barbaresco",
+"k": "text"
+},
+{
+"t": "Langhe",
+"k": "text"
+},
+{
+"t": "Brunello",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Brunello",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Brunello = Sangiovese (Tuscany).",
+"k": "text"
+},
+{
+"t": "Study notes: Italy for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Italy questions cover a huge country, so the trick is structure: learn Italy from north to south, link each region to its key grape and its climate, and memorise a short list of ageing rules and labelling terms. With so many native grapes and appellations, Italy is one of the biggest topics in the syllabus. These study notes give you the revision framework behind the sample questions above.",
+"k": "text"
+},
+{
+"t": "Italian wine labels: DOCG, DOC, IGT, Classico, Superiore, Riserva",
+"k": "text"
+},
+{
+"t": "Italy uses traditional terms alongside the EU categories. DOCG and DOC are PDO wines, with DOCG the higher tier with stricter rules; IGT is the PGI category, often used for wines made outside appellation rules, such as many Super Tuscans. Several other label terms appear in exam questions:",
+"k": "text"
+},
+{
+"t": "Classico: wine from the historic, original heart of an appellation, often on the best hillside sites (Chianti Classico, Soave Classico, Valpolicella Classico).",
+"k": "text"
+},
+{
+"t": "Superiore: a higher minimum alcohol and sometimes a longer minimum ageing than the basic wine.",
+"k": "text"
+},
+{
+"t": "Riserva: a longer minimum ageing period than the basic wine, set by each appellation.",
+"k": "text"
+},
+{
+"t": "Gran Selezione: the top tier of Chianti Classico, above Riserva.",
+"k": "text"
+},
+{
+"t": "Northern Italy for WSET Level 3: Piedmont and Veneto",
+"k": "text"
+},
+{
+"t": "Piedmont: Nebbiolo, Barbera, Dolcetto",
+"k": "text"
+},
+{
+"t": "Piedmont sits at the foot of the Alps and has a moderate continental climate with fog in autumn. Nebbiolo buds early and ripens very late, so it needs the warmest south-facing hillside sites. It gives pale wines that develop a garnet and orange rim early, with high acidity, high tannin and aromas of red cherry, roses and violets, developing tar, leather and dried fruit with age. Barolo and Barbaresco are the top Nebbiolo DOCGs; Barbaresco is generally slightly lighter and more approachable younger. Barbera has deep colour, high acidity and low tannin, with red cherry and plum, and can be made unoaked or with new oak (Barbera d'Asti, Barbera d'Alba). Dolcetto ripens early and gives soft, deeply coloured, fruity reds for early drinking. Cortese makes Gavi, a light, high-acid dry white.",
+"k": "text"
+},
+{
+"t": "Veneto: Soave, Valpolicella, Amarone",
+"k": "text"
+},
+{
+"t": "Soave is made mainly from Garganega, giving dry whites with medium to high acidity, lemon, pear and almond notes; the best come from the volcanic hills of the Classico zone. Valpolicella is based on Corvina, a black grape with high acidity, light colour and sour red cherry flavours. Basic Valpolicella is light and fruity. Amarone della Valpolicella is made from grapes dried after harvest (appassimento), which concentrates sugar, flavour and tannin; fermenting to dryness gives a full-bodied, high-alcohol red with dried fruit notes. Recioto della Valpolicella is the sweet version from the same dried grapes. Valpolicella Ripasso is Valpolicella refermented on the pomace left after Amarone, gaining body, alcohol, tannin and dried fruit character.",
+"k": "text"
+},
+{
+"t": "Further north, Alto Adige and Trentino make fresh whites and light reds thanks to altitude and a wide diurnal range, while Friuli is known for high-quality, often unoaked whites such as Friulano and Pinot Grigio.",
+"k": "text"
+},
+{
+"t": "Central Italy: Tuscany and Sangiovese",
+"k": "text"
+},
+{
+"t": "Sangiovese is the most planted black grape in Italy and the backbone of Tuscany. It is late-ripening, with high acidity and high tannin, medium colour, and flavours of red cherry, plum and dried herbs, developing leather and earthy notes with age. The Tuscan climate is warm Mediterranean, moderated by altitude in the hills where the best vineyards lie.",
+"k": "text"
+},
+{
+"t": "Wine",
+"k": "text"
+},
+{
+"t": "Grape rule",
+"k": "text"
+},
+{
+"t": "Key points",
+"k": "text"
+},
+{
+"t": "Chianti DOCG",
+"k": "text"
+},
+{
+"t": "Minimum 70% Sangiovese",
+"k": "text"
+},
+{
+"t": "Large area with sub-zones; styles range from simple to Riserva",
+"k": "text"
+},
+{
+"t": "Chianti Classico DOCG",
+"k": "text"
+},
+{
+"t": "Minimum 80% Sangiovese, can be 100%",
+"k": "text"
+},
+{
+"t": "Historic hilly heart; Annata, Riserva, Gran Selezione",
+"k": "text"
+},
+{
+"t": "Brunello di Montalcino DOCG",
+"k": "text"
+},
+{
+"t": "100% Sangiovese",
+"k": "text"
+},
+{
+"t": "Warmer, drier area south of Siena; at least 2 years in oak, released 5 years after harvest (Riserva 6)",
+"k": "text"
+},
+{
+"t": "Vino Nobile di Montepulciano DOCG",
+"k": "text"
+},
+{
+"t": "Majority Sangiovese (locally Prugnolo Gentile)",
+"k": "text"
+},
+{
+"t": "Not related to the Montepulciano grape of Abruzzo",
+"k": "text"
+},
+{
+"t": "Bolgheri",
+"k": "text"
+},
+{
+"t": "Bordeaux varieties allowed",
+"k": "text"
+},
+{
+"t": "Coastal; Cabernet Sauvignon, Merlot, Cabernet Franc; origin of famous Super Tuscans",
+"k": "text"
+},
+{
+"t": "IGT Toscana",
+"k": "text"
+},
+{
+"t": "Flexible",
+"k": "text"
+},
+{
+"t": "Used by many Super Tuscans, including international varieties or 100% Sangiovese outside DOC rules",
+"k": "text"
+},
+{
+"t": "Elsewhere in central Italy, Verdicchio from the Marche makes high-acid whites with lemon and almond, Montepulciano d'Abruzzo is a deeply coloured, soft-tannin red with plum and cherry, and Umbria offers Orvieto (white, largely Grechetto and Trebbiano) and the very tannic Sagrantino di Montefalco.",
+"k": "text"
+},
+{
+"t": "Southern Italy and the islands",
+"k": "text"
+},
+{
+"t": "The south is hot and Mediterranean, so quality vineyards rely on altitude, volcanic soils and sea breezes to keep freshness. Learn the key grape for each area:",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Key wines and grapes",
+"k": "text"
+},
+{
+"t": "Style",
+"k": "text"
+},
+{
+"t": "Campania",
+"k": "text"
+},
+{
+"t": "Taurasi (Aglianico), Fiano di Avellino, Greco di Tufo",
+"k": "text"
+},
+{
+"t": "Aglianico: deep colour, high acidity, high tannin, long ageing; whites with texture and freshness from altitude",
+"k": "text"
+},
+{
+"t": "Basilicata",
+"k": "text"
+},
+{
+"t": "Aglianico del Vulture",
+"k": "text"
+},
+{
+"t": "Aglianico from the slopes of an extinct volcano",
+"k": "text"
+},
+{
+"t": "Puglia",
+"k": "text"
+},
+{
+"t": "Primitivo (Primitivo di Manduria), Negroamaro (Salice Salentino)",
+"k": "text"
+},
+{
+"t": "Ripe, full-bodied, high alcohol, soft tannins, black fruit",
+"k": "text"
+},
+{
+"t": "Sicily",
+"k": "text"
+},
+{
+"t": "Nero d'Avola; Etna (Nerello Mascalese, Carricante)",
+"k": "text"
+},
+{
+"t": "Nero d'Avola: deep colour, ripe black fruit; Etna: high altitude volcanic slopes, lighter, high-acid reds and fresh whites",
+"k": "text"
+},
+{
+"t": "Sardinia",
+"k": "text"
+},
+{
+"t": "Cannonau (Grenache), Vermentino",
+"k": "text"
+},
+{
+"t": "Ripe reds with high alcohol; fresh, aromatic whites",
+"k": "text"
+},
+{
+"t": "Ageing rules and key numbers",
+"k": "text"
+},
+{
+"t": "A small set of numbers comes up again and again. Barolo DOCG requires at least 38 months of ageing, of which 18 months in wood (Riserva 62 months). Barbaresco DOCG requires at least 26 months, of which 9 months in wood (Riserva 50 months). Brunello di Montalcino must spend at least two years in oak and cannot be released until five years after the harvest (six for Riserva). If an exact rule is not asked, explain the effect: long ageing in large old casks or barrels softens tannins and adds tertiary notes such as leather, dried fruit and earth.",
+"k": "text"
+},
+{
+"t": "Common mistake: confusing the Montepulciano grape (Abruzzo) with Vino Nobile di Montepulciano (a Tuscan town, Sangiovese). Another classic trap: thinking Barbera is tannic. Barbera is high in acidity but low in tannin; Nebbiolo is high in both.",
+"k": "text"
+},
+{
+"t": "Sample short written answer: Amarone della Valpolicella",
+"k": "text"
+},
+{
+"t": "Exam-style question: explain how Amarone is made and how the process affects its style. A strong answer:",
+"k": "text"
+},
+{
+"t": "Healthy bunches of Corvina (with other local grapes) are picked and laid out to dry for several months in well-ventilated lofts.",
+"k": "text"
+},
+{
+"t": "The grapes lose water, so sugar, acids, flavour compounds and tannins become concentrated.",
+"k": "text"
+},
+{
+"t": "The must is fermented to dryness, slowly because of the high sugar, giving high alcohol and full body.",
+"k": "text"
+},
+{
+"t": "The wine is aged, typically in oak casks, which softens tannins and adds complexity.",
+"k": "text"
+},
+{
+"t": "Result: a dry, full-bodied red with high alcohol, high tannin and acidity balanced by concentrated dried cherry, raisin and spice flavours, able to age for many years.",
+"k": "text"
+},
+{
+"t": "How to revise WSET 3 Italy in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw Italy and place Piedmont, Veneto, Tuscany, Campania, Puglia and Sicily with one key grape each.",
+"k": "text"
+},
+{
+"t": "Day 2: Nebbiolo vs Barbera vs Dolcetto: colour, acidity, tannin, body in a three-column table.",
+"k": "text"
+},
+{
+"t": "Day 3: Valpolicella family: basic, Classico, Superiore, Ripasso, Amarone, Recioto, in order of richness.",
+"k": "text"
+},
+{
+"t": "Day 4: Tuscany table: Chianti, Chianti Classico, Brunello, Vino Nobile, Bolgheri, with grape rules.",
+"k": "text"
+},
+{
+"t": "Day 5: the south: match six wines to their grapes until perfect.",
+"k": "text"
+},
+{
+"t": "Day 6: write the Barolo, Barbaresco and Brunello ageing rules from memory.",
+"k": "text"
+},
+{
+"t": "Day 7: 20 mixed Italy multiple-choice questions and one short written answer.",
+"k": "text"
+},
+{
+"t": "Italy has many look-alike names, so short daily sessions in the app work better than one long cram: the questions you miss keep coming back until the pairs stick.",
+"k": "text"
+},
+{
+"t": "More Italy practice questions, answered in full",
+"k": "text"
+},
+{
+"t": "These extra questions are written in our own words in the style of the WSET Level 3 theory paper. Try to answer each one before reading the answer, then check whether your reasoning covered the cause as well as the fact.",
+"k": "text"
+},
+{
+"t": "Question: which grape and which method are used for most Prosecco, and how do they shape the style? Answer: Prosecco is made mainly from Glera, usually by the tank method, in which the second fermentation takes place in a pressurised tank. The method is quick and preserves the fresh, primary aromas of the grape, such as green apple, pear and melon, so the wine is light, fruity and best drunk young. The hilly Conegliano Valdobbiadene area is the source of the most prestigious examples.",
+"k": "text"
+},
+{
+"t": "Question: why is Moscato d'Asti low in alcohol and sweet? Answer: the fermentation of Moscato must is stopped early by chilling and filtering, at an alcohol level of around 5%. The unfermented sugar stays in the wine, which keeps its grapey, floral Muscat aromas and a gentle sparkle from the carbon dioxide retained during fermentation.",
+"k": "text"
+},
+{
+"t": "Question: what distinguishes Franciacorta from Prosecco? Answer: Franciacorta, in Lombardy, is made by the traditional method, with the second fermentation in the bottle and a period of ageing on the lees, mainly from Chardonnay and Pinot Noir. Lees ageing adds bready, biscuit notes and a finer texture, in contrast to the fresh fruit of tank-method Prosecco.",
+"k": "text"
+},
+{
+"t": "Question: how is Vin Santo made? Answer: grapes, often Trebbiano and Malvasia in Tuscany, are dried after harvest to concentrate sugar, then fermented and aged for several years in small barrels. The long, oxidative ageing gives amber colour and flavours of dried fruit, nuts and caramel; styles range from dry to sweet.",
+"k": "text"
+},
+{
+"t": "Question: why can Etna produce fresh wines in hot Sicily? Answer: the vineyards climb high on the slopes of the volcano, where altitude brings cooler temperatures and a large difference between day and night. Grapes keep their acidity, so Nerello Mascalese gives lighter, high-acid reds and Carricante fresh, citrus whites.",
+"k": "text"
+},
+{
+"t": "Italy's key black grapes compared",
+"k": "text"
+},
+{
+"t": "Many Italy questions are really grape questions. Learn this table well enough to rebuild it from memory: it helps both in multiple choice and in the tasting unit, where structure leads you to sensible conclusions.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Main areas",
+"k": "text"
+},
+{
+"t": "Colour",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Tannin",
+"k": "text"
+},
+{
+"t": "Typical character",
+"k": "text"
+},
+{
+"t": "Piedmont (Barolo, Barbaresco)",
+"k": "text"
+},
+{
+"t": "Pale, garnet early",
+"k": "text"
+},
+{
+"t": "High",
+"k": "text"
+},
+{
+"t": "Red cherry, rose, violet; tar and leather with age",
+"k": "text"
+},
+{
+"t": "Sangiovese",
+"k": "text"
+},
+{
+"t": "Tuscany (Chianti, Brunello, Vino Nobile)",
+"k": "text"
+},
+{
+"t": "Medium",
+"k": "text"
+},
+{
+"t": "Red cherry, plum, dried herbs; earthy with age",
+"k": "text"
+},
+{
+"t": "Barbera",
+"k": "text"
+},
+{
+"t": "Piedmont (Asti, Alba)",
+"k": "text"
+},
+{
+"t": "Deep",
+"k": "text"
+},
+{
+"t": "Low",
+"k": "text"
+},
+{
+"t": "Red cherry, plum; unoaked or new oak",
+"k": "text"
+},
+{
+"t": "Veneto (Valpolicella, Amarone)",
+"k": "text"
+},
+{
+"t": "Light",
+"k": "text"
+},
+{
+"t": "Low to medium",
+"k": "text"
+},
+{
+"t": "Sour red cherry; dried fruit when grapes are dried",
+"k": "text"
+},
+{
+"t": "Aglianico",
+"k": "text"
+},
+{
+"t": "Campania, Basilicata",
+"k": "text"
+},
+{
+"t": "Black fruit; long ageing potential",
+"k": "text"
+},
+{
+"t": "Montepulciano",
+"k": "text"
+},
+{
+"t": "Abruzzo",
+"k": "text"
+},
+{
+"t": "Soft",
+"k": "text"
+},
+{
+"t": "Plum, cherry, easy-drinking to serious",
+"k": "text"
+},
+{
+"t": "Primitivo",
+"k": "text"
+},
+{
+"t": "Ripe black fruit, full body, high alcohol",
+"k": "text"
+},
+{
+"t": "Nero d'Avola",
+"k": "text"
+},
+{
+"t": "Medium to high",
+"k": "text"
+},
+{
+"t": "Ripe black fruit",
+"k": "text"
+},
+{
+"t": "Italy's key white grapes at a glance",
+"k": "text"
+},
+{
+"t": "Garganega: Soave; medium to high acidity, lemon, pear, almond; best from the volcanic Classico hills.",
+"k": "text"
+},
+{
+"t": "Cortese: Gavi in Piedmont; light body, high acidity, citrus and green fruit.",
+"k": "text"
+},
+{
+"t": "Glera: Prosecco; light, fresh, pear and apple.",
+"k": "text"
+},
+{
+"t": "Pinot Grigio: Alto Adige, Friuli, Veneto; from simple and neutral to concentrated and textured in the best sites.",
+"k": "text"
+},
+{
+"t": "Verdicchio: Marche; high acidity, lemon and almond, able to age.",
+"k": "text"
+},
+{
+"t": "Fiano and Greco: Campania; textured whites with stone fruit, freshness helped by altitude.",
+"k": "text"
+},
+{
+"t": "Vermentino: Sardinia and the coast; fresh, aromatic, citrus and herbs.",
+"k": "text"
+},
+{
+"t": "Carricante: Etna; high acidity, citrus, often lean and mineral in style.",
+"k": "text"
+},
+{
+"t": "A second sample written answer: Brunello di Montalcino and Chianti Classico",
+"k": "text"
+},
+{
+"t": "Exam-style question: explain why Brunello di Montalcino is usually fuller-bodied than Chianti Classico. A strong answer can be built in linked points:",
+"k": "text"
+},
+{
+"t": "Montalcino lies further south and is generally warmer and drier, so Sangiovese ripens more fully.",
+"k": "text"
+},
+{
+"t": "Riper grapes give more sugar, so the wines have higher alcohol and more body, with riper fruit flavours.",
+"k": "text"
+},
+{
+"t": "Brunello must be made from 100% Sangiovese, while Chianti Classico allows small amounts of other grapes, so Brunello expresses Sangiovese at full concentration.",
+"k": "text"
+},
+{
+"t": "Brunello must age at least two years in oak and cannot be released until five years after the harvest, so it develops more tertiary complexity and softer tannins.",
+"k": "text"
+},
+{
+"t": "Chianti Classico vineyards are often at higher altitude in a cooler zone, which keeps the wines fresher and more medium-bodied, particularly at the Annata level.",
+"k": "text"
+},
+{
+"t": "Notice that each point links a cause, such as climate, grape rule or ageing, to an effect on the style. That is exactly what the command word explain asks for.",
+"k": "text"
+},
+{
+"t": "Classic Italy traps in multiple choice",
+"k": "text"
+},
+{
+"t": "Trap",
+"k": "text"
+},
+{
+"t": "The correct fact",
+"k": "text"
+},
+{
+"t": "Montepulciano the grape vs Vino Nobile di Montepulciano",
+"k": "text"
+},
+{
+"t": "The grape is from Abruzzo; Vino Nobile is a Tuscan town making Sangiovese-based wine",
+"k": "text"
+},
+{
+"t": "Barbera vs Barbaresco",
+"k": "text"
+},
+{
+"t": "Barbera is a grape; Barbaresco is a Nebbiolo DOCG",
+"k": "text"
+},
+{
+"t": "Greco vs Grechetto",
+"k": "text"
+},
+{
+"t": "Greco is a Campanian white (Greco di Tufo); Grechetto is an Umbrian white used in Orvieto",
+"k": "text"
+},
+{
+"t": "Ripasso vs Recioto",
+"k": "text"
+},
+{
+"t": "Ripasso is dry, refermented on Amarone pomace; Recioto is sweet, from dried grapes",
+"k": "text"
+},
+{
+"t": "Classico means older",
+"k": "text"
+},
+{
+"t": "Classico is a geographical term: the historic heart of the appellation",
+"k": "text"
+},
+{
+"t": "Prosecco is made like Champagne",
+"k": "text"
+},
+{
+"t": "Most Prosecco is made by the tank method; Franciacorta uses the traditional method",
+"k": "text"
+},
+{
+"t": "Italian wines in the tasting unit",
+"k": "text"
+},
+{
+"t": "Italy also helps in the tasting unit, which is assessed separately from theory: you need at least 55% in each unit, and a failed unit is retaken on its own. Italian reds are excellent training for structure, because many combine high acidity with high tannin. When you taste a Nebbiolo or a Sangiovese, practise placing acidity and tannin precisely and noticing that colour can be paler than the structure suggests. Then justify quality with balance, intensity, complexity and length, exactly as the SAT asks.",
+"k": "text"
+},
+{
+"t": "Taste a Barbera and a Nebbiolo side by side once: deep colour with low tannin against pale colour with high tannin is a lesson you will not forget.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "102 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try the Bordeaux questions{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Italy are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 102 multiple-choice questions on Italy, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Italy important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Italy, can come up.",
+"k": "text"
+},
+{
+"t": "Which Italian regions are most important for WSET 3?",
+"k": "text"
+},
+{
+"t": "Prioritise Piedmont (Nebbiolo, Barbera, Dolcetto, Gavi), Veneto (Soave, Valpolicella, Amarone), Tuscany (Chianti, Brunello, Vino Nobile, Bolgheri) and the south (Campania, Puglia, Sicily). Then add Alto Adige, Friuli, Marche, Abruzzo and Sardinia with one key grape each. Always connect each wine to its climate and style.",
+"k": "text"
+},
+{
+"t": "What is the difference between Valpolicella Ripasso and Amarone?",
+"k": "text"
+},
+{
+"t": "Amarone is made from grapes dried for months before fermentation, giving a dry, full-bodied, high-alcohol red with dried fruit. Ripasso is ordinary Valpolicella refermented on the pomace left after making Amarone, which adds body, alcohol, tannin and some dried fruit character, but less than Amarone itself.",
+"k": "text"
+},
+{
+"t": "How long must Barolo and Barbaresco be aged?",
+"k": "text"
+},
+{
+"t": "Barolo DOCG needs at least 38 months of ageing, including 18 months in wood, and Barolo Riserva at least 62 months. Barbaresco DOCG needs at least 26 months, including 9 months in wood, and Barbaresco Riserva at least 50 months. These figures are common WSET 3 multiple-choice questions.",
+"k": "text"
+},
+{
+"t": "What is a Super Tuscan for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "A Super Tuscan is a high-quality Tuscan red made outside traditional appellation rules, historically sold as a basic category and now usually as IGT Toscana. Many use Cabernet Sauvignon, Merlot or Syrah, alone or blended with Sangiovese, often aged in new French oak. Bolgheri on the coast is closely linked to this style.",
+"k": "text"
+},
+{
+"t": "What does Classico mean on an Italian wine label?",
+"k": "text"
+},
+{
+"t": "Classico indicates that the wine comes from the historic, original zone of the appellation, usually its hilly heart with the best-established vineyards. Examples include Chianti Classico, Soave Classico and Valpolicella Classico. It is a geographical term and not, by itself, a guarantee of longer ageing.",
+"k": "text"
+},
+{
+"t": "How is Prosecco made for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Prosecco is made mainly from Glera, usually by the tank method: the second fermentation happens in a pressurised tank, which is quick and preserves fresh primary aromas of apple, pear and melon. The wine is light and best drunk young. The hilly Conegliano Valdobbiadene area is the source of the most prestigious examples.",
+"k": "text"
+},
+{
+"t": "What is the difference between Franciacorta and Prosecco?",
+"k": "text"
+},
+{
+"t": "Franciacorta, in Lombardy, is made by the traditional method from mainly Chardonnay and Pinot Noir, with the second fermentation in bottle and ageing on the lees, which adds bready, biscuit notes. Prosecco is made mainly from Glera by the tank method and keeps a fresh, fruity, primary style.",
+"k": "text"
+},
+{
+"t": "Why is Moscato d'Asti low in alcohol?",
+"k": "text"
+},
+{
+"t": "The fermentation is stopped early, by chilling and filtering, at around 5% alcohol. Unfermented sugar remains, so the wine is sweet, with intense grapey and floral Muscat aromas and a light sparkle from carbon dioxide retained during fermentation.",
+"k": "text"
+},
+{
+"t": "Which Italian black grape has deep colour but low tannin?",
+"k": "text"
+},
+{
+"t": "Barbera. It gives deeply coloured wines with high acidity and low tannin, red cherry and plum flavours, and can be made unoaked or aged in new oak. It is a classic contrast with Nebbiolo, which is pale in colour but high in both acidity and tannin.",
+"k": "text"
+},
+{
+"t": "Why is Brunello di Montalcino fuller than Chianti Classico?",
+"k": "text"
+},
+{
+"t": "Montalcino is generally warmer and drier, so Sangiovese ripens more fully, giving more alcohol and body. Brunello must be 100% Sangiovese, ages at least two years in oak and is released five years after the harvest. Chianti Classico vineyards are often higher and cooler, giving fresher, more medium-bodied wines.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which traditional Italian term corresponds to PGI?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The PDO term is DOP, but DOC and DOCG are more widely seen.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Why does Northern Italy have dry, short summers?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Rivers like the Po and lakes like Garda moderate inland areas; near the sea more rain brings fungal disease.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Italy's most northerly wine region?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Around Bolzano, on terraces along the Adige; the wide diurnal range suits aromatic whites and elegant light reds.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which grape dominates Alto Adige reds?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It gives light, fruity wines with raspberry and plum. The key white is dry, high-acid Pinot Grigio.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which of these Italian varieties is a black grape?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Dolcetto: black, Piedmont. Cortese (Gavi), Grechetto (Orvieto), Verdicchio (Marche): white.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which of these wines is NOT made from Nebbiolo?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Brunello = Sangiovese (Tuscany).",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}
