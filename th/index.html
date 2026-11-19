@@ -1054,14 +1054,6 @@ var box=$('#mcq3');if(box){var qs=D.mcq,i=0,good=0;
    $('#mfb',box).innerHTML='<div class="mfb"><b>'+esc(ok?T.m_ok:T.m_ko)+'</b> '+esc(q.e)+'</div><button type="button" class="b3 b3p sm" id="mnx" style="margin-top:12px">'+esc(T.m_next)+' →</button>';
    $('#mnx').onclick=function(){i++;draw();};});});}
  draw();}
-/* local currency (fixed price list, never below the euro price) */
-(function(){try{var C=D.cur;var EZ='AT BE CY DE EE ES FI FR GR HR IE IT LT LU LV MC MT NL PT SI SK SM VA AD ME XK'.split(' ');
- var MAP={GB:'GBP',US:'USD',CH:'CHF',LI:'CHF',CA:'CAD',AU:'AUD',NZ:'NZD',JP:'JPY',KR:'KRW',CN:'CNY',TW:'TWD',HK:'HKD',MO:'HKD',PL:'PLN',BR:'BRL',AR:'USD',MX:'MXN',CL:'CLP',CO:'COP',SA:'SAR',AE:'AED',DK:'DKK',SE:'SEK',NO:'NOK'};
- var cur=null,loc=null,ls=navigator.languages||[navigator.language||''];for(var j=0;j<ls.length&&!cur;j++){var m=/^[a-z]{2,3}(?:-[A-Za-z]{4})?-([A-Z]{2})$/.exec(ls[j]||'');if(m){cur=EZ.indexOf(m[1])>=0?'EUR':MAP[m[1]]||null;if(cur)loc=ls[j];}}
- if(!cur||!C.list[cur])cur=C.def;var t=C.list[cur],full=6*t[0]+2*t[1],V={a:t[0],b:t[1],bundle:t[2],full:full,save:full-t[2]};
- var f;try{f=new Intl.NumberFormat(loc||C.lang,{style:'currency',currency:cur,maximumFractionDigits:0});}catch(e){f={format:function(x){return x+' '+cur;}};}
- $$('.pr[data-p]').forEach(function(el){var k=el.getAttribute('data-p');if(V[k]!=null)el.textContent=f.format(V[k]);});
- $$('.pp').forEach(function(el){if(/^0\s?€$/.test(el.firstChild&&el.firstChild.textContent||''))el.firstChild.textContent=f.format(0)+' ';});}catch(e){}})();
 /* goats hop when tapped */
 $$('.g3').forEach(function(g){g.style.pointerEvents='auto';g.addEventListener('click',function(){g.style.animation='none';void g.offsetWidth;g.style.animation='hop3 .9s ease-out';});});
 })();
