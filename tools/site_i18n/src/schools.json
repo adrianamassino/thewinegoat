@@ -3,7 +3,7 @@
 "source": "schools/index.html",
 "url": "/schools/",
 "region": "main",
-"sha": "c62302321bd0",
+"sha": "19fd5100640c",
 "words": 3355,
 "segment_words": 3468,
 "segments": [
@@ -683,7 +683,7 @@
 "k": "text"
 },
 {
-"t": "Partner discount",
+"t": "Partner programme",
 "k": "text"
 },
 {
@@ -955,7 +955,7 @@
 "k": "text"
 },
 {
-"t": "Give your students the app that trains them like the real WSET exam: practice questions, marked written answers, mock exams and a study plan. Partner discount, class licences or a white-label app with your brand — for wine or any other course.",
+"t": "Give your students the app that trains them like the real WSET exam: practice questions, marked written answers, mock exams and a study plan. Partner programme, class licences or a white-label app with your brand — for wine or any other course.",
 "k": "ld",
 "n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
 }
