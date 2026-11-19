@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["tools/photos/fetch.py", "tools/photos/queries.csv"]
+    paths: ["tools/photos/fetch.py", "tools/photos/queries.csv", "tools/photos/queries_extra.csv"]
 permissions:
   contents: write
 concurrency: { group: photos, cancel-in-progress: false }
@@ -19,7 +19,9 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install -q requests pillow
       - name: Fetch
-        run: python3 tools/photos/fetch.py --limit 1000 | tail -40
+        run: |
+          git pull -q --rebase origin main || true   # continue from photos already committed by a previous run
+          python3 tools/photos/fetch.py --limit 1300 | tail -40
       - name: Commit
         run: |
           set +e

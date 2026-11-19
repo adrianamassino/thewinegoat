@@ -20,7 +20,7 @@ OUT = 'img/photos'
 S = requests.Session()
 S.headers['User-Agent'] = 'TheWineGoatPhotoFetcher/1.0 (https://thewinegoat.com; hello@thewinegoat.com)'
 OK_LIC = re.compile(r'^(cc0|public domain|pd\b|pd-|cc by(-sa)? \d)', re.I)
-CAT_EN = {'Vigneti e paesaggi': 'vineyards', 'Uva e vitigni': 'grapes', 'Vendemmia e viticoltura': 'harvest',
+CAT_EN = {'Spirits e distillerie': 'spirits', 'Birra': 'beer', 'Calici e coppe': 'glasses', 'Produttori e vignaioli': 'producers', 'Vigneti e paesaggi': 'vineyards', 'Uva e vitigni': 'grapes', 'Vendemmia e viticoltura': 'harvest',
           'Tenute e château': 'estates', 'Barriques e cantine': 'cellars', 'Champagne e spumanti': 'sparkling',
           'Degustazione e sommelier': 'tasting', 'Bottiglie e servizio': 'service', 'Regioni e terroir': 'regions'}
 BAD = re.compile(r'\b(map|logo|diagram|chart|plan|coat of arms|flag|scan|document|label of|stamp|poster|svg|drawing|engraving|painting|nude)\b', re.I)
@@ -45,12 +45,20 @@ def search(q):
     return []
 
 def main():
-    limit = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else 1000
+    limit = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else 1300
     os.makedirs(OUT, exist_ok=True)
     man_p = f'{OUT}/photos.json'
     man = json.load(open(man_p)) if os.path.exists(man_p) else []
     seen_titles = {m['title'] for m in man}; done_q = {m['query'] for m in man}
     rows = list(csv.DictReader(open('tools/photos/queries.csv', encoding='utf-8-sig')))
+    if os.path.exists('tools/photos/queries_extra.csv'):  # spirits, beer, glasses, producers
+        extra = list(csv.DictReader(open('tools/photos/queries_extra.csv', encoding='utf-8-sig')))
+        # interleave: every 4th search is an extra theme so the mix stays varied
+        mixed, ei = [], 0
+        for i, r in enumerate(rows):
+            mixed.append(r)
+            if i % 4 == 3 and ei < len(extra): mixed.append(extra[ei]); ei += 1
+        rows = mixed + extra[ei:]
     skipped = 0
     for row in rows:
         if len(man) >= limit: break
