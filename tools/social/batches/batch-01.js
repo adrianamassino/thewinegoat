@@ -275,21 +275,21 @@ const stories = [
     a: { answer: 'B · <em>Sauvignon Blanc</em>',
          explain: 'Sancerre, in the cool Loire Valley, is dry with <b>high acidity</b>, green apple and grassy, herbaceous notes.<br><br>The label usually doesn’t name the grape, so you need to know it.',
          foot: 'More quizzes on thewinegoat.com',
-         goat: { src: G('ig-n21'), style: { left: 30, bottom: 20, height: 400 } } } },
+         goat: { src: G('ig-n21'), style: { left: '50%', transform: 'translateX(-50%)', bottom: 290, height: 400 } } } },
   { id: 'story-2-syrah-shiraz',
     q: { question: 'Syrah and Shiraz are…', options: ['Two different grapes', 'The same grape'],
          goat: { src: G('ig-n10'), style: { left: 30, bottom: 30, height: 380 } } },
     a: { answer: 'B · <em>The same grape</em>',
          explain: '<b>Syrah</b> in France, <b>Shiraz</b> in Australia.<br><br>Northern Rhône: medium body, fresh blackberry, black pepper.<br>Warm Barossa Valley: full body, jammy black cherry, liquorice.',
          foot: 'More quizzes on thewinegoat.com',
-         goat: { src: G('ig-g14'), style: { right: 30, bottom: 20, height: 380 } } } },
+         goat: { src: G('ig-g14'), style: { left: '50%', transform: 'translateX(-50%)', bottom: 290, height: 400 } } } },
   { id: 'story-3-eiswein',
     q: { question: 'Eiswein grapes are…', options: ['Shrivelled by noble rot', 'Frozen on the vine'],
          goat: { src: G('scoot'), style: { right: 20, bottom: 20, height: 380 } } },
     a: { answer: 'B · <em>Frozen on the vine</em>',
          explain: 'No botrytis: Eiswein shows fresh <b>peach, apricot, mango</b> and <b>pineapple</b>.<br><br>Noble rot is behind Beerenauslese (BA) and Trockenbeerenauslese (TBA).',
          foot: 'More quizzes on thewinegoat.com',
-         goat: { src: G('leap'), style: { left: 30, bottom: 20, height: 400 } } } },
+         goat: { src: G('free'), style: { left: '50%', transform: 'translateX(-50%)', bottom: 290, height: 400 } } } },
 ];
 
 /* =========================== REELS (1080x1920, 30 fps) =========================== */
@@ -338,7 +338,7 @@ const reels = [
       { start: 14.8, end: 18.6, kicker: 'The tool', title: 'Only a <em>column still</em>', titleSize: 96,
         lines: ['Pot still: batches, <b>never neutral</b>', 'Column still: non-stop, <b>up to 96% abv</b>'],
         caption: 'Only a column still can reach 96%. A pot still never makes a neutral spirit.',
-        goat: { src: G('method'), h: 380, top: 1010 } },
+        goat: { src: G('vs'), h: 380, top: 1010 } },
       { start: 18.6, end: 21.6, kicker: 'Then', title: 'Add <em>pure water</em>',
         lines: ['Vodka = <b>diluted neutral spirit</b>', 'Usually bottled at <b>40% abv</b>'],
         caption: 'Vodka is neutral spirit, diluted with pure water, usually to 40% abv.',
@@ -346,7 +346,7 @@ const reels = [
       { start: 21.6, end: 24.0, kicker: 'Save it', title: 'For your <em>spirits exam</em>',
         lines: ['Practise free on <b>thewinegoat.com</b>'],
         caption: 'Follow for more spirits basics.',
-        goat: { src: G('levels'), h: 440, top: 940 } },
+        goat: { src: G('inside'), h: 420, top: 960 } },
     ] },
 ];
 

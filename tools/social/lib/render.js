@@ -107,16 +107,15 @@ function storyFrame(s) {
       <div class="kicker">${s.kicker || 'A or B?'}</div>
       <div class="st-q">${s.question}</div>
       ${B.options(s.options)}
+      <div class="st-hint" style="margin-top:34px">${s.hint || 'Vote, then tap for the answer'}</div>
       <div class="sticker-space" data-role="sticker"></div>
-      <div class="st-hint">${s.hint || 'Vote, then tap for the answer'}</div>
     </div>`;
   } else {
     inner = `<div class="st-area">
       <div class="kicker">${s.kicker || 'The answer'}</div>
       <div class="st-big">${s.answer}</div>
       <div class="st-exp">${s.explain}</div>
-      <div class="grow"></div>
-      ${s.foot ? `<div class="st-hint">${s.foot}</div>` : ''}
+      ${s.foot ? `<div class="st-hint" style="margin-top:40px">${s.foot}</div>` : ''}
     </div>`;
   }
   const cv = `<div class="cv tall dark" id="cv">${brand(true)}${goatTag(s.goat)}${inner}</div>`;
