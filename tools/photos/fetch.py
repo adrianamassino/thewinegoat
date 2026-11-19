@@ -1,0 +1,92 @@
+"""Fetches up to 1,000 free photos from Wikimedia Commons for The Wine Goat (runs in GitHub Actions: the runner
+has network access). One photo per search query of tools/photos/queries.csv (the owner's catalogue).
+
+Rules
+- Only licences that allow commercial use with attribution: CC0, Public domain, CC BY x.x, CC BY-SA x.x
+  (anything else — NC, ND, GFDL-only, "fair use", unknown — is skipped).
+- Photos only (jpg/png/webp), at least 900 px wide, landscape or square, no SVG/maps/scans of documents.
+- Each photo is saved twice as optimised WebP: 1200 px and 600 px wide, quality 72, metadata stripped,
+  with an SEO file name built from the query + Commons title (lowercase ascii-hyphen).
+- Everything we need for alt text and credits goes to img/photos/photos.json:
+  id, file, file_sm, w, h, category, query, title, description (EN), author, licence, licence_url, source page.
+Usage: python3 tools/photos/fetch.py [--limit N]
+"""
+import csv, html, io, json, os, re, sys, time, unicodedata
+import requests
+from PIL import Image
+
+API = 'https://commons.wikimedia.org/w/api.php'
+OUT = 'img/photos'
+S = requests.Session()
+S.headers['User-Agent'] = 'TheWineGoatPhotoFetcher/1.0 (https://thewinegoat.com; hello@thewinegoat.com)'
+OK_LIC = re.compile(r'^(cc0|public domain|pd\b|pd-|cc by(-sa)? \d)', re.I)
+CAT_EN = {'Vigneti e paesaggi': 'vineyards', 'Uva e vitigni': 'grapes', 'Vendemmia e viticoltura': 'harvest',
+          'Tenute e château': 'estates', 'Barriques e cantine': 'cellars', 'Champagne e spumanti': 'sparkling',
+          'Degustazione e sommelier': 'tasting', 'Bottiglie e servizio': 'service', 'Regioni e terroir': 'regions'}
+BAD = re.compile(r'\b(map|logo|diagram|chart|plan|coat of arms|flag|scan|document|label of|stamp|poster|svg|drawing|engraving|painting|nude)\b', re.I)
+
+def slug(s, n=70):
+    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
+    s = re.sub(r'[^a-z0-9]+', '-', s).strip('-')
+    return s[:n].rstrip('-') or 'photo'
+
+def strip(v): return html.unescape(re.sub(r'<[^>]+>', '', v or '')).strip()
+
+def search(q):
+    p = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{q} filetype:bitmap', 'gsrnamespace': 6,
+         'gsrlimit': 12, 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': 1600, 'iiextmetadatalanguage': 'en'}
+    for attempt in range(4):
+        try:
+            r = S.get(API, params=p, timeout=40)
+            if r.status_code == 429: time.sleep(10 * (attempt + 1)); continue
+            pages = r.json().get('query', {}).get('pages', {})
+            return sorted(pages.values(), key=lambda x: x.get('index', 99))
+        except Exception: time.sleep(5)
+    return []
+
+def main():
+    limit = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else 1000
+    os.makedirs(OUT, exist_ok=True)
+    man_p = f'{OUT}/photos.json'
+    man = json.load(open(man_p)) if os.path.exists(man_p) else []
+    seen_titles = {m['title'] for m in man}; done_q = {m['query'] for m in man}
+    rows = list(csv.DictReader(open('tools/photos/queries.csv', encoding='utf-8-sig')))
+    skipped = 0
+    for row in rows:
+        if len(man) >= limit: break
+        q = row['Ricerca immagine'].strip()
+        if q in done_q: continue
+        for page in search(q):
+            t = page.get('title', ''); ii = (page.get('imageinfo') or [{}])[0]; md = ii.get('extmetadata', {})
+            if t in seen_titles or ii.get('mime') not in ('image/jpeg', 'image/png', 'image/webp'): continue
+            w, h = ii.get('width', 0), ii.get('height', 0)
+            if w < 900 or h > w * 1.05: continue
+            lic = strip(md.get('LicenseShortName', {}).get('value'))
+            if not OK_LIC.match(lic) or re.search(r'\bnc\b|\bnd\b|non-?commercial|no deriv', lic, re.I): continue
+            desc = strip(md.get('ImageDescription', {}).get('value'))
+            if BAD.search(t) or BAD.search(desc[:200]): continue
+            try:
+                r = S.get(ii.get('thumburl') or ii['url'], timeout=60); r.raise_for_status()
+                im = Image.open(io.BytesIO(r.content)).convert('RGB')
+            except Exception: continue
+            n = len(man) + 1; base = f"{n:04d}-{slug(q, 40)}-{slug(t.replace('File:', '').rsplit('.', 1)[0], 40)}"
+            files = {}
+            for wd, suf in ((1200, ''), (600, '-sm')):
+                x = im.copy(); x.thumbnail((wd, wd * 2), Image.LANCZOS)
+                fn = f'{base}{suf}.webp'; x.save(f'{OUT}/{fn}', 'WEBP', quality=72, method=6); files[suf] = (fn, x.size)
+            man.append({'id': n, 'file': files[''][0], 'file_sm': files['-sm'][0], 'w': files[''][1][0], 'h': files[''][1][1],
+                        'category': CAT_EN.get(row['Categoria'], 'wine'), 'query': q, 'title': t,
+                        'description': desc[:400], 'author': strip(md.get('Artist', {}).get('value'))[:160] or 'Unknown author',
+                        'licence': lic, 'licence_url': strip(md.get('LicenseUrl', {}).get('value')),
+                        'source': ii.get('descriptionurl', '')})
+            seen_titles.add(t); done_q.add(q)
+            print(f'{n} {q} -> {t} [{lic}]', flush=True)
+            break
+        else:
+            skipped += 1
+        time.sleep(0.3)
+        if len(man) % 50 == 0: json.dump(man, open(man_p, 'w'), ensure_ascii=False, indent=0)
+    json.dump(man, open(man_p, 'w'), ensure_ascii=False, indent=0)
+    print(f'done: {len(man)} photos, {skipped} queries without a usable free photo')
+
+if __name__ == '__main__': main()
