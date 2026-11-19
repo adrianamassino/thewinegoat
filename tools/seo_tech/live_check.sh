@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Full live test of the public site thewinegoat.com, run from a GitHub-hosted runner by
 # .github/workflows/pages-https.yml. Every line of the output comes from a real request made during the run.
+# (re-run marker 3: after Enforce HTTPS)
 D=thewinegoat.com
 UA="Mozilla/5.0 (TWG live check)"
 one() { curl -s -o /dev/null -A "$UA" -m 25 --max-redirs 0 -w '%{http_code}|%{redirect_url}' "$1"; }
