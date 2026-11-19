@@ -207,6 +207,8 @@ def build_page(l, g, base, region, tr, lm):
     doc = remap_links(doc, l, lm)
     out = 'index.html' if url == '/' else C.fs(url)
     os.makedirs(os.path.dirname(out) or '.', exist_ok=True)
+    # the home's goat lane has a raw '>' inside an attribute (data-after=".ctas3 > a"): the extractor sees 'a">' as text; restore it
+    doc = doc.replace('data-after=".ctas3 > a"&gt;', 'data-after=".ctas3 > a">')
     open(out, 'w', encoding='utf8').write(doc)
     size = seg.size(seg.visible_text(doc, region), l)
     return url, size
