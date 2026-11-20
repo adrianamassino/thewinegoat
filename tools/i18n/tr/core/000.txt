@@ -1,0 +1,861 @@
+The Wine Goat
+Seviye 3'e hazırlanmak için {N} soru
+Panel
+Alıştırma
+Deneme sınavı
+Hatalarım
+Geçmiş
+Giriş yapıldı · ilerleme hesabına kaydediliyor
+Giriş yapılmadı · ilerleme yalnızca bu tarayıcıda tutuluyor
+Hesabına bağlanılıyor…
+Çevrimiçi kayıt başarısız · otomatik olarak yeniden deneniyor
+Görülen sorular
+Doğruluk
+Düzeltilecek hatalar
+Oturumlar
+Bölüme göre ustalık
+Bir soruyu doğru cevapladığında ve soru düzeltilecek hataların arasında olmadığında, o soruda ustalaşmış olursun. 10 soru için bir bölüme tıkla.
+Bölüm seç
+Tümü
+Hiçbiri
+Soru sayısı
+Önce yeni sorular
+Başla
+Seviye
+Yalnızca ileri
+Yalnızca temel
+İleri
+Tuzak soru
+Yalnızca tuzak sorular
+Sınavdaki gibi dağıtılmış 50 soru: 8'i üretim faktörleri, 28'i dünyanın sakin şarapları, 5'i köpüklü, 5'i takviyeli şaraplar, 4'ü tadım, yemek eşleştirme ve servis üzerine. Geçme notu: %55. Düzeltme ve açıklama her cevaptan sonra, puan ise sonda görünür.
+Deneme sınavını başlat
+Soru
+/
+Sonraki
+Bitir
+Çık
+Doğru.
+Yanlış.
+Doğru cevap:
+Puan
+Geçti
+Kaldı
+geçme notu %55
+Cevapları gözden geçir
+Baştan başla
+Hatalarımı gör
+Geri
+Her hata açıklamasıyla birlikte burada kalır. O soruyu doğru cevapladığın anda hata düzeltildi olarak işaretlenir; tekrarlarından çıkar ama geçmişte kalır. Yine yanlış yaparsan "düzeltilecek" listesine geri döner.
+Düzeltilecek
+Düzeltildi
+Tüm bölümler
+Düzeltilecek hataları tekrarla
+Tüm hatalarımı yeniden yap
+hata
+son
+ilk
+düzeltilme tarihi
+Senin cevabın
+Doğru cevap
+Açıklama
+Bu filtrede hata yok.
+Henüz hata yok. İlk testinden sonra burada görünecekler.
+Tarih
+Mod
+İçerik
+Henüz oturum yok.
+Alıştırma
+Hata tekrarı
+Bölüm
+Tüm ilerlememi sil
+Her şey silinsin mi? Bu işlem geri alınamaz.
+Evet, sil
+İptal
+İlerlemen bu cihazda, bu tarayıcıda kayıtlı.
+En az bir bölüm seç.
+bölüm
+Kısayollar: cevaplamak için 1-4 tuşları, devam etmek için Enter.
+Yapay zekâ ile derinleş
+Doğru da bilsen yanlış da yapsan, bu konuyla ilgili istediğini sor. Sohbet soruyla birlikte kaydedilir. Göndermek için Enter, yeni satır için Shift+Enter.
+Sorunu yaz…
+Gönder
+Durdur
+Düşünüyor…
+Yapay zekâ sohbeti burada kullanılamıyor: sayfayı claude.ai'de aç ve sorulduğunda Claude'a izin ver.
+Cevap yarıda kesildi. Birazdan tekrar dene.
+Çok fazla istek veya kullanım sınırına ulaşıldı: daha sonra tekrar dene.
+Sohbet kaydedildi
+Sen
+YZ
+YZ sohbeti
+Nedeniyle birlikte daha iyi açıkla
+Diğer cevaplar neden yanlış?
+Sınavda çıkabilecek başka konularla bağlantı kur
+Yazılı cevaplar
+Seviye 3 yazılı sınavındaki gibi açık uçlu sorular, tüm konulardan. Her bölüm için cevabını yaz: uygulama cevabını ders materyalinin kilit noktalarıyla karşılaştırır, her bölüme puan verir, neyi bildiğini ve neyin eksik olduğunu söyler ve örnek cevabı gösterir.
+Tüm konular
+Rastgele soru (önce yeniler)
+Cevaplanan
+Ortalama
+en iyi
+puan
+bölüm
+bölüm
+Bu filtrede soru yok.
+Değerlendir
+Değerlendiriliyor…
+Yeni deneme
+Tüm sorular
+Değerlendirme istemeden önce en az bir cevap yaz.
+Kazanılan puanlar
+Eksik veya yanlış noktalar
+Genel yorum
+Örnek cevap
+Değerlendirme kılavuzu (kilit noktalar, İngilizce)
+Denemeler
+Yapay zekâ değerlendirmesi burada kullanılamıyor: sayfayı claude.ai'de aç ve Claude'a izin ver. Yine de cevaplarını yazıp değerlendirme kılavuzuyla karşılaştırabilirsin.
+Değerlendirme başarısız. Birazdan tekrar dene.
+Yapay zekânın cevabı okunamadı. Tekrar dene.
+Taslak otomatik kaydedildi
+kelime
+Yazılı cevap
+Sınav ipucu: bir puan = açıklanmış (nedeniyle) bir doğru fikir. Sınav terimlerini kullanarak, her biri tek fikir içeren kısa cümleler yaz.
+Konular arası karşılaştırmalar
+Tam puanı nasıl alabilirdim?
+Kaçırdığım noktayı daha açık anlat
+Alıştırma için benzer bir soru ver
+SAT tadımı
+Seviye 3 Sistematik Tadım Yaklaşımı'nı (SAT) resmi terimlerle çalış. İki mod: klasik bir şarabın tipik notunu yaz (uygulama yapı ve sonuçları değerlendirir ve beklenen profili gösterir) ya da tattığın bir şarabın notunu kaydet. Notlar günlüğünde kalır.
+Alıştırma: klasik bir şarap
+Gösterilen stil için tipik SAT notunu yaz ve beklenen profille karşılaştır.
+Tattığım bir şarap için not
+Tadarken SAT'ı doldur: not günlüğüne kaydedilir.
+Rastgele şarap
+Yarım kalan notu sürdür
+Taslağı sil
+Tadım günlüğü
+Henüz kaydedilmiş not yok.
+SAT tablosu (Seviye 3)
+Terimler resmi SAT terimleridir.
+← Tadım
+Bu şarabın iyi bir örneği için tipik tadım notunu yaz.
+Kadehindeki şarabı tarif et. İsim isteğe bağlı: kör tadım için sonradan ekleyebilirsin.
+Şarap (üretici, apelasyon)
+Rekolte
+Notlar (vesile, izlenim…)
+Tür
+Beyaz
+Roze
+Kırmızı
+Köpüklü
+Takviyeli
+Görünüm
+Koku
+Damak
+Sonuçlar
+Berraklık
+Yoğunluk
+Renk
+Diğer gözlemler
+Durum
+Aroma özellikleri
+Gelişim
+Tatlılık
+Asidite
+Tanen
+Alkol
+Gövde
+Lezzet yoğunluğu
+Lezzet özellikleri
+Kalite düzeyi
+İçime hazırlık / yıllanma potansiyeli
+Gerekçe (BLIC: denge, uzunluk, yoğunluk, karmaşıklık)
+örn. bacaklar/gözyaşları, tortu, kabarcıklar
+örn. kokudaki gibi, ayrıca…
+örn. Çok iyi: dengeli (meyve ve asidite), uzun bitiş, yoğun, ama karmaşıklığı sınırlı. Şimdi içilebilir ama potansiyeli var çünkü…
+Değerlendir
+YZ ile analiz et
+Notu kaydet
+Değerlendiriliyor…
+Doldurulmamış alanlar: {N} (yanlış sayılır). Yine de değerlendirmek için tekrar bas.
+Kaydetmeden önce en az birkaç alanı doldur.
+Yapı ve sonuçlar
+Senin seçimin
+Beklenen
+Aromalar, lezzetler ve gerekçe (YZ)
+Aromalarını aşağıdaki beklenen profille karşılaştır.
+Beklenen profil ve nedeni
+Birincil
+İkincil
+Üçüncül
+Doğru aromalar
+Eksik
+Stil dışı
+Geri bildirim
+İpuçları
+Stil ve kimlik
+Yeni not
+Sil
+Bu not silinsin mi?
+Not günlüğe kaydedildi.
+Not günlüğüne kaydedildi.
+Hangi yapı hatalarımı düzeltmeliyim?
+Bu şarap için sınav tarzında bir BLIC gerekçesi nasıl yazarım?
+Hangi aroma tanımlayıcılarını kullanabilirdim?
+Alkol: sakin şaraplarda düşük < %11, orta %11–13.9, yüksek ≥ %14; takviyeli şaraplarda düşük %15–16.4, orta %16.5–18.4, yüksek ≥ %18.5.
+Kalite: 4 BLIC kriterinin hepsinde olumlu = olağanüstü, 3 = çok iyi, 2 = iyi, 1 = kabul edilebilir.
+örn. birincil, ikincil, üçüncül (serbest metin)
+Çalışma
+Haritalar
+Çoktan seçmeli test
+Bölüme göre çoktan seçmeli sorular
+Açık uçlu sorular
+Ders materyalinin kilit noktalarıyla değerlendirilen yazılı cevaplar
+SAT tablosuyla tadım notları
+Şarap haritalarını tamamla
+Ülkelerden tek tek bölgelere kadar tüm şarap haritaları, gerçek coğrafi verilerle yeniden çizildi. Her haritada keşfedebilir, her ismi yerine koyarak bulmacayı tamamlayabilir ya da yerleri tek tek bulabilirsin. En iyi puanın kaydedilir.
+Ülkeler ve büyük bölgeler
+Bölgeler ve apelasyonlar
+yer
+Filtreler ve kategoriler
+En iyi
+Keşfet
+Bul
+Tüm isimler gösteriliyor: haritayı incele, sonra bulmacayı dene.
+Aşağıdan bir isme, sonra haritadaki doğru noktaya dokun (ya da önce noktaya, sonra isme).
+Haritada istenen noktaya dokun. 3 kaçırıştan sonra nokta gösterilir.
+Nerede:
+Önce bir isim seç (veya noktaya tekrar dokun)
+Hayır, tekrar dene
+Doğru!
+Harita tamamlandı
+İlk seferde {C}/{N} · {E} hata
+Tekrar oyna
+Modu değiştir
+← Haritalar
+Yakınlaştır
+Uzaklaştır
+Şaraplar ve apelasyonlar
+Şehirler
+Nehirler ve göller
+Dağlar ve tepeler
+Eyaletler ve bölgeler
+Ders kitabı haritası, s.
+En az bir kategori seç.
+Haritalar açık coğrafi verilerden (Natural Earth) yeniden çizildi: noktalar her alanın yaklaşık konumunu gösterir; isimler apelasyonların isimleridir.
+Gerçek sınav gibi her şeyi karıştıran tam bir sınav: anında geri bildirim olmadan çoktan seçmeli sorular, açık uçlu sorular, teorik bir tadım notu ve bir coğrafya testi. Bölümleri seç, hepsini cevapla ve sonda her bölümün puanını gör (geçme notu %55).
+Çoktan seçmeli
+Sınavdaki gibi dağıtılmış (üretim faktörleri, sakin şaraplar, köpüklü, takviyeli, tadım ve servis). Sonda değerlendirilir.
+Farklı bölümlerden 4 soru, sonda ders materyalinin kilit noktalarıyla değerlendirilir.
+Teorik tadım
+Klasik bir şarap için tipik SAT notu.
+Coğrafya
+Haritada 10 apelasyon bul.
+Sınavı başlat
+Yarım kalan sınavı sürdür
+Bırak
+Bölüm
+← Önceki
+Sonraki →
+Bölümü bitir
+Gönder ve değerlendir
+Deneme sınavı sonucu
+Genel puan
+Geçti: tüm bölümler %55 veya üzeri
+Geçemedi: en az bir bölüm %55'in altında
+değerlendirilmedi
+Yeni sınav
+Bir cevap seç
+Cevaplanmamış sorular: {N}. Yine de gönderilsin mi? Tekrar bas.
+En az bir bölüm seç.
+Çık (kaydedildi)
+Tarif edilecek şarap
+Harita
+Bu sınavdaki ana hataları açıkla
+Hangi bölümleri tekrar etmeliyim?
+Yazılı cevaplarımı nasıl geliştirebilirim?
+Bugün
+Sınav
+Oyunlar
+Ben
+Günaydın!
+İyi günler!
+İyi akşamlar!
+Bugünkü planın
+Sonraki adım
+Sınava hazır
+Ustalaşılacak {N} soru kaldı: yaklaşık {S} oturum (10'ar soru).
+Tüm sorularda ustalaştın. Deneme sınavlarıyla formunu koru!
+Sana önerilenler
+{N} hatayı tekrarla
+Düzeltilen her hata hemen sayılır
+Okul soruları: {N} yapılacak
+Okulunun gönderdiği sorular
+Güçlendir: {C}
+Doğruluk oranın %{P}: 10 hedefli soru
+Başla: {C}
+Henüz denemediğin bir bölüm
+Devam et: {C}
+%{P} ustalık
+Eşleştir! oyna
+Öğrenilecek {N} üzüm
+Haritaları keşfet
+Coğrafya sınavda puan kazandırır
+Deneme sınavına gir
+Kendini sınav koşullarında dene
+Son sonuç: %{P}. Tekrar dene!
+Karışık oturum
+Tüm konulardan 10 soru
+Tüm konular, adım adım.
+Bölüm başına 10 soru
+Bir bakışta ülkeler, bölgeler ve üzümler
+Eğlenirken akılda kalması için kısa, hızlı oyunlar.
+Şimşek doğru-yanlış
+60 saniye, olabildiğince çok cevap
+Bir eşleşme göreceksin (bölge ve üzüm, üzüm ve tipik özellik, bölge ve ülke): doğru mu yanlış mı? 60 saniye; her hata 3 saniye götürür, art arda 5 doğru çift puan.
+Ben kimim?
+İpuçlarından üzümü tahmin et
+İpuçları teker teker gelir: yapı, aromalar, iklim, stiller, bölgeler. Üzümü olabildiğince erken tahmin et: daha az ipucu, daha çok puan. Oyun başına 8 üzüm.
+Hayatta kal
+3 can, soru başına 20 saniye
+Giderek zorlaşan sınav soruları, her biri 20 saniye. 3 canın var: ne kadar dayanabilirsin? Cevaplar ilerlemene sayılır.
+Sırala!
+Hiyerarşiler, adımlar ve coğrafya
+Öğelere doğru sırayla dokun: Prädikat'lar, hiyerarşiler, şarap yapım adımları, kuzeyden güneye coğrafya. Oyun başına 6 görev.
+Harita avı
+Bölgeleri ve apelasyonları bul
+Oyna
+Kadeh bitti!
+Yeni rekor!
+Daha fazla oyun
+puan
+Devam
+Sonucu gör
+Unutma
+Bu üzüm bu bölgeye özgü mü?
+Bu, üzümün tipik özelliği mi?
+Bu bölge bu ülkede mi?
+Doğru
+Yanlış
+Klavye: ← yanlış, → doğru
+Üzümü tahmin et
+{N} puan değerinde
+Başka ipucu
+Cevap:
+Süre doldu!
+Yanlış cevap
+doğru cevap
+Sıraya koy
+Kontrol et
+Doğru sıra:
+çözülen görev
+Senin alanın
+ustalaşıldı
+Sınava giden yol
+{T} sorudan {M} tanesinde ustalaşıldı
+Son deneme sınavı: %{P}
+Yanlış cevapladığın sorular
+Tüm oturumların
+Ayarlar
+Hedef, dil, tema, bildirimler
+Günlük hedef
+Günlük oturum (testler, oyunlar, haritalar)
+Dil
+Tema
+Otomatik
+Açık
+Koyu
+Hatırlatıcılar
+Serin tehlikeye girdiğinde seni uyaracağız (telefonda uygulama açık ya da yüklü olmalı).
+Tarayıcın burada bildirimleri desteklemiyor.
+Açık
+Hatırlatıcıları aç
+Bildirimler
+Sınav tarzında 100 yeni soru
+Her bölümde diğer tüm sorularla karışık
+Yeni Oyna bölümü
+Eğlenerek tekrar etmek için 4 yeni oyun
+Macaristan ve Tokaj
+Yeni harita ve profiller
+{N} günlük serin tehlikede!
+Kurtarmak için 10 soru yeterli
+Tekrar bekleyen {N} hata var
+Günlük hedefe ulaşıldı! 🎉
+Bir bonus oyuna ne dersin?
+Bu hafta: {N} oturum
+Toplam XP: {X}. Böyle devam!
+10 soru için bir bölüme dokun. Halka onu ne kadar iyi bildiğini gösterir.
+Özel test (birden çok bölüm, seviye, soru sayısı)
+Sınav tarzı (okul)
+Yalnızca okul soruları
+Okul
+Sınav tarzı
+Günlük seri
+Bugün {N} oturum tamamla
+İlerlemen
+üzüm
+başlanan harita
+tekrarlanacak hata
+Her gün biraz: 10 dakika bile serini canlı tutar!
+Şemalar
+Ülkeler → bölgeler → apelasyonlar ve üzümler → ülkeler
+Ülkeye göre
+Üzüme göre
+Her ülke bölgeleri ve apelasyonlarıyla: tür (AOC, DOCG, AVA…), üzümler (ana üzüm kalın) ve temel özellikler. Haritada görmek için bir isme, şeması için bir üzüme dokun.
+Her üzüm, görüldüğü ülkeler, bölgeler ve apelasyonlarla. Kalın olanlar, ana üzüm olduğu alanlar.
+Ülke, bölge, apelasyon veya üzüm ara…
+Tümünü aç/kapat
+Ana üzümler
+Ana bölgeler
+apelasyon/alan
+Profil
+Üzüm profilleri
+Her üzüm için iklim, aromalar, stiller ve bölgeler
+Eşleştir!
+Duolingo tarzı eşleştirme oyunu
+Kilit üzümler, her biri kendi profiliyle: yapı, iklim, aromalar, stiller ve bölgeler. Haritada görmek için bir bölgeye dokun.
+Siyah
+Üzüm veya eş anlamlı ara…
+Beyaz üzüm
+Siyah üzüm
+Tomurcuk patlaması
+Olgunlaşma
+erken
+orta
+geç
+Bağ ve iklim
+Aromalar
+Stiller ve şarap yapımı
+Unutma:
+Kilit bölgeler
+Eş anlamlılar
+Haritada gör
+Bu aileyi çalış
+Üzüm bulunamadı.
+Eşleştir oyununda ustalık
+Her üzümü bölgesi, aromaları, tipik özelliği veya eş anlamlısıyla eşleştir. Her dersin 4 turu ve 3 canı var: her hata bir can götürür.
+günlük seri
+ustalaşılan üzüm
+Eşleşme türü
+Karışık
+Üzüm ↔ Bölge
+Üzüm ↔ Aromalar
+Üzüm ↔ Tipik özellik
+Üzüm ↔ Eş anlamlı
+Tüm üzümler
+Tüm üzümlerle ders
+Hataları tekrarla
+Sesler
+Birbirine uyan çiftlere dokun
+Klavye: 1–5 sol sütun, 6–0 sağ sütun, çıkmak için Esc
+Dersten çık
+Şerefe! 🥂
+Grand cru!
+Ne rekolte ama!
+Şerefe! Ders tamamlandı 🥂
+Canın kalmadı!
+Sorun değil: tekrar dene, çiftler her seferinde değişir.
+Hatasız: +5 bonus XP
+Kazanılan XP
+Süre
+Tekrar edilecek (profili açmak için dokun)
+Başka bir ders
+Tekrar dene
+Yola dön
+Merhaba! Bugün neyi tekrar edelim?
+Konuya göre çalış ya da tam bir deneme sınavıyla kendini dene.
+Çalışmaya git
+Seterra gibi: haritada yere dokun ve doğru olup olmadığını anında gör. Apelasyon sınırları, kapsadıkları belediyelerin gerçek sınırlarıdır. Bulduğun her isim haritada yazılı kalır. Üç seviye: Temel (ana yerler), İleri (+ ek apelasyonlar ve cru'lar), Uzman (sınır yok: ezberden). Kaçırdığın yerler daha sık geri gelir.
+ustalaşılan yer
+son 28 gün
+Tüm seviyelerin kilidini aç
+Gerçek sınırlar: Fransa (IGN), İtalya (ISTAT), İspanya (IGN España), Portekiz (CAOP), Avusturya (Statistik Austria) belediyeleri ve Almanya'nın ilçeleri; nehirler ve kıyılar Natural Earth'ten. Apelasyonlar, alanın belediyeleri veya ilçeleri birleştirilerek çizilir; bu yüzden sınır resmi bağ alanından biraz daha geniştir. Yunanistan, Yeni Dünya ve Güney Afrika şematik kalır.
+Kilitli: önce “{P}” haritasında ustalaş (yerlerin %30'u veya %70 en iyi puan).
+Bul
+Haritada alana dokun
+Adı ne?
+4 seçenekten ismi seç
+İsmi yaz
+En zoru
+Atlas
+İsme göre çalış ve ara
+Hızlı oturum (10)
+Tüm harita
+Bugün tekrar zamanı gelen {N} alan
+Yine de oyna
+Bul:
+Telaffuzu dinle
+Vurgulanan alanın adı ne?
+Vurgulanan alanın adını yaz
+Buradaydı
+İsim ara…
+Adını ve bilmen gerekenleri görmek için bir alana dokun. Daha yeşil alanlar ustalaştıklarındır.
+İsim (aksanlar önemli değil)
+Bilmiyorum
+Doğru yere dokun. Yakınlaştırmak için iki parmakla aç veya çift dokun.
+Hataları yeniden dene
+Sonraki seviye
+Zorluk
+Temel
+Ana yerler, sınırlar gösteriliyor
++ ek apelasyonlar ve cru'lar, yakın cevaplar
+Uzman
+Sınır yok: ezberden
+Sınır gösterilmiyor: bulunduğu yere dokun. Yakınlaştırmak için iki parmakla aç veya çift dokun.
+Dokunduğun yer:
+İleri seviye
+Genel alan
+Daha çok çalış
+Tekrar
+Yanlış
+Doğru
+Doğru cevaplarım
+Daha önce doğru cevapladığın tüm sorular, cevap ve açıklamalarıyla, tekrar edebilmen için. “Hep doğru” = hiç kaçırılmadı; “Hatadan sonra düzeldi” = önce yanlış, sonra doğru; “Çalışılmalı” = bir kez doğru bildin ama son denemen yanlıştı.
+Hep doğru
+Hatadan sonra düzeldi
+Çalışılmalı
+Bir keresinde cevabın
+Bu soruları yeniden yap
+Burada henüz doğru cevap yok. Bir test çöz, onları bu bölümde bulacaksın.
+Üzümler ve apelasyonlar
+İsimler gösteriliyor: üzümleri ve kategoriyi seç
+Üzümler ve kategori:
+Ana üzümleri seç ({N})
+Kategori / seviye
+kaçırıldı
+Şarap mevzuatı
+Neredeyse: neyin eksik olduğuna bak
+Tam değil
+Oyuna dön
+Sınav hazırlığı
+Sınavın
+Yalnızca sınav formatında alıştırma: çoktan seçmeli, yazılı cevaplar, SAT tadımı.
+Süreli çoktan seçmeli, yazılı cevaplar ve SAT, tıpkı sınav günü gibi
+Sınav çalışması
+Tekrar edilecek her şey
+Podcast'ler, filmler, sözlük, bilgi kartları ve haritalar: okunacak ve dinlenecek tüm içerik, puan yok, süre yok.
+Oyun molası
+Hasat
+Yalnızca doğru üzümleri yakala
+Salkımlar asma sırasından düşüyor: yalnızca gösterilen bölgeye veya ülkeye uyanlara dokun. Her 5 yakalamada hedef değişir ve hız artar. Üç hata ve hasat biter.
+Kabarcıklar
+Doğru kabarcığı yukarı ulaşmadan patlat
+Cevaplar kadehte kabarcıklar gibi yükselir: köpüğe ulaşmadan doğrusuna dokun. Her doğru cevap flütü doldurur. Üç can.
+Şarap Yapımcısı
+Şarabı yap: her seçim sonucu değiştirir
+Bir şarap stili siparişi alırsın ve bağda ve şaraphanede kararları verirsin. Sonunda sonucu tadar ve neyin işe yaradığını görürsün.
+Yalnızca şuradan üzümler seç:
+Yalnızca şuraya özgü üzümler seç:
+salkım
+şuraya özgü değil:
+kaldı
+kabarcık
+Yukarı ulaştı!
+Günün siparişi
+Adım
+Şarabın
+İstenen stil
+Madalyalık bir şarap!
+İçilebilir ama daha iyi olabilirdi
+Şaraphaneye geri…
+doğru seçim
+Yeni
+Şarap filmleri
+Bağ, şaraphane, köpüklü, tatlı şaraplar, Sherry, Port, yemek eşleştirme ve haritalarda tüm ülkeler
+sahne
+izlendi
+Ses
+Film sonu
+Tekrar izle
+Sonraki film
+Tüm filmler
+Kendini dene
+Bağ, şaraphane, stiller ve şarap ülkeleri: her adım animasyonlu ve anlatımlı, akılda kalması için harita ve grafiklerle. Her film anahtar kelimeler ve videoda anlatılanlarla ilgili bir testle biter.
+Podcast'ler
+Konu konu dinlenecek dersler
+Her konu bir ders gibi anlatılıyor: dinle ve metni oynatılırken takip et.
+Bölüm 1 · Şarap ve tüketici
+Bölüm 2 · Stil ve kalite
+Bölüm 3 · Dünyanın sakin şarapları
+Bölüm 4 · Köpüklü şaraplar
+Bölüm 5 · Takviyeli şaraplar
+Ses kaydı yakında
+Dinlendi
+Ders metni
+Dinlendi olarak işaretle
+Dinlendi ✓
+Sonraki ders
+Hız
+Bu ders hakkında YZ'ye sor
+Sesli cevaplar
+Sorunu sesle söyle
+Dinle
+Ses hazırlanıyor… %{P}
+Bu cihazda doğal ses yok: sistem sesi kullanılıyor.
+Mikrofon burada kullanılamıyor: lütfen sorunu yaz.
+Kayıtlı ses
+Cihazının kendi sesi: kalite tarayıcıya bağlıdır. En doğal olanlar: Edge "Natural" sesleri, Chrome "Google" sesleri, iPhone/Mac'te Premium veya Geliştirilmiş sesler (Ayarlar › Erişilebilirlik › Seslendirilen İçerik › Sesler).
+Metin yükleniyor…
+Metin kullanılamıyor.
+Dersi 5 kilit noktada özetle
+Bu bölümle ilgili 3 sınav sorusu ver
+Burada akılda tutması en zor fikir hangisi?
+Denge · Uzunluk · Yoğunluk · Karmaşıklık
+örn. bacaklar/gözyaşları, tortu, pétillance, kabarcıklar
+Sınav formatı
+Toplam
+Şarap
+Sınav formatında sorular (25 puan)
+Sözlük
+Tüm şarap terimleri, Fransızcadan İngilizceye
+Terim ara (örn. soutirage)
+terim
+Terim bulunamadı.
+Diğer dillerde
+Üzüm karşılaştırması
+Tüm üzümler yan yana, tek tabloda
+Üzüm
+Genç
+Yıllandıkça
+Bağ ve riskler
+Bölgeler
+Sırala
+Üzüm, aroma veya bölge ara
+Tabloyu yana kaydır · tam profil için bir isme dokun
+Kilit rakamlar
+Sınav için gereken tüm rakamlar: cru'lar, yıllandırma kuralları, yüzdeler, eşikler.
+Rakam ara (örn. crus, solera, Barolo)
+rakam
+Bölümler
+Altyazılar
+Tam ekran
+The Wine Goat · şarap okulu
+Sahne
+Bu sahnede
+Tekrar mahzeni
+Podcast'ler, filmler, sözlük, bilgi kartları ve haritalar: okunacak, dinlenecek ve izlenecek her şey, kendi hızında.
+Aç
+film
+harita
+Sınav için akılda tut
+Anahtar kelimeler
+Özet
+Üzümler
+Bölgeler ve yerler
+Teknik terimler
+Rakamlar
+Özet ve anahtar kelimeler
+Bu video hakkında test
+filmde anlatılanlarla ilgili soru
+Film ara: Champagne, Riesling, solera, Barolo…
+Bu aramaya uyan film yok.
+film bulundu
+Teste hazır mısın?
+Kaç soru?
+Testi başlat
+soru
+Konular
+İsteğe bağlı: yalnızca tekrar etmek istediğin konuları seç. Varsayılan olarak hepsi dahil.
+Seçenekler
+tüm konular
+konu seçildi
+tüm grup
+Bir kez izlendi
+{n} kez izlendi
+Henüz izlenmedi
+Bilgi kartları
+Çevrilebilir kartlarla öğrenilecek her şey: sorular, terimler, rakamlar ve üzümler. Bilemediklerin daha sık geri gelir.
+kart
+Kartlarla tekrar et
+Kaç kart?
+Kart türleri
+İsteğe bağlı: varsayılan olarak tüm konular.
+Sorular
+Terimler
+Çevirmek için karta dokun
+Cevabı göster
+Tekrar et
+Biliyordum
+Oturum tamamlandı!
+bilinen
+tekrar edilecek
+Yeni oturum
+Bilinemeyenleri tekrarla
+Bilgi kartlarına dön
+öğrenilen kart
+yeni
+öğreniliyor
+Hâlâ yapılacak {N} yeni soru var
+Tüm sorular yapıldı: şimdi bilemediklerini tekrar ediyorsun ({N})
+Tüm sorular yapıldı ve biliniyor: serbest tekrar
+Cevabı onayla
+Cevaba tekrar dokun veya Onayla'ya bas
+Tomurcuk patlaması ve olgunlaşma
+Tüm üzümler karşılaştırmalı: ne zaman tomurcuklanır, ne zaman olgunlaşır ve bu ne anlama gelir.
+Asmanın döngüsündeki iki an, bir üzümün nerede iyi yetiştiğini belirler: ilkbaharda tomurcuk patlaması ve yaz sonunda olgunlaşma.
+Tomurcukların ilkbaharda açıldığı an. Ne kadar erken olursa, genç sürgünler ilkbahar donlarına o kadar açık olur: korunaklı yerlere, iyi drene olan yamaçlara veya dondan korunmaya ihtiyaç duyarlar. Geç tomurcuk patlaması bu riski büyük ölçüde önler.
+Üzümlerin olgun şeker, aroma ve tanenlere ulaştığı an. Erken olgunlaşan bir üzüm, yazların kısa ve serin olduğu yerlerde bile olgunlaşır, ancak sıcak iklimlerde asiditesini ve tazeliğini kaybedebilir. Geç olgunlaşan bir üzüm uzun, sıcak bir mevsime ve kuru bir sonbahara ihtiyaç duyar: yoksa sert ve yeşil kalır ya da yağmur ve çürümeden zarar görür.
+Matris: tomurcuk patlaması × olgunlaşma
+belirtilmemiş
+Üzüm ara…
+Tam tablo
+Sonuçlar
+İklim ve notlar
+İlkbahar donu riski; erken olgunlaşır: serin iklimlerde ideal, sıcak iklimlerde asiditesini kaybeder.
+İlkbahar donu riski; orta dönemde olgunlaşır: serin ile ılıman iklimler.
+Çifte risk: ilkbahar donu ve uzun, sıcak bir mevsim ihtiyacı; sonbahar yağmurundan korkar.
+Dondan kısmen kaçar ve erken olgunlaşır: serin iklimlere uygundur, tazeliğini ve aromalarını korur.
+Dengeli döngü, uyumlu; ılıman ile sıcak iklimler.
+Sıcaklığa ve uzun, kuru bir sonbahara ihtiyaç duyar; serin iklimlerde olgunlaşmakta zorlanır.
+Dondan kaçar ve erken olgunlaşır: soğuk, sınırda iklimler için mükemmel.
+Dondan kaçar; orta olgunlaşma, ılıman ile sıcak iklimler.
+Dondan kaçar ama geç olgunlaşır: çok sıcaklığa veya uzun bir sonbahara ihtiyaç duyar; serin yıllarda yağmur ve olgunlaşmamış üzüm riski.
+Ana üzümler: ezbere bil
+Sorularda en sık çıkan üzümler bunlar. Önce bunlara odaklan: ne zaman olgunlaştıklarına ve ne zaman tomurcuklandıklarına.
+yalnızca ana üzümler
+İkincil üzümler (isteğe bağlı)
+Çok daha seyrek geçen {n} üzüm. Yalnızca gerekirse bak.
+Erken olgunlaşır: kısa yazlı serin iklimlerde bile başarılı olur; sıcak iklimlerde asiditesini kaybetme riski vardır.
+Orta dönemde olgunlaşır: ılıman ve sıcak iklimlere uyum sağlar.
+Geç olgunlaşır: uzun, sıcak bir mevsime ve kuru bir sonbahara ihtiyaç duyar.
+Hasat yarışı
+Erken mi tomurcuklanır? Geç mi olgunlaşır? Don ve yağmur gelmeden her üzümün takvimini tahmin et!
+12 tur. Daha çok puan için hızlı cevapla ve kombolar yap. 3 salkımın var: her hata birini götürür.
+Ne zaman olgunlaşır:
+Ne zaman tomurcuklanır:
+Hangisi İLK olgunlaşır?
+Hangisi EN SON olgunlaşır?
+Serin iklim, kısa yaz: hangi üzüm olgunlaşabilir?
+Uzun, kuru sonbaharlı sıcak iklim: olgunlaşmak için buna gerçekten ihtiyaç duyan üzüm hangisi?
+Erken
+Orta
+Geç
+Yanlış!
+Puan
+Hasat bitti!
+Dolu! Tüm salkımlarını kaybettin
+İlkbahar donu!
+Sonbahar yağmuru!
+Kısa yaz: başarıyor!
+Oyna: hasat yarışı
+Tekrar edilecek
+Ülke başına en çok dikilen 3 üzüm
+Beyaz ve siyah: her ülkenin podyumu.
+İsimleri gizle ve görmek için dokun.
+Tümünü göster
+Bağ alanına göre sıralı (yıllar içinde değişen yaklaşık rakamlar). ★ = bilinmesi gereken ana üzüm.
+ülke
+Profiller, karşılaştırmalar, tomurcuk patlaması ve olgunlaşma, ülkelere göre en çok dikilen üzümler: üzümlerle ilgili her şey tek yerde.
+Bir konu seç. Ana üzümlerle başla: sorularda en sık çıkanlar onlar.
+Üzümlerle oyna
+Ara, konuya göre filtrele ve kendini dene: rakamları gizle ve görmek için dokun.
+Rakamları göster
+konu
+Rakamı görmek için bir karta dokun.
+Haritada
+Ülke
+Bölge
+Coğrafya
+Ülkedeki konumu
+Sınırlar, apelasyonlar ve kasabalar
+Dağlar, göller, nehirler ve ovalar
+Video: cevap haritalar üzerinde açıklanıyor
+Videoyu izle
+Vurgulanan
+Dağlar
+Ovalar ve vadiler
+Topraklar
+Rakım
+Yeşil = alçak arazi, kahverengi = tepeler ve dağlar, beyaz = yüksek zirveler.
+Bu alanlar için toprak gösterilmiyor.
+Kasabalar
+Şarap bölgesi (isim büyük harfle)
+Şarap köyü
+Testi sürdür
+cevapların kaydedildi
+soru
+Kapat
+Duraklatılmış başka bir test
+Üzümler ve yerler
+Her alt bölgeyi simge üzümüyle eşleştir: Dão ve Encruzado, Bairrada ve Baga…
+Bir ülke seç
+Her alanı üzümüyle eşleştir
+Alanlar
+O değil
+Sonraki tur
+Oyun bitti!
+Başka bir ülke
+hata
+Bir alana, sonra üzümüne dokun.
+Etkileşimli atlas
+Bir ülkeye, sonra bir bölgeye, sonra bir alt bölgeye dokun: her alan için yakınlaştırma, üzümler, topraklar ve kurallar.
+Haritayı aç:
+Alana yakınlaştır
+Haritada veya lejantta bir alana dokun.
+Etkileşimli haritada keşfet
+Teste dön
+Ülkeler
+alan
+Aferin!
+Tam isabet!
+Mükemmel!
+Evet!
+Ne burun ama!
+art arda!
+Neredeyse…
+Tekrar dene!
+Devam et!
+Önceki
+Mevcut soruya dön
+Sürdür
+Tadım
+Harita oyunu
+Eşleştirme
+Oyun
+kaldığın yerden devam et
+Hata düzeltildi! Listeden çıkarıldı
+Hâlâ yanlış: hatalarında kalıyor
+Bu tekrarda düzeltilen hatalar
+Hâlâ düzeltilecek
+Düzeltilecek hata kalmadı 🎉
+Değerlendirme İngilizceye çevriliyor…
+Çeviri başarısız: lütfen daha sonra tekrar dene.
+Cevap başına en fazla {n} fotoğraf gönderebilirsin: ilk {n} tanesini tuttum.
+Kâğıda mı cevapladın?
+El yazısı cevabının fotoğrafını çek (aynı anda birkaç fotoğraf seçebilirsin): kutulara yazıya döker, sonra değerlendiririm.
+📷 Fotoğraf çek veya yükle
++ Başka sayfa ekle
+Yazıya dök ve değerlendir
+El yazın okunuyor…
+Cevabını yukarıya yazıya döktüm: kontrol et. Değerlendirme hemen başlıyor.
+Fotoğrafı okuyamadım. Daha fazla ışıkla, sayfa düz ve iyi çerçevelenmiş şekilde tekrar dene.
+Uygulamanın bu sürümünde fotoğraf kullanılamıyor: cevabını kutulara yaz.
+Kaldır
+✨ Mükemmel cevap
+Tam puanlık örnek cevap, bölüm bölüm.
+Mükemmel cevabı göster
+Mükemmel cevap hazırlanıyor…
+Ders materyalinin kilit noktalarından oluşturulan örnek cevap:
+Gizle
+Mükemmel cevabı hazırlayamadım: lütfen tekrar dene.
+Kamera: art arda birkaç çekim
+Çek
+Bitti
+Doğrudan kamera burada kullanılamıyor: “Fotoğraf çek veya yükle”yi kullan.
+Bir sayfayı çerçevele ve çek, sonra bir sonrakine geç. Bitirdiğinde “Bitti”ye bas.
+Yerel üzüm isimleri
+Steen, Côt, Tinto Fino, Tinta Roriz, Jaen… başka isimler altında aynı üzüm
+Aynı üzüm bölgeden bölgeye isim değiştirir. ⭐ ile işaretli çiftler sınavlarda en çok sorulanlardır.
+Yerel isim
+Nerede
+En önemliler
+Üzümleri gizle
+Üzümleri göster
+Üzüm eş anlamlıları
+Yerel ismi üzümle eşleştir: Steen ve Chenin Blanc, Côt ve Malbec, Jaen ve Mencía…
+Her yerel ismi üzümüyle eşleştir
+Bir yerel isme, sonra üzüme dokun.
+Yerel isimler
+isim
+Sınav stratejisi
+Sınav mantığı
