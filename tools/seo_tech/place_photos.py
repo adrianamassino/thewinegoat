@@ -12,10 +12,12 @@ What it does
 1. Every language version of each group in placement.json (wine guides: tools/site_i18n/slugs.json, core pages:
    tools/seo_core/slugs.json, spirits pages: tools/seo_sp/slugs.json): removes the previous <figure class="seophoto">
    and inserts 1-3 figures after the first paragraph that follows the n-th <h2> of the article: <picture> with the
-   600 px file on phones, srcset/sizes, width/height, loading=lazy, alt + figcaption in the page language, credit line
-   (author, licence link, source link, rel=noopener). Pages without an own hero image (no infographic / screenshot)
-   get one ImageObject JSON-LD (<script id="twg-photo-ld">) for their first photo, with creator, creditText, license
-   and acquireLicensePage.
+   600 px file on phones, srcset/sizes, width/height, loading=lazy, alt + figcaption (caption only) in the page language.
+   No visible credit line (owner's rule): the credit lives in structured data, one <script id="twg-photo-ld"> per page
+   with an ImageObject for every placed photo (contentUrl, creator, creditText, copyrightNotice, license = licence URL,
+   acquireLicensePage = the photo's entry on the photo-credits page of the language), and on the credits pages, which
+   list every placed photo with author, licence and source link (that page is the CC BY / BY-SA attribution) and are
+   linked from the footer of every page.
 2. Credits pages /photo-credits/ (+ it, fr, es) listing every photo used on the site or in the app, and the
    <!--photo-credits--> block of sitemap.xml.
 3. The data block of app/photos.js (photos, localized alt/caption, Level 3 country summaries and lesson rules).
@@ -101,12 +103,8 @@ def fs(url): return url.lstrip('/') + 'index.html'
 
 
 # ------------------------------------------------------------------ figures on the pages
-def credit_html(m, lang):
-    a = m.get('author') or 'Unknown'
-    who = f'<a href="{e(m["author_url"])}" rel="noopener"><bdi>{e(a)}</bdi></a>' if m.get('author_url') else f'<bdi>{e(a)}</bdi>'
-    lic = f'<a href="{e(m["licence_url"])}" rel="noopener license">{e(m["licence"])}</a>' if m.get('licence_url') else e(m.get('licence', ''))
-    src = f'<a href="{e(m["source"])}" rel="noopener">Wikimedia Commons</a>'
-    return f'{PHOTO[lang]}: {who} · {lic} · {src}'
+def credits_url(lang):
+    return SITE + CREDITS.get(lang, CREDITS['es'] if lang.startswith('es') else CREDITS['en'])
 
 
 def figure(stem, lang):
@@ -114,16 +112,23 @@ def figure(stem, lang):
     return (f'<figure class="seophoto" data-photo="{stem}"><picture><source media="(max-width: 640px)" srcset="{f}-sm.webp" width="{m["width_sm"]}" height="{m["height_sm"]}">'
             f'<img src="{f}.webp" alt="{e(loc(stem, lang, "alt"))}" width="{m["width"]}" height="{m["height"]}" loading="lazy" decoding="async" '
             f'srcset="{f}-sm.webp {m["width_sm"]}w, {f}.webp {m["width"]}w" sizes="{SIZES}"></picture>'
-            f'<figcaption><span class="ph-cap">{e(loc(stem, lang, "caption"))}</span> <small class="ph-cr">{credit_html(m, lang)}</small></figcaption></figure>')
+            f'<figcaption><span class="ph-cap">{e(loc(stem, lang, "caption"))}</span></figcaption></figure>')
 
 
-def image_ld(stem, lang, page_url):
-    m = META[stem]; u = f'{SITE}/img/photos/{stem}.webp'
-    ld = {'@context': 'https://schema.org', '@type': 'ImageObject', 'contentUrl': u, 'url': u, 'name': loc(stem, lang, 'title') if lang in ('en', 'it', 'fr', 'es', 'es-ar') or I18N.get(stem, {}).get(lang, {}).get('title') else loc(stem, lang, 'alt'),
-          'caption': loc(stem, lang, 'caption'), 'description': loc(stem, lang, 'alt'), 'width': m['width'], 'height': m['height'],
-          'encodingFormat': 'image/webp', 'inLanguage': HREF.get(lang, lang), 'thumbnailUrl': f'{SITE}/img/photos/{stem}-sm.webp',
-          'creator': {'@type': 'Person', 'name': m.get('author')}, 'creditText': f'{m.get("author")} / {m.get("licence")} / Wikimedia Commons',
-          'copyrightNotice': f'{m.get("author")}, {m.get("licence")}', 'license': m.get('licence_url'), 'acquireLicensePage': m.get('source')}
+def image_obj(stem, lang):
+    m = META[stem]; u = f'{SITE}/img/photos/{stem}.webp'; a = m.get('author') or 'Unknown'
+    return {'@type': 'ImageObject', 'contentUrl': u, 'url': u, 'name': loc(stem, lang, 'title') if lang in ('en', 'it', 'fr', 'es', 'es-ar') or I18N.get(stem, {}).get(lang, {}).get('title') else loc(stem, lang, 'alt'),
+            'caption': loc(stem, lang, 'caption'), 'description': loc(stem, lang, 'alt'), 'width': m['width'], 'height': m['height'],
+            'encodingFormat': 'image/webp', 'inLanguage': HREF.get(lang, lang), 'thumbnailUrl': f'{SITE}/img/photos/{stem}-sm.webp',
+            'creator': {'@type': 'Person', 'name': a}, 'creditText': f'{a} / {m.get("licence")} / Wikimedia Commons',
+            'copyrightNotice': f'{a}, {m.get("licence")}', 'license': m.get('licence_url') or m.get('source'), 'acquireLicensePage': f'{credits_url(lang)}#{stem}',
+            'isBasedOn': m.get('source')}
+
+
+def image_ld(stems, lang):
+    """one script per page: an ImageObject for every placed photo (credit, licence and credits page as structured data)"""
+    objs = [image_obj(s, lang) for s in stems]
+    ld = dict({'@context': 'https://schema.org'}, **objs[0]) if len(objs) == 1 else {'@context': 'https://schema.org', '@graph': objs}
     return '<script type="application/ld+json" id="twg-photo-ld">' + json.dumps(ld, ensure_ascii=False) + '</script>'
 
 
@@ -149,11 +154,11 @@ def place(path, lang, items, page_url):
             if end > 0: pos = end + 4
         ins.append((pos, figure(stem, lang)))
     for pos, f in sorted(ins, reverse=True): s = s[:pos] + f + s[pos:]
-    body = s[s.find('<body'):]
-    own_hero = re.search(r'<img\b[^>]*src="[^"]*img/(?:guides|shots)/', re.sub(r'<script\b.*?</script>', '', body, flags=re.S))
-    if ins and not own_hero:
-        first = min(ins)[1]; stem = re.search(r'data-photo="([^"]+)"', first).group(1)
-        s = s.replace('</head>', image_ld(stem, lang, page_url) + '</head>', 1)
+    if ins:
+        stems = [re.search(r'data-photo="([^"]+)"', f).group(1) for _, f in sorted(ins)]
+        own = '<script type="application/ld+json" id="twg-image-ld">'   # images.py keeps its hero ImageObject last in <head>
+        at = own if own in s else '</head>'
+        s = s.replace(at, image_ld(stems, lang) + at, 1)
     return wrote(path, s), warn
 
 

@@ -3330,64 +3330,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 201,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/chenin-blanc-grapes-vouvray-loire.webp",
-  "file_sm": "img/photos/chenin-blanc-grapes-vouvray-loire-sm.webp",
-  "original_file": "0201-grape-clusters-photography-rochecorbon-vignoble-02.webp",
-  "width": 1200,
-  "height": 900,
-  "width_sm": 600,
-  "height_sm": 450,
-  "format": "WEBP",
-  "alt": "Golden Chenin Blanc grape cluster with some shrivelled berries among vine leaves",
-  "title": "Chenin Blanc grapes, Vouvray",
-  "caption": "Chenin Blanc is the grape of Vouvray, made in styles from dry to sweet and sparkling.",
-  "description": "A cluster of Chenin Blanc grapes in a vineyard at Rochecorbon, Indre-et-Loire, within the AOC Vouvray in the Loire Valley, photographed in September. The berries range from green-gold to brownish, some shrivelling, showing the variability of ripening within a bunch.",
-  "keywords": {
-   "primary": "Chenin Blanc grapes",
-   "secondary": [
-    "Vouvray",
-    "Loire Valley wine",
-    "Chenin Blanc"
-   ],
-   "longtail": "Chenin Blanc grape cluster in the Vouvray appellation, Loire Valley",
-   "semantic": [
-    "ripening",
-    "sweet wine",
-    "sparkling Vouvray",
-    "Loire"
-   ]
-  },
-  "themes": [
-   "grapes"
-  ],
-  "topics": [
-   "chenin-blanc",
-   "loire",
-   "vouvray",
-   "france"
-  ],
-  "region": "Loire Valley",
-  "country": "France",
-  "language": "en",
-  "commons_title": "File:Rochecorbon - Vignoble - 02.jpg",
-  "commons_description": "Rochecorbon (Indre-et-Loire, France) - Cluster of chenin blanc grapes in the vineyard in September (AOC Vouvray)",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Rochecorbon_-_Vignoble_-_02.jpg",
-  "author": "Benjamin Smith",
-  "licence": "CC BY-SA 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Benjamin Smith, CC BY-SA 4.0 via Wikimedia Commons",
-  "credit": "Photo: Benjamin Smith, CC BY-SA 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 222,
   "provider": "wikimedia-commons",
   "curated": true,
