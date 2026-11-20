@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://tetvfgpdxwkmfdxxadxa.supabase.co wss://tetvfgpdxwkmfdxxadxa.supabase.co; base-uri 'none'; form-action 'self'; object-src 'none'">
+<meta name="theme-color" content="#6e1532">
+<title>Amministrazione · the wine goat</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="admin.css?v=1">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="wm">the wine goat</span><span class="sub">amministrazione</span></div>
+  <div class="who" id="who" hidden><span id="who-email"></span><button type="button" class="btn ghost sm" id="btn-out">Esci</button></div>
+</header>
+
+<main id="main">
+  <section id="v-boot" class="center"><p class="muted">Caricamento…</p></section>
+
+  <section id="v-login" class="center" hidden>
+    <form class="card login" id="f-login" novalidate>
+      <h1>Accedi</h1>
+      <p class="muted">Usa lo stesso account dell'app The Wine Goat.</p>
+      <label>Email<input type="email" id="l-email" autocomplete="email" required></label>
+      <label>Password<input type="password" id="l-pw" autocomplete="current-password"></label>
+      <button class="btn" type="submit">Accedi</button>
+      <button class="lnk" type="button" id="btn-magic">Mandami invece un link di accesso via email</button>
+      <p class="msg" id="l-msg" role="status"></p>
+    </form>
+  </section>
+
+  <section id="v-denied" class="center" hidden>
+    <div class="card"><h1>Non autorizzato</h1></div>
+  </section>
+
+  <section id="v-app" hidden>
+    <nav class="tabs" role="tablist">
+      <button type="button" role="tab" data-tab="users" aria-selected="true">Utenti</button>
+      <button type="button" role="tab" data-tab="audit" aria-selected="false">Registro azioni</button>
+    </nav>
+
+    <div id="t-users">
+      <div class="stats" id="stats"></div>
+      <div class="charts">
+        <div class="card chart"><h2>Iscrizioni al giorno <span class="muted">(ultimi 30 giorni)</span></h2><div id="ch-days"></div></div>
+        <div class="card chart"><h2>Accesso</h2><div id="ch-mix"></div></div>
+      </div>
+
+      <div class="toolbar card">
+        <input type="search" id="q" placeholder="Cerca nome, email, paese, scuola…" aria-label="Cerca">
+        <select id="f-access" aria-label="Accesso">
+          <option value="">Tutti gli accessi</option>
+          <option value="paid">Paganti (attivi)</option>
+          <option value="granted">Accesso concesso (attivo)</option>
+          <option value="full">Accesso completo (pagato o concesso)</option>
+          <option value="free">Gratuiti</option>
+          <option value="expired">Scaduti / revocati</option>
+          <option value="everpaid">Hanno pagato almeno una volta</option>
+        </select>
+        <select id="f-level" aria-label="Livello">
+          <option value="">Tutti i livelli</option>
+          <option value="1">Vino Livello 1</option>
+          <option value="2">Vino Livello 2</option>
+          <option value="3">Vino Livello 3</option>
+          <option value="s1">Spirits Livello 1</option>
+          <option value="s2">Spirits Livello 2</option>
+          <option value="s3">Spirits Livello 3</option>
+          <option value="-">Livello non ancora noto</option>
+        </select>
+        <select id="f-lang" aria-label="Lingua"><option value="">Tutte le lingue</option></select>
+        <select id="f-sort" aria-label="Ordina">
+          <option value="created_at:desc">Più recenti</option>
+          <option value="created_at:asc">Meno recenti</option>
+          <option value="last_activity:desc">Attività più recente</option>
+          <option value="answered:desc">Più domande fatte</option>
+          <option value="access_until:desc">Scadenza accesso</option>
+          <option value="name:asc">Nome A→Z</option>
+          <option value="email:asc">Email A→Z</option>
+        </select>
+        <div class="tb-actions">
+          <button type="button" class="btn ghost" id="btn-csv">Esporta CSV</button>
+          <button type="button" class="btn ghost" id="btn-reload">Aggiorna</button>
+        </div>
+      </div>
+      <p class="muted count" id="count"></p>
+
+      <div class="tablewrap">
+        <table class="users" id="tbl">
+          <thead><tr>
+            <th data-sort="name">Utente</th>
+            <th data-sort="created_at">Iscrizione</th>
+            <th data-sort="last_activity">Ultima attività</th>
+            <th data-sort="lang">Lingua</th>
+            <th data-sort="level">Livello</th>
+            <th data-sort="answered">Progressi</th>
+            <th data-sort="access_until">Accesso</th>
+            <th><span class="sr">Azioni</span></th>
+          </tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="t-audit" hidden>
+      <div class="card">
+        <h2>Registro delle azioni di amministrazione</h2>
+        <div class="tablewrap"><table class="audit"><thead><tr><th>Quando</th><th>Chi</th><th>Azione</th><th>Utente</th><th>Dettagli</th></tr></thead><tbody id="audit-rows"></tbody></table></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="overlay" id="dlg-user" hidden>
+  <div class="dialog wide" role="dialog" aria-modal="true" aria-labelledby="du-title">
+    <button type="button" class="x" data-close aria-label="Chiudi">✕</button>
+    <h2 id="du-title"></h2>
+    <div id="du-body"></div>
+  </div>
+</div>
+
+<div class="overlay" id="dlg-confirm" hidden>
+  <div class="dialog" role="alertdialog" aria-modal="true" aria-labelledby="dc-title" aria-describedby="dc-text">
+    <h2 id="dc-title"></h2>
+    <p id="dc-text"></p>
+    <label id="dc-typelab" hidden><span id="dc-typehint"></span><input type="text" id="dc-type" autocomplete="off" spellcheck="false"></label>
+    <div class="row-end">
+      <button type="button" class="btn ghost" id="dc-no">Annulla</button>
+      <button type="button" class="btn danger" id="dc-yes">Conferma</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="/app/vendor/supabase-2.119.0.js"></script>
+<script src="admin.js?v=1"></script>
+</body>
+</html>

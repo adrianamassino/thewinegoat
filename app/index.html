@@ -10330,7 +10330,7 @@ function prSave(){ try{ lsSet(PRK,JSON.stringify(PR)); }catch(e){} prSync(); }
 let prSyncT=null;
 function prSync(){ clearTimeout(prSyncT); prSyncT=setTimeout(async()=>{ try{ const A=window.twgAccount; if(!A||!A.signedIn()) return; const sb=A.client(), uid=A.uid(); if(!sb||!uid) return;
   const S=prStats();
-  await sb.from("user_docs").upsert({user_id:uid,doc_id:"profile",data:PR,updated_at:new Date().toISOString()},{onConflict:"user_id,doc_id"});
+  await sb.from("user_docs").upsert({user_id:uid,doc_id:"profile",data:Object.assign({},PR,{lvl:lsGet("twg-level")||"3"}),updated_at:new Date().toISOString()},{onConflict:"user_id,doc_id"});
   await sb.from("profiles").upsert({user_id:uid,nickname:prNick().slice(0,40),avatar:PR.av||"n05",nationality:PR.nat||null,country:PR.ctry||null,school:(PR.school||"").slice(0,80)||null,
     exam_date:prExamISO()||null,lang,xp_total:S.xp,xp_week:prWeekXP(),week:prISOWeek(),streak:S.st,crowns:S.cr,updated_at:new Date().toISOString()},{onConflict:"user_id"});
 }catch(e){} },1500); }
