@@ -391,7 +391,7 @@
     const _ro = renderOQ; renderOQ = function () { let h = _ro.apply(this, arguments); try { const o = OBY[oq]; if (!o) return h;
         const st = stOf(o.id), extra = `<div class="row d4oqm" style="gap:6px">${o.min ? `<span class="tag">⏱️ ${esc(fill(t("d4Min"), { m: o.min }))}</span>` : ""}${st !== "new" ? `<span class="tag ${st === "ok" ? "fixed" : "active"}">${esc(t(st === "ok" ? "d4StOk" : "d4StLow"))}</span>` : ""}</div>`
           + (o.g ? `<details class="model d4guide" open><summary>${esc(t("d4Guide"))}</summary><div class="mb">${md(tx(o.g))}</div></details>` : "");
-        const i = h.indexOf('<p class="qtext"'); if (i >= 0) { const j = h.indexOf("</p>", i); if (j > 0) h = h.slice(0, j + 4) + extra + h.slice(j + 4); }
+        const i = h.indexOf('<div class="opart'); if (i >= 0) h = h.slice(0, i) + extra + h.slice(i);
       } catch (e) {} return h; };
     /* the plan: lessons and written answers alongside the quizzes; only the current unit */
     const _plB = plBuild; plBuild = function () { const G = GROUPS; let r;

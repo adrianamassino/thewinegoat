@@ -50,11 +50,11 @@
    "ui_chunks": 1
   },
   "d2": {
-   "strings": 0,
-   "en_chars": 0,
+   "strings": 347,
+   "en_chars": 50999,
    "ui_strings": 0,
    "ui_en_chars": 0,
-   "chunks": 0,
+   "chunks": 3,
    "ui_chunks": 0
   }
  }
