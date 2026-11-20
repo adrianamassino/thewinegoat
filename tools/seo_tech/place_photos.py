@@ -164,11 +164,14 @@ def place(path, lang, items, page_url):
 
 def site():
     used, n, warn = {}, 0, []
-    for key, items in PL['site'].items():
+    # every page group, also those without (or no longer with) photos: a figure removed from placement.json leaves the pages
+    for key in [f'{pipe}:{g}' for pipe in SLUGS for g in SLUGS[pipe]]:
+        items = PL['site'].get(key, [])
         pipe, g = key.split(':', 1)
         for lang, url in SLUGS[pipe][g].items():
             p = fs(url)
             if not os.path.exists(p): continue
+            if not items and 'class="seophoto"' not in open(p, encoding='utf8').read(): continue
             c, w = place(p, lang, items, SITE + url); n += c; warn += w
             for stem, _ in items[:MAX_PER_PAGE]:
                 used.setdefault(stem, {}).setdefault(lang, []).append(url)
