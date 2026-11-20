@@ -1,5 +1,49 @@
 [
 {
+"en": "Target grade:",
+"it": "Voto obiettivo:"
+},
+{
+"en": "Pass: the recommended study time for the level, adjusted to your score.",
+"it": "Pass: il tempo di studio consigliato per il livello, adattato al tuo punteggio."
+},
+{
+"en": "Merit asks for detailed, reliable knowledge across the whole syllabus: plan more practice and regular review.",
+"it": "Il Merit richiede conoscenze dettagliate e sicure su tutto il programma: metti in conto più esercizio e ripassi regolari."
+},
+{
+"en": "Distinction requires precise, exam-ready recall: plan for daily practice questions, mock exams under exam conditions and active review of every chapter.",
+"it": "La Distinction richiede una memoria precisa e pronta per l'esame: prevedi domande di allenamento ogni giorno, esami simulati in condizioni d'esame e ripasso attivo di ogni capitolo."
+},
+{
+"en": "This level is graded pass or fail.",
+"it": "Questo livello si supera o non si supera, senza voti."
+},
+{
+"en": "Starting point: the recommended study time for the level ({r} h), adjusted to your score.",
+"it": "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), adattato al tuo punteggio."
+},
+{
+"en": "{g}: {c}/{n} correct. The correct answers and explanations are in “Review your answers” below.",
+"it": "{g}: {c}/{n} giuste. Risposte corrette e spiegazioni sono in «Rivedi le tue risposte», qui sotto."
+},
+{
+"en": "Review your answers",
+"it": "Rivedi le tue risposte"
+},
+{
+"en": "Your answer:",
+"it": "La tua risposta:"
+},
+{
+"en": "Correct answer:",
+"it": "Risposta corretta:"
+},
+{
+"en": "The questions could not be loaded right now.",
+"it": "Al momento non è stato possibile caricare le domande."
+},
+{
 "en": "Your quiz result",
 "it": "Il risultato del tuo quiz"
 },
@@ -84,10 +128,6 @@
 "it": "{g}: {c}/{n} giuste. Ripassa le lezioni, poi fai il quiz del capitolo."
 },
 {
-"en": "{g}: {c}/{n} correct. Read the explanations again and retake the quiz.",
-"it": "{g}: {c}/{n} giuste. Rileggi le spiegazioni e rifai il quiz."
-},
-{
 "en": "Start with the first lessons of {L}: short chapters, each with its own quiz.",
 "it": "Parti dalle prime lezioni di {L}: capitoli brevi, ognuno con il suo quiz."
 },
@@ -112,12 +152,12 @@
 "it": "Meglio poco ogni giorno: {d} h al giorno valgono più di una lunga sessione a settimana."
 },
 {
-"en": "Open {L}",
-"it": "Apri {L}"
+"en": "Take the full 50-question mock exam ({L})",
+"it": "Fai l'esame simulato completo da 50 domande ({L})"
 },
 {
-"en": "Back to the quiz",
-"it": "Torna al quiz"
+"en": "Open {L}",
+"it": "Apri {L}"
 },
 {
 "en": "Estimated preparation time",
@@ -126,14 +166,6 @@
 {
 "en": "To be ready for the {L} exam",
 "it": "Per arrivare pronti all'esame di {L}"
-},
-{
-"en": "To reach a solid intermediate level",
-"it": "Per raggiungere un solido livello intermedio"
-},
-{
-"en": "To reach an advanced level",
-"it": "Per raggiungere un livello avanzato"
 },
 {
 "en": "about 1 week",
@@ -260,7 +292,7 @@
 "it": "Servizio del sake"
 },
 {
-"en": "Take the full 50-question mock exam ({L})",
-"it": "Fai l'esame simulato completo da 50 domande ({L})"
+"en": "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.",
+"it": "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione."
 }
 ]

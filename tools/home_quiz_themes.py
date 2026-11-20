@@ -10,7 +10,7 @@ Also run by tools/site_i18n/build.py (sync step), so the Thai/Turkish homes rebu
 Usage from repo root:  python3 tools/home_quiz_themes.py [--quiet] [home.html ...]   (default: the 19 homes)"""
 import os, re, sys
 
-V = 5
+V = 6
 TAG = f'<script src="/assets/homequiz.js?v={V}" defer></script>'
 HOMES = ['index.html'] + [f'{l}/index.html' for l in
          'it fr es es-ar de nl pl pt pt-br ru el ja ko zh-hans zh-hant ar th tr'.split()]

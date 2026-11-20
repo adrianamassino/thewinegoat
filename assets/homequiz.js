@@ -2,8 +2,10 @@
    Added to every home by tools/home_quiz_themes.py. The hero "quick quiz" button opens a dialog:
    pick a theme → its 20 multiple-choice questions, always the same ones in the same order (a curated set spread over the
    topics of the theme, chosen in tools/homequiz/set.txt; mix = a fixed 8 wine, 5 spirits, 4 beer, 3 sake), with the
-   explanation after each answer and the progress n/20. Only the order of the answer options changes. The run is saved in localStorage (twg-hq-run): closing the dialog and coming back resumes it.
-   At the end the score is NOT shown: the result (theme, score, per-topic breakdown, time) is saved in localStorage
+   progress n/20. Only the order of the answer options changes. Nothing is revealed on the home: no right/wrong, no
+   correct option, no explanation, no score; each answer is only recorded (index of the chosen option). The run is saved
+   in localStorage (twg-hq-run2): closing the dialog and coming back resumes it.
+   At the end the result (theme, score, per-topic breakdown, answers, time) is saved in localStorage
    (twg-hq-result, same origin as /app) and the visitor is sent to the app sign-up; the app shows the result screen
    (app/hqresult.js). Questions: /assets/homequiz/<lang>.json, built by tools/homequiz/build.py, one file per home language.
    Without JavaScript the button keeps its normal link to the app. */
@@ -11,7 +13,7 @@
   'use strict';
   if (window.TWG_HQ) return; window.TWG_HQ = 3;
   var THEMES = [['wine', '🍷'], ['beer', '🍺'], ['spirits', '🥃'], ['sake', '🍶'], ['mix', '🎲']];
-  var N = 20 /* questions per theme, as announced in the texts; the questions themselves come from set.txt via the JSON */, KEY = 'twg-hq-theme', RUN = 'twg-hq-run', RES = 'twg-hq-result', QV = 3;
+  var N = 20 /* questions per theme, as announced in the texts; the questions themselves come from set.txt via the JSON */, KEY = 'twg-hq-theme', RUN = 'twg-hq-run2' /* answers = index of the chosen option (0 = the correct one) */, RES = 'twg-hq-result', QV = 3;
   var L = {
     en: ['Pick your quiz', '10 quick questions. Choose a theme:', 'Wine', 'Beer', 'Spirits', 'Sake', 'Mix', 'Grapes, regions, styles', 'Ales, lagers, hops', 'Whisky, gin, rum, agave', 'Rice, koji, styles', 'A bit of everything', 'Last time', 'Close', 'Change theme', 'Play again', 'See my score', 'Keep learning about wine in the app', 'Try the Spirits course', 'Open the app', 'The quiz could not load. Please try again.'],
     it: ['Scegli il tuo quiz', '10 domande veloci. Scegli un tema:', 'Vino', 'Birra', 'Distillati', 'Sake', 'Mix', 'Vitigni, regioni, stili', 'Ale, lager, luppolo', 'Whisky, gin, rum, agave', 'Riso, koji, stili', 'Un po’ di tutto', 'L’ultima volta', 'Chiudi', 'Cambia tema', 'Gioca ancora', 'Vedi il punteggio', 'Continua con il vino nell’app', 'Prova il corso Distillati', 'Apri l’app', 'Il quiz non si è caricato. Riprova.'],
@@ -33,30 +35,30 @@
     th: ['เลือกควิซของคุณ', '10 ข้อสั้นๆ เลือกหัวข้อ:', 'ไวน์', 'เบียร์', 'สุรา', 'สาเก', 'รวมมิตร', 'พันธุ์องุ่น แหล่งผลิต สไตล์', 'เอล ลาเกอร์ ฮอปส์', 'วิสกี้ จิน รัม อากาเว', 'ข้าว โคจิ สไตล์', 'มีทุกอย่างนิดหน่อย', 'ครั้งที่แล้ว', 'ปิด', 'เปลี่ยนหัวข้อ', 'เล่นอีกครั้ง', 'ดูคะแนน', 'เรียนเรื่องไวน์ต่อในแอป', 'ลองคอร์สสุรา', 'เปิดแอป', 'โหลดควิซไม่สำเร็จ กรุณาลองอีกครั้ง'],
     tr: ['Quizini seç', '10 kısa soru. Bir tema seç:', 'Şarap', 'Bira', 'Distile içkiler', 'Sake', 'Karışık', 'Üzümler, bölgeler, stiller', 'Ale, lager, şerbetçiotu', 'Viski, cin, rom, agav', 'Pirinç, koji, stiller', 'Her şeyden biraz', 'Geçen sefer', 'Kapat', 'Temayı değiştir', 'Tekrar oyna', 'Puanımı gör', 'Uygulamada şarapla devam et', 'Distile içkiler kursunu dene', 'Uygulamayı aç', 'Quiz yüklenemedi. Lütfen tekrar dene.']
   };
-  /* sub, fin, saved, g_t, g_p, g_b, g_l, g_n */
+  /* sub, fin, saved, g_t, g_p, g_b, g_l, g_n, ans */
   var L2 = {
-    en: ['{n} exam-style questions. Choose a theme:', 'Finish', 'Your progress is saved: you can close this and pick it up later.', 'All {n} questions done!', 'Create your free account to see your score and your personalised plan.', 'Create my free account', 'I already have an account', 'Your result is saved on this device and is waiting for you in the app.'],
-    it: ['{n} domande in stile esame. Scegli un tema:', 'Termina', 'I progressi sono salvati: puoi chiudere e riprendere più tardi.', '{n} domande completate!', 'Crea il tuo account gratuito per vedere il punteggio e il tuo piano personalizzato.', 'Crea il mio account gratuito', 'Ho già un account', 'Il risultato è salvato su questo dispositivo e ti aspetta nell’app.'],
-    fr: ['{n} questions façon examen. Choisissez un thème :', 'Terminer', 'Votre progression est enregistrée : vous pouvez fermer et reprendre plus tard.', 'Les {n} questions sont terminées !', 'Créez votre compte gratuit pour voir votre score et votre plan personnalisé.', 'Créer mon compte gratuit', 'J’ai déjà un compte', 'Votre résultat est enregistré sur cet appareil et vous attend dans l’appli.'],
-    es: ['{n} preguntas tipo examen. Elige un tema:', 'Terminar', 'Tu progreso se guarda: puedes cerrar y seguir más tarde.', '¡{n} preguntas completadas!', 'Crea tu cuenta gratuita para ver tu puntuación y tu plan personalizado.', 'Crear mi cuenta gratuita', 'Ya tengo una cuenta', 'Tu resultado está guardado en este dispositivo y te espera en la app.'],
-    'es-ar': ['{n} preguntas tipo examen. Elegí un tema:', 'Terminar', 'Tu progreso queda guardado: podés cerrar y seguir más tarde.', '¡{n} preguntas completadas!', 'Creá tu cuenta gratuita para ver tu puntaje y tu plan personalizado.', 'Crear mi cuenta gratuita', 'Ya tengo una cuenta', 'Tu resultado está guardado en este dispositivo y te espera en la app.'],
-    de: ['{n} Fragen im Prüfungsstil. Wähle ein Thema:', 'Abschließen', 'Dein Fortschritt wird gespeichert: Du kannst schließen und später weitermachen.', 'Alle {n} Fragen geschafft!', 'Erstelle dein kostenloses Konto, um dein Ergebnis und deinen persönlichen Plan zu sehen.', 'Kostenloses Konto erstellen', 'Ich habe schon ein Konto', 'Dein Ergebnis ist auf diesem Gerät gespeichert und wartet in der App auf dich.'],
-    nl: ['{n} vragen in examenstijl. Kies een thema:', 'Afronden', 'Je voortgang wordt bewaard: je kunt sluiten en later verdergaan.', 'Alle {n} vragen klaar!', 'Maak je gratis account aan om je score en je persoonlijke plan te zien.', 'Gratis account aanmaken', 'Ik heb al een account', 'Je resultaat is op dit apparaat bewaard en wacht op je in de app.'],
-    pl: ['{n} pytań w stylu egzaminu. Wybierz temat:', 'Zakończ', 'Postęp jest zapisany: możesz zamknąć i wrócić później.', 'Wszystkie pytania za Tobą!', 'Załóż bezpłatne konto, aby zobaczyć swój wynik i spersonalizowany plan.', 'Załóż bezpłatne konto', 'Mam już konto', 'Twój wynik jest zapisany na tym urządzeniu i czeka na Ciebie w aplikacji.'],
-    pt: ['{n} perguntas ao estilo de exame. Escolha um tema:', 'Terminar', 'O seu progresso fica guardado: pode fechar e retomar mais tarde.', '{n} perguntas concluídas!', 'Crie a sua conta gratuita para ver a sua pontuação e o seu plano personalizado.', 'Criar a minha conta gratuita', 'Já tenho conta', 'O seu resultado está guardado neste dispositivo e espera por si na app.'],
-    'pt-br': ['{n} perguntas no estilo de prova. Escolha um tema:', 'Concluir', 'Seu progresso fica salvo: você pode fechar e continuar depois.', '{n} perguntas concluídas!', 'Crie sua conta gratuita para ver sua pontuação e seu plano personalizado.', 'Criar minha conta gratuita', 'Já tenho uma conta', 'Seu resultado está salvo neste dispositivo e espera por você no app.'],
-    ru: ['{n} вопросов в формате экзамена. Выберите тему:', 'Завершить', 'Прогресс сохраняется: можно закрыть и продолжить позже.', 'Все {n} вопросов пройдены!', 'Создайте бесплатный аккаунт, чтобы увидеть результат и персональный план.', 'Создать бесплатный аккаунт', 'У меня уже есть аккаунт', 'Результат сохранён на этом устройстве и ждёт вас в приложении.'],
-    el: ['{n} ερωτήσεις σε στιλ εξέτασης. Διάλεξε θέμα:', 'Τέλος', 'Η πρόοδός σου αποθηκεύεται: μπορείς να κλείσεις και να συνεχίσεις αργότερα.', 'Ολοκλήρωσες και τις {n} ερωτήσεις!', 'Φτιάξε τον δωρεάν λογαριασμό σου για να δεις το σκορ και το προσωπικό σου πλάνο.', 'Δημιουργία δωρεάν λογαριασμού', 'Έχω ήδη λογαριασμό', 'Το αποτέλεσμά σου έχει αποθηκευτεί σε αυτή τη συσκευή και σε περιμένει στην εφαρμογή.'],
-    ja: ['試験形式の{n}問。テーマを選んでください：', '終了する', '進み具合は保存されます。閉じても、あとで続きから再開できます。', '{n}問すべて終了！', '無料アカウントを作成すると、スコアとあなた専用の学習プランが見られます。', '無料アカウントを作成', 'アカウントをお持ちの方', '結果はこの端末に保存され、アプリで確認できます。'],
-    ko: ['시험 형식의 {n}문제. 테마를 고르세요:', '마치기', '진행 상황이 저장돼요. 닫았다가 나중에 이어서 할 수 있어요.', '{n}문제를 모두 풀었어요!', '무료 계정을 만들면 점수와 맞춤 학습 플랜을 볼 수 있어요.', '무료 계정 만들기', '이미 계정이 있어요', '결과는 이 기기에 저장되어 앱에서 기다리고 있어요.'],
-    'zh-hans': ['{n} 道考试风格的题目。选择一个主题：', '完成', '进度会自动保存：可以先关闭，稍后继续。', '{n} 道题全部完成！', '创建免费账号，查看你的得分和个性化学习计划。', '创建免费账号', '我已有账号', '结果已保存在此设备上，在应用中等你查看。'],
-    'zh-hant': ['{n} 道考試風格的題目。選擇一個主題：', '完成', '進度會自動儲存：可以先關閉，稍後再繼續。', '{n} 道題全部完成！', '建立免費帳號，查看你的分數和個人化學習計畫。', '建立免費帳號', '我已有帳號', '結果已儲存在此裝置上，在應用程式中等你查看。'],
-    ar: ['{n} سؤالًا على نمط الامتحان. اختر موضوعًا:', 'إنهاء', 'يُحفظ تقدّمك: يمكنك الإغلاق والمتابعة لاحقًا.', 'أكملت جميع الأسئلة!', 'أنشئ حسابك المجاني لترى نتيجتك وخطتك الشخصية.', 'إنشاء حسابي المجاني', 'لديّ حساب بالفعل', 'نتيجتك محفوظة على هذا الجهاز وبانتظارك في التطبيق.'],
-    th: ['{n} ข้อสไตล์ข้อสอบ เลือกหัวข้อ:', 'เสร็จสิ้น', 'ระบบบันทึกความคืบหน้าไว้ให้ ปิดแล้วกลับมาทำต่อภายหลังได้', 'ทำครบ {n} ข้อแล้ว!', 'สร้างบัญชีฟรีเพื่อดูคะแนนและแผนการเรียนเฉพาะคุณ', 'สร้างบัญชีฟรี', 'มีบัญชีอยู่แล้ว', 'ผลลัพธ์ถูกบันทึกไว้ในอุปกรณ์นี้และรอคุณอยู่ในแอป'],
-    tr: ['Sınav tarzında {n} soru. Bir tema seç:', 'Bitir', 'İlerlemen kaydedilir: kapatıp daha sonra devam edebilirsin.', '{n} sorunun hepsi tamam!', 'Puanını ve kişisel planını görmek için ücretsiz hesabını oluştur.', 'Ücretsiz hesabımı oluştur', 'Zaten hesabım var', 'Sonucun bu cihazda kayıtlı ve uygulamada seni bekliyor.']
+    en: ['{n} exam-style questions. Choose a theme:', 'Finish', 'Your progress is saved: you can close this and pick it up later.', 'All {n} questions done!', 'Create your free account to see your score and your personalised plan.', 'Create my free account', 'I already have an account', 'Your result is saved on this device and is waiting for you in the app.', 'Answer saved.'],
+    it: ['{n} domande in stile esame. Scegli un tema:', 'Termina', 'I progressi sono salvati: puoi chiudere e riprendere più tardi.', '{n} domande completate!', 'Crea il tuo account gratuito per vedere il punteggio e il tuo piano personalizzato.', 'Crea il mio account gratuito', 'Ho già un account', 'Il risultato è salvato su questo dispositivo e ti aspetta nell’app.', 'Risposta salvata.'],
+    fr: ['{n} questions façon examen. Choisissez un thème :', 'Terminer', 'Votre progression est enregistrée : vous pouvez fermer et reprendre plus tard.', 'Les {n} questions sont terminées !', 'Créez votre compte gratuit pour voir votre score et votre plan personnalisé.', 'Créer mon compte gratuit', 'J’ai déjà un compte', 'Votre résultat est enregistré sur cet appareil et vous attend dans l’appli.', 'Réponse enregistrée.'],
+    es: ['{n} preguntas tipo examen. Elige un tema:', 'Terminar', 'Tu progreso se guarda: puedes cerrar y seguir más tarde.', '¡{n} preguntas completadas!', 'Crea tu cuenta gratuita para ver tu puntuación y tu plan personalizado.', 'Crear mi cuenta gratuita', 'Ya tengo una cuenta', 'Tu resultado está guardado en este dispositivo y te espera en la app.', 'Respuesta guardada.'],
+    'es-ar': ['{n} preguntas tipo examen. Elegí un tema:', 'Terminar', 'Tu progreso queda guardado: podés cerrar y seguir más tarde.', '¡{n} preguntas completadas!', 'Creá tu cuenta gratuita para ver tu puntaje y tu plan personalizado.', 'Crear mi cuenta gratuita', 'Ya tengo una cuenta', 'Tu resultado está guardado en este dispositivo y te espera en la app.', 'Respuesta guardada.'],
+    de: ['{n} Fragen im Prüfungsstil. Wähle ein Thema:', 'Abschließen', 'Dein Fortschritt wird gespeichert: Du kannst schließen und später weitermachen.', 'Alle {n} Fragen geschafft!', 'Erstelle dein kostenloses Konto, um dein Ergebnis und deinen persönlichen Plan zu sehen.', 'Kostenloses Konto erstellen', 'Ich habe schon ein Konto', 'Dein Ergebnis ist auf diesem Gerät gespeichert und wartet in der App auf dich.', 'Antwort gespeichert.'],
+    nl: ['{n} vragen in examenstijl. Kies een thema:', 'Afronden', 'Je voortgang wordt bewaard: je kunt sluiten en later verdergaan.', 'Alle {n} vragen klaar!', 'Maak je gratis account aan om je score en je persoonlijke plan te zien.', 'Gratis account aanmaken', 'Ik heb al een account', 'Je resultaat is op dit apparaat bewaard en wacht op je in de app.', 'Antwoord opgeslagen.'],
+    pl: ['{n} pytań w stylu egzaminu. Wybierz temat:', 'Zakończ', 'Postęp jest zapisany: możesz zamknąć i wrócić później.', 'Wszystkie pytania za Tobą!', 'Załóż bezpłatne konto, aby zobaczyć swój wynik i spersonalizowany plan.', 'Załóż bezpłatne konto', 'Mam już konto', 'Twój wynik jest zapisany na tym urządzeniu i czeka na Ciebie w aplikacji.', 'Odpowiedź zapisana.'],
+    pt: ['{n} perguntas ao estilo de exame. Escolha um tema:', 'Terminar', 'O seu progresso fica guardado: pode fechar e retomar mais tarde.', '{n} perguntas concluídas!', 'Crie a sua conta gratuita para ver a sua pontuação e o seu plano personalizado.', 'Criar a minha conta gratuita', 'Já tenho conta', 'O seu resultado está guardado neste dispositivo e espera por si na app.', 'Resposta guardada.'],
+    'pt-br': ['{n} perguntas no estilo de prova. Escolha um tema:', 'Concluir', 'Seu progresso fica salvo: você pode fechar e continuar depois.', '{n} perguntas concluídas!', 'Crie sua conta gratuita para ver sua pontuação e seu plano personalizado.', 'Criar minha conta gratuita', 'Já tenho uma conta', 'Seu resultado está salvo neste dispositivo e espera por você no app.', 'Resposta salva.'],
+    ru: ['{n} вопросов в формате экзамена. Выберите тему:', 'Завершить', 'Прогресс сохраняется: можно закрыть и продолжить позже.', 'Все {n} вопросов пройдены!', 'Создайте бесплатный аккаунт, чтобы увидеть результат и персональный план.', 'Создать бесплатный аккаунт', 'У меня уже есть аккаунт', 'Результат сохранён на этом устройстве и ждёт вас в приложении.', 'Ответ сохранён.'],
+    el: ['{n} ερωτήσεις σε στιλ εξέτασης. Διάλεξε θέμα:', 'Τέλος', 'Η πρόοδός σου αποθηκεύεται: μπορείς να κλείσεις και να συνεχίσεις αργότερα.', 'Ολοκλήρωσες και τις {n} ερωτήσεις!', 'Φτιάξε τον δωρεάν λογαριασμό σου για να δεις το σκορ και το προσωπικό σου πλάνο.', 'Δημιουργία δωρεάν λογαριασμού', 'Έχω ήδη λογαριασμό', 'Το αποτέλεσμά σου έχει αποθηκευτεί σε αυτή τη συσκευή και σε περιμένει στην εφαρμογή.', 'Η απάντηση αποθηκεύτηκε.'],
+    ja: ['試験形式の{n}問。テーマを選んでください：', '終了する', '進み具合は保存されます。閉じても、あとで続きから再開できます。', '{n}問すべて終了！', '無料アカウントを作成すると、スコアとあなた専用の学習プランが見られます。', '無料アカウントを作成', 'アカウントをお持ちの方', '結果はこの端末に保存され、アプリで確認できます。', '回答を保存しました。'],
+    ko: ['시험 형식의 {n}문제. 테마를 고르세요:', '마치기', '진행 상황이 저장돼요. 닫았다가 나중에 이어서 할 수 있어요.', '{n}문제를 모두 풀었어요!', '무료 계정을 만들면 점수와 맞춤 학습 플랜을 볼 수 있어요.', '무료 계정 만들기', '이미 계정이 있어요', '결과는 이 기기에 저장되어 앱에서 기다리고 있어요.', '답을 저장했어요.'],
+    'zh-hans': ['{n} 道考试风格的题目。选择一个主题：', '完成', '进度会自动保存：可以先关闭，稍后继续。', '{n} 道题全部完成！', '创建免费账号，查看你的得分和个性化学习计划。', '创建免费账号', '我已有账号', '结果已保存在此设备上，在应用中等你查看。', '答案已保存。'],
+    'zh-hant': ['{n} 道考試風格的題目。選擇一個主題：', '完成', '進度會自動儲存：可以先關閉，稍後再繼續。', '{n} 道題全部完成！', '建立免費帳號，查看你的分數和個人化學習計畫。', '建立免費帳號', '我已有帳號', '結果已儲存在此裝置上，在應用程式中等你查看。', '答案已儲存。'],
+    ar: ['{n} سؤالًا على نمط الامتحان. اختر موضوعًا:', 'إنهاء', 'يُحفظ تقدّمك: يمكنك الإغلاق والمتابعة لاحقًا.', 'أكملت جميع الأسئلة!', 'أنشئ حسابك المجاني لترى نتيجتك وخطتك الشخصية.', 'إنشاء حسابي المجاني', 'لديّ حساب بالفعل', 'نتيجتك محفوظة على هذا الجهاز وبانتظارك في التطبيق.', 'تم حفظ إجابتك.'],
+    th: ['{n} ข้อสไตล์ข้อสอบ เลือกหัวข้อ:', 'เสร็จสิ้น', 'ระบบบันทึกความคืบหน้าไว้ให้ ปิดแล้วกลับมาทำต่อภายหลังได้', 'ทำครบ {n} ข้อแล้ว!', 'สร้างบัญชีฟรีเพื่อดูคะแนนและแผนการเรียนเฉพาะคุณ', 'สร้างบัญชีฟรี', 'มีบัญชีอยู่แล้ว', 'ผลลัพธ์ถูกบันทึกไว้ในอุปกรณ์นี้และรอคุณอยู่ในแอป', 'บันทึกคำตอบแล้ว'],
+    tr: ['Sınav tarzında {n} soru. Bir tema seç:', 'Bitir', 'İlerlemen kaydedilir: kapatıp daha sonra devam edebilirsin.', '{n} sorunun hepsi tamam!', 'Puanını ve kişisel planını görmek için ücretsiz hesabını oluştur.', 'Ücretsiz hesabımı oluştur', 'Zaten hesabım var', 'Sonucun bu cihazda kayıtlı ve uygulamada seni bekliyor.', 'Cevabın kaydedildi.']
   };
   var K = ['title', 'sub0', 'wine', 'beer', 'spirits', 'sake', 'mix', 'd_wine', 'd_beer', 'd_spirits', 'd_sake', 'd_mix', 'last', 'close', 'change', 'again', 'res', 'cta_wine', 'cta_sp', 'cta_app', 'err'];
-  var K2 = ['sub', 'fin', 'saved', 'g_t', 'g_p', 'g_b', 'g_l', 'g_n'];
+  var K2 = ['sub', 'fin', 'saved', 'g_t', 'g_p', 'g_b', 'g_l', 'g_n', 'ans'];
   var hl = (document.documentElement.getAttribute('lang') || 'en').toLowerCase();
   var LANG = ({ 'pt-pt': 'pt', 'es-419': 'es-ar', 'zh-cn': 'zh-hans', 'zh-tw': 'zh-hant' })[hl] || hl;
   if (!L[LANG]) LANG = L[LANG.split('-')[0]] ? LANG.split('-')[0] : 'en';
@@ -64,7 +66,7 @@
   var SRC = (document.currentScript && document.currentScript.src) || '/assets/homequiz.js';
   var D = {}; try { D = JSON.parse(document.getElementById('home-data').textContent) || {}; } catch (e) {}
   var TX = D.tx || {}, APP = D.app || '/app/';
-  var TXE = { m_ok: 'Correct!', m_ko: 'Not quite.', m_next: 'Next question' };
+  var TXE = { m_next: 'Next question' };
   function tx(k) { return TX[k] || TXE[k]; }
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
   function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
@@ -118,8 +120,8 @@
     '.hqz-q{font:600 21px/1.35 Fraunces,Georgia,serif;margin:0 0 14px;color:#2b1a20;overflow-wrap:anywhere}' +
     '.hqz-o{display:block;width:100%;margin:0 0 10px;padding:14px 16px;border-radius:16px;border:2px solid #efe3d8;background:#fffdfb;color:#2b1a20;font:inherit;font-size:16px;text-align:start;cursor:pointer;transition:border-color .15s;overflow-wrap:anywhere}' +
     '.hqz-o:hover:not(:disabled){border-color:#8c1d40}.hqz-o:disabled{cursor:default}' +
-    '.hqz-o.ok{border-color:#2e7d32;background:#eef7ee}.hqz-o.ko{border-color:#c62828;background:#fdecec}' +
-    '.hqz-o.ok::after{content:" ✓";color:#2e7d32;font-weight:700}.hqz-o.ko::after{content:" ✗";color:#c62828;font-weight:700}' +
+    '.hqz-o.sel{border-color:#6e1532;background:#fbe9ee;font-weight:700}.hqz-o:disabled:not(.sel){opacity:.6}' +
+    '.hqz-sv{margin:6px 0 14px;font-weight:700;color:#6e1532}' +
     '.hqz-fb{padding:14px 16px;border-radius:16px;background:#fff;box-shadow:inset 0 0 0 2px #efe3d8;margin:6px 0 14px;line-height:1.45;overflow-wrap:anywhere}' +
     '.hqz-fb b{color:#6e1532}' +
     '.hqz-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}' +
@@ -222,12 +224,13 @@
     focusFirst('.hqz-q');
   }
   function answer(b) {
-    var ok = b.getAttribute('data-o') === '0', q = qs[i], QL = q.x ? ' lang="en" dir="auto"' : '';
-    ans[i] = ok ? 1 : 0; saveRun();
-    [].forEach.call(body.querySelectorAll('.hqz-o'), function (x) { x.disabled = true; if (x.getAttribute('data-o') === '0') x.classList.add('ok'); });
-    if (!ok) b.classList.add('ko');
+    /* no result on the home: the answer is only recorded (right/wrong, the correct option and the explanation are shown
+       in the app after sign-up, in the "review your answers" part of the result screen) */
+    ans[i] = +b.getAttribute('data-o'); saveRun();
+    [].forEach.call(body.querySelectorAll('.hqz-o'), function (x) { x.disabled = true; });
+    b.classList.add('sel'); b.setAttribute('aria-pressed', 'true');
     var lastQ = i + 1 >= qs.length;
-    body.querySelector('.hqz-live').innerHTML = '<div class="hqz-fb"><b>' + esc(ok ? tx('m_ok') : tx('m_ko')) + '</b> <span' + QL + '>' + esc(q.e) + '</span></div>' +
+    body.querySelector('.hqz-live').innerHTML = '<p class="hqz-sv">✓ ' + esc(U.ans) + '</p>' +
       '<button type="button" class="b3 b3p sm" data-hqz-next>' + esc(lastQ ? U.fin : tx('m_next')) + ' →</button>';
     var nx = body.querySelector('[data-hqz-next]'); try { nx.focus({ preventScroll: true }); } catch (e) { nx.focus(); }
     try { nx.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (e) {}
@@ -235,8 +238,9 @@
   /* the questions are done: save the result for the app and ask for the free account (the score is shown there) */
   function finish() {
     var topics = {}, good = 0;
-    qs.forEach(function (q, k) { var t = topics[q.t] || (topics[q.t] = [0, 0]); t[1]++; if (ans[k]) { t[0]++; good++; } });
-    var res = { v: 1, theme: theme, score: good, total: qs.length, topics: topics, ts: Date.now(), lang: LANG, home: location.pathname, seen: 0 };
+    qs.forEach(function (q, k) { var t = topics[q.t] || (topics[q.t] = [0, 0]); t[1]++; if (ans[k] === 0) { t[0]++; good++; } });
+    /* a: the chosen option of each question (0 = correct), for the review in the app */
+    var res = { v: 1, theme: theme, score: good, total: qs.length, topics: topics, a: qs.map(function (q, k) { return [q.id, ans[k]]; }), ts: Date.now(), lang: LANG, home: location.pathname, seen: 0 };
     lsSet(RES, JSON.stringify(res)); dropRun(theme); gate(res);
   }
   function gate(res) {

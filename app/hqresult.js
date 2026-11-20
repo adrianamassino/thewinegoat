@@ -1,30 +1,31 @@
-/* The Wine Goat — result of the home quiz (a fixed set of 20 questions per theme) (assets/homequiz.js), shown in the app once the visitor has an account.
-   The home page saves the result in localStorage "twg-hq-result" (same origin): {v,theme,score,total,topics:{topic:[right,asked]},ts,lang,home,seen}
-   and sends the visitor here with #go=signup. After sign-up / sign-in this file shows: score (x/20) and %, a level reading,
-   3–5 recommendations from the weakest topics (links to the matching level of the app), and an estimated preparation time
-   (1 / 2 / 3 hours a day), and for wine and spirits a button to the app's existing 50-question mock exam
-   (Level 2 / Spirits 2: same mock as the study hub, nothing new). The result is also saved in the account (table user_docs, doc_id "homequiz/last": the same
-   per-user document store as the progress, no schema change); if that fails it simply stays on the device.
-   #go=hqresult shows the last result again. Texts: it / fr / en / es / es-ar here; the map-based languages translate the
-   English text through TWG_I18N (tools/i18n, scope core). */
+/* The Wine Goat — result of the home quiz (assets/homequiz.js: a fixed set of 20 questions per theme), shown in the app
+   once the visitor has an account. The home saves the result in localStorage "twg-hq-result" (same origin):
+   {v,theme,score,total,topics:{topic:[right,asked]},a:[[question id, chosen option (0 = correct)]…],ts,lang,home,seen}
+   and sends the visitor here with #go=signup. After sign-up / sign-in this file shows: score (x/20) and %, a level
+   reading, 3–5 recommendations from the weakest topics (links to the matching level of the app), a review of every
+   answer (correct option + explanation: shown only here, never on the home) and, for wine and spirits only, an estimated
+   preparation time for a target grade (Pass / Merit / Distinction) at 1 / 2 / 3 hours a day, plus a button to the app's
+   existing 50-question mock exam (Level 2 / Spirits 2). The result is also saved in the account (table user_docs,
+   doc_id "homequiz/last", the same per-user document store as the progress, no schema change); if that fails it simply
+   stays on the device. #go=hqresult shows the last result again. Texts: it / fr / en / es / es-ar here; the map-based
+   languages translate the English text through TWG_I18N (tools/i18n, scope core/093). */
 (function () {
   "use strict";
   const KEY = "twg-hq-result", DOC = "homequiz/last";
   const D = {
-    it: { kick: "Il risultato del tuo quiz", thWine: "Vino", thBeer: "Birra", thSpirits: "Distillati", thSake: "Sake", thMix: "Mix",
+    it: { rcRv: "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione.", grK: "Voto obiettivo:", grNP: "Pass: il tempo di studio consigliato per il livello, adattato al tuo punteggio.", grNM: "Il Merit richiede conoscenze dettagliate e sicure su tutto il programma: metti in conto più esercizio e ripassi regolari.", grND: "La Distinction richiede una memoria precisa e pronta per l'esame: prevedi domande di allenamento ogni giorno, esami simulati in condizioni d'esame e ripasso attivo di ogni capitolo.", grL1: "Questo livello si supera o non si supera, senza voti.", tmB: "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), adattato al tuo punteggio.", rcQ2: "{g}: {c}/{n} giuste. Risposte corrette e spiegazioni sono in «Rivedi le tue risposte», qui sotto.", rvK: "Rivedi le tue risposte", rvYou: "La tua risposta:", rvOk: "Risposta corretta:", rvErr: "Al momento non è stato possibile caricare le domande.", kick: "Il risultato del tuo quiz", thWine: "Vino", thBeer: "Birra", thSpirits: "Distillati", thSake: "Sake", thMix: "Mix",
       sc: "{n} risposte giuste su {t}", lvK: "Il tuo livello", lvW: "Vino Livello {n}", lvS: "Distillati Livello {n}",
       rA: "Sei all'inizio: comincia da {L1}, le basi.", rB: "Hai buone basi: puoi iniziare {L2}.",
       rC: "Sei vicino al livello d'esame: rinforza i tuoi punti deboli in {L2}.", rD: "Ottimo: sembri pronto per l'esame di {L2} e puoi iniziare {L3}.",
       gA: "Sei all'inizio: è il momento giusto per imparare le basi.", gB: "Hai buone basi e conosci l'essenziale.",
       gC: "Conoscenze solide: restano pochi argomenti da rifinire.", gD: "Ottimo: conosci davvero bene l'argomento.",
       tpK: "Il tuo punteggio per argomento", rcK: "Cosa fare adesso",
-      rcT: "{g}: {c}/{n} giuste. Ripassa le lezioni, poi fai il quiz del capitolo.", rcQ: "{g}: {c}/{n} giuste. Rileggi le spiegazioni e rifai il quiz.",
-      rcStart: "Parti dalle prime lezioni di {L}: capitoli brevi, ognuno con il suo quiz.", rcMock: "Quando i punti deboli superano il 70%, fai un esame simulato in {L}.",
+      rcT: "{g}: {c}/{n} giuste. Ripassa le lezioni, poi fai il quiz del capitolo.", rcStart: "Parti dalle prime lezioni di {L}: capitoli brevi, ognuno con il suo quiz.", rcMock: "Quando i punti deboli superano il 70%, fai un esame simulato in {L}.",
       rcNext: "Puoi andare oltre: inizia {L}.", rcCourse: "I corsi dell'app riguardano vino e distillati: un buon passo successivo è {L}.",
       rcAll: "Nessun punto debole: complimenti! Tieni fresca la memoria con un quiz misto ogni pochi giorni.",
       rcDaily: "Meglio poco ogni giorno: {d} h al giorno valgono più di una lunga sessione a settimana.",
-      mock: "Fai l'esame simulato completo da 50 domande ({L})", open: "Apri {L}", back: "Torna al quiz", tmK: "Tempo di preparazione stimato", tmL: "Per arrivare pronti all'esame di {L}",
-      tgL: "Per raggiungere un solido livello intermedio", taL: "Per raggiungere un livello avanzato", w1: "circa 1 settimana", wN: "circa {w} settimane",
+      mock: "Fai l'esame simulato completo da 50 domande ({L})", open: "Apri {L}", tmK: "Tempo di preparazione stimato", tmL: "Per arrivare pronti all'esame di {L}",
+      w1: "circa 1 settimana", wN: "circa {w} settimane",
       tmH: "≈ {h} ore di studio in totale, con {d} h al giorno, 6 giorni a settimana.", tmN: "È una stima, non una promessa: dipende dal tuo ritmo e dal tuo corso.",
       pace: "Tempo di studio al giorno:", paceB: "{d} h", cta: "Continua nell'app", svA: "Salvato nel tuo account.", svL: "Salvato su questo dispositivo.",
       gate: "Crea il tuo account gratuito per vedere il punteggio e il tuo piano personalizzato.", close: "Chiudi",
@@ -33,20 +34,19 @@
       s_brandy: "Cognac e distillati di frutta", s_cane: "Rum e Tequila", s_white: "Vodka, gin e liquori", s_cocktails: "Cocktail",
       b_ingredients: "Ingredienti della birra", b_brewing: "Produzione della birra", b_styles: "Stili di birra", b_service: "Servizio e degustazione della birra",
       k_ingredients: "Riso, koji e acqua", k_brewing: "Produzione del sake", k_styles: "Stili e categorie di sake", k_service: "Servizio del sake" },
-    fr: { kick: "Le résultat de votre quiz", thWine: "Vin", thBeer: "Bière", thSpirits: "Spiritueux", thSake: "Saké", thMix: "Mix",
+    fr: { rcRv: "Lisez toutes les explications dans « Revoir vos réponses », ci-dessous, même pour les bonnes réponses : chacune est une petite leçon.", grK: "Mention visée :", grNP: "Pass : le temps d'étude recommandé pour le niveau, ajusté à votre score.", grNM: "Le Merit demande des connaissances détaillées et sûres sur tout le programme : prévoyez plus d'entraînement et des révisions régulières.", grND: "La Distinction exige une mémorisation précise, prête pour l'examen : prévoyez des questions d'entraînement chaque jour, des examens blancs en conditions réelles et une révision active de chaque chapitre.", grL1: "Ce niveau se réussit ou non, sans mention.", tmB: "Point de départ : le temps d'étude recommandé pour le niveau ({r} h), ajusté à votre score.", rcQ2: "{g} : {c}/{n} bonnes réponses. Les bonnes réponses et les explications sont dans « Revoir vos réponses », ci-dessous.", rvK: "Revoir vos réponses", rvYou: "Votre réponse :", rvOk: "Bonne réponse :", rvErr: "Les questions n'ont pas pu être chargées pour le moment.", kick: "Le résultat de votre quiz", thWine: "Vin", thBeer: "Bière", thSpirits: "Spiritueux", thSake: "Saké", thMix: "Mix",
       sc: "{n} bonnes réponses sur {t}", lvK: "Votre niveau", lvW: "Vin Niveau {n}", lvS: "Spiritueux Niveau {n}",
       rA: "Vous débutez : commencez par {L1}, les bases.", rB: "Vous avez de bonnes bases : vous pouvez commencer {L2}.",
       rC: "Vous êtes proche du niveau de l'examen : renforcez vos points faibles dans {L2}.", rD: "Excellent : vous semblez au niveau de l'examen de {L2} et pouvez commencer {L3}.",
       gA: "Vous débutez : c'est le bon moment pour apprendre les bases.", gB: "Vous avez de bonnes bases et connaissez l'essentiel.",
       gC: "Des connaissances solides : il reste quelques sujets à peaufiner.", gD: "Excellent : vous connaissez vraiment bien le sujet.",
       tpK: "Votre score par thème", rcK: "Que faire maintenant",
-      rcT: "{g} : {c}/{n} bonnes réponses. Revoyez les leçons, puis faites le quiz du chapitre.", rcQ: "{g} : {c}/{n} bonnes réponses. Relisez les explications et refaites le quiz.",
-      rcStart: "Commencez par les premières leçons de {L} : des chapitres courts, chacun avec son quiz.", rcMock: "Quand vos points faibles dépassent 70 %, faites un examen blanc dans {L}.",
+      rcT: "{g} : {c}/{n} bonnes réponses. Revoyez les leçons, puis faites le quiz du chapitre.", rcStart: "Commencez par les premières leçons de {L} : des chapitres courts, chacun avec son quiz.", rcMock: "Quand vos points faibles dépassent 70 %, faites un examen blanc dans {L}.",
       rcNext: "Vous pouvez aller plus loin : commencez {L}.", rcCourse: "Les cours de l'appli portent sur le vin et les spiritueux : une bonne suite est {L}.",
       rcAll: "Aucun point faible : bravo ! Entretenez vos connaissances avec un quiz mixte tous les quelques jours.",
       rcDaily: "Mieux vaut un peu chaque jour : {d} h par jour valent mieux qu'une longue séance par semaine.",
-      mock: "Passer l'examen blanc complet de 50 questions ({L})", open: "Ouvrir {L}", back: "Retour au quiz", tmK: "Temps de préparation estimé", tmL: "Pour arriver au niveau de l'examen de {L}",
-      tgL: "Pour atteindre un solide niveau intermédiaire", taL: "Pour atteindre un niveau avancé", w1: "environ 1 semaine", wN: "environ {w} semaines",
+      mock: "Passer l'examen blanc complet de 50 questions ({L})", open: "Ouvrir {L}", tmK: "Temps de préparation estimé", tmL: "Pour arriver au niveau de l'examen de {L}",
+      w1: "environ 1 semaine", wN: "environ {w} semaines",
       tmH: "≈ {h} heures d'étude au total, à raison de {d} h par jour, 6 jours par semaine.", tmN: "C'est une estimation, pas une promesse : elle dépend de votre rythme et de votre cours.",
       pace: "Temps d'étude par jour :", paceB: "{d} h", cta: "Continuer dans l'appli", svA: "Enregistré dans votre compte.", svL: "Enregistré sur cet appareil.",
       gate: "Créez votre compte gratuit pour voir votre score et votre plan personnalisé.", close: "Fermer",
@@ -55,20 +55,19 @@
       s_brandy: "Cognac et eaux-de-vie de fruits", s_cane: "Rhum et Tequila", s_white: "Vodka, gin et liqueurs", s_cocktails: "Cocktails",
       b_ingredients: "Ingrédients de la bière", b_brewing: "Brassage", b_styles: "Styles de bière", b_service: "Service et dégustation de la bière",
       k_ingredients: "Riz, koji et eau", k_brewing: "Élaboration du saké", k_styles: "Styles et catégories de saké", k_service: "Service du saké" },
-    en: { kick: "Your quiz result", thWine: "Wine", thBeer: "Beer", thSpirits: "Spirits", thSake: "Sake", thMix: "Mix",
+    en: { rcRv: "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.", grK: "Target grade:", grNP: "Pass: the recommended study time for the level, adjusted to your score.", grNM: "Merit asks for detailed, reliable knowledge across the whole syllabus: plan more practice and regular review.", grND: "Distinction requires precise, exam-ready recall: plan for daily practice questions, mock exams under exam conditions and active review of every chapter.", grL1: "This level is graded pass or fail.", tmB: "Starting point: the recommended study time for the level ({r} h), adjusted to your score.", rcQ2: "{g}: {c}/{n} correct. The correct answers and explanations are in “Review your answers” below.", rvK: "Review your answers", rvYou: "Your answer:", rvOk: "Correct answer:", rvErr: "The questions could not be loaded right now.", kick: "Your quiz result", thWine: "Wine", thBeer: "Beer", thSpirits: "Spirits", thSake: "Sake", thMix: "Mix",
       sc: "{n} out of {t} correct", lvK: "Your level", lvW: "Wine Level {n}", lvS: "Spirits Level {n}",
       rA: "You are just starting out: begin with {L1}, the foundations.", rB: "You have good basics: you look ready to start {L2}.",
       rC: "You are close to exam standard: strengthen your weak topics in {L2}.", rD: "Excellent: you look ready for the {L2} exam and can start {L3}.",
       gA: "You are just starting out: a great moment to learn the basics.", gB: "You have good basics and know the essentials.",
       gC: "Solid knowledge: just a few topics left to polish.", gD: "Excellent: you really know your subject.",
       tpK: "Your score by topic", rcK: "What to do next",
-      rcT: "{g}: {c}/{n} correct. Go through the lessons, then take the chapter quiz.", rcQ: "{g}: {c}/{n} correct. Read the explanations again and retake the quiz.",
-      rcStart: "Start with the first lessons of {L}: short chapters, each with its own quiz.", rcMock: "When your weak topics are above 70%, take a mock exam in {L}.",
+      rcT: "{g}: {c}/{n} correct. Go through the lessons, then take the chapter quiz.", rcStart: "Start with the first lessons of {L}: short chapters, each with its own quiz.", rcMock: "When your weak topics are above 70%, take a mock exam in {L}.",
       rcNext: "You are ready for more: start {L}.", rcCourse: "The courses in the app cover wine and spirits: a good next step is {L}.",
       rcAll: "No weak topic: well done! Keep it fresh with a mixed quiz every few days.",
       rcDaily: "A little every day works best: {d} h a day beats one long session a week.",
-      mock: "Take the full 50-question mock exam ({L})", open: "Open {L}", back: "Back to the quiz", tmK: "Estimated preparation time", tmL: "To be ready for the {L} exam",
-      tgL: "To reach a solid intermediate level", taL: "To reach an advanced level", w1: "about 1 week", wN: "about {w} weeks",
+      mock: "Take the full 50-question mock exam ({L})", open: "Open {L}", tmK: "Estimated preparation time", tmL: "To be ready for the {L} exam",
+      w1: "about 1 week", wN: "about {w} weeks",
       tmH: "≈ {h} hours of study in total, at {d} h a day, 6 days a week.", tmN: "This is an estimate, not a promise: it depends on your pace and on your course.",
       pace: "Study time per day:", paceB: "{d} h", cta: "Continue to the app", svA: "Saved to your account.", svL: "Saved on this device.",
       gate: "Create your free account to see your score and your personalised plan.", close: "Close",
@@ -79,20 +78,19 @@
       k_ingredients: "Rice, koji and water", k_brewing: "Sake brewing", k_styles: "Sake styles and grades", k_service: "Serving sake" }
   };
   /* Spanish (es) and the Río de la Plata variant (only the keys that differ) */
-  const ES = { kick: "El resultado de tu quiz", thWine: "Vino", thBeer: "Cerveza", thSpirits: "Destilados", thSake: "Sake", thMix: "Mix",
+  const ES = { rcRv: "Lee todas las explicaciones en «Revisa tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grK: "Calificación objetivo:", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu resultado.", grNM: "El Merit exige conocimientos detallados y seguros de todo el programa: prevé más práctica y repasos regulares.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica a diario, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", grL1: "Este nivel se aprueba o no, sin calificación.", tmB: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), ajustado a tu resultado.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisa tus respuestas», más abajo.", rvK: "Revisa tus respuestas", rvYou: "Tu respuesta:", rvOk: "Respuesta correcta:", rvErr: "Ahora mismo no se pudieron cargar las preguntas.", kick: "El resultado de tu quiz", thWine: "Vino", thBeer: "Cerveza", thSpirits: "Destilados", thSake: "Sake", thMix: "Mix",
     sc: "{n} respuestas correctas de {t}", lvK: "Tu nivel", lvW: "Vino Nivel {n}", lvS: "Destilados Nivel {n}",
     rA: "Estás empezando: comienza por {L1}, las bases.", rB: "Tienes buenas bases: puedes empezar {L2}.",
     rC: "Estás cerca del nivel del examen: refuerza tus puntos débiles en {L2}.", rD: "Excelente: pareces a punto para el examen de {L2} y puedes empezar {L3}.",
     gA: "Estás empezando: es un buen momento para aprender las bases.", gB: "Tienes buenas bases y conoces lo esencial.",
     gC: "Conocimientos sólidos: quedan pocos temas por pulir.", gD: "Excelente: conoces muy bien el tema.",
     tpK: "Tu resultado por tema", rcK: "Qué hacer ahora",
-    rcT: "{g}: {c}/{n} correctas. Repasa las lecciones y luego haz el quiz del capítulo.", rcQ: "{g}: {c}/{n} correctas. Vuelve a leer las explicaciones y repite el quiz.",
-    rcStart: "Empieza por las primeras lecciones de {L}: capítulos cortos, cada uno con su quiz.", rcMock: "Cuando tus puntos débiles superen el 70 %, haz un examen de prueba en {L}.",
+    rcT: "{g}: {c}/{n} correctas. Repasa las lecciones y luego haz el quiz del capítulo.", rcStart: "Empieza por las primeras lecciones de {L}: capítulos cortos, cada uno con su quiz.", rcMock: "Cuando tus puntos débiles superen el 70 %, haz un examen de prueba en {L}.",
     rcNext: "Puedes ir más lejos: empieza {L}.", rcCourse: "Los cursos de la app tratan de vino y destilados: un buen siguiente paso es {L}.",
     rcAll: "Ningún punto débil: ¡enhorabuena! Mantén la memoria fresca con un quiz mixto cada pocos días.",
     rcDaily: "Mejor un poco cada día: {d} h al día valen más que una sesión larga a la semana.",
-    mock: "Haz el examen de prueba completo de 50 preguntas ({L})", open: "Abrir {L}", back: "Volver al quiz", tmK: "Tiempo de preparación estimado", tmL: "Para llegar a punto al examen de {L}",
-    tgL: "Para alcanzar un nivel intermedio sólido", taL: "Para alcanzar un nivel avanzado", w1: "alrededor de 1 semana", wN: "alrededor de {w} semanas",
+    mock: "Haz el examen de prueba completo de 50 preguntas ({L})", open: "Abrir {L}", tmK: "Tiempo de preparación estimado", tmL: "Para llegar a punto al examen de {L}",
+    w1: "alrededor de 1 semana", wN: "alrededor de {w} semanas",
     tmH: "≈ {h} horas de estudio en total, con {d} h al día, 6 días a la semana.", tmN: "Es una estimación, no una promesa: depende de tu ritmo y de tu curso.",
     pace: "Tiempo de estudio al día:", paceB: "{d} h", cta: "Seguir en la app", svA: "Guardado en tu cuenta.", svL: "Guardado en este dispositivo.",
     gate: "Crea tu cuenta gratuita para ver tu puntuación y tu plan personalizado.", close: "Cerrar",
@@ -101,11 +99,10 @@
     s_brandy: "Cognac y destilados de fruta", s_cane: "Ron y Tequila", s_white: "Vodka, ginebra y licores", s_cocktails: "Cócteles",
     b_ingredients: "Ingredientes de la cerveza", b_brewing: "Elaboración de la cerveza", b_styles: "Estilos de cerveza", b_service: "Servicio y cata de la cerveza",
     k_ingredients: "Arroz, koji y agua", k_brewing: "Elaboración del sake", k_styles: "Estilos y categorías de sake", k_service: "Servicio del sake" };
-  const AR = { rA: "Estás empezando: arrancá por {L1}, las bases.", rB: "Tenés buenas bases: podés empezar {L2}.",
+  const AR = { rcRv: "Leé todas las explicaciones en «Revisá tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu puntaje.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica todos los días, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", tmB: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), ajustado a tu puntaje.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisá tus respuestas», más abajo.", rvK: "Revisá tus respuestas", rvErr: "Ahora no se pudieron cargar las preguntas.", rA: "Estás empezando: arrancá por {L1}, las bases.", rB: "Tenés buenas bases: podés empezar {L2}.",
     rC: "Estás cerca del nivel del examen: reforzá tus puntos débiles en {L2}.", rD: "Excelente: parecés a punto para el examen de {L2} y podés empezar {L3}.",
     gB: "Tenés buenas bases y conocés lo esencial.", gD: "Excelente: conocés muy bien el tema.",
-    rcT: "{g}: {c}/{n} correctas. Repasá las lecciones y después hacé el quiz del capítulo.", rcQ: "{g}: {c}/{n} correctas. Volvé a leer las explicaciones y repetí el quiz.",
-    rcStart: "Empezá por las primeras lecciones de {L}: capítulos cortos, cada uno con su quiz.", rcMock: "Cuando tus puntos débiles superen el 70 %, hacé un examen de prueba en {L}.",
+    rcT: "{g}: {c}/{n} correctas. Repasá las lecciones y después hacé el quiz del capítulo.", rcStart: "Empezá por las primeras lecciones de {L}: capítulos cortos, cada uno con su quiz.", rcMock: "Cuando tus puntos débiles superen el 70 %, hacé un examen de prueba en {L}.",
     rcNext: "Podés ir más lejos: empezá {L}.", rcAll: "Ningún punto débil: ¡felicitaciones! Mantené la memoria fresca con un quiz mixto cada pocos días.",
     rcDaily: "Mejor un poco cada día: {d} h por día valen más que una sesión larga por semana.",
     tmH: "≈ {h} horas de estudio en total, con {d} h por día, 6 días por semana.", tmN: "Es una estimación, no una promesa: depende de tu ritmo y de tu curso.",
@@ -136,16 +133,19 @@
   const BAND = p => (p < .35 ? 0 : p < .55 ? 1 : p < .8 ? 2 : 3);
   const lvName = (trk, n) => fill(tr(trk === "s" ? "lvS" : "lvW"), { n });
   const lvCode = (trk, n) => (trk === "s" ? "s" + n : String(n));
-  /* study hours still needed. Own rough figures for a full course from zero: Level 1 ≈ 8 h, Level 2 ≈ 30 h, Level 3 ≈ 85 h;
-     what the quiz shows the learner already knows is taken off, plus a little time for mock exams. */
-  function hours(p, band, trk) {
-    if (band === 0 && trk) return Math.max(3, Math.round(8 * (1 - p) + 1));      /* beer, sake, mix: no Level 1 step, the aim is the intermediate level */
-    if (band === 3) return Math.round(85 * (1 - .25 * p));
-    return Math.max(4, Math.round(30 * (1 - p) + 2));
-  }
+  /* Recommended study time per level (guided learning + private study, i.e. total qualification time), from the official
+     qualification specifications / course pages, checked 2026-11-20:
+       Wine L1 6 h (spec. Mar 2018: "TQT … 6 hours, all as GLH"), Wine L2 28 h (16 GL + 11 private + 1 exam),
+       Wine L3 84 h (30 GL + 54 private), Spirits L1 6 h (spec. Jul 2017), Spirits L2 26 h (spec. May 2022 issue 2:
+       15 GLH + 11 private), Spirits L3 84 h (30 GL + 51.5 private + exam).
+     On screen this is only called "the recommended study time for the level".
+     Pass = that time, reduced by what the quiz shows the learner already knows (at most -40% for 20/20: twenty questions
+     cannot cover a syllabus); Merit ×1.4 and Distinction ×1.9 of the Pass figure. Level 1 is pass/fail only. */
+  const TQT = { w: { 1: 6, 2: 28, 3: 84 }, s: { 1: 6, 2: 26, 3: 84 } }, GRX = { pass: 1, merit: 1.4, dist: 1.9 };
+  function hours(trk, lvl, p, grade) { return Math.max(2, Math.round(TQT[trk][lvl] * (1 - .4 * p) * (lvl === 1 ? 1 : GRX[grade]))); }
   const weeks = (h, d) => Math.max(1, Math.ceil(h / (d * 6)));
 
-  let PACE = 2, R = null, saved = false, prevFocus = null;
+  let PACE = 2, GRADE = "pass", R = null, saved = false, prevFocus = null;
   function model(r) {
     const p = r.score / r.total, band = BAND(p), trk = r.theme === "wine" ? "w" : r.theme === "spirits" ? "s" : null;
     const startN = band === 0 ? 1 : band === 3 ? 3 : 2, examN = band === 0 ? 1 : 2;
@@ -158,18 +158,20 @@
     weak.forEach(x => {
       const g = tr(x.k);
       if (x.k[0] === "w" || x.k[0] === "s") { const v = lv(x); recs.push({ t: fill(tr("rcT"), { g, c: x.c, n: x.n }), lvl: v.code, L: v.name }); }
-      else recs.push({ t: fill(tr("rcQ"), { g, c: x.c, n: x.n }), back: 1 });
+      else recs.push({ t: fill(tr("rcQ2"), { g, c: x.c, n: x.n }) });
     });
     if (!weak.length) recs.push({ t: tr("rcAll") });
     if (trk && (band === 1 || band === 2)) recs.push({ t: fill(tr("rcMock"), { L }), lvl: code, L });
     if (trk && band === 3) recs.push({ t: fill(tr("rcNext"), { L }), lvl: code, L });
     if (!trk) { const n = band === 0 ? 1 : 2, Lc = lvName("w", n); recs.push({ t: fill(tr("rcCourse"), { L: Lc }), lvl: lvCode("w", n), L: Lc }); }
     while (recs.length > 4) recs.splice(recs.length - 2, 1);           /* keep the first ones and the closing step */
-    recs.push({ t: fill(tr("rcDaily"), { d: PACE }) });
+    if (trk) recs.push({ t: fill(tr("rcDaily"), { d: PACE }) });
+    else if (recs.length < 3 && Array.isArray(r.a) && r.a.length) recs.push({ t: tr("rcRv") });
     const reading = trk ? fill(tr("r" + "ABCD"[band]), { L1: lvName(trk, 1), L2: lvName(trk, 2), L3: lvName(trk, 3) }) : tr("g" + "ABCD"[band]);
-    const h = hours(p, band, trk), w = weeks(h, PACE);
-    const target = trk ? fill(tr("tmL"), { L: band === 3 ? lvName(trk, 3) : lvName(trk, examN) }) : tr(band === 3 ? "taL" : "tgL");
-    return { p, band, rows, recs, reading, h, w, target, start: trk ? { L, code } : null, mock: trk ? { L: lvName(trk, 2), code: lvCode(trk, 2) } : null };   /* Level 2 / Spirits 2: the 50-question mock */
+    /* time estimate: wine and spirits only (beer, sake and mix have no course and no exam level in the app) */
+    const tl = band === 3 ? 3 : examN, h = trk ? hours(trk, tl, p, GRADE) : 0, w = trk ? weeks(h, PACE) : 0;
+    const target = trk ? fill(tr("tmL"), { L: lvName(trk, tl) }) : "";
+    return { p, band, rows, recs, reading, h, w, target, trk, tl, base: trk ? TQT[trk][tl] : 0, start: trk ? { L, code } : null, mock: trk ? { L: lvName(trk, 2), code: lvCode(trk, 2) } : null };   /* Level 2 / Spirits 2: the 50-question mock */
   }
 
   const CSS = `.hqr-bg{position:fixed;inset:0;z-index:400;background:rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;padding:12px}
@@ -199,43 +201,72 @@
 .hqr-tp span:last-of-type{font-weight:700;white-space:nowrap}
 .hqr-mk{display:block;width:100%;margin-top:18px;padding:12px;border-radius:12px;border:2px solid var(--accent,#8c1d40);background:var(--surface,#fff);color:var(--accent,#8c1d40);font:inherit;font-weight:700;font-size:.95rem;cursor:pointer;text-align:center}.hqr-mk+.hqr-go{margin-top:10px}
 .hqr-go{display:block;width:100%;margin-top:18px;padding:13px;border-radius:12px;border:0;background:var(--accent,#8c1d40);color:var(--on-accent,#fff);font:inherit;font-weight:700;font-size:1rem;cursor:pointer}
+.hqr-gn{margin:8px 0 0;font-size:.84rem}
+.hqr-rv{margin-top:18px;border:1px solid var(--line,#e5d7cf);border-radius:14px;padding:0 14px}
+.hqr-rv summary{cursor:pointer;padding:12px 0;font-weight:700;color:var(--accent,#8c1d40);min-height:24px}.hqr-rv summary span{color:var(--muted,#6b5a5f);font-weight:600}
+.hqr-rvl{margin:0 0 12px;padding:0;list-style:none;display:flex;flex-direction:column;gap:10px}
+.hqr-rvl li{padding:10px 12px;border-radius:12px;border:1px solid var(--line,#e5d7cf);background:var(--bg,#fdf8f3)}
+.hqr-rvl li.ok{border-inline-start:4px solid #2e7d32}.hqr-rvl li.ko{border-inline-start:4px solid #c62828}
+.hqr-rvl p{margin:4px 0 0;font-size:.88rem}.hqr-rvl .hqr-rq{margin:0;font-weight:700;font-size:.92rem}.hqr-rvl li.ok .hqr-rq b{color:#2e7d32}.hqr-rvl li.ko .hqr-rq b{color:#c62828}
+.hqr-rvl p span{color:var(--muted,#6b5a5f)}.hqr-rvl .hqr-rc{font-weight:600}.hqr-rvl .hqr-re{color:var(--muted,#6b5a5f)}
 .hqr-sv{margin:8px 0 0;text-align:center;font-size:.8rem;color:var(--muted,#6b5a5f)}
 .hqr-note{padding:10px 12px;border-radius:10px;background:var(--bg,#fdf8f3);border:1px solid var(--line,#e5d7cf);color:var(--fg,#2b1a20)!important;font-weight:600}
 @media (max-width:420px){.hqr{padding:20px 14px 16px}.hqr-ring{width:88px;height:88px}.hqr-ring b{width:68px;height:68px;font-size:1.25rem}}`;
 
   function html(r) {
     const m = model(r), pc = Math.round(m.p * 100), th = tr("th" + r.theme[0].toUpperCase() + r.theme.slice(1));
-    const link = x => x.lvl ? `<br><a href="#lvl=${esc(x.lvl)}&go=study" data-hqr-lvl="${esc(x.lvl)}">${esc(fill(tr("open"), { L: x.L }))} →</a>`
-      : x.back && typeof r.home === "string" && /^\/(?!\/)/.test(r.home) ? `<br><a href="${esc(r.home)}">${esc(tr("back"))} →</a>` : "";
+    const link = x => x.lvl ? `<br><a href="#lvl=${esc(x.lvl)}&go=study" data-hqr-lvl="${esc(x.lvl)}">${esc(fill(tr("open"), { L: x.L }))} →</a>` : "";
+    const G = m.tl === 1 ? ["pass"] : ["pass", "merit", "dist"], GN = { pass: "Pass", merit: "Merit", dist: "Distinction" };
+    const time = !m.trk ? "" : `<h3>${esc(tr("tmK"))}</h3><div class="hqr-box"><p class="hqr-tl">${esc(m.target)}${m.tl === 1 ? "" : " · " + GN[GRADE]}</p><p class="hqr-tw">${esc(m.w === 1 ? tr("w1") : fill(tr("wN"), { w: m.w }))}</p>
+<p class="hqr-th">${esc(fill(tr("tmH"), { h: m.h, d: PACE }))}</p>
+${m.tl === 1 ? `<p class="hqr-gn">${esc(tr("grL1"))}</p>` : `<div class="hqr-pace" role="group" aria-label="${esc(tr("grK"))}"><span>${esc(tr("grK"))}</span>${G.map(g => `<button type="button" data-hqr-grade="${g}" aria-pressed="${g === GRADE}">${GN[g]}</button>`).join("")}</div>
+<p class="hqr-gn">${esc(tr(GRADE === "pass" ? "grNP" : GRADE === "merit" ? "grNM" : "grND"))}</p>`}
+<div class="hqr-pace" role="group" aria-label="${esc(tr("pace"))}"><span>${esc(tr("pace"))}</span>${[1, 2, 3].map(d => `<button type="button" data-hqr-pace="${d}" aria-pressed="${d === PACE}">${esc(fill(tr("paceB"), { d }))}</button>`).join("")}</div>
+<p class="hqr-tn">${esc(fill(tr("tmB"), { r: m.base }))} ${esc(tr("tmN"))}</p></div>`;
     return `<button type="button" class="hqr-x" data-hqr-close aria-label="${esc(tr("close"))}">✕</button>
 <p class="hqr-k">${esc(tr("kick"))}</p><h2 id="hqr-t" tabindex="-1">${esc(th)} · ${r.score}/${r.total}</h2>
 <div class="hqr-top"><div class="hqr-ring" style="--p:${pc}" aria-hidden="true"><b>${pc}%</b></div>
 <div><p class="hqr-sc">${esc(fill(tr("sc"), { n: r.score, t: r.total }))} (${pc}%)</p><p class="hqr-rd"><b>${esc(tr("lvK"))}:</b> ${esc(m.reading)}</p></div></div>
-<h3>${esc(tr("tmK"))}</h3><div class="hqr-box"><p class="hqr-tl">${esc(m.target)}</p><p class="hqr-tw">${esc(m.w === 1 ? tr("w1") : fill(tr("wN"), { w: m.w }))}</p>
-<p class="hqr-th">${esc(fill(tr("tmH"), { h: m.h, d: PACE }))}</p>
-<div class="hqr-pace" role="group" aria-label="${esc(tr("pace"))}"><span>${esc(tr("pace"))}</span>${[1, 2, 3].map(d => `<button type="button" data-hqr-pace="${d}" aria-pressed="${d === PACE}">${esc(fill(tr("paceB"), { d }))}</button>`).join("")}</div>
-<p class="hqr-tn">${esc(tr("tmN"))}</p></div>
+${time}
 <h3>${esc(tr("rcK"))}</h3><ol>${m.recs.map(x => `<li>${esc(x.t)}${link(x)}</li>`).join("")}</ol>
 <h3>${esc(tr("tpK"))}</h3><ul class="hqr-tp">${m.rows.map(x => `<li><span>${esc(tr(x.k))}</span><span>${x.c}/${x.n}</span><i><u style="width:${Math.round(x.c / x.n * 100)}%"></u></i></li>`).join("")}</ul>
+${Array.isArray(r.a) && r.a.length ? `<details class="hqr-rv" data-hqr-rv${RVOPEN ? " open" : ""}><summary>${esc(tr("rvK"))} <span>(${r.score}/${r.total})</span></summary><div class="hqr-rvb" data-hqr-rvb>…</div></details>` : ""}
 ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">📝 ${esc(fill(tr("mock"), { L: m.mock.L }))}</button>` : ""}<button type="button" class="hqr-go" data-hqr-close>${esc(tr("cta"))}</button><p class="hqr-sv" data-hqr-sv>${esc(tr(saved ? "svA" : "svL"))}</p>`;
+  }
+  /* "review your answers": the questions come from the home quiz file of the language the visitor answered in */
+  let RVOPEN = false; const QB = {};
+  function review() {
+    const box = document.querySelector("[data-hqr-rvb]"), d = document.querySelector("[data-hqr-rv]"); if (!box || !R || !Array.isArray(R.a)) return;
+    if (d && !d._t) { d._t = 1; d.addEventListener("toggle", () => { RVOPEN = d.open; }); }
+    const lg = /^[a-z]{2}(-[a-z]{2,4})?$/.test(R.lang || "") ? R.lang : "en";
+    const draw = B => { const by = {}; ["wine", "beer", "spirits", "sake"].forEach(t => (B[t] || []).forEach(q => { by[q.id] = q; }));
+      const rows = R.a.map(([id, k], n) => { const q = by[id]; if (!q) return ""; const ok = k === 0, you = q.o[k] != null ? q.o[k] : "–";
+        return `<li class="${ok ? "ok" : "ko"}"><p class="hqr-rq"><b aria-hidden="true">${ok ? "✓" : "✗"}</b> ${n + 1}. ${esc(q.q)}</p>
+<p><span>${esc(tr("rvYou"))}</span> ${esc(you)}</p>${ok ? "" : `<p class="hqr-rc"><span>${esc(tr("rvOk"))}</span> ${esc(q.o[0])}</p>`}<p class="hqr-re">${esc(q.e)}</p></li>`; }).join("");
+      box.innerHTML = `<ul class="hqr-rvl" lang="${esc(lg)}">${rows}</ul>`; };
+    if (QB[lg]) return draw(QB[lg]);
+    fetch("/assets/homequiz/" + lg + ".json?v=3", { credentials: "same-origin" }).then(r => { if (!r.ok) throw 0; return r.json(); })
+      .then(B => { QB[lg] = B; const b2 = document.querySelector("[data-hqr-rvb]"); if (b2) draw(B); })
+      .catch(() => { const b2 = document.querySelector("[data-hqr-rvb]"); if (b2) b2.innerHTML = `<p>${esc(tr("rvErr"))}</p>`; });
   }
   function paint(keep) {
     const el = document.getElementById("hqr"); if (!el || !R) return;
-    const y = el.scrollTop, a = keep && document.activeElement && document.activeElement.getAttribute("data-hqr-pace");
-    el.innerHTML = html(R); el.scrollTop = keep ? y : 0;
-    const f = a ? el.querySelector(`[data-hqr-pace="${a}"]`) : el.querySelector("#hqr-t"); if (f) try { f.focus({ preventScroll: !!keep }); } catch (e) {}
+    const y = el.scrollTop, ae = keep && document.activeElement, a = ae && (ae.hasAttribute("data-hqr-pace") ? `[data-hqr-pace="${ae.getAttribute("data-hqr-pace")}"]` : ae.hasAttribute("data-hqr-grade") ? `[data-hqr-grade="${ae.getAttribute("data-hqr-grade")}"]` : "");
+    el.innerHTML = html(R); el.scrollTop = keep ? y : 0; review();
+    const f = a ? el.querySelector(a) : el.querySelector("#hqr-t"); if (f) try { f.focus({ preventScroll: !!keep }); } catch (e) {}
   }
   function close() { const b = document.getElementById("hqr-bg"); if (b) b.remove(); if (prevFocus && prevFocus.focus) try { prevFocus.focus(); } catch (e) {} }
   function show(r) {
     if (document.getElementById("hqr-bg")) return;
     if (!document.getElementById("hqr-css")) { const st = document.createElement("style"); st.id = "hqr-css"; st.textContent = CSS; document.head.appendChild(st); }
-    R = r; prevFocus = document.activeElement;
+    R = r; prevFocus = document.activeElement; GRADE = "pass"; RVOPEN = false;
     const bg = document.createElement("div"); bg.id = "hqr-bg"; bg.className = "hqr-bg";
     bg.innerHTML = `<div class="hqr" id="hqr" role="dialog" aria-modal="true" aria-labelledby="hqr-t"></div>`;
     document.body.appendChild(bg); paint();
     bg.addEventListener("click", e => {
       if (e.target === bg || e.target.closest("[data-hqr-close]")) return close();
       const p = e.target.closest("[data-hqr-pace]"); if (p) { PACE = +p.getAttribute("data-hqr-pace") || 2; return paint(true); }
+      const gr = e.target.closest("[data-hqr-grade]"); if (gr) { GRADE = gr.getAttribute("data-hqr-grade") || "pass"; return paint(true); }
       const mk = e.target.closest("[data-hqr-mock]"); if (mk) { const v = mk.getAttribute("data-hqr-mock");
         try { sessionStorage.setItem("twg-hq-mock", "1"); } catch (x) {}
         if (ls.get("twg-level") === v) { close(); location.hash = "go=study"; return openMock(); }
@@ -257,7 +288,7 @@ ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">
   /* the account copy: user_docs (user_id, doc_id, data), the same per-user document table as the progress */
   async function store(r) {
     try { const a = acct(), sb = a && a.client && a.client(), uid = a && a.uid && a.uid(); if (!sb || !uid || r.cloud) return;
-      const data = { v: 1, theme: r.theme, score: r.score, total: r.total, topics: r.topics, ts: r.ts, lang: r.lang || "" };
+      const data = { v: 1, theme: r.theme, score: r.score, total: r.total, topics: r.topics, a: Array.isArray(r.a) ? r.a : [], ts: r.ts, lang: r.lang || "" };
       const { error } = await sb.from("user_docs").upsert({ user_id: uid, doc_id: DOC, data, updated_at: new Date().toISOString() }, { onConflict: "user_id,doc_id" });
       if (error) return; r.cloud = 1; ls.set(KEY, JSON.stringify(r)); saved = true;
       const s = document.querySelector("[data-hqr-sv]"); if (s) s.textContent = tr("svA");

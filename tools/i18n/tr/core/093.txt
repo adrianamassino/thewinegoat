@@ -1,3 +1,14 @@
+Hedef derece:
+Pass: seviye için önerilen çalışma süresi, puanına göre ayarlanmış hâli.
+Merit, tüm müfredatta ayrıntılı ve sağlam bilgi ister: daha fazla alıştırma ve düzenli tekrar planla.
+Distinction, sınava hazır ve kesin bir hatırlama ister: her gün alıştırma soruları, sınav koşullarında deneme sınavları ve her bölümün aktif tekrarını planla.
+Bu seviye yalnızca geçti/kaldı olarak değerlendirilir.
+Başlangıç noktası: seviye için önerilen çalışma süresi ({r} sa), puanına göre ayarlandı.
+{g}: {c}/{n} doğru. Doğru cevaplar ve açıklamalar aşağıda, “Cevaplarını gözden geçir” bölümünde.
+Cevaplarını gözden geçir
+Senin cevabın:
+Doğru cevap:
+Sorular şu anda yüklenemedi.
 Quiz sonucun
 Şarap
 Bira
@@ -19,19 +30,16 @@ Harika: konuya gerçekten hâkimsin.
 Konulara göre puanın
 Şimdi ne yapmalı
 {g}: {c}/{n} doğru. Dersleri gözden geçir, sonra bölüm testini çöz.
-{g}: {c}/{n} doğru. Açıklamaları yeniden oku ve quizi tekrar çöz.
 {L} içindeki ilk derslerle başla: her biri kendi testi olan kısa bölümler.
 Zayıf konuların %70’in üzerine çıkınca {L} içinde bir deneme sınavı çöz.
 Daha fazlasına hazırsın: {L} ile başla.
 Uygulamadaki kurslar şarap ve distile içkileri kapsıyor: iyi bir sonraki adım {L}.
 Zayıf konu yok: tebrikler! Birkaç günde bir karışık bir quizle bilgini taze tut.
 Her gün biraz çalışmak en iyisi: günde {d} sa, haftada tek uzun seanstan daha etkili.
+50 soruluk tam deneme sınavını çöz ({L})
 {L} aç
-Teste dön
 Tahmini hazırlık süresi
 {L} sınavına hazır olmak için
-Sağlam bir orta düzeye ulaşmak için
-İleri düzeye ulaşmak için
 yaklaşık 1 hafta
 yaklaşık {w} hafta
 ≈ toplam {h} saat çalışma; günde {d} sa, haftada 6 gün.
@@ -63,4 +71,4 @@ Pirinç, koji ve su
 Sake yapımı
 Sake stilleri ve sınıfları
 Sake servisi
-50 soruluk tam deneme sınavını çöz ({L})
+Aşağıdaki “Cevaplarını gözden geçir” bölümünde, doğru bildiğin sorular dahil her açıklamayı oku: her biri kısa bir derstir.

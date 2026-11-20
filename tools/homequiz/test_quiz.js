@@ -41,7 +41,7 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
     let shot = 0, total = 0;
     for (const th of ["wine", "beer", "spirits", "sake", "mix"]) {
       await openQuiz(); await page.click(`.hqz-th[data-th=${th}]`); await page.waitForSelector(".hqz-q");
-      const run = await page.evaluate(t => JSON.parse(localStorage.getItem("twg-hq-run"))[t], th);
+      const run = await page.evaluate(t => JSON.parse(localStorage.getItem("twg-hq-run2"))[t], th);
       ok(run.ids.length === N && new Set(run.ids).size === N && new Set(run.ids.map(i => BY[i].t)).size >= 4, `${lg} ${th}: ${run.ids.length} questions`);
       const want = th === "mix" ? bank.mix : bank[th].map(q => q.id);
       ok(run.ids.join() === want.join(), `${lg} ${th}: the fixed set, in order`);
@@ -55,7 +55,9 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
         const right = th === "wine" ? n % 2 === 0 : th === "beer" ? n < 5 : th === "spirits" ? n % 3 !== 0 : th === "sake" ? n < 19 : n % 4 !== 0;
         const idx = await page.evaluate(r => { const b = [...document.querySelectorAll(".hqz-o")]; const i = b.findIndex(x => (x.getAttribute("data-o") === "0") === r); return i; }, right);
         await page.locator(".hqz-o").nth(idx).click();
-        ok(await page.locator(".hqz-fb").count() === 1 && (await page.locator(".hqz-fb").textContent()).includes(q.e), `${lg} ${th} q${n + 1} explanation`);
+        /* nothing revealed on the home: no right/wrong marks, no correct option, no explanation, just "answer saved" */
+        const rv = await page.evaluate(() => ({ marks: document.querySelectorAll(".hqz-o.ok,.hqz-o.ko").length, sel: document.querySelectorAll(".hqz-o.sel").length, sv: !!document.querySelector(".hqz-sv"), txt: document.querySelector(".hqz-card").textContent }));
+        ok(!rv.marks && rv.sel === 1 && rv.sv && !rv.txt.includes(q.e), `${lg} ${th} q${n + 1} nothing revealed`);
         if (n === 1 && th === "wine") { await noOverflow("answer"); await page.screenshot({ path: `${OUT}/${lg}-2-question.png` }); }
         if (n === 2) { /* close, reload, resume at question 4 */
           await page.keyboard.press("Escape"); await page.reload({ waitUntil: "load" }); await openQuiz();
@@ -81,19 +83,36 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
       if (th === "wine") { await page.waitForSelector("#acct-bg .hqr-note", { timeout: 15000 }); ok(await page.locator("#hqr-bg").count() === 0, lg + " no result before the account"); await page.screenshot({ path: `${OUT}/${lg}-5-app-signup.png` }); }
       await page.evaluate(() => localStorage.setItem("stub-session", "1")); await page.reload({ waitUntil: "load" });
       await page.waitForSelector("#hqr-bg #hqr-t", { timeout: 20000 });
-      const r = await page.evaluate(() => ({ h: document.querySelector("#hqr-t").textContent, sc: document.querySelector(".hqr-sc").textContent, ring: document.querySelector(".hqr-ring").textContent, recs: document.querySelectorAll(".hqr ol li").length, links: [...document.querySelectorAll(".hqr ol a")].map(a => a.getAttribute("href")), w: document.querySelector(".hqr-tw").textContent, hrs: document.querySelector(".hqr-th").textContent, note: document.querySelector(".hqr-tn").textContent, tp: document.querySelectorAll(".hqr-tp li").length, rd: document.querySelector(".hqr-rd").textContent }));
+      const trk = th === "wine" || th === "spirits";
+      const r = await page.evaluate(() => { const q = s => document.querySelector(s); return { h: q("#hqr-t").textContent, sc: q(".hqr-sc").textContent, ring: q(".hqr-ring").textContent, recs: document.querySelectorAll(".hqr ol li").length, links: [...document.querySelectorAll(".hqr ol a")].map(a => a.getAttribute("href")), w: q(".hqr-tw") ? q(".hqr-tw").textContent : "", hrs: q(".hqr-th") ? q(".hqr-th").textContent : "", note: q(".hqr-tn") ? q(".hqr-tn").textContent : "", pace: document.querySelectorAll("[data-hqr-pace]").length, grades: document.querySelectorAll("[data-hqr-grade]").length, tp: document.querySelectorAll(".hqr-tp li").length, rd: q(".hqr-rd").textContent, txt: q(".hqr").textContent }; });
       const exp = g.res.score;
       ok(r.h.includes(exp + "/" + N) && r.ring === Math.round(exp / N * 100) + "%" && r.sc.includes(String(exp)), `${lg} ${th} score ${r.h} ${r.ring}`);
       ok(r.recs >= 3 && r.recs <= 5, `${lg} ${th} ${r.recs} recommendations`); ok(r.links.length >= 1, `${lg} ${th} recommendation links`);
-      ok(/\d/.test(r.w) && /\d/.test(r.hrs) && r.note.length > 10 && r.tp >= 4, `${lg} ${th} time estimate`);
-      await page.click('[data-hqr-pace="1"]'); const w1 = await page.locator(".hqr-tw").textContent(); await page.click('[data-hqr-pace="3"]'); const w3 = await page.locator(".hqr-tw").textContent();
-      ok(parseInt(w1.replace(/\D/g, "")) >= parseInt(w3.replace(/\D/g, "")) && (await page.locator('[data-hqr-pace="3"]').getAttribute("aria-pressed")) === "true", `${lg} ${th} pace ${w1} / ${w3}`);
-      await page.click('[data-hqr-pace="2"]'); await noOverflow("result");
+      ok(!/retake|rifai il quiz|wiederhole das Quiz|もう一度クイズ|repetí el quiz/i.test(r.txt), `${lg} ${th} no "retake the quiz"`);
+      if (trk) {
+        ok(/\d/.test(r.w) && /\d/.test(r.hrs) && r.note.length > 10 && r.tp >= 4 && r.pace === 3, `${lg} ${th} time estimate`);
+        await page.click('[data-hqr-pace="1"]'); const w1 = await page.locator(".hqr-tw").textContent(); await page.click('[data-hqr-pace="3"]'); const w3 = await page.locator(".hqr-tw").textContent();
+        ok(parseInt(w1.replace(/\D/g, "")) >= parseInt(w3.replace(/\D/g, "")) && (await page.locator('[data-hqr-pace="3"]').getAttribute("aria-pressed")) === "true", `${lg} ${th} pace ${w1} / ${w3}`);
+        await page.click('[data-hqr-pace="2"]');
+        if (r.grades === 3) {   /* Pass < Merit < Distinction */
+          const wk = async gr => { await page.click(`[data-hqr-grade="${gr}"]`); return parseInt((await page.locator(".hqr-tw").textContent()).replace(/\D/g, "")); };
+          const P = await wk("pass"), M = await wk("merit"), D = await wk("dist");
+          ok(P <= M && M < D, `${lg} ${th} grades ${P}/${M}/${D}`); if (th === "wine") await page.screenshot({ path: `${OUT}/${lg}-6b-result-${th}-distinction.png` }); await wk("pass");
+        }
+      } else ok(!r.w && !r.pace && !r.grades, `${lg} ${th} no time estimate`);
+      /* review of the answers: every question, wrong ones with the correct option, all with the explanation */
+      await page.evaluate(() => { const d = document.querySelector("[data-hqr-rv]"); d.open = true; d.scrollIntoView(); });
+      await page.waitForSelector(".hqr-rvl li");
+      const rvw = await page.evaluate(() => ({ n: document.querySelectorAll(".hqr-rvl li").length, ko: document.querySelectorAll(".hqr-rvl li.ko").length, rc: document.querySelectorAll(".hqr-rvl .hqr-rc").length, e: [...document.querySelectorAll(".hqr-rvl .hqr-re")].map(x => x.textContent) }));
+      ok(rvw.n === N && rvw.ko === N - exp && rvw.rc === N - exp && rvw.e.every((x, k) => x === BY[run.ids[k]].e), `${lg} ${th} review ${JSON.stringify({ n: rvw.n, ko: rvw.ko })}`);
+      await page.screenshot({ path: `${OUT}/${lg}-6c-review-${th}.png` });
+      await page.evaluate(() => { document.querySelector(".hqr").scrollTo(0, 0); });
+      await noOverflow("result");
       ok((await page.locator("[data-hqr-mock]").count()) === (th === "wine" || th === "spirits" ? 1 : 0), `${lg} ${th} mock button`);
       await page.waitForFunction(() => (localStorage.getItem("stub-writes") || "").includes("homequiz/last"), null, { timeout: 5000 }).catch(() => ok(false, `${lg} ${th} account copy`));
       await page.screenshot({ path: `${OUT}/${lg}-6-result-${th}.png` });
       await page.evaluate(() => document.querySelector(".hqr").scrollTo(0, 99999)); await page.screenshot({ path: `${OUT}/${lg}-7-result-${th}-end.png` });
-      console.log(`  ${lg} ${th}: ${exp}/${N} → app lang ${lang2} · ${r.w} · ${r.recs} recs · ${r.rd.slice(0, 70)}`);
+      console.log(`  ${lg} ${th}: ${exp}/${N} → app lang ${lang2} · ${r.w || "no estimate"} · ${r.recs} recs · ${r.rd.slice(0, 70)}`);
       await page.keyboard.press("Escape"); ok(await page.locator("#hqr-bg").count() === 0, lg + " Esc closes the result");
       await page.reload({ waitUntil: "load" }); await page.waitForTimeout(1500); ok(await page.locator("#hqr-bg").count() === 0, lg + " result shown once");
       if (th === "wine" && lg === "en") {   /* the mock button opens the app's existing 50-question mock (Level 2) */
@@ -107,9 +126,9 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
       await page.goto(home, { waitUntil: "load" });
       if (th === "beer") {   /* retake: the same 20 questions in the same order */
         await openQuiz(); await page.click(`.hqz-th[data-th=beer]`); await page.waitForSelector(".hqz-q");
-        const r2 = await page.evaluate(() => JSON.parse(localStorage.getItem("twg-hq-run")).beer.ids);
+        const r2 = await page.evaluate(() => JSON.parse(localStorage.getItem("twg-hq-run2")).beer.ids);
         ok(r2.join() === bank.beer.map(q => q.id).join() && (await page.locator(".hqz-q").textContent()) === bank.beer[0].q, `${lg} retake shows the same questions`);
-        await page.keyboard.press("Escape"); await page.evaluate(() => { const r = JSON.parse(localStorage.getItem("twg-hq-run")); delete r.beer; localStorage.setItem("twg-hq-run", JSON.stringify(r)); });
+        await page.keyboard.press("Escape"); await page.evaluate(() => { const r = JSON.parse(localStorage.getItem("twg-hq-run2")); delete r.beer; localStorage.setItem("twg-hq-run2", JSON.stringify(r)); });
       }
     }
     ok(!flagged, `${lg}: ${flagged} questions still in English`);
