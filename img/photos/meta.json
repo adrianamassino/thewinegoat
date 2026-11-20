@@ -1206,66 +1206,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 63,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/sparkling-wine-cellar-riddling-racks-napa.webp",
-  "file_sm": "img/photos/sparkling-wine-cellar-riddling-racks-napa-sm.webp",
-  "original_file": "0063-wine-cave-photography-cellar-of-schramsberg-vineyards.webp",
-  "width": 1200,
-  "height": 928,
-  "width_sm": 600,
-  "height_sm": 464,
-  "format": "WEBP",
-  "alt": "Lamp-lit cave tunnel lined with riddling racks full of sparkling wine bottles",
-  "title": "Sparkling wine cellar at Schramsberg, Napa Valley",
-  "caption": "In traditional-method sparkling wine, riddling slowly moves the yeast sediment into the bottle neck before disgorgement.",
-  "description": "A long, lamp-lit cave tunnel at Schramsberg Vineyards near Calistoga, Napa County, California, lined with A-frame riddling racks holding bottles. Cool, stable underground cellars suit the long ageing of sparkling wine on its lees, and riddling racks are a key tool of the traditional method.",
-  "keywords": {
-   "primary": "sparkling wine cellar",
-   "secondary": [
-    "riddling racks",
-    "traditional method",
-    "Napa sparkling wine"
-   ],
-   "longtail": "riddling racks in the sparkling wine caves of Schramsberg, Napa Valley",
-   "semantic": [
-    "remuage",
-    "lees ageing",
-    "méthode traditionnelle",
-    "disgorgement"
-   ]
-  },
-  "themes": [
-   "cellars",
-   "sparkling"
-  ],
-  "topics": [
-   "sparkling",
-   "traditional-method",
-   "napa",
-   "california",
-   "riddling"
-  ],
-  "region": "Napa Valley",
-  "country": "United States",
-  "language": "en",
-  "commons_title": "File:Cellar of Schramsberg Vineyards.jpg",
-  "commons_description": "Cellar of Schramsberg Vineyards near Calistoga, Napa County, California",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Cellar_of_Schramsberg_Vineyards.jpg",
-  "author": "Frank Schulenburg",
-  "licence": "CC BY-SA 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Frank Schulenburg, CC BY-SA 4.0 via Wikimedia Commons",
-  "credit": "Photo: Frank Schulenburg, CC BY-SA 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 77,
   "provider": "wikimedia-commons",
   "curated": true,
