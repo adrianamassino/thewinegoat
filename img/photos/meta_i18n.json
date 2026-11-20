@@ -3725,5 +3725,2163 @@
    "caption": "Almanya'nın Baden bölgesinde, Durbach'taki Schloss Staufenberg'in çevresindeki bağlar.",
    "alt": "Ön planda asmalar ve Durbach'ın üzerindeki bağ tepesinde Schloss Staufenberg"
   }
+ },
+ "saint-emilion-village-square-gironde": {
+  "en": {
+   "caption": "The main square of Saint-Émilion, in the Bordeaux region, seen from the monolithic church.",
+   "alt": "Café terraces on the main square of Saint-Émilion seen from above, among stone houses",
+   "title": "Saint-Émilion main square"
+  },
+  "it": {
+   "caption": "La piazza principale di Saint-Émilion, nella regione di Bordeaux, vista dalla chiesa monolitica.",
+   "alt": "Dehors dei caffè sulla piazza principale di Saint-Émilion visti dall'alto, tra case di pietra",
+   "title": "La piazza principale di Saint-Émilion"
+  },
+  "fr": {
+   "caption": "La place principale de Saint-Émilion, dans le Bordelais, vue depuis l'église monolithe.",
+   "alt": "Terrasses de cafés sur la place principale de Saint-Émilion vues d'en haut, entre les maisons de pierre",
+   "title": "La place principale de Saint-Émilion"
+  },
+  "es": {
+   "caption": "La plaza mayor de Saint-Émilion, en la región de Burdeos, vista desde la iglesia monolítica.",
+   "alt": "Terrazas de cafés en la plaza mayor de Saint-Émilion vistas desde lo alto, entre casas de piedra",
+   "title": "La plaza mayor de Saint-Émilion"
+  },
+  "es-ar": {
+   "caption": "La plaza mayor de Saint-Émilion, en la región de Burdeos, vista desde la iglesia monolítica.",
+   "alt": "Terrazas de cafés en la plaza mayor de Saint-Émilion vistas desde lo alto, entre casas de piedra",
+   "title": "La plaza mayor de Saint-Émilion"
+  },
+  "de": {
+   "caption": "Der Hauptplatz von Saint-Émilion im Bordelais, von der monolithischen Kirche aus gesehen.",
+   "alt": "Caféterrassen auf dem Hauptplatz von Saint-Émilion von oben, zwischen Steinhäusern"
+  },
+  "nl": {
+   "caption": "Het hoofdplein van Saint-Émilion in de Bordeaux-streek, gezien vanaf de monolithische kerk.",
+   "alt": "Caféterrassen op het hoofdplein van Saint-Émilion van bovenaf, tussen stenen huizen"
+  },
+  "pl": {
+   "caption": "Główny plac Saint-Émilion w regionie Bordeaux, widok z kościoła monolitycznego.",
+   "alt": "Ogródki kawiarni na głównym placu Saint-Émilion widziane z góry, wśród kamiennych domów"
+  },
+  "pt": {
+   "caption": "A praça principal de Saint-Émilion, na região de Bordéus, vista da igreja monolítica.",
+   "alt": "Esplanadas na praça principal de Saint-Émilion vistas de cima, entre casas de pedra"
+  },
+  "pt-br": {
+   "caption": "A praça principal de Saint-Émilion, na região de Bordeaux, vista da igreja monolítica.",
+   "alt": "Mesas de cafés na praça principal de Saint-Émilion vistas do alto, entre casas de pedra"
+  },
+  "ru": {
+   "caption": "Главная площадь Сент-Эмильона в регионе Бордо, вид от монолитной церкви.",
+   "alt": "Летние кафе на главной площади Сент-Эмильона сверху, среди каменных домов"
+  },
+  "el": {
+   "caption": "Η κεντρική πλατεία του Saint-Émilion, στην περιοχή του Μπορντό, από τη μονολιθική εκκλησία.",
+   "alt": "Τραπεζάκια καφέ στην κεντρική πλατεία του Saint-Émilion από ψηλά, ανάμεσα σε πέτρινα σπίτια"
+  },
+  "ja": {
+   "caption": "ボルドー地方サンテミリオンの中央広場。モノリス教会から見た眺め。",
+   "alt": "石造りの家々に囲まれたサンテミリオンの中央広場のカフェテラスを上から見た様子"
+  },
+  "ko": {
+   "caption": "보르도 지방 생테밀리옹의 중앙 광장, 모놀리스 성당에서 바라본 모습.",
+   "alt": "돌집들 사이로 위에서 내려다본 생테밀리옹 중앙 광장의 카페 테라스"
+  },
+  "zh-hans": {
+   "caption": "波尔多产区圣埃美隆的中心广场，从独石教堂俯瞰。",
+   "alt": "从高处俯瞰圣埃美隆中心广场上的咖啡座，四周是石砌房屋"
+  },
+  "zh-hant": {
+   "caption": "波爾多產區聖愛美濃的中心廣場，從獨石教堂俯瞰。",
+   "alt": "從高處俯瞰聖愛美濃中心廣場上的咖啡座，四周是石砌房屋"
+  },
+  "ar": {
+   "caption": "الساحة الرئيسية لسانت إميليون في منطقة بوردو، كما تُرى من الكنيسة المنحوتة في الصخر.",
+   "alt": "مقاهٍ في الساحة الرئيسية لسانت إميليون من الأعلى، بين البيوت الحجرية"
+  },
+  "th": {
+   "caption": "จัตุรัสกลางเมืองแซ็งเตมีลียง แคว้นบอร์โดซ์ มองจากโบสถ์สกัดหิน",
+   "alt": "โต๊ะคาเฟ่บนจัตุรัสกลางเมืองแซ็งเตมีลียงมองจากมุมสูง ท่ามกลางบ้านหิน"
+  },
+  "tr": {
+   "caption": "Bordeaux bölgesinde Saint-Émilion'un ana meydanı, monolit kiliseden görünüm.",
+   "alt": "Taş evler arasında, yukarıdan görülen Saint-Émilion ana meydanındaki kafe terasları"
+  }
+ },
+ "bodega-dante-robino-vineyard-mendoza": {
+  "en": {
+   "caption": "The vineyard of Bodega Dante Robino in Mendoza, Argentina.",
+   "alt": "Vine rows with wooden posts and tall poplars at Bodega Dante Robino, Mendoza",
+   "title": "Bodega Dante Robino vineyard, Mendoza"
+  },
+  "it": {
+   "caption": "Il vigneto della Bodega Dante Robino a Mendoza, in Argentina.",
+   "alt": "Filari con pali di legno e alti pioppi alla Bodega Dante Robino, Mendoza",
+   "title": "Vigneto della Bodega Dante Robino, Mendoza"
+  },
+  "fr": {
+   "caption": "Le vignoble de la Bodega Dante Robino à Mendoza, en Argentine.",
+   "alt": "Rangs de vigne, piquets de bois et grands peupliers à la Bodega Dante Robino, Mendoza",
+   "title": "Vignoble de la Bodega Dante Robino, Mendoza"
+  },
+  "es": {
+   "caption": "El viñedo de la Bodega Dante Robino en Mendoza, Argentina.",
+   "alt": "Hileras de vid con postes de madera y altos álamos en la Bodega Dante Robino, Mendoza",
+   "title": "Viñedo de la Bodega Dante Robino, Mendoza"
+  },
+  "es-ar": {
+   "caption": "El viñedo de la Bodega Dante Robino en Mendoza, Argentina.",
+   "alt": "Hileras de vid con postes de madera y altos álamos en la Bodega Dante Robino, Mendoza",
+   "title": "Viñedo de la Bodega Dante Robino, Mendoza"
+  },
+  "de": {
+   "caption": "Der Weinberg der Bodega Dante Robino in Mendoza, Argentinien.",
+   "alt": "Rebzeilen mit Holzpfählen und hohen Pappeln bei der Bodega Dante Robino, Mendoza"
+  },
+  "nl": {
+   "caption": "De wijngaard van Bodega Dante Robino in Mendoza, Argentinië.",
+   "alt": "Rijen wijnstokken met houten palen en hoge populieren bij Bodega Dante Robino, Mendoza"
+  },
+  "pl": {
+   "caption": "Winnica Bodega Dante Robino w Mendozie w Argentynie.",
+   "alt": "Rzędy winorośli z drewnianymi słupkami i wysokimi topolami w Bodega Dante Robino, Mendoza"
+  },
+  "pt": {
+   "caption": "A vinha da Bodega Dante Robino em Mendoza, Argentina.",
+   "alt": "Linhas de videiras com postes de madeira e choupos altos na Bodega Dante Robino, Mendoza"
+  },
+  "pt-br": {
+   "caption": "O vinhedo da Bodega Dante Robino em Mendoza, Argentina.",
+   "alt": "Fileiras de videiras com estacas de madeira e choupos altos na Bodega Dante Robino, Mendoza"
+  },
+  "ru": {
+   "caption": "Виноградник Bodega Dante Robino в Мендосе, Аргентина.",
+   "alt": "Ряды лоз с деревянными столбиками и высокими тополями в Bodega Dante Robino, Мендоса"
+  },
+  "el": {
+   "caption": "Ο αμπελώνας της Bodega Dante Robino στη Μεντόζα της Αργεντινής.",
+   "alt": "Σειρές αμπελιών με ξύλινους πασσάλους και ψηλές λεύκες στην Bodega Dante Robino, Μεντόζα"
+  },
+  "ja": {
+   "caption": "アルゼンチン、メンドーサのボデガ・ダンテ・ロビーノのブドウ畑。",
+   "alt": "メンドーサのボデガ・ダンテ・ロビーノで、木の支柱と高いポプラが並ぶブドウ畑"
+  },
+  "ko": {
+   "caption": "아르헨티나 멘도사의 보데가 단테 로비노 포도밭.",
+   "alt": "멘도사 보데가 단테 로비노의 나무 지주와 키 큰 포플러가 선 포도나무 줄"
+  },
+  "zh-hans": {
+   "caption": "阿根廷门多萨丹特·罗比诺酒庄的葡萄园。",
+   "alt": "门多萨丹特·罗比诺酒庄的葡萄行，立着木桩和高大的杨树"
+  },
+  "zh-hant": {
+   "caption": "阿根廷門多薩丹特·羅比諾酒莊的葡萄園。",
+   "alt": "門多薩丹特·羅比諾酒莊的葡萄行，立著木樁和高大的楊樹"
+  },
+  "ar": {
+   "caption": "كرم بوديغا دانتي روبينو في مندوسا، الأرجنتين.",
+   "alt": "صفوف كروم بأعمدة خشبية وأشجار حور عالية في بوديغا دانتي روبينو، مندوسا"
+  },
+  "th": {
+   "caption": "ไร่องุ่นของบอเดกาดันเตโรบีโนในเมนโดซา ประเทศอาร์เจนตินา",
+   "alt": "แถวต้นองุ่นมีเสาไม้และต้นป็อปลาร์สูงที่บอเดกาดันเตโรบีโน เมนโดซา"
+  },
+  "tr": {
+   "caption": "Arjantin'in Mendoza kentinde Bodega Dante Robino'nun bağı.",
+   "alt": "Bodega Dante Robino'da ahşap direkli asma sıraları ve uzun kavaklar, Mendoza"
+  }
+ },
+ "concha-y-toro-casa-patronal-pirque-chile": {
+  "en": {
+   "caption": "The Casa Patronal of Concha y Toro at Pirque, Chile.",
+   "alt": "Colonnaded façade and fountain garden of the Casa Patronal of Concha y Toro in Pirque",
+   "title": "Casa Patronal of Concha y Toro, Pirque"
+  },
+  "it": {
+   "caption": "La Casa Patronal di Concha y Toro a Pirque, in Cile.",
+   "alt": "Facciata con colonnato e giardino con fontana della Casa Patronal di Concha y Toro a Pirque",
+   "title": "Casa Patronal di Concha y Toro, Pirque"
+  },
+  "fr": {
+   "caption": "La Casa Patronal de Concha y Toro à Pirque, au Chili.",
+   "alt": "Façade à colonnade et jardin à fontaine de la Casa Patronal de Concha y Toro à Pirque",
+   "title": "Casa Patronal de Concha y Toro, Pirque"
+  },
+  "es": {
+   "caption": "La Casa Patronal de Concha y Toro en Pirque, Chile.",
+   "alt": "Fachada con columnata y jardín con fuente de la Casa Patronal de Concha y Toro en Pirque",
+   "title": "Casa Patronal de Concha y Toro, Pirque"
+  },
+  "es-ar": {
+   "caption": "La Casa Patronal de Concha y Toro en Pirque, Chile.",
+   "alt": "Fachada con columnata y jardín con fuente de la Casa Patronal de Concha y Toro en Pirque",
+   "title": "Casa Patronal de Concha y Toro, Pirque"
+  },
+  "de": {
+   "caption": "Die Casa Patronal von Concha y Toro in Pirque, Chile.",
+   "alt": "Säulenfassade und Brunnengarten der Casa Patronal von Concha y Toro in Pirque"
+  },
+  "nl": {
+   "caption": "De Casa Patronal van Concha y Toro in Pirque, Chili.",
+   "alt": "Gevel met zuilengang en fonteintuin van de Casa Patronal van Concha y Toro in Pirque"
+  },
+  "pl": {
+   "caption": "Casa Patronal winiarni Concha y Toro w Pirque w Chile.",
+   "alt": "Fasada z kolumnadą i ogród z fontanną Casa Patronal winiarni Concha y Toro w Pirque"
+  },
+  "pt": {
+   "caption": "A Casa Patronal da Concha y Toro em Pirque, Chile.",
+   "alt": "Fachada com colunata e jardim com fonte da Casa Patronal da Concha y Toro em Pirque"
+  },
+  "pt-br": {
+   "caption": "A Casa Patronal da Concha y Toro em Pirque, Chile.",
+   "alt": "Fachada com colunata e jardim com fonte da Casa Patronal da Concha y Toro em Pirque"
+  },
+  "ru": {
+   "caption": "Casa Patronal винодельни Concha y Toro в Пирке, Чили.",
+   "alt": "Фасад с колоннадой и сад с фонтаном Casa Patronal винодельни Concha y Toro в Пирке"
+  },
+  "el": {
+   "caption": "Η Casa Patronal της Concha y Toro στο Pirque της Χιλής.",
+   "alt": "Πρόσοψη με κιονοστοιχία και κήπος με σιντριβάνι της Casa Patronal της Concha y Toro στο Pirque"
+  },
+  "ja": {
+   "caption": "チリ、ピルケにあるコンチャ・イ・トロのカサ・パトロナル。",
+   "alt": "ピルケにあるコンチャ・イ・トロのカサ・パトロナルの列柱の正面と噴水の庭"
+  },
+  "ko": {
+   "caption": "칠레 피르케에 있는 콘차 이 토로의 카사 파트로날.",
+   "alt": "피르케에 있는 콘차 이 토로 카사 파트로날의 열주 정면과 분수 정원"
+  },
+  "zh-hans": {
+   "caption": "智利皮尔克的干露酒庄（Concha y Toro）主宅。",
+   "alt": "皮尔克的干露酒庄（Concha y Toro）主宅柱廊立面与喷泉花园"
+  },
+  "zh-hant": {
+   "caption": "智利皮爾克的干露酒莊（Concha y Toro）主宅。",
+   "alt": "皮爾克的干露酒莊（Concha y Toro）主宅柱廊立面與噴泉花園"
+  },
+  "ar": {
+   "caption": "كاسا باترونال لكونتشا إي تورو في بيركي، تشيلي.",
+   "alt": "واجهة ذات أعمدة وحديقة بنافورة في كاسا باترونال لكونتشا إي تورو في بيركي"
+  },
+  "th": {
+   "caption": "กาซาปาโตรนัลของคอนชาอีโตโรที่ปีร์เก ประเทศชิลี",
+   "alt": "ด้านหน้ามีแนวเสาและสวนน้ำพุของกาซาปาโตรนัลของคอนชาอีโตโร ที่ปีร์เก"
+  },
+  "tr": {
+   "caption": "Şili'de Pirque'deki Concha y Toro Casa Patronal'ı.",
+   "alt": "Pirque'deki Concha y Toro Casa Patronal'ın sütunlu cephesi ve fıskiyeli bahçesi"
+  }
+ },
+ "laguardia-autumn-vineyard-rioja-alavesa": {
+  "en": {
+   "caption": "A vineyard in autumn near Laguardia, in the Rioja Alavesa (Basque Country).",
+   "alt": "Rows of vines in red and gold autumn colours near Laguardia, Rioja Alavesa",
+   "title": "Autumn vineyard near Laguardia, Rioja Alavesa"
+  },
+  "it": {
+   "caption": "Un vigneto in autunno vicino a Laguardia, nella Rioja Alavesa (Paesi Baschi).",
+   "alt": "Filari di viti dai colori autunnali rossi e oro vicino a Laguardia, Rioja Alavesa",
+   "title": "Vigneto d'autunno vicino a Laguardia, Rioja Alavesa"
+  },
+  "fr": {
+   "caption": "Une vigne en automne près de Laguardia, dans la Rioja Alavesa (Pays basque).",
+   "alt": "Rangs de vigne aux couleurs d'automne rouge et or près de Laguardia, Rioja Alavesa",
+   "title": "Vigne d'automne près de Laguardia, Rioja Alavesa"
+  },
+  "es": {
+   "caption": "Un viñedo en otoño cerca de Laguardia, en la Rioja Alavesa (País Vasco).",
+   "alt": "Hileras de vides con colores otoñales rojos y dorados cerca de Laguardia, Rioja Alavesa",
+   "title": "Viñedo otoñal cerca de Laguardia, Rioja Alavesa"
+  },
+  "es-ar": {
+   "caption": "Un viñedo en otoño cerca de Laguardia, en la Rioja Alavesa (País Vasco).",
+   "alt": "Hileras de vides con colores otoñales rojos y dorados cerca de Laguardia, Rioja Alavesa",
+   "title": "Viñedo otoñal cerca de Laguardia, Rioja Alavesa"
+  },
+  "de": {
+   "caption": "Ein Weinberg im Herbst bei Laguardia in der Rioja Alavesa (Baskenland).",
+   "alt": "Rebzeilen in roten und goldenen Herbstfarben bei Laguardia, Rioja Alavesa"
+  },
+  "nl": {
+   "caption": "Een wijngaard in de herfst bij Laguardia in de Rioja Alavesa (Baskenland).",
+   "alt": "Rijen wijnstokken in rode en gouden herfstkleuren bij Laguardia, Rioja Alavesa"
+  },
+  "pl": {
+   "caption": "Jesienna winnica koło Laguardii w Rioja Alavesa (Kraj Basków).",
+   "alt": "Rzędy winorośli w czerwonych i złotych barwach jesieni koło Laguardii, Rioja Alavesa"
+  },
+  "pt": {
+   "caption": "Uma vinha no outono perto de Laguardia, na Rioja Alavesa (País Basco).",
+   "alt": "Linhas de videiras com cores outonais vermelhas e douradas perto de Laguardia, Rioja Alavesa"
+  },
+  "pt-br": {
+   "caption": "Um vinhedo no outono perto de Laguardia, na Rioja Alavesa (País Basco).",
+   "alt": "Fileiras de videiras com cores de outono vermelhas e douradas perto de Laguardia, Rioja Alavesa"
+  },
+  "ru": {
+   "caption": "Осенний виноградник близ Лагуардии в Риохе-Алавесе (Страна Басков).",
+   "alt": "Ряды лоз в красных и золотых осенних тонах близ Лагуардии, Риоха-Алавеса"
+  },
+  "el": {
+   "caption": "Αμπελώνας το φθινόπωρο κοντά στη Laguardia, στη Rioja Alavesa (Χώρα των Βάσκων).",
+   "alt": "Σειρές αμπελιών με κόκκινα και χρυσά φθινοπωρινά χρώματα κοντά στη Laguardia, Rioja Alavesa"
+  },
+  "ja": {
+   "caption": "リオハ・アラベサ（バスク州）のラグアルディア近郊、秋のブドウ畑。",
+   "alt": "ラグアルディア近郊、赤と金に色づいた秋のブドウの列（リオハ・アラベサ）"
+  },
+  "ko": {
+   "caption": "리오하 알라베사(바스크) 라과르디아 인근의 가을 포도밭.",
+   "alt": "라과르디아 인근, 붉고 금빛으로 물든 가을 포도나무 줄(리오하 알라베사)"
+  },
+  "zh-hans": {
+   "caption": "阿拉瓦里奥哈（巴斯克）拉瓜迪亚附近的秋日葡萄园。",
+   "alt": "拉瓜迪亚附近染上红色与金色秋色的葡萄行（阿拉瓦里奥哈）"
+  },
+  "zh-hant": {
+   "caption": "阿拉瓦利奧哈（巴斯克）拉瓜迪亞附近的秋日葡萄園。",
+   "alt": "拉瓜迪亞附近染上紅色與金色秋色的葡萄行（阿拉瓦利奧哈）"
+  },
+  "ar": {
+   "caption": "كرم في الخريف قرب لاغوارديا في ريوخا ألافيسا (إقليم الباسك).",
+   "alt": "صفوف كروم بألوان الخريف الحمراء والذهبية قرب لاغوارديا، ريوخا ألافيسا"
+  },
+  "th": {
+   "caption": "ไร่องุ่นฤดูใบไม้ร่วงใกล้ลากวาร์เดีย ในรีโอคาอาลาเบซา (แคว้นบาสก์)",
+   "alt": "แถวต้นองุ่นสีแดงและทองยามฤดูใบไม้ร่วงใกล้ลากวาร์เดีย รีโอคาอาลาเบซา"
+  },
+  "tr": {
+   "caption": "Rioja Alavesa'da (Bask Bölgesi) Laguardia yakınlarında sonbaharda bir bağ.",
+   "alt": "Laguardia yakınlarında kırmızı ve altın sonbahar renklerinde asma sıraları, Rioja Alavesa"
+  }
+ },
+ "priorat-vineyards-escaladei-catalonia": {
+  "en": {
+   "caption": "Vineyards at Escaladei, in the Priorat, Catalonia.",
+   "alt": "Green vineyards on the hills of Escaladei in the Priorat, Catalonia",
+   "title": "Priorat vineyards at Escaladei"
+  },
+  "it": {
+   "caption": "Vigneti a Escaladei, nel Priorat, in Catalogna.",
+   "alt": "Vigneti verdi sulle colline di Escaladei, nel Priorat, Catalogna",
+   "title": "Vigneti del Priorat a Escaladei"
+  },
+  "fr": {
+   "caption": "Vignes à Escaladei, dans le Priorat, en Catalogne.",
+   "alt": "Vignes vertes sur les collines d'Escaladei, dans le Priorat, en Catalogne",
+   "title": "Vignobles du Priorat à Escaladei"
+  },
+  "es": {
+   "caption": "Viñedos en Escaladei, en el Priorat, Cataluña.",
+   "alt": "Viñedos verdes en las colinas de Escaladei, en el Priorat, Cataluña",
+   "title": "Viñedos del Priorat en Escaladei"
+  },
+  "es-ar": {
+   "caption": "Viñedos en Escaladei, en el Priorat, Cataluña.",
+   "alt": "Viñedos verdes en las colinas de Escaladei, en el Priorat, Cataluña",
+   "title": "Viñedos del Priorat en Escaladei"
+  },
+  "de": {
+   "caption": "Weinberge bei Escaladei im Priorat, Katalonien.",
+   "alt": "Grüne Weinberge auf den Hügeln von Escaladei im Priorat, Katalonien"
+  },
+  "nl": {
+   "caption": "Wijngaarden bij Escaladei in de Priorat, Catalonië.",
+   "alt": "Groene wijngaarden op de heuvels van Escaladei in de Priorat, Catalonië"
+  },
+  "pl": {
+   "caption": "Winnice w Escaladei w Priorat, Katalonia.",
+   "alt": "Zielone winnice na wzgórzach Escaladei w Priorat, Katalonia"
+  },
+  "pt": {
+   "caption": "Vinhas em Escaladei, no Priorat, Catalunha.",
+   "alt": "Vinhas verdes nas colinas de Escaladei, no Priorat, Catalunha"
+  },
+  "pt-br": {
+   "caption": "Vinhedos em Escaladei, no Priorat, Catalunha.",
+   "alt": "Vinhedos verdes nas colinas de Escaladei, no Priorat, Catalunha"
+  },
+  "ru": {
+   "caption": "Виноградники в Эскаладей, Приорат, Каталония.",
+   "alt": "Зелёные виноградники на холмах Эскаладей в Приорате, Каталония"
+  },
+  "el": {
+   "caption": "Αμπελώνες στο Escaladei, στο Priorat της Καταλονίας.",
+   "alt": "Πράσινοι αμπελώνες στους λόφους του Escaladei στο Priorat, Καταλονία"
+  },
+  "ja": {
+   "caption": "カタルーニャ、プリオラートのエスカラデイのブドウ畑。",
+   "alt": "カタルーニャ、プリオラートのエスカラデイの丘に広がる緑のブドウ畑"
+  },
+  "ko": {
+   "caption": "카탈루냐 프리오랏 에스칼라데이의 포도밭.",
+   "alt": "카탈루냐 프리오랏 에스칼라데이 언덕의 푸른 포도밭"
+  },
+  "zh-hans": {
+   "caption": "加泰罗尼亚普里奥拉托埃斯卡拉德伊的葡萄园。",
+   "alt": "加泰罗尼亚普里奥拉托埃斯卡拉德伊山丘上的绿色葡萄园"
+  },
+  "zh-hant": {
+   "caption": "加泰隆尼亞普里奧拉托埃斯卡拉德伊的葡萄園。",
+   "alt": "加泰隆尼亞普里奧拉托埃斯卡拉德伊山丘上的綠色葡萄園"
+  },
+  "ar": {
+   "caption": "كروم في إسكالاديي ضمن بريورات، كتالونيا.",
+   "alt": "كروم خضراء على تلال إسكالاديي في بريورات، كتالونيا"
+  },
+  "th": {
+   "caption": "ไร่องุ่นที่เอสกาลาเดย์ ในพรีออรัต แคว้นกาตาลุญญา",
+   "alt": "ไร่องุ่นสีเขียวบนเนินเขาเอสกาลาเดย์ในพรีออรัต แคว้นกาตาลุญญา"
+  },
+  "tr": {
+   "caption": "Katalonya'da Priorat'taki Escaladei'de bağlar.",
+   "alt": "Katalonya'da Priorat'taki Escaladei tepelerinde yeşil bağlar"
+  }
+ },
+ "ribeiro-vineyards-a-arnoia-galicia": {
+  "en": {
+   "caption": "Vineyards of the Ribeiro wine area at A Arnoia, by the Miño, Galicia.",
+   "alt": "Green vineyard rows below wooded slopes at A Arnoia, Galicia",
+   "title": "Ribeiro vineyards at A Arnoia, Galicia"
+  },
+  "it": {
+   "caption": "Vigneti della zona del Ribeiro ad A Arnoia, sul Miño, in Galizia.",
+   "alt": "Filari verdi sotto pendii boscosi ad A Arnoia, Galizia",
+   "title": "Vigneti del Ribeiro ad A Arnoia, Galizia"
+  },
+  "fr": {
+   "caption": "Vignes de l'aire du Ribeiro à A Arnoia, au bord du Miño, en Galice.",
+   "alt": "Rangs de vigne verts sous des pentes boisées à A Arnoia, en Galice",
+   "title": "Vignobles du Ribeiro à A Arnoia, Galice"
+  },
+  "es": {
+   "caption": "Viñedos de la zona del Ribeiro en A Arnoia, junto al Miño, Galicia.",
+   "alt": "Hileras verdes de viñedo bajo laderas boscosas en A Arnoia, Galicia",
+   "title": "Viñedos del Ribeiro en A Arnoia, Galicia"
+  },
+  "es-ar": {
+   "caption": "Viñedos de la zona del Ribeiro en A Arnoia, junto al Miño, Galicia.",
+   "alt": "Hileras verdes de viñedo bajo laderas boscosas en A Arnoia, Galicia",
+   "title": "Viñedos del Ribeiro en A Arnoia, Galicia"
+  },
+  "de": {
+   "caption": "Weinberge des Ribeiro in A Arnoia am Miño, Galicien.",
+   "alt": "Grüne Rebzeilen unter bewaldeten Hängen in A Arnoia, Galicien"
+  },
+  "nl": {
+   "caption": "Wijngaarden van de Ribeiro in A Arnoia aan de Miño, Galicië.",
+   "alt": "Groene rijen wijnstokken onder beboste hellingen in A Arnoia, Galicië"
+  },
+  "pl": {
+   "caption": "Winnice strefy Ribeiro w A Arnoia nad Minho, Galicja.",
+   "alt": "Zielone rzędy winorośli pod zalesionymi zboczami w A Arnoia, Galicja"
+  },
+  "pt": {
+   "caption": "Vinhas da zona do Ribeiro em A Arnoia, junto ao Minho, Galiza.",
+   "alt": "Linhas verdes de vinha sob encostas arborizadas em A Arnoia, Galiza"
+  },
+  "pt-br": {
+   "caption": "Vinhedos da zona do Ribeiro em A Arnoia, às margens do Minho, Galícia.",
+   "alt": "Fileiras verdes de vinhedo sob encostas arborizadas em A Arnoia, Galícia"
+  },
+  "ru": {
+   "caption": "Виноградники зоны Рибейро в А-Арнойе на реке Миньо, Галисия.",
+   "alt": "Зелёные ряды лоз под лесистыми склонами в А-Арнойе, Галисия"
+  },
+  "el": {
+   "caption": "Αμπελώνες της ζώνης Ribeiro στην A Arnoia, δίπλα στον Miño, Γαλικία.",
+   "alt": "Πράσινες σειρές αμπελιών κάτω από δασωμένες πλαγιές στην A Arnoia, Γαλικία"
+  },
+  "ja": {
+   "caption": "ガリシア、ミーニョ川沿いのア・アルノイアにあるリベイロ産地のブドウ畑。",
+   "alt": "ガリシア、ア・アルノイアの森の斜面の下に並ぶ緑のブドウの列"
+  },
+  "ko": {
+   "caption": "갈리시아 미뉴강 변 아 아르노이아의 리베이로 산지 포도밭.",
+   "alt": "갈리시아 아 아르노이아의 숲이 우거진 비탈 아래 푸른 포도나무 줄"
+  },
+  "zh-hans": {
+   "caption": "加利西亚米尼奥河畔阿阿尔诺亚的里贝罗产区葡萄园。",
+   "alt": "加利西亚阿阿尔诺亚林木山坡下的绿色葡萄行"
+  },
+  "zh-hant": {
+   "caption": "加利西亞米尼奧河畔阿阿爾諾亞的里貝羅產區葡萄園。",
+   "alt": "加利西亞阿阿爾諾亞林木山坡下的綠色葡萄行"
+  },
+  "ar": {
+   "caption": "كروم منطقة ريبيرو في آ أرنويا على نهر مينيو، غاليسيا.",
+   "alt": "صفوف كروم خضراء تحت منحدرات مشجرة في آ أرنويا، غاليسيا"
+  },
+  "th": {
+   "caption": "ไร่องุ่นเขตรีเบย์โรที่อาอาร์นอยอา ริมแม่น้ำมิญโญ แคว้นกาลิเซีย",
+   "alt": "แถวต้นองุ่นสีเขียวใต้เนินป่าที่อาอาร์นอยอา แคว้นกาลิเซีย"
+  },
+  "tr": {
+   "caption": "Galiçya'da Miño kıyısındaki A Arnoia'da Ribeiro bölgesinin bağları.",
+   "alt": "Galiçya'da A Arnoia'da ormanlık yamaçların altında yeşil asma sıraları"
+  }
+ },
+ "sandeman-port-lodge-vila-nova-de-gaia": {
+  "en": {
+   "caption": "The Sandeman Port lodge in Vila Nova de Gaia, Portugal.",
+   "alt": "Arcaded façade of the Sandeman Port lodge with its caped silhouette sign",
+   "title": "Sandeman Port lodge, Vila Nova de Gaia"
+  },
+  "it": {
+   "caption": "La cantina di Porto Sandeman a Vila Nova de Gaia, in Portogallo.",
+   "alt": "Facciata porticata della cantina di Porto Sandeman con l'insegna della figura col mantello",
+   "title": "La cantina di Porto Sandeman, Vila Nova de Gaia"
+  },
+  "fr": {
+   "caption": "Le chai de porto Sandeman à Vila Nova de Gaia, au Portugal.",
+   "alt": "Façade à arcades du chai de porto Sandeman et son enseigne à la silhouette en cape",
+   "title": "Le chai de porto Sandeman, Vila Nova de Gaia"
+  },
+  "es": {
+   "caption": "La bodega de Oporto Sandeman en Vila Nova de Gaia, Portugal.",
+   "alt": "Fachada con soportales de la bodega de Oporto Sandeman y su letrero con la figura de la capa",
+   "title": "La bodega de Oporto Sandeman, Vila Nova de Gaia"
+  },
+  "es-ar": {
+   "caption": "La bodega de Oporto Sandeman en Vila Nova de Gaia, Portugal.",
+   "alt": "Fachada con soportales de la bodega de Oporto Sandeman y su letrero con la figura de la capa",
+   "title": "La bodega de Oporto Sandeman, Vila Nova de Gaia"
+  },
+  "de": {
+   "caption": "Die Portweinkellerei Sandeman in Vila Nova de Gaia, Portugal.",
+   "alt": "Arkadenfassade der Portweinkellerei Sandeman mit der Silhouette im Umhang"
+  },
+  "nl": {
+   "caption": "Het portwijnhuis Sandeman in Vila Nova de Gaia, Portugal.",
+   "alt": "Gevel met arcaden van het portwijnhuis Sandeman met het silhouet in cape"
+  },
+  "pl": {
+   "caption": "Piwnice porto Sandeman w Vila Nova de Gaia w Portugalii.",
+   "alt": "Fasada z arkadami piwnic porto Sandeman z sylwetką w pelerynie"
+  },
+  "pt": {
+   "caption": "A cave de vinho do Porto Sandeman em Vila Nova de Gaia, Portugal.",
+   "alt": "Fachada com arcadas da cave de vinho do Porto Sandeman com a silhueta de capa"
+  },
+  "pt-br": {
+   "caption": "A adega de vinho do Porto Sandeman em Vila Nova de Gaia, Portugal.",
+   "alt": "Fachada com arcadas da adega de vinho do Porto Sandeman com a silhueta de capa"
+  },
+  "ru": {
+   "caption": "Портвейновый погреб Sandeman в Вила-Нова-ди-Гая, Португалия.",
+   "alt": "Фасад с аркадами портвейнового погреба Sandeman с силуэтом в плаще"
+  },
+  "el": {
+   "caption": "Η κάβα Πόρτο Sandeman στη Vila Nova de Gaia της Πορτογαλίας.",
+   "alt": "Πρόσοψη με καμάρες της κάβας Πόρτο Sandeman με τη φιγούρα με την κάπα"
+  },
+  "ja": {
+   "caption": "ポルトガル、ヴィラ・ノヴァ・デ・ガイアにあるサンデマンのポートワイン貯蔵庫。",
+   "alt": "マントの人影の看板を掲げたサンデマンのポートワイン貯蔵庫のアーケードの正面"
+  },
+  "ko": {
+   "caption": "포르투갈 빌라 노바 드 가이아의 샌드맨 포트 와인 저장고.",
+   "alt": "망토를 두른 실루엣 간판이 있는 샌드맨 포트 와인 저장고의 아케이드 정면"
+  },
+  "zh-hans": {
+   "caption": "葡萄牙加亚新城的山迪文（Sandeman）波特酒窖。",
+   "alt": "山迪文（Sandeman）波特酒窖的拱廊立面和披斗篷的人形招牌"
+  },
+  "zh-hant": {
+   "caption": "葡萄牙加亞新城的山迪文（Sandeman）波特酒窖。",
+   "alt": "山迪文（Sandeman）波特酒窖的拱廊立面和披斗篷的人形招牌"
+  },
+  "ar": {
+   "caption": "قبو نبيذ البورت ساندمان في فيلا نوفا دي غايا، البرتغال.",
+   "alt": "واجهة ذات أقواس لقبو نبيذ البورت ساندمان مع لافتة الشخص ذي العباءة"
+  },
+  "th": {
+   "caption": "ห้องเก็บไวน์พอร์ตแซนดีแมนที่วีลาโนวาดือไกอา ประเทศโปรตุเกส",
+   "alt": "ด้านหน้ามีซุ้มโค้งของห้องเก็บพอร์ตแซนดีแมน พร้อมป้ายรูปคนสวมเสื้อคลุม"
+  },
+  "tr": {
+   "caption": "Portekiz'de Vila Nova de Gaia'daki Sandeman porto mahzeni.",
+   "alt": "Pelerinli siluet tabelasıyla Sandeman porto mahzeninin kemerli cephesi"
+  }
+ },
+ "sancerre-vineyards-loire-valley": {
+  "en": {
+   "caption": "Vineyards near Sancerre, in the Cher department of the Loire Valley.",
+   "alt": "Vineyard in the foreground and rolling fields beyond near Sancerre",
+   "title": "Vineyards near Sancerre"
+  },
+  "it": {
+   "caption": "Vigneti vicino a Sancerre, nel dipartimento dello Cher, Valle della Loira.",
+   "alt": "Vigneto in primo piano e campi ondulati vicino a Sancerre",
+   "title": "Vigneti vicino a Sancerre"
+  },
+  "fr": {
+   "caption": "Vignes près de Sancerre, dans le Cher, vallée de la Loire.",
+   "alt": "Vigne au premier plan et champs vallonnés près de Sancerre",
+   "title": "Vignes près de Sancerre"
+  },
+  "es": {
+   "caption": "Viñedos cerca de Sancerre, en el departamento del Cher, valle del Loira.",
+   "alt": "Viñedo en primer plano y campos ondulados cerca de Sancerre",
+   "title": "Viñedos cerca de Sancerre"
+  },
+  "es-ar": {
+   "caption": "Viñedos cerca de Sancerre, en el departamento del Cher, valle del Loira.",
+   "alt": "Viñedo en primer plano y campos ondulados cerca de Sancerre",
+   "title": "Viñedos cerca de Sancerre"
+  },
+  "de": {
+   "caption": "Weinberge bei Sancerre im Département Cher, Loiretal.",
+   "alt": "Weinberg im Vordergrund und sanfte Felder bei Sancerre"
+  },
+  "nl": {
+   "caption": "Wijngaarden bij Sancerre in het departement Cher, Loiredal.",
+   "alt": "Wijngaard op de voorgrond en glooiende velden bij Sancerre"
+  },
+  "pl": {
+   "caption": "Winnice koło Sancerre w departamencie Cher, Dolina Loary.",
+   "alt": "Winnica na pierwszym planie i faliste pola koło Sancerre"
+  },
+  "pt": {
+   "caption": "Vinhas perto de Sancerre, no departamento do Cher, vale do Loire.",
+   "alt": "Vinha em primeiro plano e campos ondulados perto de Sancerre"
+  },
+  "pt-br": {
+   "caption": "Vinhedos perto de Sancerre, no departamento do Cher, vale do Loire.",
+   "alt": "Vinhedo em primeiro plano e campos ondulados perto de Sancerre"
+  },
+  "ru": {
+   "caption": "Виноградники близ Сансера, департамент Шер, долина Луары.",
+   "alt": "Виноградник на переднем плане и холмистые поля близ Сансера"
+  },
+  "el": {
+   "caption": "Αμπελώνες κοντά στο Sancerre, στον νομό Cher, κοιλάδα του Λίγηρα.",
+   "alt": "Αμπελώνας σε πρώτο πλάνο και κυματιστά χωράφια κοντά στο Sancerre"
+  },
+  "ja": {
+   "caption": "ロワール渓谷、シェール県サンセール近郊のブドウ畑。",
+   "alt": "サンセール近郊、手前のブドウ畑と奥に広がるなだらかな畑"
+  },
+  "ko": {
+   "caption": "루아르 계곡 셰르주 상세르 인근의 포도밭.",
+   "alt": "상세르 인근, 앞쪽의 포도밭과 뒤로 펼쳐진 완만한 들판"
+  },
+  "zh-hans": {
+   "caption": "卢瓦尔河谷谢尔省桑塞尔附近的葡萄园。",
+   "alt": "桑塞尔附近，前景是葡萄园，远处是起伏的田野"
+  },
+  "zh-hant": {
+   "caption": "羅亞爾河谷謝爾省松塞爾附近的葡萄園。",
+   "alt": "松塞爾附近，前景是葡萄園，遠處是起伏的田野"
+  },
+  "ar": {
+   "caption": "كروم قرب سانسير في مقاطعة شير، وادي اللوار.",
+   "alt": "كرم في المقدمة وحقول متموجة قرب سانسير"
+  },
+  "th": {
+   "caption": "ไร่องุ่นใกล้ซ็องแซร์ จังหวัดแชร์ หุบเขาลัวร์",
+   "alt": "ไร่องุ่นเบื้องหน้าและทุ่งนาลูกคลื่นใกล้ซ็องแซร์"
+  },
+  "tr": {
+   "caption": "Loire Vadisi'nde, Cher ilinde Sancerre yakınlarındaki bağlar.",
+   "alt": "Sancerre yakınlarında önde bir bağ, arkada dalgalı tarlalar"
+  }
+ },
+ "serralunga-d-alba-castle-langhe-vineyards": {
+  "en": {
+   "caption": "Serralunga d'Alba and its castle above the vineyards of the Langhe, Piedmont.",
+   "alt": "Serralunga d'Alba with its castle tower rising above vineyards",
+   "title": "Serralunga d'Alba in the Langhe"
+  },
+  "it": {
+   "caption": "Serralunga d'Alba e il suo castello sopra i vigneti delle Langhe, in Piemonte.",
+   "alt": "Serralunga d'Alba con la torre del castello sopra i vigneti",
+   "title": "Serralunga d'Alba nelle Langhe"
+  },
+  "fr": {
+   "caption": "Serralunga d'Alba et son château au-dessus des vignes des Langhe, dans le Piémont.",
+   "alt": "Serralunga d'Alba et la tour de son château au-dessus des vignes",
+   "title": "Serralunga d'Alba dans les Langhe"
+  },
+  "es": {
+   "caption": "Serralunga d'Alba y su castillo sobre los viñedos de las Langhe, Piamonte.",
+   "alt": "Serralunga d'Alba con la torre de su castillo sobre los viñedos",
+   "title": "Serralunga d'Alba en las Langhe"
+  },
+  "es-ar": {
+   "caption": "Serralunga d'Alba y su castillo sobre los viñedos de las Langhe, Piamonte.",
+   "alt": "Serralunga d'Alba con la torre de su castillo sobre los viñedos",
+   "title": "Serralunga d'Alba en las Langhe"
+  },
+  "de": {
+   "caption": "Serralunga d'Alba und seine Burg über den Weinbergen der Langhe, Piemont.",
+   "alt": "Serralunga d'Alba mit seinem Burgturm über den Weinbergen"
+  },
+  "nl": {
+   "caption": "Serralunga d'Alba en zijn kasteel boven de wijngaarden van de Langhe, Piëmont.",
+   "alt": "Serralunga d'Alba met de kasteeltoren boven de wijngaarden"
+  },
+  "pl": {
+   "caption": "Serralunga d'Alba i jej zamek nad winnicami Langhe w Piemoncie.",
+   "alt": "Serralunga d'Alba z wieżą zamku nad winnicami"
+  },
+  "pt": {
+   "caption": "Serralunga d'Alba e o seu castelo sobre as vinhas das Langhe, Piemonte.",
+   "alt": "Serralunga d'Alba com a torre do castelo acima das vinhas"
+  },
+  "pt-br": {
+   "caption": "Serralunga d'Alba e seu castelo acima dos vinhedos das Langhe, Piemonte.",
+   "alt": "Serralunga d'Alba com a torre do castelo acima dos vinhedos"
+  },
+  "ru": {
+   "caption": "Серралунга-д'Альба и её замок над виноградниками Ланге, Пьемонт.",
+   "alt": "Серралунга-д'Альба с башней замка над виноградниками"
+  },
+  "el": {
+   "caption": "Το Serralunga d'Alba και το κάστρο του πάνω από τους αμπελώνες των Langhe, Πιεμόντε.",
+   "alt": "Το Serralunga d'Alba με τον πύργο του κάστρου πάνω από τους αμπελώνες"
+  },
+  "ja": {
+   "caption": "ピエモンテ、ランゲのブドウ畑の上に建つセッラルンガ・ダルバと城。",
+   "alt": "ブドウ畑の上にそびえる城の塔とセッラルンガ・ダルバの村"
+  },
+  "ko": {
+   "caption": "피에몬테 랑게의 포도밭 위에 자리한 세랄룽가 달바와 성.",
+   "alt": "포도밭 위로 성탑이 솟은 세랄룽가 달바 마을"
+  },
+  "zh-hans": {
+   "caption": "皮埃蒙特朗格葡萄园之上的塞拉伦加达尔巴村与城堡。",
+   "alt": "塞拉伦加达尔巴村和高耸于葡萄园之上的城堡塔楼"
+  },
+  "zh-hant": {
+   "caption": "皮埃蒙特朗格葡萄園之上的塞拉倫加達爾巴村與城堡。",
+   "alt": "塞拉倫加達爾巴村和高聳於葡萄園之上的城堡塔樓"
+  },
+  "ar": {
+   "caption": "سيرالونغا دالبا وقلعتها فوق كروم لانغه، بييمونتي.",
+   "alt": "سيرالونغا دالبا وبرج قلعتها فوق الكروم"
+  },
+  "th": {
+   "caption": "เซอร์ราลุงกาดัลบาและปราสาทเหนือไร่องุ่นในลังเก แคว้นพีดมอนต์",
+   "alt": "เซอร์ราลุงกาดัลบาและหอคอยปราสาทเหนือไร่องุ่น"
+  },
+  "tr": {
+   "caption": "Piyemonte'de Langhe bağlarının üzerinde Serralunga d'Alba ve kalesi.",
+   "alt": "Bağların üzerinde kale kulesiyle Serralunga d'Alba"
+  }
+ },
+ "tokaj-vineyard-hungary": {
+  "en": {
+   "caption": "A vineyard near Tokaj, Hungary.",
+   "alt": "Country road between green vineyards and trees near Tokaj",
+   "title": "Vineyard near Tokaj, Hungary"
+  },
+  "it": {
+   "caption": "Un vigneto vicino a Tokaj, in Ungheria.",
+   "alt": "Strada di campagna tra vigneti e alberi vicino a Tokaj",
+   "title": "Vigneto vicino a Tokaj, Ungheria"
+  },
+  "fr": {
+   "caption": "Une vigne près de Tokaj, en Hongrie.",
+   "alt": "Chemin entre des vignes vertes et des arbres près de Tokaj",
+   "title": "Vigne près de Tokaj, Hongrie"
+  },
+  "es": {
+   "caption": "Un viñedo cerca de Tokaj, Hungría.",
+   "alt": "Camino entre viñedos verdes y árboles cerca de Tokaj",
+   "title": "Viñedo cerca de Tokaj, Hungría"
+  },
+  "es-ar": {
+   "caption": "Un viñedo cerca de Tokaj, Hungría.",
+   "alt": "Camino entre viñedos verdes y árboles cerca de Tokaj",
+   "title": "Viñedo cerca de Tokaj, Hungría"
+  },
+  "de": {
+   "caption": "Ein Weinberg bei Tokaj, Ungarn.",
+   "alt": "Feldweg zwischen grünen Weinbergen und Bäumen bei Tokaj"
+  },
+  "nl": {
+   "caption": "Een wijngaard bij Tokaj, Hongarije.",
+   "alt": "Landweg tussen groene wijngaarden en bomen bij Tokaj"
+  },
+  "pl": {
+   "caption": "Winnica koło Tokaju na Węgrzech.",
+   "alt": "Polna droga między zielonymi winnicami i drzewami koło Tokaju"
+  },
+  "pt": {
+   "caption": "Uma vinha perto de Tokaj, Hungria.",
+   "alt": "Caminho entre vinhas verdes e árvores perto de Tokaj"
+  },
+  "pt-br": {
+   "caption": "Um vinhedo perto de Tokaj, Hungria.",
+   "alt": "Estrada de terra entre vinhedos verdes e árvores perto de Tokaj"
+  },
+  "ru": {
+   "caption": "Виноградник близ Токая, Венгрия.",
+   "alt": "Просёлочная дорога между зелёными виноградниками и деревьями близ Токая"
+  },
+  "el": {
+   "caption": "Αμπελώνας κοντά στο Τοκάι της Ουγγαρίας.",
+   "alt": "Χωματόδρομος ανάμεσα σε πράσινους αμπελώνες και δέντρα κοντά στο Τοκάι"
+  },
+  "ja": {
+   "caption": "ハンガリー、トカイ近郊のブドウ畑。",
+   "alt": "トカイ近郊の緑のブドウ畑と木々の間の農道"
+  },
+  "ko": {
+   "caption": "헝가리 토커이 인근의 포도밭.",
+   "alt": "토커이 인근 푸른 포도밭과 나무 사이의 시골길"
+  },
+  "zh-hans": {
+   "caption": "匈牙利托卡伊附近的葡萄园。",
+   "alt": "托卡伊附近绿色葡萄园与树木之间的乡间小路"
+  },
+  "zh-hant": {
+   "caption": "匈牙利托卡伊附近的葡萄園。",
+   "alt": "托卡伊附近綠色葡萄園與樹木之間的鄉間小路"
+  },
+  "ar": {
+   "caption": "كرم قرب توكاي، المجر.",
+   "alt": "طريق ريفي بين كروم خضراء وأشجار قرب توكاي"
+  },
+  "th": {
+   "caption": "ไร่องุ่นใกล้โตไก ประเทศฮังการี",
+   "alt": "ถนนในชนบทระหว่างไร่องุ่นสีเขียวและต้นไม้ใกล้โตไก"
+  },
+  "tr": {
+   "caption": "Macaristan'da Tokaj yakınlarında bir bağ.",
+   "alt": "Tokaj yakınlarında yeşil bağlar ve ağaçlar arasında köy yolu"
+  }
+ },
+ "groot-constantia-manor-house-cape-town": {
+  "en": {
+   "caption": "The manor house of Groot Constantia near Cape Town; the estate goes back to a land grant of 1685.",
+   "alt": "White Cape Dutch gabled manor house of Groot Constantia",
+   "title": "Groot Constantia manor house"
+  },
+  "it": {
+   "caption": "La casa padronale di Groot Constantia vicino a Città del Capo; la tenuta risale a una concessione di terre del 1685.",
+   "alt": "Casa padronale bianca in stile Cape Dutch di Groot Constantia",
+   "title": "La casa padronale di Groot Constantia"
+  },
+  "fr": {
+   "caption": "Le manoir de Groot Constantia près du Cap ; le domaine remonte à une concession de terres de 1685.",
+   "alt": "Manoir blanc à pignons de style hollandais du Cap à Groot Constantia",
+   "title": "Le manoir de Groot Constantia"
+  },
+  "es": {
+   "caption": "La casa señorial de Groot Constantia, cerca de Ciudad del Cabo; la finca se remonta a una concesión de tierras de 1685.",
+   "alt": "Casa señorial blanca de estilo holandés del Cabo en Groot Constantia",
+   "title": "La casa señorial de Groot Constantia"
+  },
+  "es-ar": {
+   "caption": "La casa señorial de Groot Constantia, cerca de Ciudad del Cabo; la finca se remonta a una concesión de tierras de 1685.",
+   "alt": "Casa señorial blanca de estilo holandés del Cabo en Groot Constantia",
+   "title": "La casa señorial de Groot Constantia"
+  },
+  "de": {
+   "caption": "Das Herrenhaus von Groot Constantia bei Kapstadt; das Gut geht auf eine Landvergabe von 1685 zurück.",
+   "alt": "Weißes Herrenhaus im kapholländischen Giebelstil in Groot Constantia"
+  },
+  "nl": {
+   "caption": "Het herenhuis van Groot Constantia bij Kaapstad; het landgoed gaat terug op een landtoekenning uit 1685.",
+   "alt": "Wit herenhuis met Kaaps-Hollandse gevels in Groot Constantia"
+  },
+  "pl": {
+   "caption": "Dwór Groot Constantia koło Kapsztadu; posiadłość sięga nadania ziemi z 1685 roku.",
+   "alt": "Biały dwór z szczytami w stylu przylądkowo-holenderskim w Groot Constantia"
+  },
+  "pt": {
+   "caption": "O solar de Groot Constantia, perto da Cidade do Cabo; a propriedade remonta a uma concessão de terras de 1685.",
+   "alt": "Solar branco de empenas ao estilo holandês do Cabo em Groot Constantia"
+  },
+  "pt-br": {
+   "caption": "O casarão de Groot Constantia, perto da Cidade do Cabo; a propriedade remonta a uma concessão de terras de 1685.",
+   "alt": "Casarão branco com frontões no estilo holandês do Cabo em Groot Constantia"
+  },
+  "ru": {
+   "caption": "Усадьба Гроот-Констанция близ Кейптауна; поместье восходит к земельному пожалованию 1685 года.",
+   "alt": "Белая усадьба с капско-голландскими фронтонами в Гроот-Констанции"
+  },
+  "el": {
+   "caption": "Η έπαυλη του Groot Constantia κοντά στο Κέιπ Τάουν· το κτήμα ανάγεται σε παραχώρηση γης του 1685.",
+   "alt": "Λευκή έπαυλη με αετώματα σε ολλανδικό στιλ του Ακρωτηρίου στο Groot Constantia"
+  },
+  "ja": {
+   "caption": "ケープタウン近郊グルート・コンスタンシアの邸宅。農園の起源は1685年の土地の下賜にさかのぼります。",
+   "alt": "グルート・コンスタンシアのケープ・ダッチ様式の破風をもつ白い邸宅"
+  },
+  "ko": {
+   "caption": "케이프타운 인근 흐로트 콘스탄시아의 저택. 농장은 1685년의 토지 하사에서 비롯되었습니다.",
+   "alt": "흐로트 콘스탄시아의 케이프 더치 양식 박공을 지닌 흰 저택"
+  },
+  "zh-hans": {
+   "caption": "开普敦附近格鲁特康斯坦提亚的庄园主宅；庄园可追溯到1685年的一次土地授予。",
+   "alt": "格鲁特康斯坦提亚带开普荷兰式山墙的白色庄园主宅"
+  },
+  "zh-hant": {
+   "caption": "開普敦附近格魯特康斯坦提亞的莊園主宅；莊園可追溯到1685年的一次土地授予。",
+   "alt": "格魯特康斯坦提亞帶開普荷蘭式山牆的白色莊園主宅"
+  },
+  "ar": {
+   "caption": "القصر الرئيسي في غروت كونستانتيا قرب كيب تاون؛ تعود الضيعة إلى منحة أرض عام 1685.",
+   "alt": "قصر أبيض بواجهات على الطراز الهولندي الكابي في غروت كونستانتيا"
+  },
+  "th": {
+   "caption": "คฤหาสน์ของโกรตคอนสแตนเชียใกล้เคปทาวน์ ที่ดินนี้มีต้นกำเนิดจากการมอบที่ดินในปี 1685",
+   "alt": "คฤหาสน์สีขาวหน้าจั่วแบบเคปดัตช์ที่โกรตคอนสแตนเชีย"
+  },
+  "tr": {
+   "caption": "Cape Town yakınlarındaki Groot Constantia konağı; çiftlik 1685'teki bir toprak bağışına dayanır.",
+   "alt": "Groot Constantia'da Cape Dutch tarzı alınlıklı beyaz konak"
+  }
+ },
+ "historic-wine-presses-kloster-eberbach": {
+  "en": {
+   "caption": "Historic wine presses in the former lay brothers' refectory of Kloster Eberbach, Rheingau, used as a wine cellar from around 1500.",
+   "alt": "Historic wooden wine presses in the vaulted refectory of Kloster Eberbach",
+   "title": "Historic wine presses, Kloster Eberbach"
+  },
+  "it": {
+   "caption": "Torchi storici nell'antico refettorio dei conversi di Kloster Eberbach, nel Rheingau, usato come cantina dal 1500 circa.",
+   "alt": "Torchi storici in legno nel refettorio a volta di Kloster Eberbach",
+   "title": "Torchi storici, Kloster Eberbach"
+  },
+  "fr": {
+   "caption": "Pressoirs historiques dans l'ancien réfectoire des convers de l'abbaye d'Eberbach, dans le Rheingau, devenu cave vers 1500.",
+   "alt": "Pressoirs historiques en bois dans le réfectoire voûté de l'abbaye d'Eberbach",
+   "title": "Pressoirs historiques, abbaye d'Eberbach"
+  },
+  "es": {
+   "caption": "Prensas históricas en el antiguo refectorio de los legos del monasterio de Eberbach, en el Rheingau, convertido en bodega hacia 1500.",
+   "alt": "Prensas históricas de madera en el refectorio abovedado del monasterio de Eberbach",
+   "title": "Prensas históricas, monasterio de Eberbach"
+  },
+  "es-ar": {
+   "caption": "Prensas históricas en el antiguo refectorio de los legos del monasterio de Eberbach, en el Rheingau, convertido en bodega hacia 1500.",
+   "alt": "Prensas históricas de madera en el refectorio abovedado del monasterio de Eberbach",
+   "title": "Prensas históricas, monasterio de Eberbach"
+  },
+  "de": {
+   "caption": "Historische Weinpressen im ehemaligen Laienrefektorium von Kloster Eberbach im Rheingau, seit etwa 1500 Weinkeller.",
+   "alt": "Historische hölzerne Weinpressen im gewölbten Refektorium von Kloster Eberbach"
+  },
+  "nl": {
+   "caption": "Historische wijnpersen in het voormalige refectorium van de lekenbroeders van Kloster Eberbach in de Rheingau, sinds circa 1500 wijnkelder.",
+   "alt": "Historische houten wijnpersen in het overwelfde refectorium van Kloster Eberbach"
+  },
+  "pl": {
+   "caption": "Historyczne prasy w dawnym refektarzu braci konwersów klasztoru Eberbach w Rheingau, od ok. 1500 roku piwnicy winnej.",
+   "alt": "Historyczne drewniane prasy do wina w sklepionym refektarzu klasztoru Eberbach"
+  },
+  "pt": {
+   "caption": "Prensas históricas no antigo refeitório dos irmãos leigos do mosteiro de Eberbach, no Rheingau, usado como adega desde cerca de 1500.",
+   "alt": "Lagares e prensas históricas de madeira no refeitório abobadado do mosteiro de Eberbach"
+  },
+  "pt-br": {
+   "caption": "Prensas históricas no antigo refeitório dos irmãos leigos do mosteiro de Eberbach, no Rheingau, usado como adega desde cerca de 1500.",
+   "alt": "Prensas históricas de madeira no refeitório abobadado do mosteiro de Eberbach"
+  },
+  "ru": {
+   "caption": "Старинные прессы в бывшей трапезной братьев-мирян монастыря Эбербах в Рейнгау, с около 1500 года — винном погребе.",
+   "alt": "Старинные деревянные винные прессы в сводчатой трапезной монастыря Эбербах"
+  },
+  "el": {
+   "caption": "Ιστορικά πιεστήρια στην παλιά τραπεζαρία των λαϊκών αδελφών της μονής Eberbach στο Rheingau, κελάρι κρασιού από το 1500 περίπου.",
+   "alt": "Ιστορικά ξύλινα πιεστήρια στην θολωτή τραπεζαρία της μονής Eberbach"
+  },
+  "ja": {
+   "caption": "ラインガウのエーバーバッハ修道院、旧助修士食堂に並ぶ歴史的な圧搾機。1500年頃からワインセラーとして使われました。",
+   "alt": "エーバーバッハ修道院のヴォールト天井の食堂に並ぶ歴史的な木製ブドウ圧搾機"
+  },
+  "ko": {
+   "caption": "라인가우 에버바흐 수도원의 옛 평수사 식당에 놓인 역사적인 압착기. 1500년경부터 와인 셀러로 쓰였습니다.",
+   "alt": "에버바흐 수도원의 둥근 천장 식당에 놓인 역사적인 나무 포도 압착기"
+  },
+  "zh-hans": {
+   "caption": "莱茵高埃伯巴赫修道院旧日俗家修士食堂中的历史压榨机，约1500年起用作酒窖。",
+   "alt": "埃伯巴赫修道院拱顶食堂中的历史木制葡萄压榨机"
+  },
+  "zh-hant": {
+   "caption": "萊茵高埃伯巴赫修道院舊日俗家修士食堂中的歷史壓榨機，約1500年起用作酒窖。",
+   "alt": "埃伯巴赫修道院拱頂食堂中的歷史木製葡萄壓榨機"
+  },
+  "ar": {
+   "caption": "معاصر تاريخية في قاعة طعام الإخوة العلمانيين السابقة في دير إيبرباخ بمنطقة راينغاو، التي صارت قبوًا للنبيذ نحو عام 1500.",
+   "alt": "معاصر نبيذ خشبية تاريخية في القاعة المقببة لدير إيبرباخ"
+  },
+  "th": {
+   "caption": "เครื่องบีบองุ่นโบราณในห้องอาหารเดิมของภราดาฆราวาสแห่งอารามเอเบอร์บัค แคว้นไรน์เกา ซึ่งใช้เป็นห้องเก็บไวน์ตั้งแต่ราวปี 1500",
+   "alt": "เครื่องบีบองุ่นไม้โบราณในห้องอาหารเพดานโค้งของอารามเอเบอร์บัค"
+  },
+  "tr": {
+   "caption": "Rheingau'da Eberbach Manastırı'nın eski meslekten olmayan kardeşler yemekhanesinde tarihi presler; burası 1500 civarından beri şarap mahzeni.",
+   "alt": "Eberbach Manastırı'nın tonozlu yemekhanesinde tarihi ahşap şarap presleri"
+  }
+ },
+ "barrel-cellar-voelser-aicha-south-tyrol": {
+  "en": {
+   "caption": "Barrels in the wine cellar of the Verant farmhouse at Völser Aicha, South Tyrol.",
+   "alt": "Oak barrels in a vaulted stone wine cellar at Völser Aicha",
+   "title": "Barrel cellar at Völser Aicha, South Tyrol"
+  },
+  "it": {
+   "caption": "Botti nella cantina del maso Verant a Fiè allo Sciliar, in Alto Adige.",
+   "alt": "Botti di rovere in una cantina a volta di pietra a Fiè allo Sciliar",
+   "title": "Cantina con botti a Fiè allo Sciliar, Alto Adige"
+  },
+  "fr": {
+   "caption": "Fûts dans la cave de la ferme Verant à Völs am Schlern, dans le Tyrol du Sud.",
+   "alt": "Fûts de chêne dans une cave voûtée en pierre à Völs am Schlern",
+   "title": "Cave à fûts à Völs am Schlern, Tyrol du Sud"
+  },
+  "es": {
+   "caption": "Barricas en la bodega de la granja Verant en Völser Aicha, Tirol del Sur.",
+   "alt": "Barricas de roble en una bodega abovedada de piedra en Völser Aicha",
+   "title": "Bodega con barricas en Völser Aicha, Tirol del Sur"
+  },
+  "es-ar": {
+   "caption": "Barricas en la bodega de la granja Verant en Völser Aicha, Tirol del Sur.",
+   "alt": "Barricas de roble en una bodega abovedada de piedra en Völser Aicha",
+   "title": "Bodega con barricas en Völser Aicha, Tirol del Sur"
+  },
+  "de": {
+   "caption": "Fässer im Weinkeller des Verant-Hofs in Völser Aicha, Südtirol.",
+   "alt": "Eichenfässer in einem gewölbten Steinkeller in Völser Aicha"
+  },
+  "nl": {
+   "caption": "Vaten in de wijnkelder van boerderij Verant in Völser Aicha, Zuid-Tirol.",
+   "alt": "Eikenhouten vaten in een overwelfde stenen wijnkelder in Völser Aicha"
+  },
+  "pl": {
+   "caption": "Beczki w piwnicy winnej gospodarstwa Verant w Völser Aicha w Tyrolu Południowym.",
+   "alt": "Dębowe beczki w sklepionej kamiennej piwnicy w Völser Aicha"
+  },
+  "pt": {
+   "caption": "Barricas na adega da quinta Verant em Völser Aicha, Tirol do Sul.",
+   "alt": "Barricas de carvalho numa adega abobadada de pedra em Völser Aicha"
+  },
+  "pt-br": {
+   "caption": "Barris na adega da propriedade Verant em Völser Aicha, Tirol do Sul.",
+   "alt": "Barris de carvalho em uma adega abobadada de pedra em Völser Aicha"
+  },
+  "ru": {
+   "caption": "Бочки в винном погребе усадьбы Verant в Фёльзер-Айхе, Южный Тироль.",
+   "alt": "Дубовые бочки в сводчатом каменном винном погребе в Фёльзер-Айхе"
+  },
+  "el": {
+   "caption": "Βαρέλια στο κελάρι του αγροκτήματος Verant στο Völser Aicha, Νότιο Τιρόλο.",
+   "alt": "Δρύινα βαρέλια σε θολωτό πέτρινο κελάρι στο Völser Aicha"
+  },
+  "ja": {
+   "caption": "南チロル、フェルザー・アイヒャのフェラント農家のワインセラーに並ぶ樽。",
+   "alt": "フェルザー・アイヒャの石造りのヴォールト天井のワインセラーに並ぶオーク樽"
+  },
+  "ko": {
+   "caption": "남티롤 푈저 아이하의 페란트 농가 와인 셀러에 놓인 오크통.",
+   "alt": "푈저 아이하의 둥근 천장 석조 와인 셀러에 놓인 오크통"
+  },
+  "zh-hans": {
+   "caption": "南蒂罗尔弗尔泽艾哈韦兰特农庄酒窖里的木桶。",
+   "alt": "弗尔泽艾哈石砌拱顶酒窖中的橡木桶"
+  },
+  "zh-hant": {
+   "caption": "南提洛弗爾澤艾哈韋蘭特農莊酒窖裡的木桶。",
+   "alt": "弗爾澤艾哈石砌拱頂酒窖中的橡木桶"
+  },
+  "ar": {
+   "caption": "براميل في قبو نبيذ مزرعة فيرانت في فولزر آيشا، جنوب تيرول.",
+   "alt": "براميل بلوط في قبو نبيذ حجري مقبب في فولزر آيشا"
+  },
+  "th": {
+   "caption": "ถังไม้ในห้องเก็บไวน์ของฟาร์มเฟรันต์ที่เฟิลเซอร์ไอชา เซาท์ทีโรล",
+   "alt": "ถังไม้โอ๊กในห้องเก็บไวน์หินเพดานโค้งที่เฟิลเซอร์ไอชา"
+  },
+  "tr": {
+   "caption": "Güney Tirol'de Völser Aicha'daki Verant çiftliğinin şarap mahzeninde fıçılar.",
+   "alt": "Völser Aicha'da tonozlu taş bir şarap mahzeninde meşe fıçılar"
+  }
+ },
+ "three-corkscrews-old-and-modern": {
+  "en": {
+   "caption": "Three types of corkscrew: two modern and one old.",
+   "alt": "Three corkscrews on a wooden table, two modern and one old",
+   "title": "Three corkscrews"
+  },
+  "it": {
+   "caption": "Tre tipi di cavatappi: due moderni e uno antico.",
+   "alt": "Tre cavatappi su un tavolo di legno, due moderni e uno antico",
+   "title": "Tre cavatappi"
+  },
+  "fr": {
+   "caption": "Trois types de tire-bouchon : deux modernes et un ancien.",
+   "alt": "Trois tire-bouchons sur une table en bois, deux modernes et un ancien",
+   "title": "Trois tire-bouchons"
+  },
+  "es": {
+   "caption": "Tres tipos de sacacorchos: dos modernos y uno antiguo.",
+   "alt": "Tres sacacorchos sobre una mesa de madera, dos modernos y uno antiguo",
+   "title": "Tres sacacorchos"
+  },
+  "es-ar": {
+   "caption": "Tres tipos de sacacorchos: dos modernos y uno antiguo.",
+   "alt": "Tres sacacorchos sobre una mesa de madera, dos modernos y uno antiguo",
+   "title": "Tres sacacorchos"
+  },
+  "de": {
+   "caption": "Drei Arten von Korkenziehern: zwei moderne und ein alter.",
+   "alt": "Drei Korkenzieher auf einem Holztisch, zwei moderne und ein alter"
+  },
+  "nl": {
+   "caption": "Drie soorten kurkentrekkers: twee moderne en een oude.",
+   "alt": "Drie kurkentrekkers op een houten tafel, twee moderne en een oude"
+  },
+  "pl": {
+   "caption": "Trzy rodzaje korkociągów: dwa nowoczesne i jeden dawny.",
+   "alt": "Trzy korkociągi na drewnianym stole, dwa nowoczesne i jeden dawny"
+  },
+  "pt": {
+   "caption": "Três tipos de saca-rolhas: dois modernos e um antigo.",
+   "alt": "Três saca-rolhas numa mesa de madeira, dois modernos e um antigo"
+  },
+  "pt-br": {
+   "caption": "Três tipos de saca-rolhas: dois modernos e um antigo.",
+   "alt": "Três saca-rolhas sobre uma mesa de madeira, dois modernos e um antigo"
+  },
+  "ru": {
+   "caption": "Три вида штопоров: два современных и один старинный.",
+   "alt": "Три штопора на деревянном столе: два современных и один старинный"
+  },
+  "el": {
+   "caption": "Τρία είδη τιρμπουσόν: δύο σύγχρονα και ένα παλιό.",
+   "alt": "Τρία τιρμπουσόν σε ξύλινο τραπέζι, δύο σύγχρονα και ένα παλιό"
+  },
+  "ja": {
+   "caption": "3種類のコルク抜き。現代のもの2本と古いもの1本。",
+   "alt": "木のテーブルに置かれた3本のコルク抜き（現代のもの2本と古いもの1本）"
+  },
+  "ko": {
+   "caption": "세 종류의 코르크스크루: 현대식 두 개와 옛것 하나.",
+   "alt": "나무 테이블 위의 코르크스크루 세 개(현대식 두 개, 옛것 하나)"
+  },
+  "zh-hans": {
+   "caption": "三种开瓶器：两把现代的和一把旧式的。",
+   "alt": "木桌上的三把开瓶器：两把现代的和一把旧式的"
+  },
+  "zh-hant": {
+   "caption": "三種開瓶器：兩把現代的和一把舊式的。",
+   "alt": "木桌上的三把開瓶器：兩把現代的和一把舊式的"
+  },
+  "ar": {
+   "caption": "ثلاثة أنواع من فتاحات الفلين: اثنتان حديثتان وواحدة قديمة.",
+   "alt": "ثلاث فتاحات فلين على طاولة خشبية، اثنتان حديثتان وواحدة قديمة"
+  },
+  "th": {
+   "caption": "ที่เปิดจุกไม้ก๊อกสามแบบ: แบบใหม่สองอันและแบบเก่าหนึ่งอัน",
+   "alt": "ที่เปิดจุกไม้ก๊อกสามอันบนโต๊ะไม้ แบบใหม่สองอันและแบบเก่าหนึ่งอัน"
+  },
+  "tr": {
+   "caption": "Üç tür tirbuşon: ikisi modern, biri eski.",
+   "alt": "Ahşap masada iki modern, bir eski üç tirbuşon"
+  }
+ },
+ "cheeseboard-stilton-cheddar-brie": {
+  "en": {
+   "caption": "A cheeseboard with Stilton, cheddar and brie.",
+   "alt": "Slate board with Stilton, cheddar, brie, crackers, pickle and plums",
+   "title": "Cheeseboard with Stilton, cheddar and brie"
+  },
+  "it": {
+   "caption": "Un tagliere con Stilton, cheddar e brie.",
+   "alt": "Tagliere di ardesia con Stilton, cheddar, brie, cracker, sottaceti e prugne",
+   "title": "Tagliere con Stilton, cheddar e brie"
+  },
+  "fr": {
+   "caption": "Un plateau de fromages : stilton, cheddar et brie.",
+   "alt": "Planche d'ardoise avec stilton, cheddar, brie, crackers, pickles et prunes",
+   "title": "Plateau de fromages : stilton, cheddar et brie"
+  },
+  "es": {
+   "caption": "Una tabla de quesos con Stilton, cheddar y brie.",
+   "alt": "Tabla de pizarra con Stilton, cheddar, brie, galletas saladas, encurtidos y ciruelas",
+   "title": "Tabla de quesos con Stilton, cheddar y brie"
+  },
+  "es-ar": {
+   "caption": "Una tabla de quesos con Stilton, cheddar y brie.",
+   "alt": "Tabla de pizarra con Stilton, cheddar, brie, galletas saladas, encurtidos y ciruelas",
+   "title": "Tabla de quesos con Stilton, cheddar y brie"
+  },
+  "de": {
+   "caption": "Eine Käseplatte mit Stilton, Cheddar und Brie.",
+   "alt": "Schieferbrett mit Stilton, Cheddar, Brie, Crackern, Pickles und Pflaumen"
+  },
+  "nl": {
+   "caption": "Een kaasplank met stilton, cheddar en brie.",
+   "alt": "Leisteen plank met stilton, cheddar, brie, crackers, zuur en pruimen"
+  },
+  "pl": {
+   "caption": "Deska serów ze stiltonem, cheddarem i brie.",
+   "alt": "Łupkowa deska ze stiltonem, cheddarem, brie, krakersami, piklami i śliwkami"
+  },
+  "pt": {
+   "caption": "Uma tábua de queijos com Stilton, cheddar e brie.",
+   "alt": "Tábua de ardósia com Stilton, cheddar, brie, bolachas, pickles e ameixas"
+  },
+  "pt-br": {
+   "caption": "Uma tábua de queijos com Stilton, cheddar e brie.",
+   "alt": "Tábua de ardósia com Stilton, cheddar, brie, biscoitos, picles e ameixas"
+  },
+  "ru": {
+   "caption": "Сырная доска со стилтоном, чеддером и бри.",
+   "alt": "Сланцевая доска со стилтоном, чеддером, бри, крекерами, пикулями и сливами"
+  },
+  "el": {
+   "caption": "Πιατέλα τυριών με Stilton, cheddar και brie.",
+   "alt": "Πλάκα σχιστόλιθου με Stilton, cheddar, brie, κράκερ, τουρσί και δαμάσκηνα"
+  },
+  "ja": {
+   "caption": "スティルトン、チェダー、ブリーのチーズボード。",
+   "alt": "スティルトン、チェダー、ブリー、クラッカー、ピクルス、プラムをのせたスレートのボード"
+  },
+  "ko": {
+   "caption": "스틸턴, 체다, 브리를 담은 치즈 보드.",
+   "alt": "스틸턴, 체다, 브리, 크래커, 피클, 자두를 올린 슬레이트 보드"
+  },
+  "zh-hans": {
+   "caption": "斯提尔顿、切达和布里奶酪拼盘。",
+   "alt": "石板上的斯提尔顿、切达和布里奶酪，配饼干、腌菜和李子"
+  },
+  "zh-hant": {
+   "caption": "斯提爾頓、切達和布里乳酪拼盤。",
+   "alt": "石板上的斯提爾頓、切達和布里乳酪，配餅乾、醃菜和李子"
+  },
+  "ar": {
+   "caption": "لوح أجبان عليه ستيلتون وشيدر وبري.",
+   "alt": "لوح من الأردواز عليه ستيلتون وشيدر وبري وبسكويت مالح ومخلل وخوخ"
+  },
+  "th": {
+   "caption": "จานชีสที่มีสติลตัน เชดดาร์ และบรี",
+   "alt": "แผ่นหินชนวนวางชีสสติลตัน เชดดาร์ บรี แครกเกอร์ ผักดอง และพลัม"
+  },
+  "tr": {
+   "caption": "Stilton, cheddar ve brie peynirli bir peynir tabağı.",
+   "alt": "Stilton, cheddar, brie, kraker, turşu ve erikli arduvaz tahta"
+  }
+ },
+ "cheesecake-with-white-and-red-wine": {
+  "en": {
+   "caption": "Strawberry cheesecake served with a glass of white wine and a glass of red wine.",
+   "alt": "Two slices of cheesecake topped with red berries, a glass of white wine and a glass of red wine",
+   "title": "Cheesecake with white and red wine"
+  },
+  "it": {
+   "caption": "Cheesecake alle fragole servita con un calice di vino bianco e uno di vino rosso.",
+   "alt": "Due fette di cheesecake ai frutti rossi, un calice di vino bianco e uno di vino rosso",
+   "title": "Cheesecake con vino bianco e rosso"
+  },
+  "fr": {
+   "caption": "Cheesecake aux fraises servi avec un verre de vin blanc et un verre de vin rouge.",
+   "alt": "Deux parts de cheesecake aux fruits rouges, un verre de vin blanc et un verre de vin rouge",
+   "title": "Cheesecake avec vin blanc et vin rouge"
+  },
+  "es": {
+   "caption": "Tarta de queso con fresas servida con una copa de vino blanco y otra de vino tinto.",
+   "alt": "Dos porciones de tarta de queso con frutos rojos, una copa de vino blanco y otra de tinto",
+   "title": "Tarta de queso con vino blanco y tinto"
+  },
+  "es-ar": {
+   "caption": "Tarta de queso con fresas servida con una copa de vino blanco y otra de vino tinto.",
+   "alt": "Dos porciones de tarta de queso con frutos rojos, una copa de vino blanco y otra de tinto",
+   "title": "Tarta de queso con vino blanco y tinto"
+  },
+  "de": {
+   "caption": "Erdbeer-Käsekuchen mit einem Glas Weißwein und einem Glas Rotwein.",
+   "alt": "Zwei Stücke Käsekuchen mit roten Beeren, ein Glas Weißwein und ein Glas Rotwein"
+  },
+  "nl": {
+   "caption": "Aardbeiencheesecake met een glas witte en een glas rode wijn.",
+   "alt": "Twee punten cheesecake met rode vruchten, een glas witte en een glas rode wijn"
+  },
+  "pl": {
+   "caption": "Sernik truskawkowy podany z kieliszkiem białego i kieliszkiem czerwonego wina.",
+   "alt": "Dwa kawałki sernika z czerwonymi owocami, kieliszek białego i kieliszek czerwonego wina"
+  },
+  "pt": {
+   "caption": "Cheesecake de morango servido com um copo de vinho branco e outro de vinho tinto.",
+   "alt": "Duas fatias de cheesecake com frutos vermelhos, um copo de vinho branco e outro de tinto"
+  },
+  "pt-br": {
+   "caption": "Cheesecake de morango servido com uma taça de vinho branco e outra de vinho tinto.",
+   "alt": "Duas fatias de cheesecake com frutas vermelhas, uma taça de vinho branco e outra de tinto"
+  },
+  "ru": {
+   "caption": "Клубничный чизкейк с бокалом белого и бокалом красного вина.",
+   "alt": "Два куска чизкейка с красными ягодами, бокал белого и бокал красного вина"
+  },
+  "el": {
+   "caption": "Cheesecake φράουλας με ένα ποτήρι λευκό και ένα ποτήρι κόκκινο κρασί.",
+   "alt": "Δύο κομμάτια cheesecake με κόκκινα φρούτα, ένα ποτήρι λευκό και ένα ποτήρι κόκκινο κρασί"
+  },
+  "ja": {
+   "caption": "白ワインと赤ワインを添えたストロベリーチーズケーキ。",
+   "alt": "赤いベリーをのせたチーズケーキ2切れと白ワイン、赤ワインのグラス"
+  },
+  "ko": {
+   "caption": "화이트 와인과 레드 와인을 곁들인 딸기 치즈케이크.",
+   "alt": "붉은 베리를 올린 치즈케이크 두 조각과 화이트 와인, 레드 와인 잔"
+  },
+  "zh-hans": {
+   "caption": "草莓芝士蛋糕配一杯白葡萄酒和一杯红葡萄酒。",
+   "alt": "两块铺满红色浆果的芝士蛋糕，配一杯白葡萄酒和一杯红葡萄酒"
+  },
+  "zh-hant": {
+   "caption": "草莓起司蛋糕配一杯白葡萄酒和一杯紅葡萄酒。",
+   "alt": "兩塊鋪滿紅色漿果的起司蛋糕，配一杯白葡萄酒和一杯紅葡萄酒"
+  },
+  "ar": {
+   "caption": "كعكة جبن بالفراولة تُقدَّم مع كأس نبيذ أبيض وكأس نبيذ أحمر.",
+   "alt": "قطعتان من كعكة الجبن بالتوت الأحمر مع كأس نبيذ أبيض وكأس نبيذ أحمر"
+  },
+  "th": {
+   "caption": "ชีสเค้กสตรอว์เบอร์รีเสิร์ฟกับไวน์ขาวหนึ่งแก้วและไวน์แดงหนึ่งแก้ว",
+   "alt": "ชีสเค้กโรยเบอร์รีแดงสองชิ้นกับไวน์ขาวหนึ่งแก้วและไวน์แดงหนึ่งแก้ว"
+  },
+  "tr": {
+   "caption": "Bir kadeh beyaz ve bir kadeh kırmızı şarapla servis edilen çilekli cheesecake.",
+   "alt": "Kırmızı meyveli iki dilim cheesecake, bir kadeh beyaz ve bir kadeh kırmızı şarap"
+  }
+ },
+ "ripe-white-grapes-palatinate-vineyard": {
+  "en": {
+   "caption": "Ripe white grapes in a Palatinate (Pfalz) vineyard, Germany.",
+   "alt": "Close-up of a ripe golden-green grape bunch in the sun",
+   "title": "Ripe white grapes, Palatinate"
+  },
+  "it": {
+   "caption": "Uva bianca matura in un vigneto del Palatinato (Pfalz), in Germania.",
+   "alt": "Primo piano di un grappolo maturo verde-oro al sole",
+   "title": "Uva bianca matura, Palatinato"
+  },
+  "fr": {
+   "caption": "Raisins blancs mûrs dans une vigne du Palatinat (Pfalz), en Allemagne.",
+   "alt": "Gros plan sur une grappe mûre vert doré au soleil",
+   "title": "Raisins blancs mûrs, Palatinat"
+  },
+  "es": {
+   "caption": "Uvas blancas maduras en un viñedo del Palatinado (Pfalz), Alemania.",
+   "alt": "Primer plano de un racimo maduro verde dorado al sol",
+   "title": "Uvas blancas maduras, Palatinado"
+  },
+  "es-ar": {
+   "caption": "Uvas blancas maduras en un viñedo del Palatinado (Pfalz), Alemania.",
+   "alt": "Primer plano de un racimo maduro verde dorado al sol",
+   "title": "Uvas blancas maduras, Palatinado"
+  },
+  "de": {
+   "caption": "Reife weiße Trauben in einem Weinberg der Pfalz.",
+   "alt": "Nahaufnahme einer reifen goldgrünen Traube in der Sonne"
+  },
+  "nl": {
+   "caption": "Rijpe witte druiven in een wijngaard in de Pfalz, Duitsland.",
+   "alt": "Close-up van een rijpe goudgroene druiventros in de zon"
+  },
+  "pl": {
+   "caption": "Dojrzałe białe winogrona w winnicy w Palatynacie (Pfalz) w Niemczech.",
+   "alt": "Zbliżenie dojrzałego złotozielonego grona w słońcu"
+  },
+  "pt": {
+   "caption": "Uvas brancas maduras numa vinha do Palatinado (Pfalz), Alemanha.",
+   "alt": "Grande plano de um cacho maduro verde-dourado ao sol"
+  },
+  "pt-br": {
+   "caption": "Uvas brancas maduras em um vinhedo do Palatinado (Pfalz), Alemanha.",
+   "alt": "Close de um cacho maduro verde-dourado ao sol"
+  },
+  "ru": {
+   "caption": "Спелый белый виноград на винограднике в Пфальце, Германия.",
+   "alt": "Крупный план спелой золотисто-зелёной грозди на солнце"
+  },
+  "el": {
+   "caption": "Ώριμα λευκά σταφύλια σε αμπελώνα του Παλατινάτου (Pfalz), Γερμανία.",
+   "alt": "Κοντινό σε ώριμο πρασινόχρυσο τσαμπί στον ήλιο"
+  },
+  "ja": {
+   "caption": "ドイツ、プファルツのブドウ畑で実った白ブドウ。",
+   "alt": "日差しを浴びた黄金色がかった緑の完熟ブドウの房のクローズアップ"
+  },
+  "ko": {
+   "caption": "독일 팔츠의 포도밭에서 익은 청포도.",
+   "alt": "햇빛을 받은 황록색 완숙 포도송이 클로즈업"
+  },
+  "zh-hans": {
+   "caption": "德国普法尔茨葡萄园中成熟的白葡萄。",
+   "alt": "阳光下金绿色成熟葡萄串特写"
+  },
+  "zh-hant": {
+   "caption": "德國普法爾茨葡萄園中成熟的白葡萄。",
+   "alt": "陽光下金綠色成熟葡萄串特寫"
+  },
+  "ar": {
+   "caption": "عنب أبيض ناضج في كرم في منطقة بفالتس، ألمانيا.",
+   "alt": "لقطة مقربة لعنقود عنب ناضج أخضر ذهبي تحت الشمس"
+  },
+  "th": {
+   "caption": "องุ่นขาวสุกในไร่องุ่นแคว้นพฟัลซ์ ประเทศเยอรมนี",
+   "alt": "ภาพระยะใกล้ของพวงองุ่นสุกสีเขียวอมทองกลางแดด"
+  },
+  "tr": {
+   "caption": "Almanya'da Pfalz'daki bir bağda olgun beyaz üzümler.",
+   "alt": "Güneşte olgun, altın yeşili bir üzüm salkımının yakın çekimi"
+  }
+ },
+ "copper-stills-distillery": {
+  "en": {
+   "caption": "Copper stills in a distillery.",
+   "alt": "Row of copper stills in a distillery hall",
+   "title": "Copper stills in a distillery"
+  },
+  "it": {
+   "caption": "Alambicchi di rame in una distilleria.",
+   "alt": "Fila di alambicchi di rame in una distilleria",
+   "title": "Alambicchi di rame in una distilleria"
+  },
+  "fr": {
+   "caption": "Alambics en cuivre dans une distillerie.",
+   "alt": "Rangée d'alambics en cuivre dans une distillerie",
+   "title": "Alambics en cuivre dans une distillerie"
+  },
+  "es": {
+   "caption": "Alambiques de cobre en una destilería.",
+   "alt": "Fila de alambiques de cobre en una destilería",
+   "title": "Alambiques de cobre en una destilería"
+  },
+  "es-ar": {
+   "caption": "Alambiques de cobre en una destilería.",
+   "alt": "Fila de alambiques de cobre en una destilería",
+   "title": "Alambiques de cobre en una destilería"
+  },
+  "de": {
+   "caption": "Kupferne Brennblasen in einer Brennerei.",
+   "alt": "Reihe kupferner Brennblasen in einer Brennereihalle"
+  },
+  "nl": {
+   "caption": "Koperen distilleerketels in een distilleerderij.",
+   "alt": "Rij koperen distilleerketels in een distilleerderij"
+  },
+  "pl": {
+   "caption": "Miedziane alembiki w destylarni.",
+   "alt": "Rząd miedzianych alembików w hali destylarni"
+  },
+  "pt": {
+   "caption": "Alambiques de cobre numa destilaria.",
+   "alt": "Fila de alambiques de cobre numa destilaria"
+  },
+  "pt-br": {
+   "caption": "Alambiques de cobre em uma destilaria.",
+   "alt": "Fileira de alambiques de cobre em uma destilaria"
+  },
+  "ru": {
+   "caption": "Медные перегонные кубы на винокурне.",
+   "alt": "Ряд медных перегонных кубов в цехе винокурни"
+  },
+  "el": {
+   "caption": "Χάλκινοι άμβυκες σε αποστακτήριο.",
+   "alt": "Σειρά από χάλκινους άμβυκες σε αίθουσα αποστακτηρίου"
+  },
+  "ja": {
+   "caption": "蒸溜所の銅製蒸溜器。",
+   "alt": "蒸溜所の建屋に並ぶ銅製の蒸溜器"
+  },
+  "ko": {
+   "caption": "증류소의 구리 증류기.",
+   "alt": "증류소 건물에 늘어선 구리 증류기"
+  },
+  "zh-hans": {
+   "caption": "蒸馏厂里的铜制蒸馏器。",
+   "alt": "蒸馏厂车间里的一排铜制蒸馏器"
+  },
+  "zh-hant": {
+   "caption": "蒸餾廠裡的銅製蒸餾器。",
+   "alt": "蒸餾廠車間裡的一排銅製蒸餾器"
+  },
+  "ar": {
+   "caption": "أجهزة تقطير نحاسية في معمل تقطير.",
+   "alt": "صف من أجهزة التقطير النحاسية في قاعة معمل تقطير"
+  },
+  "th": {
+   "caption": "หม้อกลั่นทองแดงในโรงกลั่น",
+   "alt": "หม้อกลั่นทองแดงเรียงแถวในโรงกลั่น"
+  },
+  "tr": {
+   "caption": "Bir damıtımevinde bakır imbikler.",
+   "alt": "Bir damıtımevi salonunda sıra sıra bakır imbikler"
+  }
+ },
+ "tobermory-distillery-isle-of-mull": {
+  "en": {
+   "caption": "Tobermory Distillery on the Isle of Mull, Scotland.",
+   "alt": "White buildings of Tobermory Distillery on the Isle of Mull",
+   "title": "Tobermory Distillery, Isle of Mull"
+  },
+  "it": {
+   "caption": "La distilleria Tobermory sull'isola di Mull, in Scozia.",
+   "alt": "Edifici bianchi della distilleria Tobermory sull'isola di Mull",
+   "title": "Distilleria Tobermory, isola di Mull"
+  },
+  "fr": {
+   "caption": "La distillerie Tobermory sur l'île de Mull, en Écosse.",
+   "alt": "Bâtiments blancs de la distillerie Tobermory sur l'île de Mull",
+   "title": "Distillerie Tobermory, île de Mull"
+  },
+  "es": {
+   "caption": "La destilería Tobermory en la isla de Mull, Escocia.",
+   "alt": "Edificios blancos de la destilería Tobermory en la isla de Mull",
+   "title": "Destilería Tobermory, isla de Mull"
+  },
+  "es-ar": {
+   "caption": "La destilería Tobermory en la isla de Mull, Escocia.",
+   "alt": "Edificios blancos de la destilería Tobermory en la isla de Mull",
+   "title": "Destilería Tobermory, isla de Mull"
+  },
+  "de": {
+   "caption": "Die Tobermory Distillery auf der Isle of Mull, Schottland.",
+   "alt": "Weiße Gebäude der Tobermory Distillery auf der Isle of Mull"
+  },
+  "nl": {
+   "caption": "Tobermory Distillery op het eiland Mull, Schotland.",
+   "alt": "Witte gebouwen van Tobermory Distillery op het eiland Mull"
+  },
+  "pl": {
+   "caption": "Destylarnia Tobermory na wyspie Mull w Szkocji.",
+   "alt": "Białe budynki destylarni Tobermory na wyspie Mull"
+  },
+  "pt": {
+   "caption": "A destilaria Tobermory na ilha de Mull, Escócia.",
+   "alt": "Edifícios brancos da destilaria Tobermory na ilha de Mull"
+  },
+  "pt-br": {
+   "caption": "A destilaria Tobermory na ilha de Mull, Escócia.",
+   "alt": "Prédios brancos da destilaria Tobermory na ilha de Mull"
+  },
+  "ru": {
+   "caption": "Винокурня Tobermory на острове Малл, Шотландия.",
+   "alt": "Белые здания винокурни Tobermory на острове Малл"
+  },
+  "el": {
+   "caption": "Το αποστακτήριο Tobermory στο νησί Mull της Σκωτίας.",
+   "alt": "Λευκά κτίρια του αποστακτηρίου Tobermory στο νησί Mull"
+  },
+  "ja": {
+   "caption": "スコットランド、マル島のトバモリー蒸溜所。",
+   "alt": "マル島にあるトバモリー蒸溜所の白い建物"
+  },
+  "ko": {
+   "caption": "스코틀랜드 멀섬의 토버모리 증류소.",
+   "alt": "멀섬에 있는 토버모리 증류소의 흰 건물들"
+  },
+  "zh-hans": {
+   "caption": "苏格兰马尔岛的托本莫瑞蒸馏厂。",
+   "alt": "马尔岛托本莫瑞蒸馏厂的白色建筑"
+  },
+  "zh-hant": {
+   "caption": "蘇格蘭馬爾島的托本莫瑞蒸餾廠。",
+   "alt": "馬爾島托本莫瑞蒸餾廠的白色建築"
+  },
+  "ar": {
+   "caption": "معمل تقطير توبرموري في جزيرة مول، اسكتلندا.",
+   "alt": "مبانٍ بيضاء لمعمل تقطير توبرموري في جزيرة مول"
+  },
+  "th": {
+   "caption": "โรงกลั่นโทเบอร์มอรีบนเกาะมัลล์ สกอตแลนด์",
+   "alt": "อาคารสีขาวของโรงกลั่นโทเบอร์มอรีบนเกาะมัลล์"
+  },
+  "tr": {
+   "caption": "İskoçya'da Mull Adası'ndaki Tobermory damıtımevi.",
+   "alt": "Mull Adası'ndaki Tobermory damıtımevinin beyaz binaları"
+  }
+ },
+ "nikka-yoichi-whisky-distillery-hokkaido": {
+  "en": {
+   "caption": "The Nikka whisky distillery at Yoichi, Hokkaido, Japan.",
+   "alt": "Stone warehouses along a tree-lined lane at the Nikka Yoichi distillery",
+   "title": "Nikka Yoichi distillery, Hokkaido"
+  },
+  "it": {
+   "caption": "La distilleria di whisky Nikka a Yoichi, Hokkaido, in Giappone.",
+   "alt": "Magazzini di pietra lungo un viale alberato della distilleria Nikka di Yoichi",
+   "title": "Distilleria Nikka di Yoichi, Hokkaido"
+  },
+  "fr": {
+   "caption": "La distillerie de whisky Nikka à Yoichi, Hokkaidō, au Japon.",
+   "alt": "Entrepôts en pierre le long d'une allée arborée de la distillerie Nikka de Yoichi",
+   "title": "Distillerie Nikka de Yoichi, Hokkaidō"
+  },
+  "es": {
+   "caption": "La destilería de whisky Nikka en Yoichi, Hokkaido, Japón.",
+   "alt": "Almacenes de piedra junto a un camino arbolado de la destilería Nikka de Yoichi",
+   "title": "Destilería Nikka de Yoichi, Hokkaido"
+  },
+  "es-ar": {
+   "caption": "La destilería de whisky Nikka en Yoichi, Hokkaido, Japón.",
+   "alt": "Almacenes de piedra junto a un camino arbolado de la destilería Nikka de Yoichi",
+   "title": "Destilería Nikka de Yoichi, Hokkaido"
+  },
+  "de": {
+   "caption": "Die Whiskybrennerei Nikka in Yoichi, Hokkaido, Japan.",
+   "alt": "Steinerne Lagerhäuser an einem baumgesäumten Weg der Nikka-Brennerei Yoichi"
+  },
+  "nl": {
+   "caption": "De whiskydistilleerderij van Nikka in Yoichi, Hokkaido, Japan.",
+   "alt": "Stenen pakhuizen langs een met bomen omzoomde laan van de Nikka-distilleerderij in Yoichi"
+  },
+  "pl": {
+   "caption": "Destylarnia whisky Nikka w Yoichi na Hokkaido w Japonii.",
+   "alt": "Kamienne magazyny przy obsadzonej drzewami alei destylarni Nikka w Yoichi"
+  },
+  "pt": {
+   "caption": "A destilaria de whisky Nikka em Yoichi, Hokkaido, Japão.",
+   "alt": "Armazéns de pedra ao longo de uma alameda arborizada da destilaria Nikka em Yoichi"
+  },
+  "pt-br": {
+   "caption": "A destilaria de uísque Nikka em Yoichi, Hokkaido, Japão.",
+   "alt": "Armazéns de pedra ao longo de uma alameda arborizada da destilaria Nikka em Yoichi"
+  },
+  "ru": {
+   "caption": "Винокурня виски Nikka в Ёити, Хоккайдо, Япония.",
+   "alt": "Каменные склады вдоль аллеи на винокурне Nikka в Ёити"
+  },
+  "el": {
+   "caption": "Το αποστακτήριο ουίσκι Nikka στο Yoichi του Χοκάιντο, Ιαπωνία.",
+   "alt": "Πέτρινες αποθήκες κατά μήκος δεντρόφυτου δρόμου στο αποστακτήριο Nikka στο Yoichi"
+  },
+  "ja": {
+   "caption": "北海道余市にあるニッカのウイスキー蒸溜所。",
+   "alt": "ニッカ余市蒸溜所の並木道沿いに建つ石造りの貯蔵庫"
+  },
+  "ko": {
+   "caption": "일본 홋카이도 요이치의 닛카 위스키 증류소.",
+   "alt": "닛카 요이치 증류소의 가로수 길을 따라 선 석조 창고"
+  },
+  "zh-hans": {
+   "caption": "日本北海道余市的日果威士忌蒸馏所。",
+   "alt": "日果余市蒸馏所林荫道旁的石砌仓库"
+  },
+  "zh-hant": {
+   "caption": "日本北海道余市的日果威士忌蒸餾所。",
+   "alt": "日果余市蒸餾所林蔭道旁的石砌倉庫"
+  },
+  "ar": {
+   "caption": "معمل تقطير ويسكي نيكا في يويتشي، هوكايدو، اليابان.",
+   "alt": "مستودعات حجرية على طريق تحفه الأشجار في معمل تقطير نيكا في يويتشي"
+  },
+  "th": {
+   "caption": "โรงกลั่นวิสกี้นิกกะที่โยอิจิ ฮอกไกโด ประเทศญี่ปุ่น",
+   "alt": "โกดังหินริมทางเดินที่มีต้นไม้เรียงรายของโรงกลั่นนิกกะที่โยอิจิ"
+  },
+  "tr": {
+   "caption": "Japonya'da Hokkaido'nun Yoichi kentindeki Nikka viski damıtımevi.",
+   "alt": "Yoichi'deki Nikka damıtımevinde ağaçlı bir yol boyunca taş depolar"
+  }
+ },
+ "barley-field-golden-hour-nottuln": {
+  "en": {
+   "caption": "A barley field at golden hour near Nottuln, Germany.",
+   "alt": "Ripe barley field glowing in the low evening sun",
+   "title": "Barley field at golden hour"
+  },
+  "it": {
+   "caption": "Un campo d'orzo all'ora d'oro vicino a Nottuln, in Germania.",
+   "alt": "Campo d'orzo maturo illuminato dal sole basso della sera",
+   "title": "Campo d'orzo all'ora d'oro"
+  },
+  "fr": {
+   "caption": "Un champ d'orge à l'heure dorée près de Nottuln, en Allemagne.",
+   "alt": "Champ d'orge mûr illuminé par le soleil bas du soir",
+   "title": "Champ d'orge à l'heure dorée"
+  },
+  "es": {
+   "caption": "Un campo de cebada en la hora dorada cerca de Nottuln, Alemania.",
+   "alt": "Campo de cebada madura iluminado por el sol bajo de la tarde",
+   "title": "Campo de cebada en la hora dorada"
+  },
+  "es-ar": {
+   "caption": "Un campo de cebada en la hora dorada cerca de Nottuln, Alemania.",
+   "alt": "Campo de cebada madura iluminado por el sol bajo de la tarde",
+   "title": "Campo de cebada en la hora dorada"
+  },
+  "de": {
+   "caption": "Ein Gerstenfeld zur goldenen Stunde bei Nottuln.",
+   "alt": "Reifes Gerstenfeld im Licht der tief stehenden Abendsonne"
+  },
+  "nl": {
+   "caption": "Een gerstveld op het gouden uur bij Nottuln, Duitsland.",
+   "alt": "Rijp gerstveld gloeiend in de laagstaande avondzon"
+  },
+  "pl": {
+   "caption": "Pole jęczmienia o złotej godzinie koło Nottuln w Niemczech.",
+   "alt": "Dojrzałe pole jęczmienia w świetle nisko stojącego wieczornego słońca"
+  },
+  "pt": {
+   "caption": "Um campo de cevada à hora dourada perto de Nottuln, Alemanha.",
+   "alt": "Campo de cevada madura iluminado pelo sol baixo do fim de tarde"
+  },
+  "pt-br": {
+   "caption": "Um campo de cevada na hora dourada perto de Nottuln, Alemanha.",
+   "alt": "Campo de cevada madura iluminado pelo sol baixo do fim da tarde"
+  },
+  "ru": {
+   "caption": "Ячменное поле в золотой час близ Ноттульна, Германия.",
+   "alt": "Спелое ячменное поле в лучах низкого вечернего солнца"
+  },
+  "el": {
+   "caption": "Χωράφι κριθαριού τη χρυσή ώρα κοντά στο Nottuln της Γερμανίας.",
+   "alt": "Ώριμο χωράφι κριθαριού στο χαμηλό απογευματινό φως"
+  },
+  "ja": {
+   "caption": "ドイツ、ノットゥルン近郊の夕暮れの大麦畑。",
+   "alt": "低い夕日に輝く実った大麦畑"
+  },
+  "ko": {
+   "caption": "독일 노투른 인근, 해 질 녘의 보리밭.",
+   "alt": "낮게 기운 저녁 햇살에 빛나는 익은 보리밭"
+  },
+  "zh-hans": {
+   "caption": "德国诺图尔恩附近黄金时刻的大麦田。",
+   "alt": "在低垂夕阳下闪耀的成熟大麦田"
+  },
+  "zh-hant": {
+   "caption": "德國諾圖爾恩附近黃金時刻的大麥田。",
+   "alt": "在低垂夕陽下閃耀的成熟大麥田"
+  },
+  "ar": {
+   "caption": "حقل شعير في الساعة الذهبية قرب نوتولن، ألمانيا.",
+   "alt": "حقل شعير ناضج يتوهج في ضوء شمس المساء المنخفضة"
+  },
+  "th": {
+   "caption": "ทุ่งข้าวบาร์เลย์ยามแสงทองใกล้นอตทูล์น ประเทศเยอรมนี",
+   "alt": "ทุ่งข้าวบาร์เลย์สุกเปล่งประกายในแสงแดดยามเย็น"
+  },
+  "tr": {
+   "caption": "Almanya'da Nottuln yakınlarında altın saatte bir arpa tarlası.",
+   "alt": "Alçalan akşam güneşinde parıldayan olgun arpa tarlası"
+  }
+ },
+ "sugarcane-field-karnataka-india": {
+  "en": {
+   "caption": "A sugarcane field near Srirangapatna, Karnataka, India.",
+   "alt": "Tall sugarcane with coconut palms behind, Karnataka",
+   "title": "Sugarcane field, Karnataka"
+  },
+  "it": {
+   "caption": "Un campo di canna da zucchero vicino a Srirangapatna, Karnataka, India.",
+   "alt": "Alta canna da zucchero con palme da cocco sullo sfondo, Karnataka",
+   "title": "Campo di canna da zucchero, Karnataka"
+  },
+  "fr": {
+   "caption": "Un champ de canne à sucre près de Srirangapatna, Karnataka, Inde.",
+   "alt": "Haute canne à sucre et cocotiers en arrière-plan, Karnataka",
+   "title": "Champ de canne à sucre, Karnataka"
+  },
+  "es": {
+   "caption": "Un campo de caña de azúcar cerca de Srirangapatna, Karnataka, India.",
+   "alt": "Caña de azúcar alta con cocoteros al fondo, Karnataka",
+   "title": "Campo de caña de azúcar, Karnataka"
+  },
+  "es-ar": {
+   "caption": "Un campo de caña de azúcar cerca de Srirangapatna, Karnataka, India.",
+   "alt": "Caña de azúcar alta con cocoteros al fondo, Karnataka",
+   "title": "Campo de caña de azúcar, Karnataka"
+  },
+  "de": {
+   "caption": "Ein Zuckerrohrfeld bei Srirangapatna, Karnataka, Indien.",
+   "alt": "Hohes Zuckerrohr mit Kokospalmen im Hintergrund, Karnataka"
+  },
+  "nl": {
+   "caption": "Een suikerrietveld bij Srirangapatna, Karnataka, India.",
+   "alt": "Hoog suikerriet met kokospalmen erachter, Karnataka"
+  },
+  "pl": {
+   "caption": "Pole trzciny cukrowej koło Srirangapatna, Karnataka, Indie.",
+   "alt": "Wysoka trzcina cukrowa z palmami kokosowymi w tle, Karnataka"
+  },
+  "pt": {
+   "caption": "Um campo de cana-de-açúcar perto de Srirangapatna, Karnataka, Índia.",
+   "alt": "Cana-de-açúcar alta com coqueiros ao fundo, Karnataka"
+  },
+  "pt-br": {
+   "caption": "Um campo de cana-de-açúcar perto de Srirangapatna, Karnataka, Índia.",
+   "alt": "Cana-de-açúcar alta com coqueiros ao fundo, Karnataka"
+  },
+  "ru": {
+   "caption": "Поле сахарного тростника близ Шрирангапатны, Карнатака, Индия.",
+   "alt": "Высокий сахарный тростник с кокосовыми пальмами позади, Карнатака"
+  },
+  "el": {
+   "caption": "Φυτεία ζαχαροκάλαμου κοντά στο Srirangapatna, Καρνάτακα, Ινδία.",
+   "alt": "Ψηλά ζαχαροκάλαμα με φοινικόδεντρα πίσω, Καρνάτακα"
+  },
+  "ja": {
+   "caption": "インド、カルナータカ州シュリーランガパトナ近郊のサトウキビ畑。",
+   "alt": "ココヤシを背にした背の高いサトウキビ畑（カルナータカ州）"
+  },
+  "ko": {
+   "caption": "인도 카르나타카주 스리랑가파트나 인근의 사탕수수밭.",
+   "alt": "코코야자를 배경으로 한 키 큰 사탕수수밭(카르나타카)"
+  },
+  "zh-hans": {
+   "caption": "印度卡纳塔克邦斯里伦格伯德讷附近的甘蔗田。",
+   "alt": "以椰子树为背景的高大甘蔗田（卡纳塔克邦）"
+  },
+  "zh-hant": {
+   "caption": "印度卡納塔克邦斯里倫格伯德訥附近的甘蔗田。",
+   "alt": "以椰子樹為背景的高大甘蔗田（卡納塔克邦）"
+  },
+  "ar": {
+   "caption": "حقل قصب سكر قرب سريرانغاباتنا، كارناتاكا، الهند.",
+   "alt": "قصب سكر طويل وخلفه أشجار جوز الهند، كارناتاكا"
+  },
+  "th": {
+   "caption": "ไร่อ้อยใกล้ศรีรังคปัฏฏนะ รัฐกรณาฏกะ ประเทศอินเดีย",
+   "alt": "ไร่อ้อยสูงมีต้นมะพร้าวเป็นฉากหลัง รัฐกรณาฏกะ"
+  },
+  "tr": {
+   "caption": "Hindistan'da Karnataka'da Srirangapatna yakınlarında bir şeker kamışı tarlası.",
+   "alt": "Arkada hindistancevizi palmiyeleriyle uzun şeker kamışı, Karnataka"
+  }
+ },
+ "barley-grains-with-and-without-husk": {
+  "en": {
+   "caption": "Barley grains with the husk (left) and with the husk removed (right).",
+   "alt": "Two heaps of barley grains, with and without husk, on a white background",
+   "title": "Barley grains with and without husk"
+  },
+  "it": {
+   "caption": "Chicchi d'orzo con la glume (a sinistra) e senza (a destra).",
+   "alt": "Due mucchietti di chicchi d'orzo, con e senza glume, su fondo bianco",
+   "title": "Chicchi d'orzo con e senza glume"
+  },
+  "fr": {
+   "caption": "Grains d'orge avec leur balle (à gauche) et décortiqués (à droite).",
+   "alt": "Deux tas de grains d'orge, avec et sans balle, sur fond blanc",
+   "title": "Grains d'orge avec et sans balle"
+  },
+  "es": {
+   "caption": "Granos de cebada con cascarilla (a la izquierda) y sin ella (a la derecha).",
+   "alt": "Dos montones de granos de cebada, con y sin cascarilla, sobre fondo blanco",
+   "title": "Granos de cebada con y sin cascarilla"
+  },
+  "es-ar": {
+   "caption": "Granos de cebada con cascarilla (a la izquierda) y sin ella (a la derecha).",
+   "alt": "Dos montones de granos de cebada, con y sin cascarilla, sobre fondo blanco",
+   "title": "Granos de cebada con y sin cascarilla"
+  },
+  "de": {
+   "caption": "Gerstenkörner mit Spelze (links) und entspelzt (rechts).",
+   "alt": "Zwei Häufchen Gerstenkörner, mit und ohne Spelze, auf weißem Grund"
+  },
+  "nl": {
+   "caption": "Gerstkorrels met kaf (links) en gepeld (rechts).",
+   "alt": "Twee hoopjes gerstkorrels, met en zonder kaf, op een witte achtergrond"
+  },
+  "pl": {
+   "caption": "Ziarna jęczmienia z łuską (po lewej) i obłuszczone (po prawej).",
+   "alt": "Dwie kupki ziaren jęczmienia, z łuską i bez, na białym tle"
+  },
+  "pt": {
+   "caption": "Grãos de cevada com casca (à esquerda) e descascados (à direita).",
+   "alt": "Dois montes de grãos de cevada, com e sem casca, sobre fundo branco"
+  },
+  "pt-br": {
+   "caption": "Grãos de cevada com casca (à esquerda) e sem casca (à direita).",
+   "alt": "Dois montinhos de grãos de cevada, com e sem casca, sobre fundo branco"
+  },
+  "ru": {
+   "caption": "Зёрна ячменя в оболочке (слева) и очищенные (справа).",
+   "alt": "Две горки ячменных зёрен — в оболочке и без неё — на белом фоне"
+  },
+  "el": {
+   "caption": "Κόκκοι κριθαριού με φλοιό (αριστερά) και αποφλοιωμένοι (δεξιά).",
+   "alt": "Δύο σωροί κόκκων κριθαριού, με και χωρίς φλοιό, σε λευκό φόντο"
+  },
+  "ja": {
+   "caption": "殻付きの大麦（左）と殻を除いた大麦（右）。",
+   "alt": "白い背景に置かれた、殻付きと殻なしの大麦の粒の2つの山"
+  },
+  "ko": {
+   "caption": "껍질이 있는 보리(왼쪽)와 껍질을 벗긴 보리(오른쪽).",
+   "alt": "흰 배경 위, 껍질이 있는 보리와 없는 보리 두 무더기"
+  },
+  "zh-hans": {
+   "caption": "带壳的大麦粒（左）和去壳的大麦粒（右）。",
+   "alt": "白色背景上带壳与去壳的两堆大麦粒"
+  },
+  "zh-hant": {
+   "caption": "帶殼的大麥粒（左）和去殼的大麥粒（右）。",
+   "alt": "白色背景上帶殼與去殼的兩堆大麥粒"
+  },
+  "ar": {
+   "caption": "حبوب شعير بالقشرة (يسارًا) ومنزوعة القشرة (يمينًا).",
+   "alt": "كومتان من حبوب الشعير، بالقشرة ومن دونها، على خلفية بيضاء"
+  },
+  "th": {
+   "caption": "เมล็ดข้าวบาร์เลย์ที่มีเปลือก (ซ้าย) และกะเทาะเปลือกแล้ว (ขวา)",
+   "alt": "เมล็ดข้าวบาร์เลย์สองกอง มีเปลือกและไม่มีเปลือก บนพื้นขาว"
+  },
+  "tr": {
+   "caption": "Kabuklu (solda) ve kabuğu soyulmuş (sağda) arpa taneleri.",
+   "alt": "Beyaz zeminde kabuklu ve kabuksuz iki küçük arpa tanesi yığını"
+  }
+ },
+ "apricot-liqueurs-krems-austria": {
+  "en": {
+   "caption": "Apricot liqueurs for sale in Krems an der Donau, Austria.",
+   "alt": "Bottles of apricot liqueur on a shop display in Krems",
+   "title": "Apricot liqueurs in Krems"
+  },
+  "it": {
+   "caption": "Liquori di albicocca in vendita a Krems an der Donau, in Austria.",
+   "alt": "Bottiglie di liquore di albicocca esposte in un negozio di Krems",
+   "title": "Liquori di albicocca a Krems"
+  },
+  "fr": {
+   "caption": "Liqueurs d'abricot en vente à Krems an der Donau, en Autriche.",
+   "alt": "Bouteilles de liqueur d'abricot en vitrine à Krems",
+   "title": "Liqueurs d'abricot à Krems"
+  },
+  "es": {
+   "caption": "Licores de albaricoque a la venta en Krems an der Donau, Austria.",
+   "alt": "Botellas de licor de albaricoque en el escaparate de una tienda de Krems",
+   "title": "Licores de albaricoque en Krems"
+  },
+  "es-ar": {
+   "caption": "Licores de albaricoque a la venta en Krems an der Donau, Austria.",
+   "alt": "Botellas de licor de albaricoque en el escaparate de una tienda de Krems",
+   "title": "Licores de albaricoque en Krems"
+  },
+  "de": {
+   "caption": "Marillenliköre im Verkauf in Krems an der Donau, Österreich.",
+   "alt": "Flaschen Marillenlikör in einer Auslage in Krems"
+  },
+  "nl": {
+   "caption": "Abrikozenlikeuren te koop in Krems an der Donau, Oostenrijk.",
+   "alt": "Flessen abrikozenlikeur in een etalage in Krems"
+  },
+  "pl": {
+   "caption": "Likiery morelowe na sprzedaż w Krems an der Donau w Austrii.",
+   "alt": "Butelki likieru morelowego na wystawie sklepu w Krems"
+  },
+  "pt": {
+   "caption": "Licores de damasco à venda em Krems an der Donau, Áustria.",
+   "alt": "Garrafas de licor de damasco numa montra em Krems"
+  },
+  "pt-br": {
+   "caption": "Licores de damasco à venda em Krems an der Donau, Áustria.",
+   "alt": "Garrafas de licor de damasco em uma vitrine em Krems"
+  },
+  "ru": {
+   "caption": "Абрикосовые ликёры в продаже в Кремсе-на-Дунае, Австрия.",
+   "alt": "Бутылки абрикосового ликёра на витрине в Кремсе"
+  },
+  "el": {
+   "caption": "Λικέρ βερίκοκου προς πώληση στο Krems an der Donau της Αυστρίας.",
+   "alt": "Μπουκάλια λικέρ βερίκοκου σε βιτρίνα στο Krems"
+  },
+  "ja": {
+   "caption": "オーストリア、クレムス・アン・デア・ドナウで売られているアプリコットリキュール。",
+   "alt": "クレムスの店頭に並ぶアプリコットリキュールのボトル"
+  },
+  "ko": {
+   "caption": "오스트리아 크렘스 안 데어 도나우에서 판매 중인 살구 리큐어.",
+   "alt": "크렘스의 상점에 진열된 살구 리큐어 병들"
+  },
+  "zh-hans": {
+   "caption": "奥地利多瑙河畔克雷姆斯出售的杏子利口酒。",
+   "alt": "克雷姆斯商店陈列的杏子利口酒"
+  },
+  "zh-hant": {
+   "caption": "奧地利多瑙河畔克雷姆斯出售的杏桃利口酒。",
+   "alt": "克雷姆斯商店陳列的杏桃利口酒"
+  },
+  "ar": {
+   "caption": "ليكورات المشمش معروضة للبيع في كريمس آن دير دوناو، النمسا.",
+   "alt": "زجاجات من ليكور المشمش معروضة في متجر في كريمس"
+  },
+  "th": {
+   "caption": "ลิเคียวร์แอปริคอตวางขายที่เครมส์อันเดอร์โดเนา ประเทศออสเตรีย",
+   "alt": "ขวดลิเคียวร์แอปริคอตวางขายในร้านที่เครมส์"
+  },
+  "tr": {
+   "caption": "Avusturya'da Krems an der Donau'da satılan kayısı likörleri.",
+   "alt": "Krems'te bir dükkânda sergilenen kayısı likörü şişeleri"
+  }
+ },
+ "coffee-cocktail-martini-glass": {
+  "en": {
+   "caption": "A coffee cocktail served in a martini glass.",
+   "alt": "Coffee cocktail in a martini glass on a brown background",
+   "title": "Coffee cocktail in a martini glass"
+  },
+  "it": {
+   "caption": "Un cocktail al caffè servito in una coppa martini.",
+   "alt": "Cocktail al caffè in una coppa martini su fondo marrone",
+   "title": "Cocktail al caffè in coppa martini"
+  },
+  "fr": {
+   "caption": "Un cocktail au café servi dans un verre à martini.",
+   "alt": "Cocktail au café dans un verre à martini sur fond brun",
+   "title": "Cocktail au café dans un verre à martini"
+  },
+  "es": {
+   "caption": "Un cóctel de café servido en una copa de martini.",
+   "alt": "Cóctel de café en una copa de martini sobre fondo marrón",
+   "title": "Cóctel de café en copa de martini"
+  },
+  "es-ar": {
+   "caption": "Un cóctel de café servido en una copa de martini.",
+   "alt": "Cóctel de café en una copa de martini sobre fondo marrón",
+   "title": "Cóctel de café en copa de martini"
+  },
+  "de": {
+   "caption": "Ein Kaffeecocktail im Martiniglas.",
+   "alt": "Kaffeecocktail in einem Martiniglas vor braunem Hintergrund"
+  },
+  "nl": {
+   "caption": "Een koffiecocktail in een martiniglas.",
+   "alt": "Koffiecocktail in een martiniglas tegen een bruine achtergrond"
+  },
+  "pl": {
+   "caption": "Koktajl kawowy podany w kieliszku do martini.",
+   "alt": "Koktajl kawowy w kieliszku do martini na brązowym tle"
+  },
+  "pt": {
+   "caption": "Um cocktail de café servido num copo de martini.",
+   "alt": "Cocktail de café num copo de martini sobre fundo castanho"
+  },
+  "pt-br": {
+   "caption": "Um coquetel de café servido em uma taça de martíni.",
+   "alt": "Coquetel de café em uma taça de martíni sobre fundo marrom"
+  },
+  "ru": {
+   "caption": "Кофейный коктейль в бокале для мартини.",
+   "alt": "Кофейный коктейль в бокале для мартини на коричневом фоне"
+  },
+  "el": {
+   "caption": "Κοκτέιλ καφέ σερβιρισμένο σε ποτήρι μαρτίνι.",
+   "alt": "Κοκτέιλ καφέ σε ποτήρι μαρτίνι σε καφέ φόντο"
+  },
+  "ja": {
+   "caption": "マティーニグラスで出されたコーヒーカクテル。",
+   "alt": "茶色の背景のマティーニグラスに入ったコーヒーカクテル"
+  },
+  "ko": {
+   "caption": "마티니 잔에 담아 낸 커피 칵테일.",
+   "alt": "갈색 배경 앞 마티니 잔에 담긴 커피 칵테일"
+  },
+  "zh-hans": {
+   "caption": "盛在马天尼杯中的咖啡鸡尾酒。",
+   "alt": "棕色背景前马天尼杯中的咖啡鸡尾酒"
+  },
+  "zh-hant": {
+   "caption": "盛在馬丁尼杯中的咖啡雞尾酒。",
+   "alt": "棕色背景前馬丁尼杯中的咖啡雞尾酒"
+  },
+  "ar": {
+   "caption": "كوكتيل قهوة يُقدَّم في كأس مارتيني.",
+   "alt": "كوكتيل قهوة في كأس مارتيني على خلفية بنية"
+  },
+  "th": {
+   "caption": "ค็อกเทลกาแฟเสิร์ฟในแก้วมาร์ตินี",
+   "alt": "ค็อกเทลกาแฟในแก้วมาร์ตินีบนพื้นหลังสีน้ำตาล"
+  },
+  "tr": {
+   "caption": "Martini kadehinde servis edilen kahveli bir kokteyl.",
+   "alt": "Kahverengi zemin önünde martini kadehinde kahveli kokteyl"
+  }
+ },
+ "elvillar-autumn-vineyard-rioja-alavesa": {
+  "en": {
+   "caption": "A vineyard in autumn near Elvillar, in the Rioja Alavesa (Basque Country).",
+   "alt": "Autumn vines in red and gold near Elvillar, Rioja Alavesa",
+   "title": "Autumn vineyard near Elvillar, Rioja Alavesa"
+  },
+  "it": {
+   "caption": "Un vigneto in autunno vicino a Elvillar, nella Rioja Alavesa (Paesi Baschi).",
+   "alt": "Viti autunnali rosse e dorate vicino a Elvillar, Rioja Alavesa",
+   "title": "Vigneto d'autunno vicino a Elvillar, Rioja Alavesa"
+  },
+  "fr": {
+   "caption": "Une vigne en automne près d'Elvillar, dans la Rioja Alavesa (Pays basque).",
+   "alt": "Vignes d'automne rouge et or près d'Elvillar, Rioja Alavesa",
+   "title": "Vigne d'automne près d'Elvillar, Rioja Alavesa"
+  },
+  "es": {
+   "caption": "Un viñedo en otoño cerca de Elvillar, en la Rioja Alavesa (País Vasco).",
+   "alt": "Vides otoñales rojas y doradas cerca de Elvillar, Rioja Alavesa",
+   "title": "Viñedo otoñal cerca de Elvillar, Rioja Alavesa"
+  },
+  "es-ar": {
+   "caption": "Un viñedo en otoño cerca de Elvillar, en la Rioja Alavesa (País Vasco).",
+   "alt": "Vides otoñales rojas y doradas cerca de Elvillar, Rioja Alavesa",
+   "title": "Viñedo otoñal cerca de Elvillar, Rioja Alavesa"
+  },
+  "de": {
+   "caption": "Ein Weinberg im Herbst bei Elvillar in der Rioja Alavesa (Baskenland).",
+   "alt": "Herbstliche Reben in Rot und Gold bei Elvillar, Rioja Alavesa"
+  },
+  "nl": {
+   "caption": "Een wijngaard in de herfst bij Elvillar in de Rioja Alavesa (Baskenland).",
+   "alt": "Herfstige wijnstokken in rood en goud bij Elvillar, Rioja Alavesa"
+  },
+  "pl": {
+   "caption": "Jesienna winnica koło Elvillar w Rioja Alavesa (Kraj Basków).",
+   "alt": "Jesienne krzewy w czerwieni i złocie koło Elvillar, Rioja Alavesa"
+  },
+  "pt": {
+   "caption": "Uma vinha no outono perto de Elvillar, na Rioja Alavesa (País Basco).",
+   "alt": "Videiras outonais em vermelho e dourado perto de Elvillar, Rioja Alavesa"
+  },
+  "pt-br": {
+   "caption": "Um vinhedo no outono perto de Elvillar, na Rioja Alavesa (País Basco).",
+   "alt": "Videiras de outono em vermelho e dourado perto de Elvillar, Rioja Alavesa"
+  },
+  "ru": {
+   "caption": "Осенний виноградник близ Эльвильяра в Риохе-Алавесе (Страна Басков).",
+   "alt": "Осенние лозы в красном и золотом близ Эльвильяра, Риоха-Алавеса"
+  },
+  "el": {
+   "caption": "Αμπελώνας το φθινόπωρο κοντά στο Elvillar, στη Rioja Alavesa (Χώρα των Βάσκων).",
+   "alt": "Φθινοπωρινά αμπέλια σε κόκκινο και χρυσό κοντά στο Elvillar, Rioja Alavesa"
+  },
+  "ja": {
+   "caption": "リオハ・アラベサ（バスク州）のエルビリャル近郊、秋のブドウ畑。",
+   "alt": "エルビリャル近郊、赤と金に色づいた秋のブドウ樹（リオハ・アラベサ）"
+  },
+  "ko": {
+   "caption": "리오하 알라베사(바스크) 엘비야르 인근의 가을 포도밭.",
+   "alt": "엘비야르 인근, 붉고 금빛으로 물든 가을 포도나무(리오하 알라베사)"
+  },
+  "zh-hans": {
+   "caption": "阿拉瓦里奥哈（巴斯克）埃尔维利亚尔附近的秋日葡萄园。",
+   "alt": "埃尔维利亚尔附近红金相间的秋日葡萄藤（阿拉瓦里奥哈）"
+  },
+  "zh-hant": {
+   "caption": "阿拉瓦利奧哈（巴斯克）埃爾維利亞爾附近的秋日葡萄園。",
+   "alt": "埃爾維利亞爾附近紅金相間的秋日葡萄藤（阿拉瓦利奧哈）"
+  },
+  "ar": {
+   "caption": "كرم في الخريف قرب إلفيار في ريوخا ألافيسا (إقليم الباسك).",
+   "alt": "كروم خريفية حمراء وذهبية قرب إلفيار، ريوخا ألافيسا"
+  },
+  "th": {
+   "caption": "ไร่องุ่นฤดูใบไม้ร่วงใกล้เอลบียาร์ ในรีโอคาอาลาเบซา (แคว้นบาสก์)",
+   "alt": "ต้นองุ่นฤดูใบไม้ร่วงสีแดงและทองใกล้เอลบียาร์ รีโอคาอาลาเบซา"
+  },
+  "tr": {
+   "caption": "Rioja Alavesa'da (Bask Bölgesi) Elvillar yakınlarında sonbaharda bir bağ.",
+   "alt": "Elvillar yakınlarında kırmızı ve altın renkli sonbahar asmaları, Rioja Alavesa"
+  }
  }
 }

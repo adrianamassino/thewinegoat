@@ -245,6 +245,7 @@ def credits_pages(used):
 
 
 # ------------------------------------------------------------------ app data
+AL = {'pt': 'pt-br'}   # the app's Portuguese is Brazilian Portuguese (the site keeps pt-PT on /pt/ and pt-BR on /pt-br/)
 APP_LANGS = ['it', 'fr', 'en', 'es', 'es-ar', 'de', 'nl', 'el', 'ja', 'ko', 'zh-hant', 'pt', 'tr', 'th', 'ru', 'pl', 'zh-hans', 'ar', 'pt-br']
 
 
@@ -256,7 +257,7 @@ def app_data():
         m = META[s]
         P[s] = {'w': m['width'], 'h': m['height'], 'ws': m['width_sm'], 'hs': m['height_sm'], 'a': m.get('author'), 'au': m.get('author_url') or '',
                 'l': m.get('licence'), 'lu': m.get('licence_url') or '', 's': m.get('source'),
-                'alt': {l: loc(s, l, 'alt') for l in APP_LANGS}, 'cap': {l: loc(s, l, 'caption') for l in APP_LANGS}}
+                'alt': {l: loc(s, AL.get(l, l), 'alt') for l in APP_LANGS}, 'cap': {l: loc(s, AL.get(l, l), 'caption') for l in APP_LANGS}}
     data = {'P': P, 'S': A['l3_schemi'], 'R': A['lessons'], 'CR': {l: CREDITS.get(l, CREDITS['es'] if l.startswith('es') else CREDITS['en']) for l in APP_LANGS},
             'CL': {l: CREDITS_LABEL[l] for l in APP_LANGS}, 'PH': {l: PHOTO[l] for l in APP_LANGS}}
     p = 'app/photos.js'
