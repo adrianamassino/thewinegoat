@@ -435,10 +435,19 @@ def _photo(r, commons):
 
 
 def photo_meta():
+    """meta.json entries marked "curated": true (visually checked, hand-written alt/caption/description/keywords/themes)
+    are kept as they are; only photos without a curated entry get the automatic metadata below."""
+    cur = {}
+    try:
+        cur = {(m.get('provider'), m.get('id')): m for m in json.load(open('img/photos/meta.json', encoding='utf8')) if m.get('curated')}
+    except Exception: pass
     out = []
     for pj, commons in (('img/photos/photos.json', True), ('img/photos/stock.json', False)):
         if os.path.exists(pj):
-            try: out += [_photo(r, commons) for r in json.load(open(pj, encoding='utf8'))]
+            try:
+                for r in json.load(open(pj, encoding='utf8')):
+                    c = cur.get(('wikimedia-commons' if commons else r.get('source'), r.get('id')))
+                    out.append(c if c and c.get('file') == f'img/photos/{r.get("file")}' else _photo(r, commons))
             except Exception as x: print('photos:', pj, x)
     if not out and not os.path.exists('img/photos/photos.json'): return None
     json.dump(out, open('img/photos/meta.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)

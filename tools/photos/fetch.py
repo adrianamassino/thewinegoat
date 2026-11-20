@@ -69,6 +69,11 @@ def main():
     if len(keep) != len(man): print(f'purged {len(man) - len(keep)} photos without a Commons quality rating')
     man = keep
     seen_titles = {m['title'] for m in man}; done_q = {m['query'] for m in man}
+    # photos removed during the visual curation (tools/photos/rejected.json) are never fetched again, their searches count as done
+    rej_p = 'tools/photos/rejected.json'
+    rej = json.load(open(rej_p, encoding='utf-8')).get('rejected', []) if os.path.exists(rej_p) else []
+    seen_titles |= {x['title'] for x in rej}; done_q |= {x['query'] for x in rej}
+    next_id = max([m['id'] for m in man] + [x['id'] for x in rej] + [0]) + 1
     rows = list(csv.DictReader(open('tools/photos/queries.csv', encoding='utf-8-sig')))
     if os.path.exists('tools/photos/queries_extra.csv'):  # spirits, beer, glasses, producers
         extra = list(csv.DictReader(open('tools/photos/queries_extra.csv', encoding='utf-8-sig')))
@@ -98,7 +103,7 @@ def main():
                 r = S.get(ii.get('thumburl') or ii['url'], timeout=60); r.raise_for_status()
                 im = Image.open(io.BytesIO(r.content)).convert('RGB')
             except Exception: continue
-            n = len(man) + 1; base = f"{n:04d}-{slug(q, 40)}-{slug(t.replace('File:', '').rsplit('.', 1)[0], 40)}"
+            n = next_id; next_id += 1; base =f"{n:04d}-{slug(q, 40)}-{slug(t.replace('File:', '').rsplit('.', 1)[0], 40)}"
             files = {}
             for wd, suf in ((1200, ''), (600, '-sm')):
                 x = im.copy(); x.thumbnail((wd, wd * 2), Image.LANCZOS)
