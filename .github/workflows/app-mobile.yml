@@ -18,9 +18,30 @@ jobs:
       - name: Prepara l'app web
         working-directory: mobile
         run: npm ci && npm run www && npx cap sync android
-      - name: Compila APK (da installare sul telefono) e AAB (per Google Play)
+      - name: Prova della firma e del numero di versione (chiave usa e getta, niente di segreto)
         working-directory: mobile/android
-        run: chmod +x gradlew && ./gradlew assembleDebug bundleRelease --no-daemon
+        run: |
+          # Stesso percorso del workflow di pubblicazione (app-release.yml), ma con una chiave creata qui e buttata via:
+          # così sappiamo che firma e versione funzionano prima di avere le chiavi vere.
+          P=$(openssl rand -hex 12); KS="$RUNNER_TEMP/prova.jks"
+          keytool -genkeypair -keystore "$KS" -storepass "$P" -keypass "$P" -alias prova -keyalg RSA -keysize 2048 -validity 2 -dname "CN=prova" >/dev/null 2>&1
+          chmod +x gradlew
+          TWG_KEYSTORE_FILE="$KS" TWG_KEYSTORE_PASSWORD="$P" TWG_KEY_ALIAS=prova TWG_KEY_PASSWORD="$P" \
+            ./gradlew bundleRelease --no-daemon -PtwgVersionCode=4321 -PtwgVersionName=9.8.7
+          AAB=app/build/outputs/bundle/release/app-release.aab
+          V=$(jarsigner -verify "$AAB" 2>&1 || true)
+          case "$V" in *"jar verified"*) echo "firma: ok";; *) echo "$V" | tail -5; echo "::error::l'AAB di prova non risulta firmato"; exit 1;; esac
+          python3 - "$AAB" <<'PY'
+          import sys, zipfile
+          m = zipfile.ZipFile(sys.argv[1]).read("base/manifest/AndroidManifest.xml")
+          ok = b"9.8.7" in m
+          print("nome di versione nell'AAB:", "ok" if ok else "NON TROVATO", "· numero 4321 presente come testo:", b"4321" in m)
+          sys.exit(0 if ok else 1)
+          PY
+          rm -f "$KS" "$AAB"
+      - name: Compila APK (da installare sul telefono) e AAB (non firmato)
+        working-directory: mobile/android
+        run: ./gradlew assembleDebug bundleRelease --no-daemon
       - uses: actions/upload-artifact@v4
         with:
           name: thewinegoat-android
@@ -44,3 +65,15 @@ jobs:
           cd build/Build/Products/Debug-iphonesimulator && zip -qr ../../../../TheWineGoat-simulator.zip App.app
       - uses: actions/upload-artifact@v4
         with: { name: thewinegoat-ios-simulator, path: mobile/ios/App/TheWineGoat-simulator.zip }
+      - name: Prova dell'archivio per iPhone e iPad veri (configurazione Release, senza firma Apple)
+        working-directory: mobile/ios/App
+        run: |
+          # È il primo passo del workflow di pubblicazione (app-release.yml): qui senza firma, per sapere che compila.
+          xcodebuild -project App.xcodeproj -scheme App -configuration Release -destination 'generic/platform=iOS' \
+            -derivedDataPath build -archivePath "$RUNNER_TEMP/Prova.xcarchive" \
+            CODE_SIGNING_ALLOWED=NO MARKETING_VERSION=9.8.7 CURRENT_PROJECT_VERSION=4321 archive | tail -3
+          PL="$RUNNER_TEMP/Prova.xcarchive/Products/Applications/App.app/Info.plist"
+          test "$(/usr/libexec/PlistBuddy -c 'Print :CFBundleShortVersionString' "$PL")" = "9.8.7"
+          test "$(/usr/libexec/PlistBuddy -c 'Print :CFBundleVersion' "$PL")" = "4321"
+          /usr/libexec/PlistBuddy -c 'Print :NSCameraUsageDescription' "$PL" >/dev/null
+          echo "archivio Release: ok (versione e permessi presenti)"

@@ -1,0 +1,141 @@
+# Pubblica le app nei negozi: AAB firmato per Google Play, build firmato per TestFlight / App Store.
+#
+# Parte SOLO a mano: GitHub > Actions > "App: pubblicazione" > Run workflow.
+# Servono dei segreti del repository (Settings > Secrets and variables > Actions > New repository secret).
+# Se ne manca uno, il lavoro si ferma subito e dice quale. Istruzioni passo passo: mobile/PUBBLICAZIONE.md
+#
+#   Android   ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD
+#             (facoltativo, per caricare da solo su Google Play: PLAY_SERVICE_ACCOUNT_JSON)
+#   iOS       APPLE_TEAM_ID, APPSTORE_KEY_ID, APPSTORE_ISSUER_ID, APPSTORE_P8
+#
+# Il numero di versione visibile (1.0.0) è "version" in mobile/package.json; il numero di build cresce da solo
+# a ogni esecuzione. I segreti non compaiono mai nei log e le chiavi vengono cancellate a fine lavoro.
+name: "App: pubblicazione"
+on:
+  workflow_dispatch:
+    inputs:
+      android:
+        description: "Android: AAB firmato per Google Play"
+        type: boolean
+        default: true
+      ios:
+        description: "iOS: carica su App Store Connect (TestFlight)"
+        type: boolean
+        default: true
+      play_track:
+        description: "Android: carica anche su Google Play in questa traccia (serve PLAY_SERVICE_ACCOUNT_JSON)"
+        type: choice
+        options: ["non caricare", "internal", "alpha", "beta", "production"]
+        default: "non caricare"
+permissions:
+  contents: read
+concurrency:
+  group: app-release
+  cancel-in-progress: false
+jobs:
+  android:
+    if: ${{ inputs.android }}
+    runs-on: ubuntu-latest
+    env:
+      ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+      TWG_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+      TWG_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+      TWG_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+      PLAY_SERVICE_ACCOUNT_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+      PLAY_TRACK: ${{ inputs.play_track }}
+    steps:
+      - name: Controlla che i segreti ci siano
+        run: |
+          miss=""
+          [ -n "$ANDROID_KEYSTORE_BASE64" ] || miss="$miss ANDROID_KEYSTORE_BASE64"
+          [ -n "$TWG_KEYSTORE_PASSWORD" ]   || miss="$miss ANDROID_KEYSTORE_PASSWORD"
+          [ -n "$TWG_KEY_ALIAS" ]           || miss="$miss ANDROID_KEY_ALIAS"
+          [ -n "$TWG_KEY_PASSWORD" ]        || miss="$miss ANDROID_KEY_PASSWORD"
+          if [ -n "$miss" ]; then echo "::error::Mancano questi segreti del repository:$miss. Vedi mobile/PUBBLICAZIONE.md"; exit 1; fi
+          if [ "$PLAY_TRACK" != "non caricare" ] && [ -z "$PLAY_SERVICE_ACCOUNT_JSON" ]; then
+            echo "::error::Per caricare su Google Play serve il segreto PLAY_SERVICE_ACCOUNT_JSON. Vedi mobile/PUBBLICAZIONE.md"; exit 1; fi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: mobile/package-lock.json }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 21 }
+      - name: Prepara l'app web
+        working-directory: mobile
+        run: npm ci && npm run www && npx cap sync android
+      - name: Compila e firma l'AAB
+        working-directory: mobile/android
+        run: |
+          KS="$RUNNER_TEMP/upload.jks"
+          printf '%s' "$ANDROID_KEYSTORE_BASE64" | base64 -d > "$KS"
+          VER=$(node -p "require('../package.json').version"); CODE=$((100 + GITHUB_RUN_NUMBER))
+          echo "versione $VER, build $CODE"
+          chmod +x gradlew
+          TWG_KEYSTORE_FILE="$KS" ./gradlew bundleRelease --no-daemon -PtwgVersionCode=$CODE -PtwgVersionName=$VER
+          rm -f "$KS"
+          AAB=app/build/outputs/bundle/release/app-release.aab
+          V=$(jarsigner -verify "$AAB" 2>&1 || true)
+          case "$V" in *"jar verified"*) echo "firma: ok";; *) echo "$V" | tail -5; echo "::error::l'AAB non risulta firmato"; exit 1;; esac
+          mv "$AAB" "$RUNNER_TEMP/thewinegoat-$VER-$CODE.aab"
+          echo "AAB=$RUNNER_TEMP/thewinegoat-$VER-$CODE.aab" >> "$GITHUB_ENV"
+          echo "### Android: versione $VER, build $CODE" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: thewinegoat-android-release
+          path: ${{ env.AAB }}
+          retention-days: 30
+      - name: Carica su Google Play
+        if: ${{ inputs.play_track != 'non caricare' }}
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          packageName: com.thewinegoat.app
+          releaseFiles: ${{ env.AAB }}
+          track: ${{ inputs.play_track }}
+          status: draft
+  ios:
+    if: ${{ inputs.ios }}
+    runs-on: macos-latest
+    env:
+      APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+      APPSTORE_KEY_ID: ${{ secrets.APPSTORE_KEY_ID }}
+      APPSTORE_ISSUER_ID: ${{ secrets.APPSTORE_ISSUER_ID }}
+      APPSTORE_P8: ${{ secrets.APPSTORE_P8 }}
+    steps:
+      - name: Controlla che i segreti ci siano
+        run: |
+          miss=""
+          for v in APPLE_TEAM_ID APPSTORE_KEY_ID APPSTORE_ISSUER_ID APPSTORE_P8; do [ -n "${!v}" ] || miss="$miss $v"; done
+          if [ -n "$miss" ]; then echo "::error::Mancano questi segreti del repository:$miss. Vedi mobile/PUBBLICAZIONE.md"; exit 1; fi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: mobile/package-lock.json }
+      - name: Prepara l'app web
+        working-directory: mobile
+        run: npm ci && npm run www && npx cap sync ios
+      - name: Archivia, firma e carica su App Store Connect
+        working-directory: mobile/ios/App
+        run: |
+          mkdir -p "$RUNNER_TEMP/keys"; KEY="$RUNNER_TEMP/keys/AuthKey_${APPSTORE_KEY_ID}.p8"
+          printf '%s\n' "$APPSTORE_P8" > "$KEY"
+          trap 'rm -f "$KEY"' EXIT
+          VER=$(node -p "require('../../package.json').version"); BUILD=$((100 + GITHUB_RUN_NUMBER))
+          echo "versione $VER, build $BUILD"
+          AUTH=(-allowProvisioningUpdates -authenticationKeyPath "$KEY" -authenticationKeyID "$APPSTORE_KEY_ID" -authenticationKeyIssuerID "$APPSTORE_ISSUER_ID")
+          xcodebuild -project App.xcodeproj -scheme App -configuration Release -destination 'generic/platform=iOS' \
+            -derivedDataPath build -archivePath "$RUNNER_TEMP/TheWineGoat.xcarchive" "${AUTH[@]}" \
+            DEVELOPMENT_TEAM="$APPLE_TEAM_ID" CODE_SIGN_STYLE=Automatic MARKETING_VERSION="$VER" CURRENT_PROJECT_VERSION="$BUILD" archive | tail -15
+          cat > "$RUNNER_TEMP/export.plist" <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>teamID</key><string>$APPLE_TEAM_ID</string>
+            <key>signingStyle</key><string>automatic</string>
+            <key>manageAppVersionAndBuildNumber</key><false/>
+            <key>uploadSymbols</key><true/>
+          </dict></plist>
+          EOF
+          xcodebuild -exportArchive -archivePath "$RUNNER_TEMP/TheWineGoat.xcarchive" -exportOptionsPlist "$RUNNER_TEMP/export.plist" \
+            -exportPath "$RUNNER_TEMP/export" "${AUTH[@]}" | tail -15
+          echo "### iOS: versione $VER, build $BUILD caricato su App Store Connect (TestFlight)" >> "$GITHUB_STEP_SUMMARY"

@@ -1,5 +1,11 @@
 apply plugin: 'com.android.application'
 
+// Versione e firma arrivano da GitHub Actions (.github/workflows/app-release.yml, vedi mobile/PUBBLICAZIONE.md).
+// Senza quei valori il build resta quello di prova: versione 1.0 (1), AAB non firmato.
+def twgVersionCode = (project.findProperty('twgVersionCode') ?: '1') as Integer
+def twgVersionName = project.findProperty('twgVersionName') ?: '1.0'
+def twgKeystore = System.getenv('TWG_KEYSTORE_FILE')
+
 android {
     namespace = "com.thewinegoat.app"
     compileSdk = rootProject.ext.compileSdkVersion
@@ -7,8 +13,8 @@ android {
         applicationId "com.thewinegoat.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode twgVersionCode
+        versionName twgVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -16,8 +22,21 @@ android {
             ignoreAssetsPattern = '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    signingConfigs {
+        release {
+            if (twgKeystore) {
+                storeFile file(twgKeystore)
+                storePassword System.getenv('TWG_KEYSTORE_PASSWORD')
+                keyAlias System.getenv('TWG_KEY_ALIAS')
+                keyPassword System.getenv('TWG_KEY_PASSWORD')
+            }
+        }
+    }
     buildTypes {
         release {
+            if (twgKeystore) {
+                signingConfig signingConfigs.release
+            }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
