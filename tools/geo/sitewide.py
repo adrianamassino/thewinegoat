@@ -2,7 +2,8 @@
 """Site-wide GEO post-processing of every public HTML page (not app/, tools/, mobile/, supabase/). Idempotent.
 Run from the repo root after any page generator:   python3 tools/geo/sitewide.py [--check] [--quiet]
 1. Footer: adds a link to the About page (localized label; the page's own language when an About page exists in it,
-   otherwise /about/ with hreflang="en"), in both footer templates (class="foot" and the homes' class="foot3").
+   otherwise /about/ with hreflang="en"), in both footer templates (class="foot" and the homes' class="foot3"), and
+   right after it a link to the photo credits page (/photo-credits/, it, fr, es; written by tools/seo_tech/place_photos.py).
 2. JSON-LD: one Organization (@id https://thewinegoat.com/#organization) and one WebSite (@id …/#website) node per
    page, identical everywhere; every author/publisher/provider reference to The Wine Goat (inline objects, old
    …/#org, …/<lang>/#org, …/#site ids) points to them; Article / WebPage / CollectionPage nodes get isPartOf, author,
@@ -18,6 +19,11 @@ SL = json.load(open('tools/geo/slugs.json', encoding='utf8'))['about']
 LABEL = {'en': 'About', 'it': 'Chi siamo', 'fr': 'À propos', 'es': 'Sobre nosotros', 'es-ar': 'Sobre nosotros', 'de': 'Über uns', 'nl': 'Over ons',
          'pl': 'O nas', 'pt': 'Sobre nós', 'pt-br': 'Sobre nós', 'ru': 'О нас', 'el': 'Σχετικά με εμάς', 'ja': '私たちについて', 'ko': '소개',
          'zh-hans': '关于我们', 'zh-hant': '關於我們', 'ar': 'من نحن', 'th': 'เกี่ยวกับเรา', 'tr': 'Hakkımızda'}
+PHOTOS = {'en': '/photo-credits/', 'it': '/it/crediti-fotografici/', 'fr': '/fr/credits-photos/', 'es': '/es/creditos-fotograficos/', 'es-ar': '/es/creditos-fotograficos/'}
+PH_LABEL = {'en': 'Photo credits', 'it': 'Crediti fotografici', 'fr': 'Crédits photos', 'es': 'Créditos fotográficos', 'es-ar': 'Créditos fotográficos',
+            'de': 'Bildnachweise', 'nl': 'Fotoverantwoording', 'pl': 'Źródła zdjęć', 'pt': 'Créditos fotográficos', 'pt-br': 'Créditos das fotos',
+            'ru': 'Авторы фотографий', 'el': 'Πηγές φωτογραφιών', 'ja': '写真のクレジット', 'ko': '사진 출처', 'zh-hans': '图片来源', 'zh-hant': '圖片來源',
+            'ar': 'حقوق الصور', 'th': 'เครดิตภาพ', 'tr': 'Fotoğraf künyesi'}
 ORG_NODE = {"@type": "Organization", "@id": ORG, "name": "The Wine Goat", "url": SITE + "/",
             "logo": {"@type": "ImageObject", "@id": SITE + "/#logo", "url": SITE + "/img/logo.png", "width": 1655, "height": 848, "caption": "The Wine Goat"},
             "image": {"@id": SITE + "/#logo"}, "email": "hello@thewinegoat.com", "sameAs": ["https://www.instagram.com/the.winegoat/"],
@@ -60,6 +66,16 @@ def footer(s, lang):
         f = m.group(0)
         f2 = f.replace('<a class="fschool"', a + ' · <a class="fschool"', 1)
         if f2 != f: s = s[:m.start()] + f2 + s[m.end():]
+    # photo credits link, right after the About link (only once the credits page exists)
+    if os.path.exists('photo-credits/index.html'):
+        ph = PHOTOS.get(lang, PHOTOS['en']); hl = '' if lang in ('en', 'it', 'fr', 'es') else (' hreflang="es"' if lang == 'es-ar' else ' hreflang="en"')
+        b = f'<a class="fphotos" href="{ph}"{hl}>{PH_LABEL[lang]}</a>'
+        for cls in ('foot', 'foot3'):
+            m = re.search(rf'<footer class="{cls}">.*?</footer>', s, re.S)
+            if m and 'class="fphotos"' not in m.group(0):
+                f = m.group(0)
+                f2 = re.sub(r'(<a class="fabout"[^>]*>[^<]*</a>)', lambda x: x.group(1) + ' · ' + b, f, count=1)
+                if f2 != f: s = s[:m.start()] + f2 + s[m.end():]
     return s
 
 

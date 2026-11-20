@@ -242,6 +242,8 @@ def homes_sync():
             open(f, 'w', encoding='utf8').write(s)
             if l == 'es-ar' and os.path.exists('tools/ar_goats.py'):  # keep the Argentine shirts on the walking goats
                 os.system(f'{sys.executable} tools/ar_goats.py >/dev/null')
+            if l == 'es-ar' and os.path.exists('tools/ar_football.py'):  # football x wine scenes (idempotent, after ar_goats)
+                os.system(f'{sys.executable} tools/ar_football.py >/dev/null')
     return homes, alts + reg
 
 
@@ -345,6 +347,8 @@ def main():
     nl = llms_sync(lm)
     if os.path.exists('tools/seo_tech/variant_titles.py'):  # es-ar / pt-br pages get their own <title> (not identical to es / pt)
         os.system(f'{sys.executable} tools/seo_tech/variant_titles.py >/dev/null')
+    if os.path.exists('tools/seo_tech/place_photos.py'):  # free photos (tools/photos/placement.json) in every language version + credits pages
+        os.system(f'{sys.executable} tools/seo_tech/place_photos.py --quiet')
     if os.path.exists('tools/seo_tech/images.py'):  # image SEO: descriptive file names, localized alt, width/height, lazy/LCP, ImageObject, sitemap-images.xml
         os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
     if os.path.exists('tools/geo/sitewide.py'):  # GEO: About link in every footer, one Organization/WebSite JSON-LD, git dates

@@ -12,6 +12,8 @@ What it does
   list; width/height = intrinsic ratio; hero image (guide infographic / home app screenshot) eager + fetchpriority=high,
   everything below the header loading=lazy decoding=async; srcset/sizes where an -sm exists; one ImageObject JSON-LD
   (<script id="twg-image-ld">) for the hero with creator/credit/copyright (own images only).
+- Free photos placed by tools/seo_tech/place_photos.py (<figure class="seophoto">): kept as written (localized alt,
+  <picture>, lazy), listed in sitemap-images.xml with their localized title/caption and in the inventory per language.
 - sitemap-images.xml (+ Sitemap line in robots.txt), img/photos/meta.json (when img/photos/photos.json exists),
   tools/seo_tech/image_inventory.xlsx + .csv (20 fields of the image SEO rules + licensing + flags).
 Hooked into tools/site_i18n/build.py (sync step), tools/seo_core/build.py and tools/seo_sp/build.py."""
@@ -34,6 +36,22 @@ INFO_SIZES = '(max-width: 940px) calc(100vw - 40px), 860px'
 OWN = {'@id': SITE + '/#organization'}   # the site-wide Organization node (tools/geo/sitewide.py)
 INFO_SRC_P = f'{HERE}/infographic_alt_src.json'   # original English infographic alts (to restore translations, see restore_alt)
 e = lambda s: s.replace('&', '&amp;').replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
+
+
+_PHM = {}
+def photo_title(p, lang):
+    """localized title of a free photo (img/photos/meta.json + meta_i18n.json), '' when not translated"""
+    if not _PHM:
+        try:
+            _PHM['m'] = {os.path.basename(m['file']): m for m in json.load(open('img/photos/meta.json', encoding='utf8')) if m.get('file')}
+            _PHM['i'] = json.load(open('img/photos/meta_i18n.json', encoding='utf8')) if os.path.exists('img/photos/meta_i18n.json') else {}
+        except Exception: _PHM['m'], _PHM['i'] = {}, {}
+    base = os.path.basename(p).replace('-sm.webp', '.webp'); stem = base[:-5]
+    if lang == 'en': return (_PHM['m'].get(base) or {}).get('title', '')
+    d = _PHM['i'].get(stem, {})
+    for l in ([lang, 'es'] if lang == 'es-ar' else [lang, 'pt'] if lang == 'pt-br' else [lang]):
+        if d.get(l, {}).get('title'): return d[l]['title']
+    return ''
 
 
 def page_lang(s):
@@ -271,6 +289,9 @@ def process_page(page, text=None):
                 alt = clean_info_alt(alt, lang)
                 title = html.unescape(getv(at, 'title') or '')
             elif kind == 'logo': role = 'logo'
+            elif kind == 'photo':
+                title = photo_title(p, lang)
+                if 'pc-th' in cls: role = 'credits thumbnail'
             if getv(at, 'alt') is None or (getv(at, 'alt') != e(alt) and html.unescape(getv(at, 'alt')) != alt) or "&#x27;" in (getv(at, 'alt') or ''):
                 setv(at, 'alt', e(alt))
             # width/height from the intrinsic size (keeps the CSS-chosen width, fixes the ratio)
@@ -305,8 +326,12 @@ def process_page(page, text=None):
             if kind == 'info':
                 fm = re.search(r'<figcaption>(.*?)</figcaption>', s0[start:start + len(tag) + 2000], re.S)
                 if fm: cap = html.unescape(re.sub(r'<[^>]+>', '', fm.group(1))).strip()
+            elif kind == 'photo' and role == 'content':
+                fm = re.search(r'<span class="ph-cap">(.*?)</span>', s0[start:start + len(tag) + 3000], re.S)
+                if fm: cap = html.unescape(re.sub(r'<[^>]+>', '', fm.group(1))).strip()
             if not noindex:
-                note(p, lang, page, alt, role, title, cap)
+                np_ = p.replace('-sm.webp', '.webp') if kind == 'photo' else p   # credits thumbnails: report on the photo's row
+                note(np_, lang, page, alt, role, title, cap)
                 imgs.append((p, title, cap or alt, kind, role, alt))
             out = build(at)
             return tag if parse(out) == parse(tag) else out
@@ -336,7 +361,7 @@ def process_page(page, text=None):
             q = fs_path(r, page)
             if q and os.path.exists(q) and ((q, lang) not in USAGE or USAGE[(q, lang)]['roles'] == {'meta (og:image / icon / logo)'}): note(q, lang, page, '', 'meta (og:image / icon / logo)')
         url = page_url(page, s)
-        keep = [(q, t, c, k) for q, t, c, k, r, a in imgs if (hero and q == hero[0]) or (is_home and k == 'goat' and r == 'content')]
+        keep = [(q, t, c, k) for q, t, c, k, r, a in imgs if (hero and q == hero[0]) or (is_home and k == 'goat' and r == 'content') or (k == 'photo' and r == 'content')]
         seen = set(); PAGEIMG[url] = [x for x in keep if not (x[0] in seen or seen.add(x[0]))]
     if text is not None: return s
     if s != s0:
@@ -527,7 +552,11 @@ def inventory():
                 kw = {'primary': title.split(':')[0] if title else '', 'secondary': [], 'longtail': title, 'semantic': ['WSET', 'wine study']}
             elif kind == 'photo':
                 r = PH.get(f, {})
-                alt, title, cap, desc, kw = r.get('alt', ''), r.get('title', ''), r.get('caption', ''), r.get('description', ''), r.get('keywords', {})
+                kw = r.get('keywords', {})
+                if u and lg != 'en':   # localized alt / title / caption as placed on the pages of that language
+                    title, desc = title or r.get('title', ''), (cap or alt)
+                else:
+                    alt, title, cap, desc = r.get('alt', ''), r.get('title', ''), r.get('caption', ''), r.get('description', '')
             elif kind == 'deco':
                 desc = 'Small goat illustration from the brand set, placed by assets/deco.js as a page decoration (alt="", aria-hidden).'
             elif kind == 'logo':
@@ -544,9 +573,12 @@ def inventory():
             if kind == 'goat' and base in GOATS and GOATS[base].get('dup_of'): flags.append(f'duplicate artwork of {GOATS[base]["dup_of"]}')
             if kind == 'goat' and base == 'hero.webp': flags.append('logo goat (same file as logo-emblem.webp): logo only')
             if kind == 'goat' and u and lg != 'en' and meta and lg not in meta['alt'] and role == 'content': flags.append('ALT not localized')
-            if kind == 'photo': flags.append('not placed yet (relevance to be checked per page)')
+            if kind == 'photo' and not u: flags.append('not placed yet (relevance to be checked per page)')
+            if kind == 'photo' and u and lg != 'en' and alt == PH.get(f, {}).get('alt'): flags.append('ALT not localized')
             if u is None and kind not in ('photo',): flags.append('not used on site pages')
-            status = ('Prepared (meta.json, not placed)' if kind == 'photo' else
+            status = ('Prepared (meta.json, not placed)' if kind == 'photo' and not u else
+                      'Credits page thumbnail (photo used in the app)' if kind == 'photo' and role == 'credits thumbnail' else
+                      'Placed (place_photos.py): localized ALT + caption, credit line, <picture> 600/1200 px, width/height, lazy' if kind == 'photo' else
                       'Not used on pages' if u is None else
                       'Decorative (deco.js): alt="", width/height, lazy' if kind == 'deco' else
                       'Decorative: alt="", width/height, lazy' + (', srcset' if kind == 'goat' else '') if role in ('ornament',) else

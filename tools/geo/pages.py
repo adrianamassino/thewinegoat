@@ -272,5 +272,6 @@ if __name__ == '__main__':
     open('llms-full.txt', 'w', encoding='utf8').write(lf)
     # same post-processing as the other builders: image SEO (if present), then the GEO site-wide pass
     if '--no-post' not in sys.argv:
+        if os.path.exists('tools/seo_tech/place_photos.py'): os.system(f'{sys.executable} tools/seo_tech/place_photos.py --quiet')  # credits pages use the About pages as template
         if os.path.exists('tools/seo_tech/images.py'): os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
         if os.path.exists('tools/geo/sitewide.py'): os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
