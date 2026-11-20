@@ -353,6 +353,8 @@ def main():
         os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
     if os.path.exists('tools/geo/sitewide.py'):  # GEO: About link in every footer, one Organization/WebSite JSON-LD, git dates
         os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
+    for t in ('tools/home_lang_claims.py', 'tools/home_quiz_themes.py'):  # homes: truthful language claims; quick quiz with theme picker (th/tr rebuilt from the English home)
+        if os.path.exists(t): os.system(f'{sys.executable} {t} --quiet')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); sitemap: {gs} guide + {hs} home URLs in the i18n blocks; llms.txt: {nl} links')
 
 
