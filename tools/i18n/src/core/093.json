@@ -1,0 +1,266 @@
+[
+{
+"en": "Your quiz result",
+"it": "Il risultato del tuo quiz"
+},
+{
+"en": "Wine",
+"it": "Vino"
+},
+{
+"en": "Beer",
+"it": "Birra"
+},
+{
+"en": "Spirits",
+"it": "Distillati"
+},
+{
+"en": "Sake",
+"it": "Sake"
+},
+{
+"en": "Mix",
+"it": "Mix"
+},
+{
+"en": "{n} out of {t} correct",
+"it": "{n} risposte giuste su {t}"
+},
+{
+"en": "Your level",
+"it": "Il tuo livello"
+},
+{
+"en": "Wine Level {n}",
+"it": "Vino Livello {n}"
+},
+{
+"en": "Spirits Level {n}",
+"it": "Distillati Livello {n}"
+},
+{
+"en": "You are just starting out: begin with {L1}, the foundations.",
+"it": "Sei all'inizio: comincia da {L1}, le basi."
+},
+{
+"en": "You have good basics: you look ready to start {L2}.",
+"it": "Hai buone basi: puoi iniziare {L2}."
+},
+{
+"en": "You are close to exam standard: strengthen your weak topics in {L2}.",
+"it": "Sei vicino al livello d'esame: rinforza i tuoi punti deboli in {L2}."
+},
+{
+"en": "Excellent: you look ready for the {L2} exam and can start {L3}.",
+"it": "Ottimo: sembri pronto per l'esame di {L2} e puoi iniziare {L3}."
+},
+{
+"en": "You are just starting out: a great moment to learn the basics.",
+"it": "Sei all'inizio: è il momento giusto per imparare le basi."
+},
+{
+"en": "You have good basics and know the essentials.",
+"it": "Hai buone basi e conosci l'essenziale."
+},
+{
+"en": "Solid knowledge: just a few topics left to polish.",
+"it": "Conoscenze solide: restano pochi argomenti da rifinire."
+},
+{
+"en": "Excellent: you really know your subject.",
+"it": "Ottimo: conosci davvero bene l'argomento."
+},
+{
+"en": "Your score by topic",
+"it": "Il tuo punteggio per argomento"
+},
+{
+"en": "What to do next",
+"it": "Cosa fare adesso"
+},
+{
+"en": "{g}: {c}/{n} correct. Go through the lessons, then take the chapter quiz.",
+"it": "{g}: {c}/{n} giuste. Ripassa le lezioni, poi fai il quiz del capitolo."
+},
+{
+"en": "{g}: {c}/{n} correct. Read the explanations again and retake the quiz.",
+"it": "{g}: {c}/{n} giuste. Rileggi le spiegazioni e rifai il quiz."
+},
+{
+"en": "Start with the first lessons of {L}: short chapters, each with its own quiz.",
+"it": "Parti dalle prime lezioni di {L}: capitoli brevi, ognuno con il suo quiz."
+},
+{
+"en": "When your weak topics are above 70%, take a mock exam in {L}.",
+"it": "Quando i punti deboli superano il 70%, fai un esame simulato in {L}."
+},
+{
+"en": "You are ready for more: start {L}.",
+"it": "Puoi andare oltre: inizia {L}."
+},
+{
+"en": "The courses in the app cover wine and spirits: a good next step is {L}.",
+"it": "I corsi dell'app riguardano vino e distillati: un buon passo successivo è {L}."
+},
+{
+"en": "No weak topic: well done! Keep it fresh with a mixed quiz every few days.",
+"it": "Nessun punto debole: complimenti! Tieni fresca la memoria con un quiz misto ogni pochi giorni."
+},
+{
+"en": "A little every day works best: {d} h a day beats one long session a week.",
+"it": "Meglio poco ogni giorno: {d} h al giorno valgono più di una lunga sessione a settimana."
+},
+{
+"en": "Open {L}",
+"it": "Apri {L}"
+},
+{
+"en": "Back to the quiz",
+"it": "Torna al quiz"
+},
+{
+"en": "Estimated preparation time",
+"it": "Tempo di preparazione stimato"
+},
+{
+"en": "To be ready for the {L} exam",
+"it": "Per arrivare pronti all'esame di {L}"
+},
+{
+"en": "To reach a solid intermediate level",
+"it": "Per raggiungere un solido livello intermedio"
+},
+{
+"en": "To reach an advanced level",
+"it": "Per raggiungere un livello avanzato"
+},
+{
+"en": "about 1 week",
+"it": "circa 1 settimana"
+},
+{
+"en": "about {w} weeks",
+"it": "circa {w} settimane"
+},
+{
+"en": "≈ {h} hours of study in total, at {d} h a day, 6 days a week.",
+"it": "≈ {h} ore di studio in totale, con {d} h al giorno, 6 giorni a settimana."
+},
+{
+"en": "This is an estimate, not a promise: it depends on your pace and on your course.",
+"it": "È una stima, non una promessa: dipende dal tuo ritmo e dal tuo corso."
+},
+{
+"en": "Study time per day:",
+"it": "Tempo di studio al giorno:"
+},
+{
+"en": "{d} h",
+"it": "{d} h"
+},
+{
+"en": "Continue to the app",
+"it": "Continua nell'app"
+},
+{
+"en": "Saved to your account.",
+"it": "Salvato nel tuo account."
+},
+{
+"en": "Saved on this device.",
+"it": "Salvato su questo dispositivo."
+},
+{
+"en": "Create your free account to see your score and your personalised plan.",
+"it": "Crea il tuo account gratuito per vedere il punteggio e il tuo piano personalizzato."
+},
+{
+"en": "Close",
+"it": "Chiudi"
+},
+{
+"en": "Grape varieties",
+"it": "Vitigni"
+},
+{
+"en": "Wine regions",
+"it": "Regioni del vino"
+},
+{
+"en": "Vineyard and winemaking",
+"it": "Vigna e vinificazione"
+},
+{
+"en": "Sparkling, sweet and fortified wines",
+"it": "Spumanti, vini dolci e fortificati"
+},
+{
+"en": "Storage, service and food pairing",
+"it": "Conservazione, servizio e abbinamenti"
+},
+{
+"en": "Tasting",
+"it": "Degustazione"
+},
+{
+"en": "Distillation and maturation",
+"it": "Distillazione e invecchiamento"
+},
+{
+"en": "Whisky",
+"it": "Whisky"
+},
+{
+"en": "Cognac and fruit spirits",
+"it": "Cognac e distillati di frutta"
+},
+{
+"en": "Rum and Tequila",
+"it": "Rum e Tequila"
+},
+{
+"en": "Vodka, gin and liqueurs",
+"it": "Vodka, gin e liquori"
+},
+{
+"en": "Cocktails",
+"it": "Cocktail"
+},
+{
+"en": "Beer ingredients",
+"it": "Ingredienti della birra"
+},
+{
+"en": "Brewing",
+"it": "Produzione della birra"
+},
+{
+"en": "Beer styles",
+"it": "Stili di birra"
+},
+{
+"en": "Serving and tasting beer",
+"it": "Servizio e degustazione della birra"
+},
+{
+"en": "Rice, koji and water",
+"it": "Riso, koji e acqua"
+},
+{
+"en": "Sake brewing",
+"it": "Produzione del sake"
+},
+{
+"en": "Sake styles and grades",
+"it": "Stili e categorie di sake"
+},
+{
+"en": "Serving sake",
+"it": "Servizio del sake"
+},
+{
+"en": "Take the full 50-question mock exam ({L})",
+"it": "Fai l'esame simulato completo da 50 domande ({L})"
+}
+]

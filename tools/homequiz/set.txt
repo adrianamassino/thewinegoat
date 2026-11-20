@@ -1,0 +1,7 @@
+# The fixed home assessment: the questions of each theme, in this order (ids from src/en.txt). Same questions every time.
+# Balanced over the topics so the per-topic recommendations in the app work. mix = a fixed selection from the four themes.
+wine: w10 w03 w08 w07 w15 w06 w22 w17 w11 w48 w41 w38 w12 w05 w29 w49 w45 w37 w28 w33
+spirits: s01 s07 s03 s16 s13 s19 s02 s08 s04 s05 s15 s44 s18 s09 s31 s41 s12 s46 s20 s27
+beer: b01 b04 b06 b13 b02 b15 b07 b16 b03 b08 b14 b47 b21 b09 b26 b46 b23 b12 b30 b37
+sake: k01 k06 k13 k09 k02 k11 k03 k04 k07 k10 k15 k05 k08 k16 k30 k12 k18 k33 k45 k29
+mix: w10 s07 b06 w03 k06 w08 s03 b01 w07 s19 w15 k01 b04 w06 s13 w33 k13 s01 b16 w48

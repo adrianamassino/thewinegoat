@@ -7,7 +7,7 @@ in their own chunks (core/000…), then the content. tools/i18n/src/manifest.jso
 
 Sources
   core : runtime UI dictionaries of Level 3 (T.en/T.it exported from the browser by export_ui.js), the other UI
-         dictionaries written in the code (account window, notes, plan…, l2/l2app.js, l2/media.js, cellar.js,
+         dictionaries written in the code (account window, notes, plan…, l2/l2app.js, l2/media.js, cellar.js, hqresult.js,
          winedb.js labels), every [it,fr,en] array / {it,fr,en} object of index.html (questions, lessons, maps,
          films…), podcast titles and app/podtext/en.json. Strings needed by two or more levels also go to core.
   l1, l2, s1, s2 : runtime UI of that level not already in core (l2app texts with that level's numbers…),
@@ -167,7 +167,7 @@ def main():
     ui_dump(os.path.join(ui, 'ui-3.json'), core)
     idx = rd(os.path.join(APP, 'index.html'))
     lang_blocks(idx, core)
-    for f in ['l2/l2app.js', 'l2/media.js', 'cellar.js']: lang_blocks(rd(os.path.join(APP, f)), core)
+    for f in ['l2/l2app.js', 'l2/media.js', 'cellar.js', 'hqresult.js']: lang_blocks(rd(os.path.join(APP, f)), core)
     try:
         W = node_dump(os.path.join(APP, 'winedb.js'), 'TWG_WINEDB')['TWG_WINEDB'] or {}
         L = W.get('L') or {}
