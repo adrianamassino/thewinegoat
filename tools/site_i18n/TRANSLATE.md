@@ -34,7 +34,7 @@ One job = **one group × one language** = one file. Repo: `/home/claude/thewineg
 - **Neutral wording** for the reader: no feminine-only or masculine-only forms (use impersonal/plural forms where possible). Informal
   "you" where the language uses it for learning apps (de du, nl je, el informal, tr sen, pt-br você, pt tu/você neutral; ja です/ます;
   ko 해요체; th polite neutral without ครับ/ค่ะ; ar Modern Standard Arabic).
-- **Never** add prices, costs or payment; never claim any affiliation with or endorsement by WSET; never call our questions
+- **Never** add The Wine Goat's own prices or payment (wine prices and costs in the source are translated faithfully, never softened); never claim any affiliation with or endorsement by WSET; never call our questions
   "official" or "real exam questions" (say practice / sample questions). Keep "start free" wording.
 - Facts stay exactly as in English (exam formats, numbers, percentages, marks); units as in the source.
 - **Length**: the published page must keep ≥ 3,000 words for alphabetic languages; ja/zh/ko/th are counted in characters

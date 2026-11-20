@@ -27,7 +27,7 @@ The app shows English text and replaces it on screen with your translation (same
 - Grape varieties and place names: as the wine trade of that country writes them (de: Burgund, Bordeaux, Rhône, Spätburgunder only when the German wine is meant; ja/ko/zh-hant/th: the established local transliteration, e.g. ja シャルドネ, ko 샤르도네, zh-hant 夏多內; el/tr: the usual trade spelling, often the original Latin form).
 - Appellation names and legal terms are **never translated**: Barolo DOCG, Rioja Gran Reserva, Chablis Premier Cru, Prädikatswein, Vin de Pays, Bourbon, Cognac VSOP, Tequila reposado… keep the original spelling. Translate only the explanation around them.
 - Tasting terms: use the standard terms of the systematic tasting approach in that language if they exist (acidity, tannin, body, finish, medium(-)/medium(+) keep the `(-)`/`(+)` marks); otherwise the usual professional terms.
-- Do not mention any exam body, course provider, book or publisher (no "WSET", no book titles), even if a source string seems to; write "the exam", "the course", "the syllabus". Never mention prices or costs. Never imply an affiliation with any organisation.
+- Do not mention any exam body, course provider, book or publisher (no "WSET", no book titles), even if a source string seems to; write "the exam", "the course", "the syllabus". Never mention The Wine Goat's own prices (subscription, plans, discounts, payment). Wine prices, costs, cheap/expensive and value in the source are translated FAITHFULLY: never soften, reword or drop them. Never imply an affiliation with any organisation.
 
 ## Register and wording
 
