@@ -7,6 +7,9 @@ Usage: python3 tools/i18n/build_lang.py <lang>        lang = de | nl | el | ja |
 Input : tools/i18n/<lang>/<scope>/NNN.txt  — one translation per line, aligned with tools/i18n/src/<scope>/NNN.json
         (same order, same number of lines; a newline inside a text is written as \\n; an empty line = not translated yet)
 Map   : tools/i18n/<lang>-map.json         — key = English text, so translations survive a new extraction
+Extra : tools/i18n/core-extra.json        — {English: {lang: translation}} for strings a level shows that the extraction put in
+        another level's scope (or skipped, it == en), e.g. "Vodka" (s2) shown in Spirits 1: served with the core file
+        (so every level gets it) unless the map already has a translation of that key from its own scope
 Output: app/i18n/<lang>.js                 — core strings      → TWG_I18N["<lang>"]
         app/i18n/<lang>/<level>.js         — l1, l2, s1, s2     → merged into the same map, loaded only for that level
         and the version of each file in the TWG_I18NV marker of app/index.html (the service worker caches scripts).
@@ -26,6 +29,7 @@ def src(scope):
 def build(lg):
     mp = os.path.join(D, f'{lg}-map.json')
     M = json.load(open(mp, encoding='utf8')) if os.path.exists(mp) else {}
+    xp = os.path.join(D, 'core-extra.json'); X = json.load(open(xp, encoding='utf8')) if os.path.exists(xp) else {}
     warn = 0
     for sc in SCOPES:
         chunks = dict(src(sc))
@@ -49,6 +53,7 @@ def build(lg):
     for sc in SCOPES:
         keys = [it['en'] for _, c in src(sc) for it in c]
         sub = {k: M[k] for k in keys if k in M}
+        if sc == 'core': sub.update({k: X[k][lg] for k in X if k not in sub and X[k].get(lg)})
         name = lg if sc == 'core' else f'{lg}/{sc}'
         js = ('window.TWG_I18N=window.TWG_I18N||{};TWG_I18N[%s]=Object.assign(TWG_I18N[%s]||{},%s);'
               '(window.TWG_I18N_F=window.TWG_I18N_F||{})[%s]=1;\n') % (json.dumps(lg), json.dumps(lg), json.dumps(sub, ensure_ascii=False, separators=(',', ':')), json.dumps(name))

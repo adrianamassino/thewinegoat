@@ -1,0 +1,35 @@
+{
+ "Cola": {
+  "de": "Cola",
+  "el": "Κόλα",
+  "ja": "コーラ",
+  "ko": "콜라",
+  "nl": "Cola",
+  "pt": "Cola",
+  "th": "โคล่า",
+  "tr": "Kola",
+  "zh-hant": "可樂"
+ },
+ "Rum": {
+  "de": "Rum",
+  "el": "Ρούμι",
+  "ja": "ラム",
+  "ko": "럼",
+  "nl": "Rum",
+  "pt": "Rum",
+  "th": "รัม",
+  "tr": "Rom",
+  "zh-hant": "蘭姆酒"
+ },
+ "Vodka": {
+  "de": "Wodka",
+  "el": "Βότκα",
+  "ja": "ウォッカ",
+  "ko": "보드카",
+  "nl": "Wodka",
+  "pt": "Vodca",
+  "th": "วอดก้า",
+  "tr": "Votka",
+  "zh-hant": "伏特加"
+ }
+}
