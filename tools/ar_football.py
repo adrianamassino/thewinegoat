@@ -292,14 +292,10 @@ def lane_touch(i, what):
     return out
 
 
-# the runner needs the lane width for its keyframes
-LWJS = """<script id="arflw">document.addEventListener('DOMContentLoaded',function(){function f(){[].forEach.call(document.querySelectorAll('.glane'),function(l){l.style.setProperty('--lw',l.clientWidth+'px')})}f();addEventListener('resize',f)});</script>"""
 
 
-CSS = '''<style id="arfoot">
-.arfb{display:flex;justify-content:center;max-width:980px;margin:26px auto 6px;padding:0 16px;pointer-events:none;position:relative;z-index:1}
-.arfb .afs{flex:0 1 auto;width:250px}.arfb .afs-cork{width:min(520px,100%)}.arfb .afs-toast{width:330px}
-.afs svg{display:block;width:100%;height:auto;overflow:visible}
+# scene animations, shared by the home and the es-ar guide bands (tools/ar_football_guides.py)
+SCENE_CSS = '''.afs svg{display:block;width:100%;height:auto;overflow:visible}
 .afs *{transform-box:view-box}
 .afs .afg .bodyall{transform-origin:120px 182px;animation:afbreath 3s ease-in-out infinite}
 .afs .afg .ear{animation:afear 4.4s ease-in-out infinite}.afs .afg .tail{animation:aftail 1s ease-in-out infinite}
@@ -367,46 +363,48 @@ CSS = '''<style id="arfoot">
 @keyframes afsave{0%{transform:translate(90px,40px);opacity:0;animation-timing-function:linear}8%{opacity:1}38%{transform:translate(0,0);animation-timing-function:cubic-bezier(.2,.6,.5,1)}62%{transform:translate(40px,-70px);opacity:1}78%,100%{transform:translate(60px,-90px);opacity:0}}
 @keyframes afreach{0%,18%,82%,100%{transform:none}38%,58%{transform:rotate(-125deg)}}
 .afs-keep .afg-keep .leg.fl{animation:afreach 3s ease-in-out infinite}
-/* 8 la corrida (hero lane): gallop across, ball ahead */
-.glane .afs{position:absolute;bottom:0;z-index:1;pointer-events:none}
-.glane .afs-run{left:0;width:112px;animation:afrun 10s linear infinite}
-@keyframes afrun{0%{transform:translateX(-130px)}62%,100%{transform:translateX(calc(var(--lw,1200px) + 20px))}}
+/* 8 la corrida: gallop, ball ahead (the run across is set by the page that hosts it) */
 .afs-run .afg .bodyall{animation:afgal .36s ease-in-out infinite}@keyframes afgal{50%{transform:translateY(-10px) rotate(-3deg)}}
 .afs-run .afg .leg.fl{animation:afgf .36s ease-in-out infinite}.afs-run .afg .leg.bl{animation:afgb .36s ease-in-out infinite}
 @keyframes afgf{0%,100%{transform:rotate(-38deg)}50%{transform:rotate(26deg)}}@keyframes afgb{0%,100%{transform:rotate(30deg)}50%{transform:rotate(-30deg)}}
 .afs-run .afg .head{transform:rotate(8deg)}
 .afs-run .afspin2{transform-origin:296px 176px;animation:afrot .7s linear infinite}
 .afs-run .afdrib{animation:afdrib .72s ease-in-out infinite}@keyframes afdrib{50%{transform:translateX(12px)}}
-/* 9 saltos (final lane) */
+/* 9 saltos */
 .afs-jump .afhop{animation:afhop 1.6s cubic-bezier(.3,.7,.4,1) infinite}
 @keyframes afhop{0%,100%{transform:translateY(0) scale(1,1)}12%{transform:translateY(6px) scale(1.04,.94)}45%{transform:translateY(-44px) rotate(-6deg)}75%{transform:translateY(0)}}
 .afs-jump .afg .leg{animation:aftuck 1.6s ease-in-out infinite}.afs-jump .afg .head{animation:afcheer 1.6s ease-in-out infinite}
-/* lanes on this page host scenes instead of walking goats */
-main .glane.gl2{height:200px}main .glane.gl3{height:210px}main .glane.gl4{height:176px}
-.glane .afs-toast{left:calc(50% - 160px);width:320px}.glane .afs-keep{left:calc(56% - 115px);width:230px}.glane .afs-jump{left:calc(50% - 100px);width:200px}
+@media (prefers-reduced-motion:reduce){.afs *{animation:none!important}.afs-toast .afspark{opacity:0}.afs-kick .afshotg,.afs-kick .afshot{opacity:0}.afs-cork .afpop{opacity:0}}'''
+
+HOME_CSS = r'''.arfb{display:flex;justify-content:center;max-width:980px;margin:26px auto 6px;padding:0 16px;pointer-events:none;position:relative;z-index:1}
+.arfb .afs{flex:0 1 auto;width:250px}.arfb .afs-cork{width:min(520px,100%)}
+/* lanes on this page: gl2 and gl3 host a scene; gl1 (hero, absolute) is left empty; gl4 keeps only its grapes, as a low strip */
+.glane .afs{position:absolute;bottom:0;z-index:1;pointer-events:none}
+main .glane.gl2{height:210px}main .glane.gl3{height:214px}main .glane.gl4{height:44px}
+.glane .afs-keep{left:calc(56% - 115px);width:230px}.glane .afs-cup{left:calc(50% - 110px);width:220px}
 /* deco.js goats (capes, walking past) are not drawn on this page: the football goats take their place */
 .dkWalk,.dkMob,.dkA:has(svg.vg){display:none!important}
-/* recurring touches on the walking lanes */
+/* recurring touches on the scene lanes */
 .glane .afl-ball{position:absolute;left:0;bottom:2px;width:22px;z-index:0;pointer-events:none;animation:aflx 11s linear infinite}
 .glane .afl-ball>span{display:block;animation:afly .9s infinite}
 .glane .afl-ball svg,.glane .afl-st svg{display:block;width:100%;height:auto;overflow:visible}
 @keyframes aflx{0%{left:-30px}100%{left:calc(100% + 10px)}}
 @keyframes afly{0%,100%{transform:translateY(0) rotate(0);animation-timing-function:cubic-bezier(.2,.7,.4,1)}50%{transform:translateY(-34px) rotate(180deg);animation-timing-function:cubic-bezier(.6,0,.8,.3)}}
 .glane .afl-st{position:absolute;top:0;width:42px;z-index:0;pointer-events:none;animation:afstar 2.2s ease-in-out infinite}
-@media (max-width:700px){.arfb{margin:18px auto 2px;padding:0 12px}.arfb .afs{width:250px}.arfb .afs-cork{width:100%;max-width:420px}main .glane.gl2{height:190px}main .glane.gl3{height:200px}main .glane.gl4{height:170px}.glane .afs-toast{left:calc(50% - 150px);width:300px}.glane .afs-keep{left:calc(50% - 110px);width:220px}.glane .afs-jump{left:calc(50% - 98px);width:196px}.glane .afs-run{width:92px}}
-@media (prefers-reduced-motion:reduce){.glane .afs-run{animation:none!important;transform:translateX(calc(var(--lw,1200px) * .1))}.arfb *,.glane .afs *,.glane .afl-ball,.glane .afl-ball *,.glane .afl-st{animation:none!important}.glane .afl-ball{display:none}.afs-toast .afspark{opacity:0}.afs-kick .afshotg,.afs-kick .afshot{opacity:0}.afs-cork .afpop{opacity:0}}
-</style>'''
+@media (max-width:700px){.arfb{margin:18px auto 2px;padding:0 12px}.arfb .afs{width:250px}.arfb .afs-cork{width:100%;max-width:420px}main .glane.gl2{height:200px}main .glane.gl3{height:204px}main .glane.gl4{height:40px}.glane .afs-keep{left:calc(50% - 110px);width:220px}.glane .afs-cup{left:calc(50% - 105px);width:210px}}
+@media (prefers-reduced-motion:reduce){.arfb *,.glane .afs *,.glane .afl-ball,.glane .afl-ball *,.glane .afl-st{animation:none!important}.glane .afl-ball{display:none}}'''
+
+CSS = '<style id="arfoot">\n' + SCENE_CSS + '\n' + HOME_CSS + '\n</style>'
 
 # bands: one scene per section gap (anchor = the section the band goes right before)
+# only 4 scenes on the home, well spaced (the 5 others live on es-ar guide pages: tools/ar_football_guides.py)
 BANDS = [
     ('<section class="sec3 lvl3 sp3" id="spirits">', s_chilena),
-    ('<section class="sec3 lvl3" id="wset-prep">', s_cork),
-    ('<section class="sec3 lv3" id="level">', s_podium),
-    ('<section id="por-que" class="sec3 feat3">', s_juggle),
-    ('<section id="faq" class="sec3 faq3">', s_goal),
+    ('<section id="por-que" class="sec3 feat3">', s_cork),
 ]
-# walking lanes: the walking goats are replaced by a scene (grapes and lane stay as the stage)
-LANESC = {'gl1': (s_run, ()), 'gl2': (s_toast, ('ball', 'stars')), 'gl3': (s_keeper, ('stars',)), 'gl4': (s_jump, ('ball',))}
+# walking lanes: the walking goats are replaced by a scene (grapes and lane stay as the stage);
+# gl1 (hero) and gl4 (final block, right under the big goat picture) host no scene any more: their old scene markup is removed, gl4 keeps its grapes
+LANESC = {'gl2': (s_keeper, ('stars',)), 'gl3': (s_podium, ('ball',))}
 GW = re.compile(r'<div class="gw[^"]*"[^>]*>\s*<svg class="tgoat".*?</svg>\s*</div>', re.S)
 MARK = re.compile(r'<!--arfl(?::(gl\d))?-->.*?<!--/arfl(?::gl\d)?-->', re.S)
 LANE_OPEN = re.compile(r'<div class="glane (gl\d)')
@@ -439,13 +437,17 @@ def main():
     s = MARK.sub(lambda m: ph(lane_of(s, m.start())), s)
     s = GW.sub(lambda m: ph(lane_of(s, m.start())), s)
     s = re.sub('\x00(gl\\d)\x00', lambda m: lane_html(m.group(1)), s)
+    for gl in LANESC:  # a lane that had neither walking goats nor an old scene: the scene goes right after its opening tag
+        if gl not in done:
+            s, k = re.subn(rf'<div class="glane {gl}"[^>]*>', lambda m: m.group(0) + lane_html(gl), s, count=1)
+            if k: done.add(gl)
     n = 0
     for i, (anchor, f) in enumerate(BANDS, 1):
         if s.count(anchor) != 1:
             print('ar_football: anchor not found, skipped band', i); continue
         s = s.replace(anchor, f'<!--arf:{i}--><div class="arfb" aria-hidden="true">{f()}</div><!--/arf:{i}-->\n' + anchor, 1); n += 1
     # right after <head>: a fixed spot, so other tools that re-append their styles before </head> never swap the order
-    s = re.sub(r'<head(?:\s[^>]*)?>', lambda m: m.group(0) + CSS + LWJS, s, count=1)
+    s = re.sub(r'<head(?:\s[^>]*)?>', lambda m: m.group(0) + CSS, s, count=1)
     if s != o:
         open(P, 'w', encoding='utf8').write(s)
     print('ar_football: band scenes', n, '| lane scenes', len(done), '| changed' if s != o else '| unchanged')
