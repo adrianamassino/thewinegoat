@@ -3,9 +3,9 @@
 "source": "schools/index.html",
 "url": "/schools/",
 "region": "main",
-"sha": "19fd5100640c",
-"words": 3355,
-"segment_words": 3468,
+"sha": "084c1205cb75",
+"words": 3390,
+"segment_words": 3520,
 "segments": [
 {
 "t": "App for wine schools: class licences & white label | The Wine Goat",
@@ -49,6 +49,11 @@
 "k": "text"
 },
 {
+"t": "Help more of your students pass, with less marking (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
 "t": "Help more of your students pass, with less marking | wine school app",
 "k": "attr",
 "n": "alt/title/aria text"
@@ -58,7 +63,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Smiling goat crowned with grape bunches and vine leaves, chin resting on its hooves",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -299,7 +304,7 @@
 "k": "text"
 },
 {
-"t": "International classes benefit when students can revise in the language they think in. The Wine Goat is available in English, Italian, French and Spanish, so a student following a course in one language can consolidate difficult concepts in another and then return to the exam vocabulary. Schools should check the language arrangements for the exam itself with their usual procedures.",
+"t": "International classes benefit when students can revise in the language they think in. The Wine Goat's interface is available in 14 languages and its full lessons and questions in English, Italian, French and Spanish, so a student following a course in one language can consolidate difficult concepts in another and then return to the exam vocabulary. Schools should check the language arrangements for the exam itself with their usual procedures.",
 "k": "text"
 },
 {
@@ -671,7 +676,7 @@
 "k": "text"
 },
 {
-"t": "Italian, French, English and Spanish today, with more languages coming — ideal for international classes.",
+"t": "App interface in 14 languages; full lessons and questions in Italian, French, English and Spanish today, with more languages coming — ideal for international classes.",
 "k": "text"
 },
 {
@@ -883,7 +888,7 @@
 "k": "text"
 },
 {
-"t": "Yes. The app is available in English, Italian, French and Spanish, so students can consolidate difficult concepts in the language they are most comfortable with and then return to the vocabulary of the course. This is especially useful in international classes. Questions about the language of the exam itself should be handled through the school's usual procedures.",
+"t": "Yes. The app interface is available in 14 languages and the full lessons and questions in English, Italian, French and Spanish, with more languages being added, so students can consolidate difficult concepts in the language they are most comfortable with and then return to the vocabulary of the course. This is especially useful in international classes. Questions about the language of the exam itself should be handled through the school's usual procedures.",
 "k": "text"
 },
 {
