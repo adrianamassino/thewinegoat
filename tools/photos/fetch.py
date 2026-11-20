@@ -62,7 +62,7 @@ def search(q, cat):
          'gsrlimit': 30, 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata', 'iiurlwidth': 1600, 'iiextmetadatalanguage': 'en'}
     if q.startswith('cat:'):
         name = q[4:].strip(); p['gsrlimit'] = 50
-        for expr in (f'deepcategory:"{name}"', f'incategory:"{name}"', name):
+        for expr in (f'deepcategory:"{name}"', f'incategory:"{name}"'):   # no bare-name fallback: it returned birds for "Merlot" and Iran for "Syrah"
             pages = api(dict(p, gsrsearch=f'{expr} filetype:bitmap {cat}'))
             if pages: return pages
         return []
@@ -109,6 +109,8 @@ def main():
             mixed.append(r)
             if i % 4 == 3 and ei < len(extra): mixed.append(extra[ei]); ei += 1
         rows = mixed + extra[ei:]
+        # the specific searches (Commons categories 'cat:' and exact phrases '=') first: they match the course topics
+        rows = sorted(rows, key=lambda r: 0 if r['Ricerca immagine'].strip()[:4] == 'cat:' or r['Ricerca immagine'].strip()[:1] == '=' else 1)
     skipped = 0
     start = len(man)
     for row in rows:
