@@ -242,7 +242,7 @@
   "format": "WEBP",
   "alt": "Steep terraced vineyards above the blue Ligurian Sea near Manarola, Cinque Terre",
   "title": "Cinque Terre coastline with terraced vineyards",
-  "caption": "The Cinque Terre's dry-stone terraces were built over centuries to grow vines on cliffs that drop straight into the sea.",
+  "caption": "Terraced vineyards above the Ligurian coast near Manarola, in the Cinque Terre, Italy.",
   "description": "From above Manarola the view runs north-west along the Cinque Terre coast towards Corniglia, Monterosso and Punta Mesco. In the foreground, narrow terraces climb the hillside, a reminder of the heroic viticulture of Liguria, where vineyards on steep coastal slopes are still tended largely by hand.",
   "keywords": {
    "primary": "Cinque Terre vineyards",
@@ -1033,62 +1033,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 47,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/trappist-brewery-rochefort-abbey.webp",
-  "file_sm": "img/photos/trappist-brewery-rochefort-abbey-sm.webp",
-  "original_file": "0047-trappist-brewery-8213-brewery-in-abbaye-notre-dame-de-sai.webp",
-  "width": 1200,
-  "height": 800,
-  "width_sm": 600,
-  "height_sm": 400,
-  "format": "WEBP",
-  "alt": "Oak barrel, copper vessels and a small cask in a tiled room of the Rochefort Trappist brewery",
-  "title": "Rochefort Trappist brewery, Belgium",
-  "caption": "Trappist beers are brewed within the walls of a Trappist abbey, under the monks' supervision.",
-  "description": "Inside the brewery of the Abbey of Notre-Dame de Saint-Remy at Rochefort, Wallonia, Belgium: a wooden barrel, polished copper containers and a small cask stand in a white-tiled room with stained-glass windows. Brewing has been the abbey's main source of income since the 16th century.",
-  "keywords": {
-   "primary": "Trappist brewery",
-   "secondary": [
-    "Rochefort beer",
-    "Belgian beer",
-    "abbey brewing"
-   ],
-   "longtail": "inside the Rochefort Trappist brewery in Wallonia, Belgium",
-   "semantic": [
-    "Trappist beer",
-    "brewing",
-    "Belgian beer styles"
-   ]
-  },
-  "themes": [
-   "beer"
-  ],
-  "topics": [
-   "beer",
-   "belgium",
-   "brewing"
-  ],
-  "region": "Wallonia",
-  "country": "Belgium",
-  "language": "en",
-  "commons_title": "File:8213 Brewery in Abbaye Notre-Dame de Saint-Remy Rochefort 2007 Luca Galuzzi.jpg",
-  "commons_description": "Rochefort Trappist Brewery in Abbey of Our Lady of Saint-Remy, Wallonia, Belgium. Brewing is the main source of income for the monastery since the 16th century.",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:8213_Brewery_in_Abbaye_Notre-Dame_de_Saint-Remy_Rochefort_2007_Luca_Galuzzi.jpg",
-  "author": "Luca Galuzzi (Lucag)",
-  "licence": "CC BY-SA 2.5",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Luca Galuzzi (Lucag), CC BY-SA 2.5 via Wikimedia Commons",
-  "credit": "Photo: Luca Galuzzi (Lucag), CC BY-SA 2.5 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 61,
   "provider": "wikimedia-commons",
   "curated": true,
@@ -1728,118 +1672,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 95,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/cinque-terre-vineyard-terraces-volastra.webp",
-  "file_sm": "img/photos/cinque-terre-vineyard-terraces-volastra-sm.webp",
-  "original_file": "0095-terraced-vineyards-close-up-vineyards-terraces-volastra-cinque-terre.webp",
-  "width": 1200,
-  "height": 800,
-  "width_sm": 600,
-  "height_sm": 400,
-  "format": "WEBP",
-  "alt": "Steep hillside of narrow green vine terraces north of Volastra",
-  "title": "Vineyard terraces at Volastra, Cinque Terre",
-  "caption": "Cinque Terre's white wines are based mainly on Bosco, Albarola and Vermentino; Sciacchetrà is its sweet dried-grape wine.",
-  "description": "Vineyards on steep terraces north of Volastra in the Cinque Terre, Liguria, Italy. Dozens of narrow strips held by dry-stone walls cover the slope, many reachable only on foot or by small monorail. This is a textbook example of heroic viticulture on steep coastal land.",
-  "keywords": {
-   "primary": "Cinque Terre terraces",
-   "secondary": [
-    "Volastra vineyards",
-    "Liguria terraced vineyards",
-    "heroic viticulture"
-   ],
-   "longtail": "steep vineyard terraces near Volastra in the Cinque Terre",
-   "semantic": [
-    "dry-stone walls",
-    "Sciacchetrà",
-    "Italian wine"
-   ]
-  },
-  "themes": [
-   "vineyards"
-  ],
-  "topics": [
-   "italy",
-   "liguria",
-   "cinque-terre",
-   "terraces"
-  ],
-  "region": "Liguria",
-  "country": "Italy",
-  "language": "en",
-  "commons_title": "File:Vineyards Terraces Volastra Cinque Terre Sep23 A7C 06780.jpg",
-  "commons_description": "Vineyards on steep terraces north of Volastra, Cinque Terre, Liguria, Italy",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Vineyards_Terraces_Volastra_Cinque_Terre_Sep23_A7C_06780.jpg",
-  "author": "Timothy A. Gonsalves",
-  "licence": "CC BY-SA 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0 via Wikimedia Commons",
-  "credit": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
-  "id": 100,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/franken-vineyard-dusk-ipsheim.webp",
-  "file_sm": "img/photos/franken-vineyard-dusk-ipsheim-sm.webp",
-  "original_file": "0100-vineyard-aerial-view-photography-weinberg-ipsheim-burghoheneck-sk-0001.webp",
-  "width": 1200,
-  "height": 900,
-  "width_sm": 600,
-  "height_sm": 450,
-  "format": "WEBP",
-  "alt": "Dark vine rows on a slope beneath a dramatic evening sky near Ipsheim",
-  "title": "Vineyard near Burg Hoheneck, Franken",
-  "caption": "Franken's vineyards experience a continental climate, with cold winters and warm summers.",
-  "description": "A vineyard near Hoheneck Castle with Ipsheim in the background, in the Franken wine region of Bavaria, Germany. Rows of vines curve along the slope under a cloudy evening sky with a band of light on the horizon, giving a sense of the wide open landscape of this northern wine area.",
-  "keywords": {
-   "primary": "Franken vineyard",
-   "secondary": [
-    "Bavarian vineyards",
-    "Ipsheim",
-    "German vineyard landscape"
-   ],
-   "longtail": "vineyard near Hoheneck Castle and Ipsheim in Franken",
-   "semantic": [
-    "continental climate",
-    "German wine",
-    "vineyard slope"
-   ]
-  },
-  "themes": [
-   "vineyards"
-  ],
-  "topics": [
-   "franken",
-   "germany"
-  ],
-  "region": "Franken",
-  "country": "Germany",
-  "language": "en",
-  "commons_title": "File:Weinberg-Ipsheim-BurgHoheneck SK 0001.jpg",
-  "commons_description": "Vineyard near castle Hoheneck with Ipsheim in the background, Bavaria, Germany",
-  "commons_quality": "featured",
-  "source": "https://commons.wikimedia.org/wiki/File:Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg",
-  "author": "Simon Koopmann",
-  "licence": "CC BY-SA 2.0 de",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Simon Koopmann, CC BY-SA 2.0 de via Wikimedia Commons",
-  "credit": "Photo: Simon Koopmann, CC BY-SA 2.0 de via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 102,
   "provider": "wikimedia-commons",
   "curated": true,
@@ -1966,7 +1798,7 @@
   "format": "WEBP",
   "alt": "Vines in the foreground and Schloss Staufenberg perched on a vineyard hill above Durbach",
   "title": "Schloss Staufenberg vineyards, Durbach",
-  "caption": "Durbach, in Baden's Ortenau district at the edge of the Black Forest, is known for steep vineyards on granite.",
+  "caption": "Vineyards around Schloss Staufenberg at Durbach in Baden, Germany.",
   "description": "The vineyards of Schloss Staufenberg at Durbach, Baden-Württemberg, on the western edge of the Black Forest. Green rows of vines in the foreground lead the eye up the steep hills to the castle estate on the summit, with the Rhine plain visible in the distance.",
   "keywords": {
    "primary": "Durbach vineyards",
@@ -2178,177 +2010,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 118,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/dry-stone-walls-vineyard-geigersberg.webp",
-  "file_sm": "img/photos/dry-stone-walls-vineyard-geigersberg-sm.webp",
-  "original_file": "0118-vineyard-aerial-view-traditional-sachsenheim-ochsenbach-geigersberg-nordl.webp",
-  "width": 1200,
-  "height": 776,
-  "width_sm": 600,
-  "height_sm": 388,
-  "format": "WEBP",
-  "alt": "Old dry-stone walls and vineyard terraces climbing a hillside below bare woodland",
-  "title": "Geigersberg vineyard terraces, Württemberg",
-  "caption": "Dry-stone walls retain soil on steep slopes and release stored heat to the vines at night.",
-  "description": "The historic Geigersberg vineyard near Ochsenbach, Sachsenheim, in Württemberg, photographed in March. Many of its old dry-stone walls survive, terracing the slope beneath bare woodland, and the site is home to many rare plants and animals, showing the ecological value of traditional vineyard landscapes.",
-  "keywords": {
-   "primary": "dry-stone vineyard terraces",
-   "secondary": [
-    "Geigersberg",
-    "Württemberg terraces",
-    "historic vineyard"
-   ],
-   "longtail": "historic dry-stone vineyard terraces on the Geigersberg, Württemberg",
-   "semantic": [
-    "biodiversity",
-    "terraces",
-    "steep slope viticulture"
-   ]
-  },
-  "themes": [
-   "vineyards"
-  ],
-  "topics": [
-   "germany",
-   "wurttemberg",
-   "terraces",
-   "sustainability"
-  ],
-  "region": "Württemberg",
-  "country": "Germany",
-  "language": "en",
-  "commons_title": "File:Sachsenheim - Ochsenbach - Geigersberg - nördlicher Teil von SSO im März.jpg",
-  "commons_description": "The historic Geigersberg vineyard, northeast of Ochsenbach,  Sachsenheim in Germany, still retains many of its old dry stone walls, and is home to many rare plant and animal species. This photo shows the northern part, seen from south-south-east in March.",
-  "commons_quality": "featured",
-  "source": "https://commons.wikimedia.org/wiki/File:Sachsenheim_-_Ochsenbach_-_Geigersberg_-_n%C3%B6rdlicher_Teil_von_SSO_im_M%C3%A4rz.jpg",
-  "author": "Roman Eisele",
-  "licence": "CC BY-SA 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Roman Eisele, CC BY-SA 4.0 via Wikimedia Commons",
-  "credit": "Photo: Roman Eisele, CC BY-SA 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
-  "id": 119,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/kasberg-terraced-vineyards-mundelsheim.webp",
-  "file_sm": "img/photos/kasberg-terraced-vineyards-mundelsheim-sm.webp",
-  "original_file": "0119-vineyard-aerial-view-traditional-mundelsheim-kasberg-mittlerer-teil-beim.webp",
-  "width": 1200,
-  "height": 825,
-  "width_sm": 600,
-  "height_sm": 413,
-  "format": "WEBP",
-  "alt": "Steep Käsberg slope covered with dry-stone walls, stairs and vine terraces",
-  "title": "Käsberg terraces, Mundelsheim",
-  "caption": "Steep terraced sites like the Käsberg demand far more hours of manual work per hectare than flat vineyards.",
-  "description": "The central part of the Käsberg at Mundelsheim, one of the best-known vineyards of Württemberg. Countless dry-stone supporting walls and small stairs cover the steep slope above the Neckar, an old cultural landscape shaped by traditional viticulture and now a protected area.",
-  "keywords": {
-   "primary": "Käsberg vineyard",
-   "secondary": [
-    "Mundelsheim",
-    "Neckar terraces",
-    "steep vineyard"
-   ],
-   "longtail": "terraced Käsberg vineyard at Mundelsheim on the Neckar",
-   "semantic": [
-    "dry-stone walls",
-    "steep slope",
-    "German wine"
-   ]
-  },
-  "themes": [
-   "vineyards"
-  ],
-  "topics": [
-   "germany",
-   "wurttemberg",
-   "terraces"
-  ],
-  "region": "Württemberg",
-  "country": "Germany",
-  "language": "en",
-  "commons_title": "File:Mundelsheim - Käsberg - Mittlerer Teil beim Königshäusle.jpg",
-  "commons_description": "Mundelsheim, Germany: Central part of the Käsberg, one of the most famous vineyards in Württemberg, showing the old cultural landscape developed by traditional viniculture with dry-stone supporting walls and many little stairs.Probably the most distinctive part of the protected landscape area “Gebiete nördlich des Neckars bei Mundelsheim, Hessigheim, Besigheim und Gemmrigheim” (local ID 1.18.059).",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Mundelsheim_-_K%C3%A4sberg_-_Mittlerer_Teil_beim_K%C3%B6nigsh%C3%A4usle.jpg",
-  "author": "Roman Eisele",
-  "licence": "CC BY-SA 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Roman Eisele, CC BY-SA 4.0 via Wikimedia Commons",
-  "credit": "Photo: Roman Eisele, CC BY-SA 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
-  "id": 121,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/faugeres-vineyard-autumn-cabrerolles.webp",
-  "file_sm": "img/photos/faugeres-vineyard-autumn-cabrerolles-sm.webp",
-  "original_file": "0121-vineyard-aerial-view-detail-vineyard-in-cabrerolles.webp",
-  "width": 1200,
-  "height": 675,
-  "width_sm": 600,
-  "height_sm": 338,
-  "format": "WEBP",
-  "alt": "Autumn vine rows with yellowing leaves and a lone cypress in Faugères country",
-  "title": "Faugères vineyard in autumn, Cabrerolles",
-  "caption": "Faugères, in the Hérault, is an appellation known for its schist soils and red blends.",
-  "description": "A vineyard of the Faugères AOC in autumn, in the commune of Cabrerolles, Hérault, Languedoc. Rows of vines with yellowing leaves cover gently undulating ground, with a dark cypress and scrubby hills beyond, under a grey sky.",
-  "keywords": {
-   "primary": "Faugères vineyard",
-   "secondary": [
-    "Faugères AOC",
-    "Languedoc appellation",
-    "Hérault vineyards"
-   ],
-   "longtail": "autumn vineyard in the Faugères appellation, Languedoc",
-   "semantic": [
-    "schist",
-    "red blends",
-    "Mediterranean climate"
-   ]
-  },
-  "themes": [
-   "vineyards",
-   "regions"
-  ],
-  "topics": [
-   "languedoc",
-   "faugeres",
-   "france",
-   "autumn"
-  ],
-  "region": "Languedoc",
-  "country": "France",
-  "language": "en",
-  "commons_title": "File:Vineyard in Cabrerolles.jpg",
-  "commons_description": "Vineyard (Faugères AOC) in autumn, in the commune of Cabrerolles, Hérault, France.",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Vineyard_in_Cabrerolles.jpg",
-  "author": "Christian Ferrer",
-  "licence": "CC BY 4.0",
-  "licence_url": "https://creativecommons.org/licenses/by/4.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": false,
-  "creditText": "Photo: Christian Ferrer, CC BY 4.0 via Wikimedia Commons",
-  "credit": "Photo: Christian Ferrer, CC BY 4.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 124,
   "provider": "wikimedia-commons",
   "curated": true,
@@ -2362,7 +2023,7 @@
   "format": "WEBP",
   "alt": "Low sun flaring over autumn vines and hills at Gumpoldskirchen",
   "title": "Vineyard at sunset, Gumpoldskirchen",
-  "caption": "Gumpoldskirchen, south of Vienna, is a wine village of Lower Austria's Thermenregion, famous for its Heurigen.",
+  "caption": "A vineyard at Gumpoldskirchen, Lower Austria, at sunset in October.",
   "description": "A vineyard at Gumpoldskirchen, Lower Austria, photographed at sunset in October, with sunlight streaming across the golden vine canopy. After the harvest, people gather in Austria's Heurigen, wine taverns serving young wine and seasonal food, a tradition strong in this part of the Thermenregion.",
   "keywords": {
    "primary": "Gumpoldskirchen vineyard",
@@ -2983,62 +2644,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 185,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/bush-vines-pinet-picpoul-languedoc.webp",
-  "file_sm": "img/photos/bush-vines-pinet-picpoul-languedoc-sm.webp",
-  "original_file": "0185-vineyard-estate-photography-vineyard-pinet-herault-02.webp",
-  "width": 1200,
-  "height": 795,
-  "width_sm": 600,
-  "height_sm": 398,
-  "format": "WEBP",
-  "alt": "Rows of short bush-trained vines in pale sandy soil near Pinet, with the sea beyond",
-  "title": "Bush vines at Pinet, Languedoc",
-  "caption": "Pinet gives its name to the Picpoul de Pinet appellation for dry white wines near the Thau lagoon.",
-  "description": "Low, bush-trained vines (gobelet) stand in neat rows of pale soil in the commune of Pinet, Hérault, with Sète visible on the horizon. Bush training keeps vines compact and self-shading, suited to hot, windy Mediterranean vineyards such as those of the Picpoul de Pinet area.",
-  "keywords": {
-   "primary": "bush vines",
-   "secondary": [
-    "gobelet training",
-    "Picpoul de Pinet",
-    "Languedoc vineyards"
-   ],
-   "longtail": "bush-trained vines in the Picpoul de Pinet area of the Languedoc",
-   "semantic": [
-    "vine training",
-    "Mediterranean climate",
-    "French white wine"
-   ]
-  },
-  "themes": [
-   "vineyards"
-  ],
-  "topics": [
-   "languedoc",
-   "vine-training",
-   "france"
-  ],
-  "region": "Languedoc",
-  "country": "France",
-  "language": "en",
-  "commons_title": "File:Vineyard, Pinet, Hérault 02.jpg",
-  "commons_description": "Vineyards and Sète in the background. Commune of Pinet, Hérault, France.",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Vineyard,_Pinet,_H%C3%A9rault_02.jpg",
-  "author": "Christian Ferrer",
-  "licence": "CC BY-SA 3.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Christian Ferrer, CC BY-SA 3.0 via Wikimedia Commons",
-  "credit": "Photo: Christian Ferrer, CC BY-SA 3.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 190,
   "provider": "wikimedia-commons",
   "curated": true,
@@ -3164,9 +2769,9 @@
   "width_sm": 600,
   "height_sm": 422,
   "format": "WEBP",
-  "alt": "Young green grape clusters among fresh vine leaves on a hillside in Schenna",
+  "alt": "Green grape clusters among fresh vine leaves on a hillside in Schenna",
   "title": "White grapes on the vine, South Tyrol",
-  "caption": "South Tyrol produces mainly white wines, helped by altitude and cool nights.",
+  "caption": "White grapes on the vine at Schenna in South Tyrol, northern Italy.",
   "description": "Clusters of small green grapes hang among bright vine leaves on a hillside in Schenna (Scena) near Merano, South Tyrol, Italy. Wooded mountain slopes and scattered houses appear softly blurred behind, placing the vine in its Alpine setting.",
   "keywords": {
    "primary": "white grapes on the vine",
@@ -3334,7 +2939,7 @@
   "format": "WEBP",
   "alt": "Ripe pale-green grape cluster hanging from a vine in soft light",
   "title": "Ripe white grapes, Stuttgart",
-  "caption": "Stuttgart is one of the few big cities with extensive vineyards within its limits.",
+  "caption": "Ripe white grapes on the vine.",
   "description": "A ripe cluster of pale green to golden grapes hangs from a vine in Stuttgart, Germany, against a softly blurred background of leaves. The translucent berries suggest full ripeness, making this a good close-up for content on white grape varieties and harvest.",
   "keywords": {
    "primary": "white grapes close-up",
@@ -3620,7 +3225,7 @@
   "format": "WEBP",
   "alt": "Close-up of a ripe Sauvignon Blanc cluster with green-gold berries in sunlight",
   "title": "Sauvignon Blanc grapes, Serbia",
-  "caption": "Sauvignon Blanc is an aromatic white grape known for herbaceous and citrus notes.",
+  "caption": "Sauvignon Blanc grapes on the vine in the Vlasotince vineyards, south-east Serbia.",
   "description": "A ripe cluster of Sauvignon Blanc grapes in the Vlasotince vineyards of south-east Serbia, with sunlight on the green-gold berries and a leafy, softly blurred background. A clear close-up for studying one of the world's best-known aromatic white grape varieties.",
   "keywords": {
    "primary": "Sauvignon Blanc grapes",
@@ -4115,64 +3720,6 @@
   "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
  },
  {
-  "id": 342,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/la-geria-lanzarote-volcanic-vineyards.webp",
-  "file_sm": "img/photos/la-geria-lanzarote-volcanic-vineyards-sm.webp",
-  "original_file": "0342-viticulture-work-detail-vineyards-yaiza-04.webp",
-  "width": 1200,
-  "height": 768,
-  "width_sm": 600,
-  "height_sm": 384,
-  "format": "WEBP",
-  "alt": "Vines planted in hollows of black volcanic ash, sheltered by curved stone walls, La Geria",
-  "title": "Volcanic vineyards of La Geria, Lanzarote",
-  "caption": "In La Geria, each vine grows in a pit dug through volcanic ash and is protected from the wind by a low stone wall.",
-  "description": "Viticulture north-east of Uga in La Geria, municipality of Yaiza, Lanzarote, Canary Islands, Spain. Vines grow in hollows dug into black volcanic ash, each sheltered by a semicircular dry-stone wall. The ash layer retains moisture and the walls block strong trade winds.",
-  "keywords": {
-   "primary": "La Geria vineyards",
-   "secondary": [
-    "Lanzarote wine",
-    "volcanic soil vineyards",
-    "Canary Islands wine"
-   ],
-   "longtail": "vines in volcanic ash pits with stone windbreaks in La Geria, Lanzarote",
-   "semantic": [
-    "volcanic soil",
-    "wind protection",
-    "extreme viticulture"
-   ]
-  },
-  "themes": [
-   "vineyards",
-   "regions"
-  ],
-  "topics": [
-   "spain",
-   "canary-islands",
-   "volcanic-soils",
-   "terroir"
-  ],
-  "region": "Canary Islands",
-  "country": "Spain",
-  "language": "en",
-  "commons_title": "File:Vineyards - Yaiza - 04.jpg",
-  "commons_description": "Viticulture northeast of Uga, municipality of Yaiza, La Geria, Lanzarote, Canary Islands, Spain.",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Vineyards_-_Yaiza_-_04.jpg",
-  "author": "H. Zell",
-  "licence": "CC BY-SA 3.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: H. Zell, CC BY-SA 3.0 via Wikimedia Commons",
-  "credit": "Photo: H. Zell, CC BY-SA 3.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
   "id": 355,
   "provider": "wikimedia-commons",
   "curated": true,
@@ -4245,7 +3792,7 @@
   "format": "WEBP",
   "alt": "Vine terraces climbing a very steep hillside above lower vineyards in the Wachau",
   "title": "Singerriedl vineyard, Spitz, Wachau",
-  "caption": "On the Singerriedl, Grüner Veltliner grows at the foot of the slope and Riesling on the steep terraces.",
+  "caption": "The Singerriedl vineyard at Spitz in the Wachau: Grüner Veltliner grows at the foot of the slope, Riesling on the steep terraces.",
   "description": "The Singerriedl vineyard at Spitz in the Wachau, Lower Austria, covers 8.31 hectares with slopes of up to 110 per cent. Stone terraces climb the hill in autumn colours: Grüner Veltliner thrives on the deeper soils at the foot, Riesling on the steep upper terraces.",
   "keywords": {
    "primary": "Wachau terraced vineyard",
@@ -5235,7 +4782,7 @@
   "format": "WEBP",
   "alt": "Patchwork of autumn Champagne vineyards rolling towards wooded hills",
   "title": "Champagne vineyards near Fleury-la-Rivière",
-  "caption": "Champagne is divided into districts including the Montagne de Reims, Vallée de la Marne and Côte des Blancs.",
+  "caption": "Autumn vineyards near Fleury-la-Rivière on the Montagne de Reims, Champagne.",
   "description": "Champagne vineyards near Fleury-la-Rivière, Marne, France, in autumn. Vine plots in shades of green, yellow and brown form a patchwork across the slopes, with woods on the hilltops. The varied colours hint at the different plots and growers that make up the Champagne vineyard.",
   "keywords": {
    "primary": "Champagne vineyards autumn",
@@ -5267,63 +4814,6 @@
   "commons_description": "Champagne vineyards near Fleury-la-Rivière in the  \"montagne de Reims\", Marne, Champagne-Ardennes, France",
   "commons_quality": "quality",
   "source": "https://commons.wikimedia.org/wiki/File:Vignoble-de-Champagne-pres-de-Fleury-la-Riviere-dans-la-montagne-de-Reims-DSC_0201.jpg",
-  "author": "Pline",
-  "licence": "CC BY-SA 3.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "attribution_required": true,
-  "commercial_use": true,
-  "modification": true,
-  "share_alike": true,
-  "creditText": "Photo: Pline, CC BY-SA 3.0 via Wikimedia Commons",
-  "credit": "Photo: Pline, CC BY-SA 3.0 via Wikimedia Commons",
-  "review": "visually checked (contact sheets); alt/caption/description written from the visible content and the Commons title/description"
- },
- {
-  "id": 443,
-  "provider": "wikimedia-commons",
-  "curated": true,
-  "file": "img/photos/champagne-vineyard-replanting-young-vines.webp",
-  "file_sm": "img/photos/champagne-vineyard-replanting-young-vines-sm.webp",
-  "original_file": "0443-champagne-vineyard-landscape-photography-vignoble-vers-courcelles-dsc-0124.webp",
-  "width": 1200,
-  "height": 795,
-  "width_sm": 600,
-  "height_sm": 398,
-  "format": "WEBP",
-  "alt": "Newly planted young vines in protective sleeves on a cleared plot in Champagne",
-  "title": "Young vines planted in Champagne",
-  "caption": "Young vines take about three years to bear a usable crop; protective sleeves shield them from animals and herbicides.",
-  "description": "A newly replanted plot in the Champagne vineyards near Trélou-sur-Marne, Aisne, with young vines in brown protective sleeves set in bare soil, surrounded by established vineyards on the slopes. Replanting is part of the long cycle of vineyard management.",
-  "keywords": {
-   "primary": "vineyard replanting",
-   "secondary": [
-    "young vines",
-    "Champagne vineyard",
-    "vine planting"
-   ],
-   "longtail": "young vines replanted in a Champagne vineyard near Trélou-sur-Marne",
-   "semantic": [
-    "vineyard establishment",
-    "vine age",
-    "Champagne"
-   ]
-  },
-  "themes": [
-   "sparkling",
-   "vineyards"
-  ],
-  "topics": [
-   "champagne",
-   "france",
-   "viticulture"
-  ],
-  "region": "Champagne",
-  "country": "France",
-  "language": "en",
-  "commons_title": "File:Vignoble vers Courcelles DSC 0124.JPG",
-  "commons_description": "Vineyards of Champagne near Trélou sur Marne, Aisne, France",
-  "commons_quality": "quality",
-  "source": "https://commons.wikimedia.org/wiki/File:Vignoble_vers_Courcelles_DSC_0124.JPG",
   "author": "Pline",
   "licence": "CC BY-SA 3.0",
   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
