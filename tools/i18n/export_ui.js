@@ -1,13 +1,13 @@
 /* Exports the app's UI dictionaries (T.en / T.it, as built at runtime) for every level, for extract_all.py.
    Usage: NODE_PATH=$(npm root -g) node tools/i18n/export_ui.js http://localhost:8810/app/ tools/i18n/ui
-   Writes <out>/ui-<level>.json = {"en":{key:text|[texts]}, "it":{…}} for levels 3 (core), 1, 2, s1, s2. */
+   Writes <out>/ui-<level>.json = {"en":{key:text|[texts]}, "it":{…}} for levels 3 (core), 1, 2, s1, s2, 4 (Diploma). */
 const { chromium } = require("playwright");
 const fs = require("fs"), path = require("path");
 const [base, out] = [process.argv[2] || "http://localhost:8810/app/", process.argv[3] || path.join(__dirname, "ui")];
 (async () => {
   fs.mkdirSync(out, { recursive: true });
   const b = await chromium.launch();
-  for (const lv of ["3", "1", "2", "s1", "s2"]) {
+  for (const lv of ["3", "1", "2", "s1", "s2", "4"]) {
     const ctx = await b.newContext();
     await ctx.addInitScript(l => { try { localStorage.setItem("twg-level", l); localStorage.setItem("wset3-lang", "en"); localStorage.setItem("wset3-onb", "1"); } catch (e) {} }, lv);
     const p = await ctx.newPage();

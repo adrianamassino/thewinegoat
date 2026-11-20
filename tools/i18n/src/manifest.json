@@ -40,6 +40,22 @@
    "ui_en_chars": 276,
    "chunks": 34,
    "ui_chunks": 1
+  },
+  "d1": {
+   "strings": 954,
+   "en_chars": 118930,
+   "ui_strings": 73,
+   "ui_en_chars": 3271,
+   "chunks": 6,
+   "ui_chunks": 1
+  },
+  "d2": {
+   "strings": 0,
+   "en_chars": 0,
+   "ui_strings": 0,
+   "ui_en_chars": 0,
+   "chunks": 0,
+   "ui_chunks": 0
   }
  }
 }

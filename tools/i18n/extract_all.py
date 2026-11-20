@@ -1,7 +1,7 @@
 """Extracts every English display string of the whole app for translation into the map-based languages
 (de, nl, el, ja, ko, zh-hant, pt, tr, th — same principle as Spanish: key = English text, Italian as reference).
 
-Output: tools/i18n/src/<scope>/NNN.json, scope = core | l1 | l2 | s1 | s2, chunks of ~25,000 English characters,
+Output: tools/i18n/src/<scope>/NNN.json, scope = core | l1 | l2 | s1 | s2 | d1 | d2, chunks of ~25,000 English characters,
 each item {"en": …, "it": …} ("it" = "" when no Italian reference is known). In every scope the UI strings come first,
 in their own chunks (core/000…), then the content. tools/i18n/src/manifest.json lists the chunks and the counts.
 
@@ -21,9 +21,10 @@ Needs node (+ playwright from `npm root -g`) and python3."""
 import json, os, re, subprocess, sys, socket, time, shutil
 
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(os.path.dirname(D)); APP = os.path.join(ROOT, 'app')
-SCOPES = ['core', 'l1', 'l2', 's1', 's2']
+SCOPES = ['core', 'l1', 'l2', 's1', 's2', 'd1', 'd2']
 LEVEL = {  # scope: (ui export name, content dir, content global)
-    'l1': ('1', 'l1', 'TWG_L1C'), 'l2': ('2', 'l2', 'TWG_L2C'), 's1': ('s1', 'spirits/s1', 'TWG_S1C'), 's2': ('s2', 'spirits/s2', 'TWG_S2C')}
+    'l1': ('1', 'l1', 'TWG_L1C'), 'l2': ('2', 'l2', 'TWG_L2C'), 's1': ('s1', 'spirits/s1', 'TWG_S1C'), 's2': ('s2', 'spirits/s2', 'TWG_S2C'),
+    'd1': ('4', 'l4/d1', 'TWG_D1C'), 'd2': ('-', 'l4/d2', 'TWG_D2C')}   # Diploma units; the level-4 UI (ui-4.json) goes with d1
 CHUNK = 25000
 S = r'"((?:[^"\\\n]|\\.)*)"'
 SQ = r"'((?:[^'\\\n]|\\.)*)'"
@@ -168,6 +169,7 @@ def main():
     idx = rd(os.path.join(APP, 'index.html'))
     lang_blocks(idx, core)
     for f in ['l2/l2app.js', 'l2/media.js', 'cellar.js', 'hqresult.js']: lang_blocks(rd(os.path.join(APP, f)), core)
+    lang_blocks(rd(os.path.join(APP, 'l4/d4app.js')), bags['d1'])   # Diploma UI texts (also exported at runtime as ui-4.json)
     try:
         W = node_dump(os.path.join(APP, 'winedb.js'), 'TWG_WINEDB')['TWG_WINEDB'] or {}
         L = W.get('L') or {}
@@ -183,8 +185,9 @@ def main():
     for sc, (uv, d, var) in LEVEL.items():
         b = bags[sc]; f = os.path.join(ui, f'ui-{uv}.json')
         if os.path.exists(f): ui_dump(f, b, skip=core.d)
+        if not os.path.exists(os.path.join(APP, d, 'content.js')): continue   # unit not built yet
         C = node_dump(os.path.join(APP, d, 'content.js'), var)[var]
-        walk({k: v for k, v in C.items() if k not in ('level', 'track', 'exam')}, b)
+        walk({k: v for k, v in C.items() if k not in ('level', 'track', 'exam', 'unit', 'w')}, b)
         m = os.path.join(APP, d, 'media-l2.js' if d == 'l2' else 'media.js')   # l2/media.js is the shared engine (core)
         if os.path.exists(m): tri(rd(m), b)
         podtext(os.path.join(APP, d), b)

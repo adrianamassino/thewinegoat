@@ -3,12 +3,14 @@
    so it uses the app's open-question engine, the tasting-note engine and timed written mocks rather than MCQs.
    "w" = unit weighting in the final grade (%). Pass grades: unit pass 55% (D3: 55% in theory AND tasting;
    D4/D5: 45% in each component and 55% overall); Merit 65–74%, Distinction 75%+ (weighted aggregate).
-   No exam-body or book names appear in the app text. */
+   No exam-body or book names appear in the app text.
+   Planning file, not loaded by the app. Built units: content in tools/l4/src/<unit>/ (node tools/l4/build.js) →
+   app/l4/<unit>/content.js, run by app/l4/d4app.js; their chapters (D1: d1a–d1f) supersede the lists below. */
 window.TWG_L4 = {
   level: 4,
   units: [
     { k: "D1", w: 20, n: { it: "Produzione del vino", fr: "Production du vin", en: "Wine production", es: "Producción del vino" },
-      exam: { type: "open", minutes: 90 }, note: "first unit to sit", c: ["d1a", "d1b", "d1c", "d1d"] },
+      exam: { type: "open", minutes: 90 }, note: "first unit to sit", c: ["d1a", "d1b", "d1c", "d1d", "d1e", "d1f"] },
     { k: "D2", w: 10, n: { it: "Il business del vino", fr: "Le commerce du vin", en: "Wine business", es: "El negocio del vino" },
       exam: { type: "open", minutes: 60 }, c: ["d2a", "d2b", "d2c"] },
     { k: "D3", w: 50, n: { it: "I vini del mondo", fr: "Les vins du monde", en: "Wines of the world", es: "Vinos del mundo" },

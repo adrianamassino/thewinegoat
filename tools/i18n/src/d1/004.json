@@ -1,0 +1,406 @@
+[
+{
+"en": "Chlorophenols can be converted by moulds into TCA, contaminating wood and materials",
+"it": "I clorofenoli possono essere trasformati da muffe in TCA, contaminando legno e materiali"
+},
+{
+"en": "Chlorine always removes TCA",
+"it": "Il cloro elimina sempre il TCA"
+},
+{
+"en": "None: TCA only comes from cork",
+"it": "Nessun legame: il TCA viene solo dal sughero"
+},
+{
+"en": "Chlorine produces volatile acidity",
+"it": "Il cloro produce acidità volatile"
+},
+{
+"en": "That is why modern wineries avoid chlorine-based cleaners and chlorophenol wood treatments: TCA can contaminate a whole winery, not just cork-sealed bottles.",
+"it": "Per questo le cantine moderne evitano detergenti clorurati e trattamenti del legno con clorofenoli: il TCA può contaminare un'intera cantina, non solo le bottiglie con il tappo."
+},
+{
+"en": "What characterises HACCP?",
+"it": "Che cosa caratterizza l'HACCP?"
+},
+{
+"en": "Identifying hazards and critical points, setting limits, monitoring, correcting and recording",
+"it": "Individuare pericoli e punti critici, fissare limiti, monitorare, correggere e registrare"
+},
+{
+"en": "It is a voluntary environmental certification",
+"it": "È una certificazione ambientale volontaria"
+},
+{
+"en": "It only concerns the vineyard",
+"it": "Riguarda solo il vigneto"
+},
+{
+"en": "It is a tasting method",
+"it": "È un metodo di degustazione"
+},
+{
+"en": "It is a food-safety system, compulsory in many countries; the voluntary environmental certification is ISO 14001.",
+"it": "È un sistema di sicurezza alimentare, obbligatorio in molti paesi; la certificazione ambientale volontaria è l'ISO 14001."
+},
+{
+"en": "Which ISO standard covers environmental management?",
+"it": "Quale norma ISO riguarda la gestione ambientale?"
+},
+{
+"en": "ISO 9001: quality; ISO 22000: food safety; ISO 14001: environment. (ISO 3591 is the standard tasting glass.)",
+"it": "ISO 9001: qualità; ISO 22000: sicurezza alimentare; ISO 14001: ambiente. (ISO 3591 è lo standard del bicchiere da degustazione.)"
+},
+{
+"en": "What is traceability for when a problem occurs?",
+"it": "A che cosa serve la tracciabilità in caso di problema?"
+},
+{
+"en": "To recall only the affected lot and find the cause",
+"it": "A richiamare solo il lotto interessato e trovare la causa"
+},
+{
+"en": "To change the vintage on the label",
+"it": "A cambiare l'annata in etichetta"
+},
+{
+"en": "To reduce SO₂",
+"it": "A ridurre la SO₂"
+},
+{
+"en": "To avoid HACCP",
+"it": "A evitare l'HACCP"
+},
+{
+"en": "Knowing which plots, tanks and lines each lot came from limits the recall, identifies the source of the problem and proves compliance.",
+"it": "Sapendo da quali parcelle, vasche e linee viene ogni lotto, si limita il richiamo, si individua l'origine del problema e si dimostra il rispetto delle norme."
+},
+{
+"en": "Explain how the vine produces and ripens grapes through the year.",
+"it": "Spiega come la vite produce e matura l'uva nel corso dell'anno."
+},
+{
+"en": "Describe the conditions needed for good flowering and fruit set and the consequences of poor conditions.",
+"it": "Descrivi le condizioni necessarie per una buona fioritura e allegagione e le conseguenze di condizioni sfavorevoli."
+},
+{
+"en": "Flowering and fruit set succeed in warm (not below about 17 °C; fruit set is best at 26–32 °C), dry, calm weather, which allows pollination and pollen-tube growth. Cold, rain or wind disrupt them: unfertilised flowers fall (coulure), leaving straggly bunches, or small seedless berries form among normal ones (millerandage). The result is a lower, more irregular yield and, with millerandage, uneven ripening within the bunch.",
+"it": "La fioritura e l'allegagione riescono con tempo caldo (non sotto circa 17 °C; l'allegagione è ottimale a 26–32 °C), secco e calmo, che permette impollinazione e crescita del tubetto pollinico. Freddo, pioggia o vento le disturbano: i fiori non fecondati cadono (colatura) e restano grappoli spargoli, oppure si formano acini piccoli e senza semi accanto a quelli normali (acinellatura). Il risultato è una resa più bassa e irregolare e, con l'acinellatura, una maturazione disomogenea nel grappolo."
+},
+{
+"en": "Explain how sugars, acids, colour, tannins and aromas change from véraison to harvest and which environmental factors influence them.",
+"it": "Spiega come cambiano zuccheri, acidi, colore, tannini e aromi dall'invaiatura alla vendemmia e quali fattori ambientali li influenzano."
+},
+{
+"en": "sugars glucose and fructose accumulate from véraison; photosynthesis best at 18–33 °C with light; malic acid falls through respiration; heat above 21 °C rapid acid loss and high pH; tartaric acid stable; anthocyanins form from véraison; anthocyanins favoured by light and 15–25 °C; tannins ripen and become less astringent, seeds brown; methoxypyrazines fall with sun and warmth; aroma precursors increase, rotundone favoured by cool conditions",
+"it": "zuccheri glucosio e fruttosio si accumulano dall'invaiatura; fotosintesi ottimale 18–33 °C con luce; acido malico cala per respirazione; caldo oltre 21 °C perdita rapida di acidità e pH alto; acido tartarico stabile; antociani si formano dall'invaiatura; antociani favoriti da luce e 15–25 °C; tannini maturano e diventano meno astringenti, vinaccioli marroni; metossipirazine calano con sole e calore; precursori aromatici aumentano, rotundone favorito dal fresco"
+},
+{
+"en": "From véraison the berry accumulates glucose and fructose produced by photosynthesis, most efficient between 18 and 33 °C with good light. Malic acid falls because it is respired, much faster in heat: above a 21 °C mean in the final month acidity drops sharply and pH rises; tartaric acid stays stable. In black grapes anthocyanins form from véraison, favoured by light and temperatures of about 15–25 °C, while excessive heat reduces them. Tannins, already present, ripen: less astringent, with brown seeds. Herbaceous methoxypyrazines break down with sun and warmth while aroma precursors increase; some compounds such as rotundone are favoured by cool conditions. So in hot climates sugar can arrive before phenolic ripeness, and in cool climates the reverse.",
+"it": "Dall'invaiatura l'acino accumula glucosio e fruttosio prodotti dalla fotosintesi, più efficiente tra 18 e 33 °C con buona luce. L'acido malico cala perché viene respirato, molto più in fretta col caldo: sopra 21 °C di media nell'ultimo mese l'acidità crolla e il pH sale; il tartarico resta stabile. Nelle uve nere gli antociani si formano dall'invaiatura, favoriti da luce e temperature di circa 15–25 °C, mentre il troppo caldo li riduce. I tannini, già presenti, maturano: meno astringenti, vinaccioli marroni. Le metossipirazine erbacee si degradano con sole e calore, mentre crescono i precursori aromatici; alcuni composti come il rotundone sono favoriti dal fresco. Per questo in clima caldo lo zucchero può arrivare prima della maturità fenolica, in clima fresco il contrario."
+},
+{
+"en": "Two vineyards at the same latitude produce Pinot Noir in very different styles.",
+"it": "Due vigneti alla stessa latitudine producono Pinot Nero di stile molto diverso."
+},
+{
+"en": "Explain which site factors, apart from latitude, influence the temperature and sunlight the vines receive.",
+"it": "Spiega quali fattori del luogo, oltre alla latitudine, influenzano la temperatura e la luce che ricevono le viti."
+},
+{
+"en": "altitude cools by about 0.6 °C per 100 m; sun-facing slope receives more direct rays; cold air drains down to the valley, frost risk low down; proximity to water moderates temperatures; cold ocean currents cool, Gulf Stream warms; winds cool and dry the canopy, reduce disease; strong wind closes stomata and damages flowering; dark stony soils store and re-radiate heat; free-draining soils warm earlier in spring; clouds, fog and mist reduce sunlight; fog preserves acidity in warm areas; diurnal range: cool nights preserve acidity and aromas",
+"it": "altitudine raffredda circa 0,6 °C ogni 100 m; pendio esposto al sole riceve raggi più diretti; aria fredda scende a valle, rischio gelo in basso; vicinanza all'acqua modera le temperature; correnti oceaniche fredde rinfrescano, Corrente del Golfo riscalda; venti rinfrescano e asciugano, riducono malattie; vento forte chiude gli stomi e danneggia fioritura; suoli scuri e sassosi trattengono e restituiscono calore; suoli drenati si scaldano prima in primavera; nuvole, nebbia e foschia riducono la luce; nebbia preserva acidità nelle zone calde; escursione termica: notti fresche conservano acidità e aromi"
+},
+{
+"en": "Altitude cools by about 0.6 °C per 100 m, so a higher vineyard ripens more slowly. A slope facing the sun receives more perpendicular rays and therefore more energy, while cold air drains downhill: valley floors are colder and frost-prone. Lakes, rivers and the sea moderate temperatures; cold ocean currents (Humboldt, Benguela, California) cool the coasts and bring fog, while the Gulf Stream warms western Europe. Winds cool and dry the canopy, reducing disease, but strong winds close the stomata and disrupt flowering. Dark, stony soils store heat and release it at night; free-draining soils warm earlier in spring. Clouds, mist and fog reduce sunlight and slow ripening, but in warm areas they help preserve acidity. Finally, a wide diurnal range preserves acidity and aromas.",
+"it": "L'altitudine raffredda di circa 0,6 °C ogni 100 m, e un vigneto più alto matura più lentamente. Un pendio rivolto al sole riceve raggi più perpendicolari e quindi più energia, mentre l'aria fredda scivola a valle: i fondovalle sono più freddi e gelivi. Laghi, fiumi e mare moderano le temperature; le correnti oceaniche fredde (Humboldt, Benguela, California) rinfrescano le coste e portano nebbie, la Corrente del Golfo intiepidisce l'Europa occidentale. I venti rinfrescano e asciugano la chioma, riducendo le malattie, ma se forti chiudono gli stomi e disturbano la fioritura. Suoli scuri e sassosi accumulano calore e lo restituiscono di notte; i suoli drenanti si scaldano prima in primavera. Nuvole, foschia e nebbia riducono la luce e rallentano la maturazione, ma nelle zone calde preservano l'acidità. Infine un'ampia escursione tra giorno e notte conserva acidità e aromi."
+},
+{
+"en": "Explain how these factors can lead to two different styles of Pinot Noir.",
+"it": "Spiega come questi fattori possono portare a due stili diversi di Pinot Nero."
+},
+{
+"en": "cooler site ripens slowly; higher acidity in the cool site; red fruit and herbaceous or floral notes in the cool site; lower body and alcohol in the cool site; warmer site: more sugar and alcohol; riper, black or cooked fruit in the warm site; lower acidity in the warm site; riper colour and tannins in the sunnier site",
+"it": "sito più fresco matura lentamente; acidità più alta nel sito fresco; frutta rossa e note erbacee o floreali nel fresco; corpo e alcol più bassi nel fresco; sito più caldo: più zucchero e alcol; frutta più matura, nera o cotta nel caldo; acidità più bassa nel caldo; colore e tannini più maturi nel sito soleggiato"
+},
+{
+"en": "In the cooler site (higher, exposed to wind or fog, cold soils) ripening is slow: the wine will have high acidity, lighter body and alcohol, fresh red fruit (redcurrant, raspberry, cherry) and sometimes floral or herbaceous notes. In the warmer, sunnier site (exposed slope, stony soils, warmer nights) the grapes accumulate more sugar and the wine has more alcohol and body, riper or black fruit, sometimes cooked, and lower acidity; colour and tannins are riper and softer. The same variety therefore shows two styles depending on the warmth and light of the site.",
+"it": "Nel sito più fresco (più alto, esposto ai venti o alle nebbie, con suoli freddi) la maturazione è lenta: il vino avrà acidità alta, corpo e alcol più leggeri, frutti rossi freschi (ribes, lampone, ciliegia) e talvolta note floreali o erbacee. Nel sito più caldo e soleggiato (pendio esposto, suoli sassosi, notti meno fresche) l'uva accumula più zucchero e il vino ha più alcol e corpo, frutta più matura o nera, a volte cotta, e acidità più bassa; colore e tannini sono più maturi e morbidi. Lo stesso vitigno esprime quindi due stili diversi a seconda del calore e della luce del luogo."
+},
+{
+"en": "Climate change and viticulture.",
+"it": "Il cambiamento climatico e la viticoltura."
+},
+{
+"en": "Explain the threats and opportunities climate change brings to wine regions.",
+"it": "Spiega le minacce e le opportunità che il cambiamento climatico porta alle regioni viticole."
+},
+{
+"en": "higher temperatures and earlier phenology; earlier harvest in the hottest period; more sugar and alcohol; less acidity and higher pH; riper or cooked aromas, loss of freshness; more extreme events drought, heatwaves, hail; fires and smoke taint; cool regions become suitable, opportunity for England or Tasmania",
+"it": "temperature più alte e fenologia anticipata; vendemmia precoce nel periodo più caldo; più zucchero e alcol; meno acidità e pH più alto; aromi più maturi o cotti, perdita di freschezza; più eventi estremi siccità, ondate di calore, grandine; incendi e sentore di fumo; regioni fresche diventano adatte, opportunità per Inghilterra o Tasmania"
+},
+{
+"en": "Warming brings budburst and ripening forward, so harvest falls in the hottest part of the year: grapes accumulate more sugar (more alcoholic wines), lose acidity (higher pH, less fresh and less stable wines) and risk cooked flavours. Extreme events increase: drought, heatwaves with sunburn, hail, violent rain, fires with the risk of smoke taint. Conversely, regions once too cool, such as southern England or Tasmania, now ripen grapes reliably and can make wines, especially sparkling, of rising quality.",
+"it": "Il riscaldamento anticipa germogliamento e maturazione, così la vendemmia cade nel periodo più caldo dell'anno: l'uva accumula più zucchero (vini più alcolici), perde acidità (pH più alto, vini meno freschi e meno stabili) e rischia aromi cotti. Aumentano gli eventi estremi: siccità, ondate di calore con scottature, grandine, piogge violente, incendi con il rischio del sentore di fumo. Al contrario, regioni prima troppo fresche, come l'Inghilterra meridionale o la Tasmania, ora maturano l'uva con regolarità e possono produrre vini, soprattutto spumanti, di qualità crescente."
+},
+{
+"en": "Describe the choices growers can make to adapt.",
+"it": "Descrivi le scelte con cui i viticoltori possono adattarsi."
+},
+{
+"en": "plant higher or further from the equator; cooler aspects; later-ripening or drought-resistant varieties; drought-tolerant clones and rootstocks; canopy to shade the bunches; efficient irrigation and soil management to retain water; night or earlier harvesting",
+"it": "piantare più in alto o lontano dall'equatore; esposizioni più fresche; varietà a maturazione tardiva o resistenti alla siccità; cloni e portinnesti tolleranti alla siccità; chioma per ombreggiare i grappoli; irrigazione efficiente e gestione del suolo per trattenere acqua; vendemmia notturna o anticipata"
+},
+{
+"en": "Growers can plant higher or further from the equator and choose cooler aspects (north-facing in the northern hemisphere). In the vineyard they can choose later-ripening or drought-resistant varieties and tolerant clones and rootstocks. The canopy can be managed to shade the bunches (less leaf removal, pergolas or shade cloth) and the soil looked after to hold water (organic matter, managed cover crops), with drip irrigation where permitted. Finally, picking at night or earlier keeps acidity and freshness.",
+"it": "Si può piantare più in alto o più lontano dall'equatore e scegliere esposizioni più fresche (verso nord nell'emisfero nord). In vigneto si scelgono varietà a maturazione più tardiva o resistenti alla siccità, e cloni e portinnesti tolleranti. La chioma si gestisce per ombreggiare i grappoli (meno sfogliatura, sistemi a tendone o reti ombreggianti) e il suolo si cura per trattenere acqua (sostanza organica, inerbimento gestito), con irrigazione a goccia dove permessa. Infine si raccoglie di notte o prima, per conservare acidità e freschezza."
+},
+{
+"en": "Vine pests and diseases.",
+"it": "Parassiti e malattie della vite."
+},
+{
+"en": "Explain why phylloxera was so destructive and how it is managed today.",
+"it": "Spiega perché la fillossera è stata così distruttiva e come la si gestisce oggi."
+},
+{
+"en": "aphid native to North America; feeds on the roots of V. vinifera; secondary infections, the vine dies within a few years; spread through Europe from the 1860s; grafting onto resistant American or hybrid rootstocks; free areas and sandy soils, quarantine and control of material",
+"it": "afide originario del Nord America; si nutre delle radici di V. vinifera; infezioni secondarie, la vite muore in pochi anni; si è diffuso in Europa dagli anni 1860; innesto su portinnesti americani o ibridi resistenti; zone libere e suoli sabbiosi, quarantena e controllo del materiale"
+},
+{
+"en": "Phylloxera is a North American aphid that feeds on roots; V. vinifera, which did not evolve with the insect, cannot seal the wounds, which become infected: the vine declines and dies within a few years. From the 1860s it spread through almost all of Europe and then the world. There is no chemical cure: the solution is to graft V. vinifera onto resistant American or hybrid rootstocks. Some areas are still free of it (most of Chile, parts of Australia) and sandy soils hinder it; there, quarantine and control of planting material are key.",
+"it": "La fillossera è un afide nordamericano che si nutre delle radici; V. vinifera, che non si è evoluta con l'insetto, non sa chiudere le ferite, che si infettano: la vite deperisce e muore in pochi anni. Dagli anni 1860 si è diffusa in quasi tutta l'Europa e poi nel mondo. Non esiste cura chimica: la soluzione è innestare V. vinifera su portinnesti americani o ibridi resistenti. Alcune zone ne sono ancora libere (gran parte del Cile, parti dell'Australia) e i suoli sabbiosi la ostacolano; lì contano quarantena e controllo del materiale vegetale."
+},
+{
+"en": "Compare powdery mildew, downy mildew and botrytis bunch rot: favourable conditions, damage and control.",
+"it": "Confronta oidio, peronospora e botrite: condizioni favorevoli, danni e mezzi di lotta."
+},
+{
+"en": "powdery mildew favoured by moderate warmth and shade, no rain needed; powdery mildew covers green parts, split berries, off-flavours; powdery mildew controlled with sulfur and an open canopy; downy mildew needs warmth and humidity, water on the leaves; downy mildew destroys leaves and bunches, less photosynthesis; downy mildew controlled with copper, Bordeaux mixture; botrytis favoured by humidity and tight bunches, wounds; botrytis grey rot, lost yield and off-flavours; botrytis: open canopy, leaf removal, fungicides, earlier harvest",
+"it": "oidio favorito da caldo moderato e ombra, senza bisogno di pioggia; oidio copre organi verdi, acini spaccati, sapori sgradevoli; oidio si combatte con zolfo e chioma aperta; peronospora richiede caldo e umidità, acqua sulle foglie; peronospora distrugge foglie e grappoli, meno fotosintesi; peronospora si combatte con rame, poltiglia bordolese; botrite favorita da umidità e grappoli compatti, ferite; botrite marciume grigio, perdita di resa e sapori sgradevoli; botrite: aprire la chioma, sfogliatura, fungicidi, vendemmia anticipata"
+},
+{
+"en": "Powdery mildew thrives in moderate warmth and shade, even without rain: it covers leaves and berries with white powder, berries split and off-flavours result; it is prevented with sulfur sprays and an open canopy. Downy mildew needs warm, humid conditions and water on the leaves: it destroys leaves (less photosynthesis, incomplete ripening) and bunches; it is controlled with copper (Bordeaux mixture) or systemic fungicides. Botrytis bunch rot thrives with humidity, rain near harvest, tight bunches and damaged berries: it causes grey rot, lost yield, off-flavours and colour problems; it is limited by opening the canopy, leaf removal, fungicides and, if needed, picking earlier.",
+"it": "L'oidio prospera con caldo moderato e ombra, anche senza pioggia: copre di polvere bianca foglie e acini, che si spaccano, dando sapori sgradevoli; si previene con trattamenti allo zolfo e una chioma aperta. La peronospora ha bisogno di caldo umido e di acqua sulle foglie: distrugge foglie (meno fotosintesi, maturazione incompleta) e grappoli; si combatte con il rame (poltiglia bordolese) o con fungicidi sistemici. La botrite prospera con umidità, piogge vicino alla vendemmia, grappoli compatti e acini feriti: causa marciume grigio, perdita di resa, aromi sgradevoli e problemi di colore; si limita aprendo la chioma, sfogliando, con fungicidi e, se necessario, vendemmiando prima."
+},
+{
+"en": "Canopy management in two different climates.",
+"it": "La gestione della chioma in due climi diversi."
+},
+{
+"en": "Explain the aims of canopy management.",
+"it": "Spiega gli obiettivi della gestione della chioma."
+},
+{
+"en": "balance between leaves and fruit; enough exposed leaves for photosynthesis and ripening; light and warmth on the bunches; open, ventilated canopy reduces disease; appropriate, uniform yield; make work and mechanisation easier",
+"it": "equilibrio tra foglie e frutto; abbastanza foglie esposte per la fotosintesi e la maturazione; luce e calore sui grappoli; chioma aperta e ventilata riduce le malattie; resa adeguata e uniforme; facilitare il lavoro e la meccanizzazione"
+},
+{
+"en": "Canopy management seeks a balance between leaf area and crop, so that the vine has enough sunlit leaves to photosynthesise and ripen the fruit fully. It controls the light and warmth reaching the bunches, for colour, aromas and ripe tannins. An open, ventilated canopy dries quickly and reduces fungal disease. It helps control and even out yield and makes work such as spraying and harvesting, including by machine, easier.",
+"it": "La gestione della chioma cerca l'equilibrio tra superficie fogliare e carico d'uva, così che la vite abbia abbastanza foglie esposte al sole per fare fotosintesi e maturare completamente l'uva. Regola la luce e il calore che arrivano ai grappoli, per colore, aromi e tannini maturi. Una chioma aperta e ventilata si asciuga in fretta e riduce le malattie fungine. Permette di controllare la resa e renderla uniforme e rende più facili lavori come trattamenti e vendemmia, anche meccanica."
+},
+{
+"en": "Compare pruning, training and summer canopy choices in a cool, wet vineyard and in a hot, dry one.",
+"it": "Confronta le scelte di potatura, allevamento e lavori estivi in un vigneto fresco e piovoso e in uno caldo e secco."
+},
+{
+"en": "In the cool, wet vineyard the aim is to maximise light, warmth and airflow on the bunches: vertical shoot positioning (VSP) is common, cane- or spur-pruned, with the fruit kept away from damp ground. In summer, trimming and tucking keep the canopy tidy, leaf removal in the fruit zone improves light and ventilation, reducing botrytis and methoxypyrazines, and crop thinning can help ripen a smaller crop. In the hot, dry vineyard the aim is to protect the fruit: bush vines or a free canopy that shades the bunches, or pergolas and shade cloth; leaves are not removed on the afternoon-sun side to avoid sunburn and cooked flavours. Disease is less frequent, so fewer sprays are needed, and lower densities limit competition for scarce water.",
+"it": "Nel vigneto fresco e piovoso serve massimizzare luce, calore e aria sui grappoli: si usa spesso la spalliera verticale (VSP), con potatura a capo o a speroni, e si tengono i grappoli lontani dal suolo umido. In estate cimatura e legatura mantengono la chioma ordinata, la sfogliatura nella zona dei grappoli migliora luce e ventilazione, riducendo botrite e metossipirazine, e il diradamento può aiutare a maturare un carico più piccolo. Nel vigneto caldo e secco l'obiettivo è proteggere l'uva: alberello o chioma libera che ombreggia i grappoli, oppure pergola o reti ombreggianti; non si sfoglia sul lato del sole pomeridiano per evitare scottature e aromi cotti. Le malattie sono meno frequenti, quindi meno trattamenti, e densità più basse limitano la competizione per l'acqua scarsa."
+},
+{
+"en": "Establishing a new vineyard.",
+"it": "Impiantare un nuovo vigneto."
+},
+{
+"en": "Which factors should be considered when selecting the site?",
+"it": "Quali fattori va considerati nella scelta del sito?"
+},
+{
+"en": "climate suited to the variety and style; hazards such as frost and hail; water availability and rights to irrigate; soil, drainage and fertility; slope and aspect, mechanisation; labour, land price, access to winery and markets; appellation rules",
+"it": "clima adatto alla varietà e allo stile; rischi come gelo e grandine; disponibilità e diritti d'acqua per irrigare; suolo, drenaggio e fertilità; pendenza ed esposizione, meccanizzazione; manodopera, costo del terreno, accesso a cantina e mercati; regole della denominazione"
+},
+{
+"en": "The climate must let the chosen variety ripen in the desired style, and hazards such as frost and hail must be assessed. The grower needs to know whether water is available and whether irrigation is allowed. Soil matters for drainage, fertility and vigour. Slope and aspect affect warmth, frost risk and whether the vineyard can be mechanised. Then come economics: available labour, land price, distance to the winery and to markets. Finally, appellation rules may restrict varieties, yields and practices.",
+"it": "Il clima deve permettere alla varietà scelta di maturare nello stile voluto, e vanno valutati i rischi come gelo e grandine. Serve sapere se c'è acqua e se si ha il diritto di irrigare. Il suolo conta per drenaggio, fertilità e vigore. Pendenza ed esposizione influenzano calore, rischio di gelo e possibilità di meccanizzare. Poi gli aspetti economici: manodopera disponibile, costo del terreno, distanza dalla cantina e dai mercati. Infine le regole della denominazione, che possono limitare varietà, rese e pratiche."
+},
+{
+"en": "Explain how the choice of planting density, rootstock and plant material affects yield, quality and costs.",
+"it": "Spiega come la scelta di densità d'impianto, portinnesto e materiale vegetale influisce su resa, qualità e costi."
+},
+{
+"en": "high density on poor soils, competition between vines; little fruit per vine, full ripening; high density costs more in plants and labour; low density on fertile soils with a large canopy, mechanisable; rootstock resistant to phylloxera and nematodes; rootstock suited to lime, drought or waterlogging; rootstock controls vigour; clone chosen for yield, health, flavour; certified virus-free material; mass selection more diversity but virus risk",
+"it": "alta densità su suoli poveri, competizione tra viti; poca uva per ceppo, maturazione completa; alta densità costa di più in barbatelle e lavoro; bassa densità su suoli fertili con chioma ampia, meccanizzabile; portinnesto resistente a fillossera e nematodi; portinnesto adattato a calcare, siccità o umidità; portinnesto controlla il vigore; clone scelto per resa, sanità, aromi; materiale certificato senza virus; selezione massale più diversità ma rischio virus"
+},
+{
+"en": "On poor, dry soils high density makes vines compete: each carries little fruit and ripens it well, with an acceptable yield per hectare; but plants, posts and labour cost more and mechanisation is harder. On fertile soils vines are planted further apart with large or divided canopies, cheaper and machine-friendly. The rootstock must resist phylloxera and nematodes, suit the soil (lime, drought, waterlogging) and control vigour: low-vigour on fertile soils, vigorous on poor ones. The clone is chosen for yield, health and flavour; certified material avoids viruses, while mass selection brings more diversity and complexity with a greater virus risk.",
+"it": "Su suoli poveri e secchi un'alta densità mette le viti in competizione: ogni ceppo porta poca uva e la matura bene, con una resa per ettaro accettabile; ma barbatelle, pali e lavoro costano di più e la meccanizzazione è più difficile. Su suoli fertili si pianta meno fitto con chiome ampie o divise, più economiche e meccanizzabili. Il portinnesto deve resistere a fillossera e nematodi, adattarsi al suolo (calcare, siccità, umidità) e controllare il vigore: debole su suoli fertili, vigoroso su suoli poveri. Il clone si sceglie per resa, sanità e aromi; il materiale certificato evita i virus, mentre la selezione massale porta più diversità e complessità, con un rischio di virus maggiore."
+},
+{
+"en": "Grapes for sweet wines.",
+"it": "Le uve per i vini dolci."
+},
+{
+"en": "Describe three ways of concentrating sugar in the vineyard or after picking.",
+"it": "Descrivi tre modi per concentrare lo zucchero in vigneto o dopo la raccolta."
+},
+{
+"en": "drying on the vine, late harvest; weather risk and yield loss; drying after picking on racks or in ventilated rooms; examples Recioto, Vin Santo; noble rot Botrytis cinerea; humid mornings and dry sunny afternoons; picked in several passes; freezing on the vine, Icewine; water stays as ice during pressing",
+"it": "appassimento sulla pianta, vendemmia tardiva; rischio meteo e perdite di resa; appassimento dopo la raccolta su graticci o locali ventilati; esempi Recioto, Vin Santo; muffa nobile Botrytis cinerea; mattine umide e pomeriggi secchi e soleggiati; raccolta in più passaggi; congelamento sulla pianta, Icewine; acqua resta come ghiaccio in pressatura"
+},
+{
+"en": "Grapes can be left on the vine past ripeness (late harvest): berries lose water and concentrate, but rain, rot and birds are risks and yield falls. They can be picked and dried on racks or in ventilated rooms, as for Recioto or Vin Santo, with more control but costs in space and labour. Noble rot (Botrytis cinerea) develops with humid mornings and dry, sunny afternoons: it pierces the skin, water evaporates, sugar and acid concentrate and honeyed aromas appear; picking is done in several passes. Finally grapes can freeze on the vine: pressed frozen (Icewine), the water stays behind as ice and a very concentrated juice runs off.",
+"it": "Si può lasciare l'uva sulla pianta oltre la maturità (vendemmia tardiva): gli acini perdono acqua e si concentrano, ma si rischiano pioggia, marciume e uccelli, e la resa cala. Si può raccogliere e far appassire l'uva su graticci o in locali ventilati, come per Recioto o Vin Santo, con più controllo ma costi di spazio e lavoro. La muffa nobile (Botrytis cinerea) si sviluppa con mattine umide e pomeriggi secchi e soleggiati: buca la buccia, l'acqua evapora, zuccheri e acidi si concentrano e nascono aromi di miele; si raccoglie in più passaggi. Infine l'uva può gelare sulla pianta: pressandola gelata (Icewine) l'acqua resta come ghiaccio e si estrae un succo molto concentrato."
+},
+{
+"en": "Explain why these wines are expensive.",
+"it": "Spiega perché questi vini sono costosi."
+},
+{
+"en": "very low yields, little juice per vine; risk of losing the crop to weather; much labour, hand picking in several passes; costs of drying, space and time; not made every year; long fermentation and maturation, small volumes",
+"it": "rese molto basse, poco succo per ceppo; rischio di perdere il raccolto per il meteo; molta manodopera, raccolta a mano in più passaggi; costi di appassimento, spazio e tempo; produzione non tutti gli anni; lunga fermentazione e affinamento, piccoli volumi"
+},
+{
+"en": "All these methods drastically cut the yield: each vine gives little juice. The risk is high, as rain, grey rot or a mild winter can wipe out the crop, and in some years the wine is not made at all. They need a lot of labour and selective hand picking, or space, time and care for drying. Very sweet musts ferment slowly and are often followed by long maturation: volumes are small, costs are high and the price reflects them.",
+"it": "Tutti questi metodi riducono drasticamente la resa: da un ceppo si ottiene poco succo. Il rischio è alto, perché pioggia, marciume grigio o un inverno troppo mite possono cancellare il raccolto, e in alcune annate il vino non si fa. Servono molta manodopera e raccolte manuali in più passaggi, oppure spazi, tempo e cura per l'appassimento. Le fermentazioni dei mosti molto zuccherini sono lente e spesso segue un lungo affinamento: i volumi sono piccoli e i costi alti, e il prezzo li riflette."
+},
+{
+"en": "From vineyard to price.",
+"it": "Dal vigneto al prezzo."
+},
+{
+"en": "Evaluate the vineyard choices of a producer of inexpensive, high-volume wine and those of a super-premium producer, and their effect on style, quality and price.",
+"it": "Valuta le scelte in vigneto di un produttore di vino economico e di grandi volumi e quelle di un produttore super-premium, e il loro effetto su stile, qualità e prezzo."
+},
+{
+"en": "The inexpensive-wine producer aims for plenty of healthy fruit at low cost. They choose flat, fertile, often irrigated sites, productive clones and high yields; they use machine-friendly trellises, mechanical pruning and harvesting, sometimes at night to keep fruit cool, and cheap conventional spraying. The wine will be fruity and simple, for drinking young, of acceptable or good quality: choices consistent with a low price. The super-premium producer accepts high costs to get exceptional fruit: limited, often sloping sites, old, densely planted vines, mass selections or quality clones, much hand work in the canopy, crop thinning, hand harvesting in several passes with sorting, often organic or biodynamic farming. The result is a concentrated, complex, balanced wine of very good or outstanding quality that can age. The high price reflects costs, but also rarity and reputation; these choices are not enough on their own if the site lacks potential.",
+"it": "Il produttore di vino economico punta a molta uva sana a basso costo. Sceglie siti pianeggianti e fertili, spesso irrigati, con cloni produttivi e rese alte; usa spalliere meccanizzabili, potatura e vendemmia meccanica, anche di notte per tenere l'uva fresca, e trattamenti convenzionali poco costosi. Il vino sarà fruttato, semplice, da bere giovane, di qualità accettabile o buona: scelte coerenti con un prezzo basso. Il produttore super-premium accetta costi alti per ottenere uva eccezionale: siti limitati, spesso in pendio, viti vecchie e piantate fitte, selezioni massali o cloni di qualità, molto lavoro manuale in chioma, diradamento, vendemmia a mano in più passaggi con cernita, spesso agricoltura biologica o biodinamica. Ne nasce un vino concentrato, complesso ed equilibrato, di qualità molto buona o eccezionale e adatto all'invecchiamento. Il prezzo alto riflette i costi, ma anche rarità e reputazione; queste scelte non bastano da sole se il sito non ha potenziale."
+},
+{
+"en": "Oxygen and sulfur dioxide in the winery.",
+"it": "Ossigeno e anidride solforosa in cantina."
+},
+{
+"en": "Explain the positive and negative effects of oxygen in winemaking.",
+"it": "Spiega gli effetti positivi e negativi dell'ossigeno nella vinificazione."
+},
+{
+"en": "oxidation: loss of fresh fruit aromas; browning of colour; baked apple or nutty aromas; favours microbes such as acetic acid bacteria; yeasts need it at the start of fermentation; in reds it stabilises colour and softens tannins; hyperoxidation of whites for stability",
+"it": "ossidazione: perdita di aromi fruttati freschi; imbrunimento del colore; aromi di mela cotta o nocciola; favorisce microrganismi come i batteri acetici; serve ai lieviti all'inizio della fermentazione; nei rossi stabilizza il colore e ammorbidisce i tannini; iperossigenazione dei bianchi per stabilità"
+},
+{
+"en": "Too much oxygen oxidises wine: fresh fruit aromas are lost, colour browns (whites towards gold and brown, reds towards garnet) and baked-apple or nutty notes appear; it also favours acetic acid bacteria and other microbes. But oxygen is useful too: yeasts need it at the start of fermentation to multiply well; in reds small, controlled doses (pump-overs, wood, micro-oxygenation) stabilise colour by linking anthocyanins and tannins and soften the tannins. In whites, hyperoxidation of the must removes oxidisable phenolics and makes the wine more resistant to browning.",
+"it": "Troppo ossigeno ossida il vino: si perdono gli aromi di frutta fresca, il colore imbrunisce (i bianchi verso l'oro e il marrone, i rossi verso il granato) e compaiono note di mela cotta o di frutta secca; inoltre favorisce i batteri acetici e altri microrganismi. Ma l'ossigeno serve anche: i lieviti ne hanno bisogno all'inizio della fermentazione per moltiplicarsi bene; nei rossi piccole dosi controllate (rimontaggi, legno, micro-ossigenazione) stabilizzano il colore legando antociani e tannini e ammorbidiscono i tannini. Nei bianchi l'iperossigenazione del mosto elimina i fenoli ossidabili e rende il vino più resistente all'imbrunimento."
+},
+{
+"en": "Explain the role of SO₂, when it is added and why some producers use little or none.",
+"it": "Spiega il ruolo della SO₂, quando si aggiunge e perché alcuni produttori ne usano poca o niente."
+},
+{
+"en": "antioxidant, protects against oxidation; antimicrobial, inhibits unwanted yeasts and bacteria; added to grapes or must after picking; added after fermentation or MLF and before bottling; more effective at low pH; legal limits, lower for reds and for organic; some people are sensitive, labelled above 10 mg/L; natural wines little or no SO₂, risk of faults",
+"it": "antiossidante, protegge dall'ossidazione; antimicrobica, inibisce lieviti e batteri indesiderati; aggiunta all'uva o al mosto dopo la raccolta; aggiunta dopo la fermentazione o la malolattica e prima dell'imbottigliamento; più efficace a pH basso; limiti di legge, più bassi per i rossi e per il biologico; alcune persone sono sensibili, etichetta oltre 10 mg/L; vini naturali poca o nessuna SO₂, rischio di difetti"
+},
+{
+"en": "SO₂ is an antioxidant, protecting must and wine from oxidation, and an antimicrobial, inhibiting unwanted yeasts and bacteria (for example acetic acid bacteria or Brettanomyces). It is often added to grapes or must on arrival at the winery, then after fermentation or after MLF (so as not to block it) and finally before bottling. It is more effective at low pH. Doses are limited by law, lower for reds and for organic wines, and above 10 mg/L it must be declared because some people are sensitive to it. Some producers, especially of natural wines, use little or none for philosophical and market reasons, accepting more risk of oxidation and microbial faults.",
+"it": "La SO₂ è antiossidante, perché protegge mosto e vino dall'ossidazione, e antimicrobica, perché inibisce lieviti e batteri indesiderati (per esempio i batteri acetici o le Brettanomyces). Si aggiunge spesso all'uva o al mosto appena arrivati in cantina, poi dopo la fermentazione o dopo la malolattica (per non bloccarla) e infine prima dell'imbottigliamento. È più efficace a pH basso. Le dosi sono limitate per legge, più basse per i rossi e per i vini biologici, e oltre 10 mg/L va dichiarata perché alcune persone sono sensibili. Alcuni produttori, soprattutto di vini naturali, ne usano poca o niente per ragioni di filosofia e di mercato, accettando più rischi di ossidazione e difetti microbiologici."
+},
+{
+"en": "Adjusting the must.",
+"it": "Correggere il mosto."
+},
+{
+"en": "Explain why and how must is enriched and what limits apply in the EU.",
+"it": "Spiega perché e come si arricchisce un mosto e quali limiti esistono nell'UE."
+},
+{
+"en": "underripe grapes in a cool climate or difficult vintage; raise alcohol and body, balance; chaptalisation with beet or cane sugar; concentrated must or rectified concentrated must; concentration by reverse osmosis or vacuum evaporation; cryoextraction, volume is lost; EU zones: zone A minimum 8% and +3%; zone CIIIb minimum 9% and +1.5%, sugar not allowed in warm zones",
+"it": "uva poco matura in clima fresco o annata difficile; aumentare l'alcol e il corpo, equilibrio; zuccheraggio con zucchero di barbabietola o canna; mosto concentrato o mosto concentrato rettificato; concentrazione per osmosi inversa o evaporazione sotto vuoto; crioestrazione, si perde volume; zone UE: zona A minimo 8% e +3%; zona CIIIb minimo 9% e +1,5%, zucchero non ammesso nelle zone calde"
+},
+{
+"en": "In cool climates or difficult vintages grapes may lack sugar: the wine would be thin, low in alcohol and unbalanced. Must is enriched by adding beet or cane sugar (chaptalisation), concentrated must or rectified concentrated must, or by removing water with reverse osmosis, vacuum evaporation or cryoextraction, which however reduce volume. In the EU the rules depend on the climate zone: in zone A (Germany excluding Baden, the UK) the minimum natural potential alcohol is 8% and up to 3% may be added; in zone CIIIb, the hottest, the minimum is 9% and the increase only 1.5%, and sugar is not allowed: concentrated musts are used.",
+"it": "Nei climi freschi o nelle annate difficili l'uva può non raggiungere abbastanza zucchero: il vino sarebbe magro, poco alcolico e squilibrato. Si arricchisce aggiungendo zucchero di barbabietola o di canna (zuccheraggio), mosto concentrato o mosto concentrato rettificato, oppure togliendo acqua al mosto con osmosi inversa, evaporazione sotto vuoto o crioestrazione, che però riducono il volume. Nell'UE le regole dipendono dalla zona climatica: nella zona A (Germania esclusa la Baden, Regno Unito) l'alcol potenziale naturale minimo è 8% e si può aggiungere fino al 3%; nella zona CIIIb, la più calda, il minimo è 9% e l'aumento solo dell'1,5%, e lo zucchero non è ammesso: si usano mosti concentrati."
+},
+{
+"en": "Explain acidification and deacidification: when, how and with what limits.",
+"it": "Spiega acidificazione e disacidificazione: quando, come e con quali limiti."
+},
+{
+"en": "acidify in warm climates where malic acid falls; lowers pH, more freshness and stability; mostly tartaric acid is used; usually before fermentation; deacidify in cold climates or with unripe grapes; calcium or potassium carbonate; not both chaptalise and acidify the same must in the EU",
+"it": "acidificare nei climi caldi dove il malico cala; abbassa il pH, più freschezza e stabilità; si usa soprattutto acido tartarico; di solito prima della fermentazione; disacidificare nei climi freddi o uva acerba; carbonato di calcio o di potassio; non zuccherare e acidificare lo stesso mosto nell'UE"
+},
+{
+"en": "In warm climates malic acid falls sharply during ripening and the wine could be flat and unstable: it is acidified, usually with tartaric acid and preferably before fermentation, to lower pH and give freshness, microbial stability and brighter colour; losses from MLF and tartrate stabilisation must be allowed for. In cold climates or with unripe fruit, must is deacidified with calcium or potassium carbonate, which precipitates tartrate salts. In the EU quantities depend on the climate zone and the same must cannot be both chaptalised and acidified.",
+"it": "Nei climi caldi l'acido malico cala molto durante la maturazione e il vino rischierebbe di essere piatto e instabile: si acidifica, di solito con acido tartarico e preferibilmente prima della fermentazione, per abbassare il pH e dare freschezza, stabilità microbica e colore più vivo; bisogna tener conto delle perdite dovute a malolattica e stabilizzazione tartarica. Nei climi freddi o con uva acerba si disacidifica con carbonato di calcio o di potassio, che fa precipitare sali tartarici. Nell'UE le quantità dipendono dalla zona climatica e non si può zuccherare e acidificare lo stesso mosto."
+},
+{
+"en": "Fermenting a red wine.",
+"it": "Fermentare un rosso."
+},
+{
+"en": "Explain the choices of temperature, vessel and cap management and their effect on style.",
+"it": "Spiega le scelte di temperatura, recipiente e gestione del cappello e il loro effetto sullo stile."
+},
+{
+"en": "17–25 °C for fruity, low-tannin reds; 26–32 °C to extract colour and tannin; above 35 °C risk of stuck fermentation; stainless steel temperature control and neutrality; concrete thermal inertia; open wooden vats for punch-downs and oxygen exchange; punching down vigorous extraction; pumping over gentler with aeration; rack and return thorough extraction; rotary fermenters fast extraction for soft, ready wines",
+"it": "17–25 °C per rossi fruttati poco tannici; 26–32 °C per estrarre colore e tannini; oltre 35 °C rischio di arresto; acciaio inox controllo della temperatura e neutralità; cemento inerzia termica; legno aperto per follature e scambio d'ossigeno; follatura estrazione energica; rimontaggio più delicato con aerazione; délestage estrazione completa; fermentatori rotanti estrazione rapida per vini morbidi e pronti"
+},
+{
+"en": "For a fruity, low-tannin red, fermentation runs at 17–25 °C to keep fruit aromas; for a structured red for ageing it goes up to 26–32 °C to extract more colour and tannin, without exceeding about 35 °C, where yeasts struggle. Stainless steel allows precise temperature control and is neutral; concrete has high thermal inertia; open wooden vats suit punching down and allow slight oxygen exchange. The cap must be managed: punch-downs extract strongly, pump-overs are gentler and aerate, rack and return gives thorough extraction, and rotary fermenters extract colour and fruit quickly for soft reds to drink early. More extraction means more colour, tannin and ageing potential, but too much brings hardness and bitterness.",
+"it": "Per un rosso fruttato e poco tannico si fermenta tra 17 e 25 °C, conservando aromi di frutta; per un rosso strutturato da invecchiamento si sale a 26–32 °C per estrarre più colore e tannini, evitando di superare circa 35 °C, quando i lieviti soffrono. L'acciaio inox permette un controllo preciso della temperatura ed è neutro; il cemento ha grande inerzia termica; i tini di legno aperti si prestano alle follature e permettono un leggero scambio d'ossigeno. Il cappello va gestito: le follature estraggono con forza, i rimontaggi sono più delicati e aerano, il délestage dà un'estrazione completa, i fermentatori rotanti estraggono in fretta colore e frutto per rossi morbidi da bere presto. Più estrazione significa più colore, tannino e potenziale d'invecchiamento, ma in eccesso porta durezza e amaro."
+},
+{
+"en": "Explain how whole bunches and carbonic maceration change the style.",
+"it": "Spiega come grappoli interi e macerazione carbonica cambiano lo stile."
+},
+{
+"en": "whole bunches: floral and herbaceous aromas, freshness; ripe stems add tannic structure; carbonic maceration: fermentation inside whole berries under CO₂; strawberry, cherry, banana, bubblegum aromas; soft colour and tannin, little extraction; fruity wines to drink young, example Beaujolais",
+"it": "grappoli interi: aromi floreali ed erbacei, freschezza; raspi maturi aggiungono struttura tannica; macerazione carbonica: fermentazione dentro l'acino intero sotto CO₂; aromi di fragola, ciliegia, banana, chewing gum; colore e tannini morbidi, poca estrazione; vini fruttati da bere giovani, esempio Beaujolais"
+},
+{
+"en": "Adding whole bunches to the ferment gives floral and sometimes herbaceous aromas, a sense of freshness and, if the stems are ripe, more tannic structure; some berries ferment whole, giving lively fruit notes. In carbonic maceration whole bunches are sealed in a vat under CO₂: intracellular fermentation starts inside the berry, producing strawberry, cherry, banana and bubblegum aromas; extraction is low, so colour and tannins are soft. The result, typical of many Beaujolais, is a fruity, light red for drinking young.",
+"it": "Aggiungere grappoli interi in fermentazione dà aromi floreali e talvolta erbacei, una sensazione di freschezza e, se i raspi sono maturi, più struttura tannica; parte degli acini fermenta intera, con note di frutto vivace. Con la macerazione carbonica i grappoli interi vengono chiusi in vasca sotto CO₂: dentro l'acino parte una fermentazione intracellulare che produce aromi di fragola, ciliegia, banana e chewing gum; l'estrazione è scarsa, quindi colore e tannini sono morbidi. Il risultato, tipico di molti Beaujolais, è un rosso fruttato e leggero da bere giovane."
+},
+{
+"en": "Malolactic conversion and no-alcohol wines.",
+"it": "Fermentazione malolattica e vini senza alcol."
+},
+{
+"en": "Explain what MLF does and how the winemaker encourages or avoids it.",
+"it": "Spiega che cosa fa la malolattica e come il vinificatore la favorisce o la evita."
+},
+{
+"en": "lactic acid bacteria Oenococcus oeni; malic acid converted into lactic; lower acidity, higher pH, softer taste; diacetyl buttery aroma; more microbial stability; encourage with 18–22 °C, moderate pH, low SO₂, inoculation; avoid with cold below 15 °C, low pH, SO₂; sterile filtration or lysozyme",
+"it": "batteri lattici Oenococcus oeni; acido malico trasformato in lattico; acidità più bassa, pH più alto, gusto più morbido; diacetile aroma di burro; più stabilità microbiologica; favorire con 18–22 °C, pH moderato, poca SO₂, inoculo; evitare con freddo sotto 15 °C, pH basso, SO₂; filtrazione sterile o lisozima"
+},
+{
+"en": "MLF is carried out by lactic acid bacteria, mainly Oenococcus oeni, which convert sharp malic acid into softer lactic acid: acidity falls, pH rises slightly and the wine becomes rounder; diacetyl, with a buttery aroma, may appear; and the wine, free of malic acid, is more microbially stable. To encourage it the wine is kept at 18–22 °C, at moderate pH (3.3–3.5) with little SO₂, often inoculated with selected bacteria. To avoid it, as in many aromatic whites, the wine is kept below 15 °C, at low pH, with SO₂, and is sterile-filtered or treated with lysozyme.",
+"it": "La malolattica è condotta da batteri lattici, soprattutto Oenococcus oeni, che trasformano l'acido malico, aspro, in acido lattico, più morbido: l'acidità scende, il pH sale un po' e il vino diventa più rotondo; può comparire diacetile, con aroma di burro; e il vino, privo di malico, è più stabile dal punto di vista microbiologico. Per favorirla si mantiene il vino a 18–22 °C, con pH moderato (3,3–3,5) e poca SO₂, spesso inoculando batteri selezionati. Per evitarla, come in molti bianchi aromatici, si tiene il vino sotto 15 °C, a pH basso, con SO₂, e si filtra in modo sterile o si usa lisozima."
+},
+{
+"en": "Describe how no- and low-alcohol wines are made and the quality challenges.",
+"it": "Descrivi come si producono vini senza o con poco alcol e le sfide di qualità."
+},
+{
+"en": "dealcoholisation of finished wine; reverse osmosis; spinning cone column; under vacuum at low temperature to keep aromas; stopping fermentation early or low-yielding yeasts; loss of body and aroma, addition of must, natural grape aromas or CO₂; microbial risk from sugar, stabilisation needed",
+"it": "dealcolazione del vino finito; osmosi inversa; colonna a coni rotanti; sotto vuoto a bassa temperatura per conservare aromi; arresto precoce della fermentazione o lieviti poco produttivi; perdita di corpo e aromi, aggiunta di mosto, aromi naturali d'uva o CO₂; rischio microbiologico per lo zucchero, serve stabilizzazione"
+},
+{
+"en": "The most common method is to remove alcohol from a finished wine, with reverse osmosis or a spinning cone column, under vacuum and at low temperature to lose fewer aromas. Alternatively fermentation is stopped early or yeasts that produce little alcohol are used. The challenge is that alcohol gives body and perceived sweetness and carries aromas: without it, wine tastes thin and sharp. To compensate, must or sugar, natural grape aromas and CO₂ are added. Residual sugar and the absence of alcohol make the wine vulnerable to microbes, so sterile filtration, SO₂ or pasteurisation are needed.",
+"it": "Il metodo più comune è togliere l'alcol a un vino finito: con l'osmosi inversa o con la colonna a coni rotanti, lavorando sotto vuoto e a bassa temperatura per perdere meno aromi. In alternativa si ferma presto la fermentazione o si usano lieviti che producono poco alcol. La sfida è che l'alcol porta corpo, dolcezza percepita e trasporta gli aromi: senza, il vino sembra magro e acido. Per compensare si aggiungono mosto o zucchero, aromi naturali d'uva e CO₂. Lo zucchero residuo e la mancanza di alcol rendono il vino vulnerabile ai microrganismi: servono filtrazione sterile, SO₂ o pastorizzazione."
+},
+{
+"en": "Maturation in oak.",
+"it": "L'affinamento in legno."
+},
+{
+"en": "Explain how oak influences wine and which choices change this effect.",
+"it": "Spiega come il legno influisce sul vino e quali scelte cambiano questo effetto."
+},
+{
+"en": "Oak lets oxygen in slowly through staves and bung: in reds it stabilises colour and softens tannins, in whites it encourages more developed aromas. It also gives flavours (vanilla, toast, sweet spice, coconut) and its own tannins, adding structure. The effect depends on choices: tight-grained French oak is subtler, American gives more coconut and vanilla; staves seasoned outdoors lose harsh tannins; light, medium or heavy toast shifts flavours from fresh wood and coconut to vanilla and toast and on to coffee and smoke; a 225 L barrique has more surface per litre than a large cask; new oak gives a lot, while oak used several times is nearly neutral.",
+"it": "Il legno lascia entrare lentamente ossigeno attraverso doghe e cocchiume: nei rossi stabilizza il colore e ammorbidisce i tannini, nei bianchi favorisce aromi più evoluti. Cede anche aromi (vaniglia, tostato, spezie dolci, cocco) e tannini propri che aggiungono struttura. L'effetto dipende dalle scelte: il rovere francese, a grana fine, è più delicato, l'americano dà più cocco e vaniglia; le doghe stagionate all'aperto perdono i tannini aggressivi; la tostatura leggera, media o forte sposta gli aromi da legno fresco e cocco a vaniglia e tostato fino a caffè e fumo; una barrique da 225 L ha più superficie per litro di una botte grande; il legno nuovo cede molto, quello usato più volte è quasi neutro."
+},
+{
+"en": "Compare the use of oak for an inexpensive red and for a super-premium red.",
+"it": "Confronta l'uso del legno per un rosso economico e per un rosso super-premium."
+}
+]
