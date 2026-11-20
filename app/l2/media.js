@@ -52,10 +52,12 @@
     }
     /* entry points in the Review hub */
     const row = (go, ic, ti, sub) => `<button type="button" class="hubrow" data-go="${go}"><span class="hub-ic">${ICO[ic] || ""}</span><span class="hub-tx"><b>${esc(ti)}</b><span>${esc(sub)}</span></span>${ICO.chev || ""}</button>`;
+    /* translate the sentence first, then prepend the count (the map is keyed on the bare English text) */
+    const trX = s => { try { return typeof TES !== "undefined" && TES.on ? TES.tr(s) : s; } catch (e) { return s; } };
     const W0 = L2UI.wine;
     L2UI.wine = function () {
       const h = W0.apply(this, arguments);
-      const add = (hasPods ? row("pods", "pod", tt("pods"), PODS.length + " · " + tt("podsD")) : "") + (hasFilms ? row("films", "films", tt("films"), FILMS.length + " · " + tt("filmsD")) : "");
+      const add = (hasPods ? row("pods", "pod", tt("pods"), PODS.length + " · " + trX(tt("podsD"))) : "") + (hasFilms ? row("films", "films", tt("films"), FILMS.length + " · " + trX(tt("filmsD"))) : "");
       return add ? h.replace('<div class="hublist">', `<div class="hublist">${add}`) : h;
     };
   };
