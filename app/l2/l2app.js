@@ -34,7 +34,7 @@
     "Tap the card to turn it over": "Tocá la tarjeta para darla vuelta", "Not yet: you need 55%": "Todavía no: necesitás un 55 %" };
   const X = window.TWG_ESX || (window.TWG_ESX = { es: {}, ar: {} });
   Object.assign(X.es, ES); Object.assign(X.ar, AR);
-  const C = window.TWG_L2C || window.TWG_L1C || window.TWG_S1C || window.TWG_S2C || window.TWG_S3C; if (!C) return; const LV = C.level, SP = C.track === "spirits";
+  const C = window.TWG_L2C || window.TWG_L1C || window.TWG_S1C || window.TWG_S2C || window.TWG_S3C || window.TWG_K1C || window.TWG_B1C; if (!C) return; const LV = C.level, SP = C.track === "spirits";
   let les = null, fl = { c: "", i: 0, flip: false, order: null }, timer = null;
 
   function lvSwitch() {
@@ -160,7 +160,9 @@
       Object.assign(T[l], SP ? ({ it: { obHi: "Ciao! Sono la tua capra dei distillati 🥃", obHiP: `Ti preparo un percorso su misura per passare l'esame ${nm}. Bastano 5 domande veloci.` },
         fr: { obHi: "Bonjour ! Je suis votre chèvre des spiritueux 🥃", obHiP: `Je vous prépare un parcours sur mesure pour réussir l'examen ${nm}. Il suffit de 5 questions rapides.` },
         en: { obHi: "Hi! I'm your spirits goat 🥃", obHiP: `I'll build you a tailor-made path to pass your ${nm} exam. It takes 5 quick questions.` } })[l]
-        : ({ it: { obHiP: `Ti preparo un percorso su misura per passare l'esame ${nm}. Bastano 5 domande veloci.` }, fr: { obHiP: `Je vous prépare un parcours sur mesure pour réussir l'examen ${nm}. Il suffit de 5 questions rapides.` }, en: { obHiP: `I'll build you a tailor-made path to pass your ${nm} exam. It takes 5 quick questions.` } })[l]); });
+        : ({ it: { obHiP: `Ti preparo un percorso su misura per passare l'esame ${nm}. Bastano 5 domande veloci.` }, fr: { obHiP: `Je vous prépare un parcours sur mesure pour réussir l'examen ${nm}. Il suffit de 5 questions rapides.` }, en: { obHiP: `I'll build you a tailor-made path to pass your ${nm} exam. It takes 5 quick questions.` } })[l]);
+      /* sake, beer…: the level's own texts come with its content (C.ui = {key: [it, fr, en]}; Spanish through TWG_ESX) */
+      if (C.ui) { const i = ["it", "fr", "en"].indexOf(l); Object.keys(C.ui).forEach(k => { if (C.ui[k] && C.ui[k][i]) T[l][k] = C.ui[k][i]; }); } });
     Object.assign(ES, { "Hi! I'm your spirits goat 🥃": "¡Hola! Soy tu cabra de los destilados 🥃", [`I'll build you a tailor-made path to pass your ${SP ? "Spirits " + LV : "Level " + LV} exam. It takes 5 quick questions.`]: `Te preparo un recorrido a medida para aprobar el examen ${SP ? "Spirits " + LV : "de Nivel " + LV}. Bastan 5 preguntas rápidas.` });
     if (SP) Object.assign(ES, { [`Spirits ${LV} exam`]: `Examen Spirits ${LV}`, "Lessons, quizzes and flashcards on spirits, liqueurs and cocktails.": "Lecciones, tests y tarjetas sobre destilados, licores y cócteles.",
       "Review spirits, label terms and cocktails": "Repasa destilados, etiquetas y cócteles", [`All of Spirits ${LV}`]: `Todo Spirits ${LV}`, [`Lessons, flashcards and mistakes: only the Spirits ${LV} syllabus.`]: `Lecciones, tarjetas y errores: solo el programa de Spirits ${LV}.`,
@@ -169,7 +171,7 @@
     Object.assign(X.es, ES); Object.assign(X.ar, AR);
     Object.assign(TABG, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBV, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBT, { l2les: "l2Les", l2fl: "l2Fl", l2match: "l2Match" });
     const st = document.createElement("style");
-    st.textContent = `.lvsw{display:flex;align-items:center;gap:6px;margin:0 0 12px;font-size:13px;color:var(--muted)}.lvsw span{margin-right:4px}
+    st.textContent = `.lvsw{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 12px;font-size:13px;color:var(--muted)}.lvsw span{margin-right:4px}
 .lvsw button{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 14px;font:inherit;font-weight:700;cursor:pointer}
 .lvsw button[aria-pressed=true]{background:var(--wine,#7a1f3d);border-color:var(--wine,#7a1f3d);color:#fff}
 .l2chap{border:1px solid var(--line);border-radius:14px;background:var(--surface);margin:8px 0;padding:0 14px}.l2chap summary{display:flex;justify-content:space-between;gap:10px;padding:13px 0;cursor:pointer}
