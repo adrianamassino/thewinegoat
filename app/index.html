@@ -1340,7 +1340,7 @@ nav.tabs{backdrop-filter:saturate(1.3) blur(10px);-webkit-backdrop-filter:satura
 </div>
 <aside class="rail" id="rail" aria-label="Stats"></aside>
 
-<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}, "iap": {"appleKey": "", "googleKey": "", "productId": "twg_full_12m", "days": 365}}</script><script>(function(){var XL=["de","nl","el","ja","ko","zh-hant","pt","tr","th"];window.TWG_XL=XL;window.TWG_I18NV=/*i18nv*/{"de":"4ca0af65","de/l1":"a817015d","de/l2":"ec405112","de/s1":"ab16f37b","de/s2":"9ff635eb","el":"a732c46a","el/l1":"4e36ef9e","el/l2":"2d8e59ae","el/s1":"47162270","el/s2":"effaae24","ja":"1e4a3327","ja/l1":"d5d99350","ja/l2":"5c7fe5e6","ja/s1":"d6ef5098","ja/s2":"cd441be1","ko":"fec98136","ko/l1":"38900fad","ko/l2":"7e59586b","ko/s1":"3b4fc9e0","ko/s2":"6ffd30ec","nl":"c6f08714","nl/l1":"1e42b888","nl/l2":"bf9dbdf0","nl/s1":"4a0898d7","nl/s2":"0994c897","pt":"697fbb51","pt/l1":"ef7dcaf4","pt/l2":"9283ac62","pt/s1":"fd055048","pt/s2":"65a67904","th":"cdd875a5","th/l1":"001de332","th/l2":"25016051","th/s1":"be244c1e","th/s2":"9e5233f0","tr":"3268bbc6","tr/l1":"30059203","tr/l2":"c4cd6cd8","tr/s1":"86b80fae","tr/s2":"d25061a0","zh-hant":"c2f3db82","zh-hant/l1":"1dede7c6","zh-hant/l2":"c1177de5","zh-hant/s1":"fada918b","zh-hant/s2":"d2211fd4"}/*/i18nv*/;
+<script>window.TWG_CONFIG={"supabaseUrl": "https://tetvfgpdxwkmfdxxadxa.supabase.co", "supabaseAnonKey": "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq", "aiEndpoint": false, "providers": [], "stripe": {"link": "https://buy.stripe.com/00w4gzez66H7g500aO8AE03"}, "iap": {"appleKey": "", "googleKey": "", "productId": "twg_full_12m", "days": 365}}</script><script>(function(){var XL=["de","nl","el","ja","ko","zh-hant","pt","tr","th"];window.TWG_XL=XL;window.TWG_I18NV=/*i18nv*/{"de":"51325ec9","de/l1":"a817015d","de/l2":"ec405112","de/s1":"ab16f37b","de/s2":"9ff635eb","el":"c0a3d53b","el/l1":"4e36ef9e","el/l2":"2d8e59ae","el/s1":"47162270","el/s2":"effaae24","ja":"94d96099","ja/l1":"d5d99350","ja/l2":"5c7fe5e6","ja/s1":"d6ef5098","ja/s2":"cd441be1","ko":"4f07e7c2","ko/l1":"38900fad","ko/l2":"7e59586b","ko/s1":"3b4fc9e0","ko/s2":"6ffd30ec","nl":"60a33c2e","nl/l1":"1e42b888","nl/l2":"bf9dbdf0","nl/s1":"4a0898d7","nl/s2":"0994c897","pt":"b5569393","pt/l1":"ef7dcaf4","pt/l2":"9283ac62","pt/s1":"fd055048","pt/s2":"65a67904","th":"b3ad4d2e","th/l1":"001de332","th/l2":"25016051","th/s1":"be244c1e","th/s2":"9e5233f0","tr":"a2002ad5","tr/l1":"30059203","tr/l2":"c4cd6cd8","tr/s1":"86b80fae","tr/s2":"d25061a0","zh-hant":"66fc6252","zh-hant/l1":"1dede7c6","zh-hant/l2":"c1177de5","zh-hant/s1":"fada918b","zh-hant/s2":"d2211fd4"}/*/i18nv*/;
 function det(n){n=String(n||"").toLowerCase().replace("_","-");if(/^es-(ar|uy|py)/.test(n))return"es-ar";if(/^zh-(tw|hk|mo|hant)/.test(n))return"zh-hant";if(n.indexOf("zh")===0)return"en";var b=n.split("-")[0];return["es","it","fr","de","nl","el","ja","ko","pt","tr","th"].indexOf(b)>=0?b:"en";}
 window.TWG_DETECT=det;var l="";try{l=localStorage.getItem("wset3-lang")||"";}catch(e){}
 try{var m=/[?&#]lang=(es-ar|es|it|fr|en|de|nl|el|ja|ko|zh-hant|zh-tw|zh-hk|pt-br|pt|tr|th)\b/i.exec(location.href);if(m){l=m[1].toLowerCase();l=l==="zh-tw"||l==="zh-hk"?"zh-hant":l==="pt-br"?"pt":l;localStorage.setItem("wset3-lang",l);}}catch(e){}
@@ -1621,9 +1621,14 @@ function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
 /* Spanish (es) and Argentine Spanish (es-ar): the app reads the English text and i18n/es.js translates it on display */
 const TES={m:{},on:false,
   sync(){ if(XLN.includes(lang)){ const N=window.TWG_I18N&&window.TWG_I18N[lang]; this.on=true; this.m=N||{}; return; } const D=window.TWG_ES; this.on=!!D&&(lang==="es"||lang==="es-ar"); this.m=D?(lang==="es-ar"?Object.assign({},D.es,D.ar||{}):D.es):{}; const X=window.TWG_ESX; if(X&&this.on) this.m=Object.assign({},this.m,X.es,lang==="es-ar"?X.ar:{}); },
-  tr(x){ if(!this.on||typeof x!=="string"||!x) return x; const v=this.m[x]; if(v!=null) return v; const k=x.trim(); return k!==x&&this.m[k]!=null?this.m[k]:x; },
+  tr(x){ if(!this.on||typeof x!=="string"||!x) return x; const v=this.m[x]; if(v!=null) return v; const k=x.trim(); if(k!==x&&this.m[k]!=null) return this.m[k];
+    /* new languages: "Syrah / Shiraz"-style labels from the translations of their parts, only when one exists */
+    if(k.includes(" / ")&&XLN.includes(lang)){ const p=k.split(" / "), q=p.map(z=>this.m[z]); if(q.some(z=>z!=null)) return p.map((z,i)=>q[i]!=null?q[i]:z).join(" / "); }
+    return x; },
   /* on screen: lowercase one-word strings may be ids used in attributes (red, open, mcq…): leave them alone */
-  trE(x){ return typeof x==="string"&&/^[a-z][a-z0-9_-]{0,15}$/.test(x)?x:this.tr(x); } };
+  trE(x){ return typeof x==="string"&&/^[a-z][a-z0-9_-]{0,15}$/.test(x)?x:this.tr(x); },
+  /* answer options are real text even when they are one lowercase word ("sweet", "unoaked"): new languages translate them when the map has them */
+  trO(x){ return typeof x==="string"&&XLN.includes(lang)&&this.on&&this.m[x]!=null?this.m[x]:x; } };
 { const ES_OWN={}, AR_OWN={};
   const mk=own=>new Proxy(own,{get(o,k){ if(typeof k!=="string"||k in o) return o[k];
       const e=T.en[k]; if(typeof e!=="string") return e!=null?e:ES_OWN[k];
@@ -1704,6 +1709,9 @@ const activeErrs=()=>Object.keys(P.e).filter(id=>!P.e[id].r&&BY[id]);
 /* ---------- helpers ---------- */
 function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 const esc=s=>String(TES.trE(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const escO=s=>esc(TES.trO(s));   /* answer option text */
+/* map labels of the new languages go through the translation map (before any upper-casing); missing translation = unchanged */
+function mTr(s){ return typeof s==="string"&&XLN.includes(lang)&&TES.on?TES.tr(s):s; }
 const chName=c=>CH[c]?TES.tr(CH[c][LC()]):(c==="cmp"?t("cmp"):c);
 const fmtD=ts=>new Date(ts).toLocaleDateString(LOC(),{day:"2-digit",month:"short",year:"numeric"});
 const fmtDT=ts=>new Date(ts).toLocaleString(LOC(),{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"});
@@ -1800,7 +1808,7 @@ function renderCorrect(){
   const tagOf=k=>`<span class="tag ${k==="always"?"okall":k==="fixed"?"fixed":"active"}">${t(k==="always"?"okAlways":k==="fixed"?"okFixed":"okShaky")}</span>`;
   const items=list.map(id=>{const b=BY[id],q=P.q[id],k=okKind(id);
     return `<details class="err okq"><summary><span class="emeta">${tagOf(k)}<span>${esc(chName(b.c))}</span><span class="mono">✓ ${q[1]}/${q[0]}</span><span>${t("last")} ${fmtD(q[2])}</span>${CHATS[id]&&CHATS[id].length?`<span class="tag chat-t">${t("chatTag")}</span>`:""}</span><span style="font-weight:500">${esc(b.q[L()])}</span></summary>
-    <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${k!=="always"&&P.e[id].w>0?`<dt>${t("okOnceWrong")}</dt><dd class="b">${esc(optText(b,P.e[id].w))}</dd>`:""}</dl>
+    <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${escO(optText(b,0))}</dd>${k!=="always"&&P.e[id].w>0?`<dt>${t("okOnceWrong")}</dt><dd class="b">${escO(optText(b,P.e[id].w))}</dd>`:""}</dl>
     <div class="expl"><span>${esc(ex(b))}</span></div>${chatBox(id)}</div></details>`}).join("");
   return `<section class="view">${revSwitch()}<div class="card"><h2>${t("revRightT")}</h2><p class="muted" style="max-width:68ch;font-size:.9rem">${t("okIntro")}</p>
    <div class="row"><button class="btn primary" id="ok-quiz" ${list.length?"":"disabled"}>${t("okRedo")} (${list.length})</button></div></div>
@@ -1817,7 +1825,7 @@ function renderErrors(){
   const chOpts=Object.keys(CH).filter(c=>ids.some(id=>BY[id].c===c)).map(c=>`<option value="${c}" ${c===errCh?"selected":""}>${esc(chName(c))}</option>`).join("");
   const items=list.map(id=>{const b=BY[id],e=P.e[id];
     return `<details class="err ${e.r?"off":"on"}"><summary><span class="emeta"><span class="tag ${e.r?"fixed":"active"}">${e.r?t("fFixed"):t("fActive")}</span><span>${esc(chName(b.c))}</span><span class="mono">× ${e.n} ${t("times")}</span><span>${t("last")} ${fmtD(e.l)}</span>${e.r&&e.rt?`<span>${t("fixedOn")} ${fmtD(e.rt)}</span>`:""}${CHATS[id]&&CHATS[id].length?`<span class="tag chat-t">${t("chatTag")}</span>`:""}</span><span style="font-weight:500">${esc(b.q[L()])}</span></summary>
-    <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${e.w>0?`<dt>${t("yourAns")}</dt><dd class="b">${esc(optText(b,e.w))}</dd>`:""}</dl>
+    <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${escO(optText(b,0))}</dd>${e.w>0?`<dt>${t("yourAns")}</dt><dd class="b">${escO(optText(b,e.w))}</dd>`:""}</dl>
     <div class="expl"><span>${esc(ex(b))}</span><span class="pref"> · ${t("first")} ${fmtD(e.f)}</span></div>${chatBox(id)}</div></details>`}).join("");
   return `<section class="view">${revSwitch()}<div class="card"><h2>${t("errors")}</h2><p class="muted" style="max-width:68ch;font-size:.9rem">${t("errIntro")}</p>
    <div class="row"><button class="btn primary" id="rev-active" ${act?"":"disabled"}>${t("reviewActive")} (${act})</button><button class="btn" id="rev-all" ${ids.length?"":"disabled"}>${t("reviewAll")} (${ids.length})</button></div></div>
@@ -2565,7 +2573,7 @@ function mInfoCard(i,kind){
   const lab=kind==="ok"?t("mRight"):kind==="bad"?t("m2ItWas"):t("mc_"+x[0]);
   const tap=g.fb&&!g.fb.ok&&g.fb.tap>=0&&g.fb.tap!==i?`<p class="mtapped">${t("m3YouTapped")} <b>${esc(mName(m.it[g.fb.tap][1]))}</b></p>`:"";
   return `<div class="minfo ${kind==="ok"?"good":kind==="bad"?"badc":""}"><span class="label">${lab}</span><div class="minfo-n">${esc(mName(x[1]))} <button class="mspk" data-say="${i}" aria-label="${esc(t("m2Say"))}">🔊</button></div><div class="row" style="gap:6px"><span class="tag t-${x[0]}">${t("mc_"+x[0])}</span>${x[4]===2?`<span class="tag">${t("m3Expert")}</span>`:""}${x[6]?`<span class="tag">${t("m3Umb")}</span>`:""}</div>${tap}
-  ${F.length?F.map(b=>`<p class="mfact"><span>${esc(b.q[l])}</span><b>→ ${esc(b.o[0][l])}</b></p>`).join(""):""}</div>`;
+  ${F.length?F.map(b=>`<p class="mfact"><span>${esc(b.q[l])}</span><b>→ ${escO(b.o[0][l])}</b></p>`).join(""):""}</div>`;
 }
 function mBottomHTML(g){
   const m=MBY[g.id];
@@ -3112,7 +3120,7 @@ function renderMock(){
   const last=MK.si===MK.secs.length-1, endBtn=`<button class="btn primary" id="mk-end">${last?t("mkEndAll"):t("mkEndSec")}</button>`;
   if(k==="mcq"){
     const q=MK.mcq, it=q.items[q.i], b=BY[it.id];
-    const ch=it.ord.map((oi,j)=>`<button class="choice ${it.pick===oi?"sel":""}" data-mko="${oi}"><span class="k">${j+1}</span><span>${esc(b.o[oi][l])}</span></button>`).join("");
+    const ch=it.ord.map((oi,j)=>`<button class="choice ${it.pick===oi?"sel":""}" data-mko="${oi}"><span class="k">${j+1}</span><span>${escO(b.o[oi][l])}</span></button>`).join("");
     const done=q.items.filter(x=>x.pick!==null).length;
     body=`<div class="prog"><i style="width:${done/q.items.length*100}%"></i></div>
     ${peek(GP[(q.i+QOFF)%GP.length],`<div class="card" style="display:flex;flex-direction:column;gap:16px"><span class="label">${t("q")} <span class="mono">${q.i+1}/${q.items.length}</span></span><p class="qtext" style="margin:0">${esc(b.q[l])}</p><div class="choices">${ch}</div>
@@ -3200,7 +3208,7 @@ function renderMockRes(){
   const rows=MK.secs.map(k=>k==="mcq"?row(k,R.mcq):k==="open"?row(k,R.openT&&R.openT.m?R.openT:null,R.openT&&R.openT.na?` <span class="muted small">(${R.openT.na} ${t("mkNoAI")})</span>`:""):k==="sat"?row(k,R.sat):row(k,R.map)).join("");
   let det="";
   if(R.mcq){ const wrong=MK.mcq.items.filter(x=>x.pick!==0);
-    det+=`<details class="model"><summary>${t("mkS_mcq")} · ${t("wrong")}: ${wrong.length}</summary><div class="mb"><div class="elist">${wrong.map(x=>{const b=BY[x.id];return `<details class="err on"><summary><span style="font-weight:500">${esc(b.q[l])}</span></summary><div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${x.pick===null?"":`<dt>${t("yourAns")}</dt><dd class="b">${esc(optText(b,x.pick))}</dd>`}</dl><div class="expl"><span>${esc(ex(b))}</span><span class="pref">${esc(chName(b.c))}</span></div></div></details>`}).join("")}</div></div></details>`; }
+    det+=`<details class="model"><summary>${t("mkS_mcq")} · ${t("wrong")}: ${wrong.length}</summary><div class="mb"><div class="elist">${wrong.map(x=>{const b=BY[x.id];return `<details class="err on"><summary><span style="font-weight:500">${esc(b.q[l])}</span></summary><div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${escO(optText(b,0))}</dd>${x.pick===null?"":`<dt>${t("yourAns")}</dt><dd class="b">${escO(optText(b,x.pick))}</dd>`}</dl><div class="expl"><span>${esc(ex(b))}</span><span class="pref">${esc(chName(b.c))}</span></div></div></details>`}).join("")}</div></div></details>`; }
   if(R.open) det+=`<details class="model"><summary>${t("mkS_open")}</summary><div class="mb">${R.open.map(r=>{const o=OBY[r.id];return `<div class="gpart" style="margin-bottom:10px"><div class="row" style="justify-content:space-between"><b>${esc(o.q[l])}</b><span class="mono">${r.ai?`${r.s}/${r.m}`:t("mkNoAI")}</span></div>${r.g&&r.g.feedback?`<p style="margin:0">${esc(r.g.feedback)}</p>`:""}<button class="btn ghost" data-mkoq="${o.id}">${t("mkReview")}</button></div>`}).join("")}</div></details>`;
   if(R.sat) det+=`<div class="row"><button class="btn" data-mksj="${R.sat.ts}">${t("mkS_sat")} · ${t("mkReview")}</button></div>`;
   return `<section class="view"><div class="card ograde"><div class="cardhead"><span class="label">${t("mkResult")} · ${fmtDT(MK.ts)}</span>${goat(R.ok?"g12":"g04","lg")}</div>
@@ -3258,9 +3266,9 @@ function renderQ(){
   const it=quiz.items[quiz.i], b=BY[it.id], l=L(), answered=it.pick!==null, exam=quiz.mode==="exam";
   const choices=it.ord.map((oi,k)=>{let cls="";
     if(answered){ if(oi===0) cls="ok"; else if(oi===it.pick) cls="no" }
-    return `<button class="choice ${cls}" data-o="${oi}" ${answered?"disabled":""}><span class="k">${k+1}</span><span>${esc(b.o[oi][l])}</span></button>`}).join("");
+    return `<button class="choice ${cls}" data-o="${oi}" ${answered?"disabled":""}><span class="k">${k+1}</span><span>${escO(b.o[oi][l])}</span></button>`}).join("");
   const last=quiz.i===quiz.items.length-1;
-  const fb=answered?`<div class="expl fb ${it.pick===0?"ok":"no"}"><span class="verdict ${it.pick===0?"ok":"no"}">${it.pick===0?t("right"):t("wrong")}</span>${it.pick!==0?`<span><b>${t("correctIs")}</b> ${esc(b.o[0][l])}</span>`:""}<span>${esc(ex(b))}</span><span class="pref">${esc(chName(b.c))}</span></div>`:"";
+  const fb=answered?`<div class="expl fb ${it.pick===0?"ok":"no"}"><span class="verdict ${it.pick===0?"ok":"no"}">${it.pick===0?t("right"):t("wrong")}</span>${it.pick!==0?`<span><b>${t("correctIs")}</b> ${escO(b.o[0][l])}</span>`:""}<span>${esc(ex(b))}</span><span class="pref">${esc(chName(b.c))}</span></div>`:"";
   const mode=quiz.mode==="exam"?t("mExam"):quiz.mode==="errors"?t("mErrors"):t("mPractice");
   return `<section class="view"><div class="qhead"><span class="label">${mode} · ${t("q")} <span class="mono">${quiz.i+1}/${quiz.items.length}</span></span><button class="btn ghost" id="q-quit">${t("quit")}</button></div>
   <div class="prog"><i style="width:${(quiz.i+(answered?1:0))/quiz.items.length*100}%"></i></div>
@@ -3286,7 +3294,7 @@ function renderResult(){
   const exam=quiz.mode==="exam";
   const wrong=ans.filter(x=>x.pick!==0);
   const list=(exam?ans:wrong).map(x=>{const b=BY[x.id],ok=x.pick===0;return `<details class="err ${ok?"off":"on"}"><summary><span class="emeta"><span class="tag ${ok?"fixed":"active"}">${ok?t("right"):t("wrong")}</span><span>${esc(chName(b.c))}</span></span><span style="font-weight:500">${esc(b.q[L()])}</span></summary>
-  <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${esc(optText(b,0))}</dd>${ok?"":`<dt>${t("yourAns")}</dt><dd class="b">${esc(optText(b,x.pick))}</dd>`}</dl><div class="expl"><span>${esc(ex(b))}</span></div>${chatBox(b.id)}</div></details>`}).join("");
+  <div class="ebody"><dl class="ans"><dt>${t("goodAns")}</dt><dd class="g">${escO(optText(b,0))}</dd>${ok?"":`<dt>${t("yourAns")}</dt><dd class="b">${escO(optText(b,x.pick))}</dd>`}</dl><div class="expl"><span>${esc(ex(b))}</span></div>${chatBox(b.id)}</div></details>`}).join("");
   return `<section class="view"><div class="card" style="display:flex;flex-direction:column;gap:10px">
    <div class="cardhead"><span class="label">${t("score")}</span>${goat(p>=55?"g12":"g04","md")}</div><div class="row" style="align-items:baseline;gap:16px"><span class="result-score ${exam?(p>=55?"pass":"fail"):""}">${p} %</span><span class="mono muted">${c}/${n}</span>${exam?`<span class="tag ${p>=55?"fixed":"active"}">${p>=55?t("passed"):t("failed")} · ${t("passMark")}</span>`:""}</div>
    <div class="row"><button class="btn primary" id="r-again">${t("again")}</button>${wrong.length?`<button class="btn" id="r-err">${t("toErrors")}</button>`:""}<button class="btn ghost" id="r-back">${t("back")}</button></div></div>
@@ -3558,7 +3566,7 @@ function svRender(){ const G=GM; if(G.fin) return G.fin; const q=G.q, l=L();
   return `<section class="view gplay">${gTop(G,G.left/G.timer,`<div class="mthearts">${[0,1,2].map(i=>heartSvg(i<G.hearts)).join("")}</div>`)}
    <p class="mtkind">${esc(chName(q.b.c))} · <span id="gtime">${Math.ceil(G.left)}</span>s · <b>${G.score}</b> ✓</p>
    <h2 class="qtext">${esc(q.b.q[l])}</h2>
-   <div class="choices">${q.ord.map((o,i)=>`<button type="button" class="choice ${q.pick!=null?(o===0?"ok":o===q.pick?"no":""):""}" data-sv="${o}" ${q.pick!=null?"disabled":""}><span class="k">${i+1}</span><span>${esc(q.b.o[o][l])}</span></button>`).join("")}</div>
+   <div class="choices">${q.ord.map((o,i)=>`<button type="button" class="choice ${q.pick!=null?(o===0?"ok":o===q.pick?"no":""):""}" data-sv="${o}" ${q.pick!=null?"disabled":""}><span class="k">${i+1}</span><span>${escO(q.b.o[o][l])}</span></button>`).join("")}</div>
    ${q.pick!=null?`<div class="fbbar ${q.pick===0?"good":"bad"}"><b>${t(q.pick===0?"mtOk2":q.pick===-1?"svTime":"svNo")}</b><span>${esc((q.b.e||q.b.d)[l])}</span><button type="button" class="btn primary" data-sv-next>${t(G.hearts>0?"gNext":"gSee")}</button></div>`:""}
   </section>`; }
 function svAns(o){ const G=GM; if(!G||G.k!=="g_surv"||G.q.pick!=null) return; clearInterval(G.iv); G.q.pick=o; const ok=o===0;
@@ -3707,7 +3715,7 @@ function bbRender(){ const G=GM; if(G.fin) return G.fin; const q=G.q, l=L(), lvl
   return `<section class="view gplay bbplay">${gTop(G,lvl,`<div class="mthearts">${[0,1,2].map(i=>heartSvg(i<G.lives)).join("")}</div>`)}
    <p class="mtkind">${esc(chName(q.b.c))} · <b>${G.score}</b> 🫧</p><h2 class="qtext bbq">${esc(q.b.q[l])}</h2>
    <div class="bbflute" id="bbst"><div class="bbfoam"></div><div class="bbwine" style="height:${8+lvl*70}%"></div><div class="bbrise">${Array.from({length:14},(_,i)=>`<i style="left:${5+i*6.7}%;animation-delay:${(i*.37)%3}s;animation-duration:${2.4+(i%4)*.6}s"></i>`).join("")}</div>
-   ${q.bs.map((x,i)=>`<button type="button" class="bbb ${q.pick!=null?(x.o===0?"ok":x.o===q.pick?"no":"gone"):""}" data-bb="${x.o}" id="bbb${i}" style="left:${x.lane?50:3}%;transform:translate(${x.tx||0}px,${x.ty==null?400:x.ty}px);opacity:${x.ty==null?0:1}"><span>${esc(q.b.o[x.o][l])}</span></button>`).join("")}</div>
+   ${q.bs.map((x,i)=>`<button type="button" class="bbb ${q.pick!=null?(x.o===0?"ok":x.o===q.pick?"no":"gone"):""}" data-bb="${x.o}" id="bbb${i}" style="left:${x.lane?50:3}%;transform:translate(${x.tx||0}px,${x.ty==null?400:x.ty}px);opacity:${x.ty==null?0:1}"><span>${escO(q.b.o[x.o][l])}</span></button>`).join("")}</div>
    ${q.pick!=null?`<div class="fbbar ${q.pick===0?"good":"bad"}"><b>${t(q.pick===0?"mtOk2":q.pick===-1?"bbTop":"svNo")}</b><span>${esc((q.b.e||q.b.d)[l])}</span><button type="button" class="btn primary" data-bb-next>${t(G.lives>0?"gNext":"gSee")}</button></div>`:""}
   </section>`; }
 function bbLoop(){ const G=GM; if(!G||G.k!=="g_bub"||G.fin||G.q.pick!=null) return; const now=performance.now(), dt=Math.min(.05,(now-(G.last||now))/1000); G.last=now;
@@ -3721,7 +3729,7 @@ function bbAns(o){ const G=GM; if(!G||G.k!=="g_bub"||G.q.pick!=null) return; can
 function bbGo(){ const G=GM; G.last=0; G.raf=requestAnimationFrame(()=>{ G.last=performance.now(); bbLoop(); }); }
 document.addEventListener("pointerdown",e=>{ const G=GM; if(!G||G.k!=="g_bub"||G.fin) return; const b=e.target.closest("[data-bb]"); if(b&&G.q.pick==null){ e.preventDefault(); bbAns(+b.dataset.bb); } });
 document.addEventListener("click",e=>{ const G=GM; if(!G||G.k!=="g_bub"||G.fin) return; if(!e.target.closest("[data-bb-next]")) return;
-  if(G.lives<=0){ const xp=G.score*2+5, nb=gAward("g_bub",G.score,xp); G.fin=gEnd(G,G.score,t("bbUnit"),xp,nb,G.miss.length?`<div class="gsec2"><h4>${t("gReview")}</h4>${G.miss.slice(0,5).map(b=>`<p><b>${esc(b.q[L()])}</b><br>✓ ${esc(b.o[0][L()])}</p>`).join("")}</div>`:""); render(); return; }
+  if(G.lives<=0){ const xp=G.score*2+5, nb=gAward("g_bub",G.score,xp); G.fin=gEnd(G,G.score,t("bbUnit"),xp,nb,G.miss.length?`<div class="gsec2"><h4>${t("gReview")}</h4>${G.miss.slice(0,5).map(b=>`<p><b>${esc(b.q[L()])}</b><br>✓ ${escO(b.o[0][L()])}</p>`).join("")}</div>`:""); render(); return; }
   G.q=bbPick(G); render(); window.scrollTo(0,0); bbGo(); });
 
 /* ===== game 7: Il Cantiniere (decisions → wine) ===== */
@@ -6984,7 +6992,7 @@ function xMapView(mid,hl,B){ const m=MBY[mid], G=MGEO[mid]; if(!m||!G) return ""
     return x[0]==="c"&&!on?`<rect x="${x[2]-2.2*k}" y="${x[3]-2.2*k}" width="${4.4*k}" height="${4.4*k}" fill="#2a1b20" stroke="#fff" stroke-width="${.9*k}"/>`:`<circle cx="${x[2]}" cy="${x[3]}" r="${(on?3.8:2.6)*k}" fill="${on?HLPAL[q%HLPAL.length]:"#5f8a3e"}" stroke="#fff" stroke-width="${1*k}"/>`; }).join("");
   /* label placement with collision avoidance (screen units) */
   const placed=[], out=[]; const fits=(r)=>r[0]>=2&&r[1]>=2&&r[0]+r[2]<=B.w-2&&r[1]+r[3]<=B.h-2&&!placed.some(p=>!(r[0]+r[2]<p[0]||p[0]+p[2]<r[0]||r[1]+r[3]<p[1]||p[1]+p[3]<r[1]));
-  const nm_=x=>(x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,"");
+  const nm_=x=>mTr((x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,""));
   const cand=[];
   m.it.forEach((x,i)=>{ const q=H.get(i); if(q!==undefined) cand.push({i,x,pr:0,q});
     else if(x[0]==="c"&&x[4]===1) cand.push({i,x,pr:hl.length?2:3});
@@ -7394,7 +7402,7 @@ function fcFront(c){ const l=L(), P=`<span class="fcpic">${fcPic(c)}</span>`;
   if(c.k==="n") return P+`<span class="fck">${esc(tx(c.sec))}</span><p class="fcq">${esc(c.x[1][l])}</p><p class="fcsub">?</p>`;
   return P+`<span class="fck">${esc(t("fcG"))}</span><p class="fcterm"><i class="fcdot ${c.g.c==="w"?"w":"r"}"></i>${esc(c.g.k)}</p>${c.g.syn&&c.g.syn.length?`<p class="fcsub">${esc(c.g.syn.join(" · "))}</p>`:""}`; }
 function fcBackS(c){ const l=L();
-  if(c.k==="q"){ const e=c.b.e?c.b.e[l]:(c.b.d?c.b.d[l]:""); return `<p class="fcans">${esc(c.b.o[0][l])}</p>${e?`<p class="fcexp">${typeof kwMark==="function"?kwMark(e):esc(e)}</p>`:""}`; }
+  if(c.k==="q"){ const e=c.b.e?c.b.e[l]:(c.b.d?c.b.d[l]:""); return `<p class="fcans">${escO(c.b.o[0][l])}</p>${e?`<p class="fcexp">${typeof kwMark==="function"?kwMark(e):esc(e)}</p>`:""}`; }
   if(c.k==="d") return `${l!==1?`<p class="fcans">${esc(c.d[1+l])}</p>`:`<p class="fcans">${esc(c.d[2])}</p>`}<p class="fcexp">${esc(c.d[4+l])}</p>`;
   if(c.k==="n") return `<p class="fcbig">${esc(c.x[0][l])}</p>${c.x[2]?`<p class="fcexp">${esc(c.x[2][l])}</p>`:""}`;
   const g=c.g; return `<p class="fcans">${esc(tx(g.sig||g.tr||""))}</p>${g.tr?`<p class="fcexp"><b>${esc(tx(g.tr))}</b></p>`:""}${g.cl?`<p class="fcexp">${esc(tx(g.cl))}</p>`:""}${g.reg&&g.reg.length?`<p class="fcexp fcreg">${g.reg.slice(0,6).map(r=>`<span>${esc(typeof mName==="function"?mName(r):r)}</span>`).join("")}</p>`:""}`; }
@@ -8073,12 +8081,12 @@ function gqSvg(mid,hl,mode){ const m=MBY[mid], G=MGEO[mid]; if(!m||!G) return {s
   if(mode===2) (GX2.p||[]).slice(0,4).forEach(pk=>{ o+=`<path d="M${pk[2]} ${pk[3]-R*2.2}L${pk[2]+R*1.8} ${pk[3]+R}H${pk[2]-R*1.8}Z" fill="#5a3a22" stroke="#fff" stroke-width="${W/900}"/>`; });
   /* labels */
   const placed=[], lab=[]; const fits=r=>r[0]>=4&&r[1]>=4&&r[0]+r[2]<=W-4&&r[1]+r[3]<=H-4&&!placed.some(p=>r[0]<p[0]+p[2]&&r[0]+r[2]>p[0]&&r[1]<p[1]+p[3]&&r[1]+r[3]>p[1]);
-  const nm=x=>(x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,"");
+  const nm=x=>mTr((x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,""));
   const cand=[]; m.it.forEach((x,i)=>{ const on=Hs.has(i);
     if(on) cand.push([0,i]); else if(x[0]==="g") cand.push([mode===2?1:4,i]); else if(x[0]==="c"&&(x[4]===1||(mode===1&&x[4]===2))) cand.push([mode===1?(x[4]===1?1.8:3.5):2,i]); else if(mode===2&&x[0]==="r") cand.push([2.5,i]); else if(x[0]==="w"&&(mode===1||(x[4]===1&&mode===0&&x[5]==="z"&&!x[6]))) cand.push([mode===0?2.6:(x[4]===1?2:3),i]); else if(x[0]==="x"&&x[5]==="p") cand.push([5,i]); });
   if(mode===2){ rng.forEach((r,j)=>cand.push([1.5,"r"+j])); (GX2.p||[]).slice(0,4).forEach((p,j)=>cand.push([1.2,"p"+j])); }
   cand.sort((a,b)=>a[0]-b[0]);
-  cand.forEach(([pr,i])=>{ if(typeof i==="string"){ const isR=i[0]==="r", d=isR?rng[+i.slice(1)]:GX2.p[+i.slice(1)]; const txt=isR?d[1][li3]:"▲ "+d[0][li3]+" "+d[1].toLocaleString()+" m", f=fs*(isR?(d[0]==="m"?1.05:.9):.8), tw=txt.length*f*.55, th=f*1.15, sx=d[2], sy=isR?d[3]:d[3]+f*1.1;
+  cand.forEach(([pr,i])=>{ if(typeof i==="string"){ const isR=i[0]==="r", d=isR?rng[+i.slice(1)]:GX2.p[+i.slice(1)]; const txt=isR?mTr(d[1][li3]):"▲ "+mTr(d[0][li3])+" "+d[1].toLocaleString()+" m", f=fs*(isR?(d[0]==="m"?1.05:.9):.8), tw=txt.length*f*.55, th=f*1.15, sx=d[2], sy=isR?d[3]:d[3]+f*1.1;
       const r=[[sx-tw/2,sy-th/2],[sx-tw/2,sy-th*1.6],[sx-tw/2,sy+th*.6]].map(p=>[p[0],p[1],tw,th]).find(fits); if(!r) return; placed.push(r);
       lab.push(`<text x="${r[0]}" y="${r[1]+th*.82}" font-size="${f}" font-family="DM Sans,system-ui,sans-serif" font-weight="800" font-style="italic" letter-spacing="${isR?f*.08:0}" fill="${isR?(d[0]==="m"?"#5a3a22":"#2f5a1e"):"#3a2414"}" stroke="rgba(255,255,255,.8)" stroke-width="${f*.26}" paint-order="stroke" stroke-linejoin="round">${esc(isR&&d[0]==="m"?txt.toUpperCase():txt)}</text>`); return; }
     const x=m.it[i], t=nm(x), sx=x[2], sy=x[3];
@@ -8099,8 +8107,8 @@ function gqSvg(mid,hl,mode){ const m=MBY[mid], G=MGEO[mid]; if(!m||!G) return {s
     const hc=[...new Set(hl.map(i=>gCat(mid,i)).filter(Boolean))].map(c=>law.opts.find(op=>op[0]===c)).filter(Boolean);
     if(hc.length) leg+=`<div class="gqdef">${hc.map(op=>`<p><b style="color:${catCol(op[0])}">${esc(op[1][l])}</b> — ${esc(op[2]?op[2][l]:"")}</p>`).join("")}</div>`; }
   if(mode===2){ const li=lang==="fr"?2:LC()==="en"?3:1; const ss=[...usedSoil.keys()];
-    const mts=rng.filter(r=>r[0]==="m").map(r=>r[1][li3]).concat(m.it.filter(x=>x[0]==="g").map(nm)).filter((v,k,a)=>a.indexOf(v)===k).slice(0,5);
-    const pls=rng.filter(r=>r[0]!=="m").map(r=>r[1][li3]).filter(v=>!mts.includes(v)).slice(0,3), riv=m.it.filter(x=>x[0]==="r").map(nm).slice(0,4);
+    const mts=rng.filter(r=>r[0]==="m").map(r=>mTr(r[1][li3])).concat(m.it.filter(x=>x[0]==="g").map(nm)).filter((v,k,a)=>a.indexOf(v)===k).slice(0,5);
+    const pls=rng.filter(r=>r[0]!=="m").map(r=>mTr(r[1][li3])).filter(v=>!mts.includes(v)).slice(0,3), riv=m.it.filter(x=>x[0]==="r").map(nm).slice(0,4);
     leg=(mts.length?`<span class="gqk2"><i style="background:#8a5a32"></i><b>${esc(t("gqMts"))}${lang==="fr"?" :":":"}</b> ${esc(mts.join(", "))}</span>`:"")+(riv.length?`<span class="gqk2"><i style="background:#3f7fae"></i><b>${esc(t("gqRiv"))}${lang==="fr"?" :":":"}</b> ${esc(riv.join(", "))}</span>`:"")+(pls.length?`<span class="gqk2"><i style="background:#8fbf6a"></i><b>${esc(t("gqPl"))}${lang==="fr"?" :":":"}</b> ${esc(pls.join(", "))}</span>`:"")
       +(ss.length?`<span class="gqk2"><i style="background:${SOILS[ss[0]][0]}"></i><b>${esc(t("gqSo"))}${lang==="fr"?" :":":"}</b> ${esc(ss.map(k=>SOILS[k][li].toLowerCase()).join(", "))}</span>`:"")+`<span class="gqk gqnote">⛰ ${esc(t("gqRelNote"))}</span>`;
     G2INFO[mid]={mts,pls,riv,ss:ss.map(k=>SOILS[k][li].toLowerCase())}; }
@@ -8332,7 +8340,7 @@ try{ TABG.atlas="wine"; SUBV.atlas="wine"; SUBT.atlas="tr_atlas"; }catch(e){}
 const APAL=["#e5b937","#d9577f","#ef9a3c","#5d8c58","#45a9bd","#a7bf45","#b9526a","#7563b0","#d47f3a","#3a87b0","#8fb07a","#c98bb0","#c7a25a","#5aa58f"];
 const pathBox=d=>{ const n=(d.match(/-?\d+(\.\d+)?/g)||[]).map(Number); let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9; for(let i=0;i+1<n.length;i+=2){ const x=n[i],y=n[i+1]; if(x<x0)x0=x; if(x>x1)x1=x; if(y<y0)y0=y; if(y>y1)y1=y; } return x1<x0?null:[x0,y0,x1-x0,y1-y0]; };
 const itemBox=x=>x[5]==="z"&&x[7]?pathBox(x[7]):[x[2]-20,x[3]-20,40,40];
-const atName=x=>(x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,"");
+const atName=x=>mTr((x[0]==="c"?(typeof mLab==="function"?mLab(x[1]):x[1]):mName(x[1])).replace(/\s*\(grand cru\)$/i,""));
 function atChild(mid,k){ return (MTREE[mid]||[]).find(c=>MBY[c]&&(MBY[c].t.some(t=>t.replace(/\s*\(.*\)$/,"")===mName(k))||MBY[c].t[2]===k||(typeof GQREG!=="undefined"&&(GQREG[c]||[])[0]===k))); }
 /* opts: hl:[i], vb:[x,y,w,h], sel:i, inter:true, relief:true */
 function atlasSvg(mid,o){ o=o||{}; const m=MBY[mid], G=MGEO[mid]; if(!m||!G) return ""; const u="at"+(++GQUID);
