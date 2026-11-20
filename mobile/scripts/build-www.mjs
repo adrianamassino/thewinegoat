@@ -69,6 +69,9 @@ n += patch("app/index.html", [
   ["`audio/${", "`" + REMOTE + "audio/${"],                  // audio dei film
   ["RedirectTo:location.origin+location.pathname", `RedirectTo:"${REMOTE}"`], // email di conferma e accesso
   ["redirectTo:location.origin+location.pathname", `redirectTo:"${REMOTE}"`], // email di recupero password
+  // l'accesso con Google o Apple dentro le app richiede un'integrazione nativa (Google lo blocca nelle
+  // finestre web incorporate): finché non c'è, nelle app restano email e password / codice via email
+  ['const on=["google","apple"].filter(p=>j.external[p]);', "const on=[];"],
   // dentro le app la pagina non deve mai scorrere di lato (una decorazione sporge di 2 px)
   ["<head>", '<head><meta name="twg-native" content="1"><style>html:root{overflow-x:hidden;overflow-x:clip}</style>'],
 ]);
