@@ -4,7 +4,7 @@
    and sends the visitor here with #go=signup. After sign-up / sign-in this file shows: score (x/20) and %, a level
    reading, 3–5 recommendations from the weakest topics (links to the matching level of the app), a review of every
    answer (correct option + explanation: shown only here, never on the home) and, for wine and spirits only, an estimated
-   preparation time for a target grade (Pass / Merit / Distinction) at 1 / 2 / 3 hours a day, plus a button to the app's
+   preparation time for a target grade (Pass / Merit / Distinction) at 1 / 2 / 3 hours a day (app only, or a course + the app), plus a button to the app's
    existing 50-question mock exam (Level 2 / Spirits 2). The result is also saved in the account (table user_docs,
    doc_id "homequiz/last", the same per-user document store as the progress, no schema change); if that fails it simply
    stays on the device. #go=hqresult shows the last result again. Texts: it / fr / en / es / es-ar here; the map-based
@@ -13,7 +13,7 @@
   "use strict";
   const KEY = "twg-hq-result", DOC = "homequiz/last";
   const D = {
-    it: { rcRv: "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione.", grK: "Voto obiettivo:", grNP: "Pass: il tempo di studio consigliato per il livello, adattato al tuo punteggio.", grNM: "Il Merit richiede conoscenze dettagliate e sicure su tutto il programma: metti in conto più esercizio e ripassi regolari.", grND: "La Distinction richiede una memoria precisa e pronta per l'esame: prevedi domande di allenamento ogni giorno, esami simulati in condizioni d'esame e ripasso attivo di ogni capitolo.", grL1: "Questo livello si supera o non si supera, senza voti.", tmB: "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), adattato al tuo punteggio.", rcQ2: "{g}: {c}/{n} giuste. Risposte corrette e spiegazioni sono in «Rivedi le tue risposte», qui sotto.", rvK: "Rivedi le tue risposte", rvYou: "La tua risposta:", rvOk: "Risposta corretta:", rvErr: "Al momento non è stato possibile caricare le domande.", kick: "Il risultato del tuo quiz", thWine: "Vino", thBeer: "Birra", thSpirits: "Distillati", thSake: "Sake", thMix: "Mix",
+    it: { tmB2: "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), con un ampio margine di sicurezza, adattato al tuo punteggio. Meglio abbondare ed essere pronti.", tmBs2: "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), con un ampio margine di sicurezza e il 30% in più perché studi senza insegnante, adattato al tuo punteggio.", l3X: "Il Livello 3 aggiunge una degustazione alla cieca e domande a risposta aperta scritta, molto più difficili delle crocette: il tempo in più è già incluso.", bkK: "Come dividere il tempo:", bkM: "Domande a scelta multipla", bkW: "Risposte aperte scritte", bkT: "Degustazione", rcOpen: "Risposte scritte: completa TUTTE le domande a risposta aperta dell'app e rielabora ciascuna finché non è almeno sufficiente, idealmente eccellente.", oCnt: "{x} domande aperte su {n} a livello sufficiente", oGo: "Apri le domande a risposta aperta", mdK: "Come studierai?", mdA: "Solo con l'app (in autonomia)", mdC: "Con un corso in aula o online + l'app", mdP: "Scegli come studierai per vedere la stima.", mdNC: "Questo è il tuo studio con l'app (studio personale e ripasso). Le ore guidate del corso (circa {g} h) si aggiungono, secondo il calendario del corso.", mdNS: "Studiando da solo/a: aggiungi esercizi regolari di degustazione e ricorda che l'esame va comunque prenotato presso un ente formativo autorizzato.", rcRv: "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione.", grK: "Voto obiettivo:", grNP: "Pass: il tempo di studio consigliato per il livello, adattato al tuo punteggio.", grNM: "Il Merit richiede conoscenze dettagliate e sicure su tutto il programma: metti in conto più esercizio e ripassi regolari.", grND: "La Distinction richiede una memoria precisa e pronta per l'esame: prevedi domande di allenamento ogni giorno, esami simulati in condizioni d'esame e ripasso attivo di ogni capitolo.", grL1: "Questo livello si supera o non si supera, senza voti.", rcQ2: "{g}: {c}/{n} giuste. Risposte corrette e spiegazioni sono in «Rivedi le tue risposte», qui sotto.", rvK: "Rivedi le tue risposte", rvYou: "La tua risposta:", rvOk: "Risposta corretta:", rvErr: "Al momento non è stato possibile caricare le domande.", kick: "Il risultato del tuo quiz", thWine: "Vino", thBeer: "Birra", thSpirits: "Distillati", thSake: "Sake", thMix: "Mix",
       sc: "{n} risposte giuste su {t}", lvK: "Il tuo livello", lvW: "Vino Livello {n}", lvS: "Distillati Livello {n}",
       rA: "Sei all'inizio: comincia da {L1}, le basi.", rB: "Hai buone basi: puoi iniziare {L2}.",
       rC: "Sei vicino al livello d'esame: rinforza i tuoi punti deboli in {L2}.", rD: "Ottimo: sembri pronto per l'esame di {L2} e puoi iniziare {L3}.",
@@ -34,7 +34,7 @@
       s_brandy: "Cognac e distillati di frutta", s_cane: "Rum e Tequila", s_white: "Vodka, gin e liquori", s_cocktails: "Cocktail",
       b_ingredients: "Ingredienti della birra", b_brewing: "Produzione della birra", b_styles: "Stili di birra", b_service: "Servizio e degustazione della birra",
       k_ingredients: "Riso, koji e acqua", k_brewing: "Produzione del sake", k_styles: "Stili e categorie di sake", k_service: "Servizio del sake" },
-    fr: { rcRv: "Lisez toutes les explications dans « Revoir vos réponses », ci-dessous, même pour les bonnes réponses : chacune est une petite leçon.", grK: "Mention visée :", grNP: "Pass : le temps d'étude recommandé pour le niveau, ajusté à votre score.", grNM: "Le Merit demande des connaissances détaillées et sûres sur tout le programme : prévoyez plus d'entraînement et des révisions régulières.", grND: "La Distinction exige une mémorisation précise, prête pour l'examen : prévoyez des questions d'entraînement chaque jour, des examens blancs en conditions réelles et une révision active de chaque chapitre.", grL1: "Ce niveau se réussit ou non, sans mention.", tmB: "Point de départ : le temps d'étude recommandé pour le niveau ({r} h), ajusté à votre score.", rcQ2: "{g} : {c}/{n} bonnes réponses. Les bonnes réponses et les explications sont dans « Revoir vos réponses », ci-dessous.", rvK: "Revoir vos réponses", rvYou: "Votre réponse :", rvOk: "Bonne réponse :", rvErr: "Les questions n'ont pas pu être chargées pour le moment.", kick: "Le résultat de votre quiz", thWine: "Vin", thBeer: "Bière", thSpirits: "Spiritueux", thSake: "Saké", thMix: "Mix",
+    fr: { tmB2: "Point de départ : le temps d'étude recommandé pour le niveau ({r} h), avec une large marge de sécurité, ajusté à votre score. Mieux vaut prévoir large et être prêt.", tmBs2: "Point de départ : le temps d'étude recommandé pour le niveau ({r} h), avec une large marge de sécurité et 30 % de plus pour l'étude sans formateur, ajusté à votre score.", l3X: "Le Niveau 3 ajoute une dégustation à l'aveugle et des questions à réponse courte écrite, bien plus difficiles que le QCM : le temps supplémentaire est inclus.", bkK: "Comment répartir votre temps :", bkM: "QCM", bkW: "Réponses courtes écrites", bkT: "Dégustation", rcOpen: "Réponses écrites : faites TOUTES les questions à réponse courte de l'appli et retravaillez chacune jusqu'à ce qu'elle soit au moins suffisante, idéalement excellente.", oCnt: "{x} questions à réponse courte sur {n} au niveau suffisant", oGo: "Ouvrir les questions à réponse courte", mdK: "Comment allez-vous étudier ?", mdA: "Uniquement avec l'appli (en autonomie)", mdC: "Avec un cours en salle ou en ligne + l'appli", mdP: "Choisissez comment vous allez étudier pour voir l'estimation.", mdNC: "C'est votre travail avec l'appli (étude personnelle et révisions). Les heures encadrées du cours (environ {g} h) s'ajoutent, selon le calendrier de votre cours.", mdNS: "En autonomie : ajoutez une pratique régulière de la dégustation, et n'oubliez pas que l'examen doit être réservé auprès d'un organisme de formation agréé.", rcRv: "Lisez toutes les explications dans « Revoir vos réponses », ci-dessous, même pour les bonnes réponses : chacune est une petite leçon.", grK: "Mention visée :", grNP: "Pass : le temps d'étude recommandé pour le niveau, ajusté à votre score.", grNM: "Le Merit demande des connaissances détaillées et sûres sur tout le programme : prévoyez plus d'entraînement et des révisions régulières.", grND: "La Distinction exige une mémorisation précise, prête pour l'examen : prévoyez des questions d'entraînement chaque jour, des examens blancs en conditions réelles et une révision active de chaque chapitre.", grL1: "Ce niveau se réussit ou non, sans mention.", rcQ2: "{g} : {c}/{n} bonnes réponses. Les bonnes réponses et les explications sont dans « Revoir vos réponses », ci-dessous.", rvK: "Revoir vos réponses", rvYou: "Votre réponse :", rvOk: "Bonne réponse :", rvErr: "Les questions n'ont pas pu être chargées pour le moment.", kick: "Le résultat de votre quiz", thWine: "Vin", thBeer: "Bière", thSpirits: "Spiritueux", thSake: "Saké", thMix: "Mix",
       sc: "{n} bonnes réponses sur {t}", lvK: "Votre niveau", lvW: "Vin Niveau {n}", lvS: "Spiritueux Niveau {n}",
       rA: "Vous débutez : commencez par {L1}, les bases.", rB: "Vous avez de bonnes bases : vous pouvez commencer {L2}.",
       rC: "Vous êtes proche du niveau de l'examen : renforcez vos points faibles dans {L2}.", rD: "Excellent : vous semblez au niveau de l'examen de {L2} et pouvez commencer {L3}.",
@@ -55,7 +55,7 @@
       s_brandy: "Cognac et eaux-de-vie de fruits", s_cane: "Rhum et Tequila", s_white: "Vodka, gin et liqueurs", s_cocktails: "Cocktails",
       b_ingredients: "Ingrédients de la bière", b_brewing: "Brassage", b_styles: "Styles de bière", b_service: "Service et dégustation de la bière",
       k_ingredients: "Riz, koji et eau", k_brewing: "Élaboration du saké", k_styles: "Styles et catégories de saké", k_service: "Service du saké" },
-    en: { rcRv: "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.", grK: "Target grade:", grNP: "Pass: the recommended study time for the level, adjusted to your score.", grNM: "Merit asks for detailed, reliable knowledge across the whole syllabus: plan more practice and regular review.", grND: "Distinction requires precise, exam-ready recall: plan for daily practice questions, mock exams under exam conditions and active review of every chapter.", grL1: "This level is graded pass or fail.", tmB: "Starting point: the recommended study time for the level ({r} h), adjusted to your score.", rcQ2: "{g}: {c}/{n} correct. The correct answers and explanations are in “Review your answers” below.", rvK: "Review your answers", rvYou: "Your answer:", rvOk: "Correct answer:", rvErr: "The questions could not be loaded right now.", kick: "Your quiz result", thWine: "Wine", thBeer: "Beer", thSpirits: "Spirits", thSake: "Sake", thMix: "Mix",
+    en: { tmB2: "Starting point: the recommended study time for the level ({r} h), with a generous safety margin, adjusted to your score. Better to over-estimate and be ready.", tmBs2: "Starting point: the recommended study time for the level ({r} h), with a generous safety margin and 30% more for studying without a teacher, adjusted to your score.", l3X: "Level 3 adds a blind tasting and written short-answer questions, much harder than multiple choice: extra time is included.", bkK: "How to split your time:", bkM: "Multiple choice", bkW: "Written short answers", bkT: "Tasting", rcOpen: "Written answers: complete ALL the short-answer questions in the app and keep reworking each one until it is at least sufficient, ideally excellent.", oCnt: "{x} of {n} short-answer questions at sufficient level", oGo: "Open the short-answer questions", mdK: "How will you study?", mdA: "Only with the app (self-study)", mdC: "With a classroom or online course + the app", mdP: "Choose how you will study to see your estimate.", mdNC: "This is your study with the app (private study and revision). The course's guided hours (about {g} h) come on top, as scheduled by your course.", mdNS: "Studying on your own: add regular tasting practice, and remember that the exam itself must be booked with an approved course provider.", rcRv: "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.", grK: "Target grade:", grNP: "Pass: the recommended study time for the level, adjusted to your score.", grNM: "Merit asks for detailed, reliable knowledge across the whole syllabus: plan more practice and regular review.", grND: "Distinction requires precise, exam-ready recall: plan for daily practice questions, mock exams under exam conditions and active review of every chapter.", grL1: "This level is graded pass or fail.", rcQ2: "{g}: {c}/{n} correct. The correct answers and explanations are in “Review your answers” below.", rvK: "Review your answers", rvYou: "Your answer:", rvOk: "Correct answer:", rvErr: "The questions could not be loaded right now.", kick: "Your quiz result", thWine: "Wine", thBeer: "Beer", thSpirits: "Spirits", thSake: "Sake", thMix: "Mix",
       sc: "{n} out of {t} correct", lvK: "Your level", lvW: "Wine Level {n}", lvS: "Spirits Level {n}",
       rA: "You are just starting out: begin with {L1}, the foundations.", rB: "You have good basics: you look ready to start {L2}.",
       rC: "You are close to exam standard: strengthen your weak topics in {L2}.", rD: "Excellent: you look ready for the {L2} exam and can start {L3}.",
@@ -78,7 +78,7 @@
       k_ingredients: "Rice, koji and water", k_brewing: "Sake brewing", k_styles: "Sake styles and grades", k_service: "Serving sake" }
   };
   /* Spanish (es) and the Río de la Plata variant (only the keys that differ) */
-  const ES = { rcRv: "Lee todas las explicaciones en «Revisa tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grK: "Calificación objetivo:", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu resultado.", grNM: "El Merit exige conocimientos detallados y seguros de todo el programa: prevé más práctica y repasos regulares.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica a diario, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", grL1: "Este nivel se aprueba o no, sin calificación.", tmB: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), ajustado a tu resultado.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisa tus respuestas», más abajo.", rvK: "Revisa tus respuestas", rvYou: "Tu respuesta:", rvOk: "Respuesta correcta:", rvErr: "Ahora mismo no se pudieron cargar las preguntas.", kick: "El resultado de tu quiz", thWine: "Vino", thBeer: "Cerveza", thSpirits: "Destilados", thSake: "Sake", thMix: "Mix",
+  const ES = { tmB2: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), con un amplio margen de seguridad, ajustado a tu resultado. Mejor pasarse y llegar preparado.", tmBs2: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), con un amplio margen de seguridad y un 30 % más por estudiar sin profesor, ajustado a tu resultado.", l3X: "El Nivel 3 añade una cata a ciegas y preguntas de respuesta corta escrita, mucho más difíciles que las de opción múltiple: el tiempo extra ya está incluido.", bkK: "Cómo repartir tu tiempo:", bkM: "Opción múltiple", bkW: "Respuestas cortas escritas", bkT: "Cata", rcOpen: "Respuestas escritas: completa TODAS las preguntas de respuesta corta de la app y vuelve a trabajar cada una hasta que sea al menos suficiente, idealmente excelente.", oCnt: "{x} de {n} preguntas de respuesta corta con nivel suficiente", oGo: "Abrir las preguntas de respuesta corta", mdK: "¿Cómo vas a estudiar?", mdA: "Solo con la app (por mi cuenta)", mdC: "Con un curso presencial u online + la app", mdP: "Elige cómo vas a estudiar para ver la estimación.", mdNC: "Este es tu estudio con la app (estudio personal y repaso). Las horas guiadas del curso (unas {g} h) se suman aparte, según el calendario de tu curso.", mdNS: "Estudiando por tu cuenta: añade práctica de cata regular y recuerda que el examen hay que reservarlo con un centro de formación autorizado.", rcRv: "Lee todas las explicaciones en «Revisa tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grK: "Calificación objetivo:", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu resultado.", grNM: "El Merit exige conocimientos detallados y seguros de todo el programa: prevé más práctica y repasos regulares.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica a diario, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", grL1: "Este nivel se aprueba o no, sin calificación.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisa tus respuestas», más abajo.", rvK: "Revisa tus respuestas", rvYou: "Tu respuesta:", rvOk: "Respuesta correcta:", rvErr: "Ahora mismo no se pudieron cargar las preguntas.", kick: "El resultado de tu quiz", thWine: "Vino", thBeer: "Cerveza", thSpirits: "Destilados", thSake: "Sake", thMix: "Mix",
     sc: "{n} respuestas correctas de {t}", lvK: "Tu nivel", lvW: "Vino Nivel {n}", lvS: "Destilados Nivel {n}",
     rA: "Estás empezando: comienza por {L1}, las bases.", rB: "Tienes buenas bases: puedes empezar {L2}.",
     rC: "Estás cerca del nivel del examen: refuerza tus puntos débiles en {L2}.", rD: "Excelente: pareces a punto para el examen de {L2} y puedes empezar {L3}.",
@@ -99,7 +99,7 @@
     s_brandy: "Cognac y destilados de fruta", s_cane: "Ron y Tequila", s_white: "Vodka, ginebra y licores", s_cocktails: "Cócteles",
     b_ingredients: "Ingredientes de la cerveza", b_brewing: "Elaboración de la cerveza", b_styles: "Estilos de cerveza", b_service: "Servicio y cata de la cerveza",
     k_ingredients: "Arroz, koji y agua", k_brewing: "Elaboración del sake", k_styles: "Estilos y categorías de sake", k_service: "Servicio del sake" };
-  const AR = { rcRv: "Leé todas las explicaciones en «Revisá tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu puntaje.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica todos los días, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", tmB: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), ajustado a tu puntaje.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisá tus respuestas», más abajo.", rvK: "Revisá tus respuestas", rvErr: "Ahora no se pudieron cargar las preguntas.", rA: "Estás empezando: arrancá por {L1}, las bases.", rB: "Tenés buenas bases: podés empezar {L2}.",
+  const AR = { tmB2: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), con un amplio margen de seguridad, ajustado a tu puntaje. Mejor pasarse y llegar preparado.", tmBs2: "Punto de partida: el tiempo de estudio recomendado para el nivel ({r} h), con un amplio margen de seguridad y un 30 % más por estudiar sin profesor, ajustado a tu puntaje.", l3X: "El Nivel 3 suma una cata a ciegas y preguntas de respuesta corta escrita, mucho más difíciles que las de opción múltiple: el tiempo extra ya está incluido.", rcOpen: "Respuestas escritas: completá TODAS las preguntas de respuesta corta de la app y volvé a trabajar cada una hasta que sea al menos suficiente, idealmente excelente.", mdP: "Elegí cómo vas a estudiar para ver la estimación.", mdNS: "Estudiando por tu cuenta: sumá práctica de cata regular y recordá que el examen hay que reservarlo con un centro de formación autorizado.", rcRv: "Leé todas las explicaciones en «Revisá tus respuestas», más abajo, también las de las preguntas acertadas: cada una es una pequeña lección.", grNP: "Pass: el tiempo de estudio recomendado para el nivel, ajustado a tu puntaje.", grND: "La Distinction exige un recuerdo preciso y listo para el examen: prevé preguntas de práctica todos los días, exámenes de prueba en condiciones reales y repaso activo de cada capítulo.", rcQ2: "{g}: {c}/{n} correctas. Las respuestas correctas y las explicaciones están en «Revisá tus respuestas», más abajo.", rvK: "Revisá tus respuestas", rvErr: "Ahora no se pudieron cargar las preguntas.", rA: "Estás empezando: arrancá por {L1}, las bases.", rB: "Tenés buenas bases: podés empezar {L2}.",
     rC: "Estás cerca del nivel del examen: reforzá tus puntos débiles en {L2}.", rD: "Excelente: parecés a punto para el examen de {L2} y podés empezar {L3}.",
     gB: "Tenés buenas bases y conocés lo esencial.", gD: "Excelente: conocés muy bien el tema.",
     rcT: "{g}: {c}/{n} correctas. Repasá las lecciones y después hacé el quiz del capítulo.", rcStart: "Empezá por las primeras lecciones de {L}: capítulos cortos, cada uno con su quiz.", rcMock: "Cuando tus puntos débiles superen el 70 %, hacé un examen de prueba en {L}.",
@@ -139,13 +139,32 @@
        Wine L3 84 h (30 GL + 54 private), Spirits L1 6 h (spec. Jul 2017), Spirits L2 26 h (spec. May 2022 issue 2:
        15 GLH + 11 private), Spirits L3 84 h (30 GL + 51.5 private + exam).
      On screen this is only called "the recommended study time for the level".
-     Pass = that time, reduced by what the quiz shows the learner already knows (at most -40% for 20/20: twenty questions
-     cannot cover a syllabus); Merit ×1.4 and Distinction ×1.9 of the Pass figure. Level 1 is pass/fail only. */
-  const TQT = { w: { 1: 6, 2: 28, 3: 84 }, s: { 1: 6, 2: 26, 3: 84 } }, GRX = { pass: 1, merit: 1.4, dist: 1.9 };
-  function hours(trk, lvl, p, grade) { return Math.max(2, Math.round(TQT[trk][lvl] * (1 - .4 * p) * (lvl === 1 ? 1 : GRX[grade]))); }
+     Generous on purpose (better to over-estimate so people pass):
+       hours = TQT × 1.5 (safety margin) × (1 − 0.2·p) (what the quiz shows they know: at most −20%)
+               × 1.3 for Level 3 (blind tasting + written short answers, much harder than multiple choice)
+               × 1.3 when studying with the app only (no teacher, no guided tasting)
+               × target grade: Pass 1, Merit 1.4, Distinction 1.9 (Level 1 is pass/fail only)
+       and never fewer than the recommended time for the level. p = score / 20.
+     "course + app": the course's guided hours (GLH) come on top, on the course's own schedule.
+     Level 3 is shown in three blocks: multiple choice 30 %, written short answers 45 %, tasting 25 %. */
+  const TQT = { w: { 1: 6, 2: 28, 3: 84 }, s: { 1: 6, 2: 26, 3: 84 } }, GLH = { w: { 1: 6, 2: 16, 3: 30 }, s: { 1: 6, 2: 15, 3: 30 } };
+  const GRX = { pass: 1, merit: 1.4, dist: 1.9 }, SELF = 1.3, L3X = 1.3, BLOCKS = [["bkM", .3], ["bkW", .45], ["bkT", .25]];
+  function hours(trk, lvl, p, grade, mode) {
+    const t = TQT[trk][lvl], h = t * 1.5 * (1 - .2 * p) * (lvl === 3 ? L3X : 1) * (mode === "self" ? SELF : 1) * (lvl === 1 ? 1 : GRX[grade]);
+    return Math.round(Math.max(t, h)); }
   const weeks = (h, d) => Math.max(1, Math.ceil(h / (d * 6)));
 
-  let PACE = 2, GRADE = "pass", R = null, saved = false, prevFocus = null;
+  /* Level 3 wine short-answer questions: the app's own list (OPEN) and saved attempts (OA, localStorage
+     "wset3-open-v1", synced by the app); "sufficient" = best attempt at 55 % or more, as in the app. Read-only. */
+  function openCount(trk) {
+    try { if (trk !== "w") return "";
+      const list = typeof OPEN !== "undefined" && Array.isArray(OPEN) ? OPEN : null; if (!list || !list.length) return "";
+      let A = typeof OA !== "undefined" && OA && typeof OA === "object" ? OA : null;
+      if (!A) { try { A = JSON.parse(ls.get("wset3-open-v1") || "{}") || {}; } catch (e) { A = {}; } }
+      const ok = list.filter(o => (A[o.id] || []).some(x => x && x.m > 0 && x.s / x.m >= .55)).length;
+      return fill(tr("oCnt"), { x: ok, n: list.length });
+    } catch (e) { return ""; } }
+  let PACE = 2, GRADE = "pass", SMODE = "", R = null, saved = false, prevFocus = null;
   function model(r) {
     const p = r.score / r.total, band = BAND(p), trk = r.theme === "wine" ? "w" : r.theme === "spirits" ? "s" : null;
     const startN = band === 0 ? 1 : band === 3 ? 3 : 2, examN = band === 0 ? 1 : 2;
@@ -164,14 +183,16 @@
     if (trk && (band === 1 || band === 2)) recs.push({ t: fill(tr("rcMock"), { L }), lvl: code, L });
     if (trk && band === 3) recs.push({ t: fill(tr("rcNext"), { L }), lvl: code, L });
     if (!trk) { const n = band === 0 ? 1 : 2, Lc = lvName("w", n); recs.push({ t: fill(tr("rcCourse"), { L: Lc }), lvl: lvCode("w", n), L: Lc }); }
-    while (recs.length > 4) recs.splice(recs.length - 2, 1);           /* keep the first ones and the closing step */
+    const l3 = trk && (band === 3 ? 3 : examN) === 3;
+    while (recs.length > (l3 ? 3 : 4)) recs.splice(recs.length - 2, 1);
+    if (l3) recs.splice(1, 0, { t: tr("rcOpen"), sub: openCount(trk), lvl: trk === "s" ? "s3" : "3", go: trk === "s" ? "study" : "open", L: tr("oGo"), lab: 1 });           /* keep the first ones and the closing step */
     if (trk) recs.push({ t: fill(tr("rcDaily"), { d: PACE }) });
     else if (recs.length < 3 && Array.isArray(r.a) && r.a.length) recs.push({ t: tr("rcRv") });
     const reading = trk ? fill(tr("r" + "ABCD"[band]), { L1: lvName(trk, 1), L2: lvName(trk, 2), L3: lvName(trk, 3) }) : tr("g" + "ABCD"[band]);
     /* time estimate: wine and spirits only (beer, sake and mix have no course and no exam level in the app) */
-    const tl = band === 3 ? 3 : examN, h = trk ? hours(trk, tl, p, GRADE) : 0, w = trk ? weeks(h, PACE) : 0;
+    const tl = band === 3 ? 3 : examN, h = trk && SMODE ? hours(trk, tl, p, GRADE, SMODE) : 0, w = h ? weeks(h, PACE) : 0;
     const target = trk ? fill(tr("tmL"), { L: lvName(trk, tl) }) : "";
-    return { p, band, rows, recs, reading, h, w, target, trk, tl, base: trk ? TQT[trk][tl] : 0, start: trk ? { L, code } : null, mock: trk ? { L: lvName(trk, 2), code: lvCode(trk, 2) } : null };   /* Level 2 / Spirits 2: the 50-question mock */
+    return { p, band, rows, recs, reading, h, w, target, trk, tl, base: trk ? TQT[trk][tl] : 0, glh: trk ? GLH[trk][tl] : 0, start: trk ? { L, code } : null, mock: trk ? { L: lvName(trk, 2), code: lvCode(trk, 2) } : null };   /* Level 2 / Spirits 2: the 50-question mock */
   }
 
   const CSS = `.hqr-bg{position:fixed;inset:0;z-index:400;background:rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;padding:12px}
@@ -201,7 +222,7 @@
 .hqr-tp span:last-of-type{font-weight:700;white-space:nowrap}
 .hqr-mk{display:block;width:100%;margin-top:18px;padding:12px;border-radius:12px;border:2px solid var(--accent,#8c1d40);background:var(--surface,#fff);color:var(--accent,#8c1d40);font:inherit;font-weight:700;font-size:.95rem;cursor:pointer;text-align:center}.hqr-mk+.hqr-go{margin-top:10px}
 .hqr-go{display:block;width:100%;margin-top:18px;padding:13px;border-radius:12px;border:0;background:var(--accent,#8c1d40);color:var(--on-accent,#fff);font:inherit;font-weight:700;font-size:1rem;cursor:pointer}
-.hqr-gn{margin:8px 0 0;font-size:.84rem}
+.hqr-gn{margin:8px 0 0;font-size:.84rem}.hqr-bk{margin:6px 0 0;padding:0;list-style:none;display:grid;gap:4px;font-size:.88rem}.hqr-bk li{display:flex;justify-content:space-between;gap:10px;padding:6px 10px;border-radius:8px;background:var(--surface,#fff)}.hqr-bk b{white-space:nowrap}.hqr-md{margin:0 0 10px}.hqr-md button{flex:1 1 100%;text-align:start;border-radius:12px;min-height:44px}
 .hqr-rv{margin-top:18px;border:1px solid var(--line,#e5d7cf);border-radius:14px;padding:0 14px}
 .hqr-rv summary{cursor:pointer;padding:12px 0;font-weight:700;color:var(--accent,#8c1d40);min-height:24px}.hqr-rv summary span{color:var(--muted,#6b5a5f);font-weight:600}
 .hqr-rvl{margin:0 0 12px;padding:0;list-style:none;display:flex;flex-direction:column;gap:10px}
@@ -215,14 +236,18 @@
 
   function html(r) {
     const m = model(r), pc = Math.round(m.p * 100), th = tr("th" + r.theme[0].toUpperCase() + r.theme.slice(1));
-    const link = x => x.lvl ? `<br><a href="#lvl=${esc(x.lvl)}&go=study" data-hqr-lvl="${esc(x.lvl)}">${esc(fill(tr("open"), { L: x.L }))} →</a>` : "";
+    const link = x => (x.sub ? `<br><b class="hqr-oc">${esc(x.sub)}</b>` : "") + (x.lvl ? `<br><a href="#lvl=${esc(x.lvl)}&go=${x.go || "study"}" data-hqr-lvl="${esc(x.lvl)}" data-hqr-go="${x.go || "study"}">${esc(x.lab ? x.L : fill(tr("open"), { L: x.L }))} →</a>` : "");
     const G = m.tl === 1 ? ["pass"] : ["pass", "merit", "dist"], GN = { pass: "Pass", merit: "Merit", dist: "Distinction" };
-    const time = !m.trk ? "" : `<h3>${esc(tr("tmK"))}</h3><div class="hqr-box"><p class="hqr-tl">${esc(m.target)}${m.tl === 1 ? "" : " · " + GN[GRADE]}</p><p class="hqr-tw">${esc(m.w === 1 ? tr("w1") : fill(tr("wN"), { w: m.w }))}</p>
+    const MD = ["self", "course"], MN = { self: "mdA", course: "mdC" };
+    const ask = `<div class="hqr-pace hqr-md" role="group" aria-label="${esc(tr("mdK"))}"><span>${esc(tr("mdK"))}</span>${MD.map(x => `<button type="button" data-hqr-mode="${x}" aria-pressed="${x === SMODE}">${esc(tr(MN[x]))}</button>`).join("")}</div>`;
+    const time = !m.trk ? "" : !SMODE ? `<h3>${esc(tr("tmK"))}</h3><div class="hqr-box">${ask}<p class="hqr-gn">${esc(tr("mdP"))}</p></div>` : `<h3>${esc(tr("tmK"))}</h3><div class="hqr-box">${ask}<p class="hqr-tl">${esc(m.target)}${m.tl === 1 ? "" : " · " + GN[GRADE]}</p><p class="hqr-tw">${esc(m.w === 1 ? tr("w1") : fill(tr("wN"), { w: m.w }))}</p>
 <p class="hqr-th">${esc(fill(tr("tmH"), { h: m.h, d: PACE }))}</p>
+${m.tl === 3 ? `<p class="hqr-gn">${esc(tr("l3X"))}</p><p class="hqr-gn"><b>${esc(tr("bkK"))}</b></p><ul class="hqr-bk">${BLOCKS.map(([k, f]) => `<li><span>${esc(tr(k))}</span><b>≈ ${Math.round(m.h * f)} h</b></li>`).join("")}</ul>` : ""}
+<p class="hqr-gn">${esc(SMODE === "course" ? fill(tr("mdNC"), { g: m.glh }) : tr("mdNS"))}</p>
 ${m.tl === 1 ? `<p class="hqr-gn">${esc(tr("grL1"))}</p>` : `<div class="hqr-pace" role="group" aria-label="${esc(tr("grK"))}"><span>${esc(tr("grK"))}</span>${G.map(g => `<button type="button" data-hqr-grade="${g}" aria-pressed="${g === GRADE}">${GN[g]}</button>`).join("")}</div>
 <p class="hqr-gn">${esc(tr(GRADE === "pass" ? "grNP" : GRADE === "merit" ? "grNM" : "grND"))}</p>`}
 <div class="hqr-pace" role="group" aria-label="${esc(tr("pace"))}"><span>${esc(tr("pace"))}</span>${[1, 2, 3].map(d => `<button type="button" data-hqr-pace="${d}" aria-pressed="${d === PACE}">${esc(fill(tr("paceB"), { d }))}</button>`).join("")}</div>
-<p class="hqr-tn">${esc(fill(tr("tmB"), { r: m.base }))} ${esc(tr("tmN"))}</p></div>`;
+<p class="hqr-tn">${esc(fill(tr(SMODE === "self" ? "tmBs2" : "tmB2"), { r: m.base }))} ${esc(tr("tmN"))}</p></div>`;
     return `<button type="button" class="hqr-x" data-hqr-close aria-label="${esc(tr("close"))}">✕</button>
 <p class="hqr-k">${esc(tr("kick"))}</p><h2 id="hqr-t" tabindex="-1">${esc(th)} · ${r.score}/${r.total}</h2>
 <div class="hqr-top"><div class="hqr-ring" style="--p:${pc}" aria-hidden="true"><b>${pc}%</b></div>
@@ -251,7 +276,7 @@ ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">
   }
   function paint(keep) {
     const el = document.getElementById("hqr"); if (!el || !R) return;
-    const y = el.scrollTop, ae = keep && document.activeElement, a = ae && (ae.hasAttribute("data-hqr-pace") ? `[data-hqr-pace="${ae.getAttribute("data-hqr-pace")}"]` : ae.hasAttribute("data-hqr-grade") ? `[data-hqr-grade="${ae.getAttribute("data-hqr-grade")}"]` : "");
+    const y = el.scrollTop, ae = keep && document.activeElement, a = ae && (ae.hasAttribute("data-hqr-pace") ? `[data-hqr-pace="${ae.getAttribute("data-hqr-pace")}"]` : ae.hasAttribute("data-hqr-grade") ? `[data-hqr-grade="${ae.getAttribute("data-hqr-grade")}"]` : ae.hasAttribute("data-hqr-mode") ? `[data-hqr-mode="${ae.getAttribute("data-hqr-mode")}"]` : "");
     el.innerHTML = html(R); el.scrollTop = keep ? y : 0; review();
     const f = a ? el.querySelector(a) : el.querySelector("#hqr-t"); if (f) try { f.focus({ preventScroll: !!keep }); } catch (e) {}
   }
@@ -259,7 +284,7 @@ ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">
   function show(r) {
     if (document.getElementById("hqr-bg")) return;
     if (!document.getElementById("hqr-css")) { const st = document.createElement("style"); st.id = "hqr-css"; st.textContent = CSS; document.head.appendChild(st); }
-    R = r; prevFocus = document.activeElement; GRADE = "pass"; RVOPEN = false;
+    R = r; prevFocus = document.activeElement; GRADE = "pass"; RVOPEN = false; SMODE = r.mode === "self" || r.mode === "course" ? r.mode : "";
     const bg = document.createElement("div"); bg.id = "hqr-bg"; bg.className = "hqr-bg";
     bg.innerHTML = `<div class="hqr" id="hqr" role="dialog" aria-modal="true" aria-labelledby="hqr-t"></div>`;
     document.body.appendChild(bg); paint();
@@ -267,13 +292,15 @@ ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">
       if (e.target === bg || e.target.closest("[data-hqr-close]")) return close();
       const p = e.target.closest("[data-hqr-pace]"); if (p) { PACE = +p.getAttribute("data-hqr-pace") || 2; return paint(true); }
       const gr = e.target.closest("[data-hqr-grade]"); if (gr) { GRADE = gr.getAttribute("data-hqr-grade") || "pass"; return paint(true); }
+      const md = e.target.closest("[data-hqr-mode]"); if (md) { SMODE = md.getAttribute("data-hqr-mode") === "course" ? "course" : "self";
+        R.mode = SMODE; ls.set(KEY, JSON.stringify(R)); paint(true); return store(R, true); }   /* remembered with the result (device + account) */
       const mk = e.target.closest("[data-hqr-mock]"); if (mk) { const v = mk.getAttribute("data-hqr-mock");
         try { sessionStorage.setItem("twg-hq-mock", "1"); } catch (x) {}
         if (ls.get("twg-level") === v) { close(); location.hash = "go=study"; return openMock(); }
         ls.set("twg-level", v); location.hash = "go=study"; location.reload(); return; }
-      const a = e.target.closest("[data-hqr-lvl]"); if (a) { e.preventDefault(); const v = a.getAttribute("data-hqr-lvl");
-        if (ls.get("twg-level") === v || (!ls.get("twg-level") && v === "3")) { close(); location.hash = "go=study"; return; }
-        ls.set("twg-level", v); location.hash = "go=study"; location.reload(); }
+      const a = e.target.closest("[data-hqr-lvl]"); if (a) { e.preventDefault(); const v = a.getAttribute("data-hqr-lvl"), g = a.getAttribute("data-hqr-go") === "open" ? "open" : "study";
+        if (ls.get("twg-level") === v || (!ls.get("twg-level") && v === "3")) { close(); location.hash = "go=" + g; return; }
+        ls.set("twg-level", v); location.hash = "go=" + g; location.reload(); }
     });
     bg.addEventListener("keydown", e => {
       if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); return close(); }
@@ -286,9 +313,9 @@ ${m.mock ? `<button type="button" class="hqr-mk" data-hqr-mock="${m.mock.code}">
     store(r);
   }
   /* the account copy: user_docs (user_id, doc_id, data), the same per-user document table as the progress */
-  async function store(r) {
-    try { const a = acct(), sb = a && a.client && a.client(), uid = a && a.uid && a.uid(); if (!sb || !uid || r.cloud) return;
-      const data = { v: 1, theme: r.theme, score: r.score, total: r.total, topics: r.topics, a: Array.isArray(r.a) ? r.a : [], ts: r.ts, lang: r.lang || "" };
+  async function store(r, again) {
+    try { const a = acct(), sb = a && a.client && a.client(), uid = a && a.uid && a.uid(); if (!sb || !uid || (r.cloud && !again)) return;
+      const data = { v: 1, theme: r.theme, score: r.score, total: r.total, topics: r.topics, a: Array.isArray(r.a) ? r.a : [], mode: r.mode || "", ts: r.ts, lang: r.lang || "" };
       const { error } = await sb.from("user_docs").upsert({ user_id: uid, doc_id: DOC, data, updated_at: new Date().toISOString() }, { onConflict: "user_id,doc_id" });
       if (error) return; r.cloud = 1; ls.set(KEY, JSON.stringify(r)); saved = true;
       const s = document.querySelector("[data-hqr-sv]"); if (s) s.textContent = tr("svA");

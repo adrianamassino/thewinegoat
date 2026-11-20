@@ -1,5 +1,73 @@
 [
 {
+"en": "Starting point: the recommended study time for the level ({r} h), with a generous safety margin, adjusted to your score. Better to over-estimate and be ready.",
+"it": "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), con un ampio margine di sicurezza, adattato al tuo punteggio. Meglio abbondare ed essere pronti."
+},
+{
+"en": "Starting point: the recommended study time for the level ({r} h), with a generous safety margin and 30% more for studying without a teacher, adjusted to your score.",
+"it": "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), con un ampio margine di sicurezza e il 30% in più perché studi senza insegnante, adattato al tuo punteggio."
+},
+{
+"en": "Level 3 adds a blind tasting and written short-answer questions, much harder than multiple choice: extra time is included.",
+"it": "Il Livello 3 aggiunge una degustazione alla cieca e domande a risposta aperta scritta, molto più difficili delle crocette: il tempo in più è già incluso."
+},
+{
+"en": "How to split your time:",
+"it": "Come dividere il tempo:"
+},
+{
+"en": "Multiple choice",
+"it": "Domande a scelta multipla"
+},
+{
+"en": "Written short answers",
+"it": "Risposte aperte scritte"
+},
+{
+"en": "Tasting",
+"it": "Degustazione"
+},
+{
+"en": "Written answers: complete ALL the short-answer questions in the app and keep reworking each one until it is at least sufficient, ideally excellent.",
+"it": "Risposte scritte: completa TUTTE le domande a risposta aperta dell'app e rielabora ciascuna finché non è almeno sufficiente, idealmente eccellente."
+},
+{
+"en": "{x} of {n} short-answer questions at sufficient level",
+"it": "{x} domande aperte su {n} a livello sufficiente"
+},
+{
+"en": "Open the short-answer questions",
+"it": "Apri le domande a risposta aperta"
+},
+{
+"en": "How will you study?",
+"it": "Come studierai?"
+},
+{
+"en": "Only with the app (self-study)",
+"it": "Solo con l'app (in autonomia)"
+},
+{
+"en": "With a classroom or online course + the app",
+"it": "Con un corso in aula o online + l'app"
+},
+{
+"en": "Choose how you will study to see your estimate.",
+"it": "Scegli come studierai per vedere la stima."
+},
+{
+"en": "This is your study with the app (private study and revision). The course's guided hours (about {g} h) come on top, as scheduled by your course.",
+"it": "Questo è il tuo studio con l'app (studio personale e ripasso). Le ore guidate del corso (circa {g} h) si aggiungono, secondo il calendario del corso."
+},
+{
+"en": "Studying on your own: add regular tasting practice, and remember that the exam itself must be booked with an approved course provider.",
+"it": "Studiando da solo/a: aggiungi esercizi regolari di degustazione e ricorda che l'esame va comunque prenotato presso un ente formativo autorizzato."
+},
+{
+"en": "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.",
+"it": "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione."
+},
+{
 "en": "Target grade:",
 "it": "Voto obiettivo:"
 },
@@ -18,10 +86,6 @@
 {
 "en": "This level is graded pass or fail.",
 "it": "Questo livello si supera o non si supera, senza voti."
-},
-{
-"en": "Starting point: the recommended study time for the level ({r} h), adjusted to your score.",
-"it": "Punto di partenza: il tempo di studio consigliato per il livello ({r} h), adattato al tuo punteggio."
 },
 {
 "en": "{g}: {c}/{n} correct. The correct answers and explanations are in “Review your answers” below.",
@@ -290,9 +354,5 @@
 {
 "en": "Serving sake",
 "it": "Servizio del sake"
-},
-{
-"en": "Read every explanation in “Review your answers” below, even for the questions you got right: each one is a short lesson.",
-"it": "Leggi tutte le spiegazioni in «Rivedi le tue risposte», qui sotto, anche per le domande giuste: ognuna è una piccola lezione."
 }
 ]

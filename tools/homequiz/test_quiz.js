@@ -90,6 +90,15 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
       ok(r.recs >= 3 && r.recs <= 5, `${lg} ${th} ${r.recs} recommendations`); ok(r.links.length >= 1, `${lg} ${th} recommendation links`);
       ok(!/retake|rifai il quiz|wiederhole das Quiz|もう一度クイズ|repetí el quiz/i.test(r.txt), `${lg} ${th} no "retake the quiz"`);
       if (trk) {
+        /* the estimate waits for the study mode; then it is remembered with the result (device + account copy) */
+        ok(!r.w && (await page.locator("[data-hqr-mode]").count()) === 2, `${lg} ${th} asks the study mode first`);
+        await page.click('[data-hqr-mode="self"]'); const hSelf = await page.locator(".hqr-th").textContent();
+        await page.click('[data-hqr-mode="course"]'); const hCourse = await page.locator(".hqr-th").textContent();
+        const num = x => parseInt(String(x).replace(/[^\d]+/g, " ").trim().split(" ")[0]);
+        ok(num(hSelf) > num(hCourse) && (await page.evaluate(() => JSON.parse(localStorage.getItem("twg-hq-result")).mode)) === "course", `${lg} ${th} modes ${num(hCourse)} / ${num(hSelf)} h`);
+        if (th === "wine") ok(num(hCourse) === 38 && num(hSelf) === 49, `${lg} wine 10/20 L2 Pass hours ${num(hCourse)} / ${num(hSelf)} (expected 38 / 49)`);
+        await page.waitForFunction(() => /"mode":"course"/.test(localStorage.getItem("stub-writes") || ""), null, { timeout: 5000 }).catch(() => ok(false, `${lg} ${th} mode saved to the account`));
+        Object.assign(r, await page.evaluate(() => { const q = s => document.querySelector(s); return { w: q(".hqr-tw").textContent, hrs: q(".hqr-th").textContent, note: q(".hqr-tn").textContent, pace: document.querySelectorAll("[data-hqr-pace]").length, grades: document.querySelectorAll("[data-hqr-grade]").length }; }));
         ok(/\d/.test(r.w) && /\d/.test(r.hrs) && r.note.length > 10 && r.tp >= 4 && r.pace === 3, `${lg} ${th} time estimate`);
         await page.click('[data-hqr-pace="1"]'); const w1 = await page.locator(".hqr-tw").textContent(); await page.click('[data-hqr-pace="3"]'); const w3 = await page.locator(".hqr-tw").textContent();
         ok(parseInt(w1.replace(/\D/g, "")) >= parseInt(w3.replace(/\D/g, "")) && (await page.locator('[data-hqr-pace="3"]').getAttribute("aria-pressed")) === "true", `${lg} ${th} pace ${w1} / ${w3}`);
@@ -115,6 +124,16 @@ let fails = 0; const ok = (c, m) => { if (!c) { fails++; console.log("  FAIL " +
       console.log(`  ${lg} ${th}: ${exp}/${N} → app lang ${lang2} · ${r.w || "no estimate"} · ${r.recs} recs · ${r.rd.slice(0, 70)}`);
       await page.keyboard.press("Escape"); ok(await page.locator("#hqr-bg").count() === 0, lg + " Esc closes the result");
       await page.reload({ waitUntil: "load" }); await page.waitForTimeout(1500); ok(await page.locator("#hqr-bg").count() === 0, lg + " result shown once");
+      if (th === "wine") {   /* Level 3 plan: 18/20 on wine → Level 3, three blocks, the written-answers line with the app's count */
+        await page.evaluate(() => { const r = JSON.parse(localStorage.getItem("twg-hq-result")); r.score = 18; r.mode = "self"; localStorage.setItem("twg-hq-result", JSON.stringify(r)); window.twgHomeQuizResult.show(); });
+        await page.waitForSelector(".hqr-bk li");
+        const l3 = await page.evaluate(() => ({ bk: [...document.querySelectorAll(".hqr-bk li b")].map(x => parseInt(x.textContent.replace(/\D/g, ""))), h: parseInt(document.querySelector(".hqr-th").textContent.replace(/[^\d]+/g, " ").trim()), oc: (document.querySelector(".hqr-oc") || {}).textContent || "", go: [...document.querySelectorAll(".hqr ol a")].map(a => a.getAttribute("href")) }));
+        ok(l3.bk.length === 3 && Math.abs(l3.bk.reduce((a, b) => a + b, 0) - l3.h) <= 1 && l3.h >= 84 && /\d+\D+\d+/.test(l3.oc) && l3.go.includes("#lvl=3&go=open"), `${lg} Level 3 plan ${JSON.stringify(l3)}`);
+        if (lg === "en") ok(l3.h === 175, `${lg} wine 18/20 L3 self Pass hours ${l3.h} (expected 175)`);
+        await page.screenshot({ path: `${OUT}/${lg}-6d-result-L3.png` });
+        await page.evaluate(() => { document.querySelector(".hqr").scrollTo(0, 99999); }); await page.screenshot({ path: `${OUT}/${lg}-6e-result-L3-end.png` });
+        await noOverflow("L3 result"); await page.keyboard.press("Escape");
+      }
       if (th === "wine" && lg === "en") {   /* the mock button opens the app's existing 50-question mock (Level 2) */
         await page.evaluate(() => window.twgHomeQuizResult.show()); await page.waitForSelector("[data-hqr-mock]");
         await page.click("[data-hqr-mock]"); await page.waitForLoadState("load"); await page.waitForTimeout(2500);
