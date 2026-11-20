@@ -35,6 +35,11 @@ HREF = {'zh-hans': 'zh-Hans', 'zh-hant': 'zh-Hant', 'es-ar': 'es-AR', 'pt-br': '
 CJK = {'ja', 'ko', 'zh-hans', 'zh-hant'}
 PL = json.load(open('tools/photos/placement.json', encoding='utf8'))
 META = {m['file'].split('/')[-1][:-5]: m for m in json.load(open('img/photos/meta.json', encoding='utf8')) if m.get('file')}
+for _m in META.values():   # entries written by images.py may lack the 600 px size: read it from the file
+    if 'width_sm' not in _m:
+        from PIL import Image
+        _f = _m.get('file_sm') or _m['file'].replace('.webp', '-sm.webp')
+        _m['width_sm'], _m['height_sm'] = Image.open(_f if _f.startswith('img/') else 'img/photos/' + _f).size
 I18N_P = 'img/photos/meta_i18n.json'
 I18N = json.load(open(I18N_P, encoding='utf8')) if os.path.exists(I18N_P) else {}
 SLUGS = {'guide': json.load(open('tools/site_i18n/slugs.json', encoding='utf8')),
