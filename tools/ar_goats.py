@@ -4,7 +4,8 @@ Run from repo root: python3 tools/ar_goats.py"""
 import re
 P = 'es-ar/index.html'
 s = open(P, encoding='utf8').read()
-CAPE = re.compile(r'<g class="cape" style="transform-origin:150px 84px">.*?\n </g>', re.S)
+# only the ORIGINAL burgundy cape (contains #a3264f / gold trim and no pattern yet); never a shirt already made
+CAPE = re.compile(r'<g class="cape" style="transform-origin:150px 84px">(?:(?!<defs><pattern id="arg)(?!<g class="neckhead").)*?\n </g>', re.S)
 n = [0]
 def shirt(m):
     n[0] += 1; i = f'arg{n[0]}'
