@@ -73,14 +73,20 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .bother{padding:24px;border-radius:20px;background:#fff;box-shadow:inset 0 0 0 1.5px #b8892e}.bol{display:grid;grid-template-columns:1fr 1fr;gap:8px 20px;margin:12px 0 18px;padding-left:18px}
 @media (max-width:700px){.bol{grid-template-columns:1fr}}
 /* seo2: tables in guide pages */
-.seo-a .tblw{overflow-x:auto;margin:14px 0 22px;border:1px solid rgba(110,30,60,.14);border-radius:14px;background:#fffdf9}
-.seo-a .lvtab{width:100%;border-collapse:collapse;font-size:.95rem;min-width:520px}
-.seo-a .lvtab th,.seo-a .lvtab td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid rgba(110,30,60,.09)}
-.seo-a .lvtab thead th{background:#7a1f3d;color:#fff;font-weight:600}
-.seo-a .lvtab tbody th{color:#7a1f3d;font-weight:600;white-space:nowrap}
-.seo-a .lvtab tbody tr:nth-child(even){background:rgba(122,31,61,.035)}
-.seo-a .lvtab tbody tr:last-child th,.seo-a .lvtab tbody tr:last-child td{border-bottom:0}
-@media(max-width:640px){.seo-a .lvtab{min-width:0}.seo-a .lvtab thead{display:none}.seo-a .lvtab tr{display:block;padding:12px 14px;border-bottom:1px solid rgba(110,30,60,.09)}.seo-a .lvtab tbody th,.seo-a .lvtab td{display:block;border:0;padding:2px 0;white-space:normal}.seo-a .lvtab tbody th{font-size:1.05rem;margin-bottom:4px}.seo-a .lvtab td[data-l]:before{content:attr(data-l);display:block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#9a7d86;margin-top:6px}}
+.seo-a .tblw,.lvpage .tblw{overflow-x:auto;margin:14px 0 22px;border:1px solid rgba(110,30,60,.14);border-radius:14px;background:#fffdf9}
+.seo-a .lvtab,
+.lvpage .lvtab{width:100%;border-collapse:collapse;font-size:.95rem;min-width:520px}
+.seo-a .lvtab th,
+.lvpage .lvtab th,.seo-a .lvtab td,.lvpage .lvtab td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid rgba(110,30,60,.09)}
+.seo-a .lvtab thead th,
+.lvpage .lvtab thead th{background:#7a1f3d;color:#fff;font-weight:600}
+.seo-a .lvtab tbody th,
+.lvpage .lvtab tbody th{color:#7a1f3d;font-weight:600;white-space:nowrap}
+.seo-a .lvtab tbody tr:nth-child(even),
+.lvpage .lvtab tbody tr:nth-child(even){background:rgba(122,31,61,.035)}
+.seo-a .lvtab tbody tr:last-child th,
+.lvpage .lvtab tbody tr:last-child th,.seo-a .lvtab tbody tr:last-child td,.lvpage .lvtab tbody tr:last-child td{border-bottom:0}
+@media(max-width:640px){.seo-a .lvtab,.lvpage .lvtab{min-width:0}.seo-a .lvtab thead,.lvpage .lvtab thead{display:none}.seo-a .lvtab tr,.lvpage .lvtab tr{display:block;padding:12px 14px;border-bottom:1px solid rgba(110,30,60,.09)}.seo-a .lvtab tbody th,.lvpage .lvtab tbody th,.seo-a .lvtab td,.lvpage .lvtab td{display:block;border:0;padding:2px 0;white-space:normal}.seo-a .lvtab tbody th,.lvpage .lvtab tbody th{font-size:1.05rem;margin-bottom:4px}.seo-a .lvtab td[data-l]:before,.lvpage .lvtab td[data-l]:before{content:attr(data-l);display:block;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#9a7d86;margin-top:6px}}
 /* quick answer box (also read by search engines and AI assistants) */
 .seo-a .tldr{margin:14px 0 20px;padding:16px 18px;border-radius:16px;background:linear-gradient(135deg,#fff7ef,#fbeef2);border:1px solid rgba(122,31,61,.18);border-left:5px solid #7a1f3d}
 .seo-a .tldr b{display:block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:#7a1f3d;margin-bottom:4px}
@@ -105,3 +111,6 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .seo-a .pc-i{margin:0;background:#fffdf9;border:1px solid rgba(110,30,60,.12);border-radius:16px;overflow:hidden}.seo-a .pc-th{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
 .seo-a .pc-tx{padding:12px 14px 14px}.seo-a .pc-tx h2{font-size:1.02rem;line-height:1.3;margin:0 0 8px}.seo-a .pc-tx dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:3px 10px;font-size:.84rem;line-height:1.4}
 .seo-a .pc-tx dt{color:#8a7d84}.seo-a .pc-tx dd{margin:0;overflow-wrap:anywhere}
+.lvpage .seosec>h3{margin:26px 0 10px}.lvpage .lvlinks li{font-weight:400}
+/* level-guide series block (tools/lvseries.py) */
+.lvseries{margin:34px 0;padding:18px 18px 8px;border-radius:18px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3}.lvseries h2{font-size:clamp(20px,2.4vw,26px);margin:0 0 12px}.lvseries ol{list-style:none;margin:0;padding:0;display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}.lvseries li{margin:0 0 10px}.lvseries a{display:block;height:100%;box-sizing:border-box;padding:10px 12px;border-radius:12px;background:#fbf4f6;color:#5c1630;text-decoration:none;font-weight:600;line-height:1.35}.lvseries a span{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#a07a86;font-weight:800;margin-bottom:2px}.lvseries a[aria-current]{background:#7a1f3d;color:#fff}.lvseries a[aria-current] span{color:#f2cf87}

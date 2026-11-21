@@ -6,7 +6,7 @@ Run from anywhere:   python3 tools/site_i18n/extract.py            (all groups)
 src/<group>.json = {"group", "source", "url", "region", "sha", "words", "segments": [{"t": text, "k": kind, "n": note}]}
 `sha` identifies this exact list: translators copy it into their file as "src_sha". When the English page changes and
 the list changes, the previous version is kept in src/_old/<group>.<sha>.json so older translations still build."""
-import os, sys, json, hashlib
+import os, re, sys, json, hashlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import common as C, seg
 
@@ -29,6 +29,7 @@ def extract(g, url):
     region = 'body' if g == '_home' else 'main'
     src = 'index.html' if url == '/' else C.fs(url)
     doc = open(src, encoding='utf8').read()
+    doc = re.sub(r'<!--lvseries-->.*?<!--/lvseries-->', '', doc, flags=re.S)   # added per language by tools/lvseries.py, never translated
     segs = seg.segments(doc, region)
     for s in segs:
         n = NOTE.get(s['k'])

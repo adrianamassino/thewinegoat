@@ -16,7 +16,8 @@ WORDS = {'céntrate': 'centrate', 'concéntrate': 'concentrate', 'pregúntate': 
          'repásalas': 'repasalas', 'repásala': 'repasala', 'repásalo': 'repasalo', 'escríbela': 'escribila', 'escríbelas': 'escribilas', 'apúntate': 'anotate',
          'asegúrate': 'asegurate', 'organízate': 'organizate', 'tómate': 'tomate el', 'suspendes': 'suspendés', 'repites': 'repetís', 'apruebas': 'aprobás',
          'trabajas': 'trabajás', 'percibes': 'percibís', 'acabas': 'acabás', 'preparas': 'preparás', 'cometes': 'cometés', 'dedicas': 'dedicás',
-         'practicas': 'practicás', 'confundes': 'confundís', 'escribes': 'escribís', 'aciertas': 'acertás', 'hueles': 'olés', 'pruebas': None}
+         'practicas': 'practicás', 'confundes': 'confundís', 'escribes': 'escribís', 'aciertas': 'acertás', 'hueles': 'olés', 'pruebas': None,
+         'describes': 'describís', 'llegas': 'llegás', 'buscas': 'buscás', 'corrígelos': 'corregilos', 'corrígela': 'corregila', 'consulta': None}
 WORDS = {k: v for k, v in WORDS.items() if v and k != 'tómate'}
 L = 'A-Za-zÁÉÍÓÚÑáéíóúñü'
 

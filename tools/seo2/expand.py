@@ -88,3 +88,4 @@ L = open('llms-full.txt', encoding='utf8').read()
 L = re.sub(r'\n# Study notes \(all pages\).*', '', L, flags=re.S)
 open('llms-full.txt', 'w', encoding='utf8').write(L.rstrip() + '\n\n# Study notes (all pages)\n\n' + '\n'.join(llm))
 print(done, 'pages expanded')
+if os.path.exists('tools/lvseries.py'): os.system('python3 tools/lvseries.py --quiet')  # re-add the Level 1 → 4 series blocks

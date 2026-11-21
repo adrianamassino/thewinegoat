@@ -3,9 +3,9 @@
 "source": "wset-level-3-short-answer-questions/index.html",
 "url": "/wset-level-3-short-answer-questions/",
 "region": "main",
-"sha": "65a756ebe09a",
-"words": 3985,
-"segment_words": 4081,
+"sha": "46d73c1b5664",
+"words": 3981,
+"segment_words": 4095,
 "segments": [
 {
 "t": "WSET Level 3 short answer questions: examples & model answers",
@@ -43,6 +43,11 @@
 {
 "t": "The 4 short written answer questions are where most WSET Level 3 candidates lose marks. Each question is split into sub-questions and you score by explaining cause and effect – why a climate gives a style, how a technique changes the wine – not by listing keywords.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 short written answer questions: examples and model answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 short written answer questions: examples and model answers | WSET Level 3 short answer questions",
@@ -590,7 +595,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -647,7 +652,7 @@
 "k": "text"
 },
 {
-"t": "The theory unit combines the multiple-choice questions and the written answers, and you need at least 55% overall in the unit to pass it. Strong multiple choice can partly compensate for weaker written answers, but relying on that is risky. Because the written answers reward technique as well as knowledge, a few weeks of regular practice usually brings a significant improvement.",
+"t": "The theory unit combines the multiple-choice questions and the written answers, and you need at least 55% in each of the two parts to pass it: strong multiple choice cannot make up for weak written answers. Because the written answers reward technique as well as knowledge, a few weeks of regular practice usually brings a significant improvement.",
 "k": "text"
 },
 {

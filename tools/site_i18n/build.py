@@ -182,6 +182,7 @@ def data_post(l):
 def build_page(l, g, base, region, tr, lm):
     url = C.home(l) if g == '_home' else SL[g][l]
     doc = open(base, encoding='utf8').read()
+    doc = re.sub(r'<!--lvseries-->.*?<!--/lvseries-->', '', doc, flags=re.S)   # language-specific: re-added by tools/lvseries.py in the sync step
     if g == '_home': doc = absolutize(doc)
     doc = seg.process(doc, tr, region, ld_post=ld_post(l, lm), data_post=data_post(l))
     code = C.HOME_HREF.get(l, l) if g == '_home' else C.href(l)
@@ -320,6 +321,8 @@ def main():
         os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
     for t in ('tools/home_lang_claims.py', 'tools/home_quiz_themes.py'):  # homes: truthful language claims; quick quiz with theme picker (th/tr rebuilt from the English home)
         if os.path.exists(t): os.system(f'{sys.executable} {t} --quiet')
+    if os.path.exists('tools/lvseries.py'):  # Level 1 → 2 → 3 → 4 guide series, home/next-level links (only guides that exist in each language)
+        os.system(f'{sys.executable} tools/lvseries.py --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)
         os.system(f'{sys.executable} tools/ar_football_guides.py --quiet')
     if os.path.exists('tools/seo_tech/internal_links.py'):  # links to another language → the page's own language; every home links its guides

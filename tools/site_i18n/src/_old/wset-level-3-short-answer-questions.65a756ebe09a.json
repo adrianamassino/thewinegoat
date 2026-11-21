@@ -1,0 +1,833 @@
+{
+"group": "wset-level-3-short-answer-questions",
+"source": "wset-level-3-short-answer-questions/index.html",
+"url": "/wset-level-3-short-answer-questions/",
+"region": "main",
+"sha": "65a756ebe09a",
+"words": 3985,
+"segment_words": 4081,
+"segments": [
+{
+"t": "WSET Level 3 short answer questions: examples & model answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "How to answer WSET Level 3 short written answer questions: real examples with the points that score marks, model answers and instant marking in the app.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 3 short answer questions, WSET 3 written questions, WSET 3 open questions, WSET Level 3 short written answers examples, how to answer WSET 3 written questions, WSET 3 model answers",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 short written answer questions: examples and model answers – WSET Level 3 short answer questions, WSET 3 written questions (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 short written answer questions: examples and model answers",
+"k": "text"
+},
+{
+"t": "The 4 short written answer questions are where most WSET Level 3 candidates lose marks. Each question is split into sub-questions and you score by explaining cause and effect – why a climate gives a style, how a technique changes the wine – not by listing keywords.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 short written answer questions: examples and model answers | WSET Level 3 short answer questions",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Below are short answer questions from The Wine Goat with the points that earn marks. In the app you write your own answer and get it marked straight away against those key points: what you hit, what is missing and how many marks you would have scored.",
+"k": "text"
+},
+{
+"t": "Count the marks: each mark is usually one precise, explained point.",
+"k": "text"
+},
+{
+"t": "Use the structure of the question: answer every sub-question in order.",
+"k": "text"
+},
+{
+"t": "Explain, don't list: \"because\", \"therefore\" and \"which results in\" score marks.",
+"k": "text"
+},
+{
+"t": "Be specific: name grapes, regions, techniques and their effect on the wine.",
+"k": "text"
+},
+{
+"t": "Practise on paper with a timer from the first week of your course.",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "Alsace.",
+"k": "text"
+},
+{
+"t": "Why does Alsace, so far north, produce ripe wines, and what are the four noble grapes and their styles? {1}(5 marks){/1}",
+"k": "text"
+},
+{
+"t": "Points that score marks",
+"k": "text"
+},
+{
+"t": "cool to moderate continental; Vosges shelter from westerly rain-bearing winds → few clouds, sunny summers, dry autumns, high sugar ripeness (drought in driest years); best vineyards steepest slopes facing east/south-east, vines trained low for radiated heat; plain vines high against frost, for Crémant; northern part coolest; varied geology influences styles; low disease → organic/biodynamic; Riesling most planted noble: dry, medium-full body, medium alcohol, high acid, citrus, stone fruit, steely (less floral than German; more now with sugar); Gewurztraminer: pungent lychee, rose, sweet spice, pink skin → golden, full, oily, low-medium acid, high alcohol (14%); Pinot Gris: rich, full, high alcohol, more acid than Gewurz, less aromatic, fresh and dried fruit, honey; Muscat (best Muscat Blanc à Petits Grains, orange blossom, rose, grape, light-medium body, low-medium acid; Ottonel more planted as Petits Grains suffers poor set and rot)",
+"k": "text"
+},
+{
+"t": "The Loire Valley.",
+"k": "text"
+},
+{
+"t": "Explain why Chenin Blanc gives such different styles in Vouvray, Savennières and Coteaux du Layon. {1}(6 marks){/1}",
+"k": "text"
+},
+{
+"t": "high acid non-aromatic; uneven ripening even within a bunch → several passes, unripe gives green herbaceous; style depends on ripeness: barely ripe (10–11%) for sparkling, increasingly ripe for dry, medium, sweet (shrivelled or noble rot); trend to riper dry wines with a few grams sugar; apple to tropical fruit, steely smoky dry wines, apricot/citrus peel noble rot; ages decades to honey, toast, hay; Vouvray (east of Tours, Touraine): cool, clay soils, still dry to lusciously sweet by vintage plus sparkling, light-medium body, fresh fruity floral, rarely new oak; Anjou/Saumur: Saumur traditional-method sparkling, Anjou dry often new oak; Savennières and Coteaux du Layon in warmer drier western Anjou (Mauges hills, stony soils) → medium-full, less floral; Savennières: well-exposed, air circulation impedes noble rot, late-harvested full dry wines that age for decades; Coteaux du Layon: sheltered Layon valley, noble rot, Quarts de Chaume and Bonnezeaux among world's greatest sweet wines",
+"k": "text"
+},
+{
+"t": "Loire: reds and rosés.",
+"k": "text"
+},
+{
+"t": "Describe the Cabernet Franc reds of Touraine (Chinon, Bourgueil, Saumur-Champigny) and the rosés of Anjou. {1}(6 marks){/1}",
+"k": "text"
+},
+{
+"t": "Cabernet Franc suits the Loire because it flowers and ripens early; Chinon (south of Loire), Bourgueil and Saint-Nicolas-de-Bourgueil (north): sandy soils → light fruity early drinking; south-facing limestone and clay slopes → fuller, more tannic; some oak, best evolve for years; Saumur and Saumur-Champigny lighter in body and tannin, juicy berry, floral, best young, can be chilled (some fuller producers); Gamay second black grape (Touraine, Anjou) fruity early; Pinot Noir small amounts in Central Vineyards, light; rosés: Rosé de Loire always dry, min 30% Cabernet Franc/Sauvignon, mainly Anjou-Saumur; Cabernet d'Anjou highest quality, always medium-sweet, Cabernet Franc + Sauvignon; Rosé d'Anjou less sweet, mainly Grolleau (high-yielding local) with Cabernet Franc; Touraine rosés dry fresh from many grapes; Sancerre rosé Pinot Noir, pale, dry, delicate; direct pressing or short maceration, inert temperature-controlled fermentation",
+"k": "text"
+},
+{
+"t": "Where the written answers fit in the exam",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 qualification has two separate units. The theory unit is one paper that combines 50 multiple-choice questions with 4 short written-answer questions; the tasting unit is a blind tasting of two wines. Each unit is marked on its own and needs at least 55% to pass, and if you fail one unit you retake only that unit. The written answers therefore sit inside the theory unit, alongside the multiple choice, and together they decide whether you pass theory.",
+"k": "text"
+},
+{
+"t": "That is why short answers deserve their own preparation. A candidate who is strong in multiple choice but freezes in front of a blank page can lose the theory unit, even with good knowledge. The good news is that writing for marks is a learnable technique. Once you understand how points are awarded, you can turn the same knowledge into many more marks.",
+"k": "text"
+},
+{
+"t": "How a written answer is marked",
+"k": "text"
+},
+{
+"t": "Each question is built around a theme, such as a region, a style or a winemaking choice, and is divided into sub-parts, each with the number of marks shown. The examiner works from a list of acceptable points. Every correct, relevant and sufficiently precise point earns a mark, up to the total for that sub-part. Nothing is gained by repeating a point in different words, by writing about something the question did not ask, or by adding general statements that would be true of any wine.",
+"k": "text"
+},
+{
+"t": "Three practical consequences follow. First, the number of marks tells you the minimum number of separate ideas you need: a sub-part worth four marks needs at least four distinct, correct points, and writing one or two more is a sensible safety margin. Second, precision is rewarded: a sub-part on climate earns more for cool continental climate with cold winters and short, warm summers than for a cool climate. Third, explanation is often part of the point itself: if the question asks why, a fact with no link to its effect may earn nothing.",
+"k": "text"
+},
+{
+"t": "The anatomy of a typical question",
+"k": "text"
+},
+{
+"t": "Most questions follow a recognisable pattern. A short introduction names the topic, for example a region or a style. Then come the sub-parts, often moving from description to explanation. A typical set might ask you to describe the climate of a region, explain how it affects the grapes, describe how a wine is made, and finally explain why the wine has a particular style or price. Each sub-part focuses on a different link in the chain that leads from the vineyard to the glass.",
+"k": "text"
+},
+{
+"t": "Reading the sub-parts together before you write anything is valuable. It shows you where the examiner wants each piece of information, so you do not spend your best points on part a when they belong in part c. It also prevents repetition, because a point placed in the wrong sub-part may not be credited where it is needed.",
+"k": "text"
+},
+{
+"t": "A five-step method for every question",
+"k": "text"
+},
+{
+"t": "Read the whole question, all sub-parts included, and underline the command word and the number of marks in each sub-part.",
+"k": "text"
+},
+{
+"t": "Spend about a minute writing a plan in keywords in the margin: one keyword per expected mark, plus one or two extra.",
+"k": "text"
+},
+{
+"t": "Assign each keyword to the right sub-part, so nothing is repeated and nothing is missing.",
+"k": "text"
+},
+{
+"t": "Write each point as a short, complete sentence that links cause and effect, using precise exam vocabulary.",
+"k": "text"
+},
+{
+"t": "Reread quickly: is every sub-part answered, have you named grapes, places and techniques, and does every why have a because?",
+"k": "text"
+},
+{
+"t": "The plan is the step candidates skip under pressure, and it is the one that saves the most marks. Thirty seconds of keywords protects you from forgetting a sub-part, writing a point twice or running out of ideas halfway through.",
+"k": "text"
+},
+{
+"t": "The chain that turns facts into marks",
+"k": "text"
+},
+{
+"t": "Almost every Level 3 written question can be answered with the same logical chain. Start from the natural factors, move to the decisions people make, and end with the wine. Learn to think in this chain and you will rarely be short of points.",
+"k": "text"
+},
+{
+"t": "Link in the chain",
+"k": "text"
+},
+{
+"t": "What to mention",
+"k": "text"
+},
+{
+"t": "Example of a linked sentence",
+"k": "text"
+},
+{
+"t": "Climate and weather",
+"k": "text"
+},
+{
+"t": "Temperature, sunshine, rainfall, diurnal range, risks such as frost",
+"k": "text"
+},
+{
+"t": "Cool nights preserve acidity, so the wine tastes fresh",
+"k": "text"
+},
+{
+"t": "Site and soil",
+"k": "text"
+},
+{
+"t": "Slope, aspect, altitude, water bodies, drainage, heat retention",
+"k": "text"
+},
+{
+"t": "South-facing slopes catch more sunlight, which helps the grapes ripen",
+"k": "text"
+},
+{
+"t": "Grape variety",
+"k": "text"
+},
+{
+"t": "Natural acidity, skin thickness, ripening time, aromatic character",
+"k": "text"
+},
+{
+"t": "An early-ripening variety suits a short growing season",
+"k": "text"
+},
+{
+"t": "Vineyard management",
+"k": "text"
+},
+{
+"t": "Yields, canopy, harvest timing, hand or machine picking",
+"k": "text"
+},
+{
+"t": "Low yields concentrate flavour, which supports higher quality",
+"k": "text"
+},
+{
+"t": "Winemaking",
+"k": "text"
+},
+{
+"t": "Fermentation temperature and vessel, malolactic, lees, oak, blending",
+"k": "text"
+},
+{
+"t": "Cool fermentation in stainless steel keeps primary fruit aromas",
+"k": "text"
+},
+{
+"t": "Maturation",
+"k": "text"
+},
+{
+"t": "Vessel, time, oxygen exposure, bottle ageing",
+"k": "text"
+},
+{
+"t": "Long ageing in old casks adds tertiary notes without strong oak flavour",
+"k": "text"
+},
+{
+"t": "Resulting style and quality",
+"k": "text"
+},
+{
+"t": "Structure, aromas, ageing potential, price drivers",
+"k": "text"
+},
+{
+"t": "High acidity and concentration give the wine potential for ageing",
+"k": "text"
+},
+{
+"t": "You do not need every link for every question. The command word and the sub-part tell you which part of the chain the examiner wants. But knowing the chain means that when you write about a climate, you automatically think about its effect on the grape and then on the wine, which is exactly what explain questions reward.",
+"k": "text"
+},
+{
+"t": "Weak answer, strong answer",
+"k": "text"
+},
+{
+"t": "Consider a practice question of our own: explain why the Mosel produces light, high-acid Riesling of high quality (6 marks). A weak answer reads like this: the Mosel is cold, it has slate soils and steep slopes, Riesling has high acidity, the wines are light. Each statement is correct, yet it is mostly a list. It might collect two or three marks, because several statements lack the link that makes them relevant.",
+"k": "text"
+},
+{
+"t": "A strong answer covers similar facts but explains them. The Mosel is one of the most northerly quality wine regions, with a cool continental climate, so grapes ripen slowly and keep very high acidity. The best vineyards are on steep, south-facing slopes above the river, which maximise exposure to sunlight and allow ripening in a marginal climate. The river reflects light and moderates temperatures, reducing frost risk. Slate soils absorb heat during the day and release it at night, helping ripening, and drain well on the steep slopes. Riesling is late-ripening and frost-hardy and holds its acidity, so the long, cool season develops intense aromas without high sugar, giving low to medium alcohol and light body. The wines are usually made without new oak, which keeps their pronounced fruit and floral character, and the best can age for many years, developing honey and petrol notes.",
+"k": "text"
+},
+{
+"t": "Count the ideas: each sentence carries at least one creditable point, and each point answers the word why. That is the difference between knowing the facts and scoring them.",
+"k": "text"
+},
+{
+"t": "Model answers to more practice questions",
+"k": "text"
+},
+{
+"t": "The questions below are our own practice questions, written in the style of the exam. The answers show the kind of points that earn marks; they are examples of good technique, not official marking schemes.",
+"k": "text"
+},
+{
+"t": "Traditional method sparkling wine",
+"k": "text"
+},
+{
+"t": "Question: describe how a traditional method sparkling wine such as Champagne is made, and explain how this process gives the wine its characteristic flavours (8 marks).",
+"k": "text"
+},
+{
+"t": "Model answer in prose: grapes are picked early, when acidity is high and sugar relatively low, and pressed gently, often as whole bunches, to avoid extracting colour and bitterness from black grapes. The base wines are fermented to dryness and many lots are blended to create a consistent house style, often including reserve wines from earlier vintages. The blend is bottled with a mixture of wine, sugar and yeast, which starts a second fermentation in the closed bottle; the carbon dioxide cannot escape and dissolves into the wine, creating the bubbles. After fermentation the wine rests on its dead yeast cells, the lees, for an extended period, and yeast autolysis releases compounds that give bread, biscuit and toast aromas and a creamier texture. The lees are moved to the neck of the bottle by riddling, frozen and removed during disgorgement. A small addition of wine and sugar, the dosage, then sets the final sweetness level and balances the high acidity. The longer the time on lees, the more pronounced the autolytic character, which is one reason why vintage and prestige wines show more complexity than younger blends.",
+"k": "text"
+},
+{
+"t": "Carbonic maceration in Beaujolais",
+"k": "text"
+},
+{
+"t": "Question: explain how carbonic maceration influences the style of Beaujolais (4 marks).",
+"k": "text"
+},
+{
+"t": "Model answer in prose: whole, uncrushed bunches of Gamay are placed in a vessel filled with carbon dioxide. Without oxygen, fermentation begins inside each intact berry, which produces a small amount of alcohol and distinctive aromas such as kirsch, banana and bubblegum. Colour is extracted from the skins while relatively little tannin is extracted, so the wine is deeply coloured but soft and low in tannin. The berries eventually split and the juice finishes fermenting normally. The result is a fruity, light to medium-bodied red designed to be drunk young, although many producers use only partial carbonic techniques to retain more structure for the crus.",
+"k": "text"
+},
+{
+"t": "Rioja ageing categories",
+"k": "text"
+},
+{
+"t": "Question: describe the ageing requirements for red Rioja labelled Crianza, Reserva and Gran Reserva, and explain how ageing affects the style (6 marks).",
+"k": "text"
+},
+{
+"t": "Model answer in prose: a red Crianza must be aged for at least two years, of which at least one year in oak barrels. A Reserva must be aged for at least three years, of which at least one year in oak. A Gran Reserva must be aged for at least five years, of which at least two years in oak. Traditionally American oak was used, giving vanilla and coconut notes, while many producers now also use French oak, giving more subtle toasty and spicy notes. Long ageing softens the tannins of Tempranillo, and slow oxygen exposure in barrel develops tertiary aromas such as leather, dried fruit and earthy notes, while the bright red fruit of young wines fades. As a result, the longer-aged categories tend to be more complex, more savoury and paler in colour, often garnet with a tawny rim.",
+"k": "text"
+},
+{
+"t": "Fino and Oloroso Sherry",
+"k": "text"
+},
+{
+"t": "Question: compare how Fino and Oloroso Sherry are made and how this affects their style (6 marks).",
+"k": "text"
+},
+{
+"t": "Model answer in prose: both are made from Palomino grapes fermented to a dry base wine and aged in a solera system, which blends wines of different ages and keeps the style consistent. For Fino, the most delicate base wines are fortified to about 15 to 15.5% alcohol, a level at which a layer of yeast called flor can grow on the surface of the wine. Flor protects the wine from oxygen and adds bready, yeasty and almond notes, so Fino is pale, light-bodied and bone dry. For Oloroso, fuller base wines are fortified to about 17%, which prevents flor from growing, so the wine ages oxidatively. Oxygen gradually darkens the wine to brown and develops walnut, toffee and leather notes, while evaporation concentrates it and gives a fuller body and a higher alcohol level. Both are naturally dry, although sweetened styles also exist.",
+"k": "text"
+},
+{
+"t": "Building a bank of reusable explanations",
+"k": "text"
+},
+{
+"t": "Many cause-and-effect links appear in question after question, whatever the region. Learn them as reusable sentences, and you will be able to apply them anywhere in the syllabus. A few examples follow.",
+"k": "text"
+},
+{
+"t": "A large diurnal range preserves acidity and aromatic compounds because the grapes cool down at night.",
+"k": "text"
+},
+{
+"t": "Maritime influence moderates temperatures, lengthening the growing season and reducing extremes.",
+"k": "text"
+},
+{
+"t": "High altitude lowers average temperatures and increases sunlight intensity, giving fresher wines with deeper colour.",
+"k": "text"
+},
+{
+"t": "Poor, well-drained soils limit vigour, so the vine puts energy into fewer, more concentrated grapes.",
+"k": "text"
+},
+{
+"t": "Low yields concentrate flavours and support higher quality and higher prices.",
+"k": "text"
+},
+{
+"t": "Hand harvesting allows selection of healthy bunches and is necessary for whole-bunch pressing or on steep slopes.",
+"k": "text"
+},
+{
+"t": "Cool fermentation in stainless steel retains primary fruit and floral aromas.",
+"k": "text"
+},
+{
+"t": "Malolactic conversion softens acidity and can add buttery notes.",
+"k": "text"
+},
+{
+"t": "Lees contact adds texture and savoury, bready notes.",
+"k": "text"
+},
+{
+"t": "New oak adds vanilla, toast and spice, plus some tannin; old oak allows gentle oxygen exposure without adding much flavour.",
+"k": "text"
+},
+{
+"t": "Write each reusable link on a flashcard with a region where it applies on the back. When you revise a new region, ask which of your cards explain its style. This turns isolated facts into a toolkit you can carry into any question.",
+"k": "text"
+},
+{
+"t": "Timing the written section",
+"k": "text"
+},
+{
+"t": "With four questions to answer, timing is as important as knowledge. Many candidates write a long first answer and then rush the last one, losing far more marks than they gained. Set a fixed time per question, based on the total length of the paper your school confirms and on the time you plan for the multiple choice, and practise it until it is automatic.",
+"k": "text"
+},
+{
+"t": "A useful rule is to share your time in proportion to the marks: a sub-part worth twice as many marks deserves about twice the time. If you get stuck, write the points you are sure of, leave a space and move on; you can return at the end if time allows. A partially answered question still collects marks, while an unanswered one collects none.",
+"k": "text"
+},
+{
+"t": "Common mistakes in written answers",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "What happens",
+"k": "text"
+},
+{
+"t": "Better approach",
+"k": "text"
+},
+{
+"t": "Writing a list of keywords",
+"k": "text"
+},
+{
+"t": "Facts without links often fail to earn explain marks",
+"k": "text"
+},
+{
+"t": "Write short sentences that connect cause and effect",
+"k": "text"
+},
+{
+"t": "Ignoring the command word",
+"k": "text"
+},
+{
+"t": "Description given where explanation was asked, or the reverse",
+"k": "text"
+},
+{
+"t": "Underline the command word and answer that exact demand",
+"k": "text"
+},
+{
+"t": "Answering the wrong sub-part",
+"k": "text"
+},
+{
+"t": "A correct point is not credited where it is needed",
+"k": "text"
+},
+{
+"t": "Plan which keyword goes to which sub-part before writing",
+"k": "text"
+},
+{
+"t": "Vague statements",
+"k": "text"
+},
+{
+"t": "Good climate or quality wine earns nothing",
+"k": "text"
+},
+{
+"t": "Name the climate type, grape, technique and its effect",
+"k": "text"
+},
+{
+"t": "Repeating the same point",
+"k": "text"
+},
+{
+"t": "Only one mark per idea",
+"k": "text"
+},
+{
+"t": "Count distinct ideas against the marks available",
+"k": "text"
+},
+{
+"t": "Writing everything you know about a region",
+"k": "text"
+},
+{
+"t": "Time lost on irrelevant material",
+"k": "text"
+},
+{
+"t": "Stick to what the sub-part asks",
+"k": "text"
+},
+{
+"t": "Leaving a sub-part blank",
+"k": "text"
+},
+{
+"t": "Certain loss of marks",
+"k": "text"
+},
+{
+"t": "Write at least the points you are sure of",
+"k": "text"
+},
+{
+"t": "How to practise and mark yourself",
+"k": "text"
+},
+{
+"t": "The most effective practice is regular and short. Writing one answer a day, timed, is far more useful than writing ten in one weekend. After writing, compare your answer with a list of key points and count the points you actually hit, not the ones you meant to write. Be strict: if a point is vague or unexplained, do not give yourself the mark.",
+"k": "text"
+},
+{
+"t": "Over time, look for patterns in your missed points. Perhaps you consistently forget the effect of winemaking, or you describe climate without naming its consequences. Those patterns tell you what to revise. Practising on paper is important too, because handwriting is slower than typing and the exam is written by hand.",
+"k": "text"
+},
+{
+"t": "A weekly routine that works",
+"k": "text"
+},
+{
+"t": "Monday to Thursday: one timed written answer per day on the region you are studying, marked against key points.",
+"k": "text"
+},
+{
+"t": "Friday: rewrite the weakest answer of the week, aiming to add two more creditable points.",
+"k": "text"
+},
+{
+"t": "Weekend: one mixed set of two questions from earlier chapters, to keep older topics alive.",
+"k": "text"
+},
+{
+"t": "Every second week: a full theory mock with multiple choice and four written answers under exam conditions.",
+"k": "text"
+},
+{
+"t": "Final checklist for written answers",
+"k": "text"
+},
+{
+"t": "I read all sub-parts before writing and underlined each command word and mark allocation.",
+"k": "text"
+},
+{
+"t": "I planned one keyword per mark, plus a small margin, and assigned each to its sub-part.",
+"k": "text"
+},
+{
+"t": "Every why in the question has a because in my answer.",
+"k": "text"
+},
+{
+"t": "I named specific grapes, places, techniques and their effects.",
+"k": "text"
+},
+{
+"t": "I avoided repetition and irrelevant material.",
+"k": "text"
+},
+{
+"t": "I kept to my time per question and attempted every sub-part.",
+"k": "text"
+},
+{
+"t": "The Wine Goat app helps you train exactly this: you write your own answer to each short-answer question and get it marked instantly against the key points, with a model answer to compare, so you see straight away which points you hit and which you missed.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many written questions are in the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "There are 4 short written answer questions in the theory exam, each divided into sub-questions.",
+"k": "text"
+},
+{
+"t": "How are WSET Level 3 written answers marked?",
+"k": "text"
+},
+{
+"t": "Marks are awarded for accurate, relevant points that explain cause and effect, so a structured, specific answer scores more than a list of keywords.",
+"k": "text"
+},
+{
+"t": "Where can I practise WSET 3 short answer questions with marking?",
+"k": "text"
+},
+{
+"t": "The Wine Goat has 101 short answer questions marked instantly against the key points, with a model answer for each one.",
+"k": "text"
+},
+{
+"t": "How many marks does each written question carry in WSET Level 3?",
+"k": "text"
+},
+{
+"t": "Each written question is divided into sub-parts, and the marks for each sub-part are shown on the paper. Use those figures as your guide: the number of marks tells you how many distinct, correct points the examiner expects. Writing one or two extra relevant points gives a safety margin, but repeating the same idea in different words never earns an additional mark.",
+"k": "text"
+},
+{
+"t": "Can I pass the theory unit if my written answers are weak?",
+"k": "text"
+},
+{
+"t": "The theory unit combines the multiple-choice questions and the written answers, and you need at least 55% overall in the unit to pass it. Strong multiple choice can partly compensate for weaker written answers, but relying on that is risky. Because the written answers reward technique as well as knowledge, a few weeks of regular practice usually brings a significant improvement.",
+"k": "text"
+},
+{
+"t": "Should I write in full sentences or bullet points?",
+"k": "text"
+},
+{
+"t": "Short, complete sentences are the safest choice, because they let you link a cause to its effect, which is what explain questions reward. Bullet points can work for questions that simply ask you to state or list, but even then each point should be precise. Avoid single keywords with no context: they often fail to show the examiner that you understand why something happens.",
+"k": "text"
+},
+{
+"t": "What should I do if I do not know the answer to a sub-part?",
+"k": "text"
+},
+{
+"t": "Do not leave it blank. Use the chain of climate, site, grape, vineyard, winemaking and style to find related points you are sure of, and write them clearly. Partial answers often collect some marks. Then move on to protect the time for other questions, and return at the end if you have time left to add more detail.",
+"k": "text"
+},
+{
+"t": "How long before the exam should I start practising written answers?",
+"k": "text"
+},
+{
+"t": "Start in the first weeks of your course, not just before the exam. Writing answers early helps you learn the material in the cause-and-effect form the exam rewards, and it builds the speed you need to write under time pressure. Short daily practice from the beginning is far more effective than intensive writing in the last few days.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3 short answer questions: examples & model answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

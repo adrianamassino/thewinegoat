@@ -3,9 +3,9 @@
 "source": "wset-level-3-exam-format/index.html",
 "url": "/wset-level-3-exam-format/",
 "region": "main",
-"sha": "1fb4e088da90",
-"words": 3359,
-"segment_words": 3422,
+"sha": "cdf3ff173fed",
+"words": 3385,
+"segment_words": 3460,
 "segments": [
 {
 "t": "WSET Level 3 exam format explained: MCQ, short answers, tasting",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "The WSET Level 3 exam, explained part by part (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The WSET Level 3 exam, explained part by part | WSET Level 3 exam format",
@@ -130,7 +135,7 @@
 "k": "text"
 },
 {
-"t": "Each unit is marked separately. With 55% or more in both units you pass; higher overall results give a Merit or a Distinction. Results usually arrive a few weeks after the exam.",
+"t": "Each unit is marked separately. With 55% or more in both units you pass; an overall 65% gives a Merit, and 80% with at least 65% in each paper a Distinction. Results usually arrive a few weeks after the exam.",
 "k": "text"
 },
 {
@@ -218,7 +223,7 @@
 "k": "text"
 },
 {
-"t": "Counted within the theory unit (55% overall in the unit)",
+"t": "At least 55% in this part (each theory part is passed on its own)",
 "k": "text"
 },
 {
@@ -782,7 +787,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -807,7 +812,7 @@
 "k": "text"
 },
 {
-"t": "The theory paper (multiple choice plus short written answers) and the tasting are taken on the same exam day; the theory paper lasts about two hours and the tasting is short. Your school confirms the exact timetable.",
+"t": "The theory paper (multiple choice plus short written answers) and the tasting are taken on the same exam day; the theory paper lasts two hours and the tasting 30 minutes. Your school confirms the exact timetable.",
 "k": "text"
 },
 {
@@ -815,7 +820,7 @@
 "k": "text"
 },
 {
-"t": "You need at least 55% in the theory unit and at least 55% in the tasting unit. The two units are marked separately.",
+"t": "You need at least 55% in each part of the theory unit (multiple choice and written answers) and at least 55% in the tasting unit. The two units are marked separately.",
 "k": "text"
 },
 {
@@ -831,7 +836,7 @@
 "k": "text"
 },
 {
-"t": "The theory unit combines two parts in a single paper: 50 multiple-choice questions, each with one correct option out of four, and 4 short written-answer questions divided into sub-parts. The multiple choice tests breadth across the syllabus, while the written answers test your ability to explain causes and effects. Both contribute to the theory unit, which needs at least 55% to pass.",
+"t": "The theory unit combines two parts in a single paper: 50 multiple-choice questions, each with one correct option out of four, and 4 short written-answer questions divided into sub-parts. The multiple choice tests breadth across the syllabus, while the written answers test your ability to explain causes and effects. To pass the theory unit you need at least 55% in each of the two parts.",
 "k": "text"
 },
 {
