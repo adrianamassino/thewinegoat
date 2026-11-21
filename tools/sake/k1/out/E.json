@@ -1,0 +1,944 @@
+{
+ "questions": [
+  {
+   "c": "k06",
+   "q": [
+    "Quale coppia di gradi richiede la stessa levigatura minima e differisce solo per l'alcol aggiunto?",
+    "Quelle paire de grades exige le même polissage minimal et ne diffère que par l'alcool ajouté ?",
+    "Which pair of grades shares the same minimum polishing and differs only in added alcohol?",
+    "¿Qué pareja de grados exige el mismo pulido mínimo y solo se diferencia por el alcohol añadido?"
+   ],
+   "o": [
+    [
+     "Daiginjō e junmai daiginjō",
+     "Daiginjō et junmai daiginjō",
+     "Daiginjō and junmai daiginjō",
+     "Daiginjō y junmai daiginjō"
+    ],
+    [
+     "Honjōzō e ginjō",
+     "Honjōzō et ginjō",
+     "Honjōzō and ginjō",
+     "Honjōzō y ginjō"
+    ],
+    [
+     "Junmai ginjō e daiginjō",
+     "Junmai ginjō et daiginjō",
+     "Junmai ginjō and daiginjō",
+     "Junmai ginjō y daiginjō"
+    ],
+    [
+     "Futsū-shu e junmai daiginjō",
+     "Futsū-shu et junmai daiginjō",
+     "Futsū-shu and junmai daiginjō",
+     "Futsū-shu y junmai daiginjō"
+    ]
+   ],
+   "e": [
+    "Entrambe chiedono riso al 50% o meno; solo la versione junmai è senza alcol aggiunto.",
+    "Les deux demandent un riz à 50 % ou moins ; seule la version junmai est sans alcool ajouté.",
+    "Both need rice at 50% or less; only the junmai version has no added alcohol.",
+    "Ambas piden arroz al 50 % o menos; solo la versión junmai no lleva alcohol añadido."
+   ],
+   "d": [
+    "Honjōzō (70%) e ginjō (60%) hanno soglie diverse, come junmai ginjō (60%) e daiginjō (50%). Il futsū-shu non è un grado premium.",
+    "Honjōzō (70 %) et ginjō (60 %) ont des seuils différents, tout comme junmai ginjō (60 %) et daiginjō (50 %). Le futsū-shu n'est pas un grade premium.",
+    "Honjōzō (70%) and ginjō (60%) have different limits, as do junmai ginjō (60%) and daiginjō (50%). Futsū-shu is not a premium grade.",
+    "Honjōzō (70 %) y ginjō (60 %) tienen límites distintos, igual que junmai ginjō (60 %) y daiginjō (50 %). El futsū-shu no es un grado premium."
+   ]
+  },
+  {
+   "c": "k06",
+   "q": [
+    "Un sake premium profuma di cereali e yogurt, con acidità vivace e molto umami. A quale famiglia appartiene più probabilmente?",
+    "Un saké premium sent les céréales et le yaourt, avec une acidité vive et beaucoup d'umami. À quelle famille appartient-il le plus probablement ?",
+    "A premium sake smells of cereal and yoghurt, with lively acidity and plenty of umami. Which family does it most likely belong to?",
+    "Un sake premium huele a cereal y yogur, con acidez viva y mucho umami. ¿A qué familia pertenece con más probabilidad?"
+   ],
+   "o": [
+    [
+     "Junmai o honjōzō",
+     "Junmai ou honjōzō",
+     "Junmai or honjōzō",
+     "Junmai u honjōzō"
+    ],
+    [
+     "Ginjō o daiginjō",
+     "Ginjō ou daiginjō",
+     "Ginjō or daiginjō",
+     "Ginjō o daiginjō"
+    ],
+    [
+     "Junmai ginjō",
+     "Junmai ginjō",
+     "Junmai ginjō",
+     "Junmai ginjō"
+    ],
+    [
+     "Junmai daiginjō",
+     "Junmai daiginjō",
+     "Junmai daiginjō",
+     "Junmai daiginjō"
+    ]
+   ],
+   "e": [
+    "Cereali, note lattiche, più acidità e umami: è lo stile di junmai e honjōzō.",
+    "Céréales, notes lactiques, plus d'acidité et d'umami : c'est le style des junmai et honjōzō.",
+    "Cereal, lactic notes, more acidity and umami: that is the junmai and honjōzō style.",
+    "Cereal, notas lácticas, más acidez y umami: es el estilo de junmai y honjōzō."
+   ],
+   "d": [
+    "Tutte le altre opzioni contengono la parola ginjō: indicano sake fruttati e floreali, con meno acidità e umami.",
+    "Toutes les autres réponses contiennent le mot ginjō : elles désignent des sakés fruités et floraux, avec moins d'acidité et d'umami.",
+    "Every other option contains the word ginjō: those sakes are fruity and floral, with less acidity and umami.",
+    "Todas las demás opciones contienen la palabra ginjō: son sakes afrutados y florales, con menos acidez y umami."
+   ]
+  },
+  {
+   "c": "k06",
+   "q": [
+    "Quale affermazione sul daiginjō è corretta?",
+    "Quelle affirmation sur le daiginjō est exacte ?",
+    "Which statement about daiginjō is true?",
+    "¿Qué afirmación sobre el daiginjō es correcta?"
+   ],
+   "o": [
+    [
+     "Riso al 50% o meno e gli aromi fruttati e floreali più puri",
+     "Riz à 50 % ou moins et les arômes fruités et floraux les plus purs",
+     "Rice at 50% or less and the purest fruity, floral aromas",
+     "Arroz al 50 % o menos y los aromas afrutados y florales más puros"
+    ],
+    [
+     "Non contiene mai alcol distillato aggiunto",
+     "Il ne contient jamais d'alcool distillé ajouté",
+     "It never contains added distilled alcohol",
+     "Nunca lleva alcohol destilado añadido"
+    ],
+    [
+     "È un sake di base, non premium",
+     "C'est un saké de base, non premium",
+     "It is a basic, non-premium sake",
+     "Es un sake básico, no premium"
+    ],
+    [
+     "È sempre torbido e frizzante",
+     "Il est toujours trouble et pétillant",
+     "It is always cloudy and sparkling",
+     "Siempre es turbio y espumoso"
+    ]
+   ],
+   "e": [
+    "Daiginjō, il «grande ginjō»: riso molto levigato e aromi purissimi.",
+    "Daiginjō, le « grand ginjō » : riz très poli et arômes très purs.",
+    "Daiginjō, the 'big ginjō': highly polished rice and very pure aromas.",
+    "Daiginjō, el «gran ginjō»: arroz muy pulido y aromas muy puros."
+   ],
+   "d": [
+    "Senza la parola junmai, al daiginjō è stato aggiunto alcol distillato. È un grado premium; torbido e frizzante descrivono stili speciali, non questo grado.",
+    "Sans le mot junmai, le daiginjō a reçu de l'alcool distillé. C'est un grade premium ; trouble et pétillant décrivent des styles spéciaux, pas ce grade.",
+    "Without the word junmai, a daiginjō has had distilled alcohol added. It is a premium grade; cloudy and sparkling describe speciality styles, not this grade.",
+    "Sin la palabra junmai, al daiginjō se le ha añadido alcohol destilado. Es un grado premium; turbio y espumoso describen estilos especiales, no este grado."
+   ]
+  },
+  {
+   "c": "k06",
+   "q": [
+    "Quale di questi sake NON è un grado premium?",
+    "Lequel de ces sakés n'est PAS un grade premium ?",
+    "Which of these sakes is NOT a premium grade?",
+    "¿Cuál de estos sakes NO es un grado premium?"
+   ],
+   "o": [
+    [
+     "Futsū-shu",
+     "Futsū-shu",
+     "Futsū-shu",
+     "Futsū-shu"
+    ],
+    [
+     "Honjōzō",
+     "Honjōzō",
+     "Honjōzō",
+     "Honjōzō"
+    ],
+    [
+     "Junmai",
+     "Junmai",
+     "Junmai",
+     "Junmai"
+    ],
+    [
+     "Ginjō",
+     "Ginjō",
+     "Ginjō",
+     "Ginjō"
+    ]
+   ],
+   "e": [
+    "Il futsū-shu è il sake di base; gli altri tre sono gradi premium.",
+    "Le futsū-shu est le saké de base ; les trois autres sont des grades premium.",
+    "Futsū-shu is basic sake; the other three are premium grades.",
+    "El futsū-shu es el sake básico; los otros tres son grados premium."
+   ],
+   "d": [
+    "Honjōzō, junmai e ginjō fanno parte dei sei principali gradi premium, ciascuno con regole precise di produzione.",
+    "Honjōzō, junmai et ginjō font partie des six principaux grades premium, chacun avec des règles de production précises.",
+    "Honjōzō, junmai and ginjō are among the six main premium grades, each with its own production rules.",
+    "Honjōzō, junmai y ginjō forman parte de los seis grados premium principales, cada uno con reglas de elaboración precisas."
+   ]
+  },
+  {
+   "c": "k06",
+   "q": [
+    "Riso levigato al 55% e alcol distillato aggiunto prima della filtrazione: qual è il grado più alto possibile?",
+    "Riz poli à 55 % et alcool distillé ajouté avant la filtration : quel est le grade le plus élevé possible ?",
+    "Rice polished to 55% and distilled alcohol added before filtration: what is the highest grade possible?",
+    "Arroz pulido al 55 % y alcohol destilado añadido antes de la filtración: ¿cuál es el grado más alto posible?"
+   ],
+   "o": [
+    [
+     "Ginjō",
+     "Ginjō",
+     "Ginjō",
+     "Ginjō"
+    ],
+    [
+     "Daiginjō",
+     "Daiginjō",
+     "Daiginjō",
+     "Daiginjō"
+    ],
+    [
+     "Junmai ginjō",
+     "Junmai ginjō",
+     "Junmai ginjō",
+     "Junmai ginjō"
+    ],
+    [
+     "Junmai daiginjō",
+     "Junmai daiginjō",
+     "Junmai daiginjō",
+     "Junmai daiginjō"
+    ]
+   ],
+   "e": [
+    "55% rientra nella soglia del ginjō (60% o meno) ma non in quella del daiginjō (50%).",
+    "55 % respecte le seuil du ginjō (60 % ou moins) mais pas celui du daiginjō (50 %).",
+    "55% meets the ginjō limit (60% or less) but not the daiginjō limit (50%).",
+    "El 55 % cumple el límite del ginjō (60 % o menos), pero no el del daiginjō (50 %)."
+   ],
+   "d": [
+    "I due gradi con junmai escludono l'alcol aggiunto. Per il daiginjō servirebbe riso al 50% o meno.",
+    "Les deux grades junmai excluent l'alcool ajouté. Pour le daiginjō, il faudrait un riz à 50 % ou moins.",
+    "The two junmai grades rule out added alcohol. Daiginjō would need rice at 50% or less.",
+    "Los dos grados junmai excluyen el alcohol añadido. Para el daiginjō haría falta arroz al 50 % o menos."
+   ]
+  },
+  {
+   "c": "k06",
+   "q": [
+    "Rispetto agli stili ginjō, junmai e honjōzō hanno di solito…",
+    "Par rapport aux styles ginjō, les junmai et honjōzō ont en général…",
+    "Compared with ginjō styles, junmai and honjōzō usually have…",
+    "Frente a los estilos ginjō, junmai y honjōzō suelen tener…"
+   ],
+   "o": [
+    [
+     "più acidità e umami",
+     "plus d'acidité et d'umami",
+     "more acidity and umami",
+     "más acidez y umami"
+    ],
+    [
+     "meno acidità e umami",
+     "moins d'acidité et d'umami",
+     "less acidity and umami",
+     "menos acidez y umami"
+    ],
+    [
+     "molto più alcol",
+     "beaucoup plus d'alcool",
+     "much more alcohol",
+     "mucho más alcohol"
+    ],
+    [
+     "un colore ambrato",
+     "une couleur ambrée",
+     "an amber colour",
+     "un color ámbar"
+    ]
+   ],
+   "e": [
+    "Lo stile cereale e lattico porta con sé più acidità e umami.",
+    "Le style céréale et lactique s'accompagne de plus d'acidité et d'umami.",
+    "The cereal, lactic style comes with more acidity and umami.",
+    "El estilo de cereal y lácticos viene con más acidez y umami."
+   ],
+   "d": [
+    "Meno acidità e umami è il profilo dei ginjō. Grado alcolico e colore sono simili in quasi tutti i sake premium.",
+    "Moins d'acidité et d'umami, c'est le profil des ginjō. Le degré d'alcool et la couleur sont proches dans presque tous les sakés premium.",
+    "Less acidity and umami is the ginjō profile. Strength and colour are similar across nearly all premium sakes.",
+    "Menos acidez y umami es el perfil de los ginjō. La graduación y el color son parecidos en casi todos los sakes premium."
+   ]
+  },
+  {
+   "c": "k07",
+   "q": [
+    "Come si scrive ginjō?",
+    "Comment s'écrit ginjō ?",
+    "How is ginjō written?",
+    "¿Cómo se escribe ginjō?"
+   ],
+   "o": [
+    [
+     "吟醸",
+     "吟醸",
+     "吟醸",
+     "吟醸"
+    ],
+    [
+     "純米",
+     "純米",
+     "純米",
+     "純米"
+    ],
+    [
+     "本醸造",
+     "本醸造",
+     "本醸造",
+     "本醸造"
+    ],
+    [
+     "大吟醸",
+     "大吟醸",
+     "大吟醸",
+     "大吟醸"
+    ]
+   ],
+   "e": [
+    "吟 (gin) + 醸 (jō) = ginjō.",
+    "吟 (gin) + 醸 (jō) = ginjō.",
+    "吟 (gin) + 醸 (jō) = ginjō.",
+    "吟 (gin) + 醸 (jō) = ginjō."
+   ],
+   "d": [
+    "純米 è junmai e 本醸造 honjōzō. 大吟醸 è daiginjō: gli stessi due kanji preceduti da 大 (dai).",
+    "純米 se lit junmai et 本醸造 honjōzō. 大吟醸 est daiginjō : les deux mêmes kanji précédés de 大 (dai).",
+    "純米 is junmai and 本醸造 honjōzō. 大吟醸 is daiginjō: the same two kanji with 大 (dai) in front.",
+    "純米 es junmai y 本醸造 honjōzō. 大吟醸 es daiginjō: los mismos dos kanji precedidos de 大 (dai)."
+   ]
+  },
+  {
+   "c": "k07",
+   "q": [
+    "Su un'etichetta si legge 純米大吟醸. Che cosa c'è nella bottiglia?",
+    "Une étiquette indique 純米大吟醸. Que contient la bouteille ?",
+    "A label reads 純米大吟醸. What is in the bottle?",
+    "En una etiqueta se lee 純米大吟醸. ¿Qué hay en la botella?"
+   ],
+   "o": [
+    [
+     "Junmai daiginjō: riso al 50% o meno, nessun alcol aggiunto",
+     "Junmai daiginjō : riz à 50 % ou moins, sans alcool ajouté",
+     "Junmai daiginjō: rice at 50% or less, no added alcohol",
+     "Junmai daiginjō: arroz al 50 % o menos, sin alcohol añadido"
+    ],
+    [
+     "Daiginjō: riso al 50% o meno, con alcol aggiunto",
+     "Daiginjō : riz à 50 % ou moins, avec alcool ajouté",
+     "Daiginjō: rice at 50% or less, with added alcohol",
+     "Daiginjō: arroz al 50 % o menos, con alcohol añadido"
+    ],
+    [
+     "Junmai ginjō: riso al 60% o meno, nessun alcol aggiunto",
+     "Junmai ginjō : riz à 60 % ou moins, sans alcool ajouté",
+     "Junmai ginjō: rice at 60% or less, no added alcohol",
+     "Junmai ginjō: arroz al 60 % o menos, sin alcohol añadido"
+    ],
+    [
+     "Honjōzō: riso al 70% o meno, con alcol aggiunto",
+     "Honjōzō : riz à 70 % ou moins, avec alcool ajouté",
+     "Honjōzō: rice at 70% or less, with added alcohol",
+     "Honjōzō: arroz al 70 % o menos, con alcohol añadido"
+    ]
+   ],
+   "e": [
+    "純米 (junmai) + 大吟醸 (daiginjō): i due termini si sommano.",
+    "純米 (junmai) + 大吟醸 (daiginjō) : les deux termes s'additionnent.",
+    "純米 (junmai) + 大吟醸 (daiginjō): the two terms add up.",
+    "純米 (junmai) + 大吟醸 (daiginjō): los dos términos se suman."
+   ],
+   "d": [
+    "Senza 純米 sarebbe un daiginjō con alcol aggiunto; senza 大 sarebbe un junmai ginjō. Honjōzō si scrive 本醸造.",
+    "Sans 純米, ce serait un daiginjō avec alcool ajouté ; sans 大, un junmai ginjō. Honjōzō s'écrit 本醸造.",
+    "Without 純米 it would be a daiginjō with added alcohol; without 大, a junmai ginjō. Honjōzō is written 本醸造.",
+    "Sin 純米 sería un daiginjō con alcohol añadido; sin 大, un junmai ginjō. Honjōzō se escribe 本醸造."
+   ]
+  },
+  {
+   "c": "k07",
+   "q": [
+    "Quale kanji significa «grande» e distingue in etichetta un daiginjō da un ginjō?",
+    "Quel kanji signifie « grand » et distingue sur l'étiquette un daiginjō d'un ginjō ?",
+    "Which kanji means 'big' and tells a daiginjō from a ginjō on a label?",
+    "¿Qué kanji significa «grande» y distingue en la etiqueta un daiginjō de un ginjō?"
+   ],
+   "o": [
+    [
+     "大",
+     "大",
+     "大",
+     "大"
+    ],
+    [
+     "純",
+     "純",
+     "純",
+     "純"
+    ],
+    [
+     "本",
+     "本",
+     "本",
+     "本"
+    ],
+    [
+     "造",
+     "造",
+     "造",
+     "造"
+    ]
+   ],
+   "e": [
+    "大 si legge dai: 大吟醸 è il «grande ginjō».",
+    "大 se lit dai : 大吟醸 est le « grand ginjō ».",
+    "大 reads dai: 大吟醸 is the 'big ginjō'.",
+    "大 se lee dai: 大吟醸 es el «gran ginjō»."
+   ],
+   "d": [
+    "純 è il jun di junmai; 本 e 造 sono il primo e l'ultimo kanji di honjōzō.",
+    "純 est le jun de junmai ; 本 et 造 sont le premier et le dernier kanji de honjōzō.",
+    "純 is the jun of junmai; 本 and 造 are the first and last kanji of honjōzō.",
+    "純 es el jun de junmai; 本 y 造 son el primer y el último kanji de honjōzō."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quali sono i quattro stili speciali da conoscere a questo livello?",
+    "Quels sont les quatre styles spéciaux à connaître à ce niveau ?",
+    "Which four speciality styles should you know at this level?",
+    "¿Cuáles son los cuatro estilos especiales que hay que conocer en este nivel?"
+   ],
+   "o": [
+    [
+     "Nama, nigori, sake frizzante, koshu",
+     "Nama, nigori, saké pétillant, koshu",
+     "Nama, nigori, sparkling sake, koshu",
+     "Nama, nigori, sake espumoso, koshu"
+    ],
+    [
+     "Junmai, honjōzō, ginjō, daiginjō",
+     "Junmai, honjōzō, ginjō, daiginjō",
+     "Junmai, honjōzō, ginjō, daiginjō",
+     "Junmai, honjōzō, ginjō, daiginjō"
+    ],
+    [
+     "Futsū-shu, nama, junmai, koshu",
+     "Futsū-shu, nama, junmai, koshu",
+     "Futsū-shu, nama, junmai, koshu",
+     "Futsū-shu, nama, junmai, koshu"
+    ],
+    [
+     "Nigori, tokkuri, masu, o-choko",
+     "Nigori, tokkuri, masu, o-choko",
+     "Nigori, tokkuri, masu, o-choko",
+     "Nigori, tokkuri, masu, o-choko"
+    ]
+   ],
+   "e": [
+    "Non pastorizzato, torbido, con bollicine, invecchiato: nama, nigori, frizzante, koshu.",
+    "Non pasteurisé, trouble, à bulles, vieilli : nama, nigori, pétillant, koshu.",
+    "Unpasteurised, cloudy, bubbly, aged: nama, nigori, sparkling, koshu.",
+    "Sin pasteurizar, turbio, con burbujas, envejecido: nama, nigori, espumoso, koshu."
+   ],
+   "d": [
+    "Junmai, honjōzō, ginjō e daiginjō sono gradi premium; il futsū-shu è il sake di base. Tokkuri, masu e o-choko sono recipienti di servizio.",
+    "Junmai, honjōzō, ginjō et daiginjō sont des grades premium ; le futsū-shu est le saké de base. Tokkuri, masu et o-choko sont des récipients de service.",
+    "Junmai, honjōzō, ginjō and daiginjō are premium grades; futsū-shu is basic sake. Tokkuri, masu and o-choko are serving vessels.",
+    "Junmai, honjōzō, ginjō y daiginjō son grados premium; el futsū-shu es el sake básico. Tokkuri, masu y o-choko son recipientes de servicio."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quale stile speciale nasce dal SALTARE una tappa di produzione?",
+    "Quel style spécial naît du fait de SAUTER une étape de l'élaboration ?",
+    "Which speciality style comes from SKIPPING a production step?",
+    "¿Qué estilo especial nace de SALTARSE un paso de la elaboración?"
+   ],
+   "o": [
+    [
+     "Nama",
+     "Nama",
+     "Nama",
+     "Nama"
+    ],
+    [
+     "Koshu",
+     "Koshu",
+     "Koshu",
+     "Koshu"
+    ],
+    [
+     "Sake frizzante",
+     "Saké pétillant",
+     "Sparkling sake",
+     "Sake espumoso"
+    ],
+    [
+     "Daiginjō",
+     "Daiginjō",
+     "Daiginjō",
+     "Daiginjō"
+    ]
+   ],
+   "e": [
+    "Il nama salta la pastorizzazione.",
+    "Le nama saute la pasteurisation.",
+    "Nama skips pasteurisation.",
+    "El nama se salta la pasteurización."
+   ],
+   "d": [
+    "Il koshu aggiunge una tappa, l'invecchiamento; nel frizzante si scioglie anidride carbonica. Daiginjō è un grado, non uno stile speciale.",
+    "Le koshu ajoute une étape, le vieillissement ; le pétillant contient du gaz carbonique dissous. Daiginjō est un grade, pas un style spécial.",
+    "Koshu adds a step, ageing; sparkling sake has carbon dioxide dissolved in it. Daiginjō is a grade, not a speciality style.",
+    "El koshu añade un paso, el envejecimiento; en el espumoso se disuelve dióxido de carbono. Daiginjō es un grado, no un estilo especial."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Com'è di solito un nama appena messo in vendita?",
+    "Comment se présente en général un nama au moment de sa mise en vente ?",
+    "What is a nama usually like when it has just been released?",
+    "¿Cómo suele ser un nama recién salido a la venta?"
+   ],
+   "o": [
+    [
+     "Particolarmente vivace e fresco",
+     "Particulièrement vif et frais",
+     "Particularly lively and fresh",
+     "Especialmente vivo y fresco"
+    ],
+    [
+     "Ricco, dolce, con note di frutta secca",
+     "Riche, doux, aux notes de fruits secs",
+     "Rich, sweet, with nutty notes",
+     "Rico, dulce, con notas de frutos secos"
+    ],
+    [
+     "Ambrato e molto denso",
+     "Ambré et très épais",
+     "Amber and very thick",
+     "Ámbar y muy denso"
+    ],
+    [
+     "Privo di aromi",
+     "Sans aucun arôme",
+     "Without any aroma",
+     "Sin ningún aroma"
+    ]
+   ],
+   "e": [
+    "Senza pastorizzazione il nama esce particolarmente vivace e fresco.",
+    "Sans pasteurisation, le nama sort particulièrement vif et frais.",
+    "With no pasteurisation, nama is released tasting especially lively and fresh.",
+    "Sin pasteurización, el nama sale especialmente vivo y fresco."
+   ],
+   "d": [
+    "Ricco, dolce e ambrato descrive piuttosto un koshu. La freschezza del nama dura poco: per questo va tenuto in frigorifero e bevuto presto.",
+    "Riche, doux et ambré décrit plutôt un koshu. La fraîcheur du nama dure peu : il faut donc le garder au réfrigérateur et le boire vite.",
+    "Rich, sweet and amber sounds more like koshu. Nama's freshness does not last: hence the fridge and drinking it soon.",
+    "Rico, dulce y ámbar describe más bien un koshu. El frescor del nama dura poco: por eso se guarda en la nevera y se bebe pronto."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Perché si scrive di solito nama-zake e non nama-sake?",
+    "Pourquoi écrit-on le plus souvent nama-zake et non nama-sake ?",
+    "Why is it usually spelled nama-zake rather than nama-sake?",
+    "¿Por qué suele escribirse nama-zake y no nama-sake?"
+   ],
+   "o": [
+    [
+     "In giapponese, in questa parola la «s» si addolcisce in «z»",
+     "En japonais, dans ce mot, le « s » s'adoucit en « z »",
+     "In Japanese the 's' softens to a 'z' in this word",
+     "En japonés, en esta palabra la «s» se suaviza en «z»"
+    ],
+    [
+     "Zake è un'altra bevanda, a base di orzo",
+     "Le zake est une autre boisson, à base d'orge",
+     "Zake is a different drink, made from barley",
+     "El zake es otra bebida, a base de cebada"
+    ],
+    [
+     "Zake significa «invecchiato»",
+     "Zake signifie « vieilli »",
+     "Zake means 'aged'",
+     "Zake significa «envejecido»"
+    ],
+    [
+     "È il nome della regione di origine",
+     "C'est le nom de la région d'origine",
+     "It is the name of the region of origin",
+     "Es el nombre de la región de origen"
+    ]
+   ],
+   "e": [
+    "È solo una questione di pronuncia: nama-zake è sake non pastorizzato.",
+    "C'est une simple question de prononciation : le nama-zake est un saké non pasteurisé.",
+    "It is just pronunciation: nama-zake is unpasteurised sake.",
+    "Es solo una cuestión de pronunciación: nama-zake es sake sin pasteurizar."
+   ],
+   "d": [
+    "Zake non è un'altra bevanda né un luogo, e il sake invecchiato si chiama koshu.",
+    "Zake n'est ni une autre boisson ni un lieu, et le saké vieilli s'appelle koshu.",
+    "Zake is neither another drink nor a place, and aged sake is called koshu.",
+    "Zake no es otra bebida ni un lugar, y el sake envejecido se llama koshu."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Un sake appare bianco latte, con minuscoli frammenti di riso. Di quale stile si tratta?",
+    "Un saké est d'un blanc laiteux, avec de minuscules fragments de riz. De quel style s'agit-il ?",
+    "A sake looks milky white with tiny fragments of rice. Which style is it?",
+    "Un sake se ve blanco lechoso, con diminutos fragmentos de arroz. ¿De qué estilo se trata?"
+   ],
+   "o": [
+    [
+     "Nigori",
+     "Nigori",
+     "Nigori",
+     "Nigori"
+    ],
+    [
+     "Koshu",
+     "Koshu",
+     "Koshu",
+     "Koshu"
+    ],
+    [
+     "Nama",
+     "Nama",
+     "Nama",
+     "Nama"
+    ],
+    [
+     "Honjōzō",
+     "Honjōzō",
+     "Honjōzō",
+     "Honjōzō"
+    ]
+   ],
+   "e": [
+    "Torbido per le particelle di riso in sospensione: è un nigori.",
+    "Trouble à cause des particules de riz en suspension : c'est un nigori.",
+    "Cloudy from suspended rice particles: it is a nigori.",
+    "Turbio por las partículas de arroz en suspensión: es un nigori."
+   ],
+   "d": [
+    "Il koshu si riconosce dal colore ambrato o bruno, il nama dall'assenza di pastorizzazione, che non si vede. Honjōzō è un grado, normalmente limpido.",
+    "Le koshu se reconnaît à sa couleur ambrée ou brune, le nama à l'absence de pasteurisation, qui ne se voit pas. Honjōzō est un grade, normalement limpide.",
+    "Koshu is known by its amber or brown colour, nama by its lack of pasteurisation, which you cannot see. Honjōzō is a grade, normally clear.",
+    "El koshu se reconoce por su color ámbar o marrón, el nama por la falta de pasteurización, que no se ve. Honjōzō es un grado, normalmente límpido."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quale stile speciale è tipicamente ambrato o bruno?",
+    "Quel style spécial est typiquement ambré ou brun ?",
+    "Which speciality style is typically amber or brown?",
+    "¿Qué estilo especial es típicamente ámbar o marrón?"
+   ],
+   "o": [
+    [
+     "Koshu",
+     "Koshu",
+     "Koshu",
+     "Koshu"
+    ],
+    [
+     "Nigori",
+     "Nigori",
+     "Nigori",
+     "Nigori"
+    ],
+    [
+     "Nama",
+     "Nama",
+     "Nama",
+     "Nama"
+    ],
+    [
+     "Sake frizzante",
+     "Saké pétillant",
+     "Sparkling sake",
+     "Sake espumoso"
+    ]
+   ],
+   "e": [
+    "L'invecchiamento dà al koshu il colore ambrato o bruno.",
+    "Le vieillissement donne au koshu sa couleur ambrée ou brune.",
+    "Ageing gives koshu its amber or brown colour.",
+    "El envejecimiento da al koshu su color ámbar o marrón."
+   ],
+   "d": [
+    "Il nigori è torbido e biancastro; nama e frizzante non si definiscono per il colore. In un sake non invecchiato, un colore più scuro segnala invece un difetto.",
+    "Le nigori est trouble et blanchâtre ; nama et pétillant ne se définissent pas par la couleur. Dans un saké non vieilli, une couleur plus foncée signale plutôt un défaut.",
+    "Nigori is cloudy and whitish; nama and sparkling are not defined by colour. In a sake that is not aged, a deeper colour points to a fault instead.",
+    "El nigori es turbio y blanquecino; nama y espumoso no se definen por el color. En un sake no envejecido, un color más oscuro indica más bien un defecto."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Oltre a frutta secca e noci, quali aromi può mostrare un koshu tipico?",
+    "Outre les fruits secs et les fruits à coque, quels arômes un koshu typique peut-il présenter ?",
+    "Besides dried fruit and nuts, which aromas can a typical koshu show?",
+    "Además de fruta pasa y frutos secos, ¿qué aromas puede mostrar un koshu típico?"
+   ],
+   "o": [
+    [
+     "Carne e verdure sottaceto",
+     "Viande et légumes au vinaigre",
+     "Meat and pickled vegetables",
+     "Carne y verduras encurtidas"
+    ],
+    [
+     "Banana e chiodo di garofano",
+     "Banane et clou de girofle",
+     "Banana and clove",
+     "Plátano y clavo"
+    ],
+    [
+     "Erba fresca e lime",
+     "Herbe fraîche et citron vert",
+     "Fresh grass and lime",
+     "Hierba fresca y lima"
+    ],
+    [
+     "Vaniglia e cocco",
+     "Vanille et noix de coco",
+     "Vanilla and coconut",
+     "Vainilla y coco"
+    ]
+   ],
+   "e": [
+    "Il koshu ha aromi intensi: frutta secca, noci e perfino carne e verdure sottaceto.",
+    "Le koshu a des arômes intenses : fruits secs, fruits à coque et même viande et légumes au vinaigre.",
+    "Koshu has pronounced aromas: dried fruit, nuts and even meat and pickles.",
+    "El koshu tiene aromas intensos: fruta pasa, frutos secos e incluso carne y encurtidos."
+   ],
+   "d": [
+    "Vaniglia e cocco vengono dal rovere, usato molto di rado per il sake. Le altre note non descrivono un sake invecchiato.",
+    "Vanille et noix de coco viennent du chêne, très rarement utilisé pour le saké. Les autres notes ne décrivent pas un saké vieilli.",
+    "Vanilla and coconut come from oak, which is very rarely used for sake. The other notes do not describe an aged sake.",
+    "Vainilla y coco vienen del roble, que se usa muy rara vez para el sake. Las otras notas no describen un sake envejecido."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quale affermazione sul koshu è corretta?",
+    "Quelle affirmation sur le koshu est exacte ?",
+    "Which statement about koshu is true?",
+    "¿Qué afirmación sobre el koshu es correcta?"
+   ],
+   "o": [
+    [
+     "La maggior parte è ambrata e ricca, ma ne esistono di più chiari e delicati",
+     "La plupart sont ambrés et riches, mais il en existe de plus pâles et délicats",
+     "Most are amber and rich, but paler, more delicate ones exist",
+     "La mayoría son ámbar y ricos, pero los hay más pálidos y delicados"
+    ],
+    [
+     "Sono tutti incolori",
+     "Ils sont tous incolores",
+     "They are all colourless",
+     "Todos son incoloros"
+    ],
+    [
+     "Devono maturare in botti di rovere",
+     "Ils doivent vieillir en fûts de chêne",
+     "They must be aged in oak casks",
+     "Deben envejecer en barricas de roble"
+    ],
+    [
+     "Vanno bevuti entro pochi mesi",
+     "Il faut les boire en quelques mois",
+     "They must be drunk within a few months",
+     "Hay que beberlos en pocos meses"
+    ]
+   ],
+   "e": [
+    "Il koshu tipico è ambrato o bruno, ricco e dolce; alcuni sono più chiari e delicati.",
+    "Le koshu typique est ambré ou brun, riche et doux ; certains sont plus pâles et délicats.",
+    "Typical koshu is amber or brown, rich and sweet; some are paler and more delicate.",
+    "El koshu típico es ámbar o marrón, rico y dulce; algunos son más pálidos y delicados."
+   ],
+   "d": [
+    "Il rovere è usato molto di rado: si usano vasche, terracotta, bottiglie di vetro. Bere entro pochi mesi vale per il nama, non per un sake invecchiato.",
+    "Le chêne est très rarement utilisé : on emploie des cuves, de la terre cuite, des bouteilles en verre. Boire en quelques mois vaut pour le nama, pas pour un saké vieilli.",
+    "Oak is very rarely used: tanks, terracotta and glass bottles are. Drinking within a few months applies to nama, not to an aged sake.",
+    "El roble se usa muy rara vez: se emplean depósitos, terracota y botellas de vidrio. Beber en pocos meses vale para el nama, no para un sake envejecido."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quali due stili speciali, riuniti nella stessa bottiglia, danno un sake torbido con bollicine?",
+    "Quels deux styles spéciaux, réunis dans la même bouteille, donnent un saké trouble à bulles ?",
+    "Which two speciality styles, together in one bottle, give a cloudy sake with bubbles?",
+    "¿Qué dos estilos especiales, reunidos en la misma botella, dan un sake turbio con burbujas?"
+   ],
+   "o": [
+    [
+     "Nigori e frizzante",
+     "Nigori et pétillant",
+     "Nigori and sparkling",
+     "Nigori y espumoso"
+    ],
+    [
+     "Nama e koshu",
+     "Nama et koshu",
+     "Nama and koshu",
+     "Nama y koshu"
+    ],
+    [
+     "Koshu e nigori",
+     "Koshu et nigori",
+     "Koshu and nigori",
+     "Koshu y nigori"
+    ],
+    [
+     "Nama e frizzante",
+     "Nama et pétillant",
+     "Nama and sparkling",
+     "Nama y espumoso"
+    ]
+   ],
+   "e": [
+    "Nigori = torbido; frizzante = bollicine. Gli stili speciali si possono combinare.",
+    "Nigori = trouble ; pétillant = bulles. Les styles spéciaux peuvent se combiner.",
+    "Nigori = cloudy; sparkling = bubbles. Speciality styles can be combined.",
+    "Nigori = turbio; espumoso = burbujas. Los estilos especiales se pueden combinar."
+   ],
+   "d": [
+    "Nama indica solo l'assenza di pastorizzazione e koshu l'invecchiamento: nessuno dei due rende torbido o frizzante un sake.",
+    "Nama n'indique que l'absence de pasteurisation et koshu le vieillissement : aucun des deux ne rend un saké trouble ou pétillant.",
+    "Nama only means unpasteurised and koshu aged: neither makes a sake cloudy or fizzy.",
+    "Nama solo indica que no está pasteurizado y koshu que está envejecido: ninguno de los dos vuelve turbio o espumoso un sake."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Quale abbinamento tra stile speciale e tappa di produzione è corretto?",
+    "Quelle association entre style spécial et étape de l'élaboration est exacte ?",
+    "Which pairing of speciality style and production step is correct?",
+    "¿Qué relación entre estilo especial y paso de la elaboración es correcta?"
+   ],
+   "o": [
+    [
+     "Nama: nessuna pastorizzazione; koshu: invecchiamento",
+     "Nama : pas de pasteurisation ; koshu : vieillissement",
+     "Nama: no pasteurisation; koshu: ageing",
+     "Nama: sin pasteurización; koshu: envejecimiento"
+    ],
+    [
+     "Nama: invecchiamento; koshu: nessuna pastorizzazione",
+     "Nama : vieillissement ; koshu : pas de pasteurisation",
+     "Nama: ageing; koshu: no pasteurisation",
+     "Nama: envejecimiento; koshu: sin pasteurización"
+    ],
+    [
+     "Nama: filtrazione grossolana; koshu: bollicine",
+     "Nama : filtration grossière ; koshu : bulles",
+     "Nama: rough filtration; koshu: bubbles",
+     "Nama: filtración gruesa; koshu: burbujas"
+    ],
+    [
+     "Nama: nessun alcol aggiunto; koshu: levigatura al 50%",
+     "Nama : pas d'alcool ajouté ; koshu : polissage à 50 %",
+     "Nama: no added alcohol; koshu: polishing to 50%",
+     "Nama: sin alcohol añadido; koshu: pulido al 50 %"
+    ]
+   ],
+   "e": [
+    "Nama = non pastorizzato; koshu = invecchiato.",
+    "Nama = non pasteurisé ; koshu = vieilli.",
+    "Nama = unpasteurised; koshu = aged.",
+    "Nama = sin pasteurizar; koshu = envejecido."
+   ],
+   "d": [
+    "La filtrazione grossolana definisce il nigori e le bollicine il frizzante. Nessun alcol aggiunto è junmai; il 50% è la soglia del daiginjō.",
+    "La filtration grossière définit le nigori et les bulles le pétillant. Sans alcool ajouté, c'est junmai ; 50 % est le seuil du daiginjō.",
+    "Rough filtration defines nigori and bubbles sparkling sake. No added alcohol is junmai; 50% is the daiginjō limit.",
+    "La filtración gruesa define el nigori y las burbujas el espumoso. Sin alcohol añadido es junmai; el 50 % es el límite del daiginjō."
+   ]
+  },
+  {
+   "c": "k08",
+   "q": [
+    "Su una bottiglia si legge «futsū-shu nama». Che cosa significa?",
+    "Sur une bouteille, on lit « futsū-shu nama ». Qu'est-ce que cela signifie ?",
+    "A bottle says 'futsū-shu nama'. What does that mean?",
+    "En una botella se lee «futsū-shu nama». ¿Qué significa?"
+   ],
+   "o": [
+    [
+     "Un sake di base non pastorizzato",
+     "Un saké de base non pasteurisé",
+     "A basic sake that is unpasteurised",
+     "Un sake básico sin pasteurizar"
+    ],
+    [
+     "Un sake premium senza alcol aggiunto",
+     "Un saké premium sans alcool ajouté",
+     "A premium sake with no added alcohol",
+     "Un sake premium sin alcohol añadido"
+    ],
+    [
+     "Un sake invecchiato levigato al 50%",
+     "Un saké vieilli poli à 50 %",
+     "An aged sake polished to 50%",
+     "Un sake envejecido pulido al 50 %"
+    ],
+    [
+     "Un sake torbido e frizzante",
+     "Un saké trouble et pétillant",
+     "A cloudy, sparkling sake",
+     "Un sake turbio y espumoso"
+    ]
+   ],
+   "e": [
+    "Futsū-shu = sake di base; nama = non pastorizzato. Gli stili speciali valgono anche per il sake di base.",
+    "Futsū-shu = saké de base ; nama = non pasteurisé. Les styles spéciaux valent aussi pour le saké de base.",
+    "Futsū-shu = basic sake; nama = unpasteurised. Speciality styles apply to basic sake too.",
+    "Futsū-shu = sake básico; nama = sin pasteurizar. Los estilos especiales valen también para el sake básico."
+   ],
+   "d": [
+    "Senza alcol aggiunto sarebbe junmai, invecchiato sarebbe koshu, torbido sarebbe nigori: nessuna di queste parole compare qui.",
+    "Sans alcool ajouté, ce serait junmai ; vieilli, koshu ; trouble, nigori : aucun de ces mots n'apparaît ici.",
+    "No added alcohol would be junmai, aged would be koshu, cloudy would be nigori: none of those words is on the bottle.",
+    "Sin alcohol añadido sería junmai, envejecido sería koshu, turbio sería nigori: ninguna de esas palabras aparece aquí."
+   ]
+  }
+ ]
+}

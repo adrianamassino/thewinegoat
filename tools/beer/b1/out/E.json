@@ -1,0 +1,474 @@
+{
+ "questions": [
+  {
+   "c": "b07",
+   "q": [
+    "Quale descrizione corrisponde a una blonde ale?",
+    "Quelle description correspond à une blonde ale ?",
+    "Which description fits a blonde ale?",
+    "¿Qué descripción corresponde a una blonde ale?"
+   ],
+   "o": [
+    [
+     "Ale da paglierina a dorata, lieve mollica di pane, amaro medio, alcol basso o medio",
+     "Ale paille à dorée, légère mie de pain, amertume moyenne, alcool faible à moyen",
+     "Straw to gold ale, subtle bread crumb, medium bitterness, low to medium alcohol",
+     "Ale de pajiza a dorada, sutil miga de pan, amargor medio, alcohol bajo o medio"
+    ],
+    [
+     "Lager ramata con frutta a guscio tostata",
+     "Lager cuivrée aux fruits à coque grillés",
+     "Copper lager with toasted nut",
+     "Lager cobriza con frutos secos tostados"
+    ],
+    [
+     "Ale nera al caffè, alcol molto alto",
+     "Ale noire au café, alcool très élevé",
+     "Black ale with coffee, very high alcohol",
+     "Ale negra con café, alcohol muy alto"
+    ],
+    [
+     "Birra di frumento torbida e acida",
+     "Bière de blé trouble et acide",
+     "Hazy, sour wheat beer",
+     "Cerveza de trigo turbia y ácida"
+    ]
+   ],
+   "e": [
+    "Una ale facile da bere: chiara, maltata con discrezione, amaro medio.",
+    "Une ale facile à boire : claire, discrètement maltée, à l'amertume moyenne.",
+    "An easy-drinking ale: pale, gently malty, medium bitterness.",
+    "Una ale fácil de beber: clara, discretamente maltosa, de amargor medio."
+   ],
+   "d": [
+    "Lager ramata e tostata ricorda la Munich dunkel, nera al caffè una imperial stout, torbida e acida una Berliner weisse.",
+    "La lager cuivrée et grillée évoque la Munich dunkel, la noire au café une imperial stout, la trouble et acide une Berliner weisse.",
+    "A toasty copper lager suggests Munich dunkel, black with coffee an imperial stout, hazy and sour a Berliner weisse.",
+    "Una lager cobriza y tostada recuerda a la Munich dunkel, la negra con café a una imperial stout, la turbia y ácida a una Berliner weisse."
+   ]
+  },
+  {
+   "c": "b07",
+   "q": [
+    "Che cosa hanno in comune pale lager internazionale, Munich helles e blonde ale?",
+    "Qu'ont en commun la pale lager internationale, la Munich helles et la blonde ale ?",
+    "What do international pale lager, Munich helles and blonde ale have in common?",
+    "¿Qué tienen en común la pale lager internacional, la Munich helles y la blonde ale?"
+   ],
+   "o": [
+    [
+     "Sono prodotte con soli malti base",
+     "Elles sont brassées uniquement avec des malts de base",
+     "They are brewed with base malts only",
+     "Se elaboran solo con maltas base"
+    ],
+    [
+     "Sono tutte ale",
+     "Ce sont toutes des ales",
+     "They are all ales",
+     "Todas son ales"
+    ],
+    [
+     "Usano malti tostati scuri",
+     "Elles utilisent des malts torréfiés foncés",
+     "They use dark roasted malts",
+     "Usan maltas tostadas oscuras"
+    ],
+    [
+     "Sono tutte acide",
+     "Elles sont toutes acides",
+     "They are all sour",
+     "Todas son ácidas"
+    ]
+   ],
+   "e": [
+    "Tre stili di malto chiari, da paglierino a dorato, fatti con soli malti base.",
+    "Trois styles de malt clairs, de paille à doré, faits uniquement de malts de base.",
+    "Three pale malt-driven styles, straw to gold, made with base malts only.",
+    "Tres estilos de malta claros, de pajizo a dorado, hechos solo con maltas base."
+   ],
+   "d": [
+    "Due sono lager e solo la blonde ale è una ale. I malti tostati darebbero colori scuri, e nessuno dei tre è uno stile acido.",
+    "Deux sont des lagers et seule la blonde ale est une ale. Des malts torréfiés donneraient des couleurs foncées, et aucun des trois n'est un style acide.",
+    "Two are lagers and only blonde ale is an ale. Roasted malts would give dark colours, and none of the three is a sour style.",
+    "Dos son lagers y solo la blonde ale es una ale. Las maltas tostadas darían colores oscuros, y ninguno de los tres es un estilo ácido."
+   ]
+  },
+  {
+   "c": "b08",
+   "q": [
+    "Quale stile di malto prodotto con malti speciali è una LAGER?",
+    "Quel style de malt brassé avec des malts spéciaux est une LAGER ?",
+    "Which malt-driven style brewed with speciality malts is a LAGER?",
+    "¿Qué estilo de malta elaborado con maltas especiales es una LAGER?"
+   ],
+   "o": [
+    [
+     "Munich dunkel",
+     "Munich dunkel",
+     "Munich dunkel",
+     "Munich dunkel"
+    ],
+    [
+     "Brown ale",
+     "Brown ale",
+     "Brown ale",
+     "Brown ale"
+    ],
+    [
+     "Porter",
+     "Porter",
+     "Porter",
+     "Porter"
+    ],
+    [
+     "Barley wine",
+     "Barley wine",
+     "Barley wine",
+     "Barley wine"
+    ]
+   ],
+   "e": [
+    "La Munich dunkel è la lager del gruppo; le altre sono ale.",
+    "La Munich dunkel est la lager du groupe ; les autres sont des ales.",
+    "Munich dunkel is the lager of the group; the others are ales.",
+    "La Munich dunkel es la lager del grupo; las demás son ales."
+   ],
+   "d": [
+    "Brown ale, porter, stout e barley wine sono tutte ale, fermentate con lievito ale.",
+    "Brown ale, porter, stout et barley wine sont toutes des ales, fermentées avec une levure ale.",
+    "Brown ale, porter, stout and barley wine are all ales, fermented with ale yeast.",
+    "Brown ale, porter, stout y barley wine son todas ales, fermentadas con levadura ale."
+   ]
+  },
+  {
+   "c": "b08",
+   "q": [
+    "Quali aromi di malto sono tipici di una brown ale?",
+    "Quels arômes de malt sont typiques d'une brown ale ?",
+    "Which malt aromas are typical of a brown ale?",
+    "¿Qué aromas de malta son típicos de una brown ale?"
+   ],
+   "o": [
+    [
+     "Frutta a guscio tostata e pane tostato, a volte cioccolato o caramello",
+     "Fruits à coque grillés et pain grillé, parfois chocolat ou caramel",
+     "Toasted nut and toasted bread, sometimes chocolate or caramel",
+     "Frutos secos tostados y pan tostado, a veces chocolate o caramelo"
+    ],
+    [
+     "Banana e chiodo di garofano",
+     "Banane et clou de girofle",
+     "Banana and clove",
+     "Plátano y clavo"
+    ],
+    [
+     "Impasto di pane e cracker",
+     "Pâte à pain et cracker",
+     "Bread dough and water cracker",
+     "Masa de pan y galleta de agua"
+    ],
+    [
+     "Aia e rabarbaro",
+     "Basse-cour et rhubarbe",
+     "Farmyard and rhubarb",
+     "Corral y ruibarbo"
+    ]
+   ],
+   "e": [
+    "I malti speciali danno alla brown ale note tostate e di frutta a guscio.",
+    "Les malts spéciaux donnent à la brown ale des notes grillées et de fruits à coque.",
+    "Speciality malts give brown ale its toasty, nutty notes.",
+    "Las maltas especiales dan a la brown ale notas tostadas y de frutos secos."
+   ],
+   "d": [
+    "Banana e chiodo di garofano vengono dal lievito della weissbier; impasto di pane e cracker dai soli malti base; aia e rabarbaro ricordano la geuze.",
+    "Banane et girofle viennent de la levure de la weissbier ; pâte à pain et cracker des seuls malts de base ; basse-cour et rhubarbe évoquent la geuze.",
+    "Banana and clove come from weissbier yeast; bread dough and cracker from base malts alone; farmyard and rhubarb suggest geuze.",
+    "Plátano y clavo vienen de la levadura de la weissbier; masa de pan y galleta de las maltas base; corral y ruibarbo recuerdan a la geuze."
+   ]
+  },
+  {
+   "c": "b09",
+   "q": [
+    "Quale descrizione corrisponde a una American pale ale?",
+    "Quelle description correspond à une American pale ale ?",
+    "Which description fits an American pale ale?",
+    "¿Qué descripción corresponde a una American pale ale?"
+   ],
+   "o": [
+    [
+     "Ale da dorata ad ambrata, luppolo agrumato o resinoso, amaro medio-alto, alcol medio",
+     "Ale dorée à ambrée, houblon agrumes ou pin, amertume moyenne à élevée, alcool moyen",
+     "Gold to amber ale, citrus or pine hops, medium to high bitterness, medium alcohol",
+     "Ale de dorada a ámbar, lúpulo cítrico o de pino, amargor medio-alto, alcohol medio"
+    ],
+    [
+     "Lager paglierina con luppolo floreale delicato",
+     "Lager paille au houblon floral délicat",
+     "Straw lager with subtle floral hops",
+     "Lager pajiza con lúpulo floral sutil"
+    ],
+    [
+     "Ale nera con malto torrefatto",
+     "Ale noire au malt torréfié",
+     "Black ale with roasted malt",
+     "Ale negra con malta torrefacta"
+    ],
+    [
+     "Ale torbida con coriandolo e scorza d'arancia",
+     "Ale trouble à la coriandre et à l'écorce d'orange",
+     "Hazy ale with coriander and orange peel",
+     "Ale turbia con cilantro y piel de naranja"
+    ]
+   ],
+   "e": [
+    "Luppoli americani in primo piano, malto discreto, amaro medio-alto.",
+    "Houblons américains au premier plan, malt discret, amertume moyenne à élevée.",
+    "American hops to the fore, subtle malt, medium to high bitterness.",
+    "Lúpulos americanos en primer plano, malta discreta, amargor medio-alto."
+   ],
+   "d": [
+    "La lager paglierina dal luppolo delicato è una pilsner, la ale nera una stout, quella con coriandolo e arancia una witbier.",
+    "La lager paille au houblon délicat est une pilsner, l'ale noire une stout, celle à la coriandre et à l'orange une witbier.",
+    "The straw lager with subtle hops is a pilsner, the black ale a stout, the one with coriander and orange a witbier.",
+    "La lager pajiza de lúpulo sutil es una pilsner, la ale negra una stout, la de cilantro y naranja una witbier."
+   ]
+  },
+  {
+   "c": "b09",
+   "q": [
+    "Che cosa hanno in comune bitter, American pale ale, American IPA e hazy IPA?",
+    "Qu'ont en commun la bitter, l'American pale ale, l'American IPA et la hazy IPA ?",
+    "What do bitter, American pale ale, American IPA and hazy IPA have in common?",
+    "¿Qué tienen en común la bitter, la American pale ale, la American IPA y la hazy IPA?"
+   ],
+   "o": [
+    [
+     "Sono ale in cui domina il luppolo",
+     "Ce sont des ales dominées par le houblon",
+     "They are hop-driven ales",
+     "Son ales dominadas por el lúpulo"
+    ],
+    [
+     "Sono tutte lager",
+     "Ce sont toutes des lagers",
+     "They are all lagers",
+     "Todas son lagers"
+    ],
+    [
+     "Sono stili acidi",
+     "Ce sont des styles acides",
+     "They are sour styles",
+     "Son estilos ácidos"
+    ],
+    [
+     "Usano solo luppoli tradizionali europei",
+     "Elles n'utilisent que des houblons traditionnels européens",
+     "They use only traditional European hops",
+     "Solo usan lúpulos tradicionales europeos"
+    ]
+   ],
+   "e": [
+    "Quattro ale di luppolo; tra gli stili di luppolo solo la pilsner è una lager.",
+    "Quatre ales de houblon ; parmi les styles de houblon, seule la pilsner est une lager.",
+    "Four hop-driven ales; among the hop-driven styles only pilsner is a lager.",
+    "Cuatro ales de lúpulo; entre los estilos de lúpulo solo la pilsner es una lager."
+   ],
+   "d": [
+    "La bitter usa luppoli tradizionali, ma le tre americane usano luppoli americani, australiani o neozelandesi. Nessuna è uno stile acido.",
+    "La bitter emploie des houblons traditionnels, mais les trois américaines des houblons américains, australiens ou néo-zélandais. Aucune n'est un style acide.",
+    "Bitter uses traditional hops, but the three American styles use American, Australian or New Zealand hops. None is a sour style.",
+    "La bitter usa lúpulos tradicionales, pero las tres americanas usan lúpulos americanos, australianos o neozelandeses. Ninguna es un estilo ácido."
+   ]
+  },
+  {
+   "c": "b10",
+   "q": [
+    "Quale descrizione corrisponde a una weissbier?",
+    "Quelle description correspond à une weissbier ?",
+    "Which description fits a weissbier?",
+    "¿Qué descripción corresponde a una weissbier?"
+   ],
+   "o": [
+    [
+     "Torbida, da paglierina a dorata, banana e chiodo di garofano, poco amara, molto frizzante",
+     "Trouble, paille à dorée, banane et girofle, peu amère, très pétillante",
+     "Hazy, straw to gold, banana and clove, low bitterness, high carbonation",
+     "Turbia, de pajiza a dorada, plátano y clavo, poco amarga, muy carbonatada"
+    ],
+    [
+     "Limpida, ramata, molto amara",
+     "Limpide, cuivrée, très amère",
+     "Clear, copper, very bitter",
+     "Límpida, cobriza, muy amarga"
+    ],
+    [
+     "Nera, tostata, quasi senza bollicine",
+     "Noire, torréfiée, presque sans bulles",
+     "Black, roasted, almost flat",
+     "Negra, tostada, casi sin burbujas"
+    ],
+    [
+     "Dorata, acida, con note di aia",
+     "Dorée, acide, aux notes de basse-cour",
+     "Gold, sour, with farmyard notes",
+     "Dorada, ácida, con notas de corral"
+    ]
+   ],
+   "e": [
+    "Il lievito dà banana e chiodo di garofano; il frumento dà torbidità e note di mollica.",
+    "La levure donne banane et girofle ; le blé apporte le trouble et des notes de mie.",
+    "Yeast gives banana and clove; wheat brings haze and bread-crumb notes.",
+    "La levadura da plátano y clavo; el trigo aporta turbidez y notas de miga."
+   ],
+   "d": [
+    "Molto amara non è mai una weissbier, che ha amaro basso. Dorata, acida e con note di aia descrive la geuze.",
+    "Une weissbier n'est jamais très amère : son amertume est faible. Dorée, acide et aux notes de basse-cour décrit la geuze.",
+    "A weissbier is never very bitter: its bitterness is low. Gold, sour and farmyard describes geuze.",
+    "Una weissbier nunca es muy amarga: su amargor es bajo. Dorada, ácida y con notas de corral describe la geuze."
+   ]
+  },
+  {
+   "c": "b10",
+   "q": [
+    "Quale cereale dà a weissbier e witbier le note di mollica di pane e contribuisce alla torbidità?",
+    "Quelle céréale donne à la weissbier et à la witbier leurs notes de mie de pain et contribue au trouble ?",
+    "Which grain gives weissbier and witbier their bread-crumb notes and adds to the haze?",
+    "¿Qué cereal da a la weissbier y a la witbier sus notas de miga de pan y contribuye a la turbidez?"
+   ],
+   "o": [
+    [
+     "Frumento",
+     "Blé",
+     "Wheat",
+     "Trigo"
+    ],
+    [
+     "Riso",
+     "Riz",
+     "Rice",
+     "Arroz"
+    ],
+    [
+     "Mais",
+     "Maïs",
+     "Maize (corn)",
+     "Maíz"
+    ],
+    [
+     "Sorgo",
+     "Sorgho",
+     "Sorghum",
+     "Sorgo"
+    ]
+   ],
+   "e": [
+    "Sono birre di frumento: «Weizen» significa proprio frumento.",
+    "Ce sont des bières de blé : « Weizen » signifie justement blé.",
+    "They are wheat beers: 'Weizen' actually means wheat.",
+    "Son cervezas de trigo: «Weizen» significa precisamente trigo."
+   ],
+   "d": [
+    "Riso e mais alleggeriscono aromi e corpo, non danno torbidità. Il sorgo è un altro cereale usato in birrificazione, ma non per questi stili.",
+    "Riz et maïs allègent arômes et corps, sans donner de trouble. Le sorgho est une autre céréale de brasserie, mais pas pour ces styles.",
+    "Rice and maize lighten aroma and body rather than adding haze. Sorghum is another brewing grain, but not for these styles.",
+    "Arroz y maíz aligeran aromas y cuerpo, no dan turbidez. El sorgo es otro cereal cervecero, pero no para estos estilos."
+   ]
+  },
+  {
+   "c": "b10",
+   "q": [
+    "Quale descrizione corrisponde a una saison?",
+    "Quelle description correspond à une saison ?",
+    "Which description fits a saison?",
+    "¿Qué descripción corresponde a una saison?"
+   ],
+   "o": [
+    [
+     "Da dorata ad ambrata, lievito fruttato e pepato, amaro medio, molto frizzante",
+     "Dorée à ambrée, levure fruitée et poivrée, amertume moyenne, très pétillante",
+     "Gold to amber, fruity and peppery yeast, medium bitterness, highly carbonated",
+     "De dorada a ámbar, levadura afrutada y con pimienta, amargor medio, muy carbonatada"
+    ],
+    [
+     "Nera e tostata, alcol molto alto",
+     "Noire et torréfiée, alcool très élevé",
+     "Black and roasted, very high alcohol",
+     "Negra y tostada, alcohol muy alto"
+    ],
+    [
+     "Lager paglierina dagli aromi leggeri",
+     "Lager paille aux arômes légers",
+     "Straw lager with light aroma",
+     "Lager pajiza de aromas ligeros"
+    ],
+    [
+     "Lager ramata con frutta a guscio tostata",
+     "Lager cuivrée aux fruits à coque grillés",
+     "Copper lager with toasted nut",
+     "Lager cobriza con frutos secos tostados"
+    ]
+   ],
+   "e": [
+    "La saison è una ale di lievito: frutta, pepe, molte bollicine, a volte una lieve acidità.",
+    "La saison est une ale de levure : fruits, poivre, beaucoup de bulles, parfois une légère acidité.",
+    "Saison is a yeast-driven ale: fruit, pepper, lots of bubbles, sometimes a slight sourness.",
+    "La saison es una ale de levadura: fruta, pimienta, muchas burbujas y a veces una ligera acidez."
+   ],
+   "d": [
+    "La saison non è una lager e non è nera. Il suo grado alcolico può andare da basso ad alto.",
+    "La saison n'est ni une lager ni une bière noire. Son degré d'alcool peut aller de faible à élevé.",
+    "Saison is neither a lager nor black. Its alcohol can range from low to high.",
+    "La saison no es una lager ni es negra. Su graduación puede ir de baja a alta."
+   ]
+  },
+  {
+   "c": "b10",
+   "q": [
+    "Che amaro e che alcol ha di solito una witbier?",
+    "Quelle amertume et quel degré d'alcool a en général une witbier ?",
+    "What bitterness and alcohol does a witbier usually have?",
+    "¿Qué amargor y qué alcohol suele tener una witbier?"
+   ],
+   "o": [
+    [
+     "Amaro basso, alcol medio",
+     "Amertume faible, alcool moyen",
+     "Low bitterness, medium alcohol",
+     "Amargor bajo, alcohol medio"
+    ],
+    [
+     "Amaro alto, alcol alto",
+     "Amertume élevée, alcool élevé",
+     "High bitterness, high alcohol",
+     "Amargor alto, alcohol alto"
+    ],
+    [
+     "Nessun amaro, alcol molto alto",
+     "Aucune amertume, alcool très élevé",
+     "No bitterness, very high alcohol",
+     "Sin amargor, alcohol muy alto"
+    ],
+    [
+     "Amaro alto, alcol basso",
+     "Amertume élevée, alcool faible",
+     "High bitterness, low alcohol",
+     "Amargor alto, alcohol bajo"
+    ]
+   ],
+   "e": [
+    "La witbier è una birra di frumento morbida: poco amara e di alcol medio.",
+    "La witbier est une bière de blé douce : peu amère et moyennement alcoolisée.",
+    "Witbier is a gentle wheat beer: low in bitterness, medium in alcohol.",
+    "La witbier es una cerveza de trigo suave: poco amarga y de alcohol medio."
+   ],
+   "d": [
+    "Amaro alto è il segno degli stili di luppolo come la American IPA; alcol molto alto si trova per esempio in tripel e barley wine.",
+    "Une amertume élevée signale les styles de houblon comme l'American IPA ; un alcool très élevé se trouve par exemple dans la tripel et le barley wine.",
+    "High bitterness marks hop-driven styles such as American IPA; very high alcohol is found in tripel or barley wine, for example.",
+    "El amargor alto es propio de estilos de lúpulo como la American IPA; el alcohol muy alto se da, por ejemplo, en la tripel y el barley wine."
+   ]
+  }
+ ]
+}
