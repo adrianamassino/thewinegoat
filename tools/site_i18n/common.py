@@ -12,6 +12,7 @@ NEW = [l for l in LANGS if l not in OLD4]             # the 15 languages this pi
 RTL = {'ar'}
 HREF = {'zh-hans': 'zh-Hans', 'zh-hant': 'zh-Hant', 'es-ar': 'es-AR', 'pt-br': 'pt-BR'}   # hreflang / <html lang>
 HOME_HREF = dict(HREF, pt='pt-PT')                                                          # the homes already use pt-PT
+HOME_ALSO = {'pt': ['pt']}   # …and also the plain language code, so Portuguese speakers outside Portugal and Brazil get /pt/ (the guides use pt)
 OGLOC = {'en': 'en_GB', 'it': 'it_IT', 'fr': 'fr_FR', 'es': 'es_ES', 'es-ar': 'es_AR', 'de': 'de_DE', 'nl': 'nl_NL', 'pl': 'pl_PL', 'pt': 'pt_PT', 'pt-br': 'pt_BR',
          'ru': 'ru_RU', 'el': 'el_GR', 'ja': 'ja_JP', 'ko': 'ko_KR', 'zh-hans': 'zh_CN', 'zh-hant': 'zh_TW', 'ar': 'ar_AR', 'th': 'th_TH', 'tr': 'tr_TR'}
 LNAME = {'en': 'English', 'it': 'Italiano', 'fr': 'Français', 'es': 'Español', 'es-ar': 'Español (AR)', 'de': 'Deutsch', 'nl': 'Nederlands', 'pl': 'Polski', 'pt': 'Português',
