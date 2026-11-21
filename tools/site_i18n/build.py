@@ -189,13 +189,20 @@ def data_post(l):
     return post
 
 
-def build_page(l, g, base, region, tr, lm):
+def build_page(l, g, base, region, tr, lm, miss=None):
     url = C.home(l) if g == '_home' else SL[g][l]
     doc = open(base, encoding='utf8').read()
     doc = re.sub(r'<!--lvseries-->.*?<!--/lvseries-->', '', doc, flags=re.S)   # language-specific: re-added by tools/lvseries.py in the sync step
     doc = re.sub(r'<!--gcta-->.*?<!--/gcta-->', '', doc, flags=re.S)   # conversion blocks: language-specific, re-added by tools/seo_tech/cta.py
     if g == '_home': doc = absolutize(doc)
     doc = seg.process(doc, tr, region, ld_post=ld_post(l, lm), data_post=data_post(l))
+    # mobile table labels (data-l repeats the column heading, which is a translated segment; never counted as missing)
+    def dl(m):
+        t = html.unescape(m.group(1)); n = len(miss) if miss is not None else 0
+        v = tr(t, 'attr')
+        if miss is not None: del miss[n:]
+        return 'data-l="' + e(v, quote=True) + '"'
+    doc = re.sub(r'data-l="([^"]*)"', dl, doc)
     code = C.HOME_HREF.get(l, l) if g == '_home' else C.href(l)
     doc = re.sub(r'<html\b[^>]*>', f'<html lang="{code}"' + (' dir="rtl"' if l in C.RTL else '') + '>', doc, count=1)
     doc = re.sub(r'(<link rel="canonical" href=")[^"]*(">)', lambda m: m.group(1) + SITE + url + m.group(2), doc, count=1)
@@ -312,7 +319,7 @@ def main():
     report = []
     for l, js in J.items():
         for g, base, region, tr, miss in js:
-            url, size = build_page(l, g, base, region, tr, lm)
+            url, size = build_page(l, g, base, region, tr, lm, miss)
             need = MIN_SIZE.get(l, 3000) if g != '_home' else 0
             flag = '' if size >= need else f'  ← below {need}'
             if miss: flag += f'  ({len(miss)} segment(s) left in English)'
