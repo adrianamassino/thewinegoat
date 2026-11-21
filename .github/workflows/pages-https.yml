@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/pages-https.yml", "tools/seo_tech/live_check.sh"]
+    paths: [".github/workflows/pages-https.yml", "tools/seo_tech/live_check.sh", "sitemap.xml", "robots.txt"]
   schedule:
     - cron: "17 6 * * 1"
 permissions:
@@ -60,7 +60,8 @@ jobs:
           head = ["## Summary (all values below were obtained live during this run)", "",
                   f"- API https_enforced: **{a.get('https_enforced')}**",
                   f"- API certificate state: **{c.get('state')}**, domains: {c.get('domains')}, expires {c.get('expires_at')}",
-                  f"- Redirect matrix: **{m.group(1)} PASS, {m.group(2)} FAIL**" if m else "- Redirect matrix: not run", ""]
+                  f"- Redirect matrix: **{m.group(1)} PASS, {m.group(2)} FAIL**" if m else "- Redirect matrix: not run",
+                  "- Sitemaps and listed pages: " + (re.search(r'\*\*SITEMAPS: ([^*]+)\*\*', r).group(1) if re.search(r'\*\*SITEMAPS: ([^*]+)\*\*', r) else "not run"), ""]
           r = r.replace('## GitHub Pages configuration (before)', '\n'.join(head) + '\n## GitHub Pages configuration (before)', 1)
           open('tools/seo_tech/live_report.md', 'w').write(r)
           PY

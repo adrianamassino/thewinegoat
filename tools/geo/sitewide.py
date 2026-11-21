@@ -8,7 +8,8 @@ Run from the repo root after any page generator:   python3 tools/geo/sitewide.py
    page, identical everywhere; every author/publisher/provider reference to The Wine Goat (inline objects, old
    …/#org, …/<lang>/#org, …/#site ids) points to them; Article / WebPage / CollectionPage nodes get isPartOf, author,
    publisher, image (og:image) and datePublished / dateModified taken from git history (first and last commit that
-   touched the file, ignoring commits whose subject contains "[seo-meta]" = pure metadata/template passes like this one).
+   touched the file, ignoring commits whose subject contains "[seo-meta]" = pure metadata/template passes like this one,
+   and the commits listed in tools/geo/seo_meta_commits.txt).
    The visible "Updated YYYY-MM-DD" in the footer is aligned with dateModified.
 --check: change nothing, exit 1 if a page would change (used by tools/seo_tech/audit.py-style checks)."""
 import glob, json, os, re, subprocess, sys
@@ -34,15 +35,18 @@ ORG_ID_RE = re.compile(r'^https://thewinegoat\.com(/[a-z-]+)?/#org(anization)?$'
 SITE_ID_RE = re.compile(r'^https://thewinegoat\.com(/[a-z-]+)?/#(site|website)$')
 PAGE_TYPES = {'Article', 'WebPage', 'CollectionPage', 'AboutPage', 'FAQPage'}
 DATED = {'Article', 'WebPage', 'CollectionPage', 'AboutPage'}
+# commits that only changed metadata/templates but were pushed without "[seo-meta]" in the subject (one hash per line, # comments ok)
+META_COMMITS = 'tools/geo/seo_meta_commits.txt'
 
 
 def git_dates():
     """{path: (first, last)} from git history, ignoring [seo-meta] commits."""
-    out = subprocess.run(['git', 'log', '--format=@@%cs%x09%s', '--name-only', '--no-renames'], capture_output=True, text=True).stdout
+    out = subprocess.run(['git', 'log', '--format=@@%H%x09%cs%x09%s', '--name-only', '--no-renames'], capture_output=True, text=True).stdout
+    meta = set(open(META_COMMITS).read().split()) if os.path.exists(META_COMMITS) else set()
     D = {}; date = None; skip = False
     for line in out.split('\n'):
         if line.startswith('@@'):
-            date, subj = line[2:].split('\t', 1); skip = '[seo-meta]' in subj
+            h, date, subj = line[2:].split('\t', 2); skip = '[seo-meta]' in subj or h in meta or h[:7] in meta
         elif line.strip() and not skip:
             f, l = D.get(line, (date, date)); D[line] = (min(f, date), max(l, date))
     return D

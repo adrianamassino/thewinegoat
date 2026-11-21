@@ -1,0 +1,5 @@
+# Commits that changed only metadata or templates of pages (hreflang, meta descriptions, generated link blocks)
+# and must not move the "Updated" date / dateModified of the pages they touched (read by tools/geo/sitewide.py).
+# Prefer "[seo-meta]" in the commit subject; list a hash here only when that was forgotten.
+ff7e3ea  # hreflang regional policy on every page
+6c262fa  # es-ar meta descriptions

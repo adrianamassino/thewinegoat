@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Full live test of the public site thewinegoat.com, run from a GitHub-hosted runner by
 # .github/workflows/pages-https.yml. Every line of the output comes from a real request made during the run.
-# (re-run marker 3: after Enforce HTTPS)
+# (re-run marker 4: sitemap index)
 D=thewinegoat.com
 UA="Mozilla/5.0 (TWG live check)"
 one() { curl -s -o /dev/null -A "$UA" -m 25 --max-redirs 0 -w '%{http_code}|%{redirect_url}' "$1"; }
@@ -47,32 +47,56 @@ echo "**REDIRECT MATRIX: $PASS PASS, $FAIL FAIL**"
 echo
 trace "https://$D/wset-level-2"; echo "Extra: \`https://$D/wset-level-2\` (no trailing slash) → $TRACE → final $FINAL"
 echo
-echo "## D. Sitemap vs published canonical pages (live, every URL fetched)"
-curl -s -m 60 "https://$D/sitemap.xml" -o /tmp/sm.xml -w "GET /sitemap.xml → %{http_code} %{content_type} %{size_download} bytes\n\n"
+echo "## D. Sitemap index, language sitemaps and every listed page (live, every URL fetched)"
+# wait (max 12 min) until GitHub Pages serves the commit that triggered this run: its sitemap index must match the repository's
+for i in $(seq 1 24); do curl -s -m 30 "https://$D/sitemap.xml" -o /tmp/sm.xml; cmp -s /tmp/sm.xml sitemap.xml && break; sleep 30; done
+cmp -s /tmp/sm.xml sitemap.xml && echo "Live /sitemap.xml is identical to the repository version (deploy finished)." || echo "WARNING: live /sitemap.xml still differs from the repository after 12 minutes (deploy not finished?)."
+echo
 python3 - <<'PY'
-import re, concurrent.futures as cf, urllib.request, urllib.error, xml.dom.minidom
-raw = open('/tmp/sm.xml', 'rb').read()
-try: xml.dom.minidom.parseString(raw); print('- XML well-formed: yes')
-except Exception as e: print('- XML well-formed: NO', e)
-xmls = raw.decode('utf8'); locs = re.findall(r'<loc>([^<]+)</loc>', xmls); alts = re.findall(r'<xhtml:link[^>]+href="([^"]+)"', xmls)
+import re, html, os, concurrent.futures as cf, urllib.request, urllib.error, xml.dom.minidom
+D = 'https://thewinegoat.com'
 class NoRedir(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, *a, **k): return None
 op = urllib.request.build_opener(NoRedir)
-def get(u):
+def fetch(u):
     try:
         r = op.open(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0 (TWG live check)'}), timeout=40)
-        body = r.read().decode('utf8', 'replace'); code = r.status
-    except urllib.error.HTTPError as e: return u, e.code, None, None
-    except Exception as e: return u, 'ERR ' + type(e).__name__, None, None
-    return u, code, re.findall(r'<link rel="canonical" href="([^"]+)"', body), re.findall(r'<meta name="robots" content="([^"]+)"', body)
-with cf.ThreadPoolExecutor(16) as ex: res = list(ex.map(get, locs))
+        return r.status, r.headers.get('Content-Type', ''), r.read()
+    except urllib.error.HTTPError as e: return e.code, e.headers.get('Content-Type', ''), b''
+    except Exception as e: return 'ERR ' + type(e).__name__, '', b''
+FAIL = []
+c, ct, raw = fetch(D + '/sitemap.xml')
+try: dom = xml.dom.minidom.parseString(raw); root = dom.documentElement.localName
+except Exception as e: root = f'not XML ({e})'
+print(f'- GET /sitemap.xml → {c}, {ct}, root element <{root}>')
+if c != 200 or 'xml' not in ct or root != 'sitemapindex': FAIL.append('sitemap index')
+children = re.findall(r'<loc>([^<]+)</loc>', raw.decode('utf8', 'replace'))
+print(f'- index lists {len(children)} sitemaps\n')
+print('| sitemap | status | content type | XML | URLs |'); print('|---|---|---|---|---|')
+pages = []
+for ch in children:
+    c, ct, raw = fetch(ch)
+    try: xml.dom.minidom.parseString(raw); ok = 'yes'
+    except Exception: ok = 'NO'
+    locs = [html.unescape(x) for x in re.findall(r'<url>\s*<loc>([^<]+)</loc>', raw.decode('utf8', 'replace'))]
+    if not ch.endswith('sitemap-images.xml'): pages += locs
+    print(f'| {ch.replace(D, "")} | {c} | {ct} | {ok} | {len(locs)} |')
+    if c != 200 or 'xml' not in ct or ok != 'yes' or not locs: FAIL.append(ch)
+def page(u):
+    c, ct, raw = fetch(u); b = raw.decode('utf8', 'replace')
+    return u, c, re.findall(r'<link rel="canonical" href="([^"]+)"', b), re.findall(r'<meta name="robots" content="([^"]+)"', b)
+with cf.ThreadPoolExecutor(16) as ex: res = list(ex.map(page, pages))
 bad = [x for x in res if x[1] != 200 or x[2] != [x[0]] or (x[3] and 'noindex' in x[3][0])]
-print(f'- <loc> URLs: {len(locs)} (unique {len(set(locs))}); http:// {sum(l.startswith("http://") for l in locs)}; www {sum("://www." in l for l in locs)}')
-print(f'- hreflang alternates: {len(alts)}; not https://thewinegoat.com/: {sum(not a.startswith("https://thewinegoat.com/") for a in alts)}')
-print(f'- fetched live: {len(res)}; returned 200 without redirect, exactly one canonical equal to the sitemap URL, no noindex: {len(res) - len(bad)}; problems: {len(bad)}')
+by = {}
+for u, *_ in res:
+    seg = u[len(D) + 1:].split('/')[0]; by.setdefault(seg if os.path.isfile(f'{seg}/index.html') and len(seg) <= 7 and seg not in ('faq', 'about') else 'en', []).append(u)
+print(f'\n- page URLs in the language sitemaps: {len(pages)} (unique {len(set(pages))}); per language: ' + ', '.join(f'{k} {len(v)}' for k, v in sorted(by.items())))
+print(f'- fetched live: {len(res)}; 200 without redirect, exactly one canonical equal to the URL, no noindex: {len(res) - len(bad)}; problems: {len(bad)}')
 for b in bad[:50]: print(f'  - {b[0]} → status {b[1]}, canonical {b[2]}, robots {b[3]}')
-for extra in ['https://thewinegoat.com/en/', 'https://thewinegoat.com/it/capre/']:
-    u, c, can, rob = get(extra); print(f'- not in sitemap, checked live: {u} → status {c}, canonical {can}, robots {rob}')
+if bad: FAIL.append(f'{len(bad)} pages')
+for extra in ['https://thewinegoat.com/en/', 'https://thewinegoat.com/it/capre/', 'https://thewinegoat.com/this-page-does-not-exist/']:
+    u, c, can, rob = page(extra); print(f'- not in sitemap, checked live: {u} → status {c}, canonical {can}, robots {rob}')
+print(f'\n**SITEMAPS: {"PASS" if not FAIL else "FAIL (" + ", ".join(FAIL[:6]) + ")"}**')
 PY
 echo
 echo "## E. Favicon (live download + image decode)"

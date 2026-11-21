@@ -1,0 +1,21 @@
+# Static site checks on every push to main that touches pages, sitemaps or the SEO tools: the same gate as
+# tools/seo_tech/check_site.sh (links, language of links, reachability from each home, sitemaps, hreflang, noindex).
+# GitHub Pages publishes main independently of this workflow, so a red run does NOT block the deploy: it is the alarm.
+# The blocking gate is check_site.sh, run by the builders' users before pushing (optionally as a git pre-push hook).
+# The live checks (HTTP status of every sitemap URL on thewinegoat.com) run in pages-https.yml.
+name: Site checks
+on:
+  push:
+    branches: [main]
+    paths: ["**.html", "sitemap*.xml", "robots.txt", "tools/seo_tech/**", "tools/site_i18n/**", "tools/seo_core/**", "tools/seo_sp/**", "tools/geo/**", ".github/workflows/site-checks.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency: { group: site-checks, cancel-in-progress: true }
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run the site checks
+        run: bash tools/seo_tech/check_site.sh

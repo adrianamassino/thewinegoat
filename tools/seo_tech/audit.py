@@ -5,6 +5,11 @@ import glob, json, os, re, sys, html
 from collections import Counter, defaultdict
 D = 'https://thewinegoat.com'
 SKIP = ('app/', 'mobile/', 'tools/', 'node_modules/', '.git/', 'img/', 'assets/')
+# Documented exceptions: the only public pages that may carry noindex (anything else with noindex fails the audit)
+EXPECTED_NOINDEX = {'admin/index.html',          # admin console
+                    'delete-account/index.html', # account deletion page required by the app stores, not a search landing page
+                    'en/index.html',             # redirect stub to / (English lives at the root)
+                    'it/capre/index.html'}       # internal goat gallery
 pages = sorted(p for p in glob.glob('**/index.html', recursive=True) if not p.startswith(SKIP))
 P = defaultdict(list); titles = defaultdict(list); descs = defaultdict(list); noindex = set()
 def url_of(p): d = os.path.dirname(p); return D + '/' + (d + '/' if d else '')
@@ -48,6 +53,20 @@ for p in pages:
     if 'class="fabout"' not in body: P['footer without About link, run tools/geo/sitewide.py (check)'].append(p)
     if not re.search(r'<meta[^>]+name=["\']viewport', head): P['no viewport'].append(p)
     if not re.search(r'<html[^>]+lang=', s[:400]): P['no html lang'].append(p)
+for p_ in sorted(P.get('noindex (info)', [])):
+    if p_ not in EXPECTED_NOINDEX: P['unexpected noindex (add to EXPECTED_NOINDEX in audit.py only if intended)'].append(p_)
+# hreflang: every code's language must be the language of the page it points to (<html lang>)
+LANG = {}
+for p_ in pages:
+    m_ = re.search(r'<html[^>]+lang=["\']([^"\']+)', open(p_, encoding='utf8').read(600)); LANG[url_of(p_)] = (m_.group(1) if m_ else '').lower()
+for p_ in pages:
+    if url_of(p_) in noindex: continue
+    head_ = open(p_, encoding='utf8').read(); head_ = head_[:head_.find('</head>')]
+    for code, h in re.findall(r'<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"', head_):
+        if code == 'x-default': continue
+        if h not in LANG: P['hreflang points to a page that does not exist or is not indexable'].append(f'{p_} → {code} {h}')
+        elif LANG[h].split('-')[0] != code.lower().split('-')[0]: P['hreflang language differs from the target page language'].append(f'{p_} → {code} {h} (lang={LANG[h]})')
+        elif h in noindex: P['hreflang points to a page that does not exist or is not indexable'].append(f'{p_} → {code} {h}')
 for t, ps in titles.items():
     if len(ps) > 1: P['duplicate title'].append(f'{t!r}: {ps}')
 for t, ps in descs.items():

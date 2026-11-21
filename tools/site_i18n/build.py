@@ -326,7 +326,9 @@ def main():
         os.system(f'{sys.executable} tools/seo_tech/internal_links.py --quiet')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); llms.txt: {nl} links')
     # LAST: sitemap index + one sitemap per language, from the pages as they now are (the only writer of the sitemaps)
-    os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')
+    rc = os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')   # refuses to write invalid sitemaps
+    if rc or os.system(f'{sys.executable} tools/site_i18n/linkcheck.py > /dev/null'):
+        sys.exit('build: sitemaps or links FAILED: run bash tools/seo_tech/check_site.sh for details; do not push')
 
 
 if __name__ == '__main__':
