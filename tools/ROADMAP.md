@@ -5,12 +5,11 @@ si aspetta che pubblichino, poi i successivi. Ogni lavoro usa un proprio worktre
 
 ## In corso
 - Sitemap: indice + una sitemap per lingua, audit dell'indicizzazione (worktree `wt-sitemap`).
-- Guida completa WSET Livello 3 (nuova) e guida del Diploma portata allo stesso formato, in en/it/fr/es/es-ar (worktree `wt-l3hub`).
 - App: Sake 1 e Birra 1 (`wt-sakebeer`), suoni (`wt-sfx`), ultimi testi in inglese del livello 2 (`wt-l2core`).
 
 ## In coda, in quest'ordine
-1. **Pulsanti di conversione** in tutte le guide SEO, in tutte le 19 lingue («Fai il test», «Iscriviti ora», «Inizia gratis»):
-   uno strumento idempotente agganciato alla build, con link all'app nella lingua e nel livello giusti. Mai prezzi.
+1. Fatto (21 nov): guida completa del Livello 3 e del Diploma (en/it/fr/es/es-ar, `tools/seo2/lvguide.py`) e pulsanti di conversione
+   in tutte le guide, 19 lingue (`tools/seo_tech/cta.py`, agganciato alle build e a `check_site.sh`).
 2. **Una guida completa per ogni programma d'esame**: Birra 1 e 2, Sake 1, 2 e 3 (nuove); Spirits 1, 2 e 3 (esistono: stesso formato
    delle guide dei livelli 1–4). Prima en/it/fr/es/es-ar, poi le altre lingue. Fonti: le specifiche in /home/claude/books (private).
    Non promettere corsi che nell'app non esistono ancora.

@@ -114,3 +114,13 @@ body.seo{background:var(--bg);font-family:"DM Sans",system-ui,sans-serif}
 .lvpage .seosec>h3{margin:26px 0 10px}.lvpage .lvlinks li{font-weight:400}
 /* level-guide series block (tools/lvseries.py) */
 .lvseries{margin:34px 0;padding:18px 18px 8px;border-radius:18px;background:#fff;box-shadow:inset 0 0 0 1px #eadfd3}.lvseries h2{font-size:clamp(20px,2.4vw,26px);margin:0 0 12px}.lvseries ol{list-style:none;margin:0;padding:0;display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}.lvseries li{margin:0 0 10px}.lvseries a{display:block;height:100%;box-sizing:border-box;padding:10px 12px;border-radius:12px;background:#fbf4f6;color:#5c1630;text-decoration:none;font-weight:600;line-height:1.35}.lvseries a span{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#a07a86;font-weight:800;margin-bottom:2px}.lvseries a[aria-current]{background:#7a1f3d;color:#fff}.lvseries a[aria-current] span{color:#f2cf87}
+
+/* conversion blocks in the guides (tools/seo_tech/cta.py) */
+.gcta{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px;margin:26px 0;padding:16px 20px;border-radius:18px;background:#fbf1f3;box-shadow:inset 0 0 0 1.5px #e8cdd5}
+.gcta p{margin:0;flex:1 1 280px;font-weight:700;font-size:17px;line-height:1.45;color:#3e0f22}
+.gcta .ctas{display:flex;flex-wrap:wrap;gap:10px;margin:0}
+.gcta .btn{align-self:center}.gcta .btn-ghost{background:#fff}
+.gcta .btn:focus-visible{outline:3px solid #b8892e;outline-offset:3px}
+.gcta-mid{background:#fff8ea;box-shadow:inset 0 0 0 1.5px #ecd9a8}
+.gcta-end{background:linear-gradient(135deg,#3e0f22,#6e1a3c);box-shadow:none;padding:22px 24px}.gcta-end p{color:#fff;font-size:18px}
+@media (max-width:640px){.gcta{flex-direction:column;align-items:stretch;text-align:center;padding:16px}.gcta p{flex:none}.gcta .ctas{justify-content:center}.gcta .btn{flex:1 1 auto}}

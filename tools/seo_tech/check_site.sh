@@ -10,6 +10,7 @@
 #  - a page links to another language's version of a page that exists in its own language                    (internal_links.py --check)
 #  - an indexable page is not reachable from the home of its language, or is more than 3 clicks away          (audit.py)
 #  - a sitemap is invalid, stale, lists a non-canonical / noindex / missing URL or misses an indexable page    (sitemaps.py --check, audit.py)
+#  - a guide misses its conversion buttons or has outdated ones (run python3 tools/seo_tech/cta.py)             (cta.py --check)
 #  - a page has noindex without being in EXPECTED_NOINDEX (audit.py), canonical not self, duplicate title…  (audit.py)
 # External links are never checked; intentional exceptions are documented in audit.py (EXPECTED_NOINDEX).
 cd "$(git rev-parse --show-toplevel)" || exit 1
@@ -21,6 +22,7 @@ fi
 rc=0
 step() { echo "== $1"; shift; "$@" > /tmp/twg_check.out 2>&1; r=$?; tail -n 25 /tmp/twg_check.out; [ $r -eq 0 ] && echo "   OK" || { echo "   FAILED"; rc=1; }; }
 step "links stay in the page's language, every home lists its guides" python3 tools/seo_tech/internal_links.py --check
+step "conversion buttons present and up to date in every guide" python3 tools/seo_tech/cta.py --check
 step "sitemaps up to date and valid" python3 tools/seo_tech/sitemaps.py --check
 step "internal links and hreflang" python3 tools/site_i18n/linkcheck.py
 step "technical SEO audit (canonical, noindex, sitemaps, reachability, hreflang languages)" python3 tools/seo_tech/audit.py

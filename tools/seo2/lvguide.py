@@ -270,3 +270,4 @@ if __name__ == '__main__':
     llms()
     sitemap()
     os.system(f'{sys.executable} tools/lvseries.py --quiet')  # Level 1 → 4 series links (only guides that exist in each language)
+    if os.path.exists('tools/seo_tech/cta.py'): os.system(f'{sys.executable} tools/seo_tech/cta.py --quiet')  # conversion buttons

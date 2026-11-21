@@ -6,7 +6,9 @@
     python3 tools/site_i18n/build.py de --group wset-level-2
     python3 tools/site_i18n/build.py de --check      # validate the translation files only, write nothing
     python3 tools/site_i18n/build.py --sync          # only the sync step
-    options: --fallback home   links to a page not yet in that language go to the language home (default: the English page)
+    options: --allow-english  rebuild a page even when most of the English page is new text its translation file does not cover
+                              (default: such a page is kept as published; a few new segments stay in English, as before)
+             --fallback home   links to a page not yet in that language go to the language home (default: the English page)
              --date YYYY-MM-DD footer/schema date of the new pages (default: today)
 
 Input: tools/site_i18n/<lang>/<group>.json = {"group", "lang", "src_sha", "segments": [translations, same order/length as
@@ -106,6 +108,14 @@ def jobs_for(l, only=None):
             for x in err[:12]: print(f'  ✗ {l}/{g}: {x}')
             continue
         M = {s['t']: t for s, t in zip(S['segments'], T['segments'])}
+        if '--allow-english' not in sys.argv and os.path.exists(C.fs(slugs[l]) if g != '_home' else C.fs(C.home(l))) and g != '_home':
+            # the English page was rewritten after this translation was written (more than 20 segments and 10% of the
+            # page are new): rebuilding would publish a largely English page. Keep the published page until the file is brought up to date
+            # (python3 tools/site_i18n/realign.py todo <group>), or pass --allow-english to rebuild anyway.
+            d0 = open(base, encoding='utf8').read()
+            d0 = re.sub(r'<!--(lvseries|gcta)-->.*?<!--/\1-->', '', d0, flags=re.S)
+            allseg = seg.segments(d0, region); new = [x['t'] for x in allseg if x['t'] not in M]
+            if len(new) > max(20, len(allseg) // 10): print(f'  = {l}/{g}: published page kept, {len(new)} segment(s) of the English page are not translated yet (realign.py todo {g} {l})'); continue
         miss = []
         def tr(t, k, M=M, miss=miss):
             if t in M: return M[t]
@@ -183,6 +193,7 @@ def build_page(l, g, base, region, tr, lm):
     url = C.home(l) if g == '_home' else SL[g][l]
     doc = open(base, encoding='utf8').read()
     doc = re.sub(r'<!--lvseries-->.*?<!--/lvseries-->', '', doc, flags=re.S)   # language-specific: re-added by tools/lvseries.py in the sync step
+    doc = re.sub(r'<!--gcta-->.*?<!--/gcta-->', '', doc, flags=re.S)   # conversion blocks: language-specific, re-added by tools/seo_tech/cta.py
     if g == '_home': doc = absolutize(doc)
     doc = seg.process(doc, tr, region, ld_post=ld_post(l, lm), data_post=data_post(l))
     code = C.HOME_HREF.get(l, l) if g == '_home' else C.href(l)
@@ -325,6 +336,8 @@ def main():
         os.system(f'{sys.executable} tools/lvseries.py --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)
         os.system(f'{sys.executable} tools/ar_football_guides.py --quiet')
+    if os.path.exists('tools/seo_tech/cta.py'):  # conversion buttons in every guide (top / middle / end), links to the app in the page's language and level
+        os.system(f'{sys.executable} tools/seo_tech/cta.py --quiet')
     if os.path.exists('tools/seo_tech/internal_links.py'):  # links to another language → the page's own language; every home links its guides
         os.system(f'{sys.executable} tools/seo_tech/internal_links.py --quiet')
     print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); llms.txt: {nl} links')

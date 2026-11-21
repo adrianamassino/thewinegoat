@@ -125,4 +125,5 @@ if PAGES[next(iter(PAGES))]['slug']['en'] not in lt:
     open(f'{ROOT}/llms.txt', 'w', encoding='utf8').write(lt)
 print(len(slugs), 'pages')
 if os.path.exists('tools/lvseries.py'): os.system(f'{sys.executable} tools/lvseries.py --quiet')  # re-add the Level 1 → 4 series blocks
+if os.path.exists('tools/seo_tech/cta.py'): os.system('python3 tools/seo_tech/cta.py --quiet')  # conversion buttons in every guide
 os.chdir(ROOT); os.system(f'{sys.executable} tools/seo_tech/internal_links.py --quiet'); os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages (their only writer)

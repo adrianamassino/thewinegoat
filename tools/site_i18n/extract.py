@@ -30,6 +30,7 @@ def extract(g, url):
     src = 'index.html' if url == '/' else C.fs(url)
     doc = open(src, encoding='utf8').read()
     doc = re.sub(r'<!--lvseries-->.*?<!--/lvseries-->', '', doc, flags=re.S)   # added per language by tools/lvseries.py, never translated
+    doc = re.sub(r'<!--gcta-->.*?<!--/gcta-->', '', doc, flags=re.S)   # conversion blocks: language-specific, re-added by tools/seo_tech/cta.py
     segs = seg.segments(doc, region)
     for s in segs:
         n = NOTE.get(s['k'])
