@@ -31,3 +31,7 @@ si aspetta che pubblichino, poi i successivi. Ogni lavoro usa un proprio worktre
 - Pass, Merit e Distinction restano in inglese.
 - Non cambiare gli indirizzi delle pagine già pubblicate.
 - Chiavi e password solo nei segreti di GitHub, mai in chat o nel repository.
+
+## Nuove lingue del sito (richiesta 21 nov)
+- Bulgaro (bg) e rumeno (ro): home + guide, da avviare dopo che la nuova struttura di link/sitemap è pubblicata. App: restano le lingue esistenti.
+- Spagnolo: nessuna pagina per paese. /es-ar/ vale per Argentina e Uruguay (hreflang es-AR, es-UY); /es/ per Spagna e gli altri paesi ispanofoni.
