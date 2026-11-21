@@ -1,3 +1,61 @@
+/* Anonymous statistics (no cookies, no IP, no visitor id): one event per page view, home-quiz start/finish,
+   sign-up and buy click, with the page language, the path and where the visit came from. See supabase/stats.sql. */
+(function () {
+  try {
+    if (window.twgTrack) return;
+    var U = "https://tetvfgpdxwkmfdxxadxa.supabase.co/rest/v1/rpc/twg_track", K = "sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq";
+    var h = location.hostname, live = h === "thewinegoat.com" || h === "www.thewinegoat.com";
+    var bot = navigator.webdriver || /bot|crawl|spider|headless|lighthouse|preview|monitor|pingdom|slurp/i.test(navigator.userAgent || "");
+    var app = /^\/app(\/|$)/.test(location.pathname);
+    function lang() {
+      var l = ""; if (app) try { l = localStorage.getItem("wset3-lang") || ""; } catch (e) {}
+      l = (l || document.documentElement.lang || "en").toLowerCase();
+      return /^[a-z]{2}(-[a-z]{2,4})?$/.test(l) ? l : "en";
+    }
+    function src() {
+      var r = ""; try { r = new URL(document.referrer).hostname.toLowerCase(); } catch (e) {}
+      if (!r) return /[?&]utm_source=(ig|instagram)/i.test(location.search) ? "instagram" : "direct";
+      if (r === h || /(^|\.)thewinegoat\.com$/.test(r)) return "internal";
+      if (/(^|\.)google\./.test(r)) return "google";
+      if (/(^|\.)bing\.com$/.test(r)) return "bing";
+      if (/duckduckgo|yahoo\.|yandex\.|baidu\.|ecosia|qwant|naver\.|brave\.com|startpage/.test(r)) return "other-search";
+      if (/instagram\.com$/.test(r)) return "instagram";
+      if (/facebook\.com$|(^|\.)t\.co$|twitter\.com$|(^|\.)x\.com$|linkedin\.com$|tiktok\.com$|reddit\.com$|pinterest\.|youtube\.com$|threads\.|whatsapp/.test(r)) return "social";
+      if (/chatgpt\.com$|openai\.com$|perplexity\.ai$|claude\.ai$|gemini\.google|copilot\.microsoft/.test(r)) return "ai";
+      return "site";
+    }
+    var S = src();
+    function send(ev, extra) {
+      if (!live || bot) return;
+      var p = location.pathname.replace(/index\.html$/, "");
+      if (!/^\/[A-Za-z0-9\/_.%-]{0,200}$/.test(p)) return;
+      try {
+        fetch(U, { method: "POST", keepalive: true, headers: { "Content-Type": "application/json", apikey: K, Authorization: "Bearer " + K },
+          body: JSON.stringify({ p_ev: ev, p_lang: lang(), p_path: p, p_src: S, p_entry: ev === "view" && S !== "internal", p_extra: extra ? String(extra).toLowerCase().slice(0, 24) : null }) }).catch(function () {});
+      } catch (e) {}
+    }
+    window.twgTrack = send;
+    send("view");
+    document.addEventListener("click", function (e) {
+      var a = e.target && e.target.closest && e.target.closest('a[href*="buy.stripe.com"]'); if (a) send("buy_click");
+    }, true);
+    if (app) {
+      var n = 0, iv = setInterval(function () {
+        var A = window.twgAccount; if (++n > 60) clearInterval(iv);
+        var C = A && (typeof A.client === "function" ? A.client() : A.client);
+        if (!C || !C.auth) return; clearInterval(iv);
+        C.auth.onAuthStateChange(function (evt, s) {
+          try {
+            if (evt !== "SIGNED_IN" || !s || !s.user) return;
+            var k = "twg-st-su", t = Date.parse(s.user.created_at);
+            if (localStorage.getItem(k) === s.user.id || !(Date.now() - t < 3600000)) return;
+            localStorage.setItem(k, s.user.id); send("signup");
+          } catch (e) {}
+        });
+      }, 500);
+    }
+  } catch (e) {}
+})();
 /* The Wine Goat — themed decorations for every page of the site (not the app).
    Painted goats from the brand set doing things (sipping, uncorking, playing with grapes, laughing, jumping onto a
    barrel, leaping, toasting, walking), plus detailed wine props (grapes, glasses, bottles, flutes, barrels, corks,

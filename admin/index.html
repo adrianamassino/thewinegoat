@@ -40,6 +40,7 @@
   <section id="v-app" hidden>
     <nav class="tabs" role="tablist">
       <button type="button" role="tab" data-tab="users" aria-selected="true">Utenti</button>
+      <button type="button" role="tab" data-tab="stats" aria-selected="false">Statistiche</button>
       <button type="button" role="tab" data-tab="audit" aria-selected="false">Registro azioni</button>
     </nav>
 
@@ -103,6 +104,18 @@
           <tbody id="rows"></tbody>
         </table>
       </div>
+    </div>
+
+    <div id="t-stats" hidden>
+      <div class="card">
+        <h2>Visite e conversioni per lingua
+          <select id="st-days" aria-label="Periodo"><option value="7">ultimi 7 giorni</option><option value="30" selected>ultimi 30 giorni</option><option value="90">ultimi 90 giorni</option></select></h2>
+        <p class="muted">Eventi anonimi, senza cookie: si contano le visite, non le persone. «Visite» = arrivi da fuori dal sito; «da ricerca» = arrivi da Google, Bing e altri motori. Le percentuali sono rispetto alle visite.</p>
+        <div class="tablewrap"><table class="audit"><thead><tr><th>Lingua</th><th>Visite</th><th>da ricerca</th><th>Pagine viste</th><th>Test iniziati</th><th>Test finiti</th><th>Registrazioni</th><th>Clic su acquista</th></tr></thead><tbody id="st-lang"></tbody></table></div>
+      </div>
+      <div class="card"><h2>Provenienza delle visite</h2><div class="tablewrap"><table class="audit"><thead><tr><th>Da dove</th><th>Visite</th></tr></thead><tbody id="st-src"></tbody></table></div></div>
+      <div class="card"><h2>Pagine di arrivo più viste</h2><div class="tablewrap"><table class="audit"><thead><tr><th>Pagina</th><th>Visite</th><th>da ricerca</th></tr></thead><tbody id="st-top"></tbody></table></div></div>
+      <div class="card"><h2>Giorno per giorno</h2><div class="tablewrap"><table class="audit"><thead><tr><th>Giorno</th><th>Visite</th><th>Test iniziati</th><th>Registrazioni</th></tr></thead><tbody id="st-day"></tbody></table></div></div>
     </div>
 
     <div id="t-audit" hidden>

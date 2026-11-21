@@ -382,10 +382,28 @@
     b.addEventListener("click", function () {
       var t = b.getAttribute("data-tab");
       Array.prototype.forEach.call(document.querySelectorAll(".tabs button"), function (x) { x.setAttribute("aria-selected", String(x === b)); });
-      $("t-users").hidden = t !== "users"; $("t-audit").hidden = t !== "audit";
+      $("t-users").hidden = t !== "users"; $("t-audit").hidden = t !== "audit"; $("t-stats").hidden = t !== "stats";
       if (t === "audit") loadAudit();
+      if (t === "stats") loadStats();
     });
   });
+  var SRC = { google: "Google", bing: "Bing", "other-search": "Altri motori di ricerca", instagram: "Instagram", social: "Altri social", ai: "Assistenti AI", site: "Altri siti", direct: "Diretto (indirizzo digitato, app, email)" };
+  function loadStats() {
+    var none = function (n) { return '<tr><td colspan="' + n + '" class="empty">Nessun dato nel periodo.</td></tr>'; };
+    sb.rpc("admin_stats", { p_days: +$("st-days").value }).then(function (r) {
+      if (r.error) { toast(errText(r.error), true); return; }
+      var D = r.data || {}, pc = function (a, b) { return b ? a + ' <span class="muted">(' + (100 * a / b).toFixed(1) + '%)</span>' : String(a); };
+      var L = D.by_lang || [], T = { lang: "Totale", visits: 0, views: 0, search: 0, quiz_start: 0, quiz_done: 0, signup: 0, buy_click: 0 };
+      L.forEach(function (x) { ["visits", "views", "search", "quiz_start", "quiz_done", "signup", "buy_click"].forEach(function (k) { T[k] += x[k] || 0; }); });
+      $("st-lang").innerHTML = L.length ? L.concat([T]).map(function (x) {
+        return "<tr><td><strong>" + esc(x.lang) + "</strong></td><td>" + x.visits + "</td><td>" + pc(x.search, x.visits) + "</td><td>" + x.views + "</td><td>" + pc(x.quiz_start, x.visits) + "</td><td>" + pc(x.quiz_done, x.visits) + "</td><td>" + pc(x.signup, x.visits) + "</td><td>" + pc(x.buy_click, x.visits) + "</td></tr>";
+      }).join("") : none(8);
+      $("st-src").innerHTML = (D.by_src || []).map(function (x) { return "<tr><td>" + esc(SRC[x.src] || x.src) + "</td><td>" + x.visits + "</td></tr>"; }).join("") || none(2);
+      $("st-top").innerHTML = (D.top_entry || []).map(function (x) { return "<tr><td><code>" + esc(x.path) + "</code></td><td>" + x.visits + "</td><td>" + x.search + "</td></tr>"; }).join("") || none(3);
+      $("st-day").innerHTML = (D.by_day || []).slice().reverse().map(function (x) { return "<tr><td>" + esc(fmtDate(x.day)) + "</td><td>" + x.visits + "</td><td>" + x.quiz_start + "</td><td>" + x.signup + "</td></tr>"; }).join("") || none(4);
+    });
+  }
+  $("st-days").addEventListener("change", loadStats);
   function loadAudit() {
     $("audit-rows").innerHTML = '<tr><td colspan="5" class="empty">Caricamento…</td></tr>';
     sb.rpc("admin_list_audit", { p_limit: 300 }).then(function (r) {

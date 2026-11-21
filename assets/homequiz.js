@@ -198,6 +198,7 @@
   }
   function start(t, fresh) {
     theme = t; lsSet(KEY, t);
+    try { if (fresh !== false && window.twgTrack && !runOf(t)) window.twgTrack('quiz_start', t); } catch (e) {}
     body.innerHTML = '<p class="hqz-sub" aria-live="polite">…</p>';
     load().then(function (B) {
       /* the fixed set of the theme, in its order (the same questions every time) */
@@ -237,6 +238,7 @@
   }
   /* the questions are done: save the result for the app and ask for the free account (the score is shown there) */
   function finish() {
+    try { if (window.twgTrack) window.twgTrack('quiz_done', theme); } catch (e) {}
     var topics = {}, good = 0;
     qs.forEach(function (q, k) { var t = topics[q.t] || (topics[q.t] = [0, 0]); t[1]++; if (ans[k] === 0) { t[0]++; good++; } });
     /* a: the chosen option of each question (0 = correct), for the review in the app */
