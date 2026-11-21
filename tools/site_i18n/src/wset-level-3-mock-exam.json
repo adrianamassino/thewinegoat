@@ -3,9 +3,9 @@
 "source": "wset-level-3-mock-exam/index.html",
 "url": "/wset-level-3-mock-exam/",
 "region": "main",
-"sha": "3232e6413616",
-"words": 3268,
-"segment_words": 3622,
+"sha": "c79a0dd8420c",
+"words": 3267,
+"segment_words": 3636,
 "segments": [
 {
 "t": "WSET Level 3 mock exam – free practice test with answers",
@@ -43,6 +43,11 @@
 {
 "t": "A mock exam is the closest thing to exam day: the same mix of topics, the same time pressure and the same traps. Doing several before the WSET Level 3 exam shows you where you lose marks and trains your timing for the 50 multiple-choice questions and the 4 written answers.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 mock exam: free practice test (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Try the mini mock below: 10 questions from different chapters, marked instantly. In the app you can take full timed mock exams with multiple-choice questions, short written answers and a blind tasting note, as many times as you like.",
@@ -434,7 +439,7 @@
 "k": "text"
 },
 {
-"t": "About 2 hours",
+"t": "2 hours",
 "k": "text"
 },
 {
@@ -798,7 +803,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

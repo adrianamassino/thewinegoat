@@ -3,9 +3,9 @@
 "source": "wset-level-2-vs-level-3/index.html",
 "url": "/wset-level-2-vs-level-3/",
 "region": "main",
-"sha": "cff012637e4f",
-"words": 3239,
-"segment_words": 3314,
+"sha": "de27097fcf19",
+"words": 3238,
+"segment_words": 3329,
 "segments": [
 {
 "t": "WSET Level 2 vs Level 3: differences, difficulty and which to choose",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET Level 2 or Level 3: what really changes (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 2 or Level 3: what really changes | WSET Level 2 vs Level 3",
@@ -190,7 +195,7 @@
 "k": "text"
 },
 {
-"t": "About two hours",
+"t": "2 hours",
 "k": "text"
 },
 {
@@ -886,7 +891,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

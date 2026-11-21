@@ -1,0 +1,956 @@
+{
+"group": "wset-level-3-exam-format",
+"source": "wset-level-3-exam-format/index.html",
+"url": "/wset-level-3-exam-format/",
+"region": "main",
+"sha": "cdf3ff173fed",
+"words": 3385,
+"segment_words": 3460,
+"segments": [
+{
+"t": "WSET Level 3 exam format explained: MCQ, short answers, tasting",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "How the WSET Level 3 Award in Wines exam works: 50 multiple-choice questions, 4 short written answers, a blind tasting of two wines and the 55% pass mark.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 3 exam format, WSET 3 exam structure, WSET Level 3 multiple choice, WSET 3 short answer questions, WSET 3 tasting exam, WSET Level 3 pass mark, WSET 3 grades merit distinction",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "The WSET Level 3 exam, explained part by part – WSET Level 3 exam format, WSET 3 exam structure (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 exam, explained part by part",
+"k": "text"
+},
+{
+"t": "{1}In short{/1}",
+"k": "text"
+},
+{
+"t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 exam, explained part by part (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "The WSET Level 3 exam, explained part by part | WSET Level 3 exam format",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "How the WSET Level 3 Award in Wines exam works: 50 multiple-choice questions, 4 short written answers, a blind tasting of two wines, the 55% pass mark, grades and how to prepare for each part.",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 Award in Wines is assessed in two units: a theory paper and a blind tasting. You need at least 55% in each unit to pass, and a strong result in one cannot make up for a weak result in the other.",
+"k": "text"
+},
+{
+"t": "Knowing exactly what each part asks for is the fastest way to stop losing marks. Here is how the exam is built and how to train for each section.",
+"k": "text"
+},
+{
+"t": "Unit 1 – Theory: 50 multiple-choice questions",
+"k": "text"
+},
+{
+"t": "The multiple-choice section covers the whole syllabus: the vineyard, winemaking, the regions of the world, sparkling and fortified wines, storage, service and food pairing. Each question has one correct answer among four options, and many options are deliberately plausible.",
+"k": "text"
+},
+{
+"t": "Expect questions on causes and effects (why a climate gives a style), not only on names.",
+"k": "text"
+},
+{
+"t": "Wrong options often mix a real grape with the wrong region, or a real technique with the wrong effect.",
+"k": "text"
+},
+{
+"t": "Practise in timed sets: speed comes from recognising patterns, not from reading faster.",
+"k": "text"
+},
+{
+"t": "Unit 1 – Theory: 4 short written answers",
+"k": "text"
+},
+{
+"t": "The written paper is where most marks are won or lost. Each question is split into parts, and every mark rewards one correct, explained idea. Lists of keywords without the “why” score poorly.",
+"k": "text"
+},
+{
+"t": "Use one idea per sentence and always link cause → effect → style.",
+"k": "text"
+},
+{
+"t": "Look at the marks per part: 6 marks usually means 6 separate points.",
+"k": "text"
+},
+{
+"t": "Use precise exam vocabulary (e.g. “diurnal range”, “malolactic conversion”, “lees contact”).",
+"k": "text"
+},
+{
+"t": "Unit 2 – Tasting: two wines, blind",
+"k": "text"
+},
+{
+"t": "You taste two wines and describe them with the Systematic Approach to Tasting: appearance, nose, palate and conclusions on quality and readiness for drinking. Marks come from accurate, consistent descriptions; you are not asked to name the wine.",
+"k": "text"
+},
+{
+"t": "Write a full note for every structural element: sweetness, acidity, tannin, alcohol, body, flavour intensity, finish.",
+"k": "text"
+},
+{
+"t": "Justify quality with balance, length, intensity and complexity.",
+"k": "text"
+},
+{
+"t": "Train with the official terms only – synonyms do not score.",
+"k": "text"
+},
+{
+"t": "Results and grades",
+"k": "text"
+},
+{
+"t": "Each unit is marked separately. With 55% or more in both units you pass; an overall 65% gives a Merit, and 80% with at least 65% in each paper a Distinction. Results usually arrive a few weeks after the exam.",
+"k": "text"
+},
+{
+"t": "Part",
+"k": "text"
+},
+{
+"t": "What it tests",
+"k": "text"
+},
+{
+"t": "How to train",
+"k": "text"
+},
+{
+"t": "50 MCQ",
+"k": "text"
+},
+{
+"t": "Breadth of knowledge across the syllabus",
+"k": "text"
+},
+{
+"t": "Daily question sets + weekly mock exam",
+"k": "text"
+},
+{
+"t": "4 short answers",
+"k": "text"
+},
+{
+"t": "Explaining causes and effects",
+"k": "text"
+},
+{
+"t": "One written answer a day, marked on key points",
+"k": "text"
+},
+{
+"t": "Blind tasting (2 wines)",
+"k": "text"
+},
+{
+"t": "Accurate SAT notes and conclusions",
+"k": "text"
+},
+{
+"t": "Full SAT notes on every wine you taste",
+"k": "text"
+},
+{
+"t": "The WSET Level 3 exam at a glance",
+"k": "text"
+},
+{
+"t": "Before looking at strategy, it helps to see the whole exam on one page. The WSET Level 3 Award in Wines has two units that are marked independently. Unit 1 is the theory unit, a written paper that combines 50 multiple-choice questions with 4 short written-answer questions. Unit 2 is the tasting unit, in which you assess two wines blind and write a full tasting note for each using the Systematic Approach to Tasting. Each unit needs at least 55% to pass.",
+"k": "text"
+},
+{
+"t": "Unit",
+"k": "text"
+},
+{
+"t": "Format",
+"k": "text"
+},
+{
+"t": "What it rewards",
+"k": "text"
+},
+{
+"t": "To pass",
+"k": "text"
+},
+{
+"t": "Unit 1 – theory, part A",
+"k": "text"
+},
+{
+"t": "50 multiple-choice questions, one correct option out of four",
+"k": "text"
+},
+{
+"t": "Breadth: recognising facts, causes and effects across the whole syllabus",
+"k": "text"
+},
+{
+"t": "At least 55% in this part (each theory part is passed on its own)",
+"k": "text"
+},
+{
+"t": "Unit 1 – theory, part B",
+"k": "text"
+},
+{
+"t": "4 short written-answer questions, each split into sub-parts",
+"k": "text"
+},
+{
+"t": "Depth: explaining why a wine has its style, quality and price",
+"k": "text"
+},
+{
+"t": "Unit 2 – tasting",
+"k": "text"
+},
+{
+"t": "2 wines tasted blind, full written SAT note for each",
+"k": "text"
+},
+{
+"t": "Accurate, consistent description and justified conclusions",
+"k": "text"
+},
+{
+"t": "At least 55% in the tasting unit",
+"k": "text"
+},
+{
+"t": "Two consequences follow from this structure. First, you cannot rely on your best part: a brilliant tasting cannot rescue a weak theory paper, and the reverse is also true. Second, within the theory unit the two kinds of question test different skills, so a candidate who only drills multiple choice is preparing for half of the paper. Always confirm the exact timetable, the materials allowed and the rules of the exam room with your course provider, since these details are communicated by the school that organises your session.",
+"k": "text"
+},
+{
+"t": "Exam day, step by step",
+"k": "text"
+},
+{
+"t": "Most candidates sit the theory paper and the tasting on the same day. Knowing the sequence in advance removes a lot of stress, because nothing on the day comes as a surprise.",
+"k": "text"
+},
+{
+"t": "Arrive early with your identification and the documents your school asked for. Eat lightly and avoid strong flavours, coffee and mint just before the tasting.",
+"k": "text"
+},
+{
+"t": "Listen to the invigilator's instructions: how to fill in your candidate details, where to write the multiple-choice answers and how much time is available.",
+"k": "text"
+},
+{
+"t": "Theory paper: work through the multiple-choice questions and the four written answers in the order that suits your plan, keeping an eye on the clock.",
+"k": "text"
+},
+{
+"t": "Tasting: two wines are poured. You write a complete SAT note for each in the space provided, then your conclusions on quality and readiness for drinking.",
+"k": "text"
+},
+{
+"t": "Before handing in, check that every multiple-choice question has an answer, every sub-part of the written questions has been attempted and every tasting box is filled.",
+"k": "text"
+},
+{
+"t": "Results are sent later through your course provider; there is nothing to do in the meantime except rest.",
+"k": "text"
+},
+{
+"t": "Do a full rehearsal of exam day at least once during your preparation: same start time, same order of tasks, same breaks. Your body and your palate learn the rhythm, and the real day feels familiar.",
+"k": "text"
+},
+{
+"t": "How the 50 multiple-choice questions are built",
+"k": "text"
+},
+{
+"t": "The multiple-choice section samples the entire specification, so every chapter can appear: the vine and its environment, vineyard management, winemaking and maturation, the regions of the world, sparkling wines, fortified wines, and the service and food-pairing topics. Regional questions make up the largest share simply because the regional part of the syllabus is the largest, but you should expect at least a few questions on the general principles that underpin everything else.",
+"k": "text"
+},
+{
+"t": "Each question has a stem (the question itself), one key (the correct option) and three distractors. The distractors are rarely absurd. They are usually real wine facts placed in the wrong context, which is why surface familiarity is not enough. Recognising the different question types helps you choose the right reading strategy.",
+"k": "text"
+},
+{
+"t": "Question type",
+"k": "text"
+},
+{
+"t": "What it looks like",
+"k": "text"
+},
+{
+"t": "How to approach it",
+"k": "text"
+},
+{
+"t": "Identification",
+"k": "text"
+},
+{
+"t": "Which grape is the main variety of a named appellation?",
+"k": "text"
+},
+{
+"t": "Answer in your head first, then look for your answer among the options.",
+"k": "text"
+},
+{
+"t": "Cause and effect",
+"k": "text"
+},
+{
+"t": "Why does a large diurnal range help aromatic white wines?",
+"k": "text"
+},
+{
+"t": "Find the option that explains a mechanism, not just one that names a feature.",
+"k": "text"
+},
+{
+"t": "Technique and result",
+"k": "text"
+},
+{
+"t": "What effect does lees stirring have on a white wine?",
+"k": "text"
+},
+{
+"t": "Match the technique to its specific outcome: texture, flavour, colour, stability.",
+"k": "text"
+},
+{
+"t": "Labelling and law",
+"k": "text"
+},
+{
+"t": "What does a particular label term indicate?",
+"k": "text"
+},
+{
+"t": "Check the precise meaning; many terms sound similar but differ in what they guarantee.",
+"k": "text"
+},
+{
+"t": "Negative questions",
+"k": "text"
+},
+{
+"t": "Which of the following is NOT typical of a style?",
+"k": "text"
+},
+{
+"t": "Read the question twice and mark the word NOT; three options will be true.",
+"k": "text"
+},
+{
+"t": "Numbers and ranges",
+"k": "text"
+},
+{
+"t": "How much does a process raise the alcohol level?",
+"k": "text"
+},
+{
+"t": "Learn a few key figures well rather than many approximately.",
+"k": "text"
+},
+{
+"t": "A useful habit is to treat every option as a true-or-false statement. In a well-built question only one option is entirely true and entirely relevant to the stem. If two options both seem right, reread the stem: one of them usually answers a slightly different question, such as describing a region in general rather than the specific wine the question asks about.",
+"k": "text"
+},
+{
+"t": "How the 4 short written answers work",
+"k": "text"
+},
+{
+"t": "The written section is the part that distinguishes Level 3 from Level 2. Each question is built around a theme, for example a region, a style or a winemaking decision, and is broken into sub-parts with marks shown for each. The marking rewards precise, relevant points. A point is typically a fact that is correct, specific and linked to the question; a vague statement or a repetition of something already said earns nothing.",
+"k": "text"
+},
+{
+"t": "Command words and what they ask for",
+"k": "text"
+},
+{
+"t": "Command word",
+"k": "text"
+},
+{
+"t": "What the examiner wants",
+"k": "text"
+},
+{
+"t": "Typical mistake",
+"k": "text"
+},
+{
+"t": "State / identify / name",
+"k": "text"
+},
+{
+"t": "A short, precise fact",
+"k": "text"
+},
+{
+"t": "Writing a paragraph when one term is enough",
+"k": "text"
+},
+{
+"t": "Describe",
+"k": "text"
+},
+{
+"t": "The features of a wine, a process or a region",
+"k": "text"
+},
+{
+"t": "Explaining causes instead of describing features",
+"k": "text"
+},
+{
+"t": "Explain",
+"k": "text"
+},
+{
+"t": "Reasons: each point needs a because",
+"k": "text"
+},
+{
+"t": "Listing features without saying why they matter",
+"k": "text"
+},
+{
+"t": "Compare",
+"k": "text"
+},
+{
+"t": "Similarities and differences on the same criteria, both sides each time",
+"k": "text"
+},
+{
+"t": "Describing one wine fully, then the other, without linking them",
+"k": "text"
+},
+{
+"t": "A worked example",
+"k": "text"
+},
+{
+"t": "Imagine a practice question of our own: explain how the climate and the winemaking choices in Marlborough influence the style of its Sauvignon Blanc. A strong answer is not a long essay. It is a series of linked points, for example: the climate is cool and maritime, so the grapes ripen slowly and keep high acidity. Days are sunny and nights are cool, which preserves the aromatic compounds responsible for passion fruit and green pepper notes. Fermentation is usually carried out at low temperatures in stainless steel, which retains these primary aromas. Oak and malolactic conversion are usually avoided, so the wine stays fresh and fruit-driven. Bottling early keeps the pungent varietal character the style is known for.",
+"k": "text"
+},
+{
+"t": "Notice the pattern: each sentence carries one idea, uses exam vocabulary and links a cause to its effect on the wine. That is exactly the structure that collects marks. Writing the same content as a single list of keywords, such as cool, maritime, stainless steel, would show knowledge but miss the explanation the command word asks for.",
+"k": "text"
+},
+{
+"t": "Managing time in the theory paper",
+"k": "text"
+},
+{
+"t": "The theory paper is designed to be completed in the time available, but candidates who spend too long on multiple choice often rush the last written answer, and that is where marks disappear fastest. Decide your time plan before the exam and practise it in every mock. The split below is one sensible approach based on a paper of about two hours; adjust it to the exact duration your school confirms.",
+"k": "text"
+},
+{
+"t": "Phase",
+"k": "text"
+},
+{
+"t": "Suggested time",
+"k": "text"
+},
+{
+"t": "Goal",
+"k": "text"
+},
+{
+"t": "Read through the written questions",
+"k": "text"
+},
+{
+"t": "About 5 minutes",
+"k": "text"
+},
+{
+"t": "Let your memory start working on them in the background",
+"k": "text"
+},
+{
+"t": "50 multiple-choice questions",
+"k": "text"
+},
+{
+"t": "About 40 to 45 minutes",
+"k": "text"
+},
+{
+"t": "One steady pass, flagging doubtful questions",
+"k": "text"
+},
+{
+"t": "4 written answers",
+"k": "text"
+},
+{
+"t": "About 15 to 17 minutes each",
+"k": "text"
+},
+{
+"t": "Plan in keywords, then write linked sentences",
+"k": "text"
+},
+{
+"t": "Final check",
+"k": "text"
+},
+{
+"t": "About 5 to 10 minutes",
+"k": "text"
+},
+{
+"t": "Flagged questions, unanswered sub-parts, candidate details",
+"k": "text"
+},
+{
+"t": "Some candidates prefer to start with the written answers while their mind is fresh and finish with the multiple choice. Both orders work; what matters is that you have tested your order in practice and you stick to the timings on the day.",
+"k": "text"
+},
+{
+"t": "How the tasting unit is assessed",
+"k": "text"
+},
+{
+"t": "In the tasting unit you are not asked to name the wine. You are asked to describe it accurately using the Level 3 Systematic Approach to Tasting and to reach conclusions that follow logically from your description. Marks are spread across the note, so a complete and consistent note scores far better than a note with a few striking descriptors and missing elements.",
+"k": "text"
+},
+{
+"t": "Section of the note",
+"k": "text"
+},
+{
+"t": "Elements to cover",
+"k": "text"
+},
+{
+"t": "Where marks are often lost",
+"k": "text"
+},
+{
+"t": "Appearance",
+"k": "text"
+},
+{
+"t": "Clarity, intensity, colour",
+"k": "text"
+},
+{
+"t": "Choosing a colour that contradicts the age suggested elsewhere",
+"k": "text"
+},
+{
+"t": "Nose",
+"k": "text"
+},
+{
+"t": "Condition, intensity, aroma characteristics, development",
+"k": "text"
+},
+{
+"t": "Too few descriptors, or all from one cluster",
+"k": "text"
+},
+{
+"t": "Palate",
+"k": "text"
+},
+{
+"t": "Sweetness, acidity, tannin, alcohol, body, flavour intensity, flavour characteristics, finish",
+"k": "text"
+},
+{
+"t": "Structural levels placed one step too high or too low",
+"k": "text"
+},
+{
+"t": "Conclusions",
+"k": "text"
+},
+{
+"t": "Quality level, readiness for drinking or potential for ageing",
+"k": "text"
+},
+{
+"t": "A quality level that is asserted but not justified",
+"k": "text"
+},
+{
+"t": "Example of a consistent note",
+"k": "text"
+},
+{
+"t": "Here is how a coherent note reads for a hypothetical young red. Appearance: clear, deep ruby. Nose: clean, pronounced intensity, blackcurrant, black cherry, violet, vanilla and cedar, youthful. Palate: dry, medium-plus acidity, high tannin with fine texture, high alcohol, full body, pronounced flavour intensity with the same fruit and oak notes, long finish. Conclusions: very good quality, because the fruit, acidity, tannin and alcohol are in balance, the finish is long, the flavours are intense and several layers of fruit and oak add complexity. It can drink now but has potential for ageing, since the concentration of fruit and the firm tannin will support development in bottle.",
+"k": "text"
+},
+{
+"t": "Every element is present, the vocabulary is the standard vocabulary of the SAT, and the conclusions are supported by the observations above them. That is the target for each of the two wines.",
+"k": "text"
+},
+{
+"t": "Results, grades and resits",
+"k": "text"
+},
+{
+"t": "Each unit is marked on its own. If you reach at least 55% in both, you are awarded the qualification, and stronger overall performance can lead to a Merit or a Distinction. Results usually arrive some weeks after the exam through your course provider. If you pass one unit and fail the other, you normally resit only the unit you failed, and the unit you passed remains valid; your school can explain the practical arrangements and deadlines.",
+"k": "text"
+},
+{
+"t": "Because the units are independent, plan your revision so that the weaker unit receives more time in the final weeks. Many candidates are surprised to discover, after a first mock, that their tasting is safer than their written answers, or the opposite.",
+"k": "text"
+},
+{
+"t": "Common mistakes, part by part",
+"k": "text"
+},
+{
+"t": "Common mistake",
+"k": "text"
+},
+{
+"t": "Better habit",
+"k": "text"
+},
+{
+"t": "Multiple choice",
+"k": "text"
+},
+{
+"t": "Choosing the first plausible option",
+"k": "text"
+},
+{
+"t": "Answer mentally first, then test every option against the stem",
+"k": "text"
+},
+{
+"t": "Missing NOT, main or typically in the stem",
+"k": "text"
+},
+{
+"t": "Underline qualifiers before reading the options",
+"k": "text"
+},
+{
+"t": "Written answers",
+"k": "text"
+},
+{
+"t": "Lists of keywords with no explanation",
+"k": "text"
+},
+{
+"t": "One linked sentence per point: cause, effect, style",
+"k": "text"
+},
+{
+"t": "Ignoring a sub-part",
+"k": "text"
+},
+{
+"t": "Tick each sub-part in your plan as you answer it",
+"k": "text"
+},
+{
+"t": "Spending half the time on the first question",
+"k": "text"
+},
+{
+"t": "Fixed time per question, move on when it runs out",
+"k": "text"
+},
+{
+"t": "Tasting",
+"k": "text"
+},
+{
+"t": "Incomplete note",
+"k": "text"
+},
+{
+"t": "Use a mental checklist of every SAT element",
+"k": "text"
+},
+{
+"t": "Conclusions that contradict the note",
+"k": "text"
+},
+{
+"t": "Base the quality and ageing verdict only on what you wrote",
+"k": "text"
+},
+{
+"t": "Glossary of exam vocabulary",
+"k": "text"
+},
+{
+"t": "Diurnal range: the difference between day and night temperatures; a large range helps retain acidity and aromas.",
+"k": "text"
+},
+{
+"t": "Malolactic conversion: the transformation of sharper malic acid into softer lactic acid by bacteria, often adding buttery notes.",
+"k": "text"
+},
+{
+"t": "Lees contact: leaving the wine on dead yeast cells after fermentation to add texture and savoury or bready flavours.",
+"k": "text"
+},
+{
+"t": "Primary, secondary and tertiary aromas: from the grape and fermentation, from post-fermentation winemaking, and from ageing.",
+"k": "text"
+},
+{
+"t": "Readiness for drinking: whether a wine is too young, can drink now with potential for ageing, or should be drunk now.",
+"k": "text"
+},
+{
+"t": "Balance: the harmony between fruit, acidity, tannin, alcohol and sweetness, a key word when you justify quality.",
+"k": "text"
+},
+{
+"t": "Command word: the verb at the start of a written question that tells you what kind of answer is required.",
+"k": "text"
+},
+{
+"t": "Final checklist before the exam",
+"k": "text"
+},
+{
+"t": "You have practised at least three timed theory papers with the same split of time you will use on the day.",
+"k": "text"
+},
+{
+"t": "You can write a region's chain of climate, grape, choices and style from memory for every major region.",
+"k": "text"
+},
+{
+"t": "You have written short answers on paper, not only on screen, and checked them against key points.",
+"k": "text"
+},
+{
+"t": "You have tasted wines blind with a complete written SAT note, under time pressure, many times.",
+"k": "text"
+},
+{
+"t": "You know the location, the start time and the materials required by your school.",
+"k": "text"
+},
+{
+"t": "You have planned rest the night before: a tired palate misjudges acidity and alcohol.",
+"k": "text"
+},
+{
+"t": "The Wine Goat app reproduces each of these parts: multiple-choice sets across every chapter, short written answers with feedback on the key points, SAT tasting notes and full mock exams, organised into a daily plan that leads up to your exam date.",
+"k": "text"
+},
+{
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Train every part of the exam in one app",
+"k": "text"
+},
+{
+"t": "Multiple-choice sets, short written answers with instant marking, SAT tasting notes and full mock exams: The Wine Goat builds your daily plan up to the exam date.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How long is the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "The theory paper (multiple choice plus short written answers) and the tasting are taken on the same exam day; the theory paper lasts two hours and the tasting 30 minutes. Your school confirms the exact timetable.",
+"k": "text"
+},
+{
+"t": "What is the pass mark for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "You need at least 55% in each part of the theory unit (multiple choice and written answers) and at least 55% in the tasting unit. The two units are marked separately.",
+"k": "text"
+},
+{
+"t": "Can I retake only one unit?",
+"k": "text"
+},
+{
+"t": "Yes: if you pass one unit and fail the other, you normally retake only the unit you failed. Check the details with your course provider.",
+"k": "text"
+},
+{
+"t": "How is the WSET Level 3 theory paper divided?",
+"k": "text"
+},
+{
+"t": "The theory unit combines two parts in a single paper: 50 multiple-choice questions, each with one correct option out of four, and 4 short written-answer questions divided into sub-parts. The multiple choice tests breadth across the syllabus, while the written answers test your ability to explain causes and effects. To pass the theory unit you need at least 55% in each of the two parts.",
+"k": "text"
+},
+{
+"t": "Do I have to identify the wines in the WSET Level 3 tasting?",
+"k": "text"
+},
+{
+"t": "No. In the tasting unit you describe two wines using the Systematic Approach to Tasting and reach conclusions on quality and readiness for drinking. You are not asked to name the grape, region or producer. Marks come from accurate structural levels, relevant descriptors and conclusions that logically follow from your note, so completeness and consistency matter more than guessing the wine.",
+"k": "text"
+},
+{
+"t": "What do the command words mean in the written answers?",
+"k": "text"
+},
+{
+"t": "Command words tell you the type of answer required. State or identify asks for a short fact; describe asks for features; explain asks for reasons, so every point should include a because; compare asks for similarities and differences on the same criteria for both items. Reading the command word carefully is one of the simplest ways to avoid losing marks on knowledge you already have.",
+"k": "text"
+},
+{
+"t": "Should I start the theory paper with the multiple choice or the written answers?",
+"k": "text"
+},
+{
+"t": "Either order can work. Many candidates start with the multiple choice to warm up, while others prefer to tackle the written answers first, when they are freshest. What matters is that you choose one order, practise it in timed mock exams and respect a fixed time for each part, so the last written answer never gets squeezed.",
+"k": "text"
+},
+{
+"t": "How are the two wines chosen for the tasting exam?",
+"k": "text"
+},
+{
+"t": "The wines are selected by the organisers and are meant to be representative examples that a Level 3 candidate can assess with the SAT. You cannot know them in advance, so the best preparation is to taste a wide range of classic grapes and regions, still wines in particular, with complete written notes and regular calibration against a teacher or study partner.",
+"k": "text"
+},
+{
+"t": "More WSET 3 resources",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained: from Level 1 to the Diploma{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Diploma (Level 4), explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips: theory, D3 and tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}Is WSET worth it?{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}Free WSET Level 3 mock exam{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short answer questions{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Systematic Approach to Tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}
