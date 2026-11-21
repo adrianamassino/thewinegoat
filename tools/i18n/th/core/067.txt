@@ -71,23 +71,38 @@
 
 
 
-
-
-
-
+AOC / PDO
+ชื่อแหล่งกำเนิด: พื้นที่ที่กำหนดขอบเขต พันธุ์องุ่น ผลผลิต และวิธีปฏิบัติกำหนดโดยกฎ
+IGP / PGI
+สิ่งบ่งชี้ทางภูมิศาสตร์ที่ได้รับการคุ้มครอง: พื้นที่กว้างกว่า กฎยืดหยุ่นกว่า มีชื่อพันธุ์องุ่นบนฉลาก
 
 แหล่งผลิตไวน์
+พื้นที่ทางภูมิศาสตร์ที่มีหลาย appellation ไม่ใช่ AOC เดียว
 
-
-
-
+AOC ระดับภูมิภาค / ภูมิภาคย่อย
+ครอบคลุมพื้นที่กว้าง (เช่น Bordeaux, Médoc, Haut-Médoc, Graves, Côtes de Bordeaux, Entre-Deux-Mers)
 AOC ระดับชุมชน / ท้องถิ่น
+จำกัดอยู่ในหนึ่งหรือไม่กี่คอมมูน (เช่น Pauillac, Margaux, Pomerol, Sauternes): กฎเข้มงวดกว่า
 
+AOC ระดับภูมิภาค
+ระดับพื้นฐาน: Bourgogne, Bourgogne Hautes-Côtes, Mâcon, Beaujolais…
+เขต (พื้นที่)
+เขตหนึ่งของ Burgundy ที่รวมหมู่บ้านไว้ด้วยกัน (Côte de Nuits, Côte de Beaune, Côte Chalonnaise, Mâconnais)
+AOC ระดับหมู่บ้าน
+ไวน์จากคอมมูนเดียว (เช่น Gevrey-Chambertin, Meursault) ไร่ที่ดีที่สุดคือ Premiers Crus (ชื่อหมู่บ้าน + climat)
 
 
+ระดับพื้นฐาน ส่วนใหญ่อยู่ทางใต้บนดินเหนียวปนหินปูน
+38 หมู่บ้านบนเนินเขาหินแกรนิตทางเหนือ
+Beaujolais Cru
+10 Cru: บนฉลากมีเพียงชื่อ Cru
 
 
+AOC ระดับภูมิภาค / บริวาร
+Côtes du Rhône หรือ appellation รอบนอก (Ventoux, Luberon, Costières de Nîmes)
 
+Cru (AOC ระดับคอมมูน)
+ระดับสูงสุด: Châteauneuf-du-Pape, Gigondas, Vacqueyras, Tavel, Lirac…
 
 
 
@@ -96,8 +111,12 @@ AOC ระดับชุมชน / ท้องถิ่น
 
 
 
+Denominazione di Origine Controllata e Garantita: ระดับสูงสุด มีการตรวจสอบด้วยการชิมและแถบหมายเลขที่คอขวด
+Denominazione di Origine Controllata (PDO ของสหภาพยุโรป): กำหนดพื้นที่ พันธุ์องุ่น ผลผลิต และการบ่ม
 
 
+Denominación de Origen Calificada: มีเพียง Rioja และ Priorat (DOQ)
+Denominación de Origen (PDO ของสหภาพยุโรป): ประเภทที่พบบ่อยที่สุด
 
 
 
@@ -106,6 +125,7 @@ AOC ระดับชุมชน / ท้องถิ่น
 
 
 
+Denominação de Origem Controlada (PDO ของสหภาพยุโรป)
 
 
 
@@ -116,10 +136,18 @@ AOC ระดับชุมชน / ท้องถิ่น
 
 
 
+PDO
+การคุ้มครองแหล่งกำเนิด (เช่น Tokaj)
 
 
+PGI
 
 
+American Viticultural Area: พื้นที่ทางภูมิศาสตร์ที่มีลักษณะเฉพาะ ไม่มีกฎเรื่องพันธุ์องุ่นหรือผลผลิต องุ่น 85% มาจาก AVA ที่ระบุ
+เคาน์ตี
+หน่วยการปกครอง องุ่น 75% มาจากเคาน์ตีนั้น
+รัฐ
+องุ่น 75% มาจากรัฐนั้น (100% ในแคลิฟอร์เนีย)
 
 
 
@@ -129,65 +157,37 @@ AOC ระดับชุมชน / ท้องถิ่น
 
 
 
+ระดับที่กว้างที่สุดของ DO ชิลี (เช่น Coquimbo, Aconcagua, Central Valley, Southern)
+ภูมิภาคย่อย (หุบเขา)
+มักเป็นหุบเขาแม่น้ำ (เช่น Maipo, Casablanca)
+ส่วนย่อยของภูมิภาคย่อย (เช่น Colchagua และ Cachapoal ใน Rapel, Leyda ใน San Antonio)
 
+จังหวัด
+หน่วยการปกครอง (เช่น Mendoza, Salta, San Juan)
 
 
 
 
 
+หน่วยทางภูมิศาสตร์
+ระดับที่กว้างที่สุด (เช่น Western Cape)
 
+เขต
+เช่น Stellenbosch, Paarl, Swartland, Elgin
+หน่วยที่เล็กที่สุด กำหนดโดยดินและภูมิอากาศ (เช่น Constantia, Elim)
 
 
 
+เช่น South Australia, Victoria
 
+เช่น Barossa Valley, Coonawarra, Margaret River
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ภูมิภาค (GI)
+ภูมิภาคไวน์หลัก (เช่น Marlborough, Central Otago)
+ภูมิภาคย่อย (GI)
+พื้นที่ขนาดเล็กกว่าภายในภูมิภาค (เช่น Martinborough)
 
 
 

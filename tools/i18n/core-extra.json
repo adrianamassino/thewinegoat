@@ -31,5 +31,75 @@
   "th": "วอดก้า",
   "tr": "Votka",
   "zh-hant": "伏特加"
+ },
+ "BA and TBA: botrytis; Eiswein: frozen grapes, no botrytis; all sweet, low alcohol": {
+  "de": "BA und TBA: Botrytis; Eiswein: gefrorene Trauben, keine Botrytis; alle süß, wenig Alkohol",
+  "nl": "BA en TBA: botrytis; Eiswein: bevroren druiven, geen botrytis; allemaal zoet, laag alcohol",
+  "el": "BA και TBA: βοτρύτης· Eiswein: παγωμένα σταφύλια, χωρίς βοτρύτη· όλα γλυκά, χαμηλό αλκοόλ",
+  "ja": "BAとTBA：ボトリティス。Eiswein：凍ったブドウ、ボトリティスなし。すべて甘口で低アルコール",
+  "ko": "BA와 TBA: 보트리티스. Eiswein: 언 포도, 보트리티스 없음. 모두 스위트, 낮은 알코올",
+  "zh-hant": "BA 和 TBA：貴腐；Eiswein：結冰的葡萄，沒有貴腐；全都是甜酒、低酒精",
+  "pt": "BA e TBA: botrytis; Eiswein: uvas congeladas, sem botrytis; todos doces, baixo teor alcoólico",
+  "tr": "BA ve TBA: botrytis; Eiswein: donmuş üzümler, botrytis yok; hepsi tatlı, düşük alkollü"
+ },
+ "tank method: dry and sweet styles": {
+  "de": "Tankverfahren: trockene und süße Stile",
+  "nl": "tankmethode: droge en zoete stijlen",
+  "el": "μέθοδος δεξαμενής: ξηρά και γλυκά στιλ",
+  "ja": "タンク方式：辛口と甘口のスタイル",
+  "ko": "탱크 방식: 드라이와 스위트 스타일",
+  "zh-hant": "槽式法：不甜和甜型風格",
+  "pt": "método de tanque: estilos secos e doces",
+  "tr": "tank yöntemi: sek ve tatlı stiller"
+ },
+ "oxidative ageing": {
+  "de": "oxidative Reifung",
+  "nl": "oxidatieve rijping",
+  "el": "οξειδωτική παλαίωση",
+  "ja": "酸化的熟成",
+  "ko": "산화 숙성",
+  "zh-hant": "氧化陳年",
+  "pt": "envelhecimento oxidativo",
+  "tr": "oksidatif yıllanma"
+ },
+ "red Zinfandel": {
+  "de": "roter Zinfandel",
+  "nl": "rode Zinfandel",
+  "el": "ερυθρό Zinfandel",
+  "ja": "赤のジンファンデル",
+  "ko": "레드 진판델",
+  "zh-hant": "紅金芬黛",
+  "pt": "Zinfandel tinto",
+  "tr": "kırmızı Zinfandel"
+ },
+ "Rhône blend": {
+  "de": "Rhône-Cuvée",
+  "nl": "Rhône-assemblage",
+  "el": "Χαρμάνι τύπου Ροδανού",
+  "ja": "ローヌのブレンド",
+  "ko": "론 블렌드",
+  "zh-hant": "隆河混釀",
+  "pt": "Corte do Rhône",
+  "tr": "Rhône harmanı"
+ },
+ "Argon": {
+  "de": "Argon",
+  "nl": "Argon",
+  "el": "Αργό",
+  "ja": "アルゴン",
+  "ko": "아르곤",
+  "zh-hant": "氬氣",
+  "pt": "Argônio",
+  "tr": "Argon"
+ },
+ "Miso": {
+  "de": "Miso",
+  "nl": "Miso",
+  "el": "Μίσο",
+  "ja": "味噌",
+  "ko": "미소",
+  "zh-hant": "味噌",
+  "pt": "Missô",
+  "tr": "Miso"
  }
 }
