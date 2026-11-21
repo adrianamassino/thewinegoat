@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Build the second wave of SEO guide pages + update sitemap.xml and llms.txt.
+"""Build the second wave of SEO guide pages + update llms.txt, then rebuild the sitemaps (tools/seo_tech/sitemaps.py).
 Run from repo root:  python3 tools/seo2/build.py"""
 import json, os, re, sys, html
 sys.path.insert(0, os.path.dirname(__file__))
@@ -115,19 +115,7 @@ def page(key, lang):
 
 slugs = [page(k, l) for k in PAGES for l in LANGS]
 
-# sitemap
-sm = open(f'{ROOT}/sitemap.xml', encoding='utf8').read()
-add = ''
-for k, P in PAGES.items():
-    for l in LANGS:
-        if f'<loc>{SITE}{P["slug"][l]}</loc>' in sm: continue
-        alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{SITE}{P["slug"][x]}"/>' for x in LANGS)
-        add += f'<url><loc>{SITE}{P["slug"][l]}</loc><lastmod>{DATE}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>{alts}</url>\n'
-if add:
-    if 'xmlns:xhtml' not in sm:
-        sm = sm.replace('<urlset ', '<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" ', 1)
-    sm = sm.replace('</urlset>', add + '</urlset>')
-    open(f'{ROOT}/sitemap.xml', 'w', encoding='utf8').write(sm)
+# sitemaps: rebuilt from the built pages, at the end of this script (tools/seo_tech/sitemaps.py is their only writer)
 
 # llms.txt
 lt = open(f'{ROOT}/llms.txt', encoding='utf8').read()
@@ -135,3 +123,4 @@ if PAGES[next(iter(PAGES))]['slug']['en'] not in lt:
     lt += '\n## WSET guides (' + MOD + ')\n' + ''.join(f'- [{PAGES[k]["en"]["h1"]}]({SITE}{PAGES[k]["slug"]["en"]}): {PAGES[k]["en"]["desc"]}\n' for k in PAGES)
     open(f'{ROOT}/llms.txt', 'w', encoding='utf8').write(lt)
 print(len(slugs), 'pages')
+os.chdir(ROOT); os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages (their only writer)

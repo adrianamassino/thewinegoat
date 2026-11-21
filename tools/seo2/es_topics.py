@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Spanish versions of the WSET 3 topic pages (/es/preguntas-wset-3/<slug>/ + hub), built from the English pages
 and the app's Spanish translation map (tools/i18n/es-map.json). Also adds hreflang="es" to the en/it/fr versions
-and the sitemap. Run from repo root: python3 tools/seo2/es_topics.py"""
+and the sitemaps (through tools/seo_tech/sitemaps.py). Run from repo root: python3 tools/seo2/es_topics.py"""
 import json, re, os, html, glob
 
 SITE = 'https://thewinegoat.com'
@@ -160,12 +160,7 @@ hl, miss = build('wset-3-questions-by-region/index.html', HUB_ES, None, 'Pregunt
       'preguntas WSET 3 por región, preguntas WSET nivel 3 por tema, examen WSET 3 regiones, test WSET 3 gratis')
 urls[HUB_ES] = hl; allmiss += miss
 
-# sitemap
-sm = open('sitemap.xml', encoding='utf8').read(); add = ''
-for u, hl in urls.items():
-    if f'<loc>{SITE}{u}</loc>' in sm: continue
-    alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{SITE}{x}"/>' for l, x in hl.items())
-    add += f'<url><loc>{SITE}{u}</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority>{alts}</url>\n'
-sm = sm.replace('</urlset>', add + '</urlset>'); open('sitemap.xml', 'w', encoding='utf8').write(sm)
+# sitemaps: rebuilt from the built pages (tools/seo_tech/sitemaps.py is their only writer)
+import subprocess, sys; subprocess.run([sys.executable, 'tools/seo_tech/sitemaps.py', '--quiet'])
 print(len(urls), 'es pages; untranslated text nodes:', len(allmiss))
 for x in sorted(set(allmiss))[:40]: print('  ', repr(x[:100]))

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Add keywords to every guide infographic: visible keyword chips on the image, XMP metadata
 (title, description, keywords, creator, rights) embedded in the WebP, keyword-rich alt/title,
-'keywords' on the ImageObject and keyword image titles in sitemap.xml.
+'keywords' on the ImageObject (the image sitemap, sitemap-images.xml, is written by tools/seo_tech/images.py).
 Idempotent: chips are drawn on a clean copy kept in img/guides/_src/.  Run from repo root."""
 import re, glob, os, json, html, shutil
 from PIL import Image, ImageDraw, ImageFont
@@ -31,7 +31,7 @@ def xmp(title, desc, kws, lang):
             f'<dc:rights><rdf:Alt><rdf:li xml:lang="x-default">© The Wine Goat – thewinegoat.com</rdf:li></rdf:Alt></dc:rights><photoshop:Credit>The Wine Goat</photoshop:Credit>'
             f'<xmpRights:WebStatement>{SITE}/</xmpRights:WebStatement></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="w"?>').encode('utf8')
 
-sm = open('sitemap.xml', encoding='utf8').read(); n = 0
+n = 0   # image titles/captions for Google: tools/seo_tech/images.py writes them to sitemap-images.xml (sitemap.xml is now the index)
 for p in sorted(glob.glob('**/index.html', recursive=True)):
     if p.startswith(('app/', 'tools/')): continue
     s = open(p, encoding='utf8').read()
@@ -71,9 +71,5 @@ for p in sorted(glob.glob('**/index.html', recursive=True)):
         walk(J); return '<script type="application/ld+json">' + json.dumps(J, ensure_ascii=False) + '</script>'
     s = re.sub(r'<script type="application/ld\+json">(.*?)</script>', ld, s, flags=re.S)
     open(p, 'w', encoding='utf8').write(s)
-    full = SITE + src
-    sm = re.sub(rf'(<image:image><image:loc>{re.escape(full)}</image:loc>)(?:<image:(?:title|caption)>.*?</image:(?:title|caption)>)*',
-                lambda mm: mm.group(1) + f'<image:caption>{e(alt)}</image:caption><image:title>{e(title)}</image:title>', sm)
     n += 1
-open('sitemap.xml', 'w', encoding='utf8').write(sm)
 print(n, 'images updated')

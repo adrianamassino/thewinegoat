@@ -2,7 +2,7 @@
 """Core SEO pages (WSET preparation hub, wine hub, mock exams, practice questions, flashcards, study planner, how it works, FAQ)
 in every site language. Content: tools/seo_core/content/<lang>.json (en = en_a.json + en_b.json); slugs: tools/seo_core/slugs.json.
 Builds the pages with full hreflang (only languages that have content), Article + Breadcrumb + FAQPage (+ Quiz on the
-practice page) schema, then updates sitemap.xml, llms.txt and llms-full.txt. Idempotent.
+practice page) schema, then updates llms.txt and llms-full.txt and rebuilds the sitemaps (tools/seo_tech/sitemaps.py). Idempotent.
 Run from the repo root:  python3 tools/seo_core/build.py"""
 import json, os, re, html, glob
 e = html.escape
@@ -175,18 +175,6 @@ def page(key, l):
 
 words = {l: [page(k, l) for k in KEYS] for l in LANGS}
 
-# sitemap: one <url> per page with all alternates (rebuilt for these pages every run)
-sm = open('sitemap.xml', encoding='utf8').read()
-sm = re.sub(r'<!--core-->.*?<!--/core-->\n?', '', sm, flags=re.S)
-add = ''
-for k in KEYS:
-    for l in LANGS:
-        alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{HREF.get(x, x)}" href="{SITE}{SL[k][x]}"/>' for x in LANGS) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{SL[k]["en"]}"/>'
-        add += f'<url><loc>{SITE}{SL[k][l]}</loc><lastmod>{DATE}</lastmod><changefreq>monthly</changefreq><priority>{"0.9" if k in ("prep", "wine") else "0.8"}</priority>{alts}</url>\n'
-if 'xmlns:xhtml' not in sm: sm = sm.replace('<urlset ', '<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" ', 1)
-sm = sm.replace('</urlset>', '<!--core-->\n' + add + '<!--/core-->\n</urlset>')
-open('sitemap.xml', 'w', encoding='utf8').write(sm)
-
 # llms.txt / llms-full.txt (English + list of languages)
 if 'en' in CONTENT:
     E = CONTENT['en']
@@ -213,3 +201,4 @@ print(len(LANGS) * len(KEYS), 'pages')
 if os.path.exists('tools/seo_tech/place_photos.py'): os.system('python3 tools/seo_tech/place_photos.py --quiet')  # free photos + credits pages
 if os.path.exists('tools/seo_tech/images.py'): os.system('python3 tools/seo_tech/images.py --pages >/dev/null')
 if os.path.exists('tools/geo/sitewide.py'): os.system('python3 tools/geo/sitewide.py --quiet')  # GEO: footer About link + consistent JSON-LD
+os.system('python3 tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages (the only writer of the sitemaps)

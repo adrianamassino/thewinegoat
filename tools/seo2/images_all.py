@@ -2,7 +2,7 @@
 """Infographic + image SEO for every remaining sub-page that still uses the generic og image
 (topic question pages, older guides, hubs, school pages). Reads each page, renders a 1200x630 WebP
 with its title and three key points, then injects: <figure> under the H1, og:image/twitter:image,
-ImageObject in the JSON-LD and an <image:image> entry in sitemap.xml.
+ImageObject in the JSON-LD (image sitemap entries: tools/seo_tech/images.py → sitemap-images.xml).
 Needs: python3 -m http.server 8810 on the repo root.  Run: python3 tools/seo2/images_all.py"""
 import re, os, glob, json, html, shutil, subprocess
 from PIL import Image
@@ -76,8 +76,6 @@ for _, png, webp in jobs:
     Image.open(png).convert('RGB').save(webp, 'WEBP', quality=80, method=6)
 shutil.rmtree(TMPD)
 
-sm = open('sitemap.xml', encoding='utf8').read()
-if 'xmlns:image' not in sm: sm = sm.replace('<urlset ', '<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" ', 1)
 for p, (f, alt, cap, l, h1) in meta.items():
     s = open(p, encoding='utf8').read(); url = SITE + '/' + p[:-10]
     fig = f'<figure class="seofig"><img src="{f}" alt="{e(alt)}" title="{e(h1)}" width="1200" height="630" loading="lazy" decoding="async"><figcaption>{e(cap)}</figcaption></figure>'
@@ -96,10 +94,5 @@ for p, (f, alt, cap, l, h1) in meta.items():
         return '<script type="application/ld+json">' + json.dumps(J, ensure_ascii=False) + '</script>'
     s = re.sub(r'<script type="application/ld\+json">(.*?)</script>', ld, s, count=1, flags=re.S)
     open(p, 'w', encoding='utf8').write(s)
-    loc = f'<loc>{url}</loc>'
-    if loc in sm:
-        i = sm.find(loc); j = sm.find('</url>', i)
-        if 'image:image' not in sm[i:j]:
-            sm = sm[:j] + f'<image:image><image:loc>{full}</image:loc><image:caption>{e(cap)}</image:caption><image:title>{e(h1)}</image:title></image:image>' + sm[j:]
-open('sitemap.xml', 'w', encoding='utf8').write(sm)
+# image entries for Google: tools/seo_tech/images.py lists every page image in sitemap-images.xml (sitemap.xml is now the index)
 print(len(meta), 'pages illustrated')

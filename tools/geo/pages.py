@@ -3,7 +3,7 @@
 en, it, fr, es, es-ar (es-ar = voseo of the es text, via tools/site_i18n/es_ar_extra.py).
 Same look as the core pages (tools/seo_core): /assets/site.css + /assets/seo.css, header, breadcrumb, footer.
 Content: tools/geo/content/<page>.<lang>.txt (simple line format, see parse()). Slugs: tools/geo/slugs.json.
-Writes the pages, then the <!--geo--> block of sitemap.xml and the "About and features" section of llms.txt.
+Writes the pages, then the "About and features" section of llms.txt; the sitemaps are rebuilt by tools/seo_tech/sitemaps.py.
 Run from the repo root:  python3 tools/geo/pages.py  (then runs tools/seo_tech/images.py --pages and tools/geo/sitewide.py; --no-post skips them)"""
 import json, os, re, html, sys
 from PIL import Image
@@ -241,16 +241,6 @@ def page(key, l):
 if __name__ == '__main__':
     for k in SL:
         print(k, {l: page(k, l) for l in LANGS})
-    # sitemap block
-    sm = open('sitemap.xml', encoding='utf8').read()
-    sm = re.sub(r'<!--geo-->.*?<!--/geo-->\n?', '', sm, flags=re.S)
-    add = ''
-    for k in SL:
-        alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{HREF.get(x, x)}" href="{SITE}{SL[k][x]}"/>' for x in LANGS) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{SL[k]["en"]}"/>'
-        for l in LANGS: add += f'<url><loc>{SITE}{SL[k][l]}</loc><lastmod>{DATE}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority>{alts}</url>\n'
-    sm = sm.replace('</urlset>', '<!--geo-->\n' + add + '<!--/geo-->\n</urlset>')
-    open('sitemap.xml', 'w', encoding='utf8').write(sm)
-    print('sitemap: geo block', add.count('<url>'), 'URLs')
     # llms.txt / llms-full.txt: "About The Wine Goat and feature pages" (English text, other languages listed)
     E_ = {k: ALL[k]['en'] for k in SL}
     lt = re.sub(r'\n## About The Wine Goat and feature pages.*?(?=\n## |\Z)', '', open('llms.txt', encoding='utf8').read(), flags=re.S).rstrip() + '\n'
@@ -275,3 +265,4 @@ if __name__ == '__main__':
         if os.path.exists('tools/seo_tech/place_photos.py'): os.system(f'{sys.executable} tools/seo_tech/place_photos.py --quiet')  # credits pages use the About pages as template
         if os.path.exists('tools/seo_tech/images.py'): os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
         if os.path.exists('tools/geo/sitewide.py'): os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
+    os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages

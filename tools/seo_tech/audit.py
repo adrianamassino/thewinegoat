@@ -1,4 +1,5 @@
-"""Technical SEO audit of the static site (all indexable pages, sitemap, robots, icons, structured data).
+"""Technical SEO audit of the static site (all indexable pages, sitemap index + language sitemaps, internal links, robots, icons,
+structured data).
 Run from repo root: python3 tools/seo_tech/audit.py [--json out.json]. Exit 1 when a blocking problem is found."""
 import glob, json, os, re, sys, html
 from collections import Counter, defaultdict
@@ -51,24 +52,48 @@ for t, ps in titles.items():
     if len(ps) > 1: P['duplicate title'].append(f'{t!r}: {ps}')
 for t, ps in descs.items():
     if len(ps) > 1: P['duplicate description'].append(f'{t[:60]!r}…: {ps}')
-# sitemap
-sm = open('sitemap.xml', encoding='utf8').read(); locs = re.findall(r'<loc>([^<]+)</loc>', sm)
-for l, n in Counter(locs).items():
-    if n > 1: P['sitemap duplicate'].append(l)
+# sitemaps: /sitemap.xml is an index, one sitemap per language next to it; all written by tools/seo_tech/sitemaps.py from the built pages
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import sitemaps as SMX, internal_links as IL
+disk = SMX.on_disk(); inv = SMX.scan(); state = SMX.date_pages(inv, SMX.load_state())
+if 'sitemap.xml' not in disk: P['sitemap'].append('sitemap.xml is missing')
+else:
+    for b in SMX.validate(disk, inv): P['sitemap'].append(b)   # well-formed, namespaces, limits, index → existing files, every URL an indexable self-canonical page, none missing, none twice
+fresh = SMX.build(inv, 'xmlns:xhtml' in ''.join(disk.values()))
+for n in sorted(set(fresh) | set(disk)):
+    if fresh.get(n) != disk.get(n): P['sitemap out of date, run tools/seo_tech/sitemaps.py'].append(n)
+if state != SMX.load_state(): P['sitemap out of date, run tools/seo_tech/sitemaps.py'].append(SMX.STATE)
+listed = SMX.listed_urls(); locs = list(listed)
 allurls = {url_of(p) for p in pages}
 for l in locs:
     if not l.startswith(D + '/'): P['sitemap not https apex'].append(l)
     elif l not in allurls and not os.path.exists(l[len(D) + 1:] or 'index.html'): P['sitemap URL without page'].append(l)
     if l in noindex: P['sitemap contains noindex'].append(l)
-for l in re.findall(r'<xhtml:link[^>]+href="([^"]+)"', sm):
-    if not l.startswith(D + '/'): P['sitemap hreflang not https apex'].append(l)
+for n, x in disk.items():
+    for l in re.findall(r'<xhtml:link[^>]+href="([^"]+)"', x):
+        if not l.startswith(D + '/'): P['sitemap hreflang not https apex'].append(l)
 missing = sorted(allurls - set(locs) - noindex - {D + '/404/'})
 for m in missing: P['indexable page missing from sitemap'].append(m)
+if os.path.exists(SMX.IMAGES):   # image sitemap (tools/seo_tech/images.py): only indexable pages, only files that exist
+    im = open(SMX.IMAGES, encoding='utf8').read(); okurls = {d['url'] for d in inv if d['reason'] is None}
+    for l in re.findall(r'<url><loc>([^<]+)</loc>', im):
+        if html.unescape(l) not in okurls: P['image sitemap lists a page that is not indexable'].append(l)
+    for l in set(re.findall(r'<image:loc>([^<]+)</image:loc>', im)):
+        if not os.path.isfile(html.unescape(l)[len(D) + 1:]): P['image sitemap lists a missing file'].append(l)
+# internal links: every indexable page reachable from the home of its language without leaving that language; links stay in the page's language
+SI = IL.Site()
+for l_ in SI.locales():
+    dist = SI.crawl(l_)
+    for o in SI.members(l_):
+        if o not in dist: P['page not reachable from the home of its language (run tools/seo_tech/internal_links.py)'].append(o)
+        elif dist[o] > 3: P['page more than 3 clicks from the home of its language (run tools/seo_tech/internal_links.py)'].append(f'{o} ({dist[o]} clicks)')
+for p_ in SI.pages:
+    if SI.pages[p_]['reason'] is None and IL.remap(SI, p_)[1]: P['link to another language although the page exists in this one (run tools/seo_tech/internal_links.py)'].append(p_)
 rb = open('robots.txt').read()
 if re.search(r'(?im)^disallow:\s*/\S*', rb): P['robots Disallow (check)'].append(re.findall(r'(?im)^disallow:.*', rb))
 if f'Sitemap: {D}/sitemap.xml' not in rb: P['robots sitemap line'].append('missing')
 BLOCK = {k for k in P if not k.endswith('(info)') and not k.endswith('(check)') and k not in ('duplicate title', 'duplicate description', 'h1 count != 1', 'og:url missing')}
-print(f'{len(pages)} pages, sitemap {len(locs)} URLs')
+print(f'{len(pages)} pages; sitemap index → {len(set(listed.values()))} language sitemaps, {len(locs)} URLs')
 for k, v in sorted(P.items()):
     print(f'\n## {k}: {len(v)}' + ('  ✗' if k in BLOCK else ''))
     for x in v[:12]: print('  -', x)

@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """Site-wide link checker (static, no server needed). Run from the repo root:
-    python3 tools/site_i18n/linkcheck.py            # whole site + sitemap.xml
+    python3 tools/site_i18n/linkcheck.py            # whole site + the sitemaps (index, language sitemaps, image sitemap)
     python3 tools/site_i18n/linkcheck.py -v         # also list every broken link
     python3 tools/site_i18n/linkcheck.py --only de  # only pages under /de/
 Checks every internal href/src (a, link, img, script, source, srcset, canonical, hreflang alternates, og:url) of every
-public HTML page (everything except app/, tools/, mobile/, supabase/) and every <loc>/alternate of sitemap.xml:
+public HTML page (everything except app/, tools/, mobile/, supabase/) and every <loc>/alternate/image of the sitemaps
+(the index /sitemap.xml and every sitemap file it references):
 the target file must exist (…/ → …/index.html). Also checks hreflang: every alternate must exist, be reciprocal
 (the target lists the page back) and use one code per URL; and that <html lang> matches the page's hreflang code.
 Exit code 1 if anything is broken."""
@@ -82,15 +83,25 @@ def check():
         if a: alts[u] = a
         m = re.search(r'<html[^>]*\blang="([^"]+)"', s)
         langs[u] = m.group(1) if m else None
-    # sitemap
-    sm = open('sitemap.xml', encoding='utf8').read() if os.path.exists('sitemap.xml') else ''
-    for m in re.finditer(r'<(?:loc|xhtml:link[^>]*href=")([^<"]+)', sm):
-        t = m.group(1).replace('<loc>', '')
-        if not t.startswith(SITE): continue
-        t = t[len(SITE):] or '/'
-        if ONLY and not t.startswith(f'/{ONLY}/'): continue
-        n_links += 1
-        if not target_exists(t): broken[t].append('sitemap.xml')
+    # sitemaps: the index /sitemap.xml must reference files that exist; every page, alternate and image URL they list must exist
+    top = open('sitemap.xml', encoding='utf8').read() if os.path.exists('sitemap.xml') else ''
+    names = ['sitemap.xml']
+    if '<sitemapindex' in top:
+        names = []
+        for l in re.findall(r'<loc>([^<]+)</loc>', top):
+            f = l[len(SITE) + 1:] if l.startswith(SITE + '/') else ''
+            n_links += 1
+            if f and os.path.isfile(f): names.append(f)
+            else: broken[l.replace(SITE, '') or l].append('sitemap.xml')
+    for name in names:
+        sm = open(name, encoding='utf8').read()
+        for m in re.finditer(r'<(?:loc>|image:loc>|xhtml:link[^>]*href=")([^<"]+)', sm):
+            t = html.unescape(m.group(1))
+            if not t.startswith(SITE): continue
+            t = t[len(SITE):] or '/'
+            if ONLY and not t.startswith(f'/{ONLY}/'): continue
+            n_links += 1
+            if not target_exists(t): broken[t].append(name)
     # hreflang reciprocity
     hre = []
     for u, a in alts.items():

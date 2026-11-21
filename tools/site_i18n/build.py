@@ -17,7 +17,8 @@ Output: /<lang>/<localised slug>/index.html (slugs: tools/site_i18n/slugs.json) 
 hreflang and language switcher from the versions that exist, header/footer of that language, internal links remapped
 to the same page in that language (when it exists), app links with ?lang= when the app speaks the language.
 Sync step (every run): hreflang + language switchers of every guide version (en/it/fr/es included) and of every home,
-sitemap.xml (blocks <!--guides-i18n--> and <!--homes-i18n-->, alternates of the existing guide/home entries), llms.txt.
+llms.txt, then the hooks below; the last two are tools/seo_tech/internal_links.py (links stay in the page's language, every
+home links its guides) and tools/seo_tech/sitemaps.py (sitemap index + one sitemap per language, from the built pages).
 Re-run it after tools/seo2/build.py or expand.py (they rewrite the en/it/fr/es guides with 4 languages only)."""
 import os, sys, re, json, html, glob, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -214,7 +215,7 @@ def build_page(l, g, base, region, tr, lm):
     return url, size
 
 
-# ---------------------------------------------------------------- sync: hreflang, switchers, sitemap, llms.txt
+# ---------------------------------------------------------------- sync: hreflang, switchers, llms.txt (sitemaps: tools/seo_tech/sitemaps.py)
 def home_regional():
     """regional hreflang variants of the English home (it-IT, fr-CA, en-GB…), minus codes that have their own home"""
     s = open('index.html', encoding='utf8').read()
@@ -230,7 +231,7 @@ def home_regional():
 def homes_sync():
     homes = {l: C.home(l) for l in C.LANGS if C.exists(C.home(l))}
     reg = home_regional()
-    alts = [(C.HOME_HREF.get(l, l), p) for l, p in homes.items()]
+    alts = [(c, p) for l, p in homes.items() for c in [C.HOME_HREF.get(l, l)] + C.HOME_ALSO.get(l, [])]
     for l, p in homes.items():
         f = C.fs(p) if p != '/' else 'index.html'
         s = open(f, encoding='utf8').read(); o = s
@@ -258,41 +259,6 @@ def guides_sync(lm):
             s = set_seolangs(s, v, l)
             if s != o: open(f, 'w', encoding='utf8').write(s); n += 1
     return n
-
-
-def sm_links(alts, xdef):
-    return ''.join(f'<xhtml:link rel="alternate" hreflang="{c}" href="{SITE}{p}"/>' for c, p in alts) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{xdef}"/>'
-
-
-def sitemap_sync(lm, homes, home_alts):
-    sm = open('sitemap.xml', encoding='utf8').read()
-    for mk in ('guides-i18n', 'homes-i18n'): sm = re.sub(rf'<!--{mk}-->.*?<!--/{mk}-->\n?', '', sm, flags=re.S)
-    want = {}   # loc path → alternates xml
-    gblock = ''
-    for g, slugs in SL.items():
-        alts, v = guide_versions(lm, slugs['en'])
-        x = sm_links(alts, slugs['en'])
-        for l, p in v.items():
-            if l in C.OLD4: want[p] = x
-            else: gblock += f'<url><loc>{SITE}{p}</loc><lastmod>{DATE}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority>{x}</url>\n'
-    hx = sm_links(home_alts, '/')
-    hblock = ''
-    for l, p in homes.items():
-        if f'<loc>{SITE}{p}</loc>' in sm: want[p] = hx
-        else: hblock += f'<url><loc>{SITE}{p}</loc><lastmod>{DATE}</lastmod><changefreq>weekly</changefreq><priority>0.9</priority>{hx}</url>\n'
-    def fix(m):
-        u = m.group(0); loc = re.search(r'<loc>([^<]*)</loc>', u).group(1).replace(SITE, '') or '/'
-        if loc not in want: return u
-        rest = re.sub(r'<xhtml:link rel="alternate"[^>]*/>', '', u)
-        i = rest.find('</loc>') + 6
-        lm_ = re.match(r'<lastmod>[^<]*</lastmod>', rest[i:])
-        if lm_: i += lm_.end()
-        return rest[:i] + want[loc] + rest[i:]
-    sm = re.sub(r'<url>.*?</url>', fix, sm, flags=re.S)
-    add = ('<!--homes-i18n-->\n' + hblock + '<!--/homes-i18n-->\n' if hblock else '') + ('<!--guides-i18n-->\n' + gblock + '<!--/guides-i18n-->\n' if gblock else '')
-    sm = sm.replace('</urlset>', add + '</urlset>')
-    open('sitemap.xml', 'w', encoding='utf8').write(sm)
-    return gblock.count('<url>'), hblock.count('<url>')
 
 
 def llms_sync(lm):
@@ -343,7 +309,6 @@ def main():
     lm = C.LinkMap()
     homes, home_alts = homes_sync()
     n = guides_sync(lm)
-    gs, hs = sitemap_sync(lm, homes, home_alts)
     nl = llms_sync(lm)
     if os.path.exists('tools/seo_tech/variant_titles.py'):  # es-ar / pt-br pages get their own <title> (not identical to es / pt)
         os.system(f'{sys.executable} tools/seo_tech/variant_titles.py >/dev/null')
@@ -357,7 +322,11 @@ def main():
         if os.path.exists(t): os.system(f'{sys.executable} {t} --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)
         os.system(f'{sys.executable} tools/ar_football_guides.py --quiet')
-    print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); sitemap: {gs} guide + {hs} home URLs in the i18n blocks; llms.txt: {nl} links')
+    if os.path.exists('tools/seo_tech/internal_links.py'):  # links to another language → the page's own language; every home links its guides
+        os.system(f'{sys.executable} tools/seo_tech/internal_links.py --quiet')
+    print(f'sync: {len(homes)} homes, {n} guide pages updated (hreflang/switcher); llms.txt: {nl} links')
+    # LAST: sitemap index + one sitemap per language, from the pages as they now are (the only writer of the sitemaps)
+    os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Places the free photos of img/photos/ on the site and in the app (idempotent post-processor). Run from the repo root:
 
-    python3 tools/seo_tech/place_photos.py            # pages + credits pages + sitemap block + app/photos.js data
+    python3 tools/seo_tech/place_photos.py            # pages + credits pages + app/photos.js data (+ sitemaps when run by hand)
     python3 tools/seo_tech/place_photos.py --check    # change nothing, exit 1 if something would change
 
 Inputs
@@ -18,8 +18,8 @@ What it does
    acquireLicensePage = the photo's entry on the photo-credits page of the language), and on the credits pages, which
    list every placed photo with author, licence and source link (that page is the CC BY / BY-SA attribution) and are
    linked from the footer of every page.
-2. Credits pages /photo-credits/ (+ it, fr, es) listing every photo used on the site or in the app, and the
-   <!--photo-credits--> block of sitemap.xml.
+2. Credits pages /photo-credits/ (+ it, fr, es) listing every photo used on the site or in the app (they enter the
+   sitemaps like every other page, through tools/seo_tech/sitemaps.py).
 3. The data block of app/photos.js (photos, localized alt/caption, Level 3 country summaries and lesson rules).
 Hooked into tools/site_i18n/build.py (sync step), tools/seo_core/build.py, tools/seo_sp/build.py and tools/geo/pages.py,
 before tools/seo_tech/images.py (which then lists the placed photos in sitemap-images.xml and the inventory)."""
@@ -239,13 +239,6 @@ def credits_pages(used):
         if sw:
             doc = sw.footer(doc, lang); doc, mod = sw.jsonld(doc, p, G); doc = sw.visible_date(doc, mod)
         n += wrote(p, doc)
-    # sitemap block
-    sm = open('sitemap.xml', encoding='utf8').read()
-    sm2 = re.sub(r'<!--photo-credits-->.*?<!--/photo-credits-->\n?', '', sm, flags=re.S)
-    xl = ''.join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{SITE}{u}"/>' for l, u in CREDITS.items()) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{CREDITS["en"]}"/>'
-    blk = ''.join(f'<url><loc>{SITE}{u}</loc><lastmod>{DATE}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority>{xl}</url>\n' for u in CREDITS.values())
-    sm2 = sm2.replace('</urlset>', '<!--photo-credits-->\n' + blk + '<!--/photo-credits-->\n</urlset>')
-    n += wrote('sitemap.xml', sm2)
     return stems, n
 
 
@@ -281,6 +274,8 @@ def main():
     if '--quiet' not in sys.argv or CHECK:
         print(f'place_photos: {len(used)} photos, {sum(len(v) for v in PL["site"].values())} placements in {len(PL["site"])} page groups, {n} pages {"would change" if CHECK else "updated"}; '
               f'credits: {len(stems)} photos, {nc} files; app: {na} photos{" (photos.js updated)" if ca else ""}')
+    if not CHECK and '--quiet' not in sys.argv:   # run by hand: the builders (which pass --quiet) rebuild the sitemaps themselves, last
+        os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')
     return 1 if CHECK and CHANGED else 0
 
 
