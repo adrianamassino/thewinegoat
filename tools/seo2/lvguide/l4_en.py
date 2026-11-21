@@ -12,7 +12,7 @@ NOTES = l4_old.notes('en', {
 FAQ = l4_old.faq('en', {
  6: ["Can I take the WSET Diploma without working in the wine trade?", "Yes. The entry requirement is the Level 3 Award in Wines or the Level 3 Award in Wines and Spirits, not trade experience. Candidates outside the trade should give extra time to D2, the business unit, and build regular tasting practice, because colleagues in the trade often taste more wines every week."],
  7: ["What grades can you get in the WSET Diploma?", "Each unit is graded: Pass from 55%, Merit from 65% and Distinction from 75%. The final grade is the weighted aggregate of the six units (D1 20%, D2 10%, D3 50%, D4 5%, D5 5%, D6 10%) with the same thresholds, and every unit must be passed. Because D3 is worth half, its result largely decides the final grade."],
- 10: ["Does The Wine Goat have WSET Diploma questions?", "Yes, for the first two units. D1 Wine production and D2 Wine business are in the app, with lessons, practice questions, open-response questions with model answers and flashcards. The other units are in preparation. The Level 3 material remains the best way to keep the foundations of D3 sharp."],
+ 10: ["Does The Wine Goat have WSET Diploma questions?", "Yes, for four of the six units. D1 Wine production, D2 Wine business, D4 Sparkling wines and D5 Fortified wines are in the app, with lessons, practice questions, open-response questions with model answers and flashcards. D3 and D6 are in preparation. The Level 3 material remains the best way to keep the foundations of D3 sharp."],
  12: ["Which Diploma unit should I start with?", "D1 Wine production: candidates must sit the D1 exam before moving on to the other units. After that the order depends on your school and on the fixed exam dates of each unit. Many candidates take the compact units (D2, D4, D5) before the two-day D3 exam, and plan the D6 assignment around one of its two submission dates."],
 })
 
@@ -22,7 +22,7 @@ C = {
  "kw": "WSET Diploma, WSET Level 4 Diploma in Wines, WSET Diploma units D1 D2 D3 D4 D5 D6, WSET Diploma exam format, WSET Diploma pass mark, WSET Diploma study hours, how hard is the WSET Diploma, DipWSET",
  "h1": "WSET Level 4 Diploma in Wines: the complete guide",
  "crumb": "WSET Diploma",
- "tag": "D1 and D2 available now in the app",
+ "tag": "D1, D2, D4 and D5 available now in the app",
  "lead": "The Level 4 Diploma in Wines is the most advanced WSET qualification and a recognised step towards the Master of Wine. It is studied in six units, assessed with open written answers, blind tastings and a research assignment, and it asks for a long, steady commitment. Here is how each unit is examined, how the grades work, how much study it takes and how to prepare from Level 3.",
  "fig": {"kicker": "WSET Diploma", "cap": "The complete WSET Level 4 Diploma in Wines guide: six units from D1 to D6, written papers, blind tastings and a 3,000-word research assignment, 55% to pass each unit and about 500 hours of study",
          "points": ["Six units: D1 to D6, with D3 worth 50%", "Written papers, blind tastings, a 3,000-word assignment", "55% to pass each unit · about 500 hours of study"]},
@@ -77,8 +77,8 @@ C = {
     ["Written answers", "no", "no", "yes", "yes, at length"],
     ["Tasting exam", "no", "no", "yes (2 wines)", "yes, many wines"]], 4],
   ["more", [["wset-level-3", "← WSET Level 3"], ["wset-diploma-study-tips", "Diploma study tips →"]]],
-  ["soon", {"tag": "D1 and D2 available now in the app", "h2": "The Wine Goat for the Diploma: D1 and D2 are here",
-            "p": "Lessons, practice questions, open-response questions with model answers and marking points, flashcards and a timed practice paper for D1 Wine production and D2 Wine business. The other units are in preparation; Level 3 is in the app in full to keep your foundations sharp.",
+  ["soon", {"tag": "D1, D2, D4 and D5 available now in the app", "h2": "The Wine Goat for the Diploma: D1, D2, D4 and D5 are here",
+            "p": "Lessons, practice questions, open-response questions with model answers and marking points, flashcards and a timed practice paper for D1 Wine production, D2 Wine business, D4 Sparkling wines and D5 Fortified wines. D3 and D6 are in preparation; Level 3 is in the app in full to keep your foundations sharp.",
             "btns": [["Start the Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Take the free level test", "/app/#go=lvquick", "btn btn-light"]]}],
   ["faq"],
   ["secmore", "Study notes: inside the WSET Level 4 Diploma, unit by unit"],

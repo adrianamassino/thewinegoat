@@ -11,7 +11,7 @@ NOTES = l4_old.notes('es', {
 FAQ = l4_old.faq('es', {
  6: ["¿Se puede hacer el WSET Diploma sin trabajar en el sector del vino?", "Sí. El requisito de acceso es el Level 3 Award in Wines o el Level 3 Award in Wines and Spirits, no la experiencia profesional. Quien viene de fuera del sector debería dedicar más tiempo a la D2, la unidad de negocio, y crear una rutina de cata regular, porque quienes trabajan en el vino suelen probar más vinos cada semana."],
  7: ["¿Qué calificaciones se pueden obtener en el WSET Diploma?", "Cada unidad recibe una calificación: Pass desde el 55 %, Merit desde el 65 % y Distinction desde el 75 %. La calificación final es la media ponderada de las seis unidades (D1 20 %, D2 10 %, D3 50 %, D4 5 %, D5 5 %, D6 10 %) con los mismos umbrales, y hay que aprobar todas las unidades. Como la D3 vale la mitad, su resultado decide en gran parte la calificación final."],
- 10: ["¿Tiene The Wine Goat preguntas del WSET Diploma?", "Sí, para las dos primeras unidades. D1 Producción del vino y D2 El negocio del vino están en la app, con lecciones, preguntas tipo test, preguntas de respuesta abierta con respuestas modelo y tarjetas. Las demás unidades están en preparación. El material del nivel 3 sigue siendo la mejor forma de mantener firmes las bases de la D3."],
+ 10: ["¿Tiene The Wine Goat preguntas del WSET Diploma?", "Sí, para cuatro de las seis unidades. D1 Producción del vino, D2 El negocio del vino, D4 Vinos espumosos y D5 Vinos fortificados están en la app, con lecciones, preguntas tipo test, preguntas de respuesta abierta con respuestas modelo y tarjetas. D3 y D6 están en preparación. El material del nivel 3 sigue siendo la mejor forma de mantener firmes las bases de la D3."],
  12: ["¿Por qué unidad del Diploma conviene empezar?", "Por la D1 Producción del vino: el examen de la D1 debe hacerse antes de pasar a las demás unidades. Después, el orden depende de tu escuela y de las fechas fijas de examen de cada unidad. Muchos candidatos hacen las unidades compactas (D2, D4, D5) antes del examen de dos días de la D3 y organizan el trabajo de la D6 en torno a una de sus dos fechas de entrega."],
 })
 
@@ -21,7 +21,7 @@ C = {
  "kw": "WSET Diploma, WSET Nivel 4, WSET Level 4 Diploma in Wines, unidades WSET Diploma D1 D2 D3 D4 D5 D6, examen WSET Diploma, dificultad WSET Diploma, horas de estudio WSET Diploma, DipWSET",
  "h1": "WSET Diploma (Nivel 4): la guía completa",
  "crumb": "WSET Diploma",
- "tag": "D1 y D2 ya disponibles en la app",
+ "tag": "D1, D2, D4 y D5 ya disponibles en la app",
  "lead": "El Level 4 Diploma in Wines es la titulación WSET más avanzada y un paso reconocido hacia el Master of Wine. Se estudia en seis unidades, evaluadas con respuestas escritas abiertas, catas a ciegas y un trabajo de investigación, y exige un compromiso largo y constante. Aquí tienes cómo es el examen de cada unidad, cómo funcionan las calificaciones, cuánto estudio requiere y cómo prepararte desde el Nivel 3.",
  "fig": {"kicker": "WSET Diploma", "cap": "La guía completa del WSET Level 4 Diploma in Wines: seis unidades de D1 a D6, exámenes escritos, catas a ciegas y un trabajo de investigación de 3.000 palabras, 55 % para aprobar cada unidad y unas 500 horas de estudio",
          "points": ["Seis unidades: de D1 a D6, la D3 vale el 50 %", "Exámenes escritos, catas a ciegas, un trabajo de 3.000 palabras", "55 % para aprobar cada unidad · unas 500 horas de estudio"]},
@@ -76,8 +76,8 @@ C = {
     ["Respuestas escritas", "no", "no", "sí", "sí, extensas"],
     ["Examen de cata", "no", "no", "sí (2 vinos)", "sí, muchos vinos"]], 4],
   ["more", [["wset-level-3", "← WSET Nivel 3"], ["wset-diploma-study-tips", "Consejos de estudio para el Diploma →"]]],
-  ["soon", {"tag": "D1 y D2 ya disponibles en la app", "h2": "The Wine Goat para el Diploma: D1 y D2 ya están aquí",
-            "p": "Lecciones, preguntas tipo test, preguntas de respuesta abierta con respuestas modelo y puntos clave, tarjetas y un examen cronometrado para D1 Producción del vino y D2 El negocio del vino. Las demás unidades están en preparación; el Nivel 3 está completo en la app para mantener firmes las bases.",
+  ["soon", {"tag": "D1, D2, D4 y D5 ya disponibles en la app", "h2": "The Wine Goat para el Diploma: D1, D2, D4 y D5 ya están aquí",
+            "p": "Lecciones, preguntas tipo test, preguntas de respuesta abierta con respuestas modelo y puntos clave, tarjetas y un examen cronometrado para D1 Producción del vino, D2 El negocio del vino, D4 Vinos espumosos y D5 Vinos fortificados. D3 y D6 están en preparación; el Nivel 3 está completo en la app para mantener firmes las bases.",
             "btns": [["Empieza el Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Haz el test de nivel gratis", "/app/#go=lvquick", "btn btn-light"]]}],
   ["faq"],
   ["secmore", "Apuntes de estudio: el WSET Diploma por dentro, unidad por unidad"],
