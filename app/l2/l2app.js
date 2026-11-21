@@ -148,8 +148,11 @@
     const E = C.exam, MOCK = { it: `${E.questions} domande in ${E.minutes} minuti, come il giorno dell'esame · soglia ${E.pass}%`, fr: `${E.questions} questions en ${E.minutes} minutes, comme le jour J · seuil ${E.pass} %`, en: `${E.questions} questions in ${E.minutes} minutes, just like exam day · pass mark ${E.pass}%` };
     const MOCKES = `${E.questions} preguntas en ${E.minutes} minutos, como el día del examen · aprobado con ${E.pass} %`;
     const NUM = ["tab_study", "l2Title", "l2Intro", "l2RevT", "l2RevI", "l2PlayT", "l2PlayI"];
+    const PD0 = T.en.obGoal_passD;   /* onboarding "At least 55%…": shown with the level's own pass mark (70% at Level 1) */
     ["it", "fr", "en"].forEach(l => { const u = Object.assign({}, UI[l]); if (LV !== 2) NUM.forEach(k => { const o = u[k]; u[k] = o.replace(/\b2\b/g, LV); if (l === "en" && ES[o]) ES[u[k]] = ES[o].replace(/\b2\b/g, LV); if (l === "en" && AR[o]) AR[u[k]] = AR[o].replace(/\b2\b/g, LV); }); u.l2MockD = MOCK[l];
       if (LV === 1) Object.assign(u, { plG_merit: { it: "Pass 85%+", fr: "Pass 85 %+", en: "Pass 85%+" }[l], plG_dist: { it: "Pass 95%+", fr: "Pass 95 %+", en: "Pass 95%+" }[l], plGoalD: { it: "Si supera con il 70%: più alto è l'obiettivo, più domande al giorno.", fr: "Réussite dès 70 % : plus l'objectif est élevé, plus il y a de questions par jour.", en: "You pass with 70%: the higher the goal, the more questions per day." }[l] });
+      if (E.pass !== 55 && typeof T[l].obGoal_passD === "string") u.obGoal_passD = T[l].obGoal_passD.replace("55", E.pass);
+      if (LV === 1) { u.obGoal_merit = u.plG_merit; u.obGoal_dist = u.plG_dist; }   /* pass/fail only: the goals are target scores, as in the plan */
       if (SP) Object.assign(u, {
         it: { tab_study: `Spirits ${LV}`, l2Title: `Esame Spirits ${LV}`, l2Intro: "Lezioni, quiz e flashcard su distillati, liquori e cocktail.", l2FlD: "Ripassa distillati, etichette e cocktail", l2RevT: `Tutto Spirits ${LV}`, l2RevI: `Lezioni, flashcard ed errori: solo il programma di Spirits ${LV}.`, l2PlayT: `Giochi di Spirits ${LV}`, l2PlayI: `Giochi brevi sulle domande e sui termini di Spirits ${LV}.` },
         fr: { tab_study: `Spiritueux ${LV}`, l2Title: `Examen Spiritueux ${LV}`, l2Intro: "Leçons, quiz et flashcards sur les spiritueux, liqueurs et cocktails.", l2FlD: "Révisez spiritueux, étiquettes et cocktails", l2RevT: `Tout Spiritueux ${LV}`, l2RevI: `Leçons, flashcards et erreurs : uniquement le programme Spiritueux ${LV}.`, l2PlayT: `Jeux Spiritueux ${LV}`, l2PlayI: `Des jeux courts sur les questions et les termes de Spiritueux ${LV}.` },
@@ -167,6 +170,9 @@
     if (SP) Object.assign(ES, { [`Spirits ${LV} exam`]: `Examen Spirits ${LV}`, "Lessons, quizzes and flashcards on spirits, liqueurs and cocktails.": "Lecciones, tests y tarjetas sobre destilados, licores y cócteles.",
       "Review spirits, label terms and cocktails": "Repasa destilados, etiquetas y cócteles", [`All of Spirits ${LV}`]: `Todo Spirits ${LV}`, [`Lessons, flashcards and mistakes: only the Spirits ${LV} syllabus.`]: `Lecciones, tarjetas y errores: solo el programa de Spirits ${LV}.`,
       [`Spirits ${LV} games`]: `Juegos de Spirits ${LV}`, [`Short games on Spirits ${LV} questions and terms.`]: `Juegos cortos sobre preguntas y términos de Spirits ${LV}.` });
+    if (E.pass !== 55 && typeof PD0 === "string") { const n = PD0.replace("55", E.pass), D0 = window.TWG_ES, N = window.TWG_I18N;
+      if (D0 && D0.es && D0.es[PD0]) { ES[n] = D0.es[PD0].replace("55", E.pass); if (D0.ar && D0.ar[PD0]) AR[n] = D0.ar[PD0].replace("55", E.pass); }
+      if (N) Object.keys(N).forEach(g => { if (N[g] && typeof N[g][PD0] === "string") N[g][n] = N[g][PD0].replace("55", E.pass); }); }
     ES[MOCK.en] = MOCKES; if (LV === 1) ES["You pass with 70%: the higher the goal, the more questions per day."] = "Se aprueba con el 70 %: cuanto más alto el objetivo, más preguntas al día.";
     Object.assign(X.es, ES); Object.assign(X.ar, AR);
     Object.assign(TABG, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBV, { l2les: "study", l2fl: "study", l2match: "play" }); Object.assign(SUBT, { l2les: "l2Les", l2fl: "l2Fl", l2match: "l2Match" });
