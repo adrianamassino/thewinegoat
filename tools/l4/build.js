@@ -1,10 +1,10 @@
 /* The Wine Goat — Diploma (Level 4) content builder.
-   Sources: tools/l4/src/<unit>/*.js (CommonJS). _unit.js = {name:{it,fr,en,es}, w: weighting %, exam:{minutes, q}};
+   Sources: tools/l4/src/<unit>/*.js (CommonJS). _unit.js = {name:{it,fr,en,es}, w: weighting %, exam:{minutes, q, tasting?: tasting notes in the practice paper}};
    every other file exports any of {ch, lessons, bank, open, flash}:
      ch      {id: {it,fr,en,es}}
      lessons [{c, t:[it,fr,en,es], p:[[…4]…], k:[[…4]…]}]
      bank    [{c, q:[4], o:[[4] correct first, [4], [4], [4]], e:[4]}]          (multiple choice, explanation)
-     open    [{c, q:[4], parts:[{t:[4], m: marks, k:[4] key points separated by ";", a:[4] model answer}], ess?:1, min?: minutes, g?:[4] guide}]
+     open    [{c, q:[4], parts:[{t:[4], m: marks, k:[4] key points separated by ";", a:[4] model answer}], ess?:1, tas?:1 (tasting note), min?: minutes, g?:[4] guide}]
      flash   [{c, f:[4], b:[4]}]
    Output: app/l4/<unit>/content.js → window.TWG_<UNIT>C and window.TWG_D4.<UNIT> (read by app/l4/d4app.js).
    Usage: node tools/l4/build.js [d1 d2 …]   (default: every folder in src) */
@@ -28,7 +28,7 @@ for (const u of units) {
     (m.open || []).forEach((o, i) => { const w = `${f} open ${i} ${o.q && o.q[2]}`; t4(o.q, w); if (o.g) t4(o.g, w + " g");
       (o.parts || []).forEach((p, j) => { t4(p.t, w + " t" + j); t4(p.k, w + " k" + j); t4(p.a, w + " a" + j); if (!(p.m > 0)) err(w + " marks");
         const n = p.k.map(x => x.split(";").filter(s => s.trim()).length); if (new Set(n).size !== 1) err(`${w} part ${j}: key point counts differ by language ${n}`); });
-      out.open.push(Object.assign({ id: u + "o" + h(o.q[2] + (o.parts || []).map(p => p.t[2]).join("|")), c: o.c, q: o.q, parts: o.parts.map(p => ({ t: p.t, m: p.m, k: p.k, a: p.a })) }, o.ess ? { ess: 1 } : {}, o.min ? { min: o.min } : {}, o.g ? { g: o.g } : {})); });
+      out.open.push(Object.assign({ id: u + "o" + h(o.q[2] + (o.parts || []).map(p => p.t[2]).join("|")), c: o.c, q: o.q, parts: o.parts.map(p => ({ t: p.t, m: p.m, k: p.k, a: p.a })) }, o.ess ? { ess: 1 } : {}, o.tas ? { tas: 1 } : {}, o.min ? { min: o.min } : {}, o.g ? { g: o.g } : {})); });
     (m.flash || []).forEach((x, i) => { const w = `${f} flash ${i}`; t4(x.f, w); t4(x.b, w); out.flash.push({ c: x.c, f: x.f, b: x.b }); });
   }
   const chs = new Set(Object.keys(out.ch));

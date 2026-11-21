@@ -48,7 +48,9 @@
       d4Time: "Tempo di studio", d4TimeI: "Il tempo consigliato per tutto il Diploma è di 500 ore (lezioni guidate + studio personale). Lo dividiamo secondo il peso di ogni unità e aggiungiamo un ampio margine di sicurezza: meglio abbondare ed essere pronti.",
       d4TRec: "Tempo consigliato per {u}: circa {h} h ({w}% del Diploma).", d4TGoal: "Obiettivo", d4TMode: "Come studi", d4TSelf: "Solo con l'app", d4TCourse: "Corso + app",
       d4TH: "≈ {h} ore di studio in totale: {wk} settimane a {d} h al giorno, 6 giorni su 7.", d4TPace: "Ore al giorno", d4TNote: "Stima prudente, non una promessa: dipende dal tuo ritmo e dal tuo corso. Con un corso, le sue ore guidate si aggiungono secondo il suo calendario.",
-      d4TOrder: "D1 e D2 si studiano per prime; l'esame D1 si sostiene per primo.", d4Ex: "Esame {u}: {f}", d4ExD1: "prova scritta a risposta aperta, 90 minuti", d4ExD2: "prova scritta a risposta aperta, 60 minuti",
+      d4TOrder: "D1 e D2 si studiano per prime; l'esame D1 si sostiene per primo.", d4Ex: "Esame {u}: {f}", d4ExD1: "prova scritta a risposta aperta, 90 minuti", d4ExD2: "prova scritta a risposta aperta, 60 minuti", d4ExD4: "prova scritta a risposta aperta e degustazione alla cieca di 3 vini, 90 minuti in tutto", d4ExD5: "prova scritta a risposta aperta e degustazione alla cieca di 3 vini, 90 minuti in tutto",
+      d4Tas: "Degustazione", d4TasD: "Guida all'approccio sistematico e {n} note di degustazione da scrivere e correggere", d4TasTag: "Degustazione", d4FTas: "Note di degustazione", d4PaperDT: "{q} domande aperte + {n} note di degustazione in {m} minuti · soglia 55%",
+      d4PIntroT: "Formato di allenamento: {q} domande aperte e {n} note di degustazione, {m} minuti in tutto. All'esame i vini sono serviti alla cieca; qui scrivi la nota completa di un esempio tipico dello stile indicato. Poi consegna: ogni risposta viene corretta e conta per la regola del 55%.",
       plT_les: "Lezioni: {c}", plT_d4o: "Risposta scritta: {c}", plT_d4p: "Simulazione a tempo · {u}", plT_d4e: "Saggio o caso: {c}",
       obHi: "Ciao! Sono la tua capra del Diploma 🍷", obHiP: "Ti preparo un percorso su misura per l'unità {u}. Bastano 5 domande veloci.", obW4: "Tra 3 mesi", obW8: "Tra 6 mesi", obW12: "Tra 9 mesi",
       obGoal_passD: "Almeno il 55%: il minimo, senza stress", obGoal_meritD: "Dal 65%: un risultato solido", obGoal_distD: "Dal 75%: il massimo",
@@ -75,7 +77,9 @@
       d4Time: "Temps d'étude", d4TimeI: "Le temps conseillé pour tout le Diploma est de 500 heures (cours guidés + travail personnel). Nous le répartissons selon le poids de chaque unité et ajoutons une large marge de sécurité : mieux vaut prévoir large et être prêt.",
       d4TRec: "Temps conseillé pour {u} : environ {h} h ({w} % du Diploma).", d4TGoal: "Objectif", d4TMode: "Votre façon d'étudier", d4TSelf: "Avec l'app seule", d4TCourse: "Cours + app",
       d4TH: "≈ {h} heures d'étude au total : {wk} semaines à {d} h par jour, 6 jours sur 7.", d4TPace: "Heures par jour", d4TNote: "Estimation prudente, pas une promesse : elle dépend de votre rythme et de votre cours. Avec un cours, ses heures guidées s'ajoutent selon son calendrier.",
-      d4TOrder: "D1 et D2 s'étudient en premier ; l'examen D1 se passe en premier.", d4Ex: "Examen {u} : {f}", d4ExD1: "épreuve écrite à réponses ouvertes, 90 minutes", d4ExD2: "épreuve écrite à réponses ouvertes, 60 minutes",
+      d4TOrder: "D1 et D2 s'étudient en premier ; l'examen D1 se passe en premier.", d4Ex: "Examen {u} : {f}", d4ExD1: "épreuve écrite à réponses ouvertes, 90 minutes", d4ExD2: "épreuve écrite à réponses ouvertes, 60 minutes", d4ExD4: "épreuve écrite à réponses ouvertes et dégustation à l'aveugle de 3 vins, 90 minutes en tout", d4ExD5: "épreuve écrite à réponses ouvertes et dégustation à l'aveugle de 3 vins, 90 minutes en tout",
+      d4Tas: "Dégustation", d4TasD: "Guide de l'approche systématique et {n} notes de dégustation à rédiger et à corriger", d4TasTag: "Dégustation", d4FTas: "Notes de dégustation", d4PaperDT: "{q} questions ouvertes + {n} notes de dégustation en {m} minutes · seuil 55 %",
+      d4PIntroT: "Format d'entraînement : {q} questions ouvertes et {n} notes de dégustation, {m} minutes en tout. À l'examen les vins sont servis à l'aveugle ; ici vous rédigez la note complète d'un exemple typique du style indiqué. Puis rendez la copie : chaque réponse est corrigée et compte pour la règle des 55 %.",
       plT_les: "Leçons : {c}", plT_d4o: "Réponse rédigée : {c}", plT_d4p: "Épreuve blanche chronométrée · {u}", plT_d4e: "Dissertation ou cas : {c}",
       obHi: "Bonjour ! Je suis votre chèvre du Diploma 🍷", obHiP: "Je vous prépare un parcours sur mesure pour l'unité {u}. Il suffit de 5 questions rapides.", obW4: "Dans 3 mois", obW8: "Dans 6 mois", obW12: "Dans 9 mois",
       obGoal_passD: "Au moins 55 % : le minimum, sans stress", obGoal_meritD: "Dès 65 % : un résultat solide", obGoal_distD: "Dès 75 % : le sommet",
@@ -102,7 +106,9 @@
       d4Time: "Study time", d4TimeI: "The recommended time for the whole Diploma is 500 hours (guided learning + private study). We split it by the weight of each unit and add a generous safety margin: better to over-estimate and be ready.",
       d4TRec: "Recommended time for {u}: about {h} h ({w}% of the Diploma).", d4TGoal: "Goal", d4TMode: "How you study", d4TSelf: "App only", d4TCourse: "Course + app",
       d4TH: "≈ {h} hours of study in total: {wk} weeks at {d} h a day, 6 days a week.", d4TPace: "Hours a day", d4TNote: "A cautious estimate, not a promise: it depends on your pace and your course. With a course, its guided hours come on top, on its own schedule.",
-      d4TOrder: "D1 and D2 are studied first; the D1 exam is sat first.", d4Ex: "{u} exam: {f}", d4ExD1: "open-response written paper, 90 minutes", d4ExD2: "open-response written paper, 60 minutes",
+      d4TOrder: "D1 and D2 are studied first; the D1 exam is sat first.", d4Ex: "{u} exam: {f}", d4ExD1: "open-response written paper, 90 minutes", d4ExD2: "open-response written paper, 60 minutes", d4ExD4: "open-response written paper plus a blind tasting of 3 wines, 90 minutes in all", d4ExD5: "open-response written paper plus a blind tasting of 3 wines, 90 minutes in all",
+      d4Tas: "Tasting", d4TasD: "Guide to the systematic approach and {n} tasting notes to write and mark", d4TasTag: "Tasting", d4FTas: "Tasting notes", d4PaperDT: "{q} open-response questions + {n} tasting notes in {m} minutes · pass mark 55%",
+      d4PIntroT: "Practice format: {q} open-response questions and {n} tasting notes, {m} minutes in all. In the exam the wines are served blind; here you write the full note for a typical example of the style named. Then hand in: every answer is marked and counts towards the 55% rule.",
       plT_les: "Lessons: {c}", plT_d4o: "Written answer: {c}", plT_d4p: "Timed practice paper · {u}", plT_d4e: "Essay or case: {c}",
       obHi: "Hi! I'm your Diploma goat 🍷", obHiP: "I'll build you a tailor-made path for unit {u}. It takes 5 quick questions.", obW4: "In 3 months", obW8: "In 6 months", obW12: "In 9 months",
       obGoal_passD: "At least 55%: the minimum, stress-free", obGoal_meritD: "From 65%: a solid result", obGoal_distD: "From 75%: the top",
@@ -129,7 +135,9 @@
       d4Time: "Tiempo de estudio", d4TimeI: "El tiempo recomendado para todo el Diploma es de 500 horas (clases guiadas + estudio personal). Lo repartimos según el peso de cada unidad y añadimos un amplio margen de seguridad: mejor pasarse y llegar preparado.",
       d4TRec: "Tiempo recomendado para {u}: unas {h} h ({w} % del Diploma).", d4TGoal: "Objetivo", d4TMode: "Cómo estudias", d4TSelf: "Solo con la app", d4TCourse: "Curso + app",
       d4TH: "≈ {h} horas de estudio en total: {wk} semanas a {d} h al día, 6 días por semana.", d4TPace: "Horas al día", d4TNote: "Estimación prudente, no una promesa: depende de tu ritmo y de tu curso. Con un curso, sus horas guiadas se suman según su calendario.",
-      d4TOrder: "D1 y D2 se estudian primero; el examen D1 se hace primero.", d4Ex: "Examen {u}: {f}", d4ExD1: "prueba escrita de respuesta abierta, 90 minutos", d4ExD2: "prueba escrita de respuesta abierta, 60 minutos",
+      d4TOrder: "D1 y D2 se estudian primero; el examen D1 se hace primero.", d4Ex: "Examen {u}: {f}", d4ExD1: "prueba escrita de respuesta abierta, 90 minutos", d4ExD2: "prueba escrita de respuesta abierta, 60 minutos", d4ExD4: "prueba escrita de respuesta abierta y cata a ciegas de 3 vinos, 90 minutos en total", d4ExD5: "prueba escrita de respuesta abierta y cata a ciegas de 3 vinos, 90 minutos en total",
+      d4Tas: "Cata", d4TasD: "Guía del enfoque sistemático y {n} notas de cata para escribir y corregir", d4TasTag: "Cata", d4FTas: "Notas de cata", d4PaperDT: "{q} preguntas abiertas + {n} notas de cata en {m} minutos · aprobado con 55 %",
+      d4PIntroT: "Formato de práctica: {q} preguntas abiertas y {n} notas de cata, {m} minutos en total. En el examen los vinos se sirven a ciegas; aquí escribes la nota completa de un ejemplo típico del estilo indicado. Después entrega: cada respuesta se corrige y cuenta para la regla del 55 %.",
       plT_les: "Lecciones: {c}", plT_d4o: "Respuesta escrita: {c}", plT_d4p: "Simulacro cronometrado · {u}", plT_d4e: "Ensayo o caso: {c}",
       obHi: "¡Hola! Soy tu cabra del Diploma 🍷", obHiP: "Te preparo un recorrido a medida para la unidad {u}. Bastan 5 preguntas rápidas.", obW4: "Dentro de 3 meses", obW8: "Dentro de 6 meses", obW12: "Dentro de 9 meses",
       obGoal_passD: "Al menos un 55 %: lo mínimo, sin estrés", obGoal_meritD: "Desde el 65 %: un resultado sólido", obGoal_distD: "Desde el 75 %: lo máximo",
@@ -191,14 +199,14 @@
       <p class="small">${esc(ok === n && n ? t("d4AllOk") : t("d4Rule"))}</p>${nx ? `<button type="button" class="btn primary" data-d4="onext">✍️ ${esc(t("d4NextO"))}</button>` : ""}</div>`;
   }
   function study() {
-    const u = unit, X_ = UX(), ex = X_.exam || {}, nO = openOf(u, false).length, nE = openOf(u, true).length;
+    const u = unit, X_ = UX(), ex = X_.exam || {}, nO = openOf(u, false).filter(o => !o.tas).length, nE = openOf(u, true).length, nT = openOf(u).filter(o => o.tas).length;
     const exl = t("d4Ex" + u) !== "d4Ex" + u ? fill(t("d4Ex"), { u, f: t("d4Ex" + u) }) : "";
     return `<section class="view hub area-wset d4hub">${lvSw()}${hubHead("ban-wset", "d4Kick", "d4Title", "d4Intro", "n37")}${unitTabs()}
       <h2 class="hsec">${esc(uName(u))}</h2>${exl ? `<p class="muted small d4exl">📝 ${esc(exl)}</p>` : ""}
-      ${ex.minutes && nO ? `<button type="button" class="mockcard" data-d4="paper"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(t("d4Paper"))}</b><span>${esc(fill(t("d4PaperD"), { q: ex.q || 3, m: ex.minutes }))}</span></span>${ico("chev")}</button>` : ""}
-      ${nO ? ruleCard() : ""}
+      ${ex.minutes && nO ? `<button type="button" class="mockcard" data-d4="paper"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(t("d4Paper"))}</b><span>${esc(fill(t(ex.tasting && nT ? "d4PaperDT" : "d4PaperD"), { q: ex.q || 3, m: ex.minutes, n: ex.tasting }))}</span></span>${ico("chev")}</button>` : ""}
+      ${nO || nT ? ruleCard() : ""}
       <h2 class="hsec">${esc(t("d4Sec"))}</h2>
-      <div class="hublist">${row('data-go="l2les"', "schemi", t("d4Les"), t("d4LesD"))}${row('data-d4="quiz"', "quiz", t("d4Quiz"), t("d4QuizD"))}${nO ? row('data-d4="open"', "open", t("d4Open"), fill(t("d4OpenD"), { n: nO })) : ""}${nE ? row('data-d4="ess"', "open", t("d4Ess"), fill(t("d4EssD"), { n: nE })) : ""}${row('data-go="l2fl"', "grapes", t("d4Fl"), t("d4FlD"))}</div>
+      <div class="hublist">${row('data-go="l2les"', "schemi", t("d4Les"), t("d4LesD"))}${row('data-d4="quiz"', "quiz", t("d4Quiz"), t("d4QuizD"))}${nO ? row('data-d4="open"', "open", t("d4Open"), fill(t("d4OpenD"), { n: nO })) : ""}${nE ? row('data-d4="ess"', "open", t("d4Ess"), fill(t("d4EssD"), { n: nE })) : ""}${nT ? row('data-d4="tas"', "sat", t("d4Tas"), fill(t("d4TasD"), { n: nT })) : ""}${row('data-go="l2fl"', "grapes", t("d4Fl"), t("d4FlD"))}</div>
       ${timeCard()}</section>`;
   }
 
@@ -256,12 +264,12 @@
 
   /* ---------- written answers: the list, with the 55% rule ---------- */
   function openList() {
-    const all = openOf(unit), L_ = all.filter(o => oF === "ess" ? o.ess : oF === "todo" ? stOf(o.id) === "new" : oF === "low" ? stOf(o.id) === "low" : oF === "ok" ? stOf(o.id) === "ok" : oF ? o.c === oF : true);
-    const k = L(), nE = all.filter(o => o.ess).length;
+    const all = openOf(unit), L_ = all.filter(o => oF === "ess" ? o.ess : oF === "tas" ? o.tas : oF === "todo" ? stOf(o.id) === "new" : oF === "low" ? stOf(o.id) === "low" : oF === "ok" ? stOf(o.id) === "ok" : oF ? o.c === oF : true);
+    const k = L(), nE = all.filter(o => o.ess).length, nT = all.filter(o => o.tas).length;
     const opt = (v, l, n) => `<option value="${v}"${oF === v ? " selected" : ""}>${esc(l)} (${n})</option>`;
-    const sel = `<select id="d4-of" aria-label="${esc(t("d4FAll"))}">${opt("", t("d4FAll"), all.length)}${opt("todo", t("d4FTodo"), all.filter(o => stOf(o.id) === "new").length)}${opt("low", t("d4FLow"), all.filter(o => stOf(o.id) === "low").length)}${opt("ok", t("d4FOk"), all.filter(o => stOf(o.id) === "ok").length)}${nE ? opt("ess", t("d4FEss"), nE) : ""}${UX().ch.filter(c => all.some(o => o.c === c)).map(c => opt(c, chName(c), all.filter(o => o.c === c).length)).join("")}</select>`;
+    const sel = `<select id="d4-of" style="max-width:100%" aria-label="${esc(t("d4FAll"))}">${opt("", t("d4FAll"), all.length)}${opt("todo", t("d4FTodo"), all.filter(o => stOf(o.id) === "new").length)}${opt("low", t("d4FLow"), all.filter(o => stOf(o.id) === "low").length)}${opt("ok", t("d4FOk"), all.filter(o => stOf(o.id) === "ok").length)}${nE ? opt("ess", t("d4FEss"), nE) : ""}${nT ? opt("tas", t("d4FTas"), nT) : ""}${UX().ch.filter(c => all.some(o => o.c === c)).map(c => opt(c, chName(c), all.filter(o => o.c === c).length)).join("")}</select>`;
     const items = L_.map(o => { const b = best(o.id), p = b ? Math.round(b.s / b.m * 100) : null, st = stOf(o.id);
-      return `<button type="button" class="oqi d4oqi" data-oq="${o.id}"><span class="emeta"><span class="tag">${esc(chName(o.c))}</span>${o.ess ? `<span class="tag">${esc(t("d4EssTag"))}</span>` : ""}<span class="mono">${omax(o)} ${esc(t("oMarks"))}${o.min ? " · " + esc(fill(t("d4Min"), { m: o.min })) : ""}</span><span class="tag ${st === "ok" ? "fixed" : st === "low" ? "active" : ""}">${st === "new" ? esc(t("d4StNew")) : `${p} % · ${esc(t(st === "ok" ? "d4StOk" : "d4StLow"))}`}</span></span><span class="ot">${esc(o.q[k])}</span><span class="muted" style="font-size:.88rem">${o.parts.map((p, i) => "abcdefgh"[i] + ") " + esc(p.t[k])).join("<br>")}</span></button>`; }).join("");
+      return `<button type="button" class="oqi d4oqi" data-oq="${o.id}"><span class="emeta"><span class="tag">${esc(chName(o.c))}</span>${o.ess ? `<span class="tag">${esc(t("d4EssTag"))}</span>` : ""}${o.tas ? `<span class="tag">🍷 ${esc(t("d4TasTag"))}</span>` : ""}<span class="mono">${omax(o)} ${esc(t("oMarks"))}${o.min ? " · " + esc(fill(t("d4Min"), { m: o.min })) : ""}</span><span class="tag ${st === "ok" ? "fixed" : st === "low" ? "active" : ""}">${st === "new" ? esc(t("d4StNew")) : `${p} % · ${esc(t(st === "ok" ? "d4StOk" : "d4StLow"))}`}</span></span><span class="ot">${esc(o.q[k])}</span><span class="muted" style="font-size:.88rem">${o.parts.map((p, i) => "abcdefgh"[i] + ") " + esc(p.t[k])).join("<br>")}</span></button>`; }).join("");
     const ex = UX().exam || {};
     return `<section class="view">${unitTabs()}<div class="card"><h2>${esc(fill(t("d4OTitle"), { u: unit }))}</h2><p class="muted" style="max-width:68ch;font-size:.9rem">${esc(t("d4OIntro"))}</p></div>
       ${ruleCard()}
@@ -271,9 +279,10 @@
 
   /* ---------- timed practice paper ---------- */
   function pickPaper(u) {
-    const ex = C.units[u].exam || {}, q = ex.q || 3, pool = shuffle(openOf(u, false)), out = [], used = new Set();
+    const ex = C.units[u].exam || {}, q = ex.q || 3, pool = shuffle(openOf(u, false).filter(o => !o.tas)), out = [], used = new Set();
     pool.forEach(o => { if (out.length < q && !used.has(o.c)) { used.add(o.c); out.push(o.id); } });
     pool.forEach(o => { if (out.length < q && !out.includes(o.id)) out.push(o.id); });
+    if (ex.tasting) shuffle(openOf(u).filter(o => o.tas)).slice(0, ex.tasting).forEach(o => out.push(o.id));
     return out;
   }
   function startPaper() {
@@ -284,9 +293,9 @@
   function paperView() {
     const k = L(), ex = C.units[PAP.u].exam || {};
     if (!PAP.started) return `<section class="view"><div class="card d4pap"><small class="l2ch">${esc(PAP.u)} · ${esc(t("d4Paper"))}</small><h2>${esc(uName(PAP.u))}</h2>
-      <p>${esc(fill(t("d4PIntro"), { q: PAP.ids.length, m: ex.minutes || 60 }))}</p><div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="pgo">${esc(t("d4PStart"))}</button><button type="button" class="btn ghost" data-d4="pquit">${esc(t("oBack"))}</button></div></div></section>`;
+      <p>${esc((nt => fill(t(nt ? "d4PIntroT" : "d4PIntro"), { q: PAP.ids.length - nt, n: nt, m: ex.minutes || 60 }))(PAP.ids.filter(id => OBY[id] && OBY[id].tas).length))}</p><div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="pgo">${esc(t("d4PStart"))}</button><button type="button" class="btn ghost" data-d4="pquit">${esc(t("oBack"))}</button></div></div></section>`;
     const qs = PAP.ids.map((id, n) => { const o = OBY[id]; if (!o) return ""; const a = PAP.ans[id] || [];
-      return `<div class="card d4pq"><div class="row" style="gap:6px"><span class="tag">${esc(t("oxQ"))} ${n + 1}</span><span class="tag">${esc(chName(o.c))}</span><span class="tag mono">${omax(o)} ${esc(t("oMarks"))}</span></div>
+      return `<div class="card d4pq"><div class="row" style="gap:6px"><span class="tag">${esc(t("oxQ"))} ${n + 1}</span><span class="tag">${esc(o.tas ? "🍷 " + t("d4TasTag") : chName(o.c))}</span><span class="tag mono">${omax(o)} ${esc(t("oMarks"))}</span></div>
         <p class="qtext" style="margin:0">${esc(o.q[k])}</p>${o.parts.map((p, i) => `<div class="opart"><div class="ph"><b>${"abcdefgh"[i]}) ${esc(p.t[k])}</b><span class="mono muted">${p.m} ${esc(t("oMarks"))}</span></div><textarea data-d4pa="${id}|${i}" aria-label="${n + 1}${"abcdefgh"[i]}">${esc(a[i] || "")}</textarea></div>`).join("")}</div>`; }).join("");
     return `<section class="view d4papv"><div class="qhead"><span class="label">${esc(t("d4Paper"))} · ${esc(PAP.u)}</span><button class="btn ghost" data-d4="pquit">${esc(t("quit"))}</button></div>${qs}
       <div class="row"><button type="button" class="btn primary" data-d4="psub">${esc(t("d4PSubmit"))}</button></div></section>`;
@@ -343,6 +352,7 @@
     if (a === "quiz") { go("practice"); return; }
     if (a === "open") { oF = ""; oq = null; go("open"); return; }
     if (a === "ess") { oF = "ess"; oq = null; go("open"); return; }
+    if (a === "tas") { oF = "tas"; oq = null; go("open"); window.scrollTo(0, 0); return; }
     if (a === "onext") { const o = nextOpen(unit); if (o) { go("open"); openQ(o.id); window.scrollTo(0, 0); } return; }
     if (a === "copen") { oF = b.dataset.c; oq = null; go("open"); window.scrollTo(0, 0); return; }
     if (a === "cquiz") { const pool = shuffle(BANK.filter(x => x.c === b.dataset.c).map(x => x.id)); startQuiz(pool.slice(0, 10), "practice", [b.dataset.c]); return; }
