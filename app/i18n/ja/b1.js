@@ -1,0 +1,1 @@
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["ja"]=Object.assign(TWG_I18N["ja"]||{},{"Low":"低い","High":"高い","Very high":"とても高い","Alcohol and carbon dioxide":"アルコールと二酸化炭素","Coffee and chocolate":"コーヒーとチョコレート","The leaves":"葉","Bitterness":"苦味"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["ja/b1"]=1;

@@ -1,0 +1,1 @@
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["th"]=Object.assign(TWG_I18N["th"]||{},{"Alcohol and carbon dioxide":"แอลกอฮอล์และคาร์บอนไดออกไซด์"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["th/b1"]=1;

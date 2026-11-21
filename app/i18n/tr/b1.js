@@ -1,0 +1,1 @@
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["tr"]=Object.assign(TWG_I18N["tr"]||{},{"Low":"Düşük","High":"Yüksek","Very high":"Çok yüksek","Alcohol and carbon dioxide":"Alkol ve karbondioksit","Coffee and chocolate":"Kahve ve çikolata","The leaves":"Yapraklar","Bitterness":"Acılık"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["tr/b1"]=1;

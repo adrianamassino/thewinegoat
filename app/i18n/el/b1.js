@@ -1,0 +1,1 @@
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["el"]=Object.assign(TWG_I18N["el"]||{},{"Low":"Χαμηλό","High":"Υψηλό","Very high":"Πολύ υψηλό","Alcohol and carbon dioxide":"Αλκοόλη και διοξείδιο του άνθρακα","Coffee and chocolate":"Καφές και σοκολάτα","The leaves":"Τα φύλλα","Bitterness":"Πικράδα"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["el/b1"]=1;

@@ -1,0 +1,1 @@
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["nl"]=Object.assign(TWG_I18N["nl"]||{},{"Low":"Laag","High":"Hoog","Very high":"Heel hoog","Alcohol and carbon dioxide":"Alcohol en koolzuurgas","Coffee and chocolate":"Koffie en chocolade","The leaves":"De bladeren","Bitterness":"Bitterheid"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["nl/b1"]=1;
