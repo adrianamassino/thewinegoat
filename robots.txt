@@ -1,65 +1,170 @@
 User-agent: *
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Googlebot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: GPTBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Claude-SearchBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Claude-User
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Applebot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: DuckAssistBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: meta-externalagent
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: CCBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: YandexBot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: Amazonbot
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 User-agent: MistralAI-User
 Allow: /
+Disallow: /tools/
+Disallow: /mobile/
+Disallow: /social/
+Disallow: /supabase/
+Disallow: /scratchpad/
 
 Sitemap: https://thewinegoat.com/sitemap.xml
 Sitemap: https://thewinegoat.com/sitemap-images.xml
