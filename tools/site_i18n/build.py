@@ -332,6 +332,8 @@ def main():
         os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
     for t in ('tools/home_lang_claims.py', 'tools/home_quiz_themes.py'):  # homes: truthful language claims; quick quiz with theme picker (th/tr rebuilt from the English home)
         if os.path.exists(t): os.system(f'{sys.executable} {t} --quiet')
+    if os.path.exists('tools/home_diploma_live.py'):  # homes: Diploma card and hero say D1 and D2 are in the app, the other units in preparation
+        os.system(f'{sys.executable} tools/home_diploma_live.py --quiet')
     if os.path.exists('tools/lvseries.py'):  # Level 1 → 2 → 3 → 4 guide series, home/next-level links (only guides that exist in each language)
         os.system(f'{sys.executable} tools/lvseries.py --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)
