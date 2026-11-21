@@ -1,0 +1,15 @@
+# Controlla che la raccolta delle statistiche anonime risponda (parte a mano: Actions > "Statistiche: controllo").
+name: "Statistiche: controllo"
+on: { workflow_dispatch: {} }
+permissions: { contents: read }
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          K=sb_publishable_MDrhEC1shlXDrDukfbnlHg_0AK5kZeq
+          U=https://tetvfgpdxwkmfdxxadxa.supabase.co/rest/v1/rpc/twg_track
+          echo "sito: $(curl -s https://thewinegoat.com/assets/deco.js | grep -c twgTrack) righe con twgTrack in deco.js"
+          echo "preflight: $(curl -s -o /dev/null -w '%{http_code}' -X OPTIONS $U -H 'Origin: https://thewinegoat.com' -H 'Access-Control-Request-Method: POST' -H 'Access-Control-Request-Headers: apikey,authorization,content-type')"
+          curl -s -i -X POST $U -H 'Origin: https://thewinegoat.com' -H 'Content-Type: application/json' -H "apikey: $K" -H "Authorization: Bearer $K" \
+            -d '{"p_ev":"view","p_lang":"en","p_path":"/_check","p_src":"site","p_entry":false,"p_extra":"ci"}' | head -20
