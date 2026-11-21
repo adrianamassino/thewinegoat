@@ -1,0 +1,2342 @@
+[
+{
+"en": "What beer is",
+"it": "Che cos'è la birra"
+},
+{
+"en": "Malt and other sugar sources",
+"it": "Malto e altre fonti di zucchero"
+},
+{
+"en": "The brewing steps",
+"it": "Le tappe della birrificazione"
+},
+{
+"en": "Hops and other flavourings",
+"it": "Luppolo e altri aromi"
+},
+{
+"en": "Tasting beer",
+"it": "Degustare la birra"
+},
+{
+"en": "Malt-driven styles: base malts only",
+"it": "Stili di malto: solo malti base"
+},
+{
+"en": "Malt-driven styles: some speciality malts",
+"it": "Stili di malto: con malti speciali"
+},
+{
+"en": "Hop-driven styles",
+"it": "Stili di luppolo"
+},
+{
+"en": "Yeast-driven styles",
+"it": "Stili di lievito"
+},
+{
+"en": "Sour styles",
+"it": "Stili acidi"
+},
+{
+"en": "Storage and faults",
+"it": "Conservazione e difetti"
+},
+{
+"en": "Serving beer",
+"it": "Servire la birra"
+},
+{
+"en": "Beer and food",
+"it": "Birra e cibo"
+},
+{
+"en": "Ingredients and production",
+"it": "Ingredienti e produzione"
+},
+{
+"en": "Storage, service and food",
+"it": "Conservazione, servizio e cibo"
+},
+{
+"en": "b14",
+"it": "b12"
+},
+{
+"en": "What are the four main ingredients of beer?",
+"it": "Quali sono i quattro ingredienti principali della birra?"
+},
+{
+"en": "Malt, water, hops, yeast",
+"it": "Malto, acqua, luppolo, lievito"
+},
+{
+"en": "Rice, kōji, water, yeast",
+"it": "Riso, kōji, acqua, lievito"
+},
+{
+"en": "Malt, sugar, hops, neutral alcohol",
+"it": "Malto, zucchero, luppolo, alcol neutro"
+},
+{
+"en": "Barley, grapes, water, yeast",
+"it": "Orzo, uva, acqua, lievito"
+},
+{
+"en": "Malt, water, hops and yeast are the four main ingredients.",
+"it": "Malto, acqua, luppolo e lievito sono i quattro ingredienti principali."
+},
+{
+"en": "Rice and kōji are sake ingredients. Sugar is sometimes used but is not one of the four; grapes belong to wine.",
+"it": "Riso e kōji sono gli ingredienti del sake. Lo zucchero si usa a volte, ma non è uno dei quattro; l'uva è del vino."
+},
+{
+"en": "During fermentation, yeast turns sugar into alcohol and also produces…",
+"it": "Durante la fermentazione, il lievito trasforma lo zucchero in alcol e produce anche…"
+},
+{
+"en": "carbon dioxide and aromas",
+"it": "anidride carbonica e aromi"
+},
+{
+"en": "starch and enzymes",
+"it": "amido ed enzimi"
+},
+{
+"en": "hops and colour",
+"it": "luppolo e colore"
+},
+{
+"en": "oxygen and water",
+"it": "ossigeno e acqua"
+},
+{
+"en": "Yeast creates alcohol, carbon dioxide (CO2) and aromas.",
+"it": "Il lievito crea alcol, anidride carbonica (CO2) e aromi."
+},
+{
+"en": "Starch and enzymes come from the malt. Colour mostly comes from malt, and hops are an added ingredient.",
+"it": "Amido ed enzimi vengono dal malto. Il colore viene soprattutto dal malto e il luppolo è un ingrediente aggiunto."
+},
+{
+"en": "A beer is 5% abv. Which alcohol band is it in?",
+"it": "Una birra ha il 5% vol. In quale fascia alcolica si trova?"
+},
+{
+"en": "Low",
+"it": "Bassa"
+},
+{
+"en": "High",
+"it": "Alta"
+},
+{
+"en": "Very high",
+"it": "Molto alta"
+},
+{
+"en": "Medium = 4.1–5.9% abv.",
+"it": "Media = da 4,1 a 5,9%."
+},
+{
+"en": "Low is up to 4%, high 6–9%, very high above 9%.",
+"it": "Bassa è fino al 4%, alta 6–9%, molto alta oltre il 9%."
+},
+{
+"en": "Above what alcohol level is a beer 'very high' in alcohol?",
+"it": "Da quale grado alcolico una birra è considerata «molto alta»?"
+},
+{
+"en": "Above 9%",
+"it": "Oltre il 9%"
+},
+{
+"en": "Above 4%",
+"it": "Oltre il 4%"
+},
+{
+"en": "Above 6%",
+"it": "Oltre il 6%"
+},
+{
+"en": "Above 15%",
+"it": "Oltre il 15%"
+},
+{
+"en": "Very high = above 9% abv.",
+"it": "Molto alta = sopra il 9% vol."
+},
+{
+"en": "6–9% is 'high' and 4.1–5.9% 'medium'.",
+"it": "Dal 6 al 9% la birra è «alta»; 4,1–5,9% «media»."
+},
+{
+"en": "By volume, what is the main ingredient in beer?",
+"it": "In volume, qual è l'ingrediente principale della birra?"
+},
+{
+"en": "Malt",
+"it": "Il malto"
+},
+{
+"en": "Hops",
+"it": "Il luppolo"
+},
+{
+"en": "Water is by far the largest ingredient, so breweries need a reliable supply.",
+"it": "L'acqua è di gran lunga l'ingrediente più abbondante: per questo serve una fonte affidabile."
+},
+{
+"en": "Malt gives sugar and colour, hops bitterness and aroma, yeast alcohol: but all are far smaller in quantity than water.",
+"it": "Il malto dà zucchero e colore, il luppolo amaro e aromi, il lievito alcol: ma in quantità sono tutti molto meno dell'acqua."
+},
+{
+"en": "Why were hops originally used in beer?",
+"it": "Per quale motivo si usava il luppolo all'inizio nella birra?"
+},
+{
+"en": "For their antibacterial properties, to help preserve the beer",
+"it": "Per le proprietà antibatteriche, che conservavano la birra"
+},
+{
+"en": "To give a dark colour",
+"it": "Per dare colore scuro"
+},
+{
+"en": "To provide sugar",
+"it": "Per fornire zucchero"
+},
+{
+"en": "To create alcohol",
+"it": "Per creare alcol"
+},
+{
+"en": "Hops were first used to preserve; today they are prized mainly for bitterness and aroma.",
+"it": "All'inizio il luppolo serviva a conservare; oggi si apprezza soprattutto per amaro e aromi."
+},
+{
+"en": "Colour and sugar come from malt, alcohol from yeast.",
+"it": "Colore e zucchero vengono dal malto, l'alcol dal lievito."
+},
+{
+"en": "Why can yeast not use the starch in malt directly?",
+"it": "Perché il lievito non può usare direttamente l'amido del malto?"
+},
+{
+"en": "Because starch is sugars bonded into long chains",
+"it": "Perché l'amido è fatto di zuccheri legati in lunghe catene"
+},
+{
+"en": "Because starch is too bitter",
+"it": "Perché l'amido è troppo amaro"
+},
+{
+"en": "Because starch is already alcohol",
+"it": "Perché l'amido è già alcol"
+},
+{
+"en": "Because yeast only eats hops",
+"it": "Perché il lievito mangia solo luppolo"
+},
+{
+"en": "Yeast can only eat shorter sugars: the starch must first be broken up by enzymes.",
+"it": "Il lievito può consumare solo zuccheri più corti: l'amido va prima spezzato dagli enzimi."
+},
+{
+"en": "Starch is neither bitter nor alcoholic, and yeast feeds on sugars, not hops.",
+"it": "L'amido non è amaro né alcolico, e il lievito si nutre di zuccheri, non di luppolo."
+},
+{
+"en": "In beer, where do the enzymes that convert starch to sugar come from?",
+"it": "Nella birra, da dove vengono gli enzimi che convertono l'amido in zucchero?"
+},
+{
+"en": "The malt",
+"it": "Dal malto"
+},
+{
+"en": "The hops",
+"it": "Dal luppolo"
+},
+{
+"en": "Kōji",
+"it": "Dal kōji"
+},
+{
+"en": "The water",
+"it": "Dall'acqua"
+},
+{
+"en": "Malt supplies both the starch and the enzymes to convert it.",
+"it": "Il malto porta sia l'amido sia gli enzimi necessari per convertirlo."
+},
+{
+"en": "Kōji supplies the enzymes in sake, not beer. Hops and water do not bring conversion enzymes.",
+"it": "Il kōji fornisce gli enzimi nel sake, non nella birra. Luppolo e acqua non portano gli enzimi della conversione."
+},
+{
+"en": "What are enzymes?",
+"it": "Che cosa sono gli enzimi?"
+},
+{
+"en": "Substances that speed up reactions, such as starch conversion",
+"it": "Sostanze che accelerano reazioni, come la conversione dell'amido"
+},
+{
+"en": "Types of yeast",
+"it": "Tipi di lievito"
+},
+{
+"en": "Hop varieties",
+"it": "Varietà di luppolo"
+},
+{
+"en": "Bacteria that make beer sour",
+"it": "Batteri che rendono la birra acida"
+},
+{
+"en": "Enzymes are catalysts: here they break starch into sugars.",
+"it": "Gli enzimi sono catalizzatori: qui spezzano l'amido in zuccheri."
+},
+{
+"en": "They are not microorganisms like yeast or bacteria, nor plants like hops.",
+"it": "Non sono microrganismi come lievito e batteri, né piante come il luppolo."
+},
+{
+"en": "Which grain is the most important for brewers?",
+"it": "Qual è il cereale più importante per i birrai?"
+},
+{
+"en": "Rice",
+"it": "Riso"
+},
+{
+"en": "Maize (corn)",
+"it": "Mais"
+},
+{
+"en": "Sorghum",
+"it": "Sorgo"
+},
+{
+"en": "Barley is the most used grain and the one most often malted.",
+"it": "L'orzo è il cereale più usato e quello maltato più spesso."
+},
+{
+"en": "Rice, maize and sorghum are also used, but as extras.",
+"it": "Riso, mais e sorgo si usano anche, ma come complemento."
+},
+{
+"en": "What are the three key steps of malting?",
+"it": "Quali sono le tre fasi chiave della maltazione?"
+},
+{
+"en": "Steeping, germination, kilning",
+"it": "Macerazione, germinazione, essiccazione"
+},
+{
+"en": "Milling, mashing, boiling",
+"it": "Macinatura, ammostamento, bollitura"
+},
+{
+"en": "Polishing, washing, steaming",
+"it": "Levigatura, lavaggio, cottura a vapore"
+},
+{
+"en": "Fermentation, carbonation, packaging",
+"it": "Fermentazione, carbonazione, confezionamento"
+},
+{
+"en": "The grain is soaked, sprouts, and is then dried in a kiln.",
+"it": "Il chicco si bagna, germoglia e poi si essicca in forno."
+},
+{
+"en": "Milling, mashing, boiling, fermentation and so on are brewing steps, after malting. Polishing applies to sake rice.",
+"it": "Macinatura, ammostamento, bollitura, fermentazione ecc. sono tappe della birrificazione, dopo la maltazione. La levigatura riguarda il riso del sake."
+},
+{
+"en": "What happens during germination?",
+"it": "Che cosa succede durante la germinazione?"
+},
+{
+"en": "The embryo grows and enzymes form inside the grain",
+"it": "L'embrione cresce e nel chicco si formano enzimi"
+},
+{
+"en": "The grain is roasted until black",
+"it": "Il chicco viene tostato fino al nero"
+},
+{
+"en": "The yeast makes alcohol",
+"it": "Il lievito produce alcol"
+},
+{
+"en": "Hops are added",
+"it": "Si aggiunge il luppolo"
+},
+{
+"en": "With water absorbed, the embryo wakes up and produces enzymes.",
+"it": "Con l'acqua assorbita l'embrione si risveglia e produce gli enzimi."
+},
+{
+"en": "Roasting comes later, for some speciality malts. Yeast and hops come in at the brewery, not during malting.",
+"it": "La tostatura avviene dopo, per alcuni malti speciali. Lievito e luppolo entrano in gioco nel birrificio, non nella maltazione."
+},
+{
+"en": "Why must germination be stopped by kilning?",
+"it": "Perché la germinazione va fermata con l'essiccazione?"
+},
+{
+"en": "Otherwise the embryo would use up the starch",
+"it": "Altrimenti l'embrione consumerebbe l'amido"
+},
+{
+"en": "To create alcohol in the grain",
+"it": "Per creare alcol nel chicco"
+},
+{
+"en": "To remove the enzymes",
+"it": "Per togliere gli enzimi"
+},
+{
+"en": "To grow the hops",
+"it": "Per far crescere il luppolo"
+},
+{
+"en": "If the grain kept growing, the starch the brewer needs would go into the plant.",
+"it": "Se il chicco continuasse a crescere, l'amido che serve al birraio finirebbe nella piantina."
+},
+{
+"en": "Kilning keeps the enzymes (especially in base malts) rather than removing them, and makes no alcohol.",
+"it": "L'essiccazione conserva gli enzimi (soprattutto nei malti base), non li toglie, e non crea alcol."
+},
+{
+"en": "Besides stopping germination, what does kilning produce?",
+"it": "Oltre a fermare la germinazione, che cosa produce l'essiccazione?"
+},
+{
+"en": "Colour and aromas in the malt",
+"it": "Colore e aromi nel malto"
+},
+{
+"en": "Alcohol and carbon dioxide",
+"it": "Alcol e anidride carbonica"
+},
+{
+"en": "Hop bitterness",
+"it": "Amaro di luppolo"
+},
+{
+"en": "Lactic sourness",
+"it": "Acidità lattica"
+},
+{
+"en": "Kiln heat creates colour and aromas; more heat, more colour.",
+"it": "Il calore del forno crea colore e aromi; più calore, più colore."
+},
+{
+"en": "Alcohol and CO2 come from yeast, bitterness from hops, lactic sourness from bacteria.",
+"it": "Alcol e CO2 vengono dal lievito, l'amaro dal luppolo, l'acidità lattica dai batteri."
+},
+{
+"en": "Why are base malts kilned at the lowest temperatures?",
+"it": "Perché i malti base sono essiccati alle temperature più basse?"
+},
+{
+"en": "To avoid damaging the enzymes needed in mashing",
+"it": "Per non danneggiare gli enzimi, che servono nell'ammostamento"
+},
+{
+"en": "To get a black colour",
+"it": "Per ottenere un colore nero"
+},
+{
+"en": "To give coffee aromas",
+"it": "Per dare aromi di caffè"
+},
+{
+"en": "To remove the starch",
+"it": "Per eliminare l'amido"
+},
+{
+"en": "Low heat = intact enzymes, ready to convert starch in the mash.",
+"it": "Calore basso = enzimi intatti, pronti a convertire l'amido nell'ammostamento."
+},
+{
+"en": "Black colour and coffee come from heavily roasted malts with destroyed enzymes. The starch must stay: it is the sugar source.",
+"it": "Nero e caffè vengono da malti molto tostati, in cui gli enzimi sono distrutti. L'amido deve restare: è la fonte di zucchero."
+},
+{
+"en": "Which aromas do base malts typically give?",
+"it": "Quali aromi danno tipicamente i malti base?"
+},
+{
+"en": "Water cracker, bread dough, bread crumb, light honey",
+"it": "Cracker, pasta di pane, mollica, miele leggero"
+},
+{
+"en": "Coffee and chocolate",
+"it": "Caffè e cioccolato"
+},
+{
+"en": "Banana and clove",
+"it": "Banana e chiodi di garofano"
+},
+{
+"en": "Grapefruit and pine",
+"it": "Pompelmo e pino"
+},
+{
+"en": "Base malts give light bready, cereal aromas and a straw or gold colour.",
+"it": "I malti base danno aromi leggeri di pane e cereali, con un colore paglierino o dorato."
+},
+{
+"en": "Coffee and chocolate come from roasted speciality malts; banana and clove from yeast; grapefruit and pine from hops.",
+"it": "Caffè e cioccolato vengono da malti speciali tostati; banana e chiodi di garofano dal lievito; pompelmo e pino dal luppolo."
+},
+{
+"en": "A beer made with base malts only: what colour will it be?",
+"it": "Una birra fatta solo con malti base: di che colore sarà?"
+},
+{
+"en": "Straw or gold",
+"it": "Paglierino o dorato"
+},
+{
+"en": "Copper",
+"it": "Rame"
+},
+{
+"en": "On their own, base malts give a straw or gold beer.",
+"it": "Da soli i malti base danno una birra paglierina o dorata."
+},
+{
+"en": "Amber, copper, brown and black need speciality malts.",
+"it": "Ambra, rame, marrone e nero richiedono malti speciali."
+},
+{
+"en": "How are speciality malts made?",
+"it": "Come si ottengono i malti speciali?"
+},
+{
+"en": "By kilning hotter or longer, or by roasting the malt",
+"it": "Con essiccazione più calda o lunga, oppure tostando il malto"
+},
+{
+"en": "By skipping germination",
+"it": "Saltando la germinazione"
+},
+{
+"en": "By adding hops during malting",
+"it": "Aggiungendo luppolo durante la maltazione"
+},
+{
+"en": "By boiling the grains",
+"it": "Bollendo i chicchi"
+},
+{
+"en": "More heat (or roasting) gives more colour and aroma but damages the enzymes.",
+"it": "Più calore (o tostatura) dà più colore e aromi, ma danneggia gli enzimi."
+},
+{
+"en": "Germination is part of all malting; hops go in during the boil, not malting.",
+"it": "La germinazione fa parte di ogni maltazione; il luppolo si aggiunge in bollitura, non in maltazione."
+},
+{
+"en": "What happens to the enzymes in speciality malts?",
+"it": "Che cosa succede agli enzimi nei malti speciali?"
+},
+{
+"en": "They are damaged or destroyed by the heat",
+"it": "Vengono danneggiati o distrutti dal calore"
+},
+{
+"en": "They multiply",
+"it": "Si moltiplicano"
+},
+{
+"en": "They turn into yeast",
+"it": "Diventano lievito"
+},
+{
+"en": "They stay more active than in base malts",
+"it": "Restano più attivi dei malti base"
+},
+{
+"en": "The high temperatures for speciality malts damage or destroy the enzymes.",
+"it": "Le temperature alte dei malti speciali danneggiano o distruggono gli enzimi."
+},
+{
+"en": "That is why a recipe needs base malt: it brings the enzymes to convert the starch of the whole mash.",
+"it": "Per questo servono malti base nella ricetta: portano gli enzimi per convertire l'amido di tutto il mash."
+},
+{
+"en": "Which of these aromas typically comes from a roasted speciality malt?",
+"it": "Quale di questi aromi viene tipicamente da un malto speciale tostato?"
+},
+{
+"en": "Coffee",
+"it": "Caffè"
+},
+{
+"en": "Bread crumb",
+"it": "Mollica di pane"
+},
+{
+"en": "Grapefruit",
+"it": "Pompelmo"
+},
+{
+"en": "Clove",
+"it": "Chiodo di garofano"
+},
+{
+"en": "Coffee and chocolate are aromas of heavily roasted malts.",
+"it": "Caffè e cioccolato sono aromi da malti molto tostati."
+},
+{
+"en": "Bread crumb comes from base malt, grapefruit from hops, clove from yeast.",
+"it": "La mollica viene dai malti base, il pompelmo dal luppolo, il chiodo di garofano dal lievito."
+},
+{
+"en": "What effect do rice and maize tend to have in the recipe?",
+"it": "Che effetto tendono ad avere riso e mais nella ricetta?"
+},
+{
+"en": "Lighter aroma intensity and lighter body",
+"it": "Aromi meno intensi e corpo più leggero"
+},
+{
+"en": "More colour and roasted aromas",
+"it": "Più colore e aromi tostati"
+},
+{
+"en": "Creamy texture and haze",
+"it": "Consistenza cremosa e torbidità"
+},
+{
+"en": "More bitterness",
+"it": "Più amaro"
+},
+{
+"en": "Rice, maize and most sugars and syrups lighten aroma and body.",
+"it": "Riso, mais e la maggior parte di zuccheri e sciroppi alleggeriscono aromi e corpo."
+},
+{
+"en": "Creaminess and haze are typical of wheat; roasted colour of speciality malts; bitterness of hops.",
+"it": "Cremosità e torbidità sono tipiche del frumento; colore tostato dei malti speciali; l'amaro del luppolo."
+},
+{
+"en": "Which grain can give a smooth, creamy texture and contribute to haze?",
+"it": "Quale cereale può dare una consistenza morbida e cremosa e contribuire alla torbidità?"
+},
+{
+"en": "Maize",
+"it": "Mais"
+},
+{
+"en": "Heavily roasted barley",
+"it": "Orzo molto tostato"
+},
+{
+"en": "Wheat brings smoothness and haze, as in wheat beers.",
+"it": "Il frumento dà morbidezza e torbidità, come nelle birre di frumento."
+},
+{
+"en": "Rice and maize lighten; roasted barley gives dark colour and coffee aromas.",
+"it": "Riso e mais alleggeriscono; l'orzo tostato dà colore scuro e aromi di caffè."
+},
+{
+"en": "What is the grain bill?",
+"it": "Che cos'è la «ricetta dei cereali» (grain bill)?"
+},
+{
+"en": "The list of types and amounts of malts and grains in a beer",
+"it": "L'elenco di tipi e quantità di malti e cereali di una birra"
+},
+{
+"en": "The cost of the grain",
+"it": "Il costo dei cereali"
+},
+{
+"en": "The list of hops",
+"it": "L'elenco dei luppoli"
+},
+{
+"en": "The amount of yeast",
+"it": "La quantità di lievito"
+},
+{
+"en": "It is the cereal recipe: which malts and grains, and in what proportion.",
+"it": "È la ricetta dei cereali: quali malti e cereali, e in che proporzione."
+},
+{
+"en": "It is not about cost, hops or yeast, only the grains.",
+"it": "Non riguarda costi, luppolo o lievito, solo i cereali."
+},
+{
+"en": "In a typical recipe, which malt makes up the majority?",
+"it": "In una ricetta tipica, quale malto costituisce la maggior parte?"
+},
+{
+"en": "A base malt",
+"it": "Un malto base"
+},
+{
+"en": "A black roasted malt",
+"it": "Un malto nero tostato"
+},
+{
+"en": "A caramel malt",
+"it": "Un malto caramello"
+},
+{
+"en": "No malt: only sugar",
+"it": "Nessun malto: solo zucchero"
+},
+{
+"en": "Base malt brings starch and enzymes; speciality malts are used in small amounts.",
+"it": "Il malto base porta amido ed enzimi; i malti speciali si usano in piccole dosi."
+},
+{
+"en": "Black and caramel malts are speciality malts, added in small amounts for colour and aroma.",
+"it": "Malti neri e caramello sono malti speciali, aggiunti in piccole quantità per colore e aromi."
+},
+{
+"en": "What is milled malt called?",
+"it": "Come si chiama il malto macinato?"
+},
+{
+"en": "Wort",
+"it": "Mosto"
+},
+{
+"en": "Spent grains",
+"it": "Trebbie"
+},
+{
+"en": "The milled grains are called grist.",
+"it": "I chicchi macinati si chiamano grist."
+},
+{
+"en": "Wort is the sugary liquid and spent grains the leftover solids; kōji belongs to sake.",
+"it": "Il mosto è il liquido zuccherino, le trebbie i solidi rimasti; il kōji è del sake."
+},
+{
+"en": "Which order of production steps is correct?",
+"it": "Quale sequenza delle tappe di produzione è corretta?"
+},
+{
+"en": "Milling, mashing, wort boiling, fermentation, carbonation, packaging",
+"it": "Macinatura, ammostamento, bollitura, fermentazione, carbonazione, confezionamento"
+},
+{
+"en": "Mashing, milling, fermentation, boiling, packaging, carbonation",
+"it": "Ammostamento, macinatura, fermentazione, bollitura, confezionamento, carbonazione"
+},
+{
+"en": "Milling, fermentation, mashing, boiling, carbonation, packaging",
+"it": "Macinatura, fermentazione, ammostamento, bollitura, carbonazione, confezionamento"
+},
+{
+"en": "Boiling, milling, mashing, fermentation, packaging, carbonation",
+"it": "Bollitura, macinatura, ammostamento, fermentazione, confezionamento, carbonazione"
+},
+{
+"en": "Mill, mash, boil the wort, ferment, carbonate and package.",
+"it": "Si macina, si ammosta, si bolle il mosto, si fermenta, si carbona e si confeziona."
+},
+{
+"en": "Yeast cannot ferment before mashing because there is no sugar yet; boiling comes after mashing.",
+"it": "Il lievito non può fermentare prima dell'ammostamento, perché lo zucchero non c'è ancora; bollire viene dopo l'ammostamento."
+},
+{
+"en": "What happens during mashing?",
+"it": "Che cosa succede durante l'ammostamento?"
+},
+{
+"en": "Malt enzymes turn starch into sugars in hot water",
+"it": "Gli enzimi del malto trasformano l'amido in zuccheri nell'acqua calda"
+},
+{
+"en": "Yeast turns sugar into alcohol",
+"it": "Il lievito trasforma lo zucchero in alcol"
+},
+{
+"en": "Most of the hops are added",
+"it": "Si aggiunge la maggior parte del luppolo"
+},
+{
+"en": "The beer is carbonated",
+"it": "La birra viene carbonata"
+},
+{
+"en": "Grist + hot water: the enzymes convert the starch and the sugar dissolves.",
+"it": "Grist + acqua calda: gli enzimi convertono l'amido e lo zucchero si scioglie."
+},
+{
+"en": "Alcohol forms in fermentation; hops go in mainly during the boil; carbonation comes later.",
+"it": "L'alcol si forma in fermentazione; il luppolo si aggiunge soprattutto in bollitura; la carbonazione viene dopo."
+},
+{
+"en": "At the end of mashing, what is the sugary liquid separated from the solids called?",
+"it": "Alla fine dell'ammostamento, come si chiama il liquido zuccherino separato dai solidi?"
+},
+{
+"en": "The separated sugary liquid is called wort.",
+"it": "Il liquido zuccherino separato si chiama mosto."
+},
+{
+"en": "Mash is the grist-and-water mix before separation; spent grains are the solids left.",
+"it": "Il mash è la miscela di grist e acqua prima della separazione; le trebbie sono i solidi rimasti."
+},
+{
+"en": "What are spent grains?",
+"it": "Che cosa sono le trebbie (spent grains)?"
+},
+{
+"en": "The solids left after the wort is separated",
+"it": "I solidi rimasti dopo aver separato il mosto"
+},
+{
+"en": "Grains not yet malted",
+"it": "I chicchi non ancora maltati"
+},
+{
+"en": "The yeast sediment in the bottle",
+"it": "Il sedimento di lievito in bottiglia"
+},
+{
+"en": "Used hop cones",
+"it": "I coni di luppolo usati"
+},
+{
+"en": "They are the solid leftovers of the mash, mainly husks.",
+"it": "Sono i resti solidi del mash, soprattutto bucce."
+},
+{
+"en": "The bottle sediment is yeast from bottle-conditioning; unmalted grain and hops are different things.",
+"it": "Il sedimento in bottiglia è lievito della rifermentazione; i chicchi non maltati e il luppolo sono altro."
+},
+{
+"en": "Why is the wort boiled?",
+"it": "Perché si fa bollire il mosto?"
+},
+{
+"en": "To kill microorganisms and add the hops",
+"it": "Per uccidere i microrganismi e aggiungere il luppolo"
+},
+{
+"en": "To turn starch into sugar",
+"it": "Per trasformare l'amido in zucchero"
+},
+{
+"en": "To make the grains germinate",
+"it": "Per far germinare i chicchi"
+},
+{
+"en": "To create the alcohol",
+"it": "Per creare l'alcol"
+},
+{
+"en": "Boiling makes the beer safe and is when the main hop additions happen.",
+"it": "La bollitura rende la birra sicura ed è il momento delle principali aggiunte di luppolo."
+},
+{
+"en": "Conversion happens in mashing, germination in malting, alcohol in fermentation.",
+"it": "La conversione avviene nell'ammostamento, la germinazione nella maltazione, l'alcol in fermentazione."
+},
+{
+"en": "What happens right after the wort is boiled?",
+"it": "Che cosa si fa subito dopo la bollitura del mosto?"
+},
+{
+"en": "It is cooled rapidly",
+"it": "Lo si raffredda rapidamente"
+},
+{
+"en": "It is canned",
+"it": "Lo si confeziona in lattina"
+},
+{
+"en": "It is milled",
+"it": "Lo si macina"
+},
+{
+"en": "It is kept hot for days",
+"it": "Lo si lascia caldo per giorni"
+},
+{
+"en": "The wort is cooled quickly to a temperature suitable for the yeast.",
+"it": "Il mosto va raffreddato in fretta a una temperatura adatta al lievito."
+},
+{
+"en": "Yeast would not survive in boiling wort; milling and packaging are other steps.",
+"it": "Il lievito non sopravviverebbe a un mosto bollente; macinatura e confezionamento sono altre tappe."
+},
+{
+"en": "At which stage is yeast added?",
+"it": "In quale tappa si aggiunge il lievito?"
+},
+{
+"en": "At fermentation, to the cooled wort",
+"it": "Nella fermentazione, al mosto raffreddato"
+},
+{
+"en": "At milling",
+"it": "Nella macinatura"
+},
+{
+"en": "At mashing",
+"it": "Nell'ammostamento"
+},
+{
+"en": "During the boil",
+"it": "Durante la bollitura"
+},
+{
+"en": "The cooled wort goes into a fermentation vessel, where yeast is added.",
+"it": "Il mosto freddo passa nel fermentatore, dove si aggiunge il lievito."
+},
+{
+"en": "The boil would kill yeast; at milling and mashing there is no wort ready to ferment yet.",
+"it": "Nella bollitura il lievito morirebbe; nella macinatura e nell'ammostamento non c'è ancora mosto pronto da fermentare."
+},
+{
+"en": "What does carbonation do?",
+"it": "Che cosa fa la carbonazione?"
+},
+{
+"en": "Dissolves carbon dioxide in the beer under pressure",
+"it": "Scioglie anidride carbonica nella birra sotto pressione"
+},
+{
+"en": "Adds alcohol",
+"it": "Aggiunge alcol"
+},
+{
+"en": "Removes bitterness",
+"it": "Toglie l'amaro"
+},
+{
+"en": "Colours the beer",
+"it": "Colora la birra"
+},
+{
+"en": "Dissolved CO2 gives bubbles in the mouth and foam in the glass.",
+"it": "La CO2 disciolta dà bollicine in bocca e la schiuma nel bicchiere."
+},
+{
+"en": "Carbonation changes neither alcohol, bitterness nor colour.",
+"it": "La carbonazione non cambia alcol, amaro o colore."
+},
+{
+"en": "Where can the CO2 injected to top up carbonation come from?",
+"it": "Da dove può venire l'anidride carbonica iniettata per completare la carbonazione?"
+},
+{
+"en": "Bought in or recovered from earlier fermentations",
+"it": "Comprata o recuperata da fermentazioni precedenti"
+},
+{
+"en": "From boiled hops",
+"it": "Dal luppolo bollito"
+},
+{
+"en": "From the brewery air",
+"it": "Dall'aria del birrificio"
+},
+{
+"en": "From the spent grains",
+"it": "Dalle trebbie"
+},
+{
+"en": "Bought CO2 or CO2 recovered from earlier fermentations is used.",
+"it": "Si usa CO2 acquistata o recuperata da fermentazioni passate."
+},
+{
+"en": "Hops, air and spent grains are not CO2 sources for carbonation.",
+"it": "Luppolo, aria e trebbie non sono fonti di anidride carbonica per la carbonazione."
+},
+{
+"en": "What is bottle-conditioning?",
+"it": "Che cos'è la rifermentazione in bottiglia (bottle-conditioning)?"
+},
+{
+"en": "A further fermentation in the sealed bottle, leaving a yeast sediment",
+"it": "Una seconda fermentazione nella bottiglia chiusa, che lascia sedimento di lievito"
+},
+{
+"en": "Storing beer in a cellar",
+"it": "Conservare la birra in cantina"
+},
+{
+"en": "Adding hops in the bottle",
+"it": "Aggiungere luppolo in bottiglia"
+},
+{
+"en": "Pasteurising the bottle",
+"it": "Pastorizzare la bottiglia"
+},
+{
+"en": "Yeast ferments again in the bottle, creating bubbles and a deposit at the bottom.",
+"it": "Il lievito fermenta di nuovo in bottiglia: crea bollicine e un deposito sul fondo."
+},
+{
+"en": "It is not mere storage, nor a hop addition or heat treatment.",
+"it": "Non è una semplice conservazione, né un'aggiunta di luppolo o un trattamento termico."
+},
+{
+"en": "What are the most widely used beer containers?",
+"it": "Quali sono i contenitori più usati per la birra?"
+},
+{
+"en": "Cans, bottles, kegs",
+"it": "Lattine, bottiglie, fusti"
+},
+{
+"en": "Oak casks and amphorae",
+"it": "Botti di rovere e anfore"
+},
+{
+"en": "Cartons and pouches",
+"it": "Cartoni e sacchetti"
+},
+{
+"en": "Glass demijohns",
+"it": "Damigiane di vetro"
+},
+{
+"en": "Cans, bottles and kegs are the main containers.",
+"it": "Lattine, bottiglie e fusti sono i contenitori principali."
+},
+{
+"en": "The other options exist in special cases but are not the usual beer packages.",
+"it": "Le altre opzioni esistono in casi particolari ma non sono le confezioni comuni della birra."
+},
+{
+"en": "Which part of the hop plant do brewers use?",
+"it": "Quale parte della pianta del luppolo usano i birrai?"
+},
+{
+"en": "The cone",
+"it": "Il cono"
+},
+{
+"en": "The root",
+"it": "La radice"
+},
+{
+"en": "The leaves",
+"it": "Le foglie"
+},
+{
+"en": "The seed",
+"it": "Il seme"
+},
+{
+"en": "Hop cones contain the compounds that give bitterness and aroma.",
+"it": "I coni di luppolo contengono le sostanze che danno amaro e aromi."
+},
+{
+"en": "Roots, leaves and seeds are not the part used in brewing.",
+"it": "Radici, foglie e semi non sono la parte usata in birrificio."
+},
+{
+"en": "In what form do brewers most often use hops?",
+"it": "In che forma i birrai usano più spesso il luppolo?"
+},
+{
+"en": "Pellets of dried, milled and pressed cones",
+"it": "Pellet di coni secchi macinati e pressati"
+},
+{
+"en": "Fresh cones straight from the field",
+"it": "Coni freschi appena raccolti"
+},
+{
+"en": "Hop syrup",
+"it": "Sciroppo di luppolo"
+},
+{
+"en": "Dried leaves",
+"it": "Foglie essiccate"
+},
+{
+"en": "Pellets are the most common form: they save space.",
+"it": "I pellet sono la forma più comune: occupano meno spazio."
+},
+{
+"en": "Whole dried cones are used, but rarely; fresh cones would soon rot.",
+"it": "I coni secchi interi si usano, ma di rado; i coni freschi marcirebbero presto."
+},
+{
+"en": "Why are hops packed and refrigerated?",
+"it": "Perché il luppolo viene confezionato e refrigerato?"
+},
+{
+"en": "To keep their bitterness and aroma",
+"it": "Per conservare amaro e aromi"
+},
+{
+"en": "To make them germinate",
+"it": "Per farlo germinare"
+},
+{
+"en": "To turn them into malt",
+"it": "Per trasformarlo in malto"
+},
+{
+"en": "To make yeast from them",
+"it": "Per farne lievito"
+},
+{
+"en": "Cold protects the bitter and aromatic compounds in hops.",
+"it": "Il freddo protegge le sostanze amare e aromatiche del luppolo."
+},
+{
+"en": "Germination is for grains being malted, not hops, which become neither malt nor yeast.",
+"it": "La germinazione riguarda i cereali da maltare, non il luppolo, che non diventa né malto né lievito."
+},
+{
+"en": "Which aromas are typical of traditional German, Czech or British hops?",
+"it": "Quali aromi sono tipici dei luppoli tradizionali tedeschi, cechi o britannici?"
+},
+{
+"en": "Subtle spicy, floral, herbal, earthy or fruity",
+"it": "Sottili: speziati, floreali, erbacei, terrosi o fruttati"
+},
+{
+"en": "Intense tropical fruit and pine",
+"it": "Intensi di frutta tropicale e pino"
+},
+{
+"en": "Traditional European hops are restrained: spice, flowers, herbs, earth, a little fruit.",
+"it": "I luppoli tradizionali europei sono discreti: spezie, fiori, erbe, terra, un po' di frutta."
+},
+{
+"en": "Intense tropical and pine notes belong to American, NZ and Australian hops. Coffee and chocolate come from malt, banana and clove from yeast.",
+"it": "Tropicale e pino intensi sono tipici dei luppoli americani, neozelandesi e australiani. Caffè e cioccolato vengono dal malto, banana e chiodi di garofano dal lievito."
+},
+{
+"en": "A brewer wants intense citrus, tropical fruit and pine notes. Which hops are they likely to choose?",
+"it": "Un birraio vuole note intense di agrumi, frutta tropicale e pino. Quali luppoli sceglie probabilmente?"
+},
+{
+"en": "American, New Zealand or Australian",
+"it": "Americani, neozelandesi o australiani"
+},
+{
+"en": "Traditional German",
+"it": "Tradizionali tedeschi"
+},
+{
+"en": "Traditional Czech",
+"it": "Tradizionali cechi"
+},
+{
+"en": "Traditional British",
+"it": "Tradizionali britannici"
+},
+{
+"en": "These hops tend to give intense citrus, stone fruit, tropical or pine aromas.",
+"it": "Questi luppoli tendono ad aromi intensi di agrumi, frutta a nocciolo, tropicale o pino."
+},
+{
+"en": "Traditional German, Czech and British hops are subtler: spice, flowers, herbs, earth.",
+"it": "I luppoli tradizionali tedeschi, cechi e britannici sono più sottili: spezie, fiori, erbe, terra."
+},
+{
+"en": "When are hops added mainly for BITTERNESS?",
+"it": "Quando si aggiunge il luppolo per ottenere soprattutto AMARO?"
+},
+{
+"en": "Near the start of the boil",
+"it": "All'inizio della bollitura"
+},
+{
+"en": "Near the end of the boil",
+"it": "Alla fine della bollitura"
+},
+{
+"en": "During malting",
+"it": "Durante la maltazione"
+},
+{
+"en": "Bitterness needs heat and time, so hops go in early.",
+"it": "L'amaro richiede calore e tempo: il luppolo va messo presto."
+},
+{
+"en": "Late in the boil and after fermentation hops give mainly aroma. No hops are used in malting.",
+"it": "Alla fine della bollitura e dopo la fermentazione il luppolo dà soprattutto aroma. In maltazione non si usa luppolo."
+},
+{
+"en": "Why are aroma hops added near the end of the boil?",
+"it": "Perché il luppolo per l'aroma si aggiunge verso la fine della bollitura?"
+},
+{
+"en": "Because aromas escape if boiled too long",
+"it": "Perché gli aromi volano via se bolle troppo a lungo"
+},
+{
+"en": "Because it gives more bitterness that way",
+"it": "Perché così dà più amaro"
+},
+{
+"en": "To sterilise it",
+"it": "Per sterilizzarlo"
+},
+{
+"en": "To colour the beer",
+"it": "Per colorare la birra"
+},
+{
+"en": "Hop aromas are volatile: a short boil keeps them.",
+"it": "Gli aromi del luppolo sono volatili: una bollitura breve li conserva."
+},
+{
+"en": "More bitterness comes from boiling longer, i.e. adding early. Hops do not colour beer.",
+"it": "Più amaro si ottiene bollendo più a lungo, cioè aggiungendo presto. Il luppolo non colora la birra."
+},
+{
+"en": "What is dry hopping?",
+"it": "Che cos'è il dry hopping?"
+},
+{
+"en": "Adding hops during or after fermentation, for aroma",
+"it": "Aggiungere luppolo durante o dopo la fermentazione, per l'aroma"
+},
+{
+"en": "Drying the hop cones",
+"it": "Essiccare i coni di luppolo"
+},
+{
+"en": "Boiling hops without water",
+"it": "Bollire il luppolo senz'acqua"
+},
+{
+"en": "Adding hops at the start of the boil",
+"it": "Aggiungere luppolo all'inizio della bollitura"
+},
+{
+"en": "Dry hopping happens at a lower temperature, after the boil, and adds aroma.",
+"it": "Il dry hopping avviene a temperatura più bassa, dopo la bollitura, e dà aroma."
+},
+{
+"en": "Drying cones is something else, and hops added at the start of the boil are for bitterness.",
+"it": "L'essiccazione dei coni è un'altra cosa, e il luppolo aggiunto all'inizio della bollitura serve per l'amaro."
+},
+{
+"en": "Which flavourings have long been used in certain traditional Belgian styles?",
+"it": "Quali aromi si usano da tempo in alcuni stili belgi tradizionali?"
+},
+{
+"en": "Fruit (cherries, raspberries), citrus peel, coriander seed",
+"it": "Frutta (ciliegie, lamponi), scorza d'agrumi, semi di coriandolo"
+},
+{
+"en": "Only American hops",
+"it": "Solo luppolo americano"
+},
+{
+"en": "Oak chips",
+"it": "Trucioli di rovere"
+},
+{
+"en": "Fruit, citrus peel and coriander are part of Belgian tradition.",
+"it": "Frutta, scorza d'agrumi e coriandolo fanno parte della tradizione belga."
+},
+{
+"en": "Kōji belongs to sake; American hops are a modern trend, not Belgian tradition.",
+"it": "Il kōji è del sake; il luppolo americano è un fenomeno moderno, non la tradizione belga."
+},
+{
+"en": "In most countries, what limits apply to flavourings added to beer?",
+"it": "Nella maggior parte dei Paesi, che limiti ci sono per gli aromi aggiunti alla birra?"
+},
+{
+"en": "None, as long as it is edible and practical",
+"it": "Nessuno, purché sia commestibile e pratico"
+},
+{
+"en": "Only hops are allowed",
+"it": "Solo luppolo ammesso"
+},
+{
+"en": "Only fruit is allowed",
+"it": "Solo frutta ammessa"
+},
+{
+"en": "Only European herbs",
+"it": "Solo erbe europee"
+},
+{
+"en": "Pumpkin, honey, chilli or coffee: anything edible and practical can be used.",
+"it": "Zucca, miele, peperoncino o caffè: si può usare ciò che è commestibile e pratico."
+},
+{
+"en": "Hops are the most used, but not the only ones allowed.",
+"it": "Il luppolo è il più usato, ma non l'unico ammesso."
+},
+{
+"en": "What is yeast's main job in beer?",
+"it": "Qual è il compito principale del lievito nella birra?"
+},
+{
+"en": "To give bitterness",
+"it": "Dare amaro"
+},
+{
+"en": "To give colour",
+"it": "Dare colore"
+},
+{
+"en": "To convert starch",
+"it": "Convertire l'amido"
+},
+{
+"en": "Yeast turns sugar into alcohol; it can also add aromas.",
+"it": "Il lievito trasforma lo zucchero in alcol; può anche dare aromi."
+},
+{
+"en": "Bitterness comes from hops, colour from malt, starch conversion from malt enzymes.",
+"it": "L'amaro viene dal luppolo, il colore dal malto, la conversione dell'amido dagli enzimi del malto."
+},
+{
+"en": "Which description fits ale yeast?",
+"it": "Quale descrizione corrisponde al lievito ale?"
+},
+{
+"en": "Ferments quickly, warmer, with many fruity and spicy aromas",
+"it": "Fermenta in fretta, più al caldo, con molti aromi fruttati e speziati"
+},
+{
+"en": "Ferments slowly, cool, with little aroma",
+"it": "Fermenta lentamente, al fresco, con pochi aromi"
+},
+{
+"en": "Used only in spontaneous fermentation",
+"it": "Si usa solo nella fermentazione spontanea"
+},
+{
+"en": "Makes beer sour",
+"it": "Rende la birra acida"
+},
+{
+"en": "Ale yeast is quick, likes relative warmth and can give many aromas.",
+"it": "Il lievito ale è veloce, ama il caldo relativo e può dare molti aromi."
+},
+{
+"en": "Slow, cool and low-aroma describes lager yeast. Sourness comes from lactic bacteria.",
+"it": "Lento, fresco e poco aromatico descrive il lievito lager. L'acidità viene dai batteri lattici."
+},
+{
+"en": "What are beers made with lager yeast called?",
+"it": "Come si chiamano le birre fatte con lievito lager?"
+},
+{
+"en": "Lagers",
+"it": "Lager"
+},
+{
+"en": "Ales",
+"it": "Ale"
+},
+{
+"en": "Sours",
+"it": "Sour"
+},
+{
+"en": "Stouts",
+"it": "Stout"
+},
+{
+"en": "Lager yeast → lagers; ale yeast → ales.",
+"it": "Lievito lager → lager; lievito ale → ale."
+},
+{
+"en": "Stouts are ales; 'sour' refers to acidic styles from bacteria.",
+"it": "Le stout sono ale; «sour» indica stili acidi dovuti ai batteri."
+},
+{
+"en": "Why do brewers choose a particular ale yeast strain?",
+"it": "Perché i birrai scelgono un preciso ceppo di lievito ale?"
+},
+{
+"en": "Each strain creates its own signature set of aromas",
+"it": "Ogni ceppo crea la sua firma di aromi"
+},
+{
+"en": "All strains give the same result",
+"it": "Tutti i ceppi danno lo stesso risultato"
+},
+{
+"en": "To change the colour",
+"it": "Per cambiare il colore"
+},
+{
+"en": "To remove the hops",
+"it": "Per eliminare il luppolo"
+},
+{
+"en": "There are many different ale strains: the one with the right aromas for the style is chosen.",
+"it": "I ceppi ale sono molti e diversi: si sceglie quello che dà gli aromi giusti per lo stile."
+},
+{
+"en": "Yeast does not set colour or remove hops.",
+"it": "Il lievito non decide il colore e non elimina il luppolo."
+},
+{
+"en": "What aromas can Brettanomyces give?",
+"it": "Quali aromi può dare il Brettanomyces?"
+},
+{
+"en": "Ripe pineapple, peach, farmyard, leather, hay, earth",
+"it": "Ananas maturo, pesca, aia, cuoio, fieno, terra"
+},
+{
+"en": "Only sourness",
+"it": "Solo acidità"
+},
+{
+"en": "No aroma at all",
+"it": "Nessun aroma"
+},
+{
+"en": "Brett gives complex fruity and 'rustic' aromas.",
+"it": "Il Brett dà aromi complessi, fruttati e «rustici»."
+},
+{
+"en": "Coffee and chocolate come from roasted malt; sourness mainly from lactic bacteria.",
+"it": "Caffè e cioccolato vengono dal malto tostato; l'acidità soprattutto dai batteri lattici."
+},
+{
+"en": "What do lactic acid bacteria bring to beer?",
+"it": "Che cosa portano i batteri lattici alla birra?"
+},
+{
+"en": "Acidity (sourness)",
+"it": "Acidità"
+},
+{
+"en": "Bitterness",
+"it": "Amaro"
+},
+{
+"en": "A dark colour",
+"it": "Colore scuro"
+},
+{
+"en": "More alcohol",
+"it": "Più alcol"
+},
+{
+"en": "Lactic bacteria, as in yoghurt, make beer sour.",
+"it": "I batteri lattici, come nello yogurt, rendono la birra acida."
+},
+{
+"en": "Bitterness is from hops, colour from malt, alcohol from yeast.",
+"it": "L'amaro è del luppolo, il colore del malto, l'alcol del lievito."
+},
+{
+"en": "What yeast is nearly all beer made with?",
+"it": "Con quale lievito si fa quasi tutta la birra?"
+},
+{
+"en": "Cultured yeast, selected and grown in a lab",
+"it": "Lieviti coltivati, selezionati in laboratorio"
+},
+{
+"en": "Ambient yeast from the surroundings",
+"it": "Lieviti dell'ambiente"
+},
+{
+"en": "Baker's yeast",
+"it": "Lievito di pane"
+},
+{
+"en": "No yeast",
+"it": "Nessun lievito"
+},
+{
+"en": "Nearly all beers start from a cultured ale or lager strain.",
+"it": "Quasi tutte le birre partono da un ceppo coltivato di ale o lager."
+},
+{
+"en": "Ambient yeast is used only in spontaneous fermentation, which is rare. No yeast, no alcohol.",
+"it": "I lieviti dell'ambiente si usano solo nella fermentazione spontanea, che è rara. Senza lievito non c'è alcol."
+},
+{
+"en": "What is spontaneous fermentation?",
+"it": "Che cos'è la fermentazione spontanea?"
+},
+{
+"en": "No cultured yeast or bacteria are added: ambient ones do the work",
+"it": "Non si aggiungono lieviti o batteri coltivati: lavorano quelli dell'ambiente"
+},
+{
+"en": "A very fast fermentation",
+"it": "Una fermentazione molto veloce"
+},
+{
+"en": "A fermentation without sugar",
+"it": "Una fermentazione senza zucchero"
+},
+{
+"en": "A fermentation with one lab strain",
+"it": "Una fermentazione con un solo ceppo di laboratorio"
+},
+{
+"en": "The brewer relies on yeast and bacteria living in and around the brewery.",
+"it": "Il birraio si affida ai lieviti e batteri del birrificio e dei dintorni."
+},
+{
+"en": "One lab strain is the opposite: cultured yeast. The term is not about speed.",
+"it": "Un solo ceppo di laboratorio è l'opposto: lievito coltivato. Il termine non riguarda la velocità."
+},
+{
+"en": "What usually happens in the wort with spontaneous fermentation?",
+"it": "Che cosa succede di solito nel mosto con la fermentazione spontanea?"
+},
+{
+"en": "Many different types of yeast and bacteria grow",
+"it": "Crescono molti tipi diversi di lieviti e batteri"
+},
+{
+"en": "A single lager strain grows",
+"it": "Cresce un solo ceppo di lager"
+},
+{
+"en": "Nothing grows",
+"it": "Non cresce nulla"
+},
+{
+"en": "Only kōji mould grows",
+"it": "Cresce solo muffa del kōji"
+},
+{
+"en": "Without cultured additions, a varied community of microorganisms develops.",
+"it": "Senza aggiunte coltivate, nel mosto si sviluppa una comunità varia di microrganismi."
+},
+{
+"en": "A single strain is typical of cultured yeast; kōji belongs to sake.",
+"it": "Un solo ceppo è tipico del lievito coltivato; il kōji appartiene al sake."
+},
+{
+"en": "Why is a white background used when tasting beer?",
+"it": "Perché serve uno sfondo bianco durante la degustazione della birra?"
+},
+{
+"en": "To assess the colour",
+"it": "Per valutare il colore"
+},
+{
+"en": "To smell aromas better",
+"it": "Per sentire meglio gli aromi"
+},
+{
+"en": "To cool the beer",
+"it": "Per raffreddare la birra"
+},
+{
+"en": "To increase the foam",
+"it": "Per aumentare la schiuma"
+},
+{
+"en": "Holding the glass against white makes the colour easier to judge.",
+"it": "Tenendo il bicchiere davanti al bianco si vede meglio il colore."
+},
+{
+"en": "The background has no effect on aroma, temperature or foam.",
+"it": "Lo sfondo non agisce su aromi, temperatura o schiuma."
+},
+{
+"en": "How is a beer's clarity assessed?",
+"it": "Come si valuta la limpidezza di una birra?"
+},
+{
+"en": "By looking through the glass towards the light",
+"it": "Guardando attraverso il bicchiere verso la luce"
+},
+{
+"en": "By smelling the glass",
+"it": "Annusando il bicchiere"
+},
+{
+"en": "By tasting a sip",
+"it": "Assaggiando un sorso"
+},
+{
+"en": "By measuring the temperature",
+"it": "Misurando la temperatura"
+},
+{
+"en": "For clarity, look through the liquid towards the light: clear, hazy or opaque.",
+"it": "Per la limpidezza si guarda attraverso il liquido verso la luce: limpida, velata o opaca."
+},
+{
+"en": "Nose and palate are other stages; temperature does not show clarity.",
+"it": "Naso e bocca sono altre fasi; la temperatura non indica la limpidezza."
+},
+{
+"en": "Which colour scale does the beer tasting grid use, from palest to darkest?",
+"it": "Quale sequenza di colori usa la griglia di degustazione della birra, dal più chiaro al più scuro?"
+},
+{
+"en": "Straw, gold, amber, copper, brown, black",
+"it": "Paglierino, dorato, ambrato, ramato, marrone, nero"
+},
+{
+"en": "Gold, straw, copper, amber, black, brown",
+"it": "Dorato, paglierino, ramato, ambrato, nero, marrone"
+},
+{
+"en": "Lemon, gold, amber, brown",
+"it": "Limone, oro, ambra, marrone"
+},
+{
+"en": "Pink, red, garnet, tawny",
+"it": "Rosa, rosso, granato, mattone"
+},
+{
+"en": "The scale runs from straw to black, via gold, amber, copper and brown.",
+"it": "La scala va da paglierino a nero, passando per dorato, ambrato, ramato e marrone."
+},
+{
+"en": "The other scales are out of order or belong to wine tasting.",
+"it": "Le altre scale sono in ordine sbagliato o appartengono alla degustazione del vino."
+},
+{
+"en": "Which of these aromas typically comes from YEAST?",
+"it": "Quale di questi aromi viene tipicamente dal LIEVITO?"
+},
+{
+"en": "Bread crust",
+"it": "Crosta di pane"
+},
+{
+"en": "Pine",
+"it": "Pino"
+},
+{
+"en": "Spice notes such as clove and peppercorn come from yeast.",
+"it": "Le spezie come il chiodo di garofano e il pepe sono aromi da lievito."
+},
+{
+"en": "Bread crust and coffee come from malt, pine from hops.",
+"it": "Crosta di pane e caffè vengono dal malto, il pino dal luppolo."
+},
+{
+"en": "Which aroma family comes from HOPS?",
+"it": "Quale famiglia di aromi viene dal LUPPOLO?"
+},
+{
+"en": "Citrus, tropical fruit, floral, herbal, pine",
+"it": "Agrumi, frutta tropicale, fiori, erbe, pino"
+},
+{
+"en": "Bread, biscuit, caramel",
+"it": "Pane, biscotto, caramello"
+},
+{
+"en": "Banana, bubblegum, nail varnish",
+"it": "Banana, gomma da masticare, smalto"
+},
+{
+"en": "Raisin, prune, date",
+"it": "Uvetta, prugna, dattero"
+},
+{
+"en": "Hops give floral, fruity (citrus, tropical…), herbal and pine notes.",
+"it": "Il luppolo dà note floreali, fruttate (agrumi, tropicale…), erbacee e di pino."
+},
+{
+"en": "Bread, caramel and dried fruit come from malt; banana, bubblegum and nail varnish from yeast.",
+"it": "Pane, caramello e frutta secca vengono dal malto; banana, gomma e smalto dal lievito."
+},
+{
+"en": "Besides aromas, what is assessed on the palate?",
+"it": "Che cosa si valuta in bocca oltre agli aromi?"
+},
+{
+"en": "Intensity, carbonation, body, alcohol, bitterness, sweetness, acidity",
+"it": "Intensità, carbonazione, corpo, alcol, amaro, dolcezza, acidità"
+},
+{
+"en": "Only colour",
+"it": "Solo il colore"
+},
+{
+"en": "Height of the foam",
+"it": "Altezza della schiuma"
+},
+{
+"en": "On the palate you judge structure and sensations as well as aromas.",
+"it": "In bocca si giudicano struttura e sensazioni, oltre agli aromi."
+},
+{
+"en": "Colour, foam and clarity belong to appearance.",
+"it": "Colore, schiuma e limpidezza appartengono all'aspetto."
+},
+{
+"en": "What colour is a beer made only with base malts usually?",
+"it": "Che colore ha di solito una birra fatta solo con malti base?"
+},
+{
+"en": "Base malts give straw or gold beers.",
+"it": "I malti base danno birre paglierine o dorate."
+},
+{
+"en": "Darker colours need speciality malts.",
+"it": "I colori più scuri richiedono malti speciali."
+},
+{
+"en": "What effect does using rice, sugar or syrup have in a pale lager?",
+"it": "Che effetto ha l'uso di riso, zucchero o sciroppi in una lager chiara?"
+},
+{
+"en": "Lighter aroma intensity and body",
+"it": "Aromi meno intensi e corpo più leggero"
+},
+{
+"en": "A darker colour",
+"it": "Colore più scuro"
+},
+{
+"en": "More sourness",
+"it": "Più acidità"
+},
+{
+"en": "Compared with an all-malt beer, the result is lighter and less aromatic.",
+"it": "Rispetto a una birra 100% malto, si ottiene una birra più leggera e meno aromatica."
+},
+{
+"en": "Colour, bitterness and sourness do not depend on these ingredients.",
+"it": "Colore, amaro e acidità non dipendono da questi ingredienti."
+},
+{
+"en": "Which description fits an American or international pale lager?",
+"it": "Quale descrizione corrisponde a una lager chiara americana o internazionale?"
+},
+{
+"en": "Straw or gold, light aroma, low-medium bitterness, high carbonation",
+"it": "Paglierina o dorata, aroma leggero, amaro basso-medio, carbonazione alta"
+},
+{
+"en": "Black, coffee and chocolate, very high alcohol",
+"it": "Nera, caffè e cioccolato, alcol molto alto"
+},
+{
+"en": "Hazy, banana and clove",
+"it": "Torbida, banana e chiodi di garofano"
+},
+{
+"en": "Sour with farmyard aromas",
+"it": "Acida e con aromi di aia"
+},
+{
+"en": "It is the world's most popular easy-drinking pale beer.",
+"it": "È la birra chiara e facile più bevuta al mondo."
+},
+{
+"en": "The others describe stout, weissbier and sour beers such as geuze.",
+"it": "Le altre descrivono stout, weissbier e birre acide come la geuze."
+},
+{
+"en": "What does 'hell' mean in Munich helles?",
+"it": "Che cosa significa «hell» in Munich helles?"
+},
+{
+"en": "Bright, light or pale",
+"it": "Chiaro, luminoso"
+},
+{
+"en": "Strong",
+"it": "Forte"
+},
+{
+"en": "'Hell' is German for bright or pale: helles is a gold lager.",
+"it": "«Hell» in tedesco significa chiaro: la helles è una lager dorata."
+},
+{
+"en": "'Dunkel' means dark and 'Weizen' wheat.",
+"it": "«Dunkel» vuol dire scuro, «Weizen» frumento."
+},
+{
+"en": "Munich helles is…",
+"it": "La Munich helles è…"
+},
+{
+"en": "a gold lager with bread-crumb malt and subtle hops",
+"it": "una lager dorata con malto di mollica e luppolo sottile"
+},
+{
+"en": "a heavily roasted black ale",
+"it": "un'ale nera molto tostata"
+},
+{
+"en": "a hazy wheat ale",
+"it": "un'ale di frumento torbida"
+},
+{
+"en": "a spontaneously fermented sour beer",
+"it": "una birra acida a fermentazione spontanea"
+},
+{
+"en": "Gold lager, bread crumb or cracker, subtle hop notes, low-medium bitterness, medium alcohol.",
+"it": "Lager dorata, mollica o cracker, note sottili di luppolo, amaro basso-medio, alcol medio."
+},
+{
+"en": "It is a lager, not an ale, and is neither dark, hazy nor sour.",
+"it": "È una lager, non un'ale; non è scura, torbida o acida."
+},
+{
+"en": "Which base-malt-only malt-driven style is an ALE?",
+"it": "Quale stile di malto con soli malti base è un'ALE?"
+},
+{
+"en": "International pale lager",
+"it": "Lager chiara internazionale"
+},
+{
+"en": "Blonde (golden) ale is the ale of the group, next to two lagers.",
+"it": "La blonde ale (o golden ale) è l'ale del gruppo, accanto a due lager."
+},
+{
+"en": "Helles and international lager are lagers; dunkel is a lager with speciality malts.",
+"it": "Helles e lager internazionale sono lager; la dunkel è una lager con malti speciali."
+},
+{
+"en": "What other name is blonde ale sometimes labelled with?",
+"it": "Con quale altro nome si trova a volte la blonde ale?"
+},
+{
+"en": "Blonde ale and golden ale name the same easy, gold style.",
+"it": "Blonde ale e golden ale indicano lo stesso stile facile e dorato."
+},
+{
+"en": "'Blanche' is witbier; brown ale and barley wine use speciality malts.",
+"it": "«Blanche» è la witbier; brown ale e barley wine sono stili con malti speciali."
+},
+{
+"en": "Which description fits a blonde ale?",
+"it": "Quale descrizione corrisponde a una blonde ale?"
+},
+{
+"en": "Straw to gold ale, subtle bread crumb, medium bitterness, low to medium alcohol",
+"it": "Ale da paglierina a dorata, lieve mollica di pane, amaro medio, alcol basso o medio"
+},
+{
+"en": "Copper lager with toasted nut",
+"it": "Lager ramata con frutta a guscio tostata"
+},
+{
+"en": "Black ale with coffee, very high alcohol",
+"it": "Ale nera al caffè, alcol molto alto"
+},
+{
+"en": "Hazy, sour wheat beer",
+"it": "Birra di frumento torbida e acida"
+},
+{
+"en": "An easy-drinking ale: pale, gently malty, medium bitterness.",
+"it": "Una ale facile da bere: chiara, maltata con discrezione, amaro medio."
+},
+{
+"en": "A toasty copper lager suggests Munich dunkel, black with coffee an imperial stout, hazy and sour a Berliner weisse.",
+"it": "Lager ramata e tostata ricorda la Munich dunkel, nera al caffè una imperial stout, torbida e acida una Berliner weisse."
+},
+{
+"en": "What do international pale lager, Munich helles and blonde ale have in common?",
+"it": "Che cosa hanno in comune pale lager internazionale, Munich helles e blonde ale?"
+},
+{
+"en": "They are brewed with base malts only",
+"it": "Sono prodotte con soli malti base"
+},
+{
+"en": "They are all ales",
+"it": "Sono tutte ale"
+},
+{
+"en": "They use dark roasted malts",
+"it": "Usano malti tostati scuri"
+},
+{
+"en": "They are all sour",
+"it": "Sono tutte acide"
+},
+{
+"en": "Three pale malt-driven styles, straw to gold, made with base malts only.",
+"it": "Tre stili di malto chiari, da paglierino a dorato, fatti con soli malti base."
+},
+{
+"en": "Two are lagers and only blonde ale is an ale. Roasted malts would give dark colours, and none of the three is a sour style.",
+"it": "Due sono lager e solo la blonde ale è una ale. I malti tostati darebbero colori scuri, e nessuno dei tre è uno stile acido."
+},
+{
+"en": "What does 'dunkel' mean?",
+"it": "Che cosa significa «dunkel»?"
+},
+{
+"en": "Double",
+"it": "Doppio"
+},
+{
+"en": "'Dunkel' is German for dark.",
+"it": "«Dunkel» in tedesco vuol dire scuro."
+},
+{
+"en": "Pale is 'hell', white is 'weiss'; 'double' recalls dubbel.",
+"it": "Chiaro è «hell», bianco «weiss»; «doppio» ricorda dubbel."
+},
+{
+"en": "Which description fits Munich dunkel?",
+"it": "Quale descrizione corrisponde alla Munich dunkel?"
+},
+{
+"en": "Copper-brown lager with toast and toasted nut",
+"it": "Lager ramata-marrone con pane tostato e nocciola tostata"
+},
+{
+"en": "Black ale with coffee and very high alcohol",
+"it": "Ale nera con caffè e alcol molto alto"
+},
+{
+"en": "Very bitter straw lager",
+"it": "Lager paglierina molto amara"
+},
+{
+"en": "Hazy ale with coriander",
+"it": "Ale torbida con coriandolo"
+},
+{
+"en": "A dark lager with speciality malts: toast, bread crust, nut, sometimes caramel or chocolate.",
+"it": "Lager scura con malti speciali: tostato, crosta di pane, nocciola, talvolta caramello o cioccolato."
+},
+{
+"en": "The second describes an imperial stout, the third a pilsner, the fourth a witbier.",
+"it": "La seconda descrive una imperial stout, la terza una pils, la quarta una witbier."
+},
+{
+"en": "What is true of bitterness and alcohol in brown ale?",
+"it": "Che cosa vale per amaro e alcol nella brown ale?"
+},
+{
+"en": "Both range from low to high",
+"it": "Entrambi vanno da bassi ad alti"
+},
+{
+"en": "They are always very high",
+"it": "Sono sempre molto alti"
+},
+{
+"en": "Bitterness is always absent",
+"it": "Amaro sempre nullo"
+},
+{
+"en": "Alcohol always under 4%",
+"it": "Alcol sempre sotto il 4%"
+},
+{
+"en": "Brown ale is a broad style: bitterness and alcohol vary a lot.",
+"it": "La brown ale è uno stile ampio: amaro e alcol variano molto."
+},
+{
+"en": "Options with 'always' are too rigid for this style.",
+"it": "Le opzioni con «sempre» sono troppo rigide per questo stile."
+},
+{
+"en": "Which malt aromas are typical of porter and stout?",
+"it": "Quali aromi di malto sono tipici di porter e stout?"
+},
+{
+"en": "Bread crumb and water cracker",
+"it": "Mollica e cracker"
+},
+{
+"en": "Grapefruit and rhubarb",
+"it": "Pompelmo e rabarbaro"
+},
+{
+"en": "Roasted malts give coffee, chocolate and sometimes caramel, with a brown or black colour.",
+"it": "I malti tostati danno caffè, cioccolato e talvolta caramello, con colore marrone o nero."
+},
+{
+"en": "Crumb and cracker are base-malt notes; banana and clove come from yeast; grapefruit and rhubarb suit geuze.",
+"it": "Mollica e cracker sono da malti base; banana e chiodi di garofano dal lievito; pompelmo e rabarbaro sono tipici della geuze."
+},
+{
+"en": "What does 'imperial' usually indicate in a stout's name?",
+"it": "Che cosa indica di solito la parola «imperial» nel nome di una stout?"
+},
+{
+"en": "Very high alcohol and pronounced roasted aromas",
+"it": "Alcol molto alto e aromi tostati pronunciati"
+},
+{
+"en": "A beer made in England",
+"it": "Una birra prodotta in Inghilterra"
+},
+{
+"en": "An alcohol-free beer",
+"it": "Una birra senza alcol"
+},
+{
+"en": "A sour beer",
+"it": "Una birra acida"
+},
+{
+"en": "'Imperial' versions are very strong and strongly roasted.",
+"it": "Le versioni «imperial» sono molto alcoliche e molto tostate."
+},
+{
+"en": "The term shows neither origin, sourness nor absence of alcohol.",
+"it": "Il termine non indica un'origine geografica, né acidità o assenza di alcol."
+},
+{
+"en": "Which description fits barley wine?",
+"it": "Quale descrizione corrisponde al barley wine?"
+},
+{
+"en": "Often amber ale, intense malt, full body, sweet, high or very high alcohol",
+"it": "Ale spesso ambrata, malto intenso, corpo pieno, dolce, alcol alto o molto alto"
+},
+{
+"en": "A wine made from barley",
+"it": "Vino fatto con orzo"
+},
+{
+"en": "A light, dry lager",
+"it": "Lager leggera e secca"
+},
+{
+"en": "A sour wheat beer",
+"it": "Birra acida di frumento"
+},
+{
+"en": "Despite the name it is a beer: a rich, sweet, strong ale.",
+"it": "Nonostante il nome è una birra: un'ale ricca, dolce e molto alcolica."
+},
+{
+"en": "It is not wine, lager or a sour beer.",
+"it": "Non è vino né lager né birra acida."
+},
+{
+"en": "Which malt-driven style is often suitable for ageing?",
+"it": "Quale stile di malto si presta spesso all'invecchiamento?"
+},
+{
+"en": "Rich, strong barley wine is often suitable for ageing.",
+"it": "Il barley wine, ricco e molto alcolico, è spesso adatto all'invecchiamento."
+},
+{
+"en": "Pale lagers, helles and blonde ales are fresh beers best drunk young.",
+"it": "Lager chiare, helles e blonde ale sono birre fresche da bere giovani."
+},
+{
+"en": "A black beer with coffee and chocolate aromas: which style is most likely?",
+"it": "Una birra nera con aromi di caffè e cioccolato: quale stile è più probabile?"
+},
+{
+"en": "Porter or stout",
+"it": "Porter o stout"
+},
+{
+"en": "Black colour and roasted aromas point to porter or stout.",
+"it": "Colore nero e aromi tostati indicano porter o stout."
+},
+{
+"en": "Helles, hazy IPA and Berliner weisse are pale, straw to gold.",
+"it": "Helles, hazy IPA e Berliner weisse sono chiare, dal paglierino al dorato."
+},
+{
+"en": "Which malt-driven style brewed with speciality malts is a LAGER?",
+"it": "Quale stile di malto prodotto con malti speciali è una LAGER?"
+},
+{
+"en": "Munich dunkel is the lager of the group; the others are ales.",
+"it": "La Munich dunkel è la lager del gruppo; le altre sono ale."
+},
+{
+"en": "Brown ale, porter, stout and barley wine are all ales, fermented with ale yeast.",
+"it": "Brown ale, porter, stout e barley wine sono tutte ale, fermentate con lievito ale."
+},
+{
+"en": "Which malt aromas are typical of a brown ale?",
+"it": "Quali aromi di malto sono tipici di una brown ale?"
+},
+{
+"en": "Toasted nut and toasted bread, sometimes chocolate or caramel",
+"it": "Frutta a guscio tostata e pane tostato, a volte cioccolato o caramello"
+},
+{
+"en": "Bread dough and water cracker",
+"it": "Impasto di pane e cracker"
+},
+{
+"en": "Farmyard and rhubarb",
+"it": "Aia e rabarbaro"
+},
+{
+"en": "Speciality malts give brown ale its toasty, nutty notes.",
+"it": "I malti speciali danno alla brown ale note tostate e di frutta a guscio."
+},
+{
+"en": "Banana and clove come from weissbier yeast; bread dough and cracker from base malts alone; farmyard and rhubarb suggest geuze.",
+"it": "Banana e chiodo di garofano vengono dal lievito della weissbier; impasto di pane e cracker dai soli malti base; aia e rabarbaro ricordano la geuze."
+},
+{
+"en": "How is pronounced bitterness with restrained hop aroma achieved?",
+"it": "Come si ottiene un amaro marcato con aroma di luppolo contenuto?"
+},
+{
+"en": "Most hops early in the boil and few at the end",
+"it": "Quasi tutto il luppolo a inizio bollitura e poco alla fine"
+},
+{
+"en": "Dry hopping only",
+"it": "Solo dry hopping"
+},
+{
+"en": "No hops at all",
+"it": "Nessun luppolo"
+},
+{
+"en": "All hops at the end of the boil",
+"it": "Tutto il luppolo alla fine della bollitura"
+},
+{
+"en": "Early hops = bitterness; few late hops = little aroma.",
+"it": "Luppolo presto = amaro; poco luppolo tardi = poco aroma."
+},
+{
+"en": "Dry hopping and late hops mainly give aroma, not bitterness.",
+"it": "Dry hopping e luppolo tardivo danno soprattutto aroma, non amaro."
+},
+{
+"en": "Which style is a hop-driven lager with traditional hops?",
+"it": "Quale stile è una lager luppolata con luppoli tradizionali?"
+},
+{
+"en": "Traditional Czech or German pilsner",
+"it": "Pils tradizionale ceca o tedesca"
+},
+{
+"en": "Czech or German pilsner is the lager of the traditional hop-driven group.",
+"it": "La pils ceca o tedesca è la lager del gruppo luppolato tradizionale."
+},
+{
+"en": "Bitter is an ale, American IPA uses New World hops, dunkel is malt-driven.",
+"it": "Il bitter è un'ale, l'American IPA usa luppoli del Nuovo Mondo, la dunkel è uno stile di malto."
+},
+{
+"en": "Which description fits traditional Czech or German pilsner?",
+"it": "Quale descrizione corrisponde alla pils ceca o tedesca tradizionale?"
+},
+{
+"en": "Straw-gold, subtle spicy or floral hops, medium-high bitterness",
+"it": "Paglierina-dorata, luppolo sottile speziato o floreale, amaro medio-alto"
+},
+{
+"en": "Hazy, very tropical, little bitterness",
+"it": "Torbida, molto tropicale, poco amara"
+},
+{
+"en": "Black, roasted, very high alcohol",
+"it": "Nera, tostata, alcol molto alto"
+},
+{
+"en": "Sour, with raspberry syrup",
+"it": "Acida, con sciroppo di lampone"
+},
+{
+"en": "Bread dough or light honey, subtle hops, medium to high bitterness, medium alcohol.",
+"it": "Pasta di pane o miele leggero, luppolo sottile, amaro da medio ad alto, alcol medio."
+},
+{
+"en": "The others describe hazy IPA, imperial stout and Berliner weisse.",
+"it": "Le altre descrivono hazy IPA, imperial stout e Berliner weisse."
+},
+{
+"en": "Which country does bitter come from originally?",
+"it": "Da quale Paese è originario il bitter?"
+},
+{
+"en": "England",
+"it": "Inghilterra"
+},
+{
+"en": "Bitter is a hop-driven ale from England.",
+"it": "Il bitter è un'ale luppolata nata in Inghilterra."
+},
+{
+"en": "Germany and Belgium are linked to other styles (helles, dubbel…); the USA to APA and American IPA.",
+"it": "Germania e Belgio sono associati ad altri stili (helles, dubbel…); gli Stati Uniti all'APA e all'IPA americana."
+},
+{
+"en": "Which description fits bitter?",
+"it": "Quale descrizione corrisponde al bitter?"
+},
+{
+"en": "Amber-copper ale, biscuit or caramel, subtle hops, medium-high bitterness",
+"it": "Ale ambrata-ramata, biscotto o caramello, luppolo sottile, amaro medio-alto"
+},
+{
+"en": "Straw lager with intense tropical hops",
+"it": "Lager paglierina con luppolo tropicale intenso"
+},
+{
+"en": "Hazy wheat ale with banana",
+"it": "Ale torbida di frumento con banana"
+},
+{
+"en": "Very sweet black lager",
+"it": "Lager nera molto dolce"
+},
+{
+"en": "Bitter pairs toasty, caramel malt with subtle traditional hops.",
+"it": "Il bitter unisce malti tostati e caramello a un luppolo tradizionale sottile."
+},
+{
+"en": "Bitter is an ale, not a lager, and has no banana aromas.",
+"it": "Il bitter è un'ale, non una lager, e non ha aromi di banana."
+},
+{
+"en": "How are high bitterness AND intense hop aromas achieved?",
+"it": "Come si ottengono amaro alto E aromi di luppolo intensi?"
+},
+{
+"en": "Hops early in the boil, later on, and dry hopping",
+"it": "Luppolo a inizio bollitura, più tardi e in dry hopping"
+},
+{
+"en": "Only early hops",
+"it": "Solo luppolo a inizio bollitura"
+},
+{
+"en": "Only speciality malts",
+"it": "Solo malti speciali"
+},
+{
+"en": "Spontaneous fermentation",
+"it": "Fermentazione spontanea"
+},
+{
+"en": "Early for bitterness, late for flavour and dry hopping for aroma.",
+"it": "Presto per l'amaro, tardi per il sapore e dry hopping per l'aroma."
+},
+{
+"en": "Early hops alone give bitterness with little aroma; malts and spontaneous fermentation are unrelated.",
+"it": "Solo luppolo precoce darebbe amaro con poco aroma; malti e fermentazione spontanea non c'entrano."
+},
+{
+"en": "Which style is sometimes labelled 'APA'?",
+"it": "Quale stile è spesso etichettato «APA»?"
+},
+{
+"en": "German pilsner",
+"it": "Pils tedesca"
+},
+{
+"en": "APA stands for American pale ale.",
+"it": "APA è l'abbreviazione di American pale ale."
+},
+{
+"en": "IPA means India pale ale; pilsner and blonde ale do not use this abbreviation.",
+"it": "IPA significa India pale ale; pils e blonde ale non usano questa sigla."
+},
+{
+"en": "How can American IPA be described compared with American pale ale?",
+"it": "Come si può descrivere l'American IPA rispetto all'American pale ale?"
+},
+{
+"en": "Stronger, with even more bitterness and hop aroma",
+"it": "Più forte, con ancora più amaro e aroma di luppolo"
+},
+{
+"en": "Lighter and less bitter",
+"it": "Più leggera e meno amara"
+},
+{
+"en": "Darker and more roasted",
+"it": "Più scura e tostata"
+},
+{
+"en": "More sour",
+"it": "Più acida"
+},
+{
+"en": "American IPA is like a stronger, more bitter, more aromatic APA.",
+"it": "L'American IPA è come una APA più forte, più amara e più aromatica."
+},
+{
+"en": "Colour stays gold to amber, with no roast or sourness.",
+"it": "Il colore resta da dorato ad ambrato, senza tostature né acidità."
+},
+{
+"en": "Which hop aromas define American IPA?",
+"it": "Quali aromi di luppolo definiscono l'American IPA?"
+},
+{
+"en": "Pine, resin, citrus, tropical and stone fruit",
+"it": "Pino, resina, agrumi, frutta tropicale e a nocciolo"
+},
+{
+"en": "Subtle spicy, herbal, earthy",
+"it": "Speziati, erbacei, terrosi sottili"
+},
+{
+"en": "New World hops: pine, resin, citrus, tropical and stone fruit.",
+"it": "Luppoli del Nuovo Mondo: pino, resina, agrumi, frutta tropicale e a nocciolo."
+},
+{
+"en": "Subtle spicy and earthy notes are traditional European hops; banana and clove come from yeast; coffee and chocolate from malt.",
+"it": "Speziati e terrosi sottili sono i luppoli europei tradizionali; banana e chiodi di garofano vengono dal lievito; caffè e cioccolato dal malto."
+},
+{
+"en": "Compared with an American IPA, a hazy IPA is typically…",
+"it": "Rispetto a una American IPA, la hazy IPA è di solito…"
+},
+{
+"en": "less bitter",
+"it": "meno amara"
+},
+{
+"en": "more bitter",
+"it": "più amara"
+},
+{
+"en": "darker",
+"it": "più scura"
+},
+{
+"en": "more sour",
+"it": "più acida"
+},
+{
+"en": "Hazy IPA has low to medium bitterness: it focuses on aroma.",
+"it": "La hazy IPA ha amaro da basso a medio: punta sull'aroma."
+},
+{
+"en": "It is straw or gold, not dark, and not a sour style.",
+"it": "È paglierina o dorata, non scura, e non è uno stile acido."
+},
+{
+"en": "What other name is hazy IPA labelled with?",
+"it": "Con quale altro nome si trova la hazy IPA?"
+},
+{
+"en": "Hazy IPA and New England IPA are the same style.",
+"it": "Hazy IPA e New England IPA sono lo stesso stile."
+},
+{
+"en": "Golden ale is another name for blonde ale; imperial stout is a very strong stout.",
+"it": "Golden ale è l'altro nome della blonde ale; imperial stout è una stout molto forte."
+},
+{
+"en": "A straw-coloured, distinctly hazy beer with lots of tropical fruit and moderate bitterness: which style?",
+"it": "Una birra paglierina, nettamente torbida, con molta frutta tropicale e amaro moderato: quale stile?"
+}
+]

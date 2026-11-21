@@ -56,6 +56,22 @@
    "ui_en_chars": 0,
    "chunks": 3,
    "ui_chunks": 0
+  },
+  "k1": {
+   "strings": 1215,
+   "en_chars": 77775,
+   "ui_strings": 9,
+   "ui_en_chars": 359,
+   "chunks": 5,
+   "ui_chunks": 1
+  },
+  "b1": {
+   "strings": 1193,
+   "en_chars": 74371,
+   "ui_strings": 9,
+   "ui_en_chars": 370,
+   "chunks": 4,
+   "ui_chunks": 1
   }
  }
 }

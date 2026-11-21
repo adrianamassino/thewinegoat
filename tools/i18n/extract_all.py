@@ -1,7 +1,7 @@
 """Extracts every English display string of the whole app for translation into the map-based languages
 (de, nl, el, ja, ko, zh-hant, pt, tr, th — same principle as Spanish: key = English text, Italian as reference).
 
-Output: tools/i18n/src/<scope>/NNN.json, scope = core | l1 | l2 | s1 | s2 | d1 | d2, chunks of ~25,000 English characters,
+Output: tools/i18n/src/<scope>/NNN.json, scope = core | l1 | l2 | s1 | s2 | d1 | d2 | k1 | b1, chunks of ~25,000 English characters,
 each item {"en": …, "it": …} ("it" = "" when no Italian reference is known). In every scope the UI strings come first,
 in their own chunks (core/000…), then the content. tools/i18n/src/manifest.json lists the chunks and the counts.
 
@@ -22,9 +22,14 @@ import json, os, re, subprocess, sys, socket, time, shutil
 
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(os.path.dirname(D)); APP = os.path.join(ROOT, 'app')
 SCOPES = ['core', 'l1', 'l2', 's1', 's2', 'd1', 'd2']
+# Scopes added later (Sake 1, Beer 1). They are kept apart so that adding them never moves a string of the scopes above:
+# a string they share with core is dropped from them, anything else stays in their own scope (even if two of them share it).
+# `--only k1,b1` rewrites just those folders and their manifest entries, leaving every other scope untouched.
+ADDED = ['k1', 'b1']
 LEVEL = {  # scope: (ui export name, content dir, content global)
     'l1': ('1', 'l1', 'TWG_L1C'), 'l2': ('2', 'l2', 'TWG_L2C'), 's1': ('s1', 'spirits/s1', 'TWG_S1C'), 's2': ('s2', 'spirits/s2', 'TWG_S2C'),
-    'd1': ('4', 'l4/d1', 'TWG_D1C'), 'd2': ('-', 'l4/d2', 'TWG_D2C')}   # Diploma units; the level-4 UI (ui-4.json) goes with d1
+    'd1': ('4', 'l4/d1', 'TWG_D1C'), 'd2': ('-', 'l4/d2', 'TWG_D2C'),
+    'k1': ('k1', 'sake/k1', 'TWG_K1C'), 'b1': ('b1', 'beer/b1', 'TWG_B1C')}   # Diploma units; the level-4 UI (ui-4.json) goes with d1
 CHUNK = 25000
 S = r'"((?:[^"\\\n]|\\.)*)"'
 SQ = r"'((?:[^'\\\n]|\\.)*)'"
@@ -162,7 +167,8 @@ def main():
     if '--ui' in sys.argv: ui = sys.argv[sys.argv.index('--ui') + 1]
     else:
         ui = os.path.join(D, 'ui'); export_ui(ui)
-    bags = {s: Bag() for s in SCOPES}
+    bags = {s: Bag() for s in SCOPES + ADDED}
+    only = sys.argv[sys.argv.index('--only') + 1].split(',') if '--only' in sys.argv else None
     core = bags['core']
     # core UI
     ui_dump(os.path.join(ui, 'ui-3.json'), core)
@@ -203,9 +209,15 @@ def main():
                 elif v['k'] == 'ui': core.d[en]['k'] = 'ui'
                 if not core.d[en]['it']: core.d[en]['it'] = v['it']
                 del bags[sc].d[en]
+    for sc in ADDED:   # added scopes: only drop what core already has
+        for en in list(bags[sc].d):
+            if en in core.d: del bags[sc].d[en]
     # write chunks
     out = os.path.join(D, 'src'); man = {'chunk_chars': CHUNK, 'scopes': {}}
-    for sc in SCOPES:
+    mp = os.path.join(out, 'manifest.json')
+    if only and os.path.exists(mp): man = json.load(open(mp, encoding='utf8'))
+    for sc in SCOPES + ADDED:
+        if only and sc not in only: continue
         dd = os.path.join(out, sc)
         if os.path.isdir(dd): shutil.rmtree(dd)
         os.makedirs(dd)
@@ -225,7 +237,7 @@ def main():
             acc += len(c); uich += 1
         man['scopes'][sc] = {'strings': len(items), 'en_chars': sum(len(en) for en, _ in items), 'ui_strings': nui,
                              'ui_en_chars': sum(len(en) for en, v in items if v['k'] == 'ui'), 'chunks': len(chunks), 'ui_chunks': uich}
-    json.dump(man, open(os.path.join(out, 'manifest.json'), 'w', encoding='utf8'), indent=1)
+    json.dump(man, open(mp, 'w', encoding='utf8'), indent=1)
     tot_s = tot_c = 0
     print(f"{'scope':6} {'strings':>8} {'EN chars':>10} {'chunks':>7}   (UI strings / UI chars / UI chunks)")
     for sc, m in man['scopes'].items():

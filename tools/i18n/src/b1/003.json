@@ -1,0 +1,798 @@
+[
+{
+"en": "Yeast's main job is to create alcohol, but it can also have a big effect on aroma. Brewing uses two main species, known as ale yeast and lager yeast: they behave differently and are behind one of the main divisions of beer styles, ales versus lagers.",
+"it": "Il compito principale del lievito è creare l'alcol, ma può influire molto anche sull'aroma. Nella birra si usano due specie principali, chiamate lievito ale e lievito lager: si comportano in modo diverso e danno origine alla grande divisione degli stili tra ale e lager."
+},
+{
+"en": "Ale yeast works fast, likes fairly warm conditions and can create many different fruity and spicy aromas; there are many strains, each with its own signature, so strains are chosen to create particular styles. Beers made with ale yeast are ales. Lager yeast usually ferments more slowly and at a cooler temperature, has fewer strains and contributes less aroma. Beers made with lager yeast are lagers.",
+"it": "Il lievito ale fermenta in fretta e a temperature relativamente calde, e può produrre un'ampia gamma di aromi fruttati e speziati; ne esistono molti ceppi, ognuno con la sua «firma», quindi si scelgono per creare stili precisi. Le birre fatte con lievito ale si chiamano ale. Il lievito lager di solito fermenta più lentamente e più al fresco, ha meno ceppi e dà meno aromi. Le birre fatte con lievito lager si chiamano lager."
+},
+{
+"en": "Two main species: ale and lager → the ale/lager split",
+"it": "Due specie principali: ale e lager → divisione ale/lager"
+},
+{
+"en": "Ale: quick, warmer, fruity and spicy aromas, many strains",
+"it": "Ale: veloce, più calda, aromi fruttati e speziati, molti ceppi"
+},
+{
+"en": "Lager: slower, cooler, less aroma, fewer strains",
+"it": "Lager: più lenta, più fresca, meno aromi, meno ceppi"
+},
+{
+"en": "Brett, bacteria and spontaneous fermentation",
+"it": "Brett, batteri e fermentazione spontanea"
+},
+{
+"en": "Besides the two main yeasts, other yeasts and even bacteria are used. Brettanomyces (Brett) adds complex aromas: fruity ones such as ripe pineapple and peach, and farmyard, leather, hay and earth. Lactic acid bacteria, the same kind used for yoghurt and kimchi, give beer acidity (sourness).",
+"it": "Oltre ai due lieviti principali si usano altri lieviti e perfino batteri. Il Brettanomyces (Brett) dà aromi complessi: fruttati come ananas maturo e pesca, e poi aia, cuoio, fieno e terra. I batteri lattici, gli stessi dello yogurt e del kimchi, danno acidità alla birra."
+},
+{
+"en": "Wild yeast lives everywhere, floating in the air and sitting on surfaces, yet almost every beer relies on cultured yeast, selected and grown in a lab: usually a single strain of ale or lager yeast, sometimes alongside cultured Brett or lactic acid bacteria. Some beers, however, are made by spontaneous fermentation: the brewer never adds cultured yeast or bacteria and relies on the ambient ones living in and around the brewery, so many different types grow in the wort.",
+"it": "Il lievito è ovunque, nell'aria e sulle superfici, ma quasi tutte le birre usano lieviti coltivati, selezionati e moltiplicati in laboratorio: di solito un solo ceppo di ale o lager, a volte con Brett o batteri lattici coltivati. Alcune birre invece nascono da fermentazione spontanea: il birraio non aggiunge mai lieviti o batteri coltivati e si affida a quelli presenti nell'ambiente del birrificio, così nel mosto crescono molti tipi diversi."
+},
+{
+"en": "Brett: ripe pineapple, peach, farmyard, leather, hay, earth",
+"it": "Brett: ananas maturo, pesca, aia, cuoio, fieno, terra"
+},
+{
+"en": "Lactic acid bacteria: sourness",
+"it": "Batteri lattici: acidità"
+},
+{
+"en": "Nearly all beers: cultured yeast (usually one strain)",
+"it": "Quasi tutte le birre: lievito coltivato (di solito un ceppo)"
+},
+{
+"en": "Spontaneous fermentation: nothing cultured, only ambient yeast and bacteria",
+"it": "Fermentazione spontanea: niente coltivati, solo lieviti e batteri dell'ambiente"
+},
+{
+"en": "Getting ready and looking at the beer",
+"it": "Prepararsi e guardare la birra"
+},
+{
+"en": "Good tasting needs the same method for every beer. First: no distracting smells or noises; good lighting and a white background; a clean glass with a wide bowl narrowing at the top to concentrate aromas; a clean palate, free of garlic, toothpaste or coffee. The tasting grid splits tasting into three parts: appearance, nose and palate.",
+"it": "Per degustare bene serve lo stesso metodo per ogni birra. Prima: niente odori o rumori che distraggano; buona luce e uno sfondo bianco; un bicchiere pulito con coppa ampia che si stringe in alto, per concentrare gli aromi; un palato pulito, senza aglio, dentifricio o caffè. La griglia di degustazione divide l'assaggio in tre parti: aspetto, naso, bocca."
+},
+{
+"en": "Appearance: for clarity, look through the glass towards the light (clear, hazy, opaque); for colour, hold the glass against a white background: straw, gold, amber, copper, brown, black. Also note the foam (the head): how big it is and how long it lasts.",
+"it": "Aspetto: per la limpidezza si guarda attraverso il bicchiere verso la luce (limpida, velata, opaca); per il colore si tiene il bicchiere davanti a uno sfondo bianco: paglierino, dorato, ambrato, ramato, marrone, nero. Si osserva anche la schiuma (la «testa»): quanto è alta e quanto dura."
+},
+{
+"en": "No smells or noise; good light, white background",
+"it": "Niente odori e rumori; luce buona, sfondo bianco"
+},
+{
+"en": "Clean glass, wide bowl narrowing; clean palate",
+"it": "Bicchiere pulito, coppa ampia che si stringe; palato pulito"
+},
+{
+"en": "Clarity: clear – hazy – opaque",
+"it": "Limpidezza: limpida – velata – opaca"
+},
+{
+"en": "Colour: straw, gold, amber, copper, brown, black; foam",
+"it": "Colore: paglierino, dorato, ambrato, ramato, marrone, nero; schiuma"
+},
+{
+"en": "Nose, palate and where aromas come from",
+"it": "Naso, bocca e da dove vengono gli aromi"
+},
+{
+"en": "Nose: first sniff with the glass held by the stem below your nose, then with your nose in the glass; swirl to release more aromas and sniff again with short sniffs or a longer one. Palate: take a sip, move it round your mouth, then swallow or spit. Aromas on the palate are often the same as on the nose; also judge intensity, carbonation, body, alcohol, bitterness, sweetness and acidity.",
+"it": "Naso: si annusa prima tenendo il bicchiere per lo stelo sotto il naso, poi con il naso dentro il bicchiere; si fa roteare la birra per liberare altri aromi e si annusa di nuovo con colpi brevi o uno più lungo. Bocca: si prende un sorso, lo si muove in bocca e poi si deglutisce o si sputa. Spesso gli aromi in bocca sono gli stessi del naso; in più si valutano intensità, carbonazione, corpo, alcol, amaro, dolcezza e acidità."
+},
+{
+"en": "Aromas are grouped by source. From malt and grain: bread (bread dough, water cracker, crumb, crust, digestive biscuit, toasted or burnt bread), confectionery (honey, caramel, candy floss, treacle), dried fruit (raisin, prune, date, fig) and nut or roasted notes (toasted nut, chocolate, coffee, cocoa). From hops: floral, berries, apple and pear, citrus, stone fruit, tropical fruit, herbaceous (grass, hay) and herbal (mint, tea), plus pine, spice and earth. From yeast: fruit (banana, apple, citrus and more), spice (clove, peppercorn), farmyard and leather, and others such as bubblegum or nail varnish.",
+"it": "Gli aromi si raggruppano per origine. Dal malto e dai cereali: pane (pasta di pane, cracker, mollica, crosta, biscotto, pane tostato o bruciato), dolci (miele, caramello, zucchero filato, melassa), frutta secca (uvetta, prugna, dattero, fico) e frutta a guscio o tostati (nocciola tostata, cioccolato, caffè, cacao). Dal luppolo: fiori, frutti di bosco, mela e pera, agrumi, frutta a nocciolo, frutta tropicale, note erbacee (erba, fieno) ed erbe aromatiche (menta, tè), più pino, spezie, terra. Dal lievito: frutta (banana, mela, agrumi…), spezie (chiodi di garofano, pepe), aia e cuoio, e altro come gomma da masticare o smalto."
+},
+{
+"en": "Nose: below the nose, in the glass, then swirl and sniff again",
+"it": "Naso: sotto il naso, dentro il bicchiere, poi roteare e riannusare"
+},
+{
+"en": "Palate: intensity, carbonation, body, alcohol, bitterness, sweetness, acidity",
+"it": "Bocca: intensità, carbonazione, corpo, alcol, amaro, dolcezza, acidità"
+},
+{
+"en": "Malt: bread, honey, caramel, dried fruit, coffee, chocolate",
+"it": "Malto: pane, miele, caramello, frutta secca, caffè, cioccolato"
+},
+{
+"en": "Hops: floral, citrus, tropical, pine, herbal · Yeast: banana, clove, pepper, farmyard",
+"it": "Luppolo: fiori, agrumi, tropicale, pino, erbe · Lievito: banana, chiodi di garofano, pepe, aia"
+},
+{
+"en": "A beer style is a set of characteristics, achieved with a certain mix of ingredients and techniques, linked to a name. The world's most popular beer is an easy-drinking pale lager, made everywhere. For these styles brewers use only base malts (lightly kilned malted barley): whether ale or lager, the colour is straw or gold and the aromas recall bread crumb, bread dough or water cracker. If sugar, syrup or neutral grains such as rice go into the recipe, the beer has lighter aroma intensity and body than an all-malt beer.",
+"it": "Uno stile è un insieme di caratteristiche, ottenuto con certi ingredienti e certe tecniche, legato a un nome. La birra più bevuta al mondo è una lager chiara e facile, prodotta ovunque. Per questi stili si usano solo malti base (orzo maltato poco essiccato): ale o lager che siano, il colore è paglierino o dorato e gli aromi ricordano mollica, pasta di pane o cracker. Se nella ricetta entrano zucchero, sciroppi o cereali neutri come il riso, la birra ha aromi meno intensi e corpo più leggero di una birra 100% malto."
+},
+{
+"en": "American or international pale lager: straw or gold, light aroma intensity (bread dough, water cracker, sometimes a little hop), low or medium bitterness, medium alcohol, high carbonation. Munich helles ('hell' is German for bright or pale): a lager, usually gold, with bread crumb or water cracker plus subtle spicy, herbal or floral hop notes; low to medium bitterness, medium alcohol. Blonde ale (sometimes 'golden ale'): an easy ale, straw to gold, with subtle bread crumb, low to medium alcohol, medium bitterness, maybe a touch of fruit from the yeast and subtle hops.",
+"it": "Lager chiara americana o internazionale: paglierina o dorata, aroma leggero (pasta di pane, cracker, a volte un filo di luppolo), amaro basso o medio, alcol medio, carbonazione alta. Munich helles («hell» in tedesco vuol dire chiaro, luminoso): lager di solito dorata, con mollica o cracker e note sottili speziate, erbacee o floreali dal luppolo; amaro da basso a medio, alcol medio. Blonde ale (a volte «golden ale»): ale facile, da paglierina a dorata, con mollica leggera, alcol da basso a medio, amaro medio, a volte un tocco fruttato dal lievito e un luppolo discreto."
+},
+{
+"en": "Base malts only: straw or gold; crumb, dough, cracker",
+"it": "Solo malti base: paglierino o dorato; mollica, pasta di pane, cracker"
+},
+{
+"en": "Rice, syrups, sugar → lighter aroma and body",
+"it": "Riso, sciroppi, zucchero → aromi e corpo più leggeri"
+},
+{
+"en": "International pale lager: light aroma, high carbonation",
+"it": "Lager chiara internazionale: aroma leggero, carbonazione alta"
+},
+{
+"en": "Munich helles (gold lager) · blonde/golden ale (ale)",
+"it": "Munich helles (lager dorata) · blonde/golden ale (ale)"
+},
+{
+"en": "Munich dunkel and brown ale",
+"it": "Munich dunkel e brown ale"
+},
+{
+"en": "Adding small amounts of speciality malts to base malts brings aromas of biscuit, bread crust, toast, toasted nuts, caramel, dried fruit, coffee and chocolate, and amber, copper, brown or black colours. Munich dunkel ('dunkel' is German for dark) is a copper to brown lager with toasted bread, bread crust, toasted nut and sometimes caramel or chocolate, plus at times subtle spicy, herbal or floral hop notes; low to medium bitterness, medium alcohol.",
+"it": "Aggiungendo piccole quantità di malti speciali ai malti base arrivano aromi di biscotto, crosta di pane, pane tostato, nocciola tostata, caramello, frutta secca, caffè, cioccolato, e colori ambra, rame, marrone o nero. Munich dunkel («dunkel» in tedesco vuol dire scuro) è una lager da ramata a marrone, con pane tostato, crosta di pane, nocciola tostata e talvolta caramello o cioccolato, a volte note sottili speziate, erbacee o floreali di luppolo; amaro da basso a medio, alcol medio."
+},
+{
+"en": "Brown ale is an amber to brown ale with toasted nut, toasted bread and sometimes chocolate or caramel, sometimes with fruity yeast aromas. Some versions have subtle fruity, earthy or herbal hops, others more intense citrus, stone fruit, tropical or pine notes. Bitterness and alcohol both range from low to high: it is a broad style.",
+"it": "La brown ale è un'ale da ambrata a marrone, con nocciola tostata, pane tostato e talvolta cioccolato o caramello, a volte aromi fruttati dal lievito. Alcune versioni hanno luppolo sottile (fruttato, terroso, erbaceo), altre note più intense di agrumi, frutta a nocciolo, tropicale o pino. Amaro e alcol vanno da bassi ad alti: è uno stile molto ampio."
+},
+{
+"en": "Small amounts of speciality malt: biscuit, toast, caramel, coffee, chocolate; amber to black",
+"it": "Malti speciali in piccole dosi: biscotto, tostato, caramello, caffè, cioccolato; da ambra a nero"
+},
+{
+"en": "Munich dunkel: copper-brown lager, toast, nut; low-medium bitterness",
+"it": "Munich dunkel: lager ramata-marrone, pane tostato, nocciola; amaro basso-medio"
+},
+{
+"en": "Brown ale: amber-brown ale, toasted nut; bitterness and alcohol low to high",
+"it": "Brown ale: ale ambra-marrone, nocciola tostata; amaro e alcol da bassi ad alti"
+},
+{
+"en": "Porter, stout and barley wine",
+"it": "Porter, stout e barley wine"
+},
+{
+"en": "Porters and stouts are two closely related families of ales. They are brown or black, with malt aromas such as coffee or chocolate and sometimes caramel. Some have subtle hops, others more intense citrus, stone fruit, tropical or pine notes; fruity yeast aromas sometimes show too. Bitterness is low to high and alcohol low to very high. Very high-alcohol versions with pronounced roasted aromas often have 'imperial' in their name.",
+"it": "Porter e stout sono due famiglie di ale molto vicine. Sono marroni o nere, con aromi di malto come caffè o cioccolato e talvolta caramello. Alcune hanno luppolo sottile, altre più intenso (agrumi, frutta a nocciolo, tropicale, pino); a volte si sentono note fruttate di lievito. Amaro da basso ad alto, alcol da basso a molto alto. Le versioni ad alcol molto alto, con aromi tostati pronunciati, hanno spesso la parola «imperial» nel nome."
+},
+{
+"en": "Barley wine is an ale, often amber (though it can range from gold to brown), with intense malt aromas: toasted bread, caramel, digestive biscuit, dried fruit. It sometimes has fruity yeast notes. Expect a full body, clear sweetness and an alcohol level that is high or very high. Hops range from subtle earthy, floral, fruity notes to more prominent pine, citrus or tropical fruit, with low to high bitterness. Barley wines are often suitable for ageing.",
+"it": "Il barley wine è un'ale spesso ambrata (ma può andare dal dorato al marrone), con aromi di malto intensi: pane tostato, caramello, biscotto, frutta secca. A volte ha note fruttate di lievito. Di solito ha corpo pieno, dolcezza evidente e alcol alto o molto alto. Il luppolo va da sottile (terroso, floreale, fruttato) a più marcato (pino, agrumi, frutta tropicale), con amaro da basso ad alto. Spesso si presta all'invecchiamento."
+},
+{
+"en": "Porter and stout: brown or black ales, coffee and chocolate",
+"it": "Porter e stout: ale marroni o nere, caffè e cioccolato"
+},
+{
+"en": "'Imperial': very high-alcohol, strongly roasted versions",
+"it": "«Imperial»: versioni ad alcol molto alto, molto tostate"
+},
+{
+"en": "Barley wine: often amber, intense malt, full body, sweet, high or very high alcohol",
+"it": "Barley wine: spesso ambra, malto intenso, corpo pieno, dolce, alcol alto o molto alto"
+},
+{
+"en": "Barley wine: often suitable for ageing",
+"it": "Barley wine: spesso adatto all'invecchiamento"
+},
+{
+"en": "Two ways to be hoppy; pilsner and bitter",
+"it": "Due modi di essere luppolati; pils e bitter"
+},
+{
+"en": "Hops bring two things: bitterness and aroma. Some styles have medium or pronounced bitterness with restrained hop aroma: most hops go in early in the boil and few at the end, using traditional British, Czech or German hops (subtle spicy, floral, herbal, earthy or fruity). Others have high bitterness AND pronounced hop aroma: hops early (bitterness), later (flavour) and dry hopped (aroma), using American, New Zealand or Australian hops (citrus, stone fruit, tropical, pine). Recently some of these beers focus more on hop aroma than on bitterness, and many malt-driven styles now also appear in much hoppier versions.",
+"it": "Il luppolo porta due cose: amaro e aromi. Alcuni stili hanno amaro medio o marcato con aroma di luppolo contenuto: si mette quasi tutto il luppolo all'inizio della bollitura e poco alla fine, e si usano luppoli tradizionali britannici, cechi o tedeschi (sottili, speziati, floreali, erbacei, terrosi o fruttati). Altri stili hanno amaro alto E aromi pronunciati: luppolo all'inizio (amaro), più tardi (sapore) e in dry hopping (aroma), con luppoli americani, neozelandesi o australiani (agrumi, frutta a nocciolo, tropicale, pino). Di recente alcune di queste birre puntano più sull'aroma che sull'amaro, e molti stili di malto oggi si fanno anche in versioni molto luppolate."
+},
+{
+"en": "Traditional Czech or German pilsner: a straw to gold lager with bread dough, light honey or bread crumb, and subtle spicy, floral or herbal hops; medium to high bitterness, medium alcohol. Bitter: a hop-driven ale from England, amber to copper, with toasted bread, bread crust, digestive biscuit or caramel, subtle fruity, earthy or herbal hops and sometimes fruity yeast notes; medium to high bitterness, alcohol low to high.",
+"it": "Pils tradizionale ceca o tedesca: lager da paglierina a dorata, con pasta di pane, miele leggero o mollica e luppolo sottile speziato, floreale o erbaceo; amaro da medio ad alto, alcol medio. Bitter: ale luppolata nata in Inghilterra, da ambrata a ramata, con pane tostato, crosta di pane, biscotto o caramello, luppolo sottile fruttato, terroso o erbaceo e a volte note fruttate di lievito; amaro da medio ad alto, alcol da basso ad alto."
+},
+{
+"en": "Bitterness with restrained aroma: hops mostly early, traditional European hops",
+"it": "Amaro con aroma contenuto: luppolo soprattutto a inizio bollitura, luppoli tradizionali europei"
+},
+{
+"en": "High bitterness and intense aroma: early, late and dry hops, New World hops",
+"it": "Amaro alto e aroma intenso: luppolo presto, tardi e dry hopping, luppoli del Nuovo Mondo"
+},
+{
+"en": "Czech or German pilsner: straw-gold lager, medium-high bitterness",
+"it": "Pils ceca o tedesca: lager paglierina-dorata, amaro medio-alto"
+},
+{
+"en": "Bitter: English amber-copper ale, biscuit and caramel, medium-high bitterness",
+"it": "Bitter: ale inglese ambra-rame, biscotto e caramello, amaro medio-alto"
+},
+{
+"en": "American pale ale (APA): gold to amber, with hop aromas from citrus, stone and tropical fruit to pine, and subtle malt (bread crumb, sometimes toast or digestive biscuit); sometimes fruity yeast notes. Medium to high bitterness, medium alcohol. American IPA (India pale ale) can be seen as a stronger APA with even more bitterness and hop aroma: gold to amber, defined by high bitterness and pine, resin, citrus, tropical and stone fruit aromas, with subtle malt and medium to high alcohol.",
+"it": "American pale ale (APA): da dorata ad ambrata, con luppolo che va da agrumi, frutta a nocciolo e tropicale fino al pino, e malto discreto (mollica, a volte pane tostato o biscotto); a volte note fruttate di lievito. Amaro da medio ad alto, alcol medio. American IPA (India pale ale): si può pensare come una APA più forte, con ancora più amaro e aroma di luppolo; da dorata ad ambrata, definita da amaro alto e aromi di pino, resina, agrumi, frutta tropicale e a nocciolo, malto discreto e alcol da medio ad alto."
+},
+{
+"en": "Hazy IPA (also New England IPA): straw to gold and distinctly hazy, with subtle malt (water cracker, bread crumb), stone fruit, tropical and citrus hop aromas and sometimes fruity yeast notes. It is typically LESS bitter than American IPA (low to medium bitterness), with medium to high alcohol: the example of beers focused on hop aroma rather than bitterness.",
+"it": "Hazy IPA (o New England IPA): da paglierina a dorata e nettamente torbida, con malto leggero (cracker, mollica), luppolo di frutta a nocciolo, tropicale e agrumi, a volte note fruttate di lievito. È di solito MENO amara di una American IPA (amaro da basso a medio), con alcol da medio ad alto: è l'esempio delle birre che puntano sull'aroma più che sull'amaro."
+},
+{
+"en": "APA: gold-amber, citrus-tropical-pine hops, medium-high bitterness, medium alcohol",
+"it": "APA: dorata-ambrata, luppolo agrumi-tropicale-pino, amaro medio-alto, alcol medio"
+},
+{
+"en": "American IPA: stronger APA, high bitterness, pine and resin, medium-high alcohol",
+"it": "American IPA: APA più forte, amaro alto, pino e resina, alcol medio-alto"
+},
+{
+"en": "Hazy/New England IPA: hazy, straw-gold, very aromatic, LESS bitter",
+"it": "Hazy/New England IPA: torbida, paglierina-dorata, molto aromatica, MENO amara"
+},
+{
+"en": "Weissbier and witbier",
+"it": "Weissbier e witbier"
+},
+{
+"en": "In yeast-driven styles the yeast aromas are the signature. Since lagers have few yeast aromas, these are all ales: fruity (tropical, pome, citrus) and sometimes spicy (clove, peppercorn). Weissbier (also called hefeweizen) is typically straw to gold and cloudy/hazy: banana and clove from the yeast balance bread crumb from the wheat; low bitterness, medium alcohol, typically high carbonation. 'Weiss' is German for white and 'Weizen' for wheat: both words name German wheat beers.",
+"it": "Negli stili di lievito sono gli aromi del lievito il tratto distintivo. Visto che le lager hanno pochi aromi di lievito, sono tutte ale: fruttati (tropicali, mela e pera, agrumi) e talvolta speziati (chiodi di garofano, pepe). La weissbier (detta anche hefeweizen) è di solito da paglierina a dorata e torbida: aromi di banana e chiodi di garofano dal lievito bilanciati da mollica di pane del frumento; amaro basso, alcol medio, carbonazione di solito alta. «Weiss» in tedesco vuol dire bianco, «Weizen» frumento: entrambe le parole indicano le birre di frumento tedesche."
+},
+{
+"en": "Witbier is hazy and straw to gold, with subtle fruity and spicy yeast aromas, often complemented by citrus and floral notes from the coriander seed and orange peel used as flavourings. It has subtle bread crumb or light honey from the wheat and sometimes subtle spicy or herbal hops; low bitterness, medium alcohol. It may be labelled with the French term blanche, meaning 'white'.",
+"it": "La witbier è torbida, da paglierina a dorata, con aromi sottili fruttati e speziati di lievito, spesso accompagnati da note di agrumi e fiori dovute ai semi di coriandolo e alla scorza d'arancia usati come aromi. Ha aromi sottili di mollica o miele leggero dal frumento e a volte un filo di luppolo speziato o erbaceo; amaro basso, alcol medio. In etichetta può comparire il termine francese «blanche», cioè «bianca»."
+},
+{
+"en": "Yeast-driven styles: all ales; fruity and spicy yeast aromas",
+"it": "Stili di lievito: tutte ale; aromi fruttati e speziati dal lievito"
+},
+{
+"en": "Weissbier/hefeweizen: hazy, banana and clove, wheat, low bitterness, high carbonation",
+"it": "Weissbier/hefeweizen: torbida, banana e chiodi di garofano, frumento, amaro basso, carbonazione alta"
+},
+{
+"en": "Weiss = white, Weizen = wheat",
+"it": "Weiss = bianco, Weizen = frumento"
+},
+{
+"en": "Witbier/blanche: hazy, coriander and orange peel, low bitterness",
+"it": "Witbier/blanche: torbida, coriandolo e scorza d'arancia, amaro basso"
+},
+{
+"en": "Dubbel, tripel and saison",
+"it": "Dubbel, tripel e saison"
+},
+{
+"en": "Dubbel is copper to brown, with fruity apple, plum and prune and spicy clove or peppercorn from the yeast, balanced by toast, caramel or dried fruit from malt or caramelised sugars, and sometimes subtle hops. High alcohol, medium bitterness; bottle-conditioning usually leaves a sediment and a lively carbonation. Tripel is gold, with prominent fruity (orange, banana) and spicy (peppercorn, clove) yeast aromas and subtle light honey or bread crumb malt. Alcohol is high or very high, above that of a dubbel; medium bitterness; also bottle-conditioned with sediment and highly carbonated.",
+"it": "La dubbel è ramata o marrone, con aromi fruttati di mela, prugna e prugna secca e note speziate di chiodi di garofano o pepe, dal lievito, bilanciati da pane tostato, caramello o frutta secca del malto o di zuccheri caramellati, e talvolta luppolo sottile. Alcol alto, amaro medio; di solito ha sedimento da rifermentazione in bottiglia ed è molto carbonata. La tripel è dorata, con aromi fruttati marcati (arancia, banana) e speziati (pepe, chiodi di garofano) del lievito, e malto sottile di miele leggero o mollica. Alcol alto o molto alto, persino più della dubbel; amaro medio; anch'essa con sedimento e molto carbonata."
+},
+{
+"en": "Saison is most commonly gold to amber, with fruity and spicy yeast aromas (orange, peach, apple, a peppercorn note), bread crumb, toast or digestive biscuit from malt, and spicy, floral, fruity or earthy hops. It can be slightly sour. It is often bottle-conditioned, with sediment and lively bubbles; bitterness is typically medium and alcohol low to high.",
+"it": "La saison è per lo più da dorata ad ambrata, con aromi fruttati e speziati di lievito (arancia, pesca, mela, una nota di pepe), malto di mollica, pane tostato o biscotto e luppolo speziato, floreale, fruttato o terroso. Può essere leggermente acida. Spesso ha sedimento da rifermentazione in bottiglia ed è molto carbonata; amaro di solito medio, alcol da basso ad alto."
+},
+{
+"en": "Dubbel: copper-brown, apple, plum, clove; high alcohol; sediment",
+"it": "Dubbel: ramata-marrone, mela, prugna, chiodi di garofano; alcol alto; sedimento"
+},
+{
+"en": "Tripel: gold, orange, banana, pepper; high or very high alcohol (above dubbel)",
+"it": "Tripel: dorata, arancia, banana, pepe; alcol alto o molto alto (più della dubbel)"
+},
+{
+"en": "Saison: gold-amber, orange, peach, pepper; can be slightly sour",
+"it": "Saison: dorata-ambrata, arancia, pesca, pepe; può essere leggermente acida"
+},
+{
+"en": "All three highly carbonated, often bottle-conditioned",
+"it": "Tutte e tre molto carbonate, spesso rifermentate in bottiglia"
+},
+{
+"en": "Where sourness comes from; Berliner weisse",
+"it": "Da dove viene l'acidità; Berliner weisse"
+},
+{
+"en": "In sour styles the sour character comes from bacteria, such as lactic acid bacteria, active during fermentation and maturation: they add acidity to the finished beer. Brettanomyces can also play a part, adding complex farmyard, hay, ripe pineapple and leather aromas.",
+"it": "Negli stili acidi il carattere acido arriva da batteri, come i batteri lattici, attivi durante fermentazione e maturazione: aggiungono acidità alla birra finita. A volte influisce anche il Brettanomyces, con aromi complessi di aia, fieno, ananas maturo e cuoio."
+},
+{
+"en": "Berliner weisse is straw-coloured and hazy, with subtle bread dough from wheat and malt and light fruity notes from fermentation. It is moderately sour, with light body, low alcohol and low or no perceptible bitterness. It is sometimes served with syrups: raspberry or woodruff (a slightly bitter herb reminiscent of sweet hay). It is typically made with cultured yeast and bacteria.",
+"it": "La Berliner weisse è paglierina e velata, con aromi sottili di pasta di pane dal frumento e dal malto e note fruttate leggere dalla fermentazione. È moderatamente acida, con corpo leggero, alcol basso e amaro basso o quasi nullo. A volte si serve con sciroppi: lampone o asperula (un'erba amarognola che ricorda il fieno dolce). Si fa di solito con lieviti e batteri coltivati."
+},
+{
+"en": "Sour styles: sourness from bacteria (lactic) during fermentation and maturation",
+"it": "Stili acidi: acidità da batteri (lattici) in fermentazione e maturazione"
+},
+{
+"en": "Sometimes Brett too: farmyard, hay, pineapple, leather",
+"it": "A volte anche Brett: aia, fieno, ananas, cuoio"
+},
+{
+"en": "Berliner weisse: straw, hazy, moderately sour, light, low alcohol",
+"it": "Berliner weisse: paglierina, velata, moderatamente acida, leggera, alcol basso"
+},
+{
+"en": "Sometimes served with raspberry or woodruff syrup; cultured yeast and bacteria",
+"it": "A volte servita con sciroppo di lampone o asperula; lieviti e batteri coltivati"
+},
+{
+"en": "Geuze: spontaneous fermentation",
+"it": "Geuze: la fermentazione spontanea"
+},
+{
+"en": "Geuze (gueuze) is gold, with complex farmyard aromas (earth and hay) and fruity ones such as grapefruit, orange, apple, apricot or rhubarb, plus subtle bread crumb. It tastes sour, with little or no bitterness, and its alcohol is medium to high. Bottle-conditioning usually leaves a sediment and gives it plenty of bubbles.",
+"it": "La geuze (o gueuze) è dorata, con aromi complessi di aia (terra e fieno) e fruttati come pompelmo, arancia, mela, albicocca o rabarbaro, più una sottile nota di mollica. È acida, con amaro basso o nullo e alcol da medio ad alto. Di solito ha sedimento da rifermentazione in bottiglia ed è molto carbonata."
+},
+{
+"en": "The key difference from Berliner weisse is method: geuze is spontaneously fermented: a mix of ambient yeasts and bacteria, Brettanomyces and lactic acid bacteria among them, gives it its character. Berliner weisse, by contrast, uses cultured yeast and bacteria.",
+"it": "La differenza chiave con la Berliner weisse è il metodo: la geuze nasce da fermentazione spontanea ed è influenzata da molti lieviti e batteri dell'ambiente, tra cui Brettanomyces e batteri lattici. La Berliner weisse, invece, usa lieviti e batteri coltivati."
+},
+{
+"en": "Geuze: gold, sour, farmyard, grapefruit, apple, apricot; low or no bitterness",
+"it": "Geuze: dorata, acida, aia, pompelmo, mela, albicocca; amaro basso o nullo"
+},
+{
+"en": "Medium-high alcohol; sediment, highly carbonated",
+"it": "Alcol medio-alto; sedimento, molto carbonata"
+},
+{
+"en": "Spontaneous fermentation: ambient yeast and bacteria, including Brett",
+"it": "Fermentazione spontanea: lieviti e batteri dell'ambiente, incluso Brett"
+},
+{
+"en": "Storing beer",
+"it": "Conservare la birra"
+},
+{
+"en": "Beer starts changing as soon as it is brewed and is easily damaged by oxygen, heat and light. Drink it fresh: some beers benefit from ageing, but most are best young; over time hop aroma and bitterness fade and paper or wet cardboard notes appear. Check for a 'bottled on' or 'best before/use by' date. Keep it cool, ideally refrigerated even for short-term storage: at room temperature it goes stale faster, and warmth degrades it quickly.",
+"it": "La birra comincia a cambiare appena fatta e si rovina facilmente con ossigeno, calore e luce. Bevila fresca: alcune birre migliorano con il tempo, ma la maggior parte dà il meglio da giovane; col tempo amaro e aromi di luppolo svaniscono e compaiono odori di carta o cartone bagnato. Conviene controllare le date «imbottigliato il» o «da consumarsi preferibilmente entro». Tienila al fresco, idealmente in frigorifero anche per poco tempo: a temperatura ambiente invecchia più in fretta, e il caldo la degrada rapidamente."
+},
+{
+"en": "Protect it from daylight and artificial light, which can create unpleasant aromas known as light strike. Cans and kegs are opaque and protect the beer; brown bottles block almost all damaging light; green or clear bottles give little or no protection and should be stored in sealed boxes. Keep it sealed to protect it from oxygen and keep aromas and carbonation: once opened, bottles and cans should be drunk straight away. Keg beer is packed with carbon dioxide, which protects it from oxygen and keeps it fresh for longer.",
+"it": "Proteggila dalla luce, naturale o artificiale, che può creare odori sgradevoli: è il «colpo di luce». Lattine e fusti sono opachi e proteggono la birra; le bottiglie marroni bloccano quasi tutta la luce dannosa; quelle verdi o trasparenti proteggono poco o nulla e andrebbero tenute in scatole chiuse. Tienila chiusa, per proteggerla dall'ossigeno e conservare aromi e bollicine: una bottiglia o lattina aperta va bevuta subito. La birra in fusto è confezionata con anidride carbonica, che la protegge dall'ossigeno e la mantiene fresca più a lungo."
+},
+{
+"en": "Drink fresh: hops and bitterness fade, cardboard appears; check dates",
+"it": "Bere fresca: col tempo calano luppolo e amaro, arriva il cartone; guardare le date"
+},
+{
+"en": "Keep cool, ideally refrigerated",
+"it": "Al fresco, idealmente in frigo"
+},
+{
+"en": "Away from light: cans and kegs opaque, brown bottles fine, green or clear in sealed boxes",
+"it": "Lontano dalla luce: lattine e fusti opachi, bottiglie marroni ok, verdi e trasparenti in scatole chiuse"
+},
+{
+"en": "Sealed: drink at once when opened; CO2-filled kegs stay fresh longer",
+"it": "Chiusa: aperta si beve subito; il fusto con CO2 resta fresco più a lungo"
+},
+{
+"en": "Three faults to recognise",
+"it": "Tre difetti da riconoscere"
+},
+{
+"en": "Poor storage or maintenance can cause unpleasant aromas and flavours. Sooner or later most beers go stale, and heat and oxygen make it happen faster: hop aromas and bitterness fade and paper or wet cardboard notes appear. Light strike (skunking) is caused when light hits hop compounds, giving an unpleasant skunky, scorched-hair or cat-urine smell.",
+"it": "Una cattiva conservazione o manutenzione può dare odori e sapori sgradevoli. Ossidazione da invecchiamento (staling): capita a quasi tutte le birre col tempo ed è accelerata da calore e ossigeno; amaro e aromi di luppolo svaniscono e compaiono note di carta o cartone bagnato. Colpo di luce (skunking): la luce colpisce i composti del luppolo e crea un odore sgradevole di puzzola, capelli bruciati o urina di gatto."
+},
+{
+"en": "Bacterial infection is commonly caused by bacteria growing in poorly maintained beer lines (the hoses connecting kegs to taps) and gives a mix of unwelcome flavours such as vinegar and rancid butter. Prevention is simple: fresh, cold, dark, sealed beer and clean equipment.",
+"it": "Infezione batterica: si deve spesso a batteri che crescono in linee di spillatura mal pulite (i tubi che collegano i fusti ai rubinetti) e dà una combinazione di note sgradevoli come aceto e burro rancido. La prevenzione è semplice: birra fresca, fredda, al buio, chiusa, e impianti puliti."
+},
+{
+"en": "Staling: paper, wet cardboard; hops and bitterness faded; heat and oxygen",
+"it": "Staling: carta, cartone bagnato; luppolo e amaro svaniti; calore e ossigeno"
+},
+{
+"en": "Light strike: skunky, scorched hair, cat urine; light on hop compounds",
+"it": "Colpo di luce: puzzola, capelli bruciati, urina di gatto; luce sui composti del luppolo"
+},
+{
+"en": "Bacterial infection: vinegar, rancid butter; dirty beer lines",
+"it": "Infezione batterica: aceto, burro rancido; linee di spillatura sporche"
+},
+{
+"en": "Glassware and pouring from the keg",
+"it": "Bicchieri e spillatura"
+},
+{
+"en": "There is a huge range of glassware, and personal preference, tradition and culture all matter. For tasting, a few features help: a rounded bowl helps swirling, inward-sloping walls capture aromas, and narrow glasses help head retention. Whatever the shape, the glass must be clean: odourless and free of detergent, dishwasher salts or dirt from unclean cloths. Bubbles clinging to the sides after pouring are a sign the glass is not completely clean.",
+"it": "Ci sono moltissimi bicchieri e contano gusto personale, tradizione e cultura. Per degustare aiutano alcune caratteristiche: una coppa arrotondata facilita la rotazione, pareti che si stringono in alto trattengono gli aromi, un bicchiere stretto aiuta la tenuta della schiuma. In ogni caso il bicchiere deve essere pulito: senza odori né residui di detersivo, sali della lavastoviglie o sporco di panni non puliti. Bollicine attaccate alle pareti dopo il servizio sono il segno di un bicchiere non perfettamente pulito."
+},
+{
+"en": "Pouring keg beer: tilt the glass at 45° under the tap, which must never touch the beer or the glass, and keep your fingers away from the top of the glass. Open the tap fully and pour down the side until the glass is about 70% full. Then bring the glass upright and keep pouring into the centre to form a foam; turn off the tap at the right volume.",
+"it": "Spillare dal fusto: tieni il bicchiere sotto il rubinetto inclinato a 45°, senza che il rubinetto tocchi la birra o il bicchiere ed evitando di toccare la parte alta del bicchiere con la mano. Apri completamente il rubinetto e versa lungo la parete finché il bicchiere è pieno per circa il 70%. Poi raddrizza il bicchiere e continua a versare al centro per formare la schiuma; chiudi il rubinetto a volume raggiunto."
+},
+{
+"en": "Rounded bowl: swirling; inward walls: aromas; narrow glass: head retention",
+"it": "Coppa arrotondata: rotazione; pareti strette in alto: aromi; bicchiere stretto: schiuma"
+},
+{
+"en": "Clean glass: clinging bubbles = not clean",
+"it": "Bicchiere pulito: bollicine attaccate = non pulito"
+},
+{
+"en": "Keg: 45°, tap fully open, down the side to 70%, then upright into the centre",
+"it": "Fusto: 45°, rubinetto aperto del tutto, lungo la parete fino al 70%, poi dritto al centro"
+},
+{
+"en": "The tap never touches beer or glass",
+"it": "Il rubinetto non tocca birra né bicchiere"
+},
+{
+"en": "Bottles, sediment and temperatures",
+"it": "Bottiglie, sedimento e temperature"
+},
+{
+"en": "Opening a crown-capped bottle: steady the bottle with one hand and remove the cap with the opener in one single motion with the other. Pouring: hold the glass at 45° (not touching its upper part) and pour gently down the side; when the glass is 50–70% full, bring it upright and pour into the centre to create foam. With no sediment, pour the whole bottle. With sediment (bottle-conditioned beers), pour carefully, keeping the bottle tilted until the sediment nears the neck, then stop: a little beer always stays in the bottle. Leave the bottle on the table so the drinker can choose to swirl in the sediment. Weissbier and witbier, naturally hazy, are the exception: gently roll the bottle or can before opening and pour everything.",
+"it": "Aprire una bottiglia con tappo a corona: tieni ferma la bottiglia con una mano e con l'altra togli il tappo con l'apribottiglie in un solo gesto. Versare: bicchiere inclinato a 45° (senza toccarne la parte alta), birra versata piano lungo la parete; quando il bicchiere è pieno al 50–70%, raddrizzalo e versa al centro per creare schiuma. Senza sedimento si versa tutto. Con sedimento (birre rifermentate in bottiglia) si versa con attenzione, tenendo la bottiglia inclinata finché il deposito arriva vicino al collo, poi ci si ferma: un po' di birra resta sempre nella bottiglia. Lascia la bottiglia sul tavolo: chi beve può decidere di aggiungere il sedimento. Weissbier e witbier, naturalmente torbide, fanno eccezione: si fa rotolare piano la bottiglia o la lattina prima di aprirla e si versa tutto."
+},
+{
+"en": "Personal preference matters a lot for temperature, but there are general rules. Light to medium aroma, low to medium alcohol (international lager, pilsner, weissbier): well chilled, 3–7 °C (37–45 °F). Medium to pronounced aroma, medium to high alcohol (porter, APA, American IPA): chilled, 7–12 °C (45–54 °F). Complex, pronounced aroma, high to very high alcohol (barley wine, dubbel): lightly chilled, 12–15 °C (54–59 °F).",
+"it": "Per la temperatura conta molto il gusto personale, ma ci sono regole generali. Stili con aroma da leggero a medio e alcol da basso a medio (lager internazionale, pils, weissbier): ben freddi, 3–7 °C. Stili con aroma da medio a pronunciato e alcol medio-alto (porter, APA, American IPA): freschi, 7–12 °C. Stili complessi, molto aromatici e con alcol alto o molto alto (barley wine, dubbel): leggermente freschi, 12–15 °C."
+},
+{
+"en": "Crown cap: steady bottle, one single motion",
+"it": "Tappo a corona: bottiglia ferma, un solo gesto"
+},
+{
+"en": "Bottle: 45°, down the side, at 50–70% upright and pour into the centre",
+"it": "Bottiglia: 45°, lungo la parete, al 50–70% raddrizzare e versare al centro"
+},
+{
+"en": "With sediment: stop when it reaches the neck; leave bottle on table; weissbier/witbier: roll and pour all",
+"it": "Con sedimento: fermarsi quando arriva al collo; bottiglia lasciata sul tavolo; weissbier e witbier: far rotolare e versare tutto"
+},
+{
+"en": "3–7 °C lager, pilsner, weissbier · 7–12 °C porter, APA, IPA · 12–15 °C barley wine, dubbel",
+"it": "3–7 °C lager, pils, weissbier · 7–12 °C porter, APA, IPA · 12–15 °C barley wine, dubbel"
+},
+{
+"en": "Preferences and primary interactions",
+"it": "Preferenze e interazioni primarie"
+},
+{
+"en": "People differ in their sensitivity to tastes and aromas: a match one person loves can leave another indifferent or even disappointed, so a pairing should start from the individual's own preferences and sensitivities. Food always influences how a drink tastes; how much depends on the person and on the level of the interacting elements. These are principles of perception rather than 'rules'.",
+"it": "Ognuno ha una sensibilità diversa ai gusti e agli aromi: un abbinamento perfetto per qualcuno può sembrare banale o sbagliato a un altro, quindi bisogna tenere conto di preferenze e sensibilità della persona. Il cibo cambia sempre il modo in cui percepiamo una bevanda; quanto, dipende dalla persona e da quanto sono forti gli elementi in gioco. Più che «regole», sono principi di percezione."
+},
+{
+"en": "Primary interactions on beer. Sweetness in food: beer seems less sweet, more acidic and more bitter. Umami: the same, less sweet, more acidic and more bitter. Acidity in food: beer seems sweeter, less acidic and less bitter. Salt: the same, sweeter, less acidic and less bitter. Also, chilli heat increases the perception of alcohol, and bitterness in food increases bitterness in the beer.",
+"it": "Interazioni primarie sulla birra. Dolcezza nel cibo: birra meno dolce, più acida e più amara. Umami: uguale, birra meno dolce, più acida e più amara. Acidità nel cibo: birra più dolce, meno acida e meno amara. Sale: uguale, birra più dolce, meno acida e meno amara. Inoltre il piccante aumenta la percezione dell'alcol e l'amaro nel cibo aumenta l'amaro della birra."
+},
+{
+"en": "Personal preferences and sensitivities first",
+"it": "Preferenze e sensibilità personali prima di tutto"
+},
+{
+"en": "Sweet and umami food: beer less sweet, more acidic, more bitter",
+"it": "Dolce e umami nel cibo: birra meno dolce, più acida, più amara"
+},
+{
+"en": "Acid and salt food: beer sweeter, less acidic, less bitter",
+"it": "Acidità e sale nel cibo: birra più dolce, meno acida, meno amara"
+},
+{
+"en": "Chilli: more perceived alcohol; bitter food: more bitter beer",
+"it": "Piccante: più alcol percepito; amaro nel cibo: birra più amara"
+},
+{
+"en": "Sensitive styles, intensity and aromas",
+"it": "Stili «sensibili», intensità e aromi"
+},
+{
+"en": "Beers are generally very food-friendly, but some styles interact more. High-bitterness styles such as American IPA can seem even more bitter with sweetness, umami or bitterness in the food. High-acidity styles such as geuze can seem even more acidic with sweetness or umami. Strong styles (high or very high alcohol) such as barley wine and tripel make the burn of chilli clearly stronger.",
+"it": "Le birre sono in genere molto amiche del cibo, ma alcuni stili interagiscono di più. Stili molto amari come l'American IPA sembrano ancora più amari con cibi dolci, ricchi di umami o amari. Stili molto acidi come la geuze sembrano ancora più acidi con dolcezza o umami. Stili con alcol alto o molto alto, come barley wine e tripel, aumentano nettamente il bruciore del piccante."
+},
+{
+"en": "Two other considerations. Intensity: dish and beer should have a similar flavour intensity, or one will overpower the other. Aromas: beers recall many foods (bread, honey, chocolate and coffee from malt; fruit, tea and herbs from hops; fruit and spice from yeast). Looking for similar or complementary aromas in beer and food creates a familiar connection and can lead to wonderful pairings, such as a chocolatey stout with a cocoa dessert.",
+"it": "Altre due considerazioni. Intensità: piatto e birra dovrebbero avere un'intensità di sapore simile, altrimenti uno copre l'altro. Aromi: le birre ricordano molti cibi (pane, miele, cioccolato e caffè dal malto; frutta, tè ed erbe dal luppolo; frutta e spezie dal lievito). Cercare aromi simili o complementari tra birra e piatto crea un legame familiare e può dare abbinamenti splendidi, come una stout al cioccolato con un dolce al cacao."
+},
+{
+"en": "High bitterness (American IPA): worse with sweet, umami, bitter",
+"it": "Molto amare (American IPA): peggio con dolce, umami, amaro"
+},
+{
+"en": "High acidity (geuze): worse with sweet and umami",
+"it": "Molto acide (geuze): peggio con dolce e umami"
+},
+{
+"en": "High alcohol (barley wine, tripel): more chilli burn",
+"it": "Molto alcoliche (barley wine, tripel): più bruciore col piccante"
+},
+{
+"en": "Similar intensity; similar or complementary aromas",
+"it": "Intensità simile; aromi simili o complementari"
+},
+{
+"en": "Malt, water, hops, yeast.",
+"it": "Malto, acqua, luppolo, lievito."
+},
+{
+"en": "Sugar + yeast → alcohol + CO2 + aromas.",
+"it": "Zucchero + lievito → alcol + CO2 + aromi."
+},
+{
+"en": "Beer alcohol scale",
+"it": "Scala dell'alcol nella birra"
+},
+{
+"en": "Low ≤4% · medium 4.1–5.9% · high 6–9% · very high >9%.",
+"it": "Bassa ≤4% · media 4,1–5,9% · alta 6–9% · molto alta >9%."
+},
+{
+"en": "Starch conversion",
+"it": "Conversione dell'amido"
+},
+{
+"en": "Malt enzymes break starch into fermentable sugars.",
+"it": "Gli enzimi del malto spezzano l'amido in zuccheri fermentabili."
+},
+{
+"en": "Steeping → germination → kilning.",
+"it": "Macerazione → germinazione → essiccazione (kilning)."
+},
+{
+"en": "Base malts",
+"it": "Malti base"
+},
+{
+"en": "Kilned low, enzymes intact; bread, cracker, honey; straw/gold.",
+"it": "Essiccati a bassa temperatura, enzimi intatti; pane, cracker, miele; paglierino/dorato."
+},
+{
+"en": "Speciality malts",
+"it": "Malti speciali"
+},
+{
+"en": "Hotter kilning or roasting; biscuit, caramel, coffee, chocolate; amber to black.",
+"it": "Più calore o tostatura; biscotto, caramello, caffè, cioccolato; da ambra a nero."
+},
+{
+"en": "Grain bill",
+"it": "Grain bill"
+},
+{
+"en": "Recipe of malts and grains: mostly base malt + a little speciality malt.",
+"it": "Ricetta dei cereali: soprattutto malto base + poco malto speciale."
+},
+{
+"en": "Milled malt.",
+"it": "Malto macinato."
+},
+{
+"en": "Mash · wort · spent grains",
+"it": "Mash · mosto · trebbie"
+},
+{
+"en": "Grist + hot water · separated sugary liquid · leftover solids.",
+"it": "Grist + acqua calda · liquido zuccherino separato · solidi rimasti."
+},
+{
+"en": "Wort boiling",
+"it": "Bollitura del mosto"
+},
+{
+"en": "Kills microorganisms; main hop additions; then rapid cooling.",
+"it": "Uccide i microrganismi; aggiunte principali di luppolo; poi raffreddamento rapido."
+},
+{
+"en": "Bottle-conditioning",
+"it": "Rifermentazione in bottiglia"
+},
+{
+"en": "Further fermentation in the sealed bottle; leaves yeast sediment.",
+"it": "Seconda fermentazione in bottiglia chiusa; lascia sedimento di lievito."
+},
+{
+"en": "Hops: most common form",
+"it": "Luppolo: forma più usata"
+},
+{
+"en": "Pellets of dried, milled, pressed cones, kept cold.",
+"it": "Pellet di coni secchi macinati e pressati, tenuti al freddo."
+},
+{
+"en": "German, Czech, British hops",
+"it": "Luppoli tedeschi, cechi, britannici"
+},
+{
+"en": "Subtle: spicy, floral, herbal, earthy, fruity.",
+"it": "Sottili: speziati, floreali, erbacei, terrosi, fruttati."
+},
+{
+"en": "US, NZ, Australian hops",
+"it": "Luppoli USA, Nuova Zelanda, Australia"
+},
+{
+"en": "Intense: citrus, stone fruit, tropical, pine.",
+"it": "Intensi: agrumi, frutta a nocciolo, tropicale, pino."
+},
+{
+"en": "Early / late hops / dry hopping",
+"it": "Luppolo presto / tardi / dry hopping"
+},
+{
+"en": "Start of boil = bitterness; end = aroma; later, cool = aroma.",
+"it": "Inizio bollitura = amaro; fine = aroma; dopo, a freddo = aroma."
+},
+{
+"en": "Ale yeast",
+"it": "Lievito ale"
+},
+{
+"en": "Quick, warmer, fruity and spicy aromas, many strains → ales.",
+"it": "Veloce, più calda, aromi fruttati e speziati, molti ceppi → ale."
+},
+{
+"en": "Slower, cooler, less aroma, fewer strains → lagers.",
+"it": "Più lenta, più fresca, meno aromi, meno ceppi → lager."
+},
+{
+"en": "Yeast: ripe pineapple, peach, farmyard, leather, hay, earth.",
+"it": "Lievito: ananas maturo, pesca, aia, cuoio, fieno, terra."
+},
+{
+"en": "No cultured yeast or bacteria: only ambient ones.",
+"it": "Nessun lievito o batterio coltivato: solo quelli dell'ambiente."
+},
+{
+"en": "Beer appearance",
+"it": "Aspetto della birra"
+},
+{
+"en": "Clear–hazy–opaque; straw → black; foam.",
+"it": "Limpida–velata–opaca; paglierino → nero; schiuma."
+},
+{
+"en": "Yeast aromas",
+"it": "Aromi dal lievito"
+},
+{
+"en": "Fruit (banana…), spice (clove, pepper), farmyard, bubblegum, nail varnish.",
+"it": "Frutta (banana…), spezie (chiodi di garofano, pepe), aia, gomma, smalto."
+},
+{
+"en": "American/international pale lager",
+"it": "Lager chiara americana/internazionale"
+},
+{
+"en": "Straw-gold, light aroma, low-medium bitterness, medium alcohol, high carbonation.",
+"it": "Paglierina-dorata, aroma leggero, amaro basso-medio, alcol medio, carbonazione alta."
+},
+{
+"en": "Gold lager, bread crumb, subtle hops; low-medium bitterness. 'Hell' = pale.",
+"it": "Lager dorata, mollica, luppolo sottile; amaro basso-medio. «Hell» = chiaro."
+},
+{
+"en": "Easy straw-gold ale, subtle crumb, medium bitterness; also golden ale.",
+"it": "Ale facile paglierina-dorata, mollica sottile, amaro medio; detta anche golden ale."
+},
+{
+"en": "Copper-brown lager, toast, nut; 'dunkel' = dark.",
+"it": "Lager ramata-marrone, pane tostato, nocciola; «dunkel» = scuro."
+},
+{
+"en": "Brown or black ales, coffee and chocolate; 'imperial' = very high alcohol.",
+"it": "Ale marroni o nere, caffè e cioccolato; «imperial» = alcol molto alto."
+},
+{
+"en": "Often amber ale, intense malt, full, sweet, high/very high alcohol; ages well.",
+"it": "Ale spesso ambrata, malto intenso, corpo pieno, dolce, alcol alto/molto alto; invecchia."
+},
+{
+"en": "Czech or German pilsner",
+"it": "Pils ceca o tedesca"
+},
+{
+"en": "Straw-gold lager, subtle spicy-floral hops, medium-high bitterness.",
+"it": "Lager paglierina-dorata, luppolo sottile speziato-floreale, amaro medio-alto."
+},
+{
+"en": "English amber-copper ale, biscuit/caramel, subtle hops, medium-high bitterness.",
+"it": "Ale inglese ambra-rame, biscotto/caramello, luppolo sottile, amaro medio-alto."
+},
+{
+"en": "Medium-high bitterness · high bitterness, stronger · hazy, less bitter.",
+"it": "Amaro medio-alto · amaro alto, più forte · torbida, meno amara."
+},
+{
+"en": "Hazy, banana and clove, wheat, low bitterness, highly carbonated.",
+"it": "Torbida, banana e chiodi di garofano, frumento, amaro basso, molto frizzante."
+},
+{
+"en": "Hazy, coriander and orange peel, wheat, low bitterness.",
+"it": "Torbida, coriandolo e scorza d'arancia, frumento, amaro basso."
+},
+{
+"en": "Dubbel copper-brown, high alcohol; tripel gold, even higher alcohol.",
+"it": "Dubbel ramata-marrone, alcol alto; tripel dorata, alcol ancora più alto."
+},
+{
+"en": "Gold-amber, orange, peach, pepper; can be slightly sour.",
+"it": "Dorata-ambrata, arancia, pesca, pepe; può essere leggermente acida."
+},
+{
+"en": "Straw, hazy, moderately sour, low alcohol; cultured yeast and bacteria.",
+"it": "Paglierina, velata, moderatamente acida, alcol basso; lieviti e batteri coltivati."
+},
+{
+"en": "Gold, sour, farmyard and fruit; spontaneous fermentation; highly carbonated.",
+"it": "Dorata, acida, aia e frutta; fermentazione spontanea; molto frizzante."
+},
+{
+"en": "Four storage rules",
+"it": "Quattro regole di conservazione"
+},
+{
+"en": "Drink fresh, keep cool, protect from light, keep sealed.",
+"it": "Bere fresca, tenere al fresco, al riparo dalla luce, chiusa."
+},
+{
+"en": "Faded hops and bitterness, paper or wet cardboard; heat and oxygen.",
+"it": "Luppolo e amaro svaniti, carta o cartone bagnato; calore e ossigeno."
+},
+{
+"en": "Light strike (skunking)",
+"it": "Colpo di luce (skunking)"
+},
+{
+"en": "Light on hop compounds: skunky, scorched hair, cat urine.",
+"it": "Luce sui composti del luppolo: puzzola, capelli bruciati, urina di gatto."
+},
+{
+"en": "Bacterial infection",
+"it": "Infezione batterica"
+},
+{
+"en": "Dirty beer lines: vinegar, rancid butter.",
+"it": "Linee di spillatura sporche: aceto, burro rancido."
+},
+{
+"en": "Bottles and light",
+"it": "Bottiglie e luce"
+},
+{
+"en": "Brown: almost full protection; green or clear: little or none.",
+"it": "Marrone: protegge quasi del tutto; verde o trasparente: poco o nulla."
+},
+{
+"en": "Pouring keg beer",
+"it": "Spillare dal fusto"
+},
+{
+"en": "45°, tap fully open, down the side to 70%, then upright into the centre.",
+"it": "45°, rubinetto aperto, lungo la parete fino al 70%, poi dritto al centro."
+},
+{
+"en": "Beer with sediment",
+"it": "Birra con sedimento"
+},
+{
+"en": "Pour gently, stop when sediment reaches the neck; leave bottle on the table.",
+"it": "Versare piano, fermarsi quando il deposito arriva al collo; bottiglia sul tavolo."
+},
+{
+"en": "3–7 °C lager, pilsner, weissbier · 7–12 °C porter, APA, IPA · 12–15 °C barley wine, dubbel.",
+"it": "3–7 °C lager, pils, weissbier · 7–12 °C porter, APA, IPA · 12–15 °C barley wine, dubbel."
+},
+{
+"en": "Sweet and umami food",
+"it": "Dolce e umami nel cibo"
+},
+{
+"en": "Beer less sweet, more acidic, more bitter.",
+"it": "Birra meno dolce, più acida, più amara."
+},
+{
+"en": "Acid and salt food",
+"it": "Acidità e sale nel cibo"
+},
+{
+"en": "Beer sweeter, less acidic, less bitter.",
+"it": "Birra più dolce, meno acida, meno amara."
+},
+{
+"en": "Food-sensitive styles",
+"it": "Stili «sensibili» a tavola"
+},
+{
+"en": "American IPA (bitterness), geuze (acidity), barley wine and tripel (alcohol with chilli).",
+"it": "American IPA (amaro), geuze (acidità), barley wine e tripel (alcol col piccante)."
+}
+]

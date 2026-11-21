@@ -11,14 +11,14 @@ Extra : tools/i18n/core-extra.json        — {English: {lang: translation}} for
         another level's scope (or skipped, it == en), e.g. "Vodka" (s2) shown in Spirits 1: served with the core file
         (so every level gets it) unless the map already has a translation of that key from its own scope
 Output: app/i18n/<lang>.js                 — core strings      → TWG_I18N["<lang>"]
-        app/i18n/<lang>/<level>.js         — l1, l2, s1, s2     → merged into the same map, loaded only for that level
+        app/i18n/<lang>/<level>.js         — l1, l2, s1, s2, k1, b1 → merged into the same map, loaded only for that level
         and the version of each file in the TWG_I18NV marker of app/index.html (the service worker caches scripts).
 Prints the coverage per scope (strings and English characters)."""
 import json, os, glob, sys, re, hashlib
 
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(os.path.dirname(D))
 LANGS = ['de', 'nl', 'el', 'ja', 'ko', 'zh-hant', 'pt', 'tr', 'th']
-SCOPES = ['core', 'l1', 'l2', 's1', 's2']
+SCOPES = ['core', 'l1', 'l2', 's1', 's2', 'k1', 'b1']
 PH = re.compile(r'\{[A-Za-z0-9_]+\}|<[^>]+>|\$\{[^}]+\}')
 
 def src(scope):
