@@ -23,6 +23,8 @@ pages themselves carry, and the pages come from the built site (same inventory a
    link blocks. Any page of the language that the home still would not reach is added under "More guides", so
    every indexable page is reachable from its home (tools/seo_tech/audit.py fails otherwise).
 3. The footer "For schools" link gets its label in the language of the home.
+5. Meta descriptions of regional versions (es-ar) from tools/seo_tech/regional_meta.json (the builders copy them
+   from the base language otherwise).
 4. Regional hreflang codes follow one policy on every page (see hreflang_regions): es-UY → the Argentine page,
    redundant country codes removed."""
 import html, json, os, re, sys
@@ -285,6 +287,26 @@ def hreflang_regions(s):
     return out + s[head_end:], n
 
 
+# ---------------------------------------------------------------- regional meta descriptions
+META = 'tools/seo_tech/regional_meta.json'
+
+
+def regional_meta(s, path, M):
+    """the description of tools/seo_tech/regional_meta.json for this path in <meta name=description>, og: and twitter:"""
+    want = M.get(path)
+    if not want: return s, 0
+    v = html.escape(want, quote=True); n = 0
+    def sub(rx, s):
+        nonlocal n
+        new = re.sub(rx, lambda m: m.group(1) + v + m.group(2), s, count=1)
+        if new != s: n += 1
+        return new
+    head_end = s.find('</head>'); head = s[:head_end]
+    for attr in ('name="description"', 'property="og:description"', 'name="twitter:description"'):
+        head = sub(r'(<meta ' + re.escape(attr) + r' content=")[^"]*(")', head)
+    return head + s[head_end:], n
+
+
 def report(S):
     rows = []
     for l in S.locales():
@@ -315,6 +337,12 @@ def main():
         if S.pages[p]['reason'] is not None: continue
         s, n = hreflang_regions(S.html.get(p) or S.read(p))
         if n: S.html[p] = s; nh += n
+    M = json.load(open(META, encoding='utf8')) if os.path.exists(META) else {}
+    nm = 0
+    for p in S.pages:
+        if p in M:
+            s, n = regional_meta(S.html.get(p) or S.read(p), p, M)
+            if n: S.html[p] = s; nm += 1
     homes = []
     for l in S.locales():
         if home_of(l) not in S.pages: continue
