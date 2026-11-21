@@ -18,7 +18,7 @@
     C.groups.push({ k: u, w: 0, n: x.name, c: Object.keys(x.ch || {}) });
     (x.bank || []).forEach(b => C.bank.push(b)); (x.lessons || []).forEach(l => C.lessons.push(Object.assign({ u }, l)));
     (x.flash || []).forEach(f => C.flash.push(f)); (x.open || []).forEach(o => C.open.push(Object.assign({ u }, o)));
-    C.units[u] = { name: x.name, exam: x.exam || {}, hours: x.hours || 0, w: x.w || 0, ch: Object.keys(x.ch || {}) }; });
+    C.units[u] = { name: x.name, exam: x.exam || {}, hours: x.hours || 0, w: x.w || 0, ch: Object.keys(x.ch || {}), todo: x.todo || null }; });
   window.TWG_D4C = C;
   const chUnit = {}; C.groups.forEach(g => g.c.forEach(c => chUnit[c] = g.k));
 
@@ -147,6 +147,29 @@
       lgShort: "Respuesta muy breve: en el examen hacen falta frases completas que expliquen causas y efectos.",
       wlOP: "Ya las has probado: son las que marcan la diferencia en el examen. Desbloquea todas las preguntas abiertas del Diploma, con corrección.", wlList: "Todas las preguntas del Diploma · respuestas escritas corregidas · simulacros cronometrados · tarjetas" }
   };
+  /* D3: the exam line, its four practice papers and the list of regions published so far */
+  const U3 = {
+    it: { d4ExD3: "teoria: due prove scritte a risposta aperta il primo giorno (2 ore e 80 minuti); degustazione: 12 vini alla cieca il secondo giorno, in due prove da 90 minuti. Serve almeno il 55% sia in teoria sia in degustazione",
+      d4PapT: "Simulazione di teoria {n}", d4PapS: "Simulazione di degustazione {n}", d4PapTD: "{q} domande aperte in {m} minuti · soglia 55%", d4PapSD: "{n} note di degustazione in {m} minuti · soglia 55%",
+      d4PIntroS: "Formato di allenamento: {n} note di degustazione in {m} minuti. All'esame i vini sono serviti alla cieca; qui scrivi la nota completa di un esempio tipico dello stile indicato. Poi consegna: ogni nota viene corretta e conta per la regola del 55%.",
+      d4PNote3: "I tempi sono quelli dell'esame; il numero di domande per prova e la ripartizione dei punti sono una nostra scelta di allenamento, non quelli dell'esame. Le domande arrivano dalle regioni già disponibili.",
+      d4Av: "Regioni disponibili finora", d4AvP: "L'unità D3 viene pubblicata una regione alla volta. Per le regioni qui sotto sono pronti lezioni, quiz, domande aperte, note di degustazione e flashcard.", d4Soon: "In arrivo, nell'ordine di studio" },
+    fr: { d4ExD3: "théorie : deux épreuves écrites à réponses ouvertes le premier jour (2 heures et 80 minutes) ; dégustation : 12 vins à l'aveugle le second jour, en deux épreuves de 90 minutes. Il faut au moins 55 % en théorie et en dégustation",
+      d4PapT: "Épreuve blanche de théorie {n}", d4PapS: "Épreuve blanche de dégustation {n}", d4PapTD: "{q} questions ouvertes en {m} minutes · seuil 55 %", d4PapSD: "{n} notes de dégustation en {m} minutes · seuil 55 %",
+      d4PIntroS: "Format d'entraînement : {n} notes de dégustation en {m} minutes. À l'examen les vins sont servis à l'aveugle ; ici vous rédigez la note complète d'un exemple typique du style indiqué. Puis rendez la copie : chaque note est corrigée et compte pour la règle des 55 %.",
+      d4PNote3: "Les durées sont celles de l'examen ; le nombre de questions par épreuve et la répartition des points sont notre choix d'entraînement, pas ceux de l'examen. Les questions portent sur les régions déjà disponibles.",
+      d4Av: "Régions disponibles à ce jour", d4AvP: "L'unité D3 est publiée région par région. Pour les régions ci-dessous, leçons, quiz, questions ouvertes, notes de dégustation et flashcards sont prêts.", d4Soon: "À venir, dans l'ordre d'étude" },
+    en: { d4ExD3: "theory: two open-response written papers on day one (2 hours and 80 minutes); tasting: 12 wines served blind on day two, in two 90-minute papers. At least 55% is needed in both theory and tasting",
+      d4PapT: "Theory practice paper {n}", d4PapS: "Tasting practice paper {n}", d4PapTD: "{q} open-response questions in {m} minutes · pass mark 55%", d4PapSD: "{n} tasting notes in {m} minutes · pass mark 55%",
+      d4PIntroS: "Practice format: {n} tasting notes in {m} minutes. In the exam the wines are served blind; here you write the full note for a typical example of the style named. Then hand in: every note is marked and counts towards the 55% rule.",
+      d4PNote3: "The timings are those of the exam; the number of questions per paper and the split of marks are our own practice design, not the exam's. Questions are drawn from the regions already available.",
+      d4Av: "Regions available so far", d4AvP: "Unit D3 is being published one region at a time. For the regions below, lessons, quizzes, written questions, tasting notes and flashcards are ready.", d4Soon: "Still to come, in study order" },
+    es: { d4ExD3: "teoría: dos pruebas escritas de respuesta abierta el primer día (2 horas y 80 minutos); cata: 12 vinos a ciegas el segundo día, en dos pruebas de 90 minutos. Hace falta al menos el 55 % tanto en teoría como en cata",
+      d4PapT: "Simulacro de teoría {n}", d4PapS: "Simulacro de cata {n}", d4PapTD: "{q} preguntas abiertas en {m} minutos · aprobado 55 %", d4PapSD: "{n} notas de cata en {m} minutos · aprobado 55 %",
+      d4PIntroS: "Formato de práctica: {n} notas de cata en {m} minutos. En el examen los vinos se sirven a ciegas; aquí escribes la nota completa de un ejemplo típico del estilo indicado. Después entrega: cada nota se corrige y cuenta para la regla del 55 %.",
+      d4PNote3: "Los tiempos son los del examen; el número de preguntas por prueba y el reparto de puntos son nuestro diseño de práctica, no los del examen. Las preguntas salen de las regiones ya disponibles.",
+      d4Av: "Regiones disponibles hasta ahora", d4AvP: "La unidad D3 se publica región por región. Para las regiones de abajo ya están listas las lecciones, los quiz, las preguntas abiertas, las notas de cata y las flashcards.", d4Soon: "Próximamente, en el orden de estudio" } };
+  Object.keys(U3).forEach(l => Object.assign(U[l], U3[l]));
   U.it.tab_study = U.fr.tab_study = U.en.tab_study = U.es.tab_study = "Diploma";
   const ES_ = () => lang === "es" || lang === "es-ar";
   const LX = () => (ES_() ? 3 : L());                                    /* index into [it,fr,en,es] arrays, for texts read directly */
@@ -198,12 +221,20 @@
     return `<div class="card d4rule"><p class="d4rt"><b>${ok}</b> / ${n} ${esc(t("d4Suff"))}</p><div class="d4bar"><i style="width:${n ? Math.round(ok / n * 100) : 0}%"></i></div>
       <p class="small">${esc(ok === n && n ? t("d4AllOk") : t("d4Rule"))}</p>${nx ? `<button type="button" class="btn primary" data-d4="onext">✍️ ${esc(t("d4NextO"))}</button>` : ""}</div>`;
   }
+  const papersOf = u => { const ex = C.units[u].exam || {}; return ex.papers && ex.papers.length ? ex.papers : null; };
+  function availCard(u) {
+    const X_ = C.units[u], tags = a => `<div class="row d4av" style="gap:6px;flex-wrap:wrap">${a.map(n => `<span class="tag" style="white-space:normal">${esc(n)}</span>`).join("")}</div>`;
+    return `<div class="card d4avail"><h2 class="hsec" style="margin-top:0">🗺️ ${esc(t("d4Av"))}</h2><p class="muted small">${esc(t("d4AvP"))}</p>${tags(X_.ch.filter(c => C.lessons.some(l => l.c === c)).map(chName))}
+      ${X_.todo && X_.todo.length ? `<p class="muted small" style="margin-top:12px"><b>${esc(t("d4Soon"))}</b></p>${tags(X_.todo.map(tx))}` : ""}</div>`;
+  }
   function study() {
     const u = unit, X_ = UX(), ex = X_.exam || {}, nO = openOf(u, false).filter(o => !o.tas).length, nE = openOf(u, true).length, nT = openOf(u).filter(o => o.tas).length;
     const exl = t("d4Ex" + u) !== "d4Ex" + u ? fill(t("d4Ex"), { u, f: t("d4Ex" + u) }) : "";
     return `<section class="view hub area-wset d4hub">${lvSw()}${hubHead("ban-wset", "d4Kick", "d4Title", "d4Intro", "n37")}${unitTabs()}
       <h2 class="hsec">${esc(uName(u))}</h2>${exl ? `<p class="muted small d4exl">📝 ${esc(exl)}</p>` : ""}
-      ${ex.minutes && nO ? `<button type="button" class="mockcard" data-d4="paper"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(t("d4Paper"))}</b><span>${esc(fill(t(ex.tasting && nT ? "d4PaperDT" : "d4PaperD"), { q: ex.q || 3, m: ex.minutes, n: ex.tasting }))}</span></span>${ico("chev")}</button>` : ""}
+      ${papersOf(u) ? papersOf(u).map((P_, i) => { const tasP = !P_.q && P_.tasting, n = papersOf(u).slice(0, i + 1).filter(y => (!y.q && y.tasting) === tasP).length; if (tasP ? !nT : !nO) return "";
+        return `<button type="button" class="mockcard" data-d4="paper" data-pk="${i}"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(fill(t(tasP ? "d4PapS" : "d4PapT"), { n }))}</b><span>${esc(fill(t(tasP ? "d4PapSD" : "d4PapTD"), { q: P_.q, n: Math.min(P_.tasting || 0, nT), m: P_.minutes }))}</span></span>${ico("chev")}</button>`; }).join("") : ex.minutes && nO ? `<button type="button" class="mockcard" data-d4="paper"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(t("d4Paper"))}</b><span>${esc(fill(t(ex.tasting && nT ? "d4PaperDT" : "d4PaperD"), { q: ex.q || 3, m: ex.minutes, n: ex.tasting }))}</span></span>${ico("chev")}</button>` : ""}
+      ${X_.todo ? availCard(u) : ""}
       ${nO || nT ? ruleCard() : ""}
       <h2 class="hsec">${esc(t("d4Sec"))}</h2>
       <div class="hublist">${row('data-go="l2les"', "schemi", t("d4Les"), t("d4LesD"))}${row('data-d4="quiz"', "quiz", t("d4Quiz"), t("d4QuizD"))}${nO ? row('data-d4="open"', "open", t("d4Open"), fill(t("d4OpenD"), { n: nO })) : ""}${nE ? row('data-d4="ess"', "open", t("d4Ess"), fill(t("d4EssD"), { n: nE })) : ""}${nT ? row('data-d4="tas"', "sat", t("d4Tas"), fill(t("d4TasD"), { n: nT })) : ""}${row('data-go="l2fl"', "grapes", t("d4Fl"), t("d4FlD"))}</div>
@@ -278,22 +309,23 @@
   }
 
   /* ---------- timed practice paper ---------- */
-  function pickPaper(u) {
-    const ex = C.units[u].exam || {}, q = ex.q || 3, pool = shuffle(openOf(u, false).filter(o => !o.tas)), out = [], used = new Set();
+  function pickPaper(u, P_) {
+    const ex = P_ || C.units[u].exam || {}, q = P_ ? P_.q || 0 : ex.q || 3, pool = shuffle(openOf(u, false).filter(o => !o.tas)), out = [], used = new Set();
     pool.forEach(o => { if (out.length < q && !used.has(o.c)) { used.add(o.c); out.push(o.id); } });
     pool.forEach(o => { if (out.length < q && !out.includes(o.id)) out.push(o.id); });
     if (ex.tasting) shuffle(openOf(u).filter(o => o.tas)).slice(0, ex.tasting).forEach(o => out.push(o.id));
     return out;
   }
-  function startPaper() {
+  function startPaper(pi) {
     if (typeof gOpen === "function" && !gOpen() && typeof wallOpen === "function") { wallOpen("o", { c: (UX().ch || [])[0] }); return; }
-    const ex = UX().exam || {}; PRES = null; PAP = { u: unit, ids: pickPaper(unit), ans: {}, end: Date.now() + (ex.minutes || 60) * 60000, started: false };
+    const ps = papersOf(unit), pk = ps ? Math.min(Math.max(0, pi | 0), ps.length - 1) : null, ex = ps ? ps[pk] : UX().exam || {}; PRES = null;
+    PAP = { u: unit, pk, min: ex.minutes || 60, ids: pickPaper(unit, ps ? ex : null), ans: {}, end: Date.now() + (ex.minutes || 60) * 60000, started: false };
     oq = null; view = "open"; render(); window.scrollTo(0, 0);
   }
   function paperView() {
     const k = L(), ex = C.units[PAP.u].exam || {};
     if (!PAP.started) return `<section class="view"><div class="card d4pap"><small class="l2ch">${esc(PAP.u)} · ${esc(t("d4Paper"))}</small><h2>${esc(uName(PAP.u))}</h2>
-      <p>${esc((nt => fill(t(nt ? "d4PIntroT" : "d4PIntro"), { q: PAP.ids.length - nt, n: nt, m: ex.minutes || 60 }))(PAP.ids.filter(id => OBY[id] && OBY[id].tas).length))}</p><div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="pgo">${esc(t("d4PStart"))}</button><button type="button" class="btn ghost" data-d4="pquit">${esc(t("oBack"))}</button></div></div></section>`;
+      <p>${esc((nt => fill(t(nt && nt === PAP.ids.length ? "d4PIntroS" : nt ? "d4PIntroT" : "d4PIntro"), { q: PAP.ids.length - nt, n: nt, m: PAP.min || ex.minutes || 60 }))(PAP.ids.filter(id => OBY[id] && OBY[id].tas).length))}</p>${PAP.pk != null ? `<p class="muted small">${esc(t("d4PNote3"))}</p>` : ""}<div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="pgo">${esc(t("d4PStart"))}</button><button type="button" class="btn ghost" data-d4="pquit">${esc(t("oBack"))}</button></div></div></section>`;
     const qs = PAP.ids.map((id, n) => { const o = OBY[id]; if (!o) return ""; const a = PAP.ans[id] || [];
       return `<div class="card d4pq"><div class="row" style="gap:6px"><span class="tag">${esc(t("oxQ"))} ${n + 1}</span><span class="tag">${esc(o.tas ? "🍷 " + t("d4TasTag") : chName(o.c))}</span><span class="tag mono">${omax(o)} ${esc(t("oMarks"))}</span></div>
         <p class="qtext" style="margin:0">${esc(o.q[k])}</p>${o.parts.map((p, i) => `<div class="opart"><div class="ph"><b>${"abcdefgh"[i]}) ${esc(p.t[k])}</b><span class="mono muted">${p.m} ${esc(t("oMarks"))}</span></div><textarea data-d4pa="${id}|${i}" aria-label="${n + 1}${"abcdefgh"[i]}">${esc(a[i] || "")}</textarea></div>`).join("")}</div>`; }).join("");
@@ -301,7 +333,7 @@
       <div class="row"><button type="button" class="btn primary" data-d4="psub">${esc(t("d4PSubmit"))}</button></div></section>`;
   }
   function markPaper() {
-    const res = { u: PAP.u, ts: Date.now(), q: [] }; let S = 0, M = 0;
+    const res = { u: PAP.u, pk: PAP.pk, ts: Date.now(), q: [] }; let S = 0, M = 0;
     PAP.ids.forEach(id => { const o = OBY[id]; if (!o) return; const ans = o.parts.map((p, i) => ((PAP.ans[id] || [])[i] || "").trim()); const m = omax(o);
       if (!ans.some(a => a)) { res.q.push({ id, s: 0, m }); M += m; return; }
       const raw = { parts: o.parts.map((p, i) => lgPart(p, ans[i])) }, g = Object.assign(lgView(o, raw), { raw }), s = g.parts.reduce((a, x) => a + x.score, 0);
@@ -315,7 +347,7 @@
     return `<section class="view"><div class="card" style="display:flex;flex-direction:column;gap:10px"><span class="label">${esc(t("d4PRes"))} · ${esc(r.u)}</span>
       <div class="row" style="align-items:baseline;gap:16px"><span class="result-score ${p >= 55 ? "pass" : "fail"}">${p} %</span><span class="mono muted">${Math.round(r.s * 2) / 2}/${r.m}</span></div><p><b>${esc(t("d4PBand" + band))}</b></p>
       ${r.q.map((x, n) => { const o = OBY[x.id], pp = x.m ? Math.round(x.s / x.m * 100) : 0; return `<div class="d4prow"><div><b>${esc(t("oxQ"))} ${n + 1}</b> · ${esc(chName(o.c))}<br><span class="muted small">${esc(o.q[k])}</span></div><span class="tag ${pp >= 55 ? "fixed" : "active"}">${Math.round(x.s * 2) / 2}/${x.m} · ${pp} %</span><button type="button" class="btn sm" data-oq="${x.id}">${esc(t("d4PReview"))}</button></div>`; }).join("")}
-      <div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="paper">${esc(t("d4PAgain"))}</button><button type="button" class="btn ghost" data-d4="presx">${esc(t("oBack"))}</button></div></div></section>`;
+      <div class="row" style="gap:8px"><button type="button" class="btn primary" data-d4="paper"${r.pk != null ? ` data-pk="${r.pk}"` : ""}>${esc(t("d4PAgain"))}</button><button type="button" class="btn ghost" data-d4="presx">${esc(t("oBack"))}</button></div></div></section>`;
   }
   function tick() {
     clearInterval(timer);
@@ -344,8 +376,8 @@
       return; }
     const b = e.target.closest && e.target.closest("[data-d4]"); if (!b) return;
     const a = b.dataset.d4;
-    if (a === "paper") return startPaper();
-    if (a === "pgo") { PAP.started = true; PAP.end = Date.now() + ((C.units[PAP.u].exam || {}).minutes || 60) * 60000; render(); tick(); window.scrollTo(0, 0); return; }
+    if (a === "paper") return startPaper(+b.dataset.pk || 0);
+    if (a === "pgo") { PAP.started = true; PAP.end = Date.now() + (PAP.min || (C.units[PAP.u].exam || {}).minutes || 60) * 60000; render(); tick(); window.scrollTo(0, 0); return; }
     if (a === "pquit") { PAP = null; clearInterval(timer); const c = document.getElementById("d4clock"); if (c) c.remove(); render(); return; }
     if (a === "psub") { const any = PAP && Object.values(PAP.ans).some(x => x.some(s => s && s.trim())); if (!any) { alert(t("d4PEmpty")); return; } if (!confirm(t("d4PSure"))) return; markPaper(); render(); window.scrollTo(0, 0); return; }
     if (a === "presx") { PRES = null; render(); return; }

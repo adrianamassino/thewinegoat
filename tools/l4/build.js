@@ -1,5 +1,5 @@
 /* The Wine Goat — Diploma (Level 4) content builder.
-   Sources: tools/l4/src/<unit>/*.js (CommonJS). _unit.js = {name:{it,fr,en,es}, w: weighting %, exam:{minutes, q, tasting?: tasting notes in the practice paper}};
+   Sources: tools/l4/src/<unit>/*.js (CommonJS). _unit.js = {name:{it,fr,en,es}, w: weighting %, exam:{minutes, q, tasting?: tasting notes in the practice paper, papers?: [{minutes, q, tasting}] several practice papers}, todo?: [[it,fr,en,es]] regions still to come};
    every other file exports any of {ch, lessons, bank, open, flash}:
      ch      {id: {it,fr,en,es}}
      lessons [{c, t:[it,fr,en,es], p:[[…4]…], k:[[…4]…]}]
@@ -31,6 +31,7 @@ for (const u of units) {
       out.open.push(Object.assign({ id: u + "o" + h(o.q[2] + (o.parts || []).map(p => p.t[2]).join("|")), c: o.c, q: o.q, parts: o.parts.map(p => ({ t: p.t, m: p.m, k: p.k, a: p.a })) }, o.ess ? { ess: 1 } : {}, o.tas ? { tas: 1 } : {}, o.min ? { min: o.min } : {}, o.g ? { g: o.g } : {})); });
     (m.flash || []).forEach((x, i) => { const w = `${f} flash ${i}`; t4(x.f, w); t4(x.b, w); out.flash.push({ c: x.c, f: x.f, b: x.b }); });
   }
+  if (meta.todo) { meta.todo.forEach((x, i) => t4(x, u + " todo " + i)); out.todo = meta.todo; }   /* regions not published yet, shown in the hub */
   const chs = new Set(Object.keys(out.ch));
   ["lessons", "bank", "open", "flash"].forEach(k => out[k].forEach((x, i) => { if (!chs.has(x.c)) err(`${u} ${k} ${i}: unknown chapter ${x.c}`); }));
   const ids = new Set(); [...out.bank, ...out.open].forEach(x => { if (ids.has(x.id)) err(`${u}: duplicate id ${x.id}`); ids.add(x.id); });
