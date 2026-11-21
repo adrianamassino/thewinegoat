@@ -265,4 +265,4 @@ if __name__ == '__main__':
         if os.path.exists('tools/seo_tech/place_photos.py'): os.system(f'{sys.executable} tools/seo_tech/place_photos.py --quiet')  # credits pages use the About pages as template
         if os.path.exists('tools/seo_tech/images.py'): os.system(f'{sys.executable} tools/seo_tech/images.py --pages >/dev/null')
         if os.path.exists('tools/geo/sitewide.py'): os.system(f'{sys.executable} tools/geo/sitewide.py --quiet')
-    os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages
+    os.system(f'{sys.executable} tools/seo_tech/internal_links.py --quiet'); os.system(f'{sys.executable} tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages

@@ -195,4 +195,4 @@ print(len(LANGS) * len(KEYS), 'pages')
 if os.path.exists('tools/seo_tech/place_photos.py'): os.system('python3 tools/seo_tech/place_photos.py --quiet')  # free photos + credits pages
 if os.path.exists('tools/seo_tech/images.py'): os.system('python3 tools/seo_tech/images.py --pages >/dev/null')
 if os.path.exists('tools/geo/sitewide.py'): os.system('python3 tools/geo/sitewide.py --quiet')  # GEO: footer About link + consistent JSON-LD
-os.system('python3 tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages (the only writer of the sitemaps)
+os.system('python3 tools/seo_tech/internal_links.py --quiet'); os.system('python3 tools/seo_tech/sitemaps.py --quiet')  # sitemap index + one sitemap per language, from the built pages (the only writer of the sitemaps)

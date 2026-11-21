@@ -161,6 +161,6 @@ hl, miss = build('wset-3-questions-by-region/index.html', HUB_ES, None, 'Pregunt
 urls[HUB_ES] = hl; allmiss += miss
 
 # sitemaps: rebuilt from the built pages (tools/seo_tech/sitemaps.py is their only writer)
-import subprocess, sys; subprocess.run([sys.executable, 'tools/seo_tech/sitemaps.py', '--quiet'])
+import subprocess, sys; subprocess.run([sys.executable, 'tools/seo_tech/internal_links.py', '--quiet']); subprocess.run([sys.executable, 'tools/seo_tech/sitemaps.py', '--quiet'])
 print(len(urls), 'es pages; untranslated text nodes:', len(allmiss))
 for x in sorted(set(allmiss))[:40]: print('  ', repr(x[:100]))

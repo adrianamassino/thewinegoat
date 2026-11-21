@@ -22,7 +22,9 @@ pages themselves carry, and the pages come from the built site (same inventory a
    It replaces the older flat "More WSET resources" list of the en/it/fr/es/th/tr homes, so a home never has two
    link blocks. Any page of the language that the home still would not reach is added under "More guides", so
    every indexable page is reachable from its home (tools/seo_tech/audit.py fails otherwise).
-3. The footer "For schools" link gets its label in the language of the home."""
+3. The footer "For schools" link gets its label in the language of the home.
+4. Regional hreflang codes follow one policy on every page (see hreflang_regions): es-UY → the Argentine page,
+   redundant country codes removed."""
 import html, json, os, re, sys
 from collections import Counter, OrderedDict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -249,6 +251,40 @@ def guide_list(S, locale):
     return S.html[home]
 
 
+# ---------------------------------------------------------------- regional hreflang codes (one policy on every page)
+ALT = re.compile(r'(\s*)<link rel="alternate" hreflang="([^"]+)" href="([^"]+)">')
+SAME_AS = {'es-UY': 'es-AR'}   # Uruguay reads the Argentine (rioplatense) version; every other Spanish-speaking country gets generic es
+
+
+def hreflang_regions(s):
+    """Policy: generic language codes (+ es-AR, pt-BR, zh-Hans, zh-Hant for the real regional versions, + es-UY → the
+    es-AR page wherever an es-AR page exists). A country code that points to the same URL as its generic language code
+    is redundant and removed (it-CH, fr-CA, en-GB, es-MX, es-419, pt-PT… on the homes): the generic code already serves
+    every country of that language that has no version of its own."""
+    head_end = s.find('</head>')
+    if head_end < 0: return s, 0
+    head = s[:head_end]; tags = list(ALT.finditer(head))
+    if not tags: return s, 0
+    href = {m.group(2): m.group(3) for m in tags}
+    out = head; n = 0
+    for m in reversed(tags):
+        code, h = m.group(2), m.group(3)
+        if code in SAME_AS:
+            want = href.get(SAME_AS[code])
+            if want == h: continue
+            new = '' if want is None else m.group(1) + f'<link rel="alternate" hreflang="{code}" href="{want}">'
+            out = out[:m.start()] + new + out[m.end():]; n += 1
+            continue
+        lang, _, reg = code.partition('-')
+        if reg and len(reg) in (2, 3) and (reg.isupper() or reg.isdigit()) and href.get(lang) == h:
+            out = out[:m.start()] + out[m.end():]; n += 1
+    for code, base in SAME_AS.items():
+        if base in href and code not in href:
+            m = next(x for x in ALT.finditer(out) if x.group(2) == base)
+            out = out[:m.end()] + m.group(1) + f'<link rel="alternate" hreflang="{code}" href="{href[base]}">' + out[m.end():]; n += 1
+    return out + s[head_end:], n
+
+
 def report(S):
     rows = []
     for l in S.locales():
@@ -274,6 +310,11 @@ def main():
         if S.pages[p]['reason'] is not None: continue
         s, n = remap(S, p)
         if n: S.html[p] = s; nl += n
+    nh = 0
+    for p in S.pages:
+        if S.pages[p]['reason'] is not None: continue
+        s, n = hreflang_regions(S.html.get(p) or S.read(p))
+        if n: S.html[p] = s; nh += n
     homes = []
     for l in S.locales():
         if home_of(l) not in S.pages: continue
@@ -283,7 +324,7 @@ def main():
         for p in changed: open(S.pages[p]['path'], 'w', encoding='utf8').write(S.html[p])
     if not quiet or check:
         print(f'internal links: {len(changed)} page(s) {"would change" if check else "updated"} ({nl} link(s) pointed to the page\'s own language; '
-              f'"All WSET guides" section on {len(homes)} home(s): {", ".join(homes) or "none"})')
+              + (f'{nh} regional hreflang tag(s) normalised; ' if nh else '') + f'"All WSET guides" section on {len(homes)} home(s): {", ".join(homes) or "none"})')
     return 1 if check and changed else 0
 
 
