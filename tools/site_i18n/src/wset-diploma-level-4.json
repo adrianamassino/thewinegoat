@@ -3,27 +3,27 @@
 "source": "wset-diploma-level-4/index.html",
 "url": "/wset-diploma-level-4/",
 "region": "main",
-"sha": "66d334c10c5c",
-"words": 3699,
-"segment_words": 3756,
+"sha": "09bb5841854b",
+"words": 4617,
+"segment_words": 4651,
 "segments": [
 {
-"t": "WSET Diploma (Level 4): units D1–D6, study hours and how to prepare",
+"t": "WSET Level 4 Diploma in Wines: units, exams, grades",
 "k": "title",
 "n": "SEO title: ≤ 62 characters"
 },
 {
-"t": "The WSET Level 4 Diploma in Wines explained: the six units D1–D6, 500 hours of study, how the exams work, how hard it is and the Level 3 base you need.",
+"t": "The complete WSET Diploma guide: the six units D1–D6 and their weightings, every exam format, pass marks and grades, the 500 hours of study and how to prepare.",
 "k": "desc",
 "n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
 },
 {
-"t": "WSET Diploma, WSET Level 4 Diploma, WSET Diploma units D1 D2 D3 D4 D5 D6, how hard is the WSET Diploma, WSET Diploma study hours, WSET Diploma D3 tips, WSET Diploma requirements",
+"t": "WSET Diploma, WSET Level 4 Diploma in Wines, WSET Diploma units D1 D2 D3 D4 D5 D6, WSET Diploma exam format, WSET Diploma pass mark, WSET Diploma study hours, how hard is the WSET Diploma, DipWSET",
 "k": "meta",
 "n": "keywords / image alt text: local search wording"
 },
 {
-"t": "The WSET Diploma (Level 4), explained – WSET Diploma, WSET Level 4 Diploma, WSET Diploma units D1 D2 D3 D4 D5 D6 (infographic The Wine Goat)",
+"t": "WSET Level 4 Diploma in Wines: the complete guide (infographic with the key points)",
 "k": "meta",
 "n": "keywords / image alt text: local search wording"
 },
@@ -37,31 +37,103 @@
 "k": "text"
 },
 {
-"t": "The WSET Diploma (Level 4), explained",
+"t": "WSET Diploma",
 "k": "text"
 },
 {
-"t": "{1}In short{/1}",
+"t": "D1 and D2 available now in the app",
 "k": "text"
 },
 {
-"t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
+"t": "WSET Level 4 Diploma in Wines: the complete guide",
 "k": "text"
 },
 {
-"t": "The WSET Level 4 Diploma in Wines explained: the six units D1–D6, the 500 hours of study, how the exams work, how hard it is and how to build the Level 3 foundations you need.",
+"t": "The Level 4 Diploma in Wines is the most advanced WSET qualification and a recognised step towards the Master of Wine. It is studied in six units, assessed with open written answers, blind tastings and a research assignment, and it asks for a long, steady commitment. Here is how each unit is examined, how the grades work, how much study it takes and how to prepare from Level 3.",
 "k": "text"
 },
 {
-"t": "The Level 4 Diploma in Wines is the most advanced WSET qualification and the usual step before the Master of Wine. It is studied in six units and requires a long, steady commitment.",
+"t": "The complete WSET Level 4 Diploma in Wines guide: six units from D1 to D6, written papers, blind tastings and a 3,000-word research assignment, 55% to pass each unit and about 500 hours of study",
 "k": "text"
 },
 {
-"t": "Here is what it covers, how much study it takes and how to get ready from Level 3.",
+"t": "{1}Start the Diploma{/1}{2}Take the free level test{/2}",
 "k": "text"
 },
 {
-"t": "The six units",
+"t": "The Diploma at a glance",
+"k": "text"
+},
+{
+"t": "Units",
+"k": "text"
+},
+{
+"t": "Six mandatory units, D1 to D6, each examined and graded separately",
+"k": "text"
+},
+{
+"t": "Assessment",
+"k": "text"
+},
+{
+"t": "Open-response written papers, blind tastings in D3, D4 and D5, and a 3,000-word research assignment (D6)",
+"k": "text"
+},
+{
+"t": "Pass mark",
+"k": "text"
+},
+{
+"t": "55% in every unit; in D3, 55% in both the theory and the tasting",
+"k": "text"
+},
+{
+"t": "Study time",
+"k": "text"
+},
+{
+"t": "About 500 hours: 128 of guided learning (exams included) + 372 of private study",
+"k": "text"
+},
+{
+"t": "Entry requirement",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Award in Wines, or Level 3 Award in Wines and Spirits",
+"k": "text"
+},
+{
+"t": "Grades",
+"k": "text"
+},
+{
+"t": "Pass 55% · Merit 65% · Distinction 75% (weighted aggregate of the six units)",
+"k": "text"
+},
+{
+"t": "Registration as a Diploma student is valid for three years, and unit passes stay valid for that period. D1 has to be sat before the other units. A failed unit can be retaken without any limit on the number of attempts, but a unit already passed cannot be retaken to improve its grade.",
+"k": "text"
+},
+{
+"t": "The six units and their exams",
+"k": "text"
+},
+{
+"t": "Unit",
+"k": "text"
+},
+{
+"t": "Weighting",
+"k": "text"
+},
+{
+"t": "Exam",
+"k": "text"
+},
+{
+"t": "Exam dates",
 "k": "text"
 },
 {
@@ -69,7 +141,31 @@
 "k": "text"
 },
 {
+"t": "20%",
+"k": "text"
+},
+{
+"t": "Open-response paper, 90 minutes",
+"k": "text"
+},
+{
+"t": "Arranged by the course provider; resits in October and March",
+"k": "text"
+},
+{
 "t": "D2 – Wine business",
+"k": "text"
+},
+{
+"t": "10%",
+"k": "text"
+},
+{
+"t": "Open-response paper, 60 minutes",
+"k": "text"
+},
+{
+"t": "October, January, March and June",
 "k": "text"
 },
 {
@@ -77,7 +173,31 @@
 "k": "text"
 },
 {
+"t": "50%",
+"k": "text"
+},
+{
+"t": "Two days. Day 1: two theory papers (2 hours and 1 hour 20 minutes). Day 2: two blind tastings of 6 wines (1 hour 30 minutes each)",
+"k": "text"
+},
+{
+"t": "October and May",
+"k": "text"
+},
+{
 "t": "D4 – Sparkling wines",
+"k": "text"
+},
+{
+"t": "5%",
+"k": "text"
+},
+{
+"t": "Open-response questions and a blind tasting of 3 wines, 90 minutes",
+"k": "text"
+},
+{
+"t": "October, January and June",
 "k": "text"
 },
 {
@@ -89,47 +209,516 @@
 "k": "text"
 },
 {
-"t": "Units are usually studied one at a time; the order depends on the school. Assessment combines theory exams, tasting exams (mostly accurate tasting notes and quality judgements) and, for D6, a written research assignment.",
+"t": "One assignment of 3,000 words; two titles are released on 1 August",
 "k": "text"
 },
 {
-"t": "How much study does it take?",
+"t": "Submission by 31 January or 31 July",
 "k": "text"
 },
 {
-"t": "WSET indicates a total qualification time of about 500 hours: 128 guided learning hours and at least 372 hours of private study. Candidates aiming for Merit or Distinction often study more.",
+"t": "The weightings show where the effort goes. D3 alone is half of the final grade and is the only unit sat over two consecutive days, with twelve wines tasted blind. In D3 you need 55% in the theory and 55% in the tasting; if you pass only one of the two, it is carried forward and you resit the other. In D4 and D5 the written and tasting components are added together: you need 55% overall and at least 45% in each component.",
 "k": "text"
 },
 {
-"t": "Entry requirements",
+"t": "How to study, step by step",
 "k": "text"
 },
 {
-"t": "You need the WSET Level 3 Award in Wines (or an approved equivalent) to enrol. Check the details with your course provider.",
+"t": "Arrive with Level 3 automatic",
 "k": "text"
 },
 {
-"t": "How to prepare from Level 3",
+"t": "Grapes, regions, climate and winemaking cause and effect should come without effort. Every hour spent relearning Level 3 is an hour taken from Diploma depth.",
 "k": "text"
 },
 {
-"t": "Make your Level 3 knowledge automatic: grapes, regions, climate and winemaking cause–effect.",
+"t": "Treat D1 as the foundation",
 "k": "text"
 },
 {
-"t": "Write structured answers regularly – the Diploma rewards depth and precision.",
+"t": "It is the first exam and the vocabulary of every other unit. Learn each vineyard and winery option with its purpose, its cost and its effect on style and quality.",
 "k": "text"
 },
 {
-"t": "Taste systematically with full notes and quality conclusions, every week.",
+"t": "Write timed answers every week",
 "k": "text"
 },
 {
-"t": "The Wine Goat focuses on Level 3 today: it is the best way to build solid Diploma foundations. Diploma-specific content is planned.",
+"t": "The papers are open-response: marks go to explained, weighed and exemplified points. Plan in keywords, write against the clock and mark yourself on key points.",
+"k": "text"
+},
+{
+"t": "Build one template per region for D3",
+"k": "text"
+},
+{
+"t": "Climate, soils, grapes, vineyard, winery, law, business, styles and prices under the same headings every time, with named examples you can quote.",
+"k": "text"
+},
+{
+"t": "Taste blind in flights",
+"k": "text"
+},
+{
+"t": "Practise flights of three and six wines with full notes, a justified quality level and a reasoned conclusion. Calibrate with a tasting group or a teacher.",
+"k": "text"
+},
+{
+"t": "Plan the calendar backwards",
+"k": "text"
+},
+{
+"t": "Unit exams have fixed dates and D6 has two submission dates a year. Put them in a calendar first, then spread the 500 hours across the months before each one.",
+"k": "text"
+},
+{
+"t": "Common mistakes",
+"k": "text"
+},
+{
+"t": "Treating the Diploma as Level 3 with more facts: answers must weigh factors and conclude",
+"k": "text"
+},
+{
+"t": "Underestimating D2: the business unit needs trade reading and real examples",
+"k": "text"
+},
+{
+"t": "Starting D3 revision too late: it is half of the final grade",
+"k": "text"
+},
+{
+"t": "Betting on identifying the wine instead of describing and justifying it",
+"k": "text"
+},
+{
+"t": "Leaving D6 to the last weeks: research and referencing take time",
+"k": "text"
+},
+{
+"t": "Studying alone without a tasting group to calibrate quality levels",
+"k": "text"
+},
+{
+"t": "Try 3 sample questions",
+"k": "text"
+},
+{
+"t": "These are our own practice questions on topics from D1 and D2. They are not official or past exam questions, and the Diploma papers themselves are open-response: use multiple choice to check facts, then practise writing.",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Why might a winemaker block malolactic conversion in a white wine?",
+"k": "text"
+},
+{
+"t": "To remove tartrate crystals before bottling",
+"k": "text"
+},
+{
+"t": "To keep the malic acid and a fresher, crisper style",
+"k": "text"
+},
+{
+"t": "To add buttery flavours and a rounder texture",
+"k": "text"
+},
+{
+"t": "To raise the final alcohol level",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}To keep the malic acid and a fresher, crisper style{/1} — Malolactic conversion turns sharper malic acid into softer lactic acid and can add buttery notes. Blocking it, with sulfur dioxide, chilling or filtration, preserves acidity and primary fruit.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} A grower in a cool, damp region removes leaves around the bunches. What is the main aim?",
+"k": "text"
+},
+{
+"t": "A later budburst the following spring",
+"k": "text"
+},
+{
+"t": "Protection of the grapes from sunburn",
+"k": "text"
+},
+{
+"t": "Better air flow and sun exposure, so less fungal disease and riper fruit",
+"k": "text"
+},
+{
+"t": "A higher yield per vine",
+"k": "text"
+},
+{
+"t": "{1}Better air flow and sun exposure, so less fungal disease and riper fruit{/1} — Opening the fruit zone lets bunches dry faster and receive more light, which lowers the risk of rot and helps ripening. In hot, sunny regions leaves are kept to shade the fruit.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} A producer sells at the cellar door instead of through an importer and a retailer. What is the main financial effect?",
+"k": "text"
+},
+{
+"t": "The wine must be sold at a lower price than in shops",
+"k": "text"
+},
+{
+"t": "Production costs per bottle fall",
+"k": "text"
+},
+{
+"t": "Excise duty no longer applies",
+"k": "text"
+},
+{
+"t": "A larger share of the final price stays with the producer, who also bears the selling costs",
+"k": "text"
+},
+{
+"t": "{1}A larger share of the final price stays with the producer, who also bears the selling costs{/1} — Direct sales remove the intermediaries' margins, but the producer pays for staff, premises and marketing and usually reaches fewer buyers.",
+"k": "text"
+},
+{
+"t": "An open-response question with a model answer",
+"k": "text"
+},
+{
+"t": "D1 – Wine production.",
+"k": "text"
+},
+{
+"t": "Explain how the choice of fermentation temperature affects the style of a white wine. {1}(6 marks){/1}",
+"k": "text"
+},
+{
+"t": "Model answer",
+"k": "text"
+},
+{
+"t": "Cool fermentation, typically in temperature-controlled stainless steel, slows the yeast and retains volatile aroma compounds, giving a wine with pronounced primary fruit and often fruity esters; it suits aromatic and fruity styles (three points: mechanism, effect, example). The risks are a slow or stuck fermentation and a simple, confected character if the temperature is too low (one point). Warmer fermentation, common in barrel, loses some of the most volatile fruit aromas but encourages a broader texture and greater complexity, and integrates oak better (one point). The choice therefore depends on the grape and the intended style and price: a crisp Sauvignon Blanc is kept cool, while a premium barrel-fermented Chardonnay is allowed to ferment warmer (one point for a weighed conclusion).",
+"k": "text"
+},
+{
+"t": "{1}Points that score marks:{/1} cool: slower yeast activity, volatile aromas retained, fruity esters; suits aromatic and fruity styles; risk of stuck fermentation or simple aromas; warm: fewer primary aromas, more texture and complexity, better oak integration; conclusion linked to grape, style and price, with examples",
+"k": "text"
+},
+{
+"t": "Level 1, 2, 3 or 4: where the Diploma fits",
+"k": "text"
+},
+{
+"t": "Level 1",
+"k": "text"
+},
+{
+"t": "Level 2",
+"k": "text"
+},
+{
+"t": "Level 3",
+"k": "text"
+},
+{
+"t": "Level 4 (Diploma)",
+"k": "text"
+},
+{
+"t": "Format",
+"k": "text"
+},
+{
+"t": "30 multiple choice",
+"k": "text"
+},
+{
+"t": "50 multiple choice",
+"k": "text"
+},
+{
+"t": "50 multiple choice + 4 written answers",
+"k": "text"
+},
+{
+"t": "Six units: written papers, blind tastings, a research assignment",
+"k": "text"
+},
+{
+"t": "Duration",
+"k": "text"
+},
+{
+"t": "45 min",
+"k": "text"
+},
+{
+"t": "60 min",
+"k": "text"
+},
+{
+"t": "2 h + 30 min tasting",
+"k": "text"
+},
+{
+"t": "Several exams over the course",
+"k": "text"
+},
+{
+"t": "70%",
+"k": "text"
+},
+{
+"t": "55%",
+"k": "text"
+},
+{
+"t": "55% in each part",
+"k": "text"
+},
+{
+"t": "55% per unit (tasting rules vary by unit)",
+"k": "text"
+},
+{
+"t": "≈ 6 h",
+"k": "text"
+},
+{
+"t": "≈ 28 h",
+"k": "text"
+},
+{
+"t": "≈ 84 h",
+"k": "text"
+},
+{
+"t": "≈ 500 h",
+"k": "text"
+},
+{
+"t": "Written answers",
+"k": "text"
+},
+{
+"t": "no",
+"k": "text"
+},
+{
+"t": "yes",
+"k": "text"
+},
+{
+"t": "yes, at length",
+"k": "text"
+},
+{
+"t": "Tasting exam",
+"k": "text"
+},
+{
+"t": "yes (2 wines)",
+"k": "text"
+},
+{
+"t": "yes, many wines",
+"k": "text"
+},
+{
+"t": "{1}← WSET Level 3{/1} · {2}Diploma study tips →{/2}",
+"k": "text"
+},
+{
+"t": "Goat in a burgundy scarf perched on a wine barrel, raising a glass of red wine",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "The Wine Goat for the Diploma: D1 and D2 are here",
+"k": "text"
+},
+{
+"t": "Lessons, practice questions, open-response questions with model answers and marking points, flashcards and a timed practice paper for D1 Wine production and D2 Wine business. The other units are in preparation; Level 3 is in the app in full to keep your foundations sharp.",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How long does the WSET Diploma take?",
+"k": "text"
+},
+{
+"t": "Most candidates take between 18 months and a few years, depending on the study format and how many units they sit at a time.",
+"k": "text"
+},
+{
+"t": "How hard is the WSET Diploma?",
+"k": "text"
+},
+{
+"t": "It is demanding: the theory is detailed, written answers must be precise, and tasting requires consistent, well-justified notes. Steady study over a long period is key.",
+"k": "text"
+},
+{
+"t": "Is the WSET Diploma required for the Master of Wine?",
+"k": "text"
+},
+{
+"t": "The Master of Wine is run by a separate institute; the WSET Diploma is the most common route to apply, but check the MW entry requirements.",
+"k": "text"
+},
+{
+"t": "What is the difference between WSET Level 3 and the WSET Diploma?",
+"k": "text"
+},
+{
+"t": "Level 3 tests accurate knowledge and description with multiple-choice questions, short written answers and two tasting wines. The Diploma has six units, around 500 hours of study, open written answers that require analysis, much more blind tasting, a business unit and a research assignment. The main change is the depth of explanation expected.",
+"k": "text"
+},
+{
+"t": "Which WSET Diploma units include a tasting exam?",
+"k": "text"
+},
+{
+"t": "D3 Wines of the world, D4 Sparkling wines and D5 Fortified wines combine theory with blind tasting. D1 focuses on wine production theory, while D2 and D6 deal with business and independent research. Check the current specification with your course provider, as assessment details can be updated.",
+"k": "text"
+},
+{
+"t": "What does DipWSET mean?",
+"k": "text"
+},
+{
+"t": "DipWSET is the post-nominal used by people who have passed all six units of the WSET Level 4 Diploma in Wines. It signals an expert level of wine knowledge and tasting ability and is widely recognised in the trade, in retail, in importing and in education.",
+"k": "text"
+},
+{
+"t": "Can I take the WSET Diploma without working in the wine trade?",
+"k": "text"
+},
+{
+"t": "Yes. The entry requirement is the Level 3 Award in Wines or the Level 3 Award in Wines and Spirits, not trade experience. Candidates outside the trade should give extra time to D2, the business unit, and build regular tasting practice, because colleagues in the trade often taste more wines every week.",
+"k": "text"
+},
+{
+"t": "What grades can you get in the WSET Diploma?",
+"k": "text"
+},
+{
+"t": "Each unit is graded: Pass from 55%, Merit from 65% and Distinction from 75%. The final grade is the weighted aggregate of the six units (D1 20%, D2 10%, D3 50%, D4 5%, D5 5%, D6 10%) with the same thresholds, and every unit must be passed. Because D3 is worth half, its result largely decides the final grade.",
+"k": "text"
+},
+{
+"t": "Do I need to be able to identify wines blind for the WSET Diploma?",
+"k": "text"
+},
+{
+"t": "Identification is part of some Diploma tasting questions, but most marks come from an accurate description, a justified quality assessment and a judgement on readiness for drinking. Treat identification as the last step of a logical argument based on what you observed, not as a guess. Precise, consistent notes matter far more than lucky identifications.",
+"k": "text"
+},
+{
+"t": "What is the hardest part of moving from Level 3 to the Diploma?",
+"k": "text"
+},
+{
+"t": "For most candidates it is the depth of explanation in written answers. At Level 3 a correct, linked point is often enough; at Diploma level you must weigh several factors, give precise examples and reach a conclusion. The volume of D3 and the discipline of regular blind tasting over a long period are the other big challenges.",
+"k": "text"
+},
+{
+"t": "Does The Wine Goat have WSET Diploma questions?",
+"k": "text"
+},
+{
+"t": "Yes, for the first two units. D1 Wine production and D2 Wine business are in the app, with lessons, practice questions, open-response questions with model answers and flashcards. The other units are in preparation. The Level 3 material remains the best way to keep the foundations of D3 sharp.",
+"k": "text"
+},
+{
+"t": "Should I take a break between Level 3 and the Diploma?",
+"k": "text"
+},
+{
+"t": "A short gap can help if you use it well: consolidating Level 3 knowledge, tasting regularly and reading about the trade. A long gap without practice makes the start of the Diploma harder because foundations fade. If you take a break, keep a light daily routine of questions and weekly tasting so that you arrive ready.",
+"k": "text"
+},
+{
+"t": "Which Diploma unit should I start with?",
+"k": "text"
+},
+{
+"t": "D1 Wine production: candidates must sit the D1 exam before moving on to the other units. After that the order depends on your school and on the fixed exam dates of each unit. Many candidates take the compact units (D2, D4, D5) before the two-day D3 exam, and plan the D6 assignment around one of its two submission dates.",
 "k": "text"
 },
 {
 "t": "Study notes: inside the WSET Level 4 Diploma, unit by unit",
+"k": "text"
+},
+{
+"t": "How the final grade is calculated",
+"k": "text"
+},
+{
+"t": "Each unit receives a percentage mark and a grade. The final result is the weighted aggregate of the six unit marks, and it is awarded only when every unit has been passed.",
+"k": "text"
+},
+{
+"t": "Mark",
+"k": "text"
+},
+{
+"t": "Unit grade",
+"k": "text"
+},
+{
+"t": "Final qualification (weighted aggregate, all units passed)",
+"k": "text"
+},
+{
+"t": "75% or more",
+"k": "text"
+},
+{
+"t": "Pass with Distinction",
+"k": "text"
+},
+{
+"t": "65% to 74%",
+"k": "text"
+},
+{
+"t": "Pass with Merit",
+"k": "text"
+},
+{
+"t": "55% to 64%",
+"k": "text"
+},
+{
+"t": "Pass",
+"k": "text"
+},
+{
+"t": "45% to 54%",
+"k": "text"
+},
+{
+"t": "Fail",
+"k": "text"
+},
+{
+"t": "Below 45%",
+"k": "text"
+},
+{
+"t": "Fail unclassified",
+"k": "text"
+},
+{
+"t": "Candidates who do not taste alcohol can complete D1, D2, D6 and the theory of D3 and receive a record of achievement, but the full Diploma requires the tasting exams of D3, D4 and D5.",
 "k": "text"
 },
 {
@@ -161,7 +750,7 @@
 "k": "text"
 },
 {
-"t": "D4 and D5 are smaller units built around the same pattern of theory and blind tasting. D4 covers the methods of production (traditional, transfer, tank, carbonation, ancestral) and the main sparkling regions. D5 covers sherry, port, Madeira and other fortified wines such as vins doux naturels and Rutherglen Muscat. Because they are compact, many schools schedule them early, so they are often a candidate's first Diploma exams.",
+"t": "D4 and D5 are smaller units built around the same pattern: one 90-minute exam that combines open-response questions with a blind tasting of three wines. D4 covers the methods of production (traditional, transfer, tank, carbonation, ancestral) and the main sparkling regions. D5 covers sherry, port, Madeira and other fortified wines such as vins doux naturels and Rutherglen Muscat. Because they are compact, many schools schedule them soon after D1, which every candidate has to sit first.",
 "k": "text"
 },
 {
@@ -186,10 +775,6 @@
 },
 {
 "t": "WSET Diploma (Level 4)",
-"k": "text"
-},
-{
-"t": "Study time",
 "k": "text"
 },
 {
@@ -517,18 +1102,6 @@
 "k": "text"
 },
 {
-"t": "How assessment logic carries over from Level 3",
-"k": "text"
-},
-{
-"t": "The Diploma is not a scaled-up Level 3, but one principle carries over: each part is assessed in its own right. At Level 3 there are two separate units, theory and tasting, and you need at least 55% in each; a strong result in one unit does not make up for a weak one in the other, and a failed unit is retaken on its own while the unit you passed stays valid. The Diploma applies the same idea across its six units, each graded separately, and where a unit includes both theory and tasting, both need attention. Always check the current specification with your provider, because assessment details can change.",
-"k": "text"
-},
-{
-"t": "The practical lesson is the same at both levels: do not let your favourite part absorb all your time. Candidates who love tasting often neglect written answers, and theory specialists sometimes arrive at a tasting exam with little blind practice. A balanced weekly plan prevents both problems.",
-"k": "text"
-},
-{
 "t": "Short Diploma glossary",
 "k": "text"
 },
@@ -561,164 +1134,23 @@
 "k": "text"
 },
 {
-"t": "Diploma content in The Wine Goat: what is available now",
-"k": "text"
-},
-{
-"t": "We want to be transparent about this: Diploma (Level 4) content is in preparation in The Wine Goat and is not available yet. Today the app covers Levels 1, 2 and 3. For future Diploma candidates, the Level 3 part is the most useful place to start, because it trains the knowledge, written answers and SAT tasting notes the Diploma builds on, with daily questions, short answers marked against key points and full mock exams for both the theory and the tasting unit.",
-"k": "text"
-},
-{
 "t": "Write the date you plan to start the Diploma in your calendar, then work backwards: every month before it is a month to make your Level 3 knowledge automatic and to build the regional notes you will extend for D3.",
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
-"k": "attr",
-"n": "alt/title/aria text"
-},
-{
-"t": "Build Diploma-level foundations with Level 3",
+"t": "More WSET resources",
 "k": "text"
 },
 {
-"t": "Thousands of questions, open answers with instant marking, SAT tasting notes and a daily plan: master Level 3 first with The Wine Goat.",
+"t": "{1}WSET Level 1 Award in Wines: the complete guide{/1}",
 "k": "text"
 },
 {
-"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"t": "{1}WSET Level 2 Award in Wines: the complete guide{/1}",
 "k": "text"
 },
 {
-"t": "Frequently asked questions",
-"k": "text"
-},
-{
-"t": "How long does the WSET Diploma take?",
-"k": "text"
-},
-{
-"t": "Most candidates take between 18 months and a few years, depending on the study format and how many units they sit at a time.",
-"k": "text"
-},
-{
-"t": "How hard is the WSET Diploma?",
-"k": "text"
-},
-{
-"t": "It is demanding: the theory is detailed, written answers must be precise, and tasting requires consistent, well-justified notes. Steady study over a long period is key.",
-"k": "text"
-},
-{
-"t": "Is the WSET Diploma required for the Master of Wine?",
-"k": "text"
-},
-{
-"t": "The Master of Wine is run by a separate institute; the WSET Diploma is the most common route to apply, but check the MW entry requirements.",
-"k": "text"
-},
-{
-"t": "What is the difference between WSET Level 3 and the WSET Diploma?",
-"k": "text"
-},
-{
-"t": "Level 3 tests accurate knowledge and description with multiple-choice questions, short written answers and two tasting wines. The Diploma has six units, around 500 hours of study, open written answers that require analysis, much more blind tasting, a business unit and a research assignment. The main change is the depth of explanation expected.",
-"k": "text"
-},
-{
-"t": "Which WSET Diploma units include a tasting exam?",
-"k": "text"
-},
-{
-"t": "D3 Wines of the world, D4 Sparkling wines and D5 Fortified wines combine theory with blind tasting. D1 focuses on wine production theory, while D2 and D6 deal with business and independent research. Check the current specification with your course provider, as assessment details can be updated.",
-"k": "text"
-},
-{
-"t": "What does DipWSET mean?",
-"k": "text"
-},
-{
-"t": "DipWSET is the post-nominal used by people who have passed all six units of the WSET Level 4 Diploma in Wines. It signals an expert level of wine knowledge and tasting ability and is widely recognised in the trade, in retail, in importing and in education.",
-"k": "text"
-},
-{
-"t": "Can I take the WSET Diploma without working in the wine trade?",
-"k": "text"
-},
-{
-"t": "Yes. The entry requirement is the Level 3 Award in Wines or an approved equivalent, not trade experience. Candidates outside the trade should give extra time to D2, the business unit, and build regular tasting practice, because colleagues in the trade often taste more wines every week.",
-"k": "text"
-},
-{
-"t": "What grades can you get in the WSET Diploma?",
-"k": "text"
-},
-{
-"t": "Each unit is graded, with Pass, Merit and Distinction for successful candidates. Many people aim for at least Merit in D3, the largest unit, because it shows depth across the whole world of wine. Your provider can explain how unit results combine for the final qualification.",
-"k": "text"
-},
-{
-"t": "Do I need to be able to identify wines blind for the WSET Diploma?",
-"k": "text"
-},
-{
-"t": "Identification is part of some Diploma tasting questions, but most marks come from an accurate description, a justified quality assessment and a judgement on readiness for drinking. Treat identification as the last step of a logical argument based on what you observed, not as a guess. Precise, consistent notes matter far more than lucky identifications.",
-"k": "text"
-},
-{
-"t": "What is the hardest part of moving from Level 3 to the Diploma?",
-"k": "text"
-},
-{
-"t": "For most candidates it is the depth of explanation in written answers. At Level 3 a correct, linked point is often enough; at Diploma level you must weigh several factors, give precise examples and reach a conclusion. The volume of D3 and the discipline of regular blind tasting over a long period are the other big challenges.",
-"k": "text"
-},
-{
-"t": "Does The Wine Goat have WSET Diploma questions?",
-"k": "text"
-},
-{
-"t": "Not yet. Diploma content is in preparation and is not available in the app today. The app currently covers Levels 1, 2 and 3, and the Level 3 material is a strong foundation for the Diploma, with questions across the syllabus, short written answers marked on key points, SAT tasting notes and mock exams.",
-"k": "text"
-},
-{
-"t": "Should I take a break between Level 3 and the Diploma?",
-"k": "text"
-},
-{
-"t": "A short gap can help if you use it well: consolidating Level 3 knowledge, tasting regularly and reading about the trade. A long gap without practice makes the start of the Diploma harder because foundations fade. If you take a break, keep a light daily routine of questions and weekly tasting so that you arrive ready.",
-"k": "text"
-},
-{
-"t": "Which Diploma unit should I start with?",
-"k": "text"
-},
-{
-"t": "Usually your school decides the order, and many schedule a compact unit or the production unit early. If you have a choice, start with a unit that builds foundations used everywhere else, such as wine production, or a smaller unit that gives you exam experience before the large D3. Ask your provider which sequence they recommend.",
-"k": "text"
-},
-{
-"t": "More WSET 3 resources",
-"k": "text"
-},
-{
-"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
-"k": "text"
-},
-{
-"t": "{1}The grape varieties to know for WSET Level 3{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 1 practice questions, with answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"t": "{1}WSET Level 3 Award in Wines: the complete guide{/1}",
 "k": "text"
 },
 {
@@ -726,19 +1158,7 @@
 "k": "text"
 },
 {
-"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
-"k": "text"
-},
-{
-"t": "{1}How to pass WSET Level 2 first time{/1}",
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
 "k": "text"
 },
 {
@@ -750,28 +1170,9 @@
 "k": "text"
 },
 {
-"t": "{1}How to pass WSET Level 3 first time{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 practice questions with answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}Free WSET Level 3 mock exam{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 short answer questions{/1}",
-"k": "text"
-},
-{
-"t": "{1}The WSET Systematic Approach to Tasting{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 flashcards{/1}",
-"k": "text"
+"t": "WSET Level 4 Diploma in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
 },
 {
 "t": "Home",

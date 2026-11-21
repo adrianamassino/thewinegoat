@@ -113,7 +113,8 @@ def page(key, lang):
     open(out, 'w', encoding='utf8').write(doc)
     return slug
 
-slugs = [page(k, l) for k in PAGES for l in LANGS]
+LVG = {'diploma': 'l4'}  # pages now written by tools/seo2/lvguide.py (complete level guides): never rebuilt here
+slugs = [page(k, l) for k in PAGES for l in LANGS if not (k in LVG and os.path.exists(f'{ROOT}/tools/seo2/lvguide/{LVG[k]}_{l}.py'))]
 
 # sitemaps: rebuilt from the built pages, at the end of this script (tools/seo_tech/sitemaps.py is their only writer)
 

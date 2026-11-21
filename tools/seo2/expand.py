@@ -45,6 +45,7 @@ for f in sorted(glob.glob('tools/seo2/extra/*.json')):
     if f.endswith('_inventory.json'): continue
     D = json.load(open(f, encoding='utf8'))
     grp = os.path.basename(f)[:-5]
+    if grp == 'wset-diploma-level-4' and os.path.exists('tools/seo2/lvguide/l4_en.py'): continue  # built by tools/seo2/lvguide.py (its notes come from l4_old.py)
     for p, d in INV.items():
         if gkey(d['en'] or d['url']) != grp or d['lang'] not in D: continue
         X = D[d['lang']]; s = open(p, encoding='utf8').read()

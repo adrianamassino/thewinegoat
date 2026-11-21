@@ -336,7 +336,7 @@
       "Teori sınavı",
       "45 dakikada 30 çoktan seçmeli soru",
       "60 dakikada 50 çoktan seçmeli soru",
-      "50 çoktan seçmeli + 4 kısa yazılı cevap, yaklaşık 2 saat"
+      "50 çoktan seçmeli + 4 kısa yazılı cevap, 2 saat"
      ],
      [
       "Tadım sınavı",
@@ -695,14 +695,14 @@
      [
       "Şarap Seviye 3 teori",
       "50 çoktan seçmeli + 4 kısa yazılı cevap",
-      "Yaklaşık 2 saat",
+      "2 saat",
       "Süreni bölümlere göre planla",
-      "Teori ünitesinde en az %55"
+      "Teori ünitesinin her bölümünde en az %55"
      ],
      [
       "Şarap Seviye 3 tadım",
       "Kör servis edilen 2 şarap",
-      "Kısa, ayrı bir oturum",
+      "30 dakika",
       "—",
       "Tadım ünitesinde en az %55"
      ]
