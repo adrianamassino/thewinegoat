@@ -1,16 +1,16 @@
-"""Home quiz with a theme picker (wine, beer, spirits, sake, mix) on every home page: a fixed 20-question level check per theme.
+"""Home quiz with a theme and level picker on every home page: a fixed 25-question check per theme and level.
 
 Adds one tag before </body> of each home:  <script src="/assets/homequiz.js?v=N" defer></script>
-The script takes over the hero "quick quiz" button (.ctas3 a[href*="go=lvquick"]): theme picker → the fixed 20 questions of that
-theme (progress saved, resumable) → free-account gate; the score and the plan are shown in the app (app/hqresult.js).
-Questions: assets/homequiz/<lang>.json, one per home language, built from tools/homequiz/src + set.txt by tools/homequiz/build.py.
+The script takes over the hero "quick quiz" button (.ctas3 a[href*="go=lvquick"]): theme → level → the fixed 25 questions of that
+level with immediate feedback and explanation (progress saved, resumable) → free-account gate; the score and the plan are shown
+in the app (app/hqresult.js). Questions: assets/homequiz/<lang>/<set>.json, from the app's own banks, by tools/homequiz/build_levels.js.
 Idempotent: re-reads every file just before editing and only touches that one tag.
 Also run by tools/site_i18n/build.py (sync step), so the Thai/Turkish homes rebuilt from the English home keep it.
 
 Usage from repo root:  python3 tools/home_quiz_themes.py [--quiet] [home.html ...]   (default: the 19 homes)"""
 import os, re, sys
 
-V = 6
+V = 7
 TAG = f'<script src="/assets/homequiz.js?v={V}" defer></script>'
 HOMES = ['index.html'] + [f'{l}/index.html' for l in
          'it fr es es-ar de nl pl pt pt-br ru el ja ko zh-hans zh-hant ar th tr'.split()]

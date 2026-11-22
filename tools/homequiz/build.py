@@ -1,4 +1,7 @@
-"""Home quiz question bank: tools/homequiz/src/<lang>.txt + tools/homequiz/set.txt  ->  assets/homequiz/<lang>.json
+"""LEGACY (home quiz v1, 20 questions per theme): the page now uses tools/homequiz/build_levels.js (25 per theme and level).
+These files stay published only so that a v1 result saved earlier can still be reviewed in the app (app/hqresult.js).
+
+Home quiz question bank: tools/homequiz/src/<lang>.txt + tools/homequiz/set.txt  ->  assets/homequiz/<lang>.json
 
 The home assessment is FIXED: set.txt lists, per theme, the 20 questions asked (always the same, in that order) and the
 fixed 20 of the mix. Every other question in src/ is a reserve (en, it, fr, es, es-ar hold 50 per theme) and is not published.

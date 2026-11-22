@@ -1,19 +1,25 @@
-/* The Wine Goat · home quiz: a fixed 20-question level check per theme (wine, beer, spirits, sake, mix).
+/* The Wine Goat · home quiz: a fixed 25-question check per theme and level (wine 1–4, spirits 1–2, beer 1, sake 1, mix).
    Added to every home by tools/home_quiz_themes.py. The hero "quick quiz" button opens a dialog:
-   pick a theme → its 20 multiple-choice questions, always the same ones in the same order (a curated set spread over the
-   topics of the theme, chosen in tools/homequiz/set.txt; mix = a fixed 8 wine, 5 spirits, 4 beer, 3 sake), with the
-   progress n/20. Only the order of the answer options changes. Nothing is revealed on the home: no right/wrong, no
-   correct option, no explanation, no score; each answer is only recorded (index of the chosen option). The run is saved
-   in localStorage (twg-hq-run2): closing the dialog and coming back resumes it.
-   At the end the result (theme, score, per-topic breakdown, answers, time) is saved in localStorage
-   (twg-hq-result, same origin as /app) and the visitor is sent to the app sign-up; the app shows the result screen
-   (app/hqresult.js). Questions: /assets/homequiz/<lang>.json, built by tools/homequiz/build.py, one file per home language.
+   pick a theme → pick the level (wine: Level 1, 2, 3 or the Diploma; spirits: Level 1 or 2; beer, sake and the mix have one
+   level, the app's Level 1) → its 25 multiple-choice questions, always the same ones in the same order (taken from the app's
+   own question banks, spread over the level's syllabus: tools/homequiz/build_levels.js), with the progress n/25. Only the
+   order of the answer options changes. After each answer the page shows at once whether it is right, highlights the correct
+   option and shows the explanation, then "Next". The score is never shown on the home: at the end the result (theme, level,
+   score, per-topic breakdown, answers, time) is saved in localStorage (twg-hq-result, same origin as /app) and the visitor is
+   sent to the app sign-up; the app shows the score and the plan (app/hqresult.js). The run is saved in localStorage
+   (twg-hq-run3): closing the dialog and coming back resumes it.
+   Questions: /assets/homequiz/<lang>/<set>.json (set = w1 w2 w3 w4 s1 s2 k1 b1 mix), one per home language; a question the
+   app has no text for in that language stays in English (x:1, marked lang="en"); /assets/homequiz/sets.json says how many
+   questions of each set exist in each language (the level picker notes "questions in English").
    Without JavaScript the button keeps its normal link to the app. */
 (function () {
   'use strict';
-  if (window.TWG_HQ) return; window.TWG_HQ = 3;
+  if (window.TWG_HQ) return; window.TWG_HQ = 4;
   var THEMES = [['wine', '🍷'], ['beer', '🍺'], ['spirits', '🥃'], ['sake', '🍶'], ['mix', '🎲']];
-  var N = 20 /* questions per theme, as announced in the texts; the questions themselves come from set.txt via the JSON */, KEY = 'twg-hq-theme', RUN = 'twg-hq-run2' /* answers = index of the chosen option (0 = the correct one) */, RES = 'twg-hq-result', QV = 3;
+  /* the levels of each theme that the app has content for (set id → level number) */
+  var LEVELS = { wine: ['w1', 'w2', 'w3', 'w4'], spirits: ['s1', 's2'], beer: ['b1'], sake: ['k1'], mix: ['mix'] };
+  var THOF = { w: 'wine', s: 'spirits', b: 'beer', k: 'sake', m: 'mix' };
+  var N = 25 /* questions per set, as announced in the texts */, KEY = 'twg-hq-set', RUN = 'twg-hq-run3' /* answers = index of the chosen option (0 = the correct one) */, RES = 'twg-hq-result', QV = 1;
   var L = {
     en: ['Pick your quiz', '10 quick questions. Choose a theme:', 'Wine', 'Beer', 'Spirits', 'Sake', 'Mix', 'Grapes, regions, styles', 'Ales, lagers, hops', 'Whisky, gin, rum, agave', 'Rice, koji, styles', 'A bit of everything', 'Last time', 'Close', 'Change theme', 'Play again', 'See my score', 'Keep learning about wine in the app', 'Try the Spirits course', 'Open the app', 'The quiz could not load. Please try again.'],
     it: ['Scegli il tuo quiz', '10 domande veloci. Scegli un tema:', 'Vino', 'Birra', 'Distillati', 'Sake', 'Mix', 'Vitigni, regioni, stili', 'Ale, lager, luppolo', 'Whisky, gin, rum, agave', 'Riso, koji, stili', 'Un po’ di tutto', 'L’ultima volta', 'Chiudi', 'Cambia tema', 'Gioca ancora', 'Vedi il punteggio', 'Continua con il vino nell’app', 'Prova il corso Distillati', 'Apri l’app', 'Il quiz non si è caricato. Riprova.'],
@@ -57,16 +63,42 @@
     th: ['{n} ข้อสไตล์ข้อสอบ เลือกหัวข้อ:', 'เสร็จสิ้น', 'ระบบบันทึกความคืบหน้าไว้ให้ ปิดแล้วกลับมาทำต่อภายหลังได้', 'ทำครบ {n} ข้อแล้ว!', 'สร้างบัญชีฟรีเพื่อดูคะแนนและแผนการเรียนเฉพาะคุณ', 'สร้างบัญชีฟรี', 'มีบัญชีอยู่แล้ว', 'ผลลัพธ์ถูกบันทึกไว้ในอุปกรณ์นี้และรอคุณอยู่ในแอป', 'บันทึกคำตอบแล้ว'],
     tr: ['Sınav tarzında {n} soru. Bir tema seç:', 'Bitir', 'İlerlemen kaydedilir: kapatıp daha sonra devam edebilirsin.', '{n} sorunun hepsi tamam!', 'Puanını ve kişisel planını görmek için ücretsiz hesabını oluştur.', 'Ücretsiz hesabımı oluştur', 'Zaten hesabım var', 'Sonucun bu cihazda kayıtlı ve uygulamada seni bekliyor.', 'Cevabın kaydedildi.']
   };
+  /* level picker and feedback: lv_t, lv_s, lv_n, ld1, ld2, ld3, ld4, en_all, en_part, right */
+  var L3 = {
+    en: ['Choose your level', '{n} questions spread across the syllabus of the level, with the explanation after each answer.', 'Level {n}', 'Introduction', 'Intermediate', 'Advanced', 'Diploma · D1–D5', 'Questions in English', 'Some questions in English', 'Correct answer:'],
+    it: ['Scegli il livello', '{n} domande distribuite su tutto il programma del livello, con la spiegazione dopo ogni risposta.', 'Livello {n}', 'Introduzione', 'Intermedio', 'Avanzato', 'Diploma · D1–D5', 'Domande in inglese', 'Alcune domande in inglese', 'Risposta corretta:'],
+    fr: ['Choisissez votre niveau', '{n} questions réparties sur tout le programme du niveau, avec l’explication après chaque réponse.', 'Niveau {n}', 'Initiation', 'Intermédiaire', 'Avancé', 'Diploma · D1–D5', 'Questions en anglais', 'Certaines questions en anglais', 'Bonne réponse :'],
+    es: ['Elige tu nivel', '{n} preguntas repartidas por todo el programa del nivel, con la explicación después de cada respuesta.', 'Nivel {n}', 'Iniciación', 'Intermedio', 'Avanzado', 'Diploma · D1–D5', 'Preguntas en inglés', 'Algunas preguntas en inglés', 'Respuesta correcta:'],
+    'es-ar': ['Elegí tu nivel', '{n} preguntas repartidas por todo el programa del nivel, con la explicación después de cada respuesta.', 'Nivel {n}', 'Iniciación', 'Intermedio', 'Avanzado', 'Diploma · D1–D5', 'Preguntas en inglés', 'Algunas preguntas en inglés', 'Respuesta correcta:'],
+    de: ['Wähle dein Level', '{n} Fragen aus dem ganzen Lehrplan des Levels, mit der Erklärung nach jeder Antwort.', 'Level {n}', 'Einstieg', 'Mittelstufe', 'Fortgeschritten', 'Diploma · D1–D5', 'Fragen auf Englisch', 'Einige Fragen auf Englisch', 'Richtige Antwort:'],
+    nl: ['Kies je niveau', '{n} vragen verspreid over het hele programma van het niveau, met de uitleg na elk antwoord.', 'Level {n}', 'Introductie', 'Gemiddeld', 'Gevorderd', 'Diploma · D1–D5', 'Vragen in het Engels', 'Sommige vragen in het Engels', 'Juiste antwoord:'],
+    pl: ['Wybierz poziom', '{n} pytań z całego programu poziomu, z wyjaśnieniem po każdej odpowiedzi.', 'Poziom {n}', 'Wprowadzenie', 'Średniozaawansowany', 'Zaawansowany', 'Diploma · D1–D5', 'Pytania po angielsku', 'Część pytań po angielsku', 'Poprawna odpowiedź:'],
+    pt: ['Escolha o seu nível', '{n} perguntas distribuídas por todo o programa do nível, com a explicação depois de cada resposta.', 'Nível {n}', 'Introdução', 'Intermédio', 'Avançado', 'Diploma · D1–D5', 'Perguntas em inglês', 'Algumas perguntas em inglês', 'Resposta correta:'],
+    'pt-br': ['Escolha seu nível', '{n} perguntas distribuídas por todo o programa do nível, com a explicação depois de cada resposta.', 'Nível {n}', 'Introdução', 'Intermediário', 'Avançado', 'Diploma · D1–D5', 'Perguntas em inglês', 'Algumas perguntas em inglês', 'Resposta correta:'],
+    ru: ['Выберите уровень', '{n} вопросов по всей программе уровня, с объяснением после каждого ответа.', 'Уровень {n}', 'Начальный', 'Средний', 'Продвинутый', 'Diploma · D1–D5', 'Вопросы на английском', 'Часть вопросов на английском', 'Правильный ответ:'],
+    el: ['Διάλεξε επίπεδο', '{n} ερωτήσεις από όλη την ύλη του επιπέδου, με την εξήγηση μετά από κάθε απάντηση.', 'Επίπεδο {n}', 'Εισαγωγικό', 'Μεσαίο', 'Προχωρημένο', 'Diploma · D1–D5', 'Ερωτήσεις στα αγγλικά', 'Κάποιες ερωτήσεις στα αγγλικά', 'Σωστή απάντηση:'],
+    ja: ['レベルを選ぼう', 'レベルの出題範囲全体から{n}問。答えるたびに解説が表示されます。', 'レベル{n}', '入門', '中級', '上級', 'Diploma · D1–D5', '問題は英語です', '一部の問題は英語です', '正解：'],
+    ko: ['레벨 고르기', '레벨 전체 범위에서 고른 {n}문제. 답할 때마다 해설을 볼 수 있어요.', '레벨 {n}', '입문', '중급', '고급', 'Diploma · D1–D5', '문제가 영어로 나와요', '일부 문제는 영어로 나와요', '정답:'],
+    'zh-hans': ['选择级别', '{n} 道题，覆盖该级别的全部大纲，每答一题都会显示解析。', '第 {n} 级', '入门', '中级', '高级', 'Diploma · D1–D5', '题目为英文', '部分题目为英文', '正确答案：'],
+    'zh-hant': ['選擇級別', '{n} 道題，涵蓋該級別的完整大綱，每答一題都會顯示解析。', '第 {n} 級', '入門', '中級', '高級', 'Diploma · D1–D5', '題目為英文', '部分題目為英文', '正確答案：'],
+    ar: ['اختر مستواك', '{n} سؤالًا موزّعة على منهج المستوى كاملًا، مع الشرح بعد كل إجابة.', 'المستوى {n}', 'تمهيدي', 'متوسط', 'متقدّم', 'Diploma · D1–D5', 'الأسئلة بالإنجليزية', 'بعض الأسئلة بالإنجليزية', 'الإجابة الصحيحة:'],
+    th: ['เลือกระดับ', '{n} ข้อ ครอบคลุมทั้งหลักสูตรของระดับนี้ พร้อมคำอธิบายหลังตอบแต่ละข้อ', 'ระดับ {n}', 'เบื้องต้น', 'ระดับกลาง', 'ขั้นสูง', 'Diploma · D1–D5', 'คำถามเป็นภาษาอังกฤษ', 'คำถามบางข้อเป็นภาษาอังกฤษ', 'คำตอบที่ถูก:'],
+    tr: ['Seviyeni seç', 'Seviyenin tüm müfredatına yayılmış {n} soru, her cevaptan sonra açıklamasıyla.', 'Seviye {n}', 'Giriş', 'Orta', 'İleri', 'Diploma · D1–D5', 'Sorular İngilizce', 'Bazı sorular İngilizce', 'Doğru cevap:']
+  };
   var K = ['title', 'sub0', 'wine', 'beer', 'spirits', 'sake', 'mix', 'd_wine', 'd_beer', 'd_spirits', 'd_sake', 'd_mix', 'last', 'close', 'change', 'again', 'res', 'cta_wine', 'cta_sp', 'cta_app', 'err'];
   var K2 = ['sub', 'fin', 'saved', 'g_t', 'g_p', 'g_b', 'g_l', 'g_n', 'ans'];
+  var K3 = ['lv_t', 'lv_s', 'lv_n', 'ld1', 'ld2', 'ld3', 'ld4', 'en_all', 'en_part', 'right'];
   var hl = (document.documentElement.getAttribute('lang') || 'en').toLowerCase();
   var LANG = ({ 'pt-pt': 'pt', 'es-419': 'es-ar', 'zh-cn': 'zh-hans', 'zh-tw': 'zh-hant' })[hl] || hl;
   if (!L[LANG]) LANG = L[LANG.split('-')[0]] ? LANG.split('-')[0] : 'en';
-  var U = {}; K.forEach(function (k, i) { U[k] = L[LANG][i] || L.en[i]; }); K2.forEach(function (k, i) { U[k] = ((L2[LANG] || L2.en)[i] || L2.en[i]).replace('{n}', N); });
+  var U = {};
+  K.forEach(function (k, i) { U[k] = L[LANG][i] || L.en[i]; });
+  K2.forEach(function (k, i) { U[k] = ((L2[LANG] || L2.en)[i] || L2.en[i]).replace('{n}', N); });
+  K3.forEach(function (k, i) { U[k] = ((L3[LANG] || L3.en)[i] || L3.en[i]).replace('{n}', k === 'lv_n' ? '{n}' : N); });
   var SRC = (document.currentScript && document.currentScript.src) || '/assets/homequiz.js';
   var D = {}; try { D = JSON.parse(document.getElementById('home-data').textContent) || {}; } catch (e) {}
   var TX = D.tx || {}, APP = D.app || '/app/';
-  var TXE = { m_next: 'Next question' };
+  var TXE = { m_next: 'Next question', m_ok: 'Correct!', m_ko: 'Not quite.' };
   function tx(k) { return TX[k] || TXE[k]; }
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
   function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
@@ -74,27 +106,37 @@
   function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
   function jGet(k) { try { return JSON.parse(lsGet(k) || 'null'); } catch (e) { return null; } }
   function emo(t) { for (var i = 0; i < THEMES.length; i++) if (THEMES[i][0] === t) return THEMES[i][1]; return ''; }
+  function themeOf(set) { return THOF[String(set).charAt(0)] || 'wine'; }
+  function lvNum(set) { return set === 'mix' ? 1 : +String(set).charAt(1) || 1; }
+  function lvName(set) { return U.lv_n.replace('{n}', lvNum(set)); }
+  /* the level in the app: Wine 1–3, the Diploma (4), Spirits s1/s2, Sake k1, Beer b1; the mix opens Level 1 */
+  var APPLV = { w1: '1', w2: '2', w3: '3', w4: '4', s1: 's1', s2: 's2', k1: 'k1', b1: 'b1', mix: '1' };
 
-  /* the app in the language of this home (when the app has it), opening the sign-up window; spirits → the spirits course */
+  /* the app in the language of this home (when the app has it), opening the sign-up window at the level of the quiz */
   var APPL = { de: 'de', nl: 'nl', el: 'el', ja: 'ja', ko: 'ko', 'zh-hant': 'zh-hant', pt: 'pt', 'pt-br': 'pt', tr: 'tr', th: 'th', en: 'en', it: 'it', fr: 'fr', es: 'es', 'es-ar': 'es-ar' };
-  function appUrl(th, pc, go) {
+  function appUrl(set, go) {
     var u; try { u = new URL(APP, location.href); } catch (e) { return APP; }
     if (!u.searchParams.get('lang') && APPL[LANG]) u.searchParams.set('lang', APPL[LANG]);
-    var lvl = '';
-    if (th && !lsGet('twg-level')) lvl = th === 'spirits' ? (pc >= 55 ? 's2' : 's1') : (th === 'wine' || th === 'mix') ? (pc >= 35 ? '2' : '1') : '';
+    var lvl = set && !lsGet('twg-level') ? APPLV[set] || '' : '';
     u.hash = (lvl ? 'lvl=' + lvl + '&' : '') + 'go=' + (go || 'signup');
     return u.pathname + u.search + u.hash;
   }
 
-  var BANK = null, BY = null, loading = null;
-  function load() {
-    if (BANK) return Promise.resolve(BANK);
-    if (loading) return loading;
-    var url = new URL('homequiz/' + LANG + '.json?v=' + QV, SRC).href, en = new URL('homequiz/en.json?v=' + QV, SRC).href;
-    function get(u) { return fetch(u, { credentials: 'same-origin' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
-    loading = get(url).catch(function (e) { if (LANG === 'en') throw e; return get(en); })
-      .then(function (j) { BANK = j; BY = {}; ['wine', 'beer', 'spirits', 'sake'].forEach(function (t) { (j[t] || []).forEach(function (q) { q.th = t; BY[q.id] = q; }); }); return j; }, function (e) { loading = null; throw e; });
-    return loading;
+  /* one file per set and language; the English file when the language file is missing */
+  var BANK = {}, loading = {}, META = null, metaLoad = null;
+  function get(u) { return fetch(u, { credentials: 'same-origin' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
+  function meta() {
+    if (META || metaLoad) return metaLoad || Promise.resolve(META);
+    metaLoad = get(new URL('homequiz/sets.json?v=' + QV, SRC).href).then(function (j) { META = j; return j; }, function () { metaLoad = null; return null; });
+    return metaLoad;
+  }
+  function load(set) {
+    if (BANK[set]) return Promise.resolve(BANK[set]);
+    if (loading[set]) return loading[set];
+    var url = function (l) { return new URL('homequiz/' + l + '/' + set + '.json?v=' + QV, SRC).href; };
+    loading[set] = get(url(LANG)).catch(function (e) { if (LANG === 'en') throw e; return get(url('en')); })
+      .then(function (j) { if (!j || !Array.isArray(j.qs) || !j.qs.length) throw new Error('empty'); BANK[set] = j; return j; }, function (e) { loading[set] = null; throw e; });
+    return loading[set];
   }
   var CSS = '.hqz{position:fixed;inset:0;z-index:1000;display:flex;align-items:center;justify-content:center;padding:16px}.hqz[hidden]{display:none}' +
     '.hqz-bg{position:absolute;inset:0;background:rgba(43,26,32,.55);backdrop-filter:blur(2px)}' +
@@ -114,16 +156,23 @@
     '.hqz-last{position:absolute;top:8px;inset-inline-start:8px;padding:2px 8px;border-radius:999px;background:#f3d58c;color:#3e0f22;font-size:11px;font-weight:700}' +
     '.hqz-run{position:absolute;top:8px;inset-inline-end:8px;padding:2px 8px;border-radius:999px;background:#6e1532;color:#fff;font-size:11px;font-weight:700;direction:ltr}' +
     '@media (min-width:600px){.hqz-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}' +
+    '.hqz-lvg{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.hqz-lvg.n1{grid-template-columns:minmax(0,1fr)}' +
+    '.hqz-lv{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-height:96px;padding:30px 14px 14px;border-radius:18px;border:2px solid #efe3d8;background:#fff;color:#2b1a20;font:inherit;cursor:pointer;text-align:start;transition:border-color .15s,box-shadow .15s}' +
+    '.hqz-lv:hover{border-color:#8c1d40;box-shadow:0 12px 22px -14px rgba(140,29,64,.6)}.hqz-lv.on{border-color:#d4a23a;background:#fffaf0}' +
+    '.hqz-lv .hqz-nm{font-size:19px}.hqz-en{display:inline-block;margin-top:4px;padding:1px 8px;border-radius:999px;background:#efe3d8;color:#5a454c;font-size:11px;font-weight:700}' +
+    '.hqz-back{margin-top:16px}' +
     '.hqz-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 52px 10px 0;margin-inline:0 52px;font-weight:700;color:#6e1532;font-size:14px}' +
-    '.hqz-chip{display:inline-flex;align-items:center;gap:6px;padding:4px 12px;border-radius:999px;background:#fbe9ee}.hqz-n{direction:ltr;white-space:nowrap}' +
+    '.hqz-chip{display:inline-flex;align-items:center;gap:6px;padding:4px 12px;border-radius:999px;background:#fbe9ee;min-width:0}.hqz-n{direction:ltr;white-space:nowrap}' +
     '.hqz-bar{height:6px;border-radius:6px;background:#efe3d8;overflow:hidden;margin-bottom:16px}.hqz-bar i{display:block;height:100%;background:linear-gradient(90deg,#a3264f,#d4a23a);transition:width .3s}' +
     '.hqz-q{font:600 21px/1.35 Fraunces,Georgia,serif;margin:0 0 14px;color:#2b1a20;overflow-wrap:anywhere}' +
     '.hqz-o{display:block;width:100%;margin:0 0 10px;padding:14px 16px;border-radius:16px;border:2px solid #efe3d8;background:#fffdfb;color:#2b1a20;font:inherit;font-size:16px;text-align:start;cursor:pointer;transition:border-color .15s;overflow-wrap:anywhere}' +
     '.hqz-o:hover:not(:disabled){border-color:#8c1d40}.hqz-o:disabled{cursor:default}' +
-    '.hqz-o.sel{border-color:#6e1532;background:#fbe9ee;font-weight:700}.hqz-o:disabled:not(.sel){opacity:.6}' +
-    '.hqz-sv{margin:6px 0 14px;font-weight:700;color:#6e1532}' +
-    '.hqz-fb{padding:14px 16px;border-radius:16px;background:#fff;box-shadow:inset 0 0 0 2px #efe3d8;margin:6px 0 14px;line-height:1.45;overflow-wrap:anywhere}' +
-    '.hqz-fb b{color:#6e1532}' +
+    '.hqz-o:disabled:not(.ok):not(.ko){opacity:.6}' +
+    '.hqz-o.ok{border-color:#2e7d32;background:#e8f5e9;color:#1b4d1f;font-weight:700}.hqz-o.ko{border-color:#c62828;background:#fdecea;color:#7f1d1d}' +
+    '.hqz-o.ok:before,.hqz-o.ko:before{display:inline-block;margin-inline-end:8px;font-weight:800}.hqz-o.ok:before{content:"✓"}.hqz-o.ko:before{content:"✗"}' +
+    '.hqz-vd{margin:6px 0 8px;font-weight:800;font-size:18px}.hqz-vd.ok{color:#2e7d32}.hqz-vd.ko{color:#c62828}' +
+    '.hqz-fb{padding:14px 16px;border-radius:16px;background:#fff;box-shadow:inset 0 0 0 2px #efe3d8;margin:6px 0 14px;line-height:1.5;overflow-wrap:anywhere}' +
+    '.hqz-fb p{margin:0}.hqz-fb p+p{margin-top:8px}.hqz-fb b{color:#6e1532}' +
     '.hqz-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}' +
     '.hqz .b3{max-width:100%;text-align:center;line-height:1.2}' +
     '.hqz-foot{margin-top:18px;padding-top:12px;border-top:1px solid #efe3d8;display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:13px;color:#6b5a5f}' +
@@ -131,19 +180,20 @@
     '.hqz-card .hqz-end{text-align:center;padding-top:6px}.hqz-big{font-size:54px;line-height:1;margin:4px 0 6px}' +
     '.hqz-end h2{margin-inline:0;text-align:center}.hqz-end .hqz-row{justify-content:center;margin-top:16px}' +
     '.hqz-end p{margin:10px auto 0;max-width:440px;line-height:1.45}.hqz-end .hqz-gn{font-size:13px;color:#6b5a5f}' +
-    '.hqz-qm{width:96px;height:96px;margin:6px auto 12px;border-radius:50%;display:grid;place-items:center;background:#fbe9ee;box-shadow:inset 0 0 0 6px #efe3d8;font:700 22px/1 Fraunces,Georgia,serif;color:#6e1532}' +
+    '.hqz-qm{width:96px;height:96px;margin:6px auto 12px;border-radius:50%;display:grid;place-items:center;background:#fbe9ee;box-shadow:inset 0 0 0 6px #efe3d8;font:700 22px/1 Fraunces,Georgia,serif;color:#6e1532;direction:ltr}' +
     '.hqz-err{color:#c62828}' +
-    '@media (max-width:420px){.hqz{padding:10px}.hqz-card{padding:22px 16px 18px;border-radius:22px;max-height:calc(100dvh - 20px)}.hqz h2{font-size:22px}.hqz-q{font-size:19px}.hqz-th{min-height:106px;padding:14px 8px 12px}.hqz-ic{font-size:34px}.hqz .b3{width:100%}}' +
-    '@media (prefers-reduced-motion:reduce){.hqz-th,.hqz-bar i{transition:none}.hqz-th:hover{transform:none}}' +
+    '@media (max-width:420px){.hqz{padding:10px}.hqz-card{padding:22px 16px 18px;border-radius:22px;max-height:calc(100dvh - 20px)}.hqz h2{font-size:22px}.hqz-q{font-size:19px}.hqz-th{min-height:106px;padding:14px 8px 12px}.hqz-ic{font-size:34px}.hqz .b3{width:100%}.hqz-lv{min-height:88px;padding:28px 12px 12px}}' +
+    '@media (prefers-reduced-motion:reduce){.hqz-th,.hqz-lv,.hqz-bar i{transition:none}.hqz-th:hover{transform:none}}' +
     'html.hqz-lock{overflow:hidden}';
 
-  var box, card, body, opener = null, theme = null, qs = [], ans = [], i = 0;
-  /* saved runs: { theme: { ids:[…], a:[1,0,…], ts } } */
+  var box, card, body, opener = null, theme = null, set = null, qs = [], ans = [], i = 0;
+  /* saved runs: { set: { ids:[…], a:[1,0,…], ts } } */
   function runs() { var r = jGet(RUN); return r && typeof r === 'object' ? r : {}; }
-  function runOf(t) { var r = runs()[t]; return r && r.ids && r.a && r.ids.length && r.a.length < r.ids.length ? r : null; }
-  function saveRun() { var r = runs(); r[theme] = { ids: qs.map(function (q) { return q.id; }), a: ans, ts: Date.now() }; lsSet(RUN, JSON.stringify(r)); }
-  function dropRun(t) { var r = runs(); delete r[t]; lsSet(RUN, JSON.stringify(r)); }
-  function pending(t) { var r = jGet(RES); return r && r.theme === t && !r.seen ? r : null; }
+  function runOf(s) { var r = runs()[s]; return r && r.ids && r.a && r.ids.length && r.a.length < r.ids.length ? r : null; }
+  function saveRun() { var r = runs(); r[set] = { ids: qs.map(function (q) { return q.id; }), a: ans, ts: Date.now() }; lsSet(RUN, JSON.stringify(r)); }
+  function dropRun(s) { var r = runs(); delete r[s]; lsSet(RUN, JSON.stringify(r)); }
+  function pending(s) { var r = jGet(RES); return r && r.v === 2 && r.set === s && !r.seen ? r : null; }
+  function lastSet() { var s = lsGet(KEY); return s && APPLV[s] ? s : null; }
 
   function build() {
     if (box) return;
@@ -157,12 +207,13 @@
       var t = e.target;
       if (t.closest('[data-hqz-close]')) { close(); return; }
       if (t.closest('a[href]')) { close(); return; }  /* going to the app: let the page's own link handling (e.g. the language note) run */
-      var th = t.closest('.hqz-th'); if (th) { start(th.getAttribute('data-th')); return; }
+      var th = t.closest('.hqz-th'); if (th) { levels(th.getAttribute('data-th')); return; }
+      var lv = t.closest('.hqz-lv'); if (lv) { start(lv.getAttribute('data-set')); return; }
       var o = t.closest('.hqz-o'); if (o && !o.disabled) { answer(o); return; }
       if (t.closest('[data-hqz-next]')) { i++; draw(); return; }
-      if (t.closest('[data-hqz-again]')) { start(theme, true); return; }
+      if (t.closest('[data-hqz-again]')) { start(set, true); return; }
       if (t.closest('[data-hqz-pick]')) { picker(); return; }
-      if (t.closest('[data-hqz-retry]')) { start(theme); return; }
+      if (t.closest('[data-hqz-retry]')) { start(set); return; }
     });
     box.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') { e.preventDefault(); close(); return; }
@@ -178,45 +229,72 @@
   function open(btn) {
     build(); opener = btn || null;
     box.hidden = false; document.documentElement.classList.add('hqz-lock');
-    picker(); load().catch(function () {});
+    picker(); meta();
   }
   function close() {
     if (!box || box.hidden) return;
     box.hidden = true; document.documentElement.classList.remove('hqz-lock');
     if (opener) try { opener.focus(); } catch (e) {}
   }
+  function badge(s) {
+    var r = runOf(s), done = !r && pending(s);
+    return r ? '<span class="hqz-run">▶ ' + r.a.length + '/' + r.ids.length + '</span>' : done ? '<span class="hqz-run">✓ ' + done.total + '/' + done.total + '</span>' : '';
+  }
   function picker() {
-    var last = lsGet(KEY);
+    var last = lastSet(), lt = last ? themeOf(last) : null;
     body.innerHTML = '<h2 id="hqz-t">' + esc(U.title) + '</h2><p class="hqz-sub">' + esc(U.sub) + '</p><div class="hqz-grid">' +
       THEMES.map(function (t) {
-        var on = t[0] === last, r = runOf(t[0]), done = !r && pending(t[0]);
-        return '<button type="button" class="hqz-th' + (on ? ' on' : '') + '" data-th="' + t[0] + '">' + (on ? '<span class="hqz-last">' + esc(U.last) + '</span>' : '') +
-          (r ? '<span class="hqz-run">▶ ' + r.a.length + '/' + r.ids.length + '</span>' : done ? '<span class="hqz-run">✓ ' + done.total + '/' + done.total + '</span>' : '') +
+        var on = t[0] === lt, sets = (on ? [last] : []).concat(LEVELS[t[0]]), b = '';
+        for (var k = 0; k < sets.length && !b; k++) b = badge(sets[k]);   /* a run in progress or a result waiting: the last level first */
+        return '<button type="button" class="hqz-th' + (on ? ' on' : '') + '" data-th="' + t[0] + '">' + (on ? '<span class="hqz-last">' + esc(U.last) + '</span>' : '') + b +
           '<span class="hqz-ic" aria-hidden="true">' + t[1] + '</span><span class="hqz-tx"><span class="hqz-nm">' + esc(U[t[0]]) + '</span><span class="hqz-ds">' + esc(U['d_' + t[0]]) + '</span></span></button>';
       }).join('') + '</div><p class="hqz-sub" style="margin:14px 0 0;font-size:13px">' + esc(U.saved) + '</p>';
-    focusFirst(last ? '.hqz-th.on' : '.hqz-th');
+    focusFirst(lt ? '.hqz-th.on' : '.hqz-th');
   }
-  function start(t, fresh) {
-    theme = t; lsSet(KEY, t);
-    try { if (fresh !== false && window.twgTrack && !runOf(t)) window.twgTrack('quiz_start', t); } catch (e) {}
+  /* how many questions of a set exist in this language (from sets.json): a note when some stay in English */
+  function enNote(s) {
+    var m = META && META.sets && META.sets[s] && META.sets[s].native, n = m && m[LANG];
+    if (LANG === 'en' || n == null || n >= N) return '';
+    return '<span class="hqz-en">' + esc(n === 0 ? U.en_all : U.en_part) + '</span>';
+  }
+  var LD = { 1: 'ld1', 2: 'ld2', 3: 'ld3', 4: 'ld4' };
+  function levels(t) {
+    theme = t; var sets = LEVELS[t] || [];
+    if (sets.length === 1) return start(sets[0]);
+    var last = lastSet();
+    var draw = function () {
+      body.innerHTML = '<div class="hqz-head"><span class="hqz-chip"><span aria-hidden="true">' + emo(t) + '</span>' + esc(U[t]) + '</span></div>' +
+        '<h2 id="hqz-t" tabindex="-1">' + esc(U.lv_t) + '</h2><p class="hqz-sub">' + esc(U.lv_s) + '</p><div class="hqz-lvg">' +
+        sets.map(function (s) {
+          var on = s === last, n = lvNum(s);
+          return '<button type="button" class="hqz-lv' + (on ? ' on' : '') + '" data-set="' + s + '">' + (on ? '<span class="hqz-last">' + esc(U.last) + '</span>' : '') + badge(s) +
+            '<span class="hqz-nm">' + esc(lvName(s)) + '</span><span class="hqz-ds">' + esc(U[LD[n]]) + '</span>' + enNote(s) + '</button>';
+        }).join('') + '</div><div class="hqz-row hqz-back"><button type="button" class="hqz-lk" data-hqz-pick>← ' + esc(U.change) + '</button></div>';
+    };
+    draw(); focusFirst(last && themeOf(last) === t ? '.hqz-lv.on' : '.hqz-lv');
+    if (!META) meta().then(function () { if (theme === t && body.querySelector('.hqz-lvg')) { var f = document.activeElement && document.activeElement.getAttribute('data-set'); draw(); var el = f && body.querySelector('.hqz-lv[data-set="' + f + '"]'); if (el) el.focus(); } });
+  }
+  function start(s, fresh) {
+    set = s; theme = themeOf(s); lsSet(KEY, s);
+    try { if (fresh !== false && window.twgTrack && !runOf(s)) window.twgTrack('quiz_start', theme + (s === 'mix' ? '' : '_l' + lvNum(s))); } catch (e) {}
     body.innerHTML = '<p class="hqz-sub" aria-live="polite">…</p>';
-    load().then(function (B) {
-      /* the fixed set of the theme, in its order (the same questions every time) */
-      var pool = (t === 'mix' ? (B.mix || []).map(function (id) { return BY[id]; }) : (B[t] || []).slice()).filter(Boolean);
-      if (!pool.length) throw new Error('empty');
-      var r = fresh ? null : runOf(t);
+    load(s).then(function (B) {
+      /* the fixed set, in its order (the same questions every time) */
+      var pool = B.qs.slice();
+      var r = fresh ? null : runOf(s);
       if (r && r.ids.join() !== pool.map(function (q) { return q.id; }).join()) r = null;   /* the set changed since: start again */
-      if (!r && !fresh && pending(t)) { qs = []; ans = []; return gate(pending(t)); }
+      if (!r && !fresh && pending(s)) { qs = []; ans = []; return gate(pending(s)); }
       qs = pool; ans = r ? r.a.slice(0, pool.length) : []; i = ans.length; saveRun(); draw();
     }).catch(function () {
       body.innerHTML = '<h2 id="hqz-t">' + esc(U.title) + '</h2><p class="hqz-err" role="alert">' + esc(U.err) + '</p><div class="hqz-row"><button type="button" class="b3 b3p sm" data-hqz-retry>↻</button><button type="button" class="b3 b3g sm" data-hqz-pick>' + esc(U.change) + '</button></div>';
       focusFirst('[data-hqz-retry]');
     });
   }
+  function qTheme(q) { return set === 'mix' ? q.t : theme; }
   function draw() {
     if (i >= qs.length) return finish();
-    var q = qs[i], ord = shuffle(q.o.map(function (_, k) { return k; })), QL = q.x ? ' lang="en" dir="auto"' : '';
-    body.innerHTML = '<div class="hqz-head"><span class="hqz-chip"><span aria-hidden="true">' + emo(q.th) + '</span>' + esc(U[q.th]) + '</span><span class="hqz-n">' + (i + 1) + ' / ' + qs.length + '</span></div>' +
+    var q = qs[i], ord = shuffle(q.o.map(function (_, k) { return k; })), QL = q.x ? ' lang="en" dir="auto"' : '', qt = qTheme(q);
+    body.innerHTML = '<div class="hqz-head"><span class="hqz-chip"><span aria-hidden="true">' + emo(qt) + '</span>' + esc(U[qt]) + (set === 'mix' ? '' : ' · ' + esc(lvName(set))) + '</span><span class="hqz-n">' + (i + 1) + ' / ' + qs.length + '</span></div>' +
       '<div class="hqz-bar" role="progressbar" aria-valuemin="0" aria-valuemax="' + qs.length + '" aria-valuenow="' + i + '"><i style="width:' + (i / qs.length * 100) + '%"></i></div>' +
       '<h2 class="hqz-q" id="hqz-t" tabindex="-1"' + QL + '>' + esc(q.q) + '</h2>' +
       ord.map(function (k) { return '<button type="button" class="hqz-o" data-o="' + k + '"' + QL + '>' + esc(q.o[k]) + '</button>'; }).join('') +
@@ -225,33 +303,36 @@
     focusFirst('.hqz-q');
   }
   function answer(b) {
-    /* no result on the home: the answer is only recorded (right/wrong, the correct option and the explanation are shown
-       in the app after sign-up, in the "review your answers" part of the result screen) */
-    ans[i] = +b.getAttribute('data-o'); saveRun();
-    [].forEach.call(body.querySelectorAll('.hqz-o'), function (x) { x.disabled = true; });
-    b.classList.add('sel'); b.setAttribute('aria-pressed', 'true');
+    /* right or wrong at once, the correct option highlighted, the explanation; the score itself is shown only in the app */
+    var k = +b.getAttribute('data-o'), q = qs[i], good = k === 0, QL = q.x ? ' lang="en" dir="auto"' : '';
+    ans[i] = k; saveRun();
+    [].forEach.call(body.querySelectorAll('.hqz-o'), function (x) {
+      x.disabled = true; var c = x.getAttribute('data-o') === '0';
+      if (c) x.classList.add('ok'); else if (x === b) x.classList.add('ko');
+    });
+    b.setAttribute('aria-pressed', 'true');
     var lastQ = i + 1 >= qs.length;
-    body.querySelector('.hqz-live').innerHTML = '<p class="hqz-sv">✓ ' + esc(U.ans) + '</p>' +
+    body.querySelector('.hqz-live').innerHTML = '<p class="hqz-vd ' + (good ? 'ok' : 'ko') + '">' + (good ? '✓ ' : '✗ ') + esc(tx(good ? 'm_ok' : 'm_ko')) + '</p>' +
+      '<div class="hqz-fb">' + (good ? '' : '<p><b>' + esc(U.right) + '</b> <span' + QL + '>' + esc(q.o[0]) + '</span></p>') + '<p' + QL + '>' + esc(q.e) + '</p></div>' +
       '<button type="button" class="b3 b3p sm" data-hqz-next>' + esc(lastQ ? U.fin : tx('m_next')) + ' →</button>';
     var nx = body.querySelector('[data-hqz-next]'); try { nx.focus({ preventScroll: true }); } catch (e) { nx.focus(); }
-    try { nx.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (e) {}
+    try { body.querySelector('.hqz-vd').scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (e) {}
   }
   /* the questions are done: save the result for the app and ask for the free account (the score is shown there) */
   function finish() {
-    try { if (window.twgTrack) window.twgTrack('quiz_done', theme); } catch (e) {}
-    var topics = {}, good = 0;
-    qs.forEach(function (q, k) { var t = topics[q.t] || (topics[q.t] = [0, 0]); t[1]++; if (ans[k] === 0) { t[0]++; good++; } });
-    /* a: the chosen option of each question (0 = correct), for the review in the app */
-    var res = { v: 1, theme: theme, score: good, total: qs.length, topics: topics, a: qs.map(function (q, k) { return [q.id, ans[k]]; }), ts: Date.now(), lang: LANG, home: location.pathname, seen: 0 };
-    lsSet(RES, JSON.stringify(res)); dropRun(theme); gate(res);
+    try { if (window.twgTrack) window.twgTrack('quiz_done', theme + (set === 'mix' ? '' : '_l' + lvNum(set))); } catch (e) {}
+    var topics = {}, good = 0, B = BANK[set] || {}, tn = {};
+    qs.forEach(function (q, k) { var t = topics[q.t] || (topics[q.t] = [0, 0]); t[1]++; if (ans[k] === 0) { t[0]++; good++; } if (B.tn && B.tn[q.t]) tn[q.t] = B.tn[q.t]; });
+    /* a: the chosen option of each question (0 = correct), for the review in the app; tn: the topic names in this language */
+    var res = { v: 2, theme: theme, set: set, lvl: lvNum(set), score: good, total: qs.length, topics: topics, tn: tn, a: qs.map(function (q, k) { return [q.id, ans[k]]; }), ts: Date.now(), lang: LANG, home: location.pathname, seen: 0 };
+    lsSet(RES, JSON.stringify(res)); dropRun(set); gate(res);
   }
   function gate(res) {
-    var pc = res.total ? Math.round(res.score / res.total * 100) : 0;
     body.innerHTML = '<div class="hqz-end"><div class="hqz-big" aria-hidden="true">' + emo(res.theme) + '</div>' +
       '<div class="hqz-qm" aria-hidden="true">?/' + res.total + '</div>' +
       '<h2 id="hqz-t" tabindex="-1">' + esc(U.g_t) + '</h2><p>' + esc(U.g_p) + '</p>' +
-      '<div class="hqz-row"><a class="b3 b3p" data-hqz-go href="' + esc(appUrl(res.theme, pc, 'signup')) + '">' + esc(U.g_b) + ' →</a></div>' +
-      '<div class="hqz-row" style="margin-top:8px"><a class="hqz-lk" href="' + esc(appUrl(res.theme, pc, 'login')) + '">' + esc(U.g_l) + '</a></div>' +
+      '<div class="hqz-row"><a class="b3 b3p" data-hqz-go href="' + esc(appUrl(res.set, 'signup')) + '">' + esc(U.g_b) + ' →</a></div>' +
+      '<div class="hqz-row" style="margin-top:8px"><a class="hqz-lk" href="' + esc(appUrl(res.set, 'login')) + '">' + esc(U.g_l) + '</a></div>' +
       '<p class="hqz-gn">' + esc(U.g_n) + '</p>' +
       '<div class="hqz-row"><button type="button" class="b3 b3g sm" data-hqz-again>↻ ' + esc(U.again) + '</button><button type="button" class="b3 b3g sm" data-hqz-pick>' + esc(U.change) + '</button></div></div>';
     focusFirst('#hqz-t');
@@ -261,7 +342,7 @@
     var btns = document.querySelectorAll('.ctas3 a[href*="go=lvquick"]');
     [].forEach.call(btns, function (a) {
       if (a.getAttribute('data-hqz')) return; a.setAttribute('data-hqz', '1'); a.setAttribute('aria-haspopup', 'dialog');
-      ['pointerenter', 'focus', 'touchstart'].forEach(function (ev) { a.addEventListener(ev, function () { load().catch(function () {}); }, { once: true, passive: true }); });
+      ['pointerenter', 'focus', 'touchstart'].forEach(function (ev) { a.addEventListener(ev, function () { meta(); }, { once: true, passive: true }); });
     });
   }
   /* window, capture phase: runs before the homes' own document-level link handlers (the language note before the app) */
