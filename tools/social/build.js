@@ -29,7 +29,7 @@ const SAFE = args.includes('--safe');
 const FFMPEG = fs.existsSync('/usr/local/bin/ffmpeg') ? '/usr/local/bin/ffmpeg' : 'ffmpeg';
 
 const batch = require(`./batches/${batchName}.js`);
-const OUT = path.join(R.ROOT, batch.out);
+const OUT = process.env.SOCIAL_OUT ? path.resolve(process.env.SOCIAL_OUT) : path.join(R.ROOT, batch.out);
 const TMP = fs.mkdtempSync(path.join(os.tmpdir(), 'twg-social-'));
 const warnings = [];
 
@@ -91,9 +91,11 @@ async function buildPosts(browser) {
     mk(dir);
     fs.readdirSync(dir).filter((f) => f.endsWith('.png')).forEach((f) => fs.unlinkSync(path.join(dir, f)));
     const total = post.slides.length;
-    if (total < 3 || total > 6) warnings.push(`${post.id}: ${total} slides (brief: 3–6)`);
+    const [smin, smax] = batch.slideRange || [3, 6];
+    if (total < smin || total > smax) warnings.push(`${post.id}: ${total} slides (brief: ${smin}–${smax})`);
     for (let i = 0; i < total; i++) {
-      const page = await open(browser, R.feedSlide(post.slides[i], i + 1, total), 1080, 1350);
+      const html = batch.v2 ? R.feedSlide2(post, post.slides[i], i + 1, total) : R.feedSlide(post.slides[i], i + 1, total);
+      const page = await open(browser, html, 1080, 1350);
       await check(page, `${post.id} #${i + 1}`);
       await page.screenshot({ path: path.join(dir, `${post.id}_${pad(i + 1)}.png`), clip: { x: 0, y: 0, width: 1080, height: 1350 } });
       await page.close();
@@ -108,7 +110,8 @@ async function buildStories(browser) {
   for (const st of batch.stories) {
     for (const kind of ['q', 'a']) {
       const name = `${st.id}_${kind === 'q' ? '1-question' : '2-answer'}.png`;
-      const page = await open(browser, safeOverlay(R.storyFrame({ kind, ...st[kind] })), 1080, 1920);
+      const html = batch.v2 ? R.storyFrame2(st, { kind, ...st[kind] }) : R.storyFrame({ kind, ...st[kind] });
+      const page = await open(browser, safeOverlay(html), 1080, 1920);
       await check(page, name, { safeTop: 250, safeBottom: 300 });
       await page.screenshot({ path: path.join(dir, name), clip: { x: 0, y: 0, width: 1080, height: 1920 } });
       await page.close();
@@ -121,8 +124,10 @@ const keyTime = (s) => Math.min(s.end - 0.4, s.start + 0.9 + (s.lines || []).len
 
 async function openReel(browser, reel) {
   for (const s of reel.scenes) if (s.goat && R.FORBIDDEN_GOATS.includes(s.goat.src)) throw new Error('logo goat used in reel ' + reel.id);
-  const tpl = fs.readFileSync(path.join(__dirname, 'templates', 'reel.html'), 'utf8');
-  const html = safeOverlay(tpl.replace('<!--BASE-->', `<base href="file://${R.ROOT}/"><script>window.REEL=${JSON.stringify(reel)};</script>`));
+  if (batch.v2) for (const s of reel.scenes) if (s.goat && reel.course !== 'wine' && !R.NEUTRAL_GOATS.includes(s.goat.src)) throw new Error(`wine goat on ${reel.course} reel ${reel.id}`);
+  const tpl = fs.readFileSync(path.join(__dirname, 'templates', batch.reelTemplate || 'reel.html'), 'utf8');
+  const data = batch.v2 ? { ...reel, badge: R.badgeText(reel) } : reel;
+  const html = safeOverlay(tpl.replace('<!--BASE-->', `<base href="file://${R.ROOT}/"><script>window.REEL=${JSON.stringify(data)};</script>`));
   const page = await open(browser, html, 1080, 1920);
   await page.evaluate(() => window.reelReady);
   return page;
@@ -196,9 +201,42 @@ img.f{width:240px;height:300px;border-radius:10px;box-shadow:0 4px 14px rgba(0,0
 figcaption{font:600 16px/1 var(--sans);color:var(--muted);margin-top:6px}</style></head>
 <body><h1>@the.winegoat · ${batch.id}</h1><p class="m">Contact sheet for review: carousels (1080×1350), stories (1080×1920), reels (cover + one frame per scene).</p>${sec.join('')}</body></html>`;
   const page = await open(browser, html, 1900, 1000);
+  await page.screenshot({ path: path.join(OUT, batch.grid ? 'contact-sheet.png' : 'preview.png'), fullPage: true });
+  await page.close();
+  console.log(batch.grid ? 'contact-sheet.png' : 'preview.png');
+  if (batch.grid) await buildGrid(browser);
+}
+
+
+// Profile-grid preview (batch.grid): this batch's feed posts newest first, then the previous batch's,
+// cropped to the 4:5 grid tiles Instagram shows (reel covers are centre-cropped from 9:16).
+async function buildGrid(browser) {
+  const tile = (p) => {
+    const f = p.reel ? path.join(R.ROOT, p.dir, 'reels', `${p.id}_cover.png`) : path.join(R.ROOT, p.dir, 'posts', p.id, `${p.id}_01.png`);
+    return `<div class="t${p.old ? ' old' : ''}"><img src="file://${f}">${p.reel ? '<span class="rl">▶ Reel</span>' : '<span class="rl c">❐</span>'}${p.label ? `<span class="lb">${p.label}</span>` : ''}</div>`;
+  };
+  const dirRel = path.relative(R.ROOT, OUT);
+  const mine = batch.feed.map((id) => {
+    const reel = batch.reels.find((r) => r.id === id); const post = batch.posts.find((p) => p.id === id);
+    const it = reel || post;
+    return { id, reel: !!reel, dir: dirRel, label: `${R.badgeText(it)}` };
+  }).reverse();
+  const prev = batch.grid.prev.map((x) => ({ ...x, old: true })).reverse();
+  const legend = batch.grid.legend.map((l) => `<span><i style="background:${l.c}"></i>${l.t}</span>`).join('');
+  const html = `<!doctype html><html><head><meta charset="utf-8"><base href="file://${R.ROOT}/"><link rel="stylesheet" href="tools/social/templates/base.css">
+<style>html,body{width:1000px;height:auto;overflow:visible;background:#fff}body{padding:34px 30px;font-family:var(--sans)}
+h1{font:800 40px/1 var(--serif);color:#6e1532;margin-bottom:8px}p.m{color:#5c4a50;font:500 19px/1.35 var(--sans);margin-bottom:14px}
+.lg{display:flex;flex-wrap:wrap;gap:10px 22px;margin:0 0 18px}.lg span{display:inline-flex;align-items:center;gap:8px;font:700 18px/1 var(--sans);color:#2a1b20}.lg i{width:22px;height:22px;border-radius:6px;display:inline-block}
+.g{display:grid;grid-template-columns:repeat(3,1fr);gap:4px}.t{position:relative;aspect-ratio:4/5;overflow:hidden;background:#eee}.t img{width:100%;height:100%;object-fit:cover;object-position:center}
+.t .rl{position:absolute;right:10px;top:10px;background:rgba(0,0,0,.55);color:#fff;font:700 15px/1 var(--sans);padding:6px 9px;border-radius:8px}.t .rl.c{font-size:18px;padding:4px 8px}
+.t .lb{position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.92);color:#2a1b20;font:800 13px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;padding:6px 8px;border-radius:6px}
+.sep{grid-column:1/-1;font:800 16px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#5c4a50;padding:14px 4px 8px}</style></head>
+<body><h1>@the.winegoat · profile grid preview</h1><p class="m">${batch.grid.note}</p><div class="lg">${legend}</div>
+<div class="g">${mine.map(tile).join('')}${prev.map(tile).join('')}</div></body></html>`;
+  const page = await open(browser, html, 1000, 1000);
   await page.screenshot({ path: path.join(OUT, 'preview.png'), fullPage: true });
   await page.close();
-  console.log('preview.png');
+  console.log('preview.png (grid)');
 }
 
 (async () => {
