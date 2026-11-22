@@ -146,7 +146,7 @@ def place(path, lang, items, page_url):
     s = LD_RE.sub('', FIG_RE.sub('', s0))
     a = s.find('<article'); b = s.find('</main>')
     if a < 0 or b < 0: return 0, [f'{path}: no <article>/<main>']
-    h2 = [m.end() for m in re.finditer(r'<h2\b[^>]*>.*?</h2>', s[a:b], re.S)]
+    h2 = [m.end() for m in re.finditer(r'<h2\b(?![^>]*\bdata-arlocal)[^>]*>.*?</h2>', s[a:b], re.S)]  # local es-ar sections are not counted
     ins, warn = [], []
     for stem, k in items[:MAX_PER_PAGE]:
         if stem not in META: warn.append(f'{path}: unknown photo {stem}'); continue

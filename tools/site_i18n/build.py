@@ -26,6 +26,7 @@ import os, sys, re, json, html, glob, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import common as C, seg
 from es_ar_extra import es_ar  # tools/i18n/ar_rules.py (read-only) + extra guide forms
+import es_ar_local  # es-ar-local/<group>.txt: local sections, title, H1 and FAQ of the Argentine/Uruguayan pages
 
 e = html.escape
 SITE = C.SITE
@@ -203,6 +204,7 @@ def build_page(l, g, base, region, tr, lm, miss=None):
         if miss is not None: del miss[n:]
         return 'data-l="' + e(v, quote=True) + '"'
     doc = re.sub(r'data-l="([^"]*)"', dl, doc)
+    if l == 'es-ar': doc = es_ar_local.apply(g, doc)   # Argentina/Uruguay: own sections, title, H1, FAQ (after the voseo pass, never re-processed)
     code = C.HOME_HREF.get(l, l) if g == '_home' else C.href(l)
     doc = re.sub(r'<html\b[^>]*>', f'<html lang="{code}"' + (' dir="rtl"' if l in C.RTL else '') + '>', doc, count=1)
     doc = re.sub(r'(<link rel="canonical" href=")[^"]*(">)', lambda m: m.group(1) + SITE + url + m.group(2), doc, count=1)
