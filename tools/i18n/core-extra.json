@@ -379,250 +379,312 @@
  },
  "Daiginjō": {
   "ja": "大吟醸",
-  "zh-hant": "大吟釀"
+  "zh-hant": "大吟釀",
+  "ko": "다이긴죠"
  },
  "Futsū-shu": {
   "ja": "普通酒",
-  "zh-hant": "普通酒"
+  "zh-hant": "普通酒",
+  "ko": "후츠슈"
  },
  "Futsū-shu, nama, junmai, koshu": {
   "ja": "普通酒、生酒、純米、古酒",
-  "zh-hant": "普通酒、生酒、純米、古酒"
+  "zh-hant": "普通酒、生酒、純米、古酒",
+  "ko": "후츠슈, 나마, 준마이, 고슈"
  },
  "Ginjō": {
   "ja": "吟醸",
-  "zh-hant": "吟釀"
+  "zh-hant": "吟釀",
+  "ko": "긴죠"
  },
  "Ginjō (gin + jō).": {
   "ja": "吟醸（吟＋醸）。",
-  "zh-hant": "吟釀（gin + jō）。"
+  "zh-hant": "吟釀（gin + jō）。",
+  "ko": "긴죠(긴 + 죠)."
  },
  "Ginjō vs junmai ginjō": {
   "ja": "吟醸と純米吟醸",
-  "zh-hant": "吟釀與純米吟釀"
+  "zh-hant": "吟釀與純米吟釀",
+  "ko": "긴죠와 준마이 긴죠"
  },
  "Honjōzō": {
   "ja": "本醸造",
-  "zh-hant": "本釀造"
+  "zh-hant": "本釀造",
+  "ko": "혼죠조"
  },
  "Honjōzō (hon + jō + zō).": {
   "ja": "本醸造（本＋醸＋造）。",
-  "zh-hant": "本釀造（hon + jō + zō）。"
+  "zh-hant": "本釀造（hon + jō + zō）。",
+  "ko": "혼죠조(혼 + 죠 + 조)."
  },
  "Junmai": {
   "ja": "純米",
-  "zh-hant": "純米"
+  "zh-hant": "純米",
+  "ko": "준마이"
  },
  "Junmai (jun + mai).": {
   "ja": "純米（純＋米）。",
-  "zh-hant": "純米（jun + mai）。"
+  "zh-hant": "純米（jun + mai）。",
+  "ko": "준마이(준 + 마이)."
  },
  "Junmai daiginjō": {
   "ja": "純米大吟醸",
-  "zh-hant": "純米大吟釀"
+  "zh-hant": "純米大吟釀",
+  "ko": "준마이 다이긴죠"
  },
  "Junmai ginjō": {
   "ja": "純米吟醸",
-  "zh-hant": "純米吟釀"
+  "zh-hant": "純米吟釀",
+  "ko": "준마이 긴죠"
  },
  "Junmai, honjōzō, ginjō, daiginjō": {
   "ja": "純米、本醸造、吟醸、大吟醸",
-  "zh-hant": "純米、本釀造、吟釀、大吟釀"
+  "zh-hant": "純米、本釀造、吟釀、大吟釀",
+  "ko": "준마이, 혼죠조, 긴죠, 다이긴죠"
  },
  "Masu": {
   "ja": "枡",
-  "zh-hant": "木升（masu）"
+  "zh-hant": "木升（masu）",
+  "ko": "마스"
  },
  "Nama": {
   "ja": "生酒",
-  "zh-hant": "生酒"
+  "zh-hant": "生酒",
+  "ko": "나마"
  },
  "Nama / nama-zake": {
   "ja": "生酒（なまざけ）",
-  "zh-hant": "生酒（nama／nama-zake）"
+  "zh-hant": "生酒（nama／nama-zake）",
+  "ko": "나마 / 나마자케"
  },
  "Nama-hine": {
   "ja": "生老ね",
-  "zh-hant": "生老香（nama-hine）"
+  "zh-hant": "生老香（nama-hine）",
+  "ko": "나마히네"
  },
  "Nigori": {
   "ja": "にごり酒",
-  "zh-hant": "濁酒"
+  "zh-hant": "濁酒",
+  "ko": "니고리"
  },
  "Nigori, tokkuri, masu, o-choko": {
   "ja": "にごり酒、徳利、枡、お猪口",
-  "zh-hant": "濁酒、德利、木升、豬口"
+  "zh-hant": "濁酒、德利、木升、豬口",
+  "ko": "니고리, 도쿠리, 마스, 오쵸코"
  },
  "Nihon-shu": {
   "ja": "日本酒",
-  "zh-hant": "日本酒（nihon-shu）"
+  "zh-hant": "日本酒（nihon-shu）",
+  "ko": "니혼슈"
  },
  "O-choko": {
   "ja": "お猪口",
-  "zh-hant": "豬口（o-choko）"
+  "zh-hant": "豬口（o-choko）",
+  "ko": "오쵸코"
  },
  "Tokkuri": {
   "ja": "徳利",
-  "zh-hant": "德利（tokkuri）"
+  "zh-hant": "德利（tokkuri）",
+  "ko": "도쿠리"
  },
  "吟 (gin)": {
   "ja": "吟（ぎん）",
-  "zh-hant": "吟（gin）"
+  "zh-hant": "吟（gin）",
+  "ko": "吟(긴)"
  },
  "吟 (gin) + 醸 (jō) = ginjō.": {
   "ja": "吟（ぎん）＋ 醸（じょう）＝ 吟醸（ぎんじょう）。",
-  "zh-hant": "吟（gin）+ 醸（jō）= 吟醸（ginjō）。"
+  "zh-hant": "吟（gin）+ 醸（jō）= 吟醸（ginjō）。",
+  "ko": "吟(긴) + 醸(죠) = 긴죠."
  },
  "大 (dai)": {
   "ja": "大（だい）",
-  "zh-hant": "大（dai）"
+  "zh-hant": "大（dai）",
+  "ko": "大(다이)"
  },
  "大 (dai) + 吟 (gin) + 醸 (jō) = daiginjō.": {
   "ja": "大（だい）＋ 吟（ぎん）＋ 醸（じょう）＝ 大吟醸（だいぎんじょう）。",
-  "zh-hant": "大（dai）+ 吟（gin）+ 醸（jō）= 大吟醸（daiginjō）。"
+  "zh-hant": "大（dai）+ 吟（gin）+ 醸（jō）= 大吟醸（daiginjō）。",
+  "ko": "大(다이) + 吟(긴) + 醸(죠) = 다이긴죠."
  },
  "米 (mai)": {
   "ja": "米（まい）",
-  "zh-hant": "米（mai）"
+  "zh-hant": "米（mai）",
+  "ko": "米(마이)"
  },
  "純米 junmai · 本醸造 honjōzō · 吟醸 ginjō · 大吟醸 daiginjō": {
   "ja": "純米（じゅんまい）· 本醸造（ほんじょうぞう）· 吟醸（ぎんじょう）· 大吟醸（だいぎんじょう）",
-  "zh-hant": "純米 junmai · 本醸造 honjōzō · 吟醸 ginjō · 大吟醸 daiginjō"
+  "zh-hant": "純米 junmai · 本醸造 honjōzō · 吟醸 ginjō · 大吟醸 daiginjō",
+  "ko": "純米 준마이 · 本醸造 혼죠조 · 吟醸 긴죠 · 大吟醸 다이긴죠"
  },
  "APA · American IPA · hazy IPA": {
   "ja": "APA · アメリカンIPA · ヘイジーIPA",
-  "zh-hant": "APA · 美式 IPA · 霧濁 IPA"
+  "zh-hant": "APA · 美式 IPA · 霧濁 IPA",
+  "ko": "APA · 아메리칸 IPA · 헤이지 IPA"
  },
  "Ambrée": {
   "ja": "Ambrée（アンブレ）",
-  "zh-hant": "Ambrée"
+  "zh-hant": "Ambrée",
+  "ko": "Ambrée"
  },
  "American IPA": {
   "ja": "アメリカンIPA",
-  "zh-hant": "美式 IPA"
+  "zh-hant": "美式 IPA",
+  "ko": "아메리칸 IPA"
  },
  "American pale ale": {
   "ja": "アメリカン・ペールエール",
-  "zh-hant": "美式淡色艾爾"
+  "zh-hant": "美式淡色艾爾",
+  "ko": "아메리칸 페일 에일"
  },
  "American pale ale, American IPA, hazy IPA": {
   "ja": "アメリカン・ペールエール、アメリカンIPA、ヘイジーIPA",
-  "zh-hant": "美式淡色艾爾、美式 IPA、霧濁 IPA"
+  "zh-hant": "美式淡色艾爾、美式 IPA、霧濁 IPA",
+  "ko": "아메리칸 페일 에일, 아메리칸 IPA, 헤이지 IPA"
  },
  "Barley wine": {
   "ja": "バーレーワイン",
-  "zh-hant": "大麥酒"
+  "zh-hant": "大麥酒",
+  "ko": "발리 와인"
  },
  "Berliner weisse": {
   "ja": "ベルリナー・ヴァイセ",
-  "zh-hant": "柏林白啤酒"
+  "zh-hant": "柏林白啤酒",
+  "ko": "베를리너 바이세"
  },
  "Bitter": {
   "ja": "ビター",
-  "zh-hant": "英式苦啤（Bitter）"
+  "zh-hant": "英式苦啤（Bitter）",
+  "ko": "비터"
  },
  "Blanche": {
   "ja": "Blanche（ブランシュ）",
-  "zh-hant": "Blanche"
+  "zh-hant": "Blanche",
+  "ko": "Blanche"
  },
  "Blonde ale": {
   "ja": "ブロンドエール",
-  "zh-hant": "金色艾爾（Blonde ale）"
+  "zh-hant": "金色艾爾（Blonde ale）",
+  "ko": "블론드 에일"
  },
  "Brettanomyces": {
   "ja": "ブレタノマイセス",
-  "zh-hant": "酒香酵母（Brettanomyces）"
+  "zh-hant": "酒香酵母（Brettanomyces）",
+  "ko": "브레타노마이세스"
  },
  "Brown ale": {
   "ja": "ブラウンエール",
-  "zh-hant": "棕色艾爾"
+  "zh-hant": "棕色艾爾",
+  "ko": "브라운 에일"
  },
  "Brune": {
   "ja": "Brune（ブリュヌ）",
-  "zh-hant": "Brune"
+  "zh-hant": "Brune",
+  "ko": "Brune"
  },
  "Dubbel": {
   "ja": "ダブル",
-  "zh-hant": "比利時雙料（Dubbel）"
+  "zh-hant": "比利時雙料（Dubbel）",
+  "ko": "두벨"
  },
  "Dubbel vs tripel": {
   "ja": "ダブルとトリペル",
-  "zh-hant": "比利時雙料與三料"
+  "zh-hant": "比利時雙料與三料",
+  "ko": "두벨과 트리펠"
  },
  "Dunkel": {
   "ja": "Dunkel（デュンケル）",
-  "zh-hant": "Dunkel"
+  "zh-hant": "Dunkel",
+  "ko": "Dunkel"
  },
  "Geuze (gueuze)": {
   "ja": "グーズ（geuze／gueuze）",
-  "zh-hant": "貴茲（Geuze／gueuze）"
+  "zh-hant": "貴茲（Geuze／gueuze）",
+  "ko": "괴즈(gueuze)"
  },
  "Golden ale": {
   "ja": "ゴールデンエール",
-  "zh-hant": "Golden ale"
+  "zh-hant": "Golden ale",
+  "ko": "골든 에일"
  },
  "Gueuze": {
   "ja": "Gueuze（グーズ）",
-  "zh-hant": "Gueuze"
+  "zh-hant": "Gueuze",
+  "ko": "Gueuze"
  },
  "Hazy IPA": {
   "ja": "ヘイジーIPA",
-  "zh-hant": "霧濁 IPA"
+  "zh-hant": "霧濁 IPA",
+  "ko": "헤이지 IPA"
  },
  "Hefeweizen": {
   "ja": "ヘーフェヴァイツェン",
-  "zh-hant": "Hefeweizen"
+  "zh-hant": "Hefeweizen",
+  "ko": "헤페바이첸"
  },
  "Imperial stout": {
   "ja": "インペリアル・スタウト",
-  "zh-hant": "帝國司陶特"
+  "zh-hant": "帝國司陶特",
+  "ko": "임페리얼 스타우트"
  },
  "India pale lager": {
   "ja": "インディア・ペールラガー",
-  "zh-hant": "印度淡色拉格"
+  "zh-hant": "印度淡色拉格",
+  "ko": "인디아 페일 라거"
  },
  "Munich dunkel": {
   "ja": "ミュンヘナー・デュンケル",
-  "zh-hant": "慕尼黑深色拉格"
+  "zh-hant": "慕尼黑深色拉格",
+  "ko": "뮌헨 둔켈"
  },
  "Munich helles": {
   "ja": "ミュンヘナー・ヘレス",
-  "zh-hant": "慕尼黑淡色拉格"
+  "zh-hant": "慕尼黑淡色拉格",
+  "ko": "뮌헨 헬레스"
  },
  "New England IPA": {
   "ja": "ニューイングランドIPA",
-  "zh-hant": "新英格蘭 IPA"
+  "zh-hant": "新英格蘭 IPA",
+  "ko": "뉴잉글랜드 IPA"
  },
  "Porter": {
   "ja": "ポーター",
-  "zh-hant": "波特"
+  "zh-hant": "波特",
+  "ko": "포터"
  },
  "Porter / stout": {
   "ja": "ポーター／スタウト",
-  "zh-hant": "波特／司陶特"
+  "zh-hant": "波特／司陶特",
+  "ko": "포터 / 스타우트"
  },
  "Saison": {
   "ja": "セゾン",
-  "zh-hant": "賽森（Saison）"
+  "zh-hant": "賽森（Saison）",
+  "ko": "세종"
  },
  "Tripel": {
   "ja": "トリペル",
-  "zh-hant": "比利時三料（Tripel）"
+  "zh-hant": "比利時三料（Tripel）",
+  "ko": "트리펠"
  },
  "Weissbier": {
   "ja": "ヴァイスビア",
-  "zh-hant": "德式小麥啤酒（Weissbier）"
+  "zh-hant": "德式小麥啤酒（Weissbier）",
+  "ko": "바이스비어"
  },
  "Weissbier / hefeweizen": {
   "ja": "ヴァイスビア／ヘーフェヴァイツェン",
-  "zh-hant": "德式小麥啤酒／hefeweizen"
+  "zh-hant": "德式小麥啤酒／hefeweizen",
+  "ko": "바이스비어 / 헤페바이첸"
  },
  "Witbier": {
   "ja": "ウィットビア",
-  "zh-hant": "比利時白啤酒（Witbier）"
+  "zh-hant": "比利時白啤酒（Witbier）",
+  "ko": "윗비어"
  },
  "Witbier / blanche": {
   "ja": "ウィットビア／blanche（ブランシュ）",
-  "zh-hant": "比利時白啤酒／blanche"
+  "zh-hant": "比利時白啤酒／blanche",
+  "ko": "윗비어 / blanche"
  }
 }
