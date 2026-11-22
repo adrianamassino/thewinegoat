@@ -25,7 +25,9 @@ async function d3(b, lg, w) {
   if (!(await p.$('.d4hub [data-d4u="D3"]'))) { bad(tag, "no D3 tab in the Diploma hub"); await ctx.close(); return; }
   await p.click('.d4hub [data-d4u="D3"]'); await p.waitForTimeout(150);
   const h = await p.evaluate(() => ({ avail: (document.querySelector(".d4avail") || {}).innerText || "", papers: document.querySelectorAll('.mockcard[data-d4="paper"]').length, exl: (document.querySelector(".d4exl") || {}).innerText || "", tx: document.querySelector(".d4hub").innerText }));
-  if (!h.avail || h.avail.length < 40) bad(tag, "no list of available regions");
+  const pending = await p.evaluate(() => !!(window.TWG_D3C && window.TWG_D3C.todo && window.TWG_D3C.todo.length));
+  if (pending && (!h.avail || h.avail.length < 40)) bad(tag, "no list of available regions");   /* shown only while chapters are still to come */
+  if (!pending && h.avail) bad(tag, "D3 is complete but the 'available so far' card is still shown");
   if (h.papers !== 4) bad(tag, "expected 4 practice papers, got", h.papers);
   if (!/55/.test(h.exl)) bad(tag, "exam line missing");
   if (/d4[A-Z]\w+/.test(h.tx)) bad(tag, "untranslated key in hub", h.tx.match(/d4[A-Z]\w+/)[0]);
