@@ -153,22 +153,22 @@
       d4PapT: "Simulazione di teoria {n}", d4PapS: "Simulazione di degustazione {n}", d4PapTD: "{q} domande aperte in {m} minuti · soglia 55%", d4PapSD: "{n} note di degustazione in {m} minuti · soglia 55%",
       d4PIntroS: "Formato di allenamento: {n} note di degustazione in {m} minuti. All'esame i vini sono serviti alla cieca; qui scrivi la nota completa di un esempio tipico dello stile indicato. Poi consegna: ogni nota viene corretta e conta per la regola del 55%.",
       d4PNote3: "I tempi sono quelli dell'esame; il numero di domande per prova e la ripartizione dei punti sono una nostra scelta di allenamento, non quelli dell'esame. Le domande arrivano dalle regioni già disponibili.",
-      d4Av: "Regioni disponibili finora", d4AvP: "L'unità D3 viene pubblicata una regione alla volta. Per le regioni qui sotto sono pronti lezioni, quiz, domande aperte, note di degustazione e flashcard.", d4Soon: "In arrivo, nell'ordine di studio" },
+      d4TasD0: "{n} note di degustazione da scrivere e correggere", d4Av: "Regioni disponibili finora", d4AvP: "L'unità D3 viene pubblicata una regione alla volta. Per le regioni qui sotto sono pronti lezioni, quiz, domande aperte, note di degustazione e flashcard.", d4Soon: "In arrivo, nell'ordine di studio" },
     fr: { d4ExD3: "théorie : deux épreuves écrites à réponses ouvertes le premier jour (2 heures et 80 minutes) ; dégustation : 12 vins à l'aveugle le second jour, en deux épreuves de 90 minutes. Il faut au moins 55 % en théorie et en dégustation",
       d4PapT: "Épreuve blanche de théorie {n}", d4PapS: "Épreuve blanche de dégustation {n}", d4PapTD: "{q} questions ouvertes en {m} minutes · seuil 55 %", d4PapSD: "{n} notes de dégustation en {m} minutes · seuil 55 %",
       d4PIntroS: "Format d'entraînement : {n} notes de dégustation en {m} minutes. À l'examen les vins sont servis à l'aveugle ; ici vous rédigez la note complète d'un exemple typique du style indiqué. Puis rendez la copie : chaque note est corrigée et compte pour la règle des 55 %.",
       d4PNote3: "Les durées sont celles de l'examen ; le nombre de questions par épreuve et la répartition des points sont notre choix d'entraînement, pas ceux de l'examen. Les questions portent sur les régions déjà disponibles.",
-      d4Av: "Régions disponibles à ce jour", d4AvP: "L'unité D3 est publiée région par région. Pour les régions ci-dessous, leçons, quiz, questions ouvertes, notes de dégustation et flashcards sont prêts.", d4Soon: "À venir, dans l'ordre d'étude" },
+      d4TasD0: "{n} notes de dégustation à rédiger et à corriger", d4Av: "Régions disponibles à ce jour", d4AvP: "L'unité D3 est publiée région par région. Pour les régions ci-dessous, leçons, quiz, questions ouvertes, notes de dégustation et flashcards sont prêts.", d4Soon: "À venir, dans l'ordre d'étude" },
     en: { d4ExD3: "theory: two open-response written papers on day one (2 hours and 80 minutes); tasting: 12 wines served blind on day two, in two 90-minute papers. At least 55% is needed in both theory and tasting",
       d4PapT: "Theory practice paper {n}", d4PapS: "Tasting practice paper {n}", d4PapTD: "{q} open-response questions in {m} minutes · pass mark 55%", d4PapSD: "{n} tasting notes in {m} minutes · pass mark 55%",
       d4PIntroS: "Practice format: {n} tasting notes in {m} minutes. In the exam the wines are served blind; here you write the full note for a typical example of the style named. Then hand in: every note is marked and counts towards the 55% rule.",
       d4PNote3: "The timings are those of the exam; the number of questions per paper and the split of marks are our own practice design, not the exam's. Questions are drawn from the regions already available.",
-      d4Av: "Regions available so far", d4AvP: "Unit D3 is being published one region at a time. For the regions below, lessons, quizzes, written questions, tasting notes and flashcards are ready.", d4Soon: "Still to come, in study order" },
+      d4TasD0: "{n} tasting notes to write and mark", d4Av: "Regions available so far", d4AvP: "Unit D3 is being published one region at a time. For the regions below, lessons, quizzes, written questions, tasting notes and flashcards are ready.", d4Soon: "Still to come, in study order" },
     es: { d4ExD3: "teoría: dos pruebas escritas de respuesta abierta el primer día (2 horas y 80 minutos); cata: 12 vinos a ciegas el segundo día, en dos pruebas de 90 minutos. Hace falta al menos el 55 % tanto en teoría como en cata",
       d4PapT: "Simulacro de teoría {n}", d4PapS: "Simulacro de cata {n}", d4PapTD: "{q} preguntas abiertas en {m} minutos · aprobado 55 %", d4PapSD: "{n} notas de cata en {m} minutos · aprobado 55 %",
       d4PIntroS: "Formato de práctica: {n} notas de cata en {m} minutos. En el examen los vinos se sirven a ciegas; aquí escribes la nota completa de un ejemplo típico del estilo indicado. Después entrega: cada nota se corrige y cuenta para la regla del 55 %.",
       d4PNote3: "Los tiempos son los del examen; el número de preguntas por prueba y el reparto de puntos son nuestro diseño de práctica, no los del examen. Las preguntas salen de las regiones ya disponibles.",
-      d4Av: "Regiones disponibles hasta ahora", d4AvP: "La unidad D3 se publica región por región. Para las regiones de abajo ya están listas las lecciones, los quiz, las preguntas abiertas, las notas de cata y las flashcards.", d4Soon: "Próximamente, en el orden de estudio" } };
+      d4TasD0: "{n} notas de cata para escribir y corregir", d4Av: "Regiones disponibles hasta ahora", d4AvP: "La unidad D3 se publica región por región. Para las regiones de abajo ya están listas las lecciones, los quiz, las preguntas abiertas, las notas de cata y las flashcards.", d4Soon: "Próximamente, en el orden de estudio" } };
   Object.keys(U3).forEach(l => Object.assign(U[l], U3[l]));
   U.it.tab_study = U.fr.tab_study = U.en.tab_study = U.es.tab_study = "Diploma";
   const ES_ = () => lang === "es" || lang === "es-ar";
@@ -237,7 +237,7 @@
       ${X_.todo ? availCard(u) : ""}
       ${nO || nT ? ruleCard() : ""}
       <h2 class="hsec">${esc(t("d4Sec"))}</h2>
-      <div class="hublist">${row('data-go="l2les"', "schemi", t("d4Les"), t("d4LesD"))}${row('data-d4="quiz"', "quiz", t("d4Quiz"), t("d4QuizD"))}${nO ? row('data-d4="open"', "open", t("d4Open"), fill(t("d4OpenD"), { n: nO })) : ""}${nE ? row('data-d4="ess"', "open", t("d4Ess"), fill(t("d4EssD"), { n: nE })) : ""}${nT ? row('data-d4="tas"', "sat", t("d4Tas"), fill(t("d4TasD"), { n: nT })) : ""}${row('data-go="l2fl"', "grapes", t("d4Fl"), t("d4FlD"))}</div>
+      <div class="hublist">${row('data-go="l2les"', "schemi", t("d4Les"), t("d4LesD"))}${row('data-d4="quiz"', "quiz", t("d4Quiz"), t("d4QuizD"))}${nO ? row('data-d4="open"', "open", t("d4Open"), fill(t("d4OpenD"), { n: nO })) : ""}${nE ? row('data-d4="ess"', "open", t("d4Ess"), fill(t("d4EssD"), { n: nE })) : ""}${nT ? row('data-d4="tas"', "sat", t("d4Tas"), fill(t(X_.todo && !C.lessons.some(l => l.u === u && /t$/.test(l.c)) ? "d4TasD0" : "d4TasD"), { n: nT })) : ""}${row('data-go="l2fl"', "grapes", t("d4Fl"), t("d4FlD"))}</div>
       ${timeCard()}</section>`;
   }
 

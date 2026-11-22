@@ -43,7 +43,8 @@ async function d3(b, lg, w) {
   await p.click('[data-d4="cquiz"]'); await p.waitForTimeout(250);
   const opts = await p.$$("button.choice");
   if (opts.length < 4) bad(tag, "quiz did not start", opts.length);
-  else { await opts[0].click(); await p.waitForTimeout(250); const fb = await p.evaluate(() => document.querySelectorAll("button.choice.ok, button.choice.correct, button.choice[disabled], .expl, .explain").length); if (!fb) bad(tag, "quiz feedback"); }
+  else { await (await p.$("button.choice")).scrollIntoViewIfNeeded(); await p.waitForTimeout(700); await p.click("button.choice"); await p.waitForSelector("button.choice.presel, button.choice.ok, button.choice.no", { timeout: 5000 }).catch(() => {}); await p.waitForSelector("#qzconf button", { timeout: 3000 }).catch(() => {}); const pre = await p.$("#qzconf button"); if (pre) { await pre.scrollIntoViewIfNeeded(); await p.waitForTimeout(600); /* the app ignores taps right after a scroll */ await pre.click(); await p.waitForSelector("button.choice.ok, button.choice.no", { timeout: 5000 }).catch(() => {}); }   /* first tap selects, second confirms */
+    const fb = await p.$$eval("button.choice.ok, button.choice.no", x => x.length), c3 = await p.evaluate(() => { const q = (document.querySelector(".qtext") || {}).innerText || ""; return window.TWG_D4.D3.bank.some(b => b.q.some(x => q.includes(x))); }); if (!fb) bad(tag, "quiz answer not marked"); if (!c3) bad(tag, "chapter quiz not from D3"); }
   await chk("quiz");
   /* written answer: write, mark, see a score and the model answer */
   await hub(p); await p.click('.d4hub [data-d4="open"]'); await p.waitForTimeout(150);
