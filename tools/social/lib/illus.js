@@ -76,7 +76,7 @@ const I = {
   },
   // wine glass; kind: 'red' | 'white' | 'pink' | 'sparkling' | 'sherry' (copita, pale) | 'amber' (oxidative sherry)
   glass: (w = 160, kind = 'white', c = W) => {
-    const fill = { red: '#8c1d40', white: '#f1e4a0', pink: '#f2b3c4', sparkling: '#f3e2a2', sherry: '#f1e7b0', amber: '#b9772c', brown: '#6b3a1e', dark: '#2a1410' }[kind];
+    const fill = { red: '#8c1d40', white: '#f1e4a0', gold: '#e6c35c', pale: '#f6efc4', pink: '#f2b3c4', sparkling: '#f3e2a2', sherry: '#f1e7b0', amber: '#b9772c', brown: '#6b3a1e', dark: '#2a1410' }[kind];
     if (kind === 'sparkling') return svg('0 0 160 400', w, `<ellipse cx="80" cy="388" rx="60" ry="8" fill="${c}" opacity=".1" stroke="none"/><path d="M52 20 h56 l-6 170 c-2 26 -14 40 -22 40 c-8 0 -20 -14 -22 -40z" fill="#fff" stroke="${c}" stroke-width="6"/><path d="M55 80 h50 l-4 110 c-2 22 -12 34 -21 34 c-9 0 -19 -12 -21 -34z" fill="${fill}"/>${[[70, 200], [86, 170], [74, 140], [90, 120], [78, 100]].map(([x, y]) => `<circle cx="${x}" cy="${y}" r="4" fill="#fff" stroke="none"/>`).join('')}<path d="M80 230 v130 M44 372 h72" stroke="${c}" stroke-width="7"/>`);
     const narrow = kind === 'sherry' || kind === 'amber' || kind === 'brown' || kind === 'dark';
     const bowl = narrow ? 'M46 30 h68 c4 60 6 110 -8 140 c-8 16 -18 22 -26 22 c-8 0 -18 -6 -26 -22 c-14 -30 -12 -80 -8 -140z' : 'M30 40 h100 c8 70 4 120 -20 146 c-10 10 -20 14 -30 14 c-10 0 -20 -4 -30 -14 c-24 -26 -28 -76 -20 -146z';

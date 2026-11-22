@@ -31,7 +31,7 @@ const posts = [
           '<b>Water</b>: local, almost any, as long as it is clean',
           '<b>Yeast</b>: carefully chosen strains',
         ]) + B.note('<b>Optional:</b> a high-strength distilled alcohol. Whether it is used matters for the label.'),
-        art: { svg: I.grain(200), style: { right: 70, top: 230 } } },
+        art: { svg: I.grain(190), style: { right: 80, bottom: 150 } } },
       { layout: 'content', kicker: 'The key idea',
         title: 'No kōji, <em>no sugar</em>',
         sub: 'Rice holds starch, not sugar. Yeast cannot eat starch.',
@@ -148,8 +148,8 @@ const posts = [
     slides: [
       { layout: 'cover', kicker: 'Myth or fact?',
         title: 'Dark beer is <em>always strong</em>…', titleWidth: 700,
-        html: '<div class="bigmf" style="margin-top:30px"><div class="x">Myth.</div></div><div class="sub" style="max-width:560px">5 beer myths about colour and strength</div>',
-        art: { svg: I.beer(210, '#f0c64a') + I.beer(210, '#2a1410'), style: { right: 60, bottom: 150, display: 'flex', gap: '14px', 'align-items': 'flex-end' } } },
+        html: '<div class="bigmf" style="margin-top:30px"><div class="x">Myth.</div></div><div class="sub" style="max-width:440px">5 beer myths about colour and strength</div>',
+        art: { svg: I.beer(180, '#f0c64a') + I.beer(180, '#2a1410'), style: { right: 70, bottom: 150, display: 'flex', gap: '14px', 'align-items': 'flex-end' } } },
       { layout: 'content', kicker: 'Myth 1',
         html: B2.mf({ myth: 'Dark beer is always strong.', fact: 'Colour comes from <em>malt</em>. Strength comes from <em>sugar</em>.', why: '<b>Speciality malts</b>, kilned hotter or roasted, give amber, brown or black. Alcohol depends on how much sugar the yeast ferments.' }) },
       { layout: 'content', kicker: 'Myth 2',
@@ -173,11 +173,11 @@ const posts = [
     slides: [
       { layout: 'cover', kicker: 'Bordeaux',
         title: 'Left Bank <em>vs</em> Right Bank', titleSize: 96,
-        html: '<div style="margin-top:10px">' + B2.mapbox(map(860, { names: false, compact: true })) + '</div>' },
+        html: '<div style="margin-top:10px">' + B2.mapbox(map(690, { names: false, compact: true })) + '</div>' },
       { layout: 'content', kicker: 'The map',
         title: 'Two rivers, <em>one estuary</em>',
         sub: 'The Garonne and the Dordogne meet to form the Gironde.', subWidth: 900,
-        html: B2.mapbox(map(860)) },
+        html: B2.mapbox(map(780)) },
       { layout: 'content', kicker: 'Side by side',
         title: 'Gravel <em>or clay?</em>',
         html: B2.pair([
@@ -425,27 +425,34 @@ const stories = [
          art: { svg: I.tokkuri(280), style: { left: '50%', transform: 'translateX(-50%)', bottom: 20 } } } },
 ];
 
-// Posting order (oldest first). Chosen so that no two neighbouring grid tiles share a layout or a course.
+// Posting order (oldest first), batch 02 interleaved with the corrected batch-01 items (batch-01-fixed).
+// Chosen so that neighbouring grid tiles rarely share a course or a layout.
+const FX = 'social/instagram/batch-01-fixed';
+const fixed = (id, label, reel = false) => ({ id, reel, dir: FX, label });
 const feed = [
+  fixed('a-same-grape-two-wines', 'Wine · Level 2'),
   'sake-how-sake-is-brewed',
-  'reel-wine-spanish-ageing-terms',
-  'wine-traditional-method',
+  fixed('reel-1-three-grapes', 'Wine · Level 1', true),
   'spirits-tequila-vs-mezcal',
+  'reel-wine-spanish-ageing-terms',
   'beer-colour-strength-myths',
+  fixed('sancerre-quiz', 'Wine · Level 1'),
   'reel-sake-polishing-ratio',
-  'wine-bordeaux-left-right-bank',
+  'wine-traditional-method',
   'reel-spirits-single-malt-scotch',
-  'wine-level3-short-answers',
+  'wine-bordeaux-left-right-bank',
   'reel-beer-ale-vs-lager',
+  'wine-level3-short-answers',
   'wine-sherry-styles',
 ];
 
 const B1 = 'social/instagram/batch-01';
 const grid = {
-  note: 'Batch 02 (11 feed posts, newest first) above batch 01 (8 feed posts), cropped to the 4:5 profile-grid tiles. Badges show course and level; the coloured accent tells the course.',
+  cols: 4,
+  note: 'Newest first: batch 02 with the three corrected batch-01 items (14 feed posts), then the batch-01 posts that stay up (old carousel A and reel 1 removed). 4:5 tiles; reel covers centre-cropped. Badges show course and level; the coloured top line tells the course.',
   legend: [{ c: '#8c1d40', t: 'Wine' }, { c: '#9a5f1e', t: 'Spirits' }, { c: '#3b3f8f', t: 'Sake' }, { c: '#d4a23a', t: 'Beer' }],
   prev: [
-    { id: 'a-cool-vs-warm-climate' }, { id: 'reel-1-three-grapes', reel: true }, { id: 'b-quiz-which-grape' }, { id: 'e-serving-temperatures' },
+    { id: 'b-quiz-which-grape' }, { id: 'e-serving-temperatures' },
     { id: 'c-pot-vs-column-still' }, { id: 'reel-2-neutral-spirit-96', reel: true }, { id: 'd-german-wine-label' }, { id: 'f-tasting-mistakes' },
   ].map((x) => ({ ...x, dir: B1, label: 'batch 01' })),
 };

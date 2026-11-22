@@ -177,6 +177,7 @@ async function buildPreview(browser) {
     sec.push(`<h3>${post.id}</h3><div class="r">${imgs.map((f) => `<figure><img class="f" src="${rel(path.join(dir, f))}"><figcaption>${f.replace(/^.*_/, '').replace('.png', '')}</figcaption></figure>`).join('')}</div>`);
   }
   const sdir = path.join(OUT, 'stories');
+  mk(sdir);
   const st = fs.readdirSync(sdir).filter((f) => f.endsWith('.png')).sort();
   sec.push(`<h3>stories</h3><div class="r">${st.map((f) => `<figure><img class="t" src="${rel(path.join(sdir, f))}"><figcaption>${f.replace('.png', '').replace('story-', '')}</figcaption></figure>`).join('')}</div>`);
   for (const reel of batch.reels) {
@@ -217,6 +218,7 @@ async function buildGrid(browser) {
   };
   const dirRel = path.relative(R.ROOT, OUT);
   const mine = batch.feed.map((id) => {
+    if (typeof id === 'object') return { ...id };
     const reel = batch.reels.find((r) => r.id === id); const post = batch.posts.find((p) => p.id === id);
     const it = reel || post;
     return { id, reel: !!reel, dir: dirRel, label: `${R.badgeText(it)}` };
@@ -227,9 +229,9 @@ async function buildGrid(browser) {
 <style>html,body{width:1000px;height:auto;overflow:visible;background:#fff}body{padding:34px 30px;font-family:var(--sans)}
 h1{font:800 40px/1 var(--serif);color:#6e1532;margin-bottom:8px}p.m{color:#5c4a50;font:500 19px/1.35 var(--sans);margin-bottom:14px}
 .lg{display:flex;flex-wrap:wrap;gap:10px 22px;margin:0 0 18px}.lg span{display:inline-flex;align-items:center;gap:8px;font:700 18px/1 var(--sans);color:#2a1b20}.lg i{width:22px;height:22px;border-radius:6px;display:inline-block}
-.g{display:grid;grid-template-columns:repeat(3,1fr);gap:4px}.t{position:relative;aspect-ratio:4/5;overflow:hidden;background:#eee}.t img{width:100%;height:100%;object-fit:cover;object-position:center}
+.g{display:grid;grid-template-columns:repeat(${batch.grid.cols || 3},1fr);gap:4px}.t{position:relative;aspect-ratio:4/5;overflow:hidden;background:#eee}.t img{width:100%;height:100%;object-fit:cover;object-position:center}
 .t .rl{position:absolute;right:10px;top:10px;background:rgba(0,0,0,.55);color:#fff;font:700 15px/1 var(--sans);padding:6px 9px;border-radius:8px}.t .rl.c{font-size:18px;padding:4px 8px}
-.t .lb{position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.92);color:#2a1b20;font:800 13px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;padding:6px 8px;border-radius:6px}
+.t .lb{position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.92);color:#2a1b20;font:800 11px/1 var(--sans);letter-spacing:.05em;text-transform:uppercase;padding:5px 6px;border-radius:6px}
 .sep{grid-column:1/-1;font:800 16px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#5c4a50;padding:14px 4px 8px}</style></head>
 <body><h1>@the.winegoat · profile grid preview</h1><p class="m">${batch.grid.note}</p><div class="lg">${legend}</div>
 <div class="g">${mine.map(tile).join('')}${prev.map(tile).join('')}</div></body></html>`;
