@@ -22,7 +22,7 @@ MOCK = {
  'before': {
   'Cómo hacer un simulacro en condiciones reales': [
    ['h2', 'Simulacros desde Argentina y Uruguay: qué cambia'],
-   ['p', 'El examen es el mismo en todo el mundo, pero los huecos de cada candidato dependen de dónde aprendió a tomar vino. Cuando revisamos simulacros de gente de la región, el patrón se repite: muy buenos resultados en viticultura de clima cálido, en cepas internacionales y en Sudamérica, y caídas fuertes en cuatro lugares.'],
+   ['p', 'El examen es el mismo en todo el mundo, pero los huecos de cada candidato dependen de dónde aprendió a tomar vino. Para quien aprendió con vinos de la región, el patrón esperable es este: mucha soltura en viticultura de clima cálido, en cepas internacionales y en Sudamérica, y más dificultad en cuatro lugares.'],
    ['table', ['Dónde se pierden puntos', 'Por qué pasa acá', 'Qué hacer en el simulacro'],
     [['Denominaciones europeas y términos de etiqueta', 'Llegan pocas botellas y se etiqueta por lugar, no por cepa', 'Que al menos dos tercios de las preguntas sean de Europa'],
      ['Espumantes', 'Se toman mucho, pero sin mirar el método', 'Incluir siempre preguntas de método tradicional y de tanque'],
@@ -69,7 +69,7 @@ MOCK = {
    ['p', 'Si trabajás en una bodega o en gastronomía, cruzá estas fechas con tu calendario real. La vendimia, de febrero a abril, y las fiestas de fin de año son épocas en las que tres semanas de preparación ordenada son casi imposibles: mejor elegir otra fecha de examen que llegar sin simulacros.']],
   'Errores comunes con los simulacros': [
    ['h2', 'Errores comunes con los simulacros'],
-   ['p', 'Los que más vemos:'],
+   ['p', 'Los más habituales:'],
    ['ul', ['Hacerlos con el apunte al lado «solo para confirmar».',
            'Repetir el mismo simulacro hasta sacarse un diez: mide memoria, no preparación.',
            'Mirar la nota y no los errores.',
