@@ -3,9 +3,9 @@
 "source": "wset-3-questions/germany/index.html",
 "url": "/wset-3-questions/germany/",
 "region": "main",
-"sha": "adc1f9e32061",
-"words": 3434,
-"segment_words": 3628,
+"sha": "fc61983e4ca6",
+"words": 3451,
+"segment_words": 3680,
 "segments": [
 {
 "t": "WSET 3 Germany – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Germany, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 67 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Germany: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Germany: practice questions with answers | WSET 3 Germany",
@@ -279,6 +284,15 @@
 },
 {
 "t": "Germany has 13 wine regions (Anbaugebiete) for quality wine. At WSET Level 3 you need the character of the main ones rather than a map of every village. The key is to link each region to its climate, soils and typical style.",
+"k": "text"
+},
+{
+"t": "Calm Mosel river curving between steep vine-covered hills at Neumagen-Dhron",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Mosel river between vine-covered slopes at Neumagen-Dhron, Germany.{/1}",
 "k": "text"
 },
 {
@@ -550,6 +564,15 @@
 "k": "text"
 },
 {
+"t": "Steep green vineyard slope under dramatic clouds at Saarburger Rausch",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The steep Saarburger Rausch vineyard at Saarburg, Germany.{/1}",
+"k": "text"
+},
+{
 "t": "How to revise WSET 3 Germany in 15 minutes a day",
 "k": "text"
 },
@@ -806,7 +829,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

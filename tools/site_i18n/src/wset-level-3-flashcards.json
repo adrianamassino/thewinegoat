@@ -3,9 +3,9 @@
 "source": "wset-level-3-flashcards/index.html",
 "url": "/wset-level-3-flashcards/",
 "region": "main",
-"sha": "2ff338b9d878",
+"sha": "16d4d8d7dd7d",
 "words": 3624,
-"segment_words": 3711,
+"segment_words": 3728,
 "segments": [
 {
 "t": "WSET Level 3 flashcards – grapes, regions & key terms",
@@ -43,6 +43,11 @@
 {
 "t": "Flashcards are the quickest way to fix the hundreds of names, numbers and terms of the WSET Level 3 syllabus in your memory: grape varieties and their synonyms, appellations and their rules, ageing requirements, winemaking terms.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 flashcards: grapes, regions, numbers and key terms (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Free WSET Level 3 flashcards: grape varieties, regions, appellations, winemaking terms and the numbers to know.",
@@ -1125,7 +1130,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

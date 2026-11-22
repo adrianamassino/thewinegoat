@@ -3,9 +3,9 @@
 "source": "wset-3-questions/food-and-wine-pairing/index.html",
 "url": "/wset-3-questions/food-and-wine-pairing/",
 "region": "main",
-"sha": "8d6d35fe85ef",
-"words": 3403,
-"segment_words": 3695,
+"sha": "a6d366a114af",
+"words": 3434,
+"segment_words": 3791,
 "segments": [
 {
 "t": "WSET 3 Food and wine pairing – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Food and wine pairing, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 57 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Food and wine pairing: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Food and wine pairing: practice questions with answers | WSET 3 Food and wine pairing",
@@ -346,6 +351,15 @@
 "k": "text"
 },
 {
+"t": "Two slices of cheesecake topped with red berries, a glass of white wine and a glass of red wine",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Strawberry cheesecake served with a glass of white wine and a glass of red wine.{/1}",
+"k": "text"
+},
+{
 "t": "Sweetness in food makes dry wines taste thin, sour and bitter, because it reduces the perception of sweetness and fruit in the wine and emphasises acidity and tannin. The safe rule is that the wine should be at least as sweet as the food. This is why dessert with a dry sparkling wine often disappoints, while a sweet wine such as Sauternes, Tokaji Aszú or a sweet Muscat works well.",
 "k": "text"
 },
@@ -379,6 +393,15 @@
 },
 {
 "t": "Beyond the tastes in the food, match the intensity of flavour and the weight of food and wine. Delicate dishes such as steamed white fish suit light, delicate wines; intense, rich dishes such as braised beef or game need wines with more body and flavour intensity, otherwise the wine disappears. Flavour links also help: an oaky Chardonnay with grilled or smoked dishes, or a wine with herbal notes with herb-led sauces.",
+"k": "text"
+},
+{
+"t": "Large pan of paella with mussels, squid and red peppers over a fire, stirred with a wooden spoon",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Seafood paella being cooked over a fire in Spain.{/1}",
 "k": "text"
 },
 {
@@ -475,6 +498,15 @@
 },
 {
 "t": "Practising with real dishes fixes the rules in memory. For each dish, find the components first, then the wine.",
+"k": "text"
+},
+{
+"t": "Slate board with Stilton, cheddar, brie, crackers, pickle and plums",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A cheeseboard with Stilton, cheddar and brie.{/1}",
 "k": "text"
 },
 {
@@ -662,7 +694,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

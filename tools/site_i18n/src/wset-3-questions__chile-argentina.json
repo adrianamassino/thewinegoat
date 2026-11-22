@@ -3,9 +3,9 @@
 "source": "wset-3-questions/chile-argentina/index.html",
 "url": "/wset-3-questions/chile-argentina/",
 "region": "main",
-"sha": "d448810d3a36",
-"words": 3379,
-"segment_words": 3668,
+"sha": "9e8a7e640dcc",
+"words": 3398,
+"segment_words": 3732,
 "segments": [
 {
 "t": "WSET 3 Chile and Argentina – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Chile and Argentina, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 68 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Chile and Argentina: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Chile and Argentina: practice questions with answers | WSET 3 Chile and Argentina",
@@ -274,6 +279,15 @@
 "k": "text"
 },
 {
+"t": "Colonnaded façade and fountain garden of the Casa Patronal of Concha y Toro in Pirque",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Casa Patronal of Concha y Toro at Pirque, Chile.{/1}",
+"k": "text"
+},
+{
 "t": "Region / valley",
 "k": "text"
 },
@@ -383,6 +397,15 @@
 },
 {
 "t": "Argentina's wine regions sit in the rain shadow of the Andes, so the climate is continental, dry and very sunny. Most regions are warm to hot at low altitude, so altitude is the key quality factor: temperature falls as you climb, cool nights preserve acidity, and intense sunlight at height thickens grape skins, which means deeper colour and riper tannins. Irrigation is essential, traditionally by flooding through channels fed by Andean snowmelt and now increasingly by drip.",
+"k": "text"
+},
+{
+"t": "Vine rows with wooden posts and tall poplars at Bodega Dante Robino, Mendoza",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The vineyard of Bodega Dante Robino in Mendoza, Argentina.{/1}",
 "k": "text"
 },
 {
@@ -790,7 +813,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

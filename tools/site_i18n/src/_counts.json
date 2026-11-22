@@ -1,20 +1,344 @@
 {
+"how-to-pass-wset-level-2": {
+"segments": 243,
+"segment_words": 3554,
+"page_words": 3430,
+"chars": 20896
+},
+"how-to-pass-wset-level-3": {
+"segments": 234,
+"segment_words": 3448,
+"page_words": 3210,
+"chars": 19983
+},
+"is-wset-worth-it": {
+"segments": 206,
+"segment_words": 3540,
+"page_words": 3442,
+"chars": 20427
+},
+"schools": {
+"segments": 237,
+"segment_words": 3520,
+"page_words": 3390,
+"chars": 20863
+},
+"wset-3-questions-by-region": {
+"segments": 281,
+"segment_words": 3530,
+"page_words": 3339,
+"chars": 22528
+},
+"wset-3-questions__alsace-loire": {
+"segments": 265,
+"segment_words": 3659,
+"page_words": 3322,
+"chars": 22476
+},
+"wset-3-questions__australia-new-zealand": {
+"segments": 260,
+"segment_words": 3723,
+"page_words": 3384,
+"chars": 23696
+},
+"wset-3-questions__austria-hungary": {
+"segments": 270,
+"segment_words": 3800,
+"page_words": 3471,
+"chars": 23806
+},
+"wset-3-questions__bordeaux": {
+"segments": 232,
+"segment_words": 3651,
+"page_words": 3410,
+"chars": 23078
+},
+"wset-3-questions__burgundy-beaujolais": {
+"segments": 236,
+"segment_words": 3802,
+"page_words": 3471,
+"chars": 23637
+},
+"wset-3-questions__chile-argentina": {
+"segments": 281,
+"segment_words": 3732,
+"page_words": 3398,
+"chars": 22994
+},
+"wset-3-questions__climate-and-environment": {
+"segments": 277,
+"segment_words": 3871,
+"page_words": 3540,
+"chars": 23684
+},
+"wset-3-questions__food-and-wine-pairing": {
+"segments": 251,
+"segment_words": 3791,
+"page_words": 3434,
+"chars": 22426
+},
+"wset-3-questions__germany": {
+"segments": 283,
+"segment_words": 3680,
+"page_words": 3451,
+"chars": 22804
+},
+"wset-3-questions__greece": {
+"segments": 267,
+"segment_words": 3865,
+"page_words": 3653,
+"chars": 23580
+},
+"wset-3-questions__italy": {
+"segments": 298,
+"segment_words": 3683,
+"page_words": 3461,
+"chars": 23095
+},
+"wset-3-questions__port-fortified-wines": {
+"segments": 250,
+"segment_words": 3774,
+"page_words": 3447,
+"chars": 22610
+},
+"wset-3-questions__portugal": {
+"segments": 240,
+"segment_words": 3543,
+"page_words": 3315,
+"chars": 21879
+},
+"wset-3-questions__red-and-rose-winemaking": {
+"segments": 255,
+"segment_words": 3880,
+"page_words": 3558,
+"chars": 23737
+},
+"wset-3-questions__rhone": {
+"segments": 269,
+"segment_words": 3722,
+"page_words": 3443,
+"chars": 23322
+},
+"wset-3-questions__sherry": {
+"segments": 240,
+"segment_words": 3628,
+"page_words": 3411,
+"chars": 21941
+},
+"wset-3-questions__south-africa": {
+"segments": 226,
+"segment_words": 3847,
+"page_words": 3523,
+"chars": 23768
+},
+"wset-3-questions__southern-france": {
+"segments": 246,
+"segment_words": 3727,
+"page_words": 3429,
+"chars": 22988
+},
+"wset-3-questions__spain": {
+"segments": 230,
+"segment_words": 3756,
+"page_words": 3498,
+"chars": 23081
+},
+"wset-3-questions__sparkling-wines-champagne": {
+"segments": 248,
+"segment_words": 3825,
+"page_words": 3477,
+"chars": 23747
+},
+"wset-3-questions__storage-and-service": {
+"segments": 238,
+"segment_words": 3743,
+"page_words": 3436,
+"chars": 21893
+},
+"wset-3-questions__tasting-sat": {
+"segments": 241,
+"segment_words": 4203,
+"page_words": 3813,
+"chars": 25140
+},
+"wset-3-questions__usa-canada": {
+"segments": 246,
+"segment_words": 3869,
+"page_words": 3553,
+"chars": 23507
+},
+"wset-3-questions__vine-and-grape-varieties": {
+"segments": 266,
+"segment_words": 3942,
+"page_words": 3588,
+"chars": 24349
+},
+"wset-3-questions__vineyard-management": {
+"segments": 243,
+"segment_words": 3776,
+"page_words": 3425,
+"chars": 23557
+},
+"wset-3-questions__white-winemaking": {
+"segments": 232,
+"segment_words": 3533,
+"page_words": 3226,
+"chars": 22277
+},
+"wset-3-questions__wine-business-and-pricing": {
+"segments": 225,
+"segment_words": 3591,
+"page_words": 3272,
+"chars": 21538
+},
+"wset-3-questions__winemaking": {
+"segments": 246,
+"segment_words": 3466,
+"page_words": 3168,
+"chars": 22416
+},
+"wset-diploma-level-4": {
+"segments": 291,
+"segment_words": 4666,
+"page_words": 4632,
+"chars": 27335
+},
+"wset-diploma-study-tips": {
+"segments": 220,
+"segment_words": 3763,
+"page_words": 3672,
+"chars": 22353
+},
+"wset-level-1": {
+"segments": 249,
+"segment_words": 3578,
+"page_words": 3453,
+"chars": 20334
+},
+"wset-level-1-practice-questions": {
+"segments": 242,
+"segment_words": 3398,
+"page_words": 3363,
+"chars": 19434
+},
+"wset-level-1-study-guide": {
+"segments": 279,
+"segment_words": 3325,
+"page_words": 3199,
+"chars": 18784
+},
+"wset-level-2": {
+"segments": 348,
+"segment_words": 3744,
+"page_words": 3601,
+"chars": 21841
+},
+"wset-level-2-grapes-and-regions": {
+"segments": 309,
+"segment_words": 3314,
+"page_words": 3248,
+"chars": 20338
+},
+"wset-level-2-practice-questions": {
+"segments": 268,
+"segment_words": 3489,
+"page_words": 3438,
+"chars": 20878
+},
+"wset-level-2-vs-level-3": {
+"segments": 262,
+"segment_words": 3329,
+"page_words": 3238,
+"chars": 19368
+},
 "wset-level-3": {
 "segments": 280,
-"segment_words": 3440,
-"page_words": 3367,
-"chars": 20023
+"segment_words": 3443,
+"page_words": 3370,
+"chars": 20035
 },
 "wset-level-3-exam-format": {
 "segments": 234,
-"segment_words": 3460,
-"page_words": 3385,
-"chars": 20451
+"segment_words": 3451,
+"page_words": 3376,
+"chars": 20398
+},
+"wset-level-3-flashcards": {
+"segments": 338,
+"segment_words": 3728,
+"page_words": 3624,
+"chars": 22093
+},
+"wset-level-3-grape-varieties": {
+"segments": 265,
+"segment_words": 3996,
+"page_words": 3913,
+"chars": 24514
+},
+"wset-level-3-mock-exam": {
+"segments": 280,
+"segment_words": 3636,
+"page_words": 3267,
+"chars": 21558
+},
+"wset-level-3-practice-questions": {
+"segments": 258,
+"segment_words": 3571,
+"page_words": 3270,
+"chars": 21980
 },
 "wset-level-3-short-answer-questions": {
 "segments": 204,
 "segment_words": 4095,
 "page_words": 3981,
 "chars": 24942
+},
+"wset-levels-explained": {
+"segments": 184,
+"segment_words": 3299,
+"page_words": 3265,
+"chars": 18970
+},
+"wset-systematic-approach-to-tasting": {
+"segments": 256,
+"segment_words": 4965,
+"page_words": 4586,
+"chars": 29209
+},
+"wset-vs-court-of-master-sommeliers": {
+"segments": 179,
+"segment_words": 3279,
+"page_words": 3208,
+"chars": 20463
+},
+"_core": {
+"segments": 1506,
+"segment_words": 26329,
+"page_words": 26329,
+"chars": 149957
+},
+"_home": {
+"segments": 277,
+"segment_words": 1949,
+"page_words": 1435,
+"chars": 12208
+},
+"_images": {
+"segments": 74,
+"segment_words": 794,
+"page_words": 794,
+"chars": 4188
+},
+"_photos": {
+"segments": 510,
+"segment_words": 6242,
+"page_words": 6242,
+"chars": 40207
+},
+"_spirits": {
+"segments": 1783,
+"segment_words": 28874,
+"page_words": 28874,
+"chars": 170028
 }
 }

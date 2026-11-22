@@ -3,9 +3,9 @@
 "source": "wset-3-questions/usa-canada/index.html",
 "url": "/wset-3-questions/usa-canada/",
 "region": "main",
-"sha": "3d5bfad452df",
-"words": 3545,
-"segment_words": 3831,
+"sha": "8d82f148e2b8",
+"words": 3553,
+"segment_words": 3869,
 "segments": [
 {
 "t": "WSET 3 USA and Canada – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on USA and Canada, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 75 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 USA and Canada: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 USA and Canada: practice questions with answers | WSET 3 USA and Canada",
@@ -331,6 +336,15 @@
 },
 {
 "t": "California has a Mediterranean climate with warm, dry, sunny summers, so ripeness is rarely a problem; the challenge is keeping freshness. The main cooling influence is the cold Pacific Ocean: cold currents create morning fog and breezes that are drawn inland through gaps in the coastal hills and valleys running at right angles to the coast. The further a site is from these influences, the hotter it is. Altitude also cools, and mountain vineyards above the fog line get intense sunshine but cooler nights.",
+"k": "text"
+},
+{
+"t": "Bright orange and red autumn vines in Napa Valley with rolling hills behind",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Autumn colours in a Napa Valley vineyard, California.{/1}",
 "k": "text"
 },
 {
@@ -666,7 +680,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

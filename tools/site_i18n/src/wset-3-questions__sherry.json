@@ -3,9 +3,9 @@
 "source": "wset-3-questions/sherry/index.html",
 "url": "/wset-3-questions/sherry/",
 "region": "main",
-"sha": "ecce54f46796",
+"sha": "ac77359e429a",
 "words": 3411,
-"segment_words": 3613,
+"segment_words": 3628,
 "segments": [
 {
 "t": "WSET 3 Sherry – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Sherry, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 54 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Sherry: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Sherry: practice questions with answers | WSET 3 Sherry",
@@ -650,7 +655,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

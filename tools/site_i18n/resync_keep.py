@@ -6,6 +6,7 @@ import json, sys, subprocess, os
 OVR = {'Partner programme': {'ko': '파트너 프로그램', 'zh-hant': '合作夥伴計畫', 'pt': 'Programa de parceiros', 'pt-br': 'Programa de parceiros',
                              'tr': 'Partner programı', 'th': 'โปรแกรมพาร์ทเนอร์', 'pl': 'Program partnerski', 'ru': 'Партнёрская программа',
                              'zh-hans': '合作伙伴计划', 'ar': 'برنامج الشركاء'}}
+import newlangs as NL; NL.merge(OVR['Partner programme'], NL.PARTNER)
 l = sys.argv[1]; tmp = f'/tmp/stale_{l}.json'
 subprocess.run([sys.executable, 'tools/site_i18n/stale.py', l, '--json', tmp], capture_output=True)
 st = json.load(open(tmp)).get(l, {})

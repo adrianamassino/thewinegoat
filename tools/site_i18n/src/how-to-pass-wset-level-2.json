@@ -3,9 +3,9 @@
 "source": "how-to-pass-wset-level-2/index.html",
 "url": "/how-to-pass-wset-level-2/",
 "region": "main",
-"sha": "c4e44f0cf4e0",
-"words": 3422,
-"segment_words": 3519,
+"sha": "78ef7ebd3bb4",
+"words": 3430,
+"segment_words": 3554,
 "segments": [
 {
 "t": "How to pass WSET Level 2: 3-week study plan and exam tips",
@@ -51,6 +51,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "How to pass WSET Level 2 first time (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "To pass WSET Level 2 you need 55% in a 50-question multiple-choice exam.",
@@ -465,6 +470,15 @@
 "k": "text"
 },
 {
+"t": "Vineyards in the foreground and a vine-covered hill near Aÿ in Champagne",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Aÿ in the Marne department, Champagne.{/1}",
+"k": "text"
+},
+{
 "t": "Sweet wines are made by concentrating sugar or by stopping fermentation. Noble rot (Botrytis cinerea) concentrates sugar and acidity in Sauternes and Tokaji; freezing the grapes on the vine produces Eiswein and icewine; adding spirit during fermentation keeps natural sugar in Port. Sherry is different: it is fortified after fermentation, so the base wine is dry. Fino ages under a layer of yeast called flor and stays pale and fresh, while Oloroso ages in contact with oxygen and becomes brown and nutty.",
 "k": "text"
 },
@@ -769,7 +783,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "index.html",
 "url": "/",
 "region": "body",
-"sha": "5f969432be90",
-"words": 1378,
-"segment_words": 1736,
+"sha": "6a718d60108d",
+"words": 1435,
+"segment_words": 1949,
 "segments": [
 {
 "t": "WSET Exam Prep: Level 1, 2 & 3 Practice App | The Wine Goat",
@@ -55,7 +55,7 @@
 "k": "text"
 },
 {
-"t": "The app that trains you like the real exam, for WSET Levels 1, 2 and 3: lessons, practice questions with explanations, flashcards, games and a study plan built around your exam date. Levels 1, 2 and 3 available now; the Diploma (Level 4) coming soon.",
+"t": "The app that trains you like the real exam, for WSET Levels 1, 2 and 3: lessons, practice questions with explanations, flashcards, games and a study plan built around your exam date. Levels 1, 2 and 3 available now; Diploma (Level 4): units D1, D2, D4 and D5 available, D3 and D6 in preparation.",
 "k": "text"
 },
 {
@@ -79,8 +79,13 @@
 "k": "text"
 },
 {
-"t": "✓ 4 languages",
+"t": "✓ App in 14 languages",
 "k": "text"
+},
+{
+"t": "The Wine Goat app on a phone: today's study plan, with Tasting (SAT) as the next step",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "{1}2,800+{/1}{2}practice questions{/2}",
@@ -95,8 +100,13 @@
 "k": "text"
 },
 {
-"t": "{1}4{/1}{2}languages{/2}",
+"t": "{1}14{/1}{2}app languages{/2}",
 "k": "text"
+},
+{
+"t": "Winking goat holding a glass of red wine in front of a bunch of black grapes",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Choose your level",
@@ -151,7 +161,7 @@
 "k": "text"
 },
 {
-"t": "{1}Coming soon{/1}",
+"t": "{1}D1, D2, D4, D5 available{/1}",
 "k": "text"
 },
 {
@@ -159,7 +169,7 @@
 "k": "text"
 },
 {
-"t": "The expert level: six units from production to the wine business, theory and tasting.",
+"t": "The expert level: six units from production to the wine business, theory and tasting. D1, D2, D4 and D5 are in the app; D3 and D6 are in preparation.",
 "k": "text"
 },
 {
@@ -259,6 +269,194 @@
 "k": "text"
 },
 {
+"t": "All WSET guides",
+"k": "text"
+},
+{
+"t": "WSET Level 1",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 Award in Wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 2",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 Award in Wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 3",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 Award in Wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT){/1}",
+"k": "text"
+},
+{
+"t": "WSET Diploma",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 4 Diploma in Wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips{/1}",
+"k": "text"
+},
+{
+"t": "Practice questions",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Mock exams",
+"k": "text"
+},
+{
+"t": "{1}WSET mock exams{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam{/1}",
+"k": "text"
+},
+{
+"t": "Study guides",
+"k": "text"
+},
+{
+"t": "{1}WSET exam preparation{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET wine exam preparation{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Flashcards{/1}",
+"k": "text"
+},
+{
+"t": "{1}Is WSET worth it?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers{/1}",
+"k": "text"
+},
+{
+"t": "How to pass WSET exams",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time{/1}",
+"k": "text"
+},
+{
+"t": "WSET Spirits",
+"k": "text"
+},
+{
+"t": "{1}WSET Spirits courses explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 Award in Spirits{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 Award in Spirits{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 Award in Spirits{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Spirits Practice Questions (with Answers and Explanations){/1}",
+"k": "text"
+},
+{
+"t": "{1}How Spirits Are Made{/1}",
+"k": "text"
+},
+{
+"t": "{1}Types of Spirits{/1}",
+"k": "text"
+},
+{
+"t": "{1}Classic Cocktail Families{/1}",
+"k": "text"
+},
+{
+"t": "WSET schools and providers",
+"k": "text"
+},
+{
+"t": "{1}Help more of your students pass, with less marking{/1}",
+"k": "text"
+},
+{
 "t": "Level session",
 "k": "text"
 },
@@ -341,6 +539,11 @@
 {
 "t": "{1}68{/1}",
 "k": "text"
+},
+{
+"t": "Goat in headphones working at a laptop, with a glass of red wine and grapes",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "{1}45{/1}",
@@ -427,6 +630,11 @@
 "k": "text"
 },
 {
+"t": "Goat in round glasses leaning on a stack of wine books beside a glass of red wine",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
 "t": "The Wine Goat",
 "k": "text"
 },
@@ -447,7 +655,7 @@
 "k": "text"
 },
 {
-"t": "English, Italian, French, Spanish",
+"t": "App in 14 languages, full lessons in 4",
 "k": "text"
 },
 {
@@ -457,6 +665,11 @@
 {
 "t": "How it works",
 "k": "text"
+},
+{
+"t": "Goat in a burgundy scarf perched on a wine barrel, raising a glass of red wine",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "{1}1{/1}",
@@ -499,6 +712,16 @@
 "k": "text"
 },
 {
+"t": "Goat in glasses and a medal holding up a golden trophy on a stack of wine books",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Goat riding a burgundy scooter with a basket of grapes past cypress trees",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
 "t": "Is The Wine Goat the official WSET website?",
 "k": "text"
 },
@@ -527,7 +750,7 @@
 "k": "text"
 },
 {
-"t": "English, Italian and French, and you can switch at any time: useful if you study in your own language but sit the exam in English.",
+"t": "The site is in 19 languages and the app interface in 14: Italian, French, English, Spanish, Argentine Spanish, German, Dutch, Greek, Japanese, Korean, Traditional Chinese, Portuguese, Turkish and Thai. The full lessons and questions are in Italian, French, English and Spanish, with more languages being added. You can switch at any time: useful if you study in your own language but sit the exam in English.",
 "k": "text"
 },
 {
@@ -547,6 +770,11 @@
 "k": "text"
 },
 {
+"t": "Goat in sunglasses lounging inside a giant glass of splashing red wine",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
 "t": "Ready to pass your WSET exam first time?",
 "k": "text"
 },
@@ -559,181 +787,9 @@
 "k": "text"
 },
 {
-"t": "More WSET resources: Levels 1, 2 and 3",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
-},
-{
-"t": "{1}WSET Level 1 Award in Wines: the complete guide{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 1 practice questions, with answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 Award in Wines: the complete guide{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
-"k": "text"
-},
-{
-"t": "{1}How to pass WSET Level 2 first time{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 2 practice questions, with answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 practice questions with answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
-"k": "text"
-},
-{
-"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
-"k": "text"
-},
-{
-"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 questions by region and topic{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Tasting and the SAT{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Food and wine pairing{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Storage and service{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Wine pricing and the trade{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 The vine and grape varieties{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Climate and environment{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Vineyard management and pruning{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Winemaking and maturation{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 White wines{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Red and rosé wines{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Bordeaux{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Burgundy and Beaujolais{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Alsace and the Loire{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Rhône Valley{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Southern France{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Italy{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Spain{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Portugal{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Germany{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Austria and Hungary{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Greece{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 USA and Canada{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Chile and Argentina{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 South Africa{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Australia and New Zealand{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Sparkling: Champagne, Prosecco, Cava{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Sherry{/1}",
-"k": "text"
-},
-{
-"t": "{1}WSET 3 Port and fortified wines{/1}",
-"k": "text"
 },
 {
 "t": "Languages",
@@ -797,7 +853,12 @@
 "k": "text"
 },
 {
-"t": "© 2026 The Wine Goat · {1}For schools{/1} · {2}Instagram{/2}",
+"t": "Goat with a small golden crown asleep on a bed of grape bunches and vine leaves",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "© 2026 The Wine Goat · {1}About{/1} · {2}Photo credits{/2} · {3}For schools{/3} · {4}Instagram{/4}",
 "k": "text"
 },
 {
@@ -822,6 +883,51 @@
 },
 {
 "t": "Advanced",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Bordeaux",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Tasting, food and service",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The vineyard",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "The winery",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "France (beyond Bordeaux)",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Europe",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "New World",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Sparkling and fortified",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Exam and strategy",
 "k": "ld",
 "n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
 },

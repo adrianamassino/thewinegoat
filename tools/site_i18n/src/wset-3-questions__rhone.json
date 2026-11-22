@@ -3,9 +3,9 @@
 "source": "wset-3-questions/rhone/index.html",
 "url": "/wset-3-questions/rhone/",
 "region": "main",
-"sha": "1275609232df",
+"sha": "73826f8a1eec",
 "words": 3443,
-"segment_words": 3706,
+"segment_words": 3722,
 "segments": [
 {
 "t": "WSET 3 Rhône Valley – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Rhône Valley, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 59 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Rhône Valley: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Rhône Valley: practice questions with answers | WSET 3 Rhône Valley",
@@ -758,7 +763,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

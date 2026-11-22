@@ -3,9 +3,9 @@
 "source": "is-wset-worth-it/index.html",
 "url": "/is-wset-worth-it/",
 "region": "main",
-"sha": "6657bee9d5d2",
+"sha": "255bc5b80483",
 "words": 3442,
-"segment_words": 3529,
+"segment_words": 3540,
 "segments": [
 {
 "t": "Is WSET worth it? Levels 1 to 4 for careers and enthusiasts",
@@ -51,6 +51,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "Is WSET worth it? (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET is worth it if you want a structured, internationally recognised understanding of wine.",
@@ -621,7 +626,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

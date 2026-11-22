@@ -3,9 +3,9 @@
 "source": "wset-3-questions/greece/index.html",
 "url": "/wset-3-questions/greece/",
 "region": "main",
-"sha": "be68b9b46ed8",
-"words": 3639,
-"segment_words": 3823,
+"sha": "00f339ae8f6c",
+"words": 3653,
+"segment_words": 3865,
 "segments": [
 {
 "t": "WSET 3 Greece – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Greece, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 25 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Greece: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Greece: practice questions with answers | WSET 3 Greece",
@@ -279,6 +284,15 @@
 },
 {
 "t": "Greece has more than 200 native grape varieties. For WSET Level 3 you need a small group, and above all the three most recognised abroad: Assyrtiko, Agiorgitiko and Xinomavro. International grapes such as Cabernet Sauvignon, Merlot, Syrah and Chardonnay are also grown and are often used in PGI wines, sometimes blended with native grapes.",
+"k": "text"
+},
+{
+"t": "Bunches of red and purple grapes hanging among sunlit vine leaves in Crete",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Ripe red grapes on a vine at Margarites, on the Greek island of Crete.{/1}",
 "k": "text"
 },
 {
@@ -750,7 +764,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

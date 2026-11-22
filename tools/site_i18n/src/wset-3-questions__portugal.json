@@ -3,9 +3,9 @@
 "source": "wset-3-questions/portugal/index.html",
 "url": "/wset-3-questions/portugal/",
 "region": "main",
-"sha": "b57f978ab3a1",
+"sha": "e746303cb333",
 "words": 3315,
-"segment_words": 3528,
+"segment_words": 3543,
 "segments": [
 {
 "t": "WSET 3 Portugal – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Portugal, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 40 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Portugal: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Portugal: practice questions with answers | WSET 3 Portugal",
@@ -666,7 +671,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

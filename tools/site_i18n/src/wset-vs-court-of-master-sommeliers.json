@@ -3,9 +3,9 @@
 "source": "wset-vs-court-of-master-sommeliers/index.html",
 "url": "/wset-vs-court-of-master-sommeliers/",
 "region": "main",
-"sha": "c43dfe19b025",
+"sha": "000747605a7e",
 "words": 3208,
-"segment_words": 3260,
+"segment_words": 3279,
 "segments": [
 {
 "t": "WSET vs Court of Master Sommeliers: which wine certification?",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET or Court of Master Sommeliers: which certification is right for you? (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET or Court of Master Sommeliers: which certification is right for you? | WSET vs Court of Master Sommeliers",
@@ -562,7 +567,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

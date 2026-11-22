@@ -149,7 +149,10 @@ for _l, (_u, _d) in {
  'tr': ('Üniteni seç', 'Hazırlandığın Diploma ünitesini seç; dersler, sorular ve yazılı cevaplarla çalış.'),
 }.items():
     T[_l].update(unit=_u, d=_d)
-BANNED = re.compile(r'[€$£]|\bofficial|\bufficial|\bofficiel|\boficial|offiziell|officieel|oficjaln|официальн|επίσημ|公式|공식|官方|رسمي|ทางการ|resmi\b', re.I)
+# the 11 languages added later (tools/site_i18n/newlangs.py)
+import sys as _sys; _sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '../site_i18n')); import newlangs as NL
+NL.merge(T, NL.CTA)
+BANNED = re.compile(NL.BANNED + r'|[€$£]|\bofficial|\bufficial|\bofficiel|\boficial|offiziell|officieel|oficjaln|официальн|επίσημ|公式|공식|官方|رسمي|ทางการ|resmi\b', re.I)
 
 
 def level_of(family, key, lang):

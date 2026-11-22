@@ -3,9 +3,9 @@
 "source": "wset-diploma-study-tips/index.html",
 "url": "/wset-diploma-study-tips/",
 "region": "main",
-"sha": "a8307c0efdce",
-"words": 3674,
-"segment_words": 3750,
+"sha": "c26a2b7b5099",
+"words": 3672,
+"segment_words": 3763,
 "segments": [
 {
 "t": "WSET Diploma study tips: theory, D3 and tasting",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET Diploma study tips: theory, D3 and tasting (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The WSET Diploma rewards steady, long-term study.",
@@ -685,7 +690,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -698,7 +703,7 @@
 "k": "text"
 },
 {
-"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"t": "{1}Start free – build my plan{/1}{2}Choose your unit{/2}",
 "k": "text"
 },
 {

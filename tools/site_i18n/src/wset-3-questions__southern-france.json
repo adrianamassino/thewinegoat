@@ -3,9 +3,9 @@
 "source": "wset-3-questions/southern-france/index.html",
 "url": "/wset-3-questions/southern-france/",
 "region": "main",
-"sha": "7f25b3a74fc8",
-"words": 3400,
-"segment_words": 3655,
+"sha": "26fd5ed7f0bc",
+"words": 3429,
+"segment_words": 3727,
 "segments": [
 {
 "t": "WSET 3 Southern France – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Southern France, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 48 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Southern France: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Southern France: practice questions with answers | WSET 3 Southern France",
@@ -246,6 +251,15 @@
 "k": "text"
 },
 {
+"t": "Rows of green bush vines on a hillside in the Orb valley at Roquebrun",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards in the hills of the Orb valley at Roquebrun, Hérault, in the Languedoc.{/1}",
+"k": "text"
+},
+{
 "t": "The Mediterranean climate and what it means in the vineyard",
 "k": "text"
 },
@@ -391,6 +405,15 @@
 },
 {
 "t": "Languedoc wines come in two broad categories, and the difference is a classic WSET 3 Southern France question. IGP Pays d'Oc covers a very large area and allows many grape varieties, higher yields and varietal labelling, so producers can make fruity, good-value wines from international grapes for export markets. AOC wines have stricter rules: defined areas, lower yields and permitted blends of mainly Mediterranean grapes.",
+"k": "text"
+},
+{
+"t": "Patchwork of autumn vineyards in the hills beneath the Pic de Vissou, Hérault",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Autumn vineyards of the Languedoc-Cabrières appellation at the foot of the Pic de Vissou, Hérault.{/1}",
 "k": "text"
 },
 {
@@ -650,7 +673,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

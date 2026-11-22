@@ -3,9 +3,9 @@
 "source": "wset-levels-explained/index.html",
 "url": "/wset-levels-explained/",
 "region": "main",
-"sha": "c0105eab6d77",
+"sha": "cc0ba1c0a1b0",
 "words": 3265,
-"segment_words": 3283,
+"segment_words": 3299,
 "segments": [
 {
 "t": "WSET levels explained: Level 1, 2, 3 and Diploma compared",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET levels explained: from Level 1 to the Diploma (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET wine qualifications go from a one-day introduction to the Level 4 Diploma, one of the most respected wine qualifications in the world. Each level adds depth and a new kind of assessment.",
@@ -581,7 +586,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

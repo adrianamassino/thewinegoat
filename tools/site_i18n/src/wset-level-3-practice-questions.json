@@ -3,9 +3,9 @@
 "source": "wset-level-3-practice-questions/index.html",
 "url": "/wset-level-3-practice-questions/",
 "region": "main",
-"sha": "5ec1a53499e3",
+"sha": "2b59ace7940d",
 "words": 3270,
-"segment_words": 3557,
+"segment_words": 3571,
 "segments": [
 {
 "t": "WSET Level 3 practice questions & answers (free MCQs)",
@@ -43,6 +43,11 @@
 {
 "t": "The theory part of the WSET Level 3 Award in Wines starts with 50 multiple-choice questions covering the whole syllabus: vineyard and winery, the wines of every major region, sparkling and fortified wines. The fastest way to get them right is to practise exam-style questions until the answers come without hesitation.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Below are sample WSET Level 3 practice questions from The Wine Goat bank, with the correct answer and the reason behind it. The app has more than 2,000 of them, organised by region and topic, and brings back every question you get wrong until you master it.",
@@ -725,7 +730,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/white-winemaking/index.html",
 "url": "/wset-3-questions/white-winemaking/",
 "region": "main",
-"sha": "24e0c5b27a1b",
-"words": 3210,
-"segment_words": 3491,
+"sha": "05cb58d0771f",
+"words": 3226,
+"segment_words": 3533,
 "segments": [
 {
 "t": "WSET 3 White wines – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on White wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 104 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 White wines: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 White wines: practice questions with answers | WSET 3 White wines",
@@ -247,6 +252,15 @@
 },
 {
 "t": "From vineyard to press: protecting the juice",
+"k": "text"
+},
+{
+"t": "Grower's hands holding two freshly harvested bunches of green grapes",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Healthy, intact bunches are the starting point of quality wine; damaged fruit is usually sorted out.{/1}",
 "k": "text"
 },
 {
@@ -614,7 +628,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/vineyard-management/index.html",
 "url": "/wset-3-questions/vineyard-management/",
 "region": "main",
-"sha": "0bb0aef01a76",
-"words": 3375,
-"segment_words": 3671,
+"sha": "805542fe3c2d",
+"words": 3425,
+"segment_words": 3776,
 "segments": [
 {
 "t": "WSET 3 Vineyard management and pruning – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Vineyard management and pruning, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 97 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Vineyard management and pruning: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Vineyard management and pruning: practice questions with answers | WSET 3 Vineyard management and pruning",
@@ -290,6 +295,15 @@
 "k": "text"
 },
 {
+"t": "Small stone hut under bare trees in a pruned winter vineyard near Mèze",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}In winter the vines are dormant; pruning at this time sets the number of buds and the next year's yield.{/1}",
+"k": "text"
+},
+{
 "t": "System",
 "k": "text"
 },
@@ -407,6 +421,15 @@
 },
 {
 "t": "The vine needs water for photosynthesis and to keep growing, but a moderate water deficit during ripening slows shoot growth and pushes energy into the grapes, giving smaller berries with more concentrated flavour and tannin. Severe water stress, on the other hand, stops photosynthesis and ripening altogether. Where rainfall is low, irrigation is essential: drip irrigation gives precise, efficient control, flood irrigation is cheap where water is plentiful, and sprinklers can also protect against frost. Some regions restrict irrigation for quality wines, and water availability is a growing issue with climate change.",
+"k": "text"
+},
+{
+"t": "Yellow flowers carpeting the ground between bare winter vines in Calistoga, Napa Valley",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Cover crops between rows improve soil structure, reduce erosion and support biodiversity.{/1}",
 "k": "text"
 },
 {
@@ -530,6 +553,15 @@
 "k": "text"
 },
 {
+"t": "Red self-propelled grape harvester straddling vine rows in a Rheingau vineyard",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Machine harvesters shake the vines so berries fall onto conveyors; they work fast and can pick at night.{/1}",
+"k": "text"
+},
+{
 "t": "Hand harvesting",
 "k": "text"
 },
@@ -646,7 +678,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

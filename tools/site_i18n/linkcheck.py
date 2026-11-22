@@ -114,7 +114,7 @@ def check():
             if not target_exists(t): continue  # already reported as broken
             back = alts.get(t)
             if back is not None and u not in back.values(): hre.append(f'{u} → {t} ({code}) not reciprocal')
-            if t == u and langs.get(u) and code != 'x-default' and code.split('-')[0].lower() != langs[u].split('-')[0].lower(): hre.append(f'{u}: hreflang {code} ≠ <html lang="{langs[u]}">')
+            if t == u and langs.get(u) and code != 'x-default' and {'no': 'nb'}.get(code.split('-')[0].lower(), code.split('-')[0].lower()) != {'no': 'nb'}.get(langs[u].split('-')[0].lower(), langs[u].split('-')[0].lower()): hre.append(f'{u}: hreflang {code} ≠ <html lang="{langs[u]}">')
     print(f'{n_pages} pages, {n_links} internal links checked')
     print(f'broken targets: {len(broken)} ({sum(len(v) for v in broken.values())} links)')
     for t, src in sorted(broken.items())[: None if VERB else 15]:

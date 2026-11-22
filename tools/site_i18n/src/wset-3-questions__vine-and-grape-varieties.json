@@ -3,9 +3,9 @@
 "source": "wset-3-questions/vine-and-grape-varieties/index.html",
 "url": "/wset-3-questions/vine-and-grape-varieties/",
 "region": "main",
-"sha": "9cdd41aae47a",
-"words": 3538,
-"segment_words": 3834,
+"sha": "6ffa9a1fa1ea",
+"words": 3588,
+"segment_words": 3942,
 "segments": [
 {
 "t": "WSET 3 The vine and grape varieties – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on The vine and grape varieties, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 54 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 The vine and grape varieties: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 The vine and grape varieties: practice questions with answers | WSET 3 The vine and grape varieties",
@@ -390,6 +395,15 @@
 "k": "text"
 },
 {
+"t": "Young vine leaf unfolding from a gnarled cane against a dark green background",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Budburst marks the start of the vine's growing season, when new shoots and leaves emerge in spring.{/1}",
+"k": "text"
+},
+{
 "t": "Parts of the vine and their functions",
 "k": "text"
 },
@@ -494,6 +508,15 @@
 "k": "text"
 },
 {
+"t": "Small green grape bunches among vine leaves with the Mosel river behind",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Unripe grapes are hard, green and acidic; at veraison they soften and start to accumulate sugar.{/1}",
+"k": "text"
+},
+{
 "t": "Budburst: buds open in spring; young shoots are vulnerable to frost.",
 "k": "text"
 },
@@ -555,6 +578,15 @@
 },
 {
 "t": "Many WSET Level 3 questions start from a grape variety and ask you to explain the wine. The answer usually lies in a few biological traits: skin thickness, berry size, the timing of budburst and ripening, and the natural level of acidity and aroma. Learn the traits first and the style follows logically.",
+"k": "text"
+},
+{
+"t": "Three hanging grape bunches, two dark red and one green, on a white background",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Grape colour comes from anthocyanins in the skins; most grape juice is colourless whatever the skin colour.{/1}",
 "k": "text"
 },
 {
@@ -722,7 +754,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

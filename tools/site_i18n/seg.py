@@ -116,7 +116,7 @@ def _ld_walk(node, tr, parent_type=None):
             if k in ('@context', '@type', '@id'): continue
             if isinstance(v, str) and k in LDKEYS and t not in LDSKIP_PARENT and has_words(v) and v.strip() not in SKIP_VALUES and not v.startswith('http'):
                 node[k] = tr(v, 'ld')
-            elif isinstance(v, list) and k == 'keywords' and all(isinstance(x, str) for x in v):
+            elif isinstance(v, list) and k in ('keywords', 'teaches') and all(isinstance(x, str) for x in v):
                 node[k] = [tr(x, 'ld') if has_words(x) else x for x in v]
             else:
                 _ld_walk(v, tr, t)

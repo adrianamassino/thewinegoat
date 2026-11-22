@@ -27,6 +27,22 @@ HERE = 'tools/seo_tech'
 R = json.load(open(f'{HERE}/image_registry.json', encoding='utf8'))
 LANGS = R['langs']
 GOATS, SHOTS, COMMON = R['goats'], R['shots'], R['common']
+# languages added later (tools/site_i18n/newlangs.py): illustration texts from tools/site_i18n/<lang>/_images.json (assets.py),
+# never written into the shared registry; a language without that file keeps English illustration texts (images are
+# then only decorative alt on pages that exist, see TRANSLATE.md: _images is translated before the first page goes live)
+sys.path.insert(0, 'tools/site_i18n'); import newlangs as NL, assets as _A
+for _l in NL.LANGS:
+    _M = _A.text_map(_l, '_images')
+    if not _M: continue
+    for _g in GOATS.values():
+        for _f in ('alt', 'title'):
+            if isinstance(_g.get(_f), dict) and _g[_f].get('en') in _M: _g[_f][_l] = _M[_g[_f]['en']]
+    for _v in COMMON.values():
+        if isinstance(_v, dict) and _v.get('en') in _M: _v[_l] = _M[_v['en']]
+    for _f in ('alt', 'title'):
+        _v = SHOTS.get('_meta', {}).get(_f)
+        if isinstance(_v, dict) and _v.get('en') in _M: _v[_l] = _M[_v['en']]
+    if _l not in LANGS: LANGS.append(_l)
 ORN = set(R['ornament_classes'])
 CJK = {'ja', 'ko', 'zh-hans', 'zh-hant'}
 SKIP = ('app/', 'mobile/', 'tools/', 'node_modules/', '.git/', 'img/', 'assets/', 'social/', 'supabase/')
@@ -58,6 +74,7 @@ def page_lang(s):
     m = re.search(r'<html[^>]*\blang="([^"]+)"', s[:600])
     l = (m.group(1) if m else 'en').lower()
     if l == 'pt-pt': return 'pt'
+    if l in ('nb', 'nb-no'): l = 'no'   # Norwegian Bokmål lives in /no/
     if l in LANGS: return l
     return l.split('-')[0] if l.split('-')[0] in LANGS else 'en'
 

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/australia-new-zealand/index.html",
 "url": "/wset-3-questions/australia-new-zealand/",
 "region": "main",
-"sha": "c506969ce22c",
-"words": 3363,
-"segment_words": 3656,
+"sha": "9f79d5d96971",
+"words": 3384,
+"segment_words": 3723,
 "segments": [
 {
 "t": "WSET 3 Australia and New Zealand – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Australia and New Zealand, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 83 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Australia and New Zealand: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Australia and New Zealand: practice questions with answers | WSET 3 Australia and New Zealand",
@@ -282,6 +287,15 @@
 "k": "text"
 },
 {
+"t": "Blocks of vineyards, dams and trees spread across the Barossa Valley from Mengler Hill",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Barossa Valley near Tanunda, South Australia, seen from Mengler Hill.{/1}",
+"k": "text"
+},
+{
 "t": "Region",
 "k": "text"
 },
@@ -403,6 +417,15 @@
 },
 {
 "t": "New Zealand wine for WSET 3 is defined by a cool maritime climate: no vineyard is far from the sea, and the long, narrow islands span a wide range of latitudes. The North Island is generally warmer and more humid; the South Island is cooler and sunnier with high diurnal range in some regions. Long growing seasons with intense sunlight and cool nights give ripe fruit flavours while preserving high acidity.",
+"k": "text"
+},
+{
+"t": "Green vineyard blocks in a valley of golden hills under a cloudy sky, Marlborough",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Seddon in the Marlborough region of New Zealand.{/1}",
 "k": "text"
 },
 {
@@ -706,7 +729,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

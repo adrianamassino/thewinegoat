@@ -3,9 +3,9 @@
 "source": "wset-3-questions/red-and-rose-winemaking/index.html",
 "url": "/wset-3-questions/red-and-rose-winemaking/",
 "region": "main",
-"sha": "fd200f2fa2df",
-"words": 3522,
-"segment_words": 3802,
+"sha": "7b5093fddc71",
+"words": 3558,
+"segment_words": 3880,
 "segments": [
 {
 "t": "WSET 3 Red and rosé wines – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Red and rosé wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 102 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Red and rosé wines: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Red and rosé wines: practice questions with answers | WSET 3 Red and rosé wines",
@@ -250,6 +255,15 @@
 "k": "text"
 },
 {
+"t": "Dark blue grape bunch hanging from a twisted vine among yellow autumn leaves",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Black grapes owe their colour to pigments in the skin, extracted during red wine fermentation.{/1}",
+"k": "text"
+},
+{
 "t": "Destemming and crushing",
 "k": "text"
 },
@@ -347,6 +361,15 @@
 },
 {
 "t": "After fermentation: maceration, pressing, MLF and maturation",
+"k": "text"
+},
+{
+"t": "Historic wooden wine presses in the vaulted refectory of Kloster Eberbach",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Historic wine presses in the former lay brothers' refectory of Kloster Eberbach, Rheingau, used as a wine cellar from around 1500.{/1}",
 "k": "text"
 },
 {
@@ -686,7 +709,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

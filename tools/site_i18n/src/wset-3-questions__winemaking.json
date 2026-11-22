@@ -3,9 +3,9 @@
 "source": "wset-3-questions/winemaking/index.html",
 "url": "/wset-3-questions/winemaking/",
 "region": "main",
-"sha": "6e2d185b23f9",
-"words": 3154,
-"segment_words": 3424,
+"sha": "e2cb7e0d9ce5",
+"words": 3168,
+"segment_words": 3466,
 "segments": [
 {
 "t": "WSET 3 Winemaking and maturation – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Winemaking and maturation, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 158 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Winemaking and maturation: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Winemaking and maturation: practice questions with answers | WSET 3 Winemaking and maturation",
@@ -366,6 +371,15 @@
 "k": "text"
 },
 {
+"t": "Oak barrels in a vaulted stone wine cellar at Völser Aicha",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Barrels in the wine cellar of the Verant farmhouse at Völser Aicha, South Tyrol.{/1}",
+"k": "text"
+},
+{
 "t": "Inert vessels versus oak",
 "k": "text"
 },
@@ -666,7 +680,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/burgundy-beaujolais/index.html",
 "url": "/wset-3-questions/burgundy-beaujolais/",
 "region": "main",
-"sha": "7aebccc8e2e4",
-"words": 3427,
-"segment_words": 3701,
+"sha": "a1f8a5f760d7",
+"words": 3471,
+"segment_words": 3802,
 "segments": [
 {
 "t": "WSET 3 Burgundy and Beaujolais – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Burgundy and Beaujolais, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 79 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Burgundy and Beaujolais: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Burgundy and Beaujolais: practice questions with answers | WSET 3 Burgundy and Beaujolais",
@@ -270,6 +275,15 @@
 "k": "text"
 },
 {
+"t": "Vine rows sloping down to the village of Santenay and the plain beyond",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards above the village of Santenay in Burgundy's Côte-d'Or, seen from the Mont de Sène.{/1}",
+"k": "text"
+},
+{
 "t": "District",
 "k": "text"
 },
@@ -386,6 +400,15 @@
 "k": "text"
 },
 {
+"t": "Rows of vines leading to a turreted château inside the Clos de Vougeot",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vine rows leading to the Château de la Tour in the Clos de Vougeot, Côte de Nuits, Burgundy.{/1}",
+"k": "text"
+},
+{
 "t": "Regional appellations: Bourgogne (and variants such as Bourgogne Aligoté and Crémant de Bourgogne). Grapes may come from anywhere in the region.",
 "k": "text"
 },
@@ -487,6 +510,15 @@
 },
 {
 "t": "Many WSET 3 questions ask you to compare Chardonnay from different parts of Burgundy. The grape is the same, so the differences come from climate, soils and winemaking. Learn this table as a chain from north to south.",
+"k": "text"
+},
+{
+"t": "Lush green vines in front of the long façade of the Château de Chassagne-Montrachet",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vines in front of the Château de Chassagne-Montrachet, in Burgundy's Côte-d'Or.{/1}",
 "k": "text"
 },
 {
@@ -602,7 +634,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -1,0 +1,1242 @@
+{
+"group": "wset-level-2-grapes-and-regions",
+"source": "wset-level-2-grapes-and-regions/index.html",
+"url": "/wset-level-2-grapes-and-regions/",
+"region": "main",
+"sha": "b33f72a21812",
+"words": 3238,
+"segment_words": 3274,
+"segments": [
+{
+"t": "WSET Level 2 grapes and regions: the cheat sheet",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "The key grape varieties and regions for WSET Level 2 in one table: where each grape grows, its typical style and how climate changes it. Free quiz included.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 2 grapes, WSET Level 2 grape varieties list, WSET Level 2 regions, WSET 2 cheat sheet, WSET Level 2 principal grapes, WSET 2 grapes and regions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 2 grapes and regions: the cheat sheet – WSET Level 2 grapes, WSET Level 2 grape varieties list (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}In short{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 2 focuses on about 15 principal grapes and the regions where they make their best-known wines. For each grape, learn its key regions, its typical style and how a cool or warm climate changes it.",
+"k": "text"
+},
+{
+"t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 2 focuses on about 15 principal grapes and the regions where they make their best-known wines.",
+"k": "text"
+},
+{
+"t": "Most WSET Level 2 questions link a grape to a region and a style. Learn this table well and you answer a large part of the exam.",
+"k": "text"
+},
+{
+"t": "Principal grapes, regions and styles",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Key regions",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "Chablis, Burgundy, California, Australia",
+"k": "text"
+},
+{
+"t": "Lean and mineral (cool) to tropical and oaked (warm)",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Sancerre, Pouilly-Fumé, Marlborough",
+"k": "text"
+},
+{
+"t": "High acidity, grass, gooseberry, passion fruit",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Mosel, Alsace, Clare Valley",
+"k": "text"
+},
+{
+"t": "High acidity, dry to sweet, ages well",
+"k": "text"
+},
+{
+"t": "Pinot Grigio / Gris",
+"k": "text"
+},
+{
+"t": "North-east Italy, Alsace",
+"k": "text"
+},
+{
+"t": "Light and crisp (Italy) or richer (Alsace)",
+"k": "text"
+},
+{
+"t": "Chenin Blanc",
+"k": "text"
+},
+{
+"t": "Vouvray, South Africa",
+"k": "text"
+},
+{
+"t": "High acidity, dry to sweet and sparkling",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Burgundy, New Zealand, California",
+"k": "text"
+},
+{
+"t": "Light colour, red fruit, silky tannin",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Bordeaux Left Bank, Napa, Coonawarra",
+"k": "text"
+},
+{
+"t": "High tannin and acidity, blackcurrant",
+"k": "text"
+},
+{
+"t": "Merlot",
+"k": "text"
+},
+{
+"t": "Bordeaux Right Bank, Chile",
+"k": "text"
+},
+{
+"t": "Medium tannin, plum, soft",
+"k": "text"
+},
+{
+"t": "Syrah / Shiraz",
+"k": "text"
+},
+{
+"t": "Northern Rhône, Barossa",
+"k": "text"
+},
+{
+"t": "Black fruit, pepper (cool) or rich and spicy (warm)",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Southern Rhône, Spain (Garnacha)",
+"k": "text"
+},
+{
+"t": "High alcohol, red fruit",
+"k": "text"
+},
+{
+"t": "Tempranillo",
+"k": "text"
+},
+{
+"t": "Rioja, Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Red fruit, ages well in oak",
+"k": "text"
+},
+{
+"t": "Sangiovese",
+"k": "text"
+},
+{
+"t": "Chianti",
+"k": "text"
+},
+{
+"t": "High acidity, red cherry",
+"k": "text"
+},
+{
+"t": "Nebbiolo",
+"k": "text"
+},
+{
+"t": "Barolo, Barbaresco",
+"k": "text"
+},
+{
+"t": "High tannin and acidity, pale colour",
+"k": "text"
+},
+{
+"t": "Malbec",
+"k": "text"
+},
+{
+"t": "Mendoza, Cahors",
+"k": "text"
+},
+{
+"t": "Deep colour, black fruit",
+"k": "text"
+},
+{
+"t": "Cool vs warm climate",
+"k": "text"
+},
+{
+"t": "Cool climates give higher acidity, lighter body and green or citrus fruit; warm climates give riper, riper-tasting fruit, more body and more alcohol. Many questions ask exactly this contrast for Chardonnay, Sauvignon Blanc, Syrah and Cabernet Sauvignon.",
+"k": "text"
+},
+{
+"t": "Regional grapes often asked",
+"k": "text"
+},
+{
+"t": "Albariño (Rías Baixas), Grüner Veltliner (Austria), Furmint (Tokaj), Torrontés (Argentina), Pinotage (South Africa), Carmenère (Chile), Zinfandel (California), Garganega (Soave), Montepulciano (Abruzzo).",
+"k": "text"
+},
+{
+"t": "How to memorise them",
+"k": "text"
+},
+{
+"t": "Group grapes by colour and by climate preference.",
+"k": "text"
+},
+{
+"t": "Practise in both directions: grape → region and region → grape.",
+"k": "text"
+},
+{
+"t": "Ten minutes of mixed questions every day beats one long session.",
+"k": "text"
+},
+{
+"t": "Study notes: each grape, its regions and why it tastes that way",
+"k": "text"
+},
+{
+"t": "The cheat sheet above gives you the pairs; these notes give you the reasons. For every grape you will find where it grows, how the style changes with climate and winemaking, and the clues that help you recognise it in a question. Read one grape a day and then test yourself in both directions: from the grape to the region, and from the region back to the grape.",
+"k": "text"
+},
+{
+"t": "Chardonnay is a fairly neutral grape, which is why it shows the influence of climate and winemaking so clearly. In Chablis, the coolest part of Burgundy, it gives lean wines with high acidity and green apple and lemon flavours, usually with little or no new oak. Further south in the Côte de Beaune and the Mâconnais it becomes rounder, with more stone fruit, and the best wines are often fermented and aged in oak. In warm regions of California and Australia it shows peach, melon and pineapple, and many examples combine malolactic conversion with new oak for butter, vanilla and toast. It is also one of the three main grapes of Champagne.",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc is aromatic, with high acidity and green, herbaceous notes such as grass, green pepper and gooseberry. It is usually fermented cool in stainless steel and drunk young. In the Loire Valley, Sancerre and Pouilly-Fumé give restrained, mineral, citrus styles. Marlborough in New Zealand has made it famous for a very intense, pungent style that adds passion fruit to the green notes. In Bordeaux it is often blended with Sémillon, both for dry whites and for the sweet wines of Sauternes.",
+"k": "text"
+},
+{
+"t": "Riesling is very aromatic, with floral and citrus notes, and keeps high acidity even when ripe. It is rarely oaked, so its fruit stays pure. In the Mosel, a cool German region with steep slate slopes along the river, it gives light, low-alcohol wines that range from dry to lusciously sweet. Alsace and the Clare and Eden Valleys in Australia make mostly dry, fuller styles, the Australian ones with distinctive lime notes. Riesling ages very well, developing honey and toast aromas, and it is used for late-harvest, noble rot and icewine sweet wines.",
+"k": "text"
+},
+{
+"t": "Pinot Grigio / Pinot Gris",
+"k": "text"
+},
+{
+"t": "This grape has a greyish-pink skin and two well-known personalities. As Pinot Grigio in north-east Italy it is picked early to give light, crisp, neutral whites with citrus and pear. As Pinot Gris in Alsace it is picked riper, giving fuller, richer wines with ripe stone fruit, sometimes with a touch of sweetness. The name on the label is a strong hint of the style.",
+"k": "text"
+},
+{
+"t": "Chenin Blanc has high acidity, which makes it extremely versatile. In the Loire, Vouvray is made in every style from dry to sweet and sparkling, with apple, quince and honey notes. South Africa is the other key country, with fresh, fruity everyday wines and richer, sometimes oaked, versions.",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon has small, thick-skinned grapes that give deep colour, high tannin and high acidity, with blackcurrant, green pepper and mint notes. It needs warmth to ripen fully. On the Left Bank of Bordeaux, in the Médoc, gravel soils store heat and help it ripen; there it is blended with Merlot and other grapes. Napa Valley in California and Coonawarra in Australia make riper, fuller versions, often aged in new oak. Good examples age for many years.",
+"k": "text"
+},
+{
+"t": "Merlot ripens earlier than Cabernet Sauvignon and gives softer wines with medium tannin and plum and red fruit flavours. It dominates the Right Bank of Bordeaux, in Saint-Émilion and Pomerol, where cooler clay soils suit it better than Cabernet. In Chile and California it makes fruity, approachable reds. Its softness is the reason it is often blended with Cabernet Sauvignon: one gives structure, the other gives flesh.",
+"k": "text"
+},
+{
+"t": "Pinot Noir has thin skins, so its wines are pale, with low to medium tannin and red fruit such as strawberry, raspberry and cherry, developing earthy and mushroom notes with age. It needs a cool climate: in heat it loses its delicacy. Burgundy, especially the Côte de Nuits, is its reference region. New Zealand, Oregon and the cooler parts of California and Chile make riper, fruitier versions. It is also a key grape in Champagne.",
+"k": "text"
+},
+{
+"t": "Syrah gives deep-coloured wines with black fruit and medium to high tannin. In the Northern Rhône, in appellations such as Côte-Rôtie and Hermitage, the style is structured with black pepper notes. In Australia, where it is called Shiraz, the warm Barossa Valley gives full-bodied, high-alcohol wines with ripe blackberry, chocolate and sweet spice, often aged in American oak. In the Southern Rhône it is a blending partner for Grenache.",
+"k": "text"
+},
+{
+"t": "Grenache / Garnacha",
+"k": "text"
+},
+{
+"t": "Grenache loves heat and drought. It gives wines with high alcohol, light colour, ripe red fruit and soft tannins, often with sweet spice. It is the backbone of Southern Rhône blends such as Côtes du Rhône and Châteauneuf-du-Pape, usually with Syrah and Mourvèdre. In Spain, as Garnacha, it is used in Rioja and Navarra and makes powerful reds in Priorat. It is also a favourite grape for rosé.",
+"k": "text"
+},
+{
+"t": "Tempranillo gives medium to deep coloured wines with red fruit and medium acidity and tannin. It is Spain's leading quality red grape, in Rioja, often blended with Garnacha, and in Ribera del Duero, where the style is usually deeper and more concentrated. It takes oak ageing very well: in Rioja, American oak brings vanilla and coconut, and the ageing terms Crianza, Reserva and Gran Reserva are especially common. In Portugal it is used in the Douro under another name.",
+"k": "text"
+},
+{
+"t": "Sangiovese is Tuscany's grape: high acidity, high tannin and red cherry with herbal notes. It is the main grape of Chianti and Chianti Classico, and Brunello di Montalcino is made from it alone. Its high acidity makes it a classic partner for tomato-based dishes.",
+"k": "text"
+},
+{
+"t": "Nebbiolo from Piedmont, in north-west Italy, is a paradox: pale in colour but very high in tannin and acidity, with aromas of red cherry and roses that develop earthy notes over time. Barolo and Barbaresco are its two most famous wines and need years of ageing to soften.",
+"k": "text"
+},
+{
+"t": "Malbec gives deep-coloured wines with black fruit and medium to high tannin. Its modern home is Mendoza in Argentina, where high-altitude vineyards give sunny days and cool nights, keeping freshness and colour. Its historic home is Cahors in south-west France, where it gives firm, dark wines.",
+"k": "text"
+},
+{
+"t": "Regions country by country",
+"k": "text"
+},
+{
+"t": "Use this table to revise geography. Read it with a map open: placing each region in its country makes the climate logic much easier to remember.",
+"k": "text"
+},
+{
+"t": "Country",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Main grapes",
+"k": "text"
+},
+{
+"t": "What to remember",
+"k": "text"
+},
+{
+"t": "France",
+"k": "text"
+},
+{
+"t": "Bordeaux",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon, Merlot; Sauvignon Blanc, Sémillon",
+"k": "text"
+},
+{
+"t": "Blends; Left Bank Cabernet, Right Bank Merlot; Sauternes is sweet",
+"k": "text"
+},
+{
+"t": "Burgundy",
+"k": "text"
+},
+{
+"t": "Chardonnay, Pinot Noir; Gamay in Beaujolais",
+"k": "text"
+},
+{
+"t": "Chablis in the north, Côte d'Or, Mâconnais in the south",
+"k": "text"
+},
+{
+"t": "Loire Valley",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc, Chenin Blanc, Melon Blanc, Cabernet Franc",
+"k": "text"
+},
+{
+"t": "Sancerre, Vouvray, Muscadet: cool and fresh",
+"k": "text"
+},
+{
+"t": "Rhône Valley",
+"k": "text"
+},
+{
+"t": "Syrah in the north; Grenache blends in the south",
+"k": "text"
+},
+{
+"t": "Côte-Rôtie, Hermitage; Châteauneuf-du-Pape",
+"k": "text"
+},
+{
+"t": "Alsace",
+"k": "text"
+},
+{
+"t": "Riesling, Gewurztraminer, Pinot Gris",
+"k": "text"
+},
+{
+"t": "Grape named on the label; dry to sweet",
+"k": "text"
+},
+{
+"t": "Champagne",
+"k": "text"
+},
+{
+"t": "Chardonnay, Pinot Noir, Pinot Meunier",
+"k": "text"
+},
+{
+"t": "Traditional method sparkling",
+"k": "text"
+},
+{
+"t": "Italy",
+"k": "text"
+},
+{
+"t": "Piedmont",
+"k": "text"
+},
+{
+"t": "Nebbiolo, Barbera, Moscato",
+"k": "text"
+},
+{
+"t": "Barolo, Barbaresco, Asti",
+"k": "text"
+},
+{
+"t": "Tuscany",
+"k": "text"
+},
+{
+"t": "Chianti, Brunello di Montalcino",
+"k": "text"
+},
+{
+"t": "Veneto",
+"k": "text"
+},
+{
+"t": "Garganega, Corvina, Glera",
+"k": "text"
+},
+{
+"t": "Soave, Valpolicella, Prosecco",
+"k": "text"
+},
+{
+"t": "Spain",
+"k": "text"
+},
+{
+"t": "Rioja and Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Tempranillo, Garnacha",
+"k": "text"
+},
+{
+"t": "Oak-aged reds with ageing terms",
+"k": "text"
+},
+{
+"t": "Rías Baixas",
+"k": "text"
+},
+{
+"t": "Albariño",
+"k": "text"
+},
+{
+"t": "Fresh, aromatic whites from the Atlantic north-west",
+"k": "text"
+},
+{
+"t": "Jerez",
+"k": "text"
+},
+{
+"t": "Palomino",
+"k": "text"
+},
+{
+"t": "Sherry",
+"k": "text"
+},
+{
+"t": "Portugal",
+"k": "text"
+},
+{
+"t": "Douro",
+"k": "text"
+},
+{
+"t": "Touriga Nacional and other local grapes",
+"k": "text"
+},
+{
+"t": "Port and dry reds",
+"k": "text"
+},
+{
+"t": "Germany",
+"k": "text"
+},
+{
+"t": "Mosel",
+"k": "text"
+},
+{
+"t": "Light, high-acid wines, dry to sweet",
+"k": "text"
+},
+{
+"t": "Austria",
+"k": "text"
+},
+{
+"t": "Lower Austria",
+"k": "text"
+},
+{
+"t": "Grüner Veltliner",
+"k": "text"
+},
+{
+"t": "Peppery, fresh whites",
+"k": "text"
+},
+{
+"t": "Hungary",
+"k": "text"
+},
+{
+"t": "Tokaj",
+"k": "text"
+},
+{
+"t": "Furmint",
+"k": "text"
+},
+{
+"t": "Sweet noble rot wines and dry whites",
+"k": "text"
+},
+{
+"t": "USA",
+"k": "text"
+},
+{
+"t": "California (Napa, Sonoma)",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon, Chardonnay, Zinfandel, Pinot Noir",
+"k": "text"
+},
+{
+"t": "Ripe, often oaked styles",
+"k": "text"
+},
+{
+"t": "Oregon",
+"k": "text"
+},
+{
+"t": "Cooler, elegant reds",
+"k": "text"
+},
+{
+"t": "Australia",
+"k": "text"
+},
+{
+"t": "Barossa, Coonawarra, Clare and Eden Valleys, Hunter Valley",
+"k": "text"
+},
+{
+"t": "Shiraz, Cabernet Sauvignon, Riesling, Sémillon",
+"k": "text"
+},
+{
+"t": "From full-bodied reds to dry lime-scented Riesling",
+"k": "text"
+},
+{
+"t": "New Zealand",
+"k": "text"
+},
+{
+"t": "Marlborough, Central Otago",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc, Pinot Noir",
+"k": "text"
+},
+{
+"t": "Intense aromatic whites, fruity Pinot Noir",
+"k": "text"
+},
+{
+"t": "Chile",
+"k": "text"
+},
+{
+"t": "Central Valley, Casablanca",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon, Merlot, Carmenère, Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Warm valleys for reds, coastal cool areas for whites",
+"k": "text"
+},
+{
+"t": "Argentina",
+"k": "text"
+},
+{
+"t": "Mendoza, Salta",
+"k": "text"
+},
+{
+"t": "Malbec, Torrontés",
+"k": "text"
+},
+{
+"t": "High altitude keeps freshness",
+"k": "text"
+},
+{
+"t": "South Africa",
+"k": "text"
+},
+{
+"t": "Stellenbosch and others",
+"k": "text"
+},
+{
+"t": "Chenin Blanc, Pinotage, Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Cooling ocean influence",
+"k": "text"
+},
+{
+"t": "Regional grapes: one line each",
+"k": "text"
+},
+{
+"t": "Where",
+"k": "text"
+},
+{
+"t": "Style clue",
+"k": "text"
+},
+{
+"t": "Rías Baixas, Spain",
+"k": "text"
+},
+{
+"t": "High acidity, peach and citrus, unoaked",
+"k": "text"
+},
+{
+"t": "Citrus, green fruit and white pepper",
+"k": "text"
+},
+{
+"t": "Tokaj, Hungary",
+"k": "text"
+},
+{
+"t": "High acidity; famous for sweet noble rot wines",
+"k": "text"
+},
+{
+"t": "Torrontés",
+"k": "text"
+},
+{
+"t": "Very floral and aromatic",
+"k": "text"
+},
+{
+"t": "Gewurztraminer",
+"k": "text"
+},
+{
+"t": "Lychee, rose, low acidity, often off-dry",
+"k": "text"
+},
+{
+"t": "Viognier",
+"k": "text"
+},
+{
+"t": "Northern Rhône (Condrieu)",
+"k": "text"
+},
+{
+"t": "Apricot, peach, blossom, full body",
+"k": "text"
+},
+{
+"t": "Sémillon",
+"k": "text"
+},
+{
+"t": "Bordeaux, Hunter Valley",
+"k": "text"
+},
+{
+"t": "Blended with Sauvignon Blanc; prone to noble rot",
+"k": "text"
+},
+{
+"t": "Melon Blanc",
+"k": "text"
+},
+{
+"t": "Muscadet, Loire",
+"k": "text"
+},
+{
+"t": "Neutral, light, often aged sur lie",
+"k": "text"
+},
+{
+"t": "Gamay",
+"k": "text"
+},
+{
+"t": "Beaujolais",
+"k": "text"
+},
+{
+"t": "Light, red fruit, low tannin",
+"k": "text"
+},
+{
+"t": "Cabernet Franc",
+"k": "text"
+},
+{
+"t": "Loire, Bordeaux",
+"k": "text"
+},
+{
+"t": "Red fruit, leafy notes, medium tannin",
+"k": "text"
+},
+{
+"t": "Barbera",
+"k": "text"
+},
+{
+"t": "High acidity, low tannin, black cherry",
+"k": "text"
+},
+{
+"t": "Corvina",
+"k": "text"
+},
+{
+"t": "Valpolicella, Veneto",
+"k": "text"
+},
+{
+"t": "Red cherry; dried grapes for Amarone",
+"k": "text"
+},
+{
+"t": "Montepulciano",
+"k": "text"
+},
+{
+"t": "Abruzzo",
+"k": "text"
+},
+{
+"t": "Deep colour, black fruit, soft tannin",
+"k": "text"
+},
+{
+"t": "Carmenère",
+"k": "text"
+},
+{
+"t": "Black fruit with green pepper notes",
+"k": "text"
+},
+{
+"t": "Pinotage",
+"k": "text"
+},
+{
+"t": "A crossing of Pinot Noir and Cinsault; dark fruit",
+"k": "text"
+},
+{
+"t": "Zinfandel / Primitivo",
+"k": "text"
+},
+{
+"t": "California / Puglia",
+"k": "text"
+},
+{
+"t": "Very ripe, high alcohol, jammy fruit",
+"k": "text"
+},
+{
+"t": "Blends you should recognise",
+"k": "text"
+},
+{
+"t": "Bordeaux red: Cabernet Sauvignon and Merlot, often with Cabernet Franc; the proportion depends on the bank.",
+"k": "text"
+},
+{
+"t": "Bordeaux white: Sauvignon Blanc and Sémillon, dry or sweet as in Sauternes.",
+"k": "text"
+},
+{
+"t": "Southern Rhône: Grenache with Syrah and Mourvèdre; the same blend appears in Australia, where it is often called GSM.",
+"k": "text"
+},
+{
+"t": "Rioja: Tempranillo with Garnacha and small amounts of other local grapes.",
+"k": "text"
+},
+{
+"t": "Champagne: Chardonnay, Pinot Noir and Pinot Meunier, alone or together.",
+"k": "text"
+},
+{
+"t": "Chianti: mainly Sangiovese, sometimes with small amounts of other grapes.",
+"k": "text"
+},
+{
+"t": "Pairs candidates often confuse",
+"k": "text"
+},
+{
+"t": "Easily confused",
+"k": "text"
+},
+{
+"t": "How to tell them apart",
+"k": "text"
+},
+{
+"t": "Pouilly-Fumé vs Pouilly-Fuissé",
+"k": "text"
+},
+{
+"t": "Pouilly-Fumé is Loire Sauvignon Blanc; Pouilly-Fuissé is Mâconnais Chardonnay",
+"k": "text"
+},
+{
+"t": "Montepulciano d'Abruzzo vs Vino Nobile di Montepulciano",
+"k": "text"
+},
+{
+"t": "The first is a grape in Abruzzo; the second is a Sangiovese wine named after a Tuscan town",
+"k": "text"
+},
+{
+"t": "Bordeaux Left Bank vs Right Bank",
+"k": "text"
+},
+{
+"t": "Left: gravel, Cabernet Sauvignon; Right: clay, Merlot",
+"k": "text"
+},
+{
+"t": "Northern vs Southern Rhône",
+"k": "text"
+},
+{
+"t": "North: Syrah alone or nearly; South: Grenache-based blends",
+"k": "text"
+},
+{
+"t": "Barolo vs Brunello di Montalcino",
+"k": "text"
+},
+{
+"t": "Barolo is Nebbiolo from Piedmont; Brunello is Sangiovese from Tuscany",
+"k": "text"
+},
+{
+"t": "Rioja vs Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Both Tempranillo; Ribera is usually deeper and more concentrated, Rioja often blended with Garnacha",
+"k": "text"
+},
+{
+"t": "Sancerre white vs red",
+"k": "text"
+},
+{
+"t": "White is Sauvignon Blanc; the rarer red and rosé are Pinot Noir",
+"k": "text"
+},
+{
+"t": "Syrah vs Shiraz",
+"k": "text"
+},
+{
+"t": "Same grape: Syrah usually signals a cooler, peppery style, Shiraz a riper Australian style",
+"k": "text"
+},
+{
+"t": "Cool, moderate or warm? A quick classification",
+"k": "text"
+},
+{
+"t": "Many questions describe a style and ask where it comes from, so it helps to sort the regions by climate. The groupings below are simplified, but they match the logic of the course and are enough to eliminate wrong answers quickly.",
+"k": "text"
+},
+{
+"t": "Climate",
+"k": "text"
+},
+{
+"t": "Typical regions",
+"k": "text"
+},
+{
+"t": "What it means in the glass",
+"k": "text"
+},
+{
+"t": "Cool",
+"k": "text"
+},
+{
+"t": "Chablis, Champagne, Loire Valley, Mosel, Marlborough, Central Otago, Oregon",
+"k": "text"
+},
+{
+"t": "High acidity, lighter body, citrus, green and red fruit",
+"k": "text"
+},
+{
+"t": "Moderate",
+"k": "text"
+},
+{
+"t": "Bordeaux, Côte d'Or, Northern Rhône, Rioja, Piedmont, Tuscany",
+"k": "text"
+},
+{
+"t": "Balanced acidity, medium to full body, a mix of fresh and ripe fruit",
+"k": "text"
+},
+{
+"t": "Warm",
+"k": "text"
+},
+{
+"t": "Southern Rhône, Barossa Valley, Napa Valley, Central Valley of Chile, Douro",
+"k": "text"
+},
+{
+"t": "Fuller body, higher alcohol, softer acidity, ripe black and tropical fruit",
+"k": "text"
+},
+{
+"t": "Remember that altitude and sea breezes can turn a warm country into a source of fresh wines: Mendoza is cooled by height, Casablanca in Chile by the Pacific Ocean, and parts of South Africa by the Atlantic.",
+"k": "text"
+},
+{
+"t": "A five-step method to memorise grapes and regions",
+"k": "text"
+},
+{
+"t": "Start with the eight principal grapes and write, for each one, two cool regions and two warm regions.",
+"k": "text"
+},
+{
+"t": "Add one country a day, placing every region on a blank map and naming its grapes from memory.",
+"k": "text"
+},
+{
+"t": "Make a flashcard for each region with the grape on the back, and another set the other way round.",
+"k": "text"
+},
+{
+"t": "Every few days, sort the regions into cool, moderate and warm, and explain the effect on acidity, body and fruit.",
+"k": "text"
+},
+{
+"t": "Finish each session with ten mixed questions and write down every mistake to review the next day.",
+"k": "text"
+},
+{
+"t": "Say the grape and the region together aloud, as one phrase: Barossa Shiraz, Marlborough Sauvignon, Mendoza Malbec. Linking them in speech makes the pair much harder to forget.",
+"k": "text"
+},
+{
+"t": "Sample questions with explained answers",
+"k": "text"
+},
+{
+"t": "Question: Which grape is used for red Burgundy? Answer: Pinot Noir. Burgundy's red wines come from Pinot Noir and its whites from Chardonnay; Gamay is the grape of Beaujolais, just to the south.",
+"k": "text"
+},
+{
+"t": "Question: Which region is best known for Malbec grown at high altitude? Answer: Mendoza in Argentina. The altitude gives cool nights that keep acidity and colour in a very sunny climate.",
+"k": "text"
+},
+{
+"t": "Question: A white wine is pale, light, very high in acidity, low in alcohol and medium-sweet, with floral and green apple notes. Which region is the most likely? Answer: the Mosel. A cool climate and Riesling explain the high acidity and low alcohol, and the sweetness is a common style there.",
+"k": "text"
+},
+{
+"t": "Question: Which grape is the main variety of Chianti? Answer: Sangiovese, which gives high acidity and red cherry flavours.",
+"k": "text"
+},
+{
+"t": "Question: Why is Cabernet Sauvignon planted on gravel on the Left Bank of Bordeaux? Answer: gravel drains well and stores heat, helping a late-ripening grape reach full ripeness in a moderate climate.",
+"k": "text"
+},
+{
+"t": "Question: Which grape is used to make Prosecco? Answer: Glera, grown in north-east Italy and made sparkling by the tank method.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Learn grapes and regions with maps and flashcards",
+"k": "text"
+},
+{
+"t": "Interactive maps, grape flashcards and thousands of questions, with your mistakes coming back until you know them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many grapes do you need to know for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "The course focuses on a group of principal international grapes plus a number of regionally important ones; the table above covers the main ones.",
+"k": "text"
+},
+{
+"t": "What is the best way to learn WSET Level 2 regions?",
+"k": "text"
+},
+{
+"t": "Use a map and practise grape ↔ region questions daily. The Wine Goat has interactive maps and flashcards for this.",
+"k": "text"
+},
+{
+"t": "Is there tasting in the WSET Level 2 exam?",
+"k": "text"
+},
+{
+"t": "No: the Level 2 exam is multiple choice only, though tasting in class helps you remember the styles.",
+"k": "text"
+},
+{
+"t": "Which grapes are the eight principal varieties at WSET Level 2?",
+"k": "text"
+},
+{
+"t": "The course gives the most weight to Chardonnay, Sauvignon Blanc, Pinot Grigio/Pinot Gris and Riesling among whites, and Cabernet Sauvignon, Merlot, Pinot Noir and Syrah/Shiraz among reds. For each one you should know the classic regions and how the style changes in cooler and warmer places. The regionally important grapes, such as Tempranillo, Sangiovese or Albariño, are then attached to specific regions.",
+"k": "text"
+},
+{
+"t": "How many regions do I need to learn for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "The course covers more than seventy geographical indications, but they are not all equally important. Start with the regions linked to the principal grapes, then add the classic regions of France, Italy, Spain and Germany, and finally the main New World areas. Learning them by country and climate, with a map, is much faster than memorising an alphabetical list.",
+"k": "text"
+},
+{
+"t": "What is the difference between a grape and a region on a wine label?",
+"k": "text"
+},
+{
+"t": "Many European wines name only the region, for example Chablis or Rioja, and you are expected to know which grapes it allows. Many New World wines name the grape, for example Marlborough Sauvignon Blanc. Exam questions often test whether you can translate a European regional name into its grape variety, so practise region-to-grape questions regularly.",
+"k": "text"
+},
+{
+"t": "Do I need to know soils for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "Only at a very basic level. The idea that matters most is that some soils store heat or drain well, such as the gravel of the Bordeaux Left Bank, while others stay cooler, such as the clay of the Right Bank. Detailed soil types for each region belong to Level 3, where you will need to explain how they influence ripening.",
+"k": "text"
+},
+{
+"t": "How can I avoid mixing up Italian and Spanish red grapes?",
+"k": "text"
+},
+{
+"t": "Link each grape to one emblematic wine and one key structural feature. Sangiovese: Chianti, high acidity. Nebbiolo: Barolo, pale but very tannic. Tempranillo: Rioja, takes oak well. Garnacha: high alcohol, red fruit. Repeating these short profiles in mixed practice sessions quickly removes the confusion between them.",
+"k": "text"
+},
+{
+"t": "More WSET 3 resources",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained: from Level 1 to the Diploma{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Diploma (Level 4), explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips: theory, D3 and tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}Is WSET worth it?{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}Free WSET Level 3 mock exam{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short answer questions{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Systematic Approach to Tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

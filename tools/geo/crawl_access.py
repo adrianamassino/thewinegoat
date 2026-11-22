@@ -64,6 +64,10 @@ def family(p):
 
 
 LANGS = {'it', 'fr', 'es', 'es-ar', 'de', 'nl', 'pl', 'pt', 'pt-br', 'ru', 'el', 'ja', 'ko', 'zh-hans', 'zh-hant', 'ar', 'th', 'tr', 'en'}
+
+# the 11 languages added later (tools/site_i18n/newlangs.py)
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '../site_i18n')); import newlangs as NL
+LANGS |= set(NL.LANGS)
 CORE = {u.lstrip('/') + 'index.html' for k in json.load(open('tools/seo_core/slugs.json')).values() for u in k.values()}
 SPIRITS = {u.lstrip('/') + 'index.html' for k in json.load(open('tools/seo_sp/slugs.json')).values() for u in (k.values() if isinstance(k, dict) else [])}
 ABOUT = [u.lstrip('/') for k in json.load(open('tools/geo/slugs.json')).values() for u in k.values()]

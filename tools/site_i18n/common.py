@@ -27,6 +27,23 @@ UPDATED = {'en': 'Updated', 'it': 'Aggiornato il', 'fr': 'Mis à jour le', 'es':
            'th': 'อัปเดตเมื่อ', 'tr': 'Güncellendi'}
 LANGNAV = {'ar': 'اللغة', 'th': 'ภาษา', 'tr': 'Dil', 'ja': '言語', 'ko': '언어', 'zh-hans': '语言', 'zh-hant': '語言', 'ru': 'Язык', 'el': 'Γλώσσα', 'de': 'Sprache', 'nl': 'Taal',
            'pl': 'Język', 'pt': 'Idioma', 'pt-br': 'Idioma', 'es': 'Idioma', 'es-ar': 'Idioma', 'it': 'Lingua', 'fr': 'Langue', 'en': 'Language'}
+# the 11 languages added later (tools/site_i18n/newlangs.py): codes, names and the short interface strings
+import sys as _sys; _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import newlangs as NL
+LANGS += [l for l in NL.LANGS if l not in LANGS]
+NEW = [l for l in LANGS if l not in OLD4]
+HREF.update(NL.HREF); HOME_HREF.update(NL.HREF)
+ALSO = dict(NL.ALSO)                    # extra hreflang codes for the same URL, on every page (homes: HOME_ALSO)
+HOME_ALSO.update(NL.ALSO)
+for _t, _x in ((OGLOC, NL.OGLOC), (LNAME, NL.LNAME), (START, NL.START), (UPDATED, NL.UPDATED), (LANGNAV, NL.LANGNAV)): NL.merge(_t, _x)
+HOME_LNAME = dict(LNAME, **{'es-ar': 'Español (Argentina)', 'pt': 'Português (Portugal)', 'pt-br': 'Português (Brasil)'})
+
+
+def codes(l):
+    """every hreflang code under which the page of language l is listed (guides, core, spirits)"""
+    return [href(l)] + ALSO.get(l, [])
+
+
 DISC_EN = ('The Wine Goat is an independent exam preparation platform, not affiliated with, endorsed or sponsored by the Wine &amp; Spirit Education Trust. '
            'WSET® is a registered trademark of the Wine &amp; Spirit Education Trust, mentioned only to identify the exam being prepared for.')
 

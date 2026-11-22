@@ -18,7 +18,18 @@
   "zh-hant": "/zh-hant/wset-spirits/",
   "ar": "/ar/wset-spirits/",
   "th": "/th/wset-spirits/",
-  "tr": "/tr/wset-spirits/"
+  "tr": "/tr/wset-spirits/",
+  "sv": "/sv/wset-spirits/",
+  "da": "/da/wset-spirits/",
+  "no": "/no/wset-spirits/",
+  "fi": "/fi/wset-spirits/",
+  "ro": "/ro/wset-spirits/",
+  "hu": "/hu/wset-spirits/",
+  "is": "/is/wset-spirits/",
+  "cs": "/cs/wset-spirits/",
+  "sk": "/sk/wset-spirits/",
+  "hr": "/hr/wset-spirits/",
+  "sl": "/sl/wset-spirits/"
  },
  "l1": {
   "en": "/wset-spirits-level-1/",
@@ -39,7 +50,18 @@
   "zh-hant": "/zh-hant/wset-spirits-level-1/",
   "ar": "/ar/wset-spirits-level-1/",
   "th": "/th/wset-spirits-level-1/",
-  "tr": "/tr/wset-spirits-seviye-1/"
+  "tr": "/tr/wset-spirits-seviye-1/",
+  "sv": "/sv/wset-spirits-niva-1/",
+  "da": "/da/wset-spirits-niveau-1/",
+  "no": "/no/wset-spirits-niva-1/",
+  "fi": "/fi/wset-spirits-taso-1/",
+  "ro": "/ro/wset-spirits-nivelul-1/",
+  "hu": "/hu/wset-spirits-1-szint/",
+  "is": "/is/wset-spirits-stig-1/",
+  "cs": "/cs/wset-spirits-uroven-1/",
+  "sk": "/sk/wset-spirits-uroven-1/",
+  "hr": "/hr/wset-spirits-razina-1/",
+  "sl": "/sl/wset-spirits-stopnja-1/"
  },
  "l2": {
   "en": "/wset-spirits-level-2/",
@@ -60,7 +82,18 @@
   "zh-hant": "/zh-hant/wset-spirits-level-2/",
   "ar": "/ar/wset-spirits-level-2/",
   "th": "/th/wset-spirits-level-2/",
-  "tr": "/tr/wset-spirits-seviye-2/"
+  "tr": "/tr/wset-spirits-seviye-2/",
+  "sv": "/sv/wset-spirits-niva-2/",
+  "da": "/da/wset-spirits-niveau-2/",
+  "no": "/no/wset-spirits-niva-2/",
+  "fi": "/fi/wset-spirits-taso-2/",
+  "ro": "/ro/wset-spirits-nivelul-2/",
+  "hu": "/hu/wset-spirits-2-szint/",
+  "is": "/is/wset-spirits-stig-2/",
+  "cs": "/cs/wset-spirits-uroven-2/",
+  "sk": "/sk/wset-spirits-uroven-2/",
+  "hr": "/hr/wset-spirits-razina-2/",
+  "sl": "/sl/wset-spirits-stopnja-2/"
  },
  "l3": {
   "en": "/wset-spirits-level-3/",
@@ -81,7 +114,18 @@
   "zh-hant": "/zh-hant/wset-spirits-level-3/",
   "ar": "/ar/wset-spirits-level-3/",
   "th": "/th/wset-spirits-level-3/",
-  "tr": "/tr/wset-spirits-seviye-3/"
+  "tr": "/tr/wset-spirits-seviye-3/",
+  "sv": "/sv/wset-spirits-niva-3/",
+  "da": "/da/wset-spirits-niveau-3/",
+  "no": "/no/wset-spirits-niva-3/",
+  "fi": "/fi/wset-spirits-taso-3/",
+  "ro": "/ro/wset-spirits-nivelul-3/",
+  "hu": "/hu/wset-spirits-3-szint/",
+  "is": "/is/wset-spirits-stig-3/",
+  "cs": "/cs/wset-spirits-uroven-3/",
+  "sk": "/sk/wset-spirits-uroven-3/",
+  "hr": "/hr/wset-spirits-razina-3/",
+  "sl": "/sl/wset-spirits-stopnja-3/"
  },
  "qs": {
   "en": "/wset-spirits-practice-questions/",
@@ -102,7 +146,18 @@
   "zh-hant": "/zh-hant/wset-spirits-practice-questions/",
   "ar": "/ar/wset-spirits-practice-questions/",
   "th": "/th/wset-spirits-practice-questions/",
-  "tr": "/tr/wset-spirits-deneme-sorulari/"
+  "tr": "/tr/wset-spirits-deneme-sorulari/",
+  "sv": "/sv/wset-spirits-ovningsfragor/",
+  "da": "/da/wset-spirits-ovelsessporgsmal/",
+  "no": "/no/wset-spirits-ovingssporsmal/",
+  "fi": "/fi/wset-spirits-harjoituskysymykset/",
+  "ro": "/ro/intrebari-wset-spirits/",
+  "hu": "/hu/wset-spirits-gyakorlo-kerdesek/",
+  "is": "/is/wset-spirits-aefingaspurningar/",
+  "cs": "/cs/wset-spirits-cvicne-otazky/",
+  "sk": "/sk/wset-spirits-cvicne-otazky/",
+  "hr": "/hr/wset-spirits-pitanja-za-vjezbu/",
+  "sl": "/sl/wset-spirits-vprasanja-za-vajo/"
  },
  "stills": {
   "en": "/how-spirits-are-made-pot-still-column-still/",
@@ -123,7 +178,18 @@
   "zh-hant": "/zh-hant/how-spirits-are-made-pot-still-column-still/",
   "ar": "/ar/how-spirits-are-made-pot-still-column-still/",
   "th": "/th/how-spirits-are-made-pot-still-column-still/",
-  "tr": "/tr/damitik-icecekler-nasil-yapilir/"
+  "tr": "/tr/damitik-icecekler-nasil-yapilir/",
+  "sv": "/sv/sa-tillverkas-sprit/",
+  "da": "/da/sadan-fremstilles-spiritus/",
+  "no": "/no/slik-lages-brennevin/",
+  "fi": "/fi/miten-vakevat-valmistetaan/",
+  "ro": "/ro/cum-se-fac-distilatele/",
+  "hu": "/hu/miten-keszulnek-a-parlatok/",
+  "is": "/is/hvernig-sterkt-afengi-er-framleitt/",
+  "cs": "/cs/jak-se-vyrabeji-destilaty/",
+  "sk": "/sk/ako-sa-vyrabaju-destilaty/",
+  "hr": "/hr/kako-se-proizvode-zestoka-pica/",
+  "sl": "/sl/kako-nastanejo-zgane-pijace/"
  },
  "cats": {
   "en": "/spirits-categories-cheat-sheet/",
@@ -144,7 +210,18 @@
   "zh-hant": "/zh-hant/spirits-categories-cheat-sheet/",
   "ar": "/ar/spirits-categories-cheat-sheet/",
   "th": "/th/spirits-categories-cheat-sheet/",
-  "tr": "/tr/damitik-icki-kategorileri/"
+  "tr": "/tr/damitik-icki-kategorileri/",
+  "sv": "/sv/spritkategorier-oversikt/",
+  "da": "/da/spirituskategorier-oversigt/",
+  "no": "/no/brennevinskategorier-oversikt/",
+  "fi": "/fi/vakevien-luokat-tiivistelma/",
+  "ro": "/ro/categorii-de-distilate-rezumat/",
+  "hu": "/hu/parlatkategoriak-attekintes/",
+  "is": "/is/flokkar-sterks-afengis/",
+  "cs": "/cs/kategorie-destilatu-prehled/",
+  "sk": "/sk/kategorie-destilatov-prehlad/",
+  "hr": "/hr/kategorije-zestokih-pica/",
+  "sl": "/sl/kategorije-zganih-pijac/"
  },
  "cocktails": {
   "en": "/classic-cocktail-families/",
@@ -165,6 +242,17 @@
   "zh-hant": "/zh-hant/classic-cocktail-families/",
   "ar": "/ar/classic-cocktail-families/",
   "th": "/th/classic-cocktail-families/",
-  "tr": "/tr/klasik-kokteyl-aileleri/"
+  "tr": "/tr/klasik-kokteyl-aileleri/",
+  "sv": "/sv/cocktailfamiljer/",
+  "da": "/da/cocktailfamilier/",
+  "no": "/no/cocktailfamilier/",
+  "fi": "/fi/cocktailperheet/",
+  "ro": "/ro/familii-de-cocktailuri/",
+  "hu": "/hu/koktelcsaladok/",
+  "is": "/is/kokteilafjolskyldur/",
+  "cs": "/cs/rodiny-koktejlu/",
+  "sk": "/sk/rodiny-koktailov/",
+  "hr": "/hr/obitelji-koktela/",
+  "sl": "/sl/druzine-koktajlov/"
  }
 }

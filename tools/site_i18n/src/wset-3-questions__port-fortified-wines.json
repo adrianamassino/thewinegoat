@@ -3,9 +3,9 @@
 "source": "wset-3-questions/port-fortified-wines/index.html",
 "url": "/wset-3-questions/port-fortified-wines/",
 "region": "main",
-"sha": "a9fe69d53006",
-"words": 3422,
-"segment_words": 3705,
+"sha": "f64cc8c3f182",
+"words": 3447,
+"segment_words": 3774,
 "segments": [
 {
 "t": "WSET 3 Port and fortified wines – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Port and fortified wines, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 52 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Port and fortified wines: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Port and fortified wines: practice questions with answers | WSET 3 Port and fortified wines",
@@ -246,6 +251,15 @@
 "k": "text"
 },
 {
+"t": "Rabelo boat loaded with barrels on the Douro, facing the colourful houses of Porto",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A rabelo boat loaded with barrels on the Douro, in front of Porto's Ribeira quarter.{/1}",
+"k": "text"
+},
+{
 "t": "What makes a wine fortified",
 "k": "text"
 },
@@ -327,6 +341,15 @@
 },
 {
 "t": "Every Port style belongs to one of two families. Ruby styles are aged in large vessels with little oxygen to keep deep colour and fresh red and black fruit; the best ones mature further in bottle. Tawny styles are aged in small wooden casks (pipes of about 550 litres) for years, so oxidation turns the colour tawny and the flavours to nuts, caramel, coffee and dried fruit.",
+"k": "text"
+},
+{
+"t": "Arcaded façade of the Sandeman Port lodge with its caped silhouette sign",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Sandeman Port lodge in Vila Nova de Gaia, Portugal.{/1}",
 "k": "text"
 },
 {
@@ -666,7 +689,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

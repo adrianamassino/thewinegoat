@@ -77,7 +77,7 @@ def locale_dirs():
         f = os.path.join(d, 'index.html')
         if not LOCALE_DIR.match(d) or not os.path.isfile(f): continue
         lang = html_lang(open(f, encoding='utf8', errors='replace').read(800)).lower()
-        if lang and lang.split('-')[0] == d.split('-')[0]: out.append(d)
+        if lang and {'nb': 'no'}.get(lang.split('-')[0], lang.split('-')[0]) == d.split('-')[0]: out.append(d)   # /no/ is Norwegian Bokmål (lang nb)
     return out
 
 

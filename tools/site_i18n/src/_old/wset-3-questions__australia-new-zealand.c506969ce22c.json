@@ -1,0 +1,1055 @@
+{
+"group": "wset-3-questions__australia-new-zealand",
+"source": "wset-3-questions/australia-new-zealand/index.html",
+"url": "/wset-3-questions/australia-new-zealand/",
+"region": "main",
+"sha": "c506969ce22c",
+"words": 3363,
+"segment_words": 3656,
+"segments": [
+{
+"t": "WSET 3 Australia and New Zealand – practice questions & answers",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 practice questions on Australia and New Zealand, with answers and explanations. The app has 83 more, plus written answers and flashcards.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Australia and New Zealand, WSET Level 3 Australia and New Zealand, Australia and New Zealand WSET questions, Australia and New Zealand wine quiz, Australia and New Zealand wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Australia and New Zealand: practice questions with answers – WSET 3 Australia and New Zealand, WSET Level 3 Australia and New Zealand (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Australia and New Zealand",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Australia and New Zealand: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Australia and New Zealand, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 83 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Australia and New Zealand: practice questions with answers | WSET 3 Australia and New Zealand",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Free WSET Level 3 practice questions on Australia and New Zealand, with answers and explanations. The app has 83 more, plus written answers and flashcards",
+"k": "text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What is Australia's principal grape of either colour?",
+"k": "text"
+},
+{
+"t": "Shiraz",
+"k": "text"
+},
+{
+"t": "Cabernet",
+"k": "text"
+},
+{
+"t": "Grenache",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Shiraz",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Hunter and Barossa give full fruity Shiraz; Geelong and Heathcote leaner, peppery. With Cabernet it plays Merlot's Bordeaux role.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} How does Australian Cabernet generally differ from Shiraz?",
+"k": "text"
+},
+{
+"t": "It is nearly always unoaked and made to be drunk young",
+"k": "text"
+},
+{
+"t": "It is darker, with firmer tannin and higher acidity",
+"k": "text"
+},
+{
+"t": "It is lighter and softer, with red fruit and lower acidity",
+"k": "text"
+},
+{
+"t": "It is more alcoholic and sweet, with jammy notes and soft tannin",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} It is darker, with firmer tannin and higher acidity",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Ripe blackcurrant and black cherry, often toasty oak; classic regions Coonawarra and Margaret River. Merlot mostly in blends.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Where do Australia's best Pinot Noirs come from?",
+"k": "text"
+},
+{
+"t": "Coonawarra, Margaret River and Great Southern",
+"k": "text"
+},
+{
+"t": "Hunter Valley, Riverina and Riverland",
+"k": "text"
+},
+{
+"t": "Yarra Valley, Mornington Peninsula and Tasmania",
+"k": "text"
+},
+{
+"t": "Barossa Valley, McLaren Vale and Clare Valley",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Yarra Valley, Mornington Peninsula and Tasmania",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Style: medium body and alcohol, medium-high acid, cherry and strawberry. Hot regions suit Grenache, Petit Verdot, Mataro.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} What is the hierarchy of Australian GIs?",
+"k": "text"
+},
+{
+"t": "AVAs, counties and states, as in the USA",
+"k": "text"
+},
+{
+"t": "Zones, regions, subregions",
+"k": "text"
+},
+{
+"t": "DOC, DOCG and IGT, as in Italy",
+"k": "text"
+},
+{
+"t": "Grand cru, premier cru, village",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Zones, regions, subregions",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Zones are large areas; regions must be distinct. Eden Valley is in Barossa zone, in South Australia, in South Eastern Australia.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} Which region is the benchmark for Australian Sauvignon Blanc?",
+"k": "text"
+},
+{
+"t": "Riverland",
+"k": "text"
+},
+{
+"t": "Barossa Valley",
+"k": "text"
+},
+{
+"t": "Adelaide Hills",
+"k": "text"
+},
+{
+"t": "Hunter Valley",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Adelaide Hills",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Concentrated passion fruit and high acid. Chardonnay, the main white, ranges from chip-oaked blends to balanced cool-region wines.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} What style does Riverina specialise in besides volume wines?",
+"k": "text"
+},
+{
+"t": "Traditional-method sparkling from Chardonnay and Pinot Noir",
+"k": "text"
+},
+{
+"t": "High-altitude Pinot Noir from vineyards above 600 m",
+"k": "text"
+},
+{
+"t": "Port-style fortifieds from Shiraz and Grenache",
+"k": "text"
+},
+{
+"t": "Botrytised Semillon, aided by autumn morning mists",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Botrytised Semillon, aided by autumn morning mists",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is in New South Wales.",
+"k": "text"
+},
+{
+"t": "Study notes: Australia and New Zealand for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Australia and New Zealand questions reward candidates who can link each famous wine to the factor that cools or shapes its region. Much of Australia is warm to hot, so quality depends on cooling influences such as altitude, latitude and ocean breezes. New Zealand is cool and maritime throughout, so the challenge is ripening, not heat. These notes go beyond the sample questions above and are organised the way exam answers are marked: cause, effect and style.",
+"k": "text"
+},
+{
+"t": "Australia for WSET 3: climate and cooling influences",
+"k": "text"
+},
+{
+"t": "Australian wine regions are mostly in the south-east and south-west of the country, because the north is too hot and humid. Many inland areas are hot and dry, and drought, water scarcity and soil salinity are real constraints. Irrigation, mechanical harvesting and large-scale wineries allow inland regions to produce high volumes of reliable, fruity wine at low cost. In contrast, premium regions rely on one or more cooling influences.",
+"k": "text"
+},
+{
+"t": "Altitude: Adelaide Hills, Eden Valley and parts of the Clare Valley are cooler than the surrounding lowlands, preserving acidity.",
+"k": "text"
+},
+{
+"t": "Latitude: Tasmania, the most southerly state, is cool enough for sparkling wine, Pinot Noir and Chardonnay.",
+"k": "text"
+},
+{
+"t": "Ocean influence: sea breezes cool McLaren Vale, Mornington Peninsula and Margaret River; the Southern and Indian Oceans moderate temperatures.",
+"k": "text"
+},
+{
+"t": "Cloud cover and humidity: in the Hunter Valley, afternoon cloud and humidity moderate heat but bring rain and rot risk at harvest.",
+"k": "text"
+},
+{
+"t": "Old vines and phylloxera",
+"k": "text"
+},
+{
+"t": "South Australia, including the Barossa Valley, has never been affected by phylloxera, and strict quarantine rules protect it. As a result it has some of the world's oldest vines on their own roots, especially Shiraz and Grenache. Old vines give low yields and concentrated fruit, which producers highlight on labels.",
+"k": "text"
+},
+{
+"t": "Key Australian regions and their wines",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "State",
+"k": "text"
+},
+{
+"t": "Key wine and reason",
+"k": "text"
+},
+{
+"t": "South Australia",
+"k": "text"
+},
+{
+"t": "Full-bodied, ripe Shiraz from a warm climate and old vines; also Grenache and Mataro (GSM blends)",
+"k": "text"
+},
+{
+"t": "Eden Valley",
+"k": "text"
+},
+{
+"t": "Dry, lime-scented Riesling thanks to higher altitude",
+"k": "text"
+},
+{
+"t": "Clare Valley",
+"k": "text"
+},
+{
+"t": "Dry Riesling with high acidity and lime; cool nights preserve acid in a warm area",
+"k": "text"
+},
+{
+"t": "McLaren Vale",
+"k": "text"
+},
+{
+"t": "Rich Shiraz and Grenache; Mediterranean climate cooled by sea breezes",
+"k": "text"
+},
+{
+"t": "Coonawarra",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon with blackcurrant and mint; cool climate and terra rossa over limestone",
+"k": "text"
+},
+{
+"t": "New South Wales",
+"k": "text"
+},
+{
+"t": "Unoaked Semillon picked early, low alcohol, ages to toast and honey; also Shiraz",
+"k": "text"
+},
+{
+"t": "Yarra Valley",
+"k": "text"
+},
+{
+"t": "Victoria",
+"k": "text"
+},
+{
+"t": "Elegant Chardonnay, Pinot Noir and sparkling wine from a cool climate",
+"k": "text"
+},
+{
+"t": "Margaret River",
+"k": "text"
+},
+{
+"t": "Western Australia",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon blends and Chardonnay; maritime climate from the Indian Ocean",
+"k": "text"
+},
+{
+"t": "Riverland, Murray-Darling, Riverina",
+"k": "text"
+},
+{
+"t": "SA, Victoria/NSW, NSW",
+"k": "text"
+},
+{
+"t": "Hot, irrigated, high-volume inexpensive wines",
+"k": "text"
+},
+{
+"t": "Australian winemaking themes",
+"k": "text"
+},
+{
+"t": "Australian winemaking is technically precise. Acidification is common in warm regions, because grapes reach high sugar before they keep enough natural acidity. Inexpensive wines may use oak chips or staves for a cheaper oak flavour. Premium Chardonnay has moved from heavily oaked, buttery styles towards leaner, fresher wines from cool regions, with more restrained use of new oak and malolactic conversion. Hunter Semillon is the classic exception to warm-climate ripeness: it is picked early at low sugar, fermented cool and bottled without oak, so all its toasty character comes from bottle age.",
+"k": "text"
+},
+{
+"t": "Labelling rules",
+"k": "text"
+},
+{
+"t": "Australia's Label Integrity Program applies an 85% rule: if a label names a variety, a vintage or a GI, at least 85% of the wine must come from it. Blends often list varieties in descending order of proportion, for example Cabernet-Merlot or Shiraz-Viognier. The GI hierarchy runs from zones to regions to subregions.",
+"k": "text"
+},
+{
+"t": "Exam technique: when you explain an Australian wine, always name the cooling factor. A strong answer reads: Eden Valley is at higher altitude than the Barossa floor, so nights are cooler, which slows ripening and keeps high acidity, giving dry Riesling with lime fruit.",
+"k": "text"
+},
+{
+"t": "New Zealand for WSET 3: a cool maritime climate",
+"k": "text"
+},
+{
+"t": "New Zealand wine for WSET 3 is defined by a cool maritime climate: no vineyard is far from the sea, and the long, narrow islands span a wide range of latitudes. The North Island is generally warmer and more humid; the South Island is cooler and sunnier with high diurnal range in some regions. Long growing seasons with intense sunlight and cool nights give ripe fruit flavours while preserving high acidity.",
+"k": "text"
+},
+{
+"t": "Marlborough Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Marlborough, at the north-east of the South Island, is the largest region and the home of New Zealand's most planted grape, Sauvignon Blanc. Sunny days and cold nights give intense, pungent aromas and high acidity. Free-draining stony soils in the Wairau Valley and the cooler, drier Awatere Valley give slightly different styles. Winemaking is usually protective: cool fermentation in stainless steel, no oak and early bottling to keep passion fruit, gooseberry, grapefruit and green pepper aromas. Some producers add complexity with barrel fermentation, lees contact or wild yeasts.",
+"k": "text"
+},
+{
+"t": "Other key New Zealand regions",
+"k": "text"
+},
+{
+"t": "Hawke's Bay (North Island): warm and sunny, best known for Bordeaux-style blends of Merlot and Cabernet Sauvignon and for Syrah, notably on the free-draining Gimblett Gravels.",
+"k": "text"
+},
+{
+"t": "Gisborne (North Island): warm, known for ripe, fruity Chardonnay.",
+"k": "text"
+},
+{
+"t": "Martinborough / Wairarapa (North Island): dry and windy, for concentrated Pinot Noir.",
+"k": "text"
+},
+{
+"t": "Central Otago (South Island): the most southerly region and the only one with a continental climate; high diurnal range, frost risk and short seasons give intensely fruity, high-acid Pinot Noir.",
+"k": "text"
+},
+{
+"t": "Nelson and Canterbury/Waipara (South Island): cool regions for Pinot Noir, Riesling, Chardonnay and aromatic whites.",
+"k": "text"
+},
+{
+"t": "New Zealand also uses an 85% rule for variety, vintage and region on labels. Screwcaps are almost universal, which helps preserve the fresh, fruity style.",
+"k": "text"
+},
+{
+"t": "Common mistake: describing Central Otago as maritime like the rest of New Zealand. It is inland and continental, which is why it has hot days, cold nights and frost risk, and why its Pinot Noir is so intensely fruity.",
+"k": "text"
+},
+{
+"t": "Australia vs New Zealand: quick comparison",
+"k": "text"
+},
+{
+"t": "Australia",
+"k": "text"
+},
+{
+"t": "New Zealand",
+"k": "text"
+},
+{
+"t": "Overall climate",
+"k": "text"
+},
+{
+"t": "Warm to hot, with cool pockets",
+"k": "text"
+},
+{
+"t": "Cool maritime (Central Otago continental)",
+"k": "text"
+},
+{
+"t": "Signature grapes",
+"k": "text"
+},
+{
+"t": "Shiraz, Cabernet Sauvignon, Chardonnay, Riesling, Semillon",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc, Pinot Noir, Chardonnay",
+"k": "text"
+},
+{
+"t": "Main viticultural challenge",
+"k": "text"
+},
+{
+"t": "Heat, drought, salinity",
+"k": "text"
+},
+{
+"t": "Ripening, rain, frost",
+"k": "text"
+},
+{
+"t": "Volume wines",
+"k": "text"
+},
+{
+"t": "Irrigated inland regions",
+"k": "text"
+},
+{
+"t": "Mainly Marlborough Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "How to revise Australia and New Zealand in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw south-east Australia and place Barossa, Eden, Clare, McLaren Vale, Coonawarra, Adelaide Hills, Yarra, Hunter and the inland volume regions.",
+"k": "text"
+},
+{
+"t": "Day 2: for each premium region, write its cooling factor in three words.",
+"k": "text"
+},
+{
+"t": "Day 3: learn the classic pairings: Hunter Semillon, Clare and Eden Riesling, Barossa Shiraz, Coonawarra Cabernet, Margaret River Cabernet blends.",
+"k": "text"
+},
+{
+"t": "Day 4: draw New Zealand and place Marlborough, Hawke's Bay, Gisborne, Martinborough and Central Otago.",
+"k": "text"
+},
+{
+"t": "Day 5: explain Marlborough Sauvignon Blanc in a cause, effect, style chain.",
+"k": "text"
+},
+{
+"t": "Day 6: write a timed short answer comparing Barossa Shiraz with a cool-climate Shiraz.",
+"k": "text"
+},
+{
+"t": "Day 7: run Australia and New Zealand questions in the app and review only your mistakes.",
+"k": "text"
+},
+{
+"t": "Fifteen minutes a day is enough because almost every answer comes back to one question: what makes this place warmer or cooler, and how does that change acidity, alcohol and fruit character?",
+"k": "text"
+},
+{
+"t": "Worked example: a short written answer on Coonawarra Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Australian questions often ask you to explain why one region is famous for one grape. The answer should combine climate, soil and the resulting style.",
+"k": "text"
+},
+{
+"t": "Question: Explain why Coonawarra is known for high-quality Cabernet Sauvignon.",
+"k": "text"
+},
+{
+"t": "Model answer: Coonawarra lies in the south-east of South Australia, relatively far south and close to the Southern Ocean, which gives it a cooler climate than most of the state. Cool sea breezes and a long growing season let late-ripening Cabernet Sauvignon ripen slowly, developing full flavour and ripe tannins while keeping good acidity. The region is famous for its terra rossa, a strip of red, free-draining soil over limestone, where water drains easily and vigour is limited, giving smaller crops of concentrated grapes. The wines are full-bodied with blackcurrant fruit, firm but ripe tannins, often a distinctive mint or eucalyptus note, and they are usually aged in oak. Their structure and concentration allow them to age well in bottle.",
+"k": "text"
+},
+{
+"t": "Why it works: the answer gives the cooling factor (latitude and ocean), the soil and its effect on vigour, and finishes with a precise description of the style and ageing potential. Each fact is linked to a consequence.",
+"k": "text"
+},
+{
+"t": "Same grape, two countries",
+"k": "text"
+},
+{
+"t": "Comparing the same variety across Australia and New Zealand is a quick way to prepare for questions that test cause and effect.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Australian example",
+"k": "text"
+},
+{
+"t": "New Zealand example",
+"k": "text"
+},
+{
+"t": "Key difference",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Adelaide Hills: crisp, citrus, cooled by altitude",
+"k": "text"
+},
+{
+"t": "Marlborough: pungent passion fruit, gooseberry, green pepper",
+"k": "text"
+},
+{
+"t": "Marlborough's high diurnal range and long season give more intense aromas",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Yarra Valley and Tasmania: red fruit, elegant",
+"k": "text"
+},
+{
+"t": "Central Otago: very ripe, intense red and black cherry; Martinborough: concentrated",
+"k": "text"
+},
+{
+"t": "Central Otago's continental climate and strong sunlight give deeper fruit",
+"k": "text"
+},
+{
+"t": "Shiraz / Syrah",
+"k": "text"
+},
+{
+"t": "Barossa Valley: full body, high alcohol, black fruit, sweet spice",
+"k": "text"
+},
+{
+"t": "Hawke's Bay, Gimblett Gravels: medium to full body, black pepper, fresher acidity",
+"k": "text"
+},
+{
+"t": "Warm Barossa gives riper, richer wines; cooler Hawke's Bay gives a peppery style",
+"k": "text"
+},
+{
+"t": "Margaret River: balanced, citrus and stone fruit, quality oak",
+"k": "text"
+},
+{
+"t": "Gisborne: ripe, fruity, often tropical",
+"k": "text"
+},
+{
+"t": "Both are moderate; style depends heavily on winemaking choices",
+"k": "text"
+},
+{
+"t": "Australia and New Zealand in the tasting unit",
+"k": "text"
+},
+{
+"t": "WSET Level 3 has two separate units: theory (multiple-choice questions and short written answers) and tasting (two wines assessed blind with the SAT). You need at least 55% in each, and a failed unit is retaken on its own. Wines from these two countries are good practice for the tasting. A Marlborough Sauvignon Blanc would typically be pale lemon, with pronounced passion fruit, gooseberry, grapefruit and green pepper, dry, high acidity and medium body. A Barossa Shiraz would be deep ruby, with pronounced blackberry, plum, sweet spice and often vanilla from oak, dry, high alcohol, high but ripe tannins and full body.",
+"k": "text"
+},
+{
+"t": "Exam technique: for a very aromatic wine, do not stop at 'fruity'. Name fruit clusters precisely (tropical, citrus, green fruit) and add non-fruit notes such as green pepper or herbaceous; precise descriptors earn more marks in the tasting unit.",
+"k": "text"
+},
+{
+"t": "Sample questions answered in text",
+"k": "text"
+},
+{
+"t": "Question: Why is Tasmania well suited to traditional-method sparkling wine? Answer: It is Australia's most southerly state, with a cool climate in which Chardonnay and Pinot Noir ripen slowly and keep the high acidity and delicate fruit needed for base wines.",
+"k": "text"
+},
+{
+"t": "Question: What are the Gimblett Gravels? Answer: A district of Hawke's Bay with deep, stony, free-draining soils from an old riverbed. The stones store heat and limit vigour, helping Merlot, Cabernet Sauvignon and Syrah ripen fully.",
+"k": "text"
+},
+{
+"t": "Question: Why do inland regions such as the Riverland rely on irrigation? Answer: They are hot and dry, so the vines need extra water to survive and give high yields. Irrigation from the Murray River and its tributaries allows large volumes of inexpensive, fruity wine.",
+"k": "text"
+},
+{
+"t": "Question: Why are screwcaps so common in New Zealand and Australia? Answer: They protect fresh, aromatic wines from oxygen and avoid cork taint, which helps preserve the primary fruit that defines styles such as Sauvignon Blanc and Riesling.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Australia and New Zealand",
+"k": "text"
+},
+{
+"t": "Saying all of Australia is hot: premium regions depend on cooling influences such as altitude, latitude and ocean breezes.",
+"k": "text"
+},
+{
+"t": "Placing Marlborough on the North Island: it is at the north-east tip of the South Island.",
+"k": "text"
+},
+{
+"t": "Describing Hunter Semillon as oaked and full-bodied: it is usually unoaked, low in alcohol and gains toast and honey notes from bottle age.",
+"k": "text"
+},
+{
+"t": "Forgetting that Barossa and Eden Valley are neighbours with very different styles: warm-valley Shiraz versus higher, cooler Riesling.",
+"k": "text"
+},
+{
+"t": "Confusing Gisborne and Hawke's Bay: Gisborne is best known for Chardonnay, Hawke's Bay for Bordeaux blends and Syrah.",
+"k": "text"
+},
+{
+"t": "Writing that New Zealand labels use a 75% rule: the rule is 85% for variety, vintage and region.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "83 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Australia and New Zealand are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 83 multiple-choice questions on Australia and New Zealand, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Australia and New Zealand important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Australia and New Zealand, can come up.",
+"k": "text"
+},
+{
+"t": "Which Australian wine regions are cool climate for WSET 3?",
+"k": "text"
+},
+{
+"t": "For WSET Level 3, key cool or moderated regions are Tasmania (latitude), Yarra Valley and Mornington Peninsula (Victoria), Adelaide Hills and Eden Valley (altitude), Coonawarra (cool southern location) and Margaret River (maritime). They produce Chardonnay, Pinot Noir, Riesling, Sauvignon Blanc, elegant Cabernet Sauvignon and sparkling wine with higher acidity than warmer areas.",
+"k": "text"
+},
+{
+"t": "Why is Hunter Valley Semillon so low in alcohol?",
+"k": "text"
+},
+{
+"t": "Hunter Valley Semillon is picked early, at low sugar, partly to avoid harvest rain and rot in a humid subtropical climate. Low sugar gives low alcohol, often around 10 to 11%, and very high acidity. It is fermented cool and bottled unoaked; with bottle age it develops toast, honey and nut notes that can resemble oak, although none was used.",
+"k": "text"
+},
+{
+"t": "Why does Marlborough Sauvignon Blanc taste so intense?",
+"k": "text"
+},
+{
+"t": "Marlborough combines bright sunshine with cool nights, so grapes ripen slowly, building intense aromas while keeping high acidity. Free-draining stony soils limit vigour. Protective winemaking, with cool stainless steel fermentation and no oak, preserves the pungent passion fruit, gooseberry and green pepper character that made the style famous.",
+"k": "text"
+},
+{
+"t": "Which New Zealand region is best for Pinot Noir?",
+"k": "text"
+},
+{
+"t": "Central Otago is the best-known New Zealand region for Pinot Noir: it is the most southerly region and has a continental climate with hot days, cold nights and frost risk, giving intensely fruity, high-acid wines. Martinborough in the Wairarapa is also renowned, and Marlborough, Nelson and Canterbury make good Pinot Noir too.",
+"k": "text"
+},
+{
+"t": "What is a GSM blend in Australia?",
+"k": "text"
+},
+{
+"t": "A GSM is a blend of Grenache, Shiraz and Mataro (Mourvèdre), inspired by the southern Rhône. It is a speciality of warm South Australian regions such as Barossa Valley and McLaren Vale, where old bush vines of Grenache and Mataro survive. Grenache brings red fruit and alcohol, Shiraz colour and body, Mataro tannin and savoury notes.",
+"k": "text"
+},
+{
+"t": "What is terra rossa in Coonawarra?",
+"k": "text"
+},
+{
+"t": "Terra rossa is a strip of red soil lying over a layer of limestone in Coonawarra. It is free-draining, so the vines are not over-vigorous and yields are moderate, while the limestone holds some water for dry periods. Combined with Coonawarra's cool climate, it helps Cabernet Sauvignon ripen slowly into full-bodied wines with blackcurrant fruit, firm tannins and often a minty note.",
+"k": "text"
+},
+{
+"t": "Why is Tasmania important for WSET 3?",
+"k": "text"
+},
+{
+"t": "Tasmania is Australia's most southerly and coolest wine region. Its long, cool growing season suits early-ripening varieties that need to keep high acidity: Chardonnay and Pinot Noir for traditional-method sparkling wines, and elegant still Pinot Noir, Chardonnay and Riesling. In exam answers, link Tasmania to latitude as its cooling influence and to sparkling wine as a key style.",
+"k": "text"
+},
+{
+"t": "Why do Australians say Shiraz and New Zealanders often say Syrah?",
+"k": "text"
+},
+{
+"t": "It is the same grape. In Australia the name Shiraz is used for the classic rich, ripe, full-bodied style, especially from the Barossa Valley and McLaren Vale. Producers in cooler places such as Hawke's Bay often use Syrah to signal a fresher, more peppery style closer to the northern Rhône. For the exam, recognise both names and link each style to its climate.",
+"k": "text"
+},
+{
+"t": "Can a Marlborough Sauvignon Blanc come up in the WSET 3 tasting?",
+"k": "text"
+},
+{
+"t": "Yes, it is a classic example of an aromatic, high-acid white and appears often in practice tastings. Describe it with precise SAT terms: pale lemon, pronounced intensity, passion fruit, gooseberry, grapefruit and green pepper, dry, high acidity, medium body. The tasting is a separate unit that needs at least 55%, so regular blind practice is essential.",
+"k": "text"
+},
+{
+"t": "If I pass the WSET 3 theory but not the tasting, do I resit the whole exam?",
+"k": "text"
+},
+{
+"t": "No. Theory and tasting are two separate units, and each requires at least 55%. If you fail one unit, you only retake that unit; your pass in the other is kept. Plan your preparation so that both units get regular practice, because a high theory score cannot compensate for a weak tasting.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "WSET 3 Australia and New Zealand – practice questions & answers | The Wine Goat",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Free WSET Level 3 Australia and New Zealand practice questions with answers and explanations, plus 83 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Australia's principal grape of either colour?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Hunter and Barossa give full fruity Shiraz; Geelong and Heathcote leaner, peppery. With Cabernet it plays Merlot's Bordeaux role.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How does Australian Cabernet generally differ from Shiraz?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Ripe blackcurrant and black cherry, often toasty oak; classic regions Coonawarra and Margaret River. Merlot mostly in blends.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Where do Australia's best Pinot Noirs come from?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Style: medium body and alcohol, medium-high acid, cherry and strawberry. Hot regions suit Grenache, Petit Verdot, Mataro.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is the hierarchy of Australian GIs?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Zones are large areas; regions must be distinct. Eden Valley is in Barossa zone, in South Australia, in South Eastern Australia.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Which region is the benchmark for Australian Sauvignon Blanc?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Concentrated passion fruit and high acid. Chardonnay, the main white, ranges from chip-oaked blends to balanced cool-region wines.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What style does Riverina specialise in besides volume wines?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is in New South Wales.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

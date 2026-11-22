@@ -3,9 +3,9 @@
 "source": "wset-3-questions/spain/index.html",
 "url": "/wset-3-questions/spain/",
 "region": "main",
-"sha": "ae78c8558892",
-"words": 3466,
-"segment_words": 3675,
+"sha": "4c7898ed7733",
+"words": 3498,
+"segment_words": 3756,
 "segments": [
 {
 "t": "WSET 3 Spain – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Spain, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 76 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Spain: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Spain: practice questions with answers | WSET 3 Spain",
@@ -386,6 +391,15 @@
 "k": "text"
 },
 {
+"t": "Rows of vines in red and gold autumn colours near Laguardia, Rioja Alavesa",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A vineyard in autumn near Laguardia, in the Rioja Alavesa (Basque Country).{/1}",
+"k": "text"
+},
+{
 "t": "Rioja",
 "k": "text"
 },
@@ -415,6 +429,15 @@
 },
 {
 "t": "Ribera del Duero sits high on the northern Meseta. Its extreme continental climate gives hot days and cold nights, so Tinto Fino keeps acidity and develops deep colour and concentrated black fruit; frost is the main risk. Wines are almost all red, often aged in French or American oak, and small amounts of Cabernet Sauvignon, Merlot and Malbec are permitted. Toro, further west and lower, is hotter, giving powerful, high-alcohol, tannic reds from Tinta de Toro. Rueda is known for white wines from Verdejo, often blended with Sauvignon Blanc: night harvesting and protection from oxygen keep the fresh, herbaceous and citrus aromas, and the high altitude preserves acidity.",
+"k": "text"
+},
+{
+"t": "Green vineyard rows below wooded slopes at A Arnoia, Galicia",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards of the Ribeiro wine area at A Arnoia, by the Miño, Galicia.{/1}",
 "k": "text"
 },
 {
@@ -471,6 +494,15 @@
 },
 {
 "t": "These three regions produce Spain's most famous reds and are frequently compared in WSET 3 questions. Learn the chain for each: conditions, grapes, choices, style.",
+"k": "text"
+},
+{
+"t": "Green vineyards on the hills of Escaladei in the Priorat, Catalonia",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards at Escaladei, in the Priorat, Catalonia.{/1}",
 "k": "text"
 },
 {
@@ -586,7 +618,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

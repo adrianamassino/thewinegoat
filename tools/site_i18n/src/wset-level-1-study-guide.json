@@ -3,9 +3,9 @@
 "source": "wset-level-1-study-guide/index.html",
 "url": "/wset-level-1-study-guide/",
 "region": "main",
-"sha": "6ec22c1afe28",
-"words": 3176,
-"segment_words": 3260,
+"sha": "919386c97afb",
+"words": 3199,
+"segment_words": 3325,
 "segments": [
 {
 "t": "WSET Level 1 study guide: everything to know in one page",
@@ -53,6 +53,11 @@
 "k": "text"
 },
 {
+"t": "WSET Level 1 study guide: everything in one page (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
 "t": "WSET Level 1 is a one-day beginner course ending with a short multiple-choice exam.",
 "k": "text"
 },
@@ -86,6 +91,15 @@
 },
 {
 "t": "Key grapes and their typical style",
+"k": "text"
+},
+{
+"t": "Ripe pale-green grape cluster hanging from a vine in soft light",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Ripe white grapes on the vine.{/1}",
 "k": "text"
 },
 {
@@ -430,6 +444,15 @@
 },
 {
 "t": "Service questions are among the easiest points on the paper once you know the pattern: the lighter and sweeter or more sparkling the wine, the colder you serve it; the fuller and more tannic the red, the warmer, up to room temperature. Serving a full red too cold makes the tannin taste harsher; serving a white too warm makes it taste flat and alcoholic.",
+"k": "text"
+},
+{
+"t": "Empty wine glass resting on a wooden vineyard post among vine leaves and blue sky",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A clear, tulip-shaped glass is the standard choice for tasting, as it shows colour and concentrates aromas.{/1}",
 "k": "text"
 },
 {
@@ -945,7 +968,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -1,0 +1,1145 @@
+{
+"group": "wset-3-questions__germany",
+"source": "wset-3-questions/germany/index.html",
+"url": "/wset-3-questions/germany/",
+"region": "main",
+"sha": "adc1f9e32061",
+"words": 3434,
+"segment_words": 3628,
+"segments": [
+{
+"t": "WSET 3 Germany – practice questions & answers | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 3 Germany practice questions with answers and explanations, plus 67 more in the app: MCQs, short written answers, flashcards and mock exams.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3 Germany, WSET Level 3 Germany, Germany WSET questions, Germany wine quiz, Germany wine exam questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 3 Germany: practice questions with answers – WSET 3 Germany, WSET Level 3 Germany, Germany WSET questions (infographic The Wine Goat)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "Germany",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Germany: practice questions with answers",
+"k": "text"
+},
+{
+"t": "These questions come from The Wine Goat question bank on Germany, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 67 questions in the app, where your mistakes come back until you know them.",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Germany: practice questions with answers | WSET 3 Germany",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Sample questions with answers",
+"k": "text"
+},
+{
+"t": "{1}1{/1} What climate do most German wine regions have?",
+"k": "text"
+},
+{
+"t": "Cool continental",
+"k": "text"
+},
+{
+"t": "Very hot",
+"k": "text"
+},
+{
+"t": "Mediterranean",
+"k": "text"
+},
+{
+"t": "Warm maritime",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Cool continental",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Baden in the south is noticeably warmer. The long cool ripening gives sugar while retaining acidity.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} How are vines trained on Germany's steepest slopes?",
+"k": "text"
+},
+{
+"t": "As free bush vines without stakes or wires, as in the Southern Rhône",
+"k": "text"
+},
+{
+"t": "On high pergolas, with bunches under the canopy for shade",
+"k": "text"
+},
+{
+"t": "Head-pruned, individually staked, canes tied at the top of the stake",
+"k": "text"
+},
+{
+"t": "On low spur-pruned cordons, suited to machine harvesting",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Head-pruned, individually staked, canes tied at the top of the stake",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} This maximises light exposure and air circulation.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} What is Germany's most widely planted grape?",
+"k": "text"
+},
+{
+"t": "Silvaner",
+"k": "text"
+},
+{
+"t": "Müller-Thurgau",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Spätburgunder",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Riesling",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It ranges from dry to luscious, floral to richer peach; the best dry ones are often Grosses Gewächs.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} How should the Prädikat categories be understood?",
+"k": "text"
+},
+{
+"t": "As guaranteed quality levels",
+"k": "text"
+},
+{
+"t": "As an indicator of style",
+"k": "text"
+},
+{
+"t": "As vintage indicators",
+"k": "text"
+},
+{
+"t": "As single-vineyard names",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} As an indicator of style",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Nearly all have residual sugar, but up to Auslese they can be dry.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What alcohol does a sweet Kabinett usually have?",
+"k": "text"
+},
+{
+"t": "8-9% abv",
+"k": "text"
+},
+{
+"t": "5% abv",
+"k": "text"
+},
+{
+"t": "14% abv",
+"k": "text"
+},
+{
+"t": "12-13% abv",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} 8-9% abv",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Drier ones reach 12%. They are the most delicate Prädikate: light, high-acid, green apple and citrus.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} How does Spätlese differ from Kabinett from the same region?",
+"k": "text"
+},
+{
+"t": "More concentrated and riper, a little more body, alcohol and sweetness",
+"k": "text"
+},
+{
+"t": "Lighter and more acidic, picked earlier, with green apple and lime",
+"k": "text"
+},
+{
+"t": "It is always dry, never sweet, and lower in alcohol than Kabinett",
+"k": "text"
+},
+{
+"t": "Always botrytised, with honey and dried apricot notes",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} More concentrated and riper, a little more body, alcohol and sweetness",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} It is made like Kabinett; Riesling Spätlese often shows citrus and stone fruit.",
+"k": "text"
+},
+{
+"t": "Study notes: Germany for WSET Level 3",
+"k": "text"
+},
+{
+"t": "WSET Level 3 Germany questions test three things: why a cool climate can ripen grapes at all, how the main regions differ in style, and how to read a German label. If you can explain those three in cause and effect, you can answer almost any multiple-choice question and most short written answers on Germany. These notes give you the revision guide that sits behind the sample questions above.",
+"k": "text"
+},
+{
+"t": "Climate: how a cool continental country ripens Riesling",
+"k": "text"
+},
+{
+"t": "Germany is one of the most northerly quality wine countries in the world, so most of its regions have a cool continental climate with cold winters, warm summers and a long, slow autumn. Grapes only ripen fully where the vineyard site adds warmth. That is why site selection is the single most important factor in German viticulture, and why exam answers on Germany should always mention aspect, slope and rivers.",
+"k": "text"
+},
+{
+"t": "Steep south-facing slopes catch the low sun at a more direct angle, so the grapes receive more heat and light.",
+"k": "text"
+},
+{
+"t": "Rivers such as the Rhine, Mosel, Main and Nahe moderate temperatures, reduce frost risk and reflect sunlight onto the vines.",
+"k": "text"
+},
+{
+"t": "Dark slate soils in the Mosel absorb heat by day and release it at night, helping ripening.",
+"k": "text"
+},
+{
+"t": "Forests and hills, such as the Taunus above the Rheingau and the Haardt mountains in the Pfalz, shelter vineyards from cold winds and rain.",
+"k": "text"
+},
+{
+"t": "The long, cool ripening season builds sugar and aroma while keeping very high acidity: the signature of German Riesling.",
+"k": "text"
+},
+{
+"t": "In a short written answer, never just write cool climate. Write the chain: cool continental climate, so steep south-facing slopes near rivers are needed to ripen the grapes, so the wines keep high acidity and pronounced fruit with often low to medium alcohol.",
+"k": "text"
+},
+{
+"t": "German regions for WSET Level 3: Mosel, Rheingau, Pfalz and more",
+"k": "text"
+},
+{
+"t": "Germany has 13 wine regions (Anbaugebiete) for quality wine. At WSET Level 3 you need the character of the main ones rather than a map of every village. The key is to link each region to its climate, soils and typical style.",
+"k": "text"
+},
+{
+"t": "Region",
+"k": "text"
+},
+{
+"t": "Key features",
+"k": "text"
+},
+{
+"t": "Typical style",
+"k": "text"
+},
+{
+"t": "Mosel (with Saar and Ruwer)",
+"k": "text"
+},
+{
+"t": "Very steep slate slopes along a winding river; one of the coolest regions",
+"k": "text"
+},
+{
+"t": "Light-bodied Riesling, high acidity, low alcohol, often off-dry or sweet Kabinett and Spätlese; also dry wines",
+"k": "text"
+},
+{
+"t": "Rheingau",
+"k": "text"
+},
+{
+"t": "Rhine flows east to west, giving long south-facing slopes; Taunus hills shelter from the north",
+"k": "text"
+},
+{
+"t": "Riesling with more body than the Mosel, dry and sweet styles; some Spätburgunder",
+"k": "text"
+},
+{
+"t": "Pfalz",
+"k": "text"
+},
+{
+"t": "Warmer and drier, in the rain shadow of the Haardt mountains",
+"k": "text"
+},
+{
+"t": "Fuller, riper dry Riesling, plus Spätburgunder and Pinot whites",
+"k": "text"
+},
+{
+"t": "Rheinhessen",
+"k": "text"
+},
+{
+"t": "Largest region, varied land, much on flatter ground",
+"k": "text"
+},
+{
+"t": "Large volumes of Müller-Thurgau and Silvaner, plus high-quality dry Riesling from top sites",
+"k": "text"
+},
+{
+"t": "Nahe",
+"k": "text"
+},
+{
+"t": "Very varied soils within a small area",
+"k": "text"
+},
+{
+"t": "Riesling ranging from mineral to riper fruit styles",
+"k": "text"
+},
+{
+"t": "Baden",
+"k": "text"
+},
+{
+"t": "Southernmost and warmest region",
+"k": "text"
+},
+{
+"t": "Spätburgunder, Grauburgunder and Weissburgunder, often dry and fuller-bodied",
+"k": "text"
+},
+{
+"t": "Franken",
+"k": "text"
+},
+{
+"t": "More continental, on the river Main",
+"k": "text"
+},
+{
+"t": "Dry, earthy Silvaner, traditionally in the flat Bocksbeutel bottle",
+"k": "text"
+},
+{
+"t": "Ahr",
+"k": "text"
+},
+{
+"t": "Small, northerly, steep valley",
+"k": "text"
+},
+{
+"t": "Surprisingly a red-wine area, known for Spätburgunder",
+"k": "text"
+},
+{
+"t": "A classic exam contrast is Mosel versus Pfalz. Mosel Riesling is light, delicate and often sweet with low alcohol because the region is so cool and the wines are frequently made with residual sugar. Pfalz Riesling is riper, fuller-bodied and more often dry because the rain shadow of the Haardt mountains gives a warmer, drier climate.",
+"k": "text"
+},
+{
+"t": "Grape varieties: Riesling, Müller-Thurgau, Spätburgunder",
+"k": "text"
+},
+{
+"t": "Riesling is Germany's most widely planted and most important grape. It is late-ripening, frost-hardy thanks to hard wood, and keeps high acidity even when fully ripe. It expresses site strongly and can make every style from bone-dry to lusciously sweet. Young wines show green apple, citrus, white flowers and, in riper sites, peach and apricot. With bottle age, quality Riesling develops honey, toast and petrol notes. Because it is aromatic and its character comes from the grape and the site, it is usually made without new oak and without malolactic conversion.",
+"k": "text"
+},
+{
+"t": "Müller-Thurgau and Silvaner",
+"k": "text"
+},
+{
+"t": "Müller-Thurgau ripens early and gives high yields, so it was widely planted on less favourable sites. It makes light, soft, simple wines with low to medium acidity, typically for early drinking. Silvaner is neutral in aroma but at its best in Franken, where it makes dry, medium-bodied wines with an earthy, herbal character.",
+"k": "text"
+},
+{
+"t": "Spätburgunder and the Pinot family",
+"k": "text"
+},
+{
+"t": "Spätburgunder is the German name for Pinot Noir and is the most planted black grape in the country. Warmer climates and better clones have improved quality a lot: the best come from Baden, Pfalz and the Ahr, sometimes aged in new oak. Grauburgunder (Pinot Gris) and Weissburgunder (Pinot Blanc) make dry, fuller white wines, especially in Baden and Pfalz. Dornfelder is a black grape giving deeply coloured, fruity reds.",
+"k": "text"
+},
+{
+"t": "Winemaking: residual sugar, Süssreserve and dry styles",
+"k": "text"
+},
+{
+"t": "German winemaking aims to preserve fruit and acidity. Fermentation is usually in stainless steel or in old large oak casks that add no oak flavour, at cool temperatures. Sweetness is balanced against the high acidity, which is why a German Riesling with noticeable sugar can still taste fresh rather than cloying.",
+"k": "text"
+},
+{
+"t": "Stopping fermentation: the winemaker chills the wine and removes the yeast by filtration, leaving natural residual sugar and low alcohol (typical of Mosel Kabinett).",
+"k": "text"
+},
+{
+"t": "Süssreserve: unfermented grape juice is added to a fully fermented dry wine before bottling to adjust sweetness, mainly for inexpensive wines.",
+"k": "text"
+},
+{
+"t": "Dry fermentation: the wine is fermented to dryness, giving higher alcohol; labelled trocken.",
+"k": "text"
+},
+{
+"t": "Chaptalisation is allowed for Qualitätswein in cool years but not for Prädikatswein.",
+"k": "text"
+},
+{
+"t": "Deacidification can be used in very cool years when the acidity is excessively high.",
+"k": "text"
+},
+{
+"t": "German wine labels: Qualitätswein, Prädikatswein and VDP",
+"k": "text"
+},
+{
+"t": "German wine law classifies wine by origin and by the ripeness of the grapes at harvest (must weight). Deutscher Wein has no geographical indication, Landwein is a PGI, and Qualitätswein and Prädikatswein are PDO wines. Qualitätswein must come from one of the 13 regions. Prädikatswein must also reach minimum must weights and cannot be chaptalised.",
+"k": "text"
+},
+{
+"t": "Prädikat",
+"k": "text"
+},
+{
+"t": "Grapes",
+"k": "text"
+},
+{
+"t": "Kabinett",
+"k": "text"
+},
+{
+"t": "Lightest, least ripe Prädikat",
+"k": "text"
+},
+{
+"t": "Light, delicate, high acidity; dry, off-dry or sweet",
+"k": "text"
+},
+{
+"t": "Spätlese",
+"k": "text"
+},
+{
+"t": "Late-harvested, riper",
+"k": "text"
+},
+{
+"t": "More body and concentration; dry or sweet",
+"k": "text"
+},
+{
+"t": "Auslese",
+"k": "text"
+},
+{
+"t": "Selected very ripe bunches, sometimes botrytis",
+"k": "text"
+},
+{
+"t": "Rich, often sweet but can be dry",
+"k": "text"
+},
+{
+"t": "Beerenauslese (BA)",
+"k": "text"
+},
+{
+"t": "Individually selected overripe berries, usually botrytised",
+"k": "text"
+},
+{
+"t": "Lusciously sweet, honeyed",
+"k": "text"
+},
+{
+"t": "Trockenbeerenauslese (TBA)",
+"k": "text"
+},
+{
+"t": "Shrivelled botrytised berries",
+"k": "text"
+},
+{
+"t": "Extremely sweet, concentrated, very long-lived, low alcohol",
+"k": "text"
+},
+{
+"t": "Eiswein",
+"k": "text"
+},
+{
+"t": "Grapes frozen on the vine and pressed frozen",
+"k": "text"
+},
+{
+"t": "Very sweet with piercing acidity, usually no botrytis",
+"k": "text"
+},
+{
+"t": "The VDP, an association of top estates, uses its own vineyard classification: Gutswein, Ortswein, Erste Lage and Grosse Lage. A Grosses Gewächs is a dry wine from a Grosse Lage site. Labels may also show trocken (dry), halbtrocken or feinherb (off-dry).",
+"k": "text"
+},
+{
+"t": "Common mistake: assuming every Prädikat wine is sweet. Prädikat measures ripeness at harvest, not sweetness in the bottle. A Spätlese trocken is dry. Only BA, TBA and Eiswein are always sweet.",
+"k": "text"
+},
+{
+"t": "Sample short written answer: Mosel Riesling",
+"k": "text"
+},
+{
+"t": "Exam-style question: explain why Mosel Riesling Kabinett is light-bodied, high in acidity and low in alcohol. A strong answer: the Mosel has a cool continental climate, so grapes ripen slowly and keep high acidity. Vineyards are on steep south-facing slate slopes near the river, which give just enough warmth to ripen Riesling. Kabinett is made from the least ripe Prädikat grapes, so sugar levels are moderate. The fermentation is often stopped early by chilling and filtration, leaving residual sugar and low alcohol. Riesling is aromatic, so no new oak is used, preserving pronounced citrus and green apple fruit.",
+"k": "text"
+},
+{
+"t": "How to revise WSET 3 Germany in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Day 1: draw the chain climate, slope, river, soil, style for the Mosel, then repeat it from memory.",
+"k": "text"
+},
+{
+"t": "Day 2: learn the table of regions and say one style word for each.",
+"k": "text"
+},
+{
+"t": "Day 3: write the six Prädikat levels in order with one tasting descriptor each.",
+"k": "text"
+},
+{
+"t": "Day 4: explain Süssreserve versus stopped fermentation in two sentences each.",
+"k": "text"
+},
+{
+"t": "Day 5: answer 15 Germany multiple-choice questions and review every wrong answer.",
+"k": "text"
+},
+{
+"t": "Day 6: write one short written answer against the clock (about 10 minutes).",
+"k": "text"
+},
+{
+"t": "Day 7: blind-taste a dry and an off-dry Riesling and write SAT notes on acidity, sweetness and alcohol.",
+"k": "text"
+},
+{
+"t": "Spaced repetition works especially well for German terms and Prädikat order, which is exactly what the app does by bringing your weak questions back until you get them right.",
+"k": "text"
+},
+{
+"t": "Germany in the two WSET Level 3 units",
+"k": "text"
+},
+{
+"t": "WSET Level 3 has two separate units. The theory unit combines 50 multiple-choice questions with 4 short written answers; the tasting unit asks you to assess two wines blind with the Systematic Approach to Tasting. Each unit needs at least 55%, each is marked on its own, and a failed unit is retaken alone. Germany is a frequent theory topic because it combines site-driven viticulture, a precise labelling system and a clear link between ripeness and style.",
+"k": "text"
+},
+{
+"t": "German Riesling is also one of the most useful practice wines for the tasting unit, even though you will never be asked to name it. It trains two judgements that candidates often get wrong: separating sweetness from fruitiness, and assessing high acidity when residual sugar softens its impression. A Kabinett with noticeable sugar can still have high acidity, light body and low alcohol, and your note should say exactly that.",
+"k": "text"
+},
+{
+"t": "How to decode a German label, step by step",
+"k": "text"
+},
+{
+"t": "Take a fictional label of our own: Mosel, Riesling, Spätlese, trocken. Read it in four steps and you can describe the wine before tasting it.",
+"k": "text"
+},
+{
+"t": "Region: Mosel, one of the coolest regions, with steep slate slopes; expect high acidity and a light to medium body.",
+"k": "text"
+},
+{
+"t": "Grape: Riesling, aromatic, late-ripening, high in acidity, with citrus, green apple and stone fruit.",
+"k": "text"
+},
+{
+"t": "Prädikat: Spätlese, so the grapes were picked riper than Kabinett; expect more concentration and body.",
+"k": "text"
+},
+{
+"t": "Sweetness term: trocken, so the wine was fermented to dryness; expect a dry palate and more alcohol than a sweet Spätlese.",
+"k": "text"
+},
+{
+"t": "The Prädikat tells you how ripe the grapes were; the words trocken, halbtrocken or feinherb tell you how sweet the wine is. Read both before you decide on the style.",
+"k": "text"
+},
+{
+"t": "Dry, off-dry and sweet German wines compared",
+"k": "text"
+},
+{
+"t": "Label indication",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "Typical alcohol",
+"k": "text"
+},
+{
+"t": "Example of use",
+"k": "text"
+},
+{
+"t": "Trocken",
+"k": "text"
+},
+{
+"t": "Dry",
+"k": "text"
+},
+{
+"t": "Medium to high for Germany",
+"k": "text"
+},
+{
+"t": "Dry Riesling from Pfalz or Rheingau; Grosses Gewächs",
+"k": "text"
+},
+{
+"t": "Halbtrocken or feinherb",
+"k": "text"
+},
+{
+"t": "Off-dry",
+"k": "text"
+},
+{
+"t": "Medium",
+"k": "text"
+},
+{
+"t": "Riesling balancing slight sweetness with high acidity",
+"k": "text"
+},
+{
+"t": "Kabinett or Spätlese without a dry term",
+"k": "text"
+},
+{
+"t": "Often off-dry to medium-sweet",
+"k": "text"
+},
+{
+"t": "Low",
+"k": "text"
+},
+{
+"t": "Classic Mosel style with stopped fermentation",
+"k": "text"
+},
+{
+"t": "BA, TBA, Eiswein",
+"k": "text"
+},
+{
+"t": "Always sweet to lusciously sweet",
+"k": "text"
+},
+{
+"t": "Rare dessert wines from botrytised or frozen grapes",
+"k": "text"
+},
+{
+"t": "Practice questions with answers explained",
+"k": "text"
+},
+{
+"t": "Question 1: why is Prädikatswein not allowed to be chaptalised? Answer: the Prädikat system classifies wine by the natural ripeness of the grapes at harvest. Adding sugar would raise the alcohol and hide the real must weight, so it would contradict the meaning of the category.",
+"k": "text"
+},
+{
+"t": "Question 2: why is Rheingau Riesling usually fuller than Mosel Riesling? Answer: the Rhine flows from east to west there, giving long south-facing slopes, and the Taunus hills shelter the vineyards from cold northern winds. The extra warmth gives riper grapes and more body, while acidity remains high.",
+"k": "text"
+},
+{
+"t": "Question 3: how is Eiswein made, and why is its acidity so high? Answer: healthy grapes are left on the vine until a hard frost, then picked and pressed while frozen. Much of the water stays behind as ice, so the juice is concentrated in both sugar and acid, giving a very sweet wine with piercing acidity.",
+"k": "text"
+},
+{
+"t": "Question 4: why has German Spätburgunder improved so much? Answer: warmer growing seasons help the grape ripen fully, better clones have been planted, and many producers use more careful winemaking, including oak maturation for the best wines from Baden, Pfalz and the Ahr.",
+"k": "text"
+},
+{
+"t": "Common mistakes on Germany",
+"k": "text"
+},
+{
+"t": "Mistake",
+"k": "text"
+},
+{
+"t": "Correct version",
+"k": "text"
+},
+{
+"t": "Every Prädikat wine is sweet",
+"k": "text"
+},
+{
+"t": "Prädikat measures ripeness at harvest; Spätlese trocken is dry",
+"k": "text"
+},
+{
+"t": "Süssreserve is the same as stopped fermentation",
+"k": "text"
+},
+{
+"t": "Süssreserve adds unfermented juice to a dry wine; stopping fermentation keeps natural sugar",
+"k": "text"
+},
+{
+"t": "Mosel is warm because of its river",
+"k": "text"
+},
+{
+"t": "The Mosel is very cool; the river and slate only make ripening possible",
+"k": "text"
+},
+{
+"t": "Germany makes only white wine",
+"k": "text"
+},
+{
+"t": "Spätburgunder is widely planted, and the Ahr is mainly a red-wine area",
+"k": "text"
+},
+{
+"t": "Grosses Gewächs is a sweet wine",
+"k": "text"
+},
+{
+"t": "Grosses Gewächs is a dry wine from a VDP Grosse Lage site",
+"k": "text"
+},
+{
+"t": "Glossary of German wine terms",
+"k": "text"
+},
+{
+"t": "Anbaugebiet: one of the 13 German wine regions for quality wine.",
+"k": "text"
+},
+{
+"t": "Must weight: the sugar content of the grape juice at harvest, the basis of the Prädikat levels.",
+"k": "text"
+},
+{
+"t": "Trocken: dry. Halbtrocken and feinherb: off-dry.",
+"k": "text"
+},
+{
+"t": "Lage: a single vineyard site; in the VDP system Erste Lage and Grosse Lage are the top tiers.",
+"k": "text"
+},
+{
+"t": "Süssreserve: unfermented grape juice added before bottling to adjust sweetness.",
+"k": "text"
+},
+{
+"t": "Bocksbeutel: the flat, round bottle traditionally used in Franken.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Practise all of it in the app",
+"k": "text"
+},
+{
+"t": "Your answers are saved to your profile, the app builds your day-by-day study plan up to the exam and brings back your weak points until you master them.",
+"k": "text"
+},
+{
+"t": "67 questions on this topic in the app",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Try these questions in the app{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions on Germany are in The Wine Goat?",
+"k": "text"
+},
+{
+"t": "The app has 67 multiple-choice questions on Germany, each with an explanation, plus short written answer questions and flashcards on the same topic.",
+"k": "text"
+},
+{
+"t": "Is Germany important for the WSET Level 3 exam?",
+"k": "text"
+},
+{
+"t": "Yes. The 50 multiple-choice questions cover the whole syllabus and the 4 short written answers often focus on one region or process, so every topic, including Germany, can come up.",
+"k": "text"
+},
+{
+"t": "Which German wine regions are most important for WSET 3?",
+"k": "text"
+},
+{
+"t": "Focus on the Mosel, Rheingau, Pfalz, Rheinhessen, Nahe, Baden and Franken. You should be able to link each one to its climate and typical style, for example Mosel with light, low-alcohol, often sweet Riesling, Pfalz with fuller dry Riesling, Baden with Spätburgunder and Franken with Silvaner in the Bocksbeutel bottle.",
+"k": "text"
+},
+{
+"t": "What is the order of the German Prädikat levels for WSET Level 3?",
+"k": "text"
+},
+{
+"t": "From least to most ripe at harvest: Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese. Eiswein sits apart, made from naturally frozen grapes with a minimum must weight comparable to Beerenauslese. Remember that the levels describe ripeness of the grapes, not sweetness in the bottle.",
+"k": "text"
+},
+{
+"t": "What is Süssreserve in German wine?",
+"k": "text"
+},
+{
+"t": "Süssreserve is unfermented grape juice added to a fermented dry wine before bottling to give it sweetness. It is mainly used for inexpensive German wines. Quality producers more often stop the fermentation by chilling and filtering, which keeps natural residual sugar and lower alcohol.",
+"k": "text"
+},
+{
+"t": "What does Grosses Gewächs mean on a German wine label?",
+"k": "text"
+},
+{
+"t": "Grosses Gewächs is the term used by VDP member estates for a dry wine from a Grosse Lage, their highest-ranked vineyard category. It is a quality and style indicator for top dry wines, most commonly Riesling, though Spätburgunder and other varieties can also be labelled this way.",
+"k": "text"
+},
+{
+"t": "Why does German Riesling taste fresh even when it is sweet?",
+"k": "text"
+},
+{
+"t": "German Riesling grows in a cool climate, so it keeps very high acidity. That acidity balances the residual sugar, so a sweet Kabinett or Spätlese tastes lively rather than heavy. This balance between sugar and acidity is a classic point in WSET 3 tasting and theory answers.",
+"k": "text"
+},
+{
+"t": "Can a German Riesling appear in the WSET Level 3 tasting unit?",
+"k": "text"
+},
+{
+"t": "Any wine within the syllabus can be used, but the tasting unit never asks you to identify it. You are marked on a precise SAT description and justified conclusions, in a unit marked separately from theory with its own 55% pass mark. German Riesling is ideal practice because it tests your ability to judge acidity and sweetness independently.",
+"k": "text"
+},
+{
+"t": "What is the difference between trocken and feinherb?",
+"k": "text"
+},
+{
+"t": "Trocken means the wine is dry: fermentation has used up almost all the sugar. Feinherb, like halbtrocken, indicates an off-dry wine with a little residual sugar. In German Riesling the high acidity often makes an off-dry wine taste fresher and drier than its sugar level would suggest, which is why these terms help you predict the balance.",
+"k": "text"
+},
+{
+"t": "How do I decode a German wine label quickly?",
+"k": "text"
+},
+{
+"t": "Read it in four steps: the region tells you the climate, the grape tells you the aromas and structure, the Prädikat tells you how ripe the grapes were, and words such as trocken or feinherb tell you the sweetness. A label without a dry term on a Kabinett or Spätlese often indicates a wine with some residual sugar.",
+"k": "text"
+},
+{
+"t": "Why is Eiswein so acidic?",
+"k": "text"
+},
+{
+"t": "Eiswein is made from grapes frozen on the vine and pressed while still frozen. Water stays behind as ice, so the juice that flows is concentrated in sugar and in acid together. Because the grapes are usually healthy and not botrytised, the wine shows pure fruit with very high sweetness balanced by piercing acidity.",
+"k": "text"
+},
+{
+"t": "How should I split my revision of Germany between the two units?",
+"k": "text"
+},
+{
+"t": "Treat Germany mainly as a theory topic: regions, the Prädikat order, winemaking for sweetness and label terms for multiple-choice and written answers. In parallel, use dry and off-dry Riesling in your tasting practice. Because the two units are passed separately, keep a balanced plan so neither unit is left behind.",
+"k": "text"
+},
+{
+"t": "More WSET Level 3 resources",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET 3 questions by region and topic",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What climate do most German wine regions have?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Baden in the south is noticeably warmer. The long cool ripening gives sugar while retaining acidity.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How are vines trained on Germany's steepest slopes?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "This maximises light exposure and air circulation.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What is Germany's most widely planted grape?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It ranges from dry to luscious, floral to richer peach; the best dry ones are often Grosses Gewächs.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How should the Prädikat categories be understood?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Nearly all have residual sugar, but up to Auslese they can be dry.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "What alcohol does a sweet Kabinett usually have?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Drier ones reach 12%. They are the most delicate Prädikate: light, high-acid, green apple and citrus.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "How does Spätlese differ from Kabinett from the same region?",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "It is made like Kabinett; Riesling Spätlese often shows citrus and stone fruit.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

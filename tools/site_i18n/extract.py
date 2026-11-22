@@ -8,7 +8,7 @@ src/<group>.json = {"group", "source", "url", "region", "sha", "words", "segment
 the list changes, the previous version is kept in src/_old/<group>.<sha>.json so older translations still build."""
 import os, re, sys, json, hashlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import common as C, seg
+import common as C, seg, assets
 
 SRC = f'{C.D}/src'
 NOTE = {'title': 'SEO title: ≤ 62 characters', 'desc': 'meta description: 140–158 characters (ja/ko/zh: 70–90)', 'meta': 'keywords / image alt text: local search wording',
@@ -56,11 +56,18 @@ def main(args):
     for g in todo:
         o = extract(g, G[g])
         rows.append((g, len(o['segments']), o['segment_words'], o['words'], sum(len(s['t']) for s in o['segments'])))
-    rows.sort(key=lambda r: (r[0] == '_home', r[0]))
+    for g in assets.GROUPS:   # core/spirits pages, illustration and photo texts of the languages added later (assets.py)
+        if args and g not in args: continue
+        o = assets.extract(g)
+        rows.append((g, len(o['segments']), o['segment_words'], o['words'], sum(len(s['t']) for s in o['segments'])))
+    rows.sort(key=lambda r: (r[0].startswith('_'), r[0]))
     print(f'{"group":45} {"segments":>8} {"seg.words":>9} {"page words":>10} {"chars":>8}')
     for r in rows: print(f'{r[0]:45} {r[1]:8} {r[2]:9} {r[3]:10} {r[4]:8}')
-    tot = [sum(r[i] for r in rows if r[0] != '_home') for i in (1, 2, 3, 4)]
-    print(f'{"TOTAL guides (" + str(len([r for r in rows if r[0] != "_home"])) + ")":45} {tot[0]:8} {tot[1]:9} {tot[2]:10} {tot[3]:8}')
+    tot = [sum(r[i] for r in rows if not r[0].startswith('_')) for i in (1, 2, 3, 4)]
+    print(f'{"TOTAL guides (" + str(len([r for r in rows if not r[0].startswith("_")])) + ")":45} {tot[0]:8} {tot[1]:9} {tot[2]:10} {tot[3]:8}')
+    if args and os.path.exists(f'{SRC}/_counts.json'):   # partial run: keep the counts of the other groups
+        cnt = json.load(open(f'{SRC}/_counts.json', encoding='utf8')); cnt.update({r[0]: {'segments': r[1], 'segment_words': r[2], 'page_words': r[3], 'chars': r[4]} for r in rows})
+        json.dump(cnt, open(f'{SRC}/_counts.json', 'w', encoding='utf8'), indent=0); return
     json.dump({r[0]: {'segments': r[1], 'segment_words': r[2], 'page_words': r[3], 'chars': r[4]} for r in rows},
               open(f'{SRC}/_counts.json', 'w', encoding='utf8'), indent=0)
 

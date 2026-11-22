@@ -3,9 +3,9 @@
 "source": "wset-level-2-grapes-and-regions/index.html",
 "url": "/wset-level-2-grapes-and-regions/",
 "region": "main",
-"sha": "b33f72a21812",
-"words": 3238,
-"segment_words": 3274,
+"sha": "69190d215142",
+"words": 3248,
+"segment_words": 3314,
 "segments": [
 {
 "t": "WSET Level 2 grapes and regions: the cheat sheet",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET Level 2 grapes and regions: the cheat sheet (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 2 focuses on about 15 principal grapes and the regions where they make their best-known wines.",
@@ -350,6 +355,15 @@
 },
 {
 "t": "Use this table to revise geography. Read it with a map open: placing each region in its country makes the climate logic much easier to remember.",
+"k": "text"
+},
+{
+"t": "Green vineyard blocks in a valley of golden hills under a cloudy sky, Marlborough",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Seddon in the Marlborough region of New Zealand.{/1}",
 "k": "text"
 },
 {
@@ -1073,7 +1087,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

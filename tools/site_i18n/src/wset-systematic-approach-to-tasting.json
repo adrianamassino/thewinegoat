@@ -3,9 +3,9 @@
 "source": "wset-systematic-approach-to-tasting/index.html",
 "url": "/wset-systematic-approach-to-tasting/",
 "region": "main",
-"sha": "c0ce693609d8",
-"words": 4569,
-"segment_words": 4911,
+"sha": "67f03798989d",
+"words": 4586,
+"segment_words": 4965,
 "segments": [
 {
 "t": "WSET Systematic Approach to Tasting (SAT) Level 3",
@@ -43,6 +43,11 @@
 {
 "t": "The tasting part of the WSET Level 3 exam is a blind tasting of two wines written up with the Systematic Approach to Tasting (SAT). The SAT trains two skills: describing a wine accurately and drawing reasoned conclusions about its quality and readiness for drinking.",
 "k": "text"
+},
+{
+"t": "The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note | WSET SAT",
@@ -311,6 +316,15 @@
 },
 {
 "t": "The visual examination takes little time, but it is worth doing carefully because it gives the first clues about age, style and sometimes winemaking. Tilt the glass over a white background and look at the wine from the core to the rim. You assess three things: whether the wine is clear or hazy, how intense the colour is, and what the colour itself is. Each of these is answered with a single term from the vocabulary you have learned.",
+"k": "text"
+},
+{
+"t": "Empty wine glass resting on a wooden vineyard post among vine leaves and blue sky",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A clear, tulip-shaped glass is the standard choice for tasting, as it shows colour and concentrates aromas.{/1}",
 "k": "text"
 },
 {
@@ -738,7 +752,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

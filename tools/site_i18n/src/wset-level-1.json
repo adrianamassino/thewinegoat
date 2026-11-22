@@ -3,9 +3,9 @@
 "source": "wset-level-1/index.html",
 "url": "/wset-level-1/",
 "region": "main",
-"sha": "ca162f55f7aa",
-"words": 3427,
-"segment_words": 3509,
+"sha": "c93bf55ad75f",
+"words": 3453,
+"segment_words": 3578,
 "segments": [
 {
 "t": "WSET Level 1 Award in Wines: exam format, syllabus",
@@ -51,6 +51,11 @@
 {
 "t": "The perfect first step into wine. A short, friendly course that teaches you the main styles of wine, the key grapes, how to store and serve wine and how to pair it with food — and an exam you can pass with a few hours of focused practice.",
 "k": "text"
+},
+{
+"t": "WSET Level 1 Award in Wines: the complete guide (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Everything about the WSET Level 1 Award in Wines: 30 multiple-choice questions in 45 minutes, the 70% pass mark, the syllabus, study tips and sample MCQs",
@@ -377,7 +382,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat in a burgundy scarf perched on a wine barrel, raising a glass of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -574,6 +579,15 @@
 "k": "text"
 },
 {
+"t": "Three hanging grape bunches, two dark red and one green, on a white background",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Grape colour comes from anthocyanins in the skins; most grape juice is colourless whatever the skin colour.{/1}",
+"k": "text"
+},
+{
 "t": "Grape",
 "k": "text"
 },
@@ -667,6 +681,15 @@
 },
 {
 "t": "At WSET Level 1, climate explains most differences between wines made from the same grape. Grapes in a cool climate ripen slowly and keep more acidity; grapes in a warm climate ripen fully, gain more sugar and lose some acidity. Because sugar becomes alcohol during fermentation, riper grapes also give wines with more alcohol and body.",
+"k": "text"
+},
+{
+"t": "Close-up of a ripe golden-green grape bunch in the sun",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Ripe white grapes in a Palatinate (Pfalz) vineyard, Germany.{/1}",
 "k": "text"
 },
 {

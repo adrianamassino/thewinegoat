@@ -3,9 +3,9 @@
 "source": "wset-3-questions/sparkling-wines-champagne/index.html",
 "url": "/wset-3-questions/sparkling-wines-champagne/",
 "region": "main",
-"sha": "e7cbd99084c0",
-"words": 3443,
-"segment_words": 3743,
+"sha": "4651b06fadb2",
+"words": 3477,
+"segment_words": 3825,
 "segments": [
 {
 "t": "WSET 3 Sparkling: Champagne, Prosecco, Cava",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Sparkling: Champagne, Prosecco, Cava, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 87 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Sparkling: Champagne, Prosecco, Cava: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Sparkling: Champagne, Prosecco, Cava: practice questions with answers | WSET 3 Sparkling: Champagne",
@@ -246,6 +251,15 @@
 "k": "text"
 },
 {
+"t": "Patchwork of autumn Champagne vineyards rolling towards wooded hills",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Autumn vineyards near Fleury-la-Rivière on the Montagne de Reims, Champagne.{/1}",
+"k": "text"
+},
+{
 "t": "Why the method decides the style",
 "k": "text"
 },
@@ -303,6 +317,15 @@
 },
 {
 "t": "Champagne, in northern France, is one of the most northerly vineyard areas in Europe, with a cool continental climate and some maritime influence. Grapes ripen with difficulty, giving the low-sugar, high-acid base wines that sparkling wine needs. Spring frost is the major hazard, and vintages vary, which is why blending across years and keeping reserve wines are so important. Chalk subsoils drain well while retaining enough water for the vines, and their colour reflects heat. The main areas are the Montagne de Reims, the Vallée de la Marne, the Côte des Blancs and the Côte des Bar in the Aube, further south.",
+"k": "text"
+},
+{
+"t": "Rolling slopes of green Champagne vineyards under a blue sky, Marne",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Verzenay in the Marne department, Champagne, with a windmill on the hilltop.{/1}",
 "k": "text"
 },
 {
@@ -399,6 +422,15 @@
 },
 {
 "t": "Other traditional-method sparkling wines",
+"k": "text"
+},
+{
+"t": "Grassy alley between Chardonnay vine rows leading towards Villa Bettoni-Cazzago",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Chardonnay vines at Villa Bettoni-Cazzago in Cazzago San Martino, Lombardy.{/1}",
 "k": "text"
 },
 {
@@ -654,7 +686,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

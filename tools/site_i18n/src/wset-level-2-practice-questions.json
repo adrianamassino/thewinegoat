@@ -3,9 +3,9 @@
 "source": "wset-level-2-practice-questions/index.html",
 "url": "/wset-level-2-practice-questions/",
 "region": "main",
-"sha": "be7b398a542b",
+"sha": "fb249f217277",
 "words": 3438,
-"segment_words": 3475,
+"segment_words": 3489,
 "segments": [
 {
 "t": "WSET Level 2 practice questions with answers (free mock test)",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET Level 2 practice questions, with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "Free WSET Level 2 Award in Wines practice questions with answers and explanations: climate, winemaking, grape varieties, regions, sparkling and fortified wines.",
@@ -877,7 +882,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

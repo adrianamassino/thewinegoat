@@ -3,9 +3,9 @@
 "source": "wset-3-questions/tasting-sat/index.html",
 "url": "/wset-3-questions/tasting-sat/",
 "region": "main",
-"sha": "ed79f635c5f0",
-"words": 3796,
-"segment_words": 4153,
+"sha": "df95b44b3062",
+"words": 3813,
+"segment_words": 4203,
 "segments": [
 {
 "t": "WSET 3 Tasting and the SAT – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Tasting and the SAT, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 146 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Tasting and the SAT: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Tasting and the SAT: practice questions with answers | WSET 3 Tasting and the SAT",
@@ -255,6 +260,15 @@
 },
 {
 "t": "Appearance and nose in the WSET 3 SAT",
+"k": "text"
+},
+{
+"t": "Empty wine glass resting on a wooden vineyard post among vine leaves and blue sky",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A clear, tulip-shaped glass is the standard choice for tasting, as it shows colour and concentrates aromas.{/1}",
 "k": "text"
 },
 {
@@ -638,7 +652,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

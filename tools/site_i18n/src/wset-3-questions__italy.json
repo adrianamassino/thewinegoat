@@ -3,9 +3,9 @@
 "source": "wset-3-questions/italy/index.html",
 "url": "/wset-3-questions/italy/",
 "region": "main",
-"sha": "9eefe893f041",
-"words": 3423,
-"segment_words": 3598,
+"sha": "58296a4ab726",
+"words": 3461,
+"segment_words": 3683,
 "segments": [
 {
 "t": "WSET 3 Italy – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Italy, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 102 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Italy: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Italy: practice questions with answers | WSET 3 Italy",
@@ -270,6 +275,15 @@
 "k": "text"
 },
 {
+"t": "Serralunga d'Alba with its castle tower rising above vineyards",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Serralunga d'Alba and its castle above the vineyards of the Langhe, Piedmont.{/1}",
+"k": "text"
+},
+{
 "t": "Piedmont: Nebbiolo, Barbera, Dolcetto",
 "k": "text"
 },
@@ -295,6 +309,15 @@
 },
 {
 "t": "Sangiovese is the most planted black grape in Italy and the backbone of Tuscany. It is late-ripening, with high acidity and high tannin, medium colour, and flavours of red cherry, plum and dried herbs, developing leather and earthy notes with age. The Tuscan climate is warm Mediterranean, moderated by altitude in the hills where the best vineyards lie.",
+"k": "text"
+},
+{
+"t": "Red-brick neo-Gothic façade of Brolio Castle above a clipped formal garden",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Brolio Castle at Gaiole in Chianti, Tuscany, owned by the Ricasoli family for centuries.{/1}",
 "k": "text"
 },
 {
@@ -722,6 +745,15 @@
 "k": "text"
 },
 {
+"t": "Green grape clusters among fresh vine leaves on a hillside in Schenna",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}White grapes on the vine at Schenna in South Tyrol, northern Italy.{/1}",
+"k": "text"
+},
+{
 "t": "Garganega: Soave; medium to high acidity, lemon, pear, almond; best from the volcanic Classico hills.",
 "k": "text"
 },
@@ -858,7 +890,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

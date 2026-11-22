@@ -3,9 +3,9 @@
 "source": "wset-3-questions/alsace-loire/index.html",
 "url": "/wset-3-questions/alsace-loire/",
 "region": "main",
-"sha": "c7e205a2abb6",
-"words": 3302,
-"segment_words": 3599,
+"sha": "4902676470af",
+"words": 3322,
+"segment_words": 3659,
 "segments": [
 {
 "t": "WSET 3 Alsace and the Loire – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Alsace and the Loire, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 79 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Alsace and the Loire: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Alsace and the Loire: practice questions with answers | WSET 3 Alsace and the Loire",
@@ -250,6 +255,15 @@
 "k": "text"
 },
 {
+"t": "Path through green vines leading to the ruined castle above Kaysersberg, Alsace",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards below the ruined castle of Kaysersberg in Alsace.{/1}",
+"k": "text"
+},
+{
 "t": "Why Alsace is dry and sunny",
 "k": "text"
 },
@@ -391,6 +405,15 @@
 },
 {
 "t": "The Loire Valley for WSET 3 is easiest to learn from west to east. Near the Atlantic the climate is cool and maritime; travelling inland it becomes more continental, with colder winters, warmer summers and greater frost risk. Throughout the valley grapes struggle to ripen in cool years, so high acidity is the common thread of almost every Loire wine.",
+"k": "text"
+},
+{
+"t": "Vineyard in the foreground and rolling fields beyond near Sancerre",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Sancerre, in the Cher department of the Loire Valley.{/1}",
 "k": "text"
 },
 {
@@ -726,7 +749,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

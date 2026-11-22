@@ -1,0 +1,1094 @@
+{
+"group": "_home",
+"source": "index.html",
+"url": "/",
+"region": "body",
+"sha": "5f969432be90",
+"words": 1378,
+"segment_words": 1736,
+"segments": [
+{
+"t": "WSET Exam Prep: Level 1, 2 & 3 Practice App | The Wine Goat",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Prepare for WSET Levels 1, 2 and 3 in one app: 2,800+ practice questions with explanations, lessons, flashcards, mock exams, games and a personal study plan. Start free.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET 3, WSET Level 3, WSET Level 3 practice questions, WSET 3 mock exam, WSET Level 3 exam prep, WSET 3 revision, WSET Level 3 Award in Wines, WSET short written answers, WSET Level 3 tasting, SAT WSET, how to pass WSET Level 3, WSET 3 study guide, WSET 2, WSET 1",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "{1}Skip to content{/1}",
+"k": "text"
+},
+{
+"t": "{1}Free trial{/1}",
+"k": "text"
+},
+{
+"t": "{1}Why us{/1}",
+"k": "text"
+},
+{
+"t": "{1}FAQ{/1}",
+"k": "text"
+},
+{
+"t": "{1}Spirits{/1}",
+"k": "text"
+},
+{
+"t": "{1}Sign in{/1}{2}Start free{/2}",
+"k": "text"
+},
+{
+"t": "WSET® wine exam preparation · Levels 1, 2, 3 and Diploma",
+"k": "text"
+},
+{
+"t": "Pass your WSET wine exam first time",
+"k": "text"
+},
+{
+"t": "The app that trains you like the real exam, for WSET Levels 1, 2 and 3: lessons, practice questions with explanations, flashcards, games and a study plan built around your exam date. Levels 1, 2 and 3 available now; the Diploma (Level 4) coming soon.",
+"k": "text"
+},
+{
+"t": "New: Spirits courses, Levels 1 and 2 already in the app.",
+"k": "text"
+},
+{
+"t": "{1}Take the challenge · 10 min →{/1}{2}Start free{/2}",
+"k": "text"
+},
+{
+"t": "a\">",
+"k": "text"
+},
+{
+"t": "✓ Free",
+"k": "text"
+},
+{
+"t": "✓ No credit card",
+"k": "text"
+},
+{
+"t": "✓ 4 languages",
+"k": "text"
+},
+{
+"t": "{1}2,800+{/1}{2}practice questions{/2}",
+"k": "text"
+},
+{
+"t": "{1}3{/1}{2}levels available{/2}",
+"k": "text"
+},
+{
+"t": "{1}1,200+{/1}{2}flashcards{/2}",
+"k": "text"
+},
+{
+"t": "{1}4{/1}{2}languages{/2}",
+"k": "text"
+},
+{
+"t": "Choose your level",
+"k": "text"
+},
+{
+"t": "One method for every WSET wine level",
+"k": "text"
+},
+{
+"t": "Same coach, same goats, the right content for your exam.",
+"k": "text"
+},
+{
+"t": "{1}Available now{/1}",
+"k": "text"
+},
+{
+"t": "Level {1}1{/1}",
+"k": "text"
+},
+{
+"t": "Your first step into wine: styles, main grapes, food pairing and service.",
+"k": "text"
+},
+{
+"t": "{1}Start Level 1{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "Level {1}2{/1}",
+"k": "text"
+},
+{
+"t": "The world of wine: 30 grape varieties, 70+ regions, labels and pairing.",
+"k": "text"
+},
+{
+"t": "{1}Start Level 2{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "Level {1}3{/1}",
+"k": "text"
+},
+{
+"t": "In-depth theory, written answers and blind tasting with the SAT.",
+"k": "text"
+},
+{
+"t": "{1}Start Level 3{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "{1}Coming soon{/1}",
+"k": "text"
+},
+{
+"t": "Level {1}4{/1} · Diploma",
+"k": "text"
+},
+{
+"t": "The expert level: six units from production to the wine business, theory and tasting.",
+"k": "text"
+},
+{
+"t": "{1}Discover the Diploma{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "New: spirits",
+"k": "text"
+},
+{
+"t": "WSET Spirits courses, Levels 1, 2 and 3",
+"k": "text"
+},
+{
+"t": "Whisky, brandy, rum, agave spirits, gin, liqueurs and cocktails: the same goat-powered method, now for spirits.",
+"k": "text"
+},
+{
+"t": "Spirits {1}1{/1}",
+"k": "text"
+},
+{
+"t": "Spirit families, how they're made, labels and classic cocktails.",
+"k": "text"
+},
+{
+"t": "{1}Start Spirits 1{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "Spirits {1}2{/1}",
+"k": "text"
+},
+{
+"t": "Production in depth, the principal spirits of the world, liqueurs and cocktail families.",
+"k": "text"
+},
+{
+"t": "{1}Start Spirits 2{/1}{2}Read the guide →{/2}",
+"k": "text"
+},
+{
+"t": "{1}In preparation{/1}",
+"k": "text"
+},
+{
+"t": "Spirits {1}3{/1}",
+"k": "text"
+},
+{
+"t": "Theory, 'explain why' written answers and blind tasting of spirits.",
+"k": "text"
+},
+{
+"t": "{1}Read the guide →{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Spirits courses, Levels 1, 2 and 3 →{/1}",
+"k": "text"
+},
+{
+"t": "Prepare for your WSET exam",
+"k": "text"
+},
+{
+"t": "{1}WSET exam preparation: choose your level and study with a method{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET wine exam preparation: Levels 1, 2 and 3 compared{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET mock exams: how to practise the real exam before the day{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET practice questions online, with answers and explanations{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Flashcards: Learn Wine & Spirits for Good{/1}",
+"k": "text"
+},
+{
+"t": "{1}Plan Your WSET Exam Preparation, Week by Week{/1}",
+"k": "text"
+},
+{
+"t": "{1}How The Wine Goat Helps You Study for WSET{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Preparation: Frequently Asked Questions{/1}",
+"k": "text"
+},
+{
+"t": "Level session",
+"k": "text"
+},
+{
+"t": "How ready are you? Find out now",
+"k": "text"
+},
+{
+"t": "Take the challenge, create your free account and get your level, your weak points and how many days of study you need to pass.",
+"k": "text"
+},
+{
+"t": "Quick challenge",
+"k": "text"
+},
+{
+"t": "The fastest way to find out where you stand: the whole syllabus, multiple choice.",
+"k": "text"
+},
+{
+"t": "{1}{2}20{/2} · ~10 min{/1}{3}Start →{/3}{/4}{5}",
+"k": "text"
+},
+{
+"t": "50 mixed questions",
+"k": "text"
+},
+{
+"t": "Every topic of the syllabus, multiple choice, like the theory paper.",
+"k": "text"
+},
+{
+"t": "{1}{2}50{/2} · ~30 min{/1}{3}Start →{/3}{/4}",
+"k": "text"
+},
+{
+"t": "Result unlocked with a free account",
+"k": "text"
+},
+{
+"t": "The most complete app to pass WSET Levels 1, 2 and 3",
+"k": "text"
+},
+{
+"t": "Everything you need in one place, so you walk into the exam with the best chance of passing.",
+"k": "text"
+},
+{
+"t": "{1}Pass{/1}{2}Merit{/2}{3}Distinction{/3}",
+"k": "text"
+},
+{
+"t": "{1}{/1}{2}{/2}{3}1{/3}{4}2{/4}{5}3{/5}{6}4{/6}{7}5{/7}{8}6{/8}{9}7{/9}{10}8{/10}{11}9{/11}{12}10{/12}{13}11{/13}{14}12{/14}{15}13{/15}{16}14{/16}{17}15{/17}{18}16{/18}{19}17{/19}{20}18{/20}{21}19{/21}{22}20{/22}{23}21{/23}{24}22{/24}{25}23{/25}{26}24{/26}{27}🏆{/27}{28}26{/28}",
+"k": "text"
+},
+{
+"t": "{1}17{/1}{2}⏳{/2}",
+"k": "text"
+},
+{
+"t": "{/1}A plan built around your exam",
+"k": "text"
+},
+{
+"t": "Goal Pass, Merit or Distinction, exam date and minutes a day: the app tells you what to do today and brings back your weak points.",
+"k": "text"
+},
+{
+"t": "{1}{/1}REC {2}12:48{/2}",
+"k": "text"
+},
+{
+"t": "{/1}The only app that records your class",
+"k": "text"
+},
+{
+"t": "Put your phone on the desk: the app transcribes what the teacher says and keeps photos of your notes, right next to your quizzes.",
+"k": "text"
+},
+{
+"t": "{1}68{/1}",
+"k": "text"
+},
+{
+"t": "{1}45{/1}",
+"k": "text"
+},
+{
+"t": "{/1}Revision that feels easy",
+"k": "text"
+},
+{
+"t": "Animated films, podcasts, games, interactive maps and flashcards: revise on the train, on a break, anywhere.",
+"k": "text"
+},
+{
+"t": "{1}✓ 1/3{/1}{2}↻{/2}",
+"k": "text"
+},
+{
+"t": "{/1}Mistakes come back until you master them",
+"k": "text"
+},
+{
+"t": "{1}38{2}min{/2}{/1}",
+"k": "text"
+},
+{
+"t": "{1}🏅 Merit{/1}{2}92%{/2}",
+"k": "text"
+},
+{
+"t": "{/1}Timed mock exams",
+"k": "text"
+},
+{
+"t": "{/1}Interactive wine maps",
+"k": "text"
+},
+{
+"t": "{1}🔥 7{/1}{2}+20 XP{/2}",
+"k": "text"
+},
+{
+"t": "{1}Riesling{/1}{2}✓{/2}",
+"k": "text"
+},
+{
+"t": "{1}Rioja{/1}",
+"k": "text"
+},
+{
+"t": "{1}Mosel{/1}{2}✓{/2}",
+"k": "text"
+},
+{
+"t": "{1}Nebbiolo{/1}{2}✓{/2}",
+"k": "text"
+},
+{
+"t": "{1}Tempranillo{/1}",
+"k": "text"
+},
+{
+"t": "{1}Barolo{/1}{2}✓{/2}",
+"k": "text"
+},
+{
+"t": "{/1}Games that make it stick",
+"k": "text"
+},
+{
+"t": "{1}Nebbiolo{/1}{2}Barolo · Barbaresco{/2}",
+"k": "text"
+},
+{
+"t": "{1}12{/1}{2}/20{/2}",
+"k": "text"
+},
+{
+"t": "{/1}Smart flashcards",
+"k": "text"
+},
+{
+"t": "How we compare",
+"k": "text"
+},
+{
+"t": "The Wine Goat",
+"k": "text"
+},
+{
+"t": "Other apps",
+"k": "text"
+},
+{
+"t": "Levels 1, 2 and 3 in one app",
+"k": "text"
+},
+{
+"t": "rarely",
+"k": "text"
+},
+{
+"t": "Personal study plan",
+"k": "text"
+},
+{
+"t": "English, Italian, French, Spanish",
+"k": "text"
+},
+{
+"t": "English only",
+"k": "text"
+},
+{
+"t": "How it works",
+"k": "text"
+},
+{
+"t": "{1}1{/1}",
+"k": "text"
+},
+{
+"t": "Set your goal",
+"k": "text"
+},
+{
+"t": "Pass, Merit or Distinction and your exam date.",
+"k": "text"
+},
+{
+"t": "{1}2{/1}",
+"k": "text"
+},
+{
+"t": "Follow today's plan",
+"k": "text"
+},
+{
+"t": "Quizzes, lessons and revision: 20–30 minutes is enough.",
+"k": "text"
+},
+{
+"t": "{1}3{/1}",
+"k": "text"
+},
+{
+"t": "Walk in ready",
+"k": "text"
+},
+{
+"t": "Full mock exams done and weak points fixed.",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "Is The Wine Goat the official WSET website?",
+"k": "text"
+},
+{
+"t": "No. The Wine Goat is an independent exam preparation platform. It is not affiliated with or approved by the Wine & Spirit Education Trust: to sit the exam you need to enrol with an Approved Programme Provider.",
+"k": "text"
+},
+{
+"t": "What can I use for free?",
+"k": "text"
+},
+{
+"t": "You can start every level straight away, free and without a credit card.",
+"k": "text"
+},
+{
+"t": "Can The Wine Goat replace the WSET course?",
+"k": "text"
+},
+{
+"t": "No, it complements it. The course and official materials give you the knowledge; The Wine Goat trains you to recall it and write it well on exam day.",
+"k": "text"
+},
+{
+"t": "Which languages is it available in?",
+"k": "text"
+},
+{
+"t": "English, Italian and French, and you can switch at any time: useful if you study in your own language but sit the exam in English.",
+"k": "text"
+},
+{
+"t": "How long does it take to prepare for a WSET exam?",
+"k": "text"
+},
+{
+"t": "It depends on the level and your starting point: a few weeks of short daily sessions are usually enough for Level 1, while Levels 2 and 3 need regular study over a few months on top of course hours.",
+"k": "text"
+},
+{
+"t": "Does The Wine Goat cover the WSET spirits courses?",
+"k": "text"
+},
+{
+"t": "Yes. Spirits Levels 1 and 2 are already in the app, with lessons, practice questions with explanations, flashcards and mock exams; Level 3 is in preparation. You can start free.",
+"k": "text"
+},
+{
+"t": "Ready to pass your WSET exam first time?",
+"k": "text"
+},
+{
+"t": "It takes 2 minutes to build your plan. Free.",
+"k": "text"
+},
+{
+"t": "{1}Build my free plan{/1}",
+"k": "text"
+},
+{
+"t": "More WSET resources: Levels 1, 2 and 3",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}WSET Level 1 Award in Wines: the complete guide{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 Award in Wines: the complete guide{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 mock exam: free practice test{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short written answer questions: examples and model answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 Systematic Approach to Tasting (SAT): how to write a tasting note{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards: grapes, regions, numbers and key terms{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time: study plan and tips{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 questions by region and topic{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Tasting and the SAT{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Food and wine pairing{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Storage and service{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Wine pricing and the trade{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 The vine and grape varieties{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Climate and environment{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Vineyard management and pruning{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Winemaking and maturation{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 White wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Red and rosé wines{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Bordeaux{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Burgundy and Beaujolais{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Alsace and the Loire{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Rhône Valley{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Southern France{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Italy{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Spain{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Portugal{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Germany{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Austria and Hungary{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Greece{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 USA and Canada{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Chile and Argentina{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 South Africa{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Australia and New Zealand{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Sparkling: Champagne, Prosecco, Cava{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Sherry{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET 3 Port and fortified wines{/1}",
+"k": "text"
+},
+{
+"t": "Languages",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Deutsch{/1}",
+"k": "text"
+},
+{
+"t": "{1}Nederlands{/1}",
+"k": "text"
+},
+{
+"t": "{1}Português (Brasil){/1}",
+"k": "text"
+},
+{
+"t": "{1}Português (Portugal){/1}",
+"k": "text"
+},
+{
+"t": "{1}Ελληνικά{/1}",
+"k": "text"
+},
+{
+"t": "{1}日本語{/1}",
+"k": "text"
+},
+{
+"t": "{1}한국어{/1}",
+"k": "text"
+},
+{
+"t": "{1}简体中文{/1}",
+"k": "text"
+},
+{
+"t": "{1}繁體中文{/1}",
+"k": "text"
+},
+{
+"t": "{1}Polski{/1}",
+"k": "text"
+},
+{
+"t": "{1}العربية{/1}",
+"k": "text"
+},
+{
+"t": "{1}Español (Argentina){/1}",
+"k": "text"
+},
+{
+"t": "{1}Русский{/1}",
+"k": "text"
+},
+{
+"t": "The Wine Goat is an independent exam preparation platform. It is not affiliated with, endorsed or sponsored by the Wine & Spirit Education Trust. WSET® is a registered trademark of the Wine & Spirit Education Trust, mentioned only to identify the exam being prepared for.",
+"k": "text"
+},
+{
+"t": "© 2026 The Wine Goat · {1}For schools{/1} · {2}Instagram{/2}",
+"k": "text"
+},
+{
+"t": "Close",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Prepare for the WSET Level 3 Award in Wines: 2,000+ multiple-choice practice questions, 101 short written answer questions with marking, SAT tasting practice, mock exams and exam traps. Try it free. Personalised app with a study plan and weak-point revision.",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "WSET Level 3 exam prep · Award in Wines",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Level 1",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Advanced",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+},
+{
+"t": "Your score: {s} out of {m}",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Points you scored",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "You missed",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Try again",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Write at least a few words 🙂",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Correct!",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Not quite.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Next question",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "You got {n} out of {t} right.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Carry on in the app: 2,000 more questions and your study plan.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Hi! I'll coach you through WSET 3 🍷",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "20 minutes a day is enough ⏱️",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "A written question? I mark it instantly ✍️",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Start free, try it! 🍇",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Psst… ready for a quiz?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "{n} answers saved to your profile",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Continue",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "What is the most widely planted variety in Bordeaux?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Merlot (black)",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Cabernet Franc",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Semillon (white)",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "It succeeds on the cool clays of Saint-Émilion and Pomerol; its softness makes it dominant in inexpensive wines.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "From north to south, what are the four most reputed Haut-Médoc communes?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "St-Estèphe, Pauillac, St-Julien, Margaux",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Margaux, Saint-Julien, Pauillac, Saint-Estèphe",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Pauillac, Margaux, Saint-Estèphe, Saint-Julien",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Pomerol, Pauillac, Graves, Saint-Julien",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "High Cabernet Sauvignon: blackcurrant and cedar, grippy young tannins and long ageing.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "In which year was the Médoc and Sauternes classification drawn up?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "1855",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "1955",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "1789",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "1936",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "It was made for the Paris Universal Exhibition; it remains virtually intact and its relevance is debated.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Why is Semillon the key grape for Bordeaux sweet wines?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Thin skin and affinity for noble rot",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Very high acidity, balancing the sugar",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Intense floral aromas of rose and muscat",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Very early ripening, before the rains",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "In Pessac-Léognan and Graves dry whites it is blended with Sauvignon, adding body.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "What can the Entre-Deux-Mers appellation produce?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Only white wines",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Only red wines",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Reds and sweet wines",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Only sparkling",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Reds from the area use a generic appellation. Graves and Entre-Deux-Mers whites are usually unoaked Sauvignon.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "What style is Pomerol?",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Richer, with spicier blackberry fruit",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Lighter and floral, with fresh red fruit",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "More austere, with blackcurrant-leaf and cedar notes",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Sweet and botrytised, from over-ripe Merlot",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+},
+{
+"t": "Its reputation is as high as Saint-Émilion's.",
+"k": "data",
+"n": "home widget text: keep {s} {m} {n} {t} and emoji"
+}
+]
+}

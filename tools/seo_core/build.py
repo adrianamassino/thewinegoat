@@ -49,6 +49,11 @@ DISC = {
  'it': "The Wine Goat è una piattaforma indipendente di preparazione agli esami, non affiliata, approvata o sponsorizzata dal Wine &amp; Spirit Education Trust. WSET® è un marchio registrato del Wine &amp; Spirit Education Trust, citato solo per indicare l'esame.",
  'fr': "The Wine Goat est une plateforme indépendante de préparation aux examens, non affiliée au Wine &amp; Spirit Education Trust, ni approuvée ni sponsorisée par lui. WSET® est une marque déposée du Wine &amp; Spirit Education Trust, citée uniquement pour désigner l'examen.",
  'es': 'The Wine Goat es una plataforma independiente de preparación de exámenes, no afiliada, avalada ni patrocinada por el Wine &amp; Spirit Education Trust. WSET® es una marca registrada del Wine &amp; Spirit Education Trust, citada solo para indicar el examen.'}
+# the 11 languages added later (tools/site_i18n/newlangs.py); a language is built only once its content and its home exist
+import sys as _sys; _sys.path.insert(0, 'tools/site_i18n'); import newlangs as NL
+ALL += [l for l in NL.LANGS if l not in ALL]; HOME.update({l: f'/{l}/' for l in NL.LANGS})
+NL.merge(LNAME, NL.LNAME); HREF.update(NL.HREF); NL.merge(UI, {l: v + (NL.MORE[l],) for l, v in NL.UI.items()})
+CODES = lambda x: [HREF.get(x, x)] + NL.ALSO.get(x, [])   # hreflang codes of a language (Norwegian: nb and no)
 for l in ALL:
     if l not in DISC and not os.path.exists(f'{l}/index.html'): DISC[l] = DISC['en']  # no home yet: the language is skipped below
     elif l not in DISC:
@@ -122,7 +127,7 @@ def text_len(C):
 def page(key, l):
     C = CONTENT[l][key]; U = UI[l]; slug = SL[key][l]; url = SITE + slug
     title = short(C['title'], 65); desc = short(C['desc'], 160)
-    alts = ''.join(f'<link rel="alternate" hreflang="{HREF.get(x, x)}" href="{SITE}{SL[key][x]}">' for x in LANGS) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{SL[key]["en"]}">'
+    alts = ''.join(f'<link rel="alternate" hreflang="{c}" href="{SITE}{SL[key][x]}">' for x in LANGS for c in CODES(x)) + f'<link rel="alternate" hreflang="x-default" href="{SITE}{SL[key]["en"]}">'
     app = f'/app/?lang={APPL[l]}' if l in APPL else '/app/'
     img = f'{SITE}/img/{OG.get(l, "og-en")}.png'
     graph = [

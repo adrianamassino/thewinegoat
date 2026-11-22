@@ -24,7 +24,7 @@ home links its guides) and tools/seo_tech/sitemaps.py (sitemap index + one sitem
 Re-run it after tools/seo2/build.py or expand.py (they rewrite the en/it/fr/es guides with 4 languages only)."""
 import os, sys, re, json, html, glob, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import common as C, seg
+import common as C, seg, assets
 from es_ar_extra import es_ar  # tools/i18n/ar_rules.py (read-only) + extra guide forms
 import es_ar_local  # es-ar-local/<group>.txt: local sections, title, H1 and FAQ of the Argentine/Uruguayan pages
 import pt_br_local  # pt-br-local/<group>.txt: the same for the Brazilian pages
@@ -32,7 +32,7 @@ import pt_br_local  # pt-br-local/<group>.txt: the same for the Brazilian pages
 e = html.escape
 SITE = C.SITE
 SRC = f'{C.D}/src'
-HOME_LANGS = ['th', 'tr']   # homes built by this pipeline (the other homes have their own builders)
+HOME_LANGS = ['th', 'tr'] + C.NL.LANGS   # homes built by this pipeline from the English home (the other homes have their own builders)
 MIN_SIZE = {'ja': 4800, 'zh-hans': 4200, 'zh-hant': 4200, 'ko': 5400, 'th': 12000}  # ≈ 3,000 English words, in characters
 
 
@@ -81,6 +81,10 @@ def validate(l, g, S, T):
             lo, hi = (70, 90) if cjk else (140, 158)
             if not lo - 20 <= len(t) <= hi + 2: warn.append(f'#{i} description {len(t)} chars (aim {lo}–{hi})')
     if same > len(src) * .1: warn.append(f'{same} long segments identical to English (untranslated?)')
+    if l in C.NL.LANGS:   # languages added later: an untranslated file never publishes; wording rules are errors
+        if same > max(3, len(src) * .03): err.append(f'{same} long segments identical to English (untranslated)')
+        bad = [i for i, t in enumerate(tr) if isinstance(t, str) and re.search(C.NL.BANNED, t, re.I) and not re.search(C.NL.BANNED, src[i]['t'], re.I)]
+        if bad: err.append(f'#{bad[0]} says "official" ({len(bad)} segment(s)): our questions and the app are never official')
     return err, warn
 
 
@@ -118,6 +122,14 @@ def jobs_for(l, only=None):
             d0 = re.sub(r'<!--(lvseries|gcta)-->.*?<!--/\1-->', '', d0, flags=re.S)
             allseg = seg.segments(d0, region); new = [x['t'] for x in allseg if x['t'] not in M]
             if len(new) > max(20, len(allseg) // 10): print(f'  = {l}/{g}: published page kept, {len(new)} segment(s) of the English page are not translated yet (realign.py todo {g} {l})'); continue
+        if l in C.NL.LANGS and '--allow-english' not in sys.argv:
+            # languages added later are published page by page, never as a mixed page: every segment of the English page
+            # (as it is now) must have its translation, else the page is not written (and stays out of hreflang/sitemaps)
+            d0 = open(base, encoding='utf8').read()
+            d0 = re.sub(r'<!--(lvseries|gcta)-->.*?<!--/\1-->', '', d0, flags=re.S)
+            if g == '_home': d0 = absolutize(d0)
+            new = [x['t'] for x in seg.segments(d0, region) if x['t'] not in M and re.search(r'[A-Za-z]', x['t'])]
+            if new: print(f'  = {l}/{g}: not published, {len(new)} segment(s) of the English page have no translation, e.g. {new[0][:70]!r}'); continue
         miss = []
         def tr(t, k, M=M, miss=miss):
             if t in M: return M[t]
@@ -138,7 +150,7 @@ def set_alternates(doc, block, sep=''):
 
 def guide_versions(lm, path):
     v = lm.versions(path)
-    return [(C.href(l), p) for l, p in v.items()], v
+    return [(c, p) for l, p in v.items() for c in C.codes(l)], v
 
 
 def seolangs(v, cur):
@@ -317,6 +329,14 @@ def main():
     for l in langs:
         J[l] = jobs_for(l, only)
         print(f'{l}: {len(J[l])} page(s) ready')
+    emitted = []
+    for l in langs:   # languages added later: core/spirits pages, illustration and photo texts (assets.py)
+        if l not in C.NL.LANGS: continue
+        if '--check' in sys.argv:
+            for g in assets.GROUPS:
+                if os.path.exists(f'{C.D}/{l}/{g}.json'): print(f'{l}/{g}: ' + ('ok' if assets.text_map(l, g, validate) else 'NOT usable'))
+        elif not only or any(g in only for g in ('_core', '_spirits')):
+            emitted += assets.emit(l, validate)
     if '--check' in sys.argv: return
     extra = {(C.home(l) if g == '_home' else SL[g][l]) for l, js in J.items() for g, *_ in js}
     lm = C.LinkMap(extra)
@@ -329,6 +349,8 @@ def main():
             if miss: flag += f'  ({len(miss)} segment(s) left in English)'
             report.append(f'  {l:7} {url:62} {size:6}{" chars" if l in seg.CJK else " words"}{flag}')
     print('\n'.join(report))
+    if '_core' in emitted: os.system(f'{sys.executable} tools/seo_core/build.py >/dev/null')   # core pages of every language that has its content and home
+    if '_spirits' in emitted: os.system(f'{sys.executable} tools/seo_sp/build.py >/dev/null')
     lm = C.LinkMap()
     homes, home_alts = homes_sync()
     n = guides_sync(lm)

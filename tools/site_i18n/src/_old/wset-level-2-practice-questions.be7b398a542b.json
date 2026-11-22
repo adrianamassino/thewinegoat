@@ -1,0 +1,1086 @@
+{
+"group": "wset-level-2-practice-questions",
+"source": "wset-level-2-practice-questions/index.html",
+"url": "/wset-level-2-practice-questions/",
+"region": "main",
+"sha": "be7b398a542b",
+"words": 3438,
+"segment_words": 3475,
+"segments": [
+{
+"t": "WSET Level 2 practice questions with answers (free mock test)",
+"k": "title",
+"n": "SEO title: ≤ 62 characters"
+},
+{
+"t": "Free WSET Level 2 practice questions with answers and explanations on climate, winemaking, grapes, regions, sparkling and fortified wines. Test yourself.",
+"k": "desc",
+"n": "meta description: 140–158 characters (ja/ko/zh: 70–90)"
+},
+{
+"t": "WSET Level 2 practice questions, WSET Level 2 practice test, WSET Level 2 mock exam, WSET 2 exam questions, WSET Level 2 quiz free, WSET Level 2 sample questions",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "WSET Level 2 practice questions, with answers – WSET Level 2 practice questions, WSET Level 2 practice test (infographic)",
+"k": "meta",
+"n": "keywords / image alt text: local search wording"
+},
+{
+"t": "Breadcrumb",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Home{/1}",
+"k": "text"
+},
+{
+"t": "WSET Level 2 practice questions, with answers",
+"k": "text"
+},
+{
+"t": "{1}In short{/1}",
+"k": "text"
+},
+{
+"t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
+"k": "text"
+},
+{
+"t": "Free WSET Level 2 Award in Wines practice questions with answers and explanations: climate, winemaking, grape varieties, regions, sparkling and fortified wines.",
+"k": "text"
+},
+{
+"t": "The WSET Level 2 Award in Wines is assessed with a multiple-choice exam. The questions test whether you can explain why wines taste the way they do: grape, climate, winemaking and region.",
+"k": "text"
+},
+{
+"t": "Practise with the questions below, then train every day in the app with thousands more.",
+"k": "text"
+},
+{
+"t": "What the Level 2 exam looks like",
+"k": "text"
+},
+{
+"t": "50 multiple-choice questions in one hour, no tasting exam.",
+"k": "text"
+},
+{
+"t": "You need 55% to pass; higher marks give a Merit or Distinction.",
+"k": "text"
+},
+{
+"t": "Most questions link a cause (climate, technique) to an effect on the wine.",
+"k": "text"
+},
+{
+"t": "How to prepare",
+"k": "text"
+},
+{
+"t": "Learn each key grape with its regions and typical style.",
+"k": "text"
+},
+{
+"t": "Understand the “why”: cool vs warm climate, oak, malolactic conversion, lees.",
+"k": "text"
+},
+{
+"t": "Do short timed quizzes daily and review every mistake.",
+"k": "text"
+},
+{
+"t": "Practice questions",
+"k": "text"
+},
+{
+"t": "{1}1{/1} Why do cool climates usually give wines with higher acidity?",
+"k": "text"
+},
+{
+"t": "Yeast adds acid",
+"k": "text"
+},
+{
+"t": "Grapes ripen with more sugar",
+"k": "text"
+},
+{
+"t": "Acidity falls more slowly as grapes ripen",
+"k": "text"
+},
+{
+"t": "Cool climates use more oak",
+"k": "text"
+},
+{
+"t": "Show the answer",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Acidity falls more slowly as grapes ripen",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} In cool climates grapes ripen slowly and keep more of their natural acidity.",
+"k": "text"
+},
+{
+"t": "{1}2{/1} What does malolactic conversion do to a wine?",
+"k": "text"
+},
+{
+"t": "Adds tannin",
+"k": "text"
+},
+{
+"t": "Makes it sparkling",
+"k": "text"
+},
+{
+"t": "Raises alcohol",
+"k": "text"
+},
+{
+"t": "Softens acidity and can add buttery notes",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Softens acidity and can add buttery notes",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Bacteria turn sharp malic acid into softer lactic acid; buttery aromas may appear.",
+"k": "text"
+},
+{
+"t": "{1}3{/1} Which method makes Champagne sparkling?",
+"k": "text"
+},
+{
+"t": "Traditional method: second fermentation in the bottle",
+"k": "text"
+},
+{
+"t": "Carbonation",
+"k": "text"
+},
+{
+"t": "Adding sugar after bottling only",
+"k": "text"
+},
+{
+"t": "Tank method",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Traditional method: second fermentation in the bottle",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} The second fermentation happens in the bottle, followed by ageing on the lees.",
+"k": "text"
+},
+{
+"t": "{1}4{/1} Sancerre is made mainly from which grape?",
+"k": "text"
+},
+{
+"t": "Chardonnay",
+"k": "text"
+},
+{
+"t": "Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "Riesling",
+"k": "text"
+},
+{
+"t": "Chenin Blanc",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Sauvignon Blanc",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Sancerre and Pouilly-Fumé in the Loire are classic Sauvignon Blanc.",
+"k": "text"
+},
+{
+"t": "{1}5{/1} What is a fortified wine?",
+"k": "text"
+},
+{
+"t": "A wine with added sugar",
+"k": "text"
+},
+{
+"t": "A wine aged in new oak",
+"k": "text"
+},
+{
+"t": "A wine with grape spirit added",
+"k": "text"
+},
+{
+"t": "A wine made from dried grapes",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A wine with grape spirit added",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Spirit is added during or after fermentation, as in Port and Sherry.",
+"k": "text"
+},
+{
+"t": "{1}6{/1} Barolo is made from which grape?",
+"k": "text"
+},
+{
+"t": "Barbera",
+"k": "text"
+},
+{
+"t": "Dolcetto",
+"k": "text"
+},
+{
+"t": "Sangiovese",
+"k": "text"
+},
+{
+"t": "Nebbiolo",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Nebbiolo",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Barolo and Barbaresco are 100% Nebbiolo: pale colour but high tannin and acidity.",
+"k": "text"
+},
+{
+"t": "{1}7{/1} Which region is famous for Malbec?",
+"k": "text"
+},
+{
+"t": "Mendoza",
+"k": "text"
+},
+{
+"t": "Barossa Valley",
+"k": "text"
+},
+{
+"t": "Marlborough",
+"k": "text"
+},
+{
+"t": "Rioja",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} Mendoza",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Mendoza, in Argentina, is the world reference for Malbec.",
+"k": "text"
+},
+{
+"t": "{1}8{/1} What does 'Reserva' on a Rioja label mainly indicate?",
+"k": "text"
+},
+{
+"t": "A sweeter style",
+"k": "text"
+},
+{
+"t": "A minimum period of ageing before release",
+"k": "text"
+},
+{
+"t": "Organic farming",
+"k": "text"
+},
+{
+"t": "Grapes from one vineyard",
+"k": "text"
+},
+{
+"t": "{1}Answer:{/1} A minimum period of ageing before release",
+"k": "text"
+},
+{
+"t": "{1}Why:{/1} Crianza, Reserva and Gran Reserva are categories based on minimum ageing.",
+"k": "text"
+},
+{
+"t": "Study notes: how to answer WSET Level 2 practice questions",
+"k": "text"
+},
+{
+"t": "WSET Level 2 practice questions reward one skill above all: linking a cause to its effect on the wine. The exam is 50 multiple-choice questions in 60 minutes with a 55% pass mark, so you have a little over a minute per question and no written answers or tasting to worry about. That makes the Level 2 exam very predictable once you understand how the questions are built and which facts come up again and again.",
+"k": "text"
+},
+{
+"t": "The five types of WSET 2 multiple-choice questions",
+"k": "text"
+},
+{
+"t": "Almost every WSET 2 exam question falls into one of five families. Recognising the family in the first few seconds tells you what kind of knowledge to retrieve, and stops you from overthinking.",
+"k": "text"
+},
+{
+"t": "Cause and effect: why does a cool climate give higher acidity, why does oak add vanilla, why does a warm region give riper fruit and more alcohol.",
+"k": "text"
+},
+{
+"t": "Grape and region: which grape makes Sancerre, Barolo, Rioja, Chablis or Marlborough's signature white.",
+"k": "text"
+},
+{
+"t": "Labelling terms: what Reserva, Kabinett, Brut, Classico, Crianza or Late Harvest tell you about a wine.",
+"k": "text"
+},
+{
+"t": "Style matching: which wine is most likely to be light, high in acidity and unoaked, or full-bodied with high tannin.",
+"k": "text"
+},
+{
+"t": "Service and food: serving temperatures, storage, and how sweetness, acidity, salt, umami and chilli heat change the way a wine tastes.",
+"k": "text"
+},
+{
+"t": "The cause-and-effect facts behind most WSET Level 2 answers",
+"k": "text"
+},
+{
+"t": "The WSET Level 2 syllabus is built around the idea that grape, climate and winemaking explain style. If you can explain the mechanism, you can answer questions about grapes or regions you have only half memorised, because the logic still points to the right option.",
+"k": "text"
+},
+{
+"t": "Climate and ripeness",
+"k": "text"
+},
+{
+"t": "Grapes in cool climates ripen slowly, so they keep more acidity and develop less sugar: the result is lighter body, lower alcohol and fresh fruit such as green apple, citrus or red cherry. In warm climates grapes accumulate more sugar and lose acidity faster, giving fuller body, higher alcohol and riper fruit such as tropical fruit, black fruit or jammy flavours. Sea breezes, altitude and fog are classic reasons why a warm region can still produce fresh wines.",
+"k": "text"
+},
+{
+"t": "Cause",
+"k": "text"
+},
+{
+"t": "Effect on the grape or wine",
+"k": "text"
+},
+{
+"t": "Typical exam wording",
+"k": "text"
+},
+{
+"t": "Cool climate",
+"k": "text"
+},
+{
+"t": "Higher acidity, lower sugar, lighter body",
+"k": "text"
+},
+{
+"t": "Fresh, green fruit, lower alcohol",
+"k": "text"
+},
+{
+"t": "Warm climate",
+"k": "text"
+},
+{
+"t": "More sugar, lower acidity, riper fruit",
+"k": "text"
+},
+{
+"t": "Full body, high alcohol, ripe or cooked fruit",
+"k": "text"
+},
+{
+"t": "Fermentation in new oak or ageing in oak",
+"k": "text"
+},
+{
+"t": "Vanilla, toast, smoke, cloves; softer texture",
+"k": "text"
+},
+{
+"t": "Oaked Chardonnay, Rioja Reserva",
+"k": "text"
+},
+{
+"t": "Malolactic conversion",
+"k": "text"
+},
+{
+"t": "Sharp malic acid becomes softer lactic acid",
+"k": "text"
+},
+{
+"t": "Softer acidity, buttery notes",
+"k": "text"
+},
+{
+"t": "Lees contact",
+"k": "text"
+},
+{
+"t": "Bread, biscuit or yeasty notes and a creamier texture",
+"k": "text"
+},
+{
+"t": "Muscadet sur lie, traditional-method sparkling",
+"k": "text"
+},
+{
+"t": "Cool fermentation in stainless steel",
+"k": "text"
+},
+{
+"t": "Preserves fresh, fruity aromas",
+"k": "text"
+},
+{
+"t": "Aromatic, unoaked whites",
+"k": "text"
+},
+{
+"t": "Longer skin contact for reds",
+"k": "text"
+},
+{
+"t": "More colour and tannin",
+"k": "text"
+},
+{
+"t": "Deep, structured reds",
+"k": "text"
+},
+{
+"t": "Common mistake: confusing malolactic conversion with oak. Malolactic softens acidity and can add butter; oak adds vanilla, toast and spice. A wine can have one, both or neither, and exam options love to swap them.",
+"k": "text"
+},
+{
+"t": "Grape varieties and regions that appear in WSET 2 exam questions",
+"k": "text"
+},
+{
+"t": "WSET Level 2 grape questions focus on the principal international varieties and the regions where they show their classic style, plus a set of regionally important grapes. Learn each grape with three things: its typical aromas, its structure (acidity, tannin, body) and two or three key regions.",
+"k": "text"
+},
+{
+"t": "Grape",
+"k": "text"
+},
+{
+"t": "Classic style",
+"k": "text"
+},
+{
+"t": "Regions to know",
+"k": "text"
+},
+{
+"t": "From lean and citrusy to rich, oaked and buttery",
+"k": "text"
+},
+{
+"t": "Chablis, Côte de Beaune, California, Australia",
+"k": "text"
+},
+{
+"t": "High acidity, green and herbaceous to tropical",
+"k": "text"
+},
+{
+"t": "Sancerre, Pouilly-Fumé, Marlborough",
+"k": "text"
+},
+{
+"t": "Very high acidity, floral and citrus, dry to sweet",
+"k": "text"
+},
+{
+"t": "Mosel, Alsace, Clare and Eden Valley",
+"k": "text"
+},
+{
+"t": "Pinot Noir",
+"k": "text"
+},
+{
+"t": "Light colour, low to medium tannin, red fruit",
+"k": "text"
+},
+{
+"t": "Burgundy, Central Otago, Oregon",
+"k": "text"
+},
+{
+"t": "Cabernet Sauvignon",
+"k": "text"
+},
+{
+"t": "Deep colour, high tannin, blackcurrant",
+"k": "text"
+},
+{
+"t": "Bordeaux Left Bank, Napa Valley, Coonawarra",
+"k": "text"
+},
+{
+"t": "Merlot",
+"k": "text"
+},
+{
+"t": "Softer tannin, plum and black fruit",
+"k": "text"
+},
+{
+"t": "Bordeaux Right Bank, Chile",
+"k": "text"
+},
+{
+"t": "Syrah / Shiraz",
+"k": "text"
+},
+{
+"t": "Black fruit and pepper; riper and fuller in Australia",
+"k": "text"
+},
+{
+"t": "Northern Rhône, Barossa Valley",
+"k": "text"
+},
+{
+"t": "Pale colour but high acidity and tannin",
+"k": "text"
+},
+{
+"t": "Barolo, Barbaresco",
+"k": "text"
+},
+{
+"t": "Tempranillo",
+"k": "text"
+},
+{
+"t": "Red fruit, often oaked, ages well",
+"k": "text"
+},
+{
+"t": "Rioja, Ribera del Duero",
+"k": "text"
+},
+{
+"t": "Malbec",
+"k": "text"
+},
+{
+"t": "Deep colour, ripe black fruit",
+"k": "text"
+},
+{
+"t": "Mendoza, Cahors",
+"k": "text"
+},
+{
+"t": "Questions often test one detail that makes the grape unique. Nebbiolo is the classic example: a pale-looking wine that is nevertheless high in tannin and acidity. Riesling is another: it is almost never oaked in a way that shows, and its high acidity lets it balance sweetness in German Spätlese or Auslese wines.",
+"k": "text"
+},
+{
+"t": "Labelling terms, sparkling and fortified wines: the recurring traps",
+"k": "text"
+},
+{
+"t": "Labelling questions are easy marks if you learn the terms in groups. Spanish terms such as Crianza, Reserva and Gran Reserva indicate increasing minimum ageing. German Prädikat terms (Kabinett, Spätlese, Auslese and the sweeter levels) are based on the ripeness of the grapes at harvest, not on a fixed sweetness. Classico in Italy indicates the original, historic heart of a region, such as Chianti Classico or Soave Classico.",
+"k": "text"
+},
+{
+"t": "Sparkling wine methods",
+"k": "text"
+},
+{
+"t": "The traditional method creates bubbles through a second fermentation in the bottle, followed by ageing on the lees, which adds bread and biscuit notes: Champagne and Cava use it. The tank method carries out the second fermentation in a sealed tank and keeps fresh, fruity aromas: Prosecco from the Glera grape is the typical example. Sweetness terms such as Brut (dry) and Demi-Sec (medium-sweet) are frequent distractors.",
+"k": "text"
+},
+{
+"t": "Fortified wines",
+"k": "text"
+},
+{
+"t": "Port is fortified during fermentation, which stops the yeast and leaves natural sweetness. Sherry is usually fortified after fermentation, when the wine is already dry: Fino is aged under a layer of yeast called flor, which protects it from oxygen, while Oloroso is aged without flor and develops nutty, oxidative flavours. Sweet Sherries are generally sweetened after ageing.",
+"k": "text"
+},
+{
+"t": "Exam technique: when two options both look correct, ask which one answers the exact question. If it asks why, choose the option that names a mechanism (slower ripening, skin contact, flor), not one that simply describes a flavour.",
+"k": "text"
+},
+{
+"t": "A step-by-step method for each WSET Level 2 question",
+"k": "text"
+},
+{
+"t": "Read the question stem twice and underline the key word: why, which, most likely, not.",
+"k": "text"
+},
+{
+"t": "Decide the family: cause and effect, grape and region, label term, style or food.",
+"k": "text"
+},
+{
+"t": "Predict the answer before reading the options.",
+"k": "text"
+},
+{
+"t": "Eliminate options that pair a real grape with the wrong region or a real technique with the wrong effect.",
+"k": "text"
+},
+{
+"t": "Choose, mark any doubtful question and move on; come back at the end with the time left.",
+"k": "text"
+},
+{
+"t": "Never leave a blank: there is no penalty for a wrong answer, so always pick the most likely option.",
+"k": "text"
+},
+{
+"t": "How to revise WSET 2 practice questions in 15 minutes a day",
+"k": "text"
+},
+{
+"t": "Short daily sessions work better than long weekend cramming because multiple-choice recall depends on repetition. A simple 15-minute routine is enough for most candidates in the last weeks before the exam.",
+"k": "text"
+},
+{
+"t": "Minutes 1–5: ten mixed questions, timed, without notes.",
+"k": "text"
+},
+{
+"t": "Minutes 6–10: review every wrong answer and write the cause-and-effect sentence that explains it.",
+"k": "text"
+},
+{
+"t": "Minutes 11–15: flashcards on one grape and its regions, or one group of labelling terms.",
+"k": "text"
+},
+{
+"t": "Once a week: a full 50-question mock in 60 minutes to check your pace.",
+"k": "text"
+},
+{
+"t": "In the final week: focus only on the topics where your score is lowest.",
+"k": "text"
+},
+{
+"t": "The app follows this rhythm automatically: it serves short mixed quizzes and brings back the questions you got wrong until you answer them confidently.",
+"k": "text"
+},
+{
+"t": "More WSET Level 2 practice questions, answered in full",
+"k": "text"
+},
+{
+"t": "These extra practice questions are written in our own words and cover the topics that complete the syllabus. Try to answer each one before reading the explanation, and say the reason aloud: if you can explain it, you will recognise the right option in the exam.",
+"k": "text"
+},
+{
+"t": "Climate and the vineyard",
+"k": "text"
+},
+{
+"t": "Question: how does a sea breeze affect a vineyard in a warm region? Answer: it lowers temperatures, especially in the afternoon, so grapes ripen more slowly and keep more acidity. The wine is fresher than the latitude alone would suggest.",
+"k": "text"
+},
+{
+"t": "Question: why is a south-facing slope valuable in a cool northern hemisphere region? Answer: it receives the sun at a more direct angle, so the vines get more heat and light and the grapes ripen more fully than on flat land nearby.",
+"k": "text"
+},
+{
+"t": "Winemaking",
+"k": "text"
+},
+{
+"t": "Question: why is a white wine usually fermented at a lower temperature than a red? Answer: cool fermentation preserves delicate fruity and floral aromas. Red wines ferment warmer to extract colour and tannin from the skins.",
+"k": "text"
+},
+{
+"t": "Question: how is a rosé wine usually made? Answer: black grapes are crushed and the juice is left in contact with the skins for a short time, typically hours, then drained off and fermented like a white wine. The short contact gives a pink colour and very little tannin.",
+"k": "text"
+},
+{
+"t": "Sparkling, sweet and fortified wines",
+"k": "text"
+},
+{
+"t": "Question: what does Brut on a sparkling wine label tell you? Answer: it indicates a dry style, the most common sweetness level for Champagne and Cava. Demi-Sec indicates a medium-sweet wine.",
+"k": "text"
+},
+{
+"t": "Question: what makes Fino Sherry pale and fresh while Oloroso is dark and nutty? Answer: Fino ages under a layer of flor yeast that protects it from oxygen, so it stays pale with bready, salty notes. Oloroso is fortified to a strength at which flor cannot live, so it ages in contact with oxygen and develops a brown colour and nutty flavours.",
+"k": "text"
+},
+{
+"t": "Regions and labels",
+"k": "text"
+},
+{
+"t": "Question: which grape is the main variety of Chianti? Answer: Sangiovese, which gives high acidity, medium to high tannin, red cherry fruit and often a herbal note. Classico on the label indicates the original historic zone.",
+"k": "text"
+},
+{
+"t": "Question: what does Kabinett on a German label tell you? Answer: that the grapes reached the lowest ripeness level of the Prädikat categories. The wine is usually light and delicate, and it can be dry, off-dry or sweet.",
+"k": "text"
+},
+{
+"t": "Food and wine: the rules behind the questions",
+"k": "text"
+},
+{
+"t": "Food and wine questions at Level 2 test a short set of interactions. Learn the table below and you can answer them with logic rather than memory.",
+"k": "text"
+},
+{
+"t": "Food component",
+"k": "text"
+},
+{
+"t": "Effect on the wine",
+"k": "text"
+},
+{
+"t": "Practical consequence",
+"k": "text"
+},
+{
+"t": "Sweetness",
+"k": "text"
+},
+{
+"t": "Wine tastes drier, more acidic, more bitter",
+"k": "text"
+},
+{
+"t": "Choose a wine at least as sweet as the food",
+"k": "text"
+},
+{
+"t": "Umami",
+"k": "text"
+},
+{
+"t": "Wine tastes more bitter, astringent and acidic, less fruity",
+"k": "text"
+},
+{
+"t": "Avoid very tannic reds with umami-rich dishes",
+"k": "text"
+},
+{
+"t": "Acidity",
+"k": "text"
+},
+{
+"t": "Wine tastes less acidic, fuller and fruitier",
+"k": "text"
+},
+{
+"t": "Acidic food flatters high-acid wines",
+"k": "text"
+},
+{
+"t": "Salt",
+"k": "text"
+},
+{
+"t": "Wine tastes less bitter and acidic, fuller",
+"k": "text"
+},
+{
+"t": "Salty food is a friendly partner for many wines",
+"k": "text"
+},
+{
+"t": "Chilli heat",
+"k": "text"
+},
+{
+"t": "Alcohol burns more; bitterness and acidity increase",
+"k": "text"
+},
+{
+"t": "Prefer lower alcohol, low tannin, a touch of sweetness",
+"k": "text"
+},
+{
+"t": "Fat and oil",
+"k": "text"
+},
+{
+"t": "A high-acid wine feels refreshing",
+"k": "text"
+},
+{
+"t": "Acidity cuts through rich food",
+"k": "text"
+},
+{
+"t": "Common mistake: thinking salt and acid in food are problems for wine. They are the two components that make most wines taste better; sweetness, umami and chilli heat are the difficult ones.",
+"k": "text"
+},
+{
+"t": "Keep a mistake log",
+"k": "text"
+},
+{
+"t": "The quickest way to raise your score is to stop making the same mistake twice. After each practice session, write every wrong answer in a short log with three columns: the topic, the wrong option you chose and the rule that gives the right answer. Once a week, read the log and look for patterns.",
+"k": "text"
+},
+{
+"t": "If most mistakes are on one topic, that topic gets your next three sessions.",
+"k": "text"
+},
+{
+"t": "If most mistakes are on questions you knew, the problem is reading: slow down on the stem.",
+"k": "text"
+},
+{
+"t": "If you keep confusing two terms, write them side by side on a single card.",
+"k": "text"
+},
+{
+"t": "Retest each logged question a few days later; remove it only when you answer it confidently.",
+"k": "text"
+},
+{
+"t": "How to read your practice scores",
+"k": "text"
+},
+{
+"t": "The real exam requires 55% to pass, 70% for a merit and 85% for a distinction. Practice scores fluctuate, so look at the trend over your last three timed tests rather than a single result. If your average is under 55%, return to the cause-and-effect basics; between 55% and 70%, target your weakest topics; above 70%, polish label terms and reading technique.",
+"k": "text"
+},
+{
+"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "Thousands of questions, a plan up to your exam",
+"k": "text"
+},
+{
+"t": "The Wine Goat gives you daily quizzes, flashcards, maps and mock exams, and brings back your mistakes until you master them.",
+"k": "text"
+},
+{
+"t": "{1}Start free – build my plan{/1}{2}Take the free level test{/2}",
+"k": "text"
+},
+{
+"t": "Frequently asked questions",
+"k": "text"
+},
+{
+"t": "How many questions are in the WSET Level 2 exam?",
+"k": "text"
+},
+{
+"t": "The Level 2 exam has 50 multiple-choice questions to answer in one hour.",
+"k": "text"
+},
+{
+"t": "What is the pass mark for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "You need 55% to pass. Higher results give a Pass with Merit or Distinction.",
+"k": "text"
+},
+{
+"t": "How long should I study for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "Beyond the course, a few weeks of regular short sessions are usually enough; daily quizzes help you retain grapes and regions.",
+"k": "text"
+},
+{
+"t": "What topics come up most in WSET Level 2 exam questions?",
+"k": "text"
+},
+{
+"t": "The most frequent topics are the effect of climate on ripeness, winemaking choices such as oak, malolactic conversion and lees contact, the principal grape varieties with their classic regions, labelling terms like Reserva or Kabinett, sparkling and fortified wine production, and food and wine pairing principles. Most questions ask you to connect a cause with a style rather than simply recall a name.",
+"k": "text"
+},
+{
+"t": "Is there negative marking in the WSET Level 2 exam?",
+"k": "text"
+},
+{
+"t": "No. A wrong answer simply scores nothing, so you should answer every one of the 50 questions. If you are unsure, eliminate the options you know are wrong and choose the most likely of the remaining ones. Mark doubtful questions and return to them if you have time left at the end of the hour.",
+"k": "text"
+},
+{
+"t": "How many practice questions should I do before the WSET 2 exam?",
+"k": "text"
+},
+{
+"t": "There is no magic number, but candidates who pass comfortably usually work through several hundred practice questions and at least two or three full timed mocks. What matters more than volume is reviewing every mistake and understanding why the correct option is right, so the same trap does not catch you twice.",
+"k": "text"
+},
+{
+"t": "Are WSET Level 2 questions mostly about memorising regions?",
+"k": "text"
+},
+{
+"t": "Not only. Regions and grapes matter, but a large share of questions tests understanding: why a cool climate keeps acidity, what flor does to Fino Sherry, why the traditional method gives biscuit notes. If you learn the reasoning, you can often find the right answer even for a region you have not fully memorised.",
+"k": "text"
+},
+{
+"t": "Do I need to know food and wine pairing for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "Yes. Expect a few questions on how food changes the perception of wine: sweetness and umami in food make wine taste drier, more bitter and more acidic, while salt and acidity in food make wine taste softer and fruitier. Chilli heat increases the burning sensation of alcohol and the perception of bitterness.",
+"k": "text"
+},
+{
+"t": "How should I practise food and wine pairing questions for WSET Level 2?",
+"k": "text"
+},
+{
+"t": "Learn the effect of each food component on wine: sweetness and umami make wine taste harder and more bitter, while salt and acidity make it taste softer and fuller. Chilli heat increases the burning effect of alcohol. Then practise questions that describe a dish and ask which wine suits it, explaining your choice with these rules.",
+"k": "text"
+},
+{
+"t": "What is a mistake log and does it really help?",
+"k": "text"
+},
+{
+"t": "A mistake log is a simple list of the questions you answered wrongly, with the topic and the rule that gives the right answer. It helps because it shows patterns, such as a weak topic or careless reading, and because rereading your own corrections is a fast form of revision. Retest each logged question a few days later.",
+"k": "text"
+},
+{
+"t": "Are the practice questions on this page the real exam questions?",
+"k": "text"
+},
+{
+"t": "No. They are written in our own words to match the topics and style of the WSET Level 2 syllabus, and they are not official exam questions. Their purpose is to train the reasoning you need: linking climate and winemaking to wine style, grapes to regions and label terms to their meaning.",
+"k": "text"
+},
+{
+"t": "How do I know if I am ready for the WSET Level 2 exam?",
+"k": "text"
+},
+{
+"t": "A good sign is scoring 70% or more in three timed 50-question tests in a row, completed within 60 minutes. You should also be able to explain, in one sentence, the main methods for sparkling, sweet and fortified wines and the key label terms of France, Italy, Spain and Germany.",
+"k": "text"
+},
+{
+"t": "Which wine styles are the hardest topics in WSET Level 2 practice questions?",
+"k": "text"
+},
+{
+"t": "Many candidates find sparkling, sweet and fortified wines tricky because the methods sound similar. Separate them by mechanism: where the second fermentation happens for sparkling wine, how sugar is concentrated or kept for sweet wine, and when spirit is added for fortified wine. Once the mechanism is clear, the options become easy to sort.",
+"k": "text"
+},
+{
+"t": "More WSET 3 resources",
+"k": "text"
+},
+{
+"t": "{1}The WSET Level 3 exam, explained part by part{/1}",
+"k": "text"
+},
+{
+"t": "{1}The grape varieties to know for WSET Level 3{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 or Level 3: what really changes{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 practice questions, with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET levels explained: from Level 1 to the Diploma{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Diploma (Level 4), explained{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET or Court of Master Sommeliers: which certification is right for you?{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 1 study guide: everything in one page{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 2 grapes and regions: the cheat sheet{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 2 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Diploma study tips: theory, D3 and tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}Is WSET worth it?{/1}",
+"k": "text"
+},
+{
+"t": "{1}How to pass WSET Level 3 first time{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 practice questions with answers{/1}",
+"k": "text"
+},
+{
+"t": "{1}Free WSET Level 3 mock exam{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 short answer questions{/1}",
+"k": "text"
+},
+{
+"t": "{1}The WSET Systematic Approach to Tasting{/1}",
+"k": "text"
+},
+{
+"t": "{1}WSET Level 3 flashcards{/1}",
+"k": "text"
+},
+{
+"t": "Home",
+"k": "ld",
+"n": "structured data (FAQ, headline, breadcrumb): same wording as the visible text"
+}
+]
+}

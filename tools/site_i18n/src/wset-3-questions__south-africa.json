@@ -3,9 +3,9 @@
 "source": "wset-3-questions/south-africa/index.html",
 "url": "/wset-3-questions/south-africa/",
 "region": "main",
-"sha": "c3cf19a1930f",
-"words": 3479,
-"segment_words": 3753,
+"sha": "2ff17ae0bd49",
+"words": 3523,
+"segment_words": 3847,
 "segments": [
 {
 "t": "WSET 3 South Africa – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on South Africa, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 47 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 South Africa: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 South Africa: practice questions with answers | WSET 3 South Africa",
@@ -354,6 +359,15 @@
 "k": "text"
 },
 {
+"t": "Small green grape bunch among sunlit vine leaves against a blue sky in Calitzdorp",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A small bunch of green grapes among vine leaves at Calitzdorp, South Africa.{/1}",
+"k": "text"
+},
+{
 "t": "White grapes",
 "k": "text"
 },
@@ -375,6 +389,15 @@
 },
 {
 "t": "South Africa wine regions for WSET Level 3",
+"k": "text"
+},
+{
+"t": "Green vineyard rows below jagged mountain peaks in Drakenstein, Western Cape",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A vineyard below the mountains at Drakenstein in South Africa's Western Cape.{/1}",
 "k": "text"
 },
 {
@@ -407,6 +430,15 @@
 },
 {
 "t": "South Africa produces wine at every price level. Large cooperatives and producer-wholesalers make high-volume wines from irrigated inland vineyards, and a significant share of exports is shipped in bulk and bottled in the destination market. At the premium level, estates in Stellenbosch, Constantia, Elgin and Walker Bay use techniques found in any quality region: careful site selection, hand-harvesting, temperature-controlled fermentation and maturation in French oak. Traditional-method sparkling wines are labelled Cap Classique. Cape blends, which combine Pinotage with international varieties, give the country a point of difference on export markets.",
+"k": "text"
+},
+{
+"t": "White Cape Dutch gabled manor house of Groot Constantia",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The manor house of Groot Constantia near Cape Town; the estate goes back to a land grant of 1685.{/1}",
 "k": "text"
 },
 {
@@ -570,7 +602,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/bordeaux/index.html",
 "url": "/wset-3-questions/bordeaux/",
 "region": "main",
-"sha": "d329336df73d",
-"words": 3396,
-"segment_words": 3608,
+"sha": "c2ac4f44fd4d",
+"words": 3410,
+"segment_words": 3651,
 "segments": [
 {
 "t": "WSET 3 Bordeaux – practice questions & answers | The Wine Goat",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Bordeaux, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 78 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Bordeaux: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Bordeaux: practice questions with answers | WSET 3 Bordeaux",
@@ -350,6 +355,15 @@
 "k": "text"
 },
 {
+"t": "Café terraces on the main square of Saint-Émilion seen from above, among stone houses",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The main square of Saint-Émilion, in the Bordeaux region, seen from the monolithic church.{/1}",
+"k": "text"
+},
+{
 "t": "Haut-Médoc communes: Saint-Estèphe (more clay, firm and robust), Pauillac (deep gravel, powerful Cabernet Sauvignon), Saint-Julien (balanced, elegant), Margaux (thinner gravel, perfumed and fragrant).",
 "k": "text"
 },
@@ -618,7 +632,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

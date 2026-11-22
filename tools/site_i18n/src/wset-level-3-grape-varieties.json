@@ -3,9 +3,9 @@
 "source": "wset-level-3-grape-varieties/index.html",
 "url": "/wset-level-3-grape-varieties/",
 "region": "main",
-"sha": "04ac9134c2ba",
-"words": 3886,
-"segment_words": 3928,
+"sha": "9381e3f0bc42",
+"words": 3913,
+"segment_words": 3996,
 "segments": [
 {
 "t": "WSET Level 3 grape varieties: the key grapes, regions and styles",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "The grape varieties to know for WSET Level 3 (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The grape varieties to know for WSET Level 3 | WSET Level 3 grape varieties",
@@ -318,6 +323,15 @@
 "k": "text"
 },
 {
+"t": "Close-up of a ripe Sauvignon Blanc cluster with green-gold berries in sunlight",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Sauvignon Blanc grapes on the vine in the Vlasotince vineyards, south-east Serbia.{/1}",
+"k": "text"
+},
+{
 "t": "Chardonnay is early budding, so spring frost is a real risk in cool regions such as Chablis. It is relatively neutral in aroma, which is why it reflects both climate and winemaking so clearly. In cool climates it shows green apple, citrus and high acidity; in moderate climates, stone fruit and melon; in warm climates, tropical fruit with lower acidity. Winemakers can shape it with malolactic conversion for creamy, buttery notes, lees contact for texture and oak for vanilla and toast. It is also a key grape in traditional method sparkling wines, including Blanc de Blancs Champagne.",
 "k": "text"
 },
@@ -343,6 +357,15 @@
 },
 {
 "t": "The main black varieties in depth",
+"k": "text"
+},
+{
+"t": "Dark blue grape bunch hanging from a twisted vine among yellow autumn leaves",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Black grapes owe their colour to pigments in the skin, extracted during red wine fermentation.{/1}",
 "k": "text"
 },
 {
@@ -890,7 +913,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

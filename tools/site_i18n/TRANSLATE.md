@@ -52,3 +52,36 @@ python3 tools/site_i18n/linkcheck.py               # whole site: no 404, hreflan
 Re-run `build.py` (no arguments) after `tools/seo2/build.py` / `expand.py`, which rewrite the en/it/fr/es guides with 4 languages only.
 If an English page changes, re-run `extract.py`: older translations keep building (the previous source is kept in `src/_old/`),
 but new English text stays in English until the file is updated against the new `src/<group>.json` (the build reports it).
+
+## Languages added later: sv da no fi ro hu is cs sk hr sl (tools/site_i18n/newlangs.py)
+Folders `/sv/ /da/ /no/ /fi/ /ro/ /hu/ /is/ /cs/ /sk/ /hr/ /sl/`. Norwegian is Bokmål in `/no/`: `<html lang="nb">`, listed in
+every hreflang cluster as both `nb` and `no` (same URL). Register and neutral wording per language: `LANG_NOTES.json`.
+Localised slugs of all 68 pages already exist in the three slug files: never edit `slugs.json` for these languages.
+
+**Everything is a group file** `tools/site_i18n/<lang>/<group>.json` (format above), one writer per file, nothing shared:
+
+| group | what | words |
+|---|---|---|
+| `_home` | the home `/<lang>/` (built from the English home) | ~1,900 |
+| `_images` | goat illustration alt/title texts | ~770 |
+| `_core` | the 8 core pages (prep hub, wine, mock exams, practice, flashcards, planner, how it works, FAQ): all-or-nothing | ~26,300 |
+| `_spirits` | the 8 spirits pages: all-or-nothing | ~28,900 |
+| `_photos` | photo alt + caption (a photo appears on a page of the language only once translated) | ~6,200 |
+| one per guide | the 52 guides (`src/_counts.json`, `batches.json`) | 2,500–4,100 each |
+
+**Publishing rules (enforced by build.py)**: a page of these languages is written only when every segment of the current
+English page has its translation (no mixed pages: `= <lang>/<group>: not published, N segment(s) …`); a file with more than
+3% of long segments identical to English, or with "official" wording, is refused (`✗`). The home must exist before any
+other page of the language (`_home` first, then `_images`, then the rest in any order). hreflang, language switchers,
+sitemaps (`sitemap-<lang>.xml`) and llms.txt only list pages that exist.
+
+**Commands** (repo root; one translator = one language × one or more groups; do not run other languages):
+```
+python3 tools/site_i18n/build.py sv --check                    # validate every sv file: "N page(s) ready", no ✗ (asset groups: "ok")
+python3 tools/site_i18n/build.py sv --check --group wset-level-2
+python3 tools/site_i18n/build.py sv                            # publish sv (home + guides + core/spirits when complete) and sync the site
+bash tools/seo_tech/check_site.sh                              # must print ALL CHECKS PASSED before any push
+```
+Optional per-language translation memory (strings repeated across pages translated once): `tools/site_i18n/tm/tm.py`
+(`next / add / emit / stat`); `emit` writes the group files above. Romanian has a started memory in `tm/ro.json`.
+The home quiz shows English questions for these languages (its interface is translated in `assets/homequiz.js`).

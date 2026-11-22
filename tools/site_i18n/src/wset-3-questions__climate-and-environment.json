@@ -3,9 +3,9 @@
 "source": "wset-3-questions/climate-and-environment/index.html",
 "url": "/wset-3-questions/climate-and-environment/",
 "region": "main",
-"sha": "62ab22b6c933",
-"words": 3492,
-"segment_words": 3767,
+"sha": "982f9ac44f40",
+"words": 3540,
+"segment_words": 3871,
 "segments": [
 {
 "t": "WSET 3 Climate and environment – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Climate and environment, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 94 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Climate and environment: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Climate and environment: practice questions with answers | WSET 3 Climate and environment",
@@ -370,6 +375,15 @@
 "k": "text"
 },
 {
+"t": "Curving vine rows on a hillside near Tscherms, with the valley and Alpine peaks beyond",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vine rows on a slope near Tscherms in South Tyrol, Italy, above the valley and below Alpine peaks.{/1}",
+"k": "text"
+},
+{
 "t": "Latitude: most vineyards lie between 30° and 50° north and south; closer to the Equator, the sun is stronger and the climate hotter.",
 "k": "text"
 },
@@ -403,6 +417,15 @@
 },
 {
 "t": "Water, soils and natural hazards",
+"k": "text"
+},
+{
+"t": "Frost-whitened vine rows on wire trellises stretching towards misty hills near Lerés",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Winter frost does little harm to dormant vines; spring frosts after budburst are the real danger.{/1}",
 "k": "text"
 },
 {
@@ -511,6 +534,15 @@
 },
 {
 "t": "Learning one clear example for each influence makes it easy to answer both multiple-choice and written questions. This table links the influence to a region and to the style it explains.",
+"k": "text"
+},
+{
+"t": "Lavaux vineyard terraces and a lakeside village above Lake Geneva at dusk",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The terraced vineyards of Lavaux above Lake Geneva, in the Swiss canton of Vaud.{/1}",
 "k": "text"
 },
 {
@@ -766,7 +798,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

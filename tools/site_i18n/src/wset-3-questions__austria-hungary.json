@@ -3,9 +3,9 @@
 "source": "wset-3-questions/austria-hungary/index.html",
 "url": "/wset-3-questions/austria-hungary/",
 "region": "main",
-"sha": "7eca16139fde",
-"words": 3433,
-"segment_words": 3713,
+"sha": "c976166eb47f",
+"words": 3471,
+"segment_words": 3800,
 "segments": [
 {
 "t": "WSET 3 Austria and Hungary – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Austria and Hungary, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 57 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Austria and Hungary: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Austria and Hungary: practice questions with answers | WSET 3 Austria and Hungary",
@@ -254,6 +259,15 @@
 "k": "text"
 },
 {
+"t": "Terraced autumn vineyards above the Danube valley near Spitz, Wachau",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Autumn vineyards above the Danube at Spitz, in Austria's Wachau valley.{/1}",
+"k": "text"
+},
+{
 "t": "Niederösterreich: Wachau, Kamptal, Kremstal, Weinviertel",
 "k": "text"
 },
@@ -359,6 +373,15 @@
 },
 {
 "t": "Tokaj is in north-east Hungary, where vineyards on volcanic hills meet the Bodrog and Tisza rivers. In autumn the rivers create morning mists that encourage noble rot, while warm, dry afternoons concentrate the shrivelled berries. The climate is continental, with long, dry autumns that allow late picking.",
+"k": "text"
+},
+{
+"t": "Country road between green vineyards and trees near Tokaj",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A vineyard near Tokaj, Hungary.{/1}",
 "k": "text"
 },
 {
@@ -550,6 +573,15 @@
 "k": "text"
 },
 {
+"t": "Vine terraces climbing a very steep hillside above lower vineyards in the Wachau",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Singerriedl vineyard at Spitz in the Wachau: Grüner Veltliner grows at the foot of the slope, Riesling on the steep terraces.{/1}",
+"k": "text"
+},
+{
 "t": "Grape",
 "k": "text"
 },
@@ -738,7 +770,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

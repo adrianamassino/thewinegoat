@@ -3,9 +3,9 @@
 "source": "wset-level-1-practice-questions/index.html",
 "url": "/wset-level-1-practice-questions/",
 "region": "main",
-"sha": "160496e3dfc8",
+"sha": "8bf91fff5f69",
 "words": 3363,
-"segment_words": 3384,
+"segment_words": 3398,
 "segments": [
 {
 "t": "WSET Level 1 practice questions with answers (free)",
@@ -47,6 +47,11 @@
 {
 "t": "{1}Updated 2026-11-15 · The Wine Goat{/1}",
 "k": "text"
+},
+{
+"t": "WSET Level 1 practice questions, with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The WSET Level 1 Award in Wines is a short introductory course closed by a multiple-choice exam. The questions check that you understand the basics: how wine is made, the main styles, how to store and serve wine and how to pair it with food.",
@@ -773,7 +778,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

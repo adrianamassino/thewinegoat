@@ -3,9 +3,9 @@
 "source": "wset-level-2/index.html",
 "url": "/wset-level-2/",
 "region": "main",
-"sha": "148f7bbf680d",
-"words": 3572,
-"segment_words": 3660,
+"sha": "e56ef250a304",
+"words": 3601,
+"segment_words": 3744,
 "segments": [
 {
 "t": "WSET Level 2 Award in Wines: exam format, syllabus, grapes",
@@ -51,6 +51,11 @@
 {
 "t": "The most popular wine qualification in the world. Level 2 takes you through the grape varieties and regions behind the wines you see on shelves and wine lists, how labels work and how to pair wine with food. The exam is 50 multiple-choice questions: very passable with a structured plan.",
 "k": "text"
+},
+{
+"t": "WSET Level 2 Award in Wines: the complete guide (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "The complete WSET Level 2 Award in Wines guide: 50 multiple-choice questions in 60 minutes, the 55% pass mark, 30 grapes, 70+ regions and how to study",
@@ -138,6 +143,15 @@
 },
 {
 "t": "Grape varieties to know",
+"k": "text"
+},
+{
+"t": "Ripe pale-green grape cluster hanging from a vine in soft light",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Ripe white grapes on the vine.{/1}",
 "k": "text"
 },
 {
@@ -385,7 +399,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat in a burgundy scarf perched on a wine barrel, raising a glass of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },
@@ -718,6 +732,15 @@
 "k": "text"
 },
 {
+"t": "Dark blue grape bunch hanging from a twisted vine among yellow autumn leaves",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Black grapes owe their colour to pigments in the skin, extracted during red wine fermentation.{/1}",
+"k": "text"
+},
+{
 "t": "Grape",
 "k": "text"
 },
@@ -803,6 +826,15 @@
 },
 {
 "t": "These three families make up a smaller part of the course but they produce some of the most predictable questions, because each style depends on one clear technique.",
+"k": "text"
+},
+{
+"t": "Vineyards in the foreground and a vine-covered hill near Aÿ in Champagne",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Vineyards near Aÿ in the Marne department, Champagne.{/1}",
 "k": "text"
 },
 {

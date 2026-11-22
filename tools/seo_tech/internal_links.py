@@ -187,6 +187,10 @@ T = {  # heading, then the categories in CATS order
 SCHOOL_LABEL = {'en': 'For schools', 'it': 'Per le scuole', 'fr': 'Pour les écoles', 'es': 'Para escuelas', 'es-ar': 'Para escuelas', 'de': 'Für Weinschulen',
                 'nl': 'Voor wijnscholen', 'pl': 'Dla szkół', 'pt': 'Para escolas', 'pt-br': 'Para escolas', 'ru': 'Для школ', 'el': 'Για σχολές', 'ja': 'スクール向け',
                 'ko': '교육기관용', 'zh-hans': '面向学校', 'zh-hant': '學校專區', 'ar': 'للمدارس', 'th': 'สำหรับโรงเรียน', 'tr': 'Okullar için'}
+
+# the 11 languages added later (tools/site_i18n/newlangs.py)
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '../site_i18n')); import newlangs as NL
+NL.merge(T, NL.GUIDEDIR); NL.merge(SCHOOL_LABEL, NL.SCHOOL_LABEL)
 D0, D1 = '<!--guidedir-->', '<!--/guidedir-->'
 C0, C1 = '<!--guidedir-css-->', '<!--/guidedir-css-->'
 CSS = (C0 + '<style>.gdir{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(250px,100%),1fr));gap:14px;margin:16px 0 0}'

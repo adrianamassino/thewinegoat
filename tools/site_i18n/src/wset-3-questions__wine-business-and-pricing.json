@@ -3,9 +3,9 @@
 "source": "wset-3-questions/wine-business-and-pricing/index.html",
 "url": "/wset-3-questions/wine-business-and-pricing/",
 "region": "main",
-"sha": "2fff8bef983a",
+"sha": "5c1a26350d30",
 "words": 3272,
-"segment_words": 3572,
+"segment_words": 3591,
 "segments": [
 {
 "t": "WSET 3 Wine pricing and the trade – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Wine pricing and the trade, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 41 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Wine pricing and the trade: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Wine pricing and the trade: practice questions with answers | WSET 3 Wine pricing and the trade",
@@ -590,7 +595,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -3,9 +3,9 @@
 "source": "wset-3-questions/storage-and-service/index.html",
 "url": "/wset-3-questions/storage-and-service/",
 "region": "main",
-"sha": "4fb300c92427",
-"words": 3410,
-"segment_words": 3674,
+"sha": "0077e2ae6123",
+"words": 3436,
+"segment_words": 3743,
 "segments": [
 {
 "t": "WSET 3 Storage and service – practice questions & answers",
@@ -51,6 +51,11 @@
 {
 "t": "These questions come from The Wine Goat question bank on Storage and service, written to the WSET Level 3 Award in Wines syllabus. Answer them, read the explanation, then practise the full set of 49 questions in the app, where your mistakes come back until you know them.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 Storage and service: practice questions with answers (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 Storage and service: practice questions with answers | WSET 3 Storage and service",
@@ -378,6 +383,15 @@
 "k": "text"
 },
 {
+"t": "Three corkscrews on a wooden table, two modern and one old",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}Three types of corkscrew: two modern and one old.{/1}",
+"k": "text"
+},
+{
 "t": "How to open a bottle of sparkling wine safely",
 "k": "text"
 },
@@ -419,6 +433,15 @@
 },
 {
 "t": "Glassware, preservation and common faults at service",
+"k": "text"
+},
+{
+"t": "Empty wine glass resting on a wooden vineyard post among vine leaves and blue sky",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}A clear, tulip-shaped glass is the standard choice for tasting, as it shows colour and concentrates aromas.{/1}",
 "k": "text"
 },
 {
@@ -618,7 +641,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

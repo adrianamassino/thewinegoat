@@ -3,9 +3,9 @@
 "source": "wset-3-questions-by-region/index.html",
 "url": "/wset-3-questions-by-region/",
 "region": "main",
-"sha": "0b33fefc4cb0",
-"words": 3330,
-"segment_words": 3495,
+"sha": "b1d438105d4f",
+"words": 3339,
+"segment_words": 3530,
 "segments": [
 {
 "t": "WSET 3 questions by region & topic (with answers) | The Wine Goat",
@@ -47,6 +47,11 @@
 {
 "t": "Pick a region or topic of the WSET Level 3 Award in Wines syllabus to see sample questions with answers and explanations. Every page links to the full set in the app.",
 "k": "text"
+},
+{
+"t": "WSET Level 3 practice questions by region and topic (infographic with the key points)",
+"k": "attr",
+"n": "alt/title/aria text"
 },
 {
 "t": "WSET Level 3 practice questions by region and topic | WSET 3 questions by region",
@@ -359,6 +364,15 @@
 },
 {
 "t": "The quick reference below summarises the WSET Level 3 regions with the facts that appear most often in questions. It is a starting point for flashcards, not a replacement for full notes.",
+"k": "text"
+},
+{
+"t": "Calm Mosel river curving between steep vine-covered hills at Neumagen-Dhron",
+"k": "attr",
+"n": "alt/title/aria text"
+},
+{
+"t": "{1}The Mosel river between vine-covered slopes at Neumagen-Dhron, Germany.{/1}",
 "k": "text"
 },
 {
@@ -782,7 +796,7 @@
 "k": "text"
 },
 {
-"t": "The Wine Goat mascot, the goat of the WSET exam-prep app",
+"t": "Goat laughing in a wooden wine barrel, raising two glasses of red wine",
 "k": "attr",
 "n": "alt/title/aria text"
 },

@@ -25,12 +25,17 @@ PH_LABEL = {'en': 'Photo credits', 'it': 'Crediti fotografici', 'fr': 'Crédits 
             'de': 'Bildnachweise', 'nl': 'Fotoverantwoording', 'pl': 'Źródła zdjęć', 'pt': 'Créditos fotográficos', 'pt-br': 'Créditos das fotos',
             'ru': 'Авторы фотографий', 'el': 'Πηγές φωτογραφιών', 'ja': '写真のクレジット', 'ko': '사진 출처', 'zh-hans': '图片来源', 'zh-hant': '圖片來源',
             'ar': 'حقوق الصور', 'th': 'เครดิตภาพ', 'tr': 'Fotoğraf künyesi'}
+
+# the 11 languages added later (tools/site_i18n/newlangs.py)
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '../site_i18n')); import newlangs as NL
+LANGS += [l for l in NL.LANGS if l not in LANGS]; NL.merge(LABEL, NL.ABOUT); NL.merge(PH_LABEL, NL.PH_LABEL)
 ORG_NODE = {"@type": "Organization", "@id": ORG, "name": "The Wine Goat", "url": SITE + "/",
             "logo": {"@type": "ImageObject", "@id": SITE + "/#logo", "url": SITE + "/img/logo.png", "width": 1655, "height": 848, "caption": "The Wine Goat"},
             "image": {"@id": SITE + "/#logo"}, "email": "hello@thewinegoat.com", "sameAs": ["https://www.instagram.com/the.winegoat/"],
             "description": "Independent exam-preparation app for the WSET wine and spirits qualifications: lessons, practice questions with explanations, flashcards with spaced repetition, mock exams, interactive wine maps and a study planner. Not affiliated with the Wine & Spirit Education Trust."}
 WEB_NODE = {"@type": "WebSite", "@id": WEB, "url": SITE + "/", "name": "The Wine Goat", "publisher": {"@id": ORG},
-            "inLanguage": ["en", "it", "fr", "es", "es-AR", "de", "nl", "pl", "pt-PT", "pt-BR", "ru", "el", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "th", "tr"]}
+            "inLanguage": ["en", "it", "fr", "es", "es-AR", "de", "nl", "pl", "pt-PT", "pt-BR", "ru", "el", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "th", "tr", "sv", "da", "nb", "fi", "ro", "hu", "is", "cs", "sk", "hr", "sl"]}
+WEB_NODE["inLanguage"] = [c for c in WEB_NODE["inLanguage"] if c == "en" or __import__('os').path.exists({'pt-PT': 'pt', 'nb': 'no'}.get(c, c).lower() + '/index.html')]   # only languages whose home exists
 ORG_ID_RE = re.compile(r'^https://thewinegoat\.com(/[a-z-]+)?/#org(anization)?$')
 SITE_ID_RE = re.compile(r'^https://thewinegoat\.com(/[a-z-]+)?/#(site|website)$')
 PAGE_TYPES = {'Article', 'WebPage', 'CollectionPage', 'AboutPage', 'FAQPage'}

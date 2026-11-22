@@ -1,0 +1,2306 @@
+{
+"group": "_photos",
+"source": "img/photos/meta.json",
+"url": null,
+"region": null,
+"sha": "5b15a7467ddb",
+"words": 6242,
+"segment_words": 6242,
+"segments": [
+{
+"t": "Sun setting behind a hillside chapel above rows of vines near Tiefenbach",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Hillside vineyards like these near Östringen belong to the Kraichgau, a gently rolling wine-growing area of Baden in south-west Germany.",
+"k": "text"
+},
+{
+"t": "Autumn vine rows turning gold and red below a forest edge at Löwenstein",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "After harvest, vine leaves change colour before falling; red and gold tones are typical of late autumn in Württemberg.",
+"k": "text"
+},
+{
+"t": "Patchwork of autumn vineyards in the hills beneath the Pic de Vissou, Hérault",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Autumn vineyards of the Languedoc-Cabrières appellation at the foot of the Pic de Vissou, Hérault.",
+"k": "text"
+},
+{
+"t": "Grazing light across golden vine rows and poplars on a slope near Stockheim",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vine rows planted up and down the slope are common in German hillside vineyards and make mechanised work easier.",
+"k": "text"
+},
+{
+"t": "Steep terraced vineyards above the blue Ligurian Sea near Manarola, Cinque Terre",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Terraced vineyards above the Ligurian coast near Manarola, in the Cinque Terre, Italy.",
+"k": "text"
+},
+{
+"t": "Church spire rising from a red-roofed village surrounded by vineyards in the Southern Palatinate",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Pfalz (Palatinate) is one of Germany's largest wine regions, sheltered by the Haardt mountains to the west.",
+"k": "text"
+},
+{
+"t": "Hill covered in autumn vineyards with a winding road on the Scheuerberg, Neckarsulm",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Württemberg's vineyards cluster along the Neckar and its tributaries, where south-facing slopes catch the most sun.",
+"k": "text"
+},
+{
+"t": "Aerial view of agave plants in diagonal rows on red soil in Jalisco",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "An agave field in Jalisco, Mexico, seen from above.",
+"k": "text"
+},
+{
+"t": "Green vineyard rows below jagged mountain peaks in Drakenstein, Western Cape",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard below the mountains at Drakenstein in South Africa's Western Cape.",
+"k": "text"
+},
+{
+"t": "Calm Mosel river curving between steep vine-covered hills at Neumagen-Dhron",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Mosel river between vine-covered slopes at Neumagen-Dhron, Germany.",
+"k": "text"
+},
+{
+"t": "Grassy alley between vine rows under a blue sky in the Borderies cru of Cognac",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard in the Borderies area of the Cognac region, near Cherves-Richemont, Charente.",
+"k": "text"
+},
+{
+"t": "Rows of numbered oak brandy casks stacked in a cellar in Yerevan",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Numbered oak casks of brandy ageing in a cellar in Yerevan, Armenia.",
+"k": "text"
+},
+{
+"t": "Hilltop castle and a historic villa above vineyards in warm evening light, Beilstein",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Castles above vineyards are a recurring image of Württemberg's wine country along the Neckar and its side valleys.",
+"k": "text"
+},
+{
+"t": "Bright green vine rows running down a slope between the houses of Brescia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vines can thrive even inside cities: the Pusterla vineyard sits on the hillside of Brescia's Cidneo hill.",
+"k": "text"
+},
+{
+"t": "Small green grape bunch among sunlit vine leaves against a blue sky in Calitzdorp",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A small bunch of green grapes among vine leaves at Calitzdorp, South Africa.",
+"k": "text"
+},
+{
+"t": "Three hanging grape bunches, two dark red and one green, on a white background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Grape colour comes from anthocyanins in the skins; most grape juice is colourless whatever the skin colour.",
+"k": "text"
+},
+{
+"t": "Ripe yellow-green Solaris berries hanging between vine leaves in a Swedish vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Solaris is an early-ripening white grape variety bred in Germany, widely planted in northern Europe's cool climates.",
+"k": "text"
+},
+{
+"t": "Young vine leaf unfolding from a gnarled cane against a dark green background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Budburst marks the start of the vine's growing season, when new shoots and leaves emerge in spring.",
+"k": "text"
+},
+{
+"t": "Grower's hands holding two freshly harvested bunches of green grapes",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Healthy, intact bunches are the starting point of quality wine; damaged fruit is usually sorted out.",
+"k": "text"
+},
+{
+"t": "Red-brick neo-Gothic façade of Brolio Castle above a clipped formal garden",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Brolio Castle at Gaiole in Chianti, Tuscany, owned by the Ricasoli family for centuries.",
+"k": "text"
+},
+{
+"t": "Small stone hut under bare trees in a pruned winter vineyard near Mèze",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "In winter the vines are dormant; pruning at this time sets the number of buds and the next year's yield.",
+"k": "text"
+},
+{
+"t": "Aerial view of curving terraces of green vineyards in the Markgräflerland",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Markgräflerland in southern Baden is known for Gutedel, the local name for Chasselas.",
+"k": "text"
+},
+{
+"t": "Rolling golden autumn vineyards along the Main between Volkach and Fahr",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Franken's vineyards follow the Main river; the region is known for Silvaner and its flat Bocksbeutel bottle.",
+"k": "text"
+},
+{
+"t": "Steep green vineyard slope under dramatic clouds at Saarburger Rausch",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The steep Saarburger Rausch vineyard at Saarburg, Germany.",
+"k": "text"
+},
+{
+"t": "Curving vine rows on a hillside near Tscherms, with the valley and Alpine peaks beyond",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vine rows on a slope near Tscherms in South Tyrol, Italy, above the valley and below Alpine peaks.",
+"k": "text"
+},
+{
+"t": "Medieval Aigle Castle above golden autumn vines with snow-capped mountains behind",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Aigle lies in the Chablais area of Vaud, where Chasselas is the main white grape.",
+"k": "text"
+},
+{
+"t": "Lavaux vineyard terraces and a lakeside village above Lake Geneva at dusk",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The terraced vineyards of Lavaux above Lake Geneva, in the Swiss canton of Vaud.",
+"k": "text"
+},
+{
+"t": "Narrow stone-walled terrace of vines overlooking Lake Geneva near St-Saphorin",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Dry-stone walls in Lavaux hold up the soil and store daytime heat for the vines.",
+"k": "text"
+},
+{
+"t": "Stone village of St-Saphorin tucked among vineyards on the shore of Lake Geneva",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Wine villages such as St-Saphorin sit right among the Lavaux terraces, between vineyards and the lake.",
+"k": "text"
+},
+{
+"t": "Single tree above a sea of golden-orange vine rows under a blue sky",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Steigerwald is one of the vineyard areas of Franken, on the slopes east of the Main.",
+"k": "text"
+},
+{
+"t": "Rows of green bush vines on a hillside in the Orb valley at Roquebrun",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards in the hills of the Orb valley at Roquebrun, Hérault, in the Languedoc.",
+"k": "text"
+},
+{
+"t": "Vines in the foreground and Schloss Staufenberg perched on a vineyard hill above Durbach",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards around Schloss Staufenberg at Durbach in Baden, Germany.",
+"k": "text"
+},
+{
+"t": "Frost-whitened vine rows on wire trellises stretching towards misty hills near Lerés",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Winter frost does little harm to dormant vines; spring frosts after budburst are the real danger.",
+"k": "text"
+},
+{
+"t": "Medieval Lichtenberg Castle above rows of green vines under a blue sky",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Many Württemberg vineyards surround medieval castles on the hills above the Neckar's side valleys.",
+"k": "text"
+},
+{
+"t": "Diagonal rows of vines on rolling slopes seen from above at Velké Pavlovice",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "South Moravia produces most of the Czech Republic's wine; Velké Pavlovice is one of its wine subregions.",
+"k": "text"
+},
+{
+"t": "Low sun flaring over autumn vines and hills at Gumpoldskirchen",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard at Gumpoldskirchen, Lower Austria, at sunset in October.",
+"k": "text"
+},
+{
+"t": "Golden vine leaves backlit by the setting sun in an Austrian vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Leaf colour changes after harvest as the vine stops photosynthesis and stores reserves for winter.",
+"k": "text"
+},
+{
+"t": "Gravel path between autumn vines leading to a tree with orange leaves near Volkach",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Volkach and the Main meander are at the heart of the Franken wine region in northern Bavaria.",
+"k": "text"
+},
+{
+"t": "Castle with a leaning tower above multicoloured autumn vineyards at Stockheim",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Brackenheim's hillsides are among Württemberg's main red-wine areas, known for Lemberger.",
+"k": "text"
+},
+{
+"t": "Snow lying between vine rows under a blue winter sky near Hallgarten, Rheingau",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "In the Rheingau, the Taunus hills shelter south-facing vineyards along the Rhine, the classic home of Riesling.",
+"k": "text"
+},
+{
+"t": "Centuries-old vine trained across a house façade in Maribor, protected by a railing",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Maribor's Old Vine is recognised by Guinness World Records as the oldest vine in the world still bearing grapes.",
+"k": "text"
+},
+{
+"t": "Yellow autumn vines in stony red soil below the rocky Pic de Vissou",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Stony, poor soils restrict vine vigour and are often linked to concentrated grapes.",
+"k": "text"
+},
+{
+"t": "Vine rows sloping down to the village of Santenay and the plain beyond",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards above the village of Santenay in Burgundy's Côte-d'Or, seen from the Mont de Sène.",
+"k": "text"
+},
+{
+"t": "Blocks of vineyards, dams and trees spread across the Barossa Valley from Mengler Hill",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Barossa Valley near Tanunda, South Australia, seen from Mengler Hill.",
+"k": "text"
+},
+{
+"t": "Autumn vines framing a view over the town of Ahrweiler from the Red Wine Trail",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The small Ahr region is one of Germany's northernmost and is known above all for Spätburgunder (Pinot Noir).",
+"k": "text"
+},
+{
+"t": "Terraced autumn vineyards above the Danube valley near Spitz, Wachau",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Autumn vineyards above the Danube at Spitz, in Austria's Wachau valley.",
+"k": "text"
+},
+{
+"t": "Green vineyard blocks in a valley of golden hills under a cloudy sky, Marlborough",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards near Seddon in the Marlborough region of New Zealand.",
+"k": "text"
+},
+{
+"t": "Dark blue grape bunch hanging from a twisted vine among yellow autumn leaves",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Black grapes owe their colour to pigments in the skin, extracted during red wine fermentation.",
+"k": "text"
+},
+{
+"t": "Green grape clusters among fresh vine leaves on a hillside in Schenna",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "White grapes on the vine at Schenna in South Tyrol, northern Italy.",
+"k": "text"
+},
+{
+"t": "Yellow grapevine leaf glowing against a dark background in autumn",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Leaf shape helps ampelographers identify grape varieties.",
+"k": "text"
+},
+{
+"t": "Grapevine shoot tip with young leaves and tendrils reaching into a blue sky",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vines are climbing plants: tendrils coil around supports, which trellis systems exploit.",
+"k": "text"
+},
+{
+"t": "Ripe pale-green grape cluster hanging from a vine in soft light",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Ripe white grapes on the vine.",
+"k": "text"
+},
+{
+"t": "Bunches of red and purple grapes hanging among sunlit vine leaves in Crete",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Ripe red grapes on a vine at Margarites, on the Greek island of Crete.",
+"k": "text"
+},
+{
+"t": "Dark grape bunches hanging from a vine trained over a stone and wooden pergola",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Pergola training lifts the canopy high off the ground and is common in warm Mediterranean areas.",
+"k": "text"
+},
+{
+"t": "Grassy alley between Chardonnay vine rows leading towards Villa Bettoni-Cazzago",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Chardonnay vines at Villa Bettoni-Cazzago in Cazzago San Martino, Lombardy.",
+"k": "text"
+},
+{
+"t": "Historic villa and bell tower above a vineyard of Chardonnay in Lombardy",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Franciacorta, between Brescia and Lake Iseo, became Italy's first traditional-method sparkling DOCG.",
+"k": "text"
+},
+{
+"t": "Close-up of a ripe Sauvignon Blanc cluster with green-gold berries in sunlight",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sauvignon Blanc grapes on the vine in the Vlasotince vineyards, south-east Serbia.",
+"k": "text"
+},
+{
+"t": "Small green grape bunches among vine leaves with the Mosel river behind",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Unripe grapes are hard, green and acidic; at veraison they soften and start to accumulate sugar.",
+"k": "text"
+},
+{
+"t": "Steep slope of green vine rows above a stone wall at Ürzig on the Mosel",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "On the Mosel's steepest slopes most work is done by hand, which raises production costs.",
+"k": "text"
+},
+{
+"t": "Flat vineyard in summer at the foot of a steep vine-covered hillside at Pölich",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Mosel has both steep slope and flatter valley-floor vineyards, which ripen grapes differently.",
+"k": "text"
+},
+{
+"t": "Small yellow vineyard cottage with trees amid golden autumn vine rows",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Small vineyard huts gave growers shelter and storage during long days of work in the vines.",
+"k": "text"
+},
+{
+"t": "Elevated view of autumn vine rows surrounding a small cottage on the Main meander",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Row direction and spacing are planned to balance sunlight, airflow and machine access.",
+"k": "text"
+},
+{
+"t": "Small whitewashed press house with green doors set among vines in a Weinviertel cellar lane",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kellergassen are lanes of press houses and cellars dug into the loess, typical of Lower Austria's Weinviertel.",
+"k": "text"
+},
+{
+"t": "Gnarled vine trunks with dark grape bunches hanging in the fruiting zone",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Keeping the fruit in a single zone along the cordon makes canopy work and harvest easier.",
+"k": "text"
+},
+{
+"t": "Vine rows under bright clouds with distant Alpine peaks in Carinthia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Carinthia is a small, emerging wine area in southern Austria, close to the Alps.",
+"k": "text"
+},
+{
+"t": "Rows of vines with a red rose bush at the end, above the Marne valley",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Rose bushes at the ends of vine rows are a traditional sight in Champagne and other regions.",
+"k": "text"
+},
+{
+"t": "Vine terraces climbing a very steep hillside above lower vineyards in the Wachau",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Singerriedl vineyard at Spitz in the Wachau: Grüner Veltliner grows at the foot of the slope, Riesling on the steep terraces.",
+"k": "text"
+},
+{
+"t": "Château de Pierreclos with its towers glowing in warm light above a vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Southern Burgundy's Saône-et-Loire vineyards are dominated by Chardonnay.",
+"k": "text"
+},
+{
+"t": "Lush green vines in front of the long façade of the Château de Chassagne-Montrachet",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vines in front of the Château de Chassagne-Montrachet, in Burgundy's Côte-d'Or.",
+"k": "text"
+},
+{
+"t": "Ruined towers of Saillon on a rocky knoll above vine terraces in the Rhône valley",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Valais, along the upper Rhône, is Switzerland's largest wine canton.",
+"k": "text"
+},
+{
+"t": "Medieval Montebello Castle behind a green vineyard in Bellinzona",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Merlot is the leading grape of Ticino, Switzerland's Italian-speaking canton.",
+"k": "text"
+},
+{
+"t": "Path through green vines leading to the ruined castle above Kaysersberg, Alsace",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards below the ruined castle of Kaysersberg in Alsace.",
+"k": "text"
+},
+{
+"t": "Rows of vines leading to a turreted château inside the Clos de Vougeot",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vine rows leading to the Château de la Tour in the Clos de Vougeot, Côte de Nuits, Burgundy.",
+"k": "text"
+},
+{
+"t": "Bright orange and red autumn vines in Napa Valley with rolling hills behind",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Autumn colours in a Napa Valley vineyard, California.",
+"k": "text"
+},
+{
+"t": "Yellow flowers carpeting the ground between bare winter vines in Calistoga, Napa Valley",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Cover crops between rows improve soil structure, reduce erosion and support biodiversity.",
+"k": "text"
+},
+{
+"t": "French-style château above vine rows and gardens at Domaine Carneros",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Domaine Carneros produces sparkling wines by the traditional method in the cool Carneros district.",
+"k": "text"
+},
+{
+"t": "Traditional rabelo boats on the Douro with Porto's Ribeira quarter behind",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Traditional rabelo boats on the Douro, seen from the Gaia quay with Porto's Ribeira behind.",
+"k": "text"
+},
+{
+"t": "Rabelo boat loaded with barrels on the Douro, facing the colourful houses of Porto",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A rabelo boat loaded with barrels on the Douro, in front of Porto's Ribeira quarter.",
+"k": "text"
+},
+{
+"t": "Red self-propelled grape harvester straddling vine rows in a Rheingau vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Machine harvesters shake the vines so berries fall onto conveyors; they work fast and can pick at night.",
+"k": "text"
+},
+{
+"t": "Row of colourful press houses with gabled fronts along a cellar lane in Falkenstein",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Behind each press house a cellar tunnel runs into the hillside, keeping wine cool year-round.",
+"k": "text"
+},
+{
+"t": "Long curving vine rows across a gentle summer slope in Charente",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Most grapes grown in Charente are distilled for Cognac rather than made into table wine.",
+"k": "text"
+},
+{
+"t": "Rolling slopes of green Champagne vineyards under a blue sky, Marne",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards near Verzenay in the Marne department, Champagne, with a windmill on the hilltop.",
+"k": "text"
+},
+{
+"t": "Vineyards in the foreground and a vine-covered hill near Aÿ in Champagne",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards near Aÿ in the Marne department, Champagne.",
+"k": "text"
+},
+{
+"t": "Patchwork of autumn Champagne vineyards rolling towards wooded hills",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Autumn vineyards near Fleury-la-Rivière on the Montagne de Reims, Champagne.",
+"k": "text"
+},
+{
+"t": "Champagne vineyards and a village in the foreground with the city of Reims on the horizon",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Reims is home to many of the great Champagne houses, whose chalk cellars lie beneath the city.",
+"k": "text"
+},
+{
+"t": "Empty wine glass resting on a wooden vineyard post among vine leaves and blue sky",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A clear, tulip-shaped glass is the standard choice for tasting, as it shows colour and concentrates aromas.",
+"k": "text"
+},
+{
+"t": "Green Pinot Noir vines in front of the stone buildings of the Clos de Vougeot",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Clos de Vougeot was founded by the Cistercian monks of Cîteaux; its château is now home to the Confrérie des Chevaliers du Tastevin.",
+"k": "text"
+},
+{
+"t": "Srebrna Góra Vineyard on the edge of Wolski Forest in Kraków",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Winnica Srebrna Góra w Krakowie, 20201031 1506. Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "La Grande Muraille (The Great Wall), remains of a Dominican convent (13th century) and a part of the nearby vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Saint-Emilion 33 La Grande Muraille. Photo: JLPC, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Meursault (Côte-d'Or, France) - Vineyard, Southwest from the town center",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Meursault - Vineyards. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Chassagne-Montrachet (Côte-d'Or, France) - Vineyard with the village in the background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Chassagne-Montrachet - Vignoble. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Santenay (Côte-d'Or, France) - Vineyard",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Santenay - Vignoble. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Puligny-Montrachet (Côte-d'Or, France) - Vineyard with the village in the background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Puligny-Montrachet - Vignoble. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Chassagne-Montrachet (Côte-d'Or, France) - Direction signs in the village, mainly mentioning vineyards",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Chassagne-Montrachet - Signs. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "GR 76A hiking trail in the vineyards of the \"Montagne de Beaune\", as seen from the \"Chemin des Teurons\", Bourgogne",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Beaune.- les vignobles de la côte de Beaune. Photo: © Pierre André, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vine in the vineyard in Kaysersberg, Haut-Rhin, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vine in the vineyard in Kaysersberg. Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The bell tower of Kaysersberg church seen from Schlossberg",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kaysersberg Vignoble b. Photo: JLPC, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View of Kaysersberg, Haut-Rhin, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "View of Kaysersberg 01. Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Corneilhan, Hérault, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Corneilhan, Hérault 01. Photo: Christian Ferrer, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The hamlet of Escagnès",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Escagnès (hameau), Roquebrun 01. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The village of Cabrières",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Cabrières et le Pic de Vissou 01. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyard in the foreground and rolling fields beyond near Sancerre",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards near Sancerre, in the Cher department of the Loire Valley.",
+"k": "text"
+},
+{
+"t": "Black wine grapes - bunch",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Uva nera da vino - grappoli 1. Photo: Anna.Massini, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyards of Nipozzano (Pelago)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vigne di Nipozzano (Pelago). Photo: Anna.Massini, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Schloss Johannisberg as seen from south",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Schloss Johannisberg, South view 20140916 1. Photo: DXR, CC BY-SA 3.0 de, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "La route départementale D136E8 au milieu des vignes - Roquessels, Hérault, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards in Roquessels. Photo: Christian Ferrer, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Forest an vineyards in Cabrerolles, Hérault, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards in Cabrerolles 01. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A mazet (occitan language name for a stoneworked construction) in vineyards",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards in Faugères 02. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Viticulture near the Finca La Madreperla, La Geria, Tinajo, Lanzarote, Canary Islands, Spain",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards - Tinajo - Lanzarote. Photo: H. Zell, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyards in Pompeii, Italy",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Pompeii wineyards. Photo: Jebulon, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Terraces rising 1,000' from Manarola to Volastra",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Terraces Manarola Volastra Cinque Terre Sep23 A7C. Photo: This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Serralunga d'Alba with its castle tower rising above vineyards",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Serralunga d'Alba and its castle above the vineyards of the Langhe, Piedmont.",
+"k": "text"
+},
+{
+"t": "Two narrow paths diverge beneath grapevine foliage on a vineyard slope near Tscherms (Cermes), South Tyrol, Italy",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Fork in a path beneath grapevines near Tscherms - 2026-09-24 - DSC00223. Photo: Norbert Nagel, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Rows of vines in red and gold autumn colours near Laguardia, Rioja Alavesa",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard in autumn near Laguardia, in the Rioja Alavesa (Basque Country).",
+"k": "text"
+},
+{
+"t": "Green vineyard rows below wooded slopes at A Arnoia, Galicia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards of the Ribeiro wine area at A Arnoia, by the Miño, Galicia.",
+"k": "text"
+},
+{
+"t": "alt camp-tarragona-cataluña",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Panoramica de los viñedos de montferri-2012. Photo: Alberto-g-rovi, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Autumn vines in red and gold near Elvillar, Rioja Alavesa",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard in autumn near Elvillar, in the Rioja Alavesa (Basque Country).",
+"k": "text"
+},
+{
+"t": "Green vineyards on the hills of Escaladei in the Priorat, Catalonia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards at Escaladei, in the Priorat, Catalonia.",
+"k": "text"
+},
+{
+"t": "Vineyards by the Mosel river in Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards by the Mosel jun 2018. Photo: Peulle, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Close-up of a ripe golden-green grape bunch in the sun",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Ripe white grapes in a Palatinate (Pfalz) vineyard, Germany.",
+"k": "text"
+},
+{
+"t": "Vines in the Mosel valley",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyard by the Mosel jun 2018. Photo: Peulle, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View from the other side of the Saar to the vineyard Würtzberg",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "20211010 Weingut Würtzberg 01. Photo: Flocci Nivis, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Deidesheim Waldberg 020 2020 05 30",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Deidesheim Waldberg 020 2020 05 30. Photo: Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A trail in the vineyards of Hallgarten (foreground) and Hattenheim (background) covered in thick snow, a fairly rare…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Snow over the Vineyards of Hallgarten and Hattenheim 121208 1. Photo: DXR, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Niederwald monument in Rüdesheim with vineyards of Rüdesheim from opposite Rhine side in Bingen / Hesse, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Niederwalddenkmal. Photo: imehling, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Abbey of St",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Abtei St. Hildegard, Rüdesheim 20250302 4. Photo: DXR, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyard in Vogtsburg-Oberbergen, Baden-Württemberg, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards - Oberbergen 01. Photo: Llez, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyard near Sasbach, Baden-Württemberg, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyard - Sasbach 02. Photo: H. Zell, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Lichtenberg Castle near Oberstenfeld (Ludwigsburg district, Germany) is one of the best preserved castles from the…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Oberstenfeld - Burg Lichtenberg - Ansicht von Großbottwar im Mai. Photo: Roman Eisele, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Löwenstein - Wolfertsberg - Weinberge, Waldrand und Blick ins Sulmtal im Oktober",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Löwenstein - Wolfertsberg - Weinberge, Waldrand und Blick ins Sulmtal im Oktober. Photo: Roman Eisele, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Wösendorf town in the Wachau Valley, parish church in the middle, vineyards in the background - view from Danube",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Wösendorf in der Wachau, 20210728 1207. Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A vineyard in Gumpoldskirchen, photographed in the afternoon",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "DSC06553 Afternoon in the Vineyard, Gumpoldskirchen, 2023-10. Photo: Aciarium, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View from the \"holy stone!, municipality Mitterretzbach, Weinviertel, Lower Austria",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Mitterretzbach vom hl. Stein 1317-HDR. Photo: Kellergassen Niederösterreich 2016, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Weißenkirchen in der Wachau - view from Danube",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Weißenkirchen in der Wachau, 20210728 1212. Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The market town Spitz on Danube river and the village Hofarnsdorfseen from vineyard \"Tausendeimerberg\", Wachau, Austria",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Spitz Burgberg Hofarnsdorf-7089. Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Blick von der Kreuzkogelwarte nach Nordwesten, Gemeinde Leibnitz (Südsteiermark)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kreuzkogelwarte 01. Photo: Clemens Stockner, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Weingarten und Kapelle am Nestelberg südöstlich von Großklein (Südsteiermark)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Großklein 01. Photo: Clemens Stockner, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Western view of vineyard in Steinbach #73, Gamlitz, district Leibnitz, Styria, Austria, EU",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Gamlitz Steinbach 73 Weingut W-Ansicht 22102020. Photo: Johann Jaritz, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Eastern view of Sernau vineyards, Gamlitz, district Leibnitz, Styria, Austria, EU",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Gamlitz Sernauer Straße Weinberge O-Ansicht 22102020. Photo: Johann Jaritz, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A Klapotetz (also Klapotec in Slovenia) is typical for the styrian, slovenian and also croatian vineyards",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Klapotetz-6400. Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Wasserbehälter Liesing samt Schiebergebäude (I",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Liesing Wasserbehälter. Photo: Ailura (talk), CC BY-SA 3.0 at, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Landscape in municipality of Aigle, canton of Vaud, Switzerland",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Landscape in Aigle. Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Le château d'Aigle, en Suisse, en juillet 2022",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Château d'Aigle 2022. Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Wineyard near Maienfeld, canton of Grisons, Switzerland",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Wein und Berge - Rebstöcke in der Bündner Herrschaft bei Maienfeld GR. Photo: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View from west to Rivaz VD",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Blick von Westen auf Rivaz VD. Photo: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Route de Sallaz, Rivaz (Lavaux)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Route de Sallaz, Rivaz (Lavaux). Photo: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Country road between green vineyards and trees near Tokaj",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A vineyard near Tokaj, Hungary.",
+"k": "text"
+},
+{
+"t": "Podmolí, Znojmo District, Czechia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Šobes winery, Moravia. Photo: Pudelek, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Moselle valley at the tripoint Luxembourg (foreground) - Germany (left background) - France (right background), as seen…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Luxembourg Schengen from Markusberg a. Photo: Cayambe, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyards close to the village of Minerve",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyards, Minerve cf02. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The village of Roquessels surrounded by vineyards, Hérault, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Roquessels and vineyards 01. Photo: Christian Ferrer, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "White Cape Dutch gabled manor house of Groot Constantia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The manor house of Groot Constantia near Cape Town; the estate goes back to a land grant of 1685.",
+"k": "text"
+},
+{
+"t": "Colonnaded façade and fountain garden of the Casa Patronal of Concha y Toro in Pirque",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Casa Patronal of Concha y Toro at Pirque, Chile.",
+"k": "text"
+},
+{
+"t": "Vine rows with wooden posts and tall poplars at Bodega Dante Robino, Mendoza",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The vineyard of Bodega Dante Robino in Mendoza, Argentina.",
+"k": "text"
+},
+{
+"t": "Castello di Amorosa in Napa Valley, California",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Castello di Amorosa. Photo: DimiTalen, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "An old barn along West Dry Creek Road across from Capo Creek Winery in Dry Creek Valley, Sonoma County, California",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Old barn, West Dry Creek Road (2025)-L1000293. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Hop Kiln Winery (formerly Walters Ranch), Sonoma County, California, as seen on May 19th, 2012",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Hop Kiln (Walters Ranch), May. Photo: Frank Schulenburg, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Building on Oak Knoll Ave, Napa Valley, California, in February 2020",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "House on Oak Knoll Ave, Napa Valley-1138. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Fall colors along West Dry Creek Road in front of Lambert Bridge Winery in Sonoma County, California",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "West Dry Creek Road at Lambert Bridge Winery (2025)-L1000299. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Café terraces on the main square of Saint-Émilion seen from above, among stone houses",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The main square of Saint-Émilion, in the Bordeaux region, seen from the monolithic church.",
+"k": "text"
+},
+{
+"t": "View of the Joseph Family Vineyards, a small family-owned producer of Cabernet Sauvignon wines in Alexander Valley,…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Joseph Family Vineyards (2025)-L1000290. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Reformed church of Saint-Symphorien (Lavaux, canton of Vaud, Switzerland)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Reformierte Kirche Saint-Saphorin (Lavaux). Photo: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Terraced vineyards in autumn colours, with rocks and forest on the hillside",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vignes en terrasses, Aigle, Vaud. Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyard near Michelau in the Steigerwald",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kammerforst Weinberg-20201024-RM-172408. Photo: Ermell, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Beilstein - Schmidhausen - Rotenberg - Streuobstwiese vor Weinbergen mit Abendsonne",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Beilstein - Schmidhausen - Rotenberg - Streuobstwiese vor Weinbergen mit Abendsonne. Photo: Roman Eisele, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Historic wooden wine presses in the vaulted refectory of Kloster Eberbach",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Historic wine presses in the former lay brothers' refectory of Kloster Eberbach, Rheingau, used as a wine cellar from around 1500.",
+"k": "text"
+},
+{
+"t": "Oak barrel with a capacity of 200 000 Champagne bottles, Mercier (Épernay) for the world exposition 1889 in Paris (side view)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Epernay fass mercier side view. Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Grape, Margarites, Crete, Greece",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kreta (GR), Margarites, Weintraube -- 2023 --. Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Rotweintraube - Tafeltraube - Interspezifische Kreuzung - Resistenz gegenüber echtem und falschem Mehltau - Hybridrebe",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Muskat Bleu. Photo: Fischer.H, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Grapes in Iran",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Grapes in Iran 01. Photo: Yann Forget, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Autumn leaves of Blauer Wildbacher (Schilcher, Vitis vinifera Wildbacher) near Bad Loipersdorf, Styria, Austria",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vitis vinifera Wildbacher Herbstblätter 01. Photo: Uoaei1, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Dieses Rebenblatt befindet sich in einem Schrebergarten in Leipzig",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vine leaf in the afternoon sun. Photo: August Geyler, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Veins of a wine leaf",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Weinblatt-P7089806PS. Photo: ermell, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "flowers and vine leaves in a parcel pre-Phyloxera vine, probably planted during the reign of Napoleon III",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sarragachies - Vignes MH Floraison. Photo: Marianne Casamance, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Grape harvest at the vineyard Trippel on Hubertusweg #4 in Briefelsdorf, municipality Feldkirchen in Kärnten, district…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Feldkirchen Briefelsdorf Hubertusweg 4 TrippelGUT Weinlese 12102017. Photo: Johann Jaritz, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Kellergasse in Unterhaid (Oberhaid) on the Main River",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Unterhaid Kellergasse 20190922-RM-P9222453. Photo: Ermell, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Winemaker alley with press houses and wine cellars Aspersdorf near the parish church",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Kellergasse Aspersdorf, Presshaus und Keller-1387. Photo: Kellergassen Niederösterreich 2016, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Baumpresse in der Kellergasse Raschala / Alte Poststraße / „Pinkelsteinkellergasse“ in der KG Raschala in Hollabrunn",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Raschala Kellergasse Pinkelstein Baumpresse. Photo: Manfred Kuzel, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Orangerie de Moët & Chandon on Avenue de Champagne in Épernay, France (view from SSW)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Epernay-moet-orangerie. Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "colored roofs of the Hôtel-Dieu de Beaune, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Hospices beaune toits1. Photo: Jebulon, Public domain, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Oak barrels in a vaulted stone wine cellar at Völser Aicha",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Barrels in the wine cellar of the Verant farmhouse at Völser Aicha, South Tyrol.",
+"k": "text"
+},
+{
+"t": "Cooper's workshop in the half-timbered house from Schwindratzheim (Building No",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Écomusée d’Alsace 81. Photo: Llez, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Demonstration of barrel-making process",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Old Forester Distilling Co Louisville September 2026. Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Three corkscrews on a wooden table, two modern and one old",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Three types of corkscrew: two modern and one old.",
+"k": "text"
+},
+{
+"t": "Wing corkscrew",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Wing Corkscrew BW 2011-12-30 14-19-41. Photo: Berthold Werner, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vines on the wine island near Sommerach",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Weininsel Sommerach Luftbild-20221027-RM-155807. Photo: Reinhold Möller Ermell, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Plantation of grapevine (Vineyards) in volcanic ground, Diama, La Geria, Lanzarote, the Canary Islands, Spain",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Bodega Suárez - Diama - La Geria - Lanzarote - BS05. Photo: Luis Miguel Bugallo Sánchez, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Rhine House at Beringer Vineyards, St",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Rhine House, Beringer Vineyards. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Two slices of cheesecake topped with red berries, a glass of white wine and a glass of red wine",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Strawberry cheesecake served with a glass of white wine and a glass of red wine.",
+"k": "text"
+},
+{
+"t": "Tantalus with 3 bottles",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tantalus-1028. Photo: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A tray of beers at the Brauereigasthof Rothenbach in Aufseß",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Aufseß Bier. Photo: Benreis, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Arcaded façade of the Sandeman Port lodge with its caped silhouette sign",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Sandeman Port lodge in Vila Nova de Gaia, Portugal.",
+"k": "text"
+},
+{
+"t": "White buildings of Tobermory Distillery on the Isle of Mull",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tobermory Distillery on the Isle of Mull, Scotland.",
+"k": "text"
+},
+{
+"t": "Stone warehouses along a tree-lined lane at the Nikka Yoichi distillery",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Nikka whisky distillery at Yoichi, Hokkaido, Japan.",
+"k": "text"
+},
+{
+"t": "Boutique at the Noilly Prat vistor centre, Marseillan, France",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Noilly-Prat Boutique. Photo: Martinvl, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Tall sugarcane with coconut palms behind, Karnataka",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A sugarcane field near Srirangapatna, Karnataka, India.",
+"k": "text"
+},
+{
+"t": "Sugarcane jbi gallery",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sugarcane jbi gallery. Photo: Jubair Bin Iqbal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Coffee cocktail in a martini glass on a brown background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A coffee cocktail served in a martini glass.",
+"k": "text"
+},
+{
+"t": "Chacha display in Mtskheta, Georgia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Chacha in Mtskheta. Photo: Bernard Gagnon, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Bottles of apricot liqueur on a shop display in Krems",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Apricot liqueurs for sale in Krems an der Donau, Austria.",
+"k": "text"
+},
+{
+"t": "Row of copper stills in a distillery hall",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Copper stills in a distillery.",
+"k": "text"
+},
+{
+"t": "Camomille sauvage (Matricaria chamomilla) et coquelicots (Papaver rhoeas) au bord d'un champ d'orge (Hordeum vulgare)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Camomille sauvage (Matricaria chamomilla), coquelicots (Papaver rhoeas) au bord d'un champ d'orge (Hordeum vulgare). Photo: JackyM59, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Champ d'Orge carrée (Hordeum vulgare) à Monchecourt",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Champ d'Orge carrée (Hordeum vulgare). Photo: JackyM59, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Two heaps of barley grains, with and without husk, on a white background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Barley grains with the husk (left) and with the husk removed (right).",
+"k": "text"
+},
+{
+"t": "Barley fields near the cliffs of Boltenhagen (Mecklenburg) at the Baltic Sea, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Getreidefelder nahe der Steilküste bei Boltenhagen. Photo: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Tula Oblast - 2026 - Barley field near the Krasivaya Mecha River, view of Efremov12",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tula Oblast - 2026 - Barley field near the Krasivaya Mecha River, view of Efremov12. Photo: Юрий Д.К., CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Ripe barley field glowing in the low evening sun",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A barley field at golden hour near Nottuln, Germany.",
+"k": "text"
+},
+{
+"t": "A peat bog below the top of Doune Hill",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A peat bog below the top of Doune Hill, Luss Hills, Scotland. Photo: Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Mulled wine is prepared for the winter party in Moscow",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Izmaylovo-ded-moroz-holiday-2025-spiced-wine. Photo: PereslavlFoto, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Humulus lupulus plantation in Kłodzko",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "2016 Plantacja chmielu w Kłodzku 01. Photo: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Inflorescences femelles de houblon (Humulus lupulus)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Inflorescences femelles de houblon - Humulus lupulus. Photo: JackyM59, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "growing Humulus lupulus near Mšec, Czechia",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Hop garden Mšec TK 2021-05-28 1. Photo: T. Kebert, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Beer bottles of different colors",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Beer bottles 2018 G1. Photo: George Chernilevsky, Public domain, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Michelstadt, Germany: Brewing copper of Michelstädter Rathausbräu",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Michelstadt Germany Michelstädter-Rathausbräu-01. Photo: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Taxisgarten, a traditional beer garden in Munich at night - short exposure",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Biergarten at Night 2. Photo: Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Sierra Nevada Brewery in Chico, California, during blue hour on December 10, 2021",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sierra Nevada Brewery, Chico, during blue hour. Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "This photo of movable heritage has been taken in the Walloon Region",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tireuses à bière Aux Amis Réunis à Tournai, BE (DSCF8335). Photo: Trougnouf, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Beer garden of restaurant/hotel Dammühle near Marburg",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Dammühle Marburg Haupthaus 01. Photo: Hydro, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Slate board with Stilton, cheddar, brie, crackers, pickle and plums",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A cheeseboard with Stilton, cheddar and brie.",
+"k": "text"
+},
+{
+"t": "Bleu de Gex is a French cow's-milk blue cheese, made in the Jura mountains",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Bleu de Gex. Photo: Myrabella, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A Coulommiers cheese made from unpasteurised cow's milk",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Coulommiers lait cru. Photo: Myrabella, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Traditionally served Macedonian ajvar with baguette, garlic, chili peppers and salami",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Традиционално сервиран ајвар. Photo: Mila Atkovska, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A Pacific oyster (Magallana gigas) about, 12 cm (4.7 in) long, with two smaller oysters and a barnacle (Chthamalus)…",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Pacific oyster from Brofjorden on a chopping board in Tuntorp. Photo: W.carter, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Homemade Sahimi by myself with salmon, tuna and white fish",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sashimi of São Paulo. Photo: Wilfredor, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Takeout sushi box from Yubu by the Shota in San Francisco",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Chirashi box from Yubu by the Shota. Photo: Dllu, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Large pan of paella with mussels, squid and red peppers over a fire, stirred with a wooden spoon",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Seafood paella being cooked over a fire in Spain.",
+"k": "text"
+},
+{
+"t": "Foie gras - food product made of the liver of a duck or goose that has been specially fattened",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Foie gras IMGP2356. Photo: Nikodem Nijaki, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Grilled salmon fillet with roast potato wedges and lemon on a white plate",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Grilled salmon with potatoes and lemon.",
+"k": "text"
+},
+{
+"t": "Plate of creamy risotto with prawns, a red chilli and herbs",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "A prawn risotto.",
+"k": "text"
+},
+{
+"t": "Sancerre (Cher, France) - View on vineyards from the village's limit",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Sancerre - View on vineyards. Photo: Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View through the Rue Belzlaub in Riquewihr",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "20241004 Rue Belzlaub Riquewihr. Photo: Flocci Nivis, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "View of northern Bernkastel from the bridge, Bernkastel-Kues, 2025",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "View of northern Bernkastel from the bridge, Bernkastel-Kues,. Photo: DimiTalen, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "between Kinheim and Kröv, wine growing",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tussen Kinheim en Kröv, wijnbouw IMG 4900 2024-08-27 13.59. Photo: Michielverbeek, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "A south view of Eibingen Abbey as seen from the vineyards of Rüdesheim am Rhein",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Abtei St. Hildegard, Rüdesheim, Southwest view 20140922 1. Photo: DXR, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Rhine, vineyards of Rüdesheim, Niederwald Monument from Bingen / Rhineland-Palatinate, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Rhine view at Bingen. Photo: imehling, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "In April apricot trees in blossom can be found in the Natura 2000 area of Wachau, Lower Austria",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Spitz Wachau Marillenbaum Donau-7110. Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Prandtauerhof in Joching, Wachau Valley, Lower Austria - view from Danube",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Prandtauerhof, Joching, Lower Austria, 20210728 1209. Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The market town Spitz on Danube river, seen from Arnsdorf embarkation point of cable ferry",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Spitz an der Donau-7222-2. Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "On the hiking trail Weinweg a dry stone hut with dome was erected in the vineyard of Steininger winery",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Langenlois Weinweg moderne Weingartenhütte Steinpentagon-8261. Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "The Tour Bayard, keep of Château de Saillon, on its knoll, with vineyards and the Rhône valley",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Tour Bayard, Saillon, Valais. Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Vineyard, Maulbronn, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vineyard - Maulbronn. Photo: H. Zell, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Common grape vine (Vitis vinifera) and field poppies (Papaver rhoeas)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Vitis vinifera and Papaver rhoeas, Castelnau-de-Guers, Hérault 02. Photo: Christian Ferrer, CC BY-SA 3.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Perrier castle, Champagne avenue in Épernay (France)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Epernay Perrier PA51000019. Photo: Palauenc05, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Stone entrance and gardens of the Pisco Mistral distillery below dry hills",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "The Pisco Mistral distillery in the Elqui Valley, Chile.",
+"k": "text"
+},
+{
+"t": "Close-up of dried coriander seeds",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Coriander seeds.",
+"k": "text"
+},
+{
+"t": "Dried star anise fruits and seeds on a white background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Dried star anise fruits and seeds.",
+"k": "text"
+},
+{
+"t": "Backlit slices of orange, lemon and lime on a white background",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Slices of citrus fruit.",
+"k": "text"
+},
+{
+"t": "Barley field in Hausdülmen, Dülmen, North Rhine-Westphalia, Germany",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Dülmen, Hausdülmen, Feld -- 2018 --. Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Longsheng Rice Terraces, Longsheng County, Guangxi, China",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Longsheng Rice Terraces November 2017. Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Rice terraces in Bali",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Rice terraces, Bali. Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Langres cheese is a French cheese from the region of Champagne-Ardenne, labelled Protected Designation of Origin (PDO)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Langres fromage AOP coupe. Photo: Myrabella, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Boutique Les Vins Gourmands à Lille (octobre 2020)",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Boutique Les Vins Gourmands à Lille (octobre 2020). Photo: Benoît Prieur, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Piece of chocolate cake, sprinkled with cocoa powder, on a white plate decorated with chocolate sauce",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Piece of chocolate cake on a white plate decorated with chocolate sauce. Photo: Daria YakovlevaMinor edits made by Subsidiary account, CC0, via Wikimedia Commons.",
+"k": "text"
+},
+{
+"t": "Wedge of blue-veined Stilton cheese with its rind",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Blue Stilton, an English blue cheese.",
+"k": "text"
+},
+{
+"t": "Neapolitan Traditional Pizza",
+"k": "attr",
+"n": "image alt/title text: describe the image in the language, no keyword stuffing"
+},
+{
+"t": "Pizza Tradición Napolitana. Photo: Rjcastillo, CC BY-SA 4.0, via Wikimedia Commons.",
+"k": "text"
+}
+]
+}

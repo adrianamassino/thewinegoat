@@ -65,7 +65,8 @@ for p_ in pages:
     for code, h in re.findall(r'<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"', head_):
         if code == 'x-default': continue
         if h not in LANG: P['hreflang points to a page that does not exist or is not indexable'].append(f'{p_} → {code} {h}')
-        elif LANG[h].split('-')[0] != code.lower().split('-')[0]: P['hreflang language differs from the target page language'].append(f'{p_} → {code} {h} (lang={LANG[h]})')
+        elif {'no': 'nb'}.get(LANG[h].split('-')[0], LANG[h].split('-')[0]) != {'no': 'nb'}.get(code.lower().split('-')[0], code.lower().split('-')[0]):   # no = nb (Norwegian Bokmål)
+            P['hreflang language differs from the target page language'].append(f'{p_} → {code} {h} (lang={LANG[h]})')
         elif h in noindex: P['hreflang points to a page that does not exist or is not indexable'].append(f'{p_} → {code} {h}')
 for t, ps in titles.items():
     if len(ps) > 1: P['duplicate title'].append(f'{t!r}: {ps}')

@@ -18,7 +18,18 @@
   "zh-hant": "/zh-hant/wset-exam-preparation/",
   "ar": "/ar/wset-exam-preparation/",
   "th": "/th/wset-exam-preparation/",
-  "tr": "/tr/wset-sinavina-hazirlik/"
+  "tr": "/tr/wset-sinavina-hazirlik/",
+  "sv": "/sv/wset-provforberedelse/",
+  "da": "/da/wset-eksamensforberedelse/",
+  "no": "/no/wset-eksamensforberedelse/",
+  "fi": "/fi/wset-kokeeseen-valmistautuminen/",
+  "ro": "/ro/pregatire-examen-wset/",
+  "hu": "/hu/wset-vizsgafelkeszules/",
+  "is": "/is/undirbuningur-wset-profs/",
+  "cs": "/cs/priprava-na-zkousku-wset/",
+  "sk": "/sk/priprava-na-skusku-wset/",
+  "hr": "/hr/priprema-za-wset-ispit/",
+  "sl": "/sl/priprava-na-izpit-wset/"
  },
  "wine": {
   "en": "/wset-wine/",
@@ -39,7 +50,18 @@
   "zh-hant": "/zh-hant/wset-wine/",
   "ar": "/ar/wset-wine/",
   "th": "/th/wset-wine/",
-  "tr": "/tr/wset-sarap/"
+  "tr": "/tr/wset-sarap/",
+  "sv": "/sv/wset-vin/",
+  "da": "/da/wset-vin/",
+  "no": "/no/wset-vin/",
+  "fi": "/fi/wset-viini/",
+  "ro": "/ro/wset-vin/",
+  "hu": "/hu/wset-bor/",
+  "is": "/is/wset-vin/",
+  "cs": "/cs/wset-vino/",
+  "sk": "/sk/wset-vino/",
+  "hr": "/hr/wset-vino/",
+  "sl": "/sl/wset-vino/"
  },
  "mock": {
   "en": "/wset-mock-exams/",
@@ -60,7 +82,18 @@
   "zh-hant": "/zh-hant/wset-mock-exams/",
   "ar": "/ar/wset-mock-exams/",
   "th": "/th/wset-mock-exams/",
-  "tr": "/tr/wset-deneme-sinavi/"
+  "tr": "/tr/wset-deneme-sinavi/",
+  "sv": "/sv/wset-provexamen/",
+  "da": "/da/wset-proveeksamen/",
+  "no": "/no/wset-proveeksamen/",
+  "fi": "/fi/wset-harjoituskokeet/",
+  "ro": "/ro/simulari-examen-wset/",
+  "hu": "/hu/wset-probavizsga/",
+  "is": "/is/wset-aefingaprof/",
+  "cs": "/cs/wset-cvicne-testy/",
+  "sk": "/sk/wset-cvicne-testy/",
+  "hr": "/hr/wset-probni-ispiti/",
+  "sl": "/sl/wset-poskusni-izpiti/"
  },
  "practice": {
   "en": "/wset-practice-questions/",
@@ -81,7 +114,18 @@
   "zh-hant": "/zh-hant/wset-practice-questions/",
   "ar": "/ar/wset-practice-questions/",
   "th": "/th/wset-practice-questions/",
-  "tr": "/tr/wset-deneme-sorulari/"
+  "tr": "/tr/wset-deneme-sorulari/",
+  "sv": "/sv/wset-ovningsfragor/",
+  "da": "/da/wset-ovelsessporgsmal/",
+  "no": "/no/wset-ovingssporsmal/",
+  "fi": "/fi/wset-harjoituskysymykset/",
+  "ro": "/ro/intrebari-wset/",
+  "hu": "/hu/wset-gyakorlo-kerdesek/",
+  "is": "/is/wset-aefingaspurningar/",
+  "cs": "/cs/wset-cvicne-otazky/",
+  "sk": "/sk/wset-cvicne-otazky/",
+  "hr": "/hr/wset-pitanja-za-vjezbu/",
+  "sl": "/sl/wset-vprasanja-za-vajo/"
  },
  "flashcards": {
   "en": "/wset-flashcards/",
@@ -102,7 +146,18 @@
   "zh-hant": "/zh-hant/wset-flashcards/",
   "ar": "/ar/wset-flashcards/",
   "th": "/th/wset-flashcards/",
-  "tr": "/tr/wset-bilgi-kartlari/"
+  "tr": "/tr/wset-bilgi-kartlari/",
+  "sv": "/sv/wset-flashcards/",
+  "da": "/da/wset-flashcards/",
+  "no": "/no/wset-flashcards/",
+  "fi": "/fi/wset-muistikortit/",
+  "ro": "/ro/flashcarduri-wset/",
+  "hu": "/hu/wset-tanulokartyak/",
+  "is": "/is/wset-minniskort/",
+  "cs": "/cs/wset-karticky/",
+  "sk": "/sk/wset-karticky/",
+  "hr": "/hr/wset-kartice/",
+  "sl": "/sl/wset-kartice/"
  },
  "planner": {
   "en": "/wset-study-planner/",
@@ -123,7 +178,18 @@
   "zh-hant": "/zh-hant/wset-study-planner/",
   "ar": "/ar/wset-study-planner/",
   "th": "/th/wset-study-planner/",
-  "tr": "/tr/wset-calisma-plani/"
+  "tr": "/tr/wset-calisma-plani/",
+  "sv": "/sv/wset-studieplan/",
+  "da": "/da/wset-studieplan/",
+  "no": "/no/wset-studieplan/",
+  "fi": "/fi/wset-opiskelusuunnitelma/",
+  "ro": "/ro/plan-de-studiu-wset/",
+  "hu": "/hu/wset-tanulasi-terv/",
+  "is": "/is/wset-namsaaetlun/",
+  "cs": "/cs/wset-studijni-plan/",
+  "sk": "/sk/wset-studijny-plan/",
+  "hr": "/hr/wset-plan-ucenja/",
+  "sl": "/sl/wset-ucni-nacrt/"
  },
  "how": {
   "en": "/how-it-works/",
@@ -144,7 +210,18 @@
   "zh-hant": "/zh-hant/how-it-works/",
   "ar": "/ar/how-it-works/",
   "th": "/th/how-it-works/",
-  "tr": "/tr/nasil-calisir/"
+  "tr": "/tr/nasil-calisir/",
+  "sv": "/sv/sa-fungerar-det/",
+  "da": "/da/sadan-virker-det/",
+  "no": "/no/slik-fungerer-det/",
+  "fi": "/fi/miten-se-toimii/",
+  "ro": "/ro/cum-functioneaza/",
+  "hu": "/hu/hogyan-mukodik/",
+  "is": "/is/hvernig-thetta-virkar/",
+  "cs": "/cs/jak-to-funguje/",
+  "sk": "/sk/ako-to-funguje/",
+  "hr": "/hr/kako-funkcionira/",
+  "sl": "/sl/kako-deluje/"
  },
  "faq": {
   "en": "/faq/",
@@ -165,6 +242,17 @@
   "zh-hant": "/zh-hant/faq/",
   "ar": "/ar/faq/",
   "th": "/th/faq/",
-  "tr": "/tr/sik-sorulan-sorular/"
+  "tr": "/tr/sik-sorulan-sorular/",
+  "sv": "/sv/vanliga-fragor/",
+  "da": "/da/ofte-stillede-sporgsmal/",
+  "no": "/no/ofte-stilte-sporsmal/",
+  "fi": "/fi/ukk/",
+  "ro": "/ro/intrebari-frecvente/",
+  "hu": "/hu/gyik/",
+  "is": "/is/algengar-spurningar/",
+  "cs": "/cs/caste-dotazy/",
+  "sk": "/sk/caste-otazky/",
+  "hr": "/hr/cesta-pitanja/",
+  "sl": "/sl/pogosta-vprasanja/"
  }
 }

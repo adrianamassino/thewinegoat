@@ -37,6 +37,10 @@ HEAD = {'en': 'The complete guides, level by level', 'it': 'Le guide complete, l
 LVL = {'en': 'Level {n}', 'it': 'Livello {n}', 'fr': 'Niveau {n}', 'es': 'Nivel {n}', 'es-ar': 'Nivel {n}', 'de': 'Level {n}', 'nl': 'Level {n}',
        'pl': 'Poziom {n}', 'pt': 'Nível {n}', 'pt-br': 'Nível {n}', 'ru': 'Уровень {n}', 'el': 'Επίπεδο {n}', 'ja': 'レベル{n}', 'ko': '레벨 {n}',
        'zh-hans': '{n}级', 'zh-hant': '{n}級', 'ar': 'المستوى {n}', 'th': 'ระดับ {n}', 'tr': 'Seviye {n}'}
+
+# the 11 languages added later (tools/site_i18n/newlangs.py)
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), 'site_i18n')); import newlangs as NL
+LANGS += [l for l in NL.LANGS if l not in LANGS]; NL.merge(HEAD, NL.LV_HEAD); NL.merge(LVL, NL.LV_N)
 CHANGED, CHECK = [], '--check' in sys.argv
 
 

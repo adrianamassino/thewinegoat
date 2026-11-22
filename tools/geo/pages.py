@@ -40,7 +40,8 @@ ORG_NODE = {"@type": "Organization", "@id": ORG, "name": "The Wine Goat", "url":
             "image": {"@id": SITE + "/#logo"}, "email": "hello@thewinegoat.com", "sameAs": ["https://www.instagram.com/the.winegoat/"],
             "description": "Independent exam-preparation app for the WSET wine and spirits qualifications: lessons, practice questions with explanations, flashcards with spaced repetition, mock exams, interactive wine maps and a study planner. Not affiliated with the Wine & Spirit Education Trust."}
 WEB_NODE = {"@type": "WebSite", "@id": WEB, "url": SITE + "/", "name": "The Wine Goat", "publisher": {"@id": ORG},
-            "inLanguage": ["en", "it", "fr", "es", "es-AR", "de", "nl", "pl", "pt-PT", "pt-BR", "ru", "el", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "th", "tr"]}
+            "inLanguage": ["en", "it", "fr", "es", "es-AR", "de", "nl", "pl", "pt-PT", "pt-BR", "ru", "el", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "th", "tr", "sv", "da", "nb", "fi", "ro", "hu", "is", "cs", "sk", "hr", "sl"]}
+WEB_NODE["inLanguage"] = [c for c in WEB_NODE["inLanguage"] if c == "en" or __import__('os').path.exists({'pt-PT': 'pt', 'nb': 'no'}.get(c, c).lower() + '/index.html')]   # only languages whose home exists
 
 
 def parse(path):
