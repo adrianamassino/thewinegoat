@@ -1,1 +1,1 @@
-window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["nl"]=Object.assign(TWG_I18N["nl"]||{},{});(window.TWG_I18N_F=window.TWG_I18N_F||{})["nl/s1"]=1;
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["nl"]=Object.assign(TWG_I18N["nl"]||{},{"About 40% abv":"Ongeveer 40% abv","A wide bowl that narrows towards the top":"Een brede kelk die naar boven toe smaller wordt","Brushing your teeth or drinking coffee":"Tanden poetsen of koffie drinken"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["nl/s1"]=1;
