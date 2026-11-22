@@ -51,10 +51,39 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fbf7f1}
 #cv.dk .rgoat{filter:drop-shadow(0 18px 26px rgba(0,0,0,.4))}
 #cv.dk #band{opacity:.55}
 #cv.dk #cap span{background:rgba(255,255,255,.95);color:#2a1b20}
+
+/* photo scenes: real photo across the top, fading into a solid panel; slow Ken Burns zoom */
+#cv{--fade:#fbf7f1;--fade2:#f3ebe1}
+#cv.bg-burgundy{--fade:#3a0d20;--fade2:#6e1532}#cv.bg-wine{--fade:#10301f;--fade2:#1d4a39}#cv.bg-spirits{--fade:#2e1b0d;--fade2:#53321a}#cv.bg-sake{--fade:#1a1d50;--fade2:#2f337f}#cv.bg-beer{--fade:#4a2f06;--fade2:#8a5a0e}
+.rph{position:absolute;inset:0;z-index:1;opacity:0;background:linear-gradient(180deg,var(--fade) 0%,var(--fade) 62%,var(--fade2) 100%)}
+.rph .im{position:absolute;left:0;right:0;top:0;overflow:hidden}
+.rph .im img{width:100%;height:100%;object-fit:cover;display:block;transform-origin:50% 40%}
+.rph .im::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.08) 26%,rgba(0,0,0,0) 45%,color-mix(in srgb,var(--fade) 55%,transparent) 76%,var(--fade) 100%)}
+.scene{z-index:3}
+.scene.withph{justify-content:flex-start}
+/* brand always on a cream pill so it reads on photos and dark backgrounds alike */
+.rbrand{left:50%;right:auto;transform:translateX(-50%);background:rgba(251,247,241,.96);padding:8px 22px 8px 8px;border-radius:999px;box-shadow:0 6px 18px rgba(0,0,0,.16)}
+#cv.dk .rbrand img.em{box-shadow:0 0 0 2px rgba(140,29,64,.25)}
+#cv.photo-on #prog{background:rgba(255,255,255,.35)}
+#rbadge{box-shadow:0 0 0 3px rgba(255,255,255,.9),0 6px 18px rgba(0,0,0,.16)}
+/* painterly drawings: soft shadow only, no sticker glow */
+.rart{filter:drop-shadow(0 16px 22px rgba(42,12,25,.12))}
+#cv.dk .rart{filter:drop-shadow(0 20px 26px rgba(0,0,0,.35))}
+/* months bars (Spanish ageing terms) */
+.agebar{width:900px;margin:0 auto;text-align:left}
+.agebar .tr{position:relative;height:84px;border-radius:18px;background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.25);overflow:hidden}
+.agebar .tot{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,#f3d58c,#e2b552);border-radius:16px}
+.agebar .oak{position:absolute;left:0;top:0;bottom:0;background:repeating-linear-gradient(90deg,#7a4a22 0 14px,#8e5a2c 14px 28px);border-radius:16px 0 0 16px;box-shadow:inset -3px 0 0 rgba(0,0,0,.25)}
+.agebar .lab{display:flex;justify-content:space-between;margin-top:14px;font:700 30px/1.2 var(--sans);color:rgba(255,255,255,.9)}
+.agebar .lab b{color:#f3d58c}
+.agebar .lab i{font-style:normal;display:inline-flex;align-items:center;gap:10px}
+.agebar .lab i::before{content:"";width:24px;height:24px;border-radius:6px;background:repeating-linear-gradient(90deg,#7a4a22 0 6px,#8e5a2c 6px 12px)}
+.agebar .sc{position:relative;height:36px;margin-top:6px;font:700 24px/1 var(--sans);color:rgba(255,255,255,.65)}
+.agebar .sc span{position:absolute;transform:translateX(-50%)}
 </style>
 </head><body>
 <div id="cv">
-  <div id="bg"></div><div id="glow"></div><div id="glow2"></div><div id="band"></div><div id="acc"></div>
+  <div id="bg"></div><div id="glow"></div><div id="glow2"></div><div id="band"></div><div id="phl"></div><div id="acc"></div>
   <div class="rbrand"><img class="em" src="img/logo-emblem.webp" alt=""><img class="wm" src="img/wordmark.webp" alt=""></div><div id="rbadge"></div>
   <div id="prog"><i></i></div>
   <div id="scenes"></div>
@@ -64,14 +93,23 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fbf7f1}
 // Deterministic animation: window.render(t) draws the frame at time t (seconds).
 const R = window.REEL;
 document.getElementById('cv').classList.add('c-' + R.course);
-if (R.bgc && R.bgc !== 'cream') { document.getElementById('cv').classList.add('bg-' + R.bgc, 'dk'); document.querySelector('.rbrand img.wm').src = 'img/wordmark-light.webp'; }
+if (R.bgc && R.bgc !== 'cream') { document.getElementById('cv').classList.add('bg-' + R.bgc, 'dk'); }
 document.getElementById('rbadge').textContent = R.badge;
 const ease = (x) => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
 const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
 const host = document.getElementById('scenes');
 const sceneEls = R.scenes.map((s, i) => {
   const d = document.createElement('div');
-  d.className = 'scene';
+  d.className = 'scene' + (s.photo ? ' withph' : '');
+  let ph = null;
+  if (s.photo) {
+    const H = s.photo.h || 1000;
+    d.style.top = (s.photo.textTop || H - 110) + 'px';
+    ph = document.createElement('div');
+    ph.className = 'rph';
+    ph.innerHTML = `<div class="im" style="height:${H}px"><img src="${s.photo.src}" alt="" style="object-position:${s.photo.pos || 'center'}"></div>`;
+    document.getElementById('phl').appendChild(ph);
+  }
   d.innerHTML = `${s.kicker ? `<div class="kicker">${s.kicker}</div>` : ''}<div class="rt" style="${s.titleSize ? `font-size:${s.titleSize}px` : ''}">${s.title}</div>${s.tag ? `<div><span class="rtag">${s.tag}</span></div>` : ''}<div class="lines">${(s.lines || []).map((l) => `<div class="ln">${l}</div>`).join('')}</div>${s.vis ? `<div class="vis">${s.vis}</div>` : ''}`;
   host.appendChild(d);
   let g = null;
@@ -87,7 +125,7 @@ const sceneEls = R.scenes.map((s, i) => {
     g.style.top = (s.goat.top || 980) + 'px';
     document.getElementById('cv').appendChild(g);
   }
-  return { d, g, lines: [...d.querySelectorAll('.ln')] };
+  return { d, g, ph, lines: [...d.querySelectorAll('.ln')] };
 });
 const total = R.scenes[R.scenes.length - 1].end;
 const cap = document.querySelector('#cap span');
@@ -102,8 +140,9 @@ window.render = (t) => {
   g2.style.top = (900 + Math.sin(t * 0.25) * 140) + 'px';
   document.querySelector('#prog i').style.width = (clamp(t / total, 0, 1) * 100) + '%';
   let capText = '';
+  let photoOn = false;
   R.scenes.forEach((s, i) => {
-    const { d, g, lines } = sceneEls[i];
+    const { d, g, ph, lines } = sceneEls[i];
     const fin = 0.45, fout = 0.35;
     const local = t - s.start, dur = s.end - s.start;
     let a = 0;
@@ -112,6 +151,15 @@ window.render = (t) => {
       if (s.holdLast && local > dur - fout) a = 1;
     }
     d.style.opacity = a;
+    if (ph) {
+      // photo crossfades a little earlier/later than the text and zooms slowly
+      let pa = 0;
+      if (local >= -0.25 && local <= dur + 0.25) pa = Math.min(ease((local + 0.25) / 0.5), i === R.scenes.length - 1 ? 1 : ease((dur - local + 0.25) / 0.5));
+      ph.style.opacity = pa;
+      const z = 1.0 + 0.07 * clamp(local / Math.max(dur, 0.1), 0, 1);
+      ph.querySelector('img').style.transform = `scale(${z.toFixed(4)})`;
+      if (pa > 0.5) photoOn = true;
+    }
     d.style.transform = `translateY(${(1 - a) * 40}px)`;
     lines.forEach((ln, j) => {
       const st = 0.5 + j * (s.lineGap || 0.55);
@@ -129,6 +177,7 @@ window.render = (t) => {
     }
     if (local >= 0 && local < dur) capText = s.caption || '';
   });
+  document.getElementById('cv').classList.toggle('photo-on', photoOn);
   cap.textContent = capText;
   cap.style.display = capText ? 'inline-block' : 'none';
 };

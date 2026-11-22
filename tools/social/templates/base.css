@@ -420,3 +420,130 @@ ul.bul li b{color:var(--burgundy);font-weight:800}
 /* photo cover: overlay in the theme colour */
 .v2.bg-spirits .ph::after{background:linear-gradient(180deg,rgba(36,21,10,0) 30%,rgba(36,21,10,.6) 58%,rgba(36,21,10,.95) 100%)}
 .v2.dk .card2,.v2.dk .mini,.v2.dk .vs2,.v2.dk .pc,.v2.dk .mapbox,.v2.dk .ed-fact,.v2.dk .ex,.v2.dk .wa .w,.v2.dk .scale div,.v2.dk .par .box,.v2.dk .note,.v2.dk .opt,.v2.dk .step,.v2.dk .mf .m,.v2.dk .cover-card{color:var(--ink)}
+
+/* =====================================================================================
+   Imagery upgrade (Nov 2026): real photos (full-bleed or top panel), painterly drawings.
+   ===================================================================================== */
+.v2{--fade:#fbf7f1;--fade2:#f3eadf}
+.v2.bg-burgundy{--fade:#3a0d20;--fade2:#7a1d42}
+.v2.bg-wine{--fade:#10301f;--fade2:#25604a}
+.v2.bg-spirits{--fade:#2e1b0d;--fade2:#6a4120}
+.v2.bg-sake{--fade:#1a1d50;--fade2:#3d44a0}
+.v2.bg-beer{--fade:#4a2f06;--fade2:#a8741a}
+/* photo panel across the top, fading into the background colour */
+.v2.phtop.dk{background:radial-gradient(120% 70% at 100% 100%,var(--fade2) 0%,var(--fade) 75%)}
+.v2.phtop:not(.dk){background:linear-gradient(180deg,#fbf7f1 0%,#fbf7f1 60%,#f3eadf 100%)}
+.v2 .ph.top{inset:0 0 auto 0}
+.v2 .ph.top::after{background:linear-gradient(180deg,rgba(0,0,0,.34) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 52%,color-mix(in srgb,var(--fade) 70%,transparent) 80%,var(--fade) 100%)}
+.v2.phfull .ph::after{background:linear-gradient(180deg,rgba(0,0,0,.30) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,0) 34%,color-mix(in srgb,var(--fade) 65%,transparent) 58%,var(--fade) 86%)}
+.v2.phfull:not(.dk) .ph::after{background:linear-gradient(180deg,rgba(0,0,0,.30) 0%,rgba(0,0,0,0) 20%,rgba(0,0,0,0) 34%,rgba(42,12,25,.62) 60%,rgba(42,12,25,.94) 88%)}
+.v2.phfull:not(.dk){color:#fff}
+.v2.phfull:not(.dk) h1,.v2.phfull:not(.dk) h2{color:#fff}
+.v2.phfull:not(.dk) h1 em,.v2.phfull:not(.dk) h2 em,.v2.phfull:not(.dk) .kicker{color:#f3d58c}
+.v2.phfull:not(.dk) .sub{color:rgba(255,255,255,.9)}
+.v2.phfull:not(.dk) .foot,.v2.phfull:not(.dk) .foot .cnt{color:rgba(255,255,255,.85)}
+.v2.phfull:not(.dk) .swipe{color:#f3d58c}
+.v2.phtop .brand,.v2.phfull .brand{background:rgba(251,247,241,.95);padding:9px 20px 9px 9px;border-radius:999px;left:70px;top:52px;box-shadow:0 6px 18px rgba(0,0,0,.18)}
+.v2.phtop .brand img.wm,.v2.phfull .brand img.wm{content:url(../../../img/wordmark.webp)}
+.v2.phtop .badge,.v2.phfull .badge{box-shadow:0 0 0 3px rgba(255,255,255,.95),0 6px 18px rgba(0,0,0,.2)}
+.v2 .phcredit{position:absolute;right:30px;top:50%;transform-origin:100% 0;transform:rotate(-90deg) translateX(50%);font:500 17px/1 var(--sans);letter-spacing:.02em;color:rgba(255,255,255,.82);text-shadow:0 1px 3px rgba(0,0,0,.6);z-index:4;white-space:nowrap}
+.v2 .phcap{font:500 italic 26px/1.3 var(--serif);color:rgba(255,255,255,.85);margin-top:20px}
+.v2.phtop:not(.dk) .phcap{color:var(--mut)}
+/* photo block inside content */
+.v2 .phx{position:relative;border-radius:28px;overflow:hidden;margin:4px 0 26px;box-shadow:0 16px 36px rgba(42,12,25,.22);flex:none}
+.v2 .phx img{width:100%;height:100%;object-fit:cover;display:block}
+.v2 .phx figcaption{position:absolute;left:0;right:0;bottom:0;padding:60px 28px 20px;background:linear-gradient(180deg,rgba(20,8,12,0),rgba(20,8,12,.78));font:500 italic 25px/1.3 var(--serif);color:#fff}
+.v2 .phx .phcr{position:absolute;right:14px;top:12px;font:500 15px/1 var(--sans);color:rgba(255,255,255,.85);background:rgba(0,0,0,.35);padding:5px 8px;border-radius:6px}
+/* painterly drawings carry their own shadows: no sticker glow */
+.v2.dk .art svg{filter:drop-shadow(0 18px 24px rgba(0,0,0,.28))}
+.v2 .art svg{filter:drop-shadow(0 10px 16px rgba(42,12,25,.10))}
+
+/* =====================================================================================
+   Cover tiles (grid redesign, Nov 2026). Headline face: Roboto Condensed 800 (OFL, static instance in
+   tools/social/fonts), uppercase; serif lines stay Fraunces, body DM Sans.
+   ===================================================================================== */
+@font-face{font-family:"TWG Condensed";font-weight:800;src:url(../fonts/roboto-condensed-800.woff) format("woff")}
+@font-face{font-family:"TWG Condensed";font-weight:700;src:url(../fonts/roboto-condensed-700.woff) format("woff")}
+.tile{position:relative;overflow:hidden;background:#3a0d20}
+.tile .accent{z-index:8}
+.tile .tl-ph{position:absolute;inset:0}
+.tile .tl-ph img{width:100%;height:100%;object-fit:cover;display:block}
+.tile .tl-ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.18),rgba(0,0,0,0) 30%,rgba(0,0,0,0) 60%,rgba(0,0,0,.12))}
+/* tones */
+.tile .tn-burgundy,.tile.tn-burgundy .tl-solid{background:radial-gradient(120% 90% at 50% 0%,#9c2a50 0%,#6e1532 45%,#3e0f22 100%);color:#fff}
+.tile .tn-cream,.tile.tn-cream .tl-solid{background:#fbf7f1;color:#6e1532}
+.tile .tn-wine,.tile.tn-wine .tl-solid{background:radial-gradient(120% 90% at 50% 0%,#2f6b54 0%,#1d4a39 45%,#10301f 100%);color:#fff}
+.tile .tn-spirits,.tile.tn-spirits .tl-solid{background:radial-gradient(120% 90% at 50% 0%,#8a5a2e 0%,#5e3a1c 45%,#2e1b0d 100%);color:#fff}
+.tile .tn-sake,.tile.tn-sake .tl-solid{background:radial-gradient(120% 90% at 50% 0%,#4f56b8 0%,#2f337f 45%,#1a1d50 100%);color:#fff}
+.tile .tn-beer,.tile.tn-beer .tl-solid{background:radial-gradient(120% 90% at 50% 0%,#c99626 0%,#94620f 45%,#4a2f06 100%);color:#fff}
+.tile .tl-solid{position:absolute;inset:0}
+/* shared pieces */
+.tile .tl-logo{width:104px;height:104px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.18),0 0 0 3px rgba(212,162,58,.75)}
+.tile .tl-logo img{width:92px;height:92px;border-radius:50%;object-fit:contain}
+.tile .tl-badge{display:inline-flex;align-items:center;gap:10px;font:800 22px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;padding:12px 18px;border-radius:999px;background:rgba(255,255,255,.14);color:#f3d58c;border:1.5px solid rgba(243,213,140,.55)}
+.tile .tl-badge small{font:700 19px/1 var(--sans);letter-spacing:.04em;text-transform:none;opacity:.9}
+.tile .tn-cream .tl-badge,.tile.tn-cream .tl-badge{background:#8c1d40;color:#fff;border-color:transparent}
+.tile .tl-head{font-family:"TWG Condensed",var(--sans);font-weight:800;line-height:.95;text-transform:uppercase;letter-spacing:.005em;text-wrap:balance}
+.tile .tl-head em{font-style:normal;color:#f3d58c}
+.tile .tn-cream .tl-head em,.tile.tn-cream .tl-head em{color:#b5822a}
+.tile .tl-sub{font:600 italic 32px/1.3 var(--serif);opacity:.92;text-wrap:balance}
+.tile .tl-hint{display:inline-flex;align-items:center;gap:12px;font:800 22px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;opacity:.9}
+.tile .tl-hint i{display:inline-block;width:40px;height:3px;background:currentColor;position:relative;border-radius:2px}
+.tile .tl-hint i::after{content:"";position:absolute;right:-1px;top:-6px;width:12px;height:12px;border-top:3px solid currentColor;border-right:3px solid currentColor;transform:rotate(45deg)}
+/* arch */
+.tile .tl-arch{position:absolute;left:140px;width:800px;border-radius:400px 400px 0 0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:44px 70px 64px;gap:22px;box-shadow:0 -10px 40px rgba(0,0,0,.18)}
+.tile .tl-arch .tl-head{margin-top:6px}
+.tile .tl-arch .tl-hint{margin-top:auto}
+/* frame */
+.tile .tl-frame{position:absolute;left:46px;right:46px;border:3px solid rgba(251,247,241,.92);border-radius:26px;z-index:2}
+.tile .tl-flogo{position:absolute;left:50%;transform:translateX(-50%);z-index:3}
+.tile .tl-block{position:absolute;left:96px;right:96px;border-radius:24px;padding:40px 46px 38px;display:flex;flex-direction:column;gap:20px;align-items:flex-start;z-index:3;box-shadow:0 14px 40px rgba(0,0,0,.25)}
+/* minimal */
+.tile .tl-shade{position:absolute;inset:0;background:radial-gradient(85% 30% at 50% 50%,rgba(20,8,12,.62),rgba(20,8,12,0) 75%),linear-gradient(180deg,rgba(0,0,0,.25),rgba(0,0,0,0) 25%,rgba(0,0,0,0) 75%,rgba(0,0,0,.35))}
+.tile .tl-mtop{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:22px;z-index:3}
+.tile .tl-tag{font:800 22px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;background:#fbf7f1;color:#6e1532;padding:13px 20px;border-radius:999px}
+.tile .tl-line{position:absolute;left:90px;right:90px;text-align:center;font:600 italic 84px/1.08 var(--serif);color:#fff;text-shadow:0 2px 6px rgba(0,0,0,.55),0 4px 30px rgba(0,0,0,.6);z-index:3;text-wrap:balance}
+.tile .tl-line em{color:#f3d58c}
+.tile .tl-mbot{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:18px;color:#fff;z-index:3}
+.tile.tl-minimal .tl-badge{background:rgba(20,8,12,.45);backdrop-filter:blur(6px)}
+/* solid */
+.tile .tl-arc{position:absolute;left:0;top:0;z-index:2}
+.tile .tl-arc text{fill:currentColor;text-transform:uppercase}
+.tile.tl-solid{color:#fff}
+.tile.tl-solid.tn-cream{color:#6e1532}
+.tile .tl-stop{position:absolute;left:0;right:0;display:flex;justify-content:center;z-index:3}
+.tile .tl-art{position:absolute;left:0;right:0;display:flex;justify-content:center;align-items:flex-end;z-index:2}
+.tile .tl-art svg{filter:drop-shadow(0 18px 26px rgba(0,0,0,.28))}
+.tile .tl-sbot{position:absolute;left:90px;right:90px;display:flex;flex-direction:column;align-items:center;text-align:center;gap:18px;z-index:3}
+.tile .tl-row{display:flex;gap:26px;align-items:center;margin-top:8px}
+.tile .tl-ab{display:flex;flex-direction:column;gap:12px;width:100%}
+.tile .tl-ab span{display:flex;align-items:center;gap:16px;background:#fff;color:#2a1b20;border-radius:18px;padding:14px 20px;font:700 34px/1.1 var(--sans);text-align:left}
+.tile .tl-ab b{width:46px;height:46px;flex:none;border-radius:50%;background:var(--grad);color:#fff;display:flex;align-items:center;justify-content:center;font:800 24px/1 var(--serif)}
+/* inner slides: kickers in the same condensed face as the cover headlines */
+.v2 .kicker{font-family:"TWG Condensed",var(--sans);font-weight:700;font-size:30px;letter-spacing:.12em}
+
+/* =====================================================================================
+   Editorial cut-out layout: white page, big burgundy serif headline, diamond rule, serif sub-headline,
+   cut-out objects with serif labels, brand + rule at the bottom, page counter.
+   ===================================================================================== */
+.ed2{background:#fffefc;color:#1e1416;position:relative;overflow:hidden}
+.ed2 .ed2-top{position:absolute;left:70px;right:70px;top:96px;display:flex;flex-direction:column;align-items:center;text-align:center}
+.ed2 .ed2-badge{font:800 20px/1 var(--sans);letter-spacing:.18em;text-transform:uppercase;color:#7a1430;border:1.5px solid rgba(122,20,48,.45);border-radius:999px;padding:10px 16px;margin-bottom:26px}
+.ed2 .ed2-head{font-family:var(--serif);font-weight:800;line-height:.98;letter-spacing:-.02em;color:#7a1430;text-wrap:balance}
+.ed2 .ed2-head em{font-style:italic;font-weight:600;color:#9c2a50}
+.ed2 .ed2-rule{display:flex;align-items:center;gap:14px;margin:30px auto 30px}
+.ed2 .ed2-rule i{flex:1;height:3px;background:#7a1430;border-radius:2px}
+.ed2 .ed2-rule b{width:16px;height:16px;background:#7a1430;transform:rotate(45deg);flex:none}
+.ed2 .ed2-sub{font:600 52px/1.14 var(--serif);color:#1e1416;max-width:920px;text-wrap:balance}
+.ed2 .ed2-sub em{font-style:italic;color:#7a1430}
+.ed2 .ed2-row{position:absolute;left:50px;right:50px;bottom:250px;display:flex;justify-content:center;align-items:flex-end}
+.ed2 .ed2-obj{display:flex;flex-direction:column;align-items:center;margin:0}
+.ed2 .ed2-obj img{display:block;filter:drop-shadow(0 18px 18px rgba(40,20,26,.18))}
+.ed2 .ed2-obj figcaption{margin-top:26px;font:600 40px/1.1 var(--serif);color:#1e1416;text-align:center;white-space:nowrap}
+.ed2 .ed2-arrow{align-self:center;margin:0 6px 70px}
+.ed2 .ed2-foot{position:absolute;left:0;right:0;bottom:66px;display:flex;flex-direction:column;align-items:center}
+.ed2 .ed2-brand{display:flex;align-items:center;gap:14px}
+.ed2 .ed2-brand img.em{width:62px;height:62px;border-radius:50%;box-shadow:0 0 0 2px rgba(140,29,64,.25)}
+.ed2 .ed2-brand img.wm{height:54px}
+.ed2 .ed2-foot .ed2-rule{margin:12px auto 0}
+.ed2 .ed2-count{position:absolute;right:64px;bottom:84px;font:600 34px/1 var(--serif);color:#1e1416}

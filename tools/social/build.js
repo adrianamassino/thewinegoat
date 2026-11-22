@@ -134,6 +134,22 @@ async function openReel(browser, reel) {
   return page;
 }
 
+// Original music (tools/social/lib/music.py, synthesised in code: no third-party audio), one mood per course,
+// soft accents on scene changes; mastered to -16 LUFS integrated, -1.5 dBTP, with fade-in/out, exact reel length.
+function makeMusic(reel, dur, dir) {
+  const mood = reel.music || { wine: 'wine', beer: 'beer', sake: 'sake', spirits: 'spirits' }[reel.course];
+  const raw = path.join(dir, 'music-raw.wav');
+  const out = path.join(dir, 'music.wav');
+  execFileSync('python3', [path.join(__dirname, 'lib', 'music.py'), mood, String(dur + 0.5), raw, reel.scenes.map((x) => x.start).join(',')]);
+  const pre = `afade=t=in:st=0:d=0.6,afade=t=out:st=${(dur - 1.4).toFixed(2)}:d=1.4`;
+  // ffmpeg prints the loudnorm JSON on stderr
+  const err = require('child_process').spawnSync(FFMPEG, ['-hide_banner', '-i', raw, '-t', String(dur), '-af', `${pre},loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json`, '-f', 'null', '-'], { encoding: 'utf8' }).stderr;
+  const j = JSON.parse(err.slice(err.lastIndexOf('{'), err.lastIndexOf('}') + 1));
+  const ln = `loudnorm=I=-16:TP=-1.5:LRA=11:measured_I=${j.input_i}:measured_TP=${j.input_tp}:measured_LRA=${j.input_lra}:measured_thresh=${j.input_thresh}:offset=${j.target_offset}:linear=true`;
+  execFileSync(FFMPEG, ['-y', '-loglevel', 'error', '-i', raw, '-t', String(dur), '-af', `${pre},${ln},aresample=44100`, '-ar', '44100', '-ac', '2', out]);
+  return out;
+}
+
 async function buildReels(browser) {
   const dir = path.join(OUT, 'reels');
   mk(dir);
@@ -145,12 +161,20 @@ async function buildReels(browser) {
     const frames = Math.round(dur * fps);
     const fdir = path.join(TMP, reel.id);
     mk(fdir);
-    // cover
-    await page.evaluate((t) => window.render(t), reel.cover.t);
-    await check(page, `${reel.id} cover`, { safeTop: 250, safeBottom: 300 });
-    await page.evaluate(() => { document.getElementById('prog').style.visibility = 'hidden'; document.getElementById('cap').style.visibility = 'hidden'; });
-    await page.screenshot({ path: path.join(dir, `${reel.id}_cover.png`), clip: { x: 0, y: 0, width: 1080, height: 1920 } });
-    await page.evaluate(() => { document.getElementById('prog').style.visibility = ''; document.getElementById('cap').style.visibility = ''; });
+    // cover: a designed tile (reel.tile, shape kept inside the 4:5 grid crop) or a frame of the reel
+    if (reel.tile) {
+      const cp = await open(browser, R.coverTile(reel, reel.tile, { w: 1080, h: 1920, reel: true }), 1080, 1920);
+      await check(cp, `${reel.id} cover`, { safeTop: 285, safeBottom: 285 });
+      await cp.screenshot({ path: path.join(dir, `${reel.id}_cover.png`), clip: { x: 0, y: 0, width: 1080, height: 1920 } });
+      await cp.close();
+    } else {
+      await page.evaluate((t) => window.render(t), reel.cover.t);
+      await check(page, `${reel.id} cover`, { safeTop: 250, safeBottom: 300 });
+      await page.evaluate(() => { document.getElementById('prog').style.visibility = 'hidden'; document.getElementById('cap').style.visibility = 'hidden'; });
+      await page.screenshot({ path: path.join(dir, `${reel.id}_cover.png`), clip: { x: 0, y: 0, width: 1080, height: 1920 } });
+      await page.evaluate(() => { document.getElementById('prog').style.visibility = ''; document.getElementById('cap').style.visibility = ''; });
+    }
+    if (args.includes('--covers-only')) { await page.close(); console.log('cover', reel.id); continue; }
     // check each scene at its fully-shown moment
     for (const s of reel.scenes) {
       await page.evaluate((t) => window.render(t), keyTime(s));
@@ -162,10 +186,10 @@ async function buildReels(browser) {
     }
     await page.close();
     const mp4 = path.join(dir, `${reel.id}.mp4`);
-    execFileSync(FFMPEG, ['-y', '-loglevel', 'error', '-framerate', String(fps), '-i', path.join(fdir, '%05d.jpg'),
-      '-f', 'lavfi', '-i', 'anullsrc=channel_layout=stereo:sample_rate=44100',
+    const wav = makeMusic(reel, dur, fdir);
+    execFileSync(FFMPEG, ['-y', '-loglevel', 'error', '-framerate', String(fps), '-i', path.join(fdir, '%05d.jpg'), '-i', wav,
       '-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '18', '-preset', 'slow', '-r', String(fps),
-      '-c:a', 'aac', '-b:a', '128k', '-shortest', '-movflags', '+faststart', mp4]);
+      '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-ac', '2', '-t', String(dur), '-movflags', '+faststart', mp4]);
     console.log('reel', reel.id, frames, 'frames', dur + 's');
   }
 }
@@ -216,15 +240,15 @@ figcaption{font:600 16px/1 var(--sans);color:var(--muted);margin-top:6px}</style
 async function buildGrid(browser) {
   const tile = (p) => {
     const f = p.reel ? path.join(R.ROOT, p.dir, 'reels', `${p.id}_cover.png`) : path.join(R.ROOT, p.dir, 'posts', p.id, `${p.id}_01.png`);
-    return `<div class="t${p.old ? ' old' : ''}"><img src="file://${f}">${p.reel ? '<span class="rl">▶ Reel</span>' : '<span class="rl c">❐</span>'}${p.label ? `<span class="lb">${p.label}</span>` : ''}</div>`;
+    return `<div class="t${p.old ? ' old' : ''}"><img src="file://${f}">${p.pinned ? '<span class="rl pn">Pinned</span>' : p.reel ? '<span class="rl">▶ Reel</span>' : '<span class="rl c">❐</span>'}${p.label ? `<span class="lb">${p.label}</span>` : ''}</div>`;
   };
   const dirRel = path.relative(R.ROOT, OUT);
   const mine = batch.feed.map((id) => {
     if (typeof id === 'object') return { ...id };
     const reel = batch.reels.find((r) => r.id === id); const post = batch.posts.find((p) => p.id === id);
     const it = reel || post;
-    return { id, reel: !!reel, dir: dirRel, label: `${R.badgeText(it)}` };
-  }).reverse();
+    return { id, reel: !!reel, dir: dirRel, label: `${R.badgeText(it)}`, pinned: !!it.pinned };
+  }).reverse().sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0));
   const prev = batch.grid.prev.map((x) => ({ ...x, old: true })).reverse();
   const legend = batch.grid.legend.map((l) => `<span><i style="background:${l.c}"></i>${l.t}</span>`).join('');
   const html = `<!doctype html><html><head><meta charset="utf-8"><base href="file://${R.ROOT}/"><link rel="stylesheet" href="tools/social/templates/base.css">
@@ -232,7 +256,7 @@ async function buildGrid(browser) {
 h1{font:800 40px/1 var(--serif);color:#6e1532;margin-bottom:8px}p.m{color:#5c4a50;font:500 19px/1.35 var(--sans);margin-bottom:14px}
 .lg{display:flex;flex-wrap:wrap;gap:10px 22px;margin:0 0 18px}.lg span{display:inline-flex;align-items:center;gap:8px;font:700 18px/1 var(--sans);color:#2a1b20}.lg i{width:22px;height:22px;border-radius:6px;display:inline-block}
 .g{display:grid;grid-template-columns:repeat(${batch.grid.cols || 3},1fr);gap:4px}.t{position:relative;aspect-ratio:4/5;overflow:hidden;background:#eee}.t img{width:100%;height:100%;object-fit:cover;object-position:center}
-.t .rl{position:absolute;right:10px;top:10px;background:rgba(0,0,0,.55);color:#fff;font:700 15px/1 var(--sans);padding:6px 9px;border-radius:8px}.t .rl.c{font-size:18px;padding:4px 8px}
+.t .rl{position:absolute;right:10px;top:10px;background:rgba(0,0,0,.55);color:#fff;font:700 15px/1 var(--sans);padding:6px 9px;border-radius:8px}.t .rl.c{font-size:18px;padding:4px 8px}.t .rl.pn{background:#d4a23a;color:#2a1b20}
 .t .lb{position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.92);color:#2a1b20;font:800 11px/1 var(--sans);letter-spacing:.05em;text-transform:uppercase;padding:5px 6px;border-radius:6px}
 .sep{grid-column:1/-1;font:800 16px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#5c4a50;padding:14px 4px 8px}</style></head>
 <body><h1>@the.winegoat · profile grid preview</h1><p class="m">${batch.grid.note}</p><div class="lg">${legend}</div>

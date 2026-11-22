@@ -130,6 +130,7 @@ function storyFrame(s) {
 const COURSE_NAME = { wine: 'Wine', spirits: 'Spirits', sake: 'Sake', beer: 'Beer' };
 const MAX_LEVEL = { wine: 4, spirits: 3, sake: 3, beer: 2 };
 function badgeText(post) {
+  if (post.badge) return post.badge;
   if (!COURSE_NAME[post.course]) throw new Error(`${post.id}: unknown course ${post.course}`);
   if (!(post.level >= 1 && post.level <= MAX_LEVEL[post.course])) throw new Error(`${post.id}: level ${post.level} not valid for ${post.course}`);
   return `${COURSE_NAME[post.course]} · Level ${post.level}`;
@@ -163,6 +164,8 @@ const B2 = {
   par: (a, mid, b) => `<div class="par"><div class="box"><b>${a.b}</b><span>${a.t}</span></div><div class="mid">${mid}</div><div class="box"><b>${b.b}</b><span>${b.t}</span></div></div>`,
   card: (c) => `<div class="card2"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b>${c.sub ? `<i>${c.sub}</i>` : ''}</div><dl class="rowsx">${c.rows.map(([k, v]) => `<div class="rx"><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></div>`,
   minis: (cards) => `<div class="two">${cards.map((c) => `<div class="mini"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b></div><ul>${c.items.map((i) => `<li>${i}</li>`).join('')}</ul></div>`).join('')}</div>`,
+  // photo panel inside the content flow. p = { src, h, pos, cap, credit }
+  photo: (p) => `<figure class="phx" style="height:${p.h || 380}px"><img src="${p.src}" alt="" style="object-position:${p.pos || 'center'}">${p.cap ? `<figcaption>${p.cap}</figcaption>` : ''}${p.credit ? `<span class="phcr">Photo: ${p.credit}</span>` : ''}</figure>`,
   chip: (color) => `<span class="chip" style="background:${color}"></span>`,
 };
 
@@ -176,9 +179,12 @@ function bgClass(item) {
 }
 
 function feedSlide2(post, s, idx, total) {
+  if (s.tile) return coverTile(post, s.tile, { idx, total });
+  if (s.edit) return editorial(post, s.edit, { idx, total });
   const last = idx === total;
   const isCover = s.layout === 'cover';
-  const photo = isCover && s.photo;
+  const photo = s.photo && (isCover || s.photoMode === 'top');
+  const ptop = photo && s.photoMode === 'top';
   const bgc = bgClass(post);
   const dk = bgc !== 'cream';
   const head = `<div class="accent"></div>${brand(dk)}${isCover ? '' : badge(post)}`;
@@ -187,16 +193,16 @@ function feedSlide2(post, s, idx, total) {
   const ts = s.titleSize ? `font-size:${s.titleSize}px;` : '';
   let body;
   if (isCover) {
-    body = `<div class="area cover" style="${photo ? 'justify-content:flex-end;padding-bottom:10px' : 'justify-content:flex-start;padding-top:30px'}">
+    body = `<div class="area cover" style="${photo ? `justify-content:flex-end;padding-bottom:${s.padBottom ?? 10}px` : 'justify-content:flex-start;padding-top:30px'}">
       ${badge(post, true)}
-      ${s.kicker ? `<div class="kicker"${photo ? ' style="color:#f3d58c"' : ''}>${s.kicker}</div>` : ''}
+      ${s.kicker ? `<div class="kicker"${photo && (!ptop || dk) ? ' style="color:#f3d58c"' : ''}>${s.kicker}</div>` : ''}
       ${s.cardOpen || ''}<h1 style="${tw}${ts}">${s.title}</h1>
       ${s.sub ? `<div class="sub" style="margin-top:28px;max-width:${s.subWidth || 640}px">${s.sub}</div>` : ''}${s.cardClose || ''}
       ${photo && s.photoCaption ? `<div class="phcap">${s.photoCaption}</div>` : ''}
       ${s.html || ''}
     </div>`;
   } else if (s.layout === 'cta') {
-    body = `<div class="area" style="justify-content:flex-start;padding-top:30px">
+    body = `<div class="area" style="justify-content:${ptop ? 'flex-end;padding-bottom:10px' : 'flex-start;padding-top:30px'}">
       ${s.kicker ? `<div class="kicker">${s.kicker}</div>` : ''}
       <h2 style="font-size:${s.titleSize || 82}px;max-width:${s.titleWidth || 900}px">${s.title}</h2>
       ${s.sub ? `<div class="sub" style="max-width:${s.subWidth || 600}px">${s.sub}</div>` : ''}
@@ -204,16 +210,78 @@ function feedSlide2(post, s, idx, total) {
       <div><span class="cta-line">${s.cta || 'Practise free on thewinegoat.com'}</span></div>
     </div>`;
   } else {
-    body = `<div class="area">
+    body = `<div class="area" style="${ptop ? `top:${(s.photoH || 640) - 40}px;` : ''}${s.center ? 'justify-content:center;padding-bottom:40px;' : ''}">
       ${s.kicker ? `<div class="kicker">${s.kicker}</div>` : ''}
       ${s.title ? `<h2 style="${ts}${tw}">${s.title}</h2>` : ''}
       ${s.sub ? `<div class="sub" style="${s.subWidth ? `max-width:${s.subWidth}px` : ''}">${s.sub}</div>` : ''}
       ${s.html || ''}
     </div>`;
   }
-  const bg = photo ? `<div class="ph"><img src="${s.photo}" alt="" style="object-position:${s.photoPos || 'center'}"></div>` : '';
-  const cls = `cv feed v2 tpl-${s.tpl || post.tpl} c-${post.course} bg-${bgc}${dk ? ' dk' : ''}${isCover ? ' cover' : ''}`;
+  const credit = photo && s.photoCredit ? `<div class="phcredit"${ptop ? ` style="top:${Math.round((s.photoH || 640) * 0.45)}px"` : ''}>Photo: ${s.photoCredit}</div>` : '';
+  const bg = photo ? `<div class="ph${ptop ? ' top' : ''}"${ptop ? ` style="height:${s.photoH || 640}px"` : ''}><img src="${s.photo}" alt="" style="object-position:${s.photoPos || 'center'}"></div>${credit}` : '';
+  const cls = `cv feed v2 tpl-${s.tpl || post.tpl} c-${post.course} bg-${bgc}${dk ? ' dk' : ''}${isCover ? ' cover' : ''}${photo ? (ptop ? ' phtop' : ' phfull') : ''}`;
   return page(`<div class="${cls}" id="cv">${bg}${head}${goatTag2(post, s.goat)}${art(s.art)}${body}${foot}</div>`, { w: 1080, h: 1350 });
+}
+
+/* =====================================================================================
+   Cover tiles (Nov 2026 grid redesign): photo-led tiles with one bold solid shape (arch panel or thin frame)
+   holding a short condensed uppercase headline and the round goat logo badge, alternating with calm
+   solid-colour tiles (arched headline) and minimal photo tiles (one serif line + a small label tag).
+   c = { variant: 'arch'|'frame'|'solid'|'minimal', photo, pos, tone: 'burgundy'|'cream'|'course',
+         head, headSize, sub, tag, line, arc, arcSize, art, extra }
+   Used for slide 1 of carousels (1080x1350) and for reel covers (1080x1920, shape kept inside the 4:5 grid crop).
+   ===================================================================================== */
+/* Editorial "cut-out" page: white, big burgundy serif headline, thin rule with a diamond, short serif sub-headline,
+   then a simple visual explanation with cut-out objects (photo cut-outs from tools/social/assets/cutouts or
+   near-photographic SVG) each with a serif label, arrows between; goat logo + wordmark with the diamond rule at the
+   bottom and a page counter. e = { head, headSize, sub, items: [{ src|svg, h, label }], arrows } */
+function editorial(item, e, { w = 1080, h = 1350, idx = 1, total = 1 } = {}) {
+  const rule = (wd) => `<div class="ed2-rule" style="width:${wd}px"><i></i><b></b><i></i></div>`;
+  const obj = (it) => `<figure class="ed2-obj">${it.src ? `<img src="${it.src}" style="height:${it.h || 420}px" alt="">` : `<div style="height:${it.h || 420}px;display:flex;align-items:flex-end">${it.svg}</div>`}${it.label ? `<figcaption>${it.label}</figcaption>` : ''}</figure>`;
+  const arrow = '<div class="ed2-arrow"><svg width="110" height="24" viewBox="0 0 110 24"><path d="M2 12 H100 M88 2 L104 12 L88 22" stroke="#7a1430" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>';
+  const items = (e.items || []).map((it, i) => (i && e.arrows && (e.arrowAt ? e.arrowAt.includes(i) : true) ? arrow : '') + obj(it)).join('');
+  const body = `<div class="ed2-top"><div class="ed2-badge">${badgeText(item)}${item.levelNote ? ` · ${item.levelNote}` : ''}</div>
+    <div class="ed2-head" style="font-size:${e.headSize || 150}px">${e.head}</div>${rule(760)}
+    ${e.sub ? `<div class="ed2-sub" style="${e.subSize ? `font-size:${e.subSize}px` : ''}">${e.sub}</div>` : ''}</div>
+    <div class="ed2-row" style="gap:${e.gap ?? 26}px">${items}</div>${e.extra || ''}
+    <div class="ed2-foot"><div class="ed2-brand"><img class="em" src="${LOGO}" alt=""><img class="wm" src="${WM_LIGHT_BG}" alt=""></div>${rule(260)}</div>
+    ${total > 1 ? `<div class="ed2-count">${idx} / ${total}</div>` : ''}`;
+  return page(`<div class="cv v2 ed2 c-${item.course}" id="cv" style="width:${w}px;height:${h}px"><div class="accent"></div>${body}</div>`, { w, h });
+}
+
+function coverTile(item, c, { w = 1080, h = 1350, idx = 1, total = 1, reel = false } = {}) {
+  if (c.variant === 'edit') return editorial(item, c, { w, h, idx, total });
+  const { hires } = require('./photos');
+  const bgc = bgClass(item);
+  const tone = c.tone || (bgc === 'cream' ? 'cream' : bgc === 'burgundy' ? 'burgundy' : 'course');
+  const toneCls = tone === 'course' ? `tn-${item.course}` : `tn-${tone}`;
+  const off = reel ? (h - 1350) / 2 : 0; // grid crop: keep the shape inside the central 4:5 area
+  const logo = `<div class="tl-logo"><img src="${LOGO}" alt=""></div>`;
+  const bd = `<div class="tl-badge">${badgeText(item)}${item.levelNote ? ` <small>${item.levelNote}</small>` : ''}</div>`;
+  const hint = reel ? '<div class="tl-hint">▶ Watch</div>' : (total > 1 ? '<div class="tl-hint">Swipe <i></i></div>' : '');
+  const photo = c.photo ? `<div class="tl-ph"><img src="${hires(c.photo)}" alt="" style="object-position:${c.pos || 'center'}"></div>` : '';
+  const head = c.head ? `<div class="tl-head" style="font-size:${c.headSize || 86}px">${c.head}</div>` : '';
+  const sub = c.sub ? `<div class="tl-sub">${c.sub}</div>` : '';
+  let inner = '';
+  if (c.variant === 'arch') {
+    inner = `${photo}<div class="tl-arch ${toneCls}" style="bottom:${off}px;height:${c.archH || 640}px">${logo}${bd}${head}${sub}${c.extra || ''}${hint}</div>`;
+  } else if (c.variant === 'frame') {
+    inner = `${photo}<div class="tl-frame" style="top:${off + 110}px;bottom:${off + 46}px"></div><div class="tl-flogo" style="top:${off + 110 - 52}px">${logo}</div>
+      <div class="tl-block ${toneCls}" style="bottom:${off + 96}px">${bd}${head}${sub}${c.extra || ''}${hint}</div>`;
+  } else if (c.variant === 'minimal') {
+    inner = `${photo}<div class="tl-shade"></div><div class="tl-mtop" style="top:${off + 70}px">${logo}${c.tag ? `<div class="tl-tag">${c.tag}</div>` : ''}</div>
+      <div class="tl-line" style="top:${h / 2 - 90}px">${c.line}</div>
+      <div class="tl-mbot" style="bottom:${off + 70}px">${bd}${hint}</div>`;
+  } else { // solid: calm full-colour tile, headline set on an arc
+    const R = c.arcR || 900, cx = w / 2, cy = off + (c.arcY || 1310); // shallow arc: apex ~300 px from the top
+    const arc = c.arc ? `<svg class="tl-arc" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><defs><path id="arc-${item.id}" d="M ${cx - R} ${cy} A ${R} ${R} 0 0 1 ${cx + R} ${cy}"/></defs>
+      <text font-family="TWG Condensed" font-weight="800" font-size="${c.arcSize || 92}" letter-spacing="2" text-anchor="middle"><textPath href="#arc-${item.id}" startOffset="50%">${String(c.arc).toUpperCase()}</textPath></text></svg>` : '';
+    inner = `<div class="tl-solid ${toneCls}"></div>${arc}<div class="tl-stop" style="top:${off + 70}px">${logo}</div>
+      ${c.art ? `<div class="tl-art" style="top:${off + (c.artTop || 560)}px">${c.art}</div>` : ''}
+      <div class="tl-sbot" style="bottom:${off + 64}px">${head}${sub}${c.extra || ''}<div class="tl-row">${bd}${hint}</div></div>`;
+  }
+  const cls = `cv tile v2 c-${item.course} tl-${c.variant} ${toneCls}${reel ? ' tl-reel' : ''}`;
+  return page(`<div class="${cls}" id="cv" style="width:${w}px;height:${h}px"><div class="accent"></div>${inner}</div>`, { w, h });
 }
 
 function storyFrame2(st, s) {
@@ -238,4 +306,4 @@ function storyFrame2(st, s) {
   return page(cv, { w: 1080, h: 1920 });
 }
 
-module.exports = { bgClass, B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };
+module.exports = { editorial, coverTile, bgClass, B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };
