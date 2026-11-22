@@ -27,6 +27,9 @@ def apply(group, doc):
     _base.D, _base.SHOW, _base.FAQ_H = D, 'Ver a resposta', 'Perguntas frequentes'
     try: doc = _base.apply(group, doc)
     finally: _base.D, _base.SHOW, _base.FAQ_H = old
+    # owner's rule: the grades stay in English (Pass, Merit, Distinction), also in text inherited from the base page
+    doc = re.sub(r'(?<![\wÀ-ÿ])Mérito(?![\wÀ-ÿ])', 'Merit', doc)
+    doc = re.sub(r'(?<![\wÀ-ÿ])Distinção(?![\wÀ-ÿ])', 'Distinction', doc)
     # the Article headline of the structured data follows the local H1
     h = re.search(r'<h1\b[^>]*>(.*?)</h1>', doc, re.S)
     if h:
