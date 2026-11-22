@@ -1,0 +1,533 @@
+{
+ "yt_title": "How to Pass the WSET Level 3 Blind Tasting: the SAT Step by Step",
+ "yt_desc": "The WSET Level 3 tasting is a blind tasting of two wines, written up with the Systematic Approach to Tasting (SAT). This study session walks through the method in exam order: appearance, nose, palate and conclusions, with the scales, the aroma families, how to justify quality and readiness for drinking, how to pace two wines, the mistakes that cost marks and a four-week practice plan.",
+ "tags": [
+  "WSET Level 3",
+  "WSET 3",
+  "WSET tasting",
+  "systematic approach to tasting",
+  "SAT",
+  "blind tasting",
+  "wine tasting notes",
+  "how to taste wine",
+  "WSET Level 3 exam",
+  "tasting exam",
+  "wine study",
+  "sommelier study",
+  "The Wine Goat"
+ ],
+ "hashtags": [
+  "#WSET",
+  "#WSETLevel3",
+  "#BlindTasting"
+ ],
+ "tag": "WSET Level 3",
+ "thumb": {
+  "kicker": "WSET LEVEL 3",
+  "title": "Pass the *blind tasting*",
+  "sub": "The SAT, step by step"
+ },
+ "scenes": {
+  "intro": {
+   "kicker": "WSET Level 3 · Tasting",
+   "title": "Pass the blind tasting with the *systematic approach*",
+   "sub": "Two wines, one method: describe first, then conclude.",
+   "say": [
+    "The tasting part of WSET Level 3 is a blind tasting of two wines, written up with the Systematic Approach to Tasting, the SAT.",
+    "It is marked separately from the theory, with a pass mark of fifty-five percent, so it deserves its own training. Here is the method, step by step."
+   ]
+  },
+  "method": {
+   "kicker": "The method",
+   "title": "Describe first, then conclude",
+   "cards": [
+    [
+     "Appearance",
+     "Clarity, intensity, colour"
+    ],
+    [
+     "Nose",
+     "Condition, intensity, aromas, development"
+    ],
+    [
+     "Palate",
+     "Structure, then flavour and finish"
+    ],
+    [
+     "Conclusions",
+     "Quality and readiness for drinking"
+    ]
+   ],
+   "say": [
+    "The SAT is a method, not a form to fill in. First you describe: appearance,",
+    "nose,",
+    "and palate. That is where most of the marks sit.",
+    "Then you evaluate quality and readiness for drinking, and every judgement must rest on something you have already written."
+   ]
+  },
+  "c1": {
+   "title": "Before the glass",
+   "sub": "Conditions that make a note reliable",
+   "say": [
+    "Chapter one. Before the glass."
+   ]
+  },
+  "conditions": {
+   "kicker": "Set-up",
+   "title": "Same routine, every time",
+   "items": [
+    "The **same clean tulip glass**; pour about a quarter",
+    "**Good light** and a white surface to judge colour",
+    "**No strong smells**; water, crackers, and spit consistently"
+   ],
+   "say": [
+    "A good note starts before you taste. Use the same clean, tulip-shaped glass every time, and pour about a quarter.",
+    "Taste in good light, with a white surface to judge colour.",
+    "Avoid perfume, coffee or chewing gum, keep water and plain crackers nearby, and spit consistently. A stable routine means the differences you notice really come from the wine."
+   ]
+  },
+  "c2": {
+   "title": "Appearance",
+   "sub": "Quick marks that set up the rest of the note",
+   "say": [
+    "Chapter two. Appearance."
+   ]
+  },
+  "appearance": {
+   "kicker": "Appearance",
+   "title": "Three things to judge",
+   "scales": [
+    [
+     "Clarity",
+     [
+      "clear",
+      "hazy"
+     ],
+     0
+    ],
+    [
+     "Intensity",
+     [
+      "pale",
+      "medium",
+      "deep"
+     ],
+     1
+    ],
+    [
+     "White colour",
+     [
+      "lemon-green",
+      "lemon",
+      "gold",
+      "amber",
+      "brown"
+     ],
+     1
+    ],
+    [
+     "Red colour",
+     [
+      "purple",
+      "ruby",
+      "garnet",
+      "tawny",
+      "brown"
+     ],
+     1
+    ]
+   ],
+   "say": [
+    "Tilt the glass over a white background. Is the wine clear or hazy? And how intense is the colour: how far can you see through it?",
+    "Whites run from lemon-green through lemon and gold to amber and brown.",
+    "Reds run from purple through ruby and garnet to tawny and brown. An orange-tinged rim in a red often signals development in bottle."
+   ]
+  },
+  "oneterm": {
+   "kicker": "Golden rule",
+   "title": "One term per line",
+   "items": [
+    "Hesitating between two terms? **Choose one**",
+    "A range such as *ruby to garnet* **scores nothing**",
+    "Keep interpretations for later, and **check them** on the nose and palate"
+   ],
+   "say": [
+    "One rule applies throughout the note: when you hesitate between two neighbouring terms, choose one.",
+    "A range, like ruby to garnet, does not earn the mark, even if the right answer is inside it.",
+    "And keep interpretations for later: a deep colour in a white may point to age, oak or a warm climate. Check it on the nose and palate."
+   ]
+  },
+  "c3": {
+   "title": "Nose",
+   "sub": "Condition, intensity, characteristics, development",
+   "say": [
+    "Chapter three. The nose."
+   ]
+  },
+  "nose": {
+   "kicker": "Nose",
+   "title": "Four lines, in order",
+   "cards": [
+    [
+     "Condition",
+     "Clean or unclean"
+    ],
+    [
+     "Intensity",
+     "How easily aromas reach you"
+    ],
+    [
+     "Characteristics",
+     "Specific descriptors"
+    ],
+    [
+     "Development",
+     "Youthful to fully developed"
+    ]
+   ],
+   "say": [
+    "Swirl, then take a short sniff to check condition: clean, or faulty, like the damp cardboard of cork taint.",
+    "Then intensity: do the aromas reach you as soon as you lift the glass, or do you have to search?",
+    "Then the aroma characteristics. This is where your descriptive range earns marks.",
+    "Finally development: tertiary notes mean developing or fully developed; none usually means youthful."
+   ]
+  },
+  "families": {
+   "kicker": "Aroma families",
+   "title": "Work through the families in order",
+   "cols": [
+    {
+     "tone": "neutral",
+     "chip": "Primary",
+     "title": "Grape and fermentation",
+     "items": [
+      "Floral, green fruit, citrus",
+      "Stone, tropical, red, black fruit",
+      "Herbaceous, herbal, spice"
+     ]
+    },
+    {
+     "tone": "neutral",
+     "chip": "Secondary",
+     "title": "Winemaking",
+     "items": [
+      "Yeast: bread, biscuit",
+      "Malolactic: butter, cream",
+      "Oak: vanilla, toast, cedar, smoke"
+     ]
+    },
+    {
+     "tone": "neutral",
+     "chip": "Tertiary",
+     "title": "Ageing",
+     "items": [
+      "Whites: honey, nuts, petrol",
+      "Reds: leather, earth, mushroom",
+      "Oxidised: toffee, coffee, walnut"
+     ]
+    }
+   ],
+   "foot": "Specific beats generic: **blackcurrant** > black fruit, **toast** > oak.",
+   "say": [
+    "Move through the aroma families in a fixed order. Primary first, from the grape and fermentation: floral, fruit of every kind, herbaceous and spice.",
+    "Secondary, from winemaking: bread and biscuit from yeast, butter from malolactic, vanilla, toast and smoke from oak.",
+    "Tertiary, from ageing: honey and nuts in whites, leather, earth and mushroom in reds. And be specific: blackcurrant earns more than black fruit, toast more than oak."
+   ]
+  },
+  "c4": {
+   "title": "Palate",
+   "sub": "Structure first, flavour second",
+   "say": [
+    "Chapter four. The palate."
+   ]
+  },
+  "palate": {
+   "kicker": "Palate",
+   "title": "Measure the structure, one at a time",
+   "cards": [
+    [
+     "Sweetness",
+     "Tip of the tongue"
+    ],
+    [
+     "Acidity",
+     "How much the mouth waters"
+    ],
+    [
+     "Tannin",
+     "Drying on the gums"
+    ],
+    [
+     "Alcohol",
+     "Warmth in the throat"
+    ],
+    [
+     "Body",
+     "Overall weight"
+    ]
+   ],
+   "say": [
+    "On the palate you are measuring. Sweetness is felt at the tip of the tongue; careful, ripe fruit and alcohol can feel sweet in a dry wine.",
+    "Acidity makes your mouth water: notice how much saliva gathers after spitting.",
+    "Tannin is a texture: it dries and grips the gums.",
+    "Alcohol is warmth at the back of the throat.",
+    "Body is the overall weight. Don't judge it from flavour intensity: an aromatic wine can still be light."
+   ]
+  },
+  "medium": {
+   "kicker": "Level 3 scales",
+   "title": "Medium is split in three",
+   "scales": [
+    [
+     "Acidity",
+     [
+      "low",
+      "medium(-)",
+      "medium",
+      "medium(+)",
+      "high"
+     ],
+     3
+    ],
+    [
+     "Tannin",
+     [
+      "low",
+      "medium(-)",
+      "medium",
+      "medium(+)",
+      "high"
+     ],
+     1
+    ]
+   ],
+   "foot": "Only the medium band is split, because most wines fall there.",
+   "say": [
+    "At Level 3, many scales are refined by splitting medium into medium minus, medium and medium plus.",
+    "Only the medium band is split, because that is where most wines fall. It is not five equal parts."
+   ]
+  },
+  "finish": {
+   "kicker": "Flavour and finish",
+   "title": "Back to flavour",
+   "items": [
+    "Flavour intensity and characteristics usually **echo the nose**",
+    "Note any **new families** that appear only in the mouth",
+    "**Finish** = pleasant flavours after spitting, not alcohol heat"
+   ],
+   "say": [
+    "Then return to flavour: intensity and characteristics usually echo the nose, a useful cross-check.",
+    "But some notes, like spice or bitterness, only appear in the mouth.",
+    "The finish is how long the pleasant flavours last after spitting, not alcohol heat or tannin dryness. Count slowly in your head."
+   ]
+  },
+  "c5": {
+   "title": "Conclusions",
+   "sub": "Quality and readiness for drinking, with evidence",
+   "say": [
+    "Chapter five. Conclusions."
+   ]
+  },
+  "quality": {
+   "kicker": "Quality",
+   "title": "Justify it with four features",
+   "cards": [
+    [
+     "Balance",
+     "Fruit, acid, tannin, alcohol in harmony"
+    ],
+    [
+     "Length",
+     "A long finish"
+    ],
+    [
+     "Intensity",
+     "Pronounced, not diluted"
+    ],
+    [
+     "Complexity",
+     "Several layers and families"
+    ]
+   ],
+   "items": [
+    "All four clearly present: likely **very good** or **outstanding**",
+    "Balance but limited intensity and a short finish: more likely **acceptable** or **good**"
+   ],
+   "say": [
+    "Conclusions use only the listed terms, and must follow from your description. For quality, weigh four features. Balance.",
+    "Length.",
+    "Intensity.",
+    "Complexity.",
+    "All four clearly present suggests very good or outstanding; balance with limited intensity and a short finish suggests acceptable or good. Name each feature and tie it to your note."
+   ]
+  },
+  "readiness": {
+   "kicker": "Readiness for drinking",
+   "title": "Will it improve?",
+   "items": [
+    "Primary fruit, firm structure, long finish: **can drink now, has potential for ageing**",
+    "Tertiary notes, fruit starting to fade: **drink now, not suitable for ageing**",
+    "Simple, light and short: **made to be drunk young**"
+   ],
+   "say": [
+    "Readiness asks whether the wine will improve. Mainly primary fruit, firm structure and a long finish: it can drink now but has potential for ageing.",
+    "Tertiary notes and fading fruit: drink now, not suitable for ageing.",
+    "Simple, light and short: made to be drunk young. Be consistent: the examiner should be able to predict your conclusion from your description."
+   ]
+  },
+  "examples": {
+   "kicker": "Two worked examples",
+   "title": "The conclusion quotes the description",
+   "cols": [
+    {
+     "tone": "cool",
+     "chip": "Young, cool-climate white",
+     "title": "Very good",
+     "items": [
+      "Pale lemon-green; lime, green apple, white flowers",
+      "High acidity, light body, medium(+) finish",
+      "Can drink now, has potential for ageing"
+     ]
+    },
+    {
+     "tone": "warm",
+     "chip": "Mature, warm-climate red",
+     "title": "Outstanding",
+     "items": [
+      "Medium garnet; dried cherry, leather, tobacco, cedar",
+      "Ripe soft tannins, full body, long finish",
+      "Drink now, not suitable for further ageing"
+     ]
+    }
+   ],
+   "say": [
+    "A young, cool-climate white: pale lemon-green, lime and green apple, high acidity, light body. Very good, and it has potential for ageing, because acidity and concentrated fruit will carry it.",
+    "A mature, warm-climate red: garnet, dried cherry, leather and cedar, soft tannins, long finish. Outstanding, but drink now: the fruit is drying. Each conclusion quotes the description."
+   ]
+  },
+  "c6": {
+   "title": "Exam day",
+   "sub": "Pacing, mistakes and a four-week plan",
+   "say": [
+    "Chapter six. Exam day."
+   ]
+  },
+  "pacing": {
+   "kicker": "Pacing two wines",
+   "title": "Work to a plan",
+   "items": [
+    "Look at the **appearance of both wines** first",
+    "Complete **wine one** fully: nose, palate, conclusions",
+    "Then **wine two**, returning briefly to the nose",
+    "**Final check**: one term per line, no ranges, conclusions that match"
+   ],
+   "say": [
+    "Work to a plan. Look at the appearance of both wines first.",
+    "Then complete wine one fully.",
+    "Then wine two; a quick return to the nose may reveal extra aromas.",
+    "Keep a few minutes to check: one term per line, no ranges, conclusions that match."
+   ]
+  },
+  "mistakes": {
+   "kicker": "Avoid these",
+   "title": "Mistakes that cost marks",
+   "head": [
+    "Mistake",
+    "Better habit"
+   ],
+   "rows": [
+    [
+     "A range between two terms",
+     "Commit to the nearer term"
+    ],
+    [
+     "Five descriptors from one family",
+     "Move through primary, secondary, tertiary"
+    ],
+    [
+     "Generic words: fruity, oaky",
+     "Name it: blackberry, vanilla, toast"
+    ],
+    [
+     "Alcohol warmth read as a long finish",
+     "Count only pleasant flavours"
+    ]
+   ],
+   "say": [
+    "The costly mistakes. A range between two terms: commit to one. Five descriptors from one family: use all three families.",
+    "Generic words like fruity: name the fruit. And alcohol warmth mistaken for a long finish: count only pleasant flavours."
+   ]
+  },
+  "plan": {
+   "kicker": "Four weeks",
+   "title": "Make the method automatic",
+   "head": [
+    "Week",
+    "Focus",
+    "What to do"
+   ],
+   "rows": [
+    [
+     "1",
+     "Routine and appearance",
+     "Same glass, pour and order; note appearance and nose of every wine"
+    ],
+    [
+     "2",
+     "Structure",
+     "Kitchen exercises; two contrasting wines side by side"
+    ],
+    [
+     "3",
+     "Descriptors",
+     "Work through the families; aim for specific words"
+    ],
+    [
+     "4",
+     "Full notes, timed",
+     "Two wines blind, full notes, then review for consistency"
+    ]
+   ],
+   "say": [
+    "A four-week plan. Week one: routine and appearance. Week two: structure, with two contrasting wines side by side.",
+    "Week three: descriptors. Week four: two wines blind, timed, then reread your notes with a red pen."
+   ]
+  },
+  "q1": {
+   "kicker": "Question 1",
+   "title": "You hesitate between ruby and garnet. You write…",
+   "options": [
+    "ruby to garnet",
+    "ruby-garnet",
+    "the closer single term"
+   ],
+   "expl": "Choose **one term**: a range or a combination scores no mark.",
+   "say": [
+    "Quick check. You hesitate between ruby and garnet. What do you write?",
+    "The closer single term. A range scores no mark."
+   ]
+  },
+  "q2": {
+   "kicker": "Question 2",
+   "title": "The finish is…",
+   "options": [
+    "the alcohol burn after spitting",
+    "how long pleasant flavours last after spitting",
+    "the dryness of the tannins"
+   ],
+   "expl": "Length is about **pleasant flavours**, not heat or dryness.",
+   "say": [
+    "Question two. What is the finish?",
+    "How long the pleasant flavours last after spitting. Not heat, not dryness."
+   ]
+  },
+  "end": {
+   "kicker": "Your turn",
+   "title": "Practise the theory behind the SAT",
+   "sub": "Questions with explanations on the theory behind the SAT.",
+   "say": [
+    "Now it's your turn. Practise free on thewinegoat.com, with questions and explanations on the theory behind the SAT. Good luck with your exam!"
+   ]
+  }
+ }
+}

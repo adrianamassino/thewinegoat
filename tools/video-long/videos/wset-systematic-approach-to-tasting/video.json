@@ -1,0 +1,147 @@
+{
+ "id": "wset-systematic-approach-to-tasting",
+ "guides": [
+  "wset-systematic-approach-to-tasting",
+  "how-to-pass-wset-level-3"
+ ],
+ "course": "Level 3",
+ "accent": "#6b2d5c",
+ "music": "sake",
+ "sources": [
+  "wset-systematic-approach-to-tasting and how-to-pass-wset-level-3 guide pages (all languages)"
+ ],
+ "thumb": {
+  "photo": "cheesecake-with-white-and-red-wine",
+  "goat": "goat-detective-with-magnifying-glass-and-red-wine",
+  "goatCss": "right:300px;bottom:0;height:430px"
+ },
+ "scenes": [
+  {
+   "id": "intro",
+   "kind": "title",
+   "goat": "goat-detective-with-magnifying-glass-and-red-wine"
+  },
+  {
+   "id": "method",
+   "kind": "steps",
+   "reveal": true
+  },
+  {
+   "id": "c1",
+   "kind": "chapter",
+   "n": 1
+  },
+  {
+   "id": "conditions",
+   "kind": "bullets",
+   "photo": "wine-glass-on-vineyard-post"
+  },
+  {
+   "id": "c2",
+   "kind": "chapter",
+   "n": 2
+  },
+  {
+   "id": "appearance",
+   "kind": "scales",
+   "lead": 1
+  },
+  {
+   "id": "oneterm",
+   "kind": "bullets"
+  },
+  {
+   "id": "c3",
+   "kind": "chapter",
+   "n": 3
+  },
+  {
+   "id": "nose",
+   "kind": "steps",
+   "follow": true
+  },
+  {
+   "id": "families",
+   "kind": "compare"
+  },
+  {
+   "id": "c4",
+   "kind": "chapter",
+   "n": 4
+  },
+  {
+   "id": "palate",
+   "kind": "steps",
+   "follow": true
+  },
+  {
+   "id": "medium",
+   "kind": "scales"
+  },
+  {
+   "id": "finish",
+   "kind": "bullets"
+  },
+  {
+   "id": "c5",
+   "kind": "chapter",
+   "n": 5
+  },
+  {
+   "id": "quality",
+   "kind": "steps",
+   "follow": true,
+   "onby": [
+    0,
+    1,
+    2,
+    3,
+    -1
+   ],
+   "itemsAt": 4
+  },
+  {
+   "id": "readiness",
+   "kind": "bullets"
+  },
+  {
+   "id": "examples",
+   "kind": "compare"
+  },
+  {
+   "id": "c6",
+   "kind": "chapter",
+   "n": 6
+  },
+  {
+   "id": "pacing",
+   "kind": "bullets",
+   "numbered": true
+  },
+  {
+   "id": "mistakes",
+   "kind": "table",
+   "per": 2
+  },
+  {
+   "id": "plan",
+   "kind": "table",
+   "per": 2
+  },
+  {
+   "id": "q1",
+   "kind": "quiz",
+   "answer": 2
+  },
+  {
+   "id": "q2",
+   "kind": "quiz",
+   "answer": 1
+  },
+  {
+   "id": "end",
+   "kind": "end",
+   "goat": "goat-winking-with-glass-of-red-wine"
+  }
+ ]
+}
