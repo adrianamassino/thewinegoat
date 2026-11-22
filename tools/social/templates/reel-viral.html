@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<!-- base href + window.REEL are injected by tools/social/build.js -->
+<!--BASE-->
+<link rel="stylesheet" href="tools/social/templates/base.css">
+<style>
+html,body{width:1080px;height:1920px;overflow:hidden;background:#fbf7f1}
+#cv{width:1080px;height:1920px;position:relative;overflow:hidden;color:#2a1b20;--acc:#8c1d40;--acc-ink:#fff;--grad:radial-gradient(120% 140% at 0% 0%,#a3264f 0%,#7a1838 50%,#3e0f22 100%)}
+#cv.c-spirits{--acc:#9a5f1e}#cv.c-sake{--acc:#3b3f8f}#cv.c-beer{--acc:#d4a23a;--acc-ink:#2a1b20}
+#bg{position:absolute;inset:0;background:linear-gradient(180deg,#fdfaf6 0%,#fbf7f1 55%,#f3ebe1 100%)}
+#glow{position:absolute;width:1000px;height:1000px;border-radius:50%;background:radial-gradient(circle,rgba(246,205,216,.85) 0%,rgba(249,223,230,0) 65%)}
+#glow2{position:absolute;width:900px;height:900px;border-radius:50%;background:radial-gradient(circle,rgba(251,232,200,.9) 0%,rgba(251,239,217,0) 65%)}
+#band{position:absolute;left:0;right:0;bottom:0;height:300px;background:var(--grad)}
+#acc{position:absolute;left:0;right:0;top:0;height:14px;background:var(--acc);z-index:6}
+.rbrand{position:absolute;top:262px;left:0;right:0;display:flex;justify-content:center;align-items:center;gap:16px;z-index:5}
+.rbrand img.em{width:60px;height:60px;border-radius:50%;background:#fff;box-shadow:0 0 0 2px rgba(140,29,64,.25)}
+.rbrand img.wm{height:48px}
+#rbadge{position:absolute;top:352px;left:50%;transform:translateX(-50%);z-index:5;background:var(--acc);color:var(--acc-ink);font:800 24px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:13px 20px;border-radius:999px;white-space:nowrap}
+#prog{position:absolute;top:414px;left:160px;right:160px;height:6px;border-radius:3px;background:rgba(140,29,64,.12);z-index:5}
+#prog i{display:block;height:100%;width:0;border-radius:3px;background:var(--grad)}
+.scene{position:absolute;left:90px;right:90px;top:470px;height:960px;display:flex;flex-direction:column;align-items:center;text-align:center;opacity:0}
+.scene .kicker{font-size:30px;margin-bottom:20px;color:#8c1d40}
+.scene .rt{font:800 100px/1.02 var(--serif);color:#6e1532;letter-spacing:-.01em}
+.scene .rt em{font-style:italic;font-weight:600;color:#8c1d40}
+.scene .rtag{display:inline-block;margin-top:22px;font:800 24px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:12px 18px;border-radius:999px;background:#f6e3e8;color:#8c1d40}
+.scene .lines{margin-top:38px;display:flex;flex-direction:column;gap:18px;width:100%}
+.scene .ln{font:600 40px/1.25 var(--sans);background:#fff;border:2px solid #eadfd4;border-left:10px solid #8c1d40;border-radius:22px;padding:22px 28px;opacity:0;text-align:left;box-shadow:0 10px 24px rgba(110,21,50,.07)}
+.scene .ln b{color:#8c1d40}
+.scene .vis{margin-top:30px}
+.rgoat,.rart{position:absolute;left:50%;z-index:2;filter:drop-shadow(0 18px 26px rgba(110,21,50,.18));opacity:0}
+#cap{position:absolute;left:80px;right:80px;top:1440px;min-height:120px;display:flex;align-items:center;justify-content:center;z-index:6}
+#cap span{display:inline-block;background:rgba(42,27,32,.86);color:#fff;font:700 38px/1.3 var(--sans);padding:16px 26px;border-radius:18px;text-align:center;max-width:920px}
+
+/* background families (same as feed v2): dark ones get light text */
+#cv.bg-burgundy #bg{background:radial-gradient(120% 70% at 100% 80%,#9c2a50 0%,#6e1532 40%,#3e0f22 80%,#2a0816 100%)}
+#cv.bg-wine #bg{background:radial-gradient(120% 70% at 100% 80%,#2f6b54 0%,#1d4a39 40%,#123326 80%,#0b2219 100%)}
+#cv.bg-spirits #bg{background:radial-gradient(120% 70% at 100% 80%,#7d4e27 0%,#53321a 40%,#36200f 80%,#24150a 100%)}
+#cv.bg-sake #bg{background:radial-gradient(120% 70% at 100% 80%,#4a50b0 0%,#2f337f 40%,#1e2158 80%,#13153a 100%)}
+#cv.bg-beer #bg{background:radial-gradient(120% 70% at 100% 80%,#c28a1c 0%,#8a5a0e 42%,#5e3b07 80%,#452b05 100%)}
+#cv.dk #glow,#cv.dk #glow2{opacity:.12}
+#cv.dk .scene .rt{color:#fff}
+#cv.dk .scene .rt em{color:#f3d58c}
+#cv.dk .scene .kicker{color:#f3d58c}
+#cv.dk .scene .rtag{background:rgba(255,255,255,.14);color:#f3d58c}
+#cv.dk .scene .ln{border-color:rgba(255,255,255,.2);border-left-color:#f3d58c;box-shadow:0 10px 24px rgba(0,0,0,.25)}
+#cv.dk #prog{background:rgba(255,255,255,.18)}
+#cv.dk #prog i{background:#f3d58c}
+#cv.dk #rbadge{box-shadow:0 0 0 3px rgba(255,255,255,.9)}
+#cv.dk .rbrand img.em{box-shadow:0 0 0 2px rgba(255,255,255,.6)}
+#cv.dk .rart{filter:drop-shadow(0 0 2px rgba(255,255,255,.95)) drop-shadow(0 0 16px rgba(255,255,255,.3))}
+#cv.dk .rgoat{filter:drop-shadow(0 18px 26px rgba(0,0,0,.4))}
+#cv.dk #band{opacity:.55}
+#cv.dk #cap span{background:rgba(255,255,255,.95);color:#2a1b20}
+
+/* photo scenes: real photo across the top, fading into a solid panel; slow Ken Burns zoom */
+#cv{--fade:#fbf7f1;--fade2:#f3ebe1}
+#cv.bg-burgundy{--fade:#3a0d20;--fade2:#6e1532}#cv.bg-wine{--fade:#10301f;--fade2:#1d4a39}#cv.bg-spirits{--fade:#2e1b0d;--fade2:#53321a}#cv.bg-sake{--fade:#1a1d50;--fade2:#2f337f}#cv.bg-beer{--fade:#4a2f06;--fade2:#8a5a0e}
+.rph{position:absolute;inset:0;z-index:1;opacity:0;background:linear-gradient(180deg,var(--fade) 0%,var(--fade) 62%,var(--fade2) 100%)}
+.rph .im{position:absolute;left:0;right:0;top:0;overflow:hidden}
+.rph .im img{width:100%;height:100%;object-fit:cover;display:block;transform-origin:50% 40%}
+.rph .im::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.08) 26%,rgba(0,0,0,0) 45%,color-mix(in srgb,var(--fade) 55%,transparent) 76%,var(--fade) 100%)}
+.scene{z-index:3}
+.scene.withph{justify-content:flex-start}
+/* brand always on a cream pill so it reads on photos and dark backgrounds alike */
+.rbrand{left:50%;right:auto;transform:translateX(-50%);background:rgba(251,247,241,.96);padding:8px 22px 8px 8px;border-radius:999px;box-shadow:0 6px 18px rgba(0,0,0,.16)}
+#cv.dk .rbrand img.em{box-shadow:0 0 0 2px rgba(140,29,64,.25)}
+#cv.photo-on #prog{background:rgba(255,255,255,.35)}
+#rbadge{box-shadow:0 0 0 3px rgba(255,255,255,.9),0 6px 18px rgba(0,0,0,.16)}
+/* painterly drawings: soft shadow only, no sticker glow */
+.rart{filter:drop-shadow(0 16px 22px rgba(42,12,25,.12))}
+#cv.dk .rart{filter:drop-shadow(0 20px 26px rgba(0,0,0,.35))}
+/* months bars (Spanish ageing terms) */
+.agebar{width:900px;margin:0 auto;text-align:left}
+.agebar .tr{position:relative;height:84px;border-radius:18px;background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.25);overflow:hidden}
+.agebar .tot{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,#f3d58c,#e2b552);border-radius:16px}
+.agebar .oak{position:absolute;left:0;top:0;bottom:0;background:repeating-linear-gradient(90deg,#7a4a22 0 14px,#8e5a2c 14px 28px);border-radius:16px 0 0 16px;box-shadow:inset -3px 0 0 rgba(0,0,0,.25)}
+.agebar .lab{display:flex;justify-content:space-between;margin-top:14px;font:700 30px/1.2 var(--sans);color:rgba(255,255,255,.9)}
+.agebar .lab b{color:#f3d58c}
+.agebar .lab i{font-style:normal;display:inline-flex;align-items:center;gap:10px}
+.agebar .lab i::before{content:"";width:24px;height:24px;border-radius:6px;background:repeating-linear-gradient(90deg,#7a4a22 0 6px,#8e5a2c 6px 12px)}
+.agebar .sc{position:relative;height:36px;margin-top:6px;font:700 24px/1 var(--sans);color:rgba(255,255,255,.65)}
+.agebar .sc span{position:absolute;transform:translateX(-50%)}
+
+/* ---- viral template (batch 03): instant hook, punch-in titles, timed lines, countdown, pop reveal, end card ---- */
+.scene .rt{text-wrap:balance}
+.scene.hook .rt{font-size:128px;line-height:.98}
+.scene .sub2{margin-top:22px;font:600 italic 46px/1.2 var(--serif);color:#5c4a50;text-wrap:balance;max-width:900px}
+#cv.dk .scene .sub2{color:rgba(255,255,255,.88)}
+.scene .ln.big{font:800 54px/1.15 var(--serif);text-align:center;border-left-width:2px}
+.scene .ln.good{border-left-color:#2f7d4f}
+.scene .ln.bad{border-left-color:#b3263e}
+.scene .ln .tagx{display:inline-block;font:800 26px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;padding:8px 12px;border-radius:10px;margin-right:14px;vertical-align:4px}
+.scene .ln .tagx.ok{background:#e3f1e8;color:#1f6b3d}.scene .ln .tagx.no{background:#fbe3e7;color:#a3203a}.scene .ln .tagx.n{background:#f6e3e8;color:#8c1d40}
+.timer{position:absolute;left:50%;width:220px;height:220px;margin-left:-110px;z-index:4;opacity:0}
+.timer svg{position:absolute;inset:0}
+.timer b{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:800 120px/1 var(--serif);color:#8c1d40}
+.timer i{position:absolute;left:-200px;right:-200px;top:232px;text-align:center;font:800 30px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:#8c1d40;font-style:normal}
+#cv.dk .timer b,#cv.dk .timer i{color:#f3d58c}
+.pop{position:absolute;left:90px;right:90px;z-index:5;display:flex;justify-content:center;opacity:0}
+.pop > div{background:var(--grad);color:#fff;border-radius:34px;padding:30px 44px;text-align:center;box-shadow:0 24px 60px rgba(62,15,34,.35);font:800 96px/1 var(--serif);border:5px solid #f3d58c}
+.pop > div small{display:block;font:800 28px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:#f3d58c;margin-bottom:14px}
+.pop > div em{font-style:italic;font-weight:600;color:#f3d58c}
+.pop > div span{display:block;font:600 36px/1.25 var(--sans);margin-top:14px;color:rgba(255,255,255,.92)}
+#cv.dk .pop > div{background:#fbf7f1;color:#6e1532}
+#cv.dk .pop > div small{color:#8c1d40}#cv.dk .pop > div em{color:#8c1d40}#cv.dk .pop > div span{color:#2a1b20}
+#cv .pop.green > div{background:linear-gradient(160deg,#2f7d4f,#1d5234);border-color:#bfe3cc}
+#cv .pop.red > div{background:linear-gradient(160deg,#b3263e,#7a1430);border-color:#f6c0cb}
+#cv .pop.green > div,#cv .pop.red > div{color:#fff}
+#cv .pop.green > div small,#cv .pop.red > div small{color:#fff;opacity:.85}
+#cv .pop.green > div span,#cv .pop.red > div span{color:rgba(255,255,255,.95)}
+#cap span{font-size:40px}
+#cv.bg-wine #band,#cv.bg-spirits #band,#cv.bg-sake #band,#cv.bg-beer #band{display:none}
+</style>
+</head><body>
+<div id="cv">
+  <div id="bg"></div><div id="glow"></div><div id="glow2"></div><div id="band"></div><div id="phl"></div><div id="acc"></div>
+  <div class="rbrand"><img class="em" src="img/logo-emblem.webp" alt=""><img class="wm" src="img/wordmark.webp" alt=""></div><div id="rbadge"></div>
+  <div id="prog"><i></i></div>
+  <div id="scenes"></div>
+  <div id="cap"><span></span></div>
+</div>
+<script>
+// Deterministic animation: window.render(t) draws the frame at time t (seconds).
+// Viral template: scene 0 is fully visible at t=0 (hook in the first frame); titles punch in; lines can carry their
+// own times ({html, at, cls}); optional countdown (s.timer = {at, n, top, label}); optional pop reveal
+// (s.pop = {at, html, top, tone}); per-scene caption beats (s.caps = [[t, text], ...]).
+const R = window.REEL;
+const cvEl = document.getElementById('cv');
+cvEl.classList.add('c-' + R.course);
+if (R.bgc && R.bgc !== 'cream') { cvEl.classList.add('bg-' + R.bgc, 'dk'); }
+document.getElementById('rbadge').textContent = R.badge;
+const ease = (x) => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
+const back = (x) => { if (x <= 0) return 0; if (x >= 1) return 1; const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
+const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+const host = document.getElementById('scenes');
+const sceneEls = R.scenes.map((s, i) => {
+  const d = document.createElement('div');
+  d.className = 'scene' + (s.photo ? ' withph' : '') + (s.hook ? ' hook' : '');
+  if (s.top) d.style.top = s.top + 'px';
+  let ph = null;
+  if (s.photo) {
+    const H = s.photo.h || 1000;
+    d.style.top = (s.photo.textTop || H - 110) + 'px';
+    ph = document.createElement('div');
+    ph.className = 'rph';
+    ph.innerHTML = `<div class="im" style="height:${H}px"><img src="${s.photo.src}" alt="" style="object-position:${s.photo.pos || 'center'}"></div>`;
+    document.getElementById('phl').appendChild(ph);
+  }
+  const L = (s.lines || []).map((l) => (typeof l === 'string' ? { html: l } : l));
+  d.innerHTML = `${s.kicker ? `<div class="kicker">${s.kicker}</div>` : ''}<div class="rt" style="${s.titleSize ? `font-size:${s.titleSize}px` : ''}">${s.title}</div>${s.sub ? `<div class="sub2">${s.sub}</div>` : ''}${s.tag ? `<div><span class="rtag">${s.tag}</span></div>` : ''}<div class="lines">${L.map((l) => `<div class="ln ${l.cls || ''}">${l.html}</div>`).join('')}</div>${s.vis ? `<div class="vis">${s.vis}</div>` : ''}`;
+  host.appendChild(d);
+  let g = null;
+  if (s.art) {
+    g = document.createElement('div');
+    g.className = 'rart'; g.innerHTML = s.art.svg;
+    g.style.top = (s.art.top || 1000) + 'px';
+    cvEl.appendChild(g);
+  } else if (s.goat) {
+    g = document.createElement('img');
+    g.className = 'rgoat'; g.src = s.goat.src;
+    g.style.height = (s.goat.h || 420) + 'px';
+    g.style.top = (s.goat.top || 980) + 'px';
+    cvEl.appendChild(g);
+  }
+  let tm = null;
+  if (s.timer) {
+    tm = document.createElement('div');
+    tm.className = 'timer';
+    tm.style.top = (s.timer.top || 1180) + 'px';
+    tm.innerHTML = `<svg viewBox="0 0 220 220"><circle cx="110" cy="110" r="96" fill="none" stroke="currentColor" stroke-opacity=".15" stroke-width="14"/><circle class="arc" cx="110" cy="110" r="96" fill="none" stroke="#d4a23a" stroke-width="14" stroke-linecap="round" transform="rotate(-90 110 110)" stroke-dasharray="603.2" stroke-dashoffset="0"/></svg><b></b><i>${s.timer.label || 'Pause and guess'}</i>`;
+    cvEl.appendChild(tm);
+  }
+  let pp = null;
+  if (s.pop) {
+    pp = document.createElement('div');
+    pp.className = 'pop ' + (s.pop.tone || '');
+    pp.style.top = (s.pop.top || 1100) + 'px';
+    pp.innerHTML = `<div>${s.pop.html}</div>`;
+    cvEl.appendChild(pp);
+  }
+  return { d, g, ph, tm, pp, L, lines: [...d.querySelectorAll('.ln')], rt: d.querySelector('.rt') };
+});
+const total = R.scenes[R.scenes.length - 1].end;
+const cap = document.querySelector('#cap span');
+
+window.render = (t) => {
+  const gl = document.getElementById('glow');
+  gl.style.left = (90 + Math.sin(t * 0.35) * 120) + 'px';
+  gl.style.top = (300 + Math.cos(t * 0.28) * 160) + 'px';
+  const g2 = document.getElementById('glow2');
+  g2.style.left = (300 + Math.cos(t * 0.31) * 140) + 'px';
+  g2.style.top = (900 + Math.sin(t * 0.25) * 140) + 'px';
+  document.querySelector('#prog i').style.width = (clamp(t / total, 0, 1) * 100) + '%';
+  let capText = '';
+  let photoOn = false;
+  R.scenes.forEach((s, i) => {
+    const { d, g, ph, tm, pp, L, lines, rt } = sceneEls[i];
+    const fin = 0.3, fout = 0.22;
+    const local = t - s.start, dur = s.end - s.start;
+    const last = i === R.scenes.length - 1;
+    let a = 0;
+    if (local >= 0 && local <= dur + (last ? 1 : 0)) {
+      a = Math.min(i === 0 ? 1 : ease(local / fin), last ? 1 : ease((dur - local) / fout));
+    }
+    d.style.opacity = a;
+    if (ph) {
+      let pa = 0;
+      if (local >= -0.2 && local <= dur + 0.2) pa = Math.min(i === 0 ? 1 : ease((local + 0.2) / 0.4), last ? 1 : ease((dur - local + 0.2) / 0.4));
+      ph.style.opacity = pa;
+      const z = 1.0 + 0.08 * clamp(local / Math.max(dur, 0.1), 0, 1);
+      ph.querySelector('img').style.transform = `scale(${z.toFixed(4)})`;
+      if (pa > 0.5) photoOn = true;
+    }
+    // punch-in on the title (not on the very first frame, which must be still and readable)
+    const pin = i === 0 ? 1 : back(clamp(local / 0.35, 0, 1));
+    rt.style.transform = `scale(${(0.9 + 0.1 * pin).toFixed(4)})`;
+    d.style.transform = `translateY(${(1 - a) * 30}px)`;
+    lines.forEach((ln, j) => {
+      const st = L[j].at != null ? L[j].at : 0.35 + j * (s.lineGap || 0.45);
+      const la = ease((local - st) / 0.28);
+      ln.style.opacity = Math.min(la, a);
+      ln.style.transform = `translateX(${(1 - la) * 60}px) scale(${(0.96 + 0.04 * back(clamp((local - st) / 0.3, 0, 1))).toFixed(4)})`;
+    });
+    if (g) {
+      const at = s.art && s.art.at != null ? s.art.at : (s.goat && s.goat.at != null ? s.goat.at : 0.1);
+      const ga = Math.min(a, ease((local - at) / 0.4));
+      const bob = Math.sin((t + i) * 2.0) * 8;
+      const rot = Math.sin((t + i) * 1.3) * 1.4;
+      const sc = 0.92 + 0.08 * back(clamp((local - at) / 0.45, 0, 1)) + Math.sin(t * 0.9) * 0.006;
+      g.style.opacity = i === 0 && local <= 0.001 ? 1 : ga;
+      g.style.transform = `translateX(-50%) translateY(${bob + (1 - ga) * 50}px) rotate(${rot}deg) scale(${(i === 0 && local <= 0.001 ? 1 : sc).toFixed(4)})`;
+    }
+    if (tm) {
+      const T = s.timer, n = T.n || 3, lt = local - T.at;
+      const on = lt >= 0 && lt < n + 0.15 && local <= dur;
+      tm.style.opacity = on ? Math.min(1, ease(lt / 0.2), a) : 0;
+      if (on) {
+        const k = Math.min(n, Math.max(1, n - Math.floor(lt)));
+        tm.querySelector('b').textContent = k;
+        tm.querySelector('.arc').setAttribute('stroke-dashoffset', (603.2 * clamp(lt / n, 0, 1)).toFixed(1));
+        const pulse = 1 + 0.08 * Math.max(0, 1 - (lt % 1) / 0.25);
+        tm.style.transform = `scale(${pulse.toFixed(4)})`;
+      }
+    }
+    if (pp) {
+      const lt = local - s.pop.at;
+      const on = lt >= 0 && (local <= dur || last);
+      const pa = on ? Math.min(a, ease(lt / 0.12)) : 0;
+      pp.style.opacity = pa;
+      const sc = on ? 1.5 - 0.5 * back(clamp(lt / 0.32, 0, 1)) : 1.5;
+      pp.style.transform = `scale(${sc.toFixed(4)}) rotate(${on ? (-2 * (1 - clamp(lt / 0.32, 0, 1))).toFixed(2) : 0}deg)`;
+    }
+    if (local >= 0 && (local < dur || (last && local <= dur + 1))) {
+      capText = s.caption || '';
+      if (s.caps) s.caps.forEach(([ct, tx]) => { if (local >= ct) capText = tx; });
+    }
+  });
+  cvEl.classList.toggle('photo-on', photoOn);
+  cap.textContent = capText;
+  cap.style.display = capText ? 'inline-block' : 'none';
+};
+window.reelReady = Promise.all([document.fonts.ready, ...[...document.images].map((im) => im.decode().catch(() => {}))]);
+</script>
+</body></html>

@@ -97,7 +97,9 @@ function flute(w = 120) {
 // meniscus, soft window reflections, a thick stem with glass edges and a wine-tinted caustic shadow.
 function glassPhoto(w = 260, kind = 'white') {
   const C = { white: ['#c9a93c', '#ecd97e', '#fbf3c4'], pale: ['#cdb24a', '#efe09a', '#fcf6d4'], gold: ['#b07a14', '#e0a838', '#f9d888'], red: ['#2a0410', '#5e0c24', '#9a2442'],
-    pink: ['#c45a72', '#ee9aac', '#fbd6de'], sherry: ['#c8ac4a', '#eedc94', '#fbf4cf'], amber: ['#7a3a08', '#c07224', '#eaa654'], brown: ['#3a1404', '#6e2e0c', '#a8581e'], dark: ['#0e0302', '#260904', '#4e1608'] }[kind] || ['#c9a93c', '#ecd97e', '#fbf3c4'];
+    pink: ['#c45a72', '#ee9aac', '#fbd6de'], sherry: ['#c8ac4a', '#eedc94', '#fbf4cf'], amber: ['#7a3a08', '#c07224', '#eaa654'], brown: ['#3a1404', '#6e2e0c', '#a8581e'], dark: ['#0e0302', '#260904', '#4e1608'],
+    lightred: ['#5a0a1c', '#962038', '#c8485e'], deepred: ['#14020a', '#3a0616', '#6a0f2a'], ruby: ['#3c0612', '#7c0f28', '#b8284a'],
+    tawny: ['#5a2008', '#9a4a1a', '#d08a48'], oxidised: ['#8a4a0c', '#c08028', '#e8b65a'] }[kind] || ['#c9a93c', '#ecd97e', '#fbf3c4'];
   const id = uid('gp');
   const bowl = 'M58 30 C50 110 40 170 44 214 C50 262 78 290 120 292 C162 290 190 262 196 214 C200 170 190 110 182 30 Z';
   const sy = 170;

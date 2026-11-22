@@ -109,8 +109,9 @@ async function buildStories(browser) {
   const dir = path.join(OUT, 'stories');
   mk(dir);
   for (const st of batch.stories) {
-    for (const kind of ['q', 'a']) {
-      const name = `${st.id}_${kind === 'q' ? '1-question' : '2-answer'}.png`;
+    // st.single: one interactive frame (poll / quiz / slider / question sticker added in the app), no answer frame
+    for (const kind of st.single ? ['q'] : ['q', 'a']) {
+      const name = st.single ? `${st.id}.png` : `${st.id}_${kind === 'q' ? '1-question' : '2-answer'}.png`;
       const html = batch.v2 ? R.storyFrame2(st, { kind, ...st[kind] }) : R.storyFrame({ kind, ...st[kind] });
       const page = await open(browser, safeOverlay(html), 1080, 1920);
       await check(page, name, { safeTop: 250, safeBottom: 300 });
@@ -141,7 +142,8 @@ function makeMusic(reel, dur, dir) {
   const raw = path.join(dir, 'music-raw.wav');
   const out = path.join(dir, 'music.wav');
   execFileSync('python3', [path.join(__dirname, 'lib', 'music.py'), mood, String(dur + 0.5), raw, reel.scenes.map((x) => x.start).join(',')]);
-  const pre = `afade=t=in:st=0:d=0.6,afade=t=out:st=${(dur - 1.4).toFixed(2)}:d=1.4`;
+  const fo = reel.fadeOut || 1.4; // short fade for loop-friendly reels
+  const pre = `afade=t=in:st=0:d=${reel.fadeIn || 0.6},afade=t=out:st=${(dur - fo).toFixed(2)}:d=${fo}`;
   // ffmpeg prints the loudnorm JSON on stderr
   const err = require('child_process').spawnSync(FFMPEG, ['-hide_banner', '-i', raw, '-t', String(dur), '-af', `${pre},loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json`, '-f', 'null', '-'], { encoding: 'utf8' }).stderr;
   const j = JSON.parse(err.slice(err.lastIndexOf('{'), err.lastIndexOf('}') + 1));
@@ -187,10 +189,23 @@ async function buildReels(browser) {
     await page.close();
     const mp4 = path.join(dir, `${reel.id}.mp4`);
     const wav = makeMusic(reel, dur, fdir);
+    if (batch.maxMB) {
+      // size cap (browser upload): two-pass H.264 at the bitrate that fits maxMB with 128 kbps audio, max 6 Mbps
+      const kbps = Math.min(6000, Math.floor((batch.maxMB * 8192 * 0.96) / dur - 128));
+      const log = path.join(fdir, 'x264');
+      const common = ['-framerate', String(fps), '-i', path.join(fdir, '%05d.jpg')];
+      const v = ['-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-preset', 'slow', '-b:v', `${kbps}k`, '-maxrate', `${Math.round(kbps * 1.6)}k`, '-bufsize', `${kbps * 2}k`, '-r', String(fps), '-passlogfile', log];
+      execFileSync(FFMPEG, ['-y', '-loglevel', 'error', ...common, ...v, '-pass', '1', '-an', '-t', String(dur), '-f', 'mp4', '/dev/null']);
+      execFileSync(FFMPEG, ['-y', '-loglevel', 'error', ...common, '-i', wav, ...v, '-pass', '2',
+        '-c:a', 'aac', '-b:a', '128k', '-ar', '44100', '-ac', '2', '-t', String(dur), '-movflags', '+faststart', mp4]);
+      const mb = fs.statSync(mp4).size / 1048576;
+      if (mb > batch.maxMB) warnings.push(`${reel.id}: ${mb.toFixed(1)} MB (cap ${batch.maxMB} MB)`);
+    } else {
     execFileSync(FFMPEG, ['-y', '-loglevel', 'error', '-framerate', String(fps), '-i', path.join(fdir, '%05d.jpg'), '-i', wav,
       '-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '18', '-preset', 'slow', '-r', String(fps),
       '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-ac', '2', '-t', String(dur), '-movflags', '+faststart', mp4]);
-    console.log('reel', reel.id, frames, 'frames', dur + 's');
+    }
+    console.log('reel', reel.id, frames, 'frames', dur + 's', (fs.statSync(mp4).size / 1048576).toFixed(1) + ' MB');
   }
 }
 
@@ -250,6 +265,8 @@ async function buildGrid(browser) {
     return { id, reel: !!reel, dir: dirRel, label: `${R.badgeText(it)}`, pinned: !!it.pinned };
   }).reverse().sort((a, b) => (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0));
   const prev = batch.grid.prev.map((x) => ({ ...x, old: true })).reverse();
+  // a pinned post from an earlier batch stays first on the profile
+  if (prev.some((x) => x.pinned)) { const all = [...mine, ...prev]; const pin = all.filter((x) => x.pinned); mine.length = 0; mine.push(...pin, ...all.filter((x) => !x.pinned)); prev.length = 0; }
   const legend = batch.grid.legend.map((l) => `<span><i style="background:${l.c}"></i>${l.t}</span>`).join('');
   const html = `<!doctype html><html><head><meta charset="utf-8"><base href="file://${R.ROOT}/"><link rel="stylesheet" href="tools/social/templates/base.css">
 <style>html,body{width:1000px;height:auto;overflow:visible;background:#fff}body{padding:34px 30px;font-family:var(--sans)}

@@ -246,7 +246,9 @@ function editorial(item, e, { w = 1080, h = 1350, idx = 1, total = 1 } = {}) {
     <div class="ed2-row" style="gap:${e.gap ?? 26}px">${items}</div>${e.extra || ''}
     <div class="ed2-foot"><div class="ed2-brand"><img class="em" src="${LOGO}" alt=""><img class="wm" src="${WM_LIGHT_BG}" alt=""></div>${rule(260)}</div>
     ${total > 1 ? `<div class="ed2-count">${idx} / ${total}</div>` : ''}`;
-  return page(`<div class="cv v2 ed2 c-${item.course}" id="cv" style="width:${w}px;height:${h}px"><div class="accent"></div>${body}</div>`, { w, h });
+  // reel covers (1080x1920): the 4:5 page sits in the centre, inside the profile-grid crop
+  const inner = h > 1350 ? `<div style="position:absolute;left:0;right:0;top:${(h - 1350) / 2}px;height:1350px">${body}${e.reelHint ? '<div class="ed2-hint">▶ Watch</div>' : ''}</div>` : body;
+  return page(`<div class="cv v2 ed2 c-${item.course}" id="cv" style="width:${w}px;height:${h}px"><div class="accent"></div>${inner}</div>`, { w, h });
 }
 
 function coverTile(item, c, { w = 1080, h = 1350, idx = 1, total = 1, reel = false } = {}) {
