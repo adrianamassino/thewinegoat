@@ -25,7 +25,7 @@ C = {
  "lead": "Le Level 4 Diploma in Wines est la qualification WSET la plus avancée et une étape reconnue vers le Master of Wine. Il se prépare en six unités, évaluées par des réponses écrites ouvertes, des dégustations à l'aveugle et un mémoire de recherche, et demande un engagement long et régulier. Voici comment se déroule l'examen de chaque unité, comment fonctionnent les mentions, combien d'heures prévoir et comment se préparer à partir du niveau 3.",
  "fig": {"kicker": "WSET Diploma", "cap": "Le guide complet du WSET Level 4 Diploma in Wines : six unités de D1 à D6, épreuves écrites, dégustations à l'aveugle et un mémoire de recherche de 3 000 mots, 55 % pour valider chaque unité et environ 500 heures d'étude",
          "points": ["Six unités : de D1 à D6, la D3 compte pour 50 %", "Épreuves écrites, dégustations à l'aveugle, mémoire de 3 000 mots", "55 % pour valider chaque unité · environ 500 heures d'étude"]},
- "ctas": [["Commencer le Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Faire le test de niveau gratuit", "/app/#go=lvquick", "btn lvghost"]],
+ "ctas": [["Commencer le Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Choisir votre module", "/app/#go=study&lvl=4", "btn lvghost"]],
  "body": [
   ["sec", "Le Diploma en bref"],
   ["glance", [["Unités", "Six unités obligatoires, de D1 à D6, chacune avec son examen et sa mention"],
@@ -78,7 +78,7 @@ C = {
   ["more", [["wset-level-3", "← WSET Niveau 3"], ["wset-diploma-study-tips", "Conseils d'étude pour le Diploma →"]]],
   ["soon", {"tag": "D1, D2, D4 et D5 disponibles dans l'appli", "h2": "The Wine Goat pour le Diploma : D1, D2, D4 et D5 sont là",
             "p": "Leçons, QCM, questions à réponse ouverte avec réponses modèles et points clés, flashcards et une épreuve chronométrée pour D1 Production du vin, D2 Le commerce du vin, D4 Vins effervescents et D5 Vins mutés. D3 et D6 sont en préparation ; le niveau 3 est dans l'appli en entier pour garder des bases solides.",
-            "btns": [["Commencer le Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Faire le test de niveau gratuit", "/app/#go=lvquick", "btn btn-light"]]}],
+            "btns": [["Commencer le Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Choisir votre module", "/app/#go=study&lvl=4", "btn btn-light"]]}],
   ["faq"],
   ["secmore", "Notes d'étude : le WSET Diploma, unité par unité"],
   ["h3", "Comment la mention finale est calculée"],

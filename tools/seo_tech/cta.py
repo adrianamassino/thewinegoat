@@ -15,6 +15,10 @@ A position that already has an equivalent button to the app is left alone: the b
 level guides (top), their "available in the app" banner (middle) and the closing call-to-action box of the other guides
 (end, <section class="seocta">). So a page gets at most three calls to action in its text, old and new together.
  4. In the existing closing box, the "start" button is pointed at the level the guide is about (same rule as below).
+ 5. Diploma pages (wset-diploma-*): the quick level test has nothing to do with the Diploma, so every "test" button there —
+    in the blocks above and the builders' own buttons (lvguide under the introduction, app banner, closing box) — opens the
+    app's Diploma hub instead (#go=study&lvl=4, where the reader picks the unit), with the label T[l]['unit'] and, in the top
+    block, the prompt T[l]['d']. All languages: where the Diploma units are not translated the app shows its default language.
 
 Links: tools/site_i18n/common.app_link → /app/?lang=<page language> when the app speaks it, /app/ otherwise (then the
 app opens in its default language), with #go=start (sign-up) or #go=lvquick (quick level test) and the level of the
@@ -121,6 +125,30 @@ T = {
         'b': 'Az önce okuduklarını pratiğe dök: açıklamalı sorular, kendi hızında.',
         'c': 'Başlamaya hazır mısın? Hesabını oluştur ve sınav tarihine göre hazırlanan çalışma planını takip et.'},
 }
+# Diploma pages: the app button opens the Diploma hub, where the reader picks the unit (D1, D2…), instead of the quick level test.
+# unit = button label, d = prompt line above it
+for _l, (_u, _d) in {
+ 'en': ('Choose your unit', 'Pick the Diploma unit you are preparing and study it with lessons, questions and written answers.'),
+ 'it': ('Scegli il modulo', 'Scegli il modulo del Diploma che stai preparando e studialo con lezioni, domande e risposte scritte.'),
+ 'fr': ('Choisir votre module', 'Choisissez le module du Diploma que vous préparez et travaillez-le avec des leçons, des questions et des réponses rédigées.'),
+ 'es': ('Elige tu módulo', 'Elige el módulo del Diploma que estás preparando y estúdialo con lecciones, preguntas y respuestas escritas.'),
+ 'es-ar': ('Elegí tu módulo', 'Elegí el módulo del Diploma que estás preparando y estudialo con lecciones, preguntas y respuestas escritas.'),
+ 'de': ('Modul wählen', 'Wähle das Diploma-Modul, auf das du dich vorbereitest, und lerne es mit Lektionen, Fragen und schriftlichen Antworten.'),
+ 'nl': ('Kies je module', 'Kies de Diploma-module waarvoor je studeert en oefen die met lessen, vragen en schriftelijke antwoorden.'),
+ 'pl': ('Wybierz moduł', 'Wybierz moduł Diploma, do którego się przygotowujesz, i ucz się go z lekcjami, pytaniami i odpowiedziami pisemnymi.'),
+ 'pt': ('Escolhe o teu módulo', 'Escolhe o módulo do Diploma que estás a preparar e estuda-o com lições, perguntas e respostas escritas.'),
+ 'pt-br': ('Escolha seu módulo', 'Escolha o módulo do Diploma que você está preparando e estude com aulas, questões e respostas escritas.'),
+ 'ru': ('Выбрать модуль', 'Выберите модуль Diploma, к которому готовитесь, и изучайте его по урокам, вопросам и письменным ответам.'),
+ 'el': ('Διάλεξε ενότητα', 'Διάλεξε την ενότητα του Diploma που προετοιμάζεις και μελέτησέ τη με μαθήματα, ερωτήσεις και γραπτές απαντήσεις.'),
+ 'ja': ('ユニットを選ぶ', '準備中のDiplomaのユニットを選び、レッスン、問題、記述式の解答で学習しましょう。'),
+ 'ko': ('유닛 선택하기', '준비 중인 Diploma 유닛을 골라 레슨, 문제, 서술형 답안으로 공부해 보세요.'),
+ 'zh-hans': ('选择单元', '选择你正在备考的 Diploma 单元，通过课程、练习题和书面作答来学习。'),
+ 'zh-hant': ('選擇單元', '選擇你正在準備的 Diploma 單元，透過課程、練習題和書面作答來學習。'),
+ 'ar': ('اختر الوحدة', 'اختر وحدة الدبلوم التي تستعد لها وادرسها بالدروس والأسئلة والإجابات المكتوبة.'),
+ 'th': ('เลือกหน่วยการเรียน', 'เลือกหน่วยของ Diploma ที่คุณกำลังเตรียมสอบ แล้วเรียนด้วยบทเรียน คำถาม และการตอบแบบเขียน'),
+ 'tr': ('Üniteni seç', 'Hazırlandığın Diploma ünitesini seç; dersler, sorular ve yazılı cevaplarla çalış.'),
+}.items():
+    T[_l].update(unit=_u, d=_d)
 BANNED = re.compile(r'[€$£]|\bofficial|\bufficial|\bofficiel|\boficial|offiziell|officieel|oficjaln|официальн|επίσημ|公式|공식|官方|رسمي|ทางการ|resmi\b', re.I)
 
 
@@ -151,14 +179,23 @@ def pages():
     return out
 
 
-def links(l, lvl):
+def is_diploma(family, key):
+    return family == 'guide' and key.startswith('wset-diploma')
+
+
+DIPLOMA_HUB = '#go=study&lvl=4'   # the app's Diploma hub (unit tabs D1, D2…): every language, the app falls back to its default language
+
+
+def links(l, lvl, dipl=False):
     start = C.app_link(l, '#go=start' + (f'&lvl={lvl}' if lvl else ''))
+    if dipl: return start, C.app_link(l, DIPLOMA_HUB)
     test = C.app_link(l, '#go=lvquick' + (f'&lvl={lvl}' if lvl else ''))   # the app's 20-question test runs on the level given (checked: 1, 2, 3, 4, s1)
     return start, test
 
 
-def block(pos, l, lvl):
-    t = T[l]; start, test = links(l, lvl)
+def block(pos, l, lvl, dipl=False):
+    t = dict(T[l]); start, test = links(l, lvl, dipl)
+    if dipl: t['test'], t['a'] = t['unit'], t['d']
     b = lambda cls, href, txt, k: f'<a class="btn {cls}" href="{e(href)}" data-cta="{pos}-{k}">{e(txt)}</a>'
     if pos == 'top':
         if test: p, btns = t['a'], b('btn-primary', test, t['test'], 'test') + b('btn-ghost', start, t['start'], 'start')
@@ -171,6 +208,7 @@ def block(pos, l, lvl):
 
 
 APPBTN = re.compile(r'<a class="btn[^"]*" href="/app/')
+DIPBTN = re.compile(r'(<a class="btn[^"]*" href=")/app/[^"#]*#go=(?:lvquick|study)\b[^"]*("[^>]*)>[^<]*</a>')
 
 
 def spans(s, pat):
@@ -180,8 +218,11 @@ def spans(s, pat):
 def process(doc, l, fam, key):
     """(new document, positions added)"""
     doc = re.sub(re.escape(A) + '.*?' + re.escape(Z), '', doc, flags=re.S)
-    lvl = level_of(fam, key, l)
-    start, _ = links(l, lvl)
+    lvl = level_of(fam, key, l); dipl = is_diploma(fam, key)
+    start, hub = links(l, lvl, dipl)
+    # 5. Diploma pages: every other app button to the quick level test (builder buttons, app banner, closing box) opens the Diploma hub
+    if dipl:
+        doc = DIPBTN.sub(lambda m: f'{m.group(1)}{e(hub)}{m.group(2)}>{e(T[l]["unit"])}</a>', doc)
     # 4. the existing closing box: its start button opens the app in the page's language, on the guide's level
     if lvl and fam != 'sp':
         def box(m):
@@ -211,7 +252,7 @@ def process(doc, l, fam, key):
             if best is None or d < best[0]: best = (d, x)
         if best: ins['mid'] = best[1]
     for pos, x in sorted(ins.items(), key=lambda kv: -kv[1]):
-        art = art[:x] + block(pos, l, lvl) + art[x:]
+        art = art[:x] + block(pos, l, lvl, dipl) + art[x:]
     return doc[:a] + art + doc[z:], sorted(ins)
 
 
@@ -219,6 +260,7 @@ def main():
     for l, t in T.items():
         for k, v in t.items():
             assert not BANNED.search(v), (l, k, v)
+        assert {'unit', 'd'} <= set(t), l
     changed, rep = [], {}
     for p, l, fam, key in pages():
         s = open(p, encoding='utf8').read()

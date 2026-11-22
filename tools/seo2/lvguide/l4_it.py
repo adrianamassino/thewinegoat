@@ -25,7 +25,7 @@ C = {
  "lead": "Il Level 4 Diploma in Wines è la qualifica WSET più avanzata e un passo riconosciuto verso il Master of Wine. Si studia in sei unità, valutate con risposte scritte aperte, degustazioni alla cieca e un elaborato di ricerca, e chiede un impegno lungo e costante. Ecco come si svolge l'esame di ogni unità, come funzionano i voti, quanto studio serve e come prepararsi partendo dal Livello 3.",
  "fig": {"kicker": "WSET Diploma", "cap": "La guida completa al WSET Level 4 Diploma in Wines: sei unità da D1 a D6, prove scritte, degustazioni alla cieca e un elaborato di ricerca di 3.000 parole, 55% per superare ogni unità e circa 500 ore di studio",
          "points": ["Sei unità: da D1 a D6, la D3 vale il 50%", "Prove scritte, degustazioni alla cieca, un elaborato di 3.000 parole", "55% per superare ogni unità · circa 500 ore di studio"]},
- "ctas": [["Inizia il Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Fai il test di livello gratuito", "/app/#go=lvquick", "btn lvghost"]],
+ "ctas": [["Inizia il Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Scegli il modulo", "/app/#go=study&lvl=4", "btn lvghost"]],
  "body": [
   ["sec", "Il Diploma in breve"],
   ["glance", [["Unità", "Sei unità obbligatorie, da D1 a D6, ognuna con il proprio esame e il proprio voto"],
@@ -78,7 +78,7 @@ C = {
   ["more", [["wset-level-3", "← WSET Livello 3"], ["wset-diploma-study-tips", "Consigli di studio per il Diploma →"]]],
   ["soon", {"tag": "D1, D2, D4 e D5 disponibili ora nell'app", "h2": "The Wine Goat per il Diploma: D1, D2, D4 e D5 sono qui",
             "p": "Lezioni, quiz, domande a risposta aperta con risposte modello e punti chiave, flashcard e una prova a tempo per D1 Produzione del vino, D2 Il business del vino, D4 Vini spumanti e D5 Vini fortificati. D3 e D6 sono in preparazione; il Livello 3 è nell'app per intero, per tenere solide le basi.",
-            "btns": [["Inizia il Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Fai il test di livello gratuito", "/app/#go=lvquick", "btn btn-light"]]}],
+            "btns": [["Inizia il Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Scegli il modulo", "/app/#go=study&lvl=4", "btn btn-light"]]}],
   ["faq"],
   ["secmore", "Appunti di studio: dentro il WSET Diploma, unità per unità"],
   ["h3", "Come si calcola il voto finale"],

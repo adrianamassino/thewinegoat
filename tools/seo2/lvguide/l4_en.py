@@ -26,7 +26,7 @@ C = {
  "lead": "The Level 4 Diploma in Wines is the most advanced WSET qualification and a recognised step towards the Master of Wine. It is studied in six units, assessed with open written answers, blind tastings and a research assignment, and it asks for a long, steady commitment. Here is how each unit is examined, how the grades work, how much study it takes and how to prepare from Level 3.",
  "fig": {"kicker": "WSET Diploma", "cap": "The complete WSET Level 4 Diploma in Wines guide: six units from D1 to D6, written papers, blind tastings and a 3,000-word research assignment, 55% to pass each unit and about 500 hours of study",
          "points": ["Six units: D1 to D6, with D3 worth 50%", "Written papers, blind tastings, a 3,000-word assignment", "55% to pass each unit · about 500 hours of study"]},
- "ctas": [["Start the Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Take the free level test", "/app/#go=lvquick", "btn lvghost"]],
+ "ctas": [["Start the Diploma", "/app/#go=start&lvl=4", "btn btn-primary"], ["Choose your unit", "/app/#go=study&lvl=4", "btn lvghost"]],
  "body": [
   ["sec", "The Diploma at a glance"],
   ["glance", [["Units", "Six mandatory units, D1 to D6, each examined and graded separately"],
@@ -79,7 +79,7 @@ C = {
   ["more", [["wset-level-3", "← WSET Level 3"], ["wset-diploma-study-tips", "Diploma study tips →"]]],
   ["soon", {"tag": "D1, D2, D4 and D5 available now in the app", "h2": "The Wine Goat for the Diploma: D1, D2, D4 and D5 are here",
             "p": "Lessons, practice questions, open-response questions with model answers and marking points, flashcards and a timed practice paper for D1 Wine production, D2 Wine business, D4 Sparkling wines and D5 Fortified wines. D3 and D6 are in preparation; Level 3 is in the app in full to keep your foundations sharp.",
-            "btns": [["Start the Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Take the free level test", "/app/#go=lvquick", "btn btn-light"]]}],
+            "btns": [["Start the Diploma", "/app/#go=start&lvl=4", "btn btn-gold"], ["Choose your unit", "/app/#go=study&lvl=4", "btn btn-light"]]}],
   ["faq"],
   ["secmore", "Study notes: inside the WSET Level 4 Diploma, unit by unit"],
   ["h3", "How the final grade is calculated"],
