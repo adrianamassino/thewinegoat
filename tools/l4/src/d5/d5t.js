@@ -1,4 +1,5 @@
 /* D5 · LO 5.2 — tasting and evaluating fortified wines (chapter d5t) */
+const { GT } = require("../_guide.js");
 const c = "d5t";
 const L = (t, p, k) => ({ c, t, p, k });
 const M = (q, o, e) => ({ c, q, o, e });
@@ -10,7 +11,7 @@ const PT = [
   ["Valuta la qualità, motivando la risposta, e indica stile, maturazione e origine probabili.", "Évaluez la qualité en justifiant votre réponse, et indiquez le style, l'élevage et l'origine probables.", "Assess the quality, giving reasons, and state the likely style, maturation and origin.", "Evalúa la calidad, justificando la respuesta, e indica el estilo, la crianza y el origen probables."]
 ];
 const MK = [2, 6, 8, 6];
-const T = (q, k, a) => ({ c, tas: 1, q, parts: PT.map((t, i) => ({ t, m: MK[i], k: k[i], a: a[i] })) });
+const T = (q, k, a) => ({ c, tas: 1, q, g: GT, parts: PT.map((t, i) => ({ t, m: MK[i], k: k[i], a: a[i] })) });
 const W = (it, fr, en, es) => ["Scrivi la nota di degustazione completa di: " + it, "Rédigez la note de dégustation complète de : " + fr, "Write a full tasting note for: " + en, "Escribe la nota de cata completa de: " + es];
 module.exports = {
   ch: { d5t: { it: "Degustazione: 3 fortificati", fr: "Dégustation : 3 vins mutés", en: "Tasting: 3 fortified wines", es: "Cata: 3 generosos" } },
