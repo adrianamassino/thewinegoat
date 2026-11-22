@@ -1,1 +1,1 @@
-window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["ja"]=Object.assign(TWG_I18N["ja"]||{},{});(window.TWG_I18N_F=window.TWG_I18N_F||{})["ja/s1"]=1;
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["ja"]=Object.assign(TWG_I18N["ja"]||{},{"About 40% abv":"約40% abv","A wide bowl that narrows towards the top":"口に向かってすぼまる、広いボウルのグラス","Brushing your teeth or drinking coffee":"歯を磨くこと、コーヒーを飲むこと"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["ja/s1"]=1;
