@@ -1,4 +1,5 @@
 /* D4 · LO 4.2 — tasting and evaluating sparkling wines (chapter d4t) */
+const { GT4 } = require("../_guide.js");
 const c = "d4t";
 const L = (t, p, k) => ({ c, t, p, k });
 const M = (q, o, e) => ({ c, q, o, e });
@@ -11,7 +12,7 @@ const PT = [
 ];
 const MK = [2, 6, 8, 6];
 /* T(wine [4], keys [[4] x 4 parts], answers [[4] x 4 parts]) */
-const T = (q, k, a) => ({ c, tas: 1, q, parts: PT.map((t, i) => ({ t, m: MK[i], k: k[i], a: a[i] })) });
+const T = (q, k, a) => ({ c, tas: 1, q, g: GT4, parts: PT.map((t, i) => ({ t, m: MK[i], k: k[i], a: a[i] })) });
 const W = (it, fr, en, es) => ["Scrivi la nota di degustazione completa di: " + it, "Rédigez la note de dégustation complète de : " + fr, "Write a full tasting note for: " + en, "Escribe la nota de cata completa de: " + es];
 module.exports = {
   ch: { d4t: { it: "Degustazione: 3 spumanti", fr: "Dégustation : 3 effervescents", en: "Tasting: 3 sparkling wines", es: "Cata: 3 espumosos" } },
