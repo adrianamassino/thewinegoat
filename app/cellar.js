@@ -345,17 +345,20 @@ const LB={it:["Scanner","Fotografa un'etichetta: riconosco "+(SPM2?"il distillat
  es:["Escáner","Fotografía una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"],
  "es-ar":["Escáner","Sacale foto a una etiqueta: reconozco "+(SPM2?"el destilado":"el vino")+" y lo guardo en tu diario",SPM2?"Escáner de destilados":"Escáner de vinos"]};
 const lb=i=>{ let l="en"; try{ l=localStorage.getItem("wset3-lang")||"en"; }catch(e){} if(LB[l]) return LB[l][i]; const v=LB.en[i]; try{ return (typeof TES!=="undefined"&&TES.on)?TES.tr(v):v; }catch(e){ return v; } };
-const HIDE=new Set(["cellar","quiz","exam","film","pod","onb","welcome","login"]);
+/* never over a form: hidden in the onboarding ("start", every step has fields or big buttons down to the bottom) and while a field has the focus (phone keyboard open) */
+const HIDE=new Set(["cellar","quiz","exam","film","pod","onb","welcome","login","start"]);
+const typing=()=>{ const a=document.activeElement; return !!(a&&a.matches&&a.matches("input:not([type=button]):not([type=checkbox]):not([type=radio]),textarea,select,[contenteditable=true]")); };
 const CAM='<svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/><circle cx="12" cy="13" r="3.6"/></svg>';
 function openScan(){ try{ go("cellar"); }catch(e){ try{ window.go&&window.go("cellar"); }catch(_){} } setTimeout(()=>{ const b=document.querySelector('[data-cel="new"]'); if(b) b.click(); },120); }
 let fab=null;
 function sync(){ if(!fab){ fab=document.createElement("button"); fab.type="button"; fab.className="scanfab"; fab.addEventListener("click",openScan); document.body.appendChild(fab); }
   fab.innerHTML=CAM+"<span>"+lb(0)+"</span>"; fab.setAttribute("aria-label",lb(2));
   const v=(typeof view!=="undefined")?view:""; const busy=(typeof quiz!=="undefined"&&quiz)||document.querySelector(".ob,.onb,.quizview,.view.quiz,.view.exam");
-  fab.hidden=HIDE.has(v)||!!busy;
+  fab.hidden=HIDE.has(v)||!!busy||typing()||document.body.classList.contains("obon");
   const m=document.getElementById("main"); if(m&&v==="home"&&!m.querySelector(".scanhero")){ const h=document.createElement("button"); h.type="button"; h.className="scanhero"; h.innerHTML='<span class="sh-ic">'+CAM+'</span><span class="sh-tx"><b>'+lb(2)+'</b><small>'+lb(1)+'</small></span><span class="sh-go">'+lb(0)+' ›</span>'; h.addEventListener("click",openScan);
     const sec=m.querySelector("section.view"); if(sec) sec.insertBefore(h,sec.firstChild); }
 }
+document.addEventListener("focusin",()=>sync()); document.addEventListener("focusout",()=>setTimeout(sync,0));
 new MutationObserver(()=>{ clearTimeout(sync.t); sync.t=setTimeout(sync,30); }).observe(document.documentElement,{childList:true,subtree:true});
 document.addEventListener("DOMContentLoaded",sync); setTimeout(sync,300);
 const st=document.createElement("style"); st.textContent=`

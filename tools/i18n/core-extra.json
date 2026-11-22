@@ -692,5 +692,203 @@
   "ja": "ウィットビア／blanche（ブランシュ）",
   "zh-hant": "比利時白啤酒／blanche",
   "ko": "윗비어 / blanche"
+ },
+ "When is the exam for your next unit?": {
+  "de": "Wann ist die Prüfung für deine nächste Einheit?",
+  "nl": "Wanneer is het examen van je volgende eenheid?",
+  "el": "Πότε είναι η εξέταση της επόμενης ενότητάς σου;",
+  "ja": "次のユニットの試験はいつですか？",
+  "ko": "다음 유닛의 시험은 언제예요?",
+  "zh-hant": "你下一個單元什麼時候考試？",
+  "pt": "Quando é a prova da sua próxima unidade?",
+  "tr": "Bir sonraki ünitenin sınavı ne zaman?",
+  "th": "หน่วยถัดไปของคุณสอบเมื่อไร?"
+ },
+ "Which unit is next?": {
+  "de": "Welche Einheit kommt als Nächstes?",
+  "nl": "Welke eenheid is de volgende?",
+  "el": "Ποια ενότητα είναι η επόμενη;",
+  "ja": "次はどのユニットですか？",
+  "ko": "다음은 어떤 유닛이에요?",
+  "zh-hant": "下一個是哪個單元？",
+  "pt": "Qual é a próxima unidade?",
+  "tr": "Sıradaki ünite hangisi?",
+  "th": "หน่วยถัดไปคือหน่วยไหน?"
+ },
+ "When is the {u} exam?": {
+  "de": "Wann ist die Prüfung {u}?",
+  "nl": "Wanneer is het examen {u}?",
+  "el": "Πότε είναι η εξέταση {u};",
+  "ja": "{u}の試験はいつですか？",
+  "ko": "{u} 시험은 언제예요?",
+  "zh-hant": "{u} 什麼時候考試？",
+  "pt": "Quando é a prova {u}?",
+  "tr": "{u} sınavı ne zaman?",
+  "th": "สอบ {u} เมื่อไร?"
+ },
+ "Independent research assignment": {
+  "de": "Selbstständige Forschungsarbeit",
+  "nl": "Zelfstandige onderzoeksopdracht",
+  "el": "Ανεξάρτητη ερευνητική εργασία",
+  "ja": "個人研究課題",
+  "ko": "개인 연구 과제",
+  "zh-hant": "獨立研究作業",
+  "pt": "Trabalho de pesquisa individual",
+  "tr": "Bağımsız araştırma ödevi",
+  "th": "งานวิจัยอิสระ"
+ },
+ "{u} exam in {n} days": {
+  "de": "Prüfung {u} in {n} Tagen",
+  "nl": "Examen {u} over {n} dagen",
+  "el": "Εξέταση {u} σε {n} ημέρες",
+  "ja": "{u}の試験まであと{n}日",
+  "ko": "{u} 시험까지 {n}일",
+  "zh-hant": "{n} 天後考 {u}",
+  "pt": "Prova {u} em {n} dias",
+  "tr": "{u} sınavına {n} gün",
+  "th": "สอบ {u} ในอีก {n} วัน"
+ },
+ "{u} exam today! Good luck 🍀": {
+  "de": "Heute ist die Prüfung {u}! Viel Glück 🍀",
+  "nl": "Vandaag examen {u}! Succes 🍀",
+  "el": "Σήμερα η εξέταση {u}! Καλή επιτυχία 🍀",
+  "ja": "今日は{u}の試験日！がんばって 🍀",
+  "ko": "오늘이 {u} 시험이에요! 행운을 빌어요 🍀",
+  "zh-hant": "今天考 {u}！祝你好運 🍀",
+  "pt": "Prova {u} hoje! Boa sorte 🍀",
+  "tr": "{u} sınavı bugün! Bol şans 🍀",
+  "th": "วันนี้สอบ {u}! ขอให้โชคดี 🍀"
+ },
+ "{u} exam date": {
+  "de": "Datum der Prüfung {u}",
+  "nl": "Examendatum {u}",
+  "el": "Ημερομηνία εξέτασης {u}",
+  "ja": "{u}の試験日",
+  "ko": "{u} 시험 날짜",
+  "zh-hant": "{u} 考試日期",
+  "pt": "Data da prova {u}",
+  "tr": "{u} sınav tarihi",
+  "th": "วันสอบ {u}"
+ },
+ "{d} days to the {u} exam · {m} minutes a day · goal {g}": {
+  "de": "{d} Tage bis zur Prüfung {u} · {m} Minuten am Tag · Ziel {g}",
+  "nl": "{d} dagen tot het examen {u} · {m} minuten per dag · doel {g}",
+  "el": "{d} ημέρες μέχρι την εξέταση {u} · {m} λεπτά την ημέρα · στόχος {g}",
+  "ja": "{u}の試験まで{d}日 · 1日{m}分 · 目標{g}",
+  "ko": "{u} 시험까지 {d}일 · 하루 {m}분 · 목표 {g}",
+  "zh-hant": "距離 {u} 考試 {d} 天 · 每天 {m} 分鐘 · 目標 {g}",
+  "pt": "{d} dias para a prova {u} · {m} minutos por dia · meta {g}",
+  "tr": "{u} sınavına {d} gün · günde {m} dakika · hedef {g}",
+  "th": "อีก {d} วันถึงวันสอบ {u} · วันละ {m} นาที · เป้าหมาย {g}"
+ },
+ "8-week plan for {u} · {m} minutes a day · goal {g}": {
+  "de": "8-Wochen-Plan für {u} · {m} Minuten am Tag · Ziel {g}",
+  "nl": "Plan van 8 weken voor {u} · {m} minuten per dag · doel {g}",
+  "el": "Πλάνο 8 εβδομάδων για {u} · {m} λεπτά την ημέρα · στόχος {g}",
+  "ja": "{u}の8週間プラン · 1日{m}分 · 目標{g}",
+  "ko": "{u} 8주 계획 · 하루 {m}분 · 목표 {g}",
+  "zh-hant": "{u} 8 週計畫 · 每天 {m} 分鐘 · 目標 {g}",
+  "pt": "Plano de 8 semanas para {u} · {m} minutos por dia · meta {g}",
+  "tr": "{u} için 8 haftalık plan · günde {m} dakika · hedef {g}",
+  "th": "แผน 8 สัปดาห์สำหรับ {u} · วันละ {m} นาที · เป้าหมาย {g}"
+ },
+ "Next unit": {
+  "de": "Nächste Einheit",
+  "nl": "Volgende eenheid",
+  "el": "Επόμενη ενότητα",
+  "ja": "次のユニット",
+  "ko": "다음 유닛",
+  "zh-hant": "下一個單元",
+  "pt": "Próxima unidade",
+  "tr": "Sıradaki ünite",
+  "th": "หน่วยถัดไป"
+ },
+ "Next exam": {
+  "de": "Nächste Prüfung",
+  "nl": "Volgend examen",
+  "el": "Επόμενη εξέταση",
+  "ja": "次の試験",
+  "ko": "다음 시험",
+  "zh-hant": "下一場考試",
+  "pt": "Próxima prova",
+  "tr": "Sıradaki sınav",
+  "th": "สอบครั้งถัดไป"
+ },
+ "In 6 months": {
+  "de": "In 6 Monaten",
+  "nl": "Over 6 maanden",
+  "el": "Σε 6 μήνες",
+  "ja": "6か月後",
+  "ko": "6개월 후",
+  "zh-hant": "6 個月後",
+  "pt": "Em 6 meses",
+  "tr": "6 ay içinde",
+  "th": "อีก 6 เดือน"
+ },
+ "In 9 months": {
+  "de": "In 9 Monaten",
+  "nl": "Over 9 maanden",
+  "el": "Σε 9 μήνες",
+  "ja": "9か月後",
+  "ko": "9개월 후",
+  "zh-hant": "9 個月後",
+  "pt": "Em 9 meses",
+  "tr": "9 ay içinde",
+  "th": "อีก 9 เดือน"
+ },
+ "Wine production": {
+  "de": "Weinherstellung",
+  "nl": "Wijnproductie",
+  "el": "Παραγωγή κρασιού",
+  "ja": "ワインの生産",
+  "ko": "와인 생산",
+  "zh-hant": "葡萄酒生產",
+  "pt": "Produção de vinho",
+  "tr": "Şarap üretimi",
+  "th": "การผลิตไวน์"
+ },
+ "Wine business": {
+  "de": "Weinwirtschaft",
+  "nl": "Wijnhandel",
+  "el": "Η επιχείρηση του κρασιού",
+  "ja": "ワインビジネス",
+  "ko": "와인 비즈니스",
+  "zh-hant": "葡萄酒商業",
+  "pt": "Negócio do vinho",
+  "tr": "Şarap ticareti",
+  "th": "ธุรกิจไวน์"
+ },
+ "Wines of the world": {
+  "de": "Weine der Welt",
+  "nl": "Wijnen van de wereld",
+  "el": "Κρασιά του κόσμου",
+  "ja": "世界のワイン",
+  "ko": "세계의 와인",
+  "zh-hant": "世界葡萄酒",
+  "pt": "Vinhos do mundo",
+  "tr": "Dünya şarapları",
+  "th": "ไวน์ทั่วโลก"
+ },
+ "Fortified wines": {
+  "de": "Likörweine",
+  "nl": "Versterkte wijnen",
+  "el": "Ενισχυμένα κρασιά",
+  "ja": "酒精強化ワイン",
+  "ko": "주정 강화 와인",
+  "zh-hant": "加烈酒",
+  "pt": "Vinhos fortificados",
+  "tr": "Takviyeli şaraplar",
+  "th": "ไวน์เสริมแอลกอฮอล์"
+ },
+ "Hi! I'm your Diploma goat 🍷": {
+  "de": "Hallo! Ich bin deine Diploma-Ziege 🍷",
+  "nl": "Hoi! Ik ben je Diploma-geit 🍷",
+  "el": "Γεια! Είμαι η κατσίκα σου για το Diploma 🍷",
+  "ja": "こんにちは！あなたのDiplomaヤギです 🍷",
+  "ko": "안녕하세요! 저는 당신의 Diploma 염소예요 🍷",
+  "zh-hant": "嗨！我是你的 Diploma 山羊 🍷",
+  "pt": "Oi! Eu sou sua cabra do Diploma 🍷",
+  "tr": "Merhaba! Ben senin Diploma keçinim 🍷",
+  "th": "สวัสดี! ฉันคือแพะ Diploma ของคุณ 🍷"
  }
 }

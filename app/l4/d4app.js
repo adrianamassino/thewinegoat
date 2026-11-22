@@ -170,6 +170,23 @@
       d4PNote3: "Los tiempos son los del examen; el número de preguntas por prueba y el reparto de puntos son nuestro diseño de práctica, no los del examen. Las preguntas salen de las regiones ya disponibles.",
       d4TasD0: "{n} notas de cata para escribir y corregir", d4Av: "Regiones disponibles hasta ahora", d4AvP: "La unidad D3 se publica región por región. Para las regiones de abajo ya están listas las lecciones, los quiz, las preguntas abiertas, las notas de cata y las flashcards.", d4Soon: "Próximamente, en el orden de estudio" } };
   Object.keys(U3).forEach(l => Object.assign(U[l], U3[l]));
+  /* onboarding: the Diploma is sat unit by unit → "which unit is next, and when is its exam?"; {u} = that unit (D1…D6).
+     The d4Pr… and d4Ob… templates replace the generic exam-date texts (profile, plan, onboarding) once the next unit is known. */
+  const UN = {
+    it: { obDateQU: "Quando hai l'esame della prossima unità?", obUnitQ: "Qual è la tua prossima unità?", obUnitDate: "Quando hai l'esame {u}?", d4U6: "Ricerca individuale",
+      d4PrIn: "Esame {u} tra {n} giorni", d4PrToday: "Esame {u} oggi! In bocca al lupo 🍀", d4PrExam: "Data dell'esame {u}", d4UnitL: "Prossima unità", d4NextTag: "Prossimo esame",
+      d4ObReady: "{d} giorni all'esame {u} · {m} minuti al giorno · obiettivo {g}", d4ObReadyU: "Piano di 8 settimane per {u} · {m} minuti al giorno · obiettivo {g}" },
+    fr: { obDateQU: "Quand avez-vous l'examen de votre prochaine unité ?", obUnitQ: "Quelle est votre prochaine unité ?", obUnitDate: "Quand avez-vous l'examen {u} ?", d4U6: "Travail de recherche individuel",
+      d4PrIn: "Examen {u} dans {n} jours", d4PrToday: "Examen {u} aujourd'hui ! Bonne chance 🍀", d4PrExam: "Date de l'examen {u}", d4UnitL: "Prochaine unité", d4NextTag: "Prochain examen",
+      d4ObReady: "{d} jours avant l'examen {u} · {m} minutes par jour · objectif {g}", d4ObReadyU: "Plan de 8 semaines pour {u} · {m} minutes par jour · objectif {g}" },
+    en: { obDateQU: "When is the exam for your next unit?", obUnitQ: "Which unit is next?", obUnitDate: "When is the {u} exam?", d4U6: "Independent research assignment",
+      d4PrIn: "{u} exam in {n} days", d4PrToday: "{u} exam today! Good luck 🍀", d4PrExam: "{u} exam date", d4UnitL: "Next unit", d4NextTag: "Next exam",
+      d4ObReady: "{d} days to the {u} exam · {m} minutes a day · goal {g}", d4ObReadyU: "8-week plan for {u} · {m} minutes a day · goal {g}" },
+    es: { obDateQU: "¿Cuándo es el examen de tu próxima unidad?", obUnitQ: "¿Cuál es tu próxima unidad?", obUnitDate: "¿Cuándo es el examen {u}?", d4U6: "Trabajo de investigación individual",
+      d4PrIn: "Examen {u} dentro de {n} días", d4PrToday: "¡Examen {u} hoy! Mucha suerte 🍀", d4PrExam: "Fecha del examen {u}", d4UnitL: "Próxima unidad", d4NextTag: "Próximo examen",
+      d4ObReady: "{d} días para el examen {u} · {m} minutos al día · objetivo {g}", d4ObReadyU: "Plan de 8 semanas para {u} · {m} minutos al día · objetivo {g}" } };
+  const UN_AR = { d4PrIn: "Examen {u} en {n} días", d4ObReady: "{d} días para el examen {u} · {m} minutos por día · objetivo {g}", d4ObReadyU: "Plan de 8 semanas para {u} · {m} minutos por día · objetivo {g}" };
+  Object.keys(UN).forEach(l => Object.assign(U[l], UN[l]));
   U.it.tab_study = U.fr.tab_study = U.en.tab_study = U.es.tab_study = "Diploma";
   const ES_ = () => lang === "es" || lang === "es-ar";
   const LX = () => (ES_() ? 3 : L());                                    /* index into [it,fr,en,es] arrays, for texts read directly */
@@ -179,6 +196,12 @@
   let unit = (() => { try { const u = localStorage.getItem(LSU); return UNITS.includes(u) ? u : UNITS[0]; } catch (e) { return UNITS[0]; } })();
   const setUnit = u => { if (!UNITS.includes(u)) return; unit = u; try { localStorage.setItem(LSU, u); } catch (e) {} };
   const UX = () => C.units[unit];
+  /* the next unit to sit (chosen in the onboarding or the profile): profile first (synced to the account), then the plan */
+  const ALLU = ["D1", "D2", "D3", "D4", "D5", "D6"];
+  const NU = () => { let u = ""; try { u = (typeof PR !== "undefined" && PR && PR.d4u) || (typeof PL !== "undefined" && PL && PL.d4u) || ""; } catch (e) {} return ALLU.includes(u) ? u : ""; };
+  const PU = () => (UNITS.includes(NU()) ? NU() : unit);                /* the unit the study plan follows */
+  const uLabel = u => (C.units[u] ? tx(C.units[u].name) : t("d4U" + u.slice(1)));   /* D6 has no content yet: its name is a text */
+  const nuDays = () => { try { const ex = prExamISO(); if (!ex) return null; return Math.round((new Date(ex + "T12:00") - new Date(dayKey(Date.now()) + "T12:00")) / 864e5); } catch (e) { return null; } };
   const uName = u => `${u} · ${tx(C.units[u].name)}`;
   const inUnit = c => chUnit[c] === unit;
   const openOf = (u, ess) => C.open.filter(o => o.u === (u || unit) && (ess == null || !!o.ess === ess));
@@ -214,7 +237,7 @@
   /* ---------- hub ---------- */
   function unitTabs() {
     if (UNITS.length < 2) return "";
-    return `<div class="d4units" role="tablist" aria-label="${esc(t("d4Unit"))}">${UNITS.map(u => `<button type="button" role="tab" data-d4u="${u}" aria-selected="${u === unit}"><b>${u}</b><span>${esc(tx(C.units[u].name))}</span></button>`).join("")}</div>`;
+    return `<div class="d4units" role="tablist" aria-label="${esc(t("d4Unit"))}">${UNITS.map(u => `<button type="button" role="tab" data-d4u="${u}" aria-selected="${u === unit}"${u === NU() ? ' class="d4nxu"' : ""}><b>${u}</b><span>${esc(tx(C.units[u].name))}</span>${u === NU() ? `<i class="d4nxt" title="${esc(t("d4NextTag"))}"><span aria-hidden="true">⏳</span><span class="d4vh">${esc(t("d4NextTag"))}</span></i>` : ""}</button>`).join("")}</div>`;
   }
   function ruleCard() {
     const L_ = openOf(unit), ok = L_.filter(o => stOf(o.id) === "ok").length, n = L_.length, nx = nextOpen(unit);
@@ -227,11 +250,14 @@
     return `<div class="card d4avail"><h2 class="hsec" style="margin-top:0">🗺️ ${esc(t("d4Av"))}</h2><p class="muted small">${esc(t("d4AvP"))}</p>${tags(X_.ch.filter(c => C.lessons.some(l => l.c === c)).map(chName))}
       ${X_.todo && X_.todo.length ? `<p class="muted small" style="margin-top:12px"><b>${esc(t("d4Soon"))}</b></p>${tags(X_.todo.map(tx))}` : ""}</div>`;
   }
+  /* the countdown to the next unit's exam, on that unit's page of the hub */
+  function nuLine(u) { if (u !== NU()) return ""; const n = nuDays(); if (n == null || n < 0) return "";
+    return `<p class="d4nxl">⏳ ${esc(fill(t(n === 0 ? "d4PrToday" : "d4PrIn"), { u, n }))}</p>`; }
   function study() {
     const u = unit, X_ = UX(), ex = X_.exam || {}, nO = openOf(u, false).filter(o => !o.tas).length, nE = openOf(u, true).length, nT = openOf(u).filter(o => o.tas).length;
     const exl = t("d4Ex" + u) !== "d4Ex" + u ? fill(t("d4Ex"), { u, f: t("d4Ex" + u) }) : "";
     return `<section class="view hub area-wset d4hub">${lvSw()}${hubHead("ban-wset", "d4Kick", "d4Title", "d4Intro", "n37")}${unitTabs()}
-      <h2 class="hsec">${esc(uName(u))}</h2>${exl ? `<p class="muted small d4exl">📝 ${esc(exl)}</p>` : ""}
+      <h2 class="hsec">${esc(uName(u))}</h2>${nuLine(u)}${exl ? `<p class="muted small d4exl">📝 ${esc(exl)}</p>` : ""}
       ${papersOf(u) ? papersOf(u).map((P_, i) => { const tasP = !P_.q && P_.tasting, n = papersOf(u).slice(0, i + 1).filter(y => (!y.q && y.tasting) === tasP).length; if (tasP ? !nT : !nO) return "";
         return `<button type="button" class="mockcard" data-d4="paper" data-pk="${i}"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(fill(t(tasP ? "d4PapS" : "d4PapT"), { n }))}</b><span>${esc(fill(t(tasP ? "d4PapSD" : "d4PapTD"), { q: P_.q, n: Math.min(P_.tasting || 0, nT), m: P_.minutes }))}</span></span>${ico("chev")}</button>`; }).join("") : ex.minutes && nO ? `<button type="button" class="mockcard" data-d4="paper"><span class="mk-seal"> <br><b>${u}</b></span><span class="mk-tx"><b>${esc(t("d4Paper"))}</b><span>${esc(fill(t(ex.tasting && nT ? "d4PaperDT" : "d4PaperD"), { q: ex.q || 3, m: ex.minutes, n: ex.tasting }))}</span></span>${ico("chev")}</button>` : ""}
       ${X_.todo ? availCard(u) : ""}
@@ -436,19 +462,63 @@
         const i = h.indexOf('<div class="opart'); if (i >= 0) h = h.slice(0, i) + extra + h.slice(i);
       } catch (e) {} return h; };
     /* the plan: lessons and written answers alongside the quizzes; only the current unit */
-    const _plB = plBuild; plBuild = function () { const G = GROUPS; let r;
-      try { GROUPS = G.filter(g => g.k === unit); r = _plB.apply(this, arguments); } finally { GROUPS = G; }
-      try { const todo = openOf(unit).filter(o => stOf(o.id) !== "ok"), ess = todo.filter(o => o.ess); let k = 0;
+    const _plB = plBuild; plBuild = function () { const G = GROUPS, pu = PU(); let r;
+      try { GROUPS = G.filter(g => g.k === pu); r = _plB.apply(this, arguments); } finally { GROUPS = G; }
+      try { const todo = openOf(pu).filter(o => stOf(o.id) !== "ok"), ess = todo.filter(o => o.ess); let k = 0;
         (r.days || []).forEach((d, i) => { if (d.rest || !d.tasks) return;
           const q = d.tasks.find(x => /^(q:|w:)/.test(x.id)), c = q && q.id.slice(2);
           if (c && d.phase === "L" && C.lessons.some(l => l.c === c) && !d.tasks.some(x => x.id === "d4l:" + c)) d.tasks.unshift({ id: "d4l:" + c, ic: "📖", tx: fill(t("plT_les"), { c: chName(c) }), act: "d4l:" + c });
           if (i % 2 === 1 && todo.length) { const o = todo[k++ % todo.length]; if (o && !o.ess) d.tasks.push({ id: "d4o:" + o.c, ic: "✍️", tx: fill(t("plT_d4o"), { c: chName(o.c) }), act: "d4o:" + o.c }); }
           if (ess.length && i % 5 === 4) { const o = ess[(i / 5 | 0) % ess.length]; d.tasks.push({ id: "d4e:" + o.c, ic: "📝", tx: fill(t("plT_d4e"), { c: chName(o.c) }), act: "d4e:" + o.c }); }
-          if (d.phase === "R" && i % 4 === 2 && (UX().exam || {}).minutes) d.tasks.push({ id: "d4p:" + unit, ic: "⏱️", tx: fill(t("plT_d4p"), { u: unit }), act: "d4p:" + unit }); }); } catch (e) { console.warn(e); }
+          if (d.phase === "R" && i % 4 === 2 && (C.units[pu].exam || {}).minutes) d.tasks.push({ id: "d4p:" + pu, ic: "⏱️", tx: fill(t("plT_d4p"), { u: pu }), act: "d4p:" + pu }); }); } catch (e) { console.warn(e); }
       return r; };
-    /* render: onboarding dates in months; drop the paper state when leaving the view */
+    /* ---------- onboarding step 2: "When is the exam for your next unit?" → unit (D1…D6), then its date (in months) ---------- */
+    const UK = { prExamIn: "d4PrIn", prExamToday: "d4PrToday", prExam: "d4PrExam", plExamL: "d4PrExam", obReadyP: "d4ObReady", obReadyUnk: "d4ObReadyU" };
+    /* once the next unit is known, the generic exam-date texts become "{u} exam…" templates; {u} is filled after each render.
+       The map-based languages read the English template through their map (core-extra.json). */
+    const applyU = () => { if (!NU()) return;
+      ["it", "fr", "en", "es", "es-ar"].forEach(l => { const S = l === "es-ar" ? Object.assign({}, U.es, UN_AR) : U[l]; if (!T[l] || !S) return; Object.keys(UK).forEach(k => { T[l][k] = S[UK[k]]; }); }); };
+    const fillU = root => { const u = NU(); if (!u || !root) return; const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT), a = []; let n;
+      while ((n = w.nextNode())) if (n.nodeValue.indexOf("{u}") >= 0) a.push(n);
+      a.forEach(x => { x.nodeValue = x.nodeValue.split("{u}").join(u); }); };
+    applyU();
+    try { if (!localStorage.getItem(LSU) && UNITS.includes(NU())) unit = NU(); } catch (e) {}
+    const obCard = (attr, on, ic, ti) => `<button type="button" class="obopt${on ? " on" : ""}" ${attr} aria-pressed="${on}"><span class="obic" aria-hidden="true">${ic}</span><span class="obtx"><b>${esc(ti)}</b></span></button>`;
+    function obUnitStep(h) {
+      const bar = (h.match(/<div class="obtop">[\s\S]*?<\/div><\/div>/) || [""])[0], u = OB.d4u || "";
+      const units = `<div class="obunits" role="group" aria-label="${esc(t("obUnitQ"))}">${ALLU.map(x => `<button type="button" class="obopt obu${u === x ? " on" : ""}" data-obu="${x}" aria-pressed="${u === x}"><b>${x}</b><span>${esc(uLabel(x))}</span></button>`).join("")}</div>`;
+      const dates = u ? `<p class="obunq" id="ob-udate">${esc(fill(t("obUnitDate"), { u }))}</p>
+        <div class="oblist">${[[91, "obW4"], [182, "obW8"], [273, "obW12"]].map(([d, k]) => obCard(`data-obdays="${d}"`, !OB.unk && OB.exam === obISO(d), "⏳", t(k))).join("")}${obCard('data-obunk="1"', !!OB.unk, "🤔", t("obDateUnk"))}</div>
+        <label class="obdate"><span>${esc(t("obDateL"))}</span><input type="date" id="ob-exam" value="${esc(OB.unk ? "" : OB.exam || "")}" min="${obISO(1)}"></label>` : "";
+      const can = !!u && (OB.unk || !!OB.exam);
+      return `<section class="view obv obv-d4">${bar}<div class="obbody"><div class="obsay">${gfree("n09", 110)}<div class="obbub">${esc(t("obDateQU"))}</div></div>
+        <p class="obunq">${esc(t("obUnitQ"))}</p>${units}${dates}</div>
+        <div class="obfoot"><button type="button" class="obgo" data-ob="next" ${can ? "" : "disabled"}>${esc(t("obNext"))}</button></div></section>`; }
+    const _oi = obInit; obInit = function () { const r = _oi.apply(this, arguments); try { if (OB && OB.d4u == null) OB.d4u = NU(); } catch (e) {} return r; };
+    const _rs = renderStart; renderStart = function () { const h = _rs.apply(this, arguments);
+      try { if (OB && OB.s === 2 && !(OB.as === 1 && !OB.asDone)) return obUnitStep(h); } catch (e) { console.warn(e); } return h; };
+    /* the end of the onboarding: the next unit goes into the plan and the profile (synced to the account), and becomes the hub's unit */
+    const _od = obDone; obDone = function () { const r = _od.apply(this, arguments);
+      try { const u = OB && OB.d4u; if (u && PL) { PL.d4u = u; lsSet(PLK, JSON.stringify(PL)); if (UNITS.includes(u)) setUnit(u);
+          const ex = OB.unk ? "" : PL.exam || ""; if (PR.d4u !== u || (PR.exam || "") !== ex) { PR.d4u = u; if (ex) PR.exam = ex; else delete PR.exam; prSave(); }
+          applyU(); } } catch (e) { console.warn(e); }
+      return r; };
+    document.addEventListener("click", e => { if (typeof view === "undefined" || view !== "start" || !OB) return;
+      const b = e.target.closest && e.target.closest("[data-obu],[data-obdays]"); if (!b) return; e.preventDefault(); e.stopPropagation();
+      if (b.dataset.obu) { OB.d4u = b.dataset.obu; render(); setTimeout(() => { const x = document.getElementById("ob-udate"); if (x && x.scrollIntoView) x.scrollIntoView({ behavior: "smooth", block: "start" }); }, 60); return; }
+      OB.exam = obISO(+b.dataset.obdays); OB.unk = false; setTimeout(() => { OB.s = 3; render(); }, 220); render(); }, true);
+    /* profile: the next unit next to the exam date (the date is that unit's) */
+    const _rp = renderProfile; renderProfile = function () { let h = _rp.apply(this, arguments);
+      try { if (PRED) { const cur = PRED.d4u || NU() || unit, i = h.indexOf('id="pr-exam"'), j = i > 0 ? h.lastIndexOf('<label class="prl">', i) : -1;
+          const sel = `<label class="prl">${esc(t("d4UnitL"))}<select id="pr-d4u" class="prin">${ALLU.map(x => `<option value="${x}"${cur === x ? " selected" : ""}>${x} · ${esc(uLabel(x))}</option>`).join("")}</select></label>`;
+          if (j >= 0) h = h.slice(0, j) + sel + h.slice(j); } } catch (e) { console.warn(e); }
+      return h; };
+    window.addEventListener("click", e => { const b = e.target.closest && e.target.closest("[data-prsave]"); if (!b || typeof PRED === "undefined" || !PRED) return;
+      const s = document.getElementById("pr-d4u"); if (!s || !ALLU.includes(s.value)) return;
+      PRED.d4u = PR.d4u = s.value; if (PL) { PL.d4u = s.value; try { lsSet(PLK, JSON.stringify(PL)); } catch (x) {} } if (UNITS.includes(s.value)) setUnit(s.value); applyU(); }, true);
+    /* render: fill the next unit into the exam-date texts; drop the paper state when leaving the view */
     const _r = render; render = function () { if (view !== "open") { PAP && clearInterval(timer); } const out = _r.apply(this, arguments);
-      try { if (view === "start") document.querySelectorAll("[data-obweeks]").forEach(b => { const d = { 28: 91, 56: 182, 91: 273 }[b.dataset.obweeks]; if (d) { b.dataset.obweeks = d; try { const on = !OB.unk && OB.exam === obISO(d); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); } catch (e) {} } }); } catch (e) {}
+      try { fillU(document.getElementById("main")); } catch (e) {}
       return out; };
     const st = document.createElement("style");
     st.textContent = `.l2chap{border:1px solid var(--line);border-radius:14px;background:var(--surface);margin:8px 0;padding:0 14px}.l2chap summary{display:flex;justify-content:space-between;gap:10px;padding:13px 0;cursor:pointer}
@@ -472,7 +542,13 @@
 .d4time .d4seg button[aria-pressed=true]{background:var(--wine,#7a1f3d);border-color:var(--wine,#7a1f3d);color:#fff}.d4th{font-weight:800;font-size:16px;padding:10px 12px;border-radius:12px;background:var(--sunk,#f3efe8)}
 .d4pap{display:flex;flex-direction:column;gap:10px}.d4pq{display:flex;flex-direction:column;gap:14px;margin-bottom:14px}.d4pq textarea{width:100%;min-height:150px;box-sizing:border-box}
 .d4prow{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}.d4prow .btn{grid-column:1/-1;justify-self:start}
-.d4guide .mb{line-height:1.55}.d4oqm{margin-top:-6px}`;
+.d4guide .mb{line-height:1.55}.d4oqm{margin-top:-6px}
+.obunq{margin:4px 0 -4px;font-weight:800;font-size:1.02rem}
+.obunits{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.obunits .obopt.obu{flex-direction:column;align-items:flex-start;gap:2px;padding:10px 12px;border-bottom-width:4px;min-height:64px}
+.obunits .obu b{font-size:1.05rem}.obunits .obu span{font-size:.86rem;line-height:1.25;color:var(--muted,#6b5a5e)}
+.d4units button.d4nxu{border-color:var(--wine,#7a1f3d)}.d4nxt{font-style:normal;font-size:13px;line-height:1;margin-top:2px}.d4vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.d4nxl{margin:-4px 0 10px;font-weight:800;color:var(--wine,#7a1f3d)}`;
     document.head.appendChild(st);
   }
   window.L2UI = { init, study, lessons, flash, wine, play, match, lvSwitch: () => "" };
