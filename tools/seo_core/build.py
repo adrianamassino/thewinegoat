@@ -80,6 +80,8 @@ def extend(l, C):
 CONTENT = {l: c for l in ALL if (l == 'en' or os.path.exists(f'{l}/index.html')) and (c := extend(l, load(l)))}  # a language needs its home page
 if 'es-ar' in CONTENT:   # Argentina/Uruguay: local sections, titles and FAQ of the es-ar pages (tools/seo_core/es_ar_local.py)
     import sys; sys.path.insert(0, D); import es_ar_local; es_ar_local.apply(CONTENT['es-ar'])
+if 'pt-br' in CONTENT:   # Brazil: local sections, titles and FAQ of the pt-br pages (tools/seo_core/pt_br_local.py)
+    import sys; sys.path.insert(0, D); import pt_br_local; pt_br_local.apply(CONTENT['pt-br'])
 LANGS = [l for l in ALL if l in CONTENT]
 
 def short(t, n):

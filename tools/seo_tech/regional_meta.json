@@ -1,5 +1,5 @@
 {
- "_doc": "Meta descriptions of regional versions that the generators would otherwise copy from the base language (es-ar from es). Applied by tools/seo_tech/internal_links.py on every build to <meta name=description>, og:description and twitter:description. Path -> description (Argentine Spanish: voseo, rioplatense wording; 120-158 characters).",
+ "_doc": "Meta descriptions of regional versions that the generators would otherwise copy from the base language (es-ar from es, pt-br from pt). Applied by tools/seo_tech/internal_links.py on every build to <meta name=description>, og:description and twitter:description. Path -> description (es-ar: Argentine Spanish, voseo, rioplatense wording; pt-br: Brazilian Portuguese written for readers in Brazil; 120-158 characters).",
  "/es-ar/cata-sat-wset/": "Cómo usar el SAT del WSET nivel 3 en la cata del examen: aspecto, nariz, boca y conclusiones. Aprendé a juzgar la calidad y el potencial de guarda.",
  "/es-ar/como-aprobar-wset-2/": "Cómo aprobar el WSET Nivel 2 desde Argentina o Uruguay: dónde poner las horas, plan de tres semanas con trabajo, trampas típicas y preguntas explicadas.",
  "/es-ar/como-aprobar-wset-3/": "Cómo aprobar el WSET Nivel 3 desde Argentina o Uruguay: plan de 12 semanas, grupo de cata con vinos de acá, respuestas escritas, idioma del examen y mitos.",
@@ -36,5 +36,9 @@
  "/es-ar/wset-nivel-3/": "WSET Nivel 3 desde Argentina y Uruguay: Salta, San Juan, Mendoza y Patagonia en el programa, cata con Malbec y Torrontés, examen, notas y cómo estudiar.",
  "/es-ar/simulacro-examen-wset/": "Simulacros WSET para Argentina y Uruguay: formato de cada nivel, cómo ensayar en casa, mini simulacro con vinos sudamericanos y cata con vinos de acá.",
  "/es-ar/preguntas-de-practica-wset/": "Preguntas de práctica WSET con respuestas, para Argentina y Uruguay: Vinos 1, 2 y 3 y Spirits, técnica de multiple choice y preguntas sobre Malbec, Mendoza y Chile.",
- "/es-ar/simulacro-examen-wset-3/": "Simulacro WSET Nivel 3 gratis: teoría de 2 horas y cata de 30 minutos, cómo hacerlo en casa y práctica de cata con vinos que se consiguen en Argentina y Uruguay."
+ "/es-ar/simulacro-examen-wset-3/": "Simulacro WSET Nivel 3 gratis: teoría de 2 horas y cata de 30 minutos, cómo hacerlo en casa y práctica de cata con vinos que se consiguen en Argentina y Uruguay.",
+ "/pt-br/wset-nivel-1/": "WSET Nível 1 para quem estuda no Brasil: 30 questões em 45 minutos, nota mínima de 70%, o que o programa cobra, harmonização com pratos brasileiros e plano.",
+ "/pt-br/wset-nivel-2/": "WSET Nível 2 estudando no Brasil: 50 questões em 60 minutos, 55% para passar, o que entra de Chile e Mendoza, espumantes, harmonização e plano de 4 semanas.",
+ "/pt-br/wset-nivel-3/": "WSET Nível 3 no Brasil: teoria em 2 horas, degustação em 30 minutos, 55% em cada parte. Chile, Argentina e Portugal no programa, plano de estudo e exemplos.",
+ "/pt-br/wset-diploma-nivel-4/": "WSET Diploma para quem estuda no Brasil: as seis unidades D1–D6, provas, notas, cerca de 500 horas de estudo e o que o programa cobra de Chile e Argentina."
 }

@@ -25,7 +25,7 @@ def main_text(doc):
     t = re.sub(r'<!--.*?-->', ' ', t, flags=re.S)
     t = re.sub(r'<(script|style|svg|noscript|template)\b.*?</\1>', ' ', t, flags=re.S)
     t = html.unescape(re.sub(r'<[^>]+>', ' ', t)).lower()
-    return re.findall(r"[0-9a-záéíóúüñ]+(?:[.,][0-9]+)?", t)
+    return re.findall(r"[0-9a-záéíóúüñàâêôãõç]+(?:[.,][0-9]+)?", t)
 
 
 def shingles(words):

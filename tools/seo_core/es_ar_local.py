@@ -177,28 +177,29 @@ PRACTICE = {
 LOCAL = {'mock': MOCK, 'practice': PRACTICE}
 
 
-def _find(body, h):
+def _find(body, h, lang='es-ar'):
     for i, b in enumerate(body):
         if b[0] == 'h2' and b[1] == h:
             j = next((k for k in range(i + 1, len(body)) if body[k][0] == 'h2'), len(body))
             return i, j
-    raise KeyError(f'es-ar core page: heading not found: «{h}»')
+    raise KeyError(f'{lang} core page: heading not found: «{h}»')
 
 
-def apply(C):
-    """C = the es-ar content {key: page}; changed in place"""
-    for key, L in LOCAL.items():
+def apply(C, local=None, lang='es-ar'):
+    """C = the content {key: page} of one language; changed in place. local: the LOCAL dict of another regional
+    variant (tools/seo_core/pt_br_local.py uses this function with its own)"""
+    for key, L in (LOCAL if local is None else local).items():
         P = C[key]
         for k in ('title', 'desc', 'h1', 'tldr', 'lead'):
             if k in L: P[k] = L[k]
         body = P['body']
         for h, blocks in list(L.get('replace_first', {}).items()) + list(L.get('replace', {}).items()):
-            i, j = _find(body, h); body[i:j] = blocks
+            i, j = _find(body, h, lang); body[i:j] = blocks
         for h, blocks in L.get('before', {}).items():
-            i, _ = _find(body, h); body[i:i] = blocks
+            i, _ = _find(body, h, lang); body[i:i] = blocks
         drop = set(L.get('faq_drop', []))
         missing = drop - {q for q, _ in P['faq']}
-        if missing: raise KeyError(f'es-ar core page: FAQ not found: {sorted(missing)}')
+        if missing: raise KeyError(f'{lang} core page: FAQ not found: {sorted(missing)}')
         first = L.get('faq_first', [])
         P['faq'] = [list(x) for x in first] + [x for x in P['faq'] if x[0] not in drop and x[0] not in {q for q, _ in first}]
     return C

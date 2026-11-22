@@ -27,6 +27,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import common as C, seg
 from es_ar_extra import es_ar  # tools/i18n/ar_rules.py (read-only) + extra guide forms
 import es_ar_local  # es-ar-local/<group>.txt: local sections, title, H1 and FAQ of the Argentine/Uruguayan pages
+import pt_br_local  # pt-br-local/<group>.txt: the same for the Brazilian pages
 
 e = html.escape
 SITE = C.SITE
@@ -205,6 +206,7 @@ def build_page(l, g, base, region, tr, lm, miss=None):
         return 'data-l="' + e(v, quote=True) + '"'
     doc = re.sub(r'data-l="([^"]*)"', dl, doc)
     if l == 'es-ar': doc = es_ar_local.apply(g, doc)   # Argentina/Uruguay: own sections, title, H1, FAQ (after the voseo pass, never re-processed)
+    if l == 'pt-br': doc = pt_br_local.apply(g, doc)   # Brazil: own sections, title, H1, FAQ
     code = C.HOME_HREF.get(l, l) if g == '_home' else C.href(l)
     doc = re.sub(r'<html\b[^>]*>', f'<html lang="{code}"' + (' dir="rtl"' if l in C.RTL else '') + '>', doc, count=1)
     doc = re.sub(r'(<link rel="canonical" href=")[^"]*(">)', lambda m: m.group(1) + SITE + url + m.group(2), doc, count=1)
@@ -345,6 +347,8 @@ def main():
         os.system(f'{sys.executable} tools/home_diploma_live.py --quiet')
     if os.path.exists('tools/es_ar_home_local.py'):  # es-ar home: section, title, description and FAQ written for Argentina and Uruguay
         os.system(f'{sys.executable} tools/es_ar_home_local.py --quiet')
+    if os.path.exists('tools/pt_br_home_local.py'):  # pt-br home: section, title, description and FAQ written for Brazil
+        os.system(f'{sys.executable} tools/pt_br_home_local.py --quiet')
     if os.path.exists('tools/lvseries.py'):  # Level 1 → 2 → 3 → 4 guide series, home/next-level links (only guides that exist in each language)
         os.system(f'{sys.executable} tools/lvseries.py --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)

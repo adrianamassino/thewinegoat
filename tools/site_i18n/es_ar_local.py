@@ -29,6 +29,7 @@ import os, re, json, html
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'es-ar-local')
 e = html.escape
 SHOW = 'Ver la respuesta'
+FAQ_H = 'Preguntas frecuentes'   # heading of the FAQ section (pt_br_local.py reuses this module with its own values)
 
 
 def groups():
@@ -195,7 +196,7 @@ def apply(group, doc):
     if faq_add or faq_drop:
         items = ''.join(f'<details class="faqi"><summary>{inline(q)}</summary><p>{inline(a)}</p></details>' for q, a in faq_add)
         doc, n = re.subn(r'(<details class="faqi">)', lambda m: items + m.group(1), doc, count=1)
-        if not n: doc, n = re.subn(r'(<h2>Preguntas frecuentes</h2>)', lambda m: m.group(1) + items, doc, count=1)
+        if not n: doc, n = re.subn(r'(<h2>' + re.escape(FAQ_H) + r'</h2>)', lambda m: m.group(1) + items, doc, count=1)
         if not n: raise KeyError('no FAQ on the page')
         doc = _set_faq_ld(doc, [(plain(inline(q)), plain(inline(a))) for q, a in faq_add], faq_drop)
     return doc
