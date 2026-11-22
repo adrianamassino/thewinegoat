@@ -7,7 +7,7 @@ module.exports = {
   exam: { minutes: 120, q: 4, papers: [{ minutes: 120, q: 4 }, { minutes: 80, q: 3 }, { minutes: 90, q: 0, tasting: 6 }, { minutes: 90, q: 0, tasting: 6 }] },
   todo: [
     
-    ["Italia meridionale e isole", "Italie du Sud et îles", "Southern Italy and the islands", "Italia meridional e islas"], ["Spagna", "Espagne", "Spain", "España"], ["Portogallo", "Portugal", "Portugal", "Portugal"],
+    ["Italia: Sicilia e Sardegna", "Italie : Sicile et Sardaigne", "Italy: Sicily and Sardinia", "Italia: Sicilia y Cerdeña"], ["Spagna", "Espagne", "Spain", "España"], ["Portogallo", "Portugal", "Portugal", "Portugal"],
     ["Germania", "Allemagne", "Germany", "Alemania"], ["Austria", "Autriche", "Austria", "Austria"],
     ["Tokaj, Grecia e resto d'Europa", "Tokaj, Grèce et reste de l'Europe", "Tokaj, Greece and the rest of Europe", "Tokaj, Grecia y resto de Europa"],
     ["Stati Uniti e Canada", "États-Unis et Canada", "USA and Canada", "Estados Unidos y Canadá"],
