@@ -88,6 +88,6 @@ async function other(b, lv, unit) {
   const b = await chromium.launch();
   for (const lg of ["it", "fr", "en", "es"]) for (const w of [375, 1280]) await d3(b, lg, w);
   for (const u of ["D1", "D2", "D4", "D5"]) await other(b, "4", u);
-  for (const lv of ["1", "2", "3", "s1", "s2"]) await other(b, lv);
+  for (const lv of ["1", "2", "3", "s1", "s2", "k1", "b1"]) await other(b, lv);
   await b.close(); console.log(fails ? `${fails} FAILURE(S)` : "ALL OK"); process.exit(fails ? 1 : 0);
 })();
