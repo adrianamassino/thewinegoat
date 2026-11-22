@@ -1,1 +1,1 @@
-window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["el"]=Object.assign(TWG_I18N["el"]||{},{});(window.TWG_I18N_F=window.TWG_I18N_F||{})["el/s1"]=1;
+window.TWG_I18N=window.TWG_I18N||{};TWG_I18N["el"]=Object.assign(TWG_I18N["el"]||{},{"About 40% abv":"Περίπου 40% abv","A wide bowl that narrows towards the top":"Ένα ποτήρι με φαρδύ μπολ που στενεύει προς τα πάνω","Brushing your teeth or drinking coffee":"Βούρτσισμα δοντιών ή καφέ"});(window.TWG_I18N_F=window.TWG_I18N_F||{})["el/s1"]=1;
