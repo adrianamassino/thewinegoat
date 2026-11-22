@@ -343,6 +343,8 @@ def main():
         if os.path.exists(t): os.system(f'{sys.executable} {t} --quiet')
     if os.path.exists('tools/home_diploma_live.py'):  # homes: Diploma card and hero say D1 and D2 are in the app, the other units in preparation
         os.system(f'{sys.executable} tools/home_diploma_live.py --quiet')
+    if os.path.exists('tools/es_ar_home_local.py'):  # es-ar home: section, title, description and FAQ written for Argentina and Uruguay
+        os.system(f'{sys.executable} tools/es_ar_home_local.py --quiet')
     if os.path.exists('tools/lvseries.py'):  # Level 1 → 2 → 3 → 4 guide series, home/next-level links (only guides that exist in each language)
         os.system(f'{sys.executable} tools/lvseries.py --quiet')
     if os.path.exists('tools/ar_football_guides.py'):  # es-ar guides: the 5 football x wine scenes that left the es-ar home (idempotent, last)
