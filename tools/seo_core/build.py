@@ -78,6 +78,8 @@ def extend(l, C):
             C[k]['faq'] = C[k]['faq'] + [q for q in v.get('faq', []) if q[0] not in {a for a, _ in C[k]['faq']}]
     return C
 CONTENT = {l: c for l in ALL if (l == 'en' or os.path.exists(f'{l}/index.html')) and (c := extend(l, load(l)))}  # a language needs its home page
+if 'es-ar' in CONTENT:   # Argentina/Uruguay: local sections, titles and FAQ of the es-ar pages (tools/seo_core/es_ar_local.py)
+    import sys; sys.path.insert(0, D); import es_ar_local; es_ar_local.apply(CONTENT['es-ar'])
 LANGS = [l for l in ALL if l in CONTENT]
 
 def short(t, n):

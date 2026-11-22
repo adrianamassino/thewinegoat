@@ -16,6 +16,7 @@ File format: directives start with "@@" at the beginning of a line; the lines th
   @@after Heading        body is inserted after the section "Heading"
   @@faq Question         body = answer; local questions come first in the FAQ (and in the FAQPage structured data)
   @@faqdrop Question     removes a question of the Spanish page
+  @@faqreset             removes every question of the Spanish page (the file then gives the whole local FAQ)
   @@sub                  body = "old text" / line "==>" / "new text": literal replacement inside <main>
 Body mark-up (one block per paragraph, blocks separated by an empty line):
   ## Heading (h2)   ### Heading (h3)   - bullet   1. numbered   > tip box   | table | row |  (first row = header)
@@ -182,6 +183,9 @@ def apply(group, doc):
             doc, n = re.subn(r'<details class="faqi"><summary>' + re.escape(e(arg, quote=False)) + r'.*?</details>', '', doc, count=1, flags=re.S)
             if not n: raise KeyError(f'FAQ not found: «{arg}»')
             faq_drop.append(arg)
+        elif name == 'faqreset':
+            doc = re.sub(r'<details class="faqi">.*?</details>', '', doc, flags=re.S)
+            faq_drop.append('')
         elif name == 'sub':
             old, sep, new = body.partition('\n==>\n')
             if not sep or old.strip() not in doc: raise KeyError(f'text not found: «{old.strip()[:70]}»')
@@ -191,6 +195,7 @@ def apply(group, doc):
     if faq_add or faq_drop:
         items = ''.join(f'<details class="faqi"><summary>{inline(q)}</summary><p>{inline(a)}</p></details>' for q, a in faq_add)
         doc, n = re.subn(r'(<details class="faqi">)', lambda m: items + m.group(1), doc, count=1)
+        if not n: doc, n = re.subn(r'(<h2>Preguntas frecuentes</h2>)', lambda m: m.group(1) + items, doc, count=1)
         if not n: raise KeyError('no FAQ on the page')
         doc = _set_faq_ld(doc, [(plain(inline(q)), plain(inline(a))) for q, a in faq_add], faq_drop)
     return doc
