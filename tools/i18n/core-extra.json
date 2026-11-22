@@ -378,189 +378,251 @@
   "th": "แมช"
  },
  "Daiginjō": {
-  "ja": "大吟醸"
+  "ja": "大吟醸",
+  "zh-hant": "大吟釀"
  },
  "Futsū-shu": {
-  "ja": "普通酒"
+  "ja": "普通酒",
+  "zh-hant": "普通酒"
  },
  "Futsū-shu, nama, junmai, koshu": {
-  "ja": "普通酒、生酒、純米、古酒"
+  "ja": "普通酒、生酒、純米、古酒",
+  "zh-hant": "普通酒、生酒、純米、古酒"
  },
  "Ginjō": {
-  "ja": "吟醸"
+  "ja": "吟醸",
+  "zh-hant": "吟釀"
  },
  "Ginjō (gin + jō).": {
-  "ja": "吟醸（吟＋醸）。"
+  "ja": "吟醸（吟＋醸）。",
+  "zh-hant": "吟釀（gin + jō）。"
  },
  "Ginjō vs junmai ginjō": {
-  "ja": "吟醸と純米吟醸"
+  "ja": "吟醸と純米吟醸",
+  "zh-hant": "吟釀與純米吟釀"
  },
  "Honjōzō": {
-  "ja": "本醸造"
+  "ja": "本醸造",
+  "zh-hant": "本釀造"
  },
  "Honjōzō (hon + jō + zō).": {
-  "ja": "本醸造（本＋醸＋造）。"
+  "ja": "本醸造（本＋醸＋造）。",
+  "zh-hant": "本釀造（hon + jō + zō）。"
  },
  "Junmai": {
-  "ja": "純米"
+  "ja": "純米",
+  "zh-hant": "純米"
  },
  "Junmai (jun + mai).": {
-  "ja": "純米（純＋米）。"
+  "ja": "純米（純＋米）。",
+  "zh-hant": "純米（jun + mai）。"
  },
  "Junmai daiginjō": {
-  "ja": "純米大吟醸"
+  "ja": "純米大吟醸",
+  "zh-hant": "純米大吟釀"
  },
  "Junmai ginjō": {
-  "ja": "純米吟醸"
+  "ja": "純米吟醸",
+  "zh-hant": "純米吟釀"
  },
  "Junmai, honjōzō, ginjō, daiginjō": {
-  "ja": "純米、本醸造、吟醸、大吟醸"
+  "ja": "純米、本醸造、吟醸、大吟醸",
+  "zh-hant": "純米、本釀造、吟釀、大吟釀"
  },
  "Masu": {
-  "ja": "枡"
+  "ja": "枡",
+  "zh-hant": "木升（masu）"
  },
  "Nama": {
-  "ja": "生酒"
+  "ja": "生酒",
+  "zh-hant": "生酒"
  },
  "Nama / nama-zake": {
-  "ja": "生酒（なまざけ）"
+  "ja": "生酒（なまざけ）",
+  "zh-hant": "生酒（nama／nama-zake）"
  },
  "Nama-hine": {
-  "ja": "生老ね"
+  "ja": "生老ね",
+  "zh-hant": "生老香（nama-hine）"
  },
  "Nigori": {
-  "ja": "にごり酒"
+  "ja": "にごり酒",
+  "zh-hant": "濁酒"
  },
  "Nigori, tokkuri, masu, o-choko": {
-  "ja": "にごり酒、徳利、枡、お猪口"
+  "ja": "にごり酒、徳利、枡、お猪口",
+  "zh-hant": "濁酒、德利、木升、豬口"
  },
  "Nihon-shu": {
-  "ja": "日本酒"
+  "ja": "日本酒",
+  "zh-hant": "日本酒（nihon-shu）"
  },
  "O-choko": {
-  "ja": "お猪口"
+  "ja": "お猪口",
+  "zh-hant": "豬口（o-choko）"
  },
  "Tokkuri": {
-  "ja": "徳利"
+  "ja": "徳利",
+  "zh-hant": "德利（tokkuri）"
  },
  "吟 (gin)": {
-  "ja": "吟（ぎん）"
+  "ja": "吟（ぎん）",
+  "zh-hant": "吟（gin）"
  },
  "吟 (gin) + 醸 (jō) = ginjō.": {
-  "ja": "吟（ぎん）＋ 醸（じょう）＝ 吟醸（ぎんじょう）。"
+  "ja": "吟（ぎん）＋ 醸（じょう）＝ 吟醸（ぎんじょう）。",
+  "zh-hant": "吟（gin）+ 醸（jō）= 吟醸（ginjō）。"
  },
  "大 (dai)": {
-  "ja": "大（だい）"
+  "ja": "大（だい）",
+  "zh-hant": "大（dai）"
  },
  "大 (dai) + 吟 (gin) + 醸 (jō) = daiginjō.": {
-  "ja": "大（だい）＋ 吟（ぎん）＋ 醸（じょう）＝ 大吟醸（だいぎんじょう）。"
+  "ja": "大（だい）＋ 吟（ぎん）＋ 醸（じょう）＝ 大吟醸（だいぎんじょう）。",
+  "zh-hant": "大（dai）+ 吟（gin）+ 醸（jō）= 大吟醸（daiginjō）。"
  },
  "米 (mai)": {
-  "ja": "米（まい）"
+  "ja": "米（まい）",
+  "zh-hant": "米（mai）"
  },
  "純米 junmai · 本醸造 honjōzō · 吟醸 ginjō · 大吟醸 daiginjō": {
-  "ja": "純米（じゅんまい）· 本醸造（ほんじょうぞう）· 吟醸（ぎんじょう）· 大吟醸（だいぎんじょう）"
+  "ja": "純米（じゅんまい）· 本醸造（ほんじょうぞう）· 吟醸（ぎんじょう）· 大吟醸（だいぎんじょう）",
+  "zh-hant": "純米 junmai · 本醸造 honjōzō · 吟醸 ginjō · 大吟醸 daiginjō"
  },
  "APA · American IPA · hazy IPA": {
-  "ja": "APA · アメリカンIPA · ヘイジーIPA"
+  "ja": "APA · アメリカンIPA · ヘイジーIPA",
+  "zh-hant": "APA · 美式 IPA · 霧濁 IPA"
  },
  "Ambrée": {
-  "ja": "Ambrée（アンブレ）"
+  "ja": "Ambrée（アンブレ）",
+  "zh-hant": "Ambrée"
  },
  "American IPA": {
-  "ja": "アメリカンIPA"
+  "ja": "アメリカンIPA",
+  "zh-hant": "美式 IPA"
  },
  "American pale ale": {
-  "ja": "アメリカン・ペールエール"
+  "ja": "アメリカン・ペールエール",
+  "zh-hant": "美式淡色艾爾"
  },
  "American pale ale, American IPA, hazy IPA": {
-  "ja": "アメリカン・ペールエール、アメリカンIPA、ヘイジーIPA"
+  "ja": "アメリカン・ペールエール、アメリカンIPA、ヘイジーIPA",
+  "zh-hant": "美式淡色艾爾、美式 IPA、霧濁 IPA"
  },
  "Barley wine": {
-  "ja": "バーレーワイン"
+  "ja": "バーレーワイン",
+  "zh-hant": "大麥酒"
  },
  "Berliner weisse": {
-  "ja": "ベルリナー・ヴァイセ"
+  "ja": "ベルリナー・ヴァイセ",
+  "zh-hant": "柏林白啤酒"
  },
  "Bitter": {
-  "ja": "ビター"
+  "ja": "ビター",
+  "zh-hant": "英式苦啤（Bitter）"
  },
  "Blanche": {
-  "ja": "Blanche（ブランシュ）"
+  "ja": "Blanche（ブランシュ）",
+  "zh-hant": "Blanche"
  },
  "Blonde ale": {
-  "ja": "ブロンドエール"
+  "ja": "ブロンドエール",
+  "zh-hant": "金色艾爾（Blonde ale）"
  },
  "Brettanomyces": {
-  "ja": "ブレタノマイセス"
+  "ja": "ブレタノマイセス",
+  "zh-hant": "酒香酵母（Brettanomyces）"
  },
  "Brown ale": {
-  "ja": "ブラウンエール"
+  "ja": "ブラウンエール",
+  "zh-hant": "棕色艾爾"
  },
  "Brune": {
-  "ja": "Brune（ブリュヌ）"
+  "ja": "Brune（ブリュヌ）",
+  "zh-hant": "Brune"
  },
  "Dubbel": {
-  "ja": "ダブル"
+  "ja": "ダブル",
+  "zh-hant": "比利時雙料（Dubbel）"
  },
  "Dubbel vs tripel": {
-  "ja": "ダブルとトリペル"
+  "ja": "ダブルとトリペル",
+  "zh-hant": "比利時雙料與三料"
  },
  "Dunkel": {
-  "ja": "Dunkel（デュンケル）"
+  "ja": "Dunkel（デュンケル）",
+  "zh-hant": "Dunkel"
  },
  "Geuze (gueuze)": {
-  "ja": "グーズ（geuze／gueuze）"
+  "ja": "グーズ（geuze／gueuze）",
+  "zh-hant": "貴茲（Geuze／gueuze）"
  },
  "Golden ale": {
-  "ja": "ゴールデンエール"
+  "ja": "ゴールデンエール",
+  "zh-hant": "Golden ale"
  },
  "Gueuze": {
-  "ja": "Gueuze（グーズ）"
+  "ja": "Gueuze（グーズ）",
+  "zh-hant": "Gueuze"
  },
  "Hazy IPA": {
-  "ja": "ヘイジーIPA"
+  "ja": "ヘイジーIPA",
+  "zh-hant": "霧濁 IPA"
  },
  "Hefeweizen": {
-  "ja": "ヘーフェヴァイツェン"
+  "ja": "ヘーフェヴァイツェン",
+  "zh-hant": "Hefeweizen"
  },
  "Imperial stout": {
-  "ja": "インペリアル・スタウト"
+  "ja": "インペリアル・スタウト",
+  "zh-hant": "帝國司陶特"
  },
  "India pale lager": {
-  "ja": "インディア・ペールラガー"
+  "ja": "インディア・ペールラガー",
+  "zh-hant": "印度淡色拉格"
  },
  "Munich dunkel": {
-  "ja": "ミュンヘナー・デュンケル"
+  "ja": "ミュンヘナー・デュンケル",
+  "zh-hant": "慕尼黑深色拉格"
  },
  "Munich helles": {
-  "ja": "ミュンヘナー・ヘレス"
+  "ja": "ミュンヘナー・ヘレス",
+  "zh-hant": "慕尼黑淡色拉格"
  },
  "New England IPA": {
-  "ja": "ニューイングランドIPA"
+  "ja": "ニューイングランドIPA",
+  "zh-hant": "新英格蘭 IPA"
  },
  "Porter": {
-  "ja": "ポーター"
+  "ja": "ポーター",
+  "zh-hant": "波特"
  },
  "Porter / stout": {
-  "ja": "ポーター／スタウト"
+  "ja": "ポーター／スタウト",
+  "zh-hant": "波特／司陶特"
  },
  "Saison": {
-  "ja": "セゾン"
+  "ja": "セゾン",
+  "zh-hant": "賽森（Saison）"
  },
  "Tripel": {
-  "ja": "トリペル"
+  "ja": "トリペル",
+  "zh-hant": "比利時三料（Tripel）"
  },
  "Weissbier": {
-  "ja": "ヴァイスビア"
+  "ja": "ヴァイスビア",
+  "zh-hant": "德式小麥啤酒（Weissbier）"
  },
  "Weissbier / hefeweizen": {
-  "ja": "ヴァイスビア／ヘーフェヴァイツェン"
+  "ja": "ヴァイスビア／ヘーフェヴァイツェン",
+  "zh-hant": "德式小麥啤酒／hefeweizen"
  },
  "Witbier": {
-  "ja": "ウィットビア"
+  "ja": "ウィットビア",
+  "zh-hant": "比利時白啤酒（Witbier）"
  },
  "Witbier / blanche": {
-  "ja": "ウィットビア／blanche（ブランシュ）"
+  "ja": "ウィットビア／blanche（ブランシュ）",
+  "zh-hant": "比利時白啤酒／blanche"
  }
 }
