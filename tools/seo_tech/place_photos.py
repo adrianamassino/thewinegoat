@@ -280,7 +280,7 @@ def main():
     stems, nc = credits_pages(used)
     na, ca = app_data()
     for w in warn: print('  !', w)
-    miss = sorted({(s, l) for s in stems for l in LANGS if l not in ('en', 'es-ar') and os.path.exists(f'{l}/index.html') and not (I18N.get(s, {}).get(l, {}).get('alt') and I18N.get(s, {}).get(l, {}).get('caption'))})
+    miss = sorted({(s, l) for s in stems for l in LANGS if l not in ('en', 'es-ar') and l not in NL.LANGS and os.path.exists(f'{l}/index.html') and not (I18N.get(s, {}).get(l, {}).get('alt') and I18N.get(s, {}).get(l, {}).get('caption'))})
     if miss: print(f'  ! {len(miss)} photo/language pairs without a translated alt/caption (English used), e.g. {miss[:4]}')
     if '--quiet' not in sys.argv or CHECK:
         print(f'place_photos: {len(used)} photos, {sum(len(v) for v in PL["site"].values())} placements in {len(PL["site"])} page groups, {n} pages {"would change" if CHECK else "updated"}; '

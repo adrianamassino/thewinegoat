@@ -50,7 +50,7 @@ MORE = {'sv': 'Fler verktyg för din WSET-förberedelse', 'da': 'Flere værktøj
 
 # guide directory (tools/seo_tech/internal_links.py): heading, then the categories in CATS order; and the schools link
 GUIDEDIR = {
- 'sv': ['Alla WSET-guider', 'WSET nivå 1', 'WSET nivå 2', 'WSET nivå 3', 'WSET Diploma', 'Övningsfrågor', 'Provexamen', 'Studieguider', 'Så klarar du WSET-proven', 'WSET Spirits', 'WSET-skolor och kursanordnare', 'Fler guider'],
+ 'sv': ['Alla WSET-guider', 'WSET nivå 1', 'WSET nivå 2', 'WSET nivå 3', 'WSET Diploma', 'Övningsfrågor', 'Övningsprov', 'Studieguider', 'Så klarar du WSET-proven', 'WSET Spirits', 'WSET-skolor och kursanordnare', 'Fler guider'],
  'da': ['Alle WSET-guides', 'WSET niveau 1', 'WSET niveau 2', 'WSET niveau 3', 'WSET Diploma', 'Øvelsesspørgsmål', 'Prøveeksaminer', 'Studieguides', 'Sådan består du WSET-eksamenerne', 'WSET Spirits', 'WSET-skoler og udbydere', 'Flere guides'],
  'no': ['Alle WSET-guider', 'WSET nivå 1', 'WSET nivå 2', 'WSET nivå 3', 'WSET Diploma', 'Øvingsspørsmål', 'Prøveeksamener', 'Studieguider', 'Slik består du WSET-eksamenene', 'WSET Spirits', 'WSET-skoler og kurstilbydere', 'Flere guider'],
  'fi': ['Kaikki WSET-oppaat', 'WSET-taso 1', 'WSET-taso 2', 'WSET-taso 3', 'WSET Diploma', 'Harjoituskysymykset', 'Harjoituskokeet', 'Opiskeluoppaat', 'Näin läpäiset WSET-kokeet', 'WSET Spirits', 'WSET-koulut ja kouluttajat', 'Lisää oppaita'],

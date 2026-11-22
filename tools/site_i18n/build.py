@@ -83,7 +83,7 @@ def validate(l, g, S, T):
     if same > len(src) * .1: warn.append(f'{same} long segments identical to English (untranslated?)')
     if l in C.NL.LANGS:   # languages added later: an untranslated file never publishes; wording rules are errors
         if same > max(3, len(src) * .03): err.append(f'{same} long segments identical to English (untranslated)')
-        bad = [i for i, t in enumerate(tr) if isinstance(t, str) and re.search(C.NL.BANNED, t, re.I) and not re.search(C.NL.BANNED, src[i]['t'], re.I)]
+        bad = [i for i, t in enumerate(tr) if isinstance(t, str) and re.search(C.NL.BANNED, t, re.I) and not re.search(r'official', src[i]['t'], re.I)]
         if bad: err.append(f'#{bad[0]} says "official" ({len(bad)} segment(s)): our questions and the app are never official')
     return err, warn
 
