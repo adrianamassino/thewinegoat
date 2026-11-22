@@ -1,0 +1,154 @@
+{
+ "voice": "kokoro if_sara",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    3.0,
+    2.69,
+    3.46,
+    2.05,
+    2.18,
+    2.88,
+    3.26,
+    2.23
+   ],
+   "texts": [
+    "Tre rossi. Qual è il più leggero, quale il più pieno?",
+    "Scrivi il tuo ordine prima della risposta!",
+    "Leggero sembra delicato. Pieno sembra denso e ricco.",
+    "Beaujolais: corpo leggero.",
+    "Côtes du Rhône: corpo medio.",
+    "Cabernet Sauvignon californiano: corpo pieno.",
+    "Quindi il colore non dice nulla sul corpo: assaggia.",
+    "Ora riguardalo e cronometrati."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    2.66,
+    2.7,
+    3.88,
+    3.73,
+    1.39,
+    4.66,
+    2.58
+   ],
+   "texts": [
+    "Riesci a dirla prima del terzo indizio?",
+    "Indizio 1: aromatica, acidità alta.",
+    "Indizio 2: da secco a dolce. Sulla Mosella è spesso leggera.",
+    "Indizio 3: miele e idrocarburi con l’affinamento in bottiglia.",
+    "Tre… due… uno…",
+    "Riesling! Secco, rinfrescante e profumato di lime nella Clare e nella Eden Valley.",
+    "Riguardalo: la prendi al primo indizio?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    3.23,
+    3.07,
+    3.03,
+    1.97,
+    3.43,
+    2.12,
+    3.57
+   ],
+   "texts": [
+    "Esame di degustazione del Livello 3, bicchiere 1…",
+    "Poi ti ricordi: limpidezza, intensità, colore.",
+    "Passa in rassegna le famiglie: frutta, fiori, legno…",
+    "Poi affina con più o meno.",
+    "Un intervallo non è abbastanza preciso. Scegline uno.",
+    "Tre su quattro? Molto buono.",
+    "Stessi passaggi, per ogni bicchiere. Tagga chi degusta con te."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    1.94,
+    3.48,
+    1.99,
+    2.56,
+    2.1,
+    2.69,
+    2.26,
+    3.06
+   ],
+   "texts": [
+    "Quante ne hai viste? Contale.",
+    "Il profumo copre il vino, e disturba chi ti sta accanto.",
+    "Parti con il palato pulito.",
+    "Stessa piccola dose in ogni bicchiere.",
+    "Un bicchiere pulito, sempre.",
+    "La disidratazione può attenuare l’olfatto.",
+    "Al buio il colore non si giudica.",
+    "Mandalo a chi va alle degustazioni pieno di profumo."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    2.72,
+    2.61,
+    4.45,
+    4.16,
+    3.09,
+    3.4,
+    2.63
+   ],
+   "texts": [
+    "Due di questi vini bianchi sono difettosi.",
+    "Scrivi A, B o C prima della risposta.",
+    "Tartrati: innocui e senza sapore. Il freddo ne accelera la formazione.",
+    "Si dice che “sa di tappo”: deriva soprattutto da sughero contaminato.",
+    "Di solito una chiusura che lascia entrare ossigeno.",
+    "È un difetto solo se il vino non doveva avere quel gusto.",
+    "Riguardalo: quale indizio te l’ha svelato?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.4,
+    2.91,
+    3.14,
+    4.09,
+    4.47,
+    3.13,
+    3.84,
+    2.93
+   ],
+   "texts": [
+    "L’etichetta indica il luogo o l’uva?",
+    "Chablis indica il luogo. L’uva è lo Chardonnay.",
+    "Fuori dall’Europa, spesso in etichetta comanda l’uva.",
+    "Rioja indica il luogo: di solito un uvaggio guidato dal Tempranillo.",
+    "Il Bordeaux rosso è di solito un uvaggio di Cabernet Sauvignon e Merlot.",
+    "Le etichette dell’Alsazia di norma indicano l’uva.",
+    "Impara i nomi famosi e leggerai quasi ogni carta dei vini.",
+    "Riguardalo e batti i pop-up sul tempo."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    2.24,
+    3.08,
+    3.54,
+    2.96,
+    1.39,
+    2.97,
+    2.84,
+    2.74
+   ],
+   "texts": [
+    "Dillo prima del terzo indizio.",
+    "Indizio 1: trasparente, e niente tempo in botte.",
+    "Indizio 2: una base neutra, aromatizzata con botaniche.",
+    "Indizio 3: bacche resinose, che sanno di pino.",
+    "Tre… due… uno…",
+    "Gin: il ginepro deve essere l’aroma dominante.",
+    "Il London Dry Gin è un metodo, non un luogo.",
+    "Riguardalo: lo prendevi al primo indizio?"
+   ]
+  }
+ }
+}

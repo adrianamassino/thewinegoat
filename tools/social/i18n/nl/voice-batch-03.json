@@ -1,0 +1,154 @@
+{
+ "voice": "piper nl_NL-pim-medium",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    4.46,
+    3.37,
+    3.32,
+    2.13,
+    2.62,
+    3.31,
+    3.18,
+    2.44
+   ],
+   "texts": [
+    "Drie rode wijnen. Welke is het lichtst, welke het volst?",
+    "Zet je volgorde in de reacties voor het antwoord!",
+    "Licht voelt delicaat. Vol voelt dicht en rijk.",
+    "Beaujolais: lichte body.",
+    "Côtes du Rhône: middelvolle body.",
+    "Californische Cabernet Sauvignon: volle body.",
+    "Kleur zegt dus niets over body: proef het.",
+    "Kijk nog eens en neem je tijd op."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    2.16,
+    3.16,
+    3.69,
+    3.32,
+    1.21,
+    5.1,
+    2.84
+   ],
+   "texts": [
+    "Kun je hem noemen voor hint 3?",
+    "Hint 1: aromatisch, hoge zuren.",
+    "Hint 2: droog tot zoet. Aan de Mosel vaak licht.",
+    "Hint 3: honing en petrol na flesrijping.",
+    "Drie… twee… een…",
+    "Riesling! Droog, verfrissend en met limoengeur in Clare en Eden Valley.",
+    "Kijk nog eens: heb je hem bij hint 1?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    2.87,
+    4.08,
+    3.2,
+    2.28,
+    3.23,
+    2.11,
+    3.86
+   ],
+   "texts": [
+    "Proefexamen Level 3, glas 1…",
+    "Dan weet je het weer: helderheid, intensiteit, kleur.",
+    "Loop de groepen langs: fruit, bloemen, eiken…",
+    "Verfijn daarna met plus of min.",
+    "Een bereik is niet specifiek genoeg. Kies er één.",
+    "Drie van de vier? Heel goed.",
+    "Dezelfde stappen, bij elk glas. Tag je proefmaatje."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    2.49,
+    2.97,
+    1.95,
+    3.03,
+    2.32,
+    2.72,
+    2.91,
+    3.87
+   ],
+   "texts": [
+    "Hoeveel heb jij er gezien? Tel ze.",
+    "Parfum maskeert de wijn en stoort je buren.",
+    "Begin met een schone mond.",
+    "In elk glas dezelfde kleine hoeveelheid.",
+    "Een schoon glas, elke keer.",
+    "Uitdroging kan je reukzin afvlakken.",
+    "In het donker kun je kleur niet beoordelen.",
+    "Stuur dit naar de vriend die met parfum naar proeverijen komt."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    2.98,
+    3.2,
+    4.26,
+    3.76,
+    3.08,
+    3.74,
+    2.94
+   ],
+   "texts": [
+    "Twee van deze witte wijnen hebben een fout.",
+    "Reageer A, B of C voor het antwoord.",
+    "Wijnsteen: onschuldig en smaakloos. Kou versnelt het.",
+    "Je zegt dan dat de wijn “kurkt”: vooral door besmette kurk.",
+    "Meestal een sluiting die zuurstof binnenlaat.",
+    "Het is alleen een fout als de wijn niet zo bedoeld was.",
+    "Kijk nog eens: welke hint verraadde het?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.92,
+    3.48,
+    3.28,
+    4.14,
+    4.83,
+    4.1,
+    3.82,
+    2.68
+   ],
+   "texts": [
+    "Noemt het etiket de plaats of de druif?",
+    "Chablis noemt de plaats. De druif is Chardonnay.",
+    "Buiten Europa staat de druif vaak voorop.",
+    "Rioja noemt de plaats: meestal een blend met Tempranillo voorop.",
+    "Rode Bordeaux is meestal een blend van Cabernet Sauvignon en Merlot.",
+    "Etiketten uit de Elzas noemen normaal gesproken de druif.",
+    "Leer de beroemde namen en je leest bijna elke wijnkaart.",
+    "Kijk nog eens en wees de pop-ups voor."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    1.8,
+    3.38,
+    4.59,
+    2.96,
+    1.21,
+    2.84,
+    3.42,
+    2.74
+   ],
+   "texts": [
+    "Noem hem voor hint 3.",
+    "Hint 1: helder, en geen tijd in een vat.",
+    "Hint 2: een neutrale basis, op smaak gebracht met botanicals.",
+    "Hint 3: harsige bessen die naar den ruiken.",
+    "Drie… twee… een…",
+    "Gin: jeneverbes moet de hoofdsmaak zijn.",
+    "London Dry Gin is een methode, geen plaats.",
+    "Kijk nog eens: had je hem bij hint 1?"
+   ]
+  }
+ }
+}

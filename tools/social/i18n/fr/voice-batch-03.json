@@ -1,0 +1,154 @@
+{
+ "voice": "kokoro ff_siwis",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    3.22,
+    2.28,
+    2.73,
+    1.46,
+    1.72,
+    2.48,
+    2.43,
+    1.85
+   ],
+   "texts": [
+    "Trois rouges. Lequel est le plus léger, lequel le plus corsé ?",
+    "Commentez votre ordre avant la réponse !",
+    "Léger, c’est délicat. Corsé, c’est dense et riche.",
+    "Beaujolais : corps léger.",
+    "Côtes du Rhône : corps moyen.",
+    "Cabernet Sauvignon de Californie : corsé.",
+    "La couleur n’indique donc pas le corps : goûtez.",
+    "Revoyez-la et chronométrez-vous."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    1.91,
+    2.37,
+    2.92,
+    3.96,
+    1.12,
+    5.93,
+    2.44
+   ],
+   "texts": [
+    "Vous le trouvez avant l’indice 3 ?",
+    "Indice 1 : aromatique, acidité élevée.",
+    "Indice 2 : du sec au doux. En Moselle, souvent léger.",
+    "Indice 3 : miel et hydrocarbure avec le vieillissement en bouteille.",
+    "Trois… deux… un…",
+    "Riesling ! Sec, rafraîchissant et parfumé au citron vert dans la Clare et l’Eden Valley.",
+    "Revoyez-la : vous le trouvez dès l’indice 1 ?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    2.89,
+    2.86,
+    2.48,
+    1.77,
+    3.33,
+    1.6,
+    4.0
+   ],
+   "texts": [
+    "Examen de dégustation du Niveau 3, verre 1…",
+    "Puis ça revient : limpidité, intensité, couleur.",
+    "Passez les familles en revue : fruits, fleurs, bois…",
+    "Puis affinez avec plus ou moins.",
+    "Une fourchette n’est pas assez précise. Choisissez-en une.",
+    "Trois sur quatre ? Très bon.",
+    "Mêmes étapes, à chaque verre. Identifiez votre binôme de dégustation."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    1.84,
+    2.62,
+    1.81,
+    2.03,
+    1.72,
+    2.39,
+    2.44,
+    3.05
+   ],
+   "texts": [
+    "Combien en avez-vous vu ? Comptez-les.",
+    "Le parfum masque le vin, et gêne vos voisins.",
+    "Commencez avec une bouche neutre.",
+    "La même petite dose dans chaque verre.",
+    "Un verre propre, à chaque fois.",
+    "La déshydratation peut émousser l’odorat.",
+    "Impossible de juger la couleur dans le noir.",
+    "Envoyez-la à l’ami qui vient parfumé aux dégustations."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    1.88,
+    2.26,
+    4.21,
+    3.41,
+    3.09,
+    3.41,
+    2.62
+   ],
+   "texts": [
+    "Deux de ces vins blancs ont un défaut.",
+    "Commentez A, B ou C avant la réponse.",
+    "Le tartre : inoffensif et sans goût. Le froid accélère sa formation.",
+    "On dit qu’il est « bouchonné » : surtout à cause d’un liège contaminé.",
+    "Le plus souvent, un bouchage qui laisse entrer l’oxygène.",
+    "Ce n’est un défaut que si le vin n’était pas censé avoir ce goût.",
+    "Revoyez-la : quel indice vous a mis sur la voie ?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.47,
+    2.9,
+    3.14,
+    4.28,
+    4.88,
+    3.12,
+    3.62,
+    2.21
+   ],
+   "texts": [
+    "L’étiquette indique-t-elle le lieu ou le cépage ?",
+    "Chablis désigne le lieu. Le cépage est le chardonnay.",
+    "Hors d’Europe, c’est souvent le cépage qui mène l’étiquette.",
+    "Rioja désigne le lieu : en général un assemblage mené par le tempranillo.",
+    "Le bordeaux rouge est en général un assemblage de cabernet sauvignon et de merlot.",
+    "Les étiquettes d’Alsace indiquent normalement le cépage.",
+    "Apprenez les grands noms et vous lirez presque toutes les cartes des vins.",
+    "Revoyez-la et battez les pop-ups."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    1.7,
+    2.79,
+    3.12,
+    2.69,
+    1.12,
+    2.76,
+    2.83,
+    2.29
+   ],
+   "texts": [
+    "Trouvez-le avant l’indice 3.",
+    "Indice 1 : limpide, et pas de passage en fût.",
+    "Indice 2 : une base neutre, aromatisée aux botaniques.",
+    "Indice 3 : des baies résineuses, aux notes de pin.",
+    "Trois… deux… un…",
+    "Gin : le genièvre doit être l’arôme dominant.",
+    "Le London Dry Gin est une méthode, pas un lieu.",
+    "Revoyez-la : vous l’aviez dès l’indice 1 ?"
+   ]
+  }
+ }
+}
