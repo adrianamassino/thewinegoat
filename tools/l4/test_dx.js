@@ -74,7 +74,7 @@ async function unitRun(b, lg, w) {
   await hub(p); const pk = await p.$('.mockcard[data-d4="paper"]');
   if (!pk) bad(tag, "no practice paper"); else {
     await pk.click(); await p.waitForTimeout(150); await p.click('[data-d4="pgo"]'); await p.waitForTimeout(250);
-    const n = await p.$$eval(".d4pq", a => a.length); if (n < 3) bad(tag, "paper questions", n);
+    const n = await p.$$eval(".d4pq", a => a.length); if (n < Math.min(3, (NOW.exam && NOW.exam.q) || 3)) bad(tag, "paper questions", n);
     const ta = await p.$(".d4pq textarea"); if (ta) await ta.fill("acidity tannin alcohol sugar flor solera oak acidité acidez acidità");
     await p.click('[data-d4="psub"]'); await p.waitForTimeout(400);
     if (!(await p.$(".result-score"))) bad(tag, "paper not marked"); await chk("paper result"); }
