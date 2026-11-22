@@ -30,6 +30,27 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fbf7f1}
 .rgoat,.rart{position:absolute;left:50%;z-index:2;filter:drop-shadow(0 18px 26px rgba(110,21,50,.18));opacity:0}
 #cap{position:absolute;left:80px;right:80px;top:1440px;min-height:120px;display:flex;align-items:center;justify-content:center;z-index:6}
 #cap span{display:inline-block;background:rgba(42,27,32,.86);color:#fff;font:700 38px/1.3 var(--sans);padding:16px 26px;border-radius:18px;text-align:center;max-width:920px}
+
+/* background families (same as feed v2): dark ones get light text */
+#cv.bg-burgundy #bg{background:radial-gradient(120% 70% at 100% 80%,#9c2a50 0%,#6e1532 40%,#3e0f22 80%,#2a0816 100%)}
+#cv.bg-wine #bg{background:radial-gradient(120% 70% at 100% 80%,#2f6b54 0%,#1d4a39 40%,#123326 80%,#0b2219 100%)}
+#cv.bg-spirits #bg{background:radial-gradient(120% 70% at 100% 80%,#7d4e27 0%,#53321a 40%,#36200f 80%,#24150a 100%)}
+#cv.bg-sake #bg{background:radial-gradient(120% 70% at 100% 80%,#4a50b0 0%,#2f337f 40%,#1e2158 80%,#13153a 100%)}
+#cv.bg-beer #bg{background:radial-gradient(120% 70% at 100% 80%,#c28a1c 0%,#8a5a0e 42%,#5e3b07 80%,#452b05 100%)}
+#cv.dk #glow,#cv.dk #glow2{opacity:.12}
+#cv.dk .scene .rt{color:#fff}
+#cv.dk .scene .rt em{color:#f3d58c}
+#cv.dk .scene .kicker{color:#f3d58c}
+#cv.dk .scene .rtag{background:rgba(255,255,255,.14);color:#f3d58c}
+#cv.dk .scene .ln{border-color:rgba(255,255,255,.2);border-left-color:#f3d58c;box-shadow:0 10px 24px rgba(0,0,0,.25)}
+#cv.dk #prog{background:rgba(255,255,255,.18)}
+#cv.dk #prog i{background:#f3d58c}
+#cv.dk #rbadge{box-shadow:0 0 0 3px rgba(255,255,255,.9)}
+#cv.dk .rbrand img.em{box-shadow:0 0 0 2px rgba(255,255,255,.6)}
+#cv.dk .rart{filter:drop-shadow(0 0 2px rgba(255,255,255,.95)) drop-shadow(0 0 16px rgba(255,255,255,.3))}
+#cv.dk .rgoat{filter:drop-shadow(0 18px 26px rgba(0,0,0,.4))}
+#cv.dk #band{opacity:.55}
+#cv.dk #cap span{background:rgba(255,255,255,.95);color:#2a1b20}
 </style>
 </head><body>
 <div id="cv">
@@ -43,6 +64,7 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#fbf7f1}
 // Deterministic animation: window.render(t) draws the frame at time t (seconds).
 const R = window.REEL;
 document.getElementById('cv').classList.add('c-' + R.course);
+if (R.bgc && R.bgc !== 'cream') { document.getElementById('cv').classList.add('bg-' + R.bgc, 'dk'); document.querySelector('.rbrand img.wm').src = 'img/wordmark-light.webp'; }
 document.getElementById('rbadge').textContent = R.badge;
 const ease = (x) => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
 const clamp = (x, a, b) => Math.max(a, Math.min(b, x));

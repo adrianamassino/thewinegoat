@@ -10,6 +10,7 @@
  *   reel animation in tools/social/templates/reel.html.
  * - Output goes to the batch's `out` folder (e.g. social/instagram/batch-01/).
  * - Needs Playwright (Chromium) and ffmpeg (/usr/local/bin/ffmpeg or on PATH).
+ * - --reels=id1,id2 rebuilds only those reels.
  * - --safe draws the story/reel UI safe zones (top 250px, bottom 300px) for checking only.
  * To make a new batch: copy batches/batch-01.js, change id/out and the content, run the script.
  */
@@ -126,7 +127,7 @@ async function openReel(browser, reel) {
   for (const s of reel.scenes) if (s.goat && R.FORBIDDEN_GOATS.includes(s.goat.src)) throw new Error('logo goat used in reel ' + reel.id);
   if (batch.v2) for (const s of reel.scenes) if (s.goat && reel.course !== 'wine' && !R.NEUTRAL_GOATS.includes(s.goat.src)) throw new Error(`wine goat on ${reel.course} reel ${reel.id}`);
   const tpl = fs.readFileSync(path.join(__dirname, 'templates', batch.reelTemplate || 'reel.html'), 'utf8');
-  const data = batch.v2 ? { ...reel, badge: R.badgeText(reel) } : reel;
+  const data = batch.v2 ? { ...reel, badge: R.badgeText(reel), bgc: R.bgClass(reel) } : reel;
   const html = safeOverlay(tpl.replace('<!--BASE-->', `<base href="file://${R.ROOT}/"><script>window.REEL=${JSON.stringify(data)};</script>`));
   const page = await open(browser, html, 1080, 1920);
   await page.evaluate(() => window.reelReady);
@@ -136,7 +137,8 @@ async function openReel(browser, reel) {
 async function buildReels(browser) {
   const dir = path.join(OUT, 'reels');
   mk(dir);
-  for (const reel of batch.reels) {
+  const pick = (args.find((a) => a.startsWith('--reels=')) || '').slice(8).split(',').filter(Boolean);
+  for (const reel of batch.reels.filter((r) => !pick.length || pick.includes(r.id))) {
     const page = await openReel(browser, reel);
     const fps = 30;
     const dur = reel.scenes[reel.scenes.length - 1].end;

@@ -298,11 +298,11 @@ ul.bul li b{color:var(--burgundy);font-weight:800}
 .v2 .nd{display:grid;grid-template-columns:92px 1fr;gap:26px;align-items:center;position:relative;padding:12px 0}
 .v2 .nd .dot{width:92px;height:92px;border-radius:50%;background:#fff;border:4px solid var(--wine);display:flex;align-items:center;justify-content:center;font:800 38px/1 var(--serif);color:var(--wine);z-index:2}
 .v2 .nd.hi .dot{background:var(--grad);color:#fff;border-color:transparent}
-.v2 .nd.opt .dot{border-style:dashed;color:var(--mut);border-color:var(--mut)}
+.v2 .nd.optn .dot{border-style:dashed;color:var(--mut);border-color:var(--mut)}
 .v2 .nd:not(:last-child)::after{content:"";position:absolute;left:44px;top:96px;bottom:-12px;width:4px;background:linear-gradient(180deg,var(--wine),rgba(140,29,64,.25));z-index:1}
 .v2 .nd b{display:block;font:800 44px/1.1 var(--serif);color:var(--wine2)}
 .v2 .nd span{display:block;font:500 31px/1.3 var(--sans);color:var(--ink);margin-top:4px}
-.v2 .nd.opt b{color:var(--mut)}
+.v2 .nd.optn b{color:var(--mut)}
 .v2 .par{display:grid;grid-template-columns:1fr 120px 1fr;align-items:center;gap:10px;margin:8px 0 26px}
 .v2 .par .box{background:#fff;border:2px solid var(--line2);border-radius:26px;padding:26px 24px;text-align:center}
 .v2 .par .box b{display:block;font:800 42px/1.1 var(--serif);color:var(--wine2)}
@@ -353,3 +353,70 @@ ul.bul li b{color:var(--burgundy);font-weight:800}
 
 .v2 .nd span b{display:inline;font:inherit;font-weight:800;color:var(--wine)}
 .tpl-typo:not(.cover) .area,.tpl-myth:not(.cover) .area{justify-content:center}
+
+/* =====================================================================================
+   Background families (feed v2): cream (default) | burgundy | course theme. Dark ones = .dk:
+   light text on the background, white cards keep their dark text. Light spot bottom-right so
+   titles (top-left) always sit on the darkest part.
+   ===================================================================================== */
+.v2.bg-burgundy{background:radial-gradient(120% 90% at 100% 100%,#9c2a50 0%,#6e1532 40%,#3e0f22 80%,#2a0816 100%)}
+.v2.bg-wine{background:radial-gradient(120% 90% at 100% 100%,#2f6b54 0%,#1d4a39 40%,#123326 80%,#0b2219 100%)}
+.v2.bg-spirits{background:radial-gradient(120% 90% at 100% 100%,#7d4e27 0%,#53321a 40%,#36200f 80%,#24150a 100%)}
+.v2.bg-sake{background:radial-gradient(120% 90% at 100% 100%,#4a50b0 0%,#2f337f 40%,#1e2158 80%,#13153a 100%)}
+.v2.bg-beer{background:radial-gradient(120% 90% at 100% 100%,#c28a1c 0%,#8a5a0e 42%,#5e3b07 80%,#452b05 100%)}
+.v2.dk{--hl:#f3d58c;color:#fff}
+.v2.dk h1,.v2.dk h2{color:#fff}
+.v2.dk h1 em,.v2.dk h2 em{color:var(--hl)}
+.v2.dk .kicker{color:var(--hl)}
+.v2.dk .sub{color:rgba(255,255,255,.88)}
+.v2.dk .sub b{color:var(--hl)}
+.v2.dk .foot,.v2.dk .foot .cnt{color:rgba(255,255,255,.8)}
+.v2.dk .swipe{color:var(--hl)}
+.v2.dk ul.bul li{color:#fff}
+.v2.dk ul.bul li b{color:var(--hl)}
+.v2.dk ul.bul li::before{background:var(--hl);box-shadow:0 0 0 5px rgba(243,213,140,.22)}
+.v2.dk .cta-line{background:var(--hl);color:#2a1b20}
+.v2.dk .badge,.v2.dk .badge-lg{box-shadow:0 0 0 3px rgba(255,255,255,.9)}
+.v2.dk .brand img.em{box-shadow:0 0 0 2px rgba(255,255,255,.6)}
+.v2.dk .goat{filter:drop-shadow(0 14px 24px rgba(0,0,0,.4))}
+.v2.dk .art svg{filter:drop-shadow(0 0 2px rgba(255,255,255,.95)) drop-shadow(0 0 14px rgba(255,255,255,.3))}
+.v2.dk .hint{color:var(--hl)}
+/* white cards keep dark text */
+.v2.dk .cover-card h1{color:var(--wine2)}
+.v2.dk .cover-card h1 em{color:var(--wine)}
+.v2.dk .cover-card .kicker{color:var(--wine)}
+.v2.dk .cover-card .sub{color:var(--mut)}
+.v2.dk .card2,.v2.dk .mini,.v2.dk .vs2,.v2.dk .pc,.v2.dk .mapbox,.v2.dk .ed-fact,.v2.dk .ex,.v2.dk .scale div,.v2.dk .par .box{box-shadow:0 14px 34px rgba(0,0,0,.28)}
+/* flow */
+.v2.dk .nd b{color:#fff}
+.v2.dk .nd span{color:rgba(255,255,255,.9)}
+.v2.dk .nd span b{color:var(--hl)}
+.v2.dk .nd .dot{border-color:var(--hl)}
+.v2.dk .nd.hi .dot{background:var(--hl);color:#2a1b20}
+.v2.dk .nd.optn b{color:rgba(255,255,255,.85)}
+.v2.dk .nd.optn .dot{background:transparent;color:#fff;border-color:rgba(255,255,255,.75)}
+.v2.dk .nd:not(:last-child)::after{background:linear-gradient(180deg,var(--hl),rgba(243,213,140,.3))}
+.v2.dk .par .mid{color:var(--hl)}
+/* editorial */
+.v2.dk .gt{background:linear-gradient(135deg,#fbe9b8 0%,#e2b552 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.v2.dk .ed-rule{background:linear-gradient(90deg,var(--hl),rgba(243,213,140,0))}
+.v2.dk .ed-p{color:#fff}
+.v2.dk .ed-p b{color:var(--hl)}
+.v2.dk .ed-index{border-top-color:var(--hl)}
+.v2.dk .ed-index span{color:#fff}
+.v2.dk .ed-index b{color:var(--hl)}
+/* typographic */
+.v2.dk .tq{color:#fff}
+.v2.dk .tbar{background:var(--hl)}
+.v2.dk .tbig h3{color:#fff}
+.v2.dk .tbig p{color:rgba(255,255,255,.92)}
+.v2.dk .tbig p b{color:var(--hl)}
+/* myth vs fact */
+.v2.dk .mf{box-shadow:0 14px 34px rgba(0,0,0,.35)}
+.v2.dk .mf .f{background:rgba(20,10,4,.55);border:2px solid rgba(255,255,255,.28);border-top:none;border-radius:0 0 30px 30px}
+.v2.dk .bigmf .x{color:rgba(255,255,255,.72);opacity:1;text-decoration-color:var(--hl)}
+/* map */
+.v2.dk .legend span{color:#fff}
+/* photo cover: overlay in the theme colour */
+.v2.bg-spirits .ph::after{background:linear-gradient(180deg,rgba(36,21,10,0) 30%,rgba(36,21,10,.6) 58%,rgba(36,21,10,.95) 100%)}
+.v2.dk .card2,.v2.dk .mini,.v2.dk .vs2,.v2.dk .pc,.v2.dk .mapbox,.v2.dk .ed-fact,.v2.dk .ex,.v2.dk .wa .w,.v2.dk .scale div,.v2.dk .par .box,.v2.dk .note,.v2.dk .opt,.v2.dk .step,.v2.dk .mf .m,.v2.dk .cover-card{color:var(--ink)}

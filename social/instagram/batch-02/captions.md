@@ -4,33 +4,35 @@ Files: `posts/<post>/` (carousels, 1080×1350, upload slides in numeric order), 
 `preview.png` = the profile grid (4 columns, newest first) once batch 02 and the corrected batch-01 items (`../batch-01-fixed/`) are posted. `contact-sheet.png` = every slide, story and reel scene.
 Rebuild: `NODE_PATH=$(npm root -g) node tools/social/build.js batch-02` (content in `tools/social/batches/batch-02.js`).
 
-Look: the website's cream/white base with burgundy shading for every post. The course shows only in the badge and the thin top line: Wine burgundy, Spirits amber, Sake indigo, Beer golden. Spirits, Sake and Beer posts carry no wine imagery.
+Look: three background families (cream site look, deep burgundy, course colour), same layouts. The course and level show in the badge, and the course colour in the thin top line: Wine burgundy, Spirits amber, Sake indigo, Beer golden. Spirits, Sake and Beer posts carry no wine imagery.
 
 ---
 
 ## Suggested schedule (Europe/Rome)
 
-Before starting: archive or delete the old carousel A ("Same grape. Two wines.") and reel 1 ("3 grapes in 15 seconds"); their corrected versions are in the plan below.
+Before starting: archive or delete the old carousel A ("Same grape. Two wines."), the old Sancerre quiz and reel 1 ("3 grapes in 15 seconds"); their corrected versions are in the plan below.
 
-| Date | Time | What | Course · level |
-|---|---|---|---|
-| Tue 24 Nov | 18:30 | Carousel: Same grape. Two wines. (corrected, `batch-01-fixed`) | Wine · Level 2 |
-| Wed 25 Nov | 18:30 | Carousel: How sake is brewed | Sake · Level 1 |
-| Thu 26 Nov | 13:00 | Reel: 3 grapes in 15 seconds (corrected, `batch-01-fixed`) | Wine · Level 1 |
-| Fri 27 Nov | 12:30 / 19:00 | Story pair 1: red wine colour | Wine · Level 1 |
-| Sat 28 Nov | 11:00 | Carousel: Tequila vs Mezcal | Spirits · Level 2 |
-| Sun 29 Nov | 13:00 | Reel: Crianza, Reserva, Gran Reserva | Wine · Level 2 |
-| Mon 30 Nov | 18:30 | Carousel: Dark beer is always strong… myth | Beer · Level 1 |
-| Tue 1 Dec | 18:30 | Carousel: Sancerre quiz (corrected, `batch-01-fixed`) | Wine · Level 1 |
-| Wed 2 Dec | 12:30 / 19:00 | Story pair 2: XO Cognac | Spirits · Level 1 |
-| Thu 3 Dec | 13:00 | Reel: Sake polishing ratio in 20 seconds | Sake · Level 1 |
-| Fri 4 Dec | 18:30 | Carousel: The traditional method in six steps | Wine · Level 3 |
-| Sat 5 Dec | 13:00 | Reel: Single Malt Scotch, 3 words | Spirits · Level 1 |
-| Mon 7 Dec | 18:30 | Carousel: Bordeaux Left Bank vs Right Bank | Wine · Level 2 |
-| Tue 8 Dec | 13:00 | Reel: Ale or lager? | Beer · Level 1 |
-| Wed 9 Dec | 12:30 / 19:00 | Story pair 3: sake is fermented | Sake · Level 1 |
-| Thu 10 Dec | 18:30 | Carousel: Level 3 short written answers | Wine · Level 3 |
-| Sat 12 Dec | 11:00 | Carousel: Sherry styles, card by card | Wine · Level 4 (Diploma) |
+Backgrounds come in three families, about a third each: **cream** (the website look), **burgundy** (deep burgundy, light text) and **course colour** (Wine deep green, Spirits whisky brown, Sake indigo, Beer amber). In this order no two neighbouring tiles of the 4-column grid share a background family, including the four older dark-burgundy posts underneath (see `preview.png`).
+
+| Date | Time | What | Course · level | Background |
+|---|---|---|---|---|
+| Tue 24 Nov | 18:30 | Carousel: Sancerre quiz (corrected, `batch-01-fixed`) | Wine · Level 1 | course: deep green |
+| Wed 25 Nov | 13:00 | Reel: Sake polishing ratio in 20 seconds | Sake · Level 1 | cream |
+| Thu 26 Nov | 18:30 | Carousel: Same grape. Two wines. (corrected, `batch-01-fixed`) | Wine · Level 2 | cream |
+| Fri 27 Nov | 12:30 / 19:00 | Story pair 1: red wine colour | Wine · Level 1 | (story, cream) |
+| Sat 28 Nov | 11:00 | Carousel: Dark beer is always strong… myth | Beer · Level 1 | course: amber |
+| Sun 29 Nov | 13:00 | Reel: 3 grapes in 15 seconds (corrected, `batch-01-fixed`) | Wine · Level 1 | cream |
+| Mon 30 Nov | 13:00 | Reel: Ale or lager? | Beer · Level 1 | burgundy |
+| Tue 1 Dec | 18:30 | Carousel: Sherry styles, card by card | Wine · Level 4 (Diploma) | course: deep green |
+| Wed 2 Dec | 12:30 / 19:00 | Story pair 2: XO Cognac | Spirits · Level 1 | (story, cream) |
+| Thu 3 Dec | 13:00 | Reel: Single Malt Scotch, 3 words | Spirits · Level 1 | burgundy |
+| Fri 4 Dec | 18:30 | Carousel: Tequila vs Mezcal | Spirits · Level 2 | course: whisky brown (photo cover) |
+| Sat 5 Dec | 11:00 | Carousel: The traditional method in six steps | Wine · Level 3 | cream |
+| Sun 6 Dec | 13:00 | Reel: Crianza, Reserva, Gran Reserva | Wine · Level 2 | burgundy |
+| Mon 7 Dec | 18:30 | Carousel: How sake is brewed | Sake · Level 1 | course: indigo |
+| Tue 8 Dec | 12:30 / 19:00 | Story pair 3: sake is fermented | Sake · Level 1 | (story, cream) |
+| Wed 9 Dec | 18:30 | Carousel: Bordeaux Left Bank vs Right Bank | Wine · Level 2 | cream |
+| Fri 11 Dec | 18:30 | Carousel: Level 3 short written answers | Wine · Level 3 | burgundy |
 
 Stories: on each question frame, add Instagram's **poll or quiz sticker** (A / B) in the empty space under the options, then post the answer frame a few hours later. Reels: add a light instrumental track in the Instagram app (the files have a silent track).
 
@@ -54,7 +56,7 @@ Practise free on thewinegoat.com
 #sake #sakestudent #nihonshu #wsetsake #wset #koji #junmai #namazake #sakelover #japanesesake #drinkseducation #learnsake
 
 **Alt text**
-Six-slide carousel on a cream background with an indigo "Sake · Level 1" badge and line drawings of a sake flask and cup. 1: "How sake is brewed". 2: Four ingredients (steamed white rice, kōji, water, yeast) plus optional high-strength distilled alcohol. 3: "No kōji, no sugar": kōji enzymes turn starch into sugar while yeast turns sugar into alcohol, in parallel, to about 20% abv. 4: Flow diagram: prepare the rice, make kōji, starter, main fermentation, filtration, bottling. 5: Optional steps: distilled alcohol (without it the sake can be junmai), water, pasteurisation (skipped: nama). 6: Question to followers.
+Six-slide carousel on a deep indigo background with an indigo "Sake · Level 1" badge and line drawings of a sake flask and cup. 1: "How sake is brewed". 2: Four ingredients (steamed white rice, kōji, water, yeast) plus optional high-strength distilled alcohol. 3: "No kōji, no sugar": kōji enzymes turn starch into sugar while yeast turns sugar into alcohol, in parallel, to about 20% abv. 4: Flow diagram: prepare the rice, make kōji, starter, main fermentation, filtration, bottling. 5: Optional steps: distilled alcohol (without it the sake can be junmai), water, pasteurisation (skipped: nama). 6: Question to followers.
 
 ---
 
@@ -98,7 +100,7 @@ Practise free on thewinegoat.com
 #tequila #mezcal #agave #wsetspirits #wset #spirits #spiritsstudent #bartender #mixology #spiritseducation #agavespirits #learnspirits
 
 **Alt text**
-Six-slide carousel with an amber "Spirits · Level 2" badge. 1: Aerial photo of an agave field in Jalisco, Mexico, with the title "Tequila vs Mezcal". 2: From agave to piña: inulin, harvest before flowering, the piña is always cooked; drawing of an agave plant. 3: Side-by-side table: agave, where, cooking, producers. 4: Tequila label terms: Blanco, Gold, Reposado (2 months in oak), Añejo (1 year), Extra Añejo (3 years). 5: Mezcal, Artisanal Mezcal, Ancestral Mezcal. 6: "Team Tequila or team Mezcal?".
+Six-slide carousel on a deep whisky-brown background with an amber "Spirits · Level 2" badge. 1: Aerial photo of an agave field in Jalisco, Mexico, with the title "Tequila vs Mezcal". 2: From agave to piña: inulin, harvest before flowering, the piña is always cooked; drawing of an agave plant. 3: Side-by-side table: agave, where, cooking, producers. 4: Tequila label terms: Blanco, Gold, Reposado (2 months in oak), Añejo (1 year), Extra Añejo (3 years). 5: Mezcal, Artisanal Mezcal, Ancestral Mezcal. 6: "Team Tequila or team Mezcal?".
 
 ---
 
@@ -121,7 +123,7 @@ Practise free on thewinegoat.com
 #beer #beerstudent #wsetbeer #wset #craftbeer #beereducation #stout #tripel #lager #sourbeer #beergeek #learnbeer
 
 **Alt text**
-Seven-slide myth-versus-fact carousel with a golden "Beer · Level 1" badge. 1: "Dark beer is always strong… Myth." with drawings of a pale and a dark beer glass. 2–6: Each myth crossed out above a burgundy fact panel: colour comes from malt, strength from sugar; tripel is gold and strong; porter and stout range from low to very high alcohol; Munich dunkel is a copper to brown lager; sourness in sour styles is intentional (Berliner weisse). 7: Strength scale: up to 4% low, 4.1–5.9% medium, 6–9% high, over 9% very high.
+Seven-slide myth-versus-fact carousel on a deep amber background with a golden "Beer · Level 1" badge. 1: "Dark beer is always strong… Myth." with drawings of a pale and a dark beer glass. 2–6: Each myth crossed out above a burgundy fact panel: colour comes from malt, strength from sugar; tripel is gold and strong; porter and stout range from low to very high alcohol; Munich dunkel is a copper to brown lager; sourness in sour styles is intentional (Berliner weisse). 7: Strength scale: up to 4% low, 4.1–5.9% medium, 6–9% high, over 9% very high.
 
 ---
 
@@ -165,7 +167,7 @@ Practise free on thewinegoat.com
 #wset #wset3 #wsetlevel3 #winestudent #winestudy #examprep #studytips #sommelier #winelover #wineeducation #mosel #riesling
 
 **Alt text**
-Seven-slide typographic carousel in burgundy on cream. 1: "Facts don't score. Linked facts do." 2: Big "4": four short written answers beside 50 multiple-choice questions; 55% needed. 3: Big "1": one mark equals one precise point, with an example of a precise answer. 4: Five-step method: read every sub-part, plan in keywords, assign keywords, write linked sentences, reread. 5: The chain climate → site → grape → vineyard → winery → maturation → style. 6: A weak and a strong answer to "Why does the Mosel make light, high-acid Riesling?". 7: Question to followers, goat with glasses on a stack of books.
+Seven-slide typographic carousel, white and gold text on a deep burgundy background. 1: "Facts don't score. Linked facts do." 2: Big "4": four short written answers beside 50 multiple-choice questions; 55% needed. 3: Big "1": one mark equals one precise point, with an example of a precise answer. 4: Five-step method: read every sub-part, plan in keywords, assign keywords, write linked sentences, reread. 5: The chain climate → site → grape → vineyard → winery → maturation → style. 6: A weak and a strong answer to "Why does the Mosel make light, high-acid Riesling?". 7: Question to followers, goat with glasses on a stack of books.
 
 ---
 
@@ -187,7 +189,7 @@ Practise free on thewinegoat.com
 #wsetdiploma #wset #winestudent #sherry #jerez #fino #manzanilla #amontillado #oloroso #pedroximenez #fortifiedwine #wineeducation
 
 **Alt text**
-Seven-slide flashcard carousel; each card has a burgundy header band on a white card. 1: "Sherry styles, card by card" with three copita glasses (pale, amber, dark). 2: Biological vs oxidative ageing, flor and the solera. 3: Fino and Manzanilla: pale lemon, 15–15.5%, almond, herbs, bread dough; Manzanilla from Sanlúcar de Barrameda. 4: Amontillado and Palo Cortado. 5: Oloroso: brown, 18–22%, full body, walnut, toffee, spice, leather. 6: Pedro Ximénez and Cream; dry styles have no more than 4 g/L. 7: VOS (20 years) and VORS (30 years), with a pale and a brown glass.
+Seven-slide flashcard carousel on a deep green background; each card has a burgundy header band on a white card. 1: "Sherry styles, card by card" with three copita glasses (pale, amber, dark). 2: Biological vs oxidative ageing, flor and the solera. 3: Fino and Manzanilla: pale lemon, 15–15.5%, almond, herbs, bread dough; Manzanilla from Sanlúcar de Barrameda. 4: Amontillado and Palo Cortado. 5: Oloroso: brown, 18–22%, full body, walnut, toffee, spice, leather. 6: Pedro Ximénez and Cream; dry styles have no more than 4 g/L. 7: VOS (20 years) and VORS (30 years), with a pale and a brown glass.
 
 ---
 
@@ -209,7 +211,7 @@ Practise free on thewinegoat.com
 #wset #wset2 #winestudent #spanishwine #rioja #crianza #reserva #granreserva #tempranillo #winelabel #winelover #wineeducation
 
 **Alt text**
-Animated reel on a cream background with a burgundy "Wine · Level 2" badge and drawings of red grapes and a glass of red wine. Cards explain Joven (no minimum; Genérico in Rioja), Crianza (24 months, 6 in oak), Reserva (36 months, 12 in oak), Gran Reserva (60 months, 18 in oak) and a memory trick. Ends with a goat on a barrel raising a glass of red wine. Captions are burned in.
+Animated reel on a deep burgundy background with a "Wine · Level 2" badge and drawings of red grapes and a glass of red wine. Cards explain Joven (no minimum; Genérico in Rioja), Crianza (24 months, 6 in oak), Reserva (36 months, 12 in oak), Gran Reserva (60 months, 18 in oak) and a memory trick. Ends with a goat on a barrel raising a glass of red wine. Captions are burned in.
 
 ---
 
@@ -252,7 +254,7 @@ Practise free on thewinegoat.com
 #whisky #scotch #singlemalt #scotchwhisky #wsetspirits #wset #spirits #spiritsstudent #potstill #bartender #whiskylover #spiritseducation
 
 **Alt text**
-Animated reel on a cream background with an amber "Spirits · Level 1" badge and drawings of a whisky bottle with a tumbler, an ear of barley and a copper pot still. Cards explain Scotch, Malt and Single, Blended Scotch and peat smoke. Captions are burned in.
+Animated reel on a deep burgundy background with an amber "Spirits · Level 1" badge and drawings of a whisky bottle with a tumbler, an ear of barley and a copper pot still. Cards explain Scotch, Malt and Single, Blended Scotch and peat smoke. Captions are burned in.
 
 ---
 
@@ -272,7 +274,7 @@ Practise free on thewinegoat.com
 #beer #beerstudent #wsetbeer #wset #ale #lager #pilsner #craftbeer #beereducation #brewing #beergeek #learnbeer
 
 **Alt text**
-Animated reel on a cream background with a golden "Beer · Level 1" badge and drawings of beer glasses in several colours, a hop cone and barley. Cards explain ale yeast and lager yeast and show that colour does not tell them apart. Captions are burned in.
+Animated reel on a deep burgundy background with a golden "Beer · Level 1" badge and drawings of beer glasses in several colours, a hop cone and barley. Cards explain ale yeast and lager yeast and show that colour does not tell them apart. Captions are burned in.
 
 ---
 

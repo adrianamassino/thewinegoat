@@ -11,13 +11,13 @@ const I = require('../lib/illus');
 const map = require('./bordeaux-map');
 
 const G = (name) => `img/goats/${name}.webp`;
-const arrow = '<span style="color:#8c1d40;font-weight:800">→</span>';
+const arrow = '<span style="color:var(--hl, #8c1d40);font-weight:800">→</span>';
 
 /* =========================== FEED CAROUSELS (1080x1350) =========================== */
 const posts = [
   /* ---------- 1. Sake: how sake is brewed (flow diagram) ---------- */
   {
-    id: 'sake-how-sake-is-brewed', course: 'sake', level: 1, tpl: 'flow',
+    id: 'sake-how-sake-is-brewed', bg: 'course', course: 'sake', level: 1, tpl: 'flow',
     slides: [
       { layout: 'cover', kicker: 'Brewing basics',
         title: 'How sake <em>is brewed</em>', titleWidth: 640,
@@ -63,7 +63,7 @@ const posts = [
 
   /* ---------- 3. Wine L3: traditional method (editorial) ---------- */
   {
-    id: 'wine-traditional-method', course: 'wine', level: 3, tpl: 'editorial',
+    id: 'wine-traditional-method', bg: 'cream', course: 'wine', level: 3, tpl: 'editorial',
     slides: [
       { layout: 'cover', kicker: 'Sparkling wine',
         title: 'The traditional method <em>in six steps</em>', titleWidth: 820,
@@ -94,7 +94,7 @@ const posts = [
 
   /* ---------- 4. Spirits L2: Tequila vs Mezcal (photo cover + comparison) ---------- */
   {
-    id: 'spirits-tequila-vs-mezcal', course: 'spirits', level: 2, tpl: 'photo',
+    id: 'spirits-tequila-vs-mezcal', bg: 'course', course: 'spirits', level: 2, tpl: 'photo',
     slides: [
       { layout: 'cover', kicker: 'Agave spirits',
         title: 'Tequila <em>vs</em> Mezcal', titleSize: 118,
@@ -144,7 +144,7 @@ const posts = [
 
   /* ---------- 5. Beer L1: colour vs strength (myth vs fact) ---------- */
   {
-    id: 'beer-colour-strength-myths', course: 'beer', level: 1, tpl: 'myth',
+    id: 'beer-colour-strength-myths', bg: 'course', course: 'beer', level: 1, tpl: 'myth',
     slides: [
       { layout: 'cover', kicker: 'Myth or fact?',
         title: 'Dark beer is <em>always strong</em>…', titleWidth: 700,
@@ -169,7 +169,7 @@ const posts = [
 
   /* ---------- 7. Wine L2: Bordeaux Left Bank vs Right Bank (map) ---------- */
   {
-    id: 'wine-bordeaux-left-right-bank', course: 'wine', level: 2, tpl: 'map',
+    id: 'wine-bordeaux-left-right-bank', bg: 'cream', course: 'wine', level: 2, tpl: 'map',
     slides: [
       { layout: 'cover', kicker: 'Bordeaux',
         title: 'Left Bank <em>vs</em> Right Bank', titleSize: 96,
@@ -207,7 +207,7 @@ const posts = [
 
   /* ---------- 9. Wine L3: how to answer a short written-answer question (typographic) ---------- */
   {
-    id: 'wine-level3-short-answers', course: 'wine', level: 3, tpl: 'typo',
+    id: 'wine-level3-short-answers', bg: 'burgundy', course: 'wine', level: 3, tpl: 'typo',
     slides: [
       { layout: 'cover', kicker: 'Written answers',
         title: '', html: B2.tq('Facts don’t score. <em class="gt">Linked facts do.</em>')
@@ -244,7 +244,7 @@ const posts = [
 
   /* ---------- 11. Wine L4 (Diploma): Sherry styles (flashcards) ---------- */
   {
-    id: 'wine-sherry-styles', course: 'wine', level: 4, levelNote: 'Diploma', tpl: 'flash',
+    id: 'wine-sherry-styles', bg: 'course', course: 'wine', level: 4, levelNote: 'Diploma', tpl: 'flash',
     slides: [
       { layout: 'cover', kicker: '',
         cardOpen: '<div class="card2 cover-card"><div class="kicker">Fortified wines · flashcards</div>', cardClose: '</div>',
@@ -290,7 +290,7 @@ const posts = [
 /* =========================== REELS (1080x1920, 30 fps, light template) =========================== */
 const grainRow = (items) => `<div style="display:flex;gap:30px;justify-content:center;align-items:flex-end">${items.map(([r, t]) => `<div style="display:flex;flex-direction:column;align-items:center;gap:8px">${I.grain(220, r)}<b style="font:800 40px/1 var(--serif);color:#3b3f8f">${t}</b></div>`).join('')}</div>`;
 const reels = [
-  { id: 'reel-wine-spanish-ageing-terms', course: 'wine', level: 2,
+  { id: 'reel-wine-spanish-ageing-terms', bg: 'burgundy', course: 'wine', level: 2,
     cover: { t: 1.8 },
     scenes: [
       { start: 0, end: 2.8, kicker: 'Spanish label terms', title: 'Crianza, Reserva, <em>Gran Reserva</em>', titleSize: 92,
@@ -317,7 +317,7 @@ const reels = [
         caption: 'Tell us in the comments, and follow for more.',
         goat: { src: G('goat-on-wine-barrel-raising-red-wine'), h: 420, top: 960 } },
     ] },
-  { id: 'reel-sake-polishing-ratio', course: 'sake', level: 1,
+  { id: 'reel-sake-polishing-ratio', bg: 'cream', course: 'sake', level: 1,
     cover: { t: 1.9 },
     scenes: [
       { start: 0, end: 2.8, kicker: 'Sake labels', title: 'Polishing ratio <em>in 20 seconds</em>', titleSize: 96,
@@ -342,7 +342,7 @@ const reels = [
         caption: 'Follow for more sake basics.',
         art: { svg: I.tokkuri(360), top: 1010 } },
     ] },
-  { id: 'reel-spirits-single-malt-scotch', course: 'spirits', level: 1,
+  { id: 'reel-spirits-single-malt-scotch', bg: 'burgundy', course: 'spirits', level: 1,
     cover: { t: 1.9 },
     scenes: [
       { start: 0, end: 2.8, kicker: 'Whisky basics', title: 'Single Malt Scotch: <em>3 words</em>', titleSize: 94,
@@ -370,7 +370,7 @@ const reels = [
         caption: 'Follow for more spirits basics.',
         art: { svg: I.whisky(360), top: 1010 } },
     ] },
-  { id: 'reel-beer-ale-vs-lager', course: 'beer', level: 1,
+  { id: 'reel-beer-ale-vs-lager', bg: 'burgundy', course: 'beer', level: 1,
     cover: { t: 1.9 },
     scenes: [
       { start: 0, end: 2.8, kicker: 'Beer basics', title: 'Ale or lager? <em>15 seconds</em>', titleSize: 96,
@@ -426,34 +426,34 @@ const stories = [
 ];
 
 // Posting order (oldest first), batch 02 interleaved with the corrected batch-01 items (batch-01-fixed).
-// Chosen so that neighbouring grid tiles rarely share a course or a layout.
+// Backgrounds cycle so that no two neighbouring tiles of the 4-column grid (newest first) share a
+// background family, including the 4 old dark batch-01 posts below them.
 const FX = 'social/instagram/batch-01-fixed';
 const fixed = (id, label, reel = false) => ({ id, reel, dir: FX, label });
 const feed = [
-  fixed('a-same-grape-two-wines', 'Wine · Level 2'),
-  'sake-how-sake-is-brewed',
-  fixed('reel-1-three-grapes', 'Wine · Level 1', true),
-  'spirits-tequila-vs-mezcal',
-  'reel-wine-spanish-ageing-terms',
-  'beer-colour-strength-myths',
   fixed('sancerre-quiz', 'Wine · Level 1'),
   'reel-sake-polishing-ratio',
-  'wine-traditional-method',
-  'reel-spirits-single-malt-scotch',
-  'wine-bordeaux-left-right-bank',
+  fixed('a-same-grape-two-wines', 'Wine · Level 2'),
+  'beer-colour-strength-myths',
+  fixed('reel-1-three-grapes', 'Wine · Level 1', true),
   'reel-beer-ale-vs-lager',
-  'wine-level3-short-answers',
   'wine-sherry-styles',
+  'reel-spirits-single-malt-scotch',
+  'spirits-tequila-vs-mezcal',
+  'wine-traditional-method',
+  'reel-wine-spanish-ageing-terms',
+  'sake-how-sake-is-brewed',
+  'wine-bordeaux-left-right-bank',
+  'wine-level3-short-answers',
 ];
 
 const B1 = 'social/instagram/batch-01';
 const grid = {
   cols: 4,
-  note: 'Newest first: batch 02 with the three corrected batch-01 items (14 feed posts), then the batch-01 posts that stay up (old carousel A and reel 1 removed). 4:5 tiles; reel covers centre-cropped. Badges show course and level; the coloured top line tells the course.',
+  note: 'Newest first: batch 02 with the three corrected batch-01 items (14 feed posts), then the 4 batch-01 posts that stay up (old A, Sancerre and reel 1 replaced; Neutral spirit and Pot still deleted). 4:5 tiles; reel covers centre-cropped. Badges show course and level; the coloured top line tells the course.',
   legend: [{ c: '#8c1d40', t: 'Wine' }, { c: '#9a5f1e', t: 'Spirits' }, { c: '#3b3f8f', t: 'Sake' }, { c: '#d4a23a', t: 'Beer' }],
   prev: [
-    { id: 'b-quiz-which-grape' }, { id: 'e-serving-temperatures' },
-    { id: 'c-pot-vs-column-still' }, { id: 'reel-2-neutral-spirit-96', reel: true }, { id: 'd-german-wine-label' }, { id: 'f-tasting-mistakes' },
+    { id: 'b-quiz-which-grape' }, { id: 'e-serving-temperatures' }, { id: 'd-german-wine-label' }, { id: 'f-tasting-mistakes' },
   ].map((x) => ({ ...x, dir: B1, label: 'batch 01' })),
 };
 

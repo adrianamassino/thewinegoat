@@ -4,7 +4,8 @@ Three batch-01 items rebuilt in the cream/burgundy site look with course and lev
 White-wine topics (Chardonnay, Sauvignon Blanc, Sancerre) now show only green-gold grapes and pale glasses; Pinot Noir shows red.
 Files: `posts/a-same-grape-two-wines/` (6 slides), `posts/sancerre-quiz/` (2 slides), `reels/reel-1-three-grapes.mp4` + `_cover.png`.
 Rebuild: `NODE_PATH=$(npm root -g) node tools/social/build.js batch-01-fixed` (content in `tools/social/batches/batch-01-fixed.js`).
-Posting dates are in `../batch-02/captions.md` (Tue 24 Nov, Thu 26 Nov, Tue 1 Dec). Archive or delete the old carousel A and reel 1 first; the Sancerre quiz was a story, so the old story needs no action.
+Posting dates are in `../batch-02/captions.md` (Sancerre Tue 24 Nov, Same grape Thu 26 Nov, reel 1 Sun 29 Nov). Archive or delete the old carousel A, the old Sancerre quiz and the old reel 1 first.
+Backgrounds: Sancerre quiz deep green (Wine course colour); Same grape and reel 1 cream.
 
 ---
 
@@ -48,7 +49,7 @@ Practise free on thewinegoat.com
 #wset #wset1 #wset2 #winestudent #winequiz #sancerre #loire #sauvignonblanc #frenchwine #sommelier #winelover #wineeducation
 
 **Alt text**
-Two-slide quiz carousel on a cream background with a burgundy "Wine · Level 1" badge and drawings of green-gold grapes and a glass of pale white wine. 1: "Sancerre is made from… A) Chardonnay B) Sauvignon Blanc". 2: Answer B, Sauvignon Blanc: from the cool Loire Valley, dry, high acidity, green apple and grassy, herbaceous notes; the label usually doesn't name the grape.
+Two-slide quiz carousel on a deep green background with a burgundy "Wine · Level 1" badge and drawings of green-gold grapes and a glass of pale white wine. 1: "Sancerre is made from… A) Chardonnay B) Sauvignon Blanc". 2: Answer B, Sauvignon Blanc: from the cool Loire Valley, dry, high acidity, green apple and grassy, herbaceous notes; the label usually doesn't name the grape.
 
 ---
 

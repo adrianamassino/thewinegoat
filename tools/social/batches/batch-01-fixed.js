@@ -13,7 +13,7 @@ const row = (...svgs) => `<div style="display:flex;gap:18px;align-items:flex-end
 
 const posts = [
   {
-    id: 'a-same-grape-two-wines', course: 'wine', level: 2, tpl: 'compare',
+    id: 'a-same-grape-two-wines', bg: 'cream', course: 'wine', level: 2, tpl: 'compare',
     slides: [
       { layout: 'cover', kicker: 'Climate 101',
         title: 'Same grape.<br><em>Two wines.</em>', titleSize: 116,
@@ -61,7 +61,7 @@ const posts = [
     ],
   },
   {
-    id: 'sancerre-quiz', course: 'wine', level: 1, tpl: 'flash',
+    id: 'sancerre-quiz', bg: 'course', course: 'wine', level: 1, tpl: 'flash',
     slides: [
       { layout: 'cover', kicker: 'Quick quiz · A or B?',
         title: 'Sancerre <em>is made from…</em>', titleSize: 96,
@@ -79,7 +79,7 @@ const posts = [
 
 const two = (a, b) => `<div style="display:flex;gap:24px;align-items:flex-end">${a}${b}</div>`;
 const reels = [
-  { id: 'reel-1-three-grapes', course: 'wine', level: 1,
+  { id: 'reel-1-three-grapes', bg: 'cream', course: 'wine', level: 1,
     cover: { t: 1.8 },
     scenes: [
       { start: 0, end: 2.6, kicker: 'Grape speed round', title: '3 grapes in <em>15 seconds</em>',

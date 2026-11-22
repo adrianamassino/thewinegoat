@@ -159,18 +159,29 @@ const B2 = {
   tbig: (n, h, p) => `<div class="tbig"><div class="n gt">${n}</div><div><h3>${h}</h3><p>${p}</p></div></div>`,
   ex: (label, t) => `<div class="ex"><b>${label}</b>${t}</div>`,
   wa: (weak, strong) => `<div class="wa"><div class="w weak"><h4>Weak answer</h4><p>${weak}</p></div><div class="w strong"><h4>Strong answer</h4><p>${strong}</p></div></div>`,
-  flow: (nodes) => `<div class="flow">${nodes.map((n, i) => `<div class="nd${n.hi ? ' hi' : ''}${n.opt ? ' opt' : ''}"><div class="dot">${n.n || i + 1}</div><div><b>${n.title}</b>${n.text ? `<span>${n.text}</span>` : ''}</div></div>`).join('')}</div>`,
+  flow: (nodes) => `<div class="flow">${nodes.map((n, i) => `<div class="nd${n.hi ? ' hi' : ''}${n.opt ? ' optn' : ''}"><div class="dot">${n.n || i + 1}</div><div><b>${n.title}</b>${n.text ? `<span>${n.text}</span>` : ''}</div></div>`).join('')}</div>`,
   par: (a, mid, b) => `<div class="par"><div class="box"><b>${a.b}</b><span>${a.t}</span></div><div class="mid">${mid}</div><div class="box"><b>${b.b}</b><span>${b.t}</span></div></div>`,
   card: (c) => `<div class="card2"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b>${c.sub ? `<i>${c.sub}</i>` : ''}</div><dl class="rowsx">${c.rows.map(([k, v]) => `<div class="rx"><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></div>`,
   minis: (cards) => `<div class="two">${cards.map((c) => `<div class="mini"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b></div><ul>${c.items.map((i) => `<li>${i}</li>`).join('')}</ul></div>`).join('')}</div>`,
   chip: (color) => `<span class="chip" style="background:${color}"></span>`,
 };
 
+// Background family: 'cream' (site look), 'burgundy' (deep burgundy, light text) or 'course'
+// (themed per course: wine deep green, spirits whisky brown, sake indigo, beer amber; light text).
+const BGS = ['cream', 'burgundy', 'course'];
+function bgClass(item) {
+  const b = item.bg || 'cream';
+  if (!BGS.includes(b)) throw new Error(`${item.id}: unknown bg ${b}`);
+  return b === 'course' ? item.course : b;
+}
+
 function feedSlide2(post, s, idx, total) {
   const last = idx === total;
   const isCover = s.layout === 'cover';
   const photo = isCover && s.photo;
-  const head = `<div class="accent"></div>${brand(false)}${isCover ? '' : badge(post)}`;
+  const bgc = bgClass(post);
+  const dk = bgc !== 'cream';
+  const head = `<div class="accent"></div>${brand(dk)}${isCover ? '' : badge(post)}`;
   const foot = `<div class="foot"><span>${HANDLE}</span><span class="rt"><span class="cnt">${idx} / ${total}</span>${last ? '<span>thewinegoat.com</span>' : '<span class="swipe">Swipe <i></i></span>'}</span></div>`;
   const tw = s.titleWidth ? `max-width:${s.titleWidth}px;` : '';
   const ts = s.titleSize ? `font-size:${s.titleSize}px;` : '';
@@ -201,7 +212,7 @@ function feedSlide2(post, s, idx, total) {
     </div>`;
   }
   const bg = photo ? `<div class="ph"><img src="${s.photo}" alt="" style="object-position:${s.photoPos || 'center'}"></div>` : '';
-  const cls = `cv feed v2 tpl-${s.tpl || post.tpl} c-${post.course}${isCover ? ' cover' : ''}`;
+  const cls = `cv feed v2 tpl-${s.tpl || post.tpl} c-${post.course} bg-${bgc}${dk ? ' dk' : ''}${isCover ? ' cover' : ''}`;
   return page(`<div class="${cls}" id="cv">${bg}${head}${goatTag2(post, s.goat)}${art(s.art)}${body}${foot}</div>`, { w: 1080, h: 1350 });
 }
 
@@ -227,4 +238,4 @@ function storyFrame2(st, s) {
   return page(cv, { w: 1080, h: 1920 });
 }
 
-module.exports = { B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };
+module.exports = { bgClass, B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };
