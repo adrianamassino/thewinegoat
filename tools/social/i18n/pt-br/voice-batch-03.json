@@ -1,0 +1,154 @@
+{
+ "voice": "kokoro pf_dora",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    3.3,
+    2.6,
+    3.5,
+    1.87,
+    2.09,
+    3.03,
+    3.01,
+    2.48
+   ],
+   "texts": [
+    "Três tintos. Qual é o mais leve, qual é o mais encorpado?",
+    "Comente sua ordem antes da resposta!",
+    "Leve parece delicado. Encorpado parece denso e rico.",
+    "Beaujolais: corpo leve.",
+    "Côtes du Rhône: corpo médio.",
+    "Cabernet Sauvignon da Califórnia: encorpado.",
+    "Então a cor não diz nada sobre o corpo: prove.",
+    "Agora assista de novo e cronometre."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    2.86,
+    2.44,
+    3.51,
+    2.92,
+    1.39,
+    4.32,
+    2.77
+   ],
+   "texts": [
+    "Você consegue dizer antes da pista 3?",
+    "Pista 1: aromática, acidez alta.",
+    "Pista 2: do seco ao doce. No Mosel, muitas vezes leve.",
+    "Pista 3: mel e petróleo com a guarda em garrafa.",
+    "Três… dois… um…",
+    "Riesling! Seco, refrescante e com aroma de limão em Clare e Eden Valley.",
+    "Assista de novo: você acerta na pista 1?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    2.72,
+    3.03,
+    2.78,
+    2.39,
+    3.1,
+    1.88,
+    4.2
+   ],
+   "texts": [
+    "Prova de degustação do Nível 3, taça 1…",
+    "Aí você lembra: limpidez, intensidade, cor.",
+    "Passe pelos grupos: fruta, floral, carvalho…",
+    "Depois ajuste com mais ou menos.",
+    "Uma faixa não é específica o bastante. Escolha uma.",
+    "Três de quatro? Muito bom.",
+    "Os mesmos passos em toda taça. Marque seu parceiro de degustação."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    1.92,
+    3.21,
+    1.93,
+    2.42,
+    1.86,
+    2.63,
+    2.28,
+    3.35
+   ],
+   "texts": [
+    "Quantas você já viu? Conte.",
+    "O perfume mascara o vinho e incomoda quem está do lado.",
+    "Comece com o paladar limpo.",
+    "A mesma dose pequena em toda taça.",
+    "Uma taça limpa, sempre.",
+    "A desidratação pode embotar o olfato.",
+    "No escuro não dá para avaliar a cor.",
+    "Mande para o amigo que vai de perfume às degustações."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    2.51,
+    2.6,
+    4.33,
+    4.43,
+    3.27,
+    3.21,
+    2.4
+   ],
+   "texts": [
+    "Dois destes vinhos brancos têm defeito.",
+    "Comente A, B ou C antes da resposta.",
+    "Tartaratos: inofensivos e sem sabor. O frio acelera a formação.",
+    "Costuma-se dizer que está “bouchonné”: principalmente por rolha contaminada.",
+    "Geralmente uma vedação que deixa o oxigênio entrar.",
+    "Só é defeito quando o vinho não deveria ter esse sabor.",
+    "Assista de novo: qual pista entregou?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.25,
+    2.75,
+    3.05,
+    4.46,
+    4.54,
+    3.08,
+    4.14,
+    3.45
+   ],
+   "texts": [
+    "O rótulo diz o lugar ou a uva?",
+    "Chablis é o nome do lugar. A uva é Chardonnay.",
+    "Fora da Europa, a uva costuma comandar o rótulo.",
+    "Rioja é o nome do lugar: geralmente um corte liderado pela Tempranillo.",
+    "O Bordeaux tinto costuma ser um corte de Cabernet Sauvignon e Merlot.",
+    "Os rótulos da Alsácia normalmente mostram a uva.",
+    "Aprenda os nomes famosos e você lê quase qualquer carta de vinhos.",
+    "Assista de novo e seja mais rápido que as respostas."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    1.98,
+    2.66,
+    3.55,
+    3.04,
+    1.39,
+    2.82,
+    2.58,
+    2.9
+   ],
+   "texts": [
+    "Diga antes da pista 3.",
+    "Pista 1: transparente, e nada de barril.",
+    "Pista 2: uma base neutra, aromatizada com botânicos.",
+    "Pista 3: bagas resinosas, com notas de pinho.",
+    "Três… dois… um…",
+    "Gin: o zimbro precisa ser o sabor principal.",
+    "London Dry Gin é um método, não um lugar.",
+    "Assista de novo: você acertaria na pista 1?"
+   ]
+  }
+ }
+}

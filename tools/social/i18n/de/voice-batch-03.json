@@ -1,0 +1,154 @@
+{
+ "voice": "piper de_DE-thorsten-high",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    3.7,
+    2.78,
+    2.62,
+    1.86,
+    1.88,
+    3.03,
+    3.33,
+    2.49
+   ],
+   "texts": [
+    "Drei Rotweine. Welcher ist der leichteste, welcher der vollste?",
+    "Kommentiere deine Reihenfolge vor der Auflösung!",
+    "Leicht wirkt zart. Voll wirkt dicht und reich.",
+    "Beaujolais: leichter Körper.",
+    "Côtes du Rhône: mittlerer Körper.",
+    "Cabernet Sauvignon aus Kalifornien: voller Körper.",
+    "Die Farbe verrät also nichts über den Körper: probier ihn.",
+    "Jetzt nochmal ansehen und die Zeit stoppen."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    1.85,
+    2.38,
+    3.59,
+    3.44,
+    1.28,
+    4.77,
+    2.82
+   ],
+   "texts": [
+    "Kannst du sie vor Hinweis 3 nennen?",
+    "Hinweis 1: aromatisch, hohe Säure.",
+    "Hinweis 2: trocken bis süß. An der Mosel oft leicht.",
+    "Hinweis 3: Honig und Petrol mit Flaschenreife.",
+    "Drei… zwei… eins…",
+    "Riesling! Im Clare und Eden Valley trocken, erfrischend und mit Limettenduft.",
+    "Nochmal ansehen: Schaffst du es bei Hinweis 1?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    2.82,
+    3.03,
+    2.5,
+    2.23,
+    2.75,
+    1.76,
+    3.45
+   ],
+   "texts": [
+    "Verkostungsprüfung Level 3, Glas 1…",
+    "Dann fällt es dir ein: Klarheit, Intensität, Farbe.",
+    "Geh die Gruppen durch: Frucht, Blüten, Holz…",
+    "Dann mit Plus oder Minus verfeinern.",
+    "Eine Spanne ist nicht genau genug. Entscheide dich.",
+    "Drei von vier? Sehr gut.",
+    "Gleiche Schritte, bei jedem Glas. Markiere deinen Verkostungsbuddy."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    2.46,
+    2.66,
+    1.86,
+    2.1,
+    1.84,
+    2.41,
+    2.64,
+    3.25
+   ],
+   "texts": [
+    "Wie viele hast du schon gesehen? Zähl mit.",
+    "Parfüm überdeckt den Wein und stört die Nachbarn.",
+    "Starte mit neutralem Gaumen.",
+    "In jedes Glas dieselbe kleine Menge.",
+    "Ein sauberes Glas, jedes Mal.",
+    "Dehydrierung kann den Geruchssinn abstumpfen.",
+    "Im Dunkeln lässt sich die Farbe nicht beurteilen.",
+    "Schick das an die Person, die parfümiert zur Weinprobe kommt."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    2.26,
+    3.07,
+    3.99,
+    2.55,
+    2.62,
+    3.06,
+    2.71
+   ],
+   "texts": [
+    "Zwei dieser Weißweine haben einen Fehler.",
+    "Kommentiere A, B oder C vor der Auflösung.",
+    "Weinstein: harmlos und geschmacksneutral. Kälte beschleunigt ihn.",
+    "Man sagt „der Wein korkt“: meist durch belasteten Kork.",
+    "Meist ein Verschluss, der Sauerstoff hereinlässt.",
+    "Ein Fehler ist es nur, wenn der Wein nicht so schmecken sollte.",
+    "Nochmal ansehen: Welcher Hinweis hat’s verraten?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.5,
+    2.98,
+    3.06,
+    3.62,
+    4.75,
+    3.05,
+    3.55,
+    3.04
+   ],
+   "texts": [
+    "Nennt das Etikett den Ort oder die Rebsorte?",
+    "Chablis nennt den Ort. Die Rebsorte ist Chardonnay.",
+    "Außerhalb Europas steht oft die Rebsorte vorne.",
+    "Rioja nennt den Ort: meist eine Cuvée mit Tempranillo als Hauptsorte.",
+    "Roter Bordeaux ist meist eine Cuvée aus Cabernet Sauvignon und Merlot.",
+    "Elsässer Etiketten nennen normalerweise die Rebsorte.",
+    "Lerne die berühmten Namen, und du verstehst fast jede Weinkarte.",
+    "Nochmal ansehen und schneller sein als die Pop-ups."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    1.57,
+    2.53,
+    4.41,
+    2.7,
+    1.28,
+    2.69,
+    2.66,
+    2.9
+   ],
+   "texts": [
+    "Nenn sie vor Hinweis 3.",
+    "Hinweis 1: klar, und keine Zeit im Fass.",
+    "Hinweis 2: eine neutrale Basis, mit Botanicals aromatisiert.",
+    "Hinweis 3: harzige Beeren, nach Kiefer.",
+    "Drei… zwei… eins…",
+    "Gin: Wacholder muss das dominierende Aroma sein.",
+    "London Dry Gin ist eine Methode, kein Ort.",
+    "Nochmal ansehen: Hättest du es bei Hinweis 1 gewusst?"
+   ]
+  }
+ }
+}

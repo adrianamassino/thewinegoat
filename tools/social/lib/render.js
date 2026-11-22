@@ -10,14 +10,21 @@ const LOGO = 'img/logo-emblem.webp';         // logo goat: ONLY as the small log
 const WM_DARK_BG = 'img/wordmark-light.webp'; // wordmark for plum backgrounds
 const WM_LIGHT_BG = 'img/wordmark.webp';      // wordmark for cream backgrounds
 const HANDLE = '@the.winegoat';
+// UI strings of the templates (English defaults). Localised builds (build.js --lang=xx) call setLang() with the
+// table from tools/social/i18n/ui.js; `head` is extra <head> markup (fonts with full Latin-ext/Cyrillic coverage).
+const UI = { lang: 'en', handle: HANDLE, head: '', swipe: 'Swipe', cta: 'Practise free on thewinegoat.com', mistake: 'Mistake',
+  myth: 'Myth', fact: 'Fact', weak: 'Weak answer', strong: 'Strong answer', photo: 'Photo', aOrB: 'A or B?',
+  vote: 'Vote, then tap for the answer', answer: 'The answer', watch: 'Watch', level: 'Level',
+  course: { wine: 'Wine', spirits: 'Spirits', sake: 'Sake', beer: 'Beer' } };
+function setLang(t) { Object.assign(UI, t); }
 
 // The logo goat must never be used as an illustration.
 const FORBIDDEN_GOATS = ['img/goats/hero.webp', 'img/logo-emblem.webp', 'img/logo.png', 'img/logo-full.webp'];
 
 function page(inner, { w, h, extraHead = '' }) {
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8">
+  return `<!doctype html><html lang="${UI.lang}"><head><meta charset="utf-8">
 <base href="file://${ROOT}/">
-<link rel="stylesheet" href="${CSS}">
+<link rel="stylesheet" href="${CSS}">${UI.head}
 <style>html,body{width:${w}px;height:${h}px;overflow:hidden}</style>${extraHead}
 </head><body>${inner}</body></html>`;
 }
@@ -32,7 +39,7 @@ const B = {
   note: (t) => `<div class="note">${t}</div>`,
   rows: (rows) => `<div class="rows">${rows.map((r) => `<div class="row"><div class="l"><b>${r.name}</b><span>${r.desc}</span></div><div class="v"><b>${r.c}</b><span>${r.f}</span></div></div>`).join('')}</div>`,
   ladder: (steps) => `<div class="ladder">${steps.map((s, i) => `<div class="step${s.hi ? ' hi' : ''}"><div class="n"${String(s.n || '').length > 2 ? ' style="font-size:25px"' : ''}>${s.n || i + 1}</div><div><b>${s.title}</b>${s.text ? `<span>${s.text}</span>` : ''}</div></div>`).join('')}</div>`,
-  mistakes: (ms) => `<div class="mist">${ms.map((m) => `<div class="mi"><div class="num">Mistake ${m.n}</div><div class="bad">${m.bad}</div><div class="fix">${m.fix}</div></div>`).join('')}</div>`,
+  mistakes: (ms) => `<div class="mist">${ms.map((m) => `<div class="mi"><div class="num">${UI.mistake} ${m.n}</div><div class="bad">${m.bad}</div><div class="fix">${m.fix}</div></div>`).join('')}</div>`,
   clues: (cl) => `<div class="clues">${cl.map((c) => `<span class="clue">${c}</span>`).join('')}</div>`,
   options: (opts, right) => `<div class="opts">${opts.map((o, i) => {
     const k = 'ABC'[i];
@@ -70,7 +77,7 @@ function feedSlide(s, idx, total) {
   const dark = s.theme === 'dark';
   const last = idx === total;
   const head = `${brand(dark)}<div class="count">${idx} / ${total}</div>`;
-  const foot = `<div class="foot"><span>${HANDLE}</span>${last ? '<span>thewinegoat.com</span>' : '<span class="swipe">Swipe <i></i></span>'}</div>`;
+  const foot = `<div class="foot"><span>${UI.handle}</span>${last ? '<span>thewinegoat.com</span>' : `<span class="swipe">${UI.swipe} <i></i></span>`}</div>`;
   let body = '';
   if (s.layout === 'cover') {
     body = `<div class="area" style="justify-content:flex-start;padding-top:40px">
@@ -84,7 +91,7 @@ function feedSlide(s, idx, total) {
       <h2 style="font-size:${s.titleSize || 84}px;max-width:${s.titleWidth || 900}px">${s.title}</h2>
       ${s.sub ? `<div class="sub" style="max-width:${s.subWidth || 560}px">${s.sub}</div>` : ''}
       ${s.html || ''}
-      <div><span class="cta-line">${s.cta || 'Practise free on thewinegoat.com'}</span></div>
+      <div><span class="cta-line">${s.cta || UI.cta}</span></div>
     </div>`;
   } else {
     body = `<div class="area">
@@ -104,15 +111,15 @@ function storyFrame(s) {
   let inner;
   if (s.kind === 'q') {
     inner = `<div class="st-area">
-      <div class="kicker">${s.kicker || 'A or B?'}</div>
+      <div class="kicker">${s.kicker || UI.aOrB}</div>
       <div class="st-q">${s.question}</div>
       ${B.options(s.options)}
-      <div class="st-hint" style="margin-top:34px">${s.hint || 'Vote, then tap for the answer'}</div>
+      <div class="st-hint" style="margin-top:34px">${s.hint || UI.vote}</div>
       <div class="sticker-space" data-role="sticker"></div>
     </div>`;
   } else {
     inner = `<div class="st-area">
-      <div class="kicker">${s.kicker || 'The answer'}</div>
+      <div class="kicker">${s.kicker || UI.answer}</div>
       <div class="st-big">${s.answer}</div>
       <div class="st-exp">${s.explain}</div>
       ${s.foot ? `<div class="st-hint" style="margin-top:40px">${s.foot}</div>` : ''}
@@ -133,7 +140,7 @@ function badgeText(post) {
   if (post.badge) return post.badge;
   if (!COURSE_NAME[post.course]) throw new Error(`${post.id}: unknown course ${post.course}`);
   if (!(post.level >= 1 && post.level <= MAX_LEVEL[post.course])) throw new Error(`${post.id}: level ${post.level} not valid for ${post.course}`);
-  return `${COURSE_NAME[post.course]} · Level ${post.level}`;
+  return UI.badge ? UI.badge(post.course, post.level) : `${UI.course[post.course]} · ${UI.level} ${post.level}`;
 }
 const badge = (post, lg) => `<div class="${lg ? 'badge-lg' : 'badge'}">${badgeText(post)}${post.levelNote ? ` <small>${post.levelNote}</small>` : ''}</div>`;
 // Wine imagery is forbidden on Spirits, Sake and Beer posts: only neutral goats there.
@@ -153,19 +160,19 @@ const B2 = {
   mapbox: (svg) => `<div class="mapbox">${svg}</div>`,
   legend: (items) => `<div class="legend">${items.map((l) => `<span><i style="background:${l.c}"></i>${l.t}</span>`).join('')}</div>`,
   pair: (cards) => `<div class="pair">${cards.map((c) => `<div class="pc"><h3>${c.title}</h3><div class="where">${c.where}</div><dl>${c.rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl></div>`).join('')}</div>`,
-  mf: (m) => `<div class="mf"><div class="m"><span class="lab">Myth</span><div class="t">${m.myth}</div></div><div class="f"><span class="lab">Fact</span><div class="t">${m.fact}</div>${m.why ? `<div class="w">${m.why}</div>` : ''}</div></div>`,
+  mf: (m) => `<div class="mf"><div class="m"><span class="lab">${UI.myth}</span><div class="t">${m.myth}</div></div><div class="f"><span class="lab">${UI.fact}</span><div class="t">${m.fact}</div>${m.why ? `<div class="w">${m.why}</div>` : ''}</div></div>`,
   scale: (items) => `<div class="scale">${items.map((i) => `<div><b>${i.v}</b><span>${i.t}</span></div>`).join('')}</div>`,
   vs2: (a, b, rows) => `<div class="vs2"><div class="hd">${a}</div><div class="hd b">${b}</div>${rows.map(([k, x, y]) => `<div class="cell"><small>${k}</small>${x}</div><div class="cell"><small>${k}</small>${y}</div>`).join('')}</div>`,
   tq: (t) => `<div class="tq">${t}</div><div class="tbar"></div>`,
   tbig: (n, h, p) => `<div class="tbig"><div class="n gt">${n}</div><div><h3>${h}</h3><p>${p}</p></div></div>`,
   ex: (label, t) => `<div class="ex"><b>${label}</b>${t}</div>`,
-  wa: (weak, strong) => `<div class="wa"><div class="w weak"><h4>Weak answer</h4><p>${weak}</p></div><div class="w strong"><h4>Strong answer</h4><p>${strong}</p></div></div>`,
+  wa: (weak, strong) => `<div class="wa"><div class="w weak"><h4>${UI.weak}</h4><p>${weak}</p></div><div class="w strong"><h4>${UI.strong}</h4><p>${strong}</p></div></div>`,
   flow: (nodes) => `<div class="flow">${nodes.map((n, i) => `<div class="nd${n.hi ? ' hi' : ''}${n.opt ? ' optn' : ''}"><div class="dot">${n.n || i + 1}</div><div><b>${n.title}</b>${n.text ? `<span>${n.text}</span>` : ''}</div></div>`).join('')}</div>`,
   par: (a, mid, b) => `<div class="par"><div class="box"><b>${a.b}</b><span>${a.t}</span></div><div class="mid">${mid}</div><div class="box"><b>${b.b}</b><span>${b.t}</span></div></div>`,
   card: (c) => `<div class="card2"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b>${c.sub ? `<i>${c.sub}</i>` : ''}</div><dl class="rowsx">${c.rows.map(([k, v]) => `<div class="rx"><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></div>`,
   minis: (cards) => `<div class="two">${cards.map((c) => `<div class="mini"><div class="band">${c.small ? `<small>${c.small}</small>` : ''}<b>${c.title}</b></div><ul>${c.items.map((i) => `<li>${i}</li>`).join('')}</ul></div>`).join('')}</div>`,
   // photo panel inside the content flow. p = { src, h, pos, cap, credit }
-  photo: (p) => `<figure class="phx" style="height:${p.h || 380}px"><img src="${p.src}" alt="" style="object-position:${p.pos || 'center'}">${p.cap ? `<figcaption>${p.cap}</figcaption>` : ''}${p.credit ? `<span class="phcr">Photo: ${p.credit}</span>` : ''}</figure>`,
+  photo: (p) => `<figure class="phx" style="height:${p.h || 380}px"><img src="${p.src}" alt="" style="object-position:${p.pos || 'center'}">${p.cap ? `<figcaption>${p.cap}</figcaption>` : ''}${p.credit ? `<span class="phcr">${UI.photo}: ${p.credit}</span>` : ''}</figure>`,
   chip: (color) => `<span class="chip" style="background:${color}"></span>`,
 };
 
@@ -188,7 +195,7 @@ function feedSlide2(post, s, idx, total) {
   const bgc = bgClass(post);
   const dk = bgc !== 'cream';
   const head = `<div class="accent"></div>${brand(dk)}${isCover ? '' : badge(post)}`;
-  const foot = `<div class="foot"><span>${HANDLE}</span><span class="rt"><span class="cnt">${idx} / ${total}</span>${last ? '<span>thewinegoat.com</span>' : '<span class="swipe">Swipe <i></i></span>'}</span></div>`;
+  const foot = `<div class="foot"><span>${UI.handle}</span><span class="rt"><span class="cnt">${idx} / ${total}</span>${last ? '<span>thewinegoat.com</span>' : `<span class="swipe">${UI.swipe} <i></i></span>`}</span></div>`;
   const tw = s.titleWidth ? `max-width:${s.titleWidth}px;` : '';
   const ts = s.titleSize ? `font-size:${s.titleSize}px;` : '';
   let body;
@@ -207,7 +214,7 @@ function feedSlide2(post, s, idx, total) {
       <h2 style="font-size:${s.titleSize || 82}px;max-width:${s.titleWidth || 900}px">${s.title}</h2>
       ${s.sub ? `<div class="sub" style="max-width:${s.subWidth || 600}px">${s.sub}</div>` : ''}
       ${s.html || ''}
-      <div><span class="cta-line">${s.cta || 'Practise free on thewinegoat.com'}</span></div>
+      <div><span class="cta-line">${s.cta || UI.cta}</span></div>
     </div>`;
   } else {
     body = `<div class="area" style="${ptop ? `top:${(s.photoH || 640) - 40}px;` : ''}${s.center ? 'justify-content:center;padding-bottom:40px;' : ''}">
@@ -217,7 +224,7 @@ function feedSlide2(post, s, idx, total) {
       ${s.html || ''}
     </div>`;
   }
-  const credit = photo && s.photoCredit ? `<div class="phcredit"${ptop ? ` style="top:${Math.round((s.photoH || 640) * 0.45)}px"` : ''}>Photo: ${s.photoCredit}</div>` : '';
+  const credit = photo && s.photoCredit ? `<div class="phcredit"${ptop ? ` style="top:${Math.round((s.photoH || 640) * 0.45)}px"` : ''}>${UI.photo}: ${s.photoCredit}</div>` : '';
   const bg = photo ? `<div class="ph${ptop ? ' top' : ''}"${ptop ? ` style="height:${s.photoH || 640}px"` : ''}><img src="${s.photo}" alt="" style="object-position:${s.photoPos || 'center'}"></div>${credit}` : '';
   const cls = `cv feed v2 tpl-${s.tpl || post.tpl} c-${post.course} bg-${bgc}${dk ? ' dk' : ''}${isCover ? ' cover' : ''}${photo ? (ptop ? ' phtop' : ' phfull') : ''}`;
   return page(`<div class="${cls}" id="cv">${bg}${head}${goatTag2(post, s.goat)}${art(s.art)}${body}${foot}</div>`, { w: 1080, h: 1350 });
@@ -247,7 +254,7 @@ function editorial(item, e, { w = 1080, h = 1350, idx = 1, total = 1 } = {}) {
     <div class="ed2-foot"><div class="ed2-brand"><img class="em" src="${LOGO}" alt=""><img class="wm" src="${WM_LIGHT_BG}" alt=""></div>${rule(260)}</div>
     ${total > 1 ? `<div class="ed2-count">${idx} / ${total}</div>` : ''}`;
   // reel covers (1080x1920): the 4:5 page sits in the centre, inside the profile-grid crop
-  const inner = h > 1350 ? `<div style="position:absolute;left:0;right:0;top:${(h - 1350) / 2}px;height:1350px">${body}${e.reelHint ? '<div class="ed2-hint">▶ Watch</div>' : ''}</div>` : body;
+  const inner = h > 1350 ? `<div style="position:absolute;left:0;right:0;top:${(h - 1350) / 2}px;height:1350px">${body}${e.reelHint ? `<div class="ed2-hint">▶ ${UI.watch}</div>` : ''}</div>` : body;
   return page(`<div class="cv v2 ed2 c-${item.course}" id="cv" style="width:${w}px;height:${h}px"><div class="accent"></div>${inner}</div>`, { w, h });
 }
 
@@ -260,7 +267,7 @@ function coverTile(item, c, { w = 1080, h = 1350, idx = 1, total = 1, reel = fal
   const off = reel ? (h - 1350) / 2 : 0; // grid crop: keep the shape inside the central 4:5 area
   const logo = `<div class="tl-logo"><img src="${LOGO}" alt=""></div>`;
   const bd = `<div class="tl-badge">${badgeText(item)}${item.levelNote ? ` <small>${item.levelNote}</small>` : ''}</div>`;
-  const hint = reel ? '<div class="tl-hint">▶ Watch</div>' : (total > 1 ? '<div class="tl-hint">Swipe <i></i></div>' : '');
+  const hint = reel ? `<div class="tl-hint">▶ ${UI.watch}</div>` : (total > 1 ? `<div class="tl-hint">${UI.swipe} <i></i></div>` : '');
   const photo = c.photo ? `<div class="tl-ph"><img src="${hires(c.photo)}" alt="" style="object-position:${c.pos || 'center'}"></div>` : '';
   const head = c.head ? `<div class="tl-head" style="font-size:${c.headSize || 86}px">${c.head}</div>` : '';
   const sub = c.sub ? `<div class="tl-sub">${c.sub}</div>` : '';
@@ -290,15 +297,15 @@ function storyFrame2(st, s) {
   let inner;
   if (s.kind === 'q') {
     inner = `<div class="st-area">
-      <div class="kicker">${s.kicker || 'A or B?'}</div>
+      <div class="kicker">${s.kicker || UI.aOrB}</div>
       <div class="st-q">${s.question}</div>
       ${B.options(s.options)}
-      <div class="st-hint" style="margin-top:34px">${s.hint || 'Vote, then tap for the answer'}</div>
+      <div class="st-hint" style="margin-top:34px">${s.hint || UI.vote}</div>
       <div class="sticker-space" data-role="sticker"></div>
     </div>`;
   } else {
     inner = `<div class="st-area">
-      <div class="kicker">${s.kicker || 'The answer'}</div>
+      <div class="kicker">${s.kicker || UI.answer}</div>
       <div class="st-big">${s.answer}</div>
       <div class="st-exp">${s.explain}</div>
       ${s.foot ? `<div class="st-hint" style="margin-top:40px">${s.foot}</div>` : ''}
@@ -308,4 +315,4 @@ function storyFrame2(st, s) {
   return page(cv, { w: 1080, h: 1920 });
 }
 
-module.exports = { editorial, coverTile, bgClass, B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };
+module.exports = { UI, setLang, editorial, coverTile, bgClass, B2, feedSlide2, storyFrame2, badgeText, NEUTRAL_GOATS, ROOT, page, esc, B, feedSlide, storyFrame, FORBIDDEN_GOATS, LOGO, WM_DARK_BG, WM_LIGHT_BG, HANDLE };

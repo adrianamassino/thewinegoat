@@ -1,0 +1,31 @@
+/* Fonts for the localised Instagram builds (build.js --lang=xx).
+   Same families as base.css (Fraunces / DM Sans / Roboto Condensed, static instances at the same optical size, opsz 14),
+   but with full Latin Extended coverage (Polish, Czech, Romanian…). Fraunces and DM Sans have no Cyrillic: Cyrillic
+   (and arrows) fall to Literata (serif) and Manrope (sans) through unicode-range, so Russian text never mixes in
+   system fallback fonts. Faces declared here come after base.css and win for the same family/weight/style. */
+@font-face{font-family:"Fraunces";font-weight:600;font-style:normal;src:url(../fonts/i18n/fraunces-600.woff2) format("woff2")}
+@font-face{font-family:"Fraunces";font-weight:600;font-style:italic;src:url(../fonts/i18n/fraunces-600i.woff2) format("woff2")}
+@font-face{font-family:"Fraunces";font-weight:800;font-style:normal;src:url(../fonts/i18n/fraunces-800.woff2) format("woff2")}
+@font-face{font-family:"Fraunces";font-weight:600;font-style:normal;src:url(../fonts/i18n/literata-600.woff2) format("woff2");unicode-range:U+0400-04FF,U+2190-2199}
+@font-face{font-family:"Fraunces";font-weight:600;font-style:italic;src:url(../fonts/i18n/literata-600i.woff2) format("woff2");unicode-range:U+0400-04FF,U+2190-2199}
+@font-face{font-family:"Fraunces";font-weight:800;font-style:normal;src:url(../fonts/i18n/literata-800.woff2) format("woff2");unicode-range:U+0400-04FF,U+2190-2199}
+@font-face{font-family:"Fraunces";font-weight:800;font-style:italic;src:url(../fonts/i18n/literata-600i.woff2) format("woff2");unicode-range:U+0400-04FF,U+2190-2199}
+@font-face{font-family:"DM Sans";font-weight:400;src:url(../fonts/i18n/dmsans-400.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:500;src:url(../fonts/i18n/dmsans-500.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:600;src:url(../fonts/i18n/dmsans-700.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:700;src:url(../fonts/i18n/dmsans-700.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:800;src:url(../fonts/i18n/dmsans-800.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-weight:400;src:url(../fonts/i18n/manrope-400.woff2) format("woff2");unicode-range:U+0400-04FF}
+@font-face{font-family:"DM Sans";font-weight:500;src:url(../fonts/i18n/manrope-500.woff2) format("woff2");unicode-range:U+0400-04FF}
+@font-face{font-family:"DM Sans";font-weight:600;src:url(../fonts/i18n/manrope-700.woff2) format("woff2");unicode-range:U+0400-04FF}
+@font-face{font-family:"DM Sans";font-weight:700;src:url(../fonts/i18n/manrope-700.woff2) format("woff2");unicode-range:U+0400-04FF}
+@font-face{font-family:"DM Sans";font-weight:800;src:url(../fonts/i18n/manrope-800.woff2) format("woff2");unicode-range:U+0400-04FF}
+@font-face{font-family:"TWG Condensed";font-weight:800;src:url(../fonts/i18n/robotocondensed-800.woff2) format("woff2")}
+@font-face{font-family:"TWG Condensed";font-weight:700;src:url(../fonts/i18n/robotocondensed-700.woff2) format("woff2")}
+/* hyphenation off (titles are balanced, not hyphenated); keep long words from overflowing narrow cards */
+.cv .card2 dd,.cv .cheat,.cv .mf,.cv .vs2 .cell{overflow-wrap:break-word}
+/* labels that wrap more often in translation: give two-line labels room */
+.mini .band small,.card2 .band small{display:block;line-height:1.3}
+.acts span{line-height:1.15}
+/* long CTAs wrap on the left instead of running under the art/goat on the right of the last slide */
+.cta-line{max-width:620px;border-radius:44px;text-wrap:balance}

@@ -1,0 +1,154 @@
+{
+ "voice": "kokoro ef_dora",
+ "lead": 0.25,
+ "reels": {
+  "reel-wine-rank-by-body": {
+   "durations": [
+    3.41,
+    2.53,
+    3.9,
+    1.74,
+    2.09,
+    2.98,
+    2.92,
+    2.49
+   ],
+   "texts": [
+    "Tres tintos. ¿Cuál es el más ligero y cuál el de más cuerpo?",
+    "¡Comenta tu orden antes de la respuesta!",
+    "Ligero se siente delicado. Con cuerpo se siente denso y rico.",
+    "Beaujolais: cuerpo ligero.",
+    "Côtes du Rhône: cuerpo medio.",
+    "Cabernet Sauvignon de California: mucho cuerpo.",
+    "Así que el color no dice nada del cuerpo: pruébalo.",
+    "Ahora míralo otra vez y cronométrate."
+   ]
+  },
+  "reel-wine-guess-the-grape": {
+   "durations": [
+    2.45,
+    2.54,
+    3.56,
+    3.16,
+    1.4,
+    4.01,
+    2.71
+   ],
+   "texts": [
+    "¿Puedes decirla antes de la pista 3?",
+    "Pista 1: aromática, acidez alta.",
+    "Pista 2: de seco a dulce. En el Mosela suele ser ligera.",
+    "Pista 3: miel y petróleo con la crianza en botella.",
+    "Tres… dos… uno…",
+    "¡Riesling! Seca, refrescante y con aroma a lima en Clare y Eden Valley.",
+    "Míralo otra vez: ¿la sacas en la pista 1?"
+   ]
+  },
+  "reel-wine-pov-blind-tasting": {
+   "durations": [
+    2.6,
+    3.09,
+    2.75,
+    2.09,
+    2.9,
+    1.75,
+    3.71
+   ],
+   "texts": [
+    "Examen de cata del Nivel 3, copa 1…",
+    "Luego te acuerdas: limpidez, intensidad, color.",
+    "Repasa las familias: fruta, flores, roble…",
+    "Luego afina con más o menos.",
+    "Un rango no es lo bastante preciso. Elige uno.",
+    "¿Tres de cuatro? Muy bueno.",
+    "Los mismos pasos en cada copa. Etiqueta a tu compi de cata."
+   ]
+  },
+  "reel-wine-red-flags-tasting": {
+   "durations": [
+    1.99,
+    3.01,
+    1.94,
+    2.62,
+    1.79,
+    2.54,
+    2.52,
+    2.73
+   ],
+   "texts": [
+    "¿Cuántas has visto? Cuéntalas.",
+    "El perfume tapa el vino y molesta a los de al lado.",
+    "Empieza con la boca limpia.",
+    "La misma pequeña cantidad en cada copa.",
+    "Una copa limpia, siempre.",
+    "La deshidratación puede apagar el olfato.",
+    "A oscuras no se puede juzgar el color.",
+    "Envíaselo a quien va perfumado a las catas."
+   ]
+  },
+  "reel-wine-spot-the-fault": {
+   "durations": [
+    2.64,
+    2.6,
+    4.33,
+    3.82,
+    2.86,
+    2.96,
+    2.27
+   ],
+   "texts": [
+    "Dos de estos vinos blancos tienen un defecto.",
+    "Comenta A, B o C antes de la respuesta.",
+    "Tartratos: inofensivos y sin sabor. El frío acelera su formación.",
+    "Se dice que «sabe a corcho»: sobre todo por un corcho contaminado.",
+    "Suele ser un cierre que deja entrar oxígeno.",
+    "Solo es un defecto si el vino no debía saber así.",
+    "Míralo otra vez: ¿qué pista te lo dio?"
+   ]
+  },
+  "reel-wine-place-or-grape": {
+   "durations": [
+    2.37,
+    2.75,
+    3.09,
+    4.26,
+    3.91,
+    3.26,
+    3.99,
+    2.92
+   ],
+   "texts": [
+    "¿La etiqueta nombra el lugar o la uva?",
+    "Chablis nombra el lugar. La uva es Chardonnay.",
+    "Fuera de Europa, la uva suele mandar en la etiqueta.",
+    "Rioja nombra el lugar: suele ser un coupage encabezado por Tempranillo.",
+    "El Burdeos tinto suele ser un coupage de Cabernet Sauvignon y Merlot.",
+    "Las etiquetas de Alsacia normalmente indican la uva.",
+    "Aprende los nombres famosos y leerás casi cualquier carta de vinos.",
+    "Míralo otra vez y gánales a las respuestas."
+   ]
+  },
+  "reel-spirits-guess-the-spirit": {
+   "durations": [
+    1.88,
+    2.65,
+    3.5,
+    2.98,
+    1.4,
+    2.9,
+    3.1,
+    2.88
+   ],
+   "texts": [
+    "Dilo antes de la pista 3.",
+    "Pista 1: transparente, y nada de barrica.",
+    "Pista 2: una base neutra, aromatizada con botánicos.",
+    "Pista 3: bayas resinosas, con notas de pino.",
+    "Tres… dos… uno…",
+    "Ginebra: el enebro debe ser el sabor dominante.",
+    "La London Dry Gin es un método, no un lugar.",
+    "Míralo otra vez: ¿lo sacabas en la pista 1?"
+   ]
+  }
+ }
+}

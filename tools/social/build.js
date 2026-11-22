@@ -11,6 +11,9 @@
  * - Output goes to the batch's `out` folder (e.g. social/instagram/batch-01/).
  * - Needs Playwright (Chromium) and ffmpeg (/usr/local/bin/ffmpeg or on PATH).
  * - --reels=id1,id2 rebuilds only those reels.
+ * - --lang=it (it, fr, de, ru, pl, es, es-ar, pt-br, nl) builds the localised batch: UI strings and fonts from
+ *   tools/social/i18n/ui.js, content from tools/social/i18n/<batch>.js + i18n/<lang>/<batch>.js, output in
+ *   social/instagram/<lang>/<batch>/ (voiceover: tools/social/i18n/voice.py, see tools/social/i18n/README.md).
  * - --safe draws the story/reel UI safe zones (top 250px, bottom 300px) for checking only.
  * To make a new batch: copy batches/batch-01.js, change id/out and the content, run the script.
  *
@@ -38,7 +41,9 @@ const only = onlyArg ? onlyArg.split(',') : ['posts', 'stories', 'reels', 'previ
 const SAFE = args.includes('--safe');
 const FFMPEG = fs.existsSync('/usr/local/bin/ffmpeg') ? '/usr/local/bin/ffmpeg' : 'ffmpeg';
 
-const batch = require(`./batches/${batchName}.js`);
+const LANG = (args.find((a) => a.startsWith('--lang=')) || '').slice(7);
+if (LANG) R.setLang(require('./i18n/ui.js')(LANG));
+const batch = LANG ? require('./i18n/load.js')(batchName, LANG) : require(`./batches/${batchName}.js`);
 const OUT = process.env.SOCIAL_OUT ? path.resolve(process.env.SOCIAL_OUT) : path.join(R.ROOT, batch.out);
 const TMP = fs.mkdtempSync(path.join(os.tmpdir(), 'twg-social-'));
 const warnings = [];
@@ -187,7 +192,7 @@ async function openReel(browser, reel) {
   const tpl = fs.readFileSync(path.join(__dirname, 'templates', batch.reelTemplate || 'reel.html'), 'utf8');
   const { clips, ...rest } = reel;
   const data = batch.v2 ? { ...rest, badge: R.badgeText(reel), bgc: R.bgClass(reel) } : rest;
-  const html = safeOverlay(tpl.replace('<!--BASE-->', `<base href="file://${R.ROOT}/"><script>window.REEL=${JSON.stringify(data)};</script>`));
+  const html = safeOverlay(tpl.replace('<html lang="en">', `<html lang="${R.UI.lang}">`).replace('<!--BASE-->', `<base href="file://${R.ROOT}/">${R.UI.head}<script>window.REEL=${JSON.stringify(data)};</script>`));
   const page = await open(browser, html, 1080, 1920);
   await page.evaluate(() => window.reelReady);
   return page;
@@ -344,7 +349,7 @@ h3{font:800 24px/1 var(--sans);color:var(--plum);margin:26px 0 12px;letter-spaci
 .r{display:flex;gap:14px;flex-wrap:wrap}figure{display:flex;flex-direction:column;align-items:center}
 img.f{width:240px;height:300px;border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,.18)}img.t{width:180px;height:320px;border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,.18)}
 figcaption{font:600 16px/1 var(--sans);color:var(--muted);margin-top:6px}</style></head>
-<body><h1>@the.winegoat · ${batch.id}</h1><p class="m">Contact sheet for review: carousels (1080×1350), stories (1080×1920), reels (cover + one frame per scene).</p>${sec.join('')}</body></html>`;
+<body><h1>${R.UI.handle} · ${batch.id}${LANG ? ` · ${LANG}` : ''}</h1><p class="m">Contact sheet for review: carousels (1080×1350), stories (1080×1920), reels (cover + one frame per scene).</p>${sec.join('')}</body></html>`;
   const page = await open(browser, html, 1900, 1000);
   const sheet = batch.grid || batch.coverGrid ? 'contact-sheet.png' : 'preview.png';
   await page.screenshot({ path: path.join(OUT, sheet), fullPage: true });
@@ -403,7 +408,7 @@ h1{font:800 40px/1 var(--serif);color:#6e1532;margin-bottom:8px}p.m{color:#5c4a5
 .t .rl{position:absolute;right:10px;top:10px;background:rgba(0,0,0,.55);color:#fff;font:700 15px/1 var(--sans);padding:6px 9px;border-radius:8px}.t .rl.c{font-size:18px;padding:4px 8px}.t .rl.pn{background:#d4a23a;color:#2a1b20}
 .t .lb{position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.92);color:#2a1b20;font:800 11px/1 var(--sans);letter-spacing:.05em;text-transform:uppercase;padding:5px 6px;border-radius:6px}
 .sep{grid-column:1/-1;font:800 16px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:#5c4a50;padding:14px 4px 8px}</style></head>
-<body><h1>@the.winegoat · profile grid preview</h1><p class="m">${batch.grid.note}</p><div class="lg">${legend}</div>
+<body><h1>${R.UI.handle} · profile grid preview</h1><p class="m">${batch.grid.note}</p><div class="lg">${legend}</div>
 <div class="g">${mine.map(tile).join('')}${prev.map(tile).join('')}</div></body></html>`;
   const page = await open(browser, html, 1000, 1000);
   await page.screenshot({ path: path.join(OUT, 'preview.png'), fullPage: true });
