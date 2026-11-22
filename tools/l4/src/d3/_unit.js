@@ -6,7 +6,8 @@ module.exports = {
   w: 50,
   exam: { minutes: 120, q: 4, papers: [{ minutes: 120, q: 4 }, { minutes: 80, q: 3 }, { minutes: 90, q: 0, tasting: 6 }, { minutes: 90, q: 0, tasting: 6 }] },
   todo: [
-    ["Spagna", "Espagne", "Spain", "España"], ["Portogallo", "Portugal", "Portugal", "Portugal"],
+    ["Spagna: Rioja, Navarra e Aragona", "Espagne : Rioja, Navarre et Aragon", "Spain: Rioja, Navarra and Aragon", "España: Rioja, Navarra y Aragón"],
+    ["Spagna: Catalogna, Levante e centro-sud", "Espagne : Catalogne, Levant et centre-sud", "Spain: Catalunya, the Levante and the centre-south", "España: Cataluña, Levante y centro-sur"], ["Portogallo", "Portugal", "Portugal", "Portugal"],
     ["Germania", "Allemagne", "Germany", "Alemania"], ["Austria", "Autriche", "Austria", "Austria"],
     ["Tokaj, Grecia e resto d'Europa", "Tokaj, Grèce et reste de l'Europe", "Tokaj, Greece and the rest of Europe", "Tokaj, Grecia y resto de Europa"],
     ["Stati Uniti e Canada", "États-Unis et Canada", "USA and Canada", "Estados Unidos y Canadá"],
